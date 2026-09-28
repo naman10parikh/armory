@@ -1,0 +1,7 @@
+{
+  "name": "emeritus-mcp-server",
+  "description": "MCP server for integrating AI models with Emeritus services, enabling user management, tag operations, order management, and leads import via a standardized interface.",
+  "source_repo": "Emeritus-China/emeritus-mcp",
+  "source_url": "https://github.com/Emeritus-China/emeritus-mcp",
+  "install": "npx -y emeritus-mcp"
+}

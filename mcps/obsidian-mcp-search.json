@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-mcp-search",
+  "description": "Self-hosted MCP server that provides embedding-powered semantic search with graph context over Obsidian vaults, supporting multiple vaults, local embeddings, and a web dashboard.",
+  "source_repo": "KORThomasJeong/obsidian-mcp-search",
+  "source_url": "https://github.com/KORThomasJeong/obsidian-mcp-search",
+  "install": "# git clone --depth 1 https://github.com/KORThomasJeong/obsidian-mcp-search\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "office-powerpoint-mcp-server",
+  "description": "A comprehensive MCP server for PowerPoint manipulation using python-pptx, providing 32 tools organized into 11 modules for creation, management, and professional design.",
+  "source_repo": "fastmcp-me/office-powerpoint-mcp-server",
+  "source_url": "https://github.com/fastmcp-me/office-powerpoint-mcp-server",
+  "install": "npx -y office-powerpoint-mcp-server"
+}

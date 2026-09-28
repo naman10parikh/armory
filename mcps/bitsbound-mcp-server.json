@@ -1,0 +1,7 @@
+{
+  "name": "bitsbound-mcp-server",
+  "description": "Enables AI-powered contract analysis with partner-level redlines and real OOXML Track Changes for Claude Desktop and Claude.ai.",
+  "source_repo": "BitsBound/bitsbound-mcp-server",
+  "source_url": "https://github.com/BitsBound/bitsbound-mcp-server",
+  "install": "npx -y bitsbound-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "docrag-mcp",
+  "description": "Enables Claude to query a local, persistent RAG index over markdown folder trees, exposing the same index used by the docrag CLI for on-device, network-free search and retrieval of document chunks via Ollama embeddings.",
+  "source_repo": "jimpark/docrag",
+  "source_url": "https://github.com/jimpark/docrag",
+  "install": "# git clone --depth 1 https://github.com/jimpark/docrag\n# See source for mcpServers config block"
+}

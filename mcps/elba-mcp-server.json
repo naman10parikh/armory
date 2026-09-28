@@ -1,0 +1,7 @@
+{
+  "name": "elba-mcp-server",
+  "description": "Manage voice AI agents from Claude Code, Cursor, VS Code, or any MCP-compatible assistant.",
+  "source_repo": "Kolsetu-Opensource/elba-mcp-server",
+  "source_url": "https://github.com/Kolsetu-Opensource/elba-mcp-server",
+  "install": "npx -y elba-mcp-server"
+}

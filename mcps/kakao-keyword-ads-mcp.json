@@ -1,0 +1,7 @@
+{
+  "name": "kakao-keyword-ads-mcp",
+  "description": "Enables querying and analysis of Kakao Keyword Ads data, including campaigns, ad groups, keywords, and performance reports. Supports 21 read-only tools and 2 resources for accessing ad account information and metrics.",
+  "source_repo": "PlatAid/kakao-keywordad-mcp",
+  "source_url": "https://github.com/PlatAid/kakao-keywordad-mcp",
+  "install": "npx -y kakao-keywordad-mcp"
+}

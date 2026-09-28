@@ -1,0 +1,7 @@
+{
+  "name": "positivo-pcuirn-mcp-server",
+  "description": "Enables control of TV and air conditioner through natural language commands via Cursor or Claude Desktop.",
+  "source_repo": "gabriellhuver/unofficial-positivo-pcuirn",
+  "source_url": "https://github.com/gabriellhuver/unofficial-positivo-pcuirn",
+  "install": "# git clone --depth 1 https://github.com/gabriellhuver/unofficial-positivo-pcuirn\n# See source for mcpServers config block"
+}

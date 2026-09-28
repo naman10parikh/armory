@@ -1,0 +1,7 @@
+{
+  "name": "ocp-ai-custom-hr-mcp-server",
+  "description": "An MCP server for interacting with an HR database, enabling querying employee data and HR operations via natural language.",
+  "source_repo": "osa-ora/ocp-ai-custom-mcp-demo",
+  "source_url": "https://github.com/osa-ora/ocp-ai-custom-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/osa-ora/ocp-ai-custom-mcp-demo\n# See source for mcpServers config block"
+}

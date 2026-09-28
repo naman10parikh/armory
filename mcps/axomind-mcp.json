@@ -1,0 +1,7 @@
+{
+  "name": "axomind-mcp",
+  "description": "MCP server for Axomind — enables AI assistants to manage activities, mindmaps, and messages through a harmless proxy to the Bot API.",
+  "source_repo": "Sebastien-VZN/axomind-mcp",
+  "source_url": "https://github.com/Sebastien-VZN/axomind-mcp",
+  "install": "npx -y axomind-mcp"
+}

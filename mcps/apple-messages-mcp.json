@@ -1,0 +1,7 @@
+{
+  "name": "apple-messages-mcp",
+  "description": "Enables Claude on macOS to read, search, and send iMessage, SMS, and RCS messages, with tools for stats, chat history, attachments, and message composition.",
+  "source_repo": "falconbradley/claude-connector-apple-messages",
+  "source_url": "https://github.com/falconbradley/claude-connector-apple-messages",
+  "install": "# git clone --depth 1 https://github.com/falconbradley/claude-connector-apple-messages\n# See source for mcpServers config block"
+}

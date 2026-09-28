@@ -1,0 +1,7 @@
+{
+  "name": "local-ai-gen",
+  "description": "Local AI generation for images, audio, speech, and 3D models using open source models.",
+  "source_repo": "davidemodolo/local-asset-gen-mcp",
+  "source_url": "https://github.com/davidemodolo/local-asset-gen-mcp",
+  "install": "npx -y local-asset-gen-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-texas",
+  "description": "Enables searching and querying Texas open data from data.texas.gov via the Socrata SoQL API, supporting dataset discovery, filtering, and metadata retrieval without an API key.",
+  "source_repo": "pipeworx-io/mcp-data-texas",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-texas",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-texas\n# See source for mcpServers config block"
+}

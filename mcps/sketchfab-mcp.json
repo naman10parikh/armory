@@ -1,0 +1,7 @@
+{
+  "name": "sketchfab-mcp",
+  "description": "Search and download 3D models from Sketchfab using the Sketchfab API.",
+  "source_repo": "fastmcp-me/sketchfab_mcp",
+  "source_url": "https://github.com/fastmcp-me/sketchfab_mcp",
+  "install": "npx -y sketchfab_mcp"
+}

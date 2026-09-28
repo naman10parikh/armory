@@ -1,0 +1,7 @@
+{
+  "name": "symkit",
+  "description": "MCP server for symbolic computation that enables AI agents to perform step-by-step derivations, transform formulas, and verify results with full provenance, combining natural language with formal mathematical operations.",
+  "source_repo": "LBurny/symkit-mcp",
+  "source_url": "https://github.com/LBurny/symkit-mcp",
+  "install": "npx -y symkit-mcp"
+}

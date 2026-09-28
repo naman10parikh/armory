@@ -1,0 +1,7 @@
+{
+  "name": "smartmcp",
+  "description": "Intelligent MCP proxy server that reduces context bloat by serving only the tools your AI actually needs through semantic search and a fixed two-tool surface.",
+  "source_repo": "spak2005/smart-mcp",
+  "source_url": "https://github.com/spak2005/smart-mcp",
+  "install": "npx -y smart-mcp"
+}

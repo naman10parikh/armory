@@ -1,0 +1,7 @@
+{
+  "name": "livekit-agent-simulator",
+  "description": "Dials any LiveKit voice agent with an AI simulated caller and records a full forensic behavior log.",
+  "source_repo": "qdang46/livekit-agent-simulator",
+  "source_url": "https://github.com/qdang46/livekit-agent-simulator",
+  "install": "# git clone --depth 1 https://github.com/qdang46/livekit-agent-simulator\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-telegrammer",
+  "description": "Enables Claude Code to act as an autonomous Telegram agent with tools for replying, reacting, editing messages, searching history, and handling attachments. Includes a TUI watchdog for unattended operation.",
+  "source_repo": "ywatanabe1989/claude-code-telegrammer",
+  "source_url": "https://github.com/ywatanabe1989/claude-code-telegrammer",
+  "install": "# git clone --depth 1 https://github.com/ywatanabe1989/claude-code-telegrammer\n# See source for mcpServers config block"
+}

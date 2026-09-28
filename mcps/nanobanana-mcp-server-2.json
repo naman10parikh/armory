@@ -1,0 +1,7 @@
+{
+  "name": "nanobanana-mcp-server-2",
+  "description": "An MCP server that provides AI image generation using Google Gemini models with intelligent model selection, aspect ratio control, and support for high-quality outputs up to 4K.",
+  "source_repo": "zzgael/nanobanana-mcp-server",
+  "source_url": "https://github.com/zzgael/nanobanana-mcp-server",
+  "install": "npx -y nanobanana-mcp-server"
+}

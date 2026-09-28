@@ -1,0 +1,7 @@
+{
+  "name": "chrome-cookies-mcp",
+  "description": "An MCP server that reads decrypted cookies from a running Chrome instance via the Chrome DevTools Protocol, returning them in various formats.",
+  "source_repo": "k-l-lambda/chrome-cookies-mcp",
+  "source_url": "https://github.com/k-l-lambda/chrome-cookies-mcp",
+  "install": "npx -y chrome-cookies-mcp"
+}

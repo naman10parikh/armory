@@ -1,0 +1,7 @@
+{
+  "name": "ai-mcp-terminal",
+  "description": "Multi-threaded terminal management MCP server for AI assistants, enabling async command execution, batch operations, and real-time web monitoring with up to 100 concurrent terminals.",
+  "source_repo": "kanniganfan/ai-mcp-terminal",
+  "source_url": "https://github.com/kanniganfan/ai-mcp-terminal",
+  "install": "# git clone --depth 1 https://github.com/kanniganfan/ai-mcp-terminal\n# See source for mcpServers config block"
+}

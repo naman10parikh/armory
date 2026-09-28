@@ -1,0 +1,7 @@
+{
+  "name": "dis-claude",
+  "description": "Connects Discord to Claude Code, turning forum threads into interactive sessions. Supports approvals, live progress, slash commands, and terminal access.",
+  "source_repo": "0rnot/dis-claude",
+  "source_url": "https://github.com/0rnot/dis-claude",
+  "install": "# git clone --depth 1 https://github.com/0rnot/dis-claude\n# See source for mcpServers config block"
+}

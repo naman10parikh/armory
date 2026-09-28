@@ -1,0 +1,7 @@
+{
+  "name": "novacortex-mcp-server",
+  "description": "Enables AI agents to store, search, and relate typed memories with a graph-native knowledge base via the Model Context Protocol.",
+  "source_repo": "Nova-Cognitive-Systems/novacortex",
+  "source_url": "https://github.com/Nova-Cognitive-Systems/novacortex",
+  "install": "# git clone --depth 1 https://github.com/Nova-Cognitive-Systems/novacortex\n# See source for mcpServers config block"
+}

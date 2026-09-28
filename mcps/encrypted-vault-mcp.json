@@ -1,0 +1,7 @@
+{
+  "name": "encrypted-vault-mcp",
+  "description": "Local-first encrypted key-value vault for securely storing and retrieving secrets like API keys using AES-GCM 256-bit encryption and a PIN.",
+  "source_repo": "KhushalB25/encrypted-vault-mcp",
+  "source_url": "https://github.com/KhushalB25/encrypted-vault-mcp",
+  "install": "npx -y encrypted-vault-mcp"
+}

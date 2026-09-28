@@ -1,0 +1,7 @@
+{
+  "name": "ssh-mcp-server-2",
+  "description": "Enables AI assistants to execute SSH commands and perform token-efficient file operations on remote servers via the Model Context Protocol.",
+  "source_repo": "idletoaster/ssh-mcp-server",
+  "source_url": "https://github.com/idletoaster/ssh-mcp-server",
+  "install": "npx -y ssh-mcp-server"
+}

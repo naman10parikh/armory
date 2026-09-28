@@ -1,0 +1,7 @@
+{
+  "name": "comfyui-loop-mcp",
+  "description": "A loop-aware MCP server for your own ComfyUI that enforces a build-run-look-critique-fix cycle, making the model iterate on pixel quality until the output matches the brief.",
+  "source_repo": "huikku/comfyui-loop-mcp",
+  "source_url": "https://github.com/huikku/comfyui-loop-mcp",
+  "install": "npx -y comfyui-loop-mcp"
+}

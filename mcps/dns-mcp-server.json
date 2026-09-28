@@ -1,0 +1,7 @@
+{
+  "name": "dns-mcp-server",
+  "description": "A comprehensive DNS query server that enables querying all types of DNS records, including A, AAAA, MX, TXT, NS, CNAME, SOA, PTR, SRV, CAA, and DNSSEC checks, as well as advanced tools like WHOIS-style lookup and DNS delegation tracing.",
+  "source_repo": "stanibaj/dns-mcp-server",
+  "source_url": "https://github.com/stanibaj/dns-mcp-server",
+  "install": "npx -y dns-mcp-server"
+}

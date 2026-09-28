@@ -1,0 +1,7 @@
+{
+  "name": "shell-use",
+  "description": "Enables agents to interact with CLI applications like vim, htop, and gdb by sending key inputs and capturing terminal output through tmux sessions.",
+  "source_repo": "kyuheon-kr/shell-use",
+  "source_url": "https://github.com/kyuheon-kr/shell-use",
+  "install": "# git clone --depth 1 https://github.com/kyuheon-kr/shell-use\n# See source for mcpServers config block"
+}

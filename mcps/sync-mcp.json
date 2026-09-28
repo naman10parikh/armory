@@ -1,0 +1,7 @@
+{
+  "name": "sync-mcp",
+  "description": "Enables retrieval and cleaning of official documentation for AI/Python libraries using search and LLM-based HTML cleaning.",
+  "source_repo": "KrishRamani2/Sync_MCP",
+  "source_url": "https://github.com/KrishRamani2/Sync_MCP",
+  "install": "npx -y Sync_MCP"
+}

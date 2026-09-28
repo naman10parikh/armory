@@ -1,0 +1,7 @@
+{
+  "name": "agentpay-feed-mcp",
+  "description": "Real-time agentic newsfeed for AI agents to poll for new MCP tools, capabilities, and market events as they're published.",
+  "source_repo": "Rumblingb/agentpay-feed-mcp",
+  "source_url": "https://github.com/Rumblingb/agentpay-feed-mcp",
+  "install": "npx -y agentpay-feed-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "climbing-grade-converter-mcp-server",
+  "description": "Enables LLMs to accurately convert climbing grades across different rating systems using a data-driven approach.",
+  "source_repo": "yychentw/free-climbing-grade-converter-mcp",
+  "source_url": "https://github.com/yychentw/free-climbing-grade-converter-mcp",
+  "install": "npx -y free-climbing-grade-converter-mcp"
+}

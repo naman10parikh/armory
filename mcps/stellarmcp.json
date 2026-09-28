@@ -1,0 +1,7 @@
+{
+  "name": "stellarmcp",
+  "description": "MCP server for Stellar: accounts, payments, XDR, Horizon/Soroban RPC, AMM liquidity, SEP anchors, and Soroban operations. Intended for agents and IDE integrations with strict validation and normalized errors.",
+  "source_repo": "JulioMCruz/Stellar-mcp",
+  "source_url": "https://github.com/JulioMCruz/Stellar-mcp",
+  "install": "npx -y Stellar-mcp"
+}

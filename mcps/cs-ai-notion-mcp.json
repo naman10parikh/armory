@@ -1,0 +1,7 @@
+{
+  "name": "cs-ai-notion-mcp",
+  "description": "Provides full CRUD capabilities over Notion pages, databases, and content blocks, enabling natural language search, creation, and modification of Notion data.",
+  "source_repo": "trilogy-group/cs-ai-notion-mcp",
+  "source_url": "https://github.com/trilogy-group/cs-ai-notion-mcp",
+  "install": "npx -y cs-ai-notion-mcp"
+}

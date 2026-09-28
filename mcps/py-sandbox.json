@@ -1,0 +1,7 @@
+{
+  "name": "py-sandbox",
+  "description": "Enables AI agents to execute arbitrary Python code securely in a sandboxed environment with resource limits and security constraints via MCP protocol.",
+  "source_repo": "LostSyscall/pysandbox",
+  "source_url": "https://github.com/LostSyscall/pysandbox",
+  "install": "# git clone --depth 1 https://github.com/LostSyscall/pysandbox\n# See source for mcpServers config block"
+}

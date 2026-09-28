@@ -1,0 +1,7 @@
+{
+  "name": "openstack-mcp",
+  "description": "Enables AI clients to manage OpenStack clouds through tools for compute, network, storage, image, and identity operations.",
+  "source_repo": "Anthonyhudnall92/openstack-mcp",
+  "source_url": "https://github.com/Anthonyhudnall92/openstack-mcp",
+  "install": "npx -y openstack-mcp"
+}

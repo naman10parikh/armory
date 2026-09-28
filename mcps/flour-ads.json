@@ -1,0 +1,7 @@
+{
+  "name": "flour-ads",
+  "description": "MCP server for managing ad campaigns across Google Ads, Meta, and more. Enables deploying campaigns, checking performance, and managing budgets from terminal or AI assistants.",
+  "source_repo": "Wayy-Research/flour-ads",
+  "source_url": "https://github.com/Wayy-Research/flour-ads",
+  "install": "# git clone --depth 1 https://github.com/Wayy-Research/flour-ads\n# See source for mcpServers config block"
+}

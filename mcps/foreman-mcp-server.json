@@ -1,0 +1,7 @@
+{
+  "name": "foreman-mcp-server",
+  "description": "MCP server for managing Foreman hosts and infrastructure. Enables listing, searching, and getting detailed information about hosts, organizations, locations, subnets, domains, and more via natural language.",
+  "source_repo": "InfraMCP/foreman-mcp-server",
+  "source_url": "https://github.com/InfraMCP/foreman-mcp-server",
+  "install": "npx -y foreman-mcp-server"
+}

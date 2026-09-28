@@ -1,0 +1,7 @@
+{
+  "name": "cybersec-mcp",
+  "description": "Enables Claude or any MCP-compatible client to execute cybersecurity workflows like incident response, cloud audits, and pentests by calling tools with 323 prompts across 8 categories.",
+  "source_repo": "xu-c0/cybersec-mcp",
+  "source_url": "https://github.com/xu-c0/cybersec-mcp",
+  "install": "npx -y cybersec-mcp"
+}

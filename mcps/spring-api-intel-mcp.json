@@ -1,0 +1,7 @@
+{
+  "name": "spring-api-intel-mcp",
+  "description": "Enables AI assistants to understand and analyze Spring Boot codebases through static analysis, allowing natural language queries about endpoints, classes, dependencies, and architecture without running the application.",
+  "source_repo": "mparth14/spring-api-intel-mcp",
+  "source_url": "https://github.com/mparth14/spring-api-intel-mcp",
+  "install": "npx -y spring-api-intel-mcp"
+}

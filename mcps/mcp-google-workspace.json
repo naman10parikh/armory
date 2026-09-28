@@ -1,0 +1,7 @@
+{
+  "name": "mcp-google-workspace",
+  "description": "MCP server integrating multiple Google Workspace services including Gmail, Calendar, Drive, Sheets, Docs, Tasks, People, Forms, and Slides, enabling users to manage emails, events, files, documents, and more through natural language.",
+  "source_repo": "guinacio/mcp-google-workspace",
+  "source_url": "https://github.com/guinacio/mcp-google-workspace",
+  "install": "# git clone --depth 1 https://github.com/guinacio/mcp-google-workspace\n# See source for mcpServers config block"
+}

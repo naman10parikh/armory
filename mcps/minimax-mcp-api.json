@@ -1,0 +1,7 @@
+{
+  "name": "minimax-mcp-api",
+  "description": "MCP server that wraps MiniMax platform APIs (speech, video, image, music, and file management) as tools over stdio, enabling natural language interaction with MiniMax's AI services.",
+  "source_repo": "ianrey258/minimax-mcp-api",
+  "source_url": "https://github.com/ianrey258/minimax-mcp-api",
+  "install": "# git clone --depth 1 https://github.com/ianrey258/minimax-mcp-api\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cardossier-mcp-server",
+  "description": "An MCP server that gives AI assistants real-time access to Polish used car market data via the CarDossier Market API, enabling queries on valuations, price history, liquidity, and regional prices.",
+  "source_repo": "Joyall-au/cardossier-mcp-server",
+  "source_url": "https://github.com/Joyall-au/cardossier-mcp-server",
+  "install": "npx -y cardossier-mcp-server"
+}

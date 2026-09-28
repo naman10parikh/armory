@@ -1,0 +1,7 @@
+{
+  "name": "sebi-compliance-mcp-system",
+  "description": "A deterministic regulatory compliance evaluation system for SEBI Research Analyst regulations, exposing MCP tools to check compliance, get applicable rules, and retrieve audit logs.",
+  "source_repo": "53rao/SEBI-Research-Analyst-Compliance-MCP",
+  "source_url": "https://github.com/53rao/SEBI-Research-Analyst-Compliance-MCP",
+  "install": "npx -y SEBI-Research-Analyst-Compliance-MCP"
+}

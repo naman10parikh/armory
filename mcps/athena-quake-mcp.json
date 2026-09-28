@@ -1,0 +1,7 @@
+{
+  "name": "athena-quake-mcp",
+  "description": "Enables users to explore live earthquake data from USGS, with an interactive widget for filtering and visualizing seismic events worldwide.",
+  "source_repo": "zordhalo/athena-quake-mcp",
+  "source_url": "https://github.com/zordhalo/athena-quake-mcp",
+  "install": "npx -y athena-quake-mcp"
+}

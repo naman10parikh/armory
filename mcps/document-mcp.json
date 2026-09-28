@@ -1,0 +1,7 @@
+{
+  "name": "document-mcp",
+  "description": "An MCP server that exposes documents.js's document conversion, .odb, metadata, and font tooling as MCP tools, enabling agents to convert, inspect, and edit a wide range of document formats over stdio.",
+  "source_repo": "ExaDev/document-mcp",
+  "source_url": "https://github.com/ExaDev/document-mcp",
+  "install": "npx -y document-mcp"
+}

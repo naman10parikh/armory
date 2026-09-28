@@ -1,0 +1,7 @@
+{
+  "name": "bell",
+  "description": "Provides a notify_done tool for Claude Desktop to trigger desktop popup notifications when tasks complete.",
+  "source_repo": "YongyangFu/bell",
+  "source_url": "https://github.com/YongyangFu/bell",
+  "install": "# git clone --depth 1 https://github.com/YongyangFu/bell\n# See source for mcpServers config block"
+}

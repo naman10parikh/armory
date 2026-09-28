@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-ovh",
+  "description": "A Model Context Protocol (MCP) server that provides standardized access to OVH API services, enabling AI assistants to manage OVH cloud infrastructure.",
+  "source_repo": "runitsolutions/mcp-server-ovh",
+  "source_url": "https://github.com/runitsolutions/mcp-server-ovh",
+  "install": "# git clone --depth 1 https://github.com/runitsolutions/mcp-server-ovh\n# See source for mcpServers config block"
+}

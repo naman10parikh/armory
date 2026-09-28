@@ -1,0 +1,7 @@
+{
+  "name": "miji-ble-mcp-server",
+  "description": "MCP server for controlling BLE-enabled adult toys from XHTKJ and 醉清风 mini-programs, enabling strength, mode, and custom waveform control via natural language.",
+  "source_repo": "Gaoshu705/XHTKJ-mcp",
+  "source_url": "https://github.com/Gaoshu705/XHTKJ-mcp",
+  "install": "npx -y XHTKJ-mcp"
+}

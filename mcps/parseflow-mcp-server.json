@@ -1,0 +1,7 @@
+{
+  "name": "parseflow-mcp-server",
+  "description": "Enables AI assistants to parse and search documents including PDF, Word, Excel, PowerPoint, and images via OCR, with support for semantic search and batch processing.",
+  "source_repo": "Libres-coder/ParseFlow",
+  "source_url": "https://github.com/Libres-coder/ParseFlow",
+  "install": "# git clone --depth 1 https://github.com/Libres-coder/ParseFlow\n# See source for mcpServers config block"
+}

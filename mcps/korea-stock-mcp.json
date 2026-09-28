@@ -1,0 +1,7 @@
+{
+  "name": "korea-stock-mcp",
+  "description": "Enables AI-powered analysis of Korean stock market data and corporate disclosures using official DART and KRX APIs.",
+  "source_repo": "fastmcp-me/korea-stock-mcp",
+  "source_url": "https://github.com/fastmcp-me/korea-stock-mcp",
+  "install": "npx -y korea-stock-mcp"
+}

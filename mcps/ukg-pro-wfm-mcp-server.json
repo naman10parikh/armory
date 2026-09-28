@@ -1,0 +1,7 @@
+{
+  "name": "ukg-pro-wfm-mcp-server",
+  "description": "Enables natural language interaction with UKG Pro Workforce Management APIs. It detects intent, resolves missing inputs, hydrates related objects, and returns complete, validated operational answers across scheduling, timekeeping, attendance, and more.",
+  "source_repo": "fvmuzik00/ukg_pro_wfm_mcp_server",
+  "source_url": "https://github.com/fvmuzik00/ukg_pro_wfm_mcp_server",
+  "install": "npx -y ukg_pro_wfm_mcp_server"
+}

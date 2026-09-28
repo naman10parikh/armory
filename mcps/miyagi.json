@@ -1,0 +1,7 @@
+{
+  "name": "miyagi",
+  "description": "Enables an interactive, gamified coding tutor that executes commands, provides lessons with explanations and quizzes, and tracks progress through levels and streaks, optionally with voice narration.",
+  "source_repo": "c00p75/miyagi",
+  "source_url": "https://github.com/c00p75/miyagi",
+  "install": "# git clone --depth 1 https://github.com/c00p75/miyagi\n# See source for mcpServers config block"
+}

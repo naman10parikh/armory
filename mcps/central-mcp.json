@@ -1,0 +1,7 @@
+{
+  "name": "central-mcp",
+  "description": "A centralized MCP hub for managing multiple coding agents across projects, enabling parallel, non-blocking dispatch and orchestration from any MCP-capable client.",
+  "source_repo": "andy5090/central-mcp",
+  "source_url": "https://github.com/andy5090/central-mcp",
+  "install": "npx -y central-mcp"
+}

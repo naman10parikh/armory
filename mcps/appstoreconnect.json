@@ -1,0 +1,7 @@
+{
+  "name": "appstoreconnect",
+  "description": "App Store Connect MCP Server (Swift) that manages apps, builds, TestFlight, metadata, reviews natively on macOS",
+  "source_repo": "jihongboo/appstoreconnect-mcp",
+  "source_url": "https://github.com/jihongboo/appstoreconnect-mcp",
+  "install": "npx -y appstoreconnect-mcp"
+}

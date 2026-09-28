@@ -1,0 +1,7 @@
+{
+  "name": "mcp-perfex-crm-2",
+  "description": "High-performance MCP server providing direct MySQL access to Perfex CRM, enabling fast and secure management of customers, invoices, projects, and more via natural language.",
+  "source_repo": "Descomplicar-Marketing-e-Tecnologia/mcp-perfex-crm-sql",
+  "source_url": "https://github.com/Descomplicar-Marketing-e-Tecnologia/mcp-perfex-crm-sql",
+  "install": "# git clone --depth 1 https://github.com/Descomplicar-Marketing-e-Tecnologia/mcp-perfex-crm-sql\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zaia",
+  "description": "MCP server that exposes SQLite datasets as queryable tools and resources via Streamable HTTP, enabling read-only exploration and SQL queries.",
+  "source_repo": "prithivrajmu/zaia",
+  "source_url": "https://github.com/prithivrajmu/zaia",
+  "install": "# git clone --depth 1 https://github.com/prithivrajmu/zaia\n# See source for mcpServers config block"
+}

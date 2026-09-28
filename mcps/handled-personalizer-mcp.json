@@ -1,0 +1,7 @@
+{
+  "name": "handled-personalizer-mcp",
+  "description": "Generates AI-written personalized cold email opening lines from a prospect's website, with free preview for up to 3 prospects and paid batch processing for up to 500.",
+  "source_repo": "Mum3n8r/handled-personalizer-mcp",
+  "source_url": "https://github.com/Mum3n8r/handled-personalizer-mcp",
+  "install": "npx -y handled-personalizer-mcp"
+}

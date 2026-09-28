@@ -1,0 +1,7 @@
+{
+  "name": "tiktok-mcp-server",
+  "description": "Enables publishing TikTok videos via the TikTok Content Posting API, supporting file upload and URL-based publishing with status checking.",
+  "source_repo": "HDesign987/manaverse-mcp-server",
+  "source_url": "https://github.com/HDesign987/manaverse-mcp-server",
+  "install": "npx -y manaverse-mcp-server"
+}

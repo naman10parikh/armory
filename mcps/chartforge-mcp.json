@@ -1,0 +1,7 @@
+{
+  "name": "chartforge-mcp",
+  "description": "Generates publication-quality charts and diagrams from natural language descriptions directly within Claude.",
+  "source_repo": "crawde/chartforge-mcp",
+  "source_url": "https://github.com/crawde/chartforge-mcp",
+  "install": "npx -y chartforge-mcp"
+}

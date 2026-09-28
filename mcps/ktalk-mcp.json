@@ -1,0 +1,7 @@
+{
+  "name": "ktalk-mcp",
+  "description": "Enables accessing Контур.Толк (KTalk) recordings, transcripts, and summaries from Claude Code.",
+  "source_repo": "mdemyanov/ktalk-mcp",
+  "source_url": "https://github.com/mdemyanov/ktalk-mcp",
+  "install": "npx -y ktalk-mcp"
+}

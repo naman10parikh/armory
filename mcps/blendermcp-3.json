@@ -1,0 +1,7 @@
+{
+  "name": "blendermcp-3",
+  "description": "Enables Claude to directly interact with and control Blender for 3D modeling, scene creation, and manipulation through natural language prompts.",
+  "source_repo": "MCPBlender/MCPBlender",
+  "source_url": "https://github.com/MCPBlender/MCPBlender",
+  "install": "# git clone --depth 1 https://github.com/MCPBlender/MCPBlender\n# See source for mcpServers config block"
+}

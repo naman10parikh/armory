@@ -1,0 +1,7 @@
+{
+  "name": "housecallpro-mcp",
+  "description": "MCP server for Housecall Pro, providing 5 tools for AI agents to register customers, schedule jobs, create estimates, log leads, and generate invoices (env-gated).",
+  "source_repo": "NoBanks/housecallpro-mcp",
+  "source_url": "https://github.com/NoBanks/housecallpro-mcp",
+  "install": "npx -y housecallpro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-promptdiff",
+  "description": "Zero-dependency stdio MCP server for token-aware prompt version diffs. Compare prompts or files and get machine-readable token delta reports with confidence labels.",
+  "source_repo": "prasad-a-abhishek/mcp-promptdiff",
+  "source_url": "https://github.com/prasad-a-abhishek/mcp-promptdiff",
+  "install": "# git clone --depth 1 https://github.com/prasad-a-abhishek/mcp-promptdiff\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stellar-memory",
+  "description": "Provides a persistent memory layer for Stellar and Soroban projects, scanning repositories to create a knowledge graph of contracts, storage, and on-chain state. Exposes this memory to AI agents via MCP, enabling project overview, search, and context recovery.",
+  "source_repo": "duraznito16/stellar-memory",
+  "source_url": "https://github.com/duraznito16/stellar-memory",
+  "install": "# git clone --depth 1 https://github.com/duraznito16/stellar-memory\n# See source for mcpServers config block"
+}

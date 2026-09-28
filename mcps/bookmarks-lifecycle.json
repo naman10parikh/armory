@@ -1,0 +1,7 @@
+{
+  "name": "bookmarks-lifecycle",
+  "description": "A local MCP server that gives saved bookmarks a lifecycle with time-based layers (pending, watching, kept, lapsed), so they get decided on instead of accumulating. It aggregates bookmarks from your browsers, drips them into a daily queue, and supports keep/watch/drop decisions, restore, and undo.",
+  "source_repo": "Fisher521/bookmarks-lifecycle",
+  "source_url": "https://github.com/Fisher521/bookmarks-lifecycle",
+  "install": "# git clone --depth 1 https://github.com/Fisher521/bookmarks-lifecycle\n# See source for mcpServers config block"
+}

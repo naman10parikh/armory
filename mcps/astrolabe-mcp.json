@@ -1,0 +1,7 @@
+{
+  "name": "astrolabe-mcp",
+  "description": "Provides unified search and navigation across multiple project documentations via the Model Context Protocol (MCP). Any MCP-compatible agent can discover and retrieve knowledge from all indexed projects.",
+  "source_repo": "zebrr/astrolabe-mcp",
+  "source_url": "https://github.com/zebrr/astrolabe-mcp",
+  "install": "npx -y astrolabe-mcp"
+}

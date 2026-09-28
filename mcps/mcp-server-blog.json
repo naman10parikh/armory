@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-blog",
+  "description": "A demo MCP server illustrating production patterns including OAuth 2.0 token validation, workspace context management, Firestore integration, and Zod schema validation using TypeScript.",
+  "source_repo": "portal-labs-infrastructure/mcp-server-blog",
+  "source_url": "https://github.com/portal-labs-infrastructure/mcp-server-blog",
+  "install": "# git clone --depth 1 https://github.com/portal-labs-infrastructure/mcp-server-blog\n# See source for mcpServers config block"
+}

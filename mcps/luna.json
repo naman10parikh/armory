@@ -1,0 +1,7 @@
+{
+  "name": "luna",
+  "description": "ESP32-based Streamable HTTP MCP server with embedded Lua scripting engine. Bridges Claude AI to physical devices — telescopes (INDI protocol), sensors, BLE peripherals, and TCP devices. Flash-and-run binary distribution, no build required.",
+  "source_repo": "OnStepNinja/LUNA",
+  "source_url": "https://github.com/OnStepNinja/LUNA",
+  "install": "# git clone --depth 1 https://github.com/OnStepNinja/LUNA\n# See source for mcpServers config block"
+}

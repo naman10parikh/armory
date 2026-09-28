@@ -1,0 +1,7 @@
+{
+  "name": "things3-mcp-gtd",
+  "description": "An MCP server for Things 3 on macOS that enables AI assistants to manage tasks using the Getting Things Done (GTD) methodology, including capture, clarify, organize, reflect, and engage stages.",
+  "source_repo": "Chevalicious/things3-mcp-gtd",
+  "source_url": "https://github.com/Chevalicious/things3-mcp-gtd",
+  "install": "# git clone --depth 1 https://github.com/Chevalicious/things3-mcp-gtd\n# See source for mcpServers config block"
+}

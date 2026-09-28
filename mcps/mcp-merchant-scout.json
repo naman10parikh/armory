@@ -1,0 +1,7 @@
+{
+  "name": "mcp-merchant-scout",
+  "description": "An MCP server that wraps the Universal Commerce Protocol (UCP) Discovery and Catalog capabilities, letting you search and compare products across UCP merchants directly from Claude.",
+  "source_repo": "davillafer/mcp-merchant-scout",
+  "source_url": "https://github.com/davillafer/mcp-merchant-scout",
+  "install": "# git clone --depth 1 https://github.com/davillafer/mcp-merchant-scout\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ruvds-com",
+  "description": "MCP server for creating and managing VPS in RUVDS via API v2. Provides tools for Cursor and other MCP clients: server list, catalog, create/change VPS, balance, actions, SSH keys, notifications, payments.",
+  "source_repo": "firstend/mcp_ruvds.com",
+  "source_url": "https://github.com/firstend/mcp_ruvds.com",
+  "install": "# git clone --depth 1 https://github.com/firstend/mcp_ruvds.com\n# See source for mcpServers config block"
+}

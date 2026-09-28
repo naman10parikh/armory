@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-france-payments-mcp",
+  "description": "MCP server enabling AI agents to accept payments in France via Stripe hosted checkout. Provides tools for creating EUR payment links and checking payment status.",
+  "source_repo": "junter1989k-ai/france-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/france-payments-mcp",
+  "install": "npx -y france-payments-mcp"
+}

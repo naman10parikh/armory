@@ -1,0 +1,7 @@
+{
+  "name": "taskmarket-mcp-2",
+  "description": "MCP server for Taskmarket that enables AI agents to discover, claim, submit, and track on-chain bounty tasks on the Base-based decentralized task marketplace, including wallet operations, pitch systems, and submission management.",
+  "source_repo": "prayItCompiles/taskmarket-mcp-ts",
+  "source_url": "https://github.com/prayItCompiles/taskmarket-mcp-ts",
+  "install": "# git clone --depth 1 https://github.com/prayItCompiles/taskmarket-mcp-ts\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "io-github-wubin1836-ai-hive-aigc",
+  "description": "AI Hive AIGC MCP server enables commercial image and video generation for e-commerce, marketing, and advertising, with model discovery, media upload, generation tasks, and polling.",
+  "source_repo": "wubin1836/ai-hive-mcp-server",
+  "source_url": "https://github.com/wubin1836/ai-hive-mcp-server",
+  "install": "npx -y ai-hive-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "coin-railz",
+  "description": "63 x402 micropayment services via USDC — crypto analytics, trading signals, NASA/ESA satellite data, IoT sensors, AI inference, and prediction markets. Coinbase AgentKit compatible. Pay per call with prepaid credits or native on-chain USDC.",
+  "source_repo": "",
+  "source_url": "https://coinrailz.com",
+  "install": "# git clone --depth 1 https://coinrailz.com\n# See source for mcpServers config block"
+}

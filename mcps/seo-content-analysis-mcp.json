@@ -1,0 +1,7 @@
+{
+  "name": "seo-content-analysis-mcp",
+  "description": "Enables Claude to perform full SEO audits on unpublished HTML, Markdown, or Word documents, including keyword analysis, meta tag suggestions, readability scoring, and heading structure validation.",
+  "source_repo": "pelegreenall/seo-mcp-server",
+  "source_url": "https://github.com/pelegreenall/seo-mcp-server",
+  "install": "npx -y seo-mcp-server"
+}

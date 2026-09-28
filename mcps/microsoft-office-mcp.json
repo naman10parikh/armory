@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-office-mcp",
+  "description": "Enables creating PowerPoint presentations with ERD diagrams from text prompts by connecting to Microsoft Visio/PowerPoint tools via an MCP server.",
+  "source_repo": "jacobNar/microsoft-office-mcp",
+  "source_url": "https://github.com/jacobNar/microsoft-office-mcp",
+  "install": "npx -y microsoft-office-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "clickup-mcp-full",
+  "description": "Enables reading entire nested ClickUp subtask trees in a single call, plus task, list, folder, comment, tag, and time-tracking operations through natural language.",
+  "source_repo": "breckenreed/clickup-mcp-full",
+  "source_url": "https://github.com/breckenreed/clickup-mcp-full",
+  "install": "# git clone --depth 1 https://github.com/breckenreed/clickup-mcp-full\n# See source for mcpServers config block"
+}

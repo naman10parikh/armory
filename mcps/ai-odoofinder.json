@@ -1,0 +1,7 @@
+{
+  "name": "ai-odoofinder",
+  "description": "Enables LLMs to search Odoo modules in OCA repositories using hybrid search (semantic + full-text) for finding the perfect module quickly.",
+  "source_repo": "SantipBarber/ai-odoo-finder",
+  "source_url": "https://github.com/SantipBarber/ai-odoo-finder",
+  "install": "# git clone --depth 1 https://github.com/SantipBarber/ai-odoo-finder\n# See source for mcpServers config block"
+}

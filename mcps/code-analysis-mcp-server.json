@@ -1,0 +1,7 @@
+{
+  "name": "code-analysis-mcp-server",
+  "description": "A modular MCP server for code analysis using ast-grep, enabling structural pattern matching and transformations across multiple languages.",
+  "source_repo": "intelops/code-analysis-mcp-server",
+  "source_url": "https://github.com/intelops/code-analysis-mcp-server",
+  "install": "npx -y code-analysis-mcp-server"
+}

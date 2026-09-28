@@ -1,0 +1,7 @@
+{
+  "name": "nft-metadata",
+  "description": "Enables fetching NFT metadata such as name, image, attributes, and collection details from a contract address and token ID on Ethereum and Base, with x402 pay-per-call micropayments.",
+  "source_repo": "Br0ski777/nft-metadata-x402",
+  "source_url": "https://github.com/Br0ski777/nft-metadata-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/nft-metadata-x402\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rmprint",
+  "description": "Enables interaction with reMarkable tablets, allowing users to send PDFs and EPUBs, print from any application, list and read documents, and render handwritten pages as images. It provides MCP tools and skills for Claude to read and write to the tablet.",
+  "source_repo": "marioallaa/rmprint",
+  "source_url": "https://github.com/marioallaa/rmprint",
+  "install": "# git clone --depth 1 https://github.com/marioallaa/rmprint\n# See source for mcpServers config block"
+}

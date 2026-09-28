@@ -1,0 +1,7 @@
+{
+  "name": "comprehend-markdown",
+  "description": "Translates project README files into multiple languages via MCP server or standalone pipeline, using local LM Studio models for translation, critique, and revision.",
+  "source_repo": "Dante83/comprehend-markdown",
+  "source_url": "https://github.com/Dante83/comprehend-markdown",
+  "install": "# git clone --depth 1 https://github.com/Dante83/comprehend-markdown\n# See source for mcpServers config block"
+}

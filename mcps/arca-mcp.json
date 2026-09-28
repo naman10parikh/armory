@@ -1,0 +1,7 @@
+{
+  "name": "arca-mcp",
+  "description": "MCP server to issue ARCA/AFIP Factura C for monotributistas using Afip SDK, PostgreSQL, and a secure preview-before-emission flow.",
+  "source_repo": "ignaciovargasDEV/arca-mcp",
+  "source_url": "https://github.com/ignaciovargasDEV/arca-mcp",
+  "install": "npx -y arca-mcp"
+}

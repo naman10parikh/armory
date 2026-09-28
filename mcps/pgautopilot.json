@@ -1,0 +1,7 @@
+{
+  "name": "pgautopilot",
+  "description": "Enables AI assistants to interact with PostgreSQL databases through natural language, with schema-aware query generation and enterprise safety controls.",
+  "source_repo": "cyberreinxy/pgautopilot",
+  "source_url": "https://github.com/cyberreinxy/pgautopilot",
+  "install": "# git clone --depth 1 https://github.com/cyberreinxy/pgautopilot\n# See source for mcpServers config block"
+}

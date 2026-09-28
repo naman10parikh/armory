@@ -1,0 +1,7 @@
+{
+  "name": "avo-mcp",
+  "description": "Enables reading and editing Avo tracking plans through natural language, with skills for designing new plans and working with existing ones.",
+  "source_repo": "avohq/avo-mcp",
+  "source_url": "https://github.com/avohq/avo-mcp",
+  "install": "npx -y avo-mcp"
+}

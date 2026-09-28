@@ -1,0 +1,7 @@
+{
+  "name": "note-mcp",
+  "description": "Unofficial MCP server for note.com using cookie-based authentication to manage notes and drafts via internal APIs.",
+  "source_repo": "new-village/note-mcp",
+  "source_url": "https://github.com/new-village/note-mcp",
+  "install": "npx -y note-mcp"
+}

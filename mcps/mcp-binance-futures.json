@@ -1,0 +1,7 @@
+{
+  "name": "mcp-binance-futures",
+  "description": "A Model Context Protocol (MCP) server that enables any compatible AI model to autonomously trade Binance USDT-margined perpetual futures. Includes a separate paper-trading strategy lab that requires no credentials.",
+  "source_repo": "cociugv/mcp-binance-futures",
+  "source_url": "https://github.com/cociugv/mcp-binance-futures",
+  "install": "# git clone --depth 1 https://github.com/cociugv/mcp-binance-futures\n# See source for mcpServers config block"
+}

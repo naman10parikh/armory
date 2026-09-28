@@ -1,0 +1,7 @@
+{
+  "name": "api-vision-mcp",
+  "description": "Enables image recognition using vision models via OpenAI-compatible APIs, supporting multiple platforms like OpenAI, DeepSeek, and Ollama.",
+  "source_repo": "stzhiyang/api-vision-mcp",
+  "source_url": "https://github.com/stzhiyang/api-vision-mcp",
+  "install": "npx -y api-vision-mcp"
+}

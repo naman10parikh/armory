@@ -1,0 +1,7 @@
+{
+  "name": "k-lifeguard-mcp-server",
+  "description": "An intelligent emergency medical coordinator that provides symptom-based hospital recommendations, real-time ETA, and guardian alerts.",
+  "source_repo": "yonghwan1106/k-lifeguard-mcp-server",
+  "source_url": "https://github.com/yonghwan1106/k-lifeguard-mcp-server",
+  "install": "npx -y k-lifeguard-mcp-server"
+}

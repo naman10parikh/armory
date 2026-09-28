@@ -1,0 +1,7 @@
+{
+  "name": "xo-mcp-server",
+  "description": "Provides seamless integration with the XO platform for container deployment, application lifecycle management, and knowledge base operations. Enables AI assistants to deploy, manage, and interact with applications on XO infrastructure through natural language commands.",
+  "source_repo": "sharmasuraj0123/xo-mcp-server",
+  "source_url": "https://github.com/sharmasuraj0123/xo-mcp-server",
+  "install": "npx -y xo-mcp-server"
+}

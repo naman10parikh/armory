@@ -1,0 +1,7 @@
+{
+  "name": "rviz-mcp",
+  "description": "MCP server enabling AI agents to control RViz2 displays, fixed frames, and views, with offline mock support for CI and demos.",
+  "source_repo": "mergeos-bounties/rviz-mcp",
+  "source_url": "https://github.com/mergeos-bounties/rviz-mcp",
+  "install": "npx -y rviz-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mimari-ai-mcp-server",
+  "description": "Provides AI-powered access to Turkish building regulations, architectural standards, and construction calculation tools via the Model Context Protocol.",
+  "source_repo": "UzunGridera/mimari-ai-mcp",
+  "source_url": "https://github.com/UzunGridera/mimari-ai-mcp",
+  "install": "npx -y mimari-ai-mcp"
+}

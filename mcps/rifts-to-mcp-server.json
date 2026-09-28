@@ -1,0 +1,7 @@
+{
+  "name": "rifts-to-mcp-server",
+  "description": "Enables creating, managing, and analyzing live audience surveys on rifts.to directly from an AI client. Supports creating surveys, listing them, retrieving results, and closing surveys via natural language.",
+  "source_repo": "riftsto/mcp",
+  "source_url": "https://github.com/riftsto/mcp",
+  "install": "# git clone --depth 1 https://github.com/riftsto/mcp\n# See source for mcpServers config block"
+}

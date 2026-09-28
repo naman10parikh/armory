@@ -1,0 +1,7 @@
+{
+  "name": "gremlin-mcp",
+  "description": "An MCP server that gives an agent terminal and file-management capabilities, including running shell/Python commands, searching and reading files, and creating/editing/deleting files and folders.",
+  "source_repo": "jvcaesar/gremlin-mcp",
+  "source_url": "https://github.com/jvcaesar/gremlin-mcp",
+  "install": "npx -y gremlin-mcp"
+}

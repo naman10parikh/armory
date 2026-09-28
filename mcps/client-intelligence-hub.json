@@ -1,0 +1,7 @@
+{
+  "name": "client-intelligence-hub",
+  "description": "Central source of truth for all client data. Syncs every connected platform on a schedule, normalizes it into one client workspace, and serves it to MTOS and AI agents over MCP.",
+  "source_repo": "MapRanking2026/mcp-client-intelligence-Hub",
+  "source_url": "https://github.com/MapRanking2026/mcp-client-intelligence-Hub",
+  "install": "# git clone --depth 1 https://github.com/MapRanking2026/mcp-client-intelligence-Hub\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "us-federal-procurement-mcp",
+  "description": "Enables searching and filtering federal contract opportunities by keyword, agency, set-aside, NAICS, and more from any MCP client. Analyzes solicitations for small-business fit and risk, and provides reference lookups for NAICS codes, set-asides, and federal thresholds.",
+  "source_repo": "omardaaboul/fedproc-mcp",
+  "source_url": "https://github.com/omardaaboul/fedproc-mcp",
+  "install": "npx -y fedproc-mcp"
+}

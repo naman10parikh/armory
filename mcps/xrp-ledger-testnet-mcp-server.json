@@ -1,0 +1,7 @@
+{
+  "name": "xrp-ledger-testnet-mcp-server",
+  "description": "Enables AI systems to interact with the XRP Ledger Testnet, supporting XRP payments, token operations, NFTs, escrow, DEX trading, and more.",
+  "source_repo": "MyronKoch/xrp-testnet-mcp-server",
+  "source_url": "https://github.com/MyronKoch/xrp-testnet-mcp-server",
+  "install": "npx -y xrp-testnet-mcp-server"
+}

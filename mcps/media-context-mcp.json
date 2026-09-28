@@ -1,0 +1,7 @@
+{
+  "name": "media-context-mcp",
+  "description": "Give your AI assistant eyes and ears — analyze any video, audio, or image, entirely on your machine.",
+  "source_repo": "vishalguptax/media-context-mcp",
+  "source_url": "https://github.com/vishalguptax/media-context-mcp",
+  "install": "npx -y media-context-mcp"
+}

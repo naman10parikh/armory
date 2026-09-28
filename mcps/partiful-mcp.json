@@ -1,0 +1,7 @@
+{
+  "name": "partiful-mcp",
+  "description": "Enables AI agents to view Partiful events, RSVPs, hosted events, mutual connections, and user profiles via a community-built MCP server.",
+  "source_repo": "mrh-is/partiful-mcp",
+  "source_url": "https://github.com/mrh-is/partiful-mcp",
+  "install": "npx -y partiful-mcp"
+}

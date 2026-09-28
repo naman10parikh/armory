@@ -1,0 +1,7 @@
+{
+  "name": "wps-office-mcp",
+  "description": "Integrates AI assistants with WPS Office to automate operations across Writer, Spreadsheets, and Presentations via the MCP protocol.",
+  "source_repo": "shaowen310/wps-office-mcp",
+  "source_url": "https://github.com/shaowen310/wps-office-mcp",
+  "install": "npx -y wps-office-mcp"
+}

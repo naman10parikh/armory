@@ -1,0 +1,7 @@
+{
+  "name": "refbase-mcp",
+  "description": "MCP server that enables AI assistants in IDEs to interact with RefBase webapp for managing conversations, bugs, features, and project context via natural language.",
+  "source_repo": "DasMonkey/refbase-mcp",
+  "source_url": "https://github.com/DasMonkey/refbase-mcp",
+  "install": "npx -y refbase-mcp"
+}

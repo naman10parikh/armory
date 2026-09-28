@@ -1,0 +1,7 @@
+{
+  "name": "motion-previs-mcp",
+  "description": "Enables AI agents to import video footage, trim ranges, run motion analysis (camera, actor, object, or full scene), export depth passes and pose data, and send layers to the Blockout previs app via Motion Previs Studio.",
+  "source_repo": "wassermanproductions/motion-previs-mcp",
+  "source_url": "https://github.com/wassermanproductions/motion-previs-mcp",
+  "install": "npx -y motion-previs-mcp"
+}

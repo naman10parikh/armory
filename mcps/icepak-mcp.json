@@ -1,0 +1,7 @@
+{
+  "name": "icepak-mcp",
+  "description": "Enables AI assistants to interact with ANSYS Icepak through natural language commands, supporting geometry import, material assignment, thermal loads, meshing, solving, and result retrieval.",
+  "source_repo": "NedaEmami123/icepak-mcp",
+  "source_url": "https://github.com/NedaEmami123/icepak-mcp",
+  "install": "npx -y icepak-mcp"
+}

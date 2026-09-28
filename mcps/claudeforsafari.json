@@ -1,0 +1,7 @@
+{
+  "name": "claudeforsafari",
+  "description": "Safari Web Extension + Node.js MCP bridge giving Claude Desktop full control over Safari — navigate, read pages, click elements, fill forms, and manage tabs. No Playwright or WebDriver dependency.",
+  "source_repo": "Lyosis/claudeForSafari",
+  "source_url": "https://github.com/Lyosis/claudeForSafari",
+  "install": "# git clone --depth 1 https://github.com/Lyosis/claudeForSafari\n# See source for mcpServers config block"
+}

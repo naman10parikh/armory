@@ -1,0 +1,7 @@
+{
+  "name": "agent-vision",
+  "description": "A lightweight MCP server that enables text agents to analyze images and videos using OpenAI-compatible vision models, with tools for image analysis and video frame extraction.",
+  "source_repo": "yanickxia/agent-vision",
+  "source_url": "https://github.com/yanickxia/agent-vision",
+  "install": "# git clone --depth 1 https://github.com/yanickxia/agent-vision\n# See source for mcpServers config block"
+}

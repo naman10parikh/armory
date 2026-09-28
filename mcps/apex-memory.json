@@ -1,0 +1,7 @@
+{
+  "name": "apex-memory",
+  "description": "Persistent memory for AI coding agents. Enables agents to save and recall decisions, patterns, bugs, and context across sessions via an MCP server with local SQLite storage.",
+  "source_repo": "JJerryChoi/apex-memory",
+  "source_url": "https://github.com/JJerryChoi/apex-memory",
+  "install": "# git clone --depth 1 https://github.com/JJerryChoi/apex-memory\n# See source for mcpServers config block"
+}

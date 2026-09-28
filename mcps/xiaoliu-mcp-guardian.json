@@ -1,0 +1,7 @@
+{
+  "name": "xiaoliu-mcp-guardian",
+  "description": "This MCP server intercepts and modifies Cursor AI behavior to enforce continuous execution, auto-confirm actions, log experiences, and prevent dangerous commands, aiming to automate development tasks and reduce interruptions.",
+  "source_repo": "daxiak001/rursor-mcp",
+  "source_url": "https://github.com/daxiak001/rursor-mcp",
+  "install": "npx -y rursor-mcp"
+}

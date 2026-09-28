@@ -1,0 +1,7 @@
+{
+  "name": "necl-hn-mcp",
+  "description": "Provides AI agents with access to Hacker News data including top stories, story details, comment threads, and full-text search for content research and trend monitoring.",
+  "source_repo": "adjacentai/necl-hn-mcp",
+  "source_url": "https://github.com/adjacentai/necl-hn-mcp",
+  "install": "npx -y necl-hn-mcp"
+}

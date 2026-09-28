@@ -1,0 +1,7 @@
+{
+  "name": "ceedling-mcp-server",
+  "description": "Bridges LLMs to the Ceedling C unit testing framework, enabling test execution, module-specific testing, and scaffolding of source/test file triplets.",
+  "source_repo": "yahyayozo/ceedling-mcp-server",
+  "source_url": "https://github.com/yahyayozo/ceedling-mcp-server",
+  "install": "npx -y ceedling-mcp-server"
+}

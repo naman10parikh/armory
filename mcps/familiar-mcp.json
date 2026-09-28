@@ -1,0 +1,7 @@
+{
+  "name": "familiar-mcp",
+  "description": "MCP server that drives the user's real signed-in Chrome on macOS via AppleScript (Apple Events). 32 tools covering tab/window control, navigation, DOM extraction, form interaction, and arbitrary JS execution. Same engine as the familiar Claude Code skill in the repository.",
+  "source_repo": "dominion525/familiar",
+  "source_url": "https://github.com/dominion525/familiar",
+  "install": "# git clone --depth 1 https://github.com/dominion525/familiar\n# See source for mcpServers config block"
+}

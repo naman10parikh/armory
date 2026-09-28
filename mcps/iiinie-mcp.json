@@ -1,0 +1,7 @@
+{
+  "name": "iiinie-mcp",
+  "description": "Connects Claude to your iiinie workspace to draft email campaigns, manage contacts and content, create ad plans, run outreach, pull analytics, and research trends and keyword volume.",
+  "source_repo": "iiinigence/iiinie-mcp",
+  "source_url": "https://github.com/iiinigence/iiinie-mcp",
+  "install": "npx -y iiinie-mcp"
+}

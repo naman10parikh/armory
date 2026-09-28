@@ -1,0 +1,7 @@
+{
+  "name": "ping-iga-mcp-server",
+  "description": "MCP server exposing Ping IGA self-service governance operations (access requests, approvals, certifications, and manual tasks) to MCP clients, acting on behalf of the authenticated user.",
+  "source_repo": "srallapally/iga-mcp-server",
+  "source_url": "https://github.com/srallapally/iga-mcp-server",
+  "install": "npx -y iga-mcp-server"
+}

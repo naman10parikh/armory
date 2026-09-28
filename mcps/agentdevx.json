@@ -1,0 +1,7 @@
+{
+  "name": "agentdevx",
+  "description": "AI agent gateway for calling any API securely. Bootstrap your agent in one call, discover tools, enforce OPA policies, and inject credentials automatically. ## Features - One-call agent bootstrap with Ed25519 identity - Tool registry with OpenAPI ingestion - OPA policy enforcement - Encrypted creden",
+  "source_repo": "",
+  "source_url": "https://agentdevx.onrender.com",
+  "install": "# git clone --depth 1 https://agentdevx.onrender.com\n# See source for mcpServers config block"
+}

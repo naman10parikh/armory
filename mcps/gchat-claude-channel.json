@@ -1,0 +1,7 @@
+{
+  "name": "gchat-claude-channel",
+  "description": "Enables users to interact with their live Claude Code session from Google Chat by injecting messages and receiving replies, bridging terminal and mobile conversations.",
+  "source_repo": "magichao326/gchat-claude-channel",
+  "source_url": "https://github.com/magichao326/gchat-claude-channel",
+  "install": "# git clone --depth 1 https://github.com/magichao326/gchat-claude-channel\n# See source for mcpServers config block"
+}

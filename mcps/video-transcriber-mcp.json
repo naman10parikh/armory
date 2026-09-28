@@ -1,0 +1,7 @@
+{
+  "name": "video-transcriber-mcp",
+  "description": "Enables high-performance, offline transcription of videos from 1000+ platforms and local files using whisper.cpp, with support for multiple model sizes, languages, and output formats over stdio or HTTP.",
+  "source_repo": "nhatvu148/video-transcriber-mcp-rs",
+  "source_url": "https://github.com/nhatvu148/video-transcriber-mcp-rs",
+  "install": "# git clone --depth 1 https://github.com/nhatvu148/video-transcriber-mcp-rs\n# See source for mcpServers config block"
+}

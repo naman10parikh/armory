@@ -1,0 +1,7 @@
+{
+  "name": "finance-intelligence-mcp",
+  "description": "Enables AI assistants to securely manage and analyze personal finances through natural language, with full control over data via a private PostgreSQL database.",
+  "source_repo": "Ronit-019/Finance-Intelligence-MCP",
+  "source_url": "https://github.com/Ronit-019/Finance-Intelligence-MCP",
+  "install": "npx -y Finance-Intelligence-MCP"
+}

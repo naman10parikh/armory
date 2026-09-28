@@ -1,0 +1,7 @@
+{
+  "name": "power-bi-mcp-server",
+  "description": "Enables AI applications to interact with Power BI through the Model Context Protocol, supporting comprehensive API operations including data retrieval and management.",
+  "source_repo": "asklokesh/powerbi-mcp-server",
+  "source_url": "https://github.com/asklokesh/powerbi-mcp-server",
+  "install": "npx -y powerbi-mcp-server"
+}

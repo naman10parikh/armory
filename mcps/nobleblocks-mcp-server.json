@@ -1,0 +1,7 @@
+{
+  "name": "nobleblocks-mcp-server",
+  "description": "Enables searching and exploring 340 million academic papers from 15+ databases with semantic search, citation graphs, and knowledge graph connections for biomedical entities.",
+  "source_repo": "nobleblocks/nobleblocks-mcp",
+  "source_url": "https://github.com/nobleblocks/nobleblocks-mcp",
+  "install": "npx -y nobleblocks-mcp"
+}

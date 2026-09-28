@@ -1,0 +1,7 @@
+{
+  "name": "quantjobs",
+  "description": "Enables conversational management of quant job search, tailored CV generation, and skill gap analysis through MCP tools. Allows Claude to search, ingest, score jobs, and build/iterate LaTeX CVs.",
+  "source_repo": "Kav-png/quantjobs",
+  "source_url": "https://github.com/Kav-png/quantjobs",
+  "install": "# git clone --depth 1 https://github.com/Kav-png/quantjobs\n# See source for mcpServers config block"
+}

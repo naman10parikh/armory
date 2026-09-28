@@ -1,0 +1,7 @@
+{
+  "name": "tideline-agent-memory",
+  "description": "A long-term memory system built for AI Agents. Agent wakes up already knowing who he is, not querying \"who am I?\" every session. Every turn calling back accurate memory context. Achieving accurate memory hits while also preventing memory from expanding at scale. No compression, no forgetting.",
+  "source_repo": "ennisaaaaaaaa-stack/tideline-memory",
+  "source_url": "https://github.com/ennisaaaaaaaa-stack/tideline-memory",
+  "install": "# git clone --depth 1 https://github.com/ennisaaaaaaaa-stack/tideline-memory\n# See source for mcpServers config block"
+}

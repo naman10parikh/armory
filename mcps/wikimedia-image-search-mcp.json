@@ -1,0 +1,7 @@
+{
+  "name": "wikimedia-image-search-mcp",
+  "description": "Enables AI assistants to search for images on Wikimedia Commons, returning structured metadata and a composite thumbnail grid for visual comparison.",
+  "source_repo": "yanexr/wikimedia-image-search-mcp",
+  "source_url": "https://github.com/yanexr/wikimedia-image-search-mcp",
+  "install": "npx -y wikimedia-image-search-mcp"
+}

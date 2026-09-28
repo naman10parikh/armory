@@ -1,0 +1,7 @@
+{
+  "name": "vibetape-mcp-server",
+  "description": "Captures key development moments, enables multi-agent traceability, provides intelligent context curation, and facilitates seamless agent-to-agent handoffs.",
+  "source_repo": "sambaleuk/Vibetape-MCP-Server",
+  "source_url": "https://github.com/sambaleuk/Vibetape-MCP-Server",
+  "install": "npx -y Vibetape-MCP-Server"
+}

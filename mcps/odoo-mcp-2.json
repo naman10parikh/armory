@@ -1,0 +1,7 @@
+{
+  "name": "odoo-mcp-2",
+  "description": "Enables Claude to interact with Odoo through 12 MCP tools covering discovery, CRUD operations, and bulk import/export via XML-RPC.",
+  "source_repo": "AleemHaider/odoo-mcp",
+  "source_url": "https://github.com/AleemHaider/odoo-mcp",
+  "install": "npx -y odoo-mcp"
+}

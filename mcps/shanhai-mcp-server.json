@@ -1,0 +1,7 @@
+{
+  "name": "shanhai-mcp-server",
+  "description": "An out-of-the-box multi-tenant MCP server that lets MCP clients access knowledge retrieval, task dispatch, deliverable management, and multi-agent consultation services via SSE or stdio.",
+  "source_repo": "ak2029-pilot/shanhai-city",
+  "source_url": "https://github.com/ak2029-pilot/shanhai-city",
+  "install": "# git clone --depth 1 https://github.com/ak2029-pilot/shanhai-city\n# See source for mcpServers config block"
+}

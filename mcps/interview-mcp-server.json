@@ -1,0 +1,7 @@
+{
+  "name": "interview-mcp-server",
+  "description": "Intelligent interview assistant that parses resumes, generates interview questions, records conversations, and produces evaluation reports for technical interviews.",
+  "source_repo": "HelloGGX/interview-mcp-server",
+  "source_url": "https://github.com/HelloGGX/interview-mcp-server",
+  "install": "npx -y interview-mcp-server"
+}

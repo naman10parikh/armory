@@ -1,0 +1,7 @@
+{
+  "name": "tennis-warehouse-mcp-server",
+  "description": "Provides secure access to Tennis Warehouse product data via natural language queries, enabling product search, availability checks, and deal discovery.",
+  "source_repo": "gkedev/indio",
+  "source_url": "https://github.com/gkedev/indio",
+  "install": "# git clone --depth 1 https://github.com/gkedev/indio\n# See source for mcpServers config block"
+}

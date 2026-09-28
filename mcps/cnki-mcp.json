@@ -1,0 +1,7 @@
+{
+  "name": "cnki-mcp",
+  "description": "Enables AI assistants to search CNKI (China National Knowledge Infrastructure), download PDFs, and import them into Zotero with automatic PDF attachment.",
+  "source_repo": "wuruiqi/cnki-mcp",
+  "source_url": "https://github.com/wuruiqi/cnki-mcp",
+  "install": "npx -y cnki-mcp"
+}

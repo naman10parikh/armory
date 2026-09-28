@@ -1,0 +1,7 @@
+{
+  "name": "morsel",
+  "description": "Enables logging food meals by letting AI assistants analyze food photos and write structured meal data via MCP tools to a shared store, which can then be viewed in a dashboard.",
+  "source_repo": "jirathip-dev/morsel",
+  "source_url": "https://github.com/jirathip-dev/morsel",
+  "install": "# git clone --depth 1 https://github.com/jirathip-dev/morsel\n# See source for mcpServers config block"
+}

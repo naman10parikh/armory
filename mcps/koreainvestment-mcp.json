@@ -1,0 +1,7 @@
+{
+  "name": "koreainvestment-mcp",
+  "description": "Enables users to search for Korea Investment & Securities APIs using natural language queries, returning structured responses with API details such as function name, API name, and category.",
+  "source_repo": "koreainvestment/koreainvestment-mcp",
+  "source_url": "https://github.com/koreainvestment/koreainvestment-mcp",
+  "install": "npx -y koreainvestment-mcp"
+}

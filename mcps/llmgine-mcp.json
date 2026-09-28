@@ -1,0 +1,7 @@
+{
+  "name": "llmgine-mcp",
+  "description": "Enables AI agents to build and test games headlessly using the llmgine game engine, with tools for world creation, prefab definition, spawning, acting, and simulation.",
+  "source_repo": "lordbasilaiassistant-sudo/llmgine",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/llmgine",
+  "install": "# git clone --depth 1 https://github.com/lordbasilaiassistant-sudo/llmgine\n# See source for mcpServers config block"
+}

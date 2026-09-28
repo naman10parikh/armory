@@ -1,0 +1,7 @@
+{
+  "name": "dev-mcp-2",
+  "description": "A self-contained Docker Compose deployment that exposes MCP tools for files, shell commands, background processes, and Git operations, enabling ChatGPT to work with a host directory via OAuth authentication.",
+  "source_repo": "Crasnec/dev-mcp",
+  "source_url": "https://github.com/Crasnec/dev-mcp",
+  "install": "npx -y dev-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-monitor-relay-mcp",
+  "description": "Paid remote MCP server for monitoring AI agent runs, detecting failures, replaying tool-call incidents, issuing SLA receipts, and exporting client status.",
+  "source_repo": "clauxel/agent-monitor-relay-mcp",
+  "source_url": "https://github.com/clauxel/agent-monitor-relay-mcp",
+  "install": "npx -y agent-monitor-relay-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aprs-mcp",
+  "description": "MCP server that exposes APRS-IS network tools to LLM agents, enabling sending APRS messages, querying positions, finding nearby stations, and listening to live packet streams.",
+  "source_repo": "gflerm/aprs-mcp",
+  "source_url": "https://github.com/gflerm/aprs-mcp",
+  "install": "npx -y aprs-mcp"
+}

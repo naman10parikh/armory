@@ -1,0 +1,7 @@
+{
+  "name": "sintegra-se",
+  "description": "Provides query access to official SINTEGRA SE data through a single read-only MCP tool, with pay-per-use credits and no platform credentials required.",
+  "source_repo": "mcp-dir/sintegra_se-mcp",
+  "source_url": "https://github.com/mcp-dir/sintegra_se-mcp",
+  "install": "npx -y sintegra_se-mcp"
+}

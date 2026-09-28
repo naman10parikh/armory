@@ -1,0 +1,7 @@
+{
+  "name": "france-travail-mcp",
+  "description": "MCP server connecting AI assistants to official France Travail APIs for real-time job offers, ROME code prediction, and hiring company search.",
+  "source_repo": "JoJoLaBagarre/france-travail-mcp",
+  "source_url": "https://github.com/JoJoLaBagarre/france-travail-mcp",
+  "install": "npx -y france-travail-mcp"
+}

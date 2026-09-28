@@ -1,0 +1,7 @@
+{
+  "name": "unfetch",
+  "description": "A download manager for humans and AI with a native MCP server: add_task, list_tasks, wait_for_task with progress notifications from any MCP host. Multi-threaded multi-mirror HTTP, BT/magnet, 1000+ video sites (yt-dlp), RSS, token-secured remote Web UI. ~8MB, open source.",
+  "source_repo": "guangtoutong/unfetch",
+  "source_url": "https://github.com/guangtoutong/unfetch",
+  "install": "# git clone --depth 1 https://github.com/guangtoutong/unfetch\n# See source for mcpServers config block"
+}

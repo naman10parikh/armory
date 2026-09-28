@@ -1,0 +1,7 @@
+{
+  "name": "postlake",
+  "description": "Publish, schedule and read analytics across every major social network from one MCP server. Hosted, OAuth, 15+ tools, one normalised response shape.",
+  "source_repo": "PostLake/postlake-mcp",
+  "source_url": "https://github.com/PostLake/postlake-mcp",
+  "install": "npx -y postlake-mcp"
+}

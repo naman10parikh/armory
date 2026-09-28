@@ -1,0 +1,7 @@
+{
+  "name": "hklaw-mcp",
+  "description": "A stateless MCP server for Hong Kong legal research, offering tools to analyze legal intent, search official HKeL statutes, fetch current law metadata, and check source status.",
+  "source_repo": "keatko/HKLaw-mcp",
+  "source_url": "https://github.com/keatko/HKLaw-mcp",
+  "install": "npx -y HKLaw-mcp"
+}

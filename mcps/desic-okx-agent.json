@@ -1,0 +1,7 @@
+{
+  "name": "desic-okx-agent",
+  "description": "An independent local OKX runtime, MCP server, CLI, and reusable agent skills for Codex, Claude Code, and other MCP clients, enabling market data access, trading operations, and analysis.",
+  "source_repo": "xiazhi88/desic-okx-agent",
+  "source_url": "https://github.com/xiazhi88/desic-okx-agent",
+  "install": "# git clone --depth 1 https://github.com/xiazhi88/desic-okx-agent\n# See source for mcpServers config block"
+}

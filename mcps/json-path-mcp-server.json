@@ -1,0 +1,7 @@
+{
+  "name": "json-path-mcp-server",
+  "description": "MCP server that provides tools to read JSON files and query data using jsonPath expressions.",
+  "source_repo": "deermakov/mcp-jsonpath-server",
+  "source_url": "https://github.com/deermakov/mcp-jsonpath-server",
+  "install": "# git clone --depth 1 https://github.com/deermakov/mcp-jsonpath-server\n# See source for mcpServers config block"
+}

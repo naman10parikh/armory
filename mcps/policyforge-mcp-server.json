@@ -1,0 +1,7 @@
+{
+  "name": "policyforge-mcp-server",
+  "description": "Generates legal policies (privacy, terms, cookies, etc.) directly from AI coding tools by analyzing codebase context.",
+  "source_repo": "PolicyForge/mcp",
+  "source_url": "https://github.com/PolicyForge/mcp",
+  "install": "# git clone --depth 1 https://github.com/PolicyForge/mcp\n# See source for mcpServers config block"
+}

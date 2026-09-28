@@ -1,0 +1,7 @@
+{
+  "name": "spotify-universal-mcp-server",
+  "description": "Enables interaction with Spotify's services and tools through a standardized MCP interface, allowing control of music streaming and playback.",
+  "source_repo": "universal-mcp/spotify",
+  "source_url": "https://github.com/universal-mcp/spotify",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/spotify\n# See source for mcpServers config block"
+}

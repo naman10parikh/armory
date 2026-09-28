@@ -1,0 +1,7 @@
+{
+  "name": "gpt-codex-handoff",
+  "description": "Enables Codex to delegate decision-making to an OpenAI reviewer for structured next-step recommendations during long-running tasks.",
+  "source_repo": "Jiashuz123/gpt-codex-handoff",
+  "source_url": "https://github.com/Jiashuz123/gpt-codex-handoff",
+  "install": "# git clone --depth 1 https://github.com/Jiashuz123/gpt-codex-handoff\n# See source for mcpServers config block"
+}

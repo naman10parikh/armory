@@ -1,0 +1,7 @@
+{
+  "name": "tiz-n-mcp-server",
+  "description": "MCP server for operating a fictional restaurant, providing tools to consult the menu, manage active orders, view shift summaries, update dish availability, and advance order statuses. Includes a playground that teaches JSON-RPC by showing live protocol interactions.",
+  "source_repo": "Valdivia94x/tizon-mcp",
+  "source_url": "https://github.com/Valdivia94x/tizon-mcp",
+  "install": "npx -y tizon-mcp"
+}

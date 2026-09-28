@@ -1,0 +1,7 @@
+{
+  "name": "mcp-xiaozhi-server",
+  "description": "Enables to modify and manage XiaoZhi platform agents, including changing LLM, TTS, voice, role template, and name, as well as retrieving agent list information.",
+  "source_repo": "104gogo/mcp-xiaozhi-server",
+  "source_url": "https://github.com/104gogo/mcp-xiaozhi-server",
+  "install": "# git clone --depth 1 https://github.com/104gogo/mcp-xiaozhi-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gpt-github-bridge",
+  "description": "Bridges ChatGPT to GitHub with full write access, enabling repository management, file operations, and pull request creation.",
+  "source_repo": "20001025hx-ui/gpt-github-bridge",
+  "source_url": "https://github.com/20001025hx-ui/gpt-github-bridge",
+  "install": "# git clone --depth 1 https://github.com/20001025hx-ui/gpt-github-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hello-mcp",
+  "description": "A minimal MCP server providing greeting, addition, and time zone tools, plus static and templated resources.",
+  "source_repo": "paodanchacon/plc-mcp",
+  "source_url": "https://github.com/paodanchacon/plc-mcp",
+  "install": "npx -y plc-mcp"
+}

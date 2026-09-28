@@ -1,0 +1,7 @@
+{
+  "name": "office-mcp",
+  "description": "An MCP server that lets Claude control Microsoft Word and Excel on macOS via AppleScript, providing 98 tools for document and spreadsheet automation.",
+  "source_repo": "noma4i/office-mcp",
+  "source_url": "https://github.com/noma4i/office-mcp",
+  "install": "npx -y office-mcp"
+}

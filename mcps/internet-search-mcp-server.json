@@ -1,0 +1,7 @@
+{
+  "name": "internet-search-mcp-server",
+  "description": "Custom MCP server exposing an internet_search tool that fetches DuckDuckGo results, enabling AI agents to perform web searches and retrieve structured information.",
+  "source_repo": "cakhiltej9001-source/internet_search_mcp_agents",
+  "source_url": "https://github.com/cakhiltej9001-source/internet_search_mcp_agents",
+  "install": "# git clone --depth 1 https://github.com/cakhiltej9001-source/internet_search_mcp_agents\n# See source for mcpServers config block"
+}

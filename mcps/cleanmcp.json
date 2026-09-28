@@ -1,0 +1,7 @@
+{
+  "name": "cleanmcp",
+  "description": "A MCP server framework with zero-config auto-discovery, type-safe decorators, and HTTP transport, enabling easy creation and deployment of tools, prompts, and resources to LeanMCP Cloud.",
+  "source_repo": "Lishang25/Washed-MCP",
+  "source_url": "https://github.com/Lishang25/Washed-MCP",
+  "install": "npx -y Washed-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "failure-memory",
+  "description": "Failure Memory provides AI coding agents with a shared local memory of failures, enabling them to record, recall, and learn from mistakes across sessions.",
+  "source_repo": "CongBao/failure-memory",
+  "source_url": "https://github.com/CongBao/failure-memory",
+  "install": "# git clone --depth 1 https://github.com/CongBao/failure-memory\n# See source for mcpServers config block"
+}

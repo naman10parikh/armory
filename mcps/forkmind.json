@@ -1,0 +1,7 @@
+{
+  "name": "forkmind",
+  "description": "Local-first MCP server that lets AI agents query their own LLM call history as a branchable DAG and offload conversation context into immutable, AES-256-GCM-encrypted capsules — restorable in full or per segment, crypto-shreddable, with RAID-style replication. 12 tools, no API keys, no cloud.",
+  "source_repo": "Medhovarsh/forkmind",
+  "source_url": "https://github.com/Medhovarsh/forkmind",
+  "install": "# git clone --depth 1 https://github.com/Medhovarsh/forkmind\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "app-data-mcp",
+  "description": "An MCP server for internal data platforms that enables search, viewing, tracing, and read-only querying of business assets like dashboards, metrics, and events.",
+  "source_repo": "jedshen123/app-data-mcp",
+  "source_url": "https://github.com/jedshen123/app-data-mcp",
+  "install": "npx -y app-data-mcp"
+}

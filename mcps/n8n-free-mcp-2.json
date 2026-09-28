@@ -1,0 +1,7 @@
+{
+  "name": "n8n-free-mcp-2",
+  "description": "Free and open-source MCP server for managing n8n workflows, executions, and tags via n8n's API. Enables workflow creation, activation, debugging, and deletion from any MCP client.",
+  "source_repo": "jserna0001/n8n-free-mcp",
+  "source_url": "https://github.com/jserna0001/n8n-free-mcp",
+  "install": "npx -y n8n-free-mcp"
+}

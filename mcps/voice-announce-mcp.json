@@ -1,0 +1,7 @@
+{
+  "name": "voice-announce-mcp",
+  "description": "An MCP server that converts short text summaries into spoken audio and plays them locally, designed for coding agents like Claude Code to announce task results.",
+  "source_repo": "ummjevel/voice-announce-mcp",
+  "source_url": "https://github.com/ummjevel/voice-announce-mcp",
+  "install": "npx -y voice-announce-mcp"
+}

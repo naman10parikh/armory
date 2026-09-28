@@ -1,0 +1,7 @@
+{
+  "name": "wazza-mcp-test-server",
+  "description": "A simple HTTP server to validate MCP infrastructure for the Wazza MCP client, exposing endpoints for tool discovery and calling.",
+  "source_repo": "gabrielribeirogpx-arch/wazza-mcp-test-server",
+  "source_url": "https://github.com/gabrielribeirogpx-arch/wazza-mcp-test-server",
+  "install": "# git clone --depth 1 https://github.com/gabrielribeirogpx-arch/wazza-mcp-test-server\n# See source for mcpServers config block"
+}

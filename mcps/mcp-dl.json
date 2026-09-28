@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dl",
+  "description": "A geographic tool service that exposes clustering, distance calculation, and directional sorting as MCP tools via SSE protocol.",
+  "source_repo": "danierli/mcp_dl",
+  "source_url": "https://github.com/danierli/mcp_dl",
+  "install": "# git clone --depth 1 https://github.com/danierli/mcp_dl\n# See source for mcpServers config block"
+}

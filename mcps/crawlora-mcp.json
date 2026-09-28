@@ -1,0 +1,7 @@
+{
+  "name": "crawlora-mcp",
+  "description": "Hosted MCP server for structured public web data — 319 tools across search, maps, commerce, social & finance, returning clean JSON.",
+  "source_repo": "Crawlora-org/crawlora-mcp",
+  "source_url": "https://github.com/Crawlora-org/crawlora-mcp",
+  "install": "npx -y crawlora-mcp"
+}

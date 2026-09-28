@@ -1,0 +1,7 @@
+{
+  "name": "mcp-soundfx",
+  "description": "An MCP server that runs Stability AI's Stable Audio Open 1.0 locally on NVIDIA GPUs, enabling AI agents to generate broadcast-quality 44.1 kHz stereo WAV sound effects from text prompts fully offline with no API costs.",
+  "source_repo": "CoreEpoch/mcp-soundfx",
+  "source_url": "https://github.com/CoreEpoch/mcp-soundfx",
+  "install": "# git clone --depth 1 https://github.com/CoreEpoch/mcp-soundfx\n# See source for mcpServers config block"
+}

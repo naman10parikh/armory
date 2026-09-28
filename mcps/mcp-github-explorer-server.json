@@ -1,0 +1,7 @@
+{
+  "name": "mcp-github-explorer-server",
+  "description": "MCP server for exploring GitHub public data. It provides tools to fetch user profiles, list top repositories, and calculate language usage statistics, which AI agents can invoke dynamically.",
+  "source_repo": "Bruno-GabrielDev/mcp-github-explorer-server",
+  "source_url": "https://github.com/Bruno-GabrielDev/mcp-github-explorer-server",
+  "install": "# git clone --depth 1 https://github.com/Bruno-GabrielDev/mcp-github-explorer-server\n# See source for mcpServers config block"
+}

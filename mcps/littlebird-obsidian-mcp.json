@@ -1,0 +1,7 @@
+{
+  "name": "littlebird-obsidian-mcp",
+  "description": "A local-first MCP server that routes Littlebird daily context into structured Obsidian notes, connecting daily work to a durable knowledge base.",
+  "source_repo": "dwightpeaster/littlebird-obsidian-mcp",
+  "source_url": "https://github.com/dwightpeaster/littlebird-obsidian-mcp",
+  "install": "npx -y littlebird-obsidian-mcp"
+}

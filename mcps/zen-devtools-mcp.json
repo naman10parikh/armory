@@ -1,0 +1,7 @@
+{
+  "name": "zen-devtools-mcp",
+  "description": "Unofficial MCP server for Zen Browser DevTools, enabling AI assistants to inspect and control Zen via Gecko/WebDriver BiDi",
+  "source_repo": "simon-ami/zen-devtools-mcp",
+  "source_url": "https://github.com/simon-ami/zen-devtools-mcp",
+  "install": "npx -y zen-devtools-mcp"
+}

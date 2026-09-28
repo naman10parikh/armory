@@ -1,0 +1,7 @@
+{
+  "name": "file-operation-mcp-server",
+  "description": "Enables file operations such as counting, listing, compressing images, creating/extracting archives, copying/moving files, and merging/splitting PDFs via natural language.",
+  "source_repo": "lxKylin/file-operation-mcp",
+  "source_url": "https://github.com/lxKylin/file-operation-mcp",
+  "install": "npx -y file-operation-mcp"
+}

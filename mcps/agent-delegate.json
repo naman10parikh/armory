@@ -1,0 +1,7 @@
+{
+  "name": "agent-delegate",
+  "description": "agent-delegate is an MCP-first delegation advisor for coding agents. It helps a main agent decide when to delegate read-only investigation, generate bounded subagent briefs, and summarize subagent results back into compact main-agent context.",
+  "source_repo": "HezLUO/agent-delegate",
+  "source_url": "https://github.com/HezLUO/agent-delegate",
+  "install": "# git clone --depth 1 https://github.com/HezLUO/agent-delegate\n# See source for mcpServers config block"
+}

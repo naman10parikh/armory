@@ -1,0 +1,7 @@
+{
+  "name": "gptqueue",
+  "description": "Enables AI agents to discover each other and exchange typed messages through a Redis-backed queue via MCP tool calls, with support for registration, heartbeat, and queue management.",
+  "source_repo": "rahulrajaram/gptqueue",
+  "source_url": "https://github.com/rahulrajaram/gptqueue",
+  "install": "# git clone --depth 1 https://github.com/rahulrajaram/gptqueue\n# See source for mcpServers config block"
+}

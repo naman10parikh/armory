@@ -1,0 +1,7 @@
+{
+  "name": "numguard",
+  "description": "Verify a number before an agent asserts it — a Deflated Sharpe Ratio for backtest, plus eval-gap, subset-win, and judge-bias checks, with signed receipts anyone can verify offline.",
+  "source_repo": "ipezygj/numguard",
+  "source_url": "https://github.com/ipezygj/numguard",
+  "install": "# git clone --depth 1 https://github.com/ipezygj/numguard\n# See source for mcpServers config block"
+}

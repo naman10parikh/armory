@@ -1,0 +1,7 @@
+{
+  "name": "mcp-on-azure",
+  "description": "Enables listing image blobs from Azure Blob Storage and generating descriptions using Azure OpenAI's gpt-4o vision model.",
+  "source_repo": "OfekBenEliezer/mcp-on-azure",
+  "source_url": "https://github.com/OfekBenEliezer/mcp-on-azure",
+  "install": "# git clone --depth 1 https://github.com/OfekBenEliezer/mcp-on-azure\n# See source for mcpServers config block"
+}

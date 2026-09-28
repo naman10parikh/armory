@@ -1,0 +1,7 @@
+{
+  "name": "strudelmcp",
+  "description": "Educational MCP server that teaches AI agents to compose music using Strudel syntax through structured lessons, curated examples, and guided composition.",
+  "source_repo": "iberi22/strudelMCP",
+  "source_url": "https://github.com/iberi22/strudelMCP",
+  "install": "# git clone --depth 1 https://github.com/iberi22/strudelMCP\n# See source for mcpServers config block"
+}

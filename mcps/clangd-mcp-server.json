@@ -1,0 +1,7 @@
+{
+  "name": "clangd-mcp-server",
+  "description": "Provides C++ code intelligence tools for AI agents via the Model Context Protocol, enabling symbol navigation, type information, and diagnostics.",
+  "source_repo": "felipeerias/clangd-mcp-server",
+  "source_url": "https://github.com/felipeerias/clangd-mcp-server",
+  "install": "npx -y clangd-mcp-server"
+}

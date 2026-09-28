@@ -1,0 +1,7 @@
+{
+  "name": "screpy-seo-mcp",
+  "description": "SEO MCP connects AI assistants to Search Console, technical SEO audits, crawl insights, Core Web Vitals, and uptime data.",
+  "source_repo": "screpylabs/seo-mcp",
+  "source_url": "https://github.com/screpylabs/seo-mcp",
+  "install": "npx -y seo-mcp"
+}

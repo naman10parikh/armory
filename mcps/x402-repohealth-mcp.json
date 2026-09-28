@@ -1,0 +1,7 @@
+{
+  "name": "x402-repohealth-mcp",
+  "description": "MCP server that computes a GitHub repo maintenance/abandonment health score from live GitHub data, providing a 0-100 score and verdict via the check_repo_health tool.",
+  "source_repo": "liminalpepe/x402-repohealth-mcp",
+  "source_url": "https://github.com/liminalpepe/x402-repohealth-mcp",
+  "install": "npx -y x402-repohealth-mcp"
+}

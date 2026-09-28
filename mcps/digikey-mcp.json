@@ -1,0 +1,7 @@
+{
+  "name": "digikey-mcp",
+  "description": "A read-only MCP server for electronics engineers to search DigiKey parts, get detailed product information, plan and validate BOMs, and export order lists, using the official DigiKey API.",
+  "source_repo": "itsyashk/digikey-mcp",
+  "source_url": "https://github.com/itsyashk/digikey-mcp",
+  "install": "npx -y digikey-mcp"
+}

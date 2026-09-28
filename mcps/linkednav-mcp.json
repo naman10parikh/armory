@@ -1,0 +1,7 @@
+{
+  "name": "linkednav-mcp",
+  "description": "Connects AI assistants to LinkedIn outreach, enabling lead finding, campaign management, messaging, and analytics through natural language.",
+  "source_repo": "linglistack/linkednav-mcp",
+  "source_url": "https://github.com/linglistack/linkednav-mcp",
+  "install": "npx -y linkednav-mcp"
+}

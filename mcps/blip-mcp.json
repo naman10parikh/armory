@@ -1,0 +1,7 @@
+{
+  "name": "blip-mcp",
+  "description": "MCP server for the Take Blip platform that exposes contacts, buckets, broadcast lists, and more to any MCP client, with read-only safety by default and optional write capabilities.",
+  "source_repo": "Michaeltsg/mcp-blip",
+  "source_url": "https://github.com/Michaeltsg/mcp-blip",
+  "install": "# git clone --depth 1 https://github.com/Michaeltsg/mcp-blip\n# See source for mcpServers config block"
+}

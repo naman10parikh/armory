@@ -1,0 +1,7 @@
+{
+  "name": "tinify-ai-mcp-server",
+  "description": "MCP server for tinify.ai image optimization. AI-powered upscaling, resizing/cropping, compression, and SEO filename & alt text generation — all in one tool.",
+  "source_repo": "onepunchtechnology/tinify-ai-mcp-server",
+  "source_url": "https://github.com/onepunchtechnology/tinify-ai-mcp-server",
+  "install": "npx -y tinify-ai-mcp-server"
+}

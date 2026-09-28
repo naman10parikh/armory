@@ -1,0 +1,7 @@
+{
+  "name": "pidp10-mcp",
+  "description": "An MCP server for driving an ITS session on a PiDP-10 emulator over raw TCP, supporting persistent connections, raw control-byte transmission, and escape syntax for DDT commands. It enables interaction with ITS systems through natural language via MCP tools like open, send, read, and status.",
+  "source_repo": "masto/pidp10-mcp",
+  "source_url": "https://github.com/masto/pidp10-mcp",
+  "install": "npx -y pidp10-mcp"
+}

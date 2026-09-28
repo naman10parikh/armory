@@ -1,0 +1,7 @@
+{
+  "name": "mdfmcp",
+  "description": "MCP server for analyzing ASAM MDF measurement data files, enabling AI assistants to access and analyze automotive and industrial measurement data.",
+  "source_repo": "Shanko-26/mdfmcp",
+  "source_url": "https://github.com/Shanko-26/mdfmcp",
+  "install": "# git clone --depth 1 https://github.com/Shanko-26/mdfmcp\n# See source for mcpServers config block"
+}

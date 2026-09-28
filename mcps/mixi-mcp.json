@@ -1,0 +1,7 @@
+{
+  "name": "mixi-mcp",
+  "description": "Enables conducting spatial preference interviews for the MIXI lighting brand via Claude.ai, with results saved to Cloudflare KV.",
+  "source_repo": "caffeineworks-ai/mixi-mcp",
+  "source_url": "https://github.com/caffeineworks-ai/mixi-mcp",
+  "install": "npx -y mixi-mcp"
+}

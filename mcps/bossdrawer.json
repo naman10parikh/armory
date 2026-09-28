@@ -1,0 +1,7 @@
+{
+  "name": "bossdrawer",
+  "description": "Helps small business owners classify business documents and messages, extract key information like dates and amounts, generate action checklists, check missing documents, and draft business messages for accountants, clients, and employees.",
+  "source_repo": "wkd09/boss-drawer-mcp",
+  "source_url": "https://github.com/wkd09/boss-drawer-mcp",
+  "install": "npx -y boss-drawer-mcp"
+}

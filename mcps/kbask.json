@@ -1,0 +1,7 @@
+{
+  "name": "kbask",
+  "description": "Hybrid MCP server that combines Graphify’s structural code graphs with Understand-Anything’s semantic knowledge bases, exposing both as MCP tools for code analysis and natural-language questioning.",
+  "source_repo": "sughosh-pocketfm/kbask",
+  "source_url": "https://github.com/sughosh-pocketfm/kbask",
+  "install": "# git clone --depth 1 https://github.com/sughosh-pocketfm/kbask\n# See source for mcpServers config block"
+}

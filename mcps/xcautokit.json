@@ -1,0 +1,7 @@
+{
+  "name": "xcautokit",
+  "description": "First-party MCP server and CLI for Xcode and iOS Simulator automation. Enables control of Xcode and iOS Simulator via MCP tools for tasks like building, testing, and automation.",
+  "source_repo": "Ezra-Black/xcautokit",
+  "source_url": "https://github.com/Ezra-Black/xcautokit",
+  "install": "# git clone --depth 1 https://github.com/Ezra-Black/xcautokit\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "orca-profiles-mcp",
+  "description": "An MCP server that reads and edits OrcaSlicer profiles, expanding the full inheritance chain and tracking the provenance of every value.",
+  "source_repo": "Zmokizmoghi/orca-profiles-mcp",
+  "source_url": "https://github.com/Zmokizmoghi/orca-profiles-mcp",
+  "install": "npx -y orca-profiles-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-pa-dec-caixa-postal",
+  "description": "Provides a single MCP tool to query SEFAZ PA DEC Caixa Postal (official Brazilian tax mailbox notifications) with pre-paid credits via HTTP.",
+  "source_repo": "mcp-dir/sefaz_pa_dec_caixa_postal-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_pa_dec_caixa_postal-mcp",
+  "install": "npx -y sefaz_pa_dec_caixa_postal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "galatea-garden-chatgpt-wake-mcp",
+  "description": "Windows-first MCP server that bridges Garden Wake Bridge events into a durable SQLite event box and exposes wait/acknowledge tools via OpenAI Secure MCP Tunnel, enabling ChatGPT Chat to wait for, read, and acknowledge Garden game or forum events.",
+  "source_repo": "mei-shui-xing/galatea-garden-chatgpt-wake-mcp",
+  "source_url": "https://github.com/mei-shui-xing/galatea-garden-chatgpt-wake-mcp",
+  "install": "npx -y galatea-garden-chatgpt-wake-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aspro-cloud-mcp",
+  "description": "Enables AI assistants to manage CRM deals and tasks on Aspro Cloud, including CRUD operations on deals, tasks, users, pipelines, and workflows.",
+  "source_repo": "kazan-project-manufactory/aspo-cloud-mcp",
+  "source_url": "https://github.com/kazan-project-manufactory/aspo-cloud-mcp",
+  "install": "npx -y aspo-cloud-mcp"
+}

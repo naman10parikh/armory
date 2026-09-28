@@ -1,0 +1,7 @@
+{
+  "name": "idpay-mcp",
+  "description": "MCP server for IDPay payment gateway (Iran). Supports payment creation, verification, inquiry, transaction listing, and payment links.",
+  "source_repo": "theYahia/idpay-mcp",
+  "source_url": "https://github.com/theYahia/idpay-mcp",
+  "install": "npx -y idpay-mcp"
+}

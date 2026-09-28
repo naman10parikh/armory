@@ -1,0 +1,7 @@
+{
+  "name": "disk-clean-mcp",
+  "description": "Enables read-only analysis of local disk usage to identify cleanup targets by size, type, recency, and duplicates.",
+  "source_repo": "Superandyfre/disk-clean-mcp",
+  "source_url": "https://github.com/Superandyfre/disk-clean-mcp",
+  "install": "npx -y disk-clean-mcp"
+}

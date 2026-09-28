@@ -1,0 +1,7 @@
+{
+  "name": "igaming-odds-mcp",
+  "description": "MCP server providing deterministic betting odds tools including conversions, margin, parlay pricing, settlement, and Kelly staking.",
+  "source_repo": "artemsoldatov/igaming-odds-mcp",
+  "source_url": "https://github.com/artemsoldatov/igaming-odds-mcp",
+  "install": "npx -y igaming-odds-mcp"
+}

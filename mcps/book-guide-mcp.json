@@ -1,0 +1,7 @@
+{
+  "name": "book-guide-mcp",
+  "description": "An MCP server that transforms books into agent-callable skill packages, enabling AI agents to use books as guides for evidence, procedures, and tutoring.",
+  "source_repo": "kazimrmerchant/book-guide-mcp",
+  "source_url": "https://github.com/kazimrmerchant/book-guide-mcp",
+  "install": "npx -y book-guide-mcp"
+}

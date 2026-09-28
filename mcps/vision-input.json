@@ -1,0 +1,7 @@
+{
+  "name": "vision-input",
+  "description": "Enables AI to capture screenshots and control mouse and keyboard for automated desktop interaction.",
+  "source_repo": "acidentlgenius/mcp_watch_screen_and_interact_with_keyboard_mouse",
+  "source_url": "https://github.com/acidentlgenius/mcp_watch_screen_and_interact_with_keyboard_mouse",
+  "install": "# git clone --depth 1 https://github.com/acidentlgenius/mcp_watch_screen_and_interact_with_keyboard_mouse\n# See source for mcpServers config block"
+}

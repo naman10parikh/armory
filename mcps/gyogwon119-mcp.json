@@ -1,0 +1,7 @@
+{
+  "name": "gyogwon119-mcp",
+  "description": "This MCP server assists teachers experiencing educational activity infringements by providing step-by-step guidance grounded in current laws and education office manuals, including tools for drafting statements, searching real-time legal provisions, and connecting to support agencies.",
+  "source_repo": "mindm1ner/gyogwon-mcp",
+  "source_url": "https://github.com/mindm1ner/gyogwon-mcp",
+  "install": "npx -y gyogwon-mcp"
+}

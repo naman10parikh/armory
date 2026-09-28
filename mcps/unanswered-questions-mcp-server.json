@@ -1,0 +1,7 @@
+{
+  "name": "unanswered-questions-mcp-server",
+  "description": "MCP server that tracks questions a RAG chatbot can't answer, clusters them by semantic similarity, and suggests what documentation to add.",
+  "source_repo": "hamurda/rag-insights-mcp",
+  "source_url": "https://github.com/hamurda/rag-insights-mcp",
+  "install": "npx -y rag-insights-mcp"
+}

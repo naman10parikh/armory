@@ -1,0 +1,7 @@
+{
+  "name": "epa-mcp-server",
+  "description": "Access EPA environmental data — facility compliance (ECHO), toxic releases (TRI), Superfund sites, drinking water systems, environmental justice screening (EJScreen), and real-time air quality (AirNow) via MCP.",
+  "source_repo": "cyanheads/epa-mcp-server",
+  "source_url": "https://github.com/cyanheads/epa-mcp-server",
+  "install": "npx -y epa-mcp-server"
+}

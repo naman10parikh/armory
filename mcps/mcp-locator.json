@@ -1,0 +1,7 @@
+{
+  "name": "mcp-locator",
+  "description": "An MCP server that lets AI agents read and write locale JSON translation files directly from the conversation without loading the whole catalog into context.",
+  "source_repo": "Tankonyako/mcp-locator",
+  "source_url": "https://github.com/Tankonyako/mcp-locator",
+  "install": "# git clone --depth 1 https://github.com/Tankonyako/mcp-locator\n# See source for mcpServers config block"
+}

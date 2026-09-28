@@ -1,0 +1,7 @@
+{
+  "name": "simple-memory-mcp-server",
+  "description": "A lightweight MCP server that provides persistent knowledge graph storage for AI assistants, enabling memory across sessions through entity-relationship storage with JSON file persistence.",
+  "source_repo": "AojdevStudio/simple-memory-mcp",
+  "source_url": "https://github.com/AojdevStudio/simple-memory-mcp",
+  "install": "npx -y simple-memory-mcp"
+}

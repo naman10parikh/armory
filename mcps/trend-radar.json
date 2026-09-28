@@ -1,0 +1,7 @@
+{
+  "name": "trend-radar",
+  "description": "An MCP server that fetches live trends from X, Google News, GitHub, and Hugging Face, and generates a self-contained HTML dashboard displaying top 20 lists for AI news, coding repositories, and models.",
+  "source_repo": "girlmoony/mcp_Trend_Radar",
+  "source_url": "https://github.com/girlmoony/mcp_Trend_Radar",
+  "install": "# git clone --depth 1 https://github.com/girlmoony/mcp_Trend_Radar\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "faircom-mcp-server",
+  "description": "Enables operators to interact with FairCom JSON API through MCP tools for SQL queries, metadata inspection, and administration, with enterprise-grade Linux packaging and service management.",
+  "source_repo": "toddstoffel/faircom-mcp",
+  "source_url": "https://github.com/toddstoffel/faircom-mcp",
+  "install": "npx -y faircom-mcp"
+}

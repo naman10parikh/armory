@@ -1,0 +1,7 @@
+{
+  "name": "open-computer-use",
+  "description": "MCP server that gives any LLM a managed Docker workspace with live browser, terminal, code execution, document skills, and autonomous sub-agents.",
+  "source_repo": "Wide-Moat/open-computer-use",
+  "source_url": "https://github.com/Wide-Moat/open-computer-use",
+  "install": "# git clone --depth 1 https://github.com/Wide-Moat/open-computer-use\n# See source for mcpServers config block"
+}

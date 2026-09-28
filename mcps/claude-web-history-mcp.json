@@ -1,0 +1,7 @@
+{
+  "name": "claude-web-history-mcp",
+  "description": "Enables Claude Code to browse and import conversations from a user's claude.ai account, making mobile chat history available in the editor. Includes tools to list, read, and save web conversations locally.",
+  "source_repo": "DestinyJazz/claude-web-history-mcp",
+  "source_url": "https://github.com/DestinyJazz/claude-web-history-mcp",
+  "install": "npx -y claude-web-history-mcp"
+}

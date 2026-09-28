@@ -1,0 +1,7 @@
+{
+  "name": "vbot-mind-mcp",
+  "description": "Provides a runtime for autonomous virtual robot brains, sitting between game engines and LLM inference to offer perception ingestion, LLM-driven reasoning, episodic memory, personality engine, motor output, and multi-bot registry.",
+  "source_repo": "sandraschi/vbot-mind-mcp",
+  "source_url": "https://github.com/sandraschi/vbot-mind-mcp",
+  "install": "npx -y vbot-mind-mcp"
+}

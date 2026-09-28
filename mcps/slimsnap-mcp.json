@@ -1,0 +1,7 @@
+{
+  "name": "slimsnap-mcp",
+  "description": "Connects to SlimSnap to provide recent screen captures as structured JSON data (text and annotations) for AI to read, avoiding screenshot limitations.",
+  "source_repo": "bickov/slimsnap-mcp",
+  "source_url": "https://github.com/bickov/slimsnap-mcp",
+  "install": "npx -y slimsnap-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "everquest-legends-mcp",
+  "description": "Read-only Model Context Protocol server for EverQuest Legends public sources, enabling wiki search, news retrieval, and media access without authentication.",
+  "source_repo": "Sergeantfirstclassvincetoxicumnegrum35/everquest-legends-mcp",
+  "source_url": "https://github.com/Sergeantfirstclassvincetoxicumnegrum35/everquest-legends-mcp",
+  "install": "npx -y everquest-legends-mcp"
+}

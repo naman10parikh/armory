@@ -1,0 +1,7 @@
+{
+  "name": "discorg-mcp",
+  "description": "MCP server for Discogs that enables searching the catalog, managing collections and wantlists, and handling marketplace and orders via the Discogs API.",
+  "source_repo": "Spiegelberg/discogs-mcp",
+  "source_url": "https://github.com/Spiegelberg/discogs-mcp",
+  "install": "npx -y discogs-mcp"
+}

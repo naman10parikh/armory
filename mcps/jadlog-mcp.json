@@ -1,0 +1,7 @@
+{
+  "name": "jadlog-mcp",
+  "description": "MCP server that integrates with the Jadlog logistics API, enabling shipping order creation and cancellation, freight simulation, tracking queries, CT-e XML retrieval, pick-up/drop-off point lookup, QR code generation, and TOTVS Moda integration for order payloads.",
+  "source_repo": "fabianoomura/jadlog-mcp",
+  "source_url": "https://github.com/fabianoomura/jadlog-mcp",
+  "install": "npx -y jadlog-mcp"
+}

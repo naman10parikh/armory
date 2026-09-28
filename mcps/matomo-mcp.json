@@ -1,0 +1,7 @@
+{
+  "name": "matomo-mcp",
+  "description": "Matomo MCP Server to Work fast with Analytics",
+  "source_repo": "Liohtml/matomo-mcp",
+  "source_url": "https://github.com/Liohtml/matomo-mcp",
+  "install": "npx -y matomo-mcp"
+}

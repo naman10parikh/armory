@@ -1,0 +1,7 @@
+{
+  "name": "excel-lsp",
+  "description": "An MCP server that provides a semantic index and 14 bounded tools for AI agents to navigate Excel workbooks by symbols, references, and diagnostics, avoiding the need to read entire rows.",
+  "source_repo": "Brody900/excel-lsp",
+  "source_url": "https://github.com/Brody900/excel-lsp",
+  "install": "# git clone --depth 1 https://github.com/Brody900/excel-lsp\n# See source for mcpServers config block"
+}

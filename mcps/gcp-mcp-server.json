@@ -1,0 +1,7 @@
+{
+  "name": "gcp-mcp-server",
+  "description": "Model Context Protocol server for Google Cloud Platform, enabling interaction with Resource Manager, Compute Engine, Cloud Storage, BigQuery, Pub/Sub, and Cloud Logging via natural language.",
+  "source_repo": "LokiMCPUniverse/gcp-mcp-server",
+  "source_url": "https://github.com/LokiMCPUniverse/gcp-mcp-server",
+  "install": "npx -y gcp-mcp-server"
+}

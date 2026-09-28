@@ -1,0 +1,7 @@
+{
+  "name": "snifa-mcp-server",
+  "description": "Connects Claude to public environmental enforcement data from Chile's Superintendencia del Medio Ambiente (SNIFA), enabling search and retrieval of sanctions, inspections, measures, and registrable units filtered by category, region, and entity.",
+  "source_repo": "bawzenit-glitch/snifa-mcp",
+  "source_url": "https://github.com/bawzenit-glitch/snifa-mcp",
+  "install": "npx -y snifa-mcp"
+}

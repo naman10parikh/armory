@@ -1,0 +1,7 @@
+{
+  "name": "livebrain-mcp",
+  "description": "Enables AI agents to control Ableton Live 12 for music production, including generating grooves, basslines, and percussion, and executing live set operations through MCP.",
+  "source_repo": "Fasping/livebrain-mcp",
+  "source_url": "https://github.com/Fasping/livebrain-mcp",
+  "install": "npx -y livebrain-mcp"
+}

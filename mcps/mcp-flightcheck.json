@@ -1,0 +1,7 @@
+{
+  "name": "mcp-flightcheck",
+  "description": "Automated testing tool for MCP servers that checks protocol conformance, tool quality, and reliability, providing a scorecard with spec citations and non-zero exit codes for CI.",
+  "source_repo": "pardovot/mcp-flightcheck",
+  "source_url": "https://github.com/pardovot/mcp-flightcheck",
+  "install": "# git clone --depth 1 https://github.com/pardovot/mcp-flightcheck\n# See source for mcpServers config block"
+}

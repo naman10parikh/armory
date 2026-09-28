@@ -1,0 +1,7 @@
+{
+  "name": "was-pipedrive-mcp",
+  "description": "A self-contained MCP server for Pipedrive CRM that exposes 27 tools allowing AI coding assistants to read, create, update, search, and manage deals, contacts, activities, organizations, leads, and pipelines.",
+  "source_repo": "mnsmasum62786/was-pipedrive-mcp",
+  "source_url": "https://github.com/mnsmasum62786/was-pipedrive-mcp",
+  "install": "npx -y was-pipedrive-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "membro",
+  "description": "Membro is a local-first memory service for AI assistants, providing MCP tools to recall ranked memories, search history, save memory notes, and retrieve a profile summary. Everything is stored in a local SQLite file with per-fact provenance and a review queue.",
+  "source_repo": "shawn-durrani/membro",
+  "source_url": "https://github.com/shawn-durrani/membro",
+  "install": "# git clone --depth 1 https://github.com/shawn-durrani/membro\n# See source for mcpServers config block"
+}

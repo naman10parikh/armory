@@ -1,0 +1,7 @@
+{
+  "name": "claude-second-opinion-mcp",
+  "description": "Enables any MCP client to request an independent second opinion from a fresh Claude Code session without blocking, useful for plans, architecture, debugging, security reviews, and final checks.",
+  "source_repo": "Borge-Labs/claude-second-opinion-mcp",
+  "source_url": "https://github.com/Borge-Labs/claude-second-opinion-mcp",
+  "install": "npx -y claude-second-opinion-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thirsty-tokens",
+  "description": "Estimates data-center water consumption from local Claude Code transcripts, providing water usage summaries, breakdowns by model/project, and a compact HTML widget.",
+  "source_repo": "evanwang810/thirsty-tokens",
+  "source_url": "https://github.com/evanwang810/thirsty-tokens",
+  "install": "# git clone --depth 1 https://github.com/evanwang810/thirsty-tokens\n# See source for mcpServers config block"
+}

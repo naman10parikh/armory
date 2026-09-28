@@ -1,0 +1,7 @@
+{
+  "name": "notes-mcp-2",
+  "description": "Enables AI assistants to search and retrieve content from local Markdown notes using term-frequency scoring.",
+  "source_repo": "ashleykarhoff/notes-mcp",
+  "source_url": "https://github.com/ashleykarhoff/notes-mcp",
+  "install": "npx -y notes-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-sros",
+  "description": "Provides tools to view operational state and change configuration of Nokia SR OS devices using pySROS SDK and FastMCP.",
+  "source_repo": "mohamedhafez87/mcp-server-sros",
+  "source_url": "https://github.com/mohamedhafez87/mcp-server-sros",
+  "install": "# git clone --depth 1 https://github.com/mohamedhafez87/mcp-server-sros\n# See source for mcpServers config block"
+}

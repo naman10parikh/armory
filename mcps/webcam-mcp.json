@@ -1,0 +1,7 @@
+{
+  "name": "webcam-mcp",
+  "description": "Enables a coding agent to see and hear the host machine via webcam stills, microphone speech-to-text, and optional text-to-speech replies, all processed locally.",
+  "source_repo": "luigimasango-dev/webcam-mcp",
+  "source_url": "https://github.com/luigimasango-dev/webcam-mcp",
+  "install": "npx -y webcam-mcp"
+}

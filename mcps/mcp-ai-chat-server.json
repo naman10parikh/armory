@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ai-chat-server",
+  "description": "A Laravel-based AI-powered chat interface for business management operations, enabling users to execute tasks like creating customers and updating task statuses through natural language conversations.",
+  "source_repo": "fawazbayureksa/mcp-server",
+  "source_url": "https://github.com/fawazbayureksa/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/fawazbayureksa/mcp-server\n# See source for mcpServers config block"
+}

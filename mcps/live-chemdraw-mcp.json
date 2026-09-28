@@ -1,0 +1,7 @@
+{
+  "name": "live-chemdraw-mcp",
+  "description": "Connects AI assistants to a live ChemDraw window on Windows via COM automation, enabling drawing, editing, and organizing chemical structures directly in the open document. Supports structure insert/export, scope tables, shorthand groups, figure layout, chemistry QC, publication tools, annotations,",
+  "source_repo": "MALeitch/live-chemdraw-mcp",
+  "source_url": "https://github.com/MALeitch/live-chemdraw-mcp",
+  "install": "npx -y live-chemdraw-mcp"
+}

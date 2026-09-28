@@ -1,0 +1,7 @@
+{
+  "name": "deploy-to-agents-server",
+  "description": "Remote MCP server for auditing app surfaces in AI agent ecosystems, checking recommendation status, and creating distribution plans.",
+  "source_repo": "saezbaldo/deploytoagents",
+  "source_url": "https://github.com/saezbaldo/deploytoagents",
+  "install": "# git clone --depth 1 https://github.com/saezbaldo/deploytoagents\n# See source for mcpServers config block"
+}

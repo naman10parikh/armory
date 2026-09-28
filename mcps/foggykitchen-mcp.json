@@ -1,0 +1,7 @@
+{
+  "name": "foggykitchen-mcp",
+  "description": "Connects Codex to the FoggyKitchen MCP endpoint, enabling use of FoggyKitchen tools within Codex.",
+  "source_repo": "foggykitchen/foggykitchen-mcp",
+  "source_url": "https://github.com/foggykitchen/foggykitchen-mcp",
+  "install": "npx -y foggykitchen-mcp"
+}

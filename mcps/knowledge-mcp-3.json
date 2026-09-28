@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-mcp-3",
+  "description": "An MCP server that acts as a knowledge engine for software projects, delivering relevant context at the start of a task and accumulating knowledge at its end through tools like start_task, context, finish_task, remember, and search, with a file-based source of truth and optional semantic retrieval v",
+  "source_repo": "ggirardi1/knowledge-mcp",
+  "source_url": "https://github.com/ggirardi1/knowledge-mcp",
+  "install": "npx -y knowledge-mcp"
+}

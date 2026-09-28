@@ -1,0 +1,7 @@
+{
+  "name": "zspace-nas-mcp",
+  "description": "Enables AI agents like Claude Code to directly control a ZSpace NAS with 90 tools for file management, media, notes, cloud disks, and more.",
+  "source_repo": "coracoo/zspace_skill",
+  "source_url": "https://github.com/coracoo/zspace_skill",
+  "install": "# git clone --depth 1 https://github.com/coracoo/zspace_skill\n# See source for mcpServers config block"
+}

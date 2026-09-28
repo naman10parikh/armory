@@ -1,0 +1,7 @@
+{
+  "name": "q0t-telegram-mcp",
+  "description": "A production-quality Telegram MCP server that sends messages via Telegram API, fixing bugs in the reference implementation. Provides tools to list dialogs, read messages, send messages, and mark chats as read.",
+  "source_repo": "q0tik/q0t-telegram-mcp",
+  "source_url": "https://github.com/q0tik/q0t-telegram-mcp",
+  "install": "npx -y q0t-telegram-mcp"
+}

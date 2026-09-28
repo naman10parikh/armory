@@ -1,0 +1,7 @@
+{
+  "name": "bizidashboard-mcp",
+  "description": "MCP server that exposes BiziDashboard's historical and analytical data for the Zaragoza Bizi bike-share system as tools for LLM clients, enabling queries on rankings, occupancy patterns, mobility signals, alert history, and station rebalancing diagnostics.",
+  "source_repo": "gcaguilar/bizidashboard-mcp",
+  "source_url": "https://github.com/gcaguilar/bizidashboard-mcp",
+  "install": "npx -y bizidashboard-mcp"
+}

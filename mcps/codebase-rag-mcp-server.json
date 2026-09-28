@@ -1,0 +1,7 @@
+{
+  "name": "codebase-rag-mcp-server",
+  "description": "Enables AI agents to chat with codebases by indexing local directories or GitHub repositories into a vector database for semantic search and code retrieval.",
+  "source_repo": "bluewings1211/codebase-RAG",
+  "source_url": "https://github.com/bluewings1211/codebase-RAG",
+  "install": "# git clone --depth 1 https://github.com/bluewings1211/codebase-RAG\n# See source for mcpServers config block"
+}

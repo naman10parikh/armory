@@ -1,0 +1,7 @@
+{
+  "name": "linkseek",
+  "description": "自托管的远程 MCP 服务，为 AI 编程工具提供联网搜索和网页获取能力，并配有网页端管理后台进行密钥和用量管理。",
+  "source_repo": "honlnk/linkseek",
+  "source_url": "https://github.com/honlnk/linkseek",
+  "install": "# git clone --depth 1 https://github.com/honlnk/linkseek\n# See source for mcpServers config block"
+}

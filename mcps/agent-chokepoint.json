@@ -1,0 +1,7 @@
+{
+  "name": "agent-chokepoint",
+  "description": "A security checkpoint for AI agents that intercepts and polices tool calls with allow/block/ask verdicts, taint tracking, and audit logging.",
+  "source_repo": "ydarwish1/agent-chokepoint",
+  "source_url": "https://github.com/ydarwish1/agent-chokepoint",
+  "install": "# git clone --depth 1 https://github.com/ydarwish1/agent-chokepoint\n# See source for mcpServers config block"
+}

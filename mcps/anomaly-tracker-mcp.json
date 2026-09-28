@@ -1,0 +1,7 @@
+{
+  "name": "anomaly-tracker-mcp",
+  "description": "Blockchain event sequence anomaly detection MCP server using NASA-derived sequence mining, providing human-readable story labels and anomaly scores for financial event windows.",
+  "source_repo": "forgemeshlabs/anomaly-mcp",
+  "source_url": "https://github.com/forgemeshlabs/anomaly-mcp",
+  "install": "npx -y anomaly-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sigil-mcp-server",
+  "description": "Provides IDE-like code navigation and search for local repositories, enabling AI assistants to perform symbol search, trigram indexing, and semantic navigation.",
+  "source_repo": "Superuser666-Sigil/SigilDERG-Custom-MCP",
+  "source_url": "https://github.com/Superuser666-Sigil/SigilDERG-Custom-MCP",
+  "install": "npx -y SigilDERG-Custom-MCP"
+}

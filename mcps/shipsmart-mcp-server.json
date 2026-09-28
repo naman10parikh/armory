@@ -1,0 +1,7 @@
+{
+  "name": "shipsmart-mcp-server",
+  "description": "Enables AI assistants to manage logistics operations including orders, shipments, tracking, and warehouse management through standardized MCP tools.",
+  "source_repo": "wickedseer/logistics-mcp-server",
+  "source_url": "https://github.com/wickedseer/logistics-mcp-server",
+  "install": "npx -y logistics-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "devstack-mcp",
+  "description": "Provides a keyless, unified view of developer registries (npm, PyPI, Docker Hub, VS Code Marketplace) with tools for package search, details, versions, downloads, dependency graphs, vulnerabilities, and security insights via the DevStack API.",
+  "source_repo": "IsaiahDupree/devstack-mcp",
+  "source_url": "https://github.com/IsaiahDupree/devstack-mcp",
+  "install": "npx -y devstack-mcp"
+}

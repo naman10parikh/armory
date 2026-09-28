@@ -1,0 +1,7 @@
+{
+  "name": "google-search-console",
+  "description": "Enables querying Google Search Console data, including search analytics, indexing status, and sitemap management, through natural language conversations with Claude.",
+  "source_repo": "sofianbettayeb/gsc-mcp-server",
+  "source_url": "https://github.com/sofianbettayeb/gsc-mcp-server",
+  "install": "npx -y gsc-mcp-server"
+}

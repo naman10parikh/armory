@@ -1,0 +1,7 @@
+{
+  "name": "agent-ebpf-mcp",
+  "description": "Enables AI agents to inspect and manage Linux kernel-level eBPF security policies, including real-time status monitoring, policy retrieval, dynamic rule injection, and pre-execution SQL/syscall validation via natural language.",
+  "source_repo": "bohemist/agent-ebpf",
+  "source_url": "https://github.com/bohemist/agent-ebpf",
+  "install": "# git clone --depth 1 https://github.com/bohemist/agent-ebpf\n# See source for mcpServers config block"
+}

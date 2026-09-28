@@ -1,0 +1,7 @@
+{
+  "name": "developer-portfolio-mcp-server",
+  "description": "An MCP server that lets recruiters and AI assistants explore your profile, skills, and projects through natural language.",
+  "source_repo": "minhasaatish/developer-portfolio-mcp",
+  "source_url": "https://github.com/minhasaatish/developer-portfolio-mcp",
+  "install": "npx -y developer-portfolio-mcp"
+}

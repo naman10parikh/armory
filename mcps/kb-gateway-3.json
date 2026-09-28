@@ -1,0 +1,7 @@
+{
+  "name": "kb-gateway-3",
+  "description": "HTTP MCP gateway for a learning corpus with Pinecone, Neo4j, and agentic router, enabling remote agents to query via tools like route_query, query_namespace, graph_query, etc.",
+  "source_repo": "okrealai/kb-gateway",
+  "source_url": "https://github.com/okrealai/kb-gateway",
+  "install": "# git clone --depth 1 https://github.com/okrealai/kb-gateway\n# See source for mcpServers config block"
+}

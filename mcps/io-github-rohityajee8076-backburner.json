@@ -1,0 +1,7 @@
+{
+  "name": "io-github-rohityajee8076-backburner",
+  "description": "Enables AI assistants to run long shell commands as background tasks, with survival across restarts, live progress peeking, and command allow/deny policies.",
+  "source_repo": "RohitYajee8076/backburner",
+  "source_url": "https://github.com/RohitYajee8076/backburner",
+  "install": "# git clone --depth 1 https://github.com/RohitYajee8076/backburner\n# See source for mcpServers config block"
+}

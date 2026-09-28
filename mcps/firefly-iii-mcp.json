@@ -1,0 +1,7 @@
+{
+  "name": "firefly-iii-mcp",
+  "description": "Deploy a Firefly III MCP server on Cloudflare Workers to let AI assistants interact with your Firefly III personal finance data, including accounts, transactions, budgets, and reports, with configurable tool presets.",
+  "source_repo": "Drumfire01/firefly-iii-mcp",
+  "source_url": "https://github.com/Drumfire01/firefly-iii-mcp",
+  "install": "npx -y firefly-iii-mcp"
+}

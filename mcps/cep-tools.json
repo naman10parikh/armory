@@ -1,0 +1,7 @@
+{
+  "name": "cep-tools",
+  "description": "An MCP server that provides a tool to query Brazilian postal codes (CEPs) via the ViaCEP API, returning address details such as street, neighborhood, city, and state.",
+  "source_repo": "gabriellambrechtfranco/mcp_server-",
+  "source_url": "https://github.com/gabriellambrechtfranco/mcp_server-",
+  "install": "# git clone --depth 1 https://github.com/gabriellambrechtfranco/mcp_server-\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "notion-cowork-bridge",
+  "description": "Gives Notion Custom Agents real file tools and a real terminal over the Model Context Protocol, enabling them to read, edit, and run commands directly on the user's machine.",
+  "source_repo": "soumosa/notion-cowork-bridge",
+  "source_url": "https://github.com/soumosa/notion-cowork-bridge",
+  "install": "# git clone --depth 1 https://github.com/soumosa/notion-cowork-bridge\n# See source for mcpServers config block"
+}

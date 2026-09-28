@@ -1,0 +1,7 @@
+{
+  "name": "developer-utility-mcp",
+  "description": "Provides developer utilities like UUID generation, hashing, JSON formatting, environment information, and reusable prompts via the Model Context Protocol.",
+  "source_repo": "Pradyumna-cyber/dev-utility-mcp",
+  "source_url": "https://github.com/Pradyumna-cyber/dev-utility-mcp",
+  "install": "npx -y dev-utility-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "github-mcp-agent-server",
+  "description": "MCP server that exposes GitHub operations as tools for AI agents, enabling code search, issue management, and PR review.",
+  "source_repo": "FMorgan-111/github-mcp-server",
+  "source_url": "https://github.com/FMorgan-111/github-mcp-server",
+  "install": "npx -y github-mcp-server"
+}

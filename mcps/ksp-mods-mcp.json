@@ -1,0 +1,7 @@
+{
+  "name": "ksp-mods-mcp",
+  "description": "MCP server for searching Kerbal Space Program mods from the CKAN index, with tools for mod search, recommendations, parts listing, and CKAN download cache integration.",
+  "source_repo": "tabbykat113/ksp-mods-mcp",
+  "source_url": "https://github.com/tabbykat113/ksp-mods-mcp",
+  "install": "npx -y ksp-mods-mcp"
+}

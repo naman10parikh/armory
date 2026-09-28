@@ -1,0 +1,7 @@
+{
+  "name": "hookshelf-mcp",
+  "description": "Enables coding agents to receive and inspect real webhook payloads locally, send signature-valid test events for seven providers, and replay deliveries — all without leaving the machine.",
+  "source_repo": "vinkurov/hookshelf-mcp",
+  "source_url": "https://github.com/vinkurov/hookshelf-mcp",
+  "install": "npx -y hookshelf-mcp"
+}

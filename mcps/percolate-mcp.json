@@ -1,0 +1,7 @@
+{
+  "name": "percolate-mcp",
+  "description": "MCP server for querying Percolate's specialty coffee database with read-only access to 1,100+ coffees, tasting profiles, brew recipes, pairings, and recommendations.",
+  "source_repo": "bguillow-rgb/percolate-mcp",
+  "source_url": "https://github.com/bguillow-rgb/percolate-mcp",
+  "install": "npx -y percolate-mcp"
+}

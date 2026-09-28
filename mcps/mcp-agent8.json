@@ -1,6 +1,6 @@
 {
   "name": "mcp-agent8",
-  "description": "Mcp Agent8 MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "planetarium/mcp-agent8",
   "source_url": "https://mcp.so/server/mcp-agent8/planetarium",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-agent8/planetarium\n# See source for mcpServers config block"

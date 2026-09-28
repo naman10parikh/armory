@@ -1,0 +1,7 @@
+{
+  "name": "cukaimax-tax-authority",
+  "description": "CukaiMax Tax Authority is an MCP server that gives AI agents source-linked Malaysian individual tax information and deterministic draft preparation checks for YA2025 Form BE/B and YA2026 planning, via a public read-only Streamable HTTP endpoint.",
+  "source_repo": "jakzaizzat/cukaimax-agent",
+  "source_url": "https://github.com/jakzaizzat/cukaimax-agent",
+  "install": "# git clone --depth 1 https://github.com/jakzaizzat/cukaimax-agent\n# See source for mcpServers config block"
+}

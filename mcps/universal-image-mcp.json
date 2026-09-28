@@ -1,0 +1,7 @@
+{
+  "name": "universal-image-mcp",
+  "description": "MCP server for multi-provider AI image generation (AWS Bedrock, OpenAI, Google Gemini) enabling image generation, transformation, and editing through a unified interface.",
+  "source_repo": "manu-mishra/universal-image-mcp",
+  "source_url": "https://github.com/manu-mishra/universal-image-mcp",
+  "install": "npx -y universal-image-mcp"
+}

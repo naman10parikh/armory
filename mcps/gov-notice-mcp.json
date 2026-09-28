@@ -1,0 +1,7 @@
+{
+  "name": "gov-notice-mcp",
+  "description": "Enables searching, summarizing, and recommending government and public institution notices based on a user profile, with tools for collection and analysis.",
+  "source_repo": "openit-mykim/gov-notice-mcp",
+  "source_url": "https://github.com/openit-mykim/gov-notice-mcp",
+  "install": "npx -y gov-notice-mcp"
+}

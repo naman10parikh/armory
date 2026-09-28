@@ -1,0 +1,7 @@
+{
+  "name": "memory-engine",
+  "description": "Enables programming agents to capture errors and conversation signals, reflect on root causes, consolidate reusable skills, and retrieve relevant context for future tasks, providing a self-learning memory loop.",
+  "source_repo": "top777/memory-engine",
+  "source_url": "https://github.com/top777/memory-engine",
+  "install": "# git clone --depth 1 https://github.com/top777/memory-engine\n# See source for mcpServers config block"
+}

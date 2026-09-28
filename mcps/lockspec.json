@@ -1,0 +1,7 @@
+{
+  "name": "lockspec",
+  "description": "Provides AI coding agents with accurate OpenAPI contract details to prevent hallucinated API calls, supporting multi-version pinning, endpoint discovery, and request validation.",
+  "source_repo": "LockSpec/lockspec",
+  "source_url": "https://github.com/LockSpec/lockspec",
+  "install": "# git clone --depth 1 https://github.com/LockSpec/lockspec\n# See source for mcpServers config block"
+}

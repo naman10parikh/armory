@@ -1,0 +1,7 @@
+{
+  "name": "herald",
+  "description": "An MCP server that allows AI assistants to send formatted text, files, and updates to Telegram topics, and to capture incoming messages from work chats into a local inbox for retrieval.",
+  "source_repo": "ZenonEl/herald",
+  "source_url": "https://github.com/ZenonEl/herald",
+  "install": "# git clone --depth 1 https://github.com/ZenonEl/herald\n# See source for mcpServers config block"
+}

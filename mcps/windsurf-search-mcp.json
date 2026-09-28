@@ -1,0 +1,7 @@
+{
+  "name": "windsurf-search-mcp",
+  "description": "MCP server and CLI for Windsurf/Devin server-side web search, exposing a web_search tool that returns JSON hits from the GetWebSearchResults API.",
+  "source_repo": "jiale18219-dotcom/windsurf-search-mcp",
+  "source_url": "https://github.com/jiale18219-dotcom/windsurf-search-mcp",
+  "install": "npx -y windsurf-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-simple-timeserver",
+  "description": "Provides current local and UTC time to Claude, enabling time awareness and elapsed time calculations.",
+  "source_repo": "mikeysrecipes/mcp-simple-timeserver",
+  "source_url": "https://github.com/mikeysrecipes/mcp-simple-timeserver",
+  "install": "# git clone --depth 1 https://github.com/mikeysrecipes/mcp-simple-timeserver\n# See source for mcpServers config block"
+}

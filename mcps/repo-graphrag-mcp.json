@@ -1,0 +1,7 @@
+{
+  "name": "repo-graphrag-mcp",
+  "description": "An MCP server that builds a knowledge graph from code and text documents, enabling Q\\&A and implementation planning via tools like graph_create, graph_plan, and graph_query.",
+  "source_repo": "yumeiriowl/repo-graphrag-mcp",
+  "source_url": "https://github.com/yumeiriowl/repo-graphrag-mcp",
+  "install": "npx -y repo-graphrag-mcp"
+}

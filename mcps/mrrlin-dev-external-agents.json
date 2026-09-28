@@ -1,0 +1,7 @@
+{
+  "name": "mrrlin-dev-external-agents",
+  "description": "Routes work from your coding agent across 20+ free-tier LLMs to cut costs 10-100x using a round-robin dispatch pool with cooldown-aware auto-fallback.",
+  "source_repo": "mrrlin-dev/external-agents",
+  "source_url": "https://github.com/mrrlin-dev/external-agents",
+  "install": "# git clone --depth 1 https://github.com/mrrlin-dev/external-agents\n# See source for mcpServers config block"
+}

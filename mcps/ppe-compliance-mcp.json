@@ -1,0 +1,7 @@
+{
+  "name": "ppe-compliance-mcp",
+  "description": "Enables querying PPE compliance analytics from precomputed video inference results, providing tools for site summaries, worker status, violations, and trends without re-running inference.",
+  "source_repo": "Pratham-22/ppe-compliance",
+  "source_url": "https://github.com/Pratham-22/ppe-compliance",
+  "install": "# git clone --depth 1 https://github.com/Pratham-22/ppe-compliance\n# See source for mcpServers config block"
+}

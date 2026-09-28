@@ -1,0 +1,7 @@
+{
+  "name": "readable-mcp",
+  "description": "Converts any URL into clean, LLM-ready Markdown, text, or HTML with production-grade features like SSRF protection, rate limiting, retries, caching, and structured error handling.",
+  "source_repo": "tommypj/readable-mcp",
+  "source_url": "https://github.com/tommypj/readable-mcp",
+  "install": "npx -y readable-mcp"
+}

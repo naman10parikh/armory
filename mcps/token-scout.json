@@ -1,0 +1,7 @@
+{
+  "name": "token-scout",
+  "description": "Discovers LLM models in real time from cloud providers and local Ollama instances, returning compatibility profiles and live pricing so AI agents can route tasks to the cheapest viable model without breaking tool calls or context clipping.",
+  "source_repo": "jackccrawford/token-scout",
+  "source_url": "https://github.com/jackccrawford/token-scout",
+  "install": "# git clone --depth 1 https://github.com/jackccrawford/token-scout\n# See source for mcpServers config block"
+}

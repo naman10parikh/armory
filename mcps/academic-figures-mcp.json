@@ -1,0 +1,7 @@
+{
+  "name": "academic-figures-mcp",
+  "description": "A multi-step academic figure agent harness that enables AI agents to plan, generate, evaluate, and iterate publication-grade figures from sources like PMIDs, preprints, or freeform briefs.",
+  "source_repo": "u9401066/academic-figures-mcp",
+  "source_url": "https://github.com/u9401066/academic-figures-mcp",
+  "install": "npx -y academic-figures-mcp"
+}

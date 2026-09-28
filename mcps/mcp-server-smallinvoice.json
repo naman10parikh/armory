@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-smallinvoice",
+  "description": "MCP server for smallinvoice.ch — Swiss SME invoicing and accounting with 146 tools and OAuth2 BYOC authentication.",
+  "source_repo": "AIWerk/mcp-server-smallinvoice",
+  "source_url": "https://github.com/AIWerk/mcp-server-smallinvoice",
+  "install": "# git clone --depth 1 https://github.com/AIWerk/mcp-server-smallinvoice\n# See source for mcpServers config block"
+}

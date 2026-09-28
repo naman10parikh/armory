@@ -1,0 +1,7 @@
+{
+  "name": "parallel-works-mcp-server",
+  "description": "Enables AI assistants to manage Parallel Works ACTIVATE resources including clusters, workflows, storage, sessions, and more via the REST API.",
+  "source_repo": "parallelworks/pw-mcp",
+  "source_url": "https://github.com/parallelworks/pw-mcp",
+  "install": "npx -y pw-mcp"
+}

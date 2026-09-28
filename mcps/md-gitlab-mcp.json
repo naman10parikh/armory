@@ -1,0 +1,7 @@
+{
+  "name": "md-gitlab-mcp",
+  "description": "A fully-featured GitLab MCP server that provides 25 advanced capabilities for interacting with GitLab via REST API, including repositories, merge requests, issues, and global search.",
+  "source_repo": "DrBoria/md-gitlab-mcp",
+  "source_url": "https://github.com/DrBoria/md-gitlab-mcp",
+  "install": "npx -y md-gitlab-mcp"
+}

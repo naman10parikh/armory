@@ -1,0 +1,7 @@
+{
+  "name": "vision-memory-mcp",
+  "description": "Persistent visual cache for LLM-driven software development. Caches screenshots using perceptual hashing, vector search, and AX trees to prevent token overhead and visual hallucination loops.",
+  "source_repo": "putervision/vision-memory-mcp",
+  "source_url": "https://github.com/putervision/vision-memory-mcp",
+  "install": "npx -y vision-memory-mcp"
+}

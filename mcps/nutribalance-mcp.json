@@ -1,0 +1,7 @@
+{
+  "name": "nutribalance-mcp",
+  "description": "Free nutrition tools for AI assistants — calculate TDEE & personalised macros, look up food nutrition data, generate meal plans (standard, vegetarian, vegan, keto, high-protein), fix nutrient deficiencies with food & supplement guidance, and score a day's eating from 0–100.",
+  "source_repo": "",
+  "source_url": "https://thenutritrackerapp-creator-nutribal.vercel.app",
+  "install": "# git clone --depth 1 https://thenutritrackerapp-creator-nutribal.vercel.app\n# See source for mcpServers config block"
+}

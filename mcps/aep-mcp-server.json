@@ -1,0 +1,7 @@
+{
+  "name": "aep-mcp-server",
+  "description": "The first full-featured MCP server for Adobe Experience Platform: 29 tools across schemas, datasets, profiles, segments, query service, and GDPR/CCPA privacy operations. Extends Adobe's read-only beta with production-grade write operations.",
+  "source_repo": "Focus-GTS/aep-mcp-server",
+  "source_url": "https://github.com/Focus-GTS/aep-mcp-server",
+  "install": "npx -y aep-mcp-server"
+}

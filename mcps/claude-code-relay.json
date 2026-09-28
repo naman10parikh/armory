@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-relay",
+  "description": "Relay messages between Claude Code sessions over MCP without stealing window focus, enabling background communication between parallel sessions.",
+  "source_repo": "katekyorock-ux/claude-code-relay",
+  "source_url": "https://github.com/katekyorock-ux/claude-code-relay",
+  "install": "# git clone --depth 1 https://github.com/katekyorock-ux/claude-code-relay\n# See source for mcpServers config block"
+}

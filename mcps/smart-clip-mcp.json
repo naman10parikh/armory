@@ -1,0 +1,7 @@
+{
+  "name": "smart-clip-mcp",
+  "description": "AI-powered video clipping server that analyzes subtitles and audio to detect highlight moments, then generates platform-adapted short clips from long videos.",
+  "source_repo": "Ambrose1/Smart-Clip-MCP",
+  "source_url": "https://github.com/Ambrose1/Smart-Clip-MCP",
+  "install": "npx -y Smart-Clip-MCP"
+}

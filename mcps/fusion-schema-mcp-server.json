@@ -1,0 +1,7 @@
+{
+  "name": "fusion-schema-mcp-server",
+  "description": "Grounds a Fusion-SQL agent against Oracle Fusion schema catalog, enabling table/column search, validation, and relationship discovery.",
+  "source_repo": "marat-ak/fusion-schema-mcp",
+  "source_url": "https://github.com/marat-ak/fusion-schema-mcp",
+  "install": "npx -y fusion-schema-mcp"
+}

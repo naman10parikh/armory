@@ -1,0 +1,7 @@
+{
+  "name": "mcp-kubernetics",
+  "description": "Enables Kubernetes cluster introspection via MCP tools, such as listing pods, namespaces, nodes, and events.",
+  "source_repo": "ddjain/kubernetics-mcp-server",
+  "source_url": "https://github.com/ddjain/kubernetics-mcp-server",
+  "install": "npx -y kubernetics-mcp-server"
+}

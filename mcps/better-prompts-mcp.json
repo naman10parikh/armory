@@ -1,0 +1,7 @@
+{
+  "name": "better-prompts-mcp",
+  "description": "Automatically extracts actionable methodologies from articles and URLs, stores them in a vector database, and retrieves relevant methods to enhance user prompts for more effective AI interactions.",
+  "source_repo": "comeonzhj/better-prompts-mcp",
+  "source_url": "https://github.com/comeonzhj/better-prompts-mcp",
+  "install": "npx -y better-prompts-mcp"
+}

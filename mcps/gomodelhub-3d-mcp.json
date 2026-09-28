@@ -1,0 +1,7 @@
+{
+  "name": "gomodelhub-3d-mcp",
+  "description": "Enables 3D model generation via natural language, supporting text-to-3D and image-to-3D with remote or local deployment options.",
+  "source_repo": "gomodelhub/GoModelHub-MCP",
+  "source_url": "https://github.com/gomodelhub/GoModelHub-MCP",
+  "install": "npx -y GoModelHub-MCP"
+}

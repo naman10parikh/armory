@@ -1,6 +1,6 @@
 {
   "name": "mcp-5",
-  "description": "MCP MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "blue-lotus-org/MCP",
   "source_url": "https://mcp.so/server/MCP/blue-lotus-org",
   "install": "# git clone --depth 1 https://mcp.so/server/MCP/blue-lotus-org\n# See source for mcpServers config block"

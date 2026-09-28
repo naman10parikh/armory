@@ -1,0 +1,7 @@
+{
+  "name": "graphor-remote-mcp-server",
+  "description": "Connects AI assistants and agentic frameworks to the Graphor API, enabling graph-based operations through natural language.",
+  "source_repo": "synapseops/graphor-mcp-server",
+  "source_url": "https://github.com/synapseops/graphor-mcp-server",
+  "install": "npx -y graphor-mcp-server"
+}

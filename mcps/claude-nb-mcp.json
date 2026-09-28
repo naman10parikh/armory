@@ -1,0 +1,7 @@
+{
+  "name": "claude-nb-mcp",
+  "description": "Integrates nb command-line note-taking with Claude Code, enabling adding, listing, searching, and showing notes organized by project directory.",
+  "source_repo": "lowbridgee/claude-nb-mcp",
+  "source_url": "https://github.com/lowbridgee/claude-nb-mcp",
+  "install": "npx -y claude-nb-mcp"
+}

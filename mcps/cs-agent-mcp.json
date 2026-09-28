@@ -1,0 +1,7 @@
+{
+  "name": "cs-agent-mcp",
+  "description": "A local stdio MCP service that unifies coding agents like Codex and Claude into cs_agent_* tools, enabling the root agent to create, invoke, and manage child agents with recursive delegation.",
+  "source_repo": "codestable/cs-agent-mcp",
+  "source_url": "https://github.com/codestable/cs-agent-mcp",
+  "install": "npx -y cs-agent-mcp"
+}

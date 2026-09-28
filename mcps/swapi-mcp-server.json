@@ -1,0 +1,7 @@
+{
+  "name": "swapi-mcp-server",
+  "description": "Enables LLMs and clients to search for Star Wars characters, planets, and films by exposing SWAPI as MCP tools.",
+  "source_repo": "olaekdahl/swapi-mcp-server",
+  "source_url": "https://github.com/olaekdahl/swapi-mcp-server",
+  "install": "npx -y swapi-mcp-server"
+}

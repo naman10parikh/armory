@@ -1,0 +1,7 @@
+{
+  "name": "vastai-host-mcp",
+  "description": "Enables Vast.ai providers to manage hosted machines, update pricing, run self-tests, and automate host operations through natural language.",
+  "source_repo": "Cogni-AI-OU/vastai-host-mcp",
+  "source_url": "https://github.com/Cogni-AI-OU/vastai-host-mcp",
+  "install": "npx -y vastai-host-mcp"
+}

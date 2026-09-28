@@ -1,0 +1,7 @@
+{
+  "name": "mtrkr-mcp-server",
+  "description": "A read-only MCP server connecting AI agents to MTRKR wallet intelligence on MegaETH, enabling wallet portfolio, DeFi positions, security scanning, and transaction analytics.",
+  "source_repo": "n1n4du/mtrkr-mcp-server",
+  "source_url": "https://github.com/n1n4du/mtrkr-mcp-server",
+  "install": "npx -y mtrkr-mcp-server"
+}

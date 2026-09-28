@@ -1,0 +1,7 @@
+{
+  "name": "ifrc-go-admin-mcp-server",
+  "description": "Provides access to IFRC GO Admin API for disaster relief emergency fund (DREF) data, including operations, appeals, and emergencies.",
+  "source_repo": "jmesplana/ifrc-go-admin-mcp-server",
+  "source_url": "https://github.com/jmesplana/ifrc-go-admin-mcp-server",
+  "install": "npx -y ifrc-go-admin-mcp-server"
+}

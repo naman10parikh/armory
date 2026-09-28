@@ -1,0 +1,7 @@
+{
+  "name": "dci-mcp-server",
+  "description": "MCP server for DCI API enabling AI models to extract and analyze DCI jobs, components, and topics, with integrations for Google Drive, Jira, GitHub, and Red Hat support cases.",
+  "source_repo": "redhat-community-ai-tools/dci-mcp-server",
+  "source_url": "https://github.com/redhat-community-ai-tools/dci-mcp-server",
+  "install": "npx -y dci-mcp-server"
+}

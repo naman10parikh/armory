@@ -1,0 +1,7 @@
+{
+  "name": "whichtool",
+  "description": "Enables measuring and reporting which tool a model selects from an MCP server's tool list, without ever executing tools. Provides inspection, trial runs, and confusion analysis to benchmark routing accuracy.",
+  "source_repo": "mattagame/whichtool",
+  "source_url": "https://github.com/mattagame/whichtool",
+  "install": "# git clone --depth 1 https://github.com/mattagame/whichtool\n# See source for mcpServers config block"
+}

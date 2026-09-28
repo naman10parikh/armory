@@ -1,0 +1,7 @@
+{
+  "name": "powerbi-mcp-server",
+  "description": "An MCP server for interacting with Microsoft PowerBI REST API, providing tools for data cleaning, transformation, analysis, and visualization within PowerBI.",
+  "source_repo": "pkduongsu/powerbi-mcp-server",
+  "source_url": "https://github.com/pkduongsu/powerbi-mcp-server",
+  "install": "npx -y powerbi-mcp-server"
+}

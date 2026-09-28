@@ -1,0 +1,7 @@
+{
+  "name": "lazada-mcp",
+  "description": "A read-only MCP server for Lazada Open Platform that provides access to orders, transactions, fee breakdowns, and per-SKU profit analysis.",
+  "source_repo": "chanoktrue/lazada-mcp",
+  "source_url": "https://github.com/chanoktrue/lazada-mcp",
+  "install": "npx -y lazada-mcp"
+}

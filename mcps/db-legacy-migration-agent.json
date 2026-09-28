@@ -1,0 +1,7 @@
+{
+  "name": "db-legacy-migration-agent",
+  "description": "MCP server that parses legacy relational database schemas (Oracle, DB2, MySQL, MSSQL) and transpiles them to PostgreSQL with generated Prisma schema and TypeScript query helpers.",
+  "source_repo": "felipeassis10/db-legacy-migration-agent",
+  "source_url": "https://github.com/felipeassis10/db-legacy-migration-agent",
+  "install": "# git clone --depth 1 https://github.com/felipeassis10/db-legacy-migration-agent\n# See source for mcpServers config block"
+}

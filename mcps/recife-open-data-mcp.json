@@ -1,0 +1,7 @@
+{
+  "name": "recife-open-data-mcp",
+  "description": "MCP server to query public open data from Recife, Brazil using natural language. It exposes tools for schema exploration and SQL query generation via Gemini 2.5 Flash, backed by a local DuckDB database.",
+  "source_repo": "jg-cordeiro/recife-open-data-mcp",
+  "source_url": "https://github.com/jg-cordeiro/recife-open-data-mcp",
+  "install": "npx -y recife-open-data-mcp"
+}

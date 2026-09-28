@@ -1,0 +1,7 @@
+{
+  "name": "om-metrics-mcp-server",
+  "description": "Provides natural language querying of open-source community data, including health scores, PR/Issue statistics, contributor analysis, and CLA signings via Claude Desktop.",
+  "source_repo": "zhongjun2/om-mcp",
+  "source_url": "https://github.com/zhongjun2/om-mcp",
+  "install": "npx -y om-mcp"
+}

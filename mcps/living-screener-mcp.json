@@ -1,0 +1,7 @@
+{
+  "name": "living-screener-mcp",
+  "description": "Review-only MCP server for stock, options, and crypto screening, trade planning, risk checks, backtesting, and journaling, designed to work alongside Robinhood's Trading MCP without placing orders.",
+  "source_repo": "devinraylittle-boop/living-screener-mcp",
+  "source_url": "https://github.com/devinraylittle-boop/living-screener-mcp",
+  "install": "npx -y living-screener-mcp"
+}

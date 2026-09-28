@@ -1,0 +1,7 @@
+{
+  "name": "mcp-geico",
+  "description": "An MCP server that enables AI agents to interact with GEICO insurance services, including getting quotes, managing policies, filing claims, making payments, retrieving ID cards, requesting roadside assistance, and reporting accidents.",
+  "source_repo": "markswendsen-code/mcp-geico",
+  "source_url": "https://github.com/markswendsen-code/mcp-geico",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-geico\n# See source for mcpServers config block"
+}

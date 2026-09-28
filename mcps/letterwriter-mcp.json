@@ -1,0 +1,7 @@
+{
+  "name": "letterwriter-mcp",
+  "description": "Generates DOCX letters on your organization's letterhead via MCP, returning the document as an attachment. Supports custom letterhead templates and an office registry for multi-office organizations.",
+  "source_repo": "MarylandLegalAid/letterwriter-mcp",
+  "source_url": "https://github.com/MarylandLegalAid/letterwriter-mcp",
+  "install": "npx -y letterwriter-mcp"
+}

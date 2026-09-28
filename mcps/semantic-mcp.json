@@ -1,0 +1,7 @@
+{
+  "name": "semantic-mcp",
+  "description": "A semantic router that enables discovery, management, and execution of tools across multiple MCP servers using natural language.",
+  "source_repo": "milkymap/semantic-mcp",
+  "source_url": "https://github.com/milkymap/semantic-mcp",
+  "install": "npx -y semantic-mcp"
+}

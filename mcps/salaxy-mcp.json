@@ -1,0 +1,7 @@
+{
+  "name": "salaxy-mcp",
+  "description": "Exposes Finnish payroll (palkanlaskenta) API as MCP tools for calculating salaries, retrieving income types, and fetching mock employee data.",
+  "source_repo": "afshari-maryam/salaxy-mcp",
+  "source_url": "https://github.com/afshari-maryam/salaxy-mcp",
+  "install": "npx -y salaxy-mcp"
+}

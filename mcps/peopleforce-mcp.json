@@ -1,0 +1,7 @@
+{
+  "name": "peopleforce-mcp",
+  "description": "Enables Claude, Cursor, and other MCP clients to query PeopleForce HRIS data (employees, time-off, recruitment) via 27 read-only tools.",
+  "source_repo": "EmpatDevelopment/peopleforce-mcp",
+  "source_url": "https://github.com/EmpatDevelopment/peopleforce-mcp",
+  "install": "npx -y peopleforce-mcp"
+}

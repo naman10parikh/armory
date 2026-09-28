@@ -1,0 +1,7 @@
+{
+  "name": "memory-manager-mcp",
+  "description": "A local-first persistent memory server for AI coding agents, enabling project context to be shared across different MCP clients. It stores curated memories, task states, decisions, and handoffs as plain files under ~/.agent-memory.",
+  "source_repo": "AbdulqaderAhmed/memory-manager-mcp",
+  "source_url": "https://github.com/AbdulqaderAhmed/memory-manager-mcp",
+  "install": "npx -y memory-manager-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uk-case-law-mcp-server",
+  "description": "Enables searching and retrieving UK case law from The National Archives, including full judgments with filtering by court, legal area, and date range.",
+  "source_repo": "georgejeffers/uk-case-law-mcp-server",
+  "source_url": "https://github.com/georgejeffers/uk-case-law-mcp-server",
+  "install": "npx -y uk-case-law-mcp-server"
+}

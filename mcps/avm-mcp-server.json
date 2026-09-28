@@ -1,0 +1,7 @@
+{
+  "name": "avm-mcp-server",
+  "description": "MCP server for discovering and exploring Azure Verified Modules (AVM) from the Bicep Public Registry, enabling AI agents to search, retrieve module details, and access documentation.",
+  "source_repo": "stefanstranger/avm-mcp-server",
+  "source_url": "https://github.com/stefanstranger/avm-mcp-server",
+  "install": "npx -y avm-mcp-server"
+}

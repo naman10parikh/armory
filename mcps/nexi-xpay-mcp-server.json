@@ -1,0 +1,7 @@
+{
+  "name": "nexi-xpay-mcp-server",
+  "description": "Enables AI assistants to query orders, transaction details, warnings/anomalies, and payment methods from your Nexi XPay merchant account.",
+  "source_repo": "stucchi/nexi-xpay-mcp-server",
+  "source_url": "https://github.com/stucchi/nexi-xpay-mcp-server",
+  "install": "npx -y nexi-xpay-mcp-server"
+}

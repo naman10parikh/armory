@@ -1,0 +1,7 @@
+{
+  "name": "memory-bank-mcp-mongodb",
+  "description": "MCP server for MongoDB-powered memory bank management with multi-project isolation, version control, and real-time statistics.",
+  "source_repo": "Sato-Isolated/memory-bank-mcp-mongo",
+  "source_url": "https://github.com/Sato-Isolated/memory-bank-mcp-mongo",
+  "install": "# git clone --depth 1 https://github.com/Sato-Isolated/memory-bank-mcp-mongo\n# See source for mcpServers config block"
+}

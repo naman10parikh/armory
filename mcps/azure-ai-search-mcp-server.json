@@ -1,0 +1,7 @@
+{
+  "name": "azure-ai-search-mcp-server",
+  "description": "Enables AI assistants to search, query, and manage Azure AI Search indexes using full-text, semantic, and vector search, alongside index and document operations.",
+  "source_repo": "nagendramishr/aisearch-mcp",
+  "source_url": "https://github.com/nagendramishr/aisearch-mcp",
+  "install": "npx -y aisearch-mcp"
+}

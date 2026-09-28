@@ -1,0 +1,7 @@
+{
+  "name": "teamdesk-mcp-server",
+  "description": "MCP server for TeamDesk databases, enabling CRUD operations, search, and document generation via natural language.",
+  "source_repo": "Danielbluz/teamdesk-mcp-v2",
+  "source_url": "https://github.com/Danielbluz/teamdesk-mcp-v2",
+  "install": "# git clone --depth 1 https://github.com/Danielbluz/teamdesk-mcp-v2\n# See source for mcpServers config block"
+}

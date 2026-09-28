@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-openai-image-generator",
+  "description": "Generates images from text prompts using OpenAI's API, saves them locally, and serves them via an integrated HTTP static file server.",
+  "source_repo": "jlg-formation/mcp-server-openai-image-generator",
+  "source_url": "https://github.com/jlg-formation/mcp-server-openai-image-generator",
+  "install": "# git clone --depth 1 https://github.com/jlg-formation/mcp-server-openai-image-generator\n# See source for mcpServers config block"
+}

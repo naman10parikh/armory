@@ -1,0 +1,7 @@
+{
+  "name": "dev-env-mcp",
+  "description": "A local MCP server that provides a safe, structured way to manage Python environments inside a project workspace, including virtual environment creation, restricted pip operations, and dependency freezing.",
+  "source_repo": "Tova501/Dev-Env-MCP",
+  "source_url": "https://github.com/Tova501/Dev-Env-MCP",
+  "install": "npx -y Dev-Env-MCP"
+}

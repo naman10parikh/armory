@@ -1,0 +1,7 @@
+{
+  "name": "ruvltra-mcp-server",
+  "description": "Enables parallel code generation and review via MCP with fault-tolerant worker pool, auto-scaling, and SONA self-improvement for robust LLM orchestration.",
+  "source_repo": "coco4atJP/ruvltra-mcp-server",
+  "source_url": "https://github.com/coco4atJP/ruvltra-mcp-server",
+  "install": "npx -y ruvltra-mcp-server"
+}

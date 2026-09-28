@@ -1,0 +1,7 @@
+{
+  "name": "daruka-mcp-server",
+  "description": "Connects Claude to Daruka project memory, enabling saving, searching, and loading project context directly from conversations.",
+  "source_repo": "theshekhr/daruka-mcp",
+  "source_url": "https://github.com/theshekhr/daruka-mcp",
+  "install": "npx -y daruka-mcp"
+}

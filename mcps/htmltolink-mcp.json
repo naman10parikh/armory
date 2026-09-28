@@ -1,0 +1,7 @@
+{
+  "name": "htmltolink-mcp",
+  "description": "Deploy any HTML project to a live public URL in seconds — directly from Cursor, Claude Code, or any MCP-compatible AI agent.",
+  "source_repo": "licc168/htmltolink-mcp",
+  "source_url": "https://github.com/licc168/htmltolink-mcp",
+  "install": "npx -y htmltolink-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kids-radar-mcp",
+  "description": "MCP server for Kids Experience Radar, enabling users to search and retrieve local kids experience events and programs from verified official sources with location-based filtering and daily digest support.",
+  "source_repo": "kimtami/kids-experience-radar",
+  "source_url": "https://github.com/kimtami/kids-experience-radar",
+  "install": "# git clone --depth 1 https://github.com/kimtami/kids-experience-radar\n# See source for mcpServers config block"
+}

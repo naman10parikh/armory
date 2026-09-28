@@ -1,0 +1,7 @@
+{
+  "name": "wechat-fastbridge",
+  "description": "Local macOS MCP server for verified WeChat reading, sending, media, and token-efficient allowlisted monitoring. Its Docker image supports registry introspection only; real WeChat automation requires macOS Accessibility.",
+  "source_repo": "huj28-creator/wechat-fastbridge",
+  "source_url": "https://github.com/huj28-creator/wechat-fastbridge",
+  "install": "# git clone --depth 1 https://github.com/huj28-creator/wechat-fastbridge\n# See source for mcpServers config block"
+}

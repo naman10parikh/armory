@@ -1,6 +1,6 @@
 {
   "name": "unitymcpintegration",
-  "description": "UnityMCPIntegration MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Shahzad/UnityMCPIntegration",
   "source_url": "https://mcp.so/server/UnityMCPIntegration/Shahzad",
   "install": "# git clone --depth 1 https://mcp.so/server/UnityMCPIntegration/Shahzad\n# See source for mcpServers config block"

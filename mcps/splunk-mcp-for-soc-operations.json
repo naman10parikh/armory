@@ -1,0 +1,7 @@
+{
+  "name": "splunk-mcp-for-soc-operations",
+  "description": "Enables AI-driven SOC investigations by providing automated Splunk querying, threat intelligence enrichment, and response actions through natural language. Includes tools for IP pivoting, lateral movement detection, and label harvesting.",
+  "source_repo": "DeepTempo/splunk-mcp-soc",
+  "source_url": "https://github.com/DeepTempo/splunk-mcp-soc",
+  "install": "# git clone --depth 1 https://github.com/DeepTempo/splunk-mcp-soc\n# See source for mcpServers config block"
+}

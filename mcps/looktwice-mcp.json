@@ -1,0 +1,7 @@
+{
+  "name": "looktwice-mcp",
+  "description": "MCP server for the LookTwice API, enabling validation of emails, EU VAT numbers, IBANs, and domains, plus product screening against U.S. CPSC recalls.",
+  "source_repo": "eason4kim-rocket/looktwice-mcp",
+  "source_url": "https://github.com/eason4kim-rocket/looktwice-mcp",
+  "install": "npx -y looktwice-mcp"
+}

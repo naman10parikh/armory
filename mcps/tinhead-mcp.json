@@ -1,0 +1,7 @@
+{
+  "name": "tinhead-mcp",
+  "description": "Local MCP server that gives an agent access to branches of your Tinhead tree. It handles account key unwrapping locally and enforces branch grants.",
+  "source_repo": "Tinhead-app/tinhead-mcp",
+  "source_url": "https://github.com/Tinhead-app/tinhead-mcp",
+  "install": "npx -y tinhead-mcp"
+}

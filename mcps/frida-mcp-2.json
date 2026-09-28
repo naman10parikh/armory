@@ -1,0 +1,7 @@
+{
+  "name": "frida-mcp-2",
+  "description": "Automates Android app analysis using Frida via AI commands, connecting a rooted Android phone to a computer and running dynamic analysis scripts without manual command execution.",
+  "source_repo": "Gindhar2112/frida-mcp",
+  "source_url": "https://github.com/Gindhar2112/frida-mcp",
+  "install": "npx -y frida-mcp"
+}

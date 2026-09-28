@@ -1,0 +1,7 @@
+{
+  "name": "ecac-per-dcomp",
+  "description": "MCP server for consulting ECAC PER DCOMP (DCOMP credits/PER) from an official source via a hosted, prepaid API. It provides a single read-only tool, ecac_perdcomp_consultar, enabling users to query data through natural language in any MCP-compatible client.",
+  "source_repo": "mcp-dir/ecac_perdcomp-mcp",
+  "source_url": "https://github.com/mcp-dir/ecac_perdcomp-mcp",
+  "install": "npx -y ecac_perdcomp-mcp"
+}

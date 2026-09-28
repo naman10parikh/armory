@@ -1,0 +1,7 @@
+{
+  "name": "mcp-availability-server",
+  "description": "Provides tools to check appointment availability and format call summaries via stdio MCP transport.",
+  "source_repo": "JulianThorpe/mcp-availability-server",
+  "source_url": "https://github.com/JulianThorpe/mcp-availability-server",
+  "install": "# git clone --depth 1 https://github.com/JulianThorpe/mcp-availability-server\n# See source for mcpServers config block"
+}

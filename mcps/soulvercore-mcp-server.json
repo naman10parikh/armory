@@ -1,0 +1,7 @@
+{
+  "name": "soulvercore-mcp-server",
+  "description": "A comprehensive MCP server that integrates SoulverCore with Claude Desktop, enabling natural language mathematical calculations, unit conversions, date arithmetic, and financial computations.",
+  "source_repo": "amotivv/soulver-mcp-server",
+  "source_url": "https://github.com/amotivv/soulver-mcp-server",
+  "install": "npx -y soulver-mcp-server"
+}

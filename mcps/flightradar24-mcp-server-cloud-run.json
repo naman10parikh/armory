@@ -1,0 +1,7 @@
+{
+  "name": "flightradar24-mcp-server-cloud-run",
+  "description": "Wraps the official Flightradar24 MCP Server to expose it over HTTP/SSE for remote access, enabling MCP-compatible clients to query flight tracking data with client-provided API keys.",
+  "source_repo": "edwardchuang/fr24-mcp-cloudrun",
+  "source_url": "https://github.com/edwardchuang/fr24-mcp-cloudrun",
+  "install": "# git clone --depth 1 https://github.com/edwardchuang/fr24-mcp-cloudrun\n# See source for mcpServers config block"
+}

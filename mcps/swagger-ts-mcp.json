@@ -1,0 +1,7 @@
+{
+  "name": "swagger-ts-mcp",
+  "description": "Generates TypeScript types for API functions from Swagger/OpenAPI documents, enabling AI IDEs to automatically create type definitions.",
+  "source_repo": "lhbDesign/swagger-ts-gen",
+  "source_url": "https://github.com/lhbDesign/swagger-ts-gen",
+  "install": "# git clone --depth 1 https://github.com/lhbDesign/swagger-ts-gen\n# See source for mcpServers config block"
+}

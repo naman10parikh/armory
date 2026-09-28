@@ -1,0 +1,7 @@
+{
+  "name": "mcp-climatiq",
+  "description": "Climatiq MCP server that calculates carbon footprints using emission factors, enabling users to list unit types and compute environmental impact.",
+  "source_repo": "pipeworx-io/mcp-climatiq",
+  "source_url": "https://github.com/pipeworx-io/mcp-climatiq",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-climatiq\n# See source for mcpServers config block"
+}

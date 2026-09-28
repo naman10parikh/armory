@@ -1,0 +1,7 @@
+{
+  "name": "hledger-mcp-server",
+  "description": "Provides AI assistants with direct access to HLedger accounting data and functionality, enabling natural language queries for balances, reports, journal entries, and financial analysis.",
+  "source_repo": "iiAtlas/hledger-mcp",
+  "source_url": "https://github.com/iiAtlas/hledger-mcp",
+  "install": "npx -y hledger-mcp"
+}

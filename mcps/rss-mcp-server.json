@@ -1,0 +1,7 @@
+{
+  "name": "rss-mcp-server",
+  "description": "Enables RSS feed management using the Fever API, supporting retrieval of feeds, groups, and items with read/save actions.",
+  "source_repo": "weekend-project-space/rss-mcp-server",
+  "source_url": "https://github.com/weekend-project-space/rss-mcp-server",
+  "install": "npx -y rss-mcp-server"
+}

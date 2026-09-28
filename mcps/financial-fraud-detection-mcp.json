@@ -1,0 +1,7 @@
+{
+  "name": "financial-fraud-detection-mcp",
+  "description": "An MCP server that enables AI-powered fraud detection on financial transactions using rule-based and statistical analysis tools, with sample data and Gradio dashboard.",
+  "source_repo": "archana-gurimitkala/financial-fraud-detection-mcp",
+  "source_url": "https://github.com/archana-gurimitkala/financial-fraud-detection-mcp",
+  "install": "npx -y financial-fraud-detection-mcp"
+}

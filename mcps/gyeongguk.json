@@ -1,0 +1,7 @@
+{
+  "name": "gyeongguk",
+  "description": "Enables Korean legal document processing, case analysis, and consultation using MCP, with OCR parsing, fact extraction, claim identification, subsumption grid, legal API verification, and document drafting.",
+  "source_repo": "kmjy98-sketch/Gyeongguk",
+  "source_url": "https://github.com/kmjy98-sketch/Gyeongguk",
+  "install": "# git clone --depth 1 https://github.com/kmjy98-sketch/Gyeongguk\n# See source for mcpServers config block"
+}

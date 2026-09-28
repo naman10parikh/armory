@@ -1,0 +1,7 @@
+{
+  "name": "vision",
+  "description": "Enables vision capabilities for OpenCode by analyzing local images (PNG, JPG, WebP, GIF, HEIC, SVG) using the Google Gemini API.",
+  "source_repo": "larsburkhardt/opencode-simple-vision-mcp",
+  "source_url": "https://github.com/larsburkhardt/opencode-simple-vision-mcp",
+  "install": "npx -y opencode-simple-vision-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "physics-lint-mcp",
+  "description": "Enables AI agents to verify physical admissibility of S-parameter models and coupling matrices, preventing reasoning about impossible physics.",
+  "source_repo": "nickharris808/physics-lint-mcp",
+  "source_url": "https://github.com/nickharris808/physics-lint-mcp",
+  "install": "npx -y physics-lint-mcp"
+}

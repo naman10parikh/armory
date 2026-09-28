@@ -1,0 +1,7 @@
+{
+  "name": "max2021-mcp",
+  "description": "Enables execution of Python and MaxScript code inside Autodesk 3ds Max 2021 from Cursor or other MCP clients via HTTP+TCP bridge.",
+  "source_repo": "patriciojuliant/max2021-mcp",
+  "source_url": "https://github.com/patriciojuliant/max2021-mcp",
+  "install": "npx -y max2021-mcp"
+}

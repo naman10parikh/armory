@@ -1,0 +1,7 @@
+{
+  "name": "caskmcp",
+  "description": "Turns any web API into a governed, agent-ready MCP server with lockfile-based approval, fail-closed enforcement, and full audit trail.",
+  "source_repo": "caskmcp/CaskMCP",
+  "source_url": "https://github.com/caskmcp/CaskMCP",
+  "install": "# git clone --depth 1 https://github.com/caskmcp/CaskMCP\n# See source for mcpServers config block"
+}

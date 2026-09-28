@@ -1,0 +1,7 @@
+{
+  "name": "mcp-file-manager",
+  "description": "Enables listing, reading, and searching local files and directories through MCP tools.",
+  "source_repo": "Adithyenkandasamy/MCP-file-managment",
+  "source_url": "https://github.com/Adithyenkandasamy/MCP-file-managment",
+  "install": "# git clone --depth 1 https://github.com/Adithyenkandasamy/MCP-file-managment\n# See source for mcpServers config block"
+}

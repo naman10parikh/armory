@@ -1,0 +1,7 @@
+{
+  "name": "serverless-mcp-servers-cdk",
+  "description": "Deploys a stateless MCP server on AWS Lambda and API Gateway using CDK, supporting Express.js or Hono implementations with bearer token authentication and MCP tools, resources, and prompts.",
+  "source_repo": "huanshenyi/serverless-mcp-servers-cdk",
+  "source_url": "https://github.com/huanshenyi/serverless-mcp-servers-cdk",
+  "install": "# git clone --depth 1 https://github.com/huanshenyi/serverless-mcp-servers-cdk\n# See source for mcpServers config block"
+}

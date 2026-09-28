@@ -1,0 +1,7 @@
+{
+  "name": "critic-mcp",
+  "description": "A ruthless, read-only code review MCP server that analyzes code produced by AI coding assistants, catching missing requirements, security vulnerabilities, edge cases, and performance issues without ever modifying files.",
+  "source_repo": "layermedya/Critic-MCP",
+  "source_url": "https://github.com/layermedya/Critic-MCP",
+  "install": "npx -y Critic-MCP"
+}

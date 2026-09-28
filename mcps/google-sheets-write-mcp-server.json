@@ -1,0 +1,7 @@
+{
+  "name": "google-sheets-write-mcp-server",
+  "description": "A write-only MCP server for Google Sheets with safety features including whitelist, dry-run, snapshot, and audit logging.",
+  "source_repo": "tg-tool/google-sheets-write-mcp-server",
+  "source_url": "https://github.com/tg-tool/google-sheets-write-mcp-server",
+  "install": "npx -y google-sheets-write-mcp-server"
+}

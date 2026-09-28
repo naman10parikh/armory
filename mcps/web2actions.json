@@ -1,0 +1,7 @@
+{
+  "name": "web2actions",
+  "description": "Enables AI agents to interact with websites by capturing browser traffic and exposing them as named MCP tools, requiring no public API.",
+  "source_repo": "rashidb0t/web2actions",
+  "source_url": "https://github.com/rashidb0t/web2actions",
+  "install": "# git clone --depth 1 https://github.com/rashidb0t/web2actions\n# See source for mcpServers config block"
+}

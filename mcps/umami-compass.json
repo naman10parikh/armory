@@ -1,0 +1,7 @@
+{
+  "name": "umami-compass",
+  "description": "Open-source MCP server for Umami Analytics — Cloud and self-hosted.",
+  "source_repo": "webcredo/umami-compass",
+  "source_url": "https://github.com/webcredo/umami-compass",
+  "install": "# git clone --depth 1 https://github.com/webcredo/umami-compass\n# See source for mcpServers config block"
+}

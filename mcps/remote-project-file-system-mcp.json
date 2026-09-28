@@ -1,0 +1,7 @@
+{
+  "name": "remote-project-file-system-mcp",
+  "description": "Enables Claude Web to securely inspect, search, and modify local project files through a sandboxed MCP server with atomic writes, path traversal protection, and sensitive file blocking.",
+  "source_repo": "roobak-1234/Local_MCP",
+  "source_url": "https://github.com/roobak-1234/Local_MCP",
+  "install": "npx -y Local_MCP"
+}

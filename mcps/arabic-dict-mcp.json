@@ -1,0 +1,7 @@
+{
+  "name": "arabic-dict-mcp",
+  "description": "MCP server that provides grounded Arabic dictionary lookup, enabling AI agents to search word roots, inflections, and meanings from real dictionary data.",
+  "source_repo": "arnizamani/arabic-dict-mcp",
+  "source_url": "https://github.com/arnizamani/arabic-dict-mcp",
+  "install": "npx -y arabic-dict-mcp"
+}

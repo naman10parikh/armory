@@ -1,0 +1,7 @@
+{
+  "name": "usbtmc-mcp-server",
+  "description": "Enables controlling multiple USBTMC (USB Test and Measurement Class) devices simultaneously using SCPI commands through a unified MCP interface.",
+  "source_repo": "NaoNaoMe/usbtmc-lite-mcp",
+  "source_url": "https://github.com/NaoNaoMe/usbtmc-lite-mcp",
+  "install": "npx -y usbtmc-lite-mcp"
+}

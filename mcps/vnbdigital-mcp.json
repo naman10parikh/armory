@@ -1,0 +1,7 @@
+{
+  "name": "vnbdigital-mcp",
+  "description": "Enables querying German distribution grid operator data from vnbdigital.de and BDEW register, including lookup by ID, postcode, coordinates, and free-text search.",
+  "source_repo": "the78mole/vnbdigital-mcp",
+  "source_url": "https://github.com/the78mole/vnbdigital-mcp",
+  "install": "npx -y vnbdigital-mcp"
+}

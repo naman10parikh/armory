@@ -1,0 +1,7 @@
+{
+  "name": "msf-harness",
+  "description": "Enables AI agents to conduct authorized penetration tests by providing scope-enforced access to Metasploit Framework's RPC, with tools for reconnaissance, exploitation, session management, and post-exploitation.",
+  "source_repo": "Suzu-Testing/metasploit-cursor-harness",
+  "source_url": "https://github.com/Suzu-Testing/metasploit-cursor-harness",
+  "install": "# git clone --depth 1 https://github.com/Suzu-Testing/metasploit-cursor-harness\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aws-documentation-mcp-server",
+  "description": "Provides tools to read, search, and get recommendations for AWS documentation pages, with support for both global and China regions.",
+  "source_repo": "kitan23/aws-documentation-mcp-server",
+  "source_url": "https://github.com/kitan23/aws-documentation-mcp-server",
+  "install": "npx -y aws-documentation-mcp-server"
+}

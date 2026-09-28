@@ -1,0 +1,7 @@
+{
+  "name": "agentic-commerce",
+  "description": "A custom MCP server that turns Claude into an agentic shopping assistant for searching products, comparing options, managing a cart, and checking out with built-in guardrails for safe autonomous commerce.",
+  "source_repo": "sunilvarun/agentic-commerce-mcp",
+  "source_url": "https://github.com/sunilvarun/agentic-commerce-mcp",
+  "install": "npx -y agentic-commerce-mcp"
+}

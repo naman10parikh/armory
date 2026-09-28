@@ -1,0 +1,7 @@
+{
+  "name": "servicenow-mcp-demo-incident-assistant",
+  "description": "An end-to-end Model Context Protocol demo that connects Claude to ServiceNow Incident Management.",
+  "source_repo": "darrylsarkisian-debug/servicenow-mcp-demo",
+  "source_url": "https://github.com/darrylsarkisian-debug/servicenow-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/darrylsarkisian-debug/servicenow-mcp-demo\n# See source for mcpServers config block"
+}

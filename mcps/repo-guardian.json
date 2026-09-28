@@ -1,0 +1,7 @@
+{
+  "name": "repo-guardian",
+  "description": "Enables agents to audit and safeguard repositories by detecting dependency pinning issues, license compliance problems, hardcoded secrets, and dead code through MCP tools.",
+  "source_repo": "prem-the-dev/repo-guardian",
+  "source_url": "https://github.com/prem-the-dev/repo-guardian",
+  "install": "# git clone --depth 1 https://github.com/prem-the-dev/repo-guardian\n# See source for mcpServers config block"
+}

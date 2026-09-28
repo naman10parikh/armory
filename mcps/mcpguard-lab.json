@@ -1,0 +1,7 @@
+{
+  "name": "mcpguard-lab",
+  "description": "A security research MCP server for testing tool call safety with deterministic policies like allowlists, path boundary enforcement, SSRF prevention, output redaction, and prompt injection detection, without requiring external LLMs or API keys.",
+  "source_repo": "Lc517/mcpguard-lab",
+  "source_url": "https://github.com/Lc517/mcpguard-lab",
+  "install": "# git clone --depth 1 https://github.com/Lc517/mcpguard-lab\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "swath-mcp",
+  "description": "Radar-verified storm intelligence for the continental US — NOAA MRMS hail and wind swaths, per-address storm history, affected-property reports, area monitors with webhook + email alerts, and swath map images. Boots keyless; free API key (100 credits) at swathapi.com.",
+  "source_repo": "vibecodebeast/swath-mcp",
+  "source_url": "https://github.com/vibecodebeast/swath-mcp",
+  "install": "npx -y swath-mcp"
+}

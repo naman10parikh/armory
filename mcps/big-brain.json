@@ -1,0 +1,7 @@
+{
+  "name": "big-brain",
+  "description": "Enables AI assistants to read and write to a personal knowledge vault of markdown notes, projects, and tasks, with tooling for search, capture, daily logs, and project management across different AI tools.",
+  "source_repo": "jzhao234/big-brain",
+  "source_url": "https://github.com/jzhao234/big-brain",
+  "install": "# git clone --depth 1 https://github.com/jzhao234/big-brain\n# See source for mcpServers config block"
+}

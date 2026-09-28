@@ -1,0 +1,7 @@
+{
+  "name": "shared-context-cache-mcp-server",
+  "description": "MCP server for shared context caching with trust verification -- AI agents share and verify computed results to reduce token cost and increase reliability.",
+  "source_repo": "AiAgentKarl/shared-context-cache-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/shared-context-cache-mcp-server",
+  "install": "npx -y shared-context-cache-mcp-server"
+}

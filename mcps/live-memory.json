@@ -1,0 +1,7 @@
+{
+  "name": "live-memory",
+  "description": "MCP server providing shared working memory for collaborative AI agents, with real-time notes and LLM-consolidated structured memory bank.",
+  "source_repo": "Cloud-Temple/live-memory",
+  "source_url": "https://github.com/Cloud-Temple/live-memory",
+  "install": "# git clone --depth 1 https://github.com/Cloud-Temple/live-memory\n# See source for mcpServers config block"
+}

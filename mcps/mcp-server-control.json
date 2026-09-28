@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-control",
+  "description": "A production-grade MCP server that lets AI cloud services control and manage your Linux server securely via HTTP/SSE.",
+  "source_repo": "MarketingLimited/mcp-server-control",
+  "source_url": "https://github.com/MarketingLimited/mcp-server-control",
+  "install": "# git clone --depth 1 https://github.com/MarketingLimited/mcp-server-control\n# See source for mcpServers config block"
+}

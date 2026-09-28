@@ -1,0 +1,7 @@
+{
+  "name": "ninova-mcp",
+  "description": "Ninova MCP is a credential-based Model Context Protocol server for ITU Ninova. It lets MCP-compatible AI clients read your own Ninova courses, announcements, files, assignments, grades, message boards, attendance, and deadlines.",
+  "source_repo": "hikmedit/ninova-mcp",
+  "source_url": "https://github.com/hikmedit/ninova-mcp",
+  "install": "npx -y ninova-mcp"
+}

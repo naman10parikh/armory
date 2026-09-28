@@ -1,0 +1,7 @@
+{
+  "name": "agent-conductor",
+  "description": "AGENTS.md + skills orchestration with CHP Profile A R0/adversary gates. @cubiczan/agent-conductor",
+  "source_repo": "icohangar-ops/agent-conductor",
+  "source_url": "https://github.com/icohangar-ops/agent-conductor",
+  "install": "# git clone --depth 1 https://github.com/icohangar-ops/agent-conductor\n# See source for mcpServers config block"
+}

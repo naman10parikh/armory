@@ -1,0 +1,7 @@
+{
+  "name": "easy-mcp",
+  "description": "Simplifies creating MCP servers in TypeScript with an Express-like API and experimental decorators, enabling quick definition of tools, resources, and prompts.",
+  "source_repo": "zcaceres/easy-mcp",
+  "source_url": "https://github.com/zcaceres/easy-mcp",
+  "install": "npx -y easy-mcp"
+}

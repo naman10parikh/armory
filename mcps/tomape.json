@@ -1,0 +1,7 @@
+{
+  "name": "tomape",
+  "description": "Token-optimized multi-agent orchestration MCP server that owns session state, compacts context between agent hops, routes work to smaller models when safe, and reports estimated token savings.",
+  "source_repo": "sudharsanbabu83/TOMAPE",
+  "source_url": "https://github.com/sudharsanbabu83/TOMAPE",
+  "install": "# git clone --depth 1 https://github.com/sudharsanbabu83/TOMAPE\n# See source for mcpServers config block"
+}

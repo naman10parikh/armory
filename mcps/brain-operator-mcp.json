@@ -1,0 +1,7 @@
+{
+  "name": "brain-operator-mcp",
+  "description": "A TypeScript MCP server that lets ChatGPT and other MCP clients read and safely modify TheBrain through the TheBrain REST API.",
+  "source_repo": "Gamecrazy/brain-operator-mcp",
+  "source_url": "https://github.com/Gamecrazy/brain-operator-mcp",
+  "install": "npx -y brain-operator-mcp"
+}

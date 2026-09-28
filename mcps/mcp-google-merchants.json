@@ -1,0 +1,7 @@
+{
+  "name": "mcp-google-merchants",
+  "description": "Enables AI assistants to manage Google Merchant Center accounts via the Merchant API, including product feeds, promotions, data sources, and MCQL reports with read and write operations.",
+  "source_repo": "A1-x-Tech/mcp-google-merchants",
+  "source_url": "https://github.com/A1-x-Tech/mcp-google-merchants",
+  "install": "# git clone --depth 1 https://github.com/A1-x-Tech/mcp-google-merchants\n# See source for mcpServers config block"
+}

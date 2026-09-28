@@ -1,0 +1,7 @@
+{
+  "name": "amazonads-mcp",
+  "description": "Enables AI assistants to interact with the Amazon Advertising API to manage campaigns, keywords, product ads, and retrieve performance metrics.",
+  "source_repo": "cprice70/amazonads-mcp",
+  "source_url": "https://github.com/cprice70/amazonads-mcp",
+  "install": "npx -y amazonads-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "owa-mail-mcp",
+  "description": "MCP server for corporate Exchange that provides access to email, calendar, and people directory via OWA JSON API.",
+  "source_repo": "mainpart/owa-mail-mcp",
+  "source_url": "https://github.com/mainpart/owa-mail-mcp",
+  "install": "npx -y owa-mail-mcp"
+}

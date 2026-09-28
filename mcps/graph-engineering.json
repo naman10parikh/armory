@@ -1,0 +1,7 @@
+{
+  "name": "graph-engineering",
+  "description": "MCP server that turns coding workflows into explicit execution graphs (DAG) with deterministic command execution, human-in-the-loop gates, and tamper-proof run history for Claude Code.",
+  "source_repo": "sciencemj/graph-engineering",
+  "source_url": "https://github.com/sciencemj/graph-engineering",
+  "install": "# git clone --depth 1 https://github.com/sciencemj/graph-engineering\n# See source for mcpServers config block"
+}

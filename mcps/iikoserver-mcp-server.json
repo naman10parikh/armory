@@ -1,0 +1,7 @@
+{
+  "name": "iikoserver-mcp-server",
+  "description": "MCP server for iiko restaurant management system REST API, providing 39 tools to manage products, employees, entities, documents, payments, reports, and raw API access.",
+  "source_repo": "simba87/iiko-mcp",
+  "source_url": "https://github.com/simba87/iiko-mcp",
+  "install": "npx -y iiko-mcp"
+}

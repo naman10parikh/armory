@@ -1,0 +1,7 @@
+{
+  "name": "jpcite",
+  "description": "日本の公的制度(補助金/法令/税務/法人/判例)を提供する MCP サーバー。261 ツール、¥3/billable unit、匿名 3/日 free。Evidence Packets with source_url + source_fetched_at + known_gaps. PyPI: autonomath-mcp.",
+  "source_repo": "shigetosidumeda-cyber/autonomath-mcp",
+  "source_url": "https://github.com/shigetosidumeda-cyber/autonomath-mcp",
+  "install": "npx -y autonomath-mcp"
+}

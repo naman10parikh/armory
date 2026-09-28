@@ -1,0 +1,7 @@
+{
+  "name": "mcp-multi-server-gateway",
+  "description": "Aggregate, route, and orchestrate multiple MCP backend servers behind a single MCP endpoint.",
+  "source_repo": "moaaz01/mcp-multi-server-gateway",
+  "source_url": "https://github.com/moaaz01/mcp-multi-server-gateway",
+  "install": "# git clone --depth 1 https://github.com/moaaz01/mcp-multi-server-gateway\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claudecode-session-notes-mcp-server",
+  "description": "Enables comprehensive collection and analysis of ClaudeCode development sessions, including agent tracking, tool usage analytics, and performance metrics.",
+  "source_repo": "Claire-s-Monster/claudecode-session-notes",
+  "source_url": "https://github.com/Claire-s-Monster/claudecode-session-notes",
+  "install": "# git clone --depth 1 https://github.com/Claire-s-Monster/claudecode-session-notes\n# See source for mcpServers config block"
+}

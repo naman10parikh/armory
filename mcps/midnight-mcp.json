@@ -1,0 +1,7 @@
+{
+  "name": "midnight-mcp",
+  "description": "MCP server that gives AI assistants access to Midnight blockchain—search contracts, analyze code, and explore documentation.",
+  "source_repo": "Olanetsoft/midnight-mcp",
+  "source_url": "https://github.com/Olanetsoft/midnight-mcp",
+  "install": "npx -y midnight-mcp"
+}

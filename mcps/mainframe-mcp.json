@@ -1,0 +1,7 @@
+{
+  "name": "mainframe-mcp",
+  "description": "Provides safe, structured access to an IBM z/OS mainframe through natural language in Claude Code, enabling screen reading, dataset browsing, code editing, job submission, and regression testing.",
+  "source_repo": "sagar25k/mainframe-mcp",
+  "source_url": "https://github.com/sagar25k/mainframe-mcp",
+  "install": "npx -y mainframe-mcp"
+}

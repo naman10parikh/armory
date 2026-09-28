@@ -1,0 +1,7 @@
+{
+  "name": "ai-trends",
+  "description": "Provides access to the latest AI trends by querying Google News RSS and Hacker News API, enabling AI assistants to retrieve real-time trending topics.",
+  "source_repo": "girlmoony/mcp-ai-trends",
+  "source_url": "https://github.com/girlmoony/mcp-ai-trends",
+  "install": "# git clone --depth 1 https://github.com/girlmoony/mcp-ai-trends\n# See source for mcpServers config block"
+}

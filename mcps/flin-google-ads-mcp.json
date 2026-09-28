@@ -1,0 +1,7 @@
+{
+  "name": "flin-google-ads-mcp",
+  "description": "Read-only MCP server for Google Ads, enabling querying campaigns, ad groups, ads, insights, and keywords without create/update/delete operations.",
+  "source_repo": "flin-agency/flin-google-ads-mcp",
+  "source_url": "https://github.com/flin-agency/flin-google-ads-mcp",
+  "install": "npx -y flin-google-ads-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rap-migrator",
+  "description": "MCP server that migrates SAP Module Pool programs to RAP applications interactively, using AI and SAP ADT REST APIs with human approval at each step.",
+  "source_repo": "sharmarhl1994-bit/mcp-rap-migrator",
+  "source_url": "https://github.com/sharmarhl1994-bit/mcp-rap-migrator",
+  "install": "# git clone --depth 1 https://github.com/sharmarhl1994-bit/mcp-rap-migrator\n# See source for mcpServers config block"
+}

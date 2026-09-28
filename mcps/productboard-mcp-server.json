@@ -1,0 +1,7 @@
+{
+  "name": "productboard-mcp-server",
+  "description": "MCP server for integrating with Productboard to manage customer feedback, fetch notes, search and create features, and link notes to features.",
+  "source_repo": "djcorbett96/kojo-productboard-mcp",
+  "source_url": "https://github.com/djcorbett96/kojo-productboard-mcp",
+  "install": "npx -y kojo-productboard-mcp"
+}

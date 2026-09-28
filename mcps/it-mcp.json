@@ -1,0 +1,7 @@
+{
+  "name": "it-mcp",
+  "description": "远程托管的MCP服务，支持通过自然语言查询一级市场结构化数据，包括公司、融资和投资信息。",
+  "source_repo": "lgyers/itjuzi-mcp",
+  "source_url": "https://github.com/lgyers/itjuzi-mcp",
+  "install": "npx -y itjuzi-mcp"
+}

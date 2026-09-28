@@ -1,0 +1,7 @@
+{
+  "name": "hltv-csgo-mcp",
+  "description": "Read-only MCP server for Counter-Strike schedules, results, teams, players, and events from HLTV.org, offering tools to search entities, list matches, and get match details.",
+  "source_repo": "Mooooooon/hltv-csgo-mcp",
+  "source_url": "https://github.com/Mooooooon/hltv-csgo-mcp",
+  "install": "npx -y hltv-csgo-mcp"
+}

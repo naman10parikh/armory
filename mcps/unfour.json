@@ -1,0 +1,7 @@
+{
+  "name": "unfour",
+  "description": "Local-first backend developer workspace exposing API debugging, SSH, database, workspace, and diagnostics tools to AI agents through a local MCP server",
+  "source_repo": "zyqzyq/Unfour",
+  "source_url": "https://github.com/zyqzyq/Unfour",
+  "install": "# git clone --depth 1 https://github.com/zyqzyq/Unfour\n# See source for mcpServers config block"
+}

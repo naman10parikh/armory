@@ -1,6 +1,6 @@
 {
   "name": "hdw-mcp-server",
-  "description": "Hdw Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "horizondatawave/hdw-mcp-server",
   "source_url": "https://mcp.so/server/hdw-mcp-server/horizondatawave",
   "install": "npx -y hdw-mcp-server"

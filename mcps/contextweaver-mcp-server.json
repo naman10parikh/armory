@@ -1,0 +1,7 @@
+{
+  "name": "contextweaver-mcp-server",
+  "description": "ContextWeaver is a semantic retrieval engine for AI coding assistants. It combines hybrid search, intelligent context expansion, and token-aware packing to deliver precise code snippets to LLMs.",
+  "source_repo": "wchiway/contextweaver-mcp",
+  "source_url": "https://github.com/wchiway/contextweaver-mcp",
+  "install": "npx -y contextweaver-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rag-retriever-mcp",
+  "description": "A local-first document retrieval engine that mounts as an MCP tool for agents to index files, search for relevant passages, and let the agent's own LLM answer.",
+  "source_repo": "code-lawyer/rag-retriever",
+  "source_url": "https://github.com/code-lawyer/rag-retriever",
+  "install": "# git clone --depth 1 https://github.com/code-lawyer/rag-retriever\n# See source for mcpServers config block"
+}

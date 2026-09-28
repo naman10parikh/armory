@@ -1,0 +1,7 @@
+{
+  "name": "codememory",
+  "description": "Enables AI agents to locally search, query, and understand codebases with token-efficient context, dependency graphs, history, architecture diagrams, and metrics through MCP.",
+  "source_repo": "EldrexDelosReyesBula/CodeMemory",
+  "source_url": "https://github.com/EldrexDelosReyesBula/CodeMemory",
+  "install": "# git clone --depth 1 https://github.com/EldrexDelosReyesBula/CodeMemory\n# See source for mcpServers config block"
+}

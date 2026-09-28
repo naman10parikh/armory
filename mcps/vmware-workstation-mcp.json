@@ -1,0 +1,7 @@
+{
+  "name": "vmware-workstation-mcp",
+  "description": "A stdio MCP server that controls VMware Workstation via vmrun, enabling VM lifecycle management and snapshot operations.",
+  "source_repo": "vnoiram/vmware-workstation-mcp",
+  "source_url": "https://github.com/vnoiram/vmware-workstation-mcp",
+  "install": "npx -y vmware-workstation-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apf-rural",
+  "description": "MCP server to consult the Provisional Rural Operation Authorization (APF) of a producer using CPF, CNPJ, APF number, or CAR. Read-only, hosted, pay-per-query, works with any MCP client.",
+  "source_repo": "mcp-dir/apf_rural-mcp",
+  "source_url": "https://github.com/mcp-dir/apf_rural-mcp",
+  "install": "npx -y apf_rural-mcp"
+}

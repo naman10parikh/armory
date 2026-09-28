@@ -1,0 +1,7 @@
+{
+  "name": "wazuh-servidor-mcp",
+  "description": "Enables natural language interaction with Wazuh SIEM for alert querying, threat hunting, vulnerability scanning, and active response actions.",
+  "source_repo": "nks1097/Wazuh_Servidor_MCP",
+  "source_url": "https://github.com/nks1097/Wazuh_Servidor_MCP",
+  "install": "npx -y Wazuh_Servidor_MCP"
+}

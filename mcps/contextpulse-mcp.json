@@ -1,0 +1,7 @@
+{
+  "name": "contextpulse-mcp",
+  "description": "Real-time context budget tracking for AI coding agents with token counting, loop detection, and alerts, backed by PostgreSQL.",
+  "source_repo": "DIYA73/contextpulse-mcp",
+  "source_url": "https://github.com/DIYA73/contextpulse-mcp",
+  "install": "npx -y contextpulse-mcp"
+}

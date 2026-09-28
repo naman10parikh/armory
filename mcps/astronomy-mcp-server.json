@@ -1,0 +1,7 @@
+{
+  "name": "astronomy-mcp-server",
+  "description": "Provides astronomical data including ISS tracking, moon phases, NASA APOD, near-Earth objects, exoplanets, space weather, and upcoming celestial events without requiring an API key.",
+  "source_repo": "AiAgentKarl/astronomy-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/astronomy-mcp-server",
+  "install": "npx -y astronomy-mcp-server"
+}

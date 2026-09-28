@@ -1,0 +1,7 @@
+{
+  "name": "solar-human-proofreader",
+  "description": "Enables users to have Korean manuscripts proofread for readability while preserving facts, quotes, and the author's voice. It also provides readability scoring, original-versus-edited comparison, and style-preserving rewriting suggestions.",
+  "source_repo": "SolarLLM/human-proofreader-mcp",
+  "source_url": "https://github.com/SolarLLM/human-proofreader-mcp",
+  "install": "npx -y human-proofreader-mcp"
+}

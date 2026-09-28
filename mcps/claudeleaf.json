@@ -1,0 +1,7 @@
+{
+  "name": "claudeleaf",
+  "description": "Enables Claude and AI agents to read and edit Overleaf documents in real time, with support for project listing, document manipulation, LaTeX compilation, and live collaboration.",
+  "source_repo": "lonetis/claudeleaf",
+  "source_url": "https://github.com/lonetis/claudeleaf",
+  "install": "# git clone --depth 1 https://github.com/lonetis/claudeleaf\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hokmah-mcp-server",
+  "description": "Provides AI coding agents with persistent architectural memory of codebases, enabling impact analysis, test generation, and code generation with reduced token usage.",
+  "source_repo": "davidangularme/hokmah-mcp-server",
+  "source_url": "https://github.com/davidangularme/hokmah-mcp-server",
+  "install": "npx -y hokmah-mcp-server"
+}

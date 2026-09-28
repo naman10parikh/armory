@@ -1,0 +1,7 @@
+{
+  "name": "crypto-powerdata-mcp",
+  "description": "A comprehensive MCP service for cryptocurrency data acquisition with advanced technical analysis capabilities, supporting 100+ exchanges, 158 TA-Lib indicators, and dual transport protocols (stdio and HTTP/SSE).",
+  "source_repo": "veithly/crypto-powerdata-mcp",
+  "source_url": "https://github.com/veithly/crypto-powerdata-mcp",
+  "install": "npx -y crypto-powerdata-mcp"
+}

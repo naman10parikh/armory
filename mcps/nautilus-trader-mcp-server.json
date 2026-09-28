@@ -1,0 +1,7 @@
+{
+  "name": "nautilus-trader-mcp-server",
+  "description": "Provides LLMs with code and documentation search over nautilus_trader via LSP-based symbol lookup and semantic embedding-based doc retrieval.",
+  "source_repo": "GwangPyo/NautilusTraderMCP",
+  "source_url": "https://github.com/GwangPyo/NautilusTraderMCP",
+  "install": "# git clone --depth 1 https://github.com/GwangPyo/NautilusTraderMCP\n# See source for mcpServers config block"
+}

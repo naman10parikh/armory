@@ -1,0 +1,7 @@
+{
+  "name": "gotham-browser",
+  "description": "Enables Claude Code to control a real browser using AI for web scraping, competitive intelligence, and UX auditing through the MCP protocol.",
+  "source_repo": "gotham-os/gotham-browser",
+  "source_url": "https://github.com/gotham-os/gotham-browser",
+  "install": "# git clone --depth 1 https://github.com/gotham-os/gotham-browser\n# See source for mcpServers config block"
+}

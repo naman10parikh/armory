@@ -1,0 +1,7 @@
+{
+  "name": "daryl-memories",
+  "description": "Enables multiple Hermes agents to persist and retrieve shared knowledge via a local graph-based memory system, supporting hybrid search, entity context exploration, and memory management.",
+  "source_repo": "DarylAndrian/Mnemosyne",
+  "source_url": "https://github.com/DarylAndrian/Mnemosyne",
+  "install": "# git clone --depth 1 https://github.com/DarylAndrian/Mnemosyne\n# See source for mcpServers config block"
+}

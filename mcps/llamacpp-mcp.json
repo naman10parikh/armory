@@ -1,0 +1,7 @@
+{
+  "name": "llamacpp-mcp",
+  "description": "An MCP server for running local LLMs using llama-cpp-python, with built-in tools for generating drug-like molecule SMILES.",
+  "source_repo": "lukasmki/llamacpp-mcp",
+  "source_url": "https://github.com/lukasmki/llamacpp-mcp",
+  "install": "npx -y llamacpp-mcp"
+}

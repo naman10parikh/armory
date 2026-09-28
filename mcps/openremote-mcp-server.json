@@ -1,0 +1,7 @@
+{
+  "name": "openremote-mcp-server",
+  "description": "Enables interaction with an OpenRemote instance through its service API, allowing management of assets, users, and other resources via natural language.",
+  "source_repo": "openremote/service-mcp-server",
+  "source_url": "https://github.com/openremote/service-mcp-server",
+  "install": "npx -y service-mcp-server"
+}

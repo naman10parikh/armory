@@ -1,0 +1,7 @@
+{
+  "name": "pieterpost-mcp",
+  "description": "Enables AI assistants to prepare, price, review, pay for, and send real physical letters and postcards via a hosted MCP server.",
+  "source_repo": "neddes/pieterpost-mcp",
+  "source_url": "https://github.com/neddes/pieterpost-mcp",
+  "install": "npx -y pieterpost-mcp"
+}

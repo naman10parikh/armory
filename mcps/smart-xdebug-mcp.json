@@ -1,0 +1,7 @@
+{
+  "name": "smart-xdebug-mcp",
+  "description": "Connects AI assistants like Claude to PHP's XDebug debugger for runtime inspection, breakpoint control, and variable tracking, enabling natural language debugging of PHP applications.",
+  "source_repo": "wallter/smart-xdebug-mcp",
+  "source_url": "https://github.com/wallter/smart-xdebug-mcp",
+  "install": "npx -y smart-xdebug-mcp"
+}

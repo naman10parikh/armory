@@ -1,0 +1,7 @@
+{
+  "name": "social-harvest-mcp",
+  "description": "A local Instagram exporter for MCP clients that exports profile metadata, posts, reels, captions, and comments via a manually authenticated browser session.",
+  "source_repo": "IotA-asce/social-harvest-mcp",
+  "source_url": "https://github.com/IotA-asce/social-harvest-mcp",
+  "install": "npx -y social-harvest-mcp"
+}

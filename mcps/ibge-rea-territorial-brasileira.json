@@ -1,0 +1,7 @@
+{
+  "name": "ibge-rea-territorial-brasileira",
+  "description": "Enables querying official Brazilian territorial area data from IBGE through a single read-only tool, usable with any MCP client.",
+  "source_repo": "mcp-dir/ibge_area_territorial-mcp",
+  "source_url": "https://github.com/mcp-dir/ibge_area_territorial-mcp",
+  "install": "npx -y ibge_area_territorial-mcp"
+}

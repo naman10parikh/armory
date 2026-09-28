@@ -1,0 +1,7 @@
+{
+  "name": "llama-diffusion-mcp",
+  "description": "Enables LLMs like Claude to bidirectionally chat with diffusion-based LLMs (e.g., DiffusionGemma, LLaDA) via a persistent llama-diffusion-cli process, with support for restarting sessions and full configuration.",
+  "source_repo": "hkbu-kennycheng/llama-diffusion-mcp",
+  "source_url": "https://github.com/hkbu-kennycheng/llama-diffusion-mcp",
+  "install": "npx -y llama-diffusion-mcp"
+}

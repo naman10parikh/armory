@@ -1,0 +1,7 @@
+{
+  "name": "grad-agent",
+  "description": "An autonomous MCP agent that helps you apply to fully funded MS and PhD programs by discovering professors, verifying faculty status, matching projects, and drafting cold emails.",
+  "source_repo": "i-ninte/grad-agent",
+  "source_url": "https://github.com/i-ninte/grad-agent",
+  "install": "# git clone --depth 1 https://github.com/i-ninte/grad-agent\n# See source for mcpServers config block"
+}

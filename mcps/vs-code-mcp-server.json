@@ -1,0 +1,7 @@
+{
+  "name": "vs-code-mcp-server",
+  "description": "Provides AI assistants with VS Code integration for file operations, command execution, project analysis, and development workflow automation.",
+  "source_repo": "aditya-613/vscode-mcp-server",
+  "source_url": "https://github.com/aditya-613/vscode-mcp-server",
+  "install": "npx -y vscode-mcp-server"
+}

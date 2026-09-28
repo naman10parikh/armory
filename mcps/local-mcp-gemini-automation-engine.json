@@ -1,0 +1,7 @@
+{
+  "name": "local-mcp-gemini-automation-engine",
+  "description": "A local AI agent workspace that allows users to interact with simulated data files via custom slash commands and context mentions, powered by Google GenAI SDK and MCP.",
+  "source_repo": "RohitCds/local-mcp-gemini-cli",
+  "source_url": "https://github.com/RohitCds/local-mcp-gemini-cli",
+  "install": "# git clone --depth 1 https://github.com/RohitCds/local-mcp-gemini-cli\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "echo-cache",
+  "description": "Semantic caching MCP server for AI agent tool calls, providing exact and similarity-based cache lookup, store, invalidation, and metrics via MCP tools.",
+  "source_repo": "SanjoyDat1/echo-cache",
+  "source_url": "https://github.com/SanjoyDat1/echo-cache",
+  "install": "# git clone --depth 1 https://github.com/SanjoyDat1/echo-cache\n# See source for mcpServers config block"
+}

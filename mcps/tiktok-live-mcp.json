@@ -1,0 +1,7 @@
+{
+  "name": "tiktok-live-mcp",
+  "description": "Provides live access to TikTok LIVE data including live detection, room info, creator data, gifts, and regional leaderboards via chat prompts.",
+  "source_repo": "tiktooldev/tiktok-live-mcp",
+  "source_url": "https://github.com/tiktooldev/tiktok-live-mcp",
+  "install": "npx -y tiktok-live-mcp"
+}

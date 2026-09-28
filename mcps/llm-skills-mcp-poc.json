@@ -1,0 +1,7 @@
+{
+  "name": "llm-skills-mcp-poc",
+  "description": "MCP server exposing a shared pr-review skill with tools to list, get, run, and evaluate skills, enabling AI assistants to perform code review tasks.",
+  "source_repo": "dorangao/llm-skills-mcp-poc",
+  "source_url": "https://github.com/dorangao/llm-skills-mcp-poc",
+  "install": "# git clone --depth 1 https://github.com/dorangao/llm-skills-mcp-poc\n# See source for mcpServers config block"
+}

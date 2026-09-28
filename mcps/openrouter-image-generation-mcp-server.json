@@ -1,0 +1,7 @@
+{
+  "name": "openrouter-image-generation-mcp-server",
+  "description": "Enables image generation via OpenRouter API, supporting models like Gemini 2.5 Flash Image Preview with options to save files locally.",
+  "source_repo": "hz1ulqu01gmnZH4/openrouter-image-gen-mcp",
+  "source_url": "https://github.com/hz1ulqu01gmnZH4/openrouter-image-gen-mcp",
+  "install": "npx -y openrouter-image-gen-mcp"
+}

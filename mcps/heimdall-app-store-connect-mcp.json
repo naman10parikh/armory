@@ -1,0 +1,7 @@
+{
+  "name": "heimdall-app-store-connect-mcp",
+  "description": "Heimdall — MCP server for the Apple App Store Connect API & App Store Server API (StoreKit 2). 982 tools generated from Apple's official OpenAPI spec. Client-agnostic: Claude, Codex, Cursor, and any MCP client.",
+  "source_repo": "erayendes/app-store-connect-mcp",
+  "source_url": "https://github.com/erayendes/app-store-connect-mcp",
+  "install": "npx -y app-store-connect-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chaining-mcp-server",
+  "description": "A unified MCP server for enterprise tool chaining, route optimization, sequential thinking, time management, monitoring, analytics, security, and compliance.",
+  "source_repo": "1999AZZAR/chaining-mcp-server",
+  "source_url": "https://github.com/1999AZZAR/chaining-mcp-server",
+  "install": "npx -y chaining-mcp-server"
+}

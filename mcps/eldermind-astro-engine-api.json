@@ -1,0 +1,7 @@
+{
+  "name": "eldermind-astro-engine-api",
+  "description": "MCP server exposing eight esoteric calculation systems (Western/Vedic astrology, Human Design, Gene Keys, and more) through 14 tools, with deterministic profiles, partial success, and OAuth integration.",
+  "source_repo": "ElderMindAI/eldermind-astro-api",
+  "source_url": "https://github.com/ElderMindAI/eldermind-astro-api",
+  "install": "# git clone --depth 1 https://github.com/ElderMindAI/eldermind-astro-api\n# See source for mcpServers config block"
+}

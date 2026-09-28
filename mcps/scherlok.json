@@ -1,0 +1,7 @@
+{
+  "name": "scherlok",
+  "description": "Zero-config data quality monitoring as MCP tools. Profiles a warehouse (Postgres, BigQuery, Snowflake, MySQL, DuckDB), detects anomalies, and gates CI — read-only with the connection resolved server-side, never via the model.",
+  "source_repo": "rbmuller/scherlok",
+  "source_url": "https://github.com/rbmuller/scherlok",
+  "install": "# git clone --depth 1 https://github.com/rbmuller/scherlok\n# See source for mcpServers config block"
+}

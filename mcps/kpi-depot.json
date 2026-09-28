@@ -1,0 +1,7 @@
+{
+  "name": "kpi-depot",
+  "description": "Search 20,000+ corporate KPIs and 30,000+ source-attributed industry benchmarks: definitions, formulas, common pitfalls, improvement levers, and benchmark data. Hosted Streamable HTTP server at https://kpidepot.com/mcp; the repo's Dockerfile bridges stdio clients to it via mcp-remote.",
+  "source_repo": "flevy-com/kpi-depot-mcp",
+  "source_url": "https://github.com/flevy-com/kpi-depot-mcp",
+  "install": "npx -y kpi-depot-mcp"
+}

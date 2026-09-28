@@ -1,0 +1,7 @@
+{
+  "name": "dailyhot",
+  "description": "Aggregates hot trending data from 55+ platforms (e.g., Bilibili, Weibo, Zhihu) via MCP, enabling AI assistants to fetch real-time popular content.",
+  "source_repo": "FrankXMX/dailyhotmcp",
+  "source_url": "https://github.com/FrankXMX/dailyhotmcp",
+  "install": "# git clone --depth 1 https://github.com/FrankXMX/dailyhotmcp\n# See source for mcpServers config block"
+}

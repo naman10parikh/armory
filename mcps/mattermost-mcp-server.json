@@ -1,0 +1,7 @@
+{
+  "name": "mattermost-mcp-server",
+  "description": "MCP Server for the Mattermost API, enabling Claude and other MCP clients to interact with Mattermost workspaces.",
+  "source_repo": "conarti/mattermost-mcp",
+  "source_url": "https://github.com/conarti/mattermost-mcp",
+  "install": "npx -y mattermost-mcp"
+}

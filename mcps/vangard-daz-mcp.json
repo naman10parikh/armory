@@ -1,0 +1,7 @@
+{
+  "name": "vangard-daz-mcp",
+  "description": "MCP server that enables Claude to control DAZ Studio for scene manipulation, morph discovery, animation, and rendering.",
+  "source_repo": "bluemoonfoundry/daz-mcp-server",
+  "source_url": "https://github.com/bluemoonfoundry/daz-mcp-server",
+  "install": "npx -y daz-mcp-server"
+}

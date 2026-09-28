@@ -1,0 +1,7 @@
+{
+  "name": "copyq-mcp",
+  "description": "Provide AI agents with read and search access to CopyQ clipboard history, plus tab listing, with optional Windows dictation routing to separate tabs.",
+  "source_repo": "AutoraLabs/copyq-mcp",
+  "source_url": "https://github.com/AutoraLabs/copyq-mcp",
+  "install": "npx -y copyq-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bdjobs-mcp",
+  "description": "MCP server that fetches BDjobs profile data using Puppeteer and exposes a tool to retrieve the full profile text given user ID and log ID cookies.",
+  "source_repo": "MONGSING/bdjobs.mcp",
+  "source_url": "https://github.com/MONGSING/bdjobs.mcp",
+  "install": "# git clone --depth 1 https://github.com/MONGSING/bdjobs.mcp\n# See source for mcpServers config block"
+}

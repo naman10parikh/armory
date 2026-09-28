@@ -1,0 +1,7 @@
+{
+  "name": "re-il2cpp",
+  "description": "An MCP server that recovers original C# class, method, field, and parameter names from Unity IL2CPP global-metadata.dat files to assist with reverse engineering Unity games.",
+  "source_repo": "Heretek-RE/re-il2cpp",
+  "source_url": "https://github.com/Heretek-RE/re-il2cpp",
+  "install": "# git clone --depth 1 https://github.com/Heretek-RE/re-il2cpp\n# See source for mcpServers config block"
+}

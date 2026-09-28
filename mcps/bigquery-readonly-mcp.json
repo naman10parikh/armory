@@ -1,0 +1,7 @@
+{
+  "name": "bigquery-readonly-mcp",
+  "description": "Enables reading BigQuery data from ChatGPT using read-only SQL queries, with OAuth authentication and project-level access control.",
+  "source_repo": "Growth-Management/bigquery-readonly-mcp",
+  "source_url": "https://github.com/Growth-Management/bigquery-readonly-mcp",
+  "install": "npx -y bigquery-readonly-mcp"
+}

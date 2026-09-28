@@ -1,0 +1,7 @@
+{
+  "name": "embodied-mcp",
+  "description": "Enables a language model to perceive a robot's surroundings, navigate to referenced objects, count instances, and stop when finished, via tools for viewing, grounding, driving, and counting.",
+  "source_repo": "aryanmangal769/embodied-nav-mcp",
+  "source_url": "https://github.com/aryanmangal769/embodied-nav-mcp",
+  "install": "npx -y embodied-nav-mcp"
+}

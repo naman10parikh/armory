@@ -1,0 +1,7 @@
+{
+  "name": "hr-partner-mcp-server",
+  "description": "Enables AI assistants to read and write HR Partner company data via the HR Partner API, including employees, leave, expenses, recruitment, and more.",
+  "source_repo": "HR-Partner/hrpartner-mcp",
+  "source_url": "https://github.com/HR-Partner/hrpartner-mcp",
+  "install": "npx -y hrpartner-mcp"
+}

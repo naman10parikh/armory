@@ -1,0 +1,7 @@
+{
+  "name": "greencalculus",
+  "description": "Sourced carbon emission factors + audit-traced calculations an AI can cite.",
+  "source_repo": "jeremiahsay/greencalculus-mcp",
+  "source_url": "https://github.com/jeremiahsay/greencalculus-mcp",
+  "install": "npx -y greencalculus-mcp"
+}

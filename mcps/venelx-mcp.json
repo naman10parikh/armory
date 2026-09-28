@@ -1,0 +1,7 @@
+{
+  "name": "venelx-mcp",
+  "description": "Enables AI assistants to manage and operate Venelx CI/CD pipelines through the Venelx REST API, including listing projects, triggering builds, checking status, tailing logs, accessing artifacts and workers, and diagnosing signing or GitHub access.",
+  "source_repo": "VenelX/mcp",
+  "source_url": "https://github.com/VenelX/mcp",
+  "install": "# git clone --depth 1 https://github.com/VenelX/mcp\n# See source for mcpServers config block"
+}

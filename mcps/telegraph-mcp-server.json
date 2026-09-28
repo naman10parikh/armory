@@ -1,0 +1,7 @@
+{
+  "name": "telegraph-mcp-server",
+  "description": "Connects MCP-compatible agents to Telegraph's network of AI miners, exposing inference tools with automatic x402 micropayments handled transparently.",
+  "source_repo": "ashishwarkhade/Telegraph-MCP",
+  "source_url": "https://github.com/ashishwarkhade/Telegraph-MCP",
+  "install": "npx -y Telegraph-MCP"
+}

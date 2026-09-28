@@ -1,0 +1,7 @@
+{
+  "name": "metaapp-mcp-server",
+  "description": "A comprehensive MCP server for MetaApp development, offering tools for project initialization, protocol exploration, and blockchain interaction.",
+  "source_repo": "metaid-developers/metaapp-mcp-server",
+  "source_url": "https://github.com/metaid-developers/metaapp-mcp-server",
+  "install": "npx -y metaapp-mcp-server"
+}

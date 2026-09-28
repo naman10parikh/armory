@@ -1,0 +1,7 @@
+{
+  "name": "pmcontrols-mcp",
+  "description": "Validated project scheduling and earned value computations for AI agents, exposing CPM, PERT, schedule compression, and EVM tools.",
+  "source_repo": "arikanatakan/pmcontrols-mcp",
+  "source_url": "https://github.com/arikanatakan/pmcontrols-mcp",
+  "install": "npx -y pmcontrols-mcp"
+}

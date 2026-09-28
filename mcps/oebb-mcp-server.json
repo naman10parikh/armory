@@ -1,0 +1,7 @@
+{
+  "name": "oebb-mcp-server",
+  "description": "MCP server for querying Austrian train data including stations, departures, connections, and service alerts via the OEBB API.",
+  "source_repo": "slettmayer/oebb-mcp-server",
+  "source_url": "https://github.com/slettmayer/oebb-mcp-server",
+  "install": "npx -y oebb-mcp-server"
+}

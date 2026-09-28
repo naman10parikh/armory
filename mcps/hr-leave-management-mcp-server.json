@@ -1,0 +1,7 @@
+{
+  "name": "hr-leave-management-mcp-server",
+  "description": "Enables managing employee leave requests (apply, view, list leaves) through Claude desktop using natural language.",
+  "source_repo": "enggvaij/MCPserver-HRLeave-Management",
+  "source_url": "https://github.com/enggvaij/MCPserver-HRLeave-Management",
+  "install": "# git clone --depth 1 https://github.com/enggvaij/MCPserver-HRLeave-Management\n# See source for mcpServers config block"
+}

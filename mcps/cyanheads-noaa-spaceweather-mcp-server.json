@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-noaa-spaceweather-mcp-server",
+  "description": "Query NOAA SWPC space weather data including geomagnetic storm scales, Kp index, aurora forecasts, solar wind, solar activity, and alerts via MCP. Supports STDIO and Streamable HTTP transports.",
+  "source_repo": "cyanheads/noaa-spaceweather-mcp-server",
+  "source_url": "https://github.com/cyanheads/noaa-spaceweather-mcp-server",
+  "install": "npx -y noaa-spaceweather-mcp-server"
+}

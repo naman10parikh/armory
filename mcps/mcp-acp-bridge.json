@@ -1,0 +1,7 @@
+{
+  "name": "mcp-acp-bridge",
+  "description": "An ACP server that fronts an MCP-speaking coding agent, intercepting tool calls to request permission from a client before allowing them.",
+  "source_repo": "s243a/mcp-acp-bridge",
+  "source_url": "https://github.com/s243a/mcp-acp-bridge",
+  "install": "# git clone --depth 1 https://github.com/s243a/mcp-acp-bridge\n# See source for mcpServers config block"
+}

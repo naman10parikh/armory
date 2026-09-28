@@ -1,0 +1,7 @@
+{
+  "name": "nodered-mcp",
+  "description": "A Python MCP server that provides language models full read/write access to a Node-RED instance through its Admin HTTP API, enabling flow management with structured Pydantic responses and incremental patching.",
+  "source_repo": "ylt/nodered-mcp",
+  "source_url": "https://github.com/ylt/nodered-mcp",
+  "install": "npx -y nodered-mcp"
+}

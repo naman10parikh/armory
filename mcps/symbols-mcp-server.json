@@ -1,0 +1,7 @@
+{
+  "name": "symbols-mcp-server",
+  "description": "An MCP server that exposes the Symbols/DOMQL v3 AI assistant capabilities to any MCP-compatible platform. Enables generating components, pages, projects, and more from natural language, as well as searching documentation and reviewing code.",
+  "source_repo": "baronsilver/symbols-mcp-server",
+  "source_url": "https://github.com/baronsilver/symbols-mcp-server",
+  "install": "npx -y symbols-mcp-server"
+}

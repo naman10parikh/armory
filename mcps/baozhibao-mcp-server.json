@@ -1,0 +1,7 @@
+{
+  "name": "baozhibao-mcp-server",
+  "description": "MCP server for managing personal items with expiration dates, enabling AI agents to add, query, and scan barcode items via API Key authentication.",
+  "source_repo": "fawaikuangtuzhangfei/baozhibao-mcp-server",
+  "source_url": "https://github.com/fawaikuangtuzhangfei/baozhibao-mcp-server",
+  "install": "npx -y baozhibao-mcp-server"
+}

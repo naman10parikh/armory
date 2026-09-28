@@ -1,0 +1,7 @@
+{
+  "name": "mcp-serializer",
+  "description": "Registers MCP features (tools, prompts, resources) and serializes JSON-RPC requests into response data.",
+  "source_repo": "mdamire/mcp-serializer",
+  "source_url": "https://github.com/mdamire/mcp-serializer",
+  "install": "# git clone --depth 1 https://github.com/mdamire/mcp-serializer\n# See source for mcpServers config block"
+}

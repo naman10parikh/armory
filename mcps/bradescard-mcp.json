@@ -1,0 +1,7 @@
+{
+  "name": "bradescard-mcp",
+  "description": "Connects your Bradescard account to AI assistants via Open Finance Brasil, enabling natural language queries about balances, statements, credit card bills, and investments in read-only mode.",
+  "source_repo": "mcp-dir/bradescard-mcp",
+  "source_url": "https://github.com/mcp-dir/bradescard-mcp",
+  "install": "npx -y bradescard-mcp"
+}

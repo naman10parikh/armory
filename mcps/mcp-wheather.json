@@ -1,0 +1,7 @@
+{
+  "name": "mcp-wheather",
+  "description": "Provides real-time weather information for any location using the Open-Meteo API, enabling AI models to query current weather data through the Model Context Protocol.",
+  "source_repo": "zkjon/mcp-weather",
+  "source_url": "https://github.com/zkjon/mcp-weather",
+  "install": "# git clone --depth 1 https://github.com/zkjon/mcp-weather\n# See source for mcpServers config block"
+}

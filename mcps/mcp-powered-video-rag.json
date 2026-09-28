@@ -1,0 +1,7 @@
+{
+  "name": "mcp-powered-video-rag",
+  "description": "Enables asking natural language questions about local videos, using Whisper transcription, ChromaDB vector storage, and Groq for timestamped answers via MCP.",
+  "source_repo": "aymanz12/-MCP-Powered-Video-RAG-",
+  "source_url": "https://github.com/aymanz12/-MCP-Powered-Video-RAG-",
+  "install": "# git clone --depth 1 https://github.com/aymanz12/-MCP-Powered-Video-RAG-\n# See source for mcpServers config block"
+}

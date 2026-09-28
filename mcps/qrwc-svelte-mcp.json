@@ -1,0 +1,7 @@
+{
+  "name": "qrwc-svelte-mcp",
+  "description": "MCP server that provides tools, resources, and prompts to help LLMs build Svelte UI components for Q-SYS systems, including discovering components and controls from a Q-SYS Core.",
+  "source_repo": "M3-Technology-Group/qrwc-svelte-mcp",
+  "source_url": "https://github.com/M3-Technology-Group/qrwc-svelte-mcp",
+  "install": "npx -y qrwc-svelte-mcp"
+}

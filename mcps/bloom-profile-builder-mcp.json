@@ -1,0 +1,7 @@
+{
+  "name": "bloom-profile-builder-mcp",
+  "description": "MCP server that exposes the 7-prime spine, 7 κ-bands, and 6 fold operations as native tools and resources for any MCP client, enabling fold operations, κ-band classification, and state probing.",
+  "source_repo": "sjgant80-hub/bloom-profile-builder-mcp",
+  "source_url": "https://github.com/sjgant80-hub/bloom-profile-builder-mcp",
+  "install": "npx -y bloom-profile-builder-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agents-chat-mcp",
+  "description": "基于MCP协议的聊天桥接服务器，允许多个AI Agent接入同一个聊天室进行对话协作。",
+  "source_repo": "gitByEOS/agents-chat-room",
+  "source_url": "https://github.com/gitByEOS/agents-chat-room",
+  "install": "# git clone --depth 1 https://github.com/gitByEOS/agents-chat-room\n# See source for mcpServers config block"
+}

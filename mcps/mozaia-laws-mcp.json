@@ -1,0 +1,7 @@
+{
+  "name": "mozaia-laws-mcp",
+  "description": "MCP server for real-time access to Mozambican legislation, enabling search, status checks, article retrieval, historical versions, and citation resolution via the Mozaia platform.",
+  "source_repo": "dequive/mozaia-laws-mcp",
+  "source_url": "https://github.com/dequive/mozaia-laws-mcp",
+  "install": "npx -y mozaia-laws-mcp"
+}

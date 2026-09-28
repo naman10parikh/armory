@@ -1,0 +1,7 @@
+{
+  "name": "mcp-read-only-grafana",
+  "description": "A secure MCP server for Grafana that provides read-only access by default, with a separate write-capable command for mutations.",
+  "source_repo": "lukleh/mcp-read-only-grafana",
+  "source_url": "https://github.com/lukleh/mcp-read-only-grafana",
+  "install": "# git clone --depth 1 https://github.com/lukleh/mcp-read-only-grafana\n# See source for mcpServers config block"
+}

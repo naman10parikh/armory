@@ -1,0 +1,7 @@
+{
+  "name": "coinrebate-mcp-server",
+  "description": "Enables AI agents to fetch real-time exchange trading fees, compare rebate-adjusted costs, obtain referral links, calculate trading costs, and identify compliant exchanges for crypto trading.",
+  "source_repo": "skheman2026-sketch/coinrebate-mcp-server",
+  "source_url": "https://github.com/skheman2026-sketch/coinrebate-mcp-server",
+  "install": "npx -y coinrebate-mcp-server"
+}

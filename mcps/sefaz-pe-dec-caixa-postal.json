@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-pe-dec-caixa-postal",
+  "description": "Provides a single tool to consult SEFAZ PE DEC Caixa Postal data from an official source, using prepaid credits and magic-link authentication.",
+  "source_repo": "mcp-dir/sefaz_pe_dec_caixa_postal-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_pe_dec_caixa_postal-mcp",
+  "install": "npx -y sefaz_pe_dec_caixa_postal-mcp"
+}

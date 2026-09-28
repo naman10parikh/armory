@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-unifi",
+  "description": "MCP server for managing UniFi Network Controllers, providing tools to read and modify network configurations, clients, devices, events, diagnostics, and backups via API key.",
+  "source_repo": "martin3000/mcp-server-unifi",
+  "source_url": "https://github.com/martin3000/mcp-server-unifi",
+  "install": "# git clone --depth 1 https://github.com/martin3000/mcp-server-unifi\n# See source for mcpServers config block"
+}

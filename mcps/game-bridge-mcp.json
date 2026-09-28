@@ -1,0 +1,7 @@
+{
+  "name": "game-bridge-mcp",
+  "description": "MCP server that lets agents launch, drive, and read game instances over HTTP, with a dynamic toolset discovered from the running game.",
+  "source_repo": "wildware-uk/game-bridge-mcp",
+  "source_url": "https://github.com/wildware-uk/game-bridge-mcp",
+  "install": "npx -y game-bridge-mcp"
+}

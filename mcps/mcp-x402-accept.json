@@ -1,0 +1,7 @@
+{
+  "name": "mcp-x402-accept",
+  "description": "Proxies an existing MCP server to add an x402 paywall, charging AI agents per tool call without modifying the upstream server.",
+  "source_repo": "CryptoAPIs-io/cryptoapis-mcp-x402-accept",
+  "source_url": "https://github.com/CryptoAPIs-io/cryptoapis-mcp-x402-accept",
+  "install": "# git clone --depth 1 https://github.com/CryptoAPIs-io/cryptoapis-mcp-x402-accept\n# See source for mcpServers config block"
+}

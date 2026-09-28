@@ -1,0 +1,7 @@
+{
+  "name": "release-notes-mcp",
+  "description": "Combines GitHub releases from multiple repositories into a single product release note, with context sources for LLM synthesis.",
+  "source_repo": "vaggeliskls/release-notes-mcp",
+  "source_url": "https://github.com/vaggeliskls/release-notes-mcp",
+  "install": "npx -y release-notes-mcp"
+}

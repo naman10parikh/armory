@@ -1,0 +1,7 @@
+{
+  "name": "mevzuat-mcp",
+  "description": "Enables programmatic access to Turkish legislation from mevzuat.gov.tr, allowing search, full-text retrieval, and Boolean search within articles.",
+  "source_repo": "matt0000000/mevzuat-mcp",
+  "source_url": "https://github.com/matt0000000/mevzuat-mcp",
+  "install": "npx -y mevzuat-mcp"
+}

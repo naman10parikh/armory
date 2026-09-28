@@ -1,0 +1,7 @@
+{
+  "name": "cogmemory-mcp-server",
+  "description": "Provides a unified context system for AI coding agents with memory, knowledge graph, specs, and code graph subsystems, all stored in SQLite. Enables persistent recall of decisions, conventions, errors, project knowledge, and code structure.",
+  "source_repo": "skylarng89/cogmemory-mcp",
+  "source_url": "https://github.com/skylarng89/cogmemory-mcp",
+  "install": "npx -y cogmemory-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jmeter-mcp-server",
+  "description": "A powerful MCP server for automated JMeter test generation and execution with Docker integration and comprehensive performance analysis.",
+  "source_repo": "chandanvars/jmeter-mcp-server",
+  "source_url": "https://github.com/chandanvars/jmeter-mcp-server",
+  "install": "npx -y jmeter-mcp-server"
+}

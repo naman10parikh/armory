@@ -1,0 +1,7 @@
+{
+  "name": "ladu-adu-tools",
+  "description": "LA County ADU buildability checks, zoning rules, permit trends, and cost estimates — free, no auth.",
+  "source_repo": "ladu-dev/ladu-mcp",
+  "source_url": "https://github.com/ladu-dev/ladu-mcp",
+  "install": "npx -y ladu-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mozichem-mcp",
+  "description": "A collection of MCP servers for chemical engineering and chemistry applications, enabling AI assistants to perform thermodynamic calculations, equation of state modeling, and phase equilibrium computations.",
+  "source_repo": "fastmcp-me/mozichem-mcp",
+  "source_url": "https://github.com/fastmcp-me/mozichem-mcp",
+  "install": "npx -y mozichem-mcp"
+}

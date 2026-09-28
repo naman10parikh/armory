@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bdm",
+  "description": "Enables AI assistants to search, read, and analyze Italian civil court decisions from the Ministry of Justice's Banca Dati di Merito, using CIE authentication.",
+  "source_repo": "CarlSamma/mcp-bdm",
+  "source_url": "https://github.com/CarlSamma/mcp-bdm",
+  "install": "# git clone --depth 1 https://github.com/CarlSamma/mcp-bdm\n# See source for mcpServers config block"
+}

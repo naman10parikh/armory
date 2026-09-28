@@ -1,0 +1,7 @@
+{
+  "name": "dns-lookup",
+  "description": "Enables AI agents to perform pay-per-call DNS record lookups (A, AAAA, MX, TXT, CNAME, NS, SOA, SRV) via Cloudflare DNS-over-HTTPS, with x402 micropayments and no API key or signup.",
+  "source_repo": "Br0ski777/dns-lookup-x402",
+  "source_url": "https://github.com/Br0ski777/dns-lookup-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/dns-lookup-x402\n# See source for mcpServers config block"
+}

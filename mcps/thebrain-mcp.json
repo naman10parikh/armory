@@ -1,0 +1,7 @@
+{
+  "name": "thebrain-mcp",
+  "description": "An MCP server for TheBrain 15 that enables semantic search, graph traversal, and structured writing to a personal knowledge base via its local API. It provides tools to read and write thoughts, notes, links, and tags, with optional local embeddings for meaning-based search.",
+  "source_repo": "yBookoff/thebrain-mcp",
+  "source_url": "https://github.com/yBookoff/thebrain-mcp",
+  "install": "npx -y thebrain-mcp"
+}

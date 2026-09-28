@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-rj-rio-de-janeiro-certid-o-tribut-ria-de-iptu",
+  "description": "Enables querying of official IPTU property tax certificates from Rio de Janeiro's city hall via a read-only MCP tool.",
+  "source_repo": "mcp-dir/pref_rj_rio_janeiro_cert_trib-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_rj_rio_janeiro_cert_trib-mcp",
+  "install": "npx -y pref_rj_rio_janeiro_cert_trib-mcp"
+}

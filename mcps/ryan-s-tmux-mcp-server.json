@@ -1,0 +1,7 @@
+{
+  "name": "ryan-s-tmux-mcp-server",
+  "description": "MCP server for tmux operations that provides comprehensive control over tmux sessions, windows, and panes.",
+  "source_repo": "ryancnelson/ryan-tmux-mcp",
+  "source_url": "https://github.com/ryancnelson/ryan-tmux-mcp",
+  "install": "npx -y ryan-tmux-mcp"
+}

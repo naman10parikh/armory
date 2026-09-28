@@ -1,0 +1,7 @@
+{
+  "name": "business-days-mcp",
+  "description": "A server for business day arithmetic and SLA calculations, supporting holidays for ~150 countries, plus cron and recurrence-rule parsing.",
+  "source_repo": "Vessark/business-days-mcp",
+  "source_url": "https://github.com/Vessark/business-days-mcp",
+  "install": "npx -y business-days-mcp"
+}

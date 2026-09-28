@@ -1,0 +1,7 @@
+{
+  "name": "sg-gov-mcp-server",
+  "description": "Unified MCP server offering 30 tools for Singapore government and public data including weather, transport, education, and property, with many tools working immediately without API keys.",
+  "source_repo": "DarKSanjan/sg-mcp-server",
+  "source_url": "https://github.com/DarKSanjan/sg-mcp-server",
+  "install": "npx -y sg-mcp-server"
+}

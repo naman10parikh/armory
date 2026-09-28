@@ -1,0 +1,7 @@
+{
+  "name": "speechwire-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides AI assistants with secure, authenticated access to SpeechWire tournament data for speech-and-debate competitions.",
+  "source_repo": "jessica-writes-code/speechwire-mcp",
+  "source_url": "https://github.com/jessica-writes-code/speechwire-mcp",
+  "install": "npx -y speechwire-mcp"
+}

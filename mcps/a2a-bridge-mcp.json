@@ -1,0 +1,7 @@
+{
+  "name": "a2a-bridge-mcp",
+  "description": "MCP server for agent-to-agent communication -- capability discovery, task delegation, and result aggregation across MCP agents.",
+  "source_repo": "mdfifty50-boop/a2a-bridge-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/a2a-bridge-mcp",
+  "install": "npx -y a2a-bridge-mcp"
+}

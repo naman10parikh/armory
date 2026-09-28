@@ -1,0 +1,7 @@
+{
+  "name": "web-scraper-mcp-server",
+  "description": "Enables AI agents to fetch, clean, and extract readable content from web pages, optionally including links and images, via the scrape_url tool.",
+  "source_repo": "null-create/mcp-web-scraper-server",
+  "source_url": "https://github.com/null-create/mcp-web-scraper-server",
+  "install": "# git clone --depth 1 https://github.com/null-create/mcp-web-scraper-server\n# See source for mcpServers config block"
+}

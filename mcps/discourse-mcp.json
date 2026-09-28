@@ -1,0 +1,7 @@
+{
+  "name": "discourse-mcp",
+  "description": "Enables interaction with Discourse forums, especially those behind Cloudflare, using browser impersonation and rate limiting.",
+  "source_repo": "Sakura-Byte/discourse-mcp",
+  "source_url": "https://github.com/Sakura-Byte/discourse-mcp",
+  "install": "npx -y discourse-mcp"
+}

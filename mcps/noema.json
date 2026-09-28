@@ -1,0 +1,7 @@
+{
+  "name": "noema",
+  "description": "Noema MCP server enables AI clients to interact with a personal task management and knowledge workspace, supporting operations on tasks, notes, documents, links, and more.",
+  "source_repo": "vladimirperovic/noema",
+  "source_url": "https://github.com/vladimirperovic/noema",
+  "install": "# git clone --depth 1 https://github.com/vladimirperovic/noema\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "warcraft-wiki-mcp",
+  "description": "MCP server that gives LLMs live access to warcraft.wiki.gg API documentation with behavioral notes, restrictions, and patch history for World of Warcraft APIs.",
+  "source_repo": "Direction6275/warcraft-wiki-mcp",
+  "source_url": "https://github.com/Direction6275/warcraft-wiki-mcp",
+  "install": "npx -y warcraft-wiki-mcp"
+}

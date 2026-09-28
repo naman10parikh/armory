@@ -1,0 +1,7 @@
+{
+  "name": "journal-search-mcp",
+  "description": "MCP server for searching and verifying academic journal PDFs. It uses Tavily search and Gemini Flash Lite to analyze PDF content and return structured JSON results.",
+  "source_repo": "Farid521/gemini-journal-search-swarm-mcp",
+  "source_url": "https://github.com/Farid521/gemini-journal-search-swarm-mcp",
+  "install": "npx -y gemini-journal-search-swarm-mcp"
+}

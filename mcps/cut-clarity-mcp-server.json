@@ -1,0 +1,7 @@
+{
+  "name": "cut-clarity-mcp-server",
+  "description": "Read-only MCP server exposing Microsoft Clarity analytics data as tools for ChatGPT Agent Builder.",
+  "source_repo": "Creativeuseoftechnology/cut-clarity-mcp-server",
+  "source_url": "https://github.com/Creativeuseoftechnology/cut-clarity-mcp-server",
+  "install": "npx -y cut-clarity-mcp-server"
+}

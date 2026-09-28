@@ -1,0 +1,7 @@
+{
+  "name": "se2-minikit-mcp-server",
+  "description": "MCP server enabling rapid Web3 development on Base with Farcaster integration.",
+  "source_repo": "troopdegen/se2-minikit-mcp-server",
+  "source_url": "https://github.com/troopdegen/se2-minikit-mcp-server",
+  "install": "npx -y se2-minikit-mcp-server"
+}

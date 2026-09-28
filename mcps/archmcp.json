@@ -1,0 +1,7 @@
+{
+  "name": "archmcp",
+  "description": "A centralized remote MCP server that gives AI coding assistants real-time microservices architecture intelligence, including service search, database schema lookup, API discovery, and change blast-radius analysis.",
+  "source_repo": "ShubhamScript/archmcp",
+  "source_url": "https://github.com/ShubhamScript/archmcp",
+  "install": "# git clone --depth 1 https://github.com/ShubhamScript/archmcp\n# See source for mcpServers config block"
+}

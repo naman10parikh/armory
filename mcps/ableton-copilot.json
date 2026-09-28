@@ -1,0 +1,7 @@
+{
+  "name": "ableton-copilot",
+  "description": "Enables AI-powered music production in Ableton Live through natural language, with tools for composition, arrangement, mixing, and sound design.",
+  "source_repo": "F-Fischer/ableton-copilot",
+  "source_url": "https://github.com/F-Fischer/ableton-copilot",
+  "install": "# git clone --depth 1 https://github.com/F-Fischer/ableton-copilot\n# See source for mcpServers config block"
+}

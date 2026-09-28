@@ -1,0 +1,7 @@
+{
+  "name": "ftir-fun-mcp-server",
+  "description": "Enables analysis of FTIR spectra by accepting peak lists, natural-language descriptions, or base64-encoded spectrum files and returning spectral-library candidates from the FTIR.fun API.",
+  "source_repo": "jxbaoxiaodong/ftirfun-mcp",
+  "source_url": "https://github.com/jxbaoxiaodong/ftirfun-mcp",
+  "install": "npx -y ftirfun-mcp"
+}

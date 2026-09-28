@@ -1,0 +1,7 @@
+{
+  "name": "mcp-knowledge-base-server",
+  "description": "A local knowledge base server that connects to AI assistants, turning markdown files into a semantically searchable memory layer via OpenAI embeddings and SQLite.",
+  "source_repo": "m4k00/mcp-knowledge-base",
+  "source_url": "https://github.com/m4k00/mcp-knowledge-base",
+  "install": "# git clone --depth 1 https://github.com/m4k00/mcp-knowledge-base\n# See source for mcpServers config block"
+}

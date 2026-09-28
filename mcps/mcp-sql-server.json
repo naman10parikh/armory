@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sql-server",
+  "description": "Enables AI assistants to interact with SQL Server databases through tools for connectivity, schema exploration, SQL queries, and OEE metrics analysis.",
+  "source_repo": "gigimento/mcp-sql-server",
+  "source_url": "https://github.com/gigimento/mcp-sql-server",
+  "install": "# git clone --depth 1 https://github.com/gigimento/mcp-sql-server\n# See source for mcpServers config block"
+}

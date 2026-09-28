@@ -1,0 +1,7 @@
+{
+  "name": "emoncms-mcp-server",
+  "description": "MCP server for EmonCMS energy monitoring API, enabling AI assistants to query energy feeds, inputs, and historical data.",
+  "source_repo": "guibrazlima/emoncms-mcp-server",
+  "source_url": "https://github.com/guibrazlima/emoncms-mcp-server",
+  "install": "npx -y emoncms-mcp-server"
+}

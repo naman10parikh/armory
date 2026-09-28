@@ -1,0 +1,7 @@
+{
+  "name": "kairos",
+  "description": "when2meet-style scheduling polls — self-hostable, reverse-proxy-auth friendly, agent-first API (OpenAPI + llms.txt + MCP).",
+  "source_repo": "gerchowl/kairos",
+  "source_url": "https://github.com/gerchowl/kairos",
+  "install": "# git clone --depth 1 https://github.com/gerchowl/kairos\n# See source for mcpServers config block"
+}

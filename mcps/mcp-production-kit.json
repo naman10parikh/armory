@@ -1,0 +1,7 @@
+{
+  "name": "mcp-production-kit",
+  "description": "A production-ready MCP server template with OAuth 2.1, RBAC, and audit logging for building secure, observable tool servers.",
+  "source_repo": "Lumina-AI-studio/mcp-production-kit",
+  "source_url": "https://github.com/Lumina-AI-studio/mcp-production-kit",
+  "install": "# git clone --depth 1 https://github.com/Lumina-AI-studio/mcp-production-kit\n# See source for mcpServers config block"
+}

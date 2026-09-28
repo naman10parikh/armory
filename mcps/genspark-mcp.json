@@ -1,0 +1,7 @@
+{
+  "name": "genspark-mcp",
+  "description": "Enables image and video generation through Genspark's UI from Claude Code, Codex CLI, or any stdio-compatible MCP client, using your own local browser and Genspark account.",
+  "source_repo": "stockvalue/genspark-mcp",
+  "source_url": "https://github.com/stockvalue/genspark-mcp",
+  "install": "npx -y genspark-mcp"
+}

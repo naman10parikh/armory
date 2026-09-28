@@ -1,0 +1,7 @@
+{
+  "name": "maximo-jobplan",
+  "description": "Enables natural language interactions for creating, querying, updating, and deleting job plans in IBM Maximo.",
+  "source_repo": "ibm-self-serve-assets/Bob-driven-Integration-for-Maximo-via-MCP",
+  "source_url": "https://github.com/ibm-self-serve-assets/Bob-driven-Integration-for-Maximo-via-MCP",
+  "install": "npx -y Bob-driven-Integration-for-Maximo-via-MCP"
+}

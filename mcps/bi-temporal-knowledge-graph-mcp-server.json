@@ -1,0 +1,7 @@
+{
+  "name": "bi-temporal-knowledge-graph-mcp-server",
+  "description": "Combines a bi-temporal knowledge graph with dynamic automation tool generation for AI agents, enabling persistent memory with temporal tracking and custom tool creation.",
+  "source_repo": "connectimtiazh/Temporal-Knowledge-Graph-MCP-Server",
+  "source_url": "https://github.com/connectimtiazh/Temporal-Knowledge-Graph-MCP-Server",
+  "install": "npx -y Temporal-Knowledge-Graph-MCP-Server"
+}

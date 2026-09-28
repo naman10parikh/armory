@@ -1,0 +1,7 @@
+{
+  "name": "mcpanonimohealth",
+  "description": "MCP server that locally de-identifies health documents, such as prescriptions, reports, images, and PDFs, before use with Codex or Claude Code. It runs OCR and identifier detection on-device and only returns de-identified text to the agent when the automated policy check results in PASS.",
+  "source_repo": "alexandreumatize/mcpanonimohealth",
+  "source_url": "https://github.com/alexandreumatize/mcpanonimohealth",
+  "install": "# git clone --depth 1 https://github.com/alexandreumatize/mcpanonimohealth\n# See source for mcpServers config block"
+}

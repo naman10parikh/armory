@@ -1,0 +1,7 @@
+{
+  "name": "hermes-terminal-dashboard",
+  "description": "MCP server that enables an AI agent to display rich Markdown content on a physical monitor connected to a headless Linux device via a Textual/Rich TUI.",
+  "source_repo": "antunesls/matrixui-hermes-mcp",
+  "source_url": "https://github.com/antunesls/matrixui-hermes-mcp",
+  "install": "npx -y matrixui-hermes-mcp"
+}

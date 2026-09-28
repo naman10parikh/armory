@@ -1,0 +1,7 @@
+{
+  "name": "mcp-deprecate",
+  "description": "Scans MCP servers for deprecated and removed protocol features, providing a dated migration checklist.",
+  "source_repo": "shurugiken/mcp-deprecate",
+  "source_url": "https://github.com/shurugiken/mcp-deprecate",
+  "install": "# git clone --depth 1 https://github.com/shurugiken/mcp-deprecate\n# See source for mcpServers config block"
+}

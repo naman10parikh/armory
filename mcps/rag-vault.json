@@ -1,0 +1,7 @@
+{
+  "name": "rag-vault",
+  "description": "RAG Vault lets your AI coding assistant search your private documents locally. Everything runs on your machine and your data stays private.",
+  "source_repo": "RobThePCGuy/rag-vault",
+  "source_url": "https://github.com/RobThePCGuy/rag-vault",
+  "install": "# git clone --depth 1 https://github.com/RobThePCGuy/rag-vault\n# See source for mcpServers config block"
+}

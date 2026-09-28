@@ -1,0 +1,7 @@
+{
+  "name": "pricempire-mcp",
+  "description": "An MCP server for querying your Pricempire CS2 trader portfolio, providing total value, category breakdowns, top holdings, cross-marketplace price comparison, and price history.",
+  "source_repo": "nt4f04uNd/pricempire-mcp",
+  "source_url": "https://github.com/nt4f04uNd/pricempire-mcp",
+  "install": "npx -y pricempire-mcp"
+}

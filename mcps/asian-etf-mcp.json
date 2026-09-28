@@ -1,0 +1,7 @@
+{
+  "name": "asian-etf-mcp",
+  "description": "Exposes Asian ETF Tracker data (HK, A-Share, Taiwan, South Korea, US) as tools for LLM agents, enabling market discovery, performance analysis, and momentum tracking.",
+  "source_repo": "ivyyy0601/etf-mcp",
+  "source_url": "https://github.com/ivyyy0601/etf-mcp",
+  "install": "npx -y etf-mcp"
+}

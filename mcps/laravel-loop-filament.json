@@ -1,0 +1,7 @@
+{
+  "name": "laravel-loop-filament",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/laravel-loop-filament",
+  "install": "# git clone --depth 1 https://mcp.so/server/laravel-loop-filament\n# See source for mcpServers config block"
+}

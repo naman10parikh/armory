@@ -1,0 +1,7 @@
+{
+  "name": "ai-credits-mcp",
+  "description": "MCP server that exposes AI credit usage data from OpenMeter to the TAIS AI chat service, automatically scoped to the calling tenant and restricted to admin users.",
+  "source_repo": "ADemers-tricentis/ai-credits-mcp",
+  "source_url": "https://github.com/ADemers-tricentis/ai-credits-mcp",
+  "install": "npx -y ai-credits-mcp"
+}

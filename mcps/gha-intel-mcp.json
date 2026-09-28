@@ -1,0 +1,7 @@
+{
+  "name": "gha-intel-mcp",
+  "description": "MCP server that analyzes GitHub Actions workflow performance, audits configuration for optimization, and provides billing and cache usage insights.",
+  "source_repo": "barissozudogru/gha-intel-mcp",
+  "source_url": "https://github.com/barissozudogru/gha-intel-mcp",
+  "install": "npx -y gha-intel-mcp"
+}

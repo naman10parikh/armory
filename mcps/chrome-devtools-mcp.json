@@ -1,0 +1,7 @@
+{
+  "name": "chrome-devtools-mcp",
+  "description": "Lets coding agents control and inspect a live Chrome browser via the Model-Context-Protocol, providing advanced browser debugging, performance insights, and reliable automation.",
+  "source_repo": "shivamprasad99/chrome-devtools-mcp",
+  "source_url": "https://github.com/shivamprasad99/chrome-devtools-mcp",
+  "install": "npx -y chrome-devtools-mcp"
+}

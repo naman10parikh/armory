@@ -1,0 +1,7 @@
+{
+  "name": "markltdown-mcp-server",
+  "description": "Converts files (PDF, Word, images, etc.) to Markdown within Claude Desktop to reduce token usage.",
+  "source_repo": "guido1967-lab/markletdown-mcp",
+  "source_url": "https://github.com/guido1967-lab/markletdown-mcp",
+  "install": "npx -y markletdown-mcp"
+}

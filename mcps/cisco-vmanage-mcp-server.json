@@ -1,0 +1,7 @@
+{
+  "name": "cisco-vmanage-mcp-server",
+  "description": "Enables AI clients to query SD-WAN fabric health, devices, tunnels, BFD sessions, OMP peers, alarms, policies, and configuration state via natural language, with deterministic correlation and diagnostics for incident assessment.",
+  "source_repo": "weegienamja/sdwan-mcp-server",
+  "source_url": "https://github.com/weegienamja/sdwan-mcp-server",
+  "install": "npx -y sdwan-mcp-server"
+}

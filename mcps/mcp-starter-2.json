@@ -1,0 +1,7 @@
+{
+  "name": "mcp-starter-2",
+  "description": "A local MCP server providing general utility tools, persistent note storage, and keyword-searchable knowledge base via Streamable HTTP, enabling multiple agents to share the same data.",
+  "source_repo": "Cynthiaflora/mcp",
+  "source_url": "https://github.com/Cynthiaflora/mcp",
+  "install": "# git clone --depth 1 https://github.com/Cynthiaflora/mcp\n# See source for mcpServers config block"
+}

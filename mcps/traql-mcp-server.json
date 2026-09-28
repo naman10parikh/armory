@@ -1,0 +1,7 @@
+{
+  "name": "traql-mcp-server",
+  "description": "Enables AI agents to perform AML and compliance risk scoring for crypto addresses and transactions on Ethereum, BSC, TRON, TON, and Bitcoin, returning 0–100 risk scores, bands, flags, and detailed signals.",
+  "source_repo": "traql/mcp-server",
+  "source_url": "https://github.com/traql/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/traql/mcp-server\n# See source for mcpServers config block"
+}

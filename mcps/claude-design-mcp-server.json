@@ -1,0 +1,7 @@
+{
+  "name": "claude-design-mcp-server",
+  "description": "Enables working with and exporting live Claude Design projects and prototypes through a local bridge that handles OAuth authentication and adds tools to download files and export projects.",
+  "source_repo": "thomast8/codex-claude-design-plugin",
+  "source_url": "https://github.com/thomast8/codex-claude-design-plugin",
+  "install": "# git clone --depth 1 https://github.com/thomast8/codex-claude-design-plugin\n# See source for mcpServers config block"
+}

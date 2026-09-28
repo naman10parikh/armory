@@ -1,0 +1,7 @@
+{
+  "name": "solace-admin-read-mcp",
+  "description": "Read-only MCP server for Solace PubSub+ brokers and Event Portal. Enables Claude to query queue depths, client connections, VPN stats, event schemas, and more via natural language.",
+  "source_repo": "solacese/solace-admin-read-mcp",
+  "source_url": "https://github.com/solacese/solace-admin-read-mcp",
+  "install": "npx -y solace-admin-read-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "maus-mcp",
+  "description": "MCP server that gives AI agents access to your Maus clipboard on macOS, enabling them to write clean text into history, search, and manage clipboard items locally.",
+  "source_repo": "mnlt/maus-mcp",
+  "source_url": "https://github.com/mnlt/maus-mcp",
+  "install": "npx -y maus-mcp"
+}

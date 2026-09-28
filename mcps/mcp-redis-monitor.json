@@ -1,0 +1,7 @@
+{
+  "name": "mcp-redis-monitor",
+  "description": "FastMCP server with read-only tools to monitor Redis — queue depths, Celery queue status, connected clients, server/memory info, and per-database key counts",
+  "source_repo": "antonio-mello-ai/mcp-redis-monitor",
+  "source_url": "https://github.com/antonio-mello-ai/mcp-redis-monitor",
+  "install": "# git clone --depth 1 https://github.com/antonio-mello-ai/mcp-redis-monitor\n# See source for mcpServers config block"
+}

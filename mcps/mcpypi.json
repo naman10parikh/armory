@@ -1,0 +1,7 @@
+{
+  "name": "mcpypi",
+  "description": "MCP server for comprehensive PyPI package intelligence, providing tools for dependency analysis, security scanning, health scoring, license compliance, and trend tracking.",
+  "source_repo": "rsp2k/pypi-query-mcp-server",
+  "source_url": "https://github.com/rsp2k/pypi-query-mcp-server",
+  "install": "npx -y pypi-query-mcp-server"
+}

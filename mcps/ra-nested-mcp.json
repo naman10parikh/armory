@@ -1,0 +1,7 @@
+{
+  "name": "ra-nested-mcp",
+  "description": "A two-layer nested MCP server that acts as a telecom Revenue Assurance knowledge agent. It uses an orchestrator LLM (Llama 3.3 70B via Groq) to decompose questions, retrieve from a local vector store of RA documents, and synthesize answers, all running on free tiers.",
+  "source_repo": "ayushkhandelwal-bits/ra-nested-mcp",
+  "source_url": "https://github.com/ayushkhandelwal-bits/ra-nested-mcp",
+  "install": "npx -y ra-nested-mcp"
+}

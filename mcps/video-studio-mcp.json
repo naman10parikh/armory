@@ -1,0 +1,7 @@
+{
+  "name": "video-studio-mcp",
+  "description": "MCP server enabling AI agents to generate AI videos and images, analyze video content, and download videos from Douyin and Xiaohongshu.",
+  "source_repo": "Joshuayang228/video-studio-mcp",
+  "source_url": "https://github.com/Joshuayang228/video-studio-mcp",
+  "install": "npx -y video-studio-mcp"
+}

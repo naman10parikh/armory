@@ -1,0 +1,7 @@
+{
+  "name": "bolsa-fam-lia",
+  "description": "Checks whether a beneficiary received Bolsa Família benefits using their NIS and reference month/year. Provides read-only, credential-free access to benefit status for use with any MCP client.",
+  "source_repo": "mcp-dir/bolsa_familia-mcp",
+  "source_url": "https://github.com/mcp-dir/bolsa_familia-mcp",
+  "install": "npx -y bolsa_familia-mcp"
+}

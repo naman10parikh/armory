@@ -1,0 +1,7 @@
+{
+  "name": "disease-detection-mcp-server",
+  "description": "Enables plant disease detection through an MCP server powered by AI models, supporting deployment on Railway or local Claude Desktop.",
+  "source_repo": "HydroTekFarm2023/disease-detection-mcp-server",
+  "source_url": "https://github.com/HydroTekFarm2023/disease-detection-mcp-server",
+  "install": "npx -y disease-detection-mcp-server"
+}

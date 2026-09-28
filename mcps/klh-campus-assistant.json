@@ -1,0 +1,7 @@
+{
+  "name": "klh-campus-assistant",
+  "description": "An MCP server for KLH University Hyderabad that provides tools for CGPA calculation, schedule conflict checking, study group and course search, club and exam info, library lookup, and resources for campus FAQ and curriculum requirements.",
+  "source_repo": "subh812/KLH-MCP",
+  "source_url": "https://github.com/subh812/KLH-MCP",
+  "install": "npx -y KLH-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mangii",
+  "description": "Create manga and anime art with an AI manga generator. Type what you imagine — Mangii turns text into panels in a chosen style. No drawing skills needed.",
+  "source_repo": "AAAIStudio/mangii-mcp",
+  "source_url": "https://github.com/AAAIStudio/mangii-mcp",
+  "install": "npx -y mangii-mcp"
+}

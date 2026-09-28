@@ -1,0 +1,7 @@
+{
+  "name": "rlm-mcp-server",
+  "description": "Provides recursive language model capabilities to AI assistants, enabling efficient exploration of large contexts through iterative Python code execution.",
+  "source_repo": "wgthomas/rlm-mcp-server",
+  "source_url": "https://github.com/wgthomas/rlm-mcp-server",
+  "install": "npx -y rlm-mcp-server"
+}

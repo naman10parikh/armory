@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arcgis-raleigh",
+  "description": "Enables AI agents to search and query City of Raleigh GIS open geospatial datasets (parcels, zoning, parks, transport, city services) via ArcGIS Feature Services.",
+  "source_repo": "pipeworx-io/mcp-arcgis-raleigh",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-raleigh",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-raleigh\n# See source for mcpServers config block"
+}

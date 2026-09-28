@@ -1,0 +1,7 @@
+{
+  "name": "nigeria-mcp",
+  "description": "Provides AI agents with tools to access Nigerian trade statistics, live FX rates, bank account resolution, and electricity meter validation data.",
+  "source_repo": "Braynexservices/nigeria-mcp",
+  "source_url": "https://github.com/Braynexservices/nigeria-mcp",
+  "install": "npx -y nigeria-mcp"
+}

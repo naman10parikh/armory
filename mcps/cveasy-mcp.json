@@ -1,0 +1,7 @@
+{
+  "name": "cveasy-mcp",
+  "description": "Provides MCP clients like Claude with tools to query and manage security scans, CVEs, assets, findings, threat intel, and generate polished reports by acting as a lightweight adapter over the CVEasy backend API.",
+  "source_repo": "CVEasy/cveasy-mcp",
+  "source_url": "https://github.com/CVEasy/cveasy-mcp",
+  "install": "npx -y cveasy-mcp"
+}

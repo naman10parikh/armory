@@ -1,0 +1,7 @@
+{
+  "name": "biotools-mcp",
+  "description": "MCP server offering verified bioinformatics tools for sequence utilities and statistics, backed by BioPython/scipy. Enables AI agents to perform accurate GC content, translation, ORF finding, motif scanning, and statistical tests through natural language.",
+  "source_repo": "madhusudan-kulkarni/biotools-mcp",
+  "source_url": "https://github.com/madhusudan-kulkarni/biotools-mcp",
+  "install": "npx -y biotools-mcp"
+}

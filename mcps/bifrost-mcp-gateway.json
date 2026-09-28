@@ -1,0 +1,7 @@
+{
+  "name": "bifrost-mcp-gateway",
+  "description": "Enterprise-grade dynamic MCP proxy that eliminates token bloat by lazy-loading tool schemas based on semantic intent, enabling efficient orchestration of multiple backend tools from a single endpoint.",
+  "source_repo": "david-spies/Bifrost-MCP-Gateway",
+  "source_url": "https://github.com/david-spies/Bifrost-MCP-Gateway",
+  "install": "# git clone --depth 1 https://github.com/david-spies/Bifrost-MCP-Gateway\n# See source for mcpServers config block"
+}

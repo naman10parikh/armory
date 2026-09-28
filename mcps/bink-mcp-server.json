@@ -1,0 +1,7 @@
+{
+  "name": "bink-mcp-server",
+  "description": "Enables AI agents to perform blockchain operations like wallet management, token info, DeFi swaps, cross-chain bridging, and price checking across Ethereum, BNB Chain, and Solana.",
+  "source_repo": "Bink-AI/bink-mcp-server",
+  "source_url": "https://github.com/Bink-AI/bink-mcp-server",
+  "install": "npx -y bink-mcp-server"
+}

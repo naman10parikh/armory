@@ -1,0 +1,7 @@
+{
+  "name": "shdc-appointment-mcp",
+  "description": "MCP server for managing appointments on the Shanghai SHDC site, handling captcha, SMS verification, patient data, and submission with user confirmation.",
+  "source_repo": "rirko/shdc-appointment-mcp",
+  "source_url": "https://github.com/rirko/shdc-appointment-mcp",
+  "install": "npx -y shdc-appointment-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "roadmap-skill",
+  "description": "Enables AI agents and humans to collaboratively plan and manage tasks with a shared kanban and dependency graph, all stored locally.",
+  "source_repo": "shiquda/roadmap-skill",
+  "source_url": "https://github.com/shiquda/roadmap-skill",
+  "install": "# git clone --depth 1 https://github.com/shiquda/roadmap-skill\n# See source for mcpServers config block"
+}

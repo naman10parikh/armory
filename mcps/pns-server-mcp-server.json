@@ -1,0 +1,7 @@
+{
+  "name": "pns-server-mcp-server",
+  "description": "Enables natural language conversion of production and queueing systems into Petri net models, with simulation and PNML export via MCP tools.",
+  "source_repo": "petri-net-sim/pns-server",
+  "source_url": "https://github.com/petri-net-sim/pns-server",
+  "install": "# git clone --depth 1 https://github.com/petri-net-sim/pns-server\n# See source for mcpServers config block"
+}

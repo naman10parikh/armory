@@ -1,0 +1,7 @@
+{
+  "name": "meong-care-mcp",
+  "description": "A pet care MCP server that helps record and analyze daily care, diet, and symptoms for dogs, offering food safety checks, risk classification, care recommendations, and vet visit summaries.",
+  "source_repo": "jiwon-5570/meong-care-mcp",
+  "source_url": "https://github.com/jiwon-5570/meong-care-mcp",
+  "install": "npx -y meong-care-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vlp-mcp-agent",
+  "description": "MCP server for automating VLP lab VM operations, exposing VM management tools to AI agents like Cursor and Claude Code.",
+  "source_repo": "ATE-Labs/vlp-mcp-agent",
+  "source_url": "https://github.com/ATE-Labs/vlp-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/ATE-Labs/vlp-mcp-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-project-template",
+  "description": "A universal, architecture-agnostic blueprint for building Model Context Protocol servers, providing a modular structure with components for domain logic, storage, security, export, ingestion, forensics, and MCP protocol.",
+  "source_repo": "th-an/mcp-project-template",
+  "source_url": "https://github.com/th-an/mcp-project-template",
+  "install": "# git clone --depth 1 https://github.com/th-an/mcp-project-template\n# See source for mcpServers config block"
+}

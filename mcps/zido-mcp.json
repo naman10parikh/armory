@@ -1,0 +1,7 @@
+{
+  "name": "zido-mcp",
+  "description": "Unified MCP server for place search and geocoding across Kakao, Naver, and Google Maps APIs with automatic provider fallback.",
+  "source_repo": "miyu4u/zido-mcp",
+  "source_url": "https://github.com/miyu4u/zido-mcp",
+  "install": "npx -y zido-mcp"
+}

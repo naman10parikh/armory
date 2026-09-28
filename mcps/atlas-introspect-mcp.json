@@ -1,0 +1,7 @@
+{
+  "name": "atlas-introspect-mcp",
+  "description": "Enables introspection and configuration of a running ATLAS instance, including browsing chat history, editing config/mcp.json, and managing workspaces and custom prompts.",
+  "source_repo": "garland3/atlas-introspect-mcp",
+  "source_url": "https://github.com/garland3/atlas-introspect-mcp",
+  "install": "npx -y atlas-introspect-mcp"
+}

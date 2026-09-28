@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fr-legal",
+  "description": "Provides offline access to the French legal corpus (Legifrance/DILA) with full-text search, verbatim article retrieval, and citation grounding to prevent hallucinations.",
+  "source_repo": "matematicsolutions/mcp-fr-legal",
+  "source_url": "https://github.com/matematicsolutions/mcp-fr-legal",
+  "install": "# git clone --depth 1 https://github.com/matematicsolutions/mcp-fr-legal\n# See source for mcpServers config block"
+}

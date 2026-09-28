@@ -1,0 +1,7 @@
+{
+  "name": "cortex-memory-mcp-server",
+  "description": "An AI-optimized knowledge management system that provides semantic search, memory storage, and intelligent deduplication through the Model Context Protocol (MCP).",
+  "source_repo": "rlaksana/cortex",
+  "source_url": "https://github.com/rlaksana/cortex",
+  "install": "# git clone --depth 1 https://github.com/rlaksana/cortex\n# See source for mcpServers config block"
+}

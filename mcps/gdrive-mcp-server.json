@@ -1,0 +1,7 @@
+{
+  "name": "gdrive-mcp-server",
+  "description": "Enables MCP-compatible AI assistants to interact with a user's Google Drive, including listing, searching, reading, creating, updating, and deleting files, with authentication via Google OAuth.",
+  "source_repo": "devinxiong97/gdrive-mcp-server",
+  "source_url": "https://github.com/devinxiong97/gdrive-mcp-server",
+  "install": "npx -y gdrive-mcp-server"
+}

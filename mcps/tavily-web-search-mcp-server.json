@@ -1,0 +1,7 @@
+{
+  "name": "tavily-web-search-mcp-server",
+  "description": "An experimental MCP server that provides web search capabilities using the Tavily API. Still in progress, not production-ready.",
+  "source_repo": "IamKavy47/mcpserver",
+  "source_url": "https://github.com/IamKavy47/mcpserver",
+  "install": "# git clone --depth 1 https://github.com/IamKavy47/mcpserver\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tokopedia-mcp",
+  "description": "MCP server for searching Tokopedia products, retrieving product details and reviews, designed for use from LLM clients like Claude Desktop.",
+  "source_repo": "Fauzanmhr/tokopedia-mcp",
+  "source_url": "https://github.com/Fauzanmhr/tokopedia-mcp",
+  "install": "npx -y tokopedia-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gmail-smtp-mcp-server",
+  "description": "Enables sending emails via Gmail using SMTP and app passwords without OAuth. It provides a custom authorization flow and encrypted credential storage for multi-user access.",
+  "source_repo": "chandhinii1510-coder/mcp-multiuser",
+  "source_url": "https://github.com/chandhinii1510-coder/mcp-multiuser",
+  "install": "# git clone --depth 1 https://github.com/chandhinii1510-coder/mcp-multiuser\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sit-caepi-mcp",
+  "description": "MCP server for querying official Brazilian labor inspection data (CAEPI) via a hosted, read-only API with prepaid credits.",
+  "source_repo": "mcp-dir/sit_caepi-mcp",
+  "source_url": "https://github.com/mcp-dir/sit_caepi-mcp",
+  "install": "npx -y sit_caepi-mcp"
+}

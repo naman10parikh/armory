@@ -1,0 +1,7 @@
+{
+  "name": "healthcovered-aca-mcp",
+  "description": "Enables AI assistants to check ACA subsidy eligibility, get enrollment dates, and provide HealthCovered contact information for free assistance.",
+  "source_repo": "hillsidecoastal-glitch/healthcovered-mcp",
+  "source_url": "https://github.com/hillsidecoastal-glitch/healthcovered-mcp",
+  "install": "npx -y healthcovered-mcp"
+}

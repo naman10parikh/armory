@@ -1,0 +1,7 @@
+{
+  "name": "lucent",
+  "description": "MCP server that enables AI signing agents to pre-flight transactions by checking ERC-7730 descriptor safety, explaining function semantics, and scanning contracts for danger primitives.",
+  "source_repo": "beepboop2025/lucent",
+  "source_url": "https://github.com/beepboop2025/lucent",
+  "install": "# git clone --depth 1 https://github.com/beepboop2025/lucent\n# See source for mcpServers config block"
+}

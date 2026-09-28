@@ -1,0 +1,7 @@
+{
+  "name": "nimbus-mcp-server",
+  "description": "Provides live user account lookup tools over HTTP for the Nimbus Furniture platform. Enables AI agents to retrieve customer account details by email or user ID via MCP.",
+  "source_repo": "23viv/nimbus_mcp",
+  "source_url": "https://github.com/23viv/nimbus_mcp",
+  "install": "npx -y nimbus_mcp"
+}

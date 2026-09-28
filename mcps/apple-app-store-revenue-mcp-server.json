@@ -1,0 +1,7 @@
+{
+  "name": "apple-app-store-revenue-mcp-server",
+  "description": "Fetches revenue and download data for Apple App Store apps using the Sensor Tower API.",
+  "source_repo": "evekeen/appstore-revenue-mcp",
+  "source_url": "https://github.com/evekeen/appstore-revenue-mcp",
+  "install": "npx -y appstore-revenue-mcp"
+}

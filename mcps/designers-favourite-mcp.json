@@ -1,0 +1,7 @@
+{
+  "name": "designers-favourite-mcp",
+  "description": "Lets AI assistants like Claude or ChatGPT operate Adobe apps (Illustrator, Photoshop, After Effects, Premiere Pro) through 12 professional workflows with built-in quality control, restore points, and human approval.",
+  "source_repo": "Gokul2/Designers-Favourite-MCP",
+  "source_url": "https://github.com/Gokul2/Designers-Favourite-MCP",
+  "install": "npx -y Designers-Favourite-MCP"
+}

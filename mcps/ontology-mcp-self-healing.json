@@ -1,0 +1,7 @@
+{
+  "name": "ontology-mcp-self-healing",
+  "description": "Self-healing MCP server that monitors database schema changes, detects differences, and automatically updates ontology mappings using AI to ensure agents continue working without manual intervention.",
+  "source_repo": "cloudbadal007/ontology-mcp-self-healing",
+  "source_url": "https://github.com/cloudbadal007/ontology-mcp-self-healing",
+  "install": "# git clone --depth 1 https://github.com/cloudbadal007/ontology-mcp-self-healing\n# See source for mcpServers config block"
+}

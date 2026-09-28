@@ -1,0 +1,7 @@
+{
+  "name": "vulnary-mcp",
+  "description": "MCP server for querying CVE and package vulnerability data from NVD and OSV.dev, allowing CVE lookups and dependency scanning.",
+  "source_repo": "Agam-S/Vulnary-MCP",
+  "source_url": "https://github.com/Agam-S/Vulnary-MCP",
+  "install": "npx -y Vulnary-MCP"
+}

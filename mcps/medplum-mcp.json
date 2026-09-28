@@ -1,0 +1,7 @@
+{
+  "name": "medplum-mcp",
+  "description": "Provides access to Medplum FHIR healthcare data, enabling Claude and other MCP clients to read, search, and query FHIR resources from one or more Medplum environments.",
+  "source_repo": "ncodeuy/medplum-mcp",
+  "source_url": "https://github.com/ncodeuy/medplum-mcp",
+  "install": "npx -y medplum-mcp"
+}

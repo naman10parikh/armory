@@ -1,0 +1,7 @@
+{
+  "name": "git-finder-mcp",
+  "description": "Enables natural language code search across multiple local Git repositories, allowing users to register projects, search for code, and explore file structures through Claude.",
+  "source_repo": "dudckd6744/git-finder-mcp",
+  "source_url": "https://github.com/dudckd6744/git-finder-mcp",
+  "install": "npx -y git-finder-mcp"
+}

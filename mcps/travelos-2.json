@@ -1,0 +1,7 @@
+{
+  "name": "travelos-2",
+  "description": "Enables searching TGV Max train journeys across multiple departure stations with scheduling constraints, and resolving SNCF station names, directly through natural language.",
+  "source_repo": "NicoLeblanc/andiamo",
+  "source_url": "https://github.com/NicoLeblanc/andiamo",
+  "install": "# git clone --depth 1 https://github.com/NicoLeblanc/andiamo\n# See source for mcpServers config block"
+}

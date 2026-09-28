@@ -1,0 +1,7 @@
+{
+  "name": "storedge-mcp",
+  "description": "MCP server for StorEdge self-storage management platform, enabling agents to manage tenants, units, leads, billing, insurance, tasks, and move-in/out pipelines via natural language.",
+  "source_repo": "sanjibani/storedge-mcp",
+  "source_url": "https://github.com/sanjibani/storedge-mcp",
+  "install": "npx -y storedge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "local-apple-mcp",
+  "description": "Enables Claude or any MCP client to read Apple Mail, Calendar, Photos, and create Apple Notes locally on macOS, without any data leaving the machine.",
+  "source_repo": "armyrunner9916/local-apple-mcp",
+  "source_url": "https://github.com/armyrunner9916/local-apple-mcp",
+  "install": "npx -y local-apple-mcp"
+}

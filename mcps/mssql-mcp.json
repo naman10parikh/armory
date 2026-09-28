@@ -1,6 +1,6 @@
 {
   "name": "mssql-mcp",
-  "description": "Mssql Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "daobataotie/mssql-mcp",
   "source_url": "https://mcp.so/server/mssql-mcp/daobataotie",
   "install": "npx -y mssql-mcp"

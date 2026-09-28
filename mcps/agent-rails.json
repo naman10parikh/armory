@@ -1,0 +1,7 @@
+{
+  "name": "agent-rails",
+  "description": "MCP server that enables AI agents to search and compare products and generate Amazon affiliate purchase links.",
+  "source_repo": "federicocelico/agent-rails",
+  "source_url": "https://github.com/federicocelico/agent-rails",
+  "install": "# git clone --depth 1 https://github.com/federicocelico/agent-rails\n# See source for mcpServers config block"
+}

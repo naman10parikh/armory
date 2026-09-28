@@ -1,0 +1,7 @@
+{
+  "name": "demostudio-mcp-server",
+  "description": "MCP server for DemoStudio — lets any MCP-compatible AI assistant generate short-form video ads directly from a conversation.",
+  "source_repo": "32bitsret/demostudio-mcp-server",
+  "source_url": "https://github.com/32bitsret/demostudio-mcp-server",
+  "install": "npx -y demostudio-mcp-server"
+}

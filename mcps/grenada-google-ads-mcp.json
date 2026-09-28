@@ -1,0 +1,7 @@
+{
+  "name": "grenada-google-ads-mcp",
+  "description": "Enables authorized users to securely connect to and manage their Google Ads accounts through MCP clients, with support for campaigns, ad groups, ads, keywords, reporting, and billing. Runs as a remote multi-user server on Cloudflare Workers with per-user authentication and safety controls.",
+  "source_repo": "Mostafa-Ghanem/google-ads-mcp",
+  "source_url": "https://github.com/Mostafa-Ghanem/google-ads-mcp",
+  "install": "npx -y google-ads-mcp"
+}

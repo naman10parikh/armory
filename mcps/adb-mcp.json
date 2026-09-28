@@ -1,0 +1,7 @@
+{
+  "name": "adb-mcp",
+  "description": "MCP server for controlling Android devices over ADB, using direct commands and semantic accessibility selectors with a Kotlin helper APK.",
+  "source_repo": "myNameArnav/adb-mcp",
+  "source_url": "https://github.com/myNameArnav/adb-mcp",
+  "install": "npx -y adb-mcp"
+}

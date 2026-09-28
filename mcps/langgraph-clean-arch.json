@@ -1,0 +1,7 @@
+{
+  "name": "langgraph-clean-arch",
+  "description": "MCP server implementing clean architecture with LangGraph for building and managing agent workflows.",
+  "source_repo": "FranciscoValadao/mcp-langgraph-clean-arch",
+  "source_url": "https://github.com/FranciscoValadao/mcp-langgraph-clean-arch",
+  "install": "# git clone --depth 1 https://github.com/FranciscoValadao/mcp-langgraph-clean-arch\n# See source for mcpServers config block"
+}

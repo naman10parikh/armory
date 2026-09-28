@@ -1,0 +1,7 @@
+{
+  "name": "sap-rfc-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides seamless integration with SAP systems through RFC (Remote Function Call) connections. This server enables AI assistants and applications to interact with SAP functions, retrieve metadata, and perform operations with enhanced caching and version com",
+  "source_repo": "thupalo/sap-rfc-mcp-server",
+  "source_url": "https://github.com/thupalo/sap-rfc-mcp-server",
+  "install": "npx -y sap-rfc-mcp-server"
+}

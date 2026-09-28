@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-rj-rio-de-janeiro-certid-o-negativa-de-d-bitos",
+  "description": "Enables users to search official Certidão Negativa de Débitos (negative debt certificates) from Rio de Janeiro's city government via a single read-only tool.",
+  "source_repo": "mcp-dir/pref_rj_rio_janeiro_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_rj_rio_janeiro_cnd-mcp",
+  "install": "npx -y pref_rj_rio_janeiro_cnd-mcp"
+}

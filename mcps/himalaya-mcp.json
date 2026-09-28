@@ -1,0 +1,7 @@
+{
+  "name": "himalaya-mcp",
+  "description": "Privacy-first email MCP server wrapping the himalaya CLI, providing 22 tools, 6 prompts, and 3 resources for email management with multi-account support.",
+  "source_repo": "Data-Wise/himalaya-mcp",
+  "source_url": "https://github.com/Data-Wise/himalaya-mcp",
+  "install": "npx -y himalaya-mcp"
+}

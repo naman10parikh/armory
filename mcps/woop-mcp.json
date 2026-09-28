@@ -1,0 +1,7 @@
+{
+  "name": "woop-mcp",
+  "description": "Connects Woop accounts via Open Finance Brasil to AI assistants for read-only access to balances, statements, credit card bills, and investments.",
+  "source_repo": "mcp-dir/woop-mcp",
+  "source_url": "https://github.com/mcp-dir/woop-mcp",
+  "install": "npx -y woop-mcp"
+}

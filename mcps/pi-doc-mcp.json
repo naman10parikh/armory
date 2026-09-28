@@ -1,0 +1,7 @@
+{
+  "name": "pi-doc-mcp",
+  "description": "A Model Context Protocol (MCP) server that gives AI assistants direct access to live AVEVA PI System documentation, eliminating hallucination on PI-specific topics.",
+  "source_repo": "nurnaufal321/aveva-pi-doc-mcp",
+  "source_url": "https://github.com/nurnaufal321/aveva-pi-doc-mcp",
+  "install": "npx -y aveva-pi-doc-mcp"
+}

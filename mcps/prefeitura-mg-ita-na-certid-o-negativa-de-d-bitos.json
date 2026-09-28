@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-mg-ita-na-certid-o-negativa-de-d-bitos",
+  "description": "Provides a read-only MCP tool to consult official negative debt certificates from the municipality of Itaúna, MG, Brazil, with hosted pay-per-use access.",
+  "source_repo": "mcp-dir/pref_mg_itauna_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_mg_itauna_cnd-mcp",
+  "install": "npx -y pref_mg_itauna_cnd-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "teamdynamix-mcp",
+  "description": "Enables AI agents to interact with TeamDynamix ITSM operations including tickets, assets, KB, and more through safety-gated tools.",
+  "source_repo": "selfagency/teamdynamix-mcp",
+  "source_url": "https://github.com/selfagency/teamdynamix-mcp",
+  "install": "npx -y teamdynamix-mcp"
+}

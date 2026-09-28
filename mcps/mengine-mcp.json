@@ -1,0 +1,7 @@
+{
+  "name": "mengine-mcp",
+  "description": "Enables AI agents to launch, inspect, control, debug, and hot-reload live Mengine game builds through Visual Studio Code or standard MCP clients.",
+  "source_repo": "irov/Mengine-MCP",
+  "source_url": "https://github.com/irov/Mengine-MCP",
+  "install": "npx -y Mengine-MCP"
+}

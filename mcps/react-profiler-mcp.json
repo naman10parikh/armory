@@ -1,0 +1,7 @@
+{
+  "name": "react-profiler-mcp",
+  "description": "Streams live React profiler data to AI agents, enabling them to analyze performance and suggest specific, actionable fixes for slow components.",
+  "source_repo": "UmarHassanKhan929/react-profiler-mcp",
+  "source_url": "https://github.com/UmarHassanKhan929/react-profiler-mcp",
+  "install": "npx -y react-profiler-mcp"
+}

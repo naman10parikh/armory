@@ -1,0 +1,7 @@
+{
+  "name": "lats-mcp-server",
+  "description": "Enables systematic code investigation using Monte Carlo Tree Search to explore codebases, analyze files, and provide intelligent insights. It features persistent memory and pattern learning for improved investigations.",
+  "source_repo": "slapglif/LATSAgentMCP",
+  "source_url": "https://github.com/slapglif/LATSAgentMCP",
+  "install": "# git clone --depth 1 https://github.com/slapglif/LATSAgentMCP\n# See source for mcpServers config block"
+}

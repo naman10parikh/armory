@@ -1,0 +1,7 @@
+{
+  "name": "tutor-lesson-script-transcript-retrieval-mcp",
+  "description": "Enables retrieval of tutor lesson scripts from Supabase and diarized transcripts from PencilSpaces, with Google OAuth gating to a domain.",
+  "source_repo": "snyderandrew35/tutor-eval-mcp",
+  "source_url": "https://github.com/snyderandrew35/tutor-eval-mcp",
+  "install": "npx -y tutor-eval-mcp"
+}

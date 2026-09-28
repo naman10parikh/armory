@@ -1,0 +1,7 @@
+{
+  "name": "maple-auction-mcp",
+  "description": "Enables natural language search of the MapleStory auction house through Claude, using the browser's login session securely.",
+  "source_repo": "oyc0401/maple-auction-mcp",
+  "source_url": "https://github.com/oyc0401/maple-auction-mcp",
+  "install": "npx -y maple-auction-mcp"
+}

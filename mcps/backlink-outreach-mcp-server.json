@@ -1,0 +1,7 @@
+{
+  "name": "backlink-outreach-mcp-server",
+  "description": "Automates backlink discovery and outreach for calcolatorigratis.com using Google CSE, Hunter.io, Open PageRank, and other APIs, enabling prospect search, email finding, and campaign management.",
+  "source_repo": "Raffaele86/backlink-mcp",
+  "source_url": "https://github.com/Raffaele86/backlink-mcp",
+  "install": "npx -y backlink-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tts-mcp-server",
+  "description": "Text-to-speech MCP server using Microsoft Edge TTS, supporting multiple voices and async processing.",
+  "source_repo": "ayyandurai111/tts-mcp-server",
+  "source_url": "https://github.com/ayyandurai111/tts-mcp-server",
+  "install": "npx -y tts-mcp-server"
+}

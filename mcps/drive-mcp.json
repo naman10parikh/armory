@@ -1,0 +1,7 @@
+{
+  "name": "drive-mcp",
+  "description": "MCP server enabling file operations (list, search, read, rename, move) on Google Drive and OneDrive.",
+  "source_repo": "henrysouchien/drive-mcp",
+  "source_url": "https://github.com/henrysouchien/drive-mcp",
+  "install": "npx -y drive-mcp"
+}

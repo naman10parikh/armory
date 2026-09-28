@@ -1,0 +1,7 @@
+{
+  "name": "hidratespark-mcp-server",
+  "description": "Enables tracking hydration, analyzing water intake patterns, and managing HidrateSpark smart water bottle data through Claude Desktop.",
+  "source_repo": "mariomosca/hidratespark-mcp",
+  "source_url": "https://github.com/mariomosca/hidratespark-mcp",
+  "install": "npx -y hidratespark-mcp"
+}

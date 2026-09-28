@@ -1,0 +1,7 @@
+{
+  "name": "arxivsub-mcp",
+  "description": "Enables searching arXiv and top AI conferences, finding related papers, generating research insights, and managing a personal library via MCP tools.",
+  "source_repo": "arxivsub/arxivsub-mcp",
+  "source_url": "https://github.com/arxivsub/arxivsub-mcp",
+  "install": "npx -y arxivsub-mcp"
+}

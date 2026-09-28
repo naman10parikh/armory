@@ -1,0 +1,7 @@
+{
+  "name": "sap-btp-mcp-server",
+  "description": "Enables conversational management of SAP BTP cloud infrastructure, security, and entitlements through natural language via AI agents.",
+  "source_repo": "kallolchakraborty/btp-mcp-server",
+  "source_url": "https://github.com/kallolchakraborty/btp-mcp-server",
+  "install": "npx -y btp-mcp-server"
+}

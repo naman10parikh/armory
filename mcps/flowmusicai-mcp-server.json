@@ -1,0 +1,7 @@
+{
+  "name": "flowmusicai-mcp-server",
+  "description": "Provides AI clients with access to FlowMusicAI's pricing, documentation, and FAQ, enabling them to answer questions about the AI music generator.",
+  "source_repo": "rocnubie/flowmusicai-mcp",
+  "source_url": "https://github.com/rocnubie/flowmusicai-mcp",
+  "install": "npx -y flowmusicai-mcp"
+}

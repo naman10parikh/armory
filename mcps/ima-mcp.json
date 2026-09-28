@@ -1,0 +1,7 @@
+{
+  "name": "ima-mcp",
+  "description": "MCP server for Tencent IMA OpenAPI, enabling notes and knowledge base management through tools like search, create, and list.",
+  "source_repo": "amberpepper/ima-mcp",
+  "source_url": "https://github.com/amberpepper/ima-mcp",
+  "install": "npx -y ima-mcp"
+}

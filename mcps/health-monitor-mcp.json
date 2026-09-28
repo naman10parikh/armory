@@ -1,0 +1,7 @@
+{
+  "name": "health-monitor-mcp",
+  "description": "MCP server for monitoring health of MCP servers, GitHub Actions, GitLab pipelines, and HTTP endpoints with health history, TLS expiry, assertions, diagnostics, and alerts.",
+  "source_repo": "oaslananka/health-monitor-mcp",
+  "source_url": "https://github.com/oaslananka/health-monitor-mcp",
+  "install": "npx -y health-monitor-mcp"
+}

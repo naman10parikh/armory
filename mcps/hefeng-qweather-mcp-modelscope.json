@@ -1,0 +1,7 @@
+{
+  "name": "hefeng-qweather-mcp-modelscope",
+  "description": "Adapts the HeFeng QWeather MCP server for ModelScope cloud hosting, allowing weather queries through stdio or HTTP with a default stdio entry.",
+  "source_repo": "fengyucn/hefeng-qweather-mcp-modelscope",
+  "source_url": "https://github.com/fengyucn/hefeng-qweather-mcp-modelscope",
+  "install": "# git clone --depth 1 https://github.com/fengyucn/hefeng-qweather-mcp-modelscope\n# See source for mcpServers config block"
+}

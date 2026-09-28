@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-mcp-server-template",
+  "description": "A production-ready, transport-independent foundation for building enterprise MCP servers in Python. Provides infrastructure, configuration, DI, logging, and tooling so downstream projects can focus on domain capabilities.",
+  "source_repo": "ranjithkumars-lab/browser-mcp",
+  "source_url": "https://github.com/ranjithkumars-lab/browser-mcp",
+  "install": "npx -y browser-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mem0-agent-memory",
+  "description": "An MCP server that provides persistent memory capabilities for AI agents using Mem0, enabling storage, search, and management of contextual information across conversations with support for multiple backends and LLM providers.",
+  "source_repo": "arunkumars-mf/mem0-agent-memory",
+  "source_url": "https://github.com/arunkumars-mf/mem0-agent-memory",
+  "install": "# git clone --depth 1 https://github.com/arunkumars-mf/mem0-agent-memory\n# See source for mcpServers config block"
+}

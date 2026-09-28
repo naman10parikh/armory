@@ -1,0 +1,7 @@
+{
+  "name": "slack-fast-mcp",
+  "description": "A Slack MCP server that gives AI assistants tools to read, search, and interact with Slack workspaces.",
+  "source_repo": "jeffmm/slack-fast-mcp",
+  "source_url": "https://github.com/jeffmm/slack-fast-mcp",
+  "install": "npx -y slack-fast-mcp"
+}

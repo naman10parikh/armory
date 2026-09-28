@@ -1,0 +1,7 @@
+{
+  "name": "three-js-mcp-triangle",
+  "description": "Enables controlling a Three.js triangle rendered in the browser through MCP tools, allowing color changes and transforms (position, rotation, scale) with live updates via WebSocket.",
+  "source_repo": "MithunTagde/Three.js-MCP",
+  "source_url": "https://github.com/MithunTagde/Three.js-MCP",
+  "install": "npx -y Three.js-MCP"
+}

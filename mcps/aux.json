@@ -1,0 +1,7 @@
+{
+  "name": "aux",
+  "description": "An MCP server that turns your AI into a Spotify DJ, enabling mood-based playback, auto-DJ, party rooms, and playlist roasting.",
+  "source_repo": "brian-mwirigi/aux-mcp",
+  "source_url": "https://github.com/brian-mwirigi/aux-mcp",
+  "install": "npx -y aux-mcp"
+}

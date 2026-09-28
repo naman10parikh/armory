@@ -1,0 +1,7 @@
+{
+  "name": "play-console-mcp",
+  "description": "Enables AI agents to manage Google Play Console reviews and Android app releases, including replying to reviews, promoting releases, managing staged rollouts, and checking crash/ANR vitals.",
+  "source_repo": "OrellBuehler/play-console-mcp",
+  "source_url": "https://github.com/OrellBuehler/play-console-mcp",
+  "install": "npx -y play-console-mcp"
+}

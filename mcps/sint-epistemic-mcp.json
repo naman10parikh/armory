@@ -1,0 +1,7 @@
+{
+  "name": "sint-epistemic-mcp",
+  "description": "Tracks what an agent KNOWS vs INFERS vs ASSUMES with calibrated confidence. Provides tools to register, query, and analyze epistemic status of claims across domains.",
+  "source_repo": "kostyk348/sint-epistemic-mcp",
+  "source_url": "https://github.com/kostyk348/sint-epistemic-mcp",
+  "install": "npx -y sint-epistemic-mcp"
+}

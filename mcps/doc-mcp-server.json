@@ -1,0 +1,7 @@
+{
+  "name": "doc-mcp-server",
+  "description": "Enables AI to efficiently analyze and extract structured data from complex documents, especially Excel files, by providing tools like section reading and field mapping to reduce token usage and improve success rates.",
+  "source_repo": "jiahuidegit/doc-mcp-server",
+  "source_url": "https://github.com/jiahuidegit/doc-mcp-server",
+  "install": "npx -y doc-mcp-server"
+}

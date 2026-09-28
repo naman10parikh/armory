@@ -1,0 +1,7 @@
+{
+  "name": "onemap8-mcp",
+  "description": "MCP server that exposes OneMap8 fleet tracking to AI clients, enabling natural-language queries about devices, positions, reports, geofences, drivers, and more. Includes 32 tools, permission scoping, and safety guardrails.",
+  "source_repo": "evallgar/onemap8-mcp",
+  "source_url": "https://github.com/evallgar/onemap8-mcp",
+  "install": "npx -y onemap8-mcp"
+}

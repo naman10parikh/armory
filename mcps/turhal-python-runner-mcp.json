@@ -1,0 +1,7 @@
+{
+  "name": "turhal-python-runner-mcp",
+  "description": "Executes Python code in isolated subprocesses with resource limits and timeout, designed for safe execution in Docker containers.",
+  "source_repo": "berkayturhal38-cloud/turhal-python-runner-mcp",
+  "source_url": "https://github.com/berkayturhal38-cloud/turhal-python-runner-mcp",
+  "install": "npx -y turhal-python-runner-mcp"
+}

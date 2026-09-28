@@ -1,0 +1,7 @@
+{
+  "name": "paperplane-mcp",
+  "description": "MCP connector for Paperplane that lets AI tools page you on your phone with event notifications, blocking questions, alert management, replies, and follow-up ticket filing using a single long-lived token.",
+  "source_repo": "ParikshithV/Paperplane-MCP",
+  "source_url": "https://github.com/ParikshithV/Paperplane-MCP",
+  "install": "npx -y Paperplane-MCP"
+}

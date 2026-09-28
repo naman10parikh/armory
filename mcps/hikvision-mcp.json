@@ -1,0 +1,7 @@
+{
+  "name": "hikvision-mcp",
+  "description": "Enables safely inspecting and configuring Hikvision cameras via a local MCP server, with permission enforcement, read-only diagnostics, and supervised mutation flows.",
+  "source_repo": "cormac-rynne/hikvision-mcp",
+  "source_url": "https://github.com/cormac-rynne/hikvision-mcp",
+  "install": "npx -y hikvision-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "olivetin-mcp",
+  "description": "A hardened MCP server that exposes OliveTin actions as tools with built-in human-in-the-loop approval for destructive operations.",
+  "source_repo": "vaddisrinivas/olivetin-mcp",
+  "source_url": "https://github.com/vaddisrinivas/olivetin-mcp",
+  "install": "npx -y olivetin-mcp"
+}

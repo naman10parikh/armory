@@ -1,0 +1,7 @@
+{
+  "name": "apple-log-mcp",
+  "description": "Local MCP server for Apple platform console, unified, and diagnostic logs. Enables listing devices and capturing live logs from simulators and real devices.",
+  "source_repo": "BBC6BAE9/apple-log-mcp",
+  "source_url": "https://github.com/BBC6BAE9/apple-log-mcp",
+  "install": "npx -y apple-log-mcp"
+}

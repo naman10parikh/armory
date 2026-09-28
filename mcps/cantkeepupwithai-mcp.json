@@ -1,0 +1,7 @@
+{
+  "name": "cantkeepupwithai-mcp",
+  "description": "MCP server exposing AI trends, daily digests, toolbox search, and pipeline stats from cantkeepupwithai.com to MCP clients like Claude Desktop.",
+  "source_repo": "santapau10/cantkeepupwithai-mcp",
+  "source_url": "https://github.com/santapau10/cantkeepupwithai-mcp",
+  "install": "npx -y cantkeepupwithai-mcp"
+}

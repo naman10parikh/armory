@@ -1,0 +1,7 @@
+{
+  "name": "cst-studio-orchestrator-mcp",
+  "description": "Enables AI agents to control CST Studio Suite for 3D electromagnetic simulation, antenna design, and schematic-based field-circuit co-simulation through 177 MCP tools.",
+  "source_repo": "guardianer9-debug/cst-studio-orchestrator-mcp",
+  "source_url": "https://github.com/guardianer9-debug/cst-studio-orchestrator-mcp",
+  "install": "npx -y cst-studio-orchestrator-mcp"
+}

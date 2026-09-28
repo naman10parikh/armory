@@ -1,0 +1,7 @@
+{
+  "name": "pdf-report-generator-mcp",
+  "description": "Generates professional PDF reports with live Power BI dashboards, charts, and insights from plain-text prompts containing CSV data.",
+  "source_repo": "yestharanthony-png/pdf-report-powerbi-mcp",
+  "source_url": "https://github.com/yestharanthony-png/pdf-report-powerbi-mcp",
+  "install": "npx -y pdf-report-powerbi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-flowise",
+  "description": "Exposes local Flowise chatflows as MCP tools, enabling listing and running chatflows from any MCP client.",
+  "source_repo": "EnmaSuamkf/mcp-flowise",
+  "source_url": "https://github.com/EnmaSuamkf/mcp-flowise",
+  "install": "# git clone --depth 1 https://github.com/EnmaSuamkf/mcp-flowise\n# See source for mcpServers config block"
+}

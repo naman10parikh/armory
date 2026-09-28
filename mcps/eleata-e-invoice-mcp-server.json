@@ -1,0 +1,7 @@
+{
+  "name": "eleata-e-invoice-mcp-server",
+  "description": "Validates EU electronic invoices (Peppol, XRechnung, FatturaPA, etc.) and explains validation error codes, enabling AI coding agents to check invoice validity and get fixes before rejection.",
+  "source_repo": "hernaninverso/eleata-einvoice-mcp",
+  "source_url": "https://github.com/hernaninverso/eleata-einvoice-mcp",
+  "install": "npx -y eleata-einvoice-mcp"
+}

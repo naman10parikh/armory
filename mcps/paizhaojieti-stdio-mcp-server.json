@@ -1,0 +1,7 @@
+{
+  "name": "paizhaojieti-stdio-mcp-server",
+  "description": "Enables solving math, physics, chemistry and other subject problems from images using the Zhipu AI photo-solving agent via STDIO protocol.",
+  "source_repo": "La0bALanG/paizhaojieti_stdio_mcp",
+  "source_url": "https://github.com/La0bALanG/paizhaojieti_stdio_mcp",
+  "install": "npx -y paizhaojieti_stdio_mcp"
+}

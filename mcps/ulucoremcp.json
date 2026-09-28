@@ -1,0 +1,7 @@
+{
+  "name": "ulucoremcp",
+  "description": "Low-level blockchain interface MCP server for Algorand and Voi networks, providing account/asset/app inspection, transaction search, block retrieval, TEAL compilation, and transaction simulation.",
+  "source_repo": "NautilusOSS/UluCoreMCP",
+  "source_url": "https://github.com/NautilusOSS/UluCoreMCP",
+  "install": "# git clone --depth 1 https://github.com/NautilusOSS/UluCoreMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-mt-rondon-polis-certid-o-negativa-de-d-bitos",
+  "description": "Read-only MCP server for consulting municipal tax clearance certificates (Certidão Negativa de Débitos) for Rondonópolis, MT, Brazil. It exposes a single tool that queries official sources via a hosted platform, with pay-per-query credits and no need for platform credentials.",
+  "source_repo": "mcp-dir/pref_mt_rondonopolis_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_mt_rondonopolis_cnd-mcp",
+  "install": "npx -y pref_mt_rondonopolis_cnd-mcp"
+}

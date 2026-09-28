@@ -1,0 +1,7 @@
+{
+  "name": "the-events-calendar-mcp-server",
+  "description": "Enables AI assistants to manage events, venues, organizers, and tickets on WordPress sites via CRUD operations.",
+  "source_repo": "the-events-calendar/mcp-server",
+  "source_url": "https://github.com/the-events-calendar/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/the-events-calendar/mcp-server\n# See source for mcpServers config block"
+}

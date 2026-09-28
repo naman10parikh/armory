@@ -1,0 +1,7 @@
+{
+  "name": "maps-scrapper",
+  "description": "Enables AI assistants to search and scrape Google Maps places data (name, rating, address, etc.) directly without an API key.",
+  "source_repo": "rahul-bhatt43/maps-scrapper",
+  "source_url": "https://github.com/rahul-bhatt43/maps-scrapper",
+  "install": "# git clone --depth 1 https://github.com/rahul-bhatt43/maps-scrapper\n# See source for mcpServers config block"
+}

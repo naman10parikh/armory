@@ -1,0 +1,7 @@
+{
+  "name": "hades-backend-plugin-mcp",
+  "description": "Exposes workspace-scoped Backend project queries via MCP, enabling explicit token pairing, status checks, and scoped sync of project docs, source artifacts, graph data, and evidence metadata without background synchronization.",
+  "source_repo": "titagram/hades-backend-plugin",
+  "source_url": "https://github.com/titagram/hades-backend-plugin",
+  "install": "# git clone --depth 1 https://github.com/titagram/hades-backend-plugin\n# See source for mcpServers config block"
+}

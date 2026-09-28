@@ -1,0 +1,7 @@
+{
+  "name": "librascript-mcp",
+  "description": "Enables AI assistants to translate Portuguese text into LIBRAS glosses and scripts using VLibras official APIs, supporting content auditing, validation, and batch translation.",
+  "source_repo": "fabricioartur/librascript-mcp",
+  "source_url": "https://github.com/fabricioartur/librascript-mcp",
+  "install": "npx -y librascript-mcp"
+}

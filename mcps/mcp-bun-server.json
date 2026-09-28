@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bun-server",
+  "description": "Provides AI assistants with powerful tools to execute, optimize, and manage JavaScript/TypeScript projects using the Bun runtime.",
+  "source_repo": "carlosedp/mcp-bun",
+  "source_url": "https://github.com/carlosedp/mcp-bun",
+  "install": "# git clone --depth 1 https://github.com/carlosedp/mcp-bun\n# See source for mcpServers config block"
+}

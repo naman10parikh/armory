@@ -1,0 +1,7 @@
+{
+  "name": "hist-rico-veicular-sp",
+  "description": "MCP server that allows querying vehicle history linked to a CPF or CNPJ in São Paulo state, Brazil. It offers a single read-only tool for retrieving vehicle records, with prepaid pay-per-use credits.",
+  "source_repo": "mcp-dir/veiculo_historico_sp-mcp",
+  "source_url": "https://github.com/mcp-dir/veiculo_historico_sp-mcp",
+  "install": "npx -y veiculo_historico_sp-mcp"
+}

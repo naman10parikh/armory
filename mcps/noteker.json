@@ -1,0 +1,7 @@
+{
+  "name": "noteker",
+  "description": "Converts handwritten PDF notes into clean Markdown using Claude Vision, with tools for PDF processing and status checks.",
+  "source_repo": "andras-tkcs/noteker",
+  "source_url": "https://github.com/andras-tkcs/noteker",
+  "install": "# git clone --depth 1 https://github.com/andras-tkcs/noteker\n# See source for mcpServers config block"
+}

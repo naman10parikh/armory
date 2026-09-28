@@ -1,0 +1,7 @@
+{
+  "name": "stepskit-mcp",
+  "description": "The StepsKit MCP server enables AI coding agents to install StepsKit and author in-app guidance such as product tours, tooltips, surveys, and announcements directly from the codebase.",
+  "source_repo": "nikitabobers/stepskit-mcp",
+  "source_url": "https://github.com/nikitabobers/stepskit-mcp",
+  "install": "npx -y stepskit-mcp"
+}

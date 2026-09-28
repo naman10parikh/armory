@@ -1,0 +1,7 @@
+{
+  "name": "deeprecall-mcp",
+  "description": "Search 120,000+ recalled products from CPSC, FDA, EU Safety Gate, and other global agencies via MCP. Enables AI agents to check product safety by text or image.",
+  "source_repo": "DeepRecall-io/deeprecall-mcp",
+  "source_url": "https://github.com/DeepRecall-io/deeprecall-mcp",
+  "install": "npx -y deeprecall-mcp"
+}

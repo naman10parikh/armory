@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-sweden-payments-mcp",
+  "description": "Lets any AI agent accept payments in Sweden via Stripe hosted checkout. Supports cards, Klarna, Apple Pay, and Google Pay through a stateless translation layer.",
+  "source_repo": "junter1989k-ai/sweden-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/sweden-payments-mcp",
+  "install": "npx -y sweden-payments-mcp"
+}

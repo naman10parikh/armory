@@ -1,0 +1,7 @@
+{
+  "name": "wiki-plugin-table",
+  "description": "Enables interaction with table data in a Federated Wiki, supporting CSV, TSV, JSON, and markdown pipe tables, with CRUD operations via REST and MCP tools.",
+  "source_repo": "Hitchhikers-Guide-to-the-Galaxy/wiki-plugin-table",
+  "source_url": "https://github.com/Hitchhikers-Guide-to-the-Galaxy/wiki-plugin-table",
+  "install": "# git clone --depth 1 https://github.com/Hitchhikers-Guide-to-the-Galaxy/wiki-plugin-table\n# See source for mcpServers config block"
+}

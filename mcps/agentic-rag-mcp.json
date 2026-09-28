@@ -1,0 +1,7 @@
+{
+  "name": "agentic-rag-mcp",
+  "description": "A multi-agent Retrieval-Augmented Generation system exposed as an MCP server. Ask a question and a LangGraph pipeline plans the retrieval, pulls evidence from a pgvector knowledge base, optionally augments it with live web research, drafts a cited answer, and then self-critiques it for grounding — r",
+  "source_repo": "enached134-ctrl/agentic-rag-mcp",
+  "source_url": "https://github.com/enached134-ctrl/agentic-rag-mcp",
+  "install": "npx -y agentic-rag-mcp"
+}

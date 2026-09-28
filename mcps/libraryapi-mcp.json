@@ -1,0 +1,7 @@
+{
+  "name": "libraryapi-mcp",
+  "description": "Enables AI agents to access US public library data from the federal IMLS Public Libraries Survey, including proximity searches, library system profiles, and statewide statistics.",
+  "source_repo": "library-api/libraryapi-mcp",
+  "source_url": "https://github.com/library-api/libraryapi-mcp",
+  "install": "npx -y libraryapi-mcp"
+}

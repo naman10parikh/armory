@@ -1,0 +1,7 @@
+{
+  "name": "vision-toolkit",
+  "description": "Provides multimodal vision MCP tools for image analysis, OCR, object detection, text-to-image generation, and image similarity, integrating OpenAI, Qwen, and Gemini.",
+  "source_repo": "leiming2333/Vision-Toolkit",
+  "source_url": "https://github.com/leiming2333/Vision-Toolkit",
+  "install": "# git clone --depth 1 https://github.com/leiming2333/Vision-Toolkit\n# See source for mcpServers config block"
+}

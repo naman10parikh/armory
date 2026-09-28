@@ -1,0 +1,7 @@
+{
+  "name": "stb-mcp-server",
+  "description": "MCP server for full control of STB (Amlogic S9xx / Armbian) via SSH, enabling shell commands, file management, Docker operations, AdGuard Home configuration, and system monitoring.",
+  "source_repo": "lightnet19/stb-mcp-server",
+  "source_url": "https://github.com/lightnet19/stb-mcp-server",
+  "install": "npx -y stb-mcp-server"
+}

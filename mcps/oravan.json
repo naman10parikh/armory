@@ -1,0 +1,7 @@
+{
+  "name": "oravan",
+  "description": "Remote MCP server for nonpartisan U.S. Congress data: plain-language bill decodes (bilingual EN/ES), representative lookup by ZIP with district-office phones, and what's-moving urgency ranking. Read-only, keyless.",
+  "source_repo": "cm2489/oravan",
+  "source_url": "https://github.com/cm2489/oravan",
+  "install": "# git clone --depth 1 https://github.com/cm2489/oravan\n# See source for mcpServers config block"
+}

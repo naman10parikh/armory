@@ -1,0 +1,7 @@
+{
+  "name": "grok-chrome-bridge",
+  "description": "Enables Grok Build to attach to the user's active Chrome profile via MCP, leveraging the profile's tabs, cookies, and logins instead of launching an isolated browser.",
+  "source_repo": "davidsolheim/grok-chrome-bridge",
+  "source_url": "https://github.com/davidsolheim/grok-chrome-bridge",
+  "install": "# git clone --depth 1 https://github.com/davidsolheim/grok-chrome-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reflect-memory",
+  "description": "Privacy-first AI memory system with MCP server for managing user-authored memories, enabling AI agents to read/write memories with fine-grained vendor access control.",
+  "source_repo": "van-reflect/Reflect-Memory",
+  "source_url": "https://github.com/van-reflect/Reflect-Memory",
+  "install": "# git clone --depth 1 https://github.com/van-reflect/Reflect-Memory\n# See source for mcpServers config block"
+}

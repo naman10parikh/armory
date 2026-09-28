@@ -1,0 +1,7 @@
+{
+  "name": "mihomo-mcp",
+  "description": "Bridges the mihomo (Clash Meta) RESTful API to the Model Context Protocol, enabling AI clients to switch proxies, test latency, refresh subscriptions, set operating modes, and monitor connections.",
+  "source_repo": "Aris-qin/mihomo-mcp",
+  "source_url": "https://github.com/Aris-qin/mihomo-mcp",
+  "install": "npx -y mihomo-mcp"
+}

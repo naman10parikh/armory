@@ -1,0 +1,7 @@
+{
+  "name": "simplesat-mcp",
+  "description": "MCP server for Simplesat, enabling search of CSAT/NPS survey answers via the Simplesat V1 API. Provides a single tool to query customer feedback with optional filters like date range and filter criteria.",
+  "source_repo": "MSPbotsAI/simplesat-mcp",
+  "source_url": "https://github.com/MSPbotsAI/simplesat-mcp",
+  "install": "npx -y simplesat-mcp"
+}

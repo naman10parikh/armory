@@ -1,0 +1,7 @@
+{
+  "name": "base-batch-send-mcp",
+  "description": "Enables AI agents to batch-send ETH or ERC-20 tokens to multiple recipients in one transaction on Base, drastically reducing gas costs.",
+  "source_repo": "lordbasilaiassistant-sudo/base-batch-send-mcp",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/base-batch-send-mcp",
+  "install": "npx -y base-batch-send-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "manoj-mcp",
+  "description": "A personal MCP server that enables Claude to interact with Jira, Confluence, Gmail, Google Drive, and Slack via natural language from any device.",
+  "source_repo": "nfs-mym/manoj-mcp",
+  "source_url": "https://github.com/nfs-mym/manoj-mcp",
+  "install": "npx -y manoj-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "elysia-mcp-server",
+  "description": "Enables creating high-performance MCP servers using Bun and Elysia, exposing resources, tools, and prompts to LLMs via SSE transport.",
+  "source_repo": "keithagroves/Elysia-mcp",
+  "source_url": "https://github.com/keithagroves/Elysia-mcp",
+  "install": "npx -y Elysia-mcp"
+}

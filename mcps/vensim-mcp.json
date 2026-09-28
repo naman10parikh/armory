@@ -1,0 +1,7 @@
+{
+  "name": "vensim-mcp",
+  "description": "Converts structured system dynamics specifications into Vensim .mdl files with layout, SVG preview, static audit, and native Vensim integration. It can be used as an MCP server or from the command line.",
+  "source_repo": "Cybing521/vensim-mcp",
+  "source_url": "https://github.com/Cybing521/vensim-mcp",
+  "install": "npx -y vensim-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "afya-mcp",
+  "description": "MCP server for Kenya health system — NHIF/SHA coverage, facility finder, community health workers, maternal health guidance, essential medicines.",
+  "source_repo": "gabrielmahia/afya-mcp",
+  "source_url": "https://github.com/gabrielmahia/afya-mcp",
+  "install": "npx -y afya-mcp"
+}

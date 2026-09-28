@@ -1,0 +1,7 @@
+{
+  "name": "proactiveagent",
+  "description": "Provides shared long-term memory and proactive suggestions across AI coding agents, enabling persistent user preferences and behavior rules that are remembered and applied across different tools. Includes memory capture, recall, extraction, and suggestion tools with a local-first and privacy-focused",
+  "source_repo": "ConradLu2740/ProactiveAgent",
+  "source_url": "https://github.com/ConradLu2740/ProactiveAgent",
+  "install": "# git clone --depth 1 https://github.com/ConradLu2740/ProactiveAgent\n# See source for mcpServers config block"
+}

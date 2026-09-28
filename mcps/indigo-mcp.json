@@ -1,0 +1,7 @@
+{
+  "name": "indigo-mcp",
+  "description": "MCP server for the INDIGO astronomy automation protocol, enabling AI agents to control telescopes, cameras, focusers, filter wheels, domes, and other observatory equipment through natural language.",
+  "source_repo": "Richard-Ni/indigo-mcp",
+  "source_url": "https://github.com/Richard-Ni/indigo-mcp",
+  "install": "npx -y indigo-mcp"
+}

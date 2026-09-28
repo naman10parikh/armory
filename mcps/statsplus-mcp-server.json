@@ -1,0 +1,7 @@
+{
+  "name": "statsplus-mcp-server",
+  "description": "Exposes the StatsPlus API as tools for MCP-compatible clients, enabling users to query player/team statistics, contracts, ratings, and game history via natural language.",
+  "source_repo": "joshuarichard/StatsPlus-MCP",
+  "source_url": "https://github.com/joshuarichard/StatsPlus-MCP",
+  "install": "npx -y StatsPlus-MCP"
+}

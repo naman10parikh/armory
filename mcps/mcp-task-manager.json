@@ -1,0 +1,7 @@
+{
+  "name": "mcp-task-manager",
+  "description": "MCP server that wraps a personal task manager REST API, enabling Claude to read and manage tasks via tools like get_tasks and add_task.",
+  "source_repo": "zsomtor/mcp-task-manager",
+  "source_url": "https://github.com/zsomtor/mcp-task-manager",
+  "install": "# git clone --depth 1 https://github.com/zsomtor/mcp-task-manager\n# See source for mcpServers config block"
+}

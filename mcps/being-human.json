@@ -1,0 +1,7 @@
+{
+  "name": "being-human",
+  "description": "MCP server that analyzes your writing style to generate personal voice rules, scores drafts for AI slop, and verifies authorship, enabling LLMs to write in your specific voice.",
+  "source_repo": "Syedomershah99/being-human",
+  "source_url": "https://github.com/Syedomershah99/being-human",
+  "install": "# git clone --depth 1 https://github.com/Syedomershah99/being-human\n# See source for mcpServers config block"
+}

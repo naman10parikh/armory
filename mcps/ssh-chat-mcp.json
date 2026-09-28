@@ -1,0 +1,7 @@
+{
+  "name": "ssh-chat-mcp",
+  "description": "Zero-config SSH/SFTP MCP server that lets an LLM client open temporary SSH/SFTP sessions to remote hosts, run commands, and upload/download files without holding any pre-baked credentials.",
+  "source_repo": "aiplatforms-ru/ssh-chat-mcp",
+  "source_url": "https://github.com/aiplatforms-ru/ssh-chat-mcp",
+  "install": "npx -y ssh-chat-mcp"
+}

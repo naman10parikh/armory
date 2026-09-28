@@ -1,0 +1,7 @@
+{
+  "name": "pdf-image-extractor-mcp",
+  "description": "Extracts images from PDF files, allowing LLMs to access and analyze embedded images from local PDF documents.",
+  "source_repo": "maxrabin/pdf-image-mcp",
+  "source_url": "https://github.com/maxrabin/pdf-image-mcp",
+  "install": "npx -y pdf-image-mcp"
+}

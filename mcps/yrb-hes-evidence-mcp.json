@@ -1,0 +1,7 @@
+{
+  "name": "yrb-hes-evidence-mcp",
+  "description": "A read-only MCP server for evidence retrieval in Yellow River Basin human–earth systems reviews, exposing PostgreSQL-backed tools for searching and comparing evidence, entities, and spatiotemporal data while preserving source provenance.",
+  "source_repo": "TIGERwu0118/yrb_hes_mcp",
+  "source_url": "https://github.com/TIGERwu0118/yrb_hes_mcp",
+  "install": "npx -y yrb_hes_mcp"
+}

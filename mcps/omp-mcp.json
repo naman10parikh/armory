@@ -1,0 +1,7 @@
+{
+  "name": "omp-mcp",
+  "description": "Wraps Oh My Pi built-in tools (read, write, edit, bash, grep, etc.) as MCP tools, enabling file operations, shell commands, web search, and agent coordination.",
+  "source_repo": "arosyihuddin/omp-mcp",
+  "source_url": "https://github.com/arosyihuddin/omp-mcp",
+  "install": "npx -y omp-mcp"
+}

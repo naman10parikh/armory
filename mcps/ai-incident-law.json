@@ -1,0 +1,7 @@
+{
+  "name": "ai-incident-law",
+  "description": "Public-record corpus of AI litigation, regulation, and enforcement, anchored to EveryAILaw.",
+  "source_repo": "snapsynapse/ai-incident-law",
+  "source_url": "https://github.com/snapsynapse/ai-incident-law",
+  "install": "# git clone --depth 1 https://github.com/snapsynapse/ai-incident-law\n# See source for mcpServers config block"
+}

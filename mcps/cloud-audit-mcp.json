@@ -1,0 +1,7 @@
+{
+  "name": "cloud-audit-mcp",
+  "description": "Cloud security audit tools for AI agents that provide direct access to cloud APIs to read, correlate, and fix misconfigurations across AWS, Azure, and GCP.",
+  "source_repo": "badchars/cloud-audit-mcp",
+  "source_url": "https://github.com/badchars/cloud-audit-mcp",
+  "install": "npx -y cloud-audit-mcp"
+}

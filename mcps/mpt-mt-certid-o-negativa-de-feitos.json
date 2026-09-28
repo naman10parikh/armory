@@ -1,0 +1,7 @@
+{
+  "name": "mpt-mt-certid-o-negativa-de-feitos",
+  "description": "MCP server to consult negative certificates (Certidão Negativa de Feitos) from the Brazilian Labor Prosecutor's Office (MPT) in Mato Grosso via official sources.",
+  "source_repo": "mcp-dir/mpt_mt_cnf-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt_mt_cnf-mcp",
+  "install": "npx -y mpt_mt_cnf-mcp"
+}

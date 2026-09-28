@@ -1,0 +1,7 @@
+{
+  "name": "robot-tool-mcp",
+  "description": "Provides an MCP interface to the ROBOT command-line tool for OWL ontology editing, enabling operations like merging, reasoning, and conversion via natural language.",
+  "source_repo": "musen-lab/robot-tool-mcp",
+  "source_url": "https://github.com/musen-lab/robot-tool-mcp",
+  "install": "npx -y robot-tool-mcp"
+}

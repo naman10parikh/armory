@@ -1,0 +1,7 @@
+{
+  "name": "medical-mcp-fake",
+  "description": "MCP server with a fictitious clinical database to develop and test agents, providing tools to search patients and retrieve full medical records (inpatient, outpatient, emergency) via HTTP streamable transport.",
+  "source_repo": "willianmarcel/medical-mcp-fake",
+  "source_url": "https://github.com/willianmarcel/medical-mcp-fake",
+  "install": "# git clone --depth 1 https://github.com/willianmarcel/medical-mcp-fake\n# See source for mcpServers config block"
+}

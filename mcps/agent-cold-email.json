@@ -1,0 +1,7 @@
+{
+  "name": "agent-cold-email",
+  "description": "Agent-native cold-email infrastructure providing ~12 high-level tools for domain setup, mailbox provisioning, campaign launch, inbox management, and metrics, all operated via MCP or CLI.",
+  "source_repo": "YS-projectcalc/agent-cold-email",
+  "source_url": "https://github.com/YS-projectcalc/agent-cold-email",
+  "install": "# git clone --depth 1 https://github.com/YS-projectcalc/agent-cold-email\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hypixel-skyblock-mcp",
+  "description": "Fetches Hypixel SkyBlock data including profiles, economy, and progression, returning compact JSON for AI-powered guides and tips.",
+  "source_repo": "crithitstudio/hypixel-skyblock-mcp",
+  "source_url": "https://github.com/crithitstudio/hypixel-skyblock-mcp",
+  "install": "npx -y hypixel-skyblock-mcp"
+}

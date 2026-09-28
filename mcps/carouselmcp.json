@@ -1,0 +1,7 @@
+{
+  "name": "carouselmcp",
+  "description": "Generates ready-to-post Instagram carousel PNGs from a topic string, using AI (Gemini or Claude) for content and storing images in S3.",
+  "source_repo": "theaidrill/CarouselMCP",
+  "source_url": "https://github.com/theaidrill/CarouselMCP",
+  "install": "# git clone --depth 1 https://github.com/theaidrill/CarouselMCP\n# See source for mcpServers config block"
+}

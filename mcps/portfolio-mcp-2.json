@@ -1,0 +1,7 @@
+{
+  "name": "portfolio-mcp-2",
+  "description": "Reads a directory of projects and reports on their stack, git state, deployment targets, and monetization readiness.",
+  "source_repo": "NawafSheikh/portfolio-mcp",
+  "source_url": "https://github.com/NawafSheikh/portfolio-mcp",
+  "install": "npx -y portfolio-mcp"
+}

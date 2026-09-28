@@ -1,0 +1,7 @@
+{
+  "name": "quick-tts-mcp",
+  "description": "Provides text-to-speech functionality using OpenAI's TTS API, enabling text-to-speech conversion, voice listing, and model listing.",
+  "source_repo": "diogoseca/quick-tts-mcp",
+  "source_url": "https://github.com/diogoseca/quick-tts-mcp",
+  "install": "npx -y quick-tts-mcp"
+}

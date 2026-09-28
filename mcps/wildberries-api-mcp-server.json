@@ -1,0 +1,7 @@
+{
+  "name": "wildberries-api-mcp-server",
+  "description": "MCP server that simplifies interaction with Wildberries API, providing unified access to analytics, promotion statistics, sales funnel data, search queries, stock reports, and EVIRMA PRO report imports.",
+  "source_repo": "antondrpq/Wildberries-API-MCP-Server",
+  "source_url": "https://github.com/antondrpq/Wildberries-API-MCP-Server",
+  "install": "npx -y Wildberries-API-MCP-Server"
+}

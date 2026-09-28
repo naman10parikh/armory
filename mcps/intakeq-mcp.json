@@ -1,0 +1,7 @@
+{
+  "name": "intakeq-mcp",
+  "description": "Enables Claude to access IntakeQ practice management data including scheduling, intake forms, treatment notes, invoices, and client records with HIPAA-compliant audit logging.",
+  "source_repo": "oktopeak/IntakeQ",
+  "source_url": "https://github.com/oktopeak/IntakeQ",
+  "install": "# git clone --depth 1 https://github.com/oktopeak/IntakeQ\n# See source for mcpServers config block"
+}

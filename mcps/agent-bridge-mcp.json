@@ -1,0 +1,7 @@
+{
+  "name": "agent-bridge-mcp",
+  "description": "Enables asynchronous messaging and task handoff between Amazon Quick (local desktop) and Kiro (cloud DevSpaces) via an S3-backed message store.",
+  "source_repo": "j-newcom/agent-bridge-mcp",
+  "source_url": "https://github.com/j-newcom/agent-bridge-mcp",
+  "install": "npx -y agent-bridge-mcp"
+}

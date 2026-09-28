@@ -1,0 +1,7 @@
+{
+  "name": "uru-mcp",
+  "description": "Enables AI assistants to access Uru Platform capabilities through a hierarchical tool namespace system that efficiently manages 400+ tools while maintaining full MCP protocol compliance.",
+  "source_repo": "kkdraganov/Uru-MCP",
+  "source_url": "https://github.com/kkdraganov/Uru-MCP",
+  "install": "npx -y Uru-MCP"
+}

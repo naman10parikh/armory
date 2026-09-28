@@ -1,0 +1,7 @@
+{
+  "name": "zenvoy-mcp",
+  "description": "MCP server for the Zenvoy Markdown notes app, providing 26 tools for vault operations like reading, creating, searching notes, and managing tasks, templates, and comments.",
+  "source_repo": "0xsonu/zenvoy",
+  "source_url": "https://github.com/0xsonu/zenvoy",
+  "install": "# git clone --depth 1 https://github.com/0xsonu/zenvoy\n# See source for mcpServers config block"
+}

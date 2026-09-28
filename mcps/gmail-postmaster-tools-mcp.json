@@ -1,0 +1,7 @@
+{
+  "name": "gmail-postmaster-tools-mcp",
+  "description": "Query your domains, sender compliance status, and Gmail traffic metrics from Claude, Cursor, or any MCP client using the Gmail Postmaster Tools API.",
+  "source_repo": "optipub/gmail-postmaster-tools-mcp",
+  "source_url": "https://github.com/optipub/gmail-postmaster-tools-mcp",
+  "install": "npx -y gmail-postmaster-tools-mcp"
+}

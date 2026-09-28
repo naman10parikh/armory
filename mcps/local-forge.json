@@ -1,0 +1,7 @@
+{
+  "name": "local-forge",
+  "description": "Enables AI coding agents to route tasks to local GPU models via a dynamic heuristic classifier, tracking real-time token dollar savings.",
+  "source_repo": "nymrel/local-agent-forge",
+  "source_url": "https://github.com/nymrel/local-agent-forge",
+  "install": "# git clone --depth 1 https://github.com/nymrel/local-agent-forge\n# See source for mcpServers config block"
+}

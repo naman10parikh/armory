@@ -1,0 +1,7 @@
+{
+  "name": "pysphinx-mcp",
+  "description": "MCP server for browsing, searching, and reading Sphinx documentation sites, providing tools to list pages, read content, search text, and list page sections.",
+  "source_repo": "vmphase/pysphinx_mcp",
+  "source_url": "https://github.com/vmphase/pysphinx_mcp",
+  "install": "npx -y pysphinx_mcp"
+}

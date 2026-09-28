@@ -1,0 +1,7 @@
+{
+  "name": "cobbee-mcp-server",
+  "description": "Enables AI agents to manage creator profiles, sell digital products, and make USDC payments on Base using the x402 payment protocol through the Cobbee platform.",
+  "source_repo": "0xmonas/cobbee-mcp",
+  "source_url": "https://github.com/0xmonas/cobbee-mcp",
+  "install": "npx -y cobbee-mcp"
+}

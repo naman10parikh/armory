@@ -1,0 +1,7 @@
+{
+  "name": "usdi-mcp-server",
+  "description": "Enables MCP-compatible agents to query live USDi on-chain exchange rate, contract info, and mint/redeem info directly via MCP, without web scraping.",
+  "source_repo": "MikeAshtonEILLC/usdi-mcp-server",
+  "source_url": "https://github.com/MikeAshtonEILLC/usdi-mcp-server",
+  "install": "npx -y usdi-mcp-server"
+}

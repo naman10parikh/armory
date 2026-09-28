@@ -1,0 +1,7 @@
+{
+  "name": "aifordatabase-mcp",
+  "description": "Give your AI agent safe, plain-English access to any database via MCP. Ask questions in natural language, get SQL queries and results, run read-only queries, and set up scheduled alerts.",
+  "source_repo": "dann26parr69/aifordatabase-mcp",
+  "source_url": "https://github.com/dann26parr69/aifordatabase-mcp",
+  "install": "npx -y aifordatabase-mcp"
+}

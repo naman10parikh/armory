@@ -1,0 +1,7 @@
+{
+  "name": "querytree-mcp-server",
+  "description": "Enables AI agents to add decision drafts, evidence, and counterarguments to a shared local decision state, while users confirm or reopen decisions in a web console. Prevents unverified agent answers from being silently turned into code.",
+  "source_repo": "sp-daewoon/querytree",
+  "source_url": "https://github.com/sp-daewoon/querytree",
+  "install": "# git clone --depth 1 https://github.com/sp-daewoon/querytree\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "order-ops-mcp",
+  "description": "Enables operations teams to diagnose and resolve stuck orders via natural-language queries. It provides evidence-based resolution proposals, but any state-changing action requires explicit human confirmation.",
+  "source_repo": "JustUzair/diligence-ai-order-ops-mcp",
+  "source_url": "https://github.com/JustUzair/diligence-ai-order-ops-mcp",
+  "install": "npx -y diligence-ai-order-ops-mcp"
+}

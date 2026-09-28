@@ -1,0 +1,7 @@
+{
+  "name": "hoshy",
+  "description": "A free MCP server that lets Claude search Rakuten products, compare prices, and book business hotels using natural language, with no API keys required.",
+  "source_repo": "Negimaru1025/HoShy",
+  "source_url": "https://github.com/Negimaru1025/HoShy",
+  "install": "# git clone --depth 1 https://github.com/Negimaru1025/HoShy\n# See source for mcpServers config block"
+}

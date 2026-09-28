@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ping-pong-server",
+  "description": "An experimental MCP server demonstrating remote calls via FastAPI, supporting ping-pong commands through API endpoints and SSE transport.",
+  "source_repo": "kimtth/mcp-remote-call-ping-pong",
+  "source_url": "https://github.com/kimtth/mcp-remote-call-ping-pong",
+  "install": "# git clone --depth 1 https://github.com/kimtth/mcp-remote-call-ping-pong\n# See source for mcpServers config block"
+}

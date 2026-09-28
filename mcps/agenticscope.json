@@ -1,0 +1,7 @@
+{
+  "name": "agenticscope",
+  "description": "A read-only MCP server that provides AI agents with live, structured workspace awareness, including project listing, git status, and budgeted context packing, minimizing token usage.",
+  "source_repo": "jessn-dev/agentic-scope",
+  "source_url": "https://github.com/jessn-dev/agentic-scope",
+  "install": "# git clone --depth 1 https://github.com/jessn-dev/agentic-scope\n# See source for mcpServers config block"
+}

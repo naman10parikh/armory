@@ -1,0 +1,7 @@
+{
+  "name": "enhanced-browser-mcp-server",
+  "description": "An enhanced browser automation MCP server that solves token limit issues through intelligent semantic compression, enabling universal web automation with context-aware snapshot modes.",
+  "source_repo": "The-Thought-Magician/enhanced-browser-mcp",
+  "source_url": "https://github.com/The-Thought-Magician/enhanced-browser-mcp",
+  "install": "npx -y enhanced-browser-mcp"
+}

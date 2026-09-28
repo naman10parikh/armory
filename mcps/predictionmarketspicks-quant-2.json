@@ -1,0 +1,7 @@
+{
+  "name": "predictionmarketspicks-quant-2",
+  "description": "Institutional-grade quant toolkit for prediction-market trading on Kalshi and Polymarket. Ten tools covering expected value, Kelly position sizing, Bayesian updating, probability/odds conversion, base-rate gaps, combo edge, cross-platform arbitrage, market pulse, commodity edge, and KL-divergence mi",
+  "source_repo": "",
+  "source_url": "https://predictionmarketspicks.com/mcp",
+  "install": "# git clone --depth 1 https://predictionmarketspicks.com/mcp\n# See source for mcpServers config block"
+}

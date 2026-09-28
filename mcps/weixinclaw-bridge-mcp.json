@@ -1,0 +1,7 @@
+{
+  "name": "weixinclaw-bridge-mcp",
+  "description": "A Windows-native WeChat bridge that connects WeChat to multiple MCP clients (Web Chat, Codex, Claude Desktop, etc.) for bidirectional text, image, and file transfer without requiring OpenClaw.",
+  "source_repo": "kirlsm/weixinclaw-bridge-mcp",
+  "source_url": "https://github.com/kirlsm/weixinclaw-bridge-mcp",
+  "install": "npx -y weixinclaw-bridge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "swarmlabs-mcp-server",
+  "description": "Exposes SwarmLabs physics-informed scientific experiment predictions as MCP tools, enabling agents to run predictions, list engines, and perform parameter sweeps with honesty-first uncertainty reporting.",
+  "source_repo": "lm203688/swarmlabs-engine-kit",
+  "source_url": "https://github.com/lm203688/swarmlabs-engine-kit",
+  "install": "# git clone --depth 1 https://github.com/lm203688/swarmlabs-engine-kit\n# See source for mcpServers config block"
+}

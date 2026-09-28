@@ -1,0 +1,7 @@
+{
+  "name": "chrome-mcp",
+  "description": "Enables controlling a real Chrome browser from MCP hosts like Claude, with extension-based or CDP fallback, supporting tabs, navigation, interaction, and page reading tools.",
+  "source_repo": "Mehmoodqureshi/chrome-mcp",
+  "source_url": "https://github.com/Mehmoodqureshi/chrome-mcp",
+  "install": "npx -y chrome-mcp"
+}

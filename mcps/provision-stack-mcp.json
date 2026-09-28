@@ -1,0 +1,7 @@
+{
+  "name": "provision-stack-mcp",
+  "description": "Cloud infrastructure provisioning via natural language. Enables deploying production-ready infrastructure on AWS, GCP, Azure, or Oracle with a single prompt.",
+  "source_repo": "TravisLinkey/provision-stack-mcp",
+  "source_url": "https://github.com/TravisLinkey/provision-stack-mcp",
+  "install": "npx -y provision-stack-mcp"
+}

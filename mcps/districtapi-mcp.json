@@ -1,0 +1,7 @@
+{
+  "name": "districtapi-mcp",
+  "description": "MCP server for districtapi.dev that enables AI assistants to look up US school district and school information by address, name, or ID, including schools near a location.",
+  "source_repo": "DistrictAPI/districtapi-mcp",
+  "source_url": "https://github.com/DistrictAPI/districtapi-mcp",
+  "install": "npx -y districtapi-mcp"
+}

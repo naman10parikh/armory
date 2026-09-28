@@ -1,0 +1,7 @@
+{
+  "name": "evidiq-envelope",
+  "description": "Enables agents to verify the authenticity of inbound email messages via SPF, DKIM, DMARC, and ARC checks, detect sender spoofing and malicious links/attachments, and obtain signed, verifiable attestations of the verdict.",
+  "source_repo": "evidiq/evidiq-envelope-mcp",
+  "source_url": "https://github.com/evidiq/evidiq-envelope-mcp",
+  "install": "npx -y evidiq-envelope-mcp"
+}

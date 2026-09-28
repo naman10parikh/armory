@@ -1,0 +1,7 @@
+{
+  "name": "nova3d-mcp",
+  "description": "Enables AI agents to generate structured, part-aware 3D assets with named parts and real joints, allowing separate editing and integration into game engines, simulations, and AR scenes.",
+  "source_repo": "RareSense/nova3d-mcp",
+  "source_url": "https://github.com/RareSense/nova3d-mcp",
+  "install": "npx -y nova3d-mcp"
+}

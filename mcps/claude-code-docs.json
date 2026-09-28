@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-docs",
+  "description": "Searches Claude Code documentation via BM25 indexing, returning ranked snippets with category filtering. Enables fast, local search over official docs without full-document scans.",
+  "source_repo": "jpsweeney97/claude-code-docs-mcp",
+  "source_url": "https://github.com/jpsweeney97/claude-code-docs-mcp",
+  "install": "npx -y claude-code-docs-mcp"
+}

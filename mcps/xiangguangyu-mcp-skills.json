@@ -1,0 +1,7 @@
+{
+  "name": "xiangguangyu-mcp-skills",
+  "description": "MCP server offering 252 AI skills as 12 MCP tools for tasks like MBTI analysis, contract review, and quantitative trading.",
+  "source_repo": "XYG-LUNA/alipay-mcp-server",
+  "source_url": "https://github.com/XYG-LUNA/alipay-mcp-server",
+  "install": "npx -y alipay-mcp-server"
+}

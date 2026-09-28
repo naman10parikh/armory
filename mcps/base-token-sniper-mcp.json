@@ -1,0 +1,7 @@
+{
+  "name": "base-token-sniper-mcp",
+  "description": "An MCP server for AI agents to discover and trade new token launches on Base chain.",
+  "source_repo": "lordbasilaiassistant-sudo/base-token-sniper-mcp",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/base-token-sniper-mcp",
+  "install": "npx -y base-token-sniper-mcp"
+}

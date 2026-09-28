@@ -1,0 +1,7 @@
+{
+  "name": "bottrade",
+  "description": "BotTrade is a historical-market benchmark for autonomous trading agents, enabling backtesting and evaluation through MCP or Python with standardized scenarios and scoring metrics.",
+  "source_repo": "jyron/bottrade",
+  "source_url": "https://github.com/jyron/bottrade",
+  "install": "# git clone --depth 1 https://github.com/jyron/bottrade\n# See source for mcpServers config block"
+}

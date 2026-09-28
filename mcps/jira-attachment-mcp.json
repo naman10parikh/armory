@@ -1,0 +1,7 @@
+{
+  "name": "jira-attachment-mcp",
+  "description": "Fetches Jira attachments and returns them inline (for small images) or as local paths for larger files and other types, enabling AI models to access Jira attachments directly.",
+  "source_repo": "ai-accelchamp/jira-attachment-mcp",
+  "source_url": "https://github.com/ai-accelchamp/jira-attachment-mcp",
+  "install": "npx -y jira-attachment-mcp"
+}

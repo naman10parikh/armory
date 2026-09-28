@@ -1,0 +1,7 @@
+{
+  "name": "loopbreaker",
+  "description": "Provides tools for agents to manage a local review graph, tracking acceptance behaviors, evidence, review passes, and human waivers to decouple review convergence from shipping readiness.",
+  "source_repo": "rordi-ai/loopbreaker",
+  "source_url": "https://github.com/rordi-ai/loopbreaker",
+  "install": "# git clone --depth 1 https://github.com/rordi-ai/loopbreaker\n# See source for mcpServers config block"
+}

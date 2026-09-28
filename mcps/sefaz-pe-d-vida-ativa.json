@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-pe-d-vida-ativa",
+  "description": "Enables users to query official SEFAZ Pernambuco active tax debt (dívida ativa) records through a read-only MCP tool, using magic-link authentication and compatible with any MCP client like Claude Desktop and Cursor.",
+  "source_repo": "mcp-dir/sefaz_pe_divida_ativa-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_pe_divida_ativa-mcp",
+  "install": "npx -y sefaz_pe_divida_ativa-mcp"
+}

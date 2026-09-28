@@ -1,0 +1,7 @@
+{
+  "name": "estate-atlas-sd-mcp",
+  "description": "MCP server for querying the San Diego Municipal Code, bulletins, permits, parcels, and zoning data with citations and freshness guarantees.",
+  "source_repo": "estate-atlas/sandiego-mcp",
+  "source_url": "https://github.com/estate-atlas/sandiego-mcp",
+  "install": "npx -y sandiego-mcp"
+}

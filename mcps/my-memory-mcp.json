@@ -1,0 +1,7 @@
+{
+  "name": "my-memory-mcp",
+  "description": "A MCP server that provides persistent memory for AI assistants, storing personal information, relationships, and observations to enable personalized and contextual conversations.",
+  "source_repo": "moontmsai/my-memory-mcp",
+  "source_url": "https://github.com/moontmsai/my-memory-mcp",
+  "install": "npx -y my-memory-mcp"
+}

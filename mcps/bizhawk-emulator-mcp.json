@@ -1,0 +1,7 @@
+{
+  "name": "bizhawk-emulator-mcp",
+  "description": "Deterministic BizHawk control over MCP for Game Boy, Mega Drive/Genesis, NES, and SNES.",
+  "source_repo": "KanonZombie/emulator-mcp",
+  "source_url": "https://github.com/KanonZombie/emulator-mcp",
+  "install": "npx -y emulator-mcp"
+}

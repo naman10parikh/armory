@@ -1,0 +1,7 @@
+{
+  "name": "docsmith-mcp-server",
+  "description": "MCP server that provides semantic search, graph query, and keyword search tools for interacting with DocSmith's knowledge graph and documentation.",
+  "source_repo": "heitor-am/docsmith-mcp",
+  "source_url": "https://github.com/heitor-am/docsmith-mcp",
+  "install": "npx -y docsmith-mcp"
+}

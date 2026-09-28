@@ -1,0 +1,7 @@
+{
+  "name": "apple-productivity-mcp",
+  "description": "Connects Claude Code to Apple Mail, Calendar, and Reminders through macOS automation APIs, enabling management of emails, events, and reminders via natural language.",
+  "source_repo": "gambadio/apple-productivity-mcp",
+  "source_url": "https://github.com/gambadio/apple-productivity-mcp",
+  "install": "npx -y apple-productivity-mcp"
+}

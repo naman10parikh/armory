@@ -1,0 +1,7 @@
+{
+  "name": "xinplugin-chroma-fastmcp",
+  "description": "Enables agents to retrieve and cite text from MinIO-hosted knowledge bases by indexing PDF/txt/md documents into Chroma and exposing search, ingestion, and source listing as MCP tools.",
+  "source_repo": "KimTsegzc/xinPlugin_Chroma_fastMCP",
+  "source_url": "https://github.com/KimTsegzc/xinPlugin_Chroma_fastMCP",
+  "install": "# git clone --depth 1 https://github.com/KimTsegzc/xinPlugin_Chroma_fastMCP\n# See source for mcpServers config block"
+}

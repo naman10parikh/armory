@@ -1,0 +1,7 @@
+{
+  "name": "mcp-security-server",
+  "description": "Enables file operations, npm package management, and configuration checking through MCP.",
+  "source_repo": "danduh/mcp-security",
+  "source_url": "https://github.com/danduh/mcp-security",
+  "install": "# git clone --depth 1 https://github.com/danduh/mcp-security\n# See source for mcpServers config block"
+}

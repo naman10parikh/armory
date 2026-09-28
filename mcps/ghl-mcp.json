@@ -1,0 +1,7 @@
+{
+  "name": "ghl-mcp",
+  "description": "MCP server for GoHighLevel API v2 that provides 50+ tools for CRM, billing, marketing, and operations workflows, enabling natural language interaction with contacts, opportunities, conversations, and more.",
+  "source_repo": "Snack-JPG/ghl-mcp",
+  "source_url": "https://github.com/Snack-JPG/ghl-mcp",
+  "install": "npx -y ghl-mcp"
+}

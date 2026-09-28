@@ -1,0 +1,7 @@
+{
+  "name": "findclass-mcp",
+  "description": "Local stdio MCP adapter exposing permission-filtered tools for FindClass backend operations, including order/refund/settlement/slot management, record search, and coupon grants.",
+  "source_repo": "Harryanhuang/findclass-mcp",
+  "source_url": "https://github.com/Harryanhuang/findclass-mcp",
+  "install": "npx -y findclass-mcp"
+}

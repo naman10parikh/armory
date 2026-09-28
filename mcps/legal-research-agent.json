@@ -1,0 +1,7 @@
+{
+  "name": "legal-research-agent",
+  "description": "MCP server for legal research that enables searching US case law via CourtListener, retrieving full opinion text, and looking up legal definitions from Cornell's Wex. Students can connect via a remote connector in Claude.ai to cite real, free legal sources.",
+  "source_repo": "jcpask/legal-research-agent",
+  "source_url": "https://github.com/jcpask/legal-research-agent",
+  "install": "# git clone --depth 1 https://github.com/jcpask/legal-research-agent\n# See source for mcpServers config block"
+}

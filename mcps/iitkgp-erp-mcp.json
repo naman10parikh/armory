@@ -1,0 +1,7 @@
+{
+  "name": "iitkgp-erp-mcp",
+  "description": "MCP server for IIT Kharagpur ERP that enables querying grades, CGPA, attendance, timetable, placements, and more through any AI agent.",
+  "source_repo": "MSR327/iitkgp-erp-mcp",
+  "source_url": "https://github.com/MSR327/iitkgp-erp-mcp",
+  "install": "npx -y iitkgp-erp-mcp"
+}

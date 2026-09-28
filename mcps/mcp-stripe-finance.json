@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stripe-finance",
+  "description": "Production-grade MCP server for Stripe financial operations, enabling AI assistants to manage payments, customers, subscriptions, invoices, products, prices, refunds, and balance checks.",
+  "source_repo": "phanhuycuong33-alt/mcp-stripe-finance",
+  "source_url": "https://github.com/phanhuycuong33-alt/mcp-stripe-finance",
+  "install": "# git clone --depth 1 https://github.com/phanhuycuong33-alt/mcp-stripe-finance\n# See source for mcpServers config block"
+}

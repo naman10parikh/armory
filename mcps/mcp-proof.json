@@ -1,0 +1,7 @@
+{
+  "name": "mcp-proof",
+  "description": "Audits any MCP server (stdio or Streamable HTTP, legacy or modern era) with wire-level conformance, security, and behavior-regression checks, producing a fingerprinted delivery report and CI regression suite.",
+  "source_repo": "YuCPbit/mcp-proof",
+  "source_url": "https://github.com/YuCPbit/mcp-proof",
+  "install": "# git clone --depth 1 https://github.com/YuCPbit/mcp-proof\n# See source for mcpServers config block"
+}

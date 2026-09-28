@@ -1,0 +1,7 @@
+{
+  "name": "thumbtack-mcp",
+  "description": "Unofficial Thumbtack MCP server for searching local service professionals and reading their profiles, ratings, reviews, and credentials. Read-only and anonymous.",
+  "source_repo": "chrischall/thumbtack-mcp",
+  "source_url": "https://github.com/chrischall/thumbtack-mcp",
+  "install": "npx -y thumbtack-mcp"
+}

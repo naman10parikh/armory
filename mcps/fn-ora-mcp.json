@@ -1,0 +1,7 @@
+{
+  "name": "fn-ora-mcp",
+  "description": "Enables Claude Code to query Oracle DB package code using natural language, with tools to search, list, and retrieve package source code.",
+  "source_repo": "yeuidowanter/fn_ora_mcp",
+  "source_url": "https://github.com/yeuidowanter/fn_ora_mcp",
+  "install": "npx -y fn_ora_mcp"
+}

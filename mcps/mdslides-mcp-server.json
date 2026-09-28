@@ -1,0 +1,7 @@
+{
+  "name": "mdslides-mcp-server",
+  "description": "An MCP server for generating HTML presentation slides from Markdown content using the mkslides library, enabling integration with tools like Claude in VSCode to create and manage presentations.",
+  "source_repo": "bsmnyk/mdslides-mcp-server",
+  "source_url": "https://github.com/bsmnyk/mdslides-mcp-server",
+  "install": "npx -y mdslides-mcp-server"
+}

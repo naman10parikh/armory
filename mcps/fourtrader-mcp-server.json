@@ -1,0 +1,7 @@
+{
+  "name": "fourtrader-mcp-server",
+  "description": "Enables AI assistants to trade Four.meme tokens on BNB Smart Chain via the Model Context Protocol, supporting buy/sell operations, real-time data, and wallet management.",
+  "source_repo": "sunneeee/fourtrader-mcp",
+  "source_url": "https://github.com/sunneeee/fourtrader-mcp",
+  "install": "npx -y fourtrader-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kernelee-mcp-tools",
+  "description": "Architecture-index MCP tools for kernelee apps that combine static analysis and runtime wiring into a JSON index, enabling coding agents to query control flow and dependencies via the Model Context Protocol.",
+  "source_repo": "s-age/kernelee-mcp-tools",
+  "source_url": "https://github.com/s-age/kernelee-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/s-age/kernelee-mcp-tools\n# See source for mcpServers config block"
+}

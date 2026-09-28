@@ -1,0 +1,7 @@
+{
+  "name": "etabs-mcp-server",
+  "description": "Connects AI assistants to CSI ETABS for structural engineering tasks, enabling model creation, analysis, design, and seismic checks via the COM API.",
+  "source_repo": "mdvaleed7/ETABS-mcp",
+  "source_url": "https://github.com/mdvaleed7/ETABS-mcp",
+  "install": "npx -y ETABS-mcp"
+}

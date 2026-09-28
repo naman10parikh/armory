@@ -1,0 +1,7 @@
+{
+  "name": "building-register-mcp",
+  "description": "Queries South Korean building register data (e.g., floor area, parking, seismic design) via a single unified tool, converting API responses to Korean field names for easy AI understanding.",
+  "source_repo": "dongwook-chan/building-register-mcp",
+  "source_url": "https://github.com/dongwook-chan/building-register-mcp",
+  "install": "npx -y building-register-mcp"
+}

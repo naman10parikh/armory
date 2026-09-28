@@ -1,0 +1,7 @@
+{
+  "name": "teamup-mcp",
+  "description": "MCP server for the Teamup Calendar API, enabling event management, calendar listing, and available slot search.",
+  "source_repo": "LarsZilch/teamup-mcp",
+  "source_url": "https://github.com/LarsZilch/teamup-mcp",
+  "install": "npx -y teamup-mcp"
+}

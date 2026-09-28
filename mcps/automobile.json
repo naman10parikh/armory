@@ -1,0 +1,7 @@
+{
+  "name": "automobile",
+  "description": "An MCP server that enables AI agents to control Android and iOS devices via natural language, using platform tools like adb and simctl.",
+  "source_repo": "kaeawc/auto-mobile",
+  "source_url": "https://github.com/kaeawc/auto-mobile",
+  "install": "# git clone --depth 1 https://github.com/kaeawc/auto-mobile\n# See source for mcpServers config block"
+}

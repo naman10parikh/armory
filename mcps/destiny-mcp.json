@@ -1,0 +1,7 @@
+{
+  "name": "destiny-mcp",
+  "description": "Manage your Destiny 2 inventory, weapons, and loadouts through AI. Integrates with MCP clients like Claude Code.",
+  "source_repo": "8z2wz746tv-png/Destiny_mcp",
+  "source_url": "https://github.com/8z2wz746tv-png/Destiny_mcp",
+  "install": "npx -y Destiny_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "menus-mcp",
+  "description": "Recommends dishes from a global cuisine knowledge base based on user preferences (keywords, cuisine, price, etc.) via weighted random selection with bias correction and diversity.",
+  "source_repo": "spyyps/recommend-dish",
+  "source_url": "https://github.com/spyyps/recommend-dish",
+  "install": "# git clone --depth 1 https://github.com/spyyps/recommend-dish\n# See source for mcpServers config block"
+}

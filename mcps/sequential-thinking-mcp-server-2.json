@@ -1,0 +1,7 @@
+{
+  "name": "sequential-thinking-mcp-server-2",
+  "description": "Provides a sequentialthinking tool for dynamic, reflective problem-solving via chain-of-thought reasoning. Supports local Stdio and remote SSE deployment on Google Cloud Run.",
+  "source_repo": "Kemosabe0x/sequential-thinking-mcp-sse",
+  "source_url": "https://github.com/Kemosabe0x/sequential-thinking-mcp-sse",
+  "install": "# git clone --depth 1 https://github.com/Kemosabe0x/sequential-thinking-mcp-sse\n# See source for mcpServers config block"
+}

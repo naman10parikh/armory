@@ -1,0 +1,7 @@
+{
+  "name": "ticket-management-meeting-overview-mcp-server",
+  "description": "An MCP server for managing tickets and meetings with CRUD operations, backed by PostgreSQL, and includes a REST API and React frontend.",
+  "source_repo": "Balaji2830/ticket-management-meeting-overview-mcp-server",
+  "source_url": "https://github.com/Balaji2830/ticket-management-meeting-overview-mcp-server",
+  "install": "npx -y ticket-management-meeting-overview-mcp-server"
+}

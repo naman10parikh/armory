@@ -1,0 +1,7 @@
+{
+  "name": "mcp-security-scanner",
+  "description": "Integrates Checkov, Semgrep, Bandit, and ASH to provide comprehensive code security analysis for AI coding assistants.",
+  "source_repo": "aws-samples/sample-mcp-security-scanner",
+  "source_url": "https://github.com/aws-samples/sample-mcp-security-scanner",
+  "install": "# git clone --depth 1 https://github.com/aws-samples/sample-mcp-security-scanner\n# See source for mcpServers config block"
+}

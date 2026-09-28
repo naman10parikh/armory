@@ -1,0 +1,7 @@
+{
+  "name": "payram-mcp-server",
+  "description": "Enables AI agents to deploy and operate a self-hosted, no-signup crypto payment gateway with multi-chain support, card-to-crypto checkout, and MCP tools for payment links and integration snippets.",
+  "source_repo": "PayRam/payram-mcp",
+  "source_url": "https://github.com/PayRam/payram-mcp",
+  "install": "npx -y payram-mcp"
+}

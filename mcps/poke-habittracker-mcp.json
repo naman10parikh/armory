@@ -1,0 +1,7 @@
+{
+  "name": "poke-habittracker-mcp",
+  "description": "Enables Poke to read and update today's HabitTracker habits via Supabase, with tools for listing, completing, uncompleting habits, and viewing a dashboard summary.",
+  "source_repo": "smoothiekanoble/poke-mcp",
+  "source_url": "https://github.com/smoothiekanoble/poke-mcp",
+  "install": "npx -y poke-mcp"
+}

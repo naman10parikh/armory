@@ -1,0 +1,7 @@
+{
+  "name": "vecgrep",
+  "description": "Semantic code search MCP server that reduces token usage by ~95% by returning top relevant code chunks instead of full files.",
+  "source_repo": "VecGrep/vecgrep",
+  "source_url": "https://github.com/VecGrep/vecgrep",
+  "install": "# git clone --depth 1 https://github.com/VecGrep/vecgrep\n# See source for mcpServers config block"
+}

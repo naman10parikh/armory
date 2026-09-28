@@ -1,0 +1,7 @@
+{
+  "name": "tubepilot",
+  "description": "Enables AI assistants to fetch and analyze YouTube data, including video info, transcripts, channel analysis, and comparisons, with both free and API-key extended tools.",
+  "source_repo": "ixex/tubepilot",
+  "source_url": "https://github.com/ixex/tubepilot",
+  "install": "# git clone --depth 1 https://github.com/ixex/tubepilot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prometiam-company-data",
+  "description": "Company data for Spain, France, the UK, Ireland and Poland — registry, KYB and sanctions.",
+  "source_repo": "matiasmaquieira96/prometiam-risk-mcp",
+  "source_url": "https://github.com/matiasmaquieira96/prometiam-risk-mcp",
+  "install": "npx -y prometiam-risk-mcp"
+}

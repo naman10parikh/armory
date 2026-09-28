@@ -1,0 +1,7 @@
+{
+  "name": "pyfmcp",
+  "description": "An MCP server that runs Python project checks through pytest, Ruff, and basedpyright, with configurable settings and stdio/HTTP transport.",
+  "source_repo": "pzarczynski/pyfmcp",
+  "source_url": "https://github.com/pzarczynski/pyfmcp",
+  "install": "# git clone --depth 1 https://github.com/pzarczynski/pyfmcp\n# See source for mcpServers config block"
+}

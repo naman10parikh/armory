@@ -1,0 +1,7 @@
+{
+  "name": "python-mcp-toolkit-server",
+  "description": "A Python-based MCP server for file operations, web search with fallback, and task management, designed for Termux and extensible via plugins.",
+  "source_repo": "linhanhan227/termux-mcp",
+  "source_url": "https://github.com/linhanhan227/termux-mcp",
+  "install": "npx -y termux-mcp"
+}

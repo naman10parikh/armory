@@ -1,0 +1,7 @@
+{
+  "name": "oc-korea-weather-time-mcp",
+  "description": "MCP server providing Korean weather forecasts from the KMA (short-term, hourly, daily) and timezone utilities (current time, conversion, lookup) using only standard Python zoneinfo.",
+  "source_repo": "jshsakura/oc-korea-weather-time-mcp",
+  "source_url": "https://github.com/jshsakura/oc-korea-weather-time-mcp",
+  "install": "npx -y oc-korea-weather-time-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "attestify-mcp",
+  "description": "MCP server exposing Attestify OS agents as callable tools, enabling governed AI agent runs for financial, compliance, and regulated workflows with immutable receipts and on-chain settlement.",
+  "source_repo": "attestifyagent/attestify-mcp",
+  "source_url": "https://github.com/attestifyagent/attestify-mcp",
+  "install": "npx -y attestify-mcp"
+}

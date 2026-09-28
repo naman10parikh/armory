@@ -1,0 +1,7 @@
+{
+  "name": "opedd",
+  "description": "Licensed, rights-cleared content for AI agents, 17 tools to discover, license, retrieve, and verify expert content with on-chain proof and EU AI Act Article 53 support.",
+  "source_repo": "Opedd/opedd-mcp",
+  "source_url": "https://github.com/Opedd/opedd-mcp",
+  "install": "npx -y opedd-mcp"
+}

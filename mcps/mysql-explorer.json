@@ -1,0 +1,7 @@
+{
+  "name": "mysql-explorer",
+  "description": "Enables Claude to interact with a MySQL database by automatically discovering its schema and retrieving full table data for analysis.",
+  "source_repo": "awand795/mcp-server-mysql",
+  "source_url": "https://github.com/awand795/mcp-server-mysql",
+  "install": "# git clone --depth 1 https://github.com/awand795/mcp-server-mysql\n# See source for mcpServers config block"
+}

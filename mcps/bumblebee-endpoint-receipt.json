@@ -1,0 +1,7 @@
+{
+  "name": "bumblebee-endpoint-receipt",
+  "description": "Paid remote MCP for scanning developer endpoints, providing tools for exposure scanning, package hit explanation, receipt issuance, and scan history.",
+  "source_repo": "clauxel/bumblebee-endpoint-receipt-mcp",
+  "source_url": "https://github.com/clauxel/bumblebee-endpoint-receipt-mcp",
+  "install": "npx -y bumblebee-endpoint-receipt-mcp"
+}

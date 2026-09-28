@@ -1,0 +1,7 @@
+{
+  "name": "instant-mcp",
+  "description": "A local mock MCP server for building against the Model Context Protocol. Write a tool in the browser, save it, and it is immediately available on an MCP endpoint.",
+  "source_repo": "jhleee/instant-mcp",
+  "source_url": "https://github.com/jhleee/instant-mcp",
+  "install": "npx -y instant-mcp"
+}

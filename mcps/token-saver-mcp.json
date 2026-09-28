@@ -1,0 +1,7 @@
+{
+  "name": "token-saver-mcp",
+  "description": "Automatically reduces token usage in Claude Code sessions using algorithmic optimizations like code compression, smart file reading, output summarization, and prompt rewriting, with no extra API calls or cost.",
+  "source_repo": "AmalBiju0104/token-saver-mcp",
+  "source_url": "https://github.com/AmalBiju0104/token-saver-mcp",
+  "install": "npx -y token-saver-mcp"
+}

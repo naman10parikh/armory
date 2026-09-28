@@ -1,0 +1,7 @@
+{
+  "name": "minimax-mcp",
+  "description": "Provides web search, image understanding, text-to-speech, and image generation tools via the MiniMax API.",
+  "source_repo": "Klng79/minimax-mcp",
+  "source_url": "https://github.com/Klng79/minimax-mcp",
+  "install": "npx -y minimax-mcp"
+}

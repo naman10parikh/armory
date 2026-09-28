@@ -1,0 +1,7 @@
+{
+  "name": "fluent-research-mcp",
+  "description": "Automates Ansys Fluent simulation workflows, enabling environment checks, case execution, UDF management, and result export through MCP tools.",
+  "source_repo": "the-syz/fluent-mcp",
+  "source_url": "https://github.com/the-syz/fluent-mcp",
+  "install": "npx -y fluent-mcp"
+}

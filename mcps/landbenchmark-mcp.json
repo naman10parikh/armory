@@ -1,0 +1,7 @@
+{
+  "name": "landbenchmark-mcp",
+  "description": "An MCP server that lets an AI agent run satellite land due-diligence through LandBenchmark. Its analyze_parcel tool takes a lat/lon or GeoJSON geometry and returns a green / caution / walk-away verdict with cited signals — flooding, slope, wildfire, road access, and more — for any parcel.",
+  "source_repo": "winds3753/landbenchmark-mcp",
+  "source_url": "https://github.com/winds3753/landbenchmark-mcp",
+  "install": "npx -y landbenchmark-mcp"
+}

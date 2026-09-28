@@ -1,0 +1,7 @@
+{
+  "name": "jobfinder",
+  "description": "Enables AI-powered job searching across multiple platforms using natural language or CV uploads, ranking results by shortlisting likelihood and generating detailed spreadsheets. Integrates with Claude to perform full job searches, preview query interpretation, and manage platform configurations.",
+  "source_repo": "MajidAli2006/jobfinder",
+  "source_url": "https://github.com/MajidAli2006/jobfinder",
+  "install": "# git clone --depth 1 https://github.com/MajidAli2006/jobfinder\n# See source for mcpServers config block"
+}

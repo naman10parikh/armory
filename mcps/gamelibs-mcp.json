@@ -1,0 +1,7 @@
+{
+  "name": "gamelibs-mcp",
+  "description": "An MCP server that exposes your Steam, Epic Games Store, and IGDB game data as tools, enabling game library queries, install status checks, and metadata enrichment.",
+  "source_repo": "AliSoftware/gamelibs-mcp",
+  "source_url": "https://github.com/AliSoftware/gamelibs-mcp",
+  "install": "npx -y gamelibs-mcp"
+}

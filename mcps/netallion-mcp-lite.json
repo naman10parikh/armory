@@ -1,0 +1,7 @@
+{
+  "name": "netallion-mcp-lite",
+  "description": "Scans text and files for common secrets (AWS, GitHub, etc.) and redacts them to prevent credential leakage in AI-assisted development. Runs entirely locally with no telemetry.",
+  "source_repo": "netallion/netallion-mcp-lite",
+  "source_url": "https://github.com/netallion/netallion-mcp-lite",
+  "install": "# git clone --depth 1 https://github.com/netallion/netallion-mcp-lite\n# See source for mcpServers config block"
+}

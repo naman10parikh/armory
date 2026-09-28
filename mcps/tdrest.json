@@ -1,0 +1,7 @@
+{
+  "name": "tdrest",
+  "description": "Enables making REST API calls to Teradata cloud services including Elastic Compute, Vector Store, OMS, and QueryGrid. Supports custom authentication, Socks5 proxy, and multipart file uploads.",
+  "source_repo": "ksturgeon-td/tdrest-mcp",
+  "source_url": "https://github.com/ksturgeon-td/tdrest-mcp",
+  "install": "npx -y tdrest-mcp"
+}

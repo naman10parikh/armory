@@ -1,0 +1,7 @@
+{
+  "name": "public-mcp-exam-server",
+  "description": "Exposes a single tool solve_challenge that reads the X-Exam-Challenge HTTP header and returns the first 16 hex characters of SHA-256 of the challenge with a domain suffix.",
+  "source_repo": "moulindaris/mcp-server",
+  "source_url": "https://github.com/moulindaris/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/moulindaris/mcp-server\n# See source for mcpServers config block"
+}

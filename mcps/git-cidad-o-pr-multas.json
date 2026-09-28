@@ -1,0 +1,7 @@
+{
+  "name": "git-cidad-o-pr-multas",
+  "description": "Read-only MCP server for consulting traffic fines (multas) from the official GIT Cidadão (PR) source, accessible via pre-paid credits and any MCP-over-HTTP client.",
+  "source_repo": "mcp-dir/git_cidadao_pr_multas-mcp",
+  "source_url": "https://github.com/mcp-dir/git_cidadao_pr_multas-mcp",
+  "install": "npx -y git_cidadao_pr_multas-mcp"
+}

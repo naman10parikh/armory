@@ -1,0 +1,7 @@
+{
+  "name": "finviet-confluence-mcp",
+  "description": "An MCP server that enables AI agents to read Confluence page content by URL, supporting self-hosted Confluence with basic auth.",
+  "source_repo": "dobadevv/finviet-confluence-mcp",
+  "source_url": "https://github.com/dobadevv/finviet-confluence-mcp",
+  "install": "npx -y finviet-confluence-mcp"
+}

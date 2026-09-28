@@ -1,0 +1,7 @@
+{
+  "name": "quelllm-mcp",
+  "description": "MCP server for QuelLLM: recommends the best open-source LLM to run locally for your hardware (GPU/RAM), with model comparison and a cost calculator.",
+  "source_repo": "MGM-FALCON/quelllm-mcp",
+  "source_url": "https://github.com/MGM-FALCON/quelllm-mcp",
+  "install": "npx -y quelllm-mcp"
+}

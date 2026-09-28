@@ -1,0 +1,7 @@
+{
+  "name": "image-2-agent",
+  "description": "This MCP server enables image generation via Codex CLI and an OpenAI-compatible relay API, with job queue, status polling, and preview/download endpoints. It is a single-user local demo without authentication or persistence.",
+  "source_repo": "wqy-2002/image-2-Agent",
+  "source_url": "https://github.com/wqy-2002/image-2-Agent",
+  "install": "# git clone --depth 1 https://github.com/wqy-2002/image-2-Agent\n# See source for mcpServers config block"
+}

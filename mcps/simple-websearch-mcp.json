@@ -1,0 +1,7 @@
+{
+  "name": "simple-websearch-mcp",
+  "description": "This MCP server enables any MCP client to perform web searches over HTTP using just an endpoint URL and API key, abstracting away AWS SigV4 signing and Bedrock AgentCore protocol translation entirely server-side.",
+  "source_repo": "aws-samples/sample-api-for-websearch-on-agentcore",
+  "source_url": "https://github.com/aws-samples/sample-api-for-websearch-on-agentcore",
+  "install": "# git clone --depth 1 https://github.com/aws-samples/sample-api-for-websearch-on-agentcore\n# See source for mcpServers config block"
+}

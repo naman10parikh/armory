@@ -1,0 +1,7 @@
+{
+  "name": "nexmem-mcp",
+  "description": "A plug-and-play MCP memory server with pluggable database backends that gives AI coding agents a persistent, shared knowledge graph for teams.",
+  "source_repo": "arpanroy41/nexmem-mcp",
+  "source_url": "https://github.com/arpanroy41/nexmem-mcp",
+  "install": "npx -y nexmem-mcp"
+}

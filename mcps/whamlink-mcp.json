@@ -1,0 +1,7 @@
+{
+  "name": "whamlink-mcp",
+  "description": "Lets MCP clients publish a single file to a permanent, shareable link via whamlink. Supports tools for managing links, including registration, publishing, listing, updating access, replacing content, and deleting links.",
+  "source_repo": "billkinddev/whamlink-mcp",
+  "source_url": "https://github.com/billkinddev/whamlink-mcp",
+  "install": "npx -y whamlink-mcp"
+}

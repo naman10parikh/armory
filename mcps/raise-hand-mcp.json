@@ -1,0 +1,7 @@
+{
+  "name": "raise-hand-mcp",
+  "description": "Enables AI agents to send a distress call to a Discord channel and wait for human input, capturing replies or reactions to resume work.",
+  "source_repo": "jjjpanda/raise-hand-mcp",
+  "source_url": "https://github.com/jjjpanda/raise-hand-mcp",
+  "install": "npx -y raise-hand-mcp"
+}

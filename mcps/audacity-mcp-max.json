@@ -1,0 +1,7 @@
+{
+  "name": "audacity-mcp-max",
+  "description": "Connects any MCP-compatible AI assistant to Audacity, providing 132 tools for real-time audio editing, cleanup, mastering, and transcription — all running locally without cloud dependencies.",
+  "source_repo": "robworks-code/audacity-mcp-max",
+  "source_url": "https://github.com/robworks-code/audacity-mcp-max",
+  "install": "# git clone --depth 1 https://github.com/robworks-code/audacity-mcp-max\n# See source for mcpServers config block"
+}

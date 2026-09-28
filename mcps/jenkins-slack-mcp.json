@@ -1,0 +1,7 @@
+{
+  "name": "jenkins-slack-mcp",
+  "description": "Enables triggering Jenkins builds from IDEs with Slack notifications, requiring only a one-time login.",
+  "source_repo": "Seetharam1999/jenkins-slack-mcp",
+  "source_url": "https://github.com/Seetharam1999/jenkins-slack-mcp",
+  "install": "npx -y jenkins-slack-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vibgrate-ai-context",
+  "description": "Local-first MCP server that gives AI assistants codebase intelligence—code graph, drift analysis, vulnerability attribution, and version-correct library docs—all from the user's machine.",
+  "source_repo": "vibgrate/cli",
+  "source_url": "https://github.com/vibgrate/cli",
+  "install": "# git clone --depth 1 https://github.com/vibgrate/cli\n# See source for mcpServers config block"
+}

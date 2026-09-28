@@ -1,0 +1,7 @@
+{
+  "name": "llm-d-bench-mcp",
+  "description": "Enables Claude Code to benchmark llm-d from plain English, providing 35 tools and 5 workflow prompts for probing clusters, planning, deploying, running benchmarks, and analyzing results via the Model Context Protocol.",
+  "source_repo": "TalBenAmii/llm-d-bench-mcp",
+  "source_url": "https://github.com/TalBenAmii/llm-d-bench-mcp",
+  "install": "npx -y llm-d-bench-mcp"
+}

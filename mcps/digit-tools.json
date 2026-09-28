@@ -1,0 +1,7 @@
+{
+  "name": "digit-tools",
+  "description": "MCP stdio server that exposes 95 headless it-tools utilities (crypto, encoding, converters, generators, text, math, and more) through three routing tools (categories, list, execute), with flat JSON schemas, worked examples, and deterministic seeded execution designed for small router models.",
+  "source_repo": "digitable-lol/tools-core",
+  "source_url": "https://github.com/digitable-lol/tools-core",
+  "install": "# git clone --depth 1 https://github.com/digitable-lol/tools-core\n# See source for mcpServers config block"
+}

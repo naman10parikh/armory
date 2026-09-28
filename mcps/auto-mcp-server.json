@@ -1,0 +1,7 @@
+{
+  "name": "auto-mcp-server",
+  "description": "Enables LLMs to interact with any REST API that has an OpenAPI specification by providing a lightweight MCP server that translates between natural language and API calls.",
+  "source_repo": "alanbuxton/auto-mcp-server",
+  "source_url": "https://github.com/alanbuxton/auto-mcp-server",
+  "install": "npx -y auto-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "erc8004-agent-liveness",
+  "description": "Enables users to verify whether an ERC-8004-registered agent is currently reachable by resolving its on-chain registration and performing a live MCP handshake, returning verdicts such as REGISTERED_UNREACHABLE or AGENT_NOT_FOUND.",
+  "source_repo": "nexus-mcp-infra/erc8004-agent-liveness",
+  "source_url": "https://github.com/nexus-mcp-infra/erc8004-agent-liveness",
+  "install": "# git clone --depth 1 https://github.com/nexus-mcp-infra/erc8004-agent-liveness\n# See source for mcpServers config block"
+}

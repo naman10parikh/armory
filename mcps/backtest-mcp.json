@@ -1,0 +1,7 @@
+{
+  "name": "backtest-mcp",
+  "description": "A stock backtesting engine MCP server that fetches stock data, validates and executes dynamic strategies, and generates backtest results and reports.",
+  "source_repo": "Dor1Toes/BackTest_MCP",
+  "source_url": "https://github.com/Dor1Toes/BackTest_MCP",
+  "install": "npx -y BackTest_MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "china-mcp-servers",
+  "description": "Provides MCP servers for Chinese services: holiday checking (statutory holidays and makeup workdays), WeChat push notifications via Server酱, and Baidu translation.",
+  "source_repo": "zackchewa/china-mcp-servers",
+  "source_url": "https://github.com/zackchewa/china-mcp-servers",
+  "install": "# git clone --depth 1 https://github.com/zackchewa/china-mcp-servers\n# See source for mcpServers config block"
+}

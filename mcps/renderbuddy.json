@@ -1,0 +1,7 @@
+{
+  "name": "renderbuddy",
+  "description": "Enables monitoring and control of Blender renders via natural language, providing real-time render status, settings, preview frames, and protected actions like cancellation.",
+  "source_repo": "harshh0p/RenderBuddy",
+  "source_url": "https://github.com/harshh0p/RenderBuddy",
+  "install": "# git clone --depth 1 https://github.com/harshh0p/RenderBuddy\n# See source for mcpServers config block"
+}

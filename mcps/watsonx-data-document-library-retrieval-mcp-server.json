@@ -1,0 +1,7 @@
+{
+  "name": "watsonx-data-document-library-retrieval-mcp-server",
+  "description": "Bridges AI agents with watsonx.data document libraries, enabling natural language queries and intelligent retrieval from document libraries.",
+  "source_repo": "IBM/ibm-watsonxdata-dl-retrieval-mcp-server",
+  "source_url": "https://github.com/IBM/ibm-watsonxdata-dl-retrieval-mcp-server",
+  "install": "npx -y ibm-watsonxdata-dl-retrieval-mcp-server"
+}

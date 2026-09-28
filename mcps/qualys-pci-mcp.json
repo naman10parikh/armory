@@ -1,0 +1,7 @@
+{
+  "name": "qualys-pci-mcp",
+  "description": "A read-only MCP server for the Qualys PCI Merchant API that lets LLM assistants answer questions about PCI compliance posture, such as which hosts are failing PCI or listing high findings.",
+  "source_repo": "RobotDisco/qualys-pci-mcp",
+  "source_url": "https://github.com/RobotDisco/qualys-pci-mcp",
+  "install": "npx -y qualys-pci-mcp"
+}

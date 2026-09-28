@@ -1,0 +1,7 @@
+{
+  "name": "mcp-playbook-server",
+  "description": "Manages project documentation and saves conversation logs within a target project directory, providing tools for creating specs, ADRs, changelogs, runbooks, and syncing prompts/logs to GitHub repositories.",
+  "source_repo": "dwarvesf/mcp-playbook",
+  "source_url": "https://github.com/dwarvesf/mcp-playbook",
+  "install": "# git clone --depth 1 https://github.com/dwarvesf/mcp-playbook\n# See source for mcpServers config block"
+}

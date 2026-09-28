@@ -1,0 +1,7 @@
+{
+  "name": "fallmirror-mcp",
+  "description": "MCP server for foldkit that exposes 7-prime spine, κ-bands, and fold operations as tools and resources, enabling natural language interaction with fold state manipulations and band classification.",
+  "source_repo": "sjgant80-hub/fallmirror-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallmirror-mcp",
+  "install": "npx -y fallmirror-mcp"
+}

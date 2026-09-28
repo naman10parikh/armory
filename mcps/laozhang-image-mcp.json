@@ -1,0 +1,7 @@
+{
+  "name": "laozhang-image-mcp",
+  "description": "Enables image generation and editing using laozhang.ai's OpenAI-compatible API, with tools for text-to-image and image-to-image transformations.",
+  "source_repo": "agentseo/laozhang-image-mcp",
+  "source_url": "https://github.com/agentseo/laozhang-image-mcp",
+  "install": "npx -y laozhang-image-mcp"
+}

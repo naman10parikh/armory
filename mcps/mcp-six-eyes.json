@@ -1,0 +1,7 @@
+{
+  "name": "mcp-six-eyes",
+  "description": "MCP server that gives text-only AI agents the ability to understand images via vision tools, including multi-image analysis, OCR, comparison, and structured extraction. It uses providers like OpenAI, Anthropic, Gemini, and OpenRouter to return plain text descriptions.",
+  "source_repo": "RimunAce/mcp-six-eyes",
+  "source_url": "https://github.com/RimunAce/mcp-six-eyes",
+  "install": "# git clone --depth 1 https://github.com/RimunAce/mcp-six-eyes\n# See source for mcpServers config block"
+}

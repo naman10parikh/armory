@@ -1,0 +1,7 @@
+{
+  "name": "huangtingflux-hub",
+  "description": "Provides an MCP server that guides AI agents through a mandatory three-stage SOP to compress prompts and report token costs, reducing token usage by up to 40%.",
+  "source_repo": "XianDAO-Labs/huangting-flux-hub",
+  "source_url": "https://github.com/XianDAO-Labs/huangting-flux-hub",
+  "install": "# git clone --depth 1 https://github.com/XianDAO-Labs/huangting-flux-hub\n# See source for mcpServers config block"
+}

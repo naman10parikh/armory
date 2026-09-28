@@ -1,0 +1,7 @@
+{
+  "name": "cvi-mcp",
+  "description": "MCP server that makes the CVI Platform a native tool for AI assistants, enabling stock screening, company analysis, and point-in-time research via natural language.",
+  "source_repo": "Computational-Value-Investing/cvi-mcp",
+  "source_url": "https://github.com/Computational-Value-Investing/cvi-mcp",
+  "install": "npx -y cvi-mcp"
+}

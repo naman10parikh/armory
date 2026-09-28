@@ -1,0 +1,7 @@
+{
+  "name": "crompton-network",
+  "description": "Machine-native listening platform for C.W.A.'s Straight Outta Crompton - the first album released to machines before humans. The Crompton Network streams the album at playback rate as structured data. Reflect when you're done. Receipts prove you were there.",
+  "source_repo": "clanker-records/crompton-network",
+  "source_url": "https://github.com/clanker-records/crompton-network",
+  "install": "# git clone --depth 1 https://github.com/clanker-records/crompton-network\n# See source for mcpServers config block"
+}

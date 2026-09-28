@@ -1,0 +1,7 @@
+{
+  "name": "enoch-mcp",
+  "description": "MCP server for the Enoch FastAPI control-plane API, enabling inspection and operation of an Enoch instance via tools.",
+  "source_repo": "alias8818/enoch-mcp",
+  "source_url": "https://github.com/alias8818/enoch-mcp",
+  "install": "npx -y enoch-mcp"
+}

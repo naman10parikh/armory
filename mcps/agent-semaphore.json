@@ -1,0 +1,7 @@
+{
+  "name": "agent-semaphore",
+  "description": "A coordination layer for parallel coding agents that provides intent-carrying claims, conflict prediction, and a serialized landing queue to prevent merge conflicts.",
+  "source_repo": "alwh1te/agent-semaphore",
+  "source_url": "https://github.com/alwh1te/agent-semaphore",
+  "install": "# git clone --depth 1 https://github.com/alwh1te/agent-semaphore\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "travel-animator-mcp",
+  "description": "Enables AI assistants to create animated travel route videos by describing a trip, planning a route, styling the animation, and rendering MP4 files locally. It supports multiple map styles, 3D vehicles, and real-road routing.",
+  "source_repo": "Lascade-Co/travelanimator-mcp",
+  "source_url": "https://github.com/Lascade-Co/travelanimator-mcp",
+  "install": "npx -y travelanimator-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stateful-mcp-server-on-ecs-fargate",
+  "description": "Enables MCP sessions to survive ECS Fargate deployments by using Redis-backed tool state and stateless Streamable HTTP transport.",
+  "source_repo": "bharisagar/MCP",
+  "source_url": "https://github.com/bharisagar/MCP",
+  "install": "# git clone --depth 1 https://github.com/bharisagar/MCP\n# See source for mcpServers config block"
+}

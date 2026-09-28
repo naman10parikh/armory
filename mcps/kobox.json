@@ -1,0 +1,7 @@
+{
+  "name": "kobox",
+  "description": "Enables controlling a Teenage Engineering EP-133 K.O. II via natural language, converting plain language into MIDI commands for triggering pads, playing scales, and sequencing patterns.",
+  "source_repo": "yangyue1974/kobox",
+  "source_url": "https://github.com/yangyue1974/kobox",
+  "install": "# git clone --depth 1 https://github.com/yangyue1974/kobox\n# See source for mcpServers config block"
+}

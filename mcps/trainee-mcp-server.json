@@ -1,0 +1,7 @@
+{
+  "name": "trainee-mcp-server",
+  "description": "A training MCP server built with TypeScript that provides basic tools (add, get_weather) and a resource (favorite-cities) for use with Claude Desktop. Weather data is fetched from Open-Meteo without requiring an API key.",
+  "source_repo": "whmi1/trainee-mcp-server",
+  "source_url": "https://github.com/whmi1/trainee-mcp-server",
+  "install": "npx -y trainee-mcp-server"
+}

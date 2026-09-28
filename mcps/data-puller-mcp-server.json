@@ -1,0 +1,7 @@
+{
+  "name": "data-puller-mcp-server",
+  "description": "Enables fetching live crypto market data from Binance, Bybit, and Hyperliquid via MCP tools, including klines, orderbook, funding rates, technical indicators, and market breadth for real-time analysis by LLMs.",
+  "source_repo": "arisloth/datapuller-MCP-server",
+  "source_url": "https://github.com/arisloth/datapuller-MCP-server",
+  "install": "npx -y datapuller-MCP-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "delovye-linii-mcp",
+  "description": "An MCP server for the Delovye Linii logistics API, enabling cargo delivery cost calculation, order creation, tracking, and directory lookups for cities and terminals.",
+  "source_repo": "theYahia/delovye-linii-mcp",
+  "source_url": "https://github.com/theYahia/delovye-linii-mcp",
+  "install": "npx -y delovye-linii-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "commonlands-mcp",
+  "description": "Enables lens selection, field of view calculation, Shopify product truth verification, and cart handling for Commonlands precision optics.",
+  "source_repo": "CommonlandsAbbe/commonlands-mcp",
+  "source_url": "https://github.com/CommonlandsAbbe/commonlands-mcp",
+  "install": "npx -y commonlands-mcp"
+}

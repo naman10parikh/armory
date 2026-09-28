@@ -1,0 +1,7 @@
+{
+  "name": "omnibrowse-agent",
+  "description": "A browser research MCP server that emphasizes evidence-centric workflows, secure browser automation, and deterministic data extraction, with structured responses and artifact-based screenshots.",
+  "source_repo": "deer-001/OmniBrowse-Agent",
+  "source_url": "https://github.com/deer-001/OmniBrowse-Agent",
+  "install": "# git clone --depth 1 https://github.com/deer-001/OmniBrowse-Agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "osint-tools-mcp-server",
+  "description": "A comprehensive MCP server that exposes multiple OSINT tools to AI assistants like Claude, enabling sophisticated reconnaissance and information gathering tasks using industry-standard OSINT tools.",
+  "source_repo": "frishtik/osint-tools-mcp-server",
+  "source_url": "https://github.com/frishtik/osint-tools-mcp-server",
+  "install": "npx -y osint-tools-mcp-server"
+}

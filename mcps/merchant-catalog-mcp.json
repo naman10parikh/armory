@@ -1,0 +1,7 @@
+{
+  "name": "merchant-catalog-mcp",
+  "description": "A demonstration MCP server that exposes a mock merchant catalog with tools for product search, availability checking, and order placement, along with a catalog resource and gift-finder prompt.",
+  "source_repo": "Thethirdone3/merchant-catalog-mcp",
+  "source_url": "https://github.com/Thethirdone3/merchant-catalog-mcp",
+  "install": "npx -y merchant-catalog-mcp"
+}

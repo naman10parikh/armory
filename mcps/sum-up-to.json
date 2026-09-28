@@ -1,0 +1,7 @@
+{
+  "name": "sum-up-to",
+  "description": "Computes the sum of dictionary values for keys less than or equal to a given key, treating the dictionary as sorted by key order. Returns 0 for an empty dictionary or when no keys satisfy the condition.",
+  "source_repo": "mcp-dir/carf_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/carf_processo-mcp",
+  "install": "npx -y carf_processo-mcp"
+}

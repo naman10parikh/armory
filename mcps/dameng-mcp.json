@@ -1,0 +1,7 @@
+{
+  "name": "dameng-mcp",
+  "description": "MCP server for Dameng database that enables querying and managing database objects via JDBC, including tools for schemas, tables, views, indexes, and more.",
+  "source_repo": "manzuxs/dameng-mcp",
+  "source_url": "https://github.com/manzuxs/dameng-mcp",
+  "install": "npx -y dameng-mcp"
+}

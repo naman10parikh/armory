@@ -1,0 +1,7 @@
+{
+  "name": "mcpd-proxy",
+  "description": "An MCP server that acts as a proxy between IDEs and the mcpd daemon, exposing all mcpd-managed MCP servers through a unified interface.",
+  "source_repo": "mozilla-ai/mcpd-proxy",
+  "source_url": "https://github.com/mozilla-ai/mcpd-proxy",
+  "install": "# git clone --depth 1 https://github.com/mozilla-ai/mcpd-proxy\n# See source for mcpServers config block"
+}

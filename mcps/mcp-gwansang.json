@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gwansang",
+  "description": "Extracts deterministic facial features from photos locally using MediaPipe, returning structured JSON with measurements like face shape ratios and symmetry.",
+  "source_repo": "molpass/mcp-gwansang",
+  "source_url": "https://github.com/molpass/mcp-gwansang",
+  "install": "# git clone --depth 1 https://github.com/molpass/mcp-gwansang\n# See source for mcpServers config block"
+}

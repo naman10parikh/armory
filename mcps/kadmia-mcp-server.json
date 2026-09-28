@@ -1,0 +1,7 @@
+{
+  "name": "kadmia-mcp-server",
+  "description": "Integrates Kadmia's JavaScript learning platform with AI assistants to provide personalized explanations and track learning progress.",
+  "source_repo": "Rakeshpatel87p/kadmia-mcp",
+  "source_url": "https://github.com/Rakeshpatel87p/kadmia-mcp",
+  "install": "npx -y kadmia-mcp"
+}

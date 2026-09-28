@@ -1,0 +1,7 @@
+{
+  "name": "qbo-multicompany-mcp",
+  "description": "A self-hosted MCP server that provides AI assistants with secure access to multiple QuickBooks Online company files through a single connection, featuring a company registry, OAuth-based authorization, and comprehensive read/write tools.",
+  "source_repo": "LatinumLabs/QBO-Multicompany-MCP",
+  "source_url": "https://github.com/LatinumLabs/QBO-Multicompany-MCP",
+  "install": "npx -y QBO-Multicompany-MCP"
+}

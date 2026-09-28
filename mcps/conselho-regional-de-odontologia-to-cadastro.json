@@ -1,0 +1,7 @@
+{
+  "name": "conselho-regional-de-odontologia-to-cadastro",
+  "description": "Enables natural language queries to official dental council registration data in Tocantins, Brazil. Read-only, hosted, and works with any MCP client.",
+  "source_repo": "mcp-dir/cro_to_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_to_cadastro-mcp",
+  "install": "npx -y cro_to_cadastro-mcp"
+}

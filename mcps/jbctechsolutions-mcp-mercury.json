@@ -1,0 +1,7 @@
+{
+  "name": "jbctechsolutions-mcp-mercury",
+  "description": "Read-only MCP server for Mercury business banking — accounts, transactions, and statements.",
+  "source_repo": "jbctechsolutions/mcp-mercury",
+  "source_url": "https://github.com/jbctechsolutions/mcp-mercury",
+  "install": "# git clone --depth 1 https://github.com/jbctechsolutions/mcp-mercury\n# See source for mcpServers config block"
+}

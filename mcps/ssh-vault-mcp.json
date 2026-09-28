@@ -1,0 +1,7 @@
+{
+  "name": "ssh-vault-mcp",
+  "description": "Enables AI agents to securely access encrypted secrets (SSH keys, API tokens, passwords) with real-time user approval via Passkey, and supports SSH remote execution through the MCP protocol.",
+  "source_repo": "qsobad/ssh-vault-mcp",
+  "source_url": "https://github.com/qsobad/ssh-vault-mcp",
+  "install": "npx -y ssh-vault-mcp"
+}

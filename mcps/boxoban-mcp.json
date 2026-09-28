@@ -1,0 +1,7 @@
+{
+  "name": "boxoban-mcp",
+  "description": "Enables users to load and solve Boxoban puzzles by providing tools to get game state, list valid moves, and take actions.",
+  "source_repo": "aplassard/boxoban-mcp",
+  "source_url": "https://github.com/aplassard/boxoban-mcp",
+  "install": "npx -y boxoban-mcp"
+}

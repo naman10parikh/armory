@@ -1,0 +1,7 @@
+{
+  "name": "northcinder",
+  "description": "NorthCinder is an MCP server that enables AI agents to compare products against a brief, rank them with explanations, and support approved checkout, all while running locally with privacy controls.",
+  "source_repo": "jdshfhds/northcinder",
+  "source_url": "https://github.com/jdshfhds/northcinder",
+  "install": "# git clone --depth 1 https://github.com/jdshfhds/northcinder\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nexo-agent-server",
+  "description": "Durable MCP control plane for coordinating agent networks, with message ledger, idempotent delivery, and cryptographic identity for each orchestrator.",
+  "source_repo": "soyerno/nexo-agent-server",
+  "source_url": "https://github.com/soyerno/nexo-agent-server",
+  "install": "# git clone --depth 1 https://github.com/soyerno/nexo-agent-server\n# See source for mcpServers config block"
+}

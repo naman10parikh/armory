@@ -1,0 +1,7 @@
+{
+  "name": "yafl-mcp-server",
+  "description": "Enables AI agents to securely transfer files between machines via encrypted, expiring share links, with tools for upload, download, status checks, and link management.",
+  "source_repo": "yafldev/mcp",
+  "source_url": "https://github.com/yafldev/mcp",
+  "install": "# git clone --depth 1 https://github.com/yafldev/mcp\n# See source for mcpServers config block"
+}

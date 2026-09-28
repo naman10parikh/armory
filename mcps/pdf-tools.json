@@ -1,0 +1,7 @@
+{
+  "name": "pdf-tools",
+  "description": "The local PDF workflow for Claude Desktop and MCP hosts: fill, sign, merge, split, extract, and analyze PDFs without sending files to a web app.",
+  "source_repo": "Open-Document-Alliance/PDF-Tools",
+  "source_url": "https://github.com/Open-Document-Alliance/PDF-Tools",
+  "install": "# git clone --depth 1 https://github.com/Open-Document-Alliance/PDF-Tools\n# See source for mcpServers config block"
+}

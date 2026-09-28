@@ -1,0 +1,7 @@
+{
+  "name": "clickup-mcp-server-enhanced-fork",
+  "description": "Enables AI assistants to manage ClickUp tasks, dependencies, time tracking, documents, and workspace organization via natural language, with enhanced task dependency features and improved reliability.",
+  "source_repo": "jaychoww/clickup-mcp-server",
+  "source_url": "https://github.com/jaychoww/clickup-mcp-server",
+  "install": "npx -y clickup-mcp-server"
+}

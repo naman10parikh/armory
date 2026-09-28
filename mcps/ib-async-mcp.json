@@ -1,0 +1,7 @@
+{
+  "name": "ib-async-mcp",
+  "description": "MCP server for Interactive Brokers API, enabling account management, trading, market data, options, scanners, and news via natural language.",
+  "source_repo": "atomcp-ai/ib-async-mcp",
+  "source_url": "https://github.com/atomcp-ai/ib-async-mcp",
+  "install": "npx -y ib-async-mcp"
+}

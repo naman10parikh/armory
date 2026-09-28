@@ -1,0 +1,7 @@
+{
+  "name": "optimai-search-mcp",
+  "description": "Enables Web3-focused web searches via the OptimAI External Search API, providing tools to start, retrieve, list, and cancel searches from any MCP-compatible AI host.",
+  "source_repo": "OptimaiNetwork/optimai-search-mcp",
+  "source_url": "https://github.com/OptimaiNetwork/optimai-search-mcp",
+  "install": "npx -y optimai-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "smart-fhir",
+  "description": "Enables read-only SMART on FHIR R4 discovery, search, and read operations against public synthetic sandboxes, returning actual empty results and 404s rather than inventing patient data.",
+  "source_repo": "swami8791/smart-fhir-mcp",
+  "source_url": "https://github.com/swami8791/smart-fhir-mcp",
+  "install": "npx -y smart-fhir-mcp"
+}

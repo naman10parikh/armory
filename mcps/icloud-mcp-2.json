@@ -1,0 +1,7 @@
+{
+  "name": "icloud-mcp-2",
+  "description": "Unified Apple/iCloud MCP server for Calendar, Contacts, and Mail using CalDAV, CardDAV, IMAP, and SMTP protocols with app-specific passwords.",
+  "source_repo": "ThomasCrouzet/icloud-mcp",
+  "source_url": "https://github.com/ThomasCrouzet/icloud-mcp",
+  "install": "npx -y icloud-mcp"
+}

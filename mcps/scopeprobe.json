@@ -1,0 +1,7 @@
+{
+  "name": "scopeprobe",
+  "description": "Enables AI to measure DC voltage and waveform statistics from DreamSourceLab DSCope oscilloscopes via MCP tools.",
+  "source_repo": "fenghelao/ScopeProbe",
+  "source_url": "https://github.com/fenghelao/ScopeProbe",
+  "install": "# git clone --depth 1 https://github.com/fenghelao/ScopeProbe\n# See source for mcpServers config block"
+}

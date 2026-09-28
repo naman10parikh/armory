@@ -1,0 +1,7 @@
+{
+  "name": "weni-mcp-server",
+  "description": "MCP server that enables querying the Weni Insights Engine API for conversation metrics such as totals, resolved, unresolved, and transferred conversations.",
+  "source_repo": "AlanJaeger/weni-mcp",
+  "source_url": "https://github.com/AlanJaeger/weni-mcp",
+  "install": "npx -y weni-mcp"
+}

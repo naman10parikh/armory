@@ -1,0 +1,7 @@
+{
+  "name": "alipay-mcp-server",
+  "description": "An MCP server that exposes Alipay AI Pay capabilities to AI agents, enabling skill discovery, payment integration guides, and merchant onboarding workflows via Alipay's payment APIs.",
+  "source_repo": "Chromatic0618/alipay-mcp-server",
+  "source_url": "https://github.com/Chromatic0618/alipay-mcp-server",
+  "install": "npx -y alipay-mcp-server"
+}

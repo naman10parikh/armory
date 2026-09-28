@@ -1,0 +1,7 @@
+{
+  "name": "rosbridge-mcp",
+  "description": "Connects AI agents to ROS 2 robots via rosbridge, enabling observation, inspection, and control of robot topics, services, and actions through natural language.",
+  "source_repo": "hieutachi/rosbridge-mcp",
+  "source_url": "https://github.com/hieutachi/rosbridge-mcp",
+  "install": "npx -y rosbridge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eu-vat-validator-vies",
+  "description": "Validates EU and Northern Ireland VAT numbers against the official VIES service, returning validity, company name and address, and distinguishing invalid from unavailable. Supports bulk checking up to 100 VAT IDs.",
+  "source_repo": "apifymcpfactory-droid/eu-vat-validator-mcp",
+  "source_url": "https://github.com/apifymcpfactory-droid/eu-vat-validator-mcp",
+  "install": "npx -y eu-vat-validator-mcp"
+}

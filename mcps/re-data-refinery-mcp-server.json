@@ -1,0 +1,7 @@
+{
+  "name": "re-data-refinery-mcp-server",
+  "description": "Turns messy real estate data into clean, scored, AI-ready property intelligence for Columbus, OH metro, with pay-per-query via x402 micropayments. Enables natural-language search, investment scoring, and enrichment tools for MCP clients.",
+  "source_repo": "areshms/re-refinery-mcp",
+  "source_url": "https://github.com/areshms/re-refinery-mcp",
+  "install": "npx -y re-refinery-mcp"
+}

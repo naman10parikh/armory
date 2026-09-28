@@ -1,0 +1,7 @@
+{
+  "name": "npc",
+  "description": "A browser automation MCP server that lets your IDE control your real browser (Chrome/Brave) through natural language commands, handling side quests like messaging, form filling, and navigation without context switching.",
+  "source_repo": "freyzo/npc",
+  "source_url": "https://github.com/freyzo/npc",
+  "install": "# git clone --depth 1 https://github.com/freyzo/npc\n# See source for mcpServers config block"
+}

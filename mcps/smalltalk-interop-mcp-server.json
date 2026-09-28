@@ -1,0 +1,7 @@
+{
+  "name": "smalltalk-interop-mcp-server",
+  "description": "A local MCP server to communicate local Pharo & Squeak Smalltalk image (successor of pharo-smalltalk-interop-mcp-server)",
+  "source_repo": "mumez/smalltalk-interop-mcp-server",
+  "source_url": "https://github.com/mumez/smalltalk-interop-mcp-server",
+  "install": "npx -y smalltalk-interop-mcp-server"
+}

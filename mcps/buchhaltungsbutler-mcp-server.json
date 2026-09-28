@@ -1,0 +1,7 @@
+{
+  "name": "buchhaltungsbutler-mcp-server",
+  "description": "Enables AI assistants to interact with the BuchhaltungsButler accounting API via MCP, providing tools for managing receipts, transactions, invoices, postings, and master data directly from Claude Desktop and other MCP-compatible clients.",
+  "source_repo": "milomymilo/buchhaltungsbutler-mcp",
+  "source_url": "https://github.com/milomymilo/buchhaltungsbutler-mcp",
+  "install": "npx -y buchhaltungsbutler-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hr-assist",
+  "description": "Automates HR workflows such as employee onboarding, leave management, and ticket tracking through natural language prompts in Claude Desktop.",
+  "source_repo": "saibalajijammu/HR_helpdesk",
+  "source_url": "https://github.com/saibalajijammu/HR_helpdesk",
+  "install": "# git clone --depth 1 https://github.com/saibalajijammu/HR_helpdesk\n# See source for mcpServers config block"
+}

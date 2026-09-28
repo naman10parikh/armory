@@ -1,0 +1,7 @@
+{
+  "name": "agentroots",
+  "description": "AgentRoots is an MCP server for agent continuity that preserves goals, findings, and evidence across sessions. It enables agents to propose, review, and reuse compact, evidence-backed state instead of replaying transcripts.",
+  "source_repo": "shanmukha-here/agentroots",
+  "source_url": "https://github.com/shanmukha-here/agentroots",
+  "install": "# git clone --depth 1 https://github.com/shanmukha-here/agentroots\n# See source for mcpServers config block"
+}

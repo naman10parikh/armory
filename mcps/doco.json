@@ -1,0 +1,7 @@
+{
+  "name": "doco",
+  "description": "Doco is an open-source collaborative document workspace where humans and AI agents write together. Its MCP server gives Claude Code and Cursor stable block-level addressing, version-protected writes, Markdown round-trip, and shared access to the same live documents.",
+  "source_repo": "songofhawk/doco",
+  "source_url": "https://github.com/songofhawk/doco",
+  "install": "# git clone --depth 1 https://github.com/songofhawk/doco\n# See source for mcpServers config block"
+}

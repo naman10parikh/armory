@@ -1,0 +1,7 @@
+{
+  "name": "daft-mcp",
+  "description": "MCP server that enables AI assistants to search Irish property listings on Daft.ie via the daftlistings library.",
+  "source_repo": "damosullivan/daft-mcp",
+  "source_url": "https://github.com/damosullivan/daft-mcp",
+  "install": "npx -y daft-mcp"
+}

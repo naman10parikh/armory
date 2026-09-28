@@ -1,0 +1,7 @@
+{
+  "name": "raw-sql-mcp",
+  "description": "Raw SQL MCP is a STDIO MCP server for executing raw SQL against SQL Server, SQLite, PostgreSQL, MySQL, and MariaDB.",
+  "source_repo": "KifoPL/RawSqlMcp",
+  "source_url": "https://github.com/KifoPL/RawSqlMcp",
+  "install": "# git clone --depth 1 https://github.com/KifoPL/RawSqlMcp\n# See source for mcpServers config block"
+}

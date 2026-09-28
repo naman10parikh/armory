@@ -1,0 +1,7 @@
+{
+  "name": "mochi-quest",
+  "description": "Enables AI agents to act as personal growth coaches, allowing users to set goals, receive personalized daily tasks, and track progress with dynamic replanning and reward systems.",
+  "source_repo": "ATaiIsHere/mochi-quest",
+  "source_url": "https://github.com/ATaiIsHere/mochi-quest",
+  "install": "# git clone --depth 1 https://github.com/ATaiIsHere/mochi-quest\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yasin-mcp",
+  "description": "Provides read-only, structured access to Yasin ecosystem information (project registry, documentation, GitHub state, diagnostics) through the MCP protocol, enabling AI agents to query without direct repository access.",
+  "source_repo": "yusi20006-max/Yasin-MCP",
+  "source_url": "https://github.com/yusi20006-max/Yasin-MCP",
+  "install": "npx -y Yasin-MCP"
+}

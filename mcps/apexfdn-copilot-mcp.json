@@ -1,0 +1,7 @@
+{
+  "name": "apexfdn-copilot-mcp",
+  "description": "Provides Web3 founders with tools for project scoring, portfolio matching, fund matching, hackathon discovery, jurisdiction analysis, Twitter audit, and smart contract security review. Works with MCP-compatible assistants without transmitting file contents.",
+  "source_repo": "Apex-Foundation/copilot-mcp",
+  "source_url": "https://github.com/Apex-Foundation/copilot-mcp",
+  "install": "npx -y copilot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nyumba-mcp",
+  "description": "MCP server for Kenya housing — rental market guide, tenant rights, building permits, affordable housing programs, housing finance.",
+  "source_repo": "gabrielmahia/nyumba-mcp",
+  "source_url": "https://github.com/gabrielmahia/nyumba-mcp",
+  "install": "npx -y nyumba-mcp"
+}

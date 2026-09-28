@@ -1,0 +1,7 @@
+{
+  "name": "tax-law-mcp",
+  "description": "Provides access to Japanese tax law data from official sources via a local web server on Windows.",
+  "source_repo": "xqzimgz/tax-law-mcp",
+  "source_url": "https://github.com/xqzimgz/tax-law-mcp",
+  "install": "npx -y tax-law-mcp"
+}

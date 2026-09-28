@@ -1,0 +1,7 @@
+{
+  "name": "kingdee-mcp-server",
+  "description": "Enables AI assistants to operate Kingdee Cloud Star ERP via natural language, including querying, creating, submitting, auditing, and deleting business documents.",
+  "source_repo": "WaHaiLong/KingdeeMCP",
+  "source_url": "https://github.com/WaHaiLong/KingdeeMCP",
+  "install": "# git clone --depth 1 https://github.com/WaHaiLong/KingdeeMCP\n# See source for mcpServers config block"
+}

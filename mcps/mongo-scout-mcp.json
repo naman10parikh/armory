@@ -1,0 +1,7 @@
+{
+  "name": "mongo-scout-mcp",
+  "description": "A production-ready MCP server for MongoDB with AI-powered tools for exploration, querying, diagnostics, monitoring, data quality, and safe writes.",
+  "source_repo": "bluwork/mongo-scout-mcp",
+  "source_url": "https://github.com/bluwork/mongo-scout-mcp",
+  "install": "npx -y mongo-scout-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gistemp",
+  "description": "Enables querying NASA GISTEMP global surface temperature data through natural language or direct tool calls, part of Pipeworx MCP gateway.",
+  "source_repo": "pipeworx-io/mcp-gistemp",
+  "source_url": "https://github.com/pipeworx-io/mcp-gistemp",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-gistemp\n# See source for mcpServers config block"
+}

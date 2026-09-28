@@ -1,0 +1,7 @@
+{
+  "name": "skill-vault",
+  "description": "A self-hostable semantic skill registry for AI agents, providing searchable, versioned, and verified skills over a single MCP endpoint with per-agent private vaults and trust tiers.",
+  "source_repo": "vikasudasi/skill-vault",
+  "source_url": "https://github.com/vikasudasi/skill-vault",
+  "install": "# git clone --depth 1 https://github.com/vikasudasi/skill-vault\n# See source for mcpServers config block"
+}

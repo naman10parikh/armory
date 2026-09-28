@@ -1,0 +1,7 @@
+{
+  "name": "kimi-code-memory-mcp",
+  "description": "Exposes TencentDB Agent Memory as MCP tools for Kimi Code CLI, providing long-term memory across sessions with L0-L3 memory capabilities (raw storage, atomic facts, scene blocks, user persona).",
+  "source_repo": "perinchiang/kimi-code-memory-mcp",
+  "source_url": "https://github.com/perinchiang/kimi-code-memory-mcp",
+  "install": "npx -y kimi-code-memory-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-trellis",
+  "description": "ost-agnostic MCP + OAuth ports — you bring the runtime and IdP; the library owns the connector protocol. Web-standard Request → Response. Same handler on Cloudflare Workers, Next.js App Router, Deno, Bun, and Node HTTP via mcp-trellis/node. Zero runtime dependencies.",
+  "source_repo": "amir1824/mcp-trellis",
+  "source_url": "https://github.com/amir1824/mcp-trellis",
+  "install": "# git clone --depth 1 https://github.com/amir1824/mcp-trellis\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "anthropic-admin-mcp",
+  "description": "Full coverage of Anthropic Admin API to manage organization, workspaces, members, API keys, usage, and costs via natural language from any MCP client.",
+  "source_repo": "Trushtonfactory/anthropic-admin-mcp",
+  "source_url": "https://github.com/Trushtonfactory/anthropic-admin-mcp",
+  "install": "npx -y anthropic-admin-mcp"
+}

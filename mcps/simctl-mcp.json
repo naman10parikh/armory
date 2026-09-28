@@ -1,0 +1,7 @@
+{
+  "name": "simctl-mcp",
+  "description": "A Model Context Protocol server implementation for iOS Simulator control, providing tools for device management, app operations, permissions, system features, and certificate handling.",
+  "source_repo": "ambar/simctl-mcp",
+  "source_url": "https://github.com/ambar/simctl-mcp",
+  "install": "npx -y simctl-mcp"
+}

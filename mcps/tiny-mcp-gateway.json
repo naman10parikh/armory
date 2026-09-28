@@ -1,0 +1,7 @@
+{
+  "name": "tiny-mcp-gateway",
+  "description": "A zero-dependency MCP proxy/gateway server that aggregates multiple MCP servers, routes tools by prefix, load balances, and enforces authentication and rate limits.",
+  "source_repo": "hussain-alsaibai/tiny-mcp-gateway",
+  "source_url": "https://github.com/hussain-alsaibai/tiny-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/hussain-alsaibai/tiny-mcp-gateway\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xs-studio-mcp",
+  "description": "MCP server for XS Studio that integrates with CODESYS toolkit and adds a custom create_dut tool, enabling project management, code generation, and DUT creation workflows.",
+  "source_repo": "JustinGZJ/xs-studio-mcp",
+  "source_url": "https://github.com/JustinGZJ/xs-studio-mcp",
+  "install": "npx -y xs-studio-mcp"
+}

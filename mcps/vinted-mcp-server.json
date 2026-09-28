@@ -1,0 +1,7 @@
+{
+  "name": "vinted-mcp-server",
+  "description": "Enables AI assistants to search, browse, and discover second-hand items on Vinted via a Model Context Protocol server.",
+  "source_repo": "Rbillon59/vinted-mcp-server",
+  "source_url": "https://github.com/Rbillon59/vinted-mcp-server",
+  "install": "npx -y vinted-mcp-server"
+}

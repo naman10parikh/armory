@@ -1,0 +1,7 @@
+{
+  "name": "rlm-knowledge-base",
+  "description": "An MCP server that enables Claude Desktop to search and read local documents via full-text and fuzzy search, providing direct access to indexed files without chunking.",
+  "source_repo": "cgaeking/rlm-connector",
+  "source_url": "https://github.com/cgaeking/rlm-connector",
+  "install": "# git clone --depth 1 https://github.com/cgaeking/rlm-connector\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "localizely-mcp",
+  "description": "MCP server for Localizely that enables managing translation files and projects from any MCP client via natural language.",
+  "source_repo": "adborroto/localizely-mcp",
+  "source_url": "https://github.com/adborroto/localizely-mcp",
+  "install": "npx -y localizely-mcp"
+}

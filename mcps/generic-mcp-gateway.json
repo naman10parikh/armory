@@ -1,0 +1,7 @@
+{
+  "name": "generic-mcp-gateway",
+  "description": "A universal agent gateway that integrates MCP tools (memory, reminders, web search, email, calendar, etc.) with multi-channel messaging (Telegram, QQ) and a heartbeat system for autonomous life simulation.",
+  "source_repo": "xiaoyu-sweet/mcp-gateway",
+  "source_url": "https://github.com/xiaoyu-sweet/mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/xiaoyu-sweet/mcp-gateway\n# See source for mcpServers config block"
+}

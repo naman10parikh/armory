@@ -1,6 +1,6 @@
 {
   "name": "apifox-mcp-server-2",
-  "description": "Apifox Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "apifox/apifox-mcp-server",
   "source_url": "https://mcp.so/server/apifox-mcp-server/apifox",
   "install": "npx -y apifox-mcp-server"

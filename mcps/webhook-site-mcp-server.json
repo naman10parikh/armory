@@ -1,0 +1,7 @@
+{
+  "name": "webhook-site-mcp-server",
+  "description": "Enables LLM agents to create, read, update, and delete Webhook.site tokens, list and retrieve captured requests, and manage webhook configurations via the Webhook.site API.",
+  "source_repo": "js-cohn/Webhook.site-FastMCP",
+  "source_url": "https://github.com/js-cohn/Webhook.site-FastMCP",
+  "install": "# git clone --depth 1 https://github.com/js-cohn/Webhook.site-FastMCP\n# See source for mcpServers config block"
+}

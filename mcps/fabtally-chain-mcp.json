@@ -1,0 +1,7 @@
+{
+  "name": "fabtally-chain-mcp",
+  "description": "MCP server providing on-chain monitoring reads such as ENS expiry, gas prices, token unlocks, and oracle health via the FabTally Chain API. It supports stdio and streamable-http transports, is read-only and keyless, with pay-per-call tools.",
+  "source_repo": "zvmzaretsky/fabtally-chain-mcp",
+  "source_url": "https://github.com/zvmzaretsky/fabtally-chain-mcp",
+  "install": "npx -y fabtally-chain-mcp"
+}

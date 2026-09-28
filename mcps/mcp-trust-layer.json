@@ -1,0 +1,7 @@
+{
+  "name": "mcp-trust-layer",
+  "description": "Security scanner and trust verification layer for MCP ecosystem, enabling users to scan PyPI packages and GitHub repos for secrets, dangerous patterns, and prompt injection vectors, and compare security scores.",
+  "source_repo": "pst291291/mcp-trust-layer",
+  "source_url": "https://github.com/pst291291/mcp-trust-layer",
+  "install": "# git clone --depth 1 https://github.com/pst291291/mcp-trust-layer\n# See source for mcpServers config block"
+}

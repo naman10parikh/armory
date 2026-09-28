@@ -1,0 +1,7 @@
+{
+  "name": "frameshot",
+  "description": "Enables AI agents to render and screenshot isolated UI components instantly across multiple browsers without a dev server or Storybook.",
+  "source_repo": "kamegoro/frameshot",
+  "source_url": "https://github.com/kamegoro/frameshot",
+  "install": "# git clone --depth 1 https://github.com/kamegoro/frameshot\n# See source for mcpServers config block"
+}

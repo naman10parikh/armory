@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-duckdb",
+  "description": "Enables LLMs to interact with DuckDB databases through MCP tools for SQL queries, table management, data import/export, and schema inspection, with optional read-only mode for safety.",
+  "source_repo": "SyneHQ/mcp-server-duckdb",
+  "source_url": "https://github.com/SyneHQ/mcp-server-duckdb",
+  "install": "# git clone --depth 1 https://github.com/SyneHQ/mcp-server-duckdb\n# See source for mcpServers config block"
+}

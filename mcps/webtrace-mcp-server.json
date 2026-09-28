@@ -1,0 +1,7 @@
+{
+  "name": "webtrace-mcp-server",
+  "description": "Exposes reverse engineering capabilities via MCP protocol, enabling AI agents to automatically detect, analyze, trace, and deobfuscate JSVMP protected JavaScript code.",
+  "source_repo": "kings0527/web-trace",
+  "source_url": "https://github.com/kings0527/web-trace",
+  "install": "# git clone --depth 1 https://github.com/kings0527/web-trace\n# See source for mcpServers config block"
+}

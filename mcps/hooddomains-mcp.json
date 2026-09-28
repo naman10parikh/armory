@@ -1,0 +1,7 @@
+{
+  "name": "hooddomains-mcp",
+  "description": "Enables AI agents to resolve, lookup, and register .hood names on Robinhood Chain via on-chain contracts.",
+  "source_repo": "Hooddomains/hoodmcp",
+  "source_url": "https://github.com/Hooddomains/hoodmcp",
+  "install": "# git clone --depth 1 https://github.com/Hooddomains/hoodmcp\n# See source for mcpServers config block"
+}

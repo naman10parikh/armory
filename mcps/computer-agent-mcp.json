@@ -1,0 +1,7 @@
+{
+  "name": "computer-agent-mcp",
+  "description": "A black-box desktop automation MCP server that handles screenshots, coordinates, and clicks internally to complete tasks given by the user.",
+  "source_repo": "visionki/computer-agent-mcp",
+  "source_url": "https://github.com/visionki/computer-agent-mcp",
+  "install": "npx -y computer-agent-mcp"
+}

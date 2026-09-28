@@ -1,0 +1,7 @@
+{
+  "name": "lxmusic",
+  "description": "Multi-source music search and playback MCP server supporting QQ Music, NetEase Cloud, and local files with playlist management.",
+  "source_repo": "tiancheng91/lxmusic",
+  "source_url": "https://github.com/tiancheng91/lxmusic",
+  "install": "# git clone --depth 1 https://github.com/tiancheng91/lxmusic\n# See source for mcpServers config block"
+}

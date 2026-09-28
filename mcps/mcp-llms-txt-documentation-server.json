@@ -1,0 +1,7 @@
+{
+  "name": "mcp-llms-txt-documentation-server",
+  "description": "Provides a user-defined list of llms.txt files and a fetch_docs tool to read documentation URLs from those files, enabling controlled and auditable documentation retrieval for MCP host applications.",
+  "source_repo": "fastmcp-me/mcpdoc",
+  "source_url": "https://github.com/fastmcp-me/mcpdoc",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/mcpdoc\n# See source for mcpServers config block"
+}

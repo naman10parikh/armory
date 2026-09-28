@@ -1,0 +1,7 @@
+{
+  "name": "scrapedatshi-mcp",
+  "description": "Enables Claude to scrape, crawl, extract data, and sync to vector databases using scrapedatshi's RAG pipeline, with support for multiple embedding and vector DB providers.",
+  "source_repo": "mxchris18/scrapedatshi-mcp",
+  "source_url": "https://github.com/mxchris18/scrapedatshi-mcp",
+  "install": "npx -y scrapedatshi-mcp"
+}

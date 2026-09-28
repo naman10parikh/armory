@@ -1,0 +1,7 @@
+{
+  "name": "cortex-gateway",
+  "description": "A federated MCP gateway that consolidates multiple plain-HTTP backends into a single, OAuth-protected MCP server, enabling agents to access diverse tools through one endpoint with centralized authentication and audit.",
+  "source_repo": "wellknownmcp/cortex-gateway",
+  "source_url": "https://github.com/wellknownmcp/cortex-gateway",
+  "install": "# git clone --depth 1 https://github.com/wellknownmcp/cortex-gateway\n# See source for mcpServers config block"
+}

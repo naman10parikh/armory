@@ -1,0 +1,7 @@
+{
+  "name": "research-desk-mcp",
+  "description": "Enables AI assistants to manage structured research ideas and retrieve recent arXiv papers by idea ID, automatically generating Markdown reports.",
+  "source_repo": "BADARRASHEED/research_desk_mcp",
+  "source_url": "https://github.com/BADARRASHEED/research_desk_mcp",
+  "install": "npx -y research_desk_mcp"
+}

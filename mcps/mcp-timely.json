@@ -1,0 +1,7 @@
+{
+  "name": "mcp-timely",
+  "description": "A read-only MCP server for querying Timely time tracking data, providing tools for project overviews, time spent summaries, and work log entries.",
+  "source_repo": "CaseyRo/mcp-timely",
+  "source_url": "https://github.com/CaseyRo/mcp-timely",
+  "install": "# git clone --depth 1 https://github.com/CaseyRo/mcp-timely\n# See source for mcpServers config block"
+}

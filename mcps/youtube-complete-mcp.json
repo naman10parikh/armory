@@ -1,0 +1,7 @@
+{
+  "name": "youtube-complete-mcp",
+  "description": "MCP server exposing YouTube Data, Analytics, and Reporting APIs as agent-callable tools with multi-brand-account authentication, quota tracking, and a safety policy that excludes destructive operations like video deletion.",
+  "source_repo": "sigvardt/youtube-mcp",
+  "source_url": "https://github.com/sigvardt/youtube-mcp",
+  "install": "npx -y youtube-mcp"
+}

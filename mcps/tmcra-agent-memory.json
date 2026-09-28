@@ -1,0 +1,7 @@
+{
+  "name": "tmcra-agent-memory",
+  "description": "Role-aware long-term Agent memory with cross-session recall, durable writes, and multi-Agent project scope.",
+  "source_repo": "reshuibuduo/TMCRA-MCP-Server",
+  "source_url": "https://github.com/reshuibuduo/TMCRA-MCP-Server",
+  "install": "npx -y TMCRA-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fcsc-mcp-server",
+  "description": "Exposes official UAE statistics from the Federal Competitiveness and Statistics Centre (FCSC) as callable tools, enabling AI assistants to discover datasets and fetch labelled data via the FCSC SDMX API.",
+  "source_repo": "Swetha-Josh/MCP_UAE",
+  "source_url": "https://github.com/Swetha-Josh/MCP_UAE",
+  "install": "# git clone --depth 1 https://github.com/Swetha-Josh/MCP_UAE\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-guidelines-server",
+  "description": "A remote MCP server that serves versioned Enterprise & Architecture guidelines (security, architecture, compliance) to LLM clients via Streamable HTTP with Bearer-token authentication.",
+  "source_repo": "eagleffz/demo-ea-mcp",
+  "source_url": "https://github.com/eagleffz/demo-ea-mcp",
+  "install": "npx -y demo-ea-mcp"
+}

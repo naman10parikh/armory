@@ -1,0 +1,7 @@
+{
+  "name": "imap-mcp-pro",
+  "description": "An enterprise-grade MCP server that provides production-ready IMAP email integration with advanced reliability features, comprehensive monitoring, and secure account management.",
+  "source_repo": "Temple-of-Epiphany/imap-mcp-pro",
+  "source_url": "https://github.com/Temple-of-Epiphany/imap-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/Temple-of-Epiphany/imap-mcp-pro\n# See source for mcpServers config block"
+}

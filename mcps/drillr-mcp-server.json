@@ -1,0 +1,7 @@
+{
+  "name": "drillr-mcp-server",
+  "description": "Financial research data backend for AI agents, offering standardized financial data, semantic news and event search, paragraph-cited company filings, and alternative data across US, Japan, Hong Kong, and China A-shares.",
+  "source_repo": "Little-Grebe-Inc/drillr-mcp-server",
+  "source_url": "https://github.com/Little-Grebe-Inc/drillr-mcp-server",
+  "install": "npx -y drillr-mcp-server"
+}

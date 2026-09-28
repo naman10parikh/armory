@@ -1,0 +1,7 @@
+{
+  "name": "localdata-mcp-server",
+  "description": "Gives LLM agents access to local and remote data via databases, files, graphs, and structured documents, along with a full data science toolkit for analysis and modeling.",
+  "source_repo": "ChrisGVE/localdata-mcp",
+  "source_url": "https://github.com/ChrisGVE/localdata-mcp",
+  "install": "npx -y localdata-mcp"
+}

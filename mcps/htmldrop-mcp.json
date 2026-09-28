@@ -1,0 +1,7 @@
+{
+  "name": "htmldrop-mcp",
+  "description": "MCP server for publishing HTML or Markdown to a live hosted URL via htmldrop. Provides tools to publish, list, and delete hosted sites, with remote OAuth and API token authentication.",
+  "source_repo": "middleeastsoftware/htmldrop-mcp",
+  "source_url": "https://github.com/middleeastsoftware/htmldrop-mcp",
+  "install": "npx -y htmldrop-mcp"
+}

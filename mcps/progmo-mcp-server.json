@@ -1,6 +1,6 @@
 {
   "name": "progmo-mcp-server",
-  "description": "Progmo Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "whitmo/progmo-mcp-server",
   "source_url": "https://mcp.so/server/progmo-mcp-server/whitmo",
   "install": "npx -y progmo-mcp-server"

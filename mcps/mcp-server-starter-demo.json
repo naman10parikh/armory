@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-starter-demo",
+  "description": "A minimal TypeScript MCP server that provides echo and text_stats tools for text validation and word/character counting over stdio.",
+  "source_repo": "Abanoub-Rodolf/mcp-server-starter-demo",
+  "source_url": "https://github.com/Abanoub-Rodolf/mcp-server-starter-demo",
+  "install": "# git clone --depth 1 https://github.com/Abanoub-Rodolf/mcp-server-starter-demo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fuzzmind-frida-mcp",
+  "description": "A Frida MCP server for authorized dynamic analysis and application security research, exposing device/session management, script injection, process and memory inspection, and platform-specific workflows.",
+  "source_repo": "fuzzmind/frida-mcp",
+  "source_url": "https://github.com/fuzzmind/frida-mcp",
+  "install": "npx -y frida-mcp"
+}

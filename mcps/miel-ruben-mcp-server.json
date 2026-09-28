@@ -1,0 +1,7 @@
+{
+  "name": "miel-ruben-mcp-server",
+  "description": "Enables AI assistants to manage an online store for honey and beekeeping products, including order tracking, inventory updates, sales stats, and invoice resending via the Model Context Protocol.",
+  "source_repo": "SIRGPrice/miel-ruben-web",
+  "source_url": "https://github.com/SIRGPrice/miel-ruben-web",
+  "install": "# git clone --depth 1 https://github.com/SIRGPrice/miel-ruben-web\n# See source for mcpServers config block"
+}

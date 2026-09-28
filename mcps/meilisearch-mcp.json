@@ -1,0 +1,7 @@
+{
+  "name": "meilisearch-mcp",
+  "description": "MCP server for MeiliSearch that enables searching indexes, managing documents and indexes, checking health/stats, and managing API keys. Perfect for AI agents to interact with MeiliSearch through natural language.",
+  "source_repo": "mrfentmen/meilisearch-mcp",
+  "source_url": "https://github.com/mrfentmen/meilisearch-mcp",
+  "install": "npx -y meilisearch-mcp"
+}

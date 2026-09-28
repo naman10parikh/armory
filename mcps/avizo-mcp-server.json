@@ -1,0 +1,7 @@
+{
+  "name": "avizo-mcp-server",
+  "description": "Enables automation of Thermo Scientific Amira-Avizo on Windows by discovering, inspecting, and creating workflows, and launching Avizo or its bundled Python.",
+  "source_repo": "songyb1998/avizo-mcp",
+  "source_url": "https://github.com/songyb1998/avizo-mcp",
+  "install": "npx -y avizo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "commerce-mcp-app",
+  "description": "Enables product discovery, session-scoped carts, and confirmation-gated checkout through natural language, with deterministic routing and safety features.",
+  "source_repo": "Somya-18/shop-over-mcp",
+  "source_url": "https://github.com/Somya-18/shop-over-mcp",
+  "install": "npx -y shop-over-mcp"
+}

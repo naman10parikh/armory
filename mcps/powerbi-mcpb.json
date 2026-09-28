@@ -1,0 +1,7 @@
+{
+  "name": "powerbi-mcpb",
+  "description": "MCP Bundle for local Power BI report files, enabling scanning, reading, and extracting model tables from .pbix, .pbip, and .pbit files without any cloud API or authentication.",
+  "source_repo": "stembisohlebela/PowerBi-Modelling-Claude-MCP",
+  "source_url": "https://github.com/stembisohlebela/PowerBi-Modelling-Claude-MCP",
+  "install": "npx -y PowerBi-Modelling-Claude-MCP"
+}

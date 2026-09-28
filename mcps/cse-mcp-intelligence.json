@@ -1,0 +1,7 @@
+{
+  "name": "cse-mcp-intelligence",
+  "description": "Institutional-grade MCP server for the Colombo Stock Exchange. Features real-time market data, order flow pressure analysis, and AI-powered forensic fundamental screening.",
+  "source_repo": "hareeshkar/cse-mcp-intelligence",
+  "source_url": "https://github.com/hareeshkar/cse-mcp-intelligence",
+  "install": "# git clone --depth 1 https://github.com/hareeshkar/cse-mcp-intelligence\n# See source for mcpServers config block"
+}

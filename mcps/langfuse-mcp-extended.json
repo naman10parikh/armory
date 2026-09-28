@@ -1,0 +1,7 @@
+{
+  "name": "langfuse-mcp-extended",
+  "description": "Comprehensive MCP server for Langfuse, enabling AI assistants to access and manage traces, observations, scores, datasets, and sessions for observability.",
+  "source_repo": "JaviMaligno/langfuse-mcp-server",
+  "source_url": "https://github.com/JaviMaligno/langfuse-mcp-server",
+  "install": "npx -y langfuse-mcp-server"
+}

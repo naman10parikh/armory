@@ -1,6 +1,6 @@
 {
   "name": "mcp-n8n-workflow-builder",
-  "description": "Mcp N8n Workflow Builder MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "salacoste/mcp-n8n-workflow-builder",
   "source_url": "https://mcp.so/server/mcp-n8n-workflow-builder/salacoste",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-n8n-workflow-builder/salacoste\n# See source for mcpServers config block"

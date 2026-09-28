@@ -1,0 +1,7 @@
+{
+  "name": "ksu-ess-mcp-server",
+  "description": "MCP server for accessing student information, curriculum, education records, and registration data from Kalasin University's Education Support System via 12 tools.",
+  "source_repo": "worapotso/KSU_ESS_API-MCP_server",
+  "source_url": "https://github.com/worapotso/KSU_ESS_API-MCP_server",
+  "install": "npx -y KSU_ESS_API-MCP_server"
+}

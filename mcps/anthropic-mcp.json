@@ -1,0 +1,7 @@
+{
+  "name": "anthropic-mcp",
+  "description": "Provides access to Claude models, message creation, token counting, and batch processing via the Anthropic API with Type 3 DAuth authentication.",
+  "source_repo": "madaoQ/anthropic-mcp",
+  "source_url": "https://github.com/madaoQ/anthropic-mcp",
+  "install": "npx -y anthropic-mcp"
+}

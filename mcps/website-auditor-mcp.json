@@ -1,0 +1,7 @@
+{
+  "name": "website-auditor-mcp",
+  "description": "Provides AI-visibility scoring and site auditing capabilities for websites, enabling agents to check how sites appear in AI engines like ChatGPT and Perplexity, run full SEO/security audits, and monitor changes over time.",
+  "source_repo": "SpikeyCoder/website-auditor-mcp",
+  "source_url": "https://github.com/SpikeyCoder/website-auditor-mcp",
+  "install": "npx -y website-auditor-mcp"
+}

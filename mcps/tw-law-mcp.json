@@ -1,0 +1,7 @@
+{
+  "name": "tw-law-mcp",
+  "description": "This MCP server enables querying Taiwan interior decoration regulations and procedures, providing deterministic and source-bound answers for permit document assistance.",
+  "source_repo": "trionnemesis/cc-crossbeam-tw",
+  "source_url": "https://github.com/trionnemesis/cc-crossbeam-tw",
+  "install": "# git clone --depth 1 https://github.com/trionnemesis/cc-crossbeam-tw\n# See source for mcpServers config block"
+}

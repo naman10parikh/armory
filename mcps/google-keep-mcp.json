@@ -1,0 +1,7 @@
+{
+  "name": "google-keep-mcp",
+  "description": "Enables AI-powered management of Google Keep notes, including search, create, update, delete, archive, and label operations.",
+  "source_repo": "davenicoll/google-keep-mcp",
+  "source_url": "https://github.com/davenicoll/google-keep-mcp",
+  "install": "npx -y google-keep-mcp"
+}

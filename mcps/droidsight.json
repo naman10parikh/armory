@@ -1,0 +1,7 @@
+{
+  "name": "droidsight",
+  "description": "An MCP server that controls real Android devices via ADB, offering screen vision, input automation, and device management tools.",
+  "source_repo": "edgecasehuman/droidsight",
+  "source_url": "https://github.com/edgecasehuman/droidsight",
+  "install": "# git clone --depth 1 https://github.com/edgecasehuman/droidsight\n# See source for mcpServers config block"
+}

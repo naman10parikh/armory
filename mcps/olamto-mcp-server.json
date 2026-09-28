@@ -1,0 +1,7 @@
+{
+  "name": "olamto-mcp-server",
+  "description": "MCP server for Web3 AI agents enabling autonomous smart contract engineering on Robinhood EVM and Solana, with Cloudflare One portals for efficient token usage and edge execution.",
+  "source_repo": "OlamtoStudio/agents",
+  "source_url": "https://github.com/OlamtoStudio/agents",
+  "install": "# git clone --depth 1 https://github.com/OlamtoStudio/agents\n# See source for mcpServers config block"
+}

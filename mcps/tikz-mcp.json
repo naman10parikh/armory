@@ -1,0 +1,7 @@
+{
+  "name": "tikz-mcp",
+  "description": "Compiles TikZ code into high-resolution PNG images, enabling AI assistants to render and preview LaTeX/TikZ diagrams during conversations.",
+  "source_repo": "FlorianHuo/tikz-mcp",
+  "source_url": "https://github.com/FlorianHuo/tikz-mcp",
+  "install": "npx -y tikz-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-outremer",
+  "description": "Enables discovery and navigation of French overseas territories public data across national and local open-data portals, with tools to search datasets, list territories and communes, and fetch source excerpts via official French government APIs.",
+  "source_repo": "Hug0x0/mcp-outremer",
+  "source_url": "https://github.com/Hug0x0/mcp-outremer",
+  "install": "# git clone --depth 1 https://github.com/Hug0x0/mcp-outremer\n# See source for mcpServers config block"
+}

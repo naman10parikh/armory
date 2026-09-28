@@ -1,0 +1,7 @@
+{
+  "name": "crystallize-mcp",
+  "description": "MCP server for Crystallize headless commerce. Gives AI agents read and write access to your catalogue, products, shapes, orders, customers, and tenant config.",
+  "source_repo": "HayoDev/crystallize-mcp",
+  "source_url": "https://github.com/HayoDev/crystallize-mcp",
+  "install": "npx -y crystallize-mcp"
+}

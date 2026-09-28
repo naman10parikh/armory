@@ -1,0 +1,7 @@
+{
+  "name": "etymolt-mcp-server",
+  "description": "MCP server that allows AI assistants to verify, compare, and explain brand names using live trademark, domain, and cultural data, with a free anonymous tier.",
+  "source_repo": "etymolt/mcp-server",
+  "source_url": "https://github.com/etymolt/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/etymolt/mcp-server\n# See source for mcpServers config block"
+}

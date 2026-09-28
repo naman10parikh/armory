@@ -1,0 +1,7 @@
+{
+  "name": "mte-processos-por-empregador",
+  "description": "Enables querying labor lawsuits by employer from the official MTE source, with read-only access.",
+  "source_repo": "mcp-dir/mte_processo_empregador-mcp",
+  "source_url": "https://github.com/mcp-dir/mte_processo_empregador-mcp",
+  "install": "npx -y mte_processo_empregador-mcp"
+}

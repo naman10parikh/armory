@@ -1,0 +1,7 @@
+{
+  "name": "integraledger-lcp-mcp-server",
+  "description": "Read-only Model Context Protocol server exposing LCP tools to an AI agent — verify before pay, compute an atrHash, extract and place references across ten commerce protocols.",
+  "source_repo": "IntegraLedger/integra-agent-guard",
+  "source_url": "https://github.com/IntegraLedger/integra-agent-guard",
+  "install": "# git clone --depth 1 https://github.com/IntegraLedger/integra-agent-guard\n# See source for mcpServers config block"
+}

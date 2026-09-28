@@ -1,0 +1,7 @@
+{
+  "name": "telop-codex",
+  "description": "Enables AI to transcribe Japanese talk videos, edit subtitles with filler removal and timing correction, and export SRT files using local Whisper models.",
+  "source_repo": "wirelessml/telop-codex",
+  "source_url": "https://github.com/wirelessml/telop-codex",
+  "install": "# git clone --depth 1 https://github.com/wirelessml/telop-codex\n# See source for mcpServers config block"
+}

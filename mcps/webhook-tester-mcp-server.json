@@ -1,0 +1,7 @@
+{
+  "name": "webhook-tester-mcp-server",
+  "description": "Enables management and inspection of webhook tokens (URLs) and incoming requests via webhook-test.com, allowing users to create, list, fetch details, fetch payloads, and delete webhooks without custom API integrations.",
+  "source_repo": "mikeysrecipes/webhook-tester-mcp",
+  "source_url": "https://github.com/mikeysrecipes/webhook-tester-mcp",
+  "install": "npx -y webhook-tester-mcp"
+}

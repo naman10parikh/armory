@@ -1,0 +1,7 @@
+{
+  "name": "piprail",
+  "description": "A budget-bound x402 payment wallet for AI agents: it autonomously pays HTTP 402 payment-gated URLs across every major chain (EVM, Solana, and many non-EVM families). Self-custodial and backendless, your key, your RPC, with spend caps enforced before any on-chain send.",
+  "source_repo": "piprail/piprail",
+  "source_url": "https://github.com/piprail/piprail",
+  "install": "# git clone --depth 1 https://github.com/piprail/piprail\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tradingview-mcp-bridge-4",
+  "description": "Connects AI assistants to TradingView Desktop via Chrome DevTools Protocol for chart analysis, Pine Script development, and workflow automation.",
+  "source_repo": "raldypessireron-dev/tradingview-mcp",
+  "source_url": "https://github.com/raldypessireron-dev/tradingview-mcp",
+  "install": "npx -y tradingview-mcp"
+}

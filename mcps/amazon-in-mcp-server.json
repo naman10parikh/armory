@@ -1,0 +1,7 @@
+{
+  "name": "amazon-in-mcp-server",
+  "description": "Enables searching products, viewing orders, and analyzing order trends on Amazon.in via a persistent Playwright browser session.",
+  "source_repo": "kausikram/amazon-in-marketplace-mcp",
+  "source_url": "https://github.com/kausikram/amazon-in-marketplace-mcp",
+  "install": "npx -y amazon-in-marketplace-mcp"
+}

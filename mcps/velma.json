@@ -1,0 +1,7 @@
+{
+  "name": "velma",
+  "description": "MCP server for controlling a simulated robot arm with vision-based pick-and-place, driven by LLM or manual control.",
+  "source_repo": "Yunsmn/VELMA",
+  "source_url": "https://github.com/Yunsmn/VELMA",
+  "install": "# git clone --depth 1 https://github.com/Yunsmn/VELMA\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pi-delegate-mcp",
+  "description": "Delegates bounded coding tasks from MCP clients to the Pi Coding Agent over stdio. Supports review, verification, implementation, and batch operations with long-running task polling.",
+  "source_repo": "sotola122/pi-delegate-mcp",
+  "source_url": "https://github.com/sotola122/pi-delegate-mcp",
+  "install": "npx -y pi-delegate-mcp"
+}

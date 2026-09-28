@@ -1,0 +1,7 @@
+{
+  "name": "imagen-4-mcp",
+  "description": "RunAPI MCP server for the Imagen 4 model line. Create tasks, poll their status, and check pricing through a single RunAPI API key.",
+  "source_repo": "runapi-ai/imagen-4-mcp",
+  "source_url": "https://github.com/runapi-ai/imagen-4-mcp",
+  "install": "npx -y imagen-4-mcp"
+}

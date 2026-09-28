@@ -1,0 +1,7 @@
+{
+  "name": "shelfgap-buyer-lens",
+  "description": "A deterministic buyer-choice simulator inside ChatGPT that compares merchant offers against user-supplied alternatives, explains wins/losses, and tests what-if changes.",
+  "source_repo": "keskinonur/shelfgap",
+  "source_url": "https://github.com/keskinonur/shelfgap",
+  "install": "# git clone --depth 1 https://github.com/keskinonur/shelfgap\n# See source for mcpServers config block"
+}

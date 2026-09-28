@@ -1,0 +1,7 @@
+{
+  "name": "spec-driven-mcp-server",
+  "description": "Enables specification-driven development workflows for AI editors by managing structured project specifications through stages like requirements, design, and tasks.",
+  "source_repo": "hangboss1761/spec-driven-mcp",
+  "source_url": "https://github.com/hangboss1761/spec-driven-mcp",
+  "install": "npx -y spec-driven-mcp"
+}

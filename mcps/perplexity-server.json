@@ -1,0 +1,7 @@
+{
+  "name": "perplexity-server",
+  "description": "A TypeScript-based MCP server that implements a simple notes system with resources, tools for creating notes, and prompts for summarization.",
+  "source_repo": "dkmaker/mcp-perplexity-server",
+  "source_url": "https://github.com/dkmaker/mcp-perplexity-server",
+  "install": "# git clone --depth 1 https://github.com/dkmaker/mcp-perplexity-server\n# See source for mcpServers config block"
+}

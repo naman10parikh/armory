@@ -1,0 +1,7 @@
+{
+  "name": "youtube-knowledge-mcp",
+  "description": "A Model Context Protocol (MCP) server that gives AI assistants the ability to search, analyze, and extract knowledge from YouTube videos.",
+  "source_repo": "teobouancheau/youtube-knowledge-mcp",
+  "source_url": "https://github.com/teobouancheau/youtube-knowledge-mcp",
+  "install": "npx -y youtube-knowledge-mcp"
+}

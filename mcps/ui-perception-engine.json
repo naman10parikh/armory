@@ -1,0 +1,7 @@
+{
+  "name": "ui-perception-engine",
+  "description": "Enables AI agents to perceive and interact with web interfaces by extracting a unified UI Scene Graph from live URLs, providing tools for navigation, element detection, visual analysis, and state tracking.",
+  "source_repo": "dirkknibbe/uipe",
+  "source_url": "https://github.com/dirkknibbe/uipe",
+  "install": "# git clone --depth 1 https://github.com/dirkknibbe/uipe\n# See source for mcpServers config block"
+}

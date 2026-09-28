@@ -1,0 +1,7 @@
+{
+  "name": "google-task-mcp",
+  "description": "Enables managing Google Tasks (list, create, update, complete, uncomplete, delete) via OAuth 2.0 authorization.",
+  "source_repo": "zakikero/google-task-mcp",
+  "source_url": "https://github.com/zakikero/google-task-mcp",
+  "install": "npx -y google-task-mcp"
+}

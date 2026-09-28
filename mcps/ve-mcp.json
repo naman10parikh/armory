@@ -1,0 +1,7 @@
+{
+  "name": "ve-mcp",
+  "description": "Enables AI agents to autonomously edit videos into publish-ready vertical short-form content, including silence removal, subtitle generation, voiceover synthesis, color grading, and composite pipeline creation.",
+  "source_repo": "assebler-grkha/VE-MCP",
+  "source_url": "https://github.com/assebler-grkha/VE-MCP",
+  "install": "npx -y VE-MCP"
+}

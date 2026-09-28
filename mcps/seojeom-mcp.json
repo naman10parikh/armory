@@ -1,0 +1,7 @@
+{
+  "name": "seojeom-mcp",
+  "description": "Local-first MCP server that binds to a project opened by the Seojeom desktop app and serves its local wiki and graph data over stdio, enabling project-aware reading, searching, and writing of wiki and graph content.",
+  "source_repo": "seojeom/seojeom-mcp",
+  "source_url": "https://github.com/seojeom/seojeom-mcp",
+  "install": "npx -y seojeom-mcp"
+}

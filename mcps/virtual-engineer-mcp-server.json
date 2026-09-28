@@ -1,0 +1,7 @@
+{
+  "name": "virtual-engineer-mcp-server",
+  "description": "Enables AI-assisted chiller troubleshooting by exposing MCP tools to retrieve operational data, alarms, telemetry, and service history from MongoDB Atlas, plus vector and hybrid search over knowledge bases.",
+  "source_repo": "benkipnis/virtual_engineer",
+  "source_url": "https://github.com/benkipnis/virtual_engineer",
+  "install": "# git clone --depth 1 https://github.com/benkipnis/virtual_engineer\n# See source for mcpServers config block"
+}

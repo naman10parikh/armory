@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dispatch-agent",
+  "description": "An MCP server for freight dispatchers that takes natural language orders, selects vehicles, checks regulations via RAG, and prepares documents for clients and drivers.",
+  "source_repo": "yurii-sheremeta/mcp-dispatch-agent",
+  "source_url": "https://github.com/yurii-sheremeta/mcp-dispatch-agent",
+  "install": "# git clone --depth 1 https://github.com/yurii-sheremeta/mcp-dispatch-agent\n# See source for mcpServers config block"
+}

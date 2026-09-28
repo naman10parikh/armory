@@ -1,0 +1,7 @@
+{
+  "name": "chain-reader",
+  "description": "A read-only MCP server that lets you interact with the Ethereum blockchain via natural language, providing tools for reading blocks, transactions, token metadata, events, and more, with provenance tracking and no private key access.",
+  "source_repo": "nakamura196/chain-reader-mcp",
+  "source_url": "https://github.com/nakamura196/chain-reader-mcp",
+  "install": "npx -y chain-reader-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "learning-mcp-server",
+  "description": "A minimal MCP server with three toy tools (add, echo, current_time) for learning deployment on SAP BTP Cloud Foundry.",
+  "source_repo": "Sharan-cypto/SAP-Document-AI",
+  "source_url": "https://github.com/Sharan-cypto/SAP-Document-AI",
+  "install": "# git clone --depth 1 https://github.com/Sharan-cypto/SAP-Document-AI\n# See source for mcpServers config block"
+}

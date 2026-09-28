@@ -1,0 +1,7 @@
+{
+  "name": "mdb-mcp-gateway",
+  "description": "A smart MCP gateway that routes AI agents to the right tools using hybrid search (vector + full-text) on MongoDB Atlas, collapsing the retrieval infrastructure into a single query.",
+  "source_repo": "ranfysvalle02/m-gate",
+  "source_url": "https://github.com/ranfysvalle02/m-gate",
+  "install": "# git clone --depth 1 https://github.com/ranfysvalle02/m-gate\n# See source for mcpServers config block"
+}

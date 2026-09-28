@@ -1,0 +1,7 @@
+{
+  "name": "component-mcp-server",
+  "description": "Connects Figma designs to React components using your actual component library, enabling AI tools to generate production-ready code with proper imports.",
+  "source_repo": "Mirabelle-Workspace/MCP-Starter-Repo",
+  "source_url": "https://github.com/Mirabelle-Workspace/MCP-Starter-Repo",
+  "install": "# git clone --depth 1 https://github.com/Mirabelle-Workspace/MCP-Starter-Repo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thrive-mcp",
+  "description": "Enables AI assistants to interact with the Thrive MCP REST API for exploring endpoints, making test requests, and integrating with the API.",
+  "source_repo": "karimsamir897/thrive-mcp",
+  "source_url": "https://github.com/karimsamir897/thrive-mcp",
+  "install": "npx -y thrive-mcp"
+}

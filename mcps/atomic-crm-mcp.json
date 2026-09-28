@@ -1,0 +1,7 @@
+{
+  "name": "atomic-crm-mcp",
+  "description": "MCP server for Atomic CRM that enables agents to read and write CRM data via SQL queries, with OAuth authentication and Row Level Security enforced.",
+  "source_repo": "marmelab/atomic-crm-mcp",
+  "source_url": "https://github.com/marmelab/atomic-crm-mcp",
+  "install": "npx -y atomic-crm-mcp"
+}

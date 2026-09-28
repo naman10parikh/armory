@@ -1,0 +1,7 @@
+{
+  "name": "hedgedoc-mcp-server",
+  "description": "Enables creating, reading, and managing HedgeDoc 1.x notes and Mermaid diagrams from AI agents via the MCP protocol.",
+  "source_repo": "Jyzus/kaymer-hedgedoc-mcp",
+  "source_url": "https://github.com/Jyzus/kaymer-hedgedoc-mcp",
+  "install": "npx -y kaymer-hedgedoc-mcp"
+}

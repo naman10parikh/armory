@@ -1,0 +1,7 @@
+{
+  "name": "excalidraw-mcp-server",
+  "description": "Enables AI agents to create, modify, and share diagrams on a live Excalidraw canvas through MCP tools, supporting shapes, text, arrows, batch operations, and export to shareable links with images.",
+  "source_repo": "0xArtex/excalidraw-mcp",
+  "source_url": "https://github.com/0xArtex/excalidraw-mcp",
+  "install": "npx -y excalidraw-mcp"
+}

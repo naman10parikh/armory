@@ -1,0 +1,7 @@
+{
+  "name": "zandronum-mcp",
+  "description": "Enables AI assistants to interact with the Zandronum game engine for development, including running commands, spawning actors, and loading maps.",
+  "source_repo": "rc4l/ZandronumMCP",
+  "source_url": "https://github.com/rc4l/ZandronumMCP",
+  "install": "# git clone --depth 1 https://github.com/rc4l/ZandronumMCP\n# See source for mcpServers config block"
+}

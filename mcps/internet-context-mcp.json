@@ -1,0 +1,7 @@
+{
+  "name": "internet-context-mcp",
+  "description": "A read-only MCP server that gives AI agents the web as compact, ranked, verified evidence — no API keys, no cloud retrieval, all models local.",
+  "source_repo": "vivekvar-dl/internet-context-mcp",
+  "source_url": "https://github.com/vivekvar-dl/internet-context-mcp",
+  "install": "npx -y internet-context-mcp"
+}

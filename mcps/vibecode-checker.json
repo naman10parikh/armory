@@ -1,0 +1,7 @@
+{
+  "name": "vibecode-checker",
+  "description": "MCP server that enables AI coding tools to scan projects for security vulnerabilities, secret leaks, and compliance issues, generating Korean-language audit reports.",
+  "source_repo": "Lex6won/vibecode-checker",
+  "source_url": "https://github.com/Lex6won/vibecode-checker",
+  "install": "# git clone --depth 1 https://github.com/Lex6won/vibecode-checker\n# See source for mcpServers config block"
+}

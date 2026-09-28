@@ -1,0 +1,7 @@
+{
+  "name": "finance-data-mcp",
+  "description": "Unified financial data access for US, A-share, HK stocks, and FX rates with automatic fallback across multiple data sources.",
+  "source_repo": "angeliaz/finance-data-mcp",
+  "source_url": "https://github.com/angeliaz/finance-data-mcp",
+  "install": "npx -y finance-data-mcp"
+}

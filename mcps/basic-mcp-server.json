@@ -1,0 +1,7 @@
+{
+  "name": "basic-mcp-server",
+  "description": "A demonstration MCP server using FastMCP and streamable-http transport. It provides tools like weather and Kusto queries, secured by Microsoft Entra ID OAuth.",
+  "source_repo": "kkmalik89/basic-mcp-server",
+  "source_url": "https://github.com/kkmalik89/basic-mcp-server",
+  "install": "npx -y basic-mcp-server"
+}

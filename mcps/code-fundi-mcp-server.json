@@ -1,0 +1,7 @@
+{
+  "name": "code-fundi-mcp-server",
+  "description": "A production-grade MCP server for the Code-Fundi API, enabling AI agents to map codebases, search semantically, and analyze blast radius. It provides tools for repository management, AI-powered research, and impact analysis before shipping changes.",
+  "source_repo": "Code-Fundi/code-fundi-mcp",
+  "source_url": "https://github.com/Code-Fundi/code-fundi-mcp",
+  "install": "npx -y code-fundi-mcp"
+}

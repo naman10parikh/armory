@@ -1,0 +1,7 @@
+{
+  "name": "schema-org-mcp",
+  "description": "MCP server enabling AI assistants to explore schema.org types, generate JSON-LD examples, validate structured data, and navigate the complete ontology with fuzzy matching and caching.",
+  "source_repo": "Theycallmeholla/schema-org-mcp",
+  "source_url": "https://github.com/Theycallmeholla/schema-org-mcp",
+  "install": "npx -y schema-org-mcp"
+}

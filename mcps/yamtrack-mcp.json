@@ -1,0 +1,7 @@
+{
+  "name": "yamtrack-mcp",
+  "description": "Exposes the Yamtrack REST API as tools for LLMs, enabling media tracking and management through natural language.",
+  "source_repo": "URD0TH/yamtrack-mcp",
+  "source_url": "https://github.com/URD0TH/yamtrack-mcp",
+  "install": "npx -y yamtrack-mcp"
+}

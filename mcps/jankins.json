@@ -1,0 +1,7 @@
+{
+  "name": "jankins",
+  "description": "Token-optimized Jenkins MCP server with smart log handling and failure triage for AI coding assistants.",
+  "source_repo": "thecturner/jankins",
+  "source_url": "https://github.com/thecturner/jankins",
+  "install": "# git clone --depth 1 https://github.com/thecturner/jankins\n# See source for mcpServers config block"
+}

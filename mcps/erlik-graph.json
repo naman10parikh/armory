@@ -1,0 +1,7 @@
+{
+  "name": "erlik-graph",
+  "description": "Enables LLMs to perform OSINT link-analysis by exposing transforms (DNS, WHOIS, Shodan, etc.) as MCP tools for autonomous investigation and graph enrichment.",
+  "source_repo": "malkreide/erlik-graph",
+  "source_url": "https://github.com/malkreide/erlik-graph",
+  "install": "# git clone --depth 1 https://github.com/malkreide/erlik-graph\n# See source for mcpServers config block"
+}

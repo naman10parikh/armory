@@ -1,0 +1,7 @@
+{
+  "name": "mcp-docs-server",
+  "description": "Serves Markdown documentation as an MCP server, enabling AI agents to answer questions from your content. Supports local, npm, and Cloudflare deployment with reusable prompts and resources.",
+  "source_repo": "circlesac/mcp-docs-server",
+  "source_url": "https://github.com/circlesac/mcp-docs-server",
+  "install": "# git clone --depth 1 https://github.com/circlesac/mcp-docs-server\n# See source for mcpServers config block"
+}

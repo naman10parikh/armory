@@ -1,0 +1,7 @@
+{
+  "name": "xserver-files-mcp",
+  "description": "A local stdio MCP server for managing files on XServer via SFTP, enabling secure file operations, backups, and workspace management for XServer hosting.",
+  "source_repo": "mocchalera/xserver-files-mcp",
+  "source_url": "https://github.com/mocchalera/xserver-files-mcp",
+  "install": "npx -y xserver-files-mcp"
+}

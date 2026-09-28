@@ -1,0 +1,7 @@
+{
+  "name": "expense-tracker-mcp-server-4",
+  "description": "An MCP server that lets AI assistants add, list, and summarize personal expenses using natural language, backed by SQLite.",
+  "source_repo": "ashishkathane599/test-remote-mcp-server",
+  "source_url": "https://github.com/ashishkathane599/test-remote-mcp-server",
+  "install": "npx -y test-remote-mcp-server"
+}

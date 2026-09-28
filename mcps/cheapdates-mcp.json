@@ -1,0 +1,7 @@
+{
+  "name": "cheapdates-mcp",
+  "description": "Enables users to find the cheapest dates to fly a route via Google Flights, supporting one-way and round-trip searches through multiple backends. It provides a tool that can search date ranges, filter by nonstop, seat, currency, and force a particular backend.",
+  "source_repo": "afgoes/cheapdates",
+  "source_url": "https://github.com/afgoes/cheapdates",
+  "install": "# git clone --depth 1 https://github.com/afgoes/cheapdates\n# See source for mcpServers config block"
+}

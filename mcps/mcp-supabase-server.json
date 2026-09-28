@@ -1,0 +1,7 @@
+{
+  "name": "mcp-supabase-server",
+  "description": "MCP server for Supabase database and storage operations, enabling querying, inserting, updating, deleting rows, schema introspection, and file storage management.",
+  "source_repo": "cloud9-labs/mcp-supabase",
+  "source_url": "https://github.com/cloud9-labs/mcp-supabase",
+  "install": "# git clone --depth 1 https://github.com/cloud9-labs/mcp-supabase\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fractera",
+  "description": "Zero-Ops deploy of a private AI coding workspace to your own VPS, straight from your AI chat. Registers the user, recommends a VPS, and runs and monitors the full deployment.",
+  "source_repo": "Fractera/ai-workspace",
+  "source_url": "https://github.com/Fractera/ai-workspace",
+  "install": "# git clone --depth 1 https://github.com/Fractera/ai-workspace\n# See source for mcpServers config block"
+}

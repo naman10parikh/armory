@@ -1,0 +1,7 @@
+{
+  "name": "dcs-me-gateway",
+  "description": "Enables AI mission designers to author and validate DCS World missions through the Mission Editor via a versioned protocol, providing tools for planning, payloads, map inspection, and live editor integration.",
+  "source_repo": "ALasek/DCS-ME-gateway",
+  "source_url": "https://github.com/ALasek/DCS-ME-gateway",
+  "install": "# git clone --depth 1 https://github.com/ALasek/DCS-ME-gateway\n# See source for mcpServers config block"
+}

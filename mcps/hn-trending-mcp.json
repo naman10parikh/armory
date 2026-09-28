@@ -1,0 +1,7 @@
+{
+  "name": "hn-trending-mcp",
+  "description": "Provides AI agents with Hacker News data including front-page lists, full-text search via Algolia, and recent Show HN launches.",
+  "source_repo": "guptaprakhariitr/hn-trending-mcp",
+  "source_url": "https://github.com/guptaprakhariitr/hn-trending-mcp",
+  "install": "npx -y hn-trending-mcp"
+}

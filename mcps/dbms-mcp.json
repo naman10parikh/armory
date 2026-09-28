@@ -1,0 +1,7 @@
+{
+  "name": "dbms-mcp",
+  "description": "Enables read-only querying of multiple databases via JDBC, supporting Tibero, Oracle, PostgreSQL, MySQL, etc., through natural language.",
+  "source_repo": "TaeheeLim/DBMS-MCP",
+  "source_url": "https://github.com/TaeheeLim/DBMS-MCP",
+  "install": "npx -y DBMS-MCP"
+}

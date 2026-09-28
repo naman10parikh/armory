@@ -1,0 +1,7 @@
+{
+  "name": "ds-mcp-server",
+  "description": "Provides data science, plotting, statistics, system, and web tools via MCP, with interactive CLI clients for OpenAI-compatible and Anthropic providers.",
+  "source_repo": "ahmad-zurih/ds-mcp-server",
+  "source_url": "https://github.com/ahmad-zurih/ds-mcp-server",
+  "install": "npx -y ds-mcp-server"
+}

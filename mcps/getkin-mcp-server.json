@@ -1,0 +1,7 @@
+{
+  "name": "getkin-mcp-server",
+  "description": "Provides six tools for LLM infrastructure: model recommendation, availability checking, LLM call routing, memory compression, model listing, and memory usage checking, with paid tools using Solana USDC.",
+  "source_repo": "ChipBaskets/getkin-mcp",
+  "source_url": "https://github.com/ChipBaskets/getkin-mcp",
+  "install": "npx -y getkin-mcp"
+}

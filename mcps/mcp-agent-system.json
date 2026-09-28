@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent-system",
+  "description": "A production-grade MCP server with 6 sandboxed tools and an agent orchestration engine for autonomous task completion, featuring an evaluation suite with CI/CD quality gates.",
+  "source_repo": "Pasukalu/mcp-agent-system",
+  "source_url": "https://github.com/Pasukalu/mcp-agent-system",
+  "install": "# git clone --depth 1 https://github.com/Pasukalu/mcp-agent-system\n# See source for mcpServers config block"
+}

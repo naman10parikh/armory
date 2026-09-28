@@ -1,0 +1,7 @@
+{
+  "name": "apple-contacts-mcp",
+  "description": "Local-first MCP server for safely searching and editing Apple Contacts on macOS via AppleScript automation, with dry-run writes and explicit confirmation.",
+  "source_repo": "lu-wo/apple-contacts-mcp",
+  "source_url": "https://github.com/lu-wo/apple-contacts-mcp",
+  "install": "npx -y apple-contacts-mcp"
+}

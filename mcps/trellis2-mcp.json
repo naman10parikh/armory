@@ -1,0 +1,7 @@
+{
+  "name": "trellis2-mcp",
+  "description": "An MCP server that enables an image-to-3D-to-rigged character pipeline, offering tools to generate images with FLUX, create textured 3D meshes with TRELLIS, and rig characters with SkinTokens/TokenRig, all driven through MCP.",
+  "source_repo": "Ladvien/trellis2_mcp",
+  "source_url": "https://github.com/Ladvien/trellis2_mcp",
+  "install": "npx -y trellis2_mcp"
+}

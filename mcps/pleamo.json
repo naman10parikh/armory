@@ -1,0 +1,7 @@
+{
+  "name": "pleamo",
+  "description": "Enables MCP clients to check URLs for scam/phishing risks, get verdicts with confidence and severity, report false positives, and monitor plan usage.",
+  "source_repo": "pleamo/pleamo-mcp",
+  "source_url": "https://github.com/pleamo/pleamo-mcp",
+  "install": "npx -y pleamo-mcp"
+}

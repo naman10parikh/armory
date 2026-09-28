@@ -1,0 +1,7 @@
+{
+  "name": "mobix",
+  "description": "Authorized Android pentest lab, drivable by hand or by AI — Frida bypass chain, live traffic capture with automatic IDOR flagging, full MCP control plane, web dashboard.",
+  "source_repo": "blackfoxxx/Mobix",
+  "source_url": "https://github.com/blackfoxxx/Mobix",
+  "install": "# git clone --depth 1 https://github.com/blackfoxxx/Mobix\n# See source for mcpServers config block"
+}

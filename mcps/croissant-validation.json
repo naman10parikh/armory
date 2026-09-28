@@ -1,0 +1,7 @@
+{
+  "name": "croissant-validation",
+  "description": "Validates MLCommons Croissant dataset metadata (JSON-LD) for schema compliance, as a stateless MCP server.",
+  "source_repo": "jettyio/croissant-validation",
+  "source_url": "https://github.com/jettyio/croissant-validation",
+  "install": "# git clone --depth 1 https://github.com/jettyio/croissant-validation\n# See source for mcpServers config block"
+}

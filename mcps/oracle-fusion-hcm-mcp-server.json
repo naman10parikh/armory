@@ -1,0 +1,7 @@
+{
+  "name": "oracle-fusion-hcm-mcp-server",
+  "description": "An MCP server that lets AI models interact with Oracle Fusion Cloud HCM across its entire REST surface. It uses generic, schema-aware tools to dynamically discover licensed modules and resources without per-endpoint code.",
+  "source_repo": "mohantyajitesh/aj_oracle_fusion_MCP",
+  "source_url": "https://github.com/mohantyajitesh/aj_oracle_fusion_MCP",
+  "install": "npx -y aj_oracle_fusion_MCP"
+}

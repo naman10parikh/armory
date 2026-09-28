@@ -1,0 +1,7 @@
+{
+  "name": "bongocat-mcp",
+  "description": "Unifies multiple BongoCat desktop pets into MCP tools, enabling LLM clients to control cat animations, typing, expressions, and chat bubbles via a consistent interface. Supports embedded, CDP, and Mver drivers with auto-detection and a local web dashboard.",
+  "source_repo": "emicyx/bongocat-mcp",
+  "source_url": "https://github.com/emicyx/bongocat-mcp",
+  "install": "npx -y bongocat-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "socheli-mcp",
+  "description": "Enables MCP-enabled agents to manage Socheli content: list, inspect, generate renders, dispatch to device fleet, publish across platforms, and curate the dated content plan via natural language.",
+  "source_repo": "Socheli/mcp",
+  "source_url": "https://github.com/Socheli/mcp",
+  "install": "# git clone --depth 1 https://github.com/Socheli/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "runecho",
+  "description": "A deterministic symbol oracle over a locally built index of the repository: whether a symbol exists, what a file declares, and what changed structurally since the last snapshot. It also ships a PreToolUse guard that stops an Edit/Write referencing a function, constant or type the repo does not decla",
+  "source_repo": "inth3shadows/runecho",
+  "source_url": "https://github.com/inth3shadows/runecho",
+  "install": "# git clone --depth 1 https://github.com/inth3shadows/runecho\n# See source for mcpServers config block"
+}

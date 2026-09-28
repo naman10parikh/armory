@@ -1,0 +1,7 @@
+{
+  "name": "oab-cadastro-de-advogados",
+  "description": "MCP server to query the Brazilian Bar Association (OAB) national lawyer registry by name and registration number, read-only and pay-per-use.",
+  "source_repo": "mcp-dir/oab_advogados-mcp",
+  "source_url": "https://github.com/mcp-dir/oab_advogados-mcp",
+  "install": "npx -y oab_advogados-mcp"
+}

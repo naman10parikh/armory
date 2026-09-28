@@ -1,0 +1,7 @@
+{
+  "name": "midway-mcp",
+  "description": "Connects your Midway account via Open Finance Brasil to AI assistants, enabling natural language queries for balances, transactions, credit card bills, and investments, all read-only.",
+  "source_repo": "mcp-dir/midway-mcp",
+  "source_url": "https://github.com/mcp-dir/midway-mcp",
+  "install": "npx -y midway-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zevo-host-mcp-server",
+  "description": "Gives AI agents read-only access to ZEVO financial data, enabling queries about vehicles, bookings, transactions, and more through natural language.",
+  "source_repo": "zevocorp/zevo-host-mcp",
+  "source_url": "https://github.com/zevocorp/zevo-host-mcp",
+  "install": "npx -y zevo-host-mcp"
+}

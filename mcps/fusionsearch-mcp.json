@@ -1,0 +1,7 @@
+{
+  "name": "fusionsearch-mcp",
+  "description": "把五个搜索源熔进一个 MCP —— 一次调用，多源取证 · 交叉验证 · AI 汇总",
+  "source_repo": "zhizhishu/hf-share",
+  "source_url": "https://github.com/zhizhishu/hf-share",
+  "install": "# git clone --depth 1 https://github.com/zhizhishu/hf-share\n# See source for mcpServers config block"
+}

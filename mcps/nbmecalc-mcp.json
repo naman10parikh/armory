@@ -1,0 +1,7 @@
+{
+  "name": "nbmecalc-mcp",
+  "description": "An open-source MCP server for offline, uncertainty-aware practice-exam score conversion across NBME, UWSA, Free 120, AMBOSS, and CMS inputs.",
+  "source_repo": "jiankn/nbmecalc-mcp",
+  "source_url": "https://github.com/jiankn/nbmecalc-mcp",
+  "install": "npx -y nbmecalc-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "custom-google-workspace-server",
+  "description": "Enables AI agents to create and append to Google Docs and Sheets through MCP, including matrix-based row writes and dynamic text injection into document bodies.",
+  "source_repo": "aryansaxena04/IRA-multi-agent-MCP-orchestrator-system",
+  "source_url": "https://github.com/aryansaxena04/IRA-multi-agent-MCP-orchestrator-system",
+  "install": "# git clone --depth 1 https://github.com/aryansaxena04/IRA-multi-agent-MCP-orchestrator-system\n# See source for mcpServers config block"
+}

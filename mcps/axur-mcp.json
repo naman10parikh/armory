@@ -1,0 +1,7 @@
+{
+  "name": "axur-mcp",
+  "description": "MCP server for the Axur cybersecurity platform, providing read-only access to ticket data for searching, inspecting, and analyzing security incidents.",
+  "source_repo": "just5ky/axur-mcp",
+  "source_url": "https://github.com/just5ky/axur-mcp",
+  "install": "npx -y axur-mcp"
+}

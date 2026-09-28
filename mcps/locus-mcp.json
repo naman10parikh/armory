@@ -1,0 +1,7 @@
+{
+  "name": "locus-mcp",
+  "description": "MCP server for Locus, a local semantic dataspace manager powered by Ollama. It exposes all Locus HTTP endpoints as MCP tools to manage dataspaces, ingest documents, and perform semantic search.",
+  "source_repo": "MiguelAPerez/locus-mcp",
+  "source_url": "https://github.com/MiguelAPerez/locus-mcp",
+  "install": "npx -y locus-mcp"
+}

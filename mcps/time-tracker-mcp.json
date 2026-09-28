@@ -1,0 +1,7 @@
+{
+  "name": "time-tracker-mcp",
+  "description": "A local MCP server that reads logged hours from an internal time tracker, providing tools to list time entries, projects, and the active timer. It is read-only, enabling Claude Code to see time-tracking data without writing.",
+  "source_repo": "mikka-oldst/time-tracker-mcp",
+  "source_url": "https://github.com/mikka-oldst/time-tracker-mcp",
+  "install": "npx -y time-tracker-mcp"
+}

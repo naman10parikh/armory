@@ -1,0 +1,7 @@
+{
+  "name": "workspaceguard",
+  "description": "Structured workspace runtime for long-running coding agents, providing controlled workspace capabilities with task state, snapshots, checkpoints, drift detection, verification evidence, audit logs, and structured handoff.",
+  "source_repo": "majiayu000/workspaceguard-mcp",
+  "source_url": "https://github.com/majiayu000/workspaceguard-mcp",
+  "install": "npx -y workspaceguard-mcp"
+}

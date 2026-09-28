@@ -1,0 +1,7 @@
+{
+  "name": "bug-bounty-intelligence-mcp",
+  "description": "AI-powered smart contract security analysis for AI agents and developers, enabling scanning of Solidity repos for vulnerabilities.",
+  "source_repo": "holistis/bug-bounty-intelligence-mcp",
+  "source_url": "https://github.com/holistis/bug-bounty-intelligence-mcp",
+  "install": "npx -y bug-bounty-intelligence-mcp"
+}

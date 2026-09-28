@@ -1,0 +1,7 @@
+{
+  "name": "opentia-mcp",
+  "description": "An MCP server that lets AI agents interact with Siemens TIA Portal via its Openness API.",
+  "source_repo": "omirko00/OpenTIA-MCP",
+  "source_url": "https://github.com/omirko00/OpenTIA-MCP",
+  "install": "npx -y OpenTIA-MCP"
+}

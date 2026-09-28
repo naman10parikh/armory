@@ -1,0 +1,7 @@
+{
+  "name": "negotiate-mcp",
+  "description": "MCP server for the negotiate.v1 protocol, enabling Claude to discover stores, list products, and negotiate deals through native tools.",
+  "source_repo": "sanjana-pier39/negotiate-mcp",
+  "source_url": "https://github.com/sanjana-pier39/negotiate-mcp",
+  "install": "npx -y negotiate-mcp"
+}

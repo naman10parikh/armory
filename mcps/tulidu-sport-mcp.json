@@ -1,0 +1,7 @@
+{
+  "name": "tulidu-sport-mcp",
+  "description": "Enables AI tools to query sports tournaments, leaderboards, predictions, and match stats from the Tulidu Sport platform.",
+  "source_repo": "tulidu-sport/tulidu-sport-mcp",
+  "source_url": "https://github.com/tulidu-sport/tulidu-sport-mcp",
+  "install": "npx -y tulidu-sport-mcp"
+}

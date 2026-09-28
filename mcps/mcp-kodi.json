@@ -1,0 +1,7 @@
+{
+  "name": "mcp-kodi",
+  "description": "An MCP server that lets an AI assistant control a Kodi media player over Kodi's JSON-RPC API — transport, volume, library search, queue management, and playback history. Written in C on the GLib stack.",
+  "source_repo": "laszlopere/mcp-kodi",
+  "source_url": "https://github.com/laszlopere/mcp-kodi",
+  "install": "# git clone --depth 1 https://github.com/laszlopere/mcp-kodi\n# See source for mcpServers config block"
+}

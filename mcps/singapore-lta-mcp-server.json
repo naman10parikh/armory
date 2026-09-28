@@ -1,0 +1,7 @@
+{
+  "name": "singapore-lta-mcp-server",
+  "description": "Provides real-time access to Singapore's Land Transport Authority data, including bus arrivals, traffic conditions, train updates, and carpark availability.",
+  "source_repo": "mcpflow/mcp-sg-lta",
+  "source_url": "https://github.com/mcpflow/mcp-sg-lta",
+  "install": "# git clone --depth 1 https://github.com/mcpflow/mcp-sg-lta\n# See source for mcpServers config block"
+}

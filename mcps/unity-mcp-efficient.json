@@ -1,0 +1,7 @@
+{
+  "name": "unity-mcp-efficient",
+  "description": "Enables AI clients to control a Unity Editor with a small, token-efficient six-tool facade while retaining access to the full upstream Unity MCP operation catalog.",
+  "source_repo": "Vangardo/unity-mcp-efficient",
+  "source_url": "https://github.com/Vangardo/unity-mcp-efficient",
+  "install": "# git clone --depth 1 https://github.com/Vangardo/unity-mcp-efficient\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "talktofigma",
+  "description": "Enables local AI agents to generate and edit Figma designs via the Plugin API through a WebSocket relay, with no rate limits and all communication remaining local.",
+  "source_repo": "Takeaki0817/figma-local-bridge",
+  "source_url": "https://github.com/Takeaki0817/figma-local-bridge",
+  "install": "# git clone --depth 1 https://github.com/Takeaki0817/figma-local-bridge\n# See source for mcpServers config block"
+}

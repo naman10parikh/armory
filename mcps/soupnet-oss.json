@@ -1,0 +1,7 @@
+{
+  "name": "soupnet-oss",
+  "description": "SoupNet gives your AI agents one shared memory of how you think — across Claude, Cursor, and ChatGPT. Each checks your past decisions as searchable “recipes” and acts on your real judgment. Share it, and your team’s agents inherit that judgment too.",
+  "source_repo": "AndyForest/SoupNet",
+  "source_url": "https://github.com/AndyForest/SoupNet",
+  "install": "# git clone --depth 1 https://github.com/AndyForest/SoupNet\n# See source for mcpServers config block"
+}

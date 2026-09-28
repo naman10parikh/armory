@@ -1,0 +1,7 @@
+{
+  "name": "su2-mcp",
+  "description": "Enables interaction with SU2 CFD solver for session lifecycle management, config editing, solver execution, and results inspection, with optional CPACS integration for aircraft analysis.",
+  "source_repo": "cmudrc/su2-mcp",
+  "source_url": "https://github.com/cmudrc/su2-mcp",
+  "install": "npx -y su2-mcp"
+}

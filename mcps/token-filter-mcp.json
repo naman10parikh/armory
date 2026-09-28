@@ -1,0 +1,7 @@
+{
+  "name": "token-filter-mcp",
+  "description": "An MCP server that intelligently filters and compresses tool outputs to reduce context window usage, saving up to 90% of tokens by removing noise such as passing tests and redundant information.",
+  "source_repo": "VMexicano/token-filter-mcp",
+  "source_url": "https://github.com/VMexicano/token-filter-mcp",
+  "install": "npx -y token-filter-mcp"
+}

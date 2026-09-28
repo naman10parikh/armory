@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-zefix",
+  "description": "Search and retrieve detailed information about Swiss companies from the official Zefix register, including company profiles, corporate structures, and SHAB publications.",
+  "source_repo": "johnphilipp/mcp-server-zefix",
+  "source_url": "https://github.com/johnphilipp/mcp-server-zefix",
+  "install": "# git clone --depth 1 https://github.com/johnphilipp/mcp-server-zefix\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "geoontology-mcp",
+  "description": "A geographic ontology layer MCP server that exposes hierarchical relations, topological adjacency, toponym disambiguation, spatial operations, and geo-constraint verification, enabling LLMs to reason with geographic structures instead of raw SQL.",
+  "source_repo": "kevics1/GeoOntology-MCP",
+  "source_url": "https://github.com/kevics1/GeoOntology-MCP",
+  "install": "npx -y GeoOntology-MCP"
+}

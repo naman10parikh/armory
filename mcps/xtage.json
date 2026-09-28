@@ -1,0 +1,7 @@
+{
+  "name": "xtage",
+  "description": "Provides Claude with persistent, semantic knowledge of a codebase across sessions by maintaining a local knowledge base of structural maps, compressed file summaries, and insights.",
+  "source_repo": "ruco-ai/xtage",
+  "source_url": "https://github.com/ruco-ai/xtage",
+  "install": "# git clone --depth 1 https://github.com/ruco-ai/xtage\n# See source for mcpServers config block"
+}

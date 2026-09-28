@@ -1,0 +1,7 @@
+{
+  "name": "mt5-mcp-observer",
+  "description": "MCP server for MetaTrader 5 that provides account monitoring, risk checks, and Algo Trading toggle without trading operations. Designed to work over SSH across Windows sessions.",
+  "source_repo": "zvalkorib/mt5-mcp-observer",
+  "source_url": "https://github.com/zvalkorib/mt5-mcp-observer",
+  "install": "# git clone --depth 1 https://github.com/zvalkorib/mt5-mcp-observer\n# See source for mcpServers config block"
+}

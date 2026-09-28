@@ -1,0 +1,7 @@
+{
+  "name": "figranium-mcp-server",
+  "description": "Enables LLM clients to discover, create, execute, inspect, and schedule Figranium automation tasks, with rich input validation for self-correction.",
+  "source_repo": "figranium/figranium-mcp",
+  "source_url": "https://github.com/figranium/figranium-mcp",
+  "install": "npx -y figranium-mcp"
+}

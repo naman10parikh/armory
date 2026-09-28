@@ -1,0 +1,7 @@
+{
+  "name": "discogs-mcp",
+  "description": "MCP server that enables AI assistants to interact with a personal Discogs music collection, supporting search, collection management, wantlist, folders, custom fields, and recommendations via Cloudflare Workers.",
+  "source_repo": "vertigo1983/discogs-mcp",
+  "source_url": "https://github.com/vertigo1983/discogs-mcp",
+  "install": "npx -y discogs-mcp"
+}

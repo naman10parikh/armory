@@ -1,0 +1,7 @@
+{
+  "name": "realdentalcosts-mcp",
+  "description": "Real US & Canada dental price data for AI assistants: average costs by procedure, state and city, insurance acceptance, and cheapest-state lookups — backed by open datasets (CC BY 4.0, permanent DOIs).",
+  "source_repo": "tresor4k/realdentalcosts-mcp",
+  "source_url": "https://github.com/tresor4k/realdentalcosts-mcp",
+  "install": "npx -y realdentalcosts-mcp"
+}

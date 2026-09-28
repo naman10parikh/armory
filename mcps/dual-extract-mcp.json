@@ -1,0 +1,7 @@
+{
+  "name": "dual-extract-mcp",
+  "description": "Enables structured document understanding of local PDFs via a dual-extract MCP server, combining MinerU text/layout and Qwen3-VL vision with fusion adjudication for field extraction, tables, formulas, and validation. Fully local and offline.",
+  "source_repo": "magicyuanh/Dual-Extract-MCP",
+  "source_url": "https://github.com/magicyuanh/Dual-Extract-MCP",
+  "install": "npx -y Dual-Extract-MCP"
+}

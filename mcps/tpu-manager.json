@@ -1,0 +1,7 @@
+{
+  "name": "tpu-manager",
+  "description": "Enables AI assistants to manage Google Cloud TPU VMs, including queueing, monitoring, bootstrapping, and SSH/tmux integration.",
+  "source_repo": "shrimansoft/tpu-manager",
+  "source_url": "https://github.com/shrimansoft/tpu-manager",
+  "install": "# git clone --depth 1 https://github.com/shrimansoft/tpu-manager\n# See source for mcpServers config block"
+}

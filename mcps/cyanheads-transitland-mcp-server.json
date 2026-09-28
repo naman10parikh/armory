@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-transitland-mcp-server",
+  "description": "Global transit data via the Transitland v2 registry — operators, GTFS/GTFS-RT/GBFS feeds with license terms, routes, stops, and real-time-aware departures via MCP.",
+  "source_repo": "cyanheads/transitland-mcp-server",
+  "source_url": "https://github.com/cyanheads/transitland-mcp-server",
+  "install": "npx -y transitland-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "trigv-mcp",
+  "description": "Enables AI clients in Cursor, Claude Code, and VS Code to send notification events to your Trigv workspace.",
+  "source_repo": "Trigv/trigv-mcp",
+  "source_url": "https://github.com/Trigv/trigv-mcp",
+  "install": "npx -y trigv-mcp"
+}

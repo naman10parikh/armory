@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-ai-usage-stats",
-  "description": "Mcp Server Ai Usage Stats MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "tarcisiojr/mcp-server-ai-usage-stats",
   "source_url": "https://mcp.so/server/mcp-server-ai-usage-stats/tarcisiojr",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-ai-usage-stats/tarcisiojr\n# See source for mcpServers config block"

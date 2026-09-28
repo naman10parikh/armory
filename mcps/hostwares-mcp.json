@@ -1,0 +1,7 @@
+{
+  "name": "hostwares-mcp",
+  "description": "Enables deploying sites, managing databases, and troubleshooting deployments on Hostwares from AI assistants.",
+  "source_repo": "iammaksudul/hostwares-mcp",
+  "source_url": "https://github.com/iammaksudul/hostwares-mcp",
+  "install": "npx -y hostwares-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-wiki-service",
+  "description": "A self-synthesizing AI knowledge wiki that provides a read-only MCP surface for external agents to trace the wiki content and graph.",
+  "source_repo": "jhonnold/ai-wiki-service",
+  "source_url": "https://github.com/jhonnold/ai-wiki-service",
+  "install": "# git clone --depth 1 https://github.com/jhonnold/ai-wiki-service\n# See source for mcpServers config block"
+}

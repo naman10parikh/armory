@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mem0",
+  "description": "An MCP server for mem0 memory management backed by Qdrant, with per-collection isolation via HTTP headers. Enables storing, searching, updating, and deleting memories through natural language.",
+  "source_repo": "schwarzesonne13/mem0-mcp",
+  "source_url": "https://github.com/schwarzesonne13/mem0-mcp",
+  "install": "npx -y mem0-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xtalk",
+  "description": "Cross-agent messaging for MCP clients, enabling agents to discover one another, exchange threaded messages, and resume work in a persistent project room.",
+  "source_repo": "8w6s/xtalk",
+  "source_url": "https://github.com/8w6s/xtalk",
+  "install": "# git clone --depth 1 https://github.com/8w6s/xtalk\n# See source for mcpServers config block"
+}

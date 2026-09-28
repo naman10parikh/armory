@@ -1,0 +1,7 @@
+{
+  "name": "subnet-calculator-mcp-server",
+  "description": "Enables subnet calculations from CIDR notation, providing network address, broadcast address, netmask, wildcard mask, usable host range, and number of usable hosts.",
+  "source_repo": "melihteke/Subnet-Calculator-MCP-Server",
+  "source_url": "https://github.com/melihteke/Subnet-Calculator-MCP-Server",
+  "install": "npx -y Subnet-Calculator-MCP-Server"
+}

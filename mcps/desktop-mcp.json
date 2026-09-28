@@ -1,0 +1,7 @@
+{
+  "name": "desktop-mcp",
+  "description": "Windows desktop-control MCP server: screenshot, window mgmt, mouse/keyboard input, recording.",
+  "source_repo": "jaimenbell/desktop-mcp",
+  "source_url": "https://github.com/jaimenbell/desktop-mcp",
+  "install": "npx -y desktop-mcp"
+}

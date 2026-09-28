@@ -1,0 +1,7 @@
+{
+  "name": "microservices-sh-mcp",
+  "description": "MCP server for microservices.sh that enables planning, inspecting, composing, validating, and deploying microservices modules and templates with preview deployments.",
+  "source_repo": "microservices-sh/mcp",
+  "source_url": "https://github.com/microservices-sh/mcp",
+  "install": "# git clone --depth 1 https://github.com/microservices-sh/mcp\n# See source for mcpServers config block"
+}

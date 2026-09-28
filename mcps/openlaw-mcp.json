@@ -1,0 +1,7 @@
+{
+  "name": "openlaw-mcp",
+  "description": "OpenLawMCP is an open-source legal AI research tool built to make AI-assisted legal research more reliable. A major problem with using AI for legal research is that it can give confident answers without showing whether the answer is grounded in real legal sources. For legal work, that creates a cred",
+  "source_repo": "damankaur-dev/openlaw-mcp",
+  "source_url": "https://github.com/damankaur-dev/openlaw-mcp",
+  "install": "npx -y openlaw-mcp"
+}

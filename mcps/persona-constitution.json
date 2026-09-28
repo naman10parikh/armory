@@ -1,0 +1,7 @@
+{
+  "name": "persona-constitution",
+  "description": "MCP server that serves an LLM operational constitution (SWEBOK v4.0 and NASA Power of 10) to coding agents, providing tools to query constitution sections, knowledge areas, and verification gates, and a scanner that detects placeholder/scaffold violations in generated code.",
+  "source_repo": "QuantumindSSI/CTO-MCP",
+  "source_url": "https://github.com/QuantumindSSI/CTO-MCP",
+  "install": "npx -y CTO-MCP"
+}

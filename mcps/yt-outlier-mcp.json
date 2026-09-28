@@ -1,0 +1,7 @@
+{
+  "name": "yt-outlier-mcp",
+  "description": "Finds YouTube outlier videos on small channels with high views-to-subs ratio, and provides tools to analyze video structure and comments to verify replicable formats.",
+  "source_repo": "phillipmex/yt-outlier-mcp",
+  "source_url": "https://github.com/phillipmex/yt-outlier-mcp",
+  "install": "npx -y yt-outlier-mcp"
+}

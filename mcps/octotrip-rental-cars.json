@@ -1,0 +1,7 @@
+{
+  "name": "octotrip-rental-cars",
+  "description": "Free, no-login MCP server for discovering and comparing rental cars with real-time pricing from multiple providers worldwide.",
+  "source_repo": "OctoTrip/rental-cars",
+  "source_url": "https://github.com/OctoTrip/rental-cars",
+  "install": "# git clone --depth 1 https://github.com/OctoTrip/rental-cars\n# See source for mcpServers config block"
+}

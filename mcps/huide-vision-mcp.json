@@ -1,0 +1,7 @@
+{
+  "name": "huide-vision-mcp",
+  "description": "A remote MCP server on Cloudflare Workers that lets text-only development agents analyze webpage, error, and annotated screenshots via SenseNova 6.7 Flash-Lite through a single tool. It supports local dev, Cloudflare deployment, and integration with clients like Claude Code and Pi.",
+  "source_repo": "yanghuide13350/huide-vision-mcp",
+  "source_url": "https://github.com/yanghuide13350/huide-vision-mcp",
+  "install": "npx -y huide-vision-mcp"
+}

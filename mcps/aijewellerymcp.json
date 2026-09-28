@@ -1,0 +1,7 @@
+{
+  "name": "aijewellerymcp",
+  "description": "Enables ChatGPT to invoke tools and render widgets via the Model Context Protocol, using a Next.js application with OpenAI Apps SDK integration.",
+  "source_repo": "manassankhla/aijewelleryMCP",
+  "source_url": "https://github.com/manassankhla/aijewelleryMCP",
+  "install": "# git clone --depth 1 https://github.com/manassankhla/aijewelleryMCP\n# See source for mcpServers config block"
+}

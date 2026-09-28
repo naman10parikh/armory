@@ -1,0 +1,7 @@
+{
+  "name": "oracle-db-context-mcp-server",
+  "description": "Provides contextual database schema information for large Oracle databases, enabling AI assistants to understand and work with databases containing thousands of tables.",
+  "source_repo": "danielmeppiel/oracle-mcp-server",
+  "source_url": "https://github.com/danielmeppiel/oracle-mcp-server",
+  "install": "npx -y oracle-mcp-server"
+}

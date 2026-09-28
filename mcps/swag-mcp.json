@@ -1,0 +1,7 @@
+{
+  "name": "swag-mcp",
+  "description": "MCP server for managing SWAG reverse-proxy configurations, including config generation, backups, logs, and health checks. Enables managing nginx subdomain configs for SWAG through a unified action router.",
+  "source_repo": "jmagar/swag-mcp",
+  "source_url": "https://github.com/jmagar/swag-mcp",
+  "install": "npx -y swag-mcp"
+}

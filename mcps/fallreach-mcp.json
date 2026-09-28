@@ -1,0 +1,7 @@
+{
+  "name": "fallreach-mcp",
+  "description": "Exposes foldkit's 7-prime spine, κ-bands, and fold operations as MCP tools and resources for use in Claude, Cursor, Windsurf, and other MCP-compatible clients.",
+  "source_repo": "sjgant80-hub/fallreach-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallreach-mcp",
+  "install": "npx -y fallreach-mcp"
+}

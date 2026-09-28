@@ -1,0 +1,7 @@
+{
+  "name": "gpthuman-humanizer",
+  "description": "Transform AI-generated text into natural, human-sounding content that successfully bypasses AI detectors.",
+  "source_repo": "GPTHuman-ai/mcp-server",
+  "source_url": "https://github.com/GPTHuman-ai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/GPTHuman-ai/mcp-server\n# See source for mcpServers config block"
+}

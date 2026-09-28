@@ -1,0 +1,7 @@
+{
+  "name": "design-analysis-mcp-server",
+  "description": "Reverse-engineers design videos and images into structured frontend implementation specifications using vision LLMs and FFMPEG for frame-level analysis.",
+  "source_repo": "Va1bhav512/design-analysis-mcp-server",
+  "source_url": "https://github.com/Va1bhav512/design-analysis-mcp-server",
+  "install": "npx -y design-analysis-mcp-server"
+}

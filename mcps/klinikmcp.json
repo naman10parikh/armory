@@ -1,0 +1,7 @@
+{
+  "name": "klinikmcp",
+  "description": "A drug and clinical information MCP server for Turkish healthcare professionals, integrating TİTCK, SGK, openFDA, and PubMed data with ChatGPT and Claude.",
+  "source_repo": "onatozmenn/klinik-mcp",
+  "source_url": "https://github.com/onatozmenn/klinik-mcp",
+  "install": "npx -y klinik-mcp"
+}

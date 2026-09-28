@@ -1,0 +1,7 @@
+{
+  "name": "dsh-safety",
+  "description": "An MCP server that audits DeepSeek Harness (DSH) plugins for security threats using static and dynamic analysis. It enables automatic safety reviews of community plugins before installation, detecting risks like credential theft and prompt injection.",
+  "source_repo": "easygame921/dsh-safety",
+  "source_url": "https://github.com/easygame921/dsh-safety",
+  "install": "# git clone --depth 1 https://github.com/easygame921/dsh-safety\n# See source for mcpServers config block"
+}

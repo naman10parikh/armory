@@ -1,0 +1,7 @@
+{
+  "name": "tubist-mcp-server",
+  "description": "Enables AI assistants to control the Tubist macOS menu bar player to play YouTube videos using natural language commands, allowing uninterrupted background audio.",
+  "source_repo": "dkasaj/tubist-mcp-server",
+  "source_url": "https://github.com/dkasaj/tubist-mcp-server",
+  "install": "npx -y tubist-mcp-server"
+}

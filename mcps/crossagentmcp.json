@@ -1,0 +1,7 @@
+{
+  "name": "crossagentmcp",
+  "description": "An A2A pool MCP server that enables multiple AI agents to register, collaborate in sessions, critique each other, and self-improve towards shared goals with no human intervention.",
+  "source_repo": "yhyu13/CrossAgentMCP",
+  "source_url": "https://github.com/yhyu13/CrossAgentMCP",
+  "install": "# git clone --depth 1 https://github.com/yhyu13/CrossAgentMCP\n# See source for mcpServers config block"
+}

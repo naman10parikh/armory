@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bps-id",
+  "description": "Enables access to Badan Pusat Statistik (Statistics Indonesia) data through natural language queries via the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-bps-id",
+  "source_url": "https://github.com/pipeworx-io/mcp-bps-id",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-bps-id\n# See source for mcpServers config block"
+}

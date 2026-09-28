@@ -1,0 +1,7 @@
+{
+  "name": "mcp-hevo-service",
+  "description": "Read-only MCP server for Hevo Data API, enabling monitoring of pipelines, objects, destinations, models, and workflows with secure self-hosted credentials.",
+  "source_repo": "alvaromunoz-gk/mcp-hevo-service",
+  "source_url": "https://github.com/alvaromunoz-gk/mcp-hevo-service",
+  "install": "# git clone --depth 1 https://github.com/alvaromunoz-gk/mcp-hevo-service\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mydatavalue-mcp",
+  "description": "MCP server for querying MyDataValue's Booking.com and Airbnb property data, including pricing, promotions, reviews, and performance metrics, via a read-only connector with automatic OAuth token rotation.",
+  "source_repo": "Elev8-OS/mydatavalue-mcp",
+  "source_url": "https://github.com/Elev8-OS/mydatavalue-mcp",
+  "install": "npx -y mydatavalue-mcp"
+}

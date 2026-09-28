@@ -1,0 +1,7 @@
+{
+  "name": "philosophy-mcp",
+  "description": "MCP server for querying a multilingual philosophy corpus including glossary, thinker profiles, period syntheses, and articles in Portuguese, English, and Spanish.",
+  "source_repo": "s3b4hjr/philosophy-mcp",
+  "source_url": "https://github.com/s3b4hjr/philosophy-mcp",
+  "install": "npx -y philosophy-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "drissionpage-bettermcp",
+  "description": "An MCP server that wraps DrissionPage to provide comprehensive browser automation tools, including tab management, element interaction, network capture, and more, with AI-friendly tool descriptions and 255 unit tests.",
+  "source_repo": "crmmc/DrissionPage-BetterMCP",
+  "source_url": "https://github.com/crmmc/DrissionPage-BetterMCP",
+  "install": "# git clone --depth 1 https://github.com/crmmc/DrissionPage-BetterMCP\n# See source for mcpServers config block"
+}

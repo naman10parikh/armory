@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bastion",
+  "description": "A reliability & security proxy for the Model Context Protocol (MCP) that provides self-healing connections, runtime tool-security, and compliance-mapped audit trails.",
+  "source_repo": "Gowthaman90/mcp-bastion",
+  "source_url": "https://github.com/Gowthaman90/mcp-bastion",
+  "install": "# git clone --depth 1 https://github.com/Gowthaman90/mcp-bastion\n# See source for mcpServers config block"
+}

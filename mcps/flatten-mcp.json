@@ -1,0 +1,7 @@
+{
+  "name": "flatten-mcp",
+  "description": "Flatten Claude Code sessions: keep every prompt and event verbatim, resume at a lower token count. An MCP server.",
+  "source_repo": "shayaShav/flatten-mcp",
+  "source_url": "https://github.com/shayaShav/flatten-mcp",
+  "install": "npx -y flatten-mcp"
+}

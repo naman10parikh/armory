@@ -1,0 +1,7 @@
+{
+  "name": "vuln-intel-mcp",
+  "description": "Provides CVE lookup, search, and exploit intelligence from public vulnerability sources (NVD, CISA KEV, EPSS) for AI agents to produce remediation guidance without consuming LLM tokens for data fetching.",
+  "source_repo": "rohanrajnist/vuln-intel-mcp",
+  "source_url": "https://github.com/rohanrajnist/vuln-intel-mcp",
+  "install": "npx -y vuln-intel-mcp"
+}

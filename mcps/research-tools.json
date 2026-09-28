@@ -1,0 +1,7 @@
+{
+  "name": "research-tools",
+  "description": "Exposes web search and page fetching tools via the MCP protocol, allowing integration with AI editors like Cursor for autonomous research workflows.",
+  "source_repo": "aabGit/Autonomous-Web-Research-Agent",
+  "source_url": "https://github.com/aabGit/Autonomous-Web-Research-Agent",
+  "install": "# git clone --depth 1 https://github.com/aabGit/Autonomous-Web-Research-Agent\n# See source for mcpServers config block"
+}

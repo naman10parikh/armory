@@ -1,0 +1,7 @@
+{
+  "name": "engineering-knowledge-graph-mcp-server",
+  "description": "Provides a stdio MCP bridge for coding agents to query and record engineering knowledge locally, preserving debugging history, failed attempts, and verified solutions.",
+  "source_repo": "nimocat/fishbowl",
+  "source_url": "https://github.com/nimocat/fishbowl",
+  "install": "# git clone --depth 1 https://github.com/nimocat/fishbowl\n# See source for mcpServers config block"
+}

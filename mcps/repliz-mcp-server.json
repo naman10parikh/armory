@@ -1,0 +1,7 @@
+{
+  "name": "repliz-mcp-server",
+  "description": "Enables AI assistants to manage Repliz workspaces via natural language, including listing and replying to comments, scheduling posts, handling DMs, and browsing content and stats.",
+  "source_repo": "azickri/repliz-mcp",
+  "source_url": "https://github.com/azickri/repliz-mcp",
+  "install": "npx -y repliz-mcp"
+}

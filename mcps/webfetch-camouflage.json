@@ -1,0 +1,7 @@
+{
+  "name": "webfetch-camouflage",
+  "description": "MCP server for fetching web content with browser fingerprint camouflage, converting HTML to clean Markdown to bypass bot detection.",
+  "source_repo": "tianhuil/webfetch-camouflage-mcp",
+  "source_url": "https://github.com/tianhuil/webfetch-camouflage-mcp",
+  "install": "npx -y webfetch-camouflage-mcp"
+}

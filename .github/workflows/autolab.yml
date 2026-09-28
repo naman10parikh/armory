@@ -120,10 +120,11 @@ jobs:
           node scripts/demote-renamed.mjs --apply || echo "::warning::rename fold failed — continuing"
           node ingest/catalog.mjs
 
-      # 3a-ii. One repository on two shelves (CP143 T56): ruvnet/ruflo as a Tool and an MCP, a root also
-      #     listed as `repo#readme`, one folder under two branches. The kept row takes the others'
-      #     mentions and test result; the others move (never deleted) to brain/lookup/duplicates/.
-      - name: Fold one repository listed twice across shelves
+      # 3a-ii. One repository, one row (CP143 T56, CP147 T07): ruvnet/ruflo as a Tool and an MCP, a root also
+      #     listed as `repo#readme`, one folder under two branches, one repository on one shelf under two
+      #     names (PulseMCP and Glama), an mcp.so page for a repository already listed. The kept row takes the
+      #     others' mentions and test result; the others move (never deleted) to brain/lookup/duplicates/.
+      - name: Fold one repository listed twice
         continue-on-error: true
         run: |
           node scripts/demote-same-repo.mjs --apply || echo "::warning::same-repository fold failed — continuing"
@@ -136,12 +137,21 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node ingest/crawl-repos.mjs || echo "::warning::crawl-repos failed — continuing"
 
-      # 4. HARD GATES — schema validation AND the full-catalog Hamel gate. If either fails,
-      #    do NOT commit; the repo stays at the last-known-good state (no-regression, DSIP eval gate).
-      - name: Validate + test-gate (hard, no-regression)
+      # 3c. The browse folders (CP147 T12): one card per component at the top of the repository (mcps/,
+      #     clis-tools/, evals/ and the rest) for people browsing on GitHub, rebuilt from the brain after the
+      #     last catalog rebuild. Every README it writes, and the top README, states catalog.json's generated_at:
+      #     the one timestamp, which the lint below checks.
+      - name: Regenerate the browse folders
+        run: node ingest/surface.mjs --apply
+
+      # 4. HARD GATES: schema validation, the full-catalog Hamel gate and the catalog lint (CP147 T08: one row
+      #    per repository, labels on their lists, one timestamp). If any fails, do NOT commit; the repo stays at
+      #    the last-known-good state (no-regression, DSIP eval gate).
+      - name: Validate + test-gate + lint (hard, no-regression)
         run: |
           node ingest/validate.mjs
           node ingest/test-gate.mjs
+          node scripts/lint-catalog.mjs
 
       # 4a. Catalog size: GitHub refuses a file over 100 MB, so the push would fail. Warns at 80 MB; at 95 MB
       #     this fails and nothing is committed (docs/CATALOG-SIZE.md).

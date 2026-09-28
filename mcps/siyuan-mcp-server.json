@@ -1,0 +1,7 @@
+{
+  "name": "siyuan-mcp-server",
+  "description": "Enables AI assistants to interact with SiYuan Note through its API, supporting notebook and document management, block operations, search, file operations, and more.",
+  "source_repo": "xgq18237/siyuan_mcp_server",
+  "source_url": "https://github.com/xgq18237/siyuan_mcp_server",
+  "install": "npx -y siyuan_mcp_server"
+}

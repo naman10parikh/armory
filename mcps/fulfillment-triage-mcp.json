@@ -1,0 +1,7 @@
+{
+  "name": "fulfillment-triage-mcp",
+  "description": "Helps commerce operations investigate delayed fulfillment stages and create safe, deduplicated human-review escalations.",
+  "source_repo": "vdhkcheems/fulfillment-triage-mcp",
+  "source_url": "https://github.com/vdhkcheems/fulfillment-triage-mcp",
+  "install": "npx -y fulfillment-triage-mcp"
+}

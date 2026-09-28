@@ -1,0 +1,7 @@
+{
+  "name": "career-agent-workbench-mcp-server",
+  "description": "Enables natural-language access to workspace-independent public job search, matching, and seeding tools, along with lazy job matching, while keeping private data and application state in a separate operator-owned workspace.",
+  "source_repo": "mperkhou/career-agent-workbench",
+  "source_url": "https://github.com/mperkhou/career-agent-workbench",
+  "install": "# git clone --depth 1 https://github.com/mperkhou/career-agent-workbench\n# See source for mcpServers config block"
+}

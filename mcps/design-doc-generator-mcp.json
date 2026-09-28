@@ -1,0 +1,7 @@
+{
+  "name": "design-doc-generator-mcp",
+  "description": "Turns Claude Code session work into professional design docs with a slash command, no copy-pasting or signup needed.",
+  "source_repo": "sanskriti17/design-doc-generator-mcp",
+  "source_url": "https://github.com/sanskriti17/design-doc-generator-mcp",
+  "install": "npx -y design-doc-generator-mcp"
+}

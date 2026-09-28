@@ -1,0 +1,7 @@
+{
+  "name": "seoul-timeavg-air-mcp",
+  "description": "Retrieves hourly average air quality data (PM10, PM2.5, ozone, NO2, CO, SO2) from Seoul's open data platform, filtered by station or district.",
+  "source_repo": "hlucent/seoul-timeavg-air-mcp",
+  "source_url": "https://github.com/hlucent/seoul-timeavg-air-mcp",
+  "install": "npx -y seoul-timeavg-air-mcp"
+}

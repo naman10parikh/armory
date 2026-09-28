@@ -1,0 +1,7 @@
+{
+  "name": "jsbsim-mcp",
+  "description": "Provides the JSBSim flight-dynamics engine as an MCP service, enabling AI agents to control and simulate aircraft in real-time through natural language.",
+  "source_repo": "flyintothesky/jsbsim-mcp",
+  "source_url": "https://github.com/flyintothesky/jsbsim-mcp",
+  "install": "npx -y jsbsim-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "desktop-controller-mcp-server",
+  "description": "Give any AI full control of your desktop. Mouse, keyboard, screenshots — all through the Model Context Protocol.",
+  "source_repo": "KumaVolt/mcp-desktop-controller",
+  "source_url": "https://github.com/KumaVolt/mcp-desktop-controller",
+  "install": "# git clone --depth 1 https://github.com/KumaVolt/mcp-desktop-controller\n# See source for mcpServers config block"
+}

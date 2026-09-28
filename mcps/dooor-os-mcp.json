@@ -1,0 +1,7 @@
+{
+  "name": "dooor-os-mcp",
+  "description": "Exposes Dooor OS workspace capabilities to MCP-compatible AI clients, enabling natural language querying of data sources, app and deployment inspection, agent and database management, and governance trace reading.",
+  "source_repo": "Dooor-AI/dooor-os-mcp",
+  "source_url": "https://github.com/Dooor-AI/dooor-os-mcp",
+  "install": "npx -y dooor-os-mcp"
+}

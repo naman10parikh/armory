@@ -1,0 +1,7 @@
+{
+  "name": "agy-headless-bridge-mcp-server",
+  "description": "Enables calling Google's Antigravity CLI (agy) headlessly through MCP, providing tools like agy_ask and agy_research for agents like Claude Code.",
+  "source_repo": "rhishi99/agy-headless-bridge",
+  "source_url": "https://github.com/rhishi99/agy-headless-bridge",
+  "install": "# git clone --depth 1 https://github.com/rhishi99/agy-headless-bridge\n# See source for mcpServers config block"
+}

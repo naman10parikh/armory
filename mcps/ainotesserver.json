@@ -1,0 +1,7 @@
+{
+  "name": "ainotesserver",
+  "description": "Un servidor MCP para crear, almacenar y recuperar notas de texto a través de una interfaz de IA conversacional como Claude Desktop.",
+  "source_repo": "oopslab-fyi/AINotesMCPServer",
+  "source_url": "https://github.com/oopslab-fyi/AINotesMCPServer",
+  "install": "# git clone --depth 1 https://github.com/oopslab-fyi/AINotesMCPServer\n# See source for mcpServers config block"
+}

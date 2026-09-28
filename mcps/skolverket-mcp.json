@@ -1,0 +1,7 @@
+{
+  "name": "skolverket-mcp",
+  "description": "Enables easy access to open data from the Swedish National Agency for Education, allowing querying and integration of educational statistics and facts through large language models.",
+  "source_repo": "mimanshaherbals-bot/Skolverket-MCP",
+  "source_url": "https://github.com/mimanshaherbals-bot/Skolverket-MCP",
+  "install": "npx -y Skolverket-MCP"
+}

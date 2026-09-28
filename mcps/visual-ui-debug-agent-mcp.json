@@ -1,0 +1,7 @@
+{
+  "name": "visual-ui-debug-agent-mcp",
+  "description": "An MCP server that enables AI agents to autonomously test, debug, and analyze web interfaces visually using Playwright, with 30 tools for screenshots, workflows, performance, and visual comparison.",
+  "source_repo": "samihalawa/visual-ui-debug-agent-mcp",
+  "source_url": "https://github.com/samihalawa/visual-ui-debug-agent-mcp",
+  "install": "npx -y visual-ui-debug-agent-mcp"
+}

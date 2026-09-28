@@ -1,0 +1,7 @@
+{
+  "name": "vibe-guard",
+  "description": "MCP server that provides project guardrails including prior art research, project status checks, next task retrieval, and quality gate enforcement for AI-assisted development.",
+  "source_repo": "sikuai2333/vibe-guard",
+  "source_url": "https://github.com/sikuai2333/vibe-guard",
+  "install": "# git clone --depth 1 https://github.com/sikuai2333/vibe-guard\n# See source for mcpServers config block"
+}

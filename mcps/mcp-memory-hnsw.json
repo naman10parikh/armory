@@ -1,0 +1,7 @@
+{
+  "name": "mcp-memory-hnsw",
+  "description": "Provides persistent semantic memory for Claude Code and Claude Desktop with fully offline local embeddings and HNSW indexing, enabling memory storage, semantic search, listing, and deletion across sessions.",
+  "source_repo": "abho7/mcp-memory-server",
+  "source_url": "https://github.com/abho7/mcp-memory-server",
+  "install": "# git clone --depth 1 https://github.com/abho7/mcp-memory-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zenstack-mcp-auth-server",
+  "description": "Enables auto-generated CRUD operations with authentication and authorization for database models defined in ZenStack schema.",
+  "source_repo": "jiashengguo/zenstack-mcp-auth",
+  "source_url": "https://github.com/jiashengguo/zenstack-mcp-auth",
+  "install": "# git clone --depth 1 https://github.com/jiashengguo/zenstack-mcp-auth\n# See source for mcpServers config block"
+}

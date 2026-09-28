@@ -1,0 +1,7 @@
+{
+  "name": "storywriting-mcp",
+  "description": "An MCP server providing 67 tools for AI-assisted storywriting, world-building, character development, screenplay generation in industry formats (Fountain, FDX, PDF), storyboards, and production analytics.",
+  "source_repo": "bharathadolf/Storywriting-MCP",
+  "source_url": "https://github.com/bharathadolf/Storywriting-MCP",
+  "install": "npx -y Storywriting-MCP"
+}

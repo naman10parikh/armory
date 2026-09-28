@@ -1,0 +1,7 @@
+{
+  "name": "aristotle-mcp-server",
+  "description": "An MCP server that wraps Aristotle's automated theorem prover for Lean 4, allowing AI assistants to fill in proofs, verify lemmas, and formalize natural language into Lean code.",
+  "source_repo": "septract/lean-aristotle-mcp",
+  "source_url": "https://github.com/septract/lean-aristotle-mcp",
+  "install": "npx -y lean-aristotle-mcp"
+}

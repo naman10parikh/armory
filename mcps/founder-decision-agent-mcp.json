@@ -1,0 +1,7 @@
+{
+  "name": "founder-decision-agent-mcp",
+  "description": "Enables founders to evaluate startup ideas with evidence-calibrated reports, manage portfolios, and access evaluation history through natural language.",
+  "source_repo": "flame211186/founder-decision-agent",
+  "source_url": "https://github.com/flame211186/founder-decision-agent",
+  "install": "# git clone --depth 1 https://github.com/flame211186/founder-decision-agent\n# See source for mcpServers config block"
+}

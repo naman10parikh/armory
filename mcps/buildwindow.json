@@ -1,0 +1,7 @@
+{
+  "name": "buildwindow",
+  "description": "Enables scheduling of construction works against weather forecasts, using deterministic tools to check weather suitability, estimate curing times, and place dependent tasks into the earliest non-prohibited time windows.",
+  "source_repo": "borovkov-d/buildwindow-mcp",
+  "source_url": "https://github.com/borovkov-d/buildwindow-mcp",
+  "install": "npx -y buildwindow-mcp"
+}

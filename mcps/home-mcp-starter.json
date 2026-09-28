@@ -1,0 +1,7 @@
+{
+  "name": "home-mcp-starter",
+  "description": "A starter MCP server for running local tools and resources on a home machine or NAS, enabling secure access from AI assistants like Kody.",
+  "source_repo": "kody-bot/home-mcp-starter",
+  "source_url": "https://github.com/kody-bot/home-mcp-starter",
+  "install": "# git clone --depth 1 https://github.com/kody-bot/home-mcp-starter\n# See source for mcpServers config block"
+}

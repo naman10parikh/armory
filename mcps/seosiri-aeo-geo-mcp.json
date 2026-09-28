@@ -1,0 +1,7 @@
+{
+  "name": "seosiri-aeo-geo-mcp",
+  "description": "Enables AI Engine Optimization (AEO) and Generative Engine Optimization (GEO) audits, including llm.txt compliance, content stickiness analysis, and schema validation through natural language.",
+  "source_repo": "SEOSiri-Official/aeo-geo-mcp",
+  "source_url": "https://github.com/SEOSiri-Official/aeo-geo-mcp",
+  "install": "npx -y aeo-geo-mcp"
+}

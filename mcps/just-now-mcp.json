@@ -1,0 +1,7 @@
+{
+  "name": "just-now-mcp",
+  "description": "Enables searching for creators using JSONB facet filters over PostgreSQL, with a prompt skill documenting valid creator attributes and filter construction.",
+  "source_repo": "nanthaaxim/just_now_mcp",
+  "source_url": "https://github.com/nanthaaxim/just_now_mcp",
+  "install": "npx -y just_now_mcp"
+}

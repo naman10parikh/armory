@@ -1,0 +1,7 @@
+{
+  "name": "gnome-screencast-mcp",
+  "description": "Enables AI agents to start and stop native GNOME Shell screen recordings via MCP tools, returning JSON with file path, size, and duration without depending on ffmpeg or wf-recorder.",
+  "source_repo": "quinho981/gnome-screencast-mcp",
+  "source_url": "https://github.com/quinho981/gnome-screencast-mcp",
+  "install": "npx -y gnome-screencast-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "joule-myfranchise-mcp",
+  "description": "MCP server for SAP Joule that integrates with RunMyFranchise via OData V4, enabling natural language queries about store risks, stock coverage, pending orders, recommendations, and network scores.",
+  "source_repo": "marcelofiorito/joule-myfranchise-mcp",
+  "source_url": "https://github.com/marcelofiorito/joule-myfranchise-mcp",
+  "install": "npx -y joule-myfranchise-mcp"
+}

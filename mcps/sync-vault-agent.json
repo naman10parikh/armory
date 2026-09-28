@@ -1,0 +1,7 @@
+{
+  "name": "sync-vault-agent",
+  "description": "An MCP server that enables AI assistants to search, read, and manage files across multiple cloud drives (Baidu, Aliyun, 115, OneDrive, Quark) through a unified interface.",
+  "source_repo": "abcamus/sync-vault-agent",
+  "source_url": "https://github.com/abcamus/sync-vault-agent",
+  "install": "# git clone --depth 1 https://github.com/abcamus/sync-vault-agent\n# See source for mcpServers config block"
+}

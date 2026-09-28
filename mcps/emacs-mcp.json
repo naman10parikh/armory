@@ -1,0 +1,7 @@
+{
+  "name": "emacs-mcp",
+  "description": "An MCP server that bridges Claude Code with Emacs via emacsclient, enabling buffer, file, org-mode, git, and diff operations.",
+  "source_repo": "mandoo180/emacs-mcp",
+  "source_url": "https://github.com/mandoo180/emacs-mcp",
+  "install": "npx -y emacs-mcp"
+}

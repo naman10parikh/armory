@@ -1,0 +1,7 @@
+{
+  "name": "feishu-access-bridge",
+  "description": "Feishu Access Bridge enables reading Feishu (Lark) Wiki pages, documents, spreadsheets, and multi-dimensional tables. It supports user OAuth, enterprise app, or browser session access modes via CLI and MCP tools.",
+  "source_repo": "xashfh1234-oss/feishu-access-bridge",
+  "source_url": "https://github.com/xashfh1234-oss/feishu-access-bridge",
+  "install": "# git clone --depth 1 https://github.com/xashfh1234-oss/feishu-access-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fraud-detection-risk-status",
+  "description": "Exposes account risk status from a fraud detection pipeline, returning risk scores, flagged transaction history, and LLM-generated explanations via the get_account_risk_status tool.",
+  "source_repo": "ankitanaik13/fraud-detection-pipeline",
+  "source_url": "https://github.com/ankitanaik13/fraud-detection-pipeline",
+  "install": "# git clone --depth 1 https://github.com/ankitanaik13/fraud-detection-pipeline\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "connpass-user-mcp-server",
+  "description": "Enables querying Connpass user profiles, group memberships, and event participation history via natural language.",
+  "source_repo": "yamanoku/connpass-user-mcp-server",
+  "source_url": "https://github.com/yamanoku/connpass-user-mcp-server",
+  "install": "npx -y connpass-user-mcp-server"
+}

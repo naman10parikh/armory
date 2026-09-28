@@ -1,0 +1,7 @@
+{
+  "name": "shardnest",
+  "description": "MCP server for self-custodial wallet infrastructure, enabling secure key generation, Shamir secret sharing, signing, and recovery without exposing private keys to LLMs.",
+  "source_repo": "hua-hua3321/shardnest",
+  "source_url": "https://github.com/hua-hua3321/shardnest",
+  "install": "# git clone --depth 1 https://github.com/hua-hua3321/shardnest\n# See source for mcpServers config block"
+}

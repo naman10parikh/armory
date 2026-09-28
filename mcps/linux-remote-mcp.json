@@ -1,0 +1,7 @@
+{
+  "name": "linux-remote-mcp",
+  "description": "Enables AI agents to remotely control Linux machines via SSH with 35 tools for session management, file transfer, system administration, Docker, and CTF operations.",
+  "source_repo": "yu-xiaohaozi/linux-remote-mcp",
+  "source_url": "https://github.com/yu-xiaohaozi/linux-remote-mcp",
+  "install": "npx -y linux-remote-mcp"
+}

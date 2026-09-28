@@ -1,0 +1,7 @@
+{
+  "name": "fallpair-mcp",
+  "description": "Sovereign, MIT-licensed MCP server wrapping the fallpair SDK for professional-service workflow tools, enabling discoverable, cryptographically signed operations.",
+  "source_repo": "sjgant80-hub/fallpair-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallpair-mcp",
+  "install": "npx -y fallpair-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pbix-mcp",
+  "description": "MCP server for creating, editing, and evaluating Power BI (.pbix/.pbit) files without Power BI Desktop. Supports 101 tools including report creation, data sources, DAX measures, and file manipulation.",
+  "source_repo": "d0nk3yhm/pbix-mcp",
+  "source_url": "https://github.com/d0nk3yhm/pbix-mcp",
+  "install": "npx -y pbix-mcp"
+}

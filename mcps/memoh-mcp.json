@@ -1,0 +1,7 @@
+{
+  "name": "memoh-mcp",
+  "description": "MCP server for managing Memoh AI agents from Claude Code, Cursor, or any MCP-compatible client, providing 26 tools for bots, containers, files, skills, memory, chat, settings, and health.",
+  "source_repo": "seniorcat/memoh-mcp",
+  "source_url": "https://github.com/seniorcat/memoh-mcp",
+  "install": "npx -y memoh-mcp"
+}

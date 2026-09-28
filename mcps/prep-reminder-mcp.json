@@ -1,0 +1,7 @@
+{
+  "name": "prep-reminder-mcp",
+  "description": "Prepares reminders for going out based on weather conditions and suggests meetup spots using weather and location data, with optional AI curation.",
+  "source_repo": "jessie02park-creator/prep-reminder-mcp",
+  "source_url": "https://github.com/jessie02park-creator/prep-reminder-mcp",
+  "install": "npx -y prep-reminder-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ripper-mcp",
+  "description": "Exposes Ripper CRM tools (contacts, listings, tasks, notes, timeline, search) to any MCP client via a dynamic tool catalog.",
+  "source_repo": "stan13/ripper-mcp",
+  "source_url": "https://github.com/stan13/ripper-mcp",
+  "install": "npx -y ripper-mcp"
+}

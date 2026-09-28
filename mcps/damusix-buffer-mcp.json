@@ -1,0 +1,7 @@
+{
+  "name": "damusix-buffer-mcp",
+  "description": "Manage posts, channels, organizations, and ideas through any MCP-compatible LLM client.",
+  "source_repo": "ukanwat/buffer-mcp",
+  "source_url": "https://github.com/ukanwat/buffer-mcp",
+  "install": "npx -y buffer-mcp"
+}

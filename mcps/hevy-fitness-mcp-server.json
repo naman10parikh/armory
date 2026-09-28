@@ -1,0 +1,7 @@
+{
+  "name": "hevy-fitness-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides AI assistants with access to the Hevy fitness tracking API. This allows you to log workouts, manage routines, browse exercises, and track your fitness progress directly through AI chat interfaces.",
+  "source_repo": "phaiel/hevy-mcp-server",
+  "source_url": "https://github.com/phaiel/hevy-mcp-server",
+  "install": "npx -y hevy-mcp-server"
+}

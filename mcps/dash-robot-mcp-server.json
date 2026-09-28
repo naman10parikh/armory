@@ -1,0 +1,7 @@
+{
+  "name": "dash-robot-mcp-server",
+  "description": "Enables controlling Wonder Workshop's Dash robot through Claude, supporting movements, sounds, lights, head movements, and photo capture.",
+  "source_repo": "jakesimonds/dashRobotMCP",
+  "source_url": "https://github.com/jakesimonds/dashRobotMCP",
+  "install": "# git clone --depth 1 https://github.com/jakesimonds/dashRobotMCP\n# See source for mcpServers config block"
+}

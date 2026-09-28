@@ -1,0 +1,7 @@
+{
+  "name": "lacuna-mcp",
+  "description": "Official MCP server for the Lacuna Music API. Generate AI music — full songs with vocals and lyrics, or instrumentals — with style prompts, task status polling, and audio downloads.",
+  "source_repo": "JOYLINK-LTD/lacuna-toolkit",
+  "source_url": "https://github.com/JOYLINK-LTD/lacuna-toolkit",
+  "install": "# git clone --depth 1 https://github.com/JOYLINK-LTD/lacuna-toolkit\n# See source for mcpServers config block"
+}

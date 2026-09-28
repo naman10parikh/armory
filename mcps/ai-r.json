@@ -1,0 +1,7 @@
+{
+  "name": "ai-r",
+  "description": "Provides a read-only interface to audit and continue coding agent sessions by extracting plans, intents, and edit authorship from history across multiple agents (Claude, Codex, OpenCode, Antigravity, Pi) via MCP, CLI, and Python SDK.",
+  "source_repo": "pro-target/ai-r",
+  "source_url": "https://github.com/pro-target/ai-r",
+  "install": "# git clone --depth 1 https://github.com/pro-target/ai-r\n# See source for mcpServers config block"
+}

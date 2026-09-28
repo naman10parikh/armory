@@ -1,0 +1,7 @@
+{
+  "name": "creatorscope-mcp",
+  "description": "Enables Claude to pull exact YouTube creator stats (subscribers, views, engagement) and discover new creators, then write them into a Notion Influencers roster.",
+  "source_repo": "KashifMalik777/creatorscope-mcp",
+  "source_url": "https://github.com/KashifMalik777/creatorscope-mcp",
+  "install": "npx -y creatorscope-mcp"
+}

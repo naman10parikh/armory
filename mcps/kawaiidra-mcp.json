@@ -1,0 +1,7 @@
+{
+  "name": "kawaiidra-mcp",
+  "description": "MCP server that integrates Ghidra for binary analysis, enabling decompilation, disassembly, and advanced reverse engineering tasks through Claude Code.",
+  "source_repo": "wagonbomb/kawaiidra-mcp",
+  "source_url": "https://github.com/wagonbomb/kawaiidra-mcp",
+  "install": "npx -y kawaiidra-mcp"
+}

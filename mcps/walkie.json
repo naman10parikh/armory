@@ -1,0 +1,7 @@
+{
+  "name": "walkie",
+  "description": "Enables remote monitoring and control of a local Claude Code agent fleet via MCP, with voice-friendly status summaries and strict command allowlisting.",
+  "source_repo": "Tug/walkie",
+  "source_url": "https://github.com/Tug/walkie",
+  "install": "# git clone --depth 1 https://github.com/Tug/walkie\n# See source for mcpServers config block"
+}

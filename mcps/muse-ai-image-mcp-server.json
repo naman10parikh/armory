@@ -1,0 +1,7 @@
+{
+  "name": "muse-ai-image-mcp-server",
+  "description": "Read-only MCP server exposing Muse AI Image's styles, pricing, FAQ, and official links to AI clients like Claude Desktop, enabling knowledge retrieval without API keys.",
+  "source_repo": "rocnubie/museaiimage-mcp",
+  "source_url": "https://github.com/rocnubie/museaiimage-mcp",
+  "install": "npx -y museaiimage-mcp"
+}

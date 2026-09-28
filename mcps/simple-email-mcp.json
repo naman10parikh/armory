@@ -1,0 +1,7 @@
+{
+  "name": "simple-email-mcp",
+  "description": "Enables users to manage email accounts via IMAP/SMTP, including reading, searching, sending emails with attachments and calendar invites, all through natural language interactions with MCP-compatible clients.",
+  "source_repo": "mexican75/simple-email-mcp",
+  "source_url": "https://github.com/mexican75/simple-email-mcp",
+  "install": "npx -y simple-email-mcp"
+}

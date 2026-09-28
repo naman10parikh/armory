@@ -1,0 +1,7 @@
+{
+  "name": "aesthetics-mcp",
+  "description": "Provides Claude with queryable knowledge of 300+ visual aesthetics from the Aesthetics Wiki and enables turning that knowledge into design tokens, Tailwind configs, and design briefs.",
+  "source_repo": "InfiniteInsight/aesthetics-mcp",
+  "source_url": "https://github.com/InfiniteInsight/aesthetics-mcp",
+  "install": "npx -y aesthetics-mcp"
+}

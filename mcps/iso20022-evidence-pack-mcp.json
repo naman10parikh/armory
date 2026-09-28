@@ -1,0 +1,7 @@
+{
+  "name": "iso20022-evidence-pack-mcp",
+  "description": "Compiles ISO 20022 readiness findings, remediation diffs, and simulated bank responses into sealed, tamper-evident audit evidence packs with Ed25519 signing and verification.",
+  "source_repo": "sebastienrousseau/iso20022-evidence-pack-mcp",
+  "source_url": "https://github.com/sebastienrousseau/iso20022-evidence-pack-mcp",
+  "install": "npx -y iso20022-evidence-pack-mcp"
+}

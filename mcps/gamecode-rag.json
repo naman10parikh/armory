@@ -1,0 +1,7 @@
+{
+  "name": "gamecode-rag",
+  "description": "Enables semantic search and call-graph exploration over decompiled Unity Mono C# codebases, with hybrid retrieval, LLM re-ranking, and lazy-loaded project indexes.",
+  "source_repo": "rkuhn153/gamecode-rag",
+  "source_url": "https://github.com/rkuhn153/gamecode-rag",
+  "install": "# git clone --depth 1 https://github.com/rkuhn153/gamecode-rag\n# See source for mcpServers config block"
+}

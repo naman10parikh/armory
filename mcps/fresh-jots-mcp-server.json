@@ -1,0 +1,7 @@
+{
+  "name": "fresh-jots-mcp-server",
+  "description": "This server connects Fresh Jots notes with clients",
+  "source_repo": "Goran-Arsov/freshjots-mcp",
+  "source_url": "https://github.com/Goran-Arsov/freshjots-mcp",
+  "install": "npx -y freshjots-mcp"
+}

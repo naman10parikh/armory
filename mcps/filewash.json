@@ -1,0 +1,7 @@
+{
+  "name": "filewash",
+  "description": "Privacy-first file tools for AI agents, enabling operations like PDF merge/split, image compression/convert, metadata stripping, and background removal without storing files.",
+  "source_repo": "cassilup/filewash-api",
+  "source_url": "https://github.com/cassilup/filewash-api",
+  "install": "# git clone --depth 1 https://github.com/cassilup/filewash-api\n# See source for mcpServers config block"
+}

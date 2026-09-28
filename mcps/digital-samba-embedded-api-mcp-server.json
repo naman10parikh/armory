@@ -1,0 +1,7 @@
+{
+  "name": "digital-samba-embedded-api-mcp-server",
+  "description": "Enables managing video conferencing platform tasks like creating rooms, managing recordings, and controlling live sessions through natural language with AI assistants.",
+  "source_repo": "digitalsamba/embedded-api-mcp-server",
+  "source_url": "https://github.com/digitalsamba/embedded-api-mcp-server",
+  "install": "npx -y embedded-api-mcp-server"
+}

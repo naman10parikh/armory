@@ -1,0 +1,7 @@
+{
+  "name": "search-papers",
+  "description": "Enables agents to search, analyze, and explore arXiv academic papers with advanced multi-field search, author lookup, category browsing, citation extraction, and bibliography export.",
+  "source_repo": "Saidiibrahim/search-papers",
+  "source_url": "https://github.com/Saidiibrahim/search-papers",
+  "install": "# git clone --depth 1 https://github.com/Saidiibrahim/search-papers\n# See source for mcpServers config block"
+}

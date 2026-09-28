@@ -1,0 +1,7 @@
+{
+  "name": "git-repo-brief",
+  "description": "MCP server that provides structured briefs for public GitHub repositories, including metadata, key files, release notes, and activity snapshots.",
+  "source_repo": "BUZDOLAPCI/git-repo-brief",
+  "source_url": "https://github.com/BUZDOLAPCI/git-repo-brief",
+  "install": "# git clone --depth 1 https://github.com/BUZDOLAPCI/git-repo-brief\n# See source for mcpServers config block"
+}

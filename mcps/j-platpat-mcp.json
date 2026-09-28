@@ -1,0 +1,7 @@
+{
+  "name": "j-platpat-mcp",
+  "description": "MCP server that wraps the official JPO patent information API to enable retrieval of patent, trademark, and design records for known case numbers.",
+  "source_repo": "yamayued/j-platpat-mcp",
+  "source_url": "https://github.com/yamayued/j-platpat-mcp",
+  "install": "npx -y j-platpat-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bugzilla-mcp",
+  "description": "MCP server for managing Bugzilla tickets and projects, with a built-in cron job for scheduled polling.",
+  "source_repo": "COG-GTM/bugzilla-mcp",
+  "source_url": "https://github.com/COG-GTM/bugzilla-mcp",
+  "install": "npx -y bugzilla-mcp"
+}

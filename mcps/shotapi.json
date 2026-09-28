@@ -1,0 +1,7 @@
+{
+  "name": "shotapi",
+  "description": "Screenshot & Render API for AI Agents. MCP Server lets Claude, Cursor capture webpages and render HTML. Direct access, no VPN needed.",
+  "source_repo": "smallhandsome/shotapi-mcp",
+  "source_url": "https://github.com/smallhandsome/shotapi-mcp",
+  "install": "npx -y shotapi-mcp"
+}

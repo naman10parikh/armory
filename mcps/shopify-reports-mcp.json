@@ -1,0 +1,7 @@
+{
+  "name": "shopify-reports-mcp",
+  "description": "Enables AI agents to query Shopify analytics with ShopifyQL via the Admin GraphQL endpoint, executing queries and interpreting results like 'show me the products with the highest margins'.",
+  "source_repo": "mvacha/shopify-reports-mcp",
+  "source_url": "https://github.com/mvacha/shopify-reports-mcp",
+  "install": "npx -y shopify-reports-mcp"
+}

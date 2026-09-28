@@ -1,0 +1,7 @@
+{
+  "name": "svm402-mcp",
+  "description": "An MCP server that provides AI agents with Solana token analysis from svm402.com, handling x402 USDC payments automatically.",
+  "source_repo": "dchu3/svm402-mcp",
+  "source_url": "https://github.com/dchu3/svm402-mcp",
+  "install": "npx -y svm402-mcp"
+}

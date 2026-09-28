@@ -1,0 +1,7 @@
+{
+  "name": "notes-rag-mcp-server",
+  "description": "Enables semantic search over personal markdown notes by indexing them into a vector database and exposing search, reindex, and status tools via MCP.",
+  "source_repo": "spelech/notes-rag-mcp",
+  "source_url": "https://github.com/spelech/notes-rag-mcp",
+  "install": "npx -y notes-rag-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mapi",
+  "description": "An auditable memory, lifecycle, and governance server for AI agents, providing durable memories with provenance, lifecycle management, and guarded workflows through the Model Context Protocol.",
+  "source_repo": "cabo0m/mapi-agent-memory",
+  "source_url": "https://github.com/cabo0m/mapi-agent-memory",
+  "install": "# git clone --depth 1 https://github.com/cabo0m/mapi-agent-memory\n# See source for mcpServers config block"
+}

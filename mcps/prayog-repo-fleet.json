@@ -1,0 +1,7 @@
+{
+  "name": "prayog-repo-fleet",
+  "description": "Exposes code graphs across multi-program repositories via MCP, enabling humans and agents to query the fleet with evidence.",
+  "source_repo": "drivestream-lab/prayog-repo-fleet",
+  "source_url": "https://github.com/drivestream-lab/prayog-repo-fleet",
+  "install": "# git clone --depth 1 https://github.com/drivestream-lab/prayog-repo-fleet\n# See source for mcpServers config block"
+}

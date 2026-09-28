@@ -1,0 +1,7 @@
+{
+  "name": "global-sentinel-mcp",
+  "description": "Unifies prediction markets, global news events, aviation state, and internet-infrastructure telemetry into a single async MCP server for macro and financial analysis.",
+  "source_repo": "ykshah1309/global-sentinel-mcp",
+  "source_url": "https://github.com/ykshah1309/global-sentinel-mcp",
+  "install": "npx -y global-sentinel-mcp"
+}

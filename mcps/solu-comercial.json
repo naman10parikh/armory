@@ -1,0 +1,7 @@
+{
+  "name": "solu-comercial",
+  "description": "Connects Claude Code to the SOLU ERP (Base44) to manage leads, proposals, and contracts through natural language.",
+  "source_repo": "danieldmelo-hub/solu-comercial-mcp",
+  "source_url": "https://github.com/danieldmelo-hub/solu-comercial-mcp",
+  "install": "npx -y solu-comercial-mcp"
+}

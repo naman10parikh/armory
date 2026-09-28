@@ -1,0 +1,7 @@
+{
+  "name": "yugo-mcp-server",
+  "description": "Enables interaction with the Yugo Payments API to manage payins, payouts, and accounts through auto-generated MCP tools.",
+  "source_repo": "georgi-shulev/yugo-mcp-server",
+  "source_url": "https://github.com/georgi-shulev/yugo-mcp-server",
+  "install": "npx -y yugo-mcp-server"
+}

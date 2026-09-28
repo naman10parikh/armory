@@ -1,0 +1,7 @@
+{
+  "name": "gns3-mcp",
+  "description": "Enables AI agents to control GNS3 network emulation labs. Supports building topologies, managing devices, capturing packets, and automating device CLIs.",
+  "source_repo": "Olaw2jr/gns3-mcp",
+  "source_url": "https://github.com/Olaw2jr/gns3-mcp",
+  "install": "npx -y gns3-mcp"
+}

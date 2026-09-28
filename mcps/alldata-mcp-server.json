@@ -1,0 +1,7 @@
+{
+  "name": "alldata-mcp-server",
+  "description": "Local MCP server for searching your ALLDATA repair subscription using your browser session, enabling AI agents to access labor times, procedures, TSBs, DTCs, and wiring diagrams.",
+  "source_repo": "cozadizzle/alldata-mcp-server",
+  "source_url": "https://github.com/cozadizzle/alldata-mcp-server",
+  "install": "npx -y alldata-mcp-server"
+}

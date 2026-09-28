@@ -1,0 +1,7 @@
+{
+  "name": "submagic-mcp-server",
+  "description": "Connects AI assistants to Submagic's video editing API for creating viral short-form content with AI captions in 107 languages.",
+  "source_repo": "sidart10/submagic-mcp-server",
+  "source_url": "https://github.com/sidart10/submagic-mcp-server",
+  "install": "npx -y submagic-mcp-server"
+}

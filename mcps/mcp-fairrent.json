@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fairrent",
+  "description": "MCP server for HUD housing data, enabling Fair Market Rent lookups, Section 8 income limits, and ZIP-to-county crosswalk mapping for affordable housing assessments.",
+  "source_repo": "haksanlulz/mcp-fairrent",
+  "source_url": "https://github.com/haksanlulz/mcp-fairrent",
+  "install": "# git clone --depth 1 https://github.com/haksanlulz/mcp-fairrent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kalshi-kernel",
+  "description": "Enables AI agents to interact with Kalshi event contracts and perpetual markets via a safety-focused MCP interface, with paper trading by default, strict schemas, and fail-closed behavior.",
+  "source_repo": "copyleftdev/kalshi-kernel",
+  "source_url": "https://github.com/copyleftdev/kalshi-kernel",
+  "install": "# git clone --depth 1 https://github.com/copyleftdev/kalshi-kernel\n# See source for mcpServers config block"
+}

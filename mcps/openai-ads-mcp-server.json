@@ -1,0 +1,7 @@
+{
+  "name": "openai-ads-mcp-server",
+  "description": "An MCP server that exposes the ChatGPT Ads API as tools an LLM host can call.",
+  "source_repo": "Roast-Labs/openai-ads-mcp",
+  "source_url": "https://github.com/Roast-Labs/openai-ads-mcp",
+  "install": "npx -y openai-ads-mcp"
+}

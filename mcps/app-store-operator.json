@@ -1,0 +1,7 @@
+{
+  "name": "app-store-operator",
+  "description": "Free App Store competitive intelligence for Claude — rival downloads, revenue, and ASO keywords. MCP server, no subscription.",
+  "source_repo": "meyusufdemirci/app-store-operator",
+  "source_url": "https://github.com/meyusufdemirci/app-store-operator",
+  "install": "# git clone --depth 1 https://github.com/meyusufdemirci/app-store-operator\n# See source for mcpServers config block"
+}

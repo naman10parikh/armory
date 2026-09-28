@@ -1,0 +1,7 @@
+{
+  "name": "zotero-library-mcp",
+  "description": "An MCP server that lets AI assistants add papers and books to your Zotero library by DOI, arXiv ID, or ISBN, and manage your collections, tags, and items.",
+  "source_repo": "RaulSimpetru/zotero-library-mcp",
+  "source_url": "https://github.com/RaulSimpetru/zotero-library-mcp",
+  "install": "npx -y zotero-library-mcp"
+}

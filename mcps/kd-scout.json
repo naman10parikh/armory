@@ -1,0 +1,7 @@
+{
+  "name": "kd-scout",
+  "description": "Zero-dependency MCP server: keyword difficulty, opportunity scoring, content briefs",
+  "source_repo": "moiosintel/kd-scout",
+  "source_url": "https://github.com/moiosintel/kd-scout",
+  "install": "# git clone --depth 1 https://github.com/moiosintel/kd-scout\n# See source for mcpServers config block"
+}

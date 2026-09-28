@@ -1,0 +1,7 @@
+{
+  "name": "mcp-xray-2",
+  "description": "Enables interaction with Xray Cloud and Data Center for test management, including authentication, GraphQL queries, test execution/plan management, and result import via MCP.",
+  "source_repo": "Mammals-at-work/mcp-xray",
+  "source_url": "https://github.com/Mammals-at-work/mcp-xray",
+  "install": "# git clone --depth 1 https://github.com/Mammals-at-work/mcp-xray\n# See source for mcpServers config block"
+}

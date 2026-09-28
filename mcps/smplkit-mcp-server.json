@@ -1,0 +1,7 @@
+{
+  "name": "smplkit-mcp-server",
+  "description": "Enables AI agents to create, run, and monitor scheduled HTTP jobs on the smplkit platform via natural language commands.",
+  "source_repo": "smplkit/mcp",
+  "source_url": "https://github.com/smplkit/mcp",
+  "install": "# git clone --depth 1 https://github.com/smplkit/mcp\n# See source for mcpServers config block"
+}

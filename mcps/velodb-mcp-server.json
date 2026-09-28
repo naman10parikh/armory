@@ -1,0 +1,7 @@
+{
+  "name": "velodb-mcp-server",
+  "description": "An MCP server that exposes VeloDB analytics data to AI clients through a governed semantic metrics layer (MetricFlow) and raw SQL fallback, with multi-workspace isolation, staging workflows, and a web UI for managing models.",
+  "source_repo": "velodb/velodb-mcp-server",
+  "source_url": "https://github.com/velodb/velodb-mcp-server",
+  "install": "npx -y velodb-mcp-server"
+}

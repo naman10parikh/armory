@@ -1,0 +1,7 @@
+{
+  "name": "mcp-academic-structure-server",
+  "description": "Enables AI assistants to navigate, search, and analyze academic materials organized in cycles, semesters, and modules via Google Drive.",
+  "source_repo": "M0hc3n/ENSIA-MCP-Server",
+  "source_url": "https://github.com/M0hc3n/ENSIA-MCP-Server",
+  "install": "npx -y ENSIA-MCP-Server"
+}

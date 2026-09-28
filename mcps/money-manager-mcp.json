@@ -1,0 +1,7 @@
+{
+  "name": "money-manager-mcp",
+  "description": "MCP server for querying Money Manager backups (.mmbak) with transaction search, spending summaries, trends, merchant analysis, and OCR full-text search over receipt photos. Local-first and read-only, supporting both iPhone and Android backup formats.",
+  "source_repo": "wcyiu/money-manager-mcp",
+  "source_url": "https://github.com/wcyiu/money-manager-mcp",
+  "install": "npx -y money-manager-mcp"
+}

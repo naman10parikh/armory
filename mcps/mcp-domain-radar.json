@@ -1,0 +1,7 @@
+{
+  "name": "mcp-domain-radar",
+  "description": "Enables AI assistants to check domain availability in real-time during brand naming conversations, using DNS and WHOIS queries to suggest available domains for brainstormed names.",
+  "source_repo": "sonwr/mcp-domain-radar",
+  "source_url": "https://github.com/sonwr/mcp-domain-radar",
+  "install": "# git clone --depth 1 https://github.com/sonwr/mcp-domain-radar\n# See source for mcpServers config block"
+}

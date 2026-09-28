@@ -1,0 +1,7 @@
+{
+  "name": "parcel-gis-mcp",
+  "description": "Enables querying public ArcGIS REST services for county/state parcel data, GIS layer identification, and USGS elevation without API keys.",
+  "source_repo": "Graysonf12/Parcel-GIS-mcp",
+  "source_url": "https://github.com/Graysonf12/Parcel-GIS-mcp",
+  "install": "npx -y Parcel-GIS-mcp"
+}

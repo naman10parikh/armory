@@ -1,0 +1,7 @@
+{
+  "name": "ai-sticky-notes-mcp-server",
+  "description": "Enables AI assistants to save and retrieve persistent sticky notes across conversations, with tools, a resource, and a prompt for note management and summarization.",
+  "source_repo": "pallikop/MCPSerrver",
+  "source_url": "https://github.com/pallikop/MCPSerrver",
+  "install": "# git clone --depth 1 https://github.com/pallikop/MCPSerrver\n# See source for mcpServers config block"
+}

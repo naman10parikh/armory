@@ -1,0 +1,7 @@
+{
+  "name": "expensebot-mcp",
+  "description": "Expense management and Gmail receipt capture for AI assistants and automation platforms.",
+  "source_repo": "TotesMagotes/expensebot-mcp",
+  "source_url": "https://github.com/TotesMagotes/expensebot-mcp",
+  "install": "npx -y expensebot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sint-resonance-mcp",
+  "description": "Resonance Detection MCP server that proactively finds cross-domain pattern matches between the current problem and past experiences.",
+  "source_repo": "kostyk348/sint-resonance-mcp",
+  "source_url": "https://github.com/kostyk348/sint-resonance-mcp",
+  "install": "npx -y sint-resonance-mcp"
+}

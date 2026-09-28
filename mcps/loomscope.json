@@ -1,0 +1,7 @@
+{
+  "name": "loomscope",
+  "description": "Password-protected dashboard and Remote MCP observer for Codex work, recording concise task milestones via observe_start, observe_report, and observe_finish tools.",
+  "source_repo": "crapthings/agent-loom",
+  "source_url": "https://github.com/crapthings/agent-loom",
+  "install": "# git clone --depth 1 https://github.com/crapthings/agent-loom\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "charming",
+  "description": "Charming MCP server — generate and host interactive web apps via MCP",
+  "source_repo": "tambo-labs/charming-mcp",
+  "source_url": "https://github.com/tambo-labs/charming-mcp",
+  "install": "npx -y charming-mcp"
+}

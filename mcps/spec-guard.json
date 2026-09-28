@@ -1,0 +1,7 @@
+{
+  "name": "spec-guard",
+  "description": "A methodology and MCP server for agent-driven software development where humans write specs and agents implement code, enforced by six mechanical gates to ensure spec validity, contracts, tests, and review.",
+  "source_repo": "jpstone/spec-guard",
+  "source_url": "https://github.com/jpstone/spec-guard",
+  "install": "# git clone --depth 1 https://github.com/jpstone/spec-guard\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "robust-long-term-memory-mcp",
+  "description": "A persistent, human-like memory system for AI companions in LM Studio, using SQLite and ChromaDB for hybrid storage, enabling seamless recall across sessions and models.",
+  "source_repo": "Rotoslider/long-term-memory-mcp",
+  "source_url": "https://github.com/Rotoslider/long-term-memory-mcp",
+  "install": "npx -y long-term-memory-mcp"
+}

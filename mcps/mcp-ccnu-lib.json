@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ccnu-lib",
+  "description": "封装华中师范大学图书馆空间预约系统（包括登录、查座位、预约、取消、暂离等操作）为一组MCP工具，供LLM调用执行。",
+  "source_repo": "cxdpowered/mcp-ccnu-lib",
+  "source_url": "https://github.com/cxdpowered/mcp-ccnu-lib",
+  "install": "# git clone --depth 1 https://github.com/cxdpowered/mcp-ccnu-lib\n# See source for mcpServers config block"
+}

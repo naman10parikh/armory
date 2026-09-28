@@ -1,0 +1,7 @@
+{
+  "name": "git-history-viewer",
+  "description": "A local-first MCP server that provides read-only access to Git repository history, exposing commit metadata and optionally content patches via configurable policies, with optional AI-powered analysis while never modifying Git state.",
+  "source_repo": "peekaboo-develop/git-history-viewer",
+  "source_url": "https://github.com/peekaboo-develop/git-history-viewer",
+  "install": "# git clone --depth 1 https://github.com/peekaboo-develop/git-history-viewer\n# See source for mcpServers config block"
+}

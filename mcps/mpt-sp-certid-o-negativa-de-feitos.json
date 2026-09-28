@@ -1,0 +1,7 @@
+{
+  "name": "mpt-sp-certid-o-negativa-de-feitos",
+  "description": "Consulta oficial de Certidão Negativa de Feitos do MPT SP em fonte oficial, com pagamento por uso e integração via MCP.",
+  "source_repo": "mcp-dir/mpt_sp_cnf-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt_sp_cnf-mcp",
+  "install": "npx -y mpt_sp_cnf-mcp"
+}

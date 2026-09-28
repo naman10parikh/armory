@@ -1,0 +1,7 @@
+{
+  "name": "lowcode-mcp",
+  "description": "Converts lowcode component documentation into an authoritative, branch-versioned source that LLMs can retrieve hierarchically, enabling agents to write schema with verifiable references.",
+  "source_repo": "citywalki/amis-docs-mcp",
+  "source_url": "https://github.com/citywalki/amis-docs-mcp",
+  "install": "npx -y amis-docs-mcp"
+}

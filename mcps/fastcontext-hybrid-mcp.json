@@ -1,0 +1,7 @@
+{
+  "name": "fastcontext-hybrid-mcp",
+  "description": "MCP server for context-aware codebase exploration using FastContext model, combining LLM-guided search with fuzzy matching to find relevant code snippets.",
+  "source_repo": "LyuboslavLyubenov/fastcontext-hybrid-mcp",
+  "source_url": "https://github.com/LyuboslavLyubenov/fastcontext-hybrid-mcp",
+  "install": "npx -y fastcontext-hybrid-mcp"
+}

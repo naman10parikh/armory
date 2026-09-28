@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sandbox-computer-vm-for-ai",
+  "description": "MCP server that gives AI agents isolated, named Linux computers with stable IDs and lifecycle control. Supports multiple backends like Docker, Fly Machines, Modal, and E2B, with a dashboard for managing sandboxes.",
+  "source_repo": "flujo-app/mcp-sandbox-computer-vm-for-ai",
+  "source_url": "https://github.com/flujo-app/mcp-sandbox-computer-vm-for-ai",
+  "install": "# git clone --depth 1 https://github.com/flujo-app/mcp-sandbox-computer-vm-for-ai\n# See source for mcpServers config block"
+}

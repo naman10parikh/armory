@@ -1,0 +1,7 @@
+{
+  "name": "evento-public-mcp-server",
+  "description": "MCP server to list and get events from Evento's public API using an API key.",
+  "source_repo": "sevenlabsxyz/evento-public-mcp",
+  "source_url": "https://github.com/sevenlabsxyz/evento-public-mcp",
+  "install": "npx -y evento-public-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gate",
+  "description": "Enables serving multiple MCP toolkits behind one server with capability-based access control, so different callers see and can call only the tools they are authorized for, over stdio or streamable HTTP with bearer-token auth.",
+  "source_repo": "RunLit/mcp-gate",
+  "source_url": "https://github.com/RunLit/mcp-gate",
+  "install": "# git clone --depth 1 https://github.com/RunLit/mcp-gate\n# See source for mcpServers config block"
+}

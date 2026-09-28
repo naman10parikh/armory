@@ -1,0 +1,7 @@
+{
+  "name": "proxmox-lab-mcp",
+  "description": "Proxmox home lab management MCP server that enables Claude Code to manage Proxmox VMs, Terraform, Ansible, Kubernetes, ArgoCD, and other lab utilities via HTTP/SSE.",
+  "source_repo": "fukui-yuto/proxmox-lab-mcp",
+  "source_url": "https://github.com/fukui-yuto/proxmox-lab-mcp",
+  "install": "npx -y proxmox-lab-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lpg-connector-mcp-server",
+  "description": "Enables Claude to query live LPG price and stock data, find nearest stations, view market trends, and submit crowdsourced price reports via MCP tools.",
+  "source_repo": "Cylindr-org/Cylindr-mcp",
+  "source_url": "https://github.com/Cylindr-org/Cylindr-mcp",
+  "install": "npx -y Cylindr-mcp"
+}

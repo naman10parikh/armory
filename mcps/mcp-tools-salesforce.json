@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tools-salesforce",
+  "description": "Connects to Salesforce scratch orgs and allows AI to generate and insert realistic nested test records via natural language descriptions using the Composite Tree REST API.",
+  "source_repo": "rowellsuper/mcp-salesforce",
+  "source_url": "https://github.com/rowellsuper/mcp-salesforce",
+  "install": "# git clone --depth 1 https://github.com/rowellsuper/mcp-salesforce\n# See source for mcpServers config block"
+}

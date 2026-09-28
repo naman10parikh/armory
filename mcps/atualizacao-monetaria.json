@@ -1,0 +1,7 @@
+{
+  "name": "atualizacao-monetaria",
+  "description": "MCP server that updates judicial and non-judicial credits by applying the applicable normative rules per period, producing month-by-month calculation details with source indices. It also verifies calculations against official tables and can identify common errors in opposing party's calculations.",
+  "source_repo": "fm85gn2y4q-maker/atualizacao-monetaria",
+  "source_url": "https://github.com/fm85gn2y4q-maker/atualizacao-monetaria",
+  "install": "# git clone --depth 1 https://github.com/fm85gn2y4q-maker/atualizacao-monetaria\n# See source for mcpServers config block"
+}

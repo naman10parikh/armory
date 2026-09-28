@@ -1,0 +1,7 @@
+{
+  "name": "stacks-mcp-server",
+  "description": "Enables AI assistants to interact with the Stacks blockchain, including account generation, balance checks, network status, block/transaction info, and API status.",
+  "source_repo": "aibtcdev/stacks-mcp-server",
+  "source_url": "https://github.com/aibtcdev/stacks-mcp-server",
+  "install": "npx -y stacks-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jakubs-mcp-tools",
+  "description": "MCP server for infrastructure discovery and remote management, enabling SSH command execution, file transfer, log tailing, and machine/service inventory with a companion web dashboard.",
+  "source_repo": "Jakub2841/jakubs-mcp-tools",
+  "source_url": "https://github.com/Jakub2841/jakubs-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/Jakub2841/jakubs-mcp-tools\n# See source for mcpServers config block"
+}

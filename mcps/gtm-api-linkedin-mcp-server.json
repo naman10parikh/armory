@@ -1,0 +1,7 @@
+{
+  "name": "gtm-api-linkedin-mcp-server",
+  "description": "A managed MCP server that gives AI agents 160+ typed LinkedIn tools for searching, connecting, messaging, and enriching profiles, with built-in account safety enforcement.",
+  "source_repo": "gtm-api/linkedin-mcp",
+  "source_url": "https://github.com/gtm-api/linkedin-mcp",
+  "install": "npx -y linkedin-mcp"
+}

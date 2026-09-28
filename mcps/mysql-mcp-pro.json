@@ -1,0 +1,7 @@
+{
+  "name": "mysql-mcp-pro",
+  "description": "A production-grade MySQL MCP Server that enables AI assistants to securely and efficiently operate MySQL databases through a standardized protocol.",
+  "source_repo": "CCCT173/mysql-mcp-pro",
+  "source_url": "https://github.com/CCCT173/mysql-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/CCCT173/mysql-mcp-pro\n# See source for mcpServers config block"
+}

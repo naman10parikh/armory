@@ -1,0 +1,7 @@
+{
+  "name": "carbon-intensity-uk",
+  "description": "Enables querying of real-time and forecast UK carbon intensity data from National Grid ESO, allowing AI agents to retrieve carbon emissions by region and time.",
+  "source_repo": "pipeworx-io/mcp-carbon-intensity-uk",
+  "source_url": "https://github.com/pipeworx-io/mcp-carbon-intensity-uk",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-carbon-intensity-uk\n# See source for mcpServers config block"
+}

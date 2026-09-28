@@ -1,0 +1,7 @@
+{
+  "name": "azure-platform-engineering-mcp-server",
+  "description": "Provides AI agents with real-time access to live Azure infrastructure, including AKS cluster health, resource management, policy validation, and Terraform analysis through a Model Context Protocol interface.",
+  "source_repo": "sat0ps/mcp-server-azure-platform",
+  "source_url": "https://github.com/sat0ps/mcp-server-azure-platform",
+  "install": "# git clone --depth 1 https://github.com/sat0ps/mcp-server-azure-platform\n# See source for mcpServers config block"
+}

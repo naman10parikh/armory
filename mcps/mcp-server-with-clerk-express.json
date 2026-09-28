@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-with-clerk-express",
+  "description": "A minimal example MCP server using Express and Clerk for authentication, exposing a streamable HTTP endpoint for MCP clients.",
+  "source_repo": "baseergroot/express-mcp-example",
+  "source_url": "https://github.com/baseergroot/express-mcp-example",
+  "install": "# git clone --depth 1 https://github.com/baseergroot/express-mcp-example\n# See source for mcpServers config block"
+}

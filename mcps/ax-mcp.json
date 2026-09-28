@@ -1,0 +1,7 @@
+{
+  "name": "ax-mcp",
+  "description": "Enables HTTP requests and web data extraction via natural language, acting as an AI-era curl.",
+  "source_repo": "pyoif/ax-mcp",
+  "source_url": "https://github.com/pyoif/ax-mcp",
+  "install": "npx -y ax-mcp"
+}

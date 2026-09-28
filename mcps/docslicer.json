@@ -1,0 +1,7 @@
+{
+  "name": "docslicer",
+  "description": "Enables vectorless RAG by letting LLM clients like Claude and Cursor parse documents, inspect outlines, and retrieve specific sections with heading breadcrumbs. Supports PDF, Word, HTML, and PowerPoint without LLM calls or heavy ML models.",
+  "source_repo": "DocSlicer/DocSlicer",
+  "source_url": "https://github.com/DocSlicer/DocSlicer",
+  "install": "# git clone --depth 1 https://github.com/DocSlicer/DocSlicer\n# See source for mcpServers config block"
+}

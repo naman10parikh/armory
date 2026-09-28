@@ -1,0 +1,7 @@
+{
+  "name": "hephaestus-docker-power",
+  "description": "Provides MCP tools for setting up and managing Hephaestus development environment with Docker containers, including starting/stopping services, initializing databases, and troubleshooting.",
+  "source_repo": "alehayeb/hephaestus-docker-power",
+  "source_url": "https://github.com/alehayeb/hephaestus-docker-power",
+  "install": "# git clone --depth 1 https://github.com/alehayeb/hephaestus-docker-power\n# See source for mcpServers config block"
+}

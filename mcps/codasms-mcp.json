@@ -1,0 +1,7 @@
+{
+  "name": "codasms-mcp",
+  "description": "Enables AI agents to purchase phone numbers and retrieve one-time SMS/OTP verification codes via the CODASMS API, with support for 700+ services and 180+ countries including automatic refunds if no code arrives.",
+  "source_repo": "ajemba/codasms-mcp",
+  "source_url": "https://github.com/ajemba/codasms-mcp",
+  "install": "npx -y codasms-mcp"
+}

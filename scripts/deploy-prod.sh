@@ -2,11 +2,15 @@
 # deploy-prod.sh — ship HEAD to Vercel production and prove it landed.
 #
 # Deploys from a CLEAN worktree of HEAD (never the working tree, which may hold half-finished lane
-# work), waits for the build, moves the production alias (Vercel does NOT move it for CLI deploys),
-# then checks every page and the API. Exit non-zero on any failure so a cron or a person notices.
+# work), waits for the build, moves the production alias, then checks every page and the API. Exit
+# non-zero on any failure so a cron or a person notices.
 #
 #   bash scripts/deploy-prod.sh            # deploy HEAD
-#   bash scripts/deploy-prod.sh --no-alias # deploy only (preview URL), leave production alone
+#   bash scripts/deploy-prod.sh --no-alias # a preview deployment; production is left alone
+#
+# CP147 (2026-09-27): a `--prod` deploy took the production domain by itself, so `--no-alias` alone
+# still put an unmerged branch live. A preview is now deployed without `--prod`, and because previews
+# sit behind Vercel's login, its pages are checked through `vercel curl`.
 #
 set -euo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
@@ -25,10 +29,12 @@ cp -R "$ROOT/web/.vercel" "$WT/web/.vercel"          # project link (gitignored)
 # parent-dir source is not uploaded. Without this the remote `npm run build` dies in copy-data.
 (cd "$WT/web" && node scripts/copy-data.mjs >/dev/null)
 
-echo "▸ vercel deploy --prod (archive=tgz)"
+preview=0; prod="--prod"
+[[ "${1:-}" == "--no-alias" ]] && { preview=1; prod=""; }
+echo "▸ vercel deploy ${prod:-(preview)} (archive=tgz)"
 # CLI 59 streams the build log and prints the deployment URL among it, on either stream — take the
 # last deployment URL it mentions rather than trusting "the last line of stdout".
-(cd "$WT/web" && vercel deploy --prod --yes --archive=tgz > /tmp/armory-deploy.out 2>&1) || true
+(cd "$WT/web" && vercel deploy $prod --yes --archive=tgz > /tmp/armory-deploy.out 2>&1) || true
 url="$(grep -oE 'https://armory-[a-z0-9]+-darwain\.vercel\.app' /tmp/armory-deploy.out | tail -1)"
 [[ "$url" == https://* ]] || { echo "deploy failed:"; tail -40 /tmp/armory-deploy.out; exit 1; }
 echo "  deployment: $url"
@@ -45,20 +51,25 @@ for _ in $(seq 1 60); do
 done
 [[ "$state" =~ ^(Ready|READY)$ ]] || { echo "timed out waiting for READY (last: $state)"; exit 1; }
 
-if [[ "${1:-}" != "--no-alias" ]]; then
+if [[ $preview -eq 0 ]]; then
   echo "▸ alias → $ALIAS"
   vercel alias set "$url" "$ALIAS" >/dev/null
 fi
 
-base="https://$ALIAS"; [[ "${1:-}" == "--no-alias" ]] && base="$url"
+base="https://$ALIAS"; [[ $preview -eq 1 ]] && base="$url"
+get() {  # get <path> <curl options>: a preview goes through `vercel curl`, which passes Vercel's login
+  local path=$1; shift
+  if [[ $preview -eq 1 ]]; then (cd "$WT/web" && vercel curl "$path" --deployment "$url" -- "$@" 2>/dev/null)
+  else curl "$@" "$base$path"; fi
+}
 echo "▸ verifying $base"
 fail=0
 for p in "${PAGES[@]}"; do
-  code="$(curl -s -o /dev/null -w '%{http_code}' "$base$p")"
+  code="$(get "$p" -s -o /dev/null -w '%{http_code}' | tail -1)"
   printf '  %s  %s\n' "$code" "$p"
   [[ "$code" == "200" ]] || fail=1
 done
-top="$(curl -s "$base/api/rank?limit=3" | node -e 'let s="";process.stdin.on("data",d=>s+=d).on("end",()=>{const j=JSON.parse(s);console.log(j.items.map(i=>`${i.name} ${i.universal} ev=${i.evidence} ${i.kind}`).join(" · "))})')"
+top="$(get "/api/rank?limit=3" -s | node -e 'let s="";process.stdin.on("data",d=>s+=d).on("end",()=>{const j=JSON.parse(s);console.log(j.items.map(i=>`${i.name} ${i.universal} ev=${i.evidence} ${i.kind}`).join(" · "))})')"
 echo "  /api/rank top-3: $top"
 [[ -n "$top" ]] || fail=1
 [[ $fail -eq 0 ]] && echo "✓ $sha is live on $base" || { echo "✗ verification failed"; exit 1; }

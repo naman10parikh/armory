@@ -1,0 +1,7 @@
+{
+  "name": "universal-api-connector-mcp",
+  "description": "Enables AI agents to connect to any API by loading OpenAPI, GraphQL, gRPC, or SOAP specs, with a built-in catalog of 2500+ public APIs, supporting secure execution, response filtering, chaining, and parallel calls.",
+  "source_repo": "TeodorMCP/universal-connector-mcp",
+  "source_url": "https://github.com/TeodorMCP/universal-connector-mcp",
+  "install": "npx -y universal-connector-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "practice-fusion-mcp",
+  "description": "Enables read-only FHIR access to Practice Fusion EHR to search patients, appointments, conditions, medications, and lab results.",
+  "source_repo": "kushaim/practice-fusion-mcp",
+  "source_url": "https://github.com/kushaim/practice-fusion-mcp",
+  "install": "npx -y practice-fusion-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-drive-universal-mcp-server",
+  "description": "Provides a standardized interface for interacting with Google Drive tools and services through a unified API.",
+  "source_repo": "universal-mcp/google-drive",
+  "source_url": "https://github.com/universal-mcp/google-drive",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/google-drive\n# See source for mcpServers config block"
+}

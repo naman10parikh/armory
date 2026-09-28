@@ -1,0 +1,7 @@
+{
+  "name": "mcp-zen-of-languages",
+  "description": "Enables AI assistants and developers to analyze code for language-specific best practices and idiomatic patterns across programming languages, CI automation, and configuration formats.",
+  "source_repo": "Anselmoo/mcp-zen-of-languages",
+  "source_url": "https://github.com/Anselmoo/mcp-zen-of-languages",
+  "install": "# git clone --depth 1 https://github.com/Anselmoo/mcp-zen-of-languages\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "keyshot-mcp",
+  "description": "A local MCP server that enables AI apps to control KeyShot Studio for scene inspection, rendering, model import, material application, camera adjustment, environment setting, and scene saving.",
+  "source_repo": "truman-t3/keyshot-mcp",
+  "source_url": "https://github.com/truman-t3/keyshot-mcp",
+  "install": "npx -y keyshot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "super-hevy-mcp",
+  "description": "MCP server for the Hevy workout tracker that enables users to query training history, log workouts, and manage routines via natural language.",
+  "source_repo": "stonelasley/hevy-mcp",
+  "source_url": "https://github.com/stonelasley/hevy-mcp",
+  "install": "npx -y hevy-mcp"
+}

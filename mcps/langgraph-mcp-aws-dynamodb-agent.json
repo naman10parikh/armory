@@ -1,0 +1,7 @@
+{
+  "name": "langgraph-mcp-aws-dynamodb-agent",
+  "description": "MCP server for AWS DynamoDB CRM data, enabling LangGraph agents to discover and call tools to retrieve customer accounts and support tickets via the Model Context Protocol.",
+  "source_repo": "gayatrianne/langgraph-mcp-aws-dynamodb-agent",
+  "source_url": "https://github.com/gayatrianne/langgraph-mcp-aws-dynamodb-agent",
+  "install": "# git clone --depth 1 https://github.com/gayatrianne/langgraph-mcp-aws-dynamodb-agent\n# See source for mcpServers config block"
+}

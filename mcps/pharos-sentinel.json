@@ -1,0 +1,7 @@
+{
+  "name": "pharos-sentinel",
+  "description": "Evaluates on-chain risk for Pharos agents before executing transactions, providing verdicts (safe/caution/dangerous) and risk-bounded execution plans via Foundry cast reads.",
+  "source_repo": "mattcrypted/pharos-sentinel",
+  "source_url": "https://github.com/mattcrypted/pharos-sentinel",
+  "install": "# git clone --depth 1 https://github.com/mattcrypted/pharos-sentinel\n# See source for mcpServers config block"
+}

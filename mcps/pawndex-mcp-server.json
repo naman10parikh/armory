@@ -1,0 +1,7 @@
+{
+  "name": "pawndex-mcp-server",
+  "description": "MCP server for the Pawn package index, enabling AI assistants to search and inspect Pawn packages, retrieve repository details, and view ecosystem statistics.",
+  "source_repo": "sittiev/pawndex_mcp_server",
+  "source_url": "https://github.com/sittiev/pawndex_mcp_server",
+  "install": "npx -y pawndex_mcp_server"
+}

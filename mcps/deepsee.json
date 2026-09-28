@@ -1,0 +1,7 @@
+{
+  "name": "deepsee",
+  "description": "MCP server that gives text-only LLMs like DeepSeek vision capabilities by converting images to text via vision APIs, enabling image description, OCR, and generation in MCP clients.",
+  "source_repo": "rikfish163-rgb/deepsee",
+  "source_url": "https://github.com/rikfish163-rgb/deepsee",
+  "install": "# git clone --depth 1 https://github.com/rikfish163-rgb/deepsee\n# See source for mcpServers config block"
+}

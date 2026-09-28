@@ -1,0 +1,7 @@
+{
+  "name": "huddle-mcp",
+  "description": "A broker that queues agent requests (plans, questions, FYIs) and batches them by urgency into proposed meetings, leaving actual calendar booking to an attached calendar MCP.",
+  "source_repo": "marcoloco23/huddle-mcp",
+  "source_url": "https://github.com/marcoloco23/huddle-mcp",
+  "install": "npx -y huddle-mcp"
+}

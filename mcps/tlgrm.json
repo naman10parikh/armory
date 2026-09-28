@@ -1,0 +1,7 @@
+{
+  "name": "tlgrm",
+  "description": "Drives a personal Telegram account from the terminal or via MCP, enabling AI assistants to list chats, send/edit messages, fetch history, manage groups, and more with tiered read/write/destructive permissions.",
+  "source_repo": "ali-commits/tlgrm",
+  "source_url": "https://github.com/ali-commits/tlgrm",
+  "install": "# git clone --depth 1 https://github.com/ali-commits/tlgrm\n# See source for mcpServers config block"
+}

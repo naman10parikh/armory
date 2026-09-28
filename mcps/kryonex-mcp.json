@@ -1,0 +1,7 @@
+{
+  "name": "kryonex-mcp",
+  "description": "A TypeScript-based MCP server implementing a simple notes system with resources, tools for creating notes, and prompts for summarization.",
+  "source_repo": "Ajayvtl/kryonex-mcp",
+  "source_url": "https://github.com/Ajayvtl/kryonex-mcp",
+  "install": "npx -y kryonex-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "posokanei-mcp",
+  "description": "Read-only MCP server for Greek supermarket product and price data from PosoKanei. Enables product search, barcode lookup, price comparison across retailers, and basket evaluation.",
+  "source_repo": "charistas/posokanei-mcp",
+  "source_url": "https://github.com/charistas/posokanei-mcp",
+  "install": "npx -y posokanei-mcp"
+}

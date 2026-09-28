@@ -1,0 +1,7 @@
+{
+  "name": "mssql-health-mcp",
+  "description": "Provides read-only SQL Server health and diagnostic tools using DMVs, enabling users to query server health, active queries with blocking, and missing indexes through natural language.",
+  "source_repo": "dmcteknoloji/mssql-health-mcp",
+  "source_url": "https://github.com/dmcteknoloji/mssql-health-mcp",
+  "install": "npx -y mssql-health-mcp"
+}

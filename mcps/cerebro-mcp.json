@@ -1,0 +1,7 @@
+{
+  "name": "cerebro-mcp",
+  "description": "Enables non-coders to build software by describing ideas in natural language, orchestrating AI agents and CLI workers via chat without needing a terminal.",
+  "source_repo": "Synvoya/cerebro-mcp",
+  "source_url": "https://github.com/Synvoya/cerebro-mcp",
+  "install": "npx -y cerebro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "web-mcp-2",
+  "description": "Provides MCP tools to search and read social discussions from Reddit and X, and fetch pages blocked by bot protection, using a private Cloudflare Worker.",
+  "source_repo": "mike-nott/web-mcp",
+  "source_url": "https://github.com/mike-nott/web-mcp",
+  "install": "npx -y web-mcp"
+}

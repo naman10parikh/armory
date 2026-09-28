@@ -1,0 +1,7 @@
+{
+  "name": "p12-sre-ops-mcp-server",
+  "description": "Enables SRE operations through natural language, providing tools to query SLO status, fetch runbooks, query alerts, and manage incidents with audit logging and latency tracking.",
+  "source_repo": "amarshiv86/p12-sre-mcp",
+  "source_url": "https://github.com/amarshiv86/p12-sre-mcp",
+  "install": "npx -y p12-sre-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "merchantguard-mcp-server",
+  "description": "Provides AI-native fraud scoring, risk intelligence, and compliance tools for AI agents processing payments across multiple rails.",
+  "source_repo": "MerchantGuardOps/merchantguard-mcp",
+  "source_url": "https://github.com/MerchantGuardOps/merchantguard-mcp",
+  "install": "npx -y merchantguard-mcp"
+}

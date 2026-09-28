@@ -1,0 +1,7 @@
+{
+  "name": "holosophy-mcp",
+  "description": "Enables AI agents to query a cross-disciplinary knowledge graph covering metaphysics, quantum physics, astronomy, and historical geography, with semantic search and relationship discovery.",
+  "source_repo": "vfvincentwong2026/holosophy-mcp",
+  "source_url": "https://github.com/vfvincentwong2026/holosophy-mcp",
+  "install": "npx -y holosophy-mcp"
+}

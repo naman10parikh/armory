@@ -1,0 +1,7 @@
+{
+  "name": "pyghidra-lite",
+  "description": "Token-efficient MCP server for Ghidra-based reverse engineering. Analyze ELF, Mach-O, and PE binaries with Swift, Objective-C, and Hermes support.",
+  "source_repo": "johnzfitch/pyghidra-lite",
+  "source_url": "https://github.com/johnzfitch/pyghidra-lite",
+  "install": "# git clone --depth 1 https://github.com/johnzfitch/pyghidra-lite\n# See source for mcpServers config block"
+}

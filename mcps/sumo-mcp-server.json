@@ -1,0 +1,7 @@
+{
+  "name": "sumo-mcp-server",
+  "description": "Enables AI agents to interact with Eclipse SUMO traffic simulations, automating tasks from data acquisition to signal optimization.",
+  "source_repo": "HypaSMarty/SUMO-MCP-Server",
+  "source_url": "https://github.com/HypaSMarty/SUMO-MCP-Server",
+  "install": "npx -y SUMO-MCP-Server"
+}

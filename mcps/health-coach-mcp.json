@@ -1,0 +1,7 @@
+{
+  "name": "health-coach-mcp",
+  "description": "A personal health and fitness MCP server that provides tools for managing profile data, goals, body measurements, nutrition, workouts, sleep, check-ins, life events, analytics, and coach memories via Supabase Postgres.",
+  "source_repo": "brian7989/fitness-mcp",
+  "source_url": "https://github.com/brian7989/fitness-mcp",
+  "install": "npx -y fitness-mcp"
+}

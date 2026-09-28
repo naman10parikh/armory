@@ -1,0 +1,7 @@
+{
+  "name": "kelvia-mcp-server",
+  "description": "An MCP server that exposes 58 tools for boards, tasks, comments, worklogs, stages, members, invitations, tags, and a personal day planner, letting AI agents manage Kelvia workspaces through natural language.",
+  "source_repo": "gonnagetapower/kelvia-mcp",
+  "source_url": "https://github.com/gonnagetapower/kelvia-mcp",
+  "install": "npx -y kelvia-mcp"
+}

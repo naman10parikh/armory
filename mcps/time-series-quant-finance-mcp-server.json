@@ -1,0 +1,7 @@
+{
+  "name": "time-series-quant-finance-mcp-server",
+  "description": "An MCP server that calculates technical analysis indicators for stock tickers using yfinance and pandas-ta, providing real-time financial data and quantitative analysis tools for LLMs.",
+  "source_repo": "AHNEMER/Stock-analysis-MCP-server",
+  "source_url": "https://github.com/AHNEMER/Stock-analysis-MCP-server",
+  "install": "npx -y Stock-analysis-MCP-server"
+}

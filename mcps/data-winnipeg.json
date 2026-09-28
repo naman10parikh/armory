@@ -1,0 +1,7 @@
+{
+  "name": "data-winnipeg",
+  "description": "Enables searching and querying Winnipeg Open Data datasets through natural language or SoQL, with tools for datasets, metadata, and row-level data.",
+  "source_repo": "pipeworx-io/mcp-data-winnipeg",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-winnipeg",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-winnipeg\n# See source for mcpServers config block"
+}

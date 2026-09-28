@@ -1,0 +1,7 @@
+{
+  "name": "onchaindiligence-mcp-server",
+  "description": "Enables AI agents to perform on-chain compliance checks such as sanctions screening and UK company verification, with autonomous payment via USDC using the x402 protocol.",
+  "source_repo": "Qazza1/onchaindiligence-mcp",
+  "source_url": "https://github.com/Qazza1/onchaindiligence-mcp",
+  "install": "npx -y onchaindiligence-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "inventory-guard-mcp-server",
+  "description": "Enables AI agents like Claude Desktop to read vulnerability reports, trigger scans, and manage findings for the Inventory Guard self-hosted vulnerability watchdog.",
+  "source_repo": "xordej/invguard",
+  "source_url": "https://github.com/xordej/invguard",
+  "install": "# git clone --depth 1 https://github.com/xordej/invguard\n# See source for mcpServers config block"
+}

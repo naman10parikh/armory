@@ -1,0 +1,7 @@
+{
+  "name": "nova-mcp-bcp-counting",
+  "description": "Enables Claude to guide developers through structured complexity estimation using BCP Plus methodology, counting 13 dimensions and persisting results for H/BCP tracking.",
+  "source_repo": "dpetruz/nova.mcp-bcp-counting",
+  "source_url": "https://github.com/dpetruz/nova.mcp-bcp-counting",
+  "install": "# git clone --depth 1 https://github.com/dpetruz/nova.mcp-bcp-counting\n# See source for mcpServers config block"
+}

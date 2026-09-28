@@ -1,0 +1,7 @@
+{
+  "name": "dsh-tools-mcp",
+  "description": "MCP server wrapping DeepSeek's agent harness tools into minimal/standard modes, enabling persistent shell, file editing, search, job management, and more via natural language.",
+  "source_repo": "hqzqaq/dsh-tools-mcp",
+  "source_url": "https://github.com/hqzqaq/dsh-tools-mcp",
+  "install": "npx -y dsh-tools-mcp"
+}

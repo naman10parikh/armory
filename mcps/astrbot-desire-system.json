@@ -1,0 +1,7 @@
+{
+  "name": "astrbot-desire-system",
+  "description": "MCP server that simulates an AI's desire-driven internal state with nine dimensions, event-based updates, dynamic heartbeat, thought pool, and persistent storage, enabling behavior suggestions and inner monologue generation.",
+  "source_repo": "Whyomi1122/desire-mcp-server-main",
+  "source_url": "https://github.com/Whyomi1122/desire-mcp-server-main",
+  "install": "# git clone --depth 1 https://github.com/Whyomi1122/desire-mcp-server-main\n# See source for mcpServers config block"
+}

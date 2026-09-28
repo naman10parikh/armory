@@ -1,6 +1,6 @@
 {
   "name": "paypal-mcp-backdated",
-  "description": "PayPal MCP Backdated MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "arbuthnot-eth/PayPal-MCP-Backdated",
   "source_url": "https://mcp.so/server/PayPal-MCP-Backdated/arbuthnot-eth",
   "install": "# git clone --depth 1 https://mcp.so/server/PayPal-MCP-Backdated/arbuthnot-eth\n# See source for mcpServers config block"

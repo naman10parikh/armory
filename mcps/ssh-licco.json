@@ -1,0 +1,7 @@
+{
+  "name": "ssh-licco",
+  "description": "Enables natural language control of SSH servers, allowing users to execute commands, manage files, view logs, deploy applications, and more through AI-driven conversations.",
+  "source_repo": "Echoqili/ssh-licco",
+  "source_url": "https://github.com/Echoqili/ssh-licco",
+  "install": "# git clone --depth 1 https://github.com/Echoqili/ssh-licco\n# See source for mcpServers config block"
+}

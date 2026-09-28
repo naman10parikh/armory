@@ -1,0 +1,7 @@
+{
+  "name": "daykeeper",
+  "description": "An MCP server that helps you remember special days and suggests personalized gifts and celebration messages based on relationships and budgets.",
+  "source_repo": "bugoms/daykeeper-mcp",
+  "source_url": "https://github.com/bugoms/daykeeper-mcp",
+  "install": "npx -y daykeeper-mcp"
+}

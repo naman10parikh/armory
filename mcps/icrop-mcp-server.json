@@ -1,0 +1,7 @@
+{
+  "name": "icrop-mcp-server",
+  "description": "Enables querying iCrop farm management data including farms, crops, fields, soil types, and cultivation methods through natural language.",
+  "source_repo": "Jambathor/mcp-server-icrop",
+  "source_url": "https://github.com/Jambathor/mcp-server-icrop",
+  "install": "# git clone --depth 1 https://github.com/Jambathor/mcp-server-icrop\n# See source for mcpServers config block"
+}

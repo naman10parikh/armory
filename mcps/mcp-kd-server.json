@@ -1,0 +1,7 @@
+{
+  "name": "mcp-kd-server",
+  "description": "An MCP server for managing OpenText Knowledge Discovery content engines, enabling AI assistants to create, delete, list databases, delete documents, query engine status, and manage engine configuration through natural language.",
+  "source_repo": "joesoc/MCP-Server-for-OpenText-Knowledge-Discovery",
+  "source_url": "https://github.com/joesoc/MCP-Server-for-OpenText-Knowledge-Discovery",
+  "install": "# git clone --depth 1 https://github.com/joesoc/MCP-Server-for-OpenText-Knowledge-Discovery\n# See source for mcpServers config block"
+}

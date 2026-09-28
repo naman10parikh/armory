@@ -1,0 +1,7 @@
+{
+  "name": "ironic-backport-agent",
+  "description": "Automates backporting upstream Ironic changes across OpenShift release branches using Claude AI for intelligent decision-making and natural language interaction.",
+  "source_repo": "jadhaj/ironic-backport-agent",
+  "source_url": "https://github.com/jadhaj/ironic-backport-agent",
+  "install": "# git clone --depth 1 https://github.com/jadhaj/ironic-backport-agent\n# See source for mcpServers config block"
+}

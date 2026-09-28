@@ -1,0 +1,7 @@
+{
+  "name": "promtpress-ads-mcp-server",
+  "description": "MCP server for buying advertising outcomes such as Telegram subscribers and website traffic from a prepaid balance. Provides tools for campaign management, forecasting, and budget control, with guardrails so agents can spend but not fund or withdraw.",
+  "source_repo": "x3clv/promtpress-mcp",
+  "source_url": "https://github.com/x3clv/promtpress-mcp",
+  "install": "npx -y promtpress-mcp"
+}

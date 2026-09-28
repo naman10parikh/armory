@@ -1,0 +1,7 @@
+{
+  "name": "roblox-executor-mcp-server",
+  "description": "Enables AI agents to execute Lua code, inspect scripts, spy on remotes, and interact with a running Roblox game client through an MCP interface.",
+  "source_repo": "RealSlimShady2000/exploitMCP420Edition",
+  "source_url": "https://github.com/RealSlimShady2000/exploitMCP420Edition",
+  "install": "# git clone --depth 1 https://github.com/RealSlimShady2000/exploitMCP420Edition\n# See source for mcpServers config block"
+}

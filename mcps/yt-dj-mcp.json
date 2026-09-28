@@ -1,0 +1,7 @@
+{
+  "name": "yt-dj-mcp",
+  "description": "Syncs YouTube Music liked songs, analyzes them for DJ metadata like BPM and key, and enables creating playlists from previews.",
+  "source_repo": "didtjd59/yt-dj-mcp",
+  "source_url": "https://github.com/didtjd59/yt-dj-mcp",
+  "install": "npx -y yt-dj-mcp"
+}

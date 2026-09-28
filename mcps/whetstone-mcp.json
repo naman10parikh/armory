@@ -1,0 +1,7 @@
+{
+  "name": "whetstone-mcp",
+  "description": "An MCP server for U.S. public-records data, enabling AI agents to search business registrations, screen names against government watchlists, and pull federal awards.",
+  "source_repo": "whetstone-tools/whetstone-mcp",
+  "source_url": "https://github.com/whetstone-tools/whetstone-mcp",
+  "install": "npx -y whetstone-mcp"
+}

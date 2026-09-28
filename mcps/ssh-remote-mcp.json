@@ -1,0 +1,7 @@
+{
+  "name": "ssh-remote-mcp",
+  "description": "A secure SSH-based MCP server for diagnosing remote servers. It allows AI agents to execute read-only commands and read files automatically, while requiring user confirmation for write operations.",
+  "source_repo": "yongxiaodong/ssh-remote-mcp",
+  "source_url": "https://github.com/yongxiaodong/ssh-remote-mcp",
+  "install": "npx -y ssh-remote-mcp"
+}

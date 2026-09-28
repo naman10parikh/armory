@@ -1,0 +1,7 @@
+{
+  "name": "veradata",
+  "description": "MCP server providing verified Latin American data via x402 micropayments. 4 MCP tools: vera_rates (central bank rates CO/MX/BR/CL/PE), vera_sanctions (OFAC+SARLAFT+CNBV+COAF+UAF screening, EU AI Act Art.13), vera_entity (RUES/CNPJ/RFC enrichment), vera_context (AI market intelligence). $0.02–$0.10 U",
+  "source_repo": "teodorofodocrispin-cmyk/veradata",
+  "source_url": "https://github.com/teodorofodocrispin-cmyk/veradata",
+  "install": "# git clone --depth 1 https://github.com/teodorofodocrispin-cmyk/veradata\n# See source for mcpServers config block"
+}

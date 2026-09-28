@@ -1,0 +1,7 @@
+{
+  "name": "ynab-budget-mcp",
+  "description": "Provides a read-only interface to YNAB budget data, allowing AI assistants to inspect budgets, accounts, categories, transactions, and more. Includes an experimental guarded write workflow for category assignments.",
+  "source_repo": "Orlando-Villanueva/ynab-budget-mcp",
+  "source_url": "https://github.com/Orlando-Villanueva/ynab-budget-mcp",
+  "install": "npx -y ynab-budget-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apple-image-mcp",
+  "description": "On-device AI image generation for macOS with 17 tools and zero API keys, combining Apple Intelligence and Pollinations for stylized and photorealistic images, auto-cropping for 40+ social media platforms.",
+  "source_repo": "vakandi/apple-image-mcp",
+  "source_url": "https://github.com/vakandi/apple-image-mcp",
+  "install": "npx -y apple-image-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chameleon",
+  "description": "MCP server for agent-friendly web scraping with adaptive anti-bot bypass, dynamic rendering, and structured data extraction via 12 tools.",
+  "source_repo": "xiabai2008/chameleon",
+  "source_url": "https://github.com/xiabai2008/chameleon",
+  "install": "# git clone --depth 1 https://github.com/xiabai2008/chameleon\n# See source for mcpServers config block"
+}

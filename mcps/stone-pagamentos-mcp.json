@@ -1,0 +1,7 @@
+{
+  "name": "stone-pagamentos-mcp",
+  "description": "Connects Stone Pagamentos accounts to AI assistants via Open Finance Brasil, enabling read-only queries on balances, statements, credit card bills, and investments using natural language.",
+  "source_repo": "mcp-dir/stonepagamentos-mcp",
+  "source_url": "https://github.com/mcp-dir/stonepagamentos-mcp",
+  "install": "npx -y stonepagamentos-mcp"
+}

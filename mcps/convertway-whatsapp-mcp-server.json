@@ -1,0 +1,7 @@
+{
+  "name": "convertway-whatsapp-mcp-server",
+  "description": "Enables sending WhatsApp, SMS, and Email messages via the Convertway API, with tools for template management, delivery status, and conversation logging.",
+  "source_repo": "QalaLabs/convertway-whatsapp-mcp",
+  "source_url": "https://github.com/QalaLabs/convertway-whatsapp-mcp",
+  "install": "npx -y convertway-whatsapp-mcp"
+}

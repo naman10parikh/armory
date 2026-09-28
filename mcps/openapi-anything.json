@@ -1,0 +1,7 @@
+{
+  "name": "openapi-anything",
+  "description": "Enables creating and using REST APIs from natural language descriptions, with MCP tools to generate, manage, and interact with deployed API wrappers.",
+  "source_repo": "schniggie/openapi-anything",
+  "source_url": "https://github.com/schniggie/openapi-anything",
+  "install": "# git clone --depth 1 https://github.com/schniggie/openapi-anything\n# See source for mcpServers config block"
+}

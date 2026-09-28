@@ -1,0 +1,7 @@
+{
+  "name": "lachesis-mcp",
+  "description": "Exposes Lachesis's code navigation tools over MCP, letting LLM agents ask precise compiler-level questions about dataflow, taint, callers, and guards in source code.",
+  "source_repo": "UnboundCompute/lachesis",
+  "source_url": "https://github.com/UnboundCompute/lachesis",
+  "install": "# git clone --depth 1 https://github.com/UnboundCompute/lachesis\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "banco-sofisa-mcp",
+  "description": "Connects Banco Sofisa accounts via Open Finance Brasil, enabling AI assistants to query balances, transactions, credit card bills, and investments using natural language, with read-only access.",
+  "source_repo": "mcp-dir/sofisa-mcp",
+  "source_url": "https://github.com/mcp-dir/sofisa-mcp",
+  "install": "npx -y sofisa-mcp"
+}

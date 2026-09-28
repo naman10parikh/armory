@@ -1,0 +1,7 @@
+{
+  "name": "nlqueries",
+  "description": "Natural language to SQL engine with multi-connector support (PostgreSQL, MySQL, Snowflake, BigQuery, DuckDB), document QA, semantic caching, and self-hosted MCP server.",
+  "source_repo": "nlqueries/nlqueries",
+  "source_url": "https://github.com/nlqueries/nlqueries",
+  "install": "# git clone --depth 1 https://github.com/nlqueries/nlqueries\n# See source for mcpServers config block"
+}

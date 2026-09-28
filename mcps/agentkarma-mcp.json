@@ -1,0 +1,7 @@
+{
+  "name": "agentkarma-mcp",
+  "description": "Exposes AgentKarma's read-only trust and reputation tools (karma, agents, succession, bonds, check_trust) to any MCP client for checking on-chain agent reputation.",
+  "source_repo": "agentkarmaio/mcp",
+  "source_url": "https://github.com/agentkarmaio/mcp",
+  "install": "# git clone --depth 1 https://github.com/agentkarmaio/mcp\n# See source for mcpServers config block"
+}

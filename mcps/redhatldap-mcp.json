@@ -1,0 +1,7 @@
+{
+  "name": "redhatldap-mcp",
+  "description": "Provides read-only access to corporate LDAP directories, enabling AI assistants to search for people, navigate organizational hierarchies, and export contact information.",
+  "source_repo": "jlaska/RedHatLDAP-MCP",
+  "source_url": "https://github.com/jlaska/RedHatLDAP-MCP",
+  "install": "npx -y RedHatLDAP-MCP"
+}

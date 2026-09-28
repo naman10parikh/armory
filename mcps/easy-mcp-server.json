@@ -1,0 +1,7 @@
+{
+  "name": "easy-mcp-server",
+  "description": "A simple toolkit for creating MCP servers with stdio and SSE transport, auto-validating tools via Pydantic.",
+  "source_repo": "joshwyatt/easy-mcp-server",
+  "source_url": "https://github.com/joshwyatt/easy-mcp-server",
+  "install": "npx -y easy-mcp-server"
+}

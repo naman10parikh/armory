@@ -1,0 +1,7 @@
+{
+  "name": "cleyrop-mcp",
+  "description": "MCP server to interact with Cleyrop work data: browse, search, read file content, and manage files/folders.",
+  "source_repo": "MartinCley/Donnees-de-travail-MCP",
+  "source_url": "https://github.com/MartinCley/Donnees-de-travail-MCP",
+  "install": "npx -y Donnees-de-travail-MCP"
+}

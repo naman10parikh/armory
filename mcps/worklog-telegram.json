@@ -1,0 +1,7 @@
+{
+  "name": "worklog-telegram",
+  "description": "Logs work entries to daily Markdown files and sends summaries to Telegram automatically at 11 PM or on demand.",
+  "source_repo": "Rithvickkr/code-logs",
+  "source_url": "https://github.com/Rithvickkr/code-logs",
+  "install": "# git clone --depth 1 https://github.com/Rithvickkr/code-logs\n# See source for mcpServers config block"
+}

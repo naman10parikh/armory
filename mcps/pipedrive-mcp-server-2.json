@@ -1,0 +1,7 @@
+{
+  "name": "pipedrive-mcp-server-2",
+  "description": "A comprehensive MCP server for the Pipedrive CRM API, enabling AI assistants to read, write, and analyze CRM data conversationally through 100 tools including performance reporting and loss analysis.",
+  "source_repo": "GarethWright/PipeDrive-MCP-Server",
+  "source_url": "https://github.com/GarethWright/PipeDrive-MCP-Server",
+  "install": "npx -y PipeDrive-MCP-Server"
+}

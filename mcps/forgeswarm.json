@@ -1,0 +1,7 @@
+{
+  "name": "forgeswarm",
+  "description": "An MCP server that turns independent AI agents into a coordinated engineering team with shared task board, context, review loop, and enforced plan-implement-review-iterate workflow.",
+  "source_repo": "H2SO4620/forgeswarm",
+  "source_url": "https://github.com/H2SO4620/forgeswarm",
+  "install": "# git clone --depth 1 https://github.com/H2SO4620/forgeswarm\n# See source for mcpServers config block"
+}

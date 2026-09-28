@@ -1,0 +1,7 @@
+{
+  "name": "graphql2mcp",
+  "description": "Convert GraphQL schemas and endpoints into Model Context Protocol (MCP) servers.",
+  "source_repo": "KKonstantinov/graphql2mcp",
+  "source_url": "https://github.com/KKonstantinov/graphql2mcp",
+  "install": "# git clone --depth 1 https://github.com/KKonstantinov/graphql2mcp\n# See source for mcpServers config block"
+}

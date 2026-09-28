@@ -1,0 +1,7 @@
+{
+  "name": "idnow-mcp-server",
+  "description": "An MCP server that lets LLM agents operate the IDnow Trust Platform sandbox to list verification flows, create sessions, check sessions, and get session details.",
+  "source_repo": "DevMohith/idnow-mcp-server",
+  "source_url": "https://github.com/DevMohith/idnow-mcp-server",
+  "install": "npx -y idnow-mcp-server"
+}

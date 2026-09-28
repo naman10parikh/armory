@@ -1,0 +1,7 @@
+{
+  "name": "k-sign-mcp-server",
+  "description": "Provides Korean Sign Language (KSL) data through MCP, enabling search and retrieval of sign language terms and details.",
+  "source_repo": "a4file/k-sign-mcp-server",
+  "source_url": "https://github.com/a4file/k-sign-mcp-server",
+  "install": "npx -y k-sign-mcp-server"
+}

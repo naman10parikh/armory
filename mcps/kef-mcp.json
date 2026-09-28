@@ -1,0 +1,7 @@
+{
+  "name": "kef-mcp",
+  "description": "MCP server for controlling KEF wireless speakers (LSX II, LS50 Wireless II, LS60) and playing Spotify on them via local network and Spotify Web API.",
+  "source_repo": "nqrwhal/kef-mcp",
+  "source_url": "https://github.com/nqrwhal/kef-mcp",
+  "install": "npx -y kef-mcp"
+}

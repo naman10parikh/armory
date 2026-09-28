@@ -1,0 +1,7 @@
+{
+  "name": "ons-trade-data-api-mcp-server",
+  "description": "MCP server that provides access to UK trade data from the ONS Trade Data API, enabling queries for trade statistics, metadata, and raw data.",
+  "source_repo": "henryjameslau/ons-trade-data-api-mcp",
+  "source_url": "https://github.com/henryjameslau/ons-trade-data-api-mcp",
+  "install": "npx -y ons-trade-data-api-mcp"
+}

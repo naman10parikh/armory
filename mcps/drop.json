@@ -1,0 +1,7 @@
+{
+  "name": "drop",
+  "description": "Publishes HTML pages straight from your AI assistant to a shareable URL, then lets you manage them - update, list, search, fetch, and delete pages in a public or private workspace. Turns \"share what I just made\" into a single tool call from Claude, Cursor, or any MCP client.",
+  "source_repo": "neuronik-io/drop",
+  "source_url": "https://github.com/neuronik-io/drop",
+  "install": "# git clone --depth 1 https://github.com/neuronik-io/drop\n# See source for mcpServers config block"
+}

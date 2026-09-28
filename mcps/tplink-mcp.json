@@ -1,0 +1,7 @@
+{
+  "name": "tplink-mcp",
+  "description": "Enables AI agents to manage TP-Link routers by listing clients, checking status, controlling Wi-Fi, and rebooting via natural language.",
+  "source_repo": "axo4xo/tplinkcli",
+  "source_url": "https://github.com/axo4xo/tplinkcli",
+  "install": "# git clone --depth 1 https://github.com/axo4xo/tplinkcli\n# See source for mcpServers config block"
+}

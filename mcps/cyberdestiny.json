@@ -1,0 +1,7 @@
+{
+  "name": "cyberdestiny",
+  "description": "Provides 35 MCP tools for Chinese metaphysical divination, including BaZi, ZiWei, QiMen, and daily fortune subscriptions, enabling AI agents to perform complex fortune-telling and calendar predictions.",
+  "source_repo": "jackychen129/cyberdestiny",
+  "source_url": "https://github.com/jackychen129/cyberdestiny",
+  "install": "# git clone --depth 1 https://github.com/jackychen129/cyberdestiny\n# See source for mcpServers config block"
+}

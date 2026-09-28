@@ -1,0 +1,7 @@
+{
+  "name": "mcp-use-scalekit-mcp-auth",
+  "description": "An MCP server demonstrating OAuth 2.1 authentication with Scalekit, enabling per-user identity in MCP tools through JWT verification.",
+  "source_repo": "scalekit-developers/scalekit-mcpuse-example",
+  "source_url": "https://github.com/scalekit-developers/scalekit-mcpuse-example",
+  "install": "# git clone --depth 1 https://github.com/scalekit-developers/scalekit-mcpuse-example\n# See source for mcpServers config block"
+}

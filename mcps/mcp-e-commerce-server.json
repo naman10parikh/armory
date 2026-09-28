@@ -1,0 +1,7 @@
+{
+  "name": "mcp-e-commerce-server",
+  "description": "Enables e-commerce product management with CRUD operations, AI-powered descriptions, and MySQL database integration via MCP.",
+  "source_repo": "prasal007/mcp",
+  "source_url": "https://github.com/prasal007/mcp",
+  "install": "# git clone --depth 1 https://github.com/prasal007/mcp\n# See source for mcpServers config block"
+}

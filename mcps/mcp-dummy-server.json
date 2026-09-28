@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dummy-server",
+  "description": "A simple MCP server providing dummy data tools for days of the week and postal codes, with Streamable HTTP transport and optional API key authentication.",
+  "source_repo": "mhdarifsetiawan01/semantic-mcp-server",
+  "source_url": "https://github.com/mhdarifsetiawan01/semantic-mcp-server",
+  "install": "npx -y semantic-mcp-server"
+}

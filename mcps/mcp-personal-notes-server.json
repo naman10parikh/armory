@@ -1,0 +1,7 @@
+{
+  "name": "mcp-personal-notes-server",
+  "description": "MCP server for managing personal notes with tools to save, list, get, search, and delete notes, persisting data in PostgreSQL.",
+  "source_repo": "SRCarlo/mcp-personal-notes-server",
+  "source_url": "https://github.com/SRCarlo/mcp-personal-notes-server",
+  "install": "# git clone --depth 1 https://github.com/SRCarlo/mcp-personal-notes-server\n# See source for mcpServers config block"
+}

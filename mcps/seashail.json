@@ -1,0 +1,7 @@
+{
+  "name": "seashail",
+  "description": "Agent-native, self-hosted MCP server for crypto trading and DeFi management. Enables agents to query balances, execute trades, and manage positions with a policy engine and secure key storage.",
+  "source_repo": "seashail/seashail",
+  "source_url": "https://github.com/seashail/seashail",
+  "install": "# git clone --depth 1 https://github.com/seashail/seashail\n# See source for mcpServers config block"
+}

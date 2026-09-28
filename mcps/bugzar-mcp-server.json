@@ -1,0 +1,7 @@
+{
+  "name": "bugzar-mcp-server",
+  "description": "Enables AI agents to query and triage Bugzar QA session reports (status, comments, repro steps, console errors, failed requests, network, system info) scoped to a project via the MCP protocol.",
+  "source_repo": "syi0808/bugzar-server",
+  "source_url": "https://github.com/syi0808/bugzar-server",
+  "install": "# git clone --depth 1 https://github.com/syi0808/bugzar-server\n# See source for mcpServers config block"
+}

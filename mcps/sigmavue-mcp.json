@@ -1,0 +1,7 @@
+{
+  "name": "sigmavue-mcp",
+  "description": "MCP server for controlling SigmaVue trading accounts from the terminal or MCP-speaking assistants. Provides tools for account status, journal, portfolio, simulated trade execution, and copy-trading group management.",
+  "source_repo": "Sigma-Algo/sigmavue-cli",
+  "source_url": "https://github.com/Sigma-Algo/sigmavue-cli",
+  "install": "# git clone --depth 1 https://github.com/Sigma-Algo/sigmavue-cli\n# See source for mcpServers config block"
+}

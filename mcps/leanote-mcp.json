@@ -1,0 +1,7 @@
+{
+  "name": "leanote-mcp",
+  "description": "Enables interaction with a self-hosted Leanote note service, allowing users to list notebooks and create notes.",
+  "source_repo": "hottersquash/leanote-mcp",
+  "source_url": "https://github.com/hottersquash/leanote-mcp",
+  "install": "npx -y leanote-mcp"
+}

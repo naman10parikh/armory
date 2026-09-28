@@ -1,0 +1,7 @@
+{
+  "name": "tidesman",
+  "description": "A free native MCP server for running, understanding, and debugging Linux containers on macOS using Apple's container tool, with audit trail and configurable safety modes.",
+  "source_repo": "JeronimoColon/tidesman-mcp",
+  "source_url": "https://github.com/JeronimoColon/tidesman-mcp",
+  "install": "npx -y tidesman-mcp"
+}

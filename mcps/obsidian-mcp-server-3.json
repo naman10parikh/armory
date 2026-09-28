@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-mcp-server-3",
+  "description": "Enables external applications to interact with an Obsidian vault through MCP tools, including semantic search and file operations.",
+  "source_repo": "Minhao-Zhang/obsidian-mcp-server",
+  "source_url": "https://github.com/Minhao-Zhang/obsidian-mcp-server",
+  "install": "npx -y obsidian-mcp-server"
+}

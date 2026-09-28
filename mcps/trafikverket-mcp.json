@@ -1,0 +1,7 @@
+{
+  "name": "trafikverket-mcp",
+  "description": "Provides real-time access to Swedish road weather, traffic cameras, road conditions, and traffic flow data from Trafikverket (Swedish Transport Administration). Enables users to query weather stations, cameras, traffic situations, and flow data through natural language.",
+  "source_repo": "hniska/trafikverket-mcp",
+  "source_url": "https://github.com/hniska/trafikverket-mcp",
+  "install": "npx -y trafikverket-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aws-resource-mcp",
+  "description": "A local MCP server for read-only querying of AWS resources (Lambda, S3) via Boto3, currently exposing a health check tool with planned tools for listing resources and checking free tier.",
+  "source_repo": "herrerogusano/aws-resource-mcp",
+  "source_url": "https://github.com/herrerogusano/aws-resource-mcp",
+  "install": "npx -y aws-resource-mcp"
+}

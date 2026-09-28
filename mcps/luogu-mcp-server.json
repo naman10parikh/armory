@@ -1,0 +1,7 @@
+{
+  "name": "luogu-mcp-server",
+  "description": "A read-only MCP server for discovering and fetching Luogu problems, training sets, and user profiles.",
+  "source_repo": "Kaiserunix/luogu-mcp-server",
+  "source_url": "https://github.com/Kaiserunix/luogu-mcp-server",
+  "install": "npx -y luogu-mcp-server"
+}

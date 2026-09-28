@@ -1,0 +1,7 @@
+{
+  "name": "patent-agent",
+  "description": "Enables conversational patent data analysis through a set of tools for trend analysis, clustering, word cloud generation, and more. Allows natural language queries to explore patent datasets with structured results and visualizations.",
+  "source_repo": "iStoryOfSpring/PatentAgent",
+  "source_url": "https://github.com/iStoryOfSpring/PatentAgent",
+  "install": "# git clone --depth 1 https://github.com/iStoryOfSpring/PatentAgent\n# See source for mcpServers config block"
+}

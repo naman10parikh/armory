@@ -1,0 +1,7 @@
+{
+  "name": "otask-mcp-server",
+  "description": "MCP server and HTTP proxy for O!task API that enables managing tasks (get, update) through natural language.",
+  "source_repo": "grigoreo-dev/otask-mcp",
+  "source_url": "https://github.com/grigoreo-dev/otask-mcp",
+  "install": "npx -y otask-mcp"
+}

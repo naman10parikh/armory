@@ -1,0 +1,7 @@
+{
+  "name": "earmark",
+  "description": "MCP server that lets coding agents receive UI feedback from a browser overlay—clicked elements, selectors, source paths, and computed styles—and manage it with watch, ask, acknowledge, resolve, and dismiss tools.",
+  "source_repo": "nahar-strativ/Agentic",
+  "source_url": "https://github.com/nahar-strativ/Agentic",
+  "install": "# git clone --depth 1 https://github.com/nahar-strativ/Agentic\n# See source for mcpServers config block"
+}

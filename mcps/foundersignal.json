@@ -1,0 +1,7 @@
+{
+  "name": "foundersignal",
+  "description": "Ask Claude what SaaS ideas are worth building. Aggregates revenue data, growth signals and pain points from AppSumo, TrustMRR, Product Hunt, Indie Hackers, Reddit and more.",
+  "source_repo": "carlosalvite/foundersignal-mcp",
+  "source_url": "https://github.com/carlosalvite/foundersignal-mcp",
+  "install": "npx -y foundersignal-mcp"
+}

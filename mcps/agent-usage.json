@@ -1,0 +1,7 @@
+{
+  "name": "agent-usage",
+  "description": "Exposes rate-limit and usage data for AI coding agent CLIs as MCP tools, enabling querying of usage snapshots and reset times.",
+  "source_repo": "kitsuyui/agent-usage",
+  "source_url": "https://github.com/kitsuyui/agent-usage",
+  "install": "# git clone --depth 1 https://github.com/kitsuyui/agent-usage\n# See source for mcpServers config block"
+}

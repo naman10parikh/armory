@@ -1,0 +1,7 @@
+{
+  "name": "azure-billing-mcp-server",
+  "description": "MCP server for Azure cost analysis via the Azure Cost Management Query API, deployed to Google Cloud Run for use with Gemini Enterprise.",
+  "source_repo": "vamsitejeswar/Azure-Billing-mcp-server",
+  "source_url": "https://github.com/vamsitejeswar/Azure-Billing-mcp-server",
+  "install": "npx -y Azure-Billing-mcp-server"
+}

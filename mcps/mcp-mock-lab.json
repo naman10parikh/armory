@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mock-lab",
+  "description": "A FastAPI + FastMCP dashboard for registering MCP mock server contracts and connecting to them via Streamable HTTP endpoints.",
+  "source_repo": "zerozidi22/mcp-helper",
+  "source_url": "https://github.com/zerozidi22/mcp-helper",
+  "install": "# git clone --depth 1 https://github.com/zerozidi22/mcp-helper\n# See source for mcpServers config block"
+}

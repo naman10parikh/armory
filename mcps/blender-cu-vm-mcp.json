@@ -1,0 +1,7 @@
+{
+  "name": "blender-cu-vm-mcp",
+  "description": "Enables AI coding agents to perform automated Blender UI testing, user-story validation, and computer-use workflows inside an isolated GPU-partitioned Windows 11 VM without disrupting the host desktop.",
+  "source_repo": "trdillman/blender-computer-use-vm",
+  "source_url": "https://github.com/trdillman/blender-computer-use-vm",
+  "install": "# git clone --depth 1 https://github.com/trdillman/blender-computer-use-vm\n# See source for mcpServers config block"
+}

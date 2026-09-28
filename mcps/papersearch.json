@@ -1,0 +1,7 @@
+{
+  "name": "papersearch",
+  "description": "Enables AI coding agents to search academic papers, resolve biomedical entities, mine relations, and traverse citation graphs using Semantic Scholar and PubTator3, with local caching for reproducibility.",
+  "source_repo": "FreddieWho/searchPaper",
+  "source_url": "https://github.com/FreddieWho/searchPaper",
+  "install": "# git clone --depth 1 https://github.com/FreddieWho/searchPaper\n# See source for mcpServers config block"
+}

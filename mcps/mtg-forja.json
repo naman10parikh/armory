@@ -1,0 +1,7 @@
+{
+  "name": "mtg-forja",
+  "description": "Enables Magic: The Gathering players to analyze deck lists using real Scryfall oracle text, detecting synergies and conflicts. Generates three viewable documents: an interactive synergy map, a detailed guide, and a printable cheat sheet.",
+  "source_repo": "grutino/mtg-forja",
+  "source_url": "https://github.com/grutino/mtg-forja",
+  "install": "# git clone --depth 1 https://github.com/grutino/mtg-forja\n# See source for mcpServers config block"
+}

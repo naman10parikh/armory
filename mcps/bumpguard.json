@@ -1,0 +1,7 @@
+{
+  "name": "bumpguard",
+  "description": "BumpGuard is an MCP server that tells your AI coding agent exactly which lines of your code break when you upgrade a dependency, and verifies AI-written code against the actually installed API.",
+  "source_repo": "appcreationsca/bumpguard-mcp",
+  "source_url": "https://github.com/appcreationsca/bumpguard-mcp",
+  "install": "npx -y bumpguard-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hubnote-mcp-server",
+  "description": "MCP server for hubNote, enabling AI assistants to manage workspaces, pages, and data rows via natural language.",
+  "source_repo": "wlzerd/hubnote-mcp-server",
+  "source_url": "https://github.com/wlzerd/hubnote-mcp-server",
+  "install": "npx -y hubnote-mcp-server"
+}

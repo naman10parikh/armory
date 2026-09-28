@@ -1,0 +1,7 @@
+{
+  "name": "ucontrol-mcp",
+  "description": "MCP server for uControl, enabling read and write operations on schema, assets, and uMap via segregated tools with authentication.",
+  "source_repo": "codefitz/ucontrol-mcp",
+  "source_url": "https://github.com/codefitz/ucontrol-mcp",
+  "install": "npx -y ucontrol-mcp"
+}

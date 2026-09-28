@@ -1,0 +1,7 @@
+{
+  "name": "garmin-raw-mcp",
+  "description": "Provides raw Garmin Connect data access for training analysis, enabling retrieval of activity summaries, lap data, time-series streams, comments with lactate, wellness metrics, and personal records through an MCP interface.",
+  "source_repo": "asilenin/Garmin-TN-MCP",
+  "source_url": "https://github.com/asilenin/Garmin-TN-MCP",
+  "install": "npx -y Garmin-TN-MCP"
+}

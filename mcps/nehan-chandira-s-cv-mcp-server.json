@@ -1,0 +1,7 @@
+{
+  "name": "nehan-chandira-s-cv-mcp-server",
+  "description": "Enables AI assistants to chat about Nehan Chandira's CV and send email notifications.",
+  "source_repo": "WANehan923/MCP-Server",
+  "source_url": "https://github.com/WANehan923/MCP-Server",
+  "install": "# git clone --depth 1 https://github.com/WANehan923/MCP-Server\n# See source for mcpServers config block"
+}

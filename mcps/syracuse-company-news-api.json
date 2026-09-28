@@ -1,0 +1,7 @@
+{
+  "name": "syracuse-company-news-api",
+  "description": "Enables access to Syracuse Company news API for registering accounts and fetching stories by location, industry, or organization. Supports local and remote MCP server modes.",
+  "source_repo": "1145-am/syracuse-mcp-server",
+  "source_url": "https://github.com/1145-am/syracuse-mcp-server",
+  "install": "npx -y syracuse-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gda-mcp-server",
+  "description": "Enables Android APK static analysis in Cursor/Claude via GDA CLI Server, supporting reconnaissance, attack surface scanning, and code decompilation through natural language.",
+  "source_repo": "autozw/gda-mcp-server",
+  "source_url": "https://github.com/autozw/gda-mcp-server",
+  "install": "npx -y gda-mcp-server"
+}

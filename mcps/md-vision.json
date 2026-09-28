@@ -1,0 +1,7 @@
+{
+  "name": "md-vision",
+  "description": "MCP server that enables AI assistants to open files and highlight ranges in a read-only Markdown and code viewer.",
+  "source_repo": "caplandorlespan/MD_vision",
+  "source_url": "https://github.com/caplandorlespan/MD_vision",
+  "install": "# git clone --depth 1 https://github.com/caplandorlespan/MD_vision\n# See source for mcpServers config block"
+}

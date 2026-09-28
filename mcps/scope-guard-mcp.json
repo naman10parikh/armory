@@ -1,0 +1,7 @@
+{
+  "name": "scope-guard-mcp",
+  "description": "MCP server that enforces multi-agent scope boundaries. Prevents scope drift, work duplication, and infinite delegation loops in agentic systems.",
+  "source_repo": "mdfifty50-boop/scope-guard-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/scope-guard-mcp",
+  "install": "npx -y scope-guard-mcp"
+}

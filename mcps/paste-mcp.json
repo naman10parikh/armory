@@ -1,0 +1,7 @@
+{
+  "name": "paste-mcp",
+  "description": "Connect Paste to Claude, Codex, Cursor, and other AI tools to access your clipboard.",
+  "source_repo": "pasteapp/paste-mcp",
+  "source_url": "https://github.com/pasteapp/paste-mcp",
+  "install": "npx -y paste-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openai-ads-mcp",
+  "description": "Enables management of OpenAI Ads campaigns, ad groups, ads, and insights through MCP, with approval-gated live mutations for safe write operations.",
+  "source_repo": "adityash8/openai-ads-mcp",
+  "source_url": "https://github.com/adityash8/openai-ads-mcp",
+  "install": "npx -y openai-ads-mcp"
+}

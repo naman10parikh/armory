@@ -1,0 +1,7 @@
+{
+  "name": "sky-computer-use",
+  "description": "MCP server providing 200x faster macOS computer use via Accessibility API, enabling direct UI automation (click, type, scroll) with ~1s workflows.",
+  "source_repo": "killsng/sky-computer-use",
+  "source_url": "https://github.com/killsng/sky-computer-use",
+  "install": "# git clone --depth 1 https://github.com/killsng/sky-computer-use\n# See source for mcpServers config block"
+}

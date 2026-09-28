@@ -1,0 +1,7 @@
+{
+  "name": "agentes-mcp-server",
+  "description": "Unified MCP server for the AmorSaúde ecosystem, combining SQL query, semantic search, medical record similarity, audio transcription, and LLM-as-Judge evaluation tools for multiple healthcare agents.",
+  "source_repo": "dadosamorsaude/agentes-mcp-server",
+  "source_url": "https://github.com/dadosamorsaude/agentes-mcp-server",
+  "install": "npx -y agentes-mcp-server"
+}

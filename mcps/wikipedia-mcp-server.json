@@ -1,0 +1,7 @@
+{
+  "name": "wikipedia-mcp-server",
+  "description": "Provides structured access to Wikipedia content including search, summaries, images, links, and more via MCP tools.",
+  "source_repo": "automateyournetwork/Wikipedia_MCP",
+  "source_url": "https://github.com/automateyournetwork/Wikipedia_MCP",
+  "install": "npx -y Wikipedia_MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alfred",
+  "description": "A local-first open-source MCP server that acts as a personal secretary, memory manager, and automation hub—it syncs Calendar, Gmail, Canvas, GitHub, and Health into a typed temporal memory graph, and enables approval-gated write actions like creating events, drafting/sending mail, and filing issues,",
+  "source_repo": "ndunl075/alfred-pennyworth",
+  "source_url": "https://github.com/ndunl075/alfred-pennyworth",
+  "install": "# git clone --depth 1 https://github.com/ndunl075/alfred-pennyworth\n# See source for mcpServers config block"
+}

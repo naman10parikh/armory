@@ -1,0 +1,7 @@
+{
+  "name": "tru8-mcp",
+  "description": "MCP server for Tru8 Evidence Research that enables AI agents to submit claims or URLs and receive source-traced evidence organized by tier and type with element decomposition and relationship mapping.",
+  "source_repo": "SamYatesSmith/tru8-mcp",
+  "source_url": "https://github.com/SamYatesSmith/tru8-mcp",
+  "install": "npx -y tru8-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "secure-vps-operations-mcp-server",
+  "description": "Enables secure, read-only inspection of a VPS over SSH through approved operations such as system health, disk usage, container logs, and service status, without giving the AI unrestricted shell access.",
+  "source_repo": "ojoilesanmi/secure-vps-mcp-server",
+  "source_url": "https://github.com/ojoilesanmi/secure-vps-mcp-server",
+  "install": "npx -y secure-vps-mcp-server"
+}

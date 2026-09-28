@@ -1,0 +1,7 @@
+{
+  "name": "gsd-mcp-server",
+  "description": "MCP server for the GSD (Get Shit Done) lifecycle framework. Exposes GSD project state, phases, milestones, and commands as MCP tools and resources.",
+  "source_repo": "M0-AR/gsd-mcp-server",
+  "source_url": "https://github.com/M0-AR/gsd-mcp-server",
+  "install": "npx -y gsd-mcp-server"
+}

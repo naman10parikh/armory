@@ -1,0 +1,7 @@
+{
+  "name": "sitehealth-mcp",
+  "description": "Performs comprehensive website health audits including SSL, DNS, email authentication, performance, uptime, and broken link checks, all without requiring API keys. Returns a scored report with weighted metrics and actionable recommendations.",
+  "source_repo": "carsonroell-debug/sitehealth-mcp",
+  "source_url": "https://github.com/carsonroell-debug/sitehealth-mcp",
+  "install": "npx -y sitehealth-mcp"
+}

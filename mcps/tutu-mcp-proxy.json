@@ -1,0 +1,7 @@
+{
+  "name": "tutu-mcp-proxy",
+  "description": "MCP proxy for Tutu travel services: compacts tool descriptions, adds groundedness checks, supports mock and live modes.",
+  "source_repo": "Trum-ok/tutu-mcp-hackathon",
+  "source_url": "https://github.com/Trum-ok/tutu-mcp-hackathon",
+  "install": "# git clone --depth 1 https://github.com/Trum-ok/tutu-mcp-hackathon\n# See source for mcpServers config block"
+}

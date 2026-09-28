@@ -1,0 +1,7 @@
+{
+  "name": "quality-screener-mcp-server",
+  "description": "Enables AI agents to screen and filter stock universe, compute custom quality scores, inspect score history, manage scoring systems, and generate shareable screen links, acting as the signed-in user.",
+  "source_repo": "quality-screener/quality-screener-mcp-server",
+  "source_url": "https://github.com/quality-screener/quality-screener-mcp-server",
+  "install": "npx -y quality-screener-mcp-server"
+}

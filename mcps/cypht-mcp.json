@@ -1,0 +1,7 @@
+{
+  "name": "cypht-mcp",
+  "description": "Cloudflare Worker implementation of the Cypht email MCP, providing eight email tools for account management, email sending, listing, viewing, searching, and deletion via IMAP.",
+  "source_repo": "rjr3000/cypht-mcp",
+  "source_url": "https://github.com/rjr3000/cypht-mcp",
+  "install": "npx -y cypht-mcp"
+}

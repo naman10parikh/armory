@@ -1,0 +1,7 @@
+{
+  "name": "vechain-mcp-server",
+  "description": "Enables AI assistants to search VeChain documentation, query blockchain data (blocks, transactions, accounts), and interact with tokens, NFTs, and VeBetterDAO tools through the Model Context Protocol.",
+  "source_repo": "vechain/vechain-mcp-server",
+  "source_url": "https://github.com/vechain/vechain-mcp-server",
+  "install": "npx -y vechain-mcp-server"
+}

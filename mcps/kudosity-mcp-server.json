@@ -1,0 +1,7 @@
+{
+  "name": "kudosity-mcp-server",
+  "description": "An MCP server that enables AI agents to send SMS, MMS, and WhatsApp messages, manage contacts, lists, and webhooks, and explore the Kudosity API through natural language.",
+  "source_repo": "kudosity/mcp",
+  "source_url": "https://github.com/kudosity/mcp",
+  "install": "# git clone --depth 1 https://github.com/kudosity/mcp\n# See source for mcpServers config block"
+}

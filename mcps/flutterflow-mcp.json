@@ -1,0 +1,7 @@
+{
+  "name": "flutterflow-mcp",
+  "description": "MCP server for FlutterFlow that uses a command-palette model to manage projects, inspect UI, and apply safe edits via transactional ChangeSets.",
+  "source_repo": "jamesnocode/flutterflow-mcp",
+  "source_url": "https://github.com/jamesnocode/flutterflow-mcp",
+  "install": "npx -y flutterflow-mcp"
+}

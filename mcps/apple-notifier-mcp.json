@@ -1,0 +1,7 @@
+{
+  "name": "apple-notifier-mcp",
+  "description": "Enhanced MCP server for sending native macOS notifications with terminal-notifier, interactive dialogs, text-to-speech, screenshots, and file selection.",
+  "source_repo": "piatra-automation/apple-notifier-mcp",
+  "source_url": "https://github.com/piatra-automation/apple-notifier-mcp",
+  "install": "npx -y apple-notifier-mcp"
+}

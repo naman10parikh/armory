@@ -1,0 +1,7 @@
+{
+  "name": "contribution-compass",
+  "description": "Provides MCP access to Contribution Compass's evidence catalog, enabling users to query curated open-source project activity, contribution opportunities, and observation histories.",
+  "source_repo": "amk9978/contribution-compass",
+  "source_url": "https://github.com/amk9978/contribution-compass",
+  "install": "# git clone --depth 1 https://github.com/amk9978/contribution-compass\n# See source for mcpServers config block"
+}

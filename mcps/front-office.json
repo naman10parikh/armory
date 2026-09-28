@@ -1,0 +1,7 @@
+{
+  "name": "front-office",
+  "description": "MCP server for tracking decision logs and open questions in AI-assisted projects, offering tools to fetch context, list decisions and open items, and draft new decisions.",
+  "source_repo": "asafjac/front-office",
+  "source_url": "https://github.com/asafjac/front-office",
+  "install": "# git clone --depth 1 https://github.com/asafjac/front-office\n# See source for mcpServers config block"
+}

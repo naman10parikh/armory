@@ -1,0 +1,7 @@
+{
+  "name": "searcharvester-mcp-server",
+  "description": "A self-hosted web search and page extraction service adapter that bridges your Searcharvester instance to LLM clients like Claude, enabling native web search and content extraction with failover and automatic pagination.",
+  "source_repo": "MaYunFei/searcharvester-mcp",
+  "source_url": "https://github.com/MaYunFei/searcharvester-mcp",
+  "install": "npx -y searcharvester-mcp"
+}

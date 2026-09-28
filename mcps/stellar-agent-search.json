@@ -1,0 +1,7 @@
+{
+  "name": "stellar-agent-search",
+  "description": "Read-only MCP server for discovering and ranking on-chain agents on Stellar mainnet via natural language search, reputation probes, and profile lookups.",
+  "source_repo": "berkingurcan/stellar-agent-search",
+  "source_url": "https://github.com/berkingurcan/stellar-agent-search",
+  "install": "# git clone --depth 1 https://github.com/berkingurcan/stellar-agent-search\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "token-compressor-mcp",
+  "description": "A remote MCP server that compresses long text contexts, stores compact reusable summaries, and retrieves relevant context by title/tag/query, helping reduce token usage.",
+  "source_repo": "stopthegears/token-compressor-mcp",
+  "source_url": "https://github.com/stopthegears/token-compressor-mcp",
+  "install": "npx -y token-compressor-mcp"
+}

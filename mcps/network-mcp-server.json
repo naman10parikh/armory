@@ -1,0 +1,7 @@
+{
+  "name": "network-mcp-server",
+  "description": "A Model Context Protocol server providing network diagnostic tools for AI agents, including connectivity testing, batch operations, local network info, and pcap analysis.",
+  "source_repo": "labeveryday/network-mcp",
+  "source_url": "https://github.com/labeveryday/network-mcp",
+  "install": "npx -y network-mcp"
+}

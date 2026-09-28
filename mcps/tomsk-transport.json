@@ -1,0 +1,7 @@
+{
+  "name": "tomsk-transport",
+  "description": "MCP server providing real-time public transport data for Tomsk, including routes, schedules, stops with lazy OSM enrichment, nearby stop search, and a routing prompt for LLMs.",
+  "source_repo": "atBuba/transport-MCP",
+  "source_url": "https://github.com/atBuba/transport-MCP",
+  "install": "npx -y transport-MCP"
+}

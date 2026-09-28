@@ -1,0 +1,7 @@
+{
+  "name": "agent-observatory-mcp-server",
+  "description": "Provides access to Agent Observatory's live experiment data, including visit stats, AI crawler info, and self-classification endpoints. Enables AI agents to discover and interact with the observatory's passive research infrastructure.",
+  "source_repo": "model-mischief-managed/agent-observatory",
+  "source_url": "https://github.com/model-mischief-managed/agent-observatory",
+  "install": "# git clone --depth 1 https://github.com/model-mischief-managed/agent-observatory\n# See source for mcpServers config block"
+}

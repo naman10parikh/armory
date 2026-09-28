@@ -1,0 +1,7 @@
+{
+  "name": "meigenai-mcp",
+  "description": "A read-only MCP server that exposes Meigen AI's image generation styles, pricing, FAQ, and official links to AI clients.",
+  "source_repo": "rocnubie/meigenai-mcp",
+  "source_url": "https://github.com/rocnubie/meigenai-mcp",
+  "install": "npx -y meigenai-mcp"
+}

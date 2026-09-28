@@ -1,0 +1,7 @@
+{
+  "name": "billz-mcp-bridge-server",
+  "description": "Enables Claude to read and interact with BILLZ 2.0 data such as products, sales, customers, and categories via the BILLZ REST API.",
+  "source_repo": "satajanov92-afk/billz-mcp-server",
+  "source_url": "https://github.com/satajanov92-afk/billz-mcp-server",
+  "install": "npx -y billz-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shippage",
+  "description": "Enables publishing HTML, markdown, text, ZIP files, and static folders to Shippage, with tools for asset uploads, page listing, updating, and deleting.",
+  "source_repo": "Kaka-123-D/shippage-cli",
+  "source_url": "https://github.com/Kaka-123-D/shippage-cli",
+  "install": "# git clone --depth 1 https://github.com/Kaka-123-D/shippage-cli\n# See source for mcpServers config block"
+}

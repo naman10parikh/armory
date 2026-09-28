@@ -1,0 +1,7 @@
+{
+  "name": "wiro-mcp-server",
+  "description": "Official MCP server for Wiro AI that provides access to hundreds of AI models for generation, editing, and analysis from any MCP-compatible assistant.",
+  "source_repo": "wiroai/Wiro-MCP",
+  "source_url": "https://github.com/wiroai/Wiro-MCP",
+  "install": "npx -y Wiro-MCP"
+}

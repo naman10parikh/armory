@@ -1,0 +1,7 @@
+{
+  "name": "news-mcp",
+  "description": "Agentic NewsAPI.org MCP server with semantic search, article versioning, ChromaDB retrieval, and Supabase persistence, enabling efficient news article access and management.",
+  "source_repo": "l4b4r4b4b4/news-mcp",
+  "source_url": "https://github.com/l4b4r4b4b4/news-mcp",
+  "install": "npx -y news-mcp"
+}

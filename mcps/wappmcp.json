@@ -1,0 +1,7 @@
+{
+  "name": "wappmcp",
+  "description": "A WhatsApp Web MCP server that enables reading chats, contacts, and messages, as well as sending, replying, reacting, and managing WhatsApp messages via stdio.",
+  "source_repo": "vaibhavpandeyvpz/wappmcp",
+  "source_url": "https://github.com/vaibhavpandeyvpz/wappmcp",
+  "install": "# git clone --depth 1 https://github.com/vaibhavpandeyvpz/wappmcp\n# See source for mcpServers config block"
+}

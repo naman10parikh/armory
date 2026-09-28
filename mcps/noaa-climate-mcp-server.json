@@ -1,0 +1,7 @@
+{
+  "name": "noaa-climate-mcp-server",
+  "description": "Enables searching NOAA climate stations and datasets, and fetching historical weather observations via the Model Context Protocol (MCP).",
+  "source_repo": "cyanheads/noaa-climate-mcp-server",
+  "source_url": "https://github.com/cyanheads/noaa-climate-mcp-server",
+  "install": "npx -y noaa-climate-mcp-server"
+}

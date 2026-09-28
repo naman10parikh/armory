@@ -1,0 +1,7 @@
+{
+  "name": "sortie-mcp",
+  "description": "Campaign orchestration MCP server for AI agents — dependency DAGs, parallel fan-out, failure policies, and embedded notes.",
+  "source_repo": "retospect/sortie-mcp",
+  "source_url": "https://github.com/retospect/sortie-mcp",
+  "install": "npx -y sortie-mcp"
+}

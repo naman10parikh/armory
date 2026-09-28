@@ -1,0 +1,7 @@
+{
+  "name": "nohumans-mcp",
+  "description": "Find and vet paid x402 API services before an agent spends money on them, with live reliability scores and recency-weighted probing.",
+  "source_repo": "jalcodev/nohumans-mcp",
+  "source_url": "https://github.com/jalcodev/nohumans-mcp",
+  "install": "npx -y nohumans-mcp"
+}

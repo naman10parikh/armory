@@ -1,0 +1,7 @@
+{
+  "name": "xlsx-audit-mcp",
+  "description": "Audits Excel workbooks by tracing cell dependencies and detecting circular references, volatile functions, and other formula risks, enabling natural-language audit queries on local files.",
+  "source_repo": "arose26/xlsx-audit-mcp",
+  "source_url": "https://github.com/arose26/xlsx-audit-mcp",
+  "install": "npx -y xlsx-audit-mcp"
+}

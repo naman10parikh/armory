@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-mcp-for-chatgpt",
+  "description": "This MCP server bridges ChatGPT web with an Obsidian vault, allowing ChatGPT to read and write notes via the Obsidian Local REST API.",
+  "source_repo": "tony816/Obsidina_mcp_chatgpt",
+  "source_url": "https://github.com/tony816/Obsidina_mcp_chatgpt",
+  "install": "# git clone --depth 1 https://github.com/tony816/Obsidina_mcp_chatgpt\n# See source for mcpServers config block"
+}

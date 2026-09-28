@@ -1,0 +1,7 @@
+{
+  "name": "git-issuer-mcp",
+  "description": "Enables AI agents to create GitHub issues on explicitly allow-listed repositories using GitHub App authentication, with input validation, rate limiting, and no token exposure.",
+  "source_repo": "ESPOIR-DITE/git-issuer-mcp",
+  "source_url": "https://github.com/ESPOIR-DITE/git-issuer-mcp",
+  "install": "npx -y git-issuer-mcp"
+}

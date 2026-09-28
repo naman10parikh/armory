@@ -1,0 +1,7 @@
+{
+  "name": "gmail-mcp-4",
+  "description": "Local MCP server providing Gmail tools (search, read, draft, send, trash) via Google's official API, integrated with GitHub Copilot CLI.",
+  "source_repo": "Evyatar108/gmail-mcp",
+  "source_url": "https://github.com/Evyatar108/gmail-mcp",
+  "install": "npx -y gmail-mcp"
+}

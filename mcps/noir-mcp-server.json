@@ -1,0 +1,7 @@
+{
+  "name": "noir-mcp-server",
+  "description": "MCP server for Noir development that clones and searches Noir documentation, standard library, examples, and community libraries.",
+  "source_repo": "noir-lang/mcp-server",
+  "source_url": "https://github.com/noir-lang/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/noir-lang/mcp-server\n# See source for mcpServers config block"
+}

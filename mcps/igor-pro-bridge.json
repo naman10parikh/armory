@@ -1,0 +1,7 @@
+{
+  "name": "igor-pro-bridge",
+  "description": "Exposes a running Igor Pro instance to MCP clients, enabling command execution, wave data reading, compilation management, and launching/relaunching Igor Pro.",
+  "source_repo": "byte-physics/igor-bridge-mcp-server",
+  "source_url": "https://github.com/byte-physics/igor-bridge-mcp-server",
+  "install": "npx -y igor-bridge-mcp-server"
+}

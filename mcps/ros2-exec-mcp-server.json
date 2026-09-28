@@ -1,0 +1,7 @@
+{
+  "name": "ros2-exec-mcp-server",
+  "description": "Enables execution of ROS 2 CLI commands through the Model Context Protocol, supporting configurable timeouts, working directories, and secure command whitelisting.",
+  "source_repo": "TakanariShimbo/ros2-exec-mcp",
+  "source_url": "https://github.com/TakanariShimbo/ros2-exec-mcp",
+  "install": "npx -y ros2-exec-mcp"
+}

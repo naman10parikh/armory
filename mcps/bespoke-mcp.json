@@ -1,0 +1,7 @@
+{
+  "name": "bespoke-mcp",
+  "description": "Enables an LLM to drive a live Bespoke Synth, including module graph editing, control modulation, sequencing, playback control, and audio analysis feedback with visualizations.",
+  "source_repo": "Crack-Pantelimon/bespoke-mcp",
+  "source_url": "https://github.com/Crack-Pantelimon/bespoke-mcp",
+  "install": "npx -y bespoke-mcp"
+}

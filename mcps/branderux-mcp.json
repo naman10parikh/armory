@@ -1,0 +1,7 @@
+{
+  "name": "branderux-mcp",
+  "description": "Enables AI agents to manage BranderUX projects, including brand settings, custom elements, screens, and API keys, with access to verified SDK documentation.",
+  "source_repo": "BranderUX/branderux-mcp",
+  "source_url": "https://github.com/BranderUX/branderux-mcp",
+  "install": "npx -y branderux-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "file-server-mcp",
+  "description": "Enables accessing and managing files from configured folders with filtering and size limits, allowing listing, reading, and searching files via MCP tools and resources.",
+  "source_repo": "bill-gtl-group/mcp-file-server",
+  "source_url": "https://github.com/bill-gtl-group/mcp-file-server",
+  "install": "# git clone --depth 1 https://github.com/bill-gtl-group/mcp-file-server\n# See source for mcpServers config block"
+}

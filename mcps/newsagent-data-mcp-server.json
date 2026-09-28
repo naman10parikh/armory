@@ -1,0 +1,7 @@
+{
+  "name": "newsagent-data-mcp-server",
+  "description": "Enables querying scored and classified Russian and English news via MCP clients, offering filtered feeds, keyword search, breaking news, and coverage stats.",
+  "source_repo": "newsagentdata/newsagent-mcp",
+  "source_url": "https://github.com/newsagentdata/newsagent-mcp",
+  "install": "npx -y newsagent-mcp"
+}

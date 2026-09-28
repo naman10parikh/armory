@@ -1,0 +1,7 @@
+{
+  "name": "fare-data-mcp-server",
+  "description": "Enables querying, summarizing, comparing ATPCO fare CSV snapshots and shopping live fares via engine-wrapper-service, all through MCP clients like Claude.",
+  "source_repo": "gvdeepthi/fare-mcp-server",
+  "source_url": "https://github.com/gvdeepthi/fare-mcp-server",
+  "install": "npx -y fare-mcp-server"
+}

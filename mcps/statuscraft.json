@@ -1,0 +1,7 @@
+{
+  "name": "statuscraft",
+  "description": "Live operational status for 2,400+ major software services — AWS, GitHub, Stripe, OpenAI, Cloudflare, and more — pulled from each provider's official status page and returned as a normalised up / degraded / down result for any service you ask about.",
+  "source_repo": "jabbawocky/statuscraft",
+  "source_url": "https://github.com/jabbawocky/statuscraft",
+  "install": "# git clone --depth 1 https://github.com/jabbawocky/statuscraft\n# See source for mcpServers config block"
+}

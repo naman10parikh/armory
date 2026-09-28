@@ -1,0 +1,7 @@
+{
+  "name": "sealchat-agent-mcp",
+  "description": "Read-only MCP server that provides tools to fetch SealChat public protocol docs, manifest, channel counts, and chat messages via the HTTP Agent API, without write access or database access.",
+  "source_repo": "kagangtuya-star/sealchat-agent-mcp",
+  "source_url": "https://github.com/kagangtuya-star/sealchat-agent-mcp",
+  "install": "npx -y sealchat-agent-mcp"
+}

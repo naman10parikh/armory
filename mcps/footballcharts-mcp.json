@@ -1,0 +1,7 @@
+{
+  "name": "footballcharts-mcp",
+  "description": "Provides AI assistants with live football data for 90+ leagues including tables, results, fixtures, model probabilities, and Monte Carlo season projections from football-charts.com.",
+  "source_repo": "ddevetak/footballcharts-mcp",
+  "source_url": "https://github.com/ddevetak/footballcharts-mcp",
+  "install": "npx -y footballcharts-mcp"
+}

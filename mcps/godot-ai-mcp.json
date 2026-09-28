@@ -1,0 +1,7 @@
+{
+  "name": "godot-ai-mcp",
+  "description": "Provides AI assistants with tools to launch the Godot editor, run projects, manipulate scenes, manage scripts, and control node properties through a standardized MCP interface.",
+  "source_repo": "morvoso/godot-ai-mcp",
+  "source_url": "https://github.com/morvoso/godot-ai-mcp",
+  "install": "npx -y godot-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "canva-mcp-workspace-assistant-poc",
+  "description": "A proof-of-concept MCP server that augments the Canva CLI with custom tools for generating design briefs and staging assets for the Canva API.",
+  "source_repo": "rifaterdemsahin/canva-mcp",
+  "source_url": "https://github.com/rifaterdemsahin/canva-mcp",
+  "install": "npx -y canva-mcp"
+}

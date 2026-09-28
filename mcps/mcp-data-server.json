@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-server",
+  "description": "An MCP server that connects AI agents to cloud-native geospatial data via STAC metadata and DuckDB with H3 spatial indexing, enabling zero-configuration SQL queries on terabyte-scale datasets over S3.",
+  "source_repo": "boettiger-lab/mcp-data-server",
+  "source_url": "https://github.com/boettiger-lab/mcp-data-server",
+  "install": "# git clone --depth 1 https://github.com/boettiger-lab/mcp-data-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "clickup-intelligence-mcp-server",
+  "description": "AI-powered project management intelligence and workflow optimization for ClickUp, including project health analysis, smart sprint planning, task decomposition, resource optimization, and workflow intelligence.",
+  "source_repo": "lesmoires/clickup-intelligence-mcp-server",
+  "source_url": "https://github.com/lesmoires/clickup-intelligence-mcp-server",
+  "install": "npx -y clickup-intelligence-mcp-server"
+}

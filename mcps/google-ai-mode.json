@@ -1,0 +1,7 @@
+{
+  "name": "google-ai-mode",
+  "description": "Provides OpenAI-compatible API, MCP, and CLI for Google AI Mode, with automatic fallback to a real Chrome browser to bypass TLS fingerprint detection.",
+  "source_repo": "XD06/google-ai-mode",
+  "source_url": "https://github.com/XD06/google-ai-mode",
+  "install": "# git clone --depth 1 https://github.com/XD06/google-ai-mode\n# See source for mcpServers config block"
+}

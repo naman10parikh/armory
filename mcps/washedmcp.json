@@ -1,0 +1,7 @@
+{
+  "name": "washedmcp",
+  "description": "Token-optimized semantic code search with automatic context expansion for AI coding assistants, enabling efficient discovery of code relationships and reducing token usage.",
+  "source_repo": "clarsbyte/washedmcp",
+  "source_url": "https://github.com/clarsbyte/washedmcp",
+  "install": "# git clone --depth 1 https://github.com/clarsbyte/washedmcp\n# See source for mcpServers config block"
+}

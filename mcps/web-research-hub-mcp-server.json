@@ -1,0 +1,7 @@
+{
+  "name": "web-research-hub-mcp-server",
+  "description": "Enables web search, URL content extraction, arithmetic calculation, and report export via Exa AI and Python libraries.",
+  "source_repo": "Paul-Orlando/web-research-hub-mcp-server",
+  "source_url": "https://github.com/Paul-Orlando/web-research-hub-mcp-server",
+  "install": "npx -y web-research-hub-mcp-server"
+}

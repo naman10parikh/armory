@@ -1,0 +1,7 @@
+{
+  "name": "gsc-ga4-mcp",
+  "description": "Enables Claude Code to read Google Search Console and GA4 data locally with read-only access, and provides combined SEO analysis tools for comparing datasets and identifying opportunities.",
+  "source_repo": "delaren47/gsc-ga4-mcp",
+  "source_url": "https://github.com/delaren47/gsc-ga4-mcp",
+  "install": "npx -y gsc-ga4-mcp"
+}

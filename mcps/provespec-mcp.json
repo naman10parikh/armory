@@ -1,0 +1,7 @@
+{
+  "name": "provespec-mcp",
+  "description": "Enables agents to fetch specifications from the public ProveSpec catalog, search and retrieve specs, and grade their own implementations against capability checklists, returning parity scores and gap lists.",
+  "source_repo": "AlanKharebov/provespec-mcp",
+  "source_url": "https://github.com/AlanKharebov/provespec-mcp",
+  "install": "npx -y provespec-mcp"
+}

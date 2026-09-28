@@ -1,0 +1,7 @@
+{
+  "name": "clearmarket",
+  "description": "Reference data layer for prediction markets: resolution-clarity grades (A/B/C), named resolution sources with provenance, cross-venue linking, and per-contract eligibility screens across Kalshi and Polymarket. Open,read-only, no key required.",
+  "source_repo": "JDSource/clearmarket",
+  "source_url": "https://github.com/JDSource/clearmarket",
+  "install": "# git clone --depth 1 https://github.com/JDSource/clearmarket\n# See source for mcpServers config block"
+}

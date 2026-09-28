@@ -1,0 +1,7 @@
+{
+  "name": "xiaohongshu-mcp-py",
+  "description": "MCP server for Xiaohongshu automation, enabling feed browsing, search, note publishing, and interaction via Playwright and FastMCP.",
+  "source_repo": "CloneYourProj0/xiaohongshu--MCP-py",
+  "source_url": "https://github.com/CloneYourProj0/xiaohongshu--MCP-py",
+  "install": "# git clone --depth 1 https://github.com/CloneYourProj0/xiaohongshu--MCP-py\n# See source for mcpServers config block"
+}

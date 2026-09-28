@@ -1,0 +1,7 @@
+{
+  "name": "browser-relay",
+  "description": "MCP server that drives a user's real Chrome browser via a WebSocket-connected MV3 extension, enabling tab management, navigation, page interaction, screenshots, and script evaluation through natural language.",
+  "source_repo": "Wecko-ai/browser-relay",
+  "source_url": "https://github.com/Wecko-ai/browser-relay",
+  "install": "# git clone --depth 1 https://github.com/Wecko-ai/browser-relay\n# See source for mcpServers config block"
+}

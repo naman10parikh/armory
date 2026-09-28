@@ -1,0 +1,7 @@
+{
+  "name": "5arz-proof-of-human",
+  "description": "Enables agents to prove and verify that a real, unique human performed an action, issuing machine-readable signed credentials with public verification.",
+  "source_repo": "LumiRx/5arz-proof-of-human",
+  "source_url": "https://github.com/LumiRx/5arz-proof-of-human",
+  "install": "# git clone --depth 1 https://github.com/LumiRx/5arz-proof-of-human\n# See source for mcpServers config block"
+}

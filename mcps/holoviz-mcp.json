@@ -1,0 +1,7 @@
+{
+  "name": "holoviz-mcp",
+  "description": "A comprehensive MCP server that provides intelligent access to the HoloViz ecosystem, enabling AI assistants to help you build interactive dashboards and data visualizations with Panel, hvPlot, Lumen, Datashader, and your favorite Python libraries.",
+  "source_repo": "MarcSkovMadsen/holoviz-mcp",
+  "source_url": "https://github.com/MarcSkovMadsen/holoviz-mcp",
+  "install": "npx -y holoviz-mcp"
+}

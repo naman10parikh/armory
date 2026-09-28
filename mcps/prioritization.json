@@ -1,0 +1,7 @@
+{
+  "name": "prioritization",
+  "description": "An MCP server that provides a drag-and-drop UI for prioritizing list items, allowing users to reorder items interactively and send the prioritized list back to the chat. It supports MCP Apps UI rendering and falls back to text instructions for hosts without UI support.",
+  "source_repo": "aurelijusb/mcp-prioritization",
+  "source_url": "https://github.com/aurelijusb/mcp-prioritization",
+  "install": "# git clone --depth 1 https://github.com/aurelijusb/mcp-prioritization\n# See source for mcpServers config block"
+}

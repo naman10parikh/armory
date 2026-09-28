@@ -1,0 +1,7 @@
+{
+  "name": "labops-agent-mcp-server",
+  "description": "MCP server that enables clinical lab staff to predict reagent stockouts, check inventory, create orders, and update inventory canvases directly from Slack.",
+  "source_repo": "Marianooss/Labops-Agent",
+  "source_url": "https://github.com/Marianooss/Labops-Agent",
+  "install": "# git clone --depth 1 https://github.com/Marianooss/Labops-Agent\n# See source for mcpServers config block"
+}

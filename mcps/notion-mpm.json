@@ -1,0 +1,7 @@
+{
+  "name": "notion-mpm",
+  "description": "Enables interaction with Notion workspaces through a comprehensive set of tools for managing pages, blocks, databases, users, comments, and search. Provides both a clean Python API and an MCP server for use with Claude Desktop.",
+  "source_repo": "bobmatnyc/notion-mpm",
+  "source_url": "https://github.com/bobmatnyc/notion-mpm",
+  "install": "# git clone --depth 1 https://github.com/bobmatnyc/notion-mpm\n# See source for mcpServers config block"
+}

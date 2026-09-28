@@ -1,0 +1,7 @@
+{
+  "name": "mcp-image-resolver",
+  "description": "An MCP server that enables AI assistants to search for royalty-free images from Pexels and Unsplash using natural language, returning structured results with metadata.",
+  "source_repo": "ahmaddioxide/image-resolver-mcp",
+  "source_url": "https://github.com/ahmaddioxide/image-resolver-mcp",
+  "install": "npx -y image-resolver-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "maxstat-mcp",
+  "description": "Official remote MCP server for searching, analyzing, and monitoring channels and publications in the MAX messenger.",
+  "source_repo": "fbmdata/maxstat-mcp",
+  "source_url": "https://github.com/fbmdata/maxstat-mcp",
+  "install": "npx -y maxstat-mcp"
+}

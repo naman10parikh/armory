@@ -1,0 +1,7 @@
+{
+  "name": "audio-visualizer-rs",
+  "description": "Enables Claude to analyze audio files locally, extracting musical features like key, tempo, dynamics, timbre, stereo field, and structural sections via an MCP server.",
+  "source_repo": "JuzzyDee/audio-analyzer-rs",
+  "source_url": "https://github.com/JuzzyDee/audio-analyzer-rs",
+  "install": "# git clone --depth 1 https://github.com/JuzzyDee/audio-analyzer-rs\n# See source for mcpServers config block"
+}

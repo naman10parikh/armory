@@ -1,0 +1,7 @@
+{
+  "name": "altweb-context",
+  "description": "Loads signed, verified markdown capsules into AI agents, refusing any capsule without a valid signature from a trusted key. Enables secure, provenance-checked context loading for agents.",
+  "source_repo": "danielsoimu/altweb",
+  "source_url": "https://github.com/danielsoimu/altweb",
+  "install": "# git clone --depth 1 https://github.com/danielsoimu/altweb\n# See source for mcpServers config block"
+}

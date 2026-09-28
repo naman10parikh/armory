@@ -1,0 +1,7 @@
+{
+  "name": "enpass-mcp",
+  "description": "Provides local, secure access to Enpass password vaults via MCP. Enables unlocking vaults, listing entries, retrieving passwords, TOTP codes, and attachments, with optional write support.",
+  "source_repo": "bitterdev/enpass-mcp",
+  "source_url": "https://github.com/bitterdev/enpass-mcp",
+  "install": "npx -y enpass-mcp"
+}

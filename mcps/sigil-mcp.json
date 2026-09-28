@@ -1,0 +1,7 @@
+{
+  "name": "sigil-mcp",
+  "description": "Sigil is an MCP server for verifying programmatic advertising supply paths, providing tools for trust verification, entity scoring, and ATAP compliance.",
+  "source_repo": "TunnelMind/sigil-mcp",
+  "source_url": "https://github.com/TunnelMind/sigil-mcp",
+  "install": "npx -y sigil-mcp"
+}

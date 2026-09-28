@@ -1,0 +1,7 @@
+{
+  "name": "mcp-snapshot-filter",
+  "description": "A proxy server that intercepts and filters content-heavy responses from chrome-devtools-mcp, reducing token consumption by 40-60% for browser automation tools like Claude Code.",
+  "source_repo": "Akarda/mcp-snapshot-filter",
+  "source_url": "https://github.com/Akarda/mcp-snapshot-filter",
+  "install": "# git clone --depth 1 https://github.com/Akarda/mcp-snapshot-filter\n# See source for mcpServers config block"
+}

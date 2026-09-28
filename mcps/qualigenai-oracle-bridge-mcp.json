@@ -1,0 +1,7 @@
+{
+  "name": "qualigenai-oracle-bridge-mcp",
+  "description": "An advanced MCP server that enables Claude Desktop to act as an autonomous Oracle Database Administrator and Data Analyst with agentic schema discovery and self-healing queries.",
+  "source_repo": "qualigenai/mcp-oracle-connector",
+  "source_url": "https://github.com/qualigenai/mcp-oracle-connector",
+  "install": "# git clone --depth 1 https://github.com/qualigenai/mcp-oracle-connector\n# See source for mcpServers config block"
+}

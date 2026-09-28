@@ -1,0 +1,7 @@
+{
+  "name": "keyhalve-verify-mcp",
+  "description": "Enables AI to verify KeyHalve-sealed documents from any platform. Verifies status, ciphertext integrity, rail attestation, time lock, and issuer trust without requiring decryption keys.",
+  "source_repo": "keyhalve/keyhalve-mcp",
+  "source_url": "https://github.com/keyhalve/keyhalve-mcp",
+  "install": "npx -y keyhalve-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "autowiki-mcp",
+  "description": "Automatically generates comprehensive wiki documentation from any codebase, including Mermaid diagrams, source code citations, and automated quality checks.",
+  "source_repo": "izhengnan/autowiki-mcp",
+  "source_url": "https://github.com/izhengnan/autowiki-mcp",
+  "install": "npx -y autowiki-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "teadata-mcp",
+  "description": "MCP server for exploring Texas public school data through conversational interfaces, enabling campus search, district details, geospatial lookup, comparisons, and transfer insights using TEA data.",
+  "source_repo": "adpena/teadata-mcp",
+  "source_url": "https://github.com/adpena/teadata-mcp",
+  "install": "npx -y teadata-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zotero-fulltext-mcp",
+  "description": "Enables searching and reading full text of papers in a Zotero library by converting PDF attachments to Markdown and exposing a full-text search index to LLM tools.",
+  "source_repo": "matthiaskloft/zotero-fulltext-mcp",
+  "source_url": "https://github.com/matthiaskloft/zotero-fulltext-mcp",
+  "install": "npx -y zotero-fulltext-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cursor-talk-to-figma-mcp",
+  "description": "Enables Cursor AI to read and modify Figma designs programmatically via the Model Context Protocol.",
+  "source_repo": "ysocrius/Talk-to-Figma-Cursor",
+  "source_url": "https://github.com/ysocrius/Talk-to-Figma-Cursor",
+  "install": "# git clone --depth 1 https://github.com/ysocrius/Talk-to-Figma-Cursor\n# See source for mcpServers config block"
+}

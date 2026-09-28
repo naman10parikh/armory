@@ -1,0 +1,7 @@
+{
+  "name": "rustpad-mcp",
+  "description": "Enables an AI assistant to read and collaboratively edit Rustpad pads via the Model Context Protocol, using operational transformation for clean concurrent edits with human collaborators.",
+  "source_repo": "ni-c/rustpad-mcp",
+  "source_url": "https://github.com/ni-c/rustpad-mcp",
+  "install": "npx -y rustpad-mcp"
+}

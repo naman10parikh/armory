@@ -1,0 +1,7 @@
+{
+  "name": "cookie-mcp",
+  "description": "MCP server for the Cookie Chain blockchain, enabling AI agents to read market data, swap tokens, manage liquidity, stake, trade NFTs, and bridge to Solana directly from their machine.",
+  "source_repo": "cookiechain/cookie-mcp",
+  "source_url": "https://github.com/cookiechain/cookie-mcp",
+  "install": "npx -y cookie-mcp"
+}

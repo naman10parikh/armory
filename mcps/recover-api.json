@@ -1,0 +1,7 @@
+{
+  "name": "recover-api",
+  "description": "Provides a deterministic failure-decision API for MCP clients, returning one of six actions (RETRY_NOW, WAIT, REPAIR_REQUEST, VERIFY_FIRST, ESCALATE, ABORT) based on failure context to guide safe next steps.",
+  "source_repo": "GSterlingPress/recover-api",
+  "source_url": "https://github.com/GSterlingPress/recover-api",
+  "install": "# git clone --depth 1 https://github.com/GSterlingPress/recover-api\n# See source for mcpServers config block"
+}

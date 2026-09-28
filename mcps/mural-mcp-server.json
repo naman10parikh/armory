@@ -1,0 +1,7 @@
+{
+  "name": "mural-mcp-server",
+  "description": "MCP server for the Mural visual collaboration platform enabling board content editing with sticky notes, shapes, text boxes, areas, images, connectors, plus navigation and mural management.",
+  "source_repo": "janschmiedgen/mural-mcp",
+  "source_url": "https://github.com/janschmiedgen/mural-mcp",
+  "install": "npx -y mural-mcp"
+}

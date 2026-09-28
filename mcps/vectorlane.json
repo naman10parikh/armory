@@ -1,0 +1,7 @@
+{
+  "name": "vectorlane",
+  "description": "Provides a local vector memory store for AI agents with semantic search, offline embeddings, and MCP integration, enabling tools like Claude and Cursor to store and retrieve information without cloud dependencies.",
+  "source_repo": "talocode/vectorlane",
+  "source_url": "https://github.com/talocode/vectorlane",
+  "install": "# git clone --depth 1 https://github.com/talocode/vectorlane\n# See source for mcpServers config block"
+}

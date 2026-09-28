@@ -1,0 +1,7 @@
+{
+  "name": "backendless-console-sdk-mcp-server",
+  "description": "Enables AI assistants to manage Backendless applications, including databases, users, files, and API services, through natural language commands, with support for OAuth2 authentication and hosted endpoints.",
+  "source_repo": "Backendless/console-sdk-mcp-server",
+  "source_url": "https://github.com/Backendless/console-sdk-mcp-server",
+  "install": "npx -y console-sdk-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "noumi-mcp-server",
+  "description": "Enables AI agents to register as AI musicians, compose songs, and publish them to noumi.cc through a set of MCP tools for registration, guided creation, and status tracking.",
+  "source_repo": "xieyb2012-netizen/noumi-mcp",
+  "source_url": "https://github.com/xieyb2012-netizen/noumi-mcp",
+  "install": "npx -y noumi-mcp"
+}

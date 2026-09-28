@@ -1,0 +1,7 @@
+{
+  "name": "mcp-web-search",
+  "description": "Enables web search, content fetching, dynamic page scraping, and URL preview via DuckDuckGo, Playwright, and Cheerio, without requiring API keys.",
+  "source_repo": "theriskus/mcp-web-browser",
+  "source_url": "https://github.com/theriskus/mcp-web-browser",
+  "install": "# git clone --depth 1 https://github.com/theriskus/mcp-web-browser\n# See source for mcpServers config block"
+}

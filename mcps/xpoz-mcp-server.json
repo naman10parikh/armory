@@ -1,0 +1,7 @@
+{
+  "name": "xpoz-mcp-server",
+  "description": "Enables AI agents to search Twitter, Instagram, Reddit, and TikTok using natural language queries, with CSV exports up to 500K rows and no API keys needed.",
+  "source_repo": "XPOZpublic/xpoz-mcp",
+  "source_url": "https://github.com/XPOZpublic/xpoz-mcp",
+  "install": "npx -y xpoz-mcp"
+}

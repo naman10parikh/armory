@@ -1,0 +1,7 @@
+{
+  "name": "griffin-mcp-server",
+  "description": "Enables AI agents to interact with the Griffin API for banking operations like opening accounts, creating payments, and managing legal persons.",
+  "source_repo": "griffinbank/griffin-mcp-server",
+  "source_url": "https://github.com/griffinbank/griffin-mcp-server",
+  "install": "npx -y griffin-mcp-server"
+}

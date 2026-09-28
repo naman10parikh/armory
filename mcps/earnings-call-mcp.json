@@ -1,0 +1,7 @@
+{
+  "name": "earnings-call-mcp",
+  "description": "MCP server that enables searching, retrieving, and translating earnings call transcripts from MarketBeat, deployed on Cloudflare Workers.",
+  "source_repo": "dupletime-wq/Earnings-Call-MCP",
+  "source_url": "https://github.com/dupletime-wq/Earnings-Call-MCP",
+  "install": "npx -y Earnings-Call-MCP"
+}

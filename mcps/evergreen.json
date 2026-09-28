@@ -1,0 +1,7 @@
+{
+  "name": "evergreen",
+  "description": "Enables AI agents to read, write, and maintain documentation through an MCP server, providing tools for asking questions, generating docs, checking drift, and exploring knowledge graph.",
+  "source_repo": "hganumpally-a360/evergreen",
+  "source_url": "https://github.com/hganumpally-a360/evergreen",
+  "install": "# git clone --depth 1 https://github.com/hganumpally-a360/evergreen\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "io-github-oleksiijko-pmb-ai",
+  "description": "Local-first memory for AI coding agents using SQLite, enabling persistent recall of decisions, lessons, and project context without cloud or API keys.",
+  "source_repo": "oleksiijko/pmb",
+  "source_url": "https://github.com/oleksiijko/pmb",
+  "install": "# git clone --depth 1 https://github.com/oleksiijko/pmb\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dev-browser-mcp",
+  "description": "Enables AI agents to control a persistent Chromium browser or attach to an existing Chrome with sandboxed JavaScript and structured tools for web interaction and automation.",
+  "source_repo": "kamkozlowski/dev-browser-mcp",
+  "source_url": "https://github.com/kamkozlowski/dev-browser-mcp",
+  "install": "npx -y dev-browser-mcp"
+}

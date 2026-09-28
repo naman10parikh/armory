@@ -1,0 +1,7 @@
+{
+  "name": "tracelink-mcp-server",
+  "description": "MCP server that enables Claude and GitHub Copilot to interact with the Tracelink API for managing company data, orders, objects, and journal entries.",
+  "source_repo": "Tracelink-Devops/mcp-server",
+  "source_url": "https://github.com/Tracelink-Devops/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Tracelink-Devops/mcp-server\n# See source for mcpServers config block"
+}

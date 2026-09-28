@@ -1,0 +1,7 @@
+{
+  "name": "aso-audit-mcp",
+  "description": "Scans any website and produces an Agent Readiness Report scored on the open ASO framework.",
+  "source_repo": "forgemeshlabs/aso-audit-mcp",
+  "source_url": "https://github.com/forgemeshlabs/aso-audit-mcp",
+  "install": "npx -y aso-audit-mcp"
+}

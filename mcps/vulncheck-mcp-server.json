@@ -1,0 +1,7 @@
+{
+  "name": "vulncheck-mcp-server",
+  "description": "Connects AI assistants to VulnCheck vulnerability intelligence for querying CVEs, exploits, advisories, and vulnerable packages via natural language.",
+  "source_repo": "vulncheck-oss/mcp",
+  "source_url": "https://github.com/vulncheck-oss/mcp",
+  "install": "# git clone --depth 1 https://github.com/vulncheck-oss/mcp\n# See source for mcpServers config block"
+}

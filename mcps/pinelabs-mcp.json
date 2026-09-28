@@ -1,0 +1,7 @@
+{
+  "name": "pinelabs-mcp",
+  "description": "MCP server for Pine Labs payment gateway that connects AI assistants to Pine Labs payment APIs using client credentials.",
+  "source_repo": "plural-pinelabs/pinelabs-online-mcp",
+  "source_url": "https://github.com/plural-pinelabs/pinelabs-online-mcp",
+  "install": "npx -y pinelabs-online-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "free-investment-mcp",
+  "description": "Provides free public investment research tools including stock quotes, SEC filings, macroeconomic indicators, and clinical trial searches without requiring API keys.",
+  "source_repo": "sdonghee/free-investment-mcp",
+  "source_url": "https://github.com/sdonghee/free-investment-mcp",
+  "install": "npx -y free-investment-mcp"
+}

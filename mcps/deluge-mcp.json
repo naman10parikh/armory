@@ -1,0 +1,7 @@
+{
+  "name": "deluge-mcp",
+  "description": "A strict, beginner-friendly MCP server for Deluge syntax support, providing tools for validation, health checks, and curated knowledge packs.",
+  "source_repo": "zkdots/deluge-mcp",
+  "source_url": "https://github.com/zkdots/deluge-mcp",
+  "install": "npx -y deluge-mcp"
+}

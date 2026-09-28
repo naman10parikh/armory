@@ -1,0 +1,7 @@
+{
+  "name": "pinpole-mcp-server",
+  "description": "Enables AI agents to design cloud architectures, run cost/performance simulations, and draw them on a Pinpole canvas directly from Claude Code, Cursor, and OpenAI Codex.",
+  "source_repo": "codeforstartups/pinpole-mcp",
+  "source_url": "https://github.com/codeforstartups/pinpole-mcp",
+  "install": "npx -y pinpole-mcp"
+}

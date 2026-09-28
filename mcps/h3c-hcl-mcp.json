@@ -1,0 +1,7 @@
+{
+  "name": "h3c-hcl-mcp",
+  "description": "Enables AI agents to interact with local H3C Cloud Lab network simulation environments, allowing discovery of projects, devices, and links, as well as execution of Comware CLI commands.",
+  "source_repo": "FlySun1116/HCL-Lab_mcp",
+  "source_url": "https://github.com/FlySun1116/HCL-Lab_mcp",
+  "install": "npx -y HCL-Lab_mcp"
+}

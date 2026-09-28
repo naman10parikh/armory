@@ -1,0 +1,7 @@
+{
+  "name": "nicotine-soulseek-mcp-server",
+  "description": "Enables AI assistants to search and download music from the Soulseek peer-to-peer network via Nicotine+, with smart ranking of results by audio quality and peer speed, bulk automation, and real-time transfer monitoring.",
+  "source_repo": "ccombe/nicotine-plus-mcp",
+  "source_url": "https://github.com/ccombe/nicotine-plus-mcp",
+  "install": "npx -y nicotine-plus-mcp"
+}

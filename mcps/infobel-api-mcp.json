@@ -1,0 +1,7 @@
+{
+  "name": "infobel-api-mcp",
+  "description": "MCP server for the Infobel GetData API, enabling AI agents to search businesses, retrieve records, and browse categories and locations.",
+  "source_repo": "techinfobel/infobel-getdata-api-mcp",
+  "source_url": "https://github.com/techinfobel/infobel-getdata-api-mcp",
+  "install": "npx -y infobel-getdata-api-mcp"
+}

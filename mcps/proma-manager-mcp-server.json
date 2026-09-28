@@ -1,0 +1,7 @@
+{
+  "name": "proma-manager-mcp-server",
+  "description": "Enables to manage Proma skills across workspaces, audit MCP configurations, list and delete sessions with safety checks.",
+  "source_repo": "climashscape/proma-manager-mcp",
+  "source_url": "https://github.com/climashscape/proma-manager-mcp",
+  "install": "npx -y proma-manager-mcp"
+}

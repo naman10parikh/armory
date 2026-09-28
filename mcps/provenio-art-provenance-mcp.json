@@ -1,0 +1,7 @@
+{
+  "name": "provenio-art-provenance-mcp",
+  "description": "Art provenance intelligence for AI agents. 282,731-node knowledge graph over 273,378 market transactions — Getty Provenance Index, Knoedler stock books (1872–1971), ERR and wartime-restitution records. Every answer cited to a source row; custody gaps named, never guessed — with HEAR Act / colonial-e",
+  "source_repo": "",
+  "source_url": "https://provenio.art",
+  "install": "# git clone --depth 1 https://provenio.art\n# See source for mcpServers config block"
+}

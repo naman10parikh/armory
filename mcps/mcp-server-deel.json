@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-deel",
+  "description": "A production-quality MCP server for the Deel API that enables managing global HR, payroll, contractors, invoices, payments, and compliance through 48 tools.",
+  "source_repo": "BusyBee3333/deel-mcp-2026-complete",
+  "source_url": "https://github.com/BusyBee3333/deel-mcp-2026-complete",
+  "install": "# git clone --depth 1 https://github.com/BusyBee3333/deel-mcp-2026-complete\n# See source for mcpServers config block"
+}

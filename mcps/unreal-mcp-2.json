@@ -1,0 +1,7 @@
+{
+  "name": "unreal-mcp-2",
+  "description": "Enables natural language interaction with Unreal Engine, providing 127 tools across 16 subsystems for tasks like actor manipulation, asset management, blueprint creation, and more, using built-in Python and Remote Control plugins.",
+  "source_repo": "sam-david/unreal-mcp",
+  "source_url": "https://github.com/sam-david/unreal-mcp",
+  "install": "npx -y unreal-mcp"
+}

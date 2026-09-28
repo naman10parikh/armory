@@ -1,0 +1,7 @@
+{
+  "name": "apivault-remote-mcp-server",
+  "description": "Secure, encrypted API key management for AI coding agents, enabling search, inspection, and use of credentials with scoped permissions and optional zero-knowledge decryption.",
+  "source_repo": "TLB-STATION/apivault-mcp",
+  "source_url": "https://github.com/TLB-STATION/apivault-mcp",
+  "install": "npx -y apivault-mcp"
+}

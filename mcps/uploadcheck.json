@@ -1,0 +1,7 @@
+{
+  "name": "uploadcheck",
+  "description": "Thin MCP wrapper over the hosted UploadCheck API to quality check videos, podcasts, and clips before upload.",
+  "source_repo": "ajantoniou/uploadcheck-mcp",
+  "source_url": "https://github.com/ajantoniou/uploadcheck-mcp",
+  "install": "npx -y uploadcheck-mcp"
+}

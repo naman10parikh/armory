@@ -1,0 +1,7 @@
+{
+  "name": "algernon",
+  "description": "Algernon enables AI assistants to orchestrate a fleet of cheap LLM workers, decomposing goals into tightly-scoped parallel sub-tasks and dispatching them concurrently, so the main model stays context-light and token-efficient.",
+  "source_repo": "sammyboi81/algernon",
+  "source_url": "https://github.com/sammyboi81/algernon",
+  "install": "# git clone --depth 1 https://github.com/sammyboi81/algernon\n# See source for mcpServers config block"
+}

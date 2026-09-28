@@ -1,0 +1,7 @@
+{
+  "name": "izzo-platform-mcp-server",
+  "description": "Provides real-time supply chain compromise intelligence from X, enabling coding agents to check packages and view recent incidents before adding dependencies.",
+  "source_repo": "vaulpann/izzo-platform",
+  "source_url": "https://github.com/vaulpann/izzo-platform",
+  "install": "# git clone --depth 1 https://github.com/vaulpann/izzo-platform\n# See source for mcpServers config block"
+}

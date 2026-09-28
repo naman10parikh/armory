@@ -1,0 +1,7 @@
+{
+  "name": "telegram-bot-mcp",
+  "description": "Exposes the Telegram Bot API as tools for MCP clients, enabling sending messages, photos, polls, and more via a Telegram bot.",
+  "source_repo": "Eweol/telegram-bot-mcp",
+  "source_url": "https://github.com/Eweol/telegram-bot-mcp",
+  "install": "npx -y telegram-bot-mcp"
+}

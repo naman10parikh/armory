@@ -1,0 +1,7 @@
+{
+  "name": "foodnear-me",
+  "description": "MCP server for AI-native restaurant discovery with three-tier search (verified, menu_indexed, discovered), Menu Protocol menus, and structured menu validation.",
+  "source_repo": "food-near-me/platform",
+  "source_url": "https://github.com/food-near-me/platform",
+  "install": "# git clone --depth 1 https://github.com/food-near-me/platform\n# See source for mcpServers config block"
+}

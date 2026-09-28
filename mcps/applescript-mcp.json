@@ -1,0 +1,7 @@
+{
+  "name": "applescript-mcp",
+  "description": "Enables full control of macOS by executing AppleScript commands through an MCP server, allowing automation of tasks, application control, and system management.",
+  "source_repo": "Hassanali4/applescript-mcp",
+  "source_url": "https://github.com/Hassanali4/applescript-mcp",
+  "install": "npx -y applescript-mcp"
+}

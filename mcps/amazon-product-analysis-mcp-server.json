@@ -1,0 +1,7 @@
+{
+  "name": "amazon-product-analysis-mcp-server",
+  "description": "Analyzes Amazon products with comprehensive insights including pricing, features, specifications, delivery options, and customer reviews, displayed through an interactive React widget.",
+  "source_repo": "Gargii-dev/amazon_product_mcp_server",
+  "source_url": "https://github.com/Gargii-dev/amazon_product_mcp_server",
+  "install": "npx -y amazon_product_mcp_server"
+}

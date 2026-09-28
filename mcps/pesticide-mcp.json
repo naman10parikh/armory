@@ -1,0 +1,7 @@
+{
+  "name": "pesticide-mcp",
+  "description": "A Model Context Protocol server for querying Japanese pesticide registration information from FAMIC CSV data. Provides tools to search pesticides, retrieve applications, and check registered uses with detailed safety notices.",
+  "source_repo": "shinichinomura/pesticide-mcp",
+  "source_url": "https://github.com/shinichinomura/pesticide-mcp",
+  "install": "npx -y pesticide-mcp"
+}

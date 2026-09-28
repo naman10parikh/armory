@@ -1,0 +1,7 @@
+{
+  "name": "snapforge-mcp",
+  "description": "Enables AI agents to capture screenshots and generate PDFs from URLs or HTML via the SnapForge API.",
+  "source_repo": "sporty303/snapforge-mcp",
+  "source_url": "https://github.com/sporty303/snapforge-mcp",
+  "install": "npx -y snapforge-mcp"
+}

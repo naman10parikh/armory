@@ -1,0 +1,7 @@
+{
+  "name": "ibm-watsonx-data-mcp-server",
+  "description": "Enables AI assistants to interact seamlessly with IBM watsonx.data lakehouses using natural language for operations like querying, catalog browsing, engine management, and data ingestion.",
+  "source_repo": "IBM/ibm-watsonxdata-mcp-server",
+  "source_url": "https://github.com/IBM/ibm-watsonxdata-mcp-server",
+  "install": "npx -y ibm-watsonxdata-mcp-server"
+}

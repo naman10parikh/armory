@@ -1,0 +1,7 @@
+{
+  "name": "evernote-mcp-server",
+  "description": "Unofficial Evernote MCP server with 22 tools for full CRUD, semantic search, and AI features, enabling note management via natural language.",
+  "source_repo": "imsebarz/evernote-mcp-server",
+  "source_url": "https://github.com/imsebarz/evernote-mcp-server",
+  "install": "npx -y evernote-mcp-server"
+}

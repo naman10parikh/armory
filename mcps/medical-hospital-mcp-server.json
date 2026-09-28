@@ -1,0 +1,7 @@
+{
+  "name": "medical-hospital-mcp-server",
+  "description": "Enables hospital search and detail lookup to discover medical institutions and verify campuses, departments, contacts, introductions, and operating entities.",
+  "source_repo": "handaas/medical-hospital-mcp-server",
+  "source_url": "https://github.com/handaas/medical-hospital-mcp-server",
+  "install": "npx -y medical-hospital-mcp-server"
+}

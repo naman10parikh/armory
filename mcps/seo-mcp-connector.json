@@ -1,0 +1,7 @@
+{
+  "name": "seo-mcp-connector",
+  "description": "Local management console and permission wrapper for integrating Google Search Console, GA4, Bing Webmaster Tools, PageSpeed, and SEO analysis through a controlled MCP endpoint.",
+  "source_repo": "baixinyao2011-beep/seo-mcp-connector",
+  "source_url": "https://github.com/baixinyao2011-beep/seo-mcp-connector",
+  "install": "# git clone --depth 1 https://github.com/baixinyao2011-beep/seo-mcp-connector\n# See source for mcpServers config block"
+}

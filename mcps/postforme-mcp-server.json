@@ -1,0 +1,7 @@
+{
+  "name": "postforme-mcp-server",
+  "description": "Give any AI agent — Claude, Cursor, Windsurf, or any MCP-compatible client — full control over your social media through natural language.",
+  "source_repo": "NerdSnipe-Inc/postforme-mcp-server",
+  "source_url": "https://github.com/NerdSnipe-Inc/postforme-mcp-server",
+  "install": "npx -y postforme-mcp-server"
+}

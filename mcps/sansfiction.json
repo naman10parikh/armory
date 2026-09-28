@@ -1,0 +1,7 @@
+{
+  "name": "sansfiction",
+  "description": "Search, discover, and manage books across multiple sources. Connect Claude, ChatGPT, Gemini, and Cursor to the SansFiction library for book metadata, reading progress, and personal library management.",
+  "source_repo": "",
+  "source_url": "https://sansfiction.com",
+  "install": "# git clone --depth 1 https://sansfiction.com\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eracore-revit-mcp",
+  "description": "Connects LLM assistants to Autodesk Revit BIM models, enabling reading metadata, listing elements, creating geometry, batch parameter updates, and exporting schedules. Supports fake mode for testing without Revit and pyRevit mode for live integration.",
+  "source_repo": "soewal19/eracore-revit-mcp",
+  "source_url": "https://github.com/soewal19/eracore-revit-mcp",
+  "install": "npx -y eracore-revit-mcp"
+}

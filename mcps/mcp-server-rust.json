@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-rust",
+  "description": "A simple MCP server that integrates Rust functions via WebAssembly, enabling operations like factorial computation through Claude Desktop.",
+  "source_repo": "lotharschulz/mcp-server-rust",
+  "source_url": "https://github.com/lotharschulz/mcp-server-rust",
+  "install": "# git clone --depth 1 https://github.com/lotharschulz/mcp-server-rust\n# See source for mcpServers config block"
+}

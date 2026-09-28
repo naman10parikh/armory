@@ -1,0 +1,7 @@
+{
+  "name": "sharepoint-mcp-server-2",
+  "description": "Enables AI assistants to interact with Microsoft SharePoint via natural language, supporting document management, list operations, search, and site provisioning through the Microsoft Graph API.",
+  "source_repo": "lpanigrahi/MS-Sharepoint-mcp",
+  "source_url": "https://github.com/lpanigrahi/MS-Sharepoint-mcp",
+  "install": "npx -y MS-Sharepoint-mcp"
+}

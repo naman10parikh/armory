@@ -1,0 +1,7 @@
+{
+  "name": "v-ro-mcp-server",
+  "description": "An MCP server for working with the Võro language: local dictionary and corpus lookup, GiellaLT-backed analysis/spellcheck/grammar tools, and Neurotõlge translation.",
+  "source_repo": "Leo-Martin-Pala/voro-mcp",
+  "source_url": "https://github.com/Leo-Martin-Pala/voro-mcp",
+  "install": "npx -y voro-mcp"
+}

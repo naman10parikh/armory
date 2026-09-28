@@ -1,0 +1,7 @@
+{
+  "name": "nga-mcp-server",
+  "description": "Enables AI assistants to browse and search NGA forum posts, including browsing forum sections, viewing post details with replies, and searching posts by keyword.",
+  "source_repo": "superboy724/nga_mcp",
+  "source_url": "https://github.com/superboy724/nga_mcp",
+  "install": "npx -y nga_mcp"
+}

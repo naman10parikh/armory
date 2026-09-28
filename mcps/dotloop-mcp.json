@@ -1,0 +1,7 @@
+{
+  "name": "dotloop-mcp",
+  "description": "Read-only MCP server for Dotloop that exposes safe read tools for accounts, profiles, loops, folders, documents, participants, tasks, activity, and templates.",
+  "source_repo": "theperrygroup/Dotloop-MCP",
+  "source_url": "https://github.com/theperrygroup/Dotloop-MCP",
+  "install": "npx -y Dotloop-MCP"
+}

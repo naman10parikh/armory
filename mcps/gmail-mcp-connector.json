@@ -1,0 +1,7 @@
+{
+  "name": "gmail-mcp-connector",
+  "description": "Enables reading, searching, sending, and drafting Gmail emails via MCP tools, with support for multiple accounts and background notifications.",
+  "source_repo": "deepthi-vimal/Gmail_mcp_coonector",
+  "source_url": "https://github.com/deepthi-vimal/Gmail_mcp_coonector",
+  "install": "# git clone --depth 1 https://github.com/deepthi-vimal/Gmail_mcp_coonector\n# See source for mcpServers config block"
+}

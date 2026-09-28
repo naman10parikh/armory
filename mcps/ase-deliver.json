@@ -1,0 +1,7 @@
+{
+  "name": "ase-deliver",
+  "description": "Enables AI to generate and compile Aseprite game art, producing sprite files, sheets, and engine JSON with tools for initialization, briefs, pixel painting, building, validation, and opening in Aseprite.",
+  "source_repo": "ylty1516/ase-deliver",
+  "source_url": "https://github.com/ylty1516/ase-deliver",
+  "install": "# git clone --depth 1 https://github.com/ylty1516/ase-deliver\n# See source for mcpServers config block"
+}

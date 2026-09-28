@@ -1,0 +1,7 @@
+{
+  "name": "hiring-mcp",
+  "description": "Enables candidates to apply to your open roles through an AI agent using Model Context Protocol, with Postgres, S3 storage, and an admin API for role management and applicant review.",
+  "source_repo": "meetvaghani12/hiring_mcp",
+  "source_url": "https://github.com/meetvaghani12/hiring_mcp",
+  "install": "npx -y hiring_mcp"
+}

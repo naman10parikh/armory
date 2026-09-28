@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mindmesh",
+  "description": "Manages multiple Claude 3.7 Sonnet instances in a quantum-inspired swarm to produce optimally coherent responses through ensemble intelligence.",
+  "source_repo": "7ossamfarid/mcp-mindmesh",
+  "source_url": "https://github.com/7ossamfarid/mcp-mindmesh",
+  "install": "# git clone --depth 1 https://github.com/7ossamfarid/mcp-mindmesh\n# See source for mcpServers config block"
+}

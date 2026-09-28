@@ -1,0 +1,7 @@
+{
+  "name": "notion-mcp-bridge",
+  "description": "Enables secure natural language querying of Notion CRM databases, allowing AI agents to retrieve client health, ARR, and deployment roadblocks through a custom MCP middleware.",
+  "source_repo": "arnavk800/notion-mcp-bridge",
+  "source_url": "https://github.com/arnavk800/notion-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/arnavk800/notion-mcp-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "garageband-practice-mcp",
+  "description": "Local TypeScript MCP server for creating authorized song-practice projects for GarageBand. It enables users to create practice workspaces from MIDI, generate bar practice assets, and open projects in GarageBand.",
+  "source_repo": "IsaacCavallaro/garageband-practice-mcp",
+  "source_url": "https://github.com/IsaacCavallaro/garageband-practice-mcp",
+  "install": "npx -y garageband-practice-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cellar-wrapper",
+  "description": "A community-maintained MCP server that simplifies access to EU legal and legislative data from the CELLAR service, supporting lookups, metadata retrieval, relation checks, and monitoring.",
+  "source_repo": "Kymylyy/cellar-wrapper",
+  "source_url": "https://github.com/Kymylyy/cellar-wrapper",
+  "install": "# git clone --depth 1 https://github.com/Kymylyy/cellar-wrapper\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "doc-splitter",
+  "description": "Conceptual document splitter that parses PDF/DOCX into study-sized chunks with safe-cut constraints, verified output, and bilingual study indexes, exposed as MCP tools for AI coding assistants.",
+  "source_repo": "alifazelidehkordi/ducsplit",
+  "source_url": "https://github.com/alifazelidehkordi/ducsplit",
+  "install": "# git clone --depth 1 https://github.com/alifazelidehkordi/ducsplit\n# See source for mcpServers config block"
+}

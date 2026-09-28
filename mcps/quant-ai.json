@@ -1,0 +1,7 @@
+{
+  "name": "quant-ai",
+  "description": "MCP server for US stock quant research that provides explainable ratings, support/stop levels, and reasoning for any ticker. It enables AI assistants to analyze and discuss stocks inline within the same chat.",
+  "source_repo": "TingdeLiu/quant.ai",
+  "source_url": "https://github.com/TingdeLiu/quant.ai",
+  "install": "# git clone --depth 1 https://github.com/TingdeLiu/quant.ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "signatrust-mcp-server",
+  "description": "Enables AI assistants to manage document signing workflows via natural language, including creating envelopes, uploading documents, analyzing contracts, and verifying blockchain anchors.",
+  "source_repo": "SignaTrustDev/signatrust-mcp",
+  "source_url": "https://github.com/SignaTrustDev/signatrust-mcp",
+  "install": "npx -y signatrust-mcp"
+}

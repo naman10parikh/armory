@@ -1,0 +1,7 @@
+{
+  "name": "ros2-dev-mcp",
+  "description": "An MCP server for ROS 2 development that enables controlled creation of workspaces, packages, nodes, launch files, and tests within a sandboxed directory, with secure filesystem boundaries.",
+  "source_repo": "vagotec/ros2_dev_mcp",
+  "source_url": "https://github.com/vagotec/ros2_dev_mcp",
+  "install": "npx -y ros2_dev_mcp"
+}

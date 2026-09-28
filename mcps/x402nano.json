@@ -1,0 +1,7 @@
+{
+  "name": "x402nano",
+  "description": "Provides free Polymarket discovery data alongside paid deep-market intelligence tools via live x402 HTTP handshakes on Base mainnet. It allows AI agents to securely settle real, ultra-low-cost USDC micro-payments (0.05 USDC) directly over the Model Context Protocol.",
+  "source_repo": "Bobjonesgood/x402nano",
+  "source_url": "https://github.com/Bobjonesgood/x402nano",
+  "install": "# git clone --depth 1 https://github.com/Bobjonesgood/x402nano\n# See source for mcpServers config block"
+}

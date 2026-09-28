@@ -1,0 +1,7 @@
+{
+  "name": "pls-touch-grass-mcp",
+  "description": "Tracks how long you've been indoors, nags you to touch grass, detects frustration, and recommends nearby parks with live weather.",
+  "source_repo": "Rinava/pls-touch-grass-mcp",
+  "source_url": "https://github.com/Rinava/pls-touch-grass-mcp",
+  "install": "npx -y pls-touch-grass-mcp"
+}

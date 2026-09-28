@@ -1,0 +1,7 @@
+{
+  "name": "seguro-defeso-mcp",
+  "description": "Verifica o recebimento do Seguro Defeso a partir do CPF e NIS, com ferramenta somente leitura, hospedada e paga por consulta.",
+  "source_repo": "mcp-dir/seguro_defeso-mcp",
+  "source_url": "https://github.com/mcp-dir/seguro_defeso-mcp",
+  "install": "npx -y seguro_defeso-mcp"
+}

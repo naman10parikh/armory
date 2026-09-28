@@ -1,0 +1,7 @@
+{
+  "name": "gameday-gateway",
+  "description": "MCP server serving NFL/CFB analytics from Snowflake through curated read-only tools with RBAC and cost governance, avoiding raw SQL exposure.",
+  "source_repo": "xceleraterecruiting-dotcom/gameday-gateway",
+  "source_url": "https://github.com/xceleraterecruiting-dotcom/gameday-gateway",
+  "install": "# git clone --depth 1 https://github.com/xceleraterecruiting-dotcom/gameday-gateway\n# See source for mcpServers config block"
+}

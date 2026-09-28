@@ -1,0 +1,7 @@
+{
+  "name": "pie-ai-fastmcp-madison",
+  "description": "A FastMCP server backed by Postgres that demonstrates MCP tools, resources, and prompts, with a focus on session affinity and load balancing via HAProxy.",
+  "source_repo": "dehume/pie-ai-fastmcp-madison",
+  "source_url": "https://github.com/dehume/pie-ai-fastmcp-madison",
+  "install": "# git clone --depth 1 https://github.com/dehume/pie-ai-fastmcp-madison\n# See source for mcpServers config block"
+}

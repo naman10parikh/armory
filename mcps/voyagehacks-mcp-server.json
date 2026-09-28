@@ -1,0 +1,7 @@
+{
+  "name": "voyagehacks-mcp-server",
+  "description": "MCP server for VoyageHacks.com providing travel tools to search articles, get travel gear recommendations, and generate booking links for flights, hotels, eSIMs, VPNs, and credit cards across multiple languages.",
+  "source_repo": "voyagehacks-com/mcp-server",
+  "source_url": "https://github.com/voyagehacks-com/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/voyagehacks-com/mcp-server\n# See source for mcpServers config block"
+}

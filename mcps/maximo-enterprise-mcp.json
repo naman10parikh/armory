@@ -1,0 +1,7 @@
+{
+  "name": "maximo-enterprise-mcp",
+  "description": "A production-focused integration that brings IBM Maximo Asset Management into AI workflows, enabling natural language interaction with assets, work orders, inventory, and more.",
+  "source_repo": "MaxisTechnology-Dev/Maximo-MCP",
+  "source_url": "https://github.com/MaxisTechnology-Dev/Maximo-MCP",
+  "install": "npx -y Maximo-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nitrostack-starter-template",
+  "description": "This template enables learning NitroStack fundamentals with a calculator-focused MCP server that supports tools, resources, and prompts. It includes TypeScript and Zod validation for building MCP servers.",
+  "source_repo": "projectakshith/netsniff",
+  "source_url": "https://github.com/projectakshith/netsniff",
+  "install": "# git clone --depth 1 https://github.com/projectakshith/netsniff\n# See source for mcpServers config block"
+}

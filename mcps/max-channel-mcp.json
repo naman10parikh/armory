@@ -1,0 +1,7 @@
+{
+  "name": "max-channel-mcp",
+  "description": "Enables AI assistants to publish and manage content in MAX messenger channels, including text, photos, videos, audio, documents, location pins, buttons, edits, and pins.",
+  "source_repo": "eduard256/max-channel-mcp",
+  "source_url": "https://github.com/eduard256/max-channel-mcp",
+  "install": "npx -y max-channel-mcp"
+}

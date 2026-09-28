@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-project-management-mcp-server",
+  "description": "Enables AI assistants to create, update, search, and manage project entities (milestones, stories, tasks, decisions, documents, features) stored as markdown files in Obsidian with automatic relationship tracking and progress overview.",
+  "source_repo": "ostanlabs/obsidian_mcp",
+  "source_url": "https://github.com/ostanlabs/obsidian_mcp",
+  "install": "npx -y obsidian_mcp"
+}

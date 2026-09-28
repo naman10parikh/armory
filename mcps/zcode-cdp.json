@@ -1,0 +1,7 @@
+{
+  "name": "zcode-cdp",
+  "description": "An MCP server that enables AI coding agents to take over a real, already-logged-in Chrome via CDP, with port lease, watchdog, and state-machine governance for concurrency and stability.",
+  "source_repo": "Lumos-789/zcode-cdp",
+  "source_url": "https://github.com/Lumos-789/zcode-cdp",
+  "install": "# git clone --depth 1 https://github.com/Lumos-789/zcode-cdp\n# See source for mcpServers config block"
+}

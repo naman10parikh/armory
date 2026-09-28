@@ -1,0 +1,7 @@
+{
+  "name": "replicate-mcp-server",
+  "description": "Enables AI image generation and editing using Replicate's official models like Flux, SDXL, and Seedream, with tools to search models and generate images.",
+  "source_repo": "iceener/replicate-streamable-mcp-server",
+  "source_url": "https://github.com/iceener/replicate-streamable-mcp-server",
+  "install": "npx -y replicate-streamable-mcp-server"
+}

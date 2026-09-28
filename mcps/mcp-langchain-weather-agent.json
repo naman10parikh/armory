@@ -1,0 +1,7 @@
+{
+  "name": "mcp-langchain-weather-agent",
+  "description": "A weather MCP server that geocodes city names and fetches live weather from Open-Meteo, enabling a LangGraph agent to answer weather queries.",
+  "source_repo": "aboomar26/MCP_Waether",
+  "source_url": "https://github.com/aboomar26/MCP_Waether",
+  "install": "# git clone --depth 1 https://github.com/aboomar26/MCP_Waether\n# See source for mcpServers config block"
+}

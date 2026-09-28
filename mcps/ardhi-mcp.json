@@ -1,0 +1,7 @@
+{
+  "name": "ardhi-mcp",
+  "description": "MCP server for Kenya land administration — title search, land rates, subdivision process, dispute resolution, land rights.",
+  "source_repo": "gabrielmahia/ardhi-mcp",
+  "source_url": "https://github.com/gabrielmahia/ardhi-mcp",
+  "install": "npx -y ardhi-mcp"
+}

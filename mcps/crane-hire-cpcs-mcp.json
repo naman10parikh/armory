@@ -1,0 +1,7 @@
+{
+  "name": "crane-hire-cpcs-mcp",
+  "description": "UK crane hire compliance MCP for CPCS/CISRS/NPORS card verification and BS 7121 lift plans.",
+  "source_repo": "CSOAI-ORG/crane-hire-cpcs-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/crane-hire-cpcs-mcp",
+  "install": "npx -y crane-hire-cpcs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "asistonto-mcp",
+  "description": "Enables AI assistants to create validated question packs for the asistonto meeting copilot, converting meeting notes into pack files that surface questions during live meetings.",
+  "source_repo": "R0DR0X/asistonto-mcp",
+  "source_url": "https://github.com/R0DR0X/asistonto-mcp",
+  "install": "npx -y asistonto-mcp"
+}

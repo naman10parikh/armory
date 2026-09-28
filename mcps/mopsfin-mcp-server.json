@@ -1,0 +1,7 @@
+{
+  "name": "mopsfin-mcp-server",
+  "description": "Provides a read-only interface to Taiwan stock financial data from the public Mopsfin source, enabling queries for company metrics, financial statements, notes, industry statistics, and financial institution data through MCP tools.",
+  "source_repo": "victorfu/mopsfin-mcp",
+  "source_url": "https://github.com/victorfu/mopsfin-mcp",
+  "install": "npx -y mopsfin-mcp"
+}

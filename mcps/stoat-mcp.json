@@ -1,0 +1,7 @@
+{
+  "name": "stoat-mcp",
+  "description": "Enables AI assistants to read and write messages, manage channels, and interact with users on the Stoat chat platform.",
+  "source_repo": "mdlopresti/stoat-mcp",
+  "source_url": "https://github.com/mdlopresti/stoat-mcp",
+  "install": "npx -y stoat-mcp"
+}

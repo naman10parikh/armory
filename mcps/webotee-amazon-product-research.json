@@ -1,0 +1,7 @@
+{
+  "name": "webotee-amazon-product-research",
+  "description": "Hosted Amazon market-intelligence MCP for Claude and ChatGPT: query brands, sellers, ASINs, under-competed niches, the cross-seller operator network, observed buy-box history, and Amazon/Walmart cross-marketplace overlap. 65 read-only research tools over a pre-collected research dataset.",
+  "source_repo": "ncosic/webotee-mcp",
+  "source_url": "https://github.com/ncosic/webotee-mcp",
+  "install": "npx -y webotee-mcp"
+}

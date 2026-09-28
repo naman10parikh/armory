@@ -1,0 +1,7 @@
+{
+  "name": "prometheus-mcp-server-extended",
+  "description": "Enables querying real-time and historical server performance metrics (CPU, memory, disk IO, load, TCP) from Prometheus via Node Exporter.",
+  "source_repo": "yh1401/prometheus-mcp-server",
+  "source_url": "https://github.com/yh1401/prometheus-mcp-server",
+  "install": "npx -y prometheus-mcp-server"
+}

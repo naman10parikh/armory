@@ -1,0 +1,7 @@
+{
+  "name": "summon-mcp",
+  "description": "Self-evolving knowledge graph for AI agents — persistent memory that gets smarter with every interaction.",
+  "source_repo": "Aiskillhub/summon-mcp",
+  "source_url": "https://github.com/Aiskillhub/summon-mcp",
+  "install": "npx -y summon-mcp"
+}

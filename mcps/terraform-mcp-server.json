@@ -1,0 +1,7 @@
+{
+  "name": "terraform-mcp-server",
+  "description": "Enables generating, validating, planning, and applying Terraform configurations to manage infrastructure through natural language.",
+  "source_repo": "dkeeno/terraform-mcp-server",
+  "source_url": "https://github.com/dkeeno/terraform-mcp-server",
+  "install": "npx -y terraform-mcp-server"
+}

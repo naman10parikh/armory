@@ -1,0 +1,7 @@
+{
+  "name": "arcgis-mcp",
+  "description": "Unified MCP server for ArcGIS Online and Enterprise providing tools for user/group management, item management, geoprocessing, feature layer queries/editing, and server administration.",
+  "source_repo": "renemorenow/arcgis-mcp",
+  "source_url": "https://github.com/renemorenow/arcgis-mcp",
+  "install": "npx -y arcgis-mcp"
+}

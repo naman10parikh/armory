@@ -1,0 +1,7 @@
+{
+  "name": "azure-devops-mcp",
+  "description": "Multi-user wrapper around Microsoft's Azure DevOps MCP server, enabling AI agents to authenticate per-user and interact with Azure DevOps tools via isolated PATs.",
+  "source_repo": "jclement/azure-devops-mcp",
+  "source_url": "https://github.com/jclement/azure-devops-mcp",
+  "install": "npx -y azure-devops-mcp"
+}

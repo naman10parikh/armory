@@ -1,0 +1,7 @@
+{
+  "name": "fpl-mcp",
+  "description": "MCP server for the Fantasy Premier League API, enabling querying of players, teams, fixtures, and your FPL team through any MCP-compatible client.",
+  "source_repo": "reecetwhite/fpl-mcp",
+  "source_url": "https://github.com/reecetwhite/fpl-mcp",
+  "install": "npx -y fpl-mcp"
+}

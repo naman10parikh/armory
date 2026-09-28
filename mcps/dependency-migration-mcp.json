@@ -1,0 +1,7 @@
+{
+  "name": "dependency-migration-mcp",
+  "description": "Provides structured migration briefs for LLM coding agents covering breaking changes, codemod coverage, and hallucination warnings for major version bumps of packages like tailwindcss, next, and react.",
+  "source_repo": "SolvoHQ/dependency-migration-mcp",
+  "source_url": "https://github.com/SolvoHQ/dependency-migration-mcp",
+  "install": "npx -y dependency-migration-mcp"
+}

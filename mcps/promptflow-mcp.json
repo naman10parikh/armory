@@ -1,0 +1,7 @@
+{
+  "name": "promptflow-mcp",
+  "description": "A Model Context Protocol server for prompt template management, enabling storage, versioning, search, and rendering of prompt templates via MCP tools.",
+  "source_repo": "RozuniFix72/promptflow-mcp",
+  "source_url": "https://github.com/RozuniFix72/promptflow-mcp",
+  "install": "npx -y promptflow-mcp"
+}

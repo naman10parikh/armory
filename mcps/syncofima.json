@@ -1,0 +1,7 @@
+{
+  "name": "syncofima",
+  "description": "MCP server for querying OFIMA data replicated to Supabase, providing tools to list tables, describe schemas, query data, count rows, and run custom SQL.",
+  "source_repo": "desarrolladorMicelu/mcpOfima",
+  "source_url": "https://github.com/desarrolladorMicelu/mcpOfima",
+  "install": "# git clone --depth 1 https://github.com/desarrolladorMicelu/mcpOfima\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mermaid-mender",
+  "description": "Validates and self-heals broken Mermaid diagrams, providing a stdio JSON-RPC server with validate and repair tools for AI agents.",
+  "source_repo": "yulinlina/mermaid-mender",
+  "source_url": "https://github.com/yulinlina/mermaid-mender",
+  "install": "# git clone --depth 1 https://github.com/yulinlina/mermaid-mender\n# See source for mcpServers config block"
+}

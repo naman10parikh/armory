@@ -1,0 +1,7 @@
+{
+  "name": "agentic-pay",
+  "description": "Non-custodial payment engine for AI agents supporting BTC, ETH, USDT, USDC, XRP, XMR, and ZEC. Exposes wallet, invoice, and payment tools over MCP with per-agent spend limits, plus x402 pay-per-call support.",
+  "source_repo": "ShieldCubed/agentic-pay",
+  "source_url": "https://github.com/ShieldCubed/agentic-pay",
+  "install": "# git clone --depth 1 https://github.com/ShieldCubed/agentic-pay\n# See source for mcpServers config block"
+}

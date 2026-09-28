@@ -1,0 +1,7 @@
+{
+  "name": "batman-mcp",
+  "description": "MCP server for managing developer escalation (Batman system) to resolve incidents during sprints, with tools for developer CRUD, unavailability, authentication, and Batman assignment.",
+  "source_repo": "tadev77/batman-mcp",
+  "source_url": "https://github.com/tadev77/batman-mcp",
+  "install": "npx -y batman-mcp"
+}

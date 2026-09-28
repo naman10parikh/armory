@@ -1,0 +1,7 @@
+{
+  "name": "ma-browser",
+  "description": "MCP server that lets AI agents use your real browser as an API, accessing any website with your login state, no keys or scrapers needed.",
+  "source_repo": "zzhan111/multi-agents-browser",
+  "source_url": "https://github.com/zzhan111/multi-agents-browser",
+  "install": "# git clone --depth 1 https://github.com/zzhan111/multi-agents-browser\n# See source for mcpServers config block"
+}

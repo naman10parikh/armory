@@ -1,0 +1,7 @@
+{
+  "name": "tokenslim-mcp",
+  "description": "Provides context compression via the tokenslim engine, enabling MCP hosts to reduce token usage while preserving key information. Offers compress, retrieve, and stats tools for managing compressed content.",
+  "source_repo": "robertruben98/tokenslim-mcp",
+  "source_url": "https://github.com/robertruben98/tokenslim-mcp",
+  "install": "npx -y tokenslim-mcp"
+}

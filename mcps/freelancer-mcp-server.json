@@ -1,0 +1,7 @@
+{
+  "name": "freelancer-mcp-server",
+  "description": "Connects Claude to Freelancer.com, enabling project search, bidding, messaging, and profile management via natural language.",
+  "source_repo": "godesigntech/freelancer-mcp-server",
+  "source_url": "https://github.com/godesigntech/freelancer-mcp-server",
+  "install": "npx -y freelancer-mcp-server"
+}

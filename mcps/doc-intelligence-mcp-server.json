@@ -1,0 +1,7 @@
+{
+  "name": "doc-intelligence-mcp-server",
+  "description": "Enables LLMs to dynamically search, scrape, and query official documentation of libraries like uv, OpenAI, LangChain, and LlamaIndex via Google Serper and Groq.",
+  "source_repo": "SARAN-KUMAR-S/DOC-Intelligence-MCP-SERVER",
+  "source_url": "https://github.com/SARAN-KUMAR-S/DOC-Intelligence-MCP-SERVER",
+  "install": "npx -y DOC-Intelligence-MCP-SERVER"
+}

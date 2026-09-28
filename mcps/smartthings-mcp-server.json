@@ -1,0 +1,7 @@
+{
+  "name": "smartthings-mcp-server",
+  "description": "Enables managing Samsung SmartThings devices, scenes, notifications, and routines through full CRUD operations on rules via the MCP protocol.",
+  "source_repo": "gil906/samrtthings-MCP",
+  "source_url": "https://github.com/gil906/samrtthings-MCP",
+  "install": "npx -y samrtthings-MCP"
+}

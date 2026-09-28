@@ -1,0 +1,7 @@
+{
+  "name": "timeseries-mcp",
+  "description": "Deterministic time-series statistics for AI agents. This MCP server gives any LLM agent unit-tested statistical tools — anomaly detection, changepoint detection, seasonal decomposition, stationarity/trend tests, data-quality audits, baseline forecasts — with schema-validated structured output and no",
+  "source_repo": "Lkhanaajav/timeseries-mcp",
+  "source_url": "https://github.com/Lkhanaajav/timeseries-mcp",
+  "install": "npx -y timeseries-mcp"
+}

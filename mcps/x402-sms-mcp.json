@@ -1,0 +1,7 @@
+{
+  "name": "x402-sms-mcp",
+  "description": "A paid MCP server that lets AI agents send SMS messages to US phone numbers via x402 micropayments, with automatic compliance and opt-out handling.",
+  "source_repo": "UltraStarz/x402-sms-mcp",
+  "source_url": "https://github.com/UltraStarz/x402-sms-mcp",
+  "install": "npx -y x402-sms-mcp"
+}

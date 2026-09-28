@@ -1,0 +1,7 @@
+{
+  "name": "carmax-mcp-server",
+  "description": "An MCP server that integrates with CarMax to search inventory, get vehicle details, schedule test drives, and get instant offers using Playwright and Browserbase.",
+  "source_repo": "markswendsen-code/mcp-carmax",
+  "source_url": "https://github.com/markswendsen-code/mcp-carmax",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-carmax\n# See source for mcpServers config block"
+}

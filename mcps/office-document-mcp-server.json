@@ -1,0 +1,7 @@
+{
+  "name": "office-document-mcp-server",
+  "description": "Provides tools to extract, convert, and generate Microsoft Office documents (Word, Excel, PowerPoint) via the Model Context Protocol, with support for reading, editing, and auditing document content.",
+  "source_repo": "rcarmo/python-office-mcp-server",
+  "source_url": "https://github.com/rcarmo/python-office-mcp-server",
+  "install": "npx -y python-office-mcp-server"
+}

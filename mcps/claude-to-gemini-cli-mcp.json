@@ -1,0 +1,7 @@
+{
+  "name": "claude-to-gemini-cli-mcp",
+  "description": "An MCP server that lets Claude query Google's Gemini CLI as a sub-agent. Get second opinions, verify information, and cross-reference answers between AI models.",
+  "source_repo": "TrisC0/Claude-to-Gemini-CLI",
+  "source_url": "https://github.com/TrisC0/Claude-to-Gemini-CLI",
+  "install": "# git clone --depth 1 https://github.com/TrisC0/Claude-to-Gemini-CLI\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "overte-mcp",
+  "description": "An MCP server for the Overte social-VR platform, enabling real-time querying of domain status, spawning in-world entities, and injecting JavaScript scripts through a WebSocket bridge.",
+  "source_repo": "sandraschi/overte-mcp",
+  "source_url": "https://github.com/sandraschi/overte-mcp",
+  "install": "npx -y overte-mcp"
+}

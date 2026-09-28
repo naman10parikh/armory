@@ -1,0 +1,7 @@
+{
+  "name": "mcp-redis-allowlist",
+  "description": "Read-only Redis MCP server with a configurable command allowlist for safe production diagnostics, enabling exact read-only subcommands like CLIENT LIST and SLOWLOG GET.",
+  "source_repo": "TeaBambooNGU/mcp-redis-allowlist",
+  "source_url": "https://github.com/TeaBambooNGU/mcp-redis-allowlist",
+  "install": "# git clone --depth 1 https://github.com/TeaBambooNGU/mcp-redis-allowlist\n# See source for mcpServers config block"
+}

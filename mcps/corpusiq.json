@@ -1,0 +1,7 @@
+{
+  "name": "corpusiq",
+  "description": "Cross-source attribution across 37+ business tools. True ROAS in 14 seconds. Not a dashboard. A decision.",
+  "source_repo": "CorpusIQ/corpusiq-docs",
+  "source_url": "https://github.com/CorpusIQ/corpusiq-docs",
+  "install": "# git clone --depth 1 https://github.com/CorpusIQ/corpusiq-docs\n# See source for mcpServers config block"
+}

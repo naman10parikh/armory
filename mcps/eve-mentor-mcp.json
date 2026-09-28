@@ -1,0 +1,7 @@
+{
+  "name": "eve-mentor-mcp",
+  "description": "MCP server that turns Claude into an EVE Online mentor, providing tools for loss analysis, system intel, market prices, skill training, and career guidance for new players.",
+  "source_repo": "henryjrobinson/eve-mentor-mcp",
+  "source_url": "https://github.com/henryjrobinson/eve-mentor-mcp",
+  "install": "npx -y eve-mentor-mcp"
+}

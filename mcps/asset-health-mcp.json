@@ -1,0 +1,7 @@
+{
+  "name": "asset-health-mcp",
+  "description": "Provides data-quality validation and anomaly scoring tools so an AI agent can decide whether to dispatch a field technician, while refusing to act on untrusted data.",
+  "source_repo": "yamylemerleremond/asset-health-mcp",
+  "source_url": "https://github.com/yamylemerleremond/asset-health-mcp",
+  "install": "npx -y asset-health-mcp"
+}

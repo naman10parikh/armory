@@ -1,0 +1,7 @@
+{
+  "name": "reputemap-mcp",
+  "description": "Enables AI agents to manage Google Business Profile reviews, including a filterable review inbox, per-location stats, and honest review-request campaigns.",
+  "source_repo": "reputemap/mcp",
+  "source_url": "https://github.com/reputemap/mcp",
+  "install": "# git clone --depth 1 https://github.com/reputemap/mcp\n# See source for mcpServers config block"
+}

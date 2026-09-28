@@ -1,0 +1,7 @@
+{
+  "name": "bracketcoder-blog",
+  "description": "MCP server for writing and publishing SEO blog posts to Bracket Coder, with tools for style guide, content research, on-brand image generation, and post management.",
+  "source_repo": "bracketcoder/blog-mcp",
+  "source_url": "https://github.com/bracketcoder/blog-mcp",
+  "install": "npx -y blog-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lacuna-music",
+  "description": "Generates original instrumental music and vocal songs from natural-language descriptions and lyrics, retrieves generation status, and waits for audio URLs to be ready.",
+  "source_repo": "JOYLINK-LTD/lacuna-plugin",
+  "source_url": "https://github.com/JOYLINK-LTD/lacuna-plugin",
+  "install": "# git clone --depth 1 https://github.com/JOYLINK-LTD/lacuna-plugin\n# See source for mcpServers config block"
+}

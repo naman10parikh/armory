@@ -1,0 +1,7 @@
+{
+  "name": "tempmail-mcp",
+  "description": "MCP server for disposable email. Gives an assistant its own throwaway inbox, then hands back the confirmation code out of the message that arrives.",
+  "source_repo": "dvlop/tempmail-mcp",
+  "source_url": "https://github.com/dvlop/tempmail-mcp",
+  "install": "npx -y tempmail-mcp"
+}

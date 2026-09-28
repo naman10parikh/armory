@@ -1,0 +1,7 @@
+{
+  "name": "ssh-mcp-pro",
+  "description": "ssh-mcp-pro is a secure Model Context Protocol (MCP) server for SSH automation, enabling clients to open SSH sessions, run commands, manage files, transfer artifacts, create tunnels, and perform package/service operations under policy control.",
+  "source_repo": "oaslananka/ssh-mcp-pro",
+  "source_url": "https://github.com/oaslananka/ssh-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/oaslananka/ssh-mcp-pro\n# See source for mcpServers config block"
+}

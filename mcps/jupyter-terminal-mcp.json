@@ -1,0 +1,7 @@
+{
+  "name": "jupyter-terminal-mcp",
+  "description": "Enables an agent to run shell commands through a JupyterLab/JupyterHub-hosted terminal, using REST API and WebSocket via Selenium for session handling, when SSH is not available.",
+  "source_repo": "TheManchineel/jupyter-terminal-mcp",
+  "source_url": "https://github.com/TheManchineel/jupyter-terminal-mcp",
+  "install": "npx -y jupyter-terminal-mcp"
+}

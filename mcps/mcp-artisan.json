@@ -1,0 +1,7 @@
+{
+  "name": "mcp-artisan",
+  "description": "A secure MCP server with a workspace sandbox for AI agents to manage prompts, save HTML, and render HTML to images.",
+  "source_repo": "cnzhihao/mcp-artisan",
+  "source_url": "https://github.com/cnzhihao/mcp-artisan",
+  "install": "# git clone --depth 1 https://github.com/cnzhihao/mcp-artisan\n# See source for mcpServers config block"
+}

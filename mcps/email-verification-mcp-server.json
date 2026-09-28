@@ -1,0 +1,7 @@
+{
+  "name": "email-verification-mcp-server",
+  "description": "Provides an MCP tool to verify email addresses, returning valid, invalid, risky, or error statuses via the InboxValid API. It includes a mock API and retry logic for robust, type-safe verification.",
+  "source_repo": "05tanish/email-verification-mcp",
+  "source_url": "https://github.com/05tanish/email-verification-mcp",
+  "install": "npx -y email-verification-mcp"
+}

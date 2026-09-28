@@ -1,0 +1,7 @@
+{
+  "name": "linesight",
+  "description": "Enables AI assistants to analyze plant-floor data using OEE, Pareto, SPC, and yield-loss calculations, providing continuous-improvement insights from manufacturing data.",
+  "source_repo": "marcoaguzman/linesight",
+  "source_url": "https://github.com/marcoaguzman/linesight",
+  "install": "# git clone --depth 1 https://github.com/marcoaguzman/linesight\n# See source for mcpServers config block"
+}

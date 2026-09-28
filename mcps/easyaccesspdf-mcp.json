@@ -1,0 +1,7 @@
+{
+  "name": "easyaccesspdf-mcp",
+  "description": "EasyAccessPDF is a production MCP server for PDF accessibility and document conversion. Five tools: convert documents (PDF/DOCX/PPT/XLS/HTML/EPUB/RTF/ODT/TXT) to clean Markdown; export PDFs to JSON/HTML/text/annotated-PDF; run veraPDF PDF/UA-1 (ISO 14289) accessibility audits with graded reports; au",
+  "source_repo": "luotwo/easyaccesspdf-mcp",
+  "source_url": "https://github.com/luotwo/easyaccesspdf-mcp",
+  "install": "npx -y easyaccesspdf-mcp"
+}

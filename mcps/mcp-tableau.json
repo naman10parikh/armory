@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tableau",
+  "description": "MCP server that automates the publishing and validation of Tableau workbooks and data sources on Tableau Server or Tableau Cloud, enabling an AI agent to discover, build, validate, and publish content without human intervention.",
+  "source_repo": "edudutra/mcp-tableau",
+  "source_url": "https://github.com/edudutra/mcp-tableau",
+  "install": "# git clone --depth 1 https://github.com/edudutra/mcp-tableau\n# See source for mcpServers config block"
+}

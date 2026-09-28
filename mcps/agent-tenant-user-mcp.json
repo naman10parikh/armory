@@ -1,0 +1,7 @@
+{
+  "name": "agent-tenant-user-mcp",
+  "description": "MCP server for the MSPbots Agent Platform tenant/user API, allowing an Agent to list all platform tenants via a single tool.",
+  "source_repo": "MSPbotsAI/agent-tenant-user-mcp",
+  "source_url": "https://github.com/MSPbotsAI/agent-tenant-user-mcp",
+  "install": "npx -y agent-tenant-user-mcp"
+}

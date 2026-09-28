@@ -1,0 +1,7 @@
+{
+  "name": "pinchmcp",
+  "description": "An MCP server that analyzes Linear feature dependencies using dominator analysis to identify the keystone ticket that unblocks the most downstream work.",
+  "source_repo": "0xdefence/PinchMCP",
+  "source_url": "https://github.com/0xdefence/PinchMCP",
+  "install": "# git clone --depth 1 https://github.com/0xdefence/PinchMCP\n# See source for mcpServers config block"
+}

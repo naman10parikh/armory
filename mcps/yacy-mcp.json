@@ -1,0 +1,7 @@
+{
+  "name": "yacy-mcp",
+  "description": "Enables AI applications to perform web searches using a YaCy search engine instance through the Model Context Protocol.",
+  "source_repo": "koosty/yacy-mcp",
+  "source_url": "https://github.com/koosty/yacy-mcp",
+  "install": "npx -y yacy-mcp"
+}

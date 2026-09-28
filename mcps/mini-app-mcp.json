@@ -1,0 +1,7 @@
+{
+  "name": "mini-app-mcp",
+  "description": "Agent-First CRUD store MCP server — schema.yaml driven, SQLite backend, multi-table in a single daemon.",
+  "source_repo": "ynishi/mini-app-mcp",
+  "source_url": "https://github.com/ynishi/mini-app-mcp",
+  "install": "npx -y mini-app-mcp"
+}

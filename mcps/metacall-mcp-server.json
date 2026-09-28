@@ -1,0 +1,7 @@
+{
+  "name": "metacall-mcp-server",
+  "description": "Exposes MetaCall FaaS capabilities as MCP tools for deploying, invoking, and managing serverless functions.",
+  "source_repo": "Somsubhra-Nandi/metacall-mcp-server",
+  "source_url": "https://github.com/Somsubhra-Nandi/metacall-mcp-server",
+  "install": "npx -y metacall-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "revxl-devtools",
+  "description": "Provides 17 developer utility tools for AI agents, including free tools like JSON formatting, base64 encoding, UUID generation, and pro tools for regex, JWT, cron, and more.",
+  "source_repo": "johnmives/revxl-devtools",
+  "source_url": "https://github.com/johnmives/revxl-devtools",
+  "install": "# git clone --depth 1 https://github.com/johnmives/revxl-devtools\n# See source for mcpServers config block"
+}

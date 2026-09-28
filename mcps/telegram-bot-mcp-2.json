@@ -1,0 +1,7 @@
+{
+  "name": "telegram-bot-mcp-2",
+  "description": "Exposes Telegram Bot API operations as MCP tools, enabling managing messages, chats, and forum topics via a FastMCP server.",
+  "source_repo": "pixellover1433/TelegramBotMCP",
+  "source_url": "https://github.com/pixellover1433/TelegramBotMCP",
+  "install": "# git clone --depth 1 https://github.com/pixellover1433/TelegramBotMCP\n# See source for mcpServers config block"
+}

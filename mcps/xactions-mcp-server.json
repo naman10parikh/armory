@@ -1,0 +1,7 @@
+{
+  "name": "xactions-mcp-server",
+  "description": "Enables AI agents to automate Twitter/X interactions with over 140 tools, requiring no API key.",
+  "source_repo": "nirholas/XActions",
+  "source_url": "https://github.com/nirholas/XActions",
+  "install": "# git clone --depth 1 https://github.com/nirholas/XActions\n# See source for mcpServers config block"
+}

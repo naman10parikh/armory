@@ -1,0 +1,7 @@
+{
+  "name": "io-github-hzy9981-aviation-accident-analysis",
+  "description": "MCP server that parses aviation accident reports (PDF/DOCX/TXT) and injects their content into extraction prompt templates for knowledge graph construction.",
+  "source_repo": "hzy9981/aviation-accident-analysis",
+  "source_url": "https://github.com/hzy9981/aviation-accident-analysis",
+  "install": "# git clone --depth 1 https://github.com/hzy9981/aviation-accident-analysis\n# See source for mcpServers config block"
+}

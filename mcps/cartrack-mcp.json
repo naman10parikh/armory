@@ -1,0 +1,7 @@
+{
+  "name": "cartrack-mcp",
+  "description": "A read-only MCP server for Cartrack fleet management, enabling listing vehicles and checking their last-known status and location.",
+  "source_repo": "KhulaNode/cartrack-mcp",
+  "source_url": "https://github.com/KhulaNode/cartrack-mcp",
+  "install": "npx -y cartrack-mcp"
+}

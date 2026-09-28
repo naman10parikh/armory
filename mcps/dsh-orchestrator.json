@@ -1,0 +1,7 @@
+{
+  "name": "dsh-orchestrator",
+  "description": "A local STDIO MCP server that bridges Codex to the official DeepSeek Harness (DSH) Web Host, enabling supervised DSH collaboration through session management, delegation, and monitoring tools.",
+  "source_repo": "hootandy321/dsh-Agentlink",
+  "source_url": "https://github.com/hootandy321/dsh-Agentlink",
+  "install": "# git clone --depth 1 https://github.com/hootandy321/dsh-Agentlink\n# See source for mcpServers config block"
+}

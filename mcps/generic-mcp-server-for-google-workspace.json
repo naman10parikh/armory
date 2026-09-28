@@ -1,0 +1,7 @@
+{
+  "name": "generic-mcp-server-for-google-workspace",
+  "description": "Enables AI agents to send emails, create drafts in Gmail, and append content to Google Docs via standardized MCP tools.",
+  "source_repo": "Santhosh-A-Git/MCP-Server",
+  "source_url": "https://github.com/Santhosh-A-Git/MCP-Server",
+  "install": "# git clone --depth 1 https://github.com/Santhosh-A-Git/MCP-Server\n# See source for mcpServers config block"
+}

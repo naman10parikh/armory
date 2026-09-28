@@ -1,0 +1,7 @@
+{
+  "name": "pending-medicare-mcp",
+  "description": "Read-only MCP server providing a validated public preview of behavioral-health NPIs newly present in CMS pending first-time Medicare enrollment files, including state/specialty counts and official methodology.",
+  "source_repo": "unitedideas/pending-medicare-mcp",
+  "source_url": "https://github.com/unitedideas/pending-medicare-mcp",
+  "install": "npx -y pending-medicare-mcp"
+}

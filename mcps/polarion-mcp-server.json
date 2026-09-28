@@ -1,0 +1,7 @@
+{
+  "name": "polarion-mcp-server",
+  "description": "A TypeScript MCP server that turns the Polarion ALM REST API into a tool-based interface for AI assistants.",
+  "source_repo": "phillipboesger/polarion-mcp",
+  "source_url": "https://github.com/phillipboesger/polarion-mcp",
+  "install": "npx -y polarion-mcp"
+}

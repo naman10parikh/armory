@@ -1,0 +1,7 @@
+{
+  "name": "proxy-doctor",
+  "description": "Diagnoses proxy misconfigurations that break AI coding tools like Cursor, VS Code, and Windsurf.",
+  "source_repo": "Jiansen/proxy-doctor",
+  "source_url": "https://github.com/Jiansen/proxy-doctor",
+  "install": "# git clone --depth 1 https://github.com/Jiansen/proxy-doctor\n# See source for mcpServers config block"
+}

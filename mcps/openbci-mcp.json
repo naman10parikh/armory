@@ -1,0 +1,7 @@
+{
+  "name": "openbci-mcp",
+  "description": "MCP server for OpenBCI hardware via BrainFlow, enabling board connection, streaming, signal processing, and export with a web dashboard.",
+  "source_repo": "sandraschi/openbci-mcp",
+  "source_url": "https://github.com/sandraschi/openbci-mcp",
+  "install": "npx -y openbci-mcp"
+}

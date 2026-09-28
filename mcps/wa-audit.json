@@ -1,0 +1,7 @@
+{
+  "name": "wa-audit",
+  "description": "Enables comprehensive audit of WhatsApp business conversations, including history export, LLM analysis with verification, and multi-format report generation.",
+  "source_repo": "Leandrozz/wa-audit",
+  "source_url": "https://github.com/Leandrozz/wa-audit",
+  "install": "# git clone --depth 1 https://github.com/Leandrozz/wa-audit\n# See source for mcpServers config block"
+}

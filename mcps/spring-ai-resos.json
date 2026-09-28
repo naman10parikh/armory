@@ -1,6 +1,6 @@
 {
   "name": "spring-ai-resos",
-  "description": "Spring Ai Resos MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "pacphi/spring-ai-resos",
   "source_url": "https://mcp.so/server/spring-ai-resos/pacphi",
   "install": "# git clone --depth 1 https://mcp.so/server/spring-ai-resos/pacphi\n# See source for mcpServers config block"

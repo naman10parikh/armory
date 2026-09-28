@@ -1,0 +1,7 @@
+{
+  "name": "renovate-mcp",
+  "description": "An MCP server for interactively reading, validating, previewing, and saving Renovate configurations with LLM assistance.",
+  "source_repo": "tibuntu/renovate-mcp",
+  "source_url": "https://github.com/tibuntu/renovate-mcp",
+  "install": "npx -y renovate-mcp"
+}

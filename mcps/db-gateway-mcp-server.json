@@ -1,0 +1,7 @@
+{
+  "name": "db-gateway-mcp-server",
+  "description": "Gives AI agents direct access to databases across 8 engines with 145+ tools, enabling schema-aware query execution and management through natural language.",
+  "source_repo": "sijunkim/db-gateway",
+  "source_url": "https://github.com/sijunkim/db-gateway",
+  "install": "# git clone --depth 1 https://github.com/sijunkim/db-gateway\n# See source for mcpServers config block"
+}

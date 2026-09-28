@@ -1,0 +1,7 @@
+{
+  "name": "context-hub-mcp-server",
+  "description": "A minimal MCP server with sample tools, resources, and prompts, plus an aggregator to connect multiple external MCP servers and REST APIs, including experimental OAuth support.",
+  "source_repo": "sampritidas/MCP_Spike",
+  "source_url": "https://github.com/sampritidas/MCP_Spike",
+  "install": "# git clone --depth 1 https://github.com/sampritidas/MCP_Spike\n# See source for mcpServers config block"
+}

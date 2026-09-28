@@ -1,0 +1,7 @@
+{
+  "name": "ddq",
+  "description": "Enables AI coding agents to retrieve QA cases from a curated knowledge base grounded in real bugs, supporting symptom search and feature-wide coverage for test planning.",
+  "source_repo": "nogglee-crew/domain-driven-qa",
+  "source_url": "https://github.com/nogglee-crew/domain-driven-qa",
+  "install": "# git clone --depth 1 https://github.com/nogglee-crew/domain-driven-qa\n# See source for mcpServers config block"
+}

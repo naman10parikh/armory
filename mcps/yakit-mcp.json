@@ -1,0 +1,7 @@
+{
+  "name": "yakit-mcp",
+  "description": "Enables AI agents to drive the local Yakit engine for HTTP packet replay, GUI visualization, and screenshotting via CDP. Supports automatic protocol detection, batch replay, history management, and CDP-based GUI automation.",
+  "source_repo": "l0s3r-Q/yakit-mcp",
+  "source_url": "https://github.com/l0s3r-Q/yakit-mcp",
+  "install": "npx -y yakit-mcp"
+}

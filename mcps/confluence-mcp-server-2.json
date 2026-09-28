@@ -1,0 +1,7 @@
+{
+  "name": "confluence-mcp-server-2",
+  "description": "Enables GitHub Copilot to read, write, search, and manage Confluence pages, spaces, attachments, and diagrams through MCP tools.",
+  "source_repo": "dutta-Piyush/custom-confluence-mcp",
+  "source_url": "https://github.com/dutta-Piyush/custom-confluence-mcp",
+  "install": "npx -y custom-confluence-mcp"
+}

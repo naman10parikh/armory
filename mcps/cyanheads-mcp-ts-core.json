@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-mcp-ts-core",
+  "description": "A TypeScript framework for building MCP servers with declarative tool, resource, and prompt definitions, built-in auth, multi-backend storage, and observability.",
+  "source_repo": "cyanheads/mcp-ts-core",
+  "source_url": "https://github.com/cyanheads/mcp-ts-core",
+  "install": "# git clone --depth 1 https://github.com/cyanheads/mcp-ts-core\n# See source for mcpServers config block"
+}

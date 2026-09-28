@@ -1,0 +1,7 @@
+{
+  "name": "crm-mcp-server",
+  "description": "A self-hosted Model Context Protocol server for GoHighLevel CRM, built for agencies. It enables connecting multiple sub-accounts, selecting tools per client, and issuing unique revocable MCP URLs.",
+  "source_repo": "abdul-34/ghl-mcp-server",
+  "source_url": "https://github.com/abdul-34/ghl-mcp-server",
+  "install": "npx -y ghl-mcp-server"
+}

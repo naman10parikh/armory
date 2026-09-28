@@ -1,0 +1,7 @@
+{
+  "name": "grafema-mcp",
+  "description": "Grafema builds a queryable knowledge graph of your codebase and allows you to enforce structural invariants and query the system using Datalog or Cypher.",
+  "source_repo": "Disentinel/grafema",
+  "source_url": "https://github.com/Disentinel/grafema",
+  "install": "# git clone --depth 1 https://github.com/Disentinel/grafema\n# See source for mcpServers config block"
+}

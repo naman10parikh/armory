@@ -1,0 +1,7 @@
+{
+  "name": "windows-control",
+  "description": "MCP server for AI to operate Windows apps via screen OCR and background input, featuring structured WhatsApp UI tools for reading chats, detecting unread messages, and sending messages without stealing focus.",
+  "source_repo": "HamdanProfessional/windows-control-mcp",
+  "source_url": "https://github.com/HamdanProfessional/windows-control-mcp",
+  "install": "npx -y windows-control-mcp"
+}

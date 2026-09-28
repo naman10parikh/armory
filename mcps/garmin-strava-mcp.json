@@ -1,0 +1,7 @@
+{
+  "name": "garmin-strava-mcp",
+  "description": "MCP server that gives Claude access to real-time Garmin Connect and Strava data for analyzing training and suggesting sessions.",
+  "source_repo": "Juanfi-ai/Garmin-Strava-mcp",
+  "source_url": "https://github.com/Juanfi-ai/Garmin-Strava-mcp",
+  "install": "npx -y Garmin-Strava-mcp"
+}

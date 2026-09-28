@@ -1,0 +1,7 @@
+{
+  "name": "outlook-email-mcp-server",
+  "description": "An MCP server that enables reading and managing Microsoft 365 / Outlook emails through Microsoft Graph API, allowing users to list, search, send, draft, and authenticate using device code flow.",
+  "source_repo": "nhatho0001/M365-MCP-Server",
+  "source_url": "https://github.com/nhatho0001/M365-MCP-Server",
+  "install": "npx -y M365-MCP-Server"
+}

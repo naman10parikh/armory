@@ -1,0 +1,7 @@
+{
+  "name": "extended-playwright-mcp-server",
+  "description": "Extends @playwright/mcp with 22 additional tools for web automation, direct uploads, element interactions, and advanced scraping workflows in AI agents.",
+  "source_repo": "DanEvenSegler/extended-playwright-mcp",
+  "source_url": "https://github.com/DanEvenSegler/extended-playwright-mcp",
+  "install": "npx -y extended-playwright-mcp"
+}

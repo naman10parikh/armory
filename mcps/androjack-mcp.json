@@ -1,0 +1,7 @@
+{
+  "name": "androjack-mcp",
+  "description": "Enables AI coding assistants to access up-to-date, official Android documentation and APIs, reducing hallucinations from stale training data.",
+  "source_repo": "VIKAS9793/AndroJack-mcp",
+  "source_url": "https://github.com/VIKAS9793/AndroJack-mcp",
+  "install": "npx -y AndroJack-mcp"
+}

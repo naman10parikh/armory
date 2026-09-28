@@ -1,0 +1,7 @@
+{
+  "name": "davincivideomcp",
+  "description": "MCP server for DaVinci Resolve video editing, enabling AI agents to execute editing operations, manage creative libraries, and analyze media content.",
+  "source_repo": "angelOnly/DavinciVideoMcp",
+  "source_url": "https://github.com/angelOnly/DavinciVideoMcp",
+  "install": "# git clone --depth 1 https://github.com/angelOnly/DavinciVideoMcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cadpilot",
+  "description": "AI pilots FreeCAD. Provides full control of FreeCAD for parametric modeling, assembly, geometry sensing, and more via MCP tool calls.",
+  "source_repo": "LBurny/cadpilot",
+  "source_url": "https://github.com/LBurny/cadpilot",
+  "install": "# git clone --depth 1 https://github.com/LBurny/cadpilot\n# See source for mcpServers config block"
+}

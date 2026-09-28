@@ -1,0 +1,7 @@
+{
+  "name": "gmail-mcp-5",
+  "description": "Deployable MCP server on Cloudflare Workers that connects Gmail to AI assistants, enabling search, read, send, reply-all, forward, attachment handling, and label/thread management across multiple Google accounts simultaneously.",
+  "source_repo": "jlindustries845-droid/gmail-mcp",
+  "source_url": "https://github.com/jlindustries845-droid/gmail-mcp",
+  "install": "npx -y gmail-mcp"
+}

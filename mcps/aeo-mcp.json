@@ -1,0 +1,7 @@
+{
+  "name": "aeo-mcp",
+  "description": "An MCP server that gives AI agents tools to inspect a website's visibility to AI answer engines, including crawler permissions, llms.txt, structured data, on-page signals, and a full 29-check AI-readiness audit.",
+  "source_repo": "arthurcarlsonn/aeo-mcp",
+  "source_url": "https://github.com/arthurcarlsonn/aeo-mcp",
+  "install": "npx -y aeo-mcp"
+}

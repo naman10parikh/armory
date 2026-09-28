@@ -1,0 +1,7 @@
+{
+  "name": "cx-assistant-mcp",
+  "description": "Enables querying Cisco CX Assistant (production and stage) directly from Cursor using natural language, with browser-based authentication via Google Chrome.",
+  "source_repo": "ravigarg27/cx-assistant-mcp",
+  "source_url": "https://github.com/ravigarg27/cx-assistant-mcp",
+  "install": "npx -y cx-assistant-mcp"
+}

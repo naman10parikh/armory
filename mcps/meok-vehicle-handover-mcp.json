@@ -1,0 +1,7 @@
+{
+  "name": "meok-vehicle-handover-mcp",
+  "description": "Vehicle handover compliance toolkit for UK car-transport operators, enabling automatic NAMA grading, BVRLA Fair Wear & Tear classification, photographic POD validation, and RHA liability calculations to dispute chargebacks effectively.",
+  "source_repo": "CSOAI-ORG/meok-vehicle-handover-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-vehicle-handover-mcp",
+  "install": "npx -y meok-vehicle-handover-mcp"
+}

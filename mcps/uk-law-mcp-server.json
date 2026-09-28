@@ -1,0 +1,7 @@
+{
+  "name": "uk-law-mcp-server",
+  "description": "Query 3,241 UK statutes directly from Claude, Cursor, or any MCP-compatible client.",
+  "source_repo": "Ansvar-Systems/UK-law-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/UK-law-mcp",
+  "install": "npx -y UK-law-mcp"
+}

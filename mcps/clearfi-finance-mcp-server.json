@@ -1,0 +1,7 @@
+{
+  "name": "clearfi-finance-mcp-server",
+  "description": "Connects AI assistants to the ClearFi personal finance API for searching transactions, tracking bills, analyzing spending, and managing accounts.",
+  "source_repo": "vaughngit/clearfi-finance-mcp",
+  "source_url": "https://github.com/vaughngit/clearfi-finance-mcp",
+  "install": "npx -y clearfi-finance-mcp"
+}

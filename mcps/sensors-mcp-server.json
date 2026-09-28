@@ -1,0 +1,7 @@
+{
+  "name": "sensors-mcp-server",
+  "description": "Enables AI assistants to query and analyze user behavior data from the Sensors Analytics platform using natural language.",
+  "source_repo": "pein892/SensorsMCPServer",
+  "source_url": "https://github.com/pein892/SensorsMCPServer",
+  "install": "# git clone --depth 1 https://github.com/pein892/SensorsMCPServer\n# See source for mcpServers config block"
+}

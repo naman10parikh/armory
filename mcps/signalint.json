@@ -1,0 +1,7 @@
+{
+  "name": "signalint",
+  "description": "Signalint is an MCP server that provides JavaScript and TypeScript diagnostics by running Oxlint, TypeScript, and optionally Biome, with caching, clustering of repeated issues, and detection of oscillating diagnostics.",
+  "source_repo": "TranQui004/signalint",
+  "source_url": "https://github.com/TranQui004/signalint",
+  "install": "# git clone --depth 1 https://github.com/TranQui004/signalint\n# See source for mcpServers config block"
+}

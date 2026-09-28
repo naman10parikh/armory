@@ -1,0 +1,7 @@
+{
+  "name": "omnistream-mcp",
+  "description": "MCP server for OmniStream marketplace that lets AI assistants discover and call any marketplace API directly.",
+  "source_repo": "soccervortex/omnistream-mcp",
+  "source_url": "https://github.com/soccervortex/omnistream-mcp",
+  "install": "npx -y omnistream-mcp"
+}

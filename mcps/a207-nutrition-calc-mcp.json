@@ -1,0 +1,7 @@
+{
+  "name": "a207-nutrition-calc-mcp",
+  "description": "MCP server for pediatric CKD nutrition and food calculations, enabling energy/protein targets, food nutrient lookup, substitutions, meal summaries, and drug-nutrient interaction checks.",
+  "source_repo": "ayeyouok/a207-nutrition-calc-mcp",
+  "source_url": "https://github.com/ayeyouok/a207-nutrition-calc-mcp",
+  "install": "npx -y a207-nutrition-calc-mcp"
+}

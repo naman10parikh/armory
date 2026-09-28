@@ -1,0 +1,7 @@
+{
+  "name": "shared-workspace-mcp",
+  "description": "Local-first memory, pipelines, learning, feedback, and safe code tools for AI coding agents.",
+  "source_repo": "WhileTrueBlackObelizk/shared-workspace-mcp",
+  "source_url": "https://github.com/WhileTrueBlackObelizk/shared-workspace-mcp",
+  "install": "npx -y shared-workspace-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fssp",
+  "description": "MCP server for checking Russian FSSP (Federal Bailiff Service) debts, enabling AI agents to look up enforcement proceedings for individuals and legal entities through MCP clients like Cursor and Claude Desktop.",
+  "source_repo": "atomno-mcp/mcp-fssp",
+  "source_url": "https://github.com/atomno-mcp/mcp-fssp",
+  "install": "# git clone --depth 1 https://github.com/atomno-mcp/mcp-fssp\n# See source for mcpServers config block"
+}

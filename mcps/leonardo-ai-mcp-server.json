@@ -1,0 +1,7 @@
+{
+  "name": "leonardo-ai-mcp-server",
+  "description": "Integrates Leonardo AI image generation capabilities into MCP-compatible clients like Cursor, Claude Desktop, and VS Code, allowing natural language commands to generate, upscale, vary, and manage images.",
+  "source_repo": "superdwayne/leonardo-ai-mcp-server",
+  "source_url": "https://github.com/superdwayne/leonardo-ai-mcp-server",
+  "install": "npx -y leonardo-ai-mcp-server"
+}

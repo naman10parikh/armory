@@ -1,0 +1,7 @@
+{
+  "name": "figma-local-bridge",
+  "description": "A local-only MCP bridge that connects an MCP client to an open Figma file via a Figma plugin, enabling direct document editing, inspection, export, and audit without using the Figma REST API.",
+  "source_repo": "david-buck/figma-local-bridge",
+  "source_url": "https://github.com/david-buck/figma-local-bridge",
+  "install": "# git clone --depth 1 https://github.com/david-buck/figma-local-bridge\n# See source for mcpServers config block"
+}

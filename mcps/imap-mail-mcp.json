@@ -1,0 +1,7 @@
+{
+  "name": "imap-mail-mcp",
+  "description": "Enables LLM clients to read and search email via IMAP with tools for listing folders, searching messages, and fetching message content. It supports pagination, snippets, and thread context, and is designed for local AI workflows.",
+  "source_repo": "FaisalFehad/imap-mail-mcp",
+  "source_url": "https://github.com/FaisalFehad/imap-mail-mcp",
+  "install": "npx -y imap-mail-mcp"
+}

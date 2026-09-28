@@ -1,0 +1,7 @@
+{
+  "name": "dcc-mcp-illustrator",
+  "description": "MCP adapter for Adobe Illustrator enabling structured DOM inspection and editing of documents, artwork, and exports via DCC-MCP CLI.",
+  "source_repo": "dcc-mcp/dcc-mcp-illustrator",
+  "source_url": "https://github.com/dcc-mcp/dcc-mcp-illustrator",
+  "install": "# git clone --depth 1 https://github.com/dcc-mcp/dcc-mcp-illustrator\n# See source for mcpServers config block"
+}

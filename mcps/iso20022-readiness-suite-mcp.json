@@ -1,0 +1,7 @@
+{
+  "name": "iso20022-readiness-suite-mcp",
+  "description": "An MCP server that provides a readiness gateway for ISO 20022 payments, offering readiness checks, automated remediation, clearing-profile linting, and bank-response simulation through a single orchestration interface.",
+  "source_repo": "sebastienrousseau/iso20022-readiness-suite-mcp",
+  "source_url": "https://github.com/sebastienrousseau/iso20022-readiness-suite-mcp",
+  "install": "npx -y iso20022-readiness-suite-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "messages-mcp",
+  "description": "MCP server for reading and responding to local macOS Messages from clients like Claude Desktop and Codex.",
+  "source_repo": "raghavrat/messages-mcp",
+  "source_url": "https://github.com/raghavrat/messages-mcp",
+  "install": "npx -y messages-mcp"
+}

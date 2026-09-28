@@ -1,0 +1,7 @@
+{
+  "name": "bncc-mcp-server",
+  "description": "Enables AI assistants to query and validate BNCC (Brazilian curriculum) skills deterministically, preventing hallucinations by providing official data, search, and code validation tools.",
+  "source_repo": "guindani-davi/bncc-mcp-server",
+  "source_url": "https://github.com/guindani-davi/bncc-mcp-server",
+  "install": "npx -y bncc-mcp-server"
+}

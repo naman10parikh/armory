@@ -1,0 +1,7 @@
+{
+  "name": "ccpedia",
+  "description": "Enables AI agents to query the Canton Network ecosystem through a unified MCP endpoint, providing live data from forums, GitHub, docs, CIPs, and more with read-only access.",
+  "source_repo": "UnityNodes/ccpedia",
+  "source_url": "https://github.com/UnityNodes/ccpedia",
+  "install": "# git clone --depth 1 https://github.com/UnityNodes/ccpedia\n# See source for mcpServers config block"
+}

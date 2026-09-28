@@ -1,0 +1,7 @@
+{
+  "name": "check-module-mcp-server",
+  "description": "Enables managing internal documentation with search and add capabilities, and fetching official documentation from 13+ popular libraries via MCP tools.",
+  "source_repo": "muhammedehab35/CHECK-MODULE-MCP",
+  "source_url": "https://github.com/muhammedehab35/CHECK-MODULE-MCP",
+  "install": "npx -y CHECK-MODULE-MCP"
+}

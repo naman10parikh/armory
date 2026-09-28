@@ -1,0 +1,7 @@
+{
+  "name": "ghl-coaching-mcp-server",
+  "description": "Provides MCP tools to interact with GoHighLevel CRM data, including contacts, conversations, call transcripts, broker lead overviews, pipelines/opportunities, and task creation. Supports both stdio and HTTP transports for local and remote use.",
+  "source_repo": "Jadelaawar42027/ghl-coaching-mcp",
+  "source_url": "https://github.com/Jadelaawar42027/ghl-coaching-mcp",
+  "install": "npx -y ghl-coaching-mcp"
+}

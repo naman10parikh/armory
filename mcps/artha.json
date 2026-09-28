@@ -1,0 +1,7 @@
+{
+  "name": "artha",
+  "description": "Turns any MCP host into a finance & tax copilot for Indian taxpayers, using live keyless data and deterministic advisory.",
+  "source_repo": "GVR2007/Artha-Live-Data-Finance-Tax-Copilot",
+  "source_url": "https://github.com/GVR2007/Artha-Live-Data-Finance-Tax-Copilot",
+  "install": "# git clone --depth 1 https://github.com/GVR2007/Artha-Live-Data-Finance-Tax-Copilot\n# See source for mcpServers config block"
+}

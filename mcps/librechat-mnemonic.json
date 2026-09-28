@@ -1,0 +1,7 @@
+{
+  "name": "librechat-mnemonic",
+  "description": "Enables automatic, project-scoped long-term memory for LibreChat conversations by recalling relevant memories before each turn and writing durable facts after each turn. It integrates via a proxy that resolves project context from MongoDB and exposes MCP tools for explicit memory management.",
+  "source_repo": "claudedowling/librechat-mnemonic",
+  "source_url": "https://github.com/claudedowling/librechat-mnemonic",
+  "install": "# git clone --depth 1 https://github.com/claudedowling/librechat-mnemonic\n# See source for mcpServers config block"
+}

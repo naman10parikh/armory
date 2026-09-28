@@ -1,0 +1,7 @@
+{
+  "name": "patchlog-mcp",
+  "description": "MCP server for Patchlog that lets AI agents write, update, and publish changelog entries directly to your public Patchlog changelog. Supports listing projects and entries, creating drafts, publishing, and scheduling entries.",
+  "source_repo": "michaelyousrie/patchlog-mcp",
+  "source_url": "https://github.com/michaelyousrie/patchlog-mcp",
+  "install": "npx -y patchlog-mcp"
+}

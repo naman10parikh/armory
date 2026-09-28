@@ -1,0 +1,7 @@
+{
+  "name": "osv-scanner-mcp",
+  "description": "Enables scanning Java (Maven) projects for known vulnerabilities via natural language, returning severity-sorted reports with CVSS scores and fix versions.",
+  "source_repo": "tedorigawa001/OSV-Scanner-MCP",
+  "source_url": "https://github.com/tedorigawa001/OSV-Scanner-MCP",
+  "install": "npx -y OSV-Scanner-MCP"
+}

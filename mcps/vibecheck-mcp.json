@@ -1,0 +1,7 @@
+{
+  "name": "vibecheck-mcp",
+  "description": "Enables AI agents to manage git-backed website content through natural language, with tools to create, update, delete, and draft pages that are schema-validated and committed to a repository.",
+  "source_repo": "EpleCheck/vibecheck",
+  "source_url": "https://github.com/EpleCheck/vibecheck",
+  "install": "# git clone --depth 1 https://github.com/EpleCheck/vibecheck\n# See source for mcpServers config block"
+}

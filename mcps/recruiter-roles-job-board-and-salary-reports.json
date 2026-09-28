@@ -1,0 +1,7 @@
+{
+  "name": "recruiter-roles-job-board-and-salary-reports",
+  "description": "Search Recruiter Roles: live recruiter jobs, companies, sectors, locations, and market stats.",
+  "source_repo": "pcmarts/recruiter-roles-mcp",
+  "source_url": "https://github.com/pcmarts/recruiter-roles-mcp",
+  "install": "npx -y recruiter-roles-mcp"
+}

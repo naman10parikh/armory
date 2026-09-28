@@ -1,0 +1,7 @@
+{
+  "name": "github-issues-mcp",
+  "description": "Enables AI assistants to list, search, and inspect issues on any public GitHub repository via natural language.",
+  "source_repo": "nukathotipoojitha/github-issues-mcp",
+  "source_url": "https://github.com/nukathotipoojitha/github-issues-mcp",
+  "install": "npx -y github-issues-mcp"
+}

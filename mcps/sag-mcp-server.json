@@ -1,0 +1,7 @@
+{
+  "name": "sag-mcp-server",
+  "description": "Enables full read/write management of SAG knowledge bases, including source and document CRUD, semantic search, knowledge graph queries, and model configuration through 18 MCP tools.",
+  "source_repo": "guazixiong/sag-mcp-server",
+  "source_url": "https://github.com/guazixiong/sag-mcp-server",
+  "install": "npx -y sag-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reporecall",
+  "description": "Provides persistent, local-first memory for coding agents with Markdown as the source of truth, exposed via CLI, loopback API, MCP, and Codex hooks for context retrieval and durable writes.",
+  "source_repo": "triplesixmir/reporecall",
+  "source_url": "https://github.com/triplesixmir/reporecall",
+  "install": "# git clone --depth 1 https://github.com/triplesixmir/reporecall\n# See source for mcpServers config block"
+}

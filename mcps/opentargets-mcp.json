@@ -1,0 +1,7 @@
+{
+  "name": "opentargets-mcp",
+  "description": "MCP server that exposes the Open Targets Platform GraphQL API as a set of tools for querying biomedical data such as targets, diseases, drugs, and genetic evidence.",
+  "source_repo": "nickzren/opentargets-mcp",
+  "source_url": "https://github.com/nickzren/opentargets-mcp",
+  "install": "npx -y opentargets-mcp"
+}

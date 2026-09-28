@@ -1,0 +1,7 @@
+{
+  "name": "houdini-bridge-mcp",
+  "description": "Drive SideFX Houdini from an AI chat — a security-first, data-only control surface where the AI authors validated wrangles, never arbitrary code.",
+  "source_repo": "eviscerations/houdini-bridge-mcp",
+  "source_url": "https://github.com/eviscerations/houdini-bridge-mcp",
+  "install": "npx -y houdini-bridge-mcp"
+}

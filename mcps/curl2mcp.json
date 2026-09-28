@@ -1,0 +1,7 @@
+{
+  "name": "curl2mcp",
+  "description": "Turns any curl command into an MCP tool server by extracting placeholders and serving the request over stdio.",
+  "source_repo": "yulinlina/curl2mcp",
+  "source_url": "https://github.com/yulinlina/curl2mcp",
+  "install": "# git clone --depth 1 https://github.com/yulinlina/curl2mcp\n# See source for mcpServers config block"
+}

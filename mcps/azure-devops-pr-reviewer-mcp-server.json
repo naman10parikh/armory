@@ -1,0 +1,7 @@
+{
+  "name": "azure-devops-pr-reviewer-mcp-server",
+  "description": "An MCP server for automated code reviews on Azure DevOps pull requests, enabling AI assistants to fetch PR details, validate requirements, post inline comments, and set review votes.",
+  "source_repo": "MalinduDilshan/azdo-code-review-mcp",
+  "source_url": "https://github.com/MalinduDilshan/azdo-code-review-mcp",
+  "install": "npx -y azdo-code-review-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bulkhead",
+  "description": "Provides cascading content protection for AI coding assistants by detecting and redacting PII, secrets, prompt injection, and system prompt leakage before they reach LLMs.",
+  "source_repo": "floatingsidewal/bulkhead",
+  "source_url": "https://github.com/floatingsidewal/bulkhead",
+  "install": "# git clone --depth 1 https://github.com/floatingsidewal/bulkhead\n# See source for mcpServers config block"
+}

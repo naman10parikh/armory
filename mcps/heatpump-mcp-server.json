@@ -1,0 +1,7 @@
+{
+  "name": "heatpump-mcp-server",
+  "description": "AI assistants can size heat pumps, estimate energy costs, and verify cold-climate performance using bundled data and no API keys.",
+  "source_repo": "jiweiqi/heatpump-mcp-server",
+  "source_url": "https://github.com/jiweiqi/heatpump-mcp-server",
+  "install": "npx -y heatpump-mcp-server"
+}

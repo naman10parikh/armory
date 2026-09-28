@@ -1,0 +1,7 @@
+{
+  "name": "local-figma-mcp-server",
+  "description": "Bridges MCP clients to Figma, enabling live canvas manipulation via a plugin WebSocket and file metadata access through the Figma REST API.",
+  "source_repo": "NiveditaAryaK/Local-Figma-MCP-server",
+  "source_url": "https://github.com/NiveditaAryaK/Local-Figma-MCP-server",
+  "install": "npx -y Local-Figma-MCP-server"
+}

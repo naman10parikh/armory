@@ -1,0 +1,7 @@
+{
+  "name": "mapsmith",
+  "description": "Enables AI agents to perform professional-grade geoprocessing tasks such as buffers, overlays, reprojections, and terrain analysis with deterministic tools and verifiable provenance.",
+  "source_repo": "mapsmith-ai/MapSmith",
+  "source_url": "https://github.com/mapsmith-ai/MapSmith",
+  "install": "# git clone --depth 1 https://github.com/mapsmith-ai/MapSmith\n# See source for mcpServers config block"
+}

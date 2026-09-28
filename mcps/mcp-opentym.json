@@ -1,0 +1,7 @@
+{
+  "name": "mcp-opentym",
+  "description": "A lightweight MCP HTTP server giving AI assistants real tools to interact with your Windows machine, including running commands, file access, system info, web search, and browser automation.",
+  "source_repo": "doanhtuan123/mcp-opentym",
+  "source_url": "https://github.com/doanhtuan123/mcp-opentym",
+  "install": "# git clone --depth 1 https://github.com/doanhtuan123/mcp-opentym\n# See source for mcpServers config block"
+}

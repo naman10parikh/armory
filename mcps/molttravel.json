@@ -1,0 +1,7 @@
+{
+  "name": "molttravel",
+  "description": "Search flights, compare prices, check visas, look up airports, get travel advisories through a single endpoint.",
+  "source_repo": "navifare/moltravel-mcp",
+  "source_url": "https://github.com/navifare/moltravel-mcp",
+  "install": "npx -y moltravel-mcp"
+}

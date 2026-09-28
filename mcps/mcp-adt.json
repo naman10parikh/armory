@@ -1,0 +1,7 @@
+{
+  "name": "mcp-adt",
+  "description": "Facilitates interaction with SAP ABAP systems via ADT APIs, enabling object management, transport handling, and code analysis.",
+  "source_repo": "rafaelssclaudio/MCP",
+  "source_url": "https://github.com/rafaelssclaudio/MCP",
+  "install": "# git clone --depth 1 https://github.com/rafaelssclaudio/MCP\n# See source for mcpServers config block"
+}

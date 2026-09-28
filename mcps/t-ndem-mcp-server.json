@@ -1,0 +1,7 @@
+{
+  "name": "t-ndem-mcp-server",
+  "description": "Enables cross-refinement between two LLMs with automated critique, revision, and convergence, providing tools for managing tandem sessions.",
+  "source_repo": "semaes111/TANDEM_MCP_TOKEN",
+  "source_url": "https://github.com/semaes111/TANDEM_MCP_TOKEN",
+  "install": "# git clone --depth 1 https://github.com/semaes111/TANDEM_MCP_TOKEN\n# See source for mcpServers config block"
+}

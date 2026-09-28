@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-tld",
+  "description": "An MCP server for AI agents to interact with the JustLend DAO lending protocol on TRON, plus general TRON chain utilities like balances, transfers, and staking.",
+  "source_repo": "bbsyaya/mcp-server-tld",
+  "source_url": "https://github.com/bbsyaya/mcp-server-tld",
+  "install": "# git clone --depth 1 https://github.com/bbsyaya/mcp-server-tld\n# See source for mcpServers config block"
+}

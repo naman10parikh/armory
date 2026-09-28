@@ -1,0 +1,7 @@
+{
+  "name": "traders-edge-mcp",
+  "description": "Provides a consolidated 0DTE options cockpit for SPX/SPXW, including chain, Greeks, dealer exposure, volatility term structure, and economic events, using free delayed market data.",
+  "source_repo": "jsconiers/traders-edge-mcp",
+  "source_url": "https://github.com/jsconiers/traders-edge-mcp",
+  "install": "npx -y traders-edge-mcp"
+}

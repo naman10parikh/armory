@@ -1,0 +1,7 @@
+{
+  "name": "usemotion-mcp-server",
+  "description": "Enables interaction with the Motion API for task and project management, including listing, creating, updating, and deleting tasks, projects, comments, and workspaces.",
+  "source_repo": "matbour/usemotion-mcp-server",
+  "source_url": "https://github.com/matbour/usemotion-mcp-server",
+  "install": "npx -y usemotion-mcp-server"
+}

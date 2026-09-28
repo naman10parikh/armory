@@ -1,0 +1,7 @@
+{
+  "name": "crashtestyourstrategy",
+  "description": "Portfolio & trading-strategy stress diagnostics for AI agents: multi-asset stress with hedge-break detection, a daily preregistered regime outlook and deflated-Sharpe backtest-integrity checks. Remote streamable-HTTP endpoint with a free tier (no key); this repo is the public server card.",
+  "source_repo": "fnobbe/crashtestyourstrategy-mcp",
+  "source_url": "https://github.com/fnobbe/crashtestyourstrategy-mcp",
+  "install": "npx -y crashtestyourstrategy-mcp"
+}

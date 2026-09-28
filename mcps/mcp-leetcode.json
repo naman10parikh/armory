@@ -1,0 +1,7 @@
+{
+  "name": "mcp-leetcode",
+  "description": "A feature-rich LeetCode MCP server that enables problem search, user data retrieval, code execution, and notes management for both leetcode.com and leetcode.cn.",
+  "source_repo": "LYCGGG/mcp-leetcode",
+  "source_url": "https://github.com/LYCGGG/mcp-leetcode",
+  "install": "# git clone --depth 1 https://github.com/LYCGGG/mcp-leetcode\n# See source for mcpServers config block"
+}

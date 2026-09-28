@@ -1,0 +1,7 @@
+{
+  "name": "code-tools-mcp",
+  "description": "Enables file reading with pagination and regex-based code search across a codebase using grep.",
+  "source_repo": "Ricii2024/code-tools-mcp",
+  "source_url": "https://github.com/Ricii2024/code-tools-mcp",
+  "install": "npx -y code-tools-mcp"
+}

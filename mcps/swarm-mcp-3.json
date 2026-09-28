@@ -1,0 +1,7 @@
+{
+  "name": "swarm-mcp-3",
+  "description": "MCP server that lets multiple coding-agent sessions on the same machine discover each other and collaborate through a shared SQLite database.",
+  "source_repo": "Volpestyle/swarm-mcp",
+  "source_url": "https://github.com/Volpestyle/swarm-mcp",
+  "install": "npx -y swarm-mcp"
+}

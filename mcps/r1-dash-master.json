@@ -1,0 +1,7 @@
+{
+  "name": "r1-dash-master",
+  "description": "Builds importable RUCKUS One Data Studio dashboards from a declarative spec, enabling users to create valid dashboards without learning Superset internals or guessing field names.",
+  "source_repo": "alekm/r1_dash_master",
+  "source_url": "https://github.com/alekm/r1_dash_master",
+  "install": "# git clone --depth 1 https://github.com/alekm/r1_dash_master\n# See source for mcpServers config block"
+}

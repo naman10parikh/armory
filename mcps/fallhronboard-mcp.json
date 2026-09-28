@@ -1,0 +1,7 @@
+{
+  "name": "fallhronboard-mcp",
+  "description": "MCP server for the foldkit framework, exposing 7-prime spine, κ-bands, and fold operations as tools and resources for integration with MCP clients like Claude and Cursor.",
+  "source_repo": "sjgant80-hub/fallhronboard-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallhronboard-mcp",
+  "install": "npx -y fallhronboard-mcp"
+}

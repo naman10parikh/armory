@@ -1,6 +1,6 @@
 {
   "name": "mavae-image-toolbox",
-  "description": "Mavae Image Toolbox MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Mavae/mavae-image-toolbox",
   "source_url": "https://mcp.so/server/mavae-image-toolbox/Mavae",
   "install": "# git clone --depth 1 https://mcp.so/server/mavae-image-toolbox/Mavae\n# See source for mcpServers config block"

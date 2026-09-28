@@ -1,0 +1,7 @@
+{
+  "name": "klaviyo-api-mcp-server",
+  "description": "Provides comprehensive tools and resources for managing Klaviyo marketing automation, including profiles, lists, campaigns, flows, and more through natural language.",
+  "source_repo": "mattcoatsworth/Klaviyo-MCP-Server-4-15",
+  "source_url": "https://github.com/mattcoatsworth/Klaviyo-MCP-Server-4-15",
+  "install": "# git clone --depth 1 https://github.com/mattcoatsworth/Klaviyo-MCP-Server-4-15\n# See source for mcpServers config block"
+}

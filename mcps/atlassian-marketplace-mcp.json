@@ -1,0 +1,7 @@
+{
+  "name": "atlassian-marketplace-mcp",
+  "description": "Exposes Atlassian Marketplace vendor APIs as 95 MCP tools, 3 resources, and 4 prompts, enabling LLMs to manage licenses, promotions, reviews, and reporting metrics without writing API calls.",
+  "source_repo": "rustem-shiriiazdanov/atlassian-marketplace-mcp",
+  "source_url": "https://github.com/rustem-shiriiazdanov/atlassian-marketplace-mcp",
+  "install": "npx -y atlassian-marketplace-mcp"
+}

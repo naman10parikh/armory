@@ -1,0 +1,7 @@
+{
+  "name": "franchise-mcp-server",
+  "description": "Enables LLMs to read and edit Madden NFL franchise saves and EA SPORTS College Football dynasty saves (CFB 27+) through 14 well-guarded tools.",
+  "source_repo": "seanpdwyer7/franchise-mcp-server",
+  "source_url": "https://github.com/seanpdwyer7/franchise-mcp-server",
+  "install": "npx -y franchise-mcp-server"
+}

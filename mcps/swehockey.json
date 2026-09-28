@@ -1,0 +1,7 @@
+{
+  "name": "swehockey",
+  "description": "Enables AI assistants to look up Swedish ice-hockey data from stats.swehockey.se — schedules & results, standings, team rosters, and season-total scoring & goalie stats.",
+  "source_repo": "troelskn/swehockey",
+  "source_url": "https://github.com/troelskn/swehockey",
+  "install": "# git clone --depth 1 https://github.com/troelskn/swehockey\n# See source for mcpServers config block"
+}

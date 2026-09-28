@@ -1,0 +1,7 @@
+{
+  "name": "pdf-triage-mcp",
+  "description": "An MCP server for local PDF inspection that classifies, searches, extracts text and tables without uploading documents or relying on OCR, surfacing reliability warnings for garbled or scanned content.",
+  "source_repo": "vishalmeena2211/pdf-triage-mcp",
+  "source_url": "https://github.com/vishalmeena2211/pdf-triage-mcp",
+  "install": "npx -y pdf-triage-mcp"
+}

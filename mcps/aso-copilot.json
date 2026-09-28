@@ -1,0 +1,7 @@
+{
+  "name": "aso-copilot",
+  "description": "MCP server for managing App Store Optimization: add apps, track keywords, pull health reports, spy on competitors, find keyword opportunities, and write AI copy suggestions.",
+  "source_repo": "Aero25x/ASO-Copilot",
+  "source_url": "https://github.com/Aero25x/ASO-Copilot",
+  "install": "# git clone --depth 1 https://github.com/Aero25x/ASO-Copilot\n# See source for mcpServers config block"
+}

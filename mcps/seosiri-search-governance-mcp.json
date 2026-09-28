@@ -1,0 +1,7 @@
+{
+  "name": "seosiri-search-governance-mcp",
+  "description": "MCP server for AI search crawler governance, brand safety, and search infrastructure auditing. Provides tools to audit robots.txt, canonical links, sitemaps, redirects, and send IndexNow notifications.",
+  "source_repo": "SEOSiri-Official/search-governance-mcp",
+  "source_url": "https://github.com/SEOSiri-Official/search-governance-mcp",
+  "install": "npx -y search-governance-mcp"
+}

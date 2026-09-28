@@ -1,0 +1,7 @@
+{
+  "name": "habitify-mcp-server",
+  "description": "Enables AI assistants to manage Habitify habits, journals, moods, and notes through the Habitify API, with tools for adding, deleting, and retrieving habit logs and other data.",
+  "source_repo": "sargonpiraev/habitify-mcp-server",
+  "source_url": "https://github.com/sargonpiraev/habitify-mcp-server",
+  "install": "npx -y habitify-mcp-server"
+}

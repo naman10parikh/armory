@@ -1,0 +1,7 @@
+{
+  "name": "trinitas-mcp",
+  "description": "Enables context-aware memory and multi-model orchestration through tools for storing/retrieving dialog turns, searching memory, and routing to AI providers based on task types.",
+  "source_repo": "kbarbel640-del/trinitas-mcp",
+  "source_url": "https://github.com/kbarbel640-del/trinitas-mcp",
+  "install": "npx -y trinitas-mcp"
+}

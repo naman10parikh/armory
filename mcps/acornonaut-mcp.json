@@ -1,0 +1,7 @@
+{
+  "name": "acornonaut-mcp",
+  "description": "AI-powered YouTube playlist to flashcards with spaced repetition (SM-2 algorithm). 18 tools for playlist management, semantic search, and Anki export.",
+  "source_repo": "zerolve-io/acornonaut-mcp",
+  "source_url": "https://github.com/zerolve-io/acornonaut-mcp",
+  "install": "npx -y acornonaut-mcp"
+}

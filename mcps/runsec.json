@@ -1,0 +1,7 @@
+{
+  "name": "runsec",
+  "description": "AI-powered MCP Server for Secure Coding. Zero noise, instant proof.",
+  "source_repo": "ivanidknow/runsec-mcp-server-public",
+  "source_url": "https://github.com/ivanidknow/runsec-mcp-server-public",
+  "install": "# git clone --depth 1 https://github.com/ivanidknow/runsec-mcp-server-public\n# See source for mcpServers config block"
+}

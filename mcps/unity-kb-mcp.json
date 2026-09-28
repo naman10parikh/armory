@@ -1,0 +1,7 @@
+{
+  "name": "unity-kb-mcp",
+  "description": "An MCP Server that provides Retrieval-Augmented Generation (RAG) capabilities to surface the latest Unity API documentation (currently v6.x).",
+  "source_repo": "spudmashmedia/unity-kb-mcp",
+  "source_url": "https://github.com/spudmashmedia/unity-kb-mcp",
+  "install": "npx -y unity-kb-mcp"
+}

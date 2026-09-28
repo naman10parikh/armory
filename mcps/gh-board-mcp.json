@@ -1,0 +1,7 @@
+{
+  "name": "gh-board-mcp",
+  "description": "Manages GitHub Projects v2 as a personal kanban board, allowing you to create, move, and prioritize draft items without linking to real issues.",
+  "source_repo": "romeldev/gh-board-mcp",
+  "source_url": "https://github.com/romeldev/gh-board-mcp",
+  "install": "npx -y gh-board-mcp"
+}

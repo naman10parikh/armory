@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-wiki-mcp",
+  "description": "MCP server for co-building and managing atomic learning notes in an Obsidian vault, with note retrieval, template reading, MOC listing, and note writing tools.",
+  "source_repo": "pongs1/knowledge-wiki-mcp",
+  "source_url": "https://github.com/pongs1/knowledge-wiki-mcp",
+  "install": "npx -y knowledge-wiki-mcp"
+}

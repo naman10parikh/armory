@@ -1,0 +1,7 @@
+{
+  "name": "today-top3-mcp",
+  "description": "A situational local recommendation MCP server that classifies user mood, energy, time, and budget to generate three actionable choices with search keywords and disclosure policy.",
+  "source_repo": "local-choice-lab/today-top3-mcp",
+  "source_url": "https://github.com/local-choice-lab/today-top3-mcp",
+  "install": "npx -y today-top3-mcp"
+}

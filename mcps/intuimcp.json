@@ -1,0 +1,7 @@
+{
+  "name": "intuimcp",
+  "description": "MCP server for Intui.travel fleet carriers that reads orders, tracks confirmations, cancellations, and modifications, and syncs live to Google Sheets.",
+  "source_repo": "hasseibbuildix-sys/INTUIMCP",
+  "source_url": "https://github.com/hasseibbuildix-sys/INTUIMCP",
+  "install": "# git clone --depth 1 https://github.com/hasseibbuildix-sys/INTUIMCP\n# See source for mcpServers config block"
+}

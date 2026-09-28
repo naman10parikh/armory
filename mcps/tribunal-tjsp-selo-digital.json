@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tjsp-selo-digital",
+  "description": "Provides read-only consultation of the Tribunal TJSP Selo Digital from official sources, enabling users to query this data through natural language in any MCP-compatible client.",
+  "source_repo": "mcp-dir/tribunal_tjsp_selo_digital-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tjsp_selo_digital-mcp",
+  "install": "npx -y tribunal_tjsp_selo_digital-mcp"
+}

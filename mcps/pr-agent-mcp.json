@@ -1,0 +1,7 @@
+{
+  "name": "pr-agent-mcp",
+  "description": "Exposes pr-agent CLI commands as MCP tools for automated PR review, description, and improvement with optional Gitea webhook integration.",
+  "source_repo": "kkmeteor/pr-agent-mcp",
+  "source_url": "https://github.com/kkmeteor/pr-agent-mcp",
+  "install": "npx -y pr-agent-mcp"
+}

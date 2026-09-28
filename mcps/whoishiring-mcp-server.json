@@ -1,0 +1,7 @@
+{
+  "name": "whoishiring-mcp-server",
+  "description": "Enables Claude Desktop to scan, analyze, and track job postings from Hacker News and Y Combinator's Work at a Startup using a 24-tool MCP server with multi-stage filtering and resume-based ranking.",
+  "source_repo": "nickw409/Whoishiring",
+  "source_url": "https://github.com/nickw409/Whoishiring",
+  "install": "# git clone --depth 1 https://github.com/nickw409/Whoishiring\n# See source for mcpServers config block"
+}

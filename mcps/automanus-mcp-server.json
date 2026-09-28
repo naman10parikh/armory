@@ -1,0 +1,7 @@
+{
+  "name": "automanus-mcp-server",
+  "description": "Enables creating and deploying AI sales agents to WhatsApp and Webchat from AI coding assistants like Claude and Cursor, with automatic website research and no-code setup.",
+  "source_repo": "automanus-io/mcp-server",
+  "source_url": "https://github.com/automanus-io/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/automanus-io/mcp-server\n# See source for mcpServers config block"
+}

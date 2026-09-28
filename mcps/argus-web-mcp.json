@@ -1,0 +1,7 @@
+{
+  "name": "argus-web-mcp",
+  "description": "A self-hosted MCP server offering unlimited web search, scraping, and content extraction tools with full-content reads, no truncation, and zero per-request cost.",
+  "source_repo": "GifariKemal/argus-web-mcp",
+  "source_url": "https://github.com/GifariKemal/argus-web-mcp",
+  "install": "npx -y argus-web-mcp"
+}

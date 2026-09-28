@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-gate",
+  "description": "Enables AI agents to read, search, write, and link notes in an Obsidian vault via MCP tools and resources.",
+  "source_repo": "rileygramlich/obsidian-gate",
+  "source_url": "https://github.com/rileygramlich/obsidian-gate",
+  "install": "# git clone --depth 1 https://github.com/rileygramlich/obsidian-gate\n# See source for mcpServers config block"
+}

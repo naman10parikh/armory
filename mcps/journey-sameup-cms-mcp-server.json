@@ -1,0 +1,7 @@
+{
+  "name": "journey-sameup-cms-mcp-server",
+  "description": "Enables AI assistants to manage components and pages on the Journey/SameUp CMS through the CMS REST API, including listing, retrieving, and creating components with automatic authentication.",
+  "source_repo": "SezerDemir1/journey-mcp",
+  "source_url": "https://github.com/SezerDemir1/journey-mcp",
+  "install": "npx -y journey-mcp"
+}

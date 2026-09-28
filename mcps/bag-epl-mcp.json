@@ -1,0 +1,7 @@
+{
+  "name": "bag-epl-mcp",
+  "description": "Enables natural language queries about Swiss mandatory health insurance coverage for medications and medical devices using official BAG lists.",
+  "source_repo": "malkreide/bag-epl-mcp",
+  "source_url": "https://github.com/malkreide/bag-epl-mcp",
+  "install": "npx -y bag-epl-mcp"
+}

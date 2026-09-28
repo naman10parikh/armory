@@ -1,0 +1,7 @@
+{
+  "name": "deeptap-mcp",
+  "description": "MCP server to configure and verify iOS Universal Links and Android App Links via DeepTap API, enabling coding agents to manage deep-link domains.",
+  "source_repo": "TedyHub/deeptap-mcp",
+  "source_url": "https://github.com/TedyHub/deeptap-mcp",
+  "install": "npx -y deeptap-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "contextos-mcp-server",
+  "description": "Unified context intelligence layer for AI agents, enabling orchestration of memory, reasoning, and self-healing indexes with cognition primitives and churn-aware retrieval routing.",
+  "source_repo": "itallstartedwithaidea/ContextOS",
+  "source_url": "https://github.com/itallstartedwithaidea/ContextOS",
+  "install": "# git clone --depth 1 https://github.com/itallstartedwithaidea/ContextOS\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tsx-query",
+  "description": "Semantic React/TSX analysis MCP server that saves 70-90% tokens by using AST to retrieve precise component usages, prop flow, and state update information for AI coding assistants.",
+  "source_repo": "paramhq/tsx-query",
+  "source_url": "https://github.com/paramhq/tsx-query",
+  "install": "# git clone --depth 1 https://github.com/paramhq/tsx-query\n# See source for mcpServers config block"
+}

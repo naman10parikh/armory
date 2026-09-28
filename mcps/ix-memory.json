@@ -1,0 +1,7 @@
+{
+  "name": "ix-memory",
+  "description": "Provides Claude with a persistent, auditable memory stored as markdown and YAML files in a private GitHub repo. Enables reading, appending, organizing, and messaging between agent conversations through MCP tools.",
+  "source_repo": "idin/ix-memory",
+  "source_url": "https://github.com/idin/ix-memory",
+  "install": "# git clone --depth 1 https://github.com/idin/ix-memory\n# See source for mcpServers config block"
+}

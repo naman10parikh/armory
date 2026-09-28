@@ -1,0 +1,7 @@
+{
+  "name": "linkup-mcp",
+  "description": "Provides web search and local document RAG using Ollama, enabling privacy-preserving AI assistance in Cursor IDE.",
+  "source_repo": "RanneG/linkup_mcp",
+  "source_url": "https://github.com/RanneG/linkup_mcp",
+  "install": "npx -y linkup_mcp"
+}

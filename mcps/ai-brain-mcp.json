@@ -1,0 +1,7 @@
+{
+  "name": "ai-brain-mcp",
+  "description": "An MCP server that exposes an Obsidian-style markdown vault as agent-readable memory. It provides tools for search, read, graph, and guarded capture without using embeddings.",
+  "source_repo": "HenryCordes/ai-brain-mcp",
+  "source_url": "https://github.com/HenryCordes/ai-brain-mcp",
+  "install": "npx -y ai-brain-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-paperless-ngx",
+  "description": "A read-only and write MCP server for Paperless-ngx, enabling document listing, metadata retrieval, and creation of tags, correspondents, document types, and sorting workflows via natural language.",
+  "source_repo": "Code-Omega-Solutions/mcp-paperless-ngx",
+  "source_url": "https://github.com/Code-Omega-Solutions/mcp-paperless-ngx",
+  "install": "# git clone --depth 1 https://github.com/Code-Omega-Solutions/mcp-paperless-ngx\n# See source for mcpServers config block"
+}

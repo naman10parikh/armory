@@ -1,0 +1,7 @@
+{
+  "name": "claude-gmail-mcp",
+  "description": "A Gmail MCP server that enables Claude to send, search, and read emails using either Gmail API or SMTP/IMAP backend.",
+  "source_repo": "pliablepixels/claude-gmail-mcp",
+  "source_url": "https://github.com/pliablepixels/claude-gmail-mcp",
+  "install": "npx -y claude-gmail-mcp"
+}

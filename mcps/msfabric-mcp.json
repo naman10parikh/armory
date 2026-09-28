@@ -1,0 +1,7 @@
+{
+  "name": "msfabric-mcp",
+  "description": "Enables agents to manage Microsoft Fabric workspaces, items, lakehouses, warehouses, and notebooks via the control plane, and run guarded read-only SQL plus optional DAX queries against semantic models.",
+  "source_repo": "NawafSheikh/fabric-mcp",
+  "source_url": "https://github.com/NawafSheikh/fabric-mcp",
+  "install": "npx -y fabric-mcp"
+}

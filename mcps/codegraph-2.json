@@ -1,0 +1,7 @@
+{
+  "name": "codegraph-2",
+  "description": "Supercharges AI coding agents with semantic code intelligence, providing pre-built knowledge graphs for surgical context, faster answers, and fewer tool calls.",
+  "source_repo": "andysom25/codegraph",
+  "source_url": "https://github.com/andysom25/codegraph",
+  "install": "# git clone --depth 1 https://github.com/andysom25/codegraph\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kommo-crm-mcp-server",
+  "description": "Enables AI agents to manage Kommo CRM (formerly AmoCRM) entities including leads, contacts, companies, tasks, notes, pipelines, and products through natural language commands via the Model Context Protocol.",
+  "source_repo": "E0DUAR/kommo-mcp",
+  "source_url": "https://github.com/E0DUAR/kommo-mcp",
+  "install": "npx -y kommo-mcp"
+}

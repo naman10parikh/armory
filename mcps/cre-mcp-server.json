@@ -1,0 +1,7 @@
+{
+  "name": "cre-mcp-server",
+  "description": "MCP server for Chainlink Runtime Environment, enabling build, simulate, deploy, and manage CRE workflows from any MCP client.",
+  "source_repo": "Midwest-AI-Solutions/chainlink-cre-claude-skill-and-mcp",
+  "source_url": "https://github.com/Midwest-AI-Solutions/chainlink-cre-claude-skill-and-mcp",
+  "install": "npx -y chainlink-cre-claude-skill-and-mcp"
+}

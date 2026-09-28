@@ -1,0 +1,7 @@
+{
+  "name": "lobbyvoices-mcp",
+  "description": "Official remote MCP server for Lobby, the bilingual AI receptionist. Five free no-auth tools: business phone scripts and IVR menus (English + Mexican Spanish), ElevenLabs agent system prompts, missed-call cost math, and a hire-a-receptionist verdict.",
+  "source_repo": "bodyegypt/lobbyvoices-mcp",
+  "source_url": "https://github.com/bodyegypt/lobbyvoices-mcp",
+  "install": "npx -y lobbyvoices-mcp"
+}

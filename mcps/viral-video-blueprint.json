@@ -1,0 +1,7 @@
+{
+  "name": "viral-video-blueprint",
+  "description": "Enables analyzing a Douyin, Xiaohongshu, or Bilibili video link to generate a reusable editing blueprint with shot, caption, speech, rhythm, and visual analysis.",
+  "source_repo": "loveld322/viral-video-blueprint",
+  "source_url": "https://github.com/loveld322/viral-video-blueprint",
+  "install": "# git clone --depth 1 https://github.com/loveld322/viral-video-blueprint\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "albs-mcp",
+  "description": "MCP server and CLI for AlmaLinux Build System (ALBS) that enables AI coding assistants to investigate build failures, create builds, sign packages, and manage release plans through natural language.",
+  "source_repo": "AlmaLinux/albs-mcp",
+  "source_url": "https://github.com/AlmaLinux/albs-mcp",
+  "install": "npx -y albs-mcp"
+}

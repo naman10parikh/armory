@@ -1,0 +1,7 @@
+{
+  "name": "xiaozhi-mcphub",
+  "description": "Multi-user MCP server with user isolation, permissions, resource sharing, and an admin console for managing MCP tools across users.",
+  "source_repo": "du-yuxuan/xiaozhi-mcphub",
+  "source_url": "https://github.com/du-yuxuan/xiaozhi-mcphub",
+  "install": "# git clone --depth 1 https://github.com/du-yuxuan/xiaozhi-mcphub\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fallarch-us-mcp",
+  "description": "Wraps @ai-native-solutions/fallarch-us-sdk as an MCP stdio server for sovereign, Ed25519-signed professional-service workflow management.",
+  "source_repo": "sjgant80-hub/fallarch-us-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallarch-us-mcp",
+  "install": "npx -y fallarch-us-mcp"
+}

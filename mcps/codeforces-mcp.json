@@ -1,0 +1,7 @@
+{
+  "name": "codeforces-mcp",
+  "description": "Enables coding agents to discover unsolved Codeforces practice problems, analyze tag performance, and inspect submissions, profiles, rating history, and upcoming contests through MCP-compatible clients.",
+  "source_repo": "Faysal-star/codeforces-mcp",
+  "source_url": "https://github.com/Faysal-star/codeforces-mcp",
+  "install": "npx -y codeforces-mcp"
+}

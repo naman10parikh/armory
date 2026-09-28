@@ -1,0 +1,7 @@
+{
+  "name": "cf-mcp-orange",
+  "description": "A complete, all-in-one MCP server for Codeforces, enabling AI assistants to access user profiles, compare users, search problems, get practice recommendations, and more.",
+  "source_repo": "spr7a/cf-mcp",
+  "source_url": "https://github.com/spr7a/cf-mcp",
+  "install": "npx -y cf-mcp"
+}

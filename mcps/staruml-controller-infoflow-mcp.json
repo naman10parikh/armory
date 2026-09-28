@@ -1,0 +1,7 @@
+{
+  "name": "staruml-controller-infoflow-mcp",
+  "description": "Enables AI assistants to programmatically create and manage information flow diagrams — information items and information flows in StarUML.",
+  "source_repo": "pontasan/staruml-controller-infoflow-mcp",
+  "source_url": "https://github.com/pontasan/staruml-controller-infoflow-mcp",
+  "install": "npx -y staruml-controller-infoflow-mcp"
+}

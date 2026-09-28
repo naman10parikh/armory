@@ -1,0 +1,7 @@
+{
+  "name": "eodiseobwa-mcp",
+  "description": "Recommends fair and enjoyable meeting places for group gatherings by balancing travel distance equity and nearby amenities like restaurants, cafes, and cultural facilities.",
+  "source_repo": "cheoljae-ee/eodiseobwa-mcp",
+  "source_url": "https://github.com/cheoljae-ee/eodiseobwa-mcp",
+  "install": "npx -y eodiseobwa-mcp"
+}

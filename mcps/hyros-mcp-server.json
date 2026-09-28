@@ -1,0 +1,7 @@
+{
+  "name": "hyros-mcp-server",
+  "description": "Bridges Hyros attribution data to Claude via MCP tools, enabling real ROAS/revenue reconciliation by campaign and ad account.",
+  "source_repo": "Andreacrowder/hyros-mcp",
+  "source_url": "https://github.com/Andreacrowder/hyros-mcp",
+  "install": "npx -y hyros-mcp"
+}

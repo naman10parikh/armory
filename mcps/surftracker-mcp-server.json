@@ -1,0 +1,7 @@
+{
+  "name": "surftracker-mcp-server",
+  "description": "MCP server that proxies the SurfTracker API to let AI clients list, create, and manage tasks, releases, and notifications, using the user's SurfTracker API key for authorization.",
+  "source_repo": "Surf-Team/SurfTrackerMCP",
+  "source_url": "https://github.com/Surf-Team/SurfTrackerMCP",
+  "install": "# git clone --depth 1 https://github.com/Surf-Team/SurfTrackerMCP\n# See source for mcpServers config block"
+}

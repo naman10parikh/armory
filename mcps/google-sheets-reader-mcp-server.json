@@ -1,0 +1,7 @@
+{
+  "name": "google-sheets-reader-mcp-server",
+  "description": "Enables reading data from a Google Sheets spreadsheet via the read_sheet tool, integrating real-time sheet data with an AI reminder assistant.",
+  "source_repo": "gustavodaitx/AppMcp",
+  "source_url": "https://github.com/gustavodaitx/AppMcp",
+  "install": "# git clone --depth 1 https://github.com/gustavodaitx/AppMcp\n# See source for mcpServers config block"
+}

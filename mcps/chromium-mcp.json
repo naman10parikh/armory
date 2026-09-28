@@ -1,0 +1,7 @@
+{
+  "name": "chromium-mcp",
+  "description": "MCP server for web fetching and automation using Chromium headless browser. Enables fetching pages as markdown, taking screenshots, automating interactions, and extracting data via CSS selectors.",
+  "source_repo": "gzigurella/chromium-mcp",
+  "source_url": "https://github.com/gzigurella/chromium-mcp",
+  "install": "npx -y chromium-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "teta-pi",
+  "description": "MCP server for the TETA+PI verified entity registry, enabling AI agents to search, verify, and route intents to trusted entities.",
+  "source_repo": "teta-pi/mcp",
+  "source_url": "https://github.com/teta-pi/mcp",
+  "install": "# git clone --depth 1 https://github.com/teta-pi/mcp\n# See source for mcpServers config block"
+}

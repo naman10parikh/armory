@@ -1,0 +1,7 @@
+{
+  "name": "securecontext",
+  "description": "Provides persistent memory, cryptographic audit trail, and HMAC-verified skill admission for Claude Code, running locally on PostgreSQL with zero cloud sync.",
+  "source_repo": "iampantherr/SecureContext",
+  "source_url": "https://github.com/iampantherr/SecureContext",
+  "install": "# git clone --depth 1 https://github.com/iampantherr/SecureContext\n# See source for mcpServers config block"
+}

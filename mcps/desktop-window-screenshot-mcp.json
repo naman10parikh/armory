@@ -1,0 +1,7 @@
+{
+  "name": "desktop-window-screenshot-mcp",
+  "description": "Enables taking screenshots of the entire desktop or specific windows, with automatic clipboard integration and support for Windows, macOS, and Linux.",
+  "source_repo": "Kynlos/desktop-window-screenshot-mcp",
+  "source_url": "https://github.com/Kynlos/desktop-window-screenshot-mcp",
+  "install": "npx -y desktop-window-screenshot-mcp"
+}

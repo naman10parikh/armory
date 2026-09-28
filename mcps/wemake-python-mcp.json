@@ -1,0 +1,7 @@
+{
+  "name": "wemake-python-mcp",
+  "description": "MCP server providing automated code linting, rule explanations, and configuration templates for wemake-python-styleguide, with structured violation reports and offline rule database.",
+  "source_repo": "guff192/wemake-python-mcp",
+  "source_url": "https://github.com/guff192/wemake-python-mcp",
+  "install": "npx -y wemake-python-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "system-monitor",
+  "description": "A secure, read-only MCP server for AI-powered system monitoring. It provides real-time OS metrics, config discovery, and safe log tailing to enable autonomous infrastructure audits without shell access risks.",
+  "source_repo": "2428424081cn/mcp-system-monitor",
+  "source_url": "https://github.com/2428424081cn/mcp-system-monitor",
+  "install": "# git clone --depth 1 https://github.com/2428424081cn/mcp-system-monitor\n# See source for mcpServers config block"
+}

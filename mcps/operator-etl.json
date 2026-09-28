@@ -1,0 +1,7 @@
+{
+  "name": "operator-etl",
+  "description": "Enables agents to perform deterministic data intake pipelines for FOIA and public comments, with medallion warehouse, PII policy enforcement, and verified insights.",
+  "source_repo": "khaosans/operator-etl",
+  "source_url": "https://github.com/khaosans/operator-etl",
+  "install": "# git clone --depth 1 https://github.com/khaosans/operator-etl\n# See source for mcpServers config block"
+}

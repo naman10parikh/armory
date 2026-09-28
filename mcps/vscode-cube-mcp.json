@@ -1,0 +1,7 @@
+{
+  "name": "vscode-cube-mcp",
+  "description": "MCP server that wraps STM32CubeMX CLI to let AI load .ioc projects, modify pin/peripheral configurations, generate HAL code, and export pinout tables.",
+  "source_repo": "h666zhang/vscode-cube-mcp",
+  "source_url": "https://github.com/h666zhang/vscode-cube-mcp",
+  "install": "npx -y vscode-cube-mcp"
+}

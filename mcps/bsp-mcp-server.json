@@ -1,0 +1,7 @@
+{
+  "name": "bsp-mcp-server",
+  "description": "Provides a unified block-spindle-pscale function for reading, writing, and managing locks on JSON blocks across federated beaches, sed collectives, and bilateral grains.",
+  "source_repo": "pscale-commons/bsp-mcp-server",
+  "source_url": "https://github.com/pscale-commons/bsp-mcp-server",
+  "install": "npx -y bsp-mcp-server"
+}

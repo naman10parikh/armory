@@ -1,0 +1,7 @@
+{
+  "name": "mridangam-playing-analysis",
+  "description": "Analyzes timing and tempo accuracy of percussion practice recordings via onset detection, reporting per-gap deviations and consistency stats to MCP clients.",
+  "source_repo": "jspoth/mcp",
+  "source_url": "https://github.com/jspoth/mcp",
+  "install": "# git clone --depth 1 https://github.com/jspoth/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aiquaa-api-quality-mcp-server",
+  "description": "Analyzes API requirements and source code, evaluates existing Postman test coverage, and generates or updates test automation with an optional draft pull request on GitHub.",
+  "source_repo": "stevenayal/aiquaa-api-quality-mcp-server",
+  "source_url": "https://github.com/stevenayal/aiquaa-api-quality-mcp-server",
+  "install": "npx -y aiquaa-api-quality-mcp-server"
+}

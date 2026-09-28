@@ -1,0 +1,7 @@
+{
+  "name": "confluence-rag-mcp",
+  "description": "Retrieves indexed Confluence pages via semantic search, returning chunks, citations, and page bundles; stores embeddings in local SQLite with sqlite-vec.",
+  "source_repo": "titulus/confluence-rag-mcp",
+  "source_url": "https://github.com/titulus/confluence-rag-mcp",
+  "install": "npx -y confluence-rag-mcp"
+}

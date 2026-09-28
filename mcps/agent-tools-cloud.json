@@ -1,0 +1,7 @@
+{
+  "name": "agent-tools-cloud",
+  "description": "An MCP server providing discovery of x402 paid services, MCP servers, and A2A agents, with safety scanning capabilities.",
+  "source_repo": "AgentTools-Cloud/AgentToolsCollection",
+  "source_url": "https://github.com/AgentTools-Cloud/AgentToolsCollection",
+  "install": "# git clone --depth 1 https://github.com/AgentTools-Cloud/AgentToolsCollection\n# See source for mcpServers config block"
+}

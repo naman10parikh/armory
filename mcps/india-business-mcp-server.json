@@ -1,0 +1,7 @@
+{
+  "name": "india-business-mcp-server",
+  "description": "Enables LLMs to query real-time Indian bank branch details, postal PIN codes, validate GSTIN/PAN structures, check e-commerce serviceability, and compute GST breakdowns using free public APIs and offline verification logic.",
+  "source_repo": "denispaul2406/india-business-mcp-server",
+  "source_url": "https://github.com/denispaul2406/india-business-mcp-server",
+  "install": "npx -y india-business-mcp-server"
+}

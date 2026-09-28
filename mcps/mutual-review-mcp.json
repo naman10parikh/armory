@@ -1,0 +1,7 @@
+{
+  "name": "mutual-review-mcp",
+  "description": "An MCP server that enables code review by having two LLMs (Claude and GPT-4o) independently evaluate code and then synthesize their findings into a unified report.",
+  "source_repo": "miharu8686/mutual-review-mcp",
+  "source_url": "https://github.com/miharu8686/mutual-review-mcp",
+  "install": "npx -y mutual-review-mcp"
+}

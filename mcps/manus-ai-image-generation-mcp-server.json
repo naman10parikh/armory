@@ -1,0 +1,7 @@
+{
+  "name": "manus-ai-image-generation-mcp-server",
+  "description": "Provides image generation capabilities via Manus AI as MCP tools for Claude AI.",
+  "source_repo": "jamie442532-hash/manus-mcp-server",
+  "source_url": "https://github.com/jamie442532-hash/manus-mcp-server",
+  "install": "npx -y manus-mcp-server"
+}

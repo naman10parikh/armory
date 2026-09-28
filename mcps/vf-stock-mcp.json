@@ -1,0 +1,7 @@
+{
+  "name": "vf-stock-mcp",
+  "description": "FastMCP server for Vietnamese stock analysis, providing 35+ tools for fetching quotes, financials, and technical indicators (144+), and generating AI-driven investment reports. Integrates with Claude/Cursor via stdio/SSE and supports LangGraph workflows.",
+  "source_repo": "dducsw/vf-stock-agent",
+  "source_url": "https://github.com/dducsw/vf-stock-agent",
+  "install": "# git clone --depth 1 https://github.com/dducsw/vf-stock-agent\n# See source for mcpServers config block"
+}

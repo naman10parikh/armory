@@ -1,0 +1,7 @@
+{
+  "name": "ai-review",
+  "description": "Enables interactive GitHub pull-request review from Claude Code, with tools to fetch PRs, inspect files and repo structure, post review comments, and query a RAG index of the codebase.",
+  "source_repo": "mdanouf44-cyber/Code-review-agent-with-MCP",
+  "source_url": "https://github.com/mdanouf44-cyber/Code-review-agent-with-MCP",
+  "install": "npx -y Code-review-agent-with-MCP"
+}

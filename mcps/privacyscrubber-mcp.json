@@ -1,0 +1,7 @@
+{
+  "name": "privacyscrubber-mcp",
+  "description": "Sanitizes text and files by removing PII, secrets, and custom patterns locally before sending to LLMs, with optional reverse-scrubbing.",
+  "source_repo": "moxno/privacyscrubber-mcp",
+  "source_url": "https://github.com/moxno/privacyscrubber-mcp",
+  "install": "npx -y privacyscrubber-mcp"
+}

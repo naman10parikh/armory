@@ -1,0 +1,7 @@
+{
+  "name": "clockifymcp",
+  "description": "Remote-first MCP server for personal Clockify time tracking, exposing tools to manage timers, entries, and reports via MCP clients like ChatGPT.",
+  "source_repo": "EdwyReed/clockify-mcp",
+  "source_url": "https://github.com/EdwyReed/clockify-mcp",
+  "install": "npx -y clockify-mcp"
+}

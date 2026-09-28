@@ -1,0 +1,7 @@
+{
+  "name": "netops-mcp",
+  "description": "Provides network operations tools such as ping, traceroute, DNS queries, and nmap scans via MCP, enabling network diagnostics and monitoring through natural language.",
+  "source_repo": "alpadalar/netops-mcp",
+  "source_url": "https://github.com/alpadalar/netops-mcp",
+  "install": "npx -y netops-mcp"
+}

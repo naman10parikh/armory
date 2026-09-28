@@ -1,0 +1,7 @@
+{
+  "name": "garage-on-the-go-mcp-server",
+  "description": "Provides tools for vehicle service search, mechanic matching, and booking generation as part of a multi-agent AI system for roadside assistance.",
+  "source_repo": "Pranjalde95/garage-on-the-go-ai-agent",
+  "source_url": "https://github.com/Pranjalde95/garage-on-the-go-ai-agent",
+  "install": "# git clone --depth 1 https://github.com/Pranjalde95/garage-on-the-go-ai-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cc-sensei",
+  "description": "Distills Claude Code's 310K-line source into 32 queryable modules via MCP, enabling AI agents to learn and reuse Claude Code's architectural patterns through natural language.",
+  "source_repo": "contradictory-body/cc-sensei",
+  "source_url": "https://github.com/contradictory-body/cc-sensei",
+  "install": "# git clone --depth 1 https://github.com/contradictory-body/cc-sensei\n# See source for mcpServers config block"
+}

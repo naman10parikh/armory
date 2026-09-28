@@ -1,0 +1,7 @@
+{
+  "name": "rail-interop-mcp",
+  "description": "Provides an MCP interface to the ERA RINF railway infrastructure database for Poland and Czech Republic, enabling route planning, train compatibility checks (gauge, axle load, length, clearance), weather risk assessment, and traction planning, with a LangGraph agent integrating a custom MCP server a",
+  "source_repo": "dukarev/rail-interop-planner",
+  "source_url": "https://github.com/dukarev/rail-interop-planner",
+  "install": "# git clone --depth 1 https://github.com/dukarev/rail-interop-planner\n# See source for mcpServers config block"
+}

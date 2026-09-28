@@ -1,0 +1,7 @@
+{
+  "name": "lunargarden-mcp",
+  "description": "Provides astrology-aware garden care planning by combining lunar phase, Vedic panchang, weather, and soil forecasts into structured care plans with rationales and confidence scores.",
+  "source_repo": "aymaratedesko-hue/lunargarden-mcp",
+  "source_url": "https://github.com/aymaratedesko-hue/lunargarden-mcp",
+  "install": "npx -y lunargarden-mcp"
+}

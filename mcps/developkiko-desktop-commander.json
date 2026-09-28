@@ -1,0 +1,7 @@
+{
+  "name": "developkiko-desktop-commander",
+  "description": "MCP server for terminal operations and file editing, enabling AI assistants to manage files, run commands, and process large content with auto-chunking.",
+  "source_repo": "developkiko/DsktpCmndr",
+  "source_url": "https://github.com/developkiko/DsktpCmndr",
+  "install": "# git clone --depth 1 https://github.com/developkiko/DsktpCmndr\n# See source for mcpServers config block"
+}

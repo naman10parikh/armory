@@ -1,0 +1,7 @@
+{
+  "name": "footnote",
+  "description": "Enables agents to verify their own output mid-task by checking every claim against provided sources, returning supported, partial, unsupported, or contradicted verdicts with exact citations.",
+  "source_repo": "adwitiyashukla/footnote",
+  "source_url": "https://github.com/adwitiyashukla/footnote",
+  "install": "# git clone --depth 1 https://github.com/adwitiyashukla/footnote\n# See source for mcpServers config block"
+}

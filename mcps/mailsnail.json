@@ -1,0 +1,7 @@
+{
+  "name": "mailsnail",
+  "description": "An open-source MCP server for sending physical mail (letters, postcards, certified mail) directly from AI agents, with per-piece payment and no account signup needed.",
+  "source_repo": "iancollins27/mailsnail",
+  "source_url": "https://github.com/iancollins27/mailsnail",
+  "install": "# git clone --depth 1 https://github.com/iancollins27/mailsnail\n# See source for mcpServers config block"
+}

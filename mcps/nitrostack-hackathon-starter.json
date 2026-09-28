@@ -1,0 +1,7 @@
+{
+  "name": "nitrostack-hackathon-starter",
+  "description": "A verified, event-ready MCP server template for building TypeScript servers with the NitroStack SDK, including a calculator module as a working reference.",
+  "source_repo": "vedangps/nitrostack-hackathon-starter",
+  "source_url": "https://github.com/vedangps/nitrostack-hackathon-starter",
+  "install": "# git clone --depth 1 https://github.com/vedangps/nitrostack-hackathon-starter\n# See source for mcpServers config block"
+}

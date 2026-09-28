@@ -1,0 +1,7 @@
+{
+  "name": "podium-mcp",
+  "description": "One MCP endpoint, 43 tools for iOS-simulator E2E — native UI automation, Maestro flows, trustworthy oracle-ladder assertions, WebView DOM + network (JSON/HAR), and React Native debugging (Metro logs/network/state). macOS + Xcode.",
+  "source_repo": "hoainho/podium-mcp",
+  "source_url": "https://github.com/hoainho/podium-mcp",
+  "install": "npx -y podium-mcp"
+}

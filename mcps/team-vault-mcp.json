@@ -1,0 +1,7 @@
+{
+  "name": "team-vault-mcp",
+  "description": "Exposes Team Vault's REST API as MCP tools for AI agents, enabling programmatic reading and editing of notes without Obsidian.",
+  "source_repo": "kremdigital/TeamVaultMCP",
+  "source_url": "https://github.com/kremdigital/TeamVaultMCP",
+  "install": "# git clone --depth 1 https://github.com/kremdigital/TeamVaultMCP\n# See source for mcpServers config block"
+}

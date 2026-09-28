@@ -1,0 +1,7 @@
+{
+  "name": "sport-supplements-e-commerce-mcp-server",
+  "description": "Connects LLMs to a PostgreSQL e-commerce database for sports supplements, enabling natural language product search, order management, and customer operations.",
+  "source_repo": "sebastiancastillorock/mcpserverecommerce",
+  "source_url": "https://github.com/sebastiancastillorock/mcpserverecommerce",
+  "install": "# git clone --depth 1 https://github.com/sebastiancastillorock/mcpserverecommerce\n# See source for mcpServers config block"
+}

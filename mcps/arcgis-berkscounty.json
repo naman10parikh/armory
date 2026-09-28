@@ -1,0 +1,7 @@
+{
+  "name": "arcgis-berkscounty",
+  "description": "An MCP server that provides access to Berks County, Pennsylvania open geospatial data (ArcGIS), enabling search, query, and schema retrieval of datasets like parcels, addresses, and zoning.",
+  "source_repo": "pipeworx-io/mcp-arcgis-berkscounty",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-berkscounty",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-berkscounty\n# See source for mcpServers config block"
+}

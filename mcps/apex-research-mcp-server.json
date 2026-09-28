@@ -1,0 +1,7 @@
+{
+  "name": "apex-research-mcp-server",
+  "description": "Enables quantitative trading research by providing tools to backtest strategies, list market datasets, review forward-test logs, and search previously rejected hypotheses, all through an MCP interface.",
+  "source_repo": "junaidshahid-dev/mcp-apex-server",
+  "source_url": "https://github.com/junaidshahid-dev/mcp-apex-server",
+  "install": "# git clone --depth 1 https://github.com/junaidshahid-dev/mcp-apex-server\n# See source for mcpServers config block"
+}

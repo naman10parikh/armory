@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-syncralis",
+  "description": "Industry-grade MCP gateway for OpenClaw environments with three core capabilities: secure file sharing via HMAC-signed time-limited links, authenticated URL downloads with MIME validation, and load-balanced web search across Tavily and Brave with automatic failover.",
+  "source_repo": "pslkk/openclaw-syncralis",
+  "source_url": "https://github.com/pslkk/openclaw-syncralis",
+  "install": "# git clone --depth 1 https://github.com/pslkk/openclaw-syncralis\n# See source for mcpServers config block"
+}

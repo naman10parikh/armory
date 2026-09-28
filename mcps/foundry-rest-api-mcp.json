@@ -1,0 +1,7 @@
+{
+  "name": "foundry-rest-api-mcp",
+  "description": "Enables preparing Foundry worlds and running encounters through the FoundryVTT REST API Relay, with tools for managing worlds, scenes, encounters, and table play.",
+  "source_repo": "zagushka/foundry-rest-api-mcp",
+  "source_url": "https://github.com/zagushka/foundry-rest-api-mcp",
+  "install": "npx -y foundry-rest-api-mcp"
+}

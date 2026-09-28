@@ -1,0 +1,7 @@
+{
+  "name": "garmin-unofficial-mcp",
+  "description": "A local, read-only MCP server that gives Claude access to your Garmin health and training data, exposing tools for health snapshots, training status, run details, body metrics, and training analysis.",
+  "source_repo": "danielsuri/garmin-unofficial-mcp",
+  "source_url": "https://github.com/danielsuri/garmin-unofficial-mcp",
+  "install": "npx -y garmin-unofficial-mcp"
+}

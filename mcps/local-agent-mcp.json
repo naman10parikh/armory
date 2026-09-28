@@ -1,0 +1,7 @@
+{
+  "name": "local-agent-mcp",
+  "description": "A local MCP server that lets Claude Code orchestrate Codex CLI and OpenCode CLI as sub-agents with strict security, concurrency, and output limits.",
+  "source_repo": "3230390742/local-agent-mcp",
+  "source_url": "https://github.com/3230390742/local-agent-mcp",
+  "install": "npx -y local-agent-mcp"
+}

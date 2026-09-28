@@ -1,0 +1,7 @@
+{
+  "name": "brightdata-gatekeeper",
+  "description": "Enables agents to drive an evidence-based approval loop for Bright Data scraper repairs, detecting breakage, generating heal prompts, and verifying fixes against golden rows before commit.",
+  "source_repo": "rycerzes/brightdata-gatekeeper",
+  "source_url": "https://github.com/rycerzes/brightdata-gatekeeper",
+  "install": "# git clone --depth 1 https://github.com/rycerzes/brightdata-gatekeeper\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "animus-document-engine",
+  "description": "MCP server for rendering, parsing, converting, and editing Office documents (Excel, PowerPoint, Word) from a structured JSON spec, using LibreOffice WASM for conversion and preview.",
+  "source_repo": "launchapp-dev/animus-document-engine",
+  "source_url": "https://github.com/launchapp-dev/animus-document-engine",
+  "install": "# git clone --depth 1 https://github.com/launchapp-dev/animus-document-engine\n# See source for mcpServers config block"
+}

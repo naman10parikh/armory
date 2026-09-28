@@ -1,0 +1,7 @@
+{
+  "name": "redacted",
+  "description": "Emulates Orbus Infinity and ServiceNow CMDB as two MCP endpoints on a shared synthetic dataset to enable a reconciliation agent to compare architectural and operational data.",
+  "source_repo": "jjayaprarathbones/reconciliationTestMCP",
+  "source_url": "https://github.com/jjayaprarathbones/reconciliationTestMCP",
+  "install": "# git clone --depth 1 https://github.com/jjayaprarathbones/reconciliationTestMCP\n# See source for mcpServers config block"
+}

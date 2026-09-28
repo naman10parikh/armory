@@ -1,0 +1,7 @@
+{
+  "name": "opera-devtools-mcp",
+  "description": "Enables AI coding assistants to control and inspect a browser via DevTools, with additional Opera Neon AI tools for chat, page actions, content generation, and research.",
+  "source_repo": "operasoftware/opera-devtools-mcp",
+  "source_url": "https://github.com/operasoftware/opera-devtools-mcp",
+  "install": "npx -y opera-devtools-mcp"
+}

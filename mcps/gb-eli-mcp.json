@@ -1,0 +1,7 @@
+{
+  "name": "gb-eli-mcp",
+  "description": "Enables searching and retrieval of UK legislation (Acts, Statutory Instruments) from legislation.gov.uk with persistent identifiers and verifiable citations.",
+  "source_repo": "matematicsolutions/gb-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/gb-eli-mcp",
+  "install": "npx -y gb-eli-mcp"
+}

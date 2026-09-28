@@ -1,0 +1,7 @@
+{
+  "name": "discord-mcp-4",
+  "description": "An MCP server that exposes Discord bot actions as tools for LLM clients.",
+  "source_repo": "EncryptMan/discord-mcp",
+  "source_url": "https://github.com/EncryptMan/discord-mcp",
+  "install": "npx -y discord-mcp"
+}

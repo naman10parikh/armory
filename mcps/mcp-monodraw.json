@@ -1,0 +1,7 @@
+{
+  "name": "mcp-monodraw",
+  "description": "Enables creation, editing, and export of ASCII art diagrams using Monodraw on macOS, with tools for generating boxes, flowcharts, tables, trees, and sequence diagrams.",
+  "source_repo": "Caryyon/mcp-monodraw",
+  "source_url": "https://github.com/Caryyon/mcp-monodraw",
+  "install": "# git clone --depth 1 https://github.com/Caryyon/mcp-monodraw\n# See source for mcpServers config block"
+}

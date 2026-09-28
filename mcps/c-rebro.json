@@ -1,0 +1,7 @@
+{
+  "name": "c-rebro",
+  "description": "A RAG engine and MCP server that indexes .md files to provide searchable context to AI agents via the Model Context Protocol.",
+  "source_repo": "ricardopiresqa/cerebro",
+  "source_url": "https://github.com/ricardopiresqa/cerebro",
+  "install": "# git clone --depth 1 https://github.com/ricardopiresqa/cerebro\n# See source for mcpServers config block"
+}

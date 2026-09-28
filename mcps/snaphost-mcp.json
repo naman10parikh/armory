@@ -1,0 +1,7 @@
+{
+  "name": "snaphost-mcp",
+  "description": "Deploys projects straight from an AI agent to Snaphost and returns a public URL, with automatic Dockerfile generation, build/run/log management, and deploy lifecycle control.",
+  "source_repo": "justaba/snaphost-mcp",
+  "source_url": "https://github.com/justaba/snaphost-mcp",
+  "install": "npx -y snaphost-mcp"
+}

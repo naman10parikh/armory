@@ -1,0 +1,7 @@
+{
+  "name": "slima-mcp",
+  "description": "Connects Slima books to any MCP-compatible AI tool, enabling book management, file operations, and AI beta reader feedback via natural language.",
+  "source_repo": "slima-ai/slima-mcp",
+  "source_url": "https://github.com/slima-ai/slima-mcp",
+  "install": "npx -y slima-mcp"
+}

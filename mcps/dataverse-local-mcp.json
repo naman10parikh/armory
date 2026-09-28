@@ -1,0 +1,7 @@
+{
+  "name": "dataverse-local-mcp",
+  "description": "Enables interaction with Microsoft Dataverse and Dynamics 365 data through natural language, including CRUD operations, metadata exploration, and saved views.",
+  "source_repo": "BusinessNone/DataVerseLocalMCP",
+  "source_url": "https://github.com/BusinessNone/DataVerseLocalMCP",
+  "install": "# git clone --depth 1 https://github.com/BusinessNone/DataVerseLocalMCP\n# See source for mcpServers config block"
+}

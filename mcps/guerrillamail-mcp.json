@@ -1,0 +1,7 @@
+{
+  "name": "guerrillamail-mcp",
+  "description": "MCP server for the Guerrilla Mail temporary/disposable email API. Spin up throwaway inboxes, poll for mail, and read messages from any MCP client.",
+  "source_repo": "cv3inx/guerrillamail-mcp",
+  "source_url": "https://github.com/cv3inx/guerrillamail-mcp",
+  "install": "npx -y guerrillamail-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ollama-vision-mcp",
+  "description": "Enables text-only AI models to analyze images via local Ollama multimodal models. Supports image analysis, OCR, and multi-image comparison entirely offline.",
+  "source_repo": "Ntzy123/ollama-vision-mcp",
+  "source_url": "https://github.com/Ntzy123/ollama-vision-mcp",
+  "install": "npx -y ollama-vision-mcp"
+}

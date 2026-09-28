@@ -1,0 +1,7 @@
+{
+  "name": "ellmos-servercommander-mcp",
+  "description": "Alpha MCP server for server operations enabling deployment dry-runs, mail readiness diagnostics, access-log analysis, and HTTP health checks.",
+  "source_repo": "ellmos-ai/ellmos-servercommander-mcp",
+  "source_url": "https://github.com/ellmos-ai/ellmos-servercommander-mcp",
+  "install": "npx -y ellmos-servercommander-mcp"
+}

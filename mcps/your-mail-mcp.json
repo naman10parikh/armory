@@ -1,0 +1,7 @@
+{
+  "name": "your-mail-mcp",
+  "description": "Enables read-only search and retrieval of your email across multiple IMAP accounts through a local notmuch index, served over authenticated HTTP for MCP clients like Claude or Codex.",
+  "source_repo": "wildsurfer/your-mail-mcp",
+  "source_url": "https://github.com/wildsurfer/your-mail-mcp",
+  "install": "npx -y your-mail-mcp"
+}

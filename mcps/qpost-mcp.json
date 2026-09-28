@@ -1,0 +1,7 @@
+{
+  "name": "qpost-mcp",
+  "description": "MCP server for QPost that lets AI agents schedule and publish video/image posts to YouTube, TikTok, and Instagram via QPost's REST API.",
+  "source_repo": "arslan2012/qpost-mcp",
+  "source_url": "https://github.com/arslan2012/qpost-mcp",
+  "install": "npx -y qpost-mcp"
+}

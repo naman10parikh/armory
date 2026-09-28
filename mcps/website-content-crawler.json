@@ -1,0 +1,7 @@
+{
+  "name": "website-content-crawler",
+  "description": "Enables agents to crawl URLs and retrieve page content as fixed-shape structured JSON, including title, markdown, links, word count, and error status.",
+  "source_repo": "dev55acc-ai/website-content-crawler",
+  "source_url": "https://github.com/dev55acc-ai/website-content-crawler",
+  "install": "# git clone --depth 1 https://github.com/dev55acc-ai/website-content-crawler\n# See source for mcpServers config block"
+}

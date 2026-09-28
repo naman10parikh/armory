@@ -1,0 +1,7 @@
+{
+  "name": "mavlink-mcp",
+  "description": "Connects AI agents to MAVLink drones (PX4, ArduPilot) via a capability layer with safety guardrails, enabling telemetry, flight control, and mission management through natural language.",
+  "source_repo": "hieutachi/mavlink-mcp",
+  "source_url": "https://github.com/hieutachi/mavlink-mcp",
+  "install": "npx -y mavlink-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "telegram-bot-mcp-server",
+  "description": "Enables AI assistants to interact with the Telegram Bot API, supporting messaging, user management, and bot configuration with intelligent message splitting and error handling.",
+  "source_repo": "siavashdelkhosh81/telegram-bot-mcp-server",
+  "source_url": "https://github.com/siavashdelkhosh81/telegram-bot-mcp-server",
+  "install": "npx -y telegram-bot-mcp-server"
+}

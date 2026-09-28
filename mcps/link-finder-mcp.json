@@ -1,0 +1,7 @@
+{
+  "name": "link-finder-mcp",
+  "description": "Find backlink opportunities, analyze competitors, discover similar domains with AI embeddings, and manage prospecting projects directly from any MCP client.",
+  "source_repo": "webloom-agency/link-finder-mcp",
+  "source_url": "https://github.com/webloom-agency/link-finder-mcp",
+  "install": "npx -y link-finder-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pdns-mcp-server",
+  "description": "MCP server for managing PowerDNS DNS records through the PowerDNS-Admin API. Supports listing zones, getting zone details, and creating, updating, deleting DNS records.",
+  "source_repo": "bblrlo/pdns-mcp-server",
+  "source_url": "https://github.com/bblrlo/pdns-mcp-server",
+  "install": "npx -y pdns-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "python-mcp-server-2",
+  "description": "A simple note-taking MCP server that allows adding notes and summarizing them via a prompt.",
+  "source_repo": "Potato-29/python-mcp-server",
+  "source_url": "https://github.com/Potato-29/python-mcp-server",
+  "install": "npx -y python-mcp-server"
+}

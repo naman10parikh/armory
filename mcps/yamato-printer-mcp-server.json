@@ -1,0 +1,7 @@
+{
+  "name": "yamato-printer-mcp-server",
+  "description": "Enables printing of Yamato B2 Cloud shipping label PDFs to a thermal label printer through a Raspberry Pi-based MCP server.",
+  "source_repo": "DaisukeHori/yamato-printer-mcp-server",
+  "source_url": "https://github.com/DaisukeHori/yamato-printer-mcp-server",
+  "install": "npx -y yamato-printer-mcp-server"
+}

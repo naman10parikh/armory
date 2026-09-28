@@ -1,0 +1,7 @@
+{
+  "name": "nebula-agents-electron-mcp",
+  "description": "Embedded MCP server for Electron apps that exposes BrowserWindow surfaces and lets MCP clients drive renderers through Chrome DevTools Protocol.",
+  "source_repo": "agent-labs-dev/electron-mcp",
+  "source_url": "https://github.com/agent-labs-dev/electron-mcp",
+  "install": "npx -y electron-mcp"
+}

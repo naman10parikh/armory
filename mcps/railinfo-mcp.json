@@ -1,0 +1,7 @@
+{
+  "name": "railinfo-mcp",
+  "description": "Enables real-time Indian Railways information retrieval, including live train running status, station schedules, and upcoming arrivals/departures.",
+  "source_repo": "AquibFaiyaz/railinfo-mcp",
+  "source_url": "https://github.com/AquibFaiyaz/railinfo-mcp",
+  "install": "npx -y railinfo-mcp"
+}

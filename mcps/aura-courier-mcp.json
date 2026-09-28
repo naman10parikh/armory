@@ -1,0 +1,7 @@
+{
+  "name": "aura-courier-mcp",
+  "description": "A unified MCP connector for Bangladeshi couriers, enabling parcel booking and tracking across multiple services through a single interface.",
+  "source_repo": "auraajenticai/aura-courier-mcp",
+  "source_url": "https://github.com/auraajenticai/aura-courier-mcp",
+  "install": "npx -y aura-courier-mcp"
+}

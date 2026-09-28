@@ -1,0 +1,7 @@
+{
+  "name": "discord-sovereign-mcp",
+  "description": "Enables full-lifecycle Discord server management from any LLM, including creation, administration, and scaffolding, with a sovereignty guard ensuring mutations only occur when the client has the highest role.",
+  "source_repo": "1cz1/discord-sovereign-mcp",
+  "source_url": "https://github.com/1cz1/discord-sovereign-mcp",
+  "install": "npx -y discord-sovereign-mcp"
+}

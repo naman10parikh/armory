@@ -1,0 +1,7 @@
+{
+  "name": "github-prod-mcp",
+  "description": "A production-ready MCP server for GitHub operations, providing tools for repository management, issues, pull requests, and more via both MCP stdio and REST API.",
+  "source_repo": "nouhailadahmany/github-mcp-server",
+  "source_url": "https://github.com/nouhailadahmany/github-mcp-server",
+  "install": "npx -y github-mcp-server"
+}

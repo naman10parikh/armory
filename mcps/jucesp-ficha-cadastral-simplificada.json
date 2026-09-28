@@ -1,0 +1,7 @@
+{
+  "name": "jucesp-ficha-cadastral-simplificada",
+  "description": "Fetches simplified company registration data from JUCESP (São Paulo state trade board) by CNPJ, NIRE, or company name. Read-only, hosted, no credentials, with pay-per-use prepaid credits.",
+  "source_repo": "mcp-dir/jucesp_ficha-mcp",
+  "source_url": "https://github.com/mcp-dir/jucesp_ficha-mcp",
+  "install": "npx -y jucesp_ficha-mcp"
+}

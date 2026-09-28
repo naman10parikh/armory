@@ -1,0 +1,7 @@
+{
+  "name": "hf-papers-mcp",
+  "description": "Enables assistants to search, fetch daily curated lists, retrieve metadata, and generate citations for Hugging Face papers.",
+  "source_repo": "QEbellavita/hf-papers-mcp",
+  "source_url": "https://github.com/QEbellavita/hf-papers-mcp",
+  "install": "npx -y hf-papers-mcp"
+}

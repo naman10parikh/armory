@@ -1,0 +1,7 @@
+{
+  "name": "mindpm",
+  "description": "MCP server providing persistent project memory via SQLite, tracking tasks, decisions, notes, sessions, and context. Includes a Kanban board and session briefs with git activity, enabling LLMs to resume work seamlessly.",
+  "source_repo": "umitkavala/mindpm",
+  "source_url": "https://github.com/umitkavala/mindpm",
+  "install": "# git clone --depth 1 https://github.com/umitkavala/mindpm\n# See source for mcpServers config block"
+}

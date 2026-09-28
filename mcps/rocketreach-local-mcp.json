@@ -1,0 +1,7 @@
+{
+  "name": "rocketreach-local-mcp",
+  "description": "Provides local MCP access to RocketReach's REST API, enabling person and company search, profile lookups, and account management without OAuth.",
+  "source_repo": "SmartManoj/RocketReach-MCP",
+  "source_url": "https://github.com/SmartManoj/RocketReach-MCP",
+  "install": "npx -y RocketReach-MCP"
+}

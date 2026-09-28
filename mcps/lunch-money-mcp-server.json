@@ -1,0 +1,7 @@
+{
+  "name": "lunch-money-mcp-server",
+  "description": "Enables interacting with the Lunch Money personal finance API through MCP tools for retrieving user info, transactions, and performing calculations, with minimal response sizes.",
+  "source_repo": "sharph/lunchmoney-mcp-mini",
+  "source_url": "https://github.com/sharph/lunchmoney-mcp-mini",
+  "install": "# git clone --depth 1 https://github.com/sharph/lunchmoney-mcp-mini\n# See source for mcpServers config block"
+}

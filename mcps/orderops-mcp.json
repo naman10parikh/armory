@@ -1,0 +1,7 @@
+{
+  "name": "orderops-mcp",
+  "description": "Enables AI assistants to investigate and safely resolve commerce order exceptions, such as expired inventory reservations, by providing a workflow across synthetic order, payment, inventory, and fulfillment systems.",
+  "source_repo": "Flamki/order-ops-mcp",
+  "source_url": "https://github.com/Flamki/order-ops-mcp",
+  "install": "npx -y order-ops-mcp"
+}

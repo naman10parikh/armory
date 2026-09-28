@@ -1,0 +1,7 @@
+{
+  "name": "higgsfield-mcp-server-2",
+  "description": "Remote MCP server for Claude to generate images and videos using Higgsfield AI. Supports photo, reference-based image, and video generation.",
+  "source_repo": "timursatubaldiyev-creator/iggsfield-mcp-server",
+  "source_url": "https://github.com/timursatubaldiyev-creator/iggsfield-mcp-server",
+  "install": "npx -y iggsfield-mcp-server"
+}

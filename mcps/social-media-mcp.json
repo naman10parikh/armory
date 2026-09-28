@@ -1,0 +1,7 @@
+{
+  "name": "social-media-mcp",
+  "description": "A local MCP adapter collection for social media channels, currently supporting Douyin with tools for channel startup, login assistance, messaging, and notifications.",
+  "source_repo": "wjy19812408234/social_meadia_mcp",
+  "source_url": "https://github.com/wjy19812408234/social_meadia_mcp",
+  "install": "npx -y social_meadia_mcp"
+}

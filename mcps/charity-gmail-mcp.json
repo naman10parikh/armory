@@ -1,0 +1,7 @@
+{
+  "name": "charity-gmail-mcp",
+  "description": "Enables accessing Gmail tools (search, read, draft) for a specific Google account via MCP, designed as a custom connector for Claude/Cowork to use alongside a different Google account.",
+  "source_repo": "IgnatRU/claude",
+  "source_url": "https://github.com/IgnatRU/claude",
+  "install": "# git clone --depth 1 https://github.com/IgnatRU/claude\n# See source for mcpServers config block"
+}

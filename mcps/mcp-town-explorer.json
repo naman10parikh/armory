@@ -1,0 +1,7 @@
+{
+  "name": "mcp-town-explorer",
+  "description": "A demo MCP server for exploring Massachusetts town data (housing, schools, crime, distance to Boston) via tools and resources, designed to teach MCP architecture with dual-host setup.",
+  "source_repo": "chanys/mcp-town-explorer",
+  "source_url": "https://github.com/chanys/mcp-town-explorer",
+  "install": "# git clone --depth 1 https://github.com/chanys/mcp-town-explorer\n# See source for mcpServers config block"
+}

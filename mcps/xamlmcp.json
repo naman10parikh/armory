@@ -1,0 +1,7 @@
+{
+  "name": "xamlmcp",
+  "description": "An MCP server for inspecting and controlling running XAML applications across Avalonia, WPF, WinUI 3, and .NET MAUI, enabling AI clients to walk trees, modify properties, take screenshots, and send input.",
+  "source_repo": "trrahul/XamlMcp",
+  "source_url": "https://github.com/trrahul/XamlMcp",
+  "install": "# git clone --depth 1 https://github.com/trrahul/XamlMcp\n# See source for mcpServers config block"
+}

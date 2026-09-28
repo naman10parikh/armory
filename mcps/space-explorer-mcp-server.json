@@ -1,0 +1,7 @@
+{
+  "name": "space-explorer-mcp-server",
+  "description": "A custom MCP server that connects Kiro to live space data from NASA APIs and real-time ISS tracking, enabling queries about astronauts, ISS location, astronomy pictures, and near-Earth asteroids.",
+  "source_repo": "rajkksns/space-explorer-mcp",
+  "source_url": "https://github.com/rajkksns/space-explorer-mcp",
+  "install": "npx -y space-explorer-mcp"
+}

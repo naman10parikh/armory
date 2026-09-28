@@ -1,0 +1,7 @@
+{
+  "name": "agent-mesh-core",
+  "description": "An MCP server for coordinating trusted local AI agents across machines on a private Tailscale network, enabling message passing and state management between agents like Claude Code, Codex, and Ollama.",
+  "source_repo": "jcbmrrs/agent-mesh-core",
+  "source_url": "https://github.com/jcbmrrs/agent-mesh-core",
+  "install": "# git clone --depth 1 https://github.com/jcbmrrs/agent-mesh-core\n# See source for mcpServers config block"
+}

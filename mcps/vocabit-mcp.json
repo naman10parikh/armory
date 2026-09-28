@@ -1,0 +1,7 @@
+{
+  "name": "vocabit-mcp",
+  "description": "Enables an AI assistant to publish flashcard study sets directly into the Vocabit app and then read back detailed learner results, including weak and untouched cards, so future sets can be tailored to actual performance.",
+  "source_repo": "JohnBilousov/vocabit-mcp",
+  "source_url": "https://github.com/JohnBilousov/vocabit-mcp",
+  "install": "npx -y vocabit-mcp"
+}

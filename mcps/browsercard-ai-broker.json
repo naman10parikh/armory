@@ -1,0 +1,7 @@
+{
+  "name": "browsercard-ai-broker",
+  "description": "An MCP server that lets an LLM build, inspect and drive a running BrowserCard deck live in the browser.",
+  "source_repo": "rozek/browsercard-ai-broker",
+  "source_url": "https://github.com/rozek/browsercard-ai-broker",
+  "install": "# git clone --depth 1 https://github.com/rozek/browsercard-ai-broker\n# See source for mcpServers config block"
+}

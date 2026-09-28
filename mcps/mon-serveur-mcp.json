@@ -1,0 +1,7 @@
+{
+  "name": "mon-serveur-mcp",
+  "description": "Exposes system tools (disk usage, file listing) and weather information via Open-Meteo to MCP-compatible LLMs.",
+  "source_repo": "JoachimDAVAL/Estiam_GenAI_MCP-",
+  "source_url": "https://github.com/JoachimDAVAL/Estiam_GenAI_MCP-",
+  "install": "# git clone --depth 1 https://github.com/JoachimDAVAL/Estiam_GenAI_MCP-\n# See source for mcpServers config block"
+}

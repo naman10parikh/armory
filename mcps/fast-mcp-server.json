@@ -1,0 +1,7 @@
+{
+  "name": "fast-mcp-server",
+  "description": "A modular MCP server built with FastAPI, exposing tools via HTTP endpoints with SSE streaming responses.",
+  "source_repo": "pablo-dutra6/MCP_SQL_Aloca-o",
+  "source_url": "https://github.com/pablo-dutra6/MCP_SQL_Aloca-o",
+  "install": "# git clone --depth 1 https://github.com/pablo-dutra6/MCP_SQL_Aloca-o\n# See source for mcpServers config block"
+}

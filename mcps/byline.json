@@ -1,0 +1,7 @@
+{
+  "name": "byline",
+  "description": "Enables AI tools to research, write, and publish finished blog posts to Ghost and WordPress in the user's voice, supporting multiple author personas and destinations through natural language.",
+  "source_repo": "indianic/byline",
+  "source_url": "https://github.com/indianic/byline",
+  "install": "# git clone --depth 1 https://github.com/indianic/byline\n# See source for mcpServers config block"
+}

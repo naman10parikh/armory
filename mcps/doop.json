@@ -1,0 +1,7 @@
+{
+  "name": "doop",
+  "description": "Provides read-only MCP tools for independently decoded WHOOP 4.0 health data, with confidence gates and minimum-disclosure safety for coaching agents.",
+  "source_repo": "sushrutb17/doop-showcase",
+  "source_url": "https://github.com/sushrutb17/doop-showcase",
+  "install": "# git clone --depth 1 https://github.com/sushrutb17/doop-showcase\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "querit-mcp-server",
+  "description": "Connects AI assistants to Querit for live web search and clean webpage content retrieval, supporting both anonymous access and bring-your-own-key authentication.",
+  "source_repo": "querit-ai/querit-mcp",
+  "source_url": "https://github.com/querit-ai/querit-mcp",
+  "install": "npx -y querit-mcp"
+}

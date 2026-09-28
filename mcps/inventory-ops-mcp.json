@@ -1,0 +1,7 @@
+{
+  "name": "inventory-ops-mcp",
+  "description": "A remotely hosted MCP server that lets ops personnel investigate and resolve inventory oversells without engineer involvement.",
+  "source_repo": "MohdSaquib114/inventory-mcp",
+  "source_url": "https://github.com/MohdSaquib114/inventory-mcp",
+  "install": "npx -y inventory-mcp"
+}

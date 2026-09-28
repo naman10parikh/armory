@@ -1,0 +1,7 @@
+{
+  "name": "gsc-analyst-connector",
+  "description": "Enables querying Google Search Console data via natural language, providing tools for site traffic analysis, page changes, and optimization opportunities.",
+  "source_repo": "angelsmolyaninova-design/gsc-analyst-connector",
+  "source_url": "https://github.com/angelsmolyaninova-design/gsc-analyst-connector",
+  "install": "# git clone --depth 1 https://github.com/angelsmolyaninova-design/gsc-analyst-connector\n# See source for mcpServers config block"
+}

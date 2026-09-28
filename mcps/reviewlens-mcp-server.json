@@ -1,0 +1,7 @@
+{
+  "name": "reviewlens-mcp-server",
+  "description": "Enables secure, explainable AI-assisted GitHub pull-request review by exposing seven read-only tools that collect deterministic evidence from PRs, separating retrieval from interpretation.",
+  "source_repo": "pgf3712/reviewlens-mcp",
+  "source_url": "https://github.com/pgf3712/reviewlens-mcp",
+  "install": "npx -y reviewlens-mcp"
+}

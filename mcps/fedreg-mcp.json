@@ -1,0 +1,7 @@
+{
+  "name": "fedreg-mcp",
+  "description": "An MCP server that provides AI agents with access to U.S. Federal Register rules and Regulations.gov public comments, enabling searches, rule retrieval, and comment fetching.",
+  "source_repo": "mehtaphysical13/fedreg-mcp",
+  "source_url": "https://github.com/mehtaphysical13/fedreg-mcp",
+  "install": "npx -y fedreg-mcp"
+}

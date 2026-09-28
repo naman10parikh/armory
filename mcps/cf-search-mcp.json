@@ -1,0 +1,7 @@
+{
+  "name": "cf-search-mcp",
+  "description": "A Cloudflare Worker MCP server that provides multi-engine search with fallback and web page fetching capabilities, supporting various search APIs and content extraction.",
+  "source_repo": "ferocknew/cf-search-mcp",
+  "source_url": "https://github.com/ferocknew/cf-search-mcp",
+  "install": "npx -y cf-search-mcp"
+}

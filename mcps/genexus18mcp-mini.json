@@ -1,0 +1,7 @@
+{
+  "name": "genexus18mcp-mini",
+  "description": "MCP server for GeneXus 18 that provides tools to open knowledge bases, list objects, and read object source code.",
+  "source_repo": "gefernandez32/genexus18mcp-gabo",
+  "source_url": "https://github.com/gefernandez32/genexus18mcp-gabo",
+  "install": "# git clone --depth 1 https://github.com/gefernandez32/genexus18mcp-gabo\n# See source for mcpServers config block"
+}

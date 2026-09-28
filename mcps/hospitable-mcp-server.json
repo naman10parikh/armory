@@ -1,0 +1,7 @@
+{
+  "name": "hospitable-mcp-server",
+  "description": "Connects Claude to the Hospitable API v2 for managing vacation rental properties, reservations, guest messages, and reviews.",
+  "source_repo": "FBRMike/hospitable-mcp",
+  "source_url": "https://github.com/FBRMike/hospitable-mcp",
+  "install": "npx -y hospitable-mcp"
+}

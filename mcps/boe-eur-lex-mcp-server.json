@@ -1,0 +1,7 @@
+{
+  "name": "boe-eur-lex-mcp-server",
+  "description": "Enables querying and analyzing Spanish (BOE) and EU (EUR-Lex) legal documents, with advanced search, PDF extraction, and cross-reference detection.",
+  "source_repo": "anamtb/boe-mcp",
+  "source_url": "https://github.com/anamtb/boe-mcp",
+  "install": "npx -y boe-mcp"
+}

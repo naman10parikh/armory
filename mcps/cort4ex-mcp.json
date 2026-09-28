@@ -1,0 +1,7 @@
+{
+  "name": "cort4ex-mcp",
+  "description": "Provides access to 224 battle-tested skills plus multi-agent orchestration, exposed as tools for Claude or Codex.",
+  "source_repo": "0xChampi/cort4ex-mcp",
+  "source_url": "https://github.com/0xChampi/cort4ex-mcp",
+  "install": "npx -y cort4ex-mcp"
+}

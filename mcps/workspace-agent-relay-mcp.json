@@ -1,0 +1,7 @@
+{
+  "name": "workspace-agent-relay-mcp",
+  "description": "A local relay and dashboard that enables ChatGPT Workspace Agents to stream real-time updates—plan, progress, tool calls, and results—back to the user's machine via MCP and SSE.",
+  "source_repo": "catoncat/workspace-agent-relay-mcp",
+  "source_url": "https://github.com/catoncat/workspace-agent-relay-mcp",
+  "install": "npx -y workspace-agent-relay-mcp"
+}

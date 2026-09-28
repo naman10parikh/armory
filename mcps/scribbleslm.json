@@ -1,0 +1,7 @@
+{
+  "name": "scribbleslm",
+  "description": "A self-hosted, notebook-scoped RAG pipeline with contextual retrieval, delivered as an MCP server. Enables ingestion of documents into named notebooks and semantic search returning raw ranked chunks.",
+  "source_repo": "elphamale/scribbleslm",
+  "source_url": "https://github.com/elphamale/scribbleslm",
+  "install": "# git clone --depth 1 https://github.com/elphamale/scribbleslm\n# See source for mcpServers config block"
+}

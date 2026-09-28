@@ -1,0 +1,7 @@
+{
+  "name": "whitney-museum-mcp-server",
+  "description": "Enables searching the Whitney Museum's public API for artworks, artists, exhibitions, events, and audio guides from any MCP client.",
+  "source_repo": "mildlydiverting/whitney-mcp-ts",
+  "source_url": "https://github.com/mildlydiverting/whitney-mcp-ts",
+  "install": "# git clone --depth 1 https://github.com/mildlydiverting/whitney-mcp-ts\n# See source for mcpServers config block"
+}

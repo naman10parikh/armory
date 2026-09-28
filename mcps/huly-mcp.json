@@ -1,0 +1,7 @@
+{
+  "name": "huly-mcp",
+  "description": "An MCP server that enables AI assistants to interact with Huly's project and document management platform, providing search and write actions for issues, milestones, and more.",
+  "source_repo": "MinaFikry/huly-mcp",
+  "source_url": "https://github.com/MinaFikry/huly-mcp",
+  "install": "npx -y huly-mcp"
+}

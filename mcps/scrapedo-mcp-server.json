@@ -1,0 +1,7 @@
+{
+  "name": "scrapedo-mcp-server",
+  "description": "Enables web scraping with JavaScript rendering, screenshots, and proxy support via the Scrapedo API, allowing Claude to scrape any website.",
+  "source_repo": "umutc/scrapedo-mcp-server",
+  "source_url": "https://github.com/umutc/scrapedo-mcp-server",
+  "install": "npx -y scrapedo-mcp-server"
+}

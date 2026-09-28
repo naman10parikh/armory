@@ -1,0 +1,7 @@
+{
+  "name": "protheus-chat-mcp-server",
+  "description": "MCP server that enables searching a TOTVS Protheus ERP knowledge base using vector similarity and reranking.",
+  "source_repo": "Straider2/protheus-mcp",
+  "source_url": "https://github.com/Straider2/protheus-mcp",
+  "install": "npx -y protheus-mcp"
+}

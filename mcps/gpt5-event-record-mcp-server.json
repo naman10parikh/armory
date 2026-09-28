@@ -1,0 +1,7 @@
+{
+  "name": "gpt5-event-record-mcp-server",
+  "description": "Provides tournament event records from the WaterPoker database with intelligent natural language filtering and multiple output formats.",
+  "source_repo": "twoutlook/Water_Gpt5EventRecordMcp",
+  "source_url": "https://github.com/twoutlook/Water_Gpt5EventRecordMcp",
+  "install": "# git clone --depth 1 https://github.com/twoutlook/Water_Gpt5EventRecordMcp\n# See source for mcpServers config block"
+}

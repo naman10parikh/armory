@@ -1,0 +1,7 @@
+{
+  "name": "jina-mcp-server",
+  "description": "Remote MCP server providing access to Jina Reader, Embeddings, and Reranker APIs for web content extraction, search, and AI-powered text processing.",
+  "source_repo": "liyixin21/jina-mcp",
+  "source_url": "https://github.com/liyixin21/jina-mcp",
+  "install": "npx -y jina-mcp"
+}

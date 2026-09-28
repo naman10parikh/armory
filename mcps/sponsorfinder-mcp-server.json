@@ -1,0 +1,7 @@
+{
+  "name": "sponsorfinder-mcp-server",
+  "description": "Checks whether a company holds a UK or Netherlands work-visa sponsorship licence via the SponsorFinder API.",
+  "source_repo": "alirezahamid/sponsor-finder-mcp",
+  "source_url": "https://github.com/alirezahamid/sponsor-finder-mcp",
+  "install": "npx -y sponsor-finder-mcp"
+}

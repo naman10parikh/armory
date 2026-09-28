@@ -1,0 +1,7 @@
+{
+  "name": "yunzai-mcp-plugin",
+  "description": "MCP server for Yunzai Bot that enables LLM-driven automated testing and debugging through mock messages, bot management, and system monitoring tools.",
+  "source_repo": "XuF-163/Yunzai-MCP-plugin",
+  "source_url": "https://github.com/XuF-163/Yunzai-MCP-plugin",
+  "install": "# git clone --depth 1 https://github.com/XuF-163/Yunzai-MCP-plugin\n# See source for mcpServers config block"
+}

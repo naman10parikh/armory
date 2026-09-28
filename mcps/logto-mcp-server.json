@@ -1,0 +1,7 @@
+{
+  "name": "logto-mcp-server",
+  "description": "Enables managing Logto resources (users, applications, organizations, roles) via MCP clients like Cursor or Claude Desktop.",
+  "source_repo": "KDunin/logto-mcp",
+  "source_url": "https://github.com/KDunin/logto-mcp",
+  "install": "npx -y logto-mcp"
+}

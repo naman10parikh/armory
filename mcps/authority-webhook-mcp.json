@@ -1,0 +1,7 @@
+{
+  "name": "authority-webhook-mcp",
+  "description": "Publishes normalized release notices to a configured webhook via MCP, with built-in validation, deterministic dry-run mode, and a clear boundary for authority gates.",
+  "source_repo": "boundarycraftlab/authority-webhook-mcp",
+  "source_url": "https://github.com/boundarycraftlab/authority-webhook-mcp",
+  "install": "npx -y authority-webhook-mcp"
+}

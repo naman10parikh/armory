@@ -1,0 +1,7 @@
+{
+  "name": "cox-automotive-mcp",
+  "description": "First MCP server for the auto-dealership vertical. Lets Claude, Cursor, or any MCP client read dealer accounts, look up manufacturer incentives, and manage inventory listings through the Cox Automotive / Dealer Developer Portal API.",
+  "source_repo": "sanjibani/cox-automotive-mcp",
+  "source_url": "https://github.com/sanjibani/cox-automotive-mcp",
+  "install": "npx -y cox-automotive-mcp"
+}

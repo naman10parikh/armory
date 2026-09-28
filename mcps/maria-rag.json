@@ -1,0 +1,7 @@
+{
+  "name": "maria-rag",
+  "description": "Enables fully local retrieval over a personal document corpus via hybrid search, cross-encoder reranking, RAPTOR summaries, and knowledge graph queries, served to AI agents over MCP.",
+  "source_repo": "CreateM1nd/agent-library",
+  "source_url": "https://github.com/CreateM1nd/agent-library",
+  "install": "# git clone --depth 1 https://github.com/CreateM1nd/agent-library\n# See source for mcpServers config block"
+}

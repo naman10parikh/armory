@@ -1,0 +1,7 @@
+{
+  "name": "trove-scot-mcp",
+  "description": "MCP server for Scotland's historic environment, providing tools to search, filter, count, and locate heritage sites, listed buildings, scheduled monuments, and properties in care using Historic Environment Scotland's open ArcGIS API. Supports natural language queries for castles, monuments, archaeol",
+  "source_repo": "Dthen/trove-scot-mcp",
+  "source_url": "https://github.com/Dthen/trove-scot-mcp",
+  "install": "npx -y trove-scot-mcp"
+}

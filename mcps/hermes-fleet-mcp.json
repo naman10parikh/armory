@@ -1,0 +1,7 @@
+{
+  "name": "hermes-fleet-mcp",
+  "description": "MCP server that routes Docker operations across a fleet of Docker hosts via the Scotty API.",
+  "source_repo": "MatsWeckhorst/hermes-fleet-mcp",
+  "source_url": "https://github.com/MatsWeckhorst/hermes-fleet-mcp",
+  "install": "npx -y hermes-fleet-mcp"
+}

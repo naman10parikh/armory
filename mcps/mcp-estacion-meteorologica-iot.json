@@ -1,0 +1,7 @@
+{
+  "name": "mcp-estacion-meteorologica-iot",
+  "description": "Exposes meteorological sensor data (temperature, humidity, pressure) from an IoT weather station via Supabase. Enables natural language queries for current readings, history, statistics, and alerts through MCP-compatible clients like Claude Desktop.",
+  "source_repo": "hh186011/mcp-estacion-meteorologica-iot",
+  "source_url": "https://github.com/hh186011/mcp-estacion-meteorologica-iot",
+  "install": "# git clone --depth 1 https://github.com/hh186011/mcp-estacion-meteorologica-iot\n# See source for mcpServers config block"
+}

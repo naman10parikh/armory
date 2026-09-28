@@ -1,0 +1,7 @@
+{
+  "name": "sec-ownership-graph",
+  "description": "MCP server for querying the SEC Ownership Graph, providing curated read-only tools to analyze activist campaigns, control chains, and board interlocks from SEC filings. Answers cite accession numbers and abstain when data is insufficient.",
+  "source_repo": "alexwoolford/sec-ownership-graph",
+  "source_url": "https://github.com/alexwoolford/sec-ownership-graph",
+  "install": "# git clone --depth 1 https://github.com/alexwoolford/sec-ownership-graph\n# See source for mcpServers config block"
+}

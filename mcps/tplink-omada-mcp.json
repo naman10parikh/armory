@@ -1,0 +1,7 @@
+{
+  "name": "tplink-omada-mcp",
+  "description": "Exposes TP-Link Omada controller APIs to AI copilots, enabling listing of sites, devices, and clients, and executing arbitrary Omada API calls via natural language.",
+  "source_repo": "MiguelTVMS/tplink-omada-mcp",
+  "source_url": "https://github.com/MiguelTVMS/tplink-omada-mcp",
+  "install": "npx -y tplink-omada-mcp"
+}

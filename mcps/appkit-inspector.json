@@ -1,0 +1,7 @@
+{
+  "name": "appkit-inspector",
+  "description": "Lets Codex inspect a live macOS AppKit interface through a debug-only bridge, without Accessibility or Screen Recording permissions, and maps clicks to NSViews with hierarchy and geometry details.",
+  "source_repo": "JaminZhou/AppKitInspector",
+  "source_url": "https://github.com/JaminZhou/AppKitInspector",
+  "install": "# git clone --depth 1 https://github.com/JaminZhou/AppKitInspector\n# See source for mcpServers config block"
+}

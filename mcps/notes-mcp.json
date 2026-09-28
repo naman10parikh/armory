@@ -1,0 +1,7 @@
+{
+  "name": "notes-mcp",
+  "description": "A simple MCP server for chatbot/human collaborative management of text content stored as markdown files with YAML frontmatter.",
+  "source_repo": "edvardlindelof/notes-mcp",
+  "source_url": "https://github.com/edvardlindelof/notes-mcp",
+  "install": "npx -y notes-mcp"
+}

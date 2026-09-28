@@ -1,0 +1,7 @@
+{
+  "name": "drive-relay-mcp",
+  "description": "Uploads a file that already exists on a persona container's local disk to Microsoft OneDrive/Graph without round-tripping the bytes through an MCP tool-call argument.",
+  "source_repo": "klapom/drive-relay-mcp",
+  "source_url": "https://github.com/klapom/drive-relay-mcp",
+  "install": "npx -y drive-relay-mcp"
+}

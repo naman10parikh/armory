@@ -1,0 +1,7 @@
+{
+  "name": "inkcheck",
+  "description": "MCP server for AI agents to compile, playtest, and exhaustively explore ink interactive fiction stories, catching compile errors, runtime errors, unreachable content, and verifying story structure.",
+  "source_repo": "chaoz23/inkcheck",
+  "source_url": "https://github.com/chaoz23/inkcheck",
+  "install": "# git clone --depth 1 https://github.com/chaoz23/inkcheck\n# See source for mcpServers config block"
+}

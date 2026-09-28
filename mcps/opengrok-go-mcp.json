@@ -1,0 +1,7 @@
+{
+  "name": "opengrok-go-mcp",
+  "description": "Source-code intelligence for agents, powered by OpenGrok and Go.",
+  "source_repo": "rokasklive/opengrok-go-mcp",
+  "source_url": "https://github.com/rokasklive/opengrok-go-mcp",
+  "install": "npx -y opengrok-go-mcp"
+}

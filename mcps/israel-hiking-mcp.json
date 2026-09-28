@@ -1,0 +1,7 @@
+{
+  "name": "israel-hiking-mcp",
+  "description": "An unofficial, read-only MCP server exposing Israel Hiking Map data, currently in early scaffolding with only a placeholder ping tool.",
+  "source_repo": "tisheldev/israel-hiking-mcp",
+  "source_url": "https://github.com/tisheldev/israel-hiking-mcp",
+  "install": "npx -y israel-hiking-mcp"
+}

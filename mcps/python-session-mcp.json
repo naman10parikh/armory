@@ -1,0 +1,7 @@
+{
+  "name": "python-session-mcp",
+  "description": "Enables LLM clients to run Python code in a persistent, user-selected interpreter via MCP, with tools for data loading, summaries, regressions, diagnostics, and plotting, while keeping sessions alive between calls and isolating crashes.",
+  "source_repo": "merwanroudane/mcp_python",
+  "source_url": "https://github.com/merwanroudane/mcp_python",
+  "install": "# git clone --depth 1 https://github.com/merwanroudane/mcp_python\n# See source for mcpServers config block"
+}

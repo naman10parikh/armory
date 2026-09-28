@@ -1,0 +1,7 @@
+{
+  "name": "cloudglue-mcp-server",
+  "description": "Connects AI assistants to Cloudglue for video analysis, enabling video description, entity extraction, chapter segmentation, and metadata retrieval from various sources like YouTube and cloud storage.",
+  "source_repo": "cloudglue/cloudglue-mcp-server",
+  "source_url": "https://github.com/cloudglue/cloudglue-mcp-server",
+  "install": "npx -y cloudglue-mcp-server"
+}

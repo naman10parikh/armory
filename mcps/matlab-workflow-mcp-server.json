@@ -1,0 +1,7 @@
+{
+  "name": "matlab-workflow-mcp-server",
+  "description": "Enables remote execution of MATLAB experiments via natural language, with tools for code execution, task management, file transfer, and system diagnostics.",
+  "source_repo": "will-bw/matlab-workflow-mcp",
+  "source_url": "https://github.com/will-bw/matlab-workflow-mcp",
+  "install": "npx -y matlab-workflow-mcp"
+}

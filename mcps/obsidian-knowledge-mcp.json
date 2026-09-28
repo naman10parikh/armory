@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-knowledge-mcp",
+  "description": "Enables hybrid vector-BM25 search and retrieval of Obsidian vault knowledge notes, allowing AI assistants like Claude to efficiently access relevant chunks without full file reads.",
+  "source_repo": "nekottyo/obsidian-knowledge-mcp",
+  "source_url": "https://github.com/nekottyo/obsidian-knowledge-mcp",
+  "install": "npx -y obsidian-knowledge-mcp"
+}

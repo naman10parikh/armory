@@ -1,0 +1,7 @@
+{
+  "name": "popmely",
+  "description": "popmely is a production-grade MCP server bridging MetaTrader 5 with LLMs. It enables AI-driven trading through real-time market data, SMC analysis, backtesting, autonomous order execution, and risk management.",
+  "source_repo": "JonusNattapong/popmely",
+  "source_url": "https://github.com/JonusNattapong/popmely",
+  "install": "# git clone --depth 1 https://github.com/JonusNattapong/popmely\n# See source for mcpServers config block"
+}

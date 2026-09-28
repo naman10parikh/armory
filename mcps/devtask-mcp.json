@@ -1,0 +1,7 @@
+{
+  "name": "devtask-mcp",
+  "description": "Enables AI agents to manage a task board by investigating needs, creating well-specified tasks, and executing them end-to-end.",
+  "source_repo": "KanoCifer/DevTaskMcp",
+  "source_url": "https://github.com/KanoCifer/DevTaskMcp",
+  "install": "# git clone --depth 1 https://github.com/KanoCifer/DevTaskMcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "moses-mcp",
+  "description": "Enables searching and browsing TU Berlin degree programs and modules from Moses' public Modulverzeichnis, including module details, exam types, and cross-program usage, without requiring login.",
+  "source_repo": "rjrichie/moses-mcp",
+  "source_url": "https://github.com/rjrichie/moses-mcp",
+  "install": "npx -y moses-mcp"
+}

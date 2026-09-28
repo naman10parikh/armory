@@ -1,0 +1,7 @@
+{
+  "name": "mirlo-mcp-server",
+  "description": "Connects AI assistants to Mirlo workspace for CRM, messaging, and voice operations.",
+  "source_repo": "MirloLLC/mirlo-mcp-server",
+  "source_url": "https://github.com/MirloLLC/mirlo-mcp-server",
+  "install": "npx -y mirlo-mcp-server"
+}

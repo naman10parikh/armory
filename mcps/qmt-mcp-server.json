@@ -1,0 +1,7 @@
+{
+  "name": "qmt-mcp-server",
+  "description": "Wraps the miniQMT interface to enable AI assistants to query A-share market data, account information, and place/cancel orders.",
+  "source_repo": "beamof/qmt-mcp-server",
+  "source_url": "https://github.com/beamof/qmt-mcp-server",
+  "install": "npx -y qmt-mcp-server"
+}

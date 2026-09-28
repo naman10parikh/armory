@@ -1,0 +1,7 @@
+{
+  "name": "site-forge-mcp",
+  "description": "An MCP server that accepts payments via Stripe and publishes websites on Netlify only after payment is confirmed, enforcing a strict paywall.",
+  "source_repo": "holeyfield33-art/Site-Forge-MCP",
+  "source_url": "https://github.com/holeyfield33-art/Site-Forge-MCP",
+  "install": "npx -y Site-Forge-MCP"
+}

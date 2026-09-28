@@ -1,0 +1,7 @@
+{
+  "name": "sqlite-read-only-mcp-server",
+  "description": "Enables safe, read-only SQL access to SQLite databases for AI agents, allowing schema exploration and SELECT queries with defense-in-depth protections.",
+  "source_repo": "skycandykey1/mcp-sqlite-server",
+  "source_url": "https://github.com/skycandykey1/mcp-sqlite-server",
+  "install": "# git clone --depth 1 https://github.com/skycandykey1/mcp-sqlite-server\n# See source for mcpServers config block"
+}

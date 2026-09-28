@@ -1,0 +1,7 @@
+{
+  "name": "hotmart-mcp-server",
+  "description": "Enables AI agents to manage Hotmart products, sales, and other operations through a standardized Model Context Protocol interface, integrating with Claude and other LLMs.",
+  "source_repo": "cajuflow/hotmart-mcp",
+  "source_url": "https://github.com/cajuflow/hotmart-mcp",
+  "install": "npx -y hotmart-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "joule-hr-mcp-server",
+  "description": "Exposes SAP SuccessFactors HR data as MCP tools for AI agents, enabling natural language queries about employees, jobs, performance, and organizational structure.",
+  "source_repo": "marcelofiorito/joule-sfsf-mcp",
+  "source_url": "https://github.com/marcelofiorito/joule-sfsf-mcp",
+  "install": "npx -y joule-sfsf-mcp"
+}

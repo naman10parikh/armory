@@ -1,0 +1,7 @@
+{
+  "name": "context-bunker-mcp",
+  "description": "An MCP server that indexes your codebase using tree-sitter AST parsing and gives AI tools instant access to structural intelligence like dependency graphs, call trees, and dead code detection from a local SQLite database.",
+  "source_repo": "tonghaoch/context-bunker-mcp",
+  "source_url": "https://github.com/tonghaoch/context-bunker-mcp",
+  "install": "npx -y context-bunker-mcp"
+}

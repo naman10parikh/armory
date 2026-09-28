@@ -1,0 +1,7 @@
+{
+  "name": "nseap-mcp",
+  "description": "Enables local deliverable checks and a submission-review-notification workflow for the NSEAP education platform via stdio MCP, integrating with Cogseed.",
+  "source_repo": "a976xw7td/nseap-mcp",
+  "source_url": "https://github.com/a976xw7td/nseap-mcp",
+  "install": "npx -y nseap-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-local-prompt-server",
+  "description": "An MCP server that dynamically registers prompt templates from local files and serves them to clients with the assistant role.",
+  "source_repo": "engrtipusultan/mcp-local-prompt-server",
+  "source_url": "https://github.com/engrtipusultan/mcp-local-prompt-server",
+  "install": "# git clone --depth 1 https://github.com/engrtipusultan/mcp-local-prompt-server\n# See source for mcpServers config block"
+}

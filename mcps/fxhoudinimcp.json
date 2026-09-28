@@ -1,0 +1,7 @@
+{
+  "name": "fxhoudinimcp",
+  "description": "Comprehensive MCP server for SideFX Houdini, offering 168 tools across 19 categories to enable natural-language control of scene building, simulation, rendering, and more via AI assistants.",
+  "source_repo": "healkeiser/fxhoudinimcp",
+  "source_url": "https://github.com/healkeiser/fxhoudinimcp",
+  "install": "# git clone --depth 1 https://github.com/healkeiser/fxhoudinimcp\n# See source for mcpServers config block"
+}

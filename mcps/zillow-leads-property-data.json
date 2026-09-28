@@ -1,0 +1,7 @@
+{
+  "name": "zillow-leads-property-data",
+  "description": "an actor pulls Zillow listings enriched with agent/broker contact info, full price-history timelines, 20yr+ tax history, foreclosure/distress flags, schools, and the resoFacts long tail (heating/cooling/construction).",
+  "source_repo": "kmatata/zillow-leads-property-data",
+  "source_url": "https://github.com/kmatata/zillow-leads-property-data",
+  "install": "# git clone --depth 1 https://github.com/kmatata/zillow-leads-property-data\n# See source for mcpServers config block"
+}

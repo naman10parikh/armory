@@ -1,0 +1,7 @@
+{
+  "name": "voidmob-mcp",
+  "description": "Provides 28 tools for mobile proxies, non-VoIP SMS verifications, dedicated numbers, and global eSIMs, enabling AI agents to perform phone-related tasks.",
+  "source_repo": "voidmobcom/voidmob-mcp",
+  "source_url": "https://github.com/voidmobcom/voidmob-mcp",
+  "install": "npx -y voidmob-mcp"
+}

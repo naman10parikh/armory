@@ -1,0 +1,7 @@
+{
+  "name": "mcp-taiwan-judgment-search",
+  "description": "Enables searching and retrieving Taiwan judicial judgments, including full-text search, document details, PDF download, and legal term lookup via MCP tools.",
+  "source_repo": "asgard-ai-platform/mcp-tw-judgment",
+  "source_url": "https://github.com/asgard-ai-platform/mcp-tw-judgment",
+  "install": "# git clone --depth 1 https://github.com/asgard-ai-platform/mcp-tw-judgment\n# See source for mcpServers config block"
+}

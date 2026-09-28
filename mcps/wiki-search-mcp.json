@@ -1,0 +1,7 @@
+{
+  "name": "wiki-search-mcp",
+  "description": "A zero-config personal knowledge management MCP server that enables Claude Desktop to automatically classify, search, and organize local Markdown notes using hybrid search and Graph RAG.",
+  "source_repo": "jin7942/wiki-search-mcp",
+  "source_url": "https://github.com/jin7942/wiki-search-mcp",
+  "install": "npx -y wiki-search-mcp"
+}

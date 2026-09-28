@@ -1,0 +1,7 @@
+{
+  "name": "gemini-research-mcp-server",
+  "description": "MCP server for AI-powered research using Gemini. Provides fast grounded web search, deep autonomous research, URL extraction, and session management.",
+  "source_repo": "machinemates-ai/gemini-research-mcp",
+  "source_url": "https://github.com/machinemates-ai/gemini-research-mcp",
+  "install": "npx -y gemini-research-mcp"
+}

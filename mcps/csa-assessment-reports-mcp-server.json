@@ -1,0 +1,7 @@
+{
+  "name": "csa-assessment-reports-mcp-server",
+  "description": "Enables Bob AI to access and analyze Cloudability Savings Automation assessment reports stored in SharePoint, allowing users to create pitch decks, analyze savings projections, and compare coverage through natural language.",
+  "source_repo": "sKumaraguru/apptio-bobathon-2026-finbob-mcp-server",
+  "source_url": "https://github.com/sKumaraguru/apptio-bobathon-2026-finbob-mcp-server",
+  "install": "npx -y apptio-bobathon-2026-finbob-mcp-server"
+}

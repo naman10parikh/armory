@@ -1,0 +1,7 @@
+{
+  "name": "wbrowser",
+  "description": "Enables AI assistants and terminals to control a user's already logged-in Chrome session, allowing them to navigate pages, read content, click and type, run JavaScript, and inspect console or network activity.",
+  "source_repo": "w-partners/Wbrowser",
+  "source_url": "https://github.com/w-partners/Wbrowser",
+  "install": "# git clone --depth 1 https://github.com/w-partners/Wbrowser\n# See source for mcpServers config block"
+}

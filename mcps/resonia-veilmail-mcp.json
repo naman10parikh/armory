@@ -1,0 +1,7 @@
+{
+  "name": "resonia-veilmail-mcp",
+  "description": "A Model Context Protocol (MCP) server that exposes Veil Mail API operations as tools for AI agents, enabling email sending, template management, audience management, and analytics retrieval through natural language.",
+  "source_repo": "Resonia-Health/veilmail-mcp",
+  "source_url": "https://github.com/Resonia-Health/veilmail-mcp",
+  "install": "npx -y veilmail-mcp"
+}

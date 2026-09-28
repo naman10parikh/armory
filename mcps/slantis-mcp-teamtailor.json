@@ -1,0 +1,7 @@
+{
+  "name": "slantis-mcp-teamtailor",
+  "description": "Full-coverage, read-only MCP server for the Teamtailor recruitment API. Exposes 18 tools covering candidates, jobs, applications, offers, stages, departments, locations, users, and activities with strict input validation.",
+  "source_repo": "slantis/mcp-teamtailor",
+  "source_url": "https://github.com/slantis/mcp-teamtailor",
+  "install": "# git clone --depth 1 https://github.com/slantis/mcp-teamtailor\n# See source for mcpServers config block"
+}

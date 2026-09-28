@@ -1,0 +1,7 @@
+{
+  "name": "askcyborg-mcp",
+  "description": "Search and retrieve AI company research, analyst-debate audio briefings, and proprietary Cyborg Score (1-10) from AskCyborg directly through MCP clients.",
+  "source_repo": "Ask-Cyborg/askcyborg-mcp",
+  "source_url": "https://github.com/Ask-Cyborg/askcyborg-mcp",
+  "install": "npx -y askcyborg-mcp"
+}

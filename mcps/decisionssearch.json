@@ -1,0 +1,7 @@
+{
+  "name": "decisionssearch",
+  "description": "Provides persistent hybrid memory (Neo4j + Qdrant) for AI agents, enabling durable recall of decisions, business rules, and code patterns across sessions, plus autonomous CI/CD error investigation.",
+  "source_repo": "Renzo-Tognella/DecisionsSearch",
+  "source_url": "https://github.com/Renzo-Tognella/DecisionsSearch",
+  "install": "# git clone --depth 1 https://github.com/Renzo-Tognella/DecisionsSearch\n# See source for mcpServers config block"
+}

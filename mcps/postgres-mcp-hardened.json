@@ -1,0 +1,7 @@
+{
+  "name": "postgres-mcp-hardened",
+  "description": "A drop-in Model Context Protocol (MCP) server that lets an AI agent query PostgreSQL — read-only, enforced at the database level, with real SQL validation, timeouts, cost limits, OAuth 2.1, and an audit trail.",
+  "source_repo": "Eszetael/postgres-mcp-hardened",
+  "source_url": "https://github.com/Eszetael/postgres-mcp-hardened",
+  "install": "# git clone --depth 1 https://github.com/Eszetael/postgres-mcp-hardened\n# See source for mcpServers config block"
+}

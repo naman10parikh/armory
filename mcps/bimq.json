@@ -1,0 +1,7 @@
+{
+  "name": "bimq",
+  "description": "Read-only BIM query server for agents: structured, policy-bounded queries on IFC/gbXML models with deterministic cited results.",
+  "source_repo": "aec-platform/bimq",
+  "source_url": "https://github.com/aec-platform/bimq",
+  "install": "# git clone --depth 1 https://github.com/aec-platform/bimq\n# See source for mcpServers config block"
+}

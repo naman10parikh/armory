@@ -1,0 +1,7 @@
+{
+  "name": "gitpulse-mcp",
+  "description": "Exposes GitHub engineering-analytics tools to LLM clients, enabling queries about code review bottlenecks, stale PRs, and commit hygiene.",
+  "source_repo": "mahi397/gitpulse-mcp",
+  "source_url": "https://github.com/mahi397/gitpulse-mcp",
+  "install": "npx -y gitpulse-mcp"
+}

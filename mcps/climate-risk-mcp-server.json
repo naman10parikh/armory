@@ -1,0 +1,7 @@
+{
+  "name": "climate-risk-mcp-server",
+  "description": "Provides AI agents with access to CO2 emissions data, climate projections, and risk assessments for heat, flooding, and drought, supporting ESG analysis and CSRD compliance.",
+  "source_repo": "AiAgentKarl/climate-risk-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/climate-risk-mcp-server",
+  "install": "npx -y climate-risk-mcp-server"
+}

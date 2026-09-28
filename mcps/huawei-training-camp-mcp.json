@@ -1,0 +1,7 @@
+{
+  "name": "huawei-training-camp-mcp",
+  "description": "Enables AI clients to query and analyze Huawei Health data, including training records, sleep, heart rate, and athletic performance, through 14 MCP tools without third-party servers.",
+  "source_repo": "yinxu-xiong/huawei-training-camp-mcp-connector",
+  "source_url": "https://github.com/yinxu-xiong/huawei-training-camp-mcp-connector",
+  "install": "# git clone --depth 1 https://github.com/yinxu-xiong/huawei-training-camp-mcp-connector\n# See source for mcpServers config block"
+}

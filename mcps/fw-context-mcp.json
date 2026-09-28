@@ -1,0 +1,7 @@
+{
+  "name": "fw-context-mcp",
+  "description": "Exposes tools for AI assistants to query a persistent SQLite+FTS5 index of C/C++ symbols parsed from real build commands, enabling sub-millisecond lookup, full-text search, and natural-language explanation without hallucination.",
+  "source_repo": "turbyho/fw-context-mcp",
+  "source_url": "https://github.com/turbyho/fw-context-mcp",
+  "install": "npx -y fw-context-mcp"
+}

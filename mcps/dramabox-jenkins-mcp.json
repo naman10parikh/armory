@@ -1,0 +1,7 @@
+{
+  "name": "dramabox-jenkins-mcp",
+  "description": "Jenkins HOT/QAT deployment assistant MCP server that enables agents to locate jobs, check branches, perform safe deployments with overwrite protection, and rollback deployments via natural language.",
+  "source_repo": "sun-jingtao/dramabox-jenkins-mcp",
+  "source_url": "https://github.com/sun-jingtao/dramabox-jenkins-mcp",
+  "install": "npx -y dramabox-jenkins-mcp"
+}

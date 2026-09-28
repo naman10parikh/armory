@@ -1,0 +1,7 @@
+{
+  "name": "zipmem-mcp",
+  "description": "local-first long-term memory for MCP agents (no DB, no API keys)",
+  "source_repo": "ahmetakyurt/zipmem-mcp",
+  "source_url": "https://github.com/ahmetakyurt/zipmem-mcp",
+  "install": "npx -y zipmem-mcp"
+}

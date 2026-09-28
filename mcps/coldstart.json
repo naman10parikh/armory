@@ -1,0 +1,7 @@
+{
+  "name": "coldstart",
+  "description": "coldstart gives coding agents durable memory of a specific codebase, with no embeddings, no vector store, and no API key. Agents write notes after real tasks — what a file is for, how a flow spans files, which invariants hold — and those notes are surfaced automatically to a later session whose task",
+  "source_repo": "AkashGoenka/coldstart",
+  "source_url": "https://github.com/AkashGoenka/coldstart",
+  "install": "# git clone --depth 1 https://github.com/AkashGoenka/coldstart\n# See source for mcpServers config block"
+}

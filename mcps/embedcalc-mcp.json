@@ -1,0 +1,7 @@
+{
+  "name": "embedcalc-mcp",
+  "description": "MCP server providing embedded engineering calculators and code generators as tools for AI agents, enabling precise, deterministic embedded math and C code generation.",
+  "source_repo": "ethan-hub26/embedcalc-mcp",
+  "source_url": "https://github.com/ethan-hub26/embedcalc-mcp",
+  "install": "npx -y embedcalc-mcp"
+}

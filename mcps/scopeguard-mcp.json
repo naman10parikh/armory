@@ -1,0 +1,7 @@
+{
+  "name": "scopeguard-mcp",
+  "description": "Enables policy-first defensive security operations for MCP, providing repository and web-security analysis with controlled authorization, scoped execution, and auditability.",
+  "source_repo": "mzatylny/scopeguard-mcp",
+  "source_url": "https://github.com/mzatylny/scopeguard-mcp",
+  "install": "npx -y scopeguard-mcp"
+}

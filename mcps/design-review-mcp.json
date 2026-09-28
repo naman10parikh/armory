@@ -1,0 +1,7 @@
+{
+  "name": "design-review-mcp",
+  "description": "Multi-model adversarial design review MCP server that distributes design documents to multiple LLMs, retrieves project knowledge, and produces calibrated consensus summaries.",
+  "source_repo": "fanghaoling/design-review-mcp",
+  "source_url": "https://github.com/fanghaoling/design-review-mcp",
+  "install": "npx -y design-review-mcp"
+}

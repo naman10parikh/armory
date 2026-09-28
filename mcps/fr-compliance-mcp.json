@@ -1,0 +1,7 @@
+{
+  "name": "fr-compliance-mcp",
+  "description": "French compliance and KYC MCP server offering VAT validation (VIES), BODACC legal announcements, and company risk scoring using open data.",
+  "source_repo": "AgentIA1984-cmd/fr-compliance-mcp",
+  "source_url": "https://github.com/AgentIA1984-cmd/fr-compliance-mcp",
+  "install": "npx -y fr-compliance-mcp"
+}

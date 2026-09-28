@@ -1,0 +1,7 @@
+{
+  "name": "comfy-mcp",
+  "description": "MCP server that enables AI agents to control a local ComfyUI instance for image generation, allowing workflow understanding, parameter modification, execution, and model discovery.",
+  "source_repo": "cuzelac/comfy-mcp",
+  "source_url": "https://github.com/cuzelac/comfy-mcp",
+  "install": "npx -y comfy-mcp"
+}

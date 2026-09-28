@@ -1,0 +1,7 @@
+{
+  "name": "kappaml-mcp-server",
+  "description": "Exposes the KappaML API as tools for AI assistants, enabling user management, model operations, predictions, learning, forecasting, metrics, and checkpoint management.",
+  "source_repo": "KappaML/kappaml-mcp",
+  "source_url": "https://github.com/KappaML/kappaml-mcp",
+  "install": "npx -y kappaml-mcp"
+}

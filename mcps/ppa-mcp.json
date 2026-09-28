@@ -1,0 +1,7 @@
+{
+  "name": "ppa-mcp",
+  "description": "Anti-procrastination MCP server using ClickUp for task management. Enables capture, planning, micro-steps, and reflection through tools and prompts.",
+  "source_repo": "angelkurten/ppa-mcp",
+  "source_url": "https://github.com/angelkurten/ppa-mcp",
+  "install": "npx -y ppa-mcp"
+}

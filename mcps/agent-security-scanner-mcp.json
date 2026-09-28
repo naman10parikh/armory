@@ -1,0 +1,7 @@
+{
+  "name": "agent-security-scanner-mcp",
+  "description": "A security scanner for AI coding agents and autonomous assistants that scans code for vulnerabilities, detects hallucinated packages, blocks prompt injection, and provides LLM-powered semantic code review via MCP or CLI.",
+  "source_repo": "sinewaveai/agent-security-scanner-mcp",
+  "source_url": "https://github.com/sinewaveai/agent-security-scanner-mcp",
+  "install": "npx -y agent-security-scanner-mcp"
+}

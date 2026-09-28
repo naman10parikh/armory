@@ -1,0 +1,7 @@
+{
+  "name": "google-play-store-cli-mcp",
+  "description": "MCP server for automating Google Play Android app management - releases, reviews, listings, and monetization via natural language or CLI.",
+  "source_repo": "appeeky/google-play-console-cli",
+  "source_url": "https://github.com/appeeky/google-play-console-cli",
+  "install": "# git clone --depth 1 https://github.com/appeeky/google-play-console-cli\n# See source for mcpServers config block"
+}

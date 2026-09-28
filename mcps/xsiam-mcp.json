@@ -1,0 +1,7 @@
+{
+  "name": "xsiam-mcp",
+  "description": "Exposes the entire Palo Alto Cortex XSIAM REST API (129 operations across 26 categories) as MCP tools, plus composite tools like xql_query for AI agents to search and investigate security data.",
+  "source_repo": "CoveoSec/xsiam-mcp",
+  "source_url": "https://github.com/CoveoSec/xsiam-mcp",
+  "install": "npx -y xsiam-mcp"
+}

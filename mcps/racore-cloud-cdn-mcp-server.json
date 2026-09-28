@@ -1,0 +1,7 @@
+{
+  "name": "racore-cloud-cdn-mcp-server",
+  "description": "Enables AI assistants to manage Racore Cloud CDN accelerated domains, including domain operations, configuration, certificate management, content management, statistics, and work orders.",
+  "source_repo": "yingcaihuang/racorecloud-mcp",
+  "source_url": "https://github.com/yingcaihuang/racorecloud-mcp",
+  "install": "npx -y racorecloud-mcp"
+}

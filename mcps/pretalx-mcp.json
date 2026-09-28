@@ -1,0 +1,7 @@
+{
+  "name": "pretalx-mcp",
+  "description": "Local MCP server for pretalx that enables read-only access to events, submissions, speakers, schedule, and optionally reviews via stdio transport.",
+  "source_repo": "kevinnz/pretalx-local-mcp",
+  "source_url": "https://github.com/kevinnz/pretalx-local-mcp",
+  "install": "npx -y pretalx-local-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "custom-mcp-server-with-rag-tools",
+  "description": "Enables notes management, weather and news search, document ingestion and RAG-based semantic search using GroundX, with OpenAI GPT integration for summarization and completions.",
+  "source_repo": "KaushalprajapatiKP/custom-MCP-servers",
+  "source_url": "https://github.com/KaushalprajapatiKP/custom-MCP-servers",
+  "install": "# git clone --depth 1 https://github.com/KaushalprajapatiKP/custom-MCP-servers\n# See source for mcpServers config block"
+}

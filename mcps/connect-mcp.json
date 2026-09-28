@@ -1,0 +1,7 @@
+{
+  "name": "connect-mcp",
+  "description": "An Obsidian plugin that runs an MCP server, enabling AI agents to read, edit, search notes, and run Dataview queries in your vault.",
+  "source_repo": "joch/obsidian-connect-mcp",
+  "source_url": "https://github.com/joch/obsidian-connect-mcp",
+  "install": "npx -y obsidian-connect-mcp"
+}

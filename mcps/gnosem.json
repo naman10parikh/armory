@@ -1,0 +1,7 @@
+{
+  "name": "gnosem",
+  "description": "Cross-vendor AI memory over MCP. Provides a persistent memory store with tools to write, search, list, forget, and supersede memories from any MCP-capable AI client.",
+  "source_repo": "gnosem/gnosem",
+  "source_url": "https://github.com/gnosem/gnosem",
+  "install": "# git clone --depth 1 https://github.com/gnosem/gnosem\n# See source for mcpServers config block"
+}

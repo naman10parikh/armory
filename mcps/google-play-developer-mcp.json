@@ -1,0 +1,7 @@
+{
+  "name": "google-play-developer-mcp",
+  "description": "The complete MCP server for Google Play, offering 150 tools to fully control Android Publisher API v3 and Play Developer Reporting API v1beta1.",
+  "source_repo": "devinwang/google-play-developer-mcp",
+  "source_url": "https://github.com/devinwang/google-play-developer-mcp",
+  "install": "npx -y google-play-developer-mcp"
+}

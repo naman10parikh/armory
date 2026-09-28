@@ -1,0 +1,7 @@
+{
+  "name": "ctfd-mcp",
+  "description": "Enables users to list CTFd challenges, read details, start/stop dynamic Docker instances, and submit flags through natural language.",
+  "source_repo": "AaryaBhusal/ctfd-mcp",
+  "source_url": "https://github.com/AaryaBhusal/ctfd-mcp",
+  "install": "npx -y ctfd-mcp"
+}

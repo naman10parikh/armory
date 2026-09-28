@@ -1,0 +1,7 @@
+{
+  "name": "timelib-mcp",
+  "description": "Enables AI agents to manage products, inventory, collections, orders, and customers in a Medusa v2 store via the Admin API.",
+  "source_repo": "oumaru894/-timelib-mcp",
+  "source_url": "https://github.com/oumaru894/-timelib-mcp",
+  "install": "npx -y -timelib-mcp"
+}

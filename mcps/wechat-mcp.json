@@ -1,0 +1,7 @@
+{
+  "name": "wechat-mcp",
+  "description": "An MCP server for sending and receiving WeChat messages, built on Tencent's iLink bot protocol.",
+  "source_repo": "jimingyuan7/wechat-mcp",
+  "source_url": "https://github.com/jimingyuan7/wechat-mcp",
+  "install": "npx -y wechat-mcp"
+}

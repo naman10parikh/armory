@@ -1,0 +1,7 @@
+{
+  "name": "almanac-mcp-server",
+  "description": "Self-hosted fitness tracking MCP server that gives AI assistants access to your nutrition, training, weight, sleep, and accomplishment data via 77 tools and 5 resources. Enables natural-language logging and querying of personal health metrics through Claude or ChatGPT.",
+  "source_repo": "corcoran/almanac",
+  "source_url": "https://github.com/corcoran/almanac",
+  "install": "# git clone --depth 1 https://github.com/corcoran/almanac\n# See source for mcpServers config block"
+}

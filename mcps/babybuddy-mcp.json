@@ -1,0 +1,7 @@
+{
+  "name": "babybuddy-mcp",
+  "description": "Connect AI assistants to your Baby Buddy instance to log and query feedings, sleep, diaper changes, and more.",
+  "source_repo": "babybuddy/babybuddy-mcp",
+  "source_url": "https://github.com/babybuddy/babybuddy-mcp",
+  "install": "npx -y babybuddy-mcp"
+}

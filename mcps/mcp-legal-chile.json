@@ -1,0 +1,7 @@
+{
+  "name": "mcp-legal-chile",
+  "description": "Connects AI assistants to Chilean legal sources, enabling citation of official legal texts, search of doctrine, jurisprudence, and rulings.",
+  "source_repo": "gabrielperezibacache/mcp-legal-chile",
+  "source_url": "https://github.com/gabrielperezibacache/mcp-legal-chile",
+  "install": "# git clone --depth 1 https://github.com/gabrielperezibacache/mcp-legal-chile\n# See source for mcpServers config block"
+}

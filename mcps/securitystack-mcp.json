@@ -1,0 +1,7 @@
+{
+  "name": "securitystack-mcp",
+  "description": "Unified MCP server that gives AI agents security tools to audit MCP configs, redact secrets/PII, vet skills, check dependencies, and scan networks.",
+  "source_repo": "securityscan-api/securitystack-mcp",
+  "source_url": "https://github.com/securityscan-api/securitystack-mcp",
+  "install": "npx -y securitystack-mcp"
+}

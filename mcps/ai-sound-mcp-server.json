@@ -1,0 +1,7 @@
+{
+  "name": "ai-sound-mcp-server",
+  "description": "Enables AI assistants to programmatically edit, analyze, and export audio projects through MCP tools, including multi-track editing, effects, transcription, and semantic search.",
+  "source_repo": "tjameswilliams/ai-sound",
+  "source_url": "https://github.com/tjameswilliams/ai-sound",
+  "install": "# git clone --depth 1 https://github.com/tjameswilliams/ai-sound\n# See source for mcpServers config block"
+}

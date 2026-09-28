@@ -1,0 +1,7 @@
+{
+  "name": "apple-ads-mcp-server",
+  "description": "An MCP server for the Apple Ads Platform API that exposes 99 operations across all resources through four token-efficient tools. It enables AI agents to read and write campaigns, ad groups, keywords, creatives, budgets, reports, and more.",
+  "source_repo": "imfaisii/apple-ads-mcp",
+  "source_url": "https://github.com/imfaisii/apple-ads-mcp",
+  "install": "npx -y apple-ads-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentic-swiggy-mcp-server",
+  "description": "MCP server that mimics a food delivery assistant, enabling natural language ordering, personalized recommendations, order tracking, and review/policy queries via a LangGraph ReAct agent with human-in-the-loop approval.",
+  "source_repo": "Ichibu013/Swiggy-Agentic-MCP",
+  "source_url": "https://github.com/Ichibu013/Swiggy-Agentic-MCP",
+  "install": "npx -y Swiggy-Agentic-MCP"
+}

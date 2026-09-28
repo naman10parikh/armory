@@ -1,0 +1,7 @@
+{
+  "name": "set-agent-comm",
+  "description": "Enables local agent-to-agent messaging between Claude Code sessions via file-based channels, with a registry, MCP tools and CLI for sending, reading, and tracking messages.",
+  "source_repo": "tatargabor/set-agent-comm",
+  "source_url": "https://github.com/tatargabor/set-agent-comm",
+  "install": "# git clone --depth 1 https://github.com/tatargabor/set-agent-comm\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qwen-vision-mcp",
+  "description": "Enables text-only LLMs to see images on demand by integrating Qwen vision models via MCP, supporting stateful multi-turn conversations with automatic history trimming.",
+  "source_repo": "wafo210715/qwen-vision-mcp",
+  "source_url": "https://github.com/wafo210715/qwen-vision-mcp",
+  "install": "npx -y qwen-vision-mcp"
+}

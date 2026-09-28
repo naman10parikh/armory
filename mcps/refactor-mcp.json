@@ -1,0 +1,7 @@
+{
+  "name": "refactor-mcp",
+  "description": "A Model Context Protocol (MCP) server for automated refactoring of Java and TypeScript/JavaScript codebases.",
+  "source_repo": "egn88/refactor-mcp",
+  "source_url": "https://github.com/egn88/refactor-mcp",
+  "install": "npx -y refactor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wow-vanilla-mcp",
+  "description": "Enables AI assistants to search and retrieve documentation for Vanilla World of Warcraft Lua APIs, including function signatures, categories, protected flags, and addon scaffolding.",
+  "source_repo": "David-J-Shibley/wow-vanilla-mcp",
+  "source_url": "https://github.com/David-J-Shibley/wow-vanilla-mcp",
+  "install": "npx -y wow-vanilla-mcp"
+}

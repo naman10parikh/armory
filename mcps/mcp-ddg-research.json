@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ddg-research",
+  "description": "Lightweight MCP server for DuckDuckGo search with HTML fallback, safe webpage fetching, caching, and clean text extraction.",
+  "source_repo": "isyuricunha/mcp-ddg-research",
+  "source_url": "https://github.com/isyuricunha/mcp-ddg-research",
+  "install": "# git clone --depth 1 https://github.com/isyuricunha/mcp-ddg-research\n# See source for mcpServers config block"
+}

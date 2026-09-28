@@ -1,0 +1,7 @@
+{
+  "name": "financial-reports-mcp-server",
+  "description": "An MCP server that provides tools and resources to access company financial filings, industry classifications, and related data via the Financial Reports API.",
+  "source_repo": "itisaevalex/financial-reports-mcp-server",
+  "source_url": "https://github.com/itisaevalex/financial-reports-mcp-server",
+  "install": "npx -y financial-reports-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hellio-messaging-mcp-server",
+  "description": "Exposes the Hellio Messaging API as MCP tools for SMS, OTP, voice, HLR lookup, email verification, balance, pricing, webhooks, and USSD operations.",
+  "source_repo": "HellioSolutions/hellio-mcp",
+  "source_url": "https://github.com/HellioSolutions/hellio-mcp",
+  "install": "npx -y hellio-mcp"
+}

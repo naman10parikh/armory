@@ -1,0 +1,7 @@
+{
+  "name": "rfq-siemens-teamcenter-mcp",
+  "description": "Enables Phase 1 upload-to-Teamcenter-draft workflow with file validation, extraction, similarity search, BQ drafting, document generation, approval, and save, including a deterministic mock mode for demos.",
+  "source_repo": "Cialfor-Research-Labs/RFQ_SIEMENS_Teamcenter_MCP",
+  "source_url": "https://github.com/Cialfor-Research-Labs/RFQ_SIEMENS_Teamcenter_MCP",
+  "install": "npx -y RFQ_SIEMENS_Teamcenter_MCP"
+}

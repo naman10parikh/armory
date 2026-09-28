@@ -1,0 +1,7 @@
+{
+  "name": "hospital-clinical-intelligence-mcp-platform",
+  "description": "Integrates healthcare data from multiple sources (HL7 v2, FHIR, DICOM, device telemetry) and provides clinicians with secure, role-based access to patient context, care unit summaries, device events, diagnostic exams, and other clinical data through specialized MCP tools.",
+  "source_repo": "ShaikHafiz-1/HIS_Infra_MCP",
+  "source_url": "https://github.com/ShaikHafiz-1/HIS_Infra_MCP",
+  "install": "npx -y HIS_Infra_MCP"
+}

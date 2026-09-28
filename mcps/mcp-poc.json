@@ -1,0 +1,7 @@
+{
+  "name": "mcp-poc",
+  "description": "A minimal MCP server with four tools (add, greet, text_stats, divide) demonstrating typed parameters, structured outputs, and error handling over stdio transport.",
+  "source_repo": "RenoLu/mcp-poc",
+  "source_url": "https://github.com/RenoLu/mcp-poc",
+  "install": "# git clone --depth 1 https://github.com/RenoLu/mcp-poc\n# See source for mcpServers config block"
+}

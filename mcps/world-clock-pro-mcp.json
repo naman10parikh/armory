@@ -1,0 +1,7 @@
+{
+  "name": "world-clock-pro-mcp",
+  "description": "A read-only MCP server that gives AI agents accurate current time, timezone conversions, DST transitions, and city lookups using live IANA timezone data, with cited sources.",
+  "source_repo": "worldclockpro/worldclock-mcp",
+  "source_url": "https://github.com/worldclockpro/worldclock-mcp",
+  "install": "npx -y worldclock-mcp"
+}

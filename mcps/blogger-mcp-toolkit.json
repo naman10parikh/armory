@@ -1,0 +1,7 @@
+{
+  "name": "blogger-mcp-toolkit",
+  "description": "An MCP server for managing Google Blogger blogs, posts, pages, comments, and media via the Blogger API v3. Includes OAuth authentication, Base64 image embedding, and lightweight listing modes.",
+  "source_repo": "RadouaneElarfaoui/blogger-mcp-toolkit",
+  "source_url": "https://github.com/RadouaneElarfaoui/blogger-mcp-toolkit",
+  "install": "# git clone --depth 1 https://github.com/RadouaneElarfaoui/blogger-mcp-toolkit\n# See source for mcpServers config block"
+}

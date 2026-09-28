@@ -1,0 +1,7 @@
+{
+  "name": "dossin-mcp-server",
+  "description": "Enables natural language interaction with the Dossin database system, allowing users to query trucking and logistics data, execute SQL queries, and compile React components via the backend API.",
+  "source_repo": "dossincargas/dossin__mcp",
+  "source_url": "https://github.com/dossincargas/dossin__mcp",
+  "install": "npx -y dossin__mcp"
+}

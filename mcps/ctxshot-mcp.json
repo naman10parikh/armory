@@ -1,0 +1,7 @@
+{
+  "name": "ctxshot-mcp",
+  "description": "A lightweight MCP server that provides project briefing tools (session_brief, pack_context) for AI agents to quickly understand project structure with low token cost, replacing manual context pasting.",
+  "source_repo": "G12789/ctxshot-mcp",
+  "source_url": "https://github.com/G12789/ctxshot-mcp",
+  "install": "npx -y ctxshot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-lighter",
+  "description": "Exposes Lighter DEX data (volume, points, rank, liquidity, airdrop eligibility) as MCP tools, letting LLM agents query wallet farming stats in natural language. Read-only, no keys required, works with Claude, Cursor, and Cline.",
+  "source_repo": "isabelpapaya/MCP-Server-Lighter",
+  "source_url": "https://github.com/isabelpapaya/MCP-Server-Lighter",
+  "install": "# git clone --depth 1 https://github.com/isabelpapaya/MCP-Server-Lighter\n# See source for mcpServers config block"
+}

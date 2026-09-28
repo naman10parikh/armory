@@ -1,0 +1,7 @@
+{
+  "name": "rayzia-mcp",
+  "description": "Enables AI agents to drive a live SVG/vector editor, allowing a full observe-and-act loop on a canvas with real tools, state reading, and PNG rendering.",
+  "source_repo": "RayziaOfficial/rayzia-mcp",
+  "source_url": "https://github.com/RayziaOfficial/rayzia-mcp",
+  "install": "npx -y rayzia-mcp"
+}

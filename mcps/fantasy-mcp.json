@@ -1,0 +1,7 @@
+{
+  "name": "fantasy-mcp",
+  "description": "Multi-agent parlay optimization system using CrewAI to analyze games, evaluate props, and construct optimal parlay combinations.",
+  "source_repo": "mattarm/fantasy_mcp",
+  "source_url": "https://github.com/mattarm/fantasy_mcp",
+  "install": "npx -y fantasy_mcp"
+}

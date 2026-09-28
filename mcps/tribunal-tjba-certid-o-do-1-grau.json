@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tjba-certid-o-do-1-grau",
+  "description": "Enables consultation of first-degree court certificates from the Tribunal de Justiça da Bahia (TJBA) through an official source, with read-only access and pay-per-use credits.",
+  "source_repo": "mcp-dir/tribunal_tjba_primeiro_grau-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tjba_primeiro_grau-mcp",
+  "install": "npx -y tribunal_tjba_primeiro_grau-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wd-tagger-mcp",
+  "description": "A WD Tagger MCP server that generates image tags from base64 or URL inputs, returning general, character, rating tags and a prompt.",
+  "source_repo": "Jeric-X/wd_tagger_mcp",
+  "source_url": "https://github.com/Jeric-X/wd_tagger_mcp",
+  "install": "npx -y wd_tagger_mcp"
+}

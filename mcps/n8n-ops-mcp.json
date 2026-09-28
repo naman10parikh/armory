@@ -1,0 +1,7 @@
+{
+  "name": "n8n-ops-mcp",
+  "description": "Provides ops-focused n8n tools for MCP-compatible agents, enabling listing, inspecting, triggering, validating, managing tags, running security audits, and safely editing n8n workflows with auto-backup and confirm gates.",
+  "source_repo": "solomonneas/n8n-ops-mcp",
+  "source_url": "https://github.com/solomonneas/n8n-ops-mcp",
+  "install": "npx -y n8n-ops-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "usuarios",
+  "description": "Creates synthetic user profiles from research data to validate service designs through natural conversation.",
+  "source_repo": "Sebtiago/usuarios-mcp",
+  "source_url": "https://github.com/Sebtiago/usuarios-mcp",
+  "install": "npx -y usuarios-mcp"
+}

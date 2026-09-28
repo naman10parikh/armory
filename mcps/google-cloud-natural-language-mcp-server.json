@@ -1,0 +1,7 @@
+{
+  "name": "google-cloud-natural-language-mcp-server",
+  "description": "Enables Claude to analyze sentiment, extract entities, classify content, and analyze syntax via Google Cloud Natural Language API.",
+  "source_repo": "Pacamaraprogress/naturallanguageapimcp",
+  "source_url": "https://github.com/Pacamaraprogress/naturallanguageapimcp",
+  "install": "# git clone --depth 1 https://github.com/Pacamaraprogress/naturallanguageapimcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "understanding-mcp",
+  "description": "A zero-dependency Node.js playground for debugging how MCP clients authenticate to an MCP server over HTTP.",
+  "source_repo": "igagansingh/understanding-mcp",
+  "source_url": "https://github.com/igagansingh/understanding-mcp",
+  "install": "npx -y understanding-mcp"
+}

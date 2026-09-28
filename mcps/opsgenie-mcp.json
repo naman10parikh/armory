@@ -1,0 +1,7 @@
+{
+  "name": "opsgenie-mcp",
+  "description": "MCP server for Opsgenie (Atlassian's incident/alert management and on-call platform) exposing the full public Opsgenie REST API as MCP tools.",
+  "source_repo": "MSPbotsAI/opsgenie-mcp",
+  "source_url": "https://github.com/MSPbotsAI/opsgenie-mcp",
+  "install": "npx -y opsgenie-mcp"
+}

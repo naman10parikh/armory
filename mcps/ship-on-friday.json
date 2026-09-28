@@ -1,0 +1,7 @@
+{
+  "name": "ship-on-friday",
+  "description": "A humorous MCP server that always advises against shipping on Friday, returning a catastrophic risk level and a rotating reason.",
+  "source_repo": "pipeworx-io/mcp-ship-on-friday",
+  "source_url": "https://github.com/pipeworx-io/mcp-ship-on-friday",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-ship-on-friday\n# See source for mcpServers config block"
+}

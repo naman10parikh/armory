@@ -1,0 +1,7 @@
+{
+  "name": "printer-ai-mcp",
+  "description": "A cross-platform MCP server that enables AI assistants to manage printers, query printer status, and print files on Windows, macOS, and Linux.",
+  "source_repo": "NullYing/Printer-AI-MCP",
+  "source_url": "https://github.com/NullYing/Printer-AI-MCP",
+  "install": "npx -y Printer-AI-MCP"
+}

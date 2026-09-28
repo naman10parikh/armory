@@ -1,0 +1,7 @@
+{
+  "name": "nexlink-telecom-mcp-server",
+  "description": "Enables natural language interaction with telecom network operations data via MCP, providing read-only insights and role-gated write operations such as bandwidth upgrades, with progress tracking and human-in-the-loop elicitation.",
+  "source_repo": "mohesham100/Nexlink-Telecom-B-",
+  "source_url": "https://github.com/mohesham100/Nexlink-Telecom-B-",
+  "install": "# git clone --depth 1 https://github.com/mohesham100/Nexlink-Telecom-B-\n# See source for mcpServers config block"
+}

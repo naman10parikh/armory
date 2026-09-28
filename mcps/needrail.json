@@ -1,0 +1,7 @@
+{
+  "name": "needrail",
+  "description": "MCP server for need coordination, enabling agents to discover, fund, claim, and complete Needs with x402 payments and provenance tracking.",
+  "source_repo": "ANAMIZED/needrail",
+  "source_url": "https://github.com/ANAMIZED/needrail",
+  "install": "# git clone --depth 1 https://github.com/ANAMIZED/needrail\n# See source for mcpServers config block"
+}

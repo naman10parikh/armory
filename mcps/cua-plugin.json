@@ -1,0 +1,7 @@
+{
+  "name": "cua-plugin",
+  "description": "MCP server that enables agents to control native GUI apps by snapshotting accessibility trees and performing actions like click, type, and scroll without bringing the app to the foreground.",
+  "source_repo": "protoLabsAI/cua-plugin",
+  "source_url": "https://github.com/protoLabsAI/cua-plugin",
+  "install": "# git clone --depth 1 https://github.com/protoLabsAI/cua-plugin\n# See source for mcpServers config block"
+}

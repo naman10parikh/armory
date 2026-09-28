@@ -1,0 +1,7 @@
+{
+  "name": "commerce-validators",
+  "description": "Provides real validation and live registry lookups for ecommerce and fintech workflows, including EU VAT, EORI, email domain, IBAN, ABA routing, and GTIN checks.",
+  "source_repo": "vajdap/commerce-validators-mcp",
+  "source_url": "https://github.com/vajdap/commerce-validators-mcp",
+  "install": "npx -y commerce-validators-mcp"
+}

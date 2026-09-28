@@ -1,0 +1,7 @@
+{
+  "name": "devuniverse-mcp",
+  "description": "An autonomous virtual software agency MCP server that generates production-grade software projects from a description, with 27 senior personas debating and cross-examining every artifact.",
+  "source_repo": "joeshwoa/devuniverse-mcp",
+  "source_url": "https://github.com/joeshwoa/devuniverse-mcp",
+  "install": "npx -y devuniverse-mcp"
+}

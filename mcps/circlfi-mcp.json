@@ -1,0 +1,7 @@
+{
+  "name": "circlfi-mcp",
+  "description": "Enables AI assistants to fetch intrinsic valuations and screen US equities using CirclFi's institutional-grade valuation models.",
+  "source_repo": "negm17111995/Circlfi-MCP",
+  "source_url": "https://github.com/negm17111995/Circlfi-MCP",
+  "install": "npx -y Circlfi-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ga4-mcp-worker",
+  "description": "Enables querying Google Analytics 4 data from Claude via a secure, read-only Cloudflare Workers MCP server with per-user OAuth sign-in, requiring no local installation.",
+  "source_repo": "prashantdasari-tech/ga4-mcp-worker",
+  "source_url": "https://github.com/prashantdasari-tech/ga4-mcp-worker",
+  "install": "# git clone --depth 1 https://github.com/prashantdasari-tech/ga4-mcp-worker\n# See source for mcpServers config block"
+}

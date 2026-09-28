@@ -1,0 +1,7 @@
+{
+  "name": "robot-md-mcp",
+  "description": "A one-command MCP server that bridges a ROBOT.md file to any MCP-aware agent, exposing structured robot manifest resources and validation tools without configuration.",
+  "source_repo": "RobotRegistryFoundation/robot-md-mcp",
+  "source_url": "https://github.com/RobotRegistryFoundation/robot-md-mcp",
+  "install": "npx -y robot-md-mcp"
+}

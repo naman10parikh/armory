@@ -1,0 +1,7 @@
+{
+  "name": "jarvis-mcp",
+  "description": "Enables voice conversations with AI assistants directly in the browser, supporting 30+ languages and remote access from any device.",
+  "source_repo": "shantur/jarvis-mcp",
+  "source_url": "https://github.com/shantur/jarvis-mcp",
+  "install": "npx -y jarvis-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mpp32-mcp-server",
+  "description": "MCP server that allows AI agents to discover and pay for thousands of APIs (x402 on Solana/Base) using a single key, with automatic payment handling and a federated catalog of machine-payable endpoints.",
+  "source_repo": "MPP32/MPP32",
+  "source_url": "https://github.com/MPP32/MPP32",
+  "install": "# git clone --depth 1 https://github.com/MPP32/MPP32\n# See source for mcpServers config block"
+}

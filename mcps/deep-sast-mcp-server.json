@@ -1,0 +1,7 @@
+{
+  "name": "deep-sast-mcp-server",
+  "description": "Provides deterministic, 100%-file-coverage security findings by running Semgrep, gitleaks, and osv-scanner on code repositories, enabling thorough security assessment of every file.",
+  "source_repo": "piyushptiwari/github_code_assessment_mcp",
+  "source_url": "https://github.com/piyushptiwari/github_code_assessment_mcp",
+  "install": "npx -y github_code_assessment_mcp"
+}

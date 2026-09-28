@@ -1,0 +1,7 @@
+{
+  "name": "whisper-transcribe-mcp",
+  "description": "MCP server for audio transcription using local faster-whisper or OpenAI Whisper API, enabling multilingual transcription with optional GPT post-processing.",
+  "source_repo": "ZahiriNatZuke/whisper-transcribe-mcp",
+  "source_url": "https://github.com/ZahiriNatZuke/whisper-transcribe-mcp",
+  "install": "npx -y whisper-transcribe-mcp"
+}

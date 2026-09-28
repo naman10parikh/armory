@@ -1,0 +1,7 @@
+{
+  "name": "dfhack-mcp",
+  "description": "An MCP server that exposes a live Dwarf Fortress fort to an AI agent as a small set of curated, semantic tools — a fortress co-pilot and early-warning advisor, not an autopilot. It provides read-only sensors and reference tools to observe the game state and retrieve game data.",
+  "source_repo": "alexanderolvera/dfhack-mcp",
+  "source_url": "https://github.com/alexanderolvera/dfhack-mcp",
+  "install": "npx -y dfhack-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-race-engineer",
+  "description": "MCP server that provides F1 telemetry analysis, tyre degradation modeling, and pit strategy recommendations, delivering race engineer-style calls grounded in real data. It exposes tools for degradation fits, fuel correction, and strategy reasoning via LangGraph.",
+  "source_repo": "fayazhussain2821/AI_Race_Engineer",
+  "source_url": "https://github.com/fayazhussain2821/AI_Race_Engineer",
+  "install": "# git clone --depth 1 https://github.com/fayazhussain2821/AI_Race_Engineer\n# See source for mcpServers config block"
+}

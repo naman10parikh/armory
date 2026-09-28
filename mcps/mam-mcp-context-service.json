@@ -1,0 +1,7 @@
+{
+  "name": "mam-mcp-context-service",
+  "description": "Enables querying context about the MAM product components and architecture through MCP, allowing agents to retrieve targeted product information on demand instead of loading full documentation.",
+  "source_repo": "Imprivata-MAM/MAM-MCP-Context-Service",
+  "source_url": "https://github.com/Imprivata-MAM/MAM-MCP-Context-Service",
+  "install": "# git clone --depth 1 https://github.com/Imprivata-MAM/MAM-MCP-Context-Service\n# See source for mcpServers config block"
+}

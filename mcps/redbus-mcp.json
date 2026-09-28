@@ -1,0 +1,7 @@
+{
+  "name": "redbus-mcp",
+  "description": "Enables natural language queries for interprovincial bus schedules, cities, and seat maps in Peru via RedBus, without booking or payment.",
+  "source_repo": "paulxcz/redbus-mcp",
+  "source_url": "https://github.com/paulxcz/redbus-mcp",
+  "install": "npx -y redbus-mcp"
+}

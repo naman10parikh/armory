@@ -1,0 +1,7 @@
+{
+  "name": "company-tech-profiler-remote",
+  "description": "Remote MCP server for company tech profiling. It exposes tools for DNS, domain registration, SSL, website fingerprinting, IP/cloud provider, subdomains, and company analysis using public data without API keys.",
+  "source_repo": "rodrigohenriquemkt-lab/MCP-consulta-infra",
+  "source_url": "https://github.com/rodrigohenriquemkt-lab/MCP-consulta-infra",
+  "install": "# git clone --depth 1 https://github.com/rodrigohenriquemkt-lab/MCP-consulta-infra\n# See source for mcpServers config block"
+}

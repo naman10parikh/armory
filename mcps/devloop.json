@@ -1,0 +1,7 @@
+{
+  "name": "devloop",
+  "description": "Drives a browser - or a native Expo/React Native app - and your dev server, putting both on one correlated timeline so a console error and the backend stack trace from the same moment line up. For Claude Code and AI agents.",
+  "source_repo": "vincentvella/devloop",
+  "source_url": "https://github.com/vincentvella/devloop",
+  "install": "# git clone --depth 1 https://github.com/vincentvella/devloop\n# See source for mcpServers config block"
+}

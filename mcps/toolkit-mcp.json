@@ -1,0 +1,7 @@
+{
+  "name": "toolkit-mcp",
+  "description": "An MCP server offering developer utilities including JSON validation, base64 encoding, timestamp conversion, and hashing, built with a clean architecture for easy extensibility.",
+  "source_repo": "pyofart/ticker-mcp",
+  "source_url": "https://github.com/pyofart/ticker-mcp",
+  "install": "npx -y ticker-mcp"
+}

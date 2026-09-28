@@ -1,0 +1,7 @@
+{
+  "name": "deploytest-mcp-server",
+  "description": "Enables AI agents to run reusable Playwright test fixtures against live deployments, providing structured test results, screenshots, and assertions.",
+  "source_repo": "benhuckvale/deploytest",
+  "source_url": "https://github.com/benhuckvale/deploytest",
+  "install": "# git clone --depth 1 https://github.com/benhuckvale/deploytest\n# See source for mcpServers config block"
+}

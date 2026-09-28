@@ -1,0 +1,7 @@
+{
+  "name": "kakaotalk-mcp",
+  "description": "Controls KakaoTalk PC via Win32 API, enabling message sending, reading, and chat room management through MCP clients like Claude Desktop.",
+  "source_repo": "kronenz/kakaotalk-mcp",
+  "source_url": "https://github.com/kronenz/kakaotalk-mcp",
+  "install": "npx -y kakaotalk-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "substack-saved-mcp",
+  "description": "A local MCP server for managing saved Substack posts. Enables offline reading, searching, bookmarking, and unbookmarking of Substack content via CLI or MCP clients.",
+  "source_repo": "toniher/substack-saved-mcp",
+  "source_url": "https://github.com/toniher/substack-saved-mcp",
+  "install": "npx -y substack-saved-mcp"
+}

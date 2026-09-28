@@ -1,0 +1,7 @@
+{
+  "name": "gibeon-mcp-server",
+  "description": "MCP server for the Gibeon digital signage platform. Control your players, manage playlists, and trigger publishes from any MCP-aware client.",
+  "source_repo": "gibeon-io/mcp-server",
+  "source_url": "https://github.com/gibeon-io/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/gibeon-io/mcp-server\n# See source for mcpServers config block"
+}

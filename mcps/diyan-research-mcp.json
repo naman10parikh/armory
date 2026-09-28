@@ -1,0 +1,7 @@
+{
+  "name": "diyan-research-mcp",
+  "description": "Read-only MCP server that provides enterprise research frameworks, frozen snapshots, and historical factor summaries with sources and falsification conditions, without trading advice.",
+  "source_repo": "mikeli20221102-ux/diyan-research-mcp",
+  "source_url": "https://github.com/mikeli20221102-ux/diyan-research-mcp",
+  "install": "npx -y diyan-research-mcp"
+}

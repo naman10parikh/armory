@@ -1,0 +1,7 @@
+{
+  "name": "redis-mcp",
+  "description": "Enables exploring and diagnosing a Redis instance from MCP clients with read-only safety, using SCAN instead of KEYS for safe key enumeration.",
+  "source_repo": "YawLabs/redis-mcp",
+  "source_url": "https://github.com/YawLabs/redis-mcp",
+  "install": "npx -y redis-mcp"
+}

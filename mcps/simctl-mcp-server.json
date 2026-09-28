@@ -1,0 +1,7 @@
+{
+  "name": "simctl-mcp-server",
+  "description": "Provides structured access to iOS Simulator management via xcrun simctl commands, enabling device, app, media, and testing operations through natural language.",
+  "source_repo": "nzrsky/simctl-mcp-server",
+  "source_url": "https://github.com/nzrsky/simctl-mcp-server",
+  "install": "npx -y simctl-mcp-server"
+}

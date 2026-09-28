@@ -1,0 +1,7 @@
+{
+  "name": "novada-mcp",
+  "description": "One MCP server. All web data. Search, scrape, crawl, proxy, and AI research — in a single npx command.",
+  "source_repo": "NovadaLabs/novada-mcp",
+  "source_url": "https://github.com/NovadaLabs/novada-mcp",
+  "install": "npx -y novada-mcp"
+}

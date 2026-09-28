@@ -1,0 +1,7 @@
+{
+  "name": "cdk-serverless-mcp-server",
+  "description": "A minimal MCP server deployed on AWS Lambda and API Gateway using AWS CDK, enabling tool execution via JSON-RPC (e.g., an add tool).",
+  "source_repo": "eleva/cdk-serverless-mcp-server",
+  "source_url": "https://github.com/eleva/cdk-serverless-mcp-server",
+  "install": "npx -y cdk-serverless-mcp-server"
+}

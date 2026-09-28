@@ -1,0 +1,7 @@
+{
+  "name": "dsers-mcp-server",
+  "description": "Official DSers MCP Server enabling AI-powered dropshipping automation, including product search, import, optimization, and supplier replacement.",
+  "source_repo": "dsers/dsers-mcp-server",
+  "source_url": "https://github.com/dsers/dsers-mcp-server",
+  "install": "npx -y dsers-mcp-server"
+}

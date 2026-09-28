@@ -1,0 +1,7 @@
+{
+  "name": "origo-mcp",
+  "description": "Provides AI agents with administrator-level control of the Origo Abroad platform via 56 MCP tools wrapping its REST API for students, CRM, loans, and more.",
+  "source_repo": "origo742-cpu/origo-mcp",
+  "source_url": "https://github.com/origo742-cpu/origo-mcp",
+  "install": "npx -y origo-mcp"
+}

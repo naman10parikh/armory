@@ -1,0 +1,7 @@
+{
+  "name": "pontal-mcp",
+  "description": "Remote MCP server exposing Monday.com tools for leads and work namespaces via streamable HTTP, enabling Claude agents to list leads/jobs and get updates.",
+  "source_repo": "mtrajano/pontal-mcp",
+  "source_url": "https://github.com/mtrajano/pontal-mcp",
+  "install": "npx -y pontal-mcp"
+}

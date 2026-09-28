@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-fly",
+  "description": "A reusable MCP server for Fly.io offering utility tools including weather, web search, text processing, time conversion, and more.",
+  "source_repo": "kushalkachari993-dev/mcp-server-fly",
+  "source_url": "https://github.com/kushalkachari993-dev/mcp-server-fly",
+  "install": "# git clone --depth 1 https://github.com/kushalkachari993-dev/mcp-server-fly\n# See source for mcpServers config block"
+}

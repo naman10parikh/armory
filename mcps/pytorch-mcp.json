@@ -1,0 +1,7 @@
+{
+  "name": "pytorch-mcp",
+  "description": "A full-featured MCP server for PyTorch documentation workflows, providing tools for search, symbol lookup, code examples, troubleshooting, and question-answering using local docs.",
+  "source_repo": "BitingSnakes/pytorch-mcp",
+  "source_url": "https://github.com/BitingSnakes/pytorch-mcp",
+  "install": "npx -y pytorch-mcp"
+}

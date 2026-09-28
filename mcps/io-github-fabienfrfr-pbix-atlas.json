@@ -1,0 +1,7 @@
+{
+  "name": "io-github-fabienfrfr-pbix-atlas",
+  "description": "Provides full lineage graph analysis for Power BI .pbix files, enabling source-to-visual-field traversal. Exposes REST and MCP endpoints for building, searching, and exporting lineage graphs.",
+  "source_repo": "fabienfrfr/pbix-atlas",
+  "source_url": "https://github.com/fabienfrfr/pbix-atlas",
+  "install": "# git clone --depth 1 https://github.com/fabienfrfr/pbix-atlas\n# See source for mcpServers config block"
+}

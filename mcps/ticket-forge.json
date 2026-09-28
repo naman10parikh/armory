@@ -1,0 +1,7 @@
+{
+  "name": "ticket-forge",
+  "description": "MCP server that parses stack traces and logs to generate deduplicated issue drafts with severity, repro steps, and owner guesses.",
+  "source_repo": "SanjoyDat1/ticket-forge",
+  "source_url": "https://github.com/SanjoyDat1/ticket-forge",
+  "install": "# git clone --depth 1 https://github.com/SanjoyDat1/ticket-forge\n# See source for mcpServers config block"
+}

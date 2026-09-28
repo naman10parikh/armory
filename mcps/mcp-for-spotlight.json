@@ -1,0 +1,7 @@
+{
+  "name": "mcp-for-spotlight",
+  "description": "An MCP server that exposes macOS Spotlight search as tools, wrapping mdfind and mdls to provide full-text and metadata file search across the system.",
+  "source_repo": "shaack/mcp-for-spotlight",
+  "source_url": "https://github.com/shaack/mcp-for-spotlight",
+  "install": "# git clone --depth 1 https://github.com/shaack/mcp-for-spotlight\n# See source for mcpServers config block"
+}

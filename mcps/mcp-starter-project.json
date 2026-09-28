@@ -1,0 +1,7 @@
+{
+  "name": "mcp-starter-project",
+  "description": "This MCP server powers a chat CLI for Claude or Gemini, letting users reference local documents by ID and execute MCP prompts through natural language.",
+  "source_repo": "brijeshp09/MCP-Learning",
+  "source_url": "https://github.com/brijeshp09/MCP-Learning",
+  "install": "# git clone --depth 1 https://github.com/brijeshp09/MCP-Learning\n# See source for mcpServers config block"
+}

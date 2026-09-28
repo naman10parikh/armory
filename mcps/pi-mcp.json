@@ -1,0 +1,7 @@
+{
+  "name": "pi-mcp",
+  "description": "MCP server for Raspberry Pi exposing tools for host health checks, shell execution, and Docker container restarts over authenticated HTTP.",
+  "source_repo": "Lukewtye/pi-mcp",
+  "source_url": "https://github.com/Lukewtye/pi-mcp",
+  "install": "npx -y pi-mcp"
+}

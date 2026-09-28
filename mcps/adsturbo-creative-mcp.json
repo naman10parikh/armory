@@ -1,0 +1,7 @@
+{
+  "name": "adsturbo-creative-mcp",
+  "description": "A local-only MCP server for AI video ad planning. It helps AI agents build video ad briefs, hooks, UGC scripts, storyboards, variation plans, script reviews, and AdsTurbo-ready prompts without calling AdsTurbo internal services.",
+  "source_repo": "AdsTurbo/adsturbo-creative-mcp",
+  "source_url": "https://github.com/AdsTurbo/adsturbo-creative-mcp",
+  "install": "npx -y adsturbo-creative-mcp"
+}

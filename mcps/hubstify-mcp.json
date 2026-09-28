@@ -1,0 +1,7 @@
+{
+  "name": "hubstify-mcp",
+  "description": "MCP server enabling natural language interaction with Hubstaff data, including organizations, projects, members, tasks, and tracked-time activities.",
+  "source_repo": "farce1/hubstify-mcp",
+  "source_url": "https://github.com/farce1/hubstify-mcp",
+  "install": "npx -y hubstify-mcp"
+}

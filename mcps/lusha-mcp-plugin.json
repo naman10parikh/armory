@@ -1,0 +1,7 @@
+{
+  "name": "lusha-mcp-plugin",
+  "description": "Enables AI assistants to find and enrich B2B contacts and companies with verified contact details and buying signals using Lusha's API.",
+  "source_repo": "lusha-oss/lusha-mcp-plugin",
+  "source_url": "https://github.com/lusha-oss/lusha-mcp-plugin",
+  "install": "# git clone --depth 1 https://github.com/lusha-oss/lusha-mcp-plugin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-oauth-on-cloudflare-workers",
+  "description": "Stateless Streamable HTTP MCP endpoint with OAuth 2.1 authentication via Cloudflare Workers, supporting PKCE, DCR, and token introspection.",
+  "source_repo": "thiskevinwang/mcp-and-oidc",
+  "source_url": "https://github.com/thiskevinwang/mcp-and-oidc",
+  "install": "# git clone --depth 1 https://github.com/thiskevinwang/mcp-and-oidc\n# See source for mcpServers config block"
+}

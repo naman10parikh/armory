@@ -1,0 +1,7 @@
+{
+  "name": "jangada-docs-mcp",
+  "description": "Enables AI assistants to access the complete documentation of the jangada library, ensuring they write code using the correct and current API without guessing function names or parameters.",
+  "source_repo": "nerigleston/jangada-docs-mcp",
+  "source_url": "https://github.com/nerigleston/jangada-docs-mcp",
+  "install": "npx -y jangada-docs-mcp"
+}

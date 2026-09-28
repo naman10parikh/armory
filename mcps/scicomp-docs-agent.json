@@ -1,0 +1,7 @@
+{
+  "name": "scicomp-docs-agent",
+  "description": "MCP server for searching and querying Aalto SciComp documentation (Triton HPC guides). Provides tools for finding pages, reading docs, and searching content, usable by any MCP client without an LLM API key.",
+  "source_repo": "AaltoSciComp/scicomp-docs-assistant",
+  "source_url": "https://github.com/AaltoSciComp/scicomp-docs-assistant",
+  "install": "# git clone --depth 1 https://github.com/AaltoSciComp/scicomp-docs-assistant\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "i18next-mcp-server",
+  "description": "Enables AI assistants to manage i18next translation files, including adding keys, syncing missing translations, and analyzing coverage.",
+  "source_repo": "gtrias/i18next-mcp-server",
+  "source_url": "https://github.com/gtrias/i18next-mcp-server",
+  "install": "npx -y i18next-mcp-server"
+}

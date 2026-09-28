@@ -1,0 +1,7 @@
+{
+  "name": "computer-index",
+  "description": "A personal file-indexing MCP server that provides semantic and keyword search over a file index, plus file content lookup and browsing. It enables agents to search and retrieve files from a user's home directory.",
+  "source_repo": "DeclanFinerty/mcp-pc-index",
+  "source_url": "https://github.com/DeclanFinerty/mcp-pc-index",
+  "install": "# git clone --depth 1 https://github.com/DeclanFinerty/mcp-pc-index\n# See source for mcpServers config block"
+}

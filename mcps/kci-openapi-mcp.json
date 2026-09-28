@@ -1,0 +1,7 @@
+{
+  "name": "kci-openapi-mcp",
+  "description": "Enables searching and harvesting Korean Citation Index literature, citation indices, and references via REST API and OAI-PMH.",
+  "source_repo": "rubato103/KCI_openAPI",
+  "source_url": "https://github.com/rubato103/KCI_openAPI",
+  "install": "# git clone --depth 1 https://github.com/rubato103/KCI_openAPI\n# See source for mcpServers config block"
+}

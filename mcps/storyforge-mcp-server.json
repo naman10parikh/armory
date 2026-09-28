@@ -1,0 +1,7 @@
+{
+  "name": "storyforge-mcp-server",
+  "description": "Enables AI clients to create and manage Jira tickets for Agile backlog items through natural language commands, integrating structured backlog generation with Jira board actions.",
+  "source_repo": "ankushchaudhari203-commits/storyforge",
+  "source_url": "https://github.com/ankushchaudhari203-commits/storyforge",
+  "install": "# git clone --depth 1 https://github.com/ankushchaudhari203-commits/storyforge\n# See source for mcpServers config block"
+}

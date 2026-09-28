@@ -1,0 +1,7 @@
+{
+  "name": "mcp-powerbi",
+  "description": "Enables discovery of Power BI workspaces and semantic models via REST API and Microsoft Modeling MCP, with authentication options including service principal and device login.",
+  "source_repo": "nguyenanhducdeveloper86/mcp-powerBI",
+  "source_url": "https://github.com/nguyenanhducdeveloper86/mcp-powerBI",
+  "install": "# git clone --depth 1 https://github.com/nguyenanhducdeveloper86/mcp-powerBI\n# See source for mcpServers config block"
+}

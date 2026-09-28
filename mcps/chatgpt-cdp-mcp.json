@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-cdp-mcp",
+  "description": "MCP server that turns one authenticated ChatGPT browser page into a bounded MCP server, exposing tools for creating, listing, searching, exporting, sending, editing chats and downloading media via a CDP driver.",
+  "source_repo": "megamen32/chatgpt-cdp-mcp",
+  "source_url": "https://github.com/megamen32/chatgpt-cdp-mcp",
+  "install": "npx -y chatgpt-cdp-mcp"
+}

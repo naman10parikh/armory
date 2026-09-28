@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-mcp-ui-automation",
+  "description": "Automates Salesforce via browser using Playwright with persistent session. Supports Data Cloud, Setup, and other UI-only areas through generic tools.",
+  "source_repo": "Deviank88/Salesforce-MCP-UI-Automation",
+  "source_url": "https://github.com/Deviank88/Salesforce-MCP-UI-Automation",
+  "install": "# git clone --depth 1 https://github.com/Deviank88/Salesforce-MCP-UI-Automation\n# See source for mcpServers config block"
+}

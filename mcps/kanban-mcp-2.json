@@ -1,0 +1,7 @@
+{
+  "name": "kanban-mcp-2",
+  "description": "An MCP server that provides a database-backed kanban board with 40+ tools for AI agents to track issues, features, todos, epics, and diary entries across projects, including status workflows, relationships, and semantic search.",
+  "source_repo": "multidimensionalcats/kanban-mcp",
+  "source_url": "https://github.com/multidimensionalcats/kanban-mcp",
+  "install": "npx -y kanban-mcp"
+}

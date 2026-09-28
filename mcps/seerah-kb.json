@@ -1,0 +1,7 @@
+{
+  "name": "seerah-kb",
+  "description": "Enables users to ask questions about the life of Prophet Muhammad ﷺ and get answers grounded in four scholarly books, fully offline and free.",
+  "source_repo": "Fezicles/seerah-knowledge-base",
+  "source_url": "https://github.com/Fezicles/seerah-knowledge-base",
+  "install": "# git clone --depth 1 https://github.com/Fezicles/seerah-knowledge-base\n# See source for mcpServers config block"
+}

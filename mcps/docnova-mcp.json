@@ -1,0 +1,7 @@
+{
+  "name": "docnova-mcp",
+  "description": "MCP server for e-invoice platforms. Enables natural language querying of invoices, partners, company data, and financial reports.",
+  "source_repo": "docnova-ai/docnova-mcp",
+  "source_url": "https://github.com/docnova-ai/docnova-mcp",
+  "install": "npx -y docnova-mcp"
+}

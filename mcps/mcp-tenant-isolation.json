@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tenant-isolation",
+  "description": "MCP server for static analysis of multi-tenant SaaS and MCP server code, catching cross-tenant data leakage. Provides tools to scan code, list/explain rules, and manage suppressions.",
+  "source_repo": "subodhkc/mcp-tenant-isolation",
+  "source_url": "https://github.com/subodhkc/mcp-tenant-isolation",
+  "install": "# git clone --depth 1 https://github.com/subodhkc/mcp-tenant-isolation\n# See source for mcpServers config block"
+}

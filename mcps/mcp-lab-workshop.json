@@ -1,0 +1,7 @@
+{
+  "name": "mcp-lab-workshop",
+  "description": "An MCP server that enables real-time control of an interactive dashboard on Cloudflare Workers, with tools to toggle features, update stats, set messages, and simulate traffic.",
+  "source_repo": "jdocherty23/mcp-demo-app",
+  "source_url": "https://github.com/jdocherty23/mcp-demo-app",
+  "install": "# git clone --depth 1 https://github.com/jdocherty23/mcp-demo-app\n# See source for mcpServers config block"
+}

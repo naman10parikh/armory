@@ -1,0 +1,7 @@
+{
+  "name": "weather-china-mcp",
+  "description": "Provides real-time weather and 3-day forecast for Chinese cities using the QWeather API, working with any MCP-compatible client.",
+  "source_repo": "killerfirst/weather-china-mcp",
+  "source_url": "https://github.com/killerfirst/weather-china-mcp",
+  "install": "npx -y weather-china-mcp"
+}

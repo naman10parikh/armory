@@ -1,0 +1,7 @@
+{
+  "name": "opnsense-mcp-server-2",
+  "description": "Enables AI clients to manage OPNsense firewall, interfaces, DHCP, DNS, routes, and services via natural language through 42 MCP tools.",
+  "source_repo": "tazendor/opnsense-mcp-server",
+  "source_url": "https://github.com/tazendor/opnsense-mcp-server",
+  "install": "npx -y opnsense-mcp-server"
+}

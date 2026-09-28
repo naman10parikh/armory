@@ -1,0 +1,7 @@
+{
+  "name": "clawspace",
+  "description": "Bootstrap a production-grade OpenClaw agent workspace with memory system, config validation, and templates. Exposes tools like setup_workspace, validate_config, list_templates, and get_optimization_advice via MCP.",
+  "source_repo": "solomonneas/clawspace",
+  "source_url": "https://github.com/solomonneas/clawspace",
+  "install": "# git clone --depth 1 https://github.com/solomonneas/clawspace\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gmp-code-assist",
+  "description": "Enhances LLM responses by grounding them in official Google Maps Platform documentation and code samples via MCP tools for developing applications.",
+  "source_repo": "googlemaps/platform-ai",
+  "source_url": "https://github.com/googlemaps/platform-ai",
+  "install": "# git clone --depth 1 https://github.com/googlemaps/platform-ai\n# See source for mcpServers config block"
+}

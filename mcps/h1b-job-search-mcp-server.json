@@ -1,0 +1,7 @@
+{
+  "name": "h1b-job-search-mcp-server",
+  "description": "Enables searching and analyzing real H-1B visa sponsorship data from the U.S. Department of Labor, including job titles, salaries, locations, and company statistics.",
+  "source_repo": "iflow-mcp/aryaminus-h1b-job-search-mcp",
+  "source_url": "https://github.com/iflow-mcp/aryaminus-h1b-job-search-mcp",
+  "install": "npx -y aryaminus-h1b-job-search-mcp"
+}

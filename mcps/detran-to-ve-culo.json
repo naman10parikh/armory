@@ -1,0 +1,7 @@
+{
+  "name": "detran-to-ve-culo",
+  "description": "MCP server for consulting vehicle data from DETRAN TO official source. Read-only, pay-per-use, works with any MCP-compatible client.",
+  "source_repo": "mcp-dir/detran_to_veiculo-mcp",
+  "source_url": "https://github.com/mcp-dir/detran_to_veiculo-mcp",
+  "install": "npx -y detran_to_veiculo-mcp"
+}

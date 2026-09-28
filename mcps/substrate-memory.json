@@ -1,0 +1,7 @@
+{
+  "name": "substrate-memory",
+  "description": "Provides Claude Co-work with MCP tools to search and record organizational memory, including search, read, query, ingest, remember, sync, and status operations.",
+  "source_repo": "Substrate-memory/claude-cowork-substrate-memory",
+  "source_url": "https://github.com/Substrate-memory/claude-cowork-substrate-memory",
+  "install": "# git clone --depth 1 https://github.com/Substrate-memory/claude-cowork-substrate-memory\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sell-the-trend-mcp",
+  "description": "An MCP server that turns your Sell The Trend account into an AI-drivable product-research engine and generates detailed, decision-ready PDF dossiers for any niche.",
+  "source_repo": "mfahadiqbalofcl/sellthetrend-mcp",
+  "source_url": "https://github.com/mfahadiqbalofcl/sellthetrend-mcp",
+  "install": "npx -y sellthetrend-mcp"
+}

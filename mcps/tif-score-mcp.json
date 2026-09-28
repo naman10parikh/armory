@@ -1,0 +1,7 @@
+{
+  "name": "tif-score-mcp",
+  "description": "An MCP server that exposes three tools to analyze call transcripts for business intelligence, score leads 0-100 with hot/warm/cold classification, and diagnose n8n workflow errors with root cause analysis and proposed fixes.",
+  "source_repo": "dsvxmedia/tif-score-mcp",
+  "source_url": "https://github.com/dsvxmedia/tif-score-mcp",
+  "install": "npx -y tif-score-mcp"
+}

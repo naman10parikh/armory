@@ -1,0 +1,7 @@
+{
+  "name": "toggl-track-mcp-server",
+  "description": "Enables fetching Toggl Track v9 time entries for a single date with timezone awareness.",
+  "source_repo": "Hiroto0706/toggl_track_mcp_server",
+  "source_url": "https://github.com/Hiroto0706/toggl_track_mcp_server",
+  "install": "npx -y toggl_track_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uefn-mcp",
+  "description": "A two-process MCP bridge for Unreal Editor for Fortnite that lets Claude Code, Cursor, and other MCP clients drive a live UEFN editor safely.",
+  "source_repo": "quangdang46/uefn-verse-mcp",
+  "source_url": "https://github.com/quangdang46/uefn-verse-mcp",
+  "install": "npx -y uefn-verse-mcp"
+}

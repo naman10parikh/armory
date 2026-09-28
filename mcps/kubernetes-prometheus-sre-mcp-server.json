@@ -1,0 +1,7 @@
+{
+  "name": "kubernetes-prometheus-sre-mcp-server",
+  "description": "Enables natural language Kubernetes cluster operations, SLO monitoring, and PromQL queries via Claude using the Model Context Protocol.",
+  "source_repo": "ManishMaurya22/sre-mcp-server",
+  "source_url": "https://github.com/ManishMaurya22/sre-mcp-server",
+  "install": "npx -y sre-mcp-server"
+}

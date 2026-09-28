@@ -1,0 +1,7 @@
+{
+  "name": "mem0-mcp-selfhosted",
+  "description": "Self-hosted mem0 MCP server for Claude Code that adds durable async ingestion, document support, and reranking, enabling persistent memory management with Qdrant, Neo4j, and Ollama.",
+  "source_repo": "fabiolenine/mcp_deepmen0",
+  "source_url": "https://github.com/fabiolenine/mcp_deepmen0",
+  "install": "# git clone --depth 1 https://github.com/fabiolenine/mcp_deepmen0\n# See source for mcpServers config block"
+}

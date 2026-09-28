@@ -1,0 +1,7 @@
+{
+  "name": "airflow-mcp",
+  "description": "Enables natural language interaction with Apache Airflow for querying DAGs, monitoring execution, and troubleshooting failures.",
+  "source_repo": "ponderedw/airflow-mcp",
+  "source_url": "https://github.com/ponderedw/airflow-mcp",
+  "install": "npx -y airflow-mcp"
+}

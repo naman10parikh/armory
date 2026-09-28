@@ -1,0 +1,7 @@
+{
+  "name": "package-intel-mcp",
+  "description": "Provides software supply-chain intelligence for AI agents, enabling them to query package metadata, versions, downloads, dependencies, and health signals for npm, PyPI, and crates.io packages without API keys.",
+  "source_repo": "datakoot/package-intel-mcp",
+  "source_url": "https://github.com/datakoot/package-intel-mcp",
+  "install": "npx -y package-intel-mcp"
+}

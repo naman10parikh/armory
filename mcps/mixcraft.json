@@ -1,0 +1,7 @@
+{
+  "name": "mixcraft",
+  "description": "Give Claude access to your music library. MixCraft is a hosted MCP server that connects Claude to Apple Music, letting Claude search your library, build playlists, and learn your taste over time.",
+  "source_repo": "schuettc/mixcraft-app",
+  "source_url": "https://github.com/schuettc/mixcraft-app",
+  "install": "# git clone --depth 1 https://github.com/schuettc/mixcraft-app\n# See source for mcpServers config block"
+}

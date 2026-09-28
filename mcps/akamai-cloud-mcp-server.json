@@ -1,0 +1,7 @@
+{
+  "name": "akamai-cloud-mcp-server",
+  "description": "A read-only MCP server for Akamai Cloud (Linode) that lets users ask plain-language questions about their account, including inventory, pricing, GPU availability, and account limits.",
+  "source_repo": "akamai-developers/akamai-cloud-mcp",
+  "source_url": "https://github.com/akamai-developers/akamai-cloud-mcp",
+  "install": "npx -y akamai-cloud-mcp"
+}

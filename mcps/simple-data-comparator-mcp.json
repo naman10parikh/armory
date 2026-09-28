@@ -1,0 +1,7 @@
+{
+  "name": "simple-data-comparator-mcp",
+  "description": "MCP server for comparing JSON, XML, XLSX, CSV, and text data using expected templates, returning pass/fail with difference details.",
+  "source_repo": "EE-WILL-I/simple-data-comparator-mcp",
+  "source_url": "https://github.com/EE-WILL-I/simple-data-comparator-mcp",
+  "install": "npx -y simple-data-comparator-mcp"
+}

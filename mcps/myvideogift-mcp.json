@@ -1,0 +1,7 @@
+{
+  "name": "myvideogift-mcp",
+  "description": "Create and deliver personalized video gifts (photos + an original song) from any Model Context Protocol client.",
+  "source_repo": "CryptoLibertus/myvideogift-mcp",
+  "source_url": "https://github.com/CryptoLibertus/myvideogift-mcp",
+  "install": "npx -y myvideogift-mcp"
+}

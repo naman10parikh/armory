@@ -1,0 +1,7 @@
+{
+  "name": "puffer-finance-mcp",
+  "description": "Enables cross-chain bridging via Everclear and Chainlink CCIP, and management of DeFi strategies on Puffer Finance across multiple networks.",
+  "source_repo": "LIN0304/puffer-finance-mcp",
+  "source_url": "https://github.com/LIN0304/puffer-finance-mcp",
+  "install": "npx -y puffer-finance-mcp"
+}

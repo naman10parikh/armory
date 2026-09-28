@@ -1,0 +1,7 @@
+{
+  "name": "divine-api-indian-astrology-mcp",
+  "description": "The MCP server for Divine API's Indian Astrology services, allowing AI assistants to query Vedic astrology data such as Panchang, Kundli, and matchmaking through natural language.",
+  "source_repo": "DivineAPI/mcp-indian-astrology",
+  "source_url": "https://github.com/DivineAPI/mcp-indian-astrology",
+  "install": "# git clone --depth 1 https://github.com/DivineAPI/mcp-indian-astrology\n# See source for mcpServers config block"
+}

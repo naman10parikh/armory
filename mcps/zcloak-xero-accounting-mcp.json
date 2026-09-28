@@ -1,0 +1,7 @@
+{
+  "name": "zcloak-xero-accounting-mcp",
+  "description": "Enables accountants to connect Xero, read accounting data, analyze, and execute controlled draft operations after explicit confirmation, with Xero as the source of truth.",
+  "source_repo": "johnw-max/xero-mcp",
+  "source_url": "https://github.com/johnw-max/xero-mcp",
+  "install": "npx -y xero-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mundane-mcp",
+  "description": "Exposes the Mundane agent-to-human marketplace as MCP tools, enabling agents to post tasks, search workers, and make offers.",
+  "source_repo": "sttruji/mundane-mcp",
+  "source_url": "https://github.com/sttruji/mundane-mcp",
+  "install": "npx -y mundane-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "onenote-mcp-for-geminispark",
+  "description": "A robust MCP server that transforms OneNote notebooks into an AI-accessible knowledge base for Gemini Spark, enabling natural language queries to list, read, and search notes via Microsoft Graph API.",
+  "source_repo": "abhivishwa2/OneNote-MCP-For-GeminiSpark",
+  "source_url": "https://github.com/abhivishwa2/OneNote-MCP-For-GeminiSpark",
+  "install": "# git clone --depth 1 https://github.com/abhivishwa2/OneNote-MCP-For-GeminiSpark\n# See source for mcpServers config block"
+}

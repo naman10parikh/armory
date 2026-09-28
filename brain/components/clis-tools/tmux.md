@@ -6,7 +6,7 @@ source_repo: https://github.com/tmux/tmux
 source_url: https://github.com/tmux/tmux
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: 48975
 eval_score: 1
 mentions: 5

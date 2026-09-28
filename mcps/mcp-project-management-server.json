@@ -1,0 +1,7 @@
+{
+  "name": "mcp-project-management-server",
+  "description": "Enables AI assistants to manage project analysis, code metrics, documentation, Git operations, code quality, and file organization through natural language commands.",
+  "source_repo": "code-alchemist01/project-managment-mcp-Server",
+  "source_url": "https://github.com/code-alchemist01/project-managment-mcp-Server",
+  "install": "npx -y project-managment-mcp-Server"
+}

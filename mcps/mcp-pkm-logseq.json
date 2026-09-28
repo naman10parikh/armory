@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pkm-logseq",
+  "description": "Enables interaction with your Logseq personal knowledge management system via MCP, allowing retrieval of tagged notes and todo lists through Logseq's HTTP API.",
+  "source_repo": "ruliana/mcp-pkm-logseq",
+  "source_url": "https://github.com/ruliana/mcp-pkm-logseq",
+  "install": "# git clone --depth 1 https://github.com/ruliana/mcp-pkm-logseq\n# See source for mcpServers config block"
+}

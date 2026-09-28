@@ -1,0 +1,7 @@
+{
+  "name": "loop-skills-mcp",
+  "description": "Serves Loop's design & brand skills as an MCP server, enabling AI agents to execute on-brand tasks using markdown playbooks and assets.",
+  "source_repo": "lendingloop/loop-skills-mcp",
+  "source_url": "https://github.com/lendingloop/loop-skills-mcp",
+  "install": "npx -y loop-skills-mcp"
+}

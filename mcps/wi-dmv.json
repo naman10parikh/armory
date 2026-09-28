@@ -1,0 +1,7 @@
+{
+  "name": "wi-dmv",
+  "description": "Provides Wisconsin DMV (WisDOT) customer service center data including address, hours, services, and payment methods for each counter. Enables querying by city, county, zip, name, or service type.",
+  "source_repo": "pipeworx-io/mcp-wi-dmv",
+  "source_url": "https://github.com/pipeworx-io/mcp-wi-dmv",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-wi-dmv\n# See source for mcpServers config block"
+}

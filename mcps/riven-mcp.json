@@ -1,0 +1,7 @@
+{
+  "name": "riven-mcp",
+  "description": "This MCP server exposes Riven's chat, research, council, and usage capabilities as tools over stdio, enabling any MCP-compatible client to interact with Riven directly.",
+  "source_repo": "rivenai/riven-mcp",
+  "source_url": "https://github.com/rivenai/riven-mcp",
+  "install": "npx -y riven-mcp"
+}

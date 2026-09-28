@@ -1,0 +1,7 @@
+{
+  "name": "framework360-mcp-server",
+  "description": "MCP server for Framework360 REST API, exposing 141 endpoints as tools for use with MCP clients like Claude Code, or as a CLI.",
+  "source_repo": "VadaLinux/framework360-mcp-server",
+  "source_url": "https://github.com/VadaLinux/framework360-mcp-server",
+  "install": "npx -y framework360-mcp-server"
+}

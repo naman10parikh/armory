@@ -1,0 +1,7 @@
+{
+  "name": "transcript-search",
+  "description": "A semantic search system for Claude Code transcript history, exposed as an MCP server so Claude Code can query its own past sessions.",
+  "source_repo": "ttrine/semantic-transcript-search",
+  "source_url": "https://github.com/ttrine/semantic-transcript-search",
+  "install": "# git clone --depth 1 https://github.com/ttrine/semantic-transcript-search\n# See source for mcpServers config block"
+}

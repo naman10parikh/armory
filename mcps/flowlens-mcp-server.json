@@ -1,0 +1,7 @@
+{
+  "name": "flowlens-mcp-server",
+  "description": "Enables coding agents to access recorded browser flows (user actions, network, console, etc.) for debugging and regression testing without reproducing issues.",
+  "source_repo": "magentic/flowlens-mcp-server",
+  "source_url": "https://github.com/magentic/flowlens-mcp-server",
+  "install": "npx -y flowlens-mcp-server"
+}

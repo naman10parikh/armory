@@ -1,0 +1,7 @@
+{
+  "name": "conselho-regional-de-odontologia-al-cadastro",
+  "description": "Read-only MCP server for querying official dental registration data from the Regional Council of Dentistry of Alagoas (Brazil). It provides a single tool to consult professional records via a hosted HTTP endpoint with prepaid credits.",
+  "source_repo": "mcp-dir/cro_al_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_al_cadastro-mcp",
+  "install": "npx -y cro_al_cadastro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-linux-desktop",
+  "description": "Enables full Linux desktop control including windows, mouse, keyboard, clipboard, audio, screenshots, OCR, accessibility, and system management through MCP-compatible AI agents.",
+  "source_repo": "wizardofweb125-lab/mcp-linux-desktop",
+  "source_url": "https://github.com/wizardofweb125-lab/mcp-linux-desktop",
+  "install": "# git clone --depth 1 https://github.com/wizardofweb125-lab/mcp-linux-desktop\n# See source for mcpServers config block"
+}

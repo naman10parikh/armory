@@ -1,0 +1,7 @@
+{
+  "name": "product-catalog-mcp",
+  "description": "Enables CRUD operations and search on an Excel-backed product catalog, allowing users to list, search, add, update, and delete products.",
+  "source_repo": "v-swaggarwal/product-catalog-mcp",
+  "source_url": "https://github.com/v-swaggarwal/product-catalog-mcp",
+  "install": "npx -y product-catalog-mcp"
+}

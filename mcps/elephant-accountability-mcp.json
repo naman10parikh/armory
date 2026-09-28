@@ -1,0 +1,7 @@
+{
+  "name": "elephant-accountability-mcp",
+  "description": "MCP server that exposes Elephant Accountability's audit tiers, EVI v0.9 methodology, fit assessment, proof points, and agent-initiated audit requests to AI agents.",
+  "source_repo": "Chris-Eaccountability/elephant-accountability-mcp",
+  "source_url": "https://github.com/Chris-Eaccountability/elephant-accountability-mcp",
+  "install": "npx -y elephant-accountability-mcp"
+}

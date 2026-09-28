@@ -1,0 +1,7 @@
+{
+  "name": "wisegrid-mcp",
+  "description": "Enables reading and writing WiseGrid sheets, including listing sheets, paginating rows, adding and updating records, and running reports, all from an MCP client with API key authentication.",
+  "source_repo": "RyanKramer/wisegrid-mcp",
+  "source_url": "https://github.com/RyanKramer/wisegrid-mcp",
+  "install": "npx -y wisegrid-mcp"
+}

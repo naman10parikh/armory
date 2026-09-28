@@ -1,0 +1,7 @@
+{
+  "name": "junai-mcp",
+  "description": "Enables deterministic multi-agent pipelines in VS Code and GitHub Copilot, with 25 specialized AI agents and a 9-stage state machine that prevents hallucinated routing.",
+  "source_repo": "saajunaid/junai",
+  "source_url": "https://github.com/saajunaid/junai",
+  "install": "# git clone --depth 1 https://github.com/saajunaid/junai\n# See source for mcpServers config block"
+}

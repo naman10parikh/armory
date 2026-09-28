@@ -1,0 +1,7 @@
+{
+  "name": "meertrack-mcp",
+  "description": "An MCP server for Meertrack that enables users to ask their AI agent about competitors' recent activities, digests, and product changes via natural language.",
+  "source_repo": "meertrack/meertrack-mcp",
+  "source_url": "https://github.com/meertrack/meertrack-mcp",
+  "install": "npx -y meertrack-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-evaluator-mcp-server",
+  "description": "A comprehensive framework for evaluating AI responses using Inspect AI and Petri-style behavioral assessment patterns. Built as an MCP server for real-time evaluation during AI development.",
+  "source_repo": "maddygoround/eval",
+  "source_url": "https://github.com/maddygoround/eval",
+  "install": "# git clone --depth 1 https://github.com/maddygoround/eval\n# See source for mcpServers config block"
+}

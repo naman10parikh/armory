@@ -1,0 +1,7 @@
+{
+  "name": "patch-tuesday-mcp",
+  "description": "Query Microsoft Patch Tuesday security updates from the official MSRC API — monthly rollups, CVE/KB lookups, supersedence chains, and urgency-ranked triage enriched with EPSS scores and the CISA KEV catalog. No API keys required.",
+  "source_repo": "jonnybottles/patch-tuesday-mcp",
+  "source_url": "https://github.com/jonnybottles/patch-tuesday-mcp",
+  "install": "npx -y patch-tuesday-mcp"
+}

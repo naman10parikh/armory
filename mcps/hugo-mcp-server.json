@@ -1,0 +1,7 @@
+{
+  "name": "hugo-mcp-server",
+  "description": "Enables managing Hugo static site content via the MCP protocol, including schema and record CRUD, markdown generation, build, and publish.",
+  "source_repo": "klauri/hugo-mcp-server",
+  "source_url": "https://github.com/klauri/hugo-mcp-server",
+  "install": "npx -y hugo-mcp-server"
+}

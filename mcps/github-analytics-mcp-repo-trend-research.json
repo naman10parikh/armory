@@ -1,0 +1,7 @@
+{
+  "name": "github-analytics-mcp-repo-trend-research",
+  "description": "Repo statistics, trending lookups, code-search queries, and dev-trend aggregation. For AI agents that need to evaluate libraries, monitor competitor projects, or surface emerging open-source tools. Distinct from the Developer Tools MCP — this one is GitHub-specific and goes deeper on repo analytics.",
+  "source_repo": "",
+  "source_url": "https://thenextgennexus.com",
+  "install": "# git clone --depth 1 https://thenextgennexus.com\n# See source for mcpServers config block"
+}

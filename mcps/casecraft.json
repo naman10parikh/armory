@@ -1,0 +1,7 @@
+{
+  "name": "casecraft",
+  "description": "Enables spoken consulting case interview practice through Claude, providing real-time cases, grading on structure, analytics, judgment, and communication, and targeted practice drills.",
+  "source_repo": "Olivesz/casecraft",
+  "source_url": "https://github.com/Olivesz/casecraft",
+  "install": "# git clone --depth 1 https://github.com/Olivesz/casecraft\n# See source for mcpServers config block"
+}

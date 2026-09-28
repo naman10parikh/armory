@@ -1,0 +1,7 @@
+{
+  "name": "bowimi-mcp",
+  "description": "MCP server for Bowimi field sales CRM, enabling Claude to query routes, locations, contacts, orders, and products.",
+  "source_repo": "Caezarr/bowimi-mcp",
+  "source_url": "https://github.com/Caezarr/bowimi-mcp",
+  "install": "npx -y bowimi-mcp"
+}

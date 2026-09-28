@@ -1,0 +1,7 @@
+{
+  "name": "flipper-ble-mcp",
+  "description": "Drive a Flipper Zero wirelessly over Bluetooth LE from Claude.",
+  "source_repo": "pogorelov-labs/flipper-ble-mcp",
+  "source_url": "https://github.com/pogorelov-labs/flipper-ble-mcp",
+  "install": "npx -y flipper-ble-mcp"
+}

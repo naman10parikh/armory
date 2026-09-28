@@ -1,0 +1,7 @@
+{
+  "name": "radius-mcp-server",
+  "description": "Provides full-text search and reading capabilities over Radius documentation and source code, enabling AI assistants to answer questions about the Radius project.",
+  "source_repo": "Alec13355/radius-mcp-server",
+  "source_url": "https://github.com/Alec13355/radius-mcp-server",
+  "install": "npx -y radius-mcp-server"
+}

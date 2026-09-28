@@ -1,0 +1,7 @@
+{
+  "name": "pg-dash",
+  "description": "AI-native PostgreSQL health checker with 26 MCP tools for query analysis, bloat detection, migration safety, and CI integration.",
+  "source_repo": "indiekitai/pg-dash",
+  "source_url": "https://github.com/indiekitai/pg-dash",
+  "install": "# git clone --depth 1 https://github.com/indiekitai/pg-dash\n# See source for mcpServers config block"
+}

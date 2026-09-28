@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-awtrix",
+  "description": "Enables AI agents to control and display real-time notifications, telemetry, and custom apps on Ulanzi TC001 and compatible pixel clocks running Awtrix Light, including device management and declarative YAML-based metric polling.",
+  "source_repo": "klodnickik/mcp-server-awtrix",
+  "source_url": "https://github.com/klodnickik/mcp-server-awtrix",
+  "install": "# git clone --depth 1 https://github.com/klodnickik/mcp-server-awtrix\n# See source for mcpServers config block"
+}

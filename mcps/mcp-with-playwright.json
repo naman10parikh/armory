@@ -1,0 +1,7 @@
+{
+  "name": "mcp-with-playwright",
+  "description": "An MCP server that enables LLMs to automate browser interactions using Playwright to fetch real-time Israeli weather data.",
+  "source_repo": "9697-mali-lo/MCP-with-Playwright",
+  "source_url": "https://github.com/9697-mali-lo/MCP-with-Playwright",
+  "install": "# git clone --depth 1 https://github.com/9697-mali-lo/MCP-with-Playwright\n# See source for mcpServers config block"
+}

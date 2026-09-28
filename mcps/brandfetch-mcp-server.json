@@ -1,0 +1,7 @@
+{
+  "name": "brandfetch-mcp-server",
+  "description": "Enables AI assistants to search and retrieve brand data, logos, design assets, and brand context via the Brandfetch API.",
+  "source_repo": "Brandfetch/brandfetch-mcp-server",
+  "source_url": "https://github.com/Brandfetch/brandfetch-mcp-server",
+  "install": "npx -y brandfetch-mcp-server"
+}

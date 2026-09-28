@@ -1,0 +1,7 @@
+{
+  "name": "quickmemo-mcp",
+  "description": "A minimalist and elegant Model Context Protocol (MCP) server for fast context memo capture, keyword search, dynamic resource digests, and AI prompt workflows.",
+  "source_repo": "Abdullah-Zafarr/quickmemo-mcp",
+  "source_url": "https://github.com/Abdullah-Zafarr/quickmemo-mcp",
+  "install": "npx -y quickmemo-mcp"
+}

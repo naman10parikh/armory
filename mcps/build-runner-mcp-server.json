@@ -1,0 +1,7 @@
+{
+  "name": "build-runner-mcp-server",
+  "description": "Provides structured build, compile, and test operations with parsed output to reduce token usage and improve readability.",
+  "source_repo": "egn88/build-runner-mcp",
+  "source_url": "https://github.com/egn88/build-runner-mcp",
+  "install": "npx -y build-runner-mcp"
+}

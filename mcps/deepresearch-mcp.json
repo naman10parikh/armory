@@ -1,0 +1,7 @@
+{
+  "name": "deepresearch-mcp",
+  "description": "A powerful MCP server that enables AI agents to perform structured, multi-step internet research and generate comprehensive reports automatically.",
+  "source_repo": "achuthprince004/deepresearch-mcp",
+  "source_url": "https://github.com/achuthprince004/deepresearch-mcp",
+  "install": "npx -y deepresearch-mcp"
+}

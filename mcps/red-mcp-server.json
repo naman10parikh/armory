@@ -1,0 +1,7 @@
+{
+  "name": "red-mcp-server",
+  "description": "Connects AI assistants to Big Red Cloud accounting data, allowing natural-language queries and controlled write operations with safety checks.",
+  "source_repo": "BigRedCloud/red-mcp-server",
+  "source_url": "https://github.com/BigRedCloud/red-mcp-server",
+  "install": "npx -y red-mcp-server"
+}

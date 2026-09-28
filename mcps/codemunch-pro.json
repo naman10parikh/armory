@@ -1,0 +1,7 @@
+{
+  "name": "codemunch-pro",
+  "description": "Provides intelligent code indexing with 15 MCP tools for symbol extraction, hybrid search (FTS5+vector), call graphs, and incremental indexing of local folders and remote repos, enabling token-efficient code retrieval for AI agents.",
+  "source_repo": "BigJai/codemunch-pro",
+  "source_url": "https://github.com/BigJai/codemunch-pro",
+  "install": "# git clone --depth 1 https://github.com/BigJai/codemunch-pro\n# See source for mcpServers config block"
+}

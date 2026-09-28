@@ -1,0 +1,7 @@
+{
+  "name": "mcp-lrclib",
+  "description": "An MCP server that enables searching tracks and fetching lyrics, including time-synced LRC lyrics, from LRCLIB without requiring an API key.",
+  "source_repo": "smeet666/mcp-lrclib",
+  "source_url": "https://github.com/smeet666/mcp-lrclib",
+  "install": "# git clone --depth 1 https://github.com/smeet666/mcp-lrclib\n# See source for mcpServers config block"
+}

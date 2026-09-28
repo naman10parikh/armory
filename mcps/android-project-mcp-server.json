@@ -1,0 +1,7 @@
+{
+  "name": "android-project-mcp-server",
+  "description": "Enables building, running unit tests, and instrumented tests for Android projects through the MCP protocol.",
+  "source_repo": "fastmcp-me/androidbuild-ShenghaiWang",
+  "source_url": "https://github.com/fastmcp-me/androidbuild-ShenghaiWang",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/androidbuild-ShenghaiWang\n# See source for mcpServers config block"
+}

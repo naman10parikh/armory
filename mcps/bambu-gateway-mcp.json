@@ -1,0 +1,7 @@
+{
+  "name": "bambu-gateway-mcp",
+  "description": "Enables LLM agents to control Bambu Lab 3D printers via the bambu-gateway HTTP API, supporting printer listing, filament management, print session creation, and safe print initiation with user confirmation.",
+  "source_repo": "leolobato/bambu-gateway-mcp",
+  "source_url": "https://github.com/leolobato/bambu-gateway-mcp",
+  "install": "npx -y bambu-gateway-mcp"
+}

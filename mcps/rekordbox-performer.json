@@ -1,0 +1,7 @@
+{
+  "name": "rekordbox-performer",
+  "description": "Enables safety-first live control of Rekordbox over a virtual MIDI port, with armed transitions, dry-run preview, and emergency stop.",
+  "source_repo": "mattsellner/rekordbox-performer-mcp",
+  "source_url": "https://github.com/mattsellner/rekordbox-performer-mcp",
+  "install": "npx -y rekordbox-performer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sitepulsar-mcp-server",
+  "description": "Measures and improves how findable, readable, and usable a website is to AI answer engines and autonomous AI agents through hosted AEO audit tools.",
+  "source_repo": "SitePulsar/mcp-server",
+  "source_url": "https://github.com/SitePulsar/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/SitePulsar/mcp-server\n# See source for mcpServers config block"
+}

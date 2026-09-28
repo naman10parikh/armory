@@ -1,0 +1,7 @@
+{
+  "name": "ocr-space-mcp-server",
+  "description": "MCP server for OCR.space API to extract text from images and PDFs, with tools for file, URL, automatic oversized handling, and language support.",
+  "source_repo": "agentic-ai-forge/ocr-space-mcp",
+  "source_url": "https://github.com/agentic-ai-forge/ocr-space-mcp",
+  "install": "npx -y ocr-space-mcp"
+}

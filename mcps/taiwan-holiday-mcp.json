@@ -1,0 +1,7 @@
+{
+  "name": "taiwan-holiday-mcp",
+  "description": "A Taiwan holiday query server based on the Model Context Protocol, providing accurate Taiwan public holiday and compensatory work day information.",
+  "source_repo": "BACH-AI-Tools/taiwan-holiday-mcp",
+  "source_url": "https://github.com/BACH-AI-Tools/taiwan-holiday-mcp",
+  "install": "npx -y taiwan-holiday-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ensemble-mcp",
+  "description": "An MCP server providing intelligence infrastructure for AI agent pipelines, including vector memory, drift detection, model routing, skills discovery, session management, codebase indexing, and context compression, all running locally with zero LLM/API calls.",
+  "source_repo": "LynkByte/ensemble",
+  "source_url": "https://github.com/LynkByte/ensemble",
+  "install": "# git clone --depth 1 https://github.com/LynkByte/ensemble\n# See source for mcpServers config block"
+}

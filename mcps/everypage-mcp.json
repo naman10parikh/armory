@@ -1,0 +1,7 @@
+{
+  "name": "everypage-mcp",
+  "description": "MCP server for EveryPage that lets an AI assistant turn a PDF into a tracked share link and report who read it, how far they got, and where they stopped.",
+  "source_repo": "EveryPageApp/everypage-mcp",
+  "source_url": "https://github.com/EveryPageApp/everypage-mcp",
+  "install": "npx -y everypage-mcp"
+}

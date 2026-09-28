@@ -1,0 +1,7 @@
+{
+  "name": "omniclip-rag-mcp-server",
+  "description": "Read-only local-first MCP server enabling AI assistants to semantically search private Markdown, PDF, and Tika-backed knowledge bases without data upload.",
+  "source_repo": "EllisMorrow/OmniClip-RAG",
+  "source_url": "https://github.com/EllisMorrow/OmniClip-RAG",
+  "install": "# git clone --depth 1 https://github.com/EllisMorrow/OmniClip-RAG\n# See source for mcpServers config block"
+}

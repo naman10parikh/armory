@@ -1,0 +1,7 @@
+{
+  "name": "emblem-mcp",
+  "description": "# EmblemAI MCP EmblemAI is a hosted Model Context Protocol server that gives AI agents a full-featured crypto wallet plus **200+ tools** for trading, DeFi, NFTs, and on-chain analytics across **7 blockchains**: - **Bitcoin** — native BTC, Ordinals inscriptions, Runes, BRC-20, Stamps / SRC-20, Alkane",
+  "source_repo": "",
+  "source_url": "https://emblemvault.ai",
+  "install": "# git clone --depth 1 https://emblemvault.ai\n# See source for mcpServers config block"
+}

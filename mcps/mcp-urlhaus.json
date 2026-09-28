@@ -1,0 +1,7 @@
+{
+  "name": "mcp-urlhaus",
+  "description": "Wraps abuse.ch URLhaus malware URL database (free, no auth) – enables querying malware URLs via natural language through Pipeworx MCP gateway.",
+  "source_repo": "pipeworx-io/mcp-urlhaus",
+  "source_url": "https://github.com/pipeworx-io/mcp-urlhaus",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-urlhaus\n# See source for mcpServers config block"
+}

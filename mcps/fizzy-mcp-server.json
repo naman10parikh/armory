@@ -1,0 +1,7 @@
+{
+  "name": "fizzy-mcp-server",
+  "description": "Integrates Fizzy with MCP clients for automated ticket resolution, card management, commenting, and task tracking.",
+  "source_repo": "eq-kuldeep/fizzy-mcp",
+  "source_url": "https://github.com/eq-kuldeep/fizzy-mcp",
+  "install": "npx -y fizzy-mcp"
+}

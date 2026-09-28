@@ -1,0 +1,7 @@
+{
+  "name": "ci-investigator-mcp",
+  "description": "Provides tools to analyze and debug GitHub Actions CI failures, including summarizing failures, detecting flaky tests, and suggesting fixes.",
+  "source_repo": "codeBKashif/ci-investigator-mcp",
+  "source_url": "https://github.com/codeBKashif/ci-investigator-mcp",
+  "install": "npx -y ci-investigator-mcp"
+}

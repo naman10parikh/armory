@@ -1,0 +1,7 @@
+{
+  "name": "groove-mcp",
+  "description": "Enables management of customer support tickets, contacts, agents, and knowledge base articles through the Groove HQ GraphQL API.",
+  "source_repo": "ebenpaul/groovehq-mcp",
+  "source_url": "https://github.com/ebenpaul/groovehq-mcp",
+  "install": "npx -y groovehq-mcp"
+}

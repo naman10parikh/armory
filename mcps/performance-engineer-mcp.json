@@ -1,0 +1,7 @@
+{
+  "name": "performance-engineer-mcp",
+  "description": "Analyzes websites like a senior performance engineer and produces prioritized Core Web Vitals recommendations. Provides 16 tools for detailed performance analysis, including Lighthouse, CrUX, WordPress and Cloudflare inspections.",
+  "source_repo": "rhamevangelista/PageSpeed-Performance-Engineer-MCP",
+  "source_url": "https://github.com/rhamevangelista/PageSpeed-Performance-Engineer-MCP",
+  "install": "npx -y PageSpeed-Performance-Engineer-MCP"
+}

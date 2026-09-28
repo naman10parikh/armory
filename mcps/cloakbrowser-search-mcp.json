@@ -1,0 +1,7 @@
+{
+  "name": "cloakbrowser-search-mcp",
+  "description": "A local web search MCP server that uses stealth Chromium to bypass CAPTCHAs and bot blocks, supporting Google and DuckDuckGo with automatic fallback.",
+  "source_repo": "rishabhsfdc/cloak-mcp",
+  "source_url": "https://github.com/rishabhsfdc/cloak-mcp",
+  "install": "npx -y cloak-mcp"
+}

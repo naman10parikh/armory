@@ -1,0 +1,7 @@
+{
+  "name": "degree-dynamicweb-mcp",
+  "description": "MCP server for DynamicWeb 10 Admin API. Enables full management of item types, fields, pages, paragraphs, products, and API discovery via natural language.",
+  "source_repo": "Degree-AS/degree-dynamicweb-mcp",
+  "source_url": "https://github.com/Degree-AS/degree-dynamicweb-mcp",
+  "install": "npx -y degree-dynamicweb-mcp"
+}

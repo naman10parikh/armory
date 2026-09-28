@@ -1,0 +1,7 @@
+{
+  "name": "zxkol",
+  "description": "ZXKOL transforms tasks like \"finding Douyin beauty influencers with 100k–500k followers\" into simple tool calls—eliminating the need to write web scrapers or integrate platform-specific SDKs.",
+  "source_repo": "kvalen-code/zxkol-skill",
+  "source_url": "https://github.com/kvalen-code/zxkol-skill",
+  "install": "# git clone --depth 1 https://github.com/kvalen-code/zxkol-skill\n# See source for mcpServers config block"
+}

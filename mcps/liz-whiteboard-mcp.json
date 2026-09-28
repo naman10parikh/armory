@@ -1,0 +1,7 @@
+{
+  "name": "liz-whiteboard-mcp",
+  "description": "Enables AI agents to read and edit entity-relationship diagrams and SQL database schemas on the liz-whiteboard collaborative whiteboard through natural language, supporting table, column, and relationship management.",
+  "source_repo": "LizardLiang/liz-whiteboard-mcp",
+  "source_url": "https://github.com/LizardLiang/liz-whiteboard-mcp",
+  "install": "npx -y liz-whiteboard-mcp"
+}

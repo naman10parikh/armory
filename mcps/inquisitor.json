@@ -1,0 +1,7 @@
+{
+  "name": "inquisitor",
+  "description": "Enables AI agents to efficiently solve problems by estimating complexity, pruning unnecessary paths, and focusing search through web search, code analysis, and persistent investigation tracking.",
+  "source_repo": "0x2fycy3/inquisitor",
+  "source_url": "https://github.com/0x2fycy3/inquisitor",
+  "install": "# git clone --depth 1 https://github.com/0x2fycy3/inquisitor\n# See source for mcpServers config block"
+}

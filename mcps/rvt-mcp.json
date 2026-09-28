@@ -1,0 +1,7 @@
+{
+  "name": "rvt-mcp",
+  "description": "An MCP server that bridges AI agents to Autodesk Revit, enabling local tool-based interaction with Revit models, including query, create, and modify operations, with an optional personal tool baking system.",
+  "source_repo": "bimwright/rvt-mcp",
+  "source_url": "https://github.com/bimwright/rvt-mcp",
+  "install": "npx -y rvt-mcp"
+}

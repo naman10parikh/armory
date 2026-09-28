@@ -1,0 +1,7 @@
+{
+  "name": "tipsoi-mcp",
+  "description": "Read-only MCP server for the Tipsoi HRM API, exposing 15 tools to read employee data, attendance, leave, overtime, and more.",
+  "source_repo": "the-abraar/Tipsoi_MCP",
+  "source_url": "https://github.com/the-abraar/Tipsoi_MCP",
+  "install": "npx -y Tipsoi_MCP"
+}

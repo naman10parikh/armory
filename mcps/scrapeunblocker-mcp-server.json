@@ -1,0 +1,7 @@
+{
+  "name": "scrapeunblocker-mcp-server",
+  "description": "Enables fetching any web page's HTML by bypassing anti-bot protection, and also provides AI-parsed structured data and Google search results.",
+  "source_repo": "ScrapeUnblocker/scrapeunblocker-mcp",
+  "source_url": "https://github.com/ScrapeUnblocker/scrapeunblocker-mcp",
+  "install": "npx -y scrapeunblocker-mcp"
+}

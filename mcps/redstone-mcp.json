@@ -1,0 +1,7 @@
+{
+  "name": "redstone-mcp",
+  "description": "Real-time and historical cryptocurrency price data from RedStone oracle infrastructure. 1,300+ assets, 110+ chains, no API key required. Powered by 50+ DEX and 30+ CEX sources with $4.943B Total Value Secured.",
+  "source_repo": "",
+  "source_url": "https://redstone.finance",
+  "install": "# git clone --depth 1 https://redstone.finance\n# See source for mcpServers config block"
+}

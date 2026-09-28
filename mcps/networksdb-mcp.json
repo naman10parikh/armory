@@ -1,0 +1,7 @@
+{
+  "name": "networksdb-mcp",
+  "description": "Enables natural language queries for network intelligence, IP geolocation, organization details, and DNS information via the NetworksDB API.",
+  "source_repo": "MorDavid/NetworksDB-MCP",
+  "source_url": "https://github.com/MorDavid/NetworksDB-MCP",
+  "install": "npx -y NetworksDB-MCP"
+}

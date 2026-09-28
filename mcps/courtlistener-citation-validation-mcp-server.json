@@ -1,0 +1,7 @@
+{
+  "name": "courtlistener-citation-validation-mcp-server",
+  "description": "Validates legal citations against the CourtListener database to detect hallucinated citations in legal documents.",
+  "source_repo": "john-walkoe/courtlistener_citations_mcp",
+  "source_url": "https://github.com/john-walkoe/courtlistener_citations_mcp",
+  "install": "npx -y courtlistener_citations_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "doc-platform",
+  "description": "Enables MCP-based access to Adhoc documentation, providing search, content retrieval, and feedback issue creation with audience gating and leak protection.",
+  "source_repo": "ingadhoc/doc-platform",
+  "source_url": "https://github.com/ingadhoc/doc-platform",
+  "install": "# git clone --depth 1 https://github.com/ingadhoc/doc-platform\n# See source for mcpServers config block"
+}

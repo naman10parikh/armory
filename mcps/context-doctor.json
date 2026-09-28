@@ -1,0 +1,7 @@
+{
+  "name": "context-doctor",
+  "description": "Provides MCP tools to profile and optimize LLM conversation context, identifying token waste and applying deterministic fixes to reduce context window usage.",
+  "source_repo": "KushalP1/context-doctor",
+  "source_url": "https://github.com/KushalP1/context-doctor",
+  "install": "# git clone --depth 1 https://github.com/KushalP1/context-doctor\n# See source for mcpServers config block"
+}

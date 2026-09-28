@@ -1,0 +1,7 @@
+{
+  "name": "brunopark-mcp",
+  "description": "AI-orchestrated security testing via 6 Python tools (recon, port scan, subdomain hunting, frontend scanning, API fuzzing, and nemesis orchestrator) exposed as MCP tools for use by AI agents.",
+  "source_repo": "brunopark852/brunopark-mcp",
+  "source_url": "https://github.com/brunopark852/brunopark-mcp",
+  "install": "npx -y brunopark-mcp"
+}

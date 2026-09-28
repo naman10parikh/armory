@@ -1,0 +1,7 @@
+{
+  "name": "lightspeed-x",
+  "description": "Enables read-only access to Lightspeed X retail data (sales, inventory, products, customers) with aggregated reporting on revenue, COGS, profit, and other metrics for MCP clients like Claude.",
+  "source_repo": "genvjacobc/lightspeed-x-mcp",
+  "source_url": "https://github.com/genvjacobc/lightspeed-x-mcp",
+  "install": "npx -y lightspeed-x-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "latam-market",
+  "description": "Enables querying item prices, offers, and market analysis for the LATAM Ragnarok Online server (FREYA) via an MCP interface.",
+  "source_repo": "adsonpleal/latam-market",
+  "source_url": "https://github.com/adsonpleal/latam-market",
+  "install": "# git clone --depth 1 https://github.com/adsonpleal/latam-market\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yamcs-mcp-server",
+  "description": "Enables AI assistants to interact with Yamcs mission control systems through natural language, providing tools and resources for telemetry, commands, links, storage, instances, and alarms.",
+  "source_repo": "PaulMRamirez/yamcs-mcp-server",
+  "source_url": "https://github.com/PaulMRamirez/yamcs-mcp-server",
+  "install": "npx -y yamcs-mcp-server"
+}

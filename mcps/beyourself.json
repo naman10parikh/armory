@@ -1,0 +1,7 @@
+{
+  "name": "beyourself",
+  "description": "MCP server for BeYourself, enabling AI agents to analyze text, code, and audio for AI-generated patterns, batch score documents, retrieve flagged sections, and process audio into stems and MIDI.",
+  "source_repo": "WillBe89/BeYourself",
+  "source_url": "https://github.com/WillBe89/BeYourself",
+  "install": "# git clone --depth 1 https://github.com/WillBe89/BeYourself\n# See source for mcpServers config block"
+}

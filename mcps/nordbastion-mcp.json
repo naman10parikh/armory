@@ -1,0 +1,7 @@
+{
+  "name": "nordbastion-mcp",
+  "description": "Provision KYC-free, crypto-paid Nordic VPS and dedicated servers from any AI agent. Enables natural language hosting workflows including comparison, top-up, and provisioning of anonymous servers.",
+  "source_repo": "CryptoServers/nordbastion-mcp",
+  "source_url": "https://github.com/CryptoServers/nordbastion-mcp",
+  "install": "npx -y nordbastion-mcp"
+}

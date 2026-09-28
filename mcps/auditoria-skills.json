@@ -1,0 +1,7 @@
+{
+  "name": "auditoria-skills",
+  "description": "MCP server with 20 internal-audit SKILLs grounded in global standards (IIA, COSO, NIST, ISO, IFRS, COBIT, ACFE), written in Spanish. Enables audit planning, control evaluation, and specialty audits via natural language.",
+  "source_repo": "marcelinero/auditoria-skills-mcp",
+  "source_url": "https://github.com/marcelinero/auditoria-skills-mcp",
+  "install": "npx -y auditoria-skills-mcp"
+}

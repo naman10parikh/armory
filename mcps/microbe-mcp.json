@@ -1,0 +1,7 @@
+{
+  "name": "microbe-mcp",
+  "description": "An MCP server that wraps R scripts for microbiome and amplicon (16S/ITS) analysis, providing tools for alpha/beta diversity, differential abundance, networks, and more, with PNG/PDF outputs.",
+  "source_repo": "Presisitence/microbe-mcp",
+  "source_url": "https://github.com/Presisitence/microbe-mcp",
+  "install": "npx -y microbe-mcp"
+}

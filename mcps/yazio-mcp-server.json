@@ -1,0 +1,7 @@
+{
+  "name": "yazio-mcp-server",
+  "description": "MCP server over the YAZIO food diary that lets a model read what you've eaten today, log meals, build recipes from tracked products, track water, weight and exercise, and query nutrition summaries, goals and profiles.",
+  "source_repo": "yazio-community/yazio-mcp-server",
+  "source_url": "https://github.com/yazio-community/yazio-mcp-server",
+  "install": "npx -y yazio-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-diff-system",
+  "description": "Fetches, summarizes, and reviews GitHub code diffs with asynchronous processing for large diffs.",
+  "source_repo": "geek-o-geek/mcp-diff-system",
+  "source_url": "https://github.com/geek-o-geek/mcp-diff-system",
+  "install": "# git clone --depth 1 https://github.com/geek-o-geek/mcp-diff-system\n# See source for mcpServers config block"
+}

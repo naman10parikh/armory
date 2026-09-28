@@ -1,0 +1,7 @@
+{
+  "name": "ragwatcher",
+  "description": "Local RAG over a directory, served as an MCP tool plus CLI, with incremental indexing, zero-config defaults, and offline CPU-only operation.",
+  "source_repo": "neumann-mlucas/ragwatcher",
+  "source_url": "https://github.com/neumann-mlucas/ragwatcher",
+  "install": "# git clone --depth 1 https://github.com/neumann-mlucas/ragwatcher\n# See source for mcpServers config block"
+}

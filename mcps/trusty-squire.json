@@ -1,0 +1,7 @@
+{
+  "name": "trusty-squire",
+  "description": "Signs up to SaaS platforms and vaults the credential so you can focus on coding",
+  "source_repo": "Trusty-Squire/trusty-squire",
+  "source_url": "https://github.com/Trusty-Squire/trusty-squire",
+  "install": "# git clone --depth 1 https://github.com/Trusty-Squire/trusty-squire\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "avo",
+  "description": "Enables agentic evolutionary search where an autonomous coding agent acts as the variation operator, letting users evolve target implementations by starting runs, receiving step prompts, evaluating worktrees, and submitting or reverting candidate changes.",
+  "source_repo": "gatordevin/avo",
+  "source_url": "https://github.com/gatordevin/avo",
+  "install": "# git clone --depth 1 https://github.com/gatordevin/avo\n# See source for mcpServers config block"
+}

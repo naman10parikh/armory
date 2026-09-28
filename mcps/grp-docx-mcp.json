@@ -1,0 +1,7 @@
+{
+  "name": "grp-docx-mcp",
+  "description": "Enables AI agents to create, read, and edit Word documents with tracked changes, comments, and template manipulation, including bulk text replacement and paragraph-level operations.",
+  "source_repo": "Arvindh95Censof/grp-docx-mcp",
+  "source_url": "https://github.com/Arvindh95Censof/grp-docx-mcp",
+  "install": "npx -y grp-docx-mcp"
+}

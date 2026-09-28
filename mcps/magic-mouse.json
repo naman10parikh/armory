@@ -1,0 +1,7 @@
+{
+  "name": "magic-mouse",
+  "description": "An MCP server that allows Cursor Agent to control your desktop via a desktop pet, enabling actions like mouse movement, clicks, typing, and app management.",
+  "source_repo": "WangYuecheng1106/Magic-Mouse",
+  "source_url": "https://github.com/WangYuecheng1106/Magic-Mouse",
+  "install": "# git clone --depth 1 https://github.com/WangYuecheng1106/Magic-Mouse\n# See source for mcpServers config block"
+}

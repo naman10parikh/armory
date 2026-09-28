@@ -1,0 +1,7 @@
+{
+  "name": "compendio-mcp",
+  "description": "Indexes your project's markdown documentation and exposes it to AI agents via local hybrid search (lexical + semantic) with progressive disclosure tools.",
+  "source_repo": "RuloGB/compendio-mcp",
+  "source_url": "https://github.com/RuloGB/compendio-mcp",
+  "install": "npx -y compendio-mcp"
+}

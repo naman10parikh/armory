@@ -1,0 +1,7 @@
+{
+  "name": "repoimmune-mcp-server",
+  "description": "Enables querying a repository's resolved bug history through six read-only tools, allowing agents to check patches against past failures, retrieve regression tests, and replay behavior cases to prevent regressions.",
+  "source_repo": "Alex0AI/RepoImmune",
+  "source_url": "https://github.com/Alex0AI/RepoImmune",
+  "install": "# git clone --depth 1 https://github.com/Alex0AI/RepoImmune\n# See source for mcpServers config block"
+}

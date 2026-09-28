@@ -1,0 +1,7 @@
+{
+  "name": "openinterp-mcp",
+  "description": "MCP server for mechanistic interpretability research, enabling agents to drive probe-causality and SAE-feature experiments via 8 typed tools on user's own compute (Colab).",
+  "source_repo": "OpenInterpretability/openinterp-mcp",
+  "source_url": "https://github.com/OpenInterpretability/openinterp-mcp",
+  "install": "npx -y openinterp-mcp"
+}

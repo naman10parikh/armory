@@ -1,0 +1,7 @@
+{
+  "name": "yet-another-web-scraper-mcp",
+  "description": "An MCP server that enables LLMs to drive a Chromium browser for web scraping, collecting structured data, and exporting to CSV.",
+  "source_repo": "KhaledDev/yet-another-web-scraper-mcp",
+  "source_url": "https://github.com/KhaledDev/yet-another-web-scraper-mcp",
+  "install": "npx -y yet-another-web-scraper-mcp"
+}

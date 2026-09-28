@@ -1,0 +1,7 @@
+{
+  "name": "sevenoaks-padel",
+  "description": "Enables checking Matchpoint club balance, listing free padel court availability, and booking private Open Matches through natural language from AI clients like Cursor or Claude Desktop.",
+  "source_repo": "paulajkhosla-source/7op-bot",
+  "source_url": "https://github.com/paulajkhosla-source/7op-bot",
+  "install": "# git clone --depth 1 https://github.com/paulajkhosla-source/7op-bot\n# See source for mcpServers config block"
+}

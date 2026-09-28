@@ -1,6 +1,6 @@
 {
   "name": "mcp-sample-vsc-debug",
-  "description": "Mcp Sample Vsc Debug MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "swatDong/mcp-sample-vsc-debug",
   "source_url": "https://mcp.so/server/mcp-sample-vsc-debug/swatDong",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-sample-vsc-debug/swatDong\n# See source for mcpServers config block"

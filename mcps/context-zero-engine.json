@@ -1,0 +1,7 @@
+{
+  "name": "context-zero-engine",
+  "description": "A local code-intelligence engine for AI agents that indexes repositories into a PostgreSQL-backed code graph and serves structured, token-budgeted context over MCP and HTTP, enabling targeted queries on symbols, dependencies, contracts, and impact analysis.",
+  "source_repo": "classeve-public/context-zero-engine",
+  "source_url": "https://github.com/classeve-public/context-zero-engine",
+  "install": "# git clone --depth 1 https://github.com/classeve-public/context-zero-engine\n# See source for mcpServers config block"
+}

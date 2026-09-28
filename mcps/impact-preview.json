@@ -1,0 +1,7 @@
+{
+  "name": "impact-preview",
+  "description": "MCP server that provides impact preview and approval workflow for AI agent actions, allowing users to see diffs and risk assessments before any changes are executed.",
+  "source_repo": "agent-polis/impact-preview",
+  "source_url": "https://github.com/agent-polis/impact-preview",
+  "install": "# git clone --depth 1 https://github.com/agent-polis/impact-preview\n# See source for mcpServers config block"
+}

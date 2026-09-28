@@ -1,0 +1,7 @@
+{
+  "name": "x402-cloudflare-starter",
+  "description": "Enables accepting USDC payments on Base and Solana via x402, with bring-your-own-wallets and no Coinbase account required, optimized for Cloudflare Workers and PayAI facilitator.",
+  "source_repo": "ANAMIZED/x402-cloudflare-starter",
+  "source_url": "https://github.com/ANAMIZED/x402-cloudflare-starter",
+  "install": "# git clone --depth 1 https://github.com/ANAMIZED/x402-cloudflare-starter\n# See source for mcpServers config block"
+}

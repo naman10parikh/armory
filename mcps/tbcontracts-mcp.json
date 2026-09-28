@@ -1,0 +1,7 @@
+{
+  "name": "tbcontracts-mcp",
+  "description": "MCP server for priority-weighted token budget management in multi-agent LLM systems, enabling dynamic reallocation of unused tokens between agents based on priority and current spend.",
+  "source_repo": "swaranshu-borgaonkar/tbc-mcp",
+  "source_url": "https://github.com/swaranshu-borgaonkar/tbc-mcp",
+  "install": "npx -y tbc-mcp"
+}

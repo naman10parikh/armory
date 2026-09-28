@@ -1,0 +1,7 @@
+{
+  "name": "my-remote-mcp-py",
+  "description": "A remote MCP Server demo using FastMCP and Streamable HTTP, offering tools (add, now, fetch_url_title, long_task with progress), resources, prompts, and autocomplete for remote client connections.",
+  "source_repo": "ervin-zhang/my-remote-mcp-py",
+  "source_url": "https://github.com/ervin-zhang/my-remote-mcp-py",
+  "install": "# git clone --depth 1 https://github.com/ervin-zhang/my-remote-mcp-py\n# See source for mcpServers config block"
+}

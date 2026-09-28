@@ -1,0 +1,7 @@
+{
+  "name": "anylogicple-mcp",
+  "description": "Generates AnyLogic simulation models from natural-language prompts in Claude Code, allowing users to describe queueing systems, factories, or ERs and obtain runnable .alp files.",
+  "source_repo": "umbaman/anylogicPLE-mcp",
+  "source_url": "https://github.com/umbaman/anylogicPLE-mcp",
+  "install": "npx -y anylogicPLE-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-lab-jma",
+  "description": "MCP server providing weather forecast, warnings, AMeDAS observations, and area search from Japan Meteorological Agency JSON APIs. It normalizes responses and supports Japanese place names.",
+  "source_repo": "sasonoda/mcp-lab-jma",
+  "source_url": "https://github.com/sasonoda/mcp-lab-jma",
+  "install": "# git clone --depth 1 https://github.com/sasonoda/mcp-lab-jma\n# See source for mcpServers config block"
+}

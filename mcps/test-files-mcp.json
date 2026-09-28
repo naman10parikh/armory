@@ -1,0 +1,7 @@
+{
+  "name": "test-files-mcp",
+  "description": "Generates test files locally (images, PDFs, CSVs, corrupted files, etc.) from natural language prompts, with configurable sizes and safety limits.",
+  "source_repo": "Zulelee/test-files-mcp",
+  "source_url": "https://github.com/Zulelee/test-files-mcp",
+  "install": "npx -y test-files-mcp"
+}

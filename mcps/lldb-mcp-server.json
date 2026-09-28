@@ -1,0 +1,7 @@
+{
+  "name": "lldb-mcp-server",
+  "description": "An MCP server that exposes LLDB debugging capabilities, enabling AI-assisted interactive debugging of C/C++ applications through 40 specialized tools.",
+  "source_repo": "FYTJ/lldb-mcp-server",
+  "source_url": "https://github.com/FYTJ/lldb-mcp-server",
+  "install": "npx -y lldb-mcp-server"
+}

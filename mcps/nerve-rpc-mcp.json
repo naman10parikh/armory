@@ -1,0 +1,7 @@
+{
+  "name": "nerve-rpc-mcp",
+  "description": "Exposes Nerve blockchain JSON-RPC and REST APIs as MCP tools, enabling AI agents to receive, pay, swap, and query balances with local account management and no gas fees.",
+  "source_repo": "NerveNetwork/nerve-agent",
+  "source_url": "https://github.com/NerveNetwork/nerve-agent",
+  "install": "# git clone --depth 1 https://github.com/NerveNetwork/nerve-agent\n# See source for mcpServers config block"
+}

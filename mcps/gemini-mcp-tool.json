@@ -1,0 +1,7 @@
+{
+  "name": "gemini-mcp-tool",
+  "description": "MCP server that integrates Google Gemini CLI with AI assistants, enabling large file analysis and natural language queries without an API key.",
+  "source_repo": "jacobcxdev/gemini-mcp-tool",
+  "source_url": "https://github.com/jacobcxdev/gemini-mcp-tool",
+  "install": "# git clone --depth 1 https://github.com/jacobcxdev/gemini-mcp-tool\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sri",
+  "description": "MCP server inspector that reads a server's published source code and reports findings with file:line evidence, helping users assess what an MCP server does before connecting.",
+  "source_repo": "SRITEST0001/sri",
+  "source_url": "https://github.com/SRITEST0001/sri",
+  "install": "# git clone --depth 1 https://github.com/SRITEST0001/sri\n# See source for mcpServers config block"
+}

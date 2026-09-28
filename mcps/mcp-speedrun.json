@@ -1,0 +1,7 @@
+{
+  "name": "mcp-speedrun",
+  "description": "Enables AI agents to query Speedrun.com data through the official API, supporting tools for retrieving game, run, and leaderboard information.",
+  "source_repo": "pipeworx-io/mcp-speedrun",
+  "source_url": "https://github.com/pipeworx-io/mcp-speedrun",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-speedrun\n# See source for mcpServers config block"
+}

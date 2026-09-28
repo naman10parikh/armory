@@ -1,0 +1,7 @@
+{
+  "name": "agent-orchestration",
+  "description": "A Model Context Protocol (MCP) server that enables multiple AI agents to share memory, coordinate tasks, and collaborate effectively across IDEs and CLI tools.",
+  "source_repo": "madebyaris/agent-orchestration",
+  "source_url": "https://github.com/madebyaris/agent-orchestration",
+  "install": "# git clone --depth 1 https://github.com/madebyaris/agent-orchestration\n# See source for mcpServers config block"
+}

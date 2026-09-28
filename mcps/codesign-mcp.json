@@ -1,0 +1,7 @@
+{
+  "name": "codesign-mcp",
+  "description": "Local MCP server for Tencent CoDesign sharing links, exposing artboards, layer specs, preview images, and exported slices to support design-to-code workflows.",
+  "source_repo": "ccpopy/codesign-mcp",
+  "source_url": "https://github.com/ccpopy/codesign-mcp",
+  "install": "npx -y codesign-mcp"
+}

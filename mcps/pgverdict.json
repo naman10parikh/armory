@@ -1,0 +1,7 @@
+{
+  "name": "pgverdict",
+  "description": "Postgres performance MCP server that analyzes hotspots, explains query plans, and detects dead-weight indexes. It aims to produce evidence-backed recommendations through a verification loop.",
+  "source_repo": "Svaca33/pgverdict",
+  "source_url": "https://github.com/Svaca33/pgverdict",
+  "install": "# git clone --depth 1 https://github.com/Svaca33/pgverdict\n# See source for mcpServers config block"
+}

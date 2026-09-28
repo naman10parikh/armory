@@ -1,0 +1,7 @@
+{
+  "name": "kio-orzeczenia-mcp",
+  "description": "MCP server for Polish public-procurement rulings (KIO / Krajowa Izba Odwoławcza) with verifiable citations.",
+  "source_repo": "matematicsolutions/kio-orzeczenia-mcp",
+  "source_url": "https://github.com/matematicsolutions/kio-orzeczenia-mcp",
+  "install": "npx -y kio-orzeczenia-mcp"
+}

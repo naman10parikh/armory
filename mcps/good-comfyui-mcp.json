@@ -1,0 +1,7 @@
+{
+  "name": "good-comfyui-mcp",
+  "description": "MCP server for generating AI images with local ComfyUI, featuring a reference-image-to-replication toolchain including Danbooru tag lookup, local Ollama vision, deobfuscation, and Civitai LoRA search/download.",
+  "source_repo": "xingxue-ux/good-comfyui-mcp",
+  "source_url": "https://github.com/xingxue-ux/good-comfyui-mcp",
+  "install": "npx -y good-comfyui-mcp"
+}

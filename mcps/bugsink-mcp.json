@@ -1,0 +1,7 @@
+{
+  "name": "bugsink-mcp",
+  "description": "Hosted MCP server that exposes your self-hosted Bugsink error tracker as tools for LLMs, enabling issue management, release tracking, and stacktrace retrieval via chat prompts.",
+  "source_repo": "Nshuti7/bugsink-mcp",
+  "source_url": "https://github.com/Nshuti7/bugsink-mcp",
+  "install": "npx -y bugsink-mcp"
+}

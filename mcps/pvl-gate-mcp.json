@@ -1,0 +1,7 @@
+{
+  "name": "pvl-gate-mcp",
+  "description": "Enables AI coding assistants to assess dependency introduction risks via ProjectValueLab's gate service, providing recommendations (GO/VALIDATE/DROP) with evidence and audit trails.",
+  "source_repo": "Octo-o-o-o/pvl-gate-mcp",
+  "source_url": "https://github.com/Octo-o-o-o/pvl-gate-mcp",
+  "install": "npx -y pvl-gate-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-apisix",
+  "description": "Enables querying and managing Apache APISIX gateway configurations (routes, services, upstreams, consumers, plugins) through natural language, with read-only mode and write operations requiring confirmation.",
+  "source_repo": "zhouweico/mcp-apisix",
+  "source_url": "https://github.com/zhouweico/mcp-apisix",
+  "install": "# git clone --depth 1 https://github.com/zhouweico/mcp-apisix\n# See source for mcpServers config block"
+}

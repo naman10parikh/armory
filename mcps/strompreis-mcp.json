@@ -1,0 +1,7 @@
+{
+  "name": "strompreis-mcp",
+  "description": "MCP server that gives AI agents real-time German electricity price forecasts.",
+  "source_repo": "DasClown/strompreis-mcp",
+  "source_url": "https://github.com/DasClown/strompreis-mcp",
+  "install": "npx -y strompreis-mcp"
+}

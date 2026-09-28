@@ -1,0 +1,7 @@
+{
+  "name": "dappier-mcp-server",
+  "description": "Enables fast real-time web search and access to premium data from trusted sources including news, financial markets, sports, and more. Supports AI agents with live data and curated content from various domains.",
+  "source_repo": "Cometdev312/Dappier-MCP-Server-Real-Time-Web-Market-Data-for-AI-Agents",
+  "source_url": "https://github.com/Cometdev312/Dappier-MCP-Server-Real-Time-Web-Market-Data-for-AI-Agents",
+  "install": "# git clone --depth 1 https://github.com/Cometdev312/Dappier-MCP-Server-Real-Time-Web-Market-Data-for-AI-Agents\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-bahrain-payments-mcp",
+  "description": "Enables AI agents to accept payments in Bahrain via Tap Payments, supporting Benefit, cards, and Apple Pay through a hosted checkout link.",
+  "source_repo": "junter1989k-ai/bahrain-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/bahrain-payments-mcp",
+  "install": "npx -y bahrain-payments-mcp"
+}

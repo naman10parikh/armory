@@ -1,6 +1,6 @@
 {
   "name": "mcpc",
-  "description": "Mcpc MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "vlyl/mcpc",
   "source_url": "https://mcp.so/server/mcpc/vlyl",
   "install": "# git clone --depth 1 https://mcp.so/server/mcpc/vlyl\n# See source for mcpServers config block"

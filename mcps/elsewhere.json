@@ -1,0 +1,7 @@
+{
+  "name": "elsewhere",
+  "description": "MCP server that provides coding agents with scoped, temporary network egress sessions, enabling requests to exit from specified locations without changing the host's connection. It verifies egress, prevents leaks, and supports multiple adapters like gluetun and SSH.",
+  "source_repo": "noelbraganza/elsewhere",
+  "source_url": "https://github.com/noelbraganza/elsewhere",
+  "install": "# git clone --depth 1 https://github.com/noelbraganza/elsewhere\n# See source for mcpServers config block"
+}

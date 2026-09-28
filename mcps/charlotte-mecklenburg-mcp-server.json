@@ -1,0 +1,7 @@
+{
+  "name": "charlotte-mecklenburg-mcp-server",
+  "description": "An MCP server that exposes Charlotte, NC and Mecklenburg County open data as tools for an LLM agent, enabling queries about trash pickup, parcels, zoning, crime, and more by geocoding addresses and querying live ArcGIS layers.",
+  "source_repo": "Lavoiedavidw/Charlotte-City-MCP",
+  "source_url": "https://github.com/Lavoiedavidw/Charlotte-City-MCP",
+  "install": "npx -y Charlotte-City-MCP"
+}

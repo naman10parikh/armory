@@ -1,0 +1,7 @@
+{
+  "name": "mcp-smithsonian",
+  "description": "Enables searching and retrieving detailed information about items from the Smithsonian Open Access collection, including metadata and images.",
+  "source_repo": "pipeworx-io/mcp-smithsonian",
+  "source_url": "https://github.com/pipeworx-io/mcp-smithsonian",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-smithsonian\n# See source for mcpServers config block"
+}

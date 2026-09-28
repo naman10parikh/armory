@@ -1,0 +1,7 @@
+{
+  "name": "flutter-analysis-engine-mcp",
+  "description": "Local-first MCP server providing deterministic Flutter/Dart static analysis, knowledge search, and project review with structured insights and confidence-based findings over an indexed SQLite store of official repositories.",
+  "source_repo": "Saad0149/Flutter_MCP_Knowledge",
+  "source_url": "https://github.com/Saad0149/Flutter_MCP_Knowledge",
+  "install": "# git clone --depth 1 https://github.com/Saad0149/Flutter_MCP_Knowledge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ev-digital-twin-agent",
+  "description": "An AI-powered EV Digital Twin platform for battery health monitoring, predictive maintenance, fleet analytics, and intelligent decision support using MCP tools for SOH prediction and RUL estimation.",
+  "source_repo": "mahmutcanborann/mcp-ev-digital-twin-agent",
+  "source_url": "https://github.com/mahmutcanborann/mcp-ev-digital-twin-agent",
+  "install": "# git clone --depth 1 https://github.com/mahmutcanborann/mcp-ev-digital-twin-agent\n# See source for mcpServers config block"
+}

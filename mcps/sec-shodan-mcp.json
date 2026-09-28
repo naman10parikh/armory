@@ -1,0 +1,7 @@
+{
+  "name": "sec-shodan-mcp",
+  "description": "Provides access to Shodan's IoT search engine API for device search, host intelligence, exploit database, network scanning, and security analysis through natural language.",
+  "source_repo": "schwarztim/sec-shodan-mcp",
+  "source_url": "https://github.com/schwarztim/sec-shodan-mcp",
+  "install": "npx -y sec-shodan-mcp"
+}

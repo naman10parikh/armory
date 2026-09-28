@@ -1,0 +1,7 @@
+{
+  "name": "assetcache-mcp",
+  "description": "Enables Claude to search and retrieve Unity game assets (sprites, sounds) via natural language, with automatic indexing and AI-powered labeling.",
+  "source_repo": "v0o0v/assetcache-mcp",
+  "source_url": "https://github.com/v0o0v/assetcache-mcp",
+  "install": "npx -y assetcache-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "photo-vlm-mcp",
+  "description": "A local Ollama-backed MCP server that gives coding assistants a portable photo-understanding toolset including photo analysis, OCR, scene inspection, comparison, and metadata extraction.",
+  "source_repo": "YehudRaanan/photo-vlm-mcp",
+  "source_url": "https://github.com/YehudRaanan/photo-vlm-mcp",
+  "install": "npx -y photo-vlm-mcp"
+}

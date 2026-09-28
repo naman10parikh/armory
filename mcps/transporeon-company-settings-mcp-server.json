@@ -1,0 +1,7 @@
+{
+  "name": "transporeon-company-settings-mcp-server",
+  "description": "Provides AI assistants with intelligent access to Transporeon's internal company settings API, enabling retrieval, search, and analysis of configuration settings across multiple environments with smart pagination and search capabilities.",
+  "source_repo": "larkinmaxim/mcp_customer_settings_http",
+  "source_url": "https://github.com/larkinmaxim/mcp_customer_settings_http",
+  "install": "# git clone --depth 1 https://github.com/larkinmaxim/mcp_customer_settings_http\n# See source for mcpServers config block"
+}

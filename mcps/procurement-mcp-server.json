@@ -1,0 +1,7 @@
+{
+  "name": "procurement-mcp-server",
+  "description": "Wraps a procurement REST API into MCP tools, enabling AI assistants to query purchase orders via natural language.",
+  "source_repo": "xtshK/01_procurement_mcp_server",
+  "source_url": "https://github.com/xtshK/01_procurement_mcp_server",
+  "install": "npx -y 01_procurement_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-jira",
+  "description": "Enables an AI agent to manage Jira Stories in a self-hosted Jira instance via the Jira REST API v2, including CRUD operations, workflow transitions, and burndown data retrieval.",
+  "source_repo": "sina-haseli/mcp-server-jira",
+  "source_url": "https://github.com/sina-haseli/mcp-server-jira",
+  "install": "# git clone --depth 1 https://github.com/sina-haseli/mcp-server-jira\n# See source for mcpServers config block"
+}

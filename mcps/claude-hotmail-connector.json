@@ -1,0 +1,7 @@
+{
+  "name": "claude-hotmail-connector",
+  "description": "Lets Claude read email and read/write calendar events for personal Microsoft accounts (Hotmail/Outlook/Live) via Microsoft Graph API, filling the gap where the official connector only supports work/school accounts.",
+  "source_repo": "TGoodhew/Claude-Hotmail-Connector",
+  "source_url": "https://github.com/TGoodhew/Claude-Hotmail-Connector",
+  "install": "# git clone --depth 1 https://github.com/TGoodhew/Claude-Hotmail-Connector\n# See source for mcpServers config block"
+}

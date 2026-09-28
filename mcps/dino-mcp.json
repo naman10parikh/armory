@@ -1,0 +1,7 @@
+{
+  "name": "dino-mcp",
+  "description": "A production-grade MCP server with interactive HTML dashboard UI for exploring dinosaur facts, data, and filtering, written in Go.",
+  "source_repo": "shennawardana23/mcp-dino",
+  "source_url": "https://github.com/shennawardana23/mcp-dino",
+  "install": "# git clone --depth 1 https://github.com/shennawardana23/mcp-dino\n# See source for mcpServers config block"
+}

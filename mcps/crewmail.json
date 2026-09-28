@@ -1,0 +1,7 @@
+{
+  "name": "crewmail",
+  "description": "File-based MCP server for AI coding agents to coordinate via inbox messaging and human escalation.",
+  "source_repo": "Nyankoro2856/crewmail",
+  "source_url": "https://github.com/Nyankoro2856/crewmail",
+  "install": "# git clone --depth 1 https://github.com/Nyankoro2856/crewmail\n# See source for mcpServers config block"
+}

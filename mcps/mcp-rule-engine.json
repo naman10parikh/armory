@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rule-engine",
+  "description": "Captures code modifications via AST analysis, generates reusable rules, and injects them into AI agent context with version audit and token-budgeted rule retrieval.",
+  "source_repo": "sole03/mcp-rule-engine",
+  "source_url": "https://github.com/sole03/mcp-rule-engine",
+  "install": "# git clone --depth 1 https://github.com/sole03/mcp-rule-engine\n# See source for mcpServers config block"
+}

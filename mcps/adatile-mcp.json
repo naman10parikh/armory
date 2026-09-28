@@ -1,0 +1,7 @@
+{
+  "name": "adatile-mcp",
+  "description": "Enables high-resolution image adaptive tiling preprocessing for the DeepSeek vision model, allowing analysis of large images via a six-stage pipeline that optimizes performance and handles degradation scenarios.",
+  "source_repo": "Mutton-hub/adatile-mcp",
+  "source_url": "https://github.com/Mutton-hub/adatile-mcp",
+  "install": "npx -y adatile-mcp"
+}

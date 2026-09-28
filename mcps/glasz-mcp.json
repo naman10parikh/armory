@@ -1,0 +1,7 @@
+{
+  "name": "glasz-mcp",
+  "description": "Fetches glasz-style spec files (product.md, tech.md, test-plan.md, and INDEX.md) from GitHub repositories, enabling LLMs to answer questions about features, stories, and acceptance criteria without cloning or pasting files.",
+  "source_repo": "korgmp3/glasz-mcp",
+  "source_url": "https://github.com/korgmp3/glasz-mcp",
+  "install": "npx -y glasz-mcp"
+}

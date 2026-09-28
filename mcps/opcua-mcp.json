@@ -1,0 +1,7 @@
+{
+  "name": "opcua-mcp",
+  "description": "Enables LLMs to read, write, browse, search, and subscribe to live data on OPC-UA industrial automation servers, with caching, discovery index, and support for stdio or HTTP transports.",
+  "source_repo": "mwieczorkiewicz/opcua-mcp",
+  "source_url": "https://github.com/mwieczorkiewicz/opcua-mcp",
+  "install": "npx -y opcua-mcp"
+}

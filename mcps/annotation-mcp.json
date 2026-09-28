@@ -1,0 +1,7 @@
+{
+  "name": "annotation-mcp",
+  "description": "MCP server for image annotation, supporting bounding boxes, arrows, highlights, callouts, text, and circles, plus barcode and text detection with OCR.",
+  "source_repo": "aschokinatgmail/annotation-mcp",
+  "source_url": "https://github.com/aschokinatgmail/annotation-mcp",
+  "install": "npx -y annotation-mcp"
+}

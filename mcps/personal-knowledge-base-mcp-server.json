@@ -1,0 +1,7 @@
+{
+  "name": "personal-knowledge-base-mcp-server",
+  "description": "A FastMCP server and web app for multi-tenant semantic search over personal document corpora, backed by Qdrant vector search and supporting MCP clients and a React dashboard.",
+  "source_repo": "F6-ZeppelinFellowship/Knowledge_Base-MCP_SERVER",
+  "source_url": "https://github.com/F6-ZeppelinFellowship/Knowledge_Base-MCP_SERVER",
+  "install": "npx -y Knowledge_Base-MCP_SERVER"
+}

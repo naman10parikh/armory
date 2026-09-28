@@ -1,0 +1,7 @@
+{
+  "name": "care-home-cqc-mcp",
+  "description": "Enables compliance with the UK CQC Single Assessment Framework, including KLOEs, NICE NG5, and DSPT standards.",
+  "source_repo": "CSOAI-ORG/care-home-cqc-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/care-home-cqc-mcp",
+  "install": "npx -y care-home-cqc-mcp"
+}

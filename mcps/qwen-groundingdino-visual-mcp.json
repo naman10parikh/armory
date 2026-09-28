@@ -1,0 +1,7 @@
+{
+  "name": "qwen-groundingdino-visual-mcp",
+  "description": "MCP server for open-vocabulary object detection and intelligent placement recommendation using Qwen VL and GroundingDINO, enabling natural language interaction with images.",
+  "source_repo": "tilikumotp/Qwen-GroundingDINO-Visual-MCP",
+  "source_url": "https://github.com/tilikumotp/Qwen-GroundingDINO-Visual-MCP",
+  "install": "npx -y Qwen-GroundingDINO-Visual-MCP"
+}

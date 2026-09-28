@@ -1,0 +1,7 @@
+{
+  "name": "komnet",
+  "description": "Git-backed message bus for AI coding agents — Claude Code, Cursor and Codex coordinate asynchronously, with no server",
+  "source_repo": "Komdosh/komnet",
+  "source_url": "https://github.com/Komdosh/komnet",
+  "install": "# git clone --depth 1 https://github.com/Komdosh/komnet\n# See source for mcpServers config block"
+}

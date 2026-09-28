@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-codex-read-only-mcp",
+  "description": "Provides read-only access to OpenClaw and Codex operational data like status, tasks, sessions, logs, and Git changes. Ensures safety via redaction, allowlists, and bounded outputs.",
+  "source_repo": "26s5k7yty4-boop/openclaw-codex-readonly-mcp",
+  "source_url": "https://github.com/26s5k7yty4-boop/openclaw-codex-readonly-mcp",
+  "install": "npx -y openclaw-codex-readonly-mcp"
+}

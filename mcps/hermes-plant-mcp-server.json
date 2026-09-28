@@ -1,0 +1,7 @@
+{
+  "name": "hermes-plant-mcp-server",
+  "description": "Enables AI agents to call deterministic finance and quant APIs (e.g., DCF, Black-Scholes, bond pricing) with per-call payments over x402, no API keys required.",
+  "source_repo": "JesseGdotIO/hermesplant-mcp-server",
+  "source_url": "https://github.com/JesseGdotIO/hermesplant-mcp-server",
+  "install": "npx -y hermesplant-mcp-server"
+}

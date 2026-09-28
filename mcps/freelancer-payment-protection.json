@@ -1,0 +1,7 @@
+{
+  "name": "freelancer-payment-protection",
+  "description": "MCP server wrapping the fpp CLI as a single generic run tool for freelancer client payment-risk checks.",
+  "source_repo": "RudrenduPaul/freelancer-payment-protection",
+  "source_url": "https://github.com/RudrenduPaul/freelancer-payment-protection",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/freelancer-payment-protection\n# See source for mcpServers config block"
+}

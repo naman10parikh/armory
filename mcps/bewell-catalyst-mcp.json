@@ -1,0 +1,7 @@
+{
+  "name": "bewell-catalyst-mcp",
+  "description": "MCP server for managing activity libraries on BeWell Catalyst, enabling creation, update, listing, fetching, and deletion of activities with media uploads.",
+  "source_repo": "bewellit/bewell-catalyst-mcp",
+  "source_url": "https://github.com/bewellit/bewell-catalyst-mcp",
+  "install": "npx -y bewell-catalyst-mcp"
+}

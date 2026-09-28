@@ -1,0 +1,7 @@
+{
+  "name": "subway-congestion-mcp",
+  "description": "Provides real-time and predicted congestion data, route optimization, and train arrival information for Seoul subway lines 1-8, helping users choose the best travel times.",
+  "source_repo": "jinjukimink/subway-congestion-mcp",
+  "source_url": "https://github.com/jinjukimink/subway-congestion-mcp",
+  "install": "npx -y subway-congestion-mcp"
+}

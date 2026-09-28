@@ -1,0 +1,7 @@
+{
+  "name": "iroha-for-notion",
+  "description": "Persists Claude Code sessions to Notion as team memory, enabling queryable recall of decisions, work state, and project architecture.",
+  "source_repo": "hir4ta/iroha-for-notion",
+  "source_url": "https://github.com/hir4ta/iroha-for-notion",
+  "install": "# git clone --depth 1 https://github.com/hir4ta/iroha-for-notion\n# See source for mcpServers config block"
+}

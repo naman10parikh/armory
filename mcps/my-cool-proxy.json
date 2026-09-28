@@ -1,0 +1,7 @@
+{
+  "name": "my-cool-proxy",
+  "description": "A Model Context Protocol server gateway that reduces context bloat through progressive tool discovery and Lua-based tool chaining, while centralizing multiple MCP servers into a single endpoint.",
+  "source_repo": "karashiiro/my-cool-proxy",
+  "source_url": "https://github.com/karashiiro/my-cool-proxy",
+  "install": "# git clone --depth 1 https://github.com/karashiiro/my-cool-proxy\n# See source for mcpServers config block"
+}

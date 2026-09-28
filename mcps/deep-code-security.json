@@ -1,0 +1,7 @@
+{
+  "name": "deep-code-security",
+  "description": "Multi-language SAST and AI-powered fuzzing MCP server for Claude Code integration, enabling static and dynamic security analysis of code.",
+  "source_repo": "backspace-shmackspace/deep-code-security",
+  "source_url": "https://github.com/backspace-shmackspace/deep-code-security",
+  "install": "# git clone --depth 1 https://github.com/backspace-shmackspace/deep-code-security\n# See source for mcpServers config block"
+}

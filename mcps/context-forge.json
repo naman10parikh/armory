@@ -1,0 +1,7 @@
+{
+  "name": "context-forge",
+  "description": "Context Forge is a vendor-neutral continuity layer for AI tools. It stores project context in Markdown and JSON, retrieves task-scoped context, and leaves structured handoffs so another model can continue without being taught the project again.",
+  "source_repo": "Radics/context-forge",
+  "source_url": "https://github.com/Radics/context-forge",
+  "install": "# git clone --depth 1 https://github.com/Radics/context-forge\n# See source for mcpServers config block"
+}

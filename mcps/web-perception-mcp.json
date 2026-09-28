@@ -1,0 +1,7 @@
+{
+  "name": "web-perception-mcp",
+  "description": "A DOM-first, vision-second MCP server for webpage analysis, combining structural DOM extraction with MiniMax vision to provide accurate, context-rich page understanding for AI coding assistants.",
+  "source_repo": "JaviGala/web-perception-mcp",
+  "source_url": "https://github.com/JaviGala/web-perception-mcp",
+  "install": "npx -y web-perception-mcp"
+}

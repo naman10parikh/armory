@@ -1,0 +1,7 @@
+{
+  "name": "memory-store",
+  "description": "A Rust MCP stdio server for durable project-local AI notes, enabling agents to store, search, and manage verified facts, decisions, and conventions.",
+  "source_repo": "usebarekey/memorystore",
+  "source_url": "https://github.com/usebarekey/memorystore",
+  "install": "# git clone --depth 1 https://github.com/usebarekey/memorystore\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dex-data-mcp-server",
+  "description": "Provides live multi-chain DEX market data as MCP tools, including token prices, liquidity depth, best execution venue, slippage, and liquidity risk across BNB Chain, Polygon, Arbitrum, Base, and Avalanche. It offers a free tier with daily allowances and falls back to x402 micropayments.",
+  "source_repo": "donnywin85/dex-data-mcp",
+  "source_url": "https://github.com/donnywin85/dex-data-mcp",
+  "install": "npx -y dex-data-mcp"
+}

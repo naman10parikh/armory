@@ -1,0 +1,7 @@
+{
+  "name": "cmdop-machine-care",
+  "description": "Read-only health and storage diagnostics for an enrolled CMDOP machine fleet.",
+  "source_repo": "commandoperator/cmdop-care-mcp",
+  "source_url": "https://github.com/commandoperator/cmdop-care-mcp",
+  "install": "npx -y cmdop-care-mcp"
+}

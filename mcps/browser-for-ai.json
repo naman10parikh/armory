@@ -1,0 +1,7 @@
+{
+  "name": "browser-for-ai",
+  "description": "A CDP-native MCP server that lets AI agents drive a real Chrome browser with deep network/console inspection, robust page interaction, and the ability to reverse-engineer a site's API flow into runnable code with dependency chaining and replay verification.",
+  "source_repo": "icueth/browser-for-ai",
+  "source_url": "https://github.com/icueth/browser-for-ai",
+  "install": "# git clone --depth 1 https://github.com/icueth/browser-for-ai\n# See source for mcpServers config block"
+}

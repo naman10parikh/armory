@@ -1,0 +1,7 @@
+{
+  "name": "motion-text",
+  "description": "Turn words, images, and audio into an animated video with MP4 export.",
+  "source_repo": "threadlimit/motiontext-mcp",
+  "source_url": "https://github.com/threadlimit/motiontext-mcp",
+  "install": "npx -y motiontext-mcp"
+}

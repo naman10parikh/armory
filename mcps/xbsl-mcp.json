@@ -1,0 +1,7 @@
+{
+  "name": "xbsl-mcp",
+  "description": "Enables AI agents to lint, search documentation, and perform metadata scaffolding for 1C:Element projects.",
+  "source_repo": "keyfire/xbsl",
+  "source_url": "https://github.com/keyfire/xbsl",
+  "install": "# git clone --depth 1 https://github.com/keyfire/xbsl\n# See source for mcpServers config block"
+}

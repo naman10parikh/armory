@@ -1,0 +1,7 @@
+{
+  "name": "project-context-mcp",
+  "description": "An MCP server that makes project documentation instantly accessible in Claude Code through @ mentions, allowing Claude to understand your codebase's conventions and architecture.",
+  "source_repo": "ericbrown/project-context-mcp",
+  "source_url": "https://github.com/ericbrown/project-context-mcp",
+  "install": "npx -y project-context-mcp"
+}

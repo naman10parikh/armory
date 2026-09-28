@@ -1,0 +1,7 @@
+{
+  "name": "ml-mcp-server",
+  "description": "Enables training and using machine learning models on local CSV datasets or data from other MCP servers, supporting tasks like forecasting, regression, classification, and anomaly detection.",
+  "source_repo": "pktcopilot2/ml-mcp",
+  "source_url": "https://github.com/pktcopilot2/ml-mcp",
+  "install": "npx -y ml-mcp"
+}

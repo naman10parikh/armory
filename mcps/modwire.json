@@ -1,0 +1,7 @@
+{
+  "name": "modwire",
+  "description": "Provides a tool to inspect and execute actions on a scaffolding API through Siren hypermedia links, enabling management of scaffolding resources without endpoint knowledge.",
+  "source_repo": "modwire/modwire-agent",
+  "source_url": "https://github.com/modwire/modwire-agent",
+  "install": "# git clone --depth 1 https://github.com/modwire/modwire-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "milehost-mcp-server",
+  "description": "Enables AI coding agents to manage cloud containers, create and edit files, run commands, and deploy projects directly.",
+  "source_repo": "Mile-Host/MileHost-MCP",
+  "source_url": "https://github.com/Mile-Host/MileHost-MCP",
+  "install": "npx -y MileHost-MCP"
+}

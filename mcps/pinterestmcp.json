@@ -1,0 +1,7 @@
+{
+  "name": "pinterestmcp",
+  "description": "Read-only MCP server for exposing Pinterest boards, sections, pins, and imagery as a visual reference library. Enables ChatGPT and other clients to list, search, and retrieve Pinterest content through natural language.",
+  "source_repo": "IMONsergey/PinterestMCP",
+  "source_url": "https://github.com/IMONsergey/PinterestMCP",
+  "install": "# git clone --depth 1 https://github.com/IMONsergey/PinterestMCP\n# See source for mcpServers config block"
+}

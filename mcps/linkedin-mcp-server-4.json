@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-mcp-server-4",
+  "description": "Enables posting content, sharing articles, and managing your LinkedIn profile through Claude using the official LinkedIn API with OAuth 2.0.",
+  "source_repo": "ihiteshgupta/linkedin-mcp-server",
+  "source_url": "https://github.com/ihiteshgupta/linkedin-mcp-server",
+  "install": "npx -y linkedin-mcp-server"
+}

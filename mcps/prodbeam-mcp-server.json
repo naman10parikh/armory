@@ -1,0 +1,7 @@
+{
+  "name": "prodbeam-mcp-server",
+  "description": "Generates engineering intelligence reports (standups, weekly summaries, sprint retrospectives) from GitHub and Jira data, accessible via MCP clients or CLI.",
+  "source_repo": "prodbeam/prodbeam-mcp",
+  "source_url": "https://github.com/prodbeam/prodbeam-mcp",
+  "install": "npx -y prodbeam-mcp"
+}

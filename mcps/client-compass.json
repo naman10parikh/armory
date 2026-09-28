@@ -1,0 +1,7 @@
+{
+  "name": "client-compass",
+  "description": "Generates personalized client strategy briefs from a name, and manages client profiles for behavioral intelligence, enabling client-facing professionals to prepare for conversations.",
+  "source_repo": "marcus160365/numbru-mcp-server",
+  "source_url": "https://github.com/marcus160365/numbru-mcp-server",
+  "install": "npx -y numbru-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "collibra-mcp",
+  "description": "This server enables reading and writing Collibra assets, attributes, and relations via the Collibra Core REST API, allowing detailed metadata management for Power BI report assets.",
+  "source_repo": "rajivdatta/mcp-collibra",
+  "source_url": "https://github.com/rajivdatta/mcp-collibra",
+  "install": "# git clone --depth 1 https://github.com/rajivdatta/mcp-collibra\n# See source for mcpServers config block"
+}

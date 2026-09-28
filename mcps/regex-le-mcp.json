@@ -1,0 +1,7 @@
+{
+  "name": "regex-le-mcp",
+  "description": "Provides a tool to extract and validate regex patterns from text content, including flags, positions, and ReDoS risk assessment. Enables AI agents to identify potentially dangerous regular expressions in code or files without needing filesystem access.",
+  "source_repo": "nolindnaidoo/regex-le",
+  "source_url": "https://github.com/nolindnaidoo/regex-le",
+  "install": "# git clone --depth 1 https://github.com/nolindnaidoo/regex-le\n# See source for mcpServers config block"
+}

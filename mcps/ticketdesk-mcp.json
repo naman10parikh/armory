@@ -1,0 +1,7 @@
+{
+  "name": "ticketdesk-mcp",
+  "description": "Enables AI assistants to search and retrieve support tickets, add notes, close tickets, and access SLA policies through MCP tools, resources, and prompts over Streamable HTTP.",
+  "source_repo": "bhargavlukka/ticketdesk-mcp",
+  "source_url": "https://github.com/bhargavlukka/ticketdesk-mcp",
+  "install": "npx -y ticketdesk-mcp"
+}

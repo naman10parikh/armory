@@ -1,0 +1,7 @@
+{
+  "name": "jisho-mcp",
+  "description": "Enables Japanese word lookup and search using the Jisho.org dictionary, providing tools to search entries and retrieve exact word definitions with JLPT levels and parts of speech.",
+  "source_repo": "giuliocapecchi/jisho-mcp",
+  "source_url": "https://github.com/giuliocapecchi/jisho-mcp",
+  "install": "npx -y jisho-mcp"
+}

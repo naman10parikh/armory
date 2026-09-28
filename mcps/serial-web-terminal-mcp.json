@@ -1,0 +1,7 @@
+{
+  "name": "serial-web-terminal-mcp",
+  "description": "Enables AI assistants to interact with serial port devices by sending commands, capturing output, and managing connections, with real-time browser-based terminal monitoring.",
+  "source_repo": "WakkeWang/serial-terminal-mcp-tool",
+  "source_url": "https://github.com/WakkeWang/serial-terminal-mcp-tool",
+  "install": "# git clone --depth 1 https://github.com/WakkeWang/serial-terminal-mcp-tool\n# See source for mcpServers config block"
+}

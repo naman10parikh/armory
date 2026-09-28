@@ -1,0 +1,7 @@
+{
+  "name": "thefreechart-mcp",
+  "description": "Enables AI assistants to connect to a trading journal, analyze performance metrics, identify psychological biases, and receive continuous trading coaching.",
+  "source_repo": "nguyenduy7474/thefreechart-mcp",
+  "source_url": "https://github.com/nguyenduy7474/thefreechart-mcp",
+  "install": "npx -y thefreechart-mcp"
+}

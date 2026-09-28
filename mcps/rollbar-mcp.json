@@ -1,0 +1,7 @@
+{
+  "name": "rollbar-mcp",
+  "description": "A read-only MCP server for Rollbar investigations, enabling listing configured environments and making authenticated GET requests to the Rollbar API.",
+  "source_repo": "andreimaxim/rollbar-mcp",
+  "source_url": "https://github.com/andreimaxim/rollbar-mcp",
+  "install": "npx -y rollbar-mcp"
+}

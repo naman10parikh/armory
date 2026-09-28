@@ -1,0 +1,7 @@
+{
+  "name": "voltix-mcp",
+  "description": "A set of nine tools for AI agents with micropayments in USDC on Base, including on-chain intelligence, web search, document parsing, and more.",
+  "source_repo": "clearcheck-uk/voltix-mcp",
+  "source_url": "https://github.com/clearcheck-uk/voltix-mcp",
+  "install": "npx -y voltix-mcp"
+}

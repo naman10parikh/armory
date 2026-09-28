@@ -1,0 +1,7 @@
+{
+  "name": "tensorfire",
+  "description": "MCP server for security-testing AI models, exposing garak vulnerability scanning and URL/MCP-endpoint scanning as callable tools. It lets agents probe LLM endpoints for jailbreaks, prompt injection, and data leakage, and classify URLs or screen remote MCP endpoints for prompt-injection payloads.",
+  "source_repo": "cignal-ai/tensorfire",
+  "source_url": "https://github.com/cignal-ai/tensorfire",
+  "install": "# git clone --depth 1 https://github.com/cignal-ai/tensorfire\n# See source for mcpServers config block"
+}

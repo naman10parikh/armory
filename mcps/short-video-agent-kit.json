@@ -1,0 +1,7 @@
+{
+  "name": "short-video-agent-kit",
+  "description": "Provider-neutral short-form AI video toolkit for agents: Sora, Gemini Veo, xAI/Grok and Seedance.",
+  "source_repo": "davidmosiah/short-video-agent-kit",
+  "source_url": "https://github.com/davidmosiah/short-video-agent-kit",
+  "install": "# git clone --depth 1 https://github.com/davidmosiah/short-video-agent-kit\n# See source for mcpServers config block"
+}

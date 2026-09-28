@@ -1,0 +1,7 @@
+{
+  "name": "pagepilot-mcp",
+  "description": "Enables AI agents to manage a Facebook Fanpage via the official Graph API, supporting posting, scheduling, comment moderation, and analytics, without scraping or accessing private messages.",
+  "source_repo": "Thangterter-Pipo/pagepilot-mcp",
+  "source_url": "https://github.com/Thangterter-Pipo/pagepilot-mcp",
+  "install": "npx -y pagepilot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sigmalineage-mcp",
+  "description": "Enables context-aware EVTX hunting with process lineage tracing and rarity baselining to surface real threats from security logs, transforming raw alerts into actionable kill chain intelligence.",
+  "source_repo": "MohitDabas/sigmalineage-mcp",
+  "source_url": "https://github.com/MohitDabas/sigmalineage-mcp",
+  "install": "npx -y sigmalineage-mcp"
+}

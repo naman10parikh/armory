@@ -1,0 +1,7 @@
+{
+  "name": "runapi-ai-gpt-4o-image-mcp",
+  "description": "MCP server for GPT-4o Image model line, enabling text-to-image task creation, status polling, and pricing checks via RunAPI.",
+  "source_repo": "runapi-ai/gpt-4o-image-mcp",
+  "source_url": "https://github.com/runapi-ai/gpt-4o-image-mcp",
+  "install": "npx -y gpt-4o-image-mcp"
+}

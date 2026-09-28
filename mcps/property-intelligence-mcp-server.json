@@ -1,0 +1,7 @@
+{
+  "name": "property-intelligence-mcp-server",
+  "description": "Provides free property and parcel intelligence using official US government data APIs, county assessor records, and live listings, with tools for hazard risk checks, affordability calculations, and parcel ranking.",
+  "source_repo": "mosswild/res_prop_mcp",
+  "source_url": "https://github.com/mosswild/res_prop_mcp",
+  "install": "npx -y res_prop_mcp"
+}

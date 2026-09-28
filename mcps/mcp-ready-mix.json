@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ready-mix",
+  "description": "An MCP server that solves permission fatigue by letting you pre-approve commands, enabling Claude to run them without asking for permission each time.",
+  "source_repo": "Ivor/mcp-ready-mix",
+  "source_url": "https://github.com/Ivor/mcp-ready-mix",
+  "install": "# git clone --depth 1 https://github.com/Ivor/mcp-ready-mix\n# See source for mcpServers config block"
+}

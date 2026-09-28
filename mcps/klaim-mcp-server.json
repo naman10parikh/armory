@@ -1,0 +1,7 @@
+{
+  "name": "klaim-mcp-server",
+  "description": "Enables AI agents to request and pay for privacy-preserving human verification claims, such as age over 18, via MCP with x402 settlement on Algorand, returning proofs without exposing personal data.",
+  "source_repo": "Omicron6/Klaim",
+  "source_url": "https://github.com/Omicron6/Klaim",
+  "install": "# git clone --depth 1 https://github.com/Omicron6/Klaim\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-x402",
+  "description": "The first MCP server that pays for itself. AI agents pay for ScriptMasterLabs data autonomously via x402 — 43+ pay-per-call tools for market intelligence, SEC filings, federal grants/contracts, and more.",
+  "source_repo": "Timwal78/SML_Portfolio",
+  "source_url": "https://github.com/Timwal78/SML_Portfolio",
+  "install": "# git clone --depth 1 https://github.com/Timwal78/SML_Portfolio\n# See source for mcpServers config block"
+}

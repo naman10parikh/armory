@@ -1,0 +1,7 @@
+{
+  "name": "office-ai-blueprint-mcp-server",
+  "description": "A connector that surfaces ~50 tools from 10+ integrated business systems (CRM, finance, support) via MCP, enabling an AI assistant to securely query and operate on correlated office data.",
+  "source_repo": "cardozoesaggioro/office-ai-blueprint",
+  "source_url": "https://github.com/cardozoesaggioro/office-ai-blueprint",
+  "install": "# git clone --depth 1 https://github.com/cardozoesaggioro/office-ai-blueprint\n# See source for mcpServers config block"
+}

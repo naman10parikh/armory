@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent-operations",
+  "description": "mcp-agent-ops is a local stdio MCP server for deterministic agent-development operations that otherwise cause repeated shell and generated Python calls.",
+  "source_repo": "martinbechard/mcp-agent-ops",
+  "source_url": "https://github.com/martinbechard/mcp-agent-ops",
+  "install": "# git clone --depth 1 https://github.com/martinbechard/mcp-agent-ops\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thales-cdsp-csm-mcp-server",
+  "description": "MCP server for Thales CipherTrust Secrets Management (powered by Akeyless) enabling secrets, DFC keys, authentication methods, roles, targets, analytics management, and intelligent app development with hardcoded secret migration.",
+  "source_repo": "sanyambassi/thales-cdsp-csm-mcp-server",
+  "source_url": "https://github.com/sanyambassi/thales-cdsp-csm-mcp-server",
+  "install": "npx -y thales-cdsp-csm-mcp-server"
+}

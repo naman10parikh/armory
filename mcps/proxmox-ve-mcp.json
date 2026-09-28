@@ -1,0 +1,7 @@
+{
+  "name": "proxmox-ve-mcp",
+  "description": "Exposes Proxmox VE hosts as MCP tools for inventory, status, and VM/container management, running as a standalone Streamable HTTP service.",
+  "source_repo": "anderson-jason573/proxmox-ve-mcp",
+  "source_url": "https://github.com/anderson-jason573/proxmox-ve-mcp",
+  "install": "npx -y proxmox-ve-mcp"
+}

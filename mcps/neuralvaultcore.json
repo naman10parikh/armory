@@ -1,0 +1,7 @@
+{
+  "name": "neuralvaultcore",
+  "description": "An MCP server that provides persistent long-term memory for AI agents via local SQLite storage with low token overhead, enabling memory storage, retrieval, and management across sessions.",
+  "source_repo": "getobyte/NeuralVaultCore",
+  "source_url": "https://github.com/getobyte/NeuralVaultCore",
+  "install": "# git clone --depth 1 https://github.com/getobyte/NeuralVaultCore\n# See source for mcpServers config block"
+}

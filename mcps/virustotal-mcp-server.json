@@ -1,0 +1,7 @@
+{
+  "name": "virustotal-mcp-server",
+  "description": "MCP server for security analysis using VirusTotal API, enabling AI assistants to analyze URLs, files, IP addresses, and domains with automatic relationship fetching.",
+  "source_repo": "barvhaim/virustotal-mcp-server",
+  "source_url": "https://github.com/barvhaim/virustotal-mcp-server",
+  "install": "npx -y virustotal-mcp-server"
+}

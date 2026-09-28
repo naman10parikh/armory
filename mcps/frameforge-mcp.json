@@ -1,0 +1,7 @@
+{
+  "name": "frameforge-mcp",
+  "description": "MCP server that renders AI-authored documents to images and returns typed diagnostics for self-correction. It also provides visual QA metrics, raster-to-vector reconstruction, and image-to-draft proposals.",
+  "source_repo": "pedroanisio/frameforge-mcp",
+  "source_url": "https://github.com/pedroanisio/frameforge-mcp",
+  "install": "npx -y frameforge-mcp"
+}

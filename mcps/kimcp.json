@@ -1,0 +1,7 @@
+{
+  "name": "kimcp",
+  "description": "Integrates Korean APIs (Naver, Kakao, TMAP) into LLM applications for search, maps, and directions.",
+  "source_repo": "zeikar/kimcp",
+  "source_url": "https://github.com/zeikar/kimcp",
+  "install": "# git clone --depth 1 https://github.com/zeikar/kimcp\n# See source for mcpServers config block"
+}

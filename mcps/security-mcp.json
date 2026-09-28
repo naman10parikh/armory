@@ -1,0 +1,7 @@
+{
+  "name": "security-mcp",
+  "description": "Fetches GitHub Code Scanning alerts and applies minimal local patches to fix vulnerabilities, without creating branches, commits, or PRs.",
+  "source_repo": "P-Shreyas-Maersk/security-mcp",
+  "source_url": "https://github.com/P-Shreyas-Maersk/security-mcp",
+  "install": "npx -y security-mcp"
+}

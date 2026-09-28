@@ -1,0 +1,7 @@
+{
+  "name": "cookbook-mcp-server",
+  "description": "A TypeScript MCP server template that demonstrates hosting HTTP servers on Smithery using custom containers, with STDIO support for backwards compatibility.",
+  "source_repo": "callmybot/cookbook-mcp-server",
+  "source_url": "https://github.com/callmybot/cookbook-mcp-server",
+  "install": "npx -y cookbook-mcp-server"
+}

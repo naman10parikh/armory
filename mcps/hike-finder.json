@@ -1,0 +1,7 @@
+{
+  "name": "hike-finder",
+  "description": "Finds marked hiking routes from OpenStreetMap filtered by locally-computed elevation gain, distance, loop shape, and car/chairlift access, providing consistent and tunable metrics instead of third-party scraped data.",
+  "source_repo": "BoykoNeov/hike-finder-mcp",
+  "source_url": "https://github.com/BoykoNeov/hike-finder-mcp",
+  "install": "npx -y hike-finder-mcp"
+}

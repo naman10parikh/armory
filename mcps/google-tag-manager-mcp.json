@@ -1,0 +1,7 @@
+{
+  "name": "google-tag-manager-mcp",
+  "description": "MCP server for the Google Tag Manager API v2, enabling natural-language management of containers, workspaces, tags, triggers, variables, and publishing. It handles OAuth authentication and built-in rate limiting for the strict GTM API quota.",
+  "source_repo": "A1-x-Tech/mcp-google-tagmanager",
+  "source_url": "https://github.com/A1-x-Tech/mcp-google-tagmanager",
+  "install": "# git clone --depth 1 https://github.com/A1-x-Tech/mcp-google-tagmanager\n# See source for mcpServers config block"
+}

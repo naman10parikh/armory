@@ -1,0 +1,7 @@
+{
+  "name": "telegram-notification-mcp",
+  "description": "Enables sending notifications to Telegram via a bot, using only native Node.js APIs.",
+  "source_repo": "discountry/telegram-notification-mcp",
+  "source_url": "https://github.com/discountry/telegram-notification-mcp",
+  "install": "npx -y telegram-notification-mcp"
+}

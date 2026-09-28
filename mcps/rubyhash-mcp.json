@@ -1,0 +1,7 @@
+{
+  "name": "rubyhash-mcp",
+  "description": "Enables comparing Ruby hash literals and converting Ruby hashes to JSON with deterministic diff reports, running locally for privacy.",
+  "source_repo": "builtbyproxy/rubyhash-mcp",
+  "source_url": "https://github.com/builtbyproxy/rubyhash-mcp",
+  "install": "npx -y rubyhash-mcp"
+}

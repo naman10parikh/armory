@@ -1,0 +1,7 @@
+{
+  "name": "cpanel-reseller-mcp",
+  "description": "Enables secure management of a cPanel reseller account, including account operations, diagnostics, and governance with RBAC and audit trails.",
+  "source_repo": "Semeion-Tech/cpanel-reseller-mcp",
+  "source_url": "https://github.com/Semeion-Tech/cpanel-reseller-mcp",
+  "install": "npx -y cpanel-reseller-mcp"
+}

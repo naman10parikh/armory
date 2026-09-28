@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-mcp-proxy",
+  "description": "Exposes app-registered tools as an MCP server for OpenClaw, forwarding actual tool execution back to the app over a WebSocket bridge.",
+  "source_repo": "wenyue/openclaw_mcp_proxy",
+  "source_url": "https://github.com/wenyue/openclaw_mcp_proxy",
+  "install": "# git clone --depth 1 https://github.com/wenyue/openclaw_mcp_proxy\n# See source for mcpServers config block"
+}

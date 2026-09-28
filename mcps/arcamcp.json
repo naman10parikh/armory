@@ -1,0 +1,7 @@
+{
+  "name": "arcamcp",
+  "description": "MCP server for automating AFIP/ARCA electronic invoicing, certificate management, and Web Service authorization in Argentina.",
+  "source_repo": "Yoryoboy/ArcaMCP",
+  "source_url": "https://github.com/Yoryoboy/ArcaMCP",
+  "install": "# git clone --depth 1 https://github.com/Yoryoboy/ArcaMCP\n# See source for mcpServers config block"
+}

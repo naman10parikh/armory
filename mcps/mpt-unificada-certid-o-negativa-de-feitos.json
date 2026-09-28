@@ -1,0 +1,7 @@
+{
+  "name": "mpt-unificada-certid-o-negativa-de-feitos",
+  "description": "Enables querying the MPT Unificada negative certificate of court proceedings from the official source via natural language. Provides a read-only tool for checking labor court records.",
+  "source_repo": "mcp-dir/mpt_cnf_unificada-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt_cnf_unificada-mcp",
+  "install": "npx -y mpt_cnf_unificada-mcp"
+}

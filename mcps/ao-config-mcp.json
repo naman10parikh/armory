@@ -1,0 +1,7 @@
+{
+  "name": "ao-config-mcp",
+  "description": "MCP server for Aptos ONE configuration management, enabling schema intelligence, change set management, distribution workflows, and cross-environment comparison.",
+  "source_repo": "CapNexus/ao-config-mcp",
+  "source_url": "https://github.com/CapNexus/ao-config-mcp",
+  "install": "npx -y ao-config-mcp"
+}

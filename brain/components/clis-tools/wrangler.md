@@ -6,7 +6,7 @@ source_repo: https://github.com/cloudflare/workers-sdk
 source_url: https://github.com/cloudflare/workers-sdk
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: 4583
 eval_score: 1
 mentions: null

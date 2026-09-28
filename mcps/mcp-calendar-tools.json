@@ -1,0 +1,7 @@
+{
+  "name": "mcp-calendar-tools",
+  "description": "Enables reading and managing calendar events from local .ics files offline, without OAuth.",
+  "source_repo": "Preeti325/mcp-calendar",
+  "source_url": "https://github.com/Preeti325/mcp-calendar",
+  "install": "# git clone --depth 1 https://github.com/Preeti325/mcp-calendar\n# See source for mcpServers config block"
+}

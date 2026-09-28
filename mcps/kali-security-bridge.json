@@ -1,0 +1,7 @@
+{
+  "name": "kali-security-bridge",
+  "description": "MCP server that runs offensive security testing tools (nmap, sqlmap, hydra, nuclei, etc.) inside an isolated Kali Linux Docker container, with allowlist, rate limiting, and audit logging.",
+  "source_repo": "flaviofilipe/kali-mcp",
+  "source_url": "https://github.com/flaviofilipe/kali-mcp",
+  "install": "npx -y kali-mcp"
+}

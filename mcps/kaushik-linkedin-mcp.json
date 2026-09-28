@@ -1,0 +1,7 @@
+{
+  "name": "kaushik-linkedin-mcp",
+  "description": "Enables Claude AI to interact with LinkedIn through browser automation, including profile reading, people and job search, company research, post publishing, and profile editing.",
+  "source_repo": "Secure-tree/AI-claude-playwright-Linkedin--MCP-sever-Automation",
+  "source_url": "https://github.com/Secure-tree/AI-claude-playwright-Linkedin--MCP-sever-Automation",
+  "install": "# git clone --depth 1 https://github.com/Secure-tree/AI-claude-playwright-Linkedin--MCP-sever-Automation\n# See source for mcpServers config block"
+}

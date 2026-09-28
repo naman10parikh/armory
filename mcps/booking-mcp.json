@@ -1,0 +1,7 @@
+{
+  "name": "booking-mcp",
+  "description": "Enables managing restaurant reservations over Streamable HTTP, with tools for booking, checking availability, cancelling, resources for reservation data, and prompts for drafting confirmations.",
+  "source_repo": "LuoZihYuan/booking-mcp",
+  "source_url": "https://github.com/LuoZihYuan/booking-mcp",
+  "install": "npx -y booking-mcp"
+}

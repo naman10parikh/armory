@@ -1,0 +1,7 @@
+{
+  "name": "gdelt-events-mcp",
+  "description": "Enables macro/geopolitical event detection by wrapping the GDELT 2.0 API, providing tools for searching events, trending actors, and sentiment timeseries from global news.",
+  "source_repo": "guptaprakhariitr/gdelt-events-mcp",
+  "source_url": "https://github.com/guptaprakhariitr/gdelt-events-mcp",
+  "install": "npx -y gdelt-events-mcp"
+}

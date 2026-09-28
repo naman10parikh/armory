@@ -1,0 +1,7 @@
+{
+  "name": "unifi-network-mcp",
+  "description": "MCP server providing typed, safety-gated access to UniFi Network consoles via the official API, enabling management of devices, clients, networks, WiFi, firewall policies, and more.",
+  "source_repo": "ZenixSolutions/unifi-network-mcp",
+  "source_url": "https://github.com/ZenixSolutions/unifi-network-mcp",
+  "install": "npx -y unifi-network-mcp"
+}

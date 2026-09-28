@@ -1,0 +1,7 @@
+{
+  "name": "cadastur-prestadores-mcp",
+  "description": "Enables querying official Brazilian tourism registry (Cadastur) providers through a read-only MCP tool, with pay-per-use credits and no platform credentials.",
+  "source_repo": "mcp-dir/cadastur_prestadores-mcp",
+  "source_url": "https://github.com/mcp-dir/cadastur_prestadores-mcp",
+  "install": "npx -y cadastur_prestadores-mcp"
+}

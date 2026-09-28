@@ -1,0 +1,7 @@
+{
+  "name": "mcp-nfs-emissor",
+  "description": "Emits Shopee affiliate commission NFS-e from a monthly CSV, running 100% locally via stdio with CSV, A1 certificate, and emission never leaving the machine.",
+  "source_repo": "fidsouzarv/mcp-nfs-emissor",
+  "source_url": "https://github.com/fidsouzarv/mcp-nfs-emissor",
+  "install": "# git clone --depth 1 https://github.com/fidsouzarv/mcp-nfs-emissor\n# See source for mcpServers config block"
+}

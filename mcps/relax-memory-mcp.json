@@ -1,0 +1,7 @@
+{
+  "name": "relax-memory-mcp",
+  "description": "Persistent, structured memory server for AI agents using the Model Context Protocol, with categorized storage and tools to add, get, delete, and list memories.",
+  "source_repo": "jgauffin/memory-mcp",
+  "source_url": "https://github.com/jgauffin/memory-mcp",
+  "install": "npx -y memory-mcp"
+}

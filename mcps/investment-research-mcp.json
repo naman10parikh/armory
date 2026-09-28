@@ -1,0 +1,7 @@
+{
+  "name": "investment-research-mcp",
+  "description": "An evidence-first investment research MCP server that combines official disclosures, market data, and domain-specific evidence for Korean biotech companies like Samsung Biologics, Daewoong Pharmaceutical, and Lunit.",
+  "source_repo": "inkyunp/investment-research-mcp",
+  "source_url": "https://github.com/inkyunp/investment-research-mcp",
+  "install": "npx -y investment-research-mcp"
+}

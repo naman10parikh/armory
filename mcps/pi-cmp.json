@@ -1,0 +1,7 @@
+{
+  "name": "pi-cmp",
+  "description": "Codebase Memory for pi. Provides cbm_* tools that answer structural questions about a codebase (symbol search, call chains, architecture, git change blast radius, and more) by querying a local tree-sitter knowledge graph, avoiding slow grep/read fallbacks.",
+  "source_repo": "songpham/pi-cmp",
+  "source_url": "https://github.com/songpham/pi-cmp",
+  "install": "# git clone --depth 1 https://github.com/songpham/pi-cmp\n# See source for mcpServers config block"
+}

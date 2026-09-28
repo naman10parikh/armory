@@ -1,0 +1,7 @@
+{
+  "name": "qencode-mcp",
+  "description": "Qencode MCP server that connects AI clients to the Qencode Transcoding API via OAuth, allowing agents to submit, monitor, and reason about video transcoding jobs, including HLS ABR ladders, MP4 encoding, thumbnails, subtitles, transcriptions, and DRM packaging, plus Qencode Media Storage bucket and",
+  "source_repo": "Qencode-Corp/mcp",
+  "source_url": "https://github.com/Qencode-Corp/mcp",
+  "install": "# git clone --depth 1 https://github.com/Qencode-Corp/mcp\n# See source for mcpServers config block"
+}

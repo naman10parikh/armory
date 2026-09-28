@@ -1,0 +1,7 @@
+{
+  "name": "invoket-mcp",
+  "description": "MCP server that gives AI agents paid access to Invoket APIs, with discovery-driven tools, spending caps, and non-custodial payments via x402.",
+  "source_repo": "Invoket/mcp",
+  "source_url": "https://github.com/Invoket/mcp",
+  "install": "# git clone --depth 1 https://github.com/Invoket/mcp\n# See source for mcpServers config block"
+}

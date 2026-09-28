@@ -1,0 +1,7 @@
+{
+  "name": "local-apple-data",
+  "description": "MCP server for privacy-gated local Apple data access including Mail, Messages, Notes, Calendar, Contacts, Photos, Reminders, Voice Memos, and iCloud Drive.",
+  "source_repo": "BillyBunn/local-apple-data",
+  "source_url": "https://github.com/BillyBunn/local-apple-data",
+  "install": "# git clone --depth 1 https://github.com/BillyBunn/local-apple-data\n# See source for mcpServers config block"
+}

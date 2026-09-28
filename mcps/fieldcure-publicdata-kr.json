@@ -1,0 +1,7 @@
+{
+  "name": "fieldcure-publicdata-kr",
+  "description": "Korean public data API gateway that enables searching, inspecting, and calling 80,000+ data.go.kr APIs (weather, real estate, air quality, etc.) via natural language.",
+  "source_repo": "fieldcure/fieldcure-mcp-publicdata",
+  "source_url": "https://github.com/fieldcure/fieldcure-mcp-publicdata",
+  "install": "# git clone --depth 1 https://github.com/fieldcure/fieldcure-mcp-publicdata\n# See source for mcpServers config block"
+}

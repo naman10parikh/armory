@@ -1,0 +1,7 @@
+{
+  "name": "spark-feed-mcp",
+  "description": "OAuth-protected remote MCP server for Cloudflare Workers that exposes get_videos and get_articles tools to read configured RSS/Atom feeds filtered by date, returning entries and article previews.",
+  "source_repo": "Trey-Gaines/xml-mcp",
+  "source_url": "https://github.com/Trey-Gaines/xml-mcp",
+  "install": "npx -y xml-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kfda-mcp",
+  "description": "Enables LLM agents to query Korean drug, DUR safety rules, and health supplement databases via MCP protocol.",
+  "source_repo": "pianovirus/kfda-mcp",
+  "source_url": "https://github.com/pianovirus/kfda-mcp",
+  "install": "npx -y kfda-mcp"
+}

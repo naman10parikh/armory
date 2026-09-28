@@ -1,0 +1,7 @@
+{
+  "name": "component-library-mcp",
+  "description": "An MCP server that scans React and Vue projects, extracts component metadata (props, slots, events, imports, usage), and exposes it to AI coding agents via structured tools.",
+  "source_repo": "vasyl-bilous/component-library-mcp",
+  "source_url": "https://github.com/vasyl-bilous/component-library-mcp",
+  "install": "npx -y component-library-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uuid-generator-engine-mcp-server",
+  "description": "Generates cryptographically secure, compliant UUIDs (v4, v5, v7) to prevent AI-hallucinated identifiers that would cause database collisions.",
+  "source_repo": "vinkius-labs/uuid-generator-engine-mcp",
+  "source_url": "https://github.com/vinkius-labs/uuid-generator-engine-mcp",
+  "install": "npx -y uuid-generator-engine-mcp"
+}

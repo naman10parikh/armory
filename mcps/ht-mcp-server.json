@@ -1,0 +1,7 @@
+{
+  "name": "ht-mcp-server",
+  "description": "Enables AI assistants to programmatically control interactive terminal applications through HT sessions, supporting session management, key sending, snapshots, and command execution.",
+  "source_repo": "memextech/headless-terminal-mcp",
+  "source_url": "https://github.com/memextech/headless-terminal-mcp",
+  "install": "npx -y headless-terminal-mcp"
+}

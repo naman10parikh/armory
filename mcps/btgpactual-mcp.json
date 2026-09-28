@@ -1,0 +1,7 @@
+{
+  "name": "btgpactual-mcp",
+  "description": "Conecta sua conta BTGPactual a assistentes de IA via Open Finance Brasil, permitindo consultas de saldos, extratos, faturas de cartão e investimentos em linguagem natural (somente leitura).",
+  "source_repo": "mcp-dir/btg-mcp",
+  "source_url": "https://github.com/mcp-dir/btg-mcp",
+  "install": "npx -y btg-mcp"
+}

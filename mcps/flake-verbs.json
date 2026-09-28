@@ -1,0 +1,7 @@
+{
+  "name": "flake-verbs",
+  "description": "Enables analyzing Nix flakes to identify which inputs are actually used and to detect locked-input drift, including unportable or orphaned inputs, through MCP tools.",
+  "source_repo": "bdelanghe/flake-verbs",
+  "source_url": "https://github.com/bdelanghe/flake-verbs",
+  "install": "# git clone --depth 1 https://github.com/bdelanghe/flake-verbs\n# See source for mcpServers config block"
+}

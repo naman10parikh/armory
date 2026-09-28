@@ -1,0 +1,7 @@
+{
+  "name": "featurepulse-mcp",
+  "description": "A Model Context Protocol server for FeaturePulse feedback management, enabling AI assistants to query feature requests, analyze MRR impact, and manage product roadmaps through natural language.",
+  "source_repo": "featurepulse/featurepulse-mcp",
+  "source_url": "https://github.com/featurepulse/featurepulse-mcp",
+  "install": "npx -y featurepulse-mcp"
+}

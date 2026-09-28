@@ -1,0 +1,7 @@
+{
+  "name": "engagelab-sms-mcp",
+  "description": "Enables AI assistants to send template-based SMS messages through EngageLab. Supports multiple recipients and template parameters via a single tool.",
+  "source_repo": "DevEngageLab/engagelab-sms-mcp",
+  "source_url": "https://github.com/DevEngageLab/engagelab-sms-mcp",
+  "install": "npx -y engagelab-sms-mcp"
+}

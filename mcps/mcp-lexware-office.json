@@ -1,6 +1,6 @@
 {
   "name": "mcp-lexware-office",
-  "description": "Mcp Lexware Office MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "JannikWempe/mcp-lexware-office",
   "source_url": "https://mcp.so/server/mcp-lexware-office/JannikWempe",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-lexware-office/JannikWempe\n# See source for mcpServers config block"

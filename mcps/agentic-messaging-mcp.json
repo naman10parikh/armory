@@ -1,0 +1,7 @@
+{
+  "name": "agentic-messaging-mcp",
+  "description": "Enables LLM agents to send, receive, and discover contacts on the agentic message bus via native tools.",
+  "source_repo": "ReferMore/agentic-messaging-mcp",
+  "source_url": "https://github.com/ReferMore/agentic-messaging-mcp",
+  "install": "npx -y agentic-messaging-mcp"
+}

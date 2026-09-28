@@ -1,0 +1,7 @@
+{
+  "name": "roblox-bridge-agent",
+  "description": "A local-first MCP bridge and script operations layer that connects coding agents to authorized Roblox Luau development clients via websocket, enabling live execution, file watching, diagnostics, permission-gated script capsules, crash detection, and a dashboard.",
+  "source_repo": "evonar543/roblox_bridge_agent",
+  "source_url": "https://github.com/evonar543/roblox_bridge_agent",
+  "install": "# git clone --depth 1 https://github.com/evonar543/roblox_bridge_agent\n# See source for mcpServers config block"
+}

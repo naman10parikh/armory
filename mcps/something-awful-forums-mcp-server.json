@@ -1,0 +1,7 @@
+{
+  "name": "something-awful-forums-mcp-server",
+  "description": "An MCP server that connects to Something Awful Forums using your account credentials. It enables Claude to browse threads, read posts, search forums, look up users, and manage private messages.",
+  "source_repo": "bphillab/somethingawful_forums_mcp",
+  "source_url": "https://github.com/bphillab/somethingawful_forums_mcp",
+  "install": "npx -y somethingawful_forums_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ultramemory",
+  "description": "Cross-tool memory for AI that enables deterministic recall-first memory across multiple tools (Claude Code, Desktop, ChatGPT, etc.) with honest abstention when it doesn't know.",
+  "source_repo": "LogicLabsAI/ultramemory-mcp",
+  "source_url": "https://github.com/LogicLabsAI/ultramemory-mcp",
+  "install": "npx -y ultramemory-mcp"
+}

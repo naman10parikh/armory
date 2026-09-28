@@ -1,0 +1,7 @@
+{
+  "name": "memlane-mcp",
+  "description": "Connects Memlane, your personal library of saved links and notes, to AI assistants via MCP. Enables semantic search, browsing, saving URLs, and managing notes and topics.",
+  "source_repo": "danii1/memlane-mcp",
+  "source_url": "https://github.com/danii1/memlane-mcp",
+  "install": "npx -y memlane-mcp"
+}

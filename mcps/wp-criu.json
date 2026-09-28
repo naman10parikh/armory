@@ -1,0 +1,7 @@
+{
+  "name": "wp-criu",
+  "description": "Manages multiple WordPress sites through the Codex WP Admin Bridge plugin, offering site inspection, plugin/theme management, option reading/writing, file operations, read-only SQL, REST proxy, translation checks, and WooCommerce checkout field inspection. Supports automatic site registration via an",
+  "source_repo": "criustudio/wp-criu-registry",
+  "source_url": "https://github.com/criustudio/wp-criu-registry",
+  "install": "# git clone --depth 1 https://github.com/criustudio/wp-criu-registry\n# See source for mcpServers config block"
+}

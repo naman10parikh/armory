@@ -1,0 +1,7 @@
+{
+  "name": "paper-scout-mcp-server",
+  "description": "Enables reviewing and managing AI research paper candidates from arXiv, Semantic Scholar, and Hugging Face Daily Papers, scored against personal interests, via MCP tools in Claude Desktop or Cowork.",
+  "source_repo": "jonradoff/paper-scout",
+  "source_url": "https://github.com/jonradoff/paper-scout",
+  "install": "# git clone --depth 1 https://github.com/jonradoff/paper-scout\n# See source for mcpServers config block"
+}

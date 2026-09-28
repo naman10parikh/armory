@@ -1,0 +1,7 @@
+{
+  "name": "flightdeck-mcp-server",
+  "description": "Enables AI clients to manage Flightdeck projects, work items, cycles, modules, and comments via the Flightdeck REST API.",
+  "source_repo": "CruGlobal/flightdeck-mcp-server",
+  "source_url": "https://github.com/CruGlobal/flightdeck-mcp-server",
+  "install": "npx -y flightdeck-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "griptonite-mcp",
+  "description": "Enables users to interact with the Griptonite indoor climbing app, allowing them to log climbs, browse routes and grades, and retrieve activity feeds and rankings.",
+  "source_repo": "mcarch-drdoof/griptonite_mcp",
+  "source_url": "https://github.com/mcarch-drdoof/griptonite_mcp",
+  "install": "npx -y griptonite_mcp"
+}

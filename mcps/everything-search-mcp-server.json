@@ -1,0 +1,7 @@
+{
+  "name": "everything-search-mcp-server",
+  "description": "Provides fast file searching across Windows, macOS, and Linux using platform-native tools like Everything SDK, mdfind, and locate.",
+  "source_repo": "fastmcp-me/mcp-everything-search",
+  "source_url": "https://github.com/fastmcp-me/mcp-everything-search",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/mcp-everything-search\n# See source for mcpServers config block"
+}

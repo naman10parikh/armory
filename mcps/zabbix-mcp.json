@@ -1,0 +1,7 @@
+{
+  "name": "zabbix-mcp",
+  "description": "Exposes Zabbix monitoring capabilities as callable tools for AI agents and MCP-compatible clients.",
+  "source_repo": "lordraw77/zabbix-mcp",
+  "source_url": "https://github.com/lordraw77/zabbix-mcp",
+  "install": "npx -y zabbix-mcp"
+}

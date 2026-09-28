@@ -1,0 +1,7 @@
+{
+  "name": "ts-docs-mcp",
+  "description": "An MCP server that gives AI coding agents accurate, version-aware API documentation for any npm package — straight from the source.",
+  "source_repo": "xvantz/ts-docs-mcp",
+  "source_url": "https://github.com/xvantz/ts-docs-mcp",
+  "install": "npx -y ts-docs-mcp"
+}

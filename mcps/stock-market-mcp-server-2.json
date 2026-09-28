@@ -1,0 +1,7 @@
+{
+  "name": "stock-market-mcp-server-2",
+  "description": "Enables LLMs to access stock market and cryptocurrency data through the Financial Datasets API, including financial statements, prices, metrics, and press releases.",
+  "source_repo": "syia-ai/stock-market",
+  "source_url": "https://github.com/syia-ai/stock-market",
+  "install": "# git clone --depth 1 https://github.com/syia-ai/stock-market\n# See source for mcpServers config block"
+}

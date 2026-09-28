@@ -1,0 +1,7 @@
+{
+  "name": "mgx-thinking-log-mcp",
+  "description": "An MCP server for downloading and reading MGX thinking logs, enabling AI agents to fetch and analyze MGX conversation logs programmatically.",
+  "source_repo": "zhiyue/mgx-thinking-log-mcp",
+  "source_url": "https://github.com/zhiyue/mgx-thinking-log-mcp",
+  "install": "npx -y mgx-thinking-log-mcp"
+}

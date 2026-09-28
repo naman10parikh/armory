@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-for-qa-and-release-coordination",
+  "description": "A collection of MCP servers for Slack, Jira, Confluence, and release coordination to automate QA workflows and daily release status reporting.",
+  "source_repo": "1olegshev/mcp-servers",
+  "source_url": "https://github.com/1olegshev/mcp-servers",
+  "install": "# git clone --depth 1 https://github.com/1olegshev/mcp-servers\n# See source for mcpServers config block"
+}

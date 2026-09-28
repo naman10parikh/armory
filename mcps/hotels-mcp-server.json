@@ -1,0 +1,7 @@
+{
+  "name": "hotels-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that allows LLMs to search for hotels and destinations using the Booking.com API.",
+  "source_repo": "esakrissa/hotels_mcp_server",
+  "source_url": "https://github.com/esakrissa/hotels_mcp_server",
+  "install": "npx -y hotels_mcp_server"
+}

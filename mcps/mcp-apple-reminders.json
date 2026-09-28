@@ -1,0 +1,7 @@
+{
+  "name": "mcp-apple-reminders",
+  "description": "A macOS-only MCP server that exposes Apple Reminders to AI clients, enabling create, read, update, delete, search, and organization of reminders and lists through natural language.",
+  "source_repo": "rex/mcp-apple-reminders",
+  "source_url": "https://github.com/rex/mcp-apple-reminders",
+  "install": "# git clone --depth 1 https://github.com/rex/mcp-apple-reminders\n# See source for mcpServers config block"
+}

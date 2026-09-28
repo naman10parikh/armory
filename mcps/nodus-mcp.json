@@ -1,0 +1,7 @@
+{
+  "name": "nodus-mcp",
+  "description": "A thin stdio gateway to Nodus's Streamable HTTP MCP server, exposing a curated allowlist of tools for the Research Workbench. It enables secure, bearer-authenticated interactions with Nodus without graph logic or caching.",
+  "source_repo": "BlaineHeffron/nodus-mcp",
+  "source_url": "https://github.com/BlaineHeffron/nodus-mcp",
+  "install": "npx -y nodus-mcp"
+}

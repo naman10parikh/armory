@@ -1,0 +1,7 @@
+{
+  "name": "stocksage-ai-mcp-server",
+  "description": "Provides 51 tools for stock data, technical analysis, trading signals, portfolio management, and monitoring for short-term trading, using yfinance as the primary data source.",
+  "source_repo": "NightDevilPT/stock-mcp",
+  "source_url": "https://github.com/NightDevilPT/stock-mcp",
+  "install": "npx -y stock-mcp"
+}

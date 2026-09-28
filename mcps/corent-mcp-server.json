@@ -1,0 +1,7 @@
+{
+  "name": "corent-mcp-server",
+  "description": "Enables AI agents to generate images and videos via the Corent API with automatic model routing, provider fallback, and tools for planning, creation, and balance management.",
+  "source_repo": "gg13121/corent-mcp",
+  "source_url": "https://github.com/gg13121/corent-mcp",
+  "install": "npx -y corent-mcp"
+}

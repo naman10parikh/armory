@@ -1,0 +1,7 @@
+{
+  "name": "apex-contabil",
+  "description": "MCP server that connects an ERP to agents via stdio, exposing business tools like CNAE classification, contract review, tax obligations, finance, marketing (Facebook/Instagram), WhatsApp, and reports.",
+  "source_repo": "ogconstrutorasp/apex-mcp-framework",
+  "source_url": "https://github.com/ogconstrutorasp/apex-mcp-framework",
+  "install": "# git clone --depth 1 https://github.com/ogconstrutorasp/apex-mcp-framework\n# See source for mcpServers config block"
+}

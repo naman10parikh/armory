@@ -1,0 +1,7 @@
+{
+  "name": "t3code-mcp",
+  "description": "MCP server for interacting with a running T3 Code instance. Enables viewing agent threads, sending messages, and approving permission requests from Claude Code or voice-controlled models.",
+  "source_repo": "ThomasCrund/t3code-mcp",
+  "source_url": "https://github.com/ThomasCrund/t3code-mcp",
+  "install": "npx -y t3code-mcp"
+}

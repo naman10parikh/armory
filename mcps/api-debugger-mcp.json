@@ -1,0 +1,7 @@
+{
+  "name": "api-debugger-mcp",
+  "description": "Enables AI agents to inspect, test, validate, compare, and debug HTTP APIs through a structured toolkit, with features such as secret redaction, response contract validation, regression comparison, health checks, and incident investigation workflows.",
+  "source_repo": "MahaR54/API-DEBUGGER-MCP",
+  "source_url": "https://github.com/MahaR54/API-DEBUGGER-MCP",
+  "install": "npx -y API-DEBUGGER-MCP"
+}

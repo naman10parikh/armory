@@ -1,0 +1,7 @@
+{
+  "name": "abaqus-mcp-server",
+  "description": "Enables Claude Code to interact with Abaqus FEM software for model generation, job submission, log monitoring, and result extraction from ODB files.",
+  "source_repo": "MOBAI547800/abaqus-mcp-server",
+  "source_url": "https://github.com/MOBAI547800/abaqus-mcp-server",
+  "install": "npx -y abaqus-mcp-server"
+}

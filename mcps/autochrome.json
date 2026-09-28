@@ -1,0 +1,7 @@
+{
+  "name": "autochrome",
+  "description": "MCP server enabling AI agents to perform autonomous photographic color science and screenshot annotation with deterministic computer vision, film emulation, and real-time live preview.",
+  "source_repo": "hgayan7/autochrome",
+  "source_url": "https://github.com/hgayan7/autochrome",
+  "install": "# git clone --depth 1 https://github.com/hgayan7/autochrome\n# See source for mcpServers config block"
+}

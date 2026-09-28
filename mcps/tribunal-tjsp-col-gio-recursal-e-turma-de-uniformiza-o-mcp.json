@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tjsp-col-gio-recursal-e-turma-de-uniformiza-o-mcp",
+  "description": "Enables consulting official data from the Tribunal TJSP Colégio Recursal and Turma de Uniformização via a single read-only tool, supporting any MCP client with prepaid credits.",
+  "source_repo": "mcp-dir/tribunal_tjsp_colegio_recursal-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tjsp_colegio_recursal-mcp",
+  "install": "npx -y tribunal_tjsp_colegio_recursal-mcp"
+}

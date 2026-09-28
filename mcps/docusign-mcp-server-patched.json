@@ -1,0 +1,7 @@
+{
+  "name": "docusign-mcp-server-patched",
+  "description": "Provides DocuSign eSignature operations via JWT Grant for headless AI agents, enabling envelope management, document signing, and template access through MCP tools.",
+  "source_repo": "mingyangsun-sketch/docusign-mcpserver",
+  "source_url": "https://github.com/mingyangsun-sketch/docusign-mcpserver",
+  "install": "# git clone --depth 1 https://github.com/mingyangsun-sketch/docusign-mcpserver\n# See source for mcpServers config block"
+}

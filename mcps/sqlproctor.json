@@ -1,0 +1,7 @@
+{
+  "name": "sqlproctor",
+  "description": "Enables deterministic semantic verification of agent-generated SQL queries against a git-versioned contract, blocking incorrect queries and returning structured feedback for self-correction.",
+  "source_repo": "debabsah/sqlproctor",
+  "source_url": "https://github.com/debabsah/sqlproctor",
+  "install": "# git clone --depth 1 https://github.com/debabsah/sqlproctor\n# See source for mcpServers config block"
+}

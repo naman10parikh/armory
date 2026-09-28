@@ -1,0 +1,7 @@
+{
+  "name": "traecnclaw-mcp",
+  "description": "Control TraeCN desktop automation through explicit, profile-scoped MCP tools. Supports task delegation, model control, dialog handling, code review, and unattended workflows.",
+  "source_repo": "Luckycat133/traecnclaw-mcp-skill",
+  "source_url": "https://github.com/Luckycat133/traecnclaw-mcp-skill",
+  "install": "# git clone --depth 1 https://github.com/Luckycat133/traecnclaw-mcp-skill\n# See source for mcpServers config block"
+}

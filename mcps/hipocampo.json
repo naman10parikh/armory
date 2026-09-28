@@ -1,0 +1,7 @@
+{
+  "name": "hipocampo",
+  "description": "Dual-memory MCP system with PostgreSQL 17 + pgvector + NVIDIA NIM embeddings. 11 tools: search, save, profile, health, auto-repair, stats, tune, dedup, checkpoint, maintenance. Sparse Selective Caching (SSC) with 4-phase progressive retrieval. Bilingual EN/ES.",
+  "source_repo": "carrasquelalex1/hipocampo",
+  "source_url": "https://github.com/carrasquelalex1/hipocampo",
+  "install": "# git clone --depth 1 https://github.com/carrasquelalex1/hipocampo\n# See source for mcpServers config block"
+}

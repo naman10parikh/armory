@@ -1,0 +1,7 @@
+{
+  "name": "mlloop",
+  "description": "An MCP server that enforces a scientific-method loop for AI-driven machine learning experiments, with hypothesis gating, diagnostics, and data forensics.",
+  "source_repo": "Sin991114/mlloop",
+  "source_url": "https://github.com/Sin991114/mlloop",
+  "install": "# git clone --depth 1 https://github.com/Sin991114/mlloop\n# See source for mcpServers config block"
+}

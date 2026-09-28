@@ -1,0 +1,7 @@
+{
+  "name": "xing-mcp",
+  "description": "An MCP server that enables searching and retrieving job listings from XING, including job details, salary estimates, and company job postings.",
+  "source_repo": "vinitkumargoel/xing-mcp",
+  "source_url": "https://github.com/vinitkumargoel/xing-mcp",
+  "install": "npx -y xing-mcp"
+}

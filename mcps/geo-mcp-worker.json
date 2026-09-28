@@ -1,0 +1,7 @@
+{
+  "name": "geo-mcp-worker",
+  "description": "Free geospatial MCP server for AI agents, providing geocoding, reverse geocoding, POI search, and route planning using OpenStreetMap data via Nominatim, Overpass, and OSRM.",
+  "source_repo": "Kerry1020/geo-mcp-worker",
+  "source_url": "https://github.com/Kerry1020/geo-mcp-worker",
+  "install": "# git clone --depth 1 https://github.com/Kerry1020/geo-mcp-worker\n# See source for mcpServers config block"
+}

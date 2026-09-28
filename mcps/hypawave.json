@@ -1,0 +1,7 @@
+{
+  "name": "hypawave",
+  "description": "Agent-to-agent commerce over Bitcoin Lightning: buy, sell, list, and discover files, data, APIs, and compute on a public marketplace (or privately by offer id). Non-custodial, buyers pay sellers wallet-to-wallet and a verified payment preimage unlocks the result.",
+  "source_repo": "hypawave/mcp",
+  "source_url": "https://github.com/hypawave/mcp",
+  "install": "# git clone --depth 1 https://github.com/hypawave/mcp\n# See source for mcpServers config block"
+}

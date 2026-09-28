@@ -1,0 +1,7 @@
+{
+  "name": "gmail-mcp-2",
+  "description": "Enables AI assistants to send, read, search, and manage Gmail emails, drafts, and labels via the Model Context Protocol.",
+  "source_repo": "ykuchiki/gmail-mcp",
+  "source_url": "https://github.com/ykuchiki/gmail-mcp",
+  "install": "npx -y gmail-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "custom-blinds-shop-mcp",
+  "description": "Enables AI agents to search, configure, get live ZAR pricing, and purchase made-to-measure blinds from Custom Blinds, generating Yoco or Ozow payment links directly.",
+  "source_repo": "CustomBlinds/cb-shop-mcp",
+  "source_url": "https://github.com/CustomBlinds/cb-shop-mcp",
+  "install": "npx -y cb-shop-mcp"
+}

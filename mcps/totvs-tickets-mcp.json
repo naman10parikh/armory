@@ -1,0 +1,7 @@
+{
+  "name": "totvs-tickets-mcp",
+  "description": "A read-only MCP server exposing TOTVS support tickets (Portal do Cliente) as tools for LLMs in Claude Code, Claude Desktop, and Cursor.",
+  "source_repo": "Guipegoraro/totvs-tickets-mcp",
+  "source_url": "https://github.com/Guipegoraro/totvs-tickets-mcp",
+  "install": "npx -y totvs-tickets-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pl-holidays-mcp",
+  "description": "Enables Polish public holiday lookups and business-day arithmetic (e.g., adding business days, counting business days) using the Nager.Date API, defaulting to Poland but supporting 110+ countries.",
+  "source_repo": "bartosz-kuc/pl-holidays-mcp",
+  "source_url": "https://github.com/bartosz-kuc/pl-holidays-mcp",
+  "install": "npx -y pl-holidays-mcp"
+}

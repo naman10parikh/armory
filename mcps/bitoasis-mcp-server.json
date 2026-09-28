@@ -1,0 +1,7 @@
+{
+  "name": "bitoasis-mcp-server",
+  "description": "Enables AI assistants to interact with the BitOasis cryptocurrency exchange, including market data, account management, order placement, and deposit/withdrawal operations through natural language.",
+  "source_repo": "bit-oasis/bitoasis-mcp",
+  "source_url": "https://github.com/bit-oasis/bitoasis-mcp",
+  "install": "npx -y bitoasis-mcp"
+}

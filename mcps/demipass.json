@@ -1,0 +1,7 @@
+{
+  "name": "demipass",
+  "description": "MCP server for DemiPass secrets management, enabling AI agents to securely store, rotate, and use credentials without exposing them in context windows.",
+  "source_repo": "bildow/demipass",
+  "source_url": "https://github.com/bildow/demipass",
+  "install": "# git clone --depth 1 https://github.com/bildow/demipass\n# See source for mcpServers config block"
+}

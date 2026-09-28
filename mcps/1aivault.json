@@ -1,0 +1,7 @@
+{
+  "name": "1aivault",
+  "description": "Portable AI memory vault — save memories, skills, and configs to a local database and share them across Claude Desktop, Claude Code, Cursor, Cline, and more.",
+  "source_repo": "stoicsoft/1AIVault-MCP-Server",
+  "source_url": "https://github.com/stoicsoft/1AIVault-MCP-Server",
+  "install": "npx -y 1AIVault-MCP-Server"
+}

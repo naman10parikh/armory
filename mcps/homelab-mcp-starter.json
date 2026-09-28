@@ -1,0 +1,7 @@
+{
+  "name": "homelab-mcp-starter",
+  "description": "A minimal MCP server for homelab environments, providing demo tools like ping and echo over Streamable HTTP for testing client-server integration.",
+  "source_repo": "sailfact/MCP-SERVER",
+  "source_url": "https://github.com/sailfact/MCP-SERVER",
+  "install": "# git clone --depth 1 https://github.com/sailfact/MCP-SERVER\n# See source for mcpServers config block"
+}

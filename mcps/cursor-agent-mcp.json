@@ -1,0 +1,7 @@
+{
+  "name": "cursor-agent-mcp",
+  "description": "MCP bridge from OpenCode to Cursor agent CLI, enabling code review, debugging, and planning via Cursor cloud.",
+  "source_repo": "HermesVC/cursor-agent-mcp",
+  "source_url": "https://github.com/HermesVC/cursor-agent-mcp",
+  "install": "npx -y cursor-agent-mcp"
+}

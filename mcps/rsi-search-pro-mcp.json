@@ -1,0 +1,7 @@
+{
+  "name": "rsi-search-pro-mcp",
+  "description": "A meta-MCP server that aggregates authoritative web search and browser research tools, providing a unified interface with a cost-efficient fetch ladder for web research.",
+  "source_repo": "rsi-ai-platform/rsi-search-pro-mcp",
+  "source_url": "https://github.com/rsi-ai-platform/rsi-search-pro-mcp",
+  "install": "npx -y rsi-search-pro-mcp"
+}

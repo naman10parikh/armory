@@ -1,0 +1,7 @@
+{
+  "name": "mixpanel-mcp",
+  "description": "MCP server for Mixpanel product analytics that enables natural language querying of events, funnels, retention, cohorts, and user profiles, plus JQL support.",
+  "source_repo": "mrfentmen/mixpanel-mcp",
+  "source_url": "https://github.com/mrfentmen/mixpanel-mcp",
+  "install": "npx -y mixpanel-mcp"
+}

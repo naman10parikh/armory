@@ -1,0 +1,7 @@
+{
+  "name": "yinghuochong-mcp-server",
+  "description": "Read-only business data adapter for Yinghuochong MySQL database, exposing order and user queries as structured MCP tools for safe inspection by Codex.",
+  "source_repo": "bighamD/mcp-ai",
+  "source_url": "https://github.com/bighamD/mcp-ai",
+  "install": "# git clone --depth 1 https://github.com/bighamD/mcp-ai\n# See source for mcpServers config block"
+}

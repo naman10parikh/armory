@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-code-extractor",
+  "description": "Enables precise code extraction from 30+ languages using tree-sitter parsing, allowing AI assistants to retrieve functions, classes, and code snippets with accurate line numbers.",
+  "source_repo": "ctoth/mcp_server_code_extractor",
+  "source_url": "https://github.com/ctoth/mcp_server_code_extractor",
+  "install": "# git clone --depth 1 https://github.com/ctoth/mcp_server_code_extractor\n# See source for mcpServers config block"
+}

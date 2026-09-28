@@ -1,0 +1,7 @@
+{
+  "name": "stratverity-mcp-server",
+  "description": "Enables auditing and verification of algorithmic trading backtests from coding agents like Claude Code, Cursor, and Windsurf, including look-ahead bias detection, overfitting checks, and sealed audit proof verification.",
+  "source_repo": "mathieusarrue-alt/stratverity-mcp-server",
+  "source_url": "https://github.com/mathieusarrue-alt/stratverity-mcp-server",
+  "install": "npx -y stratverity-mcp-server"
+}

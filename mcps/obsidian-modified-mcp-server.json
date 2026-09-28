@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-modified-mcp-server",
+  "description": "TypeScript MCP server for Obsidian with core vault operations, graph analytics, and semantic search.",
+  "source_repo": "marwansaab/obsidian-modified-mcp-server",
+  "source_url": "https://github.com/marwansaab/obsidian-modified-mcp-server",
+  "install": "npx -y obsidian-modified-mcp-server"
+}

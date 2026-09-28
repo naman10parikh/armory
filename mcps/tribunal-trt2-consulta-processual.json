@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt2-consulta-processual",
+  "description": "Serviço MCP para consulta processual no TRT2 (Tribunal Regional do Trabalho da 2ª Região) usando fonte oficial, com pagamento por consulta via crédito pré-pago.",
+  "source_repo": "mcp-dir/tribunal_trt2_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt2_processo-mcp",
+  "install": "npx -y tribunal_trt2_processo-mcp"
+}

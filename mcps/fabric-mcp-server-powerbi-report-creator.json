@@ -1,0 +1,7 @@
+{
+  "name": "fabric-mcp-server-powerbi-report-creator",
+  "description": "Enables AI agents to deploy Power BI reports to Microsoft Fabric by automating data loading from CSV, creating semantic models, and generating report visuals.",
+  "source_repo": "LNGU/fabric-mcp-server-powerbi-creator",
+  "source_url": "https://github.com/LNGU/fabric-mcp-server-powerbi-creator",
+  "install": "# git clone --depth 1 https://github.com/LNGU/fabric-mcp-server-powerbi-creator\n# See source for mcpServers config block"
+}

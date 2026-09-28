@@ -1,0 +1,7 @@
+{
+  "name": "multi-scraper-mcp",
+  "description": "14 web scrapers as MCP tools for AI agents: Reddit, Amazon, Google Maps, Yelp, YouTube, Indeed & more.",
+  "source_repo": "Perufitlife/multi-scraper-mcp",
+  "source_url": "https://github.com/Perufitlife/multi-scraper-mcp",
+  "install": "npx -y multi-scraper-mcp"
+}

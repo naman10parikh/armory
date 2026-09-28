@@ -1,0 +1,7 @@
+{
+  "name": "freshrss-mcp",
+  "description": "Enables AI assistants to read and manage FreshRSS feeds, including listing subscriptions, browsing articles, marking read/unread, and starring.",
+  "source_repo": "RobertDWhite/freshrss-mcp",
+  "source_url": "https://github.com/RobertDWhite/freshrss-mcp",
+  "install": "npx -y freshrss-mcp"
+}

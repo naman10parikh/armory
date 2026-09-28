@@ -1,0 +1,7 @@
+{
+  "name": "cleya",
+  "description": "An MCP server for creative generation and video production, letting AI agents author declarative animations, render deterministic frames, and measure output quality with perception instruments for brand and accessibility conformance.",
+  "source_repo": "severment/cleya",
+  "source_url": "https://github.com/severment/cleya",
+  "install": "# git clone --depth 1 https://github.com/severment/cleya\n# See source for mcpServers config block"
+}

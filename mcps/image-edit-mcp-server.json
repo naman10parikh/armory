@@ -1,0 +1,7 @@
+{
+  "name": "image-edit-mcp-server",
+  "description": "AI-powered image editing and generation server using Model Context Protocol, enabling intelligent image manipulation, cleanup, and generation via Google's Gemini AI models.",
+  "source_repo": "ShunL12324/image-edit-mcp",
+  "source_url": "https://github.com/ShunL12324/image-edit-mcp",
+  "install": "npx -y image-edit-mcp"
+}

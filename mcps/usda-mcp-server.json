@@ -1,0 +1,7 @@
+{
+  "name": "usda-mcp-server",
+  "description": "Enables searching USDA foods, comparing nutrients, and accessing the full FoodData Central database via MCP tools and resources.",
+  "source_repo": "cyanheads/usda-mcp-server",
+  "source_url": "https://github.com/cyanheads/usda-mcp-server",
+  "install": "npx -y usda-mcp-server"
+}

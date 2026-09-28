@@ -1,0 +1,7 @@
+{
+  "name": "twelvelabs-mcp-server",
+  "description": "Enables MCP clients to manage ElevenLabs Conversational AI voice agents, knowledge bases, conversations, and voices, including advanced configuration and analysis tools not available in the official connector.",
+  "source_repo": "micro-JAY/twelvelabs-mcp-server",
+  "source_url": "https://github.com/micro-JAY/twelvelabs-mcp-server",
+  "install": "npx -y twelvelabs-mcp-server"
+}

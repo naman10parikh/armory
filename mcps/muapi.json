@@ -1,0 +1,7 @@
+{
+  "name": "muapi",
+  "description": "Access 400+ generative AI models directly from your AI assistant — generate images (FLUX, Midjourney, GPT-4o), create videos (Veo3, Kling), make music (Suno), and enhance photos, all via a single MCP server.",
+  "source_repo": "SamurAIGPT/muapi-mcp-server",
+  "source_url": "https://github.com/SamurAIGPT/muapi-mcp-server",
+  "install": "npx -y muapi-mcp-server"
+}

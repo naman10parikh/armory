@@ -1,0 +1,7 @@
+{
+  "name": "architectos",
+  "description": "Analyzes repositories, explains architecture, calculates change impact, and enforces guardrails for AI Agents like Claude Code, Cursor, and Codex via MCP tools.",
+  "source_repo": "cgseyhan/architectos",
+  "source_url": "https://github.com/cgseyhan/architectos",
+  "install": "# git clone --depth 1 https://github.com/cgseyhan/architectos\n# See source for mcpServers config block"
+}

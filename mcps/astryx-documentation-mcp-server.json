@@ -1,0 +1,7 @@
+{
+  "name": "astryx-documentation-mcp-server",
+  "description": "Enables AI assistants to search and retrieve documentation, component specs, theme guides, and CLI commands for the Meta Astryx Design System, providing structured tools and guidelines for coding agents.",
+  "source_repo": "georgemathunjaga/astryx-mcp-and-skill",
+  "source_url": "https://github.com/georgemathunjaga/astryx-mcp-and-skill",
+  "install": "# git clone --depth 1 https://github.com/georgemathunjaga/astryx-mcp-and-skill\n# See source for mcpServers config block"
+}

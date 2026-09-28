@@ -1,0 +1,7 @@
+{
+  "name": "slab-email",
+  "description": "Headless email connector that lets AI agents read, search, draft, and send emails across multiple providers (Proton, IMAP/SMTP, Gmail) via REST and MCP tools, with scoped permissions and encrypted credential storage.",
+  "source_repo": "martin2844/slab-email",
+  "source_url": "https://github.com/martin2844/slab-email",
+  "install": "# git clone --depth 1 https://github.com/martin2844/slab-email\n# See source for mcpServers config block"
+}

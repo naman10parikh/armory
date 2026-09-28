@@ -1,0 +1,7 @@
+{
+  "name": "suno-autopilot-mcp",
+  "description": "An MCP server that enables local AI models to automatically generate lyrics and style prompts, then submit songs to Suno via browser automation.",
+  "source_repo": "voidreapercmxcix/Suno-AutoPilot-mcp",
+  "source_url": "https://github.com/voidreapercmxcix/Suno-AutoPilot-mcp",
+  "install": "npx -y Suno-AutoPilot-mcp"
+}

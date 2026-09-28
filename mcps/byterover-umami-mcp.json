@@ -1,0 +1,7 @@
+{
+  "name": "byterover-umami-mcp",
+  "description": "A read-only MCP server for Umami analytics, enabling natural language queries of website stats, traffic trends, events, sessions, and analytics reports.",
+  "source_repo": "campfirein/umami-mcp",
+  "source_url": "https://github.com/campfirein/umami-mcp",
+  "install": "npx -y umami-mcp"
+}

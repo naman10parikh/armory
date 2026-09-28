@@ -1,0 +1,7 @@
+{
+  "name": "phab-arc-mcp",
+  "description": "MCP server for reviewing Phabricator revisions. It fetches revision context and creates draft inline comments via Conduit API.",
+  "source_repo": "wxomi/mcp-phab",
+  "source_url": "https://github.com/wxomi/mcp-phab",
+  "install": "# git clone --depth 1 https://github.com/wxomi/mcp-phab\n# See source for mcpServers config block"
+}

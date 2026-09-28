@@ -1,0 +1,7 @@
+{
+  "name": "sonos-ts-mcp",
+  "description": "Enables AI assistants to control Sonos audio devices over a local network using UPnP/SOAP protocols, supporting playback, volume, queue management, zone grouping, and music library browsing.",
+  "source_repo": "Tommertom/sonos-ts-mcp",
+  "source_url": "https://github.com/Tommertom/sonos-ts-mcp",
+  "install": "npx -y sonos-ts-mcp"
+}

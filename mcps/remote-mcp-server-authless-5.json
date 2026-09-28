@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-server-authless-5",
+  "description": "Enables deploying a remote MCP server on Cloudflare Workers without authentication, and connecting it to Cloudflare AI Playground or Claude Desktop.",
+  "source_repo": "Weavy-AI/figma-mcp-server",
+  "source_url": "https://github.com/Weavy-AI/figma-mcp-server",
+  "install": "npx -y figma-mcp-server"
+}

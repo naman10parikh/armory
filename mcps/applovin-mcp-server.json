@@ -1,0 +1,7 @@
+{
+  "name": "applovin-mcp-server",
+  "description": "MCP server for managing AppLovin/Axon campaigns, including reporting, creative uploads, and campaign operations.",
+  "source_repo": "dariastupakova-svg/applovin-mcp-server",
+  "source_url": "https://github.com/dariastupakova-svg/applovin-mcp-server",
+  "install": "npx -y applovin-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jotify-moment-mcp-server",
+  "description": "Enables AI agents to interact with Jotify Moment for publishing photo/text posts, uploading media, retrieving recent posts, and validating API tokens through natural language.",
+  "source_repo": "daocatt/jotify-moment-mcp",
+  "source_url": "https://github.com/daocatt/jotify-moment-mcp",
+  "install": "npx -y jotify-moment-mcp"
+}

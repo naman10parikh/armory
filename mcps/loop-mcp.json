@@ -1,0 +1,7 @@
+{
+  "name": "loop-mcp",
+  "description": "Enables reading, listing, creating, and editing Microsoft Loop pages as Markdown through browser automation.",
+  "source_repo": "2mattias/loop-mcp",
+  "source_url": "https://github.com/2mattias/loop-mcp",
+  "install": "npx -y loop-mcp"
+}

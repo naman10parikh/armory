@@ -1,0 +1,7 @@
+{
+  "name": "cockpit-mcp",
+  "description": "A read-only MCP server for Cockpit CMS that lets AI agents explore content models, fields, and items via tools, without mutating data.",
+  "source_repo": "Avanxo-Technology/cockpit-mcp",
+  "source_url": "https://github.com/Avanxo-Technology/cockpit-mcp",
+  "install": "npx -y cockpit-mcp"
+}

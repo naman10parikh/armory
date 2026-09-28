@@ -1,0 +1,7 @@
+{
+  "name": "hpe-networking-mcp",
+  "description": "Low-token MCP server for HPE Networking automation, enabling search of Aruba/HPE docs, OpenAPI details, Central health checks, troubleshooting workflows, configuration management, and guarded ArubaOS 8 migrations and GreenLake Platform operations across platforms like Aruba Central, ClearPass, Mist,",
+  "source_repo": "secure-ssid/hpe-networking-mcp",
+  "source_url": "https://github.com/secure-ssid/hpe-networking-mcp",
+  "install": "npx -y hpe-networking-mcp"
+}

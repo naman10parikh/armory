@@ -1,0 +1,7 @@
+{
+  "name": "kudago-nominatim-mcp-server",
+  "description": "MCP server combining KudaGo and Nominatim APIs with configurable stdio or streamable HTTP transport.",
+  "source_repo": "RawsTourix/kudago-nominatim-mcp-server",
+  "source_url": "https://github.com/RawsTourix/kudago-nominatim-mcp-server",
+  "install": "npx -y kudago-nominatim-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wwebjs-mcp",
+  "description": "MCP server exposing WhatsApp Web REST API (wwebjs-api) as ~149 automated tools, enabling AI agents to send messages, manage sessions, and interact with WhatsApp through natural language.",
+  "source_repo": "victor-halla/wwebjs-mcp",
+  "source_url": "https://github.com/victor-halla/wwebjs-mcp",
+  "install": "npx -y wwebjs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "opencode-unreal-engine-mcp-bridge",
+  "description": "Bridges OpenCode to Unreal Engine 5 editor via a local TCP connection, enabling interaction with the editor such as querying project structure, managing assets and actors, and generating code.",
+  "source_repo": "Javadef/unreal-mcp",
+  "source_url": "https://github.com/Javadef/unreal-mcp",
+  "install": "npx -y unreal-mcp"
+}

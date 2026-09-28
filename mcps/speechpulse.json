@@ -1,0 +1,7 @@
+{
+  "name": "speechpulse",
+  "description": "Analyzes speech audio to detect emotions, urgency, and sarcasm using prosodic features.",
+  "source_repo": "sophieMiao/speechpulse",
+  "source_url": "https://github.com/sophieMiao/speechpulse",
+  "install": "# git clone --depth 1 https://github.com/sophieMiao/speechpulse\n# See source for mcpServers config block"
+}

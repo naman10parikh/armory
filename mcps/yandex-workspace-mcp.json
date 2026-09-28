@@ -1,0 +1,7 @@
+{
+  "name": "yandex-workspace-mcp",
+  "description": "Production-ready MCP server integrating AI assistants with Yandex Disk and Yandex Wiki, offering unified search, file/page management, and security-first access controls.",
+  "source_repo": "denis-samatov/yandex-workspace-mcp",
+  "source_url": "https://github.com/denis-samatov/yandex-workspace-mcp",
+  "install": "npx -y yandex-workspace-mcp"
+}

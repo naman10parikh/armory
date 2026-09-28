@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pt",
+  "description": "Provides AI assistants with live tools for Portuguese public data including fuel prices, weather, postal codes, statistics, and open data.",
+  "source_repo": "marcelogdomingues/mcp-pt",
+  "source_url": "https://github.com/marcelogdomingues/mcp-pt",
+  "install": "# git clone --depth 1 https://github.com/marcelogdomingues/mcp-pt\n# See source for mcpServers config block"
+}

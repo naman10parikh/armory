@@ -1,0 +1,7 @@
+{
+  "name": "dataimpulse-mcp-proxy",
+  "description": "Enables fetching public HTTP(S) pages through DataImpulse residential proxies with country, city, and session targeting, plus an exit IP check tool. Includes best-effort SSRF safeguards and response size limits for safe bounded access.",
+  "source_repo": "Gentleman-Programming/dataimpulse-mcp",
+  "source_url": "https://github.com/Gentleman-Programming/dataimpulse-mcp",
+  "install": "npx -y dataimpulse-mcp"
+}

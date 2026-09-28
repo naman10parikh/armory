@@ -1,0 +1,7 @@
+{
+  "name": "runbeacon",
+  "description": "RunBeacon is an MCP server that turns long-running local and SSH commands into tracked jobs. It provides event-driven monitoring, a live dashboard, and a resident daemon for reliable execution and cancellation.",
+  "source_repo": "Liyuchen0118/RunBeacon",
+  "source_url": "https://github.com/Liyuchen0118/RunBeacon",
+  "install": "# git clone --depth 1 https://github.com/Liyuchen0118/RunBeacon\n# See source for mcpServers config block"
+}

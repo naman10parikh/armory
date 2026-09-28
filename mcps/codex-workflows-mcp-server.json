@@ -1,0 +1,7 @@
+{
+  "name": "codex-workflows-mcp-server",
+  "description": "Enables durable multi-agent workflow runs for Codex with a live terminal dashboard, restartable agents, and bug-finding templates, all controllable through natural language.",
+  "source_repo": "robzilla1738/Codex-Workflows",
+  "source_url": "https://github.com/robzilla1738/Codex-Workflows",
+  "install": "# git clone --depth 1 https://github.com/robzilla1738/Codex-Workflows\n# See source for mcpServers config block"
+}

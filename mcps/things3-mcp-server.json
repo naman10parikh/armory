@@ -1,0 +1,7 @@
+{
+  "name": "things3-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides integration with Things 3 and Calendar app on macOS, allowing AI assistants to manage tasks, projects, and areas.",
+  "source_repo": "acekapila/things3-mcp-server",
+  "source_url": "https://github.com/acekapila/things3-mcp-server",
+  "install": "npx -y things3-mcp-server"
+}

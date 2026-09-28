@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-mcp",
+  "description": "Enables creation and deployment of MCP servers on Cloudflare Workers, with local testing and one-command deployment.",
+  "source_repo": "shashankboosi/cloudflare-mcp",
+  "source_url": "https://github.com/shashankboosi/cloudflare-mcp",
+  "install": "npx -y cloudflare-mcp"
+}

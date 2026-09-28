@@ -1,0 +1,7 @@
+{
+  "name": "oarx-docs-mcp",
+  "description": "MCP server for semantic search across the complete ObjectARX 2026 documentation set. Indexes 89,715 text chunks from 22 guides in ChromaDB with hybrid BM25 + dense retrieval.",
+  "source_repo": "dantte-lp/oarx-docs-mcp",
+  "source_url": "https://github.com/dantte-lp/oarx-docs-mcp",
+  "install": "npx -y oarx-docs-mcp"
+}

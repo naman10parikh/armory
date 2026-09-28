@@ -1,0 +1,7 @@
+{
+  "name": "mailpilot-ai",
+  "description": "AI-powered Gmail assistant that enables email management such as reading, searching, sending, summarizing, and organizing emails via natural language.",
+  "source_repo": "himateja1/MailPilot-AI",
+  "source_url": "https://github.com/himateja1/MailPilot-AI",
+  "install": "# git clone --depth 1 https://github.com/himateja1/MailPilot-AI\n# See source for mcpServers config block"
+}

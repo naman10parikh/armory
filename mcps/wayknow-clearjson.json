@@ -1,0 +1,7 @@
+{
+  "name": "wayknow-clearjson",
+  "description": "Large-file-safe JSON MCP server with 10 tools: format, validate, search, JSONPath query, deep diff, and multi-format conversion (CSV/TSV/YAML/TypeScript). Handles JSON of any size without crashing.",
+  "source_repo": "wayknow/clearjson",
+  "source_url": "https://github.com/wayknow/clearjson",
+  "install": "# git clone --depth 1 https://github.com/wayknow/clearjson\n# See source for mcpServers config block"
+}

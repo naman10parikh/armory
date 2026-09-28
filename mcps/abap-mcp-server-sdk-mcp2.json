@@ -1,0 +1,7 @@
+{
+  "name": "abap-mcp-server-sdk-mcp2",
+  "description": "A stateless ABAP SDK for building MCP servers that support tools, resources, prompts, and tasks. It targets the 2026-07-28 protocol while maintaining backward compatibility with legacy versions.",
+  "source_repo": "abap-ai/mcp2",
+  "source_url": "https://github.com/abap-ai/mcp2",
+  "install": "# git clone --depth 1 https://github.com/abap-ai/mcp2\n# See source for mcpServers config block"
+}

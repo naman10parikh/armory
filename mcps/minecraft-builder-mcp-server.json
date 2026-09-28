@@ -1,0 +1,7 @@
+{
+  "name": "minecraft-builder-mcp-server",
+  "description": "Enables Claude to generate Minecraft structures from natural language descriptions, creating .schem files for WorldEdit import.",
+  "source_repo": "joshdevous/minecraft-builder-claude-mcp-server",
+  "source_url": "https://github.com/joshdevous/minecraft-builder-claude-mcp-server",
+  "install": "npx -y minecraft-builder-claude-mcp-server"
+}

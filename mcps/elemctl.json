@@ -1,0 +1,7 @@
+{
+  "name": "elemctl",
+  "description": "MCP server for managing 1C:Enterprise.Element applications via Console API v2, enabling application listing, deployment with verification, build management, and more.",
+  "source_repo": "keyfire/elemctl",
+  "source_url": "https://github.com/keyfire/elemctl",
+  "install": "# git clone --depth 1 https://github.com/keyfire/elemctl\n# See source for mcpServers config block"
+}

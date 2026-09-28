@@ -1,0 +1,7 @@
+{
+  "name": "life-saver-mcp",
+  "description": "AI-powered MCP server for analyzing UI designs and bug reports from Lanhu and Zentao platforms.",
+  "source_repo": "kaminof3tt/life-saver-mcp",
+  "source_url": "https://github.com/kaminof3tt/life-saver-mcp",
+  "install": "npx -y life-saver-mcp"
+}

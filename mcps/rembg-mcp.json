@@ -1,0 +1,7 @@
+{
+  "name": "rembg-mcp",
+  "description": "MCP server for GPU-accelerated image background removal using rembg, running locally without API keys.",
+  "source_repo": "ReverserID/rembg-mcp",
+  "source_url": "https://github.com/ReverserID/rembg-mcp",
+  "install": "npx -y rembg-mcp"
+}

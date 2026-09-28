@@ -1,0 +1,7 @@
+{
+  "name": "artifyde-mcp",
+  "description": "Enables agents to publish HTML artifacts to permanent, shareable, versioned pages on Artifyde via MCP.",
+  "source_repo": "kennethkoontz/artifyde-mcp",
+  "source_url": "https://github.com/kennethkoontz/artifyde-mcp",
+  "install": "npx -y artifyde-mcp"
+}

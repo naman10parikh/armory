@@ -1,0 +1,7 @@
+{
+  "name": "liteapi-mcp-server",
+  "description": "Enables interaction with LiteAPI's hotel booking and travel services through MCP tools, supporting search, booking, vouchers, analytics, and more.",
+  "source_repo": "liteapi-travel/mcp-server",
+  "source_url": "https://github.com/liteapi-travel/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/liteapi-travel/mcp-server\n# See source for mcpServers config block"
+}

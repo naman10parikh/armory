@@ -1,0 +1,7 @@
+{
+  "name": "pholly-figma-mcp",
+  "description": "Local-first MCP bridge for live Figma documents, enabling design inspection, editing, asset export, component authoring, and variable management through a plugin and WebSocket server without consuming Figma REST API requests.",
+  "source_repo": "mubzie/pholly-figma-mcp",
+  "source_url": "https://github.com/mubzie/pholly-figma-mcp",
+  "install": "npx -y pholly-figma-mcp"
+}

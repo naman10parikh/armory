@@ -1,0 +1,7 @@
+{
+  "name": "finnhub-mcp-server",
+  "description": "Connects Claude Desktop to real-time stock market data via Finnhub API, enabling company profiles, stock quotes, market news, and a customizable watchlist.",
+  "source_repo": "DenUsenko/ai-eng-mcp-demo",
+  "source_url": "https://github.com/DenUsenko/ai-eng-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/DenUsenko/ai-eng-mcp-demo\n# See source for mcpServers config block"
+}

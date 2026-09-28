@@ -1,0 +1,7 @@
+{
+  "name": "clr-openmanage-mcp",
+  "description": "MCP server for Dell OpenManage Enterprise that allows AI assistants to monitor and manage Dell servers, including device health, alerts, warranties, firmware compliance, and jobs.",
+  "source_repo": "clearminds/clr-openmanage-mcp",
+  "source_url": "https://github.com/clearminds/clr-openmanage-mcp",
+  "install": "npx -y clr-openmanage-mcp"
+}

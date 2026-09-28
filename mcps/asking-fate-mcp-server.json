@@ -1,0 +1,7 @@
+{
+  "name": "asking-fate-mcp-server",
+  "description": "Provides fortune-telling tools including tarot card spreads, Thai horoscope, zodiac info, and auspicious dates. Enables interactive tarot card picking via an MCP App UI and returns structured JSON for interpretation.",
+  "source_repo": "Armulee/simple-tarot-mcp-server",
+  "source_url": "https://github.com/Armulee/simple-tarot-mcp-server",
+  "install": "npx -y simple-tarot-mcp-server"
+}

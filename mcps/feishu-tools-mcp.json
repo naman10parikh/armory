@@ -1,6 +1,6 @@
 {
   "name": "feishu-tools-mcp",
-  "description": "Feishu Tools Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Li-vien/feishu-tools-mcp",
   "source_url": "https://mcp.so/server/feishu-tools-mcp/Li-vien",
   "install": "npx -y feishu-tools-mcp"

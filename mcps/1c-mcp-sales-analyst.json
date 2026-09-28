@@ -1,0 +1,7 @@
+{
+  "name": "1c-mcp-sales-analyst",
+  "description": "Enables natural language queries about warehouse stock and sales data from 1C accounting system using DeepSeek AI and MCP tools.",
+  "source_repo": "Av75057/1c-mcp-sales-analyst",
+  "source_url": "https://github.com/Av75057/1c-mcp-sales-analyst",
+  "install": "# git clone --depth 1 https://github.com/Av75057/1c-mcp-sales-analyst\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cerebras-multi-model-mcp-server",
+  "description": "Use multiple Cerebras models from Claude Desktop & Claude Code with automatic model selection.",
+  "source_repo": "khansabassem/cerebras-multi-mcp",
+  "source_url": "https://github.com/khansabassem/cerebras-multi-mcp",
+  "install": "npx -y cerebras-multi-mcp"
+}

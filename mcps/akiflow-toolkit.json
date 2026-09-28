@@ -1,0 +1,7 @@
+{
+  "name": "akiflow-toolkit",
+  "description": "Unofficial MCP server for Akiflow that enables AI agents to manage tasks, projects, and calendar via the Model Context Protocol.",
+  "source_repo": "kty1965/akiflow-toolkit",
+  "source_url": "https://github.com/kty1965/akiflow-toolkit",
+  "install": "# git clone --depth 1 https://github.com/kty1965/akiflow-toolkit\n# See source for mcpServers config block"
+}

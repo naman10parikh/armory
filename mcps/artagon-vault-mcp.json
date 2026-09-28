@@ -1,0 +1,7 @@
+{
+  "name": "artagon-vault-mcp",
+  "description": "Read-only MCP server for querying an evidence-aware knowledge vault with temporal and provenance-aware data, supporting agent memory and semantic graph projections.",
+  "source_repo": "artagon/artagon-wiki",
+  "source_url": "https://github.com/artagon/artagon-wiki",
+  "install": "# git clone --depth 1 https://github.com/artagon/artagon-wiki\n# See source for mcpServers config block"
+}

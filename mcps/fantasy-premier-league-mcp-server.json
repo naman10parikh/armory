@@ -1,0 +1,7 @@
+{
+  "name": "fantasy-premier-league-mcp-server",
+  "description": "Enables AI assistants to analyze Fantasy Premier League data, providing tools for player search, fixture analysis, manager comparisons, and strategy prompts for transfer planning and lineup selection.",
+  "source_repo": "nguyenanhducs/fpl-mcp-server",
+  "source_url": "https://github.com/nguyenanhducs/fpl-mcp-server",
+  "install": "npx -y fpl-mcp-server"
+}

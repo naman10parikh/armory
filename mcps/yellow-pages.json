@@ -1,0 +1,7 @@
+{
+  "name": "yellow-pages",
+  "description": "Exposes two MCP tools (discover and execute) that enable agents to query an OpenAPI schema via natural language and execute matched API operations.",
+  "source_repo": "ethank64/yellow-pages",
+  "source_url": "https://github.com/ethank64/yellow-pages",
+  "install": "# git clone --depth 1 https://github.com/ethank64/yellow-pages\n# See source for mcpServers config block"
+}

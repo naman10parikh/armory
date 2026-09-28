@@ -1,0 +1,7 @@
+{
+  "name": "openrouter-images",
+  "description": "Enables Claude Code to generate and edit raster images through OpenRouter, including image-to-image editing with up to 16 ordered references, text-to-image generation, and balance/credit checks.",
+  "source_repo": "koteyye/openrouter-genimage-kote-claude-code",
+  "source_url": "https://github.com/koteyye/openrouter-genimage-kote-claude-code",
+  "install": "# git clone --depth 1 https://github.com/koteyye/openrouter-genimage-kote-claude-code\n# See source for mcpServers config block"
+}

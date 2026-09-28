@@ -1,0 +1,7 @@
+{
+  "name": "quest-browser-mcp-server",
+  "description": "Controls Oculus Browser via WebSocket CDP protocol, enabling full browser automation with Playwright-like API for navigation, interaction, content extraction, and more.",
+  "source_repo": "axe-work/quest-browser-mcp",
+  "source_url": "https://github.com/axe-work/quest-browser-mcp",
+  "install": "npx -y quest-browser-mcp"
+}

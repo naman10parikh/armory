@@ -1,0 +1,7 @@
+{
+  "name": "hoodly-gmgn-robinhood-research-mcp",
+  "description": "Read-only MCP server for Robinhood chain launchpad discovery and token due diligence using GMGN data.",
+  "source_repo": "hoodly-agent/hoodly-gmgn-robinhood-mcp",
+  "source_url": "https://github.com/hoodly-agent/hoodly-gmgn-robinhood-mcp",
+  "install": "npx -y hoodly-gmgn-robinhood-mcp"
+}

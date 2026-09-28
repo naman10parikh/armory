@@ -1,0 +1,7 @@
+{
+  "name": "databar-mcp-server",
+  "description": "Enables AI assistants to interact with Databar.ai's data enrichment API, allowing discovery, configuration, and execution of data enrichments across hundreds of providers using natural language.",
+  "source_repo": "databar-ai/databar-mcp-server",
+  "source_url": "https://github.com/databar-ai/databar-mcp-server",
+  "install": "npx -y databar-mcp-server"
+}

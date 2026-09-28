@@ -1,0 +1,7 @@
+{
+  "name": "godprofile-mcp-toolkit",
+  "description": "An MCP server that generates stunning animated SVGs, glassmorphic widgets, and bento-grid layouts to enhance your GitHub profile README.",
+  "source_repo": "Luc0-0/GodProfile",
+  "source_url": "https://github.com/Luc0-0/GodProfile",
+  "install": "# git clone --depth 1 https://github.com/Luc0-0/GodProfile\n# See source for mcpServers config block"
+}

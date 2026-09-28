@@ -1,0 +1,7 @@
+{
+  "name": "afaagent-x402-api-suite",
+  "description": "43 x402-enabled API tools — DeFi, wallet security, AI/ML, developer tools, SEO. Pay-per-call USDC on Base via x402 protocol.",
+  "source_repo": "AfaAgent/x402-api-suite",
+  "source_url": "https://github.com/AfaAgent/x402-api-suite",
+  "install": "# git clone --depth 1 https://github.com/AfaAgent/x402-api-suite\n# See source for mcpServers config block"
+}

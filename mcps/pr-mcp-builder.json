@@ -1,0 +1,7 @@
+{
+  "name": "pr-mcp-builder",
+  "description": "Enables AI programs to search and retrieve approved public regulations with citations, supporting PDF, HWP, HWPX, and DOCX formats.",
+  "source_repo": "koul777/Public-Regulation-MCP-Builder",
+  "source_url": "https://github.com/koul777/Public-Regulation-MCP-Builder",
+  "install": "# git clone --depth 1 https://github.com/koul777/Public-Regulation-MCP-Builder\n# See source for mcpServers config block"
+}

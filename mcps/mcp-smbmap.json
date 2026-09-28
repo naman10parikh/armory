@@ -1,0 +1,7 @@
+{
+  "name": "mcp-smbmap",
+  "description": "Enables SMB enumeration and interaction through MCP tools, including share listing, file operations, and remote command execution.",
+  "source_repo": "daedalus/mcp-smbmap",
+  "source_url": "https://github.com/daedalus/mcp-smbmap",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-smbmap\n# See source for mcpServers config block"
+}

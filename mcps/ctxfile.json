@@ -1,0 +1,7 @@
+{
+  "name": "ctxfile",
+  "description": "A local-first MCP server that snapshots project working state into a structured context object, enabling agents to share and resume sessions seamlessly without leaving your machine.",
+  "source_repo": "ctxfile/ctxfile",
+  "source_url": "https://github.com/ctxfile/ctxfile",
+  "install": "# git clone --depth 1 https://github.com/ctxfile/ctxfile\n# See source for mcpServers config block"
+}

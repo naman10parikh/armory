@@ -1,0 +1,7 @@
+{
+  "name": "servicenow-api",
+  "description": "MCP server enabling interaction with ServiceNow API for managing incidents, CMDB, change management, and other ServiceNow operations via natural language.",
+  "source_repo": "Knuckles-Team/servicenow-api",
+  "source_url": "https://github.com/Knuckles-Team/servicenow-api",
+  "install": "# git clone --depth 1 https://github.com/Knuckles-Team/servicenow-api\n# See source for mcpServers config block"
+}

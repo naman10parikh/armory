@@ -1,0 +1,7 @@
+{
+  "name": "foldkit",
+  "description": "Exposes the 7-prime spine, 7 κ-bands, and 6 fold operations as native tools and resources in any MCP client for folding state analysis.",
+  "source_repo": "sjgant80-hub/fallbuild-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallbuild-mcp",
+  "install": "npx -y fallbuild-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "base-tx-explain",
+  "description": "Explains any Base mainnet transaction hash by returning a structured JSON with action type, assets moved, risk flags, and cost details, using deterministic on-chain decoding without LLM.",
+  "source_repo": "0200project/base-tx-explain",
+  "source_url": "https://github.com/0200project/base-tx-explain",
+  "install": "# git clone --depth 1 https://github.com/0200project/base-tx-explain\n# See source for mcpServers config block"
+}

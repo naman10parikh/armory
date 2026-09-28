@@ -1,0 +1,7 @@
+{
+  "name": "agent-memex",
+  "description": "Free, persistent memory layer for AI agents, enabling storage and semantic search of memories via MCP or REST.",
+  "source_repo": "Gudmundur76/agent-memex",
+  "source_url": "https://github.com/Gudmundur76/agent-memex",
+  "install": "# git clone --depth 1 https://github.com/Gudmundur76/agent-memex\n# See source for mcpServers config block"
+}

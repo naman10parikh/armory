@@ -1,0 +1,7 @@
+{
+  "name": "interactive-database-analyst-via-mcp",
+  "description": "Enables natural-language querying of PostgreSQL databases with schema grounding and self-correcting error recovery. Provides a live audit trace and verifies results through exploratory decomposition and empty-result sanity checks.",
+  "source_repo": "Viole07/Interactive-Database-Analyst-via-MCP",
+  "source_url": "https://github.com/Viole07/Interactive-Database-Analyst-via-MCP",
+  "install": "npx -y Interactive-Database-Analyst-via-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "java-jar-decompiler-reverse-engineering-mcp-server",
+  "description": "Enables decompilation and reverse engineering of Java JAR files through multi-engine decompilation, candidate evaluation, Maven project structuring, AST-based deobfuscation, and bytecode comparison.",
+  "source_repo": "sapyyy/reverse-engineering-mcp-server",
+  "source_url": "https://github.com/sapyyy/reverse-engineering-mcp-server",
+  "install": "npx -y reverse-engineering-mcp-server"
+}

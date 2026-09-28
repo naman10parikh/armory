@@ -1,0 +1,7 @@
+{
+  "name": "local-zotero-mcp",
+  "description": "Provides read-only access to your local Zotero library via the Zotero Local API, enabling search, retrieval, and bibliography generation without API keys.",
+  "source_repo": "virtualarchitectures/Local-Zotero-MCP",
+  "source_url": "https://github.com/virtualarchitectures/Local-Zotero-MCP",
+  "install": "npx -y Local-Zotero-MCP"
+}

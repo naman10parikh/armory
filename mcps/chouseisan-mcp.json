@@ -1,0 +1,7 @@
+{
+  "name": "chouseisan-mcp",
+  "description": "MCP server to read and write events on chouseisan.com (Chouseisan), a Japanese scheduling tool, using unofficial HTTP protocol. Enables creating events, fetching schedules, and managing responses via AI agents or CLI.",
+  "source_repo": "soyalumno/chouseisan-mcp",
+  "source_url": "https://github.com/soyalumno/chouseisan-mcp",
+  "install": "npx -y chouseisan-mcp"
+}

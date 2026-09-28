@@ -1,0 +1,7 @@
+{
+  "name": "pterodactyl-mcp-server",
+  "description": "Enables managing Pterodactyl Game Panel servers via Client and Application APIs, including power actions, files, databases, backups, schedules, and administrative operations.",
+  "source_repo": "Ethereal-Jay/pterodactyl-mcp",
+  "source_url": "https://github.com/Ethereal-Jay/pterodactyl-mcp",
+  "install": "npx -y pterodactyl-mcp"
+}

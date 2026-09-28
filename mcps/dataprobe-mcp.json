@@ -1,0 +1,7 @@
+{
+  "name": "dataprobe-mcp",
+  "description": "A minimal MCP server for DataProbe data question answering and read-only SQL queries, supporting stdio and streamable HTTP modes.",
+  "source_repo": "lck-001/51-dataprobe-mcp",
+  "source_url": "https://github.com/lck-001/51-dataprobe-mcp",
+  "install": "npx -y 51-dataprobe-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentpay-sentinel-mcp",
+  "description": "Validates agent payment requests against 9 security checks before execution, catching policy violations, replay attacks, amount tampering, revoked tokens, and budget overruns.",
+  "source_repo": "Rumblingb/agentpay-sentinel-mcp",
+  "source_url": "https://github.com/Rumblingb/agentpay-sentinel-mcp",
+  "install": "npx -y agentpay-sentinel-mcp"
+}

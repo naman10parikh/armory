@@ -1,0 +1,7 @@
+{
+  "name": "speech-mcp-server",
+  "description": "MCP server integrating VolcEngine for automatic speech recognition (ASR) and text-to-speech (TTS), converting audio to text or text to audio files.",
+  "source_repo": "thundersoft-td/mcp-server-speech",
+  "source_url": "https://github.com/thundersoft-td/mcp-server-speech",
+  "install": "# git clone --depth 1 https://github.com/thundersoft-td/mcp-server-speech\n# See source for mcpServers config block"
+}

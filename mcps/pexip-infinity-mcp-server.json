@@ -1,0 +1,7 @@
+{
+  "name": "pexip-infinity-mcp-server",
+  "description": "An MCP server that enables Claude and other LLM agents to manage and monitor Pexip Infinity deployments through natural language, with 122 tools for configuration, status, history, and command operations.",
+  "source_repo": "Josh-E-S/pexip-mgmt-mcp",
+  "source_url": "https://github.com/Josh-E-S/pexip-mgmt-mcp",
+  "install": "npx -y pexip-mgmt-mcp"
+}

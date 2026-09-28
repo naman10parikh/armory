@@ -1,0 +1,7 @@
+{
+  "name": "dynamic-mcp",
+  "description": "Dynamic MCP server for Node.js enabling runtime tool creation, management, and execution in isolated sandboxes (Docker or Node).",
+  "source_repo": "mcpland/dynamic-mcp",
+  "source_url": "https://github.com/mcpland/dynamic-mcp",
+  "install": "npx -y dynamic-mcp"
+}

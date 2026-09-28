@@ -1,0 +1,7 @@
+{
+  "name": "moka-mcp-server",
+  "description": "Enables AI assistants to query Moka recruitment system data including candidates, jobs, pipelines, and talent pools through read-only MCP tools.",
+  "source_repo": "mingyangsun-sketch/moka-mcpserver",
+  "source_url": "https://github.com/mingyangsun-sketch/moka-mcpserver",
+  "install": "# git clone --depth 1 https://github.com/mingyangsun-sketch/moka-mcpserver\n# See source for mcpServers config block"
+}

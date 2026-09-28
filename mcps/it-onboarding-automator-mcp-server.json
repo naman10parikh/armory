@@ -1,0 +1,7 @@
+{
+  "name": "it-onboarding-automator-mcp-server",
+  "description": "Enables AI assistants to inspect employee access, list failed onboarding events, and retry provisioning operations.",
+  "source_repo": "Aman3786/IT-Onboarding-Automator",
+  "source_url": "https://github.com/Aman3786/IT-Onboarding-Automator",
+  "install": "# git clone --depth 1 https://github.com/Aman3786/IT-Onboarding-Automator\n# See source for mcpServers config block"
+}

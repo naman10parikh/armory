@@ -1,0 +1,7 @@
+{
+  "name": "embedded-gdb-mcp",
+  "description": "Enables GDB debugging for embedded development workflows, allowing users to start sessions, load programs, set breakpoints, step through code, and examine memory/registers/variables via natural language.",
+  "source_repo": "vividcode-ai/embedded-gdb-mcp",
+  "source_url": "https://github.com/vividcode-ai/embedded-gdb-mcp",
+  "install": "npx -y embedded-gdb-mcp"
+}

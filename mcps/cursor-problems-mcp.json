@@ -1,0 +1,7 @@
+{
+  "name": "cursor-problems-mcp",
+  "description": "Exposes the VS Code/Cursor Problems panel to AI assistants via MCP, enabling live diagnostics querying with filters, context, summaries, and code actions.",
+  "source_repo": "zemecom/cursor-problems-mcp",
+  "source_url": "https://github.com/zemecom/cursor-problems-mcp",
+  "install": "npx -y cursor-problems-mcp"
+}

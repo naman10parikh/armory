@@ -1,0 +1,7 @@
+{
+  "name": "portal-da-transpar-ncia-repasse-de-verba",
+  "description": "MCP server for querying official fund transfer data from Brazil's Transparency Portal, offering a read-only tool with usage-based pricing.",
+  "source_repo": "mcp-dir/portal_transparencia_repasse-mcp",
+  "source_url": "https://github.com/mcp-dir/portal_transparencia_repasse-mcp",
+  "install": "npx -y portal_transparencia_repasse-mcp"
+}

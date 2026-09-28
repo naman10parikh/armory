@@ -1,0 +1,7 @@
+{
+  "name": "vnc-mcp-server",
+  "description": "Empowers AI agents to see, reason, and control computers via VNC, providing advanced vision features like OCR and image search, human-like input control, and optional SSH remote command execution.",
+  "source_repo": "volkan-m/vnc-mcp-server",
+  "source_url": "https://github.com/volkan-m/vnc-mcp-server",
+  "install": "npx -y vnc-mcp-server"
+}

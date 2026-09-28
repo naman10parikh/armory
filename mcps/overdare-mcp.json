@@ -1,0 +1,7 @@
+{
+  "name": "overdare-mcp",
+  "description": "An MCP server that enables AI agents to browse, create, edit, and script in OVERDARE Studio, and to run playtests.",
+  "source_repo": "Seungpyo1007/overdare-mcp",
+  "source_url": "https://github.com/Seungpyo1007/overdare-mcp",
+  "install": "npx -y overdare-mcp"
+}

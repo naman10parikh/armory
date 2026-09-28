@@ -1,0 +1,7 @@
+{
+  "name": "hireme-mcp",
+  "description": "Enables AI agents to vet a developer's shipped products, check fixed pricing and availability, and submit project briefs on behalf of users.",
+  "source_repo": "djoudad292/hireme-mcp",
+  "source_url": "https://github.com/djoudad292/hireme-mcp",
+  "install": "npx -y hireme-mcp"
+}

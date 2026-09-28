@@ -1,0 +1,7 @@
+{
+  "name": "korea-trip-concierge",
+  "description": "An MCP server that helps foreign tourists in Korea find places, shops, transportation, and payment solutions in English.",
+  "source_repo": "bb4rjfl/korea-trip-concierge",
+  "source_url": "https://github.com/bb4rjfl/korea-trip-concierge",
+  "install": "# git clone --depth 1 https://github.com/bb4rjfl/korea-trip-concierge\n# See source for mcpServers config block"
+}

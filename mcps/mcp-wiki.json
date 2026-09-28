@@ -1,0 +1,7 @@
+{
+  "name": "mcp-wiki",
+  "description": "Exposes any project wiki to AI assistants with features like fuzzy search, content search, lazy loading, and auto-reload.",
+  "source_repo": "jommar/mcp-wiki",
+  "source_url": "https://github.com/jommar/mcp-wiki",
+  "install": "# git clone --depth 1 https://github.com/jommar/mcp-wiki\n# See source for mcpServers config block"
+}

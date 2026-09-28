@@ -1,0 +1,7 @@
+{
+  "name": "motherflame",
+  "description": "MCP server that connects AI agents to a shared organizational knowledge base, allowing them to query company-specific context like pricing, team, and strategy.",
+  "source_repo": "opelpleple/motherflame",
+  "source_url": "https://github.com/opelpleple/motherflame",
+  "install": "# git clone --depth 1 https://github.com/opelpleple/motherflame\n# See source for mcpServers config block"
+}

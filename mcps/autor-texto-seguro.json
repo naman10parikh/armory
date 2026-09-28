@@ -1,0 +1,7 @@
+{
+  "name": "autor-texto-seguro",
+  "description": "Enables secure text authoring and privacy-focused document processing through MCP. Provides tools for style analysis, conservative text revision, comparison with author samples, and removal of metadata from DOCX/PDF files.",
+  "source_repo": "advogadotuliosilveira/text-tool-mcp",
+  "source_url": "https://github.com/advogadotuliosilveira/text-tool-mcp",
+  "install": "npx -y text-tool-mcp"
+}

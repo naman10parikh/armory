@@ -1,0 +1,7 @@
+{
+  "name": "auditreach",
+  "description": "BYOK Reddit/YouTube research CLI with a tamper-evident, hash-chained audit log. Includes an MCP server for agent-native use.",
+  "source_repo": "RudrenduPaul/auditreach",
+  "source_url": "https://github.com/RudrenduPaul/auditreach",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/auditreach\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "meok-agents-md-lint-mcp",
+  "description": "Validates AGENTS.md files against the cross-vendor coding-agent spec, detecting security smells and consistency issues.",
+  "source_repo": "CSOAI-ORG/meok-agents-md-lint-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-agents-md-lint-mcp",
+  "install": "npx -y meok-agents-md-lint-mcp"
+}

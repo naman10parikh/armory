@@ -1,0 +1,7 @@
+{
+  "name": "github-graphql-mcp-server",
+  "description": "Enables executing arbitrary GraphQL queries and mutations against GitHub's API through a single MCP tool.",
+  "source_repo": "QuentinCody/github-graphql-mcp-server",
+  "source_url": "https://github.com/QuentinCody/github-graphql-mcp-server",
+  "install": "npx -y github-graphql-mcp-server"
+}

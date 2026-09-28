@@ -1,0 +1,7 @@
+{
+  "name": "ai-os-mcp-server",
+  "description": "Exposes a Notion-synced AI OS as read-only MCP tools, enabling MCP-compatible AI clients to search the vault, fetch page contents, list projects, and check project statuses without scraping public links.",
+  "source_repo": "cockimitu-ops/AI-OS-MCP1.0",
+  "source_url": "https://github.com/cockimitu-ops/AI-OS-MCP1.0",
+  "install": "# git clone --depth 1 https://github.com/cockimitu-ops/AI-OS-MCP1.0\n# See source for mcpServers config block"
+}

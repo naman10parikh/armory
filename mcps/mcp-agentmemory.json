@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agentmemory",
+  "description": "MCP-native memory layer for Claude Code, Cursor, Cline, Continue, and 16 other AI tools. Hybrid search (BM25 + pgvector + graph), self-hosted on Supabase + Vercel, 100% MIT, no paywall.",
+  "source_repo": "Obidel/Agentmemory",
+  "source_url": "https://github.com/Obidel/Agentmemory",
+  "install": "# git clone --depth 1 https://github.com/Obidel/Agentmemory\n# See source for mcpServers config block"
+}

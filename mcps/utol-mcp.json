@@ -1,0 +1,7 @@
+{
+  "name": "utol-mcp",
+  "description": "Enables users to interact with the University of Tokyo's UTOL learning management system through natural language, providing access to courses, assignments, deadlines, notifications, and materials via MCP clients like Claude Desktop.",
+  "source_repo": "keyhr/utol-mcp",
+  "source_url": "https://github.com/keyhr/utol-mcp",
+  "install": "npx -y utol-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "commutehell",
+  "description": "An MCP server that calculates commute difficulty by combining transit routes, weather, and holiday info. It enables users to get a score representing the burden of a commute based on travel time, transfers, walking, and discomfort.",
+  "source_repo": "soyunRyu/commuteHell",
+  "source_url": "https://github.com/soyunRyu/commuteHell",
+  "install": "# git clone --depth 1 https://github.com/soyunRyu/commuteHell\n# See source for mcpServers config block"
+}

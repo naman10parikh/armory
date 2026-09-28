@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-clash-verge",
+  "description": "MCP server for Clash Verge Rev that lets AI agents control your proxy — switch nodes, change modes, reload config, test latency — directly from conversation.",
+  "source_repo": "IS5416/mcp-server-clash-verge",
+  "source_url": "https://github.com/IS5416/mcp-server-clash-verge",
+  "install": "# git clone --depth 1 https://github.com/IS5416/mcp-server-clash-verge\n# See source for mcpServers config block"
+}

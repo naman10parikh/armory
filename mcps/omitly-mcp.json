@@ -1,0 +1,7 @@
+{
+  "name": "omitly-mcp",
+  "description": "MCP server for local, verifiable PDF redaction. Enables AI agents to find sensitive regions, locate text, redact PDFs on-device, verify redaction and tamper-evidence seals, and generate PDFs—without uploading confidential documents.",
+  "source_repo": "omitly/omitly-mcp",
+  "source_url": "https://github.com/omitly/omitly-mcp",
+  "install": "npx -y omitly-mcp"
+}

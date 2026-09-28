@@ -1,0 +1,7 @@
+{
+  "name": "vps-ops-mcp",
+  "description": "A safe, structured MCP server that lets AI inspect and operate a VPS through typed, allowlisted tools for nginx, PM2, SSL, UFW, fail2ban, with read-only defaults and opt-in mutations.",
+  "source_repo": "Akdag94/vps-ops-mcp",
+  "source_url": "https://github.com/Akdag94/vps-ops-mcp",
+  "install": "npx -y vps-ops-mcp"
+}

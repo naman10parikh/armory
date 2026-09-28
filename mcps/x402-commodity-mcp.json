@@ -1,0 +1,7 @@
+{
+  "name": "x402-commodity-mcp",
+  "description": "An MCP server providing global soft-commodity data (cocoa, coffee, sugar, cotton, cashew) with per-call billing in USDC, offering tools for farmgate prices, ICE futures, CFTC COT positioning, and historical series.",
+  "source_repo": "Bigabou007-dev/x402-commodity-mcp",
+  "source_url": "https://github.com/Bigabou007-dev/x402-commodity-mcp",
+  "install": "npx -y x402-commodity-mcp"
+}

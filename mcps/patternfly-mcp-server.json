@@ -1,0 +1,7 @@
+{
+  "name": "patternfly-mcp-server",
+  "description": "Provides access to PatternFly React development rules and documentation via MCP tools, allowing retrieval of documentation from URLs or local paths.",
+  "source_repo": "jeff-phillips-18/patternfly-mcp",
+  "source_url": "https://github.com/jeff-phillips-18/patternfly-mcp",
+  "install": "npx -y patternfly-mcp"
+}

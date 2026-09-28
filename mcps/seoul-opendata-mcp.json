@@ -1,0 +1,7 @@
+{
+  "name": "seoul-opendata-mcp",
+  "description": "MCP server enabling natural language search and recommendation of Seoul Open Data Plaza datasets, covering APIs and non-API formats with provider and recency filters.",
+  "source_repo": "youjin8812-hub/seoul-opendata-mcp",
+  "source_url": "https://github.com/youjin8812-hub/seoul-opendata-mcp",
+  "install": "npx -y seoul-opendata-mcp"
+}

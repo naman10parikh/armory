@@ -1,0 +1,7 @@
+{
+  "name": "google-autocomplete-api",
+  "description": "Enables AI agents to fetch Google autocomplete suggestions for partial queries, returning ranked results as clean JSON. Supports batch queries, localization, and integration with place lookups.",
+  "source_repo": "johnisanerd/Google-Autocomplete-API",
+  "source_url": "https://github.com/johnisanerd/Google-Autocomplete-API",
+  "install": "# git clone --depth 1 https://github.com/johnisanerd/Google-Autocomplete-API\n# See source for mcpServers config block"
+}

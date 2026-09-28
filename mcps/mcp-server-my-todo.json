@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-my-todo",
+  "description": "A minimal MCP server for managing a personal todo list backed by SQLite, allowing users to add, list, complete, and delete todos via natural language.",
+  "source_repo": "Ismailtlem/mcp-test",
+  "source_url": "https://github.com/Ismailtlem/mcp-test",
+  "install": "# git clone --depth 1 https://github.com/Ismailtlem/mcp-test\n# See source for mcpServers config block"
+}

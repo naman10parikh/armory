@@ -1,0 +1,7 @@
+{
+  "name": "regex-quality",
+  "description": "Provides tools to test regex patterns for correctness, performance (ReDoS), and memory usage, and suggests safe rewrites. Enables LLMs to iterate on regex generation with verifiable feedback.",
+  "source_repo": "XlogicX/ReDetox",
+  "source_url": "https://github.com/XlogicX/ReDetox",
+  "install": "# git clone --depth 1 https://github.com/XlogicX/ReDetox\n# See source for mcpServers config block"
+}

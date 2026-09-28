@@ -1,0 +1,7 @@
+{
+  "name": "boss-cli-mcp",
+  "description": "Enables AI assistants to automate Boss直聘 recruitment workflows via local Chrome, including candidate queries, messaging, batch replies, resume previews, and position management.",
+  "source_repo": "bmbbms/boss-cli-mcp",
+  "source_url": "https://github.com/bmbbms/boss-cli-mcp",
+  "install": "npx -y boss-cli-mcp"
+}

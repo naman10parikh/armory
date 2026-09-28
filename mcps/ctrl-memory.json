@@ -1,0 +1,7 @@
+{
+  "name": "ctrl-memory",
+  "description": "A lightweight, local-first MCP memory server for LLM agents that enables storing, searching, and retrieving agent memories with zero external dependencies.",
+  "source_repo": "ctrlProgrammer/ctrl-memory-system",
+  "source_url": "https://github.com/ctrlProgrammer/ctrl-memory-system",
+  "install": "# git clone --depth 1 https://github.com/ctrlProgrammer/ctrl-memory-system\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pylon-mcp-server",
+  "description": "An MCP server that integrates with the Pylon API, providing 38 tools for user management, contacts, issues, tags, external issue linking, knowledge bases, teams, accounts, attachments, and more.",
+  "source_repo": "mgmonteleone/pylon-mcp",
+  "source_url": "https://github.com/mgmonteleone/pylon-mcp",
+  "install": "npx -y pylon-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "top-gun-geo-lens",
+  "description": "Measures brand visibility in AI-powered search sources and provides actionable GEO recommendations.",
+  "source_repo": "Spacemandomains/top_gun_mcp_server",
+  "source_url": "https://github.com/Spacemandomains/top_gun_mcp_server",
+  "install": "npx -y top_gun_mcp_server"
+}

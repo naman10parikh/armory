@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-pb-campina-grande-multas",
+  "description": "MCP server for querying traffic fines from the official Campina Grande, PB, Brazil source via a single read-only tool, with pay-per-use credits and no platform credentials.",
+  "source_repo": "mcp-dir/pref_pb_campina_grande_multas-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_pb_campina_grande_multas-mcp",
+  "install": "npx -y pref_pb_campina_grande_multas-mcp"
+}

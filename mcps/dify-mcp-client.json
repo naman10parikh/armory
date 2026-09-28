@@ -1,6 +1,6 @@
 {
   "name": "dify-mcp-client",
-  "description": "Dify Mcp Client MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "3dify-project/dify-mcp-client",
   "source_url": "https://mcp.so/server/dify-mcp-client/3dify-project",
   "install": "# git clone --depth 1 https://mcp.so/server/dify-mcp-client/3dify-project\n# See source for mcpServers config block"

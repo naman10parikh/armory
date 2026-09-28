@@ -1,0 +1,7 @@
+{
+  "name": "bronom",
+  "description": "Exposes a persistent, visible multi-tab Electron browser to AI clients through MCP, enabling tab management, navigation, interaction, screenshots, and JavaScript evaluation.",
+  "source_repo": "Netroforge/bronom",
+  "source_url": "https://github.com/Netroforge/bronom",
+  "install": "# git clone --depth 1 https://github.com/Netroforge/bronom\n# See source for mcpServers config block"
+}

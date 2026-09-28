@@ -1,0 +1,7 @@
+{
+  "name": "browser-search-mcp",
+  "description": "Enables web search via a real browser for any LLM, bypassing anti-bot measures without API keys.",
+  "source_repo": "fangsylar-pixel/browser-search",
+  "source_url": "https://github.com/fangsylar-pixel/browser-search",
+  "install": "# git clone --depth 1 https://github.com/fangsylar-pixel/browser-search\n# See source for mcpServers config block"
+}

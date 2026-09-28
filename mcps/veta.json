@@ -1,0 +1,7 @@
+{
+  "name": "veta",
+  "description": "Turns saved X posts and long-form articles into a private, searchable context base accessible via MCP. Lets coding agents import, search, read, and enrich the library using the user's existing browser session.",
+  "source_repo": "nerdconf/veta",
+  "source_url": "https://github.com/nerdconf/veta",
+  "install": "# git clone --depth 1 https://github.com/nerdconf/veta\n# See source for mcpServers config block"
+}

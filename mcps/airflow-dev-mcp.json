@@ -1,0 +1,7 @@
+{
+  "name": "airflow-dev-mcp",
+  "description": "An MCP server that enables AI coding assistants to interact with a local Airflow cluster via its REST API for triggering DAG runs, monitoring status, reading logs, and diagnosing errors.",
+  "source_repo": "BrianLondon/airflow-dev-mcp",
+  "source_url": "https://github.com/BrianLondon/airflow-dev-mcp",
+  "install": "npx -y airflow-dev-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "foxtrove-voice-mcp-server",
+  "description": "Public read-only MCP server for FoxTrove Voice, enabling LLMs to query call logs, customer records, assistant stats, and analytics via secure OAuth.",
+  "source_repo": "FoxTrove/foxtrove-voice-mcp",
+  "source_url": "https://github.com/FoxTrove/foxtrove-voice-mcp",
+  "install": "npx -y foxtrove-voice-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "conselho-regional-de-farm-cia-sp-cadastro",
+  "description": "MCP server for querying official pharmacy council registration data in São Paulo, Brazil. It provides a read-only tool to consult professional cadastro information via a hosted, pay-per-use HTTP endpoint.",
+  "source_repo": "mcp-dir/crf_sp_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/crf_sp_cadastro-mcp",
+  "install": "npx -y crf_sp_cadastro-mcp"
+}

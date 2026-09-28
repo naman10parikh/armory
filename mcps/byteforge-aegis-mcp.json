@@ -1,0 +1,7 @@
+{
+  "name": "byteforge-aegis-mcp",
+  "description": "A read-only MCP server that exposes ByteForge Aegis admin API tools to query production configuration (sites, users, health) without any mutation risk.",
+  "source_repo": "jmazzahacks/byteforge-aegis-mcp",
+  "source_url": "https://github.com/jmazzahacks/byteforge-aegis-mcp",
+  "install": "npx -y byteforge-aegis-mcp"
+}

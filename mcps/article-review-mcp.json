@@ -1,0 +1,7 @@
+{
+  "name": "article-review-mcp",
+  "description": "A visual MCP server for reviewing explicit article patches with categorized comments, enabling deterministic patch validation, interactive accept/reject/edit decisions, and final article assembly.",
+  "source_repo": "Biogod2020/article-review-mcp",
+  "source_url": "https://github.com/Biogod2020/article-review-mcp",
+  "install": "npx -y article-review-mcp"
+}

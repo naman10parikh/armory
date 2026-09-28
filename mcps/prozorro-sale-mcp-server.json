@@ -1,0 +1,7 @@
+{
+  "name": "prozorro-sale-mcp-server",
+  "description": "Read-only MCP server for the Ukrainian state auction platform Prozorro.Sale. It enables users to search auctions, retrieve detailed information, timelines, results, documents, and analyze market trends through natural language.",
+  "source_repo": "VladyslavMykhailyshyn/prozorro-sale-mcp-server",
+  "source_url": "https://github.com/VladyslavMykhailyshyn/prozorro-sale-mcp-server",
+  "install": "npx -y prozorro-sale-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "magpie-mcp-server",
+  "description": "Enables AI agents to access Magpie Payment Platform APIs for processing payments, creating checkout sessions, sending invoices, and managing payment links through natural conversation.",
+  "source_repo": "domdanao/magpie-mcp-server",
+  "source_url": "https://github.com/domdanao/magpie-mcp-server",
+  "install": "npx -y magpie-mcp-server"
+}

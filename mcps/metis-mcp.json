@@ -1,0 +1,7 @@
+{
+  "name": "metis-mcp",
+  "description": "MCP server for researching tokenized real-world assets on Solana. It provides on-chain tools for checking token controls, supply, liquidity, and premium, plus published research from Metis.",
+  "source_repo": "metis-rwa/mcp",
+  "source_url": "https://github.com/metis-rwa/mcp",
+  "install": "# git clone --depth 1 https://github.com/metis-rwa/mcp\n# See source for mcpServers config block"
+}

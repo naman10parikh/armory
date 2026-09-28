@@ -1,0 +1,7 @@
+{
+  "name": "glyphs-mini-mcp",
+  "description": "Enables an AI agent to build and edit fonts for Glyphs Mini by manipulating .glyphs files on disk, with a built-in rendering feedback loop for visual inspection.",
+  "source_repo": "PetriLahdelma/glyphs-mini-mcp",
+  "source_url": "https://github.com/PetriLahdelma/glyphs-mini-mcp",
+  "install": "npx -y glyphs-mini-mcp"
+}

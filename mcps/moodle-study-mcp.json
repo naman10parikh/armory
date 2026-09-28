@@ -1,0 +1,7 @@
+{
+  "name": "moodle-study-mcp",
+  "description": "Enables AI assistants to read your Moodle courses, list materials, quizzes, and search content to plan exam preparation through natural language.",
+  "source_repo": "franciscodngferreira/Moodle-MCP",
+  "source_url": "https://github.com/franciscodngferreira/Moodle-MCP",
+  "install": "npx -y Moodle-MCP"
+}

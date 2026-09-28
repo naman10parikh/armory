@@ -1,0 +1,7 @@
+{
+  "name": "codegraph-mcp",
+  "description": "MCP server that enables intent search over Python call graphs inside Cursor, returning cite spans and call chains to reduce token usage.",
+  "source_repo": "SahilSheikh12299/codegraph-mcp",
+  "source_url": "https://github.com/SahilSheikh12299/codegraph-mcp",
+  "install": "npx -y codegraph-mcp"
+}

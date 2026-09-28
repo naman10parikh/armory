@@ -1,0 +1,7 @@
+{
+  "name": "notion-enhanced",
+  "description": "Enhanced Notion MCP server supporting all 24 property types, auto-pagination, block operations, and markdown conversion for database and page operations.",
+  "source_repo": "davidlinjiahao/notion-mcp",
+  "source_url": "https://github.com/davidlinjiahao/notion-mcp",
+  "install": "npx -y notion-mcp"
+}

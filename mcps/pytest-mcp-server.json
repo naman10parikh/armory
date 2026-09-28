@@ -1,0 +1,7 @@
+{
+  "name": "pytest-mcp-server",
+  "description": "MCP server for debugging pytest failures, allowing users to register test failures, apply systematic debugging principles, and analyze failure patterns.",
+  "source_repo": "tosin2013/pytest-mcp-server",
+  "source_url": "https://github.com/tosin2013/pytest-mcp-server",
+  "install": "npx -y pytest-mcp-server"
+}

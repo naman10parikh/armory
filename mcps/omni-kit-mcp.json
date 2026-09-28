@@ -1,0 +1,7 @@
+{
+  "name": "omni-kit-mcp",
+  "description": "Enables driving Omniverse Kit apps (Isaac Sim, Isaac Lab) over MCP, allowing agents to control simulations, run Python, and call namespace-scoped tools via a single bridge.",
+  "source_repo": "inbarajaldrin/omni-kit-mcp",
+  "source_url": "https://github.com/inbarajaldrin/omni-kit-mcp",
+  "install": "npx -y omni-kit-mcp"
+}

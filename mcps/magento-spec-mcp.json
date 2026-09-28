@@ -1,0 +1,7 @@
+{
+  "name": "magento-spec-mcp",
+  "description": "Provides AI agents with Magento 2.4.8-p5 / PHP 8.3 technical standards, patterns, and review checklists via MCP tools, enabling them to reference the single source of truth when working on Magento projects.",
+  "source_repo": "thanhle74/magento-mcp",
+  "source_url": "https://github.com/thanhle74/magento-mcp",
+  "install": "npx -y magento-mcp"
+}

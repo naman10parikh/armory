@@ -1,0 +1,7 @@
+{
+  "name": "payrouter",
+  "description": "Universal agentic payment router that gives AI agents the ability to pay across multiple payment rails through a single MCP interface, with cross-rail budget enforcement and a unified audit trail.",
+  "source_repo": "ram0verflow/payrouter",
+  "source_url": "https://github.com/ram0verflow/payrouter",
+  "install": "# git clone --depth 1 https://github.com/ram0verflow/payrouter\n# See source for mcpServers config block"
+}

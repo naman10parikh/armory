@@ -1,0 +1,7 @@
+{
+  "name": "file-mcp",
+  "description": "Educational MCP server for basic file operations (read/write) via the Model Context Protocol.",
+  "source_repo": "visor517/file-mcp",
+  "source_url": "https://github.com/visor517/file-mcp",
+  "install": "npx -y file-mcp"
+}

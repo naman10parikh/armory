@@ -1,0 +1,7 @@
+{
+  "name": "circuitarium-mcp",
+  "description": "Local electronics tools for MCP-capable assistants, enabling static analysis of CRUMB save files and Logisim-evolution projects, including net tracing, BOM building, electrical rule checks, and optional truth table generation.",
+  "source_repo": "Craftiee/circuitarium-mcp",
+  "source_url": "https://github.com/Craftiee/circuitarium-mcp",
+  "install": "npx -y circuitarium-mcp"
+}

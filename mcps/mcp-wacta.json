@@ -1,0 +1,7 @@
+{
+  "name": "mcp-wacta",
+  "description": "MCP server for the WaCta WordPress suite, enabling AI assistants to read/update settings, manage CTAs, and query WhatsApp analytics via secure Application Passwords.",
+  "source_repo": "Kanzando/Mcp-Wacta",
+  "source_url": "https://github.com/Kanzando/Mcp-Wacta",
+  "install": "# git clone --depth 1 https://github.com/Kanzando/Mcp-Wacta\n# See source for mcpServers config block"
+}

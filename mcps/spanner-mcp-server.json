@@ -1,0 +1,7 @@
+{
+  "name": "spanner-mcp-server",
+  "description": "Enables read-only SQL queries and schema introspection for Google Cloud Spanner, supporting both GoogleSQL and PostgreSQL dialects.",
+  "source_repo": "catalyst-edu-llc/spanner-mcp-server",
+  "source_url": "https://github.com/catalyst-edu-llc/spanner-mcp-server",
+  "install": "npx -y spanner-mcp-server"
+}

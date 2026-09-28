@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-viz",
+  "description": "A data visualization MCP server built on FastMCP, providing 32 tools for chart generation, report building, and data processing.",
+  "source_repo": "wzx11223344/mcp-data-viz",
+  "source_url": "https://github.com/wzx11223344/mcp-data-viz",
+  "install": "# git clone --depth 1 https://github.com/wzx11223344/mcp-data-viz\n# See source for mcpServers config block"
+}

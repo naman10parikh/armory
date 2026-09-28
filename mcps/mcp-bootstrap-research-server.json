@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bootstrap-research-server",
+  "description": "Provides tools to search arXiv papers and extract metadata, enabling AI assistants to access academic research papers via the Model Context Protocol.",
+  "source_repo": "mishrarajesh/mcp-project",
+  "source_url": "https://github.com/mishrarajesh/mcp-project",
+  "install": "# git clone --depth 1 https://github.com/mishrarajesh/mcp-project\n# See source for mcpServers config block"
+}

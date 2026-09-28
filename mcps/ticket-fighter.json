@@ -1,0 +1,7 @@
+{
+  "name": "ticket-fighter",
+  "description": "Automates parking ticket detection, evidence gathering, and dispute preparation across multiple US cities.",
+  "source_repo": "timncox/ticket-fighter",
+  "source_url": "https://github.com/timncox/ticket-fighter",
+  "install": "# git clone --depth 1 https://github.com/timncox/ticket-fighter\n# See source for mcpServers config block"
+}

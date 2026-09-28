@@ -1,0 +1,7 @@
+{
+  "name": "summit-mcp-server",
+  "description": "Brings Summit's CRO audit insights into coding agents, enabling them to fetch audits, implement fixes, and manage A/B experiments directly from the editor.",
+  "source_repo": "Antmind-ai/summit-mcp",
+  "source_url": "https://github.com/Antmind-ai/summit-mcp",
+  "install": "npx -y summit-mcp"
+}

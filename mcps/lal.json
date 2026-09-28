@@ -1,0 +1,7 @@
+{
+  "name": "lal",
+  "description": "A permissioned memory tree for you and your AI — served over MCP.",
+  "source_repo": "lalss-dev/lal.dev",
+  "source_url": "https://github.com/lalss-dev/lal.dev",
+  "install": "# git clone --depth 1 https://github.com/lalss-dev/lal.dev\n# See source for mcpServers config block"
+}

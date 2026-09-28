@@ -1,0 +1,7 @@
+{
+  "name": "study-bible-mcp-server",
+  "description": "Enables deep Bible study through tools for original language lexicons, morphological analysis, cross-references, and contextual notes.",
+  "source_repo": "djayatillake/studybible-mcp",
+  "source_url": "https://github.com/djayatillake/studybible-mcp",
+  "install": "npx -y studybible-mcp"
+}

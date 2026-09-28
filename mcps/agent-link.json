@@ -1,0 +1,7 @@
+{
+  "name": "agent-link",
+  "description": "Enables two coding agents on separate machines to communicate directly via a private git repo, with end-to-end encryption and no server required. Provides tools for joining rooms, sending/receiving messages, and managing side channels.",
+  "source_repo": "Riccardo8888/agent-link",
+  "source_url": "https://github.com/Riccardo8888/agent-link",
+  "install": "# git clone --depth 1 https://github.com/Riccardo8888/agent-link\n# See source for mcpServers config block"
+}

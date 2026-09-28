@@ -1,0 +1,7 @@
+{
+  "name": "casper-mcp-server",
+  "description": "Enables AI agents to interact with the Casper Network through six tools including account balance, agent registry, transaction status, transfers, and DeFi pools, using the Model Context Protocol.",
+  "source_repo": "thebeastagi/casper-agent-gateway",
+  "source_url": "https://github.com/thebeastagi/casper-agent-gateway",
+  "install": "# git clone --depth 1 https://github.com/thebeastagi/casper-agent-gateway\n# See source for mcpServers config block"
+}

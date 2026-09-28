@@ -1,0 +1,7 @@
+{
+  "name": "tdd-mcp",
+  "description": "Guides developers through disciplined Test-Driven Development cycles with session state management and phase transitions, ensuring test-first methodology.",
+  "source_repo": "tinmancoding/tdd-mcp",
+  "source_url": "https://github.com/tinmancoding/tdd-mcp",
+  "install": "npx -y tdd-mcp"
+}

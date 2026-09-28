@@ -1,0 +1,7 @@
+{
+  "name": "open-meteo-mcp",
+  "description": "Enables users to get weather forecasts, snow conditions, air quality, and location search via the Open-Meteo API, with guided prompts for ski trips and outdoor activities.",
+  "source_repo": "schlpbch/open-meteo-mcp-py",
+  "source_url": "https://github.com/schlpbch/open-meteo-mcp-py",
+  "install": "# git clone --depth 1 https://github.com/schlpbch/open-meteo-mcp-py\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "customjs-mcp-server",
+  "description": "A remote MCP server that enables AI agents to host HTML pages, generate PDFs, capture screenshots, scrape sites, and run sandboxed code using a CustomJS API key.",
+  "source_repo": "customjs/customjs-mcp",
+  "source_url": "https://github.com/customjs/customjs-mcp",
+  "install": "npx -y customjs-mcp"
+}

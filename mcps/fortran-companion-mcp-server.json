@@ -1,0 +1,7 @@
+{
+  "name": "fortran-companion-mcp-server",
+  "description": "Enables AI models to write, format, compile, lint, and structure modern Fortran code using best practices and industry design patterns.",
+  "source_repo": "enkiEng/fortran-mcp",
+  "source_url": "https://github.com/enkiEng/fortran-mcp",
+  "install": "npx -y fortran-mcp"
+}

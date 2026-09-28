@@ -1,0 +1,7 @@
+{
+  "name": "fill-rite-mcp",
+  "description": "Enables AI agents to interact with a user's Fill-Rite fuel management system, with token refresh handling for continuous access.",
+  "source_repo": "ribeck18/fill-rite-mcp",
+  "source_url": "https://github.com/ribeck18/fill-rite-mcp",
+  "install": "npx -y fill-rite-mcp"
+}

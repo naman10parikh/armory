@@ -1,0 +1,7 @@
+{
+  "name": "fangorn-mcp-server",
+  "description": "Enables AI agents to query Fangorn subgraph schemas and conformant data from published data sources via the Model Context Protocol.",
+  "source_repo": "fangorn-network/mcp",
+  "source_url": "https://github.com/fangorn-network/mcp",
+  "install": "# git clone --depth 1 https://github.com/fangorn-network/mcp\n# See source for mcpServers config block"
+}

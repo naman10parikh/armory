@@ -1,0 +1,7 @@
+{
+  "name": "cnbs-mcp-server",
+  "description": "Enables querying statistical data from China NBS, World Bank, IMF, OECD, BIS, census, and department statistics via MCP tools.",
+  "source_repo": "Eliseowzy/cnbs-mcp-server",
+  "source_url": "https://github.com/Eliseowzy/cnbs-mcp-server",
+  "install": "npx -y cnbs-mcp-server"
+}

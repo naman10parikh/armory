@@ -1,0 +1,7 @@
+{
+  "name": "lighthouse-mcp-oauth",
+  "description": "Enables Claude.ai to connect to a Hermes MCP server via OAuth 2.1 authorization code flow with PKCE, acting as a reverse proxy and single-user authorization gateway.",
+  "source_repo": "lighthousegrouptr-commits/lighthouse-mcp-oauth",
+  "source_url": "https://github.com/lighthousegrouptr-commits/lighthouse-mcp-oauth",
+  "install": "# git clone --depth 1 https://github.com/lighthousegrouptr-commits/lighthouse-mcp-oauth\n# See source for mcpServers config block"
+}

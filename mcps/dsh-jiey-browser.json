@@ -1,0 +1,7 @@
+{
+  "name": "dsh-jiey-browser",
+  "description": "Enables DeepSeek Harness agents to control a real Jiey Browser instance via MCP, providing tools for web navigation, interaction, and data extraction.",
+  "source_repo": "jiewaigongxing/dsh-jiey-browser",
+  "source_url": "https://github.com/jiewaigongxing/dsh-jiey-browser",
+  "install": "# git clone --depth 1 https://github.com/jiewaigongxing/dsh-jiey-browser\n# See source for mcpServers config block"
+}

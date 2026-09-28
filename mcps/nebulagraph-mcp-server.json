@@ -1,6 +1,6 @@
 {
   "name": "nebulagraph-mcp-server",
-  "description": "Nebulagraph Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "PsiACE/nebulagraph-mcp-server",
   "source_url": "https://mcp.so/server/nebulagraph-mcp-server/PsiACE",
   "install": "npx -y nebulagraph-mcp-server"

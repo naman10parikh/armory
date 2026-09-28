@@ -1,0 +1,7 @@
+{
+  "name": "mobilize-us-mcp-server",
+  "description": "A read-only MCP server for accessing Mobilize public API data, including organizations, events, and enums.",
+  "source_repo": "GreeneDems/mobilize-us-mcp-server",
+  "source_url": "https://github.com/GreeneDems/mobilize-us-mcp-server",
+  "install": "npx -y mobilize-us-mcp-server"
+}

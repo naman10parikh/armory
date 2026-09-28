@@ -1,0 +1,7 @@
+{
+  "name": "fitnessmcp",
+  "description": "A unified MCP server that connects AI assistants to multiple fitness services (Hevy, Strava, Cronometer, Intervals.icu) through a single secure endpoint, enabling workout, nutrition, and activity data access.",
+  "source_repo": "senoj100-alt/FitnessMCP",
+  "source_url": "https://github.com/senoj100-alt/FitnessMCP",
+  "install": "# git clone --depth 1 https://github.com/senoj100-alt/FitnessMCP\n# See source for mcpServers config block"
+}

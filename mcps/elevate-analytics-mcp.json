@@ -1,0 +1,7 @@
+{
+  "name": "elevate-analytics-mcp",
+  "description": "Production-ready MCP server integrating Google Search Console, GA4, and PageSpeed Insights for SEO and analytics intelligence, enabling natural-language queries to Google analytics data.",
+  "source_repo": "sunilshrestha1982/elevate-analytics-mcp",
+  "source_url": "https://github.com/sunilshrestha1982/elevate-analytics-mcp",
+  "install": "npx -y elevate-analytics-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "metabase-mcp-agents",
+  "description": "MCP server for Metabase that gives AI agents full access to query, explore, and manage content in your Metabase instance.",
+  "source_repo": "nchgn/metabase-mcp-agents",
+  "source_url": "https://github.com/nchgn/metabase-mcp-agents",
+  "install": "# git clone --depth 1 https://github.com/nchgn/metabase-mcp-agents\n# See source for mcpServers config block"
+}

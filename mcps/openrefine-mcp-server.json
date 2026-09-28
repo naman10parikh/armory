@@ -1,0 +1,7 @@
+{
+  "name": "openrefine-mcp-server",
+  "description": "Enables MCP-capable clients to interact with OpenRefine's HTTP API for creating projects, applying operations, exporting CSV, and deleting projects.",
+  "source_repo": "FiquemSabendo/openrefine_mcp",
+  "source_url": "https://github.com/FiquemSabendo/openrefine_mcp",
+  "install": "npx -y openrefine_mcp"
+}

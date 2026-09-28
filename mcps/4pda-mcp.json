@@ -1,0 +1,7 @@
+{
+  "name": "4pda-mcp",
+  "description": "Enables browsing the 4PDA forum through MCP tools for listing forums, topics, and posts using the lightweight lofi text version, with built-in rate-limit handling.",
+  "source_repo": "mishannn/4pda-mcp",
+  "source_url": "https://github.com/mishannn/4pda-mcp",
+  "install": "npx -y 4pda-mcp"
+}

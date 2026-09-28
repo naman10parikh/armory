@@ -1,0 +1,7 @@
+{
+  "name": "com-stayingapi-hotel-vacation-rental-mcp",
+  "description": "MCP server for searching stays, comparing prices across Booking.com, Airbnb, Vrbo, and Google Hotels, and fetching reviews via natural language in AI assistants.",
+  "source_repo": "stayingapi/hotel-vacation-rental-mcp",
+  "source_url": "https://github.com/stayingapi/hotel-vacation-rental-mcp",
+  "install": "npx -y hotel-vacation-rental-mcp"
+}

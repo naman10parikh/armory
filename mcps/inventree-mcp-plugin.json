@@ -1,0 +1,7 @@
+{
+  "name": "inventree-mcp-plugin",
+  "description": "MCP server plugin for InvenTree, enabling AI assistants to interact with inventory data such as parts, stock, locations, orders, and BOMs.",
+  "source_repo": "eljefedelrodeodeljefe/inventree-mcp-plugin",
+  "source_url": "https://github.com/eljefedelrodeodeljefe/inventree-mcp-plugin",
+  "install": "# git clone --depth 1 https://github.com/eljefedelrodeodeljefe/inventree-mcp-plugin\n# See source for mcpServers config block"
+}

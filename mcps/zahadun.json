@@ -1,0 +1,7 @@
+{
+  "name": "zahadun",
+  "description": "Enables Claude Code and OpenCode agents to delegate tasks to peer machines over a self-hosted A2A mesh, using mTLS identity and executing via local CLIs or scripts.",
+  "source_repo": "medelin/zahadun",
+  "source_url": "https://github.com/medelin/zahadun",
+  "install": "# git clone --depth 1 https://github.com/medelin/zahadun\n# See source for mcpServers config block"
+}

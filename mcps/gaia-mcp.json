@@ -1,0 +1,7 @@
+{
+  "name": "gaia-mcp",
+  "description": "Gaia MCP enables AI agents to discover, evaluate, and install trusted skills from the Gaia Skill Tree, providing evidence-backed recommendations and safe workspace integration.",
+  "source_repo": "gaia-research/gaia-mcp",
+  "source_url": "https://github.com/gaia-research/gaia-mcp",
+  "install": "npx -y gaia-mcp"
+}

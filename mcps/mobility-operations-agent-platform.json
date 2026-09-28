@@ -1,0 +1,7 @@
+{
+  "name": "mobility-operations-agent-platform",
+  "description": "MCP server for grounded analysis of synthetic electric-taxi operations data, exposing tools for aggregated metrics, charging risk, and policy retrieval.",
+  "source_repo": "Praharsh-Projects/mobility-operations-agent-platform",
+  "source_url": "https://github.com/Praharsh-Projects/mobility-operations-agent-platform",
+  "install": "# git clone --depth 1 https://github.com/Praharsh-Projects/mobility-operations-agent-platform\n# See source for mcpServers config block"
+}

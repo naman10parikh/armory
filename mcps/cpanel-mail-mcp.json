@@ -1,0 +1,7 @@
+{
+  "name": "cpanel-mail-mcp",
+  "description": "Manages email accounts via IMAP/SMTP, enabling reading, searching, sending, replying, forwarding, and folder management with multi-user and OAuth support.",
+  "source_repo": "rosauceda/cpanel-mail-mcp",
+  "source_url": "https://github.com/rosauceda/cpanel-mail-mcp",
+  "install": "npx -y cpanel-mail-mcp"
+}

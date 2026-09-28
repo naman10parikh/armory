@@ -1,0 +1,7 @@
+{
+  "name": "redmine-mcp-server",
+  "description": "Model Context Protocol (MCP) server for Redmine that provides comprehensive access to the Redmine REST API, enabling users to operate Redmine from MCP clients such as Claude Desktop.",
+  "source_repo": "compasify/redmine-mcp-server",
+  "source_url": "https://github.com/compasify/redmine-mcp-server",
+  "install": "npx -y redmine-mcp-server"
+}

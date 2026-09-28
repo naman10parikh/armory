@@ -1,0 +1,7 @@
+{
+  "name": "multi-gmail-mcp",
+  "description": "An MCP server that provides read, label, and draft access to multiple Gmail accounts from a single server, never sending email.",
+  "source_repo": "joewhaley/multi-gmail-mcp",
+  "source_url": "https://github.com/joewhaley/multi-gmail-mcp",
+  "install": "npx -y multi-gmail-mcp"
+}

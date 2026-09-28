@@ -1,0 +1,7 @@
+{
+  "name": "credit-karma-mcp",
+  "description": "Connects Claude to Credit Karma for natural-language access to transactions, spending patterns, and account summaries.",
+  "source_repo": "chrischall/creditkarma-mcp",
+  "source_url": "https://github.com/chrischall/creditkarma-mcp",
+  "install": "npx -y creditkarma-mcp"
+}

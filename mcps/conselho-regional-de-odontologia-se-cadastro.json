@@ -1,0 +1,7 @@
+{
+  "name": "conselho-regional-de-odontologia-se-cadastro",
+  "description": "Consulta em fonte oficial o cadastro do Conselho Regional de Odontologia SE, com ferramenta somente leitura e paga por uso.",
+  "source_repo": "mcp-dir/cro_se_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_se_cadastro-mcp",
+  "install": "npx -y cro_se_cadastro-mcp"
+}

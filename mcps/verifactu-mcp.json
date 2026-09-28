@@ -1,0 +1,7 @@
+{
+  "name": "verifactu-mcp",
+  "description": "MCP server for integrating VeriFactu (AEAT) with Claude Code and Cursor, enabling generation, chaining, and sending of electronic invoicing records via natural language.",
+  "source_repo": "KmOnBeIbI31/verifactu-mcp",
+  "source_url": "https://github.com/KmOnBeIbI31/verifactu-mcp",
+  "install": "npx -y verifactu-mcp"
+}

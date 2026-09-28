@@ -1,0 +1,7 @@
+{
+  "name": "tnt-house-risk-data-api",
+  "description": "Solana token risk-scoring MCP server for AI trading agents — 0-100 safety score, on-chain insider wallet cluster detection, mint/freeze authority checks, and historical risk data via 3 tools.",
+  "source_repo": "menantonio83-hue/tnt-house",
+  "source_url": "https://github.com/menantonio83-hue/tnt-house",
+  "install": "# git clone --depth 1 https://github.com/menantonio83-hue/tnt-house\n# See source for mcpServers config block"
+}

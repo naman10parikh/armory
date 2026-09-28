@@ -1,0 +1,7 @@
+{
+  "name": "ssojet-mcp-server",
+  "description": "An MCP server that authenticates users via SSOJet and provides tools such as adding two numbers. Enables secure access to tools after OIDC authentication.",
+  "source_repo": "ssojet/remote-mcp-ssojet",
+  "source_url": "https://github.com/ssojet/remote-mcp-ssojet",
+  "install": "# git clone --depth 1 https://github.com/ssojet/remote-mcp-ssojet\n# See source for mcpServers config block"
+}

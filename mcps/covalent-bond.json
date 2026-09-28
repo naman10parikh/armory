@@ -1,0 +1,7 @@
+{
+  "name": "covalent-bond",
+  "description": "Allows two AI coding agents on different machines to securely pair and share files, context, and conventions through an end-to-end encrypted peer-to-peer channel with human-in-the-loop consent.",
+  "source_repo": "gopalrajsuresh/covalent-bond",
+  "source_url": "https://github.com/gopalrajsuresh/covalent-bond",
+  "install": "# git clone --depth 1 https://github.com/gopalrajsuresh/covalent-bond\n# See source for mcpServers config block"
+}

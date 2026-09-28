@@ -1,0 +1,7 @@
+{
+  "name": "canary",
+  "description": "MCP server for Interactive Brokers that provides account, portfolio, market data, and risk analysis tools to MCP hosts like Claude Desktop, enabling natural language queries about positions, market regime, and position sizing without placing orders.",
+  "source_repo": "osauer/canary",
+  "source_url": "https://github.com/osauer/canary",
+  "install": "# git clone --depth 1 https://github.com/osauer/canary\n# See source for mcpServers config block"
+}

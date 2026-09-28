@@ -1,0 +1,7 @@
+{
+  "name": "reddit-q-a-to-notion-mcp-server",
+  "description": "Searches Reddit for answers to questions and saves Q&A sessions to Notion.",
+  "source_repo": "Leon-Sander/Reddit-QnA-to-Notion-MCP",
+  "source_url": "https://github.com/Leon-Sander/Reddit-QnA-to-Notion-MCP",
+  "install": "npx -y Reddit-QnA-to-Notion-MCP"
+}

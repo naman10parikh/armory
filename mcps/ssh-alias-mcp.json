@@ -1,0 +1,7 @@
+{
+  "name": "ssh-alias-mcp",
+  "description": "Enables AI agents to SSH into Linux servers, run commands, deploy code, and manage servers via natural language, also doubles as a CLI for manual use.",
+  "source_repo": "leehom0123/ssh-alias-mcp",
+  "source_url": "https://github.com/leehom0123/ssh-alias-mcp",
+  "install": "npx -y ssh-alias-mcp"
+}

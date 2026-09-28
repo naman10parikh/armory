@@ -1,0 +1,7 @@
+{
+  "name": "mcp-uji-academic-server",
+  "description": "Enables querying academic data from Universitat Jaume I, including subjects, degrees, locations, and schedules, via MCP-compatible clients.",
+  "source_repo": "AldanJJay/MCP_UJI_academic",
+  "source_url": "https://github.com/AldanJJay/MCP_UJI_academic",
+  "install": "# git clone --depth 1 https://github.com/AldanJJay/MCP_UJI_academic\n# See source for mcpServers config block"
+}

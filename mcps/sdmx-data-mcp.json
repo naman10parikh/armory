@@ -1,0 +1,7 @@
+{
+  "name": "sdmx-data-mcp",
+  "description": "An MCP server that lets AI assistants discover and retrieve official statistics from SDMX services, returning actual data observations rather than just query URLs.",
+  "source_repo": "markchweya/sdmx-data-mcp",
+  "source_url": "https://github.com/markchweya/sdmx-data-mcp",
+  "install": "npx -y sdmx-data-mcp"
+}

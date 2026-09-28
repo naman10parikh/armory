@@ -1,0 +1,7 @@
+{
+  "name": "agentknows",
+  "description": "An MCP server that provides unified internet access to Western and Indian platforms (e.g., YouTube, GitHub, stocks, news, Discord) through tools like read, search, hot, research, and doctor, with automatic backend routing and setup hints.",
+  "source_repo": "atharvad999/agentknows",
+  "source_url": "https://github.com/atharvad999/agentknows",
+  "install": "# git clone --depth 1 https://github.com/atharvad999/agentknows\n# See source for mcpServers config block"
+}

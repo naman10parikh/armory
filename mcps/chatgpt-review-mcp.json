@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-review-mcp",
+  "description": "An MCP server that lets Claude Code send prompts to a logged-in ChatGPT web session via Chrome DevTools Protocol, enabling a second opinion from GPT without using API tokens.",
+  "source_repo": "Git-ycy/chatgpt-review",
+  "source_url": "https://github.com/Git-ycy/chatgpt-review",
+  "install": "# git clone --depth 1 https://github.com/Git-ycy/chatgpt-review\n# See source for mcpServers config block"
+}

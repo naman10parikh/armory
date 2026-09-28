@@ -1,0 +1,7 @@
+{
+  "name": "pdf-utilities-mcp",
+  "description": "Enables AI assistants to read, create, merge, split, and edit PDF files through natural language commands in GitHub Copilot Chat.",
+  "source_repo": "GleidsonFerSanP/pdf-utilities-mcp",
+  "source_url": "https://github.com/GleidsonFerSanP/pdf-utilities-mcp",
+  "install": "npx -y pdf-utilities-mcp"
+}

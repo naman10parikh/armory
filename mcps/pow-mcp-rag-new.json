@@ -1,0 +1,7 @@
+{
+  "name": "pow-mcp-rag-new",
+  "description": "A local RAG MCP server that indexes project documentation and code into ChromaDB for semantic search, supporting multiple tech stacks and deployment modes.",
+  "source_repo": "powmarx/pow-mcp-rag-new",
+  "source_url": "https://github.com/powmarx/pow-mcp-rag-new",
+  "install": "# git clone --depth 1 https://github.com/powmarx/pow-mcp-rag-new\n# See source for mcpServers config block"
+}

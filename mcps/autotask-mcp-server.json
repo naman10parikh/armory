@@ -1,0 +1,7 @@
+{
+  "name": "autotask-mcp-server",
+  "description": "Enables AI assistants to directly interact with Autotask PSA for ticket triage, time logging, company lookups, project management, and more via natural language.",
+  "source_repo": "ThatDayneGuy/autotask-mcp",
+  "source_url": "https://github.com/ThatDayneGuy/autotask-mcp",
+  "install": "npx -y autotask-mcp"
+}

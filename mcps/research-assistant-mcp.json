@@ -1,0 +1,7 @@
+{
+  "name": "research-assistant-mcp",
+  "description": "An MCP server that enables saving, retrieving, and managing research content using ChromaDB vector storage and semantic search.",
+  "source_repo": "laxmimerit/research-assistant-mcp",
+  "source_url": "https://github.com/laxmimerit/research-assistant-mcp",
+  "install": "npx -y research-assistant-mcp"
+}

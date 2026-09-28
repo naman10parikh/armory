@@ -1,0 +1,7 @@
+{
+  "name": "sia-mcp-server",
+  "description": "Enables management of SAP Intelligent Agriculture farming platform, including areas, farms, fields, crop zones, and reference data through natural language.",
+  "source_repo": "Khaif004/SIA_MCP",
+  "source_url": "https://github.com/Khaif004/SIA_MCP",
+  "install": "npx -y SIA_MCP"
+}

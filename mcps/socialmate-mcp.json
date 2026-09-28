@@ -1,0 +1,7 @@
+{
+  "name": "socialmate-mcp",
+  "description": "A native MCP server for SocialMate that gives your AI a WhatsApp, enabling it to send and read messages, manage contacts and groups, and more through 44 tools.",
+  "source_repo": "micbwilliam/socialmate-mcp",
+  "source_url": "https://github.com/micbwilliam/socialmate-mcp",
+  "install": "npx -y socialmate-mcp"
+}

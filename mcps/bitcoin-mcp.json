@@ -1,0 +1,7 @@
+{
+  "name": "bitcoin-mcp",
+  "description": "Enables AI applications to interact with the Bitcoin Network, manage wallets, check balances, convert prices, and send transactions.",
+  "source_repo": "tiero/bitcoin-mcp",
+  "source_url": "https://github.com/tiero/bitcoin-mcp",
+  "install": "npx -y bitcoin-mcp"
+}

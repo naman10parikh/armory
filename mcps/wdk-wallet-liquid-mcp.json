@@ -1,0 +1,7 @@
+{
+  "name": "wdk-wallet-liquid-mcp",
+  "description": "Enables AI agents to interact with a Liquid network wallet, including balance checks, transaction history, and sending L-BTC or Liquid assets. Backed by an in-process LWK wallet, requiring only a mnemonic, with both stdio and HTTP support.",
+  "source_repo": "kaleidoswap/wdk-wallet-liquid-mcp",
+  "source_url": "https://github.com/kaleidoswap/wdk-wallet-liquid-mcp",
+  "install": "npx -y wdk-wallet-liquid-mcp"
+}

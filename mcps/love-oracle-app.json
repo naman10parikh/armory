@@ -1,0 +1,7 @@
+{
+  "name": "love-oracle-app",
+  "description": "Tarot card meanings for love, and answers to the most-asked love questions, in 22 languages.",
+  "source_repo": "Misko4b/love-oracle-tarot-dataset",
+  "source_url": "https://github.com/Misko4b/love-oracle-tarot-dataset",
+  "install": "# git clone --depth 1 https://github.com/Misko4b/love-oracle-tarot-dataset\n# See source for mcpServers config block"
+}

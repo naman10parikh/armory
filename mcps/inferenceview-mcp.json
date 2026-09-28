@@ -1,0 +1,7 @@
+{
+  "name": "inferenceview-mcp",
+  "description": "Provides tools to verify x402/MCP transactions before payment and fact-check claims, with verdicts and sources.",
+  "source_repo": "nhantour/inferenceview-mcp",
+  "source_url": "https://github.com/nhantour/inferenceview-mcp",
+  "install": "npx -y inferenceview-mcp"
+}

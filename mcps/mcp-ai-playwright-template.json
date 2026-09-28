@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ai-playwright-template",
+  "description": "A template for building a custom Playwright MCP server that enables AI-driven browser automation, translating high-level test intentions into dynamic Playwright actions.",
+  "source_repo": "GregLinthicum/mcp-AI-playwright-template",
+  "source_url": "https://github.com/GregLinthicum/mcp-AI-playwright-template",
+  "install": "# git clone --depth 1 https://github.com/GregLinthicum/mcp-AI-playwright-template\n# See source for mcpServers config block"
+}

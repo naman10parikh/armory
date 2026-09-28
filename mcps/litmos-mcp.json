@@ -1,0 +1,7 @@
+{
+  "name": "litmos-mcp",
+  "description": "Enables Claude Desktop to interact with the Litmos REST API for managing courses, users, training progress, and enrollments.",
+  "source_repo": "ZivAvraham76/litmos-mcp",
+  "source_url": "https://github.com/ZivAvraham76/litmos-mcp",
+  "install": "npx -y litmos-mcp"
+}

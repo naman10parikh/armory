@@ -1,0 +1,7 @@
+{
+  "name": "aspose-cells-cloud-mcp-server",
+  "description": "Automates Microsoft Excel spreadsheet creation and editing via MCP tools for any MCP-compatible client.",
+  "source_repo": "aspose-cells-cloud/Aspose.Cells-Cloud-MCP-Server",
+  "source_url": "https://github.com/aspose-cells-cloud/Aspose.Cells-Cloud-MCP-Server",
+  "install": "npx -y Aspose.Cells-Cloud-MCP-Server"
+}

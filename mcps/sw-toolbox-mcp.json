@@ -1,0 +1,7 @@
+{
+  "name": "sw-toolbox-mcp",
+  "description": "A local MCP hub for SW Toolbox providing file-processing tools like image compression, conversion, PDF merging, and data utilities. It includes a free compress_image tool and requires a Pro key for additional tools.",
+  "source_repo": "simonwong201293/tools-mcp",
+  "source_url": "https://github.com/simonwong201293/tools-mcp",
+  "install": "npx -y tools-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "swiss-statistics-mcp",
+  "description": "Provides AI-native access to Swiss Federal Statistical Office datasets through 9 tools for querying education, population, and cross-cantonal comparisons without authentication.",
+  "source_repo": "malkreide/swiss-statistics-mcp",
+  "source_url": "https://github.com/malkreide/swiss-statistics-mcp",
+  "install": "npx -y swiss-statistics-mcp"
+}

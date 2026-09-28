@@ -1,0 +1,7 @@
+{
+  "name": "whale-data-mcp",
+  "description": "Exposes Polymarket whale trades and smart-money signals as paid tools, with USDC micropayments handled under the hood via x402.",
+  "source_repo": "predgeAI/whale-data-mcp",
+  "source_url": "https://github.com/predgeAI/whale-data-mcp",
+  "install": "npx -y whale-data-mcp"
+}

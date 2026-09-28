@@ -1,0 +1,7 @@
+{
+  "name": "ai",
+  "description": "A personal investment assistant MCP that selects and translates disclosures and news for your watchlist and sends daily KakaoTalk briefings.",
+  "source_repo": "comb0815/gongsi-ai-mcp",
+  "source_url": "https://github.com/comb0815/gongsi-ai-mcp",
+  "install": "npx -y gongsi-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "antecedentes-criminais-mg",
+  "description": "Provides read-only access to official criminal records from Minas Gerais, Brazil, via a single query tool.",
+  "source_repo": "mcp-dir/antecedentes_criminais_mg-mcp",
+  "source_url": "https://github.com/mcp-dir/antecedentes_criminais_mg-mcp",
+  "install": "npx -y antecedentes_criminais_mg-mcp"
+}

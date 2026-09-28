@@ -1,0 +1,7 @@
+{
+  "name": "der-sp-pesquisa-de-indica-o-do-condutor-infrator",
+  "description": "MCP server to query the official DER SP source for driver infraction indication (indicação do condutor infrator), read-only, with prepaid credits.",
+  "source_repo": "mcp-dir/der_sp_indicacao_pesquisa-mcp",
+  "source_url": "https://github.com/mcp-dir/der_sp_indicacao_pesquisa-mcp",
+  "install": "npx -y der_sp_indicacao_pesquisa-mcp"
+}

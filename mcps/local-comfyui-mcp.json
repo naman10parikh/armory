@@ -1,0 +1,7 @@
+{
+  "name": "local-comfyui-mcp",
+  "description": "An MCP server that integrates with a local ComfyUI, allowing assistants to list and run workflows, monitor progress, and view results, as well as read and edit the live workflow canvas via an optional bridge node.",
+  "source_repo": "pytraveler/local-comfyui-mcp",
+  "source_url": "https://github.com/pytraveler/local-comfyui-mcp",
+  "install": "npx -y local-comfyui-mcp"
+}

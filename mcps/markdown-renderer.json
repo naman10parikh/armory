@@ -1,0 +1,7 @@
+{
+  "name": "markdown-renderer",
+  "description": "Renders Markdown to styled HTML with CSS themes (light, dark, GitHub) via pay-per-call x402 micropayments. No API key or signup required.",
+  "source_repo": "Br0ski777/markdown-renderer-x402",
+  "source_url": "https://github.com/Br0ski777/markdown-renderer-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/markdown-renderer-x402\n# See source for mcpServers config block"
+}

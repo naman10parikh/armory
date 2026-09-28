@@ -1,0 +1,7 @@
+{
+  "name": "mobile-growth-mcp",
+  "description": "MCP server for mobile growth & user acquisition, connecting LLMs to a curated knowledge base of ad optimization insights and analytical skills for subscription apps.",
+  "source_repo": "kubachour/mobile-growth-mcp",
+  "source_url": "https://github.com/kubachour/mobile-growth-mcp",
+  "install": "npx -y mobile-growth-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codex-dev-mcp-suite",
+  "description": "A set of four local MCP servers that help solo developers maintain context across sessions by providing searchable memory, session journals, file checkpoints, and project overviews. All servers run locally with minimal dependencies and work with any MCP-capable client.",
+  "source_repo": "verrysimatupang99/codex-dev-mcp-suite",
+  "source_url": "https://github.com/verrysimatupang99/codex-dev-mcp-suite",
+  "install": "# git clone --depth 1 https://github.com/verrysimatupang99/codex-dev-mcp-suite\n# See source for mcpServers config block"
+}

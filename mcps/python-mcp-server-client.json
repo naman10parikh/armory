@@ -1,6 +1,6 @@
 {
   "name": "python-mcp-server-client",
-  "description": "Python Mcp Server Client MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "GobinFan/python-mcp-server-client",
   "source_url": "https://mcp.so/server/python-mcp-server-client/GobinFan",
   "install": "# git clone --depth 1 https://mcp.so/server/python-mcp-server-client/GobinFan\n# See source for mcpServers config block"

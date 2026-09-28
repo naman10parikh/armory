@@ -1,0 +1,7 @@
+{
+  "name": "mcp-geo-server",
+  "description": "Enables natural language interaction with a GeoServer instance for managing workspaces, datastores, feature types, layers, styles, and OGC services (WMS/WFS) via an LLM-powered agent.",
+  "source_repo": "agent-engineering-studio/mcp-geo-server",
+  "source_url": "https://github.com/agent-engineering-studio/mcp-geo-server",
+  "install": "# git clone --depth 1 https://github.com/agent-engineering-studio/mcp-geo-server\n# See source for mcpServers config block"
+}

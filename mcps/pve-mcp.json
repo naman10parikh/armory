@@ -1,0 +1,7 @@
+{
+  "name": "pve-mcp",
+  "description": "MCP server for managing Proxmox VE resources, VM/CT lifecycle, snapshots, backups, and clones via natural language.",
+  "source_repo": "tiancode/pve-mcp",
+  "source_url": "https://github.com/tiancode/pve-mcp",
+  "install": "npx -y pve-mcp"
+}

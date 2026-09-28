@@ -1,0 +1,7 @@
+{
+  "name": "kalundborg-mcp",
+  "description": "MCP server for Kalundborg Kommune, enabling search of content, news, popular pages, contact info, and services from kalundborg.dk.",
+  "source_repo": "Parthee-Vijaya/MCP_Kalundborg.dk",
+  "source_url": "https://github.com/Parthee-Vijaya/MCP_Kalundborg.dk",
+  "install": "# git clone --depth 1 https://github.com/Parthee-Vijaya/MCP_Kalundborg.dk\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-token-saver",
+  "description": "Real-time Claude.ai subscription awareness for AI coding assistants. Surfaces live utilization, forecasts limits, gates expensive operations, and measures real per-task cost.",
+  "source_repo": "Talap-creator/mcp-token-saver",
+  "source_url": "https://github.com/Talap-creator/mcp-token-saver",
+  "install": "# git clone --depth 1 https://github.com/Talap-creator/mcp-token-saver\n# See source for mcpServers config block"
+}

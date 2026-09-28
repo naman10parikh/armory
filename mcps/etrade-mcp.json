@@ -1,0 +1,7 @@
+{
+  "name": "etrade-mcp",
+  "description": "MCP server for E*TRADE that reads account balances, positions, transactions, and orders, with optional opt-in order placement via a two-step preview-confirm handshake.",
+  "source_repo": "sblattj/etrade-mcp",
+  "source_url": "https://github.com/sblattj/etrade-mcp",
+  "install": "npx -y etrade-mcp"
+}

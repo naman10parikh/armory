@@ -1,0 +1,7 @@
+{
+  "name": "tophatmcp",
+  "description": "An authenticated OpenAI-compatible inference gateway with an async job broker that bridges a coding agent to a ChatGPT MCP worker, enabling ChatGPT to process inference requests via a tunnel.",
+  "source_repo": "B-A-M-N/TopHatMCP",
+  "source_url": "https://github.com/B-A-M-N/TopHatMCP",
+  "install": "# git clone --depth 1 https://github.com/B-A-M-N/TopHatMCP\n# See source for mcpServers config block"
+}

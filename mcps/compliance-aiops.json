@@ -1,0 +1,7 @@
+{
+  "name": "compliance-aiops",
+  "description": "Converts audit trails from AIops agents into framework-mapped, tamper-evident compliance evidence bundles for HIPAA, PCI-DSS, SOC 2, and GDPR.",
+  "source_repo": "AIops-tools/Compliance-AIops",
+  "source_url": "https://github.com/AIops-tools/Compliance-AIops",
+  "install": "# git clone --depth 1 https://github.com/AIops-tools/Compliance-AIops\n# See source for mcpServers config block"
+}

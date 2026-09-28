@@ -1,0 +1,7 @@
+{
+  "name": "writefreely-mcp-server",
+  "description": "An MCP server for WriteFreely that enables AI agents to publish and manage content on WriteFreely instances (including self-hosted instances and Write.as).",
+  "source_repo": "laxmena/writefreely-mcp-server",
+  "source_url": "https://github.com/laxmena/writefreely-mcp-server",
+  "install": "npx -y writefreely-mcp-server"
+}

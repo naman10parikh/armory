@@ -1,0 +1,7 @@
+{
+  "name": "edc-mcp-server",
+  "description": "Enables AI assistants to interact with Eclipse Dataspace Components (EDC) connectors for dataspace operations including asset, policy, contract, catalog, negotiation, and data transfer management.",
+  "source_repo": "soofi-project/edc-mcp",
+  "source_url": "https://github.com/soofi-project/edc-mcp",
+  "install": "npx -y edc-mcp"
+}

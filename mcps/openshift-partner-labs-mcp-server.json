@@ -1,0 +1,7 @@
+{
+  "name": "openshift-partner-labs-mcp-server",
+  "description": "Enables lab managers and developers to perform OpenShift Partner Labs operations, such as cluster provisioning and state changes, through natural language conversations by aggregating low-level database interactions into high-level MCP tools.",
+  "source_repo": "itroyano/openshift-partner-labs-mcp-server",
+  "source_url": "https://github.com/itroyano/openshift-partner-labs-mcp-server",
+  "install": "npx -y openshift-partner-labs-mcp-server"
+}

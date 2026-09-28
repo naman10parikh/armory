@@ -1,0 +1,7 @@
+{
+  "name": "incident-tool",
+  "description": "Enables AI agents to diagnose Linux server incidents by collecting and structuring system diagnostics from multiple servers via SSH, with tools for finding incident clusters, gathering context (memory, CPU, swap, etc.), and running arbitrary commands.",
+  "source_repo": "KyleCS0/linux-sysdiag-mcp",
+  "source_url": "https://github.com/KyleCS0/linux-sysdiag-mcp",
+  "install": "npx -y linux-sysdiag-mcp"
+}

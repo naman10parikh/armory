@@ -1,0 +1,7 @@
+{
+  "name": "watush-mcp",
+  "description": "A send-only Telegram MCP server enabling agents to message you or named contacts via a Telegram bot, with audit copies to the owner.",
+  "source_repo": "mikedelcastillo/watush-mcp",
+  "source_url": "https://github.com/mikedelcastillo/watush-mcp",
+  "install": "npx -y watush-mcp"
+}

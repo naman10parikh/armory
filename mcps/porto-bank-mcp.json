@@ -1,0 +1,7 @@
+{
+  "name": "porto-bank-mcp",
+  "description": "Enables natural language queries about Porto Bank accounts via Open Finance, including balances, statements, credit card bills, and investments, using Claude, ChatGPT, and AI agents.",
+  "source_repo": "mcp-dir/portobank-mcp",
+  "source_url": "https://github.com/mcp-dir/portobank-mcp",
+  "install": "npx -y portobank-mcp"
+}

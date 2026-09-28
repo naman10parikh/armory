@@ -1,0 +1,7 @@
+{
+  "name": "sonarlint-mcp-server",
+  "description": "Enables real-time code analysis for JavaScript, TypeScript, and Python through Claude Desktop and other MCP clients, detecting bugs, code smells, and security vulnerabilities with automated quick fixes.",
+  "source_repo": "nielspeter/sonarlint-mcp-server",
+  "source_url": "https://github.com/nielspeter/sonarlint-mcp-server",
+  "install": "npx -y sonarlint-mcp-server"
+}

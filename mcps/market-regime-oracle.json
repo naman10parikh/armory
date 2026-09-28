@@ -1,0 +1,7 @@
+{
+  "name": "market-regime-oracle",
+  "description": "Fuses five market signals into a five-state regime classifier to determine market conditions and recommend trading postures for risk management.",
+  "source_repo": "aggreyeric/bnb-regime-oracle",
+  "source_url": "https://github.com/aggreyeric/bnb-regime-oracle",
+  "install": "# git clone --depth 1 https://github.com/aggreyeric/bnb-regime-oracle\n# See source for mcpServers config block"
+}

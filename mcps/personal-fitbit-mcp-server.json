@@ -1,0 +1,7 @@
+{
+  "name": "personal-fitbit-mcp-server",
+  "description": "Enables AI assistants to access and analyze Fitbit health data (activity, sleep, heart rate, weight, profile) via natural language through the Fitbit Web API.",
+  "source_repo": "hiro-777-sky/fitbit_mcp",
+  "source_url": "https://github.com/hiro-777-sky/fitbit_mcp",
+  "install": "npx -y fitbit_mcp"
+}

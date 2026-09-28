@@ -1,0 +1,7 @@
+{
+  "name": "datajud-cnj",
+  "description": "Enables querying public Brazilian court proceedings metadata and movements via the CNJ/DataJud API, covering multiple courts.",
+  "source_repo": "mcp-dir/datajud-mcp",
+  "source_url": "https://github.com/mcp-dir/datajud-mcp",
+  "install": "npx -y datajud-mcp"
+}

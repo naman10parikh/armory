@@ -1,0 +1,7 @@
+{
+  "name": "voc-openapi-mcp",
+  "description": "Analyze Amazon reviews, VOC feedback, sentiment, pain points, and listing improvements through seven curated MCP tools.",
+  "source_repo": "SolveaCX/voc-mcp",
+  "source_url": "https://github.com/SolveaCX/voc-mcp",
+  "install": "npx -y voc-mcp"
+}

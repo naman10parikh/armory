@@ -1,0 +1,7 @@
+{
+  "name": "cursor-yougpu-mcp",
+  "description": "MCP server for YouGPU REST API that enables GPU catalog browsing, instance lifecycle management (create, stop, start, delete), and balance checking.",
+  "source_repo": "eldarknz/cursor-yougpu-mcp",
+  "source_url": "https://github.com/eldarknz/cursor-yougpu-mcp",
+  "install": "npx -y cursor-yougpu-mcp"
+}

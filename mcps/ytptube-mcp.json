@@ -1,0 +1,7 @@
+{
+  "name": "ytptube-mcp",
+  "description": "A local stdio MCP server that lets MCP clients inspect and operate a self-hosted ytptube HTTP API, with tools for health checks, queue/history management, archives, tasks, and presets while protecting credentials.",
+  "source_repo": "Snuffy2/ytptube-mcp",
+  "source_url": "https://github.com/Snuffy2/ytptube-mcp",
+  "install": "npx -y ytptube-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dssat-mcp",
+  "description": "Enables natural language interaction with the DSSAT crop model for simulation, calibration, and sensitivity analysis through LLM agents.",
+  "source_repo": "BeomseokForWork/dssat-mcp",
+  "source_url": "https://github.com/BeomseokForWork/dssat-mcp",
+  "install": "npx -y dssat-mcp"
+}

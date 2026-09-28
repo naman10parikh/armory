@@ -1,0 +1,7 @@
+{
+  "name": "alabasta",
+  "description": "Connects coding agents (Claude Code, Codex, Cursor) to Alabasta tasks, enabling agents to read tasks, start work, and submit structured resolutions for human review.",
+  "source_repo": "cowboyshibuya/alabasta-agent-bridge",
+  "source_url": "https://github.com/cowboyshibuya/alabasta-agent-bridge",
+  "install": "# git clone --depth 1 https://github.com/cowboyshibuya/alabasta-agent-bridge\n# See source for mcpServers config block"
+}

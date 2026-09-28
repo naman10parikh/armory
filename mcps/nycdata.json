@@ -1,0 +1,7 @@
+{
+  "name": "nycdata",
+  "description": "Enables to discover, inspect, query, and profile live NYC Open Data through a CLI and MCP server, providing a developer-first interface to Socrata APIs.",
+  "source_repo": "HT224/nycdata",
+  "source_url": "https://github.com/HT224/nycdata",
+  "install": "# git clone --depth 1 https://github.com/HT224/nycdata\n# See source for mcpServers config block"
+}

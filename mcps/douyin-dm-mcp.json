@@ -1,0 +1,7 @@
+{
+  "name": "douyin-dm-mcp",
+  "description": "Enables reading and sending Douyin private messages through a persistent browser profile, with dry-run and authorization safeguards.",
+  "source_repo": "3xian/douyin-dm-mcp",
+  "source_url": "https://github.com/3xian/douyin-dm-mcp",
+  "install": "npx -y douyin-dm-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thermo-control-mcp",
+  "description": "Enables LLM agents to monitor Mac thermals and control fan speed with safety limits enforced by a root daemon.",
+  "source_repo": "june4432/thermo-control-mcp",
+  "source_url": "https://github.com/june4432/thermo-control-mcp",
+  "install": "npx -y thermo-control-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "memorised-them-all",
+  "description": "Imagine you could hand Claude a filing cabinet of your documents and say \"remember all of this.\" Later you just ask questions, and Claude answers from what it remembers — citing which document each fact came from. That's Memorised them All. It's a small add-on (an MCP server) for Claude Desktop and",
+  "source_repo": "GRU-953/memorised-them-all",
+  "source_url": "https://github.com/GRU-953/memorised-them-all",
+  "install": "# git clone --depth 1 https://github.com/GRU-953/memorised-them-all\n# See source for mcpServers config block"
+}

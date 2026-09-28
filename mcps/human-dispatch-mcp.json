@@ -1,0 +1,7 @@
+{
+  "name": "human-dispatch-mcp",
+  "description": "Routes tasks from AI agents to human workers via webhook providers with smart matching, fallback chains, and proof-of-completion tracking.",
+  "source_repo": "zyntarasystems/human-dispatch-mcp",
+  "source_url": "https://github.com/zyntarasystems/human-dispatch-mcp",
+  "install": "npx -y human-dispatch-mcp"
+}

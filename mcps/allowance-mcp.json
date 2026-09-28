@@ -1,0 +1,7 @@
+{
+  "name": "allowance-mcp",
+  "description": "Enables AI agents to request purchase approval from humans, receive scoped virtual cards, complete checkout, and report receipts for audit.",
+  "source_repo": "useallowance/allowance-mcp-public",
+  "source_url": "https://github.com/useallowance/allowance-mcp-public",
+  "install": "# git clone --depth 1 https://github.com/useallowance/allowance-mcp-public\n# See source for mcpServers config block"
+}

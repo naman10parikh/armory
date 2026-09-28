@@ -1,0 +1,7 @@
+{
+  "name": "q3ds-solidworks-mcp",
+  "description": "An MCP server enabling AI-driven CAD automation for SolidWorks at the feature level, converting intent into CAD-neutral IR and compiling it into concrete operations. It provides engineering-semantic tools and a deterministic compiler, bridging any MCP-capable AI client to SolidWorks via COM.",
+  "source_repo": "zarcherlot/q3ds-solidworks-mcp",
+  "source_url": "https://github.com/zarcherlot/q3ds-solidworks-mcp",
+  "install": "npx -y q3ds-solidworks-mcp"
+}

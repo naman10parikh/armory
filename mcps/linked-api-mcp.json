@@ -1,0 +1,7 @@
+{
+  "name": "linked-api-mcp",
+  "description": "Connects LinkedIn to AI assistants, enabling lead search, profile analysis, messaging, and workflow automation through a cloud browser. Supports sales, recruiting, and market research tasks.",
+  "source_repo": "zecloud/remote-mcp-linkedin",
+  "source_url": "https://github.com/zecloud/remote-mcp-linkedin",
+  "install": "# git clone --depth 1 https://github.com/zecloud/remote-mcp-linkedin\n# See source for mcpServers config block"
+}

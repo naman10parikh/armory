@@ -1,0 +1,7 @@
+{
+  "name": "ble-toy-mcp-starter",
+  "description": "An open-source tutorial and safe code skeleton that enables users to control their own BLE devices from ChatGPT via MCP and Secure MCP Tunnel.",
+  "source_repo": "chris30001220/ble-toy-mcp-starter",
+  "source_url": "https://github.com/chris30001220/ble-toy-mcp-starter",
+  "install": "# git clone --depth 1 https://github.com/chris30001220/ble-toy-mcp-starter\n# See source for mcpServers config block"
+}

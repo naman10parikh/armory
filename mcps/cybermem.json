@@ -1,0 +1,7 @@
+{
+  "name": "cybermem",
+  "description": "Enables AI tools like Claude and Cursor to share persistent memory across sessions.",
+  "source_repo": "mikhailkogan17/cybermem",
+  "source_url": "https://github.com/mikhailkogan17/cybermem",
+  "install": "# git clone --depth 1 https://github.com/mikhailkogan17/cybermem\n# See source for mcpServers config block"
+}

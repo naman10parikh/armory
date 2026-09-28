@@ -1,0 +1,7 @@
+{
+  "name": "al-mcp-server",
+  "description": "Provides AI assistants with complete visibility into AL dependencies and symbols by exposing compiled .app files through the Model Context Protocol, enabling smart object discovery, deep code analysis, and reference tracking for Business Central development.",
+  "source_repo": "StefanMaron/AL-Dependency-MCP-Server",
+  "source_url": "https://github.com/StefanMaron/AL-Dependency-MCP-Server",
+  "install": "npx -y AL-Dependency-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ai-workspace",
+  "description": "Exposes document retrieval as an MCP tool, enabling LLMs to search a local vector store of markdown documents. Includes a retrieval evaluation harness to measure hit rate and MRR.",
+  "source_repo": "nickbiird/mcp-ai-workspace",
+  "source_url": "https://github.com/nickbiird/mcp-ai-workspace",
+  "install": "# git clone --depth 1 https://github.com/nickbiird/mcp-ai-workspace\n# See source for mcpServers config block"
+}

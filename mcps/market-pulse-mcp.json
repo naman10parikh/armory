@@ -1,0 +1,7 @@
+{
+  "name": "market-pulse-mcp",
+  "description": "Provides live cryptocurrency market data including spot prices, OHLCV candles, order books, funding rates, and technical indicators via public exchange APIs.",
+  "source_repo": "remybanks77/market-pulse-mcp",
+  "source_url": "https://github.com/remybanks77/market-pulse-mcp",
+  "install": "npx -y market-pulse-mcp"
+}

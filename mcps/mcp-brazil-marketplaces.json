@@ -1,0 +1,7 @@
+{
+  "name": "mcp-brazil-marketplaces",
+  "description": "MCP server to search and retrieve public ads from OLX Brasil and Mercado Livre Brasil with automatic anti-bot bypass.",
+  "source_repo": "rodrigopg/mcp-brazil-marketplaces",
+  "source_url": "https://github.com/rodrigopg/mcp-brazil-marketplaces",
+  "install": "# git clone --depth 1 https://github.com/rodrigopg/mcp-brazil-marketplaces\n# See source for mcpServers config block"
+}

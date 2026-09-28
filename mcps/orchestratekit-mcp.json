@@ -1,0 +1,7 @@
+{
+  "name": "orchestratekit-mcp",
+  "description": "Enables Cursor and Claude Desktop to design production-ready AI workflows by exposing a structured registry of components, edges, stacks, routes, and playbooks, with capabilities for goal matching, route composition, and confidence scoring.",
+  "source_repo": "Thebeatkicks/OrchestrateKIT-MCP",
+  "source_url": "https://github.com/Thebeatkicks/OrchestrateKIT-MCP",
+  "install": "npx -y OrchestrateKIT-MCP"
+}

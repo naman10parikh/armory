@@ -1,0 +1,7 @@
+{
+  "name": "pagelens",
+  "description": "Enables AI coding agents to visually interact with frontend apps by taking screenshots, clicking elements, reading console logs, and performing visual diffs.",
+  "source_repo": "amoghmanral/pagelens-mcp",
+  "source_url": "https://github.com/amoghmanral/pagelens-mcp",
+  "install": "npx -y pagelens-mcp"
+}

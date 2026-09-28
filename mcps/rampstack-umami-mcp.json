@@ -1,0 +1,7 @@
+{
+  "name": "rampstack-umami-mcp",
+  "description": "A read-only MCP server for Umami Cloud analytics that provides tools to query website stats, pageviews, metrics, and cohort reports via the Umami API.",
+  "source_repo": "rampstackco/umami-mcp",
+  "source_url": "https://github.com/rampstackco/umami-mcp",
+  "install": "npx -y umami-mcp"
+}

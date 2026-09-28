@@ -1,0 +1,7 @@
+{
+  "name": "devenv-cache",
+  "description": "Provides a local SQLite cache of package documentation and APIs, enabling AI coding assistants to access dependency context offline with sub-10ms latency via MCP.",
+  "source_repo": "mehuljn/devenv-cache",
+  "source_url": "https://github.com/mehuljn/devenv-cache",
+  "install": "# git clone --depth 1 https://github.com/mehuljn/devenv-cache\n# See source for mcpServers config block"
+}

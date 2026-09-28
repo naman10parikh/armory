@@ -1,0 +1,7 @@
+{
+  "name": "ai-answer-copier",
+  "description": "AI Answer Copier is a Model Context Protocol (MCP) server that solves the \"Final Mile\" friction in educational content creation. It enables AI models to move beyond just writing questions to actually generating the files required for teaching and assessment. By functioning as a native MCP server, th",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/XJTLUmedia/x23",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/XJTLUmedia/x23\n# See source for mcpServers config block"
+}

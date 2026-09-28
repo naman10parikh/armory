@@ -1,0 +1,7 @@
+{
+  "name": "opm-mcp",
+  "description": "Provides Claude with direct access to the Open Porous Media (OPM) reservoir simulation stack, enabling running simulations, inspecting results, and automating workflows via natural language.",
+  "source_repo": "ojaogezi/opm-mcp",
+  "source_url": "https://github.com/ojaogezi/opm-mcp",
+  "install": "npx -y opm-mcp"
+}

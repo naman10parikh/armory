@@ -1,0 +1,7 @@
+{
+  "name": "universal-mcp-server-java",
+  "description": "A universal Model Context Protocol server in Java, enabling interaction with multiple LLMs (OpenAI, Gemini, Hugging Face) and databases (MongoDB) through a modular Spring Boot architecture.",
+  "source_repo": "Desckars/mcp-server",
+  "source_url": "https://github.com/Desckars/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Desckars/mcp-server\n# See source for mcpServers config block"
+}

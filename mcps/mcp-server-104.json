@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-104",
+  "description": "Enables natural-language search and retrieval of Taiwan 104 job bank listings, including job details and company-specific openings, with filters for location, salary, experience, and remote work through an MCP interface.",
+  "source_repo": "a7512cs/104-mcp-server",
+  "source_url": "https://github.com/a7512cs/104-mcp-server",
+  "install": "npx -y 104-mcp-server"
+}

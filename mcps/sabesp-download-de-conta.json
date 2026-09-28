@@ -1,0 +1,7 @@
+{
+  "name": "sabesp-download-de-conta",
+  "description": "MCP server that enables users to query and download SABESP (São Paulo state water utility) bills and account data from official sources, with read-only access and pay-per-use pricing.",
+  "source_repo": "mcp-dir/contas_sabesp_download_conta-mcp",
+  "source_url": "https://github.com/mcp-dir/contas_sabesp_download_conta-mcp",
+  "install": "npx -y contas_sabesp_download_conta-mcp"
+}

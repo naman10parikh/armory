@@ -1,0 +1,7 @@
+{
+  "name": "saytlupa",
+  "description": "Enables website analysis, RAG-based conversation with site content, and side-by-side comparison of two sites via MCP tools.",
+  "source_repo": "amilbexercin-tech/saytlupa",
+  "source_url": "https://github.com/amilbexercin-tech/saytlupa",
+  "install": "# git clone --depth 1 https://github.com/amilbexercin-tech/saytlupa\n# See source for mcpServers config block"
+}

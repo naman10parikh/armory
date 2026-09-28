@@ -1,0 +1,7 @@
+{
+  "name": "sibyl",
+  "description": "MCP server for Google's Gemini API, enabling text, image, video, speech, embeddings, and deep research capabilities through a single tool set.",
+  "source_repo": "hello-emrah/sibyl-mcp",
+  "source_url": "https://github.com/hello-emrah/sibyl-mcp",
+  "install": "npx -y sibyl-mcp"
+}

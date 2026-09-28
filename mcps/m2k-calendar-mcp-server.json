@@ -1,0 +1,7 @@
+{
+  "name": "m2k-calendar-mcp-server",
+  "description": "Enables Claude to query and manage Mail2000 calendar events, including agenda, search, booking, updating, and deleting events through natural language.",
+  "source_repo": "weiting-tw/m2k-calendar-tools",
+  "source_url": "https://github.com/weiting-tw/m2k-calendar-tools",
+  "install": "# git clone --depth 1 https://github.com/weiting-tw/m2k-calendar-tools\n# See source for mcpServers config block"
+}

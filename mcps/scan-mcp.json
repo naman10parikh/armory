@@ -1,0 +1,7 @@
+{
+  "name": "scan-mcp",
+  "description": "Enables scanner capture via SANE on Linux, providing tools for device discovery, scan jobs with ADF/duplex support, document batching, and multipage assembly through a local MCP server.",
+  "source_repo": "jacksenechal/scan-mcp",
+  "source_url": "https://github.com/jacksenechal/scan-mcp",
+  "install": "npx -y scan-mcp"
+}

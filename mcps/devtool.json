@@ -1,0 +1,7 @@
+{
+  "name": "devtool",
+  "description": "A unified developer toolbox MCP server providing utilities for base64, JWT, timestamps, UUID, JSON formatting, hashing, URL handling, case conversion, color conversion, number bases, string operations, and regex.",
+  "source_repo": "talocode/devtool",
+  "source_url": "https://github.com/talocode/devtool",
+  "install": "# git clone --depth 1 https://github.com/talocode/devtool\n# See source for mcpServers config block"
+}

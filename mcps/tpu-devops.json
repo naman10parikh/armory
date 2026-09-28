@@ -1,0 +1,7 @@
+{
+  "name": "tpu-devops",
+  "description": "MCP server for managing Google Cloud TPU capacity and serving Gemma 4 with vLLM, including provisioning, debugging, benchmarking, and teardown.",
+  "source_repo": "xbill9/tpu-skill-claude",
+  "source_url": "https://github.com/xbill9/tpu-skill-claude",
+  "install": "# git clone --depth 1 https://github.com/xbill9/tpu-skill-claude\n# See source for mcpServers config block"
+}

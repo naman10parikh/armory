@@ -1,0 +1,7 @@
+{
+  "name": "seenrelay",
+  "description": "Enables AI agents to check and contribute recent observations of source-backed facts, reducing redundant revalidation of unchanged information.",
+  "source_repo": "ovladon/seenrelay",
+  "source_url": "https://github.com/ovladon/seenrelay",
+  "install": "# git clone --depth 1 https://github.com/ovladon/seenrelay\n# See source for mcpServers config block"
+}

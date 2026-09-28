@@ -1,0 +1,7 @@
+{
+  "name": "argorant",
+  "description": "Argorant MCP Server — give your AI agent direct access to 614M verified B2B contacts. Query by industry, role, geography, and 100+ filters, then export emails verified by a live SMTP probe at request time (catch-alls flagged, invalids free). OAuth-secured. Works with Claude, ChatGPT, Cursor, and any",
+  "source_repo": "argorant/argorant-mcp",
+  "source_url": "https://github.com/argorant/argorant-mcp",
+  "install": "npx -y argorant-mcp"
+}

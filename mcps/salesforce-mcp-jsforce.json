@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-mcp-jsforce",
+  "description": "Enables SOQL queries, SOSL search, and record CRUD operations on a single Salesforce org via MCP, with optional read-only mode.",
+  "source_repo": "imazhar101/salesforce-mcp-jsforce",
+  "source_url": "https://github.com/imazhar101/salesforce-mcp-jsforce",
+  "install": "# git clone --depth 1 https://github.com/imazhar101/salesforce-mcp-jsforce\n# See source for mcpServers config block"
+}

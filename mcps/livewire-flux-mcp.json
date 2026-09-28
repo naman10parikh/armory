@@ -1,0 +1,7 @@
+{
+  "name": "livewire-flux-mcp",
+  "description": "MCP server that provides access to Livewire Flux components and layouts documentation, enabling AI assistants to fetch and search through documentation on demand.",
+  "source_repo": "leMaur/livewire-flux-mcp",
+  "source_url": "https://github.com/leMaur/livewire-flux-mcp",
+  "install": "npx -y livewire-flux-mcp"
+}

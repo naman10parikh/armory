@@ -1,0 +1,7 @@
+{
+  "name": "ocd-organized-context-datastore-mcp",
+  "description": "Give your AI persistent, structured memory and let humans see it too. It stores project knowledge as Markdown files in a hierarchical tree, accessible via MCP tools and a built-in Web UI.",
+  "source_repo": "teamstove/organized-context-datastore-mcp",
+  "source_url": "https://github.com/teamstove/organized-context-datastore-mcp",
+  "install": "npx -y organized-context-datastore-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-growi",
+  "description": "Enables AI agents and autonomous bots to interact programmatically with the GrowiHFVault smart contract on Arbitrum.",
+  "source_repo": "Growi-DeFi/mcp-growi",
+  "source_url": "https://github.com/Growi-DeFi/mcp-growi",
+  "install": "# git clone --depth 1 https://github.com/Growi-DeFi/mcp-growi\n# See source for mcpServers config block"
+}

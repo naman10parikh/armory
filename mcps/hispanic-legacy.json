@@ -1,0 +1,7 @@
+{
+  "name": "hispanic-legacy",
+  "description": "Provides a hosted, read-only MCP endpoint that answers questions about Spain's contributions to science, exploration, and culture using a knowledge graph where every claim is backed by cited sources and confidence scores. Enables agents to search, retrieve entities, explore related topics, and inspe",
+  "source_repo": "citarium/hispanic-legacy-mcp",
+  "source_url": "https://github.com/citarium/hispanic-legacy-mcp",
+  "install": "npx -y hispanic-legacy-mcp"
+}

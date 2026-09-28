@@ -1,0 +1,7 @@
+{
+  "name": "agente-traduccion-mcp",
+  "description": "MCP server for translation and localization workflows. It exposes tools for glossary lookup, translation memory reuse, segment alignment, and demo multicloud translation.",
+  "source_repo": "cesarreynab/agente-traduccion-mcp",
+  "source_url": "https://github.com/cesarreynab/agente-traduccion-mcp",
+  "install": "npx -y agente-traduccion-mcp"
+}

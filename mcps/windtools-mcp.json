@@ -1,6 +1,6 @@
 {
   "name": "windtools-mcp",
-  "description": "Windtools Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "ZahidGalea/windtools-mcp",
   "source_url": "https://mcp.so/server/windtools-mcp/ZahidGalea",
   "install": "npx -y windtools-mcp"

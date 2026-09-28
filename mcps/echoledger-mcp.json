@@ -1,0 +1,7 @@
+{
+  "name": "echoledger-mcp",
+  "description": "Analyzes live Uniswap V2/V3, Balancer, and Curve stableswap pools for positions, price moves, pool health, rug signals, slippage, and depeg risk, and builds portable State Twins for offline analysis.",
+  "source_repo": "echoledger/echoledger-mcp",
+  "source_url": "https://github.com/echoledger/echoledger-mcp",
+  "install": "npx -y echoledger-mcp"
+}

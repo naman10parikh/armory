@@ -1,0 +1,7 @@
+{
+  "name": "mal-mcp",
+  "description": "MCP server for MyAnimeList that enables searching anime/manga, getting details, rankings, seasons, characters, reviews, and user profiles without authentication, and managing personal anime/manga lists with authentication (token required).",
+  "source_repo": "Grinv/mal-mcp",
+  "source_url": "https://github.com/Grinv/mal-mcp",
+  "install": "npx -y mal-mcp"
+}

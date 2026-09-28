@@ -1,0 +1,7 @@
+{
+  "name": "blender-mcp-bridge",
+  "description": "Enables natural language control of Blender via Claude by converting MCP JSON-RPC calls to Blender's custom TCP protocol for scene manipulation, object creation, and Python execution.",
+  "source_repo": "otinori/blender-mcp-bridge",
+  "source_url": "https://github.com/otinori/blender-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/otinori/blender-mcp-bridge\n# See source for mcpServers config block"
+}

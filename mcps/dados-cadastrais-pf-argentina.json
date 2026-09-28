@@ -1,0 +1,7 @@
+{
+  "name": "dados-cadastrais-pf-argentina",
+  "description": "Consulta dados cadastrais de pessoas físicas na Argentina a partir do DNI, com uma única ferramenta de leitura.",
+  "source_repo": "mcp-dir/registro_pf_ar-mcp",
+  "source_url": "https://github.com/mcp-dir/registro_pf_ar-mcp",
+  "install": "npx -y registro_pf_ar-mcp"
+}

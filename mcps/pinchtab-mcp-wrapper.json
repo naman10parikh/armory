@@ -1,0 +1,7 @@
+{
+  "name": "pinchtab-mcp-wrapper",
+  "description": "MCP server that exposes the Pinchtab browser API for token-efficient web scraping, change detection, and automated testing workflows.",
+  "source_repo": "BDuba/pinchtab-mcp-wrapper",
+  "source_url": "https://github.com/BDuba/pinchtab-mcp-wrapper",
+  "install": "# git clone --depth 1 https://github.com/BDuba/pinchtab-mcp-wrapper\n# See source for mcpServers config block"
+}

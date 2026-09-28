@@ -1,0 +1,7 @@
+{
+  "name": "ledgerproof-lain",
+  "description": "Cryptographically anchored, tamper-evident evidence receipts for AI agents — verified run receipts, existence-at-time proofs, and cited answers from an anchored public record. Remote MCP with proof-gated settlement; attests existence and integrity, never truth.",
+  "source_repo": "vsdawkins-creator/lain-mcp",
+  "source_url": "https://github.com/vsdawkins-creator/lain-mcp",
+  "install": "npx -y lain-mcp"
+}

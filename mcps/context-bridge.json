@@ -1,0 +1,7 @@
+{
+  "name": "context-bridge",
+  "description": "A unified context layer that connects your local data — repositories, documents, remote machines, and notes — to LLM interfaces through the Model Context Protocol (MCP).",
+  "source_repo": "Codinglone/mcp-context-bridge",
+  "source_url": "https://github.com/Codinglone/mcp-context-bridge",
+  "install": "# git clone --depth 1 https://github.com/Codinglone/mcp-context-bridge\n# See source for mcpServers config block"
+}

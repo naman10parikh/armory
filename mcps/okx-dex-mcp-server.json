@@ -1,0 +1,7 @@
+{
+  "name": "okx-dex-mcp-server",
+  "description": "Enables gasless token swaps across multiple chains using OKX DEX aggregation and Biconomy MEE, allowing users to execute swaps via natural language without needing native gas tokens.",
+  "source_repo": "Nith567/sei-mcp",
+  "source_url": "https://github.com/Nith567/sei-mcp",
+  "install": "npx -y sei-mcp"
+}

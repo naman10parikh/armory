@@ -1,0 +1,7 @@
+{
+  "name": "vibeguard-mcp-server",
+  "description": "Enables AI coding tools to scan projects for security vulnerabilities, hardcoded secrets, injection flaws, and privacy violations with 699 rules and 76 MCP tools, all running locally with zero telemetry.",
+  "source_repo": "yagyeshVyas/VibeGuard",
+  "source_url": "https://github.com/yagyeshVyas/VibeGuard",
+  "install": "# git clone --depth 1 https://github.com/yagyeshVyas/VibeGuard\n# See source for mcpServers config block"
+}

@@ -1,10 +1,11 @@
 // Components — the catalog organised by the harness itself.
 //
 // Eleven canonical components (energy's HARNESS-CHECKLIST-2026, mapped in the CP137
-// amendment), each a card carrying its live counts and its Pick. The two cross-cutting
-// properties share the twelfth cell as badges, not component cards, because a harness IS
-// self-improving the way it is fast; it does not hold a "self-improvement" component. Twelve
-// cells fill 4, 3, 2 and 1 columns evenly, so no row is left with an empty cell (CP138 T23).
+// amendment) and the Browser shelf (CP147), each a card carrying its live counts and its Pick.
+// Twelve cards fill 4, 3, 2 and 1 columns evenly, so no row is left with an empty cell (CP138 T23).
+// The two cross-cutting properties take the full row below as badges, not component cards,
+// because a harness IS self-improving the way it is fast; it does not hold a "self-improvement"
+// component.
 //
 // Counts come from lib/rank.mjs computeRows via src/lib/canon.ts — the same engine the
 // home page, the leaderboard and /api/rank use — so this page can never disagree with them.
@@ -25,7 +26,7 @@ export const runtime = "nodejs";
 
 export const metadata: Metadata = {
   title: "Components · Armory",
-  description: "The catalog organized by the 11 components of an agent harness.",
+  description: "The catalog organized by the 11 components of an agent harness, and a Browser shelf.",
 };
 
 export default function ComponentsPage() {
@@ -53,7 +54,7 @@ export default function ComponentsPage() {
             Components
           </h1>
           <p className="mt-2 text-[16px] leading-normal text-ink-body">
-            Eleven components of an agent harness ·{" "}
+            Eleven components of an agent harness and a Browser shelf ·{" "}
             <data value={String(total)} className="tabular-nums text-ink-hi">
               {total.toLocaleString("en-US")}
             </data>{" "}
@@ -114,7 +115,7 @@ export default function ComponentsPage() {
 
             {/* Cross-cutting: badges, never shelves. Stated so the missing component cards read as a
                 deliberate boundary rather than a gap in the taxonomy. */}
-            <li className="flex flex-col gap-3 rounded-xl border border-dashed border-line p-4">
+            <li className="flex flex-col gap-3 rounded-xl border border-dashed border-line p-4 sm:col-span-full">
               <div>
                 <h2 className="text-[15px] font-semibold leading-none text-ink-hi">Properties</h2>
                 <p className="mt-1.5 text-[12.5px] leading-normal text-ink-muted">

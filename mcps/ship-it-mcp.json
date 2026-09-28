@@ -1,0 +1,7 @@
+{
+  "name": "ship-it-mcp",
+  "description": "Enables to interact with GitHub repositories directly from Claude, supporting actions like viewing repos, checking status, committing and pushing changes, and managing pull requests.",
+  "source_repo": "jjm7271985/ship-it-mcp",
+  "source_url": "https://github.com/jjm7271985/ship-it-mcp",
+  "install": "npx -y ship-it-mcp"
+}

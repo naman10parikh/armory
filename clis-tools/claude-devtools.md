@@ -7,7 +7,7 @@ license: MIT
 ---
 # claude-devtools
 
-A well-designed desktop app that provides detailed observability into your Claude Code sessions by analyzing the session logs. Provides turn-based context data across numerous categories, compaction visualization, subagent execution trees, and custom notification triggers. Easy to install, and nice visual design.
+A desktop app that shows your Claude Code sessions by reading their logs: context use per turn across categories, compaction, sub-agent execution trees and custom notification triggers.
 
 **Source:** https://github.com/matt1398/claude-devtools
 

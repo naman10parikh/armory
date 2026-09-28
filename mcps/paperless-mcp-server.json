@@ -1,6 +1,6 @@
 {
   "name": "paperless-mcp-server",
-  "description": "Paperless MCP Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "PDangelmaier/Paperless-MCP-Server",
   "source_url": "https://mcp.so/server/Paperless-MCP-Server/PDangelmaier",
   "install": "npx -y Paperless-MCP-Server"

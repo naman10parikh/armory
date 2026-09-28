@@ -1,0 +1,7 @@
+{
+  "name": "short-form-video-editor-mcp",
+  "description": "Turns long-form videos into short-form clips (TikTok/Reels) by reasoning over word-timestamped transcripts, with silence-aware rendering, STT-based validation, and optional reframing/captions.",
+  "source_repo": "ElliotTheGreek/short-form-video-editor-mcp",
+  "source_url": "https://github.com/ElliotTheGreek/short-form-video-editor-mcp",
+  "install": "npx -y short-form-video-editor-mcp"
+}

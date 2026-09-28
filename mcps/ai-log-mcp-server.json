@@ -1,0 +1,7 @@
+{
+  "name": "ai-log-mcp-server",
+  "description": "Enables querying and managing AI logs through tools like listing logs, retrieving jobs, and performing AI-powered chat queries. Also provides access to gateway security reports and guardrail testing.",
+  "source_repo": "jeff-dev-1/ai-log-mcp-server",
+  "source_url": "https://github.com/jeff-dev-1/ai-log-mcp-server",
+  "install": "npx -y ai-log-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openwiki-mcp",
+  "description": "Enables MCP hosts to generate and update repository wikis using OpenWiki's documentation generation tools.",
+  "source_repo": "Blanceone/openwiki-mcp",
+  "source_url": "https://github.com/Blanceone/openwiki-mcp",
+  "install": "npx -y openwiki-mcp"
+}

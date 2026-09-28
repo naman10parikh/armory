@@ -1,0 +1,7 @@
+{
+  "name": "stremio-mcp",
+  "description": "Unified MCP server for Stremio enabling search, metadata, catalogs, and stream listings via Stremio's addon APIs, plus Android TV playback control over adb.",
+  "source_repo": "YoanWai/stremio-mcp",
+  "source_url": "https://github.com/YoanWai/stremio-mcp",
+  "install": "npx -y stremio-mcp"
+}

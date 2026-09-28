@@ -1,0 +1,7 @@
+{
+  "name": "apidog-sync-mcp-server",
+  "description": "MCP server for reading, writing, and organizing API documentation in Apidog.",
+  "source_repo": "akhelij/apidog-sync-mcp-server",
+  "source_url": "https://github.com/akhelij/apidog-sync-mcp-server",
+  "install": "npx -y apidog-sync-mcp-server"
+}

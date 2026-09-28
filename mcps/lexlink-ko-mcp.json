@@ -1,0 +1,7 @@
+{
+  "name": "lexlink-ko-mcp",
+  "description": "MCP server for Korean National Law Information. Enables searching and retrieving Korean laws, English-translated laws, administrative rules, court precedents, and constitutional decisions via 54 MCP tools.",
+  "source_repo": "joohyukjung/LexLink-ko-mcp",
+  "source_url": "https://github.com/joohyukjung/LexLink-ko-mcp",
+  "install": "npx -y LexLink-ko-mcp"
+}

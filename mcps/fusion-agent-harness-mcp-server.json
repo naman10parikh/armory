@@ -1,0 +1,7 @@
+{
+  "name": "fusion-agent-harness-mcp-server",
+  "description": "Exposes CAD design tools (box, cylinder, shell, etc.) via MCP, allowing AI agents and clients like Claude to create and manipulate parametric CAD models in Autodesk Fusion or a simulator.",
+  "source_repo": "SmartAI/fusion-agent-harness",
+  "source_url": "https://github.com/SmartAI/fusion-agent-harness",
+  "install": "# git clone --depth 1 https://github.com/SmartAI/fusion-agent-harness\n# See source for mcpServers config block"
+}

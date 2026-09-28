@@ -1,0 +1,7 @@
+{
+  "name": "mcp-web-search-pro",
+  "description": "An extended, self-hosted web research server for MCP-compatible clients that provides tools for web search, page fetching, JavaScript rendering, Internet Archive snapshots, and YouTube transcripts.",
+  "source_repo": "AngelN-Halo/mcp-web-search-pro",
+  "source_url": "https://github.com/AngelN-Halo/mcp-web-search-pro",
+  "install": "# git clone --depth 1 https://github.com/AngelN-Halo/mcp-web-search-pro\n# See source for mcpServers config block"
+}

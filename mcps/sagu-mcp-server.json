@@ -1,0 +1,7 @@
+{
+  "name": "sagu-mcp-server",
+  "description": "Connects AI agents to Sagu radars, pings, and artifacts for intelligence operations, enabling radar search, context packet export, and artifact management.",
+  "source_repo": "creative-int/sagu-plugins",
+  "source_url": "https://github.com/creative-int/sagu-plugins",
+  "install": "# git clone --depth 1 https://github.com/creative-int/sagu-plugins\n# See source for mcpServers config block"
+}

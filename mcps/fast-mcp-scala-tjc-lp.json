@@ -1,0 +1,7 @@
+{
+  "name": "fast-mcp-scala-tjc-lp",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/fast-mcp-scala-tjc-lp",
+  "install": "# git clone --depth 1 https://mcp.so/server/fast-mcp-scala-tjc-lp\n# See source for mcpServers config block"
+}

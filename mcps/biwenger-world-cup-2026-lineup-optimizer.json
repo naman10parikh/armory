@@ -1,0 +1,7 @@
+{
+  "name": "biwenger-world-cup-2026-lineup-optimizer",
+  "description": "Optimizes your starting XI for Biwenger World Cup 2026 using fixed prices, with API endpoints for lineup optimization, player comparisons, and captain picks. Operates locally without accessing your actual Biwenger account.",
+  "source_repo": "edurodelg/biwenger-mcp",
+  "source_url": "https://github.com/edurodelg/biwenger-mcp",
+  "install": "npx -y biwenger-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tjrj-processo",
+  "description": "Consulta de processos do Tribunal TJRJ em fonte oficial, somente leitura, via MCP over HTTP.",
+  "source_repo": "mcp-dir/tribunal_tjrj_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tjrj_processo-mcp",
+  "install": "npx -y tribunal_tjrj_processo-mcp"
+}

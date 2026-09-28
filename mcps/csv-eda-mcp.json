@@ -1,0 +1,7 @@
+{
+  "name": "csv-eda-mcp",
+  "description": "An HTTP MCP server for exploring CSV files that masks PII before any code execution, enabling safe data analysis with local or cloud LLMs.",
+  "source_repo": "A-Souhei/csv-analyst-mcp",
+  "source_url": "https://github.com/A-Souhei/csv-analyst-mcp",
+  "install": "npx -y csv-analyst-mcp"
+}

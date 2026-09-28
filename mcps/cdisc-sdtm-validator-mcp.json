@@ -1,0 +1,7 @@
+{
+  "name": "cdisc-sdtm-validator-mcp",
+  "description": "Validates CDISC SDTM datasets against SDTMIG 3.4 specifications, offering tools for required variables, controlled terminology, and full dataset validation with bundled sample datasets.",
+  "source_repo": "mleary/mcp-cdisc",
+  "source_url": "https://github.com/mleary/mcp-cdisc",
+  "install": "# git clone --depth 1 https://github.com/mleary/mcp-cdisc\n# See source for mcpServers config block"
+}

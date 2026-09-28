@@ -1,0 +1,7 @@
+{
+  "name": "hedgedoc-mcp-multitenant-proxy-server",
+  "description": "A secure, multi-tenant MCP server that proxies AI assistant requests to the HedgeDoc API, exposing 27 tools for full CRUD operations and permission management across notes, media, and profiles.",
+  "source_repo": "homeserverhq/hedgedoc-mcp",
+  "source_url": "https://github.com/homeserverhq/hedgedoc-mcp",
+  "install": "npx -y hedgedoc-mcp"
+}

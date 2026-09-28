@@ -1,0 +1,7 @@
+{
+  "name": "automate-idea-to-social-mcp",
+  "description": "Enables publishing content to multiple social media platforms (YouTube, Twitter, Facebook, Instagram, TikTok, Reddit, Blog) through automation agents, with task management and system validation.",
+  "source_repo": "poshjosh/automate-idea-to-social-mcp",
+  "source_url": "https://github.com/poshjosh/automate-idea-to-social-mcp",
+  "install": "npx -y automate-idea-to-social-mcp"
+}

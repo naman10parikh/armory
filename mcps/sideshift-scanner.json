@@ -1,0 +1,7 @@
+{
+  "name": "sideshift-scanner",
+  "description": "An MCP server that pulls UGC creator-program data from SideShift, enabling creator profiling, content performance tracking, and creator recommendations for briefs or formats.",
+  "source_repo": "matthewhuang11/sideshift-scanner",
+  "source_url": "https://github.com/matthewhuang11/sideshift-scanner",
+  "install": "# git clone --depth 1 https://github.com/matthewhuang11/sideshift-scanner\n# See source for mcpServers config block"
+}

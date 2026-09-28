@@ -1,0 +1,7 @@
+{
+  "name": "sintegra-rj",
+  "description": "Consulta SINTEGRA RJ em fonte oficial, com ferramenta somente leitura para verificação de inscrição estadual via MCP.",
+  "source_repo": "mcp-dir/sintegra_rj-mcp",
+  "source_url": "https://github.com/mcp-dir/sintegra_rj-mcp",
+  "install": "npx -y sintegra_rj-mcp"
+}

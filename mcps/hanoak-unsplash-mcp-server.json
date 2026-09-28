@@ -1,0 +1,7 @@
+{
+  "name": "hanoak-unsplash-mcp-server",
+  "description": "Production-ready Model Context Protocol (MCP) server for the Unsplash API — search photos, fetch details, and stay compliant with Unsplash attribution & download-tracking guidelines. Unofficial; not affiliated with or endorsed by Unsplash.",
+  "source_repo": "hanoak/unsplash-mcp-server",
+  "source_url": "https://github.com/hanoak/unsplash-mcp-server",
+  "install": "npx -y unsplash-mcp-server"
+}

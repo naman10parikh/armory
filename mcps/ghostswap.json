@@ -1,0 +1,7 @@
+{
+  "name": "ghostswap",
+  "description": "Enables AI agents to interact with GhostSwap's no-KYC crypto-to-crypto swap API, supporting quote fetching and swap execution across 1,600+ coins via MCP, OpenAPI, or agents.md.",
+  "source_repo": "ghostswap1/ghostswap-agents",
+  "source_url": "https://github.com/ghostswap1/ghostswap-agents",
+  "install": "# git clone --depth 1 https://github.com/ghostswap1/ghostswap-agents\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kodama-mcp",
+  "description": "AST-aware code exploration MCP server for AI agents, optimized for token efficiency.",
+  "source_repo": "krazke/kodama-mcp",
+  "source_url": "https://github.com/krazke/kodama-mcp",
+  "install": "npx -y kodama-mcp"
+}

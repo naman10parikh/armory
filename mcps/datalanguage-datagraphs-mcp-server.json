@@ -1,0 +1,7 @@
+{
+  "name": "datalanguage-datagraphs-mcp-server",
+  "description": "MCP server that connects AI assistants to the Data Graphs knowledge graph platform, enabling natural language search, exploration, and querying of graph data.",
+  "source_repo": "datalanguage/datagraphs-mcp-server",
+  "source_url": "https://github.com/datalanguage/datagraphs-mcp-server",
+  "install": "npx -y datagraphs-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-context-hub",
+  "description": "A reusable MCP server providing shared, versioned context across AI agents and devices via a private GitHub workspace, with tools to discover projects, bootstrap, query, and close out task state.",
+  "source_repo": "zyplong/agent-context-hub",
+  "source_url": "https://github.com/zyplong/agent-context-hub",
+  "install": "# git clone --depth 1 https://github.com/zyplong/agent-context-hub\n# See source for mcpServers config block"
+}

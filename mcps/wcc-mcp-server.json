@@ -1,0 +1,7 @@
+{
+  "name": "wcc-mcp-server",
+  "description": "Exposes the WCC event, mentorship, and analytics pipeline tools as MCP endpoints with per-group authentication and dry-run support, enabling agents to manage events, mentors, and analytics.",
+  "source_repo": "yingliu-data/wcc_mcp_server",
+  "source_url": "https://github.com/yingliu-data/wcc_mcp_server",
+  "install": "npx -y wcc_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "swiss-snb-mcp",
+  "description": "Enables AI models to query Swiss National Bank data including exchange rates, balance sheet, interest rates, SARON, monetary aggregates, banking statistics, and balance of payments via the SNB public API.",
+  "source_repo": "malkreide/swiss-snb-mcp",
+  "source_url": "https://github.com/malkreide/swiss-snb-mcp",
+  "install": "npx -y swiss-snb-mcp"
+}

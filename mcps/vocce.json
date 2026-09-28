@@ -1,0 +1,7 @@
+{
+  "name": "vocce",
+  "description": "Transcribe local audio/video to text + SRT/VTT with hosted Whisper large-v3, plus summaries, study notes, flashcards, document Q&A, and PDF compression. No API key required — runs via npx -y vocce-transcribe-mcp.",
+  "source_repo": "cmoonagent/vocce-agent",
+  "source_url": "https://github.com/cmoonagent/vocce-agent",
+  "install": "# git clone --depth 1 https://github.com/cmoonagent/vocce-agent\n# See source for mcpServers config block"
+}

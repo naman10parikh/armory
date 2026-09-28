@@ -1,0 +1,7 @@
+{
+  "name": "open-delegate",
+  "description": "Delegate a Cursor task to a real, unattended background OpenCode agent — cheaper model, isolated history — through five small MCP tools.",
+  "source_repo": "Verbalize-public/open-delegate",
+  "source_url": "https://github.com/Verbalize-public/open-delegate",
+  "install": "# git clone --depth 1 https://github.com/Verbalize-public/open-delegate\n# See source for mcpServers config block"
+}

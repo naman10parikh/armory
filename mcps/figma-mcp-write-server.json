@@ -1,0 +1,7 @@
+{
+  "name": "figma-mcp-write-server",
+  "description": "An MCP server that provides write access to Figma through the Plugin API, enabling AI agents to create, modify, and manage Figma designs programmatically.",
+  "source_repo": "oO/figma-mcp-write-server",
+  "source_url": "https://github.com/oO/figma-mcp-write-server",
+  "install": "# git clone --depth 1 https://github.com/oO/figma-mcp-write-server\n# See source for mcpServers config block"
+}

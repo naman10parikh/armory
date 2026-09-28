@@ -1,0 +1,7 @@
+{
+  "name": "rs3005p-mcp",
+  "description": "An MCP server that lets AI agents control an RS PRO RS-3005P/RS-6005P programmable DC power supply over USB/RS232, enabling voltage/current control, measurements, output switching, and memory operations.",
+  "source_repo": "Gigaclank/RS3005P-MCP",
+  "source_url": "https://github.com/Gigaclank/RS3005P-MCP",
+  "install": "npx -y RS3005P-MCP"
+}

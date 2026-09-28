@@ -1,0 +1,7 @@
+{
+  "name": "eight-sleep-mcp",
+  "description": "Unofficial Eight Sleep MCP server for sleep trends, temperature, alarms and gated pod control.",
+  "source_repo": "davidmosiah/eight-sleep-mcp",
+  "source_url": "https://github.com/davidmosiah/eight-sleep-mcp",
+  "install": "npx -y eight-sleep-mcp"
+}

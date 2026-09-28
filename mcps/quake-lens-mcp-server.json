@@ -1,0 +1,7 @@
+{
+  "name": "quake-lens-mcp-server",
+  "description": "Provides tools to fetch recent earthquake data from JMA/P2P/USGS catalogs and compute Gutenberg-Richter b-value and Omori-Utsu aftershock decay statistics using maximum likelihood estimation.",
+  "source_repo": "kenimo49/quake-lens",
+  "source_url": "https://github.com/kenimo49/quake-lens",
+  "install": "# git clone --depth 1 https://github.com/kenimo49/quake-lens\n# See source for mcpServers config block"
+}

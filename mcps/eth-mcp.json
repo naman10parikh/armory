@@ -1,0 +1,7 @@
+{
+  "name": "eth-mcp",
+  "description": "MCP server that enables AI agents to build and deploy Ethereum applications using Scaffold-ETH.",
+  "source_repo": "austintgriffith/eth-mcp",
+  "source_url": "https://github.com/austintgriffith/eth-mcp",
+  "install": "npx -y eth-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "repo-scout",
+  "description": "Provides autonomous codebase exploration through a plan-execute-reflect-report pipeline, generating onboarding reports with file:line references. Exposes both a high-level investigation tool and low-level read-only file access tools via MCP.",
+  "source_repo": "RexVane/repo-scout",
+  "source_url": "https://github.com/RexVane/repo-scout",
+  "install": "# git clone --depth 1 https://github.com/RexVane/repo-scout\n# See source for mcpServers config block"
+}

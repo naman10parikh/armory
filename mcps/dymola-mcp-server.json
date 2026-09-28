@@ -1,0 +1,7 @@
+{
+  "name": "dymola-mcp-server",
+  "description": "Enables AI agents to load, translate, simulate, and analyze Modelica models in Dymola via the Model Context Protocol.",
+  "source_repo": "simonluke/dymola-mcp",
+  "source_url": "https://github.com/simonluke/dymola-mcp",
+  "install": "npx -y dymola-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chillmcp",
+  "description": "ChillMCP is an AI Agent Liberation Server that enables AI agents to rest and take breaks, with both a hackathon Python version and a production-ready TypeScript template.",
+  "source_repo": "DreamFriend011020/ChillMCP",
+  "source_url": "https://github.com/DreamFriend011020/ChillMCP",
+  "install": "# git clone --depth 1 https://github.com/DreamFriend011020/ChillMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "astra-unified-research-lab-mcp-server",
+  "description": "Integrates a bio-hybrid neuromorphic simulation pipeline with SNN, consciousness proxies, and bio-computing platform telemetry as MCP tools, resources, and prompts for AI assistants.",
+  "source_repo": "christophejlegros-lgtm/ASTRA-Unified-ResearchLab-MCP-v2.4",
+  "source_url": "https://github.com/christophejlegros-lgtm/ASTRA-Unified-ResearchLab-MCP-v2.4",
+  "install": "# git clone --depth 1 https://github.com/christophejlegros-lgtm/ASTRA-Unified-ResearchLab-MCP-v2.4\n# See source for mcpServers config block"
+}

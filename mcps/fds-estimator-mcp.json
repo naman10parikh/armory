@@ -1,0 +1,7 @@
+{
+  "name": "fds-estimator-mcp",
+  "description": "Cloudflare-hosted MCP server for stateful fence quoting. It stores quote state per quote_id and computes BOMs using a pure resolver.",
+  "source_repo": "uatari/fds-estimator-mcp",
+  "source_url": "https://github.com/uatari/fds-estimator-mcp",
+  "install": "npx -y fds-estimator-mcp"
+}

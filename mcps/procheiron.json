@@ -1,0 +1,7 @@
+{
+  "name": "procheiron",
+  "description": "MCP server that adds a trust layer to AI agent memory, enforcing independent review and tamper-evident audit chains for any memory store. It provides tools to search, get, propose, and promote memories under governance rules.",
+  "source_repo": "logotheusneuro-cpu/procheiron-core",
+  "source_url": "https://github.com/logotheusneuro-cpu/procheiron-core",
+  "install": "# git clone --depth 1 https://github.com/logotheusneuro-cpu/procheiron-core\n# See source for mcpServers config block"
+}

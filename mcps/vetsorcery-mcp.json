@@ -1,0 +1,7 @@
+{
+  "name": "vetsorcery-mcp",
+  "description": "MCP server for VetSorcery — query problem lists, SOAP notes, and patient summaries from Claude Desktop, Cursor, Windsurf, or any MCP-compatible agent.",
+  "source_repo": "AIVA-VET/vetsorcery-mcp",
+  "source_url": "https://github.com/AIVA-VET/vetsorcery-mcp",
+  "install": "npx -y vetsorcery-mcp"
+}

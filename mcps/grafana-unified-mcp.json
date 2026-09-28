@@ -1,0 +1,7 @@
+{
+  "name": "grafana-unified-mcp",
+  "description": "Enables managing multiple Grafana instances through a single MCP server, routing requests to the correct instance based on an instance argument.",
+  "source_repo": "robert-sinclair/grafana-unified-mcp",
+  "source_url": "https://github.com/robert-sinclair/grafana-unified-mcp",
+  "install": "npx -y grafana-unified-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ventureradar-company-api",
+  "description": "Enables querying VentureRadar startup profiles and retrieving structured company data, including funding signals, milestones, and scores, via natural language.",
+  "source_repo": "johnisanerd/Apify-VentureRadar-API",
+  "source_url": "https://github.com/johnisanerd/Apify-VentureRadar-API",
+  "install": "# git clone --depth 1 https://github.com/johnisanerd/Apify-VentureRadar-API\n# See source for mcpServers config block"
+}

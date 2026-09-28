@@ -1,0 +1,7 @@
+{
+  "name": "memlume-mcp-server",
+  "description": "Memlume is a local, structured-memory MCP server that records immutable events, stores scoped memories, enables full-text search, and resolves context packs for AI agents and developer tools.",
+  "source_repo": "hi18aa/memlume",
+  "source_url": "https://github.com/hi18aa/memlume",
+  "install": "# git clone --depth 1 https://github.com/hi18aa/memlume\n# See source for mcpServers config block"
+}

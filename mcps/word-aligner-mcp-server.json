@@ -1,0 +1,7 @@
+{
+  "name": "word-aligner-mcp-server",
+  "description": "Enables creating word alignment visualizations between sentences and their translations, returning shareable links and preview images.",
+  "source_repo": "tinygodsdev/bitext-word-alignment",
+  "source_url": "https://github.com/tinygodsdev/bitext-word-alignment",
+  "install": "# git clone --depth 1 https://github.com/tinygodsdev/bitext-word-alignment\n# See source for mcpServers config block"
+}

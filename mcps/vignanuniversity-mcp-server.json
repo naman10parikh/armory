@@ -1,0 +1,7 @@
+{
+  "name": "vignanuniversity-mcp-server",
+  "description": "Enables semantic search over the Vignan University knowledge base using Pinecone vector storage and Sentence Transformers.",
+  "source_repo": "alumnx-ai-labs/vignan-university-mcp-server",
+  "source_url": "https://github.com/alumnx-ai-labs/vignan-university-mcp-server",
+  "install": "npx -y vignan-university-mcp-server"
+}

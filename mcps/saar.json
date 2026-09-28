@@ -1,0 +1,7 @@
+{
+  "name": "saar",
+  "description": "Enables AI agents to retrieve relevant sections from indexed files (documents, code, etc.) via hybrid semantic/BM25 search, with citations, through the Model Context Protocol.",
+  "source_repo": "hpandey2023/saar",
+  "source_url": "https://github.com/hpandey2023/saar",
+  "install": "# git clone --depth 1 https://github.com/hpandey2023/saar\n# See source for mcpServers config block"
+}

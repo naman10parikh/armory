@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-cli-rest",
+  "description": "Enables programmatic control of Obsidian vaults via REST API and MCP server for automation and AI assistant integration.",
+  "source_repo": "dsebastien/obsidian-cli-rest",
+  "source_url": "https://github.com/dsebastien/obsidian-cli-rest",
+  "install": "# git clone --depth 1 https://github.com/dsebastien/obsidian-cli-rest\n# See source for mcpServers config block"
+}

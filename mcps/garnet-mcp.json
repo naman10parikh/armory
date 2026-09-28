@@ -1,0 +1,7 @@
+{
+  "name": "garnet-mcp",
+  "description": "An MCP server that provides long-term semantic memory via Garnet Vector Sets, enabling agents to store text embeddings and retrieve relevant context across sessions. It exposes tools for storing, recalling, and managing memories using pluggable embedding providers.",
+  "source_repo": "tarazou9/garnet-mcp",
+  "source_url": "https://github.com/tarazou9/garnet-mcp",
+  "install": "npx -y garnet-mcp"
+}

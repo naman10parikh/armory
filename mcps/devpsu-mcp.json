@@ -1,0 +1,7 @@
+{
+  "name": "devpsu-mcp",
+  "description": "MCP server for controlling B&K Precision and Manson bench power supplies, enabling voltage/current setting, output switching, and power cycling.",
+  "source_repo": "JacobBeningo/devpsu",
+  "source_url": "https://github.com/JacobBeningo/devpsu",
+  "install": "# git clone --depth 1 https://github.com/JacobBeningo/devpsu\n# See source for mcpServers config block"
+}

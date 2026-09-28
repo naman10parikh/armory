@@ -1,0 +1,7 @@
+{
+  "name": "markdownmcp",
+  "description": "Live markdown preview for LLM agents. Call a single tool to watch a markdown file and it opens a browser UI that streams rendered updates, changes, and history.",
+  "source_repo": "kschroeder/live-markdown-mcp",
+  "source_url": "https://github.com/kschroeder/live-markdown-mcp",
+  "install": "npx -y live-markdown-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chrome-console-log-mcp-server",
+  "description": "Captures browser console logs via Chrome DevTools Protocol and exposes them to MCP clients over SSE, enabling log retrieval with the getConsoleLogs tool.",
+  "source_repo": "ONLYHUMN/chrome-console-log-mcp-server",
+  "source_url": "https://github.com/ONLYHUMN/chrome-console-log-mcp-server",
+  "install": "npx -y chrome-console-log-mcp-server"
+}

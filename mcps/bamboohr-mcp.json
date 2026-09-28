@@ -1,0 +1,7 @@
+{
+  "name": "bamboohr-mcp",
+  "description": "A read-only MCP server for BambooHR that enables safe AI assistant access to employee records, time-off, files, and directories via natural language queries.",
+  "source_repo": "lovelight-code/bamboohr-mcp",
+  "source_url": "https://github.com/lovelight-code/bamboohr-mcp",
+  "install": "npx -y bamboohr-mcp"
+}

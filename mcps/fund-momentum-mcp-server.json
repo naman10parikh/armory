@@ -1,0 +1,7 @@
+{
+  "name": "fund-momentum-mcp-server",
+  "description": "Connects Claude or any MCP-compatible AI to a database of 960+ active VC funds for searching, fund profiles, live GP signals, and AI-powered startup-investor matching.",
+  "source_repo": "schneidavie/fundmomentum",
+  "source_url": "https://github.com/schneidavie/fundmomentum",
+  "install": "# git clone --depth 1 https://github.com/schneidavie/fundmomentum\n# See source for mcpServers config block"
+}

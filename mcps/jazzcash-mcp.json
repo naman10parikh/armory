@@ -1,0 +1,7 @@
+{
+  "name": "jazzcash-mcp",
+  "description": "MCP server for JazzCash mobile wallet and payments (Pakistan). Supports wallet payments, mobile account payments, vouchers, refunds, and balance inquiries.",
+  "source_repo": "theYahia/jazzcash-mcp",
+  "source_url": "https://github.com/theYahia/jazzcash-mcp",
+  "install": "npx -y jazzcash-mcp"
+}

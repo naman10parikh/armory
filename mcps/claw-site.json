@@ -1,0 +1,7 @@
+{
+  "name": "claw-site",
+  "description": "A Python MCP server that extracts URLs, page content (with browser rendering fallback), and text from images via OCR.",
+  "source_repo": "mymacmeet-crypto/local-mcp",
+  "source_url": "https://github.com/mymacmeet-crypto/local-mcp",
+  "install": "npx -y local-mcp"
+}

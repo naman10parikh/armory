@@ -1,0 +1,7 @@
+{
+  "name": "oracle-readiness-mcp-server",
+  "description": "Scrapes Oracle Cloud readiness pages and provides MCP tools to search, filter, compare, and report on features across HCM, ERP, SCM, and Service pillars.",
+  "source_repo": "stockem76/OracleReadinessSrc",
+  "source_url": "https://github.com/stockem76/OracleReadinessSrc",
+  "install": "# git clone --depth 1 https://github.com/stockem76/OracleReadinessSrc\n# See source for mcpServers config block"
+}

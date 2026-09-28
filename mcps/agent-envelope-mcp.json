@@ -1,0 +1,7 @@
+{
+  "name": "agent-envelope-mcp",
+  "description": "A neutral authority layer for agent runtimes, providing sovereign verification and vault-governed custody tools via MCP.",
+  "source_repo": "BlackBoxEngineering/agent-envelope-mcp",
+  "source_url": "https://github.com/BlackBoxEngineering/agent-envelope-mcp",
+  "install": "npx -y agent-envelope-mcp"
+}

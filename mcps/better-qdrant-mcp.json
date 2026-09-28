@@ -1,0 +1,7 @@
+{
+  "name": "better-qdrant-mcp",
+  "description": "An MCP server that provides long-term memory and semantic search using Qdrant and OpenAI embeddings, with tools for storing, searching, and managing knowledge.",
+  "source_repo": "jtsang4/better-qdrant-mcp",
+  "source_url": "https://github.com/jtsang4/better-qdrant-mcp",
+  "install": "npx -y better-qdrant-mcp"
+}

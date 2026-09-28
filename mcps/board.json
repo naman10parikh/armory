@@ -1,0 +1,7 @@
+{
+  "name": "board",
+  "description": "A kanban board MCP server that lets Claude Code manage tasks through a local web UI, including claiming, submitting, and querying tasks with automatic git branch and PR creation.",
+  "source_repo": "xinayida/kanban-board",
+  "source_url": "https://github.com/xinayida/kanban-board",
+  "install": "# git clone --depth 1 https://github.com/xinayida/kanban-board\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "teams-api-mcp",
+  "description": "Enables AI agents to read conversations, send messages, and manage members in Microsoft Teams via the Teams Chat Service REST API.",
+  "source_repo": "Maxim-Mazurok/teams-api",
+  "source_url": "https://github.com/Maxim-Mazurok/teams-api",
+  "install": "# git clone --depth 1 https://github.com/Maxim-Mazurok/teams-api\n# See source for mcpServers config block"
+}

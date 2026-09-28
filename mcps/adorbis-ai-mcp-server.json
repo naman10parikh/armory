@@ -1,0 +1,7 @@
+{
+  "name": "adorbis-ai-mcp-server",
+  "description": "Enables AI assistants to access 40+ models via one API key with automatic routing for chat, code, reasoning, and writing tasks.",
+  "source_repo": "adorbistech/adorbis-mcp",
+  "source_url": "https://github.com/adorbistech/adorbis-mcp",
+  "install": "npx -y adorbis-mcp"
+}

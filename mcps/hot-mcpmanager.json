@@ -1,0 +1,7 @@
+{
+  "name": "hot-mcpmanager",
+  "description": "Aggregates multiple MCP servers into a single unified endpoint with hot-plugging, multi-protocol support, and management via web and CLI.",
+  "source_repo": "B3i4hu/Hot-MCPManager",
+  "source_url": "https://github.com/B3i4hu/Hot-MCPManager",
+  "install": "# git clone --depth 1 https://github.com/B3i4hu/Hot-MCPManager\n# See source for mcpServers config block"
+}

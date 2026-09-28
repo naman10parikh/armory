@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tw-lvr",
+  "description": "MCP server for querying Taiwan's real estate transaction registry via web scraping of the Ministry of the Interior's official portal. Enables natural language queries for real estate sales, rentals, and pre-sale housing data.",
+  "source_repo": "asgard-ai-platform/mcp-tw-lvr",
+  "source_url": "https://github.com/asgard-ai-platform/mcp-tw-lvr",
+  "install": "# git clone --depth 1 https://github.com/asgard-ai-platform/mcp-tw-lvr\n# See source for mcpServers config block"
+}

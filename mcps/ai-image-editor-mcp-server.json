@@ -1,0 +1,7 @@
+{
+  "name": "ai-image-editor-mcp-server",
+  "description": "Enables access to AI Image Editor's image generation styles, pricing, FAQ, and official links via natural language.",
+  "source_repo": "rocnubie/aiimageeditor-mcp",
+  "source_url": "https://github.com/rocnubie/aiimageeditor-mcp",
+  "install": "npx -y aiimageeditor-mcp"
+}

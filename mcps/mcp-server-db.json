@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-db",
+  "description": "A universal MCP server enabling AI assistants to query and manage six database engines (Postgres, Redis, Elasticsearch, MySQL, MongoDB, LDAP) through 113+ tools with read-only safety and fault tolerance.",
+  "source_repo": "Nam088/mcp-database-server-v2",
+  "source_url": "https://github.com/Nam088/mcp-database-server-v2",
+  "install": "# git clone --depth 1 https://github.com/Nam088/mcp-database-server-v2\n# See source for mcpServers config block"
+}

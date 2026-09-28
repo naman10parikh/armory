@@ -1,0 +1,7 @@
+{
+  "name": "anvisa-bul-rio-eletr-nico",
+  "description": "MCP server for querying the official ANVISA electronic drug bulletin from a trusted source. It provides a single read-only tool for consulting drug information through natural language in any MCP-compatible client.",
+  "source_repo": "mcp-dir/anvisa_bulario_eletronico-mcp",
+  "source_url": "https://github.com/mcp-dir/anvisa_bulario_eletronico-mcp",
+  "install": "npx -y anvisa_bulario_eletronico-mcp"
+}

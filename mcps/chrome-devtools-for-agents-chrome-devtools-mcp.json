@@ -1,0 +1,7 @@
+{
+  "name": "chrome-devtools-for-agents-chrome-devtools-mcp",
+  "description": "Lets AI coding assistants control and inspect a live Chrome browser through MCP, enabling reliable automation, debugging, and performance analysis using Chrome DevTools.",
+  "source_repo": "karichetivenkat45-pixel/Chrome_Auto_Mcp",
+  "source_url": "https://github.com/karichetivenkat45-pixel/Chrome_Auto_Mcp",
+  "install": "npx -y Chrome_Auto_Mcp"
+}

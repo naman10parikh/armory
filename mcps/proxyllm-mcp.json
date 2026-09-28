@@ -1,0 +1,7 @@
+{
+  "name": "proxyllm-mcp",
+  "description": "MCP server for ProxyLLM, the OpenAI-compatible LLM gateway, enabling live model catalogs, plan-savings calculations, routing key management, and autonomous account signup.",
+  "source_repo": "proxyllm-ai/proxyllm-mcp",
+  "source_url": "https://github.com/proxyllm-ai/proxyllm-mcp",
+  "install": "npx -y proxyllm-mcp"
+}

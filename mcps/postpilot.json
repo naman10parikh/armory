@@ -1,0 +1,7 @@
+{
+  "name": "postpilot",
+  "description": "PostPilot is an MCP server that connects ChatGPT or Codex to X (Twitter) with secure, approval-first publishing. It enables drafting, validating, staging, publishing, listing, and deleting posts via OAuth 2.0 and exact-text single-use approvals.",
+  "source_repo": "theworker02/postpilot",
+  "source_url": "https://github.com/theworker02/postpilot",
+  "install": "# git clone --depth 1 https://github.com/theworker02/postpilot\n# See source for mcpServers config block"
+}

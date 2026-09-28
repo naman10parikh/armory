@@ -1,0 +1,7 @@
+{
+  "name": "engawa",
+  "description": "An MCP server providing tools to read articles, RSS feeds, NASA APOD, daily art, arXiv papers, poems, and historical events with a focus on clean, offline-friendly content.",
+  "source_repo": "tsuru0805/engawa-mcp",
+  "source_url": "https://github.com/tsuru0805/engawa-mcp",
+  "install": "npx -y engawa-mcp"
+}

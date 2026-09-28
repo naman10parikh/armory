@@ -1,0 +1,7 @@
+{
+  "name": "panella",
+  "description": "Governed, self-hosted memory for AI agents: writes queue until an authorized approver signs off.",
+  "source_repo": "panellatech/panella",
+  "source_url": "https://github.com/panellatech/panella",
+  "install": "# git clone --depth 1 https://github.com/panellatech/panella\n# See source for mcpServers config block"
+}

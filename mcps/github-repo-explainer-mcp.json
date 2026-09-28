@@ -1,0 +1,7 @@
+{
+  "name": "github-repo-explainer-mcp",
+  "description": "Enables AI assistants to access live GitHub repository data without cloning, supporting repo summarization, file explanation, recent changes, and dependency analysis.",
+  "source_repo": "Pranavvr/Repo_Explainer_MCP",
+  "source_url": "https://github.com/Pranavvr/Repo_Explainer_MCP",
+  "install": "npx -y Repo_Explainer_MCP"
+}

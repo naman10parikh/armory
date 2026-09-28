@@ -1,0 +1,7 @@
+{
+  "name": "sansan-chrome-mcp",
+  "description": "Enables AI assistants to control Chrome browser operations such as navigation, reading pages, taking screenshots, managing tabs, and more via a Chrome extension and native messaging.",
+  "source_repo": "AbellLee/sansan-chrome-mcp",
+  "source_url": "https://github.com/AbellLee/sansan-chrome-mcp",
+  "install": "npx -y sansan-chrome-mcp"
+}

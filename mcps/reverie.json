@@ -1,0 +1,7 @@
+{
+  "name": "reverie",
+  "description": "CLI + MCP server that bootstraps persistent project context for any AI agent, storing structured information using hierarchical dot notation and exposing it via MCP tools for session-over-session knowledge growth.",
+  "source_repo": "seabearDEV/Reverie",
+  "source_url": "https://github.com/seabearDEV/Reverie",
+  "install": "# git clone --depth 1 https://github.com/seabearDEV/Reverie\n# See source for mcpServers config block"
+}

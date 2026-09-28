@@ -1,0 +1,7 @@
+{
+  "name": "shotflow-mcp-server",
+  "description": "Enables AI agents to generate professional storyboards and videos from scripts or creative descriptions via MCP-compatible clients.",
+  "source_repo": "JOHNZhang-ui/shotflow-mcp",
+  "source_url": "https://github.com/JOHNZhang-ui/shotflow-mcp",
+  "install": "npx -y shotflow-mcp"
+}

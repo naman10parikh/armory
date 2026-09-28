@@ -1,0 +1,7 @@
+{
+  "name": "safe-mcp-bridge-v2",
+  "description": "A fail-closed policy boundary that translates local stdio MCP clients to authenticated Streamable HTTP servers, enforcing allowlists or read-only modes and redacting credentials from audit trails.",
+  "source_repo": "efe-arv/safe-mcp-bridge-v2",
+  "source_url": "https://github.com/efe-arv/safe-mcp-bridge-v2",
+  "install": "# git clone --depth 1 https://github.com/efe-arv/safe-mcp-bridge-v2\n# See source for mcpServers config block"
+}

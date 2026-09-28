@@ -1,0 +1,7 @@
+{
+  "name": "gigahost-mcp",
+  "description": "Exposes the Gigahost REST API (DNS, domains, servers, web hosting, etc.) to MCP clients via a single passthrough tool, enabling natural language management of Gigahost resources.",
+  "source_repo": "ecschoye/gigahost-mcp",
+  "source_url": "https://github.com/ecschoye/gigahost-mcp",
+  "install": "npx -y gigahost-mcp"
+}

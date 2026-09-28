@@ -1,0 +1,7 @@
+{
+  "name": "aws-compliance-mcp-server",
+  "description": "Enables LLMs to perform automated compliance scanning of AWS infrastructure against PCI-DSS, CIS, and Well-Architected frameworks. It provides tools for scanning, remediation, and audit report generation.",
+  "source_repo": "aditya0529/AWS-Compliance-MCP-Server",
+  "source_url": "https://github.com/aditya0529/AWS-Compliance-MCP-Server",
+  "install": "npx -y AWS-Compliance-MCP-Server"
+}

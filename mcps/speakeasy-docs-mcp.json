@@ -1,0 +1,7 @@
+{
+  "name": "speakeasy-docs-mcp",
+  "description": "A lightweight, domain-agnostic hybrid search engine for markdown corpora, exposed via the Model Context Protocol (MCP), optimized for serving SDK documentation to AI coding agents.",
+  "source_repo": "speakeasy-api/docs-mcp",
+  "source_url": "https://github.com/speakeasy-api/docs-mcp",
+  "install": "npx -y docs-mcp"
+}

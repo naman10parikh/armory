@@ -1,0 +1,7 @@
+{
+  "name": "sigma-gate",
+  "description": "A deterministic MCP server that guards AI/agent output by detecting secrets, injection, and PII in ~85µs with zero dependencies. Gives a clear ship/block verdict and runs locally or hosted.",
+  "source_repo": "spektre-labs/sigma-gate",
+  "source_url": "https://github.com/spektre-labs/sigma-gate",
+  "install": "# git clone --depth 1 https://github.com/spektre-labs/sigma-gate\n# See source for mcpServers config block"
+}

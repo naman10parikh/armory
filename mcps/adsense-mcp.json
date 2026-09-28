@@ -1,0 +1,7 @@
+{
+  "name": "adsense-mcp",
+  "description": "MCP server for Google AdSense management. Create ad units, generate framework-specific ad code, manage earnings reports, and automate ads.txt — all from your AI assistant.",
+  "source_repo": "mkroo/adsense-mcp",
+  "source_url": "https://github.com/mkroo/adsense-mcp",
+  "install": "npx -y adsense-mcp"
+}

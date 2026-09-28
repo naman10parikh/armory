@@ -1,0 +1,7 @@
+{
+  "name": "ddb-mcp",
+  "description": "MCP server and CLI for full-text search of the Deutsches Zeitungsportal (German newspaper collection), enabling querying ~33.8 million digitized pages with Solr syntax, date/title/place filters, and snippet highlights.",
+  "source_repo": "nestordemeure/ddb-mcp",
+  "source_url": "https://github.com/nestordemeure/ddb-mcp",
+  "install": "npx -y ddb-mcp"
+}

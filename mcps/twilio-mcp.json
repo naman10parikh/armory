@@ -1,0 +1,7 @@
+{
+  "name": "twilio-mcp",
+  "description": "MCP server for Twilio communications, enabling SMS/MMS sending, message listing, outbound calls, and phone number lookup.",
+  "source_repo": "chenzhaoxuan0/twilio-mcp",
+  "source_url": "https://github.com/chenzhaoxuan0/twilio-mcp",
+  "install": "npx -y twilio-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "document-catalog-mcp",
+  "description": "Private local stdio MCP server for metadata-only discovery, recording, and querying of Markdown and PDF documents.",
+  "source_repo": "tom2025b/document-catalog-mcp",
+  "source_url": "https://github.com/tom2025b/document-catalog-mcp",
+  "install": "npx -y document-catalog-mcp"
+}

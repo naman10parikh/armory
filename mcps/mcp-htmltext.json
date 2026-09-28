@@ -1,0 +1,7 @@
+{
+  "name": "mcp-htmltext",
+  "description": "Converts HTML to plain text, extracts hyperlinks, and pulls page metadata (title, description, Open Graph tags) from HTML content.",
+  "source_repo": "pipeworx-io/mcp-htmltext",
+  "source_url": "https://github.com/pipeworx-io/mcp-htmltext",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-htmltext\n# See source for mcpServers config block"
+}

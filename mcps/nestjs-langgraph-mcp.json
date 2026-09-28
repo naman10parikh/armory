@@ -1,0 +1,7 @@
+{
+  "name": "nestjs-langgraph-mcp",
+  "description": "Experimental MCP server built with NestJS and LangGraph, enabling tool execution and agent workflows via stdio transport. Supports OpenAI and Ollama models for flexible agent orchestration.",
+  "source_repo": "Touseef-ahmad/experimental-mcp",
+  "source_url": "https://github.com/Touseef-ahmad/experimental-mcp",
+  "install": "npx -y experimental-mcp"
+}

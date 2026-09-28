@@ -1,0 +1,7 @@
+{
+  "name": "protheus-mcp-server-piloto",
+  "description": "Read-only MCP connector for querying the Protheus (TOTVS) system, exposing 10 GET endpoints as MCP tools with OAuth2 authentication and friendly error handling.",
+  "source_repo": "Endrews-DFL/mcp-protheus-tdn",
+  "source_url": "https://github.com/Endrews-DFL/mcp-protheus-tdn",
+  "install": "# git clone --depth 1 https://github.com/Endrews-DFL/mcp-protheus-tdn\n# See source for mcpServers config block"
+}

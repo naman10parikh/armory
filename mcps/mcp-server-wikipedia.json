@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-wikipedia",
+  "description": "Enables efficient Wikipedia access through a progressive retrieval strategy that minimizes token usage by searching, summarizing, and fetching only relevant sections.",
+  "source_repo": "surendranb/wikipedia-mcp-server",
+  "source_url": "https://github.com/surendranb/wikipedia-mcp-server",
+  "install": "npx -y wikipedia-mcp-server"
+}

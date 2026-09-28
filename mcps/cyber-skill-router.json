@@ -1,0 +1,7 @@
+{
+  "name": "cyber-skill-router",
+  "description": "A sandbox-first MCP server that enables AI agents to safely perform reverse-engineering tasks in fully isolated Docker containers, featuring zero-trust security, declarative YAML-based skills, and white-hat ethical safeguards.",
+  "source_repo": "Julia7856/cyber-skill-mcp",
+  "source_url": "https://github.com/Julia7856/cyber-skill-mcp",
+  "install": "npx -y cyber-skill-mcp"
+}

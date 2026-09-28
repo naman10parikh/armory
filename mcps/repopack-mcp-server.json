@@ -1,0 +1,7 @@
+{
+  "name": "repopack-mcp-server",
+  "description": "Serves local and remote repositories over MCP, enabling AI models to search and retrieve code snippets, file contents, and repository structures on demand.",
+  "source_repo": "DiegoNogueiraDev/repopack",
+  "source_url": "https://github.com/DiegoNogueiraDev/repopack",
+  "install": "# git clone --depth 1 https://github.com/DiegoNogueiraDev/repopack\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "runescape-ge",
+  "description": "Look up Old School RuneScape Grand Exchange prices in real-time using the official OSRS Wiki Prices API, no API key required.",
+  "source_repo": "gorlomi-enzo/mcp-runescape-ge",
+  "source_url": "https://github.com/gorlomi-enzo/mcp-runescape-ge",
+  "install": "# git clone --depth 1 https://github.com/gorlomi-enzo/mcp-runescape-ge\n# See source for mcpServers config block"
+}

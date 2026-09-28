@@ -1,0 +1,7 @@
+{
+  "name": "certindex-mcp",
+  "description": "Enables LLMs to query Certificate Transparency logs via CertIndex API, allowing searches for TLS certificates, subdomains, and certificate metadata.",
+  "source_repo": "certindex/certindex-mcp",
+  "source_url": "https://github.com/certindex/certindex-mcp",
+  "install": "npx -y certindex-mcp"
+}

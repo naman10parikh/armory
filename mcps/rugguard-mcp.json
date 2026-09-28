@@ -1,0 +1,7 @@
+{
+  "name": "rugguard-mcp",
+  "description": "MCP server for RugGuard, enabling AI agents to perform pre-trade rug checks on tokens, with paid tools for token scanning and pre-trade verification, and a free metrics resource.",
+  "source_repo": "dbe006/rugguard-mcp",
+  "source_url": "https://github.com/dbe006/rugguard-mcp",
+  "install": "npx -y rugguard-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sapphire-user-mcp-server-2",
+  "description": "Exposes user profile data from the Sapphire Wellness App via MCP tools for health alerts, personalised recommendations, and partner service subscriptions.",
+  "source_repo": "IBMC-WORK-REDESIGN-FDE-COHORT-MC/sapphire-user-mcp",
+  "source_url": "https://github.com/IBMC-WORK-REDESIGN-FDE-COHORT-MC/sapphire-user-mcp",
+  "install": "npx -y sapphire-user-mcp"
+}

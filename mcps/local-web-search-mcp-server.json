@@ -1,0 +1,7 @@
+{
+  "name": "local-web-search-mcp-server",
+  "description": "Offline-first MCP server for web search and content fetching. It requires no external API keys and uses local models for intent classification, optional cross-lingual search, semantic re-ranking, and direct-answer extraction.",
+  "source_repo": "kefyusuf/local-websearch-mcp",
+  "source_url": "https://github.com/kefyusuf/local-websearch-mcp",
+  "install": "npx -y local-websearch-mcp"
+}

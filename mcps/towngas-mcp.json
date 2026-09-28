@@ -1,0 +1,7 @@
+{
+  "name": "towngas-mcp",
+  "description": "MCP server for querying Towngas account data, including bills, readings, and bound accounts. Supports automatic token refresh via refresh token.",
+  "source_repo": "sdrpsps/towngas-mcp",
+  "source_url": "https://github.com/sdrpsps/towngas-mcp",
+  "install": "npx -y towngas-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fints-finanzen",
+  "description": "Read-only MCP server for FinTS/HBCI banking; enables account information retrieval such as balances and transactions via PIN-TAN.",
+  "source_repo": "NG-Bullseye/FinTS-Finanzen",
+  "source_url": "https://github.com/NG-Bullseye/FinTS-Finanzen",
+  "install": "# git clone --depth 1 https://github.com/NG-Bullseye/FinTS-Finanzen\n# See source for mcpServers config block"
+}

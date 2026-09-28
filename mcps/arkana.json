@@ -1,0 +1,7 @@
+{
+  "name": "arkana",
+  "description": "An MCP server that provides 294 malware analysis tools behind an AI-driven interface, enabling natural language investigation of binaries.",
+  "source_repo": "JameZUK/Arkana",
+  "source_url": "https://github.com/JameZUK/Arkana",
+  "install": "# git clone --depth 1 https://github.com/JameZUK/Arkana\n# See source for mcpServers config block"
+}

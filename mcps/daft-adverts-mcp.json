@@ -1,0 +1,7 @@
+{
+  "name": "daft-adverts-mcp",
+  "description": "MCP server for Irish classifieds, providing tools to search Daft.ie property listings and Adverts.ie marketplace ads, retrieve details, and optionally manage authenticated accounts. Supports both stdio and HTTP transports.",
+  "source_repo": "lortonx/daft-adverts-mcp",
+  "source_url": "https://github.com/lortonx/daft-adverts-mcp",
+  "install": "npx -y daft-adverts-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "containerlab-mcp-server",
+  "description": "Enables network configuration, connectivity testing, and routing management for ContainerLab Linux containers through an MCP interface.",
+  "source_repo": "baijuw/clab-mcp-server",
+  "source_url": "https://github.com/baijuw/clab-mcp-server",
+  "install": "npx -y clab-mcp-server"
+}

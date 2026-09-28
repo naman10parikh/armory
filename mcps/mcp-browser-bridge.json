@@ -1,0 +1,7 @@
+{
+  "name": "mcp-browser-bridge",
+  "description": "MCP server that bridges Model Context Protocol with browser automation, offering 37 tools across three modes (Playwright, CDP, Chrome Extension) and an autonomous agent for web tasks.",
+  "source_repo": "flpccabral/mcp-browser",
+  "source_url": "https://github.com/flpccabral/mcp-browser",
+  "install": "# git clone --depth 1 https://github.com/flpccabral/mcp-browser\n# See source for mcpServers config block"
+}

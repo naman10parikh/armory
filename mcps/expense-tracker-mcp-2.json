@@ -1,0 +1,7 @@
+{
+  "name": "expense-tracker-mcp-2",
+  "description": "MCP server for tracking expenses with local SQLite storage. Provides tools to add, list, and summarize expenses by category.",
+  "source_repo": "InfoSage05/Expense-Tracker-MCP",
+  "source_url": "https://github.com/InfoSage05/Expense-Tracker-MCP",
+  "install": "npx -y Expense-Tracker-MCP"
+}

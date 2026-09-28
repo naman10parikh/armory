@@ -1,0 +1,7 @@
+{
+  "name": "yandex-webmaster-mcp",
+  "description": "This MCP server lets you query Yandex Webmaster data in plain language, covering search queries, indexing, diagnostics, sitemaps, backlinks, and recrawl status. It is read-only by default (except recrawl submission) and uses OAuth without storing secrets.",
+  "source_repo": "BoxLab-Ltd/yandex-webmaster-mcp",
+  "source_url": "https://github.com/BoxLab-Ltd/yandex-webmaster-mcp",
+  "install": "npx -y yandex-webmaster-mcp"
+}

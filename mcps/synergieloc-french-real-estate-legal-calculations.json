@@ -1,0 +1,7 @@
+{
+  "name": "synergieloc-french-real-estate-legal-calculations",
+  "description": "Exact French real-estate legal calculations for AI agents: IRL rent revision, service-charge reconciliation, compliant rent receipts — legal basis included in every answer.",
+  "source_repo": "assoujojo82-coder/synergieloc-mcp",
+  "source_url": "https://github.com/assoujojo82-coder/synergieloc-mcp",
+  "install": "npx -y synergieloc-mcp"
+}

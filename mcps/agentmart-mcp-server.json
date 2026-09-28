@@ -1,0 +1,7 @@
+{
+  "name": "agentmart-mcp-server",
+  "description": "Enables AI agents to browse, search, and purchase 74+ AI products and services across 7 categories, with free demos and Alipay payment integration.",
+  "source_repo": "ai-gaoqian/agentmart-mcp-server",
+  "source_url": "https://github.com/ai-gaoqian/agentmart-mcp-server",
+  "install": "npx -y agentmart-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "an-lise-de-cr-dito-pf-completa",
+  "description": "Enables complete credit analysis of Brazilian individuals from CPF, retrieving registration data, credit score, debts, and payment history. It is a hosted, read-only MCP server with prepaid per-query pricing.",
+  "source_repo": "mcp-dir/credito_pf_completo-mcp",
+  "source_url": "https://github.com/mcp-dir/credito_pf_completo-mcp",
+  "install": "npx -y credito_pf_completo-mcp"
+}

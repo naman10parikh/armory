@@ -1,0 +1,7 @@
+{
+  "name": "switchyard",
+  "description": "Routes coding tasks across multiple AI CLIs (Copilot, Claude Code, Gemini, etc.) with cost-aware tier routing and parallel wave orchestration.",
+  "source_repo": "timjensgrossinger/switchyard",
+  "source_url": "https://github.com/timjensgrossinger/switchyard",
+  "install": "# git clone --depth 1 https://github.com/timjensgrossinger/switchyard\n# See source for mcpServers config block"
+}

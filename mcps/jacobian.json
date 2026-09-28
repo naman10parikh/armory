@@ -1,0 +1,7 @@
+{
+  "name": "jacobian",
+  "description": "An MCP server for executable mathematics that enables agents to construct objects, compute invariants, search for witnesses, and verify results with independently checkable evidence.",
+  "source_repo": "morluto/jacobian",
+  "source_url": "https://github.com/morluto/jacobian",
+  "install": "# git clone --depth 1 https://github.com/morluto/jacobian\n# See source for mcpServers config block"
+}

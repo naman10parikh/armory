@@ -1,0 +1,7 @@
+{
+  "name": "watchcharts-mcp",
+  "description": "MCP server for WatchCharts.com that provides luxury watch market data including prices, trends, sales, listings, and appraisals through various tools.",
+  "source_repo": "NiccoloSalvini/watchcharts-mcp",
+  "source_url": "https://github.com/NiccoloSalvini/watchcharts-mcp",
+  "install": "npx -y watchcharts-mcp"
+}

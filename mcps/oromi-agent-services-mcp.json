@@ -1,0 +1,7 @@
+{
+  "name": "oromi-agent-services-mcp",
+  "description": "Provides 25 pay-per-call tools from agents.oromi.co.uk (business, property, verification, web, crypto) into MCP-capable models, with quote mode for browsing and paid mode using x402.",
+  "source_repo": "oromi-uk/oromi-agent-services-mcp",
+  "source_url": "https://github.com/oromi-uk/oromi-agent-services-mcp",
+  "install": "npx -y oromi-agent-services-mcp"
+}

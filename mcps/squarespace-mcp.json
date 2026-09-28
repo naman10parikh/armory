@@ -1,0 +1,7 @@
+{
+  "name": "squarespace-mcp",
+  "description": "Enables LLM agents to interact with Squarespace Commerce APIs (products, orders, inventory, transactions) using natural language.",
+  "source_repo": "The1Studio/squarespace-mcp",
+  "source_url": "https://github.com/The1Studio/squarespace-mcp",
+  "install": "npx -y squarespace-mcp"
+}

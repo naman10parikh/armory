@@ -1,0 +1,7 @@
+{
+  "name": "smart-read-mcp",
+  "description": "Provides a universal read path for agents to extract facts, metadata, and provenance from local files and guarded remote URLs without using generative LLMs.",
+  "source_repo": "SylphxAI/smart-read-mcp",
+  "source_url": "https://github.com/SylphxAI/smart-read-mcp",
+  "install": "npx -y smart-read-mcp"
+}

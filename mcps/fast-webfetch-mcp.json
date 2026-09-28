@@ -1,0 +1,7 @@
+{
+  "name": "fast-webfetch-mcp",
+  "description": "A high-performance MCP server for web fetching in Claude Code using Firecrawl backend with automatic fallback.",
+  "source_repo": "NikkeTryHard/fast-webfetch-mcp",
+  "source_url": "https://github.com/NikkeTryHard/fast-webfetch-mcp",
+  "install": "npx -y fast-webfetch-mcp"
+}

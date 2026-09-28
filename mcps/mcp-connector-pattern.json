@@ -1,0 +1,7 @@
+{
+  "name": "mcp-connector-pattern",
+  "description": "A reference MCP server for a fictional bike shop that enables managing customers, inventory, orders, and outbound messages, demonstrating best practices for building MCP servers.",
+  "source_repo": "andrewrozumny/mcp-connector-pattern",
+  "source_url": "https://github.com/andrewrozumny/mcp-connector-pattern",
+  "install": "# git clone --depth 1 https://github.com/andrewrozumny/mcp-connector-pattern\n# See source for mcpServers config block"
+}

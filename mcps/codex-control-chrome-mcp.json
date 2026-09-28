@@ -1,0 +1,7 @@
+{
+  "name": "codex-control-chrome-mcp",
+  "description": "Exposes the Codex Chrome extension flow to other Agent tools through MCP, enabling Chrome automation via CDP and tab management.",
+  "source_repo": "iola1999/codex-control-chrome-mcp",
+  "source_url": "https://github.com/iola1999/codex-control-chrome-mcp",
+  "install": "npx -y codex-control-chrome-mcp"
+}

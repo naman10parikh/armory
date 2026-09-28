@@ -1,0 +1,7 @@
+{
+  "name": "education-mcp",
+  "description": "Generates educational content like quizzes, lesson plans, flashcards, and grading rubrics from any topic via the Model Context Protocol.",
+  "source_repo": "mcp-tools-lab/education-mcp",
+  "source_url": "https://github.com/mcp-tools-lab/education-mcp",
+  "install": "npx -y education-mcp"
+}

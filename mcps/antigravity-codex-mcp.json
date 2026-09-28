@@ -1,0 +1,7 @@
+{
+  "name": "antigravity-codex-mcp",
+  "description": "A controlled Model Context Protocol bridge that lets OpenAI Codex delegate work to Google Antigravity CLI on demand, with project-scoped opt-in and read-only delegation.",
+  "source_repo": "ustc-fyk/antigravity-codex-mcp",
+  "source_url": "https://github.com/ustc-fyk/antigravity-codex-mcp",
+  "install": "npx -y antigravity-codex-mcp"
+}

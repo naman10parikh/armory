@@ -1,0 +1,7 @@
+{
+  "name": "gitbranch-mcp",
+  "description": "Enables managing a GitBranch stock token portfolio, including buying, selling, swapping tokens, and checking balances.",
+  "source_repo": "gitbranchorg/gitbranch-mcp",
+  "source_url": "https://github.com/gitbranchorg/gitbranch-mcp",
+  "install": "npx -y gitbranch-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seo-thermostat-mcp",
+  "description": "Enables analyzing SEO page performance using data from Google Search Console, Google Analytics, and PostHog to identify weak CTR, decaying rankings, and other issues, providing actionable recommendations.",
+  "source_repo": "mehere14/SEO-Thermostat",
+  "source_url": "https://github.com/mehere14/SEO-Thermostat",
+  "install": "# git clone --depth 1 https://github.com/mehere14/SEO-Thermostat\n# See source for mcpServers config block"
+}

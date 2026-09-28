@@ -1,0 +1,7 @@
+{
+  "name": "figma-query",
+  "description": "Token-efficient Figma MCP server with image export, query DSL, and design token support.",
+  "source_repo": "standardbeagle/figma-query",
+  "source_url": "https://github.com/standardbeagle/figma-query",
+  "install": "# git clone --depth 1 https://github.com/standardbeagle/figma-query\n# See source for mcpServers config block"
+}

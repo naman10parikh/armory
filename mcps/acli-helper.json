@@ -1,0 +1,7 @@
+{
+  "name": "acli-helper",
+  "description": "A multi-agent MCP server that enables AI coding agents (Claude Code, Codex CLI, Gemini CLI) to communicate with each other.",
+  "source_repo": "kts982/acli-helper",
+  "source_url": "https://github.com/kts982/acli-helper",
+  "install": "# git clone --depth 1 https://github.com/kts982/acli-helper\n# See source for mcpServers config block"
+}

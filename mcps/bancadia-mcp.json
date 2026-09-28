@@ -1,0 +1,7 @@
+{
+  "name": "bancadia-mcp",
+  "description": "Bancadia MCP lets AI agents query Bancadia's registry of US business deposit account products with structured filters on fees, APY, entity types, integrations, and more. Agents get real account listings and can recommend products for end users' unique business circumstances.",
+  "source_repo": "Bancadia/bancadia-mcp",
+  "source_url": "https://github.com/Bancadia/bancadia-mcp",
+  "install": "npx -y bancadia-mcp"
+}

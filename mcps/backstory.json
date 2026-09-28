@@ -1,0 +1,7 @@
+{
+  "name": "backstory",
+  "description": "Search your data exports from Google, Telegram, Spotify, and Instagram in one place. Everything runs on your own computer. Hybrid search and MCP, built in .NET 10",
+  "source_repo": "magna-nz/backstory",
+  "source_url": "https://github.com/magna-nz/backstory",
+  "install": "# git clone --depth 1 https://github.com/magna-nz/backstory\n# See source for mcpServers config block"
+}

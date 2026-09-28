@@ -1,0 +1,7 @@
+{
+  "name": "mcp-google-business",
+  "description": "Enables managing Google Business Profiles through natural language: list locations, reply to reviews, create local posts, and fetch performance metrics.",
+  "source_repo": "A1-x-Tech/mcp-google-business",
+  "source_url": "https://github.com/A1-x-Tech/mcp-google-business",
+  "install": "# git clone --depth 1 https://github.com/A1-x-Tech/mcp-google-business\n# See source for mcpServers config block"
+}

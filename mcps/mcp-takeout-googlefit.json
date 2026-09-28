@@ -1,0 +1,7 @@
+{
+  "name": "mcp-takeout-googlefit",
+  "description": "Enables AI assistants to read and analyze Google Fit exported data (activities, daily metrics, workouts, sleep) from Google Takeout, providing tools for queries, resources, and coaching prompts.",
+  "source_repo": "tskxz/mcp-takeout-googlefit",
+  "source_url": "https://github.com/tskxz/mcp-takeout-googlefit",
+  "install": "# git clone --depth 1 https://github.com/tskxz/mcp-takeout-googlefit\n# See source for mcpServers config block"
+}

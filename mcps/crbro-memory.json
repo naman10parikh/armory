@@ -1,0 +1,7 @@
+{
+  "name": "crbro-memory",
+  "description": "A local MCP server that gives AI assistants persistent long-term memory using a biological neural architecture with cortex, synapses, and hippocampus.",
+  "source_repo": "Octonove/crbro-memory",
+  "source_url": "https://github.com/Octonove/crbro-memory",
+  "install": "# git clone --depth 1 https://github.com/Octonove/crbro-memory\n# See source for mcpServers config block"
+}

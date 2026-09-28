@@ -1,0 +1,7 @@
+{
+  "name": "openxe-mcp-server",
+  "description": "Connects OpenXE ERP with AI assistants via MCP, enabling natural language queries to read and write ERP data locally.",
+  "source_repo": "Avatarsia/openxe-mcp-server",
+  "source_url": "https://github.com/Avatarsia/openxe-mcp-server",
+  "install": "npx -y openxe-mcp-server"
+}

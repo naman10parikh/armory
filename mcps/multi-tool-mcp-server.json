@@ -1,0 +1,7 @@
+{
+  "name": "multi-tool-mcp-server",
+  "description": "A Docker-based FastMCP server for dynamic Python code execution with support for multiple MCP clients, automatic validation, runtime installation, and browser automation.",
+  "source_repo": "brguru90/multi_tool_executer_mcp",
+  "source_url": "https://github.com/brguru90/multi_tool_executer_mcp",
+  "install": "npx -y multi_tool_executer_mcp"
+}

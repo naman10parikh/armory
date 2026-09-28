@@ -1,0 +1,7 @@
+{
+  "name": "tracefact-mcp-server",
+  "description": "Read-only MCP server for TraceFact that lets agents list trace runs, fetch run details, and retrieve reliability reports from a local store.",
+  "source_repo": "Alex0AI/tracefact",
+  "source_url": "https://github.com/Alex0AI/tracefact",
+  "install": "# git clone --depth 1 https://github.com/Alex0AI/tracefact\n# See source for mcpServers config block"
+}

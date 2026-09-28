@@ -1,0 +1,7 @@
+{
+  "name": "k-heritage-guide-mcp",
+  "description": "Discovers Korean national heritage, resolves designation numbers, and creates heritage-focused trip plans using official National Heritage Administration data.",
+  "source_repo": "sevuoi/korean-heritage-mcp",
+  "source_url": "https://github.com/sevuoi/korean-heritage-mcp",
+  "install": "npx -y korean-heritage-mcp"
+}

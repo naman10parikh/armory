@@ -1,0 +1,7 @@
+{
+  "name": "changes-memory-mcp",
+  "description": "A local MCP server that stores user-approved corrections, preferences, and reusable criteria in plain Markdown files, with separate global and project memory. It provides tools to list, search, and retrieve relevant criteria to help agents avoid repeating mistakes.",
+  "source_repo": "formonkey/knowledge-memory-mcp",
+  "source_url": "https://github.com/formonkey/knowledge-memory-mcp",
+  "install": "npx -y knowledge-memory-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-maimemo",
+  "description": "Exposes the Maimemo (墨墨背单词) Open API as MCP tools, enabling AI assistants to look up words, manage mnemonics and study plans, and maintain cloud notepads.",
+  "source_repo": "Mrquj/mcp-server-maimemo",
+  "source_url": "https://github.com/Mrquj/mcp-server-maimemo",
+  "install": "# git clone --depth 1 https://github.com/Mrquj/mcp-server-maimemo\n# See source for mcpServers config block"
+}

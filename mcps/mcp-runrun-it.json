@@ -1,0 +1,7 @@
+{
+  "name": "mcp-runrun-it",
+  "description": "Enables managing Runrun.it tasks and comments via the Model Context Protocol, including creating, updating, moving, and tracking tasks, as well as commenting and Discord integration.",
+  "source_repo": "zNetinho/mcp-runrunit",
+  "source_url": "https://github.com/zNetinho/mcp-runrunit",
+  "install": "# git clone --depth 1 https://github.com/zNetinho/mcp-runrunit\n# See source for mcpServers config block"
+}

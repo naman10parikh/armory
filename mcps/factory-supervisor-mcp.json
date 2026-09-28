@@ -1,0 +1,7 @@
+{
+  "name": "factory-supervisor-mcp",
+  "description": "Enables AI assistants to manage factory operations through MCP, providing tools for real-time telemetry, predictive maintenance, inventory forecasting, order estimation, and AI supervisor copilot capabilities.",
+  "source_repo": "Heytish-V/factory-supervisor-mcp",
+  "source_url": "https://github.com/Heytish-V/factory-supervisor-mcp",
+  "install": "npx -y factory-supervisor-mcp"
+}

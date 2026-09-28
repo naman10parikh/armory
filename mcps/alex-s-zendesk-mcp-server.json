@@ -1,0 +1,7 @@
+{
+  "name": "alex-s-zendesk-mcp-server",
+  "description": "Enables interaction with Zendesk to manage tickets, retrieve ticket fields, comments, and priority based on SLA, as well as get unsolved tickets by agent name.",
+  "source_repo": "aleburbridge/alexs-zendesk-mcp-server",
+  "source_url": "https://github.com/aleburbridge/alexs-zendesk-mcp-server",
+  "install": "npx -y alexs-zendesk-mcp-server"
+}

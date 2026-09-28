@@ -1,0 +1,7 @@
+{
+  "name": "mcp-launch-lens",
+  "description": "Scores MCP servers for launch-readiness across trust, tool UX, docs, observability, marketplace fit, and partner narrative, and generates partner briefs and launch path comparisons.",
+  "source_repo": "Niraven/mcp-launch-lens",
+  "source_url": "https://github.com/Niraven/mcp-launch-lens",
+  "install": "# git clone --depth 1 https://github.com/Niraven/mcp-launch-lens\n# See source for mcpServers config block"
+}

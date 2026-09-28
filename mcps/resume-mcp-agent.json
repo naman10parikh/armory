@@ -1,0 +1,7 @@
+{
+  "name": "resume-mcp-agent",
+  "description": "Enables AI clients to manage resumes, match job descriptions, and generate tailored PDF resumes.",
+  "source_repo": "bugparty/resume-mcp-server",
+  "source_url": "https://github.com/bugparty/resume-mcp-server",
+  "install": "npx -y resume-mcp-server"
+}

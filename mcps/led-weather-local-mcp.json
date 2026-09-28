@@ -1,0 +1,7 @@
+{
+  "name": "led-weather-local-mcp",
+  "description": "Enables local control of an LED weather display, allowing users to manage weather data and LED settings through natural language.",
+  "source_repo": "jonico/led-weather-local-mcp",
+  "source_url": "https://github.com/jonico/led-weather-local-mcp",
+  "install": "npx -y led-weather-local-mcp"
+}

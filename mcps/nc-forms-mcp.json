@@ -1,0 +1,7 @@
+{
+  "name": "nc-forms-mcp",
+  "description": "MCP server for the Nextcloud Forms API v3 that enables secure creation, update, cloning, and validation of forms without exposing credentials to the AI agent.",
+  "source_repo": "erniomaldo/nc-forms-mcp",
+  "source_url": "https://github.com/erniomaldo/nc-forms-mcp",
+  "install": "npx -y nc-forms-mcp"
+}

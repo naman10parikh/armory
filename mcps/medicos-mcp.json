@@ -1,0 +1,7 @@
+{
+  "name": "medicos-mcp",
+  "description": "MCP server backend for a hospital medicine reminder app, offering tools for Firebase integration, OCR/parsing, medical intelligence, scheduling, notifications, adherence tracking, and governance with ArmorIQ intent enforcement.",
+  "source_repo": "Unemployed-Nerds/medicos-mcp",
+  "source_url": "https://github.com/Unemployed-Nerds/medicos-mcp",
+  "install": "npx -y medicos-mcp"
+}

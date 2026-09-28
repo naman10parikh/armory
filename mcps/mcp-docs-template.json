@@ -1,0 +1,7 @@
+{
+  "name": "mcp-docs-template",
+  "description": "An MCP server template that indexes markdown documents by heading and enables relevance-ranked full-text search using BM25, with tools to list, fetch, search, and reload documents.",
+  "source_repo": "zero3kw/mcp-docs-template",
+  "source_url": "https://github.com/zero3kw/mcp-docs-template",
+  "install": "# git clone --depth 1 https://github.com/zero3kw/mcp-docs-template\n# See source for mcpServers config block"
+}

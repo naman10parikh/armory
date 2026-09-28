@@ -1,0 +1,7 @@
+{
+  "name": "attestd-mcp",
+  "description": "Enables checking of package vulnerabilities and supply-chain risks using Attestd API. Supports single and batch checks, CVE details, and covered products listing.",
+  "source_repo": "attestd-io/attestd-mcp",
+  "source_url": "https://github.com/attestd-io/attestd-mcp",
+  "install": "npx -y attestd-mcp"
+}

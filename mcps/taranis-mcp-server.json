@@ -1,0 +1,7 @@
+{
+  "name": "taranis-mcp-server",
+  "description": "Read-oriented MCP server for Taranis AI, exposing the list_stories tool over stdio or Streamable HTTP for desktop AI assistants and developer tools.",
+  "source_repo": "taranis-ai/taranis-mcp-server",
+  "source_url": "https://github.com/taranis-ai/taranis-mcp-server",
+  "install": "npx -y taranis-mcp-server"
+}

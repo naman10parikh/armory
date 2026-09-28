@@ -1,0 +1,7 @@
+{
+  "name": "openfga-modeling-mcp-server",
+  "description": "A specialized MCP server that provides expert-level OpenFGA authorization modeling guidance, enabling users to create and manage authorization models for ReBAC systems directly from VS Code.",
+  "source_repo": "aaguiarz/openfga-modeling-mcp",
+  "source_url": "https://github.com/aaguiarz/openfga-modeling-mcp",
+  "install": "npx -y openfga-modeling-mcp"
+}

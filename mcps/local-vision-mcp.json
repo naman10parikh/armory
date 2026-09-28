@@ -1,0 +1,7 @@
+{
+  "name": "local-vision-mcp",
+  "description": "MCP server for local Ollama vision analysis, enabling text-only agents like Claude Code to inspect images via a single tool. Processes images locally with Ollama, keeping image bytes on the machine and returning text reports.",
+  "source_repo": "tmchao7/local-vision-mcp",
+  "source_url": "https://github.com/tmchao7/local-vision-mcp",
+  "install": "npx -y local-vision-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chimeralang-mcp",
+  "description": "Provides Claude with 44 tools for confidence gating, typed outputs, hallucination detection, and constraint enforcement during conversations.",
+  "source_repo": "fernandogarzaaa/chimeralang-mcp",
+  "source_url": "https://github.com/fernandogarzaaa/chimeralang-mcp",
+  "install": "npx -y chimeralang-mcp"
+}

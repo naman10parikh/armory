@@ -1,0 +1,7 @@
+{
+  "name": "videogen-advisor",
+  "description": "A unified MCP server for video generation that intelligently routes requests to HeyGen (for avatar/presenter videos) or Google Veo (for creative/cinematic content).",
+  "source_repo": "m2ai-mcp-servers/mcp-videogen-router",
+  "source_url": "https://github.com/m2ai-mcp-servers/mcp-videogen-router",
+  "install": "# git clone --depth 1 https://github.com/m2ai-mcp-servers/mcp-videogen-router\n# See source for mcpServers config block"
+}

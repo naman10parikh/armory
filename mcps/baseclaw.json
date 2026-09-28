@@ -1,0 +1,7 @@
+{
+  "name": "baseclaw",
+  "description": "Manages Yahoo Fantasy Baseball teams via AI, allowing natural language queries for roster updates, trade analysis, waiver wire, and league insights.",
+  "source_repo": "jweingardt12/BaseClaw",
+  "source_url": "https://github.com/jweingardt12/BaseClaw",
+  "install": "# git clone --depth 1 https://github.com/jweingardt12/BaseClaw\n# See source for mcpServers config block"
+}

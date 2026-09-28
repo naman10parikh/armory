@@ -1,0 +1,7 @@
+{
+  "name": "wmux",
+  "description": "A native Windows terminal multiplexer with MCP bridge for AI agents, enabling browser automation, multi-agent coordination, and terminal control.",
+  "source_repo": "openwong2kim/wmux",
+  "source_url": "https://github.com/openwong2kim/wmux",
+  "install": "# git clone --depth 1 https://github.com/openwong2kim/wmux\n# See source for mcpServers config block"
+}

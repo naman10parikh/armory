@@ -1,0 +1,7 @@
+{
+  "name": "agentsync-remote",
+  "description": "Enables claude.ai on your phone to act as a peer in the agentsync coordination mesh, using GitHub contents API instead of git to read and update claims.json. Provides tools for surveying, claiming, conflict-checking, updating status, releasing, history, and mailbox notes.",
+  "source_repo": "jarmstrong158/agentsync-remote",
+  "source_url": "https://github.com/jarmstrong158/agentsync-remote",
+  "install": "# git clone --depth 1 https://github.com/jarmstrong158/agentsync-remote\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sar-train-mcp",
+  "description": "Provides access to Saudi passenger rail schedules and fares, including Haramain High-Speed Railway and intercity East/North lines, enabling natural language queries for train times and prices.",
+  "source_repo": "RazakGhazal/sar-train-mcp",
+  "source_url": "https://github.com/RazakGhazal/sar-train-mcp",
+  "install": "npx -y sar-train-mcp"
+}

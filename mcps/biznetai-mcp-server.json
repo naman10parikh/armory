@@ -1,0 +1,7 @@
+{
+  "name": "biznetai-mcp-server",
+  "description": "A hosted MCP server that routes natural-language shopping queries to independent merchant storefronts, returning normalized product and merchant results for AI agents and shopping assistants.",
+  "source_repo": "biznetai/biznetai-mcp",
+  "source_url": "https://github.com/biznetai/biznetai-mcp",
+  "install": "npx -y biznetai-mcp"
+}

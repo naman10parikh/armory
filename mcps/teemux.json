@@ -1,0 +1,7 @@
+{
+  "name": "teemux",
+  "description": "Aggregates logs from multiple processes and provides an MCP server for AI agents to access, search, and manage logs in real-time.",
+  "source_repo": "gajus/teemux",
+  "source_url": "https://github.com/gajus/teemux",
+  "install": "# git clone --depth 1 https://github.com/gajus/teemux\n# See source for mcpServers config block"
+}

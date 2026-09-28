@@ -1,0 +1,7 @@
+{
+  "name": "minecraft-ai-mcp",
+  "description": "An MCP server that enables AI agents to play Minecraft with full bot capabilities including pathfinding, block interaction, crafting, combat, and more.",
+  "source_repo": "HarjjotSinghh/minecraft-mcp",
+  "source_url": "https://github.com/HarjjotSinghh/minecraft-mcp",
+  "install": "npx -y minecraft-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nowhere-mcp",
+  "description": "Gives AI a virtual body to explore real locations on Earth using authentic terrain, weather, sky, radio, wildlife, and cultural data, with tools for walking, observing, asking about history, and collecting souvenirs—fully offline-capable.",
+  "source_repo": "zuohang20100323/nowhere-mcp",
+  "source_url": "https://github.com/zuohang20100323/nowhere-mcp",
+  "install": "npx -y nowhere-mcp"
+}

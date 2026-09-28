@@ -1,0 +1,7 @@
+{
+  "name": "sqlite",
+  "description": "Enables MCP clients to interact with pre-registered SQLite databases using aliases, supporting schema inspection, read-only queries, and data modification via tools.",
+  "source_repo": "nao9net/mcp-sqlite",
+  "source_url": "https://github.com/nao9net/mcp-sqlite",
+  "install": "# git clone --depth 1 https://github.com/nao9net/mcp-sqlite\n# See source for mcpServers config block"
+}

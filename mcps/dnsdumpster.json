@@ -1,0 +1,7 @@
+{
+  "name": "dnsdumpster",
+  "description": "A Model Context Protocol (MCP) server for interacting with the DNSDumpster API, enabling AI assistants to perform detailed DNS reconnaissance through natural language requests.",
+  "source_repo": "MaxWeeden/mcp-dnsdumpster",
+  "source_url": "https://github.com/MaxWeeden/mcp-dnsdumpster",
+  "install": "# git clone --depth 1 https://github.com/MaxWeeden/mcp-dnsdumpster\n# See source for mcpServers config block"
+}

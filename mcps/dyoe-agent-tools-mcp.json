@@ -1,0 +1,7 @@
+{
+  "name": "dyoe-agent-tools-mcp",
+  "description": "Pay-per-call tools for AI agents including trust checks, due diligence, market data, and human-verified approvals, settled in USDC on Base via the x402 protocol.",
+  "source_repo": "bjyoe2016/dyoe-agent-tools-mcp",
+  "source_url": "https://github.com/bjyoe2016/dyoe-agent-tools-mcp",
+  "install": "npx -y dyoe-agent-tools-mcp"
+}

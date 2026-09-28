@@ -1,0 +1,7 @@
+{
+  "name": "d365fo-drill-engine",
+  "description": "MCP server for Dynamics 365 Finance & Operations certification prep, enabling interactive drills with accuracy tracking and review.",
+  "source_repo": "AntonTjiptadi/d365fo-drill-engine",
+  "source_url": "https://github.com/AntonTjiptadi/d365fo-drill-engine",
+  "install": "# git clone --depth 1 https://github.com/AntonTjiptadi/d365fo-drill-engine\n# See source for mcpServers config block"
+}

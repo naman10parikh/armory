@@ -1,0 +1,7 @@
+{
+  "name": "neuro-cognitive-engine",
+  "description": "A multi-tenant memory and reasoning substrate for AI agents that provides tenant-isolated, append-only, and auditable memory with vertical business engines for procurement, sales, project management, and more, exposed via MCP and REST.",
+  "source_repo": "sindrehaugen/neuro-cognitive-engine",
+  "source_url": "https://github.com/sindrehaugen/neuro-cognitive-engine",
+  "install": "# git clone --depth 1 https://github.com/sindrehaugen/neuro-cognitive-engine\n# See source for mcpServers config block"
+}

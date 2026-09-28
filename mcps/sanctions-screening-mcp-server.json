@@ -1,0 +1,7 @@
+{
+  "name": "sanctions-screening-mcp-server",
+  "description": "Screens names and companies against OFAC, EU, UK, and UN sanctions lists with fuzzy-match scores, supporting bulk lookups for AML/KYC checks. Data is sourced directly from official government lists and cached for fast repeat checks.",
+  "source_repo": "apifymcpfactory-droid/sanctions-screening-mcp",
+  "source_url": "https://github.com/apifymcpfactory-droid/sanctions-screening-mcp",
+  "install": "npx -y sanctions-screening-mcp"
+}

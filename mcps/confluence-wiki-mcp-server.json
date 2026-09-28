@@ -1,0 +1,7 @@
+{
+  "name": "confluence-wiki-mcp-server",
+  "description": "MCP server for fetching Confluence Wiki content, including pages, search, attachments, comments, and references, with automatic authentication via a managed Chrome profile.",
+  "source_repo": "blantian/fetch_wiki_page",
+  "source_url": "https://github.com/blantian/fetch_wiki_page",
+  "install": "# git clone --depth 1 https://github.com/blantian/fetch_wiki_page\n# See source for mcpServers config block"
+}

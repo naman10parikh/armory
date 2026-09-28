@@ -1,0 +1,7 @@
+{
+  "name": "mpilot",
+  "description": "Unified MCP server for media acquisition, subtitle automation, and agent-run media workflows, enabling downloads via Prowlarr/qBittorrent and subtitle translation/sidecar creation.",
+  "source_repo": "davezfr/mpilot",
+  "source_url": "https://github.com/davezfr/mpilot",
+  "install": "# git clone --depth 1 https://github.com/davezfr/mpilot\n# See source for mcpServers config block"
+}

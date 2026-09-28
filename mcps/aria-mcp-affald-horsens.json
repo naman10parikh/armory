@@ -1,0 +1,7 @@
+{
+  "name": "aria-mcp-affald-horsens",
+  "description": "MCP server that provides household waste collection schedules for Horsens Kommune, Denmark, allowing address search and retrieval of next collection dates or calendars.",
+  "source_repo": "kimhjort/aria-mcp-affald-horsens",
+  "source_url": "https://github.com/kimhjort/aria-mcp-affald-horsens",
+  "install": "# git clone --depth 1 https://github.com/kimhjort/aria-mcp-affald-horsens\n# See source for mcpServers config block"
+}

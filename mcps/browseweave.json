@@ -1,0 +1,7 @@
+{
+  "name": "browseweave",
+  "description": "BrowseWeave enables MCP-compatible AI clients to control and read web pages already open in a real browser, providing semantic views and screenshots as needed.",
+  "source_repo": "xenitV1/browseweave",
+  "source_url": "https://github.com/xenitV1/browseweave",
+  "install": "# git clone --depth 1 https://github.com/xenitV1/browseweave\n# See source for mcpServers config block"
+}

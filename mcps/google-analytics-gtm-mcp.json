@@ -1,0 +1,7 @@
+{
+  "name": "google-analytics-gtm-mcp",
+  "description": "MCP server for Google Analytics 4 and Google Tag Manager with read and write access, providing 40 tools to manage GA4 reports, audiences, and GTM tags, triggers, and variables via natural language.",
+  "source_repo": "burhan29ee/google-analytics-gtm-mcp",
+  "source_url": "https://github.com/burhan29ee/google-analytics-gtm-mcp",
+  "install": "npx -y google-analytics-gtm-mcp"
+}

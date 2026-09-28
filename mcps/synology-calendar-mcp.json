@@ -1,0 +1,7 @@
+{
+  "name": "synology-calendar-mcp",
+  "description": "Enables Claude to manage calendars and todos on a Synology NAS or any CalDAV server, supporting listing, creation, updating, and deletion of events and tasks through natural language conversation.",
+  "source_repo": "sorglos-it/synology-calendar-mcp",
+  "source_url": "https://github.com/sorglos-it/synology-calendar-mcp",
+  "install": "npx -y synology-calendar-mcp"
+}

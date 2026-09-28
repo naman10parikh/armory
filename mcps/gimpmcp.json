@@ -1,0 +1,7 @@
+{
+  "name": "gimpmcp",
+  "description": "An MCP server that allows LLMs to control GIMP programmatically, including images, layers, selections, text, transforms, filters, and arbitrary Script-Fu code.",
+  "source_repo": "SavithOnline/GimpMCP",
+  "source_url": "https://github.com/SavithOnline/GimpMCP",
+  "install": "# git clone --depth 1 https://github.com/SavithOnline/GimpMCP\n# See source for mcpServers config block"
+}

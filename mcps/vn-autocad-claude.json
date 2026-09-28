@@ -1,0 +1,7 @@
+{
+  "name": "vn-autocad-claude",
+  "description": "Enables Claude to control AutoCAD—draw, edit, query, layers, blocks, annotations, screenshots, plot to PDF—using plain language.",
+  "source_repo": "andyluu98/vn-autocad-claude",
+  "source_url": "https://github.com/andyluu98/vn-autocad-claude",
+  "install": "# git clone --depth 1 https://github.com/andyluu98/vn-autocad-claude\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "genexus-mcp-server",
+  "description": "Lets AI agents read, edit, analyze, and refactor objects inside a GeneXus 18 Knowledge Base via the native SDK.",
+  "source_repo": "lennix1337/Genexus18MCP",
+  "source_url": "https://github.com/lennix1337/Genexus18MCP",
+  "install": "# git clone --depth 1 https://github.com/lennix1337/Genexus18MCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "filezop",
+  "description": "Exposes file system operations to AI clients via MCP, enabling secure read, write, and management of files and folders.",
+  "source_repo": "Jefreesujit/filezop",
+  "source_url": "https://github.com/Jefreesujit/filezop",
+  "install": "# git clone --depth 1 https://github.com/Jefreesujit/filezop\n# See source for mcpServers config block"
+}

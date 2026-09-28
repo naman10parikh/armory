@@ -1,0 +1,7 @@
+{
+  "name": "lends-mcp-server",
+  "description": "Enables interaction with the LENDS protocol for lending, borrowing, PSM conversion, and staking, providing read-only tools and unsigned transaction construction without private key handling.",
+  "source_repo": "LendsProtocol/lends-mcp-server",
+  "source_url": "https://github.com/LendsProtocol/lends-mcp-server",
+  "install": "npx -y lends-mcp-server"
+}

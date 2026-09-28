@@ -1,0 +1,7 @@
+{
+  "name": "seedance-2-5-mcp-server",
+  "description": "MCP server for generating Seedance 2.5 videos via MuAPI, enabling text-to-video, image-to-video, first/last frame, and omni reference workflows with 720p/480p resolution selection.",
+  "source_repo": "Anil-matcha/seedance-2.5-mcp",
+  "source_url": "https://github.com/Anil-matcha/seedance-2.5-mcp",
+  "install": "npx -y seedance-2.5-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cerase-search-mcp",
+  "description": "Enables web search and deep multi-source research for Cerase agents via LiteLLM proxy, with billing attribution per agent.",
+  "source_repo": "cerase-ai/cerase-search-mcp",
+  "source_url": "https://github.com/cerase-ai/cerase-search-mcp",
+  "install": "npx -y cerase-search-mcp"
+}

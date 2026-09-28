@@ -1,0 +1,7 @@
+{
+  "name": "sellfox-mcp",
+  "description": "Enables AI assistants to query and analyze Amazon seller data from Sellfox, including sales, advertising, profits, inventory, and reviews, through natural language.",
+  "source_repo": "shuolol/sellfox-mcp",
+  "source_url": "https://github.com/shuolol/sellfox-mcp",
+  "install": "npx -y sellfox-mcp"
+}

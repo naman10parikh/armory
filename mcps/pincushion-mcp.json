@@ -1,0 +1,7 @@
+{
+  "name": "pincushion-mcp",
+  "description": "Visual feedback as agent work packets: stakeholders pin on your live app and your AI coding agent reads each pin (selector, screenshot, DOM, thread, acceptance criteria) via MCP and ships the fix.",
+  "source_repo": "jcooley8/pincushion-plugin",
+  "source_url": "https://github.com/jcooley8/pincushion-plugin",
+  "install": "# git clone --depth 1 https://github.com/jcooley8/pincushion-plugin\n# See source for mcpServers config block"
+}

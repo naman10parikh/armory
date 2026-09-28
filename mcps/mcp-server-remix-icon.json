@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-remix-icon",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/mcp-server-remix-icon",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-remix-icon\n# See source for mcpServers config block"
+}

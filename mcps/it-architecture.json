@@ -1,0 +1,7 @@
+{
+  "name": "it-architecture",
+  "description": "An MCP server that generates standalone SVG architecture diagrams from text descriptions, running entirely on your machine with no dependencies or network access.",
+  "source_repo": "slajzad/mcp-architecture",
+  "source_url": "https://github.com/slajzad/mcp-architecture",
+  "install": "# git clone --depth 1 https://github.com/slajzad/mcp-architecture\n# See source for mcpServers config block"
+}

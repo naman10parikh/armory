@@ -1,0 +1,7 @@
+{
+  "name": "kali-mcp-2",
+  "description": "Enables AI assistants to perform penetration testing by running real Kali Linux security tools and returning structured, verified findings instead of raw terminal output.",
+  "source_repo": "Neeraj829784/kali-mcp",
+  "source_url": "https://github.com/Neeraj829784/kali-mcp",
+  "install": "npx -y kali-mcp"
+}

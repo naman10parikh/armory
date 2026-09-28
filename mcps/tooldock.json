@@ -1,0 +1,7 @@
+{
+  "name": "tooldock",
+  "description": "Exposes a typed Python function as a CLI command, REST endpoint, and MCP tool without adding transport code.",
+  "source_repo": "jaytyagiwithai-wq/tooldock_1.0",
+  "source_url": "https://github.com/jaytyagiwithai-wq/tooldock_1.0",
+  "install": "# git clone --depth 1 https://github.com/jaytyagiwithai-wq/tooldock_1.0\n# See source for mcpServers config block"
+}

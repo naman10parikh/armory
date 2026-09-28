@@ -1,0 +1,7 @@
+{
+  "name": "opencontext",
+  "description": "Enables querying open data platforms like CKAN via natural language. Provides a configurable MCP server with plugins for different data sources.",
+  "source_repo": "codeforanchorage/anchorage-ecode-mcp",
+  "source_url": "https://github.com/codeforanchorage/anchorage-ecode-mcp",
+  "install": "npx -y anchorage-ecode-mcp"
+}

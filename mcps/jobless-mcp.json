@@ -1,0 +1,7 @@
+{
+  "name": "jobless-mcp",
+  "description": "Personalized job search inside Claude. Get ranked job matches based on your actual skills, not keywords.",
+  "source_repo": "bendza/jobless-mcp",
+  "source_url": "https://github.com/bendza/jobless-mcp",
+  "install": "npx -y jobless-mcp"
+}

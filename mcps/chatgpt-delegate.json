@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-delegate",
+  "description": "Enables Codex to delegate deep research, PRD drafting, design thinking, and current-information lookups to ChatGPT Web/App via a local MCP connector, saving Markdown results to the filesystem.",
+  "source_repo": "longbiaochen/chatgpt-delegate",
+  "source_url": "https://github.com/longbiaochen/chatgpt-delegate",
+  "install": "# git clone --depth 1 https://github.com/longbiaochen/chatgpt-delegate\n# See source for mcpServers config block"
+}

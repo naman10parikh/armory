@@ -1,0 +1,7 @@
+{
+  "name": "engineering-drawing-estimator",
+  "description": "An MCP server for counting electrical and communication symbols in engineering PDF drawings, supporting symbol detection, candidate review, and export of markup and quantities.",
+  "source_repo": "anekhirun/ai-engineering-drawing-estimator",
+  "source_url": "https://github.com/anekhirun/ai-engineering-drawing-estimator",
+  "install": "# git clone --depth 1 https://github.com/anekhirun/ai-engineering-drawing-estimator\n# See source for mcpServers config block"
+}

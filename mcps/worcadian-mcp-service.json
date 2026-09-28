@@ -1,0 +1,7 @@
+{
+  "name": "worcadian-mcp-service",
+  "description": "Exposes three tools from the Worcadian JSON-RPC game server API (check_wordlist, gameday, results) as an MCP server using FastAPI, designed for deployment on Vercel.",
+  "source_repo": "whatgamestudios/mcp",
+  "source_url": "https://github.com/whatgamestudios/mcp",
+  "install": "# git clone --depth 1 https://github.com/whatgamestudios/mcp\n# See source for mcpServers config block"
+}

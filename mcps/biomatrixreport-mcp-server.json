@@ -1,0 +1,7 @@
+{
+  "name": "biomatrixreport-mcp-server",
+  "description": "Exposes BioMatrixReport APIs as MCP tools for querying employee details, sending WFO attendance report emails, and syncing biometric attendance data via natural language.",
+  "source_repo": "priyankapsi/test-biometric-mcp",
+  "source_url": "https://github.com/priyankapsi/test-biometric-mcp",
+  "install": "npx -y test-biometric-mcp"
+}

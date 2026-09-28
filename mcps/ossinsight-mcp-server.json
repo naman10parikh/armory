@@ -1,0 +1,7 @@
+{
+  "name": "ossinsight-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for querying GitHub repository analytics from OSSInsight, providing repo metadata, trending repos, curated collections, search, compare, and collection rankings without an API key.",
+  "source_repo": "GeniusTechnoMystic/ossinsight-mcp",
+  "source_url": "https://github.com/GeniusTechnoMystic/ossinsight-mcp",
+  "install": "npx -y ossinsight-mcp"
+}

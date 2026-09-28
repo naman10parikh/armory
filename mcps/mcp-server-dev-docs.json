@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-dev-docs",
+  "description": "Provides live, clean, LLM-ready markdown documentation for popular fullstack technologies and custom URLs, with built-in presets for React, Next.js, TypeScript, and more.",
+  "source_repo": "Orel-Toledano/mcp-server-dev-docs",
+  "source_url": "https://github.com/Orel-Toledano/mcp-server-dev-docs",
+  "install": "# git clone --depth 1 https://github.com/Orel-Toledano/mcp-server-dev-docs\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dad-jokes-mcp",
+  "description": "Enables fetching and managing dad jokes with tools for random jokes, multiple jokes, categories, and persistent storage.",
+  "source_repo": "MichaelGNielsen/dad-jokes-mcp",
+  "source_url": "https://github.com/MichaelGNielsen/dad-jokes-mcp",
+  "install": "npx -y dad-jokes-mcp"
+}

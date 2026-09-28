@@ -1,0 +1,7 @@
+{
+  "name": "memory-mcp-redis-stack-backend",
+  "description": "A drop-in replacement for mcp-memory-duckdb with full concurrent access support using Redis Stack. Enables persistent knowledge graph storage with full-text search and multi-session concurrent access.",
+  "source_repo": "BakeMark/mcp-memory-redis",
+  "source_url": "https://github.com/BakeMark/mcp-memory-redis",
+  "install": "# git clone --depth 1 https://github.com/BakeMark/mcp-memory-redis\n# See source for mcpServers config block"
+}

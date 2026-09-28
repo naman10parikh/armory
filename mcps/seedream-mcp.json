@@ -1,0 +1,7 @@
+{
+  "name": "seedream-mcp",
+  "description": "Enables creating, polling, and checking pricing for Seedream image generation tasks (edit and text-to-image) through a single RunAPI API key.",
+  "source_repo": "runapi-ai/seedream-mcp",
+  "source_url": "https://github.com/runapi-ai/seedream-mcp",
+  "install": "npx -y seedream-mcp"
+}

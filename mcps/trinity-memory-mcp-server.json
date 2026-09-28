@@ -1,0 +1,7 @@
+{
+  "name": "trinity-memory-mcp-server",
+  "description": "A high-performance persistent memory layer for AI agents with multi-modal support, 47 retrieval channels, and 50-tier guardian chains, integrating 12+ memory approaches into a unified architecture.",
+  "source_repo": "trinity-tick/trinity",
+  "source_url": "https://github.com/trinity-tick/trinity",
+  "install": "# git clone --depth 1 https://github.com/trinity-tick/trinity\n# See source for mcpServers config block"
+}

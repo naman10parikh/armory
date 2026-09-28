@@ -1,0 +1,7 @@
+{
+  "name": "google-analytics-4-admin-mcp",
+  "description": "Manages Google Analytics 4 accounts, properties, annotations, audiences, and custom dimensions through the MCP protocol.",
+  "source_repo": "jmchat/mcp-ga4-admin-ts",
+  "source_url": "https://github.com/jmchat/mcp-ga4-admin-ts",
+  "install": "# git clone --depth 1 https://github.com/jmchat/mcp-ga4-admin-ts\n# See source for mcpServers config block"
+}

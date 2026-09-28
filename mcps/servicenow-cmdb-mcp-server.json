@@ -1,0 +1,7 @@
+{
+  "name": "servicenow-cmdb-mcp-server",
+  "description": "A read-only MCP server that enables searching and listing ServiceNow configuration items, reading direct CI relationships, and traversing the relationship graph up to a controlled depth.",
+  "source_repo": "vinayulli/ServiceNow-MCP-Server",
+  "source_url": "https://github.com/vinayulli/ServiceNow-MCP-Server",
+  "install": "npx -y ServiceNow-MCP-Server"
+}

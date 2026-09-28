@@ -1,0 +1,7 @@
+{
+  "name": "atlas-scout",
+  "description": "Atlas Scout is a local, read-only MCP server for structural code navigation. It builds a disposable SQLite index inside each workspace and provides definitions, source ranges, references, call relationships, architecture summaries, and edit-impact evidence to coding agents.",
+  "source_repo": "ZaguanLabs/atlas-scout-mcp",
+  "source_url": "https://github.com/ZaguanLabs/atlas-scout-mcp",
+  "install": "npx -y atlas-scout-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-security-mcp",
+  "description": "Security scanning, prompt injection detection, secret leak detection, and agent permission auditing for AI agent workflows.",
+  "source_repo": "mdfifty50-boop/agent-security-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/agent-security-mcp",
+  "install": "npx -y agent-security-mcp"
+}

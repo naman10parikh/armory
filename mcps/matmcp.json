@@ -1,0 +1,7 @@
+{
+  "name": "matmcp",
+  "description": "Enables LLM agents to run verified DFT materials workflows (structure fetch, relaxation, band/DOS) with automated convergence gates and physics validation, ensuring every result is machine-verified with a complete evidence trail.",
+  "source_repo": "Crystalhihihi/matmcp",
+  "source_url": "https://github.com/Crystalhihihi/matmcp",
+  "install": "# git clone --depth 1 https://github.com/Crystalhihihi/matmcp\n# See source for mcpServers config block"
+}

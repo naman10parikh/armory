@@ -1,0 +1,7 @@
+{
+  "name": "bd-explore",
+  "description": "Enables AI agents to query a beads store for issues, notes, comments, and memories, returning full verbatim content and relationship neighborhoods under an output budget.",
+  "source_repo": "halaprix/bd-explore",
+  "source_url": "https://github.com/halaprix/bd-explore",
+  "install": "# git clone --depth 1 https://github.com/halaprix/bd-explore\n# See source for mcpServers config block"
+}

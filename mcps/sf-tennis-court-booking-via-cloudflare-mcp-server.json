@@ -1,0 +1,7 @@
+{
+  "name": "sf-tennis-court-booking-via-cloudflare-mcp-server",
+  "description": "Automates tennis court bookings on San Francisco Recreation websites using browser automation, with tools to check availability, initiate booking with SMS verification, and complete bookings.",
+  "source_repo": "elizabethsiegle/rec-us-mcp-server",
+  "source_url": "https://github.com/elizabethsiegle/rec-us-mcp-server",
+  "install": "npx -y rec-us-mcp-server"
+}

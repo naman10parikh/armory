@@ -1,0 +1,7 @@
+{
+  "name": "suncreation-mcp-google-docs",
+  "description": "MCP server for Google Docs, Sheets & Drive with full formatting support.",
+  "source_repo": "SunCreation/mcp-google-docs",
+  "source_url": "https://github.com/SunCreation/mcp-google-docs",
+  "install": "# git clone --depth 1 https://github.com/SunCreation/mcp-google-docs\n# See source for mcpServers config block"
+}

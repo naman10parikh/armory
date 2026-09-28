@@ -1,0 +1,7 @@
+{
+  "name": "clawops",
+  "description": "MCP-native infrastructure ops for deploying and managing self-hosted OpenClaw instances across cloud providers or local VMs, with read-only mode, destructive-action confirmation, and audit logs.",
+  "source_repo": "dfridkin/clawops",
+  "source_url": "https://github.com/dfridkin/clawops",
+  "install": "# git clone --depth 1 https://github.com/dfridkin/clawops\n# See source for mcpServers config block"
+}

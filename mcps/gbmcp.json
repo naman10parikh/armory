@@ -1,0 +1,7 @@
+{
+  "name": "gbmcp",
+  "description": "A Python stdio MCP server for querying standards metadata and downloading public standard documents from supported sources.",
+  "source_repo": "LoyDgIk/GBMCP",
+  "source_url": "https://github.com/LoyDgIk/GBMCP",
+  "install": "# git clone --depth 1 https://github.com/LoyDgIk/GBMCP\n# See source for mcpServers config block"
+}

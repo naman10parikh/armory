@@ -1,0 +1,7 @@
+{
+  "name": "hut-reservation-mcp",
+  "description": "Enables searching SAC huts, checking availability, and preparing booking or cancellation handoffs on hut-reservation.org with a safety model for writes.",
+  "source_repo": "domwoe/hut-reservation-mcp",
+  "source_url": "https://github.com/domwoe/hut-reservation-mcp",
+  "install": "npx -y hut-reservation-mcp"
+}

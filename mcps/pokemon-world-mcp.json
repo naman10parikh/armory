@@ -1,0 +1,7 @@
+{
+  "name": "pokemon-world-mcp",
+  "description": "Enables exploring a small map, battling and catching real-named Pokémon via MCP tools. Players start with a starter and collect species, with progression and evolution.",
+  "source_repo": "mz038197/pokemon-world-mcp",
+  "source_url": "https://github.com/mz038197/pokemon-world-mcp",
+  "install": "npx -y pokemon-world-mcp"
+}

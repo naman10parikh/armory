@@ -1,0 +1,7 @@
+{
+  "name": "jamgate",
+  "description": "A neutral memory quality-gate for AI agents — a gate, not a store. It provides one shared memory of you that every AI agent reads from and writes to, kept honest at write time.",
+  "source_repo": "amirj4m/jamgate",
+  "source_url": "https://github.com/amirj4m/jamgate",
+  "install": "# git clone --depth 1 https://github.com/amirj4m/jamgate\n# See source for mcpServers config block"
+}

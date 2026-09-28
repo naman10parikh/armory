@@ -1,0 +1,7 @@
+{
+  "name": "turso-mcp-server",
+  "description": "Enables SQL queries, table listing, schema description, and data retrieval with pagination on Turso (libSQL) databases.",
+  "source_repo": "gamzadongza/turso-mcp-server",
+  "source_url": "https://github.com/gamzadongza/turso-mcp-server",
+  "install": "npx -y turso-mcp-server"
+}

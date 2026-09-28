@@ -1,0 +1,7 @@
+{
+  "name": "winauto-mcp",
+  "description": "MCP server that lets an LLM see and drive any running Windows app: attach a window, screenshot it, read its UI Automation tree, and send clicks, typed text, and key presses with pixel coordinates.",
+  "source_repo": "PingPong2534/winauto-mcp",
+  "source_url": "https://github.com/PingPong2534/winauto-mcp",
+  "install": "npx -y winauto-mcp"
+}

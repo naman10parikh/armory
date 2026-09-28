@@ -1,0 +1,7 @@
+{
+  "name": "agent-mesh-mcp-server",
+  "description": "Enables coordinating specialist agents through an event-driven backend, allowing submission of goals, retrieval of job status and results, and listing of jobs via MCP tools.",
+  "source_repo": "prathamesh-git9/agent-mesh",
+  "source_url": "https://github.com/prathamesh-git9/agent-mesh",
+  "install": "# git clone --depth 1 https://github.com/prathamesh-git9/agent-mesh\n# See source for mcpServers config block"
+}

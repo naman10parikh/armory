@@ -1,0 +1,7 @@
+{
+  "name": "agent-venue-radar",
+  "description": "A dependency-free MCP server that evaluates paid-work marketplaces using six deterministic signals, offering read-only tools to check, recommend, list, and evaluate venues for AI agents.",
+  "source_repo": "ItzxFin2323/agent-venue-radar",
+  "source_url": "https://github.com/ItzxFin2323/agent-venue-radar",
+  "install": "# git clone --depth 1 https://github.com/ItzxFin2323/agent-venue-radar\n# See source for mcpServers config block"
+}

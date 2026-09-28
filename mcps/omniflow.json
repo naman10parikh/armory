@@ -1,0 +1,7 @@
+{
+  "name": "omniflow",
+  "description": "Enables AI clients to automate Windows desktop applications through window manipulation, image recognition, OCR, keyboard/mouse simulation, and memory operations via the MCP protocol.",
+  "source_repo": "huppugo1/OmniFlow",
+  "source_url": "https://github.com/huppugo1/OmniFlow",
+  "install": "# git clone --depth 1 https://github.com/huppugo1/OmniFlow\n# See source for mcpServers config block"
+}

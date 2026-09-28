@@ -1,0 +1,7 @@
+{
+  "name": "ds-web-local",
+  "description": "Pluggable local agent capability hub that gives web-based DeepSeek local Agent capabilities (MCP/file operations/skills/desktop automation) and lets local agents reuse the same tools.",
+  "source_repo": "cute-aaa/ds-web-local",
+  "source_url": "https://github.com/cute-aaa/ds-web-local",
+  "install": "# git clone --depth 1 https://github.com/cute-aaa/ds-web-local\n# See source for mcpServers config block"
+}

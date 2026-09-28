@@ -1,0 +1,7 @@
+{
+  "name": "aishield",
+  "description": "Scans MCP servers and AI tools for security risks, providing 4-dimensional scoring and badges, with optional guardrail MCP for auto-protection.",
+  "source_repo": "lm203688/aishield",
+  "source_url": "https://github.com/lm203688/aishield",
+  "install": "# git clone --depth 1 https://github.com/lm203688/aishield\n# See source for mcpServers config block"
+}

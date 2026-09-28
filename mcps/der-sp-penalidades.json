@@ -1,0 +1,7 @@
+{
+  "name": "der-sp-penalidades",
+  "description": "Read-only MCP server to query official DER SP penalty data, with pay-per-use credits and works with any MCP client.",
+  "source_repo": "mcp-dir/der_sp_penalidades-mcp",
+  "source_url": "https://github.com/mcp-dir/der_sp_penalidades-mcp",
+  "install": "npx -y der_sp_penalidades-mcp"
+}

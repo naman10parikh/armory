@@ -1,0 +1,7 @@
+{
+  "name": "taibai-mcp-server",
+  "description": "Enables access to Dedao learning platform courses, transcripts, and comments, with Obsidian integration.",
+  "source_repo": "terry-li-hm/taibai",
+  "source_url": "https://github.com/terry-li-hm/taibai",
+  "install": "# git clone --depth 1 https://github.com/terry-li-hm/taibai\n# See source for mcpServers config block"
+}

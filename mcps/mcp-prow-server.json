@@ -1,0 +1,7 @@
+{
+  "name": "mcp-prow-server",
+  "description": "Enables users to interact with Prow CI/CD systems, retrieving build logs and diagnosing PR build issues through natural language.",
+  "source_repo": "redhat-community-ai-tools/prow-mcp-server",
+  "source_url": "https://github.com/redhat-community-ai-tools/prow-mcp-server",
+  "install": "npx -y prow-mcp-server"
+}

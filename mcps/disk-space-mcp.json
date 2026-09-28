@@ -1,0 +1,7 @@
+{
+  "name": "disk-space-mcp",
+  "description": "Enables checking and validating disk space usage via a single tool, reporting total, used, and available space with optional free space thresholds.",
+  "source_repo": "fjmn2001/disk-space-mcp",
+  "source_url": "https://github.com/fjmn2001/disk-space-mcp",
+  "install": "npx -y disk-space-mcp"
+}

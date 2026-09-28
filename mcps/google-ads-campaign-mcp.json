@@ -1,0 +1,7 @@
+{
+  "name": "google-ads-campaign-mcp",
+  "description": "MCP server for managing Google Ads campaigns through the official Google Ads API, covering accounts, campaigns, budgets, keywords, search terms, and keyword ideas. It provides tools for both reading and mutating live ads data, such as pausing campaigns, updating budgets, and adding keywords.",
+  "source_repo": "clientskatbi/google-ads-campaign-mcp",
+  "source_url": "https://github.com/clientskatbi/google-ads-campaign-mcp",
+  "install": "npx -y google-ads-campaign-mcp"
+}

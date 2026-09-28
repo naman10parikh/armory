@@ -1,0 +1,7 @@
+{
+  "name": "gacasemcp",
+  "description": "MCP server for the Georgia Department of Education SuitCASE API, enabling AI assistants to search, fetch, and parse Georgia learning standards, course codes, CTAE clusters, and pathways.",
+  "source_repo": "kosburn0408/gacaseMCP",
+  "source_url": "https://github.com/kosburn0408/gacaseMCP",
+  "install": "# git clone --depth 1 https://github.com/kosburn0408/gacaseMCP\n# See source for mcpServers config block"
+}

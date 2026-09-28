@@ -1,0 +1,7 @@
+{
+  "name": "drin-mcp-server",
+  "description": "Enables MCP-capable agents to send, receive, and manage email, including domains, inboxes, contacts, templates, webhooks, and delivery metrics, through the Drin API.",
+  "source_repo": "ATOM00blue/drin-mcp",
+  "source_url": "https://github.com/ATOM00blue/drin-mcp",
+  "install": "npx -y drin-mcp"
+}

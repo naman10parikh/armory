@@ -1,0 +1,7 @@
+{
+  "name": "slm-mesh",
+  "description": "Enables peer-to-peer communication, discovery, shared state, and file coordination between AI coding agents across machines and sessions.",
+  "source_repo": "qualixar/slm-mesh",
+  "source_url": "https://github.com/qualixar/slm-mesh",
+  "install": "# git clone --depth 1 https://github.com/qualixar/slm-mesh\n# See source for mcpServers config block"
+}

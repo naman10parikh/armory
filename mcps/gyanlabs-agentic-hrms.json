@@ -1,0 +1,7 @@
+{
+  "name": "gyanlabs-agentic-hrms",
+  "description": "MCP server enabling AI assistants to autonomously manage HR tasks including employee onboarding, leave tracking, IT provisioning, meeting scheduling, and policy lookup via natural language.",
+  "source_repo": "Harish-Mathematican/GyanLabs-Agentic-HRMS",
+  "source_url": "https://github.com/Harish-Mathematican/GyanLabs-Agentic-HRMS",
+  "install": "# git clone --depth 1 https://github.com/Harish-Mathematican/GyanLabs-Agentic-HRMS\n# See source for mcpServers config block"
+}

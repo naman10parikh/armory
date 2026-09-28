@@ -1,0 +1,7 @@
+{
+  "name": "orca-mcp",
+  "description": "Wraps the OrcaSlicer CLI to enable AI agents to slice 3D models, run parameter sweeps, and analyze G-code.",
+  "source_repo": "jeff-roche/orca-mcp",
+  "source_url": "https://github.com/jeff-roche/orca-mcp",
+  "install": "npx -y orca-mcp"
+}

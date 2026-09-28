@@ -1,0 +1,7 @@
+{
+  "name": "hop-mcp",
+  "description": "Manages parallel Git worktrees, enabling work on multiple branches simultaneously without stashing or context switching.",
+  "source_repo": "maciej-w/hop-mcp",
+  "source_url": "https://github.com/maciej-w/hop-mcp",
+  "install": "npx -y hop-mcp"
+}

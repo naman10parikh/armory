@@ -1,0 +1,7 @@
+{
+  "name": "senior-analyst",
+  "description": "A business analysis MCP server with financial data, industry modeling, valuation models, and adversarial review for deep company and sector analysis.",
+  "source_repo": "rrred0324/senior-analyst",
+  "source_url": "https://github.com/rrred0324/senior-analyst",
+  "install": "# git clone --depth 1 https://github.com/rrred0324/senior-analyst\n# See source for mcpServers config block"
+}

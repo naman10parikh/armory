@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-portugal-payments-mcp",
+  "description": "Enables AI agents to accept payments in Portugal (Multibanco, cards, Apple Pay) via Stripe hosted checkout.",
+  "source_repo": "junter1989k-ai/portugal-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/portugal-payments-mcp",
+  "install": "npx -y portugal-payments-mcp"
+}

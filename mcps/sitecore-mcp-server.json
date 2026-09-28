@@ -1,0 +1,7 @@
+{
+  "name": "sitecore-mcp-server",
+  "description": "An MCP server that provides AI agents with direct read/write access to Sitecore CMS through 100+ tools across Item Service, GraphQL, and PowerShell APIs.",
+  "source_repo": "motorfunnydev/sitecore-mcp-server",
+  "source_url": "https://github.com/motorfunnydev/sitecore-mcp-server",
+  "install": "npx -y sitecore-mcp-server"
+}

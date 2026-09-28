@@ -1,0 +1,7 @@
+{
+  "name": "kiwoom-private-mcp-server",
+  "description": "Enables querying Kiwoom Securities account information and portfolio evaluation through MCP tools, supporting account balance and holdings analysis.",
+  "source_repo": "moony211/kiwoom-private-mcp-server",
+  "source_url": "https://github.com/moony211/kiwoom-private-mcp-server",
+  "install": "npx -y kiwoom-private-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vulnerable-mcp-server",
+  "description": "A deliberately insecure MCP server designed as a pentest lab to demonstrate common vulnerabilities in MCP deployments.",
+  "source_repo": "JoyGhoshs/vulnerable-mcp-server",
+  "source_url": "https://github.com/JoyGhoshs/vulnerable-mcp-server",
+  "install": "npx -y vulnerable-mcp-server"
+}

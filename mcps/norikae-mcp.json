@@ -1,0 +1,7 @@
+{
+  "name": "norikae-mcp",
+  "description": "MCP server for searching Japanese train routes using Yahoo! Transit data, enabling station-to-station route planning with optional via stations, time specifications, and fare options.",
+  "source_repo": "tysonwu/norikae-mcp",
+  "source_url": "https://github.com/tysonwu/norikae-mcp",
+  "install": "npx -y norikae-mcp"
+}

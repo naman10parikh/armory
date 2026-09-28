@@ -1,0 +1,7 @@
+{
+  "name": "adam-os-mcp-server",
+  "description": "Enables restaurant management through natural language, allowing import of Toast CSV data, labor/sales analysis, tip pool calculations, task management, and note-taking.",
+  "source_repo": "adamperna74/ADAM-OS-MCP",
+  "source_url": "https://github.com/adamperna74/ADAM-OS-MCP",
+  "install": "npx -y ADAM-OS-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "armorcode-mcp",
+  "description": "MCP server for ArmorCode security platform enabling finding triage, scans, exceptions, risk scores, and release gate checks via natural language.",
+  "source_repo": "raviraj-ntp/armorcode-mcp",
+  "source_url": "https://github.com/raviraj-ntp/armorcode-mcp",
+  "install": "npx -y armorcode-mcp"
+}

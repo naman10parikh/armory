@@ -1,0 +1,7 @@
+{
+  "name": "agentic-mcp-solution",
+  "description": "A modular backend that connects language models to real-world tools like Gmail and Google Docs via MCP server abstractions, enabling agentic workflows with LLM reasoning and secure OAuth integration.",
+  "source_repo": "Westace10/agentic-mcp-solution",
+  "source_url": "https://github.com/Westace10/agentic-mcp-solution",
+  "install": "# git clone --depth 1 https://github.com/Westace10/agentic-mcp-solution\n# See source for mcpServers config block"
+}

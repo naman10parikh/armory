@@ -1,0 +1,7 @@
+{
+  "name": "mcp-create-enhanced",
+  "description": "An enhanced dynamic MCP server management service that creates, runs, and manages Model Context Protocol servers with multi-language support and strict parameter validation.",
+  "source_repo": "PlumyCat/mcp-create-enhanced",
+  "source_url": "https://github.com/PlumyCat/mcp-create-enhanced",
+  "install": "# git clone --depth 1 https://github.com/PlumyCat/mcp-create-enhanced\n# See source for mcpServers config block"
+}

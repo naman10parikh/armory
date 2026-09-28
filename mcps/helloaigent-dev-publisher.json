@@ -1,0 +1,7 @@
+{
+  "name": "helloaigent-dev-publisher",
+  "description": "MCP server for running a publisher's feed, enabling agents to create feeds, publish signed updates, and read analytics.",
+  "source_repo": "akillam/helloaigent-publisher",
+  "source_url": "https://github.com/akillam/helloaigent-publisher",
+  "install": "# git clone --depth 1 https://github.com/akillam/helloaigent-publisher\n# See source for mcpServers config block"
+}

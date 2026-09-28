@@ -1,0 +1,7 @@
+{
+  "name": "browserbuddy",
+  "description": "An MCP server that turns your real Chrome or Firefox browser into a shared space with an AI assistant, enabling it to act, observe, wait for you, collaborate step-by-step, and learn tasks from demonstrations.",
+  "source_repo": "smm-h/browserbuddy",
+  "source_url": "https://github.com/smm-h/browserbuddy",
+  "install": "# git clone --depth 1 https://github.com/smm-h/browserbuddy\n# See source for mcpServers config block"
+}

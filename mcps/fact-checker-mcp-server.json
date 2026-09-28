@@ -1,0 +1,7 @@
+{
+  "name": "fact-checker-mcp-server",
+  "description": "Enables verification of simple factual claims (e.g., capital cities) by checking against Wikidata, returning accuracy and confidence scores.",
+  "source_repo": "devshark/fact-checker-mcp",
+  "source_url": "https://github.com/devshark/fact-checker-mcp",
+  "install": "npx -y fact-checker-mcp"
+}

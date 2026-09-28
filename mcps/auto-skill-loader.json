@@ -1,0 +1,7 @@
+{
+  "name": "auto-skill-loader",
+  "description": "Enables AI agents to auto-load a persistent skill library at session start, and provides proxy tools for MiniMax vision and web search that work around broken MCP stdio transports.",
+  "source_repo": "divitkashyap/auto-skill-loader",
+  "source_url": "https://github.com/divitkashyap/auto-skill-loader",
+  "install": "# git clone --depth 1 https://github.com/divitkashyap/auto-skill-loader\n# See source for mcpServers config block"
+}

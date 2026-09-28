@@ -1,0 +1,7 @@
+{
+  "name": "navmcp",
+  "description": "A browser automation MCP server that enables web page interaction, content extraction, and academic search via Selenium and FastMCP.",
+  "source_repo": "jianlins/navmcp",
+  "source_url": "https://github.com/jianlins/navmcp",
+  "install": "# git clone --depth 1 https://github.com/jianlins/navmcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qq-bot-sender-mcp",
+  "description": "Enables sending text, Markdown, images, and files to individual QQ contacts via MCP protocol, suitable for pushing task results, screenshots, or documents to QQ.",
+  "source_repo": "hiwow/qq-bot-sender-mcp",
+  "source_url": "https://github.com/hiwow/qq-bot-sender-mcp",
+  "install": "npx -y qq-bot-sender-mcp"
+}

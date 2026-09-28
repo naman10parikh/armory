@@ -1,0 +1,7 @@
+{
+  "name": "researchtwin-mcp-server",
+  "description": "Enables an OpenTrek-hosted agent to persist research activities, project status, and advisor requirements, and generate evidence-based progress reports via MCP tools.",
+  "source_repo": "sevenboom77/ResearchTwin-MCP-Server",
+  "source_url": "https://github.com/sevenboom77/ResearchTwin-MCP-Server",
+  "install": "npx -y ResearchTwin-MCP-Server"
+}

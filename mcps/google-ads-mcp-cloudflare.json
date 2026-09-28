@@ -1,0 +1,7 @@
+{
+  "name": "google-ads-mcp-cloudflare",
+  "description": "Read-only MCP server that connects Google Ads to Claude via Cloudflare Workers, supporting account/campaign/ad reports, keywords, search terms, and GAQL queries with OAuth 2.1 authentication.",
+  "source_repo": "phwtsp/google-ads-mcp-cloudflare",
+  "source_url": "https://github.com/phwtsp/google-ads-mcp-cloudflare",
+  "install": "# git clone --depth 1 https://github.com/phwtsp/google-ads-mcp-cloudflare\n# See source for mcpServers config block"
+}

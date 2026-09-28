@@ -1,0 +1,7 @@
+{
+  "name": "mcp-guap",
+  "description": "MCP server for ГУАП's student portal enabling AI agents to manage tasks, materials, and reports.",
+  "source_repo": "ehlvg/mcp-guap",
+  "source_url": "https://github.com/ehlvg/mcp-guap",
+  "install": "# git clone --depth 1 https://github.com/ehlvg/mcp-guap\n# See source for mcpServers config block"
+}

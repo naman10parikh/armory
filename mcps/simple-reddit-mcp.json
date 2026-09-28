@@ -1,0 +1,7 @@
+{
+  "name": "simple-reddit-mcp",
+  "description": "A read-only Reddit MCP server that fetches threads, comments, and subreddits from the Arctic Shift archive over HTTP, requiring no Reddit account or API key.",
+  "source_repo": "ekatiyar/simple-reddit-mcp",
+  "source_url": "https://github.com/ekatiyar/simple-reddit-mcp",
+  "install": "npx -y simple-reddit-mcp"
+}

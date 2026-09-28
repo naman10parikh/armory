@@ -1,0 +1,7 @@
+{
+  "name": "edstem-mcp",
+  "description": "Enables querying Ed Discussion posts via Claude. Uses search, Cohere reranking, and thread retrieval to provide cited answers.",
+  "source_repo": "RichieRish05/EdStemMCP",
+  "source_url": "https://github.com/RichieRish05/EdStemMCP",
+  "install": "# git clone --depth 1 https://github.com/RichieRish05/EdStemMCP\n# See source for mcpServers config block"
+}

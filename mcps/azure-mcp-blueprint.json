@@ -1,0 +1,7 @@
+{
+  "name": "azure-mcp-blueprint",
+  "description": "Deploys a Model Context Protocol (MCP) server on Azure with industry-specific templates, sample data, and pre-configured tools for AI agents to query and manage resources.",
+  "source_repo": "Cloud2BR-MSFTLearningHub/Azure-MCP-blueprint",
+  "source_url": "https://github.com/Cloud2BR-MSFTLearningHub/Azure-MCP-blueprint",
+  "install": "# git clone --depth 1 https://github.com/Cloud2BR-MSFTLearningHub/Azure-MCP-blueprint\n# See source for mcpServers config block"
+}

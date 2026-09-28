@@ -1,0 +1,7 @@
+{
+  "name": "ghostintheshell-mcp",
+  "description": "A sandboxed, read-only MCP server that safely exposes system metrics, container diagnostics, and logs to AI agents with intelligent context compression and strict security measures.",
+  "source_repo": "pronzzz/GhostInTheShell-mcp",
+  "source_url": "https://github.com/pronzzz/GhostInTheShell-mcp",
+  "install": "npx -y GhostInTheShell-mcp"
+}

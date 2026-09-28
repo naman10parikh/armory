@@ -1,0 +1,7 @@
+{
+  "name": "deterministic-japanese-parser-mcp",
+  "description": "Non-AI deterministic Japanese parser that extracts intents, constraints, references, and execution order into structured Task Packets for safe downstream processing.",
+  "source_repo": "seigo-gace/Deterministic-Japanese-Parser-MCP",
+  "source_url": "https://github.com/seigo-gace/Deterministic-Japanese-Parser-MCP",
+  "install": "npx -y Deterministic-Japanese-Parser-MCP"
+}

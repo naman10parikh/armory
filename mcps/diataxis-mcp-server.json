@@ -1,0 +1,7 @@
+{
+  "name": "diataxis-mcp-server",
+  "description": "Enables agents to classify, audit, and plan documentation using the Diataxis framework with deterministic heuristics and no external LLM calls.",
+  "source_repo": "willermo/diataxis-mcp-server",
+  "source_url": "https://github.com/willermo/diataxis-mcp-server",
+  "install": "npx -y diataxis-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "admin-mcp",
+  "description": "MCP server for Odoo administration, enabling customer listing and search via connected service, resource, and tool layers.",
+  "source_repo": "aprezcuba24/odoo-mcp",
+  "source_url": "https://github.com/aprezcuba24/odoo-mcp",
+  "install": "npx -y odoo-mcp"
+}

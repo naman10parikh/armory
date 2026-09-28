@@ -1,0 +1,7 @@
+{
+  "name": "mcp-docqa-server",
+  "description": "An MCP server that provides semantic search over a document corpus, enabling AI clients to retrieve and cite relevant chunks from indexed documents via RAG pipelines.",
+  "source_repo": "saivarun161/mcp-docqa-server",
+  "source_url": "https://github.com/saivarun161/mcp-docqa-server",
+  "install": "# git clone --depth 1 https://github.com/saivarun161/mcp-docqa-server\n# See source for mcpServers config block"
+}

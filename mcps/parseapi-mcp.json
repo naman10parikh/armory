@@ -1,0 +1,7 @@
+{
+  "name": "parseapi-mcp",
+  "description": "Official parseAPI MCP server providing IP/place data, email/phone/domain validation, weather, currency, timezone, and holiday lookups as tools for AI agents.",
+  "source_repo": "parseapi/parseapi-mcp",
+  "source_url": "https://github.com/parseapi/parseapi-mcp",
+  "install": "npx -y parseapi-mcp"
+}

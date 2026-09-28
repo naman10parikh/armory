@@ -1,0 +1,7 @@
+{
+  "name": "coverage-orchestrator-mcp",
+  "description": "Drives test coverage toward target thresholds by coordinating workspace test execution with code-tree-mcp uncovered-symbol analysis.",
+  "source_repo": "markgregg/coverage-orchestrator-mcp",
+  "source_url": "https://github.com/markgregg/coverage-orchestrator-mcp",
+  "install": "npx -y coverage-orchestrator-mcp"
+}

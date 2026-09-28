@@ -1,0 +1,7 @@
+{
+  "name": "resultrail-by-larrybuildsai-2",
+  "description": "ResultRail by LarryBuildsAI sells pay-per-success public-data result packs for AI agents. It returns source URLs, confidence, timestamps, and receipt hashes for domain enrichment, URL extraction, and single-result lookup workflows. Use it when an agent needs one useful public-data result with a clea",
+  "source_repo": "",
+  "source_url": "https://resultrail-larrybuildsai.vercel.app/resultrail",
+  "install": "# git clone --depth 1 https://resultrail-larrybuildsai.vercel.app/resultrail\n# See source for mcpServers config block"
+}

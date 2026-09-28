@@ -1,0 +1,7 @@
+{
+  "name": "fallbooks-mcp",
+  "description": "Exposes the 7-prime spine, 7 κ-bands, and 6 fold operations from foldkit as native tools and resources in any MCP client (Claude Code, Claude Desktop, Cursor, Cline, Windsurf, etc.).",
+  "source_repo": "sjgant80-hub/fallbooks-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallbooks-mcp",
+  "install": "npx -y fallbooks-mcp"
+}

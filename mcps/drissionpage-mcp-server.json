@@ -1,0 +1,7 @@
+{
+  "name": "drissionpage-mcp-server",
+  "description": "基于 DrissionPage 的模型上下文协议 (MCP) 服务，为 AI 助手提供强大的浏览器自动化能力。",
+  "source_repo": "persist-1/DrissionPage-MCP-Server",
+  "source_url": "https://github.com/persist-1/DrissionPage-MCP-Server",
+  "install": "npx -y DrissionPage-MCP-Server"
+}

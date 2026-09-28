@@ -1,0 +1,7 @@
+{
+  "name": "entraid-mcp-server",
+  "description": "A FastMCP server for interacting with Microsoft Entra ID via the Microsoft Graph API, enabling management of users, groups, sign-in logs, MFA, applications, devices, conditional access, and more.",
+  "source_repo": "baoduy/entraid-mcp-server",
+  "source_url": "https://github.com/baoduy/entraid-mcp-server",
+  "install": "npx -y entraid-mcp-server"
+}

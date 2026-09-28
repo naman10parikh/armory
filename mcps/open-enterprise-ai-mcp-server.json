@@ -1,0 +1,7 @@
+{
+  "name": "open-enterprise-ai-mcp-server",
+  "description": "Connects AI coding assistants like Claude Code, Cursor, and Windsurf to enterprise data sources (databases, files, APIs, etc.) via a single binary, with 45+ connector categories and built-in memory tools.",
+  "source_repo": "openenterprise-info/open-enterprise-ai-mcp-server",
+  "source_url": "https://github.com/openenterprise-info/open-enterprise-ai-mcp-server",
+  "install": "npx -y open-enterprise-ai-mcp-server"
+}

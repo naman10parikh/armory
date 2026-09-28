@@ -1,0 +1,7 @@
+{
+  "name": "carpeos-mcp-server",
+  "description": "Enables AI agents to capture, search, and manage structured memory from agent sessions with append-only events and provenance tracking, providing eight local MCP stdio tools.",
+  "source_repo": "innocarpe/carpeos",
+  "source_url": "https://github.com/innocarpe/carpeos",
+  "install": "# git clone --depth 1 https://github.com/innocarpe/carpeos\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tableau-audit-mcp",
+  "description": "Audits local Tableau workbooks for unused assets, duplicate worksheets, and dashboard weight, providing cleanup reports and health summaries.",
+  "source_repo": "Sujan2396/tableau_aduit_mcp",
+  "source_url": "https://github.com/Sujan2396/tableau_aduit_mcp",
+  "install": "npx -y tableau_aduit_mcp"
+}

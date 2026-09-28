@@ -1,0 +1,7 @@
+{
+  "name": "airdrop-checker-x402",
+  "description": "MCP server to check wallet eligibility for crypto airdrops with pay-per-call via x402 micropayments, no signup required.",
+  "source_repo": "Br0ski777/airdrop-checker-x402",
+  "source_url": "https://github.com/Br0ski777/airdrop-checker-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/airdrop-checker-x402\n# See source for mcpServers config block"
+}

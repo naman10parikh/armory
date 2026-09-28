@@ -1,0 +1,7 @@
+{
+  "name": "gemini-nano-banana-mcp",
+  "description": "An MCP server for AI-powered image generation, editing, and video generation using Google Gemini and Veo models.",
+  "source_repo": "seungmanchoi/nano-banana-mcp",
+  "source_url": "https://github.com/seungmanchoi/nano-banana-mcp",
+  "install": "npx -y nano-banana-mcp"
+}

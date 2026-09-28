@@ -1,0 +1,7 @@
+{
+  "name": "bambu-orcaslicer-mcp-agent",
+  "description": "A Model Context Protocol (MCP) server that acts as a manufacturing consultant for 3D printing, analyzing .3mf print files and recommending optimal settings for speed vs. strength trade-offs.",
+  "source_repo": "SpunkyBlade/bambu-mcp-agent",
+  "source_url": "https://github.com/SpunkyBlade/bambu-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/SpunkyBlade/bambu-mcp-agent\n# See source for mcpServers config block"
+}

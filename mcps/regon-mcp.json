@@ -1,0 +1,7 @@
+{
+  "name": "regon-mcp",
+  "description": "Provides clean, typed access to the Polish REGON business register (GUS BIR1), enabling AI assistants to look up companies by NIP, REGON, or KRS and retrieve structured data like name, address, and legal form.",
+  "source_repo": "SmartMobileHouse/regon-mcp",
+  "source_url": "https://github.com/SmartMobileHouse/regon-mcp",
+  "install": "npx -y regon-mcp"
+}

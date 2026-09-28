@@ -1,0 +1,7 @@
+{
+  "name": "kegg-mcp",
+  "description": "An MCP server that exposes the KEGG REST API — pathways, genes, compounds, reactions, enzymes, diseases, drugs, modules, orthology, glycans, and BRITE hierarchies, with cross-database linking. Provides 34 tools and 8 resource templates.",
+  "source_repo": "AriaShishegaran/kegg-mcp",
+  "source_url": "https://github.com/AriaShishegaran/kegg-mcp",
+  "install": "npx -y kegg-mcp"
+}

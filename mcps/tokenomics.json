@@ -1,0 +1,7 @@
+{
+  "name": "tokenomics",
+  "description": "Provides live LLM pricing data from OpenRouter, enabling agents to search models, get pricing, estimate costs, and compare models.",
+  "source_repo": "tylergibbs1/tokenomics",
+  "source_url": "https://github.com/tylergibbs1/tokenomics",
+  "install": "# git clone --depth 1 https://github.com/tylergibbs1/tokenomics\n# See source for mcpServers config block"
+}

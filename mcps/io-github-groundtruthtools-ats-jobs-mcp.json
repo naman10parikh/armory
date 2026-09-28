@@ -1,0 +1,7 @@
+{
+  "name": "io-github-groundtruthtools-ats-jobs-mcp",
+  "description": "Enables querying open job postings directly from company applicant-tracking systems (Greenhouse, Ashby, Lever), finding a company's job board, listing and comparing roles, and accessing salary data, all without scraping or API keys.",
+  "source_repo": "groundtruthtools/ats-jobs-mcp",
+  "source_url": "https://github.com/groundtruthtools/ats-jobs-mcp",
+  "install": "npx -y ats-jobs-mcp"
+}

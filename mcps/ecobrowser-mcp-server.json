@@ -1,0 +1,7 @@
+{
+  "name": "ecobrowser-mcp-server",
+  "description": "Enables AI agents to control a browser via MCP with structured perception, verified actions, and self-healing capabilities.",
+  "source_repo": "HaidarESBER/ai-browser",
+  "source_url": "https://github.com/HaidarESBER/ai-browser",
+  "install": "# git clone --depth 1 https://github.com/HaidarESBER/ai-browser\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jakegaylor-com-mcp-server",
+  "description": "An MCP server that provides echo resource, tool, and prompt functionality for testing and demonstration.",
+  "source_repo": "jhgaylor/ai-jakegaylor-com",
+  "source_url": "https://github.com/jhgaylor/ai-jakegaylor-com",
+  "install": "# git clone --depth 1 https://github.com/jhgaylor/ai-jakegaylor-com\n# See source for mcpServers config block"
+}

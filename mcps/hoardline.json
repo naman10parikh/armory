@@ -1,0 +1,7 @@
+{
+  "name": "hoardline",
+  "description": "A self-hosted media downloader and converter MCP server that wraps yt-dlp and HandBrake, allowing AI assistants to download, convert, manage queues, and handle subscriptions.",
+  "source_repo": "mitchboulay/hoardline",
+  "source_url": "https://github.com/mitchboulay/hoardline",
+  "install": "# git clone --depth 1 https://github.com/mitchboulay/hoardline\n# See source for mcpServers config block"
+}

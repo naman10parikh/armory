@@ -1,0 +1,7 @@
+{
+  "name": "lithuanian-financial-regulation-mcp",
+  "description": "Enables querying Lithuanian financial regulation data, including regulations, enforcement actions, and requirements from the Bank of Lithuania, via MCP-compatible clients.",
+  "source_repo": "Ansvar-Systems/lithuanian-financial-regulation-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/lithuanian-financial-regulation-mcp",
+  "install": "npx -y lithuanian-financial-regulation-mcp"
+}

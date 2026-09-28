@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-mcp",
+  "description": "An MCP server providing calculator and file system tools, enabling AI agents to perform mathematical calculations and file operations.",
+  "source_repo": "3237160043lzy-sudo/mcp",
+  "source_url": "https://github.com/3237160043lzy-sudo/mcp",
+  "install": "# git clone --depth 1 https://github.com/3237160043lzy-sudo/mcp\n# See source for mcpServers config block"
+}

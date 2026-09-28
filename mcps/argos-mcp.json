@@ -1,0 +1,7 @@
+{
+  "name": "argos-mcp",
+  "description": "Enables Claude Code to securely interact with PostgreSQL, MySQL, SQLite, and SQL Server databases, featuring read-only mode, query validation, SSH tunneling, and field redaction for production-safe data access.",
+  "source_repo": "AraneaDev/Argos-MCP",
+  "source_url": "https://github.com/AraneaDev/Argos-MCP",
+  "install": "npx -y Argos-MCP"
+}

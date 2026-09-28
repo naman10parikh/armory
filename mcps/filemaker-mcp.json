@@ -1,0 +1,7 @@
+{
+  "name": "filemaker-mcp",
+  "description": "Enables AI assistants to query, analyze, and discover FileMaker database schemas via OData v4, with pandas-powered analytics for efficient data summaries.",
+  "source_repo": "nietsneuah/filemaker-mcp",
+  "source_url": "https://github.com/nietsneuah/filemaker-mcp",
+  "install": "npx -y filemaker-mcp"
+}

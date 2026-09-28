@@ -1,0 +1,7 @@
+{
+  "name": "gigora-mcp",
+  "description": "Live-concert discovery MCP server: search concerts, artist tour dates, festivals and shows by city. Gives AI assistants real-time access to Gigora's global live-music data.",
+  "source_repo": "sezgimeydanci/gigora-mcp",
+  "source_url": "https://github.com/sezgimeydanci/gigora-mcp",
+  "install": "npx -y gigora-mcp"
+}

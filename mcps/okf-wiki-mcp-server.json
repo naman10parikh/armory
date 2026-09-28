@@ -1,0 +1,7 @@
+{
+  "name": "okf-wiki-mcp-server",
+  "description": "Enables browsing, searching, and expanding a knowledge base of markdown nodes with YAML frontmatter from within a chat, supporting document ingest and generative HTML widgets.",
+  "source_repo": "SwePalm/okf-wiki-mcp-app",
+  "source_url": "https://github.com/SwePalm/okf-wiki-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/SwePalm/okf-wiki-mcp-app\n# See source for mcpServers config block"
+}

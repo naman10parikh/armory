@@ -1,0 +1,7 @@
+{
+  "name": "pixso-mcp-server",
+  "description": "Enables LLMs to interact with Pixso design files through a custom plugin, providing tools to get selection data and export assets as PNG or SVG.",
+  "source_repo": "TheAlmightyMight/pixso-mcp",
+  "source_url": "https://github.com/TheAlmightyMight/pixso-mcp",
+  "install": "npx -y pixso-mcp"
+}

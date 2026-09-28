@@ -1,0 +1,7 @@
+{
+  "name": "klydo-mcp",
+  "description": "Fashion discovery MCP server for Indian Gen Z that enables AI assistants to search and discover fashion products from Klydo's platform.",
+  "source_repo": "myselfshravan/klydo-mcp",
+  "source_url": "https://github.com/myselfshravan/klydo-mcp",
+  "install": "npx -y klydo-mcp"
+}

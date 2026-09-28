@@ -1,0 +1,7 @@
+{
+  "name": "personal-finance-tracker-mcp-server",
+  "description": "An MCP server that lets you log and query your own spending through natural conversation with Claude, instead of a spreadsheet or app.",
+  "source_repo": "sepfazeli/finance-tracker-mcp",
+  "source_url": "https://github.com/sepfazeli/finance-tracker-mcp",
+  "install": "npx -y finance-tracker-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wordly",
+  "description": "An MCP App that provides an interactive UI for visualizing multiple rewritten variations of text, enabling grammar checking, style adjustments, and text improvements with real-time comparison.",
+  "source_repo": "arifszn/wordly-mcp-app",
+  "source_url": "https://github.com/arifszn/wordly-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/arifszn/wordly-mcp-app\n# See source for mcpServers config block"
+}

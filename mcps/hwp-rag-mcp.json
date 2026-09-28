@@ -1,0 +1,7 @@
+{
+  "name": "hwp-rag-mcp",
+  "description": "Enables searching local Korean HWP/HWPX documents via Codex or Claude Code by indexing them with a free multilingual embedding model, keeping documents and indexes locally without requiring an API key.",
+  "source_repo": "jaypakdevkr/kb-mcp-server",
+  "source_url": "https://github.com/jaypakdevkr/kb-mcp-server",
+  "install": "npx -y kb-mcp-server"
+}

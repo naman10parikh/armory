@@ -1,0 +1,7 @@
+{
+  "name": "ebay-mcp",
+  "description": "MCP server for eBay buyer-side workflows enabling search, watch, bid, buy, and management of MyeBay via a hybrid REST and Trading API stack.",
+  "source_repo": "acato/ebay-mcp",
+  "source_url": "https://github.com/acato/ebay-mcp",
+  "install": "npx -y ebay-mcp"
+}

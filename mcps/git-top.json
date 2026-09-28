@@ -1,0 +1,7 @@
+{
+  "name": "git-top",
+  "description": "Provides MCP tools to search, compare, and get recommendations for open-source projects from a structured knowledge graph of GitHub data.",
+  "source_repo": "haocn-ops/git-top",
+  "source_url": "https://github.com/haocn-ops/git-top",
+  "install": "# git clone --depth 1 https://github.com/haocn-ops/git-top\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-model-router-mcp",
+  "description": "Routes model requests to Sol, Terra, or Luna via OpenClaw Gateway's Codex auth profile, with strict validation and no fallback.",
+  "source_repo": "Miraigent/openclaw-model-router-mcp",
+  "source_url": "https://github.com/Miraigent/openclaw-model-router-mcp",
+  "install": "npx -y openclaw-model-router-mcp"
+}

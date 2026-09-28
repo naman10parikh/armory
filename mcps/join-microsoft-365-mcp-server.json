@@ -1,0 +1,7 @@
+{
+  "name": "join-microsoft-365-mcp-server",
+  "description": "Enables AI assistants to seamlessly interact with Microsoft 365 services through the Graph API, featuring super tools, unified search, and intelligent learning.",
+  "source_repo": "michelfritzschjoin/join-ms-365-mcp-server",
+  "source_url": "https://github.com/michelfritzschjoin/join-ms-365-mcp-server",
+  "install": "npx -y join-ms-365-mcp-server"
+}

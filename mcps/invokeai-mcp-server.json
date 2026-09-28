@@ -1,0 +1,7 @@
+{
+  "name": "invokeai-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that integrates InvokeAI with Claude Code, enabling AI-powered image generation, transformation, and upscaling directly from your AI assistant.",
+  "source_repo": "coinstax/invokeai-mcp-server",
+  "source_url": "https://github.com/coinstax/invokeai-mcp-server",
+  "install": "npx -y invokeai-mcp-server"
+}

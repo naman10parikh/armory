@@ -1,0 +1,7 @@
+{
+  "name": "bq-agent-gateway",
+  "description": "Enables safe, read-only interaction with Google BigQuery through Claude, with layered guardrails preventing dangerous or expensive queries. Exposes tools for listing datasets, tables, estimating costs, and running queries.",
+  "source_repo": "durjoi/bq_agent_gateway",
+  "source_url": "https://github.com/durjoi/bq_agent_gateway",
+  "install": "# git clone --depth 1 https://github.com/durjoi/bq_agent_gateway\n# See source for mcpServers config block"
+}

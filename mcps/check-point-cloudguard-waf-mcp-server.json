@@ -1,0 +1,7 @@
+{
+  "name": "check-point-cloudguard-waf-mcp-server",
+  "description": "Enables AI assistants to manage Check Point CloudGuard WAF configuration through natural language, including assets, profiles, practices, and policy.",
+  "source_repo": "Presidentsu/checkpoint-waf-mcp",
+  "source_url": "https://github.com/Presidentsu/checkpoint-waf-mcp",
+  "install": "npx -y checkpoint-waf-mcp"
+}

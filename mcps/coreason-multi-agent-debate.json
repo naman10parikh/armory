@@ -1,0 +1,7 @@
+{
+  "name": "coreason-multi-agent-debate",
+  "description": "Dynamic multi-agent debate MCP server for structured argumentation and reasoning among AI agents.",
+  "source_repo": "CoReason-AI/coreason-multi-agent-debate",
+  "source_url": "https://github.com/CoReason-AI/coreason-multi-agent-debate",
+  "install": "# git clone --depth 1 https://github.com/CoReason-AI/coreason-multi-agent-debate\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mib-mcp-server",
+  "description": "Enables AI assistants to compare live insurance quotes across Nigerian insurers, check for overpayments, and provide hosted checkout links.",
+  "source_repo": "ignitesolutions-op/mib-mcp",
+  "source_url": "https://github.com/ignitesolutions-op/mib-mcp",
+  "install": "npx -y mib-mcp"
+}

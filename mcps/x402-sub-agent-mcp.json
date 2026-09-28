@@ -1,0 +1,7 @@
+{
+  "name": "x402-sub-agent-mcp",
+  "description": "MCP server for managing x402 payment policies (rules, coupons, tiers, usage logs) conversationally via LLM and evaluating request decisions.",
+  "source_repo": "nothinginfinity/x402-sub-agent-mcp",
+  "source_url": "https://github.com/nothinginfinity/x402-sub-agent-mcp",
+  "install": "npx -y x402-sub-agent-mcp"
+}

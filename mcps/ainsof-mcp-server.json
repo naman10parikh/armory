@@ -1,0 +1,7 @@
+{
+  "name": "ainsof-mcp-server",
+  "description": "Enables AI assistants to search a curated production-music catalogue by brief or reference link, listen to full previews, and score videos with synced music, plus retrieve stems, versions, and cue sheets for licensing.",
+  "source_repo": "AINSOF-Tech/mcp",
+  "source_url": "https://github.com/AINSOF-Tech/mcp",
+  "install": "# git clone --depth 1 https://github.com/AINSOF-Tech/mcp\n# See source for mcpServers config block"
+}

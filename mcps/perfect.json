@@ -1,0 +1,7 @@
+{
+  "name": "perfect",
+  "description": "Unofficial open-source MCP bridge that gives Cursor agents hands in your real Chrome browser. Enables navigation, clicking, filling, screenshots, and other browser actions with permission modes.",
+  "source_repo": "Gtarafdar/perfect",
+  "source_url": "https://github.com/Gtarafdar/perfect",
+  "install": "# git clone --depth 1 https://github.com/Gtarafdar/perfect\n# See source for mcpServers config block"
+}

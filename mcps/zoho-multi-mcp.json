@@ -1,0 +1,7 @@
+{
+  "name": "zoho-multi-mcp",
+  "description": "Connects AI assistants to one or more Zoho Mail accounts, enabling read, send, search, reply, and delete operations directly from an AI workflow. Multiple mailboxes can run from a single lightweight process to reduce memory usage.",
+  "source_repo": "vasparshin/zoho-multi-mcp",
+  "source_url": "https://github.com/vasparshin/zoho-multi-mcp",
+  "install": "npx -y zoho-multi-mcp"
+}

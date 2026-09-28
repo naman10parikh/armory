@@ -1,0 +1,7 @@
+{
+  "name": "taplio-linkedin-mcp-server",
+  "description": "Enables AI agents to manage LinkedIn content through Taplio, including drafting, scheduling, publishing posts, and analytics.",
+  "source_repo": "TaplioOfficial/taplio-linkedin-mcp",
+  "source_url": "https://github.com/TaplioOfficial/taplio-linkedin-mcp",
+  "install": "npx -y taplio-linkedin-mcp"
+}

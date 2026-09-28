@@ -1,0 +1,7 @@
+{
+  "name": "katokmcp",
+  "description": "KatokMCP lets AI assistants (Claude, OpenClaw, etc.) control KakaoTalk — Korea's #1 messaging app with 50M+ users. Read chats, send messages, list rooms, and manage members through the MCP protocol. Install: npm install -g @katok-mcp/mcp-server && katok-mcp setup Language: TypeScript | Platform: All",
+  "source_repo": "mwl313/KatokMCP",
+  "source_url": "https://github.com/mwl313/KatokMCP",
+  "install": "# git clone --depth 1 https://github.com/mwl313/KatokMCP\n# See source for mcpServers config block"
+}

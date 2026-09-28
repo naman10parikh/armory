@@ -1,0 +1,7 @@
+{
+  "name": "legendcfs-mcp-server",
+  "description": "Acts as a bridge between Pickaxe Agents and Supabase PostgreSQL, exposing 15 MCP tools for the deathcare ecosystem.",
+  "source_repo": "projectcues/legendcfs-mcp",
+  "source_url": "https://github.com/projectcues/legendcfs-mcp",
+  "install": "npx -y legendcfs-mcp"
+}

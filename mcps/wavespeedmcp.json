@@ -1,0 +1,7 @@
+{
+  "name": "wavespeedmcp",
+  "description": "Provides a standardized interface for accessing WaveSpeed's image and video generation capabilities through the MCP protocol.",
+  "source_repo": "WaveSpeedAI/mcp-server",
+  "source_url": "https://github.com/WaveSpeedAI/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/WaveSpeedAI/mcp-server\n# See source for mcpServers config block"
+}

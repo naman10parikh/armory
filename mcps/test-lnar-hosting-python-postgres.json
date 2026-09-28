@@ -1,0 +1,7 @@
+{
+  "name": "test-lnar-hosting-python-postgres",
+  "description": "Enables CRUD operations on notes stored in PostgreSQL, with tools to list, create, update, delete notes and tags. The server provides both REST API and MCP endpoints via a single FastAPI process.",
+  "source_repo": "NexaScience/test-lnar-hosting-python-postgres",
+  "source_url": "https://github.com/NexaScience/test-lnar-hosting-python-postgres",
+  "install": "# git clone --depth 1 https://github.com/NexaScience/test-lnar-hosting-python-postgres\n# See source for mcpServers config block"
+}

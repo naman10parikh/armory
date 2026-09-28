@@ -1,0 +1,7 @@
+{
+  "name": "notioncode-mcp",
+  "description": "Bridges Notion AI models to coding environments like OpenCode, Claude Code, and Codex CLI, enabling local file operations and shell commands via MCP tools.",
+  "source_repo": "PandaNePanda/notioncode_mcp",
+  "source_url": "https://github.com/PandaNePanda/notioncode_mcp",
+  "install": "npx -y notioncode_mcp"
+}

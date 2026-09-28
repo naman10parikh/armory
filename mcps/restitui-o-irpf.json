@@ -1,0 +1,7 @@
+{
+  "name": "restitui-o-irpf",
+  "description": "Enables users to check the income tax refund status of a Brazilian individual using CPF, date of birth, and tax year. It provides a read-only tool and works with any MCP client via HTTP, with no credentials required and pay-per-use credits.",
+  "source_repo": "mcp-dir/restituicao_irpf-mcp",
+  "source_url": "https://github.com/mcp-dir/restituicao_irpf-mcp",
+  "install": "npx -y restituicao_irpf-mcp"
+}

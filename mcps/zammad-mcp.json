@@ -1,0 +1,7 @@
+{
+  "name": "zammad-mcp",
+  "description": "MCP server for Zammad that focuses on workflows the standard Zammad API tooling does not cover well — primarily shared drafts with strict reply-HTML validation, fresh signature rendering and German-localised quote blocks.",
+  "source_repo": "BM1-de/zammad-mcp",
+  "source_url": "https://github.com/BM1-de/zammad-mcp",
+  "install": "npx -y zammad-mcp"
+}

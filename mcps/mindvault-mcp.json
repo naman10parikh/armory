@@ -1,0 +1,7 @@
+{
+  "name": "mindvault-mcp",
+  "description": "A privacy-first MCP server that converts messy multi-turn conversations into structured, durable knowledge cards, targeting non-programming agent workflows.",
+  "source_repo": "SohriCarryU/mindvault-mcp",
+  "source_url": "https://github.com/SohriCarryU/mindvault-mcp",
+  "install": "npx -y mindvault-mcp"
+}

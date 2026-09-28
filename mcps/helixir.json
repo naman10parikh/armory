@@ -1,0 +1,7 @@
+{
+  "name": "helixir",
+  "description": "MCP server that provides AI agents with accurate, hallucination-free access to web component APIs by reading the library's Custom Elements Manifest.",
+  "source_repo": "bookedsolidtech/helixir",
+  "source_url": "https://github.com/bookedsolidtech/helixir",
+  "install": "# git clone --depth 1 https://github.com/bookedsolidtech/helixir\n# See source for mcpServers config block"
+}

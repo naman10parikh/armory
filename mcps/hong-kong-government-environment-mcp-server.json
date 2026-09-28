@@ -1,0 +1,7 @@
+{
+  "name": "hong-kong-government-environment-mcp-server",
+  "description": "Provides access to Hong Kong government environment data, including the current Air Quality Health Index (AQHI) from monitoring stations across Hong Kong.",
+  "source_repo": "hkopenai/hk-environment-mcp-server",
+  "source_url": "https://github.com/hkopenai/hk-environment-mcp-server",
+  "install": "npx -y hk-environment-mcp-server"
+}

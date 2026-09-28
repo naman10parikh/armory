@@ -1,0 +1,7 @@
+{
+  "name": "macos-shell-mcp-server",
+  "description": "Enables shell command execution on macOS with session management, background processes, caching, and semantic search via Voyage AI.",
+  "source_repo": "quanticsoul4772/macos-shell",
+  "source_url": "https://github.com/quanticsoul4772/macos-shell",
+  "install": "# git clone --depth 1 https://github.com/quanticsoul4772/macos-shell\n# See source for mcpServers config block"
+}

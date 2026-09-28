@@ -1,0 +1,7 @@
+{
+  "name": "zoom-phone-mcp-server",
+  "description": "A standalone MCP server for managing Zoom Phone telephony, providing 117 tools for auto receptionists, call queues, voicemail, devices, SMS, and more via the Zoom Phone REST API.",
+  "source_repo": "FujitsuPolycom/zoom-phone-mcp",
+  "source_url": "https://github.com/FujitsuPolycom/zoom-phone-mcp",
+  "install": "npx -y zoom-phone-mcp"
+}

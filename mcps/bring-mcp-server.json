@@ -1,0 +1,7 @@
+{
+  "name": "bring-mcp-server",
+  "description": "MCP server for the Bring! shopping list API, enabling management of shopping lists via natural language.",
+  "source_repo": "arithmetic-zz/bring-mcp-server",
+  "source_url": "https://github.com/arithmetic-zz/bring-mcp-server",
+  "install": "npx -y bring-mcp-server"
+}

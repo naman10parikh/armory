@@ -1,0 +1,7 @@
+{
+  "name": "naja-scope",
+  "description": "MCP server for elaborated SystemVerilog and gate-level netlists. Agents query design structure against a real elaboration - what drives this net, what a module instantiates, what registers are in a fanin cone - instead of reading RTL files. Answers come from najaeda's netlist engine, so they reflect",
+  "source_repo": "najaeda/naja-scope",
+  "source_url": "https://github.com/najaeda/naja-scope",
+  "install": "# git clone --depth 1 https://github.com/najaeda/naja-scope\n# See source for mcpServers config block"
+}

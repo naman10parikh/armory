@@ -1,0 +1,7 @@
+{
+  "name": "tally-prime-mcp-server",
+  "description": "Enables Large Language Models to access and query Tally Prime ERP data, including financial reports, masters, and inventory summaries, via the Model Context Protocol.",
+  "source_repo": "dhananjay1405/tally-mcp-server",
+  "source_url": "https://github.com/dhananjay1405/tally-mcp-server",
+  "install": "npx -y tally-mcp-server"
+}

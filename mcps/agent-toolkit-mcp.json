@@ -1,0 +1,7 @@
+{
+  "name": "agent-toolkit-mcp",
+  "description": "Provides coding agents with 19 pay-per-call developer utilities, npm supply-chain security checks, and Base blockchain lookups, paid via USDC on Base using x402. No API key needed—payment acts as authentication.",
+  "source_repo": "white-hat-lab/agent-toolkit-mcp",
+  "source_url": "https://github.com/white-hat-lab/agent-toolkit-mcp",
+  "install": "npx -y agent-toolkit-mcp"
+}

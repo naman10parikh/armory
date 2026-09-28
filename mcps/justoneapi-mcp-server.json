@@ -1,0 +1,7 @@
+{
+  "name": "justoneapi-mcp-server",
+  "description": "Exposes JustOneAPI endpoints as MCP tools, returning raw upstream JSON without field parsing for maximum data fidelity.",
+  "source_repo": "justoneapi/justoneapi-mcp",
+  "source_url": "https://github.com/justoneapi/justoneapi-mcp",
+  "install": "npx -y justoneapi-mcp"
+}

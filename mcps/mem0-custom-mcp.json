@@ -1,0 +1,7 @@
+{
+  "name": "mem0-custom-mcp",
+  "description": "A custom MCP server that connects to self-hosted Mem0 API instances, enabling Claude Code to manage memories via custom endpoints.",
+  "source_repo": "emasoudy/mem0-custom-mcp",
+  "source_url": "https://github.com/emasoudy/mem0-custom-mcp",
+  "install": "npx -y mem0-custom-mcp"
+}

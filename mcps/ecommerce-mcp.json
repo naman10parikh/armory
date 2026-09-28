@@ -1,0 +1,7 @@
+{
+  "name": "ecommerce-mcp",
+  "description": "MCP server for commerce-operations self-service. Lets an AI agent look up order details and search orders without needing developer or SQL access.",
+  "source_repo": "ritz541/ecommerce-mcp",
+  "source_url": "https://github.com/ritz541/ecommerce-mcp",
+  "install": "npx -y ecommerce-mcp"
+}

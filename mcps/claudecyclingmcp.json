@@ -1,0 +1,7 @@
+{
+  "name": "claudecyclingmcp",
+  "description": "An MCP server that converts structured cycling workout specs into MyWhoosh .zwo and Garmin Connect workout files, with tools for validation, description, and rendering. It also includes skills for uploading workouts to both platforms.",
+  "source_repo": "elias-ramzi/ClaudeCyclingMCP",
+  "source_url": "https://github.com/elias-ramzi/ClaudeCyclingMCP",
+  "install": "# git clone --depth 1 https://github.com/elias-ramzi/ClaudeCyclingMCP\n# See source for mcpServers config block"
+}

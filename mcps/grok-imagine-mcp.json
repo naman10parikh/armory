@@ -1,0 +1,7 @@
+{
+  "name": "grok-imagine-mcp",
+  "description": "Enables AI image and video generation tasks (text-to-image, image-to-video, edit, upscale, etc.) via RunAPI, with support for polling and pricing lookups.",
+  "source_repo": "runapi-ai/grok-imagine-mcp",
+  "source_url": "https://github.com/runapi-ai/grok-imagine-mcp",
+  "install": "npx -y grok-imagine-mcp"
+}

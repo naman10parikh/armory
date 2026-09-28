@@ -1,0 +1,7 @@
+{
+  "name": "image-understand-mcp",
+  "description": "Enables pure text LLMs to understand images by acting as a proxy to vision models via OpenAI-compatible APIs. Supports local files, URLs, and base64 inputs for image analysis.",
+  "source_repo": "sgs844575/image-understand-mcp",
+  "source_url": "https://github.com/sgs844575/image-understand-mcp",
+  "install": "npx -y image-understand-mcp"
+}

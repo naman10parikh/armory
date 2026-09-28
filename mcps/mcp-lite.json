@@ -1,0 +1,7 @@
+{
+  "name": "mcp-lite",
+  "description": "Ultra-lightweight MCP server for Bun with full protocol compliance. Enables building MCP servers with tools, resources, and prompts using minimal dependencies and heap footprint.",
+  "source_repo": "srsergi0/mcp-lite",
+  "source_url": "https://github.com/srsergi0/mcp-lite",
+  "install": "# git clone --depth 1 https://github.com/srsergi0/mcp-lite\n# See source for mcpServers config block"
+}

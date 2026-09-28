@@ -1,0 +1,7 @@
+{
+  "name": "labnana-mcp",
+  "description": "MCP server for generating and editing images via Labnana's API, supporting models like Gemini image models, GPT-Image-2, Wan2.7, and Seedream.",
+  "source_repo": "exoticknight/labnana-mcp",
+  "source_url": "https://github.com/exoticknight/labnana-mcp",
+  "install": "npx -y labnana-mcp"
+}

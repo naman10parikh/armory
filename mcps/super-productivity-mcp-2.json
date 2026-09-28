@@ -1,0 +1,7 @@
+{
+  "name": "super-productivity-mcp-2",
+  "description": "An MCP server that connects ChatGPT Desktop or Codex to Super Productivity's local REST API, enabling explicit task selection, planning, timer control, and completion via natural language.",
+  "source_repo": "Amorem/super-productivity-mcp",
+  "source_url": "https://github.com/Amorem/super-productivity-mcp",
+  "install": "npx -y super-productivity-mcp"
+}

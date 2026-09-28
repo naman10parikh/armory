@@ -1,0 +1,7 @@
+{
+  "name": "ibge-microdata-mcp",
+  "description": "Local-first MCP server for discovering, downloading, and analyzing official IBGE microdata using DuckDB and Parquet.",
+  "source_repo": "emmanueltsallis/ibge-microdata-mcp",
+  "source_url": "https://github.com/emmanueltsallis/ibge-microdata-mcp",
+  "install": "npx -y ibge-microdata-mcp"
+}

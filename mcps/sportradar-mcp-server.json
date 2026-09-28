@@ -1,0 +1,7 @@
+{
+  "name": "sportradar-mcp-server",
+  "description": "MCP server providing tools to query live scores, schedules, standings, and game stats from the SportRadar API for multiple sports including NFL, NBA, NHL, NCAAMB, soccer, and tennis.",
+  "source_repo": "srinayani-m/sportradar-mcp",
+  "source_url": "https://github.com/srinayani-m/sportradar-mcp",
+  "install": "npx -y sportradar-mcp"
+}

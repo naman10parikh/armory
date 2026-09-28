@@ -1,0 +1,7 @@
+{
+  "name": "unreal-engine-mcp",
+  "description": "An MCP server that gives AI agents broad control over Unreal Engine 5.7, enabling actor/asset/level management, Blueprint and material creation, screenshots, automation, and arbitrary editor Python execution.",
+  "source_repo": "elemenopyunome/unreal-engine-mcp",
+  "source_url": "https://github.com/elemenopyunome/unreal-engine-mcp",
+  "install": "npx -y unreal-engine-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "the-agent-times-mcp-server",
+  "description": "Query breaking news, verified statistics, and editorial analysis from The Agent Times directly from any AI agent via MCP.",
+  "source_repo": "theagenttimes/tat-mcp-server",
+  "source_url": "https://github.com/theagenttimes/tat-mcp-server",
+  "install": "npx -y tat-mcp-server"
+}

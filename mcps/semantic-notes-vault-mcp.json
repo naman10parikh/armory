@@ -1,0 +1,7 @@
+{
+  "name": "semantic-notes-vault-mcp",
+  "description": "Connects AI assistants to an Obsidian vault as a semantic knowledge graph, enabling graph navigation, semantic search, and content operations through MCP.",
+  "source_repo": "aaronsb/obsidian-mcp-plugin",
+  "source_url": "https://github.com/aaronsb/obsidian-mcp-plugin",
+  "install": "# git clone --depth 1 https://github.com/aaronsb/obsidian-mcp-plugin\n# See source for mcpServers config block"
+}

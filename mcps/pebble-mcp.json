@@ -1,0 +1,7 @@
+{
+  "name": "pebble-mcp",
+  "description": "An MCP server for the Pebble smartwatch ecosystem, offering appstore search, a 64-color design toolkit, and build-emulator-screenshot development workflows as typed tools.",
+  "source_repo": "dbonomo/pebble-mcp",
+  "source_url": "https://github.com/dbonomo/pebble-mcp",
+  "install": "npx -y pebble-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-feishu-channel",
+  "description": "MCP server that pushes Feishu (Lark) messages to Claude Code sessions and allows Claude to reply directly in Feishu.",
+  "source_repo": "DuoDuo25/claude-code-feishu-channel",
+  "source_url": "https://github.com/DuoDuo25/claude-code-feishu-channel",
+  "install": "# git clone --depth 1 https://github.com/DuoDuo25/claude-code-feishu-channel\n# See source for mcpServers config block"
+}

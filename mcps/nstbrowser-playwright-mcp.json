@@ -1,0 +1,7 @@
+{
+  "name": "nstbrowser-playwright-mcp",
+  "description": "Combines NSTBrowser profile management with Playwright browser automation via CDP, enabling browser automation through NSTBrowser profiles.",
+  "source_repo": "jackie099/nstbrowser-playwright-mcp",
+  "source_url": "https://github.com/jackie099/nstbrowser-playwright-mcp",
+  "install": "npx -y nstbrowser-playwright-mcp"
+}

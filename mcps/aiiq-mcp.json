@@ -1,0 +1,7 @@
+{
+  "name": "aiiq-mcp",
+  "description": "Enables querying AI model IQ, rankings, benchmarks, and methodology from any MCP client. Read-only access to the public AI IQ API with no API key required.",
+  "source_repo": "shea256/aiiq-mcp",
+  "source_url": "https://github.com/shea256/aiiq-mcp",
+  "install": "npx -y aiiq-mcp"
+}

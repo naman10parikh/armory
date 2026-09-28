@@ -1,0 +1,7 @@
+{
+  "name": "selfhosted-sentry-mcp",
+  "description": "MCP server for self-hosted Sentry instances, providing tools to query and triage issues and events, inspect stack frames, manage releases, and access raw Sentry API.",
+  "source_repo": "HieuAnh87/sentry-selfhosted-mcp",
+  "source_url": "https://github.com/HieuAnh87/sentry-selfhosted-mcp",
+  "install": "npx -y sentry-selfhosted-mcp"
+}

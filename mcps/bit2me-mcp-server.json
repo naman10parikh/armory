@@ -1,0 +1,7 @@
+{
+  "name": "bit2me-mcp-server",
+  "description": "Enables AI assistants to interact with the Bit2Me cryptocurrency ecosystem, including real-time market data, wallet management, trading, and products like Earn and Loans.",
+  "source_repo": "bit2me-devs/bit2me-mcp",
+  "source_url": "https://github.com/bit2me-devs/bit2me-mcp",
+  "install": "npx -y bit2me-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-template-typescript-3",
+  "description": "A minimal MCP server template for Render with Streamable HTTP transport, bearer token authentication, and an example 'hello' tool.",
+  "source_repo": "zzhao-ashai/mcp-server-typescript-ms1zmvm7",
+  "source_url": "https://github.com/zzhao-ashai/mcp-server-typescript-ms1zmvm7",
+  "install": "# git clone --depth 1 https://github.com/zzhao-ashai/mcp-server-typescript-ms1zmvm7\n# See source for mcpServers config block"
+}

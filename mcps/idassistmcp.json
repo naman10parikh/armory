@@ -1,0 +1,7 @@
+{
+  "name": "idassistmcp",
+  "description": "Enables LLM clients like Claude to interact with IDA Pro for binary analysis, decompilation, cross-references, patching, and more via 41 MCP tools, 8 resources, and 7 guided prompts.",
+  "source_repo": "symgraph/IDAssistMCP",
+  "source_url": "https://github.com/symgraph/IDAssistMCP",
+  "install": "# git clone --depth 1 https://github.com/symgraph/IDAssistMCP\n# See source for mcpServers config block"
+}

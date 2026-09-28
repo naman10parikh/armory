@@ -1,0 +1,7 @@
+{
+  "name": "arcgis-mcp-bridge",
+  "description": "Secure, local-first MCP server exposing ArcGIS Pro's ArcPy engine over stdio JSON-RPC.",
+  "source_repo": "muend/arcgis-mcp-bridge",
+  "source_url": "https://github.com/muend/arcgis-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/muend/arcgis-mcp-bridge\n# See source for mcpServers config block"
+}

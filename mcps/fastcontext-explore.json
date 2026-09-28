@@ -1,0 +1,7 @@
+{
+  "name": "fastcontext-explore",
+  "description": "An MCP server that wraps Microsoft's FastContext as a read-only repository exploration subagent, enabling coding agents to delegate broad code searches and receive compact file:line citations.",
+  "source_repo": "LIVELUCKY/fastcontext-integrations",
+  "source_url": "https://github.com/LIVELUCKY/fastcontext-integrations",
+  "install": "# git clone --depth 1 https://github.com/LIVELUCKY/fastcontext-integrations\n# See source for mcpServers config block"
+}

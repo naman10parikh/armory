@@ -1,0 +1,7 @@
+{
+  "name": "tiger-linear-mcp-server",
+  "description": "Provides focused tools for interacting with Linear via the Model Context Protocol, enabling LLMs to manage Linear issues, projects, and teams.",
+  "source_repo": "timescale/tiger-linear-mcp-server",
+  "source_url": "https://github.com/timescale/tiger-linear-mcp-server",
+  "install": "npx -y tiger-linear-mcp-server"
+}

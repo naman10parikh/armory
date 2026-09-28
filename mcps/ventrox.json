@@ -1,0 +1,7 @@
+{
+  "name": "ventrox",
+  "description": "Enables coding agents to log friction events (tried, failed, minutes lost) and allows reviewers to cluster, rank, and resolve these vents locally without network access.",
+  "source_repo": "Vetrox/ventrox",
+  "source_url": "https://github.com/Vetrox/ventrox",
+  "install": "# git clone --depth 1 https://github.com/Vetrox/ventrox\n# See source for mcpServers config block"
+}

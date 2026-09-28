@@ -1,0 +1,7 @@
+{
+  "name": "make-mcp",
+  "description": "This MCP server provides integration with Make.com (formerly Integromat) for workflow automation. It is now deprecated and replaced by Make's official cloud MCP.",
+  "source_repo": "D1DX/make-mcp",
+  "source_url": "https://github.com/D1DX/make-mcp",
+  "install": "npx -y make-mcp"
+}

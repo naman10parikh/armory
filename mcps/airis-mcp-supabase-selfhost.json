@@ -1,0 +1,7 @@
+{
+  "name": "airis-mcp-supabase-selfhost",
+  "description": "MCP server for self-hosted Supabase with RLS-aware PostgreSQL and PostgREST layers, enabling safe database introspection, SQL queries, and PostgREST access via natural language.",
+  "source_repo": "agiletec-inc/airis-mcp-supabase-selfhost",
+  "source_url": "https://github.com/agiletec-inc/airis-mcp-supabase-selfhost",
+  "install": "# git clone --depth 1 https://github.com/agiletec-inc/airis-mcp-supabase-selfhost\n# See source for mcpServers config block"
+}

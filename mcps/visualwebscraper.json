@@ -1,0 +1,7 @@
+{
+  "name": "visualwebscraper",
+  "description": "MCP server for web scraping using Playwright headless Chromium. It provides tools to fetch webpage screenshots, search article listings, and generate article briefs via local LM Studio models.",
+  "source_repo": "czhh006564/WebSearchContentToMD_MCP",
+  "source_url": "https://github.com/czhh006564/WebSearchContentToMD_MCP",
+  "install": "npx -y WebSearchContentToMD_MCP"
+}

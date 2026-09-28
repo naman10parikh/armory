@@ -1,0 +1,7 @@
+{
+  "name": "product-memory",
+  "description": "Provides a memory server for coding agents over MCP, capturing and retrieving the meaning and rationale behind code decisions down to the function level. It enables agents to search product memory, get task context, and propose new memories to avoid re-deriving or re-breaking past decisions.",
+  "source_repo": "sirajjunior540/product-memory-oss",
+  "source_url": "https://github.com/sirajjunior540/product-memory-oss",
+  "install": "# git clone --depth 1 https://github.com/sirajjunior540/product-memory-oss\n# See source for mcpServers config block"
+}

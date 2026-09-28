@@ -1,0 +1,7 @@
+{
+  "name": "uml-mcp",
+  "description": "Generates UML and other diagrams (30+ types) via the Model Context Protocol, supporting multiple output formats and deployment options.",
+  "source_repo": "antoinebou12/uml-mcp",
+  "source_url": "https://github.com/antoinebou12/uml-mcp",
+  "install": "npx -y uml-mcp"
+}

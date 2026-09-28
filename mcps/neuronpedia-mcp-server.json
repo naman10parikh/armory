@@ -1,0 +1,7 @@
+{
+  "name": "neuronpedia-mcp-server",
+  "description": "Provides access to the Neuronpedia API for AI model interpretability and feature analysis, enabling explanations, activations, steering, and vector management.",
+  "source_repo": "manncodes/neuronpedia-mcp",
+  "source_url": "https://github.com/manncodes/neuronpedia-mcp",
+  "install": "npx -y neuronpedia-mcp"
+}

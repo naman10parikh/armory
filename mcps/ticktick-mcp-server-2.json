@@ -1,0 +1,7 @@
+{
+  "name": "ticktick-mcp-server-2",
+  "description": "MCP server for TickTick API enabling task management, project organization, habit tracking, and more.",
+  "source_repo": "alexarevalo9/ticktick-mcp-server",
+  "source_url": "https://github.com/alexarevalo9/ticktick-mcp-server",
+  "install": "npx -y ticktick-mcp-server"
+}

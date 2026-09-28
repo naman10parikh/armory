@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tool-ai",
+  "description": "A configurable MCP gateway that runs multiple Streamable HTTP MCP servers and exposes all their tools through a single endpoint, enabling tool aggregation and routing for MCP clients.",
+  "source_repo": "dkokane0/mcp-tool-ai",
+  "source_url": "https://github.com/dkokane0/mcp-tool-ai",
+  "install": "# git clone --depth 1 https://github.com/dkokane0/mcp-tool-ai\n# See source for mcpServers config block"
+}

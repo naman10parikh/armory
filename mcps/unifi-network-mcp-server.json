@@ -1,0 +1,7 @@
+{
+  "name": "unifi-network-mcp-server",
+  "description": "Exposes the UniFi Network Integration API as tools for managing sites, devices, clients, networks, WiFi, firewalls, ACLs, switching, DNS policies, hotspot vouchers, VPNs, and more.",
+  "source_repo": "owine/unifi-network-mcp",
+  "source_url": "https://github.com/owine/unifi-network-mcp",
+  "install": "npx -y unifi-network-mcp"
+}

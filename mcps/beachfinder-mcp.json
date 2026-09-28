@@ -1,0 +1,7 @@
+{
+  "name": "beachfinder-mcp",
+  "description": "Provides AI assistants read-only access to discover and compare 184,900+ beaches, lakes, and swimming spots worldwide with current planning signals.",
+  "source_repo": "troulin-a11y/BeachFinder-mcp",
+  "source_url": "https://github.com/troulin-a11y/BeachFinder-mcp",
+  "install": "npx -y BeachFinder-mcp"
+}

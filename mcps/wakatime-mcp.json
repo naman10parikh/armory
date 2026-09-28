@@ -1,0 +1,7 @@
+{
+  "name": "wakatime-mcp",
+  "description": "Exposes WakaTime Summaries API tools over stdio, enabling daily and today's coding activity summaries via MCP.",
+  "source_repo": "efirvida/wakatime-mcp",
+  "source_url": "https://github.com/efirvida/wakatime-mcp",
+  "install": "npx -y wakatime-mcp"
+}

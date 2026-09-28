@@ -1,0 +1,7 @@
+{
+  "name": "gamelegend-mcp",
+  "description": "Search and explore 1,100+ games with 69-dimension Gameplay DNA profiles and find similar games via AI-powered cosine similarity.",
+  "source_repo": "PhilipLudington/gamelegend-mcp",
+  "source_url": "https://github.com/PhilipLudington/gamelegend-mcp",
+  "install": "npx -y gamelegend-mcp"
+}

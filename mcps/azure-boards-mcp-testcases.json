@@ -1,0 +1,7 @@
+{
+  "name": "azure-boards-mcp-testcases",
+  "description": "This MCP server lets GitHub Copilot fetch Azure Boards work items by URL or ID and generate QA test cases from the ticket content.",
+  "source_repo": "akashnaykude/azure-boards-mcp-testcases",
+  "source_url": "https://github.com/akashnaykude/azure-boards-mcp-testcases",
+  "install": "# git clone --depth 1 https://github.com/akashnaykude/azure-boards-mcp-testcases\n# See source for mcpServers config block"
+}

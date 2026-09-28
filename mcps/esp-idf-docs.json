@@ -1,0 +1,7 @@
+{
+  "name": "esp-idf-docs",
+  "description": "Enables searching and reading ESP-IDF documentation online, with support for multiple versions and chip targets.",
+  "source_repo": "raihalea/esp-idf-docs",
+  "source_url": "https://github.com/raihalea/esp-idf-docs",
+  "install": "# git clone --depth 1 https://github.com/raihalea/esp-idf-docs\n# See source for mcpServers config block"
+}

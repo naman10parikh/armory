@@ -1,0 +1,7 @@
+{
+  "name": "paddleocr",
+  "description": "A local OCR server using PaddleOCR that enables AI agents to extract text from images.",
+  "source_repo": "YuanJinke/paddleocr_mcp",
+  "source_url": "https://github.com/YuanJinke/paddleocr_mcp",
+  "install": "npx -y paddleocr_mcp"
+}

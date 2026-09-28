@@ -1,0 +1,7 @@
+{
+  "name": "capline-mcp",
+  "description": "Enables AI agents to make payments with strict spending limits enforced by signed mandates, preventing unauthorized fund movement beyond predefined caps and allowlists.",
+  "source_repo": "caplinehq/capline-mcp",
+  "source_url": "https://github.com/caplinehq/capline-mcp",
+  "install": "npx -y capline-mcp"
+}

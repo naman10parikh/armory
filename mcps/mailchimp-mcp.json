@@ -1,0 +1,7 @@
+{
+  "name": "mailchimp-mcp",
+  "description": "MCP server for full Mailchimp management: audiences, tags, segments, campaigns, templates and reporting. Enables creating, sending, scheduling campaigns, managing contacts, and retrieving reports via natural language.",
+  "source_repo": "YerayRodri/mailchimp-mcp",
+  "source_url": "https://github.com/YerayRodri/mailchimp-mcp",
+  "install": "npx -y mailchimp-mcp"
+}

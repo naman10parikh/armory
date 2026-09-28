@@ -1,0 +1,7 @@
+{
+  "name": "ropey",
+  "description": "Enables coding agents to perform safe, project-wide Python refactoring (rename, move, extract, inline, change signature, organize imports, etc.) with a dry-run safety contract and LSP-coordinate addressing.",
+  "source_repo": "andrewesweet/ropey",
+  "source_url": "https://github.com/andrewesweet/ropey",
+  "install": "# git clone --depth 1 https://github.com/andrewesweet/ropey\n# See source for mcpServers config block"
+}

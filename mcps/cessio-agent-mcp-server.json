@@ -1,0 +1,7 @@
+{
+  "name": "cessio-agent-mcp-server",
+  "description": "A local, self-custody MCP server that lets an AI agent trade the Cessio RFQ desk as both maker and taker, holding its own key and signing trades with operator-set limits.",
+  "source_repo": "cessio-cc/cessio-agent-mcp-server",
+  "source_url": "https://github.com/cessio-cc/cessio-agent-mcp-server",
+  "install": "npx -y cessio-agent-mcp-server"
+}

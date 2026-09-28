@@ -1,0 +1,7 @@
+{
+  "name": "ai-gessa-mcp-server",
+  "description": "Enables generating game-ready 3D models, textures, and audio from natural language by proxying to the remote Gessa API.",
+  "source_repo": "gessa-ai/mcp-server",
+  "source_url": "https://github.com/gessa-ai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/gessa-ai/mcp-server\n# See source for mcpServers config block"
+}

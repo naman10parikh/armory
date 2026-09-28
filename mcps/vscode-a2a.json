@@ -1,0 +1,7 @@
+{
+  "name": "vscode-a2a",
+  "description": "An MCP bridge that exposes A2A agents as tools in VS Code agent chat, enabling natural language delegation to remote agents with multi-turn conversation and configurable authentication.",
+  "source_repo": "kranthikirang/vscode-a2a",
+  "source_url": "https://github.com/kranthikirang/vscode-a2a",
+  "install": "# git clone --depth 1 https://github.com/kranthikirang/vscode-a2a\n# See source for mcpServers config block"
+}

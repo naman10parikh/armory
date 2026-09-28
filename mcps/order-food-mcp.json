@@ -1,0 +1,7 @@
+{
+  "name": "order-food-mcp",
+  "description": "Enables users to browse a menu of 8 food items including pizzas, burgers, and drinks, and look up item details by ID through the get_menu tool.",
+  "source_repo": "himanshuaggarwal04380/Order_Food_MCP",
+  "source_url": "https://github.com/himanshuaggarwal04380/Order_Food_MCP",
+  "install": "npx -y Order_Food_MCP"
+}

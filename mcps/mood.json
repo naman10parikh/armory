@@ -1,0 +1,7 @@
+{
+  "name": "mood",
+  "description": "Enables AI to display its current mood as a locally generated ASCII face using Stable Diffusion, with a tool feel(emotion) that the AI can call to update the terminal display.",
+  "source_repo": "FlorianWilk/mood",
+  "source_url": "https://github.com/FlorianWilk/mood",
+  "install": "# git clone --depth 1 https://github.com/FlorianWilk/mood\n# See source for mcpServers config block"
+}

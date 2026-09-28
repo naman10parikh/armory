@@ -1,0 +1,7 @@
+{
+  "name": "drawio",
+  "description": "MCP server for creating and editing diagrams using draw.io. Allows generating diagrams from Mermaid or XML, searching shapes, and opening them in draw.io for export.",
+  "source_repo": "achmadya-dev/mcp-diagram",
+  "source_url": "https://github.com/achmadya-dev/mcp-diagram",
+  "install": "# git clone --depth 1 https://github.com/achmadya-dev/mcp-diagram\n# See source for mcpServers config block"
+}

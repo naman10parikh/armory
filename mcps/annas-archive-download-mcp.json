@@ -1,0 +1,7 @@
+{
+  "name": "annas-archive-download-mcp",
+  "description": "MCP server for searching and downloading from Anna's Archive for free via slow channels like LibGen and Sci-Net, without an API key.",
+  "source_repo": "francy2222/annas-archive-download-mcp",
+  "source_url": "https://github.com/francy2222/annas-archive-download-mcp",
+  "install": "npx -y annas-archive-download-mcp"
+}

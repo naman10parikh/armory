@@ -1,0 +1,7 @@
+{
+  "name": "rag-factory",
+  "description": "Automated RAG pipeline optimization and serving. It interviews users, builds and evaluates candidate configurations on their data, and registers the best ones as a fleet queryable via MCP.",
+  "source_repo": "Zyxac24/AutoML_for_RAG-public",
+  "source_url": "https://github.com/Zyxac24/AutoML_for_RAG-public",
+  "install": "# git clone --depth 1 https://github.com/Zyxac24/AutoML_for_RAG-public\n# See source for mcpServers config block"
+}

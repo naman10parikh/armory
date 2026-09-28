@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-markitdown-mcp",
+  "description": "A read-only MCP server that converts documents and URLs to Markdown, augmenting ChatGPT's file handling with semantic extraction for formats like PDF, DOCX, and PPTX.",
+  "source_repo": "heyitstarek/chatgpt-markitdown-mcp",
+  "source_url": "https://github.com/heyitstarek/chatgpt-markitdown-mcp",
+  "install": "npx -y chatgpt-markitdown-mcp"
+}

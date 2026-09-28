@@ -1,0 +1,7 @@
+{
+  "name": "nano-banana-pro-mcp",
+  "description": "Enables Claude to generate and edit images using Google's Gemini image models, with options for resolution and batch processing, and optional Firebase Storage for cross-environment image transfer.",
+  "source_repo": "IDinsight/nano-banana-mcp",
+  "source_url": "https://github.com/IDinsight/nano-banana-mcp",
+  "install": "npx -y nano-banana-mcp"
+}

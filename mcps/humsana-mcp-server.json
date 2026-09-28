@@ -1,0 +1,7 @@
+{
+  "name": "humsana-mcp-server",
+  "description": "Cognitive security for AI-assisted development, preventing dangerous commands and large AI code rewrites when fatigued.",
+  "source_repo": "sriramnatrajhen/humsana-mcp",
+  "source_url": "https://github.com/sriramnatrajhen/humsana-mcp",
+  "install": "npx -y humsana-mcp"
+}

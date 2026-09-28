@@ -1,6 +1,6 @@
 {
   "name": "mcp-attr-example-cargo-metadata",
-  "description": "Mcp Attr Example Cargo Metadata MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "frozenlib/mcp-attr-example-cargo-metadata",
   "source_url": "https://mcp.so/server/mcp-attr-example-cargo-metadata/frozenlib",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-attr-example-cargo-metadata/frozenlib\n# See source for mcpServers config block"

@@ -1,0 +1,7 @@
+{
+  "name": "depsguard-mcp",
+  "description": "AI-powered dependency vulnerability and breaking change analyzer that scans dependencies, identifies vulnerabilities via OSV.dev, and uses AI to assess real impact and suggest fixes.",
+  "source_repo": "Kim-Kyowon/depsguard-mcp",
+  "source_url": "https://github.com/Kim-Kyowon/depsguard-mcp",
+  "install": "npx -y depsguard-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "infrapilot",
+  "description": "Enables infrastructure operations including provisioning, configuration, monitoring, compliance auditing, and auto-remediation through natural language, using Terraform and Ansible tools exposed over MCP.",
+  "source_repo": "Gsfrota/infra-pilot",
+  "source_url": "https://github.com/Gsfrota/infra-pilot",
+  "install": "# git clone --depth 1 https://github.com/Gsfrota/infra-pilot\n# See source for mcpServers config block"
+}

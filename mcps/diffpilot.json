@@ -1,0 +1,7 @@
+{
+  "name": "diffpilot",
+  "description": "A local AI code review MCP server that provides tools for pre-PR review, diff analysis, secret scanning, and commit message generation, all running locally without cloud dependencies.",
+  "source_repo": "bkalafat/DiffPilot",
+  "source_url": "https://github.com/bkalafat/DiffPilot",
+  "install": "# git clone --depth 1 https://github.com/bkalafat/DiffPilot\n# See source for mcpServers config block"
+}

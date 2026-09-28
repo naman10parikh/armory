@@ -1,0 +1,7 @@
+{
+  "name": "leakferret",
+  "description": "Context-aware secret scanner that lets an AI agent scan code, verify which leaked keys are actually live by calling the provider, and rewrite them to env-var lookups before committing. Exposes scan/verify/rewrite tools plus secret-type and verifier resources over MCP.",
+  "source_repo": "leakferrethq/leakferret",
+  "source_url": "https://github.com/leakferrethq/leakferret",
+  "install": "# git clone --depth 1 https://github.com/leakferrethq/leakferret\n# See source for mcpServers config block"
+}

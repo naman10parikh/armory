@@ -1,0 +1,7 @@
+{
+  "name": "who-reps-mcp",
+  "description": "Given a U.S. street address, returns the people who represent it (U.S. Senators, House member, Governor, and state legislators) using free public data, with no API keys required for federal officials.",
+  "source_repo": "cstillick/who_reps-mcp",
+  "source_url": "https://github.com/cstillick/who_reps-mcp",
+  "install": "npx -y who_reps-mcp"
+}

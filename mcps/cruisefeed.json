@@ -1,0 +1,7 @@
+{
+  "name": "cruisefeed",
+  "description": "Query cruise sailings, fares, price drops & ship specs",
+  "source_repo": "CruiseFeedIO/cruisefeed-mcp",
+  "source_url": "https://github.com/CruiseFeedIO/cruisefeed-mcp",
+  "install": "npx -y cruisefeed-mcp"
+}

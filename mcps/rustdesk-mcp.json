@@ -1,0 +1,7 @@
+{
+  "name": "rustdesk-mcp",
+  "description": "MCP server that enables AI agents to control remote machines via RustDesk, supporting device management, remote shell commands, file operations, power controls, and screen interaction.",
+  "source_repo": "zsunny6658/rustdesk-mcp",
+  "source_url": "https://github.com/zsunny6658/rustdesk-mcp",
+  "install": "npx -y rustdesk-mcp"
+}

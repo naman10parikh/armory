@@ -1,0 +1,7 @@
+{
+  "name": "hypen-argocd-mcp",
+  "description": "Enables AI assistants to interact with ArgoCD APIs through standardized MCP tools for managing applications, resources, and deployments.",
+  "source_repo": "hypen-code/hypen-argocd-mcp",
+  "source_url": "https://github.com/hypen-code/hypen-argocd-mcp",
+  "install": "npx -y hypen-argocd-mcp"
+}

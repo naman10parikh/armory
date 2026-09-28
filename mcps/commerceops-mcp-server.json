@@ -1,0 +1,7 @@
+{
+  "name": "commerceops-mcp-server",
+  "description": "CommerceOps MCP Server is an AI-native Model Context Protocol server for e-commerce operations, enabling AI agents to autonomously diagnose and resolve operational exceptions such as stuck orders, missed payment webhooks, warehouse delays, and oversold inventory, with built-in safety guardrails and",
+  "source_repo": "Krishcode264/commerce-ops-mcp",
+  "source_url": "https://github.com/Krishcode264/commerce-ops-mcp",
+  "install": "npx -y commerce-ops-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vcf-ops-mcp",
+  "description": "Provides authenticated read-only access to VMware Cloud Foundation Operations inventory, metrics, alerts, report definitions, targets, and skills via Streamable HTTP, with a durable audit trail and an admin UI.",
+  "source_repo": "sentania-labs/vcf-mcp",
+  "source_url": "https://github.com/sentania-labs/vcf-mcp",
+  "install": "npx -y vcf-mcp"
+}

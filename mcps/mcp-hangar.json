@@ -1,0 +1,7 @@
+{
+  "name": "mcp-hangar",
+  "description": "The policy enforcement plane for MCP: deterministic admission and egress policy, attributable audit, and SIEM export for your MCP server fleet. Self-hosted and MIT licensed.",
+  "source_repo": "mcp-hangar/mcp-hangar",
+  "source_url": "https://github.com/mcp-hangar/mcp-hangar",
+  "install": "# git clone --depth 1 https://github.com/mcp-hangar/mcp-hangar\n# See source for mcpServers config block"
+}

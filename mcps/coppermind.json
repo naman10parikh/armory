@@ -1,0 +1,7 @@
+{
+  "name": "coppermind",
+  "description": "Enables AI assistants to design PCBs in KiCAD through natural language, with transactional preview-verify-commit workflow, undo/redo, and an engineering knowledge base.",
+  "source_repo": "charlesmmorais/coppermind",
+  "source_url": "https://github.com/charlesmmorais/coppermind",
+  "install": "# git clone --depth 1 https://github.com/charlesmmorais/coppermind\n# See source for mcpServers config block"
+}

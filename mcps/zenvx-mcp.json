@@ -1,0 +1,7 @@
+{
+  "name": "zenvx-mcp",
+  "description": "Secure self-hosted remote MCP server with file and shell tools, protected by Cloudflare Tunnel and bearer-token auth.",
+  "source_repo": "cursed-goblin/zenvx-mcp",
+  "source_url": "https://github.com/cursed-goblin/zenvx-mcp",
+  "install": "npx -y zenvx-mcp"
+}

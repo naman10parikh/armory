@@ -1,0 +1,7 @@
+{
+  "name": "dynamicfeed-mcp",
+  "description": "62 live, cryptographically signed data tools for AI agents and robots: weather, natural hazards, flights, shipping, space, CVEs, sanctions, software versions, sea ice and more. Every datapoint carries source, licence, timestamp and an Ed25519 signature.",
+  "source_repo": "dynamicfeed/dynamicfeed-mcp",
+  "source_url": "https://github.com/dynamicfeed/dynamicfeed-mcp",
+  "install": "npx -y dynamicfeed-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "recalla",
+  "description": "Enables AI agents to read and search your Obsidian vault through a local MCP server, keeping everything private and local.",
+  "source_repo": "Tensorboyalive/recalla-obsidian",
+  "source_url": "https://github.com/Tensorboyalive/recalla-obsidian",
+  "install": "# git clone --depth 1 https://github.com/Tensorboyalive/recalla-obsidian\n# See source for mcpServers config block"
+}

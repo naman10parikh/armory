@@ -1,0 +1,7 @@
+{
+  "name": "runframe-mcp-server",
+  "description": "Enables managing incident response workflows including incidents, on-call, postmortems, and more through the Runframe platform using MCP tools.",
+  "source_repo": "runframe/runframe-mcp-server",
+  "source_url": "https://github.com/runframe/runframe-mcp-server",
+  "install": "npx -y runframe-mcp-server"
+}

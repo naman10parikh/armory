@@ -1,0 +1,7 @@
+{
+  "name": "laravel-mcp-server",
+  "description": "A project and task manager MCP server built with Laravel, enabling AI to manage projects and tasks through tools, resources, and prompts.",
+  "source_repo": "marcelosmbr2/laravel-mcp-server",
+  "source_url": "https://github.com/marcelosmbr2/laravel-mcp-server",
+  "install": "npx -y laravel-mcp-server"
+}

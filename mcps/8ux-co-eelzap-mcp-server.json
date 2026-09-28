@@ -1,0 +1,7 @@
+{
+  "name": "8ux-co-eelzap-mcp-server",
+  "description": "Connect your AI assistant to Eel Zap CMS to create collections, manage content, upload media, and publish through natural language.",
+  "source_repo": "8ux-co/eelzap-mcp-server",
+  "source_url": "https://github.com/8ux-co/eelzap-mcp-server",
+  "install": "npx -y eelzap-mcp-server"
+}

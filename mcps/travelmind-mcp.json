@@ -1,0 +1,7 @@
+{
+  "name": "travelmind-mcp",
+  "description": "MCP server for multi-agent travel planning, orchestrating parallel expert calls to generate structured itineraries and persist them to SQLite.",
+  "source_repo": "aheng0820/travelmind-agent-lab",
+  "source_url": "https://github.com/aheng0820/travelmind-agent-lab",
+  "install": "# git clone --depth 1 https://github.com/aheng0820/travelmind-agent-lab\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "spidergate-mcp",
+  "description": "MCP gateway bridging Claude Code with Google Calendar, Google Tasks, and GitHub for calendar/task management and GitHub operations via natural language.",
+  "source_repo": "florianfendt/spiderweb-mcp",
+  "source_url": "https://github.com/florianfendt/spiderweb-mcp",
+  "install": "npx -y spiderweb-mcp"
+}

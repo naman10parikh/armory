@@ -1,0 +1,7 @@
+{
+  "name": "email-on-acid-mcp",
+  "description": "An MCP server exposing every documented Email on Acid API v5 request as a tool — 24 tools across authentication, email client lists, email rendering testing, and spam testing.",
+  "source_repo": "KnakLabs/email-on-acid-mcp",
+  "source_url": "https://github.com/KnakLabs/email-on-acid-mcp",
+  "install": "npx -y email-on-acid-mcp"
+}

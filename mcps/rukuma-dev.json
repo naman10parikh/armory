@@ -1,0 +1,7 @@
+{
+  "name": "rukuma-dev",
+  "description": "MCP server for rukuma.dev enabling semantic search, page reading, page listing, and site metadata retrieval.",
+  "source_repo": "rukumaneo/rukuma-dev",
+  "source_url": "https://github.com/rukumaneo/rukuma-dev",
+  "install": "# git clone --depth 1 https://github.com/rukumaneo/rukuma-dev\n# See source for mcpServers config block"
+}

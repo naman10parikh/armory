@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-vscode-extensions",
-  "description": "Mcp Server Vscode Extensions MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "siliconuy/mcp-server-vscode-extensions",
   "source_url": "https://mcp.so/server/mcp-server-vscode-extensions/siliconuy",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-vscode-extensions/siliconuy\n# See source for mcpServers config block"

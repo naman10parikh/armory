@@ -1,0 +1,7 @@
+{
+  "name": "bestaiimageprompt-mcp",
+  "description": "Exposes Best AI Image Prompt's curated prompt library, styles, pricing, and FAQ to MCP-compatible AI clients for image generation workflows.",
+  "source_repo": "rocnubie/bestaiimageprompt-mcp",
+  "source_url": "https://github.com/rocnubie/bestaiimageprompt-mcp",
+  "install": "npx -y bestaiimageprompt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vivaldo-product-discovery",
+  "description": "Public read-only MCP server for Vivaldo.shop, a European online store for MacBook cases, iPad cases, laptop sleeves, keyboard covers, screen protectors and everyday computer accessories. This server helps AI agents discover public Vivaldo products by searching the storefront, reading product details",
+  "source_repo": "",
+  "source_url": "https://www.vivaldo.shop/",
+  "install": "# git clone --depth 1 https://www.vivaldo.shop/\n# See source for mcpServers config block"
+}

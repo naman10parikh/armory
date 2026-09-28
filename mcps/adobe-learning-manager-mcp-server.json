@@ -1,0 +1,7 @@
+{
+  "name": "adobe-learning-manager-mcp-server",
+  "description": "Enables LLM clients to interact with Adobe Learning Manager, including user management, learning object browsing, enrollment management, badge checking, and async job execution via the ALM Prime API.",
+  "source_repo": "Vijender001223/ALM-MCP",
+  "source_url": "https://github.com/Vijender001223/ALM-MCP",
+  "install": "npx -y ALM-MCP"
+}

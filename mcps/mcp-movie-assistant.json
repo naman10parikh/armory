@@ -1,0 +1,7 @@
+{
+  "name": "mcp-movie-assistant",
+  "description": "Enables searching, discovering, and reading movie information from TMDB through MCP tools.",
+  "source_repo": "samuel-adjin/movie-assistant-mcp",
+  "source_url": "https://github.com/samuel-adjin/movie-assistant-mcp",
+  "install": "npx -y movie-assistant-mcp"
+}

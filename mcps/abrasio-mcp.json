@@ -1,0 +1,7 @@
+{
+  "name": "abrasio-mcp",
+  "description": "MCP server that exposes Abrasio as an agentic browser for AI models, allowing Claude, Cursor, and other MCP-compatible AIs to control a real web browser with anti-detection fingerprinting.",
+  "source_repo": "Scrape-Technology/abrasio-mcp",
+  "source_url": "https://github.com/Scrape-Technology/abrasio-mcp",
+  "install": "npx -y abrasio-mcp"
+}

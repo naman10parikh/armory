@@ -1,0 +1,7 @@
+{
+  "name": "lawryai",
+  "description": "A local-first MCP server that connects to legal case-management systems like ActaPort, letting AI agents read and prepare work for lawyer approval by replaying saved browser sessions.",
+  "source_repo": "HeyLawry/lawryai-desktop",
+  "source_url": "https://github.com/HeyLawry/lawryai-desktop",
+  "install": "# git clone --depth 1 https://github.com/HeyLawry/lawryai-desktop\n# See source for mcpServers config block"
+}

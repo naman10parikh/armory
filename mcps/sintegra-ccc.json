@@ -1,0 +1,7 @@
+{
+  "name": "sintegra-ccc",
+  "description": "Consulta o Cadastro Centralizado de Contribuinte (CCC) do Sintegra a partir de CPF ou CNPJ, inscrição estadual e UF, integrando-se a clientes MCP via HTTP.",
+  "source_repo": "mcp-dir/sintegra_ccc-mcp",
+  "source_url": "https://github.com/mcp-dir/sintegra_ccc-mcp",
+  "install": "npx -y sintegra_ccc-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "quash-mcp",
+  "description": "An MCP server that lets AI agents drive real mobile-app automation on connected devices, enabling natural-language test tasks, test case generation, and app/build management for Android and iOS.",
+  "source_repo": "Oscorp-HQ/quash-mcp-releases",
+  "source_url": "https://github.com/Oscorp-HQ/quash-mcp-releases",
+  "install": "# git clone --depth 1 https://github.com/Oscorp-HQ/quash-mcp-releases\n# See source for mcpServers config block"
+}

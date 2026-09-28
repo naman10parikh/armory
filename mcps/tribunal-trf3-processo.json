@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trf3-processo",
+  "description": "Read-only MCP server providing official TRF3 court process consultation via a single pay-per-use tool.",
+  "source_repo": "mcp-dir/tribunal_trf3_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trf3_processo-mcp",
+  "install": "npx -y tribunal_trf3_processo-mcp"
+}

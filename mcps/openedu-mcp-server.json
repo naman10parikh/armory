@@ -1,0 +1,7 @@
+{
+  "name": "openedu-mcp-server",
+  "description": "MCP server that provides educational resources and curriculum planning by integrating Open Library, Wikipedia, Dictionary, and arXiv APIs with grade-level filtering and educational metadata.",
+  "source_repo": "joohyukjung/openedu-mcp",
+  "source_url": "https://github.com/joohyukjung/openedu-mcp",
+  "install": "npx -y openedu-mcp"
+}

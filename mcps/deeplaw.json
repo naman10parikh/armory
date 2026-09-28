@@ -1,0 +1,7 @@
+{
+  "name": "deeplaw",
+  "description": "A read-only Chinese legal evidence MCP server that provides deterministic retrieval of authentic legal sources with chain-of-custody receipts, designed for Codex, Claude Code, and OpenCode.",
+  "source_repo": "Eysn0130/DeepLaw",
+  "source_url": "https://github.com/Eysn0130/DeepLaw",
+  "install": "# git clone --depth 1 https://github.com/Eysn0130/DeepLaw\n# See source for mcpServers config block"
+}

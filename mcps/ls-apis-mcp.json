@@ -1,0 +1,7 @@
+{
+  "name": "ls-apis-mcp",
+  "description": "MCP server for searching and discovering 4,000+ public APIs",
+  "source_repo": "koalyptus/ls-apis",
+  "source_url": "https://github.com/koalyptus/ls-apis",
+  "install": "# git clone --depth 1 https://github.com/koalyptus/ls-apis\n# See source for mcpServers config block"
+}

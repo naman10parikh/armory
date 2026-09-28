@@ -1,0 +1,7 @@
+{
+  "name": "ops-agent-toolkit-mcp",
+  "description": "MCP server providing read-only operational tools (logs, metrics, traces, service health, config) for troubleshooting an environment, with one exception for toggling chaos scenarios.",
+  "source_repo": "Jeromefromcn/ops-agent-toolkit-mcp",
+  "source_url": "https://github.com/Jeromefromcn/ops-agent-toolkit-mcp",
+  "install": "npx -y ops-agent-toolkit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vibedonate",
+  "description": "Enables peer-to-peer AI inference donation by exposing MCP tools to check node status and request capacity, with local-first compute sharing, consent, and metering.",
+  "source_repo": "pooriaarab/vibedonate",
+  "source_url": "https://github.com/pooriaarab/vibedonate",
+  "install": "# git clone --depth 1 https://github.com/pooriaarab/vibedonate\n# See source for mcpServers config block"
+}

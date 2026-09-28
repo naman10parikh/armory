@@ -1,0 +1,7 @@
+{
+  "name": "mcp-kalshi",
+  "description": "Provides access to US-regulated prediction-market data from Kalshi, enabling queries on market events without authentication.",
+  "source_repo": "pipeworx-io/mcp-kalshi",
+  "source_url": "https://github.com/pipeworx-io/mcp-kalshi",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-kalshi\n# See source for mcpServers config block"
+}

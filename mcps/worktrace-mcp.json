@@ -1,0 +1,7 @@
+{
+  "name": "worktrace-mcp",
+  "description": "A local MCP server that helps AI agents recover missing historical developer context by capturing and indexing screenshots with OCR and embeddings into a local SQLite database, enabling grounded question-answering with inspectable event citations.",
+  "source_repo": "vblearnstowritecode/worktrace-mcp",
+  "source_url": "https://github.com/vblearnstowritecode/worktrace-mcp",
+  "install": "npx -y worktrace-mcp"
+}

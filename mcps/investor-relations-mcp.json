@@ -1,0 +1,7 @@
+{
+  "name": "investor-relations-mcp",
+  "description": "FastMCP server for tracking seed raise investor pipelines from Claude Code, syncing with Obsidian vault CRM files.",
+  "source_repo": "adelaidasofia/investor-relations-mcp",
+  "source_url": "https://github.com/adelaidasofia/investor-relations-mcp",
+  "install": "npx -y investor-relations-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "legendsviewer-mcp",
+  "description": "MCP server that lets AI assistants read and query Dwarf Fortress world legends: search events, objects, and properties, or read summaries and base rates to distinguish real patterns from common traits.",
+  "source_repo": "Hadows/legendsviewer-mcp",
+  "source_url": "https://github.com/Hadows/legendsviewer-mcp",
+  "install": "npx -y legendsviewer-mcp"
+}

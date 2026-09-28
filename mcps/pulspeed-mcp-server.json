@@ -1,0 +1,7 @@
+{
+  "name": "pulspeed-mcp-server",
+  "description": "Enables AI agents to monitor website performance by scanning sites, retrieving Core Web Vitals, detecting regressions, and receiving AI-powered optimization recommendations.",
+  "source_repo": "pulspeed/mcp-server",
+  "source_url": "https://github.com/pulspeed/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/pulspeed/mcp-server\n# See source for mcpServers config block"
+}

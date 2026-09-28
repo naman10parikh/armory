@@ -1,0 +1,7 @@
+{
+  "name": "zeppelin-mcp",
+  "description": "MCP server that provides AI assistants direct access to the Apache Zeppelin REST API for data engineering workflows, enabling notebook and paragraph management, execution, and interpreter control.",
+  "source_repo": "mihneamanolache/zeppelin-mcp",
+  "source_url": "https://github.com/mihneamanolache/zeppelin-mcp",
+  "install": "npx -y zeppelin-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stylesafe",
+  "description": "An MCP server that detects CSS cascade conflicts and Tailwind utility clashes, returning structured reports with risk scores for AI coding agents and CI pipelines.",
+  "source_repo": "Patrizzos/StyleSafe",
+  "source_url": "https://github.com/Patrizzos/StyleSafe",
+  "install": "# git clone --depth 1 https://github.com/Patrizzos/StyleSafe\n# See source for mcpServers config block"
+}

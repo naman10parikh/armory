@@ -1,0 +1,7 @@
+{
+  "name": "mcp-compras-gov-br",
+  "description": "Integrates public APIs from the Brazilian Compras.gov.br procurement ecosystem to support price research, supplier sanctions, contract analysis, and procurement planning.",
+  "source_repo": "opedrosoares/MCP_Compras",
+  "source_url": "https://github.com/opedrosoares/MCP_Compras",
+  "install": "# git clone --depth 1 https://github.com/opedrosoares/MCP_Compras\n# See source for mcpServers config block"
+}

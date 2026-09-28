@@ -1,0 +1,7 @@
+{
+  "name": "soma-mcp-server",
+  "description": "Enables running code against tests in an isolated sandbox to obtain PASS/FAIL verdicts with signed, offline-checkable certificates, and generating verified code with attached certificates after execution against derived tests.",
+  "source_repo": "medianemi-beep/soma-mcp",
+  "source_url": "https://github.com/medianemi-beep/soma-mcp",
+  "install": "npx -y soma-mcp"
+}

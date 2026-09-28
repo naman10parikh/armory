@@ -1,0 +1,7 @@
+{
+  "name": "apple-calendar-jxa-mcp",
+  "description": "Enables read/write access to Apple Calendar on macOS by bypassing permission restrictions via JXA scripts, allowing users to manage calendar events through natural language.",
+  "source_repo": "jakobjhartmann/apple-calendar-jxa-mcp",
+  "source_url": "https://github.com/jakobjhartmann/apple-calendar-jxa-mcp",
+  "install": "npx -y apple-calendar-jxa-mcp"
+}

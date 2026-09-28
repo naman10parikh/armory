@@ -1,0 +1,7 @@
+{
+  "name": "ai-assisted-crm-mcp-server",
+  "description": "Enables AI agents to perform CRM operations like creating contacts, managing deals, and updating leads through natural language using the Model Context Protocol.",
+  "source_repo": "MdJafirAshraf/AI-Assisted-CRM-Using-MCP-Server",
+  "source_url": "https://github.com/MdJafirAshraf/AI-Assisted-CRM-Using-MCP-Server",
+  "install": "npx -y AI-Assisted-CRM-Using-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "canon-mcp",
+  "description": "Serves as the serving layer for Canon governed context repositories, enabling AI agents to query domain knowledge through DAX and SQL queries with user identity via Entra OBO.",
+  "source_repo": "Jonvoge/canon-mcp",
+  "source_url": "https://github.com/Jonvoge/canon-mcp",
+  "install": "npx -y canon-mcp"
+}

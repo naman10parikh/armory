@@ -1,0 +1,7 @@
+{
+  "name": "fortigate-mcp",
+  "description": "Enables read-only querying and diagnostics of Fortigate firewalls via SSH, providing security analysis, traffic monitoring, and configuration inspection through natural language.",
+  "source_repo": "Picaresco/MCP-Fortigate",
+  "source_url": "https://github.com/Picaresco/MCP-Fortigate",
+  "install": "# git clone --depth 1 https://github.com/Picaresco/MCP-Fortigate\n# See source for mcpServers config block"
+}

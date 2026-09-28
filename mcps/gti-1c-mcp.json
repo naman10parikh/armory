@@ -1,0 +1,7 @@
+{
+  "name": "gti-1c-mcp",
+  "description": "MCP server for 1C:БИТ with a knowledge base of user instructions (full-text search) and RBAC access profiles (keyword-based profile suggestion, roles matrix, validation, approval levels).",
+  "source_repo": "RomanSaranindev/gti-1c-mcp",
+  "source_url": "https://github.com/RomanSaranindev/gti-1c-mcp",
+  "install": "npx -y gti-1c-mcp"
+}

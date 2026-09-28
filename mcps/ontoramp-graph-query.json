@@ -1,0 +1,7 @@
+{
+  "name": "ontoramp-graph-query",
+  "description": "Enables AI agents to query organizational architecture and governance constraints, returning evidence-grounded answers from documented structures.",
+  "source_repo": "MatthewDavisAIArchitect/ontoramp-graph-query",
+  "source_url": "https://github.com/MatthewDavisAIArchitect/ontoramp-graph-query",
+  "install": "# git clone --depth 1 https://github.com/MatthewDavisAIArchitect/ontoramp-graph-query\n# See source for mcpServers config block"
+}

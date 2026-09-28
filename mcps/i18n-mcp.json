@@ -1,0 +1,7 @@
+{
+  "name": "i18n-mcp",
+  "description": "MCP server for managing i18n JSON translation files. Provides Claude with structured read/write access to translation files for adding keys, checking coverage, and finding duplicates.",
+  "source_repo": "robin-heat/i18n-mcp",
+  "source_url": "https://github.com/robin-heat/i18n-mcp",
+  "install": "npx -y i18n-mcp"
+}

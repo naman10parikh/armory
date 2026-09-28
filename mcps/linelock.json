@@ -1,0 +1,7 @@
+{
+  "name": "linelock",
+  "description": "A pay-per-pick World Cup edge API on Injective EVM where the x402 USDC receipt IS the pre-kickoff timestamp, plus a free public ledger that CLV-scores every settled pick — losses included.",
+  "source_repo": "edycutjong/linelock",
+  "source_url": "https://github.com/edycutjong/linelock",
+  "install": "# git clone --depth 1 https://github.com/edycutjong/linelock\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "testrail-mcp",
+  "description": "An MCP server for TestRail that prepares everything needed to generate test cases from Jira tickets, Confluence pages, or free-form specs and pushes them back to TestRail.",
+  "source_repo": "Sergey-Bl/testrail-mcp",
+  "source_url": "https://github.com/Sergey-Bl/testrail-mcp",
+  "install": "npx -y testrail-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "craftor",
+  "description": "Universal autonomous MCP platform for WordPress, Elementor, and WooCommerce enabling AI clients to inspect, design, build, test, and manage websites.",
+  "source_repo": "djsushilkumar/Craftor",
+  "source_url": "https://github.com/djsushilkumar/Craftor",
+  "install": "# git clone --depth 1 https://github.com/djsushilkumar/Craftor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uniarticles-mcp-server",
+  "description": "Unifies academic literature retrieval from multiple sources like Scopus, ArXiv, PubMed, and Google Scholar into a single standardized API for LLM agents.",
+  "source_repo": "thinktraveller/UniArticles_MCPserver",
+  "source_url": "https://github.com/thinktraveller/UniArticles_MCPserver",
+  "install": "# git clone --depth 1 https://github.com/thinktraveller/UniArticles_MCPserver\n# See source for mcpServers config block"
+}

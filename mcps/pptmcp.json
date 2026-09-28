@@ -1,0 +1,7 @@
+{
+  "name": "pptmcp",
+  "description": "Enables AI assistants to automate Microsoft PowerPoint through natural language, supporting slide creation, text formatting, charts, animations, and export via the COM API.",
+  "source_repo": "trsdn/mcp-server-ppt",
+  "source_url": "https://github.com/trsdn/mcp-server-ppt",
+  "install": "# git clone --depth 1 https://github.com/trsdn/mcp-server-ppt\n# See source for mcpServers config block"
+}

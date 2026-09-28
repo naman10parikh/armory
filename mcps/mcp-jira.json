@@ -1,0 +1,7 @@
+{
+  "name": "mcp-jira",
+  "description": "Enables interaction with Jira issues, projects, and comments via API Key. Supports operations like creating, updating, searching, transitioning issues, and managing projects.",
+  "source_repo": "Renan1fps/mcp-jira",
+  "source_url": "https://github.com/Renan1fps/mcp-jira",
+  "install": "# git clone --depth 1 https://github.com/Renan1fps/mcp-jira\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dsh-agentlink",
+  "description": "Enables Codex and Claude Code to delegate implementation, research, debugging, and long-log work to DeepSeek Harness, then observe, continue, or cancel those sessions without leaving the primary workflow.",
+  "source_repo": "Fly2Kiana/Codex-DSH-Orchestrator",
+  "source_url": "https://github.com/Fly2Kiana/Codex-DSH-Orchestrator",
+  "install": "# git clone --depth 1 https://github.com/Fly2Kiana/Codex-DSH-Orchestrator\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp4rs-open-earth-explorer",
+  "description": "Enables discovery, analysis, and explanation of open satellite data through MCP, with support for STAC catalogs and NASA GIBS.",
+  "source_repo": "MCP4RemoteSensing/mcp4rs-open-earth",
+  "source_url": "https://github.com/MCP4RemoteSensing/mcp4rs-open-earth",
+  "install": "# git clone --depth 1 https://github.com/MCP4RemoteSensing/mcp4rs-open-earth\n# See source for mcpServers config block"
+}

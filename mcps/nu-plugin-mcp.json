@@ -1,0 +1,7 @@
+{
+  "name": "nu-plugin-mcp",
+  "description": "Runs MCP servers whose tools are ordinary Nushell closures, supporting stdio and Streamable HTTP.",
+  "source_repo": "ctison/nu_plugin_mcp",
+  "source_url": "https://github.com/ctison/nu_plugin_mcp",
+  "install": "npx -y nu_plugin_mcp"
+}

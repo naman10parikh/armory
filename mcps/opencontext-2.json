@@ -1,0 +1,7 @@
+{
+  "name": "opencontext-2",
+  "description": "An MCP server that connects to open data portals like CKAN and Socrata, enabling natural language querying of datasets via Claude.",
+  "source_repo": "codeforanchorage/anchorage-parcels-mcp",
+  "source_url": "https://github.com/codeforanchorage/anchorage-parcels-mcp",
+  "install": "npx -y anchorage-parcels-mcp"
+}

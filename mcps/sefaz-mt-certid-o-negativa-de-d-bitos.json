@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-mt-certid-o-negativa-de-d-bitos",
+  "description": "Enables querying SEFAZ MT's official negative debt certificate (Certidão Negativa de Débitos), providing a read-only tool for checking tax debt status in Mato Grosso, Brazil.",
+  "source_repo": "mcp-dir/sefaz_mt_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_mt_certidao_debitos-mcp",
+  "install": "npx -y sefaz_mt_certidao_debitos-mcp"
+}

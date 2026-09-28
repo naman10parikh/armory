@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-alphavantage",
-  "description": "MCP Server AlphaVantage MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Hasan-Syed25/MCP-Server-AlphaVantage",
   "source_url": "https://mcp.so/server/MCP-Server-AlphaVantage/Hasan-Syed25",
   "install": "# git clone --depth 1 https://mcp.so/server/MCP-Server-AlphaVantage/Hasan-Syed25\n# See source for mcpServers config block"

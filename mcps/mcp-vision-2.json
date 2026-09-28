@@ -1,0 +1,7 @@
+{
+  "name": "mcp-vision-2",
+  "description": "A local autonomous AI agent that watches your screen, understands the visual layout, and executes native OS commands (clicking, typing) without cloud APIs.",
+  "source_repo": "hussainn7/mcp-vision",
+  "source_url": "https://github.com/hussainn7/mcp-vision",
+  "install": "# git clone --depth 1 https://github.com/hussainn7/mcp-vision\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "la-legislative",
+  "description": "A read-only MCP server for querying Los Angeles City legislative data - Council Files, votes, member activity, and Neighborhood Council engagement - through parameterized tools without raw SQL.",
+  "source_repo": "Rehaan12345/legi-mcp",
+  "source_url": "https://github.com/Rehaan12345/legi-mcp",
+  "install": "npx -y legi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "data-baltimore",
+  "description": "Access Baltimore open data (data.baltimorecity.gov) via ArcGIS REST API, enabling querying and retrieval of city datasets through natural language or direct tool calls.",
+  "source_repo": "pipeworx-io/mcp-data-baltimore",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-baltimore",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-baltimore\n# See source for mcpServers config block"
+}

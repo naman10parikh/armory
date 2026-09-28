@@ -1,0 +1,7 @@
+{
+  "name": "sprout-mcp-2",
+  "description": "Read-only MCP server for the Sprout Social public API, exposing profile and post analytics as tools with raw JSON passthrough.",
+  "source_repo": "shauryasa0/Sprout-Social-API---MCP-Connection",
+  "source_url": "https://github.com/shauryasa0/Sprout-Social-API---MCP-Connection",
+  "install": "# git clone --depth 1 https://github.com/shauryasa0/Sprout-Social-API---MCP-Connection\n# See source for mcpServers config block"
+}

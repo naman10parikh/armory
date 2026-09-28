@@ -1,0 +1,7 @@
+{
+  "name": "robokassa-mcp",
+  "description": "MCP server for the Robokassa payment gateway, enabling AI agents to create invoices, check payments, process refunds, manage recurring subscriptions, and handle fiscal receipts via natural language.",
+  "source_repo": "artgas1/robokassa-mcp",
+  "source_url": "https://github.com/artgas1/robokassa-mcp",
+  "install": "npx -y robokassa-mcp"
+}

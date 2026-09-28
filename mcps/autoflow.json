@@ -1,0 +1,7 @@
+{
+  "name": "autoflow",
+  "description": "AutoFlow enables AI agents to automate Windows desktop tasks by visually recognizing screen elements and simulating keyboard and mouse actions, with 18 MCP tools for workflow control.",
+  "source_repo": "66maer/AutoFlow",
+  "source_url": "https://github.com/66maer/AutoFlow",
+  "install": "# git clone --depth 1 https://github.com/66maer/AutoFlow\n# See source for mcpServers config block"
+}

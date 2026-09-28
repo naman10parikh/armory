@@ -1,0 +1,7 @@
+{
+  "name": "powerbi-mcp",
+  "description": "MCP server for Power BI — local PBIX file analysis, cloud API operations, report export, and semantic model extraction from Power BI Desktop.",
+  "source_repo": "AjvoGod/powerbi-mcp",
+  "source_url": "https://github.com/AjvoGod/powerbi-mcp",
+  "install": "npx -y powerbi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shottr-mcp",
+  "description": "An Effect-native MCP server that lets local agents silently capture macOS windows, displays, and exact regions, then produce Shottr-style PNGs with programmable annotations, backgrounds, padding, rounded corners, and shadows.",
+  "source_repo": "DeepanshuMishraa/shottr-mcp",
+  "source_url": "https://github.com/DeepanshuMishraa/shottr-mcp",
+  "install": "npx -y shottr-mcp"
+}

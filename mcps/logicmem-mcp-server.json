@@ -1,0 +1,7 @@
+{
+  "name": "logicmem-mcp-server",
+  "description": "Provides persistent memory, reasoning engine, agent-to-agent sharing, and immutable audit trail for AI agents via the Model Context Protocol.",
+  "source_repo": "CreedLab/logicmem-mcp",
+  "source_url": "https://github.com/CreedLab/logicmem-mcp",
+  "install": "npx -y logicmem-mcp"
+}

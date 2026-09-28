@@ -1,0 +1,7 @@
+{
+  "name": "jarvis-assistant-vocal-mcp-server",
+  "description": "Exposes home automation and PC control tools from the Jarvis vocal assistant to any MCP client, such as Claude Desktop or Hermes.",
+  "source_repo": "sosoj92/jarvis-assistant-vocal",
+  "source_url": "https://github.com/sosoj92/jarvis-assistant-vocal",
+  "install": "# git clone --depth 1 https://github.com/sosoj92/jarvis-assistant-vocal\n# See source for mcpServers config block"
+}

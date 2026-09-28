@@ -1,0 +1,7 @@
+{
+  "name": "act-mcp",
+  "description": "Exposes tools to list, run, and inspect GitHub Actions workflows locally via act, enabling debugging and fixing failures through an agent loop.",
+  "source_repo": "Isco0819/act-mcp",
+  "source_url": "https://github.com/Isco0819/act-mcp",
+  "install": "npx -y act-mcp"
+}

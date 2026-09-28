@@ -1,0 +1,7 @@
+{
+  "name": "font-mcp",
+  "description": "An expert design advisor MCP server that researches live discussions, scans project files, and automatically downloads font files for your project setup.",
+  "source_repo": "Microck/font-mcp",
+  "source_url": "https://github.com/Microck/font-mcp",
+  "install": "npx -y font-mcp"
+}

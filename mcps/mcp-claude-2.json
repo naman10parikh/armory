@@ -1,6 +1,6 @@
 {
   "name": "mcp-claude-2",
-  "description": "Mcp Claude MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "hrushik-reddy/mcp-claude",
   "source_url": "https://mcp.so/server/mcp-claude/hrushik-reddy",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-claude/hrushik-reddy\n# See source for mcpServers config block"

@@ -1,0 +1,7 @@
+{
+  "name": "leafbridge",
+  "description": "Connects Claude/ChatGPT to Overleaf projects via the Git integration, enabling read, edit, write, and file management through natural language commands.",
+  "source_repo": "yasaminfayyaz/milatexai",
+  "source_url": "https://github.com/yasaminfayyaz/milatexai",
+  "install": "# git clone --depth 1 https://github.com/yasaminfayyaz/milatexai\n# See source for mcpServers config block"
+}

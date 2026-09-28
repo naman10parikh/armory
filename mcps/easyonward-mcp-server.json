@@ -1,0 +1,7 @@
+{
+  "name": "easyonward-mcp-server",
+  "description": "Enables AI assistants to check passport visa, entry, and transit requirements for a country pair using official government sources and a deep link to EasyOnward.",
+  "source_repo": "EasyOnward/mcp-server",
+  "source_url": "https://github.com/EasyOnward/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/EasyOnward/mcp-server\n# See source for mcpServers config block"
+}

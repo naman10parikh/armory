@@ -1,0 +1,7 @@
+{
+  "name": "swiss-electricity-mcp",
+  "description": "MCP server for Swiss electricity data from three official sources — production mix, consumption forecast, storage-lake fill, consumer price index, tariffs per municipality, and dataset discovery. Zero authentication.",
+  "source_repo": "malkreide/swiss-electricity-mcp",
+  "source_url": "https://github.com/malkreide/swiss-electricity-mcp",
+  "install": "npx -y swiss-electricity-mcp"
+}

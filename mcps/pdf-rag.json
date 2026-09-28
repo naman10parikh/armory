@@ -1,0 +1,7 @@
+{
+  "name": "pdf-rag",
+  "description": "Convert PDF documents to Markdown and query them using AI with source attribution and confidence scoring, supporting multiple LLM providers.",
+  "source_repo": "Prototype-Cafe-LLC/pdf_extractor",
+  "source_url": "https://github.com/Prototype-Cafe-LLC/pdf_extractor",
+  "install": "# git clone --depth 1 https://github.com/Prototype-Cafe-LLC/pdf_extractor\n# See source for mcpServers config block"
+}

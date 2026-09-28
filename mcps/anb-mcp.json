@@ -1,0 +1,7 @@
+{
+  "name": "anb-mcp",
+  "description": "An MCP front-end for AnB. The tool surface is \"use-don't-reveal\": no tool returns a plaintext secret. Reveal paths require a TTY the server doesn't have, so the no-reveal guarantee is structural, not prompt-based — it holds even against a prompt-injected agent. Runs as a dedicated, narrowly-scoped A",
+  "source_repo": "kaka-milan-22/AnB_MCP",
+  "source_url": "https://github.com/kaka-milan-22/AnB_MCP",
+  "install": "npx -y AnB_MCP"
+}

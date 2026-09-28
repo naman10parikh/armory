@@ -1,0 +1,7 @@
+{
+  "name": "osrs-companion",
+  "description": "Enables AI assistants to search the OSRS Wiki, lookup Grand Exchange prices, and access synced player data (bank, skills, quests, etc.) via local RuneLite plugin files.",
+  "source_repo": "isaachansen/osrs-companion",
+  "source_url": "https://github.com/isaachansen/osrs-companion",
+  "install": "# git clone --depth 1 https://github.com/isaachansen/osrs-companion\n# See source for mcpServers config block"
+}

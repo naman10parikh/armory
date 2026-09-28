@@ -1,0 +1,7 @@
+{
+  "name": "crowdsec-mcp",
+  "description": "A read-only MCP server that exposes CrowdSec decisions and alerts via the LAPI. Provides tools such as list_decisions, decisions_stream, list_alerts, and get_alert.",
+  "source_repo": "Swarsel/crowdsec-mcp",
+  "source_url": "https://github.com/Swarsel/crowdsec-mcp",
+  "install": "npx -y crowdsec-mcp"
+}

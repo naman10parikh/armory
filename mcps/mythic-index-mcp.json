@@ -1,0 +1,7 @@
+{
+  "name": "mythic-index-mcp",
+  "description": "MCP server for Magic: The Gathering card prices, deck analysis, sealed product EV calculations, and investment insights, powered by live data from 5 vendors covering 99K+ cards.",
+  "source_repo": "wizkid17/mythic-index-mcp",
+  "source_url": "https://github.com/wizkid17/mythic-index-mcp",
+  "install": "npx -y mythic-index-mcp"
+}

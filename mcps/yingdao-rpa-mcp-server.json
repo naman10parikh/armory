@@ -1,0 +1,7 @@
+{
+  "name": "yingdao-rpa-mcp-server",
+  "description": "Enables AI to execute RPA applications and workflows through the Model Context Protocol, supporting both local and cloud modes.",
+  "source_repo": "catinair/aipower-rpa-mcp-server",
+  "source_url": "https://github.com/catinair/aipower-rpa-mcp-server",
+  "install": "npx -y aipower-rpa-mcp-server"
+}

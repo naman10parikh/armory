@@ -1,0 +1,7 @@
+{
+  "name": "theses-mcp",
+  "description": "MCP server that enables searching and retrieving Czech university theses from theses.cz, including full-text search, metadata, and direct PDF downloads with optional cookie-based authentication.",
+  "source_repo": "koprjaa/theses-mcp",
+  "source_url": "https://github.com/koprjaa/theses-mcp",
+  "install": "npx -y theses-mcp"
+}

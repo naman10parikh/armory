@@ -1,0 +1,7 @@
+{
+  "name": "customerthermometer-mcp",
+  "description": "MCP server for Customer Thermometer, enabling email-based CSAT/NPS survey reporting and sending via MCP tools.",
+  "source_repo": "MSPbotsAI/customerthermometer-mcp",
+  "source_url": "https://github.com/MSPbotsAI/customerthermometer-mcp",
+  "install": "npx -y customerthermometer-mcp"
+}

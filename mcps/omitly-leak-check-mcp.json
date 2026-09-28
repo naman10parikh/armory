@@ -1,0 +1,7 @@
+{
+  "name": "omitly-leak-check-mcp",
+  "description": "Detects whether sensitive data like emails, SSNs, and phone numbers survive in supposedly redacted PDFs, running entirely locally via WebAssembly.",
+  "source_repo": "ghadmin-innisfallen-master/omitly-leak-check-mcp",
+  "source_url": "https://github.com/ghadmin-innisfallen-master/omitly-leak-check-mcp",
+  "install": "npx -y omitly-leak-check-mcp"
+}

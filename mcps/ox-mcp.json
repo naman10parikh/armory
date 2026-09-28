@@ -1,0 +1,7 @@
+{
+  "name": "ox-mcp",
+  "description": "MCP server for Open-Xchange & standards-based mail: email (IMAP/SMTP), Sieve filters, CalDAV calendar, CardDAV contacts, free/busy.",
+  "source_repo": "Rheopyrin/ox-mcp",
+  "source_url": "https://github.com/Rheopyrin/ox-mcp",
+  "install": "npx -y ox-mcp"
+}

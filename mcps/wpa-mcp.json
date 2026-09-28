@@ -1,0 +1,7 @@
+{
+  "name": "wpa-mcp",
+  "description": "Control Linux WiFi from Claude and other MCP clients — scan, connect, debug, and automate networks (WPA-PSK, WPA2-Enterprise, EAP-TLS, Hotspot 2.0, captive portals, MAC randomization) over the Model Context Protocol.",
+  "source_repo": "dogkeeper886/wpa-mcp",
+  "source_url": "https://github.com/dogkeeper886/wpa-mcp",
+  "install": "npx -y wpa-mcp"
+}

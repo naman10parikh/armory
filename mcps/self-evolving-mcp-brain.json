@@ -1,0 +1,7 @@
+{
+  "name": "self-evolving-mcp-brain",
+  "description": "A self-updating MCP system that analyzes design and code inputs with an LLM, refines them through conversation, and crystallizes approved patterns into a local skill library for MCP agents.",
+  "source_repo": "raaaas/Self-Evolving-MCP-Brain",
+  "source_url": "https://github.com/raaaas/Self-Evolving-MCP-Brain",
+  "install": "# git clone --depth 1 https://github.com/raaaas/Self-Evolving-MCP-Brain\n# See source for mcpServers config block"
+}

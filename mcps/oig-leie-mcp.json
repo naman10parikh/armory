@@ -1,0 +1,7 @@
+{
+  "name": "oig-leie-mcp",
+  "description": "Screens individuals and entities against the OIG LEIE exclusion list, returning candidate matches that require human verification.",
+  "source_repo": "gm4prezi/oig-leie",
+  "source_url": "https://github.com/gm4prezi/oig-leie",
+  "install": "# git clone --depth 1 https://github.com/gm4prezi/oig-leie\n# See source for mcpServers config block"
+}

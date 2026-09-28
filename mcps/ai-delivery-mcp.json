@@ -1,0 +1,7 @@
+{
+  "name": "ai-delivery-mcp",
+  "description": "Automates task delivery by providing tools for running delivery workflows, creating merge requests, updating Jira issues, and generating release notes.",
+  "source_repo": "minhtzy/MCP",
+  "source_url": "https://github.com/minhtzy/MCP",
+  "install": "# git clone --depth 1 https://github.com/minhtzy/MCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yt-feed-mcp",
+  "description": "Enables AI assistants to list YouTube subscriptions and unsubscribe from all or specific channels via browser automation and InnerTube API.",
+  "source_repo": "ashybulakstroy/youtube-unsubscribe-all-mcp",
+  "source_url": "https://github.com/ashybulakstroy/youtube-unsubscribe-all-mcp",
+  "install": "npx -y youtube-unsubscribe-all-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-1c",
+  "description": "Provides 1C configuration metadata, platform syntax, and query language reference for BSL coding agents. Resolves natural language terms to exact object names, returning structures, relationships, and version-aware method details.",
+  "source_repo": "AzeevAN/mcp-1c",
+  "source_url": "https://github.com/AzeevAN/mcp-1c",
+  "install": "# git clone --depth 1 https://github.com/AzeevAN/mcp-1c\n# See source for mcpServers config block"
+}

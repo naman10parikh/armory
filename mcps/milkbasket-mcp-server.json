@@ -1,0 +1,7 @@
+{
+  "name": "milkbasket-mcp-server",
+  "description": "Enables AI assistants to interact with Milkbasket for grocery shopping, including OTP authentication, product search, cart management, wallet balance checks, and order summaries through natural language.",
+  "source_repo": "Anujsup/milkbasket-mcp",
+  "source_url": "https://github.com/Anujsup/milkbasket-mcp",
+  "install": "npx -y milkbasket-mcp"
+}

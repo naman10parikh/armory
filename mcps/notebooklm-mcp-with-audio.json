@@ -1,0 +1,7 @@
+{
+  "name": "notebooklm-mcp-with-audio",
+  "description": "Custom MCP server for NotebookLM that adds audio source upload, YouTube source ingestion, source readiness polling, and transcript export, complementing standard Q&A and audio overview tools.",
+  "source_repo": "sasuketorii/notebooklm_mcp_with",
+  "source_url": "https://github.com/sasuketorii/notebooklm_mcp_with",
+  "install": "# git clone --depth 1 https://github.com/sasuketorii/notebooklm_mcp_with\n# See source for mcpServers config block"
+}

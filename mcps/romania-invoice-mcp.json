@@ -1,0 +1,7 @@
+{
+  "name": "romania-invoice-mcp",
+  "description": "Enables AI agents to issue Romania e-Factura electronic invoices (factura electronica) into the national ANAF/SPV system by building UBL 2.1 CIUS-RO XML and uploading it under the merchant's own ANAF access token.",
+  "source_repo": "junter1989k-ai/romania-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/romania-invoice-mcp",
+  "install": "npx -y romania-invoice-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "image-studio-mcp",
+  "description": "Enables image generation using Google Gemini models (flash/pro) with support for multiple sizes, reference images, and access control via Google OAuth and email allow-lists.",
+  "source_repo": "FloLey/image-mcp",
+  "source_url": "https://github.com/FloLey/image-mcp",
+  "install": "npx -y image-mcp"
+}

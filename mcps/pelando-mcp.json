@@ -1,0 +1,7 @@
+{
+  "name": "pelando-mcp",
+  "description": "MCP server for pelando.com.br, the Brazilian community deal board. It enables searching and browsing deals, retrieving deal details and comments, and assessing crowd quality verdicts.",
+  "source_repo": "gabrielbelli/pelando-mcp",
+  "source_url": "https://github.com/gabrielbelli/pelando-mcp",
+  "install": "npx -y pelando-mcp"
+}

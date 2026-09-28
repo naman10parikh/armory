@@ -1,0 +1,7 @@
+{
+  "name": "firmmem-mcp-server",
+  "description": "A pure SQLite structured long-term memory MCP server for AI agents, featuring adaptive Ebbinghaus forgetting curves, hierarchical memory tiers, trust feedback, and anomaly detection—all fully offline with deterministic scoring.",
+  "source_repo": "jiayoupengpeng/firmmem-mcp",
+  "source_url": "https://github.com/jiayoupengpeng/firmmem-mcp",
+  "install": "npx -y firmmem-mcp"
+}

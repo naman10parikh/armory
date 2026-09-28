@@ -1,0 +1,7 @@
+{
+  "name": "here-now-er-mcp",
+  "description": "An MCP server that provides real-time emergency room availability, open hospitals, pharmacies, and drug information for Korean users, especially useful during non-business hours.",
+  "source_repo": "blottosicei/here-now-er-mcp",
+  "source_url": "https://github.com/blottosicei/here-now-er-mcp",
+  "install": "npx -y here-now-er-mcp"
+}

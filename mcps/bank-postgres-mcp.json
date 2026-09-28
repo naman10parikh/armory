@@ -1,0 +1,7 @@
+{
+  "name": "bank-postgres-mcp",
+  "description": "HTTP MCP server that reads from and writes to a PostgreSQL database (bankdb). Provides tools for querying and managing customer, account, and transaction data.",
+  "source_repo": "prashil1996/github-postgres-mcp",
+  "source_url": "https://github.com/prashil1996/github-postgres-mcp",
+  "install": "npx -y github-postgres-mcp"
+}

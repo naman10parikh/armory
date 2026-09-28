@@ -1,0 +1,7 @@
+{
+  "name": "ophelia-execution-verifier",
+  "description": "MCP server that verifies restaurant booking outcomes by reconciling API claims against independent re-reads, with a recovery dial for stakes-based retry policies.",
+  "source_repo": "CodedVibesX/ophelia-execution-verifier",
+  "source_url": "https://github.com/CodedVibesX/ophelia-execution-verifier",
+  "install": "# git clone --depth 1 https://github.com/CodedVibesX/ophelia-execution-verifier\n# See source for mcpServers config block"
+}

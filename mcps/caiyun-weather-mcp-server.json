@@ -1,0 +1,7 @@
+{
+  "name": "caiyun-weather-mcp-server",
+  "description": "Enables querying real-time, hourly, weekly, and historical weather data, as well as weather alerts, using the Caiyun Weather API.",
+  "source_repo": "caiyunapp/mcp-caiyun-weather",
+  "source_url": "https://github.com/caiyunapp/mcp-caiyun-weather",
+  "install": "# git clone --depth 1 https://github.com/caiyunapp/mcp-caiyun-weather\n# See source for mcpServers config block"
+}

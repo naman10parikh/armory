@@ -1,0 +1,7 @@
+{
+  "name": "spec-coding-mcp",
+  "description": "A local MCP server for spec-driven development, enabling users to create, review, and manage specs that guide AI code generation and testing.",
+  "source_repo": "xy200303/spec-coding-mcp",
+  "source_url": "https://github.com/xy200303/spec-coding-mcp",
+  "install": "npx -y spec-coding-mcp"
+}

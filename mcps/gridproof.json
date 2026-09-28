@@ -1,0 +1,7 @@
+{
+  "name": "gridproof",
+  "description": "Audits spacing, gaps, and element sizes in AI-generated UIs and returns fix hints the agent applies. Tailwind-first, with accessibility fallback.",
+  "source_repo": "gridproof/gridproof",
+  "source_url": "https://github.com/gridproof/gridproof",
+  "install": "# git clone --depth 1 https://github.com/gridproof/gridproof\n# See source for mcpServers config block"
+}

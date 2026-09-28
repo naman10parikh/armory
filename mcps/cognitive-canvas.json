@@ -1,0 +1,7 @@
+{
+  "name": "cognitive-canvas",
+  "description": "Transforms AI assistants into research-grade cognitive workspaces with systematic reasoning, evidence-based analysis, persistent memory management, and intelligent knowledge discovery.",
+  "source_repo": "OsmondJiang/Cognitive-Canvas-MCP",
+  "source_url": "https://github.com/OsmondJiang/Cognitive-Canvas-MCP",
+  "install": "npx -y Cognitive-Canvas-MCP"
+}

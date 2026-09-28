@@ -1,0 +1,7 @@
+{
+  "name": "accuknox-mcp-server",
+  "description": "Enables interaction with the AccuKnox cloud security platform through MCP, allowing users to query cloud assets, vulnerabilities, and perform security analysis via natural language or API.",
+  "source_repo": "accuknox/mcp_server",
+  "source_url": "https://github.com/accuknox/mcp_server",
+  "install": "# git clone --depth 1 https://github.com/accuknox/mcp_server\n# See source for mcpServers config block"
+}

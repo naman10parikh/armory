@@ -1,0 +1,7 @@
+{
+  "name": "subagent-harness-mcp",
+  "description": "A local MCP server that enables Codex and other MCP clients to orchestrate native external coding-agent harnesses through a normalized lifecycle, with guarded execution and deterministic testing.",
+  "source_repo": "Thang1710/subagent-mcp",
+  "source_url": "https://github.com/Thang1710/subagent-mcp",
+  "install": "npx -y subagent-mcp"
+}

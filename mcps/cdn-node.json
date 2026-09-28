@@ -1,0 +1,7 @@
+{
+  "name": "cdn-node",
+  "description": "Enables auditing or configuring a registered Linux origin as a single Cloudflare-fronted 3x-ui/Xray WebSocket node through a fixed 31-tool MCP contract.",
+  "source_repo": "meatball-cat/CDN-Proxy",
+  "source_url": "https://github.com/meatball-cat/CDN-Proxy",
+  "install": "# git clone --depth 1 https://github.com/meatball-cat/CDN-Proxy\n# See source for mcpServers config block"
+}

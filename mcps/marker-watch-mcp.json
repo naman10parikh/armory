@@ -1,0 +1,7 @@
+{
+  "name": "marker-watch-mcp",
+  "description": "Runs a long-lived command and converts its marked output into versioned build snapshots, exposing status, output, and waiting tools over MCP.",
+  "source_repo": "foxfirecodes/marker-watch-mcp",
+  "source_url": "https://github.com/foxfirecodes/marker-watch-mcp",
+  "install": "npx -y marker-watch-mcp"
+}

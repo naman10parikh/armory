@@ -1,0 +1,7 @@
+{
+  "name": "pubchem-mcp",
+  "description": "Enables querying PubChem compound properties and structure images through MCP, providing formula, molecular weight, SMILES, IUPAC name, and image URLs.",
+  "source_repo": "Fishquito7/pubchem-mcp",
+  "source_url": "https://github.com/Fishquito7/pubchem-mcp",
+  "install": "npx -y pubchem-mcp"
+}

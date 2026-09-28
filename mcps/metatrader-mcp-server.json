@@ -1,0 +1,7 @@
+{
+  "name": "metatrader-mcp-server",
+  "description": "Enables AI assistants to trade on MetaTrader 5 using natural language, supporting account management, order placement, and real-time market data.",
+  "source_repo": "joangrcia/metatrader-mcp-server",
+  "source_url": "https://github.com/joangrcia/metatrader-mcp-server",
+  "install": "npx -y metatrader-mcp-server"
+}

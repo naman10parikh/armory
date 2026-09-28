@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tudu",
+  "description": "MCP server that lets AI assistants create projects, epics, and tasks in the TuDu app through natural conversation. It securely connects over local HTTP with token authentication and requires on-screen confirmation before writing anything.",
+  "source_repo": "callipog/mcp-tudu",
+  "source_url": "https://github.com/callipog/mcp-tudu",
+  "install": "# git clone --depth 1 https://github.com/callipog/mcp-tudu\n# See source for mcpServers config block"
+}

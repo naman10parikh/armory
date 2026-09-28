@@ -1,0 +1,7 @@
+{
+  "name": "stormscope",
+  "description": "Provides real-time US weather data for AI assistants via MCP, including current conditions, forecasts, alerts, severe weather outlooks, radar, upper-air analysis, and surface analysis. Supports optional personal weather station integration.",
+  "source_repo": "thornjad/stormscope",
+  "source_url": "https://github.com/thornjad/stormscope",
+  "install": "# git clone --depth 1 https://github.com/thornjad/stormscope\n# See source for mcpServers config block"
+}

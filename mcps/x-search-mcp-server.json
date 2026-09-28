@@ -1,0 +1,7 @@
+{
+  "name": "x-search-mcp-server",
+  "description": "Enables searching X (Twitter) posts, discussions, trends, and web content via Grok API using natural language.",
+  "source_repo": "phiclin/x-search-mcp",
+  "source_url": "https://github.com/phiclin/x-search-mcp",
+  "install": "npx -y x-search-mcp"
+}

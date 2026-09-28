@@ -1,0 +1,7 @@
+{
+  "name": "rendershot-mcp-server",
+  "description": "Enables AI agents to capture screenshots and generate PDFs from URLs or HTML via the Rendershot API.",
+  "source_repo": "Rendershot/rendershot-mcp-server",
+  "source_url": "https://github.com/Rendershot/rendershot-mcp-server",
+  "install": "npx -y rendershot-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hdc-nexus-mcp-server",
+  "description": "Read-only MCP server for searching and listing components in Nexus Repository Manager 3 (Docker, Maven, npm, PyPI, etc.) with tools for repositories, components, Docker tags, and latest version.",
+  "source_repo": "himurafred/hdc-nexus-mcp-server",
+  "source_url": "https://github.com/himurafred/hdc-nexus-mcp-server",
+  "install": "npx -y hdc-nexus-mcp-server"
+}

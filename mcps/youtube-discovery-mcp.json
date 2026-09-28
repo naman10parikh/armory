@@ -1,0 +1,7 @@
+{
+  "name": "youtube-discovery-mcp",
+  "description": "Enables discovering YouTube videos across multiple languages with personalized recommendations, feedback, and explanation of results, using YouTube Data API v3.",
+  "source_repo": "GaiJinn/youtube-discovery-mcp",
+  "source_url": "https://github.com/GaiJinn/youtube-discovery-mcp",
+  "install": "npx -y youtube-discovery-mcp"
+}

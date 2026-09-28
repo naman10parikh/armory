@@ -1,0 +1,7 @@
+{
+  "name": "autowhisper-mcp",
+  "description": "Drives an AI CMO to add products, generate on-brand content (UGC video, posts, images), approve, and publish across 30+ platforms via natural language.",
+  "source_repo": "xnjiang/autowhisper-mcp",
+  "source_url": "https://github.com/xnjiang/autowhisper-mcp",
+  "install": "npx -y autowhisper-mcp"
+}

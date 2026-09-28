@@ -1,0 +1,7 @@
+{
+  "name": "baton",
+  "description": "Connect any AI session to any other across models, machines, and people with one code. Enables relay, handoff, and verification of session contexts.",
+  "source_repo": "vinsenzo83/baton",
+  "source_url": "https://github.com/vinsenzo83/baton",
+  "install": "# git clone --depth 1 https://github.com/vinsenzo83/baton\n# See source for mcpServers config block"
+}

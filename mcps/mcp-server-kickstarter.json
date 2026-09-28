@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-kickstarter",
+  "description": "A CLI tool to scaffold and manage new MCP-compatible server projects with uv, including virtual environment setup, dependency management, and VS Code integration.",
+  "source_repo": "praveen-radakirouchenane/mcp-server-kickstarter",
+  "source_url": "https://github.com/praveen-radakirouchenane/mcp-server-kickstarter",
+  "install": "# git clone --depth 1 https://github.com/praveen-radakirouchenane/mcp-server-kickstarter\n# See source for mcpServers config block"
+}

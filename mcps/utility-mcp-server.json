@@ -1,0 +1,7 @@
+{
+  "name": "utility-mcp-server",
+  "description": "Provides basic greeting, math, and date utilities for AI assistants via the Model Context Protocol.",
+  "source_repo": "Asha-Devaraddi/utility-mcp-server",
+  "source_url": "https://github.com/Asha-Devaraddi/utility-mcp-server",
+  "install": "npx -y utility-mcp-server"
+}

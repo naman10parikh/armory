@@ -1,0 +1,7 @@
+{
+  "name": "detran-am-ve-culo",
+  "description": "MCP server for consulting DETRAN AM vehicle information from official sources. Enables read-only queries about vehicles through natural language in any MCP-compatible client.",
+  "source_repo": "mcp-dir/detran_am_veiculo-mcp",
+  "source_url": "https://github.com/mcp-dir/detran_am_veiculo-mcp",
+  "install": "npx -y detran_am_veiculo-mcp"
+}

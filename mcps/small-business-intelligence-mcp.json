@@ -1,0 +1,7 @@
+{
+  "name": "small-business-intelligence-mcp",
+  "description": "Provides free, zero-marginal-cost MCP tools for structured small business teardown, competitor analysis, review intelligence, and market opportunity scanning, returning research methodology for AI models to execute.",
+  "source_repo": "2016judea/small-business-intelligence-mcp",
+  "source_url": "https://github.com/2016judea/small-business-intelligence-mcp",
+  "install": "npx -y small-business-intelligence-mcp"
+}

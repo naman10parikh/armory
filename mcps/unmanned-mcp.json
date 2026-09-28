@@ -1,0 +1,7 @@
+{
+  "name": "unmanned-mcp",
+  "description": "An MCP server for the un.manned wiki that lets AI agents read and write wiki content securely without exposing API keys, with built-in guardrails for quotas, duplicates, and untrusted content.",
+  "source_repo": "tylampella/unmanned-mcp",
+  "source_url": "https://github.com/tylampella/unmanned-mcp",
+  "install": "npx -y unmanned-mcp"
+}

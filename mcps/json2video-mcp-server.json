@@ -1,0 +1,7 @@
+{
+  "name": "json2video-mcp-server",
+  "description": "Enables programmatic video generation via the json2video API, supporting scene and element creation, status polling, and template management.",
+  "source_repo": "omergocmen/json2video-mcp-server",
+  "source_url": "https://github.com/omergocmen/json2video-mcp-server",
+  "install": "npx -y json2video-mcp-server"
+}

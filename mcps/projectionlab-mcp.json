@@ -1,0 +1,7 @@
+{
+  "name": "projectionlab-mcp",
+  "description": "MCP server for ProjectionLab — export, snapshot, and restore your financial plans. Includes a built-in FIRE advisor knowledge base.",
+  "source_repo": "mormubis/projectionlab-mcp",
+  "source_url": "https://github.com/mormubis/projectionlab-mcp",
+  "install": "npx -y projectionlab-mcp"
+}

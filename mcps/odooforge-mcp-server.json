@@ -1,0 +1,7 @@
+{
+  "name": "odooforge-mcp-server",
+  "description": "Enables AI assistants to fully control and manage Odoo 18 ERP instances through 79 tools, including configuration, data operations, reporting, and code generation, with built-in domain knowledge and specialist agents.",
+  "source_repo": "hamzatrq/odoo-forge",
+  "source_url": "https://github.com/hamzatrq/odoo-forge",
+  "install": "# git clone --depth 1 https://github.com/hamzatrq/odoo-forge\n# See source for mcpServers config block"
+}

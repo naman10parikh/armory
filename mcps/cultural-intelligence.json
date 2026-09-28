@@ -1,0 +1,7 @@
+{
+  "name": "cultural-intelligence",
+  "description": "The cultural GPS for AI commerce. 504,472 aesthetic worlds mapped across 193 dimensions — from dark academia to k-beauty to quiet luxury. 3,154 autonomous agents update intelligence every 48 hours. 9 tools: product recommendations with affiliate links, brand cultural position, trend intelligence, co",
+  "source_repo": "",
+  "source_url": "https://sincetmw.ai",
+  "install": "# git clone --depth 1 https://sincetmw.ai\n# See source for mcpServers config block"
+}

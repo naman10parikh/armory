@@ -1,0 +1,7 @@
+{
+  "name": "mcp-solscan",
+  "description": "Enables querying Solana transaction details via the Solscan Pro v2 API.",
+  "source_repo": "pipeworx-io/mcp-solscan",
+  "source_url": "https://github.com/pipeworx-io/mcp-solscan",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-solscan\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "blogger-cli-mcp",
+  "description": "MCP server for managing Blogger posts: create, update, retrieve posts, and upload images to GCS via natural language.",
+  "source_repo": "tai1mo/blogger-cli-mcp",
+  "source_url": "https://github.com/tai1mo/blogger-cli-mcp",
+  "install": "npx -y blogger-cli-mcp"
+}

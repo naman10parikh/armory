@@ -1,0 +1,7 @@
+{
+  "name": "mdx-mcp",
+  "description": "Enables natural language querying of OLAP/SSAS cubes with verified MDX generation, self-consistency checks, and honest abstention when queries are ambiguous.",
+  "source_repo": "tghanchidnx/mdx-mcp",
+  "source_url": "https://github.com/tghanchidnx/mdx-mcp",
+  "install": "npx -y mdx-mcp"
+}

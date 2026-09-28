@@ -1,0 +1,7 @@
+{
+  "name": "cdrp-for-claude",
+  "description": "Shows your current Claude Desktop activity as Discord Rich Presence, including model, status, usage, and subscription info.",
+  "source_repo": "Arikazei/CDRP-for-Claude",
+  "source_url": "https://github.com/Arikazei/CDRP-for-Claude",
+  "install": "# git clone --depth 1 https://github.com/Arikazei/CDRP-for-Claude\n# See source for mcpServers config block"
+}

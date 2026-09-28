@@ -1,0 +1,7 @@
+{
+  "name": "siigo-pyme-mcp",
+  "description": "MCP server that exposes SIIGO Pyme to AI agents, wrapping EXCELSIIGO.exe to provide 47 import/export functions as MCP tools with automatic company discovery and JSON-parsed results.",
+  "source_repo": "javalenciacai/siigo-pyme-mcp",
+  "source_url": "https://github.com/javalenciacai/siigo-pyme-mcp",
+  "install": "npx -y siigo-pyme-mcp"
+}

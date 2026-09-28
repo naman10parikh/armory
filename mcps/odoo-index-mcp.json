@@ -1,0 +1,7 @@
+{
+  "name": "odoo-index-mcp",
+  "description": "Enables AI agents to search and retrieve details about Odoo code elements (models, fields, views, etc.) with exact file locations using MCP tools.",
+  "source_repo": "letzdoo/odoo-indexer-mcp",
+  "source_url": "https://github.com/letzdoo/odoo-indexer-mcp",
+  "install": "npx -y odoo-indexer-mcp"
+}

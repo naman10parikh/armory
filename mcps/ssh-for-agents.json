@@ -1,0 +1,7 @@
+{
+  "name": "ssh-for-agents",
+  "description": "Enables AI agents to execute SSH commands, read files, and list directories on remote hosts with a configurable command-safety policy.",
+  "source_repo": "WilliamSmithEdward/pySSHForAgents",
+  "source_url": "https://github.com/WilliamSmithEdward/pySSHForAgents",
+  "install": "# git clone --depth 1 https://github.com/WilliamSmithEdward/pySSHForAgents\n# See source for mcpServers config block"
+}

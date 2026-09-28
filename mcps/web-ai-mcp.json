@@ -1,0 +1,7 @@
+{
+  "name": "web-ai-mcp",
+  "description": "Provides free access to AI models (GPT-4o mini, Claude 3 Haiku, Llama 3.1) via DuckDuckGo AI chat without login, using stealth browser automation.",
+  "source_repo": "rutoassistant/web-ai-mcp",
+  "source_url": "https://github.com/rutoassistant/web-ai-mcp",
+  "install": "npx -y web-ai-mcp"
+}

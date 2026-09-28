@@ -1,0 +1,7 @@
+{
+  "name": "shelly-mcp",
+  "description": "MCP server for the entire Shelly smart-home ecosystem, enabling local-first control, automation, and energy monitoring of Shelly devices with cloud fallback.",
+  "source_repo": "Buggy1111/shelly-mcp",
+  "source_url": "https://github.com/Buggy1111/shelly-mcp",
+  "install": "npx -y shelly-mcp"
+}

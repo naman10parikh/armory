@@ -1,0 +1,7 @@
+{
+  "name": "cachebash",
+  "description": "An MCP server that coordinates AI coding agents with mobile notifications, enabling task queues, inter-agent messaging, session monitoring, and human-in-the-loop approvals.",
+  "source_repo": "rezzedai/cachebash",
+  "source_url": "https://github.com/rezzedai/cachebash",
+  "install": "# git clone --depth 1 https://github.com/rezzedai/cachebash\n# See source for mcpServers config block"
+}

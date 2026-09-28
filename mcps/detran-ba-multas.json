@@ -1,0 +1,7 @@
+{
+  "name": "detran-ba-multas",
+  "description": "Enables querying traffic fines (multas) from DETRAN Bahia via a read-only MCP tool, using official sources and natural language.",
+  "source_repo": "mcp-dir/detran_ba_multas-mcp",
+  "source_url": "https://github.com/mcp-dir/detran_ba_multas-mcp",
+  "install": "npx -y detran_ba_multas-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "telegram-bot-testing-mcp",
+  "description": "Enables AI agents to test Telegram bots by driving the official Telegram Web client in a real browser, allowing visual verification of bot responses, inline keyboards, and Mini Apps.",
+  "source_repo": "0x216/telegram-bot-testing-mcp",
+  "source_url": "https://github.com/0x216/telegram-bot-testing-mcp",
+  "install": "npx -y telegram-bot-testing-mcp"
+}

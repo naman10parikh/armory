@@ -1,0 +1,7 @@
+{
+  "name": "uk-rail-mcp",
+  "description": "Provides live UK rail data including station search, departures, arrivals, service details, and pre-filled Trainline booking links.",
+  "source_repo": "RealGUppercut/uk-rail-mcp",
+  "source_url": "https://github.com/RealGUppercut/uk-rail-mcp",
+  "install": "npx -y uk-rail-mcp"
+}

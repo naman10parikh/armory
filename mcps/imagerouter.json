@@ -1,0 +1,7 @@
+{
+  "name": "imagerouter",
+  "description": "Local MCP server that routes image-generation requests to xAI/Grok, Antigravity, and OpenAI Codex with ordered fallback, a local Playground, and an OpenAI-compatible image endpoint.",
+  "source_repo": "Duylamneuuu/imagerouter",
+  "source_url": "https://github.com/Duylamneuuu/imagerouter",
+  "install": "# git clone --depth 1 https://github.com/Duylamneuuu/imagerouter\n# See source for mcpServers config block"
+}

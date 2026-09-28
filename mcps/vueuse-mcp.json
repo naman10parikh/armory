@@ -1,0 +1,7 @@
+{
+  "name": "vueuse-mcp",
+  "description": "MCP server that gives AI coding agents instant access to VueUse documentation — search composables, read docs, and get suggestions.",
+  "source_repo": "kovoor/vueuse-mcp",
+  "source_url": "https://github.com/kovoor/vueuse-mcp",
+  "install": "npx -y vueuse-mcp"
+}

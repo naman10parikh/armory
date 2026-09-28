@@ -1,0 +1,7 @@
+{
+  "name": "scrapegraphai-mcp",
+  "description": "A local stdio MCP server for structured web scraping with ScrapeGraphAI and an OpenAI-compatible model API, providing tools to list models and scrape URLs.",
+  "source_repo": "HeartLoveLung/Scrapegraphai_MCP",
+  "source_url": "https://github.com/HeartLoveLung/Scrapegraphai_MCP",
+  "install": "npx -y Scrapegraphai_MCP"
+}

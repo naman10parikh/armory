@@ -1,0 +1,7 @@
+{
+  "name": "teamapi-mcp",
+  "description": "Manages API documentation via Markdown files and exposes it as MCP tools for querying, searching, and updating interface specs, with an admin web UI and REST API.",
+  "source_repo": "wx971025/TeamAPI-MCP",
+  "source_url": "https://github.com/wx971025/TeamAPI-MCP",
+  "install": "npx -y TeamAPI-MCP"
+}

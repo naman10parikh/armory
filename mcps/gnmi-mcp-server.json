@@ -1,0 +1,7 @@
+{
+  "name": "gnmi-mcp-server",
+  "description": "Enables AI assistants to manage network devices via gNMI protocol, including querying capabilities, reading/modifying configurations, and subscribing to telemetry data through natural language.",
+  "source_repo": "Howthemeaning/gnmi-mcp-server",
+  "source_url": "https://github.com/Howthemeaning/gnmi-mcp-server",
+  "install": "npx -y gnmi-mcp-server"
+}

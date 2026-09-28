@@ -1,0 +1,7 @@
+{
+  "name": "vibe-wallet-mcp-server",
+  "description": "Bridges AI agents with the Vibe Wallet browser extension to enable blockchain interactions such as account management, asset transfers, and smart contract calls.",
+  "source_repo": "vibe-wallet/vibe-mcp",
+  "source_url": "https://github.com/vibe-wallet/vibe-mcp",
+  "install": "npx -y vibe-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alpinedataworks-intelligence-server",
+  "description": "Agent-ready economic, market & geo-health intelligence — 163 MCP tools, 155 driver-backed indices.",
+  "source_repo": "btabiado/adw-mcp",
+  "source_url": "https://github.com/btabiado/adw-mcp",
+  "install": "npx -y adw-mcp"
+}

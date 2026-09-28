@@ -1,0 +1,7 @@
+{
+  "name": "websearch-mcp-server",
+  "description": "Enables web search through Exa or Parallel APIs for MCP-compatible AI clients like Cursor and Claude Code.",
+  "source_repo": "clint419/websearch-mcp-server",
+  "source_url": "https://github.com/clint419/websearch-mcp-server",
+  "install": "npx -y websearch-mcp-server"
+}

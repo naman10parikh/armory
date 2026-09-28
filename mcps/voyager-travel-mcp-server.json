@@ -1,0 +1,7 @@
+{
+  "name": "voyager-travel-mcp-server",
+  "description": "A MakeMyTrip-style travel-booking MCP server with flights, hotels, trains, and bookings, featuring risk-tiered tools and role-based access control.",
+  "source_repo": "rk9595/voyager-mcp",
+  "source_url": "https://github.com/rk9595/voyager-mcp",
+  "install": "npx -y voyager-mcp"
+}

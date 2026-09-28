@@ -1,0 +1,7 @@
+{
+  "name": "mcp-web-search-2",
+  "description": "Provides web search and page fetching capabilities via Serper.dev or DuckDuckGo, deployable on Render with SSE transport.",
+  "source_repo": "Komplex23/mcp-web-search",
+  "source_url": "https://github.com/Komplex23/mcp-web-search",
+  "install": "# git clone --depth 1 https://github.com/Komplex23/mcp-web-search\n# See source for mcpServers config block"
+}

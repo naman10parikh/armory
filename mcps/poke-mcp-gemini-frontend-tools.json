@@ -1,0 +1,7 @@
+{
+  "name": "poke-mcp-gemini-frontend-tools",
+  "description": "Provides AI-powered tools for UX/UI review, web component generation, and code refactoring using Google Gemini.",
+  "source_repo": "whoisbeet/poke-mcp-gemini-frontend-tools",
+  "source_url": "https://github.com/whoisbeet/poke-mcp-gemini-frontend-tools",
+  "install": "# git clone --depth 1 https://github.com/whoisbeet/poke-mcp-gemini-frontend-tools\n# See source for mcpServers config block"
+}

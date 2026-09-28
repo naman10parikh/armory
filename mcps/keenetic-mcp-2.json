@@ -1,0 +1,7 @@
+{
+  "name": "keenetic-mcp-2",
+  "description": "Enables MCP agents to control Keenetic routers via plain language, providing network monitoring, device management, and safe configuration changes with backup and read-only options.",
+  "source_repo": "salatmaster/keenetic-mcp",
+  "source_url": "https://github.com/salatmaster/keenetic-mcp",
+  "install": "npx -y keenetic-mcp"
+}

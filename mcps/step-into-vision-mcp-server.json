@@ -1,0 +1,7 @@
+{
+  "name": "step-into-vision-mcp-server",
+  "description": "Provides AI assistants with access to visionOS development articles from stepinto.vision, enabling browsing, retrieving, and searching content with AI-ready formats.",
+  "source_repo": "StepIntoVision/stepintovision.ai",
+  "source_url": "https://github.com/StepIntoVision/stepintovision.ai",
+  "install": "# git clone --depth 1 https://github.com/StepIntoVision/stepintovision.ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codex-worker-runtime",
+  "description": "Enables Codex to delegate bounded work to external LLMs through role-based MCP tools, with worker health checks and audit logging.",
+  "source_repo": "ykanbe/codex-worker-runtime",
+  "source_url": "https://github.com/ykanbe/codex-worker-runtime",
+  "install": "# git clone --depth 1 https://github.com/ykanbe/codex-worker-runtime\n# See source for mcpServers config block"
+}

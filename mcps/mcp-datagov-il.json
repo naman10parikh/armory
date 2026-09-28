@@ -1,0 +1,7 @@
+{
+  "name": "mcp-datagov-il",
+  "description": "Provides access to Israel's national open data portal (data.gov.il) via CKAN API, enabling listing of publishing organizations and thematic groups.",
+  "source_repo": "pipeworx-io/mcp-datagov-il",
+  "source_url": "https://github.com/pipeworx-io/mcp-datagov-il",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-datagov-il\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "webhook-verify",
+  "description": "Provides timing-safe, replay-resistant webhook signature verification for Stripe, GitHub, Slack, Shopify, and Twilio, returning valid/invalid with precise failure reasons.",
+  "source_repo": "Larslllllll/webhook-verify",
+  "source_url": "https://github.com/Larslllllll/webhook-verify",
+  "install": "# git clone --depth 1 https://github.com/Larslllllll/webhook-verify\n# See source for mcpServers config block"
+}

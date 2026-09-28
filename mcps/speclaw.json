@@ -1,0 +1,7 @@
+{
+  "name": "speclaw",
+  "description": "Local MCP server that gives AI agents a project constitution (LAWS.md), a code graph (Compass), and a spec-driven workflow — all 100% local with no LLM or cloud.",
+  "source_repo": "esneiderbravo/speclaw",
+  "source_url": "https://github.com/esneiderbravo/speclaw",
+  "install": "# git clone --depth 1 https://github.com/esneiderbravo/speclaw\n# See source for mcpServers config block"
+}

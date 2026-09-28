@@ -1,0 +1,7 @@
+{
+  "name": "fx-converter-mcp",
+  "description": "Enables currency conversion and exchange rate lookups using real ECB reference rates, free and without an API key. Supports natural language queries like 'convert 100 USD to EUR' or 'what's the exchange rate between GBP and JPY?'.",
+  "source_repo": "Lulu-The-Narwhal/fx-converter-mcp",
+  "source_url": "https://github.com/Lulu-The-Narwhal/fx-converter-mcp",
+  "install": "npx -y fx-converter-mcp"
+}

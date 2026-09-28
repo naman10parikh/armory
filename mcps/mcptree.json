@@ -1,0 +1,7 @@
+{
+  "name": "mcptree",
+  "description": "An MCP server that adds declarative decision trees to FastMCP, enabling deterministic branching logic for runbooks and triage flows with a full audit trail.",
+  "source_repo": "varmabudharaju/mcptree",
+  "source_url": "https://github.com/varmabudharaju/mcptree",
+  "install": "# git clone --depth 1 https://github.com/varmabudharaju/mcptree\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "molit-real-estate-transactions-mcp-server",
+  "description": "Enables natural language queries to retrieve Korean real estate transaction data (land, commercial, apartments) from the public API, returning structured tables and summary statistics.",
+  "source_repo": "jeon3709-dev/LandPrice_MCP",
+  "source_url": "https://github.com/jeon3709-dev/LandPrice_MCP",
+  "install": "npx -y LandPrice_MCP"
+}

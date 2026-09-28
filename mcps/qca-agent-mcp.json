@@ -1,0 +1,7 @@
+{
+  "name": "qca-agent-mcp",
+  "description": "Exposes eight QCA (quantum calibration) tools via a standards-based MCP stdio server for MCP-compatible agents to interact with backend status, experiments, schemas, parameters, dry-runs, history, and arrays.",
+  "source_repo": "Black-Jony/qca-agent-mcp",
+  "source_url": "https://github.com/Black-Jony/qca-agent-mcp",
+  "install": "npx -y qca-agent-mcp"
+}

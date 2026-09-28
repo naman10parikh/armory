@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-mcp-for-cursor",
+  "description": "Bridges Claude Code CLI with Cursor IDE to use your existing Claude subscription without separate API costs.",
+  "source_repo": "blackpwnguin/Claude-Code-MCP-for-Cursor",
+  "source_url": "https://github.com/blackpwnguin/Claude-Code-MCP-for-Cursor",
+  "install": "# git clone --depth 1 https://github.com/blackpwnguin/Claude-Code-MCP-for-Cursor\n# See source for mcpServers config block"
+}

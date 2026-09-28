@@ -1,0 +1,7 @@
+{
+  "name": "gho-mcp",
+  "description": "A Model Context Protocol (MCP) server that gives AI assistants direct access to the World Health Organization's Global Health Observatory (GHO) for comparative health systems research.",
+  "source_repo": "Decilion/gho-mcp",
+  "source_url": "https://github.com/Decilion/gho-mcp",
+  "install": "npx -y gho-mcp"
+}

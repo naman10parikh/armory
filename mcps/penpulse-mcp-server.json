@@ -1,0 +1,7 @@
+{
+  "name": "penpulse-mcp-server",
+  "description": "AI-powered content automation MCP server that enables researching topics, generating articles, formatting WeChat HTML, creating covers, and publishing drafts to WeChat Official Accounts.",
+  "source_repo": "vonmrs/penpulse-mcp",
+  "source_url": "https://github.com/vonmrs/penpulse-mcp",
+  "install": "npx -y penpulse-mcp"
+}

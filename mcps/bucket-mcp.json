@@ -1,0 +1,7 @@
+{
+  "name": "bucket-mcp",
+  "description": "MCP server that connects Claude to Bucket, enabling semantic search, browsing, reading, and downloading of saved content like Instagram reels, TikToks, tweets, YouTube videos, and notes, plus saving new URLs into the user's Bucket.",
+  "source_repo": "ahbidabs/bucket-mcp",
+  "source_url": "https://github.com/ahbidabs/bucket-mcp",
+  "install": "npx -y bucket-mcp"
+}

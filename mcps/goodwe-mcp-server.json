@@ -1,0 +1,7 @@
+{
+  "name": "goodwe-mcp-server",
+  "description": "Implementation of MCP server for GoodWe inverters",
+  "source_repo": "marcinn2/goodwe-inverter-mcp",
+  "source_url": "https://github.com/marcinn2/goodwe-inverter-mcp",
+  "install": "npx -y goodwe-inverter-mcp"
+}

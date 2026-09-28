@@ -1,0 +1,7 @@
+{
+  "name": "stu-management-mcp",
+  "description": "Local stdio MCP server that provides tools for calculating averages, evaluating scores into grades, and retrieving student names by student ID. It logs every call to JSONL files with timestamps and performance metrics.",
+  "source_repo": "ZhaoDay/stu-management-mcp",
+  "source_url": "https://github.com/ZhaoDay/stu-management-mcp",
+  "install": "npx -y stu-management-mcp"
+}

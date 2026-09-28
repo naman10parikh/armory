@@ -1,0 +1,7 @@
+{
+  "name": "korea-stats-mcp",
+  "description": "Enables natural language querying of Korean statistical data from KOSIS, including population, employment, GDP, housing prices, and more, with support for regional and trend analysis.",
+  "source_repo": "Dayoooun/korea-stats-mcp",
+  "source_url": "https://github.com/Dayoooun/korea-stats-mcp",
+  "install": "npx -y korea-stats-mcp"
+}

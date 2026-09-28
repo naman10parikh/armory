@@ -1,0 +1,7 @@
+{
+  "name": "japan-subsidy-search-mcp",
+  "description": "Real-time search of Japanese government subsidies and grants (official jGrants data): deadlines, amounts, eligibility, filterable by prefecture.",
+  "source_repo": "fujimura-ui/japan-subsidy-search-mcp",
+  "source_url": "https://github.com/fujimura-ui/japan-subsidy-search-mcp",
+  "install": "npx -y japan-subsidy-search-mcp"
+}

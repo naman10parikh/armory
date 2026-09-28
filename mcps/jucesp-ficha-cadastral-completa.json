@@ -1,0 +1,7 @@
+{
+  "name": "jucesp-ficha-cadastral-completa",
+  "description": "Enables querying complete JUCESP company registration data by CNPJ, NIRE, or name, including status and history, via a read-only MCP server.",
+  "source_repo": "mcp-dir/jucesp_ficha_completa-mcp",
+  "source_url": "https://github.com/mcp-dir/jucesp_ficha_completa-mcp",
+  "install": "npx -y jucesp_ficha_completa-mcp"
+}

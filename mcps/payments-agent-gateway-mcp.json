@@ -1,0 +1,7 @@
+{
+  "name": "payments-agent-gateway-mcp",
+  "description": "An MCP server that enables AI agents to safely interact with a double-entry payments ledger, enforcing idempotency, policy-based access control, and human-in-the-loop approval for high-value actions.",
+  "source_repo": "SaiKrishnaMulukutla/payments-mcp-server",
+  "source_url": "https://github.com/SaiKrishnaMulukutla/payments-mcp-server",
+  "install": "npx -y payments-mcp-server"
+}

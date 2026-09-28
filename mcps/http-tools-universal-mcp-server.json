@@ -1,0 +1,7 @@
+{
+  "name": "http-tools-universal-mcp-server",
+  "description": "Provides a standardized MCP interface for interacting with HTTP tools and services, enabling unified API access and management.",
+  "source_repo": "universal-mcp/http-tools",
+  "source_url": "https://github.com/universal-mcp/http-tools",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/http-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "netherlands-payments-mcp",
+  "description": "Enables AI agents to accept payments in Netherlands via iDEAL, cards, and other methods using Mollie's hosted checkout.",
+  "source_repo": "junter1989k-ai/netherlands-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/netherlands-payments-mcp",
+  "install": "npx -y netherlands-payments-mcp"
+}

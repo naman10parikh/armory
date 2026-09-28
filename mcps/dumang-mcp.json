@@ -1,0 +1,7 @@
+{
+  "name": "dumang-mcp",
+  "description": "MCP server for controlling DUMANG DK6 keyboard, including device discovery, LED color setting, and key blinking.",
+  "source_repo": "xialugui/dumang-mcp",
+  "source_url": "https://github.com/xialugui/dumang-mcp",
+  "install": "npx -y dumang-mcp"
+}

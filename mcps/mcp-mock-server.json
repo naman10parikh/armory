@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mock-server",
+  "description": "A zero-code-intrusion mock server for mobile apps that integrates with Charles proxy, allowing dynamic rule management via natural language in Cursor.",
+  "source_repo": "liuchunda/mockServe2Chales",
+  "source_url": "https://github.com/liuchunda/mockServe2Chales",
+  "install": "# git clone --depth 1 https://github.com/liuchunda/mockServe2Chales\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-native-enterprise-integration-hub",
+  "description": "A governed AI agent platform that exposes GitHub Issues, Jira, and Slack as MCP servers, with mandatory human-in-the-loop approval for all write operations and full audit logging to PostgreSQL using PGVector semantic search.",
+  "source_repo": "varunk61/mcp-enterprise-hub",
+  "source_url": "https://github.com/varunk61/mcp-enterprise-hub",
+  "install": "# git clone --depth 1 https://github.com/varunk61/mcp-enterprise-hub\n# See source for mcpServers config block"
+}

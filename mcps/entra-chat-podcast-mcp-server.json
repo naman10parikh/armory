@@ -1,0 +1,7 @@
+{
+  "name": "entra-chat-podcast-mcp-server",
+  "description": "Enables AI assistants to search and retrieve transcripts from the Entra.Chat podcast about Microsoft Entra ID, with timestamped YouTube links and guest information.",
+  "source_repo": "darrenjrobinson/EntraNewsPodcastMCPServer",
+  "source_url": "https://github.com/darrenjrobinson/EntraNewsPodcastMCPServer",
+  "install": "# git clone --depth 1 https://github.com/darrenjrobinson/EntraNewsPodcastMCPServer\n# See source for mcpServers config block"
+}

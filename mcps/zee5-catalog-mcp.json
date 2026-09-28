@@ -1,0 +1,7 @@
+{
+  "name": "zee5-catalog-mcp",
+  "description": "Provides synthetic catalog search, metadata retrieval, similar titles, trending, and new releases via MCP tools.",
+  "source_repo": "samayyy/zee5-mcp-public",
+  "source_url": "https://github.com/samayyy/zee5-mcp-public",
+  "install": "# git clone --depth 1 https://github.com/samayyy/zee5-mcp-public\n# See source for mcpServers config block"
+}

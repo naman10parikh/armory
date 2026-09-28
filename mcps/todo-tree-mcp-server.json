@@ -1,0 +1,7 @@
+{
+  "name": "todo-tree-mcp-server",
+  "description": "Exposes your todo-tree task list as MCP tools for reading and managing tasks via MCP-compatible AI clients like Claude Desktop.",
+  "source_repo": "David3Emmanuel/todo-tree-mcp",
+  "source_url": "https://github.com/David3Emmanuel/todo-tree-mcp",
+  "install": "npx -y todo-tree-mcp"
+}

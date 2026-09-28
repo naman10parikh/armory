@@ -1,0 +1,7 @@
+{
+  "name": "io-github-brightdotdev-darwin-rag",
+  "description": "A local-first RAG engine that ingests documents (PDF, Markdown, images, etc.) and provides hybrid search, reranking, and LLM answer synthesis via MCP for AI agent integration.",
+  "source_repo": "Brightdotdev/DARWIN",
+  "source_url": "https://github.com/Brightdotdev/DARWIN",
+  "install": "# git clone --depth 1 https://github.com/Brightdotdev/DARWIN\n# See source for mcpServers config block"
+}

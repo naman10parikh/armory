@@ -1,0 +1,7 @@
+{
+  "name": "berlin-group-mcp-server",
+  "description": "Provides AI assistants with contextual access to Berlin Group Open Finance API specifications, enabling specification-compliant guidance through semantic search, graph database queries, and document retrieval.",
+  "source_repo": "Borelli-7/bg-mcp-server",
+  "source_url": "https://github.com/Borelli-7/bg-mcp-server",
+  "install": "npx -y bg-mcp-server"
+}

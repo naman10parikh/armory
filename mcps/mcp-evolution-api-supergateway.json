@@ -1,0 +1,7 @@
+{
+  "name": "mcp-evolution-api-supergateway",
+  "description": "Acts as a gateway to interface with the Evolution API, exposing an MCP server via SSE for remote connections.",
+  "source_repo": "brunonuzzi/evo-mcp",
+  "source_url": "https://github.com/brunonuzzi/evo-mcp",
+  "install": "npx -y evo-mcp"
+}

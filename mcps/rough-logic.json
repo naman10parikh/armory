@@ -1,0 +1,7 @@
+{
+  "name": "rough-logic",
+  "description": "Always free field math and reference for the trades.",
+  "source_repo": "clay-good/roughlogic.com",
+  "source_url": "https://github.com/clay-good/roughlogic.com",
+  "install": "# git clone --depth 1 https://github.com/clay-good/roughlogic.com\n# See source for mcpServers config block"
+}

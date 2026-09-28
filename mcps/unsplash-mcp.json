@@ -1,0 +1,7 @@
+{
+  "name": "unsplash-mcp",
+  "description": "An MCP server for searching and retrieving photos from Unsplash with proper attribution, designed for LLMs building content pages.",
+  "source_repo": "cevatkerim/unsplash-mcp",
+  "source_url": "https://github.com/cevatkerim/unsplash-mcp",
+  "install": "npx -y unsplash-mcp"
+}

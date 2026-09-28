@@ -1,0 +1,7 @@
+{
+  "name": "srv-explore",
+  "description": "Enables AI agents to safely explore and diagnose remote servers by providing a read-only sandbox with controlled access to files, logs, Docker, and databases. It exposes MCP tools that allow natural-language investigation and direct command execution without write permissions.",
+  "source_repo": "redmadrobot-rnd/srv-explore",
+  "source_url": "https://github.com/redmadrobot-rnd/srv-explore",
+  "install": "# git clone --depth 1 https://github.com/redmadrobot-rnd/srv-explore\n# See source for mcpServers config block"
+}

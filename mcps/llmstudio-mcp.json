@@ -1,0 +1,7 @@
+{
+  "name": "llmstudio-mcp",
+  "description": "MCP server that connects LLM agents to a local LM Studio instance, enabling model management, OpenAI-compatible chat completions, text completions, and embeddings through a set of tools.",
+  "source_repo": "dam2452/llmstudio-mcp",
+  "source_url": "https://github.com/dam2452/llmstudio-mcp",
+  "install": "npx -y llmstudio-mcp"
+}

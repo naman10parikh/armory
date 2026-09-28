@@ -1,0 +1,7 @@
+{
+  "name": "modao-prototype-mcp",
+  "description": "Reads Modao read-only prototype links and exports a directory of page screenshots with a catalog.",
+  "source_repo": "stackJx/modao-prototype-mcp",
+  "source_url": "https://github.com/stackJx/modao-prototype-mcp",
+  "install": "npx -y modao-prototype-mcp"
+}

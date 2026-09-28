@@ -1,0 +1,7 @@
+{
+  "name": "phx-db-explorer-mcp-server",
+  "description": "Exposes a SQL Server database schema to AI assistants, enabling discovery of tables, views, stored procedures, functions, indexes, and foreign keys through MCP tools.",
+  "source_repo": "hsenidBiz/phx-dbexplorer",
+  "source_url": "https://github.com/hsenidBiz/phx-dbexplorer",
+  "install": "# git clone --depth 1 https://github.com/hsenidBiz/phx-dbexplorer\n# See source for mcpServers config block"
+}

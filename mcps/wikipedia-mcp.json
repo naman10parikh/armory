@@ -1,0 +1,7 @@
+{
+  "name": "wikipedia-mcp",
+  "description": "An MCP server that gives LLMs access to Wikipedia, supporting search, article retrieval, summaries, sections, and related topics across multiple languages and language variants.",
+  "source_repo": "LLLeoLi/wikipedia-mcp",
+  "source_url": "https://github.com/LLLeoLi/wikipedia-mcp",
+  "install": "npx -y wikipedia-mcp"
+}

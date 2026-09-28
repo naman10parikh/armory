@@ -1,0 +1,7 @@
+{
+  "name": "mpf-certidao-mcp",
+  "description": "MCP server that issues Brazilian Federal Public Ministry negative certificates (Certidão MPF) for individuals or companies via CPF/CNPJ, enabling certificate status checks through natural language.",
+  "source_repo": "mcp-dir/mpf_certidao-mcp",
+  "source_url": "https://github.com/mcp-dir/mpf_certidao-mcp",
+  "install": "npx -y mpf_certidao-mcp"
+}

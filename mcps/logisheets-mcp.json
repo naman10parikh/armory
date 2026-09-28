@@ -1,0 +1,7 @@
+{
+  "name": "logisheets-mcp",
+  "description": "Enables AI agents to work with a real Excel-compatible spreadsheet engine, allowing them to create and manipulate structured data blocks, write and evaluate formulas, and save genuine .xlsx files with live formulas for human verification and reuse.",
+  "source_repo": "logisky/logisheets-mcp",
+  "source_url": "https://github.com/logisky/logisheets-mcp",
+  "install": "npx -y logisheets-mcp"
+}

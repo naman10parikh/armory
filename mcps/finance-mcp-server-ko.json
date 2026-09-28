@@ -1,0 +1,7 @@
+{
+  "name": "finance-mcp-server-ko",
+  "description": "Personal finance research and execution toolkit for LLM agents, combining DART, Telegram, and Toss securities into one MCP server.",
+  "source_repo": "mkkim2102/finance-mcp-server-ko",
+  "source_url": "https://github.com/mkkim2102/finance-mcp-server-ko",
+  "install": "# git clone --depth 1 https://github.com/mkkim2102/finance-mcp-server-ko\n# See source for mcpServers config block"
+}

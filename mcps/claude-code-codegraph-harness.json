@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-codegraph-harness",
+  "description": "Enables bounded, read-only code-graph search, neighbor/impact tracing, and architecture queries through a local offline gateway, while keeping source contents and mutation operations out of model-callable tools.",
+  "source_repo": "R1ck29/claude-code-codegraph-harness",
+  "source_url": "https://github.com/R1ck29/claude-code-codegraph-harness",
+  "install": "# git clone --depth 1 https://github.com/R1ck29/claude-code-codegraph-harness\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "drawing-converter-metric-imperial",
+  "description": "Convert technical-drawing PDFs and engineering callouts between metric and imperial — values stamped in place, threads cross-referenced, shop-floor rounding.",
+  "source_repo": "imnoo-team/drawing-converter-mcp",
+  "source_url": "https://github.com/imnoo-team/drawing-converter-mcp",
+  "install": "npx -y drawing-converter-mcp"
+}

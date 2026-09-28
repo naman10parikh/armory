@@ -1,0 +1,7 @@
+{
+  "name": "eks-maturity-advisor-mcp-server",
+  "description": "Enables scanning of EKS cluster maturity and repository configuration through MCP tools, providing diagnostic reports as markdown.",
+  "source_repo": "kiiiiy/K8RVIS-mcp",
+  "source_url": "https://github.com/kiiiiy/K8RVIS-mcp",
+  "install": "npx -y K8RVIS-mcp"
+}

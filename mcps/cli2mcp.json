@@ -1,0 +1,7 @@
+{
+  "name": "cli2mcp",
+  "description": "Enables AI assistants to call any CLI tool by scanning its help output and serving it as an MCP server.",
+  "source_repo": "yaacov/cli2mcp",
+  "source_url": "https://github.com/yaacov/cli2mcp",
+  "install": "# git clone --depth 1 https://github.com/yaacov/cli2mcp\n# See source for mcpServers config block"
+}

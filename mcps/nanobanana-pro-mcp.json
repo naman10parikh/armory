@@ -1,0 +1,7 @@
+{
+  "name": "nanobanana-pro-mcp",
+  "description": "An MCP server that provides AI-powered image generation, format conversion, and smart asset placement for Claude Code.",
+  "source_repo": "rzgrozt/nanobanana-pro-mcp",
+  "source_url": "https://github.com/rzgrozt/nanobanana-pro-mcp",
+  "install": "npx -y nanobanana-pro-mcp"
+}

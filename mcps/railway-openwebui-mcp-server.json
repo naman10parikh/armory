@@ -1,0 +1,7 @@
+{
+  "name": "railway-openwebui-mcp-server",
+  "description": "Enables deploying, managing, and monitoring OpenWebUI instances on the Railway platform via natural language commands.",
+  "source_repo": "chad-atexpedient/Railway-OpenwebUI-Tool",
+  "source_url": "https://github.com/chad-atexpedient/Railway-OpenwebUI-Tool",
+  "install": "# git clone --depth 1 https://github.com/chad-atexpedient/Railway-OpenwebUI-Tool\n# See source for mcpServers config block"
+}

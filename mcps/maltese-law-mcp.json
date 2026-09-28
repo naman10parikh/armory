@@ -1,0 +1,7 @@
+{
+  "name": "maltese-law-mcp",
+  "description": "Provides AI-readable access to over 5,000 Maltese statutes and 56,000 provisions from legislation.mt, enabling natural language search and cross-referencing of Maltese law.",
+  "source_repo": "Ansvar-Systems/Maltese-law-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/Maltese-law-mcp",
+  "install": "npx -y Maltese-law-mcp"
+}

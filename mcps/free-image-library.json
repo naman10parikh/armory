@@ -1,0 +1,7 @@
+{
+  "name": "free-image-library",
+  "description": "Enables keyless search and retrieval of millions of openly-licensed Creative Commons images and audio, with ready-to-paste attribution and license-awareness built into every result.",
+  "source_repo": "surendranb/free-image-library",
+  "source_url": "https://github.com/surendranb/free-image-library",
+  "install": "# git clone --depth 1 https://github.com/surendranb/free-image-library\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-mg-montes-claros-certid-o-negativa-de-d-bitos-mcp-server",
+  "description": "Read-only MCP server for consulting official negative debt certificates from the Montes Claros city government, with pay-per-use prepaid credits.",
+  "source_repo": "mcp-dir/pref_mg_montes_claros_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_mg_montes_claros_cnd-mcp",
+  "install": "npx -y pref_mg_montes_claros_cnd-mcp"
+}

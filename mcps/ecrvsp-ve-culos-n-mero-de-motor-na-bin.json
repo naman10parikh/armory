@@ -1,0 +1,7 @@
+{
+  "name": "ecrvsp-ve-culos-n-mero-de-motor-na-bin",
+  "description": "Consulta o número de motor de veículos ECRVSP em fonte oficial, oferecendo uma ferramenta de somento leitura para agentes de IA e clientes MCP. Permite verificação de dados veiculares por consulta pré-paga, sem necessidade de autenticação por senha.",
+  "source_repo": "mcp-dir/ecrvsp_veiculos_motor-mcp",
+  "source_url": "https://github.com/mcp-dir/ecrvsp_veiculos_motor-mcp",
+  "install": "npx -y ecrvsp_veiculos_motor-mcp"
+}

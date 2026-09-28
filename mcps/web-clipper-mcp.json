@@ -1,0 +1,7 @@
+{
+  "name": "web-clipper-mcp",
+  "description": "Enables clipping web pages to Markdown with local images, supporting CSS selectors and content analysis.",
+  "source_repo": "achenglike/web-clipper-mcp",
+  "source_url": "https://github.com/achenglike/web-clipper-mcp",
+  "install": "npx -y web-clipper-mcp"
+}

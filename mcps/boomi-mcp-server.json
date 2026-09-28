@@ -1,0 +1,7 @@
+{
+  "name": "boomi-mcp-server",
+  "description": "Secure MCP server for Boomi Platform API integration with Claude Code. Enables natural language interaction with Boomi Platform APIs, including managing accounts, processes, components, deployments, schedules, and more.",
+  "source_repo": "RenEra-ai/boomi-mcp-server",
+  "source_url": "https://github.com/RenEra-ai/boomi-mcp-server",
+  "install": "npx -y boomi-mcp-server"
+}

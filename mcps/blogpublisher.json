@@ -1,0 +1,7 @@
+{
+  "name": "blogpublisher",
+  "description": "Multi-platform blog publishing tool that enables users to save, schedule, and publish SEO-optimized articles to platforms like websites, LinkedIn, Twitter, and Substack directly from Claude.",
+  "source_repo": "perlahm0404/BlogPublisher",
+  "source_url": "https://github.com/perlahm0404/BlogPublisher",
+  "install": "# git clone --depth 1 https://github.com/perlahm0404/BlogPublisher\n# See source for mcpServers config block"
+}

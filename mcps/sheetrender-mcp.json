@@ -1,0 +1,7 @@
+{
+  "name": "sheetrender-mcp",
+  "description": "Renders PDFs from HTML templates or saved templates and spreadsheet data, with batch job support and document retrieval.",
+  "source_repo": "sheetrender/sheetrender-mcp",
+  "source_url": "https://github.com/sheetrender/sheetrender-mcp",
+  "install": "npx -y sheetrender-mcp"
+}

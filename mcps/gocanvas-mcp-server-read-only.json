@@ -1,0 +1,7 @@
+{
+  "name": "gocanvas-mcp-server-read-only",
+  "description": "Exposes read-only GoCanvas API v3 endpoints as MCP tools, enabling listing and retrieval of forms, submissions, reports, and reference data.",
+  "source_repo": "kbates97/GoCanvas-Readonly-MCP",
+  "source_url": "https://github.com/kbates97/GoCanvas-Readonly-MCP",
+  "install": "npx -y GoCanvas-Readonly-MCP"
+}

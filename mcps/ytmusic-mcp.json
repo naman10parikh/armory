@@ -1,0 +1,7 @@
+{
+  "name": "ytmusic-mcp",
+  "description": "Enables searching YouTube Music and managing playlists: create/delete playlists, add/remove/reorder tracks, and more via natural language.",
+  "source_repo": "imesh-madushan/ytmusic-mcp",
+  "source_url": "https://github.com/imesh-madushan/ytmusic-mcp",
+  "install": "npx -y ytmusic-mcp"
+}

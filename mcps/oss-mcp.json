@@ -1,0 +1,7 @@
+{
+  "name": "oss-mcp",
+  "description": "Enables cross-repository architecture discovery and dependency routing across multi-service codebases, with automated scanning and batch AST indexing for AI agents to trace request lifecycles and navigate service boundaries.",
+  "source_repo": "Abbilville/oss-mcp",
+  "source_url": "https://github.com/Abbilville/oss-mcp",
+  "install": "npx -y oss-mcp"
+}

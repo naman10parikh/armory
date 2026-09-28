@@ -1,0 +1,7 @@
+{
+  "name": "opera-houdini-mcp",
+  "description": "A Houdini MCP server fork for CsrLib-Houdini workflow, providing enhanced tools for scene management, node discovery, graph editing, and safe code execution with tiered security policies.",
+  "source_repo": "ChengZiiii/opera-houdini-mcp",
+  "source_url": "https://github.com/ChengZiiii/opera-houdini-mcp",
+  "install": "npx -y opera-houdini-mcp"
+}

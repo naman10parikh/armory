@@ -1,0 +1,7 @@
+{
+  "name": "python-mcp-server-blueprint",
+  "description": "A blueprint for building Python MCP servers using FastMCP, with uv for dependency management and ruff for code quality, enabling rapid development of MCP tools, resources, and prompts.",
+  "source_repo": "northfieldzz/python_mcp_server_blueprint",
+  "source_url": "https://github.com/northfieldzz/python_mcp_server_blueprint",
+  "install": "# git clone --depth 1 https://github.com/northfieldzz/python_mcp_server_blueprint\n# See source for mcpServers config block"
+}

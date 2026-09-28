@@ -1,0 +1,7 @@
+{
+  "name": "person-crud-mcp-server",
+  "description": "Enables managing person records in a PostgreSQL database (Neon) via Claude Desktop, supporting create, read, update, delete, and search operations through natural language.",
+  "source_repo": "Pearlshaline/person_mcp_server",
+  "source_url": "https://github.com/Pearlshaline/person_mcp_server",
+  "install": "npx -y person_mcp_server"
+}

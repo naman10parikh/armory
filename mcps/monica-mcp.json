@@ -1,0 +1,7 @@
+{
+  "name": "monica-mcp",
+  "description": "A self-hosted, multi-user gateway that exposes Monica personal CRM to AI agents via authenticated remote MCP endpoint, handling per-user authentication and implementing CRM resources as tools.",
+  "source_repo": "jclement/monica-mcp",
+  "source_url": "https://github.com/jclement/monica-mcp",
+  "install": "npx -y monica-mcp"
+}

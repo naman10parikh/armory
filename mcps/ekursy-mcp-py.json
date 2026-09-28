@@ -1,0 +1,7 @@
+{
+  "name": "ekursy-mcp-py",
+  "description": "Enables AI tools to access student profiles, course lists, grades, page contents, and course materials from the eKursy platform via the Model Context Protocol.",
+  "source_repo": "markrz-0/ekursy-mcp-server",
+  "source_url": "https://github.com/markrz-0/ekursy-mcp-server",
+  "install": "npx -y ekursy-mcp-server"
+}

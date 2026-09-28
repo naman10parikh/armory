@@ -1,0 +1,7 @@
+{
+  "name": "bench-studio-mcp-server",
+  "description": "A local-first creative studio MCP server that provides access to 73 curated image and video generation models across 5 providers, enabling users to generate, refine, and manage creative outputs with transparent cost tracking and local file custody.",
+  "source_repo": "inematds/bench-studio-en",
+  "source_url": "https://github.com/inematds/bench-studio-en",
+  "install": "# git clone --depth 1 https://github.com/inematds/bench-studio-en\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "topcoder-mcp-server",
+  "description": "Enables interaction with Topcoder challenges through tools that support authentication-based access via JWT and role/permission guards.",
+  "source_repo": "topcoder-platform/tc-mcp",
+  "source_url": "https://github.com/topcoder-platform/tc-mcp",
+  "install": "npx -y tc-mcp"
+}

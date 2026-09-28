@@ -1,0 +1,7 @@
+{
+  "name": "mcp-context-dedup",
+  "description": "Compresses verbose MCP output by deduplicating repeated lines and summarizing JSON arrays, achieving 60-80% token savings for LLM prompts.",
+  "source_repo": "prasadabhishek/mcp-context-dedup",
+  "source_url": "https://github.com/prasadabhishek/mcp-context-dedup",
+  "install": "# git clone --depth 1 https://github.com/prasadabhishek/mcp-context-dedup\n# See source for mcpServers config block"
+}

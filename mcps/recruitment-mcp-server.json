@@ -1,0 +1,7 @@
+{
+  "name": "recruitment-mcp-server",
+  "description": "Provides job search, employer profiling, talent demand analysis, salary lookup, and recruitment trend analysis to assist with talent market research, employer analysis, and hiring decisions.",
+  "source_repo": "handaas/recruitment-mcp-server",
+  "source_url": "https://github.com/handaas/recruitment-mcp-server",
+  "install": "npx -y recruitment-mcp-server"
+}

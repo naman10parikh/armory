@@ -1,0 +1,7 @@
+{
+  "name": "mcp-aggregator",
+  "description": "Aggregates multiple MCP servers into a single Streamable HTTP endpoint, compressing tools to manage registration limits.",
+  "source_repo": "steelshot/mcp-aggregator",
+  "source_url": "https://github.com/steelshot/mcp-aggregator",
+  "install": "# git clone --depth 1 https://github.com/steelshot/mcp-aggregator\n# See source for mcpServers config block"
+}

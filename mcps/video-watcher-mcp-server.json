@@ -1,0 +1,7 @@
+{
+  "name": "video-watcher-mcp-server",
+  "description": "MCP server exposing claude-video functionality for claude.ai web UI via HTTP+SSE, enabling video watching and analysis from claude.ai.",
+  "source_repo": "darischen/video-watcher-mcp",
+  "source_url": "https://github.com/darischen/video-watcher-mcp",
+  "install": "npx -y video-watcher-mcp"
+}

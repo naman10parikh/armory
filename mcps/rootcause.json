@@ -1,0 +1,7 @@
+{
+  "name": "rootcause",
+  "description": "Enables debugging by analyzing bug reports, tracebacks, or code snippets to retrieve similar historical fixes and generate JSON answers with root cause, fix, and confidence.",
+  "source_repo": "x4ddy/RootCause",
+  "source_url": "https://github.com/x4ddy/RootCause",
+  "install": "# git clone --depth 1 https://github.com/x4ddy/RootCause\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-agent-mcp",
+  "description": "Connects Obsidian to coding agents like Claude Code and Codex by exposing tools to access vault context (active file, selection, open editors, workspace folders), and includes a built-in terminal to run agents directly inside Obsidian.",
+  "source_repo": "rospaans/obsidian-agent-mcp",
+  "source_url": "https://github.com/rospaans/obsidian-agent-mcp",
+  "install": "npx -y obsidian-agent-mcp"
+}

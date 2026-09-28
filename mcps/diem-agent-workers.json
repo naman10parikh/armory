@@ -1,0 +1,7 @@
+{
+  "name": "diem-agent-workers",
+  "description": "Provides a catalog of paid micro-work tools for text processing, speech, and image generation with fixed USDC pricing via x402. Enables agents to discover capabilities, get quotes, and prepare calls without handling wallet keys.",
+  "source_repo": "coastmancoastman/diem-agent-workers",
+  "source_url": "https://github.com/coastmancoastman/diem-agent-workers",
+  "install": "# git clone --depth 1 https://github.com/coastmancoastman/diem-agent-workers\n# See source for mcpServers config block"
+}

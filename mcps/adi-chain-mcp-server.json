@@ -1,0 +1,7 @@
+{
+  "name": "adi-chain-mcp-server",
+  "description": "Enables AI agents to query and execute ADI Chain operations, including canonical bridge deposits/withdrawals, CCIP transfers, balance checks, and funding path planning.",
+  "source_repo": "idea404/adi-mcp-server",
+  "source_url": "https://github.com/idea404/adi-mcp-server",
+  "install": "npx -y adi-mcp-server"
+}

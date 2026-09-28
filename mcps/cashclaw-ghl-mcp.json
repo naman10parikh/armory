@@ -1,0 +1,7 @@
+{
+  "name": "cashclaw-ghl-mcp",
+  "description": "An MCP server for GoHighLevel with 82 live-tested tools, enabling CRM operations like contact management, appointments, invoices, and workflows via natural language.",
+  "source_repo": "centrender/ghl-mcp",
+  "source_url": "https://github.com/centrender/ghl-mcp",
+  "install": "npx -y ghl-mcp"
+}

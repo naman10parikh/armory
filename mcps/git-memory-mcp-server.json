@@ -1,0 +1,7 @@
+{
+  "name": "git-memory-mcp-server",
+  "description": "Enables Git repository operations and real-time monitoring via MCP tools, with support for WebSocket events, authentication, and observability.",
+  "source_repo": "nirutyodjai/git-memory-mcp-server",
+  "source_url": "https://github.com/nirutyodjai/git-memory-mcp-server",
+  "install": "npx -y git-memory-mcp-server"
+}

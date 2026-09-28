@@ -1,0 +1,7 @@
+{
+  "name": "nsight-graphics-mcp",
+  "description": "MCP server for reading, filtering, and analyzing NVIDIA Nsight Graphics captures via ngfx-replay, exposing tools for capture inspection, GPU Trace profiling, and replay analysis.",
+  "source_repo": "scarletfantasy/nsight-graphics-mcp",
+  "source_url": "https://github.com/scarletfantasy/nsight-graphics-mcp",
+  "install": "npx -y nsight-graphics-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jeffersonstats",
+  "description": "Enables comprehensive statistical analysis including descriptive statistics, hypothesis testing, regression, and more via a FastMCP-based API.",
+  "source_repo": "sharabhshukla/JeffersonStatsMCP",
+  "source_url": "https://github.com/sharabhshukla/JeffersonStatsMCP",
+  "install": "# git clone --depth 1 https://github.com/sharabhshukla/JeffersonStatsMCP\n# See source for mcpServers config block"
+}

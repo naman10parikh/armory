@@ -1,0 +1,7 @@
+{
+  "name": "google-calendar-mcp-lib",
+  "description": "A Google Calendar MCP server that enables listing, creating, updating, and deleting calendar events and calendars through natural language.",
+  "source_repo": "appler1009/google-calendar-mcp-lib",
+  "source_url": "https://github.com/appler1009/google-calendar-mcp-lib",
+  "install": "# git clone --depth 1 https://github.com/appler1009/google-calendar-mcp-lib\n# See source for mcpServers config block"
+}

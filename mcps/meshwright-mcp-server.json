@@ -1,0 +1,7 @@
+{
+  "name": "meshwright-mcp-server",
+  "description": "MCP server for Meshwright, enabling agents to create 3D models from text prompts via a LangGraph pipeline. Supports configurable image providers, background removal, and TRELLIS reconstruction backends.",
+  "source_repo": "seena18/meshwright",
+  "source_url": "https://github.com/seena18/meshwright",
+  "install": "# git clone --depth 1 https://github.com/seena18/meshwright\n# See source for mcpServers config block"
+}

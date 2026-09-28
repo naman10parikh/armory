@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stock-tracker",
+  "description": "Provides real-time stock price tracking with an interactive dashboard, fetching data via Alpha Vantage API.",
+  "source_repo": "DOsinga/mcp_app_stocks",
+  "source_url": "https://github.com/DOsinga/mcp_app_stocks",
+  "install": "# git clone --depth 1 https://github.com/DOsinga/mcp_app_stocks\n# See source for mcpServers config block"
+}

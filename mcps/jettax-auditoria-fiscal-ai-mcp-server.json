@@ -1,0 +1,7 @@
+{
+  "name": "jettax-auditoria-fiscal-ai-mcp-server",
+  "description": "Enables fiscal tax auditing by listing companies from data directories and running audits that detect discrepancies between declared taxes and invoice text using an LLM.",
+  "source_repo": "Lucas-Bueno04/MCPR---JETTAX_AUDITORIA",
+  "source_url": "https://github.com/Lucas-Bueno04/MCPR---JETTAX_AUDITORIA",
+  "install": "# git clone --depth 1 https://github.com/Lucas-Bueno04/MCPR---JETTAX_AUDITORIA\n# See source for mcpServers config block"
+}

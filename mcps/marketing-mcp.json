@@ -1,0 +1,7 @@
+{
+  "name": "marketing-mcp",
+  "description": "Enables marketing optimization tasks such as copywriting, campaign analysis, social media planning, audience segmentation, and KPI tracking through natural language.",
+  "source_repo": "digital-021/marketing-mcp",
+  "source_url": "https://github.com/digital-021/marketing-mcp",
+  "install": "npx -y marketing-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "grok-mcp",
+  "description": "Connects Claude Code to xAI's Grok for real-time web and X (Twitter) search with multi-agent architecture and 2M token context.",
+  "source_repo": "LKbaba/Grok-mcp",
+  "source_url": "https://github.com/LKbaba/Grok-mcp",
+  "install": "npx -y Grok-mcp"
+}

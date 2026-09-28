@@ -1,0 +1,7 @@
+{
+  "name": "nacha-mcp",
+  "description": "Parses NACHA/ACH files into structured JSON and summaries, performing structural and arithmetic validation with IAT support, enabling automated file inspection and validation through MCP clients.",
+  "source_repo": "msuresh007/nacha-mcp",
+  "source_url": "https://github.com/msuresh007/nacha-mcp",
+  "install": "npx -y nacha-mcp"
+}

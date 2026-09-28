@@ -1,0 +1,7 @@
+{
+  "name": "oracledb-mcp",
+  "description": "MCP server for Oracle SQL performance diagnostics and AWR analysis, compatible with any MCP client that supports stdio or HTTP transports.",
+  "source_repo": "sangeethdba/oracledb-mcp",
+  "source_url": "https://github.com/sangeethdba/oracledb-mcp",
+  "install": "npx -y oracledb-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pgvector-mcp-server",
+  "description": "Enables AI assistants to manage vector collections and perform similarity search using PostgreSQL and pgvector, with integration to DashScope text embedding.",
+  "source_repo": "lihongwen/pgvector-mcp-server",
+  "source_url": "https://github.com/lihongwen/pgvector-mcp-server",
+  "install": "npx -y pgvector-mcp-server"
+}

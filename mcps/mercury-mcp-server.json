@@ -1,0 +1,7 @@
+{
+  "name": "mercury-mcp-server",
+  "description": "MCP server for Mercury Banking API that enables listing accounts and retrieving transactions via natural language.",
+  "source_repo": "Fyko/mercury-mcp-server",
+  "source_url": "https://github.com/Fyko/mercury-mcp-server",
+  "install": "npx -y mercury-mcp-server"
+}

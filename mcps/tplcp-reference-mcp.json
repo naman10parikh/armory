@@ -1,0 +1,7 @@
+{
+  "name": "tplcp-reference-mcp",
+  "description": "Turns the 2026 CLCP orientation corpus into a searchable, citation-preserving reference source for TPLCP report work.",
+  "source_repo": "cskerritt/tplcp-reference-mcp",
+  "source_url": "https://github.com/cskerritt/tplcp-reference-mcp",
+  "install": "npx -y tplcp-reference-mcp"
+}

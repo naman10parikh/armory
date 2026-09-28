@@ -1,0 +1,7 @@
+{
+  "name": "mixxx-mcp",
+  "description": "MCP server for Mixxx DJ software that enables AI agents to control transport, mixing, EQ, loops, hotcues, and effects in real time through MIDI and OSC.",
+  "source_repo": "cloudygetty-ai/mixxx-mcp",
+  "source_url": "https://github.com/cloudygetty-ai/mixxx-mcp",
+  "install": "npx -y mixxx-mcp"
+}

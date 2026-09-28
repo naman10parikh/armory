@@ -1,0 +1,7 @@
+{
+  "name": "gnomon",
+  "description": "Manages a vault of articles and talk pages using an article/talk split pattern, enabling reading, editing, and librarian operations on the vault through MCP.",
+  "source_repo": "gerardjlynn/gnomon",
+  "source_url": "https://github.com/gerardjlynn/gnomon",
+  "install": "# git clone --depth 1 https://github.com/gerardjlynn/gnomon\n# See source for mcpServers config block"
+}

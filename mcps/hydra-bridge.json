@@ -1,0 +1,7 @@
+{
+  "name": "hydra-bridge",
+  "description": "Enables AI agents to control Hydra Launcher programmatically — search games, manage downloads, configure Proton, organize library, and more via 46 MCP tools.",
+  "source_repo": "KleirRampage45/hydra-bridge",
+  "source_url": "https://github.com/KleirRampage45/hydra-bridge",
+  "install": "# git clone --depth 1 https://github.com/KleirRampage45/hydra-bridge\n# See source for mcpServers config block"
+}

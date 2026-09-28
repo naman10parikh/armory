@@ -1,0 +1,7 @@
+{
+  "name": "movie-list-mcp-server",
+  "description": "Provides a search_movie tool to search Tamil movies by name and return links from moviesdatamil.net, enabling natural language movie lookups in MCP clients.",
+  "source_repo": "Manikarthi-vaiha/mcp-movies",
+  "source_url": "https://github.com/Manikarthi-vaiha/mcp-movies",
+  "install": "# git clone --depth 1 https://github.com/Manikarthi-vaiha/mcp-movies\n# See source for mcpServers config block"
+}

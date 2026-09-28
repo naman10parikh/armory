@@ -1,0 +1,7 @@
+{
+  "name": "thebuyside-x402-agent",
+  "description": "The MCP gateway that lets any AI agent discover and pay metered APIs on Base or Solana — without the user wiring payments themselves.",
+  "source_repo": "jaysperspective/thebuyside-x402-agent",
+  "source_url": "https://github.com/jaysperspective/thebuyside-x402-agent",
+  "install": "# git clone --depth 1 https://github.com/jaysperspective/thebuyside-x402-agent\n# See source for mcpServers config block"
+}

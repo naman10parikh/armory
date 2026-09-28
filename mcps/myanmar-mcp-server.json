@@ -1,0 +1,7 @@
+{
+  "name": "myanmar-mcp-server",
+  "description": "Provides a Model Context Protocol server with built-in timeline-based animation, GitHub integration, and filesystem tools for building Myanmar applications.",
+  "source_repo": "amkyawdev/myanmar-mcp-server",
+  "source_url": "https://github.com/amkyawdev/myanmar-mcp-server",
+  "install": "npx -y myanmar-mcp-server"
+}

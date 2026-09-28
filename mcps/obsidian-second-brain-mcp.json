@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-second-brain-mcp",
+  "description": "Enables AI agents to store and retrieve project context, bugs, decisions, and session logs by reading and appending markdown files in a local Obsidian vault, without requiring any cloud services.",
+  "source_repo": "dhaseeb-proj/obsidian-second-brain-mcp-and-skill",
+  "source_url": "https://github.com/dhaseeb-proj/obsidian-second-brain-mcp-and-skill",
+  "install": "# git clone --depth 1 https://github.com/dhaseeb-proj/obsidian-second-brain-mcp-and-skill\n# See source for mcpServers config block"
+}

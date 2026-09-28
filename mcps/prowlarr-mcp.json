@@ -1,0 +1,7 @@
+{
+  "name": "prowlarr-mcp",
+  "description": "MCP server exposing Prowlarr's API v1 as tools for managing indexers, applications, download clients, and more, including cross-indexer searches and system commands.",
+  "source_repo": "SavageCore/prowlarr-mcp",
+  "source_url": "https://github.com/SavageCore/prowlarr-mcp",
+  "install": "npx -y prowlarr-mcp"
+}

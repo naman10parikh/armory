@@ -1,0 +1,7 @@
+{
+  "name": "shortcutsistem-band-mcp-server",
+  "description": "Combines Band AI platform control with ShortcutSistem digital marketing tools for SEO, social media, and content creation.",
+  "source_repo": "Therealratoshen/shortcutsistem-band-mcp",
+  "source_url": "https://github.com/Therealratoshen/shortcutsistem-band-mcp",
+  "install": "npx -y shortcutsistem-band-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fastify-mcp-server-plugin",
+  "description": "A Fastify plugin that enables multi-tenant MCP servers with isolated tools per bearer token, allowing AI assistants to interact with custom services via the Model Context Protocol.",
+  "source_repo": "gaiin-platform/fastify-mcp-server",
+  "source_url": "https://github.com/gaiin-platform/fastify-mcp-server",
+  "install": "npx -y fastify-mcp-server"
+}

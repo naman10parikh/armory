@@ -1,0 +1,7 @@
+{
+  "name": "unpaywall-mcp",
+  "description": "Enables looking up free-to-read versions of scholarly papers by DOI and searching article titles for Open Access matches via the Unpaywall API.",
+  "source_repo": "dam2452/unpaywall-mcp",
+  "source_url": "https://github.com/dam2452/unpaywall-mcp",
+  "install": "npx -y unpaywall-mcp"
+}

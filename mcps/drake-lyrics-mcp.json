@@ -1,0 +1,7 @@
+{
+  "name": "drake-lyrics-mcp",
+  "description": "Creates Drake-style rap bars from any situation you type, and provides a complete MCP example with tools, resources, prompts, and an interactive UI widget.",
+  "source_repo": "vigneshgopalandd-maker/drake-mcp",
+  "source_url": "https://github.com/vigneshgopalandd-maker/drake-mcp",
+  "install": "npx -y drake-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wezbridge",
+  "description": "Zero-dependency MCP server to orchestrate a swarm of Claude Code / Codex sessions across WezTerm panes: any session can discover, spawn, prompt, and read the others via MCP tools. One session becomes the coordinator; crash isolation keeps peers alive; auto-handoff resumes sessions when context fills",
+  "source_repo": "wolverin0/wezbridge",
+  "source_url": "https://github.com/wolverin0/wezbridge",
+  "install": "# git clone --depth 1 https://github.com/wolverin0/wezbridge\n# See source for mcpServers config block"
+}

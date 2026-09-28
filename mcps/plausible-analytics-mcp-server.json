@@ -1,0 +1,7 @@
+{
+  "name": "plausible-analytics-mcp-server",
+  "description": "A read-only stdio-based MCP server that provides tools to query Plausible Analytics data, including listing sites, fetching statistics with metrics/dimensions/filters, and getting realtime visitor counts.",
+  "source_repo": "AryanKo/Plausible-MCP",
+  "source_url": "https://github.com/AryanKo/Plausible-MCP",
+  "install": "npx -y Plausible-MCP"
+}

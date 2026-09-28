@@ -1,0 +1,7 @@
+{
+  "name": "multi-ai-hub",
+  "description": "Privacy-first local MCP hub for coordinating multiple AI providers from Claude Code, supporting local Ollama seats and cloud providers with safety routing.",
+  "source_repo": "Star-957/multi-ai-hub",
+  "source_url": "https://github.com/Star-957/multi-ai-hub",
+  "install": "# git clone --depth 1 https://github.com/Star-957/multi-ai-hub\n# See source for mcpServers config block"
+}

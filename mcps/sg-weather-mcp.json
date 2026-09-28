@@ -1,0 +1,7 @@
+{
+  "name": "sg-weather-mcp",
+  "description": "Wraps NEA's 2-hour weather forecast API to provide rain alerts for central Singapore areas, enabling automations for rain detection.",
+  "source_repo": "whathebronte/sg-weather-mcp",
+  "source_url": "https://github.com/whathebronte/sg-weather-mcp",
+  "install": "npx -y sg-weather-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tendertool",
+  "description": "MCP server for TenderTool, enabling AI assistants to manage references and vault documents.",
+  "source_repo": "tendertoolai/tendertool-mcp",
+  "source_url": "https://github.com/tendertoolai/tendertool-mcp",
+  "install": "npx -y tendertool-mcp"
+}

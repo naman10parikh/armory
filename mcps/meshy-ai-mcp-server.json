@@ -1,0 +1,7 @@
+{
+  "name": "meshy-ai-mcp-server",
+  "description": "Wraps the Meshy AI API to enable generative 3D tools via Model Context Protocol, allowing creation of 3D models, textures, animations, and more from text or images.",
+  "source_repo": "pasie15/meshy-ai-mcp-server",
+  "source_url": "https://github.com/pasie15/meshy-ai-mcp-server",
+  "install": "npx -y meshy-ai-mcp-server"
+}

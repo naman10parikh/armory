@@ -1,0 +1,7 @@
+{
+  "name": "touchbridge",
+  "description": "TouchBridge is a local-first MCP server for iOS simulators and physical devices, enabling AI to see, control, test, and redesign iPhone screens through a structured screenshot bridge and tool surface.",
+  "source_repo": "MarshallBear1/touchbridge-mcp",
+  "source_url": "https://github.com/MarshallBear1/touchbridge-mcp",
+  "install": "npx -y touchbridge-mcp"
+}

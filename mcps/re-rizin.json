@@ -1,0 +1,7 @@
+{
+  "name": "re-rizin",
+  "description": "MCP server exposing the rizin CLI for static binary analysis of executables.",
+  "source_repo": "Heretek-RE/re-rizin",
+  "source_url": "https://github.com/Heretek-RE/re-rizin",
+  "install": "# git clone --depth 1 https://github.com/Heretek-RE/re-rizin\n# See source for mcpServers config block"
+}

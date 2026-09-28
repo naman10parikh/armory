@@ -1,0 +1,7 @@
+{
+  "name": "databricks-readonly-mcp",
+  "description": "Read-only MCP server for Databricks, exposing Unity Catalog browsing and SQL execution with robust write protection via SQL AST analysis.",
+  "source_repo": "rishi-ciq/databricks-local-read-only-mcp",
+  "source_url": "https://github.com/rishi-ciq/databricks-local-read-only-mcp",
+  "install": "npx -y databricks-local-read-only-mcp"
+}

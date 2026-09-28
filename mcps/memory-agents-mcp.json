@@ -1,0 +1,7 @@
+{
+  "name": "memory-agents-mcp",
+  "description": "Unifies LAN agent memory (Postgres + pgvector + Ollama) with an Obsidian vault adapter, exposing tools for semantic recall, knowledge base search/write, and memory management.",
+  "source_repo": "Sergio-72/Memory_agents_mcp",
+  "source_url": "https://github.com/Sergio-72/Memory_agents_mcp",
+  "install": "npx -y Memory_agents_mcp"
+}

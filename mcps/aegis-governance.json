@@ -1,0 +1,7 @@
+{
+  "name": "aegis-governance",
+  "description": "Quantitative governance gate for AI agents. Six gates (risk, profit, novelty, complexity, quality, utility) return PROCEED/PAUSE/HALT/ESCALATE with confidence scores and hash-chained, tamper-evident audit trails. Generates NIST AI RMF and EU AI Act Annex IV artifacts. 10 MCP tools; local stdio and h",
+  "source_repo": "undercurrentai/aegis-mcp",
+  "source_url": "https://github.com/undercurrentai/aegis-mcp",
+  "install": "npx -y aegis-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wax-mcp-server",
+  "description": "Let AI agents interact with the WAX blockchain. Query balances, explore NFTs, track prices, and monitor transactions through natural language.",
+  "source_repo": "yksanjo/wax-mcp-server",
+  "source_url": "https://github.com/yksanjo/wax-mcp-server",
+  "install": "npx -y wax-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "telepath-pstn-mcp",
+  "description": "Enables AI assistants to control PSTN phone calls via TelePath, including dialing, hangup, and phone number management.",
+  "source_repo": "ZhipingYang/telepath-pstn-mcp",
+  "source_url": "https://github.com/ZhipingYang/telepath-pstn-mcp",
+  "install": "npx -y telepath-pstn-mcp"
+}

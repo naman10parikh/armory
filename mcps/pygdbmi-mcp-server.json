@@ -1,0 +1,7 @@
+{
+  "name": "pygdbmi-mcp-server",
+  "description": "Enables dynamic debugging with GDB via the MCP protocol, allowing LLMs to execute GDB commands, manage breakpoints, control execution, and inspect program state.",
+  "source_repo": "cnitlrt/pygdbmi-mcp-server",
+  "source_url": "https://github.com/cnitlrt/pygdbmi-mcp-server",
+  "install": "npx -y pygdbmi-mcp-server"
+}

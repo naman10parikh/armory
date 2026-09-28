@@ -1,0 +1,7 @@
+{
+  "name": "mcp-jobs",
+  "description": "MCP server for job search that crawls job listings using Playwright, with a fix for stdout pollution on Windows/WorkBuddy.",
+  "source_repo": "jiayuanlisayang-code/mcp-jobs",
+  "source_url": "https://github.com/jiayuanlisayang-code/mcp-jobs",
+  "install": "# git clone --depth 1 https://github.com/jiayuanlisayang-code/mcp-jobs\n# See source for mcpServers config block"
+}

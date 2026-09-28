@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-prod",
+  "description": "A hardened MCP server exposing read-only orders tools to AI agents, with rigorous input validation and parameterized queries to prevent injection attacks.",
+  "source_repo": "jigonyoo/mcp-server-prod",
+  "source_url": "https://github.com/jigonyoo/mcp-server-prod",
+  "install": "# git clone --depth 1 https://github.com/jigonyoo/mcp-server-prod\n# See source for mcpServers config block"
+}

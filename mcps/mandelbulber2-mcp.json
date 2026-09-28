@@ -1,0 +1,7 @@
+{
+  "name": "mandelbulber2-mcp",
+  "description": "MCP server for inspecting, cloning, patching, validating, and rendering preview images from Mandelbulber 2.34 fractal scene files, with safety limits and verified execution.",
+  "source_repo": "lokicik/mandelbulber2-mcp",
+  "source_url": "https://github.com/lokicik/mandelbulber2-mcp",
+  "install": "npx -y mandelbulber2-mcp"
+}

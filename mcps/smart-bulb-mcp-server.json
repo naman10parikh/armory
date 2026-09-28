@@ -1,0 +1,7 @@
+{
+  "name": "smart-bulb-mcp-server",
+  "description": "Enables controlling smart bulbs over IP with power, brightness, and color adjustments, plus real-time state queries and a mock mode for testing.",
+  "source_repo": "PalwinderSinghPaali/smart-bulb-mcp-server",
+  "source_url": "https://github.com/PalwinderSinghPaali/smart-bulb-mcp-server",
+  "install": "npx -y smart-bulb-mcp-server"
+}

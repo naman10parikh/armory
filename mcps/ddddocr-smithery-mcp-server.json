@@ -1,0 +1,7 @@
+{
+  "name": "ddddocr-smithery-mcp-server",
+  "description": "A Model Context Protocol server providing OCR and CAPTCHA recognition capabilities to AI agents, including text extraction, text detection, and slide CAPTCHA solving.",
+  "source_repo": "ymeng98/ddddocr-smithery-mcp",
+  "source_url": "https://github.com/ymeng98/ddddocr-smithery-mcp",
+  "install": "npx -y ddddocr-smithery-mcp"
+}

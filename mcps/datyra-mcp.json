@@ -1,0 +1,7 @@
+{
+  "name": "datyra-mcp",
+  "description": "Enables AI assistants to perform data analysis on local datasets through natural language, orchestrating Python, R, SQL, Spark, Jupyter, Power BI, and Tableau engines for statistics, machine learning, dashboard generation, and batch processing.",
+  "source_repo": "Nakano-04/Datyra-MCP",
+  "source_url": "https://github.com/Nakano-04/Datyra-MCP",
+  "install": "npx -y Datyra-MCP"
+}

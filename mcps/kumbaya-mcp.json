@@ -1,0 +1,7 @@
+{
+  "name": "kumbaya-mcp",
+  "description": "Live access to Kumbaya's DEX, launchpad, social data, and search on MegaETH through MCP tools generated from OpenAPI specs.",
+  "source_repo": "Kumbaya-xyz/kumbaya-mcp",
+  "source_url": "https://github.com/Kumbaya-xyz/kumbaya-mcp",
+  "install": "npx -y kumbaya-mcp"
+}

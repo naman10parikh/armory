@@ -1,0 +1,7 @@
+{
+  "name": "standup-journal-mcp",
+  "description": "MCP server for logging daily tasks, retrieving tasks by date, and generating standup reports.",
+  "source_repo": "rominap22/standup-journal-mcp",
+  "source_url": "https://github.com/rominap22/standup-journal-mcp",
+  "install": "npx -y standup-journal-mcp"
+}

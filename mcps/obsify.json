@@ -1,0 +1,7 @@
+{
+  "name": "obsify",
+  "description": "Lets AI assistants work on sensitive files by reasoning over schemas and masked output while deterministic local code handles raw data, never exposing real values to the model.",
+  "source_repo": "Formative-Sum41/obsify",
+  "source_url": "https://github.com/Formative-Sum41/obsify",
+  "install": "# git clone --depth 1 https://github.com/Formative-Sum41/obsify\n# See source for mcpServers config block"
+}

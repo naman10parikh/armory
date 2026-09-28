@@ -1,0 +1,7 @@
+{
+  "name": "datahill",
+  "description": "Enables interactive data analysis using a real IPython kernel with session management, supporting CSV/Excel/JSON loading, code execution, and variable monitoring.",
+  "source_repo": "Hillyess/dataHill",
+  "source_url": "https://github.com/Hillyess/dataHill",
+  "install": "# git clone --depth 1 https://github.com/Hillyess/dataHill\n# See source for mcpServers config block"
+}

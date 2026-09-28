@@ -1,0 +1,7 @@
+{
+  "name": "deltav-edge-mcp-server",
+  "description": "Safety-conscious MCP server for read-only access to Emerson DeltaV Edge systems, enabling engineering investigation workflows and offline artifact generation.",
+  "source_repo": "smithaldon1/deltav-mcp",
+  "source_url": "https://github.com/smithaldon1/deltav-mcp",
+  "install": "npx -y deltav-mcp"
+}

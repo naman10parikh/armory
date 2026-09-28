@@ -1,0 +1,7 @@
+{
+  "name": "upriver-mcp",
+  "description": "Provides AI applications with real-time, evidence-backed context on creators, audiences, brands, trends, and sponsorships, including breakout topic search and browsing tools.",
+  "source_repo": "upriver-ai/upriver-mcp",
+  "source_url": "https://github.com/upriver-ai/upriver-mcp",
+  "install": "npx -y upriver-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vibetutor-mcp",
+  "description": "Personal AI tutor MCP that automatically generates structured coding practice materials based on coding context and local files.",
+  "source_repo": "PEANUTBUTTER1001/vibetutor-mcp",
+  "source_url": "https://github.com/PEANUTBUTTER1001/vibetutor-mcp",
+  "install": "npx -y vibetutor-mcp"
+}

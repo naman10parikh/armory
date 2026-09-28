@@ -1,0 +1,7 @@
+{
+  "name": "interproscan-mcp-service",
+  "description": "Provides protein family, domain, and functional annotation using InterProScan, supporting local or API backends.",
+  "source_repo": "AltriaPendragon49/interproscan-mcp",
+  "source_url": "https://github.com/AltriaPendragon49/interproscan-mcp",
+  "install": "npx -y interproscan-mcp"
+}

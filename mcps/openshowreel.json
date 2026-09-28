@@ -1,0 +1,7 @@
+{
+  "name": "openshowreel",
+  "description": "An MCP server for Adobe After Effects that enables AI assistants to create premium showreels with professional motion design techniques.",
+  "source_repo": "Phanikondru/openshowreel",
+  "source_url": "https://github.com/Phanikondru/openshowreel",
+  "install": "# git clone --depth 1 https://github.com/Phanikondru/openshowreel\n# See source for mcpServers config block"
+}

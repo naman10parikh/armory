@@ -1,0 +1,7 @@
+{
+  "name": "craft-gtm-mcp",
+  "description": "8 strategic GTM execution tools for founders, CMOs, and strategy leaders covering PMF assessment, launch planning, customer research, retention, partner programs, crisis management, and competitive intelligence.",
+  "source_repo": "shashwatgtm/craft-gtm-mcp",
+  "source_url": "https://github.com/shashwatgtm/craft-gtm-mcp",
+  "install": "npx -y craft-gtm-mcp"
+}

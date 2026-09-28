@@ -1,0 +1,7 @@
+{
+  "name": "steam-library-mcp",
+  "description": "Provides Steam library intelligence including ownership, store briefs, deals, discovery, wishlist updates, co-op planning, achievements, and optional local actions.",
+  "source_repo": "Dark-Hunt3r1/steam-library-mcp",
+  "source_url": "https://github.com/Dark-Hunt3r1/steam-library-mcp",
+  "install": "npx -y steam-library-mcp"
+}

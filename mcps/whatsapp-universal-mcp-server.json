@@ -1,0 +1,7 @@
+{
+  "name": "whatsapp-universal-mcp-server",
+  "description": "Provides a standardized interface for interacting with WhatsApp's tools and services through a unified API.",
+  "source_repo": "universal-mcp/whatsapp",
+  "source_url": "https://github.com/universal-mcp/whatsapp",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/whatsapp\n# See source for mcpServers config block"
+}

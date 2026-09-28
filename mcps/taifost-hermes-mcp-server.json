@@ -1,0 +1,7 @@
+{
+  "name": "taifost-hermes-mcp-server",
+  "description": "Exposes two MCP tools for saving drafts and publishing content to Taifost Core, with secure authentication and idempotent behavior.",
+  "source_repo": "Taitres/Taifost-Hermes",
+  "source_url": "https://github.com/Taitres/Taifost-Hermes",
+  "install": "# git clone --depth 1 https://github.com/Taitres/Taifost-Hermes\n# See source for mcpServers config block"
+}

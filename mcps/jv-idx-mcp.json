@@ -1,0 +1,7 @@
+{
+  "name": "jv-idx-mcp",
+  "description": "MCP server exposing Indonesia Stock Exchange (IDX) market data as tools — fundamentals, broker flow, company profiles, and technical analysis via TA-Lib.",
+  "source_repo": "ibpme/jv-idx-mcp",
+  "source_url": "https://github.com/ibpme/jv-idx-mcp",
+  "install": "npx -y jv-idx-mcp"
+}

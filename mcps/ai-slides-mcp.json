@@ -1,0 +1,7 @@
+{
+  "name": "ai-slides-mcp",
+  "description": "Generates images through ChatGPT's web backend and assembles them into full-bleed, branded PowerPoint decks with slide styling and reference-based design.",
+  "source_repo": "vuhai2002/ai-slides-mcp",
+  "source_url": "https://github.com/vuhai2002/ai-slides-mcp",
+  "install": "npx -y ai-slides-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sui-mcp",
+  "description": "Read-only MCP server for Sui blockchain analytics with 44 tools covering wallets, DeFi, NFTs, token prices, transactions, fund tracing, pools, staking, Move decompilation, and MVR name resolution.",
+  "source_repo": "0xfreak0/sui-mcp",
+  "source_url": "https://github.com/0xfreak0/sui-mcp",
+  "install": "npx -y sui-mcp"
+}

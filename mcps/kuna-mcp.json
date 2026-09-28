@@ -1,0 +1,7 @@
+{
+  "name": "kuna-mcp",
+  "description": "MCP server for targeted binary analysis with Kuna, enabling listing and decompiling specific functions via natural language.",
+  "source_repo": "pwn2dav/kuna_mcp",
+  "source_url": "https://github.com/pwn2dav/kuna_mcp",
+  "install": "npx -y kuna_mcp"
+}

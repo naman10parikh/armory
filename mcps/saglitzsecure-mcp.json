@@ -1,0 +1,7 @@
+{
+  "name": "saglitzsecure-mcp",
+  "description": "Enables security scanning of source code and Apple configuration files, providing evidence-based findings, explanations, remediation plans, threat modeling, and knowledge base access through MCP tools.",
+  "source_repo": "HalidSaglam/saglitzsecure",
+  "source_url": "https://github.com/HalidSaglam/saglitzsecure",
+  "install": "# git clone --depth 1 https://github.com/HalidSaglam/saglitzsecure\n# See source for mcpServers config block"
+}

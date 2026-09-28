@@ -1,0 +1,7 @@
+{
+  "name": "mcp-timer-server",
+  "description": "Provides accurate system time to LLM applications with multi-timezone support via a simple tool call.",
+  "source_repo": "scottyphillips/system-time-mcp",
+  "source_url": "https://github.com/scottyphillips/system-time-mcp",
+  "install": "npx -y system-time-mcp"
+}

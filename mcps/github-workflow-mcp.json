@@ -1,0 +1,7 @@
+{
+  "name": "github-workflow-mcp",
+  "description": "Automates GitHub workflows (branch creation, testing, commit/push, PR) through natural language instructions in Claude Code.",
+  "source_repo": "GHeeJeon/github-workflow-mcp",
+  "source_url": "https://github.com/GHeeJeon/github-workflow-mcp",
+  "install": "npx -y github-workflow-mcp"
+}

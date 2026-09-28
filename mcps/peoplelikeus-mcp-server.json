@@ -1,0 +1,7 @@
+{
+  "name": "peoplelikeus-mcp-server",
+  "description": "Enables AI assistants to browse properties, manage conversations, update availability calendars, and track exchanges on the PeopleLikeUs home exchange platform via natural language, with 28 MCP tools and auto-login support.",
+  "source_repo": "manganate006/peoplelikeus-mcp",
+  "source_url": "https://github.com/manganate006/peoplelikeus-mcp",
+  "install": "npx -y peoplelikeus-mcp"
+}

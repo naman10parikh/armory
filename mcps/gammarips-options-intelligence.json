@@ -1,0 +1,7 @@
+{
+  "name": "gammarips-options-intelligence",
+  "description": "Anti-firehose options-flow data for AI agents: curated daily pool, features, realized outcomes.",
+  "source_repo": "DevDizzle/gammarips-mcp",
+  "source_url": "https://github.com/DevDizzle/gammarips-mcp",
+  "install": "npx -y gammarips-mcp"
+}

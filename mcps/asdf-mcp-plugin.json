@@ -1,6 +1,6 @@
 {
   "name": "asdf-mcp-plugin",
-  "description": "Asdf Mcp Plugin MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "hongsw/asdf-mcp-plugin",
   "source_url": "https://mcp.so/server/asdf-mcp-plugin/hongsw",
   "install": "# git clone --depth 1 https://mcp.so/server/asdf-mcp-plugin/hongsw\n# See source for mcpServers config block"

@@ -1,0 +1,7 @@
+{
+  "name": "filesystem-slim",
+  "description": "A token-optimized filesystem MCP server that groups 14 tools into 6 semantic operations, enabling file creation, deletion, reading, moving, querying, and more with reduced context token consumption.",
+  "source_repo": "mcpslim/filesystem-slim",
+  "source_url": "https://github.com/mcpslim/filesystem-slim",
+  "install": "# git clone --depth 1 https://github.com/mcpslim/filesystem-slim\n# See source for mcpServers config block"
+}

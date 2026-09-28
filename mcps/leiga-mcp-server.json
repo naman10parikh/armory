@@ -1,0 +1,7 @@
+{
+  "name": "leiga-mcp-server",
+  "description": "Enables interaction with Leiga issue tracking system through MCP, allowing searching, creating, updating issues, and managing projects.",
+  "source_repo": "FerryZhaoHui/leiga-mcp-server-test",
+  "source_url": "https://github.com/FerryZhaoHui/leiga-mcp-server-test",
+  "install": "# git clone --depth 1 https://github.com/FerryZhaoHui/leiga-mcp-server-test\n# See source for mcpServers config block"
+}

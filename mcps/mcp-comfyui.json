@@ -1,0 +1,7 @@
+{
+  "name": "mcp-comfyui",
+  "description": "Bridges Claude Desktop to local and remote ComfyUI instances, enabling health checks, model listing, workflow queuing, status polling, and output retrieval.",
+  "source_repo": "budihartono/mcp-comfyui",
+  "source_url": "https://github.com/budihartono/mcp-comfyui",
+  "install": "# git clone --depth 1 https://github.com/budihartono/mcp-comfyui\n# See source for mcpServers config block"
+}

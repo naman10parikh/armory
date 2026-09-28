@@ -1,0 +1,7 @@
+{
+  "name": "agentbank-merchant-mcp",
+  "description": "Merchant-side MCP server for agentbank that lets merchants read their own orders and live Curless wallet balance from an MCP client such as Claude Desktop.",
+  "source_repo": "agentbankmcp/agentbank-merchant-mcp",
+  "source_url": "https://github.com/agentbankmcp/agentbank-merchant-mcp",
+  "install": "npx -y agentbank-merchant-mcp"
+}

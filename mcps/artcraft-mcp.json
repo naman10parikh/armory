@@ -1,0 +1,7 @@
+{
+  "name": "artcraft-mcp",
+  "description": "Enables Hermes Agent (or other MCP clients) to interact with ArtCraft's subscription API for model discovery, cost estimation, reference ingestion, image/video generation, and task result retrieval.",
+  "source_repo": "smoermeow/artcraft-mcp",
+  "source_url": "https://github.com/smoermeow/artcraft-mcp",
+  "install": "npx -y artcraft-mcp"
+}

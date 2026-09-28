@@ -1,0 +1,7 @@
+{
+  "name": "ecfr-cartography-mcp",
+  "description": "An MCP server that turns the US Code of Federal Regulations into an agent-navigable citation graph, enabling traversal of regulatory references and detection of stale citations via structured tools.",
+  "source_repo": "apraba05/ecfr-cartography-mcp",
+  "source_url": "https://github.com/apraba05/ecfr-cartography-mcp",
+  "install": "npx -y ecfr-cartography-mcp"
+}

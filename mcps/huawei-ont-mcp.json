@@ -1,0 +1,7 @@
+{
+  "name": "huawei-ont-mcp",
+  "description": "Reads LAN devices and WAN status from a Huawei GPON ONT fiber modem.",
+  "source_repo": "Erenn0989/huawei-ont-mcp",
+  "source_url": "https://github.com/Erenn0989/huawei-ont-mcp",
+  "install": "npx -y huawei-ont-mcp"
+}

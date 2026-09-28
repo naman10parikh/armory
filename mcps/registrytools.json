@@ -1,0 +1,7 @@
+{
+  "name": "registrytools",
+  "description": "A standalone MCP Tool Registry server providing generic tool search and discovery for MCP clients, reducing token consumption and improving tool selection accuracy.",
+  "source_repo": "GeerMrc/RegistryTools",
+  "source_url": "https://github.com/GeerMrc/RegistryTools",
+  "install": "# git clone --depth 1 https://github.com/GeerMrc/RegistryTools\n# See source for mcpServers config block"
+}

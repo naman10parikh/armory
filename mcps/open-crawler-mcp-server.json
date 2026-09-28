@@ -1,0 +1,7 @@
+{
+  "name": "open-crawler-mcp-server",
+  "description": "Enables web crawling and content extraction from web pages, supporting multiple output formats like text, markdown, XML, and JSON, with robots.txt compliance and rate limiting.",
+  "source_repo": "elchika-inc/open-crawler-mcp-server",
+  "source_url": "https://github.com/elchika-inc/open-crawler-mcp-server",
+  "install": "npx -y open-crawler-mcp-server"
+}

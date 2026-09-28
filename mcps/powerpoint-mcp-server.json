@@ -1,0 +1,7 @@
+{
+  "name": "powerpoint-mcp-server",
+  "description": "Enables PowerPoint automation on Windows, including template-based creation, real-time editing, LaTeX equations, animations, and multimodal slide analysis, all via natural language.",
+  "source_repo": "Ayushmaniar/powerpoint-mcp",
+  "source_url": "https://github.com/Ayushmaniar/powerpoint-mcp",
+  "install": "npx -y powerpoint-mcp"
+}

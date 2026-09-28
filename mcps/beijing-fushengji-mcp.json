@@ -1,0 +1,7 @@
+{
+  "name": "beijing-fushengji-mcp",
+  "description": "Enables AI agents to play a classic turn-based business game set in Beijing, autonomously making decisions like moving, trading, banking, and debt repayment over 40 days. Supports loading and saving game records for cross-session learning.",
+  "source_repo": "shiyvfeng/beijing-fushengji-arena",
+  "source_url": "https://github.com/shiyvfeng/beijing-fushengji-arena",
+  "install": "# git clone --depth 1 https://github.com/shiyvfeng/beijing-fushengji-arena\n# See source for mcpServers config block"
+}

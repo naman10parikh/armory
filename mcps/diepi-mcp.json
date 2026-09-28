@@ -1,0 +1,7 @@
+{
+  "name": "diepi-mcp",
+  "description": "MCP server for natural-language daily stock/ETF strategy backtesting. It provides constrained tools for strategy specification, data validation, queue-based backtests, and verifiable result artifacts.",
+  "source_repo": "elonmaskhair-prog/dsh-plugin-diepi",
+  "source_url": "https://github.com/elonmaskhair-prog/dsh-plugin-diepi",
+  "install": "# git clone --depth 1 https://github.com/elonmaskhair-prog/dsh-plugin-diepi\n# See source for mcpServers config block"
+}

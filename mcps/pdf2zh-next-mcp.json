@@ -1,0 +1,7 @@
+{
+  "name": "pdf2zh-next-mcp",
+  "description": "MCP server for translating PDFs using pdf2zh-next, preserving document context by extracting all text segments for LLM translation at once.",
+  "source_repo": "JaeHyeon-KAIST/pdf2zh-next-mcp",
+  "source_url": "https://github.com/JaeHyeon-KAIST/pdf2zh-next-mcp",
+  "install": "npx -y pdf2zh-next-mcp"
+}

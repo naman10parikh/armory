@@ -1,0 +1,7 @@
+{
+  "name": "easyquote-mcp-server",
+  "description": "Enables AI agents to access real-time and historical stock market data for A-shares, Hong Kong, US, and global markets, including quotes, K-lines, fund flows, fundamentals, and board data, via a Python SDK and MCP protocol.",
+  "source_repo": "easyquotes/easyquotes",
+  "source_url": "https://github.com/easyquotes/easyquotes",
+  "install": "# git clone --depth 1 https://github.com/easyquotes/easyquotes\n# See source for mcpServers config block"
+}

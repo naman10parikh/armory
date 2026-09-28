@@ -1,0 +1,7 @@
+{
+  "name": "mysql-mcp-plus",
+  "description": "A local STDIO MCP server for MySQL with multi-datasource support, providing tools to list datasources, test connections, and execute SQL with configurable roles and safety limits.",
+  "source_repo": "mjwyr/mysql_mcp_plus",
+  "source_url": "https://github.com/mjwyr/mysql_mcp_plus",
+  "install": "# git clone --depth 1 https://github.com/mjwyr/mysql_mcp_plus\n# See source for mcpServers config block"
+}

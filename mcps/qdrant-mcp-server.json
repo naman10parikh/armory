@@ -1,6 +1,6 @@
 {
   "name": "qdrant-mcp-server",
-  "description": "Qdrant Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Jimmy974/qdrant-mcp-server",
   "source_url": "https://mcp.so/server/qdrant-mcp-server/Jimmy974",
   "install": "npx -y qdrant-mcp-server"

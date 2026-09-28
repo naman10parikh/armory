@@ -1,0 +1,7 @@
+{
+  "name": "wbso-mcp-server",
+  "description": "Enables AI assistants to automatically detect WBSO-relevant work and log R&D time tracking entries based on configurable project criteria.",
+  "source_repo": "rubenmaas/wbso-mcp-server",
+  "source_url": "https://github.com/rubenmaas/wbso-mcp-server",
+  "install": "npx -y wbso-mcp-server"
+}

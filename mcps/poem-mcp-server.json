@@ -1,0 +1,7 @@
+{
+  "name": "poem-mcp-server",
+  "description": "Enables parsing, validating, and translating POEM pseudo-code specifications into code in any programming language via natural language.",
+  "source_repo": "openpoem/poem-mcp",
+  "source_url": "https://github.com/openpoem/poem-mcp",
+  "install": "npx -y poem-mcp"
+}

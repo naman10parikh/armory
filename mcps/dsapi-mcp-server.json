@@ -1,0 +1,7 @@
+{
+  "name": "dsapi-mcp-server",
+  "description": "MCP server for Android automation that captures screen frames via DirectScreenAPI and supports touch gestures and system key operations.",
+  "source_repo": "ccc007ccc/dsapi-mcp-server",
+  "source_url": "https://github.com/ccc007ccc/dsapi-mcp-server",
+  "install": "npx -y dsapi-mcp-server"
+}

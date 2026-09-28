@@ -1,0 +1,7 @@
+{
+  "name": "wikipedia-trends-mcp",
+  "description": "Provides Wikipedia page view trend data including spike detection, historical traffic, and cross-platform comparison, enabling AI to access a leading indicator of public curiosity.",
+  "source_repo": "trendsmcp/wikipedia-trends-mcp",
+  "source_url": "https://github.com/trendsmcp/wikipedia-trends-mcp",
+  "install": "npx -y wikipedia-trends-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "romulus-31780-2",
+  "description": "ROMulus is a retro gaming ROM search engine that aggregates results from four major sites. Search by game title and console to get download page URLs, cover images, and file sizes... all in one all. Tools: • search_roms — Find ROMs by title, optionally filtered by console (NES, SNES, N64, GameCube,",
+  "source_repo": "",
+  "source_url": "https://romulus.rocks",
+  "install": "# git clone --depth 1 https://romulus.rocks\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bv-mcp",
+  "description": "Connects the BV bank to AI assistants via Open Finance Brasil, enabling natural language queries on balances, transactions, credit card bills, and investments with read-only access.",
+  "source_repo": "mcp-dir/bv-mcp",
+  "source_url": "https://github.com/mcp-dir/bv-mcp",
+  "install": "npx -y bv-mcp"
+}

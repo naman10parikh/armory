@@ -1,0 +1,7 @@
+{
+  "name": "jupytercad-mcp",
+  "description": "Controls JupyterCAD using natural language, enabling creation, modification, and boolean operations on 3D CAD models.",
+  "source_repo": "asmith26/jupytercad-mcp",
+  "source_url": "https://github.com/asmith26/jupytercad-mcp",
+  "install": "npx -y jupytercad-mcp"
+}

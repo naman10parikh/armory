@@ -6,7 +6,7 @@ source_repo: https://github.com/open-telemetry/opentelemetry-js
 source_url: https://github.com/open-telemetry/opentelemetry-js
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: 3454
 eval_score: 1
 mentions: null

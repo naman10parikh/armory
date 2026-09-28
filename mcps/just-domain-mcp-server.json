@@ -1,0 +1,7 @@
+{
+  "name": "just-domain-mcp-server",
+  "description": "Enables checking domain name availability and pricing, and provides a registration link. Read-only: no purchases in chat.",
+  "source_repo": "just-done/just-domain-mcp",
+  "source_url": "https://github.com/just-done/just-domain-mcp",
+  "install": "npx -y just-domain-mcp"
+}

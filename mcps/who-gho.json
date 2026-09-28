@@ -1,0 +1,7 @@
+{
+  "name": "who-gho",
+  "description": "Enables querying World Health Organization Global Health Observatory data via natural language, free and without authentication.",
+  "source_repo": "pipeworx-io/mcp-who-gho",
+  "source_url": "https://github.com/pipeworx-io/mcp-who-gho",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-who-gho\n# See source for mcpServers config block"
+}

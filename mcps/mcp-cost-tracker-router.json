@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cost-tracker-router",
+  "description": "Local-first cost tracking and model routing for MCP agents with offline token counting, budget alerts, and spend reports.",
+  "source_repo": "dbsectrainer/mcp-cost-tracker-router",
+  "source_url": "https://github.com/dbsectrainer/mcp-cost-tracker-router",
+  "install": "# git clone --depth 1 https://github.com/dbsectrainer/mcp-cost-tracker-router\n# See source for mcpServers config block"
+}

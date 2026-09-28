@@ -1,0 +1,7 @@
+{
+  "name": "mobile-e2e-mcp",
+  "description": "AI-safe mobile device control via MCP: a policy-guarded, session-oriented mobile automation harness for AI agents with 66 MCP tools and an Explorer for automatic page traversal.",
+  "source_repo": "shenyuexin/mobile-e2e-mcp",
+  "source_url": "https://github.com/shenyuexin/mobile-e2e-mcp",
+  "install": "npx -y mobile-e2e-mcp"
+}

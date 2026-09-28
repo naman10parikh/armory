@@ -1,0 +1,7 @@
+{
+  "name": "threatintel-mcp",
+  "description": "An MCP server wrapping urlscan.io and VirusTotal APIs to enable AI agents to pivot on threat indicators during investigations, with compact structured output and defanged results.",
+  "source_repo": "ChristianPresley/threatintel-mcp",
+  "source_url": "https://github.com/ChristianPresley/threatintel-mcp",
+  "install": "npx -y threatintel-mcp"
+}

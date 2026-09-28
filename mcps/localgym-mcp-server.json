@@ -1,0 +1,7 @@
+{
+  "name": "localgym-mcp-server",
+  "description": "Read-only MCP server for searching, comparing, and recommending UK gyms using the public LocalGym Agent API.",
+  "source_repo": "lo-nau/localgym-mcp-server",
+  "source_url": "https://github.com/lo-nau/localgym-mcp-server",
+  "install": "npx -y localgym-mcp-server"
+}

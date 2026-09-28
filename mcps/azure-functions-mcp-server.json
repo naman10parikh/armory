@@ -1,0 +1,7 @@
+{
+  "name": "azure-functions-mcp-server",
+  "description": "An educational MCP server deployed as an Azure Function, exposing tools like addition, weather simulation, and temperature conversion for AI agents to invoke.",
+  "source_repo": "alejandrobtez/mcp",
+  "source_url": "https://github.com/alejandrobtez/mcp",
+  "install": "# git clone --depth 1 https://github.com/alejandrobtez/mcp\n# See source for mcpServers config block"
+}

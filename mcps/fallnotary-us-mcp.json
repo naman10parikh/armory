@@ -1,0 +1,7 @@
+{
+  "name": "fallnotary-us-mcp",
+  "description": "A sovereign, MIT-licensed MCP server that provides cryptographically signed notarization for listings, benchmarks, and transactions using Ed25519. It runs offline on user infrastructure as a free alternative to SaaS notary tools.",
+  "source_repo": "sjgant80-hub/fallnotary-us-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallnotary-us-mcp",
+  "install": "npx -y fallnotary-us-mcp"
+}

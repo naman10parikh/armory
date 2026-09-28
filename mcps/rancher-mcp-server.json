@@ -1,0 +1,7 @@
+{
+  "name": "rancher-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that exposes the Rancher Manager v2.x API to LLM clients.",
+  "source_repo": "LokiMCPUniverse/rancher-mcp-server",
+  "source_url": "https://github.com/LokiMCPUniverse/rancher-mcp-server",
+  "install": "npx -y rancher-mcp-server"
+}

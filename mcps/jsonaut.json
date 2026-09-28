@@ -1,0 +1,7 @@
+{
+  "name": "jsonaut",
+  "description": "JSON repair & validation MCP server for AI agents: fixes malformed JSON (trailing commas, truncation, etc.) and validates/coerces against a JSON Schema, with deterministic free tier and paid LLM-fallback.",
+  "source_repo": "shoggi211/jsonaut",
+  "source_url": "https://github.com/shoggi211/jsonaut",
+  "install": "# git clone --depth 1 https://github.com/shoggi211/jsonaut\n# See source for mcpServers config block"
+}

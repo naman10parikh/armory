@@ -1,0 +1,7 @@
+{
+  "name": "mcp-info-gatherer",
+  "description": "Enables searching and gathering information from multiple online sources (web, Twitter/X, Telegram, GitHub, Hugging Face, arXiv) through a unified MCP interface.",
+  "source_repo": "ESkuratov/mcp-info-gatherer",
+  "source_url": "https://github.com/ESkuratov/mcp-info-gatherer",
+  "install": "# git clone --depth 1 https://github.com/ESkuratov/mcp-info-gatherer\n# See source for mcpServers config block"
+}

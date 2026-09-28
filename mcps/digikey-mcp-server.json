@@ -1,0 +1,7 @@
+{
+  "name": "digikey-mcp-server",
+  "description": "Enables searching and retrieving product information from DigiKey's API, including part lookup, keyword search, product details, and pricing.",
+  "source_repo": "Anbus2011/digikey-mcp",
+  "source_url": "https://github.com/Anbus2011/digikey-mcp",
+  "install": "npx -y digikey-mcp"
+}

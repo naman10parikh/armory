@@ -1,0 +1,7 @@
+{
+  "name": "mcp-git-manager",
+  "description": "An MCP server that gives AI agents git repository access: status, log, diff, branch, commit, push, pull, tag, stash, remotes — 24 tools, zero dependencies, pure Python stdlib (subprocess).",
+  "source_repo": "AMEOBIUS-space/mcp-git-manager",
+  "source_url": "https://github.com/AMEOBIUS-space/mcp-git-manager",
+  "install": "# git clone --depth 1 https://github.com/AMEOBIUS-space/mcp-git-manager\n# See source for mcpServers config block"
+}

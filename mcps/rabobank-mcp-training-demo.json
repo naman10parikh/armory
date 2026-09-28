@@ -1,0 +1,7 @@
+{
+  "name": "rabobank-mcp-training-demo",
+  "description": "A training MCP server that demonstrates how GitHub Copilot can securely access internal banking APIs, documentation, and architecture review prompts.",
+  "source_repo": "RemseyMailjard/Rabobank-MCP-training",
+  "source_url": "https://github.com/RemseyMailjard/Rabobank-MCP-training",
+  "install": "# git clone --depth 1 https://github.com/RemseyMailjard/Rabobank-MCP-training\n# See source for mcpServers config block"
+}

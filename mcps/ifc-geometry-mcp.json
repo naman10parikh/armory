@@ -1,0 +1,7 @@
+{
+  "name": "ifc-geometry-mcp",
+  "description": "MCP server for IFC geometric audit, providing tools to detect space clashes, extract space inventories, compute surface losses, check boundaries, and verify opening correspondences in BIM models.",
+  "source_repo": "Slimouzi/ifc-geometry-mcp",
+  "source_url": "https://github.com/Slimouzi/ifc-geometry-mcp",
+  "install": "npx -y ifc-geometry-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "envy-mcp-hello",
+  "description": "A tiny public MCP server backed by an Envy-managed Modal sandbox that exposes a hello environment with standard sandbox tools like create_sandbox, bash, read, write, edit, and grep for ephemeral file and command execution.",
+  "source_repo": "aaazzam/envy-mcp-hello",
+  "source_url": "https://github.com/aaazzam/envy-mcp-hello",
+  "install": "# git clone --depth 1 https://github.com/aaazzam/envy-mcp-hello\n# See source for mcpServers config block"
+}

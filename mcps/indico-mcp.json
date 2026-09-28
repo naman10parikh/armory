@@ -1,0 +1,7 @@
+{
+  "name": "indico-mcp",
+  "description": "MCP server for the Indico meeting agenda system, enabling AI agents to search event categories, browse agendas, and extract contribution and session details. Works with multiple Indico instances simultaneously.",
+  "source_repo": "cohm/indico-mcp",
+  "source_url": "https://github.com/cohm/indico-mcp",
+  "install": "npx -y indico-mcp"
+}

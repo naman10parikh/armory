@@ -1,0 +1,7 @@
+{
+  "name": "colab-fleet",
+  "description": "Enables offloading heavy CPU/ML workloads to free Google Colab from any MCP client, with automatic job management and free-tier enforcement.",
+  "source_repo": "yazzang-homelab/colab-fleet",
+  "source_url": "https://github.com/yazzang-homelab/colab-fleet",
+  "install": "# git clone --depth 1 https://github.com/yazzang-homelab/colab-fleet\n# See source for mcpServers config block"
+}

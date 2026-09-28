@@ -1,0 +1,7 @@
+{
+  "name": "mcp-taiyi",
+  "description": "Calculates Taiyi Shenshu (太乙神數) based on a given datetime and returns structured text and a board PNG image.",
+  "source_repo": "molpass/mcp-taiyi",
+  "source_url": "https://github.com/molpass/mcp-taiyi",
+  "install": "# git clone --depth 1 https://github.com/molpass/mcp-taiyi\n# See source for mcpServers config block"
+}

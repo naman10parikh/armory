@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bifrost",
+  "description": "Enables delegating mechanical code rewrites to a cheap worker model while validating and atomically applying them, supporting PHP and Python without passing rewritten blocks through the orchestrator's context.",
+  "source_repo": "FixemBCN/MCP-Bifrost",
+  "source_url": "https://github.com/FixemBCN/MCP-Bifrost",
+  "install": "# git clone --depth 1 https://github.com/FixemBCN/MCP-Bifrost\n# See source for mcpServers config block"
+}

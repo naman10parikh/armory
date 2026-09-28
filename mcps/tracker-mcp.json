@@ -1,0 +1,7 @@
+{
+  "name": "tracker-mcp",
+  "description": "Enables querying machine-learning experiments in natural language. Supports listing, inspecting, ranking, and comparing experiment runs.",
+  "source_repo": "Lesvitadsouza/tracker-mcp",
+  "source_url": "https://github.com/Lesvitadsouza/tracker-mcp",
+  "install": "npx -y tracker-mcp"
+}

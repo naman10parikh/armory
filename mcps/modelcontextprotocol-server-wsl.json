@@ -1,0 +1,7 @@
+{
+  "name": "modelcontextprotocol-server-wsl",
+  "description": "Enables Claude Desktop to interact with Windows Subsystem for Linux (WSL) environments, allowing command execution, file management, and distribution inspection from natural language.",
+  "source_repo": "riparino/wsl-mcp",
+  "source_url": "https://github.com/riparino/wsl-mcp",
+  "install": "npx -y wsl-mcp"
+}

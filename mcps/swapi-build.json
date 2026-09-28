@@ -1,0 +1,7 @@
+{
+  "name": "swapi-build",
+  "description": "MCP server that provides access to Star Wars data (people, films, planets, species, starships, vehicles) through tools like list, get, random, and search.",
+  "source_repo": "eldermoraes/swapi.build",
+  "source_url": "https://github.com/eldermoraes/swapi.build",
+  "install": "# git clone --depth 1 https://github.com/eldermoraes/swapi.build\n# See source for mcpServers config block"
+}

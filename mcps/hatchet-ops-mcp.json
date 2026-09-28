@@ -1,0 +1,7 @@
+{
+  "name": "hatchet-ops-mcp",
+  "description": "A read-only MCP server that exposes Hatchet client / REST observability APIs to coding agents across multiple environments from one process.",
+  "source_repo": "TavenYin/hatchet-ops-mcp",
+  "source_url": "https://github.com/TavenYin/hatchet-ops-mcp",
+  "install": "npx -y hatchet-ops-mcp"
+}

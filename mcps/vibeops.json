@@ -1,0 +1,7 @@
+{
+  "name": "vibeops",
+  "description": "Enables agents to read and drive a local-first Kanban board for issue tracking, allowing them to list, create, update, and resolve issues from Claude Code sessions.",
+  "source_repo": "igembitsky/vibeops-tracker",
+  "source_url": "https://github.com/igembitsky/vibeops-tracker",
+  "install": "# git clone --depth 1 https://github.com/igembitsky/vibeops-tracker\n# See source for mcpServers config block"
+}

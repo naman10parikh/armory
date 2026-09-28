@@ -1,0 +1,7 @@
+{
+  "name": "mp-sp-inquerito-civil-mcp",
+  "description": "Enables consultation of Brazilian Ministério Público SP civil inquiry data from official sources via a read-only MCP server.",
+  "source_repo": "mcp-dir/mp_sp_inquerito_civil-mcp",
+  "source_url": "https://github.com/mcp-dir/mp_sp_inquerito_civil-mcp",
+  "install": "npx -y mp_sp_inquerito_civil-mcp"
+}

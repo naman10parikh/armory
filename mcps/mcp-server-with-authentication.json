@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-with-authentication",
+  "description": "Implements a secure MCP server with API Key and JWT authentication, providing tools like echo, login, secure_action, and admin_action. Includes MCP Inspector integration for testing and debugging.",
+  "source_repo": "ahmad-act/MCP-Server-with-Authentication-and-Testing-with-Inspector",
+  "source_url": "https://github.com/ahmad-act/MCP-Server-with-Authentication-and-Testing-with-Inspector",
+  "install": "# git clone --depth 1 https://github.com/ahmad-act/MCP-Server-with-Authentication-and-Testing-with-Inspector\n# See source for mcpServers config block"
+}

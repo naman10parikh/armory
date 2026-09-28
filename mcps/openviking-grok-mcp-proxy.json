@@ -1,0 +1,7 @@
+{
+  "name": "openviking-grok-mcp-proxy",
+  "description": "Bridges Grok CLI to an OpenViking context database over MCP, enabling memory and code tools like recall, search, and resource management.",
+  "source_repo": "shpaw415/openviking-grok-plugin",
+  "source_url": "https://github.com/shpaw415/openviking-grok-plugin",
+  "install": "# git clone --depth 1 https://github.com/shpaw415/openviking-grok-plugin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chat-3",
+  "description": "A command-line interface MCP server that enables interactive chat with Anthropic AI models, supporting document retrieval and extensible command-based tools.",
+  "source_repo": "umar-ashrfy/anthropic-mcp-server",
+  "source_url": "https://github.com/umar-ashrfy/anthropic-mcp-server",
+  "install": "npx -y anthropic-mcp-server"
+}

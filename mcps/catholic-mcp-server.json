@@ -1,0 +1,7 @@
+{
+  "name": "catholic-mcp-server",
+  "description": "Provides Catholic content including daily gospel readings, prayers, and liturgical calendar, enabling users to access spiritual resources through natural language.",
+  "source_repo": "sevuoi/catholic_mcp",
+  "source_url": "https://github.com/sevuoi/catholic_mcp",
+  "install": "npx -y catholic_mcp"
+}

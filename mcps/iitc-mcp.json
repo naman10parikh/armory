@@ -1,0 +1,7 @@
+{
+  "name": "iitc-mcp",
+  "description": "Bridge between IITC and MCP agents, enabling AI assistants to interact with Ingress Intel: view map, count portals, track players, and communicate via COMM without manual input.",
+  "source_repo": "comicchang/iitc-mcp",
+  "source_url": "https://github.com/comicchang/iitc-mcp",
+  "install": "npx -y iitc-mcp"
+}

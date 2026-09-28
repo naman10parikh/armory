@@ -1,6 +1,6 @@
 {
   "name": "youtube-mcp-server-3",
-  "description": "Youtube Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Tisik79/youtube-mcp-server",
   "source_url": "https://mcp.so/server/youtube-mcp-server/Tisik79",
   "install": "npx -y youtube-mcp-server"

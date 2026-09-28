@@ -1,0 +1,7 @@
+{
+  "name": "pulp",
+  "description": "Enables AI agents to collaboratively design and edit web pages on an infinite canvas using real HTML/CSS, with tools for reading, mutating, and exporting documents.",
+  "source_repo": "nipunbatra/pulp",
+  "source_url": "https://github.com/nipunbatra/pulp",
+  "install": "# git clone --depth 1 https://github.com/nipunbatra/pulp\n# See source for mcpServers config block"
+}

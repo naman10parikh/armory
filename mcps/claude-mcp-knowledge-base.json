@@ -1,0 +1,7 @@
+{
+  "name": "claude-mcp-knowledge-base",
+  "description": "A persistent knowledge base server for MCP development with GitHub integration and removal blocklist.",
+  "source_repo": "grandinh/claude-mcp-kb",
+  "source_url": "https://github.com/grandinh/claude-mcp-kb",
+  "install": "# git clone --depth 1 https://github.com/grandinh/claude-mcp-kb\n# See source for mcpServers config block"
+}

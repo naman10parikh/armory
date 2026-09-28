@@ -1,0 +1,7 @@
+{
+  "name": "agentic-vault",
+  "description": "MCP server that lets AI agents call APIs without ever seeing the credentials, using a local encrypted vault and per-secret allowlist policies for HTTP requests and subprocess environment variables.",
+  "source_repo": "AliProgrammin/agentic-vault",
+  "source_url": "https://github.com/AliProgrammin/agentic-vault",
+  "install": "# git clone --depth 1 https://github.com/AliProgrammin/agentic-vault\n# See source for mcpServers config block"
+}

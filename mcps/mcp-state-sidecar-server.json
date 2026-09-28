@@ -1,0 +1,7 @@
+{
+  "name": "mcp-state-sidecar-server",
+  "description": "An MCP-native state sidecar that externalises workflow state for distributed agent deployments.",
+  "source_repo": "askadvaith/MCP-State-Sidecar",
+  "source_url": "https://github.com/askadvaith/MCP-State-Sidecar",
+  "install": "# git clone --depth 1 https://github.com/askadvaith/MCP-State-Sidecar\n# See source for mcpServers config block"
+}

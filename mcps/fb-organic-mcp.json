@@ -1,0 +1,7 @@
+{
+  "name": "fb-organic-mcp",
+  "description": "MCP server for managing organic Facebook Page content: create and schedule posts, read posts and comments, view page insights, and delete posts.",
+  "source_repo": "Green-pep/fb-organic-mcp",
+  "source_url": "https://github.com/Green-pep/fb-organic-mcp",
+  "install": "npx -y fb-organic-mcp"
+}

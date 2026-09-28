@@ -1,0 +1,7 @@
+{
+  "name": "gdocs-comments-mcp",
+  "description": "Enables adding inline, range-anchored comments to specific text fragments in Google Docs, overcoming the limitation that Google APIs cannot create anchored comments.",
+  "source_repo": "stanislawherjan1/gdocs-comments-mcp",
+  "source_url": "https://github.com/stanislawherjan1/gdocs-comments-mcp",
+  "install": "npx -y gdocs-comments-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "suverse-mcp-server",
+  "description": "Enables Claude to call US government and freight APIs via SuVerse's pay-per-call gateway, automatically paying in USDC on Base from a funded wallet.",
+  "source_repo": "sudzikcoin/suverse-mcp",
+  "source_url": "https://github.com/sudzikcoin/suverse-mcp",
+  "install": "npx -y suverse-mcp"
+}

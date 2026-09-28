@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dm8-server",
+  "description": "Provides table structure browsing and read-only query capabilities for DM8 databases, enabling interaction through MCP clients like Claude Desktop.",
+  "source_repo": "lianekai/mcp-dm8-server",
+  "source_url": "https://github.com/lianekai/mcp-dm8-server",
+  "install": "# git clone --depth 1 https://github.com/lianekai/mcp-dm8-server\n# See source for mcpServers config block"
+}

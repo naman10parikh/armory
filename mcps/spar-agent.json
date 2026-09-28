@@ -1,0 +1,7 @@
+{
+  "name": "spar-agent",
+  "description": "Enables developers to compare their code predictions against AI-generated implementations, log misconceptions, and receive spaced-repetition learning feedback to guide their understanding of gaps.",
+  "source_repo": "Lander-Parren/spar",
+  "source_url": "https://github.com/Lander-Parren/spar",
+  "install": "# git clone --depth 1 https://github.com/Lander-Parren/spar\n# See source for mcpServers config block"
+}

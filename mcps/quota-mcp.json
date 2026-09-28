@@ -1,0 +1,7 @@
+{
+  "name": "quota-mcp",
+  "description": "Tracks AI subscription quota (5h/day/week windows) and recommends which provider an agent should use, using local-first data and observed rate-limit events to veto providers.",
+  "source_repo": "carl0sfelipe/quota-mcp",
+  "source_url": "https://github.com/carl0sfelipe/quota-mcp",
+  "install": "npx -y quota-mcp"
+}

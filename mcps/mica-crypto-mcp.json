@@ -1,0 +1,7 @@
+{
+  "name": "mica-crypto-mcp",
+  "description": "EU MiCA compliance MCP for crypto-asset issuers, exchanges, and CASPs.",
+  "source_repo": "CSOAI-ORG/mica-crypto-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/mica-crypto-mcp",
+  "install": "npx -y mica-crypto-mcp"
+}

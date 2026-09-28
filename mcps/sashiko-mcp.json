@@ -1,0 +1,7 @@
+{
+  "name": "sashiko-mcp",
+  "description": "MCP server that queries the Sashiko AI kernel-patch review service to find critical/high severity vulnerabilities (LPE, UAF, OOB, etc.) in reviewed patches, including overlooked AI findings.",
+  "source_repo": "0nsec/sashiko-MCP",
+  "source_url": "https://github.com/0nsec/sashiko-MCP",
+  "install": "npx -y sashiko-MCP"
+}

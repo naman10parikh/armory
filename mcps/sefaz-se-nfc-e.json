@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-se-nfc-e",
+  "description": "Enables consulting SEFAZ SE NFC-e tax documents from official source via a read-only MCP tool, with support for any MCP client over HTTP.",
+  "source_repo": "mcp-dir/sefaz_se_nfce-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_se_nfce-mcp",
+  "install": "npx -y sefaz_se_nfce-mcp"
+}

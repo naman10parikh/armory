@@ -1,0 +1,7 @@
+{
+  "name": "calmcp",
+  "description": "A read-only MCP server that bridges AI assistants to SAP Cloud ALM, exposing read APIs through four intent-based tools. It runs locally over stdio or remotely over Streamable HTTP, and can be deployed to SAP BTP Cloud Foundry.",
+  "source_repo": "consetto/calmcp",
+  "source_url": "https://github.com/consetto/calmcp",
+  "install": "# git clone --depth 1 https://github.com/consetto/calmcp\n# See source for mcpServers config block"
+}

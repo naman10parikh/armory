@@ -1,0 +1,7 @@
+{
+  "name": "fitbit-google-health-mcp",
+  "description": "Read-only MCP access to Fitbit-synced health data through Google Health API v4. Provides tools for metrics, summaries, trends, and data quality without write or arbitrary HTTP operations.",
+  "source_repo": "rickygarim/fitbit-google-health-mcp",
+  "source_url": "https://github.com/rickygarim/fitbit-google-health-mcp",
+  "install": "npx -y fitbit-google-health-mcp"
+}

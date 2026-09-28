@@ -1,0 +1,7 @@
+{
+  "name": "codeagentjp-law-diff-mcp",
+  "description": "Enables finding Japanese e-Gov law revisions and diffing law text by law history ID.",
+  "source_repo": "SHAYOUWORLD/law-diff-mcp",
+  "source_url": "https://github.com/SHAYOUWORLD/law-diff-mcp",
+  "install": "npx -y law-diff-mcp"
+}

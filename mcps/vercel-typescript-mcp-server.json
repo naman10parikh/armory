@@ -1,0 +1,7 @@
+{
+  "name": "vercel-typescript-mcp-server",
+  "description": "A production-ready MCP server for Vercel Serverless Functions using Streamable HTTP Transport, offering built-in tools for calculations, text analysis, and time utilities, with easy deployment to Vercel.",
+  "source_repo": "Th3NerdSage/vercel-mcp-typescript-server",
+  "source_url": "https://github.com/Th3NerdSage/vercel-mcp-typescript-server",
+  "install": "# git clone --depth 1 https://github.com/Th3NerdSage/vercel-mcp-typescript-server\n# See source for mcpServers config block"
+}

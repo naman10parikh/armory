@@ -1,0 +1,7 @@
+{
+  "name": "tasmac-mcp",
+  "description": "MCP server for querying TASMAC liquor shop stock and MRP in Tamil Nadu, including finding nearby shops and products, with history tracking and JSON/text output.",
+  "source_repo": "notprashanth/tasmac-mcp",
+  "source_url": "https://github.com/notprashanth/tasmac-mcp",
+  "install": "npx -y tasmac-mcp"
+}

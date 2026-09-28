@@ -1,0 +1,7 @@
+{
+  "name": "mcp-quote-server",
+  "description": "Enables users to list quote categories and retrieve random quotes from a local JSON file via MCP tools, with no API key required.",
+  "source_repo": "productiveAnalytics/mcp_quote_server",
+  "source_url": "https://github.com/productiveAnalytics/mcp_quote_server",
+  "install": "# git clone --depth 1 https://github.com/productiveAnalytics/mcp_quote_server\n# See source for mcpServers config block"
+}

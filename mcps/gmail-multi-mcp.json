@@ -1,0 +1,7 @@
+{
+  "name": "gmail-multi-mcp",
+  "description": "Connect multiple Gmail accounts to any MCP client, enabling search, read, draft, send, label, and organize mail across unlimited accounts with local-only OAuth token storage.",
+  "source_repo": "Vinksj/claude-gmail-multi",
+  "source_url": "https://github.com/Vinksj/claude-gmail-multi",
+  "install": "# git clone --depth 1 https://github.com/Vinksj/claude-gmail-multi\n# See source for mcpServers config block"
+}

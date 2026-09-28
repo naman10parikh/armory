@@ -1,0 +1,7 @@
+{
+  "name": "ghl-mcp-server",
+  "description": "A comprehensive MCP server that connects AI assistants to GoHighLevel CRM, enabling management of contacts, conversations, calendars, pipelines, payments, and more through 60+ tools.",
+  "source_repo": "northrosetech/ghl-mcp-server",
+  "source_url": "https://github.com/northrosetech/ghl-mcp-server",
+  "install": "npx -y ghl-mcp-server"
+}

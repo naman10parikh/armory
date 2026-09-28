@@ -1,0 +1,7 @@
+{
+  "name": "cannons-auctions-mcp",
+  "description": "MCP server for Cannons Auctions API, enabling natural language access to auction data including item search, auction listings, and detailed item information.",
+  "source_repo": "deansasek/cannons-auctions-api",
+  "source_url": "https://github.com/deansasek/cannons-auctions-api",
+  "install": "# git clone --depth 1 https://github.com/deansasek/cannons-auctions-api\n# See source for mcpServers config block"
+}

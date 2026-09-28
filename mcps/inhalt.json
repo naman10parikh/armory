@@ -1,0 +1,7 @@
+{
+  "name": "inhalt",
+  "description": "An MCP-native CMS that lets you create and edit content by chatting, with typed schemas and seamless publishing.",
+  "source_repo": "kozmos-tech/inhalt",
+  "source_url": "https://github.com/kozmos-tech/inhalt",
+  "install": "# git clone --depth 1 https://github.com/kozmos-tech/inhalt\n# See source for mcpServers config block"
+}

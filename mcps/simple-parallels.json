@@ -1,0 +1,7 @@
+{
+  "name": "simple-parallels",
+  "description": "MCP server for managing Parallels Desktop VMs, including lifecycle operations and snapshots.",
+  "source_repo": "atahan99/simple-parallels",
+  "source_url": "https://github.com/atahan99/simple-parallels",
+  "install": "# git clone --depth 1 https://github.com/atahan99/simple-parallels\n# See source for mcpServers config block"
+}

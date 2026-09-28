@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mindicador",
+  "description": "Provides access to Chilean economic indicators (dolar, UF, IPC, etc.) via the mindicador.cl API, enabling queries for current values, historical series, and specific dates.",
+  "source_repo": "justomiguel/mcp-sqm",
+  "source_url": "https://github.com/justomiguel/mcp-sqm",
+  "install": "# git clone --depth 1 https://github.com/justomiguel/mcp-sqm\n# See source for mcpServers config block"
+}

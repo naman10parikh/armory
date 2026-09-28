@@ -1,0 +1,7 @@
+{
+  "name": "impactdotcom-mcp",
+  "description": "A local MCP server that wraps the Impact.com partner REST API for querying and acting on affiliate/partnership data, with focus on diagnosing publisher tracking problems.",
+  "source_repo": "gblush/impactdotcom-mcp",
+  "source_url": "https://github.com/gblush/impactdotcom-mcp",
+  "install": "npx -y impactdotcom-mcp"
+}

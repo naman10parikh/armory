@@ -1,0 +1,7 @@
+{
+  "name": "write-like-me-mcp",
+  "description": "Enables Claude to write in your personal style by learning from your local documents. It provides statistical style context for natural language rewriting, all without any data leaving your machine.",
+  "source_repo": "gwicho38/write-like-me-mcp",
+  "source_url": "https://github.com/gwicho38/write-like-me-mcp",
+  "install": "npx -y write-like-me-mcp"
+}

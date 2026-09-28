@@ -1,0 +1,7 @@
+{
+  "name": "twelvelabs-indexing",
+  "description": "Enables video indexing with TwelveLabs by uploading local video files and tracking task status.",
+  "source_repo": "Hrishikesh332/TL_Indexing_MCP",
+  "source_url": "https://github.com/Hrishikesh332/TL_Indexing_MCP",
+  "install": "npx -y TL_Indexing_MCP"
+}

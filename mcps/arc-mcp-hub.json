@@ -1,0 +1,7 @@
+{
+  "name": "arc-mcp-hub",
+  "description": "A thin, deterministic MCP hub for SAP BTP that routes connections to multiple SAP systems behind one login, preserving per-user identity.",
+  "source_repo": "arc-mcp/mcp-hub",
+  "source_url": "https://github.com/arc-mcp/mcp-hub",
+  "install": "# git clone --depth 1 https://github.com/arc-mcp/mcp-hub\n# See source for mcpServers config block"
+}

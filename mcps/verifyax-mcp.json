@@ -1,0 +1,7 @@
+{
+  "name": "verifyax-mcp",
+  "description": "Enables conversational access to the VerifyAX agent-evaluation platform, exposing tools for agent evaluation workflows through natural language.",
+  "source_repo": "verifyax/verifyax-mcp",
+  "source_url": "https://github.com/verifyax/verifyax-mcp",
+  "install": "npx -y verifyax-mcp"
+}

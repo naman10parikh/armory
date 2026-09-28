@@ -1,0 +1,7 @@
+{
+  "name": "excalidraw-mcp-diagram-agent",
+  "description": "Generates editable Excalidraw diagrams from natural language system descriptions, with properly bound arrows and labels. Includes tools for diagram creation, validation, and backend status.",
+  "source_repo": "dev48v/excalidraw-mcp-agent",
+  "source_url": "https://github.com/dev48v/excalidraw-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/dev48v/excalidraw-mcp-agent\n# See source for mcpServers config block"
+}

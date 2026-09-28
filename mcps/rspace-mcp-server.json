@@ -1,0 +1,7 @@
+{
+  "name": "rspace-mcp-server",
+  "description": "Exposes RSpace API endpoints to LLM agents using the Model Context Protocol.",
+  "source_repo": "richarda23/rspace-mcp",
+  "source_url": "https://github.com/richarda23/rspace-mcp",
+  "install": "npx -y rspace-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "factorhub-mcp-server",
+  "description": "A China A-share market data MCP server that enables AI agents to query factor data, market quotes, valuations, and run strategy backtests.",
+  "source_repo": "michaelfeng/factorhub-mcp",
+  "source_url": "https://github.com/michaelfeng/factorhub-mcp",
+  "install": "npx -y factorhub-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "macos-mail-mcp",
+  "description": "An MCP server for Apple Mail that enables Claude to read, search, manage, and compose emails via AppleScript.",
+  "source_repo": "marius-cetanas/macos-mail-mcp",
+  "source_url": "https://github.com/marius-cetanas/macos-mail-mcp",
+  "install": "npx -y macos-mail-mcp"
+}

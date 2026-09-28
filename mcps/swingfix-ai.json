@@ -1,0 +1,7 @@
+{
+  "name": "swingfix-ai",
+  "description": "AI-powered golf swing analysis. Submit a swing image URL and receive scored metrics, flaws, and personalised drill recommendations",
+  "source_repo": "laobuilt/swingfix-mcp",
+  "source_url": "https://github.com/laobuilt/swingfix-mcp",
+  "install": "npx -y swingfix-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "appniche-mcp-server",
+  "description": "Open-source Model Context Protocol server for iOS App Store market research with four read-only tools for app discovery, revenue/download estimates, ASO keyword research, and review analysis.",
+  "source_repo": "skiffer/appniche-mcp-server",
+  "source_url": "https://github.com/skiffer/appniche-mcp-server",
+  "install": "npx -y appniche-mcp-server"
+}

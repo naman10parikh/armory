@@ -1,0 +1,7 @@
+{
+  "name": "ste-dictionary-mcp-server",
+  "description": "Checks text against ASD-STE100 Simple Technical English, identifying non-approved words and suggesting STE replacements, and detects structural violations such as overlong sentences, passive voice, and noun clusters. Works entirely offline from a static dictionary snapshot with no network access at",
+  "source_repo": "wolf123450/ste-dictionary-mcp",
+  "source_url": "https://github.com/wolf123450/ste-dictionary-mcp",
+  "install": "npx -y ste-dictionary-mcp"
+}

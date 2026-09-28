@@ -1,0 +1,7 @@
+{
+  "name": "fin-data-mcp-server",
+  "description": "A Model Context Protocol server providing free financial market data across 13 categories with 83 no-key tools, enabling access to stocks, indices, options, forex, crypto, energy, prediction markets, and more.",
+  "source_repo": "CohenD/fin-data-mcp",
+  "source_url": "https://github.com/CohenD/fin-data-mcp",
+  "install": "npx -y fin-data-mcp"
+}

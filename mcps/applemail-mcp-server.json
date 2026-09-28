@@ -1,0 +1,7 @@
+{
+  "name": "applemail-mcp-server",
+  "description": "A local MCP server that lets Claude read macOS Mail.app via JXA, with tools for listing accounts/mailboxes, searching and reading messages. Read-only by default, with optional opt-in write tools for compose drafts and Apple Calendar events.",
+  "source_repo": "paulo-amaral/applemail-mcp-server",
+  "source_url": "https://github.com/paulo-amaral/applemail-mcp-server",
+  "install": "npx -y applemail-mcp-server"
+}

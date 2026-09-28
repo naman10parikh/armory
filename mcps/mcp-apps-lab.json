@@ -1,0 +1,7 @@
+{
+  "name": "mcp-apps-lab",
+  "description": "A FastMCP server that exposes interactive prefab apps for quizzes, weather dashboards, and live news curation, along with resources and prompts. It lets users take quizzes, check weather, and get news briefings through natural language.",
+  "source_repo": "hazurafif/mcp-apps-lab",
+  "source_url": "https://github.com/hazurafif/mcp-apps-lab",
+  "install": "# git clone --depth 1 https://github.com/hazurafif/mcp-apps-lab\n# See source for mcpServers config block"
+}

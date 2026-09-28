@@ -1,0 +1,7 @@
+{
+  "name": "usmart-mcp",
+  "description": "A local-first MCP server that provides read-only access to uSMART Singapore account, positions, orders, market quotes, historical K-lines, and health checks.",
+  "source_repo": "liusheldon238/usmart-mcp",
+  "source_url": "https://github.com/liusheldon238/usmart-mcp",
+  "install": "npx -y usmart-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "outlookmaster-mcp",
+  "description": "A comprehensive MCP server for Microsoft Outlook email management, enabling mail operations, smart search, statistical analysis, and more via natural language.",
+  "source_repo": "bonjourzzz/OutlookMaster-MCP",
+  "source_url": "https://github.com/bonjourzzz/OutlookMaster-MCP",
+  "install": "npx -y OutlookMaster-MCP"
+}

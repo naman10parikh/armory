@@ -1,0 +1,7 @@
+{
+  "name": "malaria-forecast-mcp",
+  "description": "MCP server enabling AI agents to access provincial malaria surveillance and outbreak forecasts for Angola, with guardrails to ensure safe and validated outputs.",
+  "source_repo": "joaquimtimoteo/MCP-server-Malaria",
+  "source_url": "https://github.com/joaquimtimoteo/MCP-server-Malaria",
+  "install": "# git clone --depth 1 https://github.com/joaquimtimoteo/MCP-server-Malaria\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "neoforge-kb-mcp",
+  "description": "MCP server that provides RAG-based access to Neoforge Mod API documentation, enabling LLMs to query the latest Neoforge modding knowledge.",
+  "source_repo": "spudmashmedia/neoforge-kb-mcp",
+  "source_url": "https://github.com/spudmashmedia/neoforge-kb-mcp",
+  "install": "npx -y neoforge-kb-mcp"
+}

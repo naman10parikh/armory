@@ -1,0 +1,7 @@
+{
+  "name": "youtube-lecture-notes-mcp",
+  "description": "Automatically extracts subtitles, captures screenshots at specified timestamps, and generates structured Obsidian markdown notes from YouTube videos using Claude AI.",
+  "source_repo": "mohsinkhadim59/youtube-obsidian-mcp",
+  "source_url": "https://github.com/mohsinkhadim59/youtube-obsidian-mcp",
+  "install": "npx -y youtube-obsidian-mcp"
+}

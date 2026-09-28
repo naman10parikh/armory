@@ -1,0 +1,7 @@
+{
+  "name": "loopy-mcp-server",
+  "description": "Integrates Loopy's AI agent loop library with MCP-compatible clients like LM Studio, enabling discovery, analysis, crafting, and execution of bounded agent workflows.",
+  "source_repo": "hotkid61/Loopy-MCP-Server",
+  "source_url": "https://github.com/hotkid61/Loopy-MCP-Server",
+  "install": "npx -y Loopy-MCP-Server"
+}

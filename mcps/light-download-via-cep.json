@@ -1,0 +1,7 @@
+{
+  "name": "light-download-via-cep",
+  "description": "Consulta em fonte oficial para download via CEP, com ferramenta somente leitura e paga por uso.",
+  "source_repo": "mcp-dir/contas_light_download_cep-mcp",
+  "source_url": "https://github.com/mcp-dir/contas_light_download_cep-mcp",
+  "install": "npx -y contas_light_download_cep-mcp"
+}

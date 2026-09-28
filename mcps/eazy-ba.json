@@ -1,0 +1,7 @@
+{
+  "name": "eazy-ba",
+  "description": "Captures and organizes requirements as markdown, tracks relationships between personas, requirements, use cases, and user stories.",
+  "source_repo": "God1n/eazy-ba",
+  "source_url": "https://github.com/God1n/eazy-ba",
+  "install": "# git clone --depth 1 https://github.com/God1n/eazy-ba\n# See source for mcpServers config block"
+}

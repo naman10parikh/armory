@@ -1,0 +1,7 @@
+{
+  "name": "vscode-debug-mcp",
+  "description": "Gives AI agents full control of VS Code's debugging engine — set breakpoints, launch/attach sessions, step through code, inspect call stacks and variables, and evaluate expressions in the paused frame.",
+  "source_repo": "laststance/vscode-debug-mcp",
+  "source_url": "https://github.com/laststance/vscode-debug-mcp",
+  "install": "npx -y vscode-debug-mcp"
+}

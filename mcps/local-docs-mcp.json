@@ -1,0 +1,7 @@
+{
+  "name": "local-docs-mcp",
+  "description": "Enables local document search and reading across formats like docx, pdf, md, and more, providing tools for listing, searching, and reading documents.",
+  "source_repo": "BitFigther/local-docs-mcp",
+  "source_url": "https://github.com/BitFigther/local-docs-mcp",
+  "install": "npx -y local-docs-mcp"
+}

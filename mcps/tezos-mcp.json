@@ -1,0 +1,7 @@
+{
+  "name": "tezos-mcp",
+  "description": "RAG-powered MCP server that indexes and searches Tezos protocol specs, TZIPs, and Octez source code, enabling semantic search and expert guidance on Tezos topics.",
+  "source_repo": "dmichael/tezos-mcp",
+  "source_url": "https://github.com/dmichael/tezos-mcp",
+  "install": "npx -y tezos-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shortpixel-mcp-server",
+  "description": "Exposes ShortPixel SPIO image optimization to AI agents, allowing them to optimize image URLs via tools like optimize_image_urls.",
+  "source_repo": "short-pixel-optimizer/com.shortpixel.mcp",
+  "source_url": "https://github.com/short-pixel-optimizer/com.shortpixel.mcp",
+  "install": "# git clone --depth 1 https://github.com/short-pixel-optimizer/com.shortpixel.mcp\n# See source for mcpServers config block"
+}

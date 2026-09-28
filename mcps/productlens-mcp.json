@@ -1,0 +1,7 @@
+{
+  "name": "productlens-mcp",
+  "description": "Enables product comparison and analysis for any MCP-compatible AI assistant, with tools like compare_products and list_products.",
+  "source_repo": "KeJ123/ProductLens-MCP",
+  "source_url": "https://github.com/KeJ123/ProductLens-MCP",
+  "install": "npx -y ProductLens-MCP"
+}

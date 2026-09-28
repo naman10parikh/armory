@@ -1,0 +1,7 @@
+{
+  "name": "mcp-graphql-enhanced",
+  "description": "Federated GraphQL-to-MCP bridge. Enables seamless execution of GraphQL queries with built-in introspection and schema evolution tracking.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/letoribo/mcp-graphql-enhanced",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/letoribo/mcp-graphql-enhanced\n# See source for mcpServers config block"
+}

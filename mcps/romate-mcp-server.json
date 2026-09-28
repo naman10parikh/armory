@@ -1,0 +1,7 @@
+{
+  "name": "romate-mcp-server",
+  "description": "This server exposes local stdio MCP tools as HTTP/SSE endpoints, enabling remote clients like Claude Desktop to call them. It supports single-tool and aggregated modes with authentication, auto-restart, and hot reload.",
+  "source_repo": "haode01/mcp-proxy-server",
+  "source_url": "https://github.com/haode01/mcp-proxy-server",
+  "install": "# git clone --depth 1 https://github.com/haode01/mcp-proxy-server\n# See source for mcpServers config block"
+}

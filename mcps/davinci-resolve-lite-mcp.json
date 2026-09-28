@@ -1,0 +1,7 @@
+{
+  "name": "davinci-resolve-lite-mcp",
+  "description": "Enables AI clients such as Claude Code to control DaVinci Resolve, including the free Lite edition, through a local HTTP server that runs inside Resolve's Scripts menu. It exposes 163 tools for editing, color, rendering, media pool, and Fusion title styling.",
+  "source_repo": "2sem/davinci-resolve-lite-mcp",
+  "source_url": "https://github.com/2sem/davinci-resolve-lite-mcp",
+  "install": "npx -y davinci-resolve-lite-mcp"
+}

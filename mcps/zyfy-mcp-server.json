@@ -1,0 +1,7 @@
+{
+  "name": "zyfy-mcp-server",
+  "description": "Enables natural language queries about UK postcodes and vehicles, including flood risk, crime rate, broadband coverage, property prices, MOT history, and ULEZ compliance.",
+  "source_repo": "zyfy-uk/zyfy-mcp",
+  "source_url": "https://github.com/zyfy-uk/zyfy-mcp",
+  "install": "npx -y zyfy-mcp"
+}

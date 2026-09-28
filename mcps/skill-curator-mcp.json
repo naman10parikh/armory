@@ -1,0 +1,7 @@
+{
+  "name": "skill-curator-mcp",
+  "description": "Enables AI agents to intelligently match tasks to skills through semantic embeddings, track skill effectiveness, detect skill gaps, and discover new skills from external sources.",
+  "source_repo": "filhocf/skill-curator-mcp",
+  "source_url": "https://github.com/filhocf/skill-curator-mcp",
+  "install": "npx -y skill-curator-mcp"
+}

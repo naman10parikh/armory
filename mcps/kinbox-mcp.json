@@ -1,0 +1,7 @@
+{
+  "name": "kinbox-mcp",
+  "description": "MCP server for integration with Kinbox API, enabling WhatsApp, Instagram, and multi-channel customer service management through tools for contacts, campaigns, deals, and messaging.",
+  "source_repo": "vergamini65-boop/kinbox-mcp",
+  "source_url": "https://github.com/vergamini65-boop/kinbox-mcp",
+  "install": "npx -y kinbox-mcp"
+}

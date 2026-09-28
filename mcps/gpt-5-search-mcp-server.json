@@ -1,0 +1,7 @@
+{
+  "name": "gpt-5-search-mcp-server",
+  "description": "Provides access to OpenAI's GPT-5 model with web search and advanced reasoning capabilities, enabling AI-powered search and analysis through MCP tools.",
+  "source_repo": "hz1ulqu01gmnZH4/gpt5-search-mcp",
+  "source_url": "https://github.com/hz1ulqu01gmnZH4/gpt5-search-mcp",
+  "install": "npx -y gpt5-search-mcp"
+}

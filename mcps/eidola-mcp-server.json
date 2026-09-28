@@ -1,0 +1,7 @@
+{
+  "name": "eidola-mcp-server",
+  "description": "Middleware that gives AI personas a visible, reactive presence inside editors like Cursor, Claude Code, and Cowork.",
+  "source_repo": "AyeJK/eidola-runtime",
+  "source_url": "https://github.com/AyeJK/eidola-runtime",
+  "install": "# git clone --depth 1 https://github.com/AyeJK/eidola-runtime\n# See source for mcpServers config block"
+}

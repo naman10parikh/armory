@@ -1,0 +1,7 @@
+{
+  "name": "gpui-mcp",
+  "description": "An embedded, cross-platform Model Context Protocol bridge for testing and automating GPUI applications.",
+  "source_repo": "themixednuts/gpui-mcp",
+  "source_url": "https://github.com/themixednuts/gpui-mcp",
+  "install": "npx -y gpui-mcp"
+}

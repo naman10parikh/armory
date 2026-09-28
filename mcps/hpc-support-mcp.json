@@ -1,0 +1,7 @@
+{
+  "name": "hpc-support-mcp",
+  "description": "A read-only MCP server exposing SLURM, GPFS, Prometheus (node exporter + DCGM GPU metrics) and generic Elasticsearch exploration as diagnostic tools for LLM-based HPC support assistants.",
+  "source_repo": "PetitSphincter/hpc-support-mcp",
+  "source_url": "https://github.com/PetitSphincter/hpc-support-mcp",
+  "install": "npx -y hpc-support-mcp"
+}

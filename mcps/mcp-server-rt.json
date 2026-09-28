@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-rt",
+  "description": "Connects AI assistants to a Request Tracker (RT) instance, enabling natural language ticket search, creation, updates, and queue management via the MCP protocol.",
+  "source_repo": "bestpractical/mcp-server-rt",
+  "source_url": "https://github.com/bestpractical/mcp-server-rt",
+  "install": "# git clone --depth 1 https://github.com/bestpractical/mcp-server-rt\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bpstat-pt",
+  "description": "MCP server for accessing BPstat (Banco de Portugal) statistics API without API keys. Enables querying Portuguese central bank data through natural language.",
+  "source_repo": "pipeworx-io/mcp-bpstat-pt",
+  "source_url": "https://github.com/pipeworx-io/mcp-bpstat-pt",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-bpstat-pt\n# See source for mcpServers config block"
+}

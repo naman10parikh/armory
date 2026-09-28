@@ -1,0 +1,7 @@
+{
+  "name": "mcp-revelor",
+  "description": "Connects AI assistants to Revelor e-shop analytics, search configuration, and recommendations, enabling both reading and optional writing for e-shop data.",
+  "source_repo": "Webotvurci-s-r-o/mcp-revelor",
+  "source_url": "https://github.com/Webotvurci-s-r-o/mcp-revelor",
+  "install": "# git clone --depth 1 https://github.com/Webotvurci-s-r-o/mcp-revelor\n# See source for mcpServers config block"
+}

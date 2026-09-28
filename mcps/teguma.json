@@ -1,0 +1,7 @@
+{
+  "name": "teguma",
+  "description": "AI-native design bridge that enables AI agents to read and write Penpot designs while maintaining brand context through its MCP server.",
+  "source_repo": "Doyajin174/teguma",
+  "source_url": "https://github.com/Doyajin174/teguma",
+  "install": "# git clone --depth 1 https://github.com/Doyajin174/teguma\n# See source for mcpServers config block"
+}

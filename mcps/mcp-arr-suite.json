@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arr-suite",
+  "description": "Enables interaction with the *arr media management suite (Sonarr, Radarr, Lidarr, Prowlarr, SABnzbd) and TRaSH Guides through MCP tools, allowing media library management, searching, and configuration via natural language.",
+  "source_repo": "ismael9291/mcp-arr-suite",
+  "source_url": "https://github.com/ismael9291/mcp-arr-suite",
+  "install": "# git clone --depth 1 https://github.com/ismael9291/mcp-arr-suite\n# See source for mcpServers config block"
+}

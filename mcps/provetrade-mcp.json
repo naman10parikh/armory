@@ -1,0 +1,7 @@
+{
+  "name": "provetrade-mcp",
+  "description": "An MCP server for the ProveTrade trade-audit stack that lets models validate CSVs, run paid audit runs, and check service health/deploy status via typed tools.",
+  "source_repo": "aleksandrglibcenko-art/provetrade-mcp",
+  "source_url": "https://github.com/aleksandrglibcenko-art/provetrade-mcp",
+  "install": "npx -y provetrade-mcp"
+}

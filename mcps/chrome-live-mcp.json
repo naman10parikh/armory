@@ -1,0 +1,7 @@
+{
+  "name": "chrome-live-mcp",
+  "description": "Connects local stdio MCP servers to an existing Chrome 144+ session, preserving the user's signed-in sessions, cookies, tabs, and extension environment without launching a second browser. It provides tab control, semantic snapshots, screenshots, pointer, keyboard, form selection, scrolling, navigati",
+  "source_repo": "wankaiyi/chrome-live-mcp",
+  "source_url": "https://github.com/wankaiyi/chrome-live-mcp",
+  "install": "npx -y chrome-live-mcp"
+}

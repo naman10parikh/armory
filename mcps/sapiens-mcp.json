@@ -1,0 +1,7 @@
+{
+  "name": "sapiens-mcp",
+  "description": "Enables users to generate images, articles, voice, music, and more from their Sapiens Sintéticos account using natural language, spending credits and saving to their profile.",
+  "source_repo": "inhabitants/sapiens-mcp",
+  "source_url": "https://github.com/inhabitants/sapiens-mcp",
+  "install": "npx -y sapiens-mcp"
+}

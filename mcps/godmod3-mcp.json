@@ -1,0 +1,7 @@
+{
+  "name": "godmod3-mcp",
+  "description": "A bridge for G0DM0D3 that exposes advanced AI capabilities through MCP tools, including multi-model racing, hive-mind synthesis, and secure chat options.",
+  "source_repo": "crnisamuraj/G0DM0D3-mcp",
+  "source_url": "https://github.com/crnisamuraj/G0DM0D3-mcp",
+  "install": "npx -y G0DM0D3-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rubocop-mcp-server",
+  "description": "Provides RuboCop and Rails linting capabilities to AI assistants like Claude and Cursor, allowing them to lint, auto-correct, and manage Ruby code style violations.",
+  "source_repo": "ishtiaque05/rubocop-mcp-server",
+  "source_url": "https://github.com/ishtiaque05/rubocop-mcp-server",
+  "install": "npx -y rubocop-mcp-server"
+}

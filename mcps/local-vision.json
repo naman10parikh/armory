@@ -1,0 +1,7 @@
+{
+  "name": "local-vision",
+  "description": "Enables a primary Codex agent to inspect images using a separate local vision-language model via an MCP tool, keeping image data off the main model.",
+  "source_repo": "krunkosaurus/codex-local-vision-router",
+  "source_url": "https://github.com/krunkosaurus/codex-local-vision-router",
+  "install": "# git clone --depth 1 https://github.com/krunkosaurus/codex-local-vision-router\n# See source for mcpServers config block"
+}

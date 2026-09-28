@@ -1,0 +1,7 @@
+{
+  "name": "excalibur-mcp",
+  "description": "Enables AI agents to post richly formatted tweets to X (Twitter) with optional images, monetized via Bitcoin Lightning micropayments and secured with OAuth2 PKCE, Nostr identity, and encrypted credential vaulting.",
+  "source_repo": "lonniev/excalibur-mcp",
+  "source_url": "https://github.com/lonniev/excalibur-mcp",
+  "install": "npx -y excalibur-mcp"
+}

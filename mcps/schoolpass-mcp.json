@@ -1,0 +1,7 @@
+{
+  "name": "schoolpass-mcp",
+  "description": "Enables parents to view and manage their child's school arrival and dismissal details, including calendar, pickup changes, drivers, and school information, using the SchoolPass REST API.",
+  "source_repo": "chrischall/schoolpass-mcp",
+  "source_url": "https://github.com/chrischall/schoolpass-mcp",
+  "install": "npx -y schoolpass-mcp"
+}

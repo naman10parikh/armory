@@ -1,0 +1,7 @@
+{
+  "name": "alphasmo-tools-mcp-server",
+  "description": "Provides access to SEC EDGAR 13F institutional holdings, Form 4 insider trading, and smart money convergence signals for AI agents via the Model Context Protocol.",
+  "source_repo": "alphasmo/alphasmo-tools",
+  "source_url": "https://github.com/alphasmo/alphasmo-tools",
+  "install": "# git clone --depth 1 https://github.com/alphasmo/alphasmo-tools\n# See source for mcpServers config block"
+}

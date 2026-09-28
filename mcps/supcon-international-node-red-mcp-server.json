@@ -1,0 +1,7 @@
+{
+  "name": "supcon-international-node-red-mcp-server",
+  "description": "Model Context Protocol (MCP) server for Node-RED that allows language models to interact with Node-RED through a standardized API.",
+  "source_repo": "supcon-international/node-red-mcp-server",
+  "source_url": "https://github.com/supcon-international/node-red-mcp-server",
+  "install": "npx -y node-red-mcp-server"
+}

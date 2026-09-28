@@ -1,0 +1,7 @@
+{
+  "name": "kronan-mcp",
+  "description": "MCP server for the Krónan grocery store API, enabling product search, shopping notes management, checkout, and order tracking.",
+  "source_repo": "sandsower/kronan-mcp",
+  "source_url": "https://github.com/sandsower/kronan-mcp",
+  "install": "npx -y kronan-mcp"
+}

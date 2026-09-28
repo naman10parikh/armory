@@ -1,0 +1,7 @@
+{
+  "name": "glean-remote-mcp-server",
+  "description": "Enables AI assistants and developer tools to securely access and interact with an organization's enterprise knowledge, documents, and people through natural language while respecting existing access permissions.",
+  "source_repo": "gleanwork/remote-mcp-server",
+  "source_url": "https://github.com/gleanwork/remote-mcp-server",
+  "install": "npx -y remote-mcp-server"
+}

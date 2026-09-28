@@ -1,0 +1,7 @@
+{
+  "name": "latamfx-mcp",
+  "description": "Enables AI agents to query public Latin American FX rates and perform auditable ledger reconciliation using a multi-rule matching engine.",
+  "source_repo": "floreskemec/latamfx-mcp",
+  "source_url": "https://github.com/floreskemec/latamfx-mcp",
+  "install": "npx -y latamfx-mcp"
+}

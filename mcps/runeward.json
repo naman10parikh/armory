@@ -1,0 +1,7 @@
+{
+  "name": "runeward",
+  "description": "Governed execution cells for AI agents via MCP; provides shell, code, file, and browser tools inside isolated, policy-enforced Citadels with deny-by-default security, human-in-the-loop approvals, and tamper-evident audit trails.",
+  "source_repo": "Runewardd/runeward",
+  "source_url": "https://github.com/Runewardd/runeward",
+  "install": "# git clone --depth 1 https://github.com/Runewardd/runeward\n# See source for mcpServers config block"
+}

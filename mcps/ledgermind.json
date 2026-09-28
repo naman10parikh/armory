@@ -1,0 +1,7 @@
+{
+  "name": "ledgermind",
+  "description": "Local LLM cost & token forensics proxy with anomaly detection, enabling security teams to scan for cost anomalies and abuse patterns, and expose results via MCP for autonomous agents.",
+  "source_repo": "cognis-digital/ledgermind",
+  "source_url": "https://github.com/cognis-digital/ledgermind",
+  "install": "# git clone --depth 1 https://github.com/cognis-digital/ledgermind\n# See source for mcpServers config block"
+}

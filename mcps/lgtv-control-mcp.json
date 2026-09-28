@@ -1,0 +1,7 @@
+{
+  "name": "lgtv-control-mcp",
+  "description": "An MCP server for controlling LG webOS TVs via SSAP protocol, enabling AI clients to adjust settings, switch inputs, launch apps, and more.",
+  "source_repo": "brunofgmag/lgtv-control-mcp",
+  "source_url": "https://github.com/brunofgmag/lgtv-control-mcp",
+  "install": "npx -y lgtv-control-mcp"
+}

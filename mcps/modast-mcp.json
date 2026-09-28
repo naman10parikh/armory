@@ -1,0 +1,7 @@
+{
+  "name": "modast-mcp",
+  "description": "Module-aware AST MCP server for C++20/23 projects using clangd for AST/LSP operations and a source-level module index, enabling module graph queries, references, diagnostics, and code formatting.",
+  "source_repo": "banderzhm/ModAST-MCP",
+  "source_url": "https://github.com/banderzhm/ModAST-MCP",
+  "install": "npx -y ModAST-MCP"
+}

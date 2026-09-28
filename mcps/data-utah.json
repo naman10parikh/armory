@@ -1,0 +1,7 @@
+{
+  "name": "data-utah",
+  "description": "Enables searching and querying Utah Open Data datasets via the Socrata SoQL API, including datasets, metadata, and row-level data retrieval.",
+  "source_repo": "pipeworx-io/mcp-data-utah",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-utah",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-utah\n# See source for mcpServers config block"
+}

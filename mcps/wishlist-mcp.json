@@ -1,0 +1,7 @@
+{
+  "name": "wishlist-mcp",
+  "description": "Hosted MCP server that lets Claude, ChatGPT, or Codex read and update a user's wishlist.fit wishlist on their behalf, with tool parity matching the web app's capabilities.",
+  "source_repo": "teslakoile/wishlist-mcp",
+  "source_url": "https://github.com/teslakoile/wishlist-mcp",
+  "install": "npx -y wishlist-mcp"
+}

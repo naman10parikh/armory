@@ -1,0 +1,7 @@
+{
+  "name": "payu-developer-mcp",
+  "description": "Helps AI assistants search PayU documentation, browse integration catalog, and fetch production-ready payment code for PayU.",
+  "source_repo": "payu-intrepos/payu-developer-mcp",
+  "source_url": "https://github.com/payu-intrepos/payu-developer-mcp",
+  "install": "npx -y payu-developer-mcp"
+}

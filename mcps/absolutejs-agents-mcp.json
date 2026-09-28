@@ -1,0 +1,7 @@
+{
+  "name": "absolutejs-agents-mcp",
+  "description": "Provides a read-only MCP server for searching and retrieving cryptographically verified AI agents from the AbsoluteJS public agent registry.",
+  "source_repo": "absolutejs/agents-mcp",
+  "source_url": "https://github.com/absolutejs/agents-mcp",
+  "install": "npx -y agents-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ninx-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides financial trading tools and market analysis capabilities, enabling AI assistants to access real-time market data, execute trades, analyze portfolios, and perform comprehensive financial analysis.",
+  "source_repo": "ninjapayofficial/nin-mcp-server",
+  "source_url": "https://github.com/ninjapayofficial/nin-mcp-server",
+  "install": "npx -y nin-mcp-server"
+}

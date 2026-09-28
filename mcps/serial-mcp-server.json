@@ -1,0 +1,7 @@
+{
+  "name": "serial-mcp-server",
+  "description": "Allows AI agents to interact with serial devices via RS232/UART, enabling port listing, connection, read/write, control line manipulation, and protocol specification for automated debugging and testing.",
+  "source_repo": "es617/serial-mcp-server",
+  "source_url": "https://github.com/es617/serial-mcp-server",
+  "install": "npx -y serial-mcp-server"
+}

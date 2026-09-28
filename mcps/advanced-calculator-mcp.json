@@ -1,0 +1,7 @@
+{
+  "name": "advanced-calculator-mcp",
+  "description": "An advanced calculator MCP server that provides a wide range of mathematical operations over streamable HTTP, enabling users to perform complex calculations via natural language with any MCP client.",
+  "source_repo": "EESHAN-ANAND/advanced-calculator-mcp",
+  "source_url": "https://github.com/EESHAN-ANAND/advanced-calculator-mcp",
+  "install": "npx -y advanced-calculator-mcp"
+}

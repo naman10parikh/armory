@@ -1,0 +1,7 @@
+{
+  "name": "nutrivita-mcp-oauth-spike",
+  "description": "A throwaway MCP server spike to prove Claude can complete OAuth 2.1 + PKCE and call a trivial ping tool.",
+  "source_repo": "leonguyen2020/nutrivita-mcp-oauth-spike",
+  "source_url": "https://github.com/leonguyen2020/nutrivita-mcp-oauth-spike",
+  "install": "# git clone --depth 1 https://github.com/leonguyen2020/nutrivita-mcp-oauth-spike\n# See source for mcpServers config block"
+}

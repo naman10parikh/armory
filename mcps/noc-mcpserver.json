@@ -1,0 +1,7 @@
+{
+  "name": "noc-mcpserver",
+  "description": "Exposes a tool to convert JSON samples into equivalent C# class definitions using NiceOneCode's converter. AI assistants can call directly without pasting JSON into a web form.",
+  "source_repo": "nice-one-code/NOC.McpServer",
+  "source_url": "https://github.com/nice-one-code/NOC.McpServer",
+  "install": "# git clone --depth 1 https://github.com/nice-one-code/NOC.McpServer\n# See source for mcpServers config block"
+}

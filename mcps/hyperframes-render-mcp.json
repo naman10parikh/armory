@@ -1,0 +1,7 @@
+{
+  "name": "hyperframes-render-mcp",
+  "description": "Paid remote MCP for rendering hyperframe videos with structured receipts and audit logs. Enables rendering, status checking, artifact fetching, and receipt export.",
+  "source_repo": "clauxel/hyperframes-render-mcp-mcp",
+  "source_url": "https://github.com/clauxel/hyperframes-render-mcp-mcp",
+  "install": "npx -y hyperframes-render-mcp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "io-github-opendata-kr-narajangteo-corpinfo-mcp",
+  "description": "Enables querying Korean procurement corporate profiles and qualifications using business registration numbers through natural language, leveraging the public data API from data.go.kr.",
+  "source_repo": "opendata-kr/narajangteo-corpinfo-mcp",
+  "source_url": "https://github.com/opendata-kr/narajangteo-corpinfo-mcp",
+  "install": "npx -y narajangteo-corpinfo-mcp"
+}

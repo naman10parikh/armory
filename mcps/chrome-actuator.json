@@ -1,0 +1,7 @@
+{
+  "name": "chrome-actuator",
+  "description": "Enables agents to drive an existing Chrome window by creating tabs, taking snapshots, pressing keys, and filling form fields via native messaging without opening a new browser instance.",
+  "source_repo": "xlreon/chrome-actuator",
+  "source_url": "https://github.com/xlreon/chrome-actuator",
+  "install": "# git clone --depth 1 https://github.com/xlreon/chrome-actuator\n# See source for mcpServers config block"
+}

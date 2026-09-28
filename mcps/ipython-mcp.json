@@ -1,0 +1,7 @@
+{
+  "name": "ipython-mcp",
+  "description": "Provides a persistent, stateful IPython execution environment for MCP clients, allowing agents to run Python code, define functions and classes, and maintain state across calls. It includes tools for execution, inspection, dynamic tool registration, and robust timeout/recovery handling.",
+  "source_repo": "husams/ipython-mcp",
+  "source_url": "https://github.com/husams/ipython-mcp",
+  "install": "npx -y ipython-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "antigravity-browser-bridge",
+  "description": "Enables MCP-compatible agents to securely control the user's already authenticated Chrome browser via explicit tab authorization and DOM-based actions.",
+  "source_repo": "coelhobugado/antigravity-browser-bridge",
+  "source_url": "https://github.com/coelhobugado/antigravity-browser-bridge",
+  "install": "# git clone --depth 1 https://github.com/coelhobugado/antigravity-browser-bridge\n# See source for mcpServers config block"
+}

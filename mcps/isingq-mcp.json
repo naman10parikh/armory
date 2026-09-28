@@ -1,0 +1,7 @@
+{
+  "name": "isingq-mcp",
+  "description": "MCP server for modeling optimization problems as QUBO and solving them via IsingQ cloud with local validation and user confirmation.",
+  "source_repo": "ising-tech/isingq-toolkit",
+  "source_url": "https://github.com/ising-tech/isingq-toolkit",
+  "install": "# git clone --depth 1 https://github.com/ising-tech/isingq-toolkit\n# See source for mcpServers config block"
+}

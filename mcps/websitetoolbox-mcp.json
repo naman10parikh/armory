@@ -1,0 +1,7 @@
+{
+  "name": "websitetoolbox-mcp",
+  "description": "Model Context Protocol server for the Website Toolbox forum platform. Exposes forum REST API tools for managing categories, topics, posts, users, and more.",
+  "source_repo": "webtoolbox/websitetoolbox-mcp",
+  "source_url": "https://github.com/webtoolbox/websitetoolbox-mcp",
+  "install": "npx -y websitetoolbox-mcp"
+}

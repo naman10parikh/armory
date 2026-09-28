@@ -1,0 +1,7 @@
+{
+  "name": "gptaria-mcp",
+  "description": "GPTaria MCP connects your AI assistant to GPTaria, enabling you to post project briefs, respond with working prototypes, and publish portfolio cases directly from your editor.",
+  "source_repo": "gptaria-mcp/gptaria-mcp",
+  "source_url": "https://github.com/gptaria-mcp/gptaria-mcp",
+  "install": "npx -y gptaria-mcp"
+}

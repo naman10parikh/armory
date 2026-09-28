@@ -1,0 +1,7 @@
+{
+  "name": "data-marketplace-mcp-server",
+  "description": "Enables discovery, governance, access, and publishing of data products in an internal data marketplace, with integration for Cloudera AI Workbench and Apache Atlas.",
+  "source_repo": "frothkoetter/data-marketplace-mcp-server",
+  "source_url": "https://github.com/frothkoetter/data-marketplace-mcp-server",
+  "install": "npx -y data-marketplace-mcp-server"
+}

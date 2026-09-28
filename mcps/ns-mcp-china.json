@@ -1,0 +1,7 @@
+{
+  "name": "ns-mcp-china",
+  "description": "Connects MCP-compatible AI assistants to NetSuite ERP with easy OAuth setup. Provides tools for records, SuiteQL, saved searches, reports, and metadata.",
+  "source_repo": "letian940-prog/ns-mcp-china",
+  "source_url": "https://github.com/letian940-prog/ns-mcp-china",
+  "install": "# git clone --depth 1 https://github.com/letian940-prog/ns-mcp-china\n# See source for mcpServers config block"
+}

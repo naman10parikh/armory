@@ -1,0 +1,7 @@
+{
+  "name": "cycleo-mcp-server",
+  "description": "This server enables users to read data from Cycleo's versioned JSON API through a secure, allow-listed tool surface, using user-scoped OAuth authentication.",
+  "source_repo": "georgehenze/cycleo-mcp",
+  "source_url": "https://github.com/georgehenze/cycleo-mcp",
+  "install": "npx -y cycleo-mcp"
+}

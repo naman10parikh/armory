@@ -1,0 +1,7 @@
+{
+  "name": "remindersbridge",
+  "description": "Enables ChatGPT to interact with Apple Reminders on your Mac through a secure local agent, providing tools to search, create, complete, and update reminders.",
+  "source_repo": "IsaiahDupree/reminders-bridge",
+  "source_url": "https://github.com/IsaiahDupree/reminders-bridge",
+  "install": "# git clone --depth 1 https://github.com/IsaiahDupree/reminders-bridge\n# See source for mcpServers config block"
+}

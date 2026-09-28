@@ -1,0 +1,7 @@
+{
+  "name": "payment-ops-mcp-server",
+  "description": "Enables AI assistants to handle payment support tasks by orchestrating between Stripe and an internal orders database, with human approval required for refunds.",
+  "source_repo": "srik4442/Payment-Ops-mcp",
+  "source_url": "https://github.com/srik4442/Payment-Ops-mcp",
+  "install": "npx -y Payment-Ops-mcp"
+}

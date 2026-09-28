@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-planner-mcp-server",
+  "description": "An unofficial MCP server that connects AI assistants to Microsoft Planner, enabling natural language task management such as creating tasks, organizing plans, and managing buckets.",
+  "source_repo": "aixolotl/microsoft-planner-mcp",
+  "source_url": "https://github.com/aixolotl/microsoft-planner-mcp",
+  "install": "npx -y microsoft-planner-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "directives-mcp-server",
+  "description": "Serves engineering directives (AGENT.md and other markdown documents) to all Claude Code instances on a machine via a single Docker container, ensuring consistent code standards without copying files between projects.",
+  "source_repo": "musondaAlexander/directive-claude-mcp",
+  "source_url": "https://github.com/musondaAlexander/directive-claude-mcp",
+  "install": "npx -y directive-claude-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jq-mcp",
+  "description": "An MCP server that exposes a single tool, jq, for running jq filters against JSON files on disk.",
+  "source_repo": "kolodny/jq-mcp",
+  "source_url": "https://github.com/kolodny/jq-mcp",
+  "install": "npx -y jq-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "doorvault-mcp",
+  "description": "Enables AI assistants to analyze rental property deals using DoorVault IDEAL Scoring v2.0, including Section 8 FMR lookup, tax deduction checklists, and rental metrics calculations.",
+  "source_repo": "cavasotti/doorvault-mcp",
+  "source_url": "https://github.com/cavasotti/doorvault-mcp",
+  "install": "npx -y doorvault-mcp"
+}

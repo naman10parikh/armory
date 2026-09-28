@@ -1,0 +1,7 @@
+{
+  "name": "rgm-mcp-server",
+  "description": "Enables Revenue Growth Management analysis for the Alco-Bev industry using NIQ data, including price elasticity, promo effectiveness, and pricing optimization.",
+  "source_repo": "KaranNMakim/rgm-mcp-server",
+  "source_url": "https://github.com/KaranNMakim/rgm-mcp-server",
+  "install": "npx -y rgm-mcp-server"
+}

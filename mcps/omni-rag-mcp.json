@@ -1,0 +1,7 @@
+{
+  "name": "omni-rag-mcp",
+  "description": "Enables token-efficient semantic search and analysis over any directory of files through hybrid search, directory overview, structural analysis, and dependency graphs.",
+  "source_repo": "Suyash2013/codebase-rag-mcp",
+  "source_url": "https://github.com/Suyash2013/codebase-rag-mcp",
+  "install": "npx -y codebase-rag-mcp"
+}

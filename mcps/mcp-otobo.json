@@ -1,0 +1,7 @@
+{
+  "name": "mcp-otobo",
+  "description": "MCP server for Otobo ITSM enabling AI assistants to search, create, update, and manage tickets via the Generic Interface REST API.",
+  "source_repo": "domnussbaum/otobo-mcp",
+  "source_url": "https://github.com/domnussbaum/otobo-mcp",
+  "install": "npx -y otobo-mcp"
+}

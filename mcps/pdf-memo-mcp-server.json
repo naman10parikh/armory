@@ -1,0 +1,7 @@
+{
+  "name": "pdf-memo-mcp-server",
+  "description": "Enables safe interaction with PDFs, including listing files, extracting highlights with exact text, reading annotations and page text, and viewing metadata, all restricted to configured directories.",
+  "source_repo": "ychoi-kr/pdf-memo-mcp",
+  "source_url": "https://github.com/ychoi-kr/pdf-memo-mcp",
+  "install": "npx -y pdf-memo-mcp"
+}

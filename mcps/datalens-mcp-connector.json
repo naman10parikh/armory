@@ -1,0 +1,7 @@
+{
+  "name": "datalens-mcp-connector",
+  "description": "Exposes Yandex DataLens operations as tools for Claude, enabling API health checks, raw requests, entry listing, and dashboard creation.",
+  "source_repo": "Goryalera/MCP-connector",
+  "source_url": "https://github.com/Goryalera/MCP-connector",
+  "install": "# git clone --depth 1 https://github.com/Goryalera/MCP-connector\n# See source for mcpServers config block"
+}

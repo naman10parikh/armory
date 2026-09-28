@@ -1,0 +1,7 @@
+{
+  "name": "truetick-mcp",
+  "description": "Manage TrueTick Minecraft hosting servers from AI agents: create/start/stop, live TPS/MSPT metrics, RCON console, files, backups, and Modrinth/CurseForge mods.",
+  "source_repo": "truetick-gg/mcp",
+  "source_url": "https://github.com/truetick-gg/mcp",
+  "install": "# git clone --depth 1 https://github.com/truetick-gg/mcp\n# See source for mcpServers config block"
+}

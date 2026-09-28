@@ -1,0 +1,7 @@
+{
+  "name": "odoo-mcp-uvx",
+  "description": "A read-only MCP server that enables AI assistants to query Odoo instances via XML-RPC, supporting search, read, count, and field inspection without requiring custom modules.",
+  "source_repo": "niduran-orion/odoo-mcp-uvx",
+  "source_url": "https://github.com/niduran-orion/odoo-mcp-uvx",
+  "install": "# git clone --depth 1 https://github.com/niduran-orion/odoo-mcp-uvx\n# See source for mcpServers config block"
+}

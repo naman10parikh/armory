@@ -1,0 +1,7 @@
+{
+  "name": "egipci-mcp-server",
+  "description": "MCP server for querying archaeological site information from the EGIPCI service of the Generalitat de Catalunya, enabling AI editors to access Catalan archaeological data.",
+  "source_repo": "d0whc3r/egipci-mcp",
+  "source_url": "https://github.com/d0whc3r/egipci-mcp",
+  "install": "npx -y egipci-mcp"
+}

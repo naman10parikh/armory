@@ -1,0 +1,7 @@
+{
+  "name": "my-first-mcp-2",
+  "description": "Exposes a greet tool that takes a name and returns a greeting message.",
+  "source_repo": "yarakhattab/my-first-mcp",
+  "source_url": "https://github.com/yarakhattab/my-first-mcp",
+  "install": "npx -y my-first-mcp"
+}

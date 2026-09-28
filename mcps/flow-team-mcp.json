@@ -1,0 +1,7 @@
+{
+  "name": "flow-team-mcp",
+  "description": "Enables interaction with the Flow Team API through MCP clients, allowing endpoint discovery, API calls, and project management operations like listing projects and participants.",
+  "source_repo": "baekbeombyeon/flow-team-mcp",
+  "source_url": "https://github.com/baekbeombyeon/flow-team-mcp",
+  "install": "npx -y flow-team-mcp"
+}

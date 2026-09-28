@@ -1,0 +1,7 @@
+{
+  "name": "abl-mcp-server",
+  "description": "MCP server for OpenEdge ABL — pluggable tool architecture with per-project YAML configuration. Provides AI assistants with 24 tools to parse, analyze, lint, document, and scaffold ABL projects.",
+  "source_repo": "breakit/abl-mcp-server",
+  "source_url": "https://github.com/breakit/abl-mcp-server",
+  "install": "npx -y abl-mcp-server"
+}

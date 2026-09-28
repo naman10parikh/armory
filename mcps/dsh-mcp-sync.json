@@ -1,0 +1,7 @@
+{
+  "name": "dsh-mcp-sync",
+  "description": "Automatically synchronizes and deduplicates MCP configurations from Claude Code, Codex CLI, Cursor Agent, and custom sources, providing a centralized view and management interface.",
+  "source_repo": "nan1010082085/dsh-mcp-sync",
+  "source_url": "https://github.com/nan1010082085/dsh-mcp-sync",
+  "install": "# git clone --depth 1 https://github.com/nan1010082085/dsh-mcp-sync\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mellos-mapping",
+  "description": "MCP server that provides a live, terminal-native layered dependency map for AI coding assistants, with tools to track and visualize development progress in real time.",
+  "source_repo": "GuangminJu/mellos-mapping",
+  "source_url": "https://github.com/GuangminJu/mellos-mapping",
+  "install": "# git clone --depth 1 https://github.com/GuangminJu/mellos-mapping\n# See source for mcpServers config block"
+}

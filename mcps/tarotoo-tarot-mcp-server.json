@@ -1,0 +1,7 @@
+{
+  "name": "tarotoo-tarot-mcp-server",
+  "description": "Enables AI assistants to look up tarot card meanings, search cards by keyword, draw random cards, and get yes/no answers for all 78 Rider-Waite-Smith cards with upright and reversed interpretations.",
+  "source_repo": "Tarotoo-com/tarotoo-mcp-server",
+  "source_url": "https://github.com/Tarotoo-com/tarotoo-mcp-server",
+  "install": "npx -y tarotoo-mcp-server"
+}

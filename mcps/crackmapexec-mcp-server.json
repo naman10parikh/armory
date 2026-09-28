@@ -1,0 +1,7 @@
+{
+  "name": "crackmapexec-mcp-server",
+  "description": "An MCP server that provides AI assistants with access to CrackMapExec/NetExec network penetration testing capabilities via SSH to a Kali Linux host, supporting multiple protocols for enumeration, credential dumping, and command execution.",
+  "source_repo": "schwarztim/sec-crackmapexec-mcp",
+  "source_url": "https://github.com/schwarztim/sec-crackmapexec-mcp",
+  "install": "npx -y sec-crackmapexec-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shared-margin",
+  "description": "Shared Margin is a Codex-native room for reading books and watching films together one moment at a time. It enables human and GPT-5.6 to linearly experience media, capture anchored observations, and maintain a durable trail.",
+  "source_repo": "idleprocesscc/shared-margin",
+  "source_url": "https://github.com/idleprocesscc/shared-margin",
+  "install": "# git clone --depth 1 https://github.com/idleprocesscc/shared-margin\n# See source for mcpServers config block"
+}

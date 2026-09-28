@@ -1,0 +1,7 @@
+{
+  "name": "clickup-mcp-server-2",
+  "description": "Enables natural language management of ClickUp workspaces, including task CRUD operations, task listing, and user profile retrieval via Claude Desktop.",
+  "source_repo": "deniskrds/clickup-mcp-server",
+  "source_url": "https://github.com/deniskrds/clickup-mcp-server",
+  "install": "npx -y clickup-mcp-server"
+}

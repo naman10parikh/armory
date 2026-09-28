@@ -1,0 +1,7 @@
+{
+  "name": "memdrive",
+  "description": "Shareable memory for AI coding agents. Enables agents to remember and recall durable memories across sessions and share them as importable packs.",
+  "source_repo": "shaantanu314/memdrive",
+  "source_url": "https://github.com/shaantanu314/memdrive",
+  "install": "# git clone --depth 1 https://github.com/shaantanu314/memdrive\n# See source for mcpServers config block"
+}

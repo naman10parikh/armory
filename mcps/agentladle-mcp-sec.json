@@ -1,0 +1,7 @@
+{
+  "name": "agentladle-mcp-sec",
+  "description": "It enables AI assistants (Claude, Cursor, etc.) to access SEC EDGAR data through 6 structured tools — from discovering available filings to keyword-searching within their pages.",
+  "source_repo": "agentladle/mcp-sec",
+  "source_url": "https://github.com/agentladle/mcp-sec",
+  "install": "# git clone --depth 1 https://github.com/agentladle/mcp-sec\n# See source for mcpServers config block"
+}

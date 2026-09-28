@@ -1,0 +1,7 @@
+{
+  "name": "ecrvsp-documentos-altera-o-de-dados-cadastrais",
+  "description": "MCP server for read-only consultation of official data on registration changes (alteração de dados cadastrais) via a single prepaid tool.",
+  "source_repo": "mcp-dir/ecrvsp_docs_dados_cadastrais-mcp",
+  "source_url": "https://github.com/mcp-dir/ecrvsp_docs_dados_cadastrais-mcp",
+  "install": "npx -y ecrvsp_docs_dados_cadastrais-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "voice-assistant-mcp-server",
+  "description": "Enables AI assistants to conduct phone interviews, deliver notifications, and manage HR communications through natural voice conversations using Twilio, Deepgram, and OpenAI.",
+  "source_repo": "prakharbhardwaj/voice-agent-mcp-server",
+  "source_url": "https://github.com/prakharbhardwaj/voice-agent-mcp-server",
+  "install": "npx -y voice-agent-mcp-server"
+}

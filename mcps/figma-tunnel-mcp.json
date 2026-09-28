@@ -1,0 +1,7 @@
+{
+  "name": "figma-tunnel-mcp",
+  "description": "Enables AI agents to control and export from Figma via WebSocket, with optional Cloudflare tunnel for remote access.",
+  "source_repo": "skulidropek/figma-tunnel-mcp",
+  "source_url": "https://github.com/skulidropek/figma-tunnel-mcp",
+  "install": "npx -y figma-tunnel-mcp"
+}

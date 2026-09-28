@@ -1,0 +1,7 @@
+{
+  "name": "eu-audit-mcp",
+  "description": "Tamper-evident audit trail MCP server for EU AI Act and GDPR compliance. It enables logging events with automatic PII scanning, compliance checks, and right-to-erasure support.",
+  "source_repo": "jellewas/eu-audit-mcp",
+  "source_url": "https://github.com/jellewas/eu-audit-mcp",
+  "install": "npx -y eu-audit-mcp"
+}

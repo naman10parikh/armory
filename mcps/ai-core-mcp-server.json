@@ -1,0 +1,7 @@
+{
+  "name": "ai-core-mcp-server",
+  "description": "Exposes SAP AI Core APIs as MCP tools, enabling AI assistants to manage AI Core lifecycle and administration through natural language.",
+  "source_repo": "lemaiwo/ai-core-mcp-server",
+  "source_url": "https://github.com/lemaiwo/ai-core-mcp-server",
+  "install": "npx -y ai-core-mcp-server"
+}

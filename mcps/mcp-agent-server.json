@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent-server",
+  "description": "A hub for creating and managing AI agents that connect to MCP-compatible clients, supporting multiple LLM providers and enabling agent composition and custom tool integration.",
+  "source_repo": "fkesheh/mcp-agent-server",
+  "source_url": "https://github.com/fkesheh/mcp-agent-server",
+  "install": "# git clone --depth 1 https://github.com/fkesheh/mcp-agent-server\n# See source for mcpServers config block"
+}

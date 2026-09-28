@@ -1,0 +1,7 @@
+{
+  "name": "agent-ops-mcp",
+  "description": "Provides tools for managing tasks, searching docs, and running a heuristic quality gate to check agent output for common issues before human review.",
+  "source_repo": "yulechkamsk1/agent-ops-mcp",
+  "source_url": "https://github.com/yulechkamsk1/agent-ops-mcp",
+  "install": "npx -y agent-ops-mcp"
+}

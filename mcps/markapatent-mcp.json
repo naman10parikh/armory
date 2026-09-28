@@ -1,0 +1,7 @@
+{
+  "name": "markapatent-mcp",
+  "description": "Enables searching Turkish patent, trademark, and industrial design data via the TÜRKPATENT database using the MCP protocol.",
+  "source_repo": "Andrianagnostic63/markapatent-mcp",
+  "source_url": "https://github.com/Andrianagnostic63/markapatent-mcp",
+  "install": "npx -y markapatent-mcp"
+}

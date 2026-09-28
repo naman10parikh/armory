@@ -1,0 +1,7 @@
+{
+  "name": "n-mtema-private-knowledge-mcp",
+  "description": "Enables users to build and query a private knowledge base by uploading documents, which are embedded and stored locally, then accessible via MCP for semantic search and retrieval.",
+  "source_repo": "Creativityliberty/mcpknowedge",
+  "source_url": "https://github.com/Creativityliberty/mcpknowedge",
+  "install": "# git clone --depth 1 https://github.com/Creativityliberty/mcpknowedge\n# See source for mcpServers config block"
+}

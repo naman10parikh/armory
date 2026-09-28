@@ -1,0 +1,7 @@
+{
+  "name": "secoda-analysis-mcp",
+  "description": "A read-only MCP server for exploring and analyzing a Secoda data catalog, enabling AI chat, semantic search, glossary browsing, and data lineage tracing.",
+  "source_repo": "mbrummerstedt/secoda-analysis-mcp",
+  "source_url": "https://github.com/mbrummerstedt/secoda-analysis-mcp",
+  "install": "npx -y secoda-analysis-mcp"
+}

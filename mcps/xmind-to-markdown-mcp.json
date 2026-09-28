@@ -1,0 +1,7 @@
+{
+  "name": "xmind-to-markdown-mcp",
+  "description": "Converts XMind mind map files into structured Markdown documents, preserving hierarchy and optionally including metadata.",
+  "source_repo": "jiandong0718/mcp-xmind-to-markdown",
+  "source_url": "https://github.com/jiandong0718/mcp-xmind-to-markdown",
+  "install": "# git clone --depth 1 https://github.com/jiandong0718/mcp-xmind-to-markdown\n# See source for mcpServers config block"
+}

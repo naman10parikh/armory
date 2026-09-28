@@ -1,0 +1,7 @@
+{
+  "name": "grok-searxng-adapter-mcp",
+  "description": "MCP server that enables web search via Grok's web_search tool and web page fetching via Firecrawl, with configurable options for search mode and content extraction.",
+  "source_repo": "Lascivea/search2searxng",
+  "source_url": "https://github.com/Lascivea/search2searxng",
+  "install": "# git clone --depth 1 https://github.com/Lascivea/search2searxng\n# See source for mcpServers config block"
+}

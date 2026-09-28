@@ -1,0 +1,7 @@
+{
+  "name": "organism-memory-mcp-server",
+  "description": "Provides persistent, searchable memory for AI agents across sessions using a four-tier memory system, without sending data to external APIs.",
+  "source_repo": "sunnsten/organism-memory",
+  "source_url": "https://github.com/sunnsten/organism-memory",
+  "install": "# git clone --depth 1 https://github.com/sunnsten/organism-memory\n# See source for mcpServers config block"
+}

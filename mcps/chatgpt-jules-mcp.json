@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-jules-mcp",
+  "description": "Secure MCP server allowing ChatGPT to manage Google Jules sessions through OpenAI Secure MCP Tunnel.",
+  "source_repo": "Danissimode/CatGPT_mcp_to_jules",
+  "source_url": "https://github.com/Danissimode/CatGPT_mcp_to_jules",
+  "install": "# git clone --depth 1 https://github.com/Danissimode/CatGPT_mcp_to_jules\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "freee-chat-mcp-server",
+  "description": "Enables Claude Desktop to interact with freee accounting API for expense registration, transaction management, and receipt image processing.",
+  "source_repo": "RyutoYoda/freee-chat-mcp-server",
+  "source_url": "https://github.com/RyutoYoda/freee-chat-mcp-server",
+  "install": "npx -y freee-chat-mcp-server"
+}

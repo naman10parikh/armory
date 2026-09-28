@@ -1,0 +1,7 @@
+{
+  "name": "financial-calculators-mcp-server",
+  "description": "Provides educational fixed-rate loan estimates with mortgage and auto loan calculators.",
+  "source_repo": "lsantana57/sample-mcp",
+  "source_url": "https://github.com/lsantana57/sample-mcp",
+  "install": "npx -y sample-mcp"
+}

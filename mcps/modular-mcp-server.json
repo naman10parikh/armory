@@ -1,0 +1,7 @@
+{
+  "name": "modular-mcp-server",
+  "description": "Enables LLMs to securely interact with MongoDB, GitHub, and a sandboxed file system, eliminating information silos.",
+  "source_repo": "satanas66/tfm-mcp-062026",
+  "source_url": "https://github.com/satanas66/tfm-mcp-062026",
+  "install": "# git clone --depth 1 https://github.com/satanas66/tfm-mcp-062026\n# See source for mcpServers config block"
+}

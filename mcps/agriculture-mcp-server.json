@@ -1,0 +1,7 @@
+{
+  "name": "agriculture-mcp-server",
+  "description": "Provides agricultural product price monitoring, price index tracking, and daily/weekly/monthly market report queries to support price fluctuation identification and market trend analysis.",
+  "source_repo": "handaas/agriculture-mcp-server",
+  "source_url": "https://github.com/handaas/agriculture-mcp-server",
+  "install": "npx -y agriculture-mcp-server"
+}

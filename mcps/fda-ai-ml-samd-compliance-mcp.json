@@ -1,0 +1,7 @@
+{
+  "name": "fda-ai-ml-samd-compliance-mcp",
+  "description": "Enables FDA AI/ML SaMD compliance management, including regulatory pathway classification and PCCP template generation.",
+  "source_repo": "CSOAI-ORG/fda-samd-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/fda-samd-mcp",
+  "install": "npx -y fda-samd-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "universal-gas-framework-mcp-server",
+  "description": "Enables AI agents to perform gasless cross-chain transactions by paying with supported tokens on one chain and executing on another, all without exposing private keys.",
+  "source_repo": "TychiWallet/ugf-mcp",
+  "source_url": "https://github.com/TychiWallet/ugf-mcp",
+  "install": "npx -y ugf-mcp"
+}

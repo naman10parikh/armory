@@ -1,0 +1,7 @@
+{
+  "name": "innkeeper",
+  "description": "An MCP server that automates night audit for small hotels by reconciling three ledgers (PMS, card processor, OTA) using AI, adjudicating mismatches with evidence, and cryptographically signing the books.",
+  "source_repo": "edycutjong/innkeeper",
+  "source_url": "https://github.com/edycutjong/innkeeper",
+  "install": "# git clone --depth 1 https://github.com/edycutjong/innkeeper\n# See source for mcpServers config block"
+}

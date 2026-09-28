@@ -1,0 +1,7 @@
+{
+  "name": "standardgraph",
+  "description": "Maps educational standards across 310 curriculum systems in 50+ countries, enabling cross-border curriculum alignment through Claude.",
+  "source_repo": "swoopeagle/standardgraph",
+  "source_url": "https://github.com/swoopeagle/standardgraph",
+  "install": "# git clone --depth 1 https://github.com/swoopeagle/standardgraph\n# See source for mcpServers config block"
+}

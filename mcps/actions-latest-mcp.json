@@ -1,0 +1,7 @@
+{
+  "name": "actions-latest-mcp",
+  "description": "Fetches the latest version numbers for popular GitHub Actions from simonw/actions-latest, allowing users to easily check and update workflow versions.",
+  "source_repo": "Hiosdra/actions-latest-mcp",
+  "source_url": "https://github.com/Hiosdra/actions-latest-mcp",
+  "install": "npx -y actions-latest-mcp"
+}

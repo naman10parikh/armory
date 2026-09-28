@@ -1,0 +1,7 @@
+{
+  "name": "forge-mcp",
+  "description": "A production-grade, LLM-agnostic local development engine over MCP, providing structured code intelligence and shared language server processes for AI coding agents.",
+  "source_repo": "fuwadog/forge-mcp",
+  "source_url": "https://github.com/fuwadog/forge-mcp",
+  "install": "npx -y forge-mcp"
+}

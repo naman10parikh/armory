@@ -1,0 +1,7 @@
+{
+  "name": "threenative-sculpt-mcp",
+  "description": "Provides five fail-closed MCP tools for validating reference images and sculpting plans, enabling user-owned procedural Three.js source creation through validated gates and grimoire lookups.",
+  "source_repo": "jonit-dev/threenative-sculpt-mcp",
+  "source_url": "https://github.com/jonit-dev/threenative-sculpt-mcp",
+  "install": "npx -y threenative-sculpt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "writeathon-mcp-server",
+  "description": "Enables users to interact with the Writeathon platform for managing cards, spaces, and writing picks via MCP.",
+  "source_repo": "Hcs66/writeathon-mcp",
+  "source_url": "https://github.com/Hcs66/writeathon-mcp",
+  "install": "npx -y writeathon-mcp"
+}

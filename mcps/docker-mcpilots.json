@@ -1,0 +1,7 @@
+{
+  "name": "docker-mcpilots",
+  "description": "Enables AI agents to manage Docker containers through a secure MCP interface, supporting container lifecycle operations, log inspection, resource monitoring, and system diagnostics with role-based access control.",
+  "source_repo": "sopyk/docker-mcpilots",
+  "source_url": "https://github.com/sopyk/docker-mcpilots",
+  "install": "# git clone --depth 1 https://github.com/sopyk/docker-mcpilots\n# See source for mcpServers config block"
+}

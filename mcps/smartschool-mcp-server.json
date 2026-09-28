@@ -1,0 +1,7 @@
+{
+  "name": "smartschool-mcp-server",
+  "description": "Connect Claude and other MCP clients to your Smartschool account to ask about grades, assignments, messages, and your schedule in plain language.",
+  "source_repo": "MauroDruwel/Smartschool-MCP",
+  "source_url": "https://github.com/MauroDruwel/Smartschool-MCP",
+  "install": "npx -y Smartschool-MCP"
+}

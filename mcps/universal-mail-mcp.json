@@ -1,0 +1,7 @@
+{
+  "name": "universal-mail-mcp",
+  "description": "A cross-platform MCP server that provides Claude with email access via IMAP, supporting multiple email providers and account management.",
+  "source_repo": "oscar23445/universal-mail-mcp",
+  "source_url": "https://github.com/oscar23445/universal-mail-mcp",
+  "install": "npx -y universal-mail-mcp"
+}

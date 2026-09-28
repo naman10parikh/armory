@@ -1,0 +1,7 @@
+{
+  "name": "swag2mcp",
+  "description": "Turn any OpenAPI/Swagger/Postman spec into an MCP server — give your LLM live access to any API.",
+  "source_repo": "mmadfox/swag2mcp",
+  "source_url": "https://github.com/mmadfox/swag2mcp",
+  "install": "# git clone --depth 1 https://github.com/mmadfox/swag2mcp\n# See source for mcpServers config block"
+}

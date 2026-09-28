@@ -1,0 +1,7 @@
+{
+  "name": "runcontext",
+  "description": "Enables AI agents to understand and query your database safely by providing a semantic layer of metadata, with tools to search, explain, validate, and generate safe SQL.",
+  "source_repo": "Quiet-Victory-Labs/runcontext",
+  "source_url": "https://github.com/Quiet-Victory-Labs/runcontext",
+  "install": "# git clone --depth 1 https://github.com/Quiet-Victory-Labs/runcontext\n# See source for mcpServers config block"
+}

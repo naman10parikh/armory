@@ -1,0 +1,7 @@
+{
+  "name": "vision-multi-mcp-server",
+  "description": "This MCP server enables image analysis through a single tool that supports multiple vision models and API providers, with automatic failover and persistent state management.",
+  "source_repo": "snow930/reasonix-vision-multi",
+  "source_url": "https://github.com/snow930/reasonix-vision-multi",
+  "install": "# git clone --depth 1 https://github.com/snow930/reasonix-vision-multi\n# See source for mcpServers config block"
+}

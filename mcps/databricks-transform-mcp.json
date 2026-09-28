@@ -1,0 +1,7 @@
+{
+  "name": "databricks-transform-mcp",
+  "description": "Enables AI agents to interact with Coalesce and Snowflake to perform data transformations, run operations, and manage Coalesce resources via natural language.",
+  "source_repo": "swalker-coalesce/databricks-transform-mcp",
+  "source_url": "https://github.com/swalker-coalesce/databricks-transform-mcp",
+  "install": "npx -y databricks-transform-mcp"
+}

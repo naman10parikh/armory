@@ -1,0 +1,7 @@
+{
+  "name": "sisrun-mcp",
+  "description": "Enables AI assistants to read your SisRUN training plan with your own credentials and answer questions about prescribed workouts, like weekly coach plans, in a structured format.",
+  "source_repo": "cdutr/sisrun-mcp",
+  "source_url": "https://github.com/cdutr/sisrun-mcp",
+  "install": "npx -y sisrun-mcp"
+}

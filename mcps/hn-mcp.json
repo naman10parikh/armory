@@ -1,0 +1,7 @@
+{
+  "name": "hn-mcp",
+  "description": "MCP server enabling AI agents to interact with Hacker News, including fetching full comment trees with depth control, searching stories and comments, and retrieving user profiles.",
+  "source_repo": "tomwojcik/news-ycombinator-mcp",
+  "source_url": "https://github.com/tomwojcik/news-ycombinator-mcp",
+  "install": "npx -y news-ycombinator-mcp"
+}

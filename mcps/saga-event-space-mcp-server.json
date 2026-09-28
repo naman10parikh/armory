@@ -1,0 +1,7 @@
+{
+  "name": "saga-event-space-mcp-server",
+  "description": "MCP server for managing event spaces, hotels, and party venues in Saga Prefecture, Japan. Enables searching, creating, updating, and deleting venues, announcements, release notes, and performing administrative tasks via natural language.",
+  "source_repo": "midnight480/saga-event-space-mcp-server",
+  "source_url": "https://github.com/midnight480/saga-event-space-mcp-server",
+  "install": "npx -y saga-event-space-mcp-server"
+}

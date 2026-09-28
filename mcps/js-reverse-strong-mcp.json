@@ -1,0 +1,7 @@
+{
+  "name": "js-reverse-strong-mcp",
+  "description": "Standardizes front-end JavaScript reverse engineering workflows by providing tools for browser observation, runtime sampling, hooking, debugging, network analysis, and local environment reproduction.",
+  "source_repo": "lwjjike/JSReverser-Strong-MCP",
+  "source_url": "https://github.com/lwjjike/JSReverser-Strong-MCP",
+  "install": "npx -y JSReverser-Strong-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gcc-intelligence-mcp",
+  "description": "Provides GCC regulatory intelligence including ZATCA e-invoicing, Arabic NLP, UAE Corporate Tax, and compliance tools for AI agents via the Model Context Protocol.",
+  "source_repo": "mdfifty50-boop/gcc-intelligence-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/gcc-intelligence-mcp",
+  "install": "npx -y gcc-intelligence-mcp"
+}

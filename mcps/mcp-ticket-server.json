@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ticket-server",
+  "description": "Exposes a ticket classification tool that categorizes support tickets by severity, category, sentiment, and summary via MCP, using the Anthropic API for classification and packaged as a Claude Desktop extension.",
+  "source_repo": "Saeid1992/mcp-ticket-server",
+  "source_url": "https://github.com/Saeid1992/mcp-ticket-server",
+  "install": "# git clone --depth 1 https://github.com/Saeid1992/mcp-ticket-server\n# See source for mcpServers config block"
+}

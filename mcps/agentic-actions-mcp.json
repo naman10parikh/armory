@@ -1,0 +1,7 @@
+{
+  "name": "agentic-actions-mcp",
+  "description": "Enables file IO operations and terminal commands via agentic actions using the MCP protocol.",
+  "source_repo": "codewithyasho/MCP_DEPLOYMENT",
+  "source_url": "https://github.com/codewithyasho/MCP_DEPLOYMENT",
+  "install": "# git clone --depth 1 https://github.com/codewithyasho/MCP_DEPLOYMENT\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ragflow-mcp-server",
+  "description": "Enables listing datasets, creating chat assistants, and chatting with them via RAGFlow API.",
+  "source_repo": "wang-junjian/ragflow-mcp-server",
+  "source_url": "https://github.com/wang-junjian/ragflow-mcp-server",
+  "install": "npx -y ragflow-mcp-server"
+}

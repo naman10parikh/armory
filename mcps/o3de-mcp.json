@@ -1,0 +1,7 @@
+{
+  "name": "o3de-mcp",
+  "description": "Automate Open 3D Engine (O3DE) with AI — an MCP server for editor control, project & build management.",
+  "source_repo": "nickschuetz/o3de-mcp",
+  "source_url": "https://github.com/nickschuetz/o3de-mcp",
+  "install": "npx -y o3de-mcp"
+}

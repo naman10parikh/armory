@@ -1,0 +1,7 @@
+{
+  "name": "polydoc-mcp",
+  "description": "MCP server that converts HTML or URLs to PDF, captures screenshots, and generates EU-compliant e-invoices (Factur-X/ZUGFeRD).",
+  "source_repo": "polydoc-tech/polydoc-mcp",
+  "source_url": "https://github.com/polydoc-tech/polydoc-mcp",
+  "install": "npx -y polydoc-mcp"
+}

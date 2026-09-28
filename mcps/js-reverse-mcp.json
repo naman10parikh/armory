@@ -1,0 +1,7 @@
+{
+  "name": "js-reverse-mcp",
+  "description": "A Chrome DevTools Protocol-based MCP server that enables AI coding assistants to control browsers for JavaScript debugging, reverse engineering, web scraping, and API debugging.",
+  "source_repo": "1600822305/js-reverse-mcp",
+  "source_url": "https://github.com/1600822305/js-reverse-mcp",
+  "install": "npx -y js-reverse-mcp"
+}

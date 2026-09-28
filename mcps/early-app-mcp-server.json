@@ -1,0 +1,7 @@
+{
+  "name": "early-app-mcp-server",
+  "description": "An MCP server that provides AI assistants with access to the EARLY time tracking public API, enabling time entry management, activity management, and report generation through natural language.",
+  "source_repo": "janfincke/early-mcp-server",
+  "source_url": "https://github.com/janfincke/early-mcp-server",
+  "install": "npx -y early-mcp-server"
+}

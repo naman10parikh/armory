@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sports-server",
+  "description": "Enables natural-language querying of historical NBA game data from a read-only SQLite database.",
+  "source_repo": "mayank-nayak/mcp-sports-server",
+  "source_url": "https://github.com/mayank-nayak/mcp-sports-server",
+  "install": "# git clone --depth 1 https://github.com/mayank-nayak/mcp-sports-server\n# See source for mcpServers config block"
+}

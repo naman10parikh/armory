@@ -1,0 +1,7 @@
+{
+  "name": "kaicalls-mcp-server",
+  "description": "AI-powered phone answering service for businesses — exposed as a remote Model Context Protocol server.",
+  "source_repo": "KaiCalls/kaicalls-mcp",
+  "source_url": "https://github.com/KaiCalls/kaicalls-mcp",
+  "install": "npx -y kaicalls-mcp"
+}

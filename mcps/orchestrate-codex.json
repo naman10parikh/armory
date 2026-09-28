@@ -1,0 +1,7 @@
+{
+  "name": "orchestrate-codex",
+  "description": "A provider-neutral orchestration plugin for Codex that manages multi-step recipe planning, context policies, and verification hints, while allowing leaf MCPs to be called directly.",
+  "source_repo": "Meapri/orchestrate-codex",
+  "source_url": "https://github.com/Meapri/orchestrate-codex",
+  "install": "# git clone --depth 1 https://github.com/Meapri/orchestrate-codex\n# See source for mcpServers config block"
+}

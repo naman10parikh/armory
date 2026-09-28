@@ -1,0 +1,7 @@
+{
+  "name": "lilypond-mcp",
+  "description": "Enables engraving LilyPond sources into cropped, self-contained EPS, PDF, SVG, and PNG assets for placement in page-layout software, with support for files or inline code and helpful diagnostics on failure.",
+  "source_repo": "wspringer/lilypond-mcp",
+  "source_url": "https://github.com/wspringer/lilypond-mcp",
+  "install": "npx -y lilypond-mcp"
+}

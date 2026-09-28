@@ -1,0 +1,7 @@
+{
+  "name": "mcploy",
+  "description": "Exposes the Loyverse API as MCP tools to manage stores, products, inventory, customers, receipts, and more from AI assistants.",
+  "source_repo": "ogarciabrena/mcploy",
+  "source_url": "https://github.com/ogarciabrena/mcploy",
+  "install": "# git clone --depth 1 https://github.com/ogarciabrena/mcploy\n# See source for mcpServers config block"
+}

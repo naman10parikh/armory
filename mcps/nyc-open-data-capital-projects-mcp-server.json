@@ -1,0 +1,7 @@
+{
+  "name": "nyc-open-data-capital-projects-mcp-server",
+  "description": "Enables AI assistants to query NYC capital project data (schedule, budget, lifecycle) using 16 tools with domain rules like PID↔FMS many-to-many and role-aware agency attribution.",
+  "source_repo": "WillHsiaoNYC/NYC-Opendata-Capital-Projects-MCP",
+  "source_url": "https://github.com/WillHsiaoNYC/NYC-Opendata-Capital-Projects-MCP",
+  "install": "npx -y NYC-Opendata-Capital-Projects-MCP"
+}

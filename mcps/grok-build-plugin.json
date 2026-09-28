@@ -1,0 +1,7 @@
+{
+  "name": "grok-build-plugin",
+  "description": "Live X (Twitter) and web search for any coding agent through your existing Grok subscription. Exposes a grok_search MCP tool, so no X API key or X developer account is needed.",
+  "source_repo": "VasiHemanth/grok-build-plugin",
+  "source_url": "https://github.com/VasiHemanth/grok-build-plugin",
+  "install": "# git clone --depth 1 https://github.com/VasiHemanth/grok-build-plugin\n# See source for mcpServers config block"
+}

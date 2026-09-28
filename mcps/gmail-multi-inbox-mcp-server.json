@@ -1,0 +1,7 @@
+{
+  "name": "gmail-multi-inbox-mcp-server",
+  "description": "Enables AI assistants to manage multiple Gmail accounts simultaneously with built-in OAuth authentication, supporting email reading, sending, drafts, labels, and account management.",
+  "source_repo": "tszaks/ghub",
+  "source_url": "https://github.com/tszaks/ghub",
+  "install": "# git clone --depth 1 https://github.com/tszaks/ghub\n# See source for mcpServers config block"
+}

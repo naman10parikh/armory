@@ -1,0 +1,7 @@
+{
+  "name": "assemblyai-mcp",
+  "description": "MCP server for the AssemblyAI API, providing tools for transcription, subtitles, speaker turns, word search, and LeMUR-based queries.",
+  "source_repo": "karpovantonme/assemblyai-mcp",
+  "source_url": "https://github.com/karpovantonme/assemblyai-mcp",
+  "install": "npx -y assemblyai-mcp"
+}

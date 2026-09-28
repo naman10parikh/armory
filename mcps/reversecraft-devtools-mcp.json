@@ -1,0 +1,7 @@
+{
+  "name": "reversecraft-devtools-mcp",
+  "description": "A powerful MCP server for browser debugging and reverse engineering, providing AI coding assistants with comprehensive browser automation, JavaScript debugging, and network analysis capabilities.",
+  "source_repo": "reverse-craft/rc-devtools-mcp",
+  "source_url": "https://github.com/reverse-craft/rc-devtools-mcp",
+  "install": "npx -y rc-devtools-mcp"
+}

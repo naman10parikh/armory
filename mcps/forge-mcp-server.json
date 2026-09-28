@@ -1,0 +1,7 @@
+{
+  "name": "forge-mcp-server",
+  "description": "MCP server for managing Laravel Forge servers, sites, and deployments via the Forge API.",
+  "source_repo": "bretterer/forge-mcp-server",
+  "source_url": "https://github.com/bretterer/forge-mcp-server",
+  "install": "npx -y forge-mcp-server"
+}

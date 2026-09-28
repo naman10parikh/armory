@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt24-consulta-processual",
+  "description": "MCP server for querying official Brazilian labor court (TRT24) case information, read-only, pay-per-use with prepaid credits.",
+  "source_repo": "mcp-dir/tribunal_trt24_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt24_processo-mcp",
+  "install": "npx -y tribunal_trt24_processo-mcp"
+}

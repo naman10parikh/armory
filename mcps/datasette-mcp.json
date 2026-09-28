@@ -1,0 +1,7 @@
+{
+  "name": "datasette-mcp",
+  "description": "Adds an MCP server to a Datasette instance, exposing tools to list databases, retrieve database schemas, and execute read-only SQL queries.",
+  "source_repo": "datasette/datasette-mcp",
+  "source_url": "https://github.com/datasette/datasette-mcp",
+  "install": "npx -y datasette-mcp"
+}

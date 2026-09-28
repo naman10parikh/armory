@@ -1,0 +1,7 @@
+{
+  "name": "buyking-mcp-server",
+  "description": "Enables AI assistants to search Saleplaza's hot deals using semantic search and recommend products with a distinctive 'BuyKing' persona.",
+  "source_repo": "accentist/buyking-mcp",
+  "source_url": "https://github.com/accentist/buyking-mcp",
+  "install": "npx -y buyking-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "r0x-os",
+  "description": "Enables AI agents to interact with Robinhood Chain via USDG payments, offering tools for balance, pricing, trading, and more.",
+  "source_repo": "nhevers/project-r0x",
+  "source_url": "https://github.com/nhevers/project-r0x",
+  "install": "# git clone --depth 1 https://github.com/nhevers/project-r0x\n# See source for mcpServers config block"
+}

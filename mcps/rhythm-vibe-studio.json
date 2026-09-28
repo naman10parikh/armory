@@ -1,0 +1,7 @@
+{
+  "name": "rhythm-vibe-studio",
+  "description": "MCP server for vibe coding with music, enabling format conversion (LilyPond, MusicXML, MIDI, ABC, etc.), audio-to-sheet transcription, and transposition with robust fallback outputs.",
+  "source_repo": "bolabaden/rhythm-vibe-studio",
+  "source_url": "https://github.com/bolabaden/rhythm-vibe-studio",
+  "install": "# git clone --depth 1 https://github.com/bolabaden/rhythm-vibe-studio\n# See source for mcpServers config block"
+}

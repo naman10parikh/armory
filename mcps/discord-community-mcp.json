@@ -1,0 +1,7 @@
+{
+  "name": "discord-community-mcp",
+  "description": "Enables AI agents to search and recall Discord conversations, analyze community activity, participation, and growth, and optionally send messages when writes are enabled.",
+  "source_repo": "blackgirlbytes/discord-community-mcp",
+  "source_url": "https://github.com/blackgirlbytes/discord-community-mcp",
+  "install": "npx -y discord-community-mcp"
+}

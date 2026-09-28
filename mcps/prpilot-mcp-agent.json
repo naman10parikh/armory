@@ -1,0 +1,7 @@
+{
+  "name": "prpilot-mcp-agent",
+  "description": "Analyzes GitHub Pull Requests (PRs) by querying status, CI checks, reviews, comments, and local git state, and provides next-step suggestions in Chinese.",
+  "source_repo": "We1chan/PRPilot",
+  "source_url": "https://github.com/We1chan/PRPilot",
+  "install": "# git clone --depth 1 https://github.com/We1chan/PRPilot\n# See source for mcpServers config block"
+}

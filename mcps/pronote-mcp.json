@@ -1,0 +1,7 @@
+{
+  "name": "pronote-mcp",
+  "description": "A local MCP server that exposes Pronote (French school management system) data via MCP, enabling AI assistants to retrieve schedules, homework, grades, absences, and more. Supports token-based authentication with QR code setup.",
+  "source_repo": "Sub-Bach/pronote-mcp",
+  "source_url": "https://github.com/Sub-Bach/pronote-mcp",
+  "install": "npx -y pronote-mcp"
+}

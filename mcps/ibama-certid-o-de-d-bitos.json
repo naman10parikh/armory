@@ -1,0 +1,7 @@
+{
+  "name": "ibama-certid-o-de-d-bitos",
+  "description": "Consulta a Certidão de Débitos do IBAMA em fonte oficial, com uma ferramenta de leitura que permite verificar débitos ambientais via MCP.",
+  "source_repo": "mcp-dir/ibama_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/ibama_certidao_debitos-mcp",
+  "install": "npx -y ibama_certidao_debitos-mcp"
+}

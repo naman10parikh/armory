@@ -1,0 +1,7 @@
+{
+  "name": "deck-contract",
+  "description": "MCP server for AI-native editable presentations: surgically edit slide components by stable ID, with local rendering and self-checking overflow.",
+  "source_repo": "Andersonscat/deck-contract",
+  "source_url": "https://github.com/Andersonscat/deck-contract",
+  "install": "# git clone --depth 1 https://github.com/Andersonscat/deck-contract\n# See source for mcpServers config block"
+}

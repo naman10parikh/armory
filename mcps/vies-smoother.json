@@ -1,0 +1,7 @@
+{
+  "name": "vies-smoother",
+  "description": "SLA'd EU VAT number validation for AI agents via VIES, with caching and circuit-breaking to handle flaky upstream, returning valid/invalid/unavailable responses.",
+  "source_repo": "Lucrumist/vies-smoother-mcp",
+  "source_url": "https://github.com/Lucrumist/vies-smoother-mcp",
+  "install": "npx -y vies-smoother-mcp"
+}

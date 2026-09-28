@@ -1,0 +1,7 @@
+{
+  "name": "flashcardmcp",
+  "description": "Converts JSON/CSV Markdown content into interactive flashcard pages with multiple templates, PDF export, and voice support for language learning.",
+  "source_repo": "Moonzhang/FlashcardMCP",
+  "source_url": "https://github.com/Moonzhang/FlashcardMCP",
+  "install": "# git clone --depth 1 https://github.com/Moonzhang/FlashcardMCP\n# See source for mcpServers config block"
+}

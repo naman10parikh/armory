@@ -1,0 +1,7 @@
+{
+  "name": "archicad-tapir-mcp",
+  "description": "Read-only MCP bridge for Archicad using the Tapir Add-On, enabling discovery, context binding, and safe read operations on Archicad projects.",
+  "source_repo": "psxcode/archicad-tapir-mcp",
+  "source_url": "https://github.com/psxcode/archicad-tapir-mcp",
+  "install": "npx -y archicad-tapir-mcp"
+}

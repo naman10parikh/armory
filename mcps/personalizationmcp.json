@@ -1,0 +1,7 @@
+{
+  "name": "personalizationmcp",
+  "description": "Enables AI assistants to access and interact with personal data from platforms like Steam, YouTube, Bilibili, Spotify, and Reddit for personalized, context-aware interactions.",
+  "source_repo": "YangLiangwei/PersonalizationMCP",
+  "source_url": "https://github.com/YangLiangwei/PersonalizationMCP",
+  "install": "# git clone --depth 1 https://github.com/YangLiangwei/PersonalizationMCP\n# See source for mcpServers config block"
+}

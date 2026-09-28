@@ -1,0 +1,7 @@
+{
+  "name": "dayi-search-mcp",
+  "description": "Enables querying Chinese medical information (drugs, diseases, doctors, symptoms) from the Dayi platform with structured output and auto-type detection.",
+  "source_repo": "PancrePal-xiaoyibao/dayi-search-mcp",
+  "source_url": "https://github.com/PancrePal-xiaoyibao/dayi-search-mcp",
+  "install": "npx -y dayi-search-mcp"
+}

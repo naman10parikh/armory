@@ -1,0 +1,7 @@
+{
+  "name": "github-pr-reviewer",
+  "description": "Enables reviewing GitHub pull requests via ChatGPT, including listing PRs, viewing diffs, posting comments, approving, and requesting changes.",
+  "source_repo": "m-musaz/GPT-Apps-Github-PR-Review-Connector",
+  "source_url": "https://github.com/m-musaz/GPT-Apps-Github-PR-Review-Connector",
+  "install": "# git clone --depth 1 https://github.com/m-musaz/GPT-Apps-Github-PR-Review-Connector\n# See source for mcpServers config block"
+}

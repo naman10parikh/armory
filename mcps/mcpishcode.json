@@ -1,0 +1,7 @@
+{
+  "name": "mcpishcode",
+  "description": "A self-hosted MCP server that brings a Codex-style coding workflow to ChatGPT, allowing it to read, edit, search, and run code in your local projects.",
+  "source_repo": "alkindivv/MCPishCode",
+  "source_url": "https://github.com/alkindivv/MCPishCode",
+  "install": "# git clone --depth 1 https://github.com/alkindivv/MCPishCode\n# See source for mcpServers config block"
+}

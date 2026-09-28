@@ -1,0 +1,7 @@
+{
+  "name": "clawsfund-mcp",
+  "description": "Enables AI assistants to search campaigns, view agent profiles, and build funding transactions on the Clawsfund Solana crowdfunding platform.",
+  "source_repo": "tashfeenahmed/clawsfund-mcp",
+  "source_url": "https://github.com/tashfeenahmed/clawsfund-mcp",
+  "install": "npx -y clawsfund-mcp"
+}

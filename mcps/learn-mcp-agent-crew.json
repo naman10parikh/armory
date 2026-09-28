@@ -1,0 +1,7 @@
+{
+  "name": "learn-mcp-agent-crew",
+  "description": "MCP server that enables an agent to spawn sub-agents (a crew) via a local tool, allowing delegation of large tasks to parallel workers with a human approval gate and efficient token usage.",
+  "source_repo": "ketankshukla/learn-mcp-agent-crew",
+  "source_url": "https://github.com/ketankshukla/learn-mcp-agent-crew",
+  "install": "# git clone --depth 1 https://github.com/ketankshukla/learn-mcp-agent-crew\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "realty-pipeline",
+  "description": "Automates real estate content creation from a keyword or news article, generating blog posts, YouTube scripts, SNS content, and thumbnail prompts, saved as a markdown file.",
+  "source_repo": "samho4987-rgb/realty-pipeline",
+  "source_url": "https://github.com/samho4987-rgb/realty-pipeline",
+  "install": "# git clone --depth 1 https://github.com/samho4987-rgb/realty-pipeline\n# See source for mcpServers config block"
+}

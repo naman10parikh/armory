@@ -1,0 +1,7 @@
+{
+  "name": "openfoam-mcp",
+  "description": "Turns any MCP client into an OpenFOAM setup and debugging co-pilot, enabling case scaffolding, dictionary edits, mesh sizing, inlet turbulence calculations, and solver-log convergence checks through natural language.",
+  "source_repo": "kimlnw/openfoam-mcp",
+  "source_url": "https://github.com/kimlnw/openfoam-mcp",
+  "install": "npx -y openfoam-mcp"
+}

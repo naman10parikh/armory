@@ -1,0 +1,7 @@
+{
+  "name": "style-dna-ghostwriter",
+  "description": "Analyzes a codebase to extract its coding conventions and exposes tools via MCP for AI agents to retrieve live style rules, ensuring generated code matches the project's unwritten style.",
+  "source_repo": "Kaifazad/Style-DNA-Ghostwriter",
+  "source_url": "https://github.com/Kaifazad/Style-DNA-Ghostwriter",
+  "install": "# git clone --depth 1 https://github.com/Kaifazad/Style-DNA-Ghostwriter\n# See source for mcpServers config block"
+}

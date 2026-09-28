@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-mcp-server-authless",
+  "description": "Deploys a remote MCP server on Cloudflare Workers without authentication, enabling custom tools and connections to AI Playground or Claude Desktop.",
+  "source_repo": "rarebear3384-wq/fathom-mcp-server",
+  "source_url": "https://github.com/rarebear3384-wq/fathom-mcp-server",
+  "install": "npx -y fathom-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "routewise",
+  "description": "Enables step-level routing of AI workflows by decomposing tasks, selecting the best model per step within constraints, executing steps, and providing full execution traces.",
+  "source_repo": "Bhavarth7/RouteWise",
+  "source_url": "https://github.com/Bhavarth7/RouteWise",
+  "install": "# git clone --depth 1 https://github.com/Bhavarth7/RouteWise\n# See source for mcpServers config block"
+}

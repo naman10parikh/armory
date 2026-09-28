@@ -1,0 +1,7 @@
+{
+  "name": "gmail-research-mcp",
+  "description": "A read-only Gmail MCP server that searches email, fetches complete threads, and stores them as local Markdown and JSON for offline analysis by other agents.",
+  "source_repo": "bajor/gmail-mcp-read-only",
+  "source_url": "https://github.com/bajor/gmail-mcp-read-only",
+  "install": "# git clone --depth 1 https://github.com/bajor/gmail-mcp-read-only\n# See source for mcpServers config block"
+}

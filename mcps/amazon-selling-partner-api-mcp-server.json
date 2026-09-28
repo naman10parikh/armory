@@ -1,0 +1,7 @@
+{
+  "name": "amazon-selling-partner-api-mcp-server",
+  "description": "A Model Context Protocol server for interacting with the Amazon Selling Partner API, providing tools and resources for managing catalog, inventory, orders, reports, and more.",
+  "source_repo": "mattcoatsworth/AmazonSeller-mcp-server",
+  "source_url": "https://github.com/mattcoatsworth/AmazonSeller-mcp-server",
+  "install": "npx -y AmazonSeller-mcp-server"
+}

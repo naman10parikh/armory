@@ -1,0 +1,7 @@
+{
+  "name": "fortigate-mcp-server",
+  "description": "A production-ready MCP server for managing FortiGate firewalls, enabling AI assistants to manage firewall policies, network objects, routing, and device configurations.",
+  "source_repo": "alpadalar/fortigate-mcp-server",
+  "source_url": "https://github.com/alpadalar/fortigate-mcp-server",
+  "install": "npx -y fortigate-mcp-server"
+}

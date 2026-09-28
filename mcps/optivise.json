@@ -1,0 +1,7 @@
+{
+  "name": "optivise",
+  "description": "Optivise is an intelligent MCP tool that enhances AI-assisted Optimizely development. It analyzes developer prompts for Optimizely relevance and provides curated, contextual information to LLMs.",
+  "source_repo": "biswajitpanday/Optivise",
+  "source_url": "https://github.com/biswajitpanday/Optivise",
+  "install": "# git clone --depth 1 https://github.com/biswajitpanday/Optivise\n# See source for mcpServers config block"
+}

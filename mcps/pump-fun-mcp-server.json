@@ -1,0 +1,7 @@
+{
+  "name": "pump-fun-mcp-server",
+  "description": "A Cloudflare Worker that implements the MCP Streamable HTTP transport for AI agents to interact with pump.fun on Solana.",
+  "source_repo": "nirholas/pump-fun-workers",
+  "source_url": "https://github.com/nirholas/pump-fun-workers",
+  "install": "# git clone --depth 1 https://github.com/nirholas/pump-fun-workers\n# See source for mcpServers config block"
+}

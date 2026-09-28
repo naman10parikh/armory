@@ -1,0 +1,7 @@
+{
+  "name": "crontab-generator",
+  "description": "Enables AI agents to convert natural language schedule descriptions into valid cron expressions with explanations and next run times, using x402 micropayments for pay-per-call access.",
+  "source_repo": "Br0ski777/crontab-generator-x402",
+  "source_url": "https://github.com/Br0ski777/crontab-generator-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/crontab-generator-x402\n# See source for mcpServers config block"
+}

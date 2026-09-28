@@ -1,0 +1,7 @@
+{
+  "name": "modexia",
+  "description": "This server allows your AI agents (like Claude, LangChain bots, or custom swarms) to seamlessly execute secure cryptocurrency transactions (USDC) and zero-fee micro-payments straight from their system prompts.",
+  "source_repo": "Modexia/modexia-mcp",
+  "source_url": "https://github.com/Modexia/modexia-mcp",
+  "install": "npx -y modexia-mcp"
+}

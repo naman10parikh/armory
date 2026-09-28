@@ -1,0 +1,7 @@
+{
+  "name": "nfe-inutiliza-es",
+  "description": "MCP server that queries Brazilian electronic invoice (NF-e) numbering invalidations for a company by CNPJ and year. Read-only, hosted, works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/nfe_inutilizacao-mcp",
+  "source_url": "https://github.com/mcp-dir/nfe_inutilizacao-mcp",
+  "install": "npx -y nfe_inutilizacao-mcp"
+}

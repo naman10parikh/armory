@@ -6,7 +6,7 @@ source_repo: https://github.com/ArcadeAI/arcade-mcp
 source_url: https://github.com/ArcadeAI/arcade-mcp
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: 1015
 eval_score: 1
 mentions: null

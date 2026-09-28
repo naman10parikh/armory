@@ -1,0 +1,7 @@
+{
+  "name": "vehicle-mcp",
+  "description": "Enables AI assistants to control vehicles by checking battery status, managing climate, and locking/unlocking doors via Skoda Connect integration.",
+  "source_repo": "antonlunden/vehicle-mcp",
+  "source_url": "https://github.com/antonlunden/vehicle-mcp",
+  "install": "npx -y vehicle-mcp"
+}

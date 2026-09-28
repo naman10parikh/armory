@@ -1,0 +1,7 @@
+{
+  "name": "getonbrd-mcp",
+  "description": "Enables AI agents to search and triage LATAM tech job vacancies from the Get on Board public API, with tools for full-text search, filtering by category or company, and optional job detail retrieval.",
+  "source_repo": "JRM-Global/getonbrd-mcp",
+  "source_url": "https://github.com/JRM-Global/getonbrd-mcp",
+  "install": "npx -y getonbrd-mcp"
+}

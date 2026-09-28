@@ -1,0 +1,7 @@
+{
+  "name": "voice-mcp-3",
+  "description": "Give your AI agent a voice with x402 pay-per-call speech synthesis, offering 20 voices, 10 personas, 31 languages, and granular controls.",
+  "source_repo": "forgemeshlabs/voice-mcp",
+  "source_url": "https://github.com/forgemeshlabs/voice-mcp",
+  "install": "npx -y voice-mcp"
+}

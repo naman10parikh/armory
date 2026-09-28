@@ -1,0 +1,7 @@
+{
+  "name": "code-knowledge",
+  "description": "Drops two local, zero-egress MCP servers (Serena for LSP and CodeGraph for call/import graph) into Claude Code, enabling code navigation and analysis without API keys or data leaving the machine.",
+  "source_repo": "bhanutejaI4E/code-knowledge",
+  "source_url": "https://github.com/bhanutejaI4E/code-knowledge",
+  "install": "# git clone --depth 1 https://github.com/bhanutejaI4E/code-knowledge\n# See source for mcpServers config block"
+}

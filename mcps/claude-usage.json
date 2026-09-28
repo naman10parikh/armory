@@ -1,0 +1,7 @@
+{
+  "name": "claude-usage",
+  "description": "Provides Claude plan usage data (session and weekly percentages) as an MCP tool by reading through a logged-in browser, enabling Claude to check its own remaining usage.",
+  "source_repo": "AlbeeDev/claude-usage",
+  "source_url": "https://github.com/AlbeeDev/claude-usage",
+  "install": "# git clone --depth 1 https://github.com/AlbeeDev/claude-usage\n# See source for mcpServers config block"
+}

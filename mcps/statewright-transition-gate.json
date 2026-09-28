@@ -1,0 +1,7 @@
+{
+  "name": "statewright-transition-gate",
+  "description": "A paid hosted MCP server that enforces explicit state transitions for AI agent workflows, providing tools to check, explain, and log state changes.",
+  "source_repo": "clauxel/statewright-transition-gate-mcp",
+  "source_url": "https://github.com/clauxel/statewright-transition-gate-mcp",
+  "install": "npx -y statewright-transition-gate-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sodabar",
+  "description": "An MCP server that puts open data on tap, enabling LLM clients to search, inspect, and query 30,000+ civic datasets from Socrata portals with built-in guardrails like row caps and actionable error messages.",
+  "source_repo": "UsmarHaider/sodabar",
+  "source_url": "https://github.com/UsmarHaider/sodabar",
+  "install": "# git clone --depth 1 https://github.com/UsmarHaider/sodabar\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "websiteops-mcp-server",
+  "description": "Bridges AI coding assistants with website codebases, local git repositories, and shared hosting via FTP/SFTP, enabling code discovery, file management, git operations, smart deployments, backups, and rollbacks.",
+  "source_repo": "anilreddykota/cp-mcp",
+  "source_url": "https://github.com/anilreddykota/cp-mcp",
+  "install": "npx -y cp-mcp"
+}

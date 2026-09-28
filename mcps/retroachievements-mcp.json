@@ -1,0 +1,7 @@
+{
+  "name": "retroachievements-mcp",
+  "description": "Enables querying and managing RetroAchievements data, including user profiles, achievements, game info, and site rankings through natural language.",
+  "source_repo": "Zach-Houston/retroachievements-mcp",
+  "source_url": "https://github.com/Zach-Houston/retroachievements-mcp",
+  "install": "npx -y retroachievements-mcp"
+}

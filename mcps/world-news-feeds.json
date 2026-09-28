@@ -1,0 +1,7 @@
+{
+  "name": "world-news-feeds",
+  "description": "Provides curated international news feeds with tools to list, read, and fetch RSS/Atom/RDF feeds. Enables AI agents to access and filter world news data through natural language.",
+  "source_repo": "pipeworx-io/mcp-world-news-feeds",
+  "source_url": "https://github.com/pipeworx-io/mcp-world-news-feeds",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-world-news-feeds\n# See source for mcpServers config block"
+}

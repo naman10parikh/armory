@@ -1,0 +1,7 @@
+{
+  "name": "bug-tracker-mcp",
+  "description": "A lightweight MCP server for tracking bugs and tasks across coding sessions, providing persistent SQLite-backed storage and six tools for logging, inspecting, updating, resolving, and deleting bugs.",
+  "source_repo": "realsidg/bug_tracker_mcp",
+  "source_url": "https://github.com/realsidg/bug_tracker_mcp",
+  "install": "npx -y bug_tracker_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stock-image-mcp",
+  "description": "An MCP server for searching and downloading stock images from Unsplash, Pexels, Pixabay, Freepik, StockVault, and Burst, enabling AI agents to source images for content creation via tool calls.",
+  "source_repo": "Hasilt/images-mcp",
+  "source_url": "https://github.com/Hasilt/images-mcp",
+  "install": "npx -y images-mcp"
+}

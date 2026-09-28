@@ -1,0 +1,7 @@
+{
+  "name": "kubera-3p-mcp",
+  "description": "MCP server that exposes a typed TypeScript client for the Kubera (api.kubera.com) REST API, enabling users to access their financial data (user info, portfolios, charts) via Cognito-authenticated tools, including white-label account support.",
+  "source_repo": "anaisbetts/kubera-3p-mcp",
+  "source_url": "https://github.com/anaisbetts/kubera-3p-mcp",
+  "install": "npx -y kubera-3p-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uk-rates-thresholds",
+  "description": "Query current and historical UK official figures (tax bands, minimum wage, benefits, energy price cap and 100+ more) with effective dates and links to official government sources. Data refreshed whenever the official sources change.",
+  "source_repo": "Neonswitched/uk-rates-thresholds",
+  "source_url": "https://github.com/Neonswitched/uk-rates-thresholds",
+  "install": "# git clone --depth 1 https://github.com/Neonswitched/uk-rates-thresholds\n# See source for mcpServers config block"
+}

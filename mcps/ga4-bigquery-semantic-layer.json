@@ -1,0 +1,7 @@
+{
+  "name": "ga4-bigquery-semantic-layer",
+  "description": "Exposes a semantic layer on GA4 event data in BigQuery via an MCP server for consistent querying.",
+  "source_repo": "mohrstade/measurecamp-london-bigqery-mcp",
+  "source_url": "https://github.com/mohrstade/measurecamp-london-bigqery-mcp",
+  "install": "npx -y measurecamp-london-bigqery-mcp"
+}

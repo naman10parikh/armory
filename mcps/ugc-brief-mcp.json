@@ -1,0 +1,7 @@
+{
+  "name": "ugc-brief-mcp",
+  "description": "Helps UGC creators interpret brand briefs, generate shot lists and deliverables, and identify red flags before production.",
+  "source_repo": "closermethod/ugc-brief-mcp",
+  "source_url": "https://github.com/closermethod/ugc-brief-mcp",
+  "install": "npx -y ugc-brief-mcp"
+}

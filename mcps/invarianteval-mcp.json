@@ -1,0 +1,7 @@
+{
+  "name": "invarianteval-mcp",
+  "description": "Enables AI agents to run safety-invariant checks on structured outputs, ensuring locked fields are never auto-filled by the model without human confirmation. The server provides two tools: check_invariants and list_invariants for deterministic eval of high-stakes extractions.",
+  "source_repo": "AlpharomeroJL/invarianteval",
+  "source_url": "https://github.com/AlpharomeroJL/invarianteval",
+  "install": "# git clone --depth 1 https://github.com/AlpharomeroJL/invarianteval\n# See source for mcpServers config block"
+}

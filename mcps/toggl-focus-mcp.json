@@ -1,0 +1,7 @@
+{
+  "name": "toggl-focus-mcp",
+  "description": "MCP server for Toggl Focus 2.0, enabling project, task, and time-entry management with live timer control through natural language.",
+  "source_repo": "copperline-ai/toggl-focus-mcp",
+  "source_url": "https://github.com/copperline-ai/toggl-focus-mcp",
+  "install": "npx -y toggl-focus-mcp"
+}

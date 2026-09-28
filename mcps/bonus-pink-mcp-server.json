@@ -1,0 +1,7 @@
+{
+  "name": "bonus-pink-mcp-server",
+  "description": "Enables Bonus Pink sub-accounts to manage loyalty programs via AI agents, offering 84 tools for card issuance, points, stamps, visits, rewards, and communications.",
+  "source_repo": "MK-Chan-MECACA/bonus-pink-mcp",
+  "source_url": "https://github.com/MK-Chan-MECACA/bonus-pink-mcp",
+  "install": "npx -y bonus-pink-mcp"
+}

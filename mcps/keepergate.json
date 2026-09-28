@@ -1,0 +1,7 @@
+{
+  "name": "keepergate",
+  "description": "Enables AI agents to execute on-chain transactions through policy validation, KeeperHub orchestration, and tamper-evident evidence recording.",
+  "source_repo": "xDzaky/KeeperGate",
+  "source_url": "https://github.com/xDzaky/KeeperGate",
+  "install": "# git clone --depth 1 https://github.com/xDzaky/KeeperGate\n# See source for mcpServers config block"
+}

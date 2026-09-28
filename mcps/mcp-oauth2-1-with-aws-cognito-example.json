@@ -1,0 +1,7 @@
+{
+  "name": "mcp-oauth2-1-with-aws-cognito-example",
+  "description": "Demonstrates how to secure an MCP server with OAuth 2.1 using AWS Cognito, with support for dynamic client registration and client ID metadata documents.",
+  "source_repo": "empires-security/mcp-oauth2-aws-cognito",
+  "source_url": "https://github.com/empires-security/mcp-oauth2-aws-cognito",
+  "install": "# git clone --depth 1 https://github.com/empires-security/mcp-oauth2-aws-cognito\n# See source for mcpServers config block"
+}

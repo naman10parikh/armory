@@ -1,0 +1,7 @@
+{
+  "name": "codesynapse-mcp",
+  "description": "An MCP server for code intelligence that maps source code into a knowledge graph, enabling AI tools to understand architecture and structure rather than just individual files.",
+  "source_repo": "sohilladhani/codesynapse",
+  "source_url": "https://github.com/sohilladhani/codesynapse",
+  "install": "# git clone --depth 1 https://github.com/sohilladhani/codesynapse\n# See source for mcpServers config block"
+}

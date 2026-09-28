@@ -1,0 +1,7 @@
+{
+  "name": "mission-mcp",
+  "description": "Trust Graduation gate for AI agents: visible approval ceremonies and receipt-backed boundaries for consequential actions.",
+  "source_repo": "gomission/mcp",
+  "source_url": "https://github.com/gomission/mcp",
+  "install": "# git clone --depth 1 https://github.com/gomission/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "react-native-docs-mcp",
+  "description": "Enables AI agents to perform semantic search over React Native documentation, retrieve specific pages, and manage doc versions locally without API keys.",
+  "source_repo": "Sannnao/react-native-docs-mcp",
+  "source_url": "https://github.com/Sannnao/react-native-docs-mcp",
+  "install": "npx -y react-native-docs-mcp"
+}

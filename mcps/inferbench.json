@@ -1,0 +1,7 @@
+{
+  "name": "inferbench",
+  "description": "InferBench's MCP server lets coding agents run, serve and benchmark local LLMs (text + image, llama.cpp + Stable Diffusion) on your own hardware on demand — measuring real tokens/sec and picking the optimal quant for your GPU from a 124-model catalog. Local-first, no cloud required.",
+  "source_repo": "JoniMartin27/inferbench",
+  "source_url": "https://github.com/JoniMartin27/inferbench",
+  "install": "# git clone --depth 1 https://github.com/JoniMartin27/inferbench\n# See source for mcpServers config block"
+}

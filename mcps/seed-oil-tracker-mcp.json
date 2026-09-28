@@ -1,0 +1,7 @@
+{
+  "name": "seed-oil-tracker-mcp",
+  "description": "Seed oil (PUFA) data for 500+ US restaurant chains: letter grades, the oil each chain fries in, cleanest menu items, and rankings. Zero-dependency Python stdio server backed by the free hosted Seed Oil Tracker endpoint, no key or account needed.",
+  "source_repo": "JaredOnAnIsland/seed-oil-tracker-mcp",
+  "source_url": "https://github.com/JaredOnAnIsland/seed-oil-tracker-mcp",
+  "install": "npx -y seed-oil-tracker-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "loreroom",
+  "description": "Encrypted, local memory for your Claude Code Telegram bot. Captures both sides of the conversation at the plugin source (survives restarts and crashes) and recalls it via MCP tools.",
+  "source_repo": "fenghaochang/LoreRoom",
+  "source_url": "https://github.com/fenghaochang/LoreRoom",
+  "install": "# git clone --depth 1 https://github.com/fenghaochang/LoreRoom\n# See source for mcpServers config block"
+}

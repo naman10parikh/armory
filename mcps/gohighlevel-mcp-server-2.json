@@ -1,0 +1,7 @@
+{
+  "name": "gohighlevel-mcp-server-2",
+  "description": "Enables Claude to interact with GoHighLevel CRM for contact management, messaging, calendar, and sales opportunities via 14 tools.",
+  "source_repo": "lehr007-coder/gohighlevel-mcp-server",
+  "source_url": "https://github.com/lehr007-coder/gohighlevel-mcp-server",
+  "install": "npx -y gohighlevel-mcp-server"
+}

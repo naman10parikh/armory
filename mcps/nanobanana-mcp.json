@@ -1,0 +1,7 @@
+{
+  "name": "nanobanana-mcp",
+  "description": "MCP server that brings Gemini's image generation and editing capabilities to Claude Desktop, Claude Code, and Cursor. Supports Nano Banana 2 (Flash) and Nano Banana Pro models.",
+  "source_repo": "YCSE/nanobanana-mcp",
+  "source_url": "https://github.com/YCSE/nanobanana-mcp",
+  "install": "npx -y nanobanana-mcp"
+}

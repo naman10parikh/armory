@@ -1,0 +1,7 @@
+{
+  "name": "hoodr-mcp-server",
+  "description": "Enables AI agents to trade tokenized stocks (e.g., NVDA, TSLA) on Robinhood Chain via MCP, with non-custodial keys and spending caps.",
+  "source_repo": "hoodrHQ/hoodr-cli",
+  "source_url": "https://github.com/hoodrHQ/hoodr-cli",
+  "install": "# git clone --depth 1 https://github.com/hoodrHQ/hoodr-cli\n# See source for mcpServers config block"
+}

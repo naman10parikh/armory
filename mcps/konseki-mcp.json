@@ -1,0 +1,7 @@
+{
+  "name": "konseki-mcp",
+  "description": "Enables AI agents to query historical market context data from the Konseki API, returning raw JSON for analysis.",
+  "source_repo": "konseki-official/konseki-mcp",
+  "source_url": "https://github.com/konseki-official/konseki-mcp",
+  "install": "npx -y konseki-mcp"
+}

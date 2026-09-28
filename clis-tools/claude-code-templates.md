@@ -7,7 +7,7 @@ license: MIT
 ---
 # claude-code-templates
 
-Incredibly awesome collection of resources from every category in this list, presented with a neatly polished UI, great features like usage dashboard, analytics, and everything from slash commands to hooks to agents. An awesome companion for this awesome list.
+A collection of Claude Code resources from every category, from slash commands to hooks and agents, with a web interface that includes a usage dashboard and analytics.
 
 **Source:** https://github.com/davila7/claude-code-templates
 

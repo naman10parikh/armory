@@ -1,0 +1,7 @@
+{
+  "name": "jobs-tools-knowledgebase",
+  "description": "A MongoDB Atlas-based Notion-style knowledge base management MCP server that supports user workspaces, project management, page CRUD with tree structure, and text search.",
+  "source_repo": "dbsxortime/Jobs-tools-knowledgeBase",
+  "source_url": "https://github.com/dbsxortime/Jobs-tools-knowledgeBase",
+  "install": "# git clone --depth 1 https://github.com/dbsxortime/Jobs-tools-knowledgeBase\n# See source for mcpServers config block"
+}

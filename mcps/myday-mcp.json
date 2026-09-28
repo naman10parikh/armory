@@ -1,0 +1,7 @@
+{
+  "name": "myday-mcp",
+  "description": "Enables AI assistants to query a user's recorded work sessions, notes, and browsing history, allowing them to resume tasks or answer questions about past work without re-explanation.",
+  "source_repo": "abhitsian/myday",
+  "source_url": "https://github.com/abhitsian/myday",
+  "install": "# git clone --depth 1 https://github.com/abhitsian/myday\n# See source for mcpServers config block"
+}

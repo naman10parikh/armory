@@ -1,0 +1,7 @@
+{
+  "name": "xserver-mcp-server",
+  "description": "MCP server for Xserver hosting that provides tools to manage mail accounts, DNS records, server information, and domain verification through natural language.",
+  "source_repo": "Mink16/xserver-mcp",
+  "source_url": "https://github.com/Mink16/xserver-mcp",
+  "install": "npx -y xserver-mcp"
+}

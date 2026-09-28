@@ -1,0 +1,7 @@
+{
+  "name": "tshark-mcp-server",
+  "description": "Analyzes pcap files using tshark to detect network attacks and security threats.",
+  "source_repo": "cerby0n/tshark-mcp",
+  "source_url": "https://github.com/cerby0n/tshark-mcp",
+  "install": "npx -y tshark-mcp"
+}

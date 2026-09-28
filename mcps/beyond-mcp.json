@@ -1,0 +1,7 @@
+{
+  "name": "beyond-mcp",
+  "description": "An MCP server for Pangolin BEYOND laser software, providing 117 tools across 20 categories for AI-driven control of laser shows via OSC, including cues, zones, brightness, BPM, and more.",
+  "source_repo": "drohi-r/beyond-mcp",
+  "source_url": "https://github.com/drohi-r/beyond-mcp",
+  "install": "npx -y beyond-mcp"
+}

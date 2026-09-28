@@ -1,0 +1,7 @@
+{
+  "name": "facebook-mcp",
+  "description": "Enables analytics and management of Facebook Pages through the Meta Graph API, including posts, insights, audience, and publishing.",
+  "source_repo": "yeswanthreddyk/facebook-mcp",
+  "source_url": "https://github.com/yeswanthreddyk/facebook-mcp",
+  "install": "npx -y facebook-mcp"
+}

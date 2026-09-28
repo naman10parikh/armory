@@ -1,0 +1,7 @@
+{
+  "name": "blockworld",
+  "description": "Enables AI agents to build voxel structures in a 3D world using primitive shape tools like boxes, cylinders, cones, spheres, and tubes.",
+  "source_repo": "techleadhd/blockworld",
+  "source_url": "https://github.com/techleadhd/blockworld",
+  "install": "# git clone --depth 1 https://github.com/techleadhd/blockworld\n# See source for mcpServers config block"
+}

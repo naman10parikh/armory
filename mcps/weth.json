@@ -1,0 +1,7 @@
+{
+  "name": "weth",
+  "description": "Enables AI agents to analyze Ethereum wallets, simulate transactions, and draft transfers with deterministic policy and risk scoring, requiring human approval before on-chain execution.",
+  "source_repo": "ayushkumar2601/wallet_weth",
+  "source_url": "https://github.com/ayushkumar2601/wallet_weth",
+  "install": "# git clone --depth 1 https://github.com/ayushkumar2601/wallet_weth\n# See source for mcpServers config block"
+}

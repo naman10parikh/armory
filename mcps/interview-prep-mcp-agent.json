@@ -1,0 +1,7 @@
+{
+  "name": "interview-prep-mcp-agent",
+  "description": "Enables interview preparation by analyzing resumes and job descriptions, generating role-specific questions, and evaluating answers using MCP tools integrated with an OpenAI agent.",
+  "source_repo": "NUPUR0307/interview-prep-mcp",
+  "source_url": "https://github.com/NUPUR0307/interview-prep-mcp",
+  "install": "npx -y interview-prep-mcp"
+}

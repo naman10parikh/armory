@@ -1,0 +1,7 @@
+{
+  "name": "currency-exchange-mcp",
+  "description": "A Model Context Protocol (MCP) server that provides currency exchange rate conversion tools.",
+  "source_repo": "onmyway133/currency-exchange-mcp",
+  "source_url": "https://github.com/onmyway133/currency-exchange-mcp",
+  "install": "npx -y currency-exchange-mcp"
+}

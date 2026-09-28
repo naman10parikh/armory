@@ -1,0 +1,7 @@
+{
+  "name": "actian-docs-mcp",
+  "description": "Enables natural-language queries across Actian product documentation, GA4 content analytics, and Jenkins CI build status.",
+  "source_repo": "Bipin-24/actian-docs-mcp",
+  "source_url": "https://github.com/Bipin-24/actian-docs-mcp",
+  "install": "npx -y actian-docs-mcp"
+}

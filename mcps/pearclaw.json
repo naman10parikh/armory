@@ -1,0 +1,7 @@
+{
+  "name": "pearclaw",
+  "description": "Provides real-time oversight for Claude Code by connecting it to an OpenClaw agent that reviews, approves, blocks, or modifies actions before they execute.",
+  "source_repo": "sideEyeLabs/pearclaw",
+  "source_url": "https://github.com/sideEyeLabs/pearclaw",
+  "install": "# git clone --depth 1 https://github.com/sideEyeLabs/pearclaw\n# See source for mcpServers config block"
+}

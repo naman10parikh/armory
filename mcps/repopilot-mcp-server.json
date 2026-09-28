@@ -1,0 +1,7 @@
+{
+  "name": "repopilot-mcp-server",
+  "description": "Enables interaction with indexed Python repositories through MCP tools for repository map, symbol search, file reading, and reference lookup.",
+  "source_repo": "ziiyue-eee/RepoPilot",
+  "source_url": "https://github.com/ziiyue-eee/RepoPilot",
+  "install": "# git clone --depth 1 https://github.com/ziiyue-eee/RepoPilot\n# See source for mcpServers config block"
+}

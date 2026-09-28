@@ -1,0 +1,7 @@
+{
+  "name": "affiliate-router-mcp",
+  "description": "Vendor-neutral MCP server that discovers, routes, and attributes revenue across paid APIs, referral links, and affiliate programs for agent tools.",
+  "source_repo": "forgemeshlabs/affiliate-router-mcp",
+  "source_url": "https://github.com/forgemeshlabs/affiliate-router-mcp",
+  "install": "npx -y affiliate-router-mcp"
+}

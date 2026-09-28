@@ -1,0 +1,7 @@
+{
+  "name": "page2ai-mcp",
+  "description": "Converts any web page URL into clean Markdown for LLM context (Claude, ChatGPT, etc.) with zero external API calls, running entirely locally.",
+  "source_repo": "igorsaevets/page2ai-mcp",
+  "source_url": "https://github.com/igorsaevets/page2ai-mcp",
+  "install": "npx -y page2ai-mcp"
+}

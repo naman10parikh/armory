@@ -1,0 +1,7 @@
+{
+  "name": "pmc-app-dev-kit",
+  "description": "Enables local development and prototyping of MCP apps with UI views for Portkey Mission Control, using Durable Object storage and a skill for end-to-end building.",
+  "source_repo": "simple10/mcp-app-devkit",
+  "source_url": "https://github.com/simple10/mcp-app-devkit",
+  "install": "# git clone --depth 1 https://github.com/simple10/mcp-app-devkit\n# See source for mcpServers config block"
+}

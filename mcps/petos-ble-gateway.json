@@ -1,0 +1,7 @@
+{
+  "name": "petos-ble-gateway",
+  "description": "MCP server for controlling an ESP32-C3 PetOS watch over BLE. Enables scanning, connecting, sending pet actions, and showing frames through MCP tools.",
+  "source_repo": "ilimei/petos-ble-gateway",
+  "source_url": "https://github.com/ilimei/petos-ble-gateway",
+  "install": "# git clone --depth 1 https://github.com/ilimei/petos-ble-gateway\n# See source for mcpServers config block"
+}

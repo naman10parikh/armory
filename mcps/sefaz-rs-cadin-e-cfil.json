@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-rs-cadin-e-cfil",
+  "description": "Provides a read-only MCP tool to consult Brazilian state tax (SEFAZ RS) CADIN and CFIL data from official sources, with pay-per-use credits and support for any MCP client over HTTP.",
+  "source_repo": "mcp-dir/sefaz_rs_cadin_cfil-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_rs_cadin_cfil-mcp",
+  "install": "npx -y sefaz_rs_cadin_cfil-mcp"
+}

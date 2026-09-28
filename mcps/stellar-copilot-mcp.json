@@ -1,0 +1,7 @@
+{
+  "name": "stellar-copilot-mcp",
+  "description": "MCP server for Stellar that enables AI assistants to explain account holdings, diagnose transaction failures, and describe Soroban contracts in plain language, with optional payment proposal flow.",
+  "source_repo": "kennyrivaldi/stellar-copilot-mcp",
+  "source_url": "https://github.com/kennyrivaldi/stellar-copilot-mcp",
+  "install": "npx -y stellar-copilot-mcp"
+}

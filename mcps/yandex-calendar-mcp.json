@@ -1,0 +1,7 @@
+{
+  "name": "yandex-calendar-mcp",
+  "description": "An MCP server that enables AI assistants to access Yandex Calendar over CalDAV, with the ability to read, create, move, update, and delete events, including recurring events and attendee invitations.",
+  "source_repo": "PlatonKing/yandex-calendar-mcp",
+  "source_url": "https://github.com/PlatonKing/yandex-calendar-mcp",
+  "install": "npx -y yandex-calendar-mcp"
+}

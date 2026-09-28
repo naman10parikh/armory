@@ -1,0 +1,7 @@
+{
+  "name": "pasal-id",
+  "description": "Enables AI assistants to search, retrieve, and verify Indonesian laws (UU, PP, Perpres, etc.) and Constitutional Court decisions from authoritative sources with pasal-level granularity and citation-ready grounding.",
+  "source_repo": "Aturio/pasal-id-mcp",
+  "source_url": "https://github.com/Aturio/pasal-id-mcp",
+  "install": "npx -y pasal-id-mcp"
+}

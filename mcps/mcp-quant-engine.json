@@ -1,0 +1,7 @@
+{
+  "name": "mcp-quant-engine",
+  "description": "A quantitative finance MCP server providing 24 tools for option pricing, portfolio optimization, risk measurement, fixed income analysis, and utility functions, enabling AI clients to perform professional financial calculations.",
+  "source_repo": "wzx11223344/mcp-quant-engine",
+  "source_url": "https://github.com/wzx11223344/mcp-quant-engine",
+  "install": "# git clone --depth 1 https://github.com/wzx11223344/mcp-quant-engine\n# See source for mcpServers config block"
+}

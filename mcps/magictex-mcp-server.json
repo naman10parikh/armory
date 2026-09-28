@@ -1,0 +1,7 @@
+{
+  "name": "magictex-mcp-server",
+  "description": "Enables AI agents to edit LaTeX documents with a live PDF preview, source editor, and PDF-anchored comments that become edit instructions. Requires no local TeX install, using a WASM TeX engine.",
+  "source_repo": "ZoeLinUTS/MagicTeX-mcp",
+  "source_url": "https://github.com/ZoeLinUTS/MagicTeX-mcp",
+  "install": "npx -y MagicTeX-mcp"
+}

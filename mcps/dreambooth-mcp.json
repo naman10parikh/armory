@@ -1,0 +1,7 @@
+{
+  "name": "dreambooth-mcp",
+  "description": "Enables AI assistants to answer operators' questions about their Dreambooth Studio booths via a read-only API wrapper, providing session, project, revenue, credit, and wallet data with OAuth device flow authentication.",
+  "source_repo": "Dreambooth-Studio/dreambooth-mcp",
+  "source_url": "https://github.com/Dreambooth-Studio/dreambooth-mcp",
+  "install": "npx -y dreambooth-mcp"
+}

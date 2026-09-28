@@ -1,0 +1,7 @@
+{
+  "name": "2ools-mcp-server",
+  "description": "Remote MCP server for 2ools—build, version, review, and export websites, web apps, and games from the AI chat you already use. This repository includes a credential-free stdio proxy and Dockerfile that forward introspection to the verified remote endpoint without mocking tools.",
+  "source_repo": "2ools/mcp-server",
+  "source_url": "https://github.com/2ools/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/2ools/mcp-server\n# See source for mcpServers config block"
+}

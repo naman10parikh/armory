@@ -1,0 +1,7 @@
+{
+  "name": "invoice-mcp",
+  "description": "MCP server that gives AI agents read access to subscription/SaaS invoice history, ingested from Gmail and stored in Postgres and MongoDB, with tools for listing invoices, retrieving PDFs, and summarizing spend.",
+  "source_repo": "CourtimusPrime/Invoice-MCP",
+  "source_url": "https://github.com/CourtimusPrime/Invoice-MCP",
+  "install": "npx -y Invoice-MCP"
+}

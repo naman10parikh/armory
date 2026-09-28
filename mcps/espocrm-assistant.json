@@ -1,0 +1,7 @@
+{
+  "name": "espocrm-assistant",
+  "description": "Provides read-only EspoCRM access for AI assistants, enabling record retrieval and preparation of signed change sets without direct modification or deletion.",
+  "source_repo": "The-Keep-Studios/espocrm-assistant",
+  "source_url": "https://github.com/The-Keep-Studios/espocrm-assistant",
+  "install": "# git clone --depth 1 https://github.com/The-Keep-Studios/espocrm-assistant\n# See source for mcpServers config block"
+}

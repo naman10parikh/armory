@@ -1,0 +1,7 @@
+{
+  "name": "picoberry-mcp-server",
+  "description": "Enables generating game-ready 3D models, images, and animations from any MCP client via PicoBerry's multi-engine API.",
+  "source_repo": "UModeler/picoberry-mcp",
+  "source_url": "https://github.com/UModeler/picoberry-mcp",
+  "install": "npx -y picoberry-mcp"
+}

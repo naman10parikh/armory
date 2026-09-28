@@ -1,0 +1,7 @@
+{
+  "name": "kpa",
+  "description": "Provides an MCP server for programmatic reading, authoring, editing, designing, and optimization of Apple Keynote presentations.",
+  "source_repo": "alvelda/kpa",
+  "source_url": "https://github.com/alvelda/kpa",
+  "install": "# git clone --depth 1 https://github.com/alvelda/kpa\n# See source for mcpServers config block"
+}

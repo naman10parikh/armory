@@ -1,0 +1,7 @@
+{
+  "name": "untitled-2",
+  "description": "Guides correct disposal methods for confusing household waste items. Provides tools for classifying waste, getting disposal steps, checking confusing items, making cleanup plans, and regional disposal info.",
+  "source_repo": "C9Boom7/recycling-helper-mcp",
+  "source_url": "https://github.com/C9Boom7/recycling-helper-mcp",
+  "install": "npx -y recycling-helper-mcp"
+}

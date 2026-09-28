@@ -1,0 +1,7 @@
+{
+  "name": "mcp-insta",
+  "description": "A local MCP server for Windows that securely connects a professional Instagram Creator/Business account to AI clients via Meta Graph API, with safety features like OAuth PKCE and explicit confirmation for direct messages.",
+  "source_repo": "lstunn25ai/mcp-insta",
+  "source_url": "https://github.com/lstunn25ai/mcp-insta",
+  "install": "# git clone --depth 1 https://github.com/lstunn25ai/mcp-insta\n# See source for mcpServers config block"
+}

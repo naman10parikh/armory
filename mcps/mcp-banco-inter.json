@@ -1,0 +1,7 @@
+{
+  "name": "mcp-banco-inter",
+  "description": "Enables AI assistants to interact with Banco Inter business accounts, including balance inquiries, statement downloads, and full boleto management via natural language.",
+  "source_repo": "SamuelMoraesF/mcp-banco-inter",
+  "source_url": "https://github.com/SamuelMoraesF/mcp-banco-inter",
+  "install": "# git clone --depth 1 https://github.com/SamuelMoraesF/mcp-banco-inter\n# See source for mcpServers config block"
+}

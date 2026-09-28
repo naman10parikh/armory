@@ -7,7 +7,7 @@ license: Apache-2.0
 ---
 # sudocode
 
-Lightweight agent orchestration dev tool that lives in your repo. Integrates with various specification frameworks. It's giving Jira.
+A lightweight agent orchestration tool that lives in your repository and works with several specification frameworks.
 
 **Source:** https://github.com/sudocode-ai/sudocode
 

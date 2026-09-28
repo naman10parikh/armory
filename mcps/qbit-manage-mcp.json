@@ -1,0 +1,7 @@
+{
+  "name": "qbit-manage-mcp",
+  "description": "MCP server exposing qbit_manage's Web API as tools, so an LLM can read and manage a qbit_manage instance: run maintenance commands on qBittorrent torrents, manage config files, scheduler, logs, security settings, and system state.",
+  "source_repo": "arr-mcps/qbit_manage-mcp",
+  "source_url": "https://github.com/arr-mcps/qbit_manage-mcp",
+  "install": "npx -y qbit_manage-mcp"
+}

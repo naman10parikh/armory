@@ -1,0 +1,7 @@
+{
+  "name": "tmd-earthquake-mcp-server",
+  "description": "Provides access to earthquake data from the Thai Meteorological Department (TMD) API. Enables querying recent earthquakes, filtering by location and magnitude, and obtaining statistics.",
+  "source_repo": "amornpan/tmd-weather-mcp-stdio-2025-10-07",
+  "source_url": "https://github.com/amornpan/tmd-weather-mcp-stdio-2025-10-07",
+  "install": "# git clone --depth 1 https://github.com/amornpan/tmd-weather-mcp-stdio-2025-10-07\n# See source for mcpServers config block"
+}

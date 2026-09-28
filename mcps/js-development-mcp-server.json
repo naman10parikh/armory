@@ -1,0 +1,7 @@
+{
+  "name": "js-development-mcp-server",
+  "description": "A Model Context Protocol server for JavaScript/TypeScript development, providing tools to run scripts, tests, builds, and dependency management with framework and package manager detection.",
+  "source_repo": "Tymek/js-mcp",
+  "source_url": "https://github.com/Tymek/js-mcp",
+  "install": "npx -y js-mcp"
+}

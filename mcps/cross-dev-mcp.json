@@ -1,0 +1,7 @@
+{
+  "name": "cross-dev-mcp",
+  "description": "Enables cross-platform real device debugging for React Native development, supporting Android, iOS, and HarmonyOS with real-time connection status, screenshots, logs, diagnostics, evidence, and Codex context.",
+  "source_repo": "WX-DongXing/cross-dev-mcp",
+  "source_url": "https://github.com/WX-DongXing/cross-dev-mcp",
+  "install": "npx -y cross-dev-mcp"
+}

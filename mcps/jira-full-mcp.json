@@ -1,0 +1,7 @@
+{
+  "name": "jira-full-mcp",
+  "description": "A local MCP server for administering Atlassian Cloud Assets and Jira, providing hundreds of tools for schemas, projects, workflows, and more.",
+  "source_repo": "denisglazkov/jira-full-mcp",
+  "source_url": "https://github.com/denisglazkov/jira-full-mcp",
+  "install": "npx -y jira-full-mcp"
+}

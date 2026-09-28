@@ -1,0 +1,7 @@
+{
+  "name": "print-advisor-mcp",
+  "description": "Calculates 3D printing cost, time, material weight and build-plate fit from plain dimensions given in the conversation, with no STL upload and no API key. Covers PLA, PETG, ABS, ASA, TPU, Nylon, PC and PLA-CF, plus build volumes for Bambu Lab, Prusa, Creality, Voron and Elegoo printers.",
+  "source_repo": "vandurmedries/print-advisor-mcp",
+  "source_url": "https://github.com/vandurmedries/print-advisor-mcp",
+  "install": "npx -y print-advisor-mcp"
+}

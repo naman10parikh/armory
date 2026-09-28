@@ -1,0 +1,7 @@
+{
+  "name": "thrift-memory",
+  "description": "Provides MCP tools for cost-optimized memory management in AI agent teams, enabling cheap memory storage, token-budgeted recall with savings receipts, and a local dashboard for monitoring savings.",
+  "source_repo": "YohadH/thrift-memory",
+  "source_url": "https://github.com/YohadH/thrift-memory",
+  "install": "# git clone --depth 1 https://github.com/YohadH/thrift-memory\n# See source for mcpServers config block"
+}

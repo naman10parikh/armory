@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-agent-lab",
+  "description": "Enables controlled AI-agent access to enterprise-shaped tools with a deny-by-default gated write path, human approval, dry-run execution, and append-only audit logging.",
+  "source_repo": "Qlander17/enterprise-agent-lab",
+  "source_url": "https://github.com/Qlander17/enterprise-agent-lab",
+  "install": "# git clone --depth 1 https://github.com/Qlander17/enterprise-agent-lab\n# See source for mcpServers config block"
+}

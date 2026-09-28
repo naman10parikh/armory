@@ -1,0 +1,7 @@
+{
+  "name": "dev-tools-mcp-server",
+  "description": "A TypeScript MCP server example providing basic developer tools: hello world greeting, arithmetic calculator, and file information retrieval.",
+  "source_repo": "DRX-1877/dev-tools-mcp",
+  "source_url": "https://github.com/DRX-1877/dev-tools-mcp",
+  "install": "npx -y dev-tools-mcp"
+}

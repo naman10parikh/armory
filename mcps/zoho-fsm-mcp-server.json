@@ -1,0 +1,7 @@
+{
+  "name": "zoho-fsm-mcp-server",
+  "description": "Enables AI assistants to interact with Zoho Field Service Management, allowing operations on work orders, requests, contacts, and more via natural language.",
+  "source_repo": "LogeshR15/zoho-fsm-mcp",
+  "source_url": "https://github.com/LogeshR15/zoho-fsm-mcp",
+  "install": "npx -y zoho-fsm-mcp"
+}

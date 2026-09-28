@@ -1,0 +1,7 @@
+{
+  "name": "mercadona-mcp-server",
+  "description": "Enables shopping at Mercadona online grocery store via Claude, allowing catalog search, cart management, and order history retrieval while keeping payment control with the user.",
+  "source_repo": "igorsafonov-gif/mercadona-claude-extension",
+  "source_url": "https://github.com/igorsafonov-gif/mercadona-claude-extension",
+  "install": "# git clone --depth 1 https://github.com/igorsafonov-gif/mercadona-claude-extension\n# See source for mcpServers config block"
+}

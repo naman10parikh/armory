@@ -1,0 +1,7 @@
+{
+  "name": "slimatlas-ai",
+  "description": "An MCP server for lightweight browser automation using Lightpanda with Chrome fallback, providing LLM-optimized accessibility tree snapshots for precise element targeting.",
+  "source_repo": "hasindu-madushan/slim-atlas-ai",
+  "source_url": "https://github.com/hasindu-madushan/slim-atlas-ai",
+  "install": "# git clone --depth 1 https://github.com/hasindu-madushan/slim-atlas-ai\n# See source for mcpServers config block"
+}

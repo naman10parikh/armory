@@ -1,0 +1,7 @@
+{
+  "name": "conselho-regional-de-odontologia-ma-cadastro-mcp",
+  "description": "Read-only MCP server for querying official dental professional registry data from the Regional Council of Dentistry of Maranhão, Brazil. Enables natural-language lookups via a single consult tool.",
+  "source_repo": "mcp-dir/cro_ma_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_ma_cadastro-mcp",
+  "install": "npx -y cro_ma_cadastro-mcp"
+}

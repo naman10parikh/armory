@@ -1,0 +1,7 @@
+{
+  "name": "mainwp-mcp-server",
+  "description": "Enables AI assistants to manage WordPress sites via the MainWP Dashboard REST API, providing tools for site health monitoring, updates, plugin/theme management, and client/cost tracking.",
+  "source_repo": "cvsloane/mainwp-mcp",
+  "source_url": "https://github.com/cvsloane/mainwp-mcp",
+  "install": "npx -y mainwp-mcp"
+}

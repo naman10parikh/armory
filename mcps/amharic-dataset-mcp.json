@@ -1,0 +1,7 @@
+{
+  "name": "amharic-dataset-mcp",
+  "description": "Enables collection, enhancement, and quality scoring of authentic Amharic datasets, with integration for AI models like Gemini and Qwen.",
+  "source_repo": "Yosef-Ali/amharic-dataset-mcp",
+  "source_url": "https://github.com/Yosef-Ali/amharic-dataset-mcp",
+  "install": "npx -y amharic-dataset-mcp"
+}

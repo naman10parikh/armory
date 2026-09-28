@@ -1,0 +1,7 @@
+{
+  "name": "sacred-texts-mcp",
+  "description": "Semantic search and comparative retrieval over a multi-tradition corpus of sacred and foundational texts, exposed as an MCP server.",
+  "source_repo": "alessandrodalpozzo/sacred-texts-mcp",
+  "source_url": "https://github.com/alessandrodalpozzo/sacred-texts-mcp",
+  "install": "npx -y sacred-texts-mcp"
+}

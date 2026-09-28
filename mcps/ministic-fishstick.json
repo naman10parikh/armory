@@ -1,0 +1,7 @@
+{
+  "name": "ministic-fishstick",
+  "description": "Minimal high-performance MCP server for semantic code indexing and vector search using Bun, SQLite, and Tree-Sitter. It enables AI agents to index, search, and manage codebases via tools like code_index_search and code_index_start.",
+  "source_repo": "israelflores8789/ministic-fishstick",
+  "source_url": "https://github.com/israelflores8789/ministic-fishstick",
+  "install": "# git clone --depth 1 https://github.com/israelflores8789/ministic-fishstick\n# See source for mcpServers config block"
+}

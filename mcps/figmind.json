@@ -1,0 +1,7 @@
+{
+  "name": "figmind",
+  "description": "MCP server that connects AI clients to Figma, enabling real-time reading, creation, and modification of designs using natural language.",
+  "source_repo": "guhcostan/figmind",
+  "source_url": "https://github.com/guhcostan/figmind",
+  "install": "# git clone --depth 1 https://github.com/guhcostan/figmind\n# See source for mcpServers config block"
+}

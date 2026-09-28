@@ -1,0 +1,7 @@
+{
+  "name": "shapewords-mcp",
+  "description": "Universal MCP server for generating word clouds using ShapeWords, enabling creation of SVG, JSON, or PNG word clouds from text with extensive customization options.",
+  "source_repo": "kirrrr-2423/shapewords-mcp",
+  "source_url": "https://github.com/kirrrr-2423/shapewords-mcp",
+  "install": "npx -y shapewords-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "niche-mcp",
+  "description": "Editorial intelligence MCP server that helps agents discover stories worth writing about by analyzing primary sources, ranking angles, and turning signal into publishable drafts.",
+  "source_repo": "sailquery/niche-mcp",
+  "source_url": "https://github.com/sailquery/niche-mcp",
+  "install": "npx -y niche-mcp"
+}

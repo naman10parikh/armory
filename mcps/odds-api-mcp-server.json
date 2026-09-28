@@ -1,0 +1,7 @@
+{
+  "name": "odds-api-mcp-server",
+  "description": "Enables AI assistants to access sports betting odds data from 265+ bookmakers across 34 sports, including events, odds, historical data, arbitrage, and value bets.",
+  "source_repo": "odds-api-io/odds-api-mcp-server",
+  "source_url": "https://github.com/odds-api-io/odds-api-mcp-server",
+  "install": "npx -y odds-api-mcp-server"
+}

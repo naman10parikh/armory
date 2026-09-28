@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-mac-bridge",
+  "description": "Gives ChatGPT Web hands on your Mac — files, git, terminal, browser, and windows via MCP, with outbound-only tunnel and delete protection.",
+  "source_repo": "mingrath/chatgpt-mac-bridge",
+  "source_url": "https://github.com/mingrath/chatgpt-mac-bridge",
+  "install": "# git clone --depth 1 https://github.com/mingrath/chatgpt-mac-bridge\n# See source for mcpServers config block"
+}

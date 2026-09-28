@@ -1,0 +1,7 @@
+{
+  "name": "tollbooth",
+  "description": "Stateful backend for AI agents providing memory, watch, render, execute, and board primitives via remote MCP. Enables agents to persist facts, track page changes, render JS pages, run code, and coordinate on shared boards.",
+  "source_repo": "chrzanowy/agent-tollbooth",
+  "source_url": "https://github.com/chrzanowy/agent-tollbooth",
+  "install": "# git clone --depth 1 https://github.com/chrzanowy/agent-tollbooth\n# See source for mcpServers config block"
+}

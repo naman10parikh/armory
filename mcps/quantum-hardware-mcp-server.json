@@ -1,0 +1,7 @@
+{
+  "name": "quantum-hardware-mcp-server",
+  "description": "An MCP server that provides real-time IBM Quantum device data including queue depths, error rates, and coherence times, enabling AI assistants to query and compare quantum hardware.",
+  "source_repo": "Lokesh-2025/quantum-hardware-mcp",
+  "source_url": "https://github.com/Lokesh-2025/quantum-hardware-mcp",
+  "install": "npx -y quantum-hardware-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "io-github-bergside-typeui",
+  "description": "Provides design systems, UI prompts, and layout variation guidance to AI coding tools for generating better user interfaces.",
+  "source_repo": "bergside/typeui",
+  "source_url": "https://github.com/bergside/typeui",
+  "install": "# git clone --depth 1 https://github.com/bergside/typeui\n# See source for mcpServers config block"
+}

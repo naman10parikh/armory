@@ -1,0 +1,7 @@
+{
+  "name": "scifinder-route-mcp",
+  "description": "MCP server for indexing and searching reaction-step-level synthesis routes from local SciFinder exports, designed for Docker/NAS deployment.",
+  "source_repo": "kettly1260/scifinder-route-mcp",
+  "source_url": "https://github.com/kettly1260/scifinder-route-mcp",
+  "install": "npx -y scifinder-route-mcp"
+}

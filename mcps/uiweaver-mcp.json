@@ -1,0 +1,7 @@
+{
+  "name": "uiweaver-mcp",
+  "description": "An AI-powered MCP server that generates production-ready React + Tailwind UI, 3D components, and full-stack integrations from natural language prompts inside Claude Desktop.",
+  "source_repo": "arindhimar/UIWeaver-MCP",
+  "source_url": "https://github.com/arindhimar/UIWeaver-MCP",
+  "install": "npx -y UIWeaver-MCP"
+}

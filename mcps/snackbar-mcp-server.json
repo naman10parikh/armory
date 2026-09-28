@@ -1,0 +1,7 @@
+{
+  "name": "snackbar-mcp-server",
+  "description": "A personal note store exposed as an MCP server. Enables any MCP-speaking assistant to create, search, list, and categorize notes, with per-client bearer tokens for author attribution.",
+  "source_repo": "johnawadlow/snackbar",
+  "source_url": "https://github.com/johnawadlow/snackbar",
+  "install": "# git clone --depth 1 https://github.com/johnawadlow/snackbar\n# See source for mcpServers config block"
+}

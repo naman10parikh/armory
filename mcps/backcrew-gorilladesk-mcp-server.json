@@ -1,0 +1,7 @@
+{
+  "name": "backcrew-gorilladesk-mcp-server",
+  "description": "Enables AI assistants to manage GorillaDesk customer records, users, and company data through natural language interactions. Supports listing, creating, and updating customers, adding notes, and retrieving company and user information.",
+  "source_repo": "jayson-svg/backcrew-mcp-gorilladesk",
+  "source_url": "https://github.com/jayson-svg/backcrew-mcp-gorilladesk",
+  "install": "# git clone --depth 1 https://github.com/jayson-svg/backcrew-mcp-gorilladesk\n# See source for mcpServers config block"
+}

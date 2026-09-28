@@ -1,0 +1,7 @@
+{
+  "name": "relative-interpreter-mcp",
+  "description": "An MCP server that enables LLMs to act as an interpreter for the Relative service, providing tools for navigating, reading, editing, executing, and managing models through natural language.",
+  "source_repo": "CalWtr/relative-interpreter-mcp",
+  "source_url": "https://github.com/CalWtr/relative-interpreter-mcp",
+  "install": "npx -y relative-interpreter-mcp"
+}

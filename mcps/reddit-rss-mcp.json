@@ -1,0 +1,7 @@
+{
+  "name": "reddit-rss-mcp",
+  "description": "A dependency-free MCP server that reads Reddit through its RSS feeds, enabling search, browsing subreddits, and reading post comments without any API keys or authentication.",
+  "source_repo": "ninjackster/reddit-rss-mcp",
+  "source_url": "https://github.com/ninjackster/reddit-rss-mcp",
+  "install": "npx -y reddit-rss-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cybersecurity-threat-intelligence-mcp",
+  "description": "Provides CVE search enriched with EPSS exploit likelihood and CISA KEV status, plus live IP/domain reputation and a real-time threat feed for AI agents.",
+  "source_repo": "FoundryNet/cyber-intel-mcp",
+  "source_url": "https://github.com/FoundryNet/cyber-intel-mcp",
+  "install": "npx -y cyber-intel-mcp"
+}

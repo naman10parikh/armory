@@ -1,0 +1,7 @@
+{
+  "name": "cold-mail-agent-mcp",
+  "description": "Provides context-aware cold outreach guidance for AI clients via a single tool, cold_email_guidance, helping draft personalized and effective emails.",
+  "source_repo": "emSoumik/cold-mail-agent-mcp",
+  "source_url": "https://github.com/emSoumik/cold-mail-agent-mcp",
+  "install": "npx -y cold-mail-agent-mcp"
+}

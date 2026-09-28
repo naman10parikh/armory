@@ -1,0 +1,7 @@
+{
+  "name": "sully-tarot-mcp",
+  "description": "Enables stateless tarot card draws for character-led readings, with support for single, three-card, and relationship spreads, and generates SullyOS HTML cards for display.",
+  "source_repo": "Xiaoran71/sully-tarot-mcp",
+  "source_url": "https://github.com/Xiaoran71/sully-tarot-mcp",
+  "install": "npx -y sully-tarot-mcp"
+}

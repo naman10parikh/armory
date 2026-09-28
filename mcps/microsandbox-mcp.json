@@ -1,0 +1,7 @@
+{
+  "name": "microsandbox-mcp",
+  "description": "Connects AI agents to microsandbox for creating lightweight sandboxes, executing code, managing files, and monitoring resources.",
+  "source_repo": "superradcompany/microsandbox-mcp",
+  "source_url": "https://github.com/superradcompany/microsandbox-mcp",
+  "install": "npx -y microsandbox-mcp"
+}

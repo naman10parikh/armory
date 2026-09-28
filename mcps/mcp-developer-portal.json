@@ -1,0 +1,7 @@
+{
+  "name": "mcp-developer-portal",
+  "description": "MCP server wrapping Backstage — query service catalog, fetch TechDocs, and scaffold services via AI agents.",
+  "source_repo": "brianpelow/mcp-developer-portal",
+  "source_url": "https://github.com/brianpelow/mcp-developer-portal",
+  "install": "# git clone --depth 1 https://github.com/brianpelow/mcp-developer-portal\n# See source for mcpServers config block"
+}

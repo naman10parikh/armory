@@ -1,0 +1,7 @@
+{
+  "name": "datacenter-mcp-server",
+  "description": "Provides professional-grade data center engineering calculations including cooling, power, GPU thermal optimization, UPS/battery sizing, tier classification, and commissioning workflows, compliant with ASHRAE and Uptime Institute standards.",
+  "source_repo": "log-wade/datacenter-mcp-server",
+  "source_url": "https://github.com/log-wade/datacenter-mcp-server",
+  "install": "npx -y datacenter-mcp-server"
+}

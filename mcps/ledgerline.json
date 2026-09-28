@@ -1,0 +1,7 @@
+{
+  "name": "ledgerline",
+  "description": "An MCP server that integrates with DataHub to track and score the reliability of AI agent actions. It provides a trust gateway that stamps every piece of context with its author's settled trust score.",
+  "source_repo": "cnpierrepapi/ledgerline-ai",
+  "source_url": "https://github.com/cnpierrepapi/ledgerline-ai",
+  "install": "# git clone --depth 1 https://github.com/cnpierrepapi/ledgerline-ai\n# See source for mcpServers config block"
+}

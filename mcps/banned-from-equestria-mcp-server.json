@@ -1,0 +1,7 @@
+{
+  "name": "banned-from-equestria-mcp-server",
+  "description": "Read-only MCP server exposing game rules, official links, and FAQ for the Banned from Equestria fan archive.",
+  "source_repo": "rocnubie/bannedfromequiti-mcp",
+  "source_url": "https://github.com/rocnubie/bannedfromequiti-mcp",
+  "install": "npx -y bannedfromequiti-mcp"
+}

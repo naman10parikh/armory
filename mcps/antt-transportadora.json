@@ -1,0 +1,7 @@
+{
+  "name": "antt-transportadora",
+  "description": "MCP server for checking the regulatory status of freight carriers licensed by ANTT (Brazilian National Land Transport Agency) using CPF, CNPJ, or RNTRC. Read-only tool that works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/antt_transportadora-mcp",
+  "source_url": "https://github.com/mcp-dir/antt_transportadora-mcp",
+  "install": "npx -y antt_transportadora-mcp"
+}

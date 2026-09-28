@@ -1,0 +1,7 @@
+{
+  "name": "grimoire-beholder-mcp",
+  "description": "An MCP server that exposes a fully offline RAG library of books (PDFs, EPUBs, markdown, text) to Claude, enabling hybrid search and retrieval of contextualized chunks via read-only tools.",
+  "source_repo": "Palanx/grimoire-beholder-mcp",
+  "source_url": "https://github.com/Palanx/grimoire-beholder-mcp",
+  "install": "npx -y grimoire-beholder-mcp"
+}

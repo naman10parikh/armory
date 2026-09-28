@@ -1,0 +1,7 @@
+{
+  "name": "university-microsoft-365-read-only-mcp",
+  "description": "A read-only MCP server that exposes Outlook mailbox tools (list, search, get messages) for university Microsoft 365 via Power Automate, enabling secure querying of mailbox data without direct Graph authentication.",
+  "source_repo": "hayatosc/microsoft-bypass-mcp",
+  "source_url": "https://github.com/hayatosc/microsoft-bypass-mcp",
+  "install": "npx -y microsoft-bypass-mcp"
+}

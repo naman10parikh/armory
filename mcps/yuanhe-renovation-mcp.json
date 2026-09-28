@@ -1,0 +1,7 @@
+{
+  "name": "yuanhe-renovation-mcp",
+  "description": "Enables AI agents to perform renovation tasks such as calculating tile quantities and listing common tile sizes.",
+  "source_repo": "gn00356339-cmyk/yuanhe-renovation-mcp",
+  "source_url": "https://github.com/gn00356339-cmyk/yuanhe-renovation-mcp",
+  "install": "npx -y yuanhe-renovation-mcp"
+}

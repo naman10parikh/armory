@@ -1,0 +1,7 @@
+{
+  "name": "smbaios-mcp",
+  "description": "MCP server for the foldkit SDK, exposing tools for fold state manipulation, kappa band classification, and fold operations, along with resources for the prime spine, bands, ops, and constants.",
+  "source_repo": "sjgant80-hub/smbaios-mcp",
+  "source_url": "https://github.com/sjgant80-hub/smbaios-mcp",
+  "install": "npx -y smbaios-mcp"
+}

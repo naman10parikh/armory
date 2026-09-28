@@ -1,0 +1,7 @@
+{
+  "name": "awesome-awesome",
+  "description": "MCP server that helps discover and rank libraries from awesome lists by tech stack and category, using a state-machine workflow to find relevant sections and present ranked repos.",
+  "source_repo": "DimDoremy/awesome-awesome",
+  "source_url": "https://github.com/DimDoremy/awesome-awesome",
+  "install": "# git clone --depth 1 https://github.com/DimDoremy/awesome-awesome\n# See source for mcpServers config block"
+}

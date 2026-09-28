@@ -1,0 +1,7 @@
+{
+  "name": "pixelsmith",
+  "description": "An MCP server that lets AI agents create, edit, and animate pixel-art sprites, with PNG previews after every step and support for export to GIF/APNG/spritesheets.",
+  "source_repo": "liamlz11/pixelsmith",
+  "source_url": "https://github.com/liamlz11/pixelsmith",
+  "install": "# git clone --depth 1 https://github.com/liamlz11/pixelsmith\n# See source for mcpServers config block"
+}

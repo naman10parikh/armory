@@ -1,0 +1,7 @@
+{
+  "name": "osmos-marketing-api-mcp-server",
+  "description": "Exposes the OSMOS Marketing API registry as callable MCP tools, enabling AI agents to discover endpoints and make real API calls with authentication headers and campaign hierarchy support.",
+  "source_repo": "mdkulkarni2005/osmos-marketing-mcp",
+  "source_url": "https://github.com/mdkulkarni2005/osmos-marketing-mcp",
+  "install": "npx -y osmos-marketing-mcp"
+}

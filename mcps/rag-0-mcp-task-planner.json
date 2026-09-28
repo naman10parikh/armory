@@ -1,0 +1,7 @@
+{
+  "name": "rag-0-mcp-task-planner",
+  "description": "A local Python MCP server that creates a GitHub issue, Notion task page, and Google Calendar event from a single task description, enabling project management across multiple platforms.",
+  "source_repo": "yazeedbesher12/MCP_Server",
+  "source_url": "https://github.com/yazeedbesher12/MCP_Server",
+  "install": "# git clone --depth 1 https://github.com/yazeedbesher12/MCP_Server\n# See source for mcpServers config block"
+}

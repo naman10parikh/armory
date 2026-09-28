@@ -1,0 +1,7 @@
+{
+  "name": "appstore-mockup-mcp",
+  "description": "Wraps app screenshots in an iPhone 16 Pro frame with marketing text to produce App Store-ready preview images.",
+  "source_repo": "rishabhdavesar/appstore-screenshot-generator-mcp",
+  "source_url": "https://github.com/rishabhdavesar/appstore-screenshot-generator-mcp",
+  "install": "npx -y appstore-screenshot-generator-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-financex",
+  "description": "Comprehensive MCP server for real-time stock, cryptocurrency, options, and fundamental analysis, including SEC filings and insider trading data.",
+  "source_repo": "xerktech/mcp-financex",
+  "source_url": "https://github.com/xerktech/mcp-financex",
+  "install": "# git clone --depth 1 https://github.com/xerktech/mcp-financex\n# See source for mcpServers config block"
+}

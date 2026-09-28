@@ -1,0 +1,7 @@
+{
+  "name": "wisel-mcp",
+  "description": "This MCP server provides an editorial bridge to Wisel.my, allowing health checks, story management (list, get, create draft, update, publish, and schedule) through the Wisel API over HTTPS.",
+  "source_repo": "khusairy/wisel-mcp",
+  "source_url": "https://github.com/khusairy/wisel-mcp",
+  "install": "npx -y wisel-mcp"
+}

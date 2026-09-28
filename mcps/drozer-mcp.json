@@ -1,0 +1,7 @@
+{
+  "name": "drozer-mcp",
+  "description": "MCP server wrapping Drozer for LLM-driven Android IPC security testing, enabling autonomous enumeration and exploitation of app components via natural language.",
+  "source_repo": "prathx0/drozer-mcp",
+  "source_url": "https://github.com/prathx0/drozer-mcp",
+  "install": "npx -y drozer-mcp"
+}

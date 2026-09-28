@@ -1,0 +1,7 @@
+{
+  "name": "budget-governor",
+  "description": "Budget & cost control for AI agents: hard per-agent spend caps, rate limits, idempotency, and human-in-the-loop approval — enforced before each LLM call, not after the invoice. One hosted MCP endpoint (no proxy or self-hosting), settled via x402 (USDC on Base).",
+  "source_repo": "mightbesaad/gvnr",
+  "source_url": "https://github.com/mightbesaad/gvnr",
+  "install": "# git clone --depth 1 https://github.com/mightbesaad/gvnr\n# See source for mcpServers config block"
+}

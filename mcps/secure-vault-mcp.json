@@ -1,0 +1,7 @@
+{
+  "name": "secure-vault-mcp",
+  "description": "MCP server for agent-native secrets management that stores encrypted secrets with AES-256-GCM, issues short-lived scoped tokens, and injects secrets into requests server-side so agents never handle plaintext credentials.",
+  "source_repo": "mdfifty50-boop/secure-vault-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/secure-vault-mcp",
+  "install": "npx -y secure-vault-mcp"
+}

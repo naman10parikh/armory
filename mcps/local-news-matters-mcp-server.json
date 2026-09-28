@@ -1,0 +1,7 @@
+{
+  "name": "local-news-matters-mcp-server",
+  "description": "A read-only MCP server that exposes articles and photos from Local News Matters via the WordPress REST API, enabling search and retrieval through tools and resources.",
+  "source_repo": "rnakashima1/localnewsmatters-mcp",
+  "source_url": "https://github.com/rnakashima1/localnewsmatters-mcp",
+  "install": "npx -y localnewsmatters-mcp"
+}

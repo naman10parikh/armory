@@ -1,0 +1,7 @@
+{
+  "name": "mcpstrike",
+  "description": "MCP server that connects an LLM via Ollama to security tools for autonomous or guided penetration testing from a terminal interface.",
+  "source_repo": "ente0/mcpstrike",
+  "source_url": "https://github.com/ente0/mcpstrike",
+  "install": "# git clone --depth 1 https://github.com/ente0/mcpstrike\n# See source for mcpServers config block"
+}

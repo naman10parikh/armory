@@ -1,0 +1,7 @@
+{
+  "name": "kardv5-mcp",
+  "description": "MCP server for foldkit — exposes the 7-prime spine, 7 κ-bands, and 6 fold operations as native tools + resources in any MCP client.",
+  "source_repo": "sjgant80-hub/kardv5-mcp",
+  "source_url": "https://github.com/sjgant80-hub/kardv5-mcp",
+  "install": "npx -y kardv5-mcp"
+}

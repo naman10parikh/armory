@@ -1,0 +1,7 @@
+{
+  "name": "postgres-mcp-3",
+  "description": "MCP server for PostgreSQL that enables Cursor and other MCP clients to execute SQL queries, list tables, and explore database schemas via HTTP.",
+  "source_repo": "jmluque72/postgres-mcp",
+  "source_url": "https://github.com/jmluque72/postgres-mcp",
+  "install": "npx -y postgres-mcp"
+}

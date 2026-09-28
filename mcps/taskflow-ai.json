@@ -1,0 +1,7 @@
+{
+  "name": "taskflow-ai",
+  "description": "TaskFlow AI is a premium MCP Server designed for AI editors, offering 40+ built-in tools covering file system, HTTP requests, databases, Git operations, and more.",
+  "source_repo": "Agions/taskflow-ai",
+  "source_url": "https://github.com/Agions/taskflow-ai",
+  "install": "# git clone --depth 1 https://github.com/Agions/taskflow-ai\n# See source for mcpServers config block"
+}

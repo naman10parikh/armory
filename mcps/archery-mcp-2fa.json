@@ -1,0 +1,7 @@
+{
+  "name": "archery-mcp-2fa",
+  "description": "MCP server that adds TOTP two-factor authentication support to Archery MCP, enabling secure login for Archery accounts with 2FA enabled.",
+  "source_repo": "Auxior/archery-mcp-2fa",
+  "source_url": "https://github.com/Auxior/archery-mcp-2fa",
+  "install": "# git clone --depth 1 https://github.com/Auxior/archery-mcp-2fa\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "neoenergia-elektro-download",
+  "description": "This MCP server enables users to query and download Neoenergia (Elektro) electricity bills from the official source, offering a read-only consultation tool compatible with any MCP client.",
+  "source_repo": "mcp-dir/contas_neoenergia_download-mcp",
+  "source_url": "https://github.com/mcp-dir/contas_neoenergia_download-mcp",
+  "install": "npx -y contas_neoenergia_download-mcp"
+}

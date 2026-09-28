@@ -1,0 +1,7 @@
+{
+  "name": "amazon-q-cli-mcp-server",
+  "description": "Wraps the Amazon Q CLI to enable MCP hosts to interact with Amazon Q's AI capabilities for chat, command translation, and status checks.",
+  "source_repo": "yanggf8/amazon-q-cli-mcp-server",
+  "source_url": "https://github.com/yanggf8/amazon-q-cli-mcp-server",
+  "install": "npx -y amazon-q-cli-mcp-server"
+}

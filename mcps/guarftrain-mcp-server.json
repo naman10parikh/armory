@@ -1,0 +1,7 @@
+{
+  "name": "guarftrain-mcp-server",
+  "description": "Enables external agents to monitor and control ML training runs via 35 MCP tools. Covers training status, checkpoints, experiments, recovery, and dashboard configuration.",
+  "source_repo": "Washington5533/guarftrain",
+  "source_url": "https://github.com/Washington5533/guarftrain",
+  "install": "# git clone --depth 1 https://github.com/Washington5533/guarftrain\n# See source for mcpServers config block"
+}

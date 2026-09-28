@@ -1,0 +1,7 @@
+{
+  "name": "kjv-bible-mcp-server",
+  "description": "Enables Claude.ai to access and retrieve Bible verses, passages, chapters, and lists of books or translations from public domain versions like KJV, using the free bible-api.com.",
+  "source_repo": "saficky98/kjv-bible-mcp-server",
+  "source_url": "https://github.com/saficky98/kjv-bible-mcp-server",
+  "install": "npx -y kjv-bible-mcp-server"
+}

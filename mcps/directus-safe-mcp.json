@@ -1,0 +1,7 @@
+{
+  "name": "directus-safe-mcp",
+  "description": "A schema-aware, dry-run/verify-guarded MCP sidecar that wraps the Directus REST API with safety features like collection allowlists, batch limits, and mutation verification, enabling secure and LLM-friendly data operations.",
+  "source_repo": "asukakimya/directus-mcp",
+  "source_url": "https://github.com/asukakimya/directus-mcp",
+  "install": "npx -y directus-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fleetstreet",
+  "description": "Remote MCP server for the fleetstreet creator platform, enabling AI agents to register creative works, issue/revoke AI licences, access compliance evidence, and manage a creator business (catalog, merch, events) via 46 tools.",
+  "source_repo": "jyswee/fleetstreet",
+  "source_url": "https://github.com/jyswee/fleetstreet",
+  "install": "# git clone --depth 1 https://github.com/jyswee/fleetstreet\n# See source for mcpServers config block"
+}

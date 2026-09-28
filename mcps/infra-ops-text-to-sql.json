@@ -1,0 +1,7 @@
+{
+  "name": "infra-ops-text-to-sql",
+  "description": "Translates plain English questions about infrastructure operations into SQL queries, executes them against a database, and returns the real answer.",
+  "source_repo": "Nirusha-19/infra-ops-text-to-sql-qlora-mcp",
+  "source_url": "https://github.com/Nirusha-19/infra-ops-text-to-sql-qlora-mcp",
+  "install": "npx -y infra-ops-text-to-sql-qlora-mcp"
+}

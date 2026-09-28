@@ -1,0 +1,7 @@
+{
+  "name": "citation-mcp",
+  "description": "Remote MCP server exposing the CounselStack citation engine as nine legal research tools, enabling read-only citation lookup, statute search, and case text retrieval through Claude.",
+  "source_repo": "rafael6104/citation-mcp-server",
+  "source_url": "https://github.com/rafael6104/citation-mcp-server",
+  "install": "npx -y citation-mcp-server"
+}

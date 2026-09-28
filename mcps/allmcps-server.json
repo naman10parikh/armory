@@ -1,0 +1,7 @@
+{
+  "name": "allmcps-server",
+  "description": "Official local MCP server for AllMCPs.com, enabling users to submit MCP servers to the directory directly from MCP-compatible agents.",
+  "source_repo": "Jackalope-Dev/allmcps-server",
+  "source_url": "https://github.com/Jackalope-Dev/allmcps-server",
+  "install": "# git clone --depth 1 https://github.com/Jackalope-Dev/allmcps-server\n# See source for mcpServers config block"
+}

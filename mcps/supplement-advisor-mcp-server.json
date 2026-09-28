@@ -1,0 +1,7 @@
+{
+  "name": "supplement-advisor-mcp-server",
+  "description": "Evidence-based supplement recommendation MCP server covering 17 supplements and 40+ conditions with medication interaction checking and form quality classification.",
+  "source_repo": "erinheit451/supplement-advisor-mcp",
+  "source_url": "https://github.com/erinheit451/supplement-advisor-mcp",
+  "install": "npx -y supplement-advisor-mcp"
+}

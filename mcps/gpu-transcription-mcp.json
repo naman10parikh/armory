@@ -1,0 +1,7 @@
+{
+  "name": "gpu-transcription-mcp",
+  "description": "Enables MCP-aware agents to queue and run faster-whisper transcription jobs on a shared GPU, with tools to submit audio, poll job status, cancel jobs, and inspect queue status.",
+  "source_repo": "ollayf/gpu-transcription-mcp",
+  "source_url": "https://github.com/ollayf/gpu-transcription-mcp",
+  "install": "npx -y gpu-transcription-mcp"
+}

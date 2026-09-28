@@ -1,0 +1,7 @@
+{
+  "name": "smartpark-reservation-mcp-server",
+  "description": "Enables administrators to securely record approved parking reservations to a durable text file with validation, concurrency safety, and audit logging.",
+  "source_repo": "polloter130/Process-confirmed-reservation-by-using-MCP-server-STAGE-3",
+  "source_url": "https://github.com/polloter130/Process-confirmed-reservation-by-using-MCP-server-STAGE-3",
+  "install": "# git clone --depth 1 https://github.com/polloter130/Process-confirmed-reservation-by-using-MCP-server-STAGE-3\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "senscritique-bridge",
+  "description": "MCP server enabling search and retrieval of public SensCritique data, including works, user profiles, and collections.",
+  "source_repo": "kabylesystem/senscritique-bridge",
+  "source_url": "https://github.com/kabylesystem/senscritique-bridge",
+  "install": "# git clone --depth 1 https://github.com/kabylesystem/senscritique-bridge\n# See source for mcpServers config block"
+}

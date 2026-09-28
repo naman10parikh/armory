@@ -1,0 +1,7 @@
+{
+  "name": "opencode-mysql-connector",
+  "description": "A MySQL MCP server providing tools to query and explore MySQL databases via stdio transport.",
+  "source_repo": "siimleetberg/mysql_connector_mcp",
+  "source_url": "https://github.com/siimleetberg/mysql_connector_mcp",
+  "install": "npx -y mysql_connector_mcp"
+}

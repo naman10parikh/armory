@@ -1,0 +1,7 @@
+{
+  "name": "rasattrading-mcp",
+  "description": "A Binance price-action and liquidity-focused MCP server for AI agents, offering 39 tools for market data, analysis, screening, alerts, and order execution with paper-first safety and optional real trading.",
+  "source_repo": "saldraykee22/rasattrading-mcp",
+  "source_url": "https://github.com/saldraykee22/rasattrading-mcp",
+  "install": "npx -y rasattrading-mcp"
+}

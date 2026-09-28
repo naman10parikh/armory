@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-pe-certid-o-negativa-de-d-bitos",
+  "description": "Enables consulting SEFAZ PE negative debt certificates from an official source, using a single read-only tool. Works with any MCP client and charges per use with prepaid credits.",
+  "source_repo": "mcp-dir/sefaz_pe_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_pe_certidao_debitos-mcp",
+  "install": "npx -y sefaz_pe_certidao_debitos-mcp"
+}

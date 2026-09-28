@@ -1,0 +1,7 @@
+{
+  "name": "steam-trends-mcp",
+  "description": "Track concurrent player counts and game momentum for any title on Steam via AI assistants.",
+  "source_repo": "trendsmcp/steam-trends-mcp",
+  "source_url": "https://github.com/trendsmcp/steam-trends-mcp",
+  "install": "npx -y steam-trends-mcp"
+}

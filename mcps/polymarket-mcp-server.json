@@ -1,0 +1,7 @@
+{
+  "name": "polymarket-mcp-server",
+  "description": "Enables AI assistants to interact with Polymarket prediction markets, including retrieving market data, user positions, and trading history.",
+  "source_repo": "guangxiangdebizi/PolyMarket-MCP",
+  "source_url": "https://github.com/guangxiangdebizi/PolyMarket-MCP",
+  "install": "npx -y PolyMarket-MCP"
+}

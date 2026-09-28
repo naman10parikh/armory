@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tjdf-nada-consta",
+  "description": "MCP server for consulting official 'nada consta' certificates from Tribunal TJDF. It is hosted, read-only, and works with any MCP client over HTTP via prepaid credits.",
+  "source_repo": "mcp-dir/tribunal_tjdf_nada_consta-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tjdf_nada_consta-mcp",
+  "install": "npx -y tribunal_tjdf_nada_consta-mcp"
+}

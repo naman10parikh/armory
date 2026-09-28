@@ -1,0 +1,7 @@
+{
+  "name": "last-fm-taste-mcp",
+  "description": "Provides Last.fm listening analytics and recommendations by combining Last.fm and MusicBrainz metadata, maintaining a local listening index, and recording explicit preferences. Enables queries for listening summaries, taste profiles, artist context, and evidence-backed recommendations via MCP tools.",
+  "source_repo": "sptmru/lastfm-mcp",
+  "source_url": "https://github.com/sptmru/lastfm-mcp",
+  "install": "npx -y lastfm-mcp"
+}

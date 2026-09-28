@@ -1,0 +1,7 @@
+{
+  "name": "test-emp-database-mcp",
+  "description": "An employee-analytics MCP server backed by SQLite with pre-seeded sample data, providing tools for common SQL analytics such as top N earners, department averages, window functions, and subqueries.",
+  "source_repo": "EESHAN-ANAND/test-employee-database-mcp",
+  "source_url": "https://github.com/EESHAN-ANAND/test-employee-database-mcp",
+  "install": "npx -y test-employee-database-mcp"
+}

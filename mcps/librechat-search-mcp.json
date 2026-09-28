@@ -1,0 +1,7 @@
+{
+  "name": "librechat-search-mcp",
+  "description": "Enables LibreChat AI agents to search indexed message history and conversations via MCP tools, with user-scoped access and optional admin search, augmenting memory while reducing context loss.",
+  "source_repo": "krahnikblis/librechat-search-mcp",
+  "source_url": "https://github.com/krahnikblis/librechat-search-mcp",
+  "install": "npx -y librechat-search-mcp"
+}

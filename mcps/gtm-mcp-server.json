@@ -1,0 +1,7 @@
+{
+  "name": "gtm-mcp-server",
+  "description": "A unified MCP server that connects HubSpot, Clay, Apollo, Slack, and email to enable AI agents to execute multi-step GTM workflows such as prospecting, enrichment, CRM updates, and notifications.",
+  "source_repo": "dylanottinger/gtm-mcp-server",
+  "source_url": "https://github.com/dylanottinger/gtm-mcp-server",
+  "install": "npx -y gtm-mcp-server"
+}

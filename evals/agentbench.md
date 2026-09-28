@@ -7,7 +7,7 @@ license: MIT
 ---
 # agentbench
 
-Use to put a number on harness quality — run an agent harness against a task set and get a score — so harness changes are validated by evidence, the eval backbone of a self-improving loop.
+Use to put a number on harness quality: run an agent harness against a task set and get a score, so harness changes are validated by evidence. It is the eval backbone of a self-improving loop.
 
 **Source:** https://github.com/naman10parikh/agentbench
 

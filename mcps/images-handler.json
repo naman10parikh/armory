@@ -1,0 +1,7 @@
+{
+  "name": "images-handler",
+  "description": "MCP server that grants text-only LLMs like DeepSeek the ability to 'see' images by leveraging a Cursor agent to convert images into text descriptions.",
+  "source_repo": "yuzhaoyang001/my_mcps-image-handler",
+  "source_url": "https://github.com/yuzhaoyang001/my_mcps-image-handler",
+  "install": "# git clone --depth 1 https://github.com/yuzhaoyang001/my_mcps-image-handler\n# See source for mcpServers config block"
+}

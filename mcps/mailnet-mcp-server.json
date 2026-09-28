@@ -1,0 +1,7 @@
+{
+  "name": "mailnet-mcp-server",
+  "description": "Unified email orchestration server for Gmail and Outlook with agentic tools for sending, reading, searching, and managing emails, enabling assistant-driven email workflows.",
+  "source_repo": "Astroa7m/MailNet-MCP-Server",
+  "source_url": "https://github.com/Astroa7m/MailNet-MCP-Server",
+  "install": "npx -y MailNet-MCP-Server"
+}

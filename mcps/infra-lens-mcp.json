@@ -1,0 +1,7 @@
+{
+  "name": "infra-lens-mcp",
+  "description": "Enables explaining Linux incidents over SSH with baseline-aware MCP tooling, including live diagnostics, SQLite history, and review-first workflows.",
+  "source_repo": "oaslananka/infra-lens-mcp",
+  "source_url": "https://github.com/oaslananka/infra-lens-mcp",
+  "install": "npx -y infra-lens-mcp"
+}

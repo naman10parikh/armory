@@ -1,0 +1,7 @@
+{
+  "name": "security-intel-mcp",
+  "description": "Vulnerability intelligence for AI agents that enables CVE lookup, package vulnerability checks, and dependency auditing without API keys.",
+  "source_repo": "datakoot/security-intel-mcp",
+  "source_url": "https://github.com/datakoot/security-intel-mcp",
+  "install": "npx -y security-intel-mcp"
+}

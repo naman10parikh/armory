@@ -1,0 +1,7 @@
+{
+  "name": "secureflows-mcp-server",
+  "description": "Cloud-deployable MCP server exposing secureFlows' OpenAPI operations (tagged ai-safe/ai-optional) as MCP tools, plus static helper tools like login URL building and integration linting for coding agents.",
+  "source_repo": "michal-lefler/secureflows-mcp-server",
+  "source_url": "https://github.com/michal-lefler/secureflows-mcp-server",
+  "install": "npx -y secureflows-mcp-server"
+}

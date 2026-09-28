@@ -1,0 +1,7 @@
+{
+  "name": "ppt-mcp",
+  "description": "An MCP server that provides real-time control of Microsoft PowerPoint via COM automation, enabling AI agents to create and edit presentations with 155 tools across 26 categories.",
+  "source_repo": "ykuwai/ppt-mcp",
+  "source_url": "https://github.com/ykuwai/ppt-mcp",
+  "install": "npx -y ppt-mcp"
+}

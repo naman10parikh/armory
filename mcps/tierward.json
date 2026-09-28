@@ -1,0 +1,7 @@
+{
+  "name": "tierward",
+  "description": "Tierward is a development framework that governs Claude Code sessions through a tiered pipeline with STOP gates, audit skills, and test enforcement, enabling teams to review and approve AI-generated code before merging.",
+  "source_repo": "marcoguillermaz/Tierward",
+  "source_url": "https://github.com/marcoguillermaz/Tierward",
+  "install": "# git clone --depth 1 https://github.com/marcoguillermaz/Tierward\n# See source for mcpServers config block"
+}

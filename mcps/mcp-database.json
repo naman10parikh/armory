@@ -1,0 +1,7 @@
+{
+  "name": "mcp-database",
+  "description": "MCP server for connecting to databases (PostgreSQL, MySQL, SQL Server, Redis) enabling SQL queries, table exploration, and Redis key-value operations.",
+  "source_repo": "justpoypoy/mcp-database",
+  "source_url": "https://github.com/justpoypoy/mcp-database",
+  "install": "# git clone --depth 1 https://github.com/justpoypoy/mcp-database\n# See source for mcpServers config block"
+}

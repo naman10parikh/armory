@@ -1,0 +1,7 @@
+{
+  "name": "mcp-archimate-server",
+  "description": "Enables AI assistants to read and write ArchiMate models stored in CoArchi XML format. Query elements, create relationships, design diagrams, and sync changes to Git through natural language.",
+  "source_repo": "dqxorg/mcp-archimate",
+  "source_url": "https://github.com/dqxorg/mcp-archimate",
+  "install": "# git clone --depth 1 https://github.com/dqxorg/mcp-archimate\n# See source for mcpServers config block"
+}

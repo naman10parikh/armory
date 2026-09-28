@@ -1,0 +1,7 @@
+{
+  "name": "ldap-mcp",
+  "description": "MCP server for read-only LDAP directory operations, enabling search, entry retrieval, schema browsing, and comparison via natural language.",
+  "source_repo": "major/ldap-mcp",
+  "source_url": "https://github.com/major/ldap-mcp",
+  "install": "npx -y ldap-mcp"
+}

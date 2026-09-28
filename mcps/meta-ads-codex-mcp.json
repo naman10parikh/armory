@@ -1,0 +1,7 @@
+{
+  "name": "meta-ads-codex-mcp",
+  "description": "A local MCP server that lets Codex answer conversational questions about Meta Ads performance. It provides read-only tools for listing ad accounts, checking active ads, and summarizing account performance.",
+  "source_repo": "mariocodesforfun/meta_ads_codex_mcp",
+  "source_url": "https://github.com/mariocodesforfun/meta_ads_codex_mcp",
+  "install": "npx -y meta_ads_codex_mcp"
+}

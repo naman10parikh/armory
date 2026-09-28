@@ -1,0 +1,7 @@
+{
+  "name": "app-generation-microservice",
+  "description": "Generates compiled Flutter apps from JSON Product Requirements Documents. Exposes endpoints for PRD validation, schema, payment terms, and build status.",
+  "source_repo": "carlosge492/app-generation-microservice",
+  "source_url": "https://github.com/carlosge492/app-generation-microservice",
+  "install": "# git clone --depth 1 https://github.com/carlosge492/app-generation-microservice\n# See source for mcpServers config block"
+}

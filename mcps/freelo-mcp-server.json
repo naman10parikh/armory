@@ -1,0 +1,7 @@
+{
+  "name": "freelo-mcp-server",
+  "description": "An unofficial MCP server that integrates Freelo project management with AI assistants (e.g., Cline, Claude) via the Freelo API, enabling task, project, and comment management through natural language.",
+  "source_repo": "m-HLPR/freelo-mcp",
+  "source_url": "https://github.com/m-HLPR/freelo-mcp",
+  "install": "npx -y freelo-mcp"
+}

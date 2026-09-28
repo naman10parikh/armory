@@ -1,0 +1,7 @@
+{
+  "name": "mcp-metro",
+  "description": "MCP server to search for routes in the Moscow metro and calculate the duration of the trip.",
+  "source_repo": "OlliMakarova/mcp-metro",
+  "source_url": "https://github.com/OlliMakarova/mcp-metro",
+  "install": "# git clone --depth 1 https://github.com/OlliMakarova/mcp-metro\n# See source for mcpServers config block"
+}

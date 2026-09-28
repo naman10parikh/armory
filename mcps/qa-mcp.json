@@ -1,0 +1,7 @@
+{
+  "name": "qa-mcp",
+  "description": "Automates generation of QA artifacts such as API tests, E2E tests, and documentation exports. It supports REST Assured, Cypress, and Excel/Word document generation.",
+  "source_repo": "davidpoza/qa-mcp",
+  "source_url": "https://github.com/davidpoza/qa-mcp",
+  "install": "npx -y qa-mcp"
+}

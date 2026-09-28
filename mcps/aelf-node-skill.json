@@ -1,0 +1,7 @@
+{
+  "name": "aelf-node-skill",
+  "description": "Enables interaction with AElf blockchain nodes, allowing users to read chain status, execute contract transactions, and manage custom nodes through MCP, CLI, or SDK.",
+  "source_repo": "AElfProject/aelf-node-skill",
+  "source_url": "https://github.com/AElfProject/aelf-node-skill",
+  "install": "# git clone --depth 1 https://github.com/AElfProject/aelf-node-skill\n# See source for mcpServers config block"
+}

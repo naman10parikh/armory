@@ -1,0 +1,7 @@
+{
+  "name": "mcp-duckduckgo",
+  "description": "Enables AI assistants to search the internet using DuckDuckGo and extract clean, formatted content from web pages.",
+  "source_repo": "AstroCorp/MCP-DuckDuckGo",
+  "source_url": "https://github.com/AstroCorp/MCP-DuckDuckGo",
+  "install": "# git clone --depth 1 https://github.com/AstroCorp/MCP-DuckDuckGo\n# See source for mcpServers config block"
+}

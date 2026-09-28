@@ -1,0 +1,7 @@
+{
+  "name": "thinking-patterns-mcp-server",
+  "description": "Provides AI systems with structured thinking frameworks and reasoning tools to maintain consistent problem-solving patterns across conversations. Enables multi-step reasoning, decision analysis, and systematic troubleshooting through invocable mental models.",
+  "source_repo": "emmahyde/thinking-patterns",
+  "source_url": "https://github.com/emmahyde/thinking-patterns",
+  "install": "# git clone --depth 1 https://github.com/emmahyde/thinking-patterns\n# See source for mcpServers config block"
+}

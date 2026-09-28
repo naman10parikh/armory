@@ -1,0 +1,7 @@
+{
+  "name": "tlaloc-mcp-server",
+  "description": "Provides AI assistants with live, authenticated access to official Mexican data sources including CURP, RFC, postal codes, phone numbers, SPEI payments, CFDI status, DOF semantic search, and geocoding via INEGI/INE.",
+  "source_repo": "tlaloc-sh/tlaloc-mcp",
+  "source_url": "https://github.com/tlaloc-sh/tlaloc-mcp",
+  "install": "npx -y tlaloc-mcp"
+}

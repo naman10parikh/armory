@@ -1,0 +1,7 @@
+{
+  "name": "sq-cli-gpt-mcp",
+  "description": "Private MCP server that enables a single GitHub identity to run Codex Security CLI scans on registered repositories, with OAuth authentication and a web-based cockpit UI.",
+  "source_repo": "itsimonfredlingjack/sq-cli-gpt-mcp",
+  "source_url": "https://github.com/itsimonfredlingjack/sq-cli-gpt-mcp",
+  "install": "npx -y sq-cli-gpt-mcp"
+}

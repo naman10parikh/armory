@@ -1,0 +1,7 @@
+{
+  "name": "fallmortgagepaper-mcp",
+  "description": "MCP server exposing foldkit's 7-prime spine, κ-bands, and fold operations as tools and resources for AI assistants, enabling fold arithmetic, band classification, and state transformations.",
+  "source_repo": "sjgant80-hub/fallmortgagepaper-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallmortgagepaper-mcp",
+  "install": "npx -y fallmortgagepaper-mcp"
+}

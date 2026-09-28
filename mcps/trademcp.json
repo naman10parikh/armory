@@ -1,0 +1,7 @@
+{
+  "name": "trademcp",
+  "description": "An MCP server that exposes trading analytics — technical indicators, portfolio state, risk metrics, and backtest results — as tools an LLM agent can call.",
+  "source_repo": "Aaditya2502/trade-mcp",
+  "source_url": "https://github.com/Aaditya2502/trade-mcp",
+  "install": "npx -y trade-mcp"
+}

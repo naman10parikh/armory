@@ -1,0 +1,7 @@
+{
+  "name": "youtube-transcript-index",
+  "description": "Provides MCP tools for fetching timestamped YouTube transcripts and top comments, scanning spreadsheets for video links, and a local web UI for grounded video summaries.",
+  "source_repo": "theresayao0614-sudo/youtube-transcript-index",
+  "source_url": "https://github.com/theresayao0614-sudo/youtube-transcript-index",
+  "install": "# git clone --depth 1 https://github.com/theresayao0614-sudo/youtube-transcript-index\n# See source for mcpServers config block"
+}

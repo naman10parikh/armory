@@ -1,0 +1,7 @@
+{
+  "name": "readgzh",
+  "description": "Enables AI to read full-text WeChat Official Account articles, returning title, author, publish time, and clean Markdown content.",
+  "source_repo": "sweesama/readgzh",
+  "source_url": "https://github.com/sweesama/readgzh",
+  "install": "# git clone --depth 1 https://github.com/sweesama/readgzh\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-customer-support-example",
+  "description": "Simulates a multi-tenant customer support backend with tools for profile, order, ticket, and refund management, demonstrating security controls like tenant isolation, role-based access, and input validation.",
+  "source_repo": "odelvalle/mcp-support-example",
+  "source_url": "https://github.com/odelvalle/mcp-support-example",
+  "install": "# git clone --depth 1 https://github.com/odelvalle/mcp-support-example\n# See source for mcpServers config block"
+}

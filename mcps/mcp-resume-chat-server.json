@@ -1,0 +1,7 @@
+{
+  "name": "mcp-resume-chat-server",
+  "description": "Enables chat-based interaction with resume data and sending email notifications via MCP tools.",
+  "source_repo": "HarindiNikeshala/MCP-server",
+  "source_url": "https://github.com/HarindiNikeshala/MCP-server",
+  "install": "# git clone --depth 1 https://github.com/HarindiNikeshala/MCP-server\n# See source for mcpServers config block"
+}

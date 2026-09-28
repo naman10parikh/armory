@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-control-mcp",
+  "description": "Operate the OpenClaw gateway's full management surface from any MCP client — list and trigger crons, inspect sessions, configure agents and channels, manage skills and secrets, pair devices, and more via 134 typed tools.",
+  "source_repo": "smurfy92/openclaw-control-mcp",
+  "source_url": "https://github.com/smurfy92/openclaw-control-mcp",
+  "install": "npx -y openclaw-control-mcp"
+}

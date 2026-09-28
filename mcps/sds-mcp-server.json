@@ -1,0 +1,7 @@
+{
+  "name": "sds-mcp-server",
+  "description": "MCP server that lets users search Safety Data Sheets (SDS) by chemical or product name, returning records with direct links to SDS documents.",
+  "source_repo": "cat-people-82/sds-mcp-server",
+  "source_url": "https://github.com/cat-people-82/sds-mcp-server",
+  "install": "npx -y sds-mcp-server"
+}

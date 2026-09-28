@@ -1,0 +1,7 @@
+{
+  "name": "benef-cios-sociais-pf",
+  "description": "MCP server to consolidate social benefits received by a Brazilian individual (CPF) via a single read-only tool. Works with any MCP client over HTTP, with pay-per-use pricing and no credentials.",
+  "source_repo": "mcp-dir/beneficios_sociais-mcp",
+  "source_url": "https://github.com/mcp-dir/beneficios_sociais-mcp",
+  "install": "npx -y beneficios_sociais-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-mcp-2",
+  "description": "Delegates coding tasks to the local Claude Code CLI via MCP, offering run, review, and status tools for MCP-compatible agents.",
+  "source_repo": "sarthchawla/claude-code-as-plugin",
+  "source_url": "https://github.com/sarthchawla/claude-code-as-plugin",
+  "install": "# git clone --depth 1 https://github.com/sarthchawla/claude-code-as-plugin\n# See source for mcpServers config block"
+}

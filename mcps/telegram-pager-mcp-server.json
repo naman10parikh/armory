@@ -1,0 +1,7 @@
+{
+  "name": "telegram-pager-mcp-server",
+  "description": "A specialized MCP server that allows AI coding assistants to send direct messages via your personal Telegram account.",
+  "source_repo": "ashizam/mcp-server-telegram-pager",
+  "source_url": "https://github.com/ashizam/mcp-server-telegram-pager",
+  "install": "# git clone --depth 1 https://github.com/ashizam/mcp-server-telegram-pager\n# See source for mcpServers config block"
+}

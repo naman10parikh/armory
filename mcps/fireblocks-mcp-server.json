@@ -1,0 +1,7 @@
+{
+  "name": "fireblocks-mcp-server",
+  "description": "Enables AI assistants to securely interact with Fireblocks services through the Model Context Protocol, supporting transaction management, vault and exchange account queries, network connections, and workspace user management.",
+  "source_repo": "fireblocks/fireblocks-mcp",
+  "source_url": "https://github.com/fireblocks/fireblocks-mcp",
+  "install": "npx -y fireblocks-mcp"
+}

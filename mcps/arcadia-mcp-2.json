@@ -1,0 +1,7 @@
+{
+  "name": "arcadia-mcp-2",
+  "description": "Connects to 7,000+ utilities to surface bill data, interval meter readings, and carbon calculations via the Model Context Protocol.",
+  "source_repo": "soapboxbuild/continuuiti-mcp",
+  "source_url": "https://github.com/soapboxbuild/continuuiti-mcp",
+  "install": "npx -y continuuiti-mcp"
+}

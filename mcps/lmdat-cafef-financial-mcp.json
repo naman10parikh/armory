@@ -1,0 +1,7 @@
+{
+  "name": "lmdat-cafef-financial-mcp",
+  "description": "MCP server to fetch Vietnamese corporate financial reports (balance sheet, income statement, cash flow) from cafef.vn using public API, no PDF or OCR needed.",
+  "source_repo": "lmdat/cafef-financial-mcp",
+  "source_url": "https://github.com/lmdat/cafef-financial-mcp",
+  "install": "npx -y cafef-financial-mcp"
+}

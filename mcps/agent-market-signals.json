@@ -1,0 +1,7 @@
+{
+  "name": "agent-market-signals",
+  "description": "An MCP server that provides tools to audit AI-agent marketplace integrity by scanning listings for deceptive patterns like fabricated engagement, automated seeding, self-advertisement, unpaid work risk, and high-budget bait.",
+  "source_repo": "Echolonius/agent-market-signals",
+  "source_url": "https://github.com/Echolonius/agent-market-signals",
+  "install": "# git clone --depth 1 https://github.com/Echolonius/agent-market-signals\n# See source for mcpServers config block"
+}

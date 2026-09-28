@@ -1,6 +1,6 @@
 {
   "name": "github-file-search-mcp",
-  "description": "Github File Search Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "anupj/github-file-search-mcp-",
   "source_url": "https://mcp.so/server/github-file-search-mcp-/anupj",
   "install": "# git clone --depth 1 https://mcp.so/server/github-file-search-mcp-/anupj\n# See source for mcpServers config block"

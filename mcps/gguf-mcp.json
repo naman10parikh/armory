@@ -1,0 +1,7 @@
+{
+  "name": "gguf-mcp",
+  "description": "Provides tools to inspect local GGUF and safetensors model files, returning metadata, tensor info, and VRAM estimates without reading tensor data. Enables asking natural-language questions about model architecture, quantization, size, and compatibility.",
+  "source_repo": "arose26/gguf-mcp",
+  "source_url": "https://github.com/arose26/gguf-mcp",
+  "install": "npx -y gguf-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "devflow-mcp",
+  "description": "A read-only MCP server that securely serves Jira (Server/Data Center) data to Claude Code without exposing the personal access token, with optional GitLab integration.",
+  "source_repo": "vulq-cmd/jira-dev-mcp",
+  "source_url": "https://github.com/vulq-cmd/jira-dev-mcp",
+  "install": "npx -y jira-dev-mcp"
+}

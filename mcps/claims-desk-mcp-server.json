@@ -1,0 +1,7 @@
+{
+  "name": "claims-desk-mcp-server",
+  "description": "Medicare claim documentation lookup for CPT codes against live CMS sources, returning structured requirements and document URIs with optional enrichment via RCI APIs.",
+  "source_repo": "espirado/mcp-resources-apps-demo",
+  "source_url": "https://github.com/espirado/mcp-resources-apps-demo",
+  "install": "# git clone --depth 1 https://github.com/espirado/mcp-resources-apps-demo\n# See source for mcpServers config block"
+}

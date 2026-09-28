@@ -1,0 +1,7 @@
+{
+  "name": "claude-design-studio",
+  "description": "Enables Claude Desktop to connect to Anthra Studio for AI-powered web design generation and multi-page suite management via the Model Context Protocol.",
+  "source_repo": "notyetbhai/claude-design-studio",
+  "source_url": "https://github.com/notyetbhai/claude-design-studio",
+  "install": "# git clone --depth 1 https://github.com/notyetbhai/claude-design-studio\n# See source for mcpServers config block"
+}

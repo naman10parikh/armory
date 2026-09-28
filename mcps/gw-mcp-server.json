@@ -1,0 +1,7 @@
+{
+  "name": "gw-mcp-server",
+  "description": "An MCP server providing tools to query gravitational wave data from GraceDB and GWOSC, enabling natural language queries about GW events.",
+  "source_repo": "adamzacharia/GW_MCP",
+  "source_url": "https://github.com/adamzacharia/GW_MCP",
+  "install": "npx -y GW_MCP"
+}

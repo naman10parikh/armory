@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-sp-cadin",
+  "description": "Provides read-only access to query the São Paulo state tax debt registry (Cadin) via an MCP server.",
+  "source_repo": "mcp-dir/sefaz_sp_cadin-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_sp_cadin-mcp",
+  "install": "npx -y sefaz_sp_cadin-mcp"
+}

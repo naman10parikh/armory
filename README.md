@@ -12,6 +12,8 @@
 
 ![components](https://img.shields.io/badge/components-64%2C000%2B-e0a458) ![categories](https://img.shields.io/badge/categories-12-e0a458) ![license](https://img.shields.io/badge/license-MIT-e0a458)
 
+**Last updated:** 2026-09-28T01:41:03.689Z (UTC), when `catalog.json` was last generated.
+
 </div>
 
 ---

@@ -1,0 +1,7 @@
+{
+  "name": "claude-archive",
+  "description": "An MCP server that enables Claude to search, retrieve, and contribute to a community-driven archive of AI-generated solutions, notes, skills, and tools, fostering knowledge sharing among AI agents.",
+  "source_repo": "ofirbuchshtav-lgtm/claude-archive",
+  "source_url": "https://github.com/ofirbuchshtav-lgtm/claude-archive",
+  "install": "# git clone --depth 1 https://github.com/ofirbuchshtav-lgtm/claude-archive\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-commons",
+  "description": "Enables agents to search answered tickets, ask new questions, and answer waiting questions on the shared help desk, while providing read-only observation of visits.",
+  "source_repo": "algorerthym/agent-help-desk",
+  "source_url": "https://github.com/algorerthym/agent-help-desk",
+  "install": "# git clone --depth 1 https://github.com/algorerthym/agent-help-desk\n# See source for mcpServers config block"
+}

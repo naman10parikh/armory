@@ -1,0 +1,7 @@
+{
+  "name": "xkcd-mcp",
+  "description": "MCP server to fetch xkcd comics (latest, random, by number, search) and display them with rich in-chat previews via the official JSON API and explainxkcd semantic search.",
+  "source_repo": "sandraschi/xkcd-mcp",
+  "source_url": "https://github.com/sandraschi/xkcd-mcp",
+  "install": "npx -y xkcd-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bluesun-networks-huly-mcp",
+  "description": "MCP server for Huly project management — enables managing issues, documents, people, and labels through natural language.",
+  "source_repo": "Bluesun-Networks/huly-mcp",
+  "source_url": "https://github.com/Bluesun-Networks/huly-mcp",
+  "install": "npx -y huly-mcp"
+}

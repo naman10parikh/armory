@@ -1,0 +1,7 @@
+{
+  "name": "pingwa",
+  "description": "WhatsApp notifications and human-in-the-loop for AI agents. Text \"join\" to get an API key, then send messages, ask questions with tap-to-answer buttons, and read replies - no Meta account, no templates, no dashboard.",
+  "source_repo": "grzgrzgrz3/pingwa-client",
+  "source_url": "https://github.com/grzgrzgrz3/pingwa-client",
+  "install": "# git clone --depth 1 https://github.com/grzgrzgrz3/pingwa-client\n# See source for mcpServers config block"
+}

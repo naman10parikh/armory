@@ -1,0 +1,7 @@
+{
+  "name": "rangeview-mcp",
+  "description": "Read-only MCP server for searching and browsing the Rangeview Sports product catalog, including firearms, ammunition, optics, and accessories.",
+  "source_repo": "IamMichael23/rangeview-mcp",
+  "source_url": "https://github.com/IamMichael23/rangeview-mcp",
+  "install": "npx -y rangeview-mcp"
+}

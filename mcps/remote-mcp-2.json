@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-2",
+  "description": "An MCP server that lets you execute commands, manage files, run persistent shell sessions, transfer large files, and control background processes on remote machines via a lightweight HTTP agent, useful when SSH/WinRM/SMB are unavailable.",
+  "source_repo": "sch246/remote-mcp",
+  "source_url": "https://github.com/sch246/remote-mcp",
+  "install": "npx -y remote-mcp"
+}

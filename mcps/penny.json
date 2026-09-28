@@ -1,0 +1,7 @@
+{
+  "name": "penny",
+  "description": "MCP server for orchestrating coding tasks with frontier-model planning and local execution, enabling manifest validation, plan submission, status checks, cancellation, and report retrieval through Claude Code.",
+  "source_repo": "kangwa/penny",
+  "source_url": "https://github.com/kangwa/penny",
+  "install": "# git clone --depth 1 https://github.com/kangwa/penny\n# See source for mcpServers config block"
+}

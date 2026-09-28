@@ -1,0 +1,7 @@
+{
+  "name": "resume-admin",
+  "description": "Enables querying admin sign-in data from resume.naplab.org, such as last sign-in and sign-in counts, via natural language.",
+  "source_repo": "briznap/resume-ai-mcp",
+  "source_url": "https://github.com/briznap/resume-ai-mcp",
+  "install": "npx -y resume-ai-mcp"
+}

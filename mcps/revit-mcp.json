@@ -1,0 +1,7 @@
+{
+  "name": "revit-mcp",
+  "description": "Enables AI to interact with Revit via MCP, allowing data retrieval and element creation, modification, and deletion.",
+  "source_repo": "HoareLea/CJ_Revit-mcp-main",
+  "source_url": "https://github.com/HoareLea/CJ_Revit-mcp-main",
+  "install": "# git clone --depth 1 https://github.com/HoareLea/CJ_Revit-mcp-main\n# See source for mcpServers config block"
+}

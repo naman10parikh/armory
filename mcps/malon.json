@@ -1,0 +1,7 @@
+{
+  "name": "malon",
+  "description": "Local-first MCP server for AI coding agents that provides isolated code search, memory ledger, context rot detection, and cost governance.",
+  "source_repo": "malon-mcp/Malon_mcp",
+  "source_url": "https://github.com/malon-mcp/Malon_mcp",
+  "install": "npx -y Malon_mcp"
+}

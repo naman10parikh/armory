@@ -1,0 +1,7 @@
+{
+  "name": "setlistify",
+  "description": "An MCP server that fetches real setlists from setlist.fm and creates Spotify playlists from them, supporting fuzzy matching and various modes like latest show or best-of from recent shows.",
+  "source_repo": "emarkou/setlistify",
+  "source_url": "https://github.com/emarkou/setlistify",
+  "install": "# git clone --depth 1 https://github.com/emarkou/setlistify\n# See source for mcpServers config block"
+}

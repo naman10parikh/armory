@@ -1,0 +1,7 @@
+{
+  "name": "data-favor-mcp-server",
+  "description": "A read-only MCP server for securely querying MongoDB and Firestore to access customer and order data.",
+  "source_repo": "party-developer/data-favor-mcp",
+  "source_url": "https://github.com/party-developer/data-favor-mcp",
+  "install": "npx -y data-favor-mcp"
+}

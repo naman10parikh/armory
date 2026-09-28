@@ -1,0 +1,7 @@
+{
+  "name": "shehata-mcp-server",
+  "description": "Shehata Git MCP enables coding agents to perform policy-checked Git operations (stage, commit, pull, push) on repositories pinned to specific GitHub identities. It guards against credential exposure and blocks destructive commands like force push or reset.",
+  "source_repo": "moshehata95/Shehata-Git",
+  "source_url": "https://github.com/moshehata95/Shehata-Git",
+  "install": "# git clone --depth 1 https://github.com/moshehata95/Shehata-Git\n# See source for mcpServers config block"
+}

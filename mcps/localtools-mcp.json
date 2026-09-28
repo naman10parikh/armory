@@ -1,0 +1,7 @@
+{
+  "name": "localtools-mcp",
+  "description": "A stdio MCP server for Claude Desktop that provides an interactive media player, a local command runner, and file read/write/edit tools.",
+  "source_repo": "Parham125/local-tools-mcp",
+  "source_url": "https://github.com/Parham125/local-tools-mcp",
+  "install": "npx -y local-tools-mcp"
+}

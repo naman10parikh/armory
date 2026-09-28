@@ -1,0 +1,7 @@
+{
+  "name": "kamailio-mcp-server",
+  "description": "Enables AI-powered control and automation for Kamailio SIP servers, including config generation/linting, live JSONRPC operations, and database provisioning via MCP and CLI.",
+  "source_repo": "eagle26/kamailio-mcp-server",
+  "source_url": "https://github.com/eagle26/kamailio-mcp-server",
+  "install": "npx -y kamailio-mcp-server"
+}

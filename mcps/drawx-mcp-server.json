@@ -1,0 +1,7 @@
+{
+  "name": "drawx-mcp-server",
+  "description": "Generates draw.io diagrams and architecture designs from natural language prompts using DrawX API, integrating with Claude, Cursor, and VS Code.",
+  "source_repo": "SaharshPamecha/drawx-mcp-server",
+  "source_url": "https://github.com/SaharshPamecha/drawx-mcp-server",
+  "install": "npx -y drawx-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "closeread-verify",
+  "description": "Provides verified dependency-audit verdicts for AI agents, checking installed versions against OSV advisories and splitting direct vs transitive dependencies.",
+  "source_repo": "FreeGuy-AI/closeread-verify",
+  "source_url": "https://github.com/FreeGuy-AI/closeread-verify",
+  "install": "# git clone --depth 1 https://github.com/FreeGuy-AI/closeread-verify\n# See source for mcpServers config block"
+}

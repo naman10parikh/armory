@@ -1,0 +1,7 @@
+{
+  "name": "tubask",
+  "description": "Youtube, readable in AI chats.",
+  "source_repo": "Amorizz/tubask-mcp",
+  "source_url": "https://github.com/Amorizz/tubask-mcp",
+  "install": "npx -y tubask-mcp"
+}

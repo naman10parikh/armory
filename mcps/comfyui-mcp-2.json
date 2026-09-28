@@ -1,0 +1,7 @@
+{
+  "name": "comfyui-mcp-2",
+  "description": "Exposes a remote ComfyUI instance for image generation through an on-demand GPU wrapper, allowing users to generate PNG images from prompts and manage the ComfyUI lifecycle via MCP tools.",
+  "source_repo": "SwayamJoshi87/comfyui-mcp",
+  "source_url": "https://github.com/SwayamJoshi87/comfyui-mcp",
+  "install": "npx -y comfyui-mcp"
+}

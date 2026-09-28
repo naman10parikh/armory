@@ -1,0 +1,7 @@
+{
+  "name": "registry-mcp",
+  "description": "Unified MCP server for searching, analyzing, and managing packages across npm, JSR, Deno, and multiple CDN providers with auto-detection.",
+  "source_repo": "broisnischal/registry-mcp",
+  "source_url": "https://github.com/broisnischal/registry-mcp",
+  "install": "npx -y registry-mcp"
+}

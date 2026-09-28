@@ -1,0 +1,7 @@
+{
+  "name": "notepadpp-mcp",
+  "description": "MCP server for Notepad++ on Windows that allows opening files, checking editor status, and saving/loading session snapshots.",
+  "source_repo": "Mhdd-24/NotePadpp-MCP",
+  "source_url": "https://github.com/Mhdd-24/NotePadpp-MCP",
+  "install": "npx -y NotePadpp-MCP"
+}

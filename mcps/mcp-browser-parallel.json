@@ -1,0 +1,7 @@
+{
+  "name": "mcp-browser-parallel",
+  "description": "Multi-instance parallel browser MCP server that manages multiple isolated browser instances in a single Chrome process with automatic login state cloning, allowing parallel independent operations across instances.",
+  "source_repo": "Mokecy/mcp-browser-parallel",
+  "source_url": "https://github.com/Mokecy/mcp-browser-parallel",
+  "install": "# git clone --depth 1 https://github.com/Mokecy/mcp-browser-parallel\n# See source for mcpServers config block"
+}

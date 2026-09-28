@@ -1,0 +1,7 @@
+{
+  "name": "safe-postgres-mcp",
+  "description": "A zero-config, read-only PostgreSQL MCP server that enforces read-only access at the database level using READ ONLY transactions, allowing AI agents to safely explore schemas and run SELECT queries without risk of mutation.",
+  "source_repo": "samuel-cabral/safe-postgres-mcp",
+  "source_url": "https://github.com/samuel-cabral/safe-postgres-mcp",
+  "install": "npx -y safe-postgres-mcp"
+}

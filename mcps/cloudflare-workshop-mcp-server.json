@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-workshop-mcp-server",
+  "description": "Provides chess-related tools via the Model Context Protocol, integrating with the Chess.com API to fetch daily puzzles, live streamers, player information, and more for AI assistants.",
+  "source_repo": "donovan-fournier/cloudflare-workshop-mcp-server",
+  "source_url": "https://github.com/donovan-fournier/cloudflare-workshop-mcp-server",
+  "install": "npx -y cloudflare-workshop-mcp-server"
+}

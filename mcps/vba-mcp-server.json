@@ -1,0 +1,7 @@
+{
+  "name": "vba-mcp-server",
+  "description": "Enables AI assistants to directly read and write VBA code in Excel workbooks via COM, eliminating manual export/import cycles.",
+  "source_repo": "xiongchenghou/vba-mcp-server",
+  "source_url": "https://github.com/xiongchenghou/vba-mcp-server",
+  "install": "npx -y vba-mcp-server"
+}

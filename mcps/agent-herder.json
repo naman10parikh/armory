@@ -1,0 +1,7 @@
+{
+  "name": "agent-herder",
+  "description": "Unified MCP interface to monitor and control coding agents across OpenCode, Claude Code, and Codex CLI.",
+  "source_repo": "megamen32/agent-herder",
+  "source_url": "https://github.com/megamen32/agent-herder",
+  "install": "# git clone --depth 1 https://github.com/megamen32/agent-herder\n# See source for mcpServers config block"
+}

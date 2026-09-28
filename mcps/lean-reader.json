@@ -1,0 +1,7 @@
+{
+  "name": "lean-reader",
+  "description": "MCP server that converts URLs into token-minimized clean text for LLMs, providing a receipt of token and cost savings.",
+  "source_repo": "AIMento/lean-reader",
+  "source_url": "https://github.com/AIMento/lean-reader",
+  "install": "# git clone --depth 1 https://github.com/AIMento/lean-reader\n# See source for mcpServers config block"
+}

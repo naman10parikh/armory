@@ -1,0 +1,7 @@
+{
+  "name": "markit-mcp",
+  "description": "Enables AI to search, read, save, and manage reminders in your personal MarkIt library.",
+  "source_repo": "FuzulsFriend/markit-mcp",
+  "source_url": "https://github.com/FuzulsFriend/markit-mcp",
+  "install": "npx -y markit-mcp"
+}

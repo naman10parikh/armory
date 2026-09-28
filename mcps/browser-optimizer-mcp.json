@@ -1,0 +1,7 @@
+{
+  "name": "browser-optimizer-mcp",
+  "description": "Optimizes browser automation for AI agents by reducing token usage and latency through smart element extraction and caching.",
+  "source_repo": "Manthan-Railkar/browser-optimizer-mcp-V2",
+  "source_url": "https://github.com/Manthan-Railkar/browser-optimizer-mcp-V2",
+  "install": "# git clone --depth 1 https://github.com/Manthan-Railkar/browser-optimizer-mcp-V2\n# See source for mcpServers config block"
+}

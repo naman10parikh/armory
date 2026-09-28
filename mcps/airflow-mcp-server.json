@@ -1,0 +1,7 @@
+{
+  "name": "airflow-mcp-server",
+  "description": "Enables Claude to inspect and operate Apache Airflow over its REST API, providing read tools and safe write operations (gated by read-only mode) for managing DAGs, runs, tasks, and pools.",
+  "source_repo": "ssasuoirafen/airflow-mcp-server",
+  "source_url": "https://github.com/ssasuoirafen/airflow-mcp-server",
+  "install": "npx -y airflow-mcp-server"
+}

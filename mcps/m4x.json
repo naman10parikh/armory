@@ -1,0 +1,7 @@
+{
+  "name": "m4x",
+  "description": "Local, private audio transcription MCP server enabling AI agents to transcribe audio files entirely on-device without uploading data.",
+  "source_repo": "closeofbusiness/m4x",
+  "source_url": "https://github.com/closeofbusiness/m4x",
+  "install": "# git clone --depth 1 https://github.com/closeofbusiness/m4x\n# See source for mcpServers config block"
+}

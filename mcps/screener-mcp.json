@@ -1,0 +1,7 @@
+{
+  "name": "screener-mcp",
+  "description": "MCP server that provides access to screener.in financial data for Indian stocks, enabling queries for company info, financials, ratios, quarterly results, shareholding, and stock screening.",
+  "source_repo": "aw-bii/mcp-screener",
+  "source_url": "https://github.com/aw-bii/mcp-screener",
+  "install": "# git clone --depth 1 https://github.com/aw-bii/mcp-screener\n# See source for mcpServers config block"
+}

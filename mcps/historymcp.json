@@ -1,0 +1,7 @@
+{
+  "name": "historymcp",
+  "description": "Provides AI assistants access to browser history from SQLite databases, enabling reading and analysis of the last 100 visited URLs.",
+  "source_repo": "Jovillios/historyMCP",
+  "source_url": "https://github.com/Jovillios/historyMCP",
+  "install": "# git clone --depth 1 https://github.com/Jovillios/historyMCP\n# See source for mcpServers config block"
+}

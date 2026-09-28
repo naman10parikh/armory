@@ -1,0 +1,7 @@
+{
+  "name": "wefact-mcp",
+  "description": "Enables natural language interaction with the WeFact invoicing platform, allowing users to manage debtors, invoices, products, subscriptions, and perform various administrative tasks via MCP-compatible clients.",
+  "source_repo": "NickAldewereld/wefact-mcp",
+  "source_url": "https://github.com/NickAldewereld/wefact-mcp",
+  "install": "npx -y wefact-mcp"
+}

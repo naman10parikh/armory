@@ -1,0 +1,7 @@
+{
+  "name": "avidian-mcp-jira",
+  "description": "MCP server for Jira Cloud — gives AI agents full context and control over Jira issues, projects, sprints, and workflows.",
+  "source_repo": "avidianity/mcp-jira",
+  "source_url": "https://github.com/avidianity/mcp-jira",
+  "install": "# git clone --depth 1 https://github.com/avidianity/mcp-jira\n# See source for mcpServers config block"
+}

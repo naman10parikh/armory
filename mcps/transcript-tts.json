@@ -1,0 +1,7 @@
+{
+  "name": "transcript-tts",
+  "description": "Converts text or transcripts into MP3 audio using Microsoft Edge's free neural voices. Provides text-to-speech and voice listing tools with no API key required.",
+  "source_repo": "ShevinuM/transcript-tts",
+  "source_url": "https://github.com/ShevinuM/transcript-tts",
+  "install": "# git clone --depth 1 https://github.com/ShevinuM/transcript-tts\n# See source for mcpServers config block"
+}

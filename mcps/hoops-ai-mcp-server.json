@@ -1,0 +1,7 @@
+{
+  "name": "hoops-ai-mcp-server",
+  "description": "Bridges Claude Desktop to the HOOPS AI WebAPI, enabling 3D CAD analysis and interactive model operations through natural language.",
+  "source_repo": "toshi-bata/HOOPS_AI-MCPServer",
+  "source_url": "https://github.com/toshi-bata/HOOPS_AI-MCPServer",
+  "install": "# git clone --depth 1 https://github.com/toshi-bata/HOOPS_AI-MCPServer\n# See source for mcpServers config block"
+}

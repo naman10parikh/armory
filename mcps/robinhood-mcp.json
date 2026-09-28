@@ -1,0 +1,7 @@
+{
+  "name": "robinhood-mcp",
+  "description": "Enables AI models to manage Robinhood portfolios, execute trades, and run automated trading bots with stop-loss/take-profit monitoring.",
+  "source_repo": "rwlarow-ui/robinhood-mcp",
+  "source_url": "https://github.com/rwlarow-ui/robinhood-mcp",
+  "install": "npx -y robinhood-mcp"
+}

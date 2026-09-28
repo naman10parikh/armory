@@ -1,0 +1,7 @@
+{
+  "name": "xiaozhi-music-railway",
+  "description": "Music MCP WebSocket server enabling multi-platform music search and playable URL retrieval via Meting for XiaoZhi AI.",
+  "source_repo": "teeceetan2-cyber/xiaozhi-music-railway",
+  "source_url": "https://github.com/teeceetan2-cyber/xiaozhi-music-railway",
+  "install": "# git clone --depth 1 https://github.com/teeceetan2-cyber/xiaozhi-music-railway\n# See source for mcpServers config block"
+}

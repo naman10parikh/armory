@@ -1,0 +1,7 @@
+{
+  "name": "cascade-img",
+  "description": "MCP server for generating Midjourney images through conversation, with tools for prompt composition, self-curation, and image processing.",
+  "source_repo": "laffeyp/cascade-img",
+  "source_url": "https://github.com/laffeyp/cascade-img",
+  "install": "# git clone --depth 1 https://github.com/laffeyp/cascade-img\n# See source for mcpServers config block"
+}

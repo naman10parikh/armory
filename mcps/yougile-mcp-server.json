@@ -1,0 +1,7 @@
+{
+  "name": "yougile-mcp-server",
+  "description": "Enables AI agents and developer tools to interact programmatically with Yougile workspace, supporting project, task, user, board, and column management through natural language.",
+  "source_repo": "ichinya/yougile-mcp",
+  "source_url": "https://github.com/ichinya/yougile-mcp",
+  "install": "npx -y yougile-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "desktop-agent-bus",
+  "description": "Enables multiple local AI desktop applications to exchange MCP messages and collaborate through a shared JSONL room file, with role-based routing, history, and audit session tools.",
+  "source_repo": "hemajack57-collab/desktop-agent-bus",
+  "source_url": "https://github.com/hemajack57-collab/desktop-agent-bus",
+  "install": "# git clone --depth 1 https://github.com/hemajack57-collab/desktop-agent-bus\n# See source for mcpServers config block"
+}

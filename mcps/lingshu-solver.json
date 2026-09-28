@@ -1,0 +1,7 @@
+{
+  "name": "lingshu-solver",
+  "description": "Enables deterministic solving of real-valued equation systems with up to six variables, providing certified solutions via interval contraction and Krawczyk verification, and honestly marking truncation when exhaustive search is incomplete—all offline with zero dependencies.",
+  "source_repo": "genesis-plan/lingshu-solver",
+  "source_url": "https://github.com/genesis-plan/lingshu-solver",
+  "install": "# git clone --depth 1 https://github.com/genesis-plan/lingshu-solver\n# See source for mcpServers config block"
+}

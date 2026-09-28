@@ -1,0 +1,7 @@
+{
+  "name": "firecent-mcp-server",
+  "description": "MCP server for Firecent, a personal finance app, enabling AI agents to read and manage financial data through REST API, including accounts, records, categories, and queries.",
+  "source_repo": "luisemaltez/firecent-mcp",
+  "source_url": "https://github.com/luisemaltez/firecent-mcp",
+  "install": "npx -y firecent-mcp"
+}

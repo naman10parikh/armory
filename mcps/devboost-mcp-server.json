@@ -1,0 +1,7 @@
+{
+  "name": "devboost-mcp-server",
+  "description": "Provides tools for local development environment management and PostgreSQL optimization, including version checking, port process termination, SQL query analysis, and index suggestions.",
+  "source_repo": "Staks-sor/mcp_server",
+  "source_url": "https://github.com/Staks-sor/mcp_server",
+  "install": "# git clone --depth 1 https://github.com/Staks-sor/mcp_server\n# See source for mcpServers config block"
+}

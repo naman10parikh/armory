@@ -1,0 +1,7 @@
+{
+  "name": "unreal-editor-mcp",
+  "description": "Provides build diagnostics and editor log tools for Unreal Engine AI development, enabling Live Coding builds, parsing compile errors, searching/filtering logs, and crash context.",
+  "source_repo": "tumourlove/DEPRECATED-unreal-editor-mcp",
+  "source_url": "https://github.com/tumourlove/DEPRECATED-unreal-editor-mcp",
+  "install": "npx -y DEPRECATED-unreal-editor-mcp"
+}

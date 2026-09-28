@@ -1,0 +1,7 @@
+{
+  "name": "analyga",
+  "description": "Agent-first analytics MCP server for querying stats, funnels, and web/agent traffic, with server-side event ingestion and self-serve signup.",
+  "source_repo": "jyswee/analyga",
+  "source_url": "https://github.com/jyswee/analyga",
+  "install": "# git clone --depth 1 https://github.com/jyswee/analyga\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "situa-o-da-cnh",
+  "description": "Enables consultation of Brazilian driver's license (CNH) status using a CPF. Read-only, hosted MCP server accessible via HTTP.",
+  "source_repo": "mcp-dir/cnh_situacao-mcp",
+  "source_url": "https://github.com/mcp-dir/cnh_situacao-mcp",
+  "install": "npx -y cnh_situacao-mcp"
+}

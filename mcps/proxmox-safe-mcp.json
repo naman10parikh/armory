@@ -1,0 +1,7 @@
+{
+  "name": "proxmox-safe-mcp",
+  "description": "Enables safe, confirmable Proxmox operations: read-only cluster/guest status and bounded power actions and snapshot creation, with explicit byte-for-byte approval for each mutation.",
+  "source_repo": "bgauger/proxmox-safe-mcp",
+  "source_url": "https://github.com/bgauger/proxmox-safe-mcp",
+  "install": "npx -y proxmox-safe-mcp"
+}

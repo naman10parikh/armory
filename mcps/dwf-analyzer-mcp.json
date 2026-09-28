@@ -1,0 +1,7 @@
+{
+  "name": "dwf-analyzer-mcp",
+  "description": "An MCP server for analyzing DWF files using Amazon Bedrock's Nova Pro model, enabling visual analysis, metadata extraction, and image extraction from DWF drawings.",
+  "source_repo": "jesamkim/dwf-analyzer-mcp",
+  "source_url": "https://github.com/jesamkim/dwf-analyzer-mcp",
+  "install": "npx -y dwf-analyzer-mcp"
+}

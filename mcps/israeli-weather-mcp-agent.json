@@ -1,0 +1,7 @@
+{
+  "name": "israeli-weather-mcp-agent",
+  "description": "Enables LLMs to retrieve Israeli weather forecasts by controlling a browser via Playwright and scraping data from an Israeli weather website.",
+  "source_repo": "328gili/weather-chat-mcp",
+  "source_url": "https://github.com/328gili/weather-chat-mcp",
+  "install": "npx -y weather-chat-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "note-post-mcp",
+  "description": "The Universal MCP Server exposes tools for automated posting and draft saving to note.com. It reads Markdown files containing titles, body text, and tags, then publishes them to your note.com account using Playwright automation.",
+  "source_repo": "Go-555/note-post-mcp-v2",
+  "source_url": "https://github.com/Go-555/note-post-mcp-v2",
+  "install": "# git clone --depth 1 https://github.com/Go-555/note-post-mcp-v2\n# See source for mcpServers config block"
+}

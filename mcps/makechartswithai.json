@@ -1,0 +1,7 @@
+{
+  "name": "makechartswithai",
+  "description": "MCP server that enables AI agents to recommend and generate charts from datasets using natural language, supporting 46 chart types and multiple output formats.",
+  "source_repo": "vickytr44/makechartswithai-mcp",
+  "source_url": "https://github.com/vickytr44/makechartswithai-mcp",
+  "install": "npx -y makechartswithai-mcp"
+}

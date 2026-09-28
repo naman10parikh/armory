@@ -1,0 +1,7 @@
+{
+  "name": "nankai-trough-mcp",
+  "description": "MCP server that surfaces cited official Japanese government data on Nankai Trough earthquake hazards, building safety standards, and routes users to official hazard maps without inventing numbers.",
+  "source_repo": "mrslbt/nankai-trough-mcp",
+  "source_url": "https://github.com/mrslbt/nankai-trough-mcp",
+  "install": "npx -y nankai-trough-mcp"
+}

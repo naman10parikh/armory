@@ -1,0 +1,7 @@
+{
+  "name": "nanoodle-mcp",
+  "description": "MCP server that exposes saved nanoodle graphs as callable tools for AI agents, enabling them to run multi-model media pipelines. Supports stdio and HTTP serve modes, with optional Nano wallet payments.",
+  "source_repo": "nanoodlecom/nanoodle-mcp",
+  "source_url": "https://github.com/nanoodlecom/nanoodle-mcp",
+  "install": "npx -y nanoodle-mcp"
+}

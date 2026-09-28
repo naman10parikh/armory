@@ -1,0 +1,7 @@
+{
+  "name": "seomonster",
+  "description": "SEO MCP over Search Console, GA4, PageSpeed, Cloudflare, IndexNow, CrUX, and 7 technical-SEO HTTP tools.",
+  "source_repo": "avansaber/seo-monster",
+  "source_url": "https://github.com/avansaber/seo-monster",
+  "install": "# git clone --depth 1 https://github.com/avansaber/seo-monster\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lsp-mcp-server-for-rell",
+  "description": "An MCP server for interacting with the Rell Language Server Protocol interface. It enables LLMs to query LSP Hover and Completion providers for Rell projects.",
+  "source_repo": "peaceful-wanderer/lsp-mcp-chromia",
+  "source_url": "https://github.com/peaceful-wanderer/lsp-mcp-chromia",
+  "install": "# git clone --depth 1 https://github.com/peaceful-wanderer/lsp-mcp-chromia\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "multi-container-log-correlator-mcp-server",
+  "description": "Enables debugging of distributed transactions by continuously ingesting Docker container logs, indexing them by trace/request ID, and exposing MCP tools to search, tail, and correlate logs across services.",
+  "source_repo": "parajiholkar/multi-container-log-correlator-mcp-server",
+  "source_url": "https://github.com/parajiholkar/multi-container-log-correlator-mcp-server",
+  "install": "npx -y multi-container-log-correlator-mcp-server"
+}

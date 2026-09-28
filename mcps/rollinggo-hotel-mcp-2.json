@@ -1,0 +1,7 @@
+{
+  "name": "rollinggo-hotel-mcp-2",
+  "description": "MCP server for searching, comparing, and booking hotels globally, with live rates and over 2 million properties, powered by DIDA.",
+  "source_repo": "RollingGo-AI/RollingGo-Hotel-MCP-Global",
+  "source_url": "https://github.com/RollingGo-AI/RollingGo-Hotel-MCP-Global",
+  "install": "# git clone --depth 1 https://github.com/RollingGo-AI/RollingGo-Hotel-MCP-Global\n# See source for mcpServers config block"
+}

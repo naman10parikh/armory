@@ -1,0 +1,7 @@
+{
+  "name": "dad-joke-mcp-server",
+  "description": "A Python-based MCP server that generates creative dad joke prompts on any topic in various styles, enabling AI agents to produce dad jokes through natural language requests.",
+  "source_repo": "bdurrett/joke-poc-mcp-server",
+  "source_url": "https://github.com/bdurrett/joke-poc-mcp-server",
+  "install": "npx -y joke-poc-mcp-server"
+}

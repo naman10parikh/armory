@@ -1,0 +1,7 @@
+{
+  "name": "beads-mcp-server",
+  "description": "An MCP server that exposes a curated typed surface over the Beads CLI, managing workspaces and issues through secure, sessionless HTTP with static bearer authentication.",
+  "source_repo": "cognovis/beads-mcp-server",
+  "source_url": "https://github.com/cognovis/beads-mcp-server",
+  "install": "npx -y beads-mcp-server"
+}

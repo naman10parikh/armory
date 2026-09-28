@@ -1,0 +1,7 @@
+{
+  "name": "dogeshit-mcp",
+  "description": "Enables AI agents to trigger on-chain minting of $SHIT tokens via EIP-7702 delegation and MCP, with the user retaining full custody and the contract ensuring tokens go to the caller's own wallet.",
+  "source_repo": "dogeshitmeme/dogeshit-mcp",
+  "source_url": "https://github.com/dogeshitmeme/dogeshit-mcp",
+  "install": "npx -y dogeshit-mcp"
+}

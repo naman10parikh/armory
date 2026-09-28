@@ -1,0 +1,7 @@
+{
+  "name": "estv-mcp",
+  "description": "MCP server for the Swiss federal tax calculator, providing income, wealth, inheritance, and corporate tax figures for all Swiss municipalities and tax years 2010-2026.",
+  "source_repo": "noaahh/estv-mcp",
+  "source_url": "https://github.com/noaahh/estv-mcp",
+  "install": "npx -y estv-mcp"
+}

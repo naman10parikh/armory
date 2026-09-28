@@ -1,0 +1,7 @@
+{
+  "name": "tingyun-mcp",
+  "description": "Allows AI assistants to query Tingyun (Wukong) platform monitoring data for App, Browser, and MiniProgram, covering performance, exceptions, user experience, network, and more via RUM REST API.",
+  "source_repo": "manza7014/tingyun-mcp",
+  "source_url": "https://github.com/manza7014/tingyun-mcp",
+  "install": "npx -y tingyun-mcp"
+}

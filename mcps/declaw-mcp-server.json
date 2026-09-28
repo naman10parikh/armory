@@ -1,0 +1,7 @@
+{
+  "name": "declaw-mcp-server",
+  "description": "Runs AI-generated code in secure Firecracker microVMs with opt-in network policy enforcement, PII scanning, prompt injection defense, and audit logging. Exposes MCP tools for running commands, managing files, and the full sandbox lifecycle.",
+  "source_repo": "declaw-ai/mcp-server",
+  "source_url": "https://github.com/declaw-ai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/declaw-ai/mcp-server\n# See source for mcpServers config block"
+}

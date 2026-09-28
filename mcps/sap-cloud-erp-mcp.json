@@ -1,0 +1,7 @@
+{
+  "name": "sap-cloud-erp-mcp",
+  "description": "An MCP server that provides tools to list, get, create, and update SAP S/4HANA Cloud Public Edition business objects like purchase orders, sales orders, and production orders through the Model Context Protocol.",
+  "source_repo": "aytacmehmet/sap-cloud-erp-mcp",
+  "source_url": "https://github.com/aytacmehmet/sap-cloud-erp-mcp",
+  "install": "npx -y sap-cloud-erp-mcp"
+}

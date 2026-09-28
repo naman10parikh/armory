@@ -1,0 +1,7 @@
+{
+  "name": "monzo-claude-connector",
+  "description": "A remote MCP server on Cloudflare Workers that gives Claude read-only access to your Monzo account, enabling balance checks, transaction listing, and pot management via natural language.",
+  "source_repo": "silkyrich/monzo-claude-connector",
+  "source_url": "https://github.com/silkyrich/monzo-claude-connector",
+  "install": "# git clone --depth 1 https://github.com/silkyrich/monzo-claude-connector\n# See source for mcpServers config block"
+}

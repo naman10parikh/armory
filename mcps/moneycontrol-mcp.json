@@ -1,0 +1,7 @@
+{
+  "name": "moneycontrol-mcp",
+  "description": "MCP server providing Moneycontrol market data including stock quotes, fundamentals, indices, FII/DII activity, news, and technicals via tool calls.",
+  "source_repo": "pramodhapple504-arch/moneycontrol-mcp",
+  "source_url": "https://github.com/pramodhapple504-arch/moneycontrol-mcp",
+  "install": "npx -y moneycontrol-mcp"
+}

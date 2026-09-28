@@ -1,0 +1,7 @@
+{
+  "name": "mcp-vkusvill",
+  "description": "MCP server for integrating AI assistants with VkusVill services, allowing natural language access to VkusVill data and operations.",
+  "source_repo": "Bazilio-san/mcp-vkusvill",
+  "source_url": "https://github.com/Bazilio-san/mcp-vkusvill",
+  "install": "# git clone --depth 1 https://github.com/Bazilio-san/mcp-vkusvill\n# See source for mcpServers config block"
+}

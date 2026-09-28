@@ -1,0 +1,7 @@
+{
+  "name": "paper-trader-mcp",
+  "description": "A simulation-only MCP server for recording US-equity order intents and estimating outcomes from historical Alpaca NBBO quotes, without placing live orders.",
+  "source_repo": "emile-fortier/paper-trader-mcp",
+  "source_url": "https://github.com/emile-fortier/paper-trader-mcp",
+  "install": "npx -y paper-trader-mcp"
+}

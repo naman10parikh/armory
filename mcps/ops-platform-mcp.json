@@ -1,0 +1,7 @@
+{
+  "name": "ops-platform-mcp",
+  "description": "MCP server wrapping a mock internal ops platform (FastAPI + SQLite) so Claude Code can read and write employee, project, task, and time data through natural language.",
+  "source_repo": "ericthlai/ops-platform-mcp",
+  "source_url": "https://github.com/ericthlai/ops-platform-mcp",
+  "install": "npx -y ops-platform-mcp"
+}

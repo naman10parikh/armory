@@ -1,0 +1,7 @@
+{
+  "name": "destiny-2-mcp-server",
+  "description": "MCP server that provides full read/write access to the Bungie API for Destiny 2, enabling AI assistants to manage inventory, equipment, loadouts, subclass configuration, vendors, and account stats for a user's Destiny 2 characters. It runs locally with OAuth authentication and exposes 23 tools for c",
+  "source_repo": "GS-Rionnag/Destiny2MCP",
+  "source_url": "https://github.com/GS-Rionnag/Destiny2MCP",
+  "install": "# git clone --depth 1 https://github.com/GS-Rionnag/Destiny2MCP\n# See source for mcpServers config block"
+}

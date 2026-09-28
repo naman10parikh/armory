@@ -1,0 +1,7 @@
+{
+  "name": "babushka-email-mcp",
+  "description": "Enables Claude Code to manage email inboxes via IMAP, including reading, categorizing, phishing detection, archiving, junking, and sending emails with user permission.",
+  "source_repo": "sambt94/babushka-email-mcp",
+  "source_url": "https://github.com/sambt94/babushka-email-mcp",
+  "install": "npx -y babushka-email-mcp"
+}

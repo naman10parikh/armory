@@ -1,0 +1,7 @@
+{
+  "name": "mgi-link",
+  "description": "An MCP server that provides mouse genetics data from Mouse Genome Informatics (MGI), enabling LLM agents to query markers, mutations, alleles, phenotypes, and disease models.",
+  "source_repo": "berntpopp/mgi-link",
+  "source_url": "https://github.com/berntpopp/mgi-link",
+  "install": "# git clone --depth 1 https://github.com/berntpopp/mgi-link\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "the-agents-mcp-server",
+  "description": "Connects AI agents to The Agents Hub, visualizing them as pixel characters on a tile-based property with tools for state, assets, inboxes, and multi-agent orchestration.",
+  "source_repo": "IronLain88/The-Agents-MCP",
+  "source_url": "https://github.com/IronLain88/The-Agents-MCP",
+  "install": "npx -y The-Agents-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mock-mcp",
+  "description": "Generates schema-compliant mock data from OpenAPI JSON Schema definitions using AI, enabling seamless testing without manual fixtures.",
+  "source_repo": "mcpland/mock-mcp",
+  "source_url": "https://github.com/mcpland/mock-mcp",
+  "install": "npx -y mock-mcp"
+}

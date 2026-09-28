@@ -1,0 +1,7 @@
+{
+  "name": "secureops-mcp",
+  "description": "A secure, modular MCP server for file operations and code review using Gemini.",
+  "source_repo": "roheth286/SecureOps",
+  "source_url": "https://github.com/roheth286/SecureOps",
+  "install": "# git clone --depth 1 https://github.com/roheth286/SecureOps\n# See source for mcpServers config block"
+}

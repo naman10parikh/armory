@@ -1,0 +1,7 @@
+{
+  "name": "ableton-auto-mix-mcp",
+  "description": "Style-aware auto-mixing and mastering for Ableton Live, providing tools for analysis, preview rendering, and release checks.",
+  "source_repo": "HighVoltSound/ableton-auto-mix-mcp",
+  "source_url": "https://github.com/HighVoltSound/ableton-auto-mix-mcp",
+  "install": "npx -y ableton-auto-mix-mcp"
+}

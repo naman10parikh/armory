@@ -1,0 +1,7 @@
+{
+  "name": "codex-monitor",
+  "description": "An MCP server that provides monitoring tools for Codex agents, allowing them to create and wait on conditions using commands, log files, file events, and custom probes, replacing polling loops with event-driven blocking.",
+  "source_repo": "naowalrahman/codex-monitor",
+  "source_url": "https://github.com/naowalrahman/codex-monitor",
+  "install": "# git clone --depth 1 https://github.com/naowalrahman/codex-monitor\n# See source for mcpServers config block"
+}

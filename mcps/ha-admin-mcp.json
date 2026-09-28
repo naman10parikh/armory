@@ -1,0 +1,7 @@
+{
+  "name": "ha-admin-mcp",
+  "description": "An MCP server for safely previewing, creating, validating, editing and rolling back AI-managed Home Assistant automations.",
+  "source_repo": "paulcakeface/ha-admin-mcp",
+  "source_url": "https://github.com/paulcakeface/ha-admin-mcp",
+  "install": "npx -y ha-admin-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "intra-pay-mcp-server",
+  "description": "Enables Pix payment operations (cash-in/cash-out) and webhook management for Intra Pay via natural language, supporting multi-tenant authentication.",
+  "source_repo": "Intra-Pay/mcp-server",
+  "source_url": "https://github.com/Intra-Pay/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Intra-Pay/mcp-server\n# See source for mcpServers config block"
+}

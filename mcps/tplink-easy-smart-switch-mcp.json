@@ -1,0 +1,7 @@
+{
+  "name": "tplink-easy-smart-switch-mcp",
+  "description": "MCP server for managing TP-Link and Mercury Easy Smart switches via their web interface, enabling read-only status checks and VLAN/trunk configuration with dry-run support.",
+  "source_repo": "qwe7002-ai/tplink-easy-smart-switch-mcp",
+  "source_url": "https://github.com/qwe7002-ai/tplink-easy-smart-switch-mcp",
+  "install": "npx -y tplink-easy-smart-switch-mcp"
+}

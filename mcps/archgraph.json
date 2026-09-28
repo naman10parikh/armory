@@ -1,0 +1,7 @@
+{
+  "name": "archgraph",
+  "description": "Serves the architectural graph of a hexagonal-architecture codebase to coding agents via stdio, providing tools to analyze dependencies, check violations, and inspect structural changes.",
+  "source_repo": "vonkernel/hexwright",
+  "source_url": "https://github.com/vonkernel/hexwright",
+  "install": "# git clone --depth 1 https://github.com/vonkernel/hexwright\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-guardrail",
+  "description": "A runtime gate for coding agents. Blocks the tool calls that wreck a repo (force-push main, rm -rf, secret exfiltration, CI wipe) and lets normal build and commit work through. Machine-checked git-branch core (z3); the rest is high-precision heuristics. Tested on 3,790 real CI commands, 0 false bloc",
+  "source_repo": "ss1738/agent-guardrail",
+  "source_url": "https://github.com/ss1738/agent-guardrail",
+  "install": "# git clone --depth 1 https://github.com/ss1738/agent-guardrail\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-divination-mcp",
+  "description": "MCP server for ai-divination-skills that provides tools for tarot draws, I Ching casts, Xiao Liu Ren casts, and Bazi chart generation, returning auditable JSON results for AI interpretation.",
+  "source_repo": "sapuyou45-bit/ai-divination-skills",
+  "source_url": "https://github.com/sapuyou45-bit/ai-divination-skills",
+  "install": "# git clone --depth 1 https://github.com/sapuyou45-bit/ai-divination-skills\n# See source for mcpServers config block"
+}

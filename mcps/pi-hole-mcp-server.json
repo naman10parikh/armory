@@ -1,0 +1,7 @@
+{
+  "name": "pi-hole-mcp-server",
+  "description": "Enables management of Pi-hole DNS servers through natural language commands, including enabling/disabling blocking, viewing statistics, and configuration.",
+  "source_repo": "brettbergin/pihole-mcp-server",
+  "source_url": "https://github.com/brettbergin/pihole-mcp-server",
+  "install": "npx -y pihole-mcp-server"
+}

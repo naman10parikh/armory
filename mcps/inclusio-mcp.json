@@ -1,0 +1,7 @@
+{
+  "name": "inclusio-mcp",
+  "description": "Accessibility-first LaTeX publishing engine with an embedded MCP server. Tools to list registered documents, render template-driven documents, and audit built PDFs for PDF/UA-2 / WTPDF / PDF/A-4f conformance with veraPDF. MIT-licensed.",
+  "source_repo": "sebastienrousseau/inclusio",
+  "source_url": "https://github.com/sebastienrousseau/inclusio",
+  "install": "# git clone --depth 1 https://github.com/sebastienrousseau/inclusio\n# See source for mcpServers config block"
+}

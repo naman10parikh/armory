@@ -1,0 +1,7 @@
+{
+  "name": "nectar-mcp",
+  "description": "MCP server for the Nectar Climate utility data API, providing tools to access utility bills, meter data, and export to ENERGY STAR Portfolio Manager.",
+  "source_repo": "soapboxbuild/nectar-mcp",
+  "source_url": "https://github.com/soapboxbuild/nectar-mcp",
+  "install": "npx -y nectar-mcp"
+}

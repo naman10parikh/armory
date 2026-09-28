@@ -1,0 +1,7 @@
+{
+  "name": "asistente-comercial-mcp",
+  "description": "Provides an AI agent with tools to search and analyze customer, product, and sales data from an e-commerce database using natural language.",
+  "source_repo": "systemyuri/agente-mcp-groq",
+  "source_url": "https://github.com/systemyuri/agente-mcp-groq",
+  "install": "# git clone --depth 1 https://github.com/systemyuri/agente-mcp-groq\n# See source for mcpServers config block"
+}

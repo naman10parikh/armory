@@ -1,0 +1,7 @@
+{
+  "name": "phantom-touch",
+  "description": "An MCP server for iOS simulator automation with reliable clipboard-based text input that works with React Native.",
+  "source_repo": "hieudtr8/phantom-touch",
+  "source_url": "https://github.com/hieudtr8/phantom-touch",
+  "install": "# git clone --depth 1 https://github.com/hieudtr8/phantom-touch\n# See source for mcpServers config block"
+}

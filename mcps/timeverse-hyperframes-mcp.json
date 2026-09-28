@@ -1,0 +1,7 @@
+{
+  "name": "timeverse-hyperframes-mcp",
+  "description": "Wraps HyperFrames CLI as MCP tools, enabling AI agents to create, preview, and render video projects from HTML/CSS/JS, with text-to-speech and transcription capabilities.",
+  "source_repo": "elimyliu/timeverse-hyperframes-mcp",
+  "source_url": "https://github.com/elimyliu/timeverse-hyperframes-mcp",
+  "install": "npx -y timeverse-hyperframes-mcp"
+}

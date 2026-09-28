@@ -1,0 +1,7 @@
+{
+  "name": "errorlens-mcp",
+  "description": "Provides structured error classification and recovery guidance for MCP agents, turning opaque failures into actionable retry and state information.",
+  "source_repo": "Master0fFate/ErrorLens-MCP",
+  "source_url": "https://github.com/Master0fFate/ErrorLens-MCP",
+  "install": "npx -y ErrorLens-MCP"
+}

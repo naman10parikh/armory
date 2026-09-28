@@ -1,0 +1,7 @@
+{
+  "name": "mcp-browser-tool",
+  "description": "A Playwright-based browser automation tool for AI agents, enabling web search, navigation, scraping, and page interaction through the Model Context Protocol.",
+  "source_repo": "robby031/mcp-browser-tool",
+  "source_url": "https://github.com/robby031/mcp-browser-tool",
+  "install": "# git clone --depth 1 https://github.com/robby031/mcp-browser-tool\n# See source for mcpServers config block"
+}

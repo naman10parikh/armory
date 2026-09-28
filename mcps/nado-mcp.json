@@ -1,0 +1,7 @@
+{
+  "name": "nado-mcp",
+  "description": "MCP server for the Nado Protocol on the Ink blockchain, enabling AI assistants to query market data, manage positions, place orders, and access historical trading data.",
+  "source_repo": "nadohq/nado-mcp",
+  "source_url": "https://github.com/nadohq/nado-mcp",
+  "install": "npx -y nado-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jlcpcb-mcp",
+  "description": "MCP server for JLCPCB/LCSC component search, live stock and pricing, datasheets, and PCB/3D printing ordering via authenticated API.",
+  "source_repo": "Eyalm321/jlcpcb-mcp",
+  "source_url": "https://github.com/Eyalm321/jlcpcb-mcp",
+  "install": "npx -y jlcpcb-mcp"
+}

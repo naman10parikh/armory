@@ -1,0 +1,7 @@
+{
+  "name": "advanced-reason-mcp",
+  "description": "Enables advanced reasoning and reflection using the Gemini API and OpenRouter models, integrating sequential thinking and critique capabilities.",
+  "source_repo": "Kuon-dev/advanced-reason-mcp",
+  "source_url": "https://github.com/Kuon-dev/advanced-reason-mcp",
+  "install": "npx -y advanced-reason-mcp"
+}

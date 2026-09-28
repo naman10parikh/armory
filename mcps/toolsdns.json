@@ -1,0 +1,7 @@
+{
+  "name": "toolsdns",
+  "description": "Semantic search engine for MCP tools that indexes thousands of tool schemas and returns only the relevant ones to AI agents, reducing token usage and improving tool discovery.",
+  "source_repo": "syedfahimdev/ToolsDNS",
+  "source_url": "https://github.com/syedfahimdev/ToolsDNS",
+  "install": "# git clone --depth 1 https://github.com/syedfahimdev/ToolsDNS\n# See source for mcpServers config block"
+}

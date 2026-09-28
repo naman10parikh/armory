@@ -1,0 +1,7 @@
+{
+  "name": "hg-gtm-tools-mcp",
+  "description": "Enables HG Insights GTM teams to draft and manage outreach, research accounts, look up customer support data, and access CRM, Pylon, Jira, Weflow, and knowledge base tools through Claude Desktop.",
+  "source_repo": "drewgilbert-lab/mcp-connections",
+  "source_url": "https://github.com/drewgilbert-lab/mcp-connections",
+  "install": "# git clone --depth 1 https://github.com/drewgilbert-lab/mcp-connections\n# See source for mcpServers config block"
+}

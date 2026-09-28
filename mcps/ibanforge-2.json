@@ -1,0 +1,7 @@
+{
+  "name": "ibanforge-2",
+  "description": "IBAN validation, BIC/SWIFT lookup, Swiss clearing, SEPA compliance and risk indicators for AI agents. 121K+ bank entries from GLEIF, 1,190 Swiss BC-Nummer from SIX BankMaster, 84 countries. Native MCP support with 5 tools, 2 resources, 1 prompt.",
+  "source_repo": "",
+  "source_url": "https://ibanforge.com",
+  "install": "# git clone --depth 1 https://ibanforge.com\n# See source for mcpServers config block"
+}

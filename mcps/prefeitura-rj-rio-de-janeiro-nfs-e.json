@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-rj-rio-de-janeiro-nfs-e",
+  "description": "Provides read-only consultation of Rio de Janeiro's electronic service invoices (NFS-e) from official sources, with pay-per-use credits.",
+  "source_repo": "mcp-dir/pref_rj_rio_janeiro_nfs-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_rj_rio_janeiro_nfs-mcp",
+  "install": "npx -y pref_rj_rio_janeiro_nfs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "intelligrid-energyplus-mcp-server",
+  "description": "Exposes EnergyPlus building simulation tools as MCP endpoints, enabling LLMs to run closed-loop energy optimization while maintaining occupant comfort.",
+  "source_repo": "shankar-mallidi/IntelliGrid-AI-Powered-Building-Energy-Optimization",
+  "source_url": "https://github.com/shankar-mallidi/IntelliGrid-AI-Powered-Building-Energy-Optimization",
+  "install": "# git clone --depth 1 https://github.com/shankar-mallidi/IntelliGrid-AI-Powered-Building-Energy-Optimization\n# See source for mcpServers config block"
+}

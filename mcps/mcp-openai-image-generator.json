@@ -1,0 +1,7 @@
+{
+  "name": "mcp-openai-image-generator",
+  "description": "MCP server that wraps OpenAI's gpt-image-2 image generation API, enabling image generation from text prompts, listing saved images, and loading images inline.",
+  "source_repo": "hongti/mcp-openai-image",
+  "source_url": "https://github.com/hongti/mcp-openai-image",
+  "install": "# git clone --depth 1 https://github.com/hongti/mcp-openai-image\n# See source for mcpServers config block"
+}

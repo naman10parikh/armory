@@ -1,0 +1,7 @@
+{
+  "name": "iterable-mcp-server",
+  "description": "Enables natural language interaction with Iterable marketing platform data, allowing users to query campaigns, templates, and perform actions via AI assistants.",
+  "source_repo": "Iterable/mcp-server",
+  "source_url": "https://github.com/Iterable/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Iterable/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gpu-broker-mcp",
+  "description": "Enables AI agents to discover, reserve, and dispatch inference to GPU nodes via MCP tools, using signed handles for stateless reservation management.",
+  "source_repo": "Arifuzzamanjoy/gpu-broker-mcp",
+  "source_url": "https://github.com/Arifuzzamanjoy/gpu-broker-mcp",
+  "install": "npx -y gpu-broker-mcp"
+}

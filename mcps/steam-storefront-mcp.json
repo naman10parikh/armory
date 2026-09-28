@@ -1,0 +1,7 @@
+{
+  "name": "steam-storefront-mcp",
+  "description": "MCP server enabling AI assistants to search Steam games, retrieve official store metadata, and analyze player review sentiment via public Steam Storefront JSON APIs without an API key.",
+  "source_repo": "brandikun/steam-storefront-mcp",
+  "source_url": "https://github.com/brandikun/steam-storefront-mcp",
+  "install": "npx -y steam-storefront-mcp"
+}

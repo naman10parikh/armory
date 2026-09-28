@@ -1,0 +1,7 @@
+{
+  "name": "drupalorg-mcp",
+  "description": "MCP server for drupal.org's public REST API. Enables querying projects, issues, comments, and user information on drupal.org.",
+  "source_repo": "zaporylie/drupalorg-mcp",
+  "source_url": "https://github.com/zaporylie/drupalorg-mcp",
+  "install": "npx -y drupalorg-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "blast-scope-mcp",
+  "description": "A consequence engine for shell commands. Blast Scope scores what a command would actually do before an AI agent runs it.",
+  "source_repo": "Atharva-Jayappa/blast-scope",
+  "source_url": "https://github.com/Atharva-Jayappa/blast-scope",
+  "install": "# git clone --depth 1 https://github.com/Atharva-Jayappa/blast-scope\n# See source for mcpServers config block"
+}

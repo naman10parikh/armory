@@ -1,0 +1,7 @@
+{
+  "name": "indicadores-pj-transpar-ncia",
+  "description": "Enables querying Brazilian public transparency data for companies by CNPJ, returning indicators like sanctions, agreements, and contracts. Read-only and works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/transparencia_indicadores_pj-mcp",
+  "source_url": "https://github.com/mcp-dir/transparencia_indicadores_pj-mcp",
+  "install": "npx -y transparencia_indicadores_pj-mcp"
+}

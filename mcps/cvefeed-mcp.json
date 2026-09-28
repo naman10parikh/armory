@@ -1,0 +1,7 @@
+{
+  "name": "cvefeed-mcp",
+  "description": "MCP server providing vulnerability intelligence from CVEFeed.io, enabling CVE search, product subscriptions, and alert management via natural language.",
+  "source_repo": "cvefeed/cvefeed-mcp",
+  "source_url": "https://github.com/cvefeed/cvefeed-mcp",
+  "install": "npx -y cvefeed-mcp"
+}

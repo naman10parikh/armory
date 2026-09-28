@@ -1,0 +1,7 @@
+{
+  "name": "library-book-mcp-server",
+  "description": "Read-only MCP server that provides tools to search books, get book details, list authors, and view library statistics from a PostgreSQL database.",
+  "source_repo": "alianza86/cti-mcp-test",
+  "source_url": "https://github.com/alianza86/cti-mcp-test",
+  "install": "# git clone --depth 1 https://github.com/alianza86/cti-mcp-test\n# See source for mcpServers config block"
+}

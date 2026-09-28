@@ -1,0 +1,7 @@
+{
+  "name": "agrenting-mcp-server",
+  "description": "Enables hiring remote marketplace agents from Codex using a scoped API key, with tools for creating hirings and checking their status.",
+  "source_repo": "AgRenting/agrenting-codex-plugin",
+  "source_url": "https://github.com/AgRenting/agrenting-codex-plugin",
+  "install": "# git clone --depth 1 https://github.com/AgRenting/agrenting-codex-plugin\n# See source for mcpServers config block"
+}

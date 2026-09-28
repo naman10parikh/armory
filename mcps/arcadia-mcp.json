@@ -1,0 +1,7 @@
+{
+  "name": "arcadia-mcp",
+  "description": "Connects to 7,000+ utilities to surface bill data, interval meter readings, and carbon calculations via the Model Context Protocol.",
+  "source_repo": "soapboxbuild/moodys-rms-mcp",
+  "source_url": "https://github.com/soapboxbuild/moodys-rms-mcp",
+  "install": "npx -y moodys-rms-mcp"
+}

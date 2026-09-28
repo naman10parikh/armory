@@ -1,0 +1,7 @@
+{
+  "name": "pyon-mcp",
+  "description": "MCP server for the Pyon trading platform that lets AI agents search markets, generate research, build and edit node-graph strategies, run backtests, diagnose problems, and optimize parameters with 2-D sweeps.",
+  "source_repo": "K4L-EL/pyon-mcp",
+  "source_url": "https://github.com/K4L-EL/pyon-mcp",
+  "install": "npx -y pyon-mcp"
+}

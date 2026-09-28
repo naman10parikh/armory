@@ -1,0 +1,7 @@
+{
+  "name": "hail",
+  "description": "Phone, SMS & email for AI agents. One remote MCP server (Streamable HTTP, OAuth or API-key auth, no local install) exposing call, sms, email, and event tools; also usable via CLI, Python SDK, and OpenAPI. Self-hostable, AGPLv3.",
+  "source_repo": "hail-hq/hail",
+  "source_url": "https://github.com/hail-hq/hail",
+  "install": "# git clone --depth 1 https://github.com/hail-hq/hail\n# See source for mcpServers config block"
+}

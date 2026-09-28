@@ -1,0 +1,7 @@
+{
+  "name": "sitecore-xm-cloud-mcp-server",
+  "description": "AI-driven MCP server for Sitecore XM Cloud authoring, enabling template creation via GraphQL API with OAuth support for Sitecore Agentic Studio.",
+  "source_repo": "JagadeeshMaroju/sitecore-custom-mcp-connector-createtemplate",
+  "source_url": "https://github.com/JagadeeshMaroju/sitecore-custom-mcp-connector-createtemplate",
+  "install": "# git clone --depth 1 https://github.com/JagadeeshMaroju/sitecore-custom-mcp-connector-createtemplate\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-multi-agent-server",
+  "description": "A multi-domain multi-agent system served over MCP (Model Context Protocol) with FastMCP, exposing specialized domain agents as tools to automate business workflows.",
+  "source_repo": "sunnylabtv-crypto/ai_mcp_multi_agent-public",
+  "source_url": "https://github.com/sunnylabtv-crypto/ai_mcp_multi_agent-public",
+  "install": "# git clone --depth 1 https://github.com/sunnylabtv-crypto/ai_mcp_multi_agent-public\n# See source for mcpServers config block"
+}

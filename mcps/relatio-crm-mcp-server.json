@@ -1,0 +1,7 @@
+{
+  "name": "relatio-crm-mcp-server",
+  "description": "Enables AI assistants to manage CRM prospects, activities, reminders, and mailbox via natural language commands through the Model Context Protocol.",
+  "source_repo": "charbelkassab/relatio-crm",
+  "source_url": "https://github.com/charbelkassab/relatio-crm",
+  "install": "# git clone --depth 1 https://github.com/charbelkassab/relatio-crm\n# See source for mcpServers config block"
+}

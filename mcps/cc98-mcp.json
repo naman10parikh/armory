@@ -1,0 +1,7 @@
+{
+  "name": "cc98-mcp",
+  "description": "cc98-mcp enables AI assistants to search, read, and aggregate posts from the Zhejiang University campus forum CC98, using official read-only API tools.",
+  "source_repo": "EviterLesRoses2/cc98-mcp",
+  "source_url": "https://github.com/EviterLesRoses2/cc98-mcp",
+  "install": "npx -y cc98-mcp"
+}

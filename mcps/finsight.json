@@ -1,0 +1,7 @@
+{
+  "name": "finsight",
+  "description": "An AI-powered financial analyst MCP server that enables stock performance analysis, company comparison, and market trend interpretation directly in your IDE using local AI.",
+  "source_repo": "Hitub1316/FinSight",
+  "source_url": "https://github.com/Hitub1316/FinSight",
+  "install": "# git clone --depth 1 https://github.com/Hitub1316/FinSight\n# See source for mcpServers config block"
+}

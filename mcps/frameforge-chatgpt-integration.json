@@ -1,0 +1,7 @@
+{
+  "name": "frameforge-chatgpt-integration",
+  "description": "Enables ChatGPT to generate images, videos, and scenes through FrameForge, and open the full FrameForge experience, with secure OAuth-based authentication.",
+  "source_repo": "stepperandy/frameforge-chatgpt-integration",
+  "source_url": "https://github.com/stepperandy/frameforge-chatgpt-integration",
+  "install": "# git clone --depth 1 https://github.com/stepperandy/frameforge-chatgpt-integration\n# See source for mcpServers config block"
+}

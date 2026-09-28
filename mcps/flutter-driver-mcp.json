@@ -1,0 +1,7 @@
+{
+  "name": "flutter-driver-mcp",
+  "description": "An MCP server that lets AI agents see, tap, type, scroll, and assert inside live Flutter apps — no pre-written tests required.",
+  "source_repo": "funkyfunc/flutter-driver-mcp",
+  "source_url": "https://github.com/funkyfunc/flutter-driver-mcp",
+  "install": "npx -y flutter-driver-mcp"
+}

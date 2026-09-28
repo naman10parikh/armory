@@ -1,0 +1,7 @@
+{
+  "name": "k12-lesson-toolkit-standards-server",
+  "description": "MCP standards server that grounds K-12 lesson plans by providing tools to look up standards, progressions, curriculum, misconceptions, and learning components from open educational data.",
+  "source_repo": "woodfordintegrations-collab/k12-lesson-toolkit-for-claude-code",
+  "source_url": "https://github.com/woodfordintegrations-collab/k12-lesson-toolkit-for-claude-code",
+  "install": "# git clone --depth 1 https://github.com/woodfordintegrations-collab/k12-lesson-toolkit-for-claude-code\n# See source for mcpServers config block"
+}

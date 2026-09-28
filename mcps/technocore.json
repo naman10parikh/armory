@@ -1,0 +1,7 @@
+{
+  "name": "technocore",
+  "description": "Provides MCP tools for interacting with the Technocore agent protocol, including signed messaging, nonce management, DID verification, end-to-end encrypted communication, and untrusted data fencing.",
+  "source_repo": "noncesense67-spec/technocore-ts",
+  "source_url": "https://github.com/noncesense67-spec/technocore-ts",
+  "install": "# git clone --depth 1 https://github.com/noncesense67-spec/technocore-ts\n# See source for mcpServers config block"
+}

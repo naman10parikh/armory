@@ -1,0 +1,7 @@
+{
+  "name": "gdocs",
+  "description": "Enables Claude Code to read Google Docs and their comment threads, then write corrections and replies back into the same document at the same URL.",
+  "source_repo": "uma-victor1/gdocs-mcp",
+  "source_url": "https://github.com/uma-victor1/gdocs-mcp",
+  "install": "npx -y gdocs-mcp"
+}

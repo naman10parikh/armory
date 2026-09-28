@@ -1,6 +1,6 @@
 {
   "name": "mcp-weather",
-  "description": "Mcp_weather MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "xuezhijian/mcp_weather",
   "source_url": "https://mcp.so/server/mcp_weather/xuezhijian",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp_weather/xuezhijian\n# See source for mcpServers config block"

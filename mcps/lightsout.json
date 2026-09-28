@@ -1,0 +1,7 @@
+{
+  "name": "lightsout",
+  "description": "Agent orchestration system that runs coding-agent sessions (Claude Code, Codex) with policy mediation and exposes tools via MCP.",
+  "source_repo": "filipeagg/LightsOut",
+  "source_url": "https://github.com/filipeagg/LightsOut",
+  "install": "# git clone --depth 1 https://github.com/filipeagg/LightsOut\n# See source for mcpServers config block"
+}

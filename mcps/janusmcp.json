@@ -1,0 +1,7 @@
+{
+  "name": "janusmcp",
+  "description": "Local, open-source multi-account MCP broker — one endpoint, every account. Add credentials once and switch identity without reconnecting, from any LLM client.",
+  "source_repo": "Bayway/janusmcp",
+  "source_url": "https://github.com/Bayway/janusmcp",
+  "install": "# git clone --depth 1 https://github.com/Bayway/janusmcp\n# See source for mcpServers config block"
+}

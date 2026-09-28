@@ -1,0 +1,7 @@
+{
+  "name": "gym-mcp-server",
+  "description": "Expose any Gymnasium environment as an MCP server, automatically converting the Gym API into MCP tools that any agent can call via standard JSON interfaces.",
+  "source_repo": "AgentRing/gym-mcp-server",
+  "source_url": "https://github.com/AgentRing/gym-mcp-server",
+  "install": "npx -y gym-mcp-server"
+}

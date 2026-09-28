@@ -1,0 +1,7 @@
+{
+  "name": "nba-mcp",
+  "description": "MCP server for NBA live data and stats, providing read-only tools to query live scores, box scores, player info, standings, and more from NBA.com.",
+  "source_repo": "ufo2243/nba-mcp",
+  "source_url": "https://github.com/ufo2243/nba-mcp",
+  "install": "npx -y nba-mcp"
+}

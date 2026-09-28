@@ -1,0 +1,7 @@
+{
+  "name": "mcp-newsnow",
+  "description": "Aggregates hot news and trending topics from 14+ Chinese platforms like Zhihu, Weibo, Bilibili, and Douyin via the Newsnow API, providing tools to fetch single-source, multi-source, or all news.",
+  "source_repo": "sligter/mcp_newsnow",
+  "source_url": "https://github.com/sligter/mcp_newsnow",
+  "install": "# git clone --depth 1 https://github.com/sligter/mcp_newsnow\n# See source for mcpServers config block"
+}

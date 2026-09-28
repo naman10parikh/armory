@@ -1,0 +1,7 @@
+{
+  "name": "normsync",
+  "description": "Pre-commit norm gate for AI-generated PRs — enforces coding and contribution norms, blocking violations before they land.",
+  "source_repo": "sandeep-alluru/normsync",
+  "source_url": "https://github.com/sandeep-alluru/normsync",
+  "install": "# git clone --depth 1 https://github.com/sandeep-alluru/normsync\n# See source for mcpServers config block"
+}

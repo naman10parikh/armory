@@ -1,0 +1,7 @@
+{
+  "name": "mif-mcp-server",
+  "description": "Enables AI agents to export, import, validate, and inspect memories in the Memory Interchange Format (MIF), ensuring portability across different memory systems.",
+  "source_repo": "varun29ankuS/mif-spec",
+  "source_url": "https://github.com/varun29ankuS/mif-spec",
+  "install": "# git clone --depth 1 https://github.com/varun29ankuS/mif-spec\n# See source for mcpServers config block"
+}

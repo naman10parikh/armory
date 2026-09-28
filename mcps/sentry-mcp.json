@@ -1,0 +1,7 @@
+{
+  "name": "sentry-mcp",
+  "description": "Enables interaction with Sentry organizations, projects, and issues directly from MCP clients like Claude Code.",
+  "source_repo": "VitalyOstanin/sentry-mcp",
+  "source_url": "https://github.com/VitalyOstanin/sentry-mcp",
+  "install": "npx -y sentry-mcp"
+}

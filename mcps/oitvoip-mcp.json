@@ -1,0 +1,7 @@
+{
+  "name": "oitvoip-mcp",
+  "description": "MCP server for Oitvoip (NetSapiens) that exposes domain, reseller, device, subscriber, and CDR tools via the ns-api.",
+  "source_repo": "MSPbotsAI/oitvoip-mcp",
+  "source_url": "https://github.com/MSPbotsAI/oitvoip-mcp",
+  "install": "npx -y oitvoip-mcp"
+}

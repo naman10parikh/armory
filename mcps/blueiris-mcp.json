@@ -1,0 +1,7 @@
+{
+  "name": "blueiris-mcp",
+  "description": "MCP server for Blue Iris NVR, enabling camera health checks, live/historical snapshots, clip/alert search, and PTZ control via the Blue Iris JSON API.",
+  "source_repo": "smaniktahla/blueiris-mcp",
+  "source_url": "https://github.com/smaniktahla/blueiris-mcp",
+  "install": "npx -y blueiris-mcp"
+}

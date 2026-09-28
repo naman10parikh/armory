@@ -1,0 +1,7 @@
+{
+  "name": "godot-assistant",
+  "description": "An MCP server that lets AI coding agents work on Godot 4 projects, including reading and editing scenes, writing and validating GDScript, running the game, and capturing screenshots.",
+  "source_repo": "jmsansan/godot-assistant",
+  "source_url": "https://github.com/jmsansan/godot-assistant",
+  "install": "# git clone --depth 1 https://github.com/jmsansan/godot-assistant\n# See source for mcpServers config block"
+}

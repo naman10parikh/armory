@@ -1,0 +1,7 @@
+{
+  "name": "pymgba-mcp",
+  "description": "MCP server for the mGBA Game Boy/GBA emulator, enabling full emulator control, memory access, debugging, and screenshot capture through natural language.",
+  "source_repo": "zenitraM/pymgba-mcp",
+  "source_url": "https://github.com/zenitraM/pymgba-mcp",
+  "install": "npx -y pymgba-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "trademarks",
+  "description": "Enables USPTO trademark lookup by serial or registration number, retrieving status, owner, dates, and prosecution history.",
+  "source_repo": "pipeworx-io/mcp-trademarks",
+  "source_url": "https://github.com/pipeworx-io/mcp-trademarks",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-trademarks\n# See source for mcpServers config block"
+}

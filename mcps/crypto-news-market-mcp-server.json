@@ -1,0 +1,7 @@
+{
+  "name": "crypto-news-market-mcp-server",
+  "description": "Enables fetching crypto news, prices, market data, fear & greed index, and trending coins from various free sources, deployable online.",
+  "source_repo": "Soonthorn6996/Crypto-NEWS-MCP",
+  "source_url": "https://github.com/Soonthorn6996/Crypto-NEWS-MCP",
+  "install": "npx -y Crypto-NEWS-MCP"
+}

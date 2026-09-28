@@ -1,0 +1,7 @@
+{
+  "name": "ray-group-defi-ux-mcp-server",
+  "description": "Provides AI agents with direct access to the Ray Group DeFi UX rubric, named patterns, and cognitive-bias glossary for grounded UX assessments of DeFi protocols.",
+  "source_repo": "raygroup/raygroup-defi-ux-mcp",
+  "source_url": "https://github.com/raygroup/raygroup-defi-ux-mcp",
+  "install": "npx -y raygroup-defi-ux-mcp"
+}

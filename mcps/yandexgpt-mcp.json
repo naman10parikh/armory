@@ -1,0 +1,7 @@
+{
+  "name": "yandexgpt-mcp",
+  "description": "MCP server for Yandex GPT API enabling text generation, embeddings, classification, summarization, and tokenization.",
+  "source_repo": "theYahia/yandexgpt-mcp",
+  "source_url": "https://github.com/theYahia/yandexgpt-mcp",
+  "install": "npx -y yandexgpt-mcp"
+}

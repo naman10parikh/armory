@@ -1,0 +1,7 @@
+{
+  "name": "pantrist",
+  "description": "Manage your Pantrist pantry, shopping list, recipes, and weekly meal plan from Claude. The server wraps the same public REST API that powers the iOS, Android, and web apps, so your changes show up in real time on every device. * \"What's on my shopping list?\" * \"Add milk, eggs, and that brand of oliv",
+  "source_repo": "Pantrist-dev/pantrist-mcp",
+  "source_url": "https://github.com/Pantrist-dev/pantrist-mcp",
+  "install": "npx -y pantrist-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "flyan",
+  "description": "Unofficial Python SDK and MCP server for Ryanair flight search. Find one-way fares, explore destinations grouped by country or region, and discover the cheapest day to fly between any two airports. No API keys.",
+  "source_repo": "victorlane/Flyan",
+  "source_url": "https://github.com/victorlane/Flyan",
+  "install": "# git clone --depth 1 https://github.com/victorlane/Flyan\n# See source for mcpServers config block"
+}

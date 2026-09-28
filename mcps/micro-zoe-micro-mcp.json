@@ -1,0 +1,7 @@
+{
+  "name": "micro-zoe-micro-mcp",
+  "description": "An MCP server for micro-app integration that enables documentation crawling and related link retrieval.",
+  "source_repo": "jd-opensource/MicroApp-mcp",
+  "source_url": "https://github.com/jd-opensource/MicroApp-mcp",
+  "install": "npx -y MicroApp-mcp"
+}

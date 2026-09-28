@@ -1,0 +1,7 @@
+{
+  "name": "wolbarg-coordination-for-cursor",
+  "description": "Provides MCP tools and hooks for agent coordination within Cursor workspaces, enabling claim-based scope management, compliance auditing, and production readiness checks.",
+  "source_repo": "wolbarg/cursor",
+  "source_url": "https://github.com/wolbarg/cursor",
+  "install": "# git clone --depth 1 https://github.com/wolbarg/cursor\n# See source for mcpServers config block"
+}

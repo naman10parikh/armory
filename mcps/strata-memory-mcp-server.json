@@ -1,0 +1,7 @@
+{
+  "name": "strata-memory-mcp-server",
+  "description": "Enables AI agents to manage hierarchical memory with Markdown-based storage, tiered architecture (L0-L3), and hybrid retrieval for transparent and persistent context.",
+  "source_repo": "SherryLi-vc/strata-memory",
+  "source_url": "https://github.com/SherryLi-vc/strata-memory",
+  "install": "# git clone --depth 1 https://github.com/SherryLi-vc/strata-memory\n# See source for mcpServers config block"
+}

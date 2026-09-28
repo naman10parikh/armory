@@ -1,0 +1,7 @@
+{
+  "name": "trayfeel",
+  "description": "Enables AI agents to control a Linux optical drive tray as an emotive actuator, with tools for status, motion primitives, emotion choreographies, and diagnostics.",
+  "source_repo": "00011110/trayfeel",
+  "source_url": "https://github.com/00011110/trayfeel",
+  "install": "# git clone --depth 1 https://github.com/00011110/trayfeel\n# See source for mcpServers config block"
+}

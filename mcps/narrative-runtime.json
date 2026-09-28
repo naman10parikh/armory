@@ -1,0 +1,7 @@
+{
+  "name": "narrative-runtime",
+  "description": "Goal-oriented narrative state machine for AI agents, exposing live world/scene context as MCP tools and resources.",
+  "source_repo": "SanjoyDat1/narrative-runtime",
+  "source_url": "https://github.com/SanjoyDat1/narrative-runtime",
+  "install": "# git clone --depth 1 https://github.com/SanjoyDat1/narrative-runtime\n# See source for mcpServers config block"
+}

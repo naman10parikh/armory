@@ -1,0 +1,7 @@
+{
+  "name": "kicksite-mcp",
+  "description": "MCP server for the Kicksite martial-arts school management API, enabling natural language read and write operations on students, prospects, memberships, classes, attendance, and more.",
+  "source_repo": "sanjibani/kicksite-mcp",
+  "source_url": "https://github.com/sanjibani/kicksite-mcp",
+  "install": "npx -y kicksite-mcp"
+}

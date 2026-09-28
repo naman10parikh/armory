@@ -1,0 +1,7 @@
+{
+  "name": "opencode-advisor-mcp",
+  "description": "An unofficial MCP server that lets Codex ask a read-only OpenCode advisor for a second review pass on Git changes.",
+  "source_repo": "henrydontbbai/opencode-advisor-mcp",
+  "source_url": "https://github.com/henrydontbbai/opencode-advisor-mcp",
+  "install": "npx -y opencode-advisor-mcp"
+}

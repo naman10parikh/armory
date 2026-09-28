@@ -1,0 +1,7 @@
+{
+  "name": "paprika-mcp",
+  "description": "Enables natural language interaction with Paprika Recipe Manager to create, search, update recipes, and generate food photos via AI.",
+  "source_repo": "sandordaroczi/paprika-mcp-python-server",
+  "source_url": "https://github.com/sandordaroczi/paprika-mcp-python-server",
+  "install": "# git clone --depth 1 https://github.com/sandordaroczi/paprika-mcp-python-server\n# See source for mcpServers config block"
+}

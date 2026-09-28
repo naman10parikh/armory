@@ -1,0 +1,7 @@
+{
+  "name": "devtoolkit-mcp-server",
+  "description": "Provides AI assistants with 28 developer tools across file, git, code analysis, HTTP, and system domains, enabling tasks like file editing, repository management, code analysis, and shell command execution.",
+  "source_repo": "tusharrayamajhi/devtoolkit-mcp",
+  "source_url": "https://github.com/tusharrayamajhi/devtoolkit-mcp",
+  "install": "npx -y devtoolkit-mcp"
+}

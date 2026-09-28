@@ -1,0 +1,7 @@
+{
+  "name": "blizzard-wow-mcp",
+  "description": "Auction house analytics, market intelligence, crafting optimization, inventory valuation, farming routes, guild analytics, and token tracking — all through the Model Context Protocol.",
+  "source_repo": "CSOAI-ORG/blizzard-wow-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/blizzard-wow-mcp",
+  "install": "npx -y blizzard-wow-mcp"
+}

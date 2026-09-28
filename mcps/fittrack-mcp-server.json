@@ -1,0 +1,7 @@
+{
+  "name": "fittrack-mcp-server",
+  "description": "Enables AI assistants to answer questions about and log a user's FitTrack fitness data after validating a short-lived personal access token, with tools like recent_workouts and today_nutrition.",
+  "source_repo": "taimoorahmed91/MCP",
+  "source_url": "https://github.com/taimoorahmed91/MCP",
+  "install": "# git clone --depth 1 https://github.com/taimoorahmed91/MCP\n# See source for mcpServers config block"
+}

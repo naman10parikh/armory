@@ -1,0 +1,7 @@
+{
+  "name": "openfilings",
+  "description": "Enables querying and retrieving normalized financial statements from 25 non-US markets via a local MCP server, with support for company search, filing listings, and structured balance sheet data.",
+  "source_repo": "ryanrodrigues25200525-svg/openfilings",
+  "source_url": "https://github.com/ryanrodrigues25200525-svg/openfilings",
+  "install": "# git clone --depth 1 https://github.com/ryanrodrigues25200525-svg/openfilings\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "secmcp",
+  "description": "MCP servers exposing security operations tools (VirusTotal, MITRE Caldera, LimaCharlie) to AI agents with defense-in-depth safety controls.",
+  "source_repo": "scthornton/secmcp",
+  "source_url": "https://github.com/scthornton/secmcp",
+  "install": "# git clone --depth 1 https://github.com/scthornton/secmcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-pr-francisco-beltr-o-certid-o-negativa-de-d-bitos-mcp-server",
+  "description": "Enables consulting official negative debt certificates from the Prefeitura of Francisco Beltrão, Paraná, through a hosted MCP server with pay-per-use credits and read-only access.",
+  "source_repo": "mcp-dir/pref_pr_francisco_beltrao_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_pr_francisco_beltrao_cnd-mcp",
+  "install": "npx -y pref_pr_francisco_beltrao_cnd-mcp"
+}

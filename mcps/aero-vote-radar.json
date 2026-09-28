@@ -1,0 +1,7 @@
+{
+  "name": "aero-vote-radar",
+  "description": "An MCP server + CLI that reads live on-chain data from Aerodrome Finance (Base) to rank pools by veAERO vote efficiency, and recommends a vote allocation that accounts for self-dilution.",
+  "source_repo": "araxis33/aero-vote-radar",
+  "source_url": "https://github.com/araxis33/aero-vote-radar",
+  "install": "# git clone --depth 1 https://github.com/araxis33/aero-vote-radar\n# See source for mcpServers config block"
+}

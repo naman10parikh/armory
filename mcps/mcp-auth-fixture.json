@@ -1,0 +1,7 @@
+{
+  "name": "mcp-auth-fixture",
+  "description": "Minimal mock MCP server for testing authentication with dynamic API key and username/password, deployable on Vercel.",
+  "source_repo": "puzige/mcp-auth-fixture",
+  "source_url": "https://github.com/puzige/mcp-auth-fixture",
+  "install": "# git clone --depth 1 https://github.com/puzige/mcp-auth-fixture\n# See source for mcpServers config block"
+}

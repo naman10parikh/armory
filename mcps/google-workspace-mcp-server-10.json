@@ -1,0 +1,7 @@
+{
+  "name": "google-workspace-mcp-server-10",
+  "description": "A hardened, safety-first Google Calendar MCP server enabling AI agents to read and manage calendars with strict data isolation and runtime security limits.",
+  "source_repo": "wrik0/gws-workspace-agent",
+  "source_url": "https://github.com/wrik0/gws-workspace-agent",
+  "install": "# git clone --depth 1 https://github.com/wrik0/gws-workspace-agent\n# See source for mcpServers config block"
+}

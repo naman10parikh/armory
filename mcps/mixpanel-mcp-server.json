@@ -1,0 +1,7 @@
+{
+  "name": "mixpanel-mcp-server",
+  "description": "Enables AI assistants to track events, page views, user signups, and update user profiles in Mixpanel.",
+  "source_repo": "ciaraadkins/mixpanel-mcp-server",
+  "source_url": "https://github.com/ciaraadkins/mixpanel-mcp-server",
+  "install": "npx -y mixpanel-mcp-server"
+}

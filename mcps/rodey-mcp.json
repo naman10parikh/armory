@@ -1,0 +1,7 @@
+{
+  "name": "rodey-mcp",
+  "description": "Unofficial MCP server for RØDECaster Pro II, providing tools to read and write audio processing parameters like noise gate, compressor, and routing, enabling AI agents to control the mixer.",
+  "source_repo": "seanheiney/rodey",
+  "source_url": "https://github.com/seanheiney/rodey",
+  "install": "# git clone --depth 1 https://github.com/seanheiney/rodey\n# See source for mcpServers config block"
+}

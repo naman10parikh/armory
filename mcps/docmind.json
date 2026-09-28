@@ -1,0 +1,7 @@
+{
+  "name": "docmind",
+  "description": "An MCP-native document research agent that provides search, summarization, and citation tools for iterative multi-step research, ending in validated structured JSON reports.",
+  "source_repo": "dev-mhtmsr/DOCMIND-MCP-Native-Document-Research-Agent",
+  "source_url": "https://github.com/dev-mhtmsr/DOCMIND-MCP-Native-Document-Research-Agent",
+  "install": "# git clone --depth 1 https://github.com/dev-mhtmsr/DOCMIND-MCP-Native-Document-Research-Agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "decixa-mcp",
+  "description": "MCP server for Decixa that helps AI agents find and resolve APIs for tasks using natural language intents, with support for budget and latency filtering.",
+  "source_repo": "koki-socialgist/decixa-mcp",
+  "source_url": "https://github.com/koki-socialgist/decixa-mcp",
+  "install": "npx -y decixa-mcp"
+}

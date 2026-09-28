@@ -1,0 +1,7 @@
+{
+  "name": "drf-mcp",
+  "description": "Exposes Django REST Framework APIs as MCP tools for AI agents via the Model Context Protocol, with automatic discovery and security.",
+  "source_repo": "ziyacivan/drf-mcp",
+  "source_url": "https://github.com/ziyacivan/drf-mcp",
+  "install": "npx -y drf-mcp"
+}

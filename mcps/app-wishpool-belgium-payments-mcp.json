@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-belgium-payments-mcp",
+  "description": "Enables AI agents to create payment links and check payment status for Belgian payments (Bancontact, cards, etc.) via Mollie's hosted checkout.",
+  "source_repo": "junter1989k-ai/belgium-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/belgium-payments-mcp",
+  "install": "npx -y belgium-payments-mcp"
+}

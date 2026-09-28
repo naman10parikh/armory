@@ -1,0 +1,7 @@
+{
+  "name": "db-mcp-gateway",
+  "description": "Provides read-only access to databases for MCP-compatible AI tools, allowing schema exploration and SELECT queries without exposing credentials or risking data changes.",
+  "source_repo": "mdadul/db-mcp",
+  "source_url": "https://github.com/mdadul/db-mcp",
+  "install": "npx -y db-mcp"
+}

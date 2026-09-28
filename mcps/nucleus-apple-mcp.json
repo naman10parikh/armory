@@ -1,0 +1,7 @@
+{
+  "name": "nucleus-apple-mcp",
+  "description": "A macOS MCP server that provides AI agents with secure access to Calendar, Reminders, Notes, and Health data via native Apple APIs.",
+  "source_repo": "zish-rob-crur/nucleus-apple-mcp",
+  "source_url": "https://github.com/zish-rob-crur/nucleus-apple-mcp",
+  "install": "npx -y nucleus-apple-mcp"
+}

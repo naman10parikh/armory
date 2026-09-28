@@ -1,0 +1,7 @@
+{
+  "name": "toolalize-mcp",
+  "description": "Enables AI agents to perform unit and live currency conversions using Toolalize's free, multilingual conversion API, with tools for converting units, currencies, and listing available categories.",
+  "source_repo": "Vertisky/toolalize-mcp",
+  "source_url": "https://github.com/Vertisky/toolalize-mcp",
+  "install": "npx -y toolalize-mcp"
+}

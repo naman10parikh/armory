@@ -1,0 +1,7 @@
+{
+  "name": "h1b-sponsor-mcp",
+  "description": "Read-only MCP server for querying H-1B sponsoring employers from the USCIS dataset, providing tools to search employers, get year-by-year approvals, top sponsors, and trends across FY2009-2026.",
+  "source_repo": "ujjwalredd/H1B-Sponsor-MCP",
+  "source_url": "https://github.com/ujjwalredd/H1B-Sponsor-MCP",
+  "install": "npx -y H1B-Sponsor-MCP"
+}

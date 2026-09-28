@@ -1,0 +1,7 @@
+{
+  "name": "mux-mcp",
+  "description": "Enables AI agents to interact with Mux video infrastructure, providing tools for fetching video assets, clipping videos into shorts, monitoring live streams, pulling viewer analytics, and generating auto-captions.",
+  "source_repo": "NoBanks/mux-mcp",
+  "source_url": "https://github.com/NoBanks/mux-mcp",
+  "install": "npx -y mux-mcp"
+}

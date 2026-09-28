@@ -1,0 +1,7 @@
+{
+  "name": "spoooler",
+  "description": "Enables local-first Instagram reel production entirely over MCP, turning raw footage, URLs, or topics into finished reels with script generation, stock media, voiceover, and captions.",
+  "source_repo": "4nw3rprod/spoooler",
+  "source_url": "https://github.com/4nw3rprod/spoooler",
+  "install": "# git clone --depth 1 https://github.com/4nw3rprod/spoooler\n# See source for mcpServers config block"
+}

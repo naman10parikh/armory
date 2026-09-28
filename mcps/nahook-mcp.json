@@ -1,0 +1,7 @@
+{
+  "name": "nahook-mcp",
+  "description": "The official MCP server for Nahook. Manage webhook endpoints, inspect deliveries and delivery attempts, retry failed deliveries, and list environments — directly from Claude, Cursor, Cline, or any MCP-compatible client.",
+  "source_repo": "getnahook/nahook-mcp",
+  "source_url": "https://github.com/getnahook/nahook-mcp",
+  "install": "npx -y nahook-mcp"
+}

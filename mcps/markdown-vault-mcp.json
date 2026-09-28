@@ -1,0 +1,7 @@
+{
+  "name": "markdown-vault-mcp",
+  "description": "A generic Markdown vault MCP server with FTS5 full-text search, semantic vector search, frontmatter-aware indexing, incremental reindexing, and non-markdown attachment support that exposes search, read, write, and edit tools.",
+  "source_repo": "pvliesdonk/markdown-vault-mcp",
+  "source_url": "https://github.com/pvliesdonk/markdown-vault-mcp",
+  "install": "npx -y markdown-vault-mcp"
+}

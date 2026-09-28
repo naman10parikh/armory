@@ -1,0 +1,7 @@
+{
+  "name": "local-env-mcp",
+  "description": "Exposes your local machine's filesystem, git, shell, network, databases, and system to any MCP-compatible LLM client over HTTP.",
+  "source_repo": "basit-devBE/Local-MCP",
+  "source_url": "https://github.com/basit-devBE/Local-MCP",
+  "install": "npx -y Local-MCP"
+}

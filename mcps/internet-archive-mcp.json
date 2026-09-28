@@ -1,0 +1,7 @@
+{
+  "name": "internet-archive-mcp",
+  "description": "Full-coverage MCP server for Internet Archive, enabling search, metadata lookup, collection browsing, and Wayback Machine snapshot retrieval via 13 tools.",
+  "source_repo": "Dthen/internet-archive-mcp",
+  "source_url": "https://github.com/Dthen/internet-archive-mcp",
+  "install": "npx -y internet-archive-mcp"
+}

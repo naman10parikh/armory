@@ -1,0 +1,7 @@
+{
+  "name": "raglit-mcp-server",
+  "description": "Enables AI agents to ingest documents, generate embeddings, and perform semantic search via PostgREST APIs.",
+  "source_repo": "thebrownproject/raglit-mcp-server",
+  "source_url": "https://github.com/thebrownproject/raglit-mcp-server",
+  "install": "npx -y raglit-mcp-server"
+}

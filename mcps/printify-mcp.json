@@ -1,0 +1,7 @@
+{
+  "name": "printify-mcp",
+  "description": "Connect Printify to Claude to create, update, and publish print-on-demand products directly from chat.",
+  "source_repo": "mattglitcher12/printify-mcp",
+  "source_url": "https://github.com/mattglitcher12/printify-mcp",
+  "install": "npx -y printify-mcp"
+}

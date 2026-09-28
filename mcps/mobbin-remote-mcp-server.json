@@ -1,0 +1,7 @@
+{
+  "name": "mobbin-remote-mcp-server",
+  "description": "A Docker-ready MCP remote server that connects MCP clients like OpenCode to the Mobbin REST API using API keys, enabling access to Mobbin app design patterns and data without OAuth.",
+  "source_repo": "bridevmx/mobbin-mcp-server",
+  "source_url": "https://github.com/bridevmx/mobbin-mcp-server",
+  "install": "npx -y mobbin-mcp-server"
+}

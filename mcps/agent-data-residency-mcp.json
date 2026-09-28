@@ -1,0 +1,7 @@
+{
+  "name": "agent-data-residency-mcp",
+  "description": "GDPR Chapter V runtime guard for cross-region agent transfers. Supports adequacy decisions, SCCs, BCRs, and IDTA.",
+  "source_repo": "CSOAI-ORG/agent-data-residency-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/agent-data-residency-mcp",
+  "install": "npx -y agent-data-residency-mcp"
+}

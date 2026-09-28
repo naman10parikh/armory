@@ -1,0 +1,7 @@
+{
+  "name": "mpf-certid-o-negativa-mcp-server",
+  "description": "This server provides a read-only tool to query official Brazilian Federal Prosecution Service (MPF) negative certificates, accessible via MCP over HTTP with prepaid credits.",
+  "source_repo": "mcp-dir/mpf_certidao_negativa-mcp",
+  "source_url": "https://github.com/mcp-dir/mpf_certidao_negativa-mcp",
+  "install": "npx -y mpf_certidao_negativa-mcp"
+}

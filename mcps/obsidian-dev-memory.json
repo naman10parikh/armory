@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-dev-memory",
+  "description": "Provides AI coding assistants persistent engineering memory stored as Markdown files in an Obsidian vault, enabling project context retrieval, session capture, decision recording, and memory search without requiring Obsidian to be running.",
+  "source_repo": "jmjava/obsidian-mcp",
+  "source_url": "https://github.com/jmjava/obsidian-mcp",
+  "install": "npx -y obsidian-mcp"
+}

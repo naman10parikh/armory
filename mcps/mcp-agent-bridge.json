@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent-bridge",
+  "description": "An agent gateway that aggregates multiple local MCP servers into a single MCP endpoint with runtime control, hot-reloadable configuration, and meta tools like bridge__execute for calling any child server tool without restart.",
+  "source_repo": "rayss868/mcp-agent-bridge",
+  "source_url": "https://github.com/rayss868/mcp-agent-bridge",
+  "install": "# git clone --depth 1 https://github.com/rayss868/mcp-agent-bridge\n# See source for mcpServers config block"
+}

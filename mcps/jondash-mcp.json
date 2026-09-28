@@ -1,0 +1,7 @@
+{
+  "name": "jondash-mcp",
+  "description": "Enables AI assistants to read and manage a self-hosted JonDash dashboard through an authenticated API, with tools for status checks and planned service/user management.",
+  "source_repo": "jontiadcock/JonDash-mcp",
+  "source_url": "https://github.com/jontiadcock/JonDash-mcp",
+  "install": "npx -y JonDash-mcp"
+}

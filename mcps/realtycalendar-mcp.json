@@ -1,0 +1,7 @@
+{
+  "name": "realtycalendar-mcp",
+  "description": "Connects AI agents to RealtyCalendar accounts, allowing users to query bookings, availability, and check-ins via natural language, with local-first privacy and read-only access.",
+  "source_repo": "ilyautov/realtycalendar-mcp",
+  "source_url": "https://github.com/ilyautov/realtycalendar-mcp",
+  "install": "npx -y realtycalendar-mcp"
+}

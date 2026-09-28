@@ -1,0 +1,7 @@
+{
+  "name": "memorystar",
+  "description": "A local semantic memory MCP server for AI coding agents that provides persistent, searchable project knowledge including architecture notes, file symbols, git history, progress tracking, and a knowledge graph, all stored locally.",
+  "source_repo": "ussdeveloper/memory-star",
+  "source_url": "https://github.com/ussdeveloper/memory-star",
+  "install": "# git clone --depth 1 https://github.com/ussdeveloper/memory-star\n# See source for mcpServers config block"
+}

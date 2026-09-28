@@ -1,0 +1,7 @@
+{
+  "name": "mira-live2d",
+  "description": "Enables DSH chat interfaces to display a draggable/zoomable Live2D mascot with TTS speech, expression/model/motion switching, and mood-based expression changes via MCP tools.",
+  "source_repo": "xhqm-xyz/mira_live2d",
+  "source_url": "https://github.com/xhqm-xyz/mira_live2d",
+  "install": "# git clone --depth 1 https://github.com/xhqm-xyz/mira_live2d\n# See source for mcpServers config block"
+}

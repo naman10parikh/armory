@@ -1,0 +1,7 @@
+{
+  "name": "scriptblox-mcp",
+  "description": "Bridges Cursor with ScriptBlox via a Chrome extension, enabling search, read, upload, edit, and delete of Roblox scripts.",
+  "source_repo": "ErrorNoName/scriptblox-mcp",
+  "source_url": "https://github.com/ErrorNoName/scriptblox-mcp",
+  "install": "npx -y scriptblox-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pactus",
+  "description": "Pactus is an MCP server for parsing and validating ISO 20022 payment messages directly from chat. It exposes nine tools that let AI assistants inspect or validate pacs.008, pacs.002, pain.001, and camt.053 messages — the message types at the centre of the CBPR+ migration — without leaving the conver",
+  "source_repo": "deniskarlinsky/iso20022-mcp",
+  "source_url": "https://github.com/deniskarlinsky/iso20022-mcp",
+  "install": "npx -y iso20022-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wrath-mcp-server",
+  "description": "Provides MCP tools for managing the Wrath Grok addon, including doctor, config, policy_check, journal_tail, session_stats, and set_enabled.",
+  "source_repo": "Warexpor/wrath-addon",
+  "source_url": "https://github.com/Warexpor/wrath-addon",
+  "install": "# git clone --depth 1 https://github.com/Warexpor/wrath-addon\n# See source for mcpServers config block"
+}

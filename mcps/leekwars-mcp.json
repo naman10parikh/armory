@@ -1,0 +1,7 @@
+{
+  "name": "leekwars-mcp",
+  "description": "MCP server for LeekWars game enabling AI management, fight operations, item handling, and real-time socket communication via authenticated session.",
+  "source_repo": "Zleub/leekwars-mcp",
+  "source_url": "https://github.com/Zleub/leekwars-mcp",
+  "install": "npx -y leekwars-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentloop",
+  "description": "MCP server that enables AI agents to run a deterministic orchestration loop with decomposition, subagent execution, and review feedback across multiple LLM backends.",
+  "source_repo": "luckeyfaraday/athena-loops",
+  "source_url": "https://github.com/luckeyfaraday/athena-loops",
+  "install": "# git clone --depth 1 https://github.com/luckeyfaraday/athena-loops\n# See source for mcpServers config block"
+}

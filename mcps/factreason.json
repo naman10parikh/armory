@@ -1,0 +1,7 @@
+{
+  "name": "factreason",
+  "description": "Provides dependency upgrade advisories, API schemas for 1,097 services, and electronic component specifications over MCP, with Ed25519-signed evidence.",
+  "source_repo": "factreason/factreason",
+  "source_url": "https://github.com/factreason/factreason",
+  "install": "# git clone --depth 1 https://github.com/factreason/factreason\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reef",
+  "description": "reef is a hosted remote MCP server that gives a group shared, long-term assistant memory: a private cove per person plus shared coves for a household, a trip, or a project, stored as human-editable Markdown pages with privacy enforced by Postgres row-level security. Works from Claude (including mobi",
+  "source_repo": "diepzee/rif",
+  "source_url": "https://github.com/diepzee/rif",
+  "install": "# git clone --depth 1 https://github.com/diepzee/rif\n# See source for mcpServers config block"
+}

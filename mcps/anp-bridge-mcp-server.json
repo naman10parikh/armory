@@ -1,0 +1,7 @@
+{
+  "name": "anp-bridge-mcp-server",
+  "description": "Connects MCP-powered AI agents to the decentralized Agent Network Protocol (ANP) for DID-based identity, agent discovery, and secure agent-to-agent communication.",
+  "source_repo": "AiAgentKarl/anp-bridge-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/anp-bridge-mcp-server",
+  "install": "npx -y anp-bridge-mcp-server"
+}

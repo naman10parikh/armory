@@ -1,0 +1,7 @@
+{
+  "name": "qr-reader-mcp-server",
+  "description": "Enables AI models to decode QR codes from images by providing tools that scan and enhance QR codes, returning content and image quality diagnostics. It bridges the gap between visual recognition and actual decoding, allowing models to read QR codes directly from screenshots or photos.",
+  "source_repo": "Shalim-C/QR",
+  "source_url": "https://github.com/Shalim-C/QR",
+  "install": "# git clone --depth 1 https://github.com/Shalim-C/QR\n# See source for mcpServers config block"
+}

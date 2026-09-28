@@ -1,0 +1,7 @@
+{
+  "name": "bdc-doc-mcp",
+  "description": "Provides a documentation search MCP tool (search_docs) that enables AI agents to retrieve relevant chunks from BDC documentation using semantic embeddings and keyword search, with filtering by document type and date.",
+  "source_repo": "bdc-assist/bdc-doc-mcp",
+  "source_url": "https://github.com/bdc-assist/bdc-doc-mcp",
+  "install": "npx -y bdc-doc-mcp"
+}

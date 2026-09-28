@@ -1,0 +1,7 @@
+{
+  "name": "simscale-edge-mcp",
+  "description": "An MCP server that automates the SimScale Workbench through a visible Microsoft Edge browser using Playwright, enabling UI-based interactions like navigation, clicking, filling forms, uploading CAD files, and running simulations without the enterprise API.",
+  "source_repo": "getanirao/SimscaleMCP",
+  "source_url": "https://github.com/getanirao/SimscaleMCP",
+  "install": "# git clone --depth 1 https://github.com/getanirao/SimscaleMCP\n# See source for mcpServers config block"
+}

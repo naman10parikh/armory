@@ -1,0 +1,7 @@
+{
+  "name": "food-hygiene-mcp",
+  "description": "Query UK food hygiene ratings via MCP. Enables searching establishments by name, location, or rating.",
+  "source_repo": "w4sspr/food-hygiene-mcp",
+  "source_url": "https://github.com/w4sspr/food-hygiene-mcp",
+  "install": "npx -y food-hygiene-mcp"
+}

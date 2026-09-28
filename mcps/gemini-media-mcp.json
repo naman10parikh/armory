@@ -1,0 +1,7 @@
+{
+  "name": "gemini-media-mcp",
+  "description": "MCP server for generating images and videos using Google Gemini and VEO models, with support for multiple AI models and credential modes.",
+  "source_repo": "CxOAGI/gemini-media-mcp",
+  "source_url": "https://github.com/CxOAGI/gemini-media-mcp",
+  "install": "npx -y gemini-media-mcp"
+}

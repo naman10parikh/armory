@@ -1,0 +1,7 @@
+{
+  "name": "developer-tools-mcp-server",
+  "description": "Provides developer tools for searching PyPI packages, fetching GitHub repository info, searching Stack Overflow, and checking Python package compatibility using public APIs with no API keys required.",
+  "source_repo": "shashankgupta0998/developer-tools-mcp",
+  "source_url": "https://github.com/shashankgupta0998/developer-tools-mcp",
+  "install": "npx -y developer-tools-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gong",
+  "description": "Wraps the Gong API v2 to list users and retrieve call data through natural language queries.",
+  "source_repo": "pipeworx-io/mcp-gong",
+  "source_url": "https://github.com/pipeworx-io/mcp-gong",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-gong\n# See source for mcpServers config block"
+}

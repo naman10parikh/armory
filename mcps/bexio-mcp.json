@@ -1,0 +1,7 @@
+{
+  "name": "bexio-mcp",
+  "description": "A standalone MCP server for the bexio REST API, enabling interaction with bexio resources like contacts, invoices, and projects through natural language from any MCP client.",
+  "source_repo": "valmiremini/bexio-mcp",
+  "source_url": "https://github.com/valmiremini/bexio-mcp",
+  "install": "npx -y bexio-mcp"
+}

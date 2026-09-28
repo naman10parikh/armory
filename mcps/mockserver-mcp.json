@@ -1,0 +1,7 @@
+{
+  "name": "mockserver-mcp",
+  "description": "An MCP server for interacting with MockServer, enabling AI assistants to create mock HTTP expectations, verify requests, clear state, and manage MockServer instances programmatically.",
+  "source_repo": "Akkshay10/MCPClientMock",
+  "source_url": "https://github.com/Akkshay10/MCPClientMock",
+  "install": "# git clone --depth 1 https://github.com/Akkshay10/MCPClientMock\n# See source for mcpServers config block"
+}

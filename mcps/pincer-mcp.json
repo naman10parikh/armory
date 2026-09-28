@@ -1,0 +1,7 @@
+{
+  "name": "pincer-mcp",
+  "description": "A security-hardened MCP gateway that enables AI agents to call LLM APIs (Gemini, OpenAI, Claude, etc.) using ephemeral proxy tokens, eliminating exposure of real API keys.",
+  "source_repo": "VouchlyAI/Pincer-MCP",
+  "source_url": "https://github.com/VouchlyAI/Pincer-MCP",
+  "install": "npx -y Pincer-MCP"
+}

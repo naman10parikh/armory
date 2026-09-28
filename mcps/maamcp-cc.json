@@ -1,0 +1,7 @@
+{
+  "name": "maamcp-cc",
+  "description": "Enables Claude Code to directly control Android emulators or Windows windows for MaaFramework pipeline development, with features like screenshot with grid, template cropping, and real-time recognition testing.",
+  "source_repo": "Arcelibs/MaaMCP_CC",
+  "source_url": "https://github.com/Arcelibs/MaaMCP_CC",
+  "install": "# git clone --depth 1 https://github.com/Arcelibs/MaaMCP_CC\n# See source for mcpServers config block"
+}

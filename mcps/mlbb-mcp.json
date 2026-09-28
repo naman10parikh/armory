@@ -1,0 +1,7 @@
+{
+  "name": "mlbb-mcp",
+  "description": "Enables querying Mobile Legends: Bang Bang hero data including win rates, counters, synergies, and builds via natural language.",
+  "source_repo": "cebarrett/mlbb-mcp",
+  "source_url": "https://github.com/cebarrett/mlbb-mcp",
+  "install": "npx -y mlbb-mcp"
+}

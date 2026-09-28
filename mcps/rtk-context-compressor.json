@@ -1,0 +1,7 @@
+{
+  "name": "rtk-context-compressor",
+  "description": "Paid hosted MCP server for OpenAI Codex context compression, providing tools to compress context, estimate savings, issue receipts, and read history.",
+  "source_repo": "clauxel/rtk-context-compressor-mcp",
+  "source_url": "https://github.com/clauxel/rtk-context-compressor-mcp",
+  "install": "npx -y rtk-context-compressor-mcp"
+}

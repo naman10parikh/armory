@@ -1,0 +1,7 @@
+{
+  "name": "ecrvsp-documentos-segunda-via-de-crv",
+  "description": "MCP server for consulting official CRV (Certificado de Registro de Veículo) second copy documents via a hosted API, with read-only tools and prepaid per-query pricing.",
+  "source_repo": "mcp-dir/ecrvsp_docs_segunda_via_crv-mcp",
+  "source_url": "https://github.com/mcp-dir/ecrvsp_docs_segunda_via_crv-mcp",
+  "install": "npx -y ecrvsp_docs_segunda_via_crv-mcp"
+}

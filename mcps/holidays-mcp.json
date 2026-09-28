@@ -1,0 +1,7 @@
+{
+  "name": "holidays-mcp",
+  "description": "Provides real, official public holiday data for ~100 countries with tools to list holidays for a year and check if a specific date is a holiday. Free, no API key required, powered by Nager.Date.",
+  "source_repo": "Lulu-The-Narwhal/holidays-mcp",
+  "source_url": "https://github.com/Lulu-The-Narwhal/holidays-mcp",
+  "install": "npx -y holidays-mcp"
+}

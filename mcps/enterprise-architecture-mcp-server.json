@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-architecture-mcp-server",
+  "description": "Enables natural language interaction with enterprise tools including file, database, GitHub, Slack, browser, calendar, email, vector search, and Python calculation through OpenAI and MCP Client.",
+  "source_repo": "kimji9663/mcp_enterprise_architecture_project",
+  "source_url": "https://github.com/kimji9663/mcp_enterprise_architecture_project",
+  "install": "# git clone --depth 1 https://github.com/kimji9663/mcp_enterprise_architecture_project\n# See source for mcpServers config block"
+}

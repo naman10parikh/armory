@@ -1,0 +1,7 @@
+{
+  "name": "apigee-mcp",
+  "description": "Exposes Apigee X / GCP Management API operations as tools, enabling management of API proxies, environments, analytics, developers, apps, and API products through natural language commands.",
+  "source_repo": "gitRedDev/apigee-chat",
+  "source_url": "https://github.com/gitRedDev/apigee-chat",
+  "install": "# git clone --depth 1 https://github.com/gitRedDev/apigee-chat\n# See source for mcpServers config block"
+}

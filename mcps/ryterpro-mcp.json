@@ -1,0 +1,7 @@
+{
+  "name": "ryterpro-mcp",
+  "description": "AI text humanization and rewriting tools powered by Ryter Pro API.",
+  "source_repo": "apiihub33-cyber/ryterpro-mcp",
+  "source_url": "https://github.com/apiihub33-cyber/ryterpro-mcp",
+  "install": "npx -y ryterpro-mcp"
+}

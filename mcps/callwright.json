@@ -1,0 +1,7 @@
+{
+  "name": "callwright",
+  "description": "Enables AI assistants to place phone calls for reservations, appointments, confirmations, and inquiries through a self-hosted MCP server, with language support and learning capabilities.",
+  "source_repo": "topness-msft/callwright",
+  "source_url": "https://github.com/topness-msft/callwright",
+  "install": "# git clone --depth 1 https://github.com/topness-msft/callwright\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unifi-mcp-server",
+  "description": "MCP server providing Claude Code with full UniFi network management capabilities -- devices, clients, ports, bandwidth auditing, firewall policies, and traffic rules -- all through natural language.",
+  "source_repo": "philipvanlewis/unifi-mcp-server",
+  "source_url": "https://github.com/philipvanlewis/unifi-mcp-server",
+  "install": "npx -y unifi-mcp-server"
+}

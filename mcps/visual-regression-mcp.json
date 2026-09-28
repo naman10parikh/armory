@@ -1,0 +1,7 @@
+{
+  "name": "visual-regression-mcp",
+  "description": "Enables AI-assisted visual regression testing by capturing baselines, comparing screenshots, and using AI to judge whether visual differences are bugs or acceptable changes.",
+  "source_repo": "noGarne/visual-regression-mcp",
+  "source_url": "https://github.com/noGarne/visual-regression-mcp",
+  "install": "npx -y visual-regression-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "se-mcp",
+  "description": "MCP server for se-cli that exposes 50+ Selenium browser automation tools for AI agents, enabling browser control through a thin wrapper around se-cli.",
+  "source_repo": "se-cli/se-mcp",
+  "source_url": "https://github.com/se-cli/se-mcp",
+  "install": "npx -y se-mcp"
+}

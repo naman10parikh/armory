@@ -1,0 +1,7 @@
+{
+  "name": "tygagames",
+  "description": "Enables coding agents to manage a tyga.games publishing account, including roster, publishing rails, stack services, revenue, and API keys through the same /portal API as the web dashboard.",
+  "source_repo": "jyswee/tygagames",
+  "source_url": "https://github.com/jyswee/tygagames",
+  "install": "# git clone --depth 1 https://github.com/jyswee/tygagames\n# See source for mcpServers config block"
+}

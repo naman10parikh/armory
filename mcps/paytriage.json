@@ -1,0 +1,7 @@
+{
+  "name": "paytriage",
+  "description": "Enables AI agents to analyze payment gateway error messages and receive structured triage results, including likely causes, recommended checks, and retry safety guidance.",
+  "source_repo": "Flyingmiata-droid/paytriage",
+  "source_url": "https://github.com/Flyingmiata-droid/paytriage",
+  "install": "# git clone --depth 1 https://github.com/Flyingmiata-droid/paytriage\n# See source for mcpServers config block"
+}

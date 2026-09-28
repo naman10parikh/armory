@@ -1,0 +1,7 @@
+{
+  "name": "oke-mcp-server",
+  "description": "MCP server for Oracle Container Engine for Kubernetes (OKE) that enables inspection, querying, and troubleshooting of OKE clusters through safe, composable tools.",
+  "source_repo": "ronsevetoci/oke-mcp-server",
+  "source_url": "https://github.com/ronsevetoci/oke-mcp-server",
+  "install": "npx -y oke-mcp-server"
+}

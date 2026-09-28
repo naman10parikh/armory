@@ -1,0 +1,7 @@
+{
+  "name": "lightbulb-mcp",
+  "description": "MCP server to connect Claude Code, Codex, or Cursor to the Lightbulb Partners Agents platform, enabling domain agents, code workspaces, connectors, and more.",
+  "source_repo": "RPasquale/lightbulb-mcp",
+  "source_url": "https://github.com/RPasquale/lightbulb-mcp",
+  "install": "npx -y lightbulb-mcp"
+}

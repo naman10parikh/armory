@@ -1,0 +1,7 @@
+{
+  "name": "jenkins-to-github-actions-mcp-server",
+  "description": "Converts Jenkins declarative pipelines into GitHub Actions workflow YAML files, facilitating migration from Jenkins to GitHub Actions CI/CD.",
+  "source_repo": "ajaychinthapalli/jenkins-to-github-actions-mcp-server",
+  "source_url": "https://github.com/ajaychinthapalli/jenkins-to-github-actions-mcp-server",
+  "install": "npx -y jenkins-to-github-actions-mcp-server"
+}

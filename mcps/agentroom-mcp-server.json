@@ -1,0 +1,7 @@
+{
+  "name": "agentroom-mcp-server",
+  "description": "An MCP server that provides coordination tools (claim, release, broadcast, state) for concurrent coding agents working on a CRDT-merged shared filesystem, ensuring no edits are lost and enabling collaborative task completion.",
+  "source_repo": "seonglae/agentroom",
+  "source_url": "https://github.com/seonglae/agentroom",
+  "install": "# git clone --depth 1 https://github.com/seonglae/agentroom\n# See source for mcpServers config block"
+}

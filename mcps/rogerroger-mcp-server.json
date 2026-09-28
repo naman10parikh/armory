@@ -1,0 +1,7 @@
+{
+  "name": "rogerroger-mcp-server",
+  "description": "Enables AI assistants to manage RogerRoger CRM data including people, organizations, lists, tags, and tasks through standardized MCP tools.",
+  "source_repo": "RogerRogerHQ/rogerroger-mcp-server",
+  "source_url": "https://github.com/RogerRogerHQ/rogerroger-mcp-server",
+  "install": "npx -y rogerroger-mcp-server"
+}

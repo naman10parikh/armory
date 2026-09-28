@@ -1,0 +1,7 @@
+{
+  "name": "bing-cn-mcp-server",
+  "description": "Provides Bing Chinese search and webpage crawling tools, enabling AI assistants to fetch real-time web information without API keys.",
+  "source_repo": "yan5236/bing-cn-mcp-server",
+  "source_url": "https://github.com/yan5236/bing-cn-mcp-server",
+  "install": "npx -y bing-cn-mcp-server"
+}

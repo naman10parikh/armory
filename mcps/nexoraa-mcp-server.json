@@ -1,0 +1,7 @@
+{
+  "name": "nexoraa-mcp-server",
+  "description": "Exposes 36 skills covering 137 AI jobs across 7 departments, enabling AI workforce deployment and management through any MCP client.",
+  "source_repo": "astatineRS/Nexoraa-tree",
+  "source_url": "https://github.com/astatineRS/Nexoraa-tree",
+  "install": "# git clone --depth 1 https://github.com/astatineRS/Nexoraa-tree\n# See source for mcpServers config block"
+}

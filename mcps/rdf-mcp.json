@@ -1,0 +1,7 @@
+{
+  "name": "rdf-mcp",
+  "description": "MCP servers for querying Brick and 223P ontologies, enabling abbreviation expansion, term/property lookup, and definition retrieval.",
+  "source_repo": "gtfierro/rdf-mcp",
+  "source_url": "https://github.com/gtfierro/rdf-mcp",
+  "install": "npx -y rdf-mcp"
+}

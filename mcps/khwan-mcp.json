@@ -1,0 +1,7 @@
+{
+  "name": "khwan-mcp",
+  "description": "Enables persistent, distilled memory for AI assistants, allowing recall and storage of durable facts across sessions and subagents via MCP.",
+  "source_repo": "khwanlabs/khwan-mcp",
+  "source_url": "https://github.com/khwanlabs/khwan-mcp",
+  "install": "npx -y khwan-mcp"
+}

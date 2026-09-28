@@ -1,0 +1,7 @@
+{
+  "name": "morph-websearch-mcp",
+  "description": "Enables web search, page fetching, and AI-powered research via DuckDuckGo, with context compaction and agent reasoning using morphllm.",
+  "source_repo": "sabari245/websearch-mcp",
+  "source_url": "https://github.com/sabari245/websearch-mcp",
+  "install": "npx -y websearch-mcp"
+}

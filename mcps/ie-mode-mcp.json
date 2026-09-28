@@ -1,0 +1,7 @@
+{
+  "name": "ie-mode-mcp",
+  "description": "Enables AI agents to control legacy web applications running in Microsoft Edge's IE Mode via MCP, using Selenium WebDriver and IEDriverServer for browser automation.",
+  "source_repo": "sumikof/iedriver-mcp",
+  "source_url": "https://github.com/sumikof/iedriver-mcp",
+  "install": "npx -y iedriver-mcp"
+}

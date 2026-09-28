@@ -1,0 +1,7 @@
+{
+  "name": "limpet",
+  "description": "Persistent memory for AI coding agents that knows when it has gone stale.",
+  "source_repo": "KSym04/limpet",
+  "source_url": "https://github.com/KSym04/limpet",
+  "install": "# git clone --depth 1 https://github.com/KSym04/limpet\n# See source for mcpServers config block"
+}

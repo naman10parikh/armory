@@ -1,0 +1,7 @@
+{
+  "name": "ladder-mcp",
+  "description": "Windows-first MCP bridge for Kimi Code CLI, exposing code analysis, editing, sessions, and diagnostics as tools for AI agents.",
+  "source_repo": "Arhimage/ladder-mcp",
+  "source_url": "https://github.com/Arhimage/ladder-mcp",
+  "install": "npx -y ladder-mcp"
+}

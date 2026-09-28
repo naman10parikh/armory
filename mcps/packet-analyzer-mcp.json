@@ -1,0 +1,7 @@
+{
+  "name": "packet-analyzer-mcp",
+  "description": "Enables network packet capture, analysis, and threat detection via distributed client-server architecture with RabbitMQ, PostgreSQL, and external security APIs (NVD CVE, MITRE ATT&CK, AbuseIPDB).",
+  "source_repo": "choihyuunmin/packet-analyzer-mcp",
+  "source_url": "https://github.com/choihyuunmin/packet-analyzer-mcp",
+  "install": "npx -y packet-analyzer-mcp"
+}

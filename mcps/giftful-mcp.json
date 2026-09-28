@@ -1,0 +1,7 @@
+{
+  "name": "giftful-mcp",
+  "description": "A local MCP server for managing Giftful lists and wishes programmatically, with secure authentication, credential-vault storage, and tools for lists, wishes, categories, claiming, and social browsing.",
+  "source_repo": "matt-pulsipher/giftful-mcp",
+  "source_url": "https://github.com/matt-pulsipher/giftful-mcp",
+  "install": "npx -y giftful-mcp"
+}

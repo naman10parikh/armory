@@ -1,0 +1,7 @@
+{
+  "name": "business-card-watchdog",
+  "description": "Business Card Watchdog is an installable, user-scoped service for processing large batches of business card images from watched folders. It exposes CLI, API, MCP, and watched-folder surfaces for deterministic orchestration and routing to Google Contacts or Odoo.",
+  "source_repo": "CochranResearchGroup/business-card-watchdog",
+  "source_url": "https://github.com/CochranResearchGroup/business-card-watchdog",
+  "install": "# git clone --depth 1 https://github.com/CochranResearchGroup/business-card-watchdog\n# See source for mcpServers config block"
+}

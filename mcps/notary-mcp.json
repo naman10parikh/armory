@@ -1,0 +1,7 @@
+{
+  "name": "notary-mcp",
+  "description": "An MCP approval gate that ensures agents execute only human-approved, hash-verified actions, providing fail-closed consent for consequential operations.",
+  "source_repo": "salmanneedsajob/notary-mcp",
+  "source_url": "https://github.com/salmanneedsajob/notary-mcp",
+  "install": "npx -y notary-mcp"
+}

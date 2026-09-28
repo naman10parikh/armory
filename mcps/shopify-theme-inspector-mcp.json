@@ -1,0 +1,7 @@
+{
+  "name": "shopify-theme-inspector-mcp",
+  "description": "Connects Shopify's Liquid profiler to AI assistants to diagnose slow themes, providing performance reports and recommendations without editing the live theme.",
+  "source_repo": "dragnoir/Shopify-Theme-Inspector-MCP",
+  "source_url": "https://github.com/dragnoir/Shopify-Theme-Inspector-MCP",
+  "install": "npx -y Shopify-Theme-Inspector-MCP"
+}

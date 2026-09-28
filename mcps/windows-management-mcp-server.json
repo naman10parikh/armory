@@ -1,0 +1,7 @@
+{
+  "name": "windows-management-mcp-server",
+  "description": "A Python-based MCP server for local Windows diagnostics, task management, cleanup, hardware inspection, security checks, and administrative workflows.",
+  "source_repo": "AhmedLaminou/windows-mcp-server",
+  "source_url": "https://github.com/AhmedLaminou/windows-mcp-server",
+  "install": "npx -y windows-mcp-server"
+}

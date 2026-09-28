@@ -1,0 +1,7 @@
+{
+  "name": "oom-x402-mcp",
+  "description": "MCP server exposing 1,000+ pay-per-call API endpoints across agent infrastructure (memory, coordination, secrets, verification), data, compute, finance, weather, geography, and reference categories — payments via x402 protocol in USDC on Base.",
+  "source_repo": "OrdersOfMagnitudeLLC/x402",
+  "source_url": "https://github.com/OrdersOfMagnitudeLLC/x402",
+  "install": "# git clone --depth 1 https://github.com/OrdersOfMagnitudeLLC/x402\n# See source for mcpServers config block"
+}

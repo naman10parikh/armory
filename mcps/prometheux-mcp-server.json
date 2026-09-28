@@ -1,0 +1,7 @@
+{
+  "name": "prometheux-mcp-server",
+  "description": "Enables AI agents like Claude to interact with Prometheux knowledge graphs and reasoning capabilities, allowing users to list and run concepts in their projects through natural conversation.",
+  "source_repo": "prometheuxresearch/px-mcp-server",
+  "source_url": "https://github.com/prometheuxresearch/px-mcp-server",
+  "install": "npx -y px-mcp-server"
+}

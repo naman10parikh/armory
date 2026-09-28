@@ -1,0 +1,7 @@
+{
+  "name": "yamory-mcp-server",
+  "description": "Enables AI agents to query yamory vulnerability management for vulnerability detection, risk assessment, and remediation guidance.",
+  "source_repo": "AranSeshita/yamory-mcp-server",
+  "source_url": "https://github.com/AranSeshita/yamory-mcp-server",
+  "install": "npx -y yamory-mcp-server"
+}

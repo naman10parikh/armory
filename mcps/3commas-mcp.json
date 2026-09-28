@@ -1,0 +1,7 @@
+{
+  "name": "3commas-mcp",
+  "description": "A Model Context Protocol (MCP) server that integrates AI assistants with the 3Commas cryptocurrency trading platform API, enabling management of DCA bots and trading strategies through natural conversation.",
+  "source_repo": "severity1/3commas-mcp",
+  "source_url": "https://github.com/severity1/3commas-mcp",
+  "install": "npx -y 3commas-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tootega-dase-mcp",
+  "description": "Proxy server that enables Claude Code to interact with the DASE ORM Designer VS Code extension, providing 42 tools for database design and management.",
+  "source_repo": "HermesSilva/DASE-MCP",
+  "source_url": "https://github.com/HermesSilva/DASE-MCP",
+  "install": "npx -y DASE-MCP"
+}

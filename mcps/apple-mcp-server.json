@@ -1,0 +1,7 @@
+{
+  "name": "apple-mcp-server",
+  "description": "Exposes macOS system controls and Apple apps as structured tools for Claude, enabling control of volume, music, files, browser tabs, and more via natural language with configurable permissions and rate limiting.",
+  "source_repo": "lacausecrypto/apple-mcp-server",
+  "source_url": "https://github.com/lacausecrypto/apple-mcp-server",
+  "install": "npx -y apple-mcp-server"
+}

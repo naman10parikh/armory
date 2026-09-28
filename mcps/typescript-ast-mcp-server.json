@@ -1,0 +1,7 @@
+{
+  "name": "typescript-ast-mcp-server",
+  "description": "Provides deep structural analysis of TypeScript and JavaScript code via the TypeScript Compiler API, offering 20 tools for functions, types, call graphs, code quality, dead code detection, and IDE integration.",
+  "source_repo": "gclluch/ts-ast-mcp",
+  "source_url": "https://github.com/gclluch/ts-ast-mcp",
+  "install": "npx -y ts-ast-mcp"
+}

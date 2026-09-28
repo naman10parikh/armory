@@ -1,0 +1,7 @@
+{
+  "name": "medical-billing-mcp",
+  "description": "Enables AI assistants to look up medical billing codes, denial reasons, and payer rules for faster claim resolution.",
+  "source_repo": "Kustode-ce/medical-billing-mcp",
+  "source_url": "https://github.com/Kustode-ce/medical-billing-mcp",
+  "install": "npx -y medical-billing-mcp"
+}

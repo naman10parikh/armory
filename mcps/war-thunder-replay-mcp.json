@@ -1,0 +1,7 @@
+{
+  "name": "war-thunder-replay-mcp",
+  "description": "Downloads War Thunder server replay .wrpl fragments by user and session ID, storing them in organized local folders.",
+  "source_repo": "SMOKE-19/warthunder-replay-mcp",
+  "source_url": "https://github.com/SMOKE-19/warthunder-replay-mcp",
+  "install": "npx -y warthunder-replay-mcp"
+}

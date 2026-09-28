@@ -1,0 +1,7 @@
+{
+  "name": "supernova123-grpc-mcp-server",
+  "description": "MCP server for gRPC — service discovery via server reflection, method invocation, and type schema inspection for AI agents.",
+  "source_repo": "friendlygeorge/grpc-mcp-server",
+  "source_url": "https://github.com/friendlygeorge/grpc-mcp-server",
+  "install": "npx -y grpc-mcp-server"
+}

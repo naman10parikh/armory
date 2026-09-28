@@ -1,0 +1,7 @@
+{
+  "name": "screen-memory-mcp",
+  "description": "Enables Claude to remember and search everything that appeared on your screen using local OCR and embeddings. Provides tools for semantic search, activity timeline, and code change tracking.",
+  "source_repo": "yonglim2392/screen-memory-mcp",
+  "source_url": "https://github.com/yonglim2392/screen-memory-mcp",
+  "install": "npx -y screen-memory-mcp"
+}

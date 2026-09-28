@@ -1,0 +1,7 @@
+{
+  "name": "claude-gemini-compactor-mcp",
+  "description": "An MCP server that bypasses Claude's context by routing file processing to local or cloud AI, saving token costs. It reads files from disk and returns distilled results without Claude seeing the raw content.",
+  "source_repo": "SuarezPM/claude-gemini-compactor-mcp",
+  "source_url": "https://github.com/SuarezPM/claude-gemini-compactor-mcp",
+  "install": "npx -y claude-gemini-compactor-mcp"
+}

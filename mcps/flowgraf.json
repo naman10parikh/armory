@@ -1,0 +1,7 @@
+{
+  "name": "flowgraf",
+  "description": "AI-native architecture diagramming for MCP clients (Claude Code, Cursor, Windsurf). The calling agent authors the graph (nodes, groups, edges); Flowgraf validates it, lays it out deterministically with ELK, renders an SVG + Mermaid, and returns a link to a live, editable canvas you can refine by cha",
+  "source_repo": "abhishek-genailytics/flowgraf-mcp",
+  "source_url": "https://github.com/abhishek-genailytics/flowgraf-mcp",
+  "install": "npx -y flowgraf-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tenable-activity-mcp",
+  "description": "Enables querying and analyzing Tenable Vulnerability Management audit logs, including activity summaries, API key usage, and anomaly detection through MCP tools.",
+  "source_repo": "brendanong95/tenable-activity-mcp",
+  "source_url": "https://github.com/brendanong95/tenable-activity-mcp",
+  "install": "npx -y tenable-activity-mcp"
+}

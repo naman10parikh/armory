@@ -1,0 +1,7 @@
+{
+  "name": "mcp-transit-land",
+  "description": "Enables querying global transit data including agencies, routes, stops, and departures through a GTFS aggregator.",
+  "source_repo": "pipeworx-io/mcp-transit-land",
+  "source_url": "https://github.com/pipeworx-io/mcp-transit-land",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-transit-land\n# See source for mcpServers config block"
+}

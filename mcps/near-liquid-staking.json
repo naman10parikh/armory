@@ -1,0 +1,7 @@
+{
+  "name": "near-liquid-staking",
+  "description": "MCP server enabling Claude to interact with NEAR liquid staking protocols Meta Pool (stNEAR) and Linear Protocol (LiNEAR) for balance checks, exchange rates, staking, unstaking, and DeFi integrations.",
+  "source_repo": "jim-agent/mcp-near-staking",
+  "source_url": "https://github.com/jim-agent/mcp-near-staking",
+  "install": "# git clone --depth 1 https://github.com/jim-agent/mcp-near-staking\n# See source for mcpServers config block"
+}

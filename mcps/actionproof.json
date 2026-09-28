@@ -1,0 +1,7 @@
+{
+  "name": "actionproof",
+  "description": "Gives AI agents verifiable, tamper-evident receipts for their actions — attest_action signs a cryptographic receipt for what the agent did (email sent, payment made, form filed), verify_receipt checks it offline, get_identity returns the agent's did:key. Sign locally, verify anywhere, zero backend.",
+  "source_repo": "Burakfenerci5/actionproof",
+  "source_url": "https://github.com/Burakfenerci5/actionproof",
+  "install": "# git clone --depth 1 https://github.com/Burakfenerci5/actionproof\n# See source for mcpServers config block"
+}

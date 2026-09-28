@@ -1,0 +1,7 @@
+{
+  "name": "blender-mcp-fork",
+  "description": "A simplified installation fork of the Blender MCP server, enabling control of Blender through natural language via MCP. Provides an automated setup script and easy add-on configuration.",
+  "source_repo": "mgi24/blender-mcp",
+  "source_url": "https://github.com/mgi24/blender-mcp",
+  "install": "npx -y blender-mcp"
+}

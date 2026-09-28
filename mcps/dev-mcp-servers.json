@@ -1,0 +1,7 @@
+{
+  "name": "dev-mcp-servers",
+  "description": "Provides MCP servers for ElevenLabs (text-to-speech and sound effects) and Meshy.ai (3D generation), with a request preview mode to inspect API calls without incurring costs.",
+  "source_repo": "kbs-cloud/dev-mcp-servers",
+  "source_url": "https://github.com/kbs-cloud/dev-mcp-servers",
+  "install": "# git clone --depth 1 https://github.com/kbs-cloud/dev-mcp-servers\n# See source for mcpServers config block"
+}

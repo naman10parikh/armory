@@ -1,0 +1,7 @@
+{
+  "name": "mcp-memory-server",
+  "description": "A memory server that manages a knowledge graph with entities and relations, supports internet search via DuckDuckGo, and stores dialogue history, enabling persistent memory and web interaction for AI assistants.",
+  "source_repo": "IntelOut/mcp",
+  "source_url": "https://github.com/IntelOut/mcp",
+  "install": "# git clone --depth 1 https://github.com/IntelOut/mcp\n# See source for mcpServers config block"
+}

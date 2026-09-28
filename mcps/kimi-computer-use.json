@@ -1,0 +1,7 @@
+{
+  "name": "kimi-computer-use",
+  "description": "Bridges Kimi Code CLI to OpenAI Computer Use, enabling Kimi to control local macOS applications via MCP.",
+  "source_repo": "songkeys/kimi-computer-use",
+  "source_url": "https://github.com/songkeys/kimi-computer-use",
+  "install": "# git clone --depth 1 https://github.com/songkeys/kimi-computer-use\n# See source for mcpServers config block"
+}

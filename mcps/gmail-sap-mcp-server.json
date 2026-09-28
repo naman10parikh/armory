@@ -1,0 +1,7 @@
+{
+  "name": "gmail-sap-mcp-server",
+  "description": "Provides MCP tools for searching, reading, and drafting Gmail emails, as well as querying SAP OData endpoints with safe read operations and mock mode.",
+  "source_repo": "suryanandan1/MCP-with-Gmail-and-SAP",
+  "source_url": "https://github.com/suryanandan1/MCP-with-Gmail-and-SAP",
+  "install": "# git clone --depth 1 https://github.com/suryanandan1/MCP-with-Gmail-and-SAP\n# See source for mcpServers config block"
+}

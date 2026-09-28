@@ -1,0 +1,7 @@
+{
+  "name": "svelte-component-graph-mcp",
+  "description": "An MCP server that exposes a Svelte/SvelteKit project's component dependency graph over stdio, enabling AI coding assistants to query component imports, unused components, and route dependencies without an editor.",
+  "source_repo": "jamcgrath/svelte-component-graph-mcp",
+  "source_url": "https://github.com/jamcgrath/svelte-component-graph-mcp",
+  "install": "npx -y svelte-component-graph-mcp"
+}

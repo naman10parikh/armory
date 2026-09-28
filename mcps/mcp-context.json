@@ -1,0 +1,7 @@
+{
+  "name": "mcp-context",
+  "description": "A plugin that intercepts large MCP tool outputs, indexes them into a local FTS5 knowledge base, and replaces them with summaries, enabling searchable retrieval to save context window space.",
+  "source_repo": "byliu-labs/mcp-context",
+  "source_url": "https://github.com/byliu-labs/mcp-context",
+  "install": "# git clone --depth 1 https://github.com/byliu-labs/mcp-context\n# See source for mcpServers config block"
+}

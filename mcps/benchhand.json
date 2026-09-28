@@ -1,0 +1,7 @@
+{
+  "name": "benchhand",
+  "description": "A durable, cross-platform development MCP server providing managed Git worktrees, bounded file operations, atomic writes, deterministic patches, and durable operation state. It gives MCP clients a reliable development control plane that survives restarts and enforces precise mutation contracts.",
+  "source_repo": "bingoweb/benchhand",
+  "source_url": "https://github.com/bingoweb/benchhand",
+  "install": "# git clone --depth 1 https://github.com/bingoweb/benchhand\n# See source for mcpServers config block"
+}

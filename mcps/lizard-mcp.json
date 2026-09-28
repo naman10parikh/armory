@@ -1,0 +1,7 @@
+{
+  "name": "lizard-mcp",
+  "description": "Enables deploying and managing apps on Lizard via natural language, covering services, deploys, logs, secrets, domains, and configuration as code.",
+  "source_repo": "lizard-build/lizard-mcp",
+  "source_url": "https://github.com/lizard-build/lizard-mcp",
+  "install": "npx -y lizard-mcp"
+}

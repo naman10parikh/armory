@@ -1,0 +1,7 @@
+{
+  "name": "universal-mcp-oauth-gateway",
+  "description": "A deployable serverless MCP OAuth gateway and proxy that adds OAuth 2.0 authentication to Excalidraw tools or any external MCP server, enabling secure connections from clients like Google Spark and Gemini.",
+  "source_repo": "noqtar/excalidraw-mcp-oauth",
+  "source_url": "https://github.com/noqtar/excalidraw-mcp-oauth",
+  "install": "# git clone --depth 1 https://github.com/noqtar/excalidraw-mcp-oauth\n# See source for mcpServers config block"
+}

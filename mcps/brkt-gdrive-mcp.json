@@ -1,0 +1,7 @@
+{
+  "name": "brkt-gdrive-mcp",
+  "description": "MCP server for semantic search over Google Drive documents, enabling AI tools to search, list, and retrieve document content.",
+  "source_repo": "tone-row/brkt-gdrive-mcp",
+  "source_url": "https://github.com/tone-row/brkt-gdrive-mcp",
+  "install": "npx -y brkt-gdrive-mcp"
+}

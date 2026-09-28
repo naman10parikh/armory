@@ -1,0 +1,7 @@
+{
+  "name": "google-drive-files-mcp",
+  "description": "A focused MCP server for Google Drive file management, Google Sheets editing, and surgical Google Docs editing with 23 granular, single-purpose tools.",
+  "source_repo": "zayansalman/google-drive-files-mcp",
+  "source_url": "https://github.com/zayansalman/google-drive-files-mcp",
+  "install": "npx -y google-drive-files-mcp"
+}

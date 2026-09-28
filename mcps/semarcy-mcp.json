@@ -1,0 +1,7 @@
+{
+  "name": "semarcy-mcp",
+  "description": "MCP server providing RAG-powered access to Semarchy documentation (xDM, xDI, xDG) for AI assistants.",
+  "source_repo": "abicyclerider/semarcy-mcp",
+  "source_url": "https://github.com/abicyclerider/semarcy-mcp",
+  "install": "npx -y semarcy-mcp"
+}

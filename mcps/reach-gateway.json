@@ -1,0 +1,7 @@
+{
+  "name": "reach-gateway",
+  "description": "Read-only MCP service for normalized public evidence from Web, X, YouTube, Reddit, and RSS. Owner-authenticated via Cloudflare Access, it exposes health, read, and transcript actions to ChatGPT and Codex.",
+  "source_repo": "Anazeez/reach-gateway",
+  "source_url": "https://github.com/Anazeez/reach-gateway",
+  "install": "# git clone --depth 1 https://github.com/Anazeez/reach-gateway\n# See source for mcpServers config block"
+}

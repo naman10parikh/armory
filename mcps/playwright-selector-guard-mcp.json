@@ -1,0 +1,7 @@
+{
+  "name": "playwright-selector-guard-mcp",
+  "description": "Detects brittle Playwright selectors and provides healing suggestions, action receipts, human approvals, and failure exports.",
+  "source_repo": "clauxel/playwright-selector-guard-mcp",
+  "source_url": "https://github.com/clauxel/playwright-selector-guard-mcp",
+  "install": "npx -y playwright-selector-guard-mcp"
+}

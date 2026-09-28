@@ -1,0 +1,7 @@
+{
+  "name": "ncm-mcp-server",
+  "description": "MCP server for NetEase Cloud Music, enabling Claude to search songs, add and switch tracks, accept listen-together invites, and send private messages via encrypted API calls.",
+  "source_repo": "1049376904-crypto/ncm-mcp-server",
+  "source_url": "https://github.com/1049376904-crypto/ncm-mcp-server",
+  "install": "npx -y ncm-mcp-server"
+}

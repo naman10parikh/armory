@@ -1,0 +1,7 @@
+{
+  "name": "minimal-gdocs",
+  "description": "A minimal MCP server for creating and updating Google Docs from markdown.",
+  "source_repo": "rowbradley/minimal-gdocs",
+  "source_url": "https://github.com/rowbradley/minimal-gdocs",
+  "install": "# git clone --depth 1 https://github.com/rowbradley/minimal-gdocs\n# See source for mcpServers config block"
+}

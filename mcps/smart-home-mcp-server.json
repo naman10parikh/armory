@@ -1,0 +1,7 @@
+{
+  "name": "smart-home-mcp-server",
+  "description": "Controls TAPO L530E smart light bulbs via MCP, supporting on/off, brightness, and color temperature, with local and remote AWS deployment.",
+  "source_repo": "jui-hung-yuan/smarthome-mcp-lab",
+  "source_url": "https://github.com/jui-hung-yuan/smarthome-mcp-lab",
+  "install": "# git clone --depth 1 https://github.com/jui-hung-yuan/smarthome-mcp-lab\n# See source for mcpServers config block"
+}

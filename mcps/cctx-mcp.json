@@ -1,0 +1,7 @@
+{
+  "name": "cctx-mcp",
+  "description": "An MCP server that provides structure-aware code analysis (symbol trees, dependencies, docs) to reduce AI agent token consumption by up to 99%, along with Git commit intelligence.",
+  "source_repo": "nikondrat/cctx-mcp",
+  "source_url": "https://github.com/nikondrat/cctx-mcp",
+  "install": "npx -y cctx-mcp"
+}

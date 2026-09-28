@@ -1,0 +1,7 @@
+{
+  "name": "realityscan-mcp",
+  "description": "Enables AI agents to control the RealityScan photogrammetry pipeline (align, mesh, texture, export) either headless or through a visible GUI, and includes a 360° video to perspective frames converter for pre-processing equirectangular and YouTube EAC content.",
+  "source_repo": "fkrn75/realityscan-mcp",
+  "source_url": "https://github.com/fkrn75/realityscan-mcp",
+  "install": "npx -y realityscan-mcp"
+}

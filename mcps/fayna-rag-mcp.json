@@ -1,0 +1,7 @@
+{
+  "name": "fayna-rag-mcp",
+  "description": "Enables local knowledge base management with retrieval-augmented generation (RAG), providing semantic search, document reading, listing, and Q&A via MCP tools and REST endpoints, all running locally without cloud dependencies.",
+  "source_repo": "fayna-digital/fayna-rag-mcp",
+  "source_url": "https://github.com/fayna-digital/fayna-rag-mcp",
+  "install": "npx -y fayna-rag-mcp"
+}

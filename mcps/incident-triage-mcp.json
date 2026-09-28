@@ -1,0 +1,7 @@
+{
+  "name": "incident-triage-mcp",
+  "description": "Incident Triage MCP is a Model Context Protocol (MCP) server for incident triage. It provides safe, auditable tools for evidence retrieval, deterministic summaries, ticket workflows, and notifications.",
+  "source_repo": "felixkwasisarpong/incident-triage-mcp",
+  "source_url": "https://github.com/felixkwasisarpong/incident-triage-mcp",
+  "install": "npx -y incident-triage-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-exoplanet-archive",
+  "description": "Enables querying NASA Exoplanet Archive data using ADQL TAP, planet search, composite parameters, Kepler candidates, and microlensing events.",
+  "source_repo": "pipeworx-io/mcp-exoplanet-archive",
+  "source_url": "https://github.com/pipeworx-io/mcp-exoplanet-archive",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-exoplanet-archive\n# See source for mcpServers config block"
+}

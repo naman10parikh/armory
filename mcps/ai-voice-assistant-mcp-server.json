@@ -1,0 +1,7 @@
+{
+  "name": "ai-voice-assistant-mcp-server",
+  "description": "Enables a voice-enabled AI assistant to call 7 built-in MCP tools including calculator, web search (DuckDuckGo), weather (wttr.in), date/time, and local file read/write/list operations, integrating with Gemini 2.0 Flash for tool-calling conversations.",
+  "source_repo": "Sasidhar1826/AI-voice-assistant-with-MCP-tool-calling",
+  "source_url": "https://github.com/Sasidhar1826/AI-voice-assistant-with-MCP-tool-calling",
+  "install": "# git clone --depth 1 https://github.com/Sasidhar1826/AI-voice-assistant-with-MCP-tool-calling\n# See source for mcpServers config block"
+}

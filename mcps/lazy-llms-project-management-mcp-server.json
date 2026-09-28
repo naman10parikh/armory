@@ -1,0 +1,7 @@
+{
+  "name": "lazy-llms-project-management-mcp-server",
+  "description": "Enables LLM agents to manage projects, track issues, log work, and integrate with Git. Provides 23 MCP tools for full project management capabilities.",
+  "source_repo": "Juliusolsson05/lazy-llms",
+  "source_url": "https://github.com/Juliusolsson05/lazy-llms",
+  "install": "# git clone --depth 1 https://github.com/Juliusolsson05/lazy-llms\n# See source for mcpServers config block"
+}

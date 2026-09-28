@@ -1,0 +1,7 @@
+{
+  "name": "n8n-flow-bridge-mcp",
+  "description": "Enables git-based version control for n8n workflows with automatic credential remapping, allowing AI tools to pull, push, and manage workflows across environments.",
+  "source_repo": "dorkian/n8n-flow-bridge-mcp",
+  "source_url": "https://github.com/dorkian/n8n-flow-bridge-mcp",
+  "install": "npx -y n8n-flow-bridge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bookie",
+  "description": "A Model Context Protocol (MCP) server that keeps the books for your personal and business finances using double-entry accounting — driven entirely from an LLM.",
+  "source_repo": "yuens1002/bookie",
+  "source_url": "https://github.com/yuens1002/bookie",
+  "install": "# git clone --depth 1 https://github.com/yuens1002/bookie\n# See source for mcpServers config block"
+}

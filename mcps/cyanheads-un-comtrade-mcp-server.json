@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-un-comtrade-mcp-server",
+  "description": "Access UN Comtrade international merchandise and services trade statistics via MCP tools for country lookups, HS commodity search, bilateral trade flows, balances, rankings, and data availability.",
+  "source_repo": "cyanheads/un-comtrade-mcp-server",
+  "source_url": "https://github.com/cyanheads/un-comtrade-mcp-server",
+  "install": "npx -y un-comtrade-mcp-server"
+}

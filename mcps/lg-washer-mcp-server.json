@@ -1,0 +1,7 @@
+{
+  "name": "lg-washer-mcp-server",
+  "description": "Enables an AI assistant to monitor and control an LG ThinQ washing machine, including retrieving live status, profiles, and sending start/stop commands via LG's ThinQ Connect API.",
+  "source_repo": "madhukeshm/lg-washer-mcp",
+  "source_url": "https://github.com/madhukeshm/lg-washer-mcp",
+  "install": "npx -y lg-washer-mcp"
+}

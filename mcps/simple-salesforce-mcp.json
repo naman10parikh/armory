@@ -1,0 +1,7 @@
+{
+  "name": "simple-salesforce-mcp",
+  "description": "Enables users to connect to Salesforce and perform CRUD operations, run SOQL/SOSL queries, and manage records through a lightweight MCP server with built-in safety gates for writes.",
+  "source_repo": "JustParent/simple-salesforce-mcp",
+  "source_url": "https://github.com/JustParent/simple-salesforce-mcp",
+  "install": "npx -y simple-salesforce-mcp"
+}

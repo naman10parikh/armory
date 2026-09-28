@@ -1,0 +1,7 @@
+{
+  "name": "goat",
+  "description": "Enables querying a personal fact store (facts with about and learned timestamps) through natural language over the Model Context Protocol. Supports scheduling importers to keep facts up-to-date.",
+  "source_repo": "phin-tech/goat",
+  "source_url": "https://github.com/phin-tech/goat",
+  "install": "# git clone --depth 1 https://github.com/phin-tech/goat\n# See source for mcpServers config block"
+}

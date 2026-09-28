@@ -1,0 +1,7 @@
+{
+  "name": "orcarail-mcp",
+  "description": "Official MCP server for accepting crypto payments through OrcaRail. It enables AI agents to create payment intents, manage subscriptions, handle product catalogs, and get exchange rates via natural language.",
+  "source_repo": "OrcaRail/mcp",
+  "source_url": "https://github.com/OrcaRail/mcp",
+  "install": "# git clone --depth 1 https://github.com/OrcaRail/mcp\n# See source for mcpServers config block"
+}

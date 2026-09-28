@@ -1,0 +1,7 @@
+{
+  "name": "assets-generation-mcp-server",
+  "description": "An MCP server for AI image generation with dual-provider support for OpenAI-compatible models and Google Gemini. It returns standard MCP ImageContent blocks.",
+  "source_repo": "ayaka209/assets-gen-mcp",
+  "source_url": "https://github.com/ayaka209/assets-gen-mcp",
+  "install": "npx -y assets-gen-mcp"
+}

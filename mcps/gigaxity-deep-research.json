@@ -1,0 +1,7 @@
+{
+  "name": "gigaxity-deep-research",
+  "description": "An open-source deep research MCP server that provides multi-source web search and synthesis with citations, enabling agents to perform citation-backed research using Qwen3-30B-A3B-Thinking and other models.",
+  "source_repo": "yoloshii/gigaxity-deep-research",
+  "source_url": "https://github.com/yoloshii/gigaxity-deep-research",
+  "install": "# git clone --depth 1 https://github.com/yoloshii/gigaxity-deep-research\n# See source for mcpServers config block"
+}

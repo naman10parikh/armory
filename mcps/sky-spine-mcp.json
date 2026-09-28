@@ -1,0 +1,7 @@
+{
+  "name": "sky-spine-mcp",
+  "description": "Automates Spine asset pipeline tasks such as export, texture packing, resource validation, and file summarization through the Spine CLI.",
+  "source_repo": "claudeskydream-hash/sky-spine-mcp",
+  "source_url": "https://github.com/claudeskydream-hash/sky-spine-mcp",
+  "install": "npx -y sky-spine-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "micro-app-mcp",
+  "description": "Provides semantic search and knowledge base management for the micro-app micro-frontend framework by ingesting its source code and documentation.",
+  "source_repo": "didengren/micro-app-mcp",
+  "source_url": "https://github.com/didengren/micro-app-mcp",
+  "install": "npx -y micro-app-mcp"
+}

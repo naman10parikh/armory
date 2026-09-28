@@ -1,0 +1,7 @@
+{
+  "name": "mcp-isin",
+  "description": "Validates ISIN and CUSIP securities identifiers, and converts CUSIP to ISIN. Part of Pipeworx MCP gateway for financial data.",
+  "source_repo": "pipeworx-io/mcp-isin",
+  "source_url": "https://github.com/pipeworx-io/mcp-isin",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-isin\n# See source for mcpServers config block"
+}

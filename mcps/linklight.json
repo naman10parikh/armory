@@ -1,0 +1,7 @@
+{
+  "name": "linklight",
+  "description": "The MCP server for SEO. Find prospects, draft outreach, and monitor backlinks from your AI agent.",
+  "source_repo": "grodgers1-ctrl/kinky_link",
+  "source_url": "https://github.com/grodgers1-ctrl/kinky_link",
+  "install": "# git clone --depth 1 https://github.com/grodgers1-ctrl/kinky_link\n# See source for mcpServers config block"
+}

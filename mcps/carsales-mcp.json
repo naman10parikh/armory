@@ -1,0 +1,7 @@
+{
+  "name": "carsales-mcp",
+  "description": "Enables AI assistants to search and retrieve used and new car listings from carsales.com.au, with support for various filters and detailed listing information including images. It uses a real browser to bypass bot protection and integrates with MCP-compatible clients like Claude Desktop and Claude C",
+  "source_repo": "masked8knights/carsales-mcp",
+  "source_url": "https://github.com/masked8knights/carsales-mcp",
+  "install": "npx -y carsales-mcp"
+}

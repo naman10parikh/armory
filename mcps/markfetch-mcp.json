@@ -1,0 +1,7 @@
+{
+  "name": "markfetch-mcp",
+  "description": "Enables AI agents to fetch any web page as clean markdown or screenshot it, turning URLs into LLM-ready context.",
+  "source_repo": "asdfas988/markfetch-mcp",
+  "source_url": "https://github.com/asdfas988/markfetch-mcp",
+  "install": "npx -y markfetch-mcp"
+}

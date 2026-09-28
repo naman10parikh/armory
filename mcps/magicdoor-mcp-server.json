@@ -1,0 +1,7 @@
+{
+  "name": "magicdoor-mcp-server",
+  "description": "Enables an AI assistant to read your MagicDoor portfolio — properties, units, leases, tenants, owners, and lease renewals — using a revocable API key.",
+  "source_repo": "MagicDoorInc/magicdoor-mcp",
+  "source_url": "https://github.com/MagicDoorInc/magicdoor-mcp",
+  "install": "npx -y magicdoor-mcp"
+}

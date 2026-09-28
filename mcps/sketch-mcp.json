@@ -1,0 +1,7 @@
+{
+  "name": "sketch-mcp",
+  "description": "An official MCP server that allows AI clients to interact with Sketch designs, enabling exploration, iteration, asset export, and more.",
+  "source_repo": "sketch-hq/sketch-mcp-bundle",
+  "source_url": "https://github.com/sketch-hq/sketch-mcp-bundle",
+  "install": "# git clone --depth 1 https://github.com/sketch-hq/sketch-mcp-bundle\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-canary",
+  "description": "Tripwire detection for autonomous AI agents. Plants honeypot files, MCP tripwire tools, and API decoy endpoints to log agent scope creep and unauthorized tool use with full forensic context.",
+  "source_repo": "SamsonCyber/agent-canary",
+  "source_url": "https://github.com/SamsonCyber/agent-canary",
+  "install": "# git clone --depth 1 https://github.com/SamsonCyber/agent-canary\n# See source for mcpServers config block"
+}

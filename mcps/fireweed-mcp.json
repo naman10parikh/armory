@@ -1,0 +1,7 @@
+{
+  "name": "fireweed-mcp",
+  "description": "An agent memory server that admits only evidence-backed claims, provides tamper-evident recall and verification, and issues signed certificates for erasure, enabling trustworthy and auditable agent memory.",
+  "source_repo": "Starksood/fireweed-mcp",
+  "source_url": "https://github.com/Starksood/fireweed-mcp",
+  "install": "npx -y fireweed-mcp"
+}

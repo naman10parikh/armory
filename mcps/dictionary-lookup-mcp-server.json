@@ -1,0 +1,7 @@
+{
+  "name": "dictionary-lookup-mcp-server",
+  "description": "A minimal Model Context Protocol server built with the official Python SDK. It exposes one tool, define, which looks up the definition of an English word using the free dictionaryapi.dev API.",
+  "source_repo": "MaryamSarfraz77/dictionary-lookup-mcp",
+  "source_url": "https://github.com/MaryamSarfraz77/dictionary-lookup-mcp",
+  "install": "npx -y dictionary-lookup-mcp"
+}

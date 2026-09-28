@@ -1,0 +1,7 @@
+{
+  "name": "mcp-nexar",
+  "description": "Enables electronic component search via Nexar/Octopart GraphQL API for part lookup, exact MPN search, and datasheet URL extraction.",
+  "source_repo": "SpectraSynq/mcp-nexar",
+  "source_url": "https://github.com/SpectraSynq/mcp-nexar",
+  "install": "# git clone --depth 1 https://github.com/SpectraSynq/mcp-nexar\n# See source for mcpServers config block"
+}

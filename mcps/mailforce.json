@@ -1,0 +1,7 @@
+{
+  "name": "mailforce",
+  "description": "Mailforce is an MCP server that provides a policy layer for AI agents to safely interact with email, controlling which accounts, recipients, and actions are allowed, with optional human approval for sends.",
+  "source_repo": "richardsondx/mailforce",
+  "source_url": "https://github.com/richardsondx/mailforce",
+  "install": "# git clone --depth 1 https://github.com/richardsondx/mailforce\n# See source for mcpServers config block"
+}

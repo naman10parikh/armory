@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-paystack",
+  "description": "Enables AI assistants to accept payments, verify transactions, and manage customers via Paystack API through natural language.",
+  "source_repo": "TRINITY-21/mcp-server-paystack",
+  "source_url": "https://github.com/TRINITY-21/mcp-server-paystack",
+  "install": "# git clone --depth 1 https://github.com/TRINITY-21/mcp-server-paystack\n# See source for mcpServers config block"
+}

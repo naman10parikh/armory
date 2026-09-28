@@ -1,0 +1,7 @@
+{
+  "name": "luxembourg-mcp",
+  "description": "Keyless MCP server providing 21 tools to access Luxembourg public data including laws, statistics, mobility, environment, and more, with no API keys or accounts required.",
+  "source_repo": "amirdaraee/luxembourg-mcp",
+  "source_url": "https://github.com/amirdaraee/luxembourg-mcp",
+  "install": "npx -y luxembourg-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fire-fodex",
+  "description": "A local Firefox bridge for MCP agents that enables tab control, DOM interaction, mouse/keyboard actions, and screenshots.",
+  "source_repo": "skjshr/fire-fodex",
+  "source_url": "https://github.com/skjshr/fire-fodex",
+  "install": "# git clone --depth 1 https://github.com/skjshr/fire-fodex\n# See source for mcpServers config block"
+}

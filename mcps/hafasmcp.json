@@ -1,0 +1,7 @@
+{
+  "name": "hafasmcp",
+  "description": "MCP server for real-time German public transport data (HAFAS/VBN network). Enables querying departures, arrivals, journeys, and nearby stops using natural language.",
+  "source_repo": "mchristoffers/hafasmcp",
+  "source_url": "https://github.com/mchristoffers/hafasmcp",
+  "install": "# git clone --depth 1 https://github.com/mchristoffers/hafasmcp\n# See source for mcpServers config block"
+}

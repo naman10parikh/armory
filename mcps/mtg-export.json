@@ -1,0 +1,7 @@
+{
+  "name": "mtg-export",
+  "description": "Enables generating Magic: The Gathering proxy PDF sheets from Archidekt decks or text card lists, with configurable image size and caching.",
+  "source_repo": "domainellipticlanguage/mtg-export",
+  "source_url": "https://github.com/domainellipticlanguage/mtg-export",
+  "install": "# git clone --depth 1 https://github.com/domainellipticlanguage/mtg-export\n# See source for mcpServers config block"
+}

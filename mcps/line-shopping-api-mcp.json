@@ -1,0 +1,7 @@
+{
+  "name": "line-shopping-api-mcp",
+  "description": "MCP Server for the LINE Shopping API, enabling AI agents and tools to interact with LINE Shopping data and operations via the Model Context Protocol.",
+  "source_repo": "woraphol-j/lineshopping-api-mcp",
+  "source_url": "https://github.com/woraphol-j/lineshopping-api-mcp",
+  "install": "npx -y lineshopping-api-mcp"
+}

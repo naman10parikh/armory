@@ -1,0 +1,7 @@
+{
+  "name": "openapi-sync-mcp",
+  "description": "High-performance MCP server for OpenAPI specifications that parses specs, diffs versions, tracks dependencies, and generates code (TypeScript, Rust, Python).",
+  "source_repo": "jhlee0409/openapi-sync-mcp",
+  "source_url": "https://github.com/jhlee0409/openapi-sync-mcp",
+  "install": "npx -y openapi-sync-mcp"
+}

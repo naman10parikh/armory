@@ -1,0 +1,7 @@
+{
+  "name": "agentfood",
+  "description": "USDA FoodData Central nutrition data — search 1M+ foods, get full nutrition profiles (macros, vitamins, minerals), and compare foods side-by-side. Public domain government data.",
+  "source_repo": "",
+  "source_url": "https://food.memoryapi.org",
+  "install": "# git clone --depth 1 https://food.memoryapi.org\n# See source for mcpServers config block"
+}

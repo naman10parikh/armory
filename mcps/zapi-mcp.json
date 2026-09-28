@@ -1,0 +1,7 @@
+{
+  "name": "zapi-mcp",
+  "description": "MCP server for the Zabbix API that provides a daily_brief summary of active problems and category-specific metrics, along with tools to query problems, hosts, and item values.",
+  "source_repo": "shigechika/zapi-mcp",
+  "source_url": "https://github.com/shigechika/zapi-mcp",
+  "install": "npx -y zapi-mcp"
+}

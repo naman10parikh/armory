@@ -1,0 +1,7 @@
+{
+  "name": "aitomation-mcp-relay",
+  "description": "Enables external AI applications to access MCP tools by providing a user-hosted HTTPS endpoint that forwards requests to a paired desktop client.",
+  "source_repo": "stanislavmandrik621/aitomation-mcp-relay",
+  "source_url": "https://github.com/stanislavmandrik621/aitomation-mcp-relay",
+  "install": "# git clone --depth 1 https://github.com/stanislavmandrik621/aitomation-mcp-relay\n# See source for mcpServers config block"
+}

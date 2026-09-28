@@ -1,0 +1,7 @@
+{
+  "name": "greenfinger-mcp-server",
+  "description": "Enables plant disease diagnosis and identification, plant recommendations, garden layout design, pot management, and care scheduling with reminders, integrating with Kakao services.",
+  "source_repo": "dewgod07-a11y/greenfinger-mcp",
+  "source_url": "https://github.com/dewgod07-a11y/greenfinger-mcp",
+  "install": "npx -y greenfinger-mcp"
+}

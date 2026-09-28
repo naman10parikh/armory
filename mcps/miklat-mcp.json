@@ -1,0 +1,7 @@
+{
+  "name": "miklat-mcp",
+  "description": "An MCP server that helps AI agents find public shelters in Israel. Currently supports Jerusalem with 198 shelters.",
+  "source_repo": "danielrosehill/Miklat-MCP",
+  "source_url": "https://github.com/danielrosehill/Miklat-MCP",
+  "install": "npx -y Miklat-MCP"
+}

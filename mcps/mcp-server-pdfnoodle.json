@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-pdfnoodle",
+  "description": "Enables AI assistants to generate PDF documents from templates or raw HTML using natural language, with tools for template creation, PDF generation, and utility operations.",
+  "source_repo": "pdfnoodle/mcp-server-pdfnoodle",
+  "source_url": "https://github.com/pdfnoodle/mcp-server-pdfnoodle",
+  "install": "# git clone --depth 1 https://github.com/pdfnoodle/mcp-server-pdfnoodle\n# See source for mcpServers config block"
+}

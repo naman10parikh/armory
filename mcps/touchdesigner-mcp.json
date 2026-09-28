@@ -1,0 +1,7 @@
+{
+  "name": "touchdesigner-mcp",
+  "description": "MCP server that lets Claude drive a running TouchDesigner instance to create operators, wire them, set parameters, run arbitrary Python, and introspect the td API.",
+  "source_repo": "mrinalghosh/touchdesigner-mcp",
+  "source_url": "https://github.com/mrinalghosh/touchdesigner-mcp",
+  "install": "npx -y touchdesigner-mcp"
+}

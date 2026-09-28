@@ -1,6 +1,6 @@
 {
   "name": "solana-mcp-explorer",
-  "description": "Solana Mcp Explorer MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "notorious-d-e-v/solana-mcp-explorer",
   "source_url": "https://mcp.so/server/solana-mcp-explorer/notorious-d-e-v",
   "install": "# git clone --depth 1 https://mcp.so/server/solana-mcp-explorer/notorious-d-e-v\n# See source for mcpServers config block"

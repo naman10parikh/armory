@@ -1,0 +1,7 @@
+{
+  "name": "arxiv-mcp-2",
+  "description": "An MCP server that lets LLMs search, verify, and read papers from arXiv, preventing hallucinated academic references.",
+  "source_repo": "SreehariSankar/arxiv-mcp",
+  "source_url": "https://github.com/SreehariSankar/arxiv-mcp",
+  "install": "npx -y arxiv-mcp"
+}

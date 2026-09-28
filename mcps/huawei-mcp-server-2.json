@@ -1,0 +1,7 @@
+{
+  "name": "huawei-mcp-server-2",
+  "description": "Enables AI assistants to operate Huawei Cloud resources (ECS, OBS, GaussDB, etc.) through conversational workflows via the Model Context Protocol.",
+  "source_repo": "filhocf/hcso-mcp-server",
+  "source_url": "https://github.com/filhocf/hcso-mcp-server",
+  "install": "npx -y hcso-mcp-server"
+}

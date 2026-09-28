@@ -1,0 +1,7 @@
+{
+  "name": "mcp-counter-server",
+  "description": "Provides stateful counter tools for AI assistants, enabling accurate counting and tracking of metrics via tag-based or direct tool calls.",
+  "source_repo": "Discordit142/mcp-counter-server",
+  "source_url": "https://github.com/Discordit142/mcp-counter-server",
+  "install": "# git clone --depth 1 https://github.com/Discordit142/mcp-counter-server\n# See source for mcpServers config block"
+}

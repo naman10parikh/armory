@@ -1,0 +1,7 @@
+{
+  "name": "motion-dev-react-mcp",
+  "description": "MCP server providing 33 verified Motion for React APIs with correct imports and defaults, enabling AI assistants to generate accurate animation code.",
+  "source_repo": "orkait/motion-dev-react-mcp",
+  "source_url": "https://github.com/orkait/motion-dev-react-mcp",
+  "install": "npx -y motion-dev-react-mcp"
+}

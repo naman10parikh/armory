@@ -1,0 +1,7 @@
+{
+  "name": "sqlite-literature-management-fastmcp-mcp-server",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/sqlite-literature-management-fastmcp-mcp-server",
+  "install": "# git clone --depth 1 https://mcp.so/server/sqlite-literature-management-fastmcp-mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "context-weather",
+  "description": "Integrates the US National Weather Service API with Claude Desktop, enabling users to query current conditions and forecasts using natural language.",
+  "source_repo": "tjguitar2025/MCP_Server",
+  "source_url": "https://github.com/tjguitar2025/MCP_Server",
+  "install": "# git clone --depth 1 https://github.com/tjguitar2025/MCP_Server\n# See source for mcpServers config block"
+}

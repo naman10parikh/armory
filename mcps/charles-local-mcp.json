@@ -1,0 +1,7 @@
+{
+  "name": "charles-local-mcp",
+  "description": "Guarded, profile-driven Charles Proxy automation for macOS and Android testing. Uses immutable TOML profiles and explicit plan/apply confirmation.",
+  "source_repo": "Eason0in/charles-local-mcp",
+  "source_url": "https://github.com/Eason0in/charles-local-mcp",
+  "install": "npx -y charles-local-mcp"
+}

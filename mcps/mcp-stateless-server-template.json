@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stateless-server-template",
+  "description": "A production-ready stateless MCP server template implementing the 2026-07-28 specification, enabling horizontal scaling and easy migration from session-based servers.",
+  "source_repo": "Varritech/mcp-stateless-server",
+  "source_url": "https://github.com/Varritech/mcp-stateless-server",
+  "install": "# git clone --depth 1 https://github.com/Varritech/mcp-stateless-server\n# See source for mcpServers config block"
+}

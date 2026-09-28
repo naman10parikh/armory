@@ -1,0 +1,7 @@
+{
+  "name": "pok-wallet-mcp",
+  "description": "Vision-guided Pokémon TCG card identification server that matches exact printings using visual evidence and marketplace data.",
+  "source_repo": "w3bKodr/pokewallet-mcp",
+  "source_url": "https://github.com/w3bKodr/pokewallet-mcp",
+  "install": "npx -y pokewallet-mcp"
+}

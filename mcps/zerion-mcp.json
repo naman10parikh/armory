@@ -1,0 +1,7 @@
+{
+  "name": "zerion-mcp",
+  "description": "MCP server that provides live crypto portfolio data, token info, gas prices, swap offers, and Bitcoin balance via Zerion and Blockstream APIs.",
+  "source_repo": "rockyale/zerion-mcp",
+  "source_url": "https://github.com/rockyale/zerion-mcp",
+  "install": "npx -y zerion-mcp"
+}

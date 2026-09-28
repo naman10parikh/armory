@@ -1,0 +1,7 @@
+{
+  "name": "yolocut",
+  "description": "Enables AI agents and MCP clients to programmatically edit video projects on a local desktop editor, with 119 tools for multitrack editing, effects, captions, audio, and batch auto-editing, producing reviewable and reversible real timeline edits.",
+  "source_repo": "Hhz0823/YoloCut",
+  "source_url": "https://github.com/Hhz0823/YoloCut",
+  "install": "# git clone --depth 1 https://github.com/Hhz0823/YoloCut\n# See source for mcpServers config block"
+}

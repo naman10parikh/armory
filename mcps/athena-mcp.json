@@ -1,0 +1,7 @@
+{
+  "name": "athena-mcp",
+  "description": "Enables users to execute SQL queries, manage workgroups, databases, tables, and named queries in AWS Athena through natural language.",
+  "source_repo": "ampcome-mcps/athena-mcp",
+  "source_url": "https://github.com/ampcome-mcps/athena-mcp",
+  "install": "npx -y athena-mcp"
+}

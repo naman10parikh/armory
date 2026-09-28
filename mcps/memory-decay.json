@@ -1,0 +1,7 @@
+{
+  "name": "memory-decay",
+  "description": "An MCP server that implements memory with decay mechanics, allowing AI agents to store and retrieve memories that fade over time unless accessed, with a permanent journal for verification.",
+  "source_repo": "Wakanlolz/PyMemoryDecayMCP",
+  "source_url": "https://github.com/Wakanlolz/PyMemoryDecayMCP",
+  "install": "# git clone --depth 1 https://github.com/Wakanlolz/PyMemoryDecayMCP\n# See source for mcpServers config block"
+}

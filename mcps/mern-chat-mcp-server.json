@@ -1,0 +1,7 @@
+{
+  "name": "mern-chat-mcp-server",
+  "description": "Enables interaction with a MERN chat application, providing tools to register and login users, manage chats (including group chats), and send/receive messages.",
+  "source_repo": "priyankapsi/17JulyFriday_MCP_MernChat",
+  "source_url": "https://github.com/priyankapsi/17JulyFriday_MCP_MernChat",
+  "install": "# git clone --depth 1 https://github.com/priyankapsi/17JulyFriday_MCP_MernChat\n# See source for mcpServers config block"
+}

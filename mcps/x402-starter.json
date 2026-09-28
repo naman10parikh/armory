@@ -1,0 +1,7 @@
+{
+  "name": "x402-starter",
+  "description": "Enables AI agents to pay-per-call for Cloudflare Worker APIs using USDC micropayments, with automatic MCP tool discovery and Bazaar listing.",
+  "source_repo": "leonidahqadmin-cell/x402-starter",
+  "source_url": "https://github.com/leonidahqadmin-cell/x402-starter",
+  "install": "# git clone --depth 1 https://github.com/leonidahqadmin-cell/x402-starter\n# See source for mcpServers config block"
+}

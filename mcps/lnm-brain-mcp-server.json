@@ -1,0 +1,7 @@
+{
+  "name": "lnm-brain-mcp-server",
+  "description": "A self-hosted MCP server that captures, compresses, and indexes AI conversations, enabling persistent cross-session memory for AI assistants via hybrid retrieval.",
+  "source_repo": "Ritik-Sharma1/lnm-brain-public",
+  "source_url": "https://github.com/Ritik-Sharma1/lnm-brain-public",
+  "install": "# git clone --depth 1 https://github.com/Ritik-Sharma1/lnm-brain-public\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "treesitter-mcp",
+  "description": "An MCP server and CLI that uses Tree-sitter to parse and analyze code.",
+  "source_repo": "pwno-io/treesitter-mcp",
+  "source_url": "https://github.com/pwno-io/treesitter-mcp",
+  "install": "npx -y treesitter-mcp"
+}

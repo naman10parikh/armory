@@ -1,0 +1,7 @@
+{
+  "name": "openalex-mcp",
+  "description": "Connects AI agents to the OpenAlex scholarly database, enabling search and retrieval of works, authors, institutions, and sources via natural language.",
+  "source_repo": "JOSETRA44/openalex-mcp",
+  "source_url": "https://github.com/JOSETRA44/openalex-mcp",
+  "install": "npx -y openalex-mcp"
+}

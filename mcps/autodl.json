@@ -1,0 +1,7 @@
+{
+  "name": "autodl",
+  "description": "Enables AI agents and MCP clients to manage AutoDL GPU instances programmatically, including creating, listing, powering on/off, executing commands, transferring files, and enforcing automatic shutdown.",
+  "source_repo": "Minato-Aqukin/AutoDL-cli",
+  "source_url": "https://github.com/Minato-Aqukin/AutoDL-cli",
+  "install": "# git clone --depth 1 https://github.com/Minato-Aqukin/AutoDL-cli\n# See source for mcpServers config block"
+}

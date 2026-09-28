@@ -1,0 +1,7 @@
+{
+  "name": "claude-workman",
+  "description": "Enables MCP clients to control a Linux/X11 desktop like a human: see the screen, move the mouse, click UI elements via the accessibility tree, type text, and manage windows.",
+  "source_repo": "AdvisorAGI/claude-workman",
+  "source_url": "https://github.com/AdvisorAGI/claude-workman",
+  "install": "# git clone --depth 1 https://github.com/AdvisorAGI/claude-workman\n# See source for mcpServers config block"
+}

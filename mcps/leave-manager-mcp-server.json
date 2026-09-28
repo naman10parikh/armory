@@ -1,0 +1,7 @@
+{
+  "name": "leave-manager-mcp-server",
+  "description": "Enables LLMs to manage employee leave by checking balances, applying for leave, and viewing history.",
+  "source_repo": "RohitKumarPattanayak/leave-manager-mcp-server",
+  "source_url": "https://github.com/RohitKumarPattanayak/leave-manager-mcp-server",
+  "install": "npx -y leave-manager-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "omni-mcp",
+  "description": "Omni-mcp is a unified Model Context Protocol gateway combining the Behavioral Profiler BP v3 forensic analysis engine, Prisme engine, and dynamic Meta-Skills routing, with PostgreSQL 18 persistence on Oracle Cloud Infrastructure, exposing MCP tools for forensic behavioral profiling, profile manageme",
+  "source_repo": "benoit-sigwald/omni-mcp",
+  "source_url": "https://github.com/benoit-sigwald/omni-mcp",
+  "install": "npx -y omni-mcp"
+}

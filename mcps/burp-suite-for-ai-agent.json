@@ -1,0 +1,7 @@
+{
+  "name": "burp-suite-for-ai-agent",
+  "description": "Two-way Burp Suite MCP bridge enabling AI agents to capture traffic, analyze endpoints, queue scans, and send findings back to Burp.",
+  "source_repo": "whoismemas/burpsuite-for-ai-agent",
+  "source_url": "https://github.com/whoismemas/burpsuite-for-ai-agent",
+  "install": "# git clone --depth 1 https://github.com/whoismemas/burpsuite-for-ai-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "moxie-mcp",
+  "description": "A remote MCP server for the Moxie Public API, deployable to Cloudflare Workers. Exposes all 29 documented Moxie endpoints as MCP tools for managing clients, contacts, projects, tasks, invoices, payments, and more.",
+  "source_repo": "Joshlucpoll/moxie-mcp",
+  "source_url": "https://github.com/Joshlucpoll/moxie-mcp",
+  "install": "npx -y moxie-mcp"
+}

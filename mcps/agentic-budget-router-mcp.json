@@ -1,0 +1,7 @@
+{
+  "name": "agentic-budget-router-mcp",
+  "description": "Manages agentic workflow spend through budget quotes, policy gates, approvals, receipts, and cost evidence exports.",
+  "source_repo": "clauxel/agentic-budget-router-mcp",
+  "source_url": "https://github.com/clauxel/agentic-budget-router-mcp",
+  "install": "npx -y agentic-budget-router-mcp"
+}

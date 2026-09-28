@@ -1,0 +1,7 @@
+{
+  "name": "commerce-mcp-server",
+  "description": "Enables e-commerce operations such as product search, price updates, and order notes via MCP tools, with secure credential handling.",
+  "source_repo": "aleayrees-com/commerce-mcp-server",
+  "source_url": "https://github.com/aleayrees-com/commerce-mcp-server",
+  "install": "npx -y commerce-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openbanking-mcp",
+  "description": "Enables read-only access to personal bank accounts via the TrueLayer API, allowing querying of accounts, balances, transactions, and generating financial analytics such as spending by category, subscriptions, and monthly summaries.",
+  "source_repo": "guille-near/openbanking-mcp",
+  "source_url": "https://github.com/guille-near/openbanking-mcp",
+  "install": "npx -y openbanking-mcp"
+}

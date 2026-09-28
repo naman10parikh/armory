@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stateless-lab",
+  "description": "A comparative lab demonstrating MCP protocol evolution from stateful (2025-11-25) to stateless (2026-07-28) using a procure-to-pay agent, highlighting the implications for load balancing and session management.",
+  "source_repo": "133institute/mcp-stateless-lab",
+  "source_url": "https://github.com/133institute/mcp-stateless-lab",
+  "install": "# git clone --depth 1 https://github.com/133institute/mcp-stateless-lab\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-internal-knowledge-base-rag-mcp-server",
+  "description": "A production-ready RAG pipeline exposed as an MCP server, enabling querying of VA education manuals with ranked chunks and citations, and integrated with Claude Desktop for retrieval-augmented generation.",
+  "source_repo": "kimsb2429/internal-knowledge-base",
+  "source_url": "https://github.com/kimsb2429/internal-knowledge-base",
+  "install": "# git clone --depth 1 https://github.com/kimsb2429/internal-knowledge-base\n# See source for mcpServers config block"
+}

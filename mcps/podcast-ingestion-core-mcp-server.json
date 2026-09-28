@@ -1,0 +1,7 @@
+{
+  "name": "podcast-ingestion-core-mcp-server",
+  "description": "Exposes podcast ingestion operations (listing, downloading, transcribing, summarizing, and searching) as MCP tools, with both stdio and HTTP transport, supporting multiple podcasts via configuration.",
+  "source_repo": "norton77930/corpus-ingest-core",
+  "source_url": "https://github.com/norton77930/corpus-ingest-core",
+  "install": "# git clone --depth 1 https://github.com/norton77930/corpus-ingest-core\n# See source for mcpServers config block"
+}

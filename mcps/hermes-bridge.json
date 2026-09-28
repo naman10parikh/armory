@@ -1,0 +1,7 @@
+{
+  "name": "hermes-bridge",
+  "description": "Relay MCP server enabling synchronous multi-turn communication between Hermes agents, allowing one agent to delegate tasks and await replies without third-party dependencies.",
+  "source_repo": "aidalinfo/hermes-bridge",
+  "source_url": "https://github.com/aidalinfo/hermes-bridge",
+  "install": "# git clone --depth 1 https://github.com/aidalinfo/hermes-bridge\n# See source for mcpServers config block"
+}

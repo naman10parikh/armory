@@ -1,0 +1,7 @@
+{
+  "name": "arnfa-mcp",
+  "description": "Enables AI agents to plan weather-aware trips across Thailand by providing real-time sky conditions, area search, and weather-fit itinerary generation for 150+ locations through Arnfa's API.",
+  "source_repo": "palmzamak2547/arnfa-mcp",
+  "source_url": "https://github.com/palmzamak2547/arnfa-mcp",
+  "install": "npx -y arnfa-mcp"
+}

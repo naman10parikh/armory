@@ -1,0 +1,7 @@
+{
+  "name": "korea-stocks-mcp",
+  "description": "A read-only MCP server skeleton for Korean stocks data, with tool stubs for stock quotes, orderbooks, and DART filings; all data tools currently return a NOT_IMPLEMENTED error.",
+  "source_repo": "Team-Delgo/korea-stock-mcp",
+  "source_url": "https://github.com/Team-Delgo/korea-stock-mcp",
+  "install": "npx -y korea-stock-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vaultrecall-mcp",
+  "description": "A local MCP server that turns an Obsidian vault into a searchable second brain for Claude with meaning-based search, note read/write, and insight reports like contradictions and stale TODOs.",
+  "source_repo": "AndrewG0R/vaultrecall-mcp",
+  "source_url": "https://github.com/AndrewG0R/vaultrecall-mcp",
+  "install": "npx -y vaultrecall-mcp"
+}

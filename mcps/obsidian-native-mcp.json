@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-native-mcp",
+  "description": "LLM-optimized MCP server for Obsidian vaults with surgical edits, hash-based concurrency safety, and no whole-file rewrites.",
+  "source_repo": "usrivastava92/obsidian-native-mcp",
+  "source_url": "https://github.com/usrivastava92/obsidian-native-mcp",
+  "install": "npx -y obsidian-native-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prd-creator-mcp-server",
+  "description": "Enables AI systems to generate detailed, well-structured Product Requirements Documents (PRDs) using various AI providers or templates through the Model Context Protocol.",
+  "source_repo": "cpatel1293/PRD-MCP-Server",
+  "source_url": "https://github.com/cpatel1293/PRD-MCP-Server",
+  "install": "npx -y PRD-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "intervals-icu-mcp-server",
+  "description": "Enables interaction with Intervals.icu data, including activities, wellness, and calendar events, via natural language.",
+  "source_repo": "moxus/intervals-icu-mcp-ts",
+  "source_url": "https://github.com/moxus/intervals-icu-mcp-ts",
+  "install": "# git clone --depth 1 https://github.com/moxus/intervals-icu-mcp-ts\n# See source for mcpServers config block"
+}

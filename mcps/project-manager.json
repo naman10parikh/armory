@@ -1,0 +1,7 @@
+{
+  "name": "project-manager",
+  "description": "Connects Claude to a local project management API, enabling task, project, and user management through natural language.",
+  "source_repo": "samrullo/project_manager_mcp",
+  "source_url": "https://github.com/samrullo/project_manager_mcp",
+  "install": "npx -y project_manager_mcp"
+}

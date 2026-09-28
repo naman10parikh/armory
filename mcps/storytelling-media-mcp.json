@@ -1,0 +1,7 @@
+{
+  "name": "storytelling-media-mcp",
+  "description": "Provides tools for agent-driven video creation, including image generation via Google's GenAI, video generation, and local video stitching with FFmpeg.",
+  "source_repo": "imyousuf/storytelling-media-mcp",
+  "source_url": "https://github.com/imyousuf/storytelling-media-mcp",
+  "install": "npx -y storytelling-media-mcp"
+}

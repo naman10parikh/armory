@@ -1,0 +1,7 @@
+{
+  "name": "douyin-transcript-mcp",
+  "description": "Enables transcribing public Douyin videos to text using a local AI model, providing read-only tools for transcription, search, and listing.",
+  "source_repo": "mei-shui-xing/douyin-transcript-mcp",
+  "source_url": "https://github.com/mei-shui-xing/douyin-transcript-mcp",
+  "install": "npx -y douyin-transcript-mcp"
+}

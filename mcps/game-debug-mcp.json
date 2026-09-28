@@ -1,0 +1,7 @@
+{
+  "name": "game-debug-mcp",
+  "description": "Read-only MCP server that analyzes saved frame buffers, traces, and capture receipts to pinpoint the earliest provable divergence and plan the smallest next capture for AI-assisted game debugging.",
+  "source_repo": "theisegoria/game-debug-mcp",
+  "source_url": "https://github.com/theisegoria/game-debug-mcp",
+  "install": "npx -y game-debug-mcp"
+}

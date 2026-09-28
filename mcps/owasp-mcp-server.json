@@ -1,0 +1,7 @@
+{
+  "name": "owasp-mcp-server",
+  "description": "A WebSocket-based MCP server for OWASP ZAP security scanning, enabling real-time control and monitoring of security assessments.",
+  "source_repo": "shadsidd/Owasp-Zap-MCP-Server-Demo",
+  "source_url": "https://github.com/shadsidd/Owasp-Zap-MCP-Server-Demo",
+  "install": "# git clone --depth 1 https://github.com/shadsidd/Owasp-Zap-MCP-Server-Demo\n# See source for mcpServers config block"
+}

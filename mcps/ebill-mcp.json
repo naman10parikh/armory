@@ -1,0 +1,7 @@
+{
+  "name": "ebill-mcp",
+  "description": "Read-only MCP server for the Swiss eBill portal, enabling users to list bills and download invoice PDFs via an authenticated browser session. It cannot approve, release, or pay anything.",
+  "source_repo": "sapn95/ebill-mcp",
+  "source_url": "https://github.com/sapn95/ebill-mcp",
+  "install": "npx -y ebill-mcp"
+}

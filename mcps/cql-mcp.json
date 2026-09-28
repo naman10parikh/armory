@@ -1,0 +1,7 @@
+{
+  "name": "cql-mcp",
+  "description": "Enables interaction with Cassandra/Scylla databases via CQL, supporting read-only and unrestricted read/write operations through MCP tools.",
+  "source_repo": "stackblaze/cql-mcp",
+  "source_url": "https://github.com/stackblaze/cql-mcp",
+  "install": "npx -y cql-mcp"
+}

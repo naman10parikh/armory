@@ -1,0 +1,7 @@
+{
+  "name": "letdraw-mcp",
+  "description": "Connect AI assistants and scripts to LetDraw to read and author diagrams via MCP or REST, including creating diagrams from code, exporting to Mermaid/D2, and sharing read-only links.",
+  "source_repo": "letdraw/letdraw-mcp",
+  "source_url": "https://github.com/letdraw/letdraw-mcp",
+  "install": "npx -y letdraw-mcp"
+}

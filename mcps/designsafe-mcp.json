@@ -1,0 +1,7 @@
+{
+  "name": "designsafe-mcp",
+  "description": "Agent-first cyberinfrastructure layer for DesignSafe that enables reproducible computational science workflows (geotechnical earthquake engineering with OpenSees), from planning and validation through approved execution, with provenance and tested snippet grounding.",
+  "source_repo": "kks32/designsafe-mcp",
+  "source_url": "https://github.com/kks32/designsafe-mcp",
+  "install": "npx -y designsafe-mcp"
+}

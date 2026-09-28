@@ -1,0 +1,7 @@
+{
+  "name": "birdeye-mcp-server",
+  "description": "Provides blockchain data context from Birdeye APIs for AI models via Model Context Protocol, enabling token, market, wallet, NFT, and DEX pool queries on Solana.",
+  "source_repo": "aiopinions/birdeye-mcp-server",
+  "source_url": "https://github.com/aiopinions/birdeye-mcp-server",
+  "install": "npx -y birdeye-mcp-server"
+}

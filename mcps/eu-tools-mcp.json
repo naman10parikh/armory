@@ -1,0 +1,7 @@
+{
+  "name": "eu-tools-mcp",
+  "description": "Paid MCP server for EU tools: validate VAT numbers via VIES and get ECB euro FX rates, with per-call USDC payments on Base via the x402 protocol.",
+  "source_repo": "iCx6/eu-tools-mcp",
+  "source_url": "https://github.com/iCx6/eu-tools-mcp",
+  "install": "npx -y eu-tools-mcp"
+}

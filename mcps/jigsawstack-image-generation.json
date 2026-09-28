@@ -1,6 +1,6 @@
 {
   "name": "jigsawstack-image-generation",
-  "description": "JigsawStack Image Generation MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "main/JigsawStack Image Generation",
   "source_url": "https://mcp.so/server/JigsawStack Image Generation/main",
   "install": "# git clone --depth 1 https://mcp.so/server/JigsawStack Image Generation/main\n# See source for mcpServers config block"

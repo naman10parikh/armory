@@ -1,0 +1,7 @@
+{
+  "name": "growthtoolkit-mcp-server",
+  "description": "Gives AI assistants the power to find verified emails, phone numbers, and rich contact data from 575M+ professionals across 30M+ companies via GrowthToolkit's API.",
+  "source_repo": "iamanantgupta/growthtoolkit-mcp",
+  "source_url": "https://github.com/iamanantgupta/growthtoolkit-mcp",
+  "install": "npx -y growthtoolkit-mcp"
+}

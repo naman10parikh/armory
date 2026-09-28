@@ -1,0 +1,7 @@
+{
+  "name": "ghana-post-gps-mcp-server",
+  "description": "Converts Ghana Post GPS addresses into detailed location information including coordinates.",
+  "source_repo": "kreativwiz1/GhanaPostGPS-MCP",
+  "source_url": "https://github.com/kreativwiz1/GhanaPostGPS-MCP",
+  "install": "npx -y GhanaPostGPS-MCP"
+}

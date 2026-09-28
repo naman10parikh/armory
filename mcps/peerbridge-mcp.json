@@ -1,0 +1,7 @@
+{
+  "name": "peerbridge-mcp",
+  "description": "Connects multiple AI agents (Codex, Claude Code, Grok, etc.) into a coordinated, auditable team with shared memory, task ownership, and human oversight, enabling parallel collaboration without conflicts.",
+  "source_repo": "Hoylon/peerbridge-mcp",
+  "source_url": "https://github.com/Hoylon/peerbridge-mcp",
+  "install": "npx -y peerbridge-mcp"
+}

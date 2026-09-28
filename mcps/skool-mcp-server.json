@@ -1,0 +1,7 @@
+{
+  "name": "skool-mcp-server",
+  "description": "MCP server for interacting with Skool.com communities, enabling community management, post operations, member management, and course access through natural language.",
+  "source_repo": "louiewoof2026/skool-mcp",
+  "source_url": "https://github.com/louiewoof2026/skool-mcp",
+  "install": "npx -y skool-mcp"
+}

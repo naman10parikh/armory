@@ -1,0 +1,7 @@
+{
+  "name": "oralink-mcp",
+  "description": "Hosted MCP server that bridges MCP clients to Oracle Autonomous Database via OAuth 2.0, enabling SQL queries and schema management without local Oracle tooling.",
+  "source_repo": "hvrcharon1/oralink-mcp",
+  "source_url": "https://github.com/hvrcharon1/oralink-mcp",
+  "install": "npx -y oralink-mcp"
+}

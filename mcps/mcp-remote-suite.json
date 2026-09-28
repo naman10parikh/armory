@@ -1,0 +1,7 @@
+{
+  "name": "mcp-remote-suite",
+  "description": "A production-ready Model Context Protocol suite over Streamable HTTP providing a sandboxed file server with tools, resources, prompts, and both manual and AI-driven clients.",
+  "source_repo": "TanvirIslam-BD/mcp-remote-suite",
+  "source_url": "https://github.com/TanvirIslam-BD/mcp-remote-suite",
+  "install": "# git clone --depth 1 https://github.com/TanvirIslam-BD/mcp-remote-suite\n# See source for mcpServers config block"
+}

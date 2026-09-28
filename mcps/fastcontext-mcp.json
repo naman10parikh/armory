@@ -1,0 +1,7 @@
+{
+  "name": "fastcontext-mcp",
+  "description": "Wraps FastContext-1.0 as a repo-exploration subagent for Claude Code, enabling efficient codebase navigation by returning file paths and line ranges as grounded citations, reducing main-agent token consumption by up to 60%.",
+  "source_repo": "jmacd867/fastcontext-mcp",
+  "source_url": "https://github.com/jmacd867/fastcontext-mcp",
+  "install": "npx -y fastcontext-mcp"
+}

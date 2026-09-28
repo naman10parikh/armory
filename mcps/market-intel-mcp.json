@@ -1,0 +1,7 @@
+{
+  "name": "market-intel-mcp",
+  "description": "Provides live and historical foreign-exchange rates from the European Central Bank via Frankfurter API, enabling currency conversion, rate lookup, and trend analysis without API keys.",
+  "source_repo": "datakoot/market-intel-mcp",
+  "source_url": "https://github.com/datakoot/market-intel-mcp",
+  "install": "npx -y market-intel-mcp"
+}

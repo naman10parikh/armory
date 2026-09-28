@@ -1,0 +1,7 @@
+{
+  "name": "aitest-mcp-server",
+  "description": "AI-native browser testing, directly from your coding agent.",
+  "source_repo": "rongxianzhuo/aitest-mcp",
+  "source_url": "https://github.com/rongxianzhuo/aitest-mcp",
+  "install": "npx -y aitest-mcp"
+}

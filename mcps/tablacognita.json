@@ -1,0 +1,7 @@
+{
+  "name": "tablacognita",
+  "description": "A browser-based Markdown editor that enables AI to co-write documents via MCP tools, with real-time collaboration and no data stored on servers.",
+  "source_repo": "PStryder/TablaCognita",
+  "source_url": "https://github.com/PStryder/TablaCognita",
+  "install": "# git clone --depth 1 https://github.com/PStryder/TablaCognita\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "say",
+  "description": "Converts family notices (hospital, government, insurance, delivery) into action cards with confirmed facts and pending verifications, enabling collaborative family confirmation and completion.",
+  "source_repo": "commet/say-mcp",
+  "source_url": "https://github.com/commet/say-mcp",
+  "install": "npx -y say-mcp"
+}

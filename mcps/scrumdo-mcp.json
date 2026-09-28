@@ -1,0 +1,7 @@
+{
+  "name": "scrumdo-mcp",
+  "description": "Connects MCP-compatible AI tools to ScrumDo boards, enabling card, task, comment, and search operations without manual copy-pasting.",
+  "source_repo": "ScrumDoLLC/scrumdo-mcp",
+  "source_url": "https://github.com/ScrumDoLLC/scrumdo-mcp",
+  "install": "npx -y scrumdo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "neuralnexus-mcp-macos",
+  "description": "An MCP server for macOS that shares selected folders with NeuralNexus, enabling AI avatars to read local files and analyze Apple Health data via a secure outbound relay.",
+  "source_repo": "AfterlifeSystems/anubis-mcp-server-mac-os",
+  "source_url": "https://github.com/AfterlifeSystems/anubis-mcp-server-mac-os",
+  "install": "# git clone --depth 1 https://github.com/AfterlifeSystems/anubis-mcp-server-mac-os\n# See source for mcpServers config block"
+}

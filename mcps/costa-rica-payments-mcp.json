@@ -1,0 +1,7 @@
+{
+  "name": "costa-rica-payments-mcp",
+  "description": "Enables AI agents to accept payments in Costa Rica through ONVO Pay, providing tools to create payment links and query payment status.",
+  "source_repo": "junter1989k-ai/costa-rica-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/costa-rica-payments-mcp",
+  "install": "npx -y costa-rica-payments-mcp"
+}

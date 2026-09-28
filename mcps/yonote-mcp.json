@@ -1,0 +1,7 @@
+{
+  "name": "yonote-mcp",
+  "description": "MCP server for managing Yonote workspace, providing 56 tools for documents, collections, users, groups, comments, sharing, favorites, revisions, events, and views via AI assistants.",
+  "source_repo": "NikitaMurugov/yonote-mcp",
+  "source_url": "https://github.com/NikitaMurugov/yonote-mcp",
+  "install": "npx -y yonote-mcp"
+}

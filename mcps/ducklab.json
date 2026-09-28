@@ -1,0 +1,7 @@
+{
+  "name": "ducklab",
+  "description": "self-hosted development harness (Go engine + CLI + desktop, Linux first) · brief → requirements → spec → plan → build → review → release · verdicts are exit codes, never model opinions · local models first (llama.cpp, vLLM) beside any OpenAI-compatible or Anthropic endpoint · operable by humans or b",
+  "source_repo": "jrullan/ducklab",
+  "source_url": "https://github.com/jrullan/ducklab",
+  "install": "# git clone --depth 1 https://github.com/jrullan/ducklab\n# See source for mcpServers config block"
+}

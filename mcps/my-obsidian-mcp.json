@@ -1,0 +1,7 @@
+{
+  "name": "my-obsidian-mcp",
+  "description": "Enables AI assistants to read, search, create, and modify Obsidian notes via the Model Context Protocol, supporting tasks like daily notes, backlinks, and project management.",
+  "source_repo": "devheedoo/my-obsidian-mcp",
+  "source_url": "https://github.com/devheedoo/my-obsidian-mcp",
+  "install": "npx -y my-obsidian-mcp"
+}

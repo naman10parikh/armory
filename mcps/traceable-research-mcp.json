@@ -1,0 +1,7 @@
+{
+  "name": "traceable-research-mcp",
+  "description": "Enables traceable scholarly literature reviews using free APIs, generating reports where every claim links to evidence IDs.",
+  "source_repo": "jush-website/traceable-research-mcp",
+  "source_url": "https://github.com/jush-website/traceable-research-mcp",
+  "install": "npx -y traceable-research-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vibo-mcp-server",
+  "description": "Provides persistent memory (L1/L2/L3 encrypted), web-search savings, and thread memory for AI agents, enabling token savings and context retention across MCP clients.",
+  "source_repo": "vnbochkarev-netizen/vibo-mcp",
+  "source_url": "https://github.com/vnbochkarev-netizen/vibo-mcp",
+  "install": "npx -y vibo-mcp"
+}

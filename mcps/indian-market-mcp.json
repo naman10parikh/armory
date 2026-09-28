@@ -1,0 +1,7 @@
+{
+  "name": "indian-market-mcp",
+  "description": "A comprehensive MCP server for the Indian stock market, providing 68 tools for stocks, derivatives, mutual funds, commodities, and more without any API keys.",
+  "source_repo": "afthabvp/indian-market-mcp",
+  "source_url": "https://github.com/afthabvp/indian-market-mcp",
+  "install": "npx -y indian-market-mcp"
+}

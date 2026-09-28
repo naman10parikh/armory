@@ -1,0 +1,7 @@
+{
+  "name": "carbono",
+  "description": "Enables AI to generate images by describing them with HTML using Tailwind CSS and DaisyUI, which are rendered to PNG images.",
+  "source_repo": "dinnger/mcp-carbono",
+  "source_url": "https://github.com/dinnger/mcp-carbono",
+  "install": "# git clone --depth 1 https://github.com/dinnger/mcp-carbono\n# See source for mcpServers config block"
+}

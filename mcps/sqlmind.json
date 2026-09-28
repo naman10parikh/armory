@@ -1,0 +1,7 @@
+{
+  "name": "sqlmind",
+  "description": "An MCP server that provides SQL generation, validation, transpilation, and schema introspection across 10 SQL dialects, using a property graph schema and phase-locked reasoning to convert natural language to accurate SQL.",
+  "source_repo": "Veloce-AI/sqlmind",
+  "source_url": "https://github.com/Veloce-AI/sqlmind",
+  "install": "# git clone --depth 1 https://github.com/Veloce-AI/sqlmind\n# See source for mcpServers config block"
+}

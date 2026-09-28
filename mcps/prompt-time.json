@@ -1,0 +1,7 @@
+{
+  "name": "prompt-time",
+  "description": "Schedule Windows desktop reminders from Claude Desktop using PowerShell and Windows Task Scheduler. Supports one-time and recurring reminders that persist across reboots.",
+  "source_repo": "RyanJamesStewart/prompt-time",
+  "source_url": "https://github.com/RyanJamesStewart/prompt-time",
+  "install": "# git clone --depth 1 https://github.com/RyanJamesStewart/prompt-time\n# See source for mcpServers config block"
+}

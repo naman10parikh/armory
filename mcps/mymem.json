@@ -1,0 +1,7 @@
+{
+  "name": "mymem",
+  "description": "Exposes a private social memory archive to AI assistants via MCP, enabling read-only queries about the user's posts, people, and preferences with tools like search, whoami, and timeline.",
+  "source_repo": "nixxintools/mymem",
+  "source_url": "https://github.com/nixxintools/mymem",
+  "install": "# git clone --depth 1 https://github.com/nixxintools/mymem\n# See source for mcpServers config block"
+}

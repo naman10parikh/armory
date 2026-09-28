@@ -1,0 +1,7 @@
+{
+  "name": "kicad-mcp-server-ipc-api",
+  "description": "Controls a running KiCad 9+ instance via the official IPC API, enabling board edits, queries, and exports without reload.",
+  "source_repo": "lmaag182/kicad_mcp_server_ipc",
+  "source_url": "https://github.com/lmaag182/kicad_mcp_server_ipc",
+  "install": "# git clone --depth 1 https://github.com/lmaag182/kicad_mcp_server_ipc\n# See source for mcpServers config block"
+}

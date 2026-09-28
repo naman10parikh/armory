@@ -1,0 +1,7 @@
+{
+  "name": "google-maps-contributor-reviews-api-mcp-server",
+  "description": "Enables fetching a Google Maps contributor's review history as structured JSON, including reviewer profile and place details, for reputation research, reviewer vetting, and fraud detection.",
+  "source_repo": "johnisanerd/Google-Maps-Contributor-Reviews-API",
+  "source_url": "https://github.com/johnisanerd/Google-Maps-Contributor-Reviews-API",
+  "install": "# git clone --depth 1 https://github.com/johnisanerd/Google-Maps-Contributor-Reviews-API\n# See source for mcpServers config block"
+}

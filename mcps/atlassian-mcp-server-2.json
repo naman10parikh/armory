@@ -1,0 +1,7 @@
+{
+  "name": "atlassian-mcp-server-2",
+  "description": "Enables AI agents to manage Jira issues and Confluence pages via natural language, including creating, updating, searching, and uploading file attachments using API token authentication.",
+  "source_repo": "dongood/atlassian-mcp-server",
+  "source_url": "https://github.com/dongood/atlassian-mcp-server",
+  "install": "npx -y atlassian-mcp-server"
+}

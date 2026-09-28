@@ -1,0 +1,7 @@
+{
+  "name": "vsphere-mcp-server",
+  "description": "A comprehensive MCP server for VMware vSphere management, enabling AI agents to perform VM operations, monitoring, snapshots, and reporting through a secure, Dockerized environment.",
+  "source_repo": "giuliolibrando/vmware-vsphere-mcp-server",
+  "source_url": "https://github.com/giuliolibrando/vmware-vsphere-mcp-server",
+  "install": "npx -y vmware-vsphere-mcp-server"
+}

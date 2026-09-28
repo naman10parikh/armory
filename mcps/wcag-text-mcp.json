@@ -1,0 +1,7 @@
+{
+  "name": "wcag-text-mcp",
+  "description": "Validates text accessibility (contrast, spacing, language) against WCAG 2.1 criteria via modular MCP tools.",
+  "source_repo": "erikcaineolson/wcag-mcp",
+  "source_url": "https://github.com/erikcaineolson/wcag-mcp",
+  "install": "npx -y wcag-mcp"
+}

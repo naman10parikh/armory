@@ -1,6 +1,6 @@
 {
   "name": "taiga-mcp",
-  "description": "Taiga MCP MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "talhaorak/Taiga-MCP",
   "source_url": "https://mcp.so/server/Taiga-MCP/talhaorak",
   "install": "npx -y Taiga-MCP"

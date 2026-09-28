@@ -1,0 +1,7 @@
+{
+  "name": "fathom-mcp-server",
+  "description": "Enables Claude Desktop and MCP clients to access Fathom meeting intelligence, including listing meetings, retrieving summaries and transcripts, and searching by title.",
+  "source_repo": "luminarylane/fathom-mcp-server",
+  "source_url": "https://github.com/luminarylane/fathom-mcp-server",
+  "install": "npx -y fathom-mcp-server"
+}

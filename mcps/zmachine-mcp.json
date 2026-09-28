@@ -1,0 +1,7 @@
+{
+  "name": "zmachine-mcp",
+  "description": "Enables AI agents to play Z-Machine text adventure games (e.g., Zork) via MCP, REST, or WebSocket interfaces, with session management and optional Redis persistence.",
+  "source_repo": "jonathan-meyer/zmachine-mcp",
+  "source_url": "https://github.com/jonathan-meyer/zmachine-mcp",
+  "install": "npx -y zmachine-mcp"
+}

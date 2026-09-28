@@ -1,0 +1,7 @@
+{
+  "name": "hetzner-mcp-server",
+  "description": "MCP server for the Hetzner Cloud API. Manage servers, networks, volumes, firewalls, load balancers, and more through the Model Context Protocol.",
+  "source_repo": "lazyants/hetzner-mcp-server",
+  "source_url": "https://github.com/lazyants/hetzner-mcp-server",
+  "install": "npx -y hetzner-mcp-server"
+}

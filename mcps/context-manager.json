@@ -1,0 +1,7 @@
+{
+  "name": "context-manager",
+  "description": "Local-first, cross-session context store that reduces token usage by saving facts, decisions, and preferences, and recalling them in later sessions with token-efficient ranking and compression.",
+  "source_repo": "Bhaskar-GameDev/context-manager",
+  "source_url": "https://github.com/Bhaskar-GameDev/context-manager",
+  "install": "# git clone --depth 1 https://github.com/Bhaskar-GameDev/context-manager\n# See source for mcpServers config block"
+}

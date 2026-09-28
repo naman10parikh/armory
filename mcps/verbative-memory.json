@@ -1,0 +1,7 @@
+{
+  "name": "verbative-memory",
+  "description": "On-device memory system for AI coding agents that captures commands, edits, and test results in a lossless ledger plus distilled facts, then provides selective recall over MCP with tools like remember, recall, search, and ask.",
+  "source_repo": "verbative/verbative-memory",
+  "source_url": "https://github.com/verbative/verbative-memory",
+  "install": "# git clone --depth 1 https://github.com/verbative/verbative-memory\n# See source for mcpServers config block"
+}

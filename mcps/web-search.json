@@ -1,0 +1,7 @@
+{
+  "name": "web-search",
+  "description": "Web search API for AI agents. Returns structured results with title, URL, and snippet; pay-per-call via x402 micropayments.",
+  "source_repo": "Br0ski777/web-search-x402",
+  "source_url": "https://github.com/Br0ski777/web-search-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/web-search-x402\n# See source for mcpServers config block"
+}

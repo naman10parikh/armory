@@ -1,0 +1,7 @@
+{
+  "name": "rmv-mcp-server",
+  "description": "Enables querying nearby stations and departure boards using the RMV public transport API.",
+  "source_repo": "heikoliedtke/rmv-mcp-remote",
+  "source_url": "https://github.com/heikoliedtke/rmv-mcp-remote",
+  "install": "# git clone --depth 1 https://github.com/heikoliedtke/rmv-mcp-remote\n# See source for mcpServers config block"
+}

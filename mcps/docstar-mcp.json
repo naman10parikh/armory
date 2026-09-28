@@ -1,0 +1,7 @@
+{
+  "name": "docstar-mcp",
+  "description": "Automates documentation updates by analyzing git changes and using an LLM to generate and apply documentation.",
+  "source_repo": "swayammaheshwari/docstar-mcp",
+  "source_url": "https://github.com/swayammaheshwari/docstar-mcp",
+  "install": "npx -y docstar-mcp"
+}

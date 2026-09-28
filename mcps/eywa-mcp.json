@@ -1,0 +1,7 @@
+{
+  "name": "eywa-mcp",
+  "description": "Provides cross-session memory for Claude Code by extracting structured handoffs at session end and retrieving relevant past context at session start.",
+  "source_repo": "buildoak/eywa-continuum",
+  "source_url": "https://github.com/buildoak/eywa-continuum",
+  "install": "# git clone --depth 1 https://github.com/buildoak/eywa-continuum\n# See source for mcpServers config block"
+}

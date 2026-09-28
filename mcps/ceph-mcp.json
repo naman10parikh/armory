@@ -1,0 +1,7 @@
+{
+  "name": "ceph-mcp",
+  "description": "MCP server for managing a Ceph cluster, currently implementing note-taking functionality as a placeholder.",
+  "source_repo": "sserkanml/ceph-mcp",
+  "source_url": "https://github.com/sserkanml/ceph-mcp",
+  "install": "npx -y ceph-mcp"
+}

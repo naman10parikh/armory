@@ -1,0 +1,7 @@
+{
+  "name": "jmpy-mcp-server",
+  "description": "User can create short urls, edit short urls, get click analytics, generate qr codes and much more.",
+  "source_repo": "Jmpy-me/jmpy-mcp-server",
+  "source_url": "https://github.com/Jmpy-me/jmpy-mcp-server",
+  "install": "npx -y jmpy-mcp-server"
+}

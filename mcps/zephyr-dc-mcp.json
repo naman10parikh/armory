@@ -1,0 +1,7 @@
+{
+  "name": "zephyr-dc-mcp",
+  "description": "Enables LLMs to manage test cases, cycles, and executions in Jira Data Center via Zephyr Scale.",
+  "source_repo": "dalemarchand/zephyr-dc-mcp",
+  "source_url": "https://github.com/dalemarchand/zephyr-dc-mcp",
+  "install": "npx -y zephyr-dc-mcp"
+}

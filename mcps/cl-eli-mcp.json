@@ -1,0 +1,7 @@
+{
+  "name": "cl-eli-mcp",
+  "description": "MCP server for searching and fetching metadata of Chilean laws, decrees, and resolutions via the BCN Linked Open Data SPARQL endpoint.",
+  "source_repo": "matematicsolutions/cl-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/cl-eli-mcp",
+  "install": "npx -y cl-eli-mcp"
+}

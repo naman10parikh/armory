@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-ms-dte-caixa-postal",
+  "description": "MCP server for consulting official SEFAZ MS DTE Caixa Postal data via a single tool, with prepaid usage.",
+  "source_repo": "mcp-dir/sefaz_ms_dec_caixa_postal-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_ms_dec_caixa_postal-mcp",
+  "install": "npx -y sefaz_ms_dec_caixa_postal-mcp"
+}

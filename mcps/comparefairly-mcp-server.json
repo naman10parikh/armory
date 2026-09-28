@@ -1,0 +1,7 @@
+{
+  "name": "comparefairly-mcp-server",
+  "description": "Provides AI agents with real-time access to neutral, sourced comparisons across products and services in multiple languages and countries, with tools for searching, fetching detailed comparisons, and listing categories.",
+  "source_repo": "cgdev2019/comparefairly-mcp",
+  "source_url": "https://github.com/cgdev2019/comparefairly-mcp",
+  "install": "npx -y comparefairly-mcp"
+}

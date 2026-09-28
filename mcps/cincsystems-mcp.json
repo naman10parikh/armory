@@ -1,0 +1,7 @@
+{
+  "name": "cincsystems-mcp",
+  "description": "Exposes the CINC Systems HOA management REST API as MCP tools, enabling natural language queries and actions for ACC requests, aged balances, vendor records, call logs, documents, and more.",
+  "source_repo": "sanjibani/cincsystems-mcp",
+  "source_url": "https://github.com/sanjibani/cincsystems-mcp",
+  "install": "npx -y cincsystems-mcp"
+}

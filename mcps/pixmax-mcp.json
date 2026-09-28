@@ -1,0 +1,7 @@
+{
+  "name": "pixmax-mcp",
+  "description": "MCP server for Pixmax API enabling generation of images, video, text, audio, and 3D across dozens of models like Midjourney, Kling, and ElevenLabs.",
+  "source_repo": "huikku/pixmax-mcp",
+  "source_url": "https://github.com/huikku/pixmax-mcp",
+  "install": "npx -y pixmax-mcp"
+}

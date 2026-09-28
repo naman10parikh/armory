@@ -1,0 +1,7 @@
+{
+  "name": "adif-mcp",
+  "description": "Provides safe, typed access to Amateur Radio logging data with ADIF validation, parsing, spec search, and geospatial utilities for Maidenhead locators.",
+  "source_repo": "qso-graph/adif-mcp",
+  "source_url": "https://github.com/qso-graph/adif-mcp",
+  "install": "npx -y adif-mcp"
+}

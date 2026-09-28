@@ -1,0 +1,7 @@
+{
+  "name": "remem-mcp",
+  "description": "Local memory MCP server that survives context compaction, learns from errors, injects fixes before the next attempt, and syncs to your git repo so your whole team shares it.",
+  "source_repo": "tinhien11/remem-mcp",
+  "source_url": "https://github.com/tinhien11/remem-mcp",
+  "install": "npx -y remem-mcp"
+}

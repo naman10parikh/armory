@@ -1,0 +1,7 @@
+{
+  "name": "scrapeer-mcp-server",
+  "description": "Allows AI agents to run, inspect, and create Scrapeer visual web-scraping flows, bridging human-designed browser automation with agent-driven execution.",
+  "source_repo": "Scrapeer/scrapeer-mcp-server",
+  "source_url": "https://github.com/Scrapeer/scrapeer-mcp-server",
+  "install": "npx -y scrapeer-mcp-server"
+}

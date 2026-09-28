@@ -1,0 +1,7 @@
+{
+  "name": "io-github-wmarceau-md-to-pdf",
+  "description": "Converts markdown files into professional PDF documents with automatic table of contents and interactive navigation.",
+  "source_repo": "MarceauSolutions/md-to-pdf-mcp",
+  "source_url": "https://github.com/MarceauSolutions/md-to-pdf-mcp",
+  "install": "npx -y md-to-pdf-mcp"
+}

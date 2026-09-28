@@ -1,0 +1,7 @@
+{
+  "name": "agent-godmode",
+  "description": "Provides workspace-scoped file operations and command execution tools for building Cursor-style agents, along with system prompts and tool definitions for LLM integration.",
+  "source_repo": "mdvohra/agent-godmode",
+  "source_url": "https://github.com/mdvohra/agent-godmode",
+  "install": "# git clone --depth 1 https://github.com/mdvohra/agent-godmode\n# See source for mcpServers config block"
+}

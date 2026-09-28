@@ -1,0 +1,7 @@
+{
+  "name": "warrant",
+  "description": "A local, transparent MCP proxy with an admin console that connects MCP clients to downstream MCP servers, forwards requests unchanged, and exposes live operational events over a localhost dashboard.",
+  "source_repo": "humanitysystems/warrant",
+  "source_url": "https://github.com/humanitysystems/warrant",
+  "install": "# git clone --depth 1 https://github.com/humanitysystems/warrant\n# See source for mcpServers config block"
+}

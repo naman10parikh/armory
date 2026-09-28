@@ -7,7 +7,7 @@ license: MIT
 ---
 # the-agentic-startup
 
-Yet Another Claude Orchestrator - a collection of agents, commands, etc., for shipping production code - but I like this because it's comprehensive, well-written, and one of the few resources that actually uses Output Styles! +10 points!
+A collection of agents, commands and output styles for shipping production code with Claude Code.
 
 **Source:** https://github.com/rsmdt/the-startup
 

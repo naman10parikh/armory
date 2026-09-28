@@ -1,0 +1,7 @@
+{
+  "name": "automation-health-mcp",
+  "description": "An MCP server for auditing automation health, finding failures, stale logs, and non-functional endpoints that report success while quietly failing.",
+  "source_repo": "chainwright/automation-health-mcp",
+  "source_url": "https://github.com/chainwright/automation-health-mcp",
+  "install": "npx -y automation-health-mcp"
+}

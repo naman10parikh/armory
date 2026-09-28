@@ -1,0 +1,7 @@
+{
+  "name": "proxycept-mcp",
+  "description": "A thin stdio-to-HTTP bridge that forwards MCP messages to the hosted Proxycept server, enabling stdio-only MCP clients to access Proxycept's tool catalog.",
+  "source_repo": "MoathOthman/proxycept-mcp",
+  "source_url": "https://github.com/MoathOthman/proxycept-mcp",
+  "install": "npx -y proxycept-mcp"
+}

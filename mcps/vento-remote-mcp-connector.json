@@ -1,0 +1,7 @@
+{
+  "name": "vento-remote-mcp-connector",
+  "description": "Enables Claude, Claude Desktop, and Cursor to read sensor values, monitor device status, and execute real-world actions through Vento boards and agents.",
+  "source_repo": "geromendez199/vento-remote-mcp",
+  "source_url": "https://github.com/geromendez199/vento-remote-mcp",
+  "install": "npx -y vento-remote-mcp"
+}

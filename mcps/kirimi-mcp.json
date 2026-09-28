@@ -1,0 +1,7 @@
+{
+  "name": "kirimi-mcp",
+  "description": "MCP server for Kirimi WhatsApp API, enabling AI agents to send messages, broadcast, manage devices, and contacts.",
+  "source_repo": "kiriminow/kirimi-mcp",
+  "source_url": "https://github.com/kiriminow/kirimi-mcp",
+  "install": "npx -y kirimi-mcp"
+}

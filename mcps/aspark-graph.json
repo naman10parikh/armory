@@ -1,0 +1,7 @@
+{
+  "name": "aspark-graph",
+  "description": "A lean, local knowledge graph that joins a repo's code to its aSPARK delivery artifacts, enabling agents to trace user stories to code and assess impact of changes, served over MCP.",
+  "source_repo": "a-lottes/aSPARK-graph",
+  "source_url": "https://github.com/a-lottes/aSPARK-graph",
+  "install": "# git clone --depth 1 https://github.com/a-lottes/aSPARK-graph\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "comprot-processo",
+  "description": "Consulta processos do Comprot em fonte oficial, com acesso somente leitura por meio de uma ferramenta MCP hospedada, exigindo créditos pré-pagos e sem a necessidade de credenciais da plataforma.",
+  "source_repo": "mcp-dir/comprot_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/comprot_processo-mcp",
+  "install": "npx -y comprot_processo-mcp"
+}

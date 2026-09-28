@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pwsh",
+  "description": "A persistent, pooled PowerShell MCP server that keeps long-lived named pwsh sessions with clean I/O, enabling stateful command execution and multi-session isolation.",
+  "source_repo": "Am6er/mcp-pwsh",
+  "source_url": "https://github.com/Am6er/mcp-pwsh",
+  "install": "# git clone --depth 1 https://github.com/Am6er/mcp-pwsh\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nm-hard-tools",
+  "description": "Provides deployable, stateless MCP services for rigorous inference evaluation and benchmarking, including a profiled lm-evaluation-harness controller/worker and a bounded vLLM forward-pass benchmark adapter.",
+  "source_repo": "neuralmagic/nm-hard-tools",
+  "source_url": "https://github.com/neuralmagic/nm-hard-tools",
+  "install": "# git clone --depth 1 https://github.com/neuralmagic/nm-hard-tools\n# See source for mcpServers config block"
+}

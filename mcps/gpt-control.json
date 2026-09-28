@@ -1,0 +1,7 @@
+{
+  "name": "gpt-control",
+  "description": "Enables coding agents to request, track, and verify independent cross-model reviews with structured findings, attachment hashes, and provenance receipts via Chrome Bridge, Codex, or Responses transports.",
+  "source_repo": "wolfiesch/gpt-control",
+  "source_url": "https://github.com/wolfiesch/gpt-control",
+  "install": "# git clone --depth 1 https://github.com/wolfiesch/gpt-control\n# See source for mcpServers config block"
+}

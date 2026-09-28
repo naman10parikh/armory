@@ -1,0 +1,7 @@
+{
+  "name": "shortcutsbridge",
+  "description": "MCP server that lets ChatGPT list, search, and run your Apple Shortcuts on your own Mac through a local agent and stateless relay.",
+  "source_repo": "IsaiahDupree/shortcuts-bridge",
+  "source_url": "https://github.com/IsaiahDupree/shortcuts-bridge",
+  "install": "# git clone --depth 1 https://github.com/IsaiahDupree/shortcuts-bridge\n# See source for mcpServers config block"
+}

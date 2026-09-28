@@ -1,0 +1,7 @@
+{
+  "name": "tomo-streaming-mcp",
+  "description": "Enables MCP-compatible agents to manage Tomo Streaming rooms and runtimes, including creating, inspecting, controlling, and deleting rooms, as well as checking health and listing stream servers.",
+  "source_repo": "Tomo-Social/tomo-streaming-mcp",
+  "source_url": "https://github.com/Tomo-Social/tomo-streaming-mcp",
+  "install": "npx -y tomo-streaming-mcp"
+}

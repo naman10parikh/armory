@@ -1,0 +1,7 @@
+{
+  "name": "discord-manager",
+  "description": "Enables AI assistants to manage Discord servers by providing tools for catching up, triaging mentions, bookmarking, and sending messages through a self-hosted bot.",
+  "source_repo": "seasonedcc/discord-manager",
+  "source_url": "https://github.com/seasonedcc/discord-manager",
+  "install": "# git clone --depth 1 https://github.com/seasonedcc/discord-manager\n# See source for mcpServers config block"
+}

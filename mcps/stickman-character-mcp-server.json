@@ -1,0 +1,7 @@
+{
+  "name": "stickman-character-mcp-server",
+  "description": "Enables MCP-compatible coding agents to control a posable, rigged stickman character by setting joint angles and facial expressions, and to render still frames or full animations as SVG, PNG, GIF, or MP4.",
+  "source_repo": "meAnkit18/stickman-mcp",
+  "source_url": "https://github.com/meAnkit18/stickman-mcp",
+  "install": "npx -y stickman-mcp"
+}

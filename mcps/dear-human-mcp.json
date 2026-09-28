@@ -1,0 +1,7 @@
+{
+  "name": "dear-human-mcp",
+  "description": "MCP server that enables AI agents to browse e-card templates, phrases, and offers, and send customizable e-cards to humans.",
+  "source_repo": "CarnivalBigTop/dearhuman-mcp",
+  "source_url": "https://github.com/CarnivalBigTop/dearhuman-mcp",
+  "install": "npx -y dearhuman-mcp"
+}

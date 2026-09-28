@@ -1,0 +1,7 @@
+{
+  "name": "luxembourg-law-mcp",
+  "description": "Enables AI-powered legal research across 4,551 Luxembourg statutes, 260 case law decisions, and EU law integrations through natural language queries and 13 specialized tools.",
+  "source_repo": "Ansvar-Systems/Luxembourg-law-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/Luxembourg-law-mcp",
+  "install": "npx -y Luxembourg-law-mcp"
+}

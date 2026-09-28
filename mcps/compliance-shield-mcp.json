@@ -1,0 +1,7 @@
+{
+  "name": "compliance-shield-mcp",
+  "description": "Enables EU AI Act compliance for AI agent systems by providing risk classification, audit trails, gap analysis, and evidence package generation.",
+  "source_repo": "mdfifty50-boop/compliance-shield-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/compliance-shield-mcp",
+  "install": "npx -y compliance-shield-mcp"
+}

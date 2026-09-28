@@ -1,0 +1,7 @@
+{
+  "name": "showrunner",
+  "description": "A tiny always-on server that coordinates multiple coding-agent sessions on one project (a 'show'), using a worker/director pattern with polling, leases, and SQLite state.",
+  "source_repo": "khou/showrunner",
+  "source_url": "https://github.com/khou/showrunner",
+  "install": "# git clone --depth 1 https://github.com/khou/showrunner\n# See source for mcpServers config block"
+}

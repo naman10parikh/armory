@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-fac-mcp-hub",
+  "description": "Enables AI models to seamlessly integrate with external tools and data sources via the Model Context Protocol, extending functionality without modifying the core model.",
+  "source_repo": "ColdenJohnson/fac_mcp_hub",
+  "source_url": "https://github.com/ColdenJohnson/fac_mcp_hub",
+  "install": "# git clone --depth 1 https://github.com/ColdenJohnson/fac_mcp_hub\n# See source for mcpServers config block"
+}

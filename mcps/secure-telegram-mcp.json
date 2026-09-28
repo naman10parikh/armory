@@ -1,0 +1,7 @@
+{
+  "name": "secure-telegram-mcp",
+  "description": "Allows AI clients to securely interact with Telegram accounts through scoped endpoints, with encrypted session storage and per-tool permission checks.",
+  "source_repo": "antonorlov/secure-telegram-mcp",
+  "source_url": "https://github.com/antonorlov/secure-telegram-mcp",
+  "install": "npx -y secure-telegram-mcp"
+}

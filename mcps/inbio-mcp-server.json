@@ -1,0 +1,7 @@
+{
+  "name": "inbio-mcp-server",
+  "description": "Official MCP server for INBIO's URL shortener with click analytics and customizable QR codes. Enables link shortening, QR code generation, and link management with optional authentication for advanced features.",
+  "source_repo": "getinbio/inbio-mcp",
+  "source_url": "https://github.com/getinbio/inbio-mcp",
+  "install": "npx -y inbio-mcp"
+}

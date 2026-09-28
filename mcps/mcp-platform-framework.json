@@ -1,0 +1,7 @@
+{
+  "name": "mcp-platform-framework",
+  "description": "A framework for building MCP servers with built-in enterprise capabilities such as authentication, authorization, telemetry, audit logging, and data classification, allowing domain developers to focus on business logic while maintaining governance and compliance.",
+  "source_repo": "Edouard-Legoupil/mcp-platform-framework",
+  "source_url": "https://github.com/Edouard-Legoupil/mcp-platform-framework",
+  "install": "# git clone --depth 1 https://github.com/Edouard-Legoupil/mcp-platform-framework\n# See source for mcpServers config block"
+}

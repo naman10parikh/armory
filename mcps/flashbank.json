@@ -1,0 +1,7 @@
+{
+  "name": "flashbank",
+  "description": "P2P Crypto and Flashloans. Lets AI agents browse, quote and (optionally) transact with the FlashBank contracts — the P2P term-loan escrow and the flash-loan router — on Ethereum, Base, Arbitrum and the Sepolia playground.",
+  "source_repo": "Rotwang9000/flashbank-net",
+  "source_url": "https://github.com/Rotwang9000/flashbank-net",
+  "install": "# git clone --depth 1 https://github.com/Rotwang9000/flashbank-net\n# See source for mcpServers config block"
+}

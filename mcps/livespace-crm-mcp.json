@@ -1,0 +1,7 @@
+{
+  "name": "livespace-crm-mcp",
+  "description": "Unofficial MCP server for Livespace CRM, exposing 11 intent-shaped tools for safe, bounded read and write operations on records, deals, activities, and notifications via Streamable HTTP.",
+  "source_repo": "proAutomator/livespace-crm-mcp",
+  "source_url": "https://github.com/proAutomator/livespace-crm-mcp",
+  "install": "npx -y livespace-crm-mcp"
+}

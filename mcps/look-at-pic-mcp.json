@@ -1,0 +1,7 @@
+{
+  "name": "look-at-pic-mcp",
+  "description": "Enables image analysis using GLM-4V multimodal model, supporting local files and base64 images with optional custom prompts.",
+  "source_repo": "bbsteel/look-at-pic-mcp",
+  "source_url": "https://github.com/bbsteel/look-at-pic-mcp",
+  "install": "npx -y look-at-pic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "enem-extractor",
+  "description": "MCP server for ENEM exam PDFs, providing resource listing and question extraction as PNG images via natural language.",
+  "source_repo": "FernandoAlmeidaPinto/enem-extractor",
+  "source_url": "https://github.com/FernandoAlmeidaPinto/enem-extractor",
+  "install": "# git clone --depth 1 https://github.com/FernandoAlmeidaPinto/enem-extractor\n# See source for mcpServers config block"
+}

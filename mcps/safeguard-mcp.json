@@ -1,0 +1,7 @@
+{
+  "name": "safeguard-mcp",
+  "description": "Enables AI agents to scan, redact, and govern sensitive data before sending it to external tools through DLP, secure chat, and shadow AI discovery tools.",
+  "source_repo": "the-safeguard-ai/safeguard-mcp",
+  "source_url": "https://github.com/the-safeguard-ai/safeguard-mcp",
+  "install": "npx -y safeguard-mcp"
+}

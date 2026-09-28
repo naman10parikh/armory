@@ -1,0 +1,7 @@
+{
+  "name": "lark-lite-mcp",
+  "description": "极轻量、低 Token 消耗的飞书多维表格 MCP 服务，支持链接解析、记录读写和筛选搜索。",
+  "source_repo": "IceOnMyTeeth/lark-lite-mcp",
+  "source_url": "https://github.com/IceOnMyTeeth/lark-lite-mcp",
+  "install": "npx -y lark-lite-mcp"
+}

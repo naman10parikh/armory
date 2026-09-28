@@ -1,0 +1,7 @@
+{
+  "name": "agent-mcp-hub",
+  "description": "Bridges multiple CLI coding agents (Codex, Cursor, OpenCode, Claude, Antigravity) into any MCP client, enabling delegation of prompts, parallel execution, and code review workflows.",
+  "source_repo": "blackaxgit/agent-mcp-hub",
+  "source_url": "https://github.com/blackaxgit/agent-mcp-hub",
+  "install": "# git clone --depth 1 https://github.com/blackaxgit/agent-mcp-hub\n# See source for mcpServers config block"
+}

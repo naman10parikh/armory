@@ -1,0 +1,7 @@
+{
+  "name": "profitlee-mcp",
+  "description": "ProfitLee MCP is an MCP server for analyzing ecommerce and marketplace profitability. It helps users calculate net profit, profit margin, ROI, breakeven price, and fee-adjusted outcomes from product cost, selling price, shipping, ads, platform fees, and tax inputs. It also supports reusable profit s",
+  "source_repo": "AronLEEdev/profitlee-mcp",
+  "source_url": "https://github.com/AronLEEdev/profitlee-mcp",
+  "install": "npx -y profitlee-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "offensive360-mcp-server",
+  "description": "Enables AI assistants to run Offensive360 SAST scans on local codebases, returning security findings with file/line, severity, and fixes, plus scan status tracking.",
+  "source_repo": "offensive360/mcp-server",
+  "source_url": "https://github.com/offensive360/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/offensive360/mcp-server\n# See source for mcpServers config block"
+}

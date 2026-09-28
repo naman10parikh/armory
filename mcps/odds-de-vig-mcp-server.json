@@ -1,0 +1,7 @@
+{
+  "name": "odds-de-vig-mcp-server",
+  "description": "Enables fetching sports odds from The Odds API and removing bookmaker margin (vig) to compute fair probabilities, with tools for today's MLB games, processed odds, and consensus lines.",
+  "source_repo": "Mavline/odds-devig-server",
+  "source_url": "https://github.com/Mavline/odds-devig-server",
+  "install": "# git clone --depth 1 https://github.com/Mavline/odds-devig-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-keycloak-admin",
+  "description": "Enables administrators to manage Keycloak realms, users, roles, clients, groups, and more through its Admin REST API, with safe-by-default configuration and destructive operation confirmation.",
+  "source_repo": "mrz1880/mcp-keycloak-admin",
+  "source_url": "https://github.com/mrz1880/mcp-keycloak-admin",
+  "install": "# git clone --depth 1 https://github.com/mrz1880/mcp-keycloak-admin\n# See source for mcpServers config block"
+}

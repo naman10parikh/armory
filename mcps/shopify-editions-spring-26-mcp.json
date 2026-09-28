@@ -1,0 +1,7 @@
+{
+  "name": "shopify-editions-spring-26-mcp",
+  "description": "Query 237 features from Shopify's Spring '26 Edition with per-claim trust ratings (primary docs vs. marketing) through any AI agent — local or hosted.",
+  "source_repo": "watsonrm/shopify-editions-spring26-mcp",
+  "source_url": "https://github.com/watsonrm/shopify-editions-spring26-mcp",
+  "install": "npx -y shopify-editions-spring26-mcp"
+}

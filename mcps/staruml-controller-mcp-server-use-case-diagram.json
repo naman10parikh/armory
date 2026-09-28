@@ -1,0 +1,7 @@
+{
+  "name": "staruml-controller-mcp-server-use-case-diagram",
+  "description": "An MCP server that enables AI assistants to programmatically create and manage use case diagrams (actors, use cases, subjects, relationships) in StarUML via a REST API.",
+  "source_repo": "pontasan/staruml-controller-usecase-mcp",
+  "source_url": "https://github.com/pontasan/staruml-controller-usecase-mcp",
+  "install": "npx -y staruml-controller-usecase-mcp"
+}

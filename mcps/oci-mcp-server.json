@@ -1,0 +1,7 @@
+{
+  "name": "oci-mcp-server",
+  "description": "An MCP server that exposes Oracle Cloud Infrastructure (OCI) control plane to LLM clients, enabling management of compute, networking, storage, databases, and more through natural language.",
+  "source_repo": "sarthak-pansare/oci-mcp-server",
+  "source_url": "https://github.com/sarthak-pansare/oci-mcp-server",
+  "install": "npx -y oci-mcp-server"
+}

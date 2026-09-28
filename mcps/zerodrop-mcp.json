@@ -1,0 +1,7 @@
+{
+  "name": "zerodrop-mcp",
+  "description": "Provides disposable email inboxes for AI agents to automatically receive and extract OTPs and magic links, enabling seamless email verification during autonomous workflows.",
+  "source_repo": "zerodrop-dev/zerodrop-mcp",
+  "source_url": "https://github.com/zerodrop-dev/zerodrop-mcp",
+  "install": "npx -y zerodrop-mcp"
+}

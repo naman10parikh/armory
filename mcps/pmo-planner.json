@@ -1,0 +1,7 @@
+{
+  "name": "pmo-planner",
+  "description": "Enables interacting with Microsoft Planner and Project for the Web plans through a secure MCP server, supporting plan listing, WBS details, overdue tasks, and workload summaries with strict group isolation.",
+  "source_repo": "jcsepulveda/mcp-pmo-planner",
+  "source_url": "https://github.com/jcsepulveda/mcp-pmo-planner",
+  "install": "# git clone --depth 1 https://github.com/jcsepulveda/mcp-pmo-planner\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crowntowncompost-mcp",
+  "description": "MCP server for the Crown Town Compost customer portal that lets you check pickups, invoices, and upcoming collections, skip services, report missed pickups, and update account details through natural language.",
+  "source_repo": "chrischall/crowntowncompost-mcp",
+  "source_url": "https://github.com/chrischall/crowntowncompost-mcp",
+  "install": "npx -y crowntowncompost-mcp"
+}

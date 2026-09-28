@@ -1,0 +1,7 @@
+{
+  "name": "identity-forge-mcp",
+  "description": "MCP server for design kits and brand workflows. Coding agents can browse and apply design systems, create brand projects, and research names, domains, and EUIPO marks.",
+  "source_repo": "KasayoDotCom/identityforge-mcp",
+  "source_url": "https://github.com/KasayoDotCom/identityforge-mcp",
+  "install": "npx -y identityforge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-doc-search",
+  "description": "Enables searching and retrieving documentation files from a local docs folder using a search tool and dynamic resource URIs.",
+  "source_repo": "gituser5525/mcp-doc-search",
+  "source_url": "https://github.com/gituser5525/mcp-doc-search",
+  "install": "# git clone --depth 1 https://github.com/gituser5525/mcp-doc-search\n# See source for mcpServers config block"
+}

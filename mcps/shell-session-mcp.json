@@ -1,0 +1,7 @@
+{
+  "name": "shell-session-mcp",
+  "description": "Provides persistent interactive shell sessions via pseudo-terminals for MCP agents, enabling bidirectional communication, incremental reads, and stateful command execution across steps.",
+  "source_repo": "CarefulDeveloper/shell-session-mcp",
+  "source_url": "https://github.com/CarefulDeveloper/shell-session-mcp",
+  "install": "npx -y shell-session-mcp"
+}

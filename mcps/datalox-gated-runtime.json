@@ -1,0 +1,7 @@
+{
+  "name": "datalox-gated-runtime",
+  "description": "This MCP server provides a stateful, resettable, verifiable API runtime that gates every tool call, enabling agents to run long workflows against provider-shaped environments without live provider write access. It records decisions, side effects, and outcome evidence for replayable, verifiable bench",
+  "source_repo": "Oshawott324/datalox-gated-runtime",
+  "source_url": "https://github.com/Oshawott324/datalox-gated-runtime",
+  "install": "# git clone --depth 1 https://github.com/Oshawott324/datalox-gated-runtime\n# See source for mcpServers config block"
+}

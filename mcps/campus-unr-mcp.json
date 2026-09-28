@@ -1,0 +1,7 @@
+{
+  "name": "campus-unr-mcp",
+  "description": "MCP server for the Moodle-based Campus Virtual FCEIA UNR, providing tools to read courses, assignments, forums, and grades, plus write operations (posting, grading, messaging, events) with dry-run safety.",
+  "source_repo": "jpmanson/campus-unr-mcp",
+  "source_url": "https://github.com/jpmanson/campus-unr-mcp",
+  "install": "npx -y campus-unr-mcp"
+}

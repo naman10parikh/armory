@@ -1,0 +1,7 @@
+{
+  "name": "1c-templates-mcp",
+  "description": "MCP server for semantic search of 1C (BSL) code templates with 2262+ community templates, CRUD web interface, and ChromaDB + embeddings for meaning-based search.",
+  "source_repo": "Desko77/1c-templates-mcp",
+  "source_url": "https://github.com/Desko77/1c-templates-mcp",
+  "install": "npx -y 1c-templates-mcp"
+}

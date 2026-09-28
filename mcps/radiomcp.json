@@ -1,0 +1,7 @@
+{
+  "name": "radiomcp",
+  "description": "Internet radio for Claude and your terminal with ~25,000 verified live stations from 197 countries. Control playback, search, and get recommendations through natural language.",
+  "source_repo": "meshpop/radiomcp",
+  "source_url": "https://github.com/meshpop/radiomcp",
+  "install": "# git clone --depth 1 https://github.com/meshpop/radiomcp\n# See source for mcpServers config block"
+}

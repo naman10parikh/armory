@@ -1,0 +1,7 @@
+{
+  "name": "codinfy-mcp",
+  "description": "MCP server that connects AI agents to Codinfy platform APIs for validating licenses, creating checkouts, listing products, tracking analytics, managing OAuth identity, and handling ad placements.",
+  "source_repo": "bakalagoin/codinfy-mcp",
+  "source_url": "https://github.com/bakalagoin/codinfy-mcp",
+  "install": "npx -y codinfy-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "epiphany",
+  "description": "A local MCP server that provides a shared, private memory for multiple AI tools, enabling cross-model recall and automatic session ingestion.",
+  "source_repo": "GATSV-tech/epiphany",
+  "source_url": "https://github.com/GATSV-tech/epiphany",
+  "install": "# git clone --depth 1 https://github.com/GATSV-tech/epiphany\n# See source for mcpServers config block"
+}

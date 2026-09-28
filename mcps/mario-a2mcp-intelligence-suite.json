@@ -1,0 +1,7 @@
+{
+  "name": "mario-a2mcp-intelligence-suite",
+  "description": "Multi-endpoint Web3 intelligence service for token risk scanning, pre-trade checks, and signal snapshots, using DexScreener data with x402 payment support.",
+  "source_repo": "agent-evidence-lab/a2mcp-signal-snapshot",
+  "source_url": "https://github.com/agent-evidence-lab/a2mcp-signal-snapshot",
+  "install": "# git clone --depth 1 https://github.com/agent-evidence-lab/a2mcp-signal-snapshot\n# See source for mcpServers config block"
+}

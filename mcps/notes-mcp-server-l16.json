@@ -1,0 +1,7 @@
+{
+  "name": "notes-mcp-server-l16",
+  "description": "A Model Context Protocol (MCP) server that gives Claude a persistent personal notebook. Notes are stored on disk as JSON, so they survive restarts and are shared across every tool and resource.",
+  "source_repo": "devkievskiy/notes-mcp-server-l16",
+  "source_url": "https://github.com/devkievskiy/notes-mcp-server-l16",
+  "install": "# git clone --depth 1 https://github.com/devkievskiy/notes-mcp-server-l16\n# See source for mcpServers config block"
+}

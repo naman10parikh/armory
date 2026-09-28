@@ -1,0 +1,7 @@
+{
+  "name": "lunchmoney-mcp-server-oauth",
+  "description": "Self-hostable remote MCP server for Lunch Money with built-in OAuth 2.1, enabling Claude to access transactions, budgets, and more on mobile, web, and desktop.",
+  "source_repo": "Squixx/lunchmoney-mcp-server-oauth",
+  "source_url": "https://github.com/Squixx/lunchmoney-mcp-server-oauth",
+  "install": "# git clone --depth 1 https://github.com/Squixx/lunchmoney-mcp-server-oauth\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "elk-log-query-mcp",
+  "description": "Enables querying and searching logs from Kibana (ELK stack) via MCP, with support for project-based data views, trace ID correlation, and log expansion.",
+  "source_repo": "zhengziha/ELK-mcp-server",
+  "source_url": "https://github.com/zhengziha/ELK-mcp-server",
+  "install": "npx -y ELK-mcp-server"
+}

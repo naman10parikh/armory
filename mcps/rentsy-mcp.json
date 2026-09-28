@@ -1,0 +1,7 @@
+{
+  "name": "rentsy-mcp",
+  "description": "Enables AI assistants to search, book, and manage rentals on Rentsy.com.au, Australia's rental marketplace, through natural language.",
+  "source_repo": "PrameshLuitel/rentsy-mcp",
+  "source_url": "https://github.com/PrameshLuitel/rentsy-mcp",
+  "install": "npx -y rentsy-mcp"
+}

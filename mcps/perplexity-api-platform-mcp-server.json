@@ -1,0 +1,7 @@
+{
+  "name": "perplexity-api-platform-mcp-server",
+  "description": "Provides AI assistants with real-time web search, reasoning, and research capabilities through Perplexity's Agent API and Search API, enabling tools for search, conversational Q&A, deep research, and advanced reasoning.",
+  "source_repo": "adefemi-dev/Perplexity-AI-MCP",
+  "source_url": "https://github.com/adefemi-dev/Perplexity-AI-MCP",
+  "install": "npx -y Perplexity-AI-MCP"
+}

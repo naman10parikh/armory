@@ -1,0 +1,7 @@
+{
+  "name": "hrms-tool",
+  "description": "An AI-native HR Management System that lets users manage employees, leave, meetings, tickets, and email through natural conversation.",
+  "source_repo": "MindMatrixPro/hrms-mcp-agent",
+  "source_url": "https://github.com/MindMatrixPro/hrms-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/MindMatrixPro/hrms-mcp-agent\n# See source for mcpServers config block"
+}

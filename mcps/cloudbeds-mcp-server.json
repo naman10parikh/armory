@@ -1,0 +1,7 @@
+{
+  "name": "cloudbeds-mcp-server",
+  "description": "MCP server that exposes Cloudbeds occupancy, check-ins/check-outs, and reservations as natural language tools, with read-only access and secure credential storage.",
+  "source_repo": "ronaldoribeirosm/cloudbeds-mcp-server",
+  "source_url": "https://github.com/ronaldoribeirosm/cloudbeds-mcp-server",
+  "install": "npx -y cloudbeds-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hermes-google-mcp-server",
+  "description": "Lightweight MCP server for Google Workspace (Calendar, Gmail, Drive) designed for Hermes Agent in Docker, enabling tools to list events, messages, and files via CLI.",
+  "source_repo": "MAghadavoodi/HermesGoogleMCP",
+  "source_url": "https://github.com/MAghadavoodi/HermesGoogleMCP",
+  "install": "# git clone --depth 1 https://github.com/MAghadavoodi/HermesGoogleMCP\n# See source for mcpServers config block"
+}

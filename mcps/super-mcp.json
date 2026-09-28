@@ -1,0 +1,7 @@
+{
+  "name": "super-mcp",
+  "description": "A gateway that aggregates multiple MCP servers into a single endpoint, namespacing their tools and forwarding calls, so an agent connects to one MCP to access the entire stack.",
+  "source_repo": "nidamen/super-mcp",
+  "source_url": "https://github.com/nidamen/super-mcp",
+  "install": "npx -y super-mcp"
+}

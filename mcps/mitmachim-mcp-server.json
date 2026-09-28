@@ -1,0 +1,7 @@
+{
+  "name": "mitmachim-mcp-server",
+  "description": "MCP server for the mitmachim.top forum, enabling AI agents to read, search, and create posts and replies.",
+  "source_repo": "toyro396133/mitmachim-mcp",
+  "source_url": "https://github.com/toyro396133/mitmachim-mcp",
+  "install": "npx -y mitmachim-mcp"
+}

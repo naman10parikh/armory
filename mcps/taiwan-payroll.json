@@ -1,0 +1,7 @@
+{
+  "name": "taiwan-payroll",
+  "description": "Taiwan statutory payroll calculation — labor & health insurance, labor pension, 2nd-gen NHI supplementary premium, income-tax withholding, and old-age benefits. Sourced from official gazettes, verified against official sample data.",
+  "source_repo": "supra126/taiwan-payroll",
+  "source_url": "https://github.com/supra126/taiwan-payroll",
+  "install": "# git clone --depth 1 https://github.com/supra126/taiwan-payroll\n# See source for mcpServers config block"
+}

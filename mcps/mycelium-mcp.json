@@ -1,0 +1,7 @@
+{
+  "name": "mycelium-mcp",
+  "description": "The coordination layer for AI agent networks, providing persistent memory, task management, inter-agent messaging, and human oversight through native MCP tools.",
+  "source_repo": "SoftBacon-Software/mycelium-mcp",
+  "source_url": "https://github.com/SoftBacon-Software/mycelium-mcp",
+  "install": "npx -y mycelium-mcp"
+}

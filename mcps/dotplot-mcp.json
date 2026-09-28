@@ -1,0 +1,7 @@
+{
+  "name": "dotplot-mcp",
+  "description": "MCP server for product analytics using dot plots to visualize individual user activity, with tools for user classification, aha moment detection, retention analysis, and generating shareable HTML reports.",
+  "source_repo": "brownglasses/dotplot-mcp",
+  "source_url": "https://github.com/brownglasses/dotplot-mcp",
+  "install": "npx -y dotplot-mcp"
+}

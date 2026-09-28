@@ -1,0 +1,7 @@
+{
+  "name": "cleo-compliance-skills-mcp",
+  "description": "Cleo Skills MCP turns 45 production-grade product-compliance skills into a native MCP server. Cosmetics, food, electronics, toys, textiles, supplements, medical devices, customs, recalls, claims, sustainability — exposed as MCP resources (skill://), parameterized prompts, and 3 structured tools (lis",
+  "source_repo": "Cleo-Labs-IA/skills_library",
+  "source_url": "https://github.com/Cleo-Labs-IA/skills_library",
+  "install": "# git clone --depth 1 https://github.com/Cleo-Labs-IA/skills_library\n# See source for mcpServers config block"
+}

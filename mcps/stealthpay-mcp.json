@@ -1,0 +1,7 @@
+{
+  "name": "stealthpay-mcp",
+  "description": "Enables AI agents to make contextual, private crypto payments using ENS identity and stealth addresses, with stealth-address privacy and agent spend policy controls.",
+  "source_repo": "mandalito/StealthPay-MCP",
+  "source_url": "https://github.com/mandalito/StealthPay-MCP",
+  "install": "npx -y StealthPay-MCP"
+}

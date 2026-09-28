@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-post-mcp",
+  "description": "An MCP server that lets you publish posts to your LinkedIn profile using the official LinkedIn API, with support for markdown formatting and OAuth authentication.",
+  "source_repo": "Raffaele86/linkedin-post-mcp",
+  "source_url": "https://github.com/Raffaele86/linkedin-post-mcp",
+  "install": "npx -y linkedin-post-mcp"
+}

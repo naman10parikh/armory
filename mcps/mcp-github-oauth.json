@@ -1,0 +1,7 @@
+{
+  "name": "mcp-github-oauth",
+  "description": "An MCP server with GitHub OAuth for remote connections, providing tools for arithmetic, GitHub user info, and image generation.",
+  "source_repo": "vorticmateja/mcp-github-oauth",
+  "source_url": "https://github.com/vorticmateja/mcp-github-oauth",
+  "install": "# git clone --depth 1 https://github.com/vorticmateja/mcp-github-oauth\n# See source for mcpServers config block"
+}

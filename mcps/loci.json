@@ -1,0 +1,7 @@
+{
+  "name": "loci",
+  "description": "Local-first harness and ticket operations for AI assistants via CLI or MCP.",
+  "source_repo": "thienhm/loci",
+  "source_url": "https://github.com/thienhm/loci",
+  "install": "# git clone --depth 1 https://github.com/thienhm/loci\n# See source for mcpServers config block"
+}

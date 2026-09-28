@@ -1,0 +1,7 @@
+{
+  "name": "apartment-hunter-mcp-server",
+  "description": "An MCP server for rental apartment aggregation, enabling geographic polygon search, semantic vector search, and LLM-powered analysis. Integrates with AI agents like Claude Desktop to manage apartment hunting workflows.",
+  "source_repo": "ai-engineers-guild/apartment-hunter",
+  "source_url": "https://github.com/ai-engineers-guild/apartment-hunter",
+  "install": "# git clone --depth 1 https://github.com/ai-engineers-guild/apartment-hunter\n# See source for mcpServers config block"
+}

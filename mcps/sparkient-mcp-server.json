@@ -1,0 +1,7 @@
+{
+  "name": "sparkient-mcp-server",
+  "description": "Connects AI agents to Sparkient's Decision Intelligence API for sub-100ms structured decisions.",
+  "source_repo": "Sparkient/sparkient-mcp-server",
+  "source_url": "https://github.com/Sparkient/sparkient-mcp-server",
+  "install": "npx -y sparkient-mcp-server"
+}

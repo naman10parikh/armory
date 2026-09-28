@@ -1,0 +1,7 @@
+{
+  "name": "super-todo-mcp-app",
+  "description": "A todo list manager for Creature with interactive UI, batch operations, full-text search, and markdown descriptions, enabling natural language task management.",
+  "source_repo": "garethmcc/super-todo-mcp-app",
+  "source_url": "https://github.com/garethmcc/super-todo-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/garethmcc/super-todo-mcp-app\n# See source for mcpServers config block"
+}

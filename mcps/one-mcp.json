@@ -1,0 +1,7 @@
+{
+  "name": "one-mcp",
+  "description": "MCP server for the ONE Framework ERP that enables Claude to explore data models, run queries, and understand business logic through autonomous access.",
+  "source_repo": "alexxcpr/ONE-MCP",
+  "source_url": "https://github.com/alexxcpr/ONE-MCP",
+  "install": "npx -y ONE-MCP"
+}

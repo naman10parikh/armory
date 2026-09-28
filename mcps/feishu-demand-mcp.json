@@ -1,0 +1,7 @@
+{
+  "name": "feishu-demand-mcp",
+  "description": "A self-hosted MCP server for managing a Feishu (Lark) demand pool and archiving daily reports. It exposes tools to list, get, create, update demands, and archive daily reports.",
+  "source_repo": "Digital-sy/feishu-demand-mcp",
+  "source_url": "https://github.com/Digital-sy/feishu-demand-mcp",
+  "install": "npx -y feishu-demand-mcp"
+}

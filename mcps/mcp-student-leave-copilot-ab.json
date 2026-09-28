@@ -1,0 +1,7 @@
+{
+  "name": "mcp-student-leave-copilot-ab",
+  "description": "Manages student leave requests and approvals, integrated with GitHub Copilot for natural language interaction.",
+  "source_repo": "abhijeetgiram/mcp-student-leave-copilot-ab",
+  "source_url": "https://github.com/abhijeetgiram/mcp-student-leave-copilot-ab",
+  "install": "# git clone --depth 1 https://github.com/abhijeetgiram/mcp-student-leave-copilot-ab\n# See source for mcpServers config block"
+}

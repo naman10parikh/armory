@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ssh-connectors",
+  "description": "An MCP server that enables AI to execute SSH commands on remote servers using the host's OpenSSH client, supporting both configured targets and dynamic connections with request-scoped credentials.",
+  "source_repo": "xtawa/mcp_ssh_connectors",
+  "source_url": "https://github.com/xtawa/mcp_ssh_connectors",
+  "install": "# git clone --depth 1 https://github.com/xtawa/mcp_ssh_connectors\n# See source for mcpServers config block"
+}

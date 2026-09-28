@@ -1,0 +1,7 @@
+{
+  "name": "serpentine3d-mcp-server",
+  "description": "Enables AI to view the Serpentine3D viewport, create NURBS geometry, and execute commands, integrating AI directly into the modelling workflow.",
+  "source_repo": "chisomobanzi/Serpentine3D",
+  "source_url": "https://github.com/chisomobanzi/Serpentine3D",
+  "install": "# git clone --depth 1 https://github.com/chisomobanzi/Serpentine3D\n# See source for mcpServers config block"
+}

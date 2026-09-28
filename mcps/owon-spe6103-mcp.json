@@ -1,0 +1,7 @@
+{
+  "name": "owon-spe6103-mcp",
+  "description": "MCP server for reading and controlling an OWON SPE6103 programmable DC power supply over USB serial, with safety checks and verified SCPI commands.",
+  "source_repo": "kakuteki/owon-spe6103-mcp",
+  "source_url": "https://github.com/kakuteki/owon-spe6103-mcp",
+  "install": "npx -y owon-spe6103-mcp"
+}

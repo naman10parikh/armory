@@ -1,0 +1,7 @@
+{
+  "name": "math-i-choose-to-ignore-mcp-server",
+  "description": "AI-powered expense tracking MCP server that connects LLM clients to PostgreSQL for natural language expense management.",
+  "source_repo": "Sanchit1403/Math-I-Choose-to-Ignore-MCP-Server",
+  "source_url": "https://github.com/Sanchit1403/Math-I-Choose-to-Ignore-MCP-Server",
+  "install": "npx -y Math-I-Choose-to-Ignore-MCP-Server"
+}

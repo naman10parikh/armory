@@ -1,0 +1,7 @@
+{
+  "name": "ida-fusion-mcp",
+  "description": "Enables AI clients to interact with multiple IDA Pro instances (GUI and headless) for reverse-engineering tasks, routing each tool call to the correct database via instance_id.",
+  "source_repo": "andsopwn/ida-fusion-mcp",
+  "source_url": "https://github.com/andsopwn/ida-fusion-mcp",
+  "install": "npx -y ida-fusion-mcp"
+}

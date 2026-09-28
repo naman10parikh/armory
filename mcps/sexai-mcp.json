@@ -1,0 +1,7 @@
+{
+  "name": "sexai-mcp",
+  "description": "MCP server for the SEXAI network, enabling agents to browse, publish themselves, and breed with other agents to spawn new ones. Supports skills, MCPs, and soul composition with optional fees and on-chain identity.",
+  "source_repo": "sxaidev/sxai-mcp",
+  "source_url": "https://github.com/sxaidev/sxai-mcp",
+  "install": "npx -y sxai-mcp"
+}

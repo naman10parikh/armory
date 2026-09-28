@@ -1,0 +1,7 @@
+{
+  "name": "okta-mcp-server-2",
+  "description": "Enables Claude to manage Okta organizations, including users, groups, and applications, via natural language.",
+  "source_repo": "YiyangLi/okta-mcp-server",
+  "source_url": "https://github.com/YiyangLi/okta-mcp-server",
+  "install": "npx -y okta-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ssp-ghl-mcp-server",
+  "description": "Enables interaction with the Swipe Saver Pro GHL location for managing contacts, custom fields, tags, opportunities, and pipelines via the GoHighLevel API.",
+  "source_repo": "leosp-elbey/ssp-ghl-mcp",
+  "source_url": "https://github.com/leosp-elbey/ssp-ghl-mcp",
+  "install": "npx -y ssp-ghl-mcp"
+}

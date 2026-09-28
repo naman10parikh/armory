@@ -1,0 +1,7 @@
+{
+  "name": "ghost-admin-mcp",
+  "description": "An MCP server for the Ghost Admin API that enables creating, editing, and deleting posts, pages, tags, and images, plus retrieving site info.",
+  "source_repo": "kiarashedraki/ghost-mcp",
+  "source_url": "https://github.com/kiarashedraki/ghost-mcp",
+  "install": "npx -y ghost-mcp"
+}

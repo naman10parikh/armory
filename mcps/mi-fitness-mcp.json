@@ -1,0 +1,7 @@
+{
+  "name": "mi-fitness-mcp",
+  "description": "MCP server for Mi Fitness cloud data. Provides a local SQLite-backed server to sync and query daily activity, heart rate, and body measurements.",
+  "source_repo": "kubulashvili/mi-fitness-mcp",
+  "source_url": "https://github.com/kubulashvili/mi-fitness-mcp",
+  "install": "npx -y mi-fitness-mcp"
+}

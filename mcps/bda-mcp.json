@@ -1,0 +1,7 @@
+{
+  "name": "bda-mcp",
+  "description": "An MCP server providing Jyotish, Panchang, and Sanatan Dharma knowledge tools including panchang computation, festival calendars, muhurat windows, Jyotish concept explanations, and a source-grounded Sanatan encyclopedia with citations and provenance metadata.",
+  "source_repo": "BharatDharmaAcademy/bda-mcp",
+  "source_url": "https://github.com/BharatDharmaAcademy/bda-mcp",
+  "install": "npx -y bda-mcp"
+}

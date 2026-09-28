@@ -1,0 +1,7 @@
+{
+  "name": "civil3d-mcp",
+  "description": "MCP server that connects an LLM assistant to Autodesk Civil 3D via COM, enabling direct manipulation of surfaces, alignments, COGO points, layers, profiles, and more through natural language.",
+  "source_repo": "orcosto-lab/civil3d2021-mcp",
+  "source_url": "https://github.com/orcosto-lab/civil3d2021-mcp",
+  "install": "npx -y civil3d2021-mcp"
+}

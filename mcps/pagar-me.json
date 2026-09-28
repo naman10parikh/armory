@@ -1,0 +1,7 @@
+{
+  "name": "pagar-me",
+  "description": "MCP server for Stone's payment gateway, enabling AI agents to manage orders, charges, customers, subscriptions, and more via the Pagar.me API.",
+  "source_repo": "mcp-dir/pagarme-mcp",
+  "source_url": "https://github.com/mcp-dir/pagarme-mcp",
+  "install": "npx -y pagarme-mcp"
+}

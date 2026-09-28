@@ -1,0 +1,7 @@
+{
+  "name": "agent-eval",
+  "description": "MCP server exposing statistical regression testing for LLM agents as a \"run\" tool: p-value, effect size, and confidence interval on whether agent behavior actually changed.",
+  "source_repo": "RudrenduPaul/agent-eval",
+  "source_url": "https://github.com/RudrenduPaul/agent-eval",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/agent-eval\n# See source for mcpServers config block"
+}

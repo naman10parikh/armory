@@ -1,0 +1,7 @@
+{
+  "name": "simple-dynamsoft-mcp",
+  "description": "MCP server that helps AI assistants generate accurate code and guidance for Dynamsoft SDKs.",
+  "source_repo": "yushulx/simple-dynamsoft-mcp",
+  "source_url": "https://github.com/yushulx/simple-dynamsoft-mcp",
+  "install": "npx -y simple-dynamsoft-mcp"
+}

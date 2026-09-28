@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-trending",
+  "description": "一站式热门榜单聚合MCP服务器，让AI助手能够实时查询GitHub、Hacker News、Product Hunt等27+平台的热门内容，专为独立开发者和技术创业者设计。",
+  "source_repo": "Talljack/mcp_server_trending",
+  "source_url": "https://github.com/Talljack/mcp_server_trending",
+  "install": "# git clone --depth 1 https://github.com/Talljack/mcp_server_trending\n# See source for mcpServers config block"
+}

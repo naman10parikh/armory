@@ -1,0 +1,7 @@
+{
+  "name": "mcp-miro",
+  "description": "Connects to the MIRO Whiteboard Application, allowing board manipulation, sticky creation, and bulk operations.",
+  "source_repo": "mikeysrecipes/mcp-miro",
+  "source_url": "https://github.com/mikeysrecipes/mcp-miro",
+  "install": "# git clone --depth 1 https://github.com/mikeysrecipes/mcp-miro\n# See source for mcpServers config block"
+}

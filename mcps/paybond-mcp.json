@@ -1,0 +1,7 @@
+{
+  "name": "paybond-mcp",
+  "description": "Tenant-bound MCP server for agent spend authorization, policy guardrails, evidence, escrow settlement, and portable receipts. Works with Cursor and Claude Code via stdio; npm (@paybond/kit) and Python (paybond-kit).",
+  "source_repo": "nonameuserd/paybond-kit",
+  "source_url": "https://github.com/nonameuserd/paybond-kit",
+  "install": "# git clone --depth 1 https://github.com/nonameuserd/paybond-kit\n# See source for mcpServers config block"
+}

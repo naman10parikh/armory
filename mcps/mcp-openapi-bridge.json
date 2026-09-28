@@ -1,0 +1,7 @@
+{
+  "name": "mcp-openapi-bridge",
+  "description": "Bridges any OpenAPI 3.x REST API to Claude Code by automatically generating one tool per endpoint from your spec, with full argument validation and auth support.",
+  "source_repo": "murilojrpereira/mcp-openapi-bridge",
+  "source_url": "https://github.com/murilojrpereira/mcp-openapi-bridge",
+  "install": "# git clone --depth 1 https://github.com/murilojrpereira/mcp-openapi-bridge\n# See source for mcpServers config block"
+}

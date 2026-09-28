@@ -1,0 +1,7 @@
+{
+  "name": "mcp-demo-sqlite-weather",
+  "description": "Enables querying a local SQLite database and fetching live weather data through a single MCP server, allowing GPT-4o to perform cross-tool tasks like finding top customers and checking weather in their cities.",
+  "source_repo": "souviks22/mcp",
+  "source_url": "https://github.com/souviks22/mcp",
+  "install": "# git clone --depth 1 https://github.com/souviks22/mcp\n# See source for mcpServers config block"
+}

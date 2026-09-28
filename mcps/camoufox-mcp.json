@@ -1,0 +1,7 @@
+{
+  "name": "camoufox-mcp",
+  "description": "Enables browser automation with anti-detection features, including navigation, interaction, form filling, and session management.",
+  "source_repo": "rlgrpe/camoufox-mcp-python",
+  "source_url": "https://github.com/rlgrpe/camoufox-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/rlgrpe/camoufox-mcp-python\n# See source for mcpServers config block"
+}

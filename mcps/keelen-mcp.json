@@ -1,0 +1,7 @@
+{
+  "name": "keelen-mcp",
+  "description": "MCP server for managing an autonomous dev loop from chat—onboarding, connecting GitHub, and converting plain-English requests into tested, merged pull requests.",
+  "source_repo": "jamie7893/keelen-mcp",
+  "source_url": "https://github.com/jamie7893/keelen-mcp",
+  "install": "npx -y keelen-mcp"
+}

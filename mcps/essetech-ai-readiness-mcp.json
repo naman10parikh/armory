@@ -1,0 +1,7 @@
+{
+  "name": "essetech-ai-readiness-mcp",
+  "description": "Enables AI assistants to assess a small business's AI readiness (0–100 score), suggest tailored AI use cases, describe Essetech's services, and book a free consultation.",
+  "source_repo": "seppez89/essetech-ai-readiness-mcp",
+  "source_url": "https://github.com/seppez89/essetech-ai-readiness-mcp",
+  "install": "npx -y essetech-ai-readiness-mcp"
+}

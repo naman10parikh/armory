@@ -1,0 +1,7 @@
+{
+  "name": "magpie-mcp",
+  "description": "A secure web scraping MCP server for AI agents that fetches pages with token budgeting, robots.txt compliance, and injection warnings, providing parsed content like markdown, metadata, and structured data.",
+  "source_repo": "MBemera/magpie",
+  "source_url": "https://github.com/MBemera/magpie",
+  "install": "# git clone --depth 1 https://github.com/MBemera/magpie\n# See source for mcpServers config block"
+}

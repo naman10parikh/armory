@@ -1,0 +1,7 @@
+{
+  "name": "image-lab-mcp",
+  "description": "MCP server for searching and attributing images from Openverse and Wikimedia Commons, enabling insertion via insertUrl and attribution formatting.",
+  "source_repo": "0PValencia/image-lab-mcp",
+  "source_url": "https://github.com/0PValencia/image-lab-mcp",
+  "install": "npx -y image-lab-mcp"
+}

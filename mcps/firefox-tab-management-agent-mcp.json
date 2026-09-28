@@ -1,0 +1,7 @@
+{
+  "name": "firefox-tab-management-agent-mcp",
+  "description": "Enables AI agents to manage live Firefox tabs and native tab groups via MCP tools over stdio, with exact-match verification and safety constraints. It does not read page content or send browser data remotely.",
+  "source_repo": "Johnnyzlee/agent-bridge-for-tab-management-in-firefox",
+  "source_url": "https://github.com/Johnnyzlee/agent-bridge-for-tab-management-in-firefox",
+  "install": "# git clone --depth 1 https://github.com/Johnnyzlee/agent-bridge-for-tab-management-in-firefox\n# See source for mcpServers config block"
+}

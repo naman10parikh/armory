@@ -1,0 +1,7 @@
+{
+  "name": "mcp-brasil-api",
+  "description": "Enables LLMs to query Brazilian public data such as CEP, CNPJ, DDD, exchange rates, banks, and holidays via the Model Context Protocol.",
+  "source_repo": "lucianfialho/mcp-brasil-api",
+  "source_url": "https://github.com/lucianfialho/mcp-brasil-api",
+  "install": "# git clone --depth 1 https://github.com/lucianfialho/mcp-brasil-api\n# See source for mcpServers config block"
+}

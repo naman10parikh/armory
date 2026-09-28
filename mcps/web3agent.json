@@ -1,0 +1,7 @@
+{
+  "name": "web3agent",
+  "description": "Web3 MCP proxy server for AI agents: EVM execution, DeFi swaps, bridges, advanced orders, market data, wallet management, and confirmation-gated writes.",
+  "source_repo": "Apegurus/web3agent",
+  "source_url": "https://github.com/Apegurus/web3agent",
+  "install": "# git clone --depth 1 https://github.com/Apegurus/web3agent\n# See source for mcpServers config block"
+}

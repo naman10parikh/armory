@@ -1,0 +1,7 @@
+{
+  "name": "github-repo-assistant-mcp-server",
+  "description": "Enables creating GitHub repositories under a fixed owner and pushing multiple files in a single commit via the Git Data API, designed for deployment as a Vercel serverless function.",
+  "source_repo": "jtaylor98/claude-github-mcp",
+  "source_url": "https://github.com/jtaylor98/claude-github-mcp",
+  "install": "npx -y claude-github-mcp"
+}

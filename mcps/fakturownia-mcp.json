@@ -1,0 +1,7 @@
+{
+  "name": "fakturownia-mcp",
+  "description": "MCP server for managing Fakturownia (InvoiceOcean) invoices, clients, and products, with write-confirmation gates for safety.",
+  "source_repo": "KrzysztofMarmol/fakturownia-mcp",
+  "source_url": "https://github.com/KrzysztofMarmol/fakturownia-mcp",
+  "install": "npx -y fakturownia-mcp"
+}

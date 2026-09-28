@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-cli-mcp-server",
+  "description": "Enables AI assistants to perform over 80 Obsidian vault operations locally via the Obsidian CLI, with a single tool and no network dependencies.",
+  "source_repo": "cks850711/obsidian-cli-mcp-server",
+  "source_url": "https://github.com/cks850711/obsidian-cli-mcp-server",
+  "install": "npx -y obsidian-cli-mcp-server"
+}

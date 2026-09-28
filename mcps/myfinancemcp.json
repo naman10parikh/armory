@@ -1,0 +1,7 @@
+{
+  "name": "myfinancemcp",
+  "description": "MCP server for tracking Angel One portfolio with AI-powered daily briefings, a trading agent, and ML-based price predictions.",
+  "source_repo": "raghav18482/MyFinancesMCP",
+  "source_url": "https://github.com/raghav18482/MyFinancesMCP",
+  "install": "# git clone --depth 1 https://github.com/raghav18482/MyFinancesMCP\n# See source for mcpServers config block"
+}

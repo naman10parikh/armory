@@ -1,0 +1,7 @@
+{
+  "name": "ansible-aap",
+  "description": "Enables LLMs to discover and launch Ansible job templates on Ansible Automation Platform, monitor job status, and retrieve outputs.",
+  "source_repo": "mancubus77/mcp-server-aap",
+  "source_url": "https://github.com/mancubus77/mcp-server-aap",
+  "install": "# git clone --depth 1 https://github.com/mancubus77/mcp-server-aap\n# See source for mcpServers config block"
+}

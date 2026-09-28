@@ -1,0 +1,7 @@
+{
+  "name": "apple-ecosystem-mcp",
+  "description": "Enables Claude to interact with Apple apps on macOS including Mail, Calendar, Contacts, Reminders, Notes, and iCloud Drive for personal productivity tasks like triaging email, managing calendar, and cross-app context.",
+  "source_repo": "abhinavag-svg/apple-ecosystem-mcp",
+  "source_url": "https://github.com/abhinavag-svg/apple-ecosystem-mcp",
+  "install": "npx -y apple-ecosystem-mcp"
+}

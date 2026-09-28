@@ -1,0 +1,7 @@
+{
+  "name": "car-deals-search-mcp",
+  "description": "Enables AI assistants to search and aggregate used-vehicle listings across Cars.com, Autotrader, and KBB, with filters for price, mileage, dealer information, and CARFAX-style history conditions.",
+  "source_repo": "black-table/auto_search_mcp",
+  "source_url": "https://github.com/black-table/auto_search_mcp",
+  "install": "npx -y auto_search_mcp"
+}

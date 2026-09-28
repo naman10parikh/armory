@@ -1,0 +1,7 @@
+{
+  "name": "minisend-mcp",
+  "description": "MCP server for Minisend payment APIs, enabling stablecoin-to-local-currency payouts and on-ramps across Kenya, Nigeria, Ghana, and Uganda. Exposes tools for off-ramp, on-ramp, checkout, wallets, and API knowledge, with permissions-based tool visibility.",
+  "source_repo": "itschrisoketch/minisend-mcp",
+  "source_url": "https://github.com/itschrisoketch/minisend-mcp",
+  "install": "npx -y minisend-mcp"
+}

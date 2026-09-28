@@ -1,0 +1,7 @@
+{
+  "name": "ai-market-intelligence",
+  "description": "Enables comparing and recommending AI models based on scenario-specific criteria such as capability, context, relative cost, and self-hosting, with explanations of the scoring weights.",
+  "source_repo": "gabivech/ai-market-intelligence-mcp",
+  "source_url": "https://github.com/gabivech/ai-market-intelligence-mcp",
+  "install": "npx -y ai-market-intelligence-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "routeros-inspector-mcp",
+  "description": "A constrained, read-only MCP server for MikroTik RouterOS inventory inspection and policy-backed audits.",
+  "source_repo": "kevinb361/routeros-inspector-mcp",
+  "source_url": "https://github.com/kevinb361/routeros-inspector-mcp",
+  "install": "npx -y routeros-inspector-mcp"
+}

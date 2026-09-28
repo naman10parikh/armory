@@ -1,0 +1,7 @@
+{
+  "name": "test-case-generator-ai-mcp",
+  "description": "Enables generation of test cases, edge cases, and test matrices for software testing, integrated with MCP protocol and EU AI Act compliance.",
+  "source_repo": "CSOAI-ORG/test-case-generator-ai-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/test-case-generator-ai-mcp",
+  "install": "npx -y test-case-generator-ai-mcp"
+}

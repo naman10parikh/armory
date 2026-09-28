@@ -1,0 +1,7 @@
+{
+  "name": "weaviate-docs-mcp-server",
+  "description": "Enables semantic search of Weaviate documentation using vector search, providing relevant documents and code snippets.",
+  "source_repo": "databyjp/weaviate-docs-mcp",
+  "source_url": "https://github.com/databyjp/weaviate-docs-mcp",
+  "install": "npx -y weaviate-docs-mcp"
+}

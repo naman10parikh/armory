@@ -1,0 +1,7 @@
+{
+  "name": "comic-chat-mcp",
+  "description": "An MCP server that recreates Microsoft Comic Chat (1996) to generate comic strips from conversation summaries, using original character art and deterministic layout, with no LLM calls.",
+  "source_repo": "lean-software-production/comic-chat-mcp",
+  "source_url": "https://github.com/lean-software-production/comic-chat-mcp",
+  "install": "npx -y comic-chat-mcp"
+}

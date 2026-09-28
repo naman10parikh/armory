@@ -1,0 +1,7 @@
+{
+  "name": "shotplan",
+  "description": "An MCP server for turning landscape video into vertical reels with content-aware reframing, using saliency and text detection to keep important regions visible.",
+  "source_repo": "lrvaka/shotplan",
+  "source_url": "https://github.com/lrvaka/shotplan",
+  "install": "# git clone --depth 1 https://github.com/lrvaka/shotplan\n# See source for mcpServers config block"
+}

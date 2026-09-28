@@ -1,0 +1,7 @@
+{
+  "name": "graphmemory",
+  "description": "An MCP server that builds a semantic graph memory from a project directory, indexing documentation and code into graph structures and exposing 70+ MCP tools for search, knowledge management, task management, and more.",
+  "source_repo": "graph-memory/graphmemory",
+  "source_url": "https://github.com/graph-memory/graphmemory",
+  "install": "# git clone --depth 1 https://github.com/graph-memory/graphmemory\n# See source for mcpServers config block"
+}

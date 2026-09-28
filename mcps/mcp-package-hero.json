@@ -1,0 +1,7 @@
+{
+  "name": "mcp-package-hero",
+  "description": "A comprehensive MCP server for checking package versions and rating package quality across Python (PyPI), JavaScript/TypeScript (npm), Dart (pub.dev), and Rust (crates.io) ecosystems.",
+  "source_repo": "moinsen-dev/mcp-package-hero",
+  "source_url": "https://github.com/moinsen-dev/mcp-package-hero",
+  "install": "# git clone --depth 1 https://github.com/moinsen-dev/mcp-package-hero\n# See source for mcpServers config block"
+}

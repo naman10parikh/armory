@@ -1,0 +1,7 @@
+{
+  "name": "data-analysis-mcp-server",
+  "description": "A simple Model Context Protocol (MCP) server that allows LLMs to create and manage user entries in a JSON file system database.",
+  "source_repo": "sankalp51/mcp-server",
+  "source_url": "https://github.com/sankalp51/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/sankalp51/mcp-server\n# See source for mcpServers config block"
+}

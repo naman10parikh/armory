@@ -1,0 +1,7 @@
+{
+  "name": "json2toon-mcp-server",
+  "description": "Advanced Token-Optimized Object Notation MCP server that compresses JSON with up to 85% token reduction using AI-powered pattern detection, providing lossless compression and decompression through 12 MCP tools.",
+  "source_repo": "muhammedehab35/JSON2TOON-MCP",
+  "source_url": "https://github.com/muhammedehab35/JSON2TOON-MCP",
+  "install": "npx -y JSON2TOON-MCP"
+}

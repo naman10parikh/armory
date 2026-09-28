@@ -1,0 +1,7 @@
+{
+  "name": "telegram-mcp-notify",
+  "description": "Enables AI coding agents to send structured Telegram notifications for events like questions, plan_ready, final, attention_needed, and error.",
+  "source_repo": "hyper-tew/telegram-mcp-notify",
+  "source_url": "https://github.com/hyper-tew/telegram-mcp-notify",
+  "install": "# git clone --depth 1 https://github.com/hyper-tew/telegram-mcp-notify\n# See source for mcpServers config block"
+}

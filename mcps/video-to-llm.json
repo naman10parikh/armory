@@ -1,0 +1,7 @@
+{
+  "name": "video-to-llm",
+  "description": "Enables LLM agents to process local videos into timestamped, citable text documents and then query them through tools for listing videos, retrieving transcripts, and fetching specific segments, all fully offline.",
+  "source_repo": "navdeep-h-singh/video-to-llm",
+  "source_url": "https://github.com/navdeep-h-singh/video-to-llm",
+  "install": "# git clone --depth 1 https://github.com/navdeep-h-singh/video-to-llm\n# See source for mcpServers config block"
+}

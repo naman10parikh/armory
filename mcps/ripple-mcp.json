@@ -1,0 +1,7 @@
+{
+  "name": "ripple-mcp",
+  "description": "A field-level semantic change impact analysis MCP server for Claude Code, enabling natural language queries to find affected code when modifying fields, strings, or functions across multiple languages.",
+  "source_repo": "0xYubo/Ripple-Mcp",
+  "source_url": "https://github.com/0xYubo/Ripple-Mcp",
+  "install": "npx -y Ripple-Mcp"
+}

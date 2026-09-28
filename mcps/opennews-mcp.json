@@ -1,0 +1,7 @@
+{
+  "name": "opennews-mcp",
+  "description": "Crypto news aggregation MCP server with AI ratings, trading signals, and real-time updates. Enables searching, filtering, and subscribing to news from various sources.",
+  "source_repo": "beare/opennews-mcp",
+  "source_url": "https://github.com/beare/opennews-mcp",
+  "install": "npx -y opennews-mcp"
+}

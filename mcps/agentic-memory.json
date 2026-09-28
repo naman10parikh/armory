@@ -1,0 +1,7 @@
+{
+  "name": "agentic-memory",
+  "description": "MCP server for persistent, cross-session, local-first memory for AI agents, storing memories as Markdown files with SQLite indexing for hybrid search.",
+  "source_repo": "ArkaAiAdmin/Agentic-Memory",
+  "source_url": "https://github.com/ArkaAiAdmin/Agentic-Memory",
+  "install": "# git clone --depth 1 https://github.com/ArkaAiAdmin/Agentic-Memory\n# See source for mcpServers config block"
+}

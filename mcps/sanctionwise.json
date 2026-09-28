@@ -1,0 +1,7 @@
+{
+  "name": "sanctionwise",
+  "description": "Screens names against the official UK FCDO Sanctions List to identify possible matches with designation details, and retrieves full sanctions entries by unique ID.",
+  "source_repo": "qinisolabs/sanctionwise",
+  "source_url": "https://github.com/qinisolabs/sanctionwise",
+  "install": "# git clone --depth 1 https://github.com/qinisolabs/sanctionwise\n# See source for mcpServers config block"
+}

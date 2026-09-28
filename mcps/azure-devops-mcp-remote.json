@@ -1,0 +1,7 @@
+{
+  "name": "azure-devops-mcp-remote",
+  "description": "Enables AI assistants to interact with Azure DevOps projects through natural language, supporting work items, repositories, pipelines, wikis, and more, with remote HTTP/SSE transport and OBO authentication.",
+  "source_repo": "fsaito-github/azure-devops-mcp-remote",
+  "source_url": "https://github.com/fsaito-github/azure-devops-mcp-remote",
+  "install": "# git clone --depth 1 https://github.com/fsaito-github/azure-devops-mcp-remote\n# See source for mcpServers config block"
+}

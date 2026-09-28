@@ -1,0 +1,7 @@
+{
+  "name": "upworkbridge",
+  "description": "A Model Context Protocol (MCP) server that connects AI coding assistants and agentic workflows to the Upwork freelance marketplace. Enables AI-powered job discovery, proposal generation, and contract management through a structured tool interface.",
+  "source_repo": "andtmal/upworkbridge",
+  "source_url": "https://github.com/andtmal/upworkbridge",
+  "install": "# git clone --depth 1 https://github.com/andtmal/upworkbridge\n# See source for mcpServers config block"
+}

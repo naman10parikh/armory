@@ -1,0 +1,7 @@
+{
+  "name": "git-receipts",
+  "description": "An MCP server that captures the rationale behind code changes at the moment they are written, binding decisions to commits with full provenance, and serves that context later without guessing. It records 'why code exists' and tracks anchor health over time.",
+  "source_repo": "Tasktivity/git-receipts",
+  "source_url": "https://github.com/Tasktivity/git-receipts",
+  "install": "# git clone --depth 1 https://github.com/Tasktivity/git-receipts\n# See source for mcpServers config block"
+}

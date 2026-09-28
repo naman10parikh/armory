@@ -1,0 +1,7 @@
+{
+  "name": "compatair-mcp",
+  "description": "Provides a streamable HTTP endpoint for compatibility analysis, with published contracts and schemas for integration.",
+  "source_repo": "bluetouff/compatair-mcp",
+  "source_url": "https://github.com/bluetouff/compatair-mcp",
+  "install": "npx -y compatair-mcp"
+}

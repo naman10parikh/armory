@@ -1,0 +1,7 @@
+{
+  "name": "campaignhub-studio-mcp-server",
+  "description": "Enables managing multi-platform social campaigns from a single blog post, including creating, listing, scheduling, publishing, and retrying campaigns with idempotency and webhook-confirmed delivery.",
+  "source_repo": "Sudeozubek/flyrank-capstone-social-studio",
+  "source_url": "https://github.com/Sudeozubek/flyrank-capstone-social-studio",
+  "install": "# git clone --depth 1 https://github.com/Sudeozubek/flyrank-capstone-social-studio\n# See source for mcpServers config block"
+}

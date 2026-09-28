@@ -1,0 +1,7 @@
+{
+  "name": "tartarus-mcp",
+  "description": "A local-first MCP memory server providing persistent, searchable memory for AI agents, powered by SQLite.",
+  "source_repo": "saluca-labs/tartarus-mcp",
+  "source_url": "https://github.com/saluca-labs/tartarus-mcp",
+  "install": "npx -y tartarus-mcp"
+}

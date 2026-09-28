@@ -1,0 +1,7 @@
+{
+  "name": "cutible-mcp-server",
+  "description": "Enables AI agents to perform headless video editing through 35 tools for project creation, clip manipulation, rendering, quality control, and semantic search, all via JSON-RPC 2.0 over stdio.",
+  "source_repo": "plokdalberb-byte/cutible",
+  "source_url": "https://github.com/plokdalberb-byte/cutible",
+  "install": "# git clone --depth 1 https://github.com/plokdalberb-byte/cutible\n# See source for mcpServers config block"
+}

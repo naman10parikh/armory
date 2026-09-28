@@ -1,0 +1,7 @@
+{
+  "name": "techtenstein-bg-mcp",
+  "description": "MCP server that enables background removal from images (product photos, portraits, cars, or general subjects) returning a transparent PNG.",
+  "source_repo": "sathvic-kollu/techtenstein-bg-mcp",
+  "source_url": "https://github.com/sathvic-kollu/techtenstein-bg-mcp",
+  "install": "npx -y techtenstein-bg-mcp"
+}

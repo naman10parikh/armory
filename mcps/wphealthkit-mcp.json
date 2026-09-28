@@ -1,0 +1,7 @@
+{
+  "name": "wphealthkit-mcp",
+  "description": "Security audits for WordPress plugins and themes — 62 verification layers (58 deterministic scanners + 4 AI engines), prioritised fix plans and SBOMs.",
+  "source_repo": "BuiltByGo/wphealthkit-mcp",
+  "source_url": "https://github.com/BuiltByGo/wphealthkit-mcp",
+  "install": "npx -y wphealthkit-mcp"
+}

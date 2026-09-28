@@ -1,0 +1,7 @@
+{
+  "name": "hpe-networking-assistant",
+  "description": "Query your Juniper Mist network in natural language directly from Claude Desktop, providing read-only access to network inventory, clients, alarms, and more via the Mist API.",
+  "source_repo": "hpe-networking-lab/hpe-networking-assistant",
+  "source_url": "https://github.com/hpe-networking-lab/hpe-networking-assistant",
+  "install": "# git clone --depth 1 https://github.com/hpe-networking-lab/hpe-networking-assistant\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-oauth",
+  "description": "FastMCP server with Bearer token authentication mounted on FastAPI, including OAuth 2.1 endpoints for dynamic client registration and metadata discovery.",
+  "source_repo": "shahrear33/mcp-oauth",
+  "source_url": "https://github.com/shahrear33/mcp-oauth",
+  "install": "# git clone --depth 1 https://github.com/shahrear33/mcp-oauth\n# See source for mcpServers config block"
+}

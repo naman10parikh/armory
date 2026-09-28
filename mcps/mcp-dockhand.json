@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dockhand",
+  "description": "MCP server exposing the Dockhand API as MCP tools. Enables AI assistants to manage Docker infrastructure including containers, stacks, images, networks, and volumes across multiple hosts.",
+  "source_repo": "d7eeem/mcp-dockhand",
+  "source_url": "https://github.com/d7eeem/mcp-dockhand",
+  "install": "# git clone --depth 1 https://github.com/d7eeem/mcp-dockhand\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "astockevent",
+  "description": "Structured A-share announcement event feed. 16 MCP tools, 13 event types.",
+  "source_repo": "NengjiangLunpi/astockevent-mcp",
+  "source_url": "https://github.com/NengjiangLunpi/astockevent-mcp",
+  "install": "npx -y astockevent-mcp"
+}

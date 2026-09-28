@@ -1,0 +1,7 @@
+{
+  "name": "agent-eval-gate",
+  "description": "Enables MCP clients to call an OFAC funds transfer authorization tool that returns a structured verdict, permitting transfers only if a version-pinned SDN screen returned CLEAR and COMPLETED before execution.",
+  "source_repo": "linus10x/agent-eval-gate",
+  "source_url": "https://github.com/linus10x/agent-eval-gate",
+  "install": "# git clone --depth 1 https://github.com/linus10x/agent-eval-gate\n# See source for mcpServers config block"
+}

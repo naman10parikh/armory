@@ -1,0 +1,7 @@
+{
+  "name": "multigmailmcp",
+  "description": "Connects AI assistants to multiple Gmail accounts simultaneously, enabling search, read, draft, send, and reply operations with per-account permission controls.",
+  "source_repo": "santoshachari/multiGoogleMCP",
+  "source_url": "https://github.com/santoshachari/multiGoogleMCP",
+  "install": "# git clone --depth 1 https://github.com/santoshachari/multiGoogleMCP\n# See source for mcpServers config block"
+}

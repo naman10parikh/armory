@@ -1,0 +1,7 @@
+{
+  "name": "atlasrepo-mcp",
+  "description": "Enables read-only access to the AtlasRepo decision catalog, allowing users to search for evidence-backed projects, tools, and repository decision records without loading the full catalog.",
+  "source_repo": "Arnon-hs/atlasrepo-mcp",
+  "source_url": "https://github.com/Arnon-hs/atlasrepo-mcp",
+  "install": "npx -y atlasrepo-mcp"
+}

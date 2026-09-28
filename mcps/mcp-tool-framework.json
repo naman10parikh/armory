@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tool-framework",
+  "description": "An MCP server framework enabling standardized tool registration, discovery, and invocation over JSON-RPC 2.0, with support for InProcess, SSE, and WebSocket transports, plus built-in tools such as calculator, text processor, and JSON formatter.",
+  "source_repo": "tanghui2/mcp-tool-framework",
+  "source_url": "https://github.com/tanghui2/mcp-tool-framework",
+  "install": "# git clone --depth 1 https://github.com/tanghui2/mcp-tool-framework\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cml-mcp-server",
+  "description": "MCP server for Cisco Modeling Labs (CML) that enables building, managing, and running network labs through MCP tools, wrapping the CML Python SDK for lab/topology CRUD, node/link management, and configuration.",
+  "source_repo": "jonathanLynn/ciscocml-mcpserver",
+  "source_url": "https://github.com/jonathanLynn/ciscocml-mcpserver",
+  "install": "# git clone --depth 1 https://github.com/jonathanLynn/ciscocml-mcpserver\n# See source for mcpServers config block"
+}

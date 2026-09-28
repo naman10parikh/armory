@@ -1,0 +1,7 @@
+{
+  "name": "academic-archive-gateway",
+  "description": "MCP server for AI assistants to search and download ebooks from Z-Library and Anna's Archive, configured locally with automatic setup and download path.",
+  "source_repo": "wooooci/academic-archive-gateway",
+  "source_url": "https://github.com/wooooci/academic-archive-gateway",
+  "install": "# git clone --depth 1 https://github.com/wooooci/academic-archive-gateway\n# See source for mcpServers config block"
+}

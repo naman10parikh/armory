@@ -1,0 +1,7 @@
+{
+  "name": "blackforge-mcp-server",
+  "description": "Provides AI agents with real-time and historical crypto market data from nine exchanges, including order book metrics, volumes, spreads, and market microstructure via the BlackForge API.",
+  "source_repo": "blackforge-so/mcp",
+  "source_url": "https://github.com/blackforge-so/mcp",
+  "install": "# git clone --depth 1 https://github.com/blackforge-so/mcp\n# See source for mcpServers config block"
+}

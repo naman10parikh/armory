@@ -1,0 +1,7 @@
+{
+  "name": "pickuppatrol-mcp",
+  "description": "An MCP server for PickUp Patrol that lets you read and change children's school dismissal plans, including weekly defaults, one-off date changes, and school dismissal options.",
+  "source_repo": "chrischall/pickuppatrol-mcp",
+  "source_url": "https://github.com/chrischall/pickuppatrol-mcp",
+  "install": "npx -y pickuppatrol-mcp"
+}

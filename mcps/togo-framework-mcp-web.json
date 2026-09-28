@@ -1,0 +1,7 @@
+{
+  "name": "togo-framework-mcp-web",
+  "description": "The public MCP server for togo — docs, the plugin marketplace, and plugin submission, for any agent.",
+  "source_repo": "togo-framework/mcp-web",
+  "source_url": "https://github.com/togo-framework/mcp-web",
+  "install": "# git clone --depth 1 https://github.com/togo-framework/mcp-web\n# See source for mcpServers config block"
+}

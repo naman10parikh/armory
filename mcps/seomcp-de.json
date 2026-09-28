@@ -1,0 +1,7 @@
+{
+  "name": "seomcp-de",
+  "description": "Serves as a reserved placeholder for a future SEO-MCP service, currently offering no public endpoint or functionality. It is intended to provide endpoint discovery, authorization, security contact, and status once launched.",
+  "source_repo": "lia-xim/seomcp.de",
+  "source_url": "https://github.com/lia-xim/seomcp.de",
+  "install": "# git clone --depth 1 https://github.com/lia-xim/seomcp.de\n# See source for mcpServers config block"
+}

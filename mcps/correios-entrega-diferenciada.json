@@ -1,0 +1,7 @@
+{
+  "name": "correios-entrega-diferenciada",
+  "description": "Enables consulting Correios differentiated delivery restrictions from an official source, providing a read-only tool for checking delivery constraints via natural language in any MCP-compatible client.",
+  "source_repo": "mcp-dir/correios_restricoes_entrega-mcp",
+  "source_url": "https://github.com/mcp-dir/correios_restricoes_entrega-mcp",
+  "install": "npx -y correios_restricoes_entrega-mcp"
+}

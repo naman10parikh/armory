@@ -1,0 +1,7 @@
+{
+  "name": "icml-paper-search-mcp",
+  "description": "MCP server for searching ICML 2026 papers with hybrid retrieval (dense + BM25), session management to avoid duplicates, and persistent state.",
+  "source_repo": "keta1930/icml2026-mcp",
+  "source_url": "https://github.com/keta1930/icml2026-mcp",
+  "install": "npx -y icml2026-mcp"
+}

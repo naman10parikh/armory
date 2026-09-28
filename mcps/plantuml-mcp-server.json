@@ -1,0 +1,7 @@
+{
+  "name": "plantuml-mcp-server",
+  "description": "Enables generating PlantUML diagrams directly from Claude Desktop, with tools to render, save, and obtain URLs or ASCII art.",
+  "source_repo": "Ka1laK/Prompt2Diagram-MCP",
+  "source_url": "https://github.com/Ka1laK/Prompt2Diagram-MCP",
+  "install": "npx -y Prompt2Diagram-MCP"
+}

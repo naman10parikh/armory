@@ -1,0 +1,7 @@
+{
+  "name": "apikey-mcp-server",
+  "description": "A fully-featured MCP server with API-key authentication, demonstrating realistic e-commerce tools, resources, and prompts.",
+  "source_repo": "Shylendra/apikey-mcp-server",
+  "source_url": "https://github.com/Shylendra/apikey-mcp-server",
+  "install": "npx -y apikey-mcp-server"
+}

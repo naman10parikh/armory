@@ -1,0 +1,7 @@
+{
+  "name": "kommo-integration-mcp",
+  "description": "MCP server that lets AI validate and create sales funnels (pipelines, stages, custom fields) in Kommo CRM, supporting multiple client accounts with explicit confirmation before writing.",
+  "source_repo": "vitorssemilio-afk/kommo-integration-mcp",
+  "source_url": "https://github.com/vitorssemilio-afk/kommo-integration-mcp",
+  "install": "npx -y kommo-integration-mcp"
+}

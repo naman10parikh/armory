@@ -1,0 +1,7 @@
+{
+  "name": "primereact-mcp",
+  "description": "MCP server that gives AI assistants full access to PrimeReact v10 component documentation — props, events, examples, and search.",
+  "source_repo": "wisdomrock/primereact-mcp",
+  "source_url": "https://github.com/wisdomrock/primereact-mcp",
+  "install": "npx -y primereact-mcp"
+}

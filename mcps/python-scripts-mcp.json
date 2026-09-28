@@ -1,0 +1,7 @@
+{
+  "name": "python-scripts-mcp",
+  "description": "MCP server that exposes local Python scripts as tools for AI clients (e.g. Claude Desktop), enabling directory tree generation, Excel-to-text conversion, Python code extraction, and text file merging.",
+  "source_repo": "Liangbiaoyong/Python_Scripts_MCP",
+  "source_url": "https://github.com/Liangbiaoyong/Python_Scripts_MCP",
+  "install": "npx -y Python_Scripts_MCP"
+}

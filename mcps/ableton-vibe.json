@@ -1,6 +1,6 @@
 {
   "name": "ableton-vibe",
-  "description": "Ableton Vibe MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "androidStern/ableton-vibe",
   "source_url": "https://mcp.so/server/ableton-vibe/androidStern",
   "install": "# git clone --depth 1 https://mcp.so/server/ableton-vibe/androidStern\n# See source for mcpServers config block"

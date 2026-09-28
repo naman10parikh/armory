@@ -1,0 +1,7 @@
+{
+  "name": "expo-assets-mcp",
+  "description": "Generates and transforms Expo assets (icons, splash, adaptive icons) from source images. Also includes image transformation and SVG conversion tools.",
+  "source_repo": "elber-code/expo-assets-mcp",
+  "source_url": "https://github.com/elber-code/expo-assets-mcp",
+  "install": "npx -y expo-assets-mcp"
+}

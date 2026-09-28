@@ -1,0 +1,7 @@
+{
+  "name": "bookmark-mcp",
+  "description": "A bookmark management MCP server that enables saving, searching, and managing bookmarks with tags and read/unread status, providing tools, resources, and prompts for integration.",
+  "source_repo": "privatenesk/playground_mcp",
+  "source_url": "https://github.com/privatenesk/playground_mcp",
+  "install": "npx -y playground_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "squarespace-mcp-server",
+  "description": "A comprehensive MCP server that enables AI assistants to interact with Squarespace sites, providing 67 tools for website management, e-commerce, content creation, and analytics.",
+  "source_repo": "BJSwing/squarespace-mcp-2026-complete",
+  "source_url": "https://github.com/BJSwing/squarespace-mcp-2026-complete",
+  "install": "# git clone --depth 1 https://github.com/BJSwing/squarespace-mcp-2026-complete\n# See source for mcpServers config block"
+}

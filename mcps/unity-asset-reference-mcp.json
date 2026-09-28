@@ -1,0 +1,7 @@
+{
+  "name": "unity-asset-reference-mcp",
+  "description": "Indexes Unity project assets into a SQLite reference graph and provides an MCP server for querying asset dependencies, references, unused assets, and broken references.",
+  "source_repo": "JVinceW/uasset-reference-memory-mcp",
+  "source_url": "https://github.com/JVinceW/uasset-reference-memory-mcp",
+  "install": "npx -y uasset-reference-memory-mcp"
+}

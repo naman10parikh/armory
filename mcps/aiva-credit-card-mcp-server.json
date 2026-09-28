@@ -1,0 +1,7 @@
+{
+  "name": "aiva-credit-card-mcp-server",
+  "description": "A decoupled, stateful MCP server and HTTP REST Gateway styled as a Banking Credit Card IVR Integration, bridging core banking mainframes with conversational voice AI frameworks.",
+  "source_repo": "ankitbhatnagartech/aiva-creditcard-mcp",
+  "source_url": "https://github.com/ankitbhatnagartech/aiva-creditcard-mcp",
+  "install": "npx -y aiva-creditcard-mcp"
+}

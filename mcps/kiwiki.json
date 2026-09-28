@@ -1,0 +1,7 @@
+{
+  "name": "kiwiki",
+  "description": "A self-hosted Markdown knowledge base and Agent Harness with an MCP server that enables AI agents to read and write notes, providing persistent memory and a shared workspace for multi-agent collaboration.",
+  "source_repo": "natorus87/kiwiki",
+  "source_url": "https://github.com/natorus87/kiwiki",
+  "install": "# git clone --depth 1 https://github.com/natorus87/kiwiki\n# See source for mcpServers config block"
+}

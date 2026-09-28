@@ -1,0 +1,7 @@
+{
+  "name": "oriel",
+  "description": "Enables AI assistants to manage Docker containers, images, volumes, networks, and Compose projects through natural language, with secret masking and destructive action grants.",
+  "source_repo": "ParadoxInfinite/oriel",
+  "source_url": "https://github.com/ParadoxInfinite/oriel",
+  "install": "# git clone --depth 1 https://github.com/ParadoxInfinite/oriel\n# See source for mcpServers config block"
+}

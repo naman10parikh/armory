@@ -1,0 +1,7 @@
+{
+  "name": "pyaterochka-mcp",
+  "description": "An unofficial MCP server for interacting with Pyaterochka (5ka.ru) grocery store, enabling product search, cart management, and order delivery.",
+  "source_repo": "shishliannikov/pyaterochka-mcp",
+  "source_url": "https://github.com/shishliannikov/pyaterochka-mcp",
+  "install": "npx -y pyaterochka-mcp"
+}

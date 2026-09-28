@@ -1,0 +1,7 @@
+{
+  "name": "vrr-mcp",
+  "description": "Provides VRR public transit data as MCP tools for Claude, enabling departure board lookups, trip planning with optional via stops, and disruption overviews.",
+  "source_repo": "Titez90/vrr-mcp",
+  "source_url": "https://github.com/Titez90/vrr-mcp",
+  "install": "npx -y vrr-mcp"
+}

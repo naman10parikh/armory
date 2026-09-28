@@ -1,0 +1,7 @@
+{
+  "name": "snapkitty-clojure-lisp-bridge",
+  "description": "An archived, unsafe MCP server with critical security vulnerabilities, classified as a pump and dump operation. Do not use in production.",
+  "source_repo": "SNAPKITTYWEST/snapkitty-clojure-lisp-bridge",
+  "source_url": "https://github.com/SNAPKITTYWEST/snapkitty-clojure-lisp-bridge",
+  "install": "# git clone --depth 1 https://github.com/SNAPKITTYWEST/snapkitty-clojure-lisp-bridge\n# See source for mcpServers config block"
+}

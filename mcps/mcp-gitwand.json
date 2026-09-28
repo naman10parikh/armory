@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gitwand",
+  "description": "an MCP server that auto-resolves Git merge conflicts so agents only touch the complex hunks — deterministic pattern engine with confidence scores and a full decision trace, plus merge/rebase preview and hunk-level resolution tools",
+  "source_repo": "devlint/GitWand",
+  "source_url": "https://github.com/devlint/GitWand",
+  "install": "# git clone --depth 1 https://github.com/devlint/GitWand\n# See source for mcpServers config block"
+}

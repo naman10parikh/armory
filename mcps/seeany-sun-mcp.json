@@ -1,0 +1,7 @@
+{
+  "name": "seeany-sun-mcp",
+  "description": "MCP server for SeeAny Sun enabling product image generation, smart creation, task polling, and download via natural language, with demo mode for offline simulation.",
+  "source_repo": "juin20260102-oss/seeany-sun-mcp",
+  "source_url": "https://github.com/juin20260102-oss/seeany-sun-mcp",
+  "install": "npx -y seeany-sun-mcp"
+}

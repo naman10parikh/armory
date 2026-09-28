@@ -1,0 +1,7 @@
+{
+  "name": "nexlink-telecom-mcp-server-2",
+  "description": "MCP server that enables local LLMs to safely interact with Nexlink Telecom's NOC database, providing tools for network status, diagnostics, bandwidth upgrades, and incident analysis with role-based access and protocol features.",
+  "source_repo": "mohesham100/Nexlink-Telecom-Final-",
+  "source_url": "https://github.com/mohesham100/Nexlink-Telecom-Final-",
+  "install": "# git clone --depth 1 https://github.com/mohesham100/Nexlink-Telecom-Final-\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chit-chats-mcp-server",
+  "description": "An MCP server for the Chit Chats shipping API that enables shipment management, tracking, rate comparison, and batch operations.",
+  "source_repo": "hishamalhadi/chitchats-mcp",
+  "source_url": "https://github.com/hishamalhadi/chitchats-mcp",
+  "install": "npx -y chitchats-mcp"
+}

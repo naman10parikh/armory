@@ -1,0 +1,7 @@
+{
+  "name": "ophis",
+  "description": "Agent tools for the Ophis intent-based DEX: parse, quote, build, relay orders, look up fee tiers.",
+  "source_repo": "ophis-fi/ophis",
+  "source_url": "https://github.com/ophis-fi/ophis",
+  "install": "# git clone --depth 1 https://github.com/ophis-fi/ophis\n# See source for mcpServers config block"
+}

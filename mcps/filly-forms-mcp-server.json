@@ -1,0 +1,7 @@
+{
+  "name": "filly-forms-mcp-server",
+  "description": "Exposes the Filly Forms REST API as MCP tools for AI agents, enabling form type listing, record CRUD, data preview, and document upload with AI extraction.",
+  "source_repo": "eneopt/filly-forms-mcp",
+  "source_url": "https://github.com/eneopt/filly-forms-mcp",
+  "install": "npx -y filly-forms-mcp"
+}

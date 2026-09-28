@@ -1,0 +1,7 @@
+{
+  "name": "quantizelab-mcp-server",
+  "description": "Enables MCP-capable assistants to quantize Hugging Face models into GGUF format and publish the results to your Hugging Face profile, with tools for credits, pricing, model browsing, and job status.",
+  "source_repo": "thecodehaider/quantize-gguf-mcp",
+  "source_url": "https://github.com/thecodehaider/quantize-gguf-mcp",
+  "install": "npx -y quantize-gguf-mcp"
+}

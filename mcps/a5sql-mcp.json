@@ -1,0 +1,7 @@
+{
+  "name": "a5sql-mcp",
+  "description": "Reads A5:SQL Mk-2 ER diagrams and SQL files locally, making them accessible to AI tools via the MCP protocol without executing SQL or writing to databases.",
+  "source_repo": "takuyaw-w/a5sql-mcp",
+  "source_url": "https://github.com/takuyaw-w/a5sql-mcp",
+  "install": "npx -y a5sql-mcp"
+}

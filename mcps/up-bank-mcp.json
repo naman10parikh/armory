@@ -1,0 +1,7 @@
+{
+  "name": "up-bank-mcp",
+  "description": "Enables MCP clients to interact with Up Bank accounts and transactions, including reading balances, summarizing spending, and categorizing or tagging transactions.",
+  "source_repo": "zaccomode/up-bank-mcp",
+  "source_url": "https://github.com/zaccomode/up-bank-mcp",
+  "install": "npx -y up-bank-mcp"
+}

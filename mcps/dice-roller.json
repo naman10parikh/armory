@@ -1,0 +1,7 @@
+{
+  "name": "dice-roller",
+  "description": "Provides dice rolling tools for tabletop RPGs, including standard dice, custom notation, D&D stat generation, and initiative ordering.",
+  "source_repo": "capsjs/MCP_Server",
+  "source_url": "https://github.com/capsjs/MCP_Server",
+  "install": "# git clone --depth 1 https://github.com/capsjs/MCP_Server\n# See source for mcpServers config block"
+}

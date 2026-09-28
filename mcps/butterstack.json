@@ -1,0 +1,7 @@
+{
+  "name": "butterstack",
+  "description": "Grants AI assistants read/write access to your ButterStack game dev pipeline, including tasks, builds, asset approvals, and project status through MCP.",
+  "source_repo": "ButterStack/butterstack-mcp",
+  "source_url": "https://github.com/ButterStack/butterstack-mcp",
+  "install": "npx -y butterstack-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adventedhud",
+  "description": "Turns an LLM agent into a personal planner by providing atomic context (roles, goals, decision matrix) and routing classified items to Obsidian, with optional projection to Google Calendar and Tasks.",
+  "source_repo": "av151318/AdventedHUD",
+  "source_url": "https://github.com/av151318/AdventedHUD",
+  "install": "# git clone --depth 1 https://github.com/av151318/AdventedHUD\n# See source for mcpServers config block"
+}

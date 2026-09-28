@@ -1,0 +1,7 @@
+{
+  "name": "adhd-mcp",
+  "description": "ADHD-friendly Cursor agent kit providing MCP tools for context estimation, status footers, readiness checks, and Q&A session management.",
+  "source_repo": "JerryFish123/adhd-mcp",
+  "source_url": "https://github.com/JerryFish123/adhd-mcp",
+  "install": "npx -y adhd-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jupyter-book-writer",
+  "description": "Automates Jupyter Book notebook creation by fixing common rendering issues (bold, math, markdown formatting) and provides tools for adding cells, validating notebooks, updating TOC, and deploying.",
+  "source_repo": "diligejy/jupyter-book-writer-mcp",
+  "source_url": "https://github.com/diligejy/jupyter-book-writer-mcp",
+  "install": "npx -y jupyter-book-writer-mcp"
+}

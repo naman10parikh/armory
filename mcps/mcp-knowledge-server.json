@@ -1,0 +1,7 @@
+{
+  "name": "mcp-knowledge-server",
+  "description": "An MCP server that enforces access control on internal knowledge, ensuring agents only retrieve and cite documents the caller is permitted to see, and refuses answers when permissions are insufficient.",
+  "source_repo": "tahasiddiquii/mcp-knowledge-server",
+  "source_url": "https://github.com/tahasiddiquii/mcp-knowledge-server",
+  "install": "# git clone --depth 1 https://github.com/tahasiddiquii/mcp-knowledge-server\n# See source for mcpServers config block"
+}

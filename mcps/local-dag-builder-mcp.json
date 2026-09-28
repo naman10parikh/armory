@@ -1,0 +1,7 @@
+{
+  "name": "local-dag-builder-mcp",
+  "description": "A private-by-default, local-first DAG editor that lets you build causal diagrams visually, validate cycles, and save/export as JSON, SVG, or PNG through MCP tools.",
+  "source_repo": "resace3/local-dag-builder-mcp",
+  "source_url": "https://github.com/resace3/local-dag-builder-mcp",
+  "install": "npx -y local-dag-builder-mcp"
+}

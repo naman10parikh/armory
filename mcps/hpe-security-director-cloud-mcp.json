@@ -1,0 +1,7 @@
+{
+  "name": "hpe-security-director-cloud-mcp",
+  "description": "An MCP server for HPE Juniper Security Director Cloud that exposes 368 tools to manage firewall policies, NAT policies, security resources, and more via the full OpenAPI surface. Enables LLMs to directly interact with and configure a live Security Director Cloud environment.",
+  "source_repo": "ddivins/hpe-security-director-cloud-mcp",
+  "source_url": "https://github.com/ddivins/hpe-security-director-cloud-mcp",
+  "install": "npx -y hpe-security-director-cloud-mcp"
+}

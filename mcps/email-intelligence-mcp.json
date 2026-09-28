@@ -1,0 +1,7 @@
+{
+  "name": "email-intelligence-mcp",
+  "description": "An MCP server that provides email verification, bulk list cleaning, and signup risk assessment tools. It exposes three typed tools for agents: verify_email, clean_email_list, and assess_signup_risk, with real DNS MX checks and disposable domain detection.",
+  "source_repo": "naresh-mahiya/email-intelligence-mcp",
+  "source_url": "https://github.com/naresh-mahiya/email-intelligence-mcp",
+  "install": "npx -y email-intelligence-mcp"
+}

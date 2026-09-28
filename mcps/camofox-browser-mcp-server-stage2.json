@@ -1,0 +1,7 @@
+{
+  "name": "camofox-browser-mcp-server-stage2",
+  "description": "Provides persistent browser tabs with tools to read, click, type, and interact with web pages, enabling local LLM agents to perform multi-step web tasks.",
+  "source_repo": "jfjensen/local-LLM-agent-mcp-interaction",
+  "source_url": "https://github.com/jfjensen/local-LLM-agent-mcp-interaction",
+  "install": "# git clone --depth 1 https://github.com/jfjensen/local-LLM-agent-mcp-interaction\n# See source for mcpServers config block"
+}

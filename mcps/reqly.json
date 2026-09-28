@@ -1,0 +1,7 @@
+{
+  "name": "reqly",
+  "description": "API client with an MCP server. Your agent builds collections from your codebase, runs requests, writes e2e flows, and exports them to GitHub Actions CI automatically. Category: Developer Tools",
+  "source_repo": "RutvikPansare/Reqly",
+  "source_url": "https://github.com/RutvikPansare/Reqly",
+  "install": "# git clone --depth 1 https://github.com/RutvikPansare/Reqly\n# See source for mcpServers config block"
+}

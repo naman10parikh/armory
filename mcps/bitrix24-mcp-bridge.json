@@ -1,0 +1,7 @@
+{
+  "name": "bitrix24-mcp-bridge",
+  "description": "Локальный MCP-сервер, дающий ИИ-агенту read-only доступ к задачам, проектам и чатам Bitrix24 в объёме прав пользователя — через браузерное расширение, переиспользующее живую сессию. Без прав администратора и без официального REST-вебхука.",
+  "source_repo": "DarWiM/bitrix24-mcp-bridge",
+  "source_url": "https://github.com/DarWiM/bitrix24-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/DarWiM/bitrix24-mcp-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "taskfleet-mcp",
+  "description": "Exposes TaskFleet's pay-per-call AI task APIs as MCP tools, including web search, scraping, extraction, translation, code review, summarization, and wallet intelligence. Payments are handled via x402 (USDC on Base) with no accounts or API keys.",
+  "source_repo": "BFAI-1/taskfleet-mcp",
+  "source_url": "https://github.com/BFAI-1/taskfleet-mcp",
+  "install": "npx -y taskfleet-mcp"
+}

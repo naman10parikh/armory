@@ -1,0 +1,7 @@
+{
+  "name": "canvaslms-api",
+  "description": "A local MCP server that exposes Canvas LMS courses, assignments, grading, discussions, modules, pages, files, messaging, and peer reviews to an AI assistant through about 100 Markdown-returning tools, with preview-then-confirm behavior for any write operations.",
+  "source_repo": "harryx2011-boop/CanvasLMS-API",
+  "source_url": "https://github.com/harryx2011-boop/CanvasLMS-API",
+  "install": "# git clone --depth 1 https://github.com/harryx2011-boop/CanvasLMS-API\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "est-call-agent",
+  "description": "FastMCP cloud server enabling AI assistants to manage outbound call campaigns, schedule calls, list agents, and access call data via HTTP.",
+  "source_repo": "Vossy/python-mcp-est",
+  "source_url": "https://github.com/Vossy/python-mcp-est",
+  "install": "# git clone --depth 1 https://github.com/Vossy/python-mcp-est\n# See source for mcpServers config block"
+}

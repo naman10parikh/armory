@@ -1,0 +1,7 @@
+{
+  "name": "ibama-certid-o-de-embargos-nada-consta",
+  "description": "MCP server for consulting IBAMA's official embargo certificate (Certidão de Embargos/Nada Consta), providing read-only queries through a single tool.",
+  "source_repo": "mcp-dir/ibama_certidao_embargos-mcp",
+  "source_url": "https://github.com/mcp-dir/ibama_certidao_embargos-mcp",
+  "install": "npx -y ibama_certidao_embargos-mcp"
+}

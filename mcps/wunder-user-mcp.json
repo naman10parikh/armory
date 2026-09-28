@@ -1,0 +1,7 @@
+{
+  "name": "wunder-user-mcp",
+  "description": "An MCP server that exposes the Wunder Mobility v2 end-user API as tools, enabling clients to browse vehicles, manage rentals, and create reservations on behalf of a signed-in user.",
+  "source_repo": "slettmayer/wunder-user-mcp",
+  "source_url": "https://github.com/slettmayer/wunder-user-mcp",
+  "install": "npx -y wunder-user-mcp"
+}

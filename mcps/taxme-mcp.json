@@ -1,0 +1,7 @@
+{
+  "name": "taxme-mcp",
+  "description": "MCP server for the Canton of Bern tax portal TaxMe/BE-Login that reads account statements and tax returns via Playwright browser automation.",
+  "source_repo": "sapn95/taxme-mcp",
+  "source_url": "https://github.com/sapn95/taxme-mcp",
+  "install": "npx -y taxme-mcp"
+}

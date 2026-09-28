@@ -1,0 +1,7 @@
+{
+  "name": "snapkitty-mcp-server",
+  "description": "MCP server exposing tools for WORM chain sealing, sovereign agent creation, Ada governance contract generation, and SSM state injection from Lean theorems.",
+  "source_repo": "SNAPKITTYWEST/snapkitty-mcp",
+  "source_url": "https://github.com/SNAPKITTYWEST/snapkitty-mcp",
+  "install": "npx -y snapkitty-mcp"
+}

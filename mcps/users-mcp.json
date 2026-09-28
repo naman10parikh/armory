@@ -1,0 +1,7 @@
+{
+  "name": "users-mcp",
+  "description": "A user management MCP server that enables CRUD operations on users stored in a JSON file, with random user generation using Faker.",
+  "source_repo": "stormdotcom/mcp-server",
+  "source_url": "https://github.com/stormdotcom/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/stormdotcom/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "llm-wiki-ops",
+  "description": "Graph-level operations for Karpathy LLM Wiki knowledge bases, enabling LLM agents via MCP and humans via CLI to perform structured graph surgery including node/edge CRUD, wikilink management, index rebuilding, and graph metrics.",
+  "source_repo": "jinnnyang/llm-wiki-ops",
+  "source_url": "https://github.com/jinnnyang/llm-wiki-ops",
+  "install": "# git clone --depth 1 https://github.com/jinnnyang/llm-wiki-ops\n# See source for mcpServers config block"
+}

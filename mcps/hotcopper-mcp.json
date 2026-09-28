@@ -1,0 +1,7 @@
+{
+  "name": "hotcopper-mcp",
+  "description": "Unofficial MCP server for HotCopper, enabling AI agents to search, read, and reply to ASX share-trading forum posts via reverse-engineered HTML parsing.",
+  "source_repo": "mKlus/hotcopper-mcp",
+  "source_url": "https://github.com/mKlus/hotcopper-mcp",
+  "install": "npx -y hotcopper-mcp"
+}

@@ -9,13 +9,14 @@ license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
 stars: 518
-eval_score: null
+eval_score: 1
 mentions: 11
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, infrastructure]
 forks: 132
 pushed_at: "2026-09-26T13:51:39Z"
+eval_score_from: infrastructure/modal
 ---
 ## What it is
 SDK libraries for Modal

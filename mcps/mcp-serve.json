@@ -1,0 +1,7 @@
+{
+  "name": "mcp-serve",
+  "description": "Enables natural language management of clients and products via a chat interface, using Gemini LLM and MCP to interact with a SQLite database.",
+  "source_repo": "mateus-gondev/Projeto_MCP",
+  "source_url": "https://github.com/mateus-gondev/Projeto_MCP",
+  "install": "npx -y Projeto_MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kb",
+  "description": "A local MCP server that provides a shared context and learning foundation across multiple AI tools (Claude, Copilot, Codex) for multiple projects, enabling persistent knowledge, decisions, and gap reflection through note storage.",
+  "source_repo": "okash1n/kb",
+  "source_url": "https://github.com/okash1n/kb",
+  "install": "# git clone --depth 1 https://github.com/okash1n/kb\n# See source for mcpServers config block"
+}

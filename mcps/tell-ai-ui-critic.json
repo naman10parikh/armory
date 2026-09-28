@@ -1,0 +1,7 @@
+{
+  "name": "tell-ai-ui-critic",
+  "description": "An MCP server that captures rendered UI, diagnoses design tells and consistency drift, and generates redesign diffs from natural language art direction, all within Cursor.",
+  "source_repo": "ashishpatill/tell-ai-ui-critic",
+  "source_url": "https://github.com/ashishpatill/tell-ai-ui-critic",
+  "install": "# git clone --depth 1 https://github.com/ashishpatill/tell-ai-ui-critic\n# See source for mcpServers config block"
+}

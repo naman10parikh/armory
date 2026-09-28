@@ -1,0 +1,7 @@
+{
+  "name": "technical-impact-analyst",
+  "description": "Analyzes GitHub contributions and maps them to the Karpathy Skills framework, providing metrics, alignment scores, and executive summaries.",
+  "source_repo": "Gaells/mcp-github-performance-review",
+  "source_url": "https://github.com/Gaells/mcp-github-performance-review",
+  "install": "# git clone --depth 1 https://github.com/Gaells/mcp-github-performance-review\n# See source for mcpServers config block"
+}

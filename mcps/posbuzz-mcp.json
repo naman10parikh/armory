@@ -1,0 +1,7 @@
+{
+  "name": "posbuzz-mcp",
+  "description": "A local MCP server that exposes the PosBuzz cosmetic analysis SaaS API as MCP tools, enabling AI assistants like Claude Code to interact with the API through natural language.",
+  "source_repo": "pos-buzz/posbuzz-mcp",
+  "source_url": "https://github.com/pos-buzz/posbuzz-mcp",
+  "install": "npx -y posbuzz-mcp"
+}

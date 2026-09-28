@@ -1,0 +1,7 @@
+{
+  "name": "deliverability-doctor",
+  "description": "Enables assessing and comparing domains for email spoofing risk by evaluating SPF, DMARC, MX, and DKIM records from public DNS, providing A-F grades and concrete remediation steps.",
+  "source_repo": "Integrity-Os/deliverability-doctor",
+  "source_url": "https://github.com/Integrity-Os/deliverability-doctor",
+  "install": "# git clone --depth 1 https://github.com/Integrity-Os/deliverability-doctor\n# See source for mcpServers config block"
+}

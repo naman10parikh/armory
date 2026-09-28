@@ -1,0 +1,7 @@
+{
+  "name": "antecedentes-pol-cia-civil",
+  "description": "MCP server to query Brazilian Polícia Civil criminal records using CPF, RG, UF, and name. Read-only and pay-per-use, it works with any MCP client.",
+  "source_repo": "mcp-dir/antecedentes_policia_civil-mcp",
+  "source_url": "https://github.com/mcp-dir/antecedentes_policia_civil-mcp",
+  "install": "npx -y antecedentes_policia_civil-mcp"
+}

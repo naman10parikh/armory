@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agentdocs",
+  "description": "Fresh, source-verified docs for building MCP servers and Claude agents, served to your AI coding agent over MCP. Each document is stamped with its source URL and last-verified date.",
+  "source_repo": "titov-d/mcp-agentdocs",
+  "source_url": "https://github.com/titov-d/mcp-agentdocs",
+  "install": "# git clone --depth 1 https://github.com/titov-d/mcp-agentdocs\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hermes-cowork-bridge",
+  "description": "Bridges Claude Cowork/Desktop to a local Hermes Agent, exposing hermes_delegate, hermes_check_run, and hermes_health tools for task delegation, status polling, and health checks.",
+  "source_repo": "ArjunGoel10/hermes-cowork-bridge",
+  "source_url": "https://github.com/ArjunGoel10/hermes-cowork-bridge",
+  "install": "# git clone --depth 1 https://github.com/ArjunGoel10/hermes-cowork-bridge\n# See source for mcpServers config block"
+}

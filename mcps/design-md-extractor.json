@@ -1,0 +1,7 @@
+{
+  "name": "design-md-extractor",
+  "description": "MCP server that captures a website's full design and content, producing a downloadable Next.js clone package with tokens, components, and a rebuild guide.",
+  "source_repo": "Nexuses/design-md-extractor",
+  "source_url": "https://github.com/Nexuses/design-md-extractor",
+  "install": "# git clone --depth 1 https://github.com/Nexuses/design-md-extractor\n# See source for mcpServers config block"
+}

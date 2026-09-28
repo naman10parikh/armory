@@ -1,0 +1,7 @@
+{
+  "name": "spark-trader",
+  "description": "Bridges Spark ASX trading platform with Claude Desktop via MCP, enabling natural language queries for live quotes, positions, P&L, and market analytics.",
+  "source_repo": "shivamrawat2002/spark-mcp-bridge",
+  "source_url": "https://github.com/shivamrawat2002/spark-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/shivamrawat2002/spark-mcp-bridge\n# See source for mcpServers config block"
+}

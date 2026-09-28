@@ -1,0 +1,7 @@
+{
+  "name": "ssave-mcp-server",
+  "description": "MCP server that extracts and downloads TikTok, Instagram, YouTube, and Douyin media (HD video, MP3) directly to local disk via the Ssave Open API.",
+  "source_repo": "ssavecc/ssave-mcp-server",
+  "source_url": "https://github.com/ssavecc/ssave-mcp-server",
+  "install": "npx -y ssave-mcp-server"
+}

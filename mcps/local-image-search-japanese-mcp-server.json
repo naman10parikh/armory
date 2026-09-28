@@ -1,0 +1,7 @@
+{
+  "name": "local-image-search-japanese-mcp-server",
+  "description": "Enables searching local images using natural Japanese queries, leveraging a Japanese-specific CLIP model for similarity search and providing efficient caching and fast retrieval via MCP and HTTP endpoints.",
+  "source_repo": "Duston/search-image-mcp",
+  "source_url": "https://github.com/Duston/search-image-mcp",
+  "install": "npx -y search-image-mcp"
+}

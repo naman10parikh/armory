@@ -1,0 +1,7 @@
+{
+  "name": "cursor-api-mcp",
+  "description": "MCP server exposing Cursor's HTTP APIs for managing Cloud Agents, Team/Org Admin, Analytics, Bugbot, AI Code Tracking, and Fleet with read-only and read-write modes.",
+  "source_repo": "PhillipChaffee/cursor-api-mcp",
+  "source_url": "https://github.com/PhillipChaffee/cursor-api-mcp",
+  "install": "npx -y cursor-api-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dsh-mediacrawler",
+  "description": "An MCP adapter that connects DeepSeek Harness to MediaCrawler, enabling search, post/video detail, creator feeds, and comments across multiple Chinese social platforms. It provides eight supervised tools for collecting, monitoring, and exporting crawl results.",
+  "source_repo": "xwh-01/dsh-mediacrawler",
+  "source_url": "https://github.com/xwh-01/dsh-mediacrawler",
+  "install": "# git clone --depth 1 https://github.com/xwh-01/dsh-mediacrawler\n# See source for mcpServers config block"
+}

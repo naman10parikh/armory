@@ -1,0 +1,7 @@
+{
+  "name": "qoyod-mcp-server",
+  "description": "Connects Claude to the Qoyod accounting system via its REST API, enabling natural language management of customers, invoices, vendors, journal entries, and other accounting resources through MCP tools.",
+  "source_repo": "baraeyah1989/qoyod-mcp-server",
+  "source_url": "https://github.com/baraeyah1989/qoyod-mcp-server",
+  "install": "npx -y qoyod-mcp-server"
+}

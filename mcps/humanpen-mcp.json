@@ -1,0 +1,7 @@
+{
+  "name": "humanpen-mcp",
+  "description": "MCP server for HumanPen that lets AI agents work on real documents (.docx, .pptx, .pdf) — humanizing content to lower AI-detection scores, converting citations, condensing, and translating while preserving formatting, tables, images, and citations.",
+  "source_repo": "humanpen/humanpen-mcp",
+  "source_url": "https://github.com/humanpen/humanpen-mcp",
+  "install": "npx -y humanpen-mcp"
+}

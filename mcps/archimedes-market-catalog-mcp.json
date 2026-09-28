@@ -1,0 +1,7 @@
+{
+  "name": "archimedes-market-catalog-mcp",
+  "description": "A read-only MCP server for discovering engineering work and reusable assets on Archimedes Market. It enables searching and retrieving public assets and bounties through natural language.",
+  "source_repo": "nexicturbo/archimedes-market-catalog-mcp",
+  "source_url": "https://github.com/nexicturbo/archimedes-market-catalog-mcp",
+  "install": "npx -y archimedes-market-catalog-mcp"
+}

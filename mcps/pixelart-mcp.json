@@ -1,0 +1,7 @@
+{
+  "name": "pixelart-mcp",
+  "description": "A local MCP server for creating and editing pixel art canvases as PNG files, with drawing tools, animation support, and various canvas operations.",
+  "source_repo": "light-vp/pixelart-mcp",
+  "source_url": "https://github.com/light-vp/pixelart-mcp",
+  "install": "npx -y pixelart-mcp"
+}

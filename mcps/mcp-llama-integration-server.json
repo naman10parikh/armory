@@ -1,0 +1,7 @@
+{
+  "name": "mcp-llama-integration-server",
+  "description": "Implements the Model Context Protocol to retrieve context from a locally running Llama model, enabling AI applications to query and receive relevant information.",
+  "source_repo": "EXPESRaza/mcp-llama-integration",
+  "source_url": "https://github.com/EXPESRaza/mcp-llama-integration",
+  "install": "# git clone --depth 1 https://github.com/EXPESRaza/mcp-llama-integration\n# See source for mcpServers config block"
+}

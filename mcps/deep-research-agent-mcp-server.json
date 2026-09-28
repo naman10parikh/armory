@@ -1,0 +1,7 @@
+{
+  "name": "deep-research-agent-mcp-server",
+  "description": "An AI-powered deep research agent that automates the full research pipeline from web search to structured executive reports using a 4-tool pipeline (search, fetch, cluster, report).",
+  "source_repo": "melisasvr/Deep-Research-Agent-MCP-Server",
+  "source_url": "https://github.com/melisasvr/Deep-Research-Agent-MCP-Server",
+  "install": "npx -y Deep-Research-Agent-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "confluence-adf-mcp",
+  "description": "An MCP server for reading and writing Confluence pages in native Atlassian Document Format (ADF), enabling precise edits at the document node level without loss of formatting.",
+  "source_repo": "karbassi/confluence-adf-mcp",
+  "source_url": "https://github.com/karbassi/confluence-adf-mcp",
+  "install": "npx -y confluence-adf-mcp"
+}

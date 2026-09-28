@@ -1,0 +1,7 @@
+{
+  "name": "reliaquest-greymatter-mcp-server",
+  "description": "Enables AI assistants to interact with the ReliaQuest GreyMatter platform via 146 tools across 22 domains for incident response, playbooks, cases, and more, including a generic graphql_query escape hatch.",
+  "source_repo": "Space-C0wboy/Reliaquest-Greymatter-MCP-Server",
+  "source_url": "https://github.com/Space-C0wboy/Reliaquest-Greymatter-MCP-Server",
+  "install": "npx -y Reliaquest-Greymatter-MCP-Server"
+}

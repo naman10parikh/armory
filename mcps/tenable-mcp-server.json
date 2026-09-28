@@ -1,0 +1,7 @@
+{
+  "name": "tenable-mcp-server",
+  "description": "An MCP server for Tenable Vulnerability Management and the Tenable One platform, enabling LLMs to query assets, vulnerabilities, scans, exposure metrics, attack paths, and more via natural language.",
+  "source_repo": "tarhou/tenable-mcp-server",
+  "source_url": "https://github.com/tarhou/tenable-mcp-server",
+  "install": "npx -y tenable-mcp-server"
+}

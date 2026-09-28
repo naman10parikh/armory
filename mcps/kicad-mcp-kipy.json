@@ -1,0 +1,7 @@
+{
+  "name": "kicad-mcp-kipy",
+  "description": "MCP server for KiCad 10 that enables AI assistants to inspect and control schematics and PCB layouts in real-time using the official kipy Python bindings.",
+  "source_repo": "mnori0211/kicad-mcp-kipy",
+  "source_url": "https://github.com/mnori0211/kicad-mcp-kipy",
+  "install": "# git clone --depth 1 https://github.com/mnori0211/kicad-mcp-kipy\n# See source for mcpServers config block"
+}

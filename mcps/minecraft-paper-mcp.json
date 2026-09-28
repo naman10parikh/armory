@@ -1,0 +1,7 @@
+{
+  "name": "minecraft-paper-mcp",
+  "description": "Enables control and administration of a Paper Minecraft server, including process management, in-game commands via RCON, file editing, and log monitoring.",
+  "source_repo": "inrok872-cyber/minecraft-paper-mcp",
+  "source_url": "https://github.com/inrok872-cyber/minecraft-paper-mcp",
+  "install": "npx -y minecraft-paper-mcp"
+}

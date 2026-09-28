@@ -1,0 +1,7 @@
+{
+  "name": "seek-mcp",
+  "description": "Australian job-search MCP server that provides job listing search, market statistics, and ad count tools via the Adzuna API. It enables querying job ads with filters like location, salary, and recency, plus insights on hiring employers and salary trends.",
+  "source_repo": "IntrepidShape/seek-mcp",
+  "source_url": "https://github.com/IntrepidShape/seek-mcp",
+  "install": "npx -y seek-mcp"
+}

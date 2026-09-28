@@ -1,0 +1,7 @@
+{
+  "name": "devpilot-mcp",
+  "description": "An AI-powered development assistant that enables LLMs to securely interact with local development tools including Git, filesystem, Docker, PostgreSQL, and GitHub via the Model Context Protocol.",
+  "source_repo": "walianitin/Dev-Mcp",
+  "source_url": "https://github.com/walianitin/Dev-Mcp",
+  "install": "npx -y Dev-Mcp"
+}

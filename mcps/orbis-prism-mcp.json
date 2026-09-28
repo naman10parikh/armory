@@ -1,0 +1,7 @@
+{
+  "name": "orbis-prism-mcp",
+  "description": "Analyzes Hytale game SDK by automatically detecting the installation, decompiling server logic, and exposing an AI-ready interface via the Model Context Protocol for searching API and assets.",
+  "source_repo": "OrbisFactory/OrbisPrismMCP",
+  "source_url": "https://github.com/OrbisFactory/OrbisPrismMCP",
+  "install": "# git clone --depth 1 https://github.com/OrbisFactory/OrbisPrismMCP\n# See source for mcpServers config block"
+}

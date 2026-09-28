@@ -1,0 +1,7 @@
+{
+  "name": "cursor-admin-mcp",
+  "description": "A cross-platform MCP server providing secure, user-approved privilege escalation for Cursor agents, with tools for running commands as admin on Windows and root on Linux.",
+  "source_repo": "Jon2G/cursor_admin_mcp",
+  "source_url": "https://github.com/Jon2G/cursor_admin_mcp",
+  "install": "npx -y cursor_admin_mcp"
+}

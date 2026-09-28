@@ -1,0 +1,7 @@
+{
+  "name": "autocad-mcp-server-codex-edition",
+  "description": "MCP server for full AutoCAD automation, AutoCAD LT automation, and headless DXF generation. It provides 8 consolidated tools for drawing, entity, layer, block, annotation, P&ID, view, and system operations via MCP stdio transport.",
+  "source_repo": "beiming183-cloud/AutoCAD-MCP",
+  "source_url": "https://github.com/beiming183-cloud/AutoCAD-MCP",
+  "install": "npx -y AutoCAD-MCP"
+}

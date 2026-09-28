@@ -1,0 +1,7 @@
+{
+  "name": "broken-link-checker",
+  "description": "An MCP server that lets AI assistants check single URLs, scan HTML content, and crawl entire websites for broken links via four tools.",
+  "source_repo": "davinoishi/mcp-broken-link-checker",
+  "source_url": "https://github.com/davinoishi/mcp-broken-link-checker",
+  "install": "# git clone --depth 1 https://github.com/davinoishi/mcp-broken-link-checker\n# See source for mcpServers config block"
+}

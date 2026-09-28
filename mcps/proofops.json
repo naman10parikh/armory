@@ -1,0 +1,7 @@
+{
+  "name": "proofops",
+  "description": "MCP server enabling evidence-driven multi-agent incident management with fault closure workflows, including diagnosis, approval, execution, verification, rollback, and audit-chain tracking.",
+  "source_repo": "Lorenzo-Holmes/ProofOps",
+  "source_url": "https://github.com/Lorenzo-Holmes/ProofOps",
+  "install": "# git clone --depth 1 https://github.com/Lorenzo-Holmes/ProofOps\n# See source for mcpServers config block"
+}

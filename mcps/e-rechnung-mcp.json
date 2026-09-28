@@ -1,0 +1,7 @@
+{
+  "name": "e-rechnung-mcp",
+  "description": "MCP server for German e-invoicing with tools to generate and validate XRechnung CII XML locally, supporting German VAT rates and § 19 UStG.",
+  "source_repo": "biorazlagaem-dev/e-rechnung-mcp",
+  "source_url": "https://github.com/biorazlagaem-dev/e-rechnung-mcp",
+  "install": "npx -y e-rechnung-mcp"
+}

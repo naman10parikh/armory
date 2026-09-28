@@ -1,0 +1,7 @@
+{
+  "name": "yourimageshare",
+  "description": "Upload, list, and delete files on YourImageShare (free image & video hosting, 200MB limit, no account required) from Claude, ChatGPT, or any MCP-compatible agent.",
+  "source_repo": "MediaShareORG/yourimageshare",
+  "source_url": "https://github.com/MediaShareORG/yourimageshare",
+  "install": "# git clone --depth 1 https://github.com/MediaShareORG/yourimageshare\n# See source for mcpServers config block"
+}

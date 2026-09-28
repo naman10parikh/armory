@@ -1,0 +1,7 @@
+{
+  "name": "aegismcp",
+  "description": "A local-first security gateway and visual dashboard for AI agents that enforces cost caps, blocks prompt injections, and requires approval for dangerous actions.",
+  "source_repo": "thekartikeyamishra/AegisMCP",
+  "source_url": "https://github.com/thekartikeyamishra/AegisMCP",
+  "install": "# git clone --depth 1 https://github.com/thekartikeyamishra/AegisMCP\n# See source for mcpServers config block"
+}

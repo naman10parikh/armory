@@ -1,0 +1,7 @@
+{
+  "name": "nooxus-mcp",
+  "description": "Nooxus-MCP is the official Model Context Protocol (MCP) gateway connecting AI models to real-time, verified global supply chain data.",
+  "source_repo": "Nooxus-AI/nooxus-mcp",
+  "source_url": "https://github.com/Nooxus-AI/nooxus-mcp",
+  "install": "npx -y nooxus-mcp"
+}

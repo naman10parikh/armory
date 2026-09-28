@@ -1,0 +1,7 @@
+{
+  "name": "pwno-mcp",
+  "description": "A stateful debugging and binary research system for LLM agents, integrating GDB + pwndbg with MCP for deterministic exploit workflows and multi-session support.",
+  "source_repo": "pwno-io/pwno-mcp",
+  "source_url": "https://github.com/pwno-io/pwno-mcp",
+  "install": "npx -y pwno-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "darklens-mcp-server",
+  "description": "Enables AI agents to detect, classify, explain, and ethically redesign dark patterns in websites and UI flows.",
+  "source_repo": "Manavarya09/DarkLens-MCP-Server",
+  "source_url": "https://github.com/Manavarya09/DarkLens-MCP-Server",
+  "install": "npx -y DarkLens-MCP-Server"
+}

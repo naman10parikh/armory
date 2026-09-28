@@ -1,0 +1,7 @@
+{
+  "name": "outlook-web-mcp-server",
+  "description": "Enables interaction with Outlook Web through its internal API, supporting email search, folder listing, email retrieval, read state changes, calendar events, and reply drafts without Microsoft Graph or COM.",
+  "source_repo": "ma-nakaya/outlook-web-mcp-server",
+  "source_url": "https://github.com/ma-nakaya/outlook-web-mcp-server",
+  "install": "npx -y outlook-web-mcp-server"
+}

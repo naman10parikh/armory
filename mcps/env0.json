@@ -1,0 +1,7 @@
+{
+  "name": "env0",
+  "description": "Enables AI agents to manage environments and access resources on the Env0 platform through natural language, including deploying, canceling, and viewing logs of environments, as well as querying Cloud Compass.",
+  "source_repo": "env0/mcp-server",
+  "source_url": "https://github.com/env0/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/env0/mcp-server\n# See source for mcpServers config block"
+}

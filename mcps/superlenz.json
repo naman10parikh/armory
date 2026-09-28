@@ -1,0 +1,7 @@
+{
+  "name": "superlenz",
+  "description": "Automates high-credibility research with multi-source search and 10+ rounds of cross-verification.",
+  "source_repo": "znehraks/superlenz-mcp",
+  "source_url": "https://github.com/znehraks/superlenz-mcp",
+  "install": "npx -y superlenz-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dealhub-admin",
+  "description": "MCP server for DealHub administrators to manage versions (list, get, activate, duplicate) through natural language commands via Claude and other AI agents.",
+  "source_repo": "vishvick/dealhub-admin-mcp",
+  "source_url": "https://github.com/vishvick/dealhub-admin-mcp",
+  "install": "npx -y dealhub-admin-mcp"
+}

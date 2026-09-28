@@ -1,0 +1,7 @@
+{
+  "name": "beautiful-pdf-mcp",
+  "description": "MCP server that lets AI agents produce print-ready, typographically correct PDFs using Typst, with a page-as-canvas engine, multiple templates, and per-page layout quality control.",
+  "source_repo": "Kreminskaya/beautiful-pdf-mcp",
+  "source_url": "https://github.com/Kreminskaya/beautiful-pdf-mcp",
+  "install": "npx -y beautiful-pdf-mcp"
+}

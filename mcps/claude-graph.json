@@ -1,0 +1,7 @@
+{
+  "name": "claude-graph",
+  "description": "A local knowledge graph of your codebase for Claude Code on macOS, exposing structural data via MCP tools for querying calls, imports, test coverage, and impact analysis.",
+  "source_repo": "mohansagark/claude-graph",
+  "source_url": "https://github.com/mohansagark/claude-graph",
+  "install": "# git clone --depth 1 https://github.com/mohansagark/claude-graph\n# See source for mcpServers config block"
+}

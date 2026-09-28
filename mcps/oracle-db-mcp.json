@@ -1,0 +1,7 @@
+{
+  "name": "oracle-db-mcp",
+  "description": "Read-only MCP server that lets coding AI agents inspect Oracle Database schema through live metadata.",
+  "source_repo": "muazam99/oracle-db-mcp",
+  "source_url": "https://github.com/muazam99/oracle-db-mcp",
+  "install": "npx -y oracle-db-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "genoooool-mcp-image-generator",
+  "description": "Enables AI image generation via multiple providers (Yunwu, Gemini) with customizable aspect ratios, resolutions, and output settings, seamlessly integrating with MCP-compatible clients.",
+  "source_repo": "genoooool/mcp-image-generator",
+  "source_url": "https://github.com/genoooool/mcp-image-generator",
+  "install": "# git clone --depth 1 https://github.com/genoooool/mcp-image-generator\n# See source for mcpServers config block"
+}

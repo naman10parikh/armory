@@ -1,0 +1,7 @@
+{
+  "name": "kvc-mcp",
+  "description": "MCP server for managing Krystal Voice Caller tenants, including tenant config, DNC, call history, reception captures, digest send-now, Script Author draft chat, contact upload, outbound captures, and test-call tools.",
+  "source_repo": "KrystalUnity/kvc-mcp",
+  "source_url": "https://github.com/KrystalUnity/kvc-mcp",
+  "install": "npx -y kvc-mcp"
+}

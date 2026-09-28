@@ -1,0 +1,7 @@
+{
+  "name": "canvas-student-mcp",
+  "description": "Read-only MCP server for Canvas LMS that works without API tokens by using session cookies, enabling AI assistants to access courses, assignments, grades, announcements, and more.",
+  "source_repo": "xmike04/canvas-student-mcp",
+  "source_url": "https://github.com/xmike04/canvas-student-mcp",
+  "install": "npx -y canvas-student-mcp"
+}

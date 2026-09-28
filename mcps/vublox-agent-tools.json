@@ -1,0 +1,7 @@
+{
+  "name": "vublox-agent-tools",
+  "description": "Enables AI agents to discover live and recent football matches, scores, and fan clips on Vublox. Supports searching by team, league, or keyword and retrieving match summaries.",
+  "source_repo": "Vublox/vublox-agent-tools",
+  "source_url": "https://github.com/Vublox/vublox-agent-tools",
+  "install": "# git clone --depth 1 https://github.com/Vublox/vublox-agent-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codeweaver-mcp",
+  "description": "Token-efficient MCP server for multi-language project analysis (Java, TypeScript, JavaScript, Markdown, Python) with plugins, semantic search, and static analysis.",
+  "source_repo": "nobiehl/codeweaver-mcp",
+  "source_url": "https://github.com/nobiehl/codeweaver-mcp",
+  "install": "npx -y codeweaver-mcp"
+}

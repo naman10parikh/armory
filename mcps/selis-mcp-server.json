@@ -1,0 +1,7 @@
+{
+  "name": "selis-mcp-server",
+  "description": "Enables management of PMO entities such as actions, risks, issues, projects, deliverables, decisions, KPIs, and objectives through natural language from any MCP-compatible agent.",
+  "source_repo": "calx-sa/selis-mcp",
+  "source_url": "https://github.com/calx-sa/selis-mcp",
+  "install": "npx -y selis-mcp"
+}

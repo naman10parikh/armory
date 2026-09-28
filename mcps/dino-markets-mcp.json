@@ -1,0 +1,7 @@
+{
+  "name": "dino-markets-mcp",
+  "description": "Bridges matched Kalshi and Polymarket prediction-market data to AI agents via MCP, enabling market lookup, cross-venue spread analysis, and arbitrage detection.",
+  "source_repo": "nusantara-ventures/dino-markets-mcp",
+  "source_url": "https://github.com/nusantara-ventures/dino-markets-mcp",
+  "install": "npx -y dino-markets-mcp"
+}

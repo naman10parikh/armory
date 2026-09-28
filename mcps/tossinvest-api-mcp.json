@@ -1,0 +1,7 @@
+{
+  "name": "tossinvest-api-mcp",
+  "description": "A local MCP server that automatically generates tools from Toss Securities' official OpenAPI spec, enabling real API calls with multi-layered order safety and OAuth 2.0 authentication.",
+  "source_repo": "Kuco-dev/tossinvest-api-mcp",
+  "source_url": "https://github.com/Kuco-dev/tossinvest-api-mcp",
+  "install": "npx -y tossinvest-api-mcp"
+}

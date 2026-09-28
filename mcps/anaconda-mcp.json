@@ -1,0 +1,7 @@
+{
+  "name": "anaconda-mcp",
+  "description": "Exposes conda environment management tools to MCP-enabled AI coding assistants, enabling them to create, modify, and delete environments and packages on your machine.",
+  "source_repo": "anaconda/anaconda-mcp",
+  "source_url": "https://github.com/anaconda/anaconda-mcp",
+  "install": "npx -y anaconda-mcp"
+}

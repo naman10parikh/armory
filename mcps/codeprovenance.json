@@ -1,0 +1,7 @@
+{
+  "name": "codeprovenance",
+  "description": "MCP server for AI code provenance, enabling traceability of file changes to AI agents, sessions, and prompts, plus reporting on AI-generated code activity.",
+  "source_repo": "darkm3tter/codeprovenance",
+  "source_url": "https://github.com/darkm3tter/codeprovenance",
+  "install": "# git clone --depth 1 https://github.com/darkm3tter/codeprovenance\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "social-broadcast-mcp",
+  "description": "Enables publishing to Facebook, Instagram, and YouTube through official APIs using your own OAuth credentials, with support for images, videos, Reels/Stories, and scheduled posts.",
+  "source_repo": "diegolm2012-creator/social-broadcast-mcp",
+  "source_url": "https://github.com/diegolm2012-creator/social-broadcast-mcp",
+  "install": "npx -y social-broadcast-mcp"
+}

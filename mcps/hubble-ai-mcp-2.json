@@ -1,6 +1,6 @@
 {
   "name": "hubble-ai-mcp-2",
-  "description": "Hubble Ai Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "adaHubble/hubble-ai-mcp",
   "source_url": "https://mcp.so/server/hubble-ai-mcp/adaHubble",
   "install": "npx -y hubble-ai-mcp"

@@ -1,0 +1,7 @@
+{
+  "name": "polydoc-database-docs",
+  "description": "An MCP server that scans your codebase to automatically generate comprehensive database documentation from your models, entities, migrations, and schema files.",
+  "source_repo": "polygraphe/polydoc-mcp",
+  "source_url": "https://github.com/polygraphe/polydoc-mcp",
+  "install": "npx -y polydoc-mcp"
+}

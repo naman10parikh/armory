@@ -1,0 +1,7 @@
+{
+  "name": "wolftech-dns-mcp-server",
+  "description": "Provides DNS lookup and email authentication diagnostic tools (SPF, DKIM, DMARC, MX, etc.) for use with MCP-compatible clients. Enables natural language queries to check DNS records and email health.",
+  "source_repo": "randalleast-beep/wolftech-dns-mcp",
+  "source_url": "https://github.com/randalleast-beep/wolftech-dns-mcp",
+  "install": "npx -y wolftech-dns-mcp"
+}

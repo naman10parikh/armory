@@ -1,0 +1,7 @@
+{
+  "name": "bequall-mcp-server",
+  "description": "Enables AI assistants to provide information about Bequall's services for real estate, construction, and modular development, including company overview, use cases, and fit assessment.",
+  "source_repo": "Bequall/bequall-mcp-server",
+  "source_url": "https://github.com/Bequall/bequall-mcp-server",
+  "install": "npx -y bequall-mcp-server"
+}

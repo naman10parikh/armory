@@ -1,0 +1,7 @@
+{
+  "name": "telco-mcp",
+  "description": "Enables governed, deterministic retention analytics over a checksum-pinned Telco customer churn snapshot, letting users ask business questions in natural language while the server handles metric definitions, bounded queries, and aggregate execution with provenance and caveats.",
+  "source_repo": "ltda3/telco-analytics-mcp",
+  "source_url": "https://github.com/ltda3/telco-analytics-mcp",
+  "install": "npx -y telco-analytics-mcp"
+}

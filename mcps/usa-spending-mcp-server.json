@@ -1,0 +1,7 @@
+{
+  "name": "usa-spending-mcp-server",
+  "description": "An MCP server for interacting with the USAspending.gov API, supporting local use with Claude Desktop and cloud deployment with login.gov authentication.",
+  "source_repo": "GSA-TTS/usa-spending-mcp-server-DEMO",
+  "source_url": "https://github.com/GSA-TTS/usa-spending-mcp-server-DEMO",
+  "install": "# git clone --depth 1 https://github.com/GSA-TTS/usa-spending-mcp-server-DEMO\n# See source for mcpServers config block"
+}

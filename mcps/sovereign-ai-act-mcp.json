@@ -1,0 +1,7 @@
+{
+  "name": "sovereign-ai-act-mcp",
+  "description": "Official MCP server for the EU AI Act. Search and access Articles, Recitals, Annexes, timelines, obligations, prohibited practices, GPAI requirements, conformity assessments, and compliance information across all 24 official EU languages.",
+  "source_repo": "saidbazyar/sovereign-ai-act-mcp",
+  "source_url": "https://github.com/saidbazyar/sovereign-ai-act-mcp",
+  "install": "npx -y sovereign-ai-act-mcp"
+}

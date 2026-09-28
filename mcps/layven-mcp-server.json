@@ -1,0 +1,7 @@
+{
+  "name": "layven-mcp-server",
+  "description": "Layven is a shared drive for AI agents over MCP, with versioning, attribution, and rollback. It enables file operations like list, read, write, edit, delete, restore, search, and activity tracking.",
+  "source_repo": "Layvenio/layven-mcp",
+  "source_url": "https://github.com/Layvenio/layven-mcp",
+  "install": "npx -y layven-mcp"
+}

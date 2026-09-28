@@ -1,0 +1,7 @@
+{
+  "name": "belex-mcp-server",
+  "description": "Provides AI assistants with citable access to Bernese laws (BSG) and administrative court rulings (Verwaltungsgericht Bern) via search, retrieval by number, and article extraction.",
+  "source_repo": "blueforce/belex-mcp",
+  "source_url": "https://github.com/blueforce/belex-mcp",
+  "install": "npx -y belex-mcp"
+}

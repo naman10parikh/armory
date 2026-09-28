@@ -1,0 +1,7 @@
+{
+  "name": "igds-storybook-mcp-server",
+  "description": "MCP server for the Israeli Government Design System (IGDS), providing tools to query Storybook component data and Zeroheight design documentation across Angular, React, and Core-Web frameworks.",
+  "source_repo": "michab23/igds-storybook-MCP",
+  "source_url": "https://github.com/michab23/igds-storybook-MCP",
+  "install": "npx -y igds-storybook-MCP"
+}

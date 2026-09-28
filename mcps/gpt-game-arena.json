@@ -1,0 +1,7 @@
+{
+  "name": "gpt-game-arena",
+  "description": "This MCP server enables playing chess, Quick Go (9x9), Go (13x13), and Real Go (19x19) against GPT, with a React widget UI, deterministic difficulty-aware move selection, and authoritative rules/session handling for both ChatGPT plugin and standalone preview modes.",
+  "source_repo": "charlie2233/gpt-game-arena",
+  "source_url": "https://github.com/charlie2233/gpt-game-arena",
+  "install": "# git clone --depth 1 https://github.com/charlie2233/gpt-game-arena\n# See source for mcpServers config block"
+}

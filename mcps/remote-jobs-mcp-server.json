@@ -1,0 +1,7 @@
+{
+  "name": "remote-jobs-mcp-server",
+  "description": "Official Model Context Protocol (MCP) server to search, filter, and retrieve live remote job listings from the Jobicy database in real-time. Works with Claude Code, Cursor, Cline, and custom AI agents.",
+  "source_repo": "Jobicy/remote-jobs-mcp-server",
+  "source_url": "https://github.com/Jobicy/remote-jobs-mcp-server",
+  "install": "npx -y remote-jobs-mcp-server"
+}

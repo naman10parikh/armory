@@ -1,0 +1,7 @@
+{
+  "name": "visionsieve-mcp",
+  "description": "Enables text-first agents to inspect images via focused questions, returning compact, checked evidence packets. Reduces visual context by ~90% while preserving expected fields.",
+  "source_repo": "scy7796/visionsieve-mcp",
+  "source_url": "https://github.com/scy7796/visionsieve-mcp",
+  "install": "npx -y visionsieve-mcp"
+}

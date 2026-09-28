@@ -1,0 +1,7 @@
+{
+  "name": "odoo-chatgpt-direct-connector",
+  "description": "Enables ChatGPT to interact with Odoo by providing tools for repository management, git operations, Odoo.sh management, Odoo RPC, browser screenshots, and approval workflows.",
+  "source_repo": "Abdul0000/odoo-mcp",
+  "source_url": "https://github.com/Abdul0000/odoo-mcp",
+  "install": "npx -y odoo-mcp"
+}

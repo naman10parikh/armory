@@ -1,0 +1,7 @@
+{
+  "name": "claude-chrome",
+  "description": "Enables browser automation via Chrome, allowing navigation, clicking, typing, screenshotting, and replayable flows for web tasks.",
+  "source_repo": "yesterdayyousaidtmrw/claude-chrome",
+  "source_url": "https://github.com/yesterdayyousaidtmrw/claude-chrome",
+  "install": "# git clone --depth 1 https://github.com/yesterdayyousaidtmrw/claude-chrome\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vibemk",
+  "description": "Enables complete management of CheckMK monitoring environments through natural language, including live monitoring, downtime scheduling, problem management, and configuration.",
+  "source_repo": "chexma/vibeMK",
+  "source_url": "https://github.com/chexma/vibeMK",
+  "install": "# git clone --depth 1 https://github.com/chexma/vibeMK\n# See source for mcpServers config block"
+}

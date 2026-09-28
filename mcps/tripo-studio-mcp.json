@@ -1,0 +1,7 @@
+{
+  "name": "tripo-studio-mcp",
+  "description": "Enables interaction with Tripo Studio for 3D model generation, management, and post-processing through natural language, with safety features to prevent duplicate charges.",
+  "source_repo": "Ador-able/tripo-studio-mcp",
+  "source_url": "https://github.com/Ador-able/tripo-studio-mcp",
+  "install": "npx -y tripo-studio-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "soracom-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for interacting with SORACOM APIs.",
+  "source_repo": "soracom-labs/soracom-mcp-server",
+  "source_url": "https://github.com/soracom-labs/soracom-mcp-server",
+  "install": "npx -y soracom-mcp-server"
+}

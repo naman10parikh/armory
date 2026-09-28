@@ -1,0 +1,7 @@
+{
+  "name": "zotero-cli-cc",
+  "description": "MCP server that exposes 45 tools for Zotero reference management, enabling AI agents to read/write items, search, extract PDF text, and manage workspaces via the Zotero CLI.",
+  "source_repo": "Agents365-ai/zotero-cli-cc",
+  "source_url": "https://github.com/Agents365-ai/zotero-cli-cc",
+  "install": "# git clone --depth 1 https://github.com/Agents365-ai/zotero-cli-cc\n# See source for mcpServers config block"
+}

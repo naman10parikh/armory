@@ -1,0 +1,7 @@
+{
+  "name": "dashwebmcp",
+  "description": "Enables AI agents to interact with Dash dashboards by exposing them as MCP servers via a WebSocket bridge, with automatic tool registration and human-in-the-loop confirmation.",
+  "source_repo": "Cemberk/dashwebmcp",
+  "source_url": "https://github.com/Cemberk/dashwebmcp",
+  "install": "# git clone --depth 1 https://github.com/Cemberk/dashwebmcp\n# See source for mcpServers config block"
+}

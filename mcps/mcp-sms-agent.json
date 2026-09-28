@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sms-agent",
+  "description": "Enables an AI-powered SMS assistant that receives inbound messages via TextBee, processes them with a local Ollama model and optional MCP tools, and sends replies back to the sender.",
+  "source_repo": "mustafaansari4564/mcp-sms-agent",
+  "source_url": "https://github.com/mustafaansari4564/mcp-sms-agent",
+  "install": "# git clone --depth 1 https://github.com/mustafaansari4564/mcp-sms-agent\n# See source for mcpServers config block"
+}

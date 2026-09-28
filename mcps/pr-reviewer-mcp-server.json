@@ -1,0 +1,7 @@
+{
+  "name": "pr-reviewer-mcp-server",
+  "description": "Connects Claude to GitHub, enabling listing repositories, browsing open pull requests, and inspecting PR diffs for code review.",
+  "source_repo": "subhamyadav580/pr-reviewer",
+  "source_url": "https://github.com/subhamyadav580/pr-reviewer",
+  "install": "# git clone --depth 1 https://github.com/subhamyadav580/pr-reviewer\n# See source for mcpServers config block"
+}

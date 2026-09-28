@@ -1,0 +1,7 @@
+{
+  "name": "chart-canvas-mcp-server",
+  "description": "Enables AI assistants to create interactive charts, diagrams, and tables displayed on a real-time dashboard, supporting multiple data sources with privacy-focused local execution.",
+  "source_repo": "gluip/chart-canvas",
+  "source_url": "https://github.com/gluip/chart-canvas",
+  "install": "# git clone --depth 1 https://github.com/gluip/chart-canvas\n# See source for mcpServers config block"
+}

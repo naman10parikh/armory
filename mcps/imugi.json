@@ -1,0 +1,7 @@
+{
+  "name": "imugi",
+  "description": "Enables AI to capture, compare, and automatically patch frontend code against reference designs, achieving pixel-perfect fidelity without manual CSS tweaking.",
+  "source_repo": "M00N7682/imugi",
+  "source_url": "https://github.com/M00N7682/imugi",
+  "install": "# git clone --depth 1 https://github.com/M00N7682/imugi\n# See source for mcpServers config block"
+}

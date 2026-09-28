@@ -1,0 +1,7 @@
+{
+  "name": "sky-windows-remote-executor",
+  "description": "Enables remote execution of commands, file operations, screenshots, and clipboard access on Windows machines through MCP tools.",
+  "source_repo": "skycaier/sky-windows-remote-executor",
+  "source_url": "https://github.com/skycaier/sky-windows-remote-executor",
+  "install": "# git clone --depth 1 https://github.com/skycaier/sky-windows-remote-executor\n# See source for mcpServers config block"
+}

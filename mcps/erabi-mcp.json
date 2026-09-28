@@ -1,0 +1,7 @@
+{
+  "name": "erabi-mcp",
+  "description": "Open intent exchange that gives any AI agent a portable, verifiable track record: one-command Ed25519 identity, reputation-ranked discovery, signed sponsorship disclosures, and dual-signed outcomes on a publicly auditable ledger. Zero-config — npx -y erabi-mcp joins the live public network.",
+  "source_repo": "HMAKT99/Erabi",
+  "source_url": "https://github.com/HMAKT99/Erabi",
+  "install": "# git clone --depth 1 https://github.com/HMAKT99/Erabi\n# See source for mcpServers config block"
+}

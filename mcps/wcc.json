@@ -1,0 +1,7 @@
+{
+  "name": "wcc",
+  "description": "WCC is an MCP server that compiles websites into typed capabilities for agents. It enables low-risk search, filter, and navigation actions with verified execution and reduced token usage on repeated tasks.",
+  "source_repo": "Maaa2005/web-capability-compiler",
+  "source_url": "https://github.com/Maaa2005/web-capability-compiler",
+  "install": "# git clone --depth 1 https://github.com/Maaa2005/web-capability-compiler\n# See source for mcpServers config block"
+}

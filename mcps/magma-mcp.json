@@ -1,0 +1,7 @@
+{
+  "name": "magma-mcp",
+  "description": "MCP server for buying Lightning Network liquidity via Amboss Magma. Enables AI assistants to purchase inbound Lightning liquidity for a node.",
+  "source_repo": "AmbossTech/magma-mcp",
+  "source_url": "https://github.com/AmbossTech/magma-mcp",
+  "install": "npx -y magma-mcp"
+}

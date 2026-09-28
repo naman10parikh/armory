@@ -1,0 +1,7 @@
+{
+  "name": "wkjobs",
+  "description": "Enables searching public LinkedIn job listings and managing a canonical WeKruit candidate profile, including LinkedIn-based login and resume upload, via command-line and MCP tools.",
+  "source_repo": "WeKruit/wkjobs",
+  "source_url": "https://github.com/WeKruit/wkjobs",
+  "install": "# git clone --depth 1 https://github.com/WeKruit/wkjobs\n# See source for mcpServers config block"
+}

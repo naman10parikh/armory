@@ -1,0 +1,7 @@
+{
+  "name": "contextvault",
+  "description": "Shared context storage for AI agents. Enables any MCP-compatible model to store, read, and search context entries through the MCP server, with a web UI for management.",
+  "source_repo": "arsenkylyshbek/context-vault",
+  "source_url": "https://github.com/arsenkylyshbek/context-vault",
+  "install": "# git clone --depth 1 https://github.com/arsenkylyshbek/context-vault\n# See source for mcpServers config block"
+}

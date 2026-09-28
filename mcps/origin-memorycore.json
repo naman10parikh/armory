@@ -1,0 +1,7 @@
+{
+  "name": "origin-memorycore",
+  "description": "Enables LLM agents to maintain a two-tier memory system with local hot storage and remote cold storage, automatically routing and overflowing facts based on importance to prevent memory bloat.",
+  "source_repo": "moonandecho/origin-memorycore",
+  "source_url": "https://github.com/moonandecho/origin-memorycore",
+  "install": "# git clone --depth 1 https://github.com/moonandecho/origin-memorycore\n# See source for mcpServers config block"
+}

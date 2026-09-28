@@ -1,0 +1,7 @@
+{
+  "name": "martech-mcp-server",
+  "description": "Exposes marketing catalogs (offers, assets, campaigns, and computed metrics) to MCP clients, enabling natural language queries and AI-driven marketing analysis.",
+  "source_repo": "appalchapa/martech-mcp-server",
+  "source_url": "https://github.com/appalchapa/martech-mcp-server",
+  "install": "npx -y martech-mcp-server"
+}

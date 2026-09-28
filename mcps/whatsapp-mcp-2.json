@@ -1,0 +1,7 @@
+{
+  "name": "whatsapp-mcp-2",
+  "description": "Human-in-the-loop approvals and notifications for AI agents via WhatsApp. Enables Cursor, Claude Code, and autonomous AI agents to reach users away from their computers.",
+  "source_repo": "meharajM/whatsapp-mcp",
+  "source_url": "https://github.com/meharajM/whatsapp-mcp",
+  "install": "npx -y whatsapp-mcp"
+}

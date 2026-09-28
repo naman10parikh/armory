@@ -1,0 +1,7 @@
+{
+  "name": "changelog-mcp",
+  "description": "A universal MCP server that enables AI assistants to safely manage changelog files by writing structured records to a JSONL store and deterministically generating markdown changelogs.",
+  "source_repo": "smartsys/changelog-mcp",
+  "source_url": "https://github.com/smartsys/changelog-mcp",
+  "install": "npx -y changelog-mcp"
+}

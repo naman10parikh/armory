@@ -1,0 +1,7 @@
+{
+  "name": "termux-mcp-server",
+  "description": "Enables remote control of Android phones via Claude Desktop, offering 45+ tools including UI automation for app interactions.",
+  "source_repo": "xlisp/termux-mcp-server",
+  "source_url": "https://github.com/xlisp/termux-mcp-server",
+  "install": "npx -y termux-mcp-server"
+}

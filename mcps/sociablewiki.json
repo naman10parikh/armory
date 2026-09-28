@@ -1,0 +1,7 @@
+{
+  "name": "sociablewiki",
+  "description": "Public, agent-searchable knowledge base about AI-native software development, served as an MCP server with tools to search, read, and list topics.",
+  "source_repo": "endmoseung/sociableWiki",
+  "source_url": "https://github.com/endmoseung/sociableWiki",
+  "install": "# git clone --depth 1 https://github.com/endmoseung/sociableWiki\n# See source for mcpServers config block"
+}

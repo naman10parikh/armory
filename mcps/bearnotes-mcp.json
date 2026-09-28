@@ -1,0 +1,7 @@
+{
+  "name": "bearnotes-mcp",
+  "description": "A local MCP server that lets MCP clients read and edit Bear notes on macOS using Bear's local database and x-callback-url scheme.",
+  "source_repo": "samcrudge/bearnotes-mcp",
+  "source_url": "https://github.com/samcrudge/bearnotes-mcp",
+  "install": "npx -y bearnotes-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "duckdb-iceberg-mcp",
+  "description": "Enables AI assistants to query Apache Iceberg tables on S3 via AWS Glue Data Catalog using DuckDB as the embedded query engine, supporting columnar Arrow reads with no data movement.",
+  "source_repo": "ys1173/duckdb-iceberg-mcp",
+  "source_url": "https://github.com/ys1173/duckdb-iceberg-mcp",
+  "install": "npx -y duckdb-iceberg-mcp"
+}

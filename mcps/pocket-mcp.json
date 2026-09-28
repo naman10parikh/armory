@@ -1,0 +1,7 @@
+{
+  "name": "pocket-mcp",
+  "description": "Turns PocketBase into a persistent knowledge base, enabling Claude Code to capture and retrieve project knowledge, tasks, decisions, and workflows via semantic search.",
+  "source_repo": "JaoChai/pocket-mcp",
+  "source_url": "https://github.com/JaoChai/pocket-mcp",
+  "install": "npx -y pocket-mcp"
+}

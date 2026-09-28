@@ -1,0 +1,7 @@
+{
+  "name": "clawborrator-mcp",
+  "description": "Connects Claude Code instances to a clawborrator hub via WebSocket, enabling cross-session communication, file exchange, and agent dispatch.",
+  "source_repo": "clawborrator/channel_v1",
+  "source_url": "https://github.com/clawborrator/channel_v1",
+  "install": "# git clone --depth 1 https://github.com/clawborrator/channel_v1\n# See source for mcpServers config block"
+}

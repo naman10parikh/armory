@@ -1,0 +1,7 @@
+{
+  "name": "teamtok-mcp",
+  "description": "카톡 팀플방의 대화를 팀원별 역할, 마감, 미정 항목, 제출 체크리스트, 공지 메시지로 정리해주는 대학생용 MCP 서버.",
+  "source_repo": "Eun-Y0ung/agentic-player-10-mcp",
+  "source_url": "https://github.com/Eun-Y0ung/agentic-player-10-mcp",
+  "install": "npx -y agentic-player-10-mcp"
+}

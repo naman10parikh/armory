@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-hello",
+  "description": "MCP server providing tools for addition, current time, config index updates, a random joke resource, and a friendly greeting prompt.",
+  "source_repo": "lqwangxg/mcp-server-hello",
+  "source_url": "https://github.com/lqwangxg/mcp-server-hello",
+  "install": "# git clone --depth 1 https://github.com/lqwangxg/mcp-server-hello\n# See source for mcpServers config block"
+}

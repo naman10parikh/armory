@@ -1,0 +1,7 @@
+{
+  "name": "critical-raw-minerals-urban-mining-oracle-x402",
+  "description": "Deterministic Web3 x402 Critical Minerals & Urban Mining Scrap Valuation Oracle for Autonomous AI Agents on Base (USDC)",
+  "source_repo": "nohosa001-pixel/minerals-oracle-x402",
+  "source_url": "https://github.com/nohosa001-pixel/minerals-oracle-x402",
+  "install": "# git clone --depth 1 https://github.com/nohosa001-pixel/minerals-oracle-x402\n# See source for mcpServers config block"
+}

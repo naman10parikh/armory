@@ -1,0 +1,7 @@
+{
+  "name": "tab-tab-mcp",
+  "description": "MCP server that adds billing and settlement to any MCP server, enabling paid tool calls with configurable pricing, spending limits, and automatic invoicing through the AllScale CLI.",
+  "source_repo": "slucifersz/allscale-tab",
+  "source_url": "https://github.com/slucifersz/allscale-tab",
+  "install": "# git clone --depth 1 https://github.com/slucifersz/allscale-tab\n# See source for mcpServers config block"
+}

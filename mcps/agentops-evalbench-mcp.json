@@ -1,0 +1,7 @@
+{
+  "name": "agentops-evalbench-mcp",
+  "description": "Enables LLM evaluation and observability by uploading documents, building test sets, running RAG pipelines, and automatically scoring answers for groundedness, hallucination risk, retrieval quality, latency, and cost, with tools exposed to MCP-compatible clients.",
+  "source_repo": "AbhinavVarma02/Agentops-Evalbench-MCP",
+  "source_url": "https://github.com/AbhinavVarma02/Agentops-Evalbench-MCP",
+  "install": "npx -y Agentops-Evalbench-MCP"
+}

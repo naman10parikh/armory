@@ -1,0 +1,7 @@
+{
+  "name": "specshield-mcp-server",
+  "description": "A read-only API change deploy gate for AI coding agents that analyzes OpenAPI specs to determine if changes are safe to deploy. It provides tools for comparing specs, explaining breaking changes, and generating migration guides.",
+  "source_repo": "specshield26/specshield-mcp-server",
+  "source_url": "https://github.com/specshield26/specshield-mcp-server",
+  "install": "npx -y specshield-mcp-server"
+}

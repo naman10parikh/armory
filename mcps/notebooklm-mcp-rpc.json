@@ -1,0 +1,7 @@
+{
+  "name": "notebooklm-mcp-rpc",
+  "description": "A pure-TypeScript MCP server for Google NotebookLM using the batchexecute RPC protocol. Enables management of notebooks, sources, chat, and artifact generation with no Python dependencies.",
+  "source_repo": "sanjeev7e/notebooklm-mcp",
+  "source_url": "https://github.com/sanjeev7e/notebooklm-mcp",
+  "install": "npx -y notebooklm-mcp"
+}

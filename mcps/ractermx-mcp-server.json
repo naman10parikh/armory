@@ -1,0 +1,7 @@
+{
+  "name": "ractermx-mcp-server",
+  "description": "MCP server for managing RacterMX email forwarding via AI assistants.",
+  "source_repo": "racter-ciso/ractermx-mcp",
+  "source_url": "https://github.com/racter-ciso/ractermx-mcp",
+  "install": "npx -y ractermx-mcp"
+}

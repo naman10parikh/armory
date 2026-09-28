@@ -1,0 +1,7 @@
+{
+  "name": "igvf-portal-mcp",
+  "description": "Enables AI agents to search, filter, download files, and generate reports from the IGVF Data Portal using natural language commands.",
+  "source_repo": "IGVF-DACC/igvf-portal-mcp",
+  "source_url": "https://github.com/IGVF-DACC/igvf-portal-mcp",
+  "install": "npx -y igvf-portal-mcp"
+}

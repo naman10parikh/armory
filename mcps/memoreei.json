@@ -1,0 +1,7 @@
+{
+  "name": "memoreei",
+  "description": "An open-source MCP server that gives AI assistants a searchable memory of your entire personal communication history by ingesting messages from multiple platforms and indexing them with hybrid search.",
+  "source_repo": "CalebChristiansen/Memoreei",
+  "source_url": "https://github.com/CalebChristiansen/Memoreei",
+  "install": "# git clone --depth 1 https://github.com/CalebChristiansen/Memoreei\n# See source for mcpServers config block"
+}

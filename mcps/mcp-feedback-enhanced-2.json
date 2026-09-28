@@ -1,0 +1,7 @@
+{
+  "name": "mcp-feedback-enhanced-2",
+  "description": "Establishes feedback-oriented development workflows with Web UI and desktop application dual interfaces, enabling AI to confirm with users and consolidate tool calls into feedback requests to reduce costs and improve development efficiency.",
+  "source_repo": "Minidoracat/mcp-feedback-enhanced",
+  "source_url": "https://github.com/Minidoracat/mcp-feedback-enhanced",
+  "install": "# git clone --depth 1 https://github.com/Minidoracat/mcp-feedback-enhanced\n# See source for mcpServers config block"
+}

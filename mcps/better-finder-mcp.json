@@ -1,0 +1,7 @@
+{
+  "name": "better-finder-mcp",
+  "description": "Enables intelligent file search with Git-like staging and indexing, offering semantic and hybrid search for documents, and integrates with Claude Desktop via MCP.",
+  "source_repo": "GitHamza0206/better-finder-mcp",
+  "source_url": "https://github.com/GitHamza0206/better-finder-mcp",
+  "install": "npx -y better-finder-mcp"
+}

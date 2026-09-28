@@ -1,0 +1,7 @@
+{
+  "name": "ubersuggest-mcp",
+  "description": "A standalone MCP server for Ubersuggest that runs entirely locally using SQLite and Playwright, providing tools to query subscription status, projects, domain overview, keyword research, site audit, and more.",
+  "source_repo": "muizzahabibi/ubersuggest-mcp-node",
+  "source_url": "https://github.com/muizzahabibi/ubersuggest-mcp-node",
+  "install": "# git clone --depth 1 https://github.com/muizzahabibi/ubersuggest-mcp-node\n# See source for mcpServers config block"
+}

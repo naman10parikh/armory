@@ -1,0 +1,7 @@
+{
+  "name": "amazon-seller-mcp",
+  "description": "Connects Claude to your Amazon Seller Central account via the Selling Partner API, enabling queries for recent orders, sales summaries, FBA inventory, and financial events.",
+  "source_repo": "thecoolcompanysl/amazon-seller-mcp",
+  "source_url": "https://github.com/thecoolcompanysl/amazon-seller-mcp",
+  "install": "npx -y amazon-seller-mcp"
+}

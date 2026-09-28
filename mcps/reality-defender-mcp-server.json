@@ -1,0 +1,7 @@
+{
+  "name": "reality-defender-mcp-server",
+  "description": "Enables LLMs to analyze images, videos, audio, and text files for AI-generated content using the Reality Defender API, with support for user file uploads and direct URL analysis.",
+  "source_repo": "Reality-Defender/eng-mcp-server",
+  "source_url": "https://github.com/Reality-Defender/eng-mcp-server",
+  "install": "npx -y eng-mcp-server"
+}

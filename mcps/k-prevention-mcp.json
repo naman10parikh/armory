@@ -1,0 +1,7 @@
+{
+  "name": "k-prevention-mcp",
+  "description": "MCP server for k-prevention, enabling AI assistants to access decrypted financial data, run Monte Carlo simulations, optimize scenarios, and manage scenarios locally while preserving end-to-end encryption.",
+  "source_repo": "999purple999/k-prevention",
+  "source_url": "https://github.com/999purple999/k-prevention",
+  "install": "# git clone --depth 1 https://github.com/999purple999/k-prevention\n# See source for mcpServers config block"
+}

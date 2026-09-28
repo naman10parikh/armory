@@ -1,0 +1,7 @@
+{
+  "name": "sansfiction-mcp",
+  "description": "Sansfiction library search and management",
+  "source_repo": "fgbytes/sansfiction-mcp",
+  "source_url": "https://github.com/fgbytes/sansfiction-mcp",
+  "install": "npx -y sansfiction-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "academic-research-mcp",
+  "description": "Unified scholarly search across 60+ academic sources with citation formatting (CMOS 18, SBL 2, APA 7, Turabian 9) and AI-powered research tools.",
+  "source_repo": "jacobhgruber-dev/academic-research-mcp",
+  "source_url": "https://github.com/jacobhgruber-dev/academic-research-mcp",
+  "install": "npx -y academic-research-mcp"
+}

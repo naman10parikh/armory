@@ -1,0 +1,7 @@
+{
+  "name": "metashape-mcp-server",
+  "description": "A comprehensive MCP server that brings AI-powered automation to Agisoft Metashape Professional. Enables natural language control of photogrammetry tasks such as drone mapping, 3D model generation, and export.",
+  "source_repo": "jenkinsm13/metashape-mcp",
+  "source_url": "https://github.com/jenkinsm13/metashape-mcp",
+  "install": "npx -y metashape-mcp"
+}

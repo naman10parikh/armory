@@ -1,0 +1,7 @@
+{
+  "name": "ai-pr-review-mcp",
+  "description": "An MCP server that automates pull request reviews using multiple LLM providers (OpenAI, Claude, Gemini, Groq, Perplexity) and supports GitHub and Bitbucket with real-time webhook integration and interactive AI assistant commands.",
+  "source_repo": "AshishChandpa/AI-PR-Review-MCP",
+  "source_url": "https://github.com/AshishChandpa/AI-PR-Review-MCP",
+  "install": "npx -y AI-PR-Review-MCP"
+}

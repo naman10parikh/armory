@@ -1,0 +1,7 @@
+{
+  "name": "db-memory",
+  "description": "A vector-DB MCP server that gives Claude conversational memory by storing solved problems and solutions as vectors and retrieving relevant ones when a new request resembles a past solution.",
+  "source_repo": "Ak1Ena/vector-db-mcp",
+  "source_url": "https://github.com/Ak1Ena/vector-db-mcp",
+  "install": "npx -y vector-db-mcp"
+}

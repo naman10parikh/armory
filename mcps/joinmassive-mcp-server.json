@@ -1,0 +1,7 @@
+{
+  "name": "joinmassive-mcp-server",
+  "description": "Gives AI agents real-time web access with JS rendering, captcha solving, and geo-targeting via the Massive Web Render API.",
+  "source_repo": "joinmassive/mcp-server",
+  "source_url": "https://github.com/joinmassive/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/joinmassive/mcp-server\n# See source for mcpServers config block"
+}

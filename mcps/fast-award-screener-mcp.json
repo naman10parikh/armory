@@ -1,0 +1,7 @@
+{
+  "name": "fast-award-screener-mcp",
+  "description": "Screens DIBBS RFQs for micro-purchase viability using deterministic logic without LLM calls.",
+  "source_repo": "lprdgds/fast-award-screener-mcp",
+  "source_url": "https://github.com/lprdgds/fast-award-screener-mcp",
+  "install": "npx -y fast-award-screener-mcp"
+}

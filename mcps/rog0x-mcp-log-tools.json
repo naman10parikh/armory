@@ -1,0 +1,7 @@
+{
+  "name": "rog0x-mcp-log-tools",
+  "description": "A set of MCP tools for parsing, filtering, analyzing, formatting, and computing stats on logs in common formats (JSON, Apache/Nginx, syslog, structured, custom regex).",
+  "source_repo": "rog0x/mcp-log-tools",
+  "source_url": "https://github.com/rog0x/mcp-log-tools",
+  "install": "# git clone --depth 1 https://github.com/rog0x/mcp-log-tools\n# See source for mcpServers config block"
+}

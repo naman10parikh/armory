@@ -1,0 +1,7 @@
+{
+  "name": "vane-mcp-server",
+  "description": "A production-ready Model Context Protocol (MCP) server that extends GitHub Copilot with GitHub repository management capabilities. Enables AI-driven issue tracking, repository information retrieval, and seamless GitHub integration.",
+  "source_repo": "myou260312-eng/skills-integrate-mcp-with-copilot",
+  "source_url": "https://github.com/myou260312-eng/skills-integrate-mcp-with-copilot",
+  "install": "# git clone --depth 1 https://github.com/myou260312-eng/skills-integrate-mcp-with-copilot\n# See source for mcpServers config block"
+}

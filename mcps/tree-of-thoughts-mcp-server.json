@@ -1,0 +1,7 @@
+{
+  "name": "tree-of-thoughts-mcp-server",
+  "description": "Implements the Tree of Thoughts framework for structured reasoning and decision tree exploration, enabling LLMs to explore multiple reasoning paths, evaluate them, and backtrack.",
+  "source_repo": "HefnySco/agent_mcp_tot",
+  "source_url": "https://github.com/HefnySco/agent_mcp_tot",
+  "install": "# git clone --depth 1 https://github.com/HefnySco/agent_mcp_tot\n# See source for mcpServers config block"
+}

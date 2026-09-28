@@ -1,0 +1,7 @@
+{
+  "name": "ferret-mcp",
+  "description": "An MCP server that extracts complete knowledge from any codebase — architecture, patterns, dependencies, API surface. Combines static analysis with AI-powered deep interpretation.",
+  "source_repo": "fabdendev/ferret-mcp",
+  "source_url": "https://github.com/fabdendev/ferret-mcp",
+  "install": "npx -y ferret-mcp"
+}

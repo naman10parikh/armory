@@ -1,0 +1,7 @@
+{
+  "name": "unofficial-google-trends-mcp-server",
+  "description": "Enables AI assistants to query Google Trends data, including search interest over time, regional breakdowns, trending searches, and keyword ideas.",
+  "source_repo": "goncaloaguer/unofficial-google-trends-mcp",
+  "source_url": "https://github.com/goncaloaguer/unofficial-google-trends-mcp",
+  "install": "npx -y unofficial-google-trends-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "database-analytics-mcp",
+  "description": "Provides SQLite database analytics operations through MCP, enabling AI assistants to connect, query, explore schema, and export data from SQLite databases.",
+  "source_repo": "khuyentran1401/database-analytics-mcp",
+  "source_url": "https://github.com/khuyentran1401/database-analytics-mcp",
+  "install": "npx -y database-analytics-mcp"
+}

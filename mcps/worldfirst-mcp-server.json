@@ -1,0 +1,7 @@
+{
+  "name": "worldfirst-mcp-server",
+  "description": "MCP server that gives AI agents access to WorldFirst cross-border payment APIs, enabling autonomous balance checks, FX quotes, supplier management, and payments.",
+  "source_repo": "socialworldfirst/worldfirst-mcp-server",
+  "source_url": "https://github.com/socialworldfirst/worldfirst-mcp-server",
+  "install": "npx -y worldfirst-mcp-server"
+}

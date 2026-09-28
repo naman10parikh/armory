@@ -1,0 +1,7 @@
+{
+  "name": "wafpass-mcp",
+  "description": "Secure MCP server that exposes WAFpass REST endpoints as tools for AI assistants, with role-based filtering and token validation.",
+  "source_repo": "WAF2p/wafpass-mcp",
+  "source_url": "https://github.com/WAF2p/wafpass-mcp",
+  "install": "npx -y wafpass-mcp"
+}

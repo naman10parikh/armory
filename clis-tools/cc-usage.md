@@ -7,7 +7,7 @@ license: NOASSERTION
 ---
 # cc-usage
 
-Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.
+A CLI tool that reads local Claude Code logs and reports usage: cost, token consumption and more, in a dashboard.
 
 **Source:** https://github.com/ryoppippi/ccusage
 

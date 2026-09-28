@@ -1,0 +1,7 @@
+{
+  "name": "py-mcp-wiki-helper",
+  "description": "MCP server to query a Git-hosted Wiki, offering tools to list, search, and read Markdown documents via Codex or VS Code.",
+  "source_repo": "resoxcgp1em0dckdeppyxywiy-debug/py-mcp-wiki-helper",
+  "source_url": "https://github.com/resoxcgp1em0dckdeppyxywiy-debug/py-mcp-wiki-helper",
+  "install": "# git clone --depth 1 https://github.com/resoxcgp1em0dckdeppyxywiy-debug/py-mcp-wiki-helper\n# See source for mcpServers config block"
+}

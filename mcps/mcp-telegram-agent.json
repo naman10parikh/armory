@@ -1,0 +1,7 @@
+{
+  "name": "mcp-telegram-agent",
+  "description": "Sends Telegram notifications and supports onboarding, updates, and control replies via MCP tools from any AI agent.",
+  "source_repo": "tecnomanu/mcp-telegram-agent",
+  "source_url": "https://github.com/tecnomanu/mcp-telegram-agent",
+  "install": "# git clone --depth 1 https://github.com/tecnomanu/mcp-telegram-agent\n# See source for mcpServers config block"
+}

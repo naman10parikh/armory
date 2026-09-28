@@ -1,0 +1,7 @@
+{
+  "name": "mcp-font-split",
+  "description": "Provides font subsetting and web-font generation tools (split_font, split_font_batch, inspect_split_output) using cn-font-split, enabling optimized WOFF2 font chunks with CSS output.",
+  "source_repo": "WenZhimo/mcp-font-split",
+  "source_url": "https://github.com/WenZhimo/mcp-font-split",
+  "install": "# git clone --depth 1 https://github.com/WenZhimo/mcp-font-split\n# See source for mcpServers config block"
+}

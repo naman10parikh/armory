@@ -1,0 +1,7 @@
+{
+  "name": "job-hunt-agent",
+  "description": "Private Notion-backed recruitment tracker for AI/LLM engineer job hunting, exposed as an MCP server to manage applications, interviews, and contacts securely.",
+  "source_repo": "awen11123/job-hunt-agent",
+  "source_url": "https://github.com/awen11123/job-hunt-agent",
+  "install": "# git clone --depth 1 https://github.com/awen11123/job-hunt-agent\n# See source for mcpServers config block"
+}

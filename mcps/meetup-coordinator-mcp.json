@@ -1,0 +1,7 @@
+{
+  "name": "meetup-coordinator-mcp",
+  "description": "Analyzes KakaoTalk group chat texts to extract availability, rank options, draft polls, final notices, missing people, and split bill messages.",
+  "source_repo": "jclee941/meetup-coordinator-mcp",
+  "source_url": "https://github.com/jclee941/meetup-coordinator-mcp",
+  "install": "npx -y meetup-coordinator-mcp"
+}

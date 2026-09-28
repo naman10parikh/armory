@@ -1,0 +1,7 @@
+{
+  "name": "autostackup-mcp-suite",
+  "description": "Provides Claude with business intelligence frameworks for sales, marketing, and operations, enabling lead qualification, pipeline tracking, marketing mix analysis, and campaign planning through natural language.",
+  "source_repo": "Autostackup/autostackup",
+  "source_url": "https://github.com/Autostackup/autostackup",
+  "install": "# git clone --depth 1 https://github.com/Autostackup/autostackup\n# See source for mcpServers config block"
+}

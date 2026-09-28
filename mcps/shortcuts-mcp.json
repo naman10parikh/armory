@@ -1,0 +1,7 @@
+{
+  "name": "shortcuts-mcp",
+  "description": "Connects LLMs to your macOS Shortcuts library, enabling interactive workflows, discovery, and management through AppleScript and CLI integration.",
+  "source_repo": "foxtrottwist/shortcuts-mcp",
+  "source_url": "https://github.com/foxtrottwist/shortcuts-mcp",
+  "install": "npx -y shortcuts-mcp"
+}

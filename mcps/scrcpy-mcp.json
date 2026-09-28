@@ -1,0 +1,7 @@
+{
+  "name": "scrcpy-mcp",
+  "description": "MCP server that gives AI agents full vision and control over Android devices via ADB and scrcpy. Supports screenshots, input, apps, UI automation, shell, files, and clipboard.",
+  "source_repo": "JuanCF/scrcpy-mcp",
+  "source_url": "https://github.com/JuanCF/scrcpy-mcp",
+  "install": "npx -y scrcpy-mcp"
+}

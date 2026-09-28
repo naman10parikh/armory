@@ -1,0 +1,7 @@
+{
+  "name": "codex-specialized-subagents",
+  "description": "Artifact-first sub-agent delegation for Codex CLI, enabling multi-step parallel work with durable logging via specialized sub-agents.",
+  "source_repo": "leonardsellem/codex-specialized-subagents",
+  "source_url": "https://github.com/leonardsellem/codex-specialized-subagents",
+  "install": "# git clone --depth 1 https://github.com/leonardsellem/codex-specialized-subagents\n# See source for mcpServers config block"
+}

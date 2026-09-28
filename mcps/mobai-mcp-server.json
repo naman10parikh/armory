@@ -1,0 +1,7 @@
+{
+  "name": "mobai-mcp-server",
+  "description": "Enables AI assistants to automate mobile devices (Android and iOS) through a single DSL interface, supporting actions like tap, type, swipe, and assertions.",
+  "source_repo": "MobAI-App/mobai-mcp",
+  "source_url": "https://github.com/MobAI-App/mobai-mcp",
+  "install": "npx -y mobai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-paleobiology-mcp-server",
+  "description": "Search fossil occurrences, resolve taxon fossil ranges, plot diversity through deep time, and look up the geologic time scale via MCP.",
+  "source_repo": "cyanheads/paleobiology-mcp-server",
+  "source_url": "https://github.com/cyanheads/paleobiology-mcp-server",
+  "install": "npx -y paleobiology-mcp-server"
+}

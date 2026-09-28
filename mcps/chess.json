@@ -1,0 +1,7 @@
+{
+  "name": "chess",
+  "description": "Enables MCP agents to play chess locally, supporting join, state, legal moves, and move execution with per-session color ownership.",
+  "source_repo": "alexup71rus/Chess-and-MCP-Arena",
+  "source_url": "https://github.com/alexup71rus/Chess-and-MCP-Arena",
+  "install": "# git clone --depth 1 https://github.com/alexup71rus/Chess-and-MCP-Arena\n# See source for mcpServers config block"
+}

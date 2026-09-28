@@ -1,0 +1,7 @@
+{
+  "name": "claude-context-server",
+  "description": "An MCP server that reads all your Claude Code project memory files and exposes them as tools. Lets any Claude instance — in any project, or via Claude.ai — query your full project history and preferences.",
+  "source_repo": "carlformigoni/claude-context-server",
+  "source_url": "https://github.com/carlformigoni/claude-context-server",
+  "install": "# git clone --depth 1 https://github.com/carlformigoni/claude-context-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dsh-mcp-manager",
+  "description": "A durable MCP server manager for DeepSeek Harness that provides a settings page and model tools to add, list, enable/disable, restart, import/export MCP servers while surviving DSH restarts and upgrades.",
+  "source_repo": "xxxyz/DeepSeekHarness-MCP-Manager",
+  "source_url": "https://github.com/xxxyz/DeepSeekHarness-MCP-Manager",
+  "install": "# git clone --depth 1 https://github.com/xxxyz/DeepSeekHarness-MCP-Manager\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "verified-wages-mcp",
+  "description": "Provides current, source-cited US minimum wage, tipped wage, and FLSA overtime data for AI agents, with tools to query rates, verify wage floors, and list scheduled changes. It refreshes state-level wage information from DOL sources and refuses to guess when data is unavailable.",
+  "source_repo": "jfortier93/verified-wages-mcp",
+  "source_url": "https://github.com/jfortier93/verified-wages-mcp",
+  "install": "npx -y verified-wages-mcp"
+}

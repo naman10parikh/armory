@@ -1,0 +1,7 @@
+{
+  "name": "nhtsa-vehicle-safety-mcp-server",
+  "description": "Enables natural-language querying of NHTSA vehicle safety data, including VIN decoding, recall searches, consumer complaints, crash-test ratings, and defect investigations via MCP.",
+  "source_repo": "cyanheads/nhtsa-vehicle-safety-mcp-server",
+  "source_url": "https://github.com/cyanheads/nhtsa-vehicle-safety-mcp-server",
+  "install": "npx -y nhtsa-vehicle-safety-mcp-server"
+}

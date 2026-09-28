@@ -1,0 +1,7 @@
+{
+  "name": "yandex-search-api",
+  "description": "Wraps Yandex Cloud Search API v2 for web search, returns compact JSON results.",
+  "source_repo": "goluntsov/search-mcp-deploy",
+  "source_url": "https://github.com/goluntsov/search-mcp-deploy",
+  "install": "# git clone --depth 1 https://github.com/goluntsov/search-mcp-deploy\n# See source for mcpServers config block"
+}

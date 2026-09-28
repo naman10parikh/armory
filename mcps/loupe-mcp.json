@@ -1,0 +1,7 @@
+{
+  "name": "loupe-mcp",
+  "description": "Turns product feedback pinned to a live UI into an actionable backlog for Claude Code — list comments, open one with its target element's HTML, computed styles and screenshot, and update its status.",
+  "source_repo": "mohamed-ashraf-elsaed/loupe",
+  "source_url": "https://github.com/mohamed-ashraf-elsaed/loupe",
+  "install": "# git clone --depth 1 https://github.com/mohamed-ashraf-elsaed/loupe\n# See source for mcpServers config block"
+}

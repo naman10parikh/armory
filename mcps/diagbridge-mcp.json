@@ -1,0 +1,7 @@
+{
+  "name": "diagbridge-mcp",
+  "description": "Enables AI agents to diagnose Windows computer problems safely through a consent-first, read-only default remote diagnostics bridge.",
+  "source_repo": "putaojuju/diagbridge-mcp",
+  "source_url": "https://github.com/putaojuju/diagbridge-mcp",
+  "install": "npx -y diagbridge-mcp"
+}

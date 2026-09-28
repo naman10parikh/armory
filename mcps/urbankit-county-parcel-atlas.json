@@ -1,0 +1,7 @@
+{
+  "name": "urbankit-county-parcel-atlas",
+  "description": "Query verified parcel ArcGIS REST endpoints for 150+ US counties across all 50 states — search by owner name, APN, or address. No API key; built on public county GIS data.",
+  "source_repo": "LEOyrh/mcp-atlas",
+  "source_url": "https://github.com/LEOyrh/mcp-atlas",
+  "install": "# git clone --depth 1 https://github.com/LEOyrh/mcp-atlas\n# See source for mcpServers config block"
+}

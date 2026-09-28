@@ -1,0 +1,7 @@
+{
+  "name": "whatsapp-mcp-stream",
+  "description": "Enables programmatic WhatsApp automation through MCP, including sending messages, managing chats and contacts, searching conversation history, and exchanging media files.",
+  "source_repo": "BusinessNone/WhatsAppMCP",
+  "source_url": "https://github.com/BusinessNone/WhatsAppMCP",
+  "install": "# git clone --depth 1 https://github.com/BusinessNone/WhatsAppMCP\n# See source for mcpServers config block"
+}

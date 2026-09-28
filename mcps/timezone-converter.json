@@ -1,0 +1,7 @@
+{
+  "name": "timezone-converter",
+  "description": "Enables AI agents to convert datetimes between IANA timezones with DST-aware UTC offsets and ISO 8601 I/O, with pay-per-call x402 micropayments via MCP.",
+  "source_repo": "Br0ski777/timezone-converter-x402",
+  "source_url": "https://github.com/Br0ski777/timezone-converter-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/timezone-converter-x402\n# See source for mcpServers config block"
+}

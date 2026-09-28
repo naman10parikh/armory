@@ -1,0 +1,7 @@
+{
+  "name": "akshare-jc-mcp",
+  "description": "Unified MCP server for Chinese stock market data that batches multiple data requests (news, insider trading, financials, historical K-line, etc.) into a single call.",
+  "source_repo": "bzetu/akshare-jc-mcp",
+  "source_url": "https://github.com/bzetu/akshare-jc-mcp",
+  "install": "npx -y akshare-jc-mcp"
+}

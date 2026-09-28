@@ -1,0 +1,7 @@
+{
+  "name": "etsy-ops-mcp",
+  "description": "A confirmation-gated MCP server for Etsy Open API v3 listing inspection and title/tag updates.",
+  "source_repo": "DaveTheProfessor/etsy-ops-mcp",
+  "source_url": "https://github.com/DaveTheProfessor/etsy-ops-mcp",
+  "install": "npx -y etsy-ops-mcp"
+}

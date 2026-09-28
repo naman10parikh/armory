@@ -1,0 +1,7 @@
+{
+  "name": "blender-mcp-enhanced",
+  "description": "Connects Blender to Claude AI through the Model Context Protocol for AI-assisted 3D modeling, procedural geometry creation, and persistent multi-turn workflows with shared context and advanced tool chaining.",
+  "source_repo": "ZachHandley/blender-mcp-enhanced",
+  "source_url": "https://github.com/ZachHandley/blender-mcp-enhanced",
+  "install": "# git clone --depth 1 https://github.com/ZachHandley/blender-mcp-enhanced\n# See source for mcpServers config block"
+}

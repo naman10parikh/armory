@@ -1,0 +1,7 @@
+{
+  "name": "arcscope",
+  "description": "A local MCP server that gives AI coding agents symbol definitions, dependency graphs, and a live architecture vocabulary for TypeScript/JavaScript repos, with no network or embeddings.",
+  "source_repo": "iliedanila/arcscope",
+  "source_url": "https://github.com/iliedanila/arcscope",
+  "install": "# git clone --depth 1 https://github.com/iliedanila/arcscope\n# See source for mcpServers config block"
+}

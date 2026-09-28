@@ -1,0 +1,7 @@
+{
+  "name": "astravue-mcp-server",
+  "description": "A cloud-based MCP server that enables AI tools to manage workspaces, projects, tasks, time tracking, and custom fields in Astravue through natural language.",
+  "source_repo": "AstravueOrg/astravue-mcp-server",
+  "source_url": "https://github.com/AstravueOrg/astravue-mcp-server",
+  "install": "npx -y astravue-mcp-server"
+}

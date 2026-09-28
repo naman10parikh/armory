@@ -1,0 +1,7 @@
+{
+  "name": "investec-openapi-mcp-server",
+  "description": "Enables AI assistants to interact with Investec banking accounts, transactions, payments, and programmable cards through natural language.",
+  "source_repo": "jonelgithub/investec_mcp",
+  "source_url": "https://github.com/jonelgithub/investec_mcp",
+  "install": "npx -y investec_mcp"
+}

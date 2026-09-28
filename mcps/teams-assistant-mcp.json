@@ -1,0 +1,7 @@
+{
+  "name": "teams-assistant-mcp",
+  "description": "Lets a Claude Code agent read and post in a fixed allowlist of Microsoft Teams group chats using an ordinary user account, with tools for messaging, replying, editing, deleting, and polling.",
+  "source_repo": "Agentic-Delivery/teams-assistant-mcp",
+  "source_url": "https://github.com/Agentic-Delivery/teams-assistant-mcp",
+  "install": "npx -y teams-assistant-mcp"
+}

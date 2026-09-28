@@ -1,0 +1,7 @@
+{
+  "name": "django-rest-framework-mcp",
+  "description": "Exposes Django REST Framework APIs as MCP tools, enabling natural language interactions with your data models such as CRUD operations and custom actions, with automatic schema generation from DRF serializers.",
+  "source_repo": "zacharypodbela/django-rest-framework-mcp",
+  "source_url": "https://github.com/zacharypodbela/django-rest-framework-mcp",
+  "install": "npx -y django-rest-framework-mcp"
+}

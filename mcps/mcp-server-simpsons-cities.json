@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-simpsons-cities",
+  "description": "An MCP server that finds real U.S. cities near a given zip code whose names match anything from The Simpsons.",
+  "source_repo": "cindyhsugit/mcp-server-simpsons-cities",
+  "source_url": "https://github.com/cindyhsugit/mcp-server-simpsons-cities",
+  "install": "# git clone --depth 1 https://github.com/cindyhsugit/mcp-server-simpsons-cities\n# See source for mcpServers config block"
+}

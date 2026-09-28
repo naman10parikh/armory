@@ -1,0 +1,7 @@
+{
+  "name": "vergabe-mcp",
+  "description": "An MCP server for the German federal public-tender portal that enables searching live tenders with filters and retrieving notices in domain model, eForms XML, or OCDS format.",
+  "source_repo": "jocks-studio/vergabe-mcp",
+  "source_url": "https://github.com/jocks-studio/vergabe-mcp",
+  "install": "npx -y vergabe-mcp"
+}

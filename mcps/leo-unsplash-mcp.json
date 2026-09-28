@@ -1,0 +1,7 @@
+{
+  "name": "leo-unsplash-mcp",
+  "description": "Enables Leo to fetch Unsplash wallpapers via a provider package, returning photo metadata such as download URLs, descriptions, and photographers.",
+  "source_repo": "TheBananaStand/leo-unsplash-mcp",
+  "source_url": "https://github.com/TheBananaStand/leo-unsplash-mcp",
+  "install": "npx -y leo-unsplash-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rattan",
+  "description": "Runs commands inside a secure Arch Linux sandbox with package management and environment commit/rollback, enabling isolated shell execution for MCP clients.",
+  "source_repo": "jmars/rattan",
+  "source_url": "https://github.com/jmars/rattan",
+  "install": "# git clone --depth 1 https://github.com/jmars/rattan\n# See source for mcpServers config block"
+}

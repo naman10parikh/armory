@@ -1,0 +1,7 @@
+{
+  "name": "vault-as-mcp",
+  "description": "An Obsidian plugin that runs an MCP server, enabling external LLM tools to read, search, create, and modify notes in your vault via HTTP or stdio transport.",
+  "source_repo": "ebullient/obsidian-vault-mcp",
+  "source_url": "https://github.com/ebullient/obsidian-vault-mcp",
+  "install": "npx -y obsidian-vault-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "flowise-mcp",
+  "description": "Enables AI agents to interact with Flowise instances for flow management, predictions, analysis, and more.",
+  "source_repo": "JuliDir/flowise-mcp",
+  "source_url": "https://github.com/JuliDir/flowise-mcp",
+  "install": "npx -y flowise-mcp"
+}

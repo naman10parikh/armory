@@ -1,0 +1,7 @@
+{
+  "name": "zenmcproblox",
+  "description": "A secure local AI controller for Roblox Studio that connects AI chat websites to Roblox via an authenticated bridge, enabling inspection, debugging, and modification of places through natural language.",
+  "source_repo": "zenox69/ZenMCPRoblox",
+  "source_url": "https://github.com/zenox69/ZenMCPRoblox",
+  "install": "# git clone --depth 1 https://github.com/zenox69/ZenMCPRoblox\n# See source for mcpServers config block"
+}

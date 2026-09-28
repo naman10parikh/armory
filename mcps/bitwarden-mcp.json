@@ -1,0 +1,7 @@
+{
+  "name": "bitwarden-mcp",
+  "description": "MCP server that exposes Bitwarden's Public API for organization member and vault group management, enabling inviting members and assigning them to vault groups. Supports stateless, multi-tenant authentication via gateway mode or env-based credentials.",
+  "source_repo": "MSPbotsAI/bitwarden-mcp",
+  "source_url": "https://github.com/MSPbotsAI/bitwarden-mcp",
+  "install": "npx -y bitwarden-mcp"
+}

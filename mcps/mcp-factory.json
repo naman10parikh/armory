@@ -1,0 +1,7 @@
+{
+  "name": "mcp-factory",
+  "description": "An extensible Model Context Protocol server framework with a plugin architecture, enabling easy addition of API services like the bundled NASA APOD tools for astronomy content.",
+  "source_repo": "decagondev/MCP-Factory",
+  "source_url": "https://github.com/decagondev/MCP-Factory",
+  "install": "# git clone --depth 1 https://github.com/decagondev/MCP-Factory\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-feast",
+  "description": "Enables LLMs to inspect and interact with a local Feast feature store through MCP tools, including listing feature views and services, resolving entities, checking freshness, explaining feature values, and optionally pushing swipes or triggering materialization.",
+  "source_repo": "sidbu546/mcp_feast_dev",
+  "source_url": "https://github.com/sidbu546/mcp_feast_dev",
+  "install": "# git clone --depth 1 https://github.com/sidbu546/mcp_feast_dev\n# See source for mcpServers config block"
+}

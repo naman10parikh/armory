@@ -1,0 +1,7 @@
+{
+  "name": "tokenlite-mysql-mcp",
+  "description": "Secure and token-efficient MySQL MCP server built specifically for AI agents. Prevents hallucinations, optimizes context windows and blocks dangerous queries.",
+  "source_repo": "andezdev/tokenlite-mysql-mcp",
+  "source_url": "https://github.com/andezdev/tokenlite-mysql-mcp",
+  "install": "npx -y tokenlite-mysql-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "red-hat-api-mcp-server",
+  "description": "Integrates with Red Hat APIs to enable searching Knowledge Centered Support (KCS) solutions, retrieving solution details, searching support cases, and obtaining case details through LLM applications.",
+  "source_repo": "bbalakriz/rh-kcs-mcp",
+  "source_url": "https://github.com/bbalakriz/rh-kcs-mcp",
+  "install": "npx -y rh-kcs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "x402-trust-scores",
+  "description": "x402-trust gives AI agents a \"check before you pay\" layer for the x402 ecosystem.",
+  "source_repo": "JonasFuchss/x402-trust-mcp",
+  "source_url": "https://github.com/JonasFuchss/x402-trust-mcp",
+  "install": "npx -y x402-trust-mcp"
+}

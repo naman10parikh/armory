@@ -1,0 +1,7 @@
+{
+  "name": "pm-governance-mcp-server",
+  "description": "Enables AI-assisted project management governance across 8 domains including projects, RAID, scope, people, time, cost, meetings, and administration through 51 MCP tools.",
+  "source_repo": "SaiSharan2005/MCP-Office",
+  "source_url": "https://github.com/SaiSharan2005/MCP-Office",
+  "install": "# git clone --depth 1 https://github.com/SaiSharan2005/MCP-Office\n# See source for mcpServers config block"
+}

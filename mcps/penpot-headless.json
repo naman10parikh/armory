@@ -1,0 +1,7 @@
+{
+  "name": "penpot-headless",
+  "description": "A portable MCP server for headless Penpot project/file/content management, using Penpot's RPC API directly. No browser, no Penpot plugin session.",
+  "source_repo": "tvolodi/penpot-mcp",
+  "source_url": "https://github.com/tvolodi/penpot-mcp",
+  "install": "npx -y penpot-mcp"
+}

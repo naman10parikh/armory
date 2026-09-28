@@ -1,0 +1,7 @@
+{
+  "name": "llm-bus",
+  "description": "MCP server that provides a live coordination layer for AI agents, including attributable handoffs, a shared event ledger, atomic work-claiming, and advisory file leases to prevent collisions.",
+  "source_repo": "danieldoderlein/llm-bus",
+  "source_url": "https://github.com/danieldoderlein/llm-bus",
+  "install": "# git clone --depth 1 https://github.com/danieldoderlein/llm-bus\n# See source for mcpServers config block"
+}

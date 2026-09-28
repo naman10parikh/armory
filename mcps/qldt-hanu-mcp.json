@@ -1,0 +1,7 @@
+{
+  "name": "qldt-hanu-mcp",
+  "description": "MCP server for the QLDT HANU student management system, enabling AI assistants to authenticate and interact with the Hanoi University portal.",
+  "source_repo": "qxbao/qldt-hanu-mcp",
+  "source_url": "https://github.com/qxbao/qldt-hanu-mcp",
+  "install": "npx -y qldt-hanu-mcp"
+}

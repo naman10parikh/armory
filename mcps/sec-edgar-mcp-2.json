@@ -1,0 +1,7 @@
+{
+  "name": "sec-edgar-mcp-2",
+  "description": "Hosted MCP server that gives AI agents real-time access to SEC EDGAR filings search, 10-K/8-K reading, XBRL financial facts, and insider-trade (Form 4) alerts.",
+  "source_repo": "guptaprakhariitr/sec-edgar-mcp",
+  "source_url": "https://github.com/guptaprakhariitr/sec-edgar-mcp",
+  "install": "npx -y sec-edgar-mcp"
+}

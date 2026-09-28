@@ -1,0 +1,7 @@
+{
+  "name": "metacode-sci",
+  "description": "Provides read-only, offline MCP tools to find papers' own code, method chains, and evidence boundaries from a curated knowledge bundle, without executing candidate code or contacting the network.",
+  "source_repo": "xiaojinlucky/Meta-CodeGraph",
+  "source_url": "https://github.com/xiaojinlucky/Meta-CodeGraph",
+  "install": "# git clone --depth 1 https://github.com/xiaojinlucky/Meta-CodeGraph\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "taproot-mcp",
+  "description": "Enables managing SSH-managed clusters with tools for executing commands, file operations, and tmux sessions across multiple nodes.",
+  "source_repo": "xiaoxiao27110/taproot",
+  "source_url": "https://github.com/xiaoxiao27110/taproot",
+  "install": "# git clone --depth 1 https://github.com/xiaoxiao27110/taproot\n# See source for mcpServers config block"
+}

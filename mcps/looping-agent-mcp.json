@@ -1,0 +1,7 @@
+{
+  "name": "looping-agent-mcp",
+  "description": "Turns a manager's plain-English goal into a verified, looped, watchable build run driven by the IDE's agent, without SDK.",
+  "source_repo": "ShreyasBidwai/AI_Loop_MCP",
+  "source_url": "https://github.com/ShreyasBidwai/AI_Loop_MCP",
+  "install": "npx -y AI_Loop_MCP"
+}

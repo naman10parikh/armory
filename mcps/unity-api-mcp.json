@@ -1,0 +1,7 @@
+{
+  "name": "unity-api-mcp",
+  "description": "MCP server providing accurate Unity API documentation to prevent AI agents from hallucinating signatures, namespaces, and deprecated usage.",
+  "source_repo": "Codeturion/unity-api-mcp",
+  "source_url": "https://github.com/Codeturion/unity-api-mcp",
+  "install": "npx -y unity-api-mcp"
+}

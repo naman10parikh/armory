@@ -1,0 +1,7 @@
+{
+  "name": "redis-guard-mcp",
+  "description": "Enables safe, read-only interaction with Redis databases via cursor-based tools for retrieving keys, hashes, lists, sets, and sorted sets, backed by ACL DRYRUN-verified privilege checks.",
+  "source_repo": "BerkantACUN/redis-guard-mcp",
+  "source_url": "https://github.com/BerkantACUN/redis-guard-mcp",
+  "install": "npx -y redis-guard-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "floors-live-mcp-server",
+  "description": "MCP server for Floors.live that lets AI assistants create events, design floorplans, manage guest lists, and run intelligent seating assignments.",
+  "source_repo": "Hakolsound/floors-mcp-server",
+  "source_url": "https://github.com/Hakolsound/floors-mcp-server",
+  "install": "npx -y floors-mcp-server"
+}

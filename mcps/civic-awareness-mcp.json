@@ -1,0 +1,7 @@
+{
+  "name": "civic-awareness-mcp",
+  "description": "Provides tools to search and retrieve US federal and state legislative data, including bills, votes, campaign contributions, and legislator information, with provenance tracking.",
+  "source_repo": "julianken/civic-awareness-mcp",
+  "source_url": "https://github.com/julianken/civic-awareness-mcp",
+  "install": "npx -y civic-awareness-mcp"
+}

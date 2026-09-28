@@ -1,0 +1,7 @@
+{
+  "name": "mcp-metacritic",
+  "description": "MCP server for Metacritic that enables searching films, shows, and games, retrieving Metascores and audience scores, and accessing critic reviews with publication details and links, all without requiring an API key.",
+  "source_repo": "smeet666/mcp-metacritic",
+  "source_url": "https://github.com/smeet666/mcp-metacritic",
+  "install": "# git clone --depth 1 https://github.com/smeet666/mcp-metacritic\n# See source for mcpServers config block"
+}

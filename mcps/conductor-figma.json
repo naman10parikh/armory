@@ -1,0 +1,7 @@
+{
+  "name": "conductor-figma",
+  "description": "A design-intelligent MCP server for Figma with 201 tools and built-in design rules, works with Cursor and Claude Code.",
+  "source_repo": "lama-assaf/conductor-figma",
+  "source_url": "https://github.com/lama-assaf/conductor-figma",
+  "install": "# git clone --depth 1 https://github.com/lama-assaf/conductor-figma\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "modellix-agent-canvas",
+  "description": "A local stdio MCP server for visual AI work, offering an Excalidraw infinite canvas, image generation and editing, HTML drafts, presentations, and durable task recovery within a project workspace.",
+  "source_repo": "Modellix/modellix-agent-canvas",
+  "source_url": "https://github.com/Modellix/modellix-agent-canvas",
+  "install": "# git clone --depth 1 https://github.com/Modellix/modellix-agent-canvas\n# See source for mcpServers config block"
+}

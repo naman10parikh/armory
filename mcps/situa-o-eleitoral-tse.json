@@ -1,0 +1,7 @@
+{
+  "name": "situa-o-eleitoral-tse",
+  "description": "Enables querying a person's electoral situation in Brazil (TSE) using name, birth date, CPF and voter ID. Allows checking if the voter registration is regular or irregular.",
+  "source_repo": "mcp-dir/situacao_eleitoral-mcp",
+  "source_url": "https://github.com/mcp-dir/situacao_eleitoral-mcp",
+  "install": "npx -y situacao_eleitoral-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "network-monitor-mcp-server",
+  "description": "Provides network monitoring capabilities including real-time latency measurement, ping sweeps, and subnet scanning via MCP tools, with a companion web dashboard for live visualization.",
+  "source_repo": "tecnomanu/network-mcp",
+  "source_url": "https://github.com/tecnomanu/network-mcp",
+  "install": "npx -y network-mcp"
+}

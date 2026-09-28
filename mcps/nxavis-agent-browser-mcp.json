@@ -1,0 +1,7 @@
+{
+  "name": "nxavis-agent-browser-mcp",
+  "description": "A Model Context Protocol (MCP) server that provides browser automation capabilities through Vercel's agent-browser, enabling LLMs to interact with web pages using a fast Rust CLI with Node.js fallback.",
+  "source_repo": "softallice/agent-browser-mcp",
+  "source_url": "https://github.com/softallice/agent-browser-mcp",
+  "install": "npx -y agent-browser-mcp"
+}

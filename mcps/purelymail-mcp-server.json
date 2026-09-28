@@ -1,0 +1,7 @@
+{
+  "name": "purelymail-mcp-server",
+  "description": "Provides AI assistants with access to PurelyMail's email management API, enabling user, domain, routing, and billing management through natural language.",
+  "source_repo": "gui-wf/purelymail-mcp-server",
+  "source_url": "https://github.com/gui-wf/purelymail-mcp-server",
+  "install": "npx -y purelymail-mcp-server"
+}

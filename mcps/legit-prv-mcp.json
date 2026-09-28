@@ -1,0 +1,7 @@
+{
+  "name": "legit-prv-mcp",
+  "description": "MCP server for Legit Security that answers questions about security issues, Actions, inventory, posture, and platform usage across one or multiple tenants.",
+  "source_repo": "diegolegitsec/mcp-internal",
+  "source_url": "https://github.com/diegolegitsec/mcp-internal",
+  "install": "# git clone --depth 1 https://github.com/diegolegitsec/mcp-internal\n# See source for mcpServers config block"
+}

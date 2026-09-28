@@ -1,0 +1,7 @@
+{
+  "name": "binance-trading-agent-mcp-server",
+  "description": "Connects LLM agents to Binance Spot API for safe market data access and testnet trading with built-in risk controls.",
+  "source_repo": "Axmetov999/binance-trading-agent-mcp",
+  "source_url": "https://github.com/Axmetov999/binance-trading-agent-mcp",
+  "install": "npx -y binance-trading-agent-mcp"
+}

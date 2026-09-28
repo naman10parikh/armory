@@ -1,0 +1,7 @@
+{
+  "name": "octav-api-mcp-server",
+  "description": "MCP server for querying cryptocurrency portfolio data, transaction history, net worth, and historical snapshots across 20+ blockchains via the Octav API.",
+  "source_repo": "Octav-Labs/octav-api-mcp",
+  "source_url": "https://github.com/Octav-Labs/octav-api-mcp",
+  "install": "npx -y octav-api-mcp"
+}

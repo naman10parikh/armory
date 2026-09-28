@@ -1,0 +1,7 @@
+{
+  "name": "itin-finance-mcp",
+  "description": "Read-only MCP server for the ITIN finance network, providing a verified institution directory, editorial guides, FAQs, and state-level context for ITIN holders seeking loans and credit cards.",
+  "source_repo": "bguillow-rgb/itin-finance-mcp",
+  "source_url": "https://github.com/bguillow-rgb/itin-finance-mcp",
+  "install": "npx -y itin-finance-mcp"
+}

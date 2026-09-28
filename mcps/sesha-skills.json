@@ -1,0 +1,7 @@
+{
+  "name": "sesha-skills",
+  "description": "A stdio MCP server providing everyday tools and Markdown skills for the Sesha agent, enabling notes, web research, coding, docs, scheduling, and safety/governance.",
+  "source_repo": "gaganjainse/shesha-skills",
+  "source_url": "https://github.com/gaganjainse/shesha-skills",
+  "install": "# git clone --depth 1 https://github.com/gaganjainse/shesha-skills\n# See source for mcpServers config block"
+}

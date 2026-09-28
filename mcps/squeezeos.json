@@ -1,0 +1,7 @@
+{
+  "name": "squeezeos",
+  "description": "SqueezeOS — The premier Institutional AI Trading Intelligence and Real-World Data Oracle for autonomous agents. Features: - **Council Verdict**: Get institutional-grade BUY/SELL/HOLD directives across the US equity market based on 8 proprietary engines (options flow, dark pool accumulation, Gamma/VP",
+  "source_repo": "",
+  "source_url": "https://squeezeos-api.onrender.com",
+  "install": "# git clone --depth 1 https://squeezeos-api.onrender.com\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "angular-pr-review-mcp",
+  "description": "Enables automated pull-request review workflows for Angular repositories by providing tools to generate, read, and save diffs, and to fetch review templates.",
+  "source_repo": "chetanraj-r/angular-pr-review-mcp",
+  "source_url": "https://github.com/chetanraj-r/angular-pr-review-mcp",
+  "install": "npx -y angular-pr-review-mcp"
+}

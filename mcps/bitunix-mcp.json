@@ -1,0 +1,7 @@
+{
+  "name": "bitunix-mcp",
+  "description": "Enables Claude Code to trade on BitUnix exchange via the MCP protocol, supporting futures and spot trading with advanced order management, leverage, and TP/SL.",
+  "source_repo": "LuiInventions/Bitunix-MCP",
+  "source_url": "https://github.com/LuiInventions/Bitunix-MCP",
+  "install": "npx -y Bitunix-MCP"
+}

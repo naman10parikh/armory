@@ -1,0 +1,7 @@
+{
+  "name": "bq-mcp-server",
+  "description": "A Python MCP server that retrieves and caches BigQuery metadata (datasets, tables, columns) and enables secure SQL query execution with cost control, file export, and keyword search.",
+  "source_repo": "takada-at/bq_mcp_server",
+  "source_url": "https://github.com/takada-at/bq_mcp_server",
+  "install": "npx -y bq_mcp_server"
+}

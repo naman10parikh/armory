@@ -1,0 +1,7 @@
+{
+  "name": "mcp-discord-forum",
+  "description": "Enables posting and managing topics in Discord forum channels, including creating posts, replying, listing posts, and retrieving messages.",
+  "source_repo": "LucasMonteiro1/mcp-discord-forum",
+  "source_url": "https://github.com/LucasMonteiro1/mcp-discord-forum",
+  "install": "# git clone --depth 1 https://github.com/LucasMonteiro1/mcp-discord-forum\n# See source for mcpServers config block"
+}

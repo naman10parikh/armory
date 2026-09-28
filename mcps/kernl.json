@@ -1,0 +1,7 @@
+{
+  "name": "kernl",
+  "description": "A self-hosted MCP server that provides any LLM with a graph-backed memory layer of your life—tasks, email, finance, contacts, calendar—plus autonomous agent offices that act on your behalf.",
+  "source_repo": "fastslack/kernl",
+  "source_url": "https://github.com/fastslack/kernl",
+  "install": "# git clone --depth 1 https://github.com/fastslack/kernl\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "postal-lookup-mcp",
+  "description": "MCP server that resolves postal/ZIP codes to place names, states, and coordinates using Zippopotam.us. Free, no API key required.",
+  "source_repo": "Lulu-The-Narwhal/postal-lookup-mcp",
+  "source_url": "https://github.com/Lulu-The-Narwhal/postal-lookup-mcp",
+  "install": "npx -y postal-lookup-mcp"
+}

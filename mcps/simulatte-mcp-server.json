@@ -1,0 +1,7 @@
+{
+  "name": "simulatte-mcp-server",
+  "description": "Enables running Simulatte's 26 research SKUs (concept testing, pricing, etc.) from any MCP-compatible AI client, returning structured JSON results.",
+  "source_repo": "Iqbalahmed7/simulatte-mcp-server",
+  "source_url": "https://github.com/Iqbalahmed7/simulatte-mcp-server",
+  "install": "npx -y simulatte-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "labby",
+  "description": "Labby is a Rust-based MCP gateway that connects and aggregates multiple upstream MCP servers, with authentication, Code Mode (JavaScript snippets), and an operator web UI.",
+  "source_repo": "dinglebear-ai/labby",
+  "source_url": "https://github.com/dinglebear-ai/labby",
+  "install": "# git clone --depth 1 https://github.com/dinglebear-ai/labby\n# See source for mcpServers config block"
+}

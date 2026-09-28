@@ -1,0 +1,7 @@
+{
+  "name": "ai-cv-builder-mcp",
+  "description": "MCP server for AI-powered CV building, offering tools to create professional CVs, improve sections, match skills to jobs, and recommend skills.",
+  "source_repo": "fatimaiqbal34/AI-CV-Builder-MCP",
+  "source_url": "https://github.com/fatimaiqbal34/AI-CV-Builder-MCP",
+  "install": "npx -y AI-CV-Builder-MCP"
+}

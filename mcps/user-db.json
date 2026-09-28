@@ -1,0 +1,7 @@
+{
+  "name": "user-db",
+  "description": "Central user-state database MCP server with durable profile facts and live virtual sensors (stress, room intensity) with configurable smoothing, readable by any agent or smart-home service.",
+  "source_repo": "NG-Bullseye/user-db",
+  "source_url": "https://github.com/NG-Bullseye/user-db",
+  "install": "# git clone --depth 1 https://github.com/NG-Bullseye/user-db\n# See source for mcpServers config block"
+}

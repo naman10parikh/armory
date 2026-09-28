@@ -1,0 +1,7 @@
+{
+  "name": "backendmax",
+  "description": "AI-powered backend diagnostics MCP server that statically analyzes frontend and backend code to catch cross-boundary bugs, contract drift, missing validation, security gaps, and performance anti-patterns before deployment.",
+  "source_repo": "rish-e/BackendMax",
+  "source_url": "https://github.com/rish-e/BackendMax",
+  "install": "# git clone --depth 1 https://github.com/rish-e/BackendMax\n# See source for mcpServers config block"
+}

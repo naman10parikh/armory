@@ -1,0 +1,7 @@
+{
+  "name": "blacksmith-usage-mcp",
+  "description": "A local MCP server that exposes Blacksmith.sh's usage and cost data, enabling queries for CI spend through agents, alerts, or dashboards.",
+  "source_repo": "dholliday3/blacksmith-usage-mcp",
+  "source_url": "https://github.com/dholliday3/blacksmith-usage-mcp",
+  "install": "npx -y blacksmith-usage-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "n3memorycore-mcp-lite-ephemeral",
+  "description": "Provides ephemeral hybrid (vector + BM25) memory for MCP-compatible editors, enabling AI to save and search conversation and code context across sessions with automatic semantic search and context injection.",
+  "source_repo": "NeuralNexusNote/n3mcmcp-lite",
+  "source_url": "https://github.com/NeuralNexusNote/n3mcmcp-lite",
+  "install": "# git clone --depth 1 https://github.com/NeuralNexusNote/n3mcmcp-lite\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pollinations-mcp-server",
+  "description": "Enables AI agents to generate images and text using Pollinations.ai, with SSE support for n8n workflows.",
+  "source_repo": "jpbester/pollinations-mcp-server",
+  "source_url": "https://github.com/jpbester/pollinations-mcp-server",
+  "install": "npx -y pollinations-mcp-server"
+}

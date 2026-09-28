@@ -1,0 +1,7 @@
+{
+  "name": "data-filter-mcp",
+  "description": "Local MCP server that registers restricted Python filters and runs them against local JSON, YAML, and TXT files, enabling safe data filtering and file conversion.",
+  "source_repo": "alxark/data-filter-mcp",
+  "source_url": "https://github.com/alxark/data-filter-mcp",
+  "install": "npx -y data-filter-mcp"
+}

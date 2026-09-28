@@ -1,0 +1,7 @@
+{
+  "name": "brahm",
+  "description": "Enables automating materials science research workflows through a multi-agent AI platform, including literature discovery, knowledge extraction, simulation, and document generation.",
+  "source_repo": "Shardul-collab/BRAHM-MCP",
+  "source_url": "https://github.com/Shardul-collab/BRAHM-MCP",
+  "install": "npx -y BRAHM-MCP"
+}

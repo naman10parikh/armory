@@ -1,6 +1,6 @@
 {
   "name": "mcp-sample",
-  "description": "Mcp Sample MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "pxdsgnco/mcp-sample",
   "source_url": "https://mcp.so/server/mcp-sample/pxdsgnco",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-sample/pxdsgnco\n# See source for mcpServers config block"

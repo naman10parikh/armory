@@ -1,0 +1,7 @@
+{
+  "name": "sms-web2sms-mcp-server",
+  "description": "Enables sending SMS messages and checking delivery status and credit balance via the web2sms.ro Romanian SMS gateway.",
+  "source_repo": "Pibot-Dev/sms-web2sms-mcp-server",
+  "source_url": "https://github.com/Pibot-Dev/sms-web2sms-mcp-server",
+  "install": "npx -y sms-web2sms-mcp-server"
+}

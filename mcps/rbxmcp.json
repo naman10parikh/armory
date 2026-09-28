@@ -1,0 +1,7 @@
+{
+  "name": "rbxmcp",
+  "description": "Provides Roblox game inspection and manipulation capabilities through MCP, including exploring the instance hierarchy, editing properties, decompiling scripts, and interacting with remote events.",
+  "source_repo": "xrimce/rbxmcp",
+  "source_url": "https://github.com/xrimce/rbxmcp",
+  "install": "# git clone --depth 1 https://github.com/xrimce/rbxmcp\n# See source for mcpServers config block"
+}

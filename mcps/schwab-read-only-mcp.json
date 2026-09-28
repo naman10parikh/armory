@@ -1,0 +1,7 @@
+{
+  "name": "schwab-read-only-mcp",
+  "description": "MCP server for read-only access to Charles Schwab market data and account information. It provides quotes, price history, technical indicators, fundamentals, option chains, market hours, movers, and account/transaction data via the official Schwab API.",
+  "source_repo": "chensirui2008/schwab-readonly-mcp",
+  "source_url": "https://github.com/chensirui2008/schwab-readonly-mcp",
+  "install": "npx -y schwab-readonly-mcp"
+}

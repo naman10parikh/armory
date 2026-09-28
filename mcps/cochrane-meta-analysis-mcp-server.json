@@ -1,0 +1,7 @@
+{
+  "name": "cochrane-meta-analysis-mcp-server",
+  "description": "Enables AI-assisted meta-analysis workflows following Cochrane methodological standards, including importing RevMan data, validation, meta-analysis, forest plots, publication bias assessment, and report generation.",
+  "source_repo": "matheus-rech/meta-mcp",
+  "source_url": "https://github.com/matheus-rech/meta-mcp",
+  "install": "npx -y meta-mcp"
+}

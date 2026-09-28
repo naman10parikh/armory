@@ -1,0 +1,7 @@
+{
+  "name": "multi-llm-mcp",
+  "description": "Enables IDE agents to delegate coding tasks to any LLM provider — cloud APIs like NVIDIA NIM, OpenRouter, Groq, DeepSeek or local Ollama models — through a unified MCP interface.",
+  "source_repo": "arjunkr303/multi-llm-mcp",
+  "source_url": "https://github.com/arjunkr303/multi-llm-mcp",
+  "install": "npx -y multi-llm-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fubon-mcp-server",
+  "description": "MCP server for Fubon Securities, providing comprehensive Taiwan stock trading and market data query capabilities.",
+  "source_repo": "Mofesto/fubon-api-mcp-server",
+  "source_url": "https://github.com/Mofesto/fubon-api-mcp-server",
+  "install": "npx -y fubon-api-mcp-server"
+}

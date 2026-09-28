@@ -1,0 +1,7 @@
+{
+  "name": "oyama-opendata-mcp",
+  "description": "Read-only MCP server providing population and age distribution data for Oyama City, Japan, enabling AI clients like Claude to query and analyze open data.",
+  "source_repo": "bishi-eava/oyama-opendata-mcp",
+  "source_url": "https://github.com/bishi-eava/oyama-opendata-mcp",
+  "install": "npx -y oyama-opendata-mcp"
+}

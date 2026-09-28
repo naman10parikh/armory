@@ -1,0 +1,7 @@
+{
+  "name": "brazilian-dev-mcp",
+  "description": "MCP server with tools for Brazilian data like CPF, CNPJ, CEP validation and generation, and currency quotes.",
+  "source_repo": "dan94k/brazilian-dev-mcp",
+  "source_url": "https://github.com/dan94k/brazilian-dev-mcp",
+  "install": "npx -y brazilian-dev-mcp"
+}

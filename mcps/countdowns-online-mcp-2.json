@@ -1,0 +1,7 @@
+{
+  "name": "countdowns-online-mcp-2",
+  "description": "Enables AI clients to retrieve verified countdown event dates, semantics, and FAQ from Countdowns Online, allowing users to browse event categories and understand date contexts without API keys.",
+  "source_repo": "Rocniubi/countdowns-online-mcp",
+  "source_url": "https://github.com/Rocniubi/countdowns-online-mcp",
+  "install": "npx -y countdowns-online-mcp"
+}

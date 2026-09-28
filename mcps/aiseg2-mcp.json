@@ -1,0 +1,7 @@
+{
+  "name": "aiseg2-mcp",
+  "description": "An unofficial read-only MCP server for Panasonic AiSEG2 home energy management controllers, enabling clients to read live power flow, per-circuit consumption, circuit names, daily totals, and historical energy/cost data from the device's local web interface.",
+  "source_repo": "chanyou0311/aiseg2-mcp",
+  "source_url": "https://github.com/chanyou0311/aiseg2-mcp",
+  "install": "npx -y aiseg2-mcp"
+}

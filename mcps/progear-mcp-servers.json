@@ -1,0 +1,7 @@
+{
+  "name": "progear-mcp-servers",
+  "description": "MCP gateway demo for basketball equipment, exposing inventory, customer, sales, and pricing tools with Okta-scoped auth.",
+  "source_repo": "prashanthambalavanan-okta/progear-mcp-servers",
+  "source_url": "https://github.com/prashanthambalavanan-okta/progear-mcp-servers",
+  "install": "# git clone --depth 1 https://github.com/prashanthambalavanan-okta/progear-mcp-servers\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "karate-mcp-server",
+  "description": "Provides AI agents with comprehensive knowledge of the Karate DSL framework for API testing, UI automation, and performance testing.",
+  "source_repo": "vspaswin/karate-mcp-server",
+  "source_url": "https://github.com/vspaswin/karate-mcp-server",
+  "install": "npx -y karate-mcp-server"
+}

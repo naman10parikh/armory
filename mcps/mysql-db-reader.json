@@ -1,0 +1,7 @@
+{
+  "name": "mysql-db-reader",
+  "description": "Read-only MySQL database access via MCP. Enables listing databases, tables, schemas, running SELECT queries, and EXPLAIN plans.",
+  "source_repo": "riefer02/mysql-db-reader",
+  "source_url": "https://github.com/riefer02/mysql-db-reader",
+  "install": "# git clone --depth 1 https://github.com/riefer02/mysql-db-reader\n# See source for mcpServers config block"
+}

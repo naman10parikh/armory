@@ -1,0 +1,7 @@
+{
+  "name": "youmind-mcp",
+  "description": "Bridges YouMind content to AI assistants via MCP, enabling retrieval of craft content by ID.",
+  "source_repo": "NoSugarCoffee/youmind-mcp",
+  "source_url": "https://github.com/NoSugarCoffee/youmind-mcp",
+  "install": "npx -y youmind-mcp"
+}

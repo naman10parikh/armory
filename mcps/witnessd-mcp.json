@@ -1,0 +1,7 @@
+{
+  "name": "witnessd-mcp",
+  "description": "MCP server for witnessd, enabling agents to create tamper-evident, signed, and Merkle-anchored certificates of any public URL or API response at a moment in time.",
+  "source_repo": "jschunter/witnessd-mcp",
+  "source_url": "https://github.com/jschunter/witnessd-mcp",
+  "install": "npx -y witnessd-mcp"
+}

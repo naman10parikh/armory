@@ -1,0 +1,7 @@
+{
+  "name": "adt-mcp-server",
+  "description": "Connects to SAP ABAP Development Tools (ADT) via MCP, enabling AI assistants to manage SAP systems through natural language.",
+  "source_repo": "rohitvardhanbattula/MCP_Server_ADT",
+  "source_url": "https://github.com/rohitvardhanbattula/MCP_Server_ADT",
+  "install": "# git clone --depth 1 https://github.com/rohitvardhanbattula/MCP_Server_ADT\n# See source for mcpServers config block"
+}

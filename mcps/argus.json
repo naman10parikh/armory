@@ -1,0 +1,7 @@
+{
+  "name": "argus",
+  "description": "An agentic QA framework that authors, generates, triages, and self-heals Playwright tests for any web app, usable from Claude Code/Desktop as an MCP server or from CI as a CLI.",
+  "source_repo": "piyushpathakqa/argus",
+  "source_url": "https://github.com/piyushpathakqa/argus",
+  "install": "# git clone --depth 1 https://github.com/piyushpathakqa/argus\n# See source for mcpServers config block"
+}

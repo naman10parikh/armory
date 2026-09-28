@@ -1,0 +1,7 @@
+{
+  "name": "proxmox-monitor",
+  "description": "Provides read-only Proxmox cluster oversight and configuration compliance checks through MCP, covering health, inventory, storage, backups, snapshots, and updates.",
+  "source_repo": "JohnGilligan2/proxmox-mcp",
+  "source_url": "https://github.com/JohnGilligan2/proxmox-mcp",
+  "install": "npx -y proxmox-mcp"
+}

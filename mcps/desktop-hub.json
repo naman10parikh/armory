@@ -1,0 +1,7 @@
+{
+  "name": "desktop-hub",
+  "description": "A compact facade MCP server for macOS desktop automation, lazily proxying to full-featured computer-use tools to save context tokens while enabling screenshots, window control, app launching, and AppleScript execution.",
+  "source_repo": "zty552252kevin-code/desktop-hub",
+  "source_url": "https://github.com/zty552252kevin-code/desktop-hub",
+  "install": "# git clone --depth 1 https://github.com/zty552252kevin-code/desktop-hub\n# See source for mcpServers config block"
+}

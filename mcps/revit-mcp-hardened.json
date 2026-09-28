@@ -1,0 +1,7 @@
+{
+  "name": "revit-mcp-hardened",
+  "description": "Hardened MCP server for Autodesk Revit enabling LLMs to inspect and manipulate Revit models via pyRevit, with token authentication and capability profiles.",
+  "source_repo": "elkhouryrafik-boop/revit-mcp-hardened",
+  "source_url": "https://github.com/elkhouryrafik-boop/revit-mcp-hardened",
+  "install": "# git clone --depth 1 https://github.com/elkhouryrafik-boop/revit-mcp-hardened\n# See source for mcpServers config block"
+}

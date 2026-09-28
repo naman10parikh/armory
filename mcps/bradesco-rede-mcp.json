@@ -1,0 +1,7 @@
+{
+  "name": "bradesco-rede-mcp",
+  "description": "MCP server for real-time querying of the Bradesco Saude referenced network, exposing a search_providers tool to search for doctors, hospitals, clinics, and labs.",
+  "source_repo": "fbsampaio/bradesco-rede-mcp",
+  "source_url": "https://github.com/fbsampaio/bradesco-rede-mcp",
+  "install": "npx -y bradesco-rede-mcp"
+}

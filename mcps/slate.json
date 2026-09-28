@@ -1,0 +1,7 @@
+{
+  "name": "slate",
+  "description": "Enables AI agents to read and write to an iPad whiteboard via MCP, including structured elements, handwritten text, and image rendering.",
+  "source_repo": "giveme11us/slate",
+  "source_url": "https://github.com/giveme11us/slate",
+  "install": "# git clone --depth 1 https://github.com/giveme11us/slate\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bettermemory",
+  "description": "An MCP memory server for coding agents that checks stored facts against the filesystem and git before relying on them, flagging stale memories.",
+  "source_repo": "0Mattias/bettermemory",
+  "source_url": "https://github.com/0Mattias/bettermemory",
+  "install": "# git clone --depth 1 https://github.com/0Mattias/bettermemory\n# See source for mcpServers config block"
+}

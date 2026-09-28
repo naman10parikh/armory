@@ -1,0 +1,7 @@
+{
+  "name": "timelog-mcp",
+  "description": "A localhost server that enables Claude to administer a firm's TimeLog account via the TimeLog REST API, allowing natural language project management and resource planning.",
+  "source_repo": "Ingholt-Consult/timelog-mcp",
+  "source_url": "https://github.com/Ingholt-Consult/timelog-mcp",
+  "install": "npx -y timelog-mcp"
+}

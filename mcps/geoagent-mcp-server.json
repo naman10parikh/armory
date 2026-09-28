@@ -1,0 +1,7 @@
+{
+  "name": "geoagent-mcp-server",
+  "description": "Exposes tools and resources for human-supervised geological modelling from borehole data, including validation, 3D implicit model construction with GemPy, and uncertainty analysis, with a deterministic audit trail.",
+  "source_repo": "sattarroudini/geoagent-mvp",
+  "source_url": "https://github.com/sattarroudini/geoagent-mvp",
+  "install": "# git clone --depth 1 https://github.com/sattarroudini/geoagent-mvp\n# See source for mcpServers config block"
+}

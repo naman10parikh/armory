@@ -1,0 +1,7 @@
+{
+  "name": "bim-change-engine",
+  "description": "Provides a change-intelligence layer for BIM models, enabling diff analysis of Speckle versions with persona-specific lenses (coordination, cost, field) and a groundedness contract that separates verified facts from inferred impacts.",
+  "source_repo": "rishibajaj-Prodman/bim-change-engine",
+  "source_url": "https://github.com/rishibajaj-Prodman/bim-change-engine",
+  "install": "# git clone --depth 1 https://github.com/rishibajaj-Prodman/bim-change-engine\n# See source for mcpServers config block"
+}

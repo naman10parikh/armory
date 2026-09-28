@@ -1,0 +1,7 @@
+{
+  "name": "codemodekit",
+  "description": "Enables building safe, programmable Code Mode MCP servers from upstream tool sources, with model-authored TypeScript running in a sandbox and tool calls routed to trusted host-side providers.",
+  "source_repo": "stjbrown/codemodekit",
+  "source_url": "https://github.com/stjbrown/codemodekit",
+  "install": "# git clone --depth 1 https://github.com/stjbrown/codemodekit\n# See source for mcpServers config block"
+}

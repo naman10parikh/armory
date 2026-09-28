@@ -1,0 +1,7 @@
+{
+  "name": "agenthelm",
+  "description": "Shared, versioned memory and governance control plane for AI coding agents. Compiler pipeline resolves architectural decision conflicts across Claude Code, Cursor, and custom agent fleets.",
+  "source_repo": "jayasukuv11-beep/agenthelm",
+  "source_url": "https://github.com/jayasukuv11-beep/agenthelm",
+  "install": "# git clone --depth 1 https://github.com/jayasukuv11-beep/agenthelm\n# See source for mcpServers config block"
+}

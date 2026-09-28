@@ -1,0 +1,7 @@
+{
+  "name": "realtystack-mcp",
+  "description": "A remote MCP connector for the RealtyStack API, enabling property record search, AVM sale/rent estimates, and active listing lookups through MCP tools.",
+  "source_repo": "IsaiahDupree/realtystack-mcp",
+  "source_url": "https://github.com/IsaiahDupree/realtystack-mcp",
+  "install": "npx -y realtystack-mcp"
+}

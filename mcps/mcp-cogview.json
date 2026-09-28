@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cogview",
+  "description": "MCP server for generating images via Zhipu CogView, supporting synchronous and asynchronous generation with progress notifications, plus health check endpoints.",
+  "source_repo": "Superlittlemy/image_mcp",
+  "source_url": "https://github.com/Superlittlemy/image_mcp",
+  "install": "npx -y image_mcp"
+}

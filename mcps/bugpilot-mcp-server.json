@@ -1,0 +1,7 @@
+{
+  "name": "bugpilot-mcp-server",
+  "description": "Exposes 10 read-only tools for querying synthetic Jira bug data, metrics, trends, and risks via SQLite, enabling AI agents to analyze engineering bugs through a controlled sandboxed interface.",
+  "source_repo": "PS-minalprasad/Bugpilot",
+  "source_url": "https://github.com/PS-minalprasad/Bugpilot",
+  "install": "# git clone --depth 1 https://github.com/PS-minalprasad/Bugpilot\n# See source for mcpServers config block"
+}

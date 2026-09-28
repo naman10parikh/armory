@@ -1,0 +1,7 @@
+{
+  "name": "ai-bounty-board-mcp-server",
+  "description": "Connects Claude and other MCP-compatible AI assistants to the AI Bounty Board, enabling natural language discovery, claiming, and submission of bounties.",
+  "source_repo": "kevi-ai/bounty-mcp-server",
+  "source_url": "https://github.com/kevi-ai/bounty-mcp-server",
+  "install": "npx -y bounty-mcp-server"
+}

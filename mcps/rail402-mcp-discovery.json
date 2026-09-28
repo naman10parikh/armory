@@ -1,0 +1,7 @@
+{
+  "name": "rail402-mcp-discovery",
+  "description": "Enables searching the Bazaar resource catalog and making spend-capped paid calls to x402 endpoints, integrated with Rail402's Stellar payment facilitator.",
+  "source_repo": "tolgayayci/rail402",
+  "source_url": "https://github.com/tolgayayci/rail402",
+  "install": "# git clone --depth 1 https://github.com/tolgayayci/rail402\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pdf4me-mcp",
+  "description": "Enables AI assistants to perform a wide range of PDF processing tasks, including conversion, editing, merging, splitting, OCR, barcode/QR code generation and reading, AI-powered data extraction, and image processing, through the PDF4me API.",
+  "source_repo": "pdf4me/pdf4me-mcp",
+  "source_url": "https://github.com/pdf4me/pdf4me-mcp",
+  "install": "npx -y pdf4me-mcp"
+}

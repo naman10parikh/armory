@@ -1,0 +1,7 @@
+{
+  "name": "fing-mcp-server",
+  "description": "Exposes Fing network devices and presence data to MCP clients over HTTP using both Streamable HTTP and SSE.",
+  "source_repo": "Heartran/fing-mcp-server",
+  "source_url": "https://github.com/Heartran/fing-mcp-server",
+  "install": "npx -y fing-mcp-server"
+}

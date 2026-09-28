@@ -1,0 +1,7 @@
+{
+  "name": "mineru-mcp",
+  "description": "MCP server for parsing PDF, images, and Office documents into Markdown using MinerU, with tools for document parsing and reading previous results.",
+  "source_repo": "Gength/mineru-mcp",
+  "source_url": "https://github.com/Gength/mineru-mcp",
+  "install": "npx -y mineru-mcp"
+}

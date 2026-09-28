@@ -1,0 +1,7 @@
+{
+  "name": "google-ads-library-mcp-server",
+  "description": "Enables users to search the Google Ads Transparency Center for company ads, inspect ad details and variations, analyze images and videos, and compare competitor advertising strategies.",
+  "source_repo": "feno-rsmd/google_ads_library_mcp",
+  "source_url": "https://github.com/feno-rsmd/google_ads_library_mcp",
+  "install": "npx -y google_ads_library_mcp"
+}

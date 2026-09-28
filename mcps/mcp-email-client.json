@@ -1,6 +1,6 @@
 {
   "name": "mcp-email-client",
-  "description": "Mcp Email Client MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "gamalan/mcp-email-client",
   "source_url": "https://mcp.so/server/mcp-email-client/gamalan",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-email-client/gamalan\n# See source for mcpServers config block"

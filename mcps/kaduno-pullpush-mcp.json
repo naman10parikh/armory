@@ -1,0 +1,7 @@
+{
+  "name": "kaduno-pullpush-mcp",
+  "description": "MCP server for PullPush.ai integration sync engine, providing 43 tools to manage connectors, flows, sync operations, diagnostics, and more through the Model Context Protocol.",
+  "source_repo": "Kaduno-systems/pullpush-mcp",
+  "source_url": "https://github.com/Kaduno-systems/pullpush-mcp",
+  "install": "npx -y pullpush-mcp"
+}

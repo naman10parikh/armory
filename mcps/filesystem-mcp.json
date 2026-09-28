@@ -1,0 +1,7 @@
+{
+  "name": "filesystem-mcp",
+  "description": "Enables AI assistants to read, write, and manage files on the local system with security features like path restrictions and optional read-only mode.",
+  "source_repo": "LincolnBurrows2017/filesystem-mcp",
+  "source_url": "https://github.com/LincolnBurrows2017/filesystem-mcp",
+  "install": "npx -y filesystem-mcp"
+}

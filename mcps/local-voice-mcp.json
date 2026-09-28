@@ -1,0 +1,7 @@
+{
+  "name": "local-voice-mcp",
+  "description": "Enables MCP clients to speak by running local voice models using Chatterbox Turbo TTS or Kokoro TTS, with support for voice cloning, paralinguistic tags, and multiple voices.",
+  "source_repo": "CodeCraftersLLC/local-voice-mcp",
+  "source_url": "https://github.com/CodeCraftersLLC/local-voice-mcp",
+  "install": "npx -y local-voice-mcp"
+}

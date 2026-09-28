@@ -1,0 +1,7 @@
+{
+  "name": "oscilloscope-mcp",
+  "description": "AI-driven USB oscilloscope control via FastMCP, enabling waveform capture, CSV export, and frequency measurements on PicoScope, Hantek, or a built-in simulator.",
+  "source_repo": "sandraschi/oscilloscope-mcp",
+  "source_url": "https://github.com/sandraschi/oscilloscope-mcp",
+  "install": "npx -y oscilloscope-mcp"
+}

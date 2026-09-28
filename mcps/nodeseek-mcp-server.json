@@ -1,0 +1,7 @@
+{
+  "name": "nodeseek-mcp-server",
+  "description": "An MCP server enabling LLMs to interact with the NodeSeek forum, supporting account status retrieval, daily check-in, post browsing, reading, replying, and posting.",
+  "source_repo": "chillpoints/nodeseek-mcp",
+  "source_url": "https://github.com/chillpoints/nodeseek-mcp",
+  "install": "npx -y nodeseek-mcp"
+}

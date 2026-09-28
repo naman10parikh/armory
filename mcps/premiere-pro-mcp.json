@@ -1,0 +1,7 @@
+{
+  "name": "premiere-pro-mcp",
+  "description": "Controls Adobe Premiere Pro via Claude, enabling automated beat-synced editing, timeline manipulation, and media analysis through two MCP servers (Node + Python).",
+  "source_repo": "nguyenph88/Premiere-Pro-MCP",
+  "source_url": "https://github.com/nguyenph88/Premiere-Pro-MCP",
+  "install": "npx -y Premiere-Pro-MCP"
+}

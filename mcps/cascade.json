@@ -1,0 +1,7 @@
+{
+  "name": "cascade",
+  "description": "Enables autonomous agents to manage tasks in a pull-based work queue with strategic goal alignment, real-time monitoring, and cross-project choreography.",
+  "source_repo": "nguyenminhduc9988/cascade",
+  "source_url": "https://github.com/nguyenminhduc9988/cascade",
+  "install": "# git clone --depth 1 https://github.com/nguyenminhduc9988/cascade\n# See source for mcpServers config block"
+}

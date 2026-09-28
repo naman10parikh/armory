@@ -1,0 +1,7 @@
+{
+  "name": "listen-to-sadhu",
+  "description": "Listen to Sadhu exposes a searchable corpus of Vedic scripture and recorded lectures. Look up verses by reference (e.g. \"BG 2.13\", \"SB 5.5.3\", \"CC Madhya 8.128\") with original Devanagari/Bengali, IAST transliteration and translations; read commentaries, prose chapters and letters; and search transcr",
+  "source_repo": "",
+  "source_url": "https://mcp.listentosadhu.app",
+  "install": "# git clone --depth 1 https://mcp.listentosadhu.app\n# See source for mcpServers config block"
+}

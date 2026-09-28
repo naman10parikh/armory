@@ -1,0 +1,7 @@
+{
+  "name": "mcp-audible",
+  "description": "Enables searching, managing library, wishlist, and credits on Audible through browser automation.",
+  "source_repo": "markswendsen-code/mcp-audible",
+  "source_url": "https://github.com/markswendsen-code/mcp-audible",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-audible\n# See source for mcpServers config block"
+}

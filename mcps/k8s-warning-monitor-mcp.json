@@ -1,0 +1,7 @@
+{
+  "name": "k8s-warning-monitor-mcp",
+  "description": "MCP server that filters Kubernetes warning/failure events and presents them to AI assistants for diagnostics. Enables AI to identify and troubleshoot cluster issues without consuming context on normal events.",
+  "source_repo": "tanmaysama/k8s-warning-monitor-MCP",
+  "source_url": "https://github.com/tanmaysama/k8s-warning-monitor-MCP",
+  "install": "npx -y k8s-warning-monitor-MCP"
+}

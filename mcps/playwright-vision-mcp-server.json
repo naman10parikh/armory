@@ -1,0 +1,7 @@
+{
+  "name": "playwright-vision-mcp-server",
+  "description": "Enables AI assistants to perform browser automation using Playwright, including navigation, content extraction, screenshot analysis, and custom script execution.",
+  "source_repo": "davidkim9/playwright-vision-mcp",
+  "source_url": "https://github.com/davidkim9/playwright-vision-mcp",
+  "install": "npx -y playwright-vision-mcp"
+}

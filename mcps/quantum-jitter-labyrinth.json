@@ -1,0 +1,7 @@
+{
+  "name": "quantum-jitter-labyrinth",
+  "description": "Short Description (概要): An MCP server providing quantum-inspired entropy injection and topological graph-search tools (explore_quantum_labyrinth) to help LLM agents escape decision-space local minima.",
+  "source_repo": "AGICoffe/Quantum-jitter-labyrinth",
+  "source_url": "https://github.com/AGICoffe/Quantum-jitter-labyrinth",
+  "install": "# git clone --depth 1 https://github.com/AGICoffe/Quantum-jitter-labyrinth\n# See source for mcpServers config block"
+}

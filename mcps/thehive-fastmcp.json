@@ -1,0 +1,7 @@
+{
+  "name": "thehive-fastmcp",
+  "description": "MCP server for TheHive that enables AI agents to manage cases, alerts, observables, and tasks.",
+  "source_repo": "Hoopshaker/thehive-fastmcp",
+  "source_url": "https://github.com/Hoopshaker/thehive-fastmcp",
+  "install": "# git clone --depth 1 https://github.com/Hoopshaker/thehive-fastmcp\n# See source for mcpServers config block"
+}

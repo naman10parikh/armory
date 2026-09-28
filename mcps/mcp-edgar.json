@@ -1,0 +1,7 @@
+{
+  "name": "mcp-edgar",
+  "description": "Enables LLMs to access SEC EDGAR data: search filings, extract sections, pull structured financials, and track insider transactions.",
+  "source_repo": "cmanohar/mcp-edgar",
+  "source_url": "https://github.com/cmanohar/mcp-edgar",
+  "install": "# git clone --depth 1 https://github.com/cmanohar/mcp-edgar\n# See source for mcpServers config block"
+}

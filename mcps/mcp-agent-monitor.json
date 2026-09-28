@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent-monitor",
+  "description": "MCP server that analyzes AI agent execution logs to calculate reliability scores, detect failure patterns, and suggest concrete improvements for making AI agents more reliable.",
+  "source_repo": "princeruhulofficial/mcp-agent-monitor",
+  "source_url": "https://github.com/princeruhulofficial/mcp-agent-monitor",
+  "install": "# git clone --depth 1 https://github.com/princeruhulofficial/mcp-agent-monitor\n# See source for mcpServers config block"
+}

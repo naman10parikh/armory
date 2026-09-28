@@ -1,0 +1,7 @@
+{
+  "name": "mcp-workshop",
+  "description": "A simple MCP server that provides a hello world greeting and a tool to add two numbers.",
+  "source_repo": "RossTarrant/mcp-workshop",
+  "source_url": "https://github.com/RossTarrant/mcp-workshop",
+  "install": "# git clone --depth 1 https://github.com/RossTarrant/mcp-workshop\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "matsumoto-buss-mcp",
+  "description": "Provides Matsumoto city community bus information via GTFS data, enabling stop search, departure times, nearby stops, and route details.",
+  "source_repo": "Takamasa045/matsumoto-buss-mcp",
+  "source_url": "https://github.com/Takamasa045/matsumoto-buss-mcp",
+  "install": "npx -y matsumoto-buss-mcp"
+}

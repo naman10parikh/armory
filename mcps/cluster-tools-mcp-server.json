@@ -1,0 +1,7 @@
+{
+  "name": "cluster-tools-mcp-server",
+  "description": "Enables AI-driven COMSOL batch jobs on the Harvard FASRC cluster, allowing users to run COMSOL models, manage jobs, and fetch results directly through natural language.",
+  "source_repo": "ckuzmick/cluster-tools",
+  "source_url": "https://github.com/ckuzmick/cluster-tools",
+  "install": "# git clone --depth 1 https://github.com/ckuzmick/cluster-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "edupage-mcp-server",
+  "description": "MCP server that connects Claude to Edupage, a school information system used across Europe. Provides access to timetables, grades, homework, messages, students, teachers, and more.",
+  "source_repo": "mhlavac/edupage-mcp",
+  "source_url": "https://github.com/mhlavac/edupage-mcp",
+  "install": "npx -y edupage-mcp"
+}

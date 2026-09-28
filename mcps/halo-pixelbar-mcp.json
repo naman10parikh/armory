@@ -1,0 +1,7 @@
+{
+  "name": "halo-pixelbar-mcp",
+  "description": "A local MCP server for controlling an EDIFIER Halo PixelBar's ambient light, pixel screen, and hardware volume on Windows.",
+  "source_repo": "Seraph310/halo-pixelbar-mcp",
+  "source_url": "https://github.com/Seraph310/halo-pixelbar-mcp",
+  "install": "npx -y halo-pixelbar-mcp"
+}

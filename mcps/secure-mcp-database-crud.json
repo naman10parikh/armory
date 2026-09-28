@@ -1,0 +1,7 @@
+{
+  "name": "secure-mcp-database-crud",
+  "description": "Enables secure task CRUD operations on SQLite or MySQL databases with input validation, parameterized queries, audit events, transactions, and signed delete confirmation.",
+  "source_repo": "yunosuke-github/secure-mcp-database-crud",
+  "source_url": "https://github.com/yunosuke-github/secure-mcp-database-crud",
+  "install": "# git clone --depth 1 https://github.com/yunosuke-github/secure-mcp-database-crud\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "robosimtools-mcp",
+  "description": "Exposes 12 robotics/simulation tools from robosimtools.com as MCP tools, enabling AI agents to perform conversions (quaternion, URDF, MJCF), validation, and CAD imports locally.",
+  "source_repo": "RahulRajelli/robosimtools-mcp",
+  "source_url": "https://github.com/RahulRajelli/robosimtools-mcp",
+  "install": "npx -y robosimtools-mcp"
+}

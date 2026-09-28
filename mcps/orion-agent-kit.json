@@ -1,0 +1,7 @@
+{
+  "name": "orion-agent-kit",
+  "description": "MCP server providing Celestia network intelligence, including daily briefs, anomaly signals, staking and DA metrics, and live namespace and validator drill-downs, with each figure linked to its source.",
+  "source_repo": "orioninfra/orion-agent-kit",
+  "source_url": "https://github.com/orioninfra/orion-agent-kit",
+  "install": "# git clone --depth 1 https://github.com/orioninfra/orion-agent-kit\n# See source for mcpServers config block"
+}

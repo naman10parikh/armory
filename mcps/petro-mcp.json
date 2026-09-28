@@ -1,0 +1,7 @@
+{
+  "name": "petro-mcp",
+  "description": "MCP server that gives LLMs access to 70 petroleum engineering tools for well logs, decline curves, PVT, drilling, economics, and more.",
+  "source_repo": "tallihealth/petro-mcp",
+  "source_url": "https://github.com/tallihealth/petro-mcp",
+  "install": "npx -y petro-mcp"
+}

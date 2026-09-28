@@ -1,0 +1,7 @@
+{
+  "name": "superaudit-mcp",
+  "description": "MCP server exposing SuperAudit’s free website audit as a callable tool, enabling AI agents to audit any public URL and receive scores across SEO, security, legal, performance, and more. No API key required; respects rate limits and caches results.",
+  "source_repo": "Jorucmor/superaudit-mcp",
+  "source_url": "https://github.com/Jorucmor/superaudit-mcp",
+  "install": "npx -y superaudit-mcp"
+}

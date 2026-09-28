@@ -1,0 +1,7 @@
+{
+  "name": "auxly-memory-cli",
+  "description": "Local-first, file-based memory layer for AI agents — one shared Markdown vault across Claude, Codex, Gemini, Cursor and any MCP client. Provides read/write memory tools with an audit trail, per-agent trust levels, and Git sync; no cloud and no lock-in.",
+  "source_repo": "Tzamun-Arabia-IT-Co/auxly-memory-cli",
+  "source_url": "https://github.com/Tzamun-Arabia-IT-Co/auxly-memory-cli",
+  "install": "# git clone --depth 1 https://github.com/Tzamun-Arabia-IT-Co/auxly-memory-cli\n# See source for mcpServers config block"
+}

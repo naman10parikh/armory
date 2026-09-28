@@ -1,0 +1,7 @@
+{
+  "name": "iterm-logs-mcp",
+  "description": "Local MCP server that exposes iTerm2 tab/session logs to MCP-capable agents via AppleScript, enabling tools to list open tabs and retrieve terminal scrollback.",
+  "source_repo": "kkaustubhvyas/iterm-logs-mcp",
+  "source_url": "https://github.com/kkaustubhvyas/iterm-logs-mcp",
+  "install": "npx -y iterm-logs-mcp"
+}

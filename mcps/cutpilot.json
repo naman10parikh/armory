@@ -1,0 +1,7 @@
+{
+  "name": "cutpilot",
+  "description": "Local-first AI video editing engine controlled by MCP-compatible AI hosts, enabling AI to inspect footage, propose edits, modify multitrack projects, and render locally while keeping user control.",
+  "source_repo": "Hellotravisss/cutpilot",
+  "source_url": "https://github.com/Hellotravisss/cutpilot",
+  "install": "# git clone --depth 1 https://github.com/Hellotravisss/cutpilot\n# See source for mcpServers config block"
+}

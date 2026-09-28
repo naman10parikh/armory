@@ -1,0 +1,7 @@
+{
+  "name": "meetup-mcp-server",
+  "description": "A Model Context Protocol implementation for managing context, prompts, and model interactions in Meetup applications.",
+  "source_repo": "ajeetraina/meetup-mcp-server",
+  "source_url": "https://github.com/ajeetraina/meetup-mcp-server",
+  "install": "npx -y meetup-mcp-server"
+}

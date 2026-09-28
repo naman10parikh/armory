@@ -1,0 +1,7 @@
+{
+  "name": "artefact-revenue-intelligence-mcp-server",
+  "description": "An MCP server that provides AI agents with ICP Triangulation Framework™ for scoring prospects across firmographics, behaviors, and growth signals, plus RFM analysis and pipeline health scoring, with optional HubSpot integration.",
+  "source_repo": "fastmcp-me/artefact-mcp-server",
+  "source_url": "https://github.com/fastmcp-me/artefact-mcp-server",
+  "install": "npx -y artefact-mcp-server"
+}

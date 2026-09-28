@@ -1,0 +1,7 @@
+{
+  "name": "sea-conect",
+  "description": "Enables Claude users to look up RCA and ICSARA documents for a SEIA project by expediente ID directly in chat, without running scripts or needing an API key.",
+  "source_repo": "Flarraguibel/SEA-Conect",
+  "source_url": "https://github.com/Flarraguibel/SEA-Conect",
+  "install": "# git clone --depth 1 https://github.com/Flarraguibel/SEA-Conect\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "local-knowledge-suite",
+  "description": "Provides MCP tools for workspace initialization, health checks, context recall, and durable memory capture, enabling project-specific memory and shared company knowledge with citations.",
+  "source_repo": "luutru433-coder/local-knowledge-suite",
+  "source_url": "https://github.com/luutru433-coder/local-knowledge-suite",
+  "install": "# git clone --depth 1 https://github.com/luutru433-coder/local-knowledge-suite\n# See source for mcpServers config block"
+}

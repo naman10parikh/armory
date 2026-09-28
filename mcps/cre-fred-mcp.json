@@ -1,0 +1,7 @@
+{
+  "name": "cre-fred-mcp",
+  "description": "Enables pulling live Federal Reserve economic data (SOFR, Treasury yields, Fed funds rate, mortgage rates, CPI, PCE) for CRE capital markets analysis through an MCP client.",
+  "source_repo": "nik-mirando/cre-fred-mcp",
+  "source_url": "https://github.com/nik-mirando/cre-fred-mcp",
+  "install": "npx -y cre-fred-mcp"
+}

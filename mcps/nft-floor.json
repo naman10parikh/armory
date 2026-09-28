@@ -1,0 +1,7 @@
+{
+  "name": "nft-floor",
+  "description": "NFT collection floor price, volume, holders, rarity data for Ethereum and Base via Alchemy. Pay-per-call via x402 (USDC on Base L2) without API key or signup.",
+  "source_repo": "Br0ski777/nft-floor-x402",
+  "source_url": "https://github.com/Br0ski777/nft-floor-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/nft-floor-x402\n# See source for mcpServers config block"
+}

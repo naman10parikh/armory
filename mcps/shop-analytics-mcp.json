@@ -1,0 +1,7 @@
+{
+  "name": "shop-analytics-mcp",
+  "description": "Enables secure analytics on an SQLite database of an online store via six specialized tools covering schema, customer metrics, product sales, category revenue, period revenue, and order leaders.",
+  "source_repo": "Myrhoiazov/mcp-server",
+  "source_url": "https://github.com/Myrhoiazov/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Myrhoiazov/mcp-server\n# See source for mcpServers config block"
+}

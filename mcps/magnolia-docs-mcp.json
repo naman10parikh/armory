@@ -1,0 +1,7 @@
+{
+  "name": "magnolia-docs-mcp",
+  "description": "Enables AI assistants to search and retrieve information from the official Magnolia CMS documentation through a set of MCP tools.",
+  "source_repo": "danielnaranjo/magnolia-docs-mcp",
+  "source_url": "https://github.com/danielnaranjo/magnolia-docs-mcp",
+  "install": "npx -y magnolia-docs-mcp"
+}

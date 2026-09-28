@@ -1,0 +1,7 @@
+{
+  "name": "imessage-mcp-server",
+  "description": "MCP server for reading and sending iMessages on macOS. Exposes iMessage history and send capabilities through tools like list_conversations and send_imessage.",
+  "source_repo": "tinyxia/imessage-mcp",
+  "source_url": "https://github.com/tinyxia/imessage-mcp",
+  "install": "npx -y imessage-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "personal-file-search-mcp-server",
+  "description": "Enables semantic search over personal files using natural language, with optional AI summarization, all running locally.",
+  "source_repo": "rafiqul713/file-search-mcp",
+  "source_url": "https://github.com/rafiqul713/file-search-mcp",
+  "install": "npx -y file-search-mcp"
+}

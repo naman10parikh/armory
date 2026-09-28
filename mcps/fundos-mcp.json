@@ -1,0 +1,7 @@
+{
+  "name": "fundos-mcp",
+  "description": "AI-native MCP server for fund managers — deal pipeline, LP management, covenant monitoring, VDR document intelligence, fund accounting (K-1, waterfall, audit packs), and HF ops (DTCC CTM, OMS, FIX). 47 tools.",
+  "source_repo": "8vdx1/fundos-mcp",
+  "source_url": "https://github.com/8vdx1/fundos-mcp",
+  "install": "npx -y fundos-mcp"
+}

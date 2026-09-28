@@ -1,0 +1,7 @@
+{
+  "name": "wander-agent",
+  "description": "MCP that makes travel planning simple",
+  "source_repo": "VirajMishra1/wander-agent",
+  "source_url": "https://github.com/VirajMishra1/wander-agent",
+  "install": "# git clone --depth 1 https://github.com/VirajMishra1/wander-agent\n# See source for mcpServers config block"
+}

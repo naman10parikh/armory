@@ -1,0 +1,7 @@
+{
+  "name": "es-eli-mcp",
+  "description": "An MCP server for the Spanish BOE open-data API that retrieves metadata, structure, and full consolidated text of Spanish legislation using BOE IDs or dates, providing verifiable ELI identifiers and citations.",
+  "source_repo": "matematicsolutions/es-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/es-eli-mcp",
+  "install": "npx -y es-eli-mcp"
+}

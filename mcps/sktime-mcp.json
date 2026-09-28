@@ -1,0 +1,7 @@
+{
+  "name": "sktime-mcp",
+  "description": "An MCP server that enables LLMs to discover, reason about, compose, and execute sktime estimator workflows via a registry-driven semantic engine.",
+  "source_repo": "sktime/sktime-mcp",
+  "source_url": "https://github.com/sktime/sktime-mcp",
+  "install": "npx -y sktime-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "netgram",
+  "description": "Enables AI agents to scoped, permissioned access to Telegram chats with per-chat read/write levels and human approval for sending messages.",
+  "source_repo": "dm1tryG/netgram",
+  "source_url": "https://github.com/dm1tryG/netgram",
+  "install": "# git clone --depth 1 https://github.com/dm1tryG/netgram\n# See source for mcpServers config block"
+}

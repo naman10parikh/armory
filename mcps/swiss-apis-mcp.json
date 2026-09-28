@@ -1,0 +1,7 @@
+{
+  "name": "swiss-apis-mcp",
+  "description": "MCP server exposing all major Swiss official public APIs as native tools for any MCP-compatible AI agent.",
+  "source_repo": "clement8426/swiss-apis-mcp",
+  "source_url": "https://github.com/clement8426/swiss-apis-mcp",
+  "install": "npx -y swiss-apis-mcp"
+}

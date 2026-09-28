@@ -1,0 +1,7 @@
+{
+  "name": "apexapi-mcp",
+  "description": "Enables calling 120+ AI models and reading live web pages (scrape, crawl, structured extract) from any MCP client using one API key.",
+  "source_repo": "apexapi/apexapi-mcp",
+  "source_url": "https://github.com/apexapi/apexapi-mcp",
+  "install": "npx -y apexapi-mcp"
+}

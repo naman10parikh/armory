@@ -1,0 +1,7 @@
+{
+  "name": "tradestation-mcp",
+  "description": "MCP server for TradeStation API enabling market data, brokerage, and order execution through natural language.",
+  "source_repo": "theelderwand/tradestation-mcp",
+  "source_url": "https://github.com/theelderwand/tradestation-mcp",
+  "install": "npx -y tradestation-mcp"
+}

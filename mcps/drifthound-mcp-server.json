@@ -1,0 +1,7 @@
+{
+  "name": "drifthound-mcp-server",
+  "description": "Enables Claude to discover and understand infrastructure-as-code drift by listing projects with drift, analyzing Terraform plan outputs, and providing remediation information.",
+  "source_repo": "drifthoundhq/mcp-server",
+  "source_url": "https://github.com/drifthoundhq/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/drifthoundhq/mcp-server\n# See source for mcpServers config block"
+}

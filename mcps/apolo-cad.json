@@ -1,0 +1,7 @@
+{
+  "name": "apolo-cad",
+  "description": "Enables AI agents to design parametric 3D CAD models of industrial machinery end-to-end, including modeling, assembly, validation, and manufacturing drawings, through 79 MCP tools.",
+  "source_repo": "mariorojasmz/apolo-cad",
+  "source_url": "https://github.com/mariorojasmz/apolo-cad",
+  "install": "# git clone --depth 1 https://github.com/mariorojasmz/apolo-cad\n# See source for mcpServers config block"
+}

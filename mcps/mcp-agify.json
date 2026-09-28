@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agify",
+  "description": "Predicts age from a first name using agify.io, no authentication required.",
+  "source_repo": "pipeworx-io/mcp-agify",
+  "source_url": "https://github.com/pipeworx-io/mcp-agify",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-agify\n# See source for mcpServers config block"
+}

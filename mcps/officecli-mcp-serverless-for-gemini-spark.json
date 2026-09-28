@@ -1,0 +1,7 @@
+{
+  "name": "officecli-mcp-serverless-for-gemini-spark",
+  "description": "A stateless MCP server that wraps OfficeCLI to create and edit Microsoft Word documents via AI instructions, outputting Base64 Data URLs for serverless environments like Vercel.",
+  "source_repo": "kerjaanlucky/officecli-mcp-server",
+  "source_url": "https://github.com/kerjaanlucky/officecli-mcp-server",
+  "install": "npx -y officecli-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-personal",
+  "description": "Personal-assistant MCP server for managing personal data including calendar events, emails (read/label only), and contacts via local files or Gmail IMAP.",
+  "source_repo": "MayWei/mcp-server-personal",
+  "source_url": "https://github.com/MayWei/mcp-server-personal",
+  "install": "# git clone --depth 1 https://github.com/MayWei/mcp-server-personal\n# See source for mcpServers config block"
+}

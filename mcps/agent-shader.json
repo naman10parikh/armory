@@ -1,0 +1,7 @@
+{
+  "name": "agent-shader",
+  "description": "Builds, validates, and render-tests Panzoid Shader Object JSON in a real WebGL 1 Chromium context, exposing these capabilities as MCP tools.",
+  "source_repo": "rbstxt/agent-shader",
+  "source_url": "https://github.com/rbstxt/agent-shader",
+  "install": "# git clone --depth 1 https://github.com/rbstxt/agent-shader\n# See source for mcpServers config block"
+}

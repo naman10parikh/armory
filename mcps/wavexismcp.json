@@ -1,0 +1,7 @@
+{
+  "name": "wavexismcp",
+  "description": "A comprehensive browser automation MCP server providing 149 tools across 13 capability tiers, enabling LLMs to control Chrome/Edge via CDP or BiDi protocols with features like navigation, screenshots, network interception, and more.",
+  "source_repo": "MathiasPaulenko/wavexis-mcp",
+  "source_url": "https://github.com/MathiasPaulenko/wavexis-mcp",
+  "install": "npx -y wavexis-mcp"
+}

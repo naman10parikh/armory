@@ -1,0 +1,7 @@
+{
+  "name": "bird-mcp-server",
+  "description": "A personal assistant MCP server that integrates Todoist, Anki, Obsidian, and Google Calendar to help you learn, organize, and stay productive through natural language interactions.",
+  "source_repo": "tamdogood/bird",
+  "source_url": "https://github.com/tamdogood/bird",
+  "install": "# git clone --depth 1 https://github.com/tamdogood/bird\n# See source for mcpServers config block"
+}

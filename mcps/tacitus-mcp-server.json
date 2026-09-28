@@ -1,0 +1,7 @@
+{
+  "name": "tacitus-mcp-server",
+  "description": "Turns a folder of Markdown notes into an agent-native knowledge base, providing long-term memory with provenance, token-budgeted retrieval, and safe write-back with versioning.",
+  "source_repo": "ionasrobert/tacitus-mcp-server",
+  "source_url": "https://github.com/ionasrobert/tacitus-mcp-server",
+  "install": "npx -y tacitus-mcp-server"
+}

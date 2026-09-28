@@ -1,0 +1,7 @@
+{
+  "name": "local-realtime-search",
+  "description": "Local-first realtime web research MCP for LM Studio with keyless SearXNG, clickable citations, adaptive deep research, provider health, and one-click Windows startup.",
+  "source_repo": "MirLunaDEV/local-realtime-search",
+  "source_url": "https://github.com/MirLunaDEV/local-realtime-search",
+  "install": "# git clone --depth 1 https://github.com/MirLunaDEV/local-realtime-search\n# See source for mcpServers config block"
+}

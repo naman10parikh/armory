@@ -1,0 +1,7 @@
+{
+  "name": "hayba",
+  "description": "An MCP server enabling AI agents to author Unreal Engine 5 scenes directly, with tools for spawning actors, building PCG graphs, validating physics, generating terrain, and more through a single MCP connection.",
+  "source_repo": "zajalist/hayba",
+  "source_url": "https://github.com/zajalist/hayba",
+  "install": "# git clone --depth 1 https://github.com/zajalist/hayba\n# See source for mcpServers config block"
+}

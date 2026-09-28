@@ -1,0 +1,7 @@
+{
+  "name": "kanopi-callrail-mcp",
+  "description": "A Model Context Protocol (MCP) server for the CallRail API v3 that exposes call tracking, text messaging, form submissions, and more as MCP tools for reading and writing to your CallRail account.",
+  "source_repo": "kanopi/callrail-mcp",
+  "source_url": "https://github.com/kanopi/callrail-mcp",
+  "install": "npx -y callrail-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "paper-radar",
+  "description": "Fetches recent papers and preprints from Europe PMC by query, enabling users to ask their AI assistant for the latest research in any field.",
+  "source_repo": "nagidev-lab/paper-radar",
+  "source_url": "https://github.com/nagidev-lab/paper-radar",
+  "install": "# git clone --depth 1 https://github.com/nagidev-lab/paper-radar\n# See source for mcpServers config block"
+}

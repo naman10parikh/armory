@@ -1,0 +1,7 @@
+{
+  "name": "persona-profile-mcp",
+  "description": "A local MCP server that maintains a persona profile (contact library) for AI assistants, allowing them to create, search, retrieve, supplement, and correct information about people mentioned in conversations via tools like search_profiles, get_profile, create_profile, update_profile, add_facts, upda",
+  "source_repo": "ibeeger/memory_mcp",
+  "source_url": "https://github.com/ibeeger/memory_mcp",
+  "install": "npx -y memory_mcp"
+}

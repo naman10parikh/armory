@@ -1,0 +1,7 @@
+{
+  "name": "mcp-streaming-msk-bedrock",
+  "description": "Streams real-time log context from Amazon MSK to a Bedrock AI agent for anomaly detection and root cause analysis. Enables AI-powered monitoring with WebSocket push and IAM authorization.",
+  "source_repo": "hakohli/mcp-streaming-msk-bedrock",
+  "source_url": "https://github.com/hakohli/mcp-streaming-msk-bedrock",
+  "install": "# git clone --depth 1 https://github.com/hakohli/mcp-streaming-msk-bedrock\n# See source for mcpServers config block"
+}

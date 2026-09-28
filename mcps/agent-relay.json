@@ -1,0 +1,7 @@
+{
+  "name": "agent-relay",
+  "description": "MCP server that enables AI agents on different machines to communicate and collaborate directly through relay channels, supporting structured agent contracts, real-time messaging, and human-in-the-loop approval workflows.",
+  "source_repo": "cloud1map/agent-relay",
+  "source_url": "https://github.com/cloud1map/agent-relay",
+  "install": "# git clone --depth 1 https://github.com/cloud1map/agent-relay\n# See source for mcpServers config block"
+}

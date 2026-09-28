@@ -1,0 +1,7 @@
+{
+  "name": "mevoric",
+  "description": "Unified memory and agent bridge for Claude Code, enabling cross-tab messaging, shared context, session checkpoints, and semantic memory across sessions.",
+  "source_repo": "Lloydm15/agent-bridge-mcp",
+  "source_url": "https://github.com/Lloydm15/agent-bridge-mcp",
+  "install": "npx -y agent-bridge-mcp"
+}

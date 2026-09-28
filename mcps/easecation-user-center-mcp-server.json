@@ -1,0 +1,7 @@
+{
+  "name": "easecation-user-center-mcp-server",
+  "description": "An MCP server for the EaseCation user center that provides admin and user tools to interact with UC backend services.",
+  "source_repo": "EaseCation/ec-usercenter-mcp-server",
+  "source_url": "https://github.com/EaseCation/ec-usercenter-mcp-server",
+  "install": "npx -y ec-usercenter-mcp-server"
+}

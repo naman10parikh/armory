@@ -1,0 +1,7 @@
+{
+  "name": "prospero-mcp-server",
+  "description": "Enables AI assistants to search registered systematic review protocols, look up individual CRD records, explore the MeSH vocabulary, check for possibly duplicate/overlapping reviews, and export results in RIS format.",
+  "source_repo": "yussufembabi/PROSPERO-MCP-Server",
+  "source_url": "https://github.com/yussufembabi/PROSPERO-MCP-Server",
+  "install": "npx -y PROSPERO-MCP-Server"
+}

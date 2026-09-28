@@ -1,0 +1,7 @@
+{
+  "name": "ghedee-content-hub-mcp-server",
+  "description": "Enables managing a social media calendar workflow with AI-generated images/videos, including generating media, uploading to Google Drive, and downloading the latest calendar draft.",
+  "source_repo": "GhedeePhilsophy/content-hub-mcp",
+  "source_url": "https://github.com/GhedeePhilsophy/content-hub-mcp",
+  "install": "npx -y content-hub-mcp"
+}

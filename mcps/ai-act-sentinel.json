@@ -1,0 +1,7 @@
+{
+  "name": "ai-act-sentinel",
+  "description": "MCP server for EU AI Act compliance analysis — classify any AI system or workflow against Regulation (EU) 2024/1689, updated with AI Omnibus 2026.",
+  "source_repo": "PierpyRenda/ai-act-sentinel",
+  "source_url": "https://github.com/PierpyRenda/ai-act-sentinel",
+  "install": "# git clone --depth 1 https://github.com/PierpyRenda/ai-act-sentinel\n# See source for mcpServers config block"
+}

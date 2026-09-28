@@ -1,0 +1,7 @@
+{
+  "name": "aspenplus-mcp-server",
+  "description": "Enables AI assistants to interact with Aspen Plus process simulations through a standardized MCP interface, supporting simulation control, data access, and flowsheet manipulation.",
+  "source_repo": "brack101/AspenPlus-MCP-Server",
+  "source_url": "https://github.com/brack101/AspenPlus-MCP-Server",
+  "install": "npx -y AspenPlus-MCP-Server"
+}

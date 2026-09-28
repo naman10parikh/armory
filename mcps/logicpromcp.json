@@ -1,0 +1,7 @@
+{
+  "name": "logicpromcp",
+  "description": "A local MCP server that bridges Logic Pro MIDI data via an AUv3 plugin, enabling reading, creating, and manipulating MIDI regions and tracks through tools like read_logic_track and create_midi_region.",
+  "source_repo": "shlomyss/LogicProMCP-for-Codex",
+  "source_url": "https://github.com/shlomyss/LogicProMCP-for-Codex",
+  "install": "# git clone --depth 1 https://github.com/shlomyss/LogicProMCP-for-Codex\n# See source for mcpServers config block"
+}

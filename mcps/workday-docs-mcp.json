@@ -1,0 +1,7 @@
+{
+  "name": "workday-docs-mcp",
+  "description": "Enables AI coding agents to search, read, and cite official Workday developer documentation, grounding their answers in real docs instead of hallucinating. Particularly useful for building Workday Extend apps.",
+  "source_repo": "philippesimard00/workday-docs-mcp",
+  "source_url": "https://github.com/philippesimard00/workday-docs-mcp",
+  "install": "npx -y workday-docs-mcp"
+}

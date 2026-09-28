@@ -1,0 +1,7 @@
+{
+  "name": "afpnews-mcp-server",
+  "description": "MCP server exposing AFP news content as tools for AI assistants, enabling article search, retrieval, and analysis via natural language.",
+  "source_repo": "julesbonnard/afpnews-mcp-server",
+  "source_url": "https://github.com/julesbonnard/afpnews-mcp-server",
+  "install": "npx -y afpnews-mcp-server"
+}

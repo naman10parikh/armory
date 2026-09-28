@@ -1,0 +1,7 @@
+{
+  "name": "caldav-mcp-wrapper",
+  "description": "Enables interacting with CalDAV calendars (like iCloud) through natural language, supporting reading and writing events.",
+  "source_repo": "JB09/caldav-mcp-wrapper",
+  "source_url": "https://github.com/JB09/caldav-mcp-wrapper",
+  "install": "# git clone --depth 1 https://github.com/JB09/caldav-mcp-wrapper\n# See source for mcpServers config block"
+}

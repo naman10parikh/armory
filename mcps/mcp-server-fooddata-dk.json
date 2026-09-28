@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-fooddata-dk",
+  "description": "Provides access to Danish food and nutrition data from Open Food Facts and DTU Frida, enabling keyword search, barcode lookup, and detailed food information with per-100g macros and source attribution.",
+  "source_repo": "borgels/mcp-server-fooddata-dk",
+  "source_url": "https://github.com/borgels/mcp-server-fooddata-dk",
+  "install": "# git clone --depth 1 https://github.com/borgels/mcp-server-fooddata-dk\n# See source for mcpServers config block"
+}

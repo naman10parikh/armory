@@ -1,0 +1,7 @@
+{
+  "name": "evidiq-rubric-mcp",
+  "description": "Determines whether a deliverable meets its contract using deterministic rules, criteria, and signed attestations.",
+  "source_repo": "evidiq/evidiq-rubric-mcp",
+  "source_url": "https://github.com/evidiq/evidiq-rubric-mcp",
+  "install": "npx -y evidiq-rubric-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "teamwork-mcp",
+  "description": "An MCP server that connects to the Teamwork API, providing tools to manage projects, tasks, companies, people, time entries, and reports, with built-in competitive intelligence capabilities.",
+  "source_repo": "Activ8-AI/Teamwork-MCP",
+  "source_url": "https://github.com/Activ8-AI/Teamwork-MCP",
+  "install": "npx -y Teamwork-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mefs-mcp-server",
+  "description": "Provides decentralized storage for AI agents, enabling them to save generated content to MEFS and retrieve data via content identifiers.",
+  "source_repo": "memoio/mefs-mcp-server",
+  "source_url": "https://github.com/memoio/mefs-mcp-server",
+  "install": "npx -y mefs-mcp-server"
+}

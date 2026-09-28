@@ -6,7 +6,7 @@ source_repo: https://github.com/coinbase/agentkit
 source_url: https://github.com/coinbase/agentkit
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: 1294
 eval_score: 1
 mentions: null

@@ -1,0 +1,7 @@
+{
+  "name": "postfleet-mcp",
+  "description": "Gives AI agents their own email address with inbound parsing, classification, extraction, and prompt injection screening, plus tools to manage mailboxes, send/receive emails, and handle draft approval workflows.",
+  "source_repo": "Thestral12/postfleet-mcp",
+  "source_url": "https://github.com/Thestral12/postfleet-mcp",
+  "install": "npx -y postfleet-mcp"
+}

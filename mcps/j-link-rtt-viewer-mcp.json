@@ -1,0 +1,7 @@
+{
+  "name": "j-link-rtt-viewer-mcp",
+  "description": "Enables AI assistants to interact with STM32 development boards via J-Link debugger using RTT communication, supporting connection, logging, memory operations, and firmware flashing through natural language.",
+  "source_repo": "MisakaMikoto128/J-Link-RTT-Viewer-MCP",
+  "source_url": "https://github.com/MisakaMikoto128/J-Link-RTT-Viewer-MCP",
+  "install": "npx -y J-Link-RTT-Viewer-MCP"
+}

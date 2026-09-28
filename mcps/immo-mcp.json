@@ -1,0 +1,7 @@
+{
+  "name": "immo-mcp",
+  "description": "Analyzes French real-estate market using open data sources like DVF transactions, DPE certificates, and risk data.",
+  "source_repo": "WardenPro/immo-mcp",
+  "source_url": "https://github.com/WardenPro/immo-mcp",
+  "install": "npx -y immo-mcp"
+}

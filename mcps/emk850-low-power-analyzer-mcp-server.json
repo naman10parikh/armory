@@ -1,0 +1,7 @@
+{
+  "name": "emk850-low-power-analyzer-mcp-server",
+  "description": "Enables programmatic control of the Yingjia EMK850+ low-power analyzer via a serial port, exposing FastAPI endpoints for reading power, version, configuration, clearing the baseline, and managing the serial port.",
+  "source_repo": "createskyblue/Yingjia_EMK850_low-power_analyzer_MCP",
+  "source_url": "https://github.com/createskyblue/Yingjia_EMK850_low-power_analyzer_MCP",
+  "install": "npx -y Yingjia_EMK850_low-power_analyzer_MCP"
+}

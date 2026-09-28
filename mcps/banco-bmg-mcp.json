@@ -1,0 +1,7 @@
+{
+  "name": "banco-bmg-mcp",
+  "description": "Conecta sua conta do Banco Bmg ao Claude, ChatGPT e agentes de IA via Open Finance Brasil, permitindo consultar saldos, extratos, faturas e investimentos em linguagem natural, somente leitura.",
+  "source_repo": "mcp-dir/bmg-mcp",
+  "source_url": "https://github.com/mcp-dir/bmg-mcp",
+  "install": "npx -y bmg-mcp"
+}

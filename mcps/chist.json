@@ -1,0 +1,7 @@
+{
+  "name": "chist",
+  "description": "MCP server for unified full-text search across chat histories from Claude Code, Codex, Cursor CLI, and Antigravity CLI, using SQLite FTS5. Provides read-only tools to search sessions, list conversations, and retrieve session details.",
+  "source_repo": "hiropon164/chist-server",
+  "source_url": "https://github.com/hiropon164/chist-server",
+  "install": "# git clone --depth 1 https://github.com/hiropon164/chist-server\n# See source for mcpServers config block"
+}

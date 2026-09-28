@@ -1,0 +1,7 @@
+{
+  "name": "personal-mcp",
+  "description": "Enables Claude to send you a Discord message through a Cloudflare Workers MCP server, triggering a notification with your Discord mention.",
+  "source_repo": "eoeoe22/personal-mcp",
+  "source_url": "https://github.com/eoeoe22/personal-mcp",
+  "install": "npx -y personal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pm-context-mcp-server",
+  "description": "A Python MCP server that gives Claude access to PM workflow data such as sprints, roadmap, blockers, and workload, using synthetic fixture data (no API keys required) and can be forked for real Linear/Jira integration.",
+  "source_repo": "jackhendon/pm-mcp-server",
+  "source_url": "https://github.com/jackhendon/pm-mcp-server",
+  "install": "npx -y pm-mcp-server"
+}

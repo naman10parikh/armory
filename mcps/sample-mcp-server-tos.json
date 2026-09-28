@@ -1,6 +1,6 @@
 {
   "name": "sample-mcp-server-tos",
-  "description": "Sample Mcp Server Tos MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "dinghuazhou/sample-mcp-server-tos",
   "source_url": "https://mcp.so/server/sample-mcp-server-tos/dinghuazhou",
   "install": "# git clone --depth 1 https://mcp.so/server/sample-mcp-server-tos/dinghuazhou\n# See source for mcpServers config block"

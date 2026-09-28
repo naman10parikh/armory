@@ -1,0 +1,7 @@
+{
+  "name": "ha-mcp",
+  "description": "An MCP server that enables AI assistants to control Home Assistant via natural language, including device control, automation management, and system configuration.",
+  "source_repo": "osrd-gh/ha-mcp",
+  "source_url": "https://github.com/osrd-gh/ha-mcp",
+  "install": "npx -y ha-mcp"
+}

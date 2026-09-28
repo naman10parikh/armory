@@ -1,0 +1,7 @@
+{
+  "name": "trading-mcp-server",
+  "description": "A comprehensive MCP server for stock analysis and trading insights, including stock screening, fundamental analysis, insider trading, options analysis, social media research, and news analysis.",
+  "source_repo": "netanelavr/trading-mcp",
+  "source_url": "https://github.com/netanelavr/trading-mcp",
+  "install": "npx -y trading-mcp"
+}

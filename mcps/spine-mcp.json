@@ -1,0 +1,7 @@
+{
+  "name": "spine-mcp",
+  "description": "Local MCP server for automating Spine projects via the official CLI, enabling AI tools to inspect, export, import, and add animations to .spine files.",
+  "source_repo": "1425sd/spine-MCP",
+  "source_url": "https://github.com/1425sd/spine-MCP",
+  "install": "npx -y spine-MCP"
+}

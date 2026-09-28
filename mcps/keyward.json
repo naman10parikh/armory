@@ -1,0 +1,7 @@
+{
+  "name": "keyward",
+  "description": "Enables AI agents to securely use API keys by storing them in an encrypted vault and injecting them on demand with user approval, without exposing the key values to the model.",
+  "source_repo": "arturayupov/keyward",
+  "source_url": "https://github.com/arturayupov/keyward",
+  "install": "# git clone --depth 1 https://github.com/arturayupov/keyward\n# See source for mcpServers config block"
+}

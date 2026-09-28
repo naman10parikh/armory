@@ -1,0 +1,7 @@
+{
+  "name": "application-tracker",
+  "description": "Enables AI agents to manage job applications, documents, and contacts via the Application Tracker workspace, with read-only or write access controlled by administrator settings.",
+  "source_repo": "romprod/application-tracker",
+  "source_url": "https://github.com/romprod/application-tracker",
+  "install": "# git clone --depth 1 https://github.com/romprod/application-tracker\n# See source for mcpServers config block"
+}

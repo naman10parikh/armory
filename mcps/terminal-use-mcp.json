@@ -1,0 +1,7 @@
+{
+  "name": "terminal-use-mcp",
+  "description": "Local + remote terminal interaction control MCP Server. Lets AI agents control interactive TUI programs the way a human would.",
+  "source_repo": "HLH2023/terminal-use-mcp",
+  "source_url": "https://github.com/HLH2023/terminal-use-mcp",
+  "install": "npx -y terminal-use-mcp"
+}

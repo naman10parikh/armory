@@ -1,0 +1,7 @@
+{
+  "name": "fallscout-mcp",
+  "description": "Exposes sales outreach and psychological profiling tools (psyche, research, DMs) plus resources (archetypes, methodologies) for Claude Code.",
+  "source_repo": "sjgant80-hub/fallscout-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallscout-mcp",
+  "install": "npx -y fallscout-mcp"
+}

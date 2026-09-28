@@ -1,0 +1,7 @@
+{
+  "name": "easyhire-jobs",
+  "description": "Read-only MCP server for the public EasyHire job board. Enables searching job openings, retrieving full postings, filtering by criteria, and listing countries with open roles.",
+  "source_repo": "easyhireme/mcp",
+  "source_url": "https://github.com/easyhireme/mcp",
+  "install": "# git clone --depth 1 https://github.com/easyhireme/mcp\n# See source for mcpServers config block"
+}

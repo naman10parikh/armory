@@ -1,0 +1,7 @@
+{
+  "name": "frappe-docs-mcp-server",
+  "description": "Provides read access to Frappe framework documentation through MCP, enabling search and retrieval of documentation pages via natural language.",
+  "source_repo": "muthanii/frappe_docs_mcp",
+  "source_url": "https://github.com/muthanii/frappe_docs_mcp",
+  "install": "npx -y frappe_docs_mcp"
+}

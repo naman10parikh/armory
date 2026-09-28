@@ -1,0 +1,7 @@
+{
+  "name": "toolhive-mcp",
+  "description": "A hosted HTTP MCP server for Cloudflare Workers that exposes a bundle of tools via a remote /mcp endpoint, enabling Claude-compatible clients to connect without a local server.",
+  "source_repo": "DoingDog/toolhive-mcp",
+  "source_url": "https://github.com/DoingDog/toolhive-mcp",
+  "install": "npx -y toolhive-mcp"
+}

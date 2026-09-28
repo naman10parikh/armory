@@ -1,0 +1,7 @@
+{
+  "name": "sabnzbd-mcp",
+  "description": "Enables managing a SABnzbd Usenet downloader through natural language, including queue control, history browsing, adding downloads, and speed adjustment.",
+  "source_repo": "LtMarx/SABnzbd-MCP",
+  "source_url": "https://github.com/LtMarx/SABnzbd-MCP",
+  "install": "npx -y SABnzbd-MCP"
+}

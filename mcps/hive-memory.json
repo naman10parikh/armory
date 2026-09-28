@@ -1,0 +1,7 @@
+{
+  "name": "hive-memory",
+  "description": "Provides AI coding agents with persistent, graph-connected memory across projects, enabling cross-project context retrieval via synaptic connections and hybrid search.",
+  "source_repo": "moonx010/hive-memory",
+  "source_url": "https://github.com/moonx010/hive-memory",
+  "install": "# git clone --depth 1 https://github.com/moonx010/hive-memory\n# See source for mcpServers config block"
+}

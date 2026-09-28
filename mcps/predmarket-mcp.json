@@ -1,0 +1,7 @@
+{
+  "name": "predmarket-mcp",
+  "description": "A monetizable remote MCP server that provides prediction-market intelligence tools for AI agents, enabling discovery, evaluation, and mispricing detection across venues like Polymarket and Kalshi with per-call payment.",
+  "source_repo": "johnsmithxy1mmm-sys/MCP",
+  "source_url": "https://github.com/johnsmithxy1mmm-sys/MCP",
+  "install": "# git clone --depth 1 https://github.com/johnsmithxy1mmm-sys/MCP\n# See source for mcpServers config block"
+}

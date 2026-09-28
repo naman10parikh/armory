@@ -1,0 +1,7 @@
+{
+  "name": "unforget-mcp-server",
+  "description": "Long-term memory for Claude Code, Cursor, and MCP clients with zero-config embedded PostgreSQL. Stores and retrieves facts, preferences, and decisions using 4-channel semantic, BM25, entity, and temporal search with cross-encoder reranking.",
+  "source_repo": "unforget-ai/unforget-mcp",
+  "source_url": "https://github.com/unforget-ai/unforget-mcp",
+  "install": "npx -y unforget-mcp"
+}

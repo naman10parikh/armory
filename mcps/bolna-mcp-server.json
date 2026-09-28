@@ -1,0 +1,7 @@
+{
+  "name": "bolna-mcp-server",
+  "description": "Manage voice AI agents, make calls, run campaigns, and control phone numbers through natural language.",
+  "source_repo": "abhinav7895/bolna-mcp",
+  "source_url": "https://github.com/abhinav7895/bolna-mcp",
+  "install": "npx -y bolna-mcp"
+}

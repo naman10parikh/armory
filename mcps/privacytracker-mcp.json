@@ -1,0 +1,7 @@
+{
+  "name": "privacytracker-mcp",
+  "description": "MCP server that exposes PrivacyTracker's app privacy data, changelogs, policy diffs, and sync status through read-only tools and resources for MCP-compatible clients.",
+  "source_repo": "privacykey/pt-mcp",
+  "source_url": "https://github.com/privacykey/pt-mcp",
+  "install": "npx -y pt-mcp"
+}

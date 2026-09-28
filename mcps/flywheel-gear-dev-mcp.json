@@ -1,0 +1,7 @@
+{
+  "name": "flywheel-gear-dev-mcp",
+  "description": "Provides Claude with direct access to Flywheel gear and DICOM documentation, enabling developers to build and debug gears without context overload.",
+  "source_repo": "wzkariampuzha/flywheel-gear-dev-mcp",
+  "source_url": "https://github.com/wzkariampuzha/flywheel-gear-dev-mcp",
+  "install": "npx -y flywheel-gear-dev-mcp"
+}

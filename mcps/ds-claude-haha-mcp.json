@@ -1,0 +1,7 @@
+{
+  "name": "ds-claude-haha-mcp",
+  "description": "Bridges a main agent (e.g., Codex) to a separate execution model in Claude Code Haha Desktop, enabling delegated coding tasks with file modifications, test runs, and change auditing.",
+  "source_repo": "OPFIMISS/DS-Claude-haha-MCP",
+  "source_url": "https://github.com/OPFIMISS/DS-Claude-haha-MCP",
+  "install": "npx -y DS-Claude-haha-MCP"
+}

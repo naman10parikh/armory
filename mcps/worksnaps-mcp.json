@@ -1,0 +1,7 @@
+{
+  "name": "worksnaps-mcp",
+  "description": "Enables logging offline time and managing Worksnaps projects/tasks from Cursor chat via natural language.",
+  "source_repo": "Mhdd-24/WorkSnaps-MCP",
+  "source_url": "https://github.com/Mhdd-24/WorkSnaps-MCP",
+  "install": "npx -y WorkSnaps-MCP"
+}

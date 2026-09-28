@@ -1,0 +1,7 @@
+{
+  "name": "abap-config-mcp",
+  "description": "A standalone MCP server for SAP ABAP development and customizing that connects directly to your SAP system via ADT REST API, enabling AI assistants to search, read, write, activate, transport, debug, and run quality checks on ABAP code, as well as manage customizing/IMG configurations with governed",
+  "source_repo": "OCA-BE/MCP-Server-2",
+  "source_url": "https://github.com/OCA-BE/MCP-Server-2",
+  "install": "# git clone --depth 1 https://github.com/OCA-BE/MCP-Server-2\n# See source for mcpServers config block"
+}

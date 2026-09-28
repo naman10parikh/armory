@@ -1,0 +1,7 @@
+{
+  "name": "mcp-disaster-server",
+  "description": "MCP server for querying the Kaggle 'All Natural Disasters 1900-2021 / EOSDIS' CSV dataset via pandas, exposing search and statistics tools.",
+  "source_repo": "yanaSelin/disaster-registry-mcp",
+  "source_url": "https://github.com/yanaSelin/disaster-registry-mcp",
+  "install": "npx -y disaster-registry-mcp"
+}

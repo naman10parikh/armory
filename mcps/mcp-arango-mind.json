@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arango-mind",
+  "description": "Turns ArangoDB into a schema-driven MCP server for agents, enabling search-describe-exec workflows for database, graph, and knowledge operations without oversizing the tool list.",
+  "source_repo": "woolkingx/mcp-arango-mind",
+  "source_url": "https://github.com/woolkingx/mcp-arango-mind",
+  "install": "# git clone --depth 1 https://github.com/woolkingx/mcp-arango-mind\n# See source for mcpServers config block"
+}

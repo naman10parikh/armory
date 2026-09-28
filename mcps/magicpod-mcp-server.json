@@ -1,0 +1,7 @@
+{
+  "name": "magicpod-mcp-server",
+  "description": "An MCP server that integrates AI agents with MagicPod, enabling natural language control of MagicPod testing through tools like Cursor and Claude.",
+  "source_repo": "Magic-Pod/magicpod-mcp-server",
+  "source_url": "https://github.com/Magic-Pod/magicpod-mcp-server",
+  "install": "npx -y magicpod-mcp-server"
+}

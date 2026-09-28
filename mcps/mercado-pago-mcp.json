@@ -1,0 +1,7 @@
+{
+  "name": "mercado-pago-mcp",
+  "description": "Connects Mercado Pago accounts via Open Finance Brasil to AI assistants for read-only queries about balances, statements, credit card bills, and investments.",
+  "source_repo": "mcp-dir/mercadopago-mcp",
+  "source_url": "https://github.com/mcp-dir/mercadopago-mcp",
+  "install": "npx -y mercadopago-mcp"
+}

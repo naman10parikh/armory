@@ -1,0 +1,7 @@
+{
+  "name": "grok2api-mcp-server",
+  "description": "Enables real-time web and Twitter/X search via Grok, returning structured results with source URLs, confidence scores, and key points. Supports multiple output modes, language options, and time range filtering.",
+  "source_repo": "wousp112/grok2api-mcp-server",
+  "source_url": "https://github.com/wousp112/grok2api-mcp-server",
+  "install": "npx -y grok2api-mcp-server"
+}

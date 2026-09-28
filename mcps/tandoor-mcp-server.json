@@ -1,0 +1,7 @@
+{
+  "name": "tandoor-mcp-server",
+  "description": "MCP server for managing Tandoor recipes, meal plans, and shopping lists. Enables creation, retrieval, and management of recipes, meal plans, and shopping list items via natural language.",
+  "source_repo": "starbuck93/tandoor-mcp-server",
+  "source_url": "https://github.com/starbuck93/tandoor-mcp-server",
+  "install": "npx -y tandoor-mcp-server"
+}

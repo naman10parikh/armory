@@ -1,0 +1,7 @@
+{
+  "name": "animation-mcp",
+  "description": "Enables AI coding assistants to create and refine Roblox combat animations through tool calls, supporting the full pipeline from motion composition to Roblox Studio import.",
+  "source_repo": "ThatGuyTHD/animation-mcp",
+  "source_url": "https://github.com/ThatGuyTHD/animation-mcp",
+  "install": "npx -y animation-mcp"
+}

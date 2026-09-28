@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-for-up-to-date-library-documentation",
+  "description": "Provides Large Language Models with real-time access to the latest documentation for Python libraries like Langchain, LlamaIndex, and OpenAI, enabling accurate and up-to-date code suggestions.",
+  "source_repo": "AmirUpSkill/Mcp-Server",
+  "source_url": "https://github.com/AmirUpSkill/Mcp-Server",
+  "install": "# git clone --depth 1 https://github.com/AmirUpSkill/Mcp-Server\n# See source for mcpServers config block"
+}

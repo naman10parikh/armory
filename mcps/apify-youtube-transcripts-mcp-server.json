@@ -1,0 +1,7 @@
+{
+  "name": "apify-youtube-transcripts-mcp-server",
+  "description": "Provides YouTube video transcripts as structured JSON, including timestamped captions and plain text, through the Apify YouTube Transcripts API. Supports single or batch video URLs across multiple formats.",
+  "source_repo": "johnisanerd/Apify-Youtube-Transcripts-API",
+  "source_url": "https://github.com/johnisanerd/Apify-Youtube-Transcripts-API",
+  "install": "# git clone --depth 1 https://github.com/johnisanerd/Apify-Youtube-Transcripts-API\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ephemeral-reasoning-mcp",
+  "description": "Provides an MCP server that decomposes complex problems into ordered, isolated reasoning contexts, yielding compressed summaries before discarding intermediate steps. Enables sequential or parallel step execution with optional verification for more reliable LLM reasoning.",
+  "source_repo": "devLlama/containerized-reasoning-mcp",
+  "source_url": "https://github.com/devLlama/containerized-reasoning-mcp",
+  "install": "npx -y containerized-reasoning-mcp"
+}

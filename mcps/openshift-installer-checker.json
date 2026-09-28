@@ -1,0 +1,7 @@
+{
+  "name": "openshift-installer-checker",
+  "description": "Analyzes git repositories to extract installation requirements and validates feasibility against OpenShift/Kubernetes clusters.",
+  "source_repo": "Hadar301/mcp-openshift-installer-checker",
+  "source_url": "https://github.com/Hadar301/mcp-openshift-installer-checker",
+  "install": "# git clone --depth 1 https://github.com/Hadar301/mcp-openshift-installer-checker\n# See source for mcpServers config block"
+}

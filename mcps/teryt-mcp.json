@@ -1,0 +1,7 @@
+{
+  "name": "teryt-mcp",
+  "description": "MCP server for querying the Polish TERYT registry, including territorial units, localities, streets, and locality types via tools and CLI.",
+  "source_repo": "ciembor/teryt-mcp",
+  "source_url": "https://github.com/ciembor/teryt-mcp",
+  "install": "npx -y teryt-mcp"
+}

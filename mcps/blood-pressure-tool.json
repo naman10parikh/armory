@@ -1,0 +1,7 @@
+{
+  "name": "blood-pressure-tool",
+  "description": "Manages blood pressure readings (create, read, update, delete) via an MCP server, integrable with Open WebUI.",
+  "source_repo": "mclarkson/bptool",
+  "source_url": "https://github.com/mclarkson/bptool",
+  "install": "# git clone --depth 1 https://github.com/mclarkson/bptool\n# See source for mcpServers config block"
+}

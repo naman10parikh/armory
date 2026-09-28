@@ -1,0 +1,7 @@
+{
+  "name": "unity-build-automation-mcp",
+  "description": "Enables checking build status, starting/canceling builds, and managing Unity Cloud Build targets directly from Claude Code.",
+  "source_repo": "akiraKido/Unity-Build-Automation-MCP",
+  "source_url": "https://github.com/akiraKido/Unity-Build-Automation-MCP",
+  "install": "npx -y Unity-Build-Automation-MCP"
+}

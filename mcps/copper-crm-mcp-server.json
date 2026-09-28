@@ -1,0 +1,7 @@
+{
+  "name": "copper-crm-mcp-server",
+  "description": "Enables AI agents to read and manage Copper CRM data, including searching people, companies, and opportunities, listing pipelines, and logging activities or creating tasks.",
+  "source_repo": "hasankhadra/copper-mcp",
+  "source_url": "https://github.com/hasankhadra/copper-mcp",
+  "install": "npx -y copper-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "disclosures",
+  "description": "Enables corporate disclosure research through official SEC EDGAR and GLEIF sources, providing tools for company resolution, filings, insiders, ownership, financials, and private raises via natural language.",
+  "source_repo": "carrotly-ai/disclosures",
+  "source_url": "https://github.com/carrotly-ai/disclosures",
+  "install": "# git clone --depth 1 https://github.com/carrotly-ai/disclosures\n# See source for mcpServers config block"
+}

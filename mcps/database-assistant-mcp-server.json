@@ -1,0 +1,7 @@
+{
+  "name": "database-assistant-mcp-server",
+  "description": "Enables read-only exploration and querying of PostgreSQL or MySQL databases via MCP, with schema discovery, safe SQL validation, natural language to SQL conversion, and CSV export.",
+  "source_repo": "vinycoolguy2015/database_mcp_server",
+  "source_url": "https://github.com/vinycoolguy2015/database_mcp_server",
+  "install": "npx -y database_mcp_server"
+}

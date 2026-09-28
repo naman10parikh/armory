@@ -1,0 +1,7 @@
+{
+  "name": "bookmarkmemory",
+  "description": "Enables semantic search and retrieval of bookmarked URLs content using vector embeddings, with support for multiple backends and AI assistant integration.",
+  "source_repo": "DeeNihl/BookmarkContext",
+  "source_url": "https://github.com/DeeNihl/BookmarkContext",
+  "install": "# git clone --depth 1 https://github.com/DeeNihl/BookmarkContext\n# See source for mcpServers config block"
+}

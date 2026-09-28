@@ -1,0 +1,7 @@
+{
+  "name": "raindrop-mcp",
+  "description": "Enables management of Raindrop.io bookmarks, collections, tags, and highlights via MCP tools, with support for search, bulk editing, and library auditing.",
+  "source_repo": "aderaaij/raindrop-mcp",
+  "source_url": "https://github.com/aderaaij/raindrop-mcp",
+  "install": "npx -y raindrop-mcp"
+}

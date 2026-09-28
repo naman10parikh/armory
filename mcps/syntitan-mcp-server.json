@@ -1,0 +1,7 @@
+{
+  "name": "syntitan-mcp-server",
+  "description": "Lets Claude and other MCP-compatible clients securely connect to Syntitan, an AI-Ready Data Platform, through natural language for data management and analytics.",
+  "source_repo": "cubigcorp/syntitan-mcp",
+  "source_url": "https://github.com/cubigcorp/syntitan-mcp",
+  "install": "npx -y syntitan-mcp"
+}

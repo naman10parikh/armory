@@ -1,0 +1,7 @@
+{
+  "name": "pathguard-mcp",
+  "description": "Enables MCP-compatible AI agents to scan crypto transactions for scam addresses, clipboard-hijack patterns, and typos, as well as report scam addresses and check usage, directly in conversation.",
+  "source_repo": "Utee/pathguard-mcp",
+  "source_url": "https://github.com/Utee/pathguard-mcp",
+  "install": "npx -y pathguard-mcp"
+}

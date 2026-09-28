@@ -1,0 +1,7 @@
+{
+  "name": "mcp-prompt-library",
+  "description": "Enables AI-assisted development by providing a library of 110+ curated prompts, workflows, and coding standards, with MCP tools for prompt retrieval, composition, and multi-step workflow chains.",
+  "source_repo": "esreekarreddy/mcp-prompt-library",
+  "source_url": "https://github.com/esreekarreddy/mcp-prompt-library",
+  "install": "# git clone --depth 1 https://github.com/esreekarreddy/mcp-prompt-library\n# See source for mcpServers config block"
+}

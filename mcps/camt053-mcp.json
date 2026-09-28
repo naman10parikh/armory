@@ -1,0 +1,7 @@
+{
+  "name": "camt053-mcp",
+  "description": "MCP server that enables AI agents to parse, validate, and reverse ISO 20022 bank statements, with tools for discovering message types and return reasons.",
+  "source_repo": "sebastienrousseau/camt053-mcp",
+  "source_url": "https://github.com/sebastienrousseau/camt053-mcp",
+  "install": "npx -y camt053-mcp"
+}

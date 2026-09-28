@@ -1,0 +1,7 @@
+{
+  "name": "esim-mcp",
+  "description": "An MCP server for searching and comparing travel eSIM data plans by country, planning multi-country trips, and optionally checking eSIM usage with an API token.",
+  "source_repo": "kakha13/esim-mcp",
+  "source_url": "https://github.com/kakha13/esim-mcp",
+  "install": "npx -y esim-mcp"
+}

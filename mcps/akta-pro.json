@@ -1,0 +1,7 @@
+{
+  "name": "akta-pro",
+  "description": "akta.pro gives AI agents and teams structured access to 20M+ private companies and real-time news signals — entity-resolved, deduplicated, and pay-as-you-go.",
+  "source_repo": "akta-pro/akta.pro-MCP",
+  "source_url": "https://github.com/akta-pro/akta.pro-MCP",
+  "install": "npx -y akta.pro-MCP"
+}

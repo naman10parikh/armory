@@ -1,0 +1,7 @@
+{
+  "name": "ssmcp",
+  "description": "A stateless HTTP-based protocol for building MCP-compatible servers. Enables easy creation of tools, resources, and prompts using RESTful conventions.",
+  "source_repo": "olahol/ssmcp",
+  "source_url": "https://github.com/olahol/ssmcp",
+  "install": "# git clone --depth 1 https://github.com/olahol/ssmcp\n# See source for mcpServers config block"
+}

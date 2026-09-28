@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-server-authless-gif-search",
+  "description": "A remote MCP server deployed on Cloudflare Workers that returns gifs based on input queries without authentication.",
+  "source_repo": "elizabethsiegle/remote-mcp-server-authless-gif-search",
+  "source_url": "https://github.com/elizabethsiegle/remote-mcp-server-authless-gif-search",
+  "install": "# git clone --depth 1 https://github.com/elizabethsiegle/remote-mcp-server-authless-gif-search\n# See source for mcpServers config block"
+}

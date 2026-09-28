@@ -1,0 +1,7 @@
+{
+  "name": "curai",
+  "description": "MCP server for a minimal note-taking app with text and images per user, enabling CRUD operations via Claude.",
+  "source_repo": "jpoyarzun/curai-poc",
+  "source_url": "https://github.com/jpoyarzun/curai-poc",
+  "install": "# git clone --depth 1 https://github.com/jpoyarzun/curai-poc\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "procurement-knowledge-mcp",
+  "description": "MCP server for querying procurement and inventory documents (invoices, purchase orders, etc.) via structured lookups, precomputed comparisons, and full-text search.",
+  "source_repo": "trussler-leveragepointdata/procurement-knowledge-mcp",
+  "source_url": "https://github.com/trussler-leveragepointdata/procurement-knowledge-mcp",
+  "install": "npx -y procurement-knowledge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "opencode-brain",
+  "description": "MCP server that gives OpenCode a persistent, graph-based memory with semantic search, iterative retrieval, and session-aware knowledge management. It supports capturing fleeting and permanent notes, distilling insights, tracking mistakes and fixes, and auto-archiving stale memories.",
+  "source_repo": "Adityaladi/AI-Bain",
+  "source_url": "https://github.com/Adityaladi/AI-Bain",
+  "install": "# git clone --depth 1 https://github.com/Adityaladi/AI-Bain\n# See source for mcpServers config block"
+}

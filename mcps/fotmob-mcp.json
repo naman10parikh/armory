@@ -1,0 +1,7 @@
+{
+  "name": "fotmob-mcp",
+  "description": "Enables access to live FotMob football data for fixture lookup, team and player research, match details, lineups, league discovery, and search-based entity lookup.",
+  "source_repo": "ccdejene/fotmob-mcp",
+  "source_url": "https://github.com/ccdejene/fotmob-mcp",
+  "install": "npx -y fotmob-mcp"
+}

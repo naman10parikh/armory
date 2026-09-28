@@ -1,0 +1,7 @@
+{
+  "name": "enji-guard-cli",
+  "description": "Exposes Enji Guard access and compact report metadata to local tools via an MCP server.",
+  "source_repo": "j2h4u/enji-guard-cli",
+  "source_url": "https://github.com/j2h4u/enji-guard-cli",
+  "install": "# git clone --depth 1 https://github.com/j2h4u/enji-guard-cli\n# See source for mcpServers config block"
+}

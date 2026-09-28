@@ -1,0 +1,7 @@
+{
+  "name": "sw-postgres-mcp",
+  "description": "Safe-write Postgres MCP server enabling secure read and write access to PostgreSQL databases with role-based separation and allowlist controls, allowing agents to query and modify data without risk of unrecoverable accidents.",
+  "source_repo": "jpka/sw-postgres-mcp",
+  "source_url": "https://github.com/jpka/sw-postgres-mcp",
+  "install": "npx -y sw-postgres-mcp"
+}

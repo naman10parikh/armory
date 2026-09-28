@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ethical-hacking",
+  "description": "Provides social media content extraction and analysis tools via MCP (Reddit and LinkedIn), while demonstrating security risks and obfuscation techniques for educational purposes.",
+  "source_repo": "cmpxchg16/mcp-ethical-hacking",
+  "source_url": "https://github.com/cmpxchg16/mcp-ethical-hacking",
+  "install": "# git clone --depth 1 https://github.com/cmpxchg16/mcp-ethical-hacking\n# See source for mcpServers config block"
+}

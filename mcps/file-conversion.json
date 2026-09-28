@@ -1,0 +1,7 @@
+{
+  "name": "file-conversion",
+  "description": "MCP server for converting between everyday file formats (CSV, Excel, Markdown, Word), including a GxP-compliant Markdown to Word template. Exposes four conversion tools over stdio.",
+  "source_repo": "jmcneil86043/file-conversion",
+  "source_url": "https://github.com/jmcneil86043/file-conversion",
+  "install": "# git clone --depth 1 https://github.com/jmcneil86043/file-conversion\n# See source for mcpServers config block"
+}

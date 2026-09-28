@@ -1,0 +1,7 @@
+{
+  "name": "pptx-mcp-server",
+  "description": "MCP server for creating, reading, and editing PowerPoint (.pptx) presentations.",
+  "source_repo": "knorq-ai/pptx-mcp-server",
+  "source_url": "https://github.com/knorq-ai/pptx-mcp-server",
+  "install": "npx -y pptx-mcp-server"
+}

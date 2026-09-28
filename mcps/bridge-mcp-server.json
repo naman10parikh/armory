@@ -1,0 +1,7 @@
+{
+  "name": "bridge-mcp-server",
+  "description": "Connects Ignition SCADA and Studio 5000 PLC to correlate tags end-to-end, trace signal chains, and find commissioning gaps.",
+  "source_repo": "Nodeblue-AI/bridge-mcp-server",
+  "source_url": "https://github.com/Nodeblue-AI/bridge-mcp-server",
+  "install": "npx -y bridge-mcp-server"
+}

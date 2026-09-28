@@ -1,0 +1,7 @@
+{
+  "name": "nodus-mcp-server",
+  "description": "Exposes the Nodus orchestration runtime as MCP tools for memory management, goal/workflow execution, and sandboxed code execution.",
+  "source_repo": "Masterplanner25/nodus-mcp-server",
+  "source_url": "https://github.com/Masterplanner25/nodus-mcp-server",
+  "install": "npx -y nodus-mcp-server"
+}

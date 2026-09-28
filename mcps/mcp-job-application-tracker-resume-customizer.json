@@ -1,0 +1,7 @@
+{
+  "name": "mcp-job-application-tracker-resume-customizer",
+  "description": "Automates job application tracking and resume/cover letter generation using AI, integrating with Google Drive, Notion, and Gmail.",
+  "source_repo": "rodrick-mpofu/mcp-job-app-tracker",
+  "source_url": "https://github.com/rodrick-mpofu/mcp-job-app-tracker",
+  "install": "# git clone --depth 1 https://github.com/rodrick-mpofu/mcp-job-app-tracker\n# See source for mcpServers config block"
+}

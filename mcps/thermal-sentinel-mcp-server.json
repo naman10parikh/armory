@@ -1,0 +1,7 @@
+{
+  "name": "thermal-sentinel-mcp-server",
+  "description": "Enables AI agents to monitor urban heat risk, detect heat waves and anomalies, and generate alerts with urban-planning recommendations via the FortyGuard Temperature API.",
+  "source_repo": "0xConsole/thermal-sentinel-agent",
+  "source_url": "https://github.com/0xConsole/thermal-sentinel-agent",
+  "install": "# git clone --depth 1 https://github.com/0xConsole/thermal-sentinel-agent\n# See source for mcpServers config block"
+}

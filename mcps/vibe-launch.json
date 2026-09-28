@@ -1,0 +1,7 @@
+{
+  "name": "vibe-launch",
+  "description": "Enables AI tools like Claude Code to deploy projects to multiple servers via SSH with zero installation on target machines. Supports server onboarding, project management, and one-click deployment through MCP tools.",
+  "source_repo": "tmwgsicp/vibe-launch",
+  "source_url": "https://github.com/tmwgsicp/vibe-launch",
+  "install": "# git clone --depth 1 https://github.com/tmwgsicp/vibe-launch\n# See source for mcpServers config block"
+}

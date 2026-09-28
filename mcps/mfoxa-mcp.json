@@ -1,0 +1,7 @@
+{
+  "name": "mfoxa-mcp",
+  "description": "Public read-only MCP server for the catalog of licensed Ukrainian microfinance organizations. Provides tools to search loan offers, get MFO details with ratings and reviews, and access legal context on Ukrainian microlending.",
+  "source_repo": "alexandrrzk-ctrl/mfoxa-mcp",
+  "source_url": "https://github.com/alexandrrzk-ctrl/mfoxa-mcp",
+  "install": "npx -y mfoxa-mcp"
+}

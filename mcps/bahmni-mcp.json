@@ -1,0 +1,7 @@
+{
+  "name": "bahmni-mcp",
+  "description": "MCP server that exposes the OpenMRS/Bahmni REST API as tools for Claude to interact with Bahmni instances.",
+  "source_repo": "lingeswaranTW/bahmni-mcp-server",
+  "source_url": "https://github.com/lingeswaranTW/bahmni-mcp-server",
+  "install": "npx -y bahmni-mcp-server"
+}

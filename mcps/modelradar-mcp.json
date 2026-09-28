@@ -1,0 +1,7 @@
+{
+  "name": "modelradar-mcp",
+  "description": "An MCP server that turns the ModelRadar catalog into a model router between OpenRouter and your CLI or agent, enabling discovery, recommendation, and execution of language models.",
+  "source_repo": "legifx/modelradar-mcp",
+  "source_url": "https://github.com/legifx/modelradar-mcp",
+  "install": "npx -y modelradar-mcp"
+}

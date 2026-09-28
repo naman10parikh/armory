@@ -1,0 +1,7 @@
+{
+  "name": "style-memory-mcp",
+  "description": "A tiny local MCP server that learns a user's conversational style, catchphrases, dialect markers, emoji habits, tone preferences, and concrete collaboration preferences without storing private memories.",
+  "source_repo": "hexingyuofficial/style-memory-mcp",
+  "source_url": "https://github.com/hexingyuofficial/style-memory-mcp",
+  "install": "npx -y style-memory-mcp"
+}

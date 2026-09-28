@@ -1,0 +1,7 @@
+{
+  "name": "shatale-mcp-server",
+  "description": "AI-native payment infrastructure that enables AI agents to make purchases, issue virtual cards, and manage spending within delegated budgets and policy controls.",
+  "source_repo": "Shatale-SASU/shatale-mcp-server",
+  "source_url": "https://github.com/Shatale-SASU/shatale-mcp-server",
+  "install": "npx -y shatale-mcp-server"
+}

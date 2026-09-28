@@ -1,0 +1,7 @@
+{
+  "name": "swiss-knife",
+  "description": "Provides MCP tools for common developer operations like file outlining, git commit context, test summary, process management, and waiting for conditions, returning structured JSON to reduce token usage.",
+  "source_repo": "vinmh/swiss-knife",
+  "source_url": "https://github.com/vinmh/swiss-knife",
+  "install": "# git clone --depth 1 https://github.com/vinmh/swiss-knife\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-modular",
+  "description": "A modular MCP server that lets you add tools by dropping JavaScript files into a tools directory, with built-in shell command execution and safe execution options.",
+  "source_repo": "itamos-technologia/mcp-server-modular",
+  "source_url": "https://github.com/itamos-technologia/mcp-server-modular",
+  "install": "# git clone --depth 1 https://github.com/itamos-technologia/mcp-server-modular\n# See source for mcpServers config block"
+}

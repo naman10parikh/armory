@@ -1,0 +1,7 @@
+{
+  "name": "farshid-mcp-imageprocessing",
+  "description": "A comprehensive OpenCV image-processing MCP server offering ~40 tools for webcam capture, image I/O, transforms, color manipulation, filtering, edge detection, object detection, and more.",
+  "source_repo": "pirahansiah/farshid-mcp-imageProcessing",
+  "source_url": "https://github.com/pirahansiah/farshid-mcp-imageProcessing",
+  "install": "# git clone --depth 1 https://github.com/pirahansiah/farshid-mcp-imageProcessing\n# See source for mcpServers config block"
+}

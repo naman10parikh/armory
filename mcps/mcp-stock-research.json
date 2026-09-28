@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stock-research",
+  "description": "A lightweight MCP server that provides stock research tools for Japanese and US stocks, including price, dividends, valuation, and screening, powered by yfinance.",
+  "source_repo": "toshi11-git/mcp_stock_server",
+  "source_url": "https://github.com/toshi11-git/mcp_stock_server",
+  "install": "# git clone --depth 1 https://github.com/toshi11-git/mcp_stock_server\n# See source for mcpServers config block"
+}

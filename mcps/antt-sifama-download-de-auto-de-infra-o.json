@@ -1,0 +1,7 @@
+{
+  "name": "antt-sifama-download-de-auto-de-infra-o",
+  "description": "MCP server for querying official Brazilian ANTT SIFAMA traffic violation notices, providing read-only access to download auto de infração documents via a single tool with prepaid credits.",
+  "source_repo": "mcp-dir/antt_sifama_download_auto-mcp",
+  "source_url": "https://github.com/mcp-dir/antt_sifama_download_auto-mcp",
+  "install": "npx -y antt_sifama_download_auto-mcp"
+}

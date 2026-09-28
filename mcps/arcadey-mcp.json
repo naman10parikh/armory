@@ -1,0 +1,7 @@
+{
+  "name": "arcadey-mcp",
+  "description": "MCP server for managing games on coolgptgames.com, enabling agents like Claude to publish, update, and track games via the Arcadey API.",
+  "source_repo": "alphajew420/arcadey-sdk",
+  "source_url": "https://github.com/alphajew420/arcadey-sdk",
+  "install": "# git clone --depth 1 https://github.com/alphajew420/arcadey-sdk\n# See source for mcpServers config block"
+}

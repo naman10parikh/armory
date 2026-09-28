@@ -1,0 +1,7 @@
+{
+  "name": "scipdf-mcp",
+  "description": "MCP server for downloading academic papers from DOI or title, resolving references, and generating citations. Supports batch downloads, multiple mirrors, and optional Unpaywall integration.",
+  "source_repo": "gjjisadog/scipdf-mcp",
+  "source_url": "https://github.com/gjjisadog/scipdf-mcp",
+  "install": "npx -y scipdf-mcp"
+}

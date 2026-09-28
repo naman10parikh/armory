@@ -1,0 +1,7 @@
+{
+  "name": "vlm-mcp",
+  "description": "Enables VLM-based image understanding through a unified API, supporting local llama.cpp and online Qwen3-VL backends, with tools for image analysis, OCR, chart analysis, translation, and multi-turn Q&A sessions.",
+  "source_repo": "YC-CLT/VLM-mcp",
+  "source_url": "https://github.com/YC-CLT/VLM-mcp",
+  "install": "npx -y VLM-mcp"
+}

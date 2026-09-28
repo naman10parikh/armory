@@ -1,0 +1,7 @@
+{
+  "name": "tapir-archicad-mcp",
+  "description": "A bridge allowing AI agents to control Archicad projects via dynamically generated tools from the Tapir and official Archicad JSON APIs.",
+  "source_repo": "SzamosiMate/tapir-archicad-MCP",
+  "source_url": "https://github.com/SzamosiMate/tapir-archicad-MCP",
+  "install": "npx -y tapir-archicad-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ensemble-pro",
+  "description": "Multi-model AI council MCP server that lets multiple LLMs debate, critique, and vote on questions to reach a consensus, with automatic failover and hot-swap of models during debates.",
+  "source_repo": "Svarkovsky/ensemble-pro",
+  "source_url": "https://github.com/Svarkovsky/ensemble-pro",
+  "install": "# git clone --depth 1 https://github.com/Svarkovsky/ensemble-pro\n# See source for mcpServers config block"
+}

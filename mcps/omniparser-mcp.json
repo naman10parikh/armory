@@ -1,0 +1,7 @@
+{
+  "name": "omniparser-mcp",
+  "description": "MCP server that wraps Microsoft OmniParser to provide screen parsing capabilities, returning structured UI elements (text, icons, coordinates) from screenshots for GUI agents.",
+  "source_repo": "cute-aaa/OmniParser-MCP",
+  "source_url": "https://github.com/cute-aaa/OmniParser-MCP",
+  "install": "npx -y OmniParser-MCP"
+}

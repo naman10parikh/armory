@@ -1,0 +1,7 @@
+{
+  "name": "mind-mem",
+  "description": "Drop-in memory layer for AI coding agents, upgrading them from chat history to a governed Memory OS with hybrid search, contradiction detection, and safe governance.",
+  "source_repo": "ovidiu-eremia/mind-mem",
+  "source_url": "https://github.com/ovidiu-eremia/mind-mem",
+  "install": "# git clone --depth 1 https://github.com/ovidiu-eremia/mind-mem\n# See source for mcpServers config block"
+}

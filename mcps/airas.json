@@ -1,0 +1,7 @@
+{
+  "name": "airas",
+  "description": "MCP server for AIRAS, an open-source research automation platform. It provides tools for paper search, retrieval, hypothesis generation, experiment execution, and paper writing, enabling automated or interactive research directly from MCP clients.",
+  "source_repo": "airas-org/airas",
+  "source_url": "https://github.com/airas-org/airas",
+  "install": "# git clone --depth 1 https://github.com/airas-org/airas\n# See source for mcpServers config block"
+}

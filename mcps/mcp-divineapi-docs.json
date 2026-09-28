@@ -1,0 +1,7 @@
+{
+  "name": "mcp-divineapi-docs",
+  "description": "Serves the already-public developer documentation for the DivineAPI REST API, enabling search, endpoint lookup, and example responses without authentication.",
+  "source_repo": "nitishautomates/mcp-divineapi-docs",
+  "source_url": "https://github.com/nitishautomates/mcp-divineapi-docs",
+  "install": "# git clone --depth 1 https://github.com/nitishautomates/mcp-divineapi-docs\n# See source for mcpServers config block"
+}

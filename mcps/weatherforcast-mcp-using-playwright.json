@@ -1,0 +1,7 @@
+{
+  "name": "weatherforcast-mcp-using-playwright",
+  "description": "Enables fetching weather forecasts for the USA via NWS API and for Israel via browser automation using Playwright.",
+  "source_repo": "chanaR-git/WeatherForcast-MCP-using-playwright",
+  "source_url": "https://github.com/chanaR-git/WeatherForcast-MCP-using-playwright",
+  "install": "# git clone --depth 1 https://github.com/chanaR-git/WeatherForcast-MCP-using-playwright\n# See source for mcpServers config block"
+}

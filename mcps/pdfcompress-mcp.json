@@ -1,0 +1,7 @@
+{
+  "name": "pdfcompress-mcp",
+  "description": "Enables AI agents to analyze, compress, and verify PDFs while preserving text, vectors, and document structure, with configurable presets and target-size limits.",
+  "source_repo": "ncepuee/PDFCompress",
+  "source_url": "https://github.com/ncepuee/PDFCompress",
+  "install": "# git clone --depth 1 https://github.com/ncepuee/PDFCompress\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "git-project-xray-mcp",
+  "description": "Provides AI assistants with progressive code intelligence to explore repository structure, find symbols, and assess the impact of changes using ast-grep.",
+  "source_repo": "Jamie-BitFlight/git-project-xray-mcp",
+  "source_url": "https://github.com/Jamie-BitFlight/git-project-xray-mcp",
+  "install": "npx -y git-project-xray-mcp"
+}

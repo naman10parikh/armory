@@ -1,0 +1,7 @@
+{
+  "name": "mcp-streaming-http-proxy",
+  "description": "Proxies STDIO-based MCP clients to streaming HTTP MCP servers, enabling local clients to connect to remote servers.",
+  "source_repo": "hahooh/mcp-streaming-http-proxy-nodejs",
+  "source_url": "https://github.com/hahooh/mcp-streaming-http-proxy-nodejs",
+  "install": "# git clone --depth 1 https://github.com/hahooh/mcp-streaming-http-proxy-nodejs\n# See source for mcpServers config block"
+}

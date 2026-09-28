@@ -1,0 +1,7 @@
+{
+  "name": "threads-growth-mcp",
+  "description": "Custom MCP server for Threads (Meta) — post, reply, and read insights via the official free Threads API.",
+  "source_repo": "my5757980/threads-growth-mcp",
+  "source_url": "https://github.com/my5757980/threads-growth-mcp",
+  "install": "npx -y threads-growth-mcp"
+}

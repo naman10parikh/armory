@@ -1,0 +1,7 @@
+{
+  "name": "dev-to-mcp-server",
+  "description": "Enables AI agents to interact with the Dev.to platform through MCP tools, including article search, retrieval, and creation.",
+  "source_repo": "sathick187/Blog_MCP",
+  "source_url": "https://github.com/sathick187/Blog_MCP",
+  "install": "npx -y Blog_MCP"
+}

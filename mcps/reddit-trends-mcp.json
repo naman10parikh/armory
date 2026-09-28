@@ -1,0 +1,7 @@
+{
+  "name": "reddit-trends-mcp",
+  "description": "Provides Reddit discussion volume trends, growth rates, and top trending topics for any keyword, accessible via MCP tools and Python client.",
+  "source_repo": "trendsmcp/reddit-trends-mcp",
+  "source_url": "https://github.com/trendsmcp/reddit-trends-mcp",
+  "install": "npx -y reddit-trends-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lubo3395-mcp-sqlite-server",
+  "description": "Provides a set of MCP tools to let AI assistants like Claude, Cursor, and VS Code Copilot interact with SQLite databases, supporting querying, schema management, and data import/export.",
+  "source_repo": "lubo3395/mcp-sqlite-server",
+  "source_url": "https://github.com/lubo3395/mcp-sqlite-server",
+  "install": "# git clone --depth 1 https://github.com/lubo3395/mcp-sqlite-server\n# See source for mcpServers config block"
+}

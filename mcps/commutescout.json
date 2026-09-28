@@ -1,0 +1,7 @@
+{
+  "name": "commutescout",
+  "description": "Provides live California road conditions, route planning, and an AI assistant over MCP, enabling natural-language queries about traffic, closures, chain controls, and more.",
+  "source_repo": "nicglazkov/commutescout",
+  "source_url": "https://github.com/nicglazkov/commutescout",
+  "install": "# git clone --depth 1 https://github.com/nicglazkov/commutescout\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fabtally-mcp",
+  "description": "MCP server for real FDM 3D-printing slicing, quoting, and design-for-manufacturability analysis via the FabTally API, supporting 12 printer profiles and 12 materials. Includes free discovery/printability tools and paid slice/quote/orientation tools settled via x402 (USDC on Base).",
+  "source_repo": "zvmzaretsky/fabtally-mcp",
+  "source_url": "https://github.com/zvmzaretsky/fabtally-mcp",
+  "install": "npx -y fabtally-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "minio-aiops",
+  "description": "Governed MinIO object-storage operations — capacity, exposure-surface audit, lifecycle, and healing RCA, with guarded bucket writes, unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.",
+  "source_repo": "AIops-tools/MinIO-AIops",
+  "source_url": "https://github.com/AIops-tools/MinIO-AIops",
+  "install": "# git clone --depth 1 https://github.com/AIops-tools/MinIO-AIops\n# See source for mcpServers config block"
+}

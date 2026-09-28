@@ -1,0 +1,7 @@
+{
+  "name": "machina",
+  "description": "AI's home on your Mac: gives AI agents remote access to iMessage, Notes, Reminders, Contacts, and more via MCP.",
+  "source_repo": "TechNickAI/machina",
+  "source_url": "https://github.com/TechNickAI/machina",
+  "install": "# git clone --depth 1 https://github.com/TechNickAI/machina\n# See source for mcpServers config block"
+}

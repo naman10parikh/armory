@@ -1,0 +1,7 @@
+{
+  "name": "galaxy-maps-mcp",
+  "description": "Enables validation, saving, publishing, and inspection of Galaxy Maps courses from local JSON files via Firebase integration.",
+  "source_repo": "Galaxy-Maps/galaxy-maps-mcp",
+  "source_url": "https://github.com/Galaxy-Maps/galaxy-maps-mcp",
+  "install": "npx -y galaxy-maps-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "docugenerate-mcp-server",
+  "description": "A local MCP server that wraps the DocuGenerate API to generate documents (invoices, contracts, letters) from templates via natural language commands.",
+  "source_repo": "hasankhadra/DocuGenerate-mcp",
+  "source_url": "https://github.com/hasankhadra/DocuGenerate-mcp",
+  "install": "npx -y DocuGenerate-mcp"
+}

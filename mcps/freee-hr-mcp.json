@@ -1,0 +1,7 @@
+{
+  "name": "freee-hr-mcp",
+  "description": "Enables managing freee HR operations like employee data, attendance, leave, and approvals through natural language in MCP-compatible clients such as Claude Desktop.",
+  "source_repo": "0xkohe/freee-hr-mcp",
+  "source_url": "https://github.com/0xkohe/freee-hr-mcp",
+  "install": "npx -y freee-hr-mcp"
+}

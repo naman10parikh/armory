@@ -1,0 +1,7 @@
+{
+  "name": "ckan-mcp-server",
+  "description": "Enables browsing and managing CKAN data portals through MCP-compatible clients like Claude Desktop.",
+  "source_repo": "ondics/ckan-mcp-server",
+  "source_url": "https://github.com/ondics/ckan-mcp-server",
+  "install": "npx -y ckan-mcp-server"
+}

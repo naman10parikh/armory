@@ -1,0 +1,7 @@
+{
+  "name": "velociraptor-mcp",
+  "description": "A proof-of-concept MCP bridge that exposes Velociraptor's forensic triage tools to LLMs, enabling natural language querying of Windows endpoints for artifacts like network connections and suspicious processes.",
+  "source_repo": "mgreen27/mcp-velociraptor",
+  "source_url": "https://github.com/mgreen27/mcp-velociraptor",
+  "install": "# git clone --depth 1 https://github.com/mgreen27/mcp-velociraptor\n# See source for mcpServers config block"
+}

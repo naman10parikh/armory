@@ -1,0 +1,7 @@
+{
+  "name": "firecrawl-lite-mcp-server",
+  "description": "Enables privacy-first web scraping and structured data extraction using a local headless browser and your own LLM key. Supports tools for scraping, batch scraping, data extraction with prompts or schemas, and screenshots.",
+  "source_repo": "ariangibson/firecrawl-lite-mcp-server",
+  "source_url": "https://github.com/ariangibson/firecrawl-lite-mcp-server",
+  "install": "npx -y firecrawl-lite-mcp-server"
+}

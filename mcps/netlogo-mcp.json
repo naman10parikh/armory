@@ -1,0 +1,7 @@
+{
+  "name": "netlogo-mcp",
+  "description": "The first MCP server for NetLogo, enabling AI assistants to create, run, and analyze agent-based models through natural conversation.",
+  "source_repo": "Razee4315/NetLogo-MCP",
+  "source_url": "https://github.com/Razee4315/NetLogo-MCP",
+  "install": "npx -y NetLogo-MCP"
+}

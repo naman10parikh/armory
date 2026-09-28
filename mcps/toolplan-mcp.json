@@ -1,0 +1,7 @@
+{
+  "name": "toolplan-mcp",
+  "description": "Turns raw project ideas into polished, cost-aware first prompts for AI coding agents by recommending high-leverage open-source tools and cost-saving techniques.",
+  "source_repo": "aaditya0602/toolplan-mcp",
+  "source_url": "https://github.com/aaditya0602/toolplan-mcp",
+  "install": "npx -y toolplan-mcp"
+}

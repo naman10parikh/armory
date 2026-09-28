@@ -1,0 +1,7 @@
+{
+  "name": "weather-packing-bot",
+  "description": "MCP server exposing Open-Meteo weather forecast tools, including a text chart renderer, for itinerary-aware packing recommendations.",
+  "source_repo": "TSchwierz/AutomationsAndMCPs",
+  "source_url": "https://github.com/TSchwierz/AutomationsAndMCPs",
+  "install": "# git clone --depth 1 https://github.com/TSchwierz/AutomationsAndMCPs\n# See source for mcpServers config block"
+}

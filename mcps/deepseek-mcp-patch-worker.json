@@ -1,0 +1,7 @@
+{
+  "name": "deepseek-mcp-patch-worker",
+  "description": "Generates or reviews Git unified diffs via DeepSeek API with local path validation, enabling secure patch suggestions without scanning repositories.",
+  "source_repo": "prelearn-code/deepseek-mcp",
+  "source_url": "https://github.com/prelearn-code/deepseek-mcp",
+  "install": "npx -y deepseek-mcp"
+}

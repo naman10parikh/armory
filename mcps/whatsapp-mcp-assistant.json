@@ -1,0 +1,7 @@
+{
+  "name": "whatsapp-mcp-assistant",
+  "description": "MCP server that exposes a real WhatsApp account to Cursor through safe, approval-gated tools and a local Go bridge, enabling chat management, contact search, and message send with explicit confirmation.",
+  "source_repo": "HamzaFayaz/whatsapp-mcp-assistant",
+  "source_url": "https://github.com/HamzaFayaz/whatsapp-mcp-assistant",
+  "install": "# git clone --depth 1 https://github.com/HamzaFayaz/whatsapp-mcp-assistant\n# See source for mcpServers config block"
+}

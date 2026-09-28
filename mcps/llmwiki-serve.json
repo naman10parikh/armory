@@ -1,0 +1,7 @@
+{
+  "name": "llmwiki-serve",
+  "description": "Serves local Markdown wikis as a read-only knowledge source with MCP tools for agent context retrieval.",
+  "source_repo": "knowledge-bridge-labs/llmwiki-serve",
+  "source_url": "https://github.com/knowledge-bridge-labs/llmwiki-serve",
+  "install": "# git clone --depth 1 https://github.com/knowledge-bridge-labs/llmwiki-serve\n# See source for mcpServers config block"
+}

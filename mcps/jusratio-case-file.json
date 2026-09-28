@@ -1,0 +1,7 @@
+{
+  "name": "jusratio-case-file",
+  "description": "Local-first MCP server that transforms civil case PDFs into queryable cases with structural provenance, evidence IDs, and page-level verification for drafting and factual review.",
+  "source_repo": "carlosvictorodrigues/jusratio-case-file",
+  "source_url": "https://github.com/carlosvictorodrigues/jusratio-case-file",
+  "install": "# git clone --depth 1 https://github.com/carlosvictorodrigues/jusratio-case-file\n# See source for mcpServers config block"
+}

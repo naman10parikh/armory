@@ -1,0 +1,7 @@
+{
+  "name": "content-research-mcp",
+  "description": "Combines Naver DataLab trends, blog/news search, translation, and Unsplash images into a single research pipeline for content creators. Generates comprehensive research reports from a single query.",
+  "source_repo": "wjddusrb03/content-research-mcp",
+  "source_url": "https://github.com/wjddusrb03/content-research-mcp",
+  "install": "npx -y content-research-mcp"
+}

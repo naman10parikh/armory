@@ -1,0 +1,7 @@
+{
+  "name": "portal-da-transpar-ncia-busca",
+  "description": "Enables querying the Brazilian government's transparency portal (Portal da Transparência) to search official public spending and transparency data. Read-only access via natural language from any MCP client, with prepaid pay-per-query usage.",
+  "source_repo": "mcp-dir/portal_transparencia_busca-mcp",
+  "source_url": "https://github.com/mcp-dir/portal_transparencia_busca-mcp",
+  "install": "npx -y portal_transparencia_busca-mcp"
+}

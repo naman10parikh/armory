@@ -1,0 +1,7 @@
+{
+  "name": "skatt-mcp",
+  "description": "A local MCP server that enables Claude to answer Norwegian tax questions with actual calculations, covering income, wealth, stocks, funds, real estate, crypto, and more.",
+  "source_repo": "ValiantEvers/skatt-mcp",
+  "source_url": "https://github.com/ValiantEvers/skatt-mcp",
+  "install": "npx -y skatt-mcp"
+}

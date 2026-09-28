@@ -1,0 +1,7 @@
+{
+  "name": "openusd-mcp",
+  "description": "Enables AI assistants to read, inspect, and manipulate OpenUSD 3D scenes, including scene graph traversal, property querying, mesh export, and variant switching.",
+  "source_repo": "daslabhq/openusd-mcp",
+  "source_url": "https://github.com/daslabhq/openusd-mcp",
+  "install": "npx -y openusd-mcp"
+}

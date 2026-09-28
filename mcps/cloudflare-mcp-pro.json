@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-mcp-pro",
+  "description": "A local stdio MCP server that provides 69 tools for Cloudflare REST API v4, including DNS, Zones, Workers, KV, R2, D1, Pages, Queues, Tunnels, SSL, WAF, Email Routing, Logpush and Workers AI, authenticated by a single API token.",
+  "source_repo": "helbertparanhos/cloudflare-mcp-pro",
+  "source_url": "https://github.com/helbertparanhos/cloudflare-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/helbertparanhos/cloudflare-mcp-pro\n# See source for mcpServers config block"
+}

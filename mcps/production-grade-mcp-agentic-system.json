@@ -1,0 +1,7 @@
+{
+  "name": "production-grade-mcp-agentic-system",
+  "description": "A production-grade MCP server designed for multi-tenant, authenticated, and observable AI agent systems, enabling secure tool execution across heterogeneous data sources.",
+  "source_repo": "FareedKhan-dev/production-grade-mcp-agentic-system",
+  "source_url": "https://github.com/FareedKhan-dev/production-grade-mcp-agentic-system",
+  "install": "# git clone --depth 1 https://github.com/FareedKhan-dev/production-grade-mcp-agentic-system\n# See source for mcpServers config block"
+}

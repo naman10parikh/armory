@@ -1,0 +1,7 @@
+{
+  "name": "dcc-mcp-renderdoc",
+  "description": "Enables automated graphics capture and replay with RenderDoc, allowing agents to launch executables, inspect captures, and export thumbnails or timeline JSON for regression triage.",
+  "source_repo": "dcc-mcp/dcc-mcp-renderdoc",
+  "source_url": "https://github.com/dcc-mcp/dcc-mcp-renderdoc",
+  "install": "# git clone --depth 1 https://github.com/dcc-mcp/dcc-mcp-renderdoc\n# See source for mcpServers config block"
+}

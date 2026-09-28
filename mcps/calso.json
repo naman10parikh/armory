@@ -1,0 +1,7 @@
+{
+  "name": "calso",
+  "description": "MCP server for Calso, a local Persian calendar and task manager. It provides 17 tools enabling AI to create tasks, read schedules, and plan days with Solar Hijri dates.",
+  "source_repo": "soroush83faraz/calso",
+  "source_url": "https://github.com/soroush83faraz/calso",
+  "install": "# git clone --depth 1 https://github.com/soroush83faraz/calso\n# See source for mcpServers config block"
+}

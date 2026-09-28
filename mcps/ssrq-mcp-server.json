@@ -1,0 +1,7 @@
+{
+  "name": "ssrq-mcp-server",
+  "description": "Exposes the Swiss Summary of Roman Law (SSRQ) authority files for persons and organisations, enabling search, lookup, and relation queries through MCP-compatible clients.",
+  "source_repo": "thodel/ssrq_mcp",
+  "source_url": "https://github.com/thodel/ssrq_mcp",
+  "install": "npx -y ssrq_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentimus-mcp-server",
+  "description": "Enables AI agents to interact with WordPress sites over MCP, providing read-only tools for AEO/GEO readiness, AI visibility, traffic, request logs, bot identification, page checks, and schema/markdown previews, plus opt-in write tools to draft, edit, and publish posts with permission checks and audi",
+  "source_repo": "heera/agentimus",
+  "source_url": "https://github.com/heera/agentimus",
+  "install": "# git clone --depth 1 https://github.com/heera/agentimus\n# See source for mcpServers config block"
+}

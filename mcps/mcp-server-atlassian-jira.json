@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-atlassian-jira",
+  "description": "An MCP server for interacting with Atlassian Jira, enabling issue management, attachments, and other operations via natural language.",
+  "source_repo": "asky74/mcp-server-atlassian-jira",
+  "source_url": "https://github.com/asky74/mcp-server-atlassian-jira",
+  "install": "# git clone --depth 1 https://github.com/asky74/mcp-server-atlassian-jira\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ollama-mcp",
+  "description": "MCP server that lets Claude Code offload simple tasks like code explanation, writing tests, and adding comments to a local Ollama model, saving Claude API tokens.",
+  "source_repo": "KoDiK2005/ollama-mcp",
+  "source_url": "https://github.com/KoDiK2005/ollama-mcp",
+  "install": "npx -y ollama-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skilljit",
+  "description": "Enables on-demand discovery and loading of skills and MCP tools through a fixed set of routing tools, minimizing token overhead.",
+  "source_repo": "aqibsidd/skilljit",
+  "source_url": "https://github.com/aqibsidd/skilljit",
+  "install": "# git clone --depth 1 https://github.com/aqibsidd/skilljit\n# See source for mcpServers config block"
+}

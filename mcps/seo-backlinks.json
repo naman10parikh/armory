@@ -1,0 +1,7 @@
+{
+  "name": "seo-backlinks",
+  "description": "Enables AI agents to check backlinks, domain rating, and expired domains using the seo-backlinks.net API.",
+  "source_repo": "mouhabmzibra-rgb/mcp-seo-backlinks",
+  "source_url": "https://github.com/mouhabmzibra-rgb/mcp-seo-backlinks",
+  "install": "# git clone --depth 1 https://github.com/mouhabmzibra-rgb/mcp-seo-backlinks\n# See source for mcpServers config block"
+}

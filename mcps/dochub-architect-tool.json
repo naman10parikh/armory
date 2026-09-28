@@ -1,0 +1,7 @@
+{
+  "name": "dochub-architect-tool",
+  "description": "An MCP server that helps transfer C4 diagrams from DrawIO and PlantUML into a DocHub architecture repository.",
+  "source_repo": "john7ross/dochub-architect-tool",
+  "source_url": "https://github.com/john7ross/dochub-architect-tool",
+  "install": "# git clone --depth 1 https://github.com/john7ross/dochub-architect-tool\n# See source for mcpServers config block"
+}

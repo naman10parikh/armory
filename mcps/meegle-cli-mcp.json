@@ -1,0 +1,7 @@
+{
+  "name": "meegle-cli-mcp",
+  "description": "Enables interaction with Meegle project management via local CLI, supporting work items, views, charts, teams, and workflows through natural language in MCP clients like VS Code.",
+  "source_repo": "yingcaihuang/meegle-cli-mcp",
+  "source_url": "https://github.com/yingcaihuang/meegle-cli-mcp",
+  "install": "npx -y meegle-cli-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reader3000-mcp",
+  "description": "Enables sharing Markdown documents for collaborative review with inline annotations and structured change requests.",
+  "source_repo": "angelux/reader3000-mcp",
+  "source_url": "https://github.com/angelux/reader3000-mcp",
+  "install": "npx -y reader3000-mcp"
+}

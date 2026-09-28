@@ -1,0 +1,7 @@
+{
+  "name": "manga-mcp",
+  "description": "Enables generating original English-dialogue manga with configurable Japanese art styles through an MCP server, including story scripting, panel image generation, and page composition.",
+  "source_repo": "Shdaowfish066/First_MCP",
+  "source_url": "https://github.com/Shdaowfish066/First_MCP",
+  "install": "npx -y First_MCP"
+}

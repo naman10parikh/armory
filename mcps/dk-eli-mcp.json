@@ -1,0 +1,7 @@
+{
+  "name": "dk-eli-mcp",
+  "description": "Provides access to Danish legislation from Retsinformation.dk, enabling retrieval of act metadata, full text, and recent changes with verifiable citations.",
+  "source_repo": "matematicsolutions/dk-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/dk-eli-mcp",
+  "install": "npx -y dk-eli-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wasilah-mcp",
+  "description": "Remote MCP server exposing Wasilah's Islamic reference data, enabling prayer-time, Qibla, Hijri-date, and Quran-audio queries via natural language.",
+  "source_repo": "mumullickm/wasilah-mcp",
+  "source_url": "https://github.com/mumullickm/wasilah-mcp",
+  "install": "npx -y wasilah-mcp"
+}

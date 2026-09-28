@@ -1,0 +1,7 @@
+{
+  "name": "tmetric-mcp-server",
+  "description": "Integrates with TMetric for time tracking, enabling project listing, timer start/stop, and deletion of entries, with GitLab issue support.",
+  "source_repo": "guglielmo/tmetric-minimal-mcp",
+  "source_url": "https://github.com/guglielmo/tmetric-minimal-mcp",
+  "install": "npx -y tmetric-minimal-mcp"
+}

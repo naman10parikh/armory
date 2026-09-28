@@ -1,0 +1,7 @@
+{
+  "name": "hystersis-mcp-server",
+  "description": "Connects AI assistants to a persistent memory engine with Neo4j knowledge graph and ProMem extraction, enabling long-term context and associative memory across chats and workspaces.",
+  "source_repo": "Himan-D/hystersis-mcp",
+  "source_url": "https://github.com/Himan-D/hystersis-mcp",
+  "install": "npx -y hystersis-mcp"
+}

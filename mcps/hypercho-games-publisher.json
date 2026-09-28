@@ -1,0 +1,7 @@
+{
+  "name": "hypercho-games-publisher",
+  "description": "Enables AI agents to validate and publish game bundles to the Hypercho Games marketplace, including uploading browser builds, banners, screenshots, and metadata.",
+  "source_repo": "Hypercho-Inc/hypercho-games",
+  "source_url": "https://github.com/Hypercho-Inc/hypercho-games",
+  "install": "# git clone --depth 1 https://github.com/Hypercho-Inc/hypercho-games\n# See source for mcpServers config block"
+}

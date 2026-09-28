@@ -1,0 +1,7 @@
+{
+  "name": "rag",
+  "description": "A CLI tool and MCP server that turns markdown documentation into a searchable, queryable knowledge base.",
+  "source_repo": "FrameMuse/llm-rag",
+  "source_url": "https://github.com/FrameMuse/llm-rag",
+  "install": "# git clone --depth 1 https://github.com/FrameMuse/llm-rag\n# See source for mcpServers config block"
+}

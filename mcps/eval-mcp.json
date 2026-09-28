@@ -1,0 +1,7 @@
+{
+  "name": "eval-mcp",
+  "description": "An MCP server for prompt and RAG evaluation workflows, enabling users to register, create API keys, and run evaluations via Claude Desktop, Cursor, or other MCP clients, with a hosted backend for heavy evaluation work.",
+  "source_repo": "AyushSaha184/Eval_MCP",
+  "source_url": "https://github.com/AyushSaha184/Eval_MCP",
+  "install": "npx -y Eval_MCP"
+}

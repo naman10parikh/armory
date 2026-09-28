@@ -1,0 +1,7 @@
+{
+  "name": "finchat",
+  "description": "Enables AI agents to manage personal finances through MCP tools for transaction management, spending analytics, and goal tracking.",
+  "source_repo": "SeyiSwathhyYaganti/finchat-mcp-financial-agent",
+  "source_url": "https://github.com/SeyiSwathhyYaganti/finchat-mcp-financial-agent",
+  "install": "# git clone --depth 1 https://github.com/SeyiSwathhyYaganti/finchat-mcp-financial-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "greece-invoice-mcp",
+  "description": "Enables AI agents to issue Greek myDATA electronic invoices (τιμολόγιο) to the AADE platform, returning the official MARK. Supports creating and querying invoices with automatic VAT handling.",
+  "source_repo": "junter1989k-ai/greece-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/greece-invoice-mcp",
+  "install": "npx -y greece-invoice-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "senior-sde-mcp-guard",
+  "description": "Enforces AST-based architectural guardrails on AI-generated code, blocking writes that violate maintainability, security, or complexity rules and prompting immediate refactoring.",
+  "source_repo": "amirmadani/senior-sde-mcp-guard",
+  "source_url": "https://github.com/amirmadani/senior-sde-mcp-guard",
+  "install": "# git clone --depth 1 https://github.com/amirmadani/senior-sde-mcp-guard\n# See source for mcpServers config block"
+}

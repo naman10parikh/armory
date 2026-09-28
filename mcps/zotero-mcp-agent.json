@@ -1,0 +1,7 @@
+{
+  "name": "zotero-mcp-agent",
+  "description": "Enables research paper search and download, Zotero library management, and knowledge base export through natural language.",
+  "source_repo": "744649181/zotero-mcp",
+  "source_url": "https://github.com/744649181/zotero-mcp",
+  "install": "npx -y zotero-mcp"
+}

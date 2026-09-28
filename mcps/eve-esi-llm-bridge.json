@@ -1,0 +1,7 @@
+{
+  "name": "eve-esi-llm-bridge",
+  "description": "MCP server that connects EVE Online's ESI API to LLM clients, enabling reading private and public EVE data, resolving names and IDs, and optionally executing a small allowlist of write actions.",
+  "source_repo": "4i7/eve-esi-llm-bridge",
+  "source_url": "https://github.com/4i7/eve-esi-llm-bridge",
+  "install": "# git clone --depth 1 https://github.com/4i7/eve-esi-llm-bridge\n# See source for mcpServers config block"
+}

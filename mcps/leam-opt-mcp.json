@@ -1,0 +1,7 @@
+{
+  "name": "leam-opt-mcp",
+  "description": "Enables engineers to convert antenna papers/diagrams and natural language specs into auditable, versionable HFSS Python modeling code, with optional simulation and parametric optimization.",
+  "source_repo": "jacksonnnzzz/leam-opt-mcp",
+  "source_url": "https://github.com/jacksonnnzzz/leam-opt-mcp",
+  "install": "npx -y leam-opt-mcp"
+}

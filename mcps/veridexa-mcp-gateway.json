@@ -1,0 +1,7 @@
+{
+  "name": "veridexa-mcp-gateway",
+  "description": "Exposes the Veridexa S2S API to MCP clients (e.g., ChatGPT) via Streamable HTTP, allowing document verification and report retrieval.",
+  "source_repo": "veridexaweb2026/veridexa-mcp-gatway",
+  "source_url": "https://github.com/veridexaweb2026/veridexa-mcp-gatway",
+  "install": "# git clone --depth 1 https://github.com/veridexaweb2026/veridexa-mcp-gatway\n# See source for mcpServers config block"
+}

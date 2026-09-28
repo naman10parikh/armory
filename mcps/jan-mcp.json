@@ -1,0 +1,7 @@
+{
+  "name": "jan-mcp",
+  "description": "Converts raw GitHub notes into polished Polish release notes, PR descriptions, and changelogs using predefined workflows.",
+  "source_repo": "pdurlej/jan-subagent",
+  "source_url": "https://github.com/pdurlej/jan-subagent",
+  "install": "# git clone --depth 1 https://github.com/pdurlej/jan-subagent\n# See source for mcpServers config block"
+}

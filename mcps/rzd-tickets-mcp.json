@@ -1,0 +1,7 @@
+{
+  "name": "rzd-tickets-mcp",
+  "description": "Read-only MCP server that queries Russian Railways (ticket.rzd.ru) for train schedules, car types, prices, and seat availability. It provides official RZD links for manual booking but does not log in, book, or pay.",
+  "source_repo": "ex3lite/mcp_rzd_tickets",
+  "source_url": "https://github.com/ex3lite/mcp_rzd_tickets",
+  "install": "# git clone --depth 1 https://github.com/ex3lite/mcp_rzd_tickets\n# See source for mcpServers config block"
+}

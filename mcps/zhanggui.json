@@ -1,0 +1,7 @@
+{
+  "name": "zhanggui",
+  "description": "Enables AI agents to manage a phone screen protector store's inventory, orders, quotes, and shop information via standard MCP tools.",
+  "source_repo": "liminjun813/ai-agent-mozhanggui",
+  "source_url": "https://github.com/liminjun813/ai-agent-mozhanggui",
+  "install": "# git clone --depth 1 https://github.com/liminjun813/ai-agent-mozhanggui\n# See source for mcpServers config block"
+}

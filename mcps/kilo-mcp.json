@@ -1,0 +1,7 @@
+{
+  "name": "kilo-mcp",
+  "description": "MCP server that bridges Claude with KiloCode, enabling Claude to act as architect and delegate coding tasks to Kilo's fast CLI agent while monitoring progress and reviewing results.",
+  "source_repo": "primax79/kilo-mcp",
+  "source_url": "https://github.com/primax79/kilo-mcp",
+  "install": "npx -y kilo-mcp"
+}

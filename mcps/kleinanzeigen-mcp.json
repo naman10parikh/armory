@@ -1,0 +1,7 @@
+{
+  "name": "kleinanzeigen-mcp",
+  "description": "Search Kleinanzeigen.de, Germany's largest classifieds site, via MCP tools without API keys.",
+  "source_repo": "jnslmk/kleinanzeigen-mcp",
+  "source_url": "https://github.com/jnslmk/kleinanzeigen-mcp",
+  "install": "npx -y kleinanzeigen-mcp"
+}

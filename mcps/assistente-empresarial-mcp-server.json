@@ -1,0 +1,7 @@
+{
+  "name": "assistente-empresarial-mcp-server",
+  "description": "Enables natural-language queries about sales and inventory from an Excel spreadsheet, plus web search and currency exchange rates via external APIs.",
+  "source_repo": "rafael-BM08/Assistente_empresarial_v1",
+  "source_url": "https://github.com/rafael-BM08/Assistente_empresarial_v1",
+  "install": "# git clone --depth 1 https://github.com/rafael-BM08/Assistente_empresarial_v1\n# See source for mcpServers config block"
+}

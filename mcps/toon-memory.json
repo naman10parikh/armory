@@ -1,0 +1,7 @@
+{
+  "name": "toon-memory",
+  "description": "MCP memory server for AI coding agents to remember decisions, patterns, and bugs between sessions. Provides persistent memory with 37 MCP tools, multi-session coordination, and token-efficient recall.",
+  "source_repo": "LuiggiVal08/toon-memory",
+  "source_url": "https://github.com/LuiggiVal08/toon-memory",
+  "install": "# git clone --depth 1 https://github.com/LuiggiVal08/toon-memory\n# See source for mcpServers config block"
+}

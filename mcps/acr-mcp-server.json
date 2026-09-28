@@ -1,0 +1,7 @@
+{
+  "name": "acr-mcp-server",
+  "description": "Exposes ACR's memory, skill, web, and GitHub search tools to any MCP client, enabling task execution and tool access via the MCP protocol.",
+  "source_repo": "hbkdad/arc",
+  "source_url": "https://github.com/hbkdad/arc",
+  "install": "# git clone --depth 1 https://github.com/hbkdad/arc\n# See source for mcpServers config block"
+}

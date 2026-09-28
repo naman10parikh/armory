@@ -1,0 +1,7 @@
+{
+  "name": "connectsecure-mcp",
+  "description": "MCP server for ConnectSecure vulnerability management, exposing 285 read-only tools to query assets, vulnerabilities, Active Directory, and more via natural language.",
+  "source_repo": "MSPbotsAI/connectsecure-mcp",
+  "source_url": "https://github.com/MSPbotsAI/connectsecure-mcp",
+  "install": "npx -y connectsecure-mcp"
+}

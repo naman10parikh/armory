@@ -1,0 +1,7 @@
+{
+  "name": "linda-mcp",
+  "description": "Enables AI models to search and retrieve legal documents, magazine issues, comments, and related references from the Linde database (linda.lindeverlag.at) using the Model Context Protocol.",
+  "source_repo": "blueqwertz/linda-mcp",
+  "source_url": "https://github.com/blueqwertz/linda-mcp",
+  "install": "npx -y linda-mcp"
+}

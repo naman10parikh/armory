@@ -1,0 +1,7 @@
+{
+  "name": "statsbudget-mcp",
+  "description": "Provides structured access to Swedish national budget data, including allocations, tax revenue, and fiscal data. Enables queries on budget overviews, expenditure areas, revenue timeseries, and voting results via MCP tools.",
+  "source_repo": "bjornwalther/statsbudget-mcp",
+  "source_url": "https://github.com/bjornwalther/statsbudget-mcp",
+  "install": "npx -y statsbudget-mcp"
+}

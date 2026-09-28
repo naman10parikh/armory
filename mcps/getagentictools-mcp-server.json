@@ -1,0 +1,7 @@
+{
+  "name": "getagentictools-mcp-server",
+  "description": "Enables searching and retrieving details of 41,000+ agent skills, MCP servers, Claude Code plugins, and agentic loops from any MCP-capable agent.",
+  "source_repo": "dmoka/getagentictools-mcp",
+  "source_url": "https://github.com/dmoka/getagentictools-mcp",
+  "install": "npx -y getagentictools-mcp"
+}

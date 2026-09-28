@@ -1,0 +1,7 @@
+{
+  "name": "bio-mcp",
+  "description": "Enables users to generate volcano plots by submitting jobs with input files and parameters, supporting local or Docker execution.",
+  "source_repo": "ricancong/Bio_MCP",
+  "source_url": "https://github.com/ricancong/Bio_MCP",
+  "install": "npx -y Bio_MCP"
+}

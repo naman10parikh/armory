@@ -1,0 +1,7 @@
+{
+  "name": "publish-artifacts-mcp",
+  "description": "Enables publishing, updating, and sharing HTML artifacts with strict security isolation (origin separation, CSP, API keys) via MCP tools.",
+  "source_repo": "IsacGama/publish-artifacts-mcp-system",
+  "source_url": "https://github.com/IsacGama/publish-artifacts-mcp-system",
+  "install": "# git clone --depth 1 https://github.com/IsacGama/publish-artifacts-mcp-system\n# See source for mcpServers config block"
+}

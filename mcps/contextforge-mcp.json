@@ -1,0 +1,7 @@
+{
+  "name": "contextforge-mcp",
+  "description": "Orchestrates codebase indexing, token compression, and spec-driven development into a single MCP pipeline for AI coding agents.",
+  "source_repo": "capatinore/contextforge-mcp",
+  "source_url": "https://github.com/capatinore/contextforge-mcp",
+  "install": "npx -y contextforge-mcp"
+}

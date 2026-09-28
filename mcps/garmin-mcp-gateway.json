@@ -1,0 +1,7 @@
+{
+  "name": "garmin-mcp-gateway",
+  "description": "Multi-user OAuth 2.1 gateway allowing a trusted circle to connect their Garmin Connect accounts to Claude, enabling natural language access to Garmin tools.",
+  "source_repo": "VelkyVenik/garmin-mcp-gateway",
+  "source_url": "https://github.com/VelkyVenik/garmin-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/VelkyVenik/garmin-mcp-gateway\n# See source for mcpServers config block"
+}

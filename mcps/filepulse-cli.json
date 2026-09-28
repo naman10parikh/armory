@@ -1,0 +1,7 @@
+{
+  "name": "filepulse-cli",
+  "description": "Intelligent file search engine with Frecency ranking, fuzzy matching, and Git awareness. Provides MCP server for AI agents to search files, content, and get file statistics via natural language.",
+  "source_repo": "gitstq/FilePulse-CLI",
+  "source_url": "https://github.com/gitstq/FilePulse-CLI",
+  "install": "# git clone --depth 1 https://github.com/gitstq/FilePulse-CLI\n# See source for mcpServers config block"
+}

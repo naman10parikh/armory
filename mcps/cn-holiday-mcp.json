@@ -1,0 +1,7 @@
+{
+  "name": "cn-holiday-mcp",
+  "description": "Zero-dependency MCP server for querying Chinese public holidays and makeup workdays (2025-2026), offering tools to check specific dates or list yearly schedules offline.",
+  "source_repo": "qianwei2333/cn-holiday-mcp",
+  "source_url": "https://github.com/qianwei2333/cn-holiday-mcp",
+  "install": "npx -y cn-holiday-mcp"
+}

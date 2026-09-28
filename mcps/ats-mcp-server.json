@@ -1,0 +1,7 @@
+{
+  "name": "ats-mcp-server",
+  "description": "Aggregates job listings from multiple ATS and job board APIs via MCP, enabling unified search and retrieval in a structured format without HTML parsing.",
+  "source_repo": "Alexvozhak/ats-mcp-server",
+  "source_url": "https://github.com/Alexvozhak/ats-mcp-server",
+  "install": "npx -y ats-mcp-server"
+}

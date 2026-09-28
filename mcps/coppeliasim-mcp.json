@@ -1,0 +1,7 @@
+{
+  "name": "coppeliasim-mcp",
+  "description": "An MCP server that lets Claude Code or any MCP client drive a running CoppeliaSim 4.10 simulation--building scenes, moving objects, creating joints and proximity sensors, running simulations, and reading sensors--without exposing arbitrary Lua execution.",
+  "source_repo": "KevinInoCol/coppeliasim-mcp",
+  "source_url": "https://github.com/KevinInoCol/coppeliasim-mcp",
+  "install": "npx -y coppeliasim-mcp"
+}

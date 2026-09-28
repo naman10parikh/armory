@@ -1,0 +1,7 @@
+{
+  "name": "minirag",
+  "description": "MCP server for a self-hosted RAG system that enables AI tools to search and retrieve grounded answers from locally ingested documents via MCP tools, with local embeddings and no API key required.",
+  "source_repo": "mck-s/minirag-pgvector-mcp",
+  "source_url": "https://github.com/mck-s/minirag-pgvector-mcp",
+  "install": "npx -y minirag-pgvector-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unified-search-mcp-server",
+  "description": "Enables AI agents to perform multi-platform searches (Douyin, Xiaohongshu, Zhihu, CSDN) and reverse-engineer arbitrary websites using browser automation and CDP.",
+  "source_repo": "cn-hash/unified-search-MCP-Server",
+  "source_url": "https://github.com/cn-hash/unified-search-MCP-Server",
+  "install": "npx -y unified-search-MCP-Server"
+}

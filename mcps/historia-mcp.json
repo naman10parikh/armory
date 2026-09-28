@@ -1,0 +1,7 @@
+{
+  "name": "historia-mcp",
+  "description": "MCP server providing access to Kenya and East Africa historical archives, including timelines, independence leaders, cultural heritage sites, ethnic groups guide, oral history resources, and historical documents.",
+  "source_repo": "gabrielmahia/historia-mcp",
+  "source_url": "https://github.com/gabrielmahia/historia-mcp",
+  "install": "npx -y historia-mcp"
+}

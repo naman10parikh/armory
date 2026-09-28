@@ -1,0 +1,7 @@
+{
+  "name": "ora",
+  "description": "Persistent memory + intelligent context for Claude Code. Save and reuse solutions, decisions, and patterns across projects.",
+  "source_repo": "black-dash77/ora-mcp",
+  "source_url": "https://github.com/black-dash77/ora-mcp",
+  "install": "npx -y ora-mcp"
+}

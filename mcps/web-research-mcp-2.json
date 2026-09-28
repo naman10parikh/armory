@@ -1,0 +1,7 @@
+{
+  "name": "web-research-mcp-2",
+  "description": "Enables AI agents to search and fetch high-quality information from multiple sources, including general web APIs, Wikipedia, arXiv, Hacker News, Stack Exchange, and Crossref, with optional pro-mode deep research and clean markdown page extraction.",
+  "source_repo": "infinit3labs/web-research-mcp",
+  "source_url": "https://github.com/infinit3labs/web-research-mcp",
+  "install": "npx -y web-research-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "documize-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides seamless integration with the Documize API. This server enables AI assistants like Claude to interact with your Documize knowledge base - search documents, manage spaces, handle attachments, and more.",
+  "source_repo": "artfulhacker/documize-mcp-server",
+  "source_url": "https://github.com/artfulhacker/documize-mcp-server",
+  "install": "npx -y documize-mcp-server"
+}

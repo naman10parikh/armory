@@ -1,0 +1,7 @@
+{
+  "name": "subiekt123-mcp",
+  "description": "Stateless MCP server for invoicing in Subiekt 123 using the InsERT API, enabling tools to preview and create invoices, manage documents, and fetch exchange rates.",
+  "source_repo": "szlaskidaniel/subiekt123-mcp",
+  "source_url": "https://github.com/szlaskidaniel/subiekt123-mcp",
+  "install": "npx -y subiekt123-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "companies-house-screening-mcp",
+  "description": "MCP server for screening UK companies against the Companies House register, offering batch supplier screening, company snapshots, and factual signals rather than risk scores, with tools that never guess company numbers and documentation generated from the running server.",
+  "source_repo": "kaylum54/companies-house-screening-mcp",
+  "source_url": "https://github.com/kaylum54/companies-house-screening-mcp",
+  "install": "npx -y companies-house-screening-mcp"
+}

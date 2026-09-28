@@ -1,0 +1,7 @@
+{
+  "name": "blossom",
+  "description": "Enables collaborative project planning by connecting an MCP-capable chat app to a generative AI that manages tasks and dependencies, with a live web UI for visualization.",
+  "source_repo": "tantinlala/blossom-mcp",
+  "source_url": "https://github.com/tantinlala/blossom-mcp",
+  "install": "npx -y blossom-mcp"
+}

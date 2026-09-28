@@ -1,0 +1,7 @@
+{
+  "name": "mcp-catfacts",
+  "description": "Wraps the Cat Facts API to fetch random cat facts and list cat breeds, enabling natural language access to feline trivia.",
+  "source_repo": "pipeworx-io/mcp-catfacts",
+  "source_url": "https://github.com/pipeworx-io/mcp-catfacts",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-catfacts\n# See source for mcpServers config block"
+}

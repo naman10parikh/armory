@@ -1,0 +1,7 @@
+{
+  "name": "mistmind-mcp-server",
+  "description": "Enables LLMs to interact with the Juniper Mist API via a dynamic index and sandboxed code execution, allowing search and execution of all 1,011 endpoints without pre-training.",
+  "source_repo": "nagarjun226/mistmind",
+  "source_url": "https://github.com/nagarjun226/mistmind",
+  "install": "# git clone --depth 1 https://github.com/nagarjun226/mistmind\n# See source for mcpServers config block"
+}

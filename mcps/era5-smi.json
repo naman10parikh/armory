@@ -1,0 +1,7 @@
+{
+  "name": "era5-smi",
+  "description": "Calculates soil moisture index (SMI) from ERA5-Land data, providing MCP tools to fetch and extract point time series.",
+  "source_repo": "leandroavl/SMI_mcp",
+  "source_url": "https://github.com/leandroavl/SMI_mcp",
+  "install": "npx -y SMI_mcp"
+}

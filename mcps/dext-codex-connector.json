@@ -1,0 +1,7 @@
+{
+  "name": "dext-codex-connector",
+  "description": "An MCP server for Dext Data Health & Insights, enabling client portfolio summaries, health risk detection, client comparisons, and health snapshots through secure tenant-scoped tools.",
+  "source_repo": "bidule995/dext-codex-connector",
+  "source_url": "https://github.com/bidule995/dext-codex-connector",
+  "install": "# git clone --depth 1 https://github.com/bidule995/dext-codex-connector\n# See source for mcpServers config block"
+}

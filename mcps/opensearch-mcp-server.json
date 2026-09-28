@@ -1,0 +1,7 @@
+{
+  "name": "opensearch-mcp-server",
+  "description": "Enables interaction with OpenSearch clusters, providing tools to list indices, retrieve mappings, search using query DSL, and get shard information.",
+  "source_repo": "rithinpullela/opensearch-mcp-server",
+  "source_url": "https://github.com/rithinpullela/opensearch-mcp-server",
+  "install": "npx -y opensearch-mcp-server"
+}

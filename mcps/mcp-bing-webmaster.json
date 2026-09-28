@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bing-webmaster",
+  "description": "Provides secure, read-only access to Bing Webmaster Tools analytics and non-destructive URL submission for indexing, without destructive site management capabilities.",
+  "source_repo": "AkiraMatsumoto-github/mcp-bing-webmaster",
+  "source_url": "https://github.com/AkiraMatsumoto-github/mcp-bing-webmaster",
+  "install": "# git clone --depth 1 https://github.com/AkiraMatsumoto-github/mcp-bing-webmaster\n# See source for mcpServers config block"
+}

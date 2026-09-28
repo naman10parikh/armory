@@ -1,0 +1,7 @@
+{
+  "name": "hive-mcp-cdn",
+  "description": "A caching MCP server for A2A capabilities that stores and retrieves arbitrary objects with ETag support, two-tier LRU/SQLite storage, and x402 pay-per-use billing in USDC.",
+  "source_repo": "srotzin/hive-mcp-cdn",
+  "source_url": "https://github.com/srotzin/hive-mcp-cdn",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-cdn\n# See source for mcpServers config block"
+}

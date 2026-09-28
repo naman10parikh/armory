@@ -1,0 +1,7 @@
+{
+  "name": "toy-mcp-server",
+  "description": "Enables MCP clients like Claude Desktop to run dice rolling and coin flipping tools with true randomness, and to fetch basic server metadata as a read-only resource.",
+  "source_repo": "kritikatripathi03/toy-mcp-server",
+  "source_url": "https://github.com/kritikatripathi03/toy-mcp-server",
+  "install": "npx -y toy-mcp-server"
+}

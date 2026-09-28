@@ -1,0 +1,7 @@
+{
+  "name": "coral-query-plane",
+  "description": "Paid remote MCP endpoint for AI SDK data queries, offering structured JSON tools, token-based access, usage receipts, and audit-ready workflow evidence.",
+  "source_repo": "clauxel/coral-query-plane-mcp",
+  "source_url": "https://github.com/clauxel/coral-query-plane-mcp",
+  "install": "npx -y coral-query-plane-mcp"
+}

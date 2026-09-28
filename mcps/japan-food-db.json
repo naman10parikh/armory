@@ -1,0 +1,7 @@
+{
+  "name": "japan-food-db",
+  "description": "Enables AI agents to resolve Japanese food names to nutrition facts per 100g based on official Japanese food composition data.",
+  "source_repo": "yuki00yossi/toriigate-platform",
+  "source_url": "https://github.com/yuki00yossi/toriigate-platform",
+  "install": "# git clone --depth 1 https://github.com/yuki00yossi/toriigate-platform\n# See source for mcpServers config block"
+}

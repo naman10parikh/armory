@@ -1,0 +1,7 @@
+{
+  "name": "mailmate-mcp",
+  "description": "Enables searching, reading, moving, tagging, and linking emails in MailMate via MCP tools, allowing Claude to manage email without leaving the conversation.",
+  "source_repo": "huckncatch/mailmate-mcp",
+  "source_url": "https://github.com/huckncatch/mailmate-mcp",
+  "install": "npx -y mailmate-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "feedly-mcp",
+  "description": "Enables Claude to read your Feedly subscriptions via a local stdio server, listing folders and feeds, fetching recent articles, checking unread counts, searching for new feeds, and optionally marking items as read while keeping your API token on your machine.",
+  "source_repo": "fredrsat/feedly-mcp",
+  "source_url": "https://github.com/fredrsat/feedly-mcp",
+  "install": "npx -y feedly-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "waha-whatsapp-mcp-server",
+  "description": "Enables Claude to interact with WhatsApp through a unified backend API, providing 20 tools for messaging, media, groups, contacts, and chat management.",
+  "source_repo": "Maheidem/waha-mcp-server",
+  "source_url": "https://github.com/Maheidem/waha-mcp-server",
+  "install": "npx -y waha-mcp-server"
+}

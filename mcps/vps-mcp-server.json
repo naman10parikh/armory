@@ -1,0 +1,7 @@
+{
+  "name": "vps-mcp-server",
+  "description": "Enables remote command execution, scripting, file operations, and persistent tmux sessions on a VPS via MCP protocol.",
+  "source_repo": "zhy1369800/vps-mcp-server",
+  "source_url": "https://github.com/zhy1369800/vps-mcp-server",
+  "install": "npx -y vps-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wandering-rag-mcp",
+  "description": "A local RAG knowledge base MCP server that exposes semantic document search as tools using zvec for vector storage and Qwen3-Embedding for text embedding.",
+  "source_repo": "mambo-wang/wandering-rag-mcp",
+  "source_url": "https://github.com/mambo-wang/wandering-rag-mcp",
+  "install": "npx -y wandering-rag-mcp"
+}

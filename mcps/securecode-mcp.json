@@ -1,0 +1,7 @@
+{
+  "name": "securecode-mcp",
+  "description": "Standalone MCP server that provides security scanning, project mapping, and vulnerability fix generation to AI coding assistants.",
+  "source_repo": "AhmedSleem06/SecureCode-mcp",
+  "source_url": "https://github.com/AhmedSleem06/SecureCode-mcp",
+  "install": "npx -y SecureCode-mcp"
+}

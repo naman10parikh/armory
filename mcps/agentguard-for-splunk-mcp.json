@@ -1,0 +1,7 @@
+{
+  "name": "agentguard-for-splunk-mcp",
+  "description": "A safety layer and monitoring copilot for AI agents using Splunk MCP, recording tool calls, enforcing policies, and blocking risky actions.",
+  "source_repo": "sauravtom/agentguard-splunk-mcp",
+  "source_url": "https://github.com/sauravtom/agentguard-splunk-mcp",
+  "install": "npx -y agentguard-splunk-mcp"
+}

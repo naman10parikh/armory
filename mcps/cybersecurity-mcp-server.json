@@ -1,0 +1,7 @@
+{
+  "name": "cybersecurity-mcp-server",
+  "description": "A security-first MCP (Model Context Protocol) backend built with Node.js and Express, featuring hardening, rate limiting, structured logging, and Docker support.",
+  "source_repo": "Krishsakaria26/cybersecurity-mcp-server",
+  "source_url": "https://github.com/Krishsakaria26/cybersecurity-mcp-server",
+  "install": "npx -y cybersecurity-mcp-server"
+}

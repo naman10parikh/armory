@@ -1,0 +1,7 @@
+{
+  "name": "gramps-web-mcp",
+  "description": "MCP server for Gramps Web. Gives AI agents structured, tool-based access to family trees through the Model Context Protocol. Built with .NET 8.",
+  "source_repo": "Scormave/gramps-web-mcp",
+  "source_url": "https://github.com/Scormave/gramps-web-mcp",
+  "install": "npx -y gramps-web-mcp"
+}

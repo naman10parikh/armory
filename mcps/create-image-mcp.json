@@ -1,0 +1,7 @@
+{
+  "name": "create-image-mcp",
+  "description": "An MCP server that generates and edits images using OpenAI's GPT Image model, allowing users to create images from text descriptions and edit existing images through natural language.",
+  "source_repo": "gregpriday/create-image-mcp",
+  "source_url": "https://github.com/gregpriday/create-image-mcp",
+  "install": "npx -y create-image-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scholar-memory",
+  "description": "Enables scientific literature research through multi-agent search, analysis, and semantic memory, exposing 9 MCP tools for querying, storing, and retrieving research findings.",
+  "source_repo": "byBasiliosP/RLM-Agent",
+  "source_url": "https://github.com/byBasiliosP/RLM-Agent",
+  "install": "# git clone --depth 1 https://github.com/byBasiliosP/RLM-Agent\n# See source for mcpServers config block"
+}

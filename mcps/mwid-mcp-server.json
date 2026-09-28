@@ -1,0 +1,7 @@
+{
+  "name": "mwid-mcp-server",
+  "description": "Model Context Protocol (MCP) server for the MetaWealth Asset Launch Dashboard. It enables AI assistants like ChatGPT and Claude to interact with the MWID Dashboard API for asset management, task tracking, and team collaboration.",
+  "source_repo": "ServiceWare20/mwid-mcp-server",
+  "source_url": "https://github.com/ServiceWare20/mwid-mcp-server",
+  "install": "npx -y mwid-mcp-server"
+}

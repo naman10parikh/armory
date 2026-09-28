@@ -1,0 +1,7 @@
+{
+  "name": "e2b-code-mode",
+  "description": "A Code Mode MCP server for the e2b API, giving agents three tools (search, execute_read, execute_write) to write and run JavaScript functions inside sandboxed environments for API discovery and calls.",
+  "source_repo": "Rodriguespn/e2b-mcp-code-mode",
+  "source_url": "https://github.com/Rodriguespn/e2b-mcp-code-mode",
+  "install": "# git clone --depth 1 https://github.com/Rodriguespn/e2b-mcp-code-mode\n# See source for mcpServers config block"
+}

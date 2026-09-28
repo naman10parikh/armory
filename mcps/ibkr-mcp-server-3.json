@@ -1,0 +1,7 @@
+{
+  "name": "ibkr-mcp-server-3",
+  "description": "MCP server for Interactive Brokers API integration, enabling account management, trading, market data, and short selling analysis through Claude.",
+  "source_repo": "ArjunDivecha/ibkr-mcp-server",
+  "source_url": "https://github.com/ArjunDivecha/ibkr-mcp-server",
+  "install": "npx -y ibkr-mcp-server"
+}

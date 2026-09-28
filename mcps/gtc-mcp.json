@@ -1,0 +1,7 @@
+{
+  "name": "gtc-mcp",
+  "description": "MCP server exposing insurance terms and conditions from the NN SOAP API, enabling querying, searching, comparing, and retrieving document text.",
+  "source_repo": "kszpakowski/gtc-mcp",
+  "source_url": "https://github.com/kszpakowski/gtc-mcp",
+  "install": "npx -y gtc-mcp"
+}

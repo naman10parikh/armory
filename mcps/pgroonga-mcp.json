@@ -1,0 +1,7 @@
+{
+  "name": "pgroonga-mcp",
+  "description": "Provides read-only PostgreSQL search and diagnostics over Model Context Protocol, using PGroonga indexes for full-text search, normalization, and variant lookup.",
+  "source_repo": "askdkc/pgroonga-mcp",
+  "source_url": "https://github.com/askdkc/pgroonga-mcp",
+  "install": "npx -y pgroonga-mcp"
+}

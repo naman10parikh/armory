@@ -1,0 +1,7 @@
+{
+  "name": "linewatch-mcp",
+  "description": "Enables agents to run internet speed and latency tests, and retrieve historical network quality summaries from a local JSONL store, all via simple MCP tools.",
+  "source_repo": "arunanksharan/linewatch",
+  "source_url": "https://github.com/arunanksharan/linewatch",
+  "install": "# git clone --depth 1 https://github.com/arunanksharan/linewatch\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "modou-tools-mcp",
+  "description": "An MCP server for global tech intelligence gathering, offering tools for searching Chinese and English web content, GitHub trending, arXiv papers, HN, Exa, SEC filings, Juejin, Zhihu, Bilibili, and A-share financial reports, all without API keys and with direct China access.",
+  "source_repo": "xihongshi567/modou-tools-mcp",
+  "source_url": "https://github.com/xihongshi567/modou-tools-mcp",
+  "install": "npx -y modou-tools-mcp"
+}

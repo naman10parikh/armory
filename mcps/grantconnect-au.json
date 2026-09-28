@@ -1,0 +1,7 @@
+{
+  "name": "grantconnect-au",
+  "description": "Enables searching and analyzing Australian Commonwealth grant opportunities and awarded grants from grants.gov.au, including recipient lookups and coverage checks.",
+  "source_repo": "pipeworx-io/mcp-grantconnect-au",
+  "source_url": "https://github.com/pipeworx-io/mcp-grantconnect-au",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-grantconnect-au\n# See source for mcpServers config block"
+}

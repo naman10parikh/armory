@@ -1,0 +1,7 @@
+{
+  "name": "horizon-predictive-model-mcp",
+  "description": "Exposes a professional services pipeline prediction model with tools to score opportunities, validate inputs, and retrieve model metadata such as win probability, fees, and margin.",
+  "source_repo": "christianashworth/horizon-mcp-demo-extended",
+  "source_url": "https://github.com/christianashworth/horizon-mcp-demo-extended",
+  "install": "# git clone --depth 1 https://github.com/christianashworth/horizon-mcp-demo-extended\n# See source for mcpServers config block"
+}

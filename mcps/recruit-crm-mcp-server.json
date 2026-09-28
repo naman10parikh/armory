@@ -1,0 +1,7 @@
+{
+  "name": "recruit-crm-mcp-server",
+  "description": "Enables AI tools like Claude and Codex to access and manage Recruit CRM data including candidates, jobs, companies, tasks, meetings, notes, and call logs through natural language.",
+  "source_repo": "Workforce-Cloud-Tech/mcp-recruitcrm",
+  "source_url": "https://github.com/Workforce-Cloud-Tech/mcp-recruitcrm",
+  "install": "# git clone --depth 1 https://github.com/Workforce-Cloud-Tech/mcp-recruitcrm\n# See source for mcpServers config block"
+}

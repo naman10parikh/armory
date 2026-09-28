@@ -1,0 +1,7 @@
+{
+  "name": "pingpong",
+  "description": "Pingpong is an MCP server for oh-my-pi that gives your AI agent a local code reviewer using a local LLM (llama.cpp) for automated code reviews after task completion.",
+  "source_repo": "ajaxdude/pingpong",
+  "source_url": "https://github.com/ajaxdude/pingpong",
+  "install": "# git clone --depth 1 https://github.com/ajaxdude/pingpong\n# See source for mcpServers config block"
+}

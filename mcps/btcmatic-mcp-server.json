@@ -1,0 +1,7 @@
+{
+  "name": "btcmatic-mcp-server",
+  "description": "MCP server that gives autonomous agents pay-per-call Bitcoin context (self-custody radar, fee percentiles, price change windows, condition frequencies) paid in sats over Lightning via L402 invoices, with no account or API key required.",
+  "source_repo": "btcmatic-com/btcmatic-mcp-server",
+  "source_url": "https://github.com/btcmatic-com/btcmatic-mcp-server",
+  "install": "npx -y btcmatic-mcp-server"
+}

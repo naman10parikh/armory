@@ -1,0 +1,7 @@
+{
+  "name": "trellis-mcp",
+  "description": "A file-backed MCP server for hierarchical project management that enables AI assistants to create, claim, and complete tasks within a project→epic→feature→task structure, with dependency management and Markdown-based storage.",
+  "source_repo": "langadventurellc/trellis-mcp",
+  "source_url": "https://github.com/langadventurellc/trellis-mcp",
+  "install": "npx -y trellis-mcp"
+}

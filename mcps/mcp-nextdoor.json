@@ -1,0 +1,7 @@
+{
+  "name": "mcp-nextdoor",
+  "description": "An MCP server for Nextdoor that automates neighborhood feed browsing, marketplace search, event discovery, and local service finding.",
+  "source_repo": "markswendsen-code/mcp-nextdoor",
+  "source_url": "https://github.com/markswendsen-code/mcp-nextdoor",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-nextdoor\n# See source for mcpServers config block"
+}

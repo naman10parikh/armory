@@ -1,0 +1,7 @@
+{
+  "name": "cloak-auth-bridge",
+  "description": "MCP server that bridges authenticated sessions from a Chrome extension to CloakBrowser profiles via local WebSocket, enabling agents to sync, verify, and debug persistent login state without exposing raw credentials.",
+  "source_repo": "inorilzy/cloak-auth-bridge",
+  "source_url": "https://github.com/inorilzy/cloak-auth-bridge",
+  "install": "# git clone --depth 1 https://github.com/inorilzy/cloak-auth-bridge\n# See source for mcpServers config block"
+}

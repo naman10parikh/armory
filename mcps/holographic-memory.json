@@ -1,0 +1,7 @@
+{
+  "name": "holographic-memory",
+  "description": "Provides AI agents with associative long-term memory using Sparse Distributed Memory, enabling recall from vague cues and interference detection.",
+  "source_repo": "neo37/holographic-memory",
+  "source_url": "https://github.com/neo37/holographic-memory",
+  "install": "# git clone --depth 1 https://github.com/neo37/holographic-memory\n# See source for mcpServers config block"
+}

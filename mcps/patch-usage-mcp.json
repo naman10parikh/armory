@@ -1,0 +1,7 @@
+{
+  "name": "patch-usage-mcp",
+  "description": "Enables Claude to read your Patch API budget usage, including spend, burn rate, and account details, directly from chat.",
+  "source_repo": "h1kv/patch-usage-mcp",
+  "source_url": "https://github.com/h1kv/patch-usage-mcp",
+  "install": "npx -y patch-usage-mcp"
+}

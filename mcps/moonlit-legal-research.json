@@ -1,0 +1,7 @@
+{
+  "name": "moonlit-legal-research",
+  "description": "Official European law, expanding globally: 20M+ documents, 35+ jurisdictions, verifiable citations.",
+  "source_repo": "moonlit-ai/legal-research-mcp",
+  "source_url": "https://github.com/moonlit-ai/legal-research-mcp",
+  "install": "npx -y legal-research-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "draugr",
+  "description": "Security scanning for AI agents: SAST, SCA, secrets, IaC, DAST, ranked by real risk.",
+  "source_repo": "draugr-dev/draugr",
+  "source_url": "https://github.com/draugr-dev/draugr",
+  "install": "# git clone --depth 1 https://github.com/draugr-dev/draugr\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scream-life",
+  "description": "An MCP server that captures and stores user decisions during AI-agent interactions, offering structured decision memory, cognitive bias detection, and personalized advice from historical patterns.",
+  "source_repo": "LIUTod/scream-life",
+  "source_url": "https://github.com/LIUTod/scream-life",
+  "install": "# git clone --depth 1 https://github.com/LIUTod/scream-life\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wiztree-mcp-server",
+  "description": "Bridges AI assistants with WizTree to scan drives, find large files/folders, and perform intelligent cleanups.",
+  "source_repo": "sahmed730/Wiztree-Mcp",
+  "source_url": "https://github.com/sahmed730/Wiztree-Mcp",
+  "install": "npx -y Wiztree-Mcp"
+}

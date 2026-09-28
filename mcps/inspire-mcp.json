@@ -1,0 +1,7 @@
+{
+  "name": "inspire-mcp",
+  "description": "An MCP server for the INSPIRE-HEP API, enabling literature search, author lookups, DOI/arXiv/ORCID resolution, citation export, and bibliography generation with configurable detail levels.",
+  "source_repo": "karuboniru/inspire-mcp",
+  "source_url": "https://github.com/karuboniru/inspire-mcp",
+  "install": "npx -y inspire-mcp"
+}

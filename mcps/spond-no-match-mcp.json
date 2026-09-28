@@ -1,0 +1,7 @@
+{
+  "name": "spond-no-match-mcp",
+  "description": "An MCP server for managing kids' sports activities on Spond. Built for parents who want to give AI assistants access to upcoming matches, training schedules, and attendance.",
+  "source_repo": "Starefossen/spond-no-match-mcp",
+  "source_url": "https://github.com/Starefossen/spond-no-match-mcp",
+  "install": "npx -y spond-no-match-mcp"
+}

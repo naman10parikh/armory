@@ -1,0 +1,7 @@
+{
+  "name": "sinoconnection-esim",
+  "description": "Search and buy travel eSIMs for 200+ countries, with specialized China plans that deliver uncensored internet without a VPN. Exposes five read-only tools to search plans, check device eSIM compatibility, get plan details, get help, and generate a secure on-site checkout link.",
+  "source_repo": "SkyUnlimit/sinoconnection-esim-mcp",
+  "source_url": "https://github.com/SkyUnlimit/sinoconnection-esim-mcp",
+  "install": "npx -y sinoconnection-esim-mcp"
+}

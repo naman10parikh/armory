@@ -1,0 +1,7 @@
+{
+  "name": "windows-admin-mcp",
+  "description": "An MCP server that enables AI assistants to manage, monitor, and diagnose Windows systems through 42 tools across 8 modules, including services, event viewer, task scheduler, processes, network, diagnostics, observability, and safety features.",
+  "source_repo": "devladpopov/windows-admin-mcp",
+  "source_url": "https://github.com/devladpopov/windows-admin-mcp",
+  "install": "npx -y windows-admin-mcp"
+}

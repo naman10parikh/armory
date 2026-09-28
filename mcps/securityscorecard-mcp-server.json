@@ -1,0 +1,7 @@
+{
+  "name": "securityscorecard-mcp-server",
+  "description": "Integrates with the SecurityScorecard API to provide security metrics, risk analysis, asset discovery, and remediation planning through natural language.",
+  "source_repo": "CallMarcus/security-scorecard-mcp",
+  "source_url": "https://github.com/CallMarcus/security-scorecard-mcp",
+  "install": "npx -y security-scorecard-mcp"
+}

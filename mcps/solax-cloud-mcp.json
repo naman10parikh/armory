@@ -1,0 +1,7 @@
+{
+  "name": "solax-cloud-mcp",
+  "description": "Provides real-time access to solar inverter data from the SolaX Cloud API, enabling queries of power output, energy yields, battery status, and grid import/export data.",
+  "source_repo": "mouldiwarp/solax-cloud-mcp",
+  "source_url": "https://github.com/mouldiwarp/solax-cloud-mcp",
+  "install": "npx -y solax-cloud-mcp"
+}

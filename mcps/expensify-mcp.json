@@ -1,0 +1,7 @@
+{
+  "name": "expensify-mcp",
+  "description": "A full-capability MCP server for Expensify that enables creating expenses, reports, managing policies, categories, tags, members, and expense rules, while restricting approval and payment operations.",
+  "source_repo": "BilalAtique/expensify-mcp",
+  "source_url": "https://github.com/BilalAtique/expensify-mcp",
+  "install": "npx -y expensify-mcp"
+}

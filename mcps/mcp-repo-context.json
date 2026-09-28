@@ -1,0 +1,7 @@
+{
+  "name": "mcp-repo-context",
+  "description": "A Weaviate-backed MCP server that gives Claude Code agents semantic search over your repository's PR review comments and source code.",
+  "source_repo": "BradBissell/mcp-repo-context",
+  "source_url": "https://github.com/BradBissell/mcp-repo-context",
+  "install": "# git clone --depth 1 https://github.com/BradBissell/mcp-repo-context\n# See source for mcpServers config block"
+}

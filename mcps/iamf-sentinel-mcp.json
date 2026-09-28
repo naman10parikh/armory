@@ -1,0 +1,7 @@
+{
+  "name": "iamf-sentinel-mcp",
+  "description": "MCP server exposing IAMF conformance validation and packaging tools, enabling agents to validate IAMF files and compile/manage packaging plans through natural language, with read-only operation by default and optional execution.",
+  "source_repo": "jlivingston-Cipher/iamf-sentinel-mcp",
+  "source_url": "https://github.com/jlivingston-Cipher/iamf-sentinel-mcp",
+  "install": "npx -y iamf-sentinel-mcp"
+}

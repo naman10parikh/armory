@@ -1,0 +1,7 @@
+{
+  "name": "io-github-engr-faizanali-text-to-speech",
+  "description": "Text-to-speech MCP server that enables AI assistants to read text aloud on the user's computer using Windows SAPI, with no API key or cloud service required.",
+  "source_repo": "Engr-FaizanAli/text-to-speech-mcp",
+  "source_url": "https://github.com/Engr-FaizanAli/text-to-speech-mcp",
+  "install": "npx -y text-to-speech-mcp"
+}

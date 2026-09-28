@@ -1,0 +1,7 @@
+{
+  "name": "nutanix-aiops",
+  "description": "Governed AI-ops MCP server for Nutanix Prism Central v4 REST API, offering 47 read/write tools for clusters, VMs, storage, network, catalog, data protection, alerts, and LCM upgrades with built-in audit, budget, and risk-tier governance.",
+  "source_repo": "AIops-tools/Nutanix-AIops",
+  "source_url": "https://github.com/AIops-tools/Nutanix-AIops",
+  "install": "# git clone --depth 1 https://github.com/AIops-tools/Nutanix-AIops\n# See source for mcpServers config block"
+}

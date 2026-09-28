@@ -1,0 +1,7 @@
+{
+  "name": "ptna-enc-mcp",
+  "description": "Enables normalization of musical piece and composer names by searching the Pitina Piano Piece Encyclopedia, returning official titles, composer names, opus numbers, and performance times.",
+  "source_repo": "Rikublender3d/ptna-enc-mcp",
+  "source_url": "https://github.com/Rikublender3d/ptna-enc-mcp",
+  "install": "npx -y ptna-enc-mcp"
+}

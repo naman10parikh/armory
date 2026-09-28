@@ -1,0 +1,7 @@
+{
+  "name": "codifier-mcp",
+  "description": "A self-hosted MCP server that maintains a registry of project rules, enabling chats to query which rules apply to them in one call. It manages rule lifecycle with scopes, expiry, approval batches, and immutable history.",
+  "source_repo": "alcor6502/codifier-mcp",
+  "source_url": "https://github.com/alcor6502/codifier-mcp",
+  "install": "npx -y codifier-mcp"
+}

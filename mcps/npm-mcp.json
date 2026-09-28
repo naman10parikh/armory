@@ -1,0 +1,7 @@
+{
+  "name": "npm-mcp",
+  "description": "Enables AI assistants to manage Nginx Proxy Manager instances through natural language, covering 28 tools for proxy hosts, certificates, streams, and more.",
+  "source_repo": "wadew/npm-mcp",
+  "source_url": "https://github.com/wadew/npm-mcp",
+  "install": "npx -y npm-mcp"
+}

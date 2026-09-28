@@ -1,0 +1,7 @@
+{
+  "name": "integrity-checker-mcp",
+  "description": "MCP server for the CMS File Integrity Checker. Enables users to submit and query file integrity jobs through natural language.",
+  "source_repo": "eachristgr/roots-integrity-checker-mcp",
+  "source_url": "https://github.com/eachristgr/roots-integrity-checker-mcp",
+  "install": "npx -y roots-integrity-checker-mcp"
+}

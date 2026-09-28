@@ -1,0 +1,7 @@
+{
+  "name": "elektron-mcp",
+  "description": "Enables LLMs like Claude to control Elektron Digitone synthesizers via MIDI, supporting sound design with Wavetone engine and various filters, envelopes, effects, and LFOs.",
+  "source_repo": "zerubeus/elektron-mcp",
+  "source_url": "https://github.com/zerubeus/elektron-mcp",
+  "install": "npx -y elektron-mcp"
+}

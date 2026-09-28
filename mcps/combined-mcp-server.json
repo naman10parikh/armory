@@ -1,0 +1,7 @@
+{
+  "name": "combined-mcp-server",
+  "description": "A self-hosted MCP server that gives AI agents controlled access to a machine: filesystem, shell, background processes, git, web fetching and persistent key-value memory.",
+  "source_repo": "SMH01-MIRRORS/NMCPVPN",
+  "source_url": "https://github.com/SMH01-MIRRORS/NMCPVPN",
+  "install": "# git clone --depth 1 https://github.com/SMH01-MIRRORS/NMCPVPN\n# See source for mcpServers config block"
+}

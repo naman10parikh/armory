@@ -1,0 +1,7 @@
+{
+  "name": "vestibule",
+  "description": "A plugin-based MCP server that securely exposes custom tools to AI agents, keeping sensitive information hidden while enabling operations like email whitelisting through pluggable plugins.",
+  "source_repo": "b34nst4lk/vestibule",
+  "source_url": "https://github.com/b34nst4lk/vestibule",
+  "install": "# git clone --depth 1 https://github.com/b34nst4lk/vestibule\n# See source for mcpServers config block"
+}

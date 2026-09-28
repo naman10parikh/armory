@@ -1,0 +1,7 @@
+{
+  "name": "synccontext",
+  "description": "MCP server that provides a shared semantic memory layer for AI coding agents, enabling teams to store, search, and sync context, decisions, and knowledge across projects with project-based isolation and multi-backend support.",
+  "source_repo": "infinity-ai-dev/SyncContext",
+  "source_url": "https://github.com/infinity-ai-dev/SyncContext",
+  "install": "# git clone --depth 1 https://github.com/infinity-ai-dev/SyncContext\n# See source for mcpServers config block"
+}

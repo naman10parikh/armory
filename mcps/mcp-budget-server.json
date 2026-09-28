@@ -1,0 +1,7 @@
+{
+  "name": "mcp-budget-server",
+  "description": "An MCP server for advertising estimate analysis that calculates billing, outsourcing costs, net revenue, and margin rate from various currency formats.",
+  "source_repo": "haebojagu/mcp-budget-server",
+  "source_url": "https://github.com/haebojagu/mcp-budget-server",
+  "install": "# git clone --depth 1 https://github.com/haebojagu/mcp-budget-server\n# See source for mcpServers config block"
+}

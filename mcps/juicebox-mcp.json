@@ -1,0 +1,7 @@
+{
+  "name": "juicebox-mcp",
+  "description": "Lets Claude read your Juicebox saved searches and scored candidate results using your own logged-in session, entirely on your machine.",
+  "source_repo": "jnot807/juicebox-mcp",
+  "source_url": "https://github.com/jnot807/juicebox-mcp",
+  "install": "npx -y juicebox-mcp"
+}

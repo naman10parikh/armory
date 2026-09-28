@@ -1,0 +1,7 @@
+{
+  "name": "ph-compliance-mcp",
+  "description": "Provides retrieval-grounded, citation-verified access to Philippine law and compliance, including statutes, jurisprudence, and government issuances across 15 compliance domains.",
+  "source_repo": "andreibrosmaster/ph-compliance-mcp",
+  "source_url": "https://github.com/andreibrosmaster/ph-compliance-mcp",
+  "install": "npx -y ph-compliance-mcp"
+}

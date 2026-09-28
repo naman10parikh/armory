@@ -1,0 +1,7 @@
+{
+  "name": "lanhu-design-mcp",
+  "description": "MCP server for macOS that reads Lanhu designs, analyzes UI structures, and exports fine-grained design assets for multiple platforms.",
+  "source_repo": "blantian/lanhu-design-mcp",
+  "source_url": "https://github.com/blantian/lanhu-design-mcp",
+  "install": "npx -y lanhu-design-mcp"
+}

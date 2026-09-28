@@ -1,0 +1,7 @@
+{
+  "name": "claude-cost-mcp",
+  "description": "Estimates Claude API token counts, per-model cost, and prompt-caching break-even without an API key or network.",
+  "source_repo": "firstshout/claude-cost-mcp",
+  "source_url": "https://github.com/firstshout/claude-cost-mcp",
+  "install": "npx -y claude-cost-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "semantic-scholar-mcp",
+  "description": "An MCP server that provides access to Semantic Scholar's academic paper database, enabling paper search, detailed retrieval, author info, and citation export.",
+  "source_repo": "FujishigeTemma/semantic-scholar-mcp",
+  "source_url": "https://github.com/FujishigeTemma/semantic-scholar-mcp",
+  "install": "npx -y semantic-scholar-mcp"
+}

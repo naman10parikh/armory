@@ -1,0 +1,7 @@
+{
+  "name": "taskforge",
+  "description": "MCP server that enables AI agents to manage tasks, boards, lists, and comments on a Kanban-style project management system through JSON-RPC methods.",
+  "source_repo": "emreycolakoglu/taskforge",
+  "source_url": "https://github.com/emreycolakoglu/taskforge",
+  "install": "# git clone --depth 1 https://github.com/emreycolakoglu/taskforge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fannie-mae-mcp",
+  "description": "Enables querying Fannie Mae's public APIs, currently supporting loan limits retrieval for US counties and territories via OAuth2.",
+  "source_repo": "jtaylor98/fannie-mae-mcp",
+  "source_url": "https://github.com/jtaylor98/fannie-mae-mcp",
+  "install": "npx -y fannie-mae-mcp"
+}

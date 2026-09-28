@@ -1,0 +1,7 @@
+{
+  "name": "pagelive",
+  "description": "Publish the pages you build with AI - as a private, tracked, secure link.",
+  "source_repo": "Pagelive/pagelive-mcp",
+  "source_url": "https://github.com/Pagelive/pagelive-mcp",
+  "install": "npx -y pagelive-mcp"
+}

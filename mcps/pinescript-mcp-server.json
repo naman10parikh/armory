@@ -1,6 +1,6 @@
 {
   "name": "pinescript-mcp-server",
-  "description": "Pinescript Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "CyberBOB07/pinescript-mcp-server",
   "source_url": "https://mcp.so/server/pinescript-mcp-server/CyberBOB07",
   "install": "npx -y pinescript-mcp-server"

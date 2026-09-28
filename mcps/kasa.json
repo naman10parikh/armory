@@ -1,0 +1,7 @@
+{
+  "name": "kasa",
+  "description": "A local-first memory vault MCP server for Windows that exposes an encrypted user memory store to agents via a permission-brokered protocol, ensuring user ownership and control over browsing data.",
+  "source_repo": "aikadimsoy/Kasa",
+  "source_url": "https://github.com/aikadimsoy/Kasa",
+  "install": "# git clone --depth 1 https://github.com/aikadimsoy/Kasa\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lovense-mcp",
+  "description": "This MCP server enables remote control of Lovense toys via the Lovense Cloud API, allowing any MCP client to send actions like vibration, rotation, and patterns to connected toys.",
+  "source_repo": "itsnocny/lovense-mcp",
+  "source_url": "https://github.com/itsnocny/lovense-mcp",
+  "install": "npx -y lovense-mcp"
+}

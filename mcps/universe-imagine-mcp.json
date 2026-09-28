@@ -1,0 +1,7 @@
+{
+  "name": "universe-imagine-mcp",
+  "description": "Enables AI image generation from text prompts by wrapping local ComfyUI as a Streamable HTTP MCP server, supporting synchronous generation, queue management, and history tracking.",
+  "source_repo": "BAWES-Universe/universe-imagine-mcp",
+  "source_url": "https://github.com/BAWES-Universe/universe-imagine-mcp",
+  "install": "npx -y universe-imagine-mcp"
+}

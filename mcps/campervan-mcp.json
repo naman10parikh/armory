@@ -1,0 +1,7 @@
+{
+  "name": "campervan-mcp",
+  "description": "Enables AI assistants to perform campervan electrical calculations, payload checks, component spec lookups, and semantic search over van build manuals.",
+  "source_repo": "sekka1/Campervan-mcp",
+  "source_url": "https://github.com/sekka1/Campervan-mcp",
+  "install": "npx -y Campervan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bailii-mcp-server",
+  "description": "Enables searching UK case law on BAILII and retrieving judgments with automatic section extraction (summary, conclusions, etc.). Runs locally to avoid BAILII's cloud IP blocks.",
+  "source_repo": "paulieb89/bailii-mcp",
+  "source_url": "https://github.com/paulieb89/bailii-mcp",
+  "install": "npx -y bailii-mcp"
+}

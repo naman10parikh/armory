@@ -1,0 +1,7 @@
+{
+  "name": "vault-map",
+  "description": "MCP server that provides a navigable map of an Obsidian vault for coding agents, with tools to outline notes, fetch sections, query frontmatter, and grep content, reducing token usage compared to reading whole notes.",
+  "source_repo": "noambinabout-boop/vault-map",
+  "source_url": "https://github.com/noambinabout-boop/vault-map",
+  "install": "# git clone --depth 1 https://github.com/noambinabout-boop/vault-map\n# See source for mcpServers config block"
+}

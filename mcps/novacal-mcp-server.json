@@ -1,0 +1,7 @@
+{
+  "name": "novacal-mcp-server",
+  "description": "Enables managing Novacal event types, availability, and events (create, cancel, reschedule) via MCP, with OAuth authentication and encrypted API key storage.",
+  "source_repo": "ste7/novacal-mcp-server",
+  "source_url": "https://github.com/ste7/novacal-mcp-server",
+  "install": "npx -y novacal-mcp-server"
+}

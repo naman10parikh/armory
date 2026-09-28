@@ -1,0 +1,7 @@
+{
+  "name": "ezfacility-training-prep-mcp",
+  "description": "Automatically gathers Salesforce deal facts and Gong call transcripts for a given account, compiles them into a training prep checklist, and flags any discrepancies between the data sources.",
+  "source_repo": "arpitmadan/ezf-training-prep-mcp",
+  "source_url": "https://github.com/arpitmadan/ezf-training-prep-mcp",
+  "install": "npx -y ezf-training-prep-mcp"
+}

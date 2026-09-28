@@ -1,0 +1,7 @@
+{
+  "name": "recommend-agentic-trust-layer",
+  "description": "Enables agents to verify claims with evidence-based truth scores and confidence levels by running a deterministic pipeline of evidence lanes and adversarial checks.",
+  "source_repo": "recommend-dev/recommend-agentic-trust-layer",
+  "source_url": "https://github.com/recommend-dev/recommend-agentic-trust-layer",
+  "install": "# git clone --depth 1 https://github.com/recommend-dev/recommend-agentic-trust-layer\n# See source for mcpServers config block"
+}

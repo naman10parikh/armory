@@ -1,0 +1,7 @@
+{
+  "name": "mymcps",
+  "description": "Self-hosted MCP gateway that exposes a single MCP URL to AI agents and routes tools/resources to many upstream MCP servers behind it.",
+  "source_repo": "0xtlt/MyMCPs",
+  "source_url": "https://github.com/0xtlt/MyMCPs",
+  "install": "# git clone --depth 1 https://github.com/0xtlt/MyMCPs\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "docsift",
+  "description": "DocSift converts PDFs and Office files into clean Markdown once, then returns only the passages that answer a question, with page numbers and section headings so answers can be cited. It runs entirely on your machine, using Docling for PDFs and MarkItDown for everything else, with no cloud APIs, acc",
+  "source_repo": "anishmoncivarghese/docsift",
+  "source_url": "https://github.com/anishmoncivarghese/docsift",
+  "install": "# git clone --depth 1 https://github.com/anishmoncivarghese/docsift\n# See source for mcpServers config block"
+}

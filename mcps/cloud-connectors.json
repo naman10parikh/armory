@@ -1,0 +1,7 @@
+{
+  "name": "cloud-connectors",
+  "description": "Monorepo of MCP connectors for personal cloud services (Microsoft and iCloud), enabling access to Outlook Mail, OneDrive, iCloud Mail, and iCloud Drive via natural language.",
+  "source_repo": "mkostersitz/cloud-connectors",
+  "source_url": "https://github.com/mkostersitz/cloud-connectors",
+  "install": "# git clone --depth 1 https://github.com/mkostersitz/cloud-connectors\n# See source for mcpServers config block"
+}

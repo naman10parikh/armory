@@ -1,0 +1,7 @@
+{
+  "name": "embl-ebi-mcp-server",
+  "description": "Provides access to EMBL-EBI bioinformatics data including InterPro domains, Pfam families, protein features, and taxonomy through a unified tool.",
+  "source_repo": "openpharma-org/embl-mcp-server",
+  "source_url": "https://github.com/openpharma-org/embl-mcp-server",
+  "install": "npx -y embl-mcp-server"
+}

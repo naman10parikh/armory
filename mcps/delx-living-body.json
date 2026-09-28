@@ -1,0 +1,7 @@
+{
+  "name": "delx-living-body",
+  "description": "Meta-MCP that auto-detects installed wellness connectors and composes them into one body data layer.",
+  "source_repo": "davidmosiah/delx-living-body",
+  "source_url": "https://github.com/davidmosiah/delx-living-body",
+  "install": "# git clone --depth 1 https://github.com/davidmosiah/delx-living-body\n# See source for mcpServers config block"
+}

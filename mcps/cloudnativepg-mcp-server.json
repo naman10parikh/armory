@@ -1,0 +1,7 @@
+{
+  "name": "cloudnativepg-mcp-server",
+  "description": "Enables managing PostgreSQL clusters via the CloudNativePG operator, including CRUD operations for clusters, databases, and roles.",
+  "source_repo": "waTeim/cnpg-mcp",
+  "source_url": "https://github.com/waTeim/cnpg-mcp",
+  "install": "npx -y cnpg-mcp"
+}

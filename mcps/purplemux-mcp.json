@@ -1,0 +1,7 @@
+{
+  "name": "purplemux-mcp",
+  "description": "Controls local purplemux (tmux + LLM workspace manager) from Claude Code/Codex, enabling cross-LLM orchestration by managing workspaces, tabs, terminals, and Electron browser via 16 tools.",
+  "source_repo": "yoway030/purplemux-mcp",
+  "source_url": "https://github.com/yoway030/purplemux-mcp",
+  "install": "npx -y purplemux-mcp"
+}

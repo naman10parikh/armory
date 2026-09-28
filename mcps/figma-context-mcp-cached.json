@@ -1,0 +1,7 @@
+{
+  "name": "figma-context-mcp-cached",
+  "description": "Enables interaction with Figma design files with local caching to reduce API requests and rate limits, allowing faster and more reliable retrieval of design data for AI tools.",
+  "source_repo": "Pactortester/figma-mcp-cached",
+  "source_url": "https://github.com/Pactortester/figma-mcp-cached",
+  "install": "# git clone --depth 1 https://github.com/Pactortester/figma-mcp-cached\n# See source for mcpServers config block"
+}

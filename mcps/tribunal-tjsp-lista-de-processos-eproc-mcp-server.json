@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tjsp-lista-de-processos-eproc-mcp-server",
+  "description": "MCP server for querying case lists from the TJSP court (eproc) via official sources. It provides one read-only tool to consult court cases through natural language in any MCP-compatible client.",
+  "source_repo": "mcp-dir/tribunal_tjsp_eproc_lista-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tjsp_eproc_lista-mcp",
+  "install": "npx -y tribunal_tjsp_eproc_lista-mcp"
+}

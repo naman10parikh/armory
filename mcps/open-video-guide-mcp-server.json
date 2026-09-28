@@ -1,0 +1,7 @@
+{
+  "name": "open-video-guide-mcp-server",
+  "description": "Exposes Open Video Guide functions to MCP clients, enabling conversion of tutorial videos into illustrated, verifiable guides with timestamps, evidence, and review states.",
+  "source_repo": "songod0906/open-video-guide",
+  "source_url": "https://github.com/songod0906/open-video-guide",
+  "install": "# git clone --depth 1 https://github.com/songod0906/open-video-guide\n# See source for mcpServers config block"
+}

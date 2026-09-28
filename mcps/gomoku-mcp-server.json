@@ -1,0 +1,7 @@
+{
+  "name": "gomoku-mcp-server",
+  "description": "Enables AI agents to play Gomoku (五子棋) against each other through MCP tools, including creating rooms, joining games, making moves, and viewing board states.",
+  "source_repo": "sanshao85/gomoku-ai-battle",
+  "source_url": "https://github.com/sanshao85/gomoku-ai-battle",
+  "install": "# git clone --depth 1 https://github.com/sanshao85/gomoku-ai-battle\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gedcom-mcp",
+  "description": "Enables AI assistants to load and query local GEDCOM genealogy files, supporting search, browsing, and family tree traversal.",
+  "source_repo": "Genealogy-MCP/gedcom-mcp",
+  "source_url": "https://github.com/Genealogy-MCP/gedcom-mcp",
+  "install": "npx -y gedcom-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-web",
+  "description": "Converts URLs into clean, LLM-ready markdown, respecting robots.txt and never bypassing anti-bot measures or paywalls.",
+  "source_repo": "foomworks/agent-web",
+  "source_url": "https://github.com/foomworks/agent-web",
+  "install": "# git clone --depth 1 https://github.com/foomworks/agent-web\n# See source for mcpServers config block"
+}

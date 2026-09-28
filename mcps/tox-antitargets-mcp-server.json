@@ -1,0 +1,7 @@
+{
+  "name": "tox-antitargets-mcp-server",
+  "description": "An MCP server that reproduces the results of Nikitin et al., 'Towards Explainable Computational Toxicology: Linking Antitargets to Rodent Acute Toxicity' as callable tools, enabling users to compute toxicity predictions and mechanistic analyses deterministically from a bundled dataset.",
+  "source_repo": "chemagents/tox-antitargets-mcp-server",
+  "source_url": "https://github.com/chemagents/tox-antitargets-mcp-server",
+  "install": "npx -y tox-antitargets-mcp-server"
+}

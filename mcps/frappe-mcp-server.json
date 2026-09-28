@@ -1,6 +1,6 @@
 {
   "name": "frappe-mcp-server",
-  "description": "Frappe_mcp_server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "appliedrelevance/frappe_mcp_server",
   "source_url": "https://mcp.so/server/frappe_mcp_server/appliedrelevance",
   "install": "npx -y frappe_mcp_server"

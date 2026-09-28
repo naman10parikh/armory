@@ -1,0 +1,7 @@
+{
+  "name": "shapeitup",
+  "description": "Enables AI agents to write TypeScript to create, render, verify, and export parametric 3D models using Replicad/OpenCascade CAD kernel, headlessly from terminal or MCP clients.",
+  "source_repo": "asbis/ShapeItUp",
+  "source_url": "https://github.com/asbis/ShapeItUp",
+  "install": "# git clone --depth 1 https://github.com/asbis/ShapeItUp\n# See source for mcpServers config block"
+}

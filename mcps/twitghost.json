@@ -1,0 +1,7 @@
+{
+  "name": "twitghost",
+  "description": "Enables interacting with Twitter/X through natural language, including searching tweets, posting, sending DMs, and managing timelines via any MCP client.",
+  "source_repo": "arvinmoj/twitghost-mcp",
+  "source_url": "https://github.com/arvinmoj/twitghost-mcp",
+  "install": "npx -y twitghost-mcp"
+}

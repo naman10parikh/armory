@@ -1,0 +1,7 @@
+{
+  "name": "zaezd",
+  "description": "Enables users to plan conference trips by finding nearby offline events, computing travel and hotel costs, and presenting up to three explained trip packages with checkout links.",
+  "source_repo": "EvilFreelancer/zaezd",
+  "source_url": "https://github.com/EvilFreelancer/zaezd",
+  "install": "# git clone --depth 1 https://github.com/EvilFreelancer/zaezd\n# See source for mcpServers config block"
+}

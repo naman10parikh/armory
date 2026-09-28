@@ -1,0 +1,7 @@
+{
+  "name": "webscraper-mcp-server",
+  "description": "An MCP server for advanced web scraping with automatic JavaScript rendering support using Playwright. It enables scraping pages, extracting links and images, and capturing screenshots.",
+  "source_repo": "lucasbrito-wdt/webscraper-mcp",
+  "source_url": "https://github.com/lucasbrito-wdt/webscraper-mcp",
+  "install": "npx -y webscraper-mcp"
+}

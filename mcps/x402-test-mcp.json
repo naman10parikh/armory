@@ -1,0 +1,7 @@
+{
+  "name": "x402-test-mcp",
+  "description": "An MCP server that tests agent payment capabilities by making a real x402 payment ($10 USDC on Base) and returning a signed diagnostic report covering the entire payment flow.",
+  "source_repo": "sansscott/x402-test-mcp",
+  "source_url": "https://github.com/sansscott/x402-test-mcp",
+  "install": "npx -y x402-test-mcp"
+}

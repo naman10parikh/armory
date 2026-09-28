@@ -1,0 +1,7 @@
+{
+  "name": "brdata-mcp",
+  "description": "An MCP server for Brazilian company and public procurement data, enabling CNPJ lookup, company search, tender resolution, and more via paid USDC-based API calls.",
+  "source_repo": "thomenz/brdata-mcp",
+  "source_url": "https://github.com/thomenz/brdata-mcp",
+  "install": "npx -y brdata-mcp"
+}

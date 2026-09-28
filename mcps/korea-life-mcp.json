@@ -1,0 +1,7 @@
+{
+  "name": "korea-life-mcp",
+  "description": "A Korean life utility MCP server providing 15 tools for Hangul decomposition, romanization, number-to-Korean conversion, business number validation, holiday lookup, and more, all without external API calls.",
+  "source_repo": "mongle250129/korea-life-mcp",
+  "source_url": "https://github.com/mongle250129/korea-life-mcp",
+  "install": "npx -y korea-life-mcp"
+}

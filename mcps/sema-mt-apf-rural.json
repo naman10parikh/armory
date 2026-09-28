@@ -1,0 +1,7 @@
+{
+  "name": "sema-mt-apf-rural",
+  "description": "MCP server for querying official SEMA MT APF Rural data through a read-only tool, with prepaid per-use credits.",
+  "source_repo": "mcp-dir/sema_mt_apf-mcp",
+  "source_url": "https://github.com/mcp-dir/sema_mt_apf-mcp",
+  "install": "npx -y sema_mt_apf-mcp"
+}

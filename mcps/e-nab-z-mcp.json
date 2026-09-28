@@ -1,0 +1,7 @@
+{
+  "name": "e-nab-z-mcp",
+  "description": "Local MCP server to access your personal health data from E-Nabız (Turkish Ministry of Health) via an LLM. Read-only, secure, and respects privacy.",
+  "source_repo": "UmutKDev/e-nabiz-mcp",
+  "source_url": "https://github.com/UmutKDev/e-nabiz-mcp",
+  "install": "npx -y e-nabiz-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentctx",
+  "description": "Enables MCP-capable agents to retrieve live, task-scoped context from a curated ontology, providing relevant direction, decisions, and constraints for a given task.",
+  "source_repo": "goldplatinum11-jpg/mind-ontology",
+  "source_url": "https://github.com/goldplatinum11-jpg/mind-ontology",
+  "install": "# git clone --depth 1 https://github.com/goldplatinum11-jpg/mind-ontology\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pepita-mcp-server",
+  "description": "Lets a local Claude read and edit pepita sites, publish them, and manage shareable preview links.",
+  "source_repo": "pepitahq/pepita-mcp",
+  "source_url": "https://github.com/pepitahq/pepita-mcp",
+  "install": "npx -y pepita-mcp"
+}

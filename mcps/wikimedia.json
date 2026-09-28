@@ -1,0 +1,7 @@
+{
+  "name": "wikimedia",
+  "description": "Enables natural language queries to search, retrieve, and explore Wikipedia and other Wikimedia project content, including featured articles and historical events.",
+  "source_repo": "RapidMCP/wikimedia",
+  "source_url": "https://github.com/RapidMCP/wikimedia",
+  "install": "# git clone --depth 1 https://github.com/RapidMCP/wikimedia\n# See source for mcpServers config block"
+}

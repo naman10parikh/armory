@@ -1,0 +1,7 @@
+{
+  "name": "x-mcp-server-2",
+  "description": "Enables reading public X (Twitter) content like profiles, tweets, and search results via a stealth browser, without official API costs.",
+  "source_repo": "afikrim/x-mcp-server",
+  "source_url": "https://github.com/afikrim/x-mcp-server",
+  "install": "npx -y x-mcp-server"
+}

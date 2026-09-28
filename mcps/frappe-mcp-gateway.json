@@ -1,0 +1,7 @@
+{
+  "name": "frappe-mcp-gateway",
+  "description": "An OAuth-protected MCP sidecar for Frappe applications, enabling secure access to Frappe tool packs (e.g., personal health metrics) by validating OAuth tokens and issuing internal assertions.",
+  "source_repo": "saoxia/frappe-mcp-gateway",
+  "source_url": "https://github.com/saoxia/frappe-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/saoxia/frappe-mcp-gateway\n# See source for mcpServers config block"
+}

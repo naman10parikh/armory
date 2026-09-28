@@ -1,0 +1,7 @@
+{
+  "name": "walletwallet-mcp",
+  "description": "Exposes the WalletWallet pass API as MCP tools for creating and updating digital passes, supporting Google Wallet links and usage checks.",
+  "source_repo": "dhk/walletwallet-mcp",
+  "source_url": "https://github.com/dhk/walletwallet-mcp",
+  "install": "npx -y walletwallet-mcp"
+}

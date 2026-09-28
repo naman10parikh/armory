@@ -1,0 +1,7 @@
+{
+  "name": "mailbox-mcp",
+  "description": "Give your AI tools access to your email. Search, read, send, and manage messages across multiple accounts without leaving your terminal.",
+  "source_repo": "jgalea/mailbox-mcp",
+  "source_url": "https://github.com/jgalea/mailbox-mcp",
+  "install": "npx -y mailbox-mcp"
+}

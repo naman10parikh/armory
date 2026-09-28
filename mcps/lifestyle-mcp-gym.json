@@ -1,0 +1,7 @@
+{
+  "name": "lifestyle-mcp-gym",
+  "description": "Enables agents to track workouts, body metrics, and training stats for registered users through a JSON-RPC MCP endpoint, with scoped agent permissions and a web dashboard.",
+  "source_repo": "YingsHermes/lifestyle-mcp-gym",
+  "source_url": "https://github.com/YingsHermes/lifestyle-mcp-gym",
+  "install": "# git clone --depth 1 https://github.com/YingsHermes/lifestyle-mcp-gym\n# See source for mcpServers config block"
+}

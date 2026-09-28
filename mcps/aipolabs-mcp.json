@@ -1,6 +1,6 @@
 {
   "name": "aipolabs-mcp",
-  "description": "Aipolabs Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "aipotheosis-labs/aipolabs-mcp",
   "source_url": "https://mcp.so/server/aipolabs-mcp/aipotheosis-labs",
   "install": "npx -y aipolabs-mcp"

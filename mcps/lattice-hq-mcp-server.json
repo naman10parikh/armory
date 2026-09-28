@@ -1,0 +1,7 @@
+{
+  "name": "lattice-hq-mcp-server",
+  "description": "Enables AI models to interact with the Lattice HQ performance management platform for managing users, goals, review cycles, feedback, departments, and updates.",
+  "source_repo": "cyrilnoah1/lattice-hq-mcp",
+  "source_url": "https://github.com/cyrilnoah1/lattice-hq-mcp",
+  "install": "npx -y lattice-hq-mcp"
+}

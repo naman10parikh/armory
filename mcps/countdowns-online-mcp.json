@@ -1,0 +1,7 @@
+{
+  "name": "countdowns-online-mcp",
+  "description": "Provides verified event dates, countdown semantics, and custom countdown sharing from Countdowns Online to MCP-compatible AI clients.",
+  "source_repo": "rocnubie/countdowns-online-mcp",
+  "source_url": "https://github.com/rocnubie/countdowns-online-mcp",
+  "install": "npx -y countdowns-online-mcp"
+}

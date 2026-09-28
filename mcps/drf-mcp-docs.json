@@ -1,0 +1,7 @@
+{
+  "name": "drf-mcp-docs",
+  "description": "Exposes Django REST Framework API documentation via MCP for AI coding agents to read, understand, and write frontend integration code.",
+  "source_repo": "Abdulkhalek-1/drf-mcp-docs",
+  "source_url": "https://github.com/Abdulkhalek-1/drf-mcp-docs",
+  "install": "# git clone --depth 1 https://github.com/Abdulkhalek-1/drf-mcp-docs\n# See source for mcpServers config block"
+}

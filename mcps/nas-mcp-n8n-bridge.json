@@ -1,0 +1,7 @@
+{
+  "name": "nas-mcp-n8n-bridge",
+  "description": "Splits the live Nas.com MCP catalog into 24 product-scoped n8n workflows, enabling focused agent interactions with specific business, product, and marketing tools.",
+  "source_repo": "primo737/nas-mcp-n8n-bridge",
+  "source_url": "https://github.com/primo737/nas-mcp-n8n-bridge",
+  "install": "# git clone --depth 1 https://github.com/primo737/nas-mcp-n8n-bridge\n# See source for mcpServers config block"
+}

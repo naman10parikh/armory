@@ -1,0 +1,7 @@
+{
+  "name": "re-leak-scan",
+  "description": "MCP server for detecting publisher telemetry pipeline leaks in binary artifacts by scanning for sensitive strings like Sentry DSNs, Slack tokens, and AWS keys.",
+  "source_repo": "Heretek-RE/re-leak-scan",
+  "source_url": "https://github.com/Heretek-RE/re-leak-scan",
+  "install": "# git clone --depth 1 https://github.com/Heretek-RE/re-leak-scan\n# See source for mcpServers config block"
+}

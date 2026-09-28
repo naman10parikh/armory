@@ -1,0 +1,7 @@
+{
+  "name": "semantic-memory-mcp",
+  "description": "Enables AI agents to store, search, and recall semantic memories with three memory types (semantic, episodic, procedural) and auto-consolidation, compounding intelligence over time.",
+  "source_repo": "Sceat/semantic-memory-mcp",
+  "source_url": "https://github.com/Sceat/semantic-memory-mcp",
+  "install": "npx -y semantic-memory-mcp"
+}

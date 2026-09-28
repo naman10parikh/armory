@@ -1,0 +1,7 @@
+{
+  "name": "mirai-mcp",
+  "description": "Official MCP server for the Mirai affordable chat completions API. Guest quota works without a key.",
+  "source_repo": "satuapps/mirai-mcp",
+  "source_url": "https://github.com/satuapps/mirai-mcp",
+  "install": "npx -y mirai-mcp"
+}

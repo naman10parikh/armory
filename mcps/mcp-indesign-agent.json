@@ -1,0 +1,7 @@
+{
+  "name": "mcp-indesign-agent",
+  "description": "MCP server for editing Adobe InDesign via natural language in Cursor. It bridges to InDesign through AppleScript and ExtendScript, providing semantic tools for batch operations, styles, assets, and layout fixes.",
+  "source_repo": "anananaTERRA/mcp-indesign-agent",
+  "source_url": "https://github.com/anananaTERRA/mcp-indesign-agent",
+  "install": "# git clone --depth 1 https://github.com/anananaTERRA/mcp-indesign-agent\n# See source for mcpServers config block"
+}

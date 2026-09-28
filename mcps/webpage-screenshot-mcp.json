@@ -1,0 +1,7 @@
+{
+  "name": "webpage-screenshot-mcp",
+  "description": "Captures screenshots of web URLs or local HTML files using Playwright Chromium and exposes them as resources.",
+  "source_repo": "srigi/mcp-webpage-screenshot",
+  "source_url": "https://github.com/srigi/mcp-webpage-screenshot",
+  "install": "# git clone --depth 1 https://github.com/srigi/mcp-webpage-screenshot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openobserve-mcp",
+  "description": "MCP server that enables querying an OpenObserve instance for logs, traces, and metrics via tools like search_logs, search_traces, get_trace, and query_metrics, supporting natural-language-driven observability workflows.",
+  "source_repo": "devShahriar/OpenObserve-mcp",
+  "source_url": "https://github.com/devShahriar/OpenObserve-mcp",
+  "install": "npx -y OpenObserve-mcp"
+}

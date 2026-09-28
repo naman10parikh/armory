@@ -1,0 +1,7 @@
+{
+  "name": "nmapmcp",
+  "description": "Enables network scanning and reconnaissance tasks like port scanning, OS detection, DNS brute force, and more through MCP interfaces.",
+  "source_repo": "0xPratikPatil/NmapMCP",
+  "source_url": "https://github.com/0xPratikPatil/NmapMCP",
+  "install": "# git clone --depth 1 https://github.com/0xPratikPatil/NmapMCP\n# See source for mcpServers config block"
+}

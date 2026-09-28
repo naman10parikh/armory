@@ -1,0 +1,7 @@
+{
+  "name": "postpulse",
+  "description": "PostPulse is a unified API and integration suite that handles the complexity of social media publishing. Instead of managing individual platform audits and breaking tokens, developers use PostPulse as their outsourced social-connectivity team.",
+  "source_repo": "PostPulse/mcp-server-postpulse",
+  "source_url": "https://github.com/PostPulse/mcp-server-postpulse",
+  "install": "# git clone --depth 1 https://github.com/PostPulse/mcp-server-postpulse\n# See source for mcpServers config block"
+}

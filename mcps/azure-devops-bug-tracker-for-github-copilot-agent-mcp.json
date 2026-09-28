@@ -1,0 +1,7 @@
+{
+  "name": "azure-devops-bug-tracker-for-github-copilot-agent-mcp",
+  "description": "Integrates GitHub Copilot Agent with Azure DevOps to fetch, analyze, and report bug data, allowing you to query bugs, generate dashboards, and export reports via natural language.",
+  "source_repo": "Ninjaboy249/azure-devops-copilot-bugs",
+  "source_url": "https://github.com/Ninjaboy249/azure-devops-copilot-bugs",
+  "install": "# git clone --depth 1 https://github.com/Ninjaboy249/azure-devops-copilot-bugs\n# See source for mcpServers config block"
+}

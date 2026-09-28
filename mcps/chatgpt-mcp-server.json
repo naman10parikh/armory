@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-mcp-server",
+  "description": "Enables ChatGPT to perform filesystem operations, execute PowerShell commands, and manage n8n workflows on a Windows machine.",
+  "source_repo": "bermingham85/chatgpt-mcp-server",
+  "source_url": "https://github.com/bermingham85/chatgpt-mcp-server",
+  "install": "npx -y chatgpt-mcp-server"
+}

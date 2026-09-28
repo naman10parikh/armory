@@ -1,0 +1,7 @@
+{
+  "name": "cebelca-mcp",
+  "description": "An MCP server that wraps the cebelca.biz accounting API, exposing tools for operations like managing partners, invoices, proformas, and fetching PDFs.",
+  "source_repo": "otobrglez/cebelca-mcp",
+  "source_url": "https://github.com/otobrglez/cebelca-mcp",
+  "install": "npx -y cebelca-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "license-verifier-mcp",
+  "description": "50-state professional license verification for AI agents.",
+  "source_repo": "jakejackson910/license-verifier-mcp",
+  "source_url": "https://github.com/jakejackson910/license-verifier-mcp",
+  "install": "npx -y license-verifier-mcp"
+}

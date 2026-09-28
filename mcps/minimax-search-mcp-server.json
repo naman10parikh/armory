@@ -1,0 +1,7 @@
+{
+  "name": "minimax-search-mcp-server",
+  "description": "MCP server enabling parallel web search and batch browsing with intelligent content understanding via MiniMax LLM.",
+  "source_repo": "MiniMax-AI/minimax_search",
+  "source_url": "https://github.com/MiniMax-AI/minimax_search",
+  "install": "# git clone --depth 1 https://github.com/MiniMax-AI/minimax_search\n# See source for mcpServers config block"
+}

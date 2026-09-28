@@ -1,0 +1,7 @@
+{
+  "name": "aizex-mcp",
+  "description": "Controls Aizex shared ChatGPT/Claude account pool via Playwright browser automation, exposing tools through MCP protocol for AI agents to get advanced model responses or batch generate content.",
+  "source_repo": "94series/aizex_mcp",
+  "source_url": "https://github.com/94series/aizex_mcp",
+  "install": "npx -y aizex_mcp"
+}

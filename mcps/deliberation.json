@@ -1,0 +1,7 @@
+{
+  "name": "deliberation",
+  "description": "Ask Codex, Gemini, Grok, and 400+ OpenRouter models (Qwen, Kimi, DeepSeek) for second opinions or arbiter-mediated consensus. One MCP server for Claude Code, Codex, Cursor, Kiro, OpenCode. Measures which models earn their seat.",
+  "source_repo": "antonbabenko/deliberation",
+  "source_url": "https://github.com/antonbabenko/deliberation",
+  "install": "# git clone --depth 1 https://github.com/antonbabenko/deliberation\n# See source for mcpServers config block"
+}

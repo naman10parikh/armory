@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-sp-cupom-fiscal-eletr-nico-sat-detalhado",
+  "description": "Read-only MCP server providing a single tool that queries Brazilian SEFAZ SP electronic fiscal receipt (Cupom Fiscal Eletrônico/SAT) data from an official source. It offers prepaid, per-query access via MCP over HTTP with no platform credentials needed.",
+  "source_repo": "mcp-dir/sefaz_sp_cfe_completa-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_sp_cfe_completa-mcp",
+  "install": "npx -y sefaz_sp_cfe_completa-mcp"
+}

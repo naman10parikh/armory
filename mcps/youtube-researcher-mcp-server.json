@@ -1,0 +1,7 @@
+{
+  "name": "youtube-researcher-mcp-server",
+  "description": "An MCP server for researching YouTube niches. It searches videos, fetches metadata, calculates engagement metrics, downloads thumbnails, and produces aggregate niche statistics for analysis.",
+  "source_repo": "larrygmaguire-tech/youtube-researcher-mcp",
+  "source_url": "https://github.com/larrygmaguire-tech/youtube-researcher-mcp",
+  "install": "npx -y youtube-researcher-mcp"
+}

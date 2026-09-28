@@ -1,0 +1,7 @@
+{
+  "name": "tesseract-26-eyeshot-mcp",
+  "description": "Enables AI-driven CAD operations through natural language, integrating LLM and Eyeshot SDK for model manipulation.",
+  "source_repo": "A-001-byte/Tesseract-26-Eyeshot-MCP",
+  "source_url": "https://github.com/A-001-byte/Tesseract-26-Eyeshot-MCP",
+  "install": "npx -y Tesseract-26-Eyeshot-MCP"
+}

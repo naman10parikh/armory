@@ -1,0 +1,7 @@
+{
+  "name": "scrapeops-mcp-server",
+  "description": "Enables AI agents to browse the web, bypass anti-bots, render JavaScript, take screenshots, and perform structured data extraction using the ScrapeOps Proxy API.",
+  "source_repo": "ScrapeOps/scrapeops-mcp-server",
+  "source_url": "https://github.com/ScrapeOps/scrapeops-mcp-server",
+  "install": "npx -y scrapeops-mcp-server"
+}

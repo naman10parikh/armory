@@ -1,0 +1,7 @@
+{
+  "name": "foundry-agents-mcp-server",
+  "description": "Exposes Azure AI Foundry agents, workflows, and AI Search vector-database capabilities as MCP tools, enabling natural language interaction with agents, semantic search, and index management.",
+  "source_repo": "denniszielke/foundry-agents-mcp-server",
+  "source_url": "https://github.com/denniszielke/foundry-agents-mcp-server",
+  "install": "npx -y foundry-agents-mcp-server"
+}

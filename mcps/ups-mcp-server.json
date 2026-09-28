@@ -1,0 +1,7 @@
+{
+  "name": "ups-mcp-server",
+  "description": "Enables AI agents to track packages, rate and create shipments, manage pickups and customs documentation, and perform international shipping logistics checks through natural language.",
+  "source_repo": "VoxveyAI/UPS-MCP",
+  "source_url": "https://github.com/VoxveyAI/UPS-MCP",
+  "install": "npx -y UPS-MCP"
+}

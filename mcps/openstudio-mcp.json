@@ -1,0 +1,7 @@
+{
+  "name": "openstudio-mcp",
+  "description": "Enables natural language interaction with OpenStudio building energy simulation, allowing creation, querying, and modification of models, running EnergyPlus simulations, and analyzing results.",
+  "source_repo": "NatLabRockies/openstudio-mcp",
+  "source_url": "https://github.com/NatLabRockies/openstudio-mcp",
+  "install": "npx -y openstudio-mcp"
+}

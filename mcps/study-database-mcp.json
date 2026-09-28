@@ -1,0 +1,7 @@
+{
+  "name": "study-database-mcp",
+  "description": "An MCP server that provides deterministic math computation (numeric, symbolic, unit, matrix) and hybrid retrieval over study notes/textbooks with citations, helping Claude become a reliable study partner.",
+  "source_repo": "mchdeore/study-database-mcp",
+  "source_url": "https://github.com/mchdeore/study-database-mcp",
+  "install": "npx -y study-database-mcp"
+}

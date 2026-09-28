@@ -1,0 +1,7 @@
+{
+  "name": "imessage-bridge-for-poke",
+  "description": "Enables reading and sending iMessages through Poke via a local Mac server, with tools for chat management and message history.",
+  "source_repo": "ish-cs/imessage-poke-bridge",
+  "source_url": "https://github.com/ish-cs/imessage-poke-bridge",
+  "install": "# git clone --depth 1 https://github.com/ish-cs/imessage-poke-bridge\n# See source for mcpServers config block"
+}

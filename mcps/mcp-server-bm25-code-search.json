@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-bm25-code-search",
+  "description": "Enables fast, low-token code search for AI coding agents via a local BM25 engine built on SQLite FTS5, with support for camelCase, snake_case, and Japanese text. Provides a stateless MCP stdio server and a Hermes adapter for multi-agent environments.",
+  "source_repo": "toaruR/mcp-server-bm25-code-search",
+  "source_url": "https://github.com/toaruR/mcp-server-bm25-code-search",
+  "install": "# git clone --depth 1 https://github.com/toaruR/mcp-server-bm25-code-search\n# See source for mcpServers config block"
+}

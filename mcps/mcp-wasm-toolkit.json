@@ -1,0 +1,7 @@
+{
+  "name": "mcp-wasm-toolkit",
+  "description": "A serverless-accelerated hybrid development platform that minimizes dependencies in the local development environment and organically combines a virtual operating system kernel inside a web browser with the local host resources.",
+  "source_repo": "uno-km/MCP-Wasm-Toolkit",
+  "source_url": "https://github.com/uno-km/MCP-Wasm-Toolkit",
+  "install": "# git clone --depth 1 https://github.com/uno-km/MCP-Wasm-Toolkit\n# See source for mcpServers config block"
+}

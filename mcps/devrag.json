@@ -1,0 +1,7 @@
+{
+  "name": "devrag",
+  "description": "A lightweight RAG (Retrieval-Augmented Generation) system for Claude Code that enables semantic search over local markdown documents via MCP tools, saving tokens and time.",
+  "source_repo": "tomohiro-owada/devrag",
+  "source_url": "https://github.com/tomohiro-owada/devrag",
+  "install": "# git clone --depth 1 https://github.com/tomohiro-owada/devrag\n# See source for mcpServers config block"
+}

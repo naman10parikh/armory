@@ -1,0 +1,7 @@
+{
+  "name": "solman-fb-mcp",
+  "description": "An MCP server for AI assistants to create and manage SAP Solution Manager Focused Build Requirements and navigate the Solution Documentation process hierarchy via SAP OData API.",
+  "source_repo": "odaiadnan23-design/solman-fb-mcp",
+  "source_url": "https://github.com/odaiadnan23-design/solman-fb-mcp",
+  "install": "npx -y solman-fb-mcp"
+}

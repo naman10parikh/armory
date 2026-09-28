@@ -1,0 +1,7 @@
+{
+  "name": "vector-knowledge-graph-mcp",
+  "description": "Enables building and querying vector-based knowledge graphs with node and edge management and semantic search.",
+  "source_repo": "CSOAI-ORG/vector-knowledge-graph-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/vector-knowledge-graph-mcp",
+  "install": "npx -y vector-knowledge-graph-mcp"
+}

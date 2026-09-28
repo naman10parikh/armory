@@ -1,0 +1,7 @@
+{
+  "name": "tuvi-mcp",
+  "description": "MCP server for Vietnamese fortune-telling based on lunar calendar, providing birth date analysis, daily fortune, and general fortune predictions using traditional elements like Can Chi and Ngũ Hành.",
+  "source_repo": "MaoBui2907/tuvi-mcp",
+  "source_url": "https://github.com/MaoBui2907/tuvi-mcp",
+  "install": "npx -y tuvi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shumi-ai",
+  "description": "Shumi is a mechanical trading intelligence platform designed for the crypto market. It combines market trends, funding data, user sentiment, and contract resolution into a single research workflow.",
+  "source_repo": "mayrsascha/shumi-mcp",
+  "source_url": "https://github.com/mayrsascha/shumi-mcp",
+  "install": "npx -y shumi-mcp"
+}

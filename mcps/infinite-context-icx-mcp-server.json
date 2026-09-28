@@ -1,0 +1,7 @@
+{
+  "name": "infinite-context-icx-mcp-server",
+  "description": "Connects AI agents to persistent topological memory on the Volumetric Lattice Network, enabling sub-5ms associative recall and storage of facts, documents, and code.",
+  "source_repo": "Calera-Labs/icx-mcp",
+  "source_url": "https://github.com/Calera-Labs/icx-mcp",
+  "install": "npx -y icx-mcp"
+}

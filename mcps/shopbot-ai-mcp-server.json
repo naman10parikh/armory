@@ -1,0 +1,7 @@
+{
+  "name": "shopbot-ai-mcp-server",
+  "description": "AI customer support MCP server with order status lookup and RAG-powered knowledge base search for e-commerce stores.",
+  "source_repo": "hayamot0/shopbot-ai",
+  "source_url": "https://github.com/hayamot0/shopbot-ai",
+  "install": "# git clone --depth 1 https://github.com/hayamot0/shopbot-ai\n# See source for mcpServers config block"
+}

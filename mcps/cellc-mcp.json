@@ -1,0 +1,7 @@
+{
+  "name": "cellc-mcp",
+  "description": "Wraps the cellc CellScript compiler so that an AI can write, check, explain, and inspect CKB Cell contracts in a local agentic loop.",
+  "source_repo": "toastmanAu/cellc-mcp",
+  "source_url": "https://github.com/toastmanAu/cellc-mcp",
+  "install": "npx -y cellc-mcp"
+}

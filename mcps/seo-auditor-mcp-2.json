@@ -1,0 +1,7 @@
+{
+  "name": "seo-auditor-mcp-2",
+  "description": "Provides comprehensive technical SEO audits, Schema.org validation, AEO readiness checks, and semantic cannibalization detection via MCP and CLI.",
+  "source_repo": "klok123/seo-auditor-mcp",
+  "source_url": "https://github.com/klok123/seo-auditor-mcp",
+  "install": "npx -y seo-auditor-mcp"
+}

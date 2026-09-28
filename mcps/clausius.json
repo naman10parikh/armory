@@ -1,0 +1,7 @@
+{
+  "name": "clausius",
+  "description": "An MCP server for monitoring and managing multi-cluster Slurm GPU jobs, enabling AI agents to execute commands, check allocations, and explore logs across HPC clusters.",
+  "source_repo": "tamohannes/clausius",
+  "source_url": "https://github.com/tamohannes/clausius",
+  "install": "# git clone --depth 1 https://github.com/tamohannes/clausius\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "poland-invoice-mcp",
+  "description": "Enables AI agents to issue Poland structured e-invoices (faktura ustrukturyzowana) through KSeF 2.0, handling FA(3) XML building, encrypted session flow, and KSeF number retrieval.",
+  "source_repo": "junter1989k-ai/poland-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/poland-invoice-mcp",
+  "install": "npx -y poland-invoice-mcp"
+}

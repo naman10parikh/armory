@@ -1,0 +1,7 @@
+{
+  "name": "pharos-mcp-server",
+  "description": "Enables querying Pharos blockchain data (EVM-compatible) through MCP, with read-only tools for blocks, transactions, balances, and contract calls, plus optional transaction broadcasting when self-hosted.",
+  "source_repo": "PharosNetwork/pharos-mcp",
+  "source_url": "https://github.com/PharosNetwork/pharos-mcp",
+  "install": "npx -y pharos-mcp"
+}

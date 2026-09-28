@@ -1,0 +1,7 @@
+{
+  "name": "mind-cloud-lite",
+  "description": "Token-optimized persistent memory MCP server for Claude Pro users, providing 9 essential tools for memory management with 87% token reduction compared to full version.",
+  "source_repo": "codependentai/mind-cloud-lite",
+  "source_url": "https://github.com/codependentai/mind-cloud-lite",
+  "install": "# git clone --depth 1 https://github.com/codependentai/mind-cloud-lite\n# See source for mcpServers config block"
+}

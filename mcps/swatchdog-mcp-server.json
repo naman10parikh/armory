@@ -1,0 +1,7 @@
+{
+  "name": "swatchdog-mcp-server",
+  "description": "MCP server that checks AI-generated CSS against design tokens, flagging off-brand values and suggesting the closest matching tokens for colors, spacing, radii, and typography.",
+  "source_repo": "swatchdog-dev/swatchdog-mcp",
+  "source_url": "https://github.com/swatchdog-dev/swatchdog-mcp",
+  "install": "npx -y swatchdog-mcp"
+}

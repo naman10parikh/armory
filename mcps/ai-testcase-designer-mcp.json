@@ -1,0 +1,7 @@
+{
+  "name": "ai-testcase-designer-mcp",
+  "description": "Generates comprehensive API test plans (positive, negative, and boundary cases) from endpoint metadata and exports them as Excel files.",
+  "source_repo": "TuanLdv/testcase-generator-mcp-starter-qc",
+  "source_url": "https://github.com/TuanLdv/testcase-generator-mcp-starter-qc",
+  "install": "# git clone --depth 1 https://github.com/TuanLdv/testcase-generator-mcp-starter-qc\n# See source for mcpServers config block"
+}

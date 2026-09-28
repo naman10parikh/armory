@@ -1,0 +1,7 @@
+{
+  "name": "scb-mcp",
+  "description": "Enables querying Statistics Sweden's statistical database via tools like navigate, get_table_metadata, query_table, etc.",
+  "source_repo": "IsakRizell/scb-mcp",
+  "source_url": "https://github.com/IsakRizell/scb-mcp",
+  "install": "npx -y scb-mcp"
+}

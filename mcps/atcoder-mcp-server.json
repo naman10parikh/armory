@@ -1,0 +1,7 @@
+{
+  "name": "atcoder-mcp-server",
+  "description": "Read-only MCP server for accessing AtCoder problem statements and samples, enabling problem retrieval and search without contest interference.",
+  "source_repo": "ketherworks/atcoder-mcp-server",
+  "source_url": "https://github.com/ketherworks/atcoder-mcp-server",
+  "install": "npx -y atcoder-mcp-server"
+}

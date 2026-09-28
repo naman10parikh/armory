@@ -1,0 +1,7 @@
+{
+  "name": "cool-test-mcp",
+  "description": "An automated testing MCP server that converts test cases into a fixed JSON format, runs them case-by-case, and provides a visual report with review support for cases that cannot be automatically judged.",
+  "source_repo": "CoolTea001/cool-test-mcp",
+  "source_url": "https://github.com/CoolTea001/cool-test-mcp",
+  "install": "npx -y cool-test-mcp"
+}

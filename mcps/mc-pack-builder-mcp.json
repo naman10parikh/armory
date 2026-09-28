@@ -1,0 +1,7 @@
+{
+  "name": "mc-pack-builder-mcp",
+  "description": "Enables creating Minecraft modpack structures, searching Modrinth mods, resolving dependencies, and checking compatibility.",
+  "source_repo": "dcd887/mc-pack-builder-mcp",
+  "source_url": "https://github.com/dcd887/mc-pack-builder-mcp",
+  "install": "npx -y mc-pack-builder-mcp"
+}

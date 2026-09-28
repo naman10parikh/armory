@@ -1,0 +1,7 @@
+{
+  "name": "clichefactory-mcp",
+  "description": "MCP server for ClicheFactory, enabling structured data extraction from documents such as PDFs, images, and office files via AI assistants.",
+  "source_repo": "ClicheFactory/clichefactory-mcp",
+  "source_url": "https://github.com/ClicheFactory/clichefactory-mcp",
+  "install": "npx -y clichefactory-mcp"
+}

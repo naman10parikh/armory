@@ -1,0 +1,7 @@
+{
+  "name": "bus-mcp",
+  "description": "MCP server for Raspberry Pi peripheral bus access, enabling AI agents to interact with CAN, I2C, SPI, UART, and GPIO directly through natural language.",
+  "source_repo": "Pan-Robotics/bus-mcp",
+  "source_url": "https://github.com/Pan-Robotics/bus-mcp",
+  "install": "npx -y bus-mcp"
+}

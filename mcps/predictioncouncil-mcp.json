@@ -1,0 +1,7 @@
+{
+  "name": "predictioncouncil-mcp",
+  "description": "Enables searching and running an AI council (Grok, Claude, GPT, Gemini) on Polymarket events to produce structured verdicts from any MCP client.",
+  "source_repo": "daveb1392/predictioncouncil-mcp",
+  "source_url": "https://github.com/daveb1392/predictioncouncil-mcp",
+  "install": "npx -y predictioncouncil-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zillow-mcp",
+  "description": "Enables natural-language access to Zillow real-estate data, including property search, details, Zestimate history, saved searches/homes, and market reports, by routing requests through the user's authenticated browser session.",
+  "source_repo": "chrischall/zillow-mcp",
+  "source_url": "https://github.com/chrischall/zillow-mcp",
+  "install": "npx -y zillow-mcp"
+}

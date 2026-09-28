@@ -1,0 +1,7 @@
+{
+  "name": "supasidebar-mcp",
+  "description": "Access and organize your open browser tabs, bookmarks, and recently visited links across every macOS browser from your AI client. Powered by the free tier of SupaSidebar(https://supasidebar.com) app.",
+  "source_repo": "auspy/supasidebar-mcp",
+  "source_url": "https://github.com/auspy/supasidebar-mcp",
+  "install": "npx -y supasidebar-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wallos-mcp",
+  "description": "MCP server that connects a self-hosted Wallos subscription tracker to AI assistants, enabling management of subscriptions, categories, payment methods, and more via the Wallos API. Runs on Cloudflare Workers with OAuth 2.1 authentication.",
+  "source_repo": "mkpoli/wallos-mcp",
+  "source_url": "https://github.com/mkpoli/wallos-mcp",
+  "install": "npx -y wallos-mcp"
+}

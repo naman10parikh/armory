@@ -1,0 +1,7 @@
+{
+  "name": "citation-guard",
+  "description": "Verifies citations in reference lists by checking DOIs against public registries to catch AI-hallucinated or mismatched citations.",
+  "source_repo": "PranayMahendrakar/citation-guard",
+  "source_url": "https://github.com/PranayMahendrakar/citation-guard",
+  "install": "# git clone --depth 1 https://github.com/PranayMahendrakar/citation-guard\n# See source for mcpServers config block"
+}

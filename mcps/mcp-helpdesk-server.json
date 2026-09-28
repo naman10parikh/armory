@@ -1,0 +1,7 @@
+{
+  "name": "mcp-helpdesk-server",
+  "description": "Enables AI assistants to manage helpdesk tickets by viewing open tickets and resolving them with resolution notes via a MySQL database.",
+  "source_repo": "AtharvaPatil31/MCP-Server-Local",
+  "source_url": "https://github.com/AtharvaPatil31/MCP-Server-Local",
+  "install": "# git clone --depth 1 https://github.com/AtharvaPatil31/MCP-Server-Local\n# See source for mcpServers config block"
+}

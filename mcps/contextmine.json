@@ -1,0 +1,7 @@
+{
+  "name": "contextmine",
+  "description": "Self-hosted documentation and code indexing with MCP integration.",
+  "source_repo": "mayflower/contextmine",
+  "source_url": "https://github.com/mayflower/contextmine",
+  "install": "# git clone --depth 1 https://github.com/mayflower/contextmine\n# See source for mcpServers config block"
+}

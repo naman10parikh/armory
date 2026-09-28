@@ -1,0 +1,7 @@
+{
+  "name": "feed-reader-mcp",
+  "description": "Fetches and reads RSS/Atom feeds, enabling MCP clients to pull latest items from blogs, news sites, and release feeds and build digests.",
+  "source_repo": "tono628develop/feed-reader-mcp",
+  "source_url": "https://github.com/tono628develop/feed-reader-mcp",
+  "install": "npx -y feed-reader-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-kafka-observer",
+  "description": "An MCP server that gives AI agents real-time observability into Apache Kafka clusters, enabling natural language queries for broker health, consumer lag, and diagnostics.",
+  "source_repo": "Rushi264/mcp-kafka-observer",
+  "source_url": "https://github.com/Rushi264/mcp-kafka-observer",
+  "install": "# git clone --depth 1 https://github.com/Rushi264/mcp-kafka-observer\n# See source for mcpServers config block"
+}

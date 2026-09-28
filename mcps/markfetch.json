@@ -1,0 +1,7 @@
+{
+  "name": "markfetch",
+  "description": "Fetches any URL and returns clean markdown, using a real Chrome fingerprint to bypass bot detection. Integrates as an MCP server with tools like fetch_markdown.",
+  "source_repo": "vasylenko/markfetch",
+  "source_url": "https://github.com/vasylenko/markfetch",
+  "install": "# git clone --depth 1 https://github.com/vasylenko/markfetch\n# See source for mcpServers config block"
+}

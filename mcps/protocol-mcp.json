@@ -1,0 +1,7 @@
+{
+  "name": "protocol-mcp",
+  "description": "Connects to wetlab protocol resources such as protocols.io, enabling users to access and manage experimental protocols via natural language.",
+  "source_repo": "biocontext-ai/protocol-mcp",
+  "source_url": "https://github.com/biocontext-ai/protocol-mcp",
+  "install": "npx -y protocol-mcp"
+}

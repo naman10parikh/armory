@@ -1,0 +1,7 @@
+{
+  "name": "resume-ats-mcp",
+  "description": "Enables Claude Desktop to act as an ATS resume checker: lists resume files and evaluates them against job descriptions, providing formatting audits and keyword match scores.",
+  "source_repo": "jppoamaral/resume-ats-mcp",
+  "source_url": "https://github.com/jppoamaral/resume-ats-mcp",
+  "install": "npx -y resume-ats-mcp"
+}

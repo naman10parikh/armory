@@ -1,0 +1,7 @@
+{
+  "name": "bloodtest-mcp-server",
+  "description": "A comprehensive health coaching system that combines blood test analysis with evidence-based nutritional therapy recommendations, powered by Retrieval-Augmented Generation (RAG).",
+  "source_repo": "longevitycoach/bloodtest-mcp-server",
+  "source_url": "https://github.com/longevitycoach/bloodtest-mcp-server",
+  "install": "npx -y bloodtest-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rwa-attest",
+  "description": "Provides cryptographically verifiable RWA trust attestations and multi-chain DeFi data (TVL, top protocols, positioning scorecards) via MCP tools for AI assistants.",
+  "source_repo": "defibabylon/rwa-attest",
+  "source_url": "https://github.com/defibabylon/rwa-attest",
+  "install": "# git clone --depth 1 https://github.com/defibabylon/rwa-attest\n# See source for mcpServers config block"
+}

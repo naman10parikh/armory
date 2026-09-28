@@ -1,0 +1,7 @@
+{
+  "name": "hunchful",
+  "description": "A person's falsifiable, consent-based model of how they work best with AI (CMP) — read it, refine it, add hunches, and find complementary collaborators. 7 tools.",
+  "source_repo": "filinils/hunchful-mcp",
+  "source_url": "https://github.com/filinils/hunchful-mcp",
+  "install": "npx -y hunchful-mcp"
+}

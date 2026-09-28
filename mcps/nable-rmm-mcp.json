@@ -1,0 +1,7 @@
+{
+  "name": "nable-rmm-mcp",
+  "description": "Enables interaction with N-able RMM (N-sight) API to manage clients, sites, devices, and retrieve monitoring data such as checks, patches, and performance history.",
+  "source_repo": "MSPbotsAI/nable-rmm-mcp",
+  "source_url": "https://github.com/MSPbotsAI/nable-rmm-mcp",
+  "install": "npx -y nable-rmm-mcp"
+}

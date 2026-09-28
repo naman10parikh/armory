@@ -1,0 +1,7 @@
+{
+  "name": "tideline",
+  "description": "MCP server that provides tide predictions, station lookup, and tidal event alerts for US coastal locations using live NOAA data.",
+  "source_repo": "Earththing/Moon_and_Tides",
+  "source_url": "https://github.com/Earththing/Moon_and_Tides",
+  "install": "# git clone --depth 1 https://github.com/Earththing/Moon_and_Tides\n# See source for mcpServers config block"
+}

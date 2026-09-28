@@ -1,0 +1,7 @@
+{
+  "name": "codenames-mcp-server",
+  "description": "Enables playing the board game Codenames cooperatively with an AI spymaster (Claude) through MCP tools. Players guess words on a live board while Claude gives clues.",
+  "source_repo": "monkberryy/codenames-mcp-server",
+  "source_url": "https://github.com/monkberryy/codenames-mcp-server",
+  "install": "npx -y codenames-mcp-server"
+}

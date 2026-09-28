@@ -1,0 +1,7 @@
+{
+  "name": "agentic-rag-with-mcp-server",
+  "description": "The MCP server provides tools for entity extraction, query refinement, and relevance checking to enhance RAG applications by integrating with OpenAI and Gemini.",
+  "source_repo": "iflow-mcp/Agentic-RAG-with-MCP-Server-1",
+  "source_url": "https://github.com/iflow-mcp/Agentic-RAG-with-MCP-Server-1",
+  "install": "# git clone --depth 1 https://github.com/iflow-mcp/Agentic-RAG-with-MCP-Server-1\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-k8s-context-server",
+  "description": "Provides a read-only interface to Kubernetes clusters, enabling LLMs to list pods, get pod status and logs, fetch deployment manifests, and perform pod health analysis with resource trend tracking.",
+  "source_repo": "Krishna1704M/mcp-k8s-context-server",
+  "source_url": "https://github.com/Krishna1704M/mcp-k8s-context-server",
+  "install": "# git clone --depth 1 https://github.com/Krishna1704M/mcp-k8s-context-server\n# See source for mcpServers config block"
+}

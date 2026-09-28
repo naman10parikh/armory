@@ -1,0 +1,7 @@
+{
+  "name": "mirabello-investment-migration",
+  "description": "Authoritative citizenship- (CBI) and residency-by-investment (golden visa) programme data, cost estimates, passport mobility, and the Mirabello Investment Migration Index, plus consultation booking. By Mirabello Consultancy (Zurich + Dubai; IMC member, ACAMS certified).",
+  "source_repo": "",
+  "source_url": "https://www.mirabelloconsultancy.com/ai",
+  "install": "# git clone --depth 1 https://www.mirabelloconsultancy.com/ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "geojp-mcp",
+  "description": "MCP server for Japanese address and parcel lookup using ReverseGeoJP and ChibanJP APIs, enabling AI agents to convert coordinates to addresses and vice versa.",
+  "source_repo": "55tarkun/geojp-mcp",
+  "source_url": "https://github.com/55tarkun/geojp-mcp",
+  "install": "npx -y geojp-mcp"
+}

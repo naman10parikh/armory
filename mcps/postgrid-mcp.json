@@ -1,0 +1,7 @@
+{
+  "name": "postgrid-mcp",
+  "description": "Read-only MCP server for PostGrid Print & Mail, exposing constrained tools for ping, listing sub-organizations, and schema probing via the PostGrid API. Designed for Claude Cowork custom connectors with OAuth Individual sign-in.",
+  "source_repo": "white-space-solutions/postgrid-mcp",
+  "source_url": "https://github.com/white-space-solutions/postgrid-mcp",
+  "install": "npx -y postgrid-mcp"
+}

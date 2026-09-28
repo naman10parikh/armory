@@ -1,0 +1,7 @@
+{
+  "name": "codex-image-context-runtime",
+  "description": "MCP server that enables Codex to run image generation and inspection as durable jobs, returning bounded text results and references instead of image bytes to keep context manageable.",
+  "source_repo": "shixinnt/codex-image-context-runtime",
+  "source_url": "https://github.com/shixinnt/codex-image-context-runtime",
+  "install": "# git clone --depth 1 https://github.com/shixinnt/codex-image-context-runtime\n# See source for mcpServers config block"
+}

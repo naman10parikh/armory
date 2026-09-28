@@ -1,0 +1,7 @@
+{
+  "name": "convergeqa-mcp",
+  "description": "MCP servers for multi-model document review with critique/iterate and compare/due-diligence tools, using public verification receipts.",
+  "source_repo": "convergeqa/convergeqa-mcp",
+  "source_url": "https://github.com/convergeqa/convergeqa-mcp",
+  "install": "npx -y convergeqa-mcp"
+}

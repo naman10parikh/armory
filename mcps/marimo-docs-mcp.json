@@ -1,6 +1,6 @@
 {
   "name": "marimo-docs-mcp",
-  "description": "Marimo Docs Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "StevenBtw/marimo-docs-mcp",
   "source_url": "https://mcp.so/server/marimo-docs-mcp/StevenBtw",
   "install": "npx -y marimo-docs-mcp"

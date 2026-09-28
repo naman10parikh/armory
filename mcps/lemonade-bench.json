@@ -1,0 +1,7 @@
+{
+  "name": "lemonade-bench",
+  "description": "Enables tool-using language models to play Lemonade Tycoon Deluxe as a text-only business benchmark, exposing game UI state and actions as semantic MCP tools without vision or shell access.",
+  "source_repo": "mxmarchal/lemonade-bench",
+  "source_url": "https://github.com/mxmarchal/lemonade-bench",
+  "install": "# git clone --depth 1 https://github.com/mxmarchal/lemonade-bench\n# See source for mcpServers config block"
+}

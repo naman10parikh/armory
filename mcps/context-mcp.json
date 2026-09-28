@@ -1,0 +1,7 @@
+{
+  "name": "context-mcp",
+  "description": "Provides AI agents with secure, read-only file system access to analyze and understand project codebases, enabling multi-repository context aggregation and cross-project code tracing.",
+  "source_repo": "geq1fan/context-mcp",
+  "source_url": "https://github.com/geq1fan/context-mcp",
+  "install": "npx -y context-mcp"
+}

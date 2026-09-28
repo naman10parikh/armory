@@ -1,0 +1,7 @@
+{
+  "name": "payroll-normalizer-mcp",
+  "description": "Enables AI tools to normalize messy payroll spreadsheets (xlsx/xls/csv) into a standardized 10-column template for social insurance calculation, with automatic column detection, net-to-gross conversion, and cross-entity/month merging.",
+  "source_repo": "dingxiang-me/payroll-normalizer-mcp",
+  "source_url": "https://github.com/dingxiang-me/payroll-normalizer-mcp",
+  "install": "npx -y payroll-normalizer-mcp"
+}

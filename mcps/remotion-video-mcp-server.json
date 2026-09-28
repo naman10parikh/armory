@@ -1,0 +1,7 @@
+{
+  "name": "remotion-video-mcp-server",
+  "description": "MCP server for agent-driven video generation from SRT subtitles to Remotion videos, supporting TTS, async tasks, and web console.",
+  "source_repo": "techdou/remotion-video",
+  "source_url": "https://github.com/techdou/remotion-video",
+  "install": "# git clone --depth 1 https://github.com/techdou/remotion-video\n# See source for mcpServers config block"
+}

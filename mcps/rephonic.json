@@ -1,0 +1,7 @@
+{
+  "name": "rephonic",
+  "description": "Give AI agents and LLMs access to podcast data from Rephonic — covering 3+ million podcasts with listener estimates, demographics, contact details, chart rankings, episodes, and more.",
+  "source_repo": "getrephonic/rephonic-mcp",
+  "source_url": "https://github.com/getrephonic/rephonic-mcp",
+  "install": "npx -y rephonic-mcp"
+}

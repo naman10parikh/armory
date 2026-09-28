@@ -1,0 +1,7 @@
+{
+  "name": "hibob-advanced-mcp",
+  "description": "An MCP server for HiBob's Workforce Planning API, enabling management of planned positions, openings, and budgets. It exposes read and write tools for workforce planning data, complementing standard HRIS integrations.",
+  "source_repo": "JustParent/hibob-advanced-mcp",
+  "source_url": "https://github.com/JustParent/hibob-advanced-mcp",
+  "install": "npx -y hibob-advanced-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "atag-mcp",
+  "description": "Provides guidance on the W3C Authoring Tool Accessibility Guidelines (ATAG 2.0) to help authoring tool developers build accessible software.",
+  "source_repo": "MMasey/atag-mcp",
+  "source_url": "https://github.com/MMasey/atag-mcp",
+  "install": "npx -y atag-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sverige-begagnad-mcp",
+  "description": "MCP server that searches Swedish second-hand marketplaces (Blocket and Tradera) for items, with optional Facebook Marketplace support, tailored for the Växjö/Älmhult area.",
+  "source_repo": "tudorgrigoriu90/sverige-begagnad-mcp",
+  "source_url": "https://github.com/tudorgrigoriu90/sverige-begagnad-mcp",
+  "install": "npx -y sverige-begagnad-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cwtools-mcp",
+  "description": "Read-only MCP server exposing CWTools Paradox/Stellaris semantic tools (syntax checking, scope queries, definitions, references, diagnostics, scripted triggers/effects/enums, and shader queries) to AI agents like Codex and Claude Code, bridging into VS Code-compatible hosts or running standalone.",
+  "source_repo": "Aa728848/cwtools-mcp",
+  "source_url": "https://github.com/Aa728848/cwtools-mcp",
+  "install": "npx -y cwtools-mcp"
+}

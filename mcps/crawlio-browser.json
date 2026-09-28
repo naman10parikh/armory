@@ -1,0 +1,7 @@
+{
+  "name": "crawlio-browser",
+  "description": "MCP server that gives AI full control of a live Chrome browser via CDP, with 145 tools for framework-aware intelligence, evidence analysis, and SEO auditing. Connects to your existing Chrome via an extension, enabling interaction with dynamic and authenticated web pages.",
+  "source_repo": "Crawlio-app/crawlio-browser",
+  "source_url": "https://github.com/Crawlio-app/crawlio-browser",
+  "install": "# git clone --depth 1 https://github.com/Crawlio-app/crawlio-browser\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-meroshare",
+  "description": "MCP server for MeroShare that enables managing IPO/FPO applications, portfolio, and share transactions directly from AI tools.",
+  "source_repo": "tekchapagain1/mcp-meroshare",
+  "source_url": "https://github.com/tekchapagain1/mcp-meroshare",
+  "install": "# git clone --depth 1 https://github.com/tekchapagain1/mcp-meroshare\n# See source for mcpServers config block"
+}

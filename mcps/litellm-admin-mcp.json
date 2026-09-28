@@ -1,0 +1,7 @@
+{
+  "name": "litellm-admin-mcp",
+  "description": "Exposes LiteLLM Proxy admin APIs as MCP tools for managing internal users, virtual keys, and spend logs via streamable-http, enabling agents to administer LiteLLM without custom HTTP glue.",
+  "source_repo": "junwayne66/litellm-admin-mcp",
+  "source_url": "https://github.com/junwayne66/litellm-admin-mcp",
+  "install": "npx -y litellm-admin-mcp"
+}

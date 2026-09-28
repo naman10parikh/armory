@@ -1,0 +1,7 @@
+{
+  "name": "celebration-mcp",
+  "description": "Provides short, generic celebratory messages for AI agents when tasks are completed, via a hosted Streamable HTTP MCP endpoint.",
+  "source_repo": "zekerutledge/celebration-mcp",
+  "source_url": "https://github.com/zekerutledge/celebration-mcp",
+  "install": "npx -y celebration-mcp"
+}

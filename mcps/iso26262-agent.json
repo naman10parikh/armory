@@ -1,0 +1,7 @@
+{
+  "name": "iso26262-agent",
+  "description": "AI-powered MCP server for automotive functional safety engineering. Enables generation of HARA, FMEA, safety requirements, and compliance checks grounded in ISO 26262 standards.",
+  "source_repo": "Abinash009/iso26262-agent",
+  "source_url": "https://github.com/Abinash009/iso26262-agent",
+  "install": "# git clone --depth 1 https://github.com/Abinash009/iso26262-agent\n# See source for mcpServers config block"
+}

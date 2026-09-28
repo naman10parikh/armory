@@ -1,0 +1,7 @@
+{
+  "name": "vimeo-mcp-server",
+  "description": "An MCP server that provides tools for interacting with the Vimeo API, enabling management of videos, transcripts, and retrieval of video statistics through a standardized interface.",
+  "source_repo": "galacoder/vimeo-mcp",
+  "source_url": "https://github.com/galacoder/vimeo-mcp",
+  "install": "npx -y vimeo-mcp"
+}

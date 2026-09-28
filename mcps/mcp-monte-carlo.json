@@ -1,0 +1,7 @@
+{
+  "name": "mcp-monte-carlo",
+  "description": "Enables AI agents to forecast asset price paths using Monte Carlo simulation with EGARCH volatility and skewed-t shocks, providing risk metrics and percentiles.",
+  "source_repo": "alexmartinsgomes/mcp-monte-carlo",
+  "source_url": "https://github.com/alexmartinsgomes/mcp-monte-carlo",
+  "install": "# git clone --depth 1 https://github.com/alexmartinsgomes/mcp-monte-carlo\n# See source for mcpServers config block"
+}

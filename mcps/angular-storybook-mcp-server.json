@@ -1,0 +1,7 @@
+{
+  "name": "angular-storybook-mcp-server",
+  "description": "An MCP server that brings an Angular design system built on Storybook into AI tools like Claude and Cursor, providing real-time access to component metadata, APIs, and documentation.",
+  "source_repo": "yeholer-dot/Angular-Storybook-MCP-Server",
+  "source_url": "https://github.com/yeholer-dot/Angular-Storybook-MCP-Server",
+  "install": "npx -y Angular-Storybook-MCP-Server"
+}

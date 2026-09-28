@@ -1,0 +1,7 @@
+{
+  "name": "log-collector",
+  "description": "MCP server for collecting and analyzing CLI/web server error logs. Enables watching log files/directories, parsing common error patterns, and querying/analyzing logs through natural language.",
+  "source_repo": "bonsai/log-collector",
+  "source_url": "https://github.com/bonsai/log-collector",
+  "install": "# git clone --depth 1 https://github.com/bonsai/log-collector\n# See source for mcpServers config block"
+}

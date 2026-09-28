@@ -1,0 +1,7 @@
+{
+  "name": "blogger-mcp-server",
+  "description": "Enables AI models to interact with Google Blogger blogs, manage posts, labels, and retrieve blog information via API key or OAuth2.",
+  "source_repo": "dalcontak/blogger-mcp-server",
+  "source_url": "https://github.com/dalcontak/blogger-mcp-server",
+  "install": "npx -y blogger-mcp-server"
+}

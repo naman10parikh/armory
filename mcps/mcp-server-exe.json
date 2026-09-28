@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-exe",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/mcp_server_exe",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_server_exe\n# See source for mcpServers config block"
+}

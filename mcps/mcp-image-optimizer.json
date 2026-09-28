@@ -1,0 +1,7 @@
+{
+  "name": "mcp-image-optimizer",
+  "description": "A Model Context Protocol server for image optimization with advanced transformations powered by Sharp, enabling resize, convert, batch process, crop, watermark, and favicon generation from URLs or local files.",
+  "source_repo": "piephai/mcp-image-optimizer",
+  "source_url": "https://github.com/piephai/mcp-image-optimizer",
+  "install": "# git clone --depth 1 https://github.com/piephai/mcp-image-optimizer\n# See source for mcpServers config block"
+}

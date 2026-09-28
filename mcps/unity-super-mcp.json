@@ -1,0 +1,7 @@
+{
+  "name": "unity-super-mcp",
+  "description": "An MCP server providing 15 tools for Unity projects, including Unity Gaming Services LiveOps (Economy, Cloud Save, Cloud Code), build-size and bloat analysis, and store-compliance checks.",
+  "source_repo": "aka-kika/unity-super-mcp",
+  "source_url": "https://github.com/aka-kika/unity-super-mcp",
+  "install": "npx -y unity-super-mcp"
+}

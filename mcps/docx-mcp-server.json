@@ -1,0 +1,7 @@
+{
+  "name": "docx-mcp-server",
+  "description": "Enables AI agents to read, edit, and create Microsoft Word documents (.docx) with support for rich text, tables, and images, deployable locally or via SSE.",
+  "source_repo": "OkamiFeng/docx-mcp-server",
+  "source_url": "https://github.com/OkamiFeng/docx-mcp-server",
+  "install": "npx -y docx-mcp-server"
+}

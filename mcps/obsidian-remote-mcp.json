@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-remote-mcp",
+  "description": "Self-hosted MCP server that provides remote AI clients with read and write access to Obsidian vaults over HTTPS without needing the Obsidian desktop app running.",
+  "source_repo": "nweii/obsidian-remote-mcp",
+  "source_url": "https://github.com/nweii/obsidian-remote-mcp",
+  "install": "npx -y obsidian-remote-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "discord-bot-mcp",
+  "description": "A local MCP server that lets AI clients control a Discord bot via Discord's REST API, offering messaging, administration, and moderation tools. Includes safety features such as guild scoping, allowlists, and opt-in write permissions.",
+  "source_repo": "diocata/discord-bot-mcp",
+  "source_url": "https://github.com/diocata/discord-bot-mcp",
+  "install": "npx -y discord-bot-mcp"
+}

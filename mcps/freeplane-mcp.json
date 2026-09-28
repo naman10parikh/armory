@@ -1,0 +1,7 @@
+{
+  "name": "freeplane-mcp",
+  "description": "Local-first MCP integration for Freeplane on Apple Silicon macOS, currently exposing status and capabilities over STDIO.",
+  "source_repo": "Hilbert-beinghappy/freeplane-mcp",
+  "source_url": "https://github.com/Hilbert-beinghappy/freeplane-mcp",
+  "install": "npx -y freeplane-mcp"
+}

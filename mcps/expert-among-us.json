@@ -1,0 +1,7 @@
+{
+  "name": "expert-among-us",
+  "description": "Indexes commit history to create a queryable expert, providing insights into code evolution, developer intent, and hidden patterns beyond static code analysis.",
+  "source_repo": "portablestew/expert-among-us",
+  "source_url": "https://github.com/portablestew/expert-among-us",
+  "install": "# git clone --depth 1 https://github.com/portablestew/expert-among-us\n# See source for mcpServers config block"
+}

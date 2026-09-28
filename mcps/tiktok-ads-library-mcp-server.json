@@ -1,0 +1,7 @@
+{
+  "name": "tiktok-ads-library-mcp-server",
+  "description": "Search and analyze TikTok's public ad library, including ad creatives, video scene-by-scene insights, and advertiser comparisons.",
+  "source_repo": "proxy-intell/tiktok-ads-library-mcp",
+  "source_url": "https://github.com/proxy-intell/tiktok-ads-library-mcp",
+  "install": "npx -y tiktok-ads-library-mcp"
+}

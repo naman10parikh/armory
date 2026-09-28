@@ -1,0 +1,7 @@
+{
+  "name": "mcp-malt",
+  "description": "Enables access to the documented Malt API for back-office tasks, including retrieving invoices, payments, and commission invoices, as well as SCIM user provisioning for organization accounts.",
+  "source_repo": "ialejandro/mcp-malt",
+  "source_url": "https://github.com/ialejandro/mcp-malt",
+  "install": "# git clone --depth 1 https://github.com/ialejandro/mcp-malt\n# See source for mcpServers config block"
+}

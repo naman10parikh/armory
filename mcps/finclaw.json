@@ -1,0 +1,7 @@
+{
+  "name": "finclaw",
+  "description": "MCP server that provides AI agents with financial tools including real-time quotes, backtesting, technical analysis, and multi-exchange data via a simple CLI interface.",
+  "source_repo": "IlyasFardaouix/finclaw",
+  "source_url": "https://github.com/IlyasFardaouix/finclaw",
+  "install": "# git clone --depth 1 https://github.com/IlyasFardaouix/finclaw\n# See source for mcpServers config block"
+}

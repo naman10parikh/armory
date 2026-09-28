@@ -1,0 +1,7 @@
+{
+  "name": "flato-design-mcp",
+  "description": "Connects AI agents to Flato's native editable canvas for design, enabling creation, inspection, revision, export, and visual QA of projects.",
+  "source_repo": "sologovision/flato-design-mcp",
+  "source_url": "https://github.com/sologovision/flato-design-mcp",
+  "install": "npx -y flato-design-mcp"
+}

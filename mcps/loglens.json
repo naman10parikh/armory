@@ -1,0 +1,7 @@
+{
+  "name": "loglens",
+  "description": "Enables log analysis through MCP tools for searching logs, retrieving error contexts, and summarizing incidents with self-verified root-cause hypotheses.",
+  "source_repo": "Suteerth03/LogLens",
+  "source_url": "https://github.com/Suteerth03/LogLens",
+  "install": "# git clone --depth 1 https://github.com/Suteerth03/LogLens\n# See source for mcpServers config block"
+}

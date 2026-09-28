@@ -1,0 +1,7 @@
+{
+  "name": "choice-wiki-mcp",
+  "description": "Provides Claude with a knowledge base about the Choice restaurant platform, enabling natural language queries about products, pricing, integrations, and features.",
+  "source_repo": "choice-hub/choice-wiki-mcp",
+  "source_url": "https://github.com/choice-hub/choice-wiki-mcp",
+  "install": "npx -y choice-wiki-mcp"
+}

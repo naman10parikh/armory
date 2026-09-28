@@ -1,0 +1,7 @@
+{
+  "name": "whatsapp-mcp-server-2",
+  "description": "Connects WhatsApp group chats to Claude, enabling reading, searching, exporting, replying, and AI-powered intelligence processing of conversations.",
+  "source_repo": "ericporres/whatsapp-mcp-server",
+  "source_url": "https://github.com/ericporres/whatsapp-mcp-server",
+  "install": "npx -y whatsapp-mcp-server"
+}

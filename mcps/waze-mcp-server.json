@@ -1,0 +1,7 @@
+{
+  "name": "waze-mcp-server",
+  "description": "Provides Waze routing and travel-time tools to MCP clients, enabling travel time queries, route alternatives, and address geocoding without an API key.",
+  "source_repo": "semichcsc-byte/waze-mcp",
+  "source_url": "https://github.com/semichcsc-byte/waze-mcp",
+  "install": "npx -y waze-mcp"
+}

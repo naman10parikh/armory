@@ -1,0 +1,7 @@
+{
+  "name": "governed-rag-mcp",
+  "description": "Provides governed retrieval over MCP with hybrid search, strict confidence gating, and access control, exposing three read-only tools.",
+  "source_repo": "Rlealbarili/governed-rag-mcp",
+  "source_url": "https://github.com/Rlealbarili/governed-rag-mcp",
+  "install": "npx -y governed-rag-mcp"
+}

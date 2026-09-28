@@ -1,0 +1,7 @@
+{
+  "name": "td-oms-mcp",
+  "description": "A standalone MCP server for TD/OMS change management that connects directly to TD/OMS REST APIs and enables workflow planning, execution, and monitoring for IBM i development tools.",
+  "source_repo": "ashishthomas2202/tdoms-mcp",
+  "source_url": "https://github.com/ashishthomas2202/tdoms-mcp",
+  "install": "npx -y tdoms-mcp"
+}

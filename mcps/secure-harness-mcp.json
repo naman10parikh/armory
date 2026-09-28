@@ -1,0 +1,7 @@
+{
+  "name": "secure-harness-mcp",
+  "description": "Verify-and-repair secure-coding harness that generates, hardens, audits, and scores Go code with a build and security scan feedback loop, and includes a transparent proxy to harden any client automatically.",
+  "source_repo": "calvarado2004/secure-harness-mcp",
+  "source_url": "https://github.com/calvarado2004/secure-harness-mcp",
+  "install": "npx -y secure-harness-mcp"
+}

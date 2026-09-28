@@ -1,0 +1,7 @@
+{
+  "name": "missive-mcp",
+  "description": "Connects AI assistants to your Missive team inbox with 36 tools for managing contacts, conversations, drafts, tasks, and more, while ensuring safety by preventing external sends and deletions.",
+  "source_repo": "kanjidoc/missive-mcp",
+  "source_url": "https://github.com/kanjidoc/missive-mcp",
+  "install": "npx -y missive-mcp"
+}

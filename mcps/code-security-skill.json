@@ -1,0 +1,7 @@
+{
+  "name": "code-security-skill",
+  "description": "MCP server providing a searchable security knowledge base for AI coding assistants, enabling retrieval of secure-coding instructions and feature-specific security guidance.",
+  "source_repo": "Chiehyii/code-security-skill",
+  "source_url": "https://github.com/Chiehyii/code-security-skill",
+  "install": "# git clone --depth 1 https://github.com/Chiehyii/code-security-skill\n# See source for mcpServers config block"
+}

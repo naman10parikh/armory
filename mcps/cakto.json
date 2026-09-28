@@ -1,0 +1,7 @@
+{
+  "name": "cakto",
+  "description": "Enables natural language, read-only access to your Cakto payment gateway data, including orders, revenue analytics, subscriptions, churn, customers, and products.",
+  "source_repo": "mcp-dir/cakto-mcp",
+  "source_url": "https://github.com/mcp-dir/cakto-mcp",
+  "install": "npx -y cakto-mcp"
+}

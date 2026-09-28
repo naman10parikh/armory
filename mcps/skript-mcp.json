@@ -1,0 +1,7 @@
+{
+  "name": "skript-mcp",
+  "description": "Enables interaction with a Minecraft server using Skript scripting language. Provides tools for checking and reloading Skript files, executing Minecraft commands, and retrieving server logs.",
+  "source_repo": "sbharga/skript-mcp",
+  "source_url": "https://github.com/sbharga/skript-mcp",
+  "install": "npx -y skript-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "banana-prompts-mcp",
+  "description": "Enables searching for high-quality AI art prompts from Banana Prompts by tags or keyword queries, with direct links to full prompts and images.",
+  "source_repo": "Banana-Prompts/banana-prompts-mcp",
+  "source_url": "https://github.com/Banana-Prompts/banana-prompts-mcp",
+  "install": "npx -y banana-prompts-mcp"
+}

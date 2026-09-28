@@ -1,0 +1,7 @@
+{
+  "name": "scc-mcp",
+  "description": "Exposes boyter/scc code counting and complexity analysis to LLM agents via read-only tools like counting lines, finding top files, and cost estimation.",
+  "source_repo": "NicholasSynovic/scc-mcp",
+  "source_url": "https://github.com/NicholasSynovic/scc-mcp",
+  "install": "npx -y scc-mcp"
+}

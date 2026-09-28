@@ -1,0 +1,7 @@
+{
+  "name": "israel-weather-mcp",
+  "description": "MCP server that provides Israeli weather forecasts using browser automation with Playwright.",
+  "source_repo": "ruti1820-git/weather-chat-mcp",
+  "source_url": "https://github.com/ruti1820-git/weather-chat-mcp",
+  "install": "npx -y weather-chat-mcp"
+}

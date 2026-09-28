@@ -1,0 +1,7 @@
+{
+  "name": "booth-mcp",
+  "description": "An unofficial read-only MCP server for viewing BOOTH seller management pages in MCP clients.",
+  "source_repo": "cstria0106/booth-mcp",
+  "source_url": "https://github.com/cstria0106/booth-mcp",
+  "install": "npx -y booth-mcp"
+}

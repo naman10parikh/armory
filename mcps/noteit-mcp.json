@@ -1,0 +1,7 @@
+{
+  "name": "noteit-mcp",
+  "description": "An HTTP MCP server that allows AI coding tools to manage agent profiles and take structured notes with visual diagrams, supporting 60+ expert personas for specification-driven development.",
+  "source_repo": "bahfahh/noteit-mcp",
+  "source_url": "https://github.com/bahfahh/noteit-mcp",
+  "install": "npx -y noteit-mcp"
+}

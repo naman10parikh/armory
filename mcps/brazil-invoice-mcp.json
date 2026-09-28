@@ -1,0 +1,7 @@
+{
+  "name": "brazil-invoice-mcp",
+  "description": "MCP server that lets AI agents issue Brazilian NFS-e service invoices via Focus NFe, with tools for creating, querying, and canceling invoices.",
+  "source_repo": "junter1989k-ai/brazil-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/brazil-invoice-mcp",
+  "install": "npx -y brazil-invoice-mcp"
+}

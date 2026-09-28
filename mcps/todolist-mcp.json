@@ -1,0 +1,7 @@
+{
+  "name": "todolist-mcp",
+  "description": "MCP server for managing ToDoList (.tdl) files, with 16 tools including task creation, completion, deletion, comments, backup/restore, and statistics.",
+  "source_repo": "killo3967/todolist-mcp",
+  "source_url": "https://github.com/killo3967/todolist-mcp",
+  "install": "npx -y todolist-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fusionreactor-mcp-server",
+  "description": "Enables AI assistants to query FusionReactor Cloud metrics, logs, and alerts via MCP tools.",
+  "source_repo": "bradmusolff/MYS-FusionReactorMCP",
+  "source_url": "https://github.com/bradmusolff/MYS-FusionReactorMCP",
+  "install": "# git clone --depth 1 https://github.com/bradmusolff/MYS-FusionReactorMCP\n# See source for mcpServers config block"
+}

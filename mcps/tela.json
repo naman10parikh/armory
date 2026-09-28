@@ -1,0 +1,7 @@
+{
+  "name": "tela",
+  "description": "Self-hostable, markdown-native team wiki with a built-in MCP server: agents search, read, and write your wiki pages (ranked Postgres full-text + semantic search, backlink traversal). Plus Atlas, which auto-generates a cited, coverage-checked wiki from your git repos and Jira.",
+  "source_repo": "zcag/tela",
+  "source_url": "https://github.com/zcag/tela",
+  "install": "# git clone --depth 1 https://github.com/zcag/tela\n# See source for mcpServers config block"
+}

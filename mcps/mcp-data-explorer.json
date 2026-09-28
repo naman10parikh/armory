@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-explorer",
+  "description": "Allows LLMs to explore CSV datasets through statistics without loading raw data, offering tools for dataset inspection, column description, and filtered queries while enforcing safety by restricting file access to a specified directory.",
+  "source_repo": "Paul0Anselmi/mcp-data-explorer",
+  "source_url": "https://github.com/Paul0Anselmi/mcp-data-explorer",
+  "install": "# git clone --depth 1 https://github.com/Paul0Anselmi/mcp-data-explorer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ceco-proof-gate",
+  "description": "MCP server that evaluates agent actions against a Policy State Machine, emits a tamper-evident audit trail, and dispatches approved transitions to internal or federated handlers.",
+  "source_repo": "RileyBetts/ceco",
+  "source_url": "https://github.com/RileyBetts/ceco",
+  "install": "# git clone --depth 1 https://github.com/RileyBetts/ceco\n# See source for mcpServers config block"
+}

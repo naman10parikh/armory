@@ -1,0 +1,7 @@
+{
+  "name": "ressl-mcp-server-advanced-file-search",
+  "description": "A sophisticated MCP server providing powerful file search capabilities including single file search, recursive directory search, and file information retrieval.",
+  "source_repo": "DataCleaninghash/ressl-mcp-file-search",
+  "source_url": "https://github.com/DataCleaninghash/ressl-mcp-file-search",
+  "install": "# git clone --depth 1 https://github.com/DataCleaninghash/ressl-mcp-file-search\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-eval",
+  "description": "Enables deterministic evaluation of coding agents by exposing controlled repository tools and returning structured verification reports with pattern checks and repeat-run comparisons.",
+  "source_repo": "Mohammedibrahim111/mcp-agent-evaluation-harness",
+  "source_url": "https://github.com/Mohammedibrahim111/mcp-agent-evaluation-harness",
+  "install": "# git clone --depth 1 https://github.com/Mohammedibrahim111/mcp-agent-evaluation-harness\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crypto-earn-mcp",
+  "description": "Provides market data and user position information from earn providers like AAVE, enabling queries on APRs and deposits across multiple blockchain networks.",
+  "source_repo": "EricxStone/crypto-earn-mcp",
+  "source_url": "https://github.com/EricxStone/crypto-earn-mcp",
+  "install": "npx -y crypto-earn-mcp"
+}

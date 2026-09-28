@@ -1,0 +1,7 @@
+{
+  "name": "intentfence",
+  "description": "IntentFence is an open spend and action policy gate for autonomous AI that evaluates tool call constraints like scope, cost, data-retention, and approval, returning decisions such as safe_to_proceed, needs_review, or denied, and provides an MCP server endpoint at /mcp.",
+  "source_repo": "razel369/intentfence",
+  "source_url": "https://github.com/razel369/intentfence",
+  "install": "# git clone --depth 1 https://github.com/razel369/intentfence\n# See source for mcpServers config block"
+}

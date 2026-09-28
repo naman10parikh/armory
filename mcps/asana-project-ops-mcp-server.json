@@ -1,0 +1,7 @@
+{
+  "name": "asana-project-ops-mcp-server",
+  "description": "High-performance MCP server that transforms how AI assistants interact with Asana, enabling complex task hierarchies and batch operations for efficient project management.",
+  "source_repo": "n0zer0d4y/asana-project-ops",
+  "source_url": "https://github.com/n0zer0d4y/asana-project-ops",
+  "install": "# git clone --depth 1 https://github.com/n0zer0d4y/asana-project-ops\n# See source for mcpServers config block"
+}

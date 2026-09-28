@@ -1,0 +1,7 @@
+{
+  "name": "mbank-parser-mcp",
+  "description": "Enables parsing and filtering of mBank CSV operation exports locally. Supports data aggregation and querying through natural language, running entirely offline with no network calls.",
+  "source_repo": "bartosz-kuc/mbank-parser-mcp",
+  "source_url": "https://github.com/bartosz-kuc/mbank-parser-mcp",
+  "install": "npx -y mbank-parser-mcp"
+}

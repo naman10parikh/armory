@@ -1,0 +1,7 @@
+{
+  "name": "sf-demo-builder",
+  "description": "Provisions isolated SAP SuccessFactors demo orgs and generates two-surface demo scripts for Joule Chat and Joule Desktop/Claude Code.",
+  "source_repo": "sidbhat/sf-demo-builder",
+  "source_url": "https://github.com/sidbhat/sf-demo-builder",
+  "install": "# git clone --depth 1 https://github.com/sidbhat/sf-demo-builder\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gatecheck",
+  "description": "A remote MCP server that verifies paid x402 and MCP tools for discoverability, inspectability, and claim-bound correctness, enabling pre-submission readiness checks for agent-tool sellers.",
+  "source_repo": "LarryLemonBot/gatecheck",
+  "source_url": "https://github.com/LarryLemonBot/gatecheck",
+  "install": "# git clone --depth 1 https://github.com/LarryLemonBot/gatecheck\n# See source for mcpServers config block"
+}

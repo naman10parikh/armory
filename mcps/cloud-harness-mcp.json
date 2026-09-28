@@ -1,0 +1,7 @@
+{
+  "name": "cloud-harness-mcp",
+  "description": "Enables AI clients to securely operate isolated coding workspaces with file, command, Git, and deployment tools via authenticated remote MCP.",
+  "source_repo": "bestagentkits/cloud-harness-mcp",
+  "source_url": "https://github.com/bestagentkits/cloud-harness-mcp",
+  "install": "npx -y cloud-harness-mcp"
+}

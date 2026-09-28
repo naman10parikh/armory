@@ -1,0 +1,7 @@
+{
+  "name": "homekit-cli",
+  "description": "An MCP server that provides tools for inspecting and controlling Apple HomeKit accessories, scenes, automations, and more via the HomeClaw app, enabling natural language interaction with your smart home.",
+  "source_repo": "l3wi/homekit-cli",
+  "source_url": "https://github.com/l3wi/homekit-cli",
+  "install": "# git clone --depth 1 https://github.com/l3wi/homekit-cli\n# See source for mcpServers config block"
+}

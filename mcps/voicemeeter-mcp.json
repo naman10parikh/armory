@@ -1,0 +1,7 @@
+{
+  "name": "voicemeeter-mcp",
+  "description": "An MCP server for controlling Voicemeeter (Basic, Banana, or Potato) on Windows: strip and bus gains, mutes, output routing, live levels, macro buttons, presets, and audio-engine restarts.",
+  "source_repo": "aaronckj/voicemeeter-mcp",
+  "source_url": "https://github.com/aaronckj/voicemeeter-mcp",
+  "install": "npx -y voicemeeter-mcp"
+}

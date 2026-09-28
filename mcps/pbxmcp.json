@@ -1,0 +1,7 @@
+{
+  "name": "pbxmcp",
+  "description": "Enables LLM agents to communicate with each other by placing and answering calls via a telephone exchange, with routing, hop budget, and call recording.",
+  "source_repo": "Ethycs/PBXMCP",
+  "source_url": "https://github.com/Ethycs/PBXMCP",
+  "install": "# git clone --depth 1 https://github.com/Ethycs/PBXMCP\n# See source for mcpServers config block"
+}

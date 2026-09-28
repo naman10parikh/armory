@@ -1,0 +1,7 @@
+{
+  "name": "feishu-doc-mcp",
+  "description": "飞书云文档 MCP Server，为 Claude Code 提供飞书文档的创建、读取、编辑能力，支持 OAuth 认证和 token 自动刷新。",
+  "source_repo": "ShacklesLay/feishu-doc-mcp",
+  "source_url": "https://github.com/ShacklesLay/feishu-doc-mcp",
+  "install": "npx -y feishu-doc-mcp"
+}

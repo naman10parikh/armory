@@ -1,0 +1,7 @@
+{
+  "name": "rmbr",
+  "description": "Embedded memory and retrieval engine for AI agents, providing local-first memory with MCP support for multi-agent access control.",
+  "source_repo": "SRock44/rmbr",
+  "source_url": "https://github.com/SRock44/rmbr",
+  "install": "# git clone --depth 1 https://github.com/SRock44/rmbr\n# See source for mcpServers config block"
+}

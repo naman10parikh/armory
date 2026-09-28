@@ -1,0 +1,7 @@
+{
+  "name": "groq-mcp-document-assistant",
+  "description": "A persistent document management and research assistant powered by Groq, enabling AI-driven document analysis, professional formatting, and long-term memory across sessions.",
+  "source_repo": "Adarsh152004/MCP-Pdf",
+  "source_url": "https://github.com/Adarsh152004/MCP-Pdf",
+  "install": "# git clone --depth 1 https://github.com/Adarsh152004/MCP-Pdf\n# See source for mcpServers config block"
+}

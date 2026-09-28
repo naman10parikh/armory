@@ -1,0 +1,7 @@
+{
+  "name": "materials-project-mcp-from-scratch",
+  "description": "An educational MCP server that wraps the Materials Project API, exposing tools to search chemical systems, get material summaries, find semiconductors by band gap, and retrieve crystal structure facts.",
+  "source_repo": "ibtisamkhan96/materials-project-mcp-from-scratch",
+  "source_url": "https://github.com/ibtisamkhan96/materials-project-mcp-from-scratch",
+  "install": "# git clone --depth 1 https://github.com/ibtisamkhan96/materials-project-mcp-from-scratch\n# See source for mcpServers config block"
+}

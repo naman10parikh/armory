@@ -1,0 +1,7 @@
+{
+  "name": "mcp-host-canary",
+  "description": "Creates disposable remote MCP servers and records only the protocol boundaries they observe, enabling safe receipts of how far managed hosts like Claude, ChatGPT, or Cursor actually progressed.",
+  "source_repo": "sjh9714/mcp-host-canary",
+  "source_url": "https://github.com/sjh9714/mcp-host-canary",
+  "install": "# git clone --depth 1 https://github.com/sjh9714/mcp-host-canary\n# See source for mcpServers config block"
+}

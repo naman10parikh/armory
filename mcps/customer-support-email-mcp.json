@@ -1,0 +1,7 @@
+{
+  "name": "customer-support-email-mcp",
+  "description": "Enables reading, searching, drafting, and sending customer support emails via Gmail directly through Claude, eliminating manual copy-pasting.",
+  "source_repo": "anslemdavid/CUSTOMER_SUPPORT_EMAIL_MCP",
+  "source_url": "https://github.com/anslemdavid/CUSTOMER_SUPPORT_EMAIL_MCP",
+  "install": "npx -y CUSTOMER_SUPPORT_EMAIL_MCP"
+}

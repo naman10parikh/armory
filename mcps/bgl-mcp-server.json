@@ -1,0 +1,7 @@
+{
+  "name": "bgl-mcp-server",
+  "description": "Enables users to interact with Backlog issues directly from VSCode/GitHub Copilot or Claude Desktop, providing tools to retrieve issues, list comments, and add comments.",
+  "source_repo": "yuka-sakamaki777/bgl-mcp-server",
+  "source_url": "https://github.com/yuka-sakamaki777/bgl-mcp-server",
+  "install": "npx -y bgl-mcp-server"
+}

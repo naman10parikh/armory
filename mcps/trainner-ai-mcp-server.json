@@ -1,0 +1,7 @@
+{
+  "name": "trainner-ai-mcp-server",
+  "description": "Enables LLMs to access and analyze biometric and training data via MCP, supporting queries on sleep, performance, nutrition, and training load to generate adaptive training insights.",
+  "source_repo": "abrahamhm00/Trainner_AI",
+  "source_url": "https://github.com/abrahamhm00/Trainner_AI",
+  "install": "# git clone --depth 1 https://github.com/abrahamhm00/Trainner_AI\n# See source for mcpServers config block"
+}

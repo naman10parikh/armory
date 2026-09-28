@@ -1,0 +1,7 @@
+{
+  "name": "microcap-mcp",
+  "description": "MCP server for Micro-Cap 12 SPICE simulator enabling LLM agents to run analog circuit simulations, including analyses, sweeps, and retrieval of curve data and plots.",
+  "source_repo": "monoxide-xen/microcap-mcp",
+  "source_url": "https://github.com/monoxide-xen/microcap-mcp",
+  "install": "npx -y microcap-mcp"
+}

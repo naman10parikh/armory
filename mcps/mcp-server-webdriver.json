@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-webdriver",
+  "description": "Enables AI agents to control a real web browser (Firefox) via Selenium WebDriver, supporting page navigation, interaction, and inspection through natural language.",
+  "source_repo": "Vitexus/mcp-server-webdriver",
+  "source_url": "https://github.com/Vitexus/mcp-server-webdriver",
+  "install": "# git clone --depth 1 https://github.com/Vitexus/mcp-server-webdriver\n# See source for mcpServers config block"
+}

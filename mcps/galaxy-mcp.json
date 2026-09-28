@@ -1,0 +1,7 @@
+{
+  "name": "galaxy-mcp",
+  "description": "Live MCP server for the Galaxy vault. Lets Claude (mobile/web) and other chat interfaces query your Obsidian vault in real time via GitHub.",
+  "source_repo": "parorav247-art/galaxy-mcp",
+  "source_url": "https://github.com/parorav247-art/galaxy-mcp",
+  "install": "npx -y galaxy-mcp"
+}

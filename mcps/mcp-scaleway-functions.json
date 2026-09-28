@@ -1,0 +1,7 @@
+{
+  "name": "mcp-scaleway-functions",
+  "description": "MCP server to manage and deploy Scaleway Serverless Functions, enabling creation, listing, updating, deleting, downloading, and logging of functions through natural language.",
+  "source_repo": "cyclimse/mcp-scaleway-functions",
+  "source_url": "https://github.com/cyclimse/mcp-scaleway-functions",
+  "install": "# git clone --depth 1 https://github.com/cyclimse/mcp-scaleway-functions\n# See source for mcpServers config block"
+}

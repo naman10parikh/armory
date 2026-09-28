@@ -1,0 +1,7 @@
+{
+  "name": "mcp-csv-forwarder",
+  "description": "Enables sending CSV data to a configured API endpoint, supporting grouped entries with optional date markers and configurable column count.",
+  "source_repo": "cithukyaw/mcp-csv-forwarder",
+  "source_url": "https://github.com/cithukyaw/mcp-csv-forwarder",
+  "install": "# git clone --depth 1 https://github.com/cithukyaw/mcp-csv-forwarder\n# See source for mcpServers config block"
+}

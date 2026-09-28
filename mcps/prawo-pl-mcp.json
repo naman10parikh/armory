@@ -1,0 +1,7 @@
+{
+  "name": "prawo-pl-mcp",
+  "description": "Unified MCP server for Polish legal data, enabling search and retrieval across case law, legislation, company register, tax rulings, public procurement, and EU sources through four aggregated tools.",
+  "source_repo": "matematicsolutions/prawo-pl-mcp",
+  "source_url": "https://github.com/matematicsolutions/prawo-pl-mcp",
+  "install": "npx -y prawo-pl-mcp"
+}

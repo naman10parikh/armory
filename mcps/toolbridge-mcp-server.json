@@ -1,0 +1,7 @@
+{
+  "name": "toolbridge-mcp-server",
+  "description": "MCP server that bridges AI agents with external tools, APIs, databases, and services, enabling standardized tool execution and resource access.",
+  "source_repo": "LeelaissakAttota/toolbridge-mcp-server",
+  "source_url": "https://github.com/LeelaissakAttota/toolbridge-mcp-server",
+  "install": "npx -y toolbridge-mcp-server"
+}

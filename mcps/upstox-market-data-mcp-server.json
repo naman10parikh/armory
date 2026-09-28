@@ -1,0 +1,7 @@
+{
+  "name": "upstox-market-data-mcp-server",
+  "description": "Gives ChatGPT or Claude live access to Upstox option chain, OI data, market quotes, and option contracts via read-only Analytics Token.",
+  "source_repo": "najeebccj/upstox-mcp-server",
+  "source_url": "https://github.com/najeebccj/upstox-mcp-server",
+  "install": "npx -y upstox-mcp-server"
+}

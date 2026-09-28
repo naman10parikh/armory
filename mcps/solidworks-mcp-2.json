@@ -1,0 +1,7 @@
+{
+  "name": "solidworks-mcp-2",
+  "description": "Drives SolidWorks 2022 on Windows via COM to perform CAD operations like sketching, features, dimensioning, and mass property inspection from AI assistants.",
+  "source_repo": "blussyya/solidworks-mcp",
+  "source_url": "https://github.com/blussyya/solidworks-mcp",
+  "install": "npx -y solidworks-mcp"
+}

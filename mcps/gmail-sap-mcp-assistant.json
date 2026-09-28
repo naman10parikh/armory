@@ -1,0 +1,7 @@
+{
+  "name": "gmail-sap-mcp-assistant",
+  "description": "MCP server that exposes Gmail and SAP tools, enabling natural-language email management and SAP data browsing through a Mistral-powered AI assistant.",
+  "source_repo": "suryanandan1/Gmail-SAP-Connection-With-MCP-Agent",
+  "source_url": "https://github.com/suryanandan1/Gmail-SAP-Connection-With-MCP-Agent",
+  "install": "# git clone --depth 1 https://github.com/suryanandan1/Gmail-SAP-Connection-With-MCP-Agent\n# See source for mcpServers config block"
+}

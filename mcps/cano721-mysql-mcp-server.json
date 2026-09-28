@@ -1,0 +1,7 @@
+{
+  "name": "cano721-mysql-mcp-server",
+  "description": "Enables read-only MySQL database access, allowing listing databases, tables, describing schemas, and executing SELECT/SHOW/DESCRIBE/EXPLAIN queries.",
+  "source_repo": "cano721/mysql-mcp-server",
+  "source_url": "https://github.com/cano721/mysql-mcp-server",
+  "install": "npx -y mysql-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "joplin-server-vector-memory",
+  "description": "Enables AI assistants to securely search and retrieve information from a user's encrypted Joplin notebook via vector memory and MCP.",
+  "source_repo": "adamoutler/joplin-server-vector-memory",
+  "source_url": "https://github.com/adamoutler/joplin-server-vector-memory",
+  "install": "# git clone --depth 1 https://github.com/adamoutler/joplin-server-vector-memory\n# See source for mcpServers config block"
+}

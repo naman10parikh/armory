@@ -1,0 +1,7 @@
+{
+  "name": "gsearch",
+  "description": "Enables AI tools to perform real-time Google Search with grounded answers and inline citations, free with a Google account.",
+  "source_repo": "daanielcruz/gsearch-mcp",
+  "source_url": "https://github.com/daanielcruz/gsearch-mcp",
+  "install": "npx -y gsearch-mcp"
+}

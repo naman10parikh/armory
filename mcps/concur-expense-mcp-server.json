@@ -1,0 +1,7 @@
+{
+  "name": "concur-expense-mcp-server",
+  "description": "An MCP server for managing SAP Concur expense reports, allowing AI agents to create and update expenses, attach receipts and attendees, and read report data, while leaving submission and approval to humans.",
+  "source_repo": "bharath2020/concur-mcp",
+  "source_url": "https://github.com/bharath2020/concur-mcp",
+  "install": "npx -y concur-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nextcloud-mcp-server",
+  "description": "Enables AI agents to perform file operations and sharing management on NextCloud servers via the Model Context Protocol.",
+  "source_repo": "abdullahMASHUK/nextcloud-mcp-server",
+  "source_url": "https://github.com/abdullahMASHUK/nextcloud-mcp-server",
+  "install": "npx -y nextcloud-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "polymarket-autonomous-trader",
+  "description": "Enables autonomous trading on Polymarket prediction markets using natural language thesis descriptions, with risk management and MCP integration.",
+  "source_repo": "vulcan-sport/Polymarket",
+  "source_url": "https://github.com/vulcan-sport/Polymarket",
+  "install": "# git clone --depth 1 https://github.com/vulcan-sport/Polymarket\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "canvas-mcp-connector",
+  "description": "A read-only MCP server for Canvas LMS that exposes a user's courses, upcoming work, and assignments as callable tools.",
+  "source_repo": "JaeYu-Dev/canvas-mcp-connector",
+  "source_url": "https://github.com/JaeYu-Dev/canvas-mcp-connector",
+  "install": "# git clone --depth 1 https://github.com/JaeYu-Dev/canvas-mcp-connector\n# See source for mcpServers config block"
+}

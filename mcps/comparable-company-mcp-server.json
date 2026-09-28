@@ -1,0 +1,7 @@
+{
+  "name": "comparable-company-mcp-server",
+  "description": "Automatically selects comparable peer companies for unlisted valuation targets using the DART OpenAPI, and verifies business similarity through natural language interface.",
+  "source_repo": "sonjong980304-tech/comparable-company-mcp",
+  "source_url": "https://github.com/sonjong980304-tech/comparable-company-mcp",
+  "install": "npx -y comparable-company-mcp"
+}

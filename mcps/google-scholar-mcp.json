@@ -1,0 +1,7 @@
+{
+  "name": "google-scholar-mcp",
+  "description": "MCP server for searching academic papers via Google Scholar, retrieving metadata and abstracts, with support for Chinese queries and auto-translation.",
+  "source_repo": "Byron993/google_scholar_mcp",
+  "source_url": "https://github.com/Byron993/google_scholar_mcp",
+  "install": "npx -y google_scholar_mcp"
+}

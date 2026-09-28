@@ -1,0 +1,7 @@
+{
+  "name": "portal-da-transpar-ncia-conv-nios-e-acordos-mcp-server",
+  "description": "Read-only MCP server for querying official Brazilian government data on agreements (convênios) from Portal da Transparência, with pay-per-use pricing and no platform credentials required.",
+  "source_repo": "mcp-dir/portal_transparencia_convenios-mcp",
+  "source_url": "https://github.com/mcp-dir/portal_transparencia_convenios-mcp",
+  "install": "npx -y portal_transparencia_convenios-mcp"
+}

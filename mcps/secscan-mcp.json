@@ -1,0 +1,7 @@
+{
+  "name": "secscan-mcp",
+  "description": "MCP server for Cursor that scans codebases for security issues including hardcoded secrets, SAST, vulnerable dependencies, and IaC misconfigurations.",
+  "source_repo": "openjkai/secscan_mcp",
+  "source_url": "https://github.com/openjkai/secscan_mcp",
+  "install": "npx -y secscan_mcp"
+}

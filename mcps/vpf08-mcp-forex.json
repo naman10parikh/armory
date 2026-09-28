@@ -1,0 +1,7 @@
+{
+  "name": "vpf08-mcp-forex",
+  "description": "MCP server providing tools to list, search, and manage Forex currency pairs, along with a calculator and exchange rate lookup.",
+  "source_repo": "alersandroy-art/VPf08-MCP-Forex",
+  "source_url": "https://github.com/alersandroy-art/VPf08-MCP-Forex",
+  "install": "# git clone --depth 1 https://github.com/alersandroy-art/VPf08-MCP-Forex\n# See source for mcpServers config block"
+}

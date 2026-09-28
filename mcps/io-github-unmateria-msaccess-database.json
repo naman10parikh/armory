@@ -1,0 +1,7 @@
+{
+  "name": "io-github-unmateria-msaccess-database",
+  "description": "Gives AI assistants full control over Microsoft Access databases, enabling creation and management of forms, VBA, tables, queries, and more through natural language.",
+  "source_repo": "unmateria/MCP-Access",
+  "source_url": "https://github.com/unmateria/MCP-Access",
+  "install": "# git clone --depth 1 https://github.com/unmateria/MCP-Access\n# See source for mcpServers config block"
+}

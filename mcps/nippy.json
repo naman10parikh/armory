@@ -1,0 +1,7 @@
+{
+  "name": "nippy",
+  "description": "Publish websites from Claude, the terminal, or CI — drop a folder, get a link that doesn't expire. Wraps the nippy.host publish pipeline: create sites, update in place, read files, passwords, SEO settings, and visitor analytics.",
+  "source_repo": "nippyhost/cli",
+  "source_url": "https://github.com/nippyhost/cli",
+  "install": "# git clone --depth 1 https://github.com/nippyhost/cli\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ecount-mcp",
+  "description": "MCP server that enables Claude to query inventory and contact information from the 이카운트 ERP system for specified companies.",
+  "source_repo": "popo7542015-source/ecount-mcp",
+  "source_url": "https://github.com/popo7542015-source/ecount-mcp",
+  "install": "npx -y ecount-mcp"
+}

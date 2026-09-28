@@ -1,0 +1,7 @@
+{
+  "name": "ticksy-mcp",
+  "description": "MCP server for the Ticksy support ticket API, enabling AI agents to read and write support tickets.",
+  "source_repo": "artkrsk/ticksy-mcp",
+  "source_url": "https://github.com/artkrsk/ticksy-mcp",
+  "install": "npx -y ticksy-mcp"
+}

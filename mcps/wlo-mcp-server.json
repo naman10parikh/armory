@@ -1,0 +1,7 @@
+{
+  "name": "wlo-mcp-server",
+  "description": "MCP server for WirLernenOnline.de that enables searching and retrieving educational materials, collections, topic pages, and metadata through natural language, compatible with OpenAI and Claude.",
+  "source_repo": "janschachtschabel/wlo-mcp-server",
+  "source_url": "https://github.com/janschachtschabel/wlo-mcp-server",
+  "install": "npx -y wlo-mcp-server"
+}

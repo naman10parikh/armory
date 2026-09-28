@@ -1,0 +1,7 @@
+{
+  "name": "orca-drive-sa-mcp",
+  "description": "An MCP server that exposes a Google Drive folder over Streamable HTTP using a Google service account, letting users list, search, fetch metadata for, and read text files through natural language.",
+  "source_repo": "saydurrahman-ORCA/orca-drive-sa-mcp",
+  "source_url": "https://github.com/saydurrahman-ORCA/orca-drive-sa-mcp",
+  "install": "npx -y orca-drive-sa-mcp"
+}

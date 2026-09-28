@@ -1,0 +1,7 @@
+{
+  "name": "kite-mcp-server",
+  "description": "Enables natural language trading on Zerodha via Claude, providing tools for market data, orders, positions, and GTTs through the Kite Connect API.",
+  "source_repo": "jahangeershaik997-dev/kite-mcp",
+  "source_url": "https://github.com/jahangeershaik997-dev/kite-mcp",
+  "install": "npx -y kite-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mogintel-mcp-daraz-seller",
+  "description": "Community MCP server that wraps Daraz Seller APIs, enabling sellers to manage store operations through natural language. Currently in scaffold stage with tools under development.",
+  "source_repo": "MogIntel/mcp-daraz-seller",
+  "source_url": "https://github.com/MogIntel/mcp-daraz-seller",
+  "install": "# git clone --depth 1 https://github.com/MogIntel/mcp-daraz-seller\n# See source for mcpServers config block"
+}

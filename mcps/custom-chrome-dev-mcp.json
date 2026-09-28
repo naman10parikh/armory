@@ -1,0 +1,7 @@
+{
+  "name": "custom-chrome-dev-mcp",
+  "description": "Enables MCP clients to drive your already-open Chrome browser like a human, using 45 tools for navigation, perception, capture, and trusted input that pages receive as genuinely user-generated.",
+  "source_repo": "HabaAndrei/custom-chrome-dev-mcp",
+  "source_url": "https://github.com/HabaAndrei/custom-chrome-dev-mcp",
+  "install": "npx -y custom-chrome-dev-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zork-mcp",
+  "description": "A text-adventure interpreter as an MCP server. It enables the AI to act as the player, exploring, solving puzzles, fighting trolls, and collecting treasure through tool calls.",
+  "source_repo": "mrfentmen/zork-mcp",
+  "source_url": "https://github.com/mrfentmen/zork-mcp",
+  "install": "npx -y zork-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "slack-desktop-mcp",
+  "description": "Runs slack-mcp-server against your Slack desktop app session, eliminating the need for API tokens.",
+  "source_repo": "p120ph37/slack-desktop-mcp",
+  "source_url": "https://github.com/p120ph37/slack-desktop-mcp",
+  "install": "npx -y slack-desktop-mcp"
+}

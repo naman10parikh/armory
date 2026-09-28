@@ -1,0 +1,7 @@
+{
+  "name": "pier-mcp",
+  "description": "MCP server for agent-controlled deployment on Pier, exposing 14 tools mapped to Pier REST API endpoints for managing deployments via stdio or HTTP.",
+  "source_repo": "kore4lyf/pier-mcp",
+  "source_url": "https://github.com/kore4lyf/pier-mcp",
+  "install": "npx -y pier-mcp"
+}

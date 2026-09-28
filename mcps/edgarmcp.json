@@ -1,0 +1,7 @@
+{
+  "name": "edgarmcp",
+  "description": "MCP server for SEC EDGAR that provides real-time access to filings, financial statements, and full-text search across all EDGAR documents.",
+  "source_repo": "lucasastorian/edgarmcp",
+  "source_url": "https://github.com/lucasastorian/edgarmcp",
+  "install": "# git clone --depth 1 https://github.com/lucasastorian/edgarmcp\n# See source for mcpServers config block"
+}

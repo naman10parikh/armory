@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fetch-worker",
+  "description": "Enables AI bots and agents to call self-hosted APIs behind Cloudflare Access through a single HTTP fetch tool, using human-approved OAuth tokens instead of long-lived credentials.",
+  "source_repo": "jkpe/mcp-fetch-worker",
+  "source_url": "https://github.com/jkpe/mcp-fetch-worker",
+  "install": "# git clone --depth 1 https://github.com/jkpe/mcp-fetch-worker\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "my-mcp-server-5",
+  "description": "A TypeScript MCP server boilerplate that provides tools like calculator, weather, geocoding, and image generation via HuggingFace, supporting both Streamable HTTP (for Vercel deployment) and stdio transports.",
+  "source_repo": "JaeahYou/my-mcp-server",
+  "source_url": "https://github.com/JaeahYou/my-mcp-server",
+  "install": "npx -y my-mcp-server"
+}

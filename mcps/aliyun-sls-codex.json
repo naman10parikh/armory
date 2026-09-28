@@ -1,0 +1,7 @@
+{
+  "name": "aliyun-sls-codex",
+  "description": "MCP server for read-only investigation of Aliyun SLS logs fixed to cn-beijing/taient-rpa/node-rpa. Exposes search_logs, get_context_logs, and check_connection tools with a guided investigation skill.",
+  "source_repo": "huanglixinccc/aliyun-log-search",
+  "source_url": "https://github.com/huanglixinccc/aliyun-log-search",
+  "install": "# git clone --depth 1 https://github.com/huanglixinccc/aliyun-log-search\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "playbook",
+  "description": "Enables agents to search, create, edit, and step through JSON-based procedures with intent-driven search and step-by-step execution.",
+  "source_repo": "benteigland11/Playbook",
+  "source_url": "https://github.com/benteigland11/Playbook",
+  "install": "# git clone --depth 1 https://github.com/benteigland11/Playbook\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dradis-mcp",
+  "description": "Integrates with Dradis Pro to manage projects, vulnerabilities, content blocks, and document properties through MCP-enabled tools.",
+  "source_repo": "LiterallyBlah/Dradis-MCP",
+  "source_url": "https://github.com/LiterallyBlah/Dradis-MCP",
+  "install": "npx -y Dradis-MCP"
+}

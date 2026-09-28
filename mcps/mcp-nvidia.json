@@ -1,0 +1,7 @@
+{
+  "name": "mcp-nvidia",
+  "description": "MCP server to search across NVIDIA blogs and releases to empower LLMs to better answer NVIDIA-specific queries.",
+  "source_repo": "bharatr21/mcp-nvidia",
+  "source_url": "https://github.com/bharatr21/mcp-nvidia",
+  "install": "# git clone --depth 1 https://github.com/bharatr21/mcp-nvidia\n# See source for mcpServers config block"
+}

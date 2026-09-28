@@ -1,0 +1,7 @@
+{
+  "name": "anime-image-mcp",
+  "description": "MCP server for generating high-quality anime/CG images via ARK and Agnes engines, supporting text-to-image, image-to-image, multi-image, and sequence generation with 16 style presets.",
+  "source_repo": "BaiWoww/Image-generation-MCP",
+  "source_url": "https://github.com/BaiWoww/Image-generation-MCP",
+  "install": "npx -y Image-generation-MCP"
+}

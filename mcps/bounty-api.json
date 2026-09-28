@@ -1,0 +1,7 @@
+{
+  "name": "bounty-api",
+  "description": "Verified Singapore property, tax, affordability, salary, and location data for AI agents. 17 MCP tools, x402 micropayments, source provenance on every response. Singapore live now, more markets coming. Categories: Finance, Real Estate, Data, Singapore, x402, Payments, Government Data",
+  "source_repo": "vncent786/bounty-api",
+  "source_url": "https://github.com/vncent786/bounty-api",
+  "install": "# git clone --depth 1 https://github.com/vncent786/bounty-api\n# See source for mcpServers config block"
+}

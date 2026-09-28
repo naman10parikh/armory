@@ -1,0 +1,7 @@
+{
+  "name": "terror",
+  "description": "Terror is an agentic Terraform replacement that lets you provision and manage cloud infrastructure through natural language, using a stateless, plan-then-apply architecture with built-in rollback.",
+  "source_repo": "lazorgurl/terror",
+  "source_url": "https://github.com/lazorgurl/terror",
+  "install": "# git clone --depth 1 https://github.com/lazorgurl/terror\n# See source for mcpServers config block"
+}

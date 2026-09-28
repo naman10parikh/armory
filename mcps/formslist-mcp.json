@@ -1,0 +1,7 @@
+{
+  "name": "formslist-mcp",
+  "description": "MCP server for FormsList, a form-backend SaaS. Enables creating form endpoints, reading submissions, configuring auto-responses, and generating embed snippets via natural language.",
+  "source_repo": "vaibhavjain2608/formslist-mcp",
+  "source_url": "https://github.com/vaibhavjain2608/formslist-mcp",
+  "install": "npx -y formslist-mcp"
+}

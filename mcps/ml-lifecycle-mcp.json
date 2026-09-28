@@ -1,0 +1,7 @@
+{
+  "name": "ml-lifecycle-mcp",
+  "description": "Exposes a time series forecasting model as an MCP tool with built-in audit logging for every call, enabling trustworthy autonomous forecasting.",
+  "source_repo": "Khuong-Quan-Nguyen/ml-lifecycle-mcp",
+  "source_url": "https://github.com/Khuong-Quan-Nguyen/ml-lifecycle-mcp",
+  "install": "npx -y ml-lifecycle-mcp"
+}

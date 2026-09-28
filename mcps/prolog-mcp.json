@@ -1,0 +1,7 @@
+{
+  "name": "prolog-mcp",
+  "description": "MCP server wrapping SWI-Prolog for symbolic reasoning, enabling coding agents to assert facts and query rules deterministically.",
+  "source_repo": "umuro/prolog-mcp",
+  "source_url": "https://github.com/umuro/prolog-mcp",
+  "install": "npx -y prolog-mcp"
+}

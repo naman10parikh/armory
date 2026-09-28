@@ -1,0 +1,7 @@
+{
+  "name": "mailprotector-mcp",
+  "description": "MCP server for Mailprotector — email security management for MSPs, enabling management of customers, domains, users, quarantine, allow/block rules, logs, configuration, and the full long-tail API via a router.",
+  "source_repo": "wyre-technology/mailprotector-mcp",
+  "source_url": "https://github.com/wyre-technology/mailprotector-mcp",
+  "install": "npx -y mailprotector-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-template",
+  "description": "Template repository for building a WebAssembly component MCP server using wasmCloud.",
+  "source_repo": "cosmonic-labs/petstore-mcp-server",
+  "source_url": "https://github.com/cosmonic-labs/petstore-mcp-server",
+  "install": "npx -y petstore-mcp-server"
+}

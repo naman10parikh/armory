@@ -1,0 +1,7 @@
+{
+  "name": "zooza-mcp-server",
+  "description": "An open-source Model Context Protocol (MCP) server that connects Claude, ChatGPT, and other AI assistants directly to your Zooza account. Natural language scheduling, attendance tracking, and class management — no dashboard required.",
+  "source_repo": "zooza-dev/zooza-mcp-server",
+  "source_url": "https://github.com/zooza-dev/zooza-mcp-server",
+  "install": "npx -y zooza-mcp-server"
+}

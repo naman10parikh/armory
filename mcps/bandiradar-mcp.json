@@ -1,0 +1,7 @@
+{
+  "name": "bandiradar-mcp",
+  "description": "Enables monitoring Italian public funding opportunities, normalizing them into a canonical model, and ranking them against a company profile with a two-stage matcher.",
+  "source_repo": "mayai-it/bandiradar",
+  "source_url": "https://github.com/mayai-it/bandiradar",
+  "install": "# git clone --depth 1 https://github.com/mayai-it/bandiradar\n# See source for mcpServers config block"
+}

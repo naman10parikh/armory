@@ -1,0 +1,7 @@
+{
+  "name": "whentofly",
+  "description": "Flight search for AI agents: flexible-date cheapest round-trips with a good-price verdict from historical data. Hosted remote MCP, free, no key.",
+  "source_repo": "dimabalony/whentofly-mcp",
+  "source_url": "https://github.com/dimabalony/whentofly-mcp",
+  "install": "npx -y whentofly-mcp"
+}

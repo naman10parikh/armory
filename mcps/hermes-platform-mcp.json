@@ -1,0 +1,7 @@
+{
+  "name": "hermes-platform-mcp",
+  "description": "Bridges Hermes Agent to the Hermes Intelligence Platform API, enabling tools to read/write learning loop data (context, feedback, signals, memory, etc.) via stdio.",
+  "source_repo": "Sri-Krishna-V-6944/hermes-platform-mcp",
+  "source_url": "https://github.com/Sri-Krishna-V-6944/hermes-platform-mcp",
+  "install": "npx -y hermes-platform-mcp"
+}

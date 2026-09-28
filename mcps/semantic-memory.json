@@ -1,0 +1,7 @@
+{
+  "name": "semantic-memory",
+  "description": "Persistent memory with semantic search for Claude and MCP-compatible clients, storing context that survives conversations and can be retrieved intelligently.",
+  "source_repo": "GFYURI/mcp-semantic-memory",
+  "source_url": "https://github.com/GFYURI/mcp-semantic-memory",
+  "install": "# git clone --depth 1 https://github.com/GFYURI/mcp-semantic-memory\n# See source for mcpServers config block"
+}

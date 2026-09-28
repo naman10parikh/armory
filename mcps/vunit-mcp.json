@@ -1,0 +1,7 @@
+{
+  "name": "vunit-mcp",
+  "description": "Enables an LLM or agent to drive a VUnit HDL unit-testing project end to end: list tests, compile, run, and inspect reports and per-test logs.",
+  "source_repo": "ru551n/vunit-mcp",
+  "source_url": "https://github.com/ru551n/vunit-mcp",
+  "install": "npx -y vunit-mcp"
+}

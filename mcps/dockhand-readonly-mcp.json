@@ -1,0 +1,7 @@
+{
+  "name": "dockhand-readonly-mcp",
+  "description": "Read-only MCP adapter for the Dockhand REST API, enabling secure querying of container environments, networks, stacks, and runtime status via STDIO or authenticated HTTP.",
+  "source_repo": "cgfm/dockhand_readonly_mcp",
+  "source_url": "https://github.com/cgfm/dockhand_readonly_mcp",
+  "install": "npx -y dockhand_readonly_mcp"
+}

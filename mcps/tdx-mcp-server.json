@@ -1,0 +1,7 @@
+{
+  "name": "tdx-mcp-server",
+  "description": "An MCP server that wraps the TeamDynamix Web API, enabling AI assistants to search tickets, manage assets, query the knowledge base, and look up people in your TDX instance.",
+  "source_repo": "uidaho-nsummers/tdx-cli-mcp",
+  "source_url": "https://github.com/uidaho-nsummers/tdx-cli-mcp",
+  "install": "npx -y tdx-cli-mcp"
+}

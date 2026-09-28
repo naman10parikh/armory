@@ -1,0 +1,7 @@
+{
+  "name": "aider-mcp-websocket-server",
+  "description": "A production-ready MCP server that exposes Aider's code editing capabilities via WebSocket, enabling natural language commands to create and edit files with isolated workspaces.",
+  "source_repo": "larock22/aider-mcp",
+  "source_url": "https://github.com/larock22/aider-mcp",
+  "install": "npx -y aider-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hubdocs",
+  "description": "Indexes and validates architecture documentation hubs, enabling agents to query IDs, dependencies, orphans, and broken links without loading the full doc tree.",
+  "source_repo": "raintr91/hubdocs",
+  "source_url": "https://github.com/raintr91/hubdocs",
+  "install": "# git clone --depth 1 https://github.com/raintr91/hubdocs\n# See source for mcpServers config block"
+}

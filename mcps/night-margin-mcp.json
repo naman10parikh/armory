@@ -1,0 +1,7 @@
+{
+  "name": "night-margin-mcp",
+  "description": "An MCP server that shows every pricing decision for a short-term rental portfolio net of turnover costs, focusing on net per available night to protect profit margins.",
+  "source_repo": "mikki321/night-margin-mcp",
+  "source_url": "https://github.com/mikki321/night-margin-mcp",
+  "install": "npx -y night-margin-mcp"
+}

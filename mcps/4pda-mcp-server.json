@@ -1,0 +1,7 @@
+{
+  "name": "4pda-mcp-server",
+  "description": "A remote MCP server for searching topics and reading posts from the 4PDA forum via Streamable HTTP, enabling interaction with forum content without hosting on a personal computer.",
+  "source_repo": "Leostrange/4pda-mcp-server",
+  "source_url": "https://github.com/Leostrange/4pda-mcp-server",
+  "install": "npx -y 4pda-mcp-server"
+}

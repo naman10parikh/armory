@@ -1,0 +1,7 @@
+{
+  "name": "browserpilot",
+  "description": "Enables AI to control browsers via natural language for web automation, testing, and data scraping. Supports Chrome-based browsers and integrates with any MCP-compatible AI tool.",
+  "source_repo": "soulxyz/BrowserPilot",
+  "source_url": "https://github.com/soulxyz/BrowserPilot",
+  "install": "# git clone --depth 1 https://github.com/soulxyz/BrowserPilot\n# See source for mcpServers config block"
+}

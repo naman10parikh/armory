@@ -1,0 +1,7 @@
+{
+  "name": "max-mcp",
+  "description": "An MCP server for the MAX Exchange (MaiCoin) V3 REST API, enabling market data queries, account history reads, and optional trading operations through MCP tools.",
+  "source_repo": "bistin/max-mcp-server",
+  "source_url": "https://github.com/bistin/max-mcp-server",
+  "install": "npx -y max-mcp-server"
+}

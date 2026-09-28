@@ -1,0 +1,7 @@
+{
+  "name": "dynamodb-mcp-server",
+  "description": "A Model Context Protocol server for managing Amazon DynamoDB resources, providing tools for table management, capacity management, and data operations.",
+  "source_repo": "cool-man-vk/dynamodb-mcp-remote",
+  "source_url": "https://github.com/cool-man-vk/dynamodb-mcp-remote",
+  "install": "# git clone --depth 1 https://github.com/cool-man-vk/dynamodb-mcp-remote\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "glitch-mcp",
+  "description": "Connects AI developer tools to the Glitch Agent service for game marketing tasks such as Steam analysis, influencer outreach, PR planning, and approval workflows.",
+  "source_repo": "Glitch-Gaming-Platform/Glitch-MCP",
+  "source_url": "https://github.com/Glitch-Gaming-Platform/Glitch-MCP",
+  "install": "npx -y Glitch-MCP"
+}

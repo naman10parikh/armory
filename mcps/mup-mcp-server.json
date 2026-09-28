@@ -1,0 +1,7 @@
+{
+  "name": "mup-mcp-server",
+  "description": "Enables LLM chat interfaces to load and interact with interactive UI components (MUPs) such as slides, PDF readers, and sound pads, allowing both users and the LLM to operate them through function calls.",
+  "source_repo": "Ricky610329/mup",
+  "source_url": "https://github.com/Ricky610329/mup",
+  "install": "# git clone --depth 1 https://github.com/Ricky610329/mup\n# See source for mcpServers config block"
+}

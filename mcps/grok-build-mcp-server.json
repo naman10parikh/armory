@@ -1,0 +1,7 @@
+{
+  "name": "grok-build-mcp-server",
+  "description": "Exposes the Grok Build CLI as MCP tools for Claude Code and other clients, enabling headless AI agents to perform tasks like code reviews, web research, and file operations with configurable permission levels.",
+  "source_repo": "Nuruvala/grok-build-to-claude",
+  "source_url": "https://github.com/Nuruvala/grok-build-to-claude",
+  "install": "# git clone --depth 1 https://github.com/Nuruvala/grok-build-to-claude\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dify-cloud-mcp-server",
+  "description": "Exposes a SQLite database as MCP tools for Dify Cloud, ensuring LLM responses are based on real database records rather than generated data.",
+  "source_repo": "QUARES-1/dify-mcp",
+  "source_url": "https://github.com/QUARES-1/dify-mcp",
+  "install": "npx -y dify-mcp"
+}

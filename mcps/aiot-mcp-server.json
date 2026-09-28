@@ -1,0 +1,7 @@
+{
+  "name": "aiot-mcp-server",
+  "description": "A Model Context Protocol server for AI agents to discover and control IoT devices through MQTT, using the AIoT Agent Network Protocol for device registration and communication.",
+  "source_repo": "emqx/aiot-mcp-server",
+  "source_url": "https://github.com/emqx/aiot-mcp-server",
+  "install": "npx -y aiot-mcp-server"
+}

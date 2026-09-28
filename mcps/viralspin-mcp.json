@@ -1,0 +1,7 @@
+{
+  "name": "viralspin-mcp",
+  "description": "Enables AI agents to edit video assemblies from A-roll and B-roll, add captions, and publish to social media platforms.",
+  "source_repo": "AI-Product-Allen-Yu/viralspin-mcp",
+  "source_url": "https://github.com/AI-Product-Allen-Yu/viralspin-mcp",
+  "install": "npx -y viralspin-mcp"
+}

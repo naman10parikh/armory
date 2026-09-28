@@ -1,0 +1,7 @@
+{
+  "name": "divergent-thinking-mcp",
+  "description": "Provides a comprehensive creative thinking tool with methods like structured process, perspective shift, and constraint-based innovation to enhance divergent thinking.",
+  "source_repo": "Fridayxiao/divergent-thinking-mcp",
+  "source_url": "https://github.com/Fridayxiao/divergent-thinking-mcp",
+  "install": "npx -y divergent-thinking-mcp"
+}

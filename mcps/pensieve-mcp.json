@@ -1,0 +1,7 @@
+{
+  "name": "pensieve-mcp",
+  "description": "A personal, agent-driven memory that survives across sessions.",
+  "source_repo": "praveen-ilangovan/pensieve",
+  "source_url": "https://github.com/praveen-ilangovan/pensieve",
+  "install": "# git clone --depth 1 https://github.com/praveen-ilangovan/pensieve\n# See source for mcpServers config block"
+}

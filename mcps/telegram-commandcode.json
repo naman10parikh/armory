@@ -1,0 +1,7 @@
+{
+  "name": "telegram-commandcode",
+  "description": "MCP server for Telegram integration with Command Code, enabling AI agents to send messages, photos, files, and read updates via Telegram.",
+  "source_repo": "qrak/telegram-commandcode",
+  "source_url": "https://github.com/qrak/telegram-commandcode",
+  "install": "# git clone --depth 1 https://github.com/qrak/telegram-commandcode\n# See source for mcpServers config block"
+}

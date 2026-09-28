@@ -1,0 +1,7 @@
+{
+  "name": "crossfin",
+  "description": "CrossFin is a financial router for AI agents that finds the cheapest path to move money across 14 exchanges and provides real-time market data for Asian crypto markets.",
+  "source_repo": "bubilife1202/crossfin",
+  "source_url": "https://github.com/bubilife1202/crossfin",
+  "install": "# git clone --depth 1 https://github.com/bubilife1202/crossfin\n# See source for mcpServers config block"
+}

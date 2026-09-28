@@ -1,0 +1,7 @@
+{
+  "name": "pinescript-plugin",
+  "description": "Provides Pine Script v6 validation and reference lookup for coding agents, enabling them to write correct TradingView indicators with real-time diagnostics and function signatures.",
+  "source_repo": "jpantsjoha/pinescript-plugin",
+  "source_url": "https://github.com/jpantsjoha/pinescript-plugin",
+  "install": "# git clone --depth 1 https://github.com/jpantsjoha/pinescript-plugin\n# See source for mcpServers config block"
+}

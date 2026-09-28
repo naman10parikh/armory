@@ -1,0 +1,7 @@
+{
+  "name": "netsuite-supermcp",
+  "description": "Provides a single MCP endpoint for AI clients to operate NetSuite via a dedicated integration identity, supporting read, write, and action tools with risk policies and audit logging.",
+  "source_repo": "kaannsaydamm/NetSuite-SuperMCP",
+  "source_url": "https://github.com/kaannsaydamm/NetSuite-SuperMCP",
+  "install": "# git clone --depth 1 https://github.com/kaannsaydamm/NetSuite-SuperMCP\n# See source for mcpServers config block"
+}

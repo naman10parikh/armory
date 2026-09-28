@@ -1,0 +1,7 @@
+{
+  "name": "middlebrick-api-security",
+  "description": "Scan any API for OWASP Top 10 vulnerabilities and get a security risk score. Covers authentication, authorization (BOLA/BFLA), injection, data exposure, rate limiting, GraphQL, and LLM security.",
+  "source_repo": "",
+  "source_url": "https://middlebrick.com/",
+  "install": "# git clone --depth 1 https://middlebrick.com/\n# See source for mcpServers config block"
+}

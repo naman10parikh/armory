@@ -1,0 +1,7 @@
+{
+  "name": "se-eli-mcp",
+  "description": "Enables AI agents to search and retrieve consolidated Swedish statutes (SFS) from the Riksdagen open data API, with verifiable citations and persistent identifiers.",
+  "source_repo": "matematicsolutions/se-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/se-eli-mcp",
+  "install": "npx -y se-eli-mcp"
+}

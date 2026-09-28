@@ -1,0 +1,7 @@
+{
+  "name": "databricks-unity-catalog-mcp-server",
+  "description": "Access your Databricks workspace through Claude and other LLMs. Query Unity Catalog tables, inspect jobs, and retrieve detailed metadata.",
+  "source_repo": "revodatanl/databricks-mcp-server",
+  "source_url": "https://github.com/revodatanl/databricks-mcp-server",
+  "install": "npx -y databricks-mcp-server"
+}

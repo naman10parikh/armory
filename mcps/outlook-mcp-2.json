@@ -1,0 +1,7 @@
+{
+  "name": "outlook-mcp-2",
+  "description": "Enables AI assistants to manage Microsoft Outlook email and calendar through the Microsoft Graph API, including reading, sending, searching emails, and handling calendar events.",
+  "source_repo": "XenoXilus/outlook-mcp",
+  "source_url": "https://github.com/XenoXilus/outlook-mcp",
+  "install": "npx -y outlook-mcp"
+}

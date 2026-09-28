@@ -1,0 +1,7 @@
+{
+  "name": "bridgemcp",
+  "description": "A Python framework for building MCP servers that makes it simple to expose application data and actions to AI clients like Claude Desktop, Cursor, and VS Code through the Model Context Protocol. It wraps protocol handling behind a clean, decorator-based API allowing focus on business logic.",
+  "source_repo": "Arsie-codes/bridgemcp",
+  "source_url": "https://github.com/Arsie-codes/bridgemcp",
+  "install": "# git clone --depth 1 https://github.com/Arsie-codes/bridgemcp\n# See source for mcpServers config block"
+}

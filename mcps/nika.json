@@ -1,0 +1,7 @@
+{
+  "name": "nika",
+  "description": "A comprehensive Discord MCP server enabling AI assistants to run a Discord community through 111 tools for messaging, moderation, roles, channels, forums, webhooks, and more, plus a raw REST API passthrough for full Discord API access.",
+  "source_repo": "alive2/discord-mcp",
+  "source_url": "https://github.com/alive2/discord-mcp",
+  "install": "npx -y discord-mcp"
+}

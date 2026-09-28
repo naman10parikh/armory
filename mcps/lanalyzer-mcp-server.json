@@ -1,0 +1,7 @@
+{
+  "name": "lanalyzer-mcp-server",
+  "description": "Enables AI models to perform static taint analysis on Python code, detecting security vulnerabilities by tracking data flows from sources to sinks.",
+  "source_repo": "hkxiaoyao/lanalyzer",
+  "source_url": "https://github.com/hkxiaoyao/lanalyzer",
+  "install": "# git clone --depth 1 https://github.com/hkxiaoyao/lanalyzer\n# See source for mcpServers config block"
+}

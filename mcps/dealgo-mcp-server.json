@@ -1,0 +1,7 @@
+{
+  "name": "dealgo-mcp-server",
+  "description": "Runtime decision firewall for AI agents that exposes the CSC engine as an MCP server, allowing agents to consult before executing risky actions.",
+  "source_repo": "dealgo-systems/dealgo-mcp-server",
+  "source_url": "https://github.com/dealgo-systems/dealgo-mcp-server",
+  "install": "npx -y dealgo-mcp-server"
+}

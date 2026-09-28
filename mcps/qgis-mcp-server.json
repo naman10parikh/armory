@@ -1,0 +1,7 @@
+{
+  "name": "qgis-mcp-server",
+  "description": "Enables AI agents to interact with QGIS, supporting project management, layer inspection, spatial queries, styling, and map export in both headless and desktop modes.",
+  "source_repo": "BLD933/qgis_mcp_server",
+  "source_url": "https://github.com/BLD933/qgis_mcp_server",
+  "install": "npx -y qgis_mcp_server"
+}

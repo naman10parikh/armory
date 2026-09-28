@@ -1,0 +1,7 @@
+{
+  "name": "gws-mcp",
+  "description": "A small MCP server for read-write access to Google Tasks, Calendar, and Drive, enforcing human approval for all mutating operations.",
+  "source_repo": "purplespacecat/gws-mcp",
+  "source_url": "https://github.com/purplespacecat/gws-mcp",
+  "install": "npx -y gws-mcp"
+}

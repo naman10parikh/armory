@@ -1,0 +1,7 @@
+{
+  "name": "http-mcp",
+  "description": "Enables LLMs to make HTTP requests with OAuth2, session cookies, retry logic, and cURL command generation, while providing security features like SSRF protection and TLS enforcement.",
+  "source_repo": "cUDGk/http-mcp",
+  "source_url": "https://github.com/cUDGk/http-mcp",
+  "install": "npx -y http-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-hwp-mcp",
+  "description": "An MCP server for AI-powered automatic editing of HWP documents in Claude Code and Claude Desktop, offering 94 tools for document analysis, table editing, text formatting, layout, and PDF verification.",
+  "source_repo": "gmlcjf0326/claude-code-hwp-mcp",
+  "source_url": "https://github.com/gmlcjf0326/claude-code-hwp-mcp",
+  "install": "npx -y claude-code-hwp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dmarc-doctor",
+  "description": "A template MCP server with a built-in paywall gate, enabling free local execution and paid premium server-side execution via Stripe or x402.",
+  "source_repo": "Baneado98/dmarc-doctor",
+  "source_url": "https://github.com/Baneado98/dmarc-doctor",
+  "install": "# git clone --depth 1 https://github.com/Baneado98/dmarc-doctor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wj-mcp-server",
+  "description": "Exposes WJ's image generation capabilities as a remote MCP plugin for ChatGPT Work, enabling users to generate images through natural language with OAuth 2.1 security and support for various models, aspect ratios, and reference images.",
+  "source_repo": "sultan-young/wj-mcp-server",
+  "source_url": "https://github.com/sultan-young/wj-mcp-server",
+  "install": "npx -y wj-mcp-server"
+}

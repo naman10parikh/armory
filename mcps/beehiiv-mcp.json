@@ -1,0 +1,7 @@
+{
+  "name": "beehiiv-mcp",
+  "description": "An MCP server that integrates with the Beehiiv newsletter platform to retrieve subscriber information with filtering, pagination, and optional expanded data.",
+  "source_repo": "martymarkenson/beehiiv-mcp",
+  "source_url": "https://github.com/martymarkenson/beehiiv-mcp",
+  "install": "npx -y beehiiv-mcp"
+}

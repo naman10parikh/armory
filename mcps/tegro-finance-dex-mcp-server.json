@@ -1,0 +1,7 @@
+{
+  "name": "tegro-finance-dex-mcp-server",
+  "description": "Read-only MCP server for Tegro Finance DEX on TON blockchain, enabling AI assistants to query pools, token prices, swap quotes, and liquid-staking rates without API keys or wallet.",
+  "source_repo": "TegroTON/tegro-finance-mcp",
+  "source_url": "https://github.com/TegroTON/tegro-finance-mcp",
+  "install": "npx -y tegro-finance-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dsfr",
+  "description": "Generates, validates, and audits French government DSFR components with RGAA 4.1 accessibility compliance, enabling seamless integration into Claude Desktop.",
+  "source_repo": "Alexmacapple/mcp-playbook-dsfr",
+  "source_url": "https://github.com/Alexmacapple/mcp-playbook-dsfr",
+  "install": "# git clone --depth 1 https://github.com/Alexmacapple/mcp-playbook-dsfr\n# See source for mcpServers config block"
+}

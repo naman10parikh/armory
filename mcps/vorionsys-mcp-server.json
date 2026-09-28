@@ -1,0 +1,7 @@
+{
+  "name": "vorionsys-mcp-server",
+  "description": "MCP server for AI-agent governance using trust scoring, behavioral signals, and pre-flight action checks.",
+  "source_repo": "vorionsys/mcp-server",
+  "source_url": "https://github.com/vorionsys/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/vorionsys/mcp-server\n# See source for mcpServers config block"
+}

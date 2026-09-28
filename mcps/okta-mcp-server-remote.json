@@ -1,0 +1,7 @@
+{
+  "name": "okta-mcp-server-remote",
+  "description": "Wraps Okta's stdio MCP server to be accessible remotely via Streamable HTTP with OAuth authentication, and adds native Okta Admin API tools for application management.",
+  "source_repo": "rittmananalytics/okta-mcp-server",
+  "source_url": "https://github.com/rittmananalytics/okta-mcp-server",
+  "install": "npx -y okta-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-nyt",
+  "description": "Wraps The New York Times Developer APIs, enabling natural language querying of NYT data through the Pipeworx MCP gateway.",
+  "source_repo": "pipeworx-io/mcp-nyt",
+  "source_url": "https://github.com/pipeworx-io/mcp-nyt",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-nyt\n# See source for mcpServers config block"
+}

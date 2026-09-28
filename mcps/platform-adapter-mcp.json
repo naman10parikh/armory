@@ -1,0 +1,7 @@
+{
+  "name": "platform-adapter-mcp",
+  "description": "Wraps multiple bug bounty platform APIs (HackerOne, Bugcrowd, etc.) behind a uniform MCP tool surface, enabling LLM agents to query programs, scope, and briefs across platforms through a single interface.",
+  "source_repo": "Koslovski79/platform-adapter-mcp",
+  "source_url": "https://github.com/Koslovski79/platform-adapter-mcp",
+  "install": "npx -y platform-adapter-mcp"
+}

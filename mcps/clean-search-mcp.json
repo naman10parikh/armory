@@ -1,0 +1,7 @@
+{
+  "name": "clean-search-mcp",
+  "description": "A lightweight MCP service that provides clean, spam-free search results for AI agents, filtering out low-quality content.",
+  "source_repo": "lzmd66/clean-search-mcp",
+  "source_url": "https://github.com/lzmd66/clean-search-mcp",
+  "install": "npx -y clean-search-mcp"
+}

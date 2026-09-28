@@ -1,0 +1,7 @@
+{
+  "name": "redshift-comment-mcp",
+  "description": "A read-only MCP server for Amazon Redshift that leverages column comments for guided data discovery, with slash commands for profiling, exploration, and lineage.",
+  "source_repo": "kouko/redshift-comment-mcp",
+  "source_url": "https://github.com/kouko/redshift-comment-mcp",
+  "install": "npx -y redshift-comment-mcp"
+}

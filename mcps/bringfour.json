@@ -1,0 +1,7 @@
+{
+  "name": "bringfour",
+  "description": "MCP server that turns AI assistants into VGC teambuilding partners with real usage stats, damage calculations, and threat reports for competitive Pokémon.",
+  "source_repo": "LuciPengu/bringfour",
+  "source_url": "https://github.com/LuciPengu/bringfour",
+  "install": "# git clone --depth 1 https://github.com/LuciPengu/bringfour\n# See source for mcpServers config block"
+}

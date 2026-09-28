@@ -1,0 +1,7 @@
+{
+  "name": "dsers-mcp-product",
+  "description": "An MCP server that automates importing products from AliExpress, Alibaba, and Accio into DSers and pushing them to Shopify or Wix stores, with features like bulk import, pricing rules, and title cleanup.",
+  "source_repo": "OyaAIProd/dsers-mcp-product",
+  "source_url": "https://github.com/OyaAIProd/dsers-mcp-product",
+  "install": "# git clone --depth 1 https://github.com/OyaAIProd/dsers-mcp-product\n# See source for mcpServers config block"
+}

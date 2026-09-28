@@ -1,0 +1,7 @@
+{
+  "name": "ai-gateway-mcp-server",
+  "description": "Provides unified access to multiple AI providers through Vercel AI Gateway, enabling question answering, web search, multi-model research, and model listing.",
+  "source_repo": "ayatec/ai-gateway-mcp-server",
+  "source_url": "https://github.com/ayatec/ai-gateway-mcp-server",
+  "install": "npx -y ai-gateway-mcp-server"
+}

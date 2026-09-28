@@ -1,0 +1,7 @@
+{
+  "name": "amadeus-mcp-server",
+  "description": "Integrates with Amadeus Flight Offers Search API to provide flight search capabilities through natural language interfaces, enabling users to search for flight options between two locations with specific dates.",
+  "source_repo": "donghyun-chae/mcp-amadeus",
+  "source_url": "https://github.com/donghyun-chae/mcp-amadeus",
+  "install": "# git clone --depth 1 https://github.com/donghyun-chae/mcp-amadeus\n# See source for mcpServers config block"
+}

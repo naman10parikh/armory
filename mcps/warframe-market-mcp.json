@@ -1,0 +1,7 @@
+{
+  "name": "warframe-market-mcp",
+  "description": "Enables searching Warframe items, viewing price history, and managing buy/sell orders through the Warframe Market API.",
+  "source_repo": "elpideus/warframe-market-mcp",
+  "source_url": "https://github.com/elpideus/warframe-market-mcp",
+  "install": "npx -y warframe-market-mcp"
+}

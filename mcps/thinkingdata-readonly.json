@@ -1,0 +1,7 @@
+{
+  "name": "thinkingdata-readonly",
+  "description": "Local read-only MCP server for ThinkingData 5.0 that provides 10 tools for event analysis, retention, funnel, path, distribution, and SQL queries over stdio.",
+  "source_repo": "CrownJoker07/thinkingdata-mcp",
+  "source_url": "https://github.com/CrownJoker07/thinkingdata-mcp",
+  "install": "npx -y thinkingdata-mcp"
+}

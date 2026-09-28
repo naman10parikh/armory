@@ -1,0 +1,7 @@
+{
+  "name": "threejs-devtools-mcp",
+  "description": "MCP server for inspecting and modifying Three.js scenes in real time — 59 tools for objects, materials, shaders, textures, animations, performance monitoring, memory diagnostics, and code generation.",
+  "source_repo": "DmitriyGolub/threejs-devtools-mcp",
+  "source_url": "https://github.com/DmitriyGolub/threejs-devtools-mcp",
+  "install": "npx -y threejs-devtools-mcp"
+}

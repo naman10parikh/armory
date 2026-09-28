@@ -1,0 +1,7 @@
+{
+  "name": "tefas-fund-comparator",
+  "description": "MCP server for listing, comparing, and analyzing Turkish TEFAS mutual funds, including performance metrics and portfolio breakdowns.",
+  "source_repo": "merkezekre2026/tefas-mcp",
+  "source_url": "https://github.com/merkezekre2026/tefas-mcp",
+  "install": "npx -y tefas-mcp"
+}

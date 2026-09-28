@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ashigaru",
+  "description": "An MCP server that enables autonomous code development by pulling GitHub issues, fixing them in a sandboxed environment, running tests, opening PRs, and promoting to production upon human approval.",
+  "source_repo": "crunchtools/mcp-ashigaru",
+  "source_url": "https://github.com/crunchtools/mcp-ashigaru",
+  "install": "# git clone --depth 1 https://github.com/crunchtools/mcp-ashigaru\n# See source for mcpServers config block"
+}

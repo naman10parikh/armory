@@ -1,0 +1,7 @@
+{
+  "name": "mcp-aws-monitor",
+  "description": "Monitors AWS infrastructure including EC2, RDS, S3, SQS, CloudWatch, and more through 19 tools, enabling natural language queries for infrastructure status.",
+  "source_repo": "hbmun/aws-monitor-mcp",
+  "source_url": "https://github.com/hbmun/aws-monitor-mcp",
+  "install": "npx -y aws-monitor-mcp"
+}

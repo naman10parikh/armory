@@ -1,0 +1,7 @@
+{
+  "name": "gamma-watermark-remover-mcp",
+  "description": "Removes the 'Made with Gamma' watermark from PDF and PowerPoint files exported from Gamma.app using structural and lossless object deletion.",
+  "source_repo": "gammaremover/gamma-watermark-remover-mcp",
+  "source_url": "https://github.com/gammaremover/gamma-watermark-remover-mcp",
+  "install": "npx -y gamma-watermark-remover-mcp"
+}

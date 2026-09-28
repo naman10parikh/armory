@@ -1,0 +1,7 @@
+{
+  "name": "email-mcp-2",
+  "description": "Local IMAP/SMTP MCP server that lets Claude read, search, draft, send, flag, and move mail across multiple IMAP mailboxes. Credentials stay on your machine.",
+  "source_repo": "skyttedk/email-mcp",
+  "source_url": "https://github.com/skyttedk/email-mcp",
+  "install": "npx -y email-mcp"
+}

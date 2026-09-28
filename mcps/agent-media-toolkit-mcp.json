@@ -1,0 +1,7 @@
+{
+  "name": "agent-media-toolkit-mcp",
+  "description": "A hosted MCP server providing 15 media and data tools for AI agents, including web search, news, content extraction, summarization, translation, moderation, script writing, text-to-voiceover, transcription, subtitles, viral-clip discovery, and short-form video editing.",
+  "source_repo": "krakonjac300-pixel/agent-media-toolkit-mcp",
+  "source_url": "https://github.com/krakonjac300-pixel/agent-media-toolkit-mcp",
+  "install": "npx -y agent-media-toolkit-mcp"
+}

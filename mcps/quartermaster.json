@@ -1,0 +1,7 @@
+{
+  "name": "quartermaster",
+  "description": "Offline, zero-dependency tool-router for MCP that funnels N tools down to a ranked shortlist for a natural-language query, so the model reads ~8 tools instead of 200.",
+  "source_repo": "PranavNagrecha/Quartermaster",
+  "source_url": "https://github.com/PranavNagrecha/Quartermaster",
+  "install": "# git clone --depth 1 https://github.com/PranavNagrecha/Quartermaster\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "schooldigger-mcp",
+  "description": "Integrates with SchoolDigger's API to search schools, get rankings, and find districts by location. Enables querying school data through natural language.",
+  "source_repo": "pajaydev/schooldigger-mcp",
+  "source_url": "https://github.com/pajaydev/schooldigger-mcp",
+  "install": "npx -y schooldigger-mcp"
+}

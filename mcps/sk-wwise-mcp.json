@@ -1,0 +1,7 @@
+{
+  "name": "sk-wwise-mcp",
+  "description": "A modular suite of MCP servers for Audiokinetic Wwise, enabling AI agents to browse, edit, audition, profile, and build Wwise projects through the Wwise Authoring API.",
+  "source_repo": "silver-rain-dev/sk-wwise-mcp",
+  "source_url": "https://github.com/silver-rain-dev/sk-wwise-mcp",
+  "install": "npx -y sk-wwise-mcp"
+}

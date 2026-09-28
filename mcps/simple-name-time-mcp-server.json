@@ -1,0 +1,7 @@
+{
+  "name": "simple-name-time-mcp-server",
+  "description": "A minimal MCP server that returns the current local server time for a given name and a lucky number.",
+  "source_repo": "Monish0017/MCP-Server",
+  "source_url": "https://github.com/Monish0017/MCP-Server",
+  "install": "# git clone --depth 1 https://github.com/Monish0017/MCP-Server\n# See source for mcpServers config block"
+}

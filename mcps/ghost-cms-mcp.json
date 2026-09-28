@@ -1,0 +1,7 @@
+{
+  "name": "ghost-cms-mcp",
+  "description": "Unofficial MCP server for Ghost CMS that enables managing posts, pages, tags, and images through any MCP-compatible client.",
+  "source_repo": "matveev-pavel/ghost-mcp",
+  "source_url": "https://github.com/matveev-pavel/ghost-mcp",
+  "install": "npx -y ghost-mcp"
+}

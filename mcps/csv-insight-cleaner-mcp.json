@@ -1,0 +1,7 @@
+{
+  "name": "csv-insight-cleaner-mcp",
+  "description": "Minimalistic MCP server that lets AI assistants inspect, quality-check, and clean CSV datasets through tools, resources, and prompts, without needing local file access.",
+  "source_repo": "a-i-m-a-n/mcp",
+  "source_url": "https://github.com/a-i-m-a-n/mcp",
+  "install": "# git clone --depth 1 https://github.com/a-i-m-a-n/mcp\n# See source for mcpServers config block"
+}

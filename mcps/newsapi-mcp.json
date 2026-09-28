@@ -1,0 +1,7 @@
+{
+  "name": "newsapi-mcp",
+  "description": "A Model Context Protocol (MCP) server that provides real-time news intelligence using NewsAPI.ai. This server enables LLMs to search articles, track events, and analyze news through natural conversation.",
+  "source_repo": "EventRegistry/newsapi-mcp",
+  "source_url": "https://github.com/EventRegistry/newsapi-mcp",
+  "install": "npx -y newsapi-mcp"
+}

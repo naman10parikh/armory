@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gmail-google-docs-integration",
+  "description": "A generic MCP server that exposes Gmail and Google Docs capabilities as tools for AI agents. Enables sending emails and appending content to Google Docs.",
+  "source_repo": "tusharikaT/MCP-gmail-gdoc",
+  "source_url": "https://github.com/tusharikaT/MCP-gmail-gdoc",
+  "install": "# git clone --depth 1 https://github.com/tusharikaT/MCP-gmail-gdoc\n# See source for mcpServers config block"
+}

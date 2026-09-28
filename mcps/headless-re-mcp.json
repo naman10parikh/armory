@@ -1,0 +1,7 @@
+{
+  "name": "headless-re-mcp",
+  "description": "Headless reverse engineering MCP server integrating IDA Pro for static analysis and x64dbg for dynamic debugging via controlled MCP tools.",
+  "source_repo": "kumburovicbranko682-boop/headless-re-mcp",
+  "source_url": "https://github.com/kumburovicbranko682-boop/headless-re-mcp",
+  "install": "npx -y headless-re-mcp"
+}

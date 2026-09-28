@@ -1,0 +1,7 @@
+{
+  "name": "cursor-mcp",
+  "description": "A FastMCP server for Cursor platform APIs enabling spend guardrails, cloud agent monitoring, and inter-agent inbox messaging.",
+  "source_repo": "sandraschi/cursor-mcp",
+  "source_url": "https://github.com/sandraschi/cursor-mcp",
+  "install": "npx -y cursor-mcp"
+}

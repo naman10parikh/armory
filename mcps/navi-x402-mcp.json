@@ -1,0 +1,7 @@
+{
+  "name": "navi-x402-mcp",
+  "description": "Enables AI agents to access paid tools like crypto prices, weather, translation, and web intelligence via per-request USDC payments on Base, with no API keys or subscriptions.",
+  "source_repo": "mobileappbyharis/navi-x402-mcp",
+  "source_url": "https://github.com/mobileappbyharis/navi-x402-mcp",
+  "install": "npx -y navi-x402-mcp"
+}

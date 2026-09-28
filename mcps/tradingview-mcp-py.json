@@ -1,0 +1,7 @@
+{
+  "name": "tradingview-mcp-py",
+  "description": "MCP server for stock analysis providing 30 tools across technical analysis, Yahoo Finance, IDX/BEI, backtesting, news sentiment, and trade math, with no TradingView Desktop required and VPS compatibility.",
+  "source_repo": "CenblueOne/tradingview-mcp-py",
+  "source_url": "https://github.com/CenblueOne/tradingview-mcp-py",
+  "install": "# git clone --depth 1 https://github.com/CenblueOne/tradingview-mcp-py\n# See source for mcpServers config block"
+}

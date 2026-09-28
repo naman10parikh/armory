@@ -1,0 +1,7 @@
+{
+  "name": "sqlike",
+  "description": "Deterministic SQL static analysis and query-equivalence checking for Postgres, MySQL, SQLite, and SQL Server. Tokenizes locally before forwarding to the API.",
+  "source_repo": "orifisher2/sqlike",
+  "source_url": "https://github.com/orifisher2/sqlike",
+  "install": "# git clone --depth 1 https://github.com/orifisher2/sqlike\n# See source for mcpServers config block"
+}

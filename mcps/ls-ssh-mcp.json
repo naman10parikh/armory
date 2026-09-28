@@ -1,0 +1,7 @@
+{
+  "name": "ls-ssh-mcp",
+  "description": "An MCP server for SSH session management with browser-based terminal monitoring, supporting persistent connections, command execution, SFTP file operations, and multi-session management.",
+  "source_repo": "kkoshix/ls-ssh-mcp",
+  "source_url": "https://github.com/kkoshix/ls-ssh-mcp",
+  "install": "npx -y ls-ssh-mcp"
+}

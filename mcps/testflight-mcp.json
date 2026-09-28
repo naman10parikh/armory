@@ -1,0 +1,7 @@
+{
+  "name": "testflight-mcp",
+  "description": "MCP server for TestFlight and App Store Connect that exposes the App Store Connect API as tools for AI agents, focusing on retrieving beta feedback (screenshots, crash logs) and related app/build/tester data, with read-only operations.",
+  "source_repo": "OrellBuehler/testflight-mcp",
+  "source_url": "https://github.com/OrellBuehler/testflight-mcp",
+  "install": "npx -y testflight-mcp"
+}

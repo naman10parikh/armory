@@ -1,0 +1,7 @@
+{
+  "name": "positioning-bridge",
+  "description": "Enables MCP hosts to validate drafts against a company's versioned positioning pack through read-only tools for positioning context, content briefs, content checks, and explanation of findings.",
+  "source_repo": "shashank-sn/positioning-bridge",
+  "source_url": "https://github.com/shashank-sn/positioning-bridge",
+  "install": "# git clone --depth 1 https://github.com/shashank-sn/positioning-bridge\n# See source for mcpServers config block"
+}

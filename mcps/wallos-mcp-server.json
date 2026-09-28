@@ -1,0 +1,7 @@
+{
+  "name": "wallos-mcp-server",
+  "description": "Enables Claude Desktop to manage subscriptions, categories, currencies, payment methods, and household members in a self-hosted Wallos instance.",
+  "source_repo": "ilyannn/wallos-mcp",
+  "source_url": "https://github.com/ilyannn/wallos-mcp",
+  "install": "npx -y wallos-mcp"
+}

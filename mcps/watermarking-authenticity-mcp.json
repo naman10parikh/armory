@@ -1,0 +1,7 @@
+{
+  "name": "watermarking-authenticity-mcp",
+  "description": "Provides AI content watermarking and C2PA compliance for EU AI Act Article 50, enabling detection, verification, and batch processing of authenticated content.",
+  "source_repo": "CSOAI-ORG/watermarking-authenticity-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/watermarking-authenticity-mcp",
+  "install": "npx -y watermarking-authenticity-mcp"
+}

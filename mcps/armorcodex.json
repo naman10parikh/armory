@@ -1,0 +1,7 @@
+{
+  "name": "armorcodex",
+  "description": "Intent-based security governance for OpenAI Codex and ChatGPT. Register intent plans before tool calls, apply natural-language policy rules, and get per-request audit logs across all your AI agents.",
+  "source_repo": "armoriq/armorCodex",
+  "source_url": "https://github.com/armoriq/armorCodex",
+  "install": "# git clone --depth 1 https://github.com/armoriq/armorCodex\n# See source for mcpServers config block"
+}

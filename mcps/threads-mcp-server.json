@@ -1,0 +1,7 @@
+{
+  "name": "threads-mcp-server",
+  "description": "Enables AI assistants to manage a Threads posting schedule through natural language, allowing them to view, add, update, reschedule, and skip posts in a local CSV schedule.",
+  "source_repo": "Andre-wyap/threads-mcp",
+  "source_url": "https://github.com/Andre-wyap/threads-mcp",
+  "install": "npx -y threads-mcp"
+}

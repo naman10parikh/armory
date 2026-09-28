@@ -1,0 +1,7 @@
+{
+  "name": "remogram-mcp",
+  "description": "MCP server that provides forge facts (git-resolved refs and forge-reported PR SHAs) for PR reconciliation, viewing, and merge planning via JSON output.",
+  "source_repo": "attebury/remogram",
+  "source_url": "https://github.com/attebury/remogram",
+  "install": "# git clone --depth 1 https://github.com/attebury/remogram\n# See source for mcpServers config block"
+}

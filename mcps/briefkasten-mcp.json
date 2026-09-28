@@ -1,0 +1,7 @@
+{
+  "name": "briefkasten-mcp",
+  "description": "Enables passing notes between Claude rooms on the same machine via Markdown files. Supports listing, reading, and writing notes with security validation.",
+  "source_repo": "andy-builds-ai/briefkasten-mcp",
+  "source_url": "https://github.com/andy-builds-ai/briefkasten-mcp",
+  "install": "npx -y briefkasten-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-postgres-server",
+  "description": "MCP server providing PostgreSQL and Vertica database access with tools for querying, listing tables, and testing connections.",
+  "source_repo": "Nayab-zak/mcp-postgres-server",
+  "source_url": "https://github.com/Nayab-zak/mcp-postgres-server",
+  "install": "# git clone --depth 1 https://github.com/Nayab-zak/mcp-postgres-server\n# See source for mcpServers config block"
+}

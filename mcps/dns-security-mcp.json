@@ -1,0 +1,7 @@
+{
+  "name": "dns-security-mcp",
+  "description": "Comprehensive DNS security toolkit for AI agents: 103 tools across 13 categories including DNSSEC validation, subdomain takeover detection, email security audit, and more, all running locally with no external API calls required.",
+  "source_repo": "badchars/dns-security-mcp",
+  "source_url": "https://github.com/badchars/dns-security-mcp",
+  "install": "npx -y dns-security-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "logicnotes-mcp-server",
+  "description": "Read-only MCP server for searching and retrieving LogicNotes meeting notes, including summaries, transcripts, and action items.",
+  "source_repo": "sharveen22/logicnotes-mcp-server",
+  "source_url": "https://github.com/sharveen22/logicnotes-mcp-server",
+  "install": "npx -y logicnotes-mcp-server"
+}

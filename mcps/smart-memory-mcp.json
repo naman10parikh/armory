@@ -1,6 +1,6 @@
 {
   "name": "smart-memory-mcp",
-  "description": "Smart Memory Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "shipdocs/smart-memory-mcp",
   "source_url": "https://mcp.so/server/smart-memory-mcp/shipdocs",
   "install": "npx -y smart-memory-mcp"

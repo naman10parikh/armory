@@ -1,0 +1,7 @@
+{
+  "name": "github-resume-assistant",
+  "description": "An MCP server that connects Claude to your real GitHub activity and tells you what to build and ship publicly to make your resume credible.",
+  "source_repo": "justomsharma/github-resume-assistant",
+  "source_url": "https://github.com/justomsharma/github-resume-assistant",
+  "install": "# git clone --depth 1 https://github.com/justomsharma/github-resume-assistant\n# See source for mcpServers config block"
+}

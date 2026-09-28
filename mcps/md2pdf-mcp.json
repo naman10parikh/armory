@@ -1,0 +1,7 @@
+{
+  "name": "md2pdf-mcp",
+  "description": "MCP Server for Markdown to PDF conversion.",
+  "source_repo": "chunliu/md2pdf",
+  "source_url": "https://github.com/chunliu/md2pdf",
+  "install": "# git clone --depth 1 https://github.com/chunliu/md2pdf\n# See source for mcpServers config block"
+}

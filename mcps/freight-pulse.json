@@ -1,0 +1,7 @@
+{
+  "name": "freight-pulse",
+  "description": "Ocean and multimodal freight intelligence suite providing cross-validated rates, total landed cost, transit reliability, customs, risk, emissions, and unified ship decisions through 47 tools.",
+  "source_repo": "Baneado98/freight-pulse",
+  "source_url": "https://github.com/Baneado98/freight-pulse",
+  "install": "# git clone --depth 1 https://github.com/Baneado98/freight-pulse\n# See source for mcpServers config block"
+}

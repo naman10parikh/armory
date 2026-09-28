@@ -1,0 +1,7 @@
+{
+  "name": "hyperdbg-mcp",
+  "description": "Exposes the HyperDbg hypervisor-assisted, ring-0 debugger to LLM agents, enabling low-level debugging operations with safety features like read-only mode and confirmation gates.",
+  "source_repo": "munraimix/hyperdbg-mcp",
+  "source_url": "https://github.com/munraimix/hyperdbg-mcp",
+  "install": "npx -y hyperdbg-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fidensa-mcp-server",
+  "description": "Enables AI agents to verify trust scores, search certified capabilities, compare side-by-side, and submit experience reports through Fidensa's certification authority.",
+  "source_repo": "fidensa/mcp-server",
+  "source_url": "https://github.com/fidensa/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/fidensa/mcp-server\n# See source for mcpServers config block"
+}

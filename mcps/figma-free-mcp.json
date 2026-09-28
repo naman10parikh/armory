@@ -1,0 +1,7 @@
+{
+  "name": "figma-free-mcp",
+  "description": "Enables Claude to connect to Figma without a paid plan, offering auto-connect and 100+ tools for document manipulation, design system sync, and code-to-Figma conversion.",
+  "source_repo": "haju-xp/figma-free-mcp",
+  "source_url": "https://github.com/haju-xp/figma-free-mcp",
+  "install": "npx -y figma-free-mcp"
+}

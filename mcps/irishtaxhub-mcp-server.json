@@ -1,0 +1,7 @@
+{
+  "name": "irishtaxhub-mcp-server",
+  "description": "Dynamic MCP server that exposes IrishTaxHub API operations as tools via OpenAPI-powered discovery and invocation, allowing users to list endpoints, get request schemas, and call any API endpoint dynamically.",
+  "source_repo": "jhurleyai/irishtaxhub-mcp",
+  "source_url": "https://github.com/jhurleyai/irishtaxhub-mcp",
+  "install": "npx -y irishtaxhub-mcp"
+}

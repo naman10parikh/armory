@@ -1,0 +1,7 @@
+{
+  "name": "harness-feed-mcp",
+  "description": "Fetches and searches structured JSON feeds from 7 tech sources including GeekNews, Hacker News, and arXiv.",
+  "source_repo": "doominkim/harness-feed-mcp",
+  "source_url": "https://github.com/doominkim/harness-feed-mcp",
+  "install": "npx -y harness-feed-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-excel-online",
+  "description": "MCP server that integrates with OneDrive and Excel Workbooks via Microsoft Graph API for creating and modifying worksheets.",
+  "source_repo": "GokulSudheesh/mcp-excel-online",
+  "source_url": "https://github.com/GokulSudheesh/mcp-excel-online",
+  "install": "# git clone --depth 1 https://github.com/GokulSudheesh/mcp-excel-online\n# See source for mcpServers config block"
+}

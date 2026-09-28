@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ocr-anagrafica",
+  "description": "Remote MCP server for extracting structured data from images, PDFs, and XML documents using LLM Vision models. Provides specialized tools for demographic and invoice data extraction with support for multi-part documents.",
+  "source_repo": "sebaldar/MCP-OCR",
+  "source_url": "https://github.com/sebaldar/MCP-OCR",
+  "install": "# git clone --depth 1 https://github.com/sebaldar/MCP-OCR\n# See source for mcpServers config block"
+}

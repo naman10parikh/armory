@@ -1,0 +1,7 @@
+{
+  "name": "wati-mcp-server",
+  "description": "MCP server for WATI WhatsApp Business API enabling AI assistants to send messages, manage contacts, and handle media.",
+  "source_repo": "Jairajmehra/wati_whatsapp_mcp",
+  "source_url": "https://github.com/Jairajmehra/wati_whatsapp_mcp",
+  "install": "npx -y wati_whatsapp_mcp"
+}

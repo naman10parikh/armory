@@ -1,0 +1,7 @@
+{
+  "name": "orenyl",
+  "description": "MCP server providing agent memory with deterministic deletion guarantees, enabling compliant event storage, context retrieval, and audit-proof data management.",
+  "source_repo": "edison-zhou-nc/Orenyl",
+  "source_url": "https://github.com/edison-zhou-nc/Orenyl",
+  "install": "# git clone --depth 1 https://github.com/edison-zhou-nc/Orenyl\n# See source for mcpServers config block"
+}

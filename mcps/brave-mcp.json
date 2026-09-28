@@ -1,0 +1,7 @@
+{
+  "name": "brave-mcp",
+  "description": "Wraps chrome-devtools-mcp to control Brave/Chrome/Edge browsers with real user profiles, supporting multi-browser management, hot switching, and automatic reconnection.",
+  "source_repo": "menoxz/brave-mcp",
+  "source_url": "https://github.com/menoxz/brave-mcp",
+  "install": "npx -y brave-mcp"
+}

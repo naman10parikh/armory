@@ -1,0 +1,7 @@
+{
+  "name": "eztexting-mcp-server",
+  "description": "Provides MCP tools for SMS messaging, contact management, workflows automation, and account administration through EZTexting's API, supporting both remote Streamable HTTP and local stdio bridge.",
+  "source_repo": "eztexting/mcp-server",
+  "source_url": "https://github.com/eztexting/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/eztexting/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "short-video-maker",
+  "description": "Automated short-form video creation from text prompts, combining text-to-speech, captions, background videos, and music, exposed as an MCP server for AI agents.",
+  "source_repo": "ZenforceTaiji/AI-MCP",
+  "source_url": "https://github.com/ZenforceTaiji/AI-MCP",
+  "install": "npx -y AI-MCP"
+}

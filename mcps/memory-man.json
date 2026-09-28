@@ -1,0 +1,7 @@
+{
+  "name": "memory-man",
+  "description": "MCP server that provides persistent long-term memory for Claude Code, enabling storage, search, and retrieval of project knowledge across sessions.",
+  "source_repo": "HelyeFab/memory-man",
+  "source_url": "https://github.com/HelyeFab/memory-man",
+  "install": "# git clone --depth 1 https://github.com/HelyeFab/memory-man\n# See source for mcpServers config block"
+}

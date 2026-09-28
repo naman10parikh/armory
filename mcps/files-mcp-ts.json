@@ -1,0 +1,7 @@
+{
+  "name": "files-mcp-ts",
+  "description": "A lightweight MCP server for basic file operations, enabling reading, writing, and listing files securely via the Model Context Protocol.",
+  "source_repo": "LiviuBirjega/files-mcp-ts",
+  "source_url": "https://github.com/LiviuBirjega/files-mcp-ts",
+  "install": "# git clone --depth 1 https://github.com/LiviuBirjega/files-mcp-ts\n# See source for mcpServers config block"
+}

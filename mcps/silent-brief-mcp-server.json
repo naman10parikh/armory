@@ -1,0 +1,7 @@
+{
+  "name": "silent-brief-mcp-server",
+  "description": "MCP server for generating legal and business documents via Silent Brief API. Pay with Monero, no accounts needed.",
+  "source_repo": "warmachine2121/silent-brief-mcp",
+  "source_url": "https://github.com/warmachine2121/silent-brief-mcp",
+  "install": "npx -y silent-brief-mcp"
+}

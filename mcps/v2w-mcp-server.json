@@ -1,0 +1,7 @@
+{
+  "name": "v2w-mcp-server",
+  "description": "Enables agents to convert videos from URLs, Bilibili, and netdisk shares into Word documents, with tools for transcription, job management, and account configuration.",
+  "source_repo": "joyrayai/v2w",
+  "source_url": "https://github.com/joyrayai/v2w",
+  "install": "# git clone --depth 1 https://github.com/joyrayai/v2w\n# See source for mcpServers config block"
+}

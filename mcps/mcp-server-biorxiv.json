@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-biorxiv",
-  "description": "Mcp Server BioRxiv MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "JackKuo666/mcp-server-bioRxiv",
   "source_url": "https://mcp.so/server/mcp-server-bioRxiv/JackKuo666",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-bioRxiv/JackKuo666\n# See source for mcpServers config block"

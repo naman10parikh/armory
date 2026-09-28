@@ -1,0 +1,7 @@
+{
+  "name": "radarr-mcp",
+  "description": "MCP server exposing Radarr's v3 REST API as tools, enabling LLMs to read and manage movies, downloads, history, indexers, and more.",
+  "source_repo": "SavageCore/radarr-mcp",
+  "source_url": "https://github.com/SavageCore/radarr-mcp",
+  "install": "npx -y radarr-mcp"
+}

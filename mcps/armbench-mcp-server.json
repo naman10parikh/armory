@@ -1,0 +1,7 @@
+{
+  "name": "armbench-mcp-server",
+  "description": "Enables benchmarking and inference of LLMs on Arm64 cloud instances with KleidiAI optimizations, providing an MCP-compatible API for serving results.",
+  "source_repo": "sirmos/armbench",
+  "source_url": "https://github.com/sirmos/armbench",
+  "install": "# git clone --depth 1 https://github.com/sirmos/armbench\n# See source for mcpServers config block"
+}

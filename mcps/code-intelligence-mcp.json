@@ -1,0 +1,7 @@
+{
+  "name": "code-intelligence-mcp",
+  "description": "Indexes Python codebases using AST and BM25, providing 8 MCP tools for code exploration and search.",
+  "source_repo": "RaheesAhmed/code-intelligence-mcp",
+  "source_url": "https://github.com/RaheesAhmed/code-intelligence-mcp",
+  "install": "npx -y code-intelligence-mcp"
+}

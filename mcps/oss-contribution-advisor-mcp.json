@@ -1,0 +1,7 @@
+{
+  "name": "oss-contribution-advisor-mcp",
+  "description": "An MCP server that helps developers find open-source issues worth contributing to by semantically matching interests, scoring repository health, and ranking by real downstream impact.",
+  "source_repo": "sonali1103/oss-contribution-advisor-mcp",
+  "source_url": "https://github.com/sonali1103/oss-contribution-advisor-mcp",
+  "install": "npx -y oss-contribution-advisor-mcp"
+}

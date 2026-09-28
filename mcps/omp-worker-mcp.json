@@ -1,0 +1,7 @@
+{
+  "name": "omp-worker-mcp",
+  "description": "Enables delegating asynchronous coding tasks and DAG workflows to local Oh My Pi (OMP) CLI sub-agents, with topological orchestration, path isolation, and supervised resumption.",
+  "source_repo": "divenire990/omp-worker-mcp",
+  "source_url": "https://github.com/divenire990/omp-worker-mcp",
+  "install": "npx -y omp-worker-mcp"
+}

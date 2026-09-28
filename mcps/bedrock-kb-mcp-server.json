@@ -1,0 +1,7 @@
+{
+  "name": "bedrock-kb-mcp-server",
+  "description": "Enables AI assistants to query documents in a Bedrock Knowledge Base through the MCP protocol, with tools for semantic search and agentic retrieval.",
+  "source_repo": "lorenzomicheli/bedrock-kb-mcp-server",
+  "source_url": "https://github.com/lorenzomicheli/bedrock-kb-mcp-server",
+  "install": "npx -y bedrock-kb-mcp-server"
+}

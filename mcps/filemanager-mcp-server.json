@@ -1,0 +1,7 @@
+{
+  "name": "filemanager-mcp-server",
+  "description": "A file management MCP server enabling complete file and directory operations, including advanced editing, templates, and batch processing through natural language.",
+  "source_repo": "leemwood/filemanager-mcp-server",
+  "source_url": "https://github.com/leemwood/filemanager-mcp-server",
+  "install": "npx -y filemanager-mcp-server"
+}

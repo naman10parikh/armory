@@ -1,0 +1,7 @@
+{
+  "name": "pathways-mcp-server",
+  "description": "Exposes health segmentation data from the Pathways platform, enabling natural language queries about population segments, metrics, and geographic distributions across countries like Senegal and Kenya.",
+  "source_repo": "claude-marie/pathways-mcp-server",
+  "source_url": "https://github.com/claude-marie/pathways-mcp-server",
+  "install": "npx -y pathways-mcp-server"
+}

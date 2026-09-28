@@ -1,0 +1,7 @@
+{
+  "name": "github-pages-retrieval-mcp",
+  "description": "Enables AI agents to search private GitHub Pages by authenticating in a dedicated browser and retrieving indexed sections from a local SQLite database, with support for multiple sites and languages.",
+  "source_repo": "ma-nakaya/github-pages-retrieval-mcp",
+  "source_url": "https://github.com/ma-nakaya/github-pages-retrieval-mcp",
+  "install": "npx -y github-pages-retrieval-mcp"
+}

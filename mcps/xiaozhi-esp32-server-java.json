@@ -1,0 +1,7 @@
+{
+  "name": "xiaozhi-esp32-server-java",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/xiaozhi-esp32-server-java",
+  "install": "# git clone --depth 1 https://mcp.so/server/xiaozhi-esp32-server-java\n# See source for mcpServers config block"
+}

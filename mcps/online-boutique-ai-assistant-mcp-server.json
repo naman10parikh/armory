@@ -1,0 +1,7 @@
+{
+  "name": "online-boutique-ai-assistant-mcp-server",
+  "description": "MCP server for Online Boutique AI Assistant that exposes 18 e-commerce microservice functions via the Model Context Protocol, enabling any MCP client to manage products, carts, checkout, payments, and shipping.",
+  "source_repo": "arjunprabhulal/ai-boutique-assit-mcp",
+  "source_url": "https://github.com/arjunprabhulal/ai-boutique-assit-mcp",
+  "install": "npx -y ai-boutique-assit-mcp"
+}

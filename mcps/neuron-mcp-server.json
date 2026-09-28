@@ -1,0 +1,7 @@
+{
+  "name": "neuron-mcp-server",
+  "description": "Enables AI assistants to manage WhatsApp business operations including chatbots, broadcasts, campaigns, and contacts through 120+ MCP tools.",
+  "source_repo": "conquext/neuron-mcp-server",
+  "source_url": "https://github.com/conquext/neuron-mcp-server",
+  "install": "npx -y neuron-mcp-server"
+}

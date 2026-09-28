@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-knowledge-mesh",
+  "description": "Enables AI agents to query structured knowledge across enterprise domains (legal, HR, compliance) with metadata-driven filtering and TF-IDF ranking.",
+  "source_repo": "ashishsantikari/case-study-mcp-server",
+  "source_url": "https://github.com/ashishsantikari/case-study-mcp-server",
+  "install": "npx -y case-study-mcp-server"
+}

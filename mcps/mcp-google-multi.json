@@ -1,0 +1,7 @@
+{
+  "name": "mcp-google-multi",
+  "description": "Gives MCP clients access to Google Workspace (Gmail, Drive, Calendar, Sheets, Docs, etc.) across multiple Google accounts simultaneously.",
+  "source_repo": "bakissation/mcp-google-multi",
+  "source_url": "https://github.com/bakissation/mcp-google-multi",
+  "install": "# git clone --depth 1 https://github.com/bakissation/mcp-google-multi\n# See source for mcpServers config block"
+}

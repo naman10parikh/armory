@@ -1,0 +1,7 @@
+{
+  "name": "paper-fx-mcp",
+  "description": "Integrates OANDA FX trading with technical analysis, economic news, stock/indices quotes, corporate financials, EDINET disclosures, and composite scoring into a unified MCP server.",
+  "source_repo": "dommy-i/paper-fx-mcp",
+  "source_url": "https://github.com/dommy-i/paper-fx-mcp",
+  "install": "npx -y paper-fx-mcp"
+}

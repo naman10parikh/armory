@@ -1,0 +1,7 @@
+{
+  "name": "cds-kb-mcp",
+  "description": "A dataless MCP server that searches the SAP CDS knowledge base, allowing users to query view metadata and retrieve full view details using local or remote data sources.",
+  "source_repo": "truongdva2/cds-kb-mcp",
+  "source_url": "https://github.com/truongdva2/cds-kb-mcp",
+  "install": "npx -y cds-kb-mcp"
+}

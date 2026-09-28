@@ -1,0 +1,7 @@
+{
+  "name": "cursor-agent-bridge",
+  "description": "Enables MCP clients like Claude Code to delegate coding tasks to the local Cursor Agent CLI, with persistent per-workspace sessions that resume across calls.",
+  "source_repo": "cybas/cursor-agent-bridge",
+  "source_url": "https://github.com/cybas/cursor-agent-bridge",
+  "install": "# git clone --depth 1 https://github.com/cybas/cursor-agent-bridge\n# See source for mcpServers config block"
+}

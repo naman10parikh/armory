@@ -1,0 +1,7 @@
+{
+  "name": "hw-verify-mcp",
+  "description": "Enables AI agents to formally verify constant-time, masking, and patch completeness properties of Verilog hardware designs, providing concrete leakage signals and next-step guidance.",
+  "source_repo": "nickharris808/hw-verify-mcp",
+  "source_url": "https://github.com/nickharris808/hw-verify-mcp",
+  "install": "npx -y hw-verify-mcp"
+}

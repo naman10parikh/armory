@@ -1,0 +1,7 @@
+{
+  "name": "klayout-draw-mcp",
+  "description": "Enables AI assistants to create, edit, and view GDS layout files using KLayout, with tools for basic shapes and scripting.",
+  "source_repo": "geniuskey/klayout-draw-mcp",
+  "source_url": "https://github.com/geniuskey/klayout-draw-mcp",
+  "install": "npx -y klayout-draw-mcp"
+}

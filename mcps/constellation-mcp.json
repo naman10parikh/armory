@@ -1,0 +1,7 @@
+{
+  "name": "constellation-mcp",
+  "description": "Exposes the five Enternovate security tools as 23 Model Context Protocol tools, enabling agents to scan attack surfaces, query knowledge graphs, audit websites, check email security, and run POPIA compliance assessments via a single MCP connection.",
+  "source_repo": "enternovate/constellation-mcp",
+  "source_url": "https://github.com/enternovate/constellation-mcp",
+  "install": "npx -y constellation-mcp"
+}

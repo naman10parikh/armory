@@ -1,0 +1,7 @@
+{
+  "name": "adi-mcp-server",
+  "description": "Enables LLMs to fetch real-time weather data for any city and perform basic arithmetic operations like addition.",
+  "source_repo": "adityapatel143/GenAi_mcp",
+  "source_url": "https://github.com/adityapatel143/GenAi_mcp",
+  "install": "npx -y GenAi_mcp"
+}

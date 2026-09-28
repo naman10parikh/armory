@@ -1,0 +1,7 @@
+{
+  "name": "campspot-mcp",
+  "description": "Enables AI agents to query and manage campground reservations, sites, and rate plans via the Campspot Online Booking API.",
+  "source_repo": "sanjibani/campspot-mcp",
+  "source_url": "https://github.com/sanjibani/campspot-mcp",
+  "install": "npx -y campspot-mcp"
+}

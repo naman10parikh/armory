@@ -1,0 +1,7 @@
+{
+  "name": "fxabsolute-mcp",
+  "description": "MCP server that connects coding agents to FXAbsolute's candle history, offering tools to query OHLC data, session scans, bucket stats, level touches, and a live chart bridge for backtesting collaboration.",
+  "source_repo": "varsansri/fxabsolute-mcp",
+  "source_url": "https://github.com/varsansri/fxabsolute-mcp",
+  "install": "npx -y fxabsolute-mcp"
+}

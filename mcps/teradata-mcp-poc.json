@@ -1,0 +1,7 @@
+{
+  "name": "teradata-mcp-poc",
+  "description": "Enables natural language interaction with Teradata databases through Claude, allowing data exploration, profiling, and in-database KMeans clustering via MCP.",
+  "source_repo": "hanaahammad/teradata-mcp-poc",
+  "source_url": "https://github.com/hanaahammad/teradata-mcp-poc",
+  "install": "# git clone --depth 1 https://github.com/hanaahammad/teradata-mcp-poc\n# See source for mcpServers config block"
+}

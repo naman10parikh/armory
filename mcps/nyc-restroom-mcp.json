@@ -1,0 +1,7 @@
+{
+  "name": "nyc-restroom-mcp",
+  "description": "Enables AI assistants to find and get status of NYC public restrooms using live NYC Open Data, including hours, accessibility, and inspection reports.",
+  "source_repo": "DanielOrtiz0220/nyc-restroom-mcp",
+  "source_url": "https://github.com/DanielOrtiz0220/nyc-restroom-mcp",
+  "install": "npx -y nyc-restroom-mcp"
+}

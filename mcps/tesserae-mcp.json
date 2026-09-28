@@ -1,0 +1,7 @@
+{
+  "name": "tesserae-mcp",
+  "description": "Enables AI agents to build freeform dashboards for e-ink panels by listing widgets and devices, laying out a canvas, rendering a preview, and pushing to the panel.",
+  "source_repo": "dmellok/tesserae-mcp",
+  "source_url": "https://github.com/dmellok/tesserae-mcp",
+  "install": "npx -y tesserae-mcp"
+}

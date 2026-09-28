@@ -1,0 +1,7 @@
+{
+  "name": "smartfarm-mcp",
+  "description": "Wraps the Smart Farm Korea Open API into MCP tools, allowing LLMs to query farm environment data using friendly metric names like temperature, humidity, and CO2.",
+  "source_repo": "k821209/smartfarm-mcp",
+  "source_url": "https://github.com/k821209/smartfarm-mcp",
+  "install": "npx -y smartfarm-mcp"
+}

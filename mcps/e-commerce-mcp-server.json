@@ -1,0 +1,7 @@
+{
+  "name": "e-commerce-mcp-server",
+  "description": "Enables AI assistants to manage products, shopping carts, and orders in an online store through a well-defined MCP API.",
+  "source_repo": "bhavik-dreamz/ecommerce-mcp-server",
+  "source_url": "https://github.com/bhavik-dreamz/ecommerce-mcp-server",
+  "install": "npx -y ecommerce-mcp-server"
+}

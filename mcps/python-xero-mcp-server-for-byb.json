@@ -1,0 +1,7 @@
+{
+  "name": "python-xero-mcp-server-for-byb",
+  "description": "Enables interaction with Xero accounting API for financial reporting, sales analysis, grant tracking, and bill management using natural language.",
+  "source_repo": "BackyardBrains/mcp.backyardbrains.com",
+  "source_url": "https://github.com/BackyardBrains/mcp.backyardbrains.com",
+  "install": "# git clone --depth 1 https://github.com/BackyardBrains/mcp.backyardbrains.com\n# See source for mcpServers config block"
+}

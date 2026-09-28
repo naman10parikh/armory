@@ -1,0 +1,7 @@
+{
+  "name": "triage-mcp",
+  "description": "Enables LLMs to triage GitHub issues by retrieving similar reported issues and classifying components using historical data.",
+  "source_repo": "architect-34/triage-mcp",
+  "source_url": "https://github.com/architect-34/triage-mcp",
+  "install": "npx -y triage-mcp"
+}

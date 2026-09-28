@@ -1,0 +1,7 @@
+{
+  "name": "grok-plugin-codex",
+  "description": "An MCP server that exposes the local Grok CLI to Codex for bounded repo work, reviews, rescue analysis, adversarial checks, session listing/export, and background job management while keeping Codex hidden context out of scope.",
+  "source_repo": "handong66/grok-plugin-codex",
+  "source_url": "https://github.com/handong66/grok-plugin-codex",
+  "install": "# git clone --depth 1 https://github.com/handong66/grok-plugin-codex\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "authentik-mcp",
+  "description": "MCP server for Authentik identity provider enabling management of users, groups, apps, tokens, flows, and policy bindings through natural language.",
+  "source_repo": "nikitatsym/authentik-mcp",
+  "source_url": "https://github.com/nikitatsym/authentik-mcp",
+  "install": "npx -y authentik-mcp"
+}

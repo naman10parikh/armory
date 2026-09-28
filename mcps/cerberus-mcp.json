@@ -1,0 +1,7 @@
+{
+  "name": "cerberus-mcp",
+  "description": "An MCP server that provides ultra-efficient code exploration through AST analysis, reducing LLM token usage by up to 95% while enabling instant call graph generation and dependency analysis for massive codebases.",
+  "source_repo": "Undermybelt/skill-cerberus-mcp",
+  "source_url": "https://github.com/Undermybelt/skill-cerberus-mcp",
+  "install": "npx -y skill-cerberus-mcp"
+}

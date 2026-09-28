@@ -1,0 +1,7 @@
+{
+  "name": "neo0-mcp-server",
+  "description": "A coordinate-based semantic addressing system for AI agents, providing tools to derive immutable addresses, search concepts, and manage personae via the Model Context Protocol.",
+  "source_repo": "Neo0ai/neo0-mcp",
+  "source_url": "https://github.com/Neo0ai/neo0-mcp",
+  "install": "npx -y neo0-mcp"
+}

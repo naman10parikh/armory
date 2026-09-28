@@ -1,0 +1,7 @@
+{
+  "name": "pic-id-mcp",
+  "description": "Local vision-capable MCP server that lets AI agents describe screenshots, UI, charts, and photos via vision and OCR tools, with support for multiple providers and automatic fallback.",
+  "source_repo": "HaoyueQin/picture-identification-MCP",
+  "source_url": "https://github.com/HaoyueQin/picture-identification-MCP",
+  "install": "npx -y picture-identification-MCP"
+}

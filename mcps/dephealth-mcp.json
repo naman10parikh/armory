@@ -1,0 +1,7 @@
+{
+  "name": "dephealth-mcp",
+  "description": "Dependency security & health auditing for AI agents with no account or API key required.",
+  "source_repo": "hasarahman/dephealth-mcp",
+  "source_url": "https://github.com/hasarahman/dephealth-mcp",
+  "install": "npx -y dephealth-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "built-online-podcast-command-center",
+  "description": "Provides AI tools with direct read access to the Built Online Podcast Command Center data, enabling validation, recommendations, and visibility of missing data without guessing.",
+  "source_repo": "built-online/built-online-podcast-command-center",
+  "source_url": "https://github.com/built-online/built-online-podcast-command-center",
+  "install": "# git clone --depth 1 https://github.com/built-online/built-online-podcast-command-center\n# See source for mcpServers config block"
+}

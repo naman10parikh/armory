@@ -1,0 +1,7 @@
+{
+  "name": "ashar-exchange-mcp-server",
+  "description": "Enables AI agents to perform PIX to USDC/USDT exchange operations via the Ashar Exchange API, including quotes, payins, payouts, transfers, wallet management, bank accounts, stats, customers, and admin provisioning.",
+  "source_repo": "AsharFinance/AsharExchangeMCP",
+  "source_url": "https://github.com/AsharFinance/AsharExchangeMCP",
+  "install": "# git clone --depth 1 https://github.com/AsharFinance/AsharExchangeMCP\n# See source for mcpServers config block"
+}

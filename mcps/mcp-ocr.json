@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ocr",
+  "description": "Modular OCR MCP server supporting Apple Vision, PaddleOCR, and PaddleOCR-VL backends. Enables text, layout, table, formula, and chart extraction from images via natural language.",
+  "source_repo": "timaliev/mcp_ocr",
+  "source_url": "https://github.com/timaliev/mcp_ocr",
+  "install": "# git clone --depth 1 https://github.com/timaliev/mcp_ocr\n# See source for mcpServers config block"
+}

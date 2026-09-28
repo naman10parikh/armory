@@ -1,0 +1,7 @@
+{
+  "name": "email-mcp-plus",
+  "description": "An MCP server for Microsoft Graph email that uses $filter instead of $search, allowing filtered email searches with sorting. It reuses the existing email-mcp authentication and provides tools for searching, listing folders, and retrieving email content.",
+  "source_repo": "idea404/email-mcp-plus",
+  "source_url": "https://github.com/idea404/email-mcp-plus",
+  "install": "# git clone --depth 1 https://github.com/idea404/email-mcp-plus\n# See source for mcpServers config block"
+}

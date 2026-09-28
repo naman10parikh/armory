@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-mcp-4",
+  "description": "Wraps the official Obsidian CLI to expose vault tools for MCP clients, enabling note management, search, tasks, properties, and more through Obsidian's internal API.",
+  "source_repo": "fodaveg/obsidian-mcp",
+  "source_url": "https://github.com/fodaveg/obsidian-mcp",
+  "install": "npx -y obsidian-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-mcp-bridge",
+  "description": "Enables Obsidian vault to act as an MCP server for Claude and as an MCP client to external servers like MCP ANA PJe, allowing seamless interaction between notes and legal case systems.",
+  "source_repo": "Jorgelaw/obsidian-mcp-ana",
+  "source_url": "https://github.com/Jorgelaw/obsidian-mcp-ana",
+  "install": "# git clone --depth 1 https://github.com/Jorgelaw/obsidian-mcp-ana\n# See source for mcpServers config block"
+}

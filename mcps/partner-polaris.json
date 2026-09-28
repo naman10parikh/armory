@@ -1,0 +1,7 @@
+{
+  "name": "partner-polaris",
+  "description": "Enables AI assistants to query, calculate, and benchmark AWS Partner Polaris training depth levels using CSV data.",
+  "source_repo": "twkim1122/polaris_mcp",
+  "source_url": "https://github.com/twkim1122/polaris_mcp",
+  "install": "npx -y polaris_mcp"
+}

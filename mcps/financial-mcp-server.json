@@ -1,0 +1,7 @@
+{
+  "name": "financial-mcp-server",
+  "description": "Provides financial data extraction, calculation, and analysis from XML files via a FastMCP server, integrated with a Streamlit frontend and local LLM for secure corporate data handling.",
+  "source_repo": "Djampman/Stage_MCP_Server",
+  "source_url": "https://github.com/Djampman/Stage_MCP_Server",
+  "install": "npx -y Stage_MCP_Server"
+}

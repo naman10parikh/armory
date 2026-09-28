@@ -1,0 +1,7 @@
+{
+  "name": "vaikora-guard-mcp",
+  "description": "Enforces deterministic policies on AI agent tool calls, evaluating actions against compliance modules (SOC 2, HIPAA, GDPR, etc.) and returning ALLOW, BLOCK, or CONSTRAIN decisions with an audit trail.",
+  "source_repo": "Data443/vaikora-guard-mcp",
+  "source_url": "https://github.com/Data443/vaikora-guard-mcp",
+  "install": "npx -y vaikora-guard-mcp"
+}

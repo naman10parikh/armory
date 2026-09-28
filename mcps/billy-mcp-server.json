@@ -1,0 +1,7 @@
+{
+  "name": "billy-mcp-server",
+  "description": "Integrates Billy's accounting system with MCP, providing tools to manage invoices, contacts, products, payments, and more via natural language.",
+  "source_repo": "markhm/billy-mcp-server",
+  "source_url": "https://github.com/markhm/billy-mcp-server",
+  "install": "npx -y billy-mcp-server"
+}

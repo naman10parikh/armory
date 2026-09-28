@@ -1,0 +1,7 @@
+{
+  "name": "skycut",
+  "description": "Local-first MCP server that turns raw drone footage into a polished marketing cut through conversational interaction with Claude.",
+  "source_repo": "smhunt/skycut-drone-video-pipeline",
+  "source_url": "https://github.com/smhunt/skycut-drone-video-pipeline",
+  "install": "# git clone --depth 1 https://github.com/smhunt/skycut-drone-video-pipeline\n# See source for mcpServers config block"
+}

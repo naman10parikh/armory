@@ -1,0 +1,7 @@
+{
+  "name": "polish-law-mcp",
+  "description": "MCP server providing access to Polish law statutes, provisions, case law, and EU law integrations, enabling natural language legal research, citation validation, and cross-referencing.",
+  "source_repo": "Ansvar-Systems/polish-law-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/polish-law-mcp",
+  "install": "npx -y polish-law-mcp"
+}

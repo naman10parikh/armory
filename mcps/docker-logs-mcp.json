@@ -1,0 +1,7 @@
+{
+  "name": "docker-logs-mcp",
+  "description": "MCP server for viewing Docker container logs on a remote VPS via SSH.",
+  "source_repo": "TDHster/docker-logs-mcp",
+  "source_url": "https://github.com/TDHster/docker-logs-mcp",
+  "install": "npx -y docker-logs-mcp"
+}

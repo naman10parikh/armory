@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-local-files",
-  "description": "Mcp_server_local_files MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "psahdev32/mcp_server_local_files",
   "source_url": "https://mcp.so/server/mcp_server_local_files/psahdev32",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp_server_local_files/psahdev32\n# See source for mcpServers config block"

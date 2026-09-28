@@ -1,0 +1,7 @@
+{
+  "name": "dsh-plugin-xquant",
+  "description": "Integrates xquant's quantitative research MCP into DeepSeek Harness, enabling querying of factors, strategy logic, and historical data with research guidance for interpreting results.",
+  "source_repo": "codingDuan/dsh-plugin-xquant",
+  "source_url": "https://github.com/codingDuan/dsh-plugin-xquant",
+  "install": "# git clone --depth 1 https://github.com/codingDuan/dsh-plugin-xquant\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cituna-mcp-server",
+  "description": "Brings Cituna's AI visibility tracking, audits, and Google Search Console data into Claude via MCP.",
+  "source_repo": "Cituna/cituna-mcp",
+  "source_url": "https://github.com/Cituna/cituna-mcp",
+  "install": "npx -y cituna-mcp"
+}

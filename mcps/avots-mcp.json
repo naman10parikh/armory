@@ -1,0 +1,7 @@
+{
+  "name": "avots-mcp",
+  "description": "Hosted multi-model AI media + chat MCP server. Generates images, video, audio, face-swaps and talking-avatars, and chats across 300+ models (Claude, GPT, Gemini, DeepSeek…) - all from one balance and one API key.",
+  "source_repo": "avotsai/avots-mcp",
+  "source_url": "https://github.com/avotsai/avots-mcp",
+  "install": "npx -y avots-mcp"
+}

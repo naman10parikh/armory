@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-openchargemap-mcp-server",
+  "description": "Find EV charging stations by location and connector, get full station detail, resolve reference IDs, and read community reliability check-ins via MCP.",
+  "source_repo": "cyanheads/openchargemap-mcp-server",
+  "source_url": "https://github.com/cyanheads/openchargemap-mcp-server",
+  "install": "npx -y openchargemap-mcp-server"
+}

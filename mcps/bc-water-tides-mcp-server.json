@@ -1,0 +1,7 @@
+{
+  "name": "bc-water-tides-mcp-server",
+  "description": "Provides Canadian tide predictions from the IWLS API, enabling retrieval of 7-day tide forecasts and station listings for monitoring stations across Canada.",
+  "source_repo": "kykoay/BCTideMCPServerLocal",
+  "source_url": "https://github.com/kykoay/BCTideMCPServerLocal",
+  "install": "# git clone --depth 1 https://github.com/kykoay/BCTideMCPServerLocal\n# See source for mcpServers config block"
+}

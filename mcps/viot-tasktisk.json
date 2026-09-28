@@ -1,0 +1,7 @@
+{
+  "name": "viot-tasktisk",
+  "description": "MCP server for qlda-viot task tracking, providing tools to view dashboard, update work, get item details, and add tasks via natural language.",
+  "source_repo": "Iot-Viet-Solution/viot-tasktisk",
+  "source_url": "https://github.com/Iot-Viet-Solution/viot-tasktisk",
+  "install": "# git clone --depth 1 https://github.com/Iot-Viet-Solution/viot-tasktisk\n# See source for mcpServers config block"
+}

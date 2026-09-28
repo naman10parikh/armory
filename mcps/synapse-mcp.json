@@ -1,0 +1,7 @@
+{
+  "name": "synapse-mcp",
+  "description": "A Model Context Protocol (MCP) server that enables AI agent access to Synapse entities such as Datasets, Projects, Folders, Files, Tables, and more.",
+  "source_repo": "Sage-Bionetworks/synapse-mcp",
+  "source_url": "https://github.com/Sage-Bionetworks/synapse-mcp",
+  "install": "npx -y synapse-mcp"
+}

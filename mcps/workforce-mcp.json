@@ -1,0 +1,7 @@
+{
+  "name": "workforce-mcp",
+  "description": "Provides specialist context for AI agents, enabling them to work as different roles (UI, DE, SRE, etc.) through MCP prompts and tools.",
+  "source_repo": "Saaalil/Workforce-MCP",
+  "source_url": "https://github.com/Saaalil/Workforce-MCP",
+  "install": "npx -y Workforce-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "idh",
+  "description": "Enables AI agents to discover and interact with iOS apps through a local MCP gateway, converting remote Streamable HTTP MCP endpoints into stdio tools. Provides dynamic device discovery, tool schema introspection, and deterministic tool calling for app analysis.",
+  "source_repo": "taisuii/idh",
+  "source_url": "https://github.com/taisuii/idh",
+  "install": "# git clone --depth 1 https://github.com/taisuii/idh\n# See source for mcpServers config block"
+}

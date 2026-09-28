@@ -1,0 +1,7 @@
+{
+  "name": "mcp-schrodingers-boolean",
+  "description": "Enables asking yes/no questions and receiving quantum superposition answers (both true and false simultaneously), with optional cat mode for absurdist responses.",
+  "source_repo": "pipeworx-io/mcp-schrodingers-boolean",
+  "source_url": "https://github.com/pipeworx-io/mcp-schrodingers-boolean",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-schrodingers-boolean\n# See source for mcpServers config block"
+}

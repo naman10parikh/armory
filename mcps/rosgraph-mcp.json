@@ -1,0 +1,7 @@
+{
+  "name": "rosgraph-mcp",
+  "description": "Provides ROS2 workspace graph knowledge including package dependencies, message/service/action definitions, and topic pub/sub relationships through MCP tools.",
+  "source_repo": "kimurariku/rosgraph-mcp",
+  "source_url": "https://github.com/kimurariku/rosgraph-mcp",
+  "install": "npx -y rosgraph-mcp"
+}

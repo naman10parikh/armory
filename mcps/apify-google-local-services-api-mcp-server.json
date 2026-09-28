@@ -1,0 +1,7 @@
+{
+  "name": "apify-google-local-services-api-mcp-server",
+  "description": "Retrieves vetted Local Services Ads businesses (Google Guaranteed or Screened) as clean JSON for any service and US city, enabling lead generation, local SEO monitoring, and competitor tracking.",
+  "source_repo": "johnisanerd/Apify-GoogleLocalServices-API",
+  "source_url": "https://github.com/johnisanerd/Apify-GoogleLocalServices-API",
+  "install": "# git clone --depth 1 https://github.com/johnisanerd/Apify-GoogleLocalServices-API\n# See source for mcpServers config block"
+}

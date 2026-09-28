@@ -1,0 +1,7 @@
+{
+  "name": "loom",
+  "description": "Provides persistent identity and memory for AI agents across MCP-compatible harnesses, enabling agents to retain their name, values, and episodic memories between sessions regardless of the client or model.",
+  "source_repo": "jbarket/loom",
+  "source_url": "https://github.com/jbarket/loom",
+  "install": "# git clone --depth 1 https://github.com/jbarket/loom\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentkit-mesh",
+  "description": "Enables agent-to-agent discovery and delegation via MCP, with tools for registering agents, discovering them by keyword matching, and delegating tasks over HTTP.",
+  "source_repo": "agentkitai/agentkit-mesh",
+  "source_url": "https://github.com/agentkitai/agentkit-mesh",
+  "install": "# git clone --depth 1 https://github.com/agentkitai/agentkit-mesh\n# See source for mcpServers config block"
+}

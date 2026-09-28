@@ -1,0 +1,7 @@
+{
+  "name": "mcp-hashlib",
+  "description": "Enables LLMs to compute cryptographic hashes and perform key derivation functions using Python's hashlib library.",
+  "source_repo": "daedalus/mcp-hashlib",
+  "source_url": "https://github.com/daedalus/mcp-hashlib",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-hashlib\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sqlserver-readonly",
+  "description": "Read-only SQL Server MCP server enabling safe database queries, table listing, and schema inspection with built-in security protections.",
+  "source_repo": "gbfeliped/mcp-sqlserver-readonly",
+  "source_url": "https://github.com/gbfeliped/mcp-sqlserver-readonly",
+  "install": "# git clone --depth 1 https://github.com/gbfeliped/mcp-sqlserver-readonly\n# See source for mcpServers config block"
+}

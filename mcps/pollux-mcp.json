@@ -1,0 +1,7 @@
+{
+  "name": "pollux-mcp",
+  "description": "MCP server for local-first project memory, enabling AI agents to log, search, and retrieve structured project history, summaries, and per-file dossiers with client-specific configuration and diagnostics.",
+  "source_repo": "Wsyjq/pollux",
+  "source_url": "https://github.com/Wsyjq/pollux",
+  "install": "# git clone --depth 1 https://github.com/Wsyjq/pollux\n# See source for mcpServers config block"
+}

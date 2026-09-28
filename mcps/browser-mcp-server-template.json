@@ -1,0 +1,7 @@
+{
+  "name": "browser-mcp-server-template",
+  "description": "A browser automation MCP server with stealth mode, profile management, and multi-browser support, enabling LLMs to control browsers for tasks like navigation, data extraction, and form filling.",
+  "source_repo": "ZuccaMuka/browser-mcp-server",
+  "source_url": "https://github.com/ZuccaMuka/browser-mcp-server",
+  "install": "npx -y browser-mcp-server"
+}

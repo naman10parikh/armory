@@ -1,0 +1,7 @@
+{
+  "name": "datastax-opscenter-mcp-server",
+  "description": "Enables monitoring and management of Apache Cassandra and DataStax Enterprise clusters through the DataStax OpsCenter API, providing tools for cluster metrics, node monitoring, schema access, and event tracking.",
+  "source_repo": "sangeethdba/datastax-opscenter-mcp-server",
+  "source_url": "https://github.com/sangeethdba/datastax-opscenter-mcp-server",
+  "install": "npx -y datastax-opscenter-mcp-server"
+}

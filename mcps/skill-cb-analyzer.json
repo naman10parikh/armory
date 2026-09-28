@@ -1,0 +1,7 @@
+{
+  "name": "skill-cb-analyzer",
+  "description": "Enables AI agents to run comprehensive Chinese convertible bond analysis with 21 signal detectors, option pricing, and backtest reports.",
+  "source_repo": "fuwentao03/skill-cb-analyzer",
+  "source_url": "https://github.com/fuwentao03/skill-cb-analyzer",
+  "install": "# git clone --depth 1 https://github.com/fuwentao03/skill-cb-analyzer\n# See source for mcpServers config block"
+}

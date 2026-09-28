@@ -1,0 +1,7 @@
+{
+  "name": "wecom-crm-mcp",
+  "description": "MCP server for WeCom customer contact API, enabling LLMs to manage customers, tags, group chats, moments, and mass-send messages.",
+  "source_repo": "andyleimc-source/wecom-crm-mcp",
+  "source_url": "https://github.com/andyleimc-source/wecom-crm-mcp",
+  "install": "npx -y wecom-crm-mcp"
+}

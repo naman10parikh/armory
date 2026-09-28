@@ -1,0 +1,7 @@
+{
+  "name": "github-mcp-2",
+  "description": "Provides four GitHub superpowers (repo-scorecard, compare-repos, commit-heatmap, trending-mcp) as MCP tools with React widgets for repository health analysis, comparison, commit activity visualization, and trending MCP servers.",
+  "source_repo": "aaryanptl/github-mcp",
+  "source_url": "https://github.com/aaryanptl/github-mcp",
+  "install": "npx -y github-mcp"
+}

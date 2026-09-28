@@ -1,0 +1,7 @@
+{
+  "name": "kedoupi-yapi-mcp",
+  "description": "Enables AI tools to search, create, update, and manage YApi API interfaces, projects, and categories through natural language.",
+  "source_repo": "kedoupi/yapi-mcp",
+  "source_url": "https://github.com/kedoupi/yapi-mcp",
+  "install": "npx -y yapi-mcp"
+}

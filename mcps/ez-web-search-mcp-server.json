@@ -1,0 +1,7 @@
+{
+  "name": "ez-web-search-mcp-server",
+  "description": "A simple MCP server that provides web search functionality via DuckDuckGo, returning titles, URLs, and descriptions for results. Configurable result limit.",
+  "source_repo": "Gnarus-G/ez-web-search-mcp",
+  "source_url": "https://github.com/Gnarus-G/ez-web-search-mcp",
+  "install": "npx -y ez-web-search-mcp"
+}

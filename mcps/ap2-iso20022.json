@@ -1,0 +1,7 @@
+{
+  "name": "ap2-iso20022",
+  "description": "Bridges AP2 and x402 payment mandates into ISO 20022 pain.001/pacs.008 records with spending-cap, expiry and authorisation guardrails, via an MCP server.",
+  "source_repo": "sebastienrousseau/ap2-iso20022",
+  "source_url": "https://github.com/sebastienrousseau/ap2-iso20022",
+  "install": "# git clone --depth 1 https://github.com/sebastienrousseau/ap2-iso20022\n# See source for mcpServers config block"
+}

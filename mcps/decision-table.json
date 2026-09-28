@@ -1,0 +1,7 @@
+{
+  "name": "decision-table",
+  "description": "Provides deterministic decision and constraint evaluation for AI agents. Supports ruleset validation, fact evaluation, and constraint checking via MCP tools.",
+  "source_repo": "tetracoralla/decision-table",
+  "source_url": "https://github.com/tetracoralla/decision-table",
+  "install": "# git clone --depth 1 https://github.com/tetracoralla/decision-table\n# See source for mcpServers config block"
+}

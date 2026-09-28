@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ftp-server",
+  "description": "Enables FTP file operations such as upload, download, list, and delete directly from Claude Desktop or Claude CLI.",
+  "source_repo": "rhayalcantara/mcp-ftp-server",
+  "source_url": "https://github.com/rhayalcantara/mcp-ftp-server",
+  "install": "# git clone --depth 1 https://github.com/rhayalcantara/mcp-ftp-server\n# See source for mcpServers config block"
+}

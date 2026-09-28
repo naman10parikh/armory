@@ -1,0 +1,7 @@
+{
+  "name": "agenthost-mcp-server",
+  "description": "Agent-first web hosting driven entirely through a remote MCP server, enabling full hosting management via natural language with OAuth or token authentication.",
+  "source_repo": "AgenthostEU/agenthost-mcp",
+  "source_url": "https://github.com/AgenthostEU/agenthost-mcp",
+  "install": "npx -y agenthost-mcp"
+}

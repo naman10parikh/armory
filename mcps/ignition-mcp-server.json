@@ -1,0 +1,7 @@
+{
+  "name": "ignition-mcp-server",
+  "description": "The first AI-powered development tool for Ignition SCADA — an MCP server that lets any AI agent read, understand, and interact with your Ignition projects and gateways.",
+  "source_repo": "Nodeblue-AI/ignition-mcp-server",
+  "source_url": "https://github.com/Nodeblue-AI/ignition-mcp-server",
+  "install": "npx -y ignition-mcp-server"
+}

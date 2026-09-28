@@ -1,6 +1,6 @@
 {
   "name": "mult-fetch-mcp-server",
-  "description": "Mult Fetch Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "lmcc-dev/mult-fetch-mcp-server",
   "source_url": "https://mcp.so/server/mult-fetch-mcp-server/lmcc-dev",
   "install": "npx -y mult-fetch-mcp-server"

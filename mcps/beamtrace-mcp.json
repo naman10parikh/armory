@@ -1,0 +1,7 @@
+{
+  "name": "beamtrace-mcp",
+  "description": "Connects AI assistants to Beamtrace's remote MCP for read-only visibility insights, offering tools to retrieve visibility scores, topic rollups, prompt metrics, competitor leaderboards, and content improvement suggestions.",
+  "source_repo": "elfsight/beamtrace-mcp",
+  "source_url": "https://github.com/elfsight/beamtrace-mcp",
+  "install": "npx -y beamtrace-mcp"
+}

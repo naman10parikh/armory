@@ -1,0 +1,7 @@
+{
+  "name": "collegia-mcp",
+  "description": "Enables teachers to use AI agents for lesson preparation, grading, and administrative tasks through tools for class averages, school resources, and assessment prompts.",
+  "source_repo": "Hmkhalla/collegia-mcp",
+  "source_url": "https://github.com/Hmkhalla/collegia-mcp",
+  "install": "npx -y collegia-mcp"
+}

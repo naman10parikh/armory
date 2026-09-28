@@ -1,0 +1,7 @@
+{
+  "name": "kanban-zone-mcp-server",
+  "description": "Enables AI assistants to manage Kanban Zone workspaces via 23 tools for boards, cards, comments, checklists, and tasks.",
+  "source_repo": "kanbanzone/kanban-zone-mcp-server",
+  "source_url": "https://github.com/kanbanzone/kanban-zone-mcp-server",
+  "install": "npx -y kanban-zone-mcp-server"
+}

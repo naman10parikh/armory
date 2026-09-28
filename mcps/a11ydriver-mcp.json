@@ -1,0 +1,7 @@
+{
+  "name": "a11ydriver-mcp",
+  "description": "MCP server that enables AI agents to control Chrome via DevTools CDP and accessibility trees, providing 21 tools for browser automation including tab management, navigation, interactions, and page capture.",
+  "source_repo": "idugeni/a11ydriver-mcp",
+  "source_url": "https://github.com/idugeni/a11ydriver-mcp",
+  "install": "npx -y a11ydriver-mcp"
+}

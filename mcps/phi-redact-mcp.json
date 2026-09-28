@@ -1,0 +1,7 @@
+{
+  "name": "phi-redact-mcp",
+  "description": "An MCP server that redacts PII/PHI from text before it ever reaches an LLM — self-hosted, fail-closed, and HIPAA-aware.",
+  "source_repo": "Rinava/phi-mcp",
+  "source_url": "https://github.com/Rinava/phi-mcp",
+  "install": "npx -y phi-mcp"
+}

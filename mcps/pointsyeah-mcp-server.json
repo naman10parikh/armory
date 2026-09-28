@@ -1,0 +1,7 @@
+{
+  "name": "pointsyeah-mcp-server",
+  "description": "Enables award flight search across 20+ airline programs using PointsYeah, with tools for comparing programs, estimating points value, and checking redemption deals.",
+  "source_repo": "kevin0195/pointsyeahMCP",
+  "source_url": "https://github.com/kevin0195/pointsyeahMCP",
+  "install": "# git clone --depth 1 https://github.com/kevin0195/pointsyeahMCP\n# See source for mcpServers config block"
+}

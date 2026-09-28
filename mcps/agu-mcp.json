@@ -1,0 +1,7 @@
+{
+  "name": "agu-mcp",
+  "description": "查询和分析A股数据的MCP服务器，支持实时行情、K线、技术指标、基本面和AI选股等功能。",
+  "source_repo": "lzw-wo/agu-mcp",
+  "source_url": "https://github.com/lzw-wo/agu-mcp",
+  "install": "npx -y agu-mcp"
+}

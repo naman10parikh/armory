@@ -1,0 +1,7 @@
+{
+  "name": "moa365-mcp-proxy",
+  "description": "MCP proxy server for Moa365 AI budgeting app, enabling expense recording, monthly summaries, and recent expense listing through natural language.",
+  "source_repo": "aitrendmaster/moa365-mcp-proxy",
+  "source_url": "https://github.com/aitrendmaster/moa365-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/aitrendmaster/moa365-mcp-proxy\n# See source for mcpServers config block"
+}

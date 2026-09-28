@@ -1,0 +1,7 @@
+{
+  "name": "satelia-mcp-starter",
+  "description": "A minimal TypeScript MCP starter server that counts words and characters, ready to extend with custom tools.",
+  "source_repo": "Para-FR/satelia-mcp-starter",
+  "source_url": "https://github.com/Para-FR/satelia-mcp-starter",
+  "install": "# git clone --depth 1 https://github.com/Para-FR/satelia-mcp-starter\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "abap-mcp",
+  "description": "An offline MCP server for SAP ABAP that provides static analysis, ABAP Cloud readiness checks, and RAP scaffolding using abaplint, enabling AI agents to analyze and generate ABAP code without a live SAP system.",
+  "source_repo": "palimkarakshay/abap-mcp",
+  "source_url": "https://github.com/palimkarakshay/abap-mcp",
+  "install": "npx -y abap-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "menhir",
+  "description": "Provides coding agents with governed semantic memory and code-graph context via MCP, enabling code-linked recall, blast-radius impact analysis, and lifecycle-aware memory management.",
+  "source_repo": "Archolith/menhir",
+  "source_url": "https://github.com/Archolith/menhir",
+  "install": "# git clone --depth 1 https://github.com/Archolith/menhir\n# See source for mcpServers config block"
+}

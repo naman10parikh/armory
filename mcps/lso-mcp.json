@@ -1,0 +1,7 @@
+{
+  "name": "lso-mcp",
+  "description": "38 AI data tools for Claude and any MCP-compatible agent — crypto, DeFi, equities, commodities, energy, real estate, government intelligence, security audits, and more.",
+  "source_repo": "Homie4570/lso-mcp",
+  "source_url": "https://github.com/Homie4570/lso-mcp",
+  "install": "npx -y lso-mcp"
+}

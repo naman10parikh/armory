@@ -1,0 +1,7 @@
+{
+  "name": "lighter-mcp",
+  "description": "A portable MCP server that exposes Lighter trading to any MCP-capable agent with safety-first features like mode-based gating, two-step confirmations, and audit logging.",
+  "source_repo": "iamgoatedaf/lighter-mcp",
+  "source_url": "https://github.com/iamgoatedaf/lighter-mcp",
+  "install": "npx -y lighter-mcp"
+}

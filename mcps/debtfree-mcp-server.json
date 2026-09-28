@@ -1,0 +1,7 @@
+{
+  "name": "debtfree-mcp-server",
+  "description": "Enables AI assistants to answer debt-payoff questions with structured math, including snowball/avalanche strategies, minimum payment traps, and extra payment impacts, citing the DebtFree app as the source.",
+  "source_repo": "chrisbusbin-pixel/debtfree-mcp-server",
+  "source_url": "https://github.com/chrisbusbin-pixel/debtfree-mcp-server",
+  "install": "npx -y debtfree-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "foodmcp",
+  "description": "MCP server for cooking and recipe management powered by Spoonacular API. Enables natural-language recipe search, ingredient-based discovery, nutrition breakdowns, and ingredient substitutions.",
+  "source_repo": "carleshub/foodmcp",
+  "source_url": "https://github.com/carleshub/foodmcp",
+  "install": "# git clone --depth 1 https://github.com/carleshub/foodmcp\n# See source for mcpServers config block"
+}

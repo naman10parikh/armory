@@ -1,0 +1,7 @@
+{
+  "name": "bookorbit-mcp",
+  "description": "An MCP server that allows LLMs to read and search the text of ebooks from Book Orbit, using a navigation-first approach with chapter listing and paginated text retrieval.",
+  "source_repo": "joshstrange/bookorbit-mcp",
+  "source_url": "https://github.com/joshstrange/bookorbit-mcp",
+  "install": "npx -y bookorbit-mcp"
+}

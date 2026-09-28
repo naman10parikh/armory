@@ -1,0 +1,7 @@
+{
+  "name": "mcp-airtable",
+  "description": "Enables AI assistants to perform complete CRUD operations on Airtable bases, tables, records, fields, and comments, with batch processing and file attachment support, plus enterprise-grade reliability features.",
+  "source_repo": "delta-and-beta/mcp-airtable",
+  "source_url": "https://github.com/delta-and-beta/mcp-airtable",
+  "install": "# git clone --depth 1 https://github.com/delta-and-beta/mcp-airtable\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "linkforty-mcp-server",
+  "description": "Connects AI assistants like Claude and Cursor to LinkForty deep links and analytics, enabling natural language management of links, analytics, templates, projects, and SDK integration.",
+  "source_repo": "LinkForty/mcp-server",
+  "source_url": "https://github.com/LinkForty/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/LinkForty/mcp-server\n# See source for mcpServers config block"
+}

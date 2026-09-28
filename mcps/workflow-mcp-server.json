@@ -1,0 +1,7 @@
+{
+  "name": "workflow-mcp-server",
+  "description": "Guides agents through structured workflows with predefined steps, allowing for flexible execution via instructions and tool calls.",
+  "source_repo": "tuanknguyen/workflow-mcp-server",
+  "source_url": "https://github.com/tuanknguyen/workflow-mcp-server",
+  "install": "npx -y workflow-mcp-server"
+}

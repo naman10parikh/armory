@@ -1,0 +1,7 @@
+{
+  "name": "mt-eli-mcp",
+  "description": "Provides access to Maltese legislation via ELI coordinates, fetching metadata and full text from the official legislation.mt portal.",
+  "source_repo": "matematicsolutions/mt-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/mt-eli-mcp",
+  "install": "npx -y mt-eli-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fr-eli-mcp",
+  "description": "MCP server for querying French legislation and case law via the Legifrance API, enabling search and retrieval of laws, codes, and court decisions with verifiable citations.",
+  "source_repo": "matematicsolutions/fr-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/fr-eli-mcp",
+  "install": "npx -y fr-eli-mcp"
+}

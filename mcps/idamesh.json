@@ -1,0 +1,7 @@
+{
+  "name": "idamesh",
+  "description": "An MCP server that exposes IDA Pro's disassembler and Hex-Rays decompiler as tools and resources, enabling parallel binary analysis with multiple agents through a supervisor.",
+  "source_repo": "JordanRO2/idamesh",
+  "source_url": "https://github.com/JordanRO2/idamesh",
+  "install": "# git clone --depth 1 https://github.com/JordanRO2/idamesh\n# See source for mcpServers config block"
+}

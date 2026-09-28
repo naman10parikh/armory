@@ -1,0 +1,7 @@
+{
+  "name": "swarm-orchestrator",
+  "description": "An MCP server that extends AI coding assistants with deterministic, algorithmic capabilities such as code analysis, fault localization, and formal verification, enabling an autonomous engineering team within the IDE.",
+  "source_repo": "Of-Arte/swarm-orchestrator-mcp-deprecated-",
+  "source_url": "https://github.com/Of-Arte/swarm-orchestrator-mcp-deprecated-",
+  "install": "# git clone --depth 1 https://github.com/Of-Arte/swarm-orchestrator-mcp-deprecated-\n# See source for mcpServers config block"
+}

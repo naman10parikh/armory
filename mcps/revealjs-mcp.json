@@ -1,0 +1,7 @@
+{
+  "name": "revealjs-mcp",
+  "description": "MCP server for creating and managing reveal.js presentations via natural language, with built-in HTTP server to preview in browser.",
+  "source_repo": "kaelthas-invoker/reveal.js-mcp",
+  "source_url": "https://github.com/kaelthas-invoker/reveal.js-mcp",
+  "install": "npx -y reveal.js-mcp"
+}

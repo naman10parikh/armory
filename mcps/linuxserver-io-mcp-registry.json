@@ -1,0 +1,7 @@
+{
+  "name": "linuxserver-io-mcp-registry",
+  "description": "Enables searching LinuxServer.io images, auditing Docker Compose and run commands against documentation-derived conventions, and searching open/closed image requests to prepare drafts without submission.",
+  "source_repo": "blackoutsecure/linuxserver-mcp-registry",
+  "source_url": "https://github.com/blackoutsecure/linuxserver-mcp-registry",
+  "install": "# git clone --depth 1 https://github.com/blackoutsecure/linuxserver-mcp-registry\n# See source for mcpServers config block"
+}

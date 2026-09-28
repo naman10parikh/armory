@@ -1,0 +1,7 @@
+{
+  "name": "lumialex-mcp",
+  "description": "A Model Context Protocol server scaffold for building and deploying custom MCP tools using the mcp-framework.",
+  "source_repo": "mbernardi82/lumialex-mcp",
+  "source_url": "https://github.com/mbernardi82/lumialex-mcp",
+  "install": "npx -y lumialex-mcp"
+}

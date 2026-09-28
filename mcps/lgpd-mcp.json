@@ -1,0 +1,7 @@
+{
+  "name": "lgpd-mcp",
+  "description": "Assists organizations and developers with LGPD compliance by providing tools for legal basis validation, consent management, document templates, and data subject rights. Includes resources on ANPD, glossary, and legal foundations.",
+  "source_repo": "LordMendes/lgpd-mcp",
+  "source_url": "https://github.com/LordMendes/lgpd-mcp",
+  "install": "npx -y lgpd-mcp"
+}

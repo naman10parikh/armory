@@ -1,0 +1,7 @@
+{
+  "name": "mcp-acad-mico",
+  "description": "Assists in writing academic papers by extracting, organizing, and referencing scientific PDFs with ABNT formatting.",
+  "source_repo": "Werverton/mcp-academico",
+  "source_url": "https://github.com/Werverton/mcp-academico",
+  "install": "# git clone --depth 1 https://github.com/Werverton/mcp-academico\n# See source for mcpServers config block"
+}

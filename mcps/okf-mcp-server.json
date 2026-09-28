@@ -1,0 +1,7 @@
+{
+  "name": "okf-mcp-server",
+  "description": "Reusable, read-only MCP server that exposes a repo's knowledge files (backlog docs, decisions, design notes) as MCP resources over stdio.",
+  "source_repo": "dddpaul/okf-mcp-server",
+  "source_url": "https://github.com/dddpaul/okf-mcp-server",
+  "install": "npx -y okf-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "binance-mcp-demo",
+  "description": "A local stdio MCP server for Binance Spot, enabling users to query prices, manage orders, and check account info via natural language through the Hermes agent.",
+  "source_repo": "asyn18/binance-mcp-demo",
+  "source_url": "https://github.com/asyn18/binance-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/asyn18/binance-mcp-demo\n# See source for mcpServers config block"
+}

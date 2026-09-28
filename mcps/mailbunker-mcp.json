@@ -1,0 +1,7 @@
+{
+  "name": "mailbunker-mcp",
+  "description": "Zero-trust encrypted email archiving and search MCP server with real-time IMAP IDLE ingestion, AES-256-GCM encryption, SQLite FTS5 full-text search, and Obsidian vault export, exposing tools for AI assistants to search, retrieve, and manage emails.",
+  "source_repo": "cubetribe/Mailbunker_MCP",
+  "source_url": "https://github.com/cubetribe/Mailbunker_MCP",
+  "install": "npx -y Mailbunker_MCP"
+}

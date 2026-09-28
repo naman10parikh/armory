@@ -1,0 +1,7 @@
+{
+  "name": "pingcode-mcp",
+  "description": "Enables natural language reading and management of PingCode project work items (defects and requirements) through Cursor, Claude Code, Codex, and other clients.",
+  "source_repo": "frontendRicky/pingcode-mcp",
+  "source_url": "https://github.com/frontendRicky/pingcode-mcp",
+  "install": "npx -y pingcode-mcp"
+}

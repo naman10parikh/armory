@@ -1,0 +1,7 @@
+{
+  "name": "opencode-gui-bridge",
+  "description": "Enables AI assistants to control Windows GUI by listing and focusing windows, capturing element snapshots via UIA/OCR/CDP, performing clicks/inputs/scrolls, verifying changes, waiting for screen updates, taking screenshots, and obtaining visual descriptions.",
+  "source_repo": "Yueqi-Wang-795/opencode-gui-bridge",
+  "source_url": "https://github.com/Yueqi-Wang-795/opencode-gui-bridge",
+  "install": "# git clone --depth 1 https://github.com/Yueqi-Wang-795/opencode-gui-bridge\n# See source for mcpServers config block"
+}

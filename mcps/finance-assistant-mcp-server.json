@@ -1,0 +1,7 @@
+{
+  "name": "finance-assistant-mcp-server",
+  "description": "Provides real-time financial data including stock quotes, news, and market movers through a secure FastMCP gateway, enabling conversational finance queries.",
+  "source_repo": "Pyligent/Finance-Assistant-with-MCP-and-Langchain",
+  "source_url": "https://github.com/Pyligent/Finance-Assistant-with-MCP-and-Langchain",
+  "install": "# git clone --depth 1 https://github.com/Pyligent/Finance-Assistant-with-MCP-and-Langchain\n# See source for mcpServers config block"
+}

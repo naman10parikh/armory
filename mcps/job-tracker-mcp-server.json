@@ -1,0 +1,7 @@
+{
+  "name": "job-tracker-mcp-server",
+  "description": "Enables AI agents to manage a personal job application tracker, allowing users to list, add, update, and delete job applications with company, role, and status details through natural language.",
+  "source_repo": "hakandedotdev/simple-mcp-job-tracker",
+  "source_url": "https://github.com/hakandedotdev/simple-mcp-job-tracker",
+  "install": "# git clone --depth 1 https://github.com/hakandedotdev/simple-mcp-job-tracker\n# See source for mcpServers config block"
+}

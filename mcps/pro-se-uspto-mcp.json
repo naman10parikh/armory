@@ -1,0 +1,7 @@
+{
+  "name": "pro-se-uspto-mcp",
+  "description": "Helps independent inventors calculate USPTO fees, determine entity status, track patent deadlines, and understand procedural rules without needing an attorney.",
+  "source_repo": "parissharpe/pro-se-uspto-mcp",
+  "source_url": "https://github.com/parissharpe/pro-se-uspto-mcp",
+  "install": "npx -y pro-se-uspto-mcp"
+}

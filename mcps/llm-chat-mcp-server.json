@@ -1,0 +1,7 @@
+{
+  "name": "llm-chat-mcp-server",
+  "description": "Enables agents to inspect configured LLM models and send chat requests to them, with support for parameter overrides, file-based prompts, and output to files.",
+  "source_repo": "nikolay-martynov/mcp-llm-chat",
+  "source_url": "https://github.com/nikolay-martynov/mcp-llm-chat",
+  "install": "# git clone --depth 1 https://github.com/nikolay-martynov/mcp-llm-chat\n# See source for mcpServers config block"
+}

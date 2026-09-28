@@ -1,0 +1,7 @@
+{
+  "name": "remoet",
+  "description": "Remoet turns job search into a curated agent workflow. Connect Claude, Cursor, or any MCP client, search companies by real tech stack data (not recruiter keywords), star the ones that fit, and let your agent surface fresh jobs from your shortlist. Profile, applications, digests all over MCP.",
+  "source_repo": "remoet-labs/remoet-mcp",
+  "source_url": "https://github.com/remoet-labs/remoet-mcp",
+  "install": "npx -y remoet-mcp"
+}

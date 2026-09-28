@@ -1,0 +1,7 @@
+{
+  "name": "opencode-mcp-server",
+  "description": "Lets Claude Code offload cheap, mechanical tasks to opencode's free models for codebase summaries, exploration, web research, and bulk edits, saving paid tokens.",
+  "source_repo": "rajib884/opencode-mcp",
+  "source_url": "https://github.com/rajib884/opencode-mcp",
+  "install": "npx -y opencode-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "catalyst-edge-mcp",
+  "description": "Provides read-only tools to retrieve source-linked catalyst evidence dossiers for public-company tickers, including deterministic catalyst scores and paged source records.",
+  "source_repo": "rm0nroe/catalyst-edge-mcp",
+  "source_url": "https://github.com/rm0nroe/catalyst-edge-mcp",
+  "install": "npx -y catalyst-edge-mcp"
+}

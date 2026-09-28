@@ -1,0 +1,7 @@
+{
+  "name": "cor-mcp",
+  "description": "Enables AI assistants to manage COR project management platform resources like projects, tasks, hours, clients, teams, and users through natural language.",
+  "source_repo": "JoseCortezz25/cor-mcp",
+  "source_url": "https://github.com/JoseCortezz25/cor-mcp",
+  "install": "npx -y cor-mcp"
+}

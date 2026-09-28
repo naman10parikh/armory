@@ -1,0 +1,7 @@
+{
+  "name": "cambium",
+  "description": "Knowledge-lifecycle MCP: turn agent work into memory, recall it across projects",
+  "source_repo": "jarmstrong158/cambium",
+  "source_url": "https://github.com/jarmstrong158/cambium",
+  "install": "# git clone --depth 1 https://github.com/jarmstrong158/cambium\n# See source for mcpServers config block"
+}

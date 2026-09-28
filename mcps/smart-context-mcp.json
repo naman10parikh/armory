@@ -1,0 +1,7 @@
+{
+  "name": "smart-context-mcp",
+  "description": "MCP server that reduces AI agent token usage by up to 90% through intelligent context compression. Enables efficient code exploration, multi-file refactoring, and debugging by providing tools for smart reading, searching, and managing code context.",
+  "source_repo": "Arrayo/smart-context-mcp",
+  "source_url": "https://github.com/Arrayo/smart-context-mcp",
+  "install": "npx -y smart-context-mcp"
+}

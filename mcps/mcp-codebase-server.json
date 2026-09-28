@@ -1,0 +1,7 @@
+{
+  "name": "mcp-codebase-server",
+  "description": "MCP server for semantic codebase navigation that builds an AST index of symbols, imports, and exports, providing AI agents with tools to search, explore, and understand code.",
+  "source_repo": "DmitriyOT/mcp-codebase",
+  "source_url": "https://github.com/DmitriyOT/mcp-codebase",
+  "install": "# git clone --depth 1 https://github.com/DmitriyOT/mcp-codebase\n# See source for mcpServers config block"
+}

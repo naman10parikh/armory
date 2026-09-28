@@ -1,0 +1,7 @@
+{
+  "name": "vibetrader-mcp",
+  "description": "Enables AI assistants to trade stocks directly through natural language by creating and managing bots, executing trades, accessing market data, and backtesting strategies.",
+  "source_repo": "etbars/vibetrader-mcp",
+  "source_url": "https://github.com/etbars/vibetrader-mcp",
+  "install": "npx -y vibetrader-mcp"
+}

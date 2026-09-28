@@ -1,0 +1,7 @@
+{
+  "name": "marktplaats-mcp",
+  "description": "Enables AI agents to search and monitor Dutch and Belgian classifieds (Marktplaats and 2dehands) for listings, seller profiles, and categories.",
+  "source_repo": "jasp-nerd/marktplaats-mcp",
+  "source_url": "https://github.com/jasp-nerd/marktplaats-mcp",
+  "install": "npx -y marktplaats-mcp"
+}

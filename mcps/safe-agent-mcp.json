@@ -1,0 +1,7 @@
+{
+  "name": "safe-agent-mcp",
+  "description": "Enables any MCP client to execute DeepSeek Harness agents and shell commands through standard MCP tools, bridging multi-agent capabilities with sandboxed execution.",
+  "source_repo": "YYDW-1211/safe-agent-mcp",
+  "source_url": "https://github.com/YYDW-1211/safe-agent-mcp",
+  "install": "npx -y safe-agent-mcp"
+}

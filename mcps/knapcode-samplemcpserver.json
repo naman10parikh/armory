@@ -1,0 +1,7 @@
+{
+  "name": "knapcode-samplemcpserver",
+  "description": "A sample MCP server built with C# that demonstrates creating and packaging MCP servers, providing a random number generation tool.",
+  "source_repo": "joelverhagen/Knapcode.SampleMcpServer",
+  "source_url": "https://github.com/joelverhagen/Knapcode.SampleMcpServer",
+  "install": "# git clone --depth 1 https://github.com/joelverhagen/Knapcode.SampleMcpServer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crest-verify",
+  "description": "Verify x402 endpoints before your agent spends. Three tools: verify (SPEND/CAUTION/INVESTIGATE/DO NOT SPEND backed by 50K+ services), passport (full trust identity), risk_check (deep assessment). No API keys, no signup.",
+  "source_repo": "andysalvo/crest-verify-mcp",
+  "source_url": "https://github.com/andysalvo/crest-verify-mcp",
+  "install": "npx -y crest-verify-mcp"
+}

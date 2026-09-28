@@ -1,0 +1,7 @@
+{
+  "name": "oss-intel-mcp",
+  "description": "Open source intelligence for AI agents — GitHub project-health scoring, package dependency-risk analysis, trending repositories, license checks, and side-by-side package comparison.",
+  "source_repo": "FoundryNet/oss-intel-mcp",
+  "source_url": "https://github.com/FoundryNet/oss-intel-mcp",
+  "install": "npx -y oss-intel-mcp"
+}

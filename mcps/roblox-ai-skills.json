@@ -1,0 +1,7 @@
+{
+  "name": "roblox-ai-skills",
+  "description": "Bridges coding agents with Roblox Studio, enabling inspection, generation, editing, and validation of Roblox places through natural language.",
+  "source_repo": "ShiroKSH/roblox-ai-skills",
+  "source_url": "https://github.com/ShiroKSH/roblox-ai-skills",
+  "install": "# git clone --depth 1 https://github.com/ShiroKSH/roblox-ai-skills\n# See source for mcpServers config block"
+}

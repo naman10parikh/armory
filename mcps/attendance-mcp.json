@@ -1,0 +1,7 @@
+{
+  "name": "attendance-mcp",
+  "description": "Exposes BIPO attendance tools (clock punch, leave/OT requests, approvals, reports) to the BIPO AI assistant via a stateless proxy that authenticates callers and forwards HRMS tokens.",
+  "source_repo": "wenmaubipo/attendance-mcp",
+  "source_url": "https://github.com/wenmaubipo/attendance-mcp",
+  "install": "npx -y attendance-mcp"
+}

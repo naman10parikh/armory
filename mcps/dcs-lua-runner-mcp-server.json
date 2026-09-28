@@ -1,0 +1,7 @@
+{
+  "name": "dcs-lua-runner-mcp-server",
+  "description": "Enables AI assistants to interact with DCS World in real-time through chat by executing Lua scripts and providing tools for mission info, unit management, coordinate conversion, and more.",
+  "source_repo": "sevenfifty777/dcs-lua-runner-mcp",
+  "source_url": "https://github.com/sevenfifty777/dcs-lua-runner-mcp",
+  "install": "npx -y dcs-lua-runner-mcp"
+}

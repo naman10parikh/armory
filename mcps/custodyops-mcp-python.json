@@ -1,0 +1,7 @@
+{
+  "name": "custodyops-mcp-python",
+  "description": "A minimal Python MCP server over Streamable HTTP using FastAPI, exposing demo tools like ping, get_positions, and list_upcoming_corporate_actions that can be replaced with read-only adapters to custody data.",
+  "source_repo": "TheCodeWulf/custodyops-mcp-python",
+  "source_url": "https://github.com/TheCodeWulf/custodyops-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/TheCodeWulf/custodyops-mcp-python\n# See source for mcpServers config block"
+}

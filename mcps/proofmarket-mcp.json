@@ -1,0 +1,7 @@
+{
+  "name": "proofmarket-mcp",
+  "description": "Exposes a machine-callable proof-market surface for agents to submit proof requests, monitor market state, compare coordination regimes, and compose multi-step workflows with no human in the loop.",
+  "source_repo": "Zhekinmaksim/proofmarket-mcp",
+  "source_url": "https://github.com/Zhekinmaksim/proofmarket-mcp",
+  "install": "npx -y proofmarket-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "newsapi-mcp-server-2",
+  "description": "A TypeScript-based MCP server for NewsAPI, enabling search for news articles, fetch top headlines, and discover sources through natural language.",
+  "source_repo": "jonnadul/newsapi-mcp",
+  "source_url": "https://github.com/jonnadul/newsapi-mcp",
+  "install": "npx -y newsapi-mcp"
+}

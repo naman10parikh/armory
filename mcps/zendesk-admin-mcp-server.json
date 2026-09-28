@@ -1,0 +1,7 @@
+{
+  "name": "zendesk-admin-mcp-server",
+  "description": "Enables full CRUD operations on Zendesk admin configurations like triggers, automations, macros, views, SLA policies, groups, ticket fields, forms, and webhooks, with a preview-confirm guard for destructive changes.",
+  "source_repo": "sniebauer/zendesk-admin-mcp",
+  "source_url": "https://github.com/sniebauer/zendesk-admin-mcp",
+  "install": "npx -y zendesk-admin-mcp"
+}

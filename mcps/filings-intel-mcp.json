@@ -1,0 +1,7 @@
+{
+  "name": "filings-intel-mcp",
+  "description": "Enables AI agents to research US public company filings, financials, and insider transactions using SEC EDGAR data, with no API keys required. Provides tools for company lookup, recent filings, full-text search, financial facts, and insider activity.",
+  "source_repo": "datakoot/filings-intel-mcp",
+  "source_url": "https://github.com/datakoot/filings-intel-mcp",
+  "install": "npx -y filings-intel-mcp"
+}

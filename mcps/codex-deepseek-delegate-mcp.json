@@ -1,0 +1,7 @@
+{
+  "name": "codex-deepseek-delegate-mcp",
+  "description": "A Codex MCP server that delegates exploration and implementation tasks to DeepSeek via Claude Agent SDK, supporting subagent types and task persistence.",
+  "source_repo": "PanGucheng/codex-deepseek-delegate-mcp",
+  "source_url": "https://github.com/PanGucheng/codex-deepseek-delegate-mcp",
+  "install": "npx -y codex-deepseek-delegate-mcp"
+}

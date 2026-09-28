@@ -1,0 +1,7 @@
+{
+  "name": "docpulse",
+  "description": "DocPulse enables users to distill large documentation into compact, LLM-ready summaries by crawling web, PDF, and local sources, augmented with community insights from Reddit/StackOverflow, all running locally on Apple Silicon.",
+  "source_repo": "mkhanal/docpulse",
+  "source_url": "https://github.com/mkhanal/docpulse",
+  "install": "# git clone --depth 1 https://github.com/mkhanal/docpulse\n# See source for mcpServers config block"
+}

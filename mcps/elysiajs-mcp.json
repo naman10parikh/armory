@@ -1,0 +1,7 @@
+{
+  "name": "elysiajs-mcp",
+  "description": "An MCP server plugin for the Elysia web framework, enabling AI clients to connect via Streamable HTTP transport with stateful or stateless sessions and authentication.",
+  "source_repo": "dvaJi/elysiajs-mcp",
+  "source_url": "https://github.com/dvaJi/elysiajs-mcp",
+  "install": "npx -y elysiajs-mcp"
+}

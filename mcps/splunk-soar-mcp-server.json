@@ -1,0 +1,7 @@
+{
+  "name": "splunk-soar-mcp-server",
+  "description": "Enables AI assistants to operate a Splunk SOAR instance headlessly via its REST API, supporting container triage, playbook authoring and execution, and asset management.",
+  "source_repo": "Ewiges-M/splunk-soar-mcp",
+  "source_url": "https://github.com/Ewiges-M/splunk-soar-mcp",
+  "install": "npx -y splunk-soar-mcp"
+}

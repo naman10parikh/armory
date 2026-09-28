@@ -1,6 +1,6 @@
 {
   "name": "personas-mcp-server",
-  "description": "Personas MCP Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "aaronbassett/Personas-MCP-Server",
   "source_url": "https://mcp.so/server/Personas-MCP-Server/aaronbassett",
   "install": "npx -y Personas-MCP-Server"

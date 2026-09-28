@@ -1,0 +1,7 @@
+{
+  "name": "mcp-azureland",
+  "description": "Enables AI agents to manage AzurLaneAutoScript (ALAS) automation: start/stop processes, read/write configs, monitor runtime status, and schedule tasks via MCP tools.",
+  "source_repo": "Wislist/mcp-azureland",
+  "source_url": "https://github.com/Wislist/mcp-azureland",
+  "install": "# git clone --depth 1 https://github.com/Wislist/mcp-azureland\n# See source for mcpServers config block"
+}

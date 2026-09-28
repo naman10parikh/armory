@@ -1,0 +1,7 @@
+{
+  "name": "mcp-socket",
+  "description": "Stateful outbound TCP/UDP MCP server enabling LLMs to perform multi-step network protocols like HTTP/1.x, SMTP, Redis, and DNS.",
+  "source_repo": "cinit/mcp-socket",
+  "source_url": "https://github.com/cinit/mcp-socket",
+  "install": "# git clone --depth 1 https://github.com/cinit/mcp-socket\n# See source for mcpServers config block"
+}

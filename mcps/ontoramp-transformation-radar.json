@@ -1,0 +1,7 @@
+{
+  "name": "ontoramp-transformation-radar",
+  "description": "Analyzes enterprise transformation programs to surface maturity gaps and risk signals, enabling AI agents to identify stalled initiatives and prioritize actions.",
+  "source_repo": "MatthewDavisAIArchitect/ontoramp-transformation-radar",
+  "source_url": "https://github.com/MatthewDavisAIArchitect/ontoramp-transformation-radar",
+  "install": "# git clone --depth 1 https://github.com/MatthewDavisAIArchitect/ontoramp-transformation-radar\n# See source for mcpServers config block"
+}

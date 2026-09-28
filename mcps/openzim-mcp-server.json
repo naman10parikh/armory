@@ -1,0 +1,7 @@
+{
+  "name": "openzim-mcp-server",
+  "description": "OpenZIM MCP Server",
+  "source_repo": "DorianGallo/openzim-mcp",
+  "source_url": "https://github.com/DorianGallo/openzim-mcp",
+  "install": "npx -y openzim-mcp"
+}

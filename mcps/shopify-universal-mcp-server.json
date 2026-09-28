@@ -1,0 +1,7 @@
+{
+  "name": "shopify-universal-mcp-server",
+  "description": "Provides a standardized MCP interface for interacting with Shopify tools and services, enabling unified API access and compatibility with MCP-compliant clients.",
+  "source_repo": "universal-mcp/shopify",
+  "source_url": "https://github.com/universal-mcp/shopify",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/shopify\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nes-lter-mcp",
+  "description": "Enables natural language querying of oceanographic data from the NES-LTER API, including CTD profiles, cruise datasets, and station information.",
+  "source_repo": "blongworth/nes-lter-mcp",
+  "source_url": "https://github.com/blongworth/nes-lter-mcp",
+  "install": "npx -y nes-lter-mcp"
+}

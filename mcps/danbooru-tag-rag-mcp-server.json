@@ -1,0 +1,7 @@
+{
+  "name": "danbooru-tag-rag-mcp-server",
+  "description": "Enables semantic search of Danbooru tags using natural language queries to generate precise prompts for anime-style image generation.",
+  "source_repo": "Zaozaotvk40/danbooru-rag-mcp",
+  "source_url": "https://github.com/Zaozaotvk40/danbooru-rag-mcp",
+  "install": "npx -y danbooru-rag-mcp"
+}

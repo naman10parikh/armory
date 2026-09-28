@@ -1,0 +1,7 @@
+{
+  "name": "wsai-fixcenter",
+  "description": "Evidence-first MCP server for diagnosing problems with hooks, plugins, skills and configuration, returning ranked probable causes and reviewable fixes without modifying the workspace.",
+  "source_repo": "Whytcard-Swiss-AI/Wsai-fixCenter",
+  "source_url": "https://github.com/Whytcard-Swiss-AI/Wsai-fixCenter",
+  "install": "# git clone --depth 1 https://github.com/Whytcard-Swiss-AI/Wsai-fixCenter\n# See source for mcpServers config block"
+}

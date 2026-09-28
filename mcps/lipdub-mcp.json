@@ -1,0 +1,7 @@
+{
+  "name": "lipdub-mcp",
+  "description": "Enables AI agents to lip-sync video to a different audio track via LipDub 2, including creating renders, checking statuses, and retrieving results.",
+  "source_repo": "marzvfx/lipdub-mcp",
+  "source_url": "https://github.com/marzvfx/lipdub-mcp",
+  "install": "npx -y lipdub-mcp"
+}

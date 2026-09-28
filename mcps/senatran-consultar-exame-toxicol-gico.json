@@ -1,0 +1,7 @@
+{
+  "name": "senatran-consultar-exame-toxicol-gico",
+  "description": "MCP server for consulting toxicological exam results from SENATRAN, offering read-only access to official data.",
+  "source_repo": "mcp-dir/senatran_exame_toxicologico-mcp",
+  "source_url": "https://github.com/mcp-dir/senatran_exame_toxicologico-mcp",
+  "install": "npx -y senatran_exame_toxicologico-mcp"
+}

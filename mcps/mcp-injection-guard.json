@@ -1,0 +1,7 @@
+{
+  "name": "mcp-injection-guard",
+  "description": "Blocks indirect prompt injection by tracking data provenance, not text patterns. Enables safe agent interaction with untrusted content.",
+  "source_repo": "Hosein-Abdollahi/mcp-injection-guard",
+  "source_url": "https://github.com/Hosein-Abdollahi/mcp-injection-guard",
+  "install": "# git clone --depth 1 https://github.com/Hosein-Abdollahi/mcp-injection-guard\n# See source for mcpServers config block"
+}

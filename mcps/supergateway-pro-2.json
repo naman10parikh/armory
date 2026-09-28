@@ -1,0 +1,7 @@
+{
+  "name": "supergateway-pro-2",
+  "description": "Enables centralized MCP server management with connection pooling, a live activity dashboard, and macOS menu bar integration for AI coding agents.",
+  "source_repo": "odhomane/supergateway-pro",
+  "source_url": "https://github.com/odhomane/supergateway-pro",
+  "install": "# git clone --depth 1 https://github.com/odhomane/supergateway-pro\n# See source for mcpServers config block"
+}

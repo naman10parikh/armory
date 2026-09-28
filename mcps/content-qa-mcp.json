@@ -1,0 +1,7 @@
+{
+  "name": "content-qa-mcp",
+  "description": "Enables editorial content QA over the Model Context Protocol with four local tools that analyze readability, AI-sounding language, SEO on-page factors, and produce full reports where every finding includes an actionable fix.",
+  "source_repo": "Alvi-808/content-qa-mcp",
+  "source_url": "https://github.com/Alvi-808/content-qa-mcp",
+  "install": "npx -y content-qa-mcp"
+}

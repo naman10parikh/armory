@@ -1,0 +1,7 @@
+{
+  "name": "cpl-mcp",
+  "description": "MCP server that wraps the NY Senate OpenLegislation API to look up and search the New York Criminal Procedure Law by citation or keyword.",
+  "source_repo": "njrenaissance/cpl-mcp",
+  "source_url": "https://github.com/njrenaissance/cpl-mcp",
+  "install": "npx -y cpl-mcp"
+}

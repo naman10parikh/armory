@@ -1,0 +1,7 @@
+{
+  "name": "car-price-mcp-server",
+  "description": "Provides Brazilian vehicle price information using FIPE API, enabling users to get car brands, search car prices by brand, and get vehicles by type.",
+  "source_repo": "yusaaztrk/car-price-mcp-main",
+  "source_url": "https://github.com/yusaaztrk/car-price-mcp-main",
+  "install": "# git clone --depth 1 https://github.com/yusaaztrk/car-price-mcp-main\n# See source for mcpServers config block"
+}

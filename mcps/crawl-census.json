@@ -1,0 +1,7 @@
+{
+  "name": "crawl-census",
+  "description": "Provides preflight checks and domain intelligence so agents can skip domains that will refuse them or charge a fee, covering robots.txt, edge refusals, and HTTP 402 paywalls.",
+  "source_repo": "taylorsmithgg/crawl-census-client",
+  "source_url": "https://github.com/taylorsmithgg/crawl-census-client",
+  "install": "# git clone --depth 1 https://github.com/taylorsmithgg/crawl-census-client\n# See source for mcpServers config block"
+}

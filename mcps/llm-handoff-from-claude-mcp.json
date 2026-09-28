@@ -1,0 +1,7 @@
+{
+  "name": "llm-handoff-from-claude-mcp",
+  "description": "Enables Claude to query other LLMs like ChatGPT, Perplexity, and Gemini for verification and comparison, eliminating manual copy-pasting.",
+  "source_repo": "keyhoffman/llm-handoff-from-claude-mcp",
+  "source_url": "https://github.com/keyhoffman/llm-handoff-from-claude-mcp",
+  "install": "npx -y llm-handoff-from-claude-mcp"
+}

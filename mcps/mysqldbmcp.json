@@ -1,0 +1,7 @@
+{
+  "name": "mysqldbmcp",
+  "description": "Production-grade MySQL MCP server with multi-source YAML config, read-only default, supporting metadata inspection, querying, and optional modules via stdio or HTTP.",
+  "source_repo": "ErrSilent/mysqlDbMcp",
+  "source_url": "https://github.com/ErrSilent/mysqlDbMcp",
+  "install": "# git clone --depth 1 https://github.com/ErrSilent/mysqlDbMcp\n# See source for mcpServers config block"
+}

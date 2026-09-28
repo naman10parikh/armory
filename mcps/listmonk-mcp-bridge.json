@@ -1,0 +1,7 @@
+{
+  "name": "listmonk-mcp-bridge",
+  "description": "Enables AI agents to manage Listmonk email campaigns, subscribers, lists, and analytics through typed MCP tools with production safety features.",
+  "source_repo": "mnbro/listmonk-mcp-bridge",
+  "source_url": "https://github.com/mnbro/listmonk-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/mnbro/listmonk-mcp-bridge\n# See source for mcpServers config block"
+}

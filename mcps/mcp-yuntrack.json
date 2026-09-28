@@ -1,0 +1,7 @@
+{
+  "name": "mcp-yuntrack",
+  "description": "Enables parcel tracking via YunTrack, supporting single or batch tracking numbers and returning raw JSON from the YunTrack Query API.",
+  "source_repo": "waldell/mcp-yuntrack",
+  "source_url": "https://github.com/waldell/mcp-yuntrack",
+  "install": "# git clone --depth 1 https://github.com/waldell/mcp-yuntrack\n# See source for mcpServers config block"
+}

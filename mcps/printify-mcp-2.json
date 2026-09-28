@@ -1,0 +1,7 @@
+{
+  "name": "printify-mcp-2",
+  "description": "Enables Claude to create, update, and publish print-on-demand products on Printify directly from chat, including managing shops, products, and orders.",
+  "source_repo": "wusterbarthe-dotcom/printify-mcp",
+  "source_url": "https://github.com/wusterbarthe-dotcom/printify-mcp",
+  "install": "npx -y printify-mcp"
+}

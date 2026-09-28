@@ -1,0 +1,7 @@
+{
+  "name": "datapoint-mcp",
+  "description": "Enables AI agents to recruit real humans for evaluation tasks like surveys, A/B tests, and ratings on text, images, audio, and video, returning aggregated results directly into the conversation.",
+  "source_repo": "impel-intelligence/datapoint-mcp",
+  "source_url": "https://github.com/impel-intelligence/datapoint-mcp",
+  "install": "npx -y datapoint-mcp"
+}

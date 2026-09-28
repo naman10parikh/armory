@@ -1,0 +1,7 @@
+{
+  "name": "chart-color-audit",
+  "description": "Enables auditing chart color palettes for colorblindness accessibility by simulating CVD and measuring contrast. Provides tools to audit palettes and design tokens mid-conversation.",
+  "source_repo": "socraticstatic/chart-color-audit",
+  "source_url": "https://github.com/socraticstatic/chart-color-audit",
+  "install": "# git clone --depth 1 https://github.com/socraticstatic/chart-color-audit\n# See source for mcpServers config block"
+}

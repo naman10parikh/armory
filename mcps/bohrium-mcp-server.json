@@ -1,0 +1,7 @@
+{
+  "name": "bohrium-mcp-server",
+  "description": "Enables searching academic papers and patents, parsing PDFs, and managing knowledge bases via Bohrium Open Platform through any MCP-compatible AI agent.",
+  "source_repo": "zhengh96/bohrium-mcp-server",
+  "source_url": "https://github.com/zhengh96/bohrium-mcp-server",
+  "install": "npx -y bohrium-mcp-server"
+}

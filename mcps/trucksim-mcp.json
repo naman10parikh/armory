@@ -1,0 +1,7 @@
+{
+  "name": "trucksim-mcp",
+  "description": "Streams live Euro Truck Simulator 2 / American Truck Simulator telemetry and driving analytics to any MCP-compatible AI assistant, with read-only tools for truck state, navigation, fuel, job status, speeding checks, eco scoring, trip summaries, rest advice, and recent events, plus a headless Claude",
+  "source_repo": "rachittshah/trucksim-mcp",
+  "source_url": "https://github.com/rachittshah/trucksim-mcp",
+  "install": "npx -y trucksim-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vibe-annotations",
+  "description": "MCP server that exposes web page annotations to AI coding agents, enabling automated implementation of visual feedback and design tweaks.",
+  "source_repo": "RaphaelRegnier/vibe-annotations",
+  "source_url": "https://github.com/RaphaelRegnier/vibe-annotations",
+  "install": "# git clone --depth 1 https://github.com/RaphaelRegnier/vibe-annotations\n# See source for mcpServers config block"
+}

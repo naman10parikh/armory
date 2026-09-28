@@ -1,0 +1,7 @@
+{
+  "name": "shop-db-mcp-server",
+  "description": "Gives AI agents read-only analytical access to an e-commerce SQLite database (customers, orders, order_items, products) via SQL queries, table listing, and schema inspection.",
+  "source_repo": "bulychauPI/shop-db-mcp",
+  "source_url": "https://github.com/bulychauPI/shop-db-mcp",
+  "install": "npx -y shop-db-mcp"
+}

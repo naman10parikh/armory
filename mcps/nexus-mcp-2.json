@@ -1,0 +1,7 @@
+{
+  "name": "nexus-mcp-2",
+  "description": "A TypeScript SDK for building MCP servers with HMAC authentication, manifest generation, and tool scaffolding.",
+  "source_repo": "wazobiatech/nexus-mcp-ts",
+  "source_url": "https://github.com/wazobiatech/nexus-mcp-ts",
+  "install": "# git clone --depth 1 https://github.com/wazobiatech/nexus-mcp-ts\n# See source for mcpServers config block"
+}

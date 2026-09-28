@@ -1,0 +1,7 @@
+{
+  "name": "teradata-workload-management-wlm-mcp-server",
+  "description": "An MCP server that provides comprehensive monitoring and management capabilities for Teradata Workload Management (WLM), enabling tasks like performance troubleshooting, emergency throttling, and scheduled maintenance through 41 tools and 39 resources.",
+  "source_repo": "teradata-labs/mcp-server-teradata-wlm",
+  "source_url": "https://github.com/teradata-labs/mcp-server-teradata-wlm",
+  "install": "# git clone --depth 1 https://github.com/teradata-labs/mcp-server-teradata-wlm\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "valta-mcp",
+  "description": "An MCP server for Valta that exposes financial governance tools for AI agents, including spend authorization and audit trail via MCP-compatible clients.",
+  "source_repo": "Billionaire664/Valta-MCP",
+  "source_url": "https://github.com/Billionaire664/Valta-MCP",
+  "install": "npx -y Valta-MCP"
+}

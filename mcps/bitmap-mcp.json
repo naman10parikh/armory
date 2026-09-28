@@ -1,0 +1,7 @@
+{
+  "name": "bitmap-mcp",
+  "description": "Provides real-time Bitcoin on-chain data including Bitmap districts, Ordinals inscriptions, Runes, sat rarity, block details, and current fees via the Model Context Protocol, with zero configuration required.",
+  "source_repo": "BitmapAsset/bitmap-mcp",
+  "source_url": "https://github.com/BitmapAsset/bitmap-mcp",
+  "install": "npx -y bitmap-mcp"
+}

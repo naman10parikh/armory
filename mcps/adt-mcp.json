@@ -1,0 +1,7 @@
+{
+  "name": "adt-mcp",
+  "description": "Multi-system MCP server for reading and writing ABAP source via SAP ADT, with write safety controls and a local web admin.",
+  "source_repo": "nhattuan1305/adt-mcp",
+  "source_url": "https://github.com/nhattuan1305/adt-mcp",
+  "install": "npx -y adt-mcp"
+}

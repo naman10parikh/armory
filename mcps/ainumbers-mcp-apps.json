@@ -1,0 +1,7 @@
+{
+  "name": "ainumbers-mcp-apps",
+  "description": "420+ deterministic fintech tools - agentic payments (AP2, x402, Visa TAP, A2A), AML/KYC, BaaS comparison, MCP dev tooling - with 15 flagship tools as interactive MCP Apps widgets. Read-only, no auth, zero PII.",
+  "source_repo": "PostOakLabs/ainumbers-mcp-apps",
+  "source_url": "https://github.com/PostOakLabs/ainumbers-mcp-apps",
+  "install": "# git clone --depth 1 https://github.com/PostOakLabs/ainumbers-mcp-apps\n# See source for mcpServers config block"
+}

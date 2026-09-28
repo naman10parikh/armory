@@ -1,0 +1,7 @@
+{
+  "name": "nexla-mcp-doc-qa",
+  "description": "An MCP server that exposes grounded, source-attributed question-answering over a collection of PDF documents.",
+  "source_repo": "ArundhatiCat/nex-mcp",
+  "source_url": "https://github.com/ArundhatiCat/nex-mcp",
+  "install": "npx -y nex-mcp"
+}

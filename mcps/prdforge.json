@@ -1,0 +1,7 @@
+{
+  "name": "prdforge",
+  "description": "Enables Claude to read and write product requirement documents section by section via 33 MCP tools, drastically reducing token consumption by loading only relevant sections and summaries instead of the full document.",
+  "source_repo": "TomMaSS/PRDforge",
+  "source_url": "https://github.com/TomMaSS/PRDforge",
+  "install": "# git clone --depth 1 https://github.com/TomMaSS/PRDforge\n# See source for mcpServers config block"
+}

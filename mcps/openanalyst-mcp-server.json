@@ -1,0 +1,7 @@
+{
+  "name": "openanalyst-mcp-server",
+  "description": "MCP server that turns coding agents into data analysts: attach CSV/Parquet/JSON/XLSX or databases, profile data, run read-only SQL, and render Vega-Lite charts as SVG files.",
+  "source_repo": "Chenmo0414/tukey",
+  "source_url": "https://github.com/Chenmo0414/tukey",
+  "install": "# git clone --depth 1 https://github.com/Chenmo0414/tukey\n# See source for mcpServers config block"
+}

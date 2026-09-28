@@ -1,0 +1,7 @@
+{
+  "name": "github-code-search",
+  "description": "Search millions of public GitHub repositories for real-world code patterns and implementation examples. Discover how developers use specific libraries and handle complex configurations in production environments. Improve coding speed and accuracy by referencing verified open-source solutions.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/arjunkmrm/grep",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/arjunkmrm/grep\n# See source for mcpServers config block"
+}

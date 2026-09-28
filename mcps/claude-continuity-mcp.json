@@ -1,0 +1,7 @@
+{
+  "name": "claude-continuity-mcp",
+  "description": "Persistent, shared memory for Claude across sessions and clients (Code, Desktop, Cowork) — deterministic diff reads, checkpoints, cross-client task handoff, and project-wide search. 100% local and deterministic, no API keys, no LLM summarization.",
+  "source_repo": "gabicacabelos/claude-continuity-mcp",
+  "source_url": "https://github.com/gabicacabelos/claude-continuity-mcp",
+  "install": "npx -y claude-continuity-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "retomagic-mcp",
+  "description": "Enables image and video generation through the Magicly API using any MCP client. Supports listing models, generating media, and polling predictions.",
+  "source_repo": "Retomagic-work/rtm-mcp",
+  "source_url": "https://github.com/Retomagic-work/rtm-mcp",
+  "install": "npx -y rtm-mcp"
+}

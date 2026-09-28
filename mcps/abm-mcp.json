@@ -1,0 +1,7 @@
+{
+  "name": "abm-mcp",
+  "description": "A read-only MCP server that provides tools to list and read devices, MDM servers, blueprints, configurations, apps, packages, users, and other resources from Apple Business Manager and Apple School Manager.",
+  "source_repo": "o-sokhan/abm-mcp",
+  "source_url": "https://github.com/o-sokhan/abm-mcp",
+  "install": "npx -y abm-mcp"
+}

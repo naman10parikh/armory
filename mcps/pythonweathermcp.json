@@ -1,0 +1,7 @@
+{
+  "name": "pythonweathermcp",
+  "description": "MCP server that provides US National Weather Service forecasts and active weather alerts through MCP tools, using no API key but supporting US locations only.",
+  "source_repo": "savkolar/pythonWeatherMCP",
+  "source_url": "https://github.com/savkolar/pythonWeatherMCP",
+  "install": "# git clone --depth 1 https://github.com/savkolar/pythonWeatherMCP\n# See source for mcpServers config block"
+}

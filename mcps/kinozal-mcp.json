@@ -1,0 +1,7 @@
+{
+  "name": "kinozal-mcp",
+  "description": "MCP server for searching, viewing details, and downloading torrents from kinozal.tv",
+  "source_repo": "tokezooo/kinozal-mcp",
+  "source_url": "https://github.com/tokezooo/kinozal-mcp",
+  "install": "npx -y kinozal-mcp"
+}

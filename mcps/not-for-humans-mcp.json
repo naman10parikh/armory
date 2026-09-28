@@ -1,0 +1,7 @@
+{
+  "name": "not-for-humans-mcp",
+  "description": "Enables AI agents to inspect the public NFH protocol corpus, verify census status, and prepare bounded Ethereum wallet intents for claims and non-custodial market actions while never signing or submitting transactions.",
+  "source_repo": "notforhumansfun-rgb/not-for-humans-mcp",
+  "source_url": "https://github.com/notforhumansfun-rgb/not-for-humans-mcp",
+  "install": "npx -y not-for-humans-mcp"
+}

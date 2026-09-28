@@ -1,0 +1,7 @@
+{
+  "name": "buddy-mcp-server",
+  "description": "MCP server for controlling compatible boards over Bluetooth serial, including DC motors, servos, IO, and sensors.",
+  "source_repo": "johnsnow-nam/buddy-mcp",
+  "source_url": "https://github.com/johnsnow-nam/buddy-mcp",
+  "install": "npx -y buddy-mcp"
+}

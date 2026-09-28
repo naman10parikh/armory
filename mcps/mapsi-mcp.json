@@ -1,0 +1,7 @@
+{
+  "name": "mapsi-mcp",
+  "description": "Geospatial API tools for AI agents — geocoding, reverse geocoding, routing, isochrone, distance matrix, static maps, H3 hexagons, elevation, GPS map-matching, point-in-polygon, address normalisation, timezone lookup, and batch geocoding. Built on OpenStreetMap infrastructure. Cost-effective alternat",
+  "source_repo": "algolayertechnologies/mapsi-mcp",
+  "source_url": "https://github.com/algolayertechnologies/mapsi-mcp",
+  "install": "npx -y mapsi-mcp"
+}

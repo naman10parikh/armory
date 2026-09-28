@@ -1,0 +1,7 @@
+{
+  "name": "sera-mcp-server",
+  "description": "Enables AI assistants to query market data, check balances, execute swaps, and manage orders on the Sera stablecoin exchange platform through natural language.",
+  "source_repo": "sera-cx/sera-mcp-v2",
+  "source_url": "https://github.com/sera-cx/sera-mcp-v2",
+  "install": "# git clone --depth 1 https://github.com/sera-cx/sera-mcp-v2\n# See source for mcpServers config block"
+}

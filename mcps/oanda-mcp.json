@@ -1,0 +1,7 @@
+{
+  "name": "oanda-mcp",
+  "description": "Enables read-only access to OANDA v20 forex trading data, including price quotes, candlestick history, account summaries, positions, and transactions, via Claude.",
+  "source_repo": "aobathree/oanda-mcp",
+  "source_url": "https://github.com/aobathree/oanda-mcp",
+  "install": "npx -y oanda-mcp"
+}

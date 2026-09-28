@@ -1,0 +1,7 @@
+{
+  "name": "ceph-analyzer-mcp-server",
+  "description": "Enables comprehensive analysis of the Ceph codebase via local repository tools and GitHub API integration, supporting code search, symbol tracking, and pull request analysis.",
+  "source_repo": "ishaanjain0205/Ceph-Analyzer-MCP",
+  "source_url": "https://github.com/ishaanjain0205/Ceph-Analyzer-MCP",
+  "install": "npx -y Ceph-Analyzer-MCP"
+}

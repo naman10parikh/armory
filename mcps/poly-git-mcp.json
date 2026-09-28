@@ -1,0 +1,7 @@
+{
+  "name": "poly-git-mcp",
+  "description": "Unified MCP server for Git forge management across GitHub, GitLab, Gitea, and Bitbucket, enabling repository, issue, PR, and CI/CD operations via CLI tools and APIs.",
+  "source_repo": "Grifex-0/poly-git-mcp",
+  "source_url": "https://github.com/Grifex-0/poly-git-mcp",
+  "install": "npx -y poly-git-mcp"
+}

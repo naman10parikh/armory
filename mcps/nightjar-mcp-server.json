@@ -1,0 +1,7 @@
+{
+  "name": "nightjar-mcp-server",
+  "description": "MCP server that wraps Nightjar's analytics API, enabling Claude Code to query events, funnels, dashboards, and metrics through natural language.",
+  "source_repo": "yaralahruthik/build-an-mcp-server",
+  "source_url": "https://github.com/yaralahruthik/build-an-mcp-server",
+  "install": "npx -y build-an-mcp-server"
+}

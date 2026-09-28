@@ -1,0 +1,7 @@
+{
+  "name": "risklens-mcp",
+  "description": "Enables risk analysis of US public companies by analyzing 8-K filings and insider activity using live SEC EDGAR data.",
+  "source_repo": "Oko300/risklens-mcp",
+  "source_url": "https://github.com/Oko300/risklens-mcp",
+  "install": "npx -y risklens-mcp"
+}

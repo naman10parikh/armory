@@ -1,0 +1,7 @@
+{
+  "name": "mcp-elite-design-architect-hub",
+  "description": "Enables multi-agent design sessions with a structured workflow for defining voice, generating directions, creating UI elements, and exporting artifacts.",
+  "source_repo": "fishielour/mcp-ai-design-architecture",
+  "source_url": "https://github.com/fishielour/mcp-ai-design-architecture",
+  "install": "# git clone --depth 1 https://github.com/fishielour/mcp-ai-design-architecture\n# See source for mcpServers config block"
+}

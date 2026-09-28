@@ -1,0 +1,7 @@
+{
+  "name": "cypress-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that integrates Cypress with Cursor AI, enabling AI-powered test automation, debugging, and script generation for Cypress tests.",
+  "source_repo": "glh230/cypress-mcp-server",
+  "source_url": "https://github.com/glh230/cypress-mcp-server",
+  "install": "npx -y cypress-mcp-server"
+}

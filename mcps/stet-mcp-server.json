@@ -1,0 +1,7 @@
+{
+  "name": "stet-mcp-server",
+  "description": "Enables drafting, sending, and measuring Slack broadcasts from any MCP-capable agent using the Stet platform.",
+  "source_repo": "stethq/mcp",
+  "source_url": "https://github.com/stethq/mcp",
+  "install": "# git clone --depth 1 https://github.com/stethq/mcp\n# See source for mcpServers config block"
+}

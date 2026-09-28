@@ -1,0 +1,7 @@
+{
+  "name": "mcp-task-tools",
+  "description": "Provides task and project management tools for AI agents, including todo list management, prioritization frameworks like Eisenhower Matrix and RICE scoring, time estimation using PERT, daily standup generation, and sprint burndown calculation.",
+  "source_repo": "rog0x/mcp-task-tools",
+  "source_url": "https://github.com/rog0x/mcp-task-tools",
+  "install": "# git clone --depth 1 https://github.com/rog0x/mcp-task-tools\n# See source for mcpServers config block"
+}

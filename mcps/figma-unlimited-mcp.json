@@ -1,0 +1,7 @@
+{
+  "name": "figma-unlimited-mcp",
+  "description": "An MCP server that lets AI agents drive FigJam boards through a local Figma plugin, bypassing API rate limits with 19 tools for reading, writing, and editing FigJam content.",
+  "source_repo": "AlexZai007/figma-unlimited-mcp",
+  "source_url": "https://github.com/AlexZai007/figma-unlimited-mcp",
+  "install": "npx -y figma-unlimited-mcp"
+}

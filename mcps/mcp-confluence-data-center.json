@@ -1,0 +1,7 @@
+{
+  "name": "mcp-confluence-data-center",
+  "description": "Connects AI assistants to Confluence Server/Data Center, enabling search, content management, attachments, and natural-language interaction with your Confluence instance.",
+  "source_repo": "Yiivgeny/mcp-confluence-data-center",
+  "source_url": "https://github.com/Yiivgeny/mcp-confluence-data-center",
+  "install": "# git clone --depth 1 https://github.com/Yiivgeny/mcp-confluence-data-center\n# See source for mcpServers config block"
+}

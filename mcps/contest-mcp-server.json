@@ -1,0 +1,7 @@
+{
+  "name": "contest-mcp-server",
+  "description": "MCP server for searching and retrieving Korean contest information. Provides tools to search contests by keyword/category, get details, list categories, and find deadlines.",
+  "source_repo": "ugori2/contest-mcp-server",
+  "source_url": "https://github.com/ugori2/contest-mcp-server",
+  "install": "npx -y contest-mcp-server"
+}

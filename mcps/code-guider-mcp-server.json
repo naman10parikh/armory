@@ -1,0 +1,7 @@
+{
+  "name": "code-guider-mcp-server",
+  "description": "An AI-powered local MCP server that provides intelligent code guidance, workflow automation, and quality assurance with hybrid storage and role-based execution.",
+  "source_repo": "nsatee/code-guider-mcp",
+  "source_url": "https://github.com/nsatee/code-guider-mcp",
+  "install": "npx -y code-guider-mcp"
+}

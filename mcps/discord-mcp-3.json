@@ -1,0 +1,7 @@
+{
+  "name": "discord-mcp-3",
+  "description": "Enables Claude to manage Discord servers through the Discord API, supporting server info, messaging, channel management, webhooks, and user interactions.",
+  "source_repo": "PageLines/discord-mcp",
+  "source_url": "https://github.com/PageLines/discord-mcp",
+  "install": "npx -y discord-mcp"
+}

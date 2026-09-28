@@ -1,0 +1,7 @@
+{
+  "name": "opus-growth-mcp-connector",
+  "description": "A hosted MCP server that enables managing Google Ads, Microsoft Advertising, TikTok Ads, LinkedIn Ads, and other Google services from ChatGPT, Claude, or any MCP client using natural language, with no code or API keys required.",
+  "source_repo": "opusgrowth/Opus-Growth-The-MCP-Connector-for-Ad-Platforms",
+  "source_url": "https://github.com/opusgrowth/Opus-Growth-The-MCP-Connector-for-Ad-Platforms",
+  "install": "# git clone --depth 1 https://github.com/opusgrowth/Opus-Growth-The-MCP-Connector-for-Ad-Platforms\n# See source for mcpServers config block"
+}

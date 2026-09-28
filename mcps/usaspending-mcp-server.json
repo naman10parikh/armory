@@ -1,0 +1,7 @@
+{
+  "name": "usaspending-mcp-server",
+  "description": "Interact with USASPENDING.gov to track government spending over time, search by agency, explore spending to communities, and more.",
+  "source_repo": "thsmale/usaspending-mcp-server",
+  "source_url": "https://github.com/thsmale/usaspending-mcp-server",
+  "install": "npx -y usaspending-mcp-server"
+}

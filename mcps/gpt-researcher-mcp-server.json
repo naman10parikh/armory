@@ -1,0 +1,7 @@
+{
+  "name": "gpt-researcher-mcp-server",
+  "description": "Enables deep web research and report generation through an MCP interface, providing tools for comprehensive research, quick search, and source management.",
+  "source_repo": "deepresearch329-debug/gptr-mcp",
+  "source_url": "https://github.com/deepresearch329-debug/gptr-mcp",
+  "install": "npx -y gptr-mcp"
+}

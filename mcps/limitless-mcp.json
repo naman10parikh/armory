@@ -1,0 +1,7 @@
+{
+  "name": "limitless-mcp",
+  "description": "Enables AI agents to trade on Limitless prediction markets on Base via MCP, with tools for wallet management, market discovery, order placement, and portfolio tracking.",
+  "source_repo": "joinQuantish/limitless-mcp",
+  "source_url": "https://github.com/joinQuantish/limitless-mcp",
+  "install": "npx -y limitless-mcp"
+}

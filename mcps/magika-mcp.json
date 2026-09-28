@@ -1,0 +1,7 @@
+{
+  "name": "magika-mcp",
+  "description": "Enables AI-powered file type detection using Google Magika, identifying file types from content via tools like identify_file, identify_directory, and list_supported_types.",
+  "source_repo": "akari2600/magika-mcp",
+  "source_url": "https://github.com/akari2600/magika-mcp",
+  "install": "npx -y magika-mcp"
+}

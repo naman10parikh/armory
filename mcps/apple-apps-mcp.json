@@ -1,0 +1,7 @@
+{
+  "name": "apple-apps-mcp",
+  "description": "Local macOS MCP server and setup app for Apple apps",
+  "source_repo": "0xatrilla/Apple-MCP",
+  "source_url": "https://github.com/0xatrilla/Apple-MCP",
+  "install": "npx -y Apple-MCP"
+}

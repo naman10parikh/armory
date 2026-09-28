@@ -1,0 +1,7 @@
+{
+  "name": "agent-email",
+  "description": "A headless, disposable email inbox that an AI agent drives over MCP, enabling temporary email addresses and email receipt for testing signup flows.",
+  "source_repo": "lecstor/agent-email",
+  "source_url": "https://github.com/lecstor/agent-email",
+  "install": "# git clone --depth 1 https://github.com/lecstor/agent-email\n# See source for mcpServers config block"
+}

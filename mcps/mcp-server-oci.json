@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-oci",
+  "description": "Enables interaction with Oracle Cloud Infrastructure through the MCP protocol. Supports dynamic profile selection and provides 85 tools for managing compute, databases, networking, IAM, storage, load balancers, OKE, monitoring, and cost management.",
+  "source_repo": "zehair-louzza/OracleMind",
+  "source_url": "https://github.com/zehair-louzza/OracleMind",
+  "install": "# git clone --depth 1 https://github.com/zehair-louzza/OracleMind\n# See source for mcpServers config block"
+}

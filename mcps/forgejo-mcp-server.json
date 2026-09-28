@@ -1,0 +1,7 @@
+{
+  "name": "forgejo-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides Claude Desktop with tools to interact with Forgejo repositories, including listing repos, issues, and reading files.",
+  "source_repo": "nsvk13/forgejo-mcp-server",
+  "source_url": "https://github.com/nsvk13/forgejo-mcp-server",
+  "install": "npx -y forgejo-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mssql-server",
+  "description": "Enables Claude Code and other MCP clients to interact with Microsoft SQL Server databases through standardized tools for query execution, schema exploration, table management, and stored procedure execution.",
+  "source_repo": "blueshiftlabs-ai/mcp-mssql-server",
+  "source_url": "https://github.com/blueshiftlabs-ai/mcp-mssql-server",
+  "install": "# git clone --depth 1 https://github.com/blueshiftlabs-ai/mcp-mssql-server\n# See source for mcpServers config block"
+}

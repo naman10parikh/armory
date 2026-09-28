@@ -1,0 +1,7 @@
+{
+  "name": "tie-mcp-server",
+  "description": "MCP server for the Tenable Identity Exposure API, providing 131 tools for complete API coverage with multi-tenant support and granular security controls.",
+  "source_repo": "taherkaraki/tie-mcp-server",
+  "source_url": "https://github.com/taherkaraki/tie-mcp-server",
+  "install": "npx -y tie-mcp-server"
+}

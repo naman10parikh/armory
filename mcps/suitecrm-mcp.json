@@ -1,0 +1,7 @@
+{
+  "name": "suitecrm-mcp",
+  "description": "Open-source MCP gateway connecting AI agents like Claude Desktop and Claude Code to SuiteCRM. 24 CRM tools over SSE with OAuth2/OIDC auth, multi-entity support, ACL enforcement, and Prometheus/Grafana observability.",
+  "source_repo": "Anirudhx7/suitecrm-mcp",
+  "source_url": "https://github.com/Anirudhx7/suitecrm-mcp",
+  "install": "npx -y suitecrm-mcp"
+}

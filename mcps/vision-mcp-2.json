@@ -1,0 +1,7 @@
+{
+  "name": "vision-mcp-2",
+  "description": "Gives text-only coding agents the ability to 'see' images, videos, and screenshots by routing them to a vision model and returning structured text.",
+  "source_repo": "Pelican0126/vision-mcp",
+  "source_url": "https://github.com/Pelican0126/vision-mcp",
+  "install": "npx -y vision-mcp"
+}

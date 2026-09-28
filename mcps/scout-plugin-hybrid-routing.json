@@ -1,0 +1,7 @@
+{
+  "name": "scout-plugin-hybrid-routing",
+  "description": "Routes tasks to the appropriate model across cloud, on-device, and org-hosted endpoints based on sensitivity, role, and difficulty, with provable egress control to keep sensitive content within trust boundaries.",
+  "source_repo": "mgannotti/scout-plugin-hybrid-routing",
+  "source_url": "https://github.com/mgannotti/scout-plugin-hybrid-routing",
+  "install": "# git clone --depth 1 https://github.com/mgannotti/scout-plugin-hybrid-routing\n# See source for mcpServers config block"
+}

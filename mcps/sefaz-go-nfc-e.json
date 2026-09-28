@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-go-nfc-e",
+  "description": "Enables consultation of official SEFAZ GO NFC-e (Brazilian electronic invoice) data via a read-only MCP server with pre-paid credits.",
+  "source_repo": "mcp-dir/sefaz_go_nfce-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_go_nfce-mcp",
+  "install": "npx -y sefaz_go_nfce-mcp"
+}

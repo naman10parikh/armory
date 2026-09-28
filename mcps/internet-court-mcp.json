@@ -1,0 +1,7 @@
+{
+  "name": "internet-court-mcp",
+  "description": "Provides a trust layer for agent-to-agent commerce and delegated agent authority, allowing MCP-capable agents to install and fetch the latest Internet Court skill dynamically.",
+  "source_repo": "internet-court/mcp",
+  "source_url": "https://github.com/internet-court/mcp",
+  "install": "# git clone --depth 1 https://github.com/internet-court/mcp\n# See source for mcpServers config block"
+}

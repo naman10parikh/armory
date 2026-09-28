@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-mariadb",
+  "description": "MCP server for MariaDB that exposes database schema as resources and provides a read-only query tool to retrieve data.",
+  "source_repo": "neuraltanh/mcp-server-mariadb",
+  "source_url": "https://github.com/neuraltanh/mcp-server-mariadb",
+  "install": "# git clone --depth 1 https://github.com/neuraltanh/mcp-server-mariadb\n# See source for mcpServers config block"
+}

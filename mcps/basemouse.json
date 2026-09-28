@@ -1,0 +1,7 @@
+{
+  "name": "basemouse",
+  "description": "Shared, versioned memory for your agents across Claude Code, Cursor, Kiro and Grok. One MCP server, sourced answers, full history.",
+  "source_repo": "basemouse/basemouse-core",
+  "source_url": "https://github.com/basemouse/basemouse-core",
+  "install": "# git clone --depth 1 https://github.com/basemouse/basemouse-core\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sufetch",
+  "description": "MCP server that enables AI assistants to explore and generate code for type-safe OpenAPI clients from various cloud APIs like DigitalOcean, Hetzner Cloud, and Ory.",
+  "source_repo": "productdevbook/sufetch",
+  "source_url": "https://github.com/productdevbook/sufetch",
+  "install": "# git clone --depth 1 https://github.com/productdevbook/sufetch\n# See source for mcpServers config block"
+}

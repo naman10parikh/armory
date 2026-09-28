@@ -1,0 +1,7 @@
+{
+  "name": "patchwork",
+  "description": "Scans your source code using AST analysis to detect coding conventions, error handling, API patterns, and more, then generates a CONVENTIONS.md file to help AI agents follow your project's style.",
+  "source_repo": "SaiNarayana-B/patchwork",
+  "source_url": "https://github.com/SaiNarayana-B/patchwork",
+  "install": "# git clone --depth 1 https://github.com/SaiNarayana-B/patchwork\n# See source for mcpServers config block"
+}

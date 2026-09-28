@@ -1,0 +1,7 @@
+{
+  "name": "pdf-debug-mcp",
+  "description": "A PDF debugging MCP server that inspects low-level PDF structure, including indirect objects, content streams, page trees, and resources.",
+  "source_repo": "tycket033-tech/pdf-debug-mcp",
+  "source_url": "https://github.com/tycket033-tech/pdf-debug-mcp",
+  "install": "npx -y pdf-debug-mcp"
+}

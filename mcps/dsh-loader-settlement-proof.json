@@ -1,0 +1,7 @@
+{
+  "name": "dsh-loader-settlement-proof",
+  "description": "Enables verification of content-addressed settlement receipts for DSH Loader activation, injection closure, and tool schema settlement.",
+  "source_repo": "dongsheng123132/dsh-loader-settlement-proof",
+  "source_url": "https://github.com/dongsheng123132/dsh-loader-settlement-proof",
+  "install": "# git clone --depth 1 https://github.com/dongsheng123132/dsh-loader-settlement-proof\n# See source for mcpServers config block"
+}

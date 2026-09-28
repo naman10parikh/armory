@@ -1,0 +1,7 @@
+{
+  "name": "subconductor",
+  "description": "A persistent state machine and notification system for AI agents to manage complex, multi-step workflows via the Model Context Protocol, preventing context drift by maintaining structured checklists and sending desktop alerts.",
+  "source_repo": "PaulBenchea/mcp-subconductor",
+  "source_url": "https://github.com/PaulBenchea/mcp-subconductor",
+  "install": "# git clone --depth 1 https://github.com/PaulBenchea/mcp-subconductor\n# See source for mcpServers config block"
+}

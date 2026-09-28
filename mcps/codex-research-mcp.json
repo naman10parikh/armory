@@ -1,0 +1,7 @@
+{
+  "name": "codex-research-mcp",
+  "description": "A small local MCP adapter that lets Claude Code delegate bounded research work to Codex plan credits without giving the worker ownership of the final report.",
+  "source_repo": "pku-zhb/codex-research-mcp",
+  "source_url": "https://github.com/pku-zhb/codex-research-mcp",
+  "install": "npx -y codex-research-mcp"
+}

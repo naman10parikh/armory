@@ -1,0 +1,7 @@
+{
+  "name": "mysql-ops-mcp",
+  "description": "A generic MCP server for MySQL operations, enabling listing databases/tables, describing schemas, running read-only SQL, and optionally executing write SQL with logging.",
+  "source_repo": "lemonq3q/MCP-MySQL",
+  "source_url": "https://github.com/lemonq3q/MCP-MySQL",
+  "install": "# git clone --depth 1 https://github.com/lemonq3q/MCP-MySQL\n# See source for mcpServers config block"
+}

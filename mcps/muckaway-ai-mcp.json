@@ -1,0 +1,7 @@
+{
+  "name": "muckaway-ai-mcp",
+  "description": "Muckaway AI MCP provides tools for UK waste management compliance, including waste classification, disposal facility lookup, duty of care documentation, and waste transfer notes.",
+  "source_repo": "CSOAI-ORG/muckaway-ai-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/muckaway-ai-mcp",
+  "install": "npx -y muckaway-ai-mcp"
+}

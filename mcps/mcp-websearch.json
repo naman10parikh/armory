@@ -1,0 +1,7 @@
+{
+  "name": "mcp-websearch",
+  "description": "A web search MCP server using DuckDuckGo, supporting streaming HTTP and session management.",
+  "source_repo": "Eivs/mcp-websearch",
+  "source_url": "https://github.com/Eivs/mcp-websearch",
+  "install": "# git clone --depth 1 https://github.com/Eivs/mcp-websearch\n# See source for mcpServers config block"
+}

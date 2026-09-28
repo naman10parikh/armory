@@ -1,0 +1,7 @@
+{
+  "name": "coss-ui-mcp",
+  "description": "MCP server for the coss ui design system, enabling AI agents to fetch components, props, and design tokens on demand for accurate, low-cost code generation.",
+  "source_repo": "Zoot01/coss-ui-mcp",
+  "source_url": "https://github.com/Zoot01/coss-ui-mcp",
+  "install": "npx -y coss-ui-mcp"
+}

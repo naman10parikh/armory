@@ -1,0 +1,7 @@
+{
+  "name": "shorthand-mem",
+  "description": "Semantic compression MCP server that reduces document token usage by 60-80% using structured symbolic notation, enabling Claude to efficiently store, retrieve, diff, and summarise documents across PRD, CODE, PAPER, and MEETING domains.",
+  "source_repo": "jai2010/shorthand-mem-mcp",
+  "source_url": "https://github.com/jai2010/shorthand-mem-mcp",
+  "install": "npx -y shorthand-mem-mcp"
+}

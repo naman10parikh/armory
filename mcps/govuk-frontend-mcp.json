@@ -1,0 +1,7 @@
+{
+  "name": "govuk-frontend-mcp",
+  "description": "Exposes GOV.UK Frontend components and Design System patterns and styles as MCP resources for use with AI assistants.",
+  "source_repo": "gabrielg2020/govuk-frontend-mcp",
+  "source_url": "https://github.com/gabrielg2020/govuk-frontend-mcp",
+  "install": "npx -y govuk-frontend-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nordnet-mcp",
+  "description": "Exposes Nordnet's public market data (quotes, charts, news, trades, profiles, FX) via MCP, requiring no API key or authentication.",
+  "source_repo": "luimu64/nordnet-mcp",
+  "source_url": "https://github.com/luimu64/nordnet-mcp",
+  "install": "npx -y nordnet-mcp"
+}

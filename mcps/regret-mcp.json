@@ -1,0 +1,7 @@
+{
+  "name": "regret-mcp",
+  "description": "A tiny local MCP memory server that stores lessons learned and resurfaces them before your AI agent repeats the same mistake. It provides tools for adding, searching, listing, forgetting, and inspecting lessons via MCP stdio.",
+  "source_repo": "yulinlina/regret-mcp",
+  "source_url": "https://github.com/yulinlina/regret-mcp",
+  "install": "npx -y regret-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "re-mitm2swagger",
+  "description": "MCP server for REST API reverse engineering from HTTP traffic captures, wrapping mitmproxy for live capture and mitmproxy2swagger for spec derivation.",
+  "source_repo": "Heretek-RE/re-mitm2swagger",
+  "source_url": "https://github.com/Heretek-RE/re-mitm2swagger",
+  "install": "# git clone --depth 1 https://github.com/Heretek-RE/re-mitm2swagger\n# See source for mcpServers config block"
+}

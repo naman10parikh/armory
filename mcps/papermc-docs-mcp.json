@@ -1,0 +1,7 @@
+{
+  "name": "papermc-docs-mcp",
+  "description": "Provides local cached access to PaperMC documentation with full-text search, category browsing, and update detection.",
+  "source_repo": "SatuSattr/papermc-docs-mcp",
+  "source_url": "https://github.com/SatuSattr/papermc-docs-mcp",
+  "install": "npx -y papermc-docs-mcp"
+}

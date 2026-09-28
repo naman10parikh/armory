@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sinim",
+  "description": "Enables querying and retrieving municipal data from Chile's SINIM system, including 480 variables across 9 areas for 345 municipalities from 2001-2025.",
+  "source_repo": "MaykolMedrano/mcp_sinim",
+  "source_url": "https://github.com/MaykolMedrano/mcp_sinim",
+  "install": "# git clone --depth 1 https://github.com/MaykolMedrano/mcp_sinim\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ohmyself",
+  "description": "Exposes a personal markdown-based second brain (Obsidian-style) as an MCP server, enabling agents to search, read, and write notes with privacy controls.",
+  "source_repo": "juanchoabdon/ohmyself",
+  "source_url": "https://github.com/juanchoabdon/ohmyself",
+  "install": "# git clone --depth 1 https://github.com/juanchoabdon/ohmyself\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yungle-mcp",
+  "description": "Enables reading transfer metadata from Yungle via an AI assistant, supporting read-only access to transfers without send, delete, or invite capabilities.",
+  "source_repo": "heindewilde/yungle-clients",
+  "source_url": "https://github.com/heindewilde/yungle-clients",
+  "install": "# git clone --depth 1 https://github.com/heindewilde/yungle-clients\n# See source for mcpServers config block"
+}

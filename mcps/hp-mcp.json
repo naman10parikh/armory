@@ -1,0 +1,7 @@
+{
+  "name": "hp-mcp",
+  "description": "Exposes the kotoragk homepage public API as read-only tools, enabling users to fetch news, company info, and news details via natural language.",
+  "source_repo": "keisukearai/hp_mcp",
+  "source_url": "https://github.com/keisukearai/hp_mcp",
+  "install": "npx -y hp_mcp"
+}

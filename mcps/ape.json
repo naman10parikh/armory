@@ -1,0 +1,7 @@
+{
+  "name": "ape",
+  "description": "Enables evidence-gated, multi-session AI coding runs with plan-build-ship state management, coordinating Claude Code and Codex native agents.",
+  "source_repo": "AAWWCC/ape",
+  "source_url": "https://github.com/AAWWCC/ape",
+  "install": "# git clone --depth 1 https://github.com/AAWWCC/ape\n# See source for mcpServers config block"
+}

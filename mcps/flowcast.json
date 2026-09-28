@@ -1,0 +1,7 @@
+{
+  "name": "flowcast",
+  "description": "Turn your AI coding agent into a producer of interactive, narrated walkthroughs — code, whiteboard, and 3D casts, each a single self-contained HTML file that opens in any browser. Runs locally over npx.",
+  "source_repo": "flowcast-studio/community",
+  "source_url": "https://github.com/flowcast-studio/community",
+  "install": "# git clone --depth 1 https://github.com/flowcast-studio/community\n# See source for mcpServers config block"
+}

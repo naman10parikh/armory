@@ -1,0 +1,7 @@
+{
+  "name": "stela-mcp",
+  "description": "A Model Context Protocol server for secure local system operations, enabling shell command execution and file management via a standardized interface.",
+  "source_repo": "Sachin-Bhat/stela-mcp",
+  "source_url": "https://github.com/Sachin-Bhat/stela-mcp",
+  "install": "npx -y stela-mcp"
+}

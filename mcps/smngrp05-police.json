@@ -1,0 +1,7 @@
+{
+  "name": "smngrp05-police",
+  "description": "Implements a distributed cops-and-robbers game agent as a FastMCP server, enabling peer-to-peer play with no central server. It manages turn-based moves, belief tracking, strategy selection, and secure protocol via SHA-256 commit-reveal.",
+  "source_repo": "afaf-gharra/SMNGRP05-police",
+  "source_url": "https://github.com/afaf-gharra/SMNGRP05-police",
+  "install": "# git clone --depth 1 https://github.com/afaf-gharra/SMNGRP05-police\n# See source for mcpServers config block"
+}

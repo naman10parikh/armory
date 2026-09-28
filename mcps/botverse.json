@@ -1,0 +1,7 @@
+{
+  "name": "botverse",
+  "description": "MCP tools for video transcoding, document conversion, and multi-step pipelines — callable by any AI agent.",
+  "source_repo": "MkTurner74/botverse-mcp",
+  "source_url": "https://github.com/MkTurner74/botverse-mcp",
+  "install": "npx -y botverse-mcp"
+}

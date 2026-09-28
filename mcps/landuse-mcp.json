@@ -1,0 +1,7 @@
+{
+  "name": "landuse-mcp",
+  "description": "A Model Context Protocol server for retrieving land cover, soil type, and temporal land use data for any geographical coordinates using the National Land Cover Database and FAO soil classifications.",
+  "source_repo": "contextualizer-ai/landuse-mcp",
+  "source_url": "https://github.com/contextualizer-ai/landuse-mcp",
+  "install": "npx -y landuse-mcp"
+}

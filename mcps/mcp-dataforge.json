@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dataforge",
+  "description": "Turns natural language into data pipeline actions using six specialist agents that collaborate through MCP to build, validate, and monitor data infrastructure.",
+  "source_repo": "Prometheus-agent/mcp-dataforge",
+  "source_url": "https://github.com/Prometheus-agent/mcp-dataforge",
+  "install": "# git clone --depth 1 https://github.com/Prometheus-agent/mcp-dataforge\n# See source for mcpServers config block"
+}

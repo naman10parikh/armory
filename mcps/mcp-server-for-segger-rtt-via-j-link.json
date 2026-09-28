@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-for-segger-rtt-via-j-link",
+  "description": "Enables LLMs to interact with embedded devices by reading and writing Segger RTT data through a J-Link debugger.",
+  "source_repo": "ForeverJin/rtt_mcp",
+  "source_url": "https://github.com/ForeverJin/rtt_mcp",
+  "install": "npx -y rtt_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nokto-agent-orchestrator-mcp-server",
+  "description": "Orchestrates Claude Code and OpenAI Codex to plan, implement, review, and verify code changes via pull requests with security controls.",
+  "source_repo": "noktohq/nokto-agent-orchestrator",
+  "source_url": "https://github.com/noktohq/nokto-agent-orchestrator",
+  "install": "# git clone --depth 1 https://github.com/noktohq/nokto-agent-orchestrator\n# See source for mcpServers config block"
+}

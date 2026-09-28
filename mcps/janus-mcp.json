@@ -1,0 +1,7 @@
+{
+  "name": "janus-mcp",
+  "description": "Enables AI assistants to understand and interact with OpenAPI specifications, providing deep insight into API structures for faster and more accurate API integration.",
+  "source_repo": "DeanWard/janus-mcp",
+  "source_url": "https://github.com/DeanWard/janus-mcp",
+  "install": "npx -y janus-mcp"
+}

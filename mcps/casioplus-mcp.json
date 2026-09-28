@@ -1,0 +1,7 @@
+{
+  "name": "casioplus-mcp",
+  "description": "An MCP server that connects the Casio Plus knowledge base (playbooks, architecture, learning resources) to AI clients, offering read-only search and validation tools along with controlled feedback intake and review workflows.",
+  "source_repo": "hadiranweb/casio-plus-mcp",
+  "source_url": "https://github.com/hadiranweb/casio-plus-mcp",
+  "install": "npx -y casio-plus-mcp"
+}

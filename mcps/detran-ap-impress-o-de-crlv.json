@@ -1,0 +1,7 @@
+{
+  "name": "detran-ap-impress-o-de-crlv",
+  "description": "MCP server for querying official DETRAN AP (Amapá) vehicle registration (CRLV) data, with read-only tools and prepaid per-query pricing, hosted on mcp.ai.",
+  "source_repo": "mcp-dir/detran_ap_crlv-mcp",
+  "source_url": "https://github.com/mcp-dir/detran_ap_crlv-mcp",
+  "install": "npx -y detran_ap_crlv-mcp"
+}

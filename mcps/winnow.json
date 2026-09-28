@@ -1,0 +1,7 @@
+{
+  "name": "winnow",
+  "description": "Enables local-first context compression for AI agents, offering tools to compress text, retrieve original content, and get compression statistics.",
+  "source_repo": "jpoindexter/winnow",
+  "source_url": "https://github.com/jpoindexter/winnow",
+  "install": "# git clone --depth 1 https://github.com/jpoindexter/winnow\n# See source for mcpServers config block"
+}

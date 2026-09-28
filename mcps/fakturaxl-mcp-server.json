@@ -1,0 +1,7 @@
+{
+  "name": "fakturaxl-mcp-server",
+  "description": "Enables read-only interaction with the FakturaXL API for querying invoices, clients, products, and stock levels with pagination, date chunking, and rate limiting.",
+  "source_repo": "SocialBuzzStudio/fakturaxl-mcp-server",
+  "source_url": "https://github.com/SocialBuzzStudio/fakturaxl-mcp-server",
+  "install": "npx -y fakturaxl-mcp-server"
+}

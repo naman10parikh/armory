@@ -1,0 +1,7 @@
+{
+  "name": "proxypin-mcp",
+  "description": "Enables AI to analyze real-time HTTP(S) traffic captured by ProxyPin, with tools to browse, search, and inspect requests and responses, as well as access saved history sessions.",
+  "source_repo": "k186/proxypin-mcp",
+  "source_url": "https://github.com/k186/proxypin-mcp",
+  "install": "npx -y proxypin-mcp"
+}

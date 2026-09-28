@@ -1,0 +1,7 @@
+{
+  "name": "biopharma-sentinel",
+  "description": "High-strategic intelligence platform for life sciences that enables real-time clinical trial audits, competitive landscape mapping, regulatory cross-referencing, and financial milestone correlation using the Model Context Protocol.",
+  "source_repo": "renga92/bio-intelligence-mcp",
+  "source_url": "https://github.com/renga92/bio-intelligence-mcp",
+  "install": "npx -y bio-intelligence-mcp"
+}

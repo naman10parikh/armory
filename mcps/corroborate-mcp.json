@@ -1,0 +1,7 @@
+{
+  "name": "corroborate-mcp",
+  "description": "An MCP server that evaluates claims by counting independent story origins, giving AI agents a verdict on reporting corroboration rather than truth.",
+  "source_repo": "chefcohen/corroborate-mcp",
+  "source_url": "https://github.com/chefcohen/corroborate-mcp",
+  "install": "npx -y corroborate-mcp"
+}

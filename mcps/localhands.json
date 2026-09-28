@@ -1,0 +1,7 @@
+{
+  "name": "localhands",
+  "description": "A local MCP server that gives a cloud AI agent hands on a real machine, enabling file operations, command execution, and screen capture via a secure tunnel with path whitelisting, command guards, and audit logging.",
+  "source_repo": "newcovid/LocalHands",
+  "source_url": "https://github.com/newcovid/LocalHands",
+  "install": "# git clone --depth 1 https://github.com/newcovid/LocalHands\n# See source for mcpServers config block"
+}

@@ -1,0 +1,30 @@
+---
+name: leaddelta-mcp-server
+type: mcps
+description: >
+  Enables AI assistants to search and retrieve LinkedIn connections via LeadDelta CRM, allowing natural language queries about contacts by name, company, job title, or location.
+source_repo: LeadDelta/ld-mcp-server
+source_url: https://github.com/LeadDelta/ld-mcp-server
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: 0
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T14:22:05Z"
+folded_into: mcps/leaddelta
+---
+## What it is
+Enables AI assistants to search and retrieve LinkedIn connections via LeadDelta CRM, allowing natural language queries about contacts by name, company, job title, or location.
+
+## When to use it
+Enables AI assistants to search and retrieve LinkedIn connections via LeadDelta CRM, allowing natural language queries about contacts by name, company, job title, or location.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/ce1parbbij) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

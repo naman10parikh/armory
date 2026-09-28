@@ -1,0 +1,7 @@
+{
+  "name": "llmemory-mcp-server",
+  "description": "A remote MCP server that enables AI coding agents to search and retrieve context from imported AI chat history (ChatGPT, Claude, Codex, Claude Code) stored in Google Drive, with zero server-side storage and OAuth-based privacy.",
+  "source_repo": "meir-may/llmemory-mcp",
+  "source_url": "https://github.com/meir-may/llmemory-mcp",
+  "install": "npx -y llmemory-mcp"
+}

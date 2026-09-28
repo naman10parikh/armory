@@ -1,0 +1,7 @@
+{
+  "name": "localecheck",
+  "description": "Verified locale data for AI agents: dates, phone numbers, currency formatting, VAT/sales-tax by date, public holidays, and addresses (UK & US). Returns checked answers and flags impossible inputs instead of guessing.",
+  "source_repo": "qinisolabs/localecheck",
+  "source_url": "https://github.com/qinisolabs/localecheck",
+  "install": "# git clone --depth 1 https://github.com/qinisolabs/localecheck\n# See source for mcpServers config block"
+}

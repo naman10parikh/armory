@@ -1,0 +1,7 @@
+{
+  "name": "rhizome-mcp",
+  "description": "rhizome-mcp is a local-first MCP server for task tracking and coordination of autonomous AI coding agents, providing crash-safe issue claiming, durable project memory, and dependency graphs using SQLite. It enables agents from different MCP-compatible clients to share a consistent view of project wo",
+  "source_repo": "Odrin/rhizome-mcp",
+  "source_url": "https://github.com/Odrin/rhizome-mcp",
+  "install": "npx -y rhizome-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qzcli",
+  "description": "Enables managing OpenI platform resources (login, query nodes, submit jobs, view logs) via natural language in Claude or Codex, following a kubectl/docker-style CLI.",
+  "source_repo": "tianyilt/qzcli_tool",
+  "source_url": "https://github.com/tianyilt/qzcli_tool",
+  "install": "# git clone --depth 1 https://github.com/tianyilt/qzcli_tool\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codelens-mcp",
+  "description": "A local MCP server that enables LLM clients like Claude to perform semantic code search and answer questions about a codebase using tree-sitter parsing and sqlite-vec vector storage.",
+  "source_repo": "devprashant19/CodeLens_MCP",
+  "source_url": "https://github.com/devprashant19/CodeLens_MCP",
+  "install": "npx -y CodeLens_MCP"
+}

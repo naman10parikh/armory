@@ -1,0 +1,7 @@
+{
+  "name": "cortexsynapse",
+  "description": "A robust MCP server that bridges AI development tools with Palo Alto Cortex platforms (XSOAR/XSIAM), enabling natural language-driven development, testing, and automation of security workflows.",
+  "source_repo": "amshamah419/CortexSynapse",
+  "source_url": "https://github.com/amshamah419/CortexSynapse",
+  "install": "# git clone --depth 1 https://github.com/amshamah419/CortexSynapse\n# See source for mcpServers config block"
+}

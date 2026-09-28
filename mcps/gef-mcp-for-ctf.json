@@ -1,0 +1,7 @@
+{
+  "name": "gef-mcp-for-ctf",
+  "description": "GDB Enhanced Features MCP server for remote debugging and CTF exploitation with 41 specialized tools including ROP search, format-string detection, and memory patching.",
+  "source_repo": "guaidao2/gef-mcp-for-ctf",
+  "source_url": "https://github.com/guaidao2/gef-mcp-for-ctf",
+  "install": "# git clone --depth 1 https://github.com/guaidao2/gef-mcp-for-ctf\n# See source for mcpServers config block"
+}

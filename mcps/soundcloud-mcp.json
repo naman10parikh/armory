@@ -1,0 +1,7 @@
+{
+  "name": "soundcloud-mcp",
+  "description": "Enables uploading and managing SoundCloud tracks via the official API, with support for metadata, artwork, and automated token refresh.",
+  "source_repo": "David-J-Shibley/soundcloud-mcp",
+  "source_url": "https://github.com/David-J-Shibley/soundcloud-mcp",
+  "install": "npx -y soundcloud-mcp"
+}

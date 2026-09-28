@@ -1,0 +1,7 @@
+{
+  "name": "urbandictmcp",
+  "description": "Enables MCP clients to look up Urban Dictionary definitions for words or phrases, fetch random definitions, and retrieve definitions by ID, all without external dependencies or API keys.",
+  "source_repo": "qramarq/urbandictmcp",
+  "source_url": "https://github.com/qramarq/urbandictmcp",
+  "install": "# git clone --depth 1 https://github.com/qramarq/urbandictmcp\n# See source for mcpServers config block"
+}

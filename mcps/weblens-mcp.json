@@ -1,0 +1,7 @@
+{
+  "name": "weblens-mcp",
+  "description": "Enables AI agents to fetch and render web pages (including JavaScript-heavy SPAs) with headless Chromium, extract readable content with Mozilla Readability, capture navigation links, download images, and return a clean markdown file path.",
+  "source_repo": "Bariskau/weblens-mcp",
+  "source_url": "https://github.com/Bariskau/weblens-mcp",
+  "install": "npx -y weblens-mcp"
+}

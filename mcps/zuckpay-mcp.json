@@ -1,0 +1,7 @@
+{
+  "name": "zuckpay-mcp",
+  "description": "Official MCP server for ZuckPay – create PIX, SPEI, and PayPal charges, and query transactions from your AI assistant.",
+  "source_repo": "ZuckPay/zuckpay-mcp",
+  "source_url": "https://github.com/ZuckPay/zuckpay-mcp",
+  "install": "npx -y zuckpay-mcp"
+}

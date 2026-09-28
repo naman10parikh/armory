@@ -1,0 +1,7 @@
+{
+  "name": "server-ops-mcp",
+  "description": "Enables AI tools to perform server operations such as log inspection, system monitoring, code management, Nginx and certificate management, with support for local and remote SSH modes and built-in security controls.",
+  "source_repo": "GT-dinuo/server-ops-mcp",
+  "source_url": "https://github.com/GT-dinuo/server-ops-mcp",
+  "install": "npx -y server-ops-mcp"
+}

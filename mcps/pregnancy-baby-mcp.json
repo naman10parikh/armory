@@ -1,0 +1,7 @@
+{
+  "name": "pregnancy-baby-mcp",
+  "description": "MCP server that provides pregnancy, childbirth, and childcare information via public APIs, allowing users to query vaccination schedules, prenatal checkups, maternity benefits, and more through natural language.",
+  "source_repo": "oocheol/pregnancy-baby-mcp",
+  "source_url": "https://github.com/oocheol/pregnancy-baby-mcp",
+  "install": "npx -y pregnancy-baby-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "salestouch",
+  "description": "MCP server for AI-native LinkedIn prospecting. It enables lead research, audience building, conversation management, and controlled outreach actions such as messaging and publishing through an OAuth-protected remote endpoint.",
+  "source_repo": "antoineDsh/SalesTouch",
+  "source_url": "https://github.com/antoineDsh/SalesTouch",
+  "install": "# git clone --depth 1 https://github.com/antoineDsh/SalesTouch\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aetherserve",
+  "description": "An operations layer for MCP servers that adds metrics, health checks, rate limiting, structured logging, and lifecycle hooks.",
+  "source_repo": "faizzansiddiq/AetherServe",
+  "source_url": "https://github.com/faizzansiddiq/AetherServe",
+  "install": "# git clone --depth 1 https://github.com/faizzansiddiq/AetherServe\n# See source for mcpServers config block"
+}

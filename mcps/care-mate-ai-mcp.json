@@ -1,0 +1,7 @@
+{
+  "name": "care-mate-ai-mcp",
+  "description": "Enables AI-driven post-discharge patient monitoring and care coordination through tools for symptom triage, recovery tracking, exercise recommendation, and clinical reporting.",
+  "source_repo": "songjinseon1/caremate-ai-mcp",
+  "source_url": "https://github.com/songjinseon1/caremate-ai-mcp",
+  "install": "npx -y caremate-ai-mcp"
+}

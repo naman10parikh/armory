@@ -1,0 +1,7 @@
+{
+  "name": "novel-mcp",
+  "description": "Enables AI tools to collaboratively write novels by managing chapters, characters, and story state through commands like validate, context, draft, review, and approve.",
+  "source_repo": "YinFY90/novel-engine",
+  "source_url": "https://github.com/YinFY90/novel-engine",
+  "install": "# git clone --depth 1 https://github.com/YinFY90/novel-engine\n# See source for mcpServers config block"
+}

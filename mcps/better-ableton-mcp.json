@@ -1,0 +1,7 @@
+{
+  "name": "better-ableton-mcp",
+  "description": "A custom Ableton Live MCP focused on keeping sets tidy and creating MIDI that fits material already in the set.",
+  "source_repo": "michaelcortese/better-ableton-mcp",
+  "source_url": "https://github.com/michaelcortese/better-ableton-mcp",
+  "install": "npx -y better-ableton-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "br-eli-mcp",
+  "description": "MCP server for the Brazilian Chamber of Deputies open-data API, enabling search and retrieval of federal legislative bills and their status.",
+  "source_repo": "matematicsolutions/br-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/br-eli-mcp",
+  "install": "npx -y br-eli-mcp"
+}

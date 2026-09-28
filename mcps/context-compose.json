@@ -1,0 +1,7 @@
+{
+  "name": "context-compose",
+  "description": "A system for defining, composing, and managing task-specific contexts for AI-powered development, enabling consistent, high-quality results.",
+  "source_repo": "lazylagom/context-compose-mcp",
+  "source_url": "https://github.com/lazylagom/context-compose-mcp",
+  "install": "npx -y context-compose-mcp"
+}

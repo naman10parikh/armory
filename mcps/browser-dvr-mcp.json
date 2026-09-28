@@ -1,0 +1,7 @@
+{
+  "name": "browser-dvr-mcp",
+  "description": "Records every browser session (screen, DOM, network, console, storage) and enables time-travel debugging to rewind and analyze failures.",
+  "source_repo": "funkyfunc/browser-dvr-mcp",
+  "source_url": "https://github.com/funkyfunc/browser-dvr-mcp",
+  "install": "npx -y browser-dvr-mcp"
+}

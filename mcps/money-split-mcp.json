@@ -1,0 +1,7 @@
+{
+  "name": "money-split-mcp",
+  "description": "A remote, multi-user MCP server for splitting group expenses, enabling users to register, create groups, add members, log expenses, and view balances through MCP clients.",
+  "source_repo": "kanya-simform/money-split-mcp",
+  "source_url": "https://github.com/kanya-simform/money-split-mcp",
+  "install": "npx -y money-split-mcp"
+}

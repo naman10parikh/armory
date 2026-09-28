@@ -1,0 +1,7 @@
+{
+  "name": "web-content-scraper-mcp-worker",
+  "description": "Scrapes dynamic web pages via headless Chrome, stripping clutter and ads, and returns clean Markdown or JSON content. It integrates with Cloudflare Workflows and monetizes each extraction through the x402 protocol.",
+  "source_repo": "syrotadenys1/pdf-to-markdown-mcp-worker",
+  "source_url": "https://github.com/syrotadenys1/pdf-to-markdown-mcp-worker",
+  "install": "# git clone --depth 1 https://github.com/syrotadenys1/pdf-to-markdown-mcp-worker\n# See source for mcpServers config block"
+}

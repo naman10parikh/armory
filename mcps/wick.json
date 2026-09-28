@@ -1,0 +1,7 @@
+{
+  "name": "wick",
+  "description": "An MCP server that provides browser-grade web access for AI agents, using Chrome's actual network stack to bypass anti-bot protections and return clean markdown.",
+  "source_repo": "wickproject/wick",
+  "source_url": "https://github.com/wickproject/wick",
+  "install": "# git clone --depth 1 https://github.com/wickproject/wick\n# See source for mcpServers config block"
+}

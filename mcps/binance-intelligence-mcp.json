@@ -1,0 +1,7 @@
+{
+  "name": "binance-intelligence-mcp",
+  "description": "MCP server providing 12 computed intelligence tools for Binance, including accumulation detection, whale tracking, market impact simulation, and more, using public endpoints with no API keys needed.",
+  "source_repo": "mefai-dev/binance-intelligence-mcp",
+  "source_url": "https://github.com/mefai-dev/binance-intelligence-mcp",
+  "install": "npx -y binance-intelligence-mcp"
+}

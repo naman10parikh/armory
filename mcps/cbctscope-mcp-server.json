@@ -1,0 +1,7 @@
+{
+  "name": "cbctscope-mcp-server",
+  "description": "Enables AI agents to control a local CBCT viewer for dental and maxillofacial scans, with navigation verbs like open scan, set window, navigate slices, and snapshot, without executing code or returning interpretations.",
+  "source_repo": "rezamotaghi/cbctscope",
+  "source_url": "https://github.com/rezamotaghi/cbctscope",
+  "install": "# git clone --depth 1 https://github.com/rezamotaghi/cbctscope\n# See source for mcpServers config block"
+}

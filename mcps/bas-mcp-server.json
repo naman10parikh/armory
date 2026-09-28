@@ -1,0 +1,7 @@
+{
+  "name": "bas-mcp-server",
+  "description": "Enables AI agents to interact with 1С:Enterprise and BAS ERP systems through REST and HTTP services, providing tools for searching catalogs, creating documents, and querying stock balances.",
+  "source_repo": "qkiomat/bas-mcp",
+  "source_url": "https://github.com/qkiomat/bas-mcp",
+  "install": "npx -y bas-mcp"
+}

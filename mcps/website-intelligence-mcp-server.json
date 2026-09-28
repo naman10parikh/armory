@@ -1,0 +1,7 @@
+{
+  "name": "website-intelligence-mcp-server",
+  "description": "Website Intelligence MCP Server exposes 10 tools for web scraping and analysis, enabling AI agents to convert URLs to Markdown, extract metadata, detect technologies, find contacts, and perform SEO checks. It wraps a REST API and supports optional API keys.",
+  "source_repo": "samayhuf-star/web-intel-mcp-server",
+  "source_url": "https://github.com/samayhuf-star/web-intel-mcp-server",
+  "install": "npx -y web-intel-mcp-server"
+}

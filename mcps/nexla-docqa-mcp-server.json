@@ -1,0 +1,7 @@
+{
+  "name": "nexla-docqa-mcp-server",
+  "description": "Enables natural-language question answering over financial annual reports with source-attributed answers, supporting hybrid retrieval and grounded abstention.",
+  "source_repo": "AnantaSingh/nexla-docqa-mcp",
+  "source_url": "https://github.com/AnantaSingh/nexla-docqa-mcp",
+  "install": "npx -y nexla-docqa-mcp"
+}

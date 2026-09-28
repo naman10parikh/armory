@@ -1,0 +1,7 @@
+{
+  "name": "infocepo-infra-mcp",
+  "description": "Exposes infocepo.com infrastructure (LLM, ChromaDB, S3, Docker registry, service discovery) as MCP tools for AI agents.",
+  "source_repo": "ynotopec/infocepo-infra-mcp",
+  "source_url": "https://github.com/ynotopec/infocepo-infra-mcp",
+  "install": "npx -y infocepo-infra-mcp"
+}

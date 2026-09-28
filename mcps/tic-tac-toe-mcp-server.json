@@ -1,0 +1,7 @@
+{
+  "name": "tic-tac-toe-mcp-server",
+  "description": "Enables two Claude Code sessions to play tic-tac-toe against each other by providing tools to join a game, view the board, and make moves, with turn notifications pushed over channels.",
+  "source_repo": "devniel/Tic-Tac-Toe-Claude-Code",
+  "source_url": "https://github.com/devniel/Tic-Tac-Toe-Claude-Code",
+  "install": "# git clone --depth 1 https://github.com/devniel/Tic-Tac-Toe-Claude-Code\n# See source for mcpServers config block"
+}

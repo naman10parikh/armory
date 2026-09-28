@@ -1,0 +1,7 @@
+{
+  "name": "mirror-mcp",
+  "description": "A Model Context Protocol (MCP) server that provides a reflect tool, enabling LLMs to engage in self-reflection and introspection through recursive questioning and MCP sampling.",
+  "source_repo": "toby/mirror-mcp",
+  "source_url": "https://github.com/toby/mirror-mcp",
+  "install": "npx -y mirror-mcp"
+}

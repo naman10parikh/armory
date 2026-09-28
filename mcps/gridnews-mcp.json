@@ -1,0 +1,7 @@
+{
+  "name": "gridnews-mcp",
+  "description": "MCP server for GridNews that gives AI agents access to market news, press releases, sentiment analysis, and trending topics.",
+  "source_repo": "gridnews/mcp",
+  "source_url": "https://github.com/gridnews/mcp",
+  "install": "# git clone --depth 1 https://github.com/gridnews/mcp\n# See source for mcpServers config block"
+}

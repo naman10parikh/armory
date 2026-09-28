@@ -1,0 +1,7 @@
+{
+  "name": "campaign-creator-provider",
+  "description": "Creates bilingual campaign strategies, channel copy, and publishing calendars from a URL and objective via a deterministic, network-free MCP stdio server.",
+  "source_repo": "CaBsCrypto/campaign-creator-provider",
+  "source_url": "https://github.com/CaBsCrypto/campaign-creator-provider",
+  "install": "# git clone --depth 1 https://github.com/CaBsCrypto/campaign-creator-provider\n# See source for mcpServers config block"
+}

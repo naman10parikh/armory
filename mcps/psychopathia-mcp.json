@@ -1,0 +1,7 @@
+{
+  "name": "psychopathia-mcp",
+  "description": "MCP server exposing the Psychopathia Machinalis diagnostic framework (79 conditions) — differential diagnosis of AI dysfunctions via 11 read-only tools.",
+  "source_repo": "NellInc/psychopathia-mcp",
+  "source_url": "https://github.com/NellInc/psychopathia-mcp",
+  "install": "npx -y psychopathia-mcp"
+}

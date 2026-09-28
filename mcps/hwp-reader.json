@@ -1,0 +1,7 @@
+{
+  "name": "hwp-reader",
+  "description": "MCP server for reading HWP and HWPX documents without Hancom Office. Extracts text, tables with merged cells, and hidden memos, compatible with various MCP clients.",
+  "source_repo": "renovys/hwp-reader",
+  "source_url": "https://github.com/renovys/hwp-reader",
+  "install": "# git clone --depth 1 https://github.com/renovys/hwp-reader\n# See source for mcpServers config block"
+}

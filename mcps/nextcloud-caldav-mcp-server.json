@@ -1,0 +1,7 @@
+{
+  "name": "nextcloud-caldav-mcp-server",
+  "description": "An MCP server that lets Claude create calendar events and tasks in Nextcloud via CalDAV.",
+  "source_repo": "eragooon/nextcloud_calendar_todo_mcp",
+  "source_url": "https://github.com/eragooon/nextcloud_calendar_todo_mcp",
+  "install": "npx -y nextcloud_calendar_todo_mcp"
+}

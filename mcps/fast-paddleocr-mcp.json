@@ -1,0 +1,7 @@
+{
+  "name": "fast-paddleocr-mcp",
+  "description": "Extracts text from images using PaddleOCR and outputs results in markdown format, optimized for fast inference with GPU auto-detection.",
+  "source_repo": "trotsky1997/PaddleOCR-MCP",
+  "source_url": "https://github.com/trotsky1997/PaddleOCR-MCP",
+  "install": "npx -y PaddleOCR-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "john-the-ripper-mcp",
+  "description": "Enables AI assistants to perform password security auditing using John the Ripper on a remote Kali system via SSH, supporting cracking, hash management, and session control.",
+  "source_repo": "schwarztim/sec-john-the-ripper-mcp",
+  "source_url": "https://github.com/schwarztim/sec-john-the-ripper-mcp",
+  "install": "npx -y sec-john-the-ripper-mcp"
+}

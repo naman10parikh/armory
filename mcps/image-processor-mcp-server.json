@@ -1,0 +1,7 @@
+{
+  "name": "image-processor-mcp-server",
+  "description": "A powerful Model Context Protocol (MCP) server for image processing, designed to empower AI models with advanced image manipulation capabilities.",
+  "source_repo": "jeronimomayorca/mcp-image-processor",
+  "source_url": "https://github.com/jeronimomayorca/mcp-image-processor",
+  "install": "# git clone --depth 1 https://github.com/jeronimomayorca/mcp-image-processor\n# See source for mcpServers config block"
+}

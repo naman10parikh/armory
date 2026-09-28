@@ -1,0 +1,7 @@
+{
+  "name": "astah-mcp",
+  "description": "Local MCP server that converts modeling exercise requests into native Astah projects (.asta), supporting multiple UML diagram types with automatic layout and visual validation.",
+  "source_repo": "g0mz/astah-mcp",
+  "source_url": "https://github.com/g0mz/astah-mcp",
+  "install": "npx -y astah-mcp"
+}

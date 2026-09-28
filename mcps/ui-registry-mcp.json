@@ -1,0 +1,7 @@
+{
+  "name": "ui-registry-mcp",
+  "description": "Provides coding agents live access to shadcn-style component registries, enabling them to search, compare, and fetch real component source code for UI composition.",
+  "source_repo": "mrityunjay-tiwari/ui-registry-mcp",
+  "source_url": "https://github.com/mrityunjay-tiwari/ui-registry-mcp",
+  "install": "npx -y ui-registry-mcp"
+}

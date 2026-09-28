@@ -1,0 +1,7 @@
+{
+  "name": "ark-wiki-mcp",
+  "description": "An MCP server that lets Claude answer ARK: Survival Ascended / Evolved questions by querying the ARK community wiki for taming, crafting, spawns, and stats.",
+  "source_repo": "chelseyklein/ark-wiki-mcp",
+  "source_url": "https://github.com/chelseyklein/ark-wiki-mcp",
+  "install": "npx -y ark-wiki-mcp"
+}

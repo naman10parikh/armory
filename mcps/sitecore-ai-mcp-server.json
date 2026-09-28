@@ -1,0 +1,7 @@
+{
+  "name": "sitecore-ai-mcp-server",
+  "description": "An MCP server for reading Sitecore XM Cloud content via GraphQL, exposing tools to get item details and list children, with OAuth authentication and path-based access control.",
+  "source_repo": "KoushikMukherjeeDA/SitecoreAIMCP",
+  "source_url": "https://github.com/KoushikMukherjeeDA/SitecoreAIMCP",
+  "install": "# git clone --depth 1 https://github.com/KoushikMukherjeeDA/SitecoreAIMCP\n# See source for mcpServers config block"
+}

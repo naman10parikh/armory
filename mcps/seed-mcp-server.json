@@ -1,0 +1,7 @@
+{
+  "name": "seed-mcp-server",
+  "description": "Enables creating and inspecting Seed tables and relationships through the Seed backend HTTP API.",
+  "source_repo": "burgeonbot/seed-mcp-server",
+  "source_url": "https://github.com/burgeonbot/seed-mcp-server",
+  "install": "npx -y seed-mcp-server"
+}

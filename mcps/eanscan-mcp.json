@@ -1,0 +1,7 @@
+{
+  "name": "eanscan-mcp",
+  "description": "MCP server for looking up EAN/UPC barcodes to get localized product details like title, description, price, and images.",
+  "source_repo": "foreach-labs/eanscan-cli",
+  "source_url": "https://github.com/foreach-labs/eanscan-cli",
+  "install": "# git clone --depth 1 https://github.com/foreach-labs/eanscan-cli\n# See source for mcpServers config block"
+}

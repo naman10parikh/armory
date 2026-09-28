@@ -1,0 +1,7 @@
+{
+  "name": "newton-browser",
+  "description": "MCP server for local browser control via Chrome/Edge extension, enabling agents to open isolated tabs, observe pages, take screenshots, and interact with accessible controls using an existing browser profile. It is agent-agnostic, local-only, and supports safe session scoping with origin grants and",
+  "source_repo": "Koala-Studios/newton-browser",
+  "source_url": "https://github.com/Koala-Studios/newton-browser",
+  "install": "# git clone --depth 1 https://github.com/Koala-Studios/newton-browser\n# See source for mcpServers config block"
+}

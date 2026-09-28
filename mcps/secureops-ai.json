@@ -1,0 +1,7 @@
+{
+  "name": "secureops-ai",
+  "description": "Local security auditing powered by LLMs via Model Context Protocol (MCP) — keep your codebase private, catch flaws locally.",
+  "source_repo": "Vlex127/secureops-mcp",
+  "source_url": "https://github.com/Vlex127/secureops-mcp",
+  "install": "npx -y secureops-mcp"
+}

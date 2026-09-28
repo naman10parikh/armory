@@ -1,0 +1,7 @@
+{
+  "name": "websupport-mcp",
+  "description": "An MCP server wrapping the Websupport REST API to expose DNS, FTP, hosting, databases, mailboxes, VPS, and invoice operations as MCP tools with HMAC-SHA1 authentication.",
+  "source_repo": "tydung26/websupport-mcp",
+  "source_url": "https://github.com/tydung26/websupport-mcp",
+  "install": "npx -y websupport-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rhr-mcp",
+  "description": "MCP server that gives AI agents structured access to Public Procurement Registry data, allowing natural language queries for planned procurements, open tenders, contract awards, buyers, and winning suppliers.",
+  "source_repo": "margusliinev/rhr-mcp",
+  "source_url": "https://github.com/margusliinev/rhr-mcp",
+  "install": "npx -y rhr-mcp"
+}

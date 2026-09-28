@@ -1,0 +1,7 @@
+{
+  "name": "apple-reminders-mcp-2",
+  "description": "Enables management of Apple Reminders on macOS, including creating, listing, searching, editing, completing, moving, and deleting reminders and reminder lists via native EventKit.",
+  "source_repo": "yazilim-vip/apple-reminders-mcp",
+  "source_url": "https://github.com/yazilim-vip/apple-reminders-mcp",
+  "install": "npx -y apple-reminders-mcp"
+}

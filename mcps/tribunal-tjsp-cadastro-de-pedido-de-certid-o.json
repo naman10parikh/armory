@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tjsp-cadastro-de-pedido-de-certid-o",
+  "description": "Enables querying registration of certificate requests from the official Tribunal de Justiça de São Paulo (TJSP) system via a single read-only tool.",
+  "source_repo": "mcp-dir/tribunal_tjsp_pedido_certidao-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tjsp_pedido_certidao-mcp",
+  "install": "npx -y tribunal_tjsp_pedido_certidao-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-corp",
+  "description": "A corporate MCP server template in Python, built with FastMCP for stateless, scalable deployment behind a load balancer with health/readiness endpoints and JSON structured logging.",
+  "source_repo": "alvaradojuanm/mcp-corp",
+  "source_url": "https://github.com/alvaradojuanm/mcp-corp",
+  "install": "# git clone --depth 1 https://github.com/alvaradojuanm/mcp-corp\n# See source for mcpServers config block"
+}

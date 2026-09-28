@@ -1,0 +1,7 @@
+{
+  "name": "just-bash-mcp",
+  "description": "Sandboxed bash execution MCP server for AI agents, using an in-memory virtual filesystem overlay to prevent real filesystem damage, with configurable network access, timeouts, and optional Python/JS runtimes.",
+  "source_repo": "drizjet/just-bash-mcp",
+  "source_url": "https://github.com/drizjet/just-bash-mcp",
+  "install": "npx -y just-bash-mcp"
+}

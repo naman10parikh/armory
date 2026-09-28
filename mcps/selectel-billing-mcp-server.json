@@ -1,0 +1,7 @@
+{
+  "name": "selectel-billing-mcp-server",
+  "description": "Enables fetching Selectel billing balances and predictions via MCP tools, with automatic token refresh and account management.",
+  "source_repo": "EduardGuselnikov/mcp_selectel_billing",
+  "source_url": "https://github.com/EduardGuselnikov/mcp_selectel_billing",
+  "install": "# git clone --depth 1 https://github.com/EduardGuselnikov/mcp_selectel_billing\n# See source for mcpServers config block"
+}

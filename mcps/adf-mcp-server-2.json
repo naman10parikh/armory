@@ -1,0 +1,7 @@
+{
+  "name": "adf-mcp-server-2",
+  "description": "Enables read-only monitoring and root-cause analysis of Azure Data Factory resources through MCP, allowing users to inspect factories, pipelines, and pipeline runs and diagnose failures via natural language.",
+  "source_repo": "mvcharygenai/adf-mcp-server_backup",
+  "source_url": "https://github.com/mvcharygenai/adf-mcp-server_backup",
+  "install": "# git clone --depth 1 https://github.com/mvcharygenai/adf-mcp-server_backup\n# See source for mcpServers config block"
+}

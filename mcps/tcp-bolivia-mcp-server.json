@@ -1,0 +1,7 @@
+{
+  "name": "tcp-bolivia-mcp-server",
+  "description": "Enables AI assistants to search Bolivian Constitutional Court jurisprudence, legal cases, and resolutions, and download official signed PDF documents.",
+  "source_repo": "israelmamani/tcp-bolivia-mcp",
+  "source_url": "https://github.com/israelmamani/tcp-bolivia-mcp",
+  "install": "npx -y tcp-bolivia-mcp"
+}

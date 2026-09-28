@@ -1,0 +1,7 @@
+{
+  "name": "endplay-dd-mcp-server",
+  "description": "Exposes endplay double-dummy calculations for chatbots/agents, providing full trick tables for bridge deals.",
+  "source_repo": "BSalita/endplay-dd-mcp-server",
+  "source_url": "https://github.com/BSalita/endplay-dd-mcp-server",
+  "install": "npx -y endplay-dd-mcp-server"
+}

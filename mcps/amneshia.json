@@ -1,0 +1,7 @@
+{
+  "name": "amneshia",
+  "description": "Unified, zero-external-database multi-agent long-term memory hub with SQLite FTS5 BM25 search, knowledge graph, sleep cycle consolidation, and a web dashboard.",
+  "source_repo": "SabilMurti/Amneshia",
+  "source_url": "https://github.com/SabilMurti/Amneshia",
+  "install": "# git clone --depth 1 https://github.com/SabilMurti/Amneshia\n# See source for mcpServers config block"
+}

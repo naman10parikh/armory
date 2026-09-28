@@ -1,0 +1,7 @@
+{
+  "name": "just-a-mysql-mcp",
+  "description": "Read-only MySQL MCP server that lets AI agents list tables, describe schemas, and run SELECT/SHOW/EXPLAIN queries with a row cap, bound to a single database for safety.",
+  "source_repo": "xingyuli/just-a-mysql-mcp",
+  "source_url": "https://github.com/xingyuli/just-a-mysql-mcp",
+  "install": "npx -y just-a-mysql-mcp"
+}

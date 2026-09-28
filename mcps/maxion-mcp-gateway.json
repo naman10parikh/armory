@@ -1,0 +1,7 @@
+{
+  "name": "maxion-mcp-gateway",
+  "description": "Enterprise MCP gateway suite providing 22 unified tools across hardware telemetry, security auditing, AES-256-GCM encrypted storage, HMAC verification, and Amazon Bedrock media generation.",
+  "source_repo": "aruuhii2yo/maxion-mcp-gateway",
+  "source_url": "https://github.com/aruuhii2yo/maxion-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/aruuhii2yo/maxion-mcp-gateway\n# See source for mcpServers config block"
+}

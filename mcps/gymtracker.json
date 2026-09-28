@@ -1,0 +1,7 @@
+{
+  "name": "gymtracker",
+  "description": "Universal MCP server for Gymtracker that enables AI coding agents to read and write training data.",
+  "source_repo": "benzalglez/gymtracker-plugin",
+  "source_url": "https://github.com/benzalglez/gymtracker-plugin",
+  "install": "# git clone --depth 1 https://github.com/benzalglez/gymtracker-plugin\n# See source for mcpServers config block"
+}

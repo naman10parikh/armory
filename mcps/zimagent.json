@@ -1,0 +1,7 @@
+{
+  "name": "zimagent",
+  "description": "Enables offline CRUD and semantic search on Wikipedia ZIM archives via MCP tools for reading, writing, editing, deleting, and searching articles.",
+  "source_repo": "AHX47/Zim-Agent-Gui",
+  "source_url": "https://github.com/AHX47/Zim-Agent-Gui",
+  "install": "# git clone --depth 1 https://github.com/AHX47/Zim-Agent-Gui\n# See source for mcpServers config block"
+}

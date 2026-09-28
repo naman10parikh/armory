@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ai-detection",
+  "description": "Enables multi-tier AI-detection screening on academic papers by extracting text from .tex and .docx files, splitting into standard sections, and running a pipeline of statistical and LLM-based analysis.",
+  "source_repo": "carminelau/mcp-ai-detection",
+  "source_url": "https://github.com/carminelau/mcp-ai-detection",
+  "install": "# git clone --depth 1 https://github.com/carminelau/mcp-ai-detection\n# See source for mcpServers config block"
+}

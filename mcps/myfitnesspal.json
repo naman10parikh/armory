@@ -1,0 +1,7 @@
+{
+  "name": "myfitnesspal",
+  "description": "Retrieves MyFitnessPal nutrition data including daily summaries, meal breakdowns, exercises, and macros through FastMCP.",
+  "source_repo": "linares222/mcp-myfitnesspal",
+  "source_url": "https://github.com/linares222/mcp-myfitnesspal",
+  "install": "# git clone --depth 1 https://github.com/linares222/mcp-myfitnesspal\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "meok-stripe-acp-checkout-mcp",
+  "description": "Enables Stripe ACP Checkout integration with AI governance and EU AI Act compliance for secure payment processing.",
+  "source_repo": "CSOAI-ORG/meok-stripe-acp-checkout-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-stripe-acp-checkout-mcp",
+  "install": "npx -y meok-stripe-acp-checkout-mcp"
+}

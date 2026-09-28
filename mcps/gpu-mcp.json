@@ -1,0 +1,7 @@
+{
+  "name": "gpu-mcp",
+  "description": "Exposes local NVIDIA GPU (CUDA) and Rust-to-WASM toolchain as MCP tools for sovereign local compute.",
+  "source_repo": "MYaelMendez/gpu-mcp",
+  "source_url": "https://github.com/MYaelMendez/gpu-mcp",
+  "install": "npx -y gpu-mcp"
+}

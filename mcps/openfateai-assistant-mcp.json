@@ -1,0 +1,7 @@
+{
+  "name": "openfateai-assistant-mcp",
+  "description": "A local, open-source MCP server that provides deterministic organizational tools for structured decisions, guided reflection, action planning, and transparent digital report outlines without requiring an API key.",
+  "source_repo": "openfateaicom-wq/openfateai-mcp",
+  "source_url": "https://github.com/openfateaicom-wq/openfateai-mcp",
+  "install": "npx -y openfateai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "react-native-dev-mcp",
+  "description": "MCP server that gives AI coding agents hands, eyes and a mechanic's ear for React Native development.",
+  "source_repo": "luizhbesper/react-native-mcp",
+  "source_url": "https://github.com/luizhbesper/react-native-mcp",
+  "install": "npx -y react-native-mcp"
+}

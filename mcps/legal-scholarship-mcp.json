@@ -1,0 +1,7 @@
+{
+  "name": "legal-scholarship-mcp",
+  "description": "Enables searching scholarly literature via the OpenAlex database, with tools for full-text search, work details, citation lookup, and author queries.",
+  "source_repo": "MahmoudHusseinLawTech/legal-scholarship-mcp",
+  "source_url": "https://github.com/MahmoudHusseinLawTech/legal-scholarship-mcp",
+  "install": "npx -y legal-scholarship-mcp"
+}

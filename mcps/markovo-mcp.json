@@ -1,0 +1,7 @@
+{
+  "name": "markovo-mcp",
+  "description": "Enables converting supported files and explicitly authorized public HTTPS pages into clean, structured Markdown through the Markovo service, with file access restricted to a configured root directory.",
+  "source_repo": "fisher-byte/markovo",
+  "source_url": "https://github.com/fisher-byte/markovo",
+  "install": "# git clone --depth 1 https://github.com/fisher-byte/markovo\n# See source for mcpServers config block"
+}

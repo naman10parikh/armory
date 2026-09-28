@@ -1,0 +1,7 @@
+{
+  "name": "lotor-mcp",
+  "description": "A local receipt and approval gate for AI agent sessions. The agent can act, but it cannot sign.",
+  "source_repo": "githubscum/lotor",
+  "source_url": "https://github.com/githubscum/lotor",
+  "install": "# git clone --depth 1 https://github.com/githubscum/lotor\n# See source for mcpServers config block"
+}

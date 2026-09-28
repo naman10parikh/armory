@@ -1,0 +1,7 @@
+{
+  "name": "gx-mcp-server",
+  "description": "Exposes Great Expectations data-quality checks as MCP tools for LLM agents, enabling data loading, expectation definition, validation, and result interpretation.",
+  "source_repo": "davidf9999/gx-mcp-server",
+  "source_url": "https://github.com/davidf9999/gx-mcp-server",
+  "install": "npx -y gx-mcp-server"
+}

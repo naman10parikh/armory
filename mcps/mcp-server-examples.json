@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-examples",
+  "description": "A collection of Model Context Protocol implementations ranging from a minimal hello-world to an autonomous AI agent for software development.",
+  "source_repo": "ahmad-zurih/MCP-Examples",
+  "source_url": "https://github.com/ahmad-zurih/MCP-Examples",
+  "install": "# git clone --depth 1 https://github.com/ahmad-zurih/MCP-Examples\n# See source for mcpServers config block"
+}

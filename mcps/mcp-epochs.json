@@ -1,0 +1,7 @@
+{
+  "name": "mcp-epochs",
+  "description": "Provides current Unix timestamp in seconds, milliseconds, and ISO 8601 format to LLMs via a simple MCP tool.",
+  "source_repo": "daedalus/mcp-epochs",
+  "source_url": "https://github.com/daedalus/mcp-epochs",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-epochs\n# See source for mcpServers config block"
+}

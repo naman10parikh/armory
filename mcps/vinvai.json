@@ -1,0 +1,7 @@
+{
+  "name": "vinvai",
+  "description": "Runs, tests, and finds issues in your Python services with zero code changes, then helps your AI agent fix what breaks and proves it with acceptance tests.",
+  "source_repo": "VinvAI/VinvAI",
+  "source_url": "https://github.com/VinvAI/VinvAI",
+  "install": "# git clone --depth 1 https://github.com/VinvAI/VinvAI\n# See source for mcpServers config block"
+}

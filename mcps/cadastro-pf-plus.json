@@ -1,0 +1,7 @@
+{
+  "name": "cadastro-pf-plus",
+  "description": "Provides expanded Brazilian individual registration data from CPF, offering read-only queries with prepaid credits and no credentials.",
+  "source_repo": "mcp-dir/cpf_cadastral_plus-mcp",
+  "source_url": "https://github.com/mcp-dir/cpf_cadastral_plus-mcp",
+  "install": "npx -y cpf_cadastral_plus-mcp"
+}

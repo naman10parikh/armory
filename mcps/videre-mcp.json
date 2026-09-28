@@ -1,0 +1,7 @@
+{
+  "name": "videre-mcp",
+  "description": "Bridges vision models to text-only coding models using Florence-2, enabling non-vision LLMs to describe images, extract text, and analyze screenshots via MCP tools.",
+  "source_repo": "Veedubin/Videre-MCP",
+  "source_url": "https://github.com/Veedubin/Videre-MCP",
+  "install": "npx -y Videre-MCP"
+}

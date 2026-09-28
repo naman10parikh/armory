@@ -1,0 +1,7 @@
+{
+  "name": "pokeclaw",
+  "description": "Enables MCP clients to spawn and control Codex CLI and Claude Code sessions on the host machine, with session management and filesystem access.",
+  "source_repo": "meimakes/pokeclaw",
+  "source_url": "https://github.com/meimakes/pokeclaw",
+  "install": "# git clone --depth 1 https://github.com/meimakes/pokeclaw\n# See source for mcpServers config block"
+}

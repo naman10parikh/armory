@@ -1,0 +1,7 @@
+{
+  "name": "beyondcompare-mcp",
+  "description": "Enables file comparison, folder diffing, 3-way merging, folder sync, and scripted automation through MCP.",
+  "source_repo": "danielsimonjr/beyondcompare-mcp",
+  "source_url": "https://github.com/danielsimonjr/beyondcompare-mcp",
+  "install": "npx -y beyondcompare-mcp"
+}

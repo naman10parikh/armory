@@ -1,0 +1,7 @@
+{
+  "name": "ecac-caixa-postal",
+  "description": "Consulta em fonte oficial a Caixa Postal do ECAC (e-CAC) por meio de uma ferramenta MCP, com leitura e escrita, exigindo crédito pré-pago e sem credenciais da plataforma.",
+  "source_repo": "mcp-dir/ecac_caixa_postal-mcp",
+  "source_url": "https://github.com/mcp-dir/ecac_caixa_postal-mcp",
+  "install": "npx -y ecac_caixa_postal-mcp"
+}

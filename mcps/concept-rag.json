@@ -1,0 +1,7 @@
+{
+  "name": "concept-rag",
+  "description": "Enables LLMs to perform conceptual search over local PDF/EPUB documents using a RAG pipeline with corpus-driven concept extraction and WordNet enrichment.",
+  "source_repo": "m2ux/concept-rag",
+  "source_url": "https://github.com/m2ux/concept-rag",
+  "install": "# git clone --depth 1 https://github.com/m2ux/concept-rag\n# See source for mcpServers config block"
+}

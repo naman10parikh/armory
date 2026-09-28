@@ -1,0 +1,7 @@
+{
+  "name": "reach120-mcp-server",
+  "description": "Enables AI agents to fetch TOEFL iBT Writing practice prompts and score written responses via the Reach120 practice API, returning automated practice scores and rationales.",
+  "source_repo": "reach120/reach120-mcp",
+  "source_url": "https://github.com/reach120/reach120-mcp",
+  "install": "npx -y reach120-mcp"
+}

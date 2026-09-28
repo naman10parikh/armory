@@ -1,0 +1,7 @@
+{
+  "name": "mfds-mcp",
+  "description": "Enables searching and retrieving current Korean Food and Drug Administration (MFDS) legal notices and guidelines with version grouping, currency status, and source trustworthiness.",
+  "source_repo": "bbiyakfather/mfds-mcp",
+  "source_url": "https://github.com/bbiyakfather/mfds-mcp",
+  "install": "npx -y mfds-mcp"
+}

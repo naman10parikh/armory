@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sankhya-community-search-server",
+  "description": "Enables AI models to search and read topics from the Sankhya community discussion forum.",
+  "source_repo": "delt4d/OracleMCP",
+  "source_url": "https://github.com/delt4d/OracleMCP",
+  "install": "# git clone --depth 1 https://github.com/delt4d/OracleMCP\n# See source for mcpServers config block"
+}

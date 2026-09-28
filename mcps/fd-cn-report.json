@@ -1,0 +1,7 @@
+{
+  "name": "fd-cn-report",
+  "description": "An MCP server for Chinese financial reports, providing 44 tools to resolve companies, list/retrieve filings, extract report sections, run AI-based indicator extraction, search via Elasticsearch, and browse a 21,698-rule industry rules dashboard.",
+  "source_repo": "FindDataTechnology/fd-cn-report",
+  "source_url": "https://github.com/FindDataTechnology/fd-cn-report",
+  "install": "# git clone --depth 1 https://github.com/FindDataTechnology/fd-cn-report\n# See source for mcpServers config block"
+}

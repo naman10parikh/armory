@@ -1,0 +1,7 @@
+{
+  "name": "ktmcp-beezup",
+  "description": "Enables interaction with the BeezUP Merchant API for reading and writing BeezUP data, including store management and configuration.",
+  "source_repo": "ktmcp-cli/beezup",
+  "source_url": "https://github.com/ktmcp-cli/beezup",
+  "install": "# git clone --depth 1 https://github.com/ktmcp-cli/beezup\n# See source for mcpServers config block"
+}

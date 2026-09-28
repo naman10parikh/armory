@@ -1,6 +1,6 @@
 {
   "name": "mcp-sse3",
-  "description": "MCP SSE3 MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "biswapm/MCP-SSE3",
   "source_url": "https://mcp.so/server/MCP-SSE3/biswapm",
   "install": "# git clone --depth 1 https://mcp.so/server/MCP-SSE3/biswapm\n# See source for mcpServers config block"

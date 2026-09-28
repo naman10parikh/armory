@@ -1,0 +1,7 @@
+{
+  "name": "yari-medic-mcp",
+  "description": "MCP server for the Yari medical system, enabling access to patient records, appointments, financial data, and AI-assisted medical analysis. It provides 18 tools to query and manage medical information through natural language.",
+  "source_repo": "0xC1pher/yari-medic-mcp",
+  "source_url": "https://github.com/0xC1pher/yari-medic-mcp",
+  "install": "npx -y yari-medic-mcp"
+}

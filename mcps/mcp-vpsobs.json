@@ -1,0 +1,7 @@
+{
+  "name": "mcp-vpsobs",
+  "description": "Enables read-only observability of a Linux host via MCP, exposing allowlisted systemd, docker, nginx, logs, disk, and cert info without shell access.",
+  "source_repo": "0mandrock1/mcp-vpsobs",
+  "source_url": "https://github.com/0mandrock1/mcp-vpsobs",
+  "install": "# git clone --depth 1 https://github.com/0mandrock1/mcp-vpsobs\n# See source for mcpServers config block"
+}

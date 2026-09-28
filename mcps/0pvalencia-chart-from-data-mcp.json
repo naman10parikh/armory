@@ -1,0 +1,7 @@
+{
+  "name": "0pvalencia-chart-from-data-mcp",
+  "description": "MCP server that renders bar, line, and pie charts from data using QuickChart, returning PNG file paths.",
+  "source_repo": "0PValencia/chart-from-data-mcp",
+  "source_url": "https://github.com/0PValencia/chart-from-data-mcp",
+  "install": "npx -y chart-from-data-mcp"
+}

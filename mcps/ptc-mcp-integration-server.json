@@ -1,0 +1,7 @@
+{
+  "name": "ptc-mcp-integration-server",
+  "description": "Integrates PTC Windchill and Creo Parametric with LLM-based clients via the Model Context Protocol, enabling natural language interaction with PLM and CAD systems for tasks like part search, BOM retrieval, model operations, and exports.",
+  "source_repo": "rweisssieker-xp/GBL-CREO-WINDCHILL-MCP",
+  "source_url": "https://github.com/rweisssieker-xp/GBL-CREO-WINDCHILL-MCP",
+  "install": "npx -y GBL-CREO-WINDCHILL-MCP"
+}

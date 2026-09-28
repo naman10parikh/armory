@@ -1,0 +1,7 @@
+{
+  "name": "aliensec-mcp-server",
+  "description": "Enables AI agents to perform endpoint security scanning using AlienVault OTX and VirusTotal, including multi-platform scans, threat intelligence queries, and scan data persistence.",
+  "source_repo": "VrilLabs/aliensec-mcp-server",
+  "source_url": "https://github.com/VrilLabs/aliensec-mcp-server",
+  "install": "npx -y aliensec-mcp-server"
+}

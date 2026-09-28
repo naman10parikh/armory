@@ -1,0 +1,7 @@
+{
+  "name": "jupiter-controller-mcp",
+  "description": "Connects Claude Code to local Jupyter kernels for code execution, kernel management, and notebook execution, with security gating and output capture.",
+  "source_repo": "nufelroknidev/Jupyter-kernel-bridge-mcp",
+  "source_url": "https://github.com/nufelroknidev/Jupyter-kernel-bridge-mcp",
+  "install": "npx -y Jupyter-kernel-bridge-mcp"
+}

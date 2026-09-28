@@ -1,0 +1,7 @@
+{
+  "name": "adonis-zerodha-trading-mcp-server",
+  "description": "Adonis bridges AI systems with the Indian stock market through Zerodha's Kite Connect API, enabling real-time market data, trading, portfolio management, and risk controls.",
+  "source_repo": "ameydabhade/adonis-mcp",
+  "source_url": "https://github.com/ameydabhade/adonis-mcp",
+  "install": "npx -y adonis-mcp"
+}

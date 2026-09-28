@@ -1,0 +1,7 @@
+{
+  "name": "minimax-omni",
+  "description": "MCP server for MiniMax's multimodal generation models, enabling text-to-speech, voice cloning, image, video, and music creation through natural language.",
+  "source_repo": "Algovate/minimax-omni",
+  "source_url": "https://github.com/Algovate/minimax-omni",
+  "install": "# git clone --depth 1 https://github.com/Algovate/minimax-omni\n# See source for mcpServers config block"
+}

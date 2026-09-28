@@ -1,6 +1,6 @@
 {
   "name": "eregulations-mcp-server-2",
-  "description": "Eregulations Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "benmoumen/eregulations-mcp-server",
   "source_url": "https://mcp.so/server/eregulations-mcp-server/benmoumen",
   "install": "npx -y eregulations-mcp-server"

@@ -1,0 +1,7 @@
+{
+  "name": "fast-browser",
+  "description": "Fast Browser is an MCP server that lets Claude Code and Codex drive an existing Chrome browser with your real profile, logins, and tabs, using a macro library for multi-step flows in single tool calls and supporting concurrent agents with isolated tab groups.",
+  "source_repo": "m4ttstack/fast-browser",
+  "source_url": "https://github.com/m4ttstack/fast-browser",
+  "install": "# git clone --depth 1 https://github.com/m4ttstack/fast-browser\n# See source for mcpServers config block"
+}

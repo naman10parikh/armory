@@ -1,0 +1,7 @@
+{
+  "name": "safe-fetch-mcp-server",
+  "description": "A secure MCP server for fetching web content for agents, with provably correct SSRF protection against edge cases, redirects, and DNS rebinding.",
+  "source_repo": "Sanoy24/safe-fetch-mcp-server",
+  "source_url": "https://github.com/Sanoy24/safe-fetch-mcp-server",
+  "install": "npx -y safe-fetch-mcp-server"
+}

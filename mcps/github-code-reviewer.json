@@ -1,0 +1,7 @@
+{
+  "name": "github-code-reviewer",
+  "description": "Enables fetching Pull Request diffs from GitHub and posting inline review comments directly on PRs, either as pending drafts or published immediately.",
+  "source_repo": "thicapistrano/mcp-github-reviewer",
+  "source_url": "https://github.com/thicapistrano/mcp-github-reviewer",
+  "install": "# git clone --depth 1 https://github.com/thicapistrano/mcp-github-reviewer\n# See source for mcpServers config block"
+}

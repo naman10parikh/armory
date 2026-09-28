@@ -1,0 +1,7 @@
+{
+  "name": "cloud-architect",
+  "description": "Provides cloud architecture analysis, recommendations, and artifacts (diagrams, ADRs, deployment comparisons) for any project, supporting AWS, GCP, and Azure.",
+  "source_repo": "bmdietrich/agent-cloud-architect",
+  "source_url": "https://github.com/bmdietrich/agent-cloud-architect",
+  "install": "# git clone --depth 1 https://github.com/bmdietrich/agent-cloud-architect\n# See source for mcpServers config block"
+}

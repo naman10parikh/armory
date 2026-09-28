@@ -1,0 +1,7 @@
+{
+  "name": "bndy-mcp-server",
+  "description": "Enables AI assistants to search and create venues and artists, and create events on the BNDY platform via AWS Lambda.",
+  "source_repo": "flowency-live/bndy-MCP",
+  "source_url": "https://github.com/flowency-live/bndy-MCP",
+  "install": "npx -y bndy-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "b2b-saas-inc-olli-mcp-server",
+  "description": "Lets LLMs manage social media presence via olli.social API, with tools for campaigns, drafts, analytics, and more.",
+  "source_repo": "ejwhite7/olli-social-mcp",
+  "source_url": "https://github.com/ejwhite7/olli-social-mcp",
+  "install": "npx -y olli-social-mcp"
+}

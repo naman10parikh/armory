@@ -1,0 +1,7 @@
+{
+  "name": "antigravity",
+  "description": "Enables local AI agents to generate code and interact with Google Antigravity (Gemini Pro) via MCP, consuming zero API tokens.",
+  "source_repo": "Snake76500/mcp_antigravity",
+  "source_url": "https://github.com/Snake76500/mcp_antigravity",
+  "install": "# git clone --depth 1 https://github.com/Snake76500/mcp_antigravity\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "korea-university-mcp",
+  "description": "Integrates Korean university information APIs (대학알리미 and 공공데이터포털) into a single MCP server and CLI, enabling search, description, and execution of university data operations such as student, faculty, and finance statistics.",
+  "source_repo": "topnotcher107-dotcom/korea-university-mcp",
+  "source_url": "https://github.com/topnotcher107-dotcom/korea-university-mcp",
+  "install": "npx -y korea-university-mcp"
+}

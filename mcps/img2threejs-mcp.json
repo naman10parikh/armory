@@ -1,0 +1,7 @@
+{
+  "name": "img2threejs-mcp",
+  "description": "Reconstructs a reference image as procedural 3D geometry through a staged pipeline, generating a Three.js model, preview, comparison, and glTF export.",
+  "source_repo": "Melbar666/img2threejs-mcp",
+  "source_url": "https://github.com/Melbar666/img2threejs-mcp",
+  "install": "npx -y img2threejs-mcp"
+}

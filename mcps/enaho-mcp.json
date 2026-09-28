@@ -1,0 +1,7 @@
+{
+  "name": "enaho-mcp",
+  "description": "MCP server for ENAHO (Peru's national household survey) microdata. Enables discovery, download, merging, and complex-survey statistical estimation of official poverty and income indicators, with report generation.",
+  "source_repo": "AnderMC66/enaho-mcp",
+  "source_url": "https://github.com/AnderMC66/enaho-mcp",
+  "install": "npx -y enaho-mcp"
+}

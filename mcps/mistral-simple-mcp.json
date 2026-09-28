@@ -1,0 +1,7 @@
+{
+  "name": "mistral-simple-mcp",
+  "description": "Enables agents to delegate single-shot text completion and schema-validated structured data extraction to Mistral AI models over Streamable HTTP or stdio.",
+  "source_repo": "maxbth/mistral-simple-mcp",
+  "source_url": "https://github.com/maxbth/mistral-simple-mcp",
+  "install": "npx -y mistral-simple-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "diagrams-so",
+  "description": "The Diagrams.so MCP server enables generating, editing, and managing cloud architecture diagrams from any MCP client, wrapping the public Diagrams.so API.",
+  "source_repo": "RedHold/diagrams-mcp-app-core",
+  "source_url": "https://github.com/RedHold/diagrams-mcp-app-core",
+  "install": "# git clone --depth 1 https://github.com/RedHold/diagrams-mcp-app-core\n# See source for mcpServers config block"
+}

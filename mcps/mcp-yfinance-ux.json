@@ -1,0 +1,7 @@
+{
+  "name": "mcp-yfinance-ux",
+  "description": "Provides Bloomberg Terminal-style market data for AI agents, with formatted tables and navigable hierarchy (markets → sector → ticker).",
+  "source_repo": "bxxd/mcp-yfinance-ux",
+  "source_url": "https://github.com/bxxd/mcp-yfinance-ux",
+  "install": "# git clone --depth 1 https://github.com/bxxd/mcp-yfinance-ux\n# See source for mcpServers config block"
+}

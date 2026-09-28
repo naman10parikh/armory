@@ -1,0 +1,7 @@
+{
+  "name": "dev-context-memory-mcp",
+  "description": "A local-first MCP server that gives AI coding assistants persistent, structured, human-readable memory for a software project by storing project knowledge as Markdown files in the project's .dev-context-memory/ folder.",
+  "source_repo": "gregoire-renaldo/memory-mcp",
+  "source_url": "https://github.com/gregoire-renaldo/memory-mcp",
+  "install": "npx -y memory-mcp"
+}

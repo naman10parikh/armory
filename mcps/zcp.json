@@ -1,0 +1,7 @@
+{
+  "name": "zcp",
+  "description": "ZCP is a CLI with Zerops MCP that makes your agent a Zerops power-user. It runs either inside your project, or is connected through zCLI's VPN functionality to the project from your terminal. Your agent. Your subscription. Your code. Your infrastructure. Your IDE.",
+  "source_repo": "zeropsio/zcp",
+  "source_url": "https://github.com/zeropsio/zcp",
+  "install": "# git clone --depth 1 https://github.com/zeropsio/zcp\n# See source for mcpServers config block"
+}

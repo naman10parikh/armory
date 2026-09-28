@@ -1,0 +1,7 @@
+{
+  "name": "coderoot-authoring-mcp",
+  "description": "Captures an agentic asset's foundational record as a single asset-record.json, including creation facts and author-only confirmed metadata. Provides MCP tools to record, read, and finalize provenance during asset development.",
+  "source_repo": "SettleTop-Inc/CodeRoot-Authoring-MCP",
+  "source_url": "https://github.com/SettleTop-Inc/CodeRoot-Authoring-MCP",
+  "install": "npx -y CodeRoot-Authoring-MCP"
+}

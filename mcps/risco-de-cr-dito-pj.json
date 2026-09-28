@@ -1,0 +1,7 @@
+{
+  "name": "risco-de-cr-dito-pj",
+  "description": "MCP server for assessing credit risk of Brazilian companies by CNPJ. Provides a single read-only tool for safer credit analysis.",
+  "source_repo": "mcp-dir/credito_pj_risco-mcp",
+  "source_url": "https://github.com/mcp-dir/credito_pj_risco-mcp",
+  "install": "npx -y credito_pj_risco-mcp"
+}

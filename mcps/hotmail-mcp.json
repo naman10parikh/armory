@@ -1,0 +1,7 @@
+{
+  "name": "hotmail-mcp",
+  "description": "A local MCP server that connects Claude Desktop to a personal Hotmail/Outlook.com mailbox via Microsoft Graph API, enabling email management, rule handling, and composing messages.",
+  "source_repo": "oshann/hotmail-mcp",
+  "source_url": "https://github.com/oshann/hotmail-mcp",
+  "install": "npx -y hotmail-mcp"
+}

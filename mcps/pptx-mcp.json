@@ -1,0 +1,7 @@
+{
+  "name": "pptx-mcp",
+  "description": "A local MCP server for Claude to create, edit, and export PowerPoint presentations on Windows, with support for SAP corporate templates and full auditing.",
+  "source_repo": "brijeshshetty/pptx-mcp",
+  "source_url": "https://github.com/brijeshshetty/pptx-mcp",
+  "install": "npx -y pptx-mcp"
+}

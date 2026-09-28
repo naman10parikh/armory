@@ -1,0 +1,7 @@
+{
+  "name": "fenderstudiopromcp",
+  "description": "An MCP server that turns PreSonus Studio One into an AI-controllable DAW, enabling production workflows like editing, MIDI manipulation, mixing, effects, and export through an LLM.",
+  "source_repo": "pajdarova/FenderStudioProMCP",
+  "source_url": "https://github.com/pajdarova/FenderStudioProMCP",
+  "install": "# git clone --depth 1 https://github.com/pajdarova/FenderStudioProMCP\n# See source for mcpServers config block"
+}

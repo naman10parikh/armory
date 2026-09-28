@@ -1,0 +1,7 @@
+{
+  "name": "n8n-templates-api-mcp-server",
+  "description": "Enables querying the public n8n workflow template library via API, supporting search by keyword, category, app, or node, ranking by views, and exporting importable workflow JSON.",
+  "source_repo": "johnisanerd/Apify-N8n-Templates-API",
+  "source_url": "https://github.com/johnisanerd/Apify-N8n-Templates-API",
+  "install": "# git clone --depth 1 https://github.com/johnisanerd/Apify-N8n-Templates-API\n# See source for mcpServers config block"
+}

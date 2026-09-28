@@ -1,0 +1,7 @@
+{
+  "name": "braintrust-lite",
+  "description": "An MCP server that enables Claude Code to concurrently consult Codex and Gemini as a 'military advisor', merging their perspectives to form a final solution.",
+  "source_repo": "HongjieRen/braintrust-lite",
+  "source_url": "https://github.com/HongjieRen/braintrust-lite",
+  "install": "# git clone --depth 1 https://github.com/HongjieRen/braintrust-lite\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "docdex",
+  "description": "Turns a directory of markdown documentation into searchable, citable tools for AI assistants, enabling targeted retrieval of specific sections with stable references.",
+  "source_repo": "trushantgautam/docdex-mcp",
+  "source_url": "https://github.com/trushantgautam/docdex-mcp",
+  "install": "npx -y docdex-mcp"
+}

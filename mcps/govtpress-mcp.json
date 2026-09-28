@@ -1,0 +1,7 @@
+{
+  "name": "govtpress-mcp",
+  "description": "Enables read-only search and retrieval of press releases from 12 South Korean government agencies, returning metadata like title, agency, publication date, and original URL.",
+  "source_repo": "yongkyu4803/GQAI-GovtPress-mcp",
+  "source_url": "https://github.com/yongkyu4803/GQAI-GovtPress-mcp",
+  "install": "npx -y GQAI-GovtPress-mcp"
+}

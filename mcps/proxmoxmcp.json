@@ -1,0 +1,7 @@
+{
+  "name": "proxmoxmcp",
+  "description": "A Python-based MCP server for interacting with Proxmox hypervisors, enabling management of nodes, VMs, containers, and executing commands via QEMU Guest Agent.",
+  "source_repo": "rodaddy/ProxmoxMCP",
+  "source_url": "https://github.com/rodaddy/ProxmoxMCP",
+  "install": "# git clone --depth 1 https://github.com/rodaddy/ProxmoxMCP\n# See source for mcpServers config block"
+}

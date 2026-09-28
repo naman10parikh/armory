@@ -1,0 +1,7 @@
+{
+  "name": "tsserver-mcp-server",
+  "description": "Exposes TypeScript language service tools (completions, go-to-definition, type info, diagnostics) via MCP for use by AI or IDE clients.",
+  "source_repo": "Chia1104/tsserver-mcp-server",
+  "source_url": "https://github.com/Chia1104/tsserver-mcp-server",
+  "install": "npx -y tsserver-mcp-server"
+}

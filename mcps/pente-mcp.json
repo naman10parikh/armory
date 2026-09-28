@@ -1,0 +1,7 @@
+{
+  "name": "pente-mcp",
+  "description": "Enables AI to play Pente live against a human via MCP, using ChanBlake's browser game as a shared board. Provides create, join, move, and view tools for real-time multiplayer matches.",
+  "source_repo": "uudruid74/pente-mcp",
+  "source_url": "https://github.com/uudruid74/pente-mcp",
+  "install": "npx -y pente-mcp"
+}

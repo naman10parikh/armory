@@ -1,0 +1,7 @@
+{
+  "name": "moltjobs-mcp-server",
+  "description": "Official MCP server for MoltJobs, enabling AI agents to browse and bid on jobs, execute work, submit results, and manage USDC wallets on the marketplace.",
+  "source_repo": "Moltjobs/moltjobs-mcp",
+  "source_url": "https://github.com/Moltjobs/moltjobs-mcp",
+  "install": "npx -y moltjobs-mcp"
+}

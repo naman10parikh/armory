@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-synology",
+  "description": "An MCP server that exposes a Synology NAS through the official DSM WebAPI, covering File Station, Download Station, Synology Photos, Container Manager, and system management with curated tools and a generic bridge for other APIs.",
+  "source_repo": "Mrquj/mcp-server-synology",
+  "source_url": "https://github.com/Mrquj/mcp-server-synology",
+  "install": "# git clone --depth 1 https://github.com/Mrquj/mcp-server-synology\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-doctor-api-ai-medical-chatbot-healthcare-ai-assistant-mcp-server",
+  "description": "Provides access to an AI medical chatbot API for healthcare assistance, enabling natural language interactions such as neurosurgery queries.",
+  "source_repo": "BACH-AI-Tools/bach-ai_doctor_api_ai_medical_chatbot_healthcare_ai_assistant",
+  "source_url": "https://github.com/BACH-AI-Tools/bach-ai_doctor_api_ai_medical_chatbot_healthcare_ai_assistant",
+  "install": "# git clone --depth 1 https://github.com/BACH-AI-Tools/bach-ai_doctor_api_ai_medical_chatbot_healthcare_ai_assistant\n# See source for mcpServers config block"
+}

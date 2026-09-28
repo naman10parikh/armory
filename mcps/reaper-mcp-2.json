@@ -1,0 +1,7 @@
+{
+  "name": "reaper-mcp-2",
+  "description": "Enables AI-assisted VST plugin tuning by connecting Claude CLI to Reaper, allowing a loop of audio capture, spectrum analysis, and live plugin parameter adjustment.",
+  "source_repo": "explod1983/reaper-mcp",
+  "source_url": "https://github.com/explod1983/reaper-mcp",
+  "install": "npx -y reaper-mcp"
+}

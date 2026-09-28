@@ -1,0 +1,7 @@
+{
+  "name": "zipexplore-mcp-server",
+  "description": "Enables location intelligence for US ZIP codes, allowing users to search, profile, and compare ZIP codes across various domains like crime, income, schools, and more.",
+  "source_repo": "andrew-sondgeroth/zipexplore-mcp",
+  "source_url": "https://github.com/andrew-sondgeroth/zipexplore-mcp",
+  "install": "npx -y zipexplore-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "restaurant-agent",
+  "description": "A permission-aware MCP server for restaurant backend operations, enabling role-based access to menus, orders, sales, and drafting specials with a human approval workflow.",
+  "source_repo": "illustraton916/restaurant-agent",
+  "source_url": "https://github.com/illustraton916/restaurant-agent",
+  "install": "# git clone --depth 1 https://github.com/illustraton916/restaurant-agent\n# See source for mcpServers config block"
+}

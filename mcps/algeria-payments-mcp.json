@@ -1,0 +1,7 @@
+{
+  "name": "algeria-payments-mcp",
+  "description": "Enables AI agents to accept payments in Algeria via EDAHABIA and CIB interbank cards through Chargily Pay's hosted checkout.",
+  "source_repo": "junter1989k-ai/algeria-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/algeria-payments-mcp",
+  "install": "npx -y algeria-payments-mcp"
+}

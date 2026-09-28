@@ -1,0 +1,7 @@
+{
+  "name": "browser-mcp-server-2",
+  "description": "A Model Context Protocol (MCP) server that provides browser automation capabilities, specifically for capturing console output from web pages.",
+  "source_repo": "stagas/browser-mcp-server",
+  "source_url": "https://github.com/stagas/browser-mcp-server",
+  "install": "npx -y browser-mcp-server"
+}

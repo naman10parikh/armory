@@ -1,0 +1,7 @@
+{
+  "name": "claude-skills-mcp-connector-2",
+  "description": "A remote MCP server that exposes a library of Claude-style SKILL.md packages, enabling Claude to search, retrieve skills, and read supporting files via MCP tools.",
+  "source_repo": "trytotest13/Claude-Skills-MCP-Connector",
+  "source_url": "https://github.com/trytotest13/Claude-Skills-MCP-Connector",
+  "install": "# git clone --depth 1 https://github.com/trytotest13/Claude-Skills-MCP-Connector\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "el-buen-agente-mcp-server",
+  "description": "Converts the 'El Buen Agente' guide into 17 actionable tools to evaluate, contract, and build robust LLM agents.",
+  "source_repo": "apasztetnik/el-buen-agente-mcp",
+  "source_url": "https://github.com/apasztetnik/el-buen-agente-mcp",
+  "install": "npx -y el-buen-agente-mcp"
+}

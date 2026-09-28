@@ -1,6 +1,6 @@
 {
   "name": "mcp-teamate-server",
-  "description": "Mcp Teamate Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "aokihu/mcp-teamate-server",
   "source_url": "https://mcp.so/server/mcp-teamate-server/aokihu",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-teamate-server/aokihu\n# See source for mcpServers config block"

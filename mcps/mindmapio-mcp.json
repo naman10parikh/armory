@@ -1,0 +1,7 @@
+{
+  "name": "mindmapio-mcp",
+  "description": "Enables AI agents to build and interact with mind maps on mindmap.io. Agents can create, read, update, and delete maps and nodes, run prompts on nodes, and auto-expand topics into follow-up questions.",
+  "source_repo": "MohGanji/mindmapio-mcp",
+  "source_url": "https://github.com/MohGanji/mindmapio-mcp",
+  "install": "npx -y mindmapio-mcp"
+}

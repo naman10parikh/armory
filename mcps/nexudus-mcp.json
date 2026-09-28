@@ -1,0 +1,7 @@
+{
+  "name": "nexudus-mcp",
+  "description": "Enables natural language booking and management of rooms in Nexudus coworking spaces, including listing rooms, checking availability, booking, viewing/cancelling bookings, and schedules.",
+  "source_repo": "jude-stiel/nexudus-mcp",
+  "source_url": "https://github.com/jude-stiel/nexudus-mcp",
+  "install": "npx -y nexudus-mcp"
+}

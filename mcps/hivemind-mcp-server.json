@@ -1,0 +1,7 @@
+{
+  "name": "hivemind-mcp-server",
+  "description": "Self-aware AI toolset for OpenCode with 30+ tools for code analysis, debugging, memory, and planning.",
+  "source_repo": "fixole12-collab/hivemind",
+  "source_url": "https://github.com/fixole12-collab/hivemind",
+  "install": "# git clone --depth 1 https://github.com/fixole12-collab/hivemind\n# See source for mcpServers config block"
+}

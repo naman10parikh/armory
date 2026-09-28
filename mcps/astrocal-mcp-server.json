@@ -1,0 +1,7 @@
+{
+  "name": "astrocal-mcp-server",
+  "description": "Enables AI agents to schedule meetings via Astrocal's scheduling API, including checking availability, booking, canceling, rescheduling, and managing waitlists through natural conversation.",
+  "source_repo": "astrocal-dev/mcp-server",
+  "source_url": "https://github.com/astrocal-dev/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/astrocal-dev/mcp-server\n# See source for mcpServers config block"
+}

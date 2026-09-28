@@ -1,0 +1,7 @@
+{
+  "name": "toggle-brain-mcp-server",
+  "description": "Exposes the Toggle Brain knowledge base, prompt templates, and executable scripts to any MCP-compatible AI assistant.",
+  "source_repo": "toggle-workspace/toggle-mcp",
+  "source_url": "https://github.com/toggle-workspace/toggle-mcp",
+  "install": "npx -y toggle-mcp"
+}

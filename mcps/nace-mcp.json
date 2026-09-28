@@ -1,0 +1,7 @@
+{
+  "name": "nace-mcp",
+  "description": "An MCP server exposing NACE Rev. 2.1 economic activity classification codes for AI agents, with tools to browse, search, and fuzzy-match codes.",
+  "source_repo": "DeJo90/nace-mcp",
+  "source_url": "https://github.com/DeJo90/nace-mcp",
+  "install": "npx -y nace-mcp"
+}

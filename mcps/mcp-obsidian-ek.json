@@ -1,0 +1,7 @@
+{
+  "name": "mcp-obsidian-ek",
+  "description": "MCP server providing tools to interact with Obsidian via the Local REST API community plugin.",
+  "source_repo": "proofsh/obsidian-mcp",
+  "source_url": "https://github.com/proofsh/obsidian-mcp",
+  "install": "npx -y obsidian-mcp"
+}

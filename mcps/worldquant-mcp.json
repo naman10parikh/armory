@@ -1,0 +1,7 @@
+{
+  "name": "worldquant-mcp",
+  "description": "Automates WorldQuant BRAIN alpha research workflows, including simulation, reference search, and alpha submission through MCP tools.",
+  "source_repo": "duy0699cat/worldquant-brain-mcp",
+  "source_url": "https://github.com/duy0699cat/worldquant-brain-mcp",
+  "install": "npx -y worldquant-brain-mcp"
+}

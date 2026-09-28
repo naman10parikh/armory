@@ -1,0 +1,7 @@
+{
+  "name": "odoo-ai-telegram-mcp",
+  "description": "Exposes 104 Odoo tools across CRM, Sales, Inventory, Accounting, and Helpdesk, enabling natural-language control of an Odoo instance via a Telegram assistant with user-level authentication and multi-step orchestration.",
+  "source_repo": "prashantk8ursrvc-ux/odoo-ai-telegram-mcp",
+  "source_url": "https://github.com/prashantk8ursrvc-ux/odoo-ai-telegram-mcp",
+  "install": "npx -y odoo-ai-telegram-mcp"
+}

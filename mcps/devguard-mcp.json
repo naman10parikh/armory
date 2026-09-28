@@ -1,0 +1,7 @@
+{
+  "name": "devguard-mcp",
+  "description": "Provides deterministic debugging tools for FastAPI/Python projects, enabling structured failure reports, code quality checks, and context packing.",
+  "source_repo": "xavier777501/mcp",
+  "source_url": "https://github.com/xavier777501/mcp",
+  "install": "# git clone --depth 1 https://github.com/xavier777501/mcp\n# See source for mcpServers config block"
+}

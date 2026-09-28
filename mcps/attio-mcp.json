@@ -1,0 +1,7 @@
+{
+  "name": "attio-mcp",
+  "description": "Enables interaction with Attio CRM through natural language, using a Code Mode pattern where the LLM writes JavaScript to query the OpenAPI spec and call endpoints via three tools: search, execute, and context.",
+  "source_repo": "TrialAndErrorAI/attio-mcp",
+  "source_url": "https://github.com/TrialAndErrorAI/attio-mcp",
+  "install": "npx -y attio-mcp"
+}

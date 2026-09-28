@@ -1,0 +1,7 @@
+{
+  "name": "safe-oas2mcp",
+  "description": "A safe gateway to convert OpenAPI specs into MCP tools with secure defaults, risk inspection, and confirmation gates.",
+  "source_repo": "noezeke/safe-oas2mcp",
+  "source_url": "https://github.com/noezeke/safe-oas2mcp",
+  "install": "# git clone --depth 1 https://github.com/noezeke/safe-oas2mcp\n# See source for mcpServers config block"
+}

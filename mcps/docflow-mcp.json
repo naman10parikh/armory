@@ -1,0 +1,7 @@
+{
+  "name": "docflow-mcp",
+  "description": "Enables LLM agents to classify documents, extract fields, tables, and stamps, and run compliance reviews using Docflow's document automation platform via 41 MCP tools.",
+  "source_repo": "intsig-textin/docflow-mcp",
+  "source_url": "https://github.com/intsig-textin/docflow-mcp",
+  "install": "npx -y docflow-mcp"
+}

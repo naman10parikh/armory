@@ -1,0 +1,7 @@
+{
+  "name": "edgedepth-research-mcp-server",
+  "description": "A read-only MCP server for EdgeDepth's market microstructure search engine, enabling users to query recorded crypto and TradFi perpetuals for market conditions, outcomes, and reproducibility-keyed evidence directly from MCP clients.",
+  "source_repo": "edgedepthhq/edgedepth-research-mcp",
+  "source_url": "https://github.com/edgedepthhq/edgedepth-research-mcp",
+  "install": "npx -y edgedepth-research-mcp"
+}

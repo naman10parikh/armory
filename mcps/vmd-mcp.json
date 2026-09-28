@@ -1,0 +1,7 @@
+{
+  "name": "vmd-mcp",
+  "description": "Drive VMD headlessly from any MCP client to analyze structures and trajectories, and ray-trace publication-quality images with no display.",
+  "source_repo": "Alierkn/vmd-mcp",
+  "source_url": "https://github.com/Alierkn/vmd-mcp",
+  "install": "npx -y vmd-mcp"
+}

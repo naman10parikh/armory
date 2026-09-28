@@ -1,0 +1,7 @@
+{
+  "name": "skybrain",
+  "description": "Provides a shared MCP memory layer for AI clients, backed by Cloudflare Workers and D1, enabling personal Markdown notes management.",
+  "source_repo": "augwalts/skybrain",
+  "source_url": "https://github.com/augwalts/skybrain",
+  "install": "# git clone --depth 1 https://github.com/augwalts/skybrain\n# See source for mcpServers config block"
+}

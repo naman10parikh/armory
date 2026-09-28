@@ -1,0 +1,7 @@
+{
+  "name": "xhs-image-mcp",
+  "description": "Converts text or markdown into Xiaohongshu (Little Red Book) style image cards with AI cover generation, supporting multiple themes and aspect ratios.",
+  "source_repo": "dthinkr/xhs-image-mcp",
+  "source_url": "https://github.com/dthinkr/xhs-image-mcp",
+  "install": "npx -y xhs-image-mcp"
+}

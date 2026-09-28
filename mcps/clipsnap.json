@@ -1,0 +1,7 @@
+{
+  "name": "clipsnap",
+  "description": "MCP server that gives Claude Code reliable access to clipboard images and screenshots, fixing broken paste in iTerm2.",
+  "source_repo": "zelentsov-dev/clipsnap-mcp",
+  "source_url": "https://github.com/zelentsov-dev/clipsnap-mcp",
+  "install": "npx -y clipsnap-mcp"
+}

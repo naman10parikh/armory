@@ -1,0 +1,7 @@
+{
+  "name": "qualitycontrol-mcp",
+  "description": "Connects ChatGPT/Claude with the QualityControl REST API, allowing users to query company information, sensor data, weather, harvest, exports, dispatches, and more using natural language.",
+  "source_repo": "cogrowersqa/qualitycontrol-mcp",
+  "source_url": "https://github.com/cogrowersqa/qualitycontrol-mcp",
+  "install": "npx -y qualitycontrol-mcp"
+}

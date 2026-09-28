@@ -1,0 +1,7 @@
+{
+  "name": "semantic-code-mcp",
+  "description": "A self-hosted semantic code retrieval MCP server that enables natural language queries to find relevant code snippets using Tree-sitter AST parsing, embedding, and hybrid search with reranking.",
+  "source_repo": "huawang1258/semantic-code-mcp",
+  "source_url": "https://github.com/huawang1258/semantic-code-mcp",
+  "install": "npx -y semantic-code-mcp"
+}

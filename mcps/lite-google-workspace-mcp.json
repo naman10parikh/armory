@@ -1,0 +1,7 @@
+{
+  "name": "lite-google-workspace-mcp",
+  "description": "Lightweight MCP server for Gmail and Google Calendar, enabling email and calendar management via natural language with per-account processes.",
+  "source_repo": "WhymustIhaveaname/lite-google-workspace-mcp",
+  "source_url": "https://github.com/WhymustIhaveaname/lite-google-workspace-mcp",
+  "install": "npx -y lite-google-workspace-mcp"
+}

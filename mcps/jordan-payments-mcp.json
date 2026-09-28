@@ -1,0 +1,7 @@
+{
+  "name": "jordan-payments-mcp",
+  "description": "Enables AI agents to accept payments in Jordan through Tap Payments hosted checkout, supporting cards and Apple Pay with tools for creating payment links and querying payment status.",
+  "source_repo": "junter1989k-ai/jordan-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/jordan-payments-mcp",
+  "install": "npx -y jordan-payments-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ie-mcp",
+  "description": "Enables LLMs to drive Edge in IE mode for automating legacy IE-only web applications, supporting tasks like clicking, filling forms, and data extraction via Selenium.",
+  "source_repo": "thomfilg/ie-mcp",
+  "source_url": "https://github.com/thomfilg/ie-mcp",
+  "install": "npx -y ie-mcp"
+}

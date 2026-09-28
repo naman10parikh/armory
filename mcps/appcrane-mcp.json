@@ -1,0 +1,7 @@
+{
+  "name": "appcrane-mcp",
+  "description": "MCP connector for AppCrane that serves a bundled tool catalog for offline introspection and proxies tool calls to a self-hosted AppCrane instance for deploying and managing AI-built apps.",
+  "source_repo": "gitayg/appcrane-mcp",
+  "source_url": "https://github.com/gitayg/appcrane-mcp",
+  "install": "npx -y appcrane-mcp"
+}

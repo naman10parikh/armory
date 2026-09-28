@@ -1,0 +1,7 @@
+{
+  "name": "imdb-mcp",
+  "description": "Enables semantic and similarity search across IMDB movie data using vector embeddings and PostgreSQL with pgvector, supporting traditional filters and hybrid search.",
+  "source_repo": "AlexOBarnes/IMDB-MCP",
+  "source_url": "https://github.com/AlexOBarnes/IMDB-MCP",
+  "install": "npx -y IMDB-MCP"
+}

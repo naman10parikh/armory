@@ -1,0 +1,7 @@
+{
+  "name": "hitl-gate-mcp",
+  "description": "Human-in-the-Loop approval gate for AI agents to assess risky operations and require user approval via Cursor forms.",
+  "source_repo": "JerryFish123/Jerry_hitl_mcp",
+  "source_url": "https://github.com/JerryFish123/Jerry_hitl_mcp",
+  "install": "npx -y Jerry_hitl_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apple-notes-mcp-2",
+  "description": "Enables AI assistants to read, search, and create notes in Apple Notes on macOS via JXA, with fast bulk operations and a compact schema.",
+  "source_repo": "simantaturja/apple-notes-mcp",
+  "source_url": "https://github.com/simantaturja/apple-notes-mcp",
+  "install": "npx -y apple-notes-mcp"
+}

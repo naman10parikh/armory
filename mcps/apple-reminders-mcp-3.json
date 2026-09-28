@@ -1,0 +1,7 @@
+{
+  "name": "apple-reminders-mcp-3",
+  "description": "Enables Claude to manage Apple Reminders on macOS, including creating, reading, updating, deleting, and searching reminders across multiple lists with due dates, priorities, and notes.",
+  "source_repo": "dbmcco/apple-reminders-mcp",
+  "source_url": "https://github.com/dbmcco/apple-reminders-mcp",
+  "install": "npx -y apple-reminders-mcp"
+}

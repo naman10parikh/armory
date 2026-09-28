@@ -1,0 +1,7 @@
+{
+  "name": "mcp-compensator",
+  "description": "MCP proxy that journals mutating tool calls and enables undo via compensation. It adds checkpoint, list_changes, undo_to, and explain_blast_radius meta-tools while forwarding all original downstream tools unchanged.",
+  "source_repo": "mohithhhh/mcp-compensator",
+  "source_url": "https://github.com/mohithhhh/mcp-compensator",
+  "install": "# git clone --depth 1 https://github.com/mohithhhh/mcp-compensator\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "abaqus-mcp",
+  "description": "An MCP server that enables controlling a live Abaqus/CAE session through natural language, allowing model inspection, job submission, ODB analysis, and viewport capture.",
+  "source_repo": "yezg9920-kely/abaqus-mcp",
+  "source_url": "https://github.com/yezg9920-kely/abaqus-mcp",
+  "install": "npx -y abaqus-mcp"
+}

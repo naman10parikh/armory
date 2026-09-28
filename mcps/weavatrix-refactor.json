@@ -1,0 +1,7 @@
+{
+  "name": "weavatrix-refactor",
+  "description": "Provides read-only code analysis and safe, reversible code refactoring with proven edit plans, previews, and rollback.",
+  "source_repo": "sergii-ziborov/weavatrix-refactor",
+  "source_url": "https://github.com/sergii-ziborov/weavatrix-refactor",
+  "install": "# git clone --depth 1 https://github.com/sergii-ziborov/weavatrix-refactor\n# See source for mcpServers config block"
+}

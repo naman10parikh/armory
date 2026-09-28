@@ -1,0 +1,7 @@
+{
+  "name": "universal-json-agent-mcp",
+  "description": "Enables natural language interaction with JSON files, providing tools to load, query, aggregate, transform, and export data directly from AI editors.",
+  "source_repo": "GautamVhavle/universal-json-agent",
+  "source_url": "https://github.com/GautamVhavle/universal-json-agent",
+  "install": "# git clone --depth 1 https://github.com/GautamVhavle/universal-json-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "travel-briefing-mcp",
+  "description": "Enables Kakao Tools users to get comprehensive travel preparation information for Japan, including visa requirements, exchange rates, safety alerts, flight seasons, and curated tourist destinations, directly in KakaoTalk conversations.",
+  "source_repo": "Yongho-Song-dev/travel-briefing-mcp",
+  "source_url": "https://github.com/Yongho-Song-dev/travel-briefing-mcp",
+  "install": "npx -y travel-briefing-mcp"
+}

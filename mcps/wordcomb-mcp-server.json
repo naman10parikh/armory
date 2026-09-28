@@ -1,0 +1,7 @@
+{
+  "name": "wordcomb-mcp-server",
+  "description": "Exposes a word combination engine with tools to generate permutations and check words against English and Arabic dictionaries, accessible via SSE.",
+  "source_repo": "Yossof0/wordcomb-mcp",
+  "source_url": "https://github.com/Yossof0/wordcomb-mcp",
+  "install": "npx -y wordcomb-mcp"
+}

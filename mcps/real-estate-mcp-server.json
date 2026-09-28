@@ -1,0 +1,7 @@
+{
+  "name": "real-estate-mcp-server",
+  "description": "Enables structured real estate workflows including property search, agent/client management, market intelligence, mortgage calculations, valuation, investment analysis, and document ingestion, with offline-first capabilities and optional live data integrations.",
+  "source_repo": "0Xfftobit/RE-mcp",
+  "source_url": "https://github.com/0Xfftobit/RE-mcp",
+  "install": "npx -y RE-mcp"
+}

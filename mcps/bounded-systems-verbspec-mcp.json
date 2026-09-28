@@ -1,0 +1,7 @@
+{
+  "name": "bounded-systems-verbspec-mcp",
+  "description": "Turns any verb Registry into a real MCP server, where each verb becomes an MCP tool with its own Zod input/output schemas (zero drift).",
+  "source_repo": "bounded-systems/verbspec-mcp",
+  "source_url": "https://github.com/bounded-systems/verbspec-mcp",
+  "install": "npx -y verbspec-mcp"
+}

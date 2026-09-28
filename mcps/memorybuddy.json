@@ -1,0 +1,7 @@
+{
+  "name": "memorybuddy",
+  "description": "A shared memory MCP server for AI agents that provides persistent, semantic memory across sessions and tools, enabling long-term recall and context sharing.",
+  "source_repo": "Trainspotting31/memory-buddy",
+  "source_url": "https://github.com/Trainspotting31/memory-buddy",
+  "install": "# git clone --depth 1 https://github.com/Trainspotting31/memory-buddy\n# See source for mcpServers config block"
+}

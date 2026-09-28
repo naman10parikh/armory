@@ -1,0 +1,7 @@
+{
+  "name": "greynoise-mcp-server",
+  "description": "MCP server for GreyNoise threat intelligence, enabling IP analysis, GNQL queries, tag and vulnerability lookups, and session/pcap retrieval via natural language.",
+  "source_repo": "GreyNoise-Intelligence/greynoise-mcp-server",
+  "source_url": "https://github.com/GreyNoise-Intelligence/greynoise-mcp-server",
+  "install": "npx -y greynoise-mcp-server"
+}

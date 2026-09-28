@@ -1,0 +1,7 @@
+{
+  "name": "aws-devops-study-kb",
+  "description": "Self-hosted memo knowledge base with MCP, REST, and read-only web interfaces; lets AI agents save and retrieve tagged, searchable study notes for AWS DevOps Pro exam prep.",
+  "source_repo": "rez-f/aws-devops-study-kb",
+  "source_url": "https://github.com/rez-f/aws-devops-study-kb",
+  "install": "# git clone --depth 1 https://github.com/rez-f/aws-devops-study-kb\n# See source for mcpServers config block"
+}

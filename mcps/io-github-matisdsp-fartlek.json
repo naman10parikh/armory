@@ -1,0 +1,7 @@
+{
+  "name": "io-github-matisdsp-fartlek",
+  "description": "An MCP server that transforms Garmin data into compact, verdict-first coaching reports for LLMs, computing metrics like CTL/ATL/TSB and ACWR to answer training readiness questions.",
+  "source_repo": "matisdsp/fartlek",
+  "source_url": "https://github.com/matisdsp/fartlek",
+  "install": "# git clone --depth 1 https://github.com/matisdsp/fartlek\n# See source for mcpServers config block"
+}

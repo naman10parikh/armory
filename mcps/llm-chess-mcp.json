@@ -1,0 +1,7 @@
+{
+  "name": "llm-chess-mcp",
+  "description": "MCP chess runtime that lets LLMs play, analyze, and adapt strength by exposing Stockfish, human move likelihood (Maia3), and Lichess statistics, with the LLM handling strategy and the server handling computation.",
+  "source_repo": "prepaser/llm-chess-mcp",
+  "source_url": "https://github.com/prepaser/llm-chess-mcp",
+  "install": "npx -y llm-chess-mcp"
+}

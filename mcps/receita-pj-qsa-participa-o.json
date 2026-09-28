@@ -1,0 +1,7 @@
+{
+  "name": "receita-pj-qsa-participa-o",
+  "description": "Consulta o quadro societário de uma empresa e a participação societária dos sócios em outras empresas a partir do CNPJ, com acesso somente leitura.",
+  "source_repo": "mcp-dir/receita_pj_qsa-mcp",
+  "source_url": "https://github.com/mcp-dir/receita_pj_qsa-mcp",
+  "install": "npx -y receita_pj_qsa-mcp"
+}

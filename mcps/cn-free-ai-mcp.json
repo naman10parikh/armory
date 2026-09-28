@@ -1,0 +1,7 @@
+{
+  "name": "cn-free-ai-mcp",
+  "description": "A zero-cost, China-accessible MCP server providing four free AI capabilities: text chat, image generation, speech-to-text, and text-to-speech, ready to use after cloning.",
+  "source_repo": "sinner12123/cn-free-ai-mcp",
+  "source_url": "https://github.com/sinner12123/cn-free-ai-mcp",
+  "install": "npx -y cn-free-ai-mcp"
+}

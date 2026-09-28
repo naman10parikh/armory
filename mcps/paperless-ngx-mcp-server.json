@@ -1,0 +1,7 @@
+{
+  "name": "paperless-ngx-mcp-server",
+  "description": "Enables managing Paperless-NGX documents, tags, correspondents, and document types via natural language. Supports document searching, downloading, uploading, and bulk editing.",
+  "source_repo": "MephistoJB/paperless-mcp",
+  "source_url": "https://github.com/MephistoJB/paperless-mcp",
+  "install": "npx -y paperless-mcp"
+}

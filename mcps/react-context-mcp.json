@@ -1,0 +1,7 @@
+{
+  "name": "react-context-mcp",
+  "description": "Enables AI assistants to inspect React component trees, props, state, and source locations in Chrome, facilitating UI debugging and analysis.",
+  "source_repo": "uxfreak/React-Context-MCP",
+  "source_url": "https://github.com/uxfreak/React-Context-MCP",
+  "install": "npx -y React-Context-MCP"
+}

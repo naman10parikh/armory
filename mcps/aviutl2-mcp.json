@@ -1,0 +1,7 @@
+{
+  "name": "aviutl2-mcp",
+  "description": "Enables LLMs to create, edit, and manage AviUtl2 video projects, with optional real-time control via a native bridge plugin.",
+  "source_repo": "sima05020/aviutl2-mcp",
+  "source_url": "https://github.com/sima05020/aviutl2-mcp",
+  "install": "npx -y aviutl2-mcp"
+}

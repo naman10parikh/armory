@@ -1,0 +1,7 @@
+{
+  "name": "napari-mcp-server",
+  "description": "MCP server for remote control of napari viewers via Model Context Protocol, enabling AI-assisted microscopy analysis with Claude Desktop and other LLM applications.",
+  "source_repo": "royerlab/napari-mcp",
+  "source_url": "https://github.com/royerlab/napari-mcp",
+  "install": "npx -y napari-mcp"
+}

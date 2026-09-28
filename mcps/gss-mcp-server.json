@@ -1,0 +1,7 @@
+{
+  "name": "gss-mcp-server",
+  "description": "Exposes Grey Swan Signals market stress intelligence as callable tools for AI agents, providing composite stress index, vector scores, and alert events.",
+  "source_repo": "Haipothetical/gss-mcp-server",
+  "source_url": "https://github.com/Haipothetical/gss-mcp-server",
+  "install": "npx -y gss-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "movie-search-mcp-server",
+  "description": "Enables searching for movies by title using a JSON database, with input validation via Zod. Provides a simple MCP server with STDIO transport for integration.",
+  "source_repo": "mohanaprasanthk/MCP-Movie-Search",
+  "source_url": "https://github.com/mohanaprasanthk/MCP-Movie-Search",
+  "install": "# git clone --depth 1 https://github.com/mohanaprasanthk/MCP-Movie-Search\n# See source for mcpServers config block"
+}

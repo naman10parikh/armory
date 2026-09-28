@@ -1,0 +1,7 @@
+{
+  "name": "kion-mcp-server",
+  "description": "Enables interaction with the Kion platform for cloud cost management, governance, and compliance through natural language.",
+  "source_repo": "kionsoftware/kion-mcp",
+  "source_url": "https://github.com/kionsoftware/kion-mcp",
+  "install": "npx -y kion-mcp"
+}

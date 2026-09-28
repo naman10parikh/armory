@@ -1,0 +1,7 @@
+{
+  "name": "mcp-endpoint-central",
+  "description": "An MCP server for ManageEngine Endpoint Central that enables querying managed computers, inventory, patches, vulnerabilities, and more via its REST API, with read-only mode by default and optional write capabilities.",
+  "source_repo": "hdyrawan/mcp-endpoint-central",
+  "source_url": "https://github.com/hdyrawan/mcp-endpoint-central",
+  "install": "# git clone --depth 1 https://github.com/hdyrawan/mcp-endpoint-central\n# See source for mcpServers config block"
+}

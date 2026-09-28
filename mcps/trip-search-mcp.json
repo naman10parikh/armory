@@ -1,0 +1,7 @@
+{
+  "name": "trip-search-mcp",
+  "description": "Enables Claude to plan trips by performing live searches against Google Flights, hotels, vacation rentals, activities, and events, plus weather and currency conversion.",
+  "source_repo": "nanwer/trip-search-mcp",
+  "source_url": "https://github.com/nanwer/trip-search-mcp",
+  "install": "npx -y trip-search-mcp"
+}

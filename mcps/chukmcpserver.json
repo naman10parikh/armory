@@ -1,0 +1,7 @@
+{
+  "name": "chukmcpserver",
+  "description": "A Python framework for building Model Context Protocol servers with decorator-based tools, zero-config deployment, and high performance.",
+  "source_repo": "IBM/chuk-mcp-server",
+  "source_url": "https://github.com/IBM/chuk-mcp-server",
+  "install": "npx -y chuk-mcp-server"
+}

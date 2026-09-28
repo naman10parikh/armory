@@ -1,0 +1,7 @@
+{
+  "name": "arc-gate-mcp",
+  "description": "Runtime governance proxy for MCP tool calls. Inspects tool results for prompt injection and capability abuse before they reach your agent, blocking attacks that exploit the MCP trust boundary.",
+  "source_repo": "9hannahnine-jpg/arc-gate-mcp",
+  "source_url": "https://github.com/9hannahnine-jpg/arc-gate-mcp",
+  "install": "npx -y arc-gate-mcp"
+}

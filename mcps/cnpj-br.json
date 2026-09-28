@@ -1,0 +1,7 @@
+{
+  "name": "cnpj-br",
+  "description": "Brazilian company-registry lookup via Receita Federal, allowing AI agents to query CNPJ data.",
+  "source_repo": "pipeworx-io/mcp-cnpj-br",
+  "source_url": "https://github.com/pipeworx-io/mcp-cnpj-br",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-cnpj-br\n# See source for mcpServers config block"
+}

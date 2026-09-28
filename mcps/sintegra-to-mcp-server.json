@@ -1,0 +1,7 @@
+{
+  "name": "sintegra-to-mcp-server",
+  "description": "Enables querying SINTEGRA TO (state tax information) through a read-only MCP server, using natural language.",
+  "source_repo": "mcp-dir/sintegra_to-mcp",
+  "source_url": "https://github.com/mcp-dir/sintegra_to-mcp",
+  "install": "npx -y sintegra_to-mcp"
+}

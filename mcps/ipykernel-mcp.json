@@ -1,0 +1,7 @@
+{
+  "name": "ipykernel-mcp",
+  "description": "An MCP server that manages an IPython kernel, allowing LLMs to execute Python code in a project's virtual environment.",
+  "source_repo": "0x0L/ipykernel-mcp",
+  "source_url": "https://github.com/0x0L/ipykernel-mcp",
+  "install": "npx -y ipykernel-mcp"
+}

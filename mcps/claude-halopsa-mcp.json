@@ -1,0 +1,7 @@
+{
+  "name": "claude-halopsa-mcp",
+  "description": "Enables Claude to interact with HaloPSA by authenticating via Azure CLI and fetching OAuth secrets from Azure Key Vault at runtime.",
+  "source_repo": "dspray/claude-halopsa-mcp",
+  "source_url": "https://github.com/dspray/claude-halopsa-mcp",
+  "install": "npx -y claude-halopsa-mcp"
+}

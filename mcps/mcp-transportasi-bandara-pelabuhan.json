@@ -1,0 +1,7 @@
+{
+  "name": "mcp-transportasi-bandara-pelabuhan",
+  "description": "Provides tools to search and retrieve detailed information about airports and seaports in Indonesia, including runways, radio frequencies, nearby airports, and port statistics.",
+  "source_repo": "tirthanzh/mcp-transportasi-bandara-dan-pelabuhan",
+  "source_url": "https://github.com/tirthanzh/mcp-transportasi-bandara-dan-pelabuhan",
+  "install": "# git clone --depth 1 https://github.com/tirthanzh/mcp-transportasi-bandara-dan-pelabuhan\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wave-mcp",
+  "description": "Provides 54 tools across 10 categories for Wave Accounting, enabling invoicing, customer management, products, transactions, bills, estimates, taxes, businesses, and financial reporting through Wave's GraphQL API.",
+  "source_repo": "NoahMcGraw/wave-mcp",
+  "source_url": "https://github.com/NoahMcGraw/wave-mcp",
+  "install": "npx -y wave-mcp"
+}

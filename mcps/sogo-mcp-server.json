@@ -1,0 +1,7 @@
+{
+  "name": "sogo-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that connects your AI agents (like Codex, Claude) to your SOGo groupware server. It enables your AI assistants to read your emails, check your calendar, and search your contacts.",
+  "source_repo": "mrlemongrass/sogo-mcp",
+  "source_url": "https://github.com/mrlemongrass/sogo-mcp",
+  "install": "npx -y sogo-mcp"
+}

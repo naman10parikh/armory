@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dev-servers",
+  "description": "Provides 7 MCP servers with 95 tools for git, GitHub, .NET, Ollama, Rust, template sync, and Python, enabling natural-language commands to perform real development operations.",
+  "source_repo": "dagonet/mcp-dev-servers",
+  "source_url": "https://github.com/dagonet/mcp-dev-servers",
+  "install": "# git clone --depth 1 https://github.com/dagonet/mcp-dev-servers\n# See source for mcpServers config block"
+}

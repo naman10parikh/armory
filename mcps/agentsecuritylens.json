@@ -1,0 +1,7 @@
+{
+  "name": "agentsecuritylens",
+  "description": "An MCP security trust-check server that evaluates component installation risks and provides safe-install decisions for autonomous agents.",
+  "source_repo": "professor2k8/agent-security-lens",
+  "source_url": "https://github.com/professor2k8/agent-security-lens",
+  "install": "# git clone --depth 1 https://github.com/professor2k8/agent-security-lens\n# See source for mcpServers config block"
+}

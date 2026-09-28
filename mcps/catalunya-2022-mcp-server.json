@@ -1,0 +1,7 @@
+{
+  "name": "catalunya-2022-mcp-server",
+  "description": "Enables to explore and analyze the Catalunya 2022 strategic plan document, including full-text search, section retrieval, and structured access to goals, actions, and contributor profiles in Catalan, English, and Spanish.",
+  "source_repo": "Catalunya-2022/mcp",
+  "source_url": "https://github.com/Catalunya-2022/mcp",
+  "install": "# git clone --depth 1 https://github.com/Catalunya-2022/mcp\n# See source for mcpServers config block"
+}

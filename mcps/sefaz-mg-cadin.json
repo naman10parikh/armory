@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-mg-cadin",
+  "description": "MCP server for querying the CADIN (debt registration) database from SEFAZ MG, providing read-only access to official data via natural language.",
+  "source_repo": "mcp-dir/sefaz_mg_cadin-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_mg_cadin-mcp",
+  "install": "npx -y sefaz_mg_cadin-mcp"
+}

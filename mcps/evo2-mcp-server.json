@@ -1,0 +1,7 @@
+{
+  "name": "evo2-mcp-server",
+  "description": "Enables DNA sequence analysis and variant effect prediction using Evo2-7B via MCP tools, providing forward inference, likelihood scoring, and batch variant comparison through natural language.",
+  "source_repo": "Shiroko114514/evo2-mcp-server",
+  "source_url": "https://github.com/Shiroko114514/evo2-mcp-server",
+  "install": "npx -y evo2-mcp-server"
+}

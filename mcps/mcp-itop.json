@@ -1,0 +1,7 @@
+{
+  "name": "mcp-itop",
+  "description": "MCP server for iTop ITSM that provides 19 tools for analytics, ticket management, comments, knowledge base, and CI impact analysis, enabling AI assistants to interact with iTop.",
+  "source_repo": "gest0r1/mcp-itop",
+  "source_url": "https://github.com/gest0r1/mcp-itop",
+  "install": "# git clone --depth 1 https://github.com/gest0r1/mcp-itop\n# See source for mcpServers config block"
+}

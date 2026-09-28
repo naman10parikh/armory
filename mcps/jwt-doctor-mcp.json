@@ -1,0 +1,7 @@
+{
+  "name": "jwt-doctor-mcp",
+  "description": "Enables AI agents to audit JSON Web Tokens (JWTs) and other token formats for security vulnerabilities, including HMAC secret cracking, live JWKS verification, and CVE fingerprinting.",
+  "source_repo": "Baneado98/jwt-doctor-mcp",
+  "source_url": "https://github.com/Baneado98/jwt-doctor-mcp",
+  "install": "npx -y jwt-doctor-mcp"
+}

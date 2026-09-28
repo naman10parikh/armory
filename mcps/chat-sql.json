@@ -1,0 +1,7 @@
+{
+  "name": "chat-sql",
+  "description": "MCP server that enables natural-language SQL queries across multiple databases (ClickHouse, Teradata, PostgreSQL, MySQL, SQL Server, DB2, Oracle, MongoDB) with dialect-correct SQL generation, PII masking, and security-by-construction controls.",
+  "source_repo": "Umair444/chat-sql-mcp",
+  "source_url": "https://github.com/Umair444/chat-sql-mcp",
+  "install": "npx -y chat-sql-mcp"
+}

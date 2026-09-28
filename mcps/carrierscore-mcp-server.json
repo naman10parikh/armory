@@ -1,0 +1,7 @@
+{
+  "name": "carrierscore-mcp-server",
+  "description": "Provides FMCSA motor-carrier risk intelligence over MCP, with tools for carrier lookup, risk scoring, and timestamped evidence reports for AI agents and freight brokers.",
+  "source_repo": "csprout3/carrierscore-mcp",
+  "source_url": "https://github.com/csprout3/carrierscore-mcp",
+  "install": "npx -y carrierscore-mcp"
+}

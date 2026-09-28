@@ -1,0 +1,7 @@
+{
+  "name": "qrzap-mcp-server",
+  "description": "Enables AI agents to generate QR codes for URLs, WiFi, contacts, and more with structured parameters.",
+  "source_repo": "pranav-bhatkar/qrzap",
+  "source_url": "https://github.com/pranav-bhatkar/qrzap",
+  "install": "# git clone --depth 1 https://github.com/pranav-bhatkar/qrzap\n# See source for mcpServers config block"
+}

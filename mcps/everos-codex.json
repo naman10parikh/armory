@@ -1,0 +1,7 @@
+{
+  "name": "everos-codex",
+  "description": "Enables Codex to use a local EverOS instance as long-term memory through MCP. Supports memory operations like search, get, save, and flush with automatic project ID inference.",
+  "source_repo": "gix9303/EverOS-Codex",
+  "source_url": "https://github.com/gix9303/EverOS-Codex",
+  "install": "# git clone --depth 1 https://github.com/gix9303/EverOS-Codex\n# See source for mcpServers config block"
+}

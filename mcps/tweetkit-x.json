@@ -1,0 +1,7 @@
+{
+  "name": "tweetkit-x",
+  "description": "MCP server that allows posting, deleting, and reading X (Twitter) tweets using your own browser session cookie, bypassing the official paid API. Includes tools for auth setup, tweet creation, deletion, timeline reading, and regex search.",
+  "source_repo": "nsozturk/tweetkit-x",
+  "source_url": "https://github.com/nsozturk/tweetkit-x",
+  "install": "# git clone --depth 1 https://github.com/nsozturk/tweetkit-x\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "memsearch-mcp",
+  "description": "Provides hybrid vector+BM25+reranker search and index-refresh tools over agent memory stored in markdown files, enabling forge agents to query memory across session, working, and docs tiers without direct file access.",
+  "source_repo": "TadMSTR/memsearch-mcp",
+  "source_url": "https://github.com/TadMSTR/memsearch-mcp",
+  "install": "npx -y memsearch-mcp"
+}

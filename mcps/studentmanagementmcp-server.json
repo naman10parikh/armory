@@ -1,0 +1,7 @@
+{
+  "name": "studentmanagementmcp-server",
+  "description": "MCP server for student management with CRUD operations, supporting user authentication and student record management.",
+  "source_repo": "priyankapsi/StudentManagementMCP_Server",
+  "source_url": "https://github.com/priyankapsi/StudentManagementMCP_Server",
+  "install": "npx -y StudentManagementMCP_Server"
+}

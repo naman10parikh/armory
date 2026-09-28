@@ -1,0 +1,7 @@
+{
+  "name": "synai-relay",
+  "description": "An MCP server enabling AI agents to browse, claim, submit, and manage paid tasks on the SYNAI Relay agent-to-agent task protocol, with on-chain USDC settlement via x402.",
+  "source_repo": "labrinyang/synai-sdk-python",
+  "source_url": "https://github.com/labrinyang/synai-sdk-python",
+  "install": "# git clone --depth 1 https://github.com/labrinyang/synai-sdk-python\n# See source for mcpServers config block"
+}

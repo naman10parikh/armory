@@ -1,0 +1,7 @@
+{
+  "name": "toolbastion",
+  "description": "A zero-trust security gateway for MCP tool calls, inspecting tool identity, arguments, execution decisions, and returned content before risk reaches your coding agent.",
+  "source_repo": "MaharMuavia/toolbastion",
+  "source_url": "https://github.com/MaharMuavia/toolbastion",
+  "install": "# git clone --depth 1 https://github.com/MaharMuavia/toolbastion\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kratos-mcp-server",
+  "description": "Enables AI assistants to drive Kratos Multiphysics finite element simulations end to end, including introspection, scaffolding, execution, and post-processing.",
+  "source_repo": "loumalouomega/Kratos-MCP-Server",
+  "source_url": "https://github.com/loumalouomega/Kratos-MCP-Server",
+  "install": "npx -y Kratos-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-inbox-for-cloudflare",
+  "description": "A stateless email inbox on Cloudflare with MCP tools that let agents list, read, claim, complete, and reply to messages.",
+  "source_repo": "harpreetchima/mcp-inbox-cloudflare",
+  "source_url": "https://github.com/harpreetchima/mcp-inbox-cloudflare",
+  "install": "# git clone --depth 1 https://github.com/harpreetchima/mcp-inbox-cloudflare\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adb-mcp-server-2",
+  "description": "Enables MCP-compatible agents to control an Android device over the network via ADB, providing tools for shell commands, screen capture, UI inspection, file operations, and input simulation.",
+  "source_repo": "sfaizi24/adb-mcp-server",
+  "source_url": "https://github.com/sfaizi24/adb-mcp-server",
+  "install": "npx -y adb-mcp-server"
+}

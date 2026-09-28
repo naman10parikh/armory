@@ -1,0 +1,7 @@
+{
+  "name": "cellartracker-mcp",
+  "description": "Connects Claude to your CellarTracker wine cellar, enabling natural language queries for inventory, drinking recommendations, purchase history, and tasting notes.",
+  "source_repo": "slavins-co/cellartracker-mcp",
+  "source_url": "https://github.com/slavins-co/cellartracker-mcp",
+  "install": "npx -y cellartracker-mcp"
+}

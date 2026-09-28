@@ -1,0 +1,7 @@
+{
+  "name": "nasa-scix-mcp-server",
+  "description": "Enables LLMs to search astronomical literature, retrieve paper metadata, analyze citation metrics, and export bibliographic data via the NASA Astrophysics Data System (SciX) API.",
+  "source_repo": "thostetler/scix-mcp",
+  "source_url": "https://github.com/thostetler/scix-mcp",
+  "install": "npx -y scix-mcp"
+}

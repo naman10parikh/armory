@@ -1,0 +1,7 @@
+{
+  "name": "dust-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for Dust.tt agents, designed for seamless integration with Claude Desktop via STDIO. Provides robust agent querying, listing, and configuration tools.",
+  "source_repo": "ma3u/dust-mcp-server",
+  "source_url": "https://github.com/ma3u/dust-mcp-server",
+  "install": "npx -y dust-mcp-server"
+}

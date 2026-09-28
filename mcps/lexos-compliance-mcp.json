@@ -1,0 +1,7 @@
+{
+  "name": "lexos-compliance-mcp",
+  "description": "A compliance tracking and document drafting MCP server for the LexOS platform, providing tools for client management, deadline tracking, Google Calendar sync, client-facing status and chase policies, and AI-powered document drafting.",
+  "source_repo": "localenhance/lexos-compliance-mcp",
+  "source_url": "https://github.com/localenhance/lexos-compliance-mcp",
+  "install": "npx -y lexos-compliance-mcp"
+}

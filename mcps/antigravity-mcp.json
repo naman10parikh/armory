@@ -1,0 +1,7 @@
+{
+  "name": "antigravity-mcp",
+  "description": "An MCP server that leverages Google Antigravity SDK and Gemini Enterprise Agent Platform to provide AI-driven code review and task execution via natural language.",
+  "source_repo": "terrychahn/agy-mcp-server-prototype",
+  "source_url": "https://github.com/terrychahn/agy-mcp-server-prototype",
+  "install": "# git clone --depth 1 https://github.com/terrychahn/agy-mcp-server-prototype\n# See source for mcpServers config block"
+}

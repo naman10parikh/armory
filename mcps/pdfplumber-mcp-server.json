@@ -1,0 +1,7 @@
+{
+  "name": "pdfplumber-mcp-server",
+  "description": "Extract tables, text, and metadata from PDFs using pdfplumber, enabling structured data extraction from PDF documents.",
+  "source_repo": "nasxub/pdfplumber-mcp-server",
+  "source_url": "https://github.com/nasxub/pdfplumber-mcp-server",
+  "install": "npx -y pdfplumber-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gemini-image-generation-mcp-server",
+  "description": "Enables image generation, editing, and refinement using Google's Gemini 2.5 Flash Image model with support for multi-image composition and style transfer.",
+  "source_repo": "marabian/gemini-imagen-mcp",
+  "source_url": "https://github.com/marabian/gemini-imagen-mcp",
+  "install": "npx -y gemini-imagen-mcp"
+}

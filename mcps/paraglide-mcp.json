@@ -1,0 +1,7 @@
+{
+  "name": "paraglide-mcp",
+  "description": "Enables translation of i18n messages in Paraglide JS projects by serving small batches, validating translations against source structure, and saving them per locale through inlang's SDK.",
+  "source_repo": "WesHaze/paraglide-mcp",
+  "source_url": "https://github.com/WesHaze/paraglide-mcp",
+  "install": "npx -y paraglide-mcp"
+}

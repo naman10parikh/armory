@@ -1,0 +1,7 @@
+{
+  "name": "beatport-mcp-api",
+  "description": "Enables searching for Beatport artists by name, returning structured data like names, IDs, and URLs.",
+  "source_repo": "conorwd/beatport-mcp",
+  "source_url": "https://github.com/conorwd/beatport-mcp",
+  "install": "npx -y beatport-mcp"
+}

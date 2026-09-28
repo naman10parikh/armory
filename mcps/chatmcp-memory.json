@@ -1,0 +1,7 @@
+{
+  "name": "chatmcp-memory",
+  "description": "Enables large language models to remember past conversations by querying chat history stored in SQLite, directly integrating with daodao97/chatmcp.",
+  "source_repo": "vearne/chatmcp_memory",
+  "source_url": "https://github.com/vearne/chatmcp_memory",
+  "install": "# git clone --depth 1 https://github.com/vearne/chatmcp_memory\n# See source for mcpServers config block"
+}

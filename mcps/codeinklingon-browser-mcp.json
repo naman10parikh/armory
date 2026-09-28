@@ -1,0 +1,7 @@
+{
+  "name": "codeinklingon-browser-mcp",
+  "description": "MCP server for headless browser automation via Puppeteer, with stealth anti-detection and Playwright-format ARIA snapshots.",
+  "source_repo": "CodeInKlingon/browser-mcp",
+  "source_url": "https://github.com/CodeInKlingon/browser-mcp",
+  "install": "npx -y browser-mcp"
+}

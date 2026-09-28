@@ -1,0 +1,7 @@
+{
+  "name": "owasp-wstg-mcp",
+  "description": "MCP server exposing the OWASP Web Security Testing Guide via semantic search and knowledge graph traversal.",
+  "source_repo": "PurrlyDigital/owasp-wstg-mcp",
+  "source_url": "https://github.com/PurrlyDigital/owasp-wstg-mcp",
+  "install": "npx -y owasp-wstg-mcp"
+}

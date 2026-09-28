@@ -1,0 +1,7 @@
+{
+  "name": "basecamp-mcp",
+  "description": "Enables interacting with Basecamp projects, todos, messages, chats, and more through MCP tools, wrapping the basecamp CLI.",
+  "source_repo": "jpaoad31/basecamp-mcp",
+  "source_url": "https://github.com/jpaoad31/basecamp-mcp",
+  "install": "npx -y basecamp-mcp"
+}

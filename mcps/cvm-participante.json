@@ -1,0 +1,7 @@
+{
+  "name": "cvm-participante",
+  "description": "Provides a single read-only MCP tool to query the official Brazilian SEC (CVM) database on registered participants, hosted with prepaid per-query pricing and no platform credentials.",
+  "source_repo": "mcp-dir/cvm_participante-mcp",
+  "source_url": "https://github.com/mcp-dir/cvm_participante-mcp",
+  "install": "npx -y cvm_participante-mcp"
+}

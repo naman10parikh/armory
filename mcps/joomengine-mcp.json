@@ -1,0 +1,7 @@
+{
+  "name": "joomengine-mcp",
+  "description": "An embeddable library and self-hosted MCP server for administering Joomla 6.x through bounded, auditable semantic actions via the Joomla Web Services API or a native companion plugin.",
+  "source_repo": "joomengine/joomla-mcp",
+  "source_url": "https://github.com/joomengine/joomla-mcp",
+  "install": "npx -y joomla-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcpico-2",
+  "description": "MCP proxy that bundles flat tool lists into hierarchical subcommand groups to reduce context token usage, supporting multi-server aggregation and auto-generated help from tool schemas.",
+  "source_repo": "lxg2it/mcplico",
+  "source_url": "https://github.com/lxg2it/mcplico",
+  "install": "# git clone --depth 1 https://github.com/lxg2it/mcplico\n# See source for mcpServers config block"
+}

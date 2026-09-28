@@ -1,0 +1,7 @@
+{
+  "name": "bugsnag-mcp-server",
+  "description": "Enables interacting with Bugsnag to investigate and resolve errors via natural language. Supports browsing organizations, projects, errors, stacktraces, and exception chains.",
+  "source_repo": "tgeselle/bugsnag-mcp",
+  "source_url": "https://github.com/tgeselle/bugsnag-mcp",
+  "install": "npx -y bugsnag-mcp"
+}

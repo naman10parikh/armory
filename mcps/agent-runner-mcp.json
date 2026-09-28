@@ -1,0 +1,7 @@
+{
+  "name": "agent-runner-mcp",
+  "description": "An MCP server that exposes a sandboxed task runner protocol to any MCP client, enabling evidence-protected task execution, exit protocol reading, and autopsy reports.",
+  "source_repo": "Wang-Lin-Chang/agent-runner-mcp",
+  "source_url": "https://github.com/Wang-Lin-Chang/agent-runner-mcp",
+  "install": "npx -y agent-runner-mcp"
+}

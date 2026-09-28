@@ -1,0 +1,7 @@
+{
+  "name": "mcp-2-0",
+  "description": "Demonstrates stateful application patterns on the stateless MCP 2026-07-28 protocol, enabling request-scoped state, multi round-trip confirmations, and streaming progress updates across independent tool calls.",
+  "source_repo": "weijianzhg/mcp-2-0",
+  "source_url": "https://github.com/weijianzhg/mcp-2-0",
+  "install": "# git clone --depth 1 https://github.com/weijianzhg/mcp-2-0\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-gateway",
+  "description": "Enables AI agents to query a PostgreSQL database through a small set of controlled, read-only tools for schema inspection, row lookup, and aggregate statistics.",
+  "source_repo": "Ali-Chaghou/mcp-data-gateway",
+  "source_url": "https://github.com/Ali-Chaghou/mcp-data-gateway",
+  "install": "# git clone --depth 1 https://github.com/Ali-Chaghou/mcp-data-gateway\n# See source for mcpServers config block"
+}

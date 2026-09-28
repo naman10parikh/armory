@@ -1,0 +1,7 @@
+{
+  "name": "android-mcp-harness",
+  "description": "Local MCP server for Android emulator control, exposing tools to get emulator status, inspect UI tree, capture screenshots, and open App settings via Appium and ADB.",
+  "source_repo": "dajarony/android-mcp-harness",
+  "source_url": "https://github.com/dajarony/android-mcp-harness",
+  "install": "# git clone --depth 1 https://github.com/dajarony/android-mcp-harness\n# See source for mcpServers config block"
+}

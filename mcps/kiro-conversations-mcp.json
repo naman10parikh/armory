@@ -1,0 +1,7 @@
+{
+  "name": "kiro-conversations-mcp",
+  "description": "A local MCP server for durable, named Kiro CLI conversations over ACP, enabling asynchronous runs with session management, model querying, and bounded wait delegation.",
+  "source_repo": "Wil-Collier/kiro-conversations-mcp",
+  "source_url": "https://github.com/Wil-Collier/kiro-conversations-mcp",
+  "install": "npx -y kiro-conversations-mcp"
+}

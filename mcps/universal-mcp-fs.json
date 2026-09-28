@@ -1,0 +1,7 @@
+{
+  "name": "universal-mcp-fs",
+  "description": "A secure local MCP server that provides AI assistants controlled filesystem access and command execution with an interactive approval system for dangerous actions.",
+  "source_repo": "Prabhas125/universal-mcp-fs",
+  "source_url": "https://github.com/Prabhas125/universal-mcp-fs",
+  "install": "# git clone --depth 1 https://github.com/Prabhas125/universal-mcp-fs\n# See source for mcpServers config block"
+}

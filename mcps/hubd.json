@@ -1,0 +1,7 @@
+{
+  "name": "hubd",
+  "description": "A project tracker for teams of humans and AI agents that coordinates work through plain files (markdown and JSONL), providing an MCP server for agents and a CLI for humans.",
+  "source_repo": "bzdOS/hubd",
+  "source_url": "https://github.com/bzdOS/hubd",
+  "install": "# git clone --depth 1 https://github.com/bzdOS/hubd\n# See source for mcpServers config block"
+}

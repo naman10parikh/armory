@@ -1,0 +1,7 @@
+{
+  "name": "t212-mcp-server",
+  "description": "Provides read-only access to Trading 212 accounts, enabling AI assistants to retrieve portfolio positions, account summaries, instrument data, and transaction history.",
+  "source_repo": "paulaigue/t212-mcp",
+  "source_url": "https://github.com/paulaigue/t212-mcp",
+  "install": "npx -y t212-mcp"
+}

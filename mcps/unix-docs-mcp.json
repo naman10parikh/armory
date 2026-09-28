@@ -1,0 +1,7 @@
+{
+  "name": "unix-docs-mcp",
+  "description": "MCP server for exploring 4.2 BSD historical UNIX documentation, source code, and system calls. It provides tools to search and read prose manuals, man pages, source files, and the syscall table.",
+  "source_repo": "runit-xze/unix-docs-mcp",
+  "source_url": "https://github.com/runit-xze/unix-docs-mcp",
+  "install": "npx -y unix-docs-mcp"
+}

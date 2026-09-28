@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-conversation-search-mcp",
+  "description": "Enables searching all Claude Code conversations across projects using natural language queries and instantly provides resume commands to continue discussions.",
+  "source_repo": "TonySimonovsky/claude-code-conversation-search-mcp",
+  "source_url": "https://github.com/TonySimonovsky/claude-code-conversation-search-mcp",
+  "install": "npx -y claude-code-conversation-search-mcp"
+}

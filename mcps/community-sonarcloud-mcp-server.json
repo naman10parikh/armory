@@ -1,0 +1,7 @@
+{
+  "name": "community-sonarcloud-mcp-server",
+  "description": "A lightweight TypeScript MCP server that provides AI assistants with seamless access to SonarCloud data, enabling code quality metrics, issues, and project queries.",
+  "source_repo": "langtind/community-sonarcloud-mcp-server",
+  "source_url": "https://github.com/langtind/community-sonarcloud-mcp-server",
+  "install": "npx -y community-sonarcloud-mcp-server"
+}

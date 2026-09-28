@@ -1,0 +1,7 @@
+{
+  "name": "whois-mcp-server",
+  "description": "Enables domain registration lookup, availability checks, DNS record fetching, and IP/ASN resolution via RDAP and DNS-over-HTTPS through MCP.",
+  "source_repo": "cyanheads/whois-mcp-server",
+  "source_url": "https://github.com/cyanheads/whois-mcp-server",
+  "install": "npx -y whois-mcp-server"
+}

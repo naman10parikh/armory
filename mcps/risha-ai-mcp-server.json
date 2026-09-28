@@ -1,0 +1,7 @@
+{
+  "name": "risha-ai-mcp-server",
+  "description": "MCP server for the Risha.ai API enabling authentication, capability discovery, credit balance checks, and generation requests with automatic polling.",
+  "source_repo": "aimedialab/risha-mcp-server",
+  "source_url": "https://github.com/aimedialab/risha-mcp-server",
+  "install": "npx -y risha-mcp-server"
+}

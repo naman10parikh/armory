@@ -1,0 +1,7 @@
+{
+  "name": "knowledge",
+  "description": "A local MCP server that gives LLMs long-term memory by indexing code, infrastructure, logs, and docs into a queryable graph. It enables semantic and structural search, evidence-backed reasoning, and tracked plans that persist across sessions and teams.",
+  "source_repo": "fulminate-io/knowledge-mcp",
+  "source_url": "https://github.com/fulminate-io/knowledge-mcp",
+  "install": "npx -y knowledge-mcp"
+}

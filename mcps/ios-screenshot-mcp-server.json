@@ -1,0 +1,7 @@
+{
+  "name": "ios-screenshot-mcp-server",
+  "description": "MCP server for capturing iOS device screenshots using Appium, compatible with AI clients like Trae.",
+  "source_repo": "xuxueyong1/ios-playwright-mcp",
+  "source_url": "https://github.com/xuxueyong1/ios-playwright-mcp",
+  "install": "npx -y ios-playwright-mcp"
+}

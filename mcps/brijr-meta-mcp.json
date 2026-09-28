@@ -1,0 +1,7 @@
+{
+  "name": "brijr-meta-mcp",
+  "description": "MCP Server for connecting to the Meta Marketing API",
+  "source_repo": "brijr/meta-mcp",
+  "source_url": "https://github.com/brijr/meta-mcp",
+  "install": "npx -y meta-mcp"
+}

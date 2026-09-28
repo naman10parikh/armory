@@ -1,0 +1,7 @@
+{
+  "name": "ultraner-mcp-server",
+  "description": "Enables AI agents to interact with the Ultraner API for creating payments, refunds, checkout sessions, managing escrow, and inspecting transactions across Africa.",
+  "source_repo": "Ultraner/ultraner-mcp",
+  "source_url": "https://github.com/Ultraner/ultraner-mcp",
+  "install": "npx -y ultraner-mcp"
+}

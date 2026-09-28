@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ynab",
+  "description": "FastMCP server that exposes the YNAB API for budget management, enabling interaction with YNAB data through MCP tools.",
+  "source_repo": "alexfu/mcp-ynab",
+  "source_url": "https://github.com/alexfu/mcp-ynab",
+  "install": "# git clone --depth 1 https://github.com/alexfu/mcp-ynab\n# See source for mcpServers config block"
+}

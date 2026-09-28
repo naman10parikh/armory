@@ -1,0 +1,7 @@
+{
+  "name": "concurrent-playwright-mcp",
+  "description": "An MCP server that runs concurrent, session-isolated Playwright browser contexts, so many agents can each drive their own browser at the same time without colliding.",
+  "source_repo": "dgutierrez1/concurrent-playwright-mcp",
+  "source_url": "https://github.com/dgutierrez1/concurrent-playwright-mcp",
+  "install": "npx -y concurrent-playwright-mcp"
+}

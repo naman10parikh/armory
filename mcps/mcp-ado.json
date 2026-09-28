@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ado",
+  "description": "A FastMCP server that scans Azure DevOps work items, flags overdue or stale items, emails assignees via Microsoft Graph, and provides tools to delve into stalled items, wiki pages, and write operations with safety gates.",
+  "source_repo": "rajivdatta/mcp-ado",
+  "source_url": "https://github.com/rajivdatta/mcp-ado",
+  "install": "# git clone --depth 1 https://github.com/rajivdatta/mcp-ado\n# See source for mcpServers config block"
+}

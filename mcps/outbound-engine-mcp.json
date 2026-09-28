@@ -1,0 +1,7 @@
+{
+  "name": "outbound-engine-mcp",
+  "description": "Provides AI agents with tools for structuring and auditing cold outreach messages, building follow-up sequences, handling replies, and detecting red flags.",
+  "source_repo": "closermethod/outbound-engine-mcp",
+  "source_url": "https://github.com/closermethod/outbound-engine-mcp",
+  "install": "npx -y outbound-engine-mcp"
+}

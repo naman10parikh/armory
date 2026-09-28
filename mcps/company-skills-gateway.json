@@ -1,0 +1,7 @@
+{
+  "name": "company-skills-gateway",
+  "description": "This MCP server reads team SKILL.md files from a local folder and returns relevant ones to Cursor, while recording usage in a local SQLite database.",
+  "source_repo": "jacobragsdale/skills-mcp",
+  "source_url": "https://github.com/jacobragsdale/skills-mcp",
+  "install": "npx -y skills-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codex-2-0-mcp-gateway",
+  "description": "Turns a Mac into an MCP host exposing terminal, filesystem, browser automation, and macOS controls to approved AI clients via OpenAI's Secure MCP Tunnel.",
+  "source_repo": "MeharPro/codex-2.0",
+  "source_url": "https://github.com/MeharPro/codex-2.0",
+  "install": "# git clone --depth 1 https://github.com/MeharPro/codex-2.0\n# See source for mcpServers config block"
+}

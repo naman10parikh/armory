@@ -1,0 +1,7 @@
+{
+  "name": "memxus-2",
+  "description": "**Memxus** is multi-platform persistent memory for AI assistants. Save project context, preferences, and decisions once — recall them in Claude, ChatGPT, Cursor, and other MCP clients. ## What it does - **Remember** — store facts, preferences, and project context with collections and tags - **Recall",
+  "source_repo": "",
+  "source_url": "https://www.memxus.com/",
+  "install": "# git clone --depth 1 https://www.memxus.com/\n# See source for mcpServers config block"
+}

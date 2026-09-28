@@ -1,0 +1,7 @@
+{
+  "name": "myai-mcp",
+  "description": "MCP server for the MyAi decentralized AI inference network, giving MCP-compatible agents access to inference, model listing, agent browsing, network stats, wallet balance, and agent hiring.",
+  "source_repo": "myaitoken/myai-mcp",
+  "source_url": "https://github.com/myaitoken/myai-mcp",
+  "install": "npx -y myai-mcp"
+}

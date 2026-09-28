@@ -1,0 +1,7 @@
+{
+  "name": "ceis-inid-neas-e-suspensas",
+  "description": "Enables checking if a person or company appears in the Brazilian CEIS registry using CPF or CNPJ. It's a hosted, read-only MCP server that works with any MCP client.",
+  "source_repo": "mcp-dir/ceis-mcp",
+  "source_url": "https://github.com/mcp-dir/ceis-mcp",
+  "install": "npx -y ceis-mcp"
+}

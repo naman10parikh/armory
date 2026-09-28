@@ -1,0 +1,7 @@
+{
+  "name": "omlx-mcp-server",
+  "description": "A local MCP server for oMLX that provides two tools: omlx_status to fetch model list and power status, and omlx_run to execute chat or agent mode with automatic model selection and battery-aware confirmation.",
+  "source_repo": "glasses666/omlx-mcp-server",
+  "source_url": "https://github.com/glasses666/omlx-mcp-server",
+  "install": "npx -y omlx-mcp-server"
+}

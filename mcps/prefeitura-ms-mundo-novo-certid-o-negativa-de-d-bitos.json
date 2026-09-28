@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-ms-mundo-novo-certid-o-negativa-de-d-bitos",
+  "description": "MCP server that enables consulting negative debt certificates (Certidão Negativa de Débitos) from the municipal government of Mundo Novo, MS, using an official source with natural language. It is read-only, has a single tool, and operates on a prepaid per-query basis.",
+  "source_repo": "mcp-dir/pref_ms_mundo_novo_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_ms_mundo_novo_cnd-mcp",
+  "install": "npx -y pref_ms_mundo_novo_cnd-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bd-crm-analytics",
+  "description": "A read-only MCP server that exposes BD Leads CRM analytics (win rate, conversion funnel, connects economics, sales velocity, forecast, and lead lookup) to MCP clients like Cursor and Claude Desktop.",
+  "source_repo": "Hammad-Tariq007/bd-crm-mcp",
+  "source_url": "https://github.com/Hammad-Tariq007/bd-crm-mcp",
+  "install": "npx -y bd-crm-mcp"
+}

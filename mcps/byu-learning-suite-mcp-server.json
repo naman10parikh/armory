@@ -1,0 +1,7 @@
+{
+  "name": "byu-learning-suite-mcp-server",
+  "description": "Enables Claude Desktop to interact with BYU Learning Suite data including assignments, grades, schedule, announcements, exams, and course content, currently using mock data.",
+  "source_repo": "sammrafferty/BYU-LS-MCP",
+  "source_url": "https://github.com/sammrafferty/BYU-LS-MCP",
+  "install": "npx -y BYU-LS-MCP"
+}

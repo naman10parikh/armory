@@ -1,0 +1,7 @@
+{
+  "name": "mcp-catastro",
+  "description": "MCP server for the Spanish Cadastre, enabling local queries of official INSPIRE parcel data (area, geometry, neighboring parcels, searches) and online queries to the OVC and electronic headquarters for additional details, with rate limiting and caching.",
+  "source_repo": "MrGo2/catastro-mcp",
+  "source_url": "https://github.com/MrGo2/catastro-mcp",
+  "install": "npx -y catastro-mcp"
+}

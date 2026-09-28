@@ -1,0 +1,7 @@
+{
+  "name": "tcm-mcp-server",
+  "description": "Enables AI assistants to access professional Traditional Chinese Medicine knowledge, including herb and formula search, acupoint lookup, six-channel diagnosis, and compatibility checking.",
+  "source_repo": "liuweihongliuxinyu/tcm-mcp-server",
+  "source_url": "https://github.com/liuweihongliuxinyu/tcm-mcp-server",
+  "install": "npx -y tcm-mcp-server"
+}

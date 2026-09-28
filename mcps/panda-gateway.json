@@ -1,0 +1,7 @@
+{
+  "name": "panda-gateway",
+  "description": "A thin, stateless MCP routing layer that exposes a single Streamable HTTP endpoint and routes tool calls to upstream servers (e.g., Bamboo MCP, PanDA MCP) based on namespace prefixes, enabling unified access and tool catalog management.",
+  "source_repo": "PalNilsson/panda-gateway",
+  "source_url": "https://github.com/PalNilsson/panda-gateway",
+  "install": "# git clone --depth 1 https://github.com/PalNilsson/panda-gateway\n# See source for mcpServers config block"
+}

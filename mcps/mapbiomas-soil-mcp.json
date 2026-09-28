@@ -1,0 +1,7 @@
+{
+  "name": "mapbiomas-soil-mcp",
+  "description": "Enables querying soil data, planning and executing Earth Engine processing recipes, monitoring tasks, and answering questions about results without downloading national maps.",
+  "source_repo": "VitorEduardoLimaKenor/soil-pipeline-mcp",
+  "source_url": "https://github.com/VitorEduardoLimaKenor/soil-pipeline-mcp",
+  "install": "npx -y soil-pipeline-mcp"
+}

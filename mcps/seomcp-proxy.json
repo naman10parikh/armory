@@ -1,0 +1,7 @@
+{
+  "name": "seomcp-proxy",
+  "description": "Local MCP proxy for seo-mcp — 39 SEO tools in your AI assistant.",
+  "source_repo": "quantacodes/seomcp-proxy",
+  "source_url": "https://github.com/quantacodes/seomcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/quantacodes/seomcp-proxy\n# See source for mcpServers config block"
+}

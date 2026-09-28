@@ -1,0 +1,7 @@
+{
+  "name": "lifx-mcp-server",
+  "description": "A Model Context Protocol server for controlling LIFX smart lights, enabling AI assistants to manage power, color, brightness, effects, and scenes.",
+  "source_repo": "marekkacprzak/lifx-mcp-server",
+  "source_url": "https://github.com/marekkacprzak/lifx-mcp-server",
+  "install": "npx -y lifx-mcp-server"
+}

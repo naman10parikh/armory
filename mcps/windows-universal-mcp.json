@@ -1,0 +1,7 @@
+{
+  "name": "windows-universal-mcp",
+  "description": "A local MCP server for controlling Windows desktop applications through Win32 automation, enabling window listing, launching, clicking, typing, shortcuts, screenshots, and folder monitoring.",
+  "source_repo": "antelope1992-cmyk/windows-universal-mcp",
+  "source_url": "https://github.com/antelope1992-cmyk/windows-universal-mcp",
+  "install": "npx -y windows-universal-mcp"
+}

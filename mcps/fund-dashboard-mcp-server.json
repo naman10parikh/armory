@@ -1,0 +1,7 @@
+{
+  "name": "fund-dashboard-mcp-server",
+  "description": "Enables AI agents to manage and analyze personal investment portfolios, including fund and stock holdings, net value tracking, XIRR calculations, penetration analysis, and backtesting.",
+  "source_repo": "DeliciousBuding/fund-dashboard",
+  "source_url": "https://github.com/DeliciousBuding/fund-dashboard",
+  "install": "# git clone --depth 1 https://github.com/DeliciousBuding/fund-dashboard\n# See source for mcpServers config block"
+}

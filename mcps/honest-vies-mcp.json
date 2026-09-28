@@ -1,0 +1,7 @@
+{
+  "name": "honest-vies-mcp",
+  "description": "Local MCP server for validating EU VAT numbers using the official VIES API. Enables AI to check VAT validity and optionally retrieve consultation numbers for legal proof.",
+  "source_repo": "bartosz-kuc/honest-vies-mcp",
+  "source_url": "https://github.com/bartosz-kuc/honest-vies-mcp",
+  "install": "npx -y honest-vies-mcp"
+}

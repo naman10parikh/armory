@@ -1,0 +1,7 @@
+{
+  "name": "snowflake-cost-mcp",
+  "description": "Provides read-only visibility into Snowflake warehouse cost and query performance, including credit usage by warehouse, expensive queries, and heuristic right-sizing recommendations.",
+  "source_repo": "alizubairs/Snowflake-Cost-Performance-MCP-server",
+  "source_url": "https://github.com/alizubairs/Snowflake-Cost-Performance-MCP-server",
+  "install": "npx -y Snowflake-Cost-Performance-MCP-server"
+}

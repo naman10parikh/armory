@@ -1,0 +1,7 @@
+{
+  "name": "connects-to-epic-mychart-patient-portals-to-log-in-list-test-results-and-downloa",
+  "description": "MyChart MCP Server",
+  "source_repo": "kriskraw80/mychart-mcp-server",
+  "source_url": "https://github.com/kriskraw80/mychart-mcp-server",
+  "install": "npx -y mychart-mcp-server"
+}

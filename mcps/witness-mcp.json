@@ -1,0 +1,7 @@
+{
+  "name": "witness-mcp",
+  "description": "Enables to interact with job application workflows through MCP, allowing users to find jobs, generate non-trivial applications with proof-maps, and build offline dashboards, all without auto-submitting.",
+  "source_repo": "Zetetic-Dhruv/witness-mcp",
+  "source_url": "https://github.com/Zetetic-Dhruv/witness-mcp",
+  "install": "npx -y witness-mcp"
+}

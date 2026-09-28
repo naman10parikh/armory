@@ -1,0 +1,7 @@
+{
+  "name": "entrez-mcp-server",
+  "description": "Provides access to NCBI's E-utilities, PubChem, and PMC APIs for searching and retrieving biomedical literature, chemical, and genomic data.",
+  "source_repo": "leongxj123/entrez-mcp-server",
+  "source_url": "https://github.com/leongxj123/entrez-mcp-server",
+  "install": "npx -y entrez-mcp-server"
+}

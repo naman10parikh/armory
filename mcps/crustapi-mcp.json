@@ -1,0 +1,7 @@
+{
+  "name": "crustapi-mcp",
+  "description": "Provides Google search across multiple surfaces, webpage scraping, and business reviews retrieval via the CrustAPI endpoint.",
+  "source_repo": "CrustAPI/crustapi-mcp",
+  "source_url": "https://github.com/CrustAPI/crustapi-mcp",
+  "install": "npx -y crustapi-mcp"
+}

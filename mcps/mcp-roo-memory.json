@@ -1,0 +1,7 @@
+{
+  "name": "mcp-roo-memory",
+  "description": "Persistent, graph-based memory for Roo Code via the Model Context Protocol, enabling structured knowledge management with semantic search and context window control.",
+  "source_repo": "mcasdfgf/mcp-roo-memory",
+  "source_url": "https://github.com/mcasdfgf/mcp-roo-memory",
+  "install": "# git clone --depth 1 https://github.com/mcasdfgf/mcp-roo-memory\n# See source for mcpServers config block"
+}

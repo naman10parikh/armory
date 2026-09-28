@@ -1,0 +1,7 @@
+{
+  "name": "sprout-mcp",
+  "description": "A model-tiered content pipeline that routes tasks to the appropriate AI model tier (Haiku, Sonnet, Opus) to optimize cost and quality, with provenance tracking and automatic review workflow.",
+  "source_repo": "mepsopti/sprout-mcp",
+  "source_url": "https://github.com/mepsopti/sprout-mcp",
+  "install": "npx -y sprout-mcp"
+}

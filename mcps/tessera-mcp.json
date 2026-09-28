@@ -1,0 +1,7 @@
+{
+  "name": "tessera-mcp",
+  "description": "Enables AI agents to manage a fictional B2B workspace SaaS (Tessera) with tools for ticketing, invoicing, customer management, and trial extensions, featuring a human-in-the-loop confirm pattern for safety.",
+  "source_repo": "NDilanka/tessera-mcp",
+  "source_url": "https://github.com/NDilanka/tessera-mcp",
+  "install": "npx -y tessera-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "launchtrust-mcp",
+  "description": "Scans public URLs for compliance and security issues such as leaked API keys, exposed files, missing privacy pages, and security headers, helping developers identify gaps before launch.",
+  "source_repo": "mustafasalimerek-bit/launchtrust-mcp",
+  "source_url": "https://github.com/mustafasalimerek-bit/launchtrust-mcp",
+  "install": "npx -y launchtrust-mcp"
+}

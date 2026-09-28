@@ -1,0 +1,7 @@
+{
+  "name": "instagram-claude-mcp",
+  "description": "Connects Claude to the official Meta Instagram Graph API (read-only) for retrieving Instagram profile, media, insights, and comments as MCP tools over Streamable HTTP.",
+  "source_repo": "demaAlramhe/instagram-claude-mcp",
+  "source_url": "https://github.com/demaAlramhe/instagram-claude-mcp",
+  "install": "npx -y instagram-claude-mcp"
+}

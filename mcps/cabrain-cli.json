@@ -1,0 +1,7 @@
+{
+  "name": "cabrain-cli",
+  "description": "Connect any AI client to the CaBrain memory system via MCP, exposing tools for memory recall, retain, and brain management.",
+  "source_repo": "togo-framework/cabrain-cli",
+  "source_url": "https://github.com/togo-framework/cabrain-cli",
+  "install": "# git clone --depth 1 https://github.com/togo-framework/cabrain-cli\n# See source for mcpServers config block"
+}

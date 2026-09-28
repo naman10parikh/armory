@@ -1,0 +1,7 @@
+{
+  "name": "m-pesa-mcp-server",
+  "description": "An experimental MCP server that lets AI agents interact with guarded payment workflows through typed tools, enabling safe agent-assisted payments with M-Pesa and mock Airtel Money.",
+  "source_repo": "breezykalama/mpesa-mcp-server",
+  "source_url": "https://github.com/breezykalama/mpesa-mcp-server",
+  "install": "npx -y mpesa-mcp-server"
+}

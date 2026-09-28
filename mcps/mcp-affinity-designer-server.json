@@ -1,0 +1,7 @@
+{
+  "name": "mcp-affinity-designer-server",
+  "description": "This MCP server enables AI assistants to interact with Affinity Designer for document manipulation, layer management, export operations, and tool automation.",
+  "source_repo": "szgk/mcp-affinity-designer",
+  "source_url": "https://github.com/szgk/mcp-affinity-designer",
+  "install": "# git clone --depth 1 https://github.com/szgk/mcp-affinity-designer\n# See source for mcpServers config block"
+}

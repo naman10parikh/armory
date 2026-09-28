@@ -1,0 +1,7 @@
+{
+  "name": "remember-me-mcp-server",
+  "description": "Enables persistent memory for Claude Desktop, allowing Claude to remember and recall information across conversations using PostgreSQL and OpenAI embeddings.",
+  "source_repo": "ksred/remember-me-mcp",
+  "source_url": "https://github.com/ksred/remember-me-mcp",
+  "install": "npx -y remember-me-mcp"
+}

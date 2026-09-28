@@ -1,0 +1,7 @@
+{
+  "name": "prufa",
+  "description": "Point your coding agent at a URL and get a real-browser QA audit: broken signup/login/checkout flows, JS console errors, missing analytics, consent + security headers, mobile tap targets, and accessibility — returned as machine-verified findings graded A-F.",
+  "source_repo": "prufa-dev/prufa-mcp",
+  "source_url": "https://github.com/prufa-dev/prufa-mcp",
+  "install": "npx -y prufa-mcp"
+}

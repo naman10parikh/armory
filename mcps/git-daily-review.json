@@ -1,0 +1,7 @@
+{
+  "name": "git-daily-review",
+  "description": "Enables AI agents to run automated daily code reviews, retrieve Markdown reports, and curate a project knowledge base across any Git repository.",
+  "source_repo": "mrosano1987/git-daily-review",
+  "source_url": "https://github.com/mrosano1987/git-daily-review",
+  "install": "# git clone --depth 1 https://github.com/mrosano1987/git-daily-review\n# See source for mcpServers config block"
+}

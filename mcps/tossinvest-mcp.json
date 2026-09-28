@@ -1,0 +1,7 @@
+{
+  "name": "tossinvest-mcp",
+  "description": "MCP server wrapping Toss Securities Open API, enabling stock price queries and trading for Korean and US stocks via natural language.",
+  "source_repo": "ryum91/tossinvest-mcp",
+  "source_url": "https://github.com/ryum91/tossinvest-mcp",
+  "install": "npx -y tossinvest-mcp"
+}

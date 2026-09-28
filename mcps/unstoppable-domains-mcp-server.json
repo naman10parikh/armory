@@ -1,0 +1,7 @@
+{
+  "name": "unstoppable-domains-mcp-server",
+  "description": "Search, register, and manage domain names through natural conversation with AI assistants.",
+  "source_repo": "unstoppabledomains/unstoppable-mcp-server",
+  "source_url": "https://github.com/unstoppabledomains/unstoppable-mcp-server",
+  "install": "npx -y unstoppable-mcp-server"
+}

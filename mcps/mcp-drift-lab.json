@@ -1,0 +1,7 @@
+{
+  "name": "mcp-drift-lab",
+  "description": "A research harness for measuring whether MCP clients preserve informed consent when tool definitions change after approval.",
+  "source_repo": "zelinsky-alexander/mcp-drift-lab",
+  "source_url": "https://github.com/zelinsky-alexander/mcp-drift-lab",
+  "install": "# git clone --depth 1 https://github.com/zelinsky-alexander/mcp-drift-lab\n# See source for mcpServers config block"
+}

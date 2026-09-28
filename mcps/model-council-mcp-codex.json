@@ -1,0 +1,7 @@
+{
+  "name": "model-council-mcp-codex",
+  "description": "Routes questions to a council of AI models (local and cloud) and synthesizes their answers in five configurable modes: individual, categorized, deconflicted, pooled, and dialectic.",
+  "source_repo": "tsarihan/model-council-mcp-codex",
+  "source_url": "https://github.com/tsarihan/model-council-mcp-codex",
+  "install": "# git clone --depth 1 https://github.com/tsarihan/model-council-mcp-codex\n# See source for mcpServers config block"
+}

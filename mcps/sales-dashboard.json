@@ -1,0 +1,7 @@
+{
+  "name": "sales-dashboard",
+  "description": "Enables interactive sales data exploration within Claude through a dynamic dashboard with filterable charts and tables.",
+  "source_repo": "DACdigital/MCP-App-Demo",
+  "source_url": "https://github.com/DACdigital/MCP-App-Demo",
+  "install": "# git clone --depth 1 https://github.com/DACdigital/MCP-App-Demo\n# See source for mcpServers config block"
+}

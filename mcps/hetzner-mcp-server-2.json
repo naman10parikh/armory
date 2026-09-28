@@ -1,0 +1,7 @@
+{
+  "name": "hetzner-mcp-server-2",
+  "description": "Enables management of Hetzner Cloud resources including servers, SSH keys, volumes, storage boxes, and live metrics through 40 tools.",
+  "source_repo": "jurislm/hetzner-mcp",
+  "source_url": "https://github.com/jurislm/hetzner-mcp",
+  "install": "npx -y hetzner-mcp"
+}

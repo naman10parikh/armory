@@ -1,0 +1,7 @@
+{
+  "name": "perlerbeadai-mcp",
+  "description": "Fuse bead MCP: convert images, generate AI art, matchcolors (CIEDE2000) estimate bead costs.",
+  "source_repo": "luotwo/perlerbeadai-mcp",
+  "source_url": "https://github.com/luotwo/perlerbeadai-mcp",
+  "install": "npx -y perlerbeadai-mcp"
+}

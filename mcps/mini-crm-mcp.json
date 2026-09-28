@@ -1,0 +1,7 @@
+{
+  "name": "mini-crm-mcp",
+  "description": "Enables querying and interacting with a SQLite CRM database of sales leads using natural language, offering tools for pipeline summaries, lead search, and weighted forecasting.",
+  "source_repo": "bvenkatesulu909/mcp_server",
+  "source_url": "https://github.com/bvenkatesulu909/mcp_server",
+  "install": "# git clone --depth 1 https://github.com/bvenkatesulu909/mcp_server\n# See source for mcpServers config block"
+}

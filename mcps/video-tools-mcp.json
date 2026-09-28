@@ -1,0 +1,7 @@
+{
+  "name": "video-tools-mcp",
+  "description": "An MCP server enabling video processing via natural language: transcription with Whisper, segment cutting with FFmpeg, and file management.",
+  "source_repo": "ZZtopBR/video-tools-mcp",
+  "source_url": "https://github.com/ZZtopBR/video-tools-mcp",
+  "install": "npx -y video-tools-mcp"
+}

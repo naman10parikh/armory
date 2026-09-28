@@ -1,0 +1,7 @@
+{
+  "name": "drip",
+  "description": "AI-powered emergency coordination platform built with NitroStack MCP to accelerate disaster response through intelligent planning, resource orchestration, and real-time operational insights.",
+  "source_repo": "nanzz-leo/DRIP",
+  "source_url": "https://github.com/nanzz-leo/DRIP",
+  "install": "# git clone --depth 1 https://github.com/nanzz-leo/DRIP\n# See source for mcpServers config block"
+}

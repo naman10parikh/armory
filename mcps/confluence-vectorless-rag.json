@@ -1,0 +1,7 @@
+{
+  "name": "confluence-vectorless-rag",
+  "description": "Enables querying Confluence documents through agentic reasoning over hierarchical document trees, replacing vector similarity with structural navigation.",
+  "source_repo": "piter5285/vectorless-agentic-RAG",
+  "source_url": "https://github.com/piter5285/vectorless-agentic-RAG",
+  "install": "# git clone --depth 1 https://github.com/piter5285/vectorless-agentic-RAG\n# See source for mcpServers config block"
+}

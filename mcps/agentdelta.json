@@ -1,0 +1,7 @@
+{
+  "name": "agentdelta",
+  "description": "Agent trace diff and prompt regression detection — compares two agent runs to find exactly where reasoning diverged.",
+  "source_repo": "sandeep-alluru/agentdelta",
+  "source_url": "https://github.com/sandeep-alluru/agentdelta",
+  "install": "# git clone --depth 1 https://github.com/sandeep-alluru/agentdelta\n# See source for mcpServers config block"
+}

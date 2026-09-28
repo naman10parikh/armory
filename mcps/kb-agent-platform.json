@@ -1,0 +1,7 @@
+{
+  "name": "kb-agent-platform",
+  "description": "Enables MCP hosts like Cursor or Claude to query an enterprise knowledge base via stdio, providing RAG-based answers with cited sources.",
+  "source_repo": "embracingTheFuture/kb-agent-platform",
+  "source_url": "https://github.com/embracingTheFuture/kb-agent-platform",
+  "install": "# git clone --depth 1 https://github.com/embracingTheFuture/kb-agent-platform\n# See source for mcpServers config block"
+}

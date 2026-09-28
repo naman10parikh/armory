@@ -1,0 +1,7 @@
+{
+  "name": "google-ai-overview-api",
+  "description": "Enables fetching Google's AI Overview answers and cited sources as structured JSON, with support for batch queries and country/language targeting.",
+  "source_repo": "johnisanerd/Apify-Google-AI-Overview-API",
+  "source_url": "https://github.com/johnisanerd/Apify-Google-AI-Overview-API",
+  "install": "# git clone --depth 1 https://github.com/johnisanerd/Apify-Google-AI-Overview-API\n# See source for mcpServers config block"
+}

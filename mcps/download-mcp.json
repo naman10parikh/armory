@@ -1,0 +1,7 @@
+{
+  "name": "download-mcp",
+  "description": "Enables AI models to manage file downloads with multi-threading, progress monitoring, and task control through standardized MCP interfaces.",
+  "source_repo": "shuakami/mcp-download",
+  "source_url": "https://github.com/shuakami/mcp-download",
+  "install": "# git clone --depth 1 https://github.com/shuakami/mcp-download\n# See source for mcpServers config block"
+}

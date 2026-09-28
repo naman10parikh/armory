@@ -1,0 +1,7 @@
+{
+  "name": "phase8-mcp",
+  "description": "MCP server for the Korg Phase 8 acoustic synthesizer that enables triggering resonators, controlling per-resonator knobs, and modulating global parameters over USB MIDI.",
+  "source_repo": "Ziforge/phase8-mcp",
+  "source_url": "https://github.com/Ziforge/phase8-mcp",
+  "install": "npx -y phase8-mcp"
+}

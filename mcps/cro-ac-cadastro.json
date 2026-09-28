@@ -1,0 +1,7 @@
+{
+  "name": "cro-ac-cadastro",
+  "description": "Consulta em fonte oficial o cadastro do Conselho Regional de Odontologia AC por meio de uma ferramenta somente leitura, funcionando com qualquer cliente MCP via HTTP sem credenciais da plataforma.",
+  "source_repo": "mcp-dir/cro_ac_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_ac_cadastro-mcp",
+  "install": "npx -y cro_ac_cadastro-mcp"
+}

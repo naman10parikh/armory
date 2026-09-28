@@ -1,0 +1,7 @@
+{
+  "name": "nutanix-v4-api-mcp-server",
+  "description": "Expose Nutanix V4 APIs as tools callable by AI assistants — Claude, Cursor, and any MCP-compatible client.",
+  "source_repo": "nutanix/ntnx-api-mcp-server",
+  "source_url": "https://github.com/nutanix/ntnx-api-mcp-server",
+  "install": "npx -y ntnx-api-mcp-server"
+}

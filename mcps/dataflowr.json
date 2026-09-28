@@ -1,0 +1,7 @@
+{
+  "name": "dataflowr",
+  "description": "Enables AI agents to browse and teach the Deep Learning DIY course, providing access to modules, notebooks, transcripts, quizzes, slides, and homework via MCP tools.",
+  "source_repo": "dataflowr/dataflowr-tools",
+  "source_url": "https://github.com/dataflowr/dataflowr-tools",
+  "install": "# git clone --depth 1 https://github.com/dataflowr/dataflowr-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scm-mcp-server",
+  "description": "Exposes Palo Alto Networks Strata Cloud Manager API via MCP, enabling AI assistants to manage addresses, security rules, and incidents through natural language.",
+  "source_repo": "zm1990s/vibe-coding-scm-mcp-server",
+  "source_url": "https://github.com/zm1990s/vibe-coding-scm-mcp-server",
+  "install": "npx -y vibe-coding-scm-mcp-server"
+}

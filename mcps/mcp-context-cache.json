@@ -1,0 +1,7 @@
+{
+  "name": "mcp-context-cache",
+  "description": "Efficiently loads, caches, and delivers project file context for AI agents using the Model Context Protocol, reducing multiple file reads to a single call with LRU caching and security validation.",
+  "source_repo": "jdug-jadodev/MCP-CACHING",
+  "source_url": "https://github.com/jdug-jadodev/MCP-CACHING",
+  "install": "# git clone --depth 1 https://github.com/jdug-jadodev/MCP-CACHING\n# See source for mcpServers config block"
+}

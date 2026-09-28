@@ -1,0 +1,7 @@
+{
+  "name": "mcp-citation-checker",
+  "description": "An MCP server that verifies whether a claim is actually supported by the source text at a given citation — independent of what the calling LLM asserts.",
+  "source_repo": "ethanchand/mcp_citation_checker",
+  "source_url": "https://github.com/ethanchand/mcp_citation_checker",
+  "install": "# git clone --depth 1 https://github.com/ethanchand/mcp_citation_checker\n# See source for mcpServers config block"
+}

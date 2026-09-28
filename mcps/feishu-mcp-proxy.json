@@ -1,0 +1,7 @@
+{
+  "name": "feishu-mcp-proxy",
+  "description": "A local reverse proxy for Feishu MCP services that automatically manages tenant_access_token, enabling AI agents to interact with Feishu documents and tools seamlessly.",
+  "source_repo": "Tim-Siu/feishu-mcp-proxy",
+  "source_url": "https://github.com/Tim-Siu/feishu-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/Tim-Siu/feishu-mcp-proxy\n# See source for mcpServers config block"
+}

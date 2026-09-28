@@ -1,0 +1,7 @@
+{
+  "name": "sap-commerce-mcp-server",
+  "description": "Enables coding agents to query and manage SAP Commerce (Hybris) instances via FlexibleSearch, Groovy, ImpEx, and type system browsing through the HAC console, with secure credential handling and multi-environment support.",
+  "source_repo": "nirajlonkar/sap-commerce-mcp-server",
+  "source_url": "https://github.com/nirajlonkar/sap-commerce-mcp-server",
+  "install": "npx -y sap-commerce-mcp-server"
+}

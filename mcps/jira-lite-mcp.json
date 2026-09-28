@@ -1,0 +1,7 @@
+{
+  "name": "jira-lite-mcp",
+  "description": "A lightweight Jira Cloud MCP server for Claude Code that provides high-value tools for reading and writing Jira issues with human-readable responses.",
+  "source_repo": "pilloom/jira-lite-mcp",
+  "source_url": "https://github.com/pilloom/jira-lite-mcp",
+  "install": "npx -y jira-lite-mcp"
+}

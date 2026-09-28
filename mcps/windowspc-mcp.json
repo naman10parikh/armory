@@ -1,0 +1,7 @@
+{
+  "name": "windowspc-mcp",
+  "description": "Gives AI agents their own virtual display on Windows, enabling isolated clicking, typing, and screenshots without interfering with the user's desktop.",
+  "source_repo": "ShikeChen01/WindowsPC-MCP",
+  "source_url": "https://github.com/ShikeChen01/WindowsPC-MCP",
+  "install": "npx -y WindowsPC-MCP"
+}

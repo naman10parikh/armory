@@ -1,0 +1,7 @@
+{
+  "name": "cro-cadastro-mcp",
+  "description": "Consulta o cadastro do Conselho Regional de Odontologia via fonte oficial, permitindo verificar dados profissionais de forma somente leitura.",
+  "source_repo": "mcp-dir/cro_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_cadastro-mcp",
+  "install": "npx -y cro_cadastro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tg-mcp-spy",
+  "description": "Caches Telegram channel posts locally in SQLite and exposes them via MCP tools for querying and management.",
+  "source_repo": "serjteplov/tg-mcp-spy",
+  "source_url": "https://github.com/serjteplov/tg-mcp-spy",
+  "install": "# git clone --depth 1 https://github.com/serjteplov/tg-mcp-spy\n# See source for mcpServers config block"
+}

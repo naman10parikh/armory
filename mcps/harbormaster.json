@@ -1,0 +1,7 @@
+{
+  "name": "harbormaster",
+  "description": "An authenticated MCP gateway that ingests documents and orchestrates hundreds of tools via progressive discovery, keeping context cost constant. It provides per-user RAG over ingested documents and a 116-tool registry that the model navigates through search, describe, and invoke tools.",
+  "source_repo": "theonetheycallneo/harbormaster",
+  "source_url": "https://github.com/theonetheycallneo/harbormaster",
+  "install": "# git clone --depth 1 https://github.com/theonetheycallneo/harbormaster\n# See source for mcpServers config block"
+}

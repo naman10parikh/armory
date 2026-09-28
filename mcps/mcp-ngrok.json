@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ngrok",
+  "description": "Launches HexStrike AI with an ngrok HTTPS tunnel, starting a Flask API and MCP bridge for remote interaction.",
+  "source_repo": "veteranchat/mcp_ngrok",
+  "source_url": "https://github.com/veteranchat/mcp_ngrok",
+  "install": "# git clone --depth 1 https://github.com/veteranchat/mcp_ngrok\n# See source for mcpServers config block"
+}

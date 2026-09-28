@@ -1,0 +1,7 @@
+{
+  "name": "amazing-marvin-mcp",
+  "description": "Connects your Amazing Marvin productivity system with AI assistants like Claude for intelligent task management, enabling personalized productivity advice and seamless task operations.",
+  "source_repo": "qemqemqem/Amazing-Marvin-MCP",
+  "source_url": "https://github.com/qemqemqem/Amazing-Marvin-MCP",
+  "install": "npx -y Amazing-Marvin-MCP"
+}

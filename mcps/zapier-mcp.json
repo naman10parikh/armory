@@ -1,0 +1,7 @@
+{
+  "name": "zapier-mcp",
+  "description": "Zapier's 8,000+ app actions exposed to an agent as MCP tools.",
+  "source_repo": "https://zapier.com/mcp",
+  "source_url": "https://zapier.com/mcp",
+  "install": "# git clone --depth 1 https://zapier.com/mcp\n# See source for mcpServers config block"
+}

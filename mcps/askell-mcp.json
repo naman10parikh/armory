@@ -1,0 +1,7 @@
+{
+  "name": "askell-mcp",
+  "description": "MCP server for Askell's payment and subscription API, allowing users to discover API operations, make raw API calls with approval for mutations, and analyze customers, contracts, billing runs, and webhooks.",
+  "source_repo": "Neschadin/askell-mcp",
+  "source_url": "https://github.com/Neschadin/askell-mcp",
+  "install": "npx -y askell-mcp"
+}

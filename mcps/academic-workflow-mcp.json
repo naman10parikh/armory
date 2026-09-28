@@ -1,0 +1,7 @@
+{
+  "name": "academic-workflow-mcp",
+  "description": "Connects Zotero and Obsidian for an AI-assisted academic reading workflow, enabling paper fetching, structured note creation, highlight syncing, and review management.",
+  "source_repo": "wuruiqi/academic-workflow-mcp",
+  "source_url": "https://github.com/wuruiqi/academic-workflow-mcp",
+  "install": "npx -y academic-workflow-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-auth-proxy",
+  "description": "Authenticating reverse proxy for MCP servers providing credential isolation, OAuth2 token management, and composite tool aggregation.",
+  "source_repo": "bobtheskull-flameeyes/mcp-auth-proxy",
+  "source_url": "https://github.com/bobtheskull-flameeyes/mcp-auth-proxy",
+  "install": "# git clone --depth 1 https://github.com/bobtheskull-flameeyes/mcp-auth-proxy\n# See source for mcpServers config block"
+}

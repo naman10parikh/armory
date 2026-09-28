@@ -1,0 +1,7 @@
+{
+  "name": "my-portfolio-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for managing investment portfolios, enabling transaction tracking, position management, alerts, and daily snapshots with Google Drive sync.",
+  "source_repo": "udaybhasker-ub/my-portfolio-mcp",
+  "source_url": "https://github.com/udaybhasker-ub/my-portfolio-mcp",
+  "install": "npx -y my-portfolio-mcp"
+}

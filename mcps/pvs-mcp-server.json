@@ -1,0 +1,7 @@
+{
+  "name": "pvs-mcp-server",
+  "description": "A PM2-deployed MCP server that provides model context protocol endpoints for multiple SQL Anywhere databases with read-only ODBC access, enabling AI assistants to query database content.",
+  "source_repo": "pvsmark/pvs-mcp-server",
+  "source_url": "https://github.com/pvsmark/pvs-mcp-server",
+  "install": "npx -y pvs-mcp-server"
+}

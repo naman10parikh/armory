@@ -1,0 +1,7 @@
+{
+  "name": "veil-mcp",
+  "description": "An agent-native shell as an MCP server, designed for LLM agents (like Claude Code) to execute commands with structured output, lazy detail retrieval, and effect tracking, minimizing token usage.",
+  "source_repo": "vkmtx/veil-mcp",
+  "source_url": "https://github.com/vkmtx/veil-mcp",
+  "install": "npx -y veil-mcp"
+}

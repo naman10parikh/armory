@@ -1,0 +1,7 @@
+{
+  "name": "docket-mcp-server",
+  "description": "Enables extracting action items from meeting transcripts and managing them in Notion, with duplicate detection and human review.",
+  "source_repo": "het2576/Docket-MCP",
+  "source_url": "https://github.com/het2576/Docket-MCP",
+  "install": "npx -y Docket-MCP"
+}

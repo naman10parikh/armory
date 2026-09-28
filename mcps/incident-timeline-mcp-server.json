@@ -1,0 +1,7 @@
+{
+  "name": "incident-timeline-mcp-server",
+  "description": "Extracts structured incident analysis from raw communication logs, classifying events by NIST SP 800-61 phases with severity assessment and responder metrics.",
+  "source_repo": "ian-de-marcellus/incident-timeline-mcp",
+  "source_url": "https://github.com/ian-de-marcellus/incident-timeline-mcp",
+  "install": "npx -y incident-timeline-mcp"
+}

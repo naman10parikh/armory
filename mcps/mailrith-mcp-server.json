@@ -1,0 +1,7 @@
+{
+  "name": "mailrith-mcp-server",
+  "description": "MCP server for building safe AI agent email marketing workflows with Mailrith.",
+  "source_repo": "anrawool/mailrith-agent-platform",
+  "source_url": "https://github.com/anrawool/mailrith-agent-platform",
+  "install": "# git clone --depth 1 https://github.com/anrawool/mailrith-agent-platform\n# See source for mcpServers config block"
+}

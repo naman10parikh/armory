@@ -1,0 +1,7 @@
+{
+  "name": "retavyn",
+  "description": "Retavyn provides persistent memory for Claude, automatically storing and injecting memories across sessions to maintain context and recall past information.",
+  "source_repo": "mbucknam/retavyn",
+  "source_url": "https://github.com/mbucknam/retavyn",
+  "install": "# git clone --depth 1 https://github.com/mbucknam/retavyn\n# See source for mcpServers config block"
+}

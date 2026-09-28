@@ -1,0 +1,7 @@
+{
+  "name": "local-drive-mcp",
+  "description": "MCP server enabling ChatGPT to interact with local filesystem via controlled file operations like read, write, edit, and search, with configurable guardrails for safety.",
+  "source_repo": "sofakingmc0804/local-drive-mcp",
+  "source_url": "https://github.com/sofakingmc0804/local-drive-mcp",
+  "install": "npx -y local-drive-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qui-mcp",
+  "description": "MCP server that exposes qui's JSON REST API as tools for monitoring and managing qBittorrent instances, torrents, automations, cross-seeding, RSS, backups, and related services.",
+  "source_repo": "SavageCore/qui-mcp",
+  "source_url": "https://github.com/SavageCore/qui-mcp",
+  "install": "npx -y qui-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-retrieval",
+  "description": "An MCP server providing web search, image search, and page scraping tools to LLMs without requiring API keys.",
+  "source_repo": "Role1776/mcp-retrieval",
+  "source_url": "https://github.com/Role1776/mcp-retrieval",
+  "install": "# git clone --depth 1 https://github.com/Role1776/mcp-retrieval\n# See source for mcpServers config block"
+}

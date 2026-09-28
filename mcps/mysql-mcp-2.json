@@ -1,0 +1,7 @@
+{
+  "name": "mysql-mcp-2",
+  "description": "Provides safe read, insert, and update operations on MySQL databases with guardrails against destructive actions.",
+  "source_repo": "stellarcompiler/mysql-mcp",
+  "source_url": "https://github.com/stellarcompiler/mysql-mcp",
+  "install": "npx -y mysql-mcp"
+}

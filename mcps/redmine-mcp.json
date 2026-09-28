@@ -1,0 +1,7 @@
+{
+  "name": "redmine-mcp",
+  "description": "Enables to interact with Redmine issues through the MCP protocol, allowing operations like get, list, create, and update tickets.",
+  "source_repo": "ytakeuchi0222/redmine-mcp",
+  "source_url": "https://github.com/ytakeuchi0222/redmine-mcp",
+  "install": "npx -y redmine-mcp"
+}

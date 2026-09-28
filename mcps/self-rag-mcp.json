@@ -1,0 +1,7 @@
+{
+  "name": "self-rag-mcp",
+  "description": "Enables self-reflective retrieval-augmented generation with LLM-driven retrieval decisions, document relevance grading, answer grounding verification, and automatic retries, exposed through MCP tools over SSE.",
+  "source_repo": "FireWizard-V9/self_rag_mcp",
+  "source_url": "https://github.com/FireWizard-V9/self_rag_mcp",
+  "install": "npx -y self_rag_mcp"
+}

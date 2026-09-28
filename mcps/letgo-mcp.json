@@ -1,0 +1,7 @@
+{
+  "name": "letgo-mcp",
+  "description": "Enables searching, viewing details, and filtering listings on Letgo.com by using Playwright to bypass Akamai anti-bot protection.",
+  "source_repo": "SERDAR-AKIN/letgo-mcp",
+  "source_url": "https://github.com/SERDAR-AKIN/letgo-mcp",
+  "install": "npx -y letgo-mcp"
+}

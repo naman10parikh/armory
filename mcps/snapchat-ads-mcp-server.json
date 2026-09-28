@@ -1,0 +1,7 @@
+{
+  "name": "snapchat-ads-mcp-server",
+  "description": "Connects Claude AI to Snapchat Ads accounts for live campaign analysis and real actions like pausing campaigns and updating budgets.",
+  "source_repo": "saadsh0/snapchat-ads-mcp",
+  "source_url": "https://github.com/saadsh0/snapchat-ads-mcp",
+  "install": "npx -y snapchat-ads-mcp"
+}

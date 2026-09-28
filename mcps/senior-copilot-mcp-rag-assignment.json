@@ -1,0 +1,7 @@
+{
+  "name": "senior-copilot-mcp-rag-assignment",
+  "description": "Enables alarm investigation through MCP tools for asset search, metadata lookup, alarm retrieval, summarization, priority scoring, and operator recommendations, with RAG-backed evidence from procedure documents.",
+  "source_repo": "niksiet1005/senior-copilot-mcp-rag-assignment",
+  "source_url": "https://github.com/niksiet1005/senior-copilot-mcp-rag-assignment",
+  "install": "# git clone --depth 1 https://github.com/niksiet1005/senior-copilot-mcp-rag-assignment\n# See source for mcpServers config block"
+}

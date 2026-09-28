@@ -1,0 +1,7 @@
+{
+  "name": "kwjm-mcp",
+  "description": "MCP server that provides unified access to text, image, and video generation models via the kwjm.com API, with model discovery, capability validation, and clear error explanations.",
+  "source_repo": "XucroYuri/KWJM-MCP",
+  "source_url": "https://github.com/XucroYuri/KWJM-MCP",
+  "install": "npx -y KWJM-MCP"
+}

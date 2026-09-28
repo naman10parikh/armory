@@ -1,0 +1,7 @@
+{
+  "name": "toolpipe-mcp-server",
+  "description": "MCP server providing 35 developer utility APIs (JSON formatting, code review, password generation, etc.) for AI agents like Claude.",
+  "source_repo": "Ithiel-Labs/toolpipe-mcp-server",
+  "source_url": "https://github.com/Ithiel-Labs/toolpipe-mcp-server",
+  "install": "npx -y toolpipe-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "code-security-mcp",
+  "description": "An MCP server that exposes a 216-rule Kotlin/JVM security analyzer to AI coding agents, enabling real-time security scanning and secure pattern retrieval for frameworks like Spring and Ktor.",
+  "source_repo": "JasminGuberinic/code-security-mcp",
+  "source_url": "https://github.com/JasminGuberinic/code-security-mcp",
+  "install": "npx -y code-security-mcp"
+}

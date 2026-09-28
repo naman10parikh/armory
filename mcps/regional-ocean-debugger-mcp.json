@@ -1,0 +1,7 @@
+{
+  "name": "regional-ocean-debugger-mcp",
+  "description": "MCP server for debugging regional ocean (MOM6 + CESM) model runs, combining log analysis tools with a searchable knowledge base of expert interview transcripts.",
+  "source_repo": "CROCODILE-CESM/MCP_regional_ocean_debugger",
+  "source_url": "https://github.com/CROCODILE-CESM/MCP_regional_ocean_debugger",
+  "install": "# git clone --depth 1 https://github.com/CROCODILE-CESM/MCP_regional_ocean_debugger\n# See source for mcpServers config block"
+}

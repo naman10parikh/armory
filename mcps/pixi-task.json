@@ -1,0 +1,7 @@
+{
+  "name": "pixi-task",
+  "description": "A secure MCP server providing controlled access to pixi tasks and commands, eliminating agent bash circumvention. It exposes 11 pixi tools through 4 meta-tools for ~95% context savings.",
+  "source_repo": "Claire-s-Monster/pixi-task",
+  "source_url": "https://github.com/Claire-s-Monster/pixi-task",
+  "install": "# git clone --depth 1 https://github.com/Claire-s-Monster/pixi-task\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "altronis-altronis-mcp",
+  "description": "MCP server and CLI for Altronis, providing read-only access to Singapore AI consulting tools including an AI consultant, grant-matched transformation plans, and curated Singapore AI events, news, and ecosystem data.",
+  "source_repo": "sypherin/altronis-mcp",
+  "source_url": "https://github.com/sypherin/altronis-mcp",
+  "install": "npx -y altronis-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codex-ergouzi-media-mcp",
+  "description": "This MCP server enables Codex to generate images and videos using Ergouzi's self-developed media generation models.",
+  "source_repo": "miao111994/codex-ergouzi-media-mcp",
+  "source_url": "https://github.com/miao111994/codex-ergouzi-media-mcp",
+  "install": "npx -y codex-ergouzi-media-mcp"
+}

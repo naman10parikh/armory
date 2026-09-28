@@ -1,0 +1,7 @@
+{
+  "name": "addevent-mcp-server",
+  "description": "MCP server that wraps the AddEvent Calendar & Events API v2, allowing Claude to create, search, retrieve, update, and delete events, calendars, and RSVP attendees, plus list timezones.",
+  "source_repo": "UtahREIA/addevent-mcp-server",
+  "source_url": "https://github.com/UtahREIA/addevent-mcp-server",
+  "install": "npx -y addevent-mcp-server"
+}

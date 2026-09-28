@@ -1,0 +1,7 @@
+{
+  "name": "kingdee-search-server",
+  "description": "搜索金蝶开发者社区知识库的 MCP 服务器，支持根据关键字检索并返回结果表格。",
+  "source_repo": "qiliang517/kingdee-search-mcp",
+  "source_url": "https://github.com/qiliang517/kingdee-search-mcp",
+  "install": "npx -y kingdee-search-mcp"
+}

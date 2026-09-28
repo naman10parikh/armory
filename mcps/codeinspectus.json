@@ -1,0 +1,7 @@
+{
+  "name": "codeinspectus",
+  "description": "Local-first, zero-egress security scanner for AI-generated / \"vibe-coded\" JS/TS. Bundles Opengrep, Gitleaks & Trivy behind one CWE-keyed schema and adds AI-code-specific checks (client-side secret exposure, Supabase RLS, prompt-injection & LLM-output XSS sinks). No account, no telemetry.",
+  "source_repo": "Synvoya/codeinspectus",
+  "source_url": "https://github.com/Synvoya/codeinspectus",
+  "install": "# git clone --depth 1 https://github.com/Synvoya/codeinspectus\n# See source for mcpServers config block"
+}

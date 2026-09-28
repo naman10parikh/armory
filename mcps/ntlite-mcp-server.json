@@ -1,0 +1,7 @@
+{
+  "name": "ntlite-mcp-server",
+  "description": "Enables MCP-compatible clients to inspect Windows images, edit NTLite presets, and run apply, save, and ISO creation operations through the running NTLite window.",
+  "source_repo": "Dvow/ntlite-mcp",
+  "source_url": "https://github.com/Dvow/ntlite-mcp",
+  "install": "npx -y ntlite-mcp"
+}

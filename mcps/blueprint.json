@@ -1,0 +1,7 @@
+{
+  "name": "blueprint",
+  "description": "Blueprint is an MCP server that enables AI assistants to create C4 software architecture diagrams from structured data.",
+  "source_repo": "ColOfAbRiX/blueprint-mcp",
+  "source_url": "https://github.com/ColOfAbRiX/blueprint-mcp",
+  "install": "npx -y blueprint-mcp"
+}

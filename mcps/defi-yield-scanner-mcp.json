@@ -1,0 +1,7 @@
+{
+  "name": "defi-yield-scanner-mcp",
+  "description": "Real-time DeFi analytics MCP server for AI agents. Provides token risk analysis, yield scanning, and wallet exposure checking across Base, Ethereum, and Arbitrum.",
+  "source_repo": "34t34f3/defi-yield-scanner-mcp",
+  "source_url": "https://github.com/34t34f3/defi-yield-scanner-mcp",
+  "install": "npx -y defi-yield-scanner-mcp"
+}

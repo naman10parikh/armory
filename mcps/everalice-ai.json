@@ -1,0 +1,7 @@
+{
+  "name": "everalice-ai",
+  "description": "AI listing workflow for Etsy sellers: listings, mockups, ZIP packs, KDP copy, planners, images, and ad copy.",
+  "source_repo": "Pixel-Aly/EverAlice-AI-MCP",
+  "source_url": "https://github.com/Pixel-Aly/EverAlice-AI-MCP",
+  "install": "npx -y EverAlice-AI-MCP"
+}

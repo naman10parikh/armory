@@ -1,0 +1,7 @@
+{
+  "name": "ai-disk-doctor-integrations",
+  "description": "A read-only MCP server that exposes AI Disk Doctor Core's scan, model inventory, and history tools via local stdio, with no mutation or shell capabilities.",
+  "source_repo": "quzhiii/ai-disk-doctor-integrations",
+  "source_url": "https://github.com/quzhiii/ai-disk-doctor-integrations",
+  "install": "# git clone --depth 1 https://github.com/quzhiii/ai-disk-doctor-integrations\n# See source for mcpServers config block"
+}

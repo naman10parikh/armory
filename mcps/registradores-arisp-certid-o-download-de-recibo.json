@@ -1,0 +1,7 @@
+{
+  "name": "registradores-arisp-certid-o-download-de-recibo",
+  "description": "Este servidor MCP permite consultar recibos oficiais do Registradores (ARISP) de forma somente leitura, permitindo download de recibos de certidões para integração com agentes de IA.",
+  "source_repo": "mcp-dir/registradores_certid_recibo-mcp",
+  "source_url": "https://github.com/mcp-dir/registradores_certid_recibo-mcp",
+  "install": "npx -y registradores_certid_recibo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "docforge-mcp",
+  "description": "Enables complete Office document lifecycle management for AI agents, including creation, editing, conversion, and templating of DOCX, XLSX, PPTX, PDF, and EML files.",
+  "source_repo": "filhocf/docforge-mcp",
+  "source_url": "https://github.com/filhocf/docforge-mcp",
+  "install": "npx -y docforge-mcp"
+}

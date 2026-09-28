@@ -1,0 +1,7 @@
+{
+  "name": "johgee",
+  "description": "Enables users to produce explainable UK garden watering recommendations as deterministic millimetres, litres and runtime from self-reported garden details or an optional postcode, without controlling irrigation hardware.",
+  "source_repo": "hongzhizuo/johgee-open-irrigation",
+  "source_url": "https://github.com/hongzhizuo/johgee-open-irrigation",
+  "install": "# git clone --depth 1 https://github.com/hongzhizuo/johgee-open-irrigation\n# See source for mcpServers config block"
+}

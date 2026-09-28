@@ -1,0 +1,7 @@
+{
+  "name": "provenance",
+  "description": "Enables querying deterministic risk ratings and explanations for tokenized assets on Mantle.",
+  "source_repo": "ronkenx9/provenance",
+  "source_url": "https://github.com/ronkenx9/provenance",
+  "install": "# git clone --depth 1 https://github.com/ronkenx9/provenance\n# See source for mcpServers config block"
+}

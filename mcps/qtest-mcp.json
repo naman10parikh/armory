@@ -1,0 +1,7 @@
+{
+  "name": "qtest-mcp",
+  "description": "Enables AI tools to safely query and manage qTest test management data through an MCP server with a token portal and guardrails against destructive operations.",
+  "source_repo": "SurgeX-Labs/qtest-mcp",
+  "source_url": "https://github.com/SurgeX-Labs/qtest-mcp",
+  "install": "npx -y qtest-mcp"
+}

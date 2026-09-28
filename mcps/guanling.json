@@ -1,0 +1,7 @@
+{
+  "name": "guanling",
+  "description": "A task-management MCP server that enforces strict gates on task states, WIP limits, and closing reasons, refusing operations that would leave the list ambiguous or rotting.",
+  "source_repo": "fateLiang/guanling",
+  "source_url": "https://github.com/fateLiang/guanling",
+  "install": "# git clone --depth 1 https://github.com/fateLiang/guanling\n# See source for mcpServers config block"
+}

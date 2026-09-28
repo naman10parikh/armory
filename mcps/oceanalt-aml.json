@@ -1,0 +1,7 @@
+{
+  "name": "oceanalt-aml",
+  "description": "Crypto compliance tools for AI-agent payments: screen any address for sanctions, frozen-stablecoin and hacker/mixer exposure across 8+ chains, trace fund taint, and get an allow/review/decline decision before settlement. Free keyless address checks; deeper endpoints are x402-payable.",
+  "source_repo": "OceanAlt666/oceanalt-aml-mcp",
+  "source_url": "https://github.com/OceanAlt666/oceanalt-aml-mcp",
+  "install": "npx -y oceanalt-aml-mcp"
+}

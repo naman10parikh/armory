@@ -1,0 +1,7 @@
+{
+  "name": "clausewitz-mcp",
+  "description": "An MCP server for Paradox Clausewitz/Jomini modding (EU5, EU4, Victoria 3, HOI4, CK3, Stellaris) that grounds AI assistants in the game's generated documentation and vanilla script tree, enabling accurate script lookup, parsing, and validation without running the game.",
+  "source_repo": "jacklenzotti/clausewitz-mcp",
+  "source_url": "https://github.com/jacklenzotti/clausewitz-mcp",
+  "install": "npx -y clausewitz-mcp"
+}

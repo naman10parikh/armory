@@ -1,0 +1,7 @@
+{
+  "name": "arcgis-mcp-server",
+  "description": "Enables AI assistants to query and visualize ArcGIS Online/Enterprise geospatial data through natural language, performing spatial analysis and map generation.",
+  "source_repo": "januarf121995/Geo-habilitacion-ArcGIS-en-Ecosistemas-Agenticos",
+  "source_url": "https://github.com/januarf121995/Geo-habilitacion-ArcGIS-en-Ecosistemas-Agenticos",
+  "install": "# git clone --depth 1 https://github.com/januarf121995/Geo-habilitacion-ArcGIS-en-Ecosistemas-Agenticos\n# See source for mcpServers config block"
+}

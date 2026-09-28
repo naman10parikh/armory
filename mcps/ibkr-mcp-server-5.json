@@ -1,0 +1,7 @@
+{
+  "name": "ibkr-mcp-server-5",
+  "description": "MCP server for Interactive Brokers TWS API that enables AI assistants to retrieve portfolio, account information, and real-time market prices.",
+  "source_repo": "xiao81/IBKR-MCP-Server",
+  "source_url": "https://github.com/xiao81/IBKR-MCP-Server",
+  "install": "npx -y IBKR-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tupad",
+  "description": "Enables AI assistants to query the UTN distance learning Moodle campus, providing tools to list courses, view content, check deadlines, see grades, and more.",
+  "source_repo": "brujoh88/MCP-TUPAD",
+  "source_url": "https://github.com/brujoh88/MCP-TUPAD",
+  "install": "# git clone --depth 1 https://github.com/brujoh88/MCP-TUPAD\n# See source for mcpServers config block"
+}

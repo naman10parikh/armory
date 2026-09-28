@@ -1,0 +1,7 @@
+{
+  "name": "ai-debate",
+  "description": "Enables Claude Code to debate with Gemini on a given topic by managing conversation history and assigning personas, allowing users to watch AI agents argue.",
+  "source_repo": "TaeheeLim/gemini-claude-mcp",
+  "source_url": "https://github.com/TaeheeLim/gemini-claude-mcp",
+  "install": "npx -y gemini-claude-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gma2-mcp",
+  "description": "An MCP server that lets AI assistants control grandMA2 lighting consoles via Telnet, exposing 41 high-level tools for cue management, fixture control, preset management, executor control, macro editing, appearance assignment, bulk operations, console state queries, show file management, read-back ve",
+  "source_repo": "chienchuanw/gma2-mcp",
+  "source_url": "https://github.com/chienchuanw/gma2-mcp",
+  "install": "npx -y gma2-mcp"
+}

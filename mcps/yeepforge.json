@@ -1,0 +1,7 @@
+{
+  "name": "yeepforge",
+  "description": "Enables LLM hosts like Claude Code, Cursor, or Claude Desktop to drive YeepForge's 28 web penetration testing tools (recon, crawling, SQLi/XSS testing, nuclei scans) and set engagement targets via Model Context Protocol, using the host's own LLM subscription.",
+  "source_repo": "capture0x/YeepForge",
+  "source_url": "https://github.com/capture0x/YeepForge",
+  "install": "# git clone --depth 1 https://github.com/capture0x/YeepForge\n# See source for mcpServers config block"
+}

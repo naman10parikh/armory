@@ -1,0 +1,7 @@
+{
+  "name": "swiss-qr-bill-mcp",
+  "description": "Enables AI agents to generate, validate, decode, and verify Swiss QR payment slips, with all file writes confined to a specified output directory.",
+  "source_repo": "dmikushin/swiss_qr_payment",
+  "source_url": "https://github.com/dmikushin/swiss_qr_payment",
+  "install": "# git clone --depth 1 https://github.com/dmikushin/swiss_qr_payment\n# See source for mcpServers config block"
+}

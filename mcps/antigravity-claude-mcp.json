@@ -1,0 +1,7 @@
+{
+  "name": "antigravity-claude-mcp",
+  "description": "Allows Claude Code to request an independent code review from Google Antigravity (Gemini, Claude, or GPT-OSS) via the Antigravity CLI, providing a second opinion on plans or diffs.",
+  "source_repo": "arjunthilak05/antigravity-claude-mcp",
+  "source_url": "https://github.com/arjunthilak05/antigravity-claude-mcp",
+  "install": "npx -y antigravity-claude-mcp"
+}

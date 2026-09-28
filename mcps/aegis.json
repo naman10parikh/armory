@@ -1,0 +1,7 @@
+{
+  "name": "aegis",
+  "description": "MCP server for auditing AI agent permissions and access by scanning for the trifecta of credentials, injection, and reach without heavy infrastructure.",
+  "source_repo": "cognis-digital/aegis",
+  "source_url": "https://github.com/cognis-digital/aegis",
+  "install": "# git clone --depth 1 https://github.com/cognis-digital/aegis\n# See source for mcpServers config block"
+}

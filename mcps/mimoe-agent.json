@@ -1,0 +1,7 @@
+{
+  "name": "mimoe-agent",
+  "description": "MCP server for the mimOE AI Agent, enabling on-device tools like device discovery, network insight, and persistent note storage via natural language.",
+  "source_repo": "dcaicedo/mimoe-agent",
+  "source_url": "https://github.com/dcaicedo/mimoe-agent",
+  "install": "# git clone --depth 1 https://github.com/dcaicedo/mimoe-agent\n# See source for mcpServers config block"
+}

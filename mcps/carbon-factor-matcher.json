@@ -1,0 +1,7 @@
+{
+  "name": "carbon-factor-matcher",
+  "description": "Enables carbon accounting by matching activities to emission factors via semantic search and AI ranking, supporting ELCD and ecoinvent databases.",
+  "source_repo": "Nikeandocean/carbon-factor-matcher",
+  "source_url": "https://github.com/Nikeandocean/carbon-factor-matcher",
+  "install": "# git clone --depth 1 https://github.com/Nikeandocean/carbon-factor-matcher\n# See source for mcpServers config block"
+}

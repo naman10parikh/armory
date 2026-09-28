@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-to-do-mcp-server",
+  "description": "Enables AI clients like Claude to read and manage Microsoft To Do task lists and tasks via the Microsoft Graph API, running locally over stdio with secure token storage.",
+  "source_repo": "hoaaah/Microsoft-To-Do-MCP-Server",
+  "source_url": "https://github.com/hoaaah/Microsoft-To-Do-MCP-Server",
+  "install": "npx -y Microsoft-To-Do-MCP-Server"
+}

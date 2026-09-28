@@ -1,0 +1,7 @@
+{
+  "name": "rms-mcp",
+  "description": "MCP server for RMS/Global Meteor Network stations. Enables remote inspection and management via SSH tunnels, with tools for status, detections, logs, config, and reprocessing under scoped access.",
+  "source_repo": "GlassOnTin/rms-mcp",
+  "source_url": "https://github.com/GlassOnTin/rms-mcp",
+  "install": "npx -y rms-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skill-intelligence-agent",
+  "description": "Enables external clients to query a vector knowledge base about skills and roles through an MCP retrieval tool, supporting RAG-based question answering with tool-calling.",
+  "source_repo": "gowtham03-dot/skill-intelligence-agent",
+  "source_url": "https://github.com/gowtham03-dot/skill-intelligence-agent",
+  "install": "# git clone --depth 1 https://github.com/gowtham03-dot/skill-intelligence-agent\n# See source for mcpServers config block"
+}

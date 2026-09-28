@@ -1,0 +1,7 @@
+{
+  "name": "openapi-doctor",
+  "description": "A template for building MCP servers with a built-in paywall gate that offers free local execution and premium server-side execution via Stripe and x402 payment lanes.",
+  "source_repo": "Baneado98/openapi-doctor",
+  "source_url": "https://github.com/Baneado98/openapi-doctor",
+  "install": "# git clone --depth 1 https://github.com/Baneado98/openapi-doctor\n# See source for mcpServers config block"
+}

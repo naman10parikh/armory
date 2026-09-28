@@ -1,0 +1,7 @@
+{
+  "name": "netease-mcp",
+  "description": "MCP server that enables AI assistants to search and retrieve music data (songs, lyrics, playlists, albums, artists) from Netease Cloud Music.",
+  "source_repo": "xiaocaoooo/sekai-viewer-mcp",
+  "source_url": "https://github.com/xiaocaoooo/sekai-viewer-mcp",
+  "install": "npx -y sekai-viewer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "intervals-mcp",
+  "description": "Local MCP server for analyzing Intervals.icu accounts, creating AI-assisted training plans, and applying managed drafts to the calendar after explicit confirmation.",
+  "source_repo": "santibacat/intervals-mcp",
+  "source_url": "https://github.com/santibacat/intervals-mcp",
+  "install": "npx -y intervals-mcp"
+}

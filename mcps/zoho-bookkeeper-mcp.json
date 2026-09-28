@@ -1,0 +1,7 @@
+{
+  "name": "zoho-bookkeeper-mcp",
+  "description": "MCP server for Zoho Books integration, enabling AI agents to perform bookkeeping operations like managing journals, expenses, bills, invoices, and file attachments.",
+  "source_repo": "bu5hm4nn/zoho-bookkeeper-mcp",
+  "source_url": "https://github.com/bu5hm4nn/zoho-bookkeeper-mcp",
+  "install": "npx -y zoho-bookkeeper-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "portal-transparencia-cepim",
+  "description": "Enables consultation of the Brazilian Transparency Portal's registry of barred non-profit entities (CEPIM) via a read-only MCP tool, returning official data with prepaid per-query credits.",
+  "source_repo": "mcp-dir/portal_transparencia_cepim-mcp",
+  "source_url": "https://github.com/mcp-dir/portal_transparencia_cepim-mcp",
+  "install": "npx -y portal_transparencia_cepim-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "local-spark-mcp",
+  "description": "Provides a stateful local Spark session for running PySpark and SQL cells, enabling local data exploration before deploying to Microsoft Fabric.",
+  "source_repo": "methodify/local-spark-mcp",
+  "source_url": "https://github.com/methodify/local-spark-mcp",
+  "install": "npx -y local-spark-mcp"
+}

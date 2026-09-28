@@ -1,0 +1,7 @@
+{
+  "name": "nextmove-mcp",
+  "description": "Analyzes your repository and suggests the next tasks to work on, presented as numbered options with context, enabling immediate action.",
+  "source_repo": "christianalares/nextmove-mcp",
+  "source_url": "https://github.com/christianalares/nextmove-mcp",
+  "install": "npx -y nextmove-mcp"
+}

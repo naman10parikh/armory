@@ -1,0 +1,7 @@
+{
+  "name": "safe-mcp-suite",
+  "description": "A hardened suite of two MCP servers — a terminal command executor and a file organizer — built on one shared, deny-by-default safety core.",
+  "source_repo": "Asaad-Suliman/safe-mcp-suite",
+  "source_url": "https://github.com/Asaad-Suliman/safe-mcp-suite",
+  "install": "# git clone --depth 1 https://github.com/Asaad-Suliman/safe-mcp-suite\n# See source for mcpServers config block"
+}

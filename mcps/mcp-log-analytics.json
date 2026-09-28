@@ -1,0 +1,7 @@
+{
+  "name": "mcp-log-analytics",
+  "description": "Exposes Azure Log Analytics workspace data with tools for querying AuditLogs and AzureActivity tables, supporting custom KQL queries, time range filters, and pagination.",
+  "source_repo": "jometzg/mcp-log-analytics",
+  "source_url": "https://github.com/jometzg/mcp-log-analytics",
+  "install": "# git clone --depth 1 https://github.com/jometzg/mcp-log-analytics\n# See source for mcpServers config block"
+}

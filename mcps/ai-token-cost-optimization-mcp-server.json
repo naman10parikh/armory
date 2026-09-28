@@ -1,0 +1,7 @@
+{
+  "name": "ai-token-cost-optimization-mcp-server",
+  "description": "Provides tools to count tokens, estimate API costs, optimize prompts, and compare AI model pricing for multiple LLMs.",
+  "source_repo": "SujanGhosh2002/my-mcp-server",
+  "source_url": "https://github.com/SujanGhosh2002/my-mcp-server",
+  "install": "npx -y my-mcp-server"
+}

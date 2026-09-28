@@ -1,0 +1,7 @@
+{
+  "name": "wikistrata",
+  "description": "Enables querying and interacting with a Markdown wiki generated from Confluence pages, with search and MCP server for LLM access.",
+  "source_repo": "kogarashi86/WikiStrata",
+  "source_url": "https://github.com/kogarashi86/WikiStrata",
+  "install": "# git clone --depth 1 https://github.com/kogarashi86/WikiStrata\n# See source for mcpServers config block"
+}

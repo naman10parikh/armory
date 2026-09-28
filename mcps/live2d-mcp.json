@@ -1,0 +1,7 @@
+{
+  "name": "live2d-mcp",
+  "description": "An interactive desktop companion with a Live2D model that can be controlled via MCP protocol, featuring TTS, music playback, alarms, and more.",
+  "source_repo": "nukkerman2000/live2d-mcp",
+  "source_url": "https://github.com/nukkerman2000/live2d-mcp",
+  "install": "npx -y live2d-mcp"
+}

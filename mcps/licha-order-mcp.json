@@ -1,0 +1,7 @@
+{
+  "name": "licha-order-mcp",
+  "description": "An MCP server for ordering tea from Licas Tea, allowing AI to find stores, view menus, build orders, and estimate prices in conversation. Currently read-only: no real orders or payments.",
+  "source_repo": "lichadecha/licha-order-mcp",
+  "source_url": "https://github.com/lichadecha/licha-order-mcp",
+  "install": "npx -y licha-order-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "game-mcp",
+  "description": "Multi-agent game development framework for Claude Code that lets you build games with an AI team including Lead, Engineer, Designer, Artist, QA, and Story Consultant.",
+  "source_repo": "xthenyo/game-mcp",
+  "source_url": "https://github.com/xthenyo/game-mcp",
+  "install": "npx -y game-mcp"
+}

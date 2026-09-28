@@ -1,0 +1,7 @@
+{
+  "name": "portal-api",
+  "description": "A read-only MCP server for Portal.io that enables browsing proposals, users, contacts, and catalog items through secure HMAC-signed API requests.",
+  "source_repo": "AWfusion/portal-api-mcp",
+  "source_url": "https://github.com/AWfusion/portal-api-mcp",
+  "install": "npx -y portal-api-mcp"
+}

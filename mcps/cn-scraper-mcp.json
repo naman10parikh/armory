@@ -1,0 +1,7 @@
+{
+  "name": "cn-scraper-mcp",
+  "description": "MCP server that enables AI agents to search Chinese web platforms (Taobao, JD, Xiaohongshu, Zhihu, ZSXQ) without being blocked.",
+  "source_repo": "goesByhc/cn-scraper-mcp",
+  "source_url": "https://github.com/goesByhc/cn-scraper-mcp",
+  "install": "npx -y cn-scraper-mcp"
+}

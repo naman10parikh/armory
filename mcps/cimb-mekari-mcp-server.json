@@ -1,0 +1,7 @@
+{
+  "name": "cimb-mekari-mcp-server",
+  "description": "Enables deployment of a stateless remote MCP server on Cloudflare Workers, allowing custom tools to be registered and accessed through MCP clients without requiring authentication.",
+  "source_repo": "rizmaul/cimb-mekari-mcp-server",
+  "source_url": "https://github.com/rizmaul/cimb-mekari-mcp-server",
+  "install": "npx -y cimb-mekari-mcp-server"
+}

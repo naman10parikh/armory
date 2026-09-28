@@ -1,0 +1,7 @@
+{
+  "name": "ucp-server",
+  "description": "Self-hosted server that generates and serves Universal Context Packages (UCP) to AI agents via MCP, turning complex issue threads into structured, verifiable context.",
+  "source_repo": "ucpcore/ucp",
+  "source_url": "https://github.com/ucpcore/ucp",
+  "install": "# git clone --depth 1 https://github.com/ucpcore/ucp\n# See source for mcpServers config block"
+}

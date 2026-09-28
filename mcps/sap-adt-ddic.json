@@ -1,0 +1,7 @@
+{
+  "name": "sap-adt-ddic",
+  "description": "Enables querying and manipulating SAP ABAP/DDIC objects via ADT REST, including search, source management, table data preview, and CRUD operations.",
+  "source_repo": "ggampp/sap-adt-ddic",
+  "source_url": "https://github.com/ggampp/sap-adt-ddic",
+  "install": "# git clone --depth 1 https://github.com/ggampp/sap-adt-ddic\n# See source for mcpServers config block"
+}

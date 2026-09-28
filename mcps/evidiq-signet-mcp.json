@@ -1,0 +1,7 @@
+{
+  "name": "evidiq-signet-mcp",
+  "description": "Deterministically generates brand and design artefacts (logo SVG, colour palette, type system, design tokens) with signed, 0G-anchored provenance receipts, plus paid tools for social kits, revisions, and verification.",
+  "source_repo": "evidiq/evidiq-signet-mcp",
+  "source_url": "https://github.com/evidiq/evidiq-signet-mcp",
+  "install": "npx -y evidiq-signet-mcp"
+}

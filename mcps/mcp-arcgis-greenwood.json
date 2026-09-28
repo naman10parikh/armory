@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arcgis-greenwood",
+  "description": "Access City of Greenwood, Indiana open geospatial data including parcels, zoning, public works, and city services via ArcGIS feature services.",
+  "source_repo": "pipeworx-io/mcp-arcgis-greenwood",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-greenwood",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-greenwood\n# See source for mcpServers config block"
+}

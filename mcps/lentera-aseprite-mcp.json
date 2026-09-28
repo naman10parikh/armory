@@ -1,0 +1,7 @@
+{
+  "name": "lentera-aseprite-mcp",
+  "description": "Custom MCP server that automates pixel art manipulation, layers, animation frames, palette quantization, and spritesheet export in Aseprite for the Lentera Pudar project.",
+  "source_repo": "adityaairlangga12/lentera-aseprite-mcp",
+  "source_url": "https://github.com/adityaairlangga12/lentera-aseprite-mcp",
+  "install": "npx -y lentera-aseprite-mcp"
+}

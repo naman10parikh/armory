@@ -1,0 +1,7 @@
+{
+  "name": "ironxyz",
+  "description": "Official MCP (Model Context Protocol) server for Iron.xyz API, designed to work with Claude Desktop, Cursor IDE and other MCP compatible clients.",
+  "source_repo": "ironxyz/mcp-server",
+  "source_url": "https://github.com/ironxyz/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/ironxyz/mcp-server\n# See source for mcpServers config block"
+}

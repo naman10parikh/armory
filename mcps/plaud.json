@@ -1,0 +1,7 @@
+{
+  "name": "plaud",
+  "description": "Enables read-only, natural-language access to Plaud recordings, including listing recordings, retrieving speaker-attributed transcripts, AI-generated summaries, action items, and user data through MCP tools.",
+  "source_repo": "mcp-dir/plaud-mcp",
+  "source_url": "https://github.com/mcp-dir/plaud-mcp",
+  "install": "npx -y plaud-mcp"
+}

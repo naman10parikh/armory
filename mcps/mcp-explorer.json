@@ -1,0 +1,7 @@
+{
+  "name": "mcp-explorer",
+  "description": "A controllable, observable MCP server for dynamically setting tools and intercepting calls in real time, useful as a mock/MITM harness for testing MCP clients.",
+  "source_repo": "ABeltramo/mcp-explorer",
+  "source_url": "https://github.com/ABeltramo/mcp-explorer",
+  "install": "# git clone --depth 1 https://github.com/ABeltramo/mcp-explorer\n# See source for mcpServers config block"
+}

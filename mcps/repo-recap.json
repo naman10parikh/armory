@@ -1,0 +1,7 @@
+{
+  "name": "repo-recap",
+  "description": "Enables Claude to query GitHub repositories in plain English, fetching recent activity, release notes, issue triage, and health summaries via the GitHub API.",
+  "source_repo": "AbhiShrek07/Repo-Recap",
+  "source_url": "https://github.com/AbhiShrek07/Repo-Recap",
+  "install": "# git clone --depth 1 https://github.com/AbhiShrek07/Repo-Recap\n# See source for mcpServers config block"
+}

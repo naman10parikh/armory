@@ -1,0 +1,7 @@
+{
+  "name": "database-operations-mcp",
+  "description": "Enables database inspection, backup/restore, analysis, and querying, plus media library and Windows Registry management via MCP tools.",
+  "source_repo": "sandraschi/database-operations-mcp",
+  "source_url": "https://github.com/sandraschi/database-operations-mcp",
+  "install": "npx -y database-operations-mcp"
+}

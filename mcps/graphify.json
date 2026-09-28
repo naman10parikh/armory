@@ -1,0 +1,7 @@
+{
+  "name": "graphify",
+  "description": "Persistent memory MCP server for Claude Code that stores decisions and summaries locally, enabling Claude to recall past context across chats.",
+  "source_repo": "Ibrohim-Bxone/graphify-mcp",
+  "source_url": "https://github.com/Ibrohim-Bxone/graphify-mcp",
+  "install": "npx -y graphify-mcp"
+}

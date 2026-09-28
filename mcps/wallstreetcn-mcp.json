@@ -1,0 +1,7 @@
+{
+  "name": "wallstreetcn-mcp",
+  "description": "A remote MCP server on Cloudflare Workers that supports tool registration and connects to AI clients like Cloudflare AI Playground and Claude Desktop without authentication.",
+  "source_repo": "Larsen0529/wallstreetcn-mcp",
+  "source_url": "https://github.com/Larsen0529/wallstreetcn-mcp",
+  "install": "npx -y wallstreetcn-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "grok-video-mcp",
+  "description": "MCP server that gives AI agents xAI Grok video generation — submit a prompt, poll the render, download the clip. Works with OpenCode, Claude Desktop, Cursor, VS Code, and any MCP client.",
+  "source_repo": "pongsakornp/grok-video-mcp",
+  "source_url": "https://github.com/pongsakornp/grok-video-mcp",
+  "install": "npx -y grok-video-mcp"
+}

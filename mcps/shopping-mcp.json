@@ -1,0 +1,7 @@
+{
+  "name": "shopping-mcp",
+  "description": "Read-only eBay search and listing lookup via the official Browse API, with filters for price, condition, buying format, shipping, and deals.",
+  "source_repo": "Kirat5690/shopping-mcp",
+  "source_url": "https://github.com/Kirat5690/shopping-mcp",
+  "install": "npx -y shopping-mcp"
+}

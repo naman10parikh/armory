@@ -1,0 +1,7 @@
+{
+  "name": "maimai-mcp",
+  "description": "MCP server for MAIMAI DX arcade game, enabling song/score/statistics queries and image generation, accessible via command line or LLM agents.",
+  "source_repo": "antinomie1/maimai-mcp",
+  "source_url": "https://github.com/antinomie1/maimai-mcp",
+  "install": "npx -y maimai-mcp"
+}

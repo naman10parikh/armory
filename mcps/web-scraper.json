@@ -1,0 +1,7 @@
+{
+  "name": "web-scraper",
+  "description": "Enables extracting clean, structured markdown from any URL—stripping nav, ads, and scripts—for RAG pipelines and AI research agents, with pay-per-call micropayments via x402.",
+  "source_repo": "Br0ski777/web-scraper-x402",
+  "source_url": "https://github.com/Br0ski777/web-scraper-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/web-scraper-x402\n# See source for mcpServers config block"
+}

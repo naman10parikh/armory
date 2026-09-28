@@ -1,0 +1,7 @@
+{
+  "name": "pindouai-mcp-server",
+  "description": "Enables AI assistants to interact with PindouAI for converting images into Perler bead patterns, pixel art blueprints, and accessing gallery creations and website URLs.",
+  "source_repo": "double2dev/pindou-mcp",
+  "source_url": "https://github.com/double2dev/pindou-mcp",
+  "install": "npx -y pindou-mcp"
+}

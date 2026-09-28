@@ -1,0 +1,7 @@
+{
+  "name": "codex-upwork-mcp-bridge",
+  "description": "Enables Upwork's MCP server to work with OpenAI Codex and ChatGPT by normalizing protocol incompatibilities, allowing their tools to be listed and used.",
+  "source_repo": "drharunyuksel/codex-upwork-mcp-bridge",
+  "source_url": "https://github.com/drharunyuksel/codex-upwork-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/drharunyuksel/codex-upwork-mcp-bridge\n# See source for mcpServers config block"
+}

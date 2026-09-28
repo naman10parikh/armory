@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tool-calling-agent",
+  "description": "Enables an LLM to dynamically discover and call tools across multiple MCP servers (file, GitHub, SQL, Python execution) with authentication, rate limiting, and observability, supporting parallel execution and secure deployment.",
+  "source_repo": "ThePrakashV/mcp-tool-calling-agent",
+  "source_url": "https://github.com/ThePrakashV/mcp-tool-calling-agent",
+  "install": "# git clone --depth 1 https://github.com/ThePrakashV/mcp-tool-calling-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "obolus",
+  "description": "MCP server that equips AI agents with a disposable Algorand wallet to automatically pay for x402 resources, handling setup, opt-in, signing, and sweeping invisibly.",
+  "source_repo": "inviti8/Obolus",
+  "source_url": "https://github.com/inviti8/Obolus",
+  "install": "# git clone --depth 1 https://github.com/inviti8/Obolus\n# See source for mcpServers config block"
+}

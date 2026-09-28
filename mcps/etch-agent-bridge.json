@@ -1,0 +1,7 @@
+{
+  "name": "etch-agent-bridge",
+  "description": "MCP server that enables agentic control of the Etch builder via a Chrome extension, allowing block editing, style changes, component management, and more through natural language.",
+  "source_repo": "honestlydesign/etch-agent-extension",
+  "source_url": "https://github.com/honestlydesign/etch-agent-extension",
+  "install": "# git clone --depth 1 https://github.com/honestlydesign/etch-agent-extension\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "saos-mcp",
+  "description": "Provides access to Polish court judgments from the SAOS database. Enables search and retrieval of judgments with full-text search, filtering, and detailed case information.",
+  "source_repo": "pawelojdowski/saos-mcp",
+  "source_url": "https://github.com/pawelojdowski/saos-mcp",
+  "install": "npx -y saos-mcp"
+}

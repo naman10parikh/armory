@@ -1,0 +1,7 @@
+{
+  "name": "claude-annotate",
+  "description": "Enables visual annotation on web pages for Claude Code, allowing element selection, comment addition, screenshot capture, and structured UI feedback for code fixes via an MCP server.",
+  "source_repo": "gerald4277/claude-annotate",
+  "source_url": "https://github.com/gerald4277/claude-annotate",
+  "install": "# git clone --depth 1 https://github.com/gerald4277/claude-annotate\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "game-forge",
+  "description": "MCP server that builds single-file browser games teaching one concept through play. Provides tools to generate game prompts, save and list games, and self-verify before shipping.",
+  "source_repo": "maheshbasavaraj/game_MCP",
+  "source_url": "https://github.com/maheshbasavaraj/game_MCP",
+  "install": "npx -y game_MCP"
+}

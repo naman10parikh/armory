@@ -1,0 +1,7 @@
+{
+  "name": "se-ranking-seo-data-api-mcp-server",
+  "description": "Enables querying the SE Ranking API for SEO data and analytics using natural language.",
+  "source_repo": "guifreballester-seranking/mcp-test",
+  "source_url": "https://github.com/guifreballester-seranking/mcp-test",
+  "install": "# git clone --depth 1 https://github.com/guifreballester-seranking/mcp-test\n# See source for mcpServers config block"
+}

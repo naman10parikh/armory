@@ -1,0 +1,7 @@
+{
+  "name": "dbridge-mcp",
+  "description": "Read-only MCP server that lets AI agents safely query SQLite, PostgreSQL, and MySQL/MariaDB. Enforces read-only transactions with column masking, row caps, query timeouts, EXPLAIN-based cost rejection, and rate limiting.",
+  "source_repo": "ugurcl/dbridge-mcp",
+  "source_url": "https://github.com/ugurcl/dbridge-mcp",
+  "install": "npx -y dbridge-mcp"
+}

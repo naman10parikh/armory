@@ -1,0 +1,7 @@
+{
+  "name": "iqprompt-mcp",
+  "description": "Standalone MCP server that proxies tool calls to the IQPROMPT API, enabling prompt enhancement and session creation through natural language.",
+  "source_repo": "DaemD/iq-mcp",
+  "source_url": "https://github.com/DaemD/iq-mcp",
+  "install": "npx -y iq-mcp"
+}

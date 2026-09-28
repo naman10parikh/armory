@@ -1,0 +1,7 @@
+{
+  "name": "42-mcp-server",
+  "description": "Exposes 42's intranet API via the Model Context Protocol, enabling LLM agents to access user information, projects, and campus data.",
+  "source_repo": "smizuoch/42-mcp-server",
+  "source_url": "https://github.com/smizuoch/42-mcp-server",
+  "install": "npx -y 42-mcp-server"
+}

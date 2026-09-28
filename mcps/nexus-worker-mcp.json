@@ -1,0 +1,7 @@
+{
+  "name": "nexus-worker-mcp",
+  "description": "Optimizes LLM costs by delegating heavy tasks to a cheap worker model via a supervisor-worker pattern, compatible with multiple providers and IDE clients.",
+  "source_repo": "oumar5/Nexus-Worker-MCP",
+  "source_url": "https://github.com/oumar5/Nexus-Worker-MCP",
+  "install": "npx -y Nexus-Worker-MCP"
+}

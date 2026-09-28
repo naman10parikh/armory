@@ -1,0 +1,7 @@
+{
+  "name": "overleaf-claude-mcp",
+  "description": "An MCP server that lets Claude read, write, and push Overleaf LaTeX projects from the chat, with token-efficient features like sparse checkout and smart diffs.",
+  "source_repo": "Junfei-Z/overleaf-claude-mcp",
+  "source_url": "https://github.com/Junfei-Z/overleaf-claude-mcp",
+  "install": "npx -y overleaf-claude-mcp"
+}

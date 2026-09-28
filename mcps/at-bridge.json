@@ -1,0 +1,7 @@
+{
+  "name": "at-bridge",
+  "description": "MCP server that enables AI assistants to debug IoT modules by sending AT commands over serial ports, with a built-in knowledge base for chip platform commands.",
+  "source_repo": "zeng-andrew/at_bridge",
+  "source_url": "https://github.com/zeng-andrew/at_bridge",
+  "install": "# git clone --depth 1 https://github.com/zeng-andrew/at_bridge\n# See source for mcpServers config block"
+}

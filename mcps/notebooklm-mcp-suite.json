@@ -1,0 +1,7 @@
+{
+  "name": "notebooklm-mcp-suite",
+  "description": "Enables interaction with Google NotebookLM through a unified CLI and MCP server, featuring automatic multi-browser authentication and support for notebook queries, source management, notes, and audio generation.",
+  "source_repo": "evolialexwing34/notebooklm-mcp-suite",
+  "source_url": "https://github.com/evolialexwing34/notebooklm-mcp-suite",
+  "install": "# git clone --depth 1 https://github.com/evolialexwing34/notebooklm-mcp-suite\n# See source for mcpServers config block"
+}

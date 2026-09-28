@@ -1,0 +1,7 @@
+{
+  "name": "xiaohongshu-auto-ops-assistant",
+  "description": "An MCP server that enables controlled Xiaohongshu content publishing with an immutable review workflow, requiring explicit human confirmation before any release. It supports content generation, local editing, compliance recall, and one-time authorized posting, defaulting to generate-only mode.",
+  "source_repo": "Sen-platotech/xiaohongshu-auto-ops-assistant",
+  "source_url": "https://github.com/Sen-platotech/xiaohongshu-auto-ops-assistant",
+  "install": "# git clone --depth 1 https://github.com/Sen-platotech/xiaohongshu-auto-ops-assistant\n# See source for mcpServers config block"
+}

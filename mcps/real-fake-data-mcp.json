@@ -1,0 +1,7 @@
+{
+  "name": "real-fake-data-mcp",
+  "description": "Enables AI assistants to generate realistic, synthetic test data on demand, including valid PESELs, NIPs, addresses, and more across 27 EU countries, through two tools: list_generators and generate.",
+  "source_repo": "przeslijmi/real-fake-data-mcp",
+  "source_url": "https://github.com/przeslijmi/real-fake-data-mcp",
+  "install": "npx -y real-fake-data-mcp"
+}

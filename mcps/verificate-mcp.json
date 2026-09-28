@@ -1,0 +1,7 @@
+{
+  "name": "verificate-mcp",
+  "description": "Verificate combines 17 applications each designed to address a separate issue with AI Coding supported with a Frontier AI Model. This allows you to Vibe Code with confidence and even dropped down to a more basic model with a better outcome.",
+  "source_repo": "Verificate-Dev/verificate-mcp-quickstart",
+  "source_url": "https://github.com/Verificate-Dev/verificate-mcp-quickstart",
+  "install": "# git clone --depth 1 https://github.com/Verificate-Dev/verificate-mcp-quickstart\n# See source for mcpServers config block"
+}

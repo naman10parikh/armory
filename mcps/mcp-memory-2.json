@@ -1,0 +1,7 @@
+{
+  "name": "mcp-memory-2",
+  "description": "Enables MCP clients like Cursor and Claude to remember user preferences and information across conversations using vector search.",
+  "source_repo": "HrochJiri/mcp-memory",
+  "source_url": "https://github.com/HrochJiri/mcp-memory",
+  "install": "# git clone --depth 1 https://github.com/HrochJiri/mcp-memory\n# See source for mcpServers config block"
+}

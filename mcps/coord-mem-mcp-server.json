@@ -1,0 +1,7 @@
+{
+  "name": "coord-mem-mcp-server",
+  "description": "Memory-palace graph MCP server for AI agent memory, exposing memory_add / get / like / record_window / walk / retrieve / neighbors / rooms / misshelved / rehome operations over a zero-dependency, append-only, provenance-tracking knowledge graph with decay, PMI-derived adjacency, and spatial coordina",
+  "source_repo": "khalildh/coord-mem",
+  "source_url": "https://github.com/khalildh/coord-mem",
+  "install": "# git clone --depth 1 https://github.com/khalildh/coord-mem\n# See source for mcpServers config block"
+}

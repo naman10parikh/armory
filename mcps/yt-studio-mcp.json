@@ -1,0 +1,7 @@
+{
+  "name": "yt-studio-mcp",
+  "description": "Manage a YouTube channel through official Google APIs — videos, comments, playlists, live broadcasts, captions, and analytics — plus an auditable giveaway suite for comment-entry giveaways with deterministic winner drawing.",
+  "source_repo": "aaronckj/yt-studio-mcp",
+  "source_url": "https://github.com/aaronckj/yt-studio-mcp",
+  "install": "npx -y yt-studio-mcp"
+}

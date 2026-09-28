@@ -1,0 +1,7 @@
+{
+  "name": "uacos",
+  "description": "Local-first code intelligence and safety layer for AI coding agents. MCP server exposes dependency graph, impact analysis, and AST-compressed repo context, backed by typed local memory, patch-scope safety gates, and git-independent transaction rollback.",
+  "source_repo": "caotiensinh/uacos",
+  "source_url": "https://github.com/caotiensinh/uacos",
+  "install": "# git clone --depth 1 https://github.com/caotiensinh/uacos\n# See source for mcpServers config block"
+}

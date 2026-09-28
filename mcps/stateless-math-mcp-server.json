@@ -1,0 +1,7 @@
+{
+  "name": "stateless-math-mcp-server",
+  "description": "A stateless MCP server exposing mathematical tools (such as the \"soma\" addition tool) over stdio transport, demonstrated with an asynchronous client that discovers and invokes available tools dynamically.",
+  "source_repo": "mburatti/MCP_RFC_20260728",
+  "source_url": "https://github.com/mburatti/MCP_RFC_20260728",
+  "install": "# git clone --depth 1 https://github.com/mburatti/MCP_RFC_20260728\n# See source for mcpServers config block"
+}

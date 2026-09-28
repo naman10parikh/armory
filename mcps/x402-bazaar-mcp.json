@@ -1,0 +1,7 @@
+{
+  "name": "x402-bazaar-mcp",
+  "description": "MCP server exposing x402 Bazaar's paid Base APIs (token risk/honeypot, prices, gas, wallet intel, tx decode + AI utilities) as agent tools. Your agent pays per call in USDC over x402 — no API keys, no signup.",
+  "source_repo": "sukrutkrdg/x402-bazaar-mcp",
+  "source_url": "https://github.com/sukrutkrdg/x402-bazaar-mcp",
+  "install": "npx -y x402-bazaar-mcp"
+}

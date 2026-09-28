@@ -1,0 +1,7 @@
+{
+  "name": "uxloom",
+  "description": "Enables agents to validate UI designs for missing states, accessibility issues, and journey completeness using state machine modeling.",
+  "source_repo": "uxloom-dev/uxloom",
+  "source_url": "https://github.com/uxloom-dev/uxloom",
+  "install": "# git clone --depth 1 https://github.com/uxloom-dev/uxloom\n# See source for mcpServers config block"
+}

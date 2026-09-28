@@ -1,0 +1,7 @@
+{
+  "name": "opensearch-dashboard-mcp",
+  "description": "Enables LLM clients to interact with OpenSearch Dashboards, including reading saved objects, listing tenants and index patterns, and querying logs through the Dashboards API.",
+  "source_repo": "danilin-em/opensearch-dashboard-mcp",
+  "source_url": "https://github.com/danilin-em/opensearch-dashboard-mcp",
+  "install": "npx -y opensearch-dashboard-mcp"
+}

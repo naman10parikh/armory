@@ -1,0 +1,7 @@
+{
+  "name": "scouter-mcp",
+  "description": "A stdio MCP server that connects directly to a Scouter Collector over TCP and queries XLogs, counters, and objects. Its purpose is to let an AI quickly explore Scouter metrics and diagnose root causes.",
+  "source_repo": "335/scouter-mcp",
+  "source_url": "https://github.com/335/scouter-mcp",
+  "install": "npx -y scouter-mcp"
+}

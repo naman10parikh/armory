@@ -1,0 +1,7 @@
+{
+  "name": "spook-mcp-server",
+  "description": "Spook's official MCP server exposing 59 SEO and AI tools for content optimization, including free tools, domain analysis, and account-based site management, article generation, and autopilot features.",
+  "source_repo": "VictorKildahl/spook-mcp",
+  "source_url": "https://github.com/VictorKildahl/spook-mcp",
+  "install": "npx -y spook-mcp"
+}

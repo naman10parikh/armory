@@ -1,0 +1,7 @@
+{
+  "name": "caselegis-mcp",
+  "description": "Enables searching, retrieving, and checking citation status of California legal opinions via the Caselegis API.",
+  "source_repo": "caselegis/caselegis-mcp",
+  "source_url": "https://github.com/caselegis/caselegis-mcp",
+  "install": "npx -y caselegis-mcp"
+}

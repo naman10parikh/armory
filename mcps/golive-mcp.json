@@ -1,0 +1,7 @@
+{
+  "name": "golive-mcp",
+  "description": "Enables AI agents to deploy code to any hosting provider by creating PRs, building, and verifying health checks, all from a single natural language command.",
+  "source_repo": "abbylester1/golive-mcp",
+  "source_url": "https://github.com/abbylester1/golive-mcp",
+  "install": "npx -y golive-mcp"
+}

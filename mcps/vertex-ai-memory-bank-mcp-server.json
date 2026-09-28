@@ -1,0 +1,7 @@
+{
+  "name": "vertex-ai-memory-bank-mcp-server",
+  "description": "Enables LLMs to generate and retrieve long-term memories using Vertex AI Memory Bank, with tools for memory initialization, generation, retrieval, creation, deletion, and listing.",
+  "source_repo": "inardini/vertex-memory-bank-mcp",
+  "source_url": "https://github.com/inardini/vertex-memory-bank-mcp",
+  "install": "npx -y vertex-memory-bank-mcp"
+}

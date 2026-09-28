@@ -1,0 +1,7 @@
+{
+  "name": "nvim-mcp-server",
+  "description": "A Model Context Protocol server for Neovim that provides LSP-based symbol tools, enabling AI language models to perform code analysis and manipulation such as symbol lookup, renaming, and body replacement via Neovim's built-in LSP.",
+  "source_repo": "brianhuster/nvim-mcp-server",
+  "source_url": "https://github.com/brianhuster/nvim-mcp-server",
+  "install": "npx -y nvim-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "foggy-odoo-bridge",
+  "description": "Governed MCP access to Odoo business data, preserving Odoo permissions via a semantic query layer.",
+  "source_repo": "foggy-projects/foggy-odoo-bridge",
+  "source_url": "https://github.com/foggy-projects/foggy-odoo-bridge",
+  "install": "# git clone --depth 1 https://github.com/foggy-projects/foggy-odoo-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "currency-agent-mcp-server",
+  "description": "MCP server for currency conversion with real-time exchange rates via the Frankfurter API. Enables agents to retrieve latest currency data and perform conversions.",
+  "source_repo": "shrprabh/currenncy-agent",
+  "source_url": "https://github.com/shrprabh/currenncy-agent",
+  "install": "# git clone --depth 1 https://github.com/shrprabh/currenncy-agent\n# See source for mcpServers config block"
+}

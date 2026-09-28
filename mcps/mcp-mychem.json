@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mychem",
+  "description": "Provides access to dataset statistics and metadata for MyChem.info, a chemical database.",
+  "source_repo": "pipeworx-io/mcp-mychem",
+  "source_url": "https://github.com/pipeworx-io/mcp-mychem",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-mychem\n# See source for mcpServers config block"
+}

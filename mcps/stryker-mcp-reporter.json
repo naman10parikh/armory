@@ -1,0 +1,7 @@
+{
+  "name": "stryker-mcp-reporter",
+  "description": "A Stryker plugin that provides mutation testing results via a local MCP server, enabling AI agents to access the latest mutation report as a JSON resource.",
+  "source_repo": "kluth/stryker-mcp-reporter",
+  "source_url": "https://github.com/kluth/stryker-mcp-reporter",
+  "install": "# git clone --depth 1 https://github.com/kluth/stryker-mcp-reporter\n# See source for mcpServers config block"
+}

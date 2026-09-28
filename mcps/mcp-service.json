@@ -1,0 +1,7 @@
+{
+  "name": "mcp-service",
+  "description": "A 3-tier relay service that serves MCP tools via WebSocket, including calculator, scripture lookup, and location-based recommendations.",
+  "source_repo": "tommyjin2894/bobo-mcp",
+  "source_url": "https://github.com/tommyjin2894/bobo-mcp",
+  "install": "npx -y bobo-mcp"
+}

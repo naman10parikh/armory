@@ -1,0 +1,7 @@
+{
+  "name": "mcp-google-vertex-ai-server",
+  "description": "Enables AI image and video generation using Google Vertex AI's Imagen and Veo models, with support for configurable parameters and local storage.",
+  "source_repo": "hopkins385/mcp-google-vertex",
+  "source_url": "https://github.com/hopkins385/mcp-google-vertex",
+  "install": "# git clone --depth 1 https://github.com/hopkins385/mcp-google-vertex\n# See source for mcpServers config block"
+}

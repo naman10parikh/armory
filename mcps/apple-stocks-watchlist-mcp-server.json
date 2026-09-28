@@ -1,0 +1,7 @@
+{
+  "name": "apple-stocks-watchlist-mcp-server",
+  "description": "An MCP server that lets an AI assistant read your pre-installed macOS Apple Stocks app — its watchlist and its cached quotes — and open symbols in the app to add them.",
+  "source_repo": "helderpgoncalves/apple-stocks-mcp",
+  "source_url": "https://github.com/helderpgoncalves/apple-stocks-mcp",
+  "install": "npx -y apple-stocks-mcp"
+}

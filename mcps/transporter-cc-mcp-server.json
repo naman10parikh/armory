@@ -1,0 +1,7 @@
+{
+  "name": "transporter-cc-mcp-server",
+  "description": "Enables searching for TransMilenio and SITP bus routes in Bogotá with live GPS tracking, nearby stops, and estimated arrivals.",
+  "source_repo": "carloscrcalderon/mcp_transporte_bogota",
+  "source_url": "https://github.com/carloscrcalderon/mcp_transporte_bogota",
+  "install": "# git clone --depth 1 https://github.com/carloscrcalderon/mcp_transporte_bogota\n# See source for mcpServers config block"
+}

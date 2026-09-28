@@ -1,0 +1,7 @@
+{
+  "name": "taskcenter",
+  "description": "Local-first task governance board for AI agents, enabling session registration, task creation, progress updates, and evidence reporting via MCP, with separation of agent claims and human acceptance.",
+  "source_repo": "xiaogezi/taskcenter",
+  "source_url": "https://github.com/xiaogezi/taskcenter",
+  "install": "# git clone --depth 1 https://github.com/xiaogezi/taskcenter\n# See source for mcpServers config block"
+}

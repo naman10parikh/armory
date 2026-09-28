@@ -1,0 +1,7 @@
+{
+  "name": "rocket-cli",
+  "description": "Rocket.Chat bridge with a local SQLite/FTS5 cache — CLI for humans, MCP server for LLM agents.",
+  "source_repo": "jeanfbrito/rocket-cli",
+  "source_url": "https://github.com/jeanfbrito/rocket-cli",
+  "install": "# git clone --depth 1 https://github.com/jeanfbrito/rocket-cli\n# See source for mcpServers config block"
+}

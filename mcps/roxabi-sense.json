@@ -1,0 +1,7 @@
+{
+  "name": "roxabi-sense",
+  "description": "Local workstation attention journal that tracks focus, idle, and agent sessions, exposing timeline data via MCP for AI agents to query current or past activity.",
+  "source_repo": "Roxabi/roxabi-sense",
+  "source_url": "https://github.com/Roxabi/roxabi-sense",
+  "install": "# git clone --depth 1 https://github.com/Roxabi/roxabi-sense\n# See source for mcpServers config block"
+}

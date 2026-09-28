@@ -1,0 +1,7 @@
+{
+  "name": "dayby-mcp-server",
+  "description": "Enables posting development progress to DayBy.dev with automatic local sanitization of sensitive data before publishing.",
+  "source_repo": "ja-roque/dayby-mcp-server",
+  "source_url": "https://github.com/ja-roque/dayby-mcp-server",
+  "install": "npx -y dayby-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uv-mcp",
+  "description": "Enables LLMs to manage Python environments and dependencies via uv, supporting package inspection, installation, and requirement management.",
+  "source_repo": "dmclain/uv-mcp",
+  "source_url": "https://github.com/dmclain/uv-mcp",
+  "install": "npx -y uv-mcp"
+}

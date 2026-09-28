@@ -1,0 +1,7 @@
+{
+  "name": "stocklens",
+  "description": "Provides AI with real-time stock data from Naver Securities and Yahoo Finance via 47 tools, enabling accurate analysis without API keys for Korean and US markets.",
+  "source_repo": "Johnhyeon/stocklens-mcp",
+  "source_url": "https://github.com/Johnhyeon/stocklens-mcp",
+  "install": "npx -y stocklens-mcp"
+}

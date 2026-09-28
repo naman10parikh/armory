@@ -1,0 +1,7 @@
+{
+  "name": "google-ads-manager-mcp",
+  "description": "MCP server to read and manage Google Ads accounts via GAQL queries, campaign/ad group/keyword operations, and safe write support with draft-confirm flow.",
+  "source_repo": "AleemHaider/google-ads-manager-mcp",
+  "source_url": "https://github.com/AleemHaider/google-ads-manager-mcp",
+  "install": "npx -y google-ads-manager-mcp"
+}

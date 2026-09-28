@@ -1,0 +1,7 @@
+{
+  "name": "apple-forme-mcp",
+  "description": "Exposes tools for weekly fitness summaries and acute:chronic workload ratio from Apple Watch data via Health Auto Export, plus a web dashboard for filtering and comparison.",
+  "source_repo": "adelinepscr-collab/apple-forme-mcp",
+  "source_url": "https://github.com/adelinepscr-collab/apple-forme-mcp",
+  "install": "npx -y apple-forme-mcp"
+}

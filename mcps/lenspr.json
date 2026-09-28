@@ -1,0 +1,7 @@
+{
+  "name": "lenspr",
+  "description": "MCP server that builds a dependency graph of your codebase, giving AI agents structural understanding to analyze impact, find context, and make safe modifications across languages and infrastructure.",
+  "source_repo": "kyrylopr/lenspr",
+  "source_url": "https://github.com/kyrylopr/lenspr",
+  "install": "# git clone --depth 1 https://github.com/kyrylopr/lenspr\n# See source for mcpServers config block"
+}

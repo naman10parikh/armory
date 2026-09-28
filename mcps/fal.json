@@ -1,0 +1,7 @@
+{
+  "name": "fal",
+  "description": "A Model Context Protocol (MCP) server for interacting with fal.ai models and services, enabling listing, searching, generating content, managing queues, and uploading files.",
+  "source_repo": "am0y/mcp-fal",
+  "source_url": "https://github.com/am0y/mcp-fal",
+  "install": "# git clone --depth 1 https://github.com/am0y/mcp-fal\n# See source for mcpServers config block"
+}

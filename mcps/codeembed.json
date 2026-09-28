@@ -1,0 +1,7 @@
+{
+  "name": "codeembed",
+  "description": "Embeds your codebase into a local vector and graph database and exposes it as an MCP tool, enabling AI assistants to perform fast semantic search over your code using Graph RAG.",
+  "source_repo": "robino16/codeembed",
+  "source_url": "https://github.com/robino16/codeembed",
+  "install": "# git clone --depth 1 https://github.com/robino16/codeembed\n# See source for mcpServers config block"
+}

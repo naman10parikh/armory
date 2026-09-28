@@ -1,0 +1,7 @@
+{
+  "name": "fireball1725-pcexpress-mcp-server",
+  "description": "Control your grocery cart with AI! This MCP server enables LLMs (like Claude) to search past orders, find products, and manage your shopping cart across all Loblaws-owned grocery banners.",
+  "source_repo": "FireBall1725/pcexpress-mcp-server",
+  "source_url": "https://github.com/FireBall1725/pcexpress-mcp-server",
+  "install": "npx -y pcexpress-mcp-server"
+}

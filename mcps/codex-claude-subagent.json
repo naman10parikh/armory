@@ -1,0 +1,7 @@
+{
+  "name": "codex-claude-subagent",
+  "description": "Enables Codex to delegate tasks to interactive Claude Code sessions as role-controlled subagents for exploration, code review, and implementation, using the existing Claude Code installation on macOS.",
+  "source_repo": "zetsubo-dev/codex-claude-subagent",
+  "source_url": "https://github.com/zetsubo-dev/codex-claude-subagent",
+  "install": "# git clone --depth 1 https://github.com/zetsubo-dev/codex-claude-subagent\n# See source for mcpServers config block"
+}

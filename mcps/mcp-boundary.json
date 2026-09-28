@@ -1,0 +1,7 @@
+{
+  "name": "mcp-boundary",
+  "description": "Wraps your existing MCP servers and checks each tool call against policy and live state before it runs. Allow, block, or require a refresh, with a reason the agent can act on.",
+  "source_repo": "impact-boundary-labs/MCPBoundary",
+  "source_url": "https://github.com/impact-boundary-labs/MCPBoundary",
+  "install": "# git clone --depth 1 https://github.com/impact-boundary-labs/MCPBoundary\n# See source for mcpServers config block"
+}

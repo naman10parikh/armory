@@ -1,0 +1,7 @@
+{
+  "name": "unity-mcp-vibe",
+  "description": "A native C# MCP server that gives AI agents real-time control and visual analysis of the Unity Editor, enabling dynamic code execution, scene manipulation, and debugging without external dependencies.",
+  "source_repo": "jlceaser/Unity-MCP-Vibe",
+  "source_url": "https://github.com/jlceaser/Unity-MCP-Vibe",
+  "install": "# git clone --depth 1 https://github.com/jlceaser/Unity-MCP-Vibe\n# See source for mcpServers config block"
+}

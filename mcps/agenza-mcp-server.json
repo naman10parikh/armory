@@ -1,0 +1,7 @@
+{
+  "name": "agenza-mcp-server",
+  "description": "Enables verifiable AI agent identity and reputation management on ICP via MCP, allowing agents to register, create handshake proofs, and verify credentials.",
+  "source_repo": "mbtest870-ctrl/agenza",
+  "source_url": "https://github.com/mbtest870-ctrl/agenza",
+  "install": "# git clone --depth 1 https://github.com/mbtest870-ctrl/agenza\n# See source for mcpServers config block"
+}

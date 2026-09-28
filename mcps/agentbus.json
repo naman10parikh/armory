@@ -1,0 +1,7 @@
+{
+  "name": "agentbus",
+  "description": "A local message bus for AI agent sessions that enables Claude Code sessions to communicate directly via channels, allowing message sending and peer discovery without network or copy-paste.",
+  "source_repo": "biswajitpatra/agentbus",
+  "source_url": "https://github.com/biswajitpatra/agentbus",
+  "install": "# git clone --depth 1 https://github.com/biswajitpatra/agentbus\n# See source for mcpServers config block"
+}

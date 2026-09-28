@@ -1,0 +1,7 @@
+{
+  "name": "yolfi",
+  "description": "Yolfi Agent Kit for AI coding agents: receive crypto, SaaS payment, stablecoin checkout, payment links, payment status checks, webhook verification, and webhook-based access logic to applications through Yolfi",
+  "source_repo": "yolfinance/yolfi-agent",
+  "source_url": "https://github.com/yolfinance/yolfi-agent",
+  "install": "# git clone --depth 1 https://github.com/yolfinance/yolfi-agent\n# See source for mcpServers config block"
+}

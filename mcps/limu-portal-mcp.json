@@ -1,0 +1,7 @@
+{
+  "name": "limu-portal-mcp",
+  "description": "MCP server for LIMU Portal that provides read-only and controlled write access to operational and finance data, including clients, cargo, shipments, budgets, requisitions, payment vouchers, and reports.",
+  "source_repo": "gochi20/limuMCP",
+  "source_url": "https://github.com/gochi20/limuMCP",
+  "install": "# git clone --depth 1 https://github.com/gochi20/limuMCP\n# See source for mcpServers config block"
+}

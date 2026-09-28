@@ -1,0 +1,7 @@
+{
+  "name": "pvgis-mcp",
+  "description": "MCP server that estimates photovoltaic production using the European Commission's PVGIS API, deployed on Cloudflare Workers for serverless, free-tier operation.",
+  "source_repo": "maxturazzini/pvgis-mcp",
+  "source_url": "https://github.com/maxturazzini/pvgis-mcp",
+  "install": "npx -y pvgis-mcp"
+}

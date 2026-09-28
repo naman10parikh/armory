@@ -1,0 +1,7 @@
+{
+  "name": "mcp-airquality",
+  "description": "Access air quality data from Open-Meteo API, free and without authentication.",
+  "source_repo": "pipeworx-io/mcp-airquality",
+  "source_url": "https://github.com/pipeworx-io/mcp-airquality",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-airquality\n# See source for mcpServers config block"
+}

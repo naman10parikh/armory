@@ -1,0 +1,7 @@
+{
+  "name": "mcp-searxng-local",
+  "description": "MCP server for local web search via SearXNG, providing unlimited queries without API keys or cost, with automatic fallback to public instances.",
+  "source_repo": "dduartee/mcp-searxng-local",
+  "source_url": "https://github.com/dduartee/mcp-searxng-local",
+  "install": "# git clone --depth 1 https://github.com/dduartee/mcp-searxng-local\n# See source for mcpServers config block"
+}

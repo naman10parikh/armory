@@ -1,0 +1,7 @@
+{
+  "name": "feason-context-mcp-server",
+  "description": "Provides source-grounded Christian research material with exact passages, provenance, and stable citations via a REST API.",
+  "source_repo": "Feason-com/feason-context",
+  "source_url": "https://github.com/Feason-com/feason-context",
+  "install": "# git clone --depth 1 https://github.com/Feason-com/feason-context\n# See source for mcpServers config block"
+}

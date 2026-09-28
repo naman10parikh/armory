@@ -1,0 +1,7 @@
+{
+  "name": "home-credit-mcp",
+  "description": "MCP server that lets any LLM client query the Home Credit Default Risk SQLite database (307,511 loan applications) through 7 read-only tools, 4 resources, and 1 prompt over stdio, with natural language, SQL, and tool-calling interfaces.",
+  "source_repo": "AhmedRashed2024/home-credit-mcp",
+  "source_url": "https://github.com/AhmedRashed2024/home-credit-mcp",
+  "install": "npx -y home-credit-mcp"
+}

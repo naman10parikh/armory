@@ -1,0 +1,7 @@
+{
+  "name": "jitsi-mcp-server",
+  "description": "MCP server that enables AI agents to join Jitsi Meet rooms, send/receive chat, record meetings, and monitor participants using headless Chrome.",
+  "source_repo": "tntclaus/jitsi-mcp-server",
+  "source_url": "https://github.com/tntclaus/jitsi-mcp-server",
+  "install": "npx -y jitsi-mcp-server"
+}

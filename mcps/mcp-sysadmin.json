@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sysadmin",
+  "description": "Provider-agnostic MCP server for managing heterogeneous infrastructure (SSH, Proxmox VE, Virtualizor, Hetzner Cloud, Cloudflare) via a JSON inventory, exposing tools for VM/container management, DNS, firewalls, and SSH operations.",
+  "source_repo": "kreodevs/mcp-sysadmin",
+  "source_url": "https://github.com/kreodevs/mcp-sysadmin",
+  "install": "# git clone --depth 1 https://github.com/kreodevs/mcp-sysadmin\n# See source for mcpServers config block"
+}

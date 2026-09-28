@@ -1,0 +1,7 @@
+{
+  "name": "presto-mcp-server",
+  "description": "Integrates Presto construction budgeting software with Claude Code, enabling analysis, audit, and search of BC3 budget files locally or via WebAPI.",
+  "source_repo": "NeoNexAI/presto-mcp-server",
+  "source_url": "https://github.com/NeoNexAI/presto-mcp-server",
+  "install": "npx -y presto-mcp-server"
+}

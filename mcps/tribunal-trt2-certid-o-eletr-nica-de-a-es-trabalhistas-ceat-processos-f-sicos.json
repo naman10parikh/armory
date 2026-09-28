@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt2-certid-o-eletr-nica-de-a-es-trabalhistas-ceat-processos-f-sicos",
+  "description": "MCP server that enables querying official electronic certificates of labor lawsuits (CEAT) from TRT2 for physical processes, providing read-only access via a pre-paid hosted API.",
+  "source_repo": "mcp-dir/tribunal_trt2_ceat-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt2_ceat-mcp",
+  "install": "npx -y tribunal_trt2_ceat-mcp"
+}

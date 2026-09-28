@@ -1,0 +1,7 @@
+{
+  "name": "no-tax-on-tips-mcp",
+  "description": "MCP server that exposes the OBBBA No Tax on Tips federal deduction logic as callable tools, enabling users to check eligibility and estimate tip deductions.",
+  "source_repo": "DojoGenesis/no-tax-on-tips-mcp",
+  "source_url": "https://github.com/DojoGenesis/no-tax-on-tips-mcp",
+  "install": "npx -y no-tax-on-tips-mcp"
+}

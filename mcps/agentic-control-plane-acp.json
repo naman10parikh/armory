@@ -1,0 +1,7 @@
+{
+  "name": "agentic-control-plane-acp",
+  "description": "A governed MCP server that enforces OAuth 2.1 scope checking and policy-driven access control for AI agents, providing a full audit trail on every tool call. It includes tools for Cisco Webex Contact Center knowledge search and SD-WAN network operations.",
+  "source_repo": "Rajmohan80/project-acp",
+  "source_url": "https://github.com/Rajmohan80/project-acp",
+  "install": "# git clone --depth 1 https://github.com/Rajmohan80/project-acp\n# See source for mcpServers config block"
+}

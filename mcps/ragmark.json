@@ -1,0 +1,7 @@
+{
+  "name": "ragmark",
+  "description": "Local-first MCP server for retrieval over markdown wikilink vaults, offering hybrid vector+lexical search, note reading, neighbor expansion, and recent activity tracking with fully local embeddings and no network egress.",
+  "source_repo": "cdcoonce/ragmark",
+  "source_url": "https://github.com/cdcoonce/ragmark",
+  "install": "# git clone --depth 1 https://github.com/cdcoonce/ragmark\n# See source for mcpServers config block"
+}

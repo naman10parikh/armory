@@ -1,0 +1,7 @@
+{
+  "name": "klaws",
+  "description": "Scans source code for possible Korean compliance risks (PIPA, Network Act, Credit Information Act, E-Commerce Act) and maps findings to specific legal provisions. Runs locally, exposes MCP tools for scanning and law lookup, and does not constitute legal advice. That's hedged (matches the project's \"",
+  "source_repo": "rostradamus/klaws",
+  "source_url": "https://github.com/rostradamus/klaws",
+  "install": "# git clone --depth 1 https://github.com/rostradamus/klaws\n# See source for mcpServers config block"
+}

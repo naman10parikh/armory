@@ -1,0 +1,7 @@
+{
+  "name": "unofficial-hpo-mcp-server",
+  "description": "Provides access to the Human Phenotype Ontology (HPO) API with tools for searching, browsing hierarchy, and analyzing phenotypic terms used in genetic research.",
+  "source_repo": "openpharma-org/hpo-mcp-server",
+  "source_url": "https://github.com/openpharma-org/hpo-mcp-server",
+  "install": "npx -y hpo-mcp-server"
+}

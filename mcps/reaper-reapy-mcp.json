@@ -1,0 +1,7 @@
+{
+  "name": "reaper-reapy-mcp",
+  "description": "Enables AI assistants to control REAPER DAW via the Model Context Protocol, including track, FX, MIDI, and audio operations.",
+  "source_repo": "wegitor/reaper-reapy-mcp",
+  "source_url": "https://github.com/wegitor/reaper-reapy-mcp",
+  "install": "npx -y reaper-reapy-mcp"
+}

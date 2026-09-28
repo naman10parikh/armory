@@ -1,0 +1,7 @@
+{
+  "name": "remote-server-mcp",
+  "description": "A security-first MCP server that gives AI assistants controlled, safe access to manage remote servers via SSH with whitelisted operations and no generic command execution.",
+  "source_repo": "elmuz/remote-server-mcp",
+  "source_url": "https://github.com/elmuz/remote-server-mcp",
+  "install": "npx -y remote-server-mcp"
+}

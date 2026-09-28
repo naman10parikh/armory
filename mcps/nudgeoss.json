@@ -1,0 +1,7 @@
+{
+  "name": "nudgeoss",
+  "description": "MCP server that provides an ask_human tool so AI agents can request decisions from users via chat apps, with deadlines, defaults, and an append-only audit log.",
+  "source_repo": "cw12574/nudgeoss",
+  "source_url": "https://github.com/cw12574/nudgeoss",
+  "install": "# git clone --depth 1 https://github.com/cw12574/nudgeoss\n# See source for mcpServers config block"
+}

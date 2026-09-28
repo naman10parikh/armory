@@ -1,0 +1,7 @@
+{
+  "name": "messages",
+  "description": "Enables fuzzy search and browsing of Apple Messages (iMessage/SMS) with contact resolution, filtering by sender or date, and context display through CLI, MCP, or Claude Code plugin.",
+  "source_repo": "cardmagic/messages",
+  "source_url": "https://github.com/cardmagic/messages",
+  "install": "# git clone --depth 1 https://github.com/cardmagic/messages\n# See source for mcpServers config block"
+}

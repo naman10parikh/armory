@@ -1,0 +1,7 @@
+{
+  "name": "superops-mcp-server",
+  "description": "MCP server for interacting with the SuperOps.ai PSA/RMM platform, providing tools for managing clients, tickets, assets, and technicians via GraphQL API.",
+  "source_repo": "Matt-Beyond-Tech/superops-mcp",
+  "source_url": "https://github.com/Matt-Beyond-Tech/superops-mcp",
+  "install": "npx -y superops-mcp"
+}

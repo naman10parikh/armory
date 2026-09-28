@@ -1,0 +1,7 @@
+{
+  "name": "burp-mcp",
+  "description": "Exposes Burp Suite operations through a local authenticated HTTP server and an MCP stdio bridge, enabling tools like burp_proxy_history via MCP.",
+  "source_repo": "nguyenthdat/burp-mcp",
+  "source_url": "https://github.com/nguyenthdat/burp-mcp",
+  "install": "npx -y burp-mcp"
+}

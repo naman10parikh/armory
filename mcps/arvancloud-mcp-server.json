@@ -1,0 +1,7 @@
+{
+  "name": "arvancloud-mcp-server",
+  "description": "Enables AI agents to manage the entire ArvanCloud platform (compute, networking, storage, CDN, DNS, etc.) plus a cloud-DevOps toolbox for provisioning, Kubernetes, IaC, security, and networking through natural language.",
+  "source_repo": "dwin-gharibi/arvancloud-mcp",
+  "source_url": "https://github.com/dwin-gharibi/arvancloud-mcp",
+  "install": "npx -y arvancloud-mcp"
+}

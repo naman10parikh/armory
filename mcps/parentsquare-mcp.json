@@ -1,0 +1,7 @@
+{
+  "name": "parentsquare-mcp",
+  "description": "MCP server that gives Claude read access to your ParentSquare parent account, enabling queries about school posts, calendars, messages, directory, signups, forms, payments, and files. It also parses image/PDF attachments so calendar flyers are accessible.",
+  "source_repo": "chengeusa3/parentsquare-mcp",
+  "source_url": "https://github.com/chengeusa3/parentsquare-mcp",
+  "install": "npx -y parentsquare-mcp"
+}

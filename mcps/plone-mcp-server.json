@@ -1,0 +1,7 @@
+{
+  "name": "plone-mcp-server",
+  "description": "Enables AI assistants to manage Plone CMS content, search, workflows, and Volto blocks via REST API.",
+  "source_repo": "plone/plone-mcp",
+  "source_url": "https://github.com/plone/plone-mcp",
+  "install": "npx -y plone-mcp"
+}

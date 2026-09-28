@@ -1,0 +1,7 @@
+{
+  "name": "yuelinghuashu-story-cli",
+  "description": "Git-native Markdown content management CLI with a built-in MCP server. Lets AI clients (Claude, Cursor) search, read, write, and govern story/paper/note repositories, auto-generate READMEs, validate configs, and export EPUB or SFT training data.",
+  "source_repo": "yuelinghuashu/story-cli",
+  "source_url": "https://github.com/yuelinghuashu/story-cli",
+  "install": "# git clone --depth 1 https://github.com/yuelinghuashu/story-cli\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cocktail-recipes-mcp",
+  "description": "A Dockerized Python MCP server that provides tools to manage cocktail recipes, ingredients, and related operations via the Aephir/cocktail-recipes REST API, with dry-run safety defaults and automatic re-authentication.",
+  "source_repo": "Aephir/cocktail-recipes-mcp",
+  "source_url": "https://github.com/Aephir/cocktail-recipes-mcp",
+  "install": "npx -y cocktail-recipes-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "expertcustom-funilaria-mcp",
+  "description": "Enables AI assistants to interact with the Funilaria & Pintura portal through typed MCP tools, covering news publishing, supplier searches, stock and balance inquiries, and WhatsApp webhook operations.",
+  "source_repo": "adventureandre/funilaria-mcp",
+  "source_url": "https://github.com/adventureandre/funilaria-mcp",
+  "install": "npx -y funilaria-mcp"
+}

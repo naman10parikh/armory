@@ -1,0 +1,7 @@
+{
+  "name": "wflow-mcp",
+  "description": "Experimental MCP server for the wflow.com public API, enabling natural language operations on documents, registers, users, roles, and teams across one or many organizations.",
+  "source_repo": "wflowcom/wflow-mcp-experimental",
+  "source_url": "https://github.com/wflowcom/wflow-mcp-experimental",
+  "install": "# git clone --depth 1 https://github.com/wflowcom/wflow-mcp-experimental\n# See source for mcpServers config block"
+}

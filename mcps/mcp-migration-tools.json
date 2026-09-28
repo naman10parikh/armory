@@ -1,0 +1,7 @@
+{
+  "name": "mcp-migration-tools",
+  "description": "Provides AI-callable tools for modernizing legacy applications, including stack detection, API contract extraction, SQL to Flyway conversion, and migration effort estimation.",
+  "source_repo": "simeptk/mcp-migration-tools",
+  "source_url": "https://github.com/simeptk/mcp-migration-tools",
+  "install": "# git clone --depth 1 https://github.com/simeptk/mcp-migration-tools\n# See source for mcpServers config block"
+}

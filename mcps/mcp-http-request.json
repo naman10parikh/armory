@@ -1,0 +1,7 @@
+{
+  "name": "mcp-http-request",
+  "description": "Universal HTTP client tool for LLM agents. Enables Claude and other MCP-compatible agents to perform GET, POST, PUT, DELETE, and other HTTP requests to any URL, including localhost and internal network addresses.",
+  "source_repo": "pavex/mcp-http-request",
+  "source_url": "https://github.com/pavex/mcp-http-request",
+  "install": "# git clone --depth 1 https://github.com/pavex/mcp-http-request\n# See source for mcpServers config block"
+}

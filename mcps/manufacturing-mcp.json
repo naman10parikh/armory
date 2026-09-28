@@ -1,0 +1,7 @@
+{
+  "name": "manufacturing-mcp",
+  "description": "Enables exploration of manufacturing equipment data and analysis of failure risk, supporting monitoring, failure classification, and anomaly detection through natural language.",
+  "source_repo": "johyeongseob/manufacturing-mcp",
+  "source_url": "https://github.com/johyeongseob/manufacturing-mcp",
+  "install": "npx -y manufacturing-mcp"
+}

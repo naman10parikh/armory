@@ -1,0 +1,7 @@
+{
+  "name": "fulfillment-review-mcp",
+  "description": "Streamable HTTP MCP server for investigating partial-fulfillment holds and preparing complete human-review cases. It provides read-only tools to preview source-supported fulfillment options with delivery-date and shipping-cost effects, and an idempotent tool to persist an immutable escalation for hu",
+  "source_repo": "Allen-Saji/fulfillment-review-mcp",
+  "source_url": "https://github.com/Allen-Saji/fulfillment-review-mcp",
+  "install": "npx -y fulfillment-review-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tcgen-st-test-mcp",
+  "description": "Provides offline semantic validation for TcGen Structured Text (ST) review bundles by normalizing ST code, generating STruC++ tests from JSON specs, and executing them via the strucpp CLI.",
+  "source_repo": "AgileAutomationTechnologies/tcgen-st-test-mcp",
+  "source_url": "https://github.com/AgileAutomationTechnologies/tcgen-st-test-mcp",
+  "install": "npx -y tcgen-st-test-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "utm-helper-mcp",
+  "description": "MCP server for generating consistent UTM-tagged links based on an authoritative, version-controlled UTM specification.",
+  "source_repo": "ArcadeAI/utm-helper-mcp",
+  "source_url": "https://github.com/ArcadeAI/utm-helper-mcp",
+  "install": "npx -y utm-helper-mcp"
+}

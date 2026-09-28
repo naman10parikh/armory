@@ -1,0 +1,7 @@
+{
+  "name": "orangerail",
+  "description": "Generate an MCP server from your Prisma schema — typed per-model tools instead of execute_sql, destructive writes gated behind human approval, and an audit log of every call.",
+  "source_repo": "KimHyeongRae0/orangerail",
+  "source_url": "https://github.com/KimHyeongRae0/orangerail",
+  "install": "# git clone --depth 1 https://github.com/KimHyeongRae0/orangerail\n# See source for mcpServers config block"
+}

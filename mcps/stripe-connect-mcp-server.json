@@ -1,0 +1,7 @@
+{
+  "name": "stripe-connect-mcp-server",
+  "description": "Read-only access to Stripe data including customers, charges, subscriptions, balance, and invoices.",
+  "source_repo": "pipeworx-io/mcp-stripe_connect",
+  "source_url": "https://github.com/pipeworx-io/mcp-stripe_connect",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-stripe_connect\n# See source for mcpServers config block"
+}

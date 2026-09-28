@@ -1,0 +1,7 @@
+{
+  "name": "sark",
+  "description": "Enables Slack-driven coding agents in isolated cloud sandboxes per thread, with thread-scoped MCP tokens and fail-closed allowlists.",
+  "source_repo": "Arjia-Labs/sark",
+  "source_url": "https://github.com/Arjia-Labs/sark",
+  "install": "# git clone --depth 1 https://github.com/Arjia-Labs/sark\n# See source for mcpServers config block"
+}

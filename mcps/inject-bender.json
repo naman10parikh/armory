@@ -1,0 +1,7 @@
+{
+  "name": "inject-bender",
+  "description": "Transforms malicious input (e.g., SQL injection, XSS) into absurd hiking boot advertisements, confusing attackers while logging everything.",
+  "source_repo": "jaspertvdm/mcp-inject-bender",
+  "source_url": "https://github.com/jaspertvdm/mcp-inject-bender",
+  "install": "# git clone --depth 1 https://github.com/jaspertvdm/mcp-inject-bender\n# See source for mcpServers config block"
+}

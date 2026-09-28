@@ -1,0 +1,7 @@
+{
+  "name": "yt-slack-mcp",
+  "description": "MCP server for Slack that reads permalinks, threads, and channel history, and replies to threads or adds reactions using private browser-session tokens.",
+  "source_repo": "yentsun/slack-mcp",
+  "source_url": "https://github.com/yentsun/slack-mcp",
+  "install": "npx -y slack-mcp"
+}

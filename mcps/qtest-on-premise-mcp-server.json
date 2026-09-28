@@ -1,0 +1,7 @@
+{
+  "name": "qtest-on-premise-mcp-server",
+  "description": "MCP server for self-hosted qTest Manager, enabling natural-language management of projects, modules, test cases, requirements, traceability, and test execution via the qTest REST API.",
+  "source_repo": "VaniTTC/soco-qtest-mcp",
+  "source_url": "https://github.com/VaniTTC/soco-qtest-mcp",
+  "install": "npx -y soco-qtest-mcp"
+}

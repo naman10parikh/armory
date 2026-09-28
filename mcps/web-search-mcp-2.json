@@ -1,0 +1,7 @@
+{
+  "name": "web-search-mcp-2",
+  "description": "Provides LLMs with real-time web search and content extraction capabilities, including text/news search, full-text URL reading, and targeted technical documentation search.",
+  "source_repo": "sydasif/web-search-mcp",
+  "source_url": "https://github.com/sydasif/web-search-mcp",
+  "install": "npx -y web-search-mcp"
+}

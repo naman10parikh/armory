@@ -1,0 +1,7 @@
+{
+  "name": "omnicall-mcp",
+  "description": "Keyless, pay-per-call AI gateway: 248 LLMs plus image/video/voice/music generation and live crypto, DeFi, markets, web-search and research tools through one MCP server. Pay per call in USDC via x402 on Base/Solana — no API key, no signup, free tier.",
+  "source_repo": "ColinHughes2121/omnicall-mcp",
+  "source_url": "https://github.com/ColinHughes2121/omnicall-mcp",
+  "install": "npx -y omnicall-mcp"
+}

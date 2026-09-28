@@ -1,0 +1,7 @@
+{
+  "name": "payql",
+  "description": "PayQL is an MCP server that lets any AI agent query The Graph and pay per query in USDC — gasless, keyless, bring-your-own-wallet.",
+  "source_repo": "PaulieB14/payql",
+  "source_url": "https://github.com/PaulieB14/payql",
+  "install": "# git clone --depth 1 https://github.com/PaulieB14/payql\n# See source for mcpServers config block"
+}

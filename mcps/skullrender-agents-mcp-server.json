@@ -1,0 +1,7 @@
+{
+  "name": "skullrender-agents-mcp-server",
+  "description": "Enables declarative agent manifest management and deterministic brief validation for the Presentador→Orquestador flow, with tools to list/get manifests and validate brief schemas.",
+  "source_repo": "crozzbite/SkullRender-Agents",
+  "source_url": "https://github.com/crozzbite/SkullRender-Agents",
+  "install": "# git clone --depth 1 https://github.com/crozzbite/SkullRender-Agents\n# See source for mcpServers config block"
+}

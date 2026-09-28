@@ -1,0 +1,7 @@
+{
+  "name": "offbyone-runtime-mcp-server",
+  "description": "MCP server for the OffByOne website factory, enabling agents to generate, validate, and manage full-stack web projects through safe, deterministic tools.",
+  "source_repo": "KurtIceberg/offbyone",
+  "source_url": "https://github.com/KurtIceberg/offbyone",
+  "install": "# git clone --depth 1 https://github.com/KurtIceberg/offbyone\n# See source for mcpServers config block"
+}

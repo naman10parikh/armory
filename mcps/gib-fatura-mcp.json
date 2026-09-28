@@ -1,0 +1,7 @@
+{
+  "name": "gib-fatura-mcp",
+  "description": "MCP server for creating, listing, and signing Turkish e-invoices, e-producer receipts, and e-self-employment receipts on the GİB e-Arşiv portal.",
+  "source_repo": "bevren/gib-fatura-mcp",
+  "source_url": "https://github.com/bevren/gib-fatura-mcp",
+  "install": "npx -y gib-fatura-mcp"
+}

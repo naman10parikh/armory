@@ -1,0 +1,7 @@
+{
+  "name": "rescuedogs-mcp-server",
+  "description": "MCP server for discovering rescue dogs from European and UK organizations. Search, filter, and get detailed profiles of dogs available for adoption.",
+  "source_repo": "ssatama/rescuedogs-mcp-server",
+  "source_url": "https://github.com/ssatama/rescuedogs-mcp-server",
+  "install": "npx -y rescuedogs-mcp-server"
+}

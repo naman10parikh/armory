@@ -1,0 +1,7 @@
+{
+  "name": "ai-blog-mcp-agent",
+  "description": "A local AI-powered research agent that searches the web, fetches real content, and generates grounded answers using a local Ollama model, exposed as an MCP tool for Claude Desktop.",
+  "source_repo": "BhavinXAgheda/AI_Blog_MCP_Agent",
+  "source_url": "https://github.com/BhavinXAgheda/AI_Blog_MCP_Agent",
+  "install": "# git clone --depth 1 https://github.com/BhavinXAgheda/AI_Blog_MCP_Agent\n# See source for mcpServers config block"
+}

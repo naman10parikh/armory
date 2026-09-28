@@ -177,3 +177,54 @@ Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/microsoft
     assert.ok(!existsSync(stubPath), "the stub is consumed");
   } finally { rmSync(root, { recursive: true, force: true }); }
 });
+
+// ── one repository, one row: no second row under another name (CP147 T07) ────
+// 2,973 MCP rows came in twice because registries name one server differently (PulseMCP `aaronroef-apple`,
+// Glama `apple-mcp`) while the promote step compared names only, and 525 mcp.so pages came in beside a
+// GitHub row of the same repository. Both promote paths now key on the repository (lib/same-component.mjs).
+function stubFor(name, sourceUrl, sourceRepo = "") {
+  return validStub(name)
+    .replace(/^source_url:.*$/m, `source_url: ${sourceUrl}${sourceRepo ? `\nsource_repo: ${sourceRepo}` : ""}`);
+}
+
+test("integration: promote (the nightly path) adds no second row for a repository already listed", () => {
+  const { root, incoming, components } = freshSandbox();
+  try {
+    mkdirSync(join(components, "mcps"), { recursive: true });
+    writeFileSync(join(components, "mcps", "aaronroef-apple.md"), stubFor("aaronroef-apple", "https://github.com/aaronroef/apple-mcp"));
+    // Glama's spelling of the same repository: another name, another case, a trailing .git.
+    writeFileSync(join(incoming, "apple-mcp.md"), stubFor("apple-mcp", "https://github.com/AaronRoef/apple-mcp.git"));
+    // mcp.so's page for it: the repository is only in source_repo.
+    writeFileSync(join(incoming, "apple-notes-mcp.md"), stubFor("apple-notes-mcp", "https://mcp.so/server/apple-mcp/aaronroef", "aaronroef/apple-mcp"));
+    // A different repository with a similar name is a different product and enters.
+    writeFileSync(join(incoming, "apple-music-mcp.md"), stubFor("apple-music-mcp", "https://github.com/someone-else/apple-mcp"));
+    const res = promote(incoming, components, { dryRun: false, log: silent });
+    assert.deepEqual(res.promoted.map((p) => p.key), ["apple-music-mcp|mcps"], "only the other repository enters");
+    assert.equal(res.skipped.length, 2, "both spellings of the listed repository are skipped");
+    assert.ok(!existsSync(join(components, "mcps", "apple-mcp.md")));
+    assert.ok(!existsSync(join(components, "mcps", "apple-notes-mcp.md")));
+  } finally { rmSync(root, { recursive: true, force: true }); }
+});
+
+test("integration: promoteAll (the bulk path) adds no second row for a repository already listed", () => {
+  const root = mkdtempSync(join(tmpdir(), "armory-it-"));
+  try {
+    const components = join(root, "components");
+    const incoming = join(root, "incoming");
+    mkdirSync(join(components, "mcps"), { recursive: true });
+    mkdirSync(join(incoming, "pulsemcp-full"), { recursive: true });
+    const held = join(components, "mcps", "aaronroef-apple.md");
+    writeFileSync(held, stubFor("aaronroef-apple", "https://github.com/aaronroef/apple-mcp"));
+    // Another name for the same repository (the names normalize apart), and a richer description.
+    const stub = stubFor("apple-mcp", "https://github.com/aaronroef/apple-mcp").replace("A real-shaped", "A longer, richer, real-shaped");
+    writeFileSync(join(incoming, "pulsemcp-full", "apple-mcp.md"), stub);
+    writeFileSync(join(incoming, "pulsemcp-full", "apple-music-mcp.md"), stubFor("apple-music-mcp", "https://github.com/someone-else/apple-mcp"));
+    const before = readFileSync(held, "utf8");
+    const { stats } = promoteAll(incoming, components, ["pulsemcp-full"], { dryRun: false, log: silent });
+    assert.equal(stats.sameRepository, 1, "the second name for the repository is counted as a duplicate");
+    assert.equal(stats.netNew, 1, "the other repository still enters");
+    assert.ok(!existsSync(join(components, "mcps", "apple-mcp.md")), "no second row");
+    assert.ok(existsSync(join(components, "mcps", "apple-music-mcp.md")));
+    assert.equal(readFileSync(held, "utf8"), before, "the row that holds the repository is untouched");
+  } finally { rmSync(root, { recursive: true, force: true }); }
+});

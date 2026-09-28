@@ -1,0 +1,7 @@
+{
+  "name": "shared-skill-mcp",
+  "description": "Enables claude.ai custom connectors to run SQL-like gviz queries against Google Sheets through a shared AWS-hosted MCP server protected by Cognito Google login, with room to add more tools over time.",
+  "source_repo": "amar-p6/shared-skill-mcp",
+  "source_url": "https://github.com/amar-p6/shared-skill-mcp",
+  "install": "npx -y shared-skill-mcp"
+}

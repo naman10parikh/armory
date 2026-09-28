@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fi",
+  "description": "Query databases in plain English using Claude. Supports SQLite, CSV, PostgreSQL, and MySQL.",
+  "source_repo": "toyetola/mcp-fi",
+  "source_url": "https://github.com/toyetola/mcp-fi",
+  "install": "# git clone --depth 1 https://github.com/toyetola/mcp-fi\n# See source for mcpServers config block"
+}

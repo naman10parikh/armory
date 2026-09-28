@@ -1,0 +1,7 @@
+{
+  "name": "dorico-mcp-server",
+  "description": "An MCP server that enables natural language control of Steinberg Dorico music notation software through Claude Desktop or ChatGPT, offering tools for score creation, note input, notation, harmony analysis, and orchestration.",
+  "source_repo": "happycastle114/dorico-mcp-server",
+  "source_url": "https://github.com/happycastle114/dorico-mcp-server",
+  "install": "npx -y dorico-mcp-server"
+}

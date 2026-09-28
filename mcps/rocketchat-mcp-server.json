@@ -1,0 +1,7 @@
+{
+  "name": "rocketchat-mcp-server",
+  "description": "A FastMCP (Python) server for Rocket.Chat with 28 tools covering channels, messages, threads, DMs, files, users, and analytics, plus AI governance, observability, and security features.",
+  "source_repo": "GavinTomlins/rocketchat-mcp-server",
+  "source_url": "https://github.com/GavinTomlins/rocketchat-mcp-server",
+  "install": "npx -y rocketchat-mcp-server"
+}

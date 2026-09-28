@@ -1,0 +1,7 @@
+{
+  "name": "reasonix-multimodal-mcp",
+  "description": "Extends Reasonix with multimodal processing capabilities including image OCR/vision, PDF text extraction, local audio transcription, video analysis, and Office document extraction.",
+  "source_repo": "GeeniTiming/reasonix-multimodal-mcp",
+  "source_url": "https://github.com/GeeniTiming/reasonix-multimodal-mcp",
+  "install": "npx -y reasonix-multimodal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openbudget-mcp-server",
+  "description": "Enables AI assistants to access and manage personal financial data from US institutions and manual entries, including transactions, balances, liabilities, and investments.",
+  "source_repo": "markets-ai/openbudget-mcp",
+  "source_url": "https://github.com/markets-ai/openbudget-mcp",
+  "install": "npx -y openbudget-mcp"
+}

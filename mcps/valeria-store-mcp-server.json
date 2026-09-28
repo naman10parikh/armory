@@ -1,0 +1,7 @@
+{
+  "name": "valeria-store-mcp-server",
+  "description": "Enables agents to manage Valeria Store's VCC card purchasing, balance checking, and order tracking via its internal REST API.",
+  "source_repo": "Thangterter-Pipo/valeria-mcp",
+  "source_url": "https://github.com/Thangterter-Pipo/valeria-mcp",
+  "install": "npx -y valeria-mcp"
+}

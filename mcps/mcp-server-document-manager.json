@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-document-manager",
+  "description": "An MCP server that manages documents, enabling retrieval and command-based operations within AI chat interfaces using the Anthropic API.",
+  "source_repo": "asthasoni22/mcp_server_document_manager",
+  "source_url": "https://github.com/asthasoni22/mcp_server_document_manager",
+  "install": "# git clone --depth 1 https://github.com/asthasoni22/mcp_server_document_manager\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "antt-sifama-consultar-multas",
+  "description": "MCP server to consult ANTT SIFAMA fines (multas) from the official source, with a single read-only tool and pay-per-use credits.",
+  "source_repo": "mcp-dir/antt_sifama_consultar_multas-mcp",
+  "source_url": "https://github.com/mcp-dir/antt_sifama_consultar_multas-mcp",
+  "install": "npx -y antt_sifama_consultar_multas-mcp"
+}

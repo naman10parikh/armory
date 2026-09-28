@@ -1,0 +1,7 @@
+{
+  "name": "bingmcp",
+  "description": "Provides LLMs with live access to Binghamton University campus data, including laundry availability, bus locations, dining status and menus, gym capacity, library room availability, and campus events.",
+  "source_repo": "luljaj/BingMCP",
+  "source_url": "https://github.com/luljaj/BingMCP",
+  "install": "# git clone --depth 1 https://github.com/luljaj/BingMCP\n# See source for mcpServers config block"
+}

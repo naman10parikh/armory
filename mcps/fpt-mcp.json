@@ -1,0 +1,7 @@
+{
+  "name": "fpt-mcp",
+  "description": "MCP server for Autodesk Flow Production Tracking (ShotGrid) enabling AI assistants to query, create, update, and delete entities via the ShotGrid API with built-in RAG anti-hallucination and safety layers.",
+  "source_repo": "abrahamADSK/fpt-mcp",
+  "source_url": "https://github.com/abrahamADSK/fpt-mcp",
+  "install": "npx -y fpt-mcp"
+}

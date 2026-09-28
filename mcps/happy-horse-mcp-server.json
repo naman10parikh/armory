@@ -1,0 +1,7 @@
+{
+  "name": "happy-horse-mcp-server",
+  "description": "Enables AI video generation and editing, including text-to-video, image-to-video, reference-to-video, and video editing through the Ace Data Cloud API.",
+  "source_repo": "AceDataCloud/HappyHorseMCP",
+  "source_url": "https://github.com/AceDataCloud/HappyHorseMCP",
+  "install": "# git clone --depth 1 https://github.com/AceDataCloud/HappyHorseMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yodmcp",
+  "description": "A production-oriented Agent Operating System kernel that provides multi-graph memory, durable tasks, portable skills, attestation, and plan-based monetization for MCP-based agents.",
+  "source_repo": "ANAMIZED/YodMCP",
+  "source_url": "https://github.com/ANAMIZED/YodMCP",
+  "install": "# git clone --depth 1 https://github.com/ANAMIZED/YodMCP\n# See source for mcpServers config block"
+}

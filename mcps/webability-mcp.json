@@ -1,0 +1,7 @@
+{
+  "name": "webability-mcp",
+  "description": "An MCP server for web accessibility testing that enables scanning, auditing, and fixing WCAG, ADA, and other compliance issues directly from your IDE, with free local scans, AI-generated framework-aware fixes, and verification capabilities.",
+  "source_repo": "snayyar00/webability-mcp",
+  "source_url": "https://github.com/snayyar00/webability-mcp",
+  "install": "npx -y webability-mcp"
+}

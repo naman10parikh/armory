@@ -1,0 +1,7 @@
+{
+  "name": "peru-payments-mcp",
+  "description": "Enables AI agents to accept payments in Peru including Yape, PagoEfectivo, cards, and Mercado Pago wallet via hosted checkout. Acts as a stateless translation layer without storing funds or credentials.",
+  "source_repo": "junter1989k-ai/peru-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/peru-payments-mcp",
+  "install": "npx -y peru-payments-mcp"
+}

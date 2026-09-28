@@ -1,0 +1,7 @@
+{
+  "name": "email-agent-mcp-server",
+  "description": "Enables AI-powered Gmail triage: fetches unread emails, classifies them, drafts replies for important ones, and sends only after user approval via conversational review. Exposes tools for checking unread emails and submitting review feedback from Claude Desktop or any MCP client.",
+  "source_repo": "Ali-Zia3500/email-agent-mcp-server",
+  "source_url": "https://github.com/Ali-Zia3500/email-agent-mcp-server",
+  "install": "npx -y email-agent-mcp-server"
+}

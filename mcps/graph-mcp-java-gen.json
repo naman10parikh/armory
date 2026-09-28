@@ -1,0 +1,7 @@
+{
+  "name": "graph-mcp-java-gen",
+  "description": "Enables users to turn natural-language requests into validated, compilable Java test methods, grounded in a graph catalog to prevent hallucinated imports and ungrounded symbols.",
+  "source_repo": "rajendarmuddasani/02-graph-grounded-genai-test-generation",
+  "source_url": "https://github.com/rajendarmuddasani/02-graph-grounded-genai-test-generation",
+  "install": "# git clone --depth 1 https://github.com/rajendarmuddasani/02-graph-grounded-genai-test-generation\n# See source for mcpServers config block"
+}

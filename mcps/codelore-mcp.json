@@ -1,0 +1,7 @@
+{
+  "name": "codelore-mcp",
+  "description": "Turn any code repository into a searchable Obsidian vault — then let Claude Code navigate it as a set of MCP tools.",
+  "source_repo": "Ayush-Sadekar/codelore-mcp",
+  "source_url": "https://github.com/Ayush-Sadekar/codelore-mcp",
+  "install": "npx -y codelore-mcp"
+}

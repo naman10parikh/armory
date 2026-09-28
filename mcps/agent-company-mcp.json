@@ -1,0 +1,7 @@
+{
+  "name": "agent-company-mcp",
+  "description": "Enables AI agents to autonomously form and govern real legal companies (Wyoming or Nevis LLCs) with agent-specific charters, containing liability and proving authority through MCP tools.",
+  "source_repo": "tcgtracker-boop/agent-company-mcp",
+  "source_url": "https://github.com/tcgtracker-boop/agent-company-mcp",
+  "install": "npx -y agent-company-mcp"
+}

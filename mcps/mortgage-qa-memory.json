@@ -1,0 +1,7 @@
+{
+  "name": "mortgage-qa-memory",
+  "description": "Enables Playwright QA automation with a custom Memory MCP that provides tiered retention and mortgage compliance audit, allowing AI agents to remember flakiness history and journey maps while adhering to data privacy and audit requirements.",
+  "source_repo": "Xavius123/mcp-memory",
+  "source_url": "https://github.com/Xavius123/mcp-memory",
+  "install": "# git clone --depth 1 https://github.com/Xavius123/mcp-memory\n# See source for mcpServers config block"
+}

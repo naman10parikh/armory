@@ -1,0 +1,7 @@
+{
+  "name": "dispatchseo",
+  "description": "Turn Claude Code into your SEO manager with keyword research, content pipeline that ships pull requests, rank tracking, and a dashboard.",
+  "source_repo": "NeoZi12/dispatchseo",
+  "source_url": "https://github.com/NeoZi12/dispatchseo",
+  "install": "# git clone --depth 1 https://github.com/NeoZi12/dispatchseo\n# See source for mcpServers config block"
+}

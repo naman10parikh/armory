@@ -1,0 +1,7 @@
+{
+  "name": "fabric-lakehouse-mcp",
+  "description": "A Model Context Protocol server for Microsoft Fabric that enables AI agents to query and analyze Lakehouse and Eventhouse data, and manage Eventstreams, using natural language through the MCP interface.",
+  "source_repo": "melisa-l/fabric-rti-mcp",
+  "source_url": "https://github.com/melisa-l/fabric-rti-mcp",
+  "install": "npx -y fabric-rti-mcp"
+}

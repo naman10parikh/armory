@@ -1,6 +1,6 @@
 {
   "name": "mcp-browser-use-tools",
-  "description": "Mcp Browser Use Tools MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "phact/mcp-browser-use-tools",
   "source_url": "https://mcp.so/server/mcp-browser-use-tools/phact",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-browser-use-tools/phact\n# See source for mcpServers config block"

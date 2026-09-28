@@ -1,0 +1,7 @@
+{
+  "name": "knowmind",
+  "description": "Das Agentengehirn und Langzeitgedächtnis aus Deutschland.",
+  "source_repo": "Schubeler-Consulting/knowmind",
+  "source_url": "https://github.com/Schubeler-Consulting/knowmind",
+  "install": "# git clone --depth 1 https://github.com/Schubeler-Consulting/knowmind\n# See source for mcpServers config block"
+}

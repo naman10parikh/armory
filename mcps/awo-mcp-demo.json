@@ -1,0 +1,7 @@
+{
+  "name": "awo-mcp-demo",
+  "description": "Enables querying AWO facility data through natural language, supporting search by city, service, and counting facilities.",
+  "source_repo": "Atrash87/awo-mcp-demo",
+  "source_url": "https://github.com/Atrash87/awo-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/Atrash87/awo-mcp-demo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "building-a-browser-harness-mcp-for-ai-agents",
+  "description": "Enables AI agents to control a Playwright-driven browser through natural-language instructions, including page interaction and live browser task execution.",
+  "source_repo": "jiin-kim109/Building-a-Browser-Harness-MCP-for-AI-Agents",
+  "source_url": "https://github.com/jiin-kim109/Building-a-Browser-Harness-MCP-for-AI-Agents",
+  "install": "# git clone --depth 1 https://github.com/jiin-kim109/Building-a-Browser-Harness-MCP-for-AI-Agents\n# See source for mcpServers config block"
+}

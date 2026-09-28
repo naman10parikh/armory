@@ -1,0 +1,7 @@
+{
+  "name": "dormon-salesforce-mcp",
+  "description": "Enhanced MCP server for interacting with Salesforce orgs, featuring concurrency safety, error recovery guidance, structured output, smart schema caching, and MCP Resources for AI agents.",
+  "source_repo": "dormonbear/Salesforce-MCP",
+  "source_url": "https://github.com/dormonbear/Salesforce-MCP",
+  "install": "npx -y Salesforce-MCP"
+}

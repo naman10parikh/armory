@@ -1,0 +1,7 @@
+{
+  "name": "kova-mcp",
+  "description": "Connects Claude and other MCP clients to myGEKKO building controllers via the official Query API, enabling natural-language queries and control of smart-home devices. It is read-only by default, with write actions available only through explicit opt-in and safety policies.",
+  "source_repo": "joeexafionbot-dev/kova-mcp",
+  "source_url": "https://github.com/joeexafionbot-dev/kova-mcp",
+  "install": "npx -y kova-mcp"
+}

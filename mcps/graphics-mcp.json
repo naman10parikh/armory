@@ -1,0 +1,7 @@
+{
+  "name": "graphics-mcp",
+  "description": "Unified MCP server for graphics manipulation with multiple backends.",
+  "source_repo": "lesleslie/graphics-mcp",
+  "source_url": "https://github.com/lesleslie/graphics-mcp",
+  "install": "npx -y graphics-mcp"
+}

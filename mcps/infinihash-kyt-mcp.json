@@ -1,0 +1,7 @@
+{
+  "name": "infinihash-kyt-mcp",
+  "description": "MCP server for Infinihash KYT providing real-time blockchain transaction monitoring, sanctions screening, and SAR generation. It enables MCP-compatible agents to screen wallets against OFAC SDN and generate compliance cases.",
+  "source_repo": "Infinihash/infinihash-kyt-mcp",
+  "source_url": "https://github.com/Infinihash/infinihash-kyt-mcp",
+  "install": "npx -y infinihash-kyt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arxiv-insight-mcp-server",
+  "description": "Enables searching arXiv papers by topic or category, retrieving full text, PDFs, and BibTeX citations, and generating structured reviews and comparisons.",
+  "source_repo": "YI-TING-EE13/ArXiv-Insight-MCP-Server",
+  "source_url": "https://github.com/YI-TING-EE13/ArXiv-Insight-MCP-Server",
+  "install": "npx -y ArXiv-Insight-MCP-Server"
+}

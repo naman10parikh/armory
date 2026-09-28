@@ -1,0 +1,7 @@
+{
+  "name": "imagegrain-mcp",
+  "description": "Enables applying deterministic film grain and analog adjustments to photos locally via natural language, with no uploads.",
+  "source_repo": "imagegrain/imagegrain_mcp",
+  "source_url": "https://github.com/imagegrain/imagegrain_mcp",
+  "install": "npx -y imagegrain_mcp"
+}

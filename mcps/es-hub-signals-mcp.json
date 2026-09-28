@@ -1,0 +1,7 @@
+{
+  "name": "es-hub-signals-mcp",
+  "description": "Enables AI agents to search and retrieve market signals, revenue ideas, and growth tactics from 2,000+ curated entries across 18 sources.",
+  "source_repo": "SydYuan/es-hub-mcp",
+  "source_url": "https://github.com/SydYuan/es-hub-mcp",
+  "install": "npx -y es-hub-mcp"
+}

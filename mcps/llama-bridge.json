@@ -1,0 +1,7 @@
+{
+  "name": "llama-bridge",
+  "description": "MCP server that enables cloud models (like Gemini/Claude) to delegate coding tasks to a local llama.cpp server, preserving cloud usage limits through an AI-powered code review loop.",
+  "source_repo": "shreyashp77/Llama-Bridge",
+  "source_url": "https://github.com/shreyashp77/Llama-Bridge",
+  "install": "# git clone --depth 1 https://github.com/shreyashp77/Llama-Bridge\n# See source for mcpServers config block"
+}

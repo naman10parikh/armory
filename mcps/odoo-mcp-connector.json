@@ -1,0 +1,7 @@
+{
+  "name": "odoo-mcp-connector",
+  "description": "Production-grade Odoo add-ons that expose Odoo business functionality to MCP-compliant clients over HTTP with OAuth 2.1, per-user permission enforcement, write-confirmation safety, and full audit logging.",
+  "source_repo": "tjgurwara99/odoo-mcp-new-architecture",
+  "source_url": "https://github.com/tjgurwara99/odoo-mcp-new-architecture",
+  "install": "# git clone --depth 1 https://github.com/tjgurwara99/odoo-mcp-new-architecture\n# See source for mcpServers config block"
+}

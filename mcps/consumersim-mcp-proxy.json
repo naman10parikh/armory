@@ -1,0 +1,7 @@
+{
+  "name": "consumersim-mcp-proxy",
+  "description": "Exposes forecast lookup tools for consumer spending predictions across regions and time periods.",
+  "source_repo": "RunRiotComeOn/ConsumerSim-MCP",
+  "source_url": "https://github.com/RunRiotComeOn/ConsumerSim-MCP",
+  "install": "npx -y ConsumerSim-MCP"
+}

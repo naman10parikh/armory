@@ -1,0 +1,7 @@
+{
+  "name": "test-genie-mcp",
+  "description": "Self-healing test automation MCP server that diagnoses and fixes issues in mobile and web apps, including a one-command vibe-check to prioritize broken functionality.",
+  "source_repo": "MUSE-CODE-SPACE/test-genie-mcp",
+  "source_url": "https://github.com/MUSE-CODE-SPACE/test-genie-mcp",
+  "install": "npx -y test-genie-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "paypal-sandbox-mcp-server",
+  "description": "Enables creating and finalizing PayPal Sandbox payments for Salesforce Agentforce demos. Provides two tools: create_paypal_payment and finalize_paypal_payment.",
+  "source_repo": "Horizon-CX/PayPal-Sandbox-MCP-Server",
+  "source_url": "https://github.com/Horizon-CX/PayPal-Sandbox-MCP-Server",
+  "install": "npx -y PayPal-Sandbox-MCP-Server"
+}

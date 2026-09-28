@@ -1,0 +1,7 @@
+{
+  "name": "semanticscholar-mcp",
+  "description": "MCP server that provides Semantic Scholar academic search capabilities, including paper search, detail query, citation analysis, author search, and intelligent recommendations.",
+  "source_repo": "xbghc/semanticscholar-mcp",
+  "source_url": "https://github.com/xbghc/semanticscholar-mcp",
+  "install": "npx -y semanticscholar-mcp"
+}

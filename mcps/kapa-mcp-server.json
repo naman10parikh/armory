@@ -1,0 +1,7 @@
+{
+  "name": "kapa-mcp-server",
+  "description": "Enables querying Kapa.ai's documentation and Q&A capabilities for any project enrolled with Kapa, with tools for asking questions and searching sources.",
+  "source_repo": "dvdksn/kapa-mcp-docker",
+  "source_url": "https://github.com/dvdksn/kapa-mcp-docker",
+  "install": "# git clone --depth 1 https://github.com/dvdksn/kapa-mcp-docker\n# See source for mcpServers config block"
+}

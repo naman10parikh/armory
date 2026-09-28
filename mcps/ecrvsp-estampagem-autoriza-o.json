@@ -1,0 +1,7 @@
+{
+  "name": "ecrvsp-estampagem-autoriza-o",
+  "description": "Provides a read-only tool to query ECRVSP Estampagem authorization data from an official source via MCP, with prepaid usage and no credentials.",
+  "source_repo": "mcp-dir/ecrvsp_estampagem_autorizacao-mcp",
+  "source_url": "https://github.com/mcp-dir/ecrvsp_estampagem_autorizacao-mcp",
+  "install": "npx -y ecrvsp_estampagem_autorizacao-mcp"
+}

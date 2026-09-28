@@ -1,0 +1,7 @@
+{
+  "name": "jueri-mcp-server",
+  "description": "Enables querying products, resellers, clients, and orders from the Jueri management system for semi-jewelry and consignment via natural language.",
+  "source_repo": "matheusguimaraesdias/jueri-mcp-server",
+  "source_url": "https://github.com/matheusguimaraesdias/jueri-mcp-server",
+  "install": "npx -y jueri-mcp-server"
+}

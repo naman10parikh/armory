@@ -1,0 +1,7 @@
+{
+  "name": "edhrec-mcp",
+  "description": "MCP server for Magic: The Gathering Commander that provides card data from Scryfall and deckbuilding recommendations from EDHREC.",
+  "source_repo": "getsec/mtg-mcp",
+  "source_url": "https://github.com/getsec/mtg-mcp",
+  "install": "npx -y mtg-mcp"
+}

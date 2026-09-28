@@ -1,0 +1,7 @@
+{
+  "name": "markdown-review",
+  "description": "Enables interactive review of rendered Markdown documents by selecting passages, queueing line-anchored feedback, and submitting it in one batch to a coding agent that edits the original source file.",
+  "source_repo": "tjs-w/markdown-review",
+  "source_url": "https://github.com/tjs-w/markdown-review",
+  "install": "# git clone --depth 1 https://github.com/tjs-w/markdown-review\n# See source for mcpServers config block"
+}

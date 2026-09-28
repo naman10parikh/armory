@@ -1,0 +1,7 @@
+{
+  "name": "roblox-mcp-server",
+  "description": "Enables real-time friend presence tracking and seamless game joining in Roblox.",
+  "source_repo": "h053698/roblox-mcp-server",
+  "source_url": "https://github.com/h053698/roblox-mcp-server",
+  "install": "npx -y roblox-mcp-server"
+}

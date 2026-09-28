@@ -1,0 +1,7 @@
+{
+  "name": "jeltz",
+  "description": "Connects AI assistants to physical devices via MCP, enabling LLMs to reason about sensor data, perform cross-device correlation, and interpret anomalies.",
+  "source_repo": "heath0xFF/jeltz",
+  "source_url": "https://github.com/heath0xFF/jeltz",
+  "install": "# git clone --depth 1 https://github.com/heath0xFF/jeltz\n# See source for mcpServers config block"
+}

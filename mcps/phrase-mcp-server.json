@@ -1,0 +1,7 @@
+{
+  "name": "phrase-mcp-server",
+  "description": "Use Phrase APIs from any MCP client (Claude, Cursor, etc.) with ready-to-use tools for Phrase Strings, Phrase TMS, and Connectors.",
+  "source_repo": "phrase/phrase-mcp-server",
+  "source_url": "https://github.com/phrase/phrase-mcp-server",
+  "install": "npx -y phrase-mcp-server"
+}

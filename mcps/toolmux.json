@@ -1,0 +1,7 @@
+{
+  "name": "toolmux",
+  "description": "Aggregates multiple MCP servers via a single interface with token optimization and multiple operating modes (Gateway, Meta, Proxy, Search, Code).",
+  "source_repo": "subnetangel/ToolMux",
+  "source_url": "https://github.com/subnetangel/ToolMux",
+  "install": "# git clone --depth 1 https://github.com/subnetangel/ToolMux\n# See source for mcpServers config block"
+}

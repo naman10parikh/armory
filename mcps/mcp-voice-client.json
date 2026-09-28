@@ -1,0 +1,7 @@
+{
+  "name": "mcp-voice-client",
+  "description": "Barebones MCP server with a web-based voice interface, enabling spoken commands to trigger MCP tools via OpenAI function calling and Web Speech API.",
+  "source_repo": "vaibhavgeek/yc_plum_hackathon_mcp",
+  "source_url": "https://github.com/vaibhavgeek/yc_plum_hackathon_mcp",
+  "install": "npx -y yc_plum_hackathon_mcp"
+}

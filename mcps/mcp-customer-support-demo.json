@@ -1,0 +1,7 @@
+{
+  "name": "mcp-customer-support-demo",
+  "description": "Enables customer support operations such as order lookup, store credit, refunds, and audit log review through an agent using safe, typed MCP tools.",
+  "source_repo": "SangeethaKumari/mcp_demo",
+  "source_url": "https://github.com/SangeethaKumari/mcp_demo",
+  "install": "# git clone --depth 1 https://github.com/SangeethaKumari/mcp_demo\n# See source for mcpServers config block"
+}

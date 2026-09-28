@@ -1,0 +1,7 @@
+{
+  "name": "poranos-mcp-ainpc",
+  "description": "Enables Claude Desktop/Code to read and edit Poranos AI NPC scenarios and conversation logs via natural language, including scenario versioning and audit logging.",
+  "source_repo": "kkoba23/poranos-mcp-ainpc",
+  "source_url": "https://github.com/kkoba23/poranos-mcp-ainpc",
+  "install": "# git clone --depth 1 https://github.com/kkoba23/poranos-mcp-ainpc\n# See source for mcpServers config block"
+}

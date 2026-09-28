@@ -1,0 +1,7 @@
+{
+  "name": "mcp-n8n-builder",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/mcp-n8n-builder",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-n8n-builder\n# See source for mcpServers config block"
+}

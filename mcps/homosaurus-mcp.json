@@ -1,0 +1,7 @@
+{
+  "name": "homosaurus-mcp",
+  "description": "An experimental MCP server connecting Claude to the Homosaurus V4 LGBTQ+ linked data vocabulary, enabling search and retrieval of authority data for AI-assisted subject analysis and cataloging.",
+  "source_repo": "msuicaut/homosaurus-mcp",
+  "source_url": "https://github.com/msuicaut/homosaurus-mcp",
+  "install": "npx -y homosaurus-mcp"
+}

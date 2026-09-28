@@ -1,0 +1,7 @@
+{
+  "name": "xhs-mcp-2",
+  "description": "An MCP server for Xiaohongshu (xiaohongshu.com) that provides login, publishing, search, recommendations, and other automation capabilities via Puppeteer.",
+  "source_repo": "tongxin929/xhs-mcp",
+  "source_url": "https://github.com/tongxin929/xhs-mcp",
+  "install": "npx -y xhs-mcp"
+}

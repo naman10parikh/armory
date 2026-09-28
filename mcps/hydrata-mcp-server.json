@@ -1,0 +1,7 @@
+{
+  "name": "hydrata-mcp-server",
+  "description": "Enables running, monitoring, and managing ANUGA flood simulations on Hydrata Cloud, supporting project listing, scenario queries, simulation start, status polling, cancellation, and retry operations.",
+  "source_repo": "Hydrata/hydrata-mcp-server",
+  "source_url": "https://github.com/Hydrata/hydrata-mcp-server",
+  "install": "npx -y hydrata-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "naver-map-mcp-server",
+  "description": "Provides Naver Map API functions (geocoding, reverse geocoding, directions, static map, and usage queries) as MCP tools for use in Claude Desktop, VS Code, and other MCP clients.",
+  "source_repo": "flor3z-github/navermap-mcp-server",
+  "source_url": "https://github.com/flor3z-github/navermap-mcp-server",
+  "install": "npx -y navermap-mcp-server"
+}

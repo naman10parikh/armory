@@ -1,0 +1,7 @@
+{
+  "name": "axe-devtools-mcp",
+  "description": "MCP server for axe-core accessibility audits. Enables scanning URLs or HTML for WCAG violations with impact levels and fix guidance.",
+  "source_repo": "Ravindrabisht12/axe-devtool-mcp",
+  "source_url": "https://github.com/Ravindrabisht12/axe-devtool-mcp",
+  "install": "npx -y axe-devtool-mcp"
+}

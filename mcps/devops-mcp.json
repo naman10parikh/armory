@@ -1,0 +1,7 @@
+{
+  "name": "devops-mcp",
+  "description": "Unified MCP server for DevOps engineers that provides real-time read and write access to Kubernetes, ArgoCD, Prometheus, and PagerDuty from any MCP-compatible AI agent.",
+  "source_repo": "NotHarshhaa/devops-mcp",
+  "source_url": "https://github.com/NotHarshhaa/devops-mcp",
+  "install": "npx -y devops-mcp"
+}

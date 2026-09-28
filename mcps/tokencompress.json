@@ -1,0 +1,7 @@
+{
+  "name": "tokencompress",
+  "description": "A local, zero-cloud MCP server for token and text compression. It provides tools to compress, auto-compress, measure, and decompress text using offline rules, lossless gzip packing, or a local Ollama semantic model.",
+  "source_repo": "jiawei686/tokencompress",
+  "source_url": "https://github.com/jiawei686/tokencompress",
+  "install": "# git clone --depth 1 https://github.com/jiawei686/tokencompress\n# See source for mcpServers config block"
+}

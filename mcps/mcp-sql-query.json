@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sql-query",
+  "description": "An MCP server providing SQLite database access for AI agents, enabling SQL execution, schema inspection, CRUD operations, and data export.",
+  "source_repo": "AMEOBIUS-space/mcp-sql-query",
+  "source_url": "https://github.com/AMEOBIUS-space/mcp-sql-query",
+  "install": "# git clone --depth 1 https://github.com/AMEOBIUS-space/mcp-sql-query\n# See source for mcpServers config block"
+}

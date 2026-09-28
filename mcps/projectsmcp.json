@@ -1,0 +1,7 @@
+{
+  "name": "projectsmcp",
+  "description": "A plugin-based MCP platform providing tools for project file management, Git operations, browser automation, and command execution.",
+  "source_repo": "offdutysorcerer-code/ProjectsMCP",
+  "source_url": "https://github.com/offdutysorcerer-code/ProjectsMCP",
+  "install": "# git clone --depth 1 https://github.com/offdutysorcerer-code/ProjectsMCP\n# See source for mcpServers config block"
+}

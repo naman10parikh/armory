@@ -1,0 +1,7 @@
+{
+  "name": "thask",
+  "description": "MCP server that provides 25 tools for AI agents to query and modify a dependency graph, enabling impact analysis and provenance tracking for AI-assisted development.",
+  "source_repo": "kimgh06/Thask",
+  "source_url": "https://github.com/kimgh06/Thask",
+  "install": "# git clone --depth 1 https://github.com/kimgh06/Thask\n# See source for mcpServers config block"
+}

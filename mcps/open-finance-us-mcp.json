@@ -1,0 +1,7 @@
+{
+  "name": "open-finance-us-mcp",
+  "description": "A standalone MCP server wrapping Mastercard Open Finance US (Finicity) APIs for open banking operations, enabling financial data access and payment services.",
+  "source_repo": "orancummins/openfinance-mcp",
+  "source_url": "https://github.com/orancummins/openfinance-mcp",
+  "install": "npx -y openfinance-mcp"
+}

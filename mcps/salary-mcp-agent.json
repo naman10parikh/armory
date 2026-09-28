@@ -1,0 +1,7 @@
+{
+  "name": "salary-mcp-agent",
+  "description": "MCP server exposing Taiwan's MOPS salary data (2019-2025) via four read-only tools, enabling LLMs to query company salaries, industry stats, and trends under strict constraints.",
+  "source_repo": "yschang1688/salary-mcp-agent",
+  "source_url": "https://github.com/yschang1688/salary-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/yschang1688/salary-mcp-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stockprice",
+  "description": "MCP server that retrieves real-time stock price information from Yahoo Finance using the yahoo-finance2 API, supporting US and Japanese tickers.",
+  "source_repo": "motucraft/stock-mcp",
+  "source_url": "https://github.com/motucraft/stock-mcp",
+  "install": "npx -y stock-mcp"
+}

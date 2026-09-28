@@ -1,0 +1,7 @@
+{
+  "name": "blendkit-mcp-server",
+  "description": "Enables AI agents to search and download 3D assets (models, materials, HDRs, brushes) from the BlenderKit library.",
+  "source_repo": "RN0000/blendkit-mcp",
+  "source_url": "https://github.com/RN0000/blendkit-mcp",
+  "install": "npx -y blendkit-mcp"
+}

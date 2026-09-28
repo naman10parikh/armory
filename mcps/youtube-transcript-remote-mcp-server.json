@@ -1,0 +1,7 @@
+{
+  "name": "youtube-transcript-remote-mcp-server",
+  "description": "Enables Claude AI to extract transcripts from YouTube videos with zero local setup, supporting multi-language and all URL formats.",
+  "source_repo": "pandaconceptventures/youtube-transcript-mcp-pcv",
+  "source_url": "https://github.com/pandaconceptventures/youtube-transcript-mcp-pcv",
+  "install": "# git clone --depth 1 https://github.com/pandaconceptventures/youtube-transcript-mcp-pcv\n# See source for mcpServers config block"
+}

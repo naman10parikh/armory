@@ -1,0 +1,7 @@
+{
+  "name": "stagehand-repl-mcp",
+  "description": "Provides LLM agents with a persistent, scriptable browser using Stagehand and Playwright, exposing a single stagehand_eval tool for running JavaScript snippets and AI-driven browser automation.",
+  "source_repo": "srozov/stagehand-repl-mcp",
+  "source_url": "https://github.com/srozov/stagehand-repl-mcp",
+  "install": "npx -y stagehand-repl-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zalo-mcp",
+  "description": "Self-contained MCP server for Zalo that enables AI agents like Claude Code and Cursor to automate Zalo Personal and Official Accounts via a 1-click sandboxed deployment.",
+  "source_repo": "ardennguyen/zalo-mcp",
+  "source_url": "https://github.com/ardennguyen/zalo-mcp",
+  "install": "npx -y zalo-mcp"
+}

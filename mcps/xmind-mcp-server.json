@@ -1,0 +1,7 @@
+{
+  "name": "xmind-mcp-server",
+  "description": "Enables incremental editing of XMind mind maps using atomic tools for reading, creating, and surgically editing .xmind files.",
+  "source_repo": "sc0tfree/xmind-mcp",
+  "source_url": "https://github.com/sc0tfree/xmind-mcp",
+  "install": "npx -y xmind-mcp"
+}

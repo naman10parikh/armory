@@ -1,0 +1,7 @@
+{
+  "name": "amazing-clickup-mcp",
+  "description": "A comprehensive MCP server for the ClickUp API exposing 166 tools to manage Spaces, Folders, Lists, Tasks, Docs, and more, enabling LLMs to read and drive a ClickUp Workspace.",
+  "source_repo": "trustxai/clickup-mcp",
+  "source_url": "https://github.com/trustxai/clickup-mcp",
+  "install": "npx -y clickup-mcp"
+}

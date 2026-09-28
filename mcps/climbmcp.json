@@ -1,0 +1,7 @@
+{
+  "name": "climbmcp",
+  "description": "Enables Claude to access and search climbing book PDF chapters, with tools to list, retrieve, and find relevant chapters based on queries.",
+  "source_repo": "MateoGonzalezGomez/ClimbMCP",
+  "source_url": "https://github.com/MateoGonzalezGomez/ClimbMCP",
+  "install": "# git clone --depth 1 https://github.com/MateoGonzalezGomez/ClimbMCP\n# See source for mcpServers config block"
+}

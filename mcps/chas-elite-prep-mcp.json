@@ -1,0 +1,7 @@
+{
+  "name": "chas-elite-prep-mcp",
+  "description": "MCP server for preparing CHAS, SafeContractor, and Constructionline pre-qualification assessments, enabling readiness checks and policy audits.",
+  "source_repo": "CSOAI-ORG/chas-elite-prep-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/chas-elite-prep-mcp",
+  "install": "npx -y chas-elite-prep-mcp"
+}

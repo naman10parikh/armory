@@ -1,0 +1,7 @@
+{
+  "name": "bitcoin-monetary-data-mcp-server",
+  "description": "Exposes tools for AI agents to access honest economic data, including purchasing power comparisons, M2 vs CPI divergence, Bitcoin vs dollar performance, and current monetary stats.",
+  "source_repo": "Team23gm/Bitcoin-monetary-data-mcp",
+  "source_url": "https://github.com/Team23gm/Bitcoin-monetary-data-mcp",
+  "install": "npx -y Bitcoin-monetary-data-mcp"
+}

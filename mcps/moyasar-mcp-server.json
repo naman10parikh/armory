@@ -1,0 +1,7 @@
+{
+  "name": "moyasar-mcp-server",
+  "description": "Payments for AI agents. A Stripe-style MCP server for Moyasar — Saudi Arabia's payment gateway — that lets Claude create payment links, check transactions, and issue refunds in plain Arabic or English.",
+  "source_repo": "SoftwareSavants/moyasar-mcp",
+  "source_url": "https://github.com/SoftwareSavants/moyasar-mcp",
+  "install": "npx -y moyasar-mcp"
+}

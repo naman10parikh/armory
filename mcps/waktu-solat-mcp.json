@@ -1,0 +1,7 @@
+{
+  "name": "waktu-solat-mcp",
+  "description": "MCP server for Malaysian prayer times, providing tools to get daily and monthly prayer schedules, next prayer times, and zone listings via the api.waktusolat.app.",
+  "source_repo": "khrnchn/waktu-solat-mcp",
+  "source_url": "https://github.com/khrnchn/waktu-solat-mcp",
+  "install": "npx -y waktu-solat-mcp"
+}

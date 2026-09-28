@@ -1,0 +1,7 @@
+{
+  "name": "stock-research-data-foundation-mcp-server",
+  "description": "Provides 11 tools for stock research, including search, market history, financial statements, announcements, and data quality checks, with a local-first architecture using DuckDB and Parquet.",
+  "source_repo": "godermai/stock-research-foundation",
+  "source_url": "https://github.com/godermai/stock-research-foundation",
+  "install": "# git clone --depth 1 https://github.com/godermai/stock-research-foundation\n# See source for mcpServers config block"
+}

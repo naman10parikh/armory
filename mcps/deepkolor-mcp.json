@@ -1,0 +1,7 @@
+{
+  "name": "deepkolor-mcp",
+  "description": "An MCP server enabling AI image and video generation through DeepKolor's API with 'generate_image', 'generate_video', and 'get_task' tools for asynchronous media creation.",
+  "source_repo": "DeepKolor/deepkolor-mcp",
+  "source_url": "https://github.com/DeepKolor/deepkolor-mcp",
+  "install": "npx -y deepkolor-mcp"
+}

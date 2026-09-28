@@ -1,0 +1,7 @@
+{
+  "name": "telegram-reminder-mcp",
+  "description": "Enables users to manage Telegram reminders via natural language or commands, with features like setting, updating, deleting, and listing reminders, while ensuring multi-user privacy.",
+  "source_repo": "imvickykumar999/Telegram-Reminder-MCP",
+  "source_url": "https://github.com/imvickykumar999/Telegram-Reminder-MCP",
+  "install": "npx -y Telegram-Reminder-MCP"
+}

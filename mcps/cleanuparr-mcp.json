@@ -1,0 +1,7 @@
+{
+  "name": "cleanuparr-mcp",
+  "description": "MCP server that exposes Cleanuparr's REST API for inspecting status, history, statistics, jobs, and configuration, enabling natural language interaction with Cleanuparr.",
+  "source_repo": "SavageCore/cleanuparr-mcp",
+  "source_url": "https://github.com/SavageCore/cleanuparr-mcp",
+  "install": "npx -y cleanuparr-mcp"
+}

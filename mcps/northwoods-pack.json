@@ -1,0 +1,7 @@
+{
+  "name": "northwoods-pack",
+  "description": "Deploys a sovereign personal AI harness on your Cloudflare account, providing identity, memory with provenance, and a chat interface, plus MCP tools for external AI assistants to access your persistent memory and conduct contract.",
+  "source_repo": "NorthwoodsSentinel/northwoods-pack",
+  "source_url": "https://github.com/NorthwoodsSentinel/northwoods-pack",
+  "install": "# git clone --depth 1 https://github.com/NorthwoodsSentinel/northwoods-pack\n# See source for mcpServers config block"
+}

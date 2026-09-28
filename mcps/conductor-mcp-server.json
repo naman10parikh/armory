@@ -1,0 +1,7 @@
+{
+  "name": "conductor-mcp-server",
+  "description": "Enables AI agents to create, execute, and analyze workflows on a Conductor instance through natural language.",
+  "source_repo": "conductor-oss/conductor-mcp",
+  "source_url": "https://github.com/conductor-oss/conductor-mcp",
+  "install": "npx -y conductor-mcp"
+}

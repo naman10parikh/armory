@@ -1,0 +1,7 @@
+{
+  "name": "volter-tunnel-mcp",
+  "description": "Enables AI agents to manage account, usage, and abuse operations for the Volter tunnel relay.",
+  "source_repo": "volter-ai/volter-tunnel",
+  "source_url": "https://github.com/volter-ai/volter-tunnel",
+  "install": "# git clone --depth 1 https://github.com/volter-ai/volter-tunnel\n# See source for mcpServers config block"
+}

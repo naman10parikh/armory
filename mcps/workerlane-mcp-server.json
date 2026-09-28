@@ -1,0 +1,7 @@
+{
+  "name": "workerlane-mcp-server",
+  "description": "Enables any MCP-compatible agent to manage coworker agents with task queues, human approvals, schema-validated handoffs, memory, and trace logging, with local-first storage in ~/.workerlane.",
+  "source_repo": "talocode/workerlane",
+  "source_url": "https://github.com/talocode/workerlane",
+  "install": "# git clone --depth 1 https://github.com/talocode/workerlane\n# See source for mcpServers config block"
+}

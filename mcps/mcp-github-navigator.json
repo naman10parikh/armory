@@ -1,0 +1,7 @@
+{
+  "name": "mcp-github-navigator",
+  "description": "MCP server for AI agents to securely access GitHub data, including listing repositories and user profile info via the GitHub API.",
+  "source_repo": "RachitJava/mcp-github",
+  "source_url": "https://github.com/RachitJava/mcp-github",
+  "install": "# git clone --depth 1 https://github.com/RachitJava/mcp-github\n# See source for mcpServers config block"
+}

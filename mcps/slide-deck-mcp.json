@@ -1,0 +1,7 @@
+{
+  "name": "slide-deck-mcp",
+  "description": "Enables creating and managing AI-powered slide decks on deck.4hum.ai with tools to save, update, generate images, and list decks.",
+  "source_repo": "4hum-ai/slide-deck-skill",
+  "source_url": "https://github.com/4hum-ai/slide-deck-skill",
+  "install": "# git clone --depth 1 https://github.com/4hum-ai/slide-deck-skill\n# See source for mcpServers config block"
+}

@@ -1,6 +1,6 @@
 {
   "name": "node-jdbc-mcp-server",
-  "description": "Node JDBC MCP Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "darkSheep404/Node-JDBC-MCP-Server",
   "source_url": "https://mcp.so/server/Node-JDBC-MCP-Server/darkSheep404",
   "install": "npx -y Node-JDBC-MCP-Server"

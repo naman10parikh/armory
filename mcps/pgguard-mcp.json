@@ -1,0 +1,7 @@
+{
+  "name": "pgguard-mcp",
+  "description": "Read-only Postgres access with a policy gate that blocks writes and restricts visible tables and columns.",
+  "source_repo": "Azzaraell/pgguard-mcp",
+  "source_url": "https://github.com/Azzaraell/pgguard-mcp",
+  "install": "npx -y pgguard-mcp"
+}

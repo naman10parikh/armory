@@ -1,0 +1,7 @@
+{
+  "name": "github-project-info-mcp",
+  "description": "An MCP server that reads public GitHub Projects v2 boards (including item-level data like status and custom fields) without authentication, using official APIs and fallback methods for user-owned projects.",
+  "source_repo": "shubhtoy/github-project-info-mcp",
+  "source_url": "https://github.com/shubhtoy/github-project-info-mcp",
+  "install": "npx -y github-project-info-mcp"
+}

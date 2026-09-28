@@ -1,0 +1,7 @@
+{
+  "name": "envi-classic-remote-sensing",
+  "description": "Automates ENVI Classic remote sensing experiments on Windows by executing steps, capturing authentic screenshots, and generating formatted Word/PDF lab reports.",
+  "source_repo": "xuedai-mayi/envi-classic-remote-sensing",
+  "source_url": "https://github.com/xuedai-mayi/envi-classic-remote-sensing",
+  "install": "# git clone --depth 1 https://github.com/xuedai-mayi/envi-classic-remote-sensing\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "clickhouse-mcp",
+  "description": "Enables SQL query execution on ClickHouse databases with per-request connection switching via HTTP headers, supporting multi-tenant deployments.",
+  "source_repo": "stackblaze/clickhouse-mcp",
+  "source_url": "https://github.com/stackblaze/clickhouse-mcp",
+  "install": "npx -y clickhouse-mcp"
+}

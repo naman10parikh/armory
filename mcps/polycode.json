@@ -1,0 +1,7 @@
+{
+  "name": "polycode",
+  "description": "MCP server providing 13 tools to control opencode, Gemini CLI, and Qwen Code AI coding agents with session continuity and auth checking.",
+  "source_repo": "h19overflow/polycode",
+  "source_url": "https://github.com/h19overflow/polycode",
+  "install": "# git clone --depth 1 https://github.com/h19overflow/polycode\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "simple-invoicing-mcp",
+  "description": "Bridges to a simple_invoicing FastAPI backend, exposing invoice, product, ledger, inventory, buyer, and payment management as MCP tools for use with MCP-compatible clients.",
+  "source_repo": "nikhilb2/simple_invoicing-mcp",
+  "source_url": "https://github.com/nikhilb2/simple_invoicing-mcp",
+  "install": "npx -y simple_invoicing-mcp"
+}

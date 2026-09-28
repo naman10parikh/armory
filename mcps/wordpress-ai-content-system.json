@@ -1,0 +1,7 @@
+{
+  "name": "wordpress-ai-content-system",
+  "description": "Automates the entire WordPress content lifecycle: topic research, AI writing, real-time SEO audits, automatic internal linking, and JSON-LD structured data injection.",
+  "source_repo": "ssolis-ti/wordpress_content_ai_mcp",
+  "source_url": "https://github.com/ssolis-ti/wordpress_content_ai_mcp",
+  "install": "npx -y wordpress_content_ai_mcp"
+}

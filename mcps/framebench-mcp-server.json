@@ -1,0 +1,7 @@
+{
+  "name": "framebench-mcp-server",
+  "description": "Estimates FPS ranges for games on any GPU or Apple Silicon, identifies the limiting component, and provides settings levers to improve performance.",
+  "source_repo": "aistripes/framebench-mcp",
+  "source_url": "https://github.com/aistripes/framebench-mcp",
+  "install": "npx -y framebench-mcp"
+}

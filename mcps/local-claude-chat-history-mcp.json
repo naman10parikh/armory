@@ -1,0 +1,7 @@
+{
+  "name": "local-claude-chat-history-mcp",
+  "description": "Searches and browses local Claude Code and Cowork session histories stored on your machine, enabling questions about past work without uploading data.",
+  "source_repo": "daniellmorris/local-claude-chat-history-mcp",
+  "source_url": "https://github.com/daniellmorris/local-claude-chat-history-mcp",
+  "install": "npx -y local-claude-chat-history-mcp"
+}

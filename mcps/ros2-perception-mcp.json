@@ -1,0 +1,7 @@
+{
+  "name": "ros2-perception-mcp",
+  "description": "A read-only MCP server for bounded semantic inspection of ROS 2 perception systems, enabling discovery and metadata extraction from sensors such as cameras, depth sensors, and LiDARs without device configuration or actuation.",
+  "source_repo": "vagotec/ros2_perception_mcp",
+  "source_url": "https://github.com/vagotec/ros2_perception_mcp",
+  "install": "npx -y ros2_perception_mcp"
+}

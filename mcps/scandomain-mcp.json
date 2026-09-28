@@ -1,0 +1,7 @@
+{
+  "name": "scandomain-mcp",
+  "description": "MCP server that enables AI agents to search domain, IP, port, service, title, ICP, server header, and component assets via the SCANDOMAIN API using Quake-style DSL queries.",
+  "source_repo": "Batman0506/scandomain-mcp",
+  "source_url": "https://github.com/Batman0506/scandomain-mcp",
+  "install": "npx -y scandomain-mcp"
+}

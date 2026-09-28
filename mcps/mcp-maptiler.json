@@ -1,0 +1,7 @@
+{
+  "name": "mcp-maptiler",
+  "description": "Enables geocoding, reverse geocoding, elevation profiles, static map PNGs, and coordinate reprojection using MapTiler's OpenStreetMap data.",
+  "source_repo": "pipeworx-io/mcp-maptiler",
+  "source_url": "https://github.com/pipeworx-io/mcp-maptiler",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-maptiler\n# See source for mcpServers config block"
+}

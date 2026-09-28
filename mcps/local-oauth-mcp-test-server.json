@@ -1,0 +1,7 @@
+{
+  "name": "local-oauth-mcp-test-server",
+  "description": "A local test server that reproduces GitHub's OAuth behavior for debugging MCP OAuth provider configurations, supporting refresh tokens and auto-discovery.",
+  "source_repo": "gangadharrr/Test-MCP",
+  "source_url": "https://github.com/gangadharrr/Test-MCP",
+  "install": "npx -y Test-MCP"
+}

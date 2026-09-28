@@ -1,0 +1,7 @@
+{
+  "name": "lmstudio-websearch",
+  "description": "Enables DuckDuckGo web and image search, YouTube video search and playback, and IPTV channel search and playback as MCP tools directly within LM Studio.",
+  "source_repo": "yenonn/lmstudio-websearch",
+  "source_url": "https://github.com/yenonn/lmstudio-websearch",
+  "install": "# git clone --depth 1 https://github.com/yenonn/lmstudio-websearch\n# See source for mcpServers config block"
+}

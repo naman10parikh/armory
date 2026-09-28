@@ -1,0 +1,7 @@
+{
+  "name": "safe-key-mcp",
+  "description": "MCP server enabling AI agents to use secrets (API keys, tokens) via encrypted vault, executing HTTP/shell/SSH actions server-side while never exposing secret values to the AI.",
+  "source_repo": "Yormede/safe-key-mcp",
+  "source_url": "https://github.com/Yormede/safe-key-mcp",
+  "install": "npx -y safe-key-mcp"
+}

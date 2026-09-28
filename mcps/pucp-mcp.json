@@ -1,0 +1,7 @@
+{
+  "name": "pucp-mcp",
+  "description": "An MCP server kit that connects AI assistants to PUCP's Paideia and Campus Virtual portals, allowing students to query courses, materials, grades, schedules, and enrollment information locally with their own credentials.",
+  "source_repo": "Hellowda253/KIT-PUCP-MCP",
+  "source_url": "https://github.com/Hellowda253/KIT-PUCP-MCP",
+  "install": "npx -y KIT-PUCP-MCP"
+}

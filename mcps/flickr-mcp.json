@@ -1,0 +1,7 @@
+{
+  "name": "flickr-mcp",
+  "description": "Enables Claude to browse your Flickr photostream, retrieve direct image URLs, upload photos, and manage albums via the Model Context Protocol.",
+  "source_repo": "vulture-s/flickr-mcp",
+  "source_url": "https://github.com/vulture-s/flickr-mcp",
+  "install": "npx -y flickr-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-book-mcp-connector",
+  "description": "Enables ChatGPT to search for books via Algolia or mock data, returning rich book details.",
+  "source_repo": "sahilpate7/chatGPT-mcp-app",
+  "source_url": "https://github.com/sahilpate7/chatGPT-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/sahilpate7/chatGPT-mcp-app\n# See source for mcpServers config block"
+}

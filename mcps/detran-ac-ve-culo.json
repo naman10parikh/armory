@@ -1,0 +1,7 @@
+{
+  "name": "detran-ac-ve-culo",
+  "description": "MCP server for querying official vehicle data from DETRAN AC (Brazil) in a read-only manner, enabling natural language access to vehicle information.",
+  "source_repo": "mcp-dir/detran_ac_veiculo-mcp",
+  "source_url": "https://github.com/mcp-dir/detran_ac_veiculo-mcp",
+  "install": "npx -y detran_ac_veiculo-mcp"
+}

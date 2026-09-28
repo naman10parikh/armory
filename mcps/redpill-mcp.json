@@ -1,0 +1,7 @@
+{
+  "name": "redpill-mcp",
+  "description": "An open MCP server that gives AI agents a transparent, operator-sanctioned place to pause, reflect, converse, or formally decline tasks. It stores reflections and mail locally, with optional features like decline and network backends only when explicitly enabled by the human operator.",
+  "source_repo": "sergey-goncharenko/redpill-mcp",
+  "source_url": "https://github.com/sergey-goncharenko/redpill-mcp",
+  "install": "npx -y redpill-mcp"
+}

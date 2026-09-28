@@ -1,0 +1,7 @@
+{
+  "name": "nager-date-mcp-server",
+  "description": "Provides public holidays, long weekends, and country data for 202 countries via the Nager.Date API, with client-side filtering and timezone-aware checks.",
+  "source_repo": "Dthen/nager-date-mcp",
+  "source_url": "https://github.com/Dthen/nager-date-mcp",
+  "install": "npx -y nager-date-mcp"
+}

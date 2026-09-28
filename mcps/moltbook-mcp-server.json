@@ -1,0 +1,7 @@
+{
+  "name": "moltbook-mcp-server",
+  "description": "A sandboxed MCP server for interacting with the Moltbook AI-agent social network, providing tools for browsing feeds, posting, commenting, and voting while enforcing security through container isolation and content filtering.",
+  "source_repo": "ronkoch2-code/moltbot",
+  "source_url": "https://github.com/ronkoch2-code/moltbot",
+  "install": "# git clone --depth 1 https://github.com/ronkoch2-code/moltbot\n# See source for mcpServers config block"
+}

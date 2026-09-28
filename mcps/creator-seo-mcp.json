@@ -1,0 +1,7 @@
+{
+  "name": "creator-seo-mcp",
+  "description": "Connects Google Search Console to your page content and ranks SEO opportunities by estimated revenue, helping content creators prioritize fixes that pay most.",
+  "source_repo": "Yoshyaes/creator-seo-mcp",
+  "source_url": "https://github.com/Yoshyaes/creator-seo-mcp",
+  "install": "npx -y creator-seo-mcp"
+}

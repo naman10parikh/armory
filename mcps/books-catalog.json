@@ -1,0 +1,7 @@
+{
+  "name": "books-catalog",
+  "description": "A well-documented MCP server that exposes a local SQLite catalog of public-domain books through tools like search, get, filter by genre, top-rated, and catalog stats.",
+  "source_repo": "cggazca/mcp-quickstart",
+  "source_url": "https://github.com/cggazca/mcp-quickstart",
+  "install": "# git clone --depth 1 https://github.com/cggazca/mcp-quickstart\n# See source for mcpServers config block"
+}

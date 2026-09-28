@@ -1,0 +1,7 @@
+{
+  "name": "mcptools",
+  "description": "An all-in-one MCP server for local LLMs that provides live web access, math, shell/code execution, filesystem access, memory, and RAG over local files using LM Studio embeddings.",
+  "source_repo": "highercomve/mcptools",
+  "source_url": "https://github.com/highercomve/mcptools",
+  "install": "# git clone --depth 1 https://github.com/highercomve/mcptools\n# See source for mcpServers config block"
+}

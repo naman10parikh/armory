@@ -1,0 +1,7 @@
+{
+  "name": "gene-family-mcp",
+  "description": "MCP server for gene family analysis, providing tools for FASTA validation and PlantCARE cis-element prediction, with backend task management for AI agents.",
+  "source_repo": "xxay-16/gene-family-mcp",
+  "source_url": "https://github.com/xxay-16/gene-family-mcp",
+  "install": "npx -y gene-family-mcp"
+}

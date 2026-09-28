@@ -1,0 +1,7 @@
+{
+  "name": "hive-mcp-audit-readiness",
+  "description": "Computes multi-jurisdictional AI compliance readiness scores with sourced penalty math, enabling gap analysis and audit tier recommendations.",
+  "source_repo": "srotzin/hive-mcp-audit-readiness",
+  "source_url": "https://github.com/srotzin/hive-mcp-audit-readiness",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-audit-readiness\n# See source for mcpServers config block"
+}

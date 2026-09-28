@@ -1,0 +1,7 @@
+{
+  "name": "gemini-grounding",
+  "description": "An MCP server that provides real-time information access using Google Gemini's grounding capabilities, enabling search for current information, developer resources, documentation, and Reddit discussions.",
+  "source_repo": "epilande/gemini-grounding",
+  "source_url": "https://github.com/epilande/gemini-grounding",
+  "install": "# git clone --depth 1 https://github.com/epilande/gemini-grounding\n# See source for mcpServers config block"
+}

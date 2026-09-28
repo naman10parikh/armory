@@ -1,0 +1,7 @@
+{
+  "name": "cachyos-mcp",
+  "description": "All-in-one Arch/CachyOS deep system control MCP server. It provides pacman + AUR package intelligence, system updates, and bundles network and sysprobe tools for full machine visibility and control.",
+  "source_repo": "Raindancer118/cachyos-mcp",
+  "source_url": "https://github.com/Raindancer118/cachyos-mcp",
+  "install": "npx -y cachyos-mcp"
+}

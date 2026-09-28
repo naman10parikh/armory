@@ -1,0 +1,7 @@
+{
+  "name": "mimo-multimodal-understanding-mcp-server",
+  "description": "Integrates Xiaomi MiMo's multimodal API to enable understanding of images, audio, and video through natural language prompts.",
+  "source_repo": "ChanthMiao/MiMo-Multimodal-Understanding-MCP",
+  "source_url": "https://github.com/ChanthMiao/MiMo-Multimodal-Understanding-MCP",
+  "install": "npx -y MiMo-Multimodal-Understanding-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arknights-intelligence-mcp",
+  "description": "Provides read-only Arknights intelligence over MCP, enabling structured queries about stages, enemies, operators, and modules with region tagging and evidence-backed analysis. It uses versioned SQLite snapshots and never fetches upstream data at query time.",
+  "source_repo": "rendyuwu/arknights-mcp",
+  "source_url": "https://github.com/rendyuwu/arknights-mcp",
+  "install": "npx -y arknights-mcp"
+}

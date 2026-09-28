@@ -1,0 +1,7 @@
+{
+  "name": "mcp-comfy-ui-builder",
+  "description": "Enables discovery of ComfyUI nodes and building/managing workflows with real-time execution via WebSocket. Provides 50+ tools for node discovery, workflow building, template usage, model management, and batch/chain execution.",
+  "source_repo": "MIt9/mcp-comfy-ui-builder",
+  "source_url": "https://github.com/MIt9/mcp-comfy-ui-builder",
+  "install": "# git clone --depth 1 https://github.com/MIt9/mcp-comfy-ui-builder\n# See source for mcpServers config block"
+}

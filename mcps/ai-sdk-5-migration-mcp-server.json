@@ -1,0 +1,7 @@
+{
+  "name": "ai-sdk-5-migration-mcp-server",
+  "description": "Helps migrate projects from AI SDK 4.x to 5.0 by generating a migration checklist and searching the official migration guide for code and data changes.",
+  "source_repo": "vercel-labs/ai-sdk-5-migration-mcp-server",
+  "source_url": "https://github.com/vercel-labs/ai-sdk-5-migration-mcp-server",
+  "install": "npx -y ai-sdk-5-migration-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "screen-capture-mcp",
+  "description": "An MCP server that enables Claude Code and other MCP clients to take screenshots of the full screen or specific windows, with support for repeated captures over intervals.",
+  "source_repo": "kmoulder/screen-capture-mcp",
+  "source_url": "https://github.com/kmoulder/screen-capture-mcp",
+  "install": "npx -y screen-capture-mcp"
+}

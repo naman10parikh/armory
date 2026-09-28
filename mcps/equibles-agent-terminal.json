@@ -1,0 +1,7 @@
+{
+  "name": "equibles-agent-terminal",
+  "description": "Provides financial data and market filings via Streamable HTTP tools. Enables AI agents to resolve equity entities, fetch SEC filings, compare institutional holders, and export finance receipts.",
+  "source_repo": "clauxel/equibles-agent-terminal-mcp",
+  "source_url": "https://github.com/clauxel/equibles-agent-terminal-mcp",
+  "install": "npx -y equibles-agent-terminal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "code-memory-rs",
+  "description": "Enables local semantic code search across repositories using natural language, with AST-aware chunking and hybrid vector/FTS5 retrieval.",
+  "source_repo": "juandisay/mcp-code-search-rs",
+  "source_url": "https://github.com/juandisay/mcp-code-search-rs",
+  "install": "# git clone --depth 1 https://github.com/juandisay/mcp-code-search-rs\n# See source for mcpServers config block"
+}

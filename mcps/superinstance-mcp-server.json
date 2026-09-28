@@ -1,0 +1,7 @@
+{
+  "name": "superinstance-mcp-server",
+  "description": "Enables Claude Code to query and control the SuperInstance fleet, including fleet status, conservation law checks, semantic search, and agent registry.",
+  "source_repo": "SuperInstance/superinstance-mcp",
+  "source_url": "https://github.com/SuperInstance/superinstance-mcp",
+  "install": "npx -y superinstance-mcp"
+}

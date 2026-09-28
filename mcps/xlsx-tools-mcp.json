@@ -1,0 +1,7 @@
+{
+  "name": "xlsx-tools-mcp",
+  "description": "MCP server for accurately reading and writing Excel .xlsx files while preserving structure, styles, and formulas. Provides tools for inspecting, editing, and aggregating spreadsheet data, with optional LibreOffice recalculation.",
+  "source_repo": "ruriazz/xlsx-tools-mcp",
+  "source_url": "https://github.com/ruriazz/xlsx-tools-mcp",
+  "install": "npx -y xlsx-tools-mcp"
+}

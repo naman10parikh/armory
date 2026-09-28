@@ -1,0 +1,7 @@
+{
+  "name": "she-mcp",
+  "description": "MCP server for querying Korean occupational safety, health, and chemical regulations, including MSDS, KOSHA GUIDE, and legal information.",
+  "source_repo": "zxc8661/safety-health-chemical-mcp",
+  "source_url": "https://github.com/zxc8661/safety-health-chemical-mcp",
+  "install": "npx -y safety-health-chemical-mcp"
+}

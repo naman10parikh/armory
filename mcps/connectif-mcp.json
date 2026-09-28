@@ -1,0 +1,7 @@
+{
+  "name": "connectif-mcp",
+  "description": "Minimal MCP server exposing the Connectif HTTP API to MCP clients over stdio, enabling operations like contacts, purchases, products, exports, imports, workflows, and more.",
+  "source_repo": "Yoryoboy/connectif-mcp",
+  "source_url": "https://github.com/Yoryoboy/connectif-mcp",
+  "install": "npx -y connectif-mcp"
+}

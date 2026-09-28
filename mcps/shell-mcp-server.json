@@ -1,0 +1,7 @@
+{
+  "name": "shell-mcp-server",
+  "description": "Enables safe shell command execution with configurable directory and command restrictions, allowing Claude Desktop to run shell commands securely.",
+  "source_repo": "heffrey78/shell-mcp-server",
+  "source_url": "https://github.com/heffrey78/shell-mcp-server",
+  "install": "npx -y shell-mcp-server"
+}

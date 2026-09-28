@@ -1,0 +1,7 @@
+{
+  "name": "open-brain-mcp",
+  "description": "A self-hosted second brain MCP server that enables capturing thoughts with deduplication and semantic search using local embeddings and PostgreSQL with pgvector, all running on your own hardware.",
+  "source_repo": "lazo99/open-brain-mcp",
+  "source_url": "https://github.com/lazo99/open-brain-mcp",
+  "install": "npx -y open-brain-mcp"
+}

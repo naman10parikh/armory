@@ -1,0 +1,7 @@
+{
+  "name": "korean-secondary-learning-map-mcp",
+  "description": "MCP server enabling AI to search and retrieve Korean secondary school (middle/high) 2022 revised curriculum learning graphs, including achievement standards, topics, prerequisites, and transitions, via 11 tools.",
+  "source_repo": "raphysicst-create/korean-secondary-learning-map-mcp",
+  "source_url": "https://github.com/raphysicst-create/korean-secondary-learning-map-mcp",
+  "install": "npx -y korean-secondary-learning-map-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "differino-mcp",
+  "description": "MCP server for Differino that lets AI agents compare PDF, DOCX, and TXT documents, with tools for visual and text diffs, summaries, exports, and account balance checks.",
+  "source_repo": "sweetcucumbersalad/differino-mcp",
+  "source_url": "https://github.com/sweetcucumbersalad/differino-mcp",
+  "install": "npx -y differino-mcp"
+}

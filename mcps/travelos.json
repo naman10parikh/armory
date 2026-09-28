@@ -1,0 +1,7 @@
+{
+  "name": "travelos",
+  "description": "Enables searching TGV Max train journeys across multiple departure stations with scheduling constraints, and resolving SNCF station names, directly through natural language.",
+  "source_repo": "NicoLeblanc/travelos",
+  "source_url": "https://github.com/NicoLeblanc/travelos",
+  "install": "# git clone --depth 1 https://github.com/NicoLeblanc/travelos\n# See source for mcpServers config block"
+}

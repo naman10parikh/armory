@@ -1,0 +1,7 @@
+{
+  "name": "b4n1-web",
+  "description": "Ultra-lightweight headless browser for AI agents. Provides MCP tools for navigating URLs, extracting structured content, and building autonomous agent workflows.",
+  "source_repo": "B4N1-com/b4n1-web",
+  "source_url": "https://github.com/B4N1-com/b4n1-web",
+  "install": "# git clone --depth 1 https://github.com/B4N1-com/b4n1-web\n# See source for mcpServers config block"
+}

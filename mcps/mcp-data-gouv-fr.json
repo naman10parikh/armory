@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-gouv-fr",
+  "description": "Enables discovery and inspection of French public open data on data.gouv.fr, including datasets, resources, organizations, and dataservices via natural language.",
+  "source_repo": "Hug0x0/mcp-data-gouv-fr",
+  "source_url": "https://github.com/Hug0x0/mcp-data-gouv-fr",
+  "install": "# git clone --depth 1 https://github.com/Hug0x0/mcp-data-gouv-fr\n# See source for mcpServers config block"
+}

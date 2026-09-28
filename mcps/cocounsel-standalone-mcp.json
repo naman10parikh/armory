@@ -1,0 +1,7 @@
+{
+  "name": "cocounsel-standalone-mcp",
+  "description": "MCP server enabling natural language queries across CoCounsel customer insights data sources, including Gong calls, NPS feedback, skills feedback, support cases, Teams messages, and SharePoint VOC documents.",
+  "source_repo": "SahithiAlavelliTR/cocounsel_standalone_mcp",
+  "source_url": "https://github.com/SahithiAlavelliTR/cocounsel_standalone_mcp",
+  "install": "npx -y cocounsel_standalone_mcp"
+}

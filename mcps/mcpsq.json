@@ -1,0 +1,7 @@
+{
+  "name": "mcpsq",
+  "description": "A simple MCP server to discover and manage MCP servers. Provides tools to find, add, list, and remove MCP server configurations for Cursor.",
+  "source_repo": "xinbenlv/mcpsq",
+  "source_url": "https://github.com/xinbenlv/mcpsq",
+  "install": "# git clone --depth 1 https://github.com/xinbenlv/mcpsq\n# See source for mcpServers config block"
+}

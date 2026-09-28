@@ -1,0 +1,7 @@
+{
+  "name": "looplens-mcp",
+  "description": "An MCP server for detecting retry loops and analyzing iteration patterns in agentic coding workflows, providing structured debugging intelligence to improve repair attempts.",
+  "source_repo": "musaceylan/looplens-mcp",
+  "source_url": "https://github.com/musaceylan/looplens-mcp",
+  "install": "npx -y looplens-mcp"
+}

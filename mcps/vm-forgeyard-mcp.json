@@ -1,0 +1,7 @@
+{
+  "name": "vm-forgeyard-mcp",
+  "description": "HTTP MCP adapter for requesting VMs and inspecting state. Part of the vm-forgeyard KVM control plane for test and development virtual machines.",
+  "source_repo": "idle-infer-dev/vm-forgeyard",
+  "source_url": "https://github.com/idle-infer-dev/vm-forgeyard",
+  "install": "# git clone --depth 1 https://github.com/idle-infer-dev/vm-forgeyard\n# See source for mcpServers config block"
+}

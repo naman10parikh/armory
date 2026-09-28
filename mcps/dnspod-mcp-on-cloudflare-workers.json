@@ -1,0 +1,7 @@
+{
+  "name": "dnspod-mcp-on-cloudflare-workers",
+  "description": "Enables remote MCP access to Tencent Cloud DNSPod DNS management through Cloudflare Workers, with OAuth authorization and support for domain and record operations.",
+  "source_repo": "zfx-t/dnspod-mcp-workers",
+  "source_url": "https://github.com/zfx-t/dnspod-mcp-workers",
+  "install": "# git clone --depth 1 https://github.com/zfx-t/dnspod-mcp-workers\n# See source for mcpServers config block"
+}

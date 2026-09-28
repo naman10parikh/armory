@@ -1,0 +1,7 @@
+{
+  "name": "affinity-creative-mcp",
+  "description": "Enables automation of Affinity Photo, Designer, and Publisher from MCP clients, supporting document creation, layer editing, text replacement, export, and more via safe, validated tools.",
+  "source_repo": "enoyola/affinity-creative-mcp",
+  "source_url": "https://github.com/enoyola/affinity-creative-mcp",
+  "install": "npx -y affinity-creative-mcp"
+}

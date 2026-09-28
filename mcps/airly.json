@@ -1,0 +1,7 @@
+{
+  "name": "airly",
+  "description": "Enables natural language interaction with air quality data from Airly, including real-time measurements, nearby stations, and forecasts.",
+  "source_repo": "jsynowiec/mcp-server-airly",
+  "source_url": "https://github.com/jsynowiec/mcp-server-airly",
+  "install": "# git clone --depth 1 https://github.com/jsynowiec/mcp-server-airly\n# See source for mcpServers config block"
+}

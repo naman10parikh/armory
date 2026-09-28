@@ -1,0 +1,7 @@
+{
+  "name": "secops-agent-triage",
+  "description": "Enables AI agents to perform security alert triage by ingesting raw logs, extracting IOCs, querying threat intelligence sources, and generating structured NIST/MITRE assessments with reasoning traces.",
+  "source_repo": "drummer475-94/secops-agent-triage",
+  "source_url": "https://github.com/drummer475-94/secops-agent-triage",
+  "install": "# git clone --depth 1 https://github.com/drummer475-94/secops-agent-triage\n# See source for mcpServers config block"
+}

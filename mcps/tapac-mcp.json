@@ -1,0 +1,7 @@
+{
+  "name": "tapac-mcp",
+  "description": "A native MCP server for real-time B2B contact finding and SMTP email validation, scraping company websites, Discord, and Telegram to deliver live, verified contacts that AI agents like Claude and Cursor can query directly.",
+  "source_repo": "axelfreeman/tapac-mcp",
+  "source_url": "https://github.com/axelfreeman/tapac-mcp",
+  "install": "npx -y tapac-mcp"
+}

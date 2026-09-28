@@ -1,0 +1,7 @@
+{
+  "name": "sas-score-mcp-serverjs",
+  "description": "This MCP server enables natural language scoring with SAS Viya, allowing users to execute prebuilt SAS code, models, and job definitions seamlessly.",
+  "source_repo": "sassoftware/sas-score-mcp-serverjs",
+  "source_url": "https://github.com/sassoftware/sas-score-mcp-serverjs",
+  "install": "# git clone --depth 1 https://github.com/sassoftware/sas-score-mcp-serverjs\n# See source for mcpServers config block"
+}

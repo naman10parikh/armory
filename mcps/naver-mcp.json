@@ -1,0 +1,7 @@
+{
+  "name": "naver-mcp",
+  "description": "Naver Search API + Datalab API MCP server with 19 tools for Korean web search and trend analysis.",
+  "source_repo": "leedw80/naver-mcp",
+  "source_url": "https://github.com/leedw80/naver-mcp",
+  "install": "npx -y naver-mcp"
+}

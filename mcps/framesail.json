@@ -1,0 +1,7 @@
+{
+  "name": "framesail",
+  "description": "Create long-form (faceless YouTube) videos end to end from any MCP client: script, locked character references, storyboard, voiceover, and final video editing — with characters and style held consistent across every shot. Making long-form AI video today means 8+ tabs stitched by hand — an LLM for th",
+  "source_repo": "",
+  "source_url": "https://framesail.com/developers",
+  "install": "# git clone --depth 1 https://framesail.com/developers\n# See source for mcpServers config block"
+}

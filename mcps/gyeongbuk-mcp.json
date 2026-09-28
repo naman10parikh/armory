@@ -1,0 +1,7 @@
+{
+  "name": "gyeongbuk-mcp",
+  "description": "Enables AI agents to query Gyeongbuk public data such as hospitals, bus stops, traditional markets, population demographics, and regional safety grades through FastMCP.",
+  "source_repo": "JunctionX-Korea-2026-JoyRide/gyeongbuk-mcp",
+  "source_url": "https://github.com/JunctionX-Korea-2026-JoyRide/gyeongbuk-mcp",
+  "install": "npx -y gyeongbuk-mcp"
+}

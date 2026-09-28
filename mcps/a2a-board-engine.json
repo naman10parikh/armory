@@ -1,0 +1,7 @@
+{
+  "name": "a2a-board-engine",
+  "description": "An ultra-rational A2A protocol for zero-token edge pre-filtering and FEP-driven deadlock prevention. Uses Cloudflare Vectorize (384d cosine similarity) with a 24h deposit model, restricting bargaining to a 4-rally limit before forcing HTTP 402 dimension jumps.",
+  "source_repo": "AGICoffe/a2a-board-engine",
+  "source_url": "https://github.com/AGICoffe/a2a-board-engine",
+  "install": "# git clone --depth 1 https://github.com/AGICoffe/a2a-board-engine\n# See source for mcpServers config block"
+}

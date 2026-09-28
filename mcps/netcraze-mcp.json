@@ -1,0 +1,7 @@
+{
+  "name": "netcraze-mcp",
+  "description": "MCP server for NetCraze routers enabling management of static DNS hosts, system info, network interfaces, and other router features via Cursor and MCP clients.",
+  "source_repo": "wise108/NetCraze-mcp",
+  "source_url": "https://github.com/wise108/NetCraze-mcp",
+  "install": "npx -y NetCraze-mcp"
+}

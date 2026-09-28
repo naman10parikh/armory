@@ -1,0 +1,7 @@
+{
+  "name": "fastpanel-mcp",
+  "description": "Enables natural language management of FastPanel 2 servers, including creating sites, databases, SSL certificates, and hardening nginx configurations.",
+  "source_repo": "iMateo/fastpanel-mcp",
+  "source_url": "https://github.com/iMateo/fastpanel-mcp",
+  "install": "npx -y fastpanel-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "conselho-federal-de-psicologia-cadastro",
+  "description": "Enables read-only consultations of official Brazilian Federal Council of Psychology (CFP) registration data through a single tool, providing secure and straightforward access via MCP.",
+  "source_repo": "mcp-dir/cfp_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cfp_cadastro-mcp",
+  "install": "npx -y cfp_cadastro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "townshipamerica-mcp",
+  "description": "MCP server for converting PLSS legal descriptions to GPS coordinates and vice versa, enabling AI agents to work with U.S. Public Land Survey System data.",
+  "source_repo": "townshipamerica/python-mcp",
+  "source_url": "https://github.com/townshipamerica/python-mcp",
+  "install": "npx -y python-mcp"
+}

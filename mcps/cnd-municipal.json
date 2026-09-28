@@ -1,0 +1,7 @@
+{
+  "name": "cnd-municipal",
+  "description": "Emits municipal negative debt certificates (Certidão Negativa de Débitos) for individuals or companies using CPF/CNPJ, municipal registration, and municipality. Read-only MCP server with one tool, works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/cnd_municipal-mcp",
+  "source_url": "https://github.com/mcp-dir/cnd_municipal-mcp",
+  "install": "npx -y cnd_municipal-mcp"
+}

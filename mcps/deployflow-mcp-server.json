@@ -1,0 +1,7 @@
+{
+  "name": "deployflow-mcp-server",
+  "description": "An MCP server that provides deterministic deployment-safety analysis tools, enabling AI agents to run checks on migration safety, task hygiene, and deploy readiness.",
+  "source_repo": "charan-pagolu/deployflow-mcp",
+  "source_url": "https://github.com/charan-pagolu/deployflow-mcp",
+  "install": "npx -y deployflow-mcp"
+}

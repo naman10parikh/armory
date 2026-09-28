@@ -1,0 +1,7 @@
+{
+  "name": "home-slice-mcp",
+  "description": "MCP server providing mortgage calculation tools and live interest rates from Home Slice.",
+  "source_repo": "sgoley/home-slice-mcp",
+  "source_url": "https://github.com/sgoley/home-slice-mcp",
+  "install": "npx -y home-slice-mcp"
+}

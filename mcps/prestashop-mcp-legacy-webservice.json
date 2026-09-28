@@ -1,0 +1,7 @@
+{
+  "name": "prestashop-mcp-legacy-webservice",
+  "description": "Enables AI assistants to read and manage PrestaShop catalogs via the legacy WebService API, covering products, categories, stock, and more across PrestaShop 1.6-9. Provides 45 tools for CRUD operations and read-only generic access.",
+  "source_repo": "Breczek/prestashop-mcp-legacy",
+  "source_url": "https://github.com/Breczek/prestashop-mcp-legacy",
+  "install": "# git clone --depth 1 https://github.com/Breczek/prestashop-mcp-legacy\n# See source for mcpServers config block"
+}

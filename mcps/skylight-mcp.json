@@ -1,0 +1,7 @@
+{
+  "name": "skylight-mcp",
+  "description": "MCP server for Skylight Calendar family hub, providing over 100 tools to manage events, lists, chores, meals, messages, albums, and device settings.",
+  "source_repo": "chrischall/skylight-mcp",
+  "source_url": "https://github.com/chrischall/skylight-mcp",
+  "install": "npx -y skylight-mcp"
+}

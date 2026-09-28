@@ -1,0 +1,7 @@
+{
+  "name": "bitbucket-python-mcp",
+  "description": "An MCP server for BitBucket Cloud operations that enables AI agents to manage repositories, branches, pull requests, and search code.",
+  "source_repo": "clikader/bitbucket-python-mcp",
+  "source_url": "https://github.com/clikader/bitbucket-python-mcp",
+  "install": "npx -y bitbucket-python-mcp"
+}

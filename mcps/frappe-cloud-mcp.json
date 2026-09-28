@@ -1,0 +1,7 @@
+{
+  "name": "frappe-cloud-mcp",
+  "description": "An MCP server for the Frappe Cloud control plane that lets agents manage sites, bench groups, servers, backups, deploys, logs, analytics, and billing. It provides read, write, and optional destructive tools for operating Frappe Cloud hosting infrastructure.",
+  "source_repo": "muthanii/Frappe-Cloud-MCP",
+  "source_url": "https://github.com/muthanii/Frappe-Cloud-MCP",
+  "install": "npx -y Frappe-Cloud-MCP"
+}

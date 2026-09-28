@@ -1,0 +1,7 @@
+{
+  "name": "user-context-mcp-server",
+  "description": "Exposes a developer's local context (communication preferences, stack, repos, memory models) to AI agents via MCP tools and resources, enabling them to bootstrap with local guidelines and reduce context hallucination.",
+  "source_repo": "HappyMonkeyAI/UserContextMCPServer",
+  "source_url": "https://github.com/HappyMonkeyAI/UserContextMCPServer",
+  "install": "# git clone --depth 1 https://github.com/HappyMonkeyAI/UserContextMCPServer\n# See source for mcpServers config block"
+}

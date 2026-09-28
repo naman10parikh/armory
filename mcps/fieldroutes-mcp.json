@@ -1,0 +1,7 @@
+{
+  "name": "fieldroutes-mcp",
+  "description": "MCP server for the FieldRoutes pest-control / lawn-care operations platform — talk to your data from Claude, Cursor, or any MCP client.",
+  "source_repo": "sanjibani/fieldroutes-mcp",
+  "source_url": "https://github.com/sanjibani/fieldroutes-mcp",
+  "install": "npx -y fieldroutes-mcp"
+}

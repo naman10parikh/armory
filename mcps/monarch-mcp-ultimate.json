@@ -1,0 +1,7 @@
+{
+  "name": "monarch-mcp-ultimate",
+  "description": "The most capable Monarch Money MCP server, merging the best features from all known implementations into one clean TypeScript project. It provides 47 tools for comprehensive personal finance management including transactions, budgets, rules, merchant management, and intelligence analysis.",
+  "source_repo": "oyemecarnal/monarch-mcp-ultimate",
+  "source_url": "https://github.com/oyemecarnal/monarch-mcp-ultimate",
+  "install": "# git clone --depth 1 https://github.com/oyemecarnal/monarch-mcp-ultimate\n# See source for mcpServers config block"
+}

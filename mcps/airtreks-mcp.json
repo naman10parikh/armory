@@ -1,0 +1,7 @@
+{
+  "name": "airtreks-mcp",
+  "description": "Around the World and Complex Must-Stop Airfare and routing MCP",
+  "source_repo": "SEKeener/airtreks-mcp",
+  "source_url": "https://github.com/SEKeener/airtreks-mcp",
+  "install": "npx -y airtreks-mcp"
+}

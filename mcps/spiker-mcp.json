@@ -1,0 +1,7 @@
+{
+  "name": "spiker-mcp",
+  "description": "An MCP server that brings the Ikejime philosophy to coding, helping eliminate technical debt by killing ambiguity, purging dead code, isolating dependencies, and more.",
+  "source_repo": "JohnnytheShark/spiker-mcp",
+  "source_url": "https://github.com/JohnnytheShark/spiker-mcp",
+  "install": "npx -y spiker-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openwrt-network-diagnostics-mcp",
+  "description": "A read-only MCP server for OpenWrt routers with Nikki and Mihomo that provides diagnostics like network snapshots, flow inspection, and packet capture to help agents troubleshoot network issues.",
+  "source_repo": "gomixo/openwrt-network-diagnostics-mcp",
+  "source_url": "https://github.com/gomixo/openwrt-network-diagnostics-mcp",
+  "install": "npx -y openwrt-network-diagnostics-mcp"
+}

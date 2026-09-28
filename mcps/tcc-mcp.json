@@ -1,0 +1,7 @@
+{
+  "name": "tcc-mcp",
+  "description": "MCP server for academic writing and review of Brazilian undergraduate theses (TCC) following ABNT standards. Enables article search, PDF reading, citation management, assisted writing, review, validation, and PDF compilation.",
+  "source_repo": "josemurilors/ABNT-MCP",
+  "source_url": "https://github.com/josemurilors/ABNT-MCP",
+  "install": "npx -y ABNT-MCP"
+}

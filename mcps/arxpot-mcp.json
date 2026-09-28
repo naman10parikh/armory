@@ -1,0 +1,7 @@
+{
+  "name": "arxpot-mcp",
+  "description": "A remote MCP server for the Arxpot processing core, enabling music search, metadata retrieval, and download management with remote storage delivery.",
+  "source_repo": "Happyfunnysad/arxpot-mcp",
+  "source_url": "https://github.com/Happyfunnysad/arxpot-mcp",
+  "install": "npx -y arxpot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-medprice-ai",
+  "description": "A hosted MCP server exposing US hospital chargemaster cost data to AI assistants.",
+  "source_repo": "medprice-ai/mcp-medprice-ai",
+  "source_url": "https://github.com/medprice-ai/mcp-medprice-ai",
+  "install": "# git clone --depth 1 https://github.com/medprice-ai/mcp-medprice-ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-todo-demo",
+  "description": "A minimal MCP server that provides an interactive to-do list with checkboxes in chat, demonstrating MCP Apps UI resource integration and tool-based state updates.",
+  "source_repo": "vishaldodiya/mcp-ui",
+  "source_url": "https://github.com/vishaldodiya/mcp-ui",
+  "install": "# git clone --depth 1 https://github.com/vishaldodiya/mcp-ui\n# See source for mcpServers config block"
+}

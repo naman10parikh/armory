@@ -1,0 +1,7 @@
+{
+  "name": "calendarbridge",
+  "description": "MCP server that connects ChatGPT to Apple Calendar via a local Mac agent, enabling event listing, searching, and creation while keeping data on your machine.",
+  "source_repo": "IsaiahDupree/calendar-bridge",
+  "source_url": "https://github.com/IsaiahDupree/calendar-bridge",
+  "install": "# git clone --depth 1 https://github.com/IsaiahDupree/calendar-bridge\n# See source for mcpServers config block"
+}

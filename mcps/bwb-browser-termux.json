@@ -1,0 +1,7 @@
+{
+  "name": "bwb-browser-termux",
+  "description": "A lightweight browser automation MCP server using raw Chrome DevTools Protocol, enabling web navigation, screenshots, and DOM interaction without heavy dependencies, and working on Termux/Android.",
+  "source_repo": "krshforever/bwb-browser-termux",
+  "source_url": "https://github.com/krshforever/bwb-browser-termux",
+  "install": "# git clone --depth 1 https://github.com/krshforever/bwb-browser-termux\n# See source for mcpServers config block"
+}

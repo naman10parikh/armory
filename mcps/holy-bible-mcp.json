@@ -1,0 +1,7 @@
+{
+  "name": "holy-bible-mcp",
+  "description": "Universal Multilingual Bible MCP Server (800+ languages, 11.9M verses, 100% offline, zero-latency FTS5, Merkle proof)",
+  "source_repo": "grizlizora/holy-bible-mcp",
+  "source_url": "https://github.com/grizlizora/holy-bible-mcp",
+  "install": "npx -y holy-bible-mcp"
+}

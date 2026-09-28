@@ -1,0 +1,7 @@
+{
+  "name": "advisor-mcp",
+  "description": "Provides Claude Code with an asynchronous expert advisory service via kimi CLI, maintaining conversation-level memory and automatically binding to kimi sessions for cost-effective guidance at key checkpoints.",
+  "source_repo": "LiTianYun/cc_advisor_mcp",
+  "source_url": "https://github.com/LiTianYun/cc_advisor_mcp",
+  "install": "npx -y cc_advisor_mcp"
+}

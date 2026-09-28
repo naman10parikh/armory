@@ -1,0 +1,7 @@
+{
+  "name": "hashline-mcp",
+  "description": "An MCP server for precise, hash-referenced file editing that enables atomic edits using line:hash references instead of fragile line numbers or full content reproduction.",
+  "source_repo": "ck0i/hashline-mcp",
+  "source_url": "https://github.com/ck0i/hashline-mcp",
+  "install": "npx -y hashline-mcp"
+}

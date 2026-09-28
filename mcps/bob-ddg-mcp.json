@@ -1,0 +1,7 @@
+{
+  "name": "bob-ddg-mcp",
+  "description": "MCP server that adds DuckDuckGo web search and URL/PDF fetching as live internet tools for IBM Bob, requiring no API keys.",
+  "source_repo": "scprotz/bob-ddg-mcp",
+  "source_url": "https://github.com/scprotz/bob-ddg-mcp",
+  "install": "npx -y bob-ddg-mcp"
+}

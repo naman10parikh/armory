@@ -1,0 +1,7 @@
+{
+  "name": "mac-commander",
+  "description": "A minimal macOS GUI-automation MCP server providing tools to see app state, perform actions, manage apps, send notifications, and run AppleScripts with security boundaries.",
+  "source_repo": "martyfontaine/Mac-Commander",
+  "source_url": "https://github.com/martyfontaine/Mac-Commander",
+  "install": "# git clone --depth 1 https://github.com/martyfontaine/Mac-Commander\n# See source for mcpServers config block"
+}

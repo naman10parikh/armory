@@ -1,0 +1,7 @@
+{
+  "name": "my-mcp",
+  "description": "TO DO microsoft",
+  "source_repo": "jordanburke/microsoft-todo-mcp-server",
+  "source_url": "https://github.com/jordanburke/microsoft-todo-mcp-server",
+  "install": "npx -y microsoft-todo-mcp-server"
+}

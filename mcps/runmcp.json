@@ -1,0 +1,7 @@
+{
+  "name": "runmcp",
+  "description": "RunMCP is an MCP server for managing a runner's training calendar, letting agents read planning context, propose and apply versioned schedule changes, and log runs and activities with conflict validation.",
+  "source_repo": "JakeIVS/RunMCP",
+  "source_url": "https://github.com/JakeIVS/RunMCP",
+  "install": "# git clone --depth 1 https://github.com/JakeIVS/RunMCP\n# See source for mcpServers config block"
+}

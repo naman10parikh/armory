@@ -1,0 +1,7 @@
+{
+  "name": "universal-shopping-agent-mcp-server",
+  "description": "Enables AI-powered shopping assistance by analyzing natural language shopping queries and automating product searches on multiple e-commerce platforms.",
+  "source_repo": "kinjal-1007/shopping-assistant-mcp",
+  "source_url": "https://github.com/kinjal-1007/shopping-assistant-mcp",
+  "install": "npx -y shopping-assistant-mcp"
+}

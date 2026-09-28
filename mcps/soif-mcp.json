@@ -1,0 +1,7 @@
+{
+  "name": "soif-mcp",
+  "description": "MCP server for estimating the water footprint of LLM usage and comparing models by water cost.",
+  "source_repo": "Unchained-Labs/soif-mcp",
+  "source_url": "https://github.com/Unchained-Labs/soif-mcp",
+  "install": "npx -y soif-mcp"
+}

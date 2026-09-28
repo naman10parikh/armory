@@ -1,0 +1,7 @@
+{
+  "name": "mlctl",
+  "description": "Enables natural language management of the full ML lifecycle including experiments, model registration, deployment, and pipeline orchestration through a conversational agent.",
+  "source_repo": "isouravsengupta/mlctl",
+  "source_url": "https://github.com/isouravsengupta/mlctl",
+  "install": "# git clone --depth 1 https://github.com/isouravsengupta/mlctl\n# See source for mcpServers config block"
+}

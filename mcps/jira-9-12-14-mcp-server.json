@@ -1,0 +1,7 @@
+{
+  "name": "jira-9-12-14-mcp-server",
+  "description": "Enables AI models to search Jira issues using JQL and retrieve issue details through the Jira 9.12.14 API.",
+  "source_repo": "andrewyun0403/jira-9.12.14-mcp-server",
+  "source_url": "https://github.com/andrewyun0403/jira-9.12.14-mcp-server",
+  "install": "npx -y jira-9.12.14-mcp-server"
+}

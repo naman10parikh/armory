@@ -1,0 +1,7 @@
+{
+  "name": "imag8-studio-style-locking-ai-image-generation-for-agents",
+  "description": "Define one master style once (lighting, mood, composition, colour) and generate unlimited matching images with different subjects. Hosted remote MCP at https://imag8.art/api/v1/mcp with tools imag8_generate_image, imag8_suggest_variations, imag8_get_account_status. Works with Claude, Cursor, ChatGPT",
+  "source_repo": "reubenatour-jpg/imag8-mcp",
+  "source_url": "https://github.com/reubenatour-jpg/imag8-mcp",
+  "install": "npx -y imag8-mcp"
+}

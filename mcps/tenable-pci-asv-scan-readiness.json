@@ -1,0 +1,7 @@
+{
+  "name": "tenable-pci-asv-scan-readiness",
+  "description": "Connects AI assistants to the Tenable VM API to evaluate PCI quarterly external scan readiness with deterministic filtering, a readiness score, and dispute worksheets.",
+  "source_repo": "amcdonnell-dot/pci-asv-readiness-mcp",
+  "source_url": "https://github.com/amcdonnell-dot/pci-asv-readiness-mcp",
+  "install": "npx -y pci-asv-readiness-mcp"
+}

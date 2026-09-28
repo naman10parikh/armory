@@ -1,0 +1,7 @@
+{
+  "name": "der-sp-dare",
+  "description": "Read-only MCP server for consulting official DER SP data, pay-per-use with prepaid credits.",
+  "source_repo": "mcp-dir/der_sp_dare-mcp",
+  "source_url": "https://github.com/mcp-dir/der_sp_dare-mcp",
+  "install": "npx -y der_sp_dare-mcp"
+}

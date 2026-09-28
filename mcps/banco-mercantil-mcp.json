@@ -1,0 +1,7 @@
+{
+  "name": "banco-mercantil-mcp",
+  "description": "Connects Banco Mercantil accounts via Open Finance Brasil to AI assistants, enabling natural language queries about balances, statements, credit card bills, and investments (read-only).",
+  "source_repo": "mcp-dir/mercantil-mcp",
+  "source_url": "https://github.com/mcp-dir/mercantil-mcp",
+  "install": "npx -y mercantil-mcp"
+}

@@ -1,6 +1,6 @@
 {
   "name": "jigsawstack-mcp-server",
-  "description": "Jigsawstack Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "JigsawStack/jigsawstack-mcp-server",
   "source_url": "https://mcp.so/server/jigsawstack-mcp-server/JigsawStack",
   "install": "npx -y jigsawstack-mcp-server"

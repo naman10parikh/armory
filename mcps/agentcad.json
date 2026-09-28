@@ -1,0 +1,7 @@
+{
+  "name": "agentcad",
+  "description": "Enables engineering agents to perform parametric CAD operations through a controlled MCP gateway built on FreeCAD, with transactions, diagnostics, and reproducible verification.",
+  "source_repo": "Getopir/AgentCAD",
+  "source_url": "https://github.com/Getopir/AgentCAD",
+  "install": "# git clone --depth 1 https://github.com/Getopir/AgentCAD\n# See source for mcpServers config block"
+}

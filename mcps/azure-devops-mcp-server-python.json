@@ -1,0 +1,7 @@
+{
+  "name": "azure-devops-mcp-server-python",
+  "description": "Enables AI assistants to interact with Azure DevOps projects, including work items, test results, Git repositories, and dependency analysis via the Model Context Protocol.",
+  "source_repo": "trosinde/mcp_azure_devops",
+  "source_url": "https://github.com/trosinde/mcp_azure_devops",
+  "install": "# git clone --depth 1 https://github.com/trosinde/mcp_azure_devops\n# See source for mcpServers config block"
+}

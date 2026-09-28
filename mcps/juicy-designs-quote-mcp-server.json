@@ -1,0 +1,7 @@
+{
+  "name": "juicy-designs-quote-mcp-server",
+  "description": "Enables AI agents to request quotes and strategy sessions from Juicy Designs, and read service catalog, case studies, reviews, and FAQs via MCP or REST APIs.",
+  "source_repo": "cobusvdwest/juicy-designs-quote",
+  "source_url": "https://github.com/cobusvdwest/juicy-designs-quote",
+  "install": "# git clone --depth 1 https://github.com/cobusvdwest/juicy-designs-quote\n# See source for mcpServers config block"
+}

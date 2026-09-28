@@ -1,0 +1,7 @@
+{
+  "name": "gemini-spark-mcp",
+  "description": "Deployable MCP server for GitHub and Vercel integration. Enables creating repos, pushing multiple files in a single commit, deploying projects to Vercel, managing environment variables, and combined deploy workflows via natural language.",
+  "source_repo": "AditechIO7x/gemini-spark-mcp",
+  "source_url": "https://github.com/AditechIO7x/gemini-spark-mcp",
+  "install": "npx -y gemini-spark-mcp"
+}

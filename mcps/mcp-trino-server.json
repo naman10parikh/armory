@@ -1,0 +1,7 @@
+{
+  "name": "mcp-trino-server",
+  "description": "MCP server providing seamless integration with Trino and Iceberg for advanced data exploration, querying, and table maintenance.",
+  "source_repo": "fastmcp-me/mcp-trino-python",
+  "source_url": "https://github.com/fastmcp-me/mcp-trino-python",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/mcp-trino-python\n# See source for mcpServers config block"
+}

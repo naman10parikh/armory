@@ -1,0 +1,7 @@
+{
+  "name": "checkslip-mcp",
+  "description": "A remote MCP server for verifying Thai bank transfer slips using slip images, QR payloads, or transaction references, with OAuth 2.1 authentication and duplicate detection.",
+  "source_repo": "overflowget/checkslip-mcp",
+  "source_url": "https://github.com/overflowget/checkslip-mcp",
+  "install": "npx -y checkslip-mcp"
+}

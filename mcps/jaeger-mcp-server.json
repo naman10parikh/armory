@@ -1,0 +1,7 @@
+{
+  "name": "jaeger-mcp-server",
+  "description": "Enables to interact with Jaeger distributed tracing system through the MCP protocol. Supports querying traces, services, and operations via natural language.",
+  "source_repo": "serkan-ozal/jaeger-mcp-server",
+  "source_url": "https://github.com/serkan-ozal/jaeger-mcp-server",
+  "install": "npx -y jaeger-mcp-server"
+}

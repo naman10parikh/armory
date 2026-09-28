@@ -1,0 +1,7 @@
+{
+  "name": "ollama-fleet-mcp",
+  "description": "Exposes a local Ollama fleet as MCP tools for Claude Code, enabling model listing, generation, fleet health checks, parallel comparisons, smart host routing, and model pulling across hosts.",
+  "source_repo": "Obrais-cloud/ollama-fleet-mcp",
+  "source_url": "https://github.com/Obrais-cloud/ollama-fleet-mcp",
+  "install": "npx -y ollama-fleet-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "music-search-mcp-server",
+  "description": "Enables searching and playing music from YouTube, returning top results or playable URLs, designed for XiaoZhi ESP32 robot.",
+  "source_repo": "avikmittro4-max/music-mcp-server",
+  "source_url": "https://github.com/avikmittro4-max/music-mcp-server",
+  "install": "npx -y music-mcp-server"
+}

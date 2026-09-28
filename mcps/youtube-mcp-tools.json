@@ -1,0 +1,7 @@
+{
+  "name": "youtube-mcp-tools",
+  "description": "Evidence-first YouTube research server enabling search, transcript citation, video analysis, flashcards, and collateral generation for MCP hosts and VS Code.",
+  "source_repo": "fabioc-aloha/youtube-mcp-tools",
+  "source_url": "https://github.com/fabioc-aloha/youtube-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/fabioc-aloha/youtube-mcp-tools\n# See source for mcpServers config block"
+}

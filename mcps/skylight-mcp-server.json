@@ -1,0 +1,7 @@
+{
+  "name": "skylight-mcp-server",
+  "description": "Enables AI assistants to interact with the Skylight family calendar API, allowing management of calendars, chores, lists, tasks, family members, and rewards through natural language.",
+  "source_repo": "samabenie1/skylight-mcp-fork",
+  "source_url": "https://github.com/samabenie1/skylight-mcp-fork",
+  "install": "# git clone --depth 1 https://github.com/samabenie1/skylight-mcp-fork\n# See source for mcpServers config block"
+}

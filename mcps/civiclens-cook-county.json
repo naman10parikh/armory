@@ -1,0 +1,7 @@
+{
+  "name": "civiclens-cook-county",
+  "description": "Enables users to look up every layer of local government for any Cook County address, including representatives, finances, and agendas, with provenance and certainty levels for data.",
+  "source_repo": "eshaambhattad-tech/civiclens",
+  "source_url": "https://github.com/eshaambhattad-tech/civiclens",
+  "install": "# git clone --depth 1 https://github.com/eshaambhattad-tech/civiclens\n# See source for mcpServers config block"
+}

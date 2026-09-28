@@ -1,0 +1,7 @@
+{
+  "name": "gemini-tts-mcp",
+  "description": "Multi-key Gemini TTS MCP server with automatic API key rotation, model fallback, and 30 multilingual voices. Enables text-to-speech generation through MCP tools.",
+  "source_repo": "alarconcesar/gemini-tts-mcp",
+  "source_url": "https://github.com/alarconcesar/gemini-tts-mcp",
+  "install": "npx -y gemini-tts-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ratevert",
+  "description": "Enables searching and converting currencies, stocks, crypto, ETFs, and funds with current rates and source freshness for AI agents.",
+  "source_repo": "ratevert/mcp",
+  "source_url": "https://github.com/ratevert/mcp",
+  "install": "# git clone --depth 1 https://github.com/ratevert/mcp\n# See source for mcpServers config block"
+}

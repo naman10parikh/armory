@@ -1,0 +1,7 @@
+{
+  "name": "unofficial-davinci-mcp",
+  "description": "Lets AI agents drive DaVinci Resolve for video editing, including beat-synced cuts, color matching, and loudness normalization, with both live Resolve Studio control and file-based interchange for the free edition.",
+  "source_repo": "wassermanproductions/unofficial-davinci-mcp",
+  "source_url": "https://github.com/wassermanproductions/unofficial-davinci-mcp",
+  "install": "npx -y unofficial-davinci-mcp"
+}

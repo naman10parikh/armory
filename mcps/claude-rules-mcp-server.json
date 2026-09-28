@@ -1,0 +1,7 @@
+{
+  "name": "claude-rules-mcp-server",
+  "description": "Serves 484 Claude Code skills and 17 global rules as MCP tools, enabling skill and rule retrieval, keyword search, and project-level rule discovery for any Claude client.",
+  "source_repo": "jeremykenedy/claude-rules-mcp-server",
+  "source_url": "https://github.com/jeremykenedy/claude-rules-mcp-server",
+  "install": "npx -y claude-rules-mcp-server"
+}

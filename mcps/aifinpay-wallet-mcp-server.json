@@ -1,0 +1,7 @@
+{
+  "name": "aifinpay-wallet-mcp-server",
+  "description": "Enables ChatGPT to interact with multiple blockchain networks for reading balances and managing wallet operations through a non-custodial local vault and policy engine.",
+  "source_repo": "coinsecuritiescompany/GPT-wallet-AiFinPay",
+  "source_url": "https://github.com/coinsecuritiescompany/GPT-wallet-AiFinPay",
+  "install": "# git clone --depth 1 https://github.com/coinsecuritiescompany/GPT-wallet-AiFinPay\n# See source for mcpServers config block"
+}

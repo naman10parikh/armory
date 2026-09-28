@@ -1,0 +1,7 @@
+{
+  "name": "odoosurface-mcp",
+  "description": "Enables AI agents to interact with Odoo ERP as the authenticated user, with tools for discovery, planning, and mutations bounded by user permissions.",
+  "source_repo": "solutionsunity/odoo-surface-mcp",
+  "source_url": "https://github.com/solutionsunity/odoo-surface-mcp",
+  "install": "npx -y odoo-surface-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-grf",
+  "description": "MCP server for managing Git reference repositories, enabling AI assistants to add, load, and sync reference code from any Git repository.",
+  "source_repo": "haiyewei/mcp-server-grf",
+  "source_url": "https://github.com/haiyewei/mcp-server-grf",
+  "install": "# git clone --depth 1 https://github.com/haiyewei/mcp-server-grf\n# See source for mcpServers config block"
+}

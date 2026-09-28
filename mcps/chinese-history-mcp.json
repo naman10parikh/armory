@@ -1,0 +1,7 @@
+{
+  "name": "chinese-history-mcp",
+  "description": "A traceable Chinese-history MCP server that enables querying of nine classical Chinese texts (e.g., 史记, 汉书) with citations and honest status labels. It provides four tools to search events, persons, places, and qualities, all with provenance.",
+  "source_repo": "lizhuojunx86/chinese-history-mcp",
+  "source_url": "https://github.com/lizhuojunx86/chinese-history-mcp",
+  "install": "npx -y chinese-history-mcp"
+}

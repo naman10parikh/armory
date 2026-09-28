@@ -1,0 +1,7 @@
+{
+  "name": "mcp-google-ads-server",
+  "description": "MCP server for Google Ads API with built-in safeguards, MCC support, and 36 tools for campaign management, reporting, and optimization.",
+  "source_repo": "mharnett/mcp-google-ads",
+  "source_url": "https://github.com/mharnett/mcp-google-ads",
+  "install": "# git clone --depth 1 https://github.com/mharnett/mcp-google-ads\n# See source for mcpServers config block"
+}

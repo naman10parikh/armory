@@ -1,0 +1,7 @@
+{
+  "name": "solnk-mcp",
+  "description": "Enables publishing and scheduling content across 9 social platforms (X, Instagram, TikTok, YouTube, Facebook, LinkedIn, Pinterest, Threads, Bluesky) through a single MCP tool interface, acting as a stateless proxy to the Solnk API.",
+  "source_repo": "solnk-dev/solnk-mcp",
+  "source_url": "https://github.com/solnk-dev/solnk-mcp",
+  "install": "npx -y solnk-mcp"
+}

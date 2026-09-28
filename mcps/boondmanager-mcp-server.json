@@ -1,0 +1,7 @@
+{
+  "name": "boondmanager-mcp-server",
+  "description": "MCP server for the BoondManager API, enabling Claude to search, create, and modify records across 36 domains with 158 tools.",
+  "source_repo": "fauguste/boondmanager-mcp-server",
+  "source_url": "https://github.com/fauguste/boondmanager-mcp-server",
+  "install": "npx -y boondmanager-mcp-server"
+}

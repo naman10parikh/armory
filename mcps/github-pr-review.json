@@ -1,0 +1,7 @@
+{
+  "name": "github-pr-review",
+  "description": "Enables LLM clients to list, read, review, and comment on GitHub pull requests, turning an AI assistant into a fully capable code reviewer.",
+  "source_repo": "Festuskipkoech/github-pr-mcp",
+  "source_url": "https://github.com/Festuskipkoech/github-pr-mcp",
+  "install": "npx -y github-pr-mcp"
+}

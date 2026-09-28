@@ -1,0 +1,7 @@
+{
+  "name": "cityflo-on-time-performance-mcp-server",
+  "description": "Compute and analyze bus route lateness using trip data, with drill-down and cross-referencing against rider complaints and operational logs.",
+  "source_repo": "YohaanKhan/cityflo-online-mcp",
+  "source_url": "https://github.com/YohaanKhan/cityflo-online-mcp",
+  "install": "npx -y cityflo-online-mcp"
+}

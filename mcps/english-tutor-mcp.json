@@ -1,0 +1,7 @@
+{
+  "name": "english-tutor-mcp",
+  "description": "Enables English language practice by silently logging messages and providing reports on recurring grammar patterns without interrupting conversation.",
+  "source_repo": "CodingMasterLSW/interlanguage",
+  "source_url": "https://github.com/CodingMasterLSW/interlanguage",
+  "install": "# git clone --depth 1 https://github.com/CodingMasterLSW/interlanguage\n# See source for mcpServers config block"
+}

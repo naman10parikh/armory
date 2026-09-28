@@ -1,0 +1,7 @@
+{
+  "name": "lnkify",
+  "description": "MCP server that enables AI agents to manage Lnkify links, domains, API keys, and analytics. Allows creation and resolution of short links through natural language.",
+  "source_repo": "lnkify/lnkify-cli",
+  "source_url": "https://github.com/lnkify/lnkify-cli",
+  "install": "# git clone --depth 1 https://github.com/lnkify/lnkify-cli\n# See source for mcpServers config block"
+}

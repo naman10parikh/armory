@@ -1,0 +1,7 @@
+{
+  "name": "dr-dabber-switch-2-mcp",
+  "description": "A Model Context Protocol (MCP) server for controlling a Dr. Dabber Switch 2 vaporizer over Bluetooth LE.",
+  "source_repo": "nidamen/drdabber-switch2-mcp",
+  "source_url": "https://github.com/nidamen/drdabber-switch2-mcp",
+  "install": "npx -y drdabber-switch2-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "booth-layout-mcp",
+  "description": "An MCP server that lets an AI assistant design a trade-show or vending-event floor plan from plain language, including placing booths, ensuring fire-code aisles, assigning vendors, validating for overlaps, and exporting an SVG map.",
+  "source_repo": "thesneakerhead/booth-layout-mcp",
+  "source_url": "https://github.com/thesneakerhead/booth-layout-mcp",
+  "install": "npx -y booth-layout-mcp"
+}

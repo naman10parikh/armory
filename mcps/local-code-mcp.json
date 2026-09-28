@@ -1,0 +1,7 @@
+{
+  "name": "local-code-mcp",
+  "description": "Safe local MCP server for Windows to list, read, search, patch, backup, and verify code files in allowed folders, with Git integration and dry-run diffs.",
+  "source_repo": "JS190-prog/local-code-mcp",
+  "source_url": "https://github.com/JS190-prog/local-code-mcp",
+  "install": "npx -y local-code-mcp"
+}

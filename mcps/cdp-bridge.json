@@ -1,0 +1,7 @@
+{
+  "name": "cdp-bridge",
+  "description": "Connects MCP clients to real browser sessions via a Chromium plugin, enabling LLMs to read, scan, automate, and navigate web pages using the user's existing browser state.",
+  "source_repo": "Unagi-cq/cdp-bridge-mcp",
+  "source_url": "https://github.com/Unagi-cq/cdp-bridge-mcp",
+  "install": "npx -y cdp-bridge-mcp"
+}

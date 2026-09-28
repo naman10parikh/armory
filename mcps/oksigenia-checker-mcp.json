@@ -1,0 +1,7 @@
+{
+  "name": "oksigenia-checker-mcp",
+  "description": "A domain security and privacy checker MCP server that runs locally, performing DNS, TLS, HTTP, and RDAP lookups to generate a scored report covering certificates, email authentication, DNS, and web security headers.",
+  "source_repo": "OksigeniaSL/checker-mcp",
+  "source_url": "https://github.com/OksigeniaSL/checker-mcp",
+  "install": "npx -y checker-mcp"
+}

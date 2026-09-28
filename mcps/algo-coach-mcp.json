@@ -1,0 +1,7 @@
+{
+  "name": "algo-coach-mcp",
+  "description": "Interactive algorithm coach MCP server that provides guided practice, local code execution, and real-world engineering case mapping for 45 algorithm topics.",
+  "source_repo": "Ddhjx-code/algo-coach-mcp",
+  "source_url": "https://github.com/Ddhjx-code/algo-coach-mcp",
+  "install": "npx -y algo-coach-mcp"
+}

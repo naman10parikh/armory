@@ -1,0 +1,7 @@
+{
+  "name": "cuttingtoolsai-mcp",
+  "description": "Brand-neutral carbide grade cross-reference for machining. One tool, grade_xref, returns catalog-verified comparable grades across manufacturers at the same ISO application position, with provenance. Never invents a grade.",
+  "source_repo": "memmizgezgin-creator/cuttingtoolsai-mcp",
+  "source_url": "https://github.com/memmizgezgin-creator/cuttingtoolsai-mcp",
+  "install": "npx -y cuttingtoolsai-mcp"
+}

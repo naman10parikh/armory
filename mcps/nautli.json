@@ -1,0 +1,7 @@
+{
+  "name": "nautli",
+  "description": "A local memory server for AI agents that stores, digests, and recalls facts while merging duplicates, resolving contradictions via review cards, and forgetting junk.",
+  "source_repo": "Nautli/nautli",
+  "source_url": "https://github.com/Nautli/nautli",
+  "install": "# git clone --depth 1 https://github.com/Nautli/nautli\n# See source for mcpServers config block"
+}

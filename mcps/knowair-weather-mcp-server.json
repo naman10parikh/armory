@@ -1,0 +1,7 @@
+{
+  "name": "knowair-weather-mcp-server",
+  "description": "Provides real-time weather, air quality, forecasts, and astronomical information via Caiyun Weather API.",
+  "source_repo": "shuowang-ai/Weather-MCP",
+  "source_url": "https://github.com/shuowang-ai/Weather-MCP",
+  "install": "npx -y Weather-MCP"
+}

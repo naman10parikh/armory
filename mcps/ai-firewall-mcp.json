@@ -1,0 +1,7 @@
+{
+  "name": "ai-firewall-mcp",
+  "description": "A multi-agent AI security layer that protects LLMs from prompt injection, jailbreaks, and policy violations via MCP tools.",
+  "source_repo": "Akhilucky/AI-firewall",
+  "source_url": "https://github.com/Akhilucky/AI-firewall",
+  "install": "# git clone --depth 1 https://github.com/Akhilucky/AI-firewall\n# See source for mcpServers config block"
+}

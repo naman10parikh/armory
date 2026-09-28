@@ -1,0 +1,7 @@
+{
+  "name": "agentchat",
+  "description": "Enables two AI agents to exchange messages through a shared MCP hub with a live terminal UI.",
+  "source_repo": "JimmyfaQwQ/AgentChat-MCP",
+  "source_url": "https://github.com/JimmyfaQwQ/AgentChat-MCP",
+  "install": "npx -y AgentChat-MCP"
+}

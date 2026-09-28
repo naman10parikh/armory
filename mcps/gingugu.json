@@ -1,0 +1,7 @@
+{
+  "name": "gingugu",
+  "description": "Persistent long-term memory for AI coding assistants. Local SQLite, no cloud - 16 MCP tools to store, search, relate, and consolidate typed memories with a confidence lifecycle, hybrid BM25 + semantic search, namespaces, a knowledge graph, and a built-in OS keychain credential vault.",
+  "source_repo": "gingugu/gingugu",
+  "source_url": "https://github.com/gingugu/gingugu",
+  "install": "# git clone --depth 1 https://github.com/gingugu/gingugu\n# See source for mcpServers config block"
+}

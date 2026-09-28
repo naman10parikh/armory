@@ -1,0 +1,7 @@
+{
+  "name": "s22-web-agent-mcp-server",
+  "description": "Provides MCP tools for web page scanning, data extraction, local storage, markdown report generation, and browser inspection using Playwright on a Samsung S22.",
+  "source_repo": "amir89hamzah/s22-web-agent",
+  "source_url": "https://github.com/amir89hamzah/s22-web-agent",
+  "install": "# git clone --depth 1 https://github.com/amir89hamzah/s22-web-agent\n# See source for mcpServers config block"
+}

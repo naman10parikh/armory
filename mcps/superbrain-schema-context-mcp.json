@@ -1,0 +1,7 @@
+{
+  "name": "superbrain-schema-context-mcp",
+  "description": "An MCP server that provides coding agents with progressive, scoped access to database schemas via five retrieval tools, avoiding full-context dumps.",
+  "source_repo": "Mikebenisberchmans/IDE-Dataplatform-conn-feat-Demo",
+  "source_url": "https://github.com/Mikebenisberchmans/IDE-Dataplatform-conn-feat-Demo",
+  "install": "# git clone --depth 1 https://github.com/Mikebenisberchmans/IDE-Dataplatform-conn-feat-Demo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "io-github-zw008-vmware-debug",
+  "description": "Enables systematic investigation of VMware errors and events by correlating event timelines, ranking root-cause hypotheses, and suggesting next diagnostic steps.",
+  "source_repo": "zw008/VMware-Debug",
+  "source_url": "https://github.com/zw008/VMware-Debug",
+  "install": "# git clone --depth 1 https://github.com/zw008/VMware-Debug\n# See source for mcpServers config block"
+}

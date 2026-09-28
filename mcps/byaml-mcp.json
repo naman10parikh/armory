@@ -1,0 +1,7 @@
+{
+  "name": "byaml-mcp",
+  "description": "Enables AI agents to generate BYaML Architecture Graphs from evaluations, Terraform plans, and AWS scans, and to derive insights such as blast radius, cost summaries, and remediation plans without writing YAML.",
+  "source_repo": "breakingthecloud/byaml-mcp",
+  "source_url": "https://github.com/breakingthecloud/byaml-mcp",
+  "install": "npx -y byaml-mcp"
+}

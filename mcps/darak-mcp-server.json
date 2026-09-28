@@ -1,0 +1,7 @@
+{
+  "name": "darak-mcp-server",
+  "description": "Remote MCP server for Saudi real estate data, giving AI assistants access to 65,000+ rental and sale property listings across 5 Saudi cities with market analytics and price trends.",
+  "source_repo": "basseko/darak-mcp-server",
+  "source_url": "https://github.com/basseko/darak-mcp-server",
+  "install": "npx -y darak-mcp-server"
+}

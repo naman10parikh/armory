@@ -1,0 +1,7 @@
+{
+  "name": "narajangteo-opening",
+  "description": "Wraps the Korean Public Procurement Service's bid award information API, enabling users to query bid results, openings, and detailed execution data.",
+  "source_repo": "opendata-kr/narajangteo-opening-mcp",
+  "source_url": "https://github.com/opendata-kr/narajangteo-opening-mcp",
+  "install": "npx -y narajangteo-opening-mcp"
+}

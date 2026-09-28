@@ -1,0 +1,7 @@
+{
+  "name": "agent-incident-relay-mcp",
+  "description": "Broadcasts Article 73 incident reports simultaneously to EU AI Act, DORA, NIS2, GDPR, and ISO 42001 regulators, with escalation workflows and audit trails.",
+  "source_repo": "CSOAI-ORG/agent-incident-relay-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/agent-incident-relay-mcp",
+  "install": "npx -y agent-incident-relay-mcp"
+}

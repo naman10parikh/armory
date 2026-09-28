@@ -1,0 +1,7 @@
+{
+  "name": "minicheck-mcp",
+  "description": "A model checker as an MCP server that lets agents verify state machines with declarative specs, returning a verdict and shortest counterexample when a property fails.",
+  "source_repo": "nickharris808/minicheck-mcp",
+  "source_url": "https://github.com/nickharris808/minicheck-mcp",
+  "install": "npx -y minicheck-mcp"
+}

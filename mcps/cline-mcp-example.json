@@ -1,6 +1,6 @@
 {
   "name": "cline-mcp-example",
-  "description": "Cline Mcp Example MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "jackypanster/cline-mcp-example",
   "source_url": "https://mcp.so/server/cline-mcp-example/jackypanster",
   "install": "# git clone --depth 1 https://mcp.so/server/cline-mcp-example/jackypanster\n# See source for mcpServers config block"

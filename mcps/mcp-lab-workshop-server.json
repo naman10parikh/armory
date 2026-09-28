@@ -1,0 +1,7 @@
+{
+  "name": "mcp-lab-workshop-server",
+  "description": "Enables real-time control of an interactive dashboard through MCP tools, allowing toggling features, updating stats, setting messages, and simulating traffic. Built on Cloudflare Workers with KV storage for educational purposes.",
+  "source_repo": "MattDMitch/4mcp-lab-workshop",
+  "source_url": "https://github.com/MattDMitch/4mcp-lab-workshop",
+  "install": "# git clone --depth 1 https://github.com/MattDMitch/4mcp-lab-workshop\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rss-digest-bot",
+  "description": "Fetches RSS feeds from tech blogs and news sites and returns AI-generated summaries via Claude.",
+  "source_repo": "padmapriyavj/RSS-DIGEST-BOT",
+  "source_url": "https://github.com/padmapriyavj/RSS-DIGEST-BOT",
+  "install": "# git clone --depth 1 https://github.com/padmapriyavj/RSS-DIGEST-BOT\n# See source for mcpServers config block"
+}

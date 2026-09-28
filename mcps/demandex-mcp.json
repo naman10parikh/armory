@@ -1,0 +1,7 @@
+{
+  "name": "demandex-mcp",
+  "description": "MCP server for Demandex e-commerce demand intelligence, providing Reddit-based opportunity cards and demand verdicts with free and paid per-call tools settled via x402/USDC.",
+  "source_repo": "jcislo/demandex-mcp",
+  "source_url": "https://github.com/jcislo/demandex-mcp",
+  "install": "npx -y demandex-mcp"
+}

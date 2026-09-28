@@ -1,0 +1,7 @@
+{
+  "name": "apple-notes-on-steroids",
+  "description": "MCP server for Apple Notes enabling read, search, write, and sync of notes with high fidelity, including styles, attachments, and bidirectional Markdown sync.",
+  "source_repo": "krisxsee/apple-notes-on-steroids-mcp",
+  "source_url": "https://github.com/krisxsee/apple-notes-on-steroids-mcp",
+  "install": "npx -y apple-notes-on-steroids-mcp"
+}

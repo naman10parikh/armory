@@ -1,0 +1,7 @@
+{
+  "name": "maestro-mcp-server",
+  "description": "Produce complete videos from a natural-language brief with Maestro through the Ace Data Cloud API.",
+  "source_repo": "AceDataCloud/MaestroMCP",
+  "source_url": "https://github.com/AceDataCloud/MaestroMCP",
+  "install": "# git clone --depth 1 https://github.com/AceDataCloud/MaestroMCP\n# See source for mcpServers config block"
+}

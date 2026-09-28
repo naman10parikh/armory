@@ -1,0 +1,7 @@
+{
+  "name": "hong-kong-government-security-incident-mcp-server",
+  "description": "Enables users to retrieve Hong Kong government security incident reports from the Digital Policy Office. Provides a FastMCP interface for querying the number of reported information security incidents.",
+  "source_repo": "hkopenai/hk-tech-mcp-server",
+  "source_url": "https://github.com/hkopenai/hk-tech-mcp-server",
+  "install": "npx -y hk-tech-mcp-server"
+}

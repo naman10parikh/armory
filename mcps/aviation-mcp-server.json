@@ -1,0 +1,7 @@
+{
+  "name": "aviation-mcp-server",
+  "description": "MCP server giving AI agents access to real-time aviation data — live flight tracking, airport weather, airline and airport information.",
+  "source_repo": "AiAgentKarl/aviation-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/aviation-mcp-server",
+  "install": "npx -y aviation-mcp-server"
+}

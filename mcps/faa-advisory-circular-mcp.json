@@ -1,0 +1,7 @@
+{
+  "name": "faa-advisory-circular-mcp",
+  "description": "Enables searching, retrieving, and tracking FAA Advisory Circulars for airport operations with filtering by airport type, bookmarking, and export capabilities.",
+  "source_repo": "parissharpe/faa-advisory-circular-mcp",
+  "source_url": "https://github.com/parissharpe/faa-advisory-circular-mcp",
+  "install": "npx -y faa-advisory-circular-mcp"
+}

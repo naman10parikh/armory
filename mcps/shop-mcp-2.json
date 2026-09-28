@@ -1,0 +1,7 @@
+{
+  "name": "shop-mcp-2",
+  "description": "Enables AI agents to safely explore and query a SQLite database in read-only mode, allowing them to inspect schema and run analytical SQL queries without risking data modification.",
+  "source_repo": "stalexsm/shop-mcp",
+  "source_url": "https://github.com/stalexsm/shop-mcp",
+  "install": "npx -y shop-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mast",
+  "description": "Code-search engine that parses TypeScript and JavaScript with a real AST, stores the symbol graph in SQLite, and serves AI assistants exact matching declarations (functions, classes, types) via BM25 fused with declaration-exact ranking — saving tokens by returning only the relevant code instead of w",
+  "source_repo": "SpikedPunchVictim/mast",
+  "source_url": "https://github.com/SpikedPunchVictim/mast",
+  "install": "# git clone --depth 1 https://github.com/SpikedPunchVictim/mast\n# See source for mcpServers config block"
+}

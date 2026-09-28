@@ -1,0 +1,7 @@
+{
+  "name": "unreal-python-api-rag-mcp-server",
+  "description": "Provides a retrieval/MCP knowledge server for the Unreal Engine Python API, enabling AI agents to retrieve real signatures and documentation before writing code.",
+  "source_repo": "stanlink-games/unreal-python-api-rag",
+  "source_url": "https://github.com/stanlink-games/unreal-python-api-rag",
+  "install": "# git clone --depth 1 https://github.com/stanlink-games/unreal-python-api-rag\n# See source for mcpServers config block"
+}

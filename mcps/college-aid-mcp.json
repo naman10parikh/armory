@@ -1,0 +1,7 @@
+{
+  "name": "college-aid-mcp",
+  "description": "Searches US colleges and scholarships using government data, enabling comparisons of tuition, debt, earnings, and program-specific outcomes.",
+  "source_repo": "Fusingchart/college-aid-mcp",
+  "source_url": "https://github.com/Fusingchart/college-aid-mcp",
+  "install": "npx -y college-aid-mcp"
+}

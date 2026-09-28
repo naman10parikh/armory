@@ -1,0 +1,7 @@
+{
+  "name": "safetrade-mcp",
+  "description": "Docs-driven MCP server for SafeTrade REST API with a generic client that reads OpenAPI specs, validates requests, signs private calls, and blocks dangerous operations like withdrawals by default.",
+  "source_repo": "NikkeTryHard/safetrade-mcp",
+  "source_url": "https://github.com/NikkeTryHard/safetrade-mcp",
+  "install": "npx -y safetrade-mcp"
+}

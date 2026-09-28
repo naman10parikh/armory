@@ -1,0 +1,7 @@
+{
+  "name": "wellness-air",
+  "description": "Local-first air-quality MCP for AI agents: AirGradient, AirThings, PurpleAir, IQAir and Awair.",
+  "source_repo": "davidmosiah/wellness-air",
+  "source_url": "https://github.com/davidmosiah/wellness-air",
+  "install": "# git clone --depth 1 https://github.com/davidmosiah/wellness-air\n# See source for mcpServers config block"
+}

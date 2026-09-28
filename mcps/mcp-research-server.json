@@ -1,0 +1,7 @@
+{
+  "name": "mcp-research-server",
+  "description": "Provides access to research paper topics and lists via a remote SSE server, enabling users to explore folders, topics, and execute prompts.",
+  "source_repo": "XiaoHG/mcp-research-server",
+  "source_url": "https://github.com/XiaoHG/mcp-research-server",
+  "install": "# git clone --depth 1 https://github.com/XiaoHG/mcp-research-server\n# See source for mcpServers config block"
+}

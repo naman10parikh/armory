@@ -1,0 +1,7 @@
+{
+  "name": "ilo",
+  "description": "A local-first MCP server for social publishing on X (Twitter), enabling draft management, scheduling, and posting via CLI or AI agents.",
+  "source_repo": "iannuttall/ilo",
+  "source_url": "https://github.com/iannuttall/ilo",
+  "install": "# git clone --depth 1 https://github.com/iannuttall/ilo\n# See source for mcpServers config block"
+}

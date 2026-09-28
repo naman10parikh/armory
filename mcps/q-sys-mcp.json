@@ -1,0 +1,7 @@
+{
+  "name": "q-sys-mcp",
+  "description": "Enables AI agents to inspect and control Q-SYS audio/video systems via the QRC protocol over TCP, against a real Core or Q-SYS Designer emulator.",
+  "source_repo": "reowens/q-sys-mcp",
+  "source_url": "https://github.com/reowens/q-sys-mcp",
+  "install": "npx -y q-sys-mcp"
+}

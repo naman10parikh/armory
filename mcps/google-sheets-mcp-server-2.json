@@ -1,0 +1,7 @@
+{
+  "name": "google-sheets-mcp-server-2",
+  "description": "Enables to read, write, format cells, create charts, use formulas, and manage Google Sheets spreadsheets directly from Claude, Cursor, or any MCP-compatible client.",
+  "source_repo": "dudegladiator/spreadsheet-mcp",
+  "source_url": "https://github.com/dudegladiator/spreadsheet-mcp",
+  "install": "npx -y spreadsheet-mcp"
+}

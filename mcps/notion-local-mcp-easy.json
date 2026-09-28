@@ -1,0 +1,7 @@
+{
+  "name": "notion-local-mcp-easy",
+  "description": "A Windows MCP server for personal Notion Agent integration, providing file read, search, and modification tools in a selected workspace, with an optional trusted developer mode for Python, Git, Node, etc.",
+  "source_repo": "oleg494/notion-local-mcp-easy",
+  "source_url": "https://github.com/oleg494/notion-local-mcp-easy",
+  "install": "# git clone --depth 1 https://github.com/oleg494/notion-local-mcp-easy\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "datalastic-mcp",
+  "description": "MCP server that enables AI assistants to access real-time vessel tracking, port information, and maritime data through the Datalastic Marine AIS Data API.",
+  "source_repo": "robderstadt/datalastic-mcp",
+  "source_url": "https://github.com/robderstadt/datalastic-mcp",
+  "install": "npx -y datalastic-mcp"
+}

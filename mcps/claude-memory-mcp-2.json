@@ -1,0 +1,7 @@
+{
+  "name": "claude-memory-mcp-2",
+  "description": "Persistent, searchable per-project memory for Claude Code using DuckDB and vector search, with rule enforcement and a management UI.",
+  "source_repo": "navid-kianfar/claude-memory-mcp",
+  "source_url": "https://github.com/navid-kianfar/claude-memory-mcp",
+  "install": "npx -y claude-memory-mcp"
+}

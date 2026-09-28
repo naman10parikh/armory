@@ -1,0 +1,7 @@
+{
+  "name": "worldcup-ai-forecaster",
+  "description": "An MCP server that enables LLMs to act as World Cup forecasting agents, pulling live odds, getting model forecasts, and simulating tournament brackets via natural language.",
+  "source_repo": "tpomerance/worldcup-ai-forecaster",
+  "source_url": "https://github.com/tpomerance/worldcup-ai-forecaster",
+  "install": "# git clone --depth 1 https://github.com/tpomerance/worldcup-ai-forecaster\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "envato-mcp",
+  "description": "MCP server for Envato API that enables searching the marketplace catalog, viewing author statistics, checking buyer purchases, and accessing account details.",
+  "source_repo": "sdm7001/envato-mcp",
+  "source_url": "https://github.com/sdm7001/envato-mcp",
+  "install": "npx -y envato-mcp"
+}

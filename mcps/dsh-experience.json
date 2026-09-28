@@ -1,0 +1,7 @@
+{
+  "name": "dsh-experience",
+  "description": "Provides a cross-session experience knowledge base for AI agents, enabling retrieval of past problem-solution experiences via MCP tools. It helps agents reuse solutions without retraining, with zero-LLM runtime retrieval.",
+  "source_repo": "keyiadiannao/dsh-experience",
+  "source_url": "https://github.com/keyiadiannao/dsh-experience",
+  "install": "# git clone --depth 1 https://github.com/keyiadiannao/dsh-experience\n# See source for mcpServers config block"
+}

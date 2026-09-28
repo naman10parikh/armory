@@ -1,0 +1,7 @@
+{
+  "name": "mcp-azure-toolkit",
+  "description": "An MCP server that exposes core Azure services as read-mostly tools any MCP client can call, including Blob Storage, Key Vault, Service Bus, and Resource Manager.",
+  "source_repo": "TemidireAdesiji/mcp-azure-toolkit",
+  "source_url": "https://github.com/TemidireAdesiji/mcp-azure-toolkit",
+  "install": "# git clone --depth 1 https://github.com/TemidireAdesiji/mcp-azure-toolkit\n# See source for mcpServers config block"
+}

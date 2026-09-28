@@ -1,0 +1,7 @@
+{
+  "name": "lidar-harness-mcp",
+  "description": "An incremental validation engine that acts as a pluggable MCP middleware for code agents like Claude Code and OpenCode, reducing context overhead by 60-80% through a PGO-inspired four-layer verification architecture.",
+  "source_repo": "bernardleex526-png/lidar_harness_mcp",
+  "source_url": "https://github.com/bernardleex526-png/lidar_harness_mcp",
+  "install": "npx -y lidar_harness_mcp"
+}

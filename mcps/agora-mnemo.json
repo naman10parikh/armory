@@ -1,0 +1,7 @@
+{
+  "name": "agora-mnemo",
+  "description": "mnemo — an MCP server for agent memory with a first-class correction & erasure channel (revert, lineage-aware retraction, tamper-evident deletion receipts). Zero dependencies, 12 tools over stdio",
+  "source_repo": "DanceNitra/mnemo",
+  "source_url": "https://github.com/DanceNitra/mnemo",
+  "install": "# git clone --depth 1 https://github.com/DanceNitra/mnemo\n# See source for mcpServers config block"
+}

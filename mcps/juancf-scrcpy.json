@@ -1,7 +1,0 @@
-{
-  "name": "juancf-scrcpy",
-  "description": "Android device vision and control via ADB and scrcpy with fast screenshot capture, input automation, and UI inspection.",
-  "source_repo": "juancf/scrcpy-mcp",
-  "source_url": "https://github.com/juancf/scrcpy-mcp",
-  "install": "npx -y scrcpy-mcp"
-}

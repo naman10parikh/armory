@@ -1,0 +1,7 @@
+{
+  "name": "cloudguard-mcp",
+  "description": "A read-only MCP server for inspecting AWS resources, detecting misconfigurations, and estimating costs across EC2, S3, and IAM, enabling agents to safely query and analyze cloud infrastructure.",
+  "source_repo": "kishoreqwerty/cloudguard-mcp",
+  "source_url": "https://github.com/kishoreqwerty/cloudguard-mcp",
+  "install": "npx -y cloudguard-mcp"
+}

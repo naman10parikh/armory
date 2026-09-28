@@ -1,0 +1,7 @@
+{
+  "name": "gridwork-wiki",
+  "description": "MCP server for querying compliance regulations including GDPR, EU AI Act, and CCPA through natural language questions, keyword search, and compliance checks.",
+  "source_repo": "thegridwork/wiki",
+  "source_url": "https://github.com/thegridwork/wiki",
+  "install": "# git clone --depth 1 https://github.com/thegridwork/wiki\n# See source for mcpServers config block"
+}

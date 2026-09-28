@@ -1,0 +1,7 @@
+{
+  "name": "calldata-guardian",
+  "description": "Decodes Ethereum calldata and returns a safety verdict with plain-English explanations of what the transaction does, flagging dangerous actions like unlimited approvals or gasless permits.",
+  "source_repo": "Baneado98/calldata-guardian",
+  "source_url": "https://github.com/Baneado98/calldata-guardian",
+  "install": "# git clone --depth 1 https://github.com/Baneado98/calldata-guardian\n# See source for mcpServers config block"
+}

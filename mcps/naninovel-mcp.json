@@ -1,0 +1,7 @@
+{
+  "name": "naninovel-mcp",
+  "description": "A Unity C# plugin that enables AI assistants to write, edit, and test visual novel scripts via the Model Context Protocol, with tools for script CRUD, playback control, input simulation, and visual verification.",
+  "source_repo": "shar0/naninovel-mcp",
+  "source_url": "https://github.com/shar0/naninovel-mcp",
+  "install": "npx -y naninovel-mcp"
+}

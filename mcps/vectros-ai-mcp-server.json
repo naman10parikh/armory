@@ -1,0 +1,7 @@
+{
+  "name": "vectros-ai-mcp-server",
+  "description": "MCP server for Vectros, a typed multi-tenant record store with hybrid search and citation-grounded RAG, enabling agents to query, search, and ask questions over their own indexed data.",
+  "source_repo": "vectros-ai/vectros-mcp-server",
+  "source_url": "https://github.com/vectros-ai/vectros-mcp-server",
+  "install": "npx -y vectros-mcp-server"
+}

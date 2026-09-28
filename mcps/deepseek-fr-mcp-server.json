@@ -1,0 +1,7 @@
+{
+  "name": "deepseek-fr-mcp-server",
+  "description": "Exposes canonical knowledge about DeepSeek FR (models, pricing, FAQ, official links) to MCP-compatible AI clients, enabling querying of site information without API keys.",
+  "source_repo": "rocnubie/deepseekfr-mcp",
+  "source_url": "https://github.com/rocnubie/deepseekfr-mcp",
+  "install": "npx -y deepseekfr-mcp"
+}

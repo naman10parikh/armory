@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-rs-nfc-e-svrs",
+  "description": "Provides read-only consultation of Rio Grande do Sul NFC-e (electronic invoice) data from the official SEFAZ RS source via a hosted MCP server with pay-per-query credits.",
+  "source_repo": "mcp-dir/sefaz_rs_nfce_svrs-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_rs_nfce_svrs-mcp",
+  "install": "npx -y sefaz_rs_nfce_svrs-mcp"
+}

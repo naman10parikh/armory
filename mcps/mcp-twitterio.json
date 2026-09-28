@@ -1,0 +1,7 @@
+{
+  "name": "mcp-twitterio",
+  "description": "Allows AI assistants to query Twitter data including user info, tweets, trends, and more via twitterapi.io API.",
+  "source_repo": "fuhaooo/mcp-twitterio",
+  "source_url": "https://github.com/fuhaooo/mcp-twitterio",
+  "install": "# git clone --depth 1 https://github.com/fuhaooo/mcp-twitterio\n# See source for mcpServers config block"
+}

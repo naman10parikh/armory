@@ -1,0 +1,7 @@
+{
+  "name": "biblical-linguistics-mcp",
+  "description": "Provides Hebrew & Greek word study, full morphological parsing, cross-references, LXX alignment, and more from open-licensed data sources, usable by any MCP-compatible client.",
+  "source_repo": "mpduarte/biblical-linguistics-mcp",
+  "source_url": "https://github.com/mpduarte/biblical-linguistics-mcp",
+  "install": "npx -y biblical-linguistics-mcp"
+}

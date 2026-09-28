@@ -1,0 +1,7 @@
+{
+  "name": "yookassa-mcp-server",
+  "description": "MCP server for the YooKassa payment API, enabling AI assistants to manage payments, refunds, receipts, webhooks, and saved payment methods through natural language.",
+  "source_repo": "Belolipetsky/YooKassa-MCP",
+  "source_url": "https://github.com/Belolipetsky/YooKassa-MCP",
+  "install": "npx -y YooKassa-MCP"
+}

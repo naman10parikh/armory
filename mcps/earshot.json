@@ -1,0 +1,7 @@
+{
+  "name": "earshot",
+  "description": "MCP server for Earshot, a buying-intent radar for the open social web. Lets agents monitor scored leads, search stored conversations, ask questions, and manage watch lists.",
+  "source_repo": "retrocodes12/earshot",
+  "source_url": "https://github.com/retrocodes12/earshot",
+  "install": "# git clone --depth 1 https://github.com/retrocodes12/earshot\n# See source for mcpServers config block"
+}

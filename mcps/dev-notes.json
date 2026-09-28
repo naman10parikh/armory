@@ -1,0 +1,7 @@
+{
+  "name": "dev-notes",
+  "description": "Enables Claude to save, list, and read notes in a '/dev-notes' directory, and fetch live weather for any city using the wttr.in API.",
+  "source_repo": "Gabriela-707/mcp-server",
+  "source_url": "https://github.com/Gabriela-707/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Gabriela-707/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "israel-grocery-mcp",
+  "description": "Enables cross-store price comparison and recipe-driven cart automation for Israeli grocery stores Shufersal and Tiv Taam, with an extensible architecture for additional stores.",
+  "source_repo": "danielJL-altius/israelgrocerymcp",
+  "source_url": "https://github.com/danielJL-altius/israelgrocerymcp",
+  "install": "# git clone --depth 1 https://github.com/danielJL-altius/israelgrocerymcp\n# See source for mcpServers config block"
+}

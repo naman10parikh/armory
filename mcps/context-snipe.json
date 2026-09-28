@@ -1,0 +1,7 @@
+{
+  "name": "context-snipe",
+  "description": "Deterministic dependency + CVE context for AI coding tools, over the Model Context Protocol. A ~0.85 MB pure-Rust MCP server.",
+  "source_repo": "RP-Digital-Innovations/context-snipe",
+  "source_url": "https://github.com/RP-Digital-Innovations/context-snipe",
+  "install": "# git clone --depth 1 https://github.com/RP-Digital-Innovations/context-snipe\n# See source for mcpServers config block"
+}

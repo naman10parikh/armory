@@ -1,0 +1,7 @@
+{
+  "name": "google-ads-mcp-3",
+  "description": "A private, read-only MCP server that enables retrieval and analysis of Google Ads reporting data (campaigns, ad groups, keywords, search terms, cost, conversions) from authorized accounts through a locally operated server.",
+  "source_repo": "Vadim03-sol/google-ads-mcp",
+  "source_url": "https://github.com/Vadim03-sol/google-ads-mcp",
+  "install": "npx -y google-ads-mcp"
+}

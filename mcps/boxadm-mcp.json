@@ -1,0 +1,7 @@
+{
+  "name": "boxadm-mcp",
+  "description": "Read-only MCP server that surfaces external file sharing risks from Box enterprise event logs, enabling early-warning leakage detection without modifying any data.",
+  "source_repo": "shigechika/boxadm-mcp",
+  "source_url": "https://github.com/shigechika/boxadm-mcp",
+  "install": "npx -y boxadm-mcp"
+}

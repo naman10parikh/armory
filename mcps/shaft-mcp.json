@@ -1,0 +1,7 @@
+{
+  "name": "shaft-mcp",
+  "description": "Enables Claude Desktop to perform web automation tasks using the SHAFT Engine, including browser control, element interaction, AI-enhanced detection, and test reporting.",
+  "source_repo": "ShaftHQ/SHAFT_MCP",
+  "source_url": "https://github.com/ShaftHQ/SHAFT_MCP",
+  "install": "npx -y SHAFT_MCP"
+}

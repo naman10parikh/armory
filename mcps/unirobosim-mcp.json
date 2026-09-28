@@ -1,0 +1,7 @@
+{
+  "name": "unirobosim-mcp",
+  "description": "MCP server exposing UniRoboSim evidence, simulation state, camera images, and optional explicit control of owned simulation sessions.",
+  "source_repo": "GitHofee/UniRoboSim-mcp",
+  "source_url": "https://github.com/GitHofee/UniRoboSim-mcp",
+  "install": "npx -y UniRoboSim-mcp"
+}

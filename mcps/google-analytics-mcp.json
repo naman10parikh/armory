@@ -1,0 +1,7 @@
+{
+  "name": "google-analytics-mcp",
+  "description": "A powerful Model Context Protocol (MCP) server that provides comprehensive Google Analytics 4 (GA4), Google Search Console (GSC), and Google Merchant Center (GMC) integration for Claude Desktop and other MCP clients.",
+  "source_repo": "pkidwell22/google-analytics-mcp",
+  "source_url": "https://github.com/pkidwell22/google-analytics-mcp",
+  "install": "npx -y google-analytics-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apple-mcp",
+  "description": "MCP server for macOS Apple apps. Enables read/write access to Notes, Reminders, Calendar, Contacts, and Safari using SQLite and JXA, all running locally.",
+  "source_repo": "AaronRoeF/apple-mcp",
+  "source_url": "https://github.com/AaronRoeF/apple-mcp",
+  "install": "npx -y apple-mcp"
+}

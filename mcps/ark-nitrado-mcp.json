@@ -1,0 +1,7 @@
+{
+  "name": "ark-nitrado-mcp",
+  "description": "An MCP server that lets Claude check your Nitrado-hosted ARK server: live status, settings, and files without using the web panel.",
+  "source_repo": "chelseyklein/ark-nitrado-mcp",
+  "source_url": "https://github.com/chelseyklein/ark-nitrado-mcp",
+  "install": "npx -y ark-nitrado-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skycloak-mcp",
+  "description": "Official MCP server for Skycloak (managed Keycloak) that enables managing clusters, realms, applications, identity providers, users, themes, exports, SIEM destinations, and webhooks through natural language, with OAuth or API key authentication.",
+  "source_repo": "sky-cloak/skycloak-mcp",
+  "source_url": "https://github.com/sky-cloak/skycloak-mcp",
+  "install": "npx -y skycloak-mcp"
+}

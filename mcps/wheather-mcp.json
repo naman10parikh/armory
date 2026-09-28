@@ -1,6 +1,6 @@
 {
   "name": "wheather-mcp",
-  "description": "Wheather Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "sarankrishna/wheather-mcp",
   "source_url": "https://mcp.so/server/wheather-mcp/sarankrishna",
   "install": "npx -y wheather-mcp"

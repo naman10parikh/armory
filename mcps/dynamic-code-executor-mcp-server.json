@@ -1,0 +1,7 @@
+{
+  "name": "dynamic-code-executor-mcp-server",
+  "description": "Enables AI assistants to execute code in isolated sandboxes with support for Python, JavaScript, and TypeScript, featuring intelligent caching and semantic search for code reuse.",
+  "source_repo": "rafalswiderski/mcp-code-executor",
+  "source_url": "https://github.com/rafalswiderski/mcp-code-executor",
+  "install": "# git clone --depth 1 https://github.com/rafalswiderski/mcp-code-executor\n# See source for mcpServers config block"
+}

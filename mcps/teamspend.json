@@ -1,0 +1,7 @@
+{
+  "name": "teamspend",
+  "description": "Compares AI coding tool spend before and after a migration -- Cursor, Claude Code, GitHub Copilot, OpenCode, Codex CLI -- via an MCP server, real numbers from each vendor's own API or local logs.",
+  "source_repo": "RudrenduPaul/teamspend",
+  "source_url": "https://github.com/RudrenduPaul/teamspend",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/teamspend\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentgate-mcp-server",
+  "description": "Provides AI agents with secure MCP tools to navigate, authenticate, and transact on web applications via OAuth 2.1 and Stripe Issuing.",
+  "source_repo": "yourdaddy221124/agentgate",
+  "source_url": "https://github.com/yourdaddy221124/agentgate",
+  "install": "# git clone --depth 1 https://github.com/yourdaddy221124/agentgate\n# See source for mcpServers config block"
+}

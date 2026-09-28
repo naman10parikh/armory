@@ -1,0 +1,7 @@
+{
+  "name": "visual-qa-mcp",
+  "description": "Enables agents to verify educational, scientific, and engineering visuals by extracting structured evidence and running domain-specific checks against specs and theory.",
+  "source_repo": "roan2008/visual-qa-mcp",
+  "source_url": "https://github.com/roan2008/visual-qa-mcp",
+  "install": "npx -y visual-qa-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "domscan-mcp-server",
+  "description": "Domain intelligence for DNS, WHOIS/RDAP, SSL/TLS, subdomain discovery, availability, valuation, email security, and typosquatting and brand protection.",
+  "source_repo": "estevecastells/domscan-mcp",
+  "source_url": "https://github.com/estevecastells/domscan-mcp",
+  "install": "npx -y domscan-mcp"
+}

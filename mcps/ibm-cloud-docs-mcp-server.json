@@ -1,0 +1,7 @@
+{
+  "name": "ibm-cloud-docs-mcp-server",
+  "description": "Enables AI clients to search and retrieve IBM Cloud documentation, converting pages to clean Markdown.",
+  "source_repo": "sankalpmukim/ibm-cloud-docs-mcp-server",
+  "source_url": "https://github.com/sankalpmukim/ibm-cloud-docs-mcp-server",
+  "install": "npx -y ibm-cloud-docs-mcp-server"
+}

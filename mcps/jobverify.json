@@ -1,0 +1,7 @@
+{
+  "name": "jobverify",
+  "description": "Detect fake recruiter & job-offer scams with free OSINT — an MCP server for Claude. No API keys.",
+  "source_repo": "yessGlory17/job-verify",
+  "source_url": "https://github.com/yessGlory17/job-verify",
+  "install": "# git clone --depth 1 https://github.com/yessGlory17/job-verify\n# See source for mcpServers config block"
+}

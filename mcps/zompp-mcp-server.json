@@ -1,0 +1,7 @@
+{
+  "name": "zompp-mcp-server",
+  "description": "A standalone API built on Model Context Protocol that enables AI agents to directly and securely communicate with the ZomPP legal engine for managing reports and diagnosing orchestration.",
+  "source_repo": "Hei33enberg/zompp-mcp-server",
+  "source_url": "https://github.com/Hei33enberg/zompp-mcp-server",
+  "install": "npx -y zompp-mcp-server"
+}

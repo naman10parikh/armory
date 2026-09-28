@@ -1,0 +1,7 @@
+{
+  "name": "fiddler-mcp",
+  "description": "Analyzes Telerik Fiddler SAZ session archives, enabling AI assistants to inspect, search, and filter HTTP sessions, plus performance and security auditing.",
+  "source_repo": "hqzzzz/fiddler-mcp",
+  "source_url": "https://github.com/hqzzzz/fiddler-mcp",
+  "install": "npx -y fiddler-mcp"
+}

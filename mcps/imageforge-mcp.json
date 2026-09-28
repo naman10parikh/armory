@@ -1,0 +1,7 @@
+{
+  "name": "imageforge-mcp",
+  "description": "Enables image generation and editing through OpenAI's gpt-image-2 model, supporting text-to-image, reference-guided generation, and editing with local files or URLs.",
+  "source_repo": "chanshawoh/imageforge-mcp",
+  "source_url": "https://github.com/chanshawoh/imageforge-mcp",
+  "install": "npx -y imageforge-mcp"
+}

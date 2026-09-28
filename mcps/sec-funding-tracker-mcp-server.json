@@ -1,0 +1,7 @@
+{
+  "name": "sec-funding-tracker-mcp-server",
+  "description": "Enables AI agents to search and retrieve US company funding events from SEC Form D filings, including amount raised, industry, executives, and filing URLs.",
+  "source_repo": "ssaikrishna862/sec-funding-mcp",
+  "source_url": "https://github.com/ssaikrishna862/sec-funding-mcp",
+  "install": "npx -y sec-funding-mcp"
+}

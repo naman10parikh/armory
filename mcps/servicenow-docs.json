@@ -1,0 +1,7 @@
+{
+  "name": "servicenow-docs",
+  "description": "MCP server for searching and reading ServiceNow documentation from a local clone, enabling keyword/regex queries and full doc retrieval without external APIs.",
+  "source_repo": "dasanjaneyuludarla/servicenowdoc-mcp",
+  "source_url": "https://github.com/dasanjaneyuludarla/servicenowdoc-mcp",
+  "install": "npx -y servicenowdoc-mcp"
+}

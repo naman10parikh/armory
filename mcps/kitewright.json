@@ -1,0 +1,7 @@
+{
+  "name": "kitewright",
+  "description": "A lightweight MCP server for browser automation that gives AI agents navigate, screenshot, and extract tools via a single small binary, without needing Node.js or Playwright. It provides CDP-based browser control with efficient startup and resource usage.",
+  "source_repo": "kitewright/kitewright",
+  "source_url": "https://github.com/kitewright/kitewright",
+  "install": "# git clone --depth 1 https://github.com/kitewright/kitewright\n# See source for mcpServers config block"
+}

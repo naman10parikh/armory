@@ -1,0 +1,7 @@
+{
+  "name": "postgres-mcp-query-tool",
+  "description": "An MCP server that gives an AI agent scoped, safe access to your Postgres databases with per-connection access control, row caps, timeouts, and defense-in-depth read-only enforcement.",
+  "source_repo": "nskha101/postgres-mcp-query-tool",
+  "source_url": "https://github.com/nskha101/postgres-mcp-query-tool",
+  "install": "# git clone --depth 1 https://github.com/nskha101/postgres-mcp-query-tool\n# See source for mcpServers config block"
+}

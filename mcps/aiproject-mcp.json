@@ -1,0 +1,7 @@
+{
+  "name": "aiproject-mcp",
+  "description": "MCP server for managing AIProject tasks and projects, providing CRUD operations for projects, tasks, and assignments with API key authentication.",
+  "source_repo": "evrenonur/aiproject-mcp",
+  "source_url": "https://github.com/evrenonur/aiproject-mcp",
+  "install": "npx -y aiproject-mcp"
+}

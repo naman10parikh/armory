@@ -1,0 +1,7 @@
+{
+  "name": "juno-mcp-server",
+  "description": "Enables AI-powered security investigation and threat analysis by connecting MCP-compatible clients to Uptycs Juno.",
+  "source_repo": "uptycslabs/juno-mcp-server",
+  "source_url": "https://github.com/uptycslabs/juno-mcp-server",
+  "install": "npx -y juno-mcp-server"
+}

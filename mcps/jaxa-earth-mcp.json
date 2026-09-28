@@ -1,0 +1,7 @@
+{
+  "name": "jaxa-earth-mcp",
+  "description": "Enables interactive access to JAXA's satellite observation data (precipitation, land surface temperature, NDVI, elevation, soil moisture) via Claude, providing tools for point time series, dataset information, and area image generation.",
+  "source_repo": "a-hikata/jaxa-earth-mcp",
+  "source_url": "https://github.com/a-hikata/jaxa-earth-mcp",
+  "install": "npx -y jaxa-earth-mcp"
+}

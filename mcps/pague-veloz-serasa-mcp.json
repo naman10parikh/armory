@@ -1,0 +1,7 @@
+{
+  "name": "pague-veloz-serasa-mcp",
+  "description": "Connects to Pague Veloz Serasa via Open Finance Brasil, enabling natural language queries for balances, transactions, credit cards, and investments. Read-only and secure, with explicit user consent.",
+  "source_repo": "mcp-dir/paguevelozserasa-mcp",
+  "source_url": "https://github.com/mcp-dir/paguevelozserasa-mcp",
+  "install": "npx -y paguevelozserasa-mcp"
+}

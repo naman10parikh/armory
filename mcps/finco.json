@@ -1,0 +1,7 @@
+{
+  "name": "finco",
+  "description": "An MCP server that enables natural-language queries over SEC EDGAR filings and live market data, providing hybrid retrieval with reranking for company snapshots, quotes, fundamentals, and macro indicators.",
+  "source_repo": "HamzaOuadid/finco",
+  "source_url": "https://github.com/HamzaOuadid/finco",
+  "install": "# git clone --depth 1 https://github.com/HamzaOuadid/finco\n# See source for mcpServers config block"
+}

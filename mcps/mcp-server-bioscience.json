@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-bioscience",
+  "description": "Biological and medical data search MCP server.",
+  "source_repo": "wangshuaifbj-collab/mcp-server-bioscience",
+  "source_url": "https://github.com/wangshuaifbj-collab/mcp-server-bioscience",
+  "install": "# git clone --depth 1 https://github.com/wangshuaifbj-collab/mcp-server-bioscience\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-weather-data-fetcher",
+  "description": "Enables AI agents to retrieve live weather updates for any city via OpenWeatherMap, wrapped in MCP format.",
+  "source_repo": "Ansh642/MCP-Server",
+  "source_url": "https://github.com/Ansh642/MCP-Server",
+  "install": "# git clone --depth 1 https://github.com/Ansh642/MCP-Server\n# See source for mcpServers config block"
+}

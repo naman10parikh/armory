@@ -1,0 +1,7 @@
+{
+  "name": "conduit-openapi-mcp",
+  "description": "Turns any OpenAPI/Swagger spec into an MCP server, generating one tool per endpoint with zero code.",
+  "source_repo": "tsouth89/conduit-openapi-mcp",
+  "source_url": "https://github.com/tsouth89/conduit-openapi-mcp",
+  "install": "npx -y conduit-openapi-mcp"
+}

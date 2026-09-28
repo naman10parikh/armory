@@ -1,0 +1,7 @@
+{
+  "name": "aindreyway-mcp-codex-keeper",
+  "description": "An intelligent MCP server that serves as a guardian of development knowledge, providing AI assistants with curated access to latest documentation and best practices.",
+  "source_repo": "AshutoshBuilds/mcp-codex-keeper",
+  "source_url": "https://github.com/AshutoshBuilds/mcp-codex-keeper",
+  "install": "# git clone --depth 1 https://github.com/AshutoshBuilds/mcp-codex-keeper\n# See source for mcpServers config block"
+}

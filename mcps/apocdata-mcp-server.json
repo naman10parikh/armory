@@ -1,0 +1,7 @@
+{
+  "name": "apocdata-mcp-server",
+  "description": "Provides 46 no-authentication A-share (Chinese stock market) data tools covering quotes, financials, capital flows, sectors, announcements, macro data, and more, callable from any MCP client without API keys.",
+  "source_repo": "ApocData/ApocData-mcp-server",
+  "source_url": "https://github.com/ApocData/ApocData-mcp-server",
+  "install": "npx -y ApocData-mcp-server"
+}

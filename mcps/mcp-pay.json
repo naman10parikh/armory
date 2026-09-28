@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pay",
+  "description": "Enables AI agents to discover and pay for MCP tools on a sub-cent, pay-per-call basis using x402 and Algorand USDC settlements.",
+  "source_repo": "challalokesh08/mcp-pay",
+  "source_url": "https://github.com/challalokesh08/mcp-pay",
+  "install": "# git clone --depth 1 https://github.com/challalokesh08/mcp-pay\n# See source for mcpServers config block"
+}

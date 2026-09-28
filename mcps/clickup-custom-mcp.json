@@ -1,0 +1,7 @@
+{
+  "name": "clickup-custom-mcp",
+  "description": "Custom MCP server integrating ClickUp tasks and docs/wikis via REST API with Personal Access Token.",
+  "source_repo": "lucaspsantana/clickup-mcp-server",
+  "source_url": "https://github.com/lucaspsantana/clickup-mcp-server",
+  "install": "npx -y clickup-mcp-server"
+}

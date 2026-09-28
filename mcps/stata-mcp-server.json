@@ -1,0 +1,7 @@
+{
+  "name": "stata-mcp-server",
+  "description": "An MCP server for managing, editing, and running Stata .do files, integrating with Claude Desktop to enable natural language control of Stata analysis on macOS.",
+  "source_repo": "mkprevo/stata-mcp-server",
+  "source_url": "https://github.com/mkprevo/stata-mcp-server",
+  "install": "npx -y stata-mcp-server"
+}

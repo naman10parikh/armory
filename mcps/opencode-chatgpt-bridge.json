@@ -1,0 +1,7 @@
+{
+  "name": "opencode-chatgpt-bridge",
+  "description": "A local MCP bridge that lets ChatGPT control opencode sessions for code modification, file reading, and repository management on your own computer.",
+  "source_repo": "yuga-hashimoto/opencode-chatgpt-bridge",
+  "source_url": "https://github.com/yuga-hashimoto/opencode-chatgpt-bridge",
+  "install": "# git clone --depth 1 https://github.com/yuga-hashimoto/opencode-chatgpt-bridge\n# See source for mcpServers config block"
+}

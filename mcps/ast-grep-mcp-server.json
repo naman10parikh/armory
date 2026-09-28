@@ -1,0 +1,7 @@
+{
+  "name": "ast-grep-mcp-server",
+  "description": "Enables structural code search and refactoring across 20+ programming languages using ast-grep patterns, with safe dry-run mode and flexible filtering.",
+  "source_repo": "thrawn01/mcp-ast-grep",
+  "source_url": "https://github.com/thrawn01/mcp-ast-grep",
+  "install": "# git clone --depth 1 https://github.com/thrawn01/mcp-ast-grep\n# See source for mcpServers config block"
+}

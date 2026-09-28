@@ -1,0 +1,7 @@
+{
+  "name": "draft-mcp-server",
+  "description": "Enables AI assistants to draft content such as PR descriptions, tickets, or messages, with a review window for live preview, editing, and approval before submission.",
+  "source_repo": "sgasser/draft-mcp-server",
+  "source_url": "https://github.com/sgasser/draft-mcp-server",
+  "install": "npx -y draft-mcp-server"
+}

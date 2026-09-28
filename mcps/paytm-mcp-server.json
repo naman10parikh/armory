@@ -1,0 +1,7 @@
+{
+  "name": "paytm-mcp-server",
+  "description": "Enables AI agents and developers to securely access Paytm's Payments and Business Payments APIs via MCP, allowing contextual automation of payment workflows like refunds, settlement tracking, and transaction status checks.",
+  "source_repo": "santosh-chourasiya/payment-mcp-server",
+  "source_url": "https://github.com/santosh-chourasiya/payment-mcp-server",
+  "install": "npx -y payment-mcp-server"
+}

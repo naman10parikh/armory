@@ -1,0 +1,7 @@
+{
+  "name": "figma-config-mcp",
+  "description": "Enables querying Figma Config 2026 sessions, speakers, and agenda via Claude without browsing.",
+  "source_repo": "laiyenju/figma-config-mcp",
+  "source_url": "https://github.com/laiyenju/figma-config-mcp",
+  "install": "npx -y figma-config-mcp"
+}

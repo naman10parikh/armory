@@ -1,0 +1,7 @@
+{
+  "name": "dmcp",
+  "description": "An MCP server that enables AI agents to act as dynamic dungeon masters for text-based RPGs with dynamically generated rule systems and comprehensive game state management.",
+  "source_repo": "shawnrushefsky/dmcp",
+  "source_url": "https://github.com/shawnrushefsky/dmcp",
+  "install": "# git clone --depth 1 https://github.com/shawnrushefsky/dmcp\n# See source for mcpServers config block"
+}

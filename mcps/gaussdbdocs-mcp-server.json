@@ -1,0 +1,7 @@
+{
+  "name": "gaussdbdocs-mcp-server",
+  "description": "Local MCP server for GaussDB documentation semantic search and read-only database introspection.",
+  "source_repo": "songmenglin-dev/gaussdbdocs-mcp-server",
+  "source_url": "https://github.com/songmenglin-dev/gaussdbdocs-mcp-server",
+  "install": "npx -y gaussdbdocs-mcp-server"
+}

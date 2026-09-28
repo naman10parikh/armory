@@ -1,0 +1,7 @@
+{
+  "name": "solplanet-mcp",
+  "description": "MCP server for Solplanet ASW5-T inverter, enabling natural language queries about solar energy system status and control.",
+  "source_repo": "kalmma/solplanet-mcp",
+  "source_url": "https://github.com/kalmma/solplanet-mcp",
+  "install": "npx -y solplanet-mcp"
+}

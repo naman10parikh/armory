@@ -1,0 +1,7 @@
+{
+  "name": "real-world-mcp",
+  "description": "Enables AI agents to rank US healthcare organizations for clinical trial site feasibility, predicting patient accrual for a Graves' disease protocol using claims and registry data.",
+  "source_repo": "Krv-Labs/how-to-train-your-dragon",
+  "source_url": "https://github.com/Krv-Labs/how-to-train-your-dragon",
+  "install": "# git clone --depth 1 https://github.com/Krv-Labs/how-to-train-your-dragon\n# See source for mcpServers config block"
+}

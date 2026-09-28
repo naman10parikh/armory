@@ -1,0 +1,7 @@
+{
+  "name": "verso-mcp",
+  "description": "An MCP server that lets AI agents search and read documentation built with Verso, Lean's documentation authoring tool, by providing tools like search and fetch_page over configured documentation sites.",
+  "source_repo": "nvlang/verso-mcp",
+  "source_url": "https://github.com/nvlang/verso-mcp",
+  "install": "npx -y verso-mcp"
+}

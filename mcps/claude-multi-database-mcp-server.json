@@ -1,0 +1,7 @@
+{
+  "name": "claude-multi-database-mcp-server",
+  "description": "An MCP server that enables Claude to query multiple databases (PostgreSQL, ClickHouse, MaxCompute) with automatic schema discovery and intelligent table search.",
+  "source_repo": "xza-m/claude-multi-db-mcp",
+  "source_url": "https://github.com/xza-m/claude-multi-db-mcp",
+  "install": "npx -y claude-multi-db-mcp"
+}

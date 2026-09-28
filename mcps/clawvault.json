@@ -1,0 +1,7 @@
+{
+  "name": "clawvault",
+  "description": "MCP server for ClawVault - an AI agent payment security layer that enables Claude to request payments, check limits, and manage transactions with configurable rules.",
+  "source_repo": "andrewszk/clawvault-mcp-server",
+  "source_url": "https://github.com/andrewszk/clawvault-mcp-server",
+  "install": "npx -y clawvault-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "super-calculadora-mcp",
+  "description": "An MCP server providing over 30 mathematical and statistical tools, enabling language models to perform calculations, trigonometry, statistics, combinatorics, and list operations through natural language.",
+  "source_repo": "Denisijcu/mcp-calculadora",
+  "source_url": "https://github.com/Denisijcu/mcp-calculadora",
+  "install": "# git clone --depth 1 https://github.com/Denisijcu/mcp-calculadora\n# See source for mcpServers config block"
+}

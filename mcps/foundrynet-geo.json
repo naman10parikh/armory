@@ -1,0 +1,7 @@
+{
+  "name": "foundrynet-geo",
+  "description": "Enables geocoding (address to coordinates and reverse) and distance calculations for AI agents with per-call micropayments in USDC, no API keys required.",
+  "source_repo": "FoundryNet/foundrynet-geo",
+  "source_url": "https://github.com/FoundryNet/foundrynet-geo",
+  "install": "# git clone --depth 1 https://github.com/FoundryNet/foundrynet-geo\n# See source for mcpServers config block"
+}

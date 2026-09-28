@@ -1,0 +1,7 @@
+{
+  "name": "inventree-mcp",
+  "description": "Enables interaction with InvenTree inventory management system, providing tools for parts, stock, orders, companies, barcodes, labels, reports, attachments, and system administration.",
+  "source_repo": "hvkshetry/inventree-mcp",
+  "source_url": "https://github.com/hvkshetry/inventree-mcp",
+  "install": "npx -y inventree-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arrstack",
+  "description": "MCP server that enables local LLMs to manage a home media stack including Radarr, Sonarr, Prowlarr, and others.",
+  "source_repo": "indlns/mcp-arrstack",
+  "source_url": "https://github.com/indlns/mcp-arrstack",
+  "install": "# git clone --depth 1 https://github.com/indlns/mcp-arrstack\n# See source for mcpServers config block"
+}

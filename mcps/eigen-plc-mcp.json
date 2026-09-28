@@ -1,0 +1,7 @@
+{
+  "name": "eigen-plc-mcp",
+  "description": "An open-source MCP server for industrial automation that generates, debugs, and validates PLC code for Siemens S7-1200, serving as a free and customizable alternative to Siemens Eigen Engineering Agent.",
+  "source_repo": "SHU996/eigen-plc-mcp",
+  "source_url": "https://github.com/SHU996/eigen-plc-mcp",
+  "install": "npx -y eigen-plc-mcp"
+}

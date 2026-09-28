@@ -1,0 +1,7 @@
+{
+  "name": "dora-nis2-crosswalk-mcp",
+  "description": "Enables mapping and cross-referencing obligations between DORA and NIS2 regulatory regimes for entities in scope of both.",
+  "source_repo": "CSOAI-ORG/dora-nis2-crosswalk-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/dora-nis2-crosswalk-mcp",
+  "install": "npx -y dora-nis2-crosswalk-mcp"
+}

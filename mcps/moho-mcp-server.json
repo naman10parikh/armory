@@ -1,0 +1,7 @@
+{
+  "name": "moho-mcp-server",
+  "description": "An MCP server for Moho Pro 14 that lets MCP clients inspect documents, edit layers and animation, render frames, capture the Moho window, and send mouse or keyboard input.",
+  "source_repo": "neosh11/moho-mcp-server",
+  "source_url": "https://github.com/neosh11/moho-mcp-server",
+  "install": "npx -y moho-mcp-server"
+}

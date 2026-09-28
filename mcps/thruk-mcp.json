@@ -1,0 +1,7 @@
+{
+  "name": "thruk-mcp",
+  "description": "Enables natural language interaction with Thruk monitoring systems, allowing users to query hosts/services, schedule downtimes, acknowledge problems, and more via MCP-compatible clients.",
+  "source_repo": "k9fr4n/thruk-mcp",
+  "source_url": "https://github.com/k9fr4n/thruk-mcp",
+  "install": "npx -y thruk-mcp"
+}

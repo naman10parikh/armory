@@ -1,0 +1,7 @@
+{
+  "name": "mcp-eu-compliance",
+  "description": "MCP server for EU compliance grounding (GDPR, AI Act, DORA, NIS2, eIDAS 2.0, CRA) — verbatim retrieval from a local SQLite FTS5 index.",
+  "source_repo": "matematicsolutions/mcp-eu-compliance",
+  "source_url": "https://github.com/matematicsolutions/mcp-eu-compliance",
+  "install": "# git clone --depth 1 https://github.com/matematicsolutions/mcp-eu-compliance\n# See source for mcpServers config block"
+}

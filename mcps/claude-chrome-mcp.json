@@ -1,0 +1,7 @@
+{
+  "name": "claude-chrome-mcp",
+  "description": "Enables MCP clients like Claude Desktop to automate and interact with claude.ai via a Chrome extension and WebSocket relay.",
+  "source_repo": "durapensa/claude-chrome-mcp",
+  "source_url": "https://github.com/durapensa/claude-chrome-mcp",
+  "install": "npx -y claude-chrome-mcp"
+}

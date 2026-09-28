@@ -1,0 +1,7 @@
+{
+  "name": "aidress",
+  "description": "Aidress is a discovery and coordination layer for autonomous AI agents — find, verify, and transact with unknown counterparts",
+  "source_repo": "Aidress-ai/Aidress",
+  "source_url": "https://github.com/Aidress-ai/Aidress",
+  "install": "# git clone --depth 1 https://github.com/Aidress-ai/Aidress\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aol-mail-mcp-server",
+  "description": "Enables reading, searching, sending, and managing AOL Mail emails and folders via natural language, compatible with VS Code Copilot and Claude Desktop.",
+  "source_repo": "kubegrind/aol-mcp-server",
+  "source_url": "https://github.com/kubegrind/aol-mcp-server",
+  "install": "npx -y aol-mcp-server"
+}

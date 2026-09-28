@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-estonia-payments-mcp",
+  "description": "Enables AI agents to accept payments in Estonia via Stripe's hosted checkout, supporting cards, Apple Pay, and Google Pay.",
+  "source_repo": "junter1989k-ai/estonia-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/estonia-payments-mcp",
+  "install": "npx -y estonia-payments-mcp"
+}

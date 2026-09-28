@@ -1,0 +1,7 @@
+{
+  "name": "memkin",
+  "description": "Local-first personal memory for AI agents. Captures your Feishu chats, emails, meetings, and AI coding sessions into a private memory graph, and serves it to any agent over MCP.",
+  "source_repo": "AndreLYL/memkin",
+  "source_url": "https://github.com/AndreLYL/memkin",
+  "install": "# git clone --depth 1 https://github.com/AndreLYL/memkin\n# See source for mcpServers config block"
+}

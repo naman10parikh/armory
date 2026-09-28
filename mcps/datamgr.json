@@ -1,0 +1,7 @@
+{
+  "name": "datamgr",
+  "description": "Enables AI assistants to discover and inspect research datasets via a read-only MCP server, offering search, variable listing, and metadata retrieval without reading data files.",
+  "source_repo": "philogeneperessini-ui/data-manage",
+  "source_url": "https://github.com/philogeneperessini-ui/data-manage",
+  "install": "# git clone --depth 1 https://github.com/philogeneperessini-ui/data-manage\n# See source for mcpServers config block"
+}

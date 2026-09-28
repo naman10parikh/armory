@@ -1,0 +1,7 @@
+{
+  "name": "cronmanager-mcp",
+  "description": "Enables managing cron jobs, maintenance windows, and settings through natural language by exposing the Cronmanager REST API as MCP tools for LLM clients like Claude.",
+  "source_repo": "csoscd/cronmanager-mcp",
+  "source_url": "https://github.com/csoscd/cronmanager-mcp",
+  "install": "npx -y cronmanager-mcp"
+}

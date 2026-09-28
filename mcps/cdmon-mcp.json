@@ -1,0 +1,7 @@
+{
+  "name": "cdmon-mcp",
+  "description": "MCP server for deploying files via FTP and running SQL via phpMyAdmin on cdmon shared hosting, with safety features like path traversal protection and rate limiting.",
+  "source_repo": "OpusProjects/cdmon-mcp",
+  "source_url": "https://github.com/OpusProjects/cdmon-mcp",
+  "install": "npx -y cdmon-mcp"
+}

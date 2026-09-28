@@ -1,0 +1,7 @@
+{
+  "name": "delx-witness-protocol",
+  "description": "MCP server providing witness, recovery, and continuity primitives for AI agents, enabling them to articulate failure, preserve state across sessions, and coordinate via MCP, A2A, or REST.",
+  "source_repo": "davidmosiah/delx-witness-protocol",
+  "source_url": "https://github.com/davidmosiah/delx-witness-protocol",
+  "install": "# git clone --depth 1 https://github.com/davidmosiah/delx-witness-protocol\n# See source for mcpServers config block"
+}

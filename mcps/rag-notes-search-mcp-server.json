@@ -1,0 +1,7 @@
+{
+  "name": "rag-notes-search-mcp-server",
+  "description": "Enables semantic search over personal study notes by exposing a vector search tool that Claude Desktop can call to retrieve relevant note content and synthesize grounded answers.",
+  "source_repo": "rohith0224/rag-mcp-server",
+  "source_url": "https://github.com/rohith0224/rag-mcp-server",
+  "install": "npx -y rag-mcp-server"
+}

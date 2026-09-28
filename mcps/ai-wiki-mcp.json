@@ -1,0 +1,7 @@
+{
+  "name": "ai-wiki-mcp",
+  "description": "Provides structured search, schema-validated writes, and linting for a markdown knowledge base, enabling agents to operate the wiki over a single streamable-HTTP MCP endpoint.",
+  "source_repo": "jhonnold/ai-wiki-mcp",
+  "source_url": "https://github.com/jhonnold/ai-wiki-mcp",
+  "install": "npx -y ai-wiki-mcp"
+}

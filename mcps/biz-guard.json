@@ -1,0 +1,7 @@
+{
+  "name": "biz-guard",
+  "description": "MCP server that enforces critical business invariants on AI-generated code changes, providing deterministic, evidence-backed ALLOW/BLOCK decisions before patches are accepted.",
+  "source_repo": "PureBlueFrank/biz-guard",
+  "source_url": "https://github.com/PureBlueFrank/biz-guard",
+  "install": "# git clone --depth 1 https://github.com/PureBlueFrank/biz-guard\n# See source for mcpServers config block"
+}

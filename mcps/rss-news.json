@@ -1,0 +1,7 @@
+{
+  "name": "rss-news",
+  "description": "Enables AI to manage RSS subscriptions, fetch and summarize news, and organize results into tools like Notion.",
+  "source_repo": "max1ab/rss-news",
+  "source_url": "https://github.com/max1ab/rss-news",
+  "install": "# git clone --depth 1 https://github.com/max1ab/rss-news\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "airspeed-mcp",
+  "description": "Remote MCP server that exposes Airspeed/Glyphic call data to Claude web, enabling tools to list, retrieve, and query calls, transcripts, snippets, and playbooks.",
+  "source_repo": "josh-sea/airspeed-mcp",
+  "source_url": "https://github.com/josh-sea/airspeed-mcp",
+  "install": "npx -y airspeed-mcp"
+}

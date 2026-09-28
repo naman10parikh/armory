@@ -1,0 +1,7 @@
+{
+  "name": "perplexity-search-mcp",
+  "description": "MCP server for web search via Perplexity Sonar Pro through OpenRouter API, enabling customizable search queries with different models.",
+  "source_repo": "fromdot/perplexity-search-mcp",
+  "source_url": "https://github.com/fromdot/perplexity-search-mcp",
+  "install": "npx -y perplexity-search-mcp"
+}

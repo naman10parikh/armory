@@ -1,0 +1,7 @@
+{
+  "name": "kube-assistant-mcp",
+  "description": "MCP server that connects LLMs to Kubernetes clusters for troubleshooting, scanning failing pods, diagnosing root causes, and applying guarded fixes or generating manifests via natural language.",
+  "source_repo": "yonatani94/kube-assistant-mcp",
+  "source_url": "https://github.com/yonatani94/kube-assistant-mcp",
+  "install": "npx -y kube-assistant-mcp"
+}

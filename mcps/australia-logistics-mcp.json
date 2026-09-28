@@ -1,0 +1,7 @@
+{
+  "name": "australia-logistics-mcp",
+  "description": "Enables AI agents to buy, track, and refund Australian shipping labels (Aramex, etc.) via the Shippo API, with automatic cheapest-rate selection and no carrier contract required.",
+  "source_repo": "junter1989k-ai/australia-logistics-mcp",
+  "source_url": "https://github.com/junter1989k-ai/australia-logistics-mcp",
+  "install": "npx -y australia-logistics-mcp"
+}

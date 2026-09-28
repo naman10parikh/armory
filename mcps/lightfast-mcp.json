@@ -1,0 +1,7 @@
+{
+  "name": "lightfast-mcp",
+  "description": "Production-ready MCP server implementations for creative applications, enabling control of Blender and other tools through the Model Context Protocol.",
+  "source_repo": "ekakit/lightfast-mcp",
+  "source_url": "https://github.com/ekakit/lightfast-mcp",
+  "install": "npx -y lightfast-mcp"
+}

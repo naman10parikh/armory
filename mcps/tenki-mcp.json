@@ -1,0 +1,7 @@
+{
+  "name": "tenki-mcp",
+  "description": "A Model Context Protocol server for Tenki Cloud that provides agents with disposable microVMs to run code, manage files, use git, and expose web services, with fast boot times and per-second billing.",
+  "source_repo": "opencolin/tenki-mcp",
+  "source_url": "https://github.com/opencolin/tenki-mcp",
+  "install": "npx -y tenki-mcp"
+}

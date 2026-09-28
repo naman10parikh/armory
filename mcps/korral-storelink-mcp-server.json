@@ -1,0 +1,7 @@
+{
+  "name": "korral-storelink-mcp-server",
+  "description": "Enables AI agents to interact with Korral's StoreLink system to check store inventory and sales data, and create replenishment orders to manage stock-outs.",
+  "source_repo": "AI-Product-Allen-Yu/korral-storelink-mcp",
+  "source_url": "https://github.com/AI-Product-Allen-Yu/korral-storelink-mcp",
+  "install": "npx -y korral-storelink-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "klayout-mcp",
+  "description": "Read-only MCP server for KLayout that opens GDS/OAS layouts, inspects geometry and hierarchy, renders deterministic PNGs, and runs batch DRC with structured JSON output.",
+  "source_repo": "aycandv/klayout-mcp",
+  "source_url": "https://github.com/aycandv/klayout-mcp",
+  "install": "npx -y klayout-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sources-mcp",
+  "description": "Read-only MCP server exposing homelab data sources (files, mail, calls) to Cloudflare OS, enabling read-only access to documents, emails, and call records.",
+  "source_repo": "Eingin/sources-mcp",
+  "source_url": "https://github.com/Eingin/sources-mcp",
+  "install": "npx -y sources-mcp"
+}

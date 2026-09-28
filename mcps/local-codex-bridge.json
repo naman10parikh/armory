@@ -1,0 +1,7 @@
+{
+  "name": "local-codex-bridge",
+  "description": "Enables ChatGPT or other MCP clients to control native Codex sessions on Windows, providing tools for thread management, turns, observation, steering, and responding to approvals.",
+  "source_repo": "zoeynine/Local-Codex-Bridge",
+  "source_url": "https://github.com/zoeynine/Local-Codex-Bridge",
+  "install": "# git clone --depth 1 https://github.com/zoeynine/Local-Codex-Bridge\n# See source for mcpServers config block"
+}

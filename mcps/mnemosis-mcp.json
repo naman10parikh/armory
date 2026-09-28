@@ -1,0 +1,7 @@
+{
+  "name": "mnemosis-mcp",
+  "description": "Provides AI agents with a human-inspired memory layer via MCP, enabling episodic and semantic memory recall, forgetting curves, consolidation, and contradiction detection. It integrates with MCP clients to offer local-first, dependency-free memory management.",
+  "source_repo": "liyexiaoyi/Mnemosis",
+  "source_url": "https://github.com/liyexiaoyi/Mnemosis",
+  "install": "# git clone --depth 1 https://github.com/liyexiaoyi/Mnemosis\n# See source for mcpServers config block"
+}

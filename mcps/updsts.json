@@ -1,0 +1,7 @@
+{
+  "name": "updsts",
+  "description": "Automatically update AWS credential files with temporary STS tokens and retrieve credential info, enabling secure credential management via Agent tools.",
+  "source_repo": "zv-louis/updsts",
+  "source_url": "https://github.com/zv-louis/updsts",
+  "install": "# git clone --depth 1 https://github.com/zv-louis/updsts\n# See source for mcpServers config block"
+}

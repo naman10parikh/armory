@@ -1,0 +1,7 @@
+{
+  "name": "embedded-debug-mcp",
+  "description": "Provides serial debugging for embedded Linux targets, enabling boot log capture, automatic login, crash detection, U-Boot interrupt, and hardware reset via MCP protocol.",
+  "source_repo": "bitshelf/serial-debug-mcp",
+  "source_url": "https://github.com/bitshelf/serial-debug-mcp",
+  "install": "npx -y serial-debug-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pebble-index-mcp",
+  "description": "Enables voice captures from a smart ring to search and append notes in a local Obsidian vault and query an OpenAI-compatible AI agent, returning answers as phone notifications.",
+  "source_repo": "jcrabapple/pebble-index-mcp",
+  "source_url": "https://github.com/jcrabapple/pebble-index-mcp",
+  "install": "npx -y pebble-index-mcp"
+}

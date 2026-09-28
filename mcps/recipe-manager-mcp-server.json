@@ -1,0 +1,7 @@
+{
+  "name": "recipe-manager-mcp-server",
+  "description": "Enables managing recipes via a web UI and MCP tools, allowing retrieval and saving of recipe data through natural language.",
+  "source_repo": "magico13/recipe-mcp",
+  "source_url": "https://github.com/magico13/recipe-mcp",
+  "install": "npx -y recipe-mcp"
+}

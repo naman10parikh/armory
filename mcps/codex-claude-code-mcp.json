@@ -1,0 +1,7 @@
+{
+  "name": "codex-claude-code-mcp",
+  "description": "Enables Codex to delegate long-running work to Claude Code via blocking MCP calls, with tools for model discovery, run, and resume without polling.",
+  "source_repo": "Happenmass/codex-claude-code-mcp",
+  "source_url": "https://github.com/Happenmass/codex-claude-code-mcp",
+  "install": "npx -y codex-claude-code-mcp"
+}

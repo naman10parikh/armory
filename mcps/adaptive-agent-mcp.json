@@ -1,0 +1,7 @@
+{
+  "name": "adaptive-agent-mcp",
+  "description": "A self-evolving RAG system that enables AI agents to autonomously read and write memory, continuously learning and adapting user preferences, daily logs, and knowledge graphs across applications.",
+  "source_repo": "justForever17/adaptive-agent-mcp",
+  "source_url": "https://github.com/justForever17/adaptive-agent-mcp",
+  "install": "npx -y adaptive-agent-mcp"
+}

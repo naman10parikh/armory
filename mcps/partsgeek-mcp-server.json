@@ -1,0 +1,7 @@
+{
+  "name": "partsgeek-mcp-server",
+  "description": "Enables searching PartsGeek for parts, retrieving product details, and obtaining cart estimates for price comparison, without placing orders or requiring a PartsGeek account.",
+  "source_repo": "cozadizzle/partsgeek-mcp-server",
+  "source_url": "https://github.com/cozadizzle/partsgeek-mcp-server",
+  "install": "npx -y partsgeek-mcp-server"
+}

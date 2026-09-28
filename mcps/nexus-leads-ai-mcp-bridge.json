@@ -1,0 +1,7 @@
+{
+  "name": "nexus-leads-ai-mcp-bridge",
+  "description": "Remote MCP server that connects Nexus Leads AI to MCP-compatible clients, enabling read-only operations on leads, tasks, proposals, and more, plus controlled test scenarios, secured via GitHub OAuth.",
+  "source_repo": "luizfelipeehsilva-afk/nexus-leads-mcp",
+  "source_url": "https://github.com/luizfelipeehsilva-afk/nexus-leads-mcp",
+  "install": "npx -y nexus-leads-mcp"
+}

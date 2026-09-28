@@ -1,0 +1,7 @@
+{
+  "name": "oecd-mcp-server",
+  "description": "Provides AI assistants access to over 5,000 OECD economic and statistical datasets via the SDMX API for search, analysis, and comparison across 38 countries.",
+  "source_repo": "isakskogstad/OECD-MCP",
+  "source_url": "https://github.com/isakskogstad/OECD-MCP",
+  "install": "npx -y OECD-MCP"
+}

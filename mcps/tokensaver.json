@@ -1,0 +1,7 @@
+{
+  "name": "tokensaver",
+  "description": "MCP server that reduces token usage for AI coding agents by providing structural code outlines and minification for .NET projects.",
+  "source_repo": "Byggarepop/TokenSaver",
+  "source_url": "https://github.com/Byggarepop/TokenSaver",
+  "install": "# git clone --depth 1 https://github.com/Byggarepop/TokenSaver\n# See source for mcpServers config block"
+}

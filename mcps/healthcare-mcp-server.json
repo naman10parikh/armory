@@ -1,0 +1,7 @@
+{
+  "name": "healthcare-mcp-server",
+  "description": "Enables an AI agent to query a patient-records SQLite database with tools for schema inspection, safe SQL queries, patient risk assessment, and readmission risk analysis.",
+  "source_repo": "yashika306/Healthcare-MCP-Server",
+  "source_url": "https://github.com/yashika306/Healthcare-MCP-Server",
+  "install": "npx -y Healthcare-MCP-Server"
+}

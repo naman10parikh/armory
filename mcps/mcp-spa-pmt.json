@@ -1,0 +1,7 @@
+{
+  "name": "mcp-spa-pmt",
+  "description": "Enables natural language, read-only access to the SPA system of the Prefeitura Municipal de Teresina, allowing users to query process boxes, urgent deadlines, recent entries, triage briefings, and judicial documents via pure HTTP without a browser.",
+  "source_repo": "fxbarros/MCP-SPA-PMT",
+  "source_url": "https://github.com/fxbarros/MCP-SPA-PMT",
+  "install": "# git clone --depth 1 https://github.com/fxbarros/MCP-SPA-PMT\n# See source for mcpServers config block"
+}

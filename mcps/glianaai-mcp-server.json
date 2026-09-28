@@ -1,0 +1,7 @@
+{
+  "name": "glianaai-mcp-server",
+  "description": "Enables pay-per-call access to 90+ generative AI models and utility tools via any MCP client, with no signup or API key, using wallet-based USDC payments on Base, Tempo, or Solana.",
+  "source_repo": "Gliana-Labs/gliana-mcp",
+  "source_url": "https://github.com/Gliana-Labs/gliana-mcp",
+  "install": "npx -y gliana-mcp"
+}

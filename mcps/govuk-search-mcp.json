@@ -1,0 +1,7 @@
+{
+  "name": "govuk-search-mcp",
+  "description": "Enables searching GOV.UK by keyword and fetching latest publications using the GOV.UK Search API.",
+  "source_repo": "JAEarly/govuk-search-mcp",
+  "source_url": "https://github.com/JAEarly/govuk-search-mcp",
+  "install": "npx -y govuk-search-mcp"
+}

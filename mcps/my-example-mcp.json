@@ -1,0 +1,7 @@
+{
+  "name": "my-example-mcp",
+  "description": "An MCP server template with built-in OAuth 2.0 authorization code flow and PKCE, enabling Grok to authenticate and invoke tools such as hello and publish_page.",
+  "source_repo": "v1xingyue/my-example-mcp",
+  "source_url": "https://github.com/v1xingyue/my-example-mcp",
+  "install": "npx -y my-example-mcp"
+}

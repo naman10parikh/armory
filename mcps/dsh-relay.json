@@ -1,0 +1,7 @@
+{
+  "name": "dsh-relay",
+  "description": "Diagnoses the Codex MCP launch path and writes host configuration so Codex, Cursor, or Claude Code can spawn the dsh profile. It does not run the MCP stdio server in the Web process.",
+  "source_repo": "tonytanglab/deepseek-harness-relay-mcp",
+  "source_url": "https://github.com/tonytanglab/deepseek-harness-relay-mcp",
+  "install": "npx -y deepseek-harness-relay-mcp"
+}

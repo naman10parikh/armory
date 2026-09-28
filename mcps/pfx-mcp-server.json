@@ -1,0 +1,7 @@
+{
+  "name": "pfx-mcp-server",
+  "description": "Connects AI assistants like Claude, ChatGPT, and Gemini to Forterro Proffix Px5 ERP, enabling natural language queries, data access, and workflow automation via the Model Context Protocol.",
+  "source_repo": "pitwch/pfx-mcp-server",
+  "source_url": "https://github.com/pitwch/pfx-mcp-server",
+  "install": "npx -y pfx-mcp-server"
+}

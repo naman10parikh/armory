@@ -1,0 +1,7 @@
+{
+  "name": "vibo-mcp",
+  "description": "Enables hosts and couples to plan event music using Vibo by browsing events, managing song requests, and exporting selections to Spotify/Apple Music via natural language.",
+  "source_repo": "chrischall/vibo-mcp",
+  "source_url": "https://github.com/chrischall/vibo-mcp",
+  "install": "npx -y vibo-mcp"
+}

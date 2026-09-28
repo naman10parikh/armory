@@ -1,0 +1,7 @@
+{
+  "name": "spanlens-mcp",
+  "description": "MCP-native LLM observability. Query your Spanlens traces, stats, cost anomalies, and savings from Cursor, Claude Desktop, or any MCP client. Open source (MIT).",
+  "source_repo": "spanlens/Spanlens",
+  "source_url": "https://github.com/spanlens/Spanlens",
+  "install": "# git clone --depth 1 https://github.com/spanlens/Spanlens\n# See source for mcpServers config block"
+}

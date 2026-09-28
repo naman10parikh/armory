@@ -1,0 +1,7 @@
+{
+  "name": "steuer-spar-erklaerung-mcp",
+  "description": "A local Windows automation MCP server that lets a KI-Agent safely control the SteuerSparErklärung tax software: inventory and open tax cases, read pages, compare receipts and values, and edit verified working copies, with all ELSTER transmission paths locked tight.",
+  "source_repo": "yadimon/steuer-spar-erklaerung-mcp",
+  "source_url": "https://github.com/yadimon/steuer-spar-erklaerung-mcp",
+  "install": "npx -y steuer-spar-erklaerung-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cursor-chatgpt-web",
+  "description": "MCP server enabling Cursor to delegate complex coding tasks to ChatGPT Web (GPT-5.6 Sol High) via Temporary Chats, supporting parallel batch reviews and up to five concurrent sessions.",
+  "source_repo": "Rakeem-C/cursor-chatgpt-web",
+  "source_url": "https://github.com/Rakeem-C/cursor-chatgpt-web",
+  "install": "# git clone --depth 1 https://github.com/Rakeem-C/cursor-chatgpt-web\n# See source for mcpServers config block"
+}

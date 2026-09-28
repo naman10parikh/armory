@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-mcp",
+  "description": "A local MCP server that scans workspaces, detects projects and technologies, and creates reusable agents for planning, rules validation, performance review, and architecture review per project.",
+  "source_repo": "juyagu1/daedalus-mcp",
+  "source_url": "https://github.com/juyagu1/daedalus-mcp",
+  "install": "npx -y daedalus-mcp"
+}

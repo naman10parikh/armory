@@ -1,0 +1,7 @@
+{
+  "name": "joke-button-mcp-server",
+  "description": "A minimal MCP server that exposes a single-button UI. Clicking the button prompts the assistant to deliver a short, family-friendly joke.",
+  "source_repo": "mwilber/mcpapptest",
+  "source_url": "https://github.com/mwilber/mcpapptest",
+  "install": "# git clone --depth 1 https://github.com/mwilber/mcpapptest\n# See source for mcpServers config block"
+}

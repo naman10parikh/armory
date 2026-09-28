@@ -1,0 +1,7 @@
+{
+  "name": "queryquarry",
+  "description": "Consent-based, double-blind talent marketplace. Recruiters' AI assistants search an anonymous corpus of opted-in candidates in natural language, evaluate match cards, and request contact — identity is revealed only when the candidate chooses to respond. Hosted remote server (streamable HTTP + OAuth)",
+  "source_repo": "QueryQuarry/QueryQuarry",
+  "source_url": "https://github.com/QueryQuarry/QueryQuarry",
+  "install": "# git clone --depth 1 https://github.com/QueryQuarry/QueryQuarry\n# See source for mcpServers config block"
+}

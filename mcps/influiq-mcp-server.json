@@ -1,0 +1,7 @@
+{
+  "name": "influiq-mcp-server",
+  "description": "Connects AI tools to InfluIQ for analyzing influencers, discovering creators, and generating reputation reports through natural language.",
+  "source_repo": "tommysdaniel/influiq-mcp-server",
+  "source_url": "https://github.com/tommysdaniel/influiq-mcp-server",
+  "install": "npx -y influiq-mcp-server"
+}

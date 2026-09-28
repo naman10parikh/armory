@@ -1,0 +1,7 @@
+{
+  "name": "shiryan-mcp-server",
+  "description": "Enables AI agents to access SHIRYAN's change detection, geofencing, and alert synthesis for monitoring pipeline and critical infrastructure corridors in Saudi Arabia via MCP stdio tools.",
+  "source_repo": "NotMarwan/shiryan",
+  "source_url": "https://github.com/NotMarwan/shiryan",
+  "install": "# git clone --depth 1 https://github.com/NotMarwan/shiryan\n# See source for mcpServers config block"
+}

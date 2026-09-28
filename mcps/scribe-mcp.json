@@ -1,0 +1,7 @@
+{
+  "name": "scribe-mcp",
+  "description": "Transcribes audio/video files, generates summaries and structured knowledge items, and supports Notion integration and chat-based interaction. Works as a standalone CLI, Notion integration, or MCP server tool for agent ecosystems.",
+  "source_repo": "dariakroshka/scribe-mcp",
+  "source_url": "https://github.com/dariakroshka/scribe-mcp",
+  "install": "npx -y scribe-mcp"
+}

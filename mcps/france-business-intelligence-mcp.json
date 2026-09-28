@@ -1,0 +1,7 @@
+{
+  "name": "france-business-intelligence-mcp",
+  "description": "Enables AI agents to search and retrieve detailed profiles of 25 million French companies from the official government registry, including directors, activity codes, and establishment data, without requiring an API key.",
+  "source_repo": "fzthiait-ai/france-business-intelligence-mcp",
+  "source_url": "https://github.com/fzthiait-ai/france-business-intelligence-mcp",
+  "install": "npx -y france-business-intelligence-mcp"
+}

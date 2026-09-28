@@ -1,0 +1,7 @@
+{
+  "name": "macrofactor-mcp",
+  "description": "Enables Claude.ai to read your MacroFactor nutrition data and log food back into MacroFactor.",
+  "source_repo": "chaotix345/macrofactor-mcp",
+  "source_url": "https://github.com/chaotix345/macrofactor-mcp",
+  "install": "npx -y macrofactor-mcp"
+}

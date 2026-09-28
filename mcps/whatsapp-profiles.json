@@ -1,0 +1,7 @@
+{
+  "name": "whatsapp-profiles",
+  "description": "Enables local querying of WhatsApp message history via SQLite, with profile separation, media transcription, and operational summaries.",
+  "source_repo": "spanevello0x/whatsapp-engineer",
+  "source_url": "https://github.com/spanevello0x/whatsapp-engineer",
+  "install": "# git clone --depth 1 https://github.com/spanevello0x/whatsapp-engineer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "weather-mcp-server-js",
+  "description": "A remote MCP server that exposes a get_weather tool for real-time current weather queries of any city via the free wttr.in API, supporting Streamable HTTP transport.",
+  "source_repo": "yuxiaosenstar/weather-mcp-server-js",
+  "source_url": "https://github.com/yuxiaosenstar/weather-mcp-server-js",
+  "install": "# git clone --depth 1 https://github.com/yuxiaosenstar/weather-mcp-server-js\n# See source for mcpServers config block"
+}

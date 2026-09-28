@@ -1,0 +1,7 @@
+{
+  "name": "runapi-ai-gpt-image-2-mcp",
+  "description": "An MCP server that enables AI image editing and generation using the GPT Image 2 model line via RunAPI, with task polling and pricing checks.",
+  "source_repo": "runapi-ai/gpt-image-2-mcp",
+  "source_url": "https://github.com/runapi-ai/gpt-image-2-mcp",
+  "install": "npx -y gpt-image-2-mcp"
+}

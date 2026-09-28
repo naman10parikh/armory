@@ -1,0 +1,7 @@
+{
+  "name": "fattly",
+  "description": "MCP server that enables AI assistants to generate images, video, and audio via the FATTLY API.",
+  "source_repo": "industriesfatty-spec/fattly-mcp",
+  "source_url": "https://github.com/industriesfatty-spec/fattly-mcp",
+  "install": "npx -y fattly-mcp"
+}

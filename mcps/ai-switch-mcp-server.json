@@ -1,0 +1,7 @@
+{
+  "name": "ai-switch-mcp-server",
+  "description": "Enables session continuity across AI coding assistants by preserving context and generating handoff markdown, allowing seamless switching between tools like Cursor, Claude Code, and Claude Desktop.",
+  "source_repo": "Alex-Shirazi1/AISwitchMCPServer",
+  "source_url": "https://github.com/Alex-Shirazi1/AISwitchMCPServer",
+  "install": "# git clone --depth 1 https://github.com/Alex-Shirazi1/AISwitchMCPServer\n# See source for mcpServers config block"
+}

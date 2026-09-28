@@ -1,0 +1,7 @@
+{
+  "name": "court-listener",
+  "description": "Enables AI agents to query and access legal data from the Free Law Project's CourtListener API, including court opinions, judges, and dockets, with basic access requiring no authentication.",
+  "source_repo": "pipeworx-io/mcp-court-listener",
+  "source_url": "https://github.com/pipeworx-io/mcp-court-listener",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-court-listener\n# See source for mcpServers config block"
+}

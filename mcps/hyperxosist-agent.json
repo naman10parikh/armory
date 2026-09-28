@@ -1,0 +1,7 @@
+{
+  "name": "hyperxosist-agent",
+  "description": "MCP server for noise-reduced X (Twitter) search planning and Feedback-to-Fix engineering handoffs. Enables AI agents to generate structured search plans, filter signals, and build handoff packages via MCP tools.",
+  "source_repo": "KG-NINJA/HyperXosist-Agent",
+  "source_url": "https://github.com/KG-NINJA/HyperXosist-Agent",
+  "install": "# git clone --depth 1 https://github.com/KG-NINJA/HyperXosist-Agent\n# See source for mcpServers config block"
+}

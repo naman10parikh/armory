@@ -1,0 +1,7 @@
+{
+  "name": "fallaudio-mcp",
+  "description": "Exposes audio processing tools (inspect, normalize, trim, fade, gain, filter, speed, reverse) as MCP tools, enabling Claude to manipulate WAV files through natural language commands.",
+  "source_repo": "sjgant80-hub/fallaudio-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallaudio-mcp",
+  "install": "npx -y fallaudio-mcp"
+}

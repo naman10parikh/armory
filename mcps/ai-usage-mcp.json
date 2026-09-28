@@ -1,0 +1,7 @@
+{
+  "name": "ai-usage-mcp",
+  "description": "Read-only MCP server for querying AI usage metrics (exact tokens, cost, latency, errors, productivity) from a local SQLite database, enabling charts and analysis in Claude Code and Cursor.",
+  "source_repo": "flaviozantut/ai-usage-dashboard",
+  "source_url": "https://github.com/flaviozantut/ai-usage-dashboard",
+  "install": "# git clone --depth 1 https://github.com/flaviozantut/ai-usage-dashboard\n# See source for mcpServers config block"
+}

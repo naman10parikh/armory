@@ -1,0 +1,7 @@
+{
+  "name": "dough-mcp",
+  "description": "A read-only MCP server for the Dough personal finance app, enabling assistants to query financial data like balances, transactions, and budgets through natural language.",
+  "source_repo": "rollecode/dough-mcp",
+  "source_url": "https://github.com/rollecode/dough-mcp",
+  "install": "npx -y dough-mcp"
+}

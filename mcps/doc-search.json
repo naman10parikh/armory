@@ -1,0 +1,7 @@
+{
+  "name": "doc-search",
+  "description": "MCP server for hybrid documentation search (keyword + vector) and RAG chat, enabling natural language queries with cited answers from indexed repositories.",
+  "source_repo": "SodaShikenn/doc-search",
+  "source_url": "https://github.com/SodaShikenn/doc-search",
+  "install": "# git clone --depth 1 https://github.com/SodaShikenn/doc-search\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "amocrm-mcp",
+  "description": "Enables users to interact with AmoCRM via Claude Desktop using natural language, with 17 tools for accessing CRM entities like leads, contacts, and pipelines.",
+  "source_repo": "ilyaberdysh/amocrm-mcp",
+  "source_url": "https://github.com/ilyaberdysh/amocrm-mcp",
+  "install": "npx -y amocrm-mcp"
+}

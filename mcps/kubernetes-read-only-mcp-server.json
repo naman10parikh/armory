@@ -1,0 +1,7 @@
+{
+  "name": "kubernetes-read-only-mcp-server",
+  "description": "Enables safe, read-only interaction with Kubernetes clusters, allowing users to list resources and fetch logs without any create/update/delete operations.",
+  "source_repo": "vijaykodam/kubernetes-readonly-mcp",
+  "source_url": "https://github.com/vijaykodam/kubernetes-readonly-mcp",
+  "install": "npx -y kubernetes-readonly-mcp"
+}

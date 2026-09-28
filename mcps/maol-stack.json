@@ -1,0 +1,7 @@
+{
+  "name": "maol-stack",
+  "description": "MCP server enabling stacked Git branch workflows and GitHub PR submission through commands like run_stackline_cmd and learn_stackline.",
+  "source_repo": "Maol-1997/maol-stack",
+  "source_url": "https://github.com/Maol-1997/maol-stack",
+  "install": "# git clone --depth 1 https://github.com/Maol-1997/maol-stack\n# See source for mcpServers config block"
+}

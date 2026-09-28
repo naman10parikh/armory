@@ -1,0 +1,7 @@
+{
+  "name": "theharvester-mcp-server",
+  "description": "Enables AI assistants to perform domain reconnaissance using theHarvester OSINT tool, including email harvesting, subdomain discovery, DNS brute force, and Shodan integration, via SSH on a Kali Linux host.",
+  "source_repo": "schwarztim/sec-theharvester-mcp",
+  "source_url": "https://github.com/schwarztim/sec-theharvester-mcp",
+  "install": "npx -y sec-theharvester-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "autogodot",
+  "description": "Autonomous game development framework that lets AI agents program, design scenes, and run visual QA on Godot 4.x projects — all through the Model Context Protocol (MCP).",
+  "source_repo": "lucas-r-manoguerra/AutoGodot",
+  "source_url": "https://github.com/lucas-r-manoguerra/AutoGodot",
+  "install": "# git clone --depth 1 https://github.com/lucas-r-manoguerra/AutoGodot\n# See source for mcpServers config block"
+}

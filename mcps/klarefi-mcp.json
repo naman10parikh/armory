@@ -1,0 +1,7 @@
+{
+  "name": "klarefi-mcp",
+  "description": "Enables applicants and agents to complete regulated intake work by guiding applicants, reading cited case files, managing workflow drafts, and running approved connector actions. It does not decide a case.",
+  "source_repo": "jmqcooper-ai/klarefi-mcp",
+  "source_url": "https://github.com/jmqcooper-ai/klarefi-mcp",
+  "install": "npx -y klarefi-mcp"
+}

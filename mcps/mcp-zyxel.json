@@ -1,0 +1,7 @@
+{
+  "name": "mcp-zyxel",
+  "description": "Enables AI clients to safely read and configure Zyxel GS1900 smart-managed switches via typed MCP tools with guardrails like dry-run, auto-backup, and protected ports.",
+  "source_repo": "hugil/zyxel-mcp",
+  "source_url": "https://github.com/hugil/zyxel-mcp",
+  "install": "npx -y zyxel-mcp"
+}

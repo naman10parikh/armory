@@ -1,0 +1,7 @@
+{
+  "name": "aperture-mcp",
+  "description": "A commitment tripwire that flags when a tracked commitment disappears verbatim between document versions; enables AI agents to call this check via MCP.",
+  "source_repo": "jaysinailabs/aperture-mcp",
+  "source_url": "https://github.com/jaysinailabs/aperture-mcp",
+  "install": "npx -y aperture-mcp"
+}

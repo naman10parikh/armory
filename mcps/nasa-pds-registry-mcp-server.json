@@ -1,0 +1,7 @@
+{
+  "name": "nasa-pds-registry-mcp-server",
+  "description": "Provides access to the NASA Planetary Data System Registry API, enabling human-in-the-loop search and exploration of planetary data products, missions, celestial bodies, and instruments.",
+  "source_repo": "NASA-PDS/pds-mcp-server",
+  "source_url": "https://github.com/NASA-PDS/pds-mcp-server",
+  "install": "npx -y pds-mcp-server"
+}

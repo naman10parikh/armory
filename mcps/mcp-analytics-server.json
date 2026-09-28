@@ -1,0 +1,7 @@
+{
+  "name": "mcp-analytics-server",
+  "description": "Enables LLMs to interact with a SQLite e-commerce database via safe, typed MCP tools with read-only guards and auth-gated mutations, plus a Claude agent for answering business questions.",
+  "source_repo": "tkarim45/mcp-analytics-server",
+  "source_url": "https://github.com/tkarim45/mcp-analytics-server",
+  "install": "# git clone --depth 1 https://github.com/tkarim45/mcp-analytics-server\n# See source for mcpServers config block"
+}

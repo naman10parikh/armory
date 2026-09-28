@@ -1,0 +1,7 @@
+{
+  "name": "data-novascotia",
+  "description": "Enables searching and querying the Nova Scotia Open Data catalog via Socrata SoQL. Provides tools to find datasets, query data, and get metadata by resource ID.",
+  "source_repo": "pipeworx-io/mcp-data-novascotia",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-novascotia",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-novascotia\n# See source for mcpServers config block"
+}

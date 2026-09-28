@@ -1,0 +1,7 @@
+{
+  "name": "nano-vm-mcp",
+  "description": "Governed agent execution gateway for LLM workflows, providing deterministic FSM-based execution, audit trails, and idempotency guarantees via MCP.",
+  "source_repo": "Ale007XD/nano-vm-mcp",
+  "source_url": "https://github.com/Ale007XD/nano-vm-mcp",
+  "install": "npx -y nano-vm-mcp"
+}

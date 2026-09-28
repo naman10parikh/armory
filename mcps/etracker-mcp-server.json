@@ -1,0 +1,7 @@
+{
+  "name": "etracker-mcp-server",
+  "description": "Enables querying etracker analytics reports via natural language. Provides tools to list reports, get metadata, and retrieve report data with filtering, sorting, and period comparison.",
+  "source_repo": "mittwald/etracker-mcp",
+  "source_url": "https://github.com/mittwald/etracker-mcp",
+  "install": "npx -y etracker-mcp"
+}

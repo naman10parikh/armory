@@ -1,0 +1,7 @@
+{
+  "name": "whatsapp-mcp-server-3",
+  "description": "Enables LLM clients to read and search your own WhatsApp messages stored in a local SQLite database, captured live via a linked device.",
+  "source_repo": "cascodigital/whatsapp-mcp-server",
+  "source_url": "https://github.com/cascodigital/whatsapp-mcp-server",
+  "install": "npx -y whatsapp-mcp-server"
+}

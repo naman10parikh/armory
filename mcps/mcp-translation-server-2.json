@@ -1,0 +1,7 @@
+{
+  "name": "mcp-translation-server-2",
+  "description": "高性能满-汉双向机器翻译系统，支持形态分析和增强型翻译引擎。",
+  "source_repo": "KYBvWHxW/mcp-translation-server",
+  "source_url": "https://github.com/KYBvWHxW/mcp-translation-server",
+  "install": "# git clone --depth 1 https://github.com/KYBvWHxW/mcp-translation-server\n# See source for mcpServers config block"
+}

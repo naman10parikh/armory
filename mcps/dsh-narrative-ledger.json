@@ -1,0 +1,7 @@
+{
+  "name": "dsh-narrative-ledger",
+  "description": "MCP server for verifying narrative consistency and querying story-state facts in DeepSeek Harness, exposing read-only ledger tools for canonical evidence and continuity checks.",
+  "source_repo": "dongsheng123132/dsh-narrative-ledger",
+  "source_url": "https://github.com/dongsheng123132/dsh-narrative-ledger",
+  "install": "# git clone --depth 1 https://github.com/dongsheng123132/dsh-narrative-ledger\n# See source for mcpServers config block"
+}

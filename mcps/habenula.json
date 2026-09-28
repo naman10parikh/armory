@@ -1,0 +1,7 @@
+{
+  "name": "habenula",
+  "description": "A personal agent control harness that governs AI agents by checking every consequential action against user-defined rules, logging all actions to a tamper-evident audit chain, and providing a global kill switch. It runs as an MCP server sidecar to coding agents or standalone, keeping users in charge",
+  "source_repo": "habenula-ai/habenula-oss",
+  "source_url": "https://github.com/habenula-ai/habenula-oss",
+  "install": "# git clone --depth 1 https://github.com/habenula-ai/habenula-oss\n# See source for mcpServers config block"
+}

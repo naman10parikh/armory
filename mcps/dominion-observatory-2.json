@@ -1,0 +1,7 @@
+{
+  "name": "dominion-observatory-2",
+  "description": "Behavioral trust scoring and MCP gateway proxy for 14,820+ MCP servers. Query real attestation data — interaction history, success rates, latency, uptime — before your agent executes sensitive operations. **8 tools** for trust evaluation, server discovery, and health monitoring: - `get-trust-score`",
+  "source_repo": "",
+  "source_url": "https://dominion-observatory.sgdata.workers.dev",
+  "install": "# git clone --depth 1 https://dominion-observatory.sgdata.workers.dev\n# See source for mcpServers config block"
+}

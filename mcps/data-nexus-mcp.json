@@ -1,0 +1,7 @@
+{
+  "name": "data-nexus-mcp",
+  "description": "Enables AI agents to interact with over 50 SQL and NoSQL databases through MCP tools for querying, schema inspection, and table management.",
+  "source_repo": "HumanSamadian/data-nexus-mcp",
+  "source_url": "https://github.com/HumanSamadian/data-nexus-mcp",
+  "install": "npx -y data-nexus-mcp"
+}

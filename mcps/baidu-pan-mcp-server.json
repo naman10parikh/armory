@@ -1,0 +1,7 @@
+{
+  "name": "baidu-pan-mcp-server",
+  "description": "A development guide and reference implementation for building a custom Baidu Netdisk MCP server, enabling AI assistants to manage files and shares on Baidu Pan.",
+  "source_repo": "XiLeForCLY/baidu-pan-mcp-server",
+  "source_url": "https://github.com/XiLeForCLY/baidu-pan-mcp-server",
+  "install": "npx -y baidu-pan-mcp-server"
+}

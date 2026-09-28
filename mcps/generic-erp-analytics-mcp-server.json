@@ -1,0 +1,7 @@
+{
+  "name": "generic-erp-analytics-mcp-server",
+  "description": "Read-only MCP server for MongoDB ERP analytics with catalog-driven collection allowlist and safe find/aggregate tools.",
+  "source_repo": "cipher-preet/Massaed_MCP_server_node",
+  "source_url": "https://github.com/cipher-preet/Massaed_MCP_server_node",
+  "install": "# git clone --depth 1 https://github.com/cipher-preet/Massaed_MCP_server_node\n# See source for mcpServers config block"
+}

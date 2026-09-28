@@ -1,0 +1,7 @@
+{
+  "name": "cove-fi",
+  "description": "MCP server for cove-fi, a deterministic retirement and financial-independence projection engine. It lets users run plans, create scenarios, and explore year-by-year net-worth projections through natural language.",
+  "source_repo": "walensis-labs/cove-fi",
+  "source_url": "https://github.com/walensis-labs/cove-fi",
+  "install": "# git clone --depth 1 https://github.com/walensis-labs/cove-fi\n# See source for mcpServers config block"
+}

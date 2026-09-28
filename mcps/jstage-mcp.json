@@ -1,0 +1,7 @@
+{
+  "name": "jstage-mcp",
+  "description": "Exposes J-STAGE WebAPI as four tools for searching articles, issues, journals, and resolving DOIs, returning bilingual JSON with attribution.",
+  "source_repo": "ckgerteis/jstage-mcp",
+  "source_url": "https://github.com/ckgerteis/jstage-mcp",
+  "install": "npx -y jstage-mcp"
+}

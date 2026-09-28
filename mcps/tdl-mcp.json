@@ -1,0 +1,7 @@
+{
+  "name": "tdl-mcp",
+  "description": "Read-only Telegram access for Claude and other MCP hosts. Provides tools to list chats, read recent messages, and download media from your own Telegram account without needing an api_id/api_hash.",
+  "source_repo": "rixile9999/tdl-mcp",
+  "source_url": "https://github.com/rixile9999/tdl-mcp",
+  "install": "npx -y tdl-mcp"
+}

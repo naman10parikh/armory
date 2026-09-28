@@ -1,0 +1,7 @@
+{
+  "name": "easy-codex-mcp",
+  "description": "Lets MCP-compatible AI assistants have read-only conversations with OpenAI Codex CLI for code analysis, review, and Q&A.",
+  "source_repo": "dazebug/easy-codex-mcp",
+  "source_url": "https://github.com/dazebug/easy-codex-mcp",
+  "install": "npx -y easy-codex-mcp"
+}

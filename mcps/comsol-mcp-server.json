@@ -1,0 +1,7 @@
+{
+  "name": "comsol-mcp-server",
+  "description": "MCP Server for COMSOL Multiphysics simulation automation via AI agents.",
+  "source_repo": "Zhangyoupeng1996/Codex_MCP_Comsol",
+  "source_url": "https://github.com/Zhangyoupeng1996/Codex_MCP_Comsol",
+  "install": "# git clone --depth 1 https://github.com/Zhangyoupeng1996/Codex_MCP_Comsol\n# See source for mcpServers config block"
+}

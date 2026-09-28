@@ -1,0 +1,7 @@
+{
+  "name": "shelf-mcp",
+  "description": "Manage a personal library of books, movies, TV shows, and games via Claude, with the ability to add items by photographing a shelf.",
+  "source_repo": "pavanvsam/Shelf-MCP",
+  "source_url": "https://github.com/pavanvsam/Shelf-MCP",
+  "install": "npx -y Shelf-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-scheduler",
+  "description": "A robust task scheduler server for scheduling and managing various types of automated tasks including shell commands, API calls, AI tasks, and reminders.",
+  "source_repo": "PhialsBasement/scheduler-mcp",
+  "source_url": "https://github.com/PhialsBasement/scheduler-mcp",
+  "install": "npx -y scheduler-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-claude-chat",
+  "description": "MCP server enabling Claude chat, image analysis, live web search, and model listing through Anthropic's Messages API. Allows any MCP client to consult Claude as a tool via stdio JSON-RPC.",
+  "source_repo": "codeChap/mcp-server-claude-chat",
+  "source_url": "https://github.com/codeChap/mcp-server-claude-chat",
+  "install": "# git clone --depth 1 https://github.com/codeChap/mcp-server-claude-chat\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cursor-dispatcher",
+  "description": "An MCP server that lets Claude spawn Cursor subagents as async, bounded workers, enabling non-blocking task delegation with asynchronous completion notifications.",
+  "source_repo": "ppetko98/cursor-dispatcher",
+  "source_url": "https://github.com/ppetko98/cursor-dispatcher",
+  "install": "# git clone --depth 1 https://github.com/ppetko98/cursor-dispatcher\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "depguard",
+  "description": "DepGuard is an MCP server for real-time dependency safety checks, verifying packages against vulnerability databases, deprecation metadata, and a local cache.",
+  "source_repo": "foudhilriahi/DepGuard",
+  "source_url": "https://github.com/foudhilriahi/DepGuard",
+  "install": "# git clone --depth 1 https://github.com/foudhilriahi/DepGuard\n# See source for mcpServers config block"
+}

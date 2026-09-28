@@ -1,0 +1,7 @@
+{
+  "name": "ezbookkeeping-mcp-server",
+  "description": "MCP server for the ezBookkeeping HTTP API, enabling read and write access to transactions, accounts, categories, tags, templates, analytics, and exchange rates via natural language.",
+  "source_repo": "abco20/ezbookkeeping-mcp-server",
+  "source_url": "https://github.com/abco20/ezbookkeeping-mcp-server",
+  "install": "npx -y ezbookkeeping-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-invoice-maker",
+  "description": "A local-first MCP server for creating PDF invoices from SQLite data, supporting client management and invoice generation.",
+  "source_repo": "amyvarga/MCPServer-Invoice-Creator",
+  "source_url": "https://github.com/amyvarga/MCPServer-Invoice-Creator",
+  "install": "# git clone --depth 1 https://github.com/amyvarga/MCPServer-Invoice-Creator\n# See source for mcpServers config block"
+}

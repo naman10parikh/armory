@@ -1,0 +1,7 @@
+{
+  "name": "rails-mcp",
+  "description": "Default-deny action registry, append-only spend ledger, and human sign-off audit trail (MCP tools).",
+  "source_repo": "jaimenbell/rails-mcp",
+  "source_url": "https://github.com/jaimenbell/rails-mcp",
+  "install": "npx -y rails-mcp"
+}

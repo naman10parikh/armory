@@ -1,0 +1,7 @@
+{
+  "name": "worktree-orbit-mcp",
+  "description": "Provides read-only inspection of Git worktree topology, reporting aggregate counts and statuses (clean, dirty, detached, locked, prunable). Ensures safety by limiting commands to a configured root and never exposing paths or content.",
+  "source_repo": "mrfentmen/worktree-orbit-mcp",
+  "source_url": "https://github.com/mrfentmen/worktree-orbit-mcp",
+  "install": "npx -y worktree-orbit-mcp"
+}

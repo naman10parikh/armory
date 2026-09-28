@@ -1,0 +1,7 @@
+{
+  "name": "uam-analyst",
+  "description": "MCP server that exposes the UAM vertiport simulator as tools for AI-assisted analysis, enabling simulations, KPI analysis, and what-if studies via Claude Desktop.",
+  "source_repo": "urban-ai-institute/kra33-prismx-uam-vertiport-simulation",
+  "source_url": "https://github.com/urban-ai-institute/kra33-prismx-uam-vertiport-simulation",
+  "install": "# git clone --depth 1 https://github.com/urban-ai-institute/kra33-prismx-uam-vertiport-simulation\n# See source for mcpServers config block"
+}

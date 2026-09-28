@@ -1,0 +1,7 @@
+{
+  "name": "oceanum-mcp",
+  "description": "Enables AI assistants to search, query, and manage ocean/environmental datasets from the Oceanum platform, and to read, write, and delete files in Oceanum cloud storage.",
+  "source_repo": "oceanum-io/oceanum-mcp",
+  "source_url": "https://github.com/oceanum-io/oceanum-mcp",
+  "install": "npx -y oceanum-mcp"
+}

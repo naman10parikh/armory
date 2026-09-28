@@ -1,0 +1,7 @@
+{
+  "name": "axon-mcp-server",
+  "description": "An MCP server that transforms codebases into intelligent, queryable knowledge bases, enabling AI assistants to perform semantic search, explore architecture, and analyze code relationships.",
+  "source_repo": "ali-kamali/Axon.MCP.Server",
+  "source_url": "https://github.com/ali-kamali/Axon.MCP.Server",
+  "install": "# git clone --depth 1 https://github.com/ali-kamali/Axon.MCP.Server\n# See source for mcpServers config block"
+}

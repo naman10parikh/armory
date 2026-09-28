@@ -1,0 +1,7 @@
+{
+  "name": "docshub-mcp-server",
+  "description": "An MCP server that provides AI clients with access to developer documentation via llms.txt files. Exposes tools, resources, and prompts.",
+  "source_repo": "rkratky/docshub",
+  "source_url": "https://github.com/rkratky/docshub",
+  "install": "# git clone --depth 1 https://github.com/rkratky/docshub\n# See source for mcpServers config block"
+}

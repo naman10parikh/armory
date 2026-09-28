@@ -1,0 +1,7 @@
+{
+  "name": "agentic-cms",
+  "description": "Open-source MCP server that turns any CMS backend into an AI-agent-ready content management system. It provides tools for content CRUD, idea management, and publication tracking, with safety features requiring human approval for publishing.",
+  "source_repo": "intellieffect/agentic-cms",
+  "source_url": "https://github.com/intellieffect/agentic-cms",
+  "install": "# git clone --depth 1 https://github.com/intellieffect/agentic-cms\n# See source for mcpServers config block"
+}

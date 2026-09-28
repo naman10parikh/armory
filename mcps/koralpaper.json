@@ -1,0 +1,7 @@
+{
+  "name": "koralpaper",
+  "description": "A design studio where AI draws, charts and animates: agents create fully editable hand-drawn visuals, build charts from data, and their edits become stop-motion GIF and video animations. Free, offline, zero-dependency, MIT.",
+  "source_repo": "karagos/koralpaper",
+  "source_url": "https://github.com/karagos/koralpaper",
+  "install": "# git clone --depth 1 https://github.com/karagos/koralpaper\n# See source for mcpServers config block"
+}

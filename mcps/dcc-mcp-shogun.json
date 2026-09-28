@@ -1,0 +1,7 @@
+{
+  "name": "dcc-mcp-shogun",
+  "description": "A local-first MCP adapter for Vicon Shogun Post that provides read-only inspection of motion-capture scenes, including subject markers and trajectory queries via the official SDK.",
+  "source_repo": "dcc-mcp/dcc-mcp-shogun",
+  "source_url": "https://github.com/dcc-mcp/dcc-mcp-shogun",
+  "install": "# git clone --depth 1 https://github.com/dcc-mcp/dcc-mcp-shogun\n# See source for mcpServers config block"
+}

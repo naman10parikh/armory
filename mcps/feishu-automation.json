@@ -1,0 +1,7 @@
+{
+  "name": "feishu-automation",
+  "description": "MCP server for operating Feishu Docs, folders, and attachments, and sending notifications via custom bot webhooks. Enables AI assistants to automate document workflows in Feishu.",
+  "source_repo": "ZLZLGe/feishu-automation",
+  "source_url": "https://github.com/ZLZLGe/feishu-automation",
+  "install": "# git clone --depth 1 https://github.com/ZLZLGe/feishu-automation\n# See source for mcpServers config block"
+}

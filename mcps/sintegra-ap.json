@@ -1,0 +1,7 @@
+{
+  "name": "sintegra-ap",
+  "description": "Enables querying official SINTEGRA AP data (Brazilian state tax registration) via a hosted MCP server, with read-only access and prepaid credits.",
+  "source_repo": "mcp-dir/sintegra_ap-mcp",
+  "source_url": "https://github.com/mcp-dir/sintegra_ap-mcp",
+  "install": "npx -y sintegra_ap-mcp"
+}

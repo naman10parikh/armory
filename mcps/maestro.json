@@ -1,0 +1,7 @@
+{
+  "name": "maestro",
+  "description": "An autonomous MCP server for AI-assisted development with zero-API approach, auto-correction, inverted TDD, and native pipelines.",
+  "source_repo": "Matheus-Gama-deluna/Maestro",
+  "source_url": "https://github.com/Matheus-Gama-deluna/Maestro",
+  "install": "# git clone --depth 1 https://github.com/Matheus-Gama-deluna/Maestro\n# See source for mcpServers config block"
+}

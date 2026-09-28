@@ -1,0 +1,7 @@
+{
+  "name": "neurodock",
+  "description": "A local-first cognitive substrate for neurodivergent professionals. Gives Claude memory, a sense of time, a translator for corporate ambiguity, and a guardrail that refuses to amplify rumination, hyperfocus, or sycophancy. MCP-native. No telemetry. AGPL-3.0-or-later. Self-ID sufficient — no diagnosi",
+  "source_repo": "tlennon-ie/neurodock",
+  "source_url": "https://github.com/tlennon-ie/neurodock",
+  "install": "# git clone --depth 1 https://github.com/tlennon-ie/neurodock\n# See source for mcpServers config block"
+}

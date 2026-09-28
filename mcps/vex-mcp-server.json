@@ -1,0 +1,7 @@
+{
+  "name": "vex-mcp-server",
+  "description": "Enables to access VEX Robotics Competition data including teams, events, rankings, skills scores, and forum via RobotEvents API.",
+  "source_repo": "yangjack8192/vex-mcp-server",
+  "source_url": "https://github.com/yangjack8192/vex-mcp-server",
+  "install": "npx -y vex-mcp-server"
+}

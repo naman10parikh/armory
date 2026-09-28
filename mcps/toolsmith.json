@@ -1,0 +1,7 @@
+{
+  "name": "toolsmith",
+  "description": "Provides codebase intelligence over Git repositories with tools for code search, symbol lookup, dependency tracing, and commit history. It also rewrites its own tool descriptions and schemas based on usage telemetry to improve tool selection.",
+  "source_repo": "kayne-lee/toolsmith",
+  "source_url": "https://github.com/kayne-lee/toolsmith",
+  "install": "# git clone --depth 1 https://github.com/kayne-lee/toolsmith\n# See source for mcpServers config block"
+}

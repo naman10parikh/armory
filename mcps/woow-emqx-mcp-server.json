@@ -1,0 +1,7 @@
+{
+  "name": "woow-emqx-mcp-server",
+  "description": "MCP server for EMQX that exposes 39 tools across 7 categories for managing clusters, clients, topics, messaging, access control, diagnostics, and data integration, with a web GUI and layered safety controls.",
+  "source_repo": "WOOWTECH/Woow_emqx_mcp_server",
+  "source_url": "https://github.com/WOOWTECH/Woow_emqx_mcp_server",
+  "install": "npx -y Woow_emqx_mcp_server"
+}

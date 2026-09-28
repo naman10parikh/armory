@@ -1,0 +1,7 @@
+{
+  "name": "intervals-icu-mcp-server-2",
+  "description": "Connects to Intervals.icu to let users query training data, create workouts, manage calendar events, and coach athletes through natural language in Claude Desktop.",
+  "source_repo": "ascuitando/intervals-mcp",
+  "source_url": "https://github.com/ascuitando/intervals-mcp",
+  "install": "npx -y intervals-mcp"
+}

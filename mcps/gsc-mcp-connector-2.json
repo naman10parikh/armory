@@ -1,0 +1,7 @@
+{
+  "name": "gsc-mcp-connector-2",
+  "description": "Self-hosted Google Search Console MCP server deployable to Cloudflare Workers in 15 minutes. Enables querying GSC data (sites, search analytics, URL inspection, sitemaps) via natural language through MCP-capable clients like ChatGPT or Claude.",
+  "source_repo": "pradeepoct/gsc-mcp-connector",
+  "source_url": "https://github.com/pradeepoct/gsc-mcp-connector",
+  "install": "# git clone --depth 1 https://github.com/pradeepoct/gsc-mcp-connector\n# See source for mcpServers config block"
+}

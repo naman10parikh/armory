@@ -1,0 +1,7 @@
+{
+  "name": "open-assembly-mcp",
+  "description": "MCP server for the Korean National Assembly Open API, enabling querying of bills, members, votes, committees, and more via natural language.",
+  "source_repo": "kyusik-yang/open-assembly-mcp",
+  "source_url": "https://github.com/kyusik-yang/open-assembly-mcp",
+  "install": "npx -y open-assembly-mcp"
+}

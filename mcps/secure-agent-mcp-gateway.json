@@ -1,0 +1,7 @@
+{
+  "name": "secure-agent-mcp-gateway",
+  "description": "Enables AI agents to safely call MCP tools through a security gateway that enforces per-role authorization and least-privilege tool scoping.",
+  "source_repo": "aki83reo/secure-agent-mcp-gateway",
+  "source_url": "https://github.com/aki83reo/secure-agent-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/aki83reo/secure-agent-mcp-gateway\n# See source for mcpServers config block"
+}

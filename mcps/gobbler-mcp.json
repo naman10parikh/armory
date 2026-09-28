@@ -1,0 +1,7 @@
+{
+  "name": "gobbler-mcp",
+  "description": "Converts YouTube videos, audio, documents, and web pages to clean markdown with YAML frontmatter, providing AI assistants with structured content via the MCP protocol.",
+  "source_repo": "Enablement-Engineering/gobbler",
+  "source_url": "https://github.com/Enablement-Engineering/gobbler",
+  "install": "# git clone --depth 1 https://github.com/Enablement-Engineering/gobbler\n# See source for mcpServers config block"
+}

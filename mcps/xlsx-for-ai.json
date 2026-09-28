@@ -1,0 +1,7 @@
+{
+  "name": "xlsx-for-ai",
+  "description": "50 tools and 400 functions for working with Excel/.xlsx spreadsheets — read/write, recalculate formulas, diff, repair broken references, and audit. Built for AI agents.",
+  "source_repo": "senoff/xlsx-for-ai",
+  "source_url": "https://github.com/senoff/xlsx-for-ai",
+  "install": "# git clone --depth 1 https://github.com/senoff/xlsx-for-ai\n# See source for mcpServers config block"
+}

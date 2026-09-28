@@ -1,0 +1,7 @@
+{
+  "name": "agent-inbox-mcp",
+  "description": "MCP server that lets AI agents manage an Agent Inbox queue via natural language. It supports listing pending items, adding new URLs with notes, and marking items as reviewed or deleted.",
+  "source_repo": "OGZamasu/agent-inbox",
+  "source_url": "https://github.com/OGZamasu/agent-inbox",
+  "install": "# git clone --depth 1 https://github.com/OGZamasu/agent-inbox\n# See source for mcpServers config block"
+}

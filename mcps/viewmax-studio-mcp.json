@@ -1,0 +1,7 @@
+{
+  "name": "viewmax-studio-mcp",
+  "description": "Enables Claude to generate AI videos using ViewMax Studio's video generation tools, including prompt and script creation, smart model selection, cost preview, and task status tracking.",
+  "source_repo": "jcmach01/viexmax_mcp",
+  "source_url": "https://github.com/jcmach01/viexmax_mcp",
+  "install": "npx -y viexmax_mcp"
+}

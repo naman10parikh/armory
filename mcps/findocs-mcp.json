@@ -1,0 +1,7 @@
+{
+  "name": "findocs-mcp",
+  "description": "An eval-first MCP server for semantic search and grounded Q\\&A over financial documentation, with a CI regression gate that fails on retrieval or faithfulness regressions.",
+  "source_repo": "singhh879/findocs-mcp",
+  "source_url": "https://github.com/singhh879/findocs-mcp",
+  "install": "npx -y findocs-mcp"
+}

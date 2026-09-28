@@ -1,0 +1,7 @@
+{
+  "name": "lolikai-mcp",
+  "description": "Provides live trend intelligence tools such as trend analysis, virality scoring, opportunity ranking, and content briefs, powered by the Lolik API.",
+  "source_repo": "lolikai/lolik-mcp",
+  "source_url": "https://github.com/lolikai/lolik-mcp",
+  "install": "npx -y lolik-mcp"
+}

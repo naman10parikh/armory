@@ -1,0 +1,7 @@
+{
+  "name": "plex-mcp",
+  "description": "Enables full management of a Plex Media Server via Claude, including browsing libraries, fixing metadata, managing collections, and more.",
+  "source_repo": "ericwarthan/Plex-MCP",
+  "source_url": "https://github.com/ericwarthan/Plex-MCP",
+  "install": "npx -y Plex-MCP"
+}

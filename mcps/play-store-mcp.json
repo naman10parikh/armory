@@ -1,0 +1,7 @@
+{
+  "name": "play-store-mcp",
+  "description": "An MCP server that connects to the Google Play Developer API to deploy apps, manage releases, respond to reviews, and monitor app health through an AI assistant.",
+  "source_repo": "lusky3/play-store-mcp",
+  "source_url": "https://github.com/lusky3/play-store-mcp",
+  "install": "npx -y play-store-mcp"
+}

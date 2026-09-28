@@ -1,0 +1,7 @@
+{
+  "name": "agentfund",
+  "description": "Fundraising infrastructure for AI agents on Solana: register agents, create milestone-escrowed campaigns, and donate via the x402 pay-to-call flow. Backed by Anchor programs (agent_registry, escrow, reputation) with on-chain reputation for every verified action.",
+  "source_repo": "agentIgris/agentfund",
+  "source_url": "https://github.com/agentIgris/agentfund",
+  "install": "# git clone --depth 1 https://github.com/agentIgris/agentfund\n# See source for mcpServers config block"
+}

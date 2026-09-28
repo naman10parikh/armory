@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sap-cpi",
+  "description": "Connects Claude to SAP Cloud Platform Integration (CPI) to diagnose failed messages, review iFlows, deploy artifacts, and check credentials directly from your conversation.",
+  "source_repo": "Keelside/mcp-sap-cpi",
+  "source_url": "https://github.com/Keelside/mcp-sap-cpi",
+  "install": "# git clone --depth 1 https://github.com/Keelside/mcp-sap-cpi\n# See source for mcpServers config block"
+}

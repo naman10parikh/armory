@@ -1,0 +1,7 @@
+{
+  "name": "memser",
+  "description": "Provides MCP agents with persistent memory operations (store, recall, forget, consolidate, list) backed by Redis, Postgres, and pgvector, including semantic search and background consolidation.",
+  "source_repo": "masikgit/memser",
+  "source_url": "https://github.com/masikgit/memser",
+  "install": "# git clone --depth 1 https://github.com/masikgit/memser\n# See source for mcpServers config block"
+}

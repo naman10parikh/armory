@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-ba-nfc-e-completa",
+  "description": "Enables consultation of Brazilian NFC-e (electronic invoice) data from the official SEFAZ BA source via a read-only MCP server, with pay-per-use credits.",
+  "source_repo": "mcp-dir/sefaz_ba_nfce_completa-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_ba_nfce_completa-mcp",
+  "install": "npx -y sefaz_ba_nfce_completa-mcp"
+}

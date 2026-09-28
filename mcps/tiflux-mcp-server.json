@@ -1,0 +1,7 @@
+{
+  "name": "tiflux-mcp-server",
+  "description": "MCP server for TiFlux that enables ticket, stage, communication, time tracking, chat, and desk management via natural language.",
+  "source_repo": "tiflux/tiflux-mcp",
+  "source_url": "https://github.com/tiflux/tiflux-mcp",
+  "install": "npx -y tiflux-mcp"
+}

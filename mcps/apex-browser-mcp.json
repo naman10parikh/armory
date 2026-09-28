@@ -1,0 +1,7 @@
+{
+  "name": "apex-browser-mcp",
+  "description": "Local, multi-session MCP server driving real Chrome, Chromium, WebKit, and Safari engines, with attach-to-running-Chrome support, no API keys or cloud required.",
+  "source_repo": "apexradius/browser-mcp",
+  "source_url": "https://github.com/apexradius/browser-mcp",
+  "install": "npx -y browser-mcp"
+}

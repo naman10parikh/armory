@@ -1,0 +1,7 @@
+{
+  "name": "model-worker-mcp",
+  "description": "An MCP server that enables asynchronous task submission and execution through a local worker daemon, decoupled from specific providers and models, with tasks continuing even after the client disconnects.",
+  "source_repo": "MotionlessPeri/ModelWorkerMCP",
+  "source_url": "https://github.com/MotionlessPeri/ModelWorkerMCP",
+  "install": "# git clone --depth 1 https://github.com/MotionlessPeri/ModelWorkerMCP\n# See source for mcpServers config block"
+}

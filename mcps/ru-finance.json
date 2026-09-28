@@ -1,0 +1,7 @@
+{
+  "name": "ru-finance",
+  "description": "MCP server providing financial data from Moscow Exchange and Bank of Russia, including quotes, bond metrics, interest rates, and portfolio analysis. Enables AI agents to analyze Russian financial markets through natural language.",
+  "source_repo": "diekinari/ru-finance-mcp",
+  "source_url": "https://github.com/diekinari/ru-finance-mcp",
+  "install": "npx -y ru-finance-mcp"
+}

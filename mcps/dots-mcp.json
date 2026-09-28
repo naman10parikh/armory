@@ -1,0 +1,7 @@
+{
+  "name": "dots-mcp",
+  "description": "Enables searching Xiaohongshu (小红书) content via dots.ai using a logged-in browser session, exposed as MCP tools.",
+  "source_repo": "handsomelong922/dots-mcp",
+  "source_url": "https://github.com/handsomelong922/dots-mcp",
+  "install": "npx -y dots-mcp"
+}

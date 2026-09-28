@@ -1,0 +1,7 @@
+{
+  "name": "bus-scheduling-mcp",
+  "description": "Enables LLM clients to access scheduling data, KPIs, routes, and trigger optimization algorithms via MCP.",
+  "source_repo": "uwmyuan/transit-scheduling-mcp",
+  "source_url": "https://github.com/uwmyuan/transit-scheduling-mcp",
+  "install": "npx -y transit-scheduling-mcp"
+}

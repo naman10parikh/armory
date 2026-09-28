@@ -1,0 +1,7 @@
+{
+  "name": "mcp-voicevox-server",
+  "description": "MCP server that synthesizes Claude Code responses into Japanese speech using VOICEVOX, enabling audible feedback during development.",
+  "source_repo": "init-ikuya/mcp-voicevox-server",
+  "source_url": "https://github.com/init-ikuya/mcp-voicevox-server",
+  "install": "# git clone --depth 1 https://github.com/init-ikuya/mcp-voicevox-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "repack-logs-mcp",
+  "description": "An MCP server for tailing Re.Pack/Rspack dev server logs. Enables AI assistants to query build logs, find errors, and monitor compilation status.",
+  "source_repo": "kessenma/repack-logs-mcp",
+  "source_url": "https://github.com/kessenma/repack-logs-mcp",
+  "install": "npx -y repack-logs-mcp"
+}

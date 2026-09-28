@@ -1,0 +1,7 @@
+{
+  "name": "mailinapp-for-claude-desktop",
+  "description": "Enables Claude Desktop to interact with MailInApp projects, campaigns, and contacts. Allows designing and reading interactive email results with explicit confirmation for sending real campaigns.",
+  "source_repo": "Digitload/mailinapp-mcpb",
+  "source_url": "https://github.com/Digitload/mailinapp-mcpb",
+  "install": "# git clone --depth 1 https://github.com/Digitload/mailinapp-mcpb\n# See source for mcpServers config block"
+}

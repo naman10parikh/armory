@@ -1,0 +1,7 @@
+{
+  "name": "novelai-mcp",
+  "description": "MCP server for NovelAI image generation, supporting V4.5 models with multi-character prompts and multiple transport modes (Stdio, HTTP, SSE) for flexible deployment.",
+  "source_repo": "2332239652/NovelAI_MCP",
+  "source_url": "https://github.com/2332239652/NovelAI_MCP",
+  "install": "npx -y NovelAI_MCP"
+}

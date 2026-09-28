@@ -1,0 +1,7 @@
+{
+  "name": "japan-data-mcp",
+  "description": "Enables AI agents to query Japanese public data (laws, corporations, statistics) from official government APIs, returning normalized English metadata with source attribution.",
+  "source_repo": "yurukusa/japan-data-mcp",
+  "source_url": "https://github.com/yurukusa/japan-data-mcp",
+  "install": "npx -y japan-data-mcp"
+}

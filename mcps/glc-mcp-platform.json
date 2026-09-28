@@ -1,0 +1,7 @@
+{
+  "name": "glc-mcp-platform",
+  "description": "MCP server platform enabling agents to self-register and access geo MCP tools (read-only geo_entities) plus hello ping services via a public MCP endpoint.",
+  "source_repo": "glc-rag/geo-mcp",
+  "source_url": "https://github.com/glc-rag/geo-mcp",
+  "install": "npx -y geo-mcp"
+}

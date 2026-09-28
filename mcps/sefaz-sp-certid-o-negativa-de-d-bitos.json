@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-sp-certid-o-negativa-de-d-bitos",
+  "description": "Enables querying SEFAZ SP for negative debt certificates (Certidão Negativa de Débitos) directly from official sources. This read-only, hosted MCP server offers a single consultation tool that works with any MCP-compatible client.",
+  "source_repo": "mcp-dir/sefaz_sp_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_sp_certidao_debitos-mcp",
+  "install": "npx -y sefaz_sp_certidao_debitos-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chinese-time",
+  "description": "MCP server for parsing Chinese fuzzy time expressions (e.g., '昨天', '下午3点', '中秋节') into standard datetime formats.",
+  "source_repo": "wyl116/mcp-chinese-time",
+  "source_url": "https://github.com/wyl116/mcp-chinese-time",
+  "install": "# git clone --depth 1 https://github.com/wyl116/mcp-chinese-time\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "url-manager-mcp",
+  "description": "Enables AI agents to manage bookmarks (webpages, articles, videos) on behalf of users, including registration, categorization, tagging, and sharing.",
+  "source_repo": "Piccolo123/url-manager-mcp",
+  "source_url": "https://github.com/Piccolo123/url-manager-mcp",
+  "install": "npx -y url-manager-mcp"
+}

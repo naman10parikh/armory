@@ -1,0 +1,7 @@
+{
+  "name": "cdp-tools-mcp",
+  "description": "Enables AI agents to debug code and automate browsers using Chrome DevTools Protocol, supporting breakpoints, variable inspection, and replayable interaction recording.",
+  "source_repo": "InDate/cdp-tools-mcp",
+  "source_url": "https://github.com/InDate/cdp-tools-mcp",
+  "install": "npx -y cdp-tools-mcp"
+}

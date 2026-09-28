@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-local-terminal-mcp",
+  "description": "Enables ChatGPT to execute shell commands on your local machine via a secure tunnel, including running commands, managing long-running processes, and working within a selected project directory.",
+  "source_repo": "Angad-D/ChatGPT-Local-Terminal-Plugin-Unofficial",
+  "source_url": "https://github.com/Angad-D/ChatGPT-Local-Terminal-Plugin-Unofficial",
+  "install": "# git clone --depth 1 https://github.com/Angad-D/ChatGPT-Local-Terminal-Plugin-Unofficial\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "church-mcp",
+  "description": "Provides tools to access information about religious institutions and community services in Kenya, including Catholic dioceses, Protestant denominations, Muslim communities, and welfare programs.",
+  "source_repo": "gabrielmahia/church-mcp",
+  "source_url": "https://github.com/gabrielmahia/church-mcp",
+  "install": "npx -y church-mcp"
+}

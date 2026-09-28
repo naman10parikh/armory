@@ -1,0 +1,7 @@
+{
+  "name": "kdb-ai-mcp-server",
+  "description": "Enables interaction with KDB.AI through natural language for vector database operations, similarity searches, hybrid search, and advanced data analysis.",
+  "source_repo": "KxSystems/kdbai-mcp-server",
+  "source_url": "https://github.com/KxSystems/kdbai-mcp-server",
+  "install": "npx -y kdbai-mcp-server"
+}

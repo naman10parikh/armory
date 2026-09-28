@@ -1,0 +1,7 @@
+{
+  "name": "tandoor-mcp",
+  "description": "MCP server for Tandoor Recipes, enabling recipe management (create, edit, search, delete) and entity operations (foods, units, keywords) via natural language from Claude.",
+  "source_repo": "Hugeldugelking/tandoor-mcp",
+  "source_url": "https://github.com/Hugeldugelking/tandoor-mcp",
+  "install": "npx -y tandoor-mcp"
+}

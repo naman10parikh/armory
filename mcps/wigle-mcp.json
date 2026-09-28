@@ -1,0 +1,7 @@
+{
+  "name": "wigle-mcp",
+  "description": "An MCP server that exposes WiGLE.net wardriving lookups as tools for LLMs, enabling searches and details for WiFi networks, Bluetooth devices, and cell towers.",
+  "source_repo": "thehappydinoa/wigle-mcp",
+  "source_url": "https://github.com/thehappydinoa/wigle-mcp",
+  "install": "npx -y wigle-mcp"
+}

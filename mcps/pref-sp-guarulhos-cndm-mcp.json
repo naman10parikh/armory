@@ -1,0 +1,7 @@
+{
+  "name": "pref-sp-guarulhos-cndm-mcp",
+  "description": "MCP server for consulting official municipal tax debt certificates (Certidão Negativa de Débitos Mobiliários) from Prefeitura de Guarulhos, SP, Brazil, via a hosted read-only API with prepaid credits.",
+  "source_repo": "mcp-dir/pref_sp_guarulhos_cndm-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_sp_guarulhos_cndm-mcp",
+  "install": "npx -y pref_sp_guarulhos_cndm-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cro-ro-cadastro-mcp",
+  "description": "MCP server to query official dental council registration data for Rondônia, Brazil, via a pay-per-use hosted API.",
+  "source_repo": "mcp-dir/cro_ro_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_ro_cadastro-mcp",
+  "install": "npx -y cro_ro_cadastro-mcp"
+}

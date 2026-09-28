@@ -1,0 +1,7 @@
+{
+  "name": "haoapi-mcp-server",
+  "description": "An embedded MCP server in the HaoApi LLM gateway that exposes 13 knowledge base tools via Streamable HTTP and SSE, enabling AI agents to search, read, and manage private knowledge bases through RAG.",
+  "source_repo": "ZzZDdD11/HaoaiApi",
+  "source_url": "https://github.com/ZzZDdD11/HaoaiApi",
+  "install": "# git clone --depth 1 https://github.com/ZzZDdD11/HaoaiApi\n# See source for mcpServers config block"
+}

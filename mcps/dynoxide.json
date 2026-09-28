@@ -1,0 +1,7 @@
+{
+  "name": "dynoxide",
+  "description": "A DynamoDB-compatible database engine (Rust, SQLite-backed) whose MCP server exposes 34 DynamoDB tools: tables, items, query/scan, batch, transactions, PartiQL, TTL, tags, streams and snapshots",
+  "source_repo": "nubo-db/dynoxide",
+  "source_url": "https://github.com/nubo-db/dynoxide",
+  "install": "# git clone --depth 1 https://github.com/nubo-db/dynoxide\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "n8n-mcp-backup-server",
+  "description": "Enables AI assistants to back up, list, and restore n8n workflows and PostgreSQL databases via natural language, using S3-compatible storage for backups.",
+  "source_repo": "TameemAlkadiki/n8n-mcp-backup",
+  "source_url": "https://github.com/TameemAlkadiki/n8n-mcp-backup",
+  "install": "# git clone --depth 1 https://github.com/TameemAlkadiki/n8n-mcp-backup\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "onmind-rag",
+  "description": "A lightweight knowledge base MCP server that enables full-text search and retrieval of markdown documents from indexed sites using Orama BM25.",
+  "source_repo": "kaesar/onmind-rag",
+  "source_url": "https://github.com/kaesar/onmind-rag",
+  "install": "# git clone --depth 1 https://github.com/kaesar/onmind-rag\n# See source for mcpServers config block"
+}

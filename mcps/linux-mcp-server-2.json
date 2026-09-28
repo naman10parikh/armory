@@ -1,0 +1,7 @@
+{
+  "name": "linux-mcp-server-2",
+  "description": "Enables remote execution of Linux commands via SSH, supporting system monitoring, file operations, and secure authentication with configurable safety controls.",
+  "source_repo": "JNPRAutomate/linux-mcp-server",
+  "source_url": "https://github.com/JNPRAutomate/linux-mcp-server",
+  "install": "npx -y linux-mcp-server"
+}

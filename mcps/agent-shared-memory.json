@@ -1,0 +1,7 @@
+{
+  "name": "agent-shared-memory",
+  "description": "Enables AI agents to share persistent memory via an MCP server using SQLite, supporting multi-tenant, categorized knowledge with TTL and semantic links, without requiring vector databases.",
+  "source_repo": "CidLucas/agent-shared-memory",
+  "source_url": "https://github.com/CidLucas/agent-shared-memory",
+  "install": "# git clone --depth 1 https://github.com/CidLucas/agent-shared-memory\n# See source for mcpServers config block"
+}

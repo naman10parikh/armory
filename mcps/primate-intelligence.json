@@ -1,0 +1,7 @@
+{
+  "name": "primate-intelligence",
+  "description": "Real-time video intelligence",
+  "source_repo": "Primate-Intelligence/primate-intelligence-mcp",
+  "source_url": "https://github.com/Primate-Intelligence/primate-intelligence-mcp",
+  "install": "npx -y primate-intelligence-mcp"
+}

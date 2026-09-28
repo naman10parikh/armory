@@ -1,0 +1,7 @@
+{
+  "name": "scientificfigurelibrary",
+  "description": "MCP server for searching, importing, and materializing scientific figure templates from FigureYa and user libraries, enabling data-driven figure selection via visual/data profiling.",
+  "source_repo": "xuzhougeng/ScientificFigureLibrary",
+  "source_url": "https://github.com/xuzhougeng/ScientificFigureLibrary",
+  "install": "# git clone --depth 1 https://github.com/xuzhougeng/ScientificFigureLibrary\n# See source for mcpServers config block"
+}

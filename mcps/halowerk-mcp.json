@@ -1,0 +1,7 @@
+{
+  "name": "halowerk-mcp",
+  "description": "Provides access to 70 paid APIs as MCP tools with per-call and session budgets, paying via x402/USDC on Base without requiring an account or login. Includes a built-in allowlist of hosts and safe defaults to prevent unintended payments.",
+  "source_repo": "halowerk/halowerk-mcp",
+  "source_url": "https://github.com/halowerk/halowerk-mcp",
+  "install": "npx -y halowerk-mcp"
+}

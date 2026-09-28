@@ -1,0 +1,7 @@
+{
+  "name": "fhir-synthetic-mcp",
+  "description": "A learning MCP server providing synthetic FHIR patient data with read tools and a gated write workflow (propose → human approve → commit) with structured audit logging.",
+  "source_repo": "KrishnaKakani-GitHub/fhir-synthetic-mcp",
+  "source_url": "https://github.com/KrishnaKakani-GitHub/fhir-synthetic-mcp",
+  "install": "npx -y fhir-synthetic-mcp"
+}

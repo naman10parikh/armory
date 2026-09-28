@@ -1,0 +1,7 @@
+{
+  "name": "ccrecall",
+  "description": "Enables Claude Code to query and store memories from past conversations using FTS5 search and topic-based retrieval, with no API costs.",
+  "source_repo": "tznthou/ccRecall",
+  "source_url": "https://github.com/tznthou/ccRecall",
+  "install": "# git clone --depth 1 https://github.com/tznthou/ccRecall\n# See source for mcpServers config block"
+}

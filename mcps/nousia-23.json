@@ -1,0 +1,7 @@
+{
+  "name": "nousia-23",
+  "description": "Enables deterministic, neural-free compilation of natural language into typed intent and canonical receipts, with proof-gated synthesis and governed tool use via read-only compiler functions.",
+  "source_repo": "LUXERON/NOUSIA-23",
+  "source_url": "https://github.com/LUXERON/NOUSIA-23",
+  "install": "# git clone --depth 1 https://github.com/LUXERON/NOUSIA-23\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openkb-mcp",
+  "description": "Exposes local OpenKB knowledge bases to MCP clients, enabling wiki discovery, cataloging, lexical search, page reads, and optional LLM query fallback and skill generation.",
+  "source_repo": "structured-knowledge/openkb-mcp",
+  "source_url": "https://github.com/structured-knowledge/openkb-mcp",
+  "install": "npx -y openkb-mcp"
+}

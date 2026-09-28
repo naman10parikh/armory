@@ -1,0 +1,7 @@
+{
+  "name": "slimweb-client-mcp",
+  "description": "Consumer-side MCP server for Webless storefront operations, enabling catalog browsing, product search, and order lookup via tools.",
+  "source_repo": "ericchen1972/SlimWeb-Client-MCP",
+  "source_url": "https://github.com/ericchen1972/SlimWeb-Client-MCP",
+  "install": "npx -y SlimWeb-Client-MCP"
+}

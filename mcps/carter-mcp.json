@@ -1,0 +1,7 @@
+{
+  "name": "carter-mcp",
+  "description": "Enables AI assistants to author and push CAR-TER control surface layouts to paired iOS devices in real time, with tools for incremental editing, live preview, and data wiring.",
+  "source_repo": "Mariner10/carter-mcp",
+  "source_url": "https://github.com/Mariner10/carter-mcp",
+  "install": "npx -y carter-mcp"
+}

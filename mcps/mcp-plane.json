@@ -1,0 +1,7 @@
+{
+  "name": "mcp-plane",
+  "description": "MCP server for Plane project management platform providing 56 tools for workspaces, projects, issues, comments, cycles, modules, and more.",
+  "source_repo": "Ruben-Alvarez-Dev/MCP-plane",
+  "source_url": "https://github.com/Ruben-Alvarez-Dev/MCP-plane",
+  "install": "# git clone --depth 1 https://github.com/Ruben-Alvarez-Dev/MCP-plane\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "glossmodmcp",
+  "description": "为Claude和其他LLM应用提供3DM Mod网站的数据访问能力，让用户可以通过自然语言查询和获取Mod信息。",
+  "source_repo": "GlossMod/gloss-mod-mcp",
+  "source_url": "https://github.com/GlossMod/gloss-mod-mcp",
+  "install": "npx -y gloss-mod-mcp"
+}

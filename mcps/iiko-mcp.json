@@ -1,0 +1,7 @@
+{
+  "name": "iiko-mcp",
+  "description": "An MCP server for debugging iikoTransport API requests, enabling interactive calls to iiko endpoints with your own credentials.",
+  "source_repo": "steamn/iiko-mcp",
+  "source_url": "https://github.com/steamn/iiko-mcp",
+  "install": "npx -y iiko-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "base-wallet-toolkit-mcp",
+  "description": "Enables AI agents to interact with Base chain wallets, providing tools for checking balances, estimating gas, inspecting tokens, verifying allowances, and more.",
+  "source_repo": "lordbasilaiassistant-sudo/base-wallet-toolkit-mcp",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/base-wallet-toolkit-mcp",
+  "install": "npx -y base-wallet-toolkit-mcp"
+}

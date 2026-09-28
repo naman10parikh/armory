@@ -1,0 +1,7 @@
+{
+  "name": "knowjudges",
+  "description": "Free, source-linked research on U.S. judges and courts, including judicial profiles, biographies, courtroom rules, AI-abuse cases, and recent rule changes.",
+  "source_repo": "KnowJudges/knowjudges-mcp",
+  "source_url": "https://github.com/KnowJudges/knowjudges-mcp",
+  "install": "npx -y knowjudges-mcp"
+}

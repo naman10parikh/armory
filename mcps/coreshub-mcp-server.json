@@ -1,0 +1,7 @@
+{
+  "name": "coreshub-mcp-server",
+  "description": "Enables interaction with the CoreHub cloud platform to manage containers, EPFS filesystems, distributed training, and inference services through MCP tools.",
+  "source_repo": "coreshub/mcp-server-coreshub",
+  "source_url": "https://github.com/coreshub/mcp-server-coreshub",
+  "install": "# git clone --depth 1 https://github.com/coreshub/mcp-server-coreshub\n# See source for mcpServers config block"
+}

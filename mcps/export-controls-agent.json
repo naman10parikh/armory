@@ -1,0 +1,7 @@
+{
+  "name": "export-controls-agent",
+  "description": "Provides export-control compliance research and transaction-risk analysis for Korean semiconductor and battery companies, with tools for classifying ECCN, analyzing license exceptions, and drafting export-control clauses.",
+  "source_repo": "seelpeed-debug/export-controls-agent-mcp",
+  "source_url": "https://github.com/seelpeed-debug/export-controls-agent-mcp",
+  "install": "npx -y export-controls-agent-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seokh-unity-open-mcp",
+  "description": "An MCP server for Unity that provides 300 typed tools for editor automation, asset analysis, validation, and diagnostics, supporting live Editor, headless batch, and offline modes.",
+  "source_repo": "seokh1213/unity-my-mcp",
+  "source_url": "https://github.com/seokh1213/unity-my-mcp",
+  "install": "npx -y unity-my-mcp"
+}

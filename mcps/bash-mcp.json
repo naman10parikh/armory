@@ -1,0 +1,7 @@
+{
+  "name": "bash-mcp",
+  "description": "Enables executing shell commands without permission prompts, including running commands and managing background processes.",
+  "source_repo": "tinywind/bash-mcp",
+  "source_url": "https://github.com/tinywind/bash-mcp",
+  "install": "npx -y bash-mcp"
+}

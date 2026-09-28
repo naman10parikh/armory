@@ -1,0 +1,7 @@
+{
+  "name": "meddata-mcp-server",
+  "description": "Enables conversational drug and supplement lookup, detailed profiles, and interaction checking via the MedData API.",
+  "source_repo": "anthesiallc/meddata-mcp",
+  "source_url": "https://github.com/anthesiallc/meddata-mcp",
+  "install": "npx -y meddata-mcp"
+}

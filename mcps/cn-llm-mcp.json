@@ -1,0 +1,7 @@
+{
+  "name": "cn-llm-mcp",
+  "description": "Local MCP server that enables delegating low-risk tasks like summarization or code patches to a low-cost model, with the main agent reviewing results.",
+  "source_repo": "ZhuoS62/cn-llm-mcp",
+  "source_url": "https://github.com/ZhuoS62/cn-llm-mcp",
+  "install": "npx -y cn-llm-mcp"
+}

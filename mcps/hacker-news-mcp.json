@@ -1,0 +1,7 @@
+{
+  "name": "hacker-news-mcp",
+  "description": "Enables AI agents to access Hacker News data including stories, items, users, and comments via MCP tools.",
+  "source_repo": "Dhanush-git/hacker-news-mcp",
+  "source_url": "https://github.com/Dhanush-git/hacker-news-mcp",
+  "install": "npx -y hacker-news-mcp"
+}

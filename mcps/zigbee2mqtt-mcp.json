@@ -1,0 +1,7 @@
+{
+  "name": "zigbee2mqtt-mcp",
+  "description": "An MCP server that enables LLMs to list, inspect, and control Zigbee devices via the Zigbee2MQTT frontend websocket API, eliminating the need for direct MQTT broker access.",
+  "source_repo": "loryanstrant/Zigbee2MQTT-MCP",
+  "source_url": "https://github.com/loryanstrant/Zigbee2MQTT-MCP",
+  "install": "npx -y Zigbee2MQTT-MCP"
+}

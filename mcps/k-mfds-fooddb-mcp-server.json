@@ -1,0 +1,7 @@
+{
+  "name": "k-mfds-fooddb-mcp-server",
+  "description": "Provides tools to search Korean food nutrition data from the Ministry of Food and Drug Safety (MFDS) database, enabling natural language queries for food composition details.",
+  "source_repo": "slicequeue/k-mfds-fooddb-mcp-server",
+  "source_url": "https://github.com/slicequeue/k-mfds-fooddb-mcp-server",
+  "install": "npx -y k-mfds-fooddb-mcp-server"
+}

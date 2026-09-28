@@ -1,0 +1,7 @@
+{
+  "name": "data-analysis-agent",
+  "description": "Enables natural-language data analysis by loading and inspecting datasets in CSV, JSON, Excel, and Parquet formats, with session management and secure file handling.",
+  "source_repo": "Soham-Donode/data-mcp",
+  "source_url": "https://github.com/Soham-Donode/data-mcp",
+  "install": "npx -y data-mcp"
+}

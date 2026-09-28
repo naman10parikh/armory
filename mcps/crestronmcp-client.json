@@ -1,0 +1,7 @@
+{
+  "name": "crestronmcp-client",
+  "description": "Enables natural language control of Crestron 4-Series AV systems via MCP tools, connecting Claude to a processor over TCP with TLS authentication.",
+  "source_repo": "SolutionAVAutomation/crestron-mcp-client",
+  "source_url": "https://github.com/SolutionAVAutomation/crestron-mcp-client",
+  "install": "# git clone --depth 1 https://github.com/SolutionAVAutomation/crestron-mcp-client\n# See source for mcpServers config block"
+}

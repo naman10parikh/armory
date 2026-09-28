@@ -1,0 +1,7 @@
+{
+  "name": "tidewave-rails",
+  "description": "Better agentic Rails development, runtime-level tools for your agent to talk to your running app.",
+  "source_repo": "tidewave-ai/tidewave_rails",
+  "source_url": "https://github.com/tidewave-ai/tidewave_rails",
+  "install": "# git clone --depth 1 https://github.com/tidewave-ai/tidewave_rails\n# See source for mcpServers config block"
+}

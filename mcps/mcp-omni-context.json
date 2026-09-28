@@ -1,0 +1,7 @@
+{
+  "name": "mcp-omni-context",
+  "description": "MCP server that gives AI chat real vision by reading images, files, logs, and zip archives via local OCR in any language, with privacy-first processing.",
+  "source_repo": "0xnurrabby/mcp-omni-context",
+  "source_url": "https://github.com/0xnurrabby/mcp-omni-context",
+  "install": "# git clone --depth 1 https://github.com/0xnurrabby/mcp-omni-context\n# See source for mcpServers config block"
+}

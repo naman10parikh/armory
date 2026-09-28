@@ -1,0 +1,7 @@
+{
+  "name": "atlassian-ai-toolkit-mcp",
+  "description": "MCP server for AI assistants to interact with Atlassian Jira and Confluence Cloud APIs through typed tools and secure authentication.",
+  "source_repo": "spenserhale/atlassian-ai-toolkit",
+  "source_url": "https://github.com/spenserhale/atlassian-ai-toolkit",
+  "install": "# git clone --depth 1 https://github.com/spenserhale/atlassian-ai-toolkit\n# See source for mcpServers config block"
+}

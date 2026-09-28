@@ -1,0 +1,7 @@
+{
+  "name": "code-worker-mcp",
+  "description": "Enables Codex to offload expensive code reading, editing, and checking to a worker agent via Claude Code, supporting async jobs and long-running tasks.",
+  "source_repo": "HuangYuan360/code-worker-mcp",
+  "source_url": "https://github.com/HuangYuan360/code-worker-mcp",
+  "install": "npx -y code-worker-mcp"
+}

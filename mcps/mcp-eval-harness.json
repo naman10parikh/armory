@@ -1,0 +1,7 @@
+{
+  "name": "mcp-eval-harness",
+  "description": "MCP-based code evaluation harness — sandboxed execution + LLM quality scoring.",
+  "source_repo": "salmankhan-prs/mcp-eval-harness",
+  "source_url": "https://github.com/salmankhan-prs/mcp-eval-harness",
+  "install": "# git clone --depth 1 https://github.com/salmankhan-prs/mcp-eval-harness\n# See source for mcpServers config block"
+}

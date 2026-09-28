@@ -1,0 +1,7 @@
+{
+  "name": "ghost-mcp-server",
+  "description": "Enables AI assistants to securely manage Ghost CMS blogs, including posts, pages, members, newsletters, tiers, and more via natural language.",
+  "source_repo": "mauricemendy/ghost-mcp",
+  "source_url": "https://github.com/mauricemendy/ghost-mcp",
+  "install": "npx -y ghost-mcp"
+}

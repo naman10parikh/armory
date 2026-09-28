@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-entra-mcp-server",
+  "description": "A FastMCP server that provides AI assistants with access to Microsoft Entra (Azure AD) directory services. It enables LLMs to search for users, groups, and check memberships using the Microsoft Graph API.",
+  "source_repo": "arunksingh16/azure-entra-mcp",
+  "source_url": "https://github.com/arunksingh16/azure-entra-mcp",
+  "install": "npx -y azure-entra-mcp"
+}

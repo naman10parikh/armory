@@ -1,0 +1,7 @@
+{
+  "name": "grok-web-search-mcp",
+  "description": "A lean FastMCP server that wraps xAI's web_search and x_search tools for MCP hosts, enabling live web and X search with citations.",
+  "source_repo": "NakanoSanku/grok-web-search-mcp",
+  "source_url": "https://github.com/NakanoSanku/grok-web-search-mcp",
+  "install": "npx -y grok-web-search-mcp"
+}

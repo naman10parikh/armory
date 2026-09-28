@@ -1,0 +1,7 @@
+{
+  "name": "thought-graph-mcp",
+  "description": "Enables LLMs to break down reasoning into an explicit, editable graph of thinking steps, with visualizations and the ability to revise individual steps.",
+  "source_repo": "jeff-ong/thought-graph-mcp",
+  "source_url": "https://github.com/jeff-ong/thought-graph-mcp",
+  "install": "npx -y thought-graph-mcp"
+}

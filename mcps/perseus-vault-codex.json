@@ -1,0 +1,7 @@
+{
+  "name": "perseus-vault-codex",
+  "description": "A tiny MCP server that wraps Perseus Vault to provide persistent, encrypted, local-first memory for OpenAI Codex agents, enabling them to remember project conventions, decisions, and context across sessions.",
+  "source_repo": "Perseus-Computing-LLC/perseus-vault-codex",
+  "source_url": "https://github.com/Perseus-Computing-LLC/perseus-vault-codex",
+  "install": "# git clone --depth 1 https://github.com/Perseus-Computing-LLC/perseus-vault-codex\n# See source for mcpServers config block"
+}

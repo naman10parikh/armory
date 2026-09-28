@@ -1,0 +1,7 @@
+{
+  "name": "convo-history-mcp",
+  "description": "Fetches conversations from PostgreSQL and renders them as beautifully formatted, human-readable terminal output.",
+  "source_repo": "rreinold/convo-history-mcp",
+  "source_url": "https://github.com/rreinold/convo-history-mcp",
+  "install": "npx -y convo-history-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pg-mcp-bridge",
+  "description": "A local stdio MCP bridge that enables Cursor to interact with a remote PostgreSQL database through a PHP/Apache HTTP tunnel.",
+  "source_repo": "Rabin0404/pg-mcp-server",
+  "source_url": "https://github.com/Rabin0404/pg-mcp-server",
+  "install": "npx -y pg-mcp-server"
+}

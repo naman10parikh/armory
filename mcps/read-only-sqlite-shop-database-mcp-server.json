@@ -1,0 +1,7 @@
+{
+  "name": "read-only-sqlite-shop-database-mcp-server",
+  "description": "Enables AI agents to safely inspect and query an SQLite e-commerce database with tools for listing tables, describing schemas, and running read-only SQL queries while blocking destructive operations.",
+  "source_repo": "alimbux/mcp",
+  "source_url": "https://github.com/alimbux/mcp",
+  "install": "# git clone --depth 1 https://github.com/alimbux/mcp\n# See source for mcpServers config block"
+}

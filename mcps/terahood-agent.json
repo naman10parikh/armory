@@ -1,0 +1,7 @@
+{
+  "name": "terahood-agent",
+  "description": "Enables agents to purchase and use compute resources on Robinhood Chain via x402 payments. Provides tools for thinking, renting GPUs, checking balances, and viewing the compute menu.",
+  "source_repo": "terahood/terahood-agent",
+  "source_url": "https://github.com/terahood/terahood-agent",
+  "install": "# git clone --depth 1 https://github.com/terahood/terahood-agent\n# See source for mcpServers config block"
+}

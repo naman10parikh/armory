@@ -1,0 +1,7 @@
+{
+  "name": "ml-on-call-agent",
+  "description": "MCP server that diagnoses ML model regressions by correlating drift reports, eval runs, and deploy logs, providing evidence-cited incident reports through a set of investigation tools.",
+  "source_repo": "kanishqtanwar35-hub/ml-oncall-agent",
+  "source_url": "https://github.com/kanishqtanwar35-hub/ml-oncall-agent",
+  "install": "# git clone --depth 1 https://github.com/kanishqtanwar35-hub/ml-oncall-agent\n# See source for mcpServers config block"
+}

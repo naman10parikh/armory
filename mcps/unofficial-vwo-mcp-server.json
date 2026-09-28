@@ -1,0 +1,7 @@
+{
+  "name": "unofficial-vwo-mcp-server",
+  "description": "An unofficial MCP server that exposes VWO platform operations as tools an AI agent can call, enabling management of campaigns, goals, variations, and more through VWO REST API v2.",
+  "source_repo": "nextafter-michael/unofficial-vwo-mcp-server",
+  "source_url": "https://github.com/nextafter-michael/unofficial-vwo-mcp-server",
+  "install": "npx -y unofficial-vwo-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mh-fin-mcp",
+  "description": "Enables China A-share quantitative market data retrieval, including market overview, industry rotation, sector hotspots, limit-up analysis, and risk alerts.",
+  "source_repo": "clk1st/mh-fin-mcp",
+  "source_url": "https://github.com/clk1st/mh-fin-mcp",
+  "install": "npx -y mh-fin-mcp"
+}

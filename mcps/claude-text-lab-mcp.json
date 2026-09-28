@@ -1,0 +1,7 @@
+{
+  "name": "claude-text-lab-mcp",
+  "description": "MCP server for Claude Text Lab, enabling fact-preserving regeneration of Claude-generated text through inspect, sanitize, audit, rewrite, and benchmark operations, with auditable local quality gates and an unverified provenance verdict.",
+  "source_repo": "cuibitlabs/claude-watermark-remover",
+  "source_url": "https://github.com/cuibitlabs/claude-watermark-remover",
+  "install": "# git clone --depth 1 https://github.com/cuibitlabs/claude-watermark-remover\n# See source for mcpServers config block"
+}

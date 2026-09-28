@@ -1,0 +1,7 @@
+{
+  "name": "kips",
+  "description": "Personal data management MCP server that stores and queries notes, tasks, conversations, and auth in SQLite, enabling LLMs to interact with the database through natural language.",
+  "source_repo": "hdresearch/kips",
+  "source_url": "https://github.com/hdresearch/kips",
+  "install": "# git clone --depth 1 https://github.com/hdresearch/kips\n# See source for mcpServers config block"
+}

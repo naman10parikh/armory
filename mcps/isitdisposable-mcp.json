@@ -1,0 +1,7 @@
+{
+  "name": "isitdisposable-mcp",
+  "description": "MCP server that enables AI agents to check if email addresses or domains are disposable using the isitdisposable.com API. It provides tools like check_email, check_domain, and check_batch for real-time validation.",
+  "source_repo": "richelo/isitdisposable-mcp",
+  "source_url": "https://github.com/richelo/isitdisposable-mcp",
+  "install": "npx -y isitdisposable-mcp"
+}

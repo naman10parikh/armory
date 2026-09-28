@@ -1,0 +1,7 @@
+{
+  "name": "docshark",
+  "description": "DocShark is an MCP server that scrapes and indexes documentation websites, enabling AI assistants to perform full-text searches on a local knowledge base built from public docs.",
+  "source_repo": "Michael-Obele/docshark",
+  "source_url": "https://github.com/Michael-Obele/docshark",
+  "install": "# git clone --depth 1 https://github.com/Michael-Obele/docshark\n# See source for mcpServers config block"
+}

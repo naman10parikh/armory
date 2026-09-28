@@ -1,0 +1,7 @@
+{
+  "name": "mechanical-mcp-server",
+  "description": "Enables natural language interaction with ANSYS Mechanical simulation software via gRPC, allowing users to manage geometry, mesh, boundary conditions, solve analyses, and generate reports through MCP-compatible AI clients.",
+  "source_repo": "codersag/mechanical-mcp",
+  "source_url": "https://github.com/codersag/mechanical-mcp",
+  "install": "npx -y mechanical-mcp"
+}

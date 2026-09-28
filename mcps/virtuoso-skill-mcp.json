@@ -1,0 +1,7 @@
+{
+  "name": "virtuoso-skill-mcp",
+  "description": "Enables natural language interaction with Cadence Virtuoso SKILL via Claude Code, allowing users to load files, evaluate expressions, inspect forms, and read CIW errors.",
+  "source_repo": "haykv-cr/virtuoso-skill-mcp",
+  "source_url": "https://github.com/haykv-cr/virtuoso-skill-mcp",
+  "install": "npx -y virtuoso-skill-mcp"
+}

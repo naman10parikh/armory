@@ -1,0 +1,7 @@
+{
+  "name": "at-eli-mcp",
+  "description": "Enables searching and retrieving Austrian federal legislation and case law from the official legal information system RIS, with verifiable ELI and ECLI identifiers.",
+  "source_repo": "matematicsolutions/at-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/at-eli-mcp",
+  "install": "npx -y at-eli-mcp"
+}

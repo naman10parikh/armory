@@ -1,0 +1,7 @@
+{
+  "name": "performance-mcp",
+  "description": "An MCP server that enables querying performance review periods, records, details, and saving self-assessment drafts without final submission.",
+  "source_repo": "yc-lm/performance-mcp",
+  "source_url": "https://github.com/yc-lm/performance-mcp",
+  "install": "npx -y performance-mcp"
+}

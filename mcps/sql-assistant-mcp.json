@@ -1,0 +1,7 @@
+{
+  "name": "sql-assistant-mcp",
+  "description": "A Model Context Protocol (MCP) server for SQL Server / Azure SQL that enables querying, monitoring, and analyzing databases directly from Claude.",
+  "source_repo": "Benrishty/sql-assistant-mcp",
+  "source_url": "https://github.com/Benrishty/sql-assistant-mcp",
+  "install": "npx -y sql-assistant-mcp"
+}

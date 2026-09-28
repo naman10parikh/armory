@@ -1,0 +1,7 @@
+{
+  "name": "gpt-dsh-bridge",
+  "description": "MCP server bridging ChatGPT to DeepSeek Harness, exposing 13 tools for task submission, status tracking, result retrieval, project/session management, and human-in-the-loop approvals.",
+  "source_repo": "baochaofan0404/gpt-dsh-bridge",
+  "source_url": "https://github.com/baochaofan0404/gpt-dsh-bridge",
+  "install": "# git clone --depth 1 https://github.com/baochaofan0404/gpt-dsh-bridge\n# See source for mcpServers config block"
+}

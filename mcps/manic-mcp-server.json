@@ -1,0 +1,7 @@
+{
+  "name": "manic-mcp-server",
+  "description": "Enables MCP-capable AI models to write, validate, and render Manic animations using the Manic platform's authoring guide and API, without any AI generation credits.",
+  "source_repo": "maniclang-x/-manic-mcp-server",
+  "source_url": "https://github.com/maniclang-x/-manic-mcp-server",
+  "install": "npx -y -manic-mcp-server"
+}

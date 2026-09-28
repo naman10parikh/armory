@@ -1,0 +1,7 @@
+{
+  "name": "wat-ai-broker",
+  "description": "Acts as a bridge between an AI assistant and a WebApp Tinkerer instance, enabling live inspection and manipulation of applets in the browser.",
+  "source_repo": "rozek/wat-ai-broker",
+  "source_url": "https://github.com/rozek/wat-ai-broker",
+  "install": "# git clone --depth 1 https://github.com/rozek/wat-ai-broker\n# See source for mcpServers config block"
+}

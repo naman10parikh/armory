@@ -1,0 +1,7 @@
+{
+  "name": "gologx-logx-mcp",
+  "description": "Tamper-evident audit logging for AI agents. Append-only, hash-chained, optionally Ed25519-signed log. The MCP server lets an agent keep and verify a record of what it actually did.",
+  "source_repo": "AyoubTadlaoui/GoLogX",
+  "source_url": "https://github.com/AyoubTadlaoui/GoLogX",
+  "install": "# git clone --depth 1 https://github.com/AyoubTadlaoui/GoLogX\n# See source for mcpServers config block"
+}

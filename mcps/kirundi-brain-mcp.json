@@ -1,0 +1,7 @@
+{
+  "name": "kirundi-brain-mcp",
+  "description": "A FastMCP server that serves as a local-first Kirundi study coach, with tools to manage lesson files, track learner profiles, and provide grounded tutoring and answer grading via OpenAI.",
+  "source_repo": "Sama-ndari/kirundi-brain-mcp",
+  "source_url": "https://github.com/Sama-ndari/kirundi-brain-mcp",
+  "install": "npx -y kirundi-brain-mcp"
+}

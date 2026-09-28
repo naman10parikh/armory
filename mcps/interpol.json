@@ -1,0 +1,7 @@
+{
+  "name": "interpol",
+  "description": "Verifica se um nome consta nas notificações da Interpol usando nome, sobrenome e data de nascimento, para diligência de compliance e AML.",
+  "source_repo": "mcp-dir/interpol-mcp",
+  "source_url": "https://github.com/mcp-dir/interpol-mcp",
+  "install": "npx -y interpol-mcp"
+}

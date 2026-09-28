@@ -1,0 +1,7 @@
+{
+  "name": "seleniumbase-mcp",
+  "description": "Enables undetected Chrome automation and JavaScript reverse engineering through SeleniumBase's CDP Mode, allowing MCP clients to control browsers and inspect page scripts.",
+  "source_repo": "ileonzin/seleniumbase-mcp",
+  "source_url": "https://github.com/ileonzin/seleniumbase-mcp",
+  "install": "npx -y seleniumbase-mcp"
+}

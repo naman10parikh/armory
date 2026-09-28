@@ -1,0 +1,7 @@
+{
+  "name": "rocket-mcp-server",
+  "description": "Multi-MCP orchestration hub connecting GHL, Stripe, Shopify, Supabase, and more through a single AI interface, enabling workflow automation and CRM management.",
+  "source_repo": "Crypto-Goatz/rocket-plus-mcp",
+  "source_url": "https://github.com/Crypto-Goatz/rocket-plus-mcp",
+  "install": "npx -y rocket-plus-mcp"
+}

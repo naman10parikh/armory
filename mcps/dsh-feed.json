@@ -1,0 +1,7 @@
+{
+  "name": "dsh-feed",
+  "description": "Provides aggregated plugin index data from GitHub and npm as an MCP server, enabling search, stats, and sync via natural language or commands.",
+  "source_repo": "863683348/dsh-feed",
+  "source_url": "https://github.com/863683348/dsh-feed",
+  "install": "# git clone --depth 1 https://github.com/863683348/dsh-feed\n# See source for mcpServers config block"
+}

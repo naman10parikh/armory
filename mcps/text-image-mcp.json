@@ -1,0 +1,7 @@
+{
+  "name": "text-image-mcp",
+  "description": "Enables AI agents to generate stylized images from text and code, with syntax highlighting and markdown formatting support.",
+  "source_repo": "burgessadrien/text-image-mcp",
+  "source_url": "https://github.com/burgessadrien/text-image-mcp",
+  "install": "npx -y text-image-mcp"
+}

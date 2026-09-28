@@ -1,0 +1,7 @@
+{
+  "name": "mcp-whatsapp-evo",
+  "description": "Exposes the full WhatsApp API via Evolution API, enabling message sending, chat history, group management, and more through MCP tools.",
+  "source_repo": "jppeiro90/MCP-WHATSAPP-EVO",
+  "source_url": "https://github.com/jppeiro90/MCP-WHATSAPP-EVO",
+  "install": "# git clone --depth 1 https://github.com/jppeiro90/MCP-WHATSAPP-EVO\n# See source for mcpServers config block"
+}

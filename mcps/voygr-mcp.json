@@ -1,0 +1,7 @@
+{
+  "name": "voygr-mcp",
+  "description": "MCP server for VOYGR place verification and outbound venue calls. It provides tools to verify places, make structured calls, check credits, and access call transcripts/events.",
+  "source_repo": "VaarunSinha/voygr-mcp",
+  "source_url": "https://github.com/VaarunSinha/voygr-mcp",
+  "install": "npx -y voygr-mcp"
+}

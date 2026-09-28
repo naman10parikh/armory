@@ -1,0 +1,7 @@
+{
+  "name": "garmin-mcp-4",
+  "description": "A remote MCP server with GitHub OAuth that provides tools like arithmetic, GitHub user info, and image generation for authorized users.",
+  "source_repo": "anpatellll/garmin-mcp",
+  "source_url": "https://github.com/anpatellll/garmin-mcp",
+  "install": "npx -y garmin-mcp"
+}

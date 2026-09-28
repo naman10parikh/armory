@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-livesync-mcp",
+  "description": "Provides AI agents and LLM tools with direct read/write access to Obsidian LiveSync vaults via CouchDB, including full end-to-end encryption support.",
+  "source_repo": "reejosamuel/obsidian-livesync-mcp",
+  "source_url": "https://github.com/reejosamuel/obsidian-livesync-mcp",
+  "install": "npx -y obsidian-livesync-mcp"
+}

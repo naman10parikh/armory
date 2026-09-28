@@ -1,0 +1,7 @@
+{
+  "name": "hashcat-mcp-server",
+  "description": "Enables AI assistants to perform password hash auditing locally via Hashcat, with automatic attack escalation and plain-English results.",
+  "source_repo": "chess960king/hashcat-mcp",
+  "source_url": "https://github.com/chess960king/hashcat-mcp",
+  "install": "npx -y hashcat-mcp"
+}

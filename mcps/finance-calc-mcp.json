@@ -1,0 +1,7 @@
+{
+  "name": "finance-calc-mcp",
+  "description": "An MCP server and CLI providing business, financial, and tax calculations including math expressions, income tax estimates, loan amortization, depreciation, and more.",
+  "source_repo": "FellowTraveler/finance-calc-mcp",
+  "source_url": "https://github.com/FellowTraveler/finance-calc-mcp",
+  "install": "npx -y finance-calc-mcp"
+}

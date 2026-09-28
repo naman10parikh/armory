@@ -1,0 +1,7 @@
+{
+  "name": "protheus-research-mcp-server",
+  "description": "MCP server for technical research in the TOTVS Protheus ecosystem, enabling AI agents to query official documentation, community knowledge bases, and release notes through structured tools. It supports runtime error debugging and ADVPL code generation.",
+  "source_repo": "limaduzz11/protheus-research",
+  "source_url": "https://github.com/limaduzz11/protheus-research",
+  "install": "# git clone --depth 1 https://github.com/limaduzz11/protheus-research\n# See source for mcpServers config block"
+}

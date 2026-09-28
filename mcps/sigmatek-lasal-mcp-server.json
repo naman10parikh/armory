@@ -1,0 +1,7 @@
+{
+  "name": "sigmatek-lasal-mcp-server",
+  "description": "Automates the Sigmatek LASAL software suite for PLC and HMI engineering, enabling AI assistants to inspect projects, apply structural changes, compile, download to hardware, and control PLC runtime.",
+  "source_repo": "Svel26/Lasal-MCP",
+  "source_url": "https://github.com/Svel26/Lasal-MCP",
+  "install": "npx -y Lasal-MCP"
+}

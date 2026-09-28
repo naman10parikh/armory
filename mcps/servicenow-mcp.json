@@ -1,0 +1,7 @@
+{
+  "name": "servicenow-mcp",
+  "description": "Enables natural language control of ServiceNow from AI clients like Claude and Cursor. Provides 400+ tools for incidents, changes, CMDB, and scripts via MCP protocol.",
+  "source_repo": "tedorigawa001/ServiceNow-MCP",
+  "source_url": "https://github.com/tedorigawa001/ServiceNow-MCP",
+  "install": "npx -y ServiceNow-MCP"
+}

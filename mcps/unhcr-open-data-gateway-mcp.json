@@ -1,0 +1,7 @@
+{
+  "name": "unhcr-open-data-gateway-mcp",
+  "description": "Provides a unified interface to access UNHCR's open data across statistics, RDF, and IATI MCP servers, enabling aggregated queries, cross-domain analytics, and dataset discovery.",
+  "source_repo": "Edouard-Legoupil/unhcr-opendata-gateway-mcp",
+  "source_url": "https://github.com/Edouard-Legoupil/unhcr-opendata-gateway-mcp",
+  "install": "npx -y unhcr-opendata-gateway-mcp"
+}

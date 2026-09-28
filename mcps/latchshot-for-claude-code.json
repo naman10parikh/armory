@@ -1,0 +1,7 @@
+{
+  "name": "latchshot-for-claude-code",
+  "description": "Enables Claude Code to capture public web pages as images or PDFs via Latchshot's hosted API, and check rendering quota, without requiring a local browser.",
+  "source_repo": "BaiqingL/latchshot-claude-code",
+  "source_url": "https://github.com/BaiqingL/latchshot-claude-code",
+  "install": "# git clone --depth 1 https://github.com/BaiqingL/latchshot-claude-code\n# See source for mcpServers config block"
+}

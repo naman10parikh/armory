@@ -1,0 +1,7 @@
+{
+  "name": "mailjet-mcp-server",
+  "description": "Enables AI agents to interact with Mailjet's contact, campaign, segmentation, statistics, and workflow APIs for managing email marketing operations through natural language.",
+  "source_repo": "mailgun/mailjet-mcp-server",
+  "source_url": "https://github.com/mailgun/mailjet-mcp-server",
+  "install": "npx -y mailjet-mcp-server"
+}

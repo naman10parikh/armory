@@ -1,0 +1,7 @@
+{
+  "name": "digital-mgmt-mcp",
+  "description": "MCP server for Akij Resource Digital Management team providing KPI summaries and utility tools (time, echo, calculation) over Streamable HTTP, deployable to Vercel.",
+  "source_repo": "headdigitalmgt-mahfuj2/digital-mgmt-mcp",
+  "source_url": "https://github.com/headdigitalmgt-mahfuj2/digital-mgmt-mcp",
+  "install": "npx -y digital-mgmt-mcp"
+}

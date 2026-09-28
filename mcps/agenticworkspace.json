@@ -1,0 +1,7 @@
+{
+  "name": "agenticworkspace",
+  "description": "MCP server wrapping the AgenticWorkspace CLI as a single generic run tool for repo workspace agent-safety scans.",
+  "source_repo": "RudrenduPaul/AgenticWorkspace",
+  "source_url": "https://github.com/RudrenduPaul/AgenticWorkspace",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/AgenticWorkspace\n# See source for mcpServers config block"
+}

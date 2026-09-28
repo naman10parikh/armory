@@ -1,0 +1,7 @@
+{
+  "name": "wishmock",
+  "description": "Provides an MCP server for automation via Server-Sent Events (SSE) to manage mock gRPC and Connect RPC services.",
+  "source_repo": "lukmanbaidhowi/wishmock",
+  "source_url": "https://github.com/lukmanbaidhowi/wishmock",
+  "install": "# git clone --depth 1 https://github.com/lukmanbaidhowi/wishmock\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "terraform-test-mcp",
+  "description": "Generates structured prompts for Claude Code to create comprehensive Terraform test cases including unit, integration, and mock tests.",
+  "source_repo": "dharani-sowndharya/terraform-test-mcp",
+  "source_url": "https://github.com/dharani-sowndharya/terraform-test-mcp",
+  "install": "npx -y terraform-test-mcp"
+}

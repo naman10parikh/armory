@@ -1,0 +1,7 @@
+{
+  "name": "patent-research-mcp",
+  "description": "An MCP server for patent research and enterprise architecture pattern extraction.",
+  "source_repo": "dugonzal/patent-research-mcp",
+  "source_url": "https://github.com/dugonzal/patent-research-mcp",
+  "install": "npx -y patent-research-mcp"
+}

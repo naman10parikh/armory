@@ -1,0 +1,7 @@
+{
+  "name": "cogniahq-mcp",
+  "description": "Enables AI assistants to query end-to-end encrypted memories from Cognia workspace via MCP. Supports search, retrieval, and action execution against connected services like Slack, Notion, and GitHub.",
+  "source_repo": "cogniahq/cognia-mcp",
+  "source_url": "https://github.com/cogniahq/cognia-mcp",
+  "install": "npx -y cognia-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pr-description-skill",
+  "description": "MCP server that generates structured pull request descriptions from Jira tickets and git diffs, with secret scanning, clarification questions, and optional publishing via GitHub CLI.",
+  "source_repo": "edmoura/pr-description-skill",
+  "source_url": "https://github.com/edmoura/pr-description-skill",
+  "install": "# git clone --depth 1 https://github.com/edmoura/pr-description-skill\n# See source for mcpServers config block"
+}

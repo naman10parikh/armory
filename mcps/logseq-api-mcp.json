@@ -1,0 +1,7 @@
+{
+  "name": "logseq-api-mcp",
+  "description": "AI assistant integration with Logseq knowledge graph: 21 tools to read, write, query, and search notes, enabling seamless interaction with your notes.",
+  "source_repo": "gustavo-meilus/logseq-api-mcp",
+  "source_url": "https://github.com/gustavo-meilus/logseq-api-mcp",
+  "install": "npx -y logseq-api-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "warframe-calculator-mcp",
+  "description": "MCP server for Warframe damage calculation and discrete event simulation, providing tools for build resolution, damage panels, expected hits, build comparison, slot optimization, and specialized Akarius Prime AOE simulation.",
+  "source_repo": "sharrkkunjang-baka/warframe-calculator-mcp",
+  "source_url": "https://github.com/sharrkkunjang-baka/warframe-calculator-mcp",
+  "install": "npx -y warframe-calculator-mcp"
+}

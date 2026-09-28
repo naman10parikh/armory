@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-for-wave",
+  "description": "Provides complete MCP access to Wave Accounting, enabling AI assistants to manage invoices, payments, customers, and bookkeeping via natural language.",
+  "source_repo": "oliverames/wave-mcp-server",
+  "source_url": "https://github.com/oliverames/wave-mcp-server",
+  "install": "npx -y wave-mcp-server"
+}

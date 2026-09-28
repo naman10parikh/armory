@@ -1,0 +1,7 @@
+{
+  "name": "learning-orchestrator-mcp",
+  "description": "A sovereign, AI-driven pedagogical and spaced-repetition skills development MCP server supporting progressive syllabi, Bloom's Taxonomy, and secure LMS handshakes.",
+  "source_repo": "SEOSiri-Official/learning-orchestrator-mcp",
+  "source_url": "https://github.com/SEOSiri-Official/learning-orchestrator-mcp",
+  "install": "npx -y learning-orchestrator-mcp"
+}

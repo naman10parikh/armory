@@ -1,0 +1,7 @@
+{
+  "name": "tracora-mcp-server",
+  "description": "Connects Tracora brand and query data to MCP assistants, enabling listing of active brands and AI visibility queries via two read-only tools.",
+  "source_repo": "canerdem1234/tracora-mcp",
+  "source_url": "https://github.com/canerdem1234/tracora-mcp",
+  "install": "npx -y tracora-mcp"
+}

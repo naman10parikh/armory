@@ -1,0 +1,7 @@
+{
+  "name": "ssotica-mcp",
+  "description": "A Python MCP server that provides access to ssOtica's consulting APIs for managing sales, services, finances, and inventory data, outputting results to CSV.",
+  "source_repo": "giovannabbottino/ssotica-mcp",
+  "source_url": "https://github.com/giovannabbottino/ssotica-mcp",
+  "install": "npx -y ssotica-mcp"
+}

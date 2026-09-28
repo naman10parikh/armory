@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rp",
+  "description": "Enables AI assistants to interact with ReportPortal, covering launches, test items, logs, dashboards, widgets, filters, projects, users, and integrations.",
+  "source_repo": "mwaykole/mcp-rp",
+  "source_url": "https://github.com/mwaykole/mcp-rp",
+  "install": "# git clone --depth 1 https://github.com/mwaykole/mcp-rp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ylx-dev",
+  "description": "Development assistant for YLx photo proofing platform, enabling PR review, codebase queries, feature suggestions, audits, test generation, and deployment monitoring.",
+  "source_repo": "msph1973/ylx-mcp",
+  "source_url": "https://github.com/msph1973/ylx-mcp",
+  "install": "npx -y ylx-mcp"
+}

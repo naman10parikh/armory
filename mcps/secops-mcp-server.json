@@ -1,0 +1,7 @@
+{
+  "name": "secops-mcp-server",
+  "description": "Enterprise MCP server for Google SecOps (Chronicle) SIEM/SOAR, enabling alert triage, UDM telemetry search, YARA-L detection rule management, log ingestion, and parser administration via Streamable HTTP.",
+  "source_repo": "yayefa/SecOps-MCP-Server",
+  "source_url": "https://github.com/yayefa/SecOps-MCP-Server",
+  "install": "npx -y SecOps-MCP-Server"
+}

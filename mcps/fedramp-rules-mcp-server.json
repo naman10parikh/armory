@@ -1,0 +1,7 @@
+{
+  "name": "fedramp-rules-mcp-server",
+  "description": "Answers questions about the FedRAMP Consolidated Rules for 2026 using search and retrieval tools on the authoritative source text with citations.",
+  "source_repo": "dan-fedramp/fedramp-rules-mcp",
+  "source_url": "https://github.com/dan-fedramp/fedramp-rules-mcp",
+  "install": "npx -y fedramp-rules-mcp"
+}

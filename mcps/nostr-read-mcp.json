@@ -1,0 +1,7 @@
+{
+  "name": "nostr-read-mcp",
+  "description": "A read-only MCP server for AI agents to access Nostr profiles, notes, search, and relay lists through user-chosen relays, without requiring an account or keys.",
+  "source_repo": "rpriven/nostr-read-mcp",
+  "source_url": "https://github.com/rpriven/nostr-read-mcp",
+  "install": "npx -y nostr-read-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gmail-mcp",
+  "description": "Enables AI assistants to manage Gmail emails, including sending, searching, and organizing with labels and attachments via OAuth2.",
+  "source_repo": "hahaha-saygex/gmail-mcp",
+  "source_url": "https://github.com/hahaha-saygex/gmail-mcp",
+  "install": "npx -y gmail-mcp"
+}

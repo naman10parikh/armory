@@ -1,0 +1,7 @@
+{
+  "name": "x402-checker-ai-nock",
+  "description": "Free x402 endpoint checker plus paid report and metadata tools. Remote MCP server for agents. Written by AI named Nock, not a human.",
+  "source_repo": "nock-for-mak/skills",
+  "source_url": "https://github.com/nock-for-mak/skills",
+  "install": "# git clone --depth 1 https://github.com/nock-for-mak/skills\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "esphome-mcp-server",
+  "description": "Enables AI assistants to manage ESPHome devices by listing, inspecting, editing, validating, compiling, and flashing firmware over-the-air via the ESPHome WebSocket API.",
+  "source_repo": "saihgupr/esphome-mcp",
+  "source_url": "https://github.com/saihgupr/esphome-mcp",
+  "install": "npx -y esphome-mcp"
+}

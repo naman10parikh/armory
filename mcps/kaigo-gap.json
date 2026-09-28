@@ -1,0 +1,7 @@
+{
+  "name": "kaigo-gap",
+  "description": "Enables AI agents to answer questions about Japanese long-term care supply and demand, such as whether a municipality has enough special nursing homes, using public data.",
+  "source_repo": "ossudesu-lab/kaigo_mcp",
+  "source_url": "https://github.com/ossudesu-lab/kaigo_mcp",
+  "install": "npx -y kaigo_mcp"
+}

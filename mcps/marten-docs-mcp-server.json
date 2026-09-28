@@ -1,0 +1,7 @@
+{
+  "name": "marten-docs-mcp-server",
+  "description": "Local MCP server for focused Marten documentation retrieval with caching, search, and progressive narrowing tools.",
+  "source_repo": "stijnVanHorenbeek/marten_mcp",
+  "source_url": "https://github.com/stijnVanHorenbeek/marten_mcp",
+  "install": "npx -y marten_mcp"
+}

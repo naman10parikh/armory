@@ -1,0 +1,7 @@
+{
+  "name": "gitbridge",
+  "description": "Enables AI assistants to analyze GitHub repositories, including fetching repository details, searching, and retrieving README content.",
+  "source_repo": "saksham-jain177/GitBridge",
+  "source_url": "https://github.com/saksham-jain177/GitBridge",
+  "install": "# git clone --depth 1 https://github.com/saksham-jain177/GitBridge\n# See source for mcpServers config block"
+}

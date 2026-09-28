@@ -1,0 +1,7 @@
+{
+  "name": "oyapicks-mcp",
+  "description": "Provides prediction-market data as MCP tools, including live prices, keyword search, probability history, volume spikes, arbitrage gaps, and resolutions. Pay per call in USDC on Base with no API key or signup.",
+  "source_repo": "oyapicks/oyapicks-mcp",
+  "source_url": "https://github.com/oyapicks/oyapicks-mcp",
+  "install": "npx -y oyapicks-mcp"
+}

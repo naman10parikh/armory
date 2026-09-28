@@ -1,0 +1,7 @@
+{
+  "name": "sms-florin-mcp",
+  "description": "MCP server that lets AI agents rent a real UK phone number and receive SMS/OTP verification codes directly in agentic workflows.",
+  "source_repo": "flovoice53-tech/sms-florin-mcp",
+  "source_url": "https://github.com/flovoice53-tech/sms-florin-mcp",
+  "install": "npx -y sms-florin-mcp"
+}

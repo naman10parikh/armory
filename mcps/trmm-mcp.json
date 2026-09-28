@@ -1,0 +1,7 @@
+{
+  "name": "trmm-mcp",
+  "description": "MCP server that gives AI assistants read-only access to TacticalRMM fleet data (agents, checks, alerts, services, processes, etc.) and, with explicit approval, lets them run commands on managed machines.",
+  "source_repo": "shin2344234/trmm-mcp",
+  "source_url": "https://github.com/shin2344234/trmm-mcp",
+  "install": "npx -y trmm-mcp"
+}

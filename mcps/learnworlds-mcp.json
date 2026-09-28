@@ -1,0 +1,7 @@
+{
+  "name": "learnworlds-mcp",
+  "description": "Enables AI assistants to manage a LearnWorlds school via the full public API, covering all 94 endpoints for courses, users, enrollments, payments, and more.",
+  "source_repo": "ohneben/Learnworlds-MCP",
+  "source_url": "https://github.com/ohneben/Learnworlds-MCP",
+  "install": "npx -y Learnworlds-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tether-mcp-server",
+  "description": "Enables AI agents to securely access Apple Health data (sleep, heart rate, menstrual cycle, etc.) via end-to-end encrypted local decryption from the Tether iOS app.",
+  "source_repo": "Fino-wind/tether-mcp",
+  "source_url": "https://github.com/Fino-wind/tether-mcp",
+  "install": "npx -y tether-mcp"
+}

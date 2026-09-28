@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-canvas-lms",
+  "description": "Read-only MCP server for Canvas LMS that exposes tools to list courses, assignments, grades, submissions, syllabi, announcements, modules, pages, and files, without any write operations.",
+  "source_repo": "javohir73/mcp-server-canvas-lms",
+  "source_url": "https://github.com/javohir73/mcp-server-canvas-lms",
+  "install": "# git clone --depth 1 https://github.com/javohir73/mcp-server-canvas-lms\n# See source for mcpServers config block"
+}

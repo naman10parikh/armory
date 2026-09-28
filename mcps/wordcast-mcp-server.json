@@ -1,0 +1,7 @@
+{
+  "name": "wordcast-mcp-server",
+  "description": "Exposes the canonical WordCast knowledge surface — voice and TTS workflows, blog topics, FAQ, official links — to MCP-compatible AI clients. Read-only, no API keys required.",
+  "source_repo": "rocnubie/wordcast-mcp",
+  "source_url": "https://github.com/rocnubie/wordcast-mcp",
+  "install": "npx -y wordcast-mcp"
+}

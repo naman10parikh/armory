@@ -1,0 +1,7 @@
+{
+  "name": "flowmcp",
+  "description": "Cross-model AI memory persistence server that gives every AI tool you use access to the same persistent memory.",
+  "source_repo": "tydeck1016/flow-mcp-server",
+  "source_url": "https://github.com/tydeck1016/flow-mcp-server",
+  "install": "npx -y flow-mcp-server"
+}

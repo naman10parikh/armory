@@ -1,0 +1,7 @@
+{
+  "name": "cro-sc-cadastro",
+  "description": "Consulta em fonte oficial do cadastro do Conselho Regional de Odontologia de Santa Catarina, com uma ferramenta somente leitura e pagamento pré-pago por consulta.",
+  "source_repo": "mcp-dir/cro_sc_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_sc_cadastro-mcp",
+  "install": "npx -y cro_sc_cadastro-mcp"
+}

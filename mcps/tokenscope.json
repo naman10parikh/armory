@@ -1,0 +1,7 @@
+{
+  "name": "tokenscope",
+  "description": "Analyzes Claude Code session token usage and cost locally — where spend actually lands across cache-read, cache-write and output, and what is consuming the context window. Read-only and offline: it parses your own session files and exposes analyze_claude_cost, get_cost_benchmark and tokenscope_share",
+  "source_repo": "wartzar-bee/tokenscope",
+  "source_url": "https://github.com/wartzar-bee/tokenscope",
+  "install": "# git clone --depth 1 https://github.com/wartzar-bee/tokenscope\n# See source for mcpServers config block"
+}

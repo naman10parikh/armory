@@ -1,0 +1,7 @@
+{
+  "name": "gwsadm-mcp",
+  "description": "Google Workspace security-audit MCP server — read-only visibility into account locks, suspicious logins, and external file sharing, built on the Admin SDK Reports API (audit activities).",
+  "source_repo": "shigechika/gwsadm-mcp",
+  "source_url": "https://github.com/shigechika/gwsadm-mcp",
+  "install": "npx -y gwsadm-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chamber",
+  "description": "Cited Q&A and drift detection over your own markdown notes: answers cite exact passages, cited passages are hashed at citation time, and a scheduled verify flags when a source changed under a conclusion already drawn from it. Local-first, zero runtime dependencies (node:sqlite); tools: chamber_ask,",
+  "source_repo": "abm9111/chamber",
+  "source_url": "https://github.com/abm9111/chamber",
+  "install": "# git clone --depth 1 https://github.com/abm9111/chamber\n# See source for mcpServers config block"
+}

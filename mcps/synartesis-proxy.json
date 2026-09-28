@@ -1,0 +1,7 @@
+{
+  "name": "synartesis-proxy",
+  "description": "An MCP proxy that records every tool call, restores prior state on undo, and blocks irreversible actions until a human approves them.",
+  "source_repo": "ArhaanDev24/Synartesis",
+  "source_url": "https://github.com/ArhaanDev24/Synartesis",
+  "install": "# git clone --depth 1 https://github.com/ArhaanDev24/Synartesis\n# See source for mcpServers config block"
+}

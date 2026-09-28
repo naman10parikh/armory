@@ -1,0 +1,7 @@
+{
+  "name": "cmux-mcp",
+  "description": "MCP server wrapping the cmux CLI to let agents control terminal panes, workspaces, input, and browser.",
+  "source_repo": "puchkoff/cmux-mcp",
+  "source_url": "https://github.com/puchkoff/cmux-mcp",
+  "install": "npx -y cmux-mcp"
+}

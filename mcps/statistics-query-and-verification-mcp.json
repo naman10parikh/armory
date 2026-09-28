@@ -1,0 +1,7 @@
+{
+  "name": "statistics-query-and-verification-mcp",
+  "description": "MCP server for answering questions about official statistics from a single publication URL, with tools to check query scope, retrieve overview, text, data files, and search.",
+  "source_repo": "ONSdigital/stats-query-mcp",
+  "source_url": "https://github.com/ONSdigital/stats-query-mcp",
+  "install": "npx -y stats-query-mcp"
+}

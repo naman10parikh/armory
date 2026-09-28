@@ -1,0 +1,7 @@
+{
+  "name": "playwright-accessibility-mcp-server",
+  "description": "Enables accessibility testing using Playwright and Axe, allowing users to scan URLs, HTML content, and batches for violations, and summarize results.",
+  "source_repo": "deepakkamboj/playwright-accessibility-mcp-server",
+  "source_url": "https://github.com/deepakkamboj/playwright-accessibility-mcp-server",
+  "install": "npx -y playwright-accessibility-mcp-server"
+}

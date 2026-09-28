@@ -1,0 +1,7 @@
+{
+  "name": "flutter-coder",
+  "description": "Provides Flutter and Dart reference data, code generation, live API lookups, and a verified sample corpus for AI coding assistants, enabling efficient Flutter development with accurate guidance and boilerplate generation.",
+  "source_repo": "RoanokeControls/flutter-coder",
+  "source_url": "https://github.com/RoanokeControls/flutter-coder",
+  "install": "# git clone --depth 1 https://github.com/RoanokeControls/flutter-coder\n# See source for mcpServers config block"
+}

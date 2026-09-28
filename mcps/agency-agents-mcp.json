@@ -1,0 +1,7 @@
+{
+  "name": "agency-agents-mcp",
+  "description": "Provides GitHub Copilot with 160+ AI agent personas and 1,400+ specialized skills, enabling developers to activate expert roles like backend architect or security engineer through natural language.",
+  "source_repo": "kriptoburak/agency-agents-mcp",
+  "source_url": "https://github.com/kriptoburak/agency-agents-mcp",
+  "install": "npx -y agency-agents-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "formulon-mcp",
+  "description": "MCP server for Excel-compatible formula evaluation and workbook operations, enabling agents to open, inspect, mutate, recalculate, and save .xlsx files in-memory over stdio.",
+  "source_repo": "libraz/formulon-mcp",
+  "source_url": "https://github.com/libraz/formulon-mcp",
+  "install": "npx -y formulon-mcp"
+}

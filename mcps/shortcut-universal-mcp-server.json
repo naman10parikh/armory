@@ -1,0 +1,7 @@
+{
+  "name": "shortcut-universal-mcp-server",
+  "description": "Provides a standardized interface for interacting with Shortcut's tools and services through a unified API.",
+  "source_repo": "universal-mcp/shortcut",
+  "source_url": "https://github.com/universal-mcp/shortcut",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/shortcut\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "evermemos-mcp-server",
+  "description": "Enables AI coding assistants to store and retrieve persistent long-term memory across sessions, remembering project preferences, build steps, and architecture decisions.",
+  "source_repo": "wyh0626/evermemos-mcp-server",
+  "source_url": "https://github.com/wyh0626/evermemos-mcp-server",
+  "install": "npx -y evermemos-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-design-expert",
+  "description": "Provides design capabilities including requirement analysis, visual token extraction, design generation, and visual auditing.",
+  "source_repo": "AnxiangTechnology/ai-design-expert-mcp",
+  "source_url": "https://github.com/AnxiangTechnology/ai-design-expert-mcp",
+  "install": "npx -y ai-design-expert-mcp"
+}

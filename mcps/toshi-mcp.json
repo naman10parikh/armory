@@ -1,0 +1,7 @@
+{
+  "name": "toshi-mcp",
+  "description": "Enables a side-panel companion that watches your coding session and provides context-aware answers about your codebase and session state through a small, token-cheap MCP interface.",
+  "source_repo": "philpof102-svg/toshi",
+  "source_url": "https://github.com/philpof102-svg/toshi",
+  "install": "# git clone --depth 1 https://github.com/philpof102-svg/toshi\n# See source for mcpServers config block"
+}

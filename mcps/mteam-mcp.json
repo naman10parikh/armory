@@ -1,0 +1,7 @@
+{
+  "name": "mteam-mcp",
+  "description": "MCP server for M-Team that enables seed search, detail viewing, and .torrent file download through standard stdio MCP, designed for Hermes Agent.",
+  "source_repo": "TnZzZHlp/mteam-mcp",
+  "source_url": "https://github.com/TnZzZHlp/mteam-mcp",
+  "install": "npx -y mteam-mcp"
+}

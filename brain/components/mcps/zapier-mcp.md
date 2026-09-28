@@ -7,7 +7,7 @@ source_repo: https://zapier.com/mcp
 source_url: https://zapier.com/mcp
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: null
 eval_score: 1
 mentions: null

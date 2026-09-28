@@ -1,0 +1,7 @@
+{
+  "name": "battery-erp",
+  "description": "Material, cell, pack, and supply-chain management with real-time",
+  "source_repo": "icohangar-ops/battery-erp",
+  "source_url": "https://github.com/icohangar-ops/battery-erp",
+  "install": "# git clone --depth 1 https://github.com/icohangar-ops/battery-erp\n# See source for mcpServers config block"
+}

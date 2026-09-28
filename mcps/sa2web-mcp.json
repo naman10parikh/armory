@@ -1,0 +1,7 @@
+{
+  "name": "sa2web-mcp",
+  "description": "Exposes a remote browser as MCP tools via Playwright, enabling AI agents to navigate and interact with web pages through DOM snapshots, clicks, typing, and form operations.",
+  "source_repo": "sa2web/sa2web-mcp",
+  "source_url": "https://github.com/sa2web/sa2web-mcp",
+  "install": "npx -y sa2web-mcp"
+}

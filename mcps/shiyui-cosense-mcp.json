@@ -1,0 +1,7 @@
+{
+  "name": "shiyui-cosense-mcp",
+  "description": "Read-only MCP server for the Cosense project 'shiyui' that provides tools for fetching pages, full-text search, vector search, and related page retrieval. It uses Cloudflare Access OAuth for authentication.",
+  "source_repo": "Sigumaa/shiyui-cosense-mcp",
+  "source_url": "https://github.com/Sigumaa/shiyui-cosense-mcp",
+  "install": "npx -y shiyui-cosense-mcp"
+}

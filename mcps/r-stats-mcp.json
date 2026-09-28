@@ -1,0 +1,7 @@
+{
+  "name": "r-stats-mcp",
+  "description": "An MCP server that provides an LLM with access to R's statistical toolkit including hypothesis tests, regression, psychometrics, survival analysis, time series, and plots through a persistent R session.",
+  "source_repo": "Ian3738/r-stats-mcp",
+  "source_url": "https://github.com/Ian3738/r-stats-mcp",
+  "install": "npx -y r-stats-mcp"
+}

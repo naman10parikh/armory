@@ -1,0 +1,7 @@
+{
+  "name": "mylar3-mcp",
+  "description": "MCP server that exposes Mylar3's HTTP API as tools, letting an LLM read and manage a comic library including watchlist, wanted issues, upcoming, history, logs, story arcs, and providers.",
+  "source_repo": "SavageCore/mylar3-mcp",
+  "source_url": "https://github.com/SavageCore/mylar3-mcp",
+  "install": "npx -y mylar3-mcp"
+}

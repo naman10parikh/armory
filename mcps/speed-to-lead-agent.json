@@ -1,0 +1,7 @@
+{
+  "name": "speed-to-lead-agent",
+  "description": "MCP server for qualifying and responding to inbound leads in seconds using a multi-agent AI pipeline.",
+  "source_repo": "OmateLabs/speed-to-lead-agent",
+  "source_url": "https://github.com/OmateLabs/speed-to-lead-agent",
+  "install": "# git clone --depth 1 https://github.com/OmateLabs/speed-to-lead-agent\n# See source for mcpServers config block"
+}

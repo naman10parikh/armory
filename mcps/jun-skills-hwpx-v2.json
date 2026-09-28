@@ -1,0 +1,7 @@
+{
+  "name": "jun-skills-hwpx-v2",
+  "description": "Unified MCP server for converting Markdown to HWPX documents or generating new HWPX files from templates while preserving formatting.",
+  "source_repo": "cjLee-cmd/jun-skills-hwpx-v2",
+  "source_url": "https://github.com/cjLee-cmd/jun-skills-hwpx-v2",
+  "install": "# git clone --depth 1 https://github.com/cjLee-cmd/jun-skills-hwpx-v2\n# See source for mcpServers config block"
+}

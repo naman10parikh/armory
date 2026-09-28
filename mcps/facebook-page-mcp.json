@@ -1,0 +1,7 @@
+{
+  "name": "facebook-page-mcp",
+  "description": "Enables publishing Facebook Page posts (text and photo) and retrieving page info via the Meta Graph API, with dry-run safety defaults and remote MCP transport.",
+  "source_repo": "salman0butt/facebook-page-mcp",
+  "source_url": "https://github.com/salman0butt/facebook-page-mcp",
+  "install": "npx -y facebook-page-mcp"
+}

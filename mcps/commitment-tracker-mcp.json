@@ -1,0 +1,7 @@
+{
+  "name": "commitment-tracker-mcp",
+  "description": "Tracks commitments (promises made in conversations) and provides tools to add, list, mark as fulfilled, and check overdue items.",
+  "source_repo": "ritheshr21/commitment-tracker-mcp",
+  "source_url": "https://github.com/ritheshr21/commitment-tracker-mcp",
+  "install": "npx -y commitment-tracker-mcp"
+}

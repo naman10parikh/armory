@@ -1,0 +1,7 @@
+{
+  "name": "data-dictionary-mcp",
+  "description": "A Model Context Protocol (MCP) server that coordinates AI agents to transform database tables into Wikipedia-style data dictionaries.",
+  "source_repo": "jonahkeegan/data-dictionary-mcp",
+  "source_url": "https://github.com/jonahkeegan/data-dictionary-mcp",
+  "install": "npx -y data-dictionary-mcp"
+}

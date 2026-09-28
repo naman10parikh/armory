@@ -1,0 +1,7 @@
+{
+  "name": "gsap-master-mcp-server",
+  "description": "Transforms Claude into a GSAP animation expert with AI-powered natural language animation creation, complete API coverage, and production-ready patterns for all GSAP features and plugins.",
+  "source_repo": "bruzethegreat/gsap-master-mcp-server",
+  "source_url": "https://github.com/bruzethegreat/gsap-master-mcp-server",
+  "install": "npx -y gsap-master-mcp-server"
+}

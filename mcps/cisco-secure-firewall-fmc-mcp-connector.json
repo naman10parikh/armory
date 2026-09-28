@@ -1,0 +1,7 @@
+{
+  "name": "cisco-secure-firewall-fmc-mcp-connector",
+  "description": "MCP server that exposes high-level tooling for Cisco Secure Firewall Management Center (FMC), allowing discovery of FMC profiles and searching access rules by IP, FQDN, or identity indicators.",
+  "source_repo": "CiscoDevNet/CiscoFMC-MCP-server-community",
+  "source_url": "https://github.com/CiscoDevNet/CiscoFMC-MCP-server-community",
+  "install": "# git clone --depth 1 https://github.com/CiscoDevNet/CiscoFMC-MCP-server-community\n# See source for mcpServers config block"
+}

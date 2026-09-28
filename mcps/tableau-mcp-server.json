@@ -1,0 +1,7 @@
+{
+  "name": "tableau-mcp-server",
+  "description": "Enables reading and writing to Tableau Server or Tableau Cloud via the REST API, supporting operations on sites, projects, workbooks, views, and data sources.",
+  "source_repo": "LokiMCPUniverse/tableau-mcp-server",
+  "source_url": "https://github.com/LokiMCPUniverse/tableau-mcp-server",
+  "install": "npx -y tableau-mcp-server"
+}

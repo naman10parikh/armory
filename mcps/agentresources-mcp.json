@@ -1,0 +1,7 @@
+{
+  "name": "agentresources-mcp",
+  "description": "Operational MCP server for Agent Resources, enabling Trust Card lookup, signed telemetry, memory operations, and signing-key management.",
+  "source_repo": "sznt2010/agentresources-mcp",
+  "source_url": "https://github.com/sznt2010/agentresources-mcp",
+  "install": "npx -y agentresources-mcp"
+}

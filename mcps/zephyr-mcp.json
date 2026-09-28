@@ -1,0 +1,7 @@
+{
+  "name": "zephyr-mcp",
+  "description": "Enables reading test cases and test steps from Zephyr Scale using the Zephyr Scale API.",
+  "source_repo": "Sotatek-NghiaDuong2/zephyr-mcp",
+  "source_url": "https://github.com/Sotatek-NghiaDuong2/zephyr-mcp",
+  "install": "npx -y zephyr-mcp"
+}

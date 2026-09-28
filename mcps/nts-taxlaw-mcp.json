@@ -1,0 +1,7 @@
+{
+  "name": "nts-taxlaw-mcp",
+  "description": "MCP server that directly queries the Korean National Tax Service tax law information system for tax law interpretations, precedents, and guidance. It supports exact document-number lookup, keyword search, and structured retrieval of ruling details and legal grounds.",
+  "source_repo": "zisu17/korean-taxlaw-mcp",
+  "source_url": "https://github.com/zisu17/korean-taxlaw-mcp",
+  "install": "npx -y korean-taxlaw-mcp"
+}

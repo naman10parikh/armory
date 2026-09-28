@@ -1,0 +1,7 @@
+{
+  "name": "hoton-mcp",
+  "description": "Enables AI agents to purchase Telegram Stars, Premium, and TON top-ups by building unsigned transactions for the agent's TON wallet to sign.",
+  "source_repo": "hotonlabs/hoton-mcp",
+  "source_url": "https://github.com/hotonlabs/hoton-mcp",
+  "install": "npx -y hoton-mcp"
+}

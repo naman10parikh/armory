@@ -1,0 +1,7 @@
+{
+  "name": "lokyy-mcp",
+  "description": "This MCP server connects your AI to a knowledge base through semantic tools, enforcing strict rules with German-language rejections for violations. It provides tools for managing sources, wiki articles, distillation, and GDPR-compliant deletion.",
+  "source_repo": "oliverhees/lokyy-mcp",
+  "source_url": "https://github.com/oliverhees/lokyy-mcp",
+  "install": "npx -y lokyy-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vault-kv-mcp",
+  "description": "A read-only MCP server that provides tools to read, list, and inspect secrets from HashiCorp Vault's KV secrets engine (versions 1 and 2) using a Vault token.",
+  "source_repo": "elisjetmax/mcp-vault-hashicorp",
+  "source_url": "https://github.com/elisjetmax/mcp-vault-hashicorp",
+  "install": "# git clone --depth 1 https://github.com/elisjetmax/mcp-vault-hashicorp\n# See source for mcpServers config block"
+}

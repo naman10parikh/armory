@@ -1,0 +1,7 @@
+{
+  "name": "docwriter-mcp-server",
+  "description": "A Model Context Protocol server for programmatic creation, modification, and compilation of structured LaTeX documents.",
+  "source_repo": "cyanheads/docwriter-mcp-server",
+  "source_url": "https://github.com/cyanheads/docwriter-mcp-server",
+  "install": "npx -y docwriter-mcp-server"
+}

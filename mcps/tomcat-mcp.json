@@ -1,0 +1,7 @@
+{
+  "name": "tomcat-mcp",
+  "description": "Enables AI-assisted management of Apache Tomcat, including start/stop, WAR deployment, log analysis, thread and heap dumps, and diagnostics.",
+  "source_repo": "sarath-451/tomcat-mcp",
+  "source_url": "https://github.com/sarath-451/tomcat-mcp",
+  "install": "npx -y tomcat-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "postbote",
+  "description": "An MCP server that enables AI assistants to read-only search and retrieve GNOME mail, contacts, and calendar data using IMAP and Evolution Data Server, with no password storage.",
+  "source_repo": "JumpLink/postbote",
+  "source_url": "https://github.com/JumpLink/postbote",
+  "install": "# git clone --depth 1 https://github.com/JumpLink/postbote\n# See source for mcpServers config block"
+}

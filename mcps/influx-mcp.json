@@ -1,0 +1,7 @@
+{
+  "name": "influx-mcp",
+  "description": "MCP server for InfluxDB 2.x, tuned for Home Assistant long-term storage, enabling reading sensor history, finding anomalies, and running Flux queries.",
+  "source_repo": "nickcheban/influx-mcp",
+  "source_url": "https://github.com/nickcheban/influx-mcp",
+  "install": "npx -y influx-mcp"
+}

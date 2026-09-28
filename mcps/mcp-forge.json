@@ -1,0 +1,7 @@
+{
+  "name": "mcp-forge",
+  "description": "Provides tools to retrieve deterministic prompts for rewriting any Node.js project to production-quality TypeScript, supporting incremental and single-pass workflows.",
+  "source_repo": "Flagler-County-BoCC/mcp-forge",
+  "source_url": "https://github.com/Flagler-County-BoCC/mcp-forge",
+  "install": "# git clone --depth 1 https://github.com/Flagler-County-BoCC/mcp-forge\n# See source for mcpServers config block"
+}

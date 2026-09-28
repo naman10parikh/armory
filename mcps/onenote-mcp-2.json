@@ -1,0 +1,7 @@
+{
+  "name": "onenote-mcp-2",
+  "description": "Enables natural language interaction with Microsoft OneNote to manage notebooks, sections, and pages, including creating and searching pages via the Microsoft Graph API.",
+  "source_repo": "seanGSISG/onenote-mcp",
+  "source_url": "https://github.com/seanGSISG/onenote-mcp",
+  "install": "npx -y onenote-mcp"
+}

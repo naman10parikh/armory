@@ -1,0 +1,7 @@
+{
+  "name": "ros-2-workspace-inspector-mcp",
+  "description": "Provides static analysis of ROS 2 workspaces, enabling inspection of packages, dependencies, interfaces, launch files, and robot descriptions without running ROS 2.",
+  "source_repo": "doer0312/ros2-workspace-mcp",
+  "source_url": "https://github.com/doer0312/ros2-workspace-mcp",
+  "install": "npx -y ros2-workspace-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sickslip-verify",
+  "description": "Verify the authenticity of a SickSlip doctor's note from your AI assistant. SickSlip is a U.S. asynchronous telehealth service operated by SickSlip P.A., reviewed and signed by Dr. Adam Z. Kawalek, MD (NPI 1326223306, board-certified internal medicine, 30+ states). Every note is QR-verifiable by the",
+  "source_repo": "",
+  "source_url": "https://www.sickslip.co",
+  "install": "# git clone --depth 1 https://www.sickslip.co\n# See source for mcpServers config block"
+}

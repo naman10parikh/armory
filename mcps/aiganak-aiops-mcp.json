@@ -1,0 +1,7 @@
+{
+  "name": "aiganak-aiops-mcp",
+  "description": "Enables autonomous infrastructure diagnostics, log root-cause analysis, and safe code patching via tools for querying logs, inspecting Python AST, and applying git-safe patches.",
+  "source_repo": "AiGanak/aiganak-aiops-mcp",
+  "source_url": "https://github.com/AiGanak/aiganak-aiops-mcp",
+  "install": "npx -y aiganak-aiops-mcp"
+}

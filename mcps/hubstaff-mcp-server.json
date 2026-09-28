@@ -1,0 +1,7 @@
+{
+  "name": "hubstaff-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for Hubstaff API integration, enabling seamless time tracking, project management, and team collaboration through AI assistants.",
+  "source_repo": "cdmx-in/hubstaff-mcp",
+  "source_url": "https://github.com/cdmx-in/hubstaff-mcp",
+  "install": "npx -y hubstaff-mcp"
+}

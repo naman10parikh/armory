@@ -1,0 +1,7 @@
+{
+  "name": "zebbern-kali-mcp",
+  "description": "A Docker-based MCP server that grants AI agents direct access to a comprehensive Kali Linux penetration testing toolkit through an isolated container environment.",
+  "source_repo": "zebbern/zebbern-kali-mcp",
+  "source_url": "https://github.com/zebbern/zebbern-kali-mcp",
+  "install": "npx -y zebbern-kali-mcp"
+}

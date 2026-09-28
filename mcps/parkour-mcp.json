@@ -1,0 +1,7 @@
+{
+  "name": "parkour-mcp",
+  "description": "A content exploration MCP server that helps LLMs surface high-signal, unsummarized web content through clean APIs and Markdown conversion, with intelligent frontmatter steering and citation tracking.",
+  "source_repo": "blightbow/parkour-mcp",
+  "source_url": "https://github.com/blightbow/parkour-mcp",
+  "install": "npx -y parkour-mcp"
+}

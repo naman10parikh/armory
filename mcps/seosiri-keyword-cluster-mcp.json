@@ -1,0 +1,7 @@
+{
+  "name": "seosiri-keyword-cluster-mcp",
+  "description": "Enables semantic keyword clustering, search intent classification, cannibalization detection, and topical authority mapping for SEO workflows.",
+  "source_repo": "SEOSiri-Official/keyword-cluster-mcp",
+  "source_url": "https://github.com/SEOSiri-Official/keyword-cluster-mcp",
+  "install": "npx -y keyword-cluster-mcp"
+}

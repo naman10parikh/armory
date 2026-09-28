@@ -1,0 +1,7 @@
+{
+  "name": "mpulse-mcp",
+  "description": "MCP server wrapping the Akamai mPulse Query API v2 to fetch RUM aggregate data (summaries, histograms, per-minute time series) with loss-free numbers for downstream statistical analysis.",
+  "source_repo": "hyoon2007/mpulse-mcp",
+  "source_url": "https://github.com/hyoon2007/mpulse-mcp",
+  "install": "npx -y mpulse-mcp"
+}

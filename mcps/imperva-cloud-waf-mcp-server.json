@@ -1,0 +1,7 @@
+{
+  "name": "imperva-cloud-waf-mcp-server",
+  "description": "Enables AI assistants to query and analyze Imperva Cloud WAF configurations through natural language, supporting retrieval of sites, domains, policies, and rules.",
+  "source_repo": "ThalesGroup/imperva-cloud-WAF-MCP-server",
+  "source_url": "https://github.com/ThalesGroup/imperva-cloud-WAF-MCP-server",
+  "install": "npx -y imperva-cloud-WAF-MCP-server"
+}

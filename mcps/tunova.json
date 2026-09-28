@@ -1,0 +1,7 @@
+{
+  "name": "tunova",
+  "description": "Generate music with Suno (v5.5) from any MCP client — async, and billed only on successful renders (a failed render auto-refunds). Hosted Streamable-HTTP server; tools generate_song / wait_for_song / check_song.",
+  "source_repo": "erliona/tunova-sdk",
+  "source_url": "https://github.com/erliona/tunova-sdk",
+  "install": "# git clone --depth 1 https://github.com/erliona/tunova-sdk\n# See source for mcpServers config block"
+}

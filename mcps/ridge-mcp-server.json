@@ -1,0 +1,7 @@
+{
+  "name": "ridge-mcp-server",
+  "description": "Enables ridge-based accounting anomaly analysis in Claude Desktop, allowing users to detect and prioritize anomalies in financial data using Ridge regression via natural language.",
+  "source_repo": "likerberi/ridge_exam_mcp",
+  "source_url": "https://github.com/likerberi/ridge_exam_mcp",
+  "install": "npx -y ridge_exam_mcp"
+}

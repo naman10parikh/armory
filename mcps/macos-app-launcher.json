@@ -1,0 +1,7 @@
+{
+  "name": "macos-app-launcher",
+  "description": "A fast MCP server for opening, focusing, and quitting macOS apps, and opening URLs in the browser, usable by voice or from any MCP client.",
+  "source_repo": "gabeperez/macos-app-launcher",
+  "source_url": "https://github.com/gabeperez/macos-app-launcher",
+  "install": "# git clone --depth 1 https://github.com/gabeperez/macos-app-launcher\n# See source for mcpServers config block"
+}

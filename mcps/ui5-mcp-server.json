@@ -1,0 +1,7 @@
+{
+  "name": "ui5-mcp-server",
+  "description": "Enables AI agents to assist with UI5 application development by providing tools for project scaffolding, API reference lookup, code analysis, and validation.",
+  "source_repo": "UI5/mcp-server",
+  "source_url": "https://github.com/UI5/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/UI5/mcp-server\n# See source for mcpServers config block"
+}

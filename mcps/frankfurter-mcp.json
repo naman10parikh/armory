@@ -1,0 +1,7 @@
+{
+  "name": "frankfurter-mcp",
+  "description": "MCP server for the Frankfurter exchange-rate API, enabling currency conversion and rate queries.",
+  "source_repo": "lineofflight/frankfurter-mcp",
+  "source_url": "https://github.com/lineofflight/frankfurter-mcp",
+  "install": "npx -y frankfurter-mcp"
+}

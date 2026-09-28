@@ -1,0 +1,7 @@
+{
+  "name": "rusyasearch",
+  "description": "Enables AI agents to perform stealth web searches, browse pages with anti-bot bypass, and extract clean Markdown content, supporting direct image URLs and deep research.",
+  "source_repo": "andylopeslindao-art/RusyaSearch",
+  "source_url": "https://github.com/andylopeslindao-art/RusyaSearch",
+  "install": "# git clone --depth 1 https://github.com/andylopeslindao-art/RusyaSearch\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "workplace-program-detector-mcp-server",
+  "description": "MCP server that wraps the Apify Workplace Program Detector actor, taking a company domain and returning the employee programs it publishes, such as ERGs, DEI, wellbeing, parental leave, and volunteering.",
+  "source_repo": "mambalabsdev/mcp-workplace-program-detector",
+  "source_url": "https://github.com/mambalabsdev/mcp-workplace-program-detector",
+  "install": "# git clone --depth 1 https://github.com/mambalabsdev/mcp-workplace-program-detector\n# See source for mcpServers config block"
+}

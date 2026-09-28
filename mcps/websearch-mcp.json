@@ -1,0 +1,7 @@
+{
+  "name": "websearch-mcp",
+  "description": "A self-hosted MCP server that gives AI agents deep internet research capabilities — no API keys required, powered by SearxNG, Playwright, and Docker.",
+  "source_repo": "gawirable/websearch-mcp",
+  "source_url": "https://github.com/gawirable/websearch-mcp",
+  "install": "npx -y websearch-mcp"
+}

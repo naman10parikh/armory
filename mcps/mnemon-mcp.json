@@ -1,0 +1,7 @@
+{
+  "name": "mnemon-mcp",
+  "description": "A local-first MCP server providing persistent, layered memory (episodic, semantic, procedural, resource) for AI agents, with search, versioning, and session management via a single SQLite file.",
+  "source_repo": "nikitacometa/mnemon-memory-mcp",
+  "source_url": "https://github.com/nikitacometa/mnemon-memory-mcp",
+  "install": "npx -y mnemon-memory-mcp"
+}

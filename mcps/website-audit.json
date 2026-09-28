@@ -1,0 +1,7 @@
+{
+  "name": "website-audit",
+  "description": "Enables auditing any public website, returning a scored plain-English report that flags issues costing customers, covering speed, phone experience, search visibility, contact options, writing quality, and modernity.",
+  "source_repo": "rolledoatmeals/website-audit-mcp",
+  "source_url": "https://github.com/rolledoatmeals/website-audit-mcp",
+  "install": "npx -y website-audit-mcp"
+}

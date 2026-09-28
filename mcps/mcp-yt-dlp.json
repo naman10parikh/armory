@@ -1,0 +1,7 @@
+{
+  "name": "mcp-yt-dlp",
+  "description": "MCP server wrapping yt-dlp for downloading videos and audio from URLs, providing tools to check dependencies, retrieve video metadata, and perform downloads.",
+  "source_repo": "pauloFroes/mcp-yt-dlp",
+  "source_url": "https://github.com/pauloFroes/mcp-yt-dlp",
+  "install": "# git clone --depth 1 https://github.com/pauloFroes/mcp-yt-dlp\n# See source for mcpServers config block"
+}

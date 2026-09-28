@@ -1,0 +1,7 @@
+{
+  "name": "douyin-upload-mcp-skill",
+  "description": "Automates video and image-text publishing on Douyin's creator platform using Chrome DevTools Protocol, exposed as MCP tools.",
+  "source_repo": "WJZ-P/douyin-upload-mcp-skill",
+  "source_url": "https://github.com/WJZ-P/douyin-upload-mcp-skill",
+  "install": "# git clone --depth 1 https://github.com/WJZ-P/douyin-upload-mcp-skill\n# See source for mcpServers config block"
+}

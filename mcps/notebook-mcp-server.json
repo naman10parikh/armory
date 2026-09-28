@@ -1,0 +1,7 @@
+{
+  "name": "notebook-mcp-server",
+  "description": "Enables to create notebooks and notes with tags, and perform full-text search across notes using FTS5 syntax, all stored locally in SQLite.",
+  "source_repo": "lucidbard/notebook-mcp-server",
+  "source_url": "https://github.com/lucidbard/notebook-mcp-server",
+  "install": "npx -y notebook-mcp-server"
+}

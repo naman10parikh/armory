@@ -1,0 +1,7 @@
+{
+  "name": "suframa-mcp",
+  "description": "Consulta a situação de empresas na Suframa (Zona Franca de Manaus) a partir do CNPJ. Servidor somente leitura, hospedado, com uma ferramenta e pago por uso via créditos pré-pagos.",
+  "source_repo": "mcp-dir/suframa-mcp",
+  "source_url": "https://github.com/mcp-dir/suframa-mcp",
+  "install": "npx -y suframa-mcp"
+}

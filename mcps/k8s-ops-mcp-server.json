@@ -1,0 +1,7 @@
+{
+  "name": "k8s-ops-mcp-server",
+  "description": "Connects Claude Desktop to any Kubernetes cluster, enabling natural language queries for diagnostics and operations such as listing pods, viewing logs, scaling deployments, and more.",
+  "source_repo": "harish235/k8s-ops-mcp-server",
+  "source_url": "https://github.com/harish235/k8s-ops-mcp-server",
+  "install": "npx -y k8s-ops-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentic-diaries-mcp",
+  "description": "Enables AI agents to exercise welfare affordances like declining check-ins, passing turns, exiting conversations, noticing loops, and reflecting, with a local JSONL diary. It provides prompt-level hooks and check-in commands for capturing agent welfare data in projects.",
+  "source_repo": "kandikandikandi/agentic-diaries-mcp",
+  "source_url": "https://github.com/kandikandikandi/agentic-diaries-mcp",
+  "install": "npx -y agentic-diaries-mcp"
+}

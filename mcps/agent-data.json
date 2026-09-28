@@ -1,0 +1,7 @@
+{
+  "name": "agent-data",
+  "description": "Get programmatic access to 170,000+ verified B2B companies in Spain. Featuring a highly-curated premium subset of 26,000+ CEO direct dials and mobile phones. Bypassing legacy corporate gatekeepers has never been cheaper.",
+  "source_repo": "enrique-z/agentdata-mcp-server",
+  "source_url": "https://github.com/enrique-z/agentdata-mcp-server",
+  "install": "npx -y agentdata-mcp-server"
+}

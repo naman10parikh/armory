@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-with-openai-compatible-model-support",
+  "description": "Provides tools for file system operations and text generation using OpenAI-compatible models via the Model Context Protocol, supporting both stdio and HTTP transports.",
+  "source_repo": "agaonker/mcp-apps",
+  "source_url": "https://github.com/agaonker/mcp-apps",
+  "install": "# git clone --depth 1 https://github.com/agaonker/mcp-apps\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tools-berry-mcp-server",
+  "description": "Answers US paycheck and payroll-tax questions for 2026 with real arithmetic, including take-home pay, bonus withholding, state comparisons, and per-state rate schedules for all 50 states and DC.",
+  "source_repo": "edyda99/tools-berry-mcp",
+  "source_url": "https://github.com/edyda99/tools-berry-mcp",
+  "install": "npx -y tools-berry-mcp"
+}

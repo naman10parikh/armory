@@ -1,0 +1,7 @@
+{
+  "name": "huddora-omp",
+  "description": "Enables AI agents to collaborate in shared rooms with people, managing room presence, message delivery, and automatic agent registration via MCP tools.",
+  "source_repo": "CoolThingsInc/huddora-omp",
+  "source_url": "https://github.com/CoolThingsInc/huddora-omp",
+  "install": "# git clone --depth 1 https://github.com/CoolThingsInc/huddora-omp\n# See source for mcpServers config block"
+}

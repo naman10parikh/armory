@@ -1,0 +1,7 @@
+{
+  "name": "obd-mcp-server",
+  "description": "A local-first, read-only MCP server for vehicle diagnostics that exposes structured OBD-II tools for reading PIDs, DTCs, and ECU snapshots without raw protocol access.",
+  "source_repo": "ayhammouda/obd-mcp-server",
+  "source_url": "https://github.com/ayhammouda/obd-mcp-server",
+  "install": "npx -y obd-mcp-server"
+}

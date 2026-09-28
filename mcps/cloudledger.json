@@ -1,0 +1,7 @@
+{
+  "name": "cloudledger",
+  "description": "Enables natural language queries across AWS multi-account security scan history, including infrastructure configurations, public exposures, and organizational relationships.",
+  "source_repo": "Cognisn/cloudledger",
+  "source_url": "https://github.com/Cognisn/cloudledger",
+  "install": "# git clone --depth 1 https://github.com/Cognisn/cloudledger\n# See source for mcpServers config block"
+}

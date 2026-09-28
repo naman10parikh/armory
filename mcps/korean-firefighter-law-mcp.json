@@ -1,0 +1,7 @@
+{
+  "name": "korean-firefighter-law-mcp",
+  "description": "MCP server for querying Korean firefighter public data and fire-related laws/precedents. Provides tools to search fire/EMS statistics, fire facility information, and legal texts.",
+  "source_repo": "ssd7830-cmyk/korean-firefighter-law-mcp",
+  "source_url": "https://github.com/ssd7830-cmyk/korean-firefighter-law-mcp",
+  "install": "npx -y korean-firefighter-law-mcp"
+}

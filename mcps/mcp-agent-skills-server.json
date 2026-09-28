@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent-skills-server",
+  "description": "A production-ready MCP server that equips AI agents with dynamic, persistent, and executable skills. It enables secure script execution and progressive disclosure to reduce context window usage.",
+  "source_repo": "aasm3535/skills-mcp-server",
+  "source_url": "https://github.com/aasm3535/skills-mcp-server",
+  "install": "npx -y skills-mcp-server"
+}

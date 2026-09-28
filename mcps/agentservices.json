@@ -1,0 +1,7 @@
+{
+  "name": "agentservices",
+  "description": "MCP server providing 50+ crypto, market intelligence, and AI inference endpoints with x402 pay-per-request micropayments on Base.",
+  "source_repo": "vbkotecha/agentservices-api",
+  "source_url": "https://github.com/vbkotecha/agentservices-api",
+  "install": "# git clone --depth 1 https://github.com/vbkotecha/agentservices-api\n# See source for mcpServers config block"
+}

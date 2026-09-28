@@ -1,0 +1,7 @@
+{
+  "name": "aml-v-nculos-societ-rios",
+  "description": "Maps corporate affiliations of a Brazilian individual from CPF for anti-money laundering (AML) due diligence. Read-only hosted MCP server with one tool, works with any MCP-compatible client.",
+  "source_repo": "mcp-dir/aml_vinculos-mcp",
+  "source_url": "https://github.com/mcp-dir/aml_vinculos-mcp",
+  "install": "npx -y aml_vinculos-mcp"
+}

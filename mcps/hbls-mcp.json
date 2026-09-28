@@ -1,0 +1,7 @@
+{
+  "name": "hbls-mcp",
+  "description": "MCP server providing full-text search and structured access to the Historisches Biographisches Lexikon der Schweiz, including biographies, articles, and volume listings.",
+  "source_repo": "thodel/hbls_mcp",
+  "source_url": "https://github.com/thodel/hbls_mcp",
+  "install": "npx -y hbls_mcp"
+}

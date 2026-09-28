@@ -1,0 +1,7 @@
+{
+  "name": "fabriciq-mcp-server",
+  "description": "This server exposes a Microsoft Fabric Data Agent as a native MCP tool, allowing clients to query the agent for KPIs, financial data, and other quantified project intelligence via natural language.",
+  "source_repo": "MSFT-Innovation-Hub-India/fabriciq-mcp-stdio",
+  "source_url": "https://github.com/MSFT-Innovation-Hub-India/fabriciq-mcp-stdio",
+  "install": "# git clone --depth 1 https://github.com/MSFT-Innovation-Hub-India/fabriciq-mcp-stdio\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ilinxa-capture",
+  "description": "Enables AI agents to extract video frames at configurable FPS and compose them into grid sheets for multimodal LLMs, with support for video download, HLS streams, and job management via MCP tools.",
+  "source_repo": "ilinxa/ilinxa-capture",
+  "source_url": "https://github.com/ilinxa/ilinxa-capture",
+  "install": "# git clone --depth 1 https://github.com/ilinxa/ilinxa-capture\n# See source for mcpServers config block"
+}

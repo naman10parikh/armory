@@ -1,0 +1,7 @@
+{
+  "name": "learndeck",
+  "description": "Enables AI-assisted learning through structured courses with Socratic guidance, evaluating user answers against rubrics and managing learning progress locally.",
+  "source_repo": "learn-deck/learndeck",
+  "source_url": "https://github.com/learn-deck/learndeck",
+  "install": "# git clone --depth 1 https://github.com/learn-deck/learndeck\n# See source for mcpServers config block"
+}

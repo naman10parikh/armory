@@ -1,0 +1,7 @@
+{
+  "name": "baomihua-formatter",
+  "description": "A Node.js MCP server for inspecting and operating on media files in OpenList and CloudDrive2, plus querying TMDB movie and TV metadata.",
+  "source_repo": "willTerner/baomihua-formatter-mcp",
+  "source_url": "https://github.com/willTerner/baomihua-formatter-mcp",
+  "install": "npx -y baomihua-formatter-mcp"
+}

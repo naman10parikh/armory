@@ -1,0 +1,7 @@
+{
+  "name": "foreman-mcp-py",
+  "description": "MCP server to interact with Foreman (Red Hat Satellite) instances, enabling management of hosts, provisioning, and configuration via natural language.",
+  "source_repo": "adamruzicka/foreman-mcp",
+  "source_url": "https://github.com/adamruzicka/foreman-mcp",
+  "install": "npx -y foreman-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unsw-mcp",
+  "description": "MCP server for UNSW students to read Moodle, Ed, and official course outlines, including courses, assignments, grades, forums, and AI use policies, with some write capabilities.",
+  "source_repo": "r1ckyIn/unsw-mcp",
+  "source_url": "https://github.com/r1ckyIn/unsw-mcp",
+  "install": "npx -y unsw-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jedsearch-mcp-server",
+  "description": "Enables web search and page content extraction with JavaScript rendering via Playwright, with HTTP fallback and retry logic.",
+  "source_repo": "Jedius/jed-web-search-mcp-server",
+  "source_url": "https://github.com/Jedius/jed-web-search-mcp-server",
+  "install": "npx -y jed-web-search-mcp-server"
+}

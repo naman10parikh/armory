@@ -1,0 +1,7 @@
+{
+  "name": "customer-replies-mcp-server",
+  "description": "MCP server for managing and composing customer replies for a phone and computer repair shop, with built-in templates and WhatsApp link generation. Supports Arabic and English.",
+  "source_repo": "alsaltitop/customer-replies-mcp-server",
+  "source_url": "https://github.com/alsaltitop/customer-replies-mcp-server",
+  "install": "npx -y customer-replies-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rockin-worker",
+  "description": "MCP server that exposes tools to search and list GitHub repositories synced to SQLite, enabling natural language queries for top repos by stars or by name.",
+  "source_repo": "BryantJavaInt/rockin-worker",
+  "source_url": "https://github.com/BryantJavaInt/rockin-worker",
+  "install": "# git clone --depth 1 https://github.com/BryantJavaInt/rockin-worker\n# See source for mcpServers config block"
+}

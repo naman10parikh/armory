@@ -1,0 +1,7 @@
+{
+  "name": "kiro-recall",
+  "description": "A local MCP memory server for Kiro CLI that provides persistent semantic memory across sessions using SQLite for storage, Ollama for local vector embeddings, and Obsidian as a human-readable sync target.",
+  "source_repo": "fredluckham/kiro-recall",
+  "source_url": "https://github.com/fredluckham/kiro-recall",
+  "install": "# git clone --depth 1 https://github.com/fredluckham/kiro-recall\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "daylens-mcp",
+  "description": "Connects AI assistants like Cursor and Claude to your local Daylens timeline so they can answer questions about your past work sessions, no cloud or API keys needed.",
+  "source_repo": "irachrist1/daylens-mcp",
+  "source_url": "https://github.com/irachrist1/daylens-mcp",
+  "install": "npx -y daylens-mcp"
+}

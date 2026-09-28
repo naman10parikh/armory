@@ -1,0 +1,7 @@
+{
+  "name": "com-blackswancausallabs-openfda-mcp",
+  "description": "Enables querying FDA regulatory metadata for drugs, biologics, and medical devices through the openFDA API, including resolving application numbers and product names to authoritative regulatory details.",
+  "source_repo": "Black-Swan-Causal-Labs/openfda-mcp",
+  "source_url": "https://github.com/Black-Swan-Causal-Labs/openfda-mcp",
+  "install": "npx -y openfda-mcp"
+}

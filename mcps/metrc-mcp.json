@@ -1,0 +1,7 @@
+{
+  "name": "metrc-mcp",
+  "description": "MCP server for METRC cannabis track-and-trace API, focused on processor workflows like inventory checks, transfer reconciliation, and lab results, with read-only safety defaults.",
+  "source_repo": "AM253906/metrc-mcp",
+  "source_url": "https://github.com/AM253906/metrc-mcp",
+  "install": "npx -y metrc-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "circuit-recognition",
+  "description": "MCP server for intelligent circuit diagram recognition, enabling detection of components, text, topology, and netlist from circuit images.",
+  "source_repo": "HR-DONK/circuit-recognition",
+  "source_url": "https://github.com/HR-DONK/circuit-recognition",
+  "install": "# git clone --depth 1 https://github.com/HR-DONK/circuit-recognition\n# See source for mcpServers config block"
+}

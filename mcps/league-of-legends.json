@@ -1,0 +1,7 @@
+{
+  "name": "league-of-legends",
+  "description": "Provides real-time access to League of Legends esports data including live matches, schedules, leagues, event details, and VODs through a standardized interface.",
+  "source_repo": "andraderaul/mcp-server-lol",
+  "source_url": "https://github.com/andraderaul/mcp-server-lol",
+  "install": "# git clone --depth 1 https://github.com/andraderaul/mcp-server-lol\n# See source for mcpServers config block"
+}

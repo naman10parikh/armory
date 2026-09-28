@@ -1,0 +1,7 @@
+{
+  "name": "db-tools-mcp",
+  "description": "Exposes SQL Server and Snowflake schema metadata to AI coding agents, enabling schema search, join path discovery, and stored procedure metadata retrieval without live queries.",
+  "source_repo": "urjeetpatel/db-tools-mcp",
+  "source_url": "https://github.com/urjeetpatel/db-tools-mcp",
+  "install": "npx -y db-tools-mcp"
+}

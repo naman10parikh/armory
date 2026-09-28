@@ -1,0 +1,7 @@
+{
+  "name": "sntl-depin-oracle-mcp",
+  "description": "Enables access to DePIN RF telemetry, spatial heuristics, and threat intelligence through metered MCP tools with per-record spend caps and on-chain settlement.",
+  "source_repo": "substreambc/sntl-mcp",
+  "source_url": "https://github.com/substreambc/sntl-mcp",
+  "install": "npx -y sntl-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-agent-loop-mcp-server",
+  "description": "An AI debugging agent MCP server that enables autonomous plan-act-observe debugging workflows, allowing repository exploration, code inspection, human-approved edits, and test execution through structured MCP tools.",
+  "source_repo": "HarshPariya/Task-3-ai-agent-loop-mcp",
+  "source_url": "https://github.com/HarshPariya/Task-3-ai-agent-loop-mcp",
+  "install": "npx -y Task-3-ai-agent-loop-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eightyandsunny",
+  "description": "A weather-reactive MCP server that renders rich Open-Meteo weather widgets and provides plain JSON weather data, all without an API key.",
+  "source_repo": "omeirhaeghe/EightyAndSunny",
+  "source_url": "https://github.com/omeirhaeghe/EightyAndSunny",
+  "install": "# git clone --depth 1 https://github.com/omeirhaeghe/EightyAndSunny\n# See source for mcpServers config block"
+}

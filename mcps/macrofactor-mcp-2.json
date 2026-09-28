@@ -1,0 +1,7 @@
+{
+  "name": "macrofactor-mcp-2",
+  "description": "MacroFactor MCP is a local Fueling & Recovery Decision Engine. Give your MCP client a MacroFactor export, optionally add Garmin, and ask for a decision instead of manually comparing nutrition, sleep, body, and training screens.",
+  "source_repo": "NasserAlbusaidi/macrofactor-mcp",
+  "source_url": "https://github.com/NasserAlbusaidi/macrofactor-mcp",
+  "install": "npx -y macrofactor-mcp"
+}

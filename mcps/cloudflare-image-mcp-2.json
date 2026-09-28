@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-image-mcp-2",
+  "description": "An MCP server for image generation and editing using Cloudflare Workers AI, providing OpenAI-compatible APIs and support for multiple models.",
+  "source_repo": "StrawberCar/cloudflare-image-mcp",
+  "source_url": "https://github.com/StrawberCar/cloudflare-image-mcp",
+  "install": "npx -y cloudflare-image-mcp"
+}

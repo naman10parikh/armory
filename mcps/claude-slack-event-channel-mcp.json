@@ -1,0 +1,7 @@
+{
+  "name": "claude-slack-event-channel-mcp",
+  "description": "A one-way MCP channel that forwards Slack events (messages and reactions) into a Claude Code session, enabling Claude to react to Slack activity without leaving the terminal.",
+  "source_repo": "inlineapps/claude-slack-event-channel-mcp",
+  "source_url": "https://github.com/inlineapps/claude-slack-event-channel-mcp",
+  "install": "npx -y claude-slack-event-channel-mcp"
+}

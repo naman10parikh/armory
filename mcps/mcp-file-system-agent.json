@@ -1,0 +1,7 @@
+{
+  "name": "mcp-file-system-agent",
+  "description": "An agentic file-system assistant that lets users read, write, list, and search local files through natural language, using a LangChain agent with an Ollama LLM backed by a FastMCP server.",
+  "source_repo": "jibixn/File-System-Tools-MCP",
+  "source_url": "https://github.com/jibixn/File-System-Tools-MCP",
+  "install": "npx -y File-System-Tools-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "technical-seo-mcp",
+  "description": "An MCP server that audits websites for technical and on-page SEO, enabling users to ask why a page isn't ranking and receive specific, actionable answers.",
+  "source_repo": "sourav2024/seo-mcp",
+  "source_url": "https://github.com/sourav2024/seo-mcp",
+  "install": "npx -y seo-mcp"
+}

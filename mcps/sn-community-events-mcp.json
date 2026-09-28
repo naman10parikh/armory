@@ -1,0 +1,7 @@
+{
+  "name": "sn-community-events-mcp",
+  "description": "MCP server that fetches ServiceNow Community events for a date range and returns them as structured data, optionally writing a CSV. No login or credentials required.",
+  "source_repo": "jon-lind-sn/sn-community-events-mcp",
+  "source_url": "https://github.com/jon-lind-sn/sn-community-events-mcp",
+  "install": "npx -y sn-community-events-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pyhood-mcp",
+  "description": "Connect your Robinhood account to Claude Code (or any MCP client) for conversational portfolio management and automated trading.",
+  "source_repo": "bakernyc/pyhood-mcp",
+  "source_url": "https://github.com/bakernyc/pyhood-mcp",
+  "install": "npx -y pyhood-mcp"
+}

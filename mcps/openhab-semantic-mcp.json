@@ -1,0 +1,7 @@
+{
+  "name": "openhab-semantic-mcp",
+  "description": "Enables semantic control and monitoring of openHAB smart home items through natural language, supporting commands, queries, and time-based monitoring tasks.",
+  "source_repo": "DrRSatzteil/openhab-semantic-mcp",
+  "source_url": "https://github.com/DrRSatzteil/openhab-semantic-mcp",
+  "install": "npx -y openhab-semantic-mcp"
+}

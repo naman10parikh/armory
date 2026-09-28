@@ -1,0 +1,7 @@
+{
+  "name": "specflow-mcp-server",
+  "description": "Provides an AI-driven four-stage software development workflow with role management, enabling structured requirements analysis, design, implementation, and testing.",
+  "source_repo": "lyz530/specflow-mcp-server",
+  "source_url": "https://github.com/lyz530/specflow-mcp-server",
+  "install": "npx -y specflow-mcp-server"
+}

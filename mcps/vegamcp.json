@@ -1,0 +1,7 @@
+{
+  "name": "vegamcp",
+  "description": "A production-grade MCP server providing an autonomous AI agent swarm, persistent semantic memory, browser automation, multi-model reasoning, and 78+ tools for AI-first testing and development.",
+  "source_repo": "Pastarafian/VegaMCP",
+  "source_url": "https://github.com/Pastarafian/VegaMCP",
+  "install": "# git clone --depth 1 https://github.com/Pastarafian/VegaMCP\n# See source for mcpServers config block"
+}

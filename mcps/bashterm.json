@@ -1,0 +1,7 @@
+{
+  "name": "bashterm",
+  "description": "Enables executing commands in visible VSCode terminal tabs with full output capture, supporting long-running processes, interactive input, and isolated sessions for parallel agents.",
+  "source_repo": "sirlordt/vscode-terminal-mcp",
+  "source_url": "https://github.com/sirlordt/vscode-terminal-mcp",
+  "install": "npx -y vscode-terminal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "forge-geoapify-mcp-server",
+  "description": "Remote MCP server for business lead discovery via Geoapify, exposing search_businesses and get_business_details tools with deduplication, pagination, and secure API key handling.",
+  "source_repo": "Mujtaba19938/Forgesystems-mcp",
+  "source_url": "https://github.com/Mujtaba19938/Forgesystems-mcp",
+  "install": "npx -y Forgesystems-mcp"
+}

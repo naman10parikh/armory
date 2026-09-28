@@ -1,0 +1,7 @@
+{
+  "name": "analyze",
+  "description": "Let me evaluate the README content.",
+  "source_repo": "zc4578980-tech/local-gpu-imagegen",
+  "source_url": "https://github.com/zc4578980-tech/local-gpu-imagegen",
+  "install": "# git clone --depth 1 https://github.com/zc4578980-tech/local-gpu-imagegen\n# See source for mcpServers config block"
+}

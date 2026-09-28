@@ -1,0 +1,7 @@
+{
+  "name": "domain-intel-mcp",
+  "description": "Domain and company intelligence for AI agents. Enables vetting companies, qualifying leads, and mapping targets from free public data without API keys.",
+  "source_repo": "datakoot/domain-intel-mcp",
+  "source_url": "https://github.com/datakoot/domain-intel-mcp",
+  "install": "npx -y domain-intel-mcp"
+}

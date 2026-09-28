@@ -1,0 +1,7 @@
+{
+  "name": "olist-erp-mcp-server",
+  "description": "Enables AI agents to interact with the Olist ERP (Tiny) API v3, providing 168 tools for managing products, orders, contacts, invoices, and more.",
+  "source_repo": "opastorello/olist-mcp-server",
+  "source_url": "https://github.com/opastorello/olist-mcp-server",
+  "install": "npx -y olist-mcp-server"
+}

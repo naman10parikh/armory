@@ -1,0 +1,7 @@
+{
+  "name": "agent-kb",
+  "description": "A local-first knowledge base for LLM coding agents that indexes repository documentation, concept ontology, and build targets into Qdrant and exposes retrieval as MCP tools (search, get, list sources, reindex).",
+  "source_repo": "zmij/agent-kb",
+  "source_url": "https://github.com/zmij/agent-kb",
+  "install": "# git clone --depth 1 https://github.com/zmij/agent-kb\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tero-mcp-lite",
+  "description": "A lightweight MCP server that enables querying a project's corpus (docs, decisions, issues, skills) with cited answers and typed refusals via stdio JSON-RPC 2.0.",
+  "source_repo": "tzervas/tero-mcp",
+  "source_url": "https://github.com/tzervas/tero-mcp",
+  "install": "npx -y tero-mcp"
+}

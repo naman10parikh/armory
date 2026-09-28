@@ -1,0 +1,7 @@
+{
+  "name": "heartbeat-mcpl",
+  "description": "Periodically sends heartbeat events to wake Connectome agents for self-check-in, with configurable interval and management tools.",
+  "source_repo": "anima-research/heartbeat-mcpl",
+  "source_url": "https://github.com/anima-research/heartbeat-mcpl",
+  "install": "# git clone --depth 1 https://github.com/anima-research/heartbeat-mcpl\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "waveq",
+  "description": "Local MCP server for querying VCD waveform files via SQLite; enables AI agents to ask precise questions about signal values, transitions, and clock cycles without dumping raw VCD text.",
+  "source_repo": "IshaanDugar/waveq",
+  "source_url": "https://github.com/IshaanDugar/waveq",
+  "install": "# git clone --depth 1 https://github.com/IshaanDugar/waveq\n# See source for mcpServers config block"
+}

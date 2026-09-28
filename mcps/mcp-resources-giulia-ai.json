@@ -1,0 +1,7 @@
+{
+  "name": "mcp-resources-giulia-ai",
+  "description": "MCP server that demonstrates the Resources feature by exposing static and dynamic resources, including contact data and personalized greetings, through MCP.",
+  "source_repo": "wganalytics/mcp-resources-giulia-ai",
+  "source_url": "https://github.com/wganalytics/mcp-resources-giulia-ai",
+  "install": "# git clone --depth 1 https://github.com/wganalytics/mcp-resources-giulia-ai\n# See source for mcpServers config block"
+}

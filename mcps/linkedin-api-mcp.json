@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-api-mcp",
+  "description": "Provides LinkedIn automation via a real browser session using your own cookie, enabling profile, company, job, and post search and reading, plus sending messages and connection requests with rate limiting.",
+  "source_repo": "JohannsenLum/linkedin-api-mcp",
+  "source_url": "https://github.com/JohannsenLum/linkedin-api-mcp",
+  "install": "npx -y linkedin-api-mcp"
+}

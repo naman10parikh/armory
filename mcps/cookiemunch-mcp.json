@@ -1,0 +1,7 @@
+{
+  "name": "cookiemunch-mcp",
+  "description": "Exposes the Cookie Munch Developer API as MCP tools, enabling AI assistants to manage sites, read consent analytics, and drive privacy operations.",
+  "source_repo": "Cookie-Munch/mcp",
+  "source_url": "https://github.com/Cookie-Munch/mcp",
+  "install": "# git clone --depth 1 https://github.com/Cookie-Munch/mcp\n# See source for mcpServers config block"
+}

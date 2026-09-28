@@ -1,0 +1,7 @@
+{
+  "name": "feishu-memory-mcp",
+  "description": "Enables AI agents to use Feishu (Lark) spreadsheets as long-term memory and personal knowledge base with retrieval-augmented generation (RAG) via the Model Context Protocol.",
+  "source_repo": "junqiu520/feishu-memory-mcp",
+  "source_url": "https://github.com/junqiu520/feishu-memory-mcp",
+  "install": "npx -y feishu-memory-mcp"
+}

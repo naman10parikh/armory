@@ -1,0 +1,7 @@
+{
+  "name": "moltbrowser-mcp-server",
+  "description": "Enables AI agents to share and use community-contributed browser configs, dynamically providing pre-configured tools for specific websites to reduce token waste and improve navigation efficiency.",
+  "source_repo": "Joakim-Sael/moltbrowser",
+  "source_url": "https://github.com/Joakim-Sael/moltbrowser",
+  "install": "# git clone --depth 1 https://github.com/Joakim-Sael/moltbrowser\n# See source for mcpServers config block"
+}

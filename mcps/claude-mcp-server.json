@@ -1,0 +1,7 @@
+{
+  "name": "claude-mcp-server",
+  "description": "Exposes Anthropic's Claude as 3 MCP tools (ask_claude, claude_analyze, claude_write) that Manus can call for general prompting, structured analysis, and content generation.",
+  "source_repo": "Toconnell1976/claude-mcp-server",
+  "source_url": "https://github.com/Toconnell1976/claude-mcp-server",
+  "install": "npx -y claude-mcp-server"
+}

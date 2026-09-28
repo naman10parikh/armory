@@ -1,0 +1,7 @@
+{
+  "name": "unwritten",
+  "description": "MCP server that checks AI agent edits for missing companion files by learning co-change patterns from git history, preventing incomplete commits.",
+  "source_repo": "Byggarepop/Unwritten",
+  "source_url": "https://github.com/Byggarepop/Unwritten",
+  "install": "# git clone --depth 1 https://github.com/Byggarepop/Unwritten\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "massdriver-mcp-server",
+  "description": "A Model Context Protocol server for Massdriver that enables AI assistants to manage infrastructure platform resources like projects, environments, deployments, policies, and more. It provides 106 tools and supports stdio or HTTP transports.",
+  "source_repo": "massdriver-cloud/mcp-server",
+  "source_url": "https://github.com/massdriver-cloud/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/massdriver-cloud/mcp-server\n# See source for mcpServers config block"
+}

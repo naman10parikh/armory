@@ -1,0 +1,7 @@
+{
+  "name": "claude-edgar-mcp",
+  "description": "Enables ticker-to-CIK resolution for SEC EDGAR, allowing users to query US stock tickers and retrieve their SEC Central Index Key.",
+  "source_repo": "mmouradbahri/claude-edgar-mcp",
+  "source_url": "https://github.com/mmouradbahri/claude-edgar-mcp",
+  "install": "npx -y claude-edgar-mcp"
+}

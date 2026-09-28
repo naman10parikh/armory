@@ -1,0 +1,7 @@
+{
+  "name": "basic-fns-mcp",
+  "description": "Provides core filesystem, shell, search, and listing tools with a path sandbox, supporting HTTP and stdio transports.",
+  "source_repo": "garland3/basic-fns-mcp",
+  "source_url": "https://github.com/garland3/basic-fns-mcp",
+  "install": "npx -y basic-fns-mcp"
+}

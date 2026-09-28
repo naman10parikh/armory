@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt15-ceat",
+  "description": "Read-only MCP server for consulting Certidão Eletrônica de Ações Trabalhistas (CEAT) from TRT15, providing official labor court certificate queries.",
+  "source_repo": "mcp-dir/tribunal_trt15_ceat-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt15_ceat-mcp",
+  "install": "npx -y tribunal_trt15_ceat-mcp"
+}

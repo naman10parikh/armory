@@ -1,0 +1,7 @@
+{
+  "name": "smartcli",
+  "description": "A local Python MCP server for driving, perceiving, and rendering terminal programs, using a pluggable PTY and pyte screen model to let AI agents interact with real TUIs.",
+  "source_repo": "dwgx/SmartCLI",
+  "source_url": "https://github.com/dwgx/SmartCLI",
+  "install": "# git clone --depth 1 https://github.com/dwgx/SmartCLI\n# See source for mcpServers config block"
+}

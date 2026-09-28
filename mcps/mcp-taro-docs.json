@@ -1,0 +1,7 @@
+{
+  "name": "mcp-taro-docs",
+  "description": "An MCP server that enables querying and fetching Taro official documentation pages via a two-step retrieval workflow using sitemap-based candidate search and full content extraction.",
+  "source_repo": "Tadarim/mcp-taro-docs",
+  "source_url": "https://github.com/Tadarim/mcp-taro-docs",
+  "install": "# git clone --depth 1 https://github.com/Tadarim/mcp-taro-docs\n# See source for mcpServers config block"
+}

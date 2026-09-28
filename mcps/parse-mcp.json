@@ -1,0 +1,7 @@
+{
+  "name": "parse-mcp",
+  "description": "An MCP server that converts files to Markdown using multiple parsing backends (markitdown, docling, LlamaParse) with automatic fallback, and includes tools for interpretation and chunking.",
+  "source_repo": "adelaidasofia/parse-mcp",
+  "source_url": "https://github.com/adelaidasofia/parse-mcp",
+  "install": "npx -y parse-mcp"
+}

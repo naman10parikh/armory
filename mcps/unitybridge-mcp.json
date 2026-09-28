@@ -1,0 +1,7 @@
+{
+  "name": "unitybridge-mcp",
+  "description": "Normalizes heterogeneous trade data (FIX, JSON, CSV) into a unified schema and exposes query tools via MCP for natural language access.",
+  "source_repo": "SamSon1402/unitybridge-mcp",
+  "source_url": "https://github.com/SamSon1402/unitybridge-mcp",
+  "install": "npx -y unitybridge-mcp"
+}

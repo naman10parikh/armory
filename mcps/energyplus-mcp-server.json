@@ -1,0 +1,7 @@
+{
+  "name": "energyplus-mcp-server",
+  "description": "Exposes EnergyPlus simulation control (run, parse metrics, edit schedules) as LLM tools for autonomous building energy optimization.",
+  "source_repo": "Akki-24/Autonomous-Building-Energy-Optimization-PoC-with-MCP-and-EnergyPlus",
+  "source_url": "https://github.com/Akki-24/Autonomous-Building-Energy-Optimization-PoC-with-MCP-and-EnergyPlus",
+  "install": "# git clone --depth 1 https://github.com/Akki-24/Autonomous-Building-Energy-Optimization-PoC-with-MCP-and-EnergyPlus\n# See source for mcpServers config block"
+}

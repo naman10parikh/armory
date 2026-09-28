@@ -1,0 +1,7 @@
+{
+  "name": "occulytics",
+  "description": "Enables AI assistants to answer healthcare REIT portfolio questions with deterministic, provable answers grounded in Omega Healthcare 10-K filings and CMS nursing home data, including status, caveats, and provenance.",
+  "source_repo": "siddak1234/occulytics-mcp",
+  "source_url": "https://github.com/siddak1234/occulytics-mcp",
+  "install": "npx -y occulytics-mcp"
+}

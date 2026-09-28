@@ -1,0 +1,7 @@
+{
+  "name": "open-legal-data-mcp-server",
+  "description": "Provides access to German court decisions and laws via MCP tools, enabling legal document search and retrieval.",
+  "source_repo": "canvena/oldp-mcp",
+  "source_url": "https://github.com/canvena/oldp-mcp",
+  "install": "npx -y oldp-mcp"
+}

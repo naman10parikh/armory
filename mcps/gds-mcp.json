@@ -1,0 +1,7 @@
+{
+  "name": "gds-mcp",
+  "description": "Exposes Levit design system (GDS) metadata to AI coding tools, enabling queries about color tokens and component usage via natural language.",
+  "source_repo": "supin-kim-ilevit-com/GDS-MCP",
+  "source_url": "https://github.com/supin-kim-ilevit-com/GDS-MCP",
+  "install": "npx -y GDS-MCP"
+}

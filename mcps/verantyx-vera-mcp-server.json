@@ -1,0 +1,7 @@
+{
+  "name": "verantyx-vera-mcp-server",
+  "description": "Provides LLM agents with hallucination-free external memory and knowledge tools, including ask, remember, forget, math, and code reasoning, with deterministic, traceable outputs.",
+  "source_repo": "Ag3497120/Verantyx-Vera-beta",
+  "source_url": "https://github.com/Ag3497120/Verantyx-Vera-beta",
+  "install": "# git clone --depth 1 https://github.com/Ag3497120/Verantyx-Vera-beta\n# See source for mcpServers config block"
+}

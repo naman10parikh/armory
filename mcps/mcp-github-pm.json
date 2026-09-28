@@ -1,0 +1,7 @@
+{
+  "name": "mcp-github-pm",
+  "description": "Enables GitHub project management from Claude, supporting issue creation, milestones, labels, changelog generation, and repository stats.",
+  "source_repo": "lordbasilaiassistant-sudo/mcp-github-pm",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/mcp-github-pm",
+  "install": "# git clone --depth 1 https://github.com/lordbasilaiassistant-sudo/mcp-github-pm\n# See source for mcpServers config block"
+}

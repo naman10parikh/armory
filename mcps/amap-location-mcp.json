@@ -1,0 +1,7 @@
+{
+  "name": "amap-location-mcp",
+  "description": "An MCP server that provides location-based services using Amap APIs, enabling AI assistants to answer navigation queries by resolving addresses, converting coordinates, and comparing walking, driving, and transit routes.",
+  "source_repo": "188zjl/amap-location-mcp",
+  "source_url": "https://github.com/188zjl/amap-location-mcp",
+  "install": "npx -y amap-location-mcp"
+}

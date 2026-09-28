@@ -1,0 +1,7 @@
+{
+  "name": "joplin-mcp",
+  "description": "Model Context Protocol (MCP) server for Joplin note-taking app, enabling AI to read, search, and modify notes via sandboxed scripts.",
+  "source_repo": "belsar-ai/joplin-mcp",
+  "source_url": "https://github.com/belsar-ai/joplin-mcp",
+  "install": "npx -y joplin-mcp"
+}

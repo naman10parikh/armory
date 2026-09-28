@@ -1,0 +1,7 @@
+{
+  "name": "mcp-telemetry",
+  "description": "Streams live progress from long-running MCP tool calls to any connected client. Instrument a tool call with mcp-telemetry-sdk, and telemetry_subscribe pushes its steps, logs, cost, and completion over notifications/progress — no polling, and a job started in one session can be watched from a differe",
+  "source_repo": "arnavranjan005/mcp-telemetry",
+  "source_url": "https://github.com/arnavranjan005/mcp-telemetry",
+  "install": "# git clone --depth 1 https://github.com/arnavranjan005/mcp-telemetry\n# See source for mcpServers config block"
+}

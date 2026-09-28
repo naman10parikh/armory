@@ -1,0 +1,7 @@
+{
+  "name": "codepage-bridge-mcp",
+  "description": "Encoding-transparent file tools for Claude Code and other MCP clients, converting project files between legacy codepages and Unicode for LLM operations.",
+  "source_repo": "skyispainted/codepage-bridge-mcp",
+  "source_url": "https://github.com/skyispainted/codepage-bridge-mcp",
+  "install": "npx -y codepage-bridge-mcp"
+}

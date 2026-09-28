@@ -1,0 +1,7 @@
+{
+  "name": "lm-studio-mcp-server",
+  "description": "Enables AI assistants to manage LM Studio models, including listing, loading, and unloading models through the LM Studio API.",
+  "source_repo": "portertech/lm-studio-mcp-server",
+  "source_url": "https://github.com/portertech/lm-studio-mcp-server",
+  "install": "npx -y lm-studio-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hara-mcp",
+  "description": "Language-owned MCP gateway and execution-host coordination for Hara, exposing read-only tools for runtime introspection, evaluation, calls, and checks, with an optional deterministic test fixture for development.",
+  "source_repo": "hara-lang/hara-mcp",
+  "source_url": "https://github.com/hara-lang/hara-mcp",
+  "install": "npx -y hara-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "liga-record-mcp",
+  "description": "MCP server that exposes Liga Record fantasy football squad data, rules, and tools to Claude for validating lineups, simulating automatic substitutions, checking transfers, and searching the player market.",
+  "source_repo": "manuelcralves/liga-record-mcp",
+  "source_url": "https://github.com/manuelcralves/liga-record-mcp",
+  "install": "npx -y liga-record-mcp"
+}

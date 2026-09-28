@@ -1,0 +1,7 @@
+{
+  "name": "openbnb-mcp-server-airbnb",
+  "description": "Enables Airbnb searches with location, date, guest, price, and property type filters, and retrieval of detailed listing information such as amenities, house rules, and direct booking links.",
+  "source_repo": "danielk-am/mcp-server-airbnb",
+  "source_url": "https://github.com/danielk-am/mcp-server-airbnb",
+  "install": "# git clone --depth 1 https://github.com/danielk-am/mcp-server-airbnb\n# See source for mcpServers config block"
+}

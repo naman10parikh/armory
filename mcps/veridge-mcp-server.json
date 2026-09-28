@@ -1,0 +1,7 @@
+{
+  "name": "veridge-mcp-server",
+  "description": "Enables AI assistants to query a project's unified graph (code, documents, decisions) with token-budgeted, ranked context, including focus, impact, and find operations.",
+  "source_repo": "galimar/veridge",
+  "source_url": "https://github.com/galimar/veridge",
+  "install": "# git clone --depth 1 https://github.com/galimar/veridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "registree",
+  "description": "Provides coding agents with a live registry of class definitions and constructor signatures from the codebase, enabling verification of calls before writing them to prevent hallucinated parameters.",
+  "source_repo": "aucontraire/registree",
+  "source_url": "https://github.com/aucontraire/registree",
+  "install": "# git clone --depth 1 https://github.com/aucontraire/registree\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "localhostmcp",
+  "description": "Enables LLMs to send HTTP requests to a local development server, allowing interaction with APIs running on localhost.",
+  "source_repo": "alvii147/localhostmcp",
+  "source_url": "https://github.com/alvii147/localhostmcp",
+  "install": "# git clone --depth 1 https://github.com/alvii147/localhostmcp\n# See source for mcpServers config block"
+}

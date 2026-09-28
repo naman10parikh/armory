@@ -1,0 +1,7 @@
+{
+  "name": "tu-lugar-mcp-server",
+  "description": "Search real estate listings, development projects, companies, and market data in Paraguay and Latin America directly from any MCP client.",
+  "source_repo": "JanKratochvil1/tulugar-mcp-server",
+  "source_url": "https://github.com/JanKratochvil1/tulugar-mcp-server",
+  "install": "npx -y tulugar-mcp-server"
+}

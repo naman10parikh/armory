@@ -1,0 +1,7 @@
+{
+  "name": "threadmap-mcp",
+  "description": "Tracks conversation drift in Claude, providing visual indicators and the ability to fork conversations from any point to maintain original intent.",
+  "source_repo": "Advertflair/threadmap-mcp",
+  "source_url": "https://github.com/Advertflair/threadmap-mcp",
+  "install": "npx -y threadmap-mcp"
+}

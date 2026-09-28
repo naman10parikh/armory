@@ -1,0 +1,7 @@
+{
+  "name": "evipedia-mcp",
+  "description": "MCP server enabling AI agents to search and retrieve evidence reviews from evipedia.ai on health and longevity interventions, and to suggest new interventions for review.",
+  "source_repo": "forever-healthy/evipedia-mcp",
+  "source_url": "https://github.com/forever-healthy/evipedia-mcp",
+  "install": "npx -y evipedia-mcp"
+}

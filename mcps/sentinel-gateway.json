@@ -1,0 +1,7 @@
+{
+  "name": "sentinel-gateway",
+  "description": "MCP zero-trust gateway that sits in front of every internal MCP server, detects tool-poisoning/metadata drift in real time, and maintains a cryptographic provenance ledger of every agent tool call.",
+  "source_repo": "jaisimha18/nebula-ninjas",
+  "source_url": "https://github.com/jaisimha18/nebula-ninjas",
+  "install": "# git clone --depth 1 https://github.com/jaisimha18/nebula-ninjas\n# See source for mcpServers config block"
+}

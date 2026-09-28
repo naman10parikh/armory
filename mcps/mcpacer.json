@@ -1,0 +1,7 @@
+{
+  "name": "mcpacer",
+  "description": "An AI-powered running coach that connects Claude to your Strava data, providing personalized training plans, progress tracking, and coaching feedback through a web dashboard.",
+  "source_repo": "wernerpe/mcpacer",
+  "source_url": "https://github.com/wernerpe/mcpacer",
+  "install": "# git clone --depth 1 https://github.com/wernerpe/mcpacer\n# See source for mcpServers config block"
+}

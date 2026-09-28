@@ -1,0 +1,7 @@
+{
+  "name": "pep-pessoa-exposta-politicamente",
+  "description": "Checks if a Brazilian person is a Politically Exposed Person (PEP) from their CPF for compliance and AML due diligence. It provides a single read-only tool that works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/pep-mcp",
+  "source_url": "https://github.com/mcp-dir/pep-mcp",
+  "install": "npx -y pep-mcp"
+}

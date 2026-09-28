@@ -1,0 +1,7 @@
+{
+  "name": "tse-quitacao-eleitoral-mcp",
+  "description": "Enables querying and retrieving Brazilian electoral clearance certificates (Certidão de Quitação Eleitoral) from the TSE using CPF, name, voter ID, birth date, and filiation. It provides a single read-only tool via MCP for integration with AI assistants.",
+  "source_repo": "mcp-dir/tse_quitacao_eleitoral-mcp",
+  "source_url": "https://github.com/mcp-dir/tse_quitacao_eleitoral-mcp",
+  "install": "npx -y tse_quitacao_eleitoral-mcp"
+}

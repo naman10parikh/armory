@@ -1,0 +1,7 @@
+{
+  "name": "cisco-sdwan-mcp",
+  "description": "An MCP server for Cisco Catalyst SD-WAN that lets LLM clients query fabric inventory, device health, alarms, and path quality from vManage. It is read-only by default, with configuration-changing tools available only when explicitly enabled and requiring human confirmation.",
+  "source_repo": "pcDamasceno/autonetops_cisco_sdwan_mcp",
+  "source_url": "https://github.com/pcDamasceno/autonetops_cisco_sdwan_mcp",
+  "install": "npx -y autonetops_cisco_sdwan_mcp"
+}

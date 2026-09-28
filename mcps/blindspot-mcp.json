@@ -1,0 +1,7 @@
+{
+  "name": "blindspot-mcp",
+  "description": "Blindspot is a local, general-purpose context engine for AI coding agents. It helps agents understand project structure, symbols, relationships, and change impact before editing.",
+  "source_repo": "umuterdal/blindspot-mcp",
+  "source_url": "https://github.com/umuterdal/blindspot-mcp",
+  "install": "npx -y blindspot-mcp"
+}

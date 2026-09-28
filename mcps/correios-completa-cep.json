@@ -1,0 +1,7 @@
+{
+  "name": "correios-completa-cep",
+  "description": "MCP server for querying Brazilian postal codes (CEP) and territorial areas using official Correios data, providing a read-only tool to complete CEP information.",
+  "source_repo": "mcp-dir/correios_completa_cep-mcp",
+  "source_url": "https://github.com/mcp-dir/correios_completa_cep-mcp",
+  "install": "npx -y correios_completa_cep-mcp"
+}

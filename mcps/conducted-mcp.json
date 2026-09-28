@@ -1,0 +1,7 @@
+{
+  "name": "conducted-mcp",
+  "description": "An MCP server that helps AI agents plan and track software projects using the Conducted Development methodology, providing artifact validation, kickoff guidance, and project rituals.",
+  "source_repo": "Mostov82/conducted-mcp",
+  "source_url": "https://github.com/Mostov82/conducted-mcp",
+  "install": "npx -y conducted-mcp"
+}

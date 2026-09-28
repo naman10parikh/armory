@@ -1,0 +1,7 @@
+{
+  "name": "knobe-mcp-server",
+  "description": "MCP server for sealing, verifying, and reading KNOBE Protocol v1 documents with human-confirmed authorship, ensuring document provenance and integrity.",
+  "source_repo": "KnobeDev/knobe-mcp",
+  "source_url": "https://github.com/KnobeDev/knobe-mcp",
+  "install": "npx -y knobe-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kingbase-mcp-server",
+  "description": "A Cursor-integrated MCP server for Kingbase (人大金仓) databases, enabling schema queries, document generation, and SQL execution with configurable security modes (readonly, limited_write, full_access).",
+  "source_repo": "Gcluowenqiang/Kingbase-mcp",
+  "source_url": "https://github.com/Gcluowenqiang/Kingbase-mcp",
+  "install": "npx -y Kingbase-mcp"
+}

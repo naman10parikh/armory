@@ -1,0 +1,7 @@
+{
+  "name": "thingsboard-lighting-mcp-server",
+  "description": "An MCP server that lets Claude read and switch the 3 lights in the innovation room through ThingsBoard, using natural language.",
+  "source_repo": "syntechnology-engineering/MCPServer-SmartBuilding",
+  "source_url": "https://github.com/syntechnology-engineering/MCPServer-SmartBuilding",
+  "install": "# git clone --depth 1 https://github.com/syntechnology-engineering/MCPServer-SmartBuilding\n# See source for mcpServers config block"
+}

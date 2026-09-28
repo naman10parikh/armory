@@ -1,0 +1,7 @@
+{
+  "name": "slide-mcp",
+  "description": "Create designed Figma Slides by chatting with GitHub Copilot or Claude. It generates polished, multi-layout decks with 31 layouts and 17 design systems directly in Figma.",
+  "source_repo": "Rikuto-des/slide-mcp",
+  "source_url": "https://github.com/Rikuto-des/slide-mcp",
+  "install": "npx -y slide-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "splitwise-mcp",
+  "description": "An MCP server for Splitwise that lets you manage expenses, balances, settlements, groups, and comments in natural language from any MCP client.",
+  "source_repo": "harrydaihaolin/splitwise-mcp",
+  "source_url": "https://github.com/harrydaihaolin/splitwise-mcp",
+  "install": "npx -y splitwise-mcp"
+}

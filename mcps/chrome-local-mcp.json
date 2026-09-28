@@ -1,0 +1,7 @@
+{
+  "name": "chrome-local-mcp",
+  "description": "Lightweight MCP server for controlling a Windows Chrome instance from WSL, designed for AI coding agents with minimal token overhead and human-in-the-loop support.",
+  "source_repo": "thronapple/chrome-local-mcp",
+  "source_url": "https://github.com/thronapple/chrome-local-mcp",
+  "install": "npx -y chrome-local-mcp"
+}

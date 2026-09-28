@@ -1,0 +1,7 @@
+{
+  "name": "scholarmind",
+  "description": "A multimodal academic research assistant for LLM Agent papers, enabling paper search, PDF/figure understanding, knowledge graph memory, learning paths, and reproducible experiments via MCP.",
+  "source_repo": "FengLiangcheng-hfut/AcademicAgent",
+  "source_url": "https://github.com/FengLiangcheng-hfut/AcademicAgent",
+  "install": "# git clone --depth 1 https://github.com/FengLiangcheng-hfut/AcademicAgent\n# See source for mcpServers config block"
+}

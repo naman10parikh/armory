@@ -1,0 +1,7 @@
+{
+  "name": "a207-report-mcp",
+  "description": "Aggregates pediatric CKD patient data from multiple modules to generate unified timeline reports with structured sections, markdown summary, and overall status. Enables clinicians to obtain a comprehensive patient snapshot.",
+  "source_repo": "ayeyouok/a207-report-mcp",
+  "source_url": "https://github.com/ayeyouok/a207-report-mcp",
+  "install": "npx -y a207-report-mcp"
+}

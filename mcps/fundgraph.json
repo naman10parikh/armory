@@ -1,0 +1,7 @@
+{
+  "name": "fundgraph",
+  "description": "An MCP server that gives investment teams an entity-resolved knowledge graph of people and organizations, enabling graph-based retrieval like warm introductions and relationship analysis from scattered data sources.",
+  "source_repo": "clippycommits/fundgraph",
+  "source_url": "https://github.com/clippycommits/fundgraph",
+  "install": "# git clone --depth 1 https://github.com/clippycommits/fundgraph\n# See source for mcpServers config block"
+}

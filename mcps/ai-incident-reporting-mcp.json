@@ -1,0 +1,7 @@
+{
+  "name": "ai-incident-reporting-mcp",
+  "description": "Multi-regime AI incident classification and reporting MCP supporting EU AI Act Article 73, DORA, NIS2, and GDPR breach reporting.",
+  "source_repo": "CSOAI-ORG/ai-incident-reporting-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/ai-incident-reporting-mcp",
+  "install": "npx -y ai-incident-reporting-mcp"
+}

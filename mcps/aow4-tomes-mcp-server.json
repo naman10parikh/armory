@@ -1,0 +1,7 @@
+{
+  "name": "aow4-tomes-mcp-server",
+  "description": "MCP server for Age of Wonders 4 that helps AI agents guide players in selecting tomes and skills, leveraging tome data from the official wiki.",
+  "source_repo": "spookyzn/aow4_mcp",
+  "source_url": "https://github.com/spookyzn/aow4_mcp",
+  "install": "npx -y aow4_mcp"
+}

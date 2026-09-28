@@ -1,0 +1,7 @@
+{
+  "name": "blop",
+  "description": "MCP-native release confidence control plane that turns browser execution into auditable go/no-go decisions by combining business-critical journey context, evidence-heavy QA runs, and risk governance.",
+  "source_repo": "n2400813g/blop-mcp",
+  "source_url": "https://github.com/n2400813g/blop-mcp",
+  "install": "npx -y blop-mcp"
+}

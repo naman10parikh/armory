@@ -1,0 +1,7 @@
+{
+  "name": "vmframework-mcp",
+  "description": "Exposes VMFramework-specific editor workflows as first-class Unity MCP project tools.",
+  "source_repo": "VM233/VMFramework-MCP",
+  "source_url": "https://github.com/VM233/VMFramework-MCP",
+  "install": "npx -y VMFramework-MCP"
+}

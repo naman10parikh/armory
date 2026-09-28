@@ -1,0 +1,7 @@
+{
+  "name": "tkawen",
+  "description": "Provides AI assistants with accurate Algerian administrative data, including wilayas, communes, postal codes, and phone validation, as well as e-commerce, credential verification, and training tools.",
+  "source_repo": "hartemyaakoub/tkawen-mcp",
+  "source_url": "https://github.com/hartemyaakoub/tkawen-mcp",
+  "install": "npx -y tkawen-mcp"
+}

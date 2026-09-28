@@ -1,0 +1,7 @@
+{
+  "name": "deepy-mcp-server",
+  "description": "Thin MCP server that enables AI agents to generate video, image, and audio content via the Deepy API using a personal API key, with safe generation flow and no business logic.",
+  "source_repo": "deepy-to/deepy-mcp-server",
+  "source_url": "https://github.com/deepy-to/deepy-mcp-server",
+  "install": "npx -y deepy-mcp-server"
+}

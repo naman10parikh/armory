@@ -1,0 +1,7 @@
+{
+  "name": "spline-mcp",
+  "description": "MCP server for Spline.design code generation and asset management.",
+  "source_repo": "lesleslie/spline-mcp",
+  "source_url": "https://github.com/lesleslie/spline-mcp",
+  "install": "npx -y spline-mcp"
+}

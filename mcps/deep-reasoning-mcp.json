@@ -1,0 +1,7 @@
+{
+  "name": "deep-reasoning-mcp",
+  "description": "Turns Claude Code into a recursive analysis engine that builds explorable decision trees from IF/THEN chains, enabling thorough problem exploration and structured synthesis of action plans.",
+  "source_repo": "mauriziomocci/deep-reasoning-mcp",
+  "source_url": "https://github.com/mauriziomocci/deep-reasoning-mcp",
+  "install": "npx -y deep-reasoning-mcp"
+}

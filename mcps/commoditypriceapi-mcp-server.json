@@ -1,0 +1,7 @@
+{
+  "name": "commoditypriceapi-mcp-server",
+  "description": "Official MCP server that exposes 8 tools for real-time and historical commodity prices (gold, silver, oil, and 140+ more), allowing AI assistants to query market data via natural language.",
+  "source_repo": "Commodity-Price-API/commoditypriceapi-mcp",
+  "source_url": "https://github.com/Commodity-Price-API/commoditypriceapi-mcp",
+  "install": "npx -y commoditypriceapi-mcp"
+}

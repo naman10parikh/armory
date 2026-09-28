@@ -1,0 +1,7 @@
+{
+  "name": "chess-ceo",
+  "description": "MCP server for chess.ceo — 11.7M+ games, ~1.5M FIDE player profiles, per-player opening preparation, position statistics, head-to-head, live tournament broadcasts. No API key.",
+  "source_repo": "chessceo/chessceo-mcp",
+  "source_url": "https://github.com/chessceo/chessceo-mcp",
+  "install": "npx -y chessceo-mcp"
+}

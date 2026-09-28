@@ -1,6 +1,6 @@
 {
   "name": "google-sheets-mcp-server",
-  "description": "Google Sheets Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "amaboh/google-sheets-mcp-server",
   "source_url": "https://mcp.so/server/google-sheets-mcp-server/amaboh",
   "install": "npx -y google-sheets-mcp-server"

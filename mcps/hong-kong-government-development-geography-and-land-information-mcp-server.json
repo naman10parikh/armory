@@ -1,0 +1,7 @@
+{
+  "name": "hong-kong-government-development-geography-and-land-information-mcp-server",
+  "description": "Provides access to government development, geography and land information data through a FastMCP interface, including data on new building plans processed by the Building Authority.",
+  "source_repo": "hkopenai/hk-development-mcp-server",
+  "source_url": "https://github.com/hkopenai/hk-development-mcp-server",
+  "install": "npx -y hk-development-mcp-server"
+}

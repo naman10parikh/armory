@@ -1,0 +1,7 @@
+{
+  "name": "storyai",
+  "description": "Enables writers and AI agents to preserve continuity in long-form fiction by maintaining a narrative knowledge graph and exposing MCP tools for querying outlines, entities, references, and consistency diagnostics.",
+  "source_repo": "jedikim/storyai",
+  "source_url": "https://github.com/jedikim/storyai",
+  "install": "# git clone --depth 1 https://github.com/jedikim/storyai\n# See source for mcpServers config block"
+}

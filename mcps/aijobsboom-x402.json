@@ -1,0 +1,7 @@
+{
+  "name": "aijobsboom-x402",
+  "description": "x402-gated data API (Cloudflare Worker) plus an MCP server wrapper serving aggregate weekly stats from the aijobsboom.com skilled-trades job board — trade counts, perk flags, scrub-rule counts. $0.01/$0.10 USDC per call, no raw job listings.",
+  "source_repo": "Chemi-Kill/aijobsboom-x402",
+  "source_url": "https://github.com/Chemi-Kill/aijobsboom-x402",
+  "install": "# git clone --depth 1 https://github.com/Chemi-Kill/aijobsboom-x402\n# See source for mcpServers config block"
+}

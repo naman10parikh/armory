@@ -1,0 +1,7 @@
+{
+  "name": "da-mcp",
+  "description": "Cross-platform desktop automation MCP server that lets AI agents capture screenshots, run OCR with UI-element classification, control mouse/keyboard, and launch programs on Linux, macOS, and Windows.",
+  "source_repo": "cioinside/da-mcp",
+  "source_url": "https://github.com/cioinside/da-mcp",
+  "install": "npx -y da-mcp"
+}

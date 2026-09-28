@@ -1,0 +1,7 @@
+{
+  "name": "threatweaver",
+  "description": "MCP-native agentic threat investigation server that investigates IOCs across multiple threat intelligence sources, correlates findings to detect campaigns, and outputs STIX 2.1 bundles.",
+  "source_repo": "Hadobot/threatweaver",
+  "source_url": "https://github.com/Hadobot/threatweaver",
+  "install": "# git clone --depth 1 https://github.com/Hadobot/threatweaver\n# See source for mcpServers config block"
+}

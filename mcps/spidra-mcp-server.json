@@ -1,0 +1,7 @@
+{
+  "name": "spidra-mcp-server",
+  "description": "Enables AI assistants to scrape pages, batch-process URLs, and crawl entire websites with AI-powered extraction.",
+  "source_repo": "spidra-io/spidra-mcp-server",
+  "source_url": "https://github.com/spidra-io/spidra-mcp-server",
+  "install": "npx -y spidra-mcp-server"
+}

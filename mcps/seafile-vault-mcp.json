@@ -1,0 +1,7 @@
+{
+  "name": "seafile-vault-mcp",
+  "description": "A self-hosted MCP server that provides read/write access to a Seafile library, enabling file operations and full-text search for a personal knowledge vault.",
+  "source_repo": "dm7500/seafile-vault-mcp",
+  "source_url": "https://github.com/dm7500/seafile-vault-mcp",
+  "install": "npx -y seafile-vault-mcp"
+}

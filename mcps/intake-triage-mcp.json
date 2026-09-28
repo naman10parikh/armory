@@ -1,0 +1,7 @@
+{
+  "name": "intake-triage-mcp",
+  "description": "A deterministic MCP server for legal intake triage that provides practice-area lookup, conflict screening, matter validation, follow-up drafting, and triage logging with a hard conflicts gate.",
+  "source_repo": "granolacowboy/intake-triage-mcp",
+  "source_url": "https://github.com/granolacowboy/intake-triage-mcp",
+  "install": "npx -y intake-triage-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codebase-knowledge-graph-mcp-server",
+  "description": "Enables storing and querying structured information about software code entities (classes, functions, files) and their relationships (calls, imports) along with qualitative observations like design decisions and change rationale.",
+  "source_repo": "jigneshsuvariya/codenexus-mcp",
+  "source_url": "https://github.com/jigneshsuvariya/codenexus-mcp",
+  "install": "npx -y codenexus-mcp"
+}

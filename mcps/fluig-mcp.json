@@ -1,0 +1,7 @@
+{
+  "name": "fluig-mcp",
+  "description": "Operates a TOTVS Fluig environment via AI agents or terminal, managing datasets, forms, global events, and BPM process definitions without Fluig Studio.",
+  "source_repo": "alucardigo/fluig-mcp",
+  "source_url": "https://github.com/alucardigo/fluig-mcp",
+  "install": "npx -y fluig-mcp"
+}

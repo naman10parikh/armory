@@ -1,0 +1,7 @@
+{
+  "name": "git-insights-mcp",
+  "description": "A local-only MCP server that exposes git repository history, diffs, and status as tools for LLM clients, working entirely against a local git repo on disk.",
+  "source_repo": "sanyam-jain-simform/git-insights-mcp",
+  "source_url": "https://github.com/sanyam-jain-simform/git-insights-mcp",
+  "install": "npx -y git-insights-mcp"
+}

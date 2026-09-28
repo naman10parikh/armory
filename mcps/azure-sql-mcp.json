@@ -1,0 +1,7 @@
+{
+  "name": "azure-sql-mcp",
+  "description": "Enables Azure SQL Database performance and administration through typed execution, query benchmarking, and managed DBA operations.",
+  "source_repo": "akaalholdings/azure-sql-mcp",
+  "source_url": "https://github.com/akaalholdings/azure-sql-mcp",
+  "install": "npx -y azure-sql-mcp"
+}

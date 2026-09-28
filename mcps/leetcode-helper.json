@@ -1,0 +1,7 @@
+{
+  "name": "leetcode-helper",
+  "description": "An MCP server that provides structured, AI-powered guidance for LeetCode problems, including approach analysis, hints, complexity breakdowns, and optimization directions without spoiling solutions.",
+  "source_repo": "Navoren/leetcode-helper",
+  "source_url": "https://github.com/Navoren/leetcode-helper",
+  "install": "# git clone --depth 1 https://github.com/Navoren/leetcode-helper\n# See source for mcpServers config block"
+}

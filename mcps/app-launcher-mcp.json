@@ -1,0 +1,7 @@
+{
+  "name": "app-launcher-mcp",
+  "description": "Launch Windows applications by name, alias, or path via MCP, supporting arguments and working directories. Uses Task Scheduler to detach launched processes so they persist independently of the MCP server.",
+  "source_repo": "kkdnn/app-launcher-mcp",
+  "source_url": "https://github.com/kkdnn/app-launcher-mcp",
+  "install": "npx -y app-launcher-mcp"
+}

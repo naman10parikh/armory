@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-github-mcp-app",
+  "description": "This MCP server bridges ChatGPT to GitHub, letting you use natural language to read repositories, modify code, create branches, and open pull requests while enforcing security policies like repository whitelists and branch protection.",
+  "source_repo": "fellipegoncalvesleite/chatgpt-github-mcp-app",
+  "source_url": "https://github.com/fellipegoncalvesleite/chatgpt-github-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/fellipegoncalvesleite/chatgpt-github-mcp-app\n# See source for mcpServers config block"
+}

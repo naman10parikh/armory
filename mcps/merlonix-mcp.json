@@ -1,0 +1,7 @@
+{
+  "name": "merlonix-mcp",
+  "description": "Provides live infrastructure monitoring for AI agents, including domain health checks, MCP server security posture, email blacklists, broken-link scans, and cloud vendor status. No signup or API key needed for public tools.",
+  "source_repo": "cmhenry79/merlonix-mcp",
+  "source_url": "https://github.com/cmhenry79/merlonix-mcp",
+  "install": "npx -y merlonix-mcp"
+}

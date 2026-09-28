@@ -1,6 +1,6 @@
 {
   "name": "whoop-api-mcp",
-  "description": "Whoop Api Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "RyanLisse/whoop-api-mcp",
   "source_url": "https://mcp.so/server/whoop-api-mcp/RyanLisse",
   "install": "npx -y whoop-api-mcp"

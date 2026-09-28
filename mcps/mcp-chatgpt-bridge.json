@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chatgpt-bridge",
+  "description": "MCP server that lets Claude Code consult ChatGPT for a second opinion mid-task, with explicit context passed by the caller.",
+  "source_repo": "hieuh0/mcp-chatgpt-bridge",
+  "source_url": "https://github.com/hieuh0/mcp-chatgpt-bridge",
+  "install": "# git clone --depth 1 https://github.com/hieuh0/mcp-chatgpt-bridge\n# See source for mcpServers config block"
+}

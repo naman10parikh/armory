@@ -1,0 +1,7 @@
+{
+  "name": "ibkr-portfolio-builder-mcp",
+  "description": "A remote MCP server for top-down portfolio construction with Interactive Brokers, exposing a typed catalog of screeners, news access, and account tools for LLM-driven research workflows.",
+  "source_repo": "adwiteeymauriya/ibkr-portfolio-builder-mcp",
+  "source_url": "https://github.com/adwiteeymauriya/ibkr-portfolio-builder-mcp",
+  "install": "npx -y ibkr-portfolio-builder-mcp"
+}

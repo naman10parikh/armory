@@ -1,0 +1,7 @@
+{
+  "name": "acrawl",
+  "description": "Autonomous LLM-powered web crawler with 17 browser tools and goal-driven agent. Single Rust binary with stealth browsing, provider-agnostic LLM support, and built-in MCP server.",
+  "source_repo": "Mingye-Lu/AgenticCrawler",
+  "source_url": "https://github.com/Mingye-Lu/AgenticCrawler",
+  "install": "# git clone --depth 1 https://github.com/Mingye-Lu/AgenticCrawler\n# See source for mcpServers config block"
+}

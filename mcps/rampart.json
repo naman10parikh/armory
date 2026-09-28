@@ -1,0 +1,7 @@
+{
+  "name": "rampart",
+  "description": "Offline, dependency-free transport-layer hardening auditor for MCP Streamable HTTP endpoints, probing for DNS rebinding, CORS, session-ID, cleartext, and protocol conformance defects with a severity-weighted score and CI gate.",
+  "source_repo": "freyesperales/dev-experiment-023",
+  "source_url": "https://github.com/freyesperales/dev-experiment-023",
+  "install": "# git clone --depth 1 https://github.com/freyesperales/dev-experiment-023\n# See source for mcpServers config block"
+}

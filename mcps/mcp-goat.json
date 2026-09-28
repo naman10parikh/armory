@@ -1,0 +1,7 @@
+{
+  "name": "mcp-goat",
+  "description": "A deliberately vulnerable MCP application for learning MCP security through hands-on exercises covering OWASP MCP Top 10 categories.",
+  "source_repo": "satishpatnayak/MCP-Goat",
+  "source_url": "https://github.com/satishpatnayak/MCP-Goat",
+  "install": "# git clone --depth 1 https://github.com/satishpatnayak/MCP-Goat\n# See source for mcpServers config block"
+}

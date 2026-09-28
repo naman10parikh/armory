@@ -1,0 +1,7 @@
+{
+  "name": "g2-product-analytics-mcp",
+  "description": "Provides a governed analytics layer over synthetic product data, exposing MCP tools for investigating product metrics, slicing by dimensions, and comparing periods while preventing unrestricted SQL access.",
+  "source_repo": "maevelynz/g2-product-analytics-mcp",
+  "source_url": "https://github.com/maevelynz/g2-product-analytics-mcp",
+  "install": "npx -y g2-product-analytics-mcp"
+}

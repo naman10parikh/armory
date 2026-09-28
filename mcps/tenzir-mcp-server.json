@@ -1,0 +1,7 @@
+{
+  "name": "tenzir-mcp-server",
+  "description": "An MCP server that enables AI assistants to interact with Tenzir, a data pipeline engine for security operations, including executing pipeline queries, managing OCSF schemas, and generating parsers.",
+  "source_repo": "fastmcp-me/mcp-tenzir",
+  "source_url": "https://github.com/fastmcp-me/mcp-tenzir",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/mcp-tenzir\n# See source for mcpServers config block"
+}

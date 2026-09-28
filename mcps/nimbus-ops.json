@@ -1,0 +1,7 @@
+{
+  "name": "nimbus-ops",
+  "description": "MCP server for Nimbus Operations Copilot that enables AI agents to search help docs, customer data, invoices, and tickets, and propose refunds/tickets with human approval for writes.",
+  "source_repo": "vasanthadevi/ops-copilot",
+  "source_url": "https://github.com/vasanthadevi/ops-copilot",
+  "install": "# git clone --depth 1 https://github.com/vasanthadevi/ops-copilot\n# See source for mcpServers config block"
+}

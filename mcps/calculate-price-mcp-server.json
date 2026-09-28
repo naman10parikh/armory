@@ -1,0 +1,7 @@
+{
+  "name": "calculate-price-mcp-server",
+  "description": "MCP server that exposes a price calculation tool (calculatePrice) for computing final prices with discount and tax logic, usable by Codex or any MCP client.",
+  "source_repo": "KieranTou-AI/mcp-test",
+  "source_url": "https://github.com/KieranTou-AI/mcp-test",
+  "install": "# git clone --depth 1 https://github.com/KieranTou-AI/mcp-test\n# See source for mcpServers config block"
+}

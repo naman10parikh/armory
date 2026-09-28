@@ -1,0 +1,7 @@
+{
+  "name": "thread-mind-mcp",
+  "description": "Structures AI conversations into hierarchical thread trees, replacing full history with concise summaries to reduce token consumption and preserve context.",
+  "source_repo": "mahmoud-nb/thread-mind-mcp",
+  "source_url": "https://github.com/mahmoud-nb/thread-mind-mcp",
+  "install": "npx -y thread-mind-mcp"
+}

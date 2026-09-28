@@ -1,0 +1,7 @@
+{
+  "name": "outlook-mail-mcp",
+  "description": "MCP server that connects an Outlook mailbox to view recent emails, read specific messages, and send replies using Microsoft Graph.",
+  "source_repo": "Lynnker-0904/Outlook-Mail-MCP",
+  "source_url": "https://github.com/Lynnker-0904/Outlook-Mail-MCP",
+  "install": "npx -y Outlook-Mail-MCP"
+}

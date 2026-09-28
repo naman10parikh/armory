@@ -1,0 +1,7 @@
+{
+  "name": "openalice-trading-mcp",
+  "description": "Exposes OpenAlice's Trade-as-Git trading workflow to MCP-capable AI agents, enabling broker connections, a git-like approval state machine, and 19 trading tools via Streamable HTTP.",
+  "source_repo": "orangeZSCB/trader-mcp",
+  "source_url": "https://github.com/orangeZSCB/trader-mcp",
+  "install": "npx -y trader-mcp"
+}

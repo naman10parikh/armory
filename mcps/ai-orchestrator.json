@@ -1,0 +1,7 @@
+{
+  "name": "ai-orchestrator",
+  "description": "Enables multi-strategy AI orchestration including council decision review, debate, brainstorming, evaluation, and spec review, with support for multiple LLM providers and advisor personas.",
+  "source_repo": "halitartuc/ai-orchestrator",
+  "source_url": "https://github.com/halitartuc/ai-orchestrator",
+  "install": "# git clone --depth 1 https://github.com/halitartuc/ai-orchestrator\n# See source for mcpServers config block"
+}

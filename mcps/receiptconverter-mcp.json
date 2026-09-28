@@ -1,0 +1,7 @@
+{
+  "name": "receiptconverter-mcp",
+  "description": "MCP server for ReceiptConverter that allows AI assistants to parse any receipt or invoice image/PDF into structured JSON with a single tool call.",
+  "source_repo": "cheatbased/receiptconverter-mcp",
+  "source_url": "https://github.com/cheatbased/receiptconverter-mcp",
+  "install": "npx -y receiptconverter-mcp"
+}

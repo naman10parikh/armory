@@ -1,0 +1,7 @@
+{
+  "name": "mcp-taobao-server",
+  "description": "为大模型提供淘宝购物能力，支持搜索商品、加入购物车和生成待支付订单，人工完成付款。",
+  "source_repo": "ganyu123456/mcp-taobao-server",
+  "source_url": "https://github.com/ganyu123456/mcp-taobao-server",
+  "install": "# git clone --depth 1 https://github.com/ganyu123456/mcp-taobao-server\n# See source for mcpServers config block"
+}

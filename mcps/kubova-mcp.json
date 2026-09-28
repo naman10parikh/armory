@@ -1,0 +1,7 @@
+{
+  "name": "kubova-mcp",
+  "description": "Lets AI agents pack shipping containers using the Kubova calculator, with tools for container loading and API key verification.",
+  "source_repo": "Kubova-com/kubova-mcp",
+  "source_url": "https://github.com/Kubova-com/kubova-mcp",
+  "install": "npx -y kubova-mcp"
+}

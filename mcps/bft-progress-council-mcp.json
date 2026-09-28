@@ -1,0 +1,7 @@
+{
+  "name": "bft-progress-council-mcp",
+  "description": "5-voter Byzantine council halts agentic loops when no real progress is happening, preventing token waste on infinite spins.",
+  "source_repo": "CSOAI-ORG/bft-progress-council-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/bft-progress-council-mcp",
+  "install": "npx -y bft-progress-council-mcp"
+}

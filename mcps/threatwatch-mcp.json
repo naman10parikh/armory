@@ -1,0 +1,7 @@
+{
+  "name": "threatwatch-mcp",
+  "description": "AI-powered threat intelligence server with real-time alert monitoring and multi-source IOC analysis, enabling security investigations directly in Claude Desktop.",
+  "source_repo": "Abraar02/threatwatch-mcp",
+  "source_url": "https://github.com/Abraar02/threatwatch-mcp",
+  "install": "npx -y threatwatch-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mawsool-mcp",
+  "description": "A starter template for building MCP and ChatGPT apps using the Skybridge framework.",
+  "source_repo": "mohammadAdnan04/Mawsool-MCP",
+  "source_url": "https://github.com/mohammadAdnan04/Mawsool-MCP",
+  "install": "npx -y Mawsool-MCP"
+}

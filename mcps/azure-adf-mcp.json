@@ -1,0 +1,7 @@
+{
+  "name": "azure-adf-mcp",
+  "description": "An MCP server that exposes Azure Data Factory operations as tools any LLM can call — trigger pipelines, monitor runs, inspect datasets, and get factory health summaries through natural language.",
+  "source_repo": "nachiketap11/azure-adf-mcp",
+  "source_url": "https://github.com/nachiketap11/azure-adf-mcp",
+  "install": "npx -y azure-adf-mcp"
+}

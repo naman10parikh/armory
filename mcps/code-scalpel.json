@@ -1,0 +1,7 @@
+{
+  "name": "code-scalpel",
+  "description": "Enables AI assistants to surgically extract and analyze code, reducing token usage and costs by up to 200x compared to reading entire files.",
+  "source_repo": "3D-Tech-Solutions/code-scalpel",
+  "source_url": "https://github.com/3D-Tech-Solutions/code-scalpel",
+  "install": "# git clone --depth 1 https://github.com/3D-Tech-Solutions/code-scalpel\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fantasy-football-draft-mcp",
+  "description": "MCP server that acts as a live fantasy football draft assistant, syncing ESPN or Sleeper boards and providing pick recommendations with reasoning and survival odds.",
+  "source_repo": "zacharytran26/Fantasy-Football-Draft-MCP",
+  "source_url": "https://github.com/zacharytran26/Fantasy-Football-Draft-MCP",
+  "install": "npx -y Fantasy-Football-Draft-MCP"
+}

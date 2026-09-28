@@ -1,0 +1,7 @@
+{
+  "name": "peil-mcp",
+  "description": "Connect Peil to Claude (or any MCP client): log hours, draft invoices from unbilled hours, and check where you stand — from a prompt.",
+  "source_repo": "Luminc/peil-mcp",
+  "source_url": "https://github.com/Luminc/peil-mcp",
+  "install": "npx -y peil-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "puntersedge-mcp",
+  "description": "MCP server that brings live Australian racing and sports odds from 12 bookmaker/exchange sources into AI assistants, with per-price age data and tools for next races, best odds, results, and movers.",
+  "source_repo": "Propertyscout001/puntersedge-mcp",
+  "source_url": "https://github.com/Propertyscout001/puntersedge-mcp",
+  "install": "npx -y puntersedge-mcp"
+}

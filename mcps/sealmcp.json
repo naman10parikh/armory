@@ -1,0 +1,7 @@
+{
+  "name": "sealmcp",
+  "description": "SealMCP is an MCP server for Roblox exploit script development, enabling AI agents to write and execute Luau code in the Roblox environment via WebSocket.",
+  "source_repo": "Seal-Softworks/SealMCP",
+  "source_url": "https://github.com/Seal-Softworks/SealMCP",
+  "install": "# git clone --depth 1 https://github.com/Seal-Softworks/SealMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "guru-pk-mcp",
+  "description": "An MCP server that enables multi-round AI expert debates with dynamic expert generation, cross-debate, and Tufte-style infographic export.",
+  "source_repo": "MitsudoAI/guru-pk-mcp",
+  "source_url": "https://github.com/MitsudoAI/guru-pk-mcp",
+  "install": "npx -y guru-pk-mcp"
+}

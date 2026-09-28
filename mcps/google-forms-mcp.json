@@ -1,0 +1,7 @@
+{
+  "name": "google-forms-mcp",
+  "description": "MCP server for reading, editing, and publishing Google Forms with the official Google Forms API. Enables AI agents to programmatically create, modify, and manage forms and responses.",
+  "source_repo": "naster3/google-forms-mcp",
+  "source_url": "https://github.com/naster3/google-forms-mcp",
+  "install": "npx -y google-forms-mcp"
+}

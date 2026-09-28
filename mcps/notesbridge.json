@@ -1,0 +1,7 @@
+{
+  "name": "notesbridge",
+  "description": "MCP server enabling ChatGPT to search, read, and write Apple Notes via a local Mac agent with a privacy-preserving relay.",
+  "source_repo": "IsaiahDupree/notesbridge",
+  "source_url": "https://github.com/IsaiahDupree/notesbridge",
+  "install": "# git clone --depth 1 https://github.com/IsaiahDupree/notesbridge\n# See source for mcpServers config block"
+}

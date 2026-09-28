@@ -1,0 +1,7 @@
+{
+  "name": "sutton-barto-mcp",
+  "description": "MCP server exposing the full text of Sutton & Barto's Reinforcement Learning book, enabling LLMs to search, retrieve pages, and read chapters.",
+  "source_repo": "BNJ02/sutton-barto-mcp",
+  "source_url": "https://github.com/BNJ02/sutton-barto-mcp",
+  "install": "npx -y sutton-barto-mcp"
+}

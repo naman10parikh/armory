@@ -1,0 +1,7 @@
+{
+  "name": "gmail-sender-mcp-server",
+  "description": "Enables sending emails and creating drafts through the Gmail API with OAuth 2.0 authentication.",
+  "source_repo": "TheMossConcept/Gmail_MCP_server",
+  "source_url": "https://github.com/TheMossConcept/Gmail_MCP_server",
+  "install": "npx -y Gmail_MCP_server"
+}

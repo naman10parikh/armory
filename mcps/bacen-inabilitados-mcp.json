@@ -1,0 +1,7 @@
+{
+  "name": "bacen-inabilitados-mcp",
+  "description": "MCP server to check if a person is listed in the Brazilian Central Bank's general register of ineligible individuals (Quadro Geral de Inabilitados) via CPF. Read-only, hosted, and supports any MCP client over HTTP.",
+  "source_repo": "mcp-dir/bacen_inabilitados-mcp",
+  "source_url": "https://github.com/mcp-dir/bacen_inabilitados-mcp",
+  "install": "npx -y bacen_inabilitados-mcp"
+}

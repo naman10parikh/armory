@@ -1,0 +1,7 @@
+{
+  "name": "ulu-voi-mcp",
+  "description": "Provides curated, meaningful information about Voi ecosystem protocols, applications, assets, and names, enabling identification and search through natural language.",
+  "source_repo": "NautilusOSS/UluVoiMCP",
+  "source_url": "https://github.com/NautilusOSS/UluVoiMCP",
+  "install": "# git clone --depth 1 https://github.com/NautilusOSS/UluVoiMCP\n# See source for mcpServers config block"
+}

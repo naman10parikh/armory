@@ -1,0 +1,7 @@
+{
+  "name": "tyer-mcp-server",
+  "description": "Wraps PigX system business APIs (CRM, SRM) as MCP tools for WeKnora agents, with per-user OAuth authentication that forwards each user's own token to uphold upstream permissions.",
+  "source_repo": "qbsoft/tyer-mcp-server",
+  "source_url": "https://github.com/qbsoft/tyer-mcp-server",
+  "install": "npx -y tyer-mcp-server"
+}

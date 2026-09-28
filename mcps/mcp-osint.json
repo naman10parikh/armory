@@ -1,0 +1,7 @@
+{
+  "name": "mcp-osint",
+  "description": "MCP server that provides access to 14 OSINT data sources including government, research, corporate, and news APIs, enabling search, preview, and retrieval of public intelligence data.",
+  "source_repo": "DanDaDaDanDan/mcp-osint",
+  "source_url": "https://github.com/DanDaDaDanDan/mcp-osint",
+  "install": "# git clone --depth 1 https://github.com/DanDaDaDanDan/mcp-osint\n# See source for mcpServers config block"
+}

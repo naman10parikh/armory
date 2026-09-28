@@ -1,0 +1,7 @@
+{
+  "name": "figjam-context-mcp",
+  "description": "Exposes tools to ingest FigJam boards, retrieve context summaries, and answer free-form questions about the board content.",
+  "source_repo": "ecestnrkl/figjam-mcp",
+  "source_url": "https://github.com/ecestnrkl/figjam-mcp",
+  "install": "npx -y figjam-mcp"
+}

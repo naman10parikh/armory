@@ -1,0 +1,7 @@
+{
+  "name": "ourairports-mcp-server",
+  "description": "Resolve airport codes (IATA/ICAO/GPS/local), search airports, find the nearest by coordinate, and look up runways, navaids, and radio frequencies from the bundled public-domain OurAirports dataset via MCP.",
+  "source_repo": "cyanheads/ourairports-mcp-server",
+  "source_url": "https://github.com/cyanheads/ourairports-mcp-server",
+  "install": "npx -y ourairports-mcp-server"
+}

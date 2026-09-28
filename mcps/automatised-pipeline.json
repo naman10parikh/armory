@@ -1,0 +1,7 @@
+{
+  "name": "automatised-pipeline",
+  "description": "A Rust MCP server that indexes codebases into a property graph and provides tools for code intelligence, such as searching, context, impact analysis, and change detection.",
+  "source_repo": "cdeust/automatised-pipeline",
+  "source_url": "https://github.com/cdeust/automatised-pipeline",
+  "install": "# git clone --depth 1 https://github.com/cdeust/automatised-pipeline\n# See source for mcpServers config block"
+}

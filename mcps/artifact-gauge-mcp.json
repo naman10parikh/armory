@@ -1,0 +1,7 @@
+{
+  "name": "artifact-gauge-mcp",
+  "description": "A local MCP server that inspects project artifact sizes and dependency manifest metadata, reporting summaries and largest files without exposing contents or versions.",
+  "source_repo": "mrfentmen/artifact-gauge-mcp",
+  "source_url": "https://github.com/mrfentmen/artifact-gauge-mcp",
+  "install": "npx -y artifact-gauge-mcp"
+}

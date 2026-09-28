@@ -1,0 +1,7 @@
+{
+  "name": "sales-explorer",
+  "description": "A minimal MCP server that demonstrates an interactive bar chart UI for sales data exploration, enabling drill-down by clicking a region without requiring additional model turns.",
+  "source_repo": "tpiros/mcp-apps",
+  "source_url": "https://github.com/tpiros/mcp-apps",
+  "install": "# git clone --depth 1 https://github.com/tpiros/mcp-apps\n# See source for mcpServers config block"
+}

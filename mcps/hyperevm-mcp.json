@@ -1,0 +1,7 @@
+{
+  "name": "hyperevm-mcp",
+  "description": "Read-only MCP server for the Hyperliquid / HyperEVM ecosystem - yields, protocol TVL, fees, markets, funding history, order-book depth.",
+  "source_repo": "sand0vvv/hyperevm-mcp",
+  "source_url": "https://github.com/sand0vvv/hyperevm-mcp",
+  "install": "npx -y hyperevm-mcp"
+}

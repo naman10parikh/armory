@@ -1,0 +1,7 @@
+{
+  "name": "yaparai-enterprise-mcp-server",
+  "description": "Enables AI assistants to manage social media accounts and CRM operations, including posting, analytics, inbox management, and customer management.",
+  "source_repo": "enis1998/yaparai-enterprise-mcp",
+  "source_url": "https://github.com/enis1998/yaparai-enterprise-mcp",
+  "install": "npx -y yaparai-enterprise-mcp"
+}

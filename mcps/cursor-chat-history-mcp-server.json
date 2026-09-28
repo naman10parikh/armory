@@ -1,0 +1,7 @@
+{
+  "name": "cursor-chat-history-mcp-server",
+  "description": "Enables semantic search over your Cursor IDE chat history by vectorizing prompts and storing them in LanceDB. Provides a Dockerized API to perform vector similarity searches against your chat history.",
+  "source_repo": "markelaugust74/Cursor-history-MCP",
+  "source_url": "https://github.com/markelaugust74/Cursor-history-MCP",
+  "install": "npx -y Cursor-history-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hubspot-conversations-mcp",
+  "description": "MCP server providing 1:1 tool parity with Arcade.dev's HubSpot Conversations API toolkit, enabling reading and sending conversation messages, managing threads, inboxes, channels, and custom channels from any MCP client.",
+  "source_repo": "amalodev/hubspot-conversations-mcp",
+  "source_url": "https://github.com/amalodev/hubspot-conversations-mcp",
+  "install": "npx -y hubspot-conversations-mcp"
+}

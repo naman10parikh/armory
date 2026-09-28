@@ -1,0 +1,7 @@
+{
+  "name": "fm-mcp-comfyui-bridge",
+  "description": "MCP server that provides image generation, captioning, and tagging via ComfyUI API, configurable for agent tools.",
+  "source_repo": "rerofumi/fm-mcp-comfyui-bridge",
+  "source_url": "https://github.com/rerofumi/fm-mcp-comfyui-bridge",
+  "install": "# git clone --depth 1 https://github.com/rerofumi/fm-mcp-comfyui-bridge\n# See source for mcpServers config block"
+}

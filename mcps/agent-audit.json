@@ -1,0 +1,7 @@
+{
+  "name": "agent-audit",
+  "description": "Agent Audit runs Lighthouse against any URL and converts the output into structured fix packs your coding agent can execute. Each fix pack includes the failing audit evidence, CSS selectors to locate the issue in your repo, implementation steps, and acceptance criteria to verify the fix. Covers perf",
+  "source_repo": "fullstackdegen/agent-audit",
+  "source_url": "https://github.com/fullstackdegen/agent-audit",
+  "install": "# git clone --depth 1 https://github.com/fullstackdegen/agent-audit\n# See source for mcpServers config block"
+}

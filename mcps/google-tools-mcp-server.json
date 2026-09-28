@@ -1,0 +1,7 @@
+{
+  "name": "google-tools-mcp-server",
+  "description": "Enables AI agents to interact with Google Workspace services (Gmail, Drive, Docs, Tasks, Calendar) through OAuth 2.0 authentication, providing 25+ operations for business automation and productivity.",
+  "source_repo": "vijayPrajapatii/Google_workspace_mcp",
+  "source_url": "https://github.com/vijayPrajapatii/Google_workspace_mcp",
+  "install": "npx -y Google_workspace_mcp"
+}

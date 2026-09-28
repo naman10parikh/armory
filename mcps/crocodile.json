@@ -1,0 +1,7 @@
+{
+  "name": "crocodile",
+  "description": "Enables querying and replaying deterministic market data for crypto and US equities from a local Parquet lake via natural language.",
+  "source_repo": "nazmiefearmutcu/Crocodile",
+  "source_url": "https://github.com/nazmiefearmutcu/Crocodile",
+  "install": "# git clone --depth 1 https://github.com/nazmiefearmutcu/Crocodile\n# See source for mcpServers config block"
+}

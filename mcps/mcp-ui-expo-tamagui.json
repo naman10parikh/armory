@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ui-expo-tamagui",
+  "description": "Generates React Native/Expo UI components using AI, integrates with Claude Desktop to create and optimize Tamagui-based components via natural language commands.",
+  "source_repo": "Tai-DT/mcp-ui-expo-tamagui",
+  "source_url": "https://github.com/Tai-DT/mcp-ui-expo-tamagui",
+  "install": "# git clone --depth 1 https://github.com/Tai-DT/mcp-ui-expo-tamagui\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gong-universal-mcp-server",
+  "description": "Enables integration with Gong's sales platform through MCP, providing access to tools and services for sales engagement tracking and analytics.",
+  "source_repo": "universal-mcp/gong",
+  "source_url": "https://github.com/universal-mcp/gong",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/gong\n# See source for mcpServers config block"
+}

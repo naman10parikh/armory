@@ -1,0 +1,7 @@
+{
+  "name": "toon-parse-mcp",
+  "description": "An MCP server that helps AI agents reduce token usage by converting data to TOON format and stripping comments and unnecessary whitespace from code files.",
+  "source_repo": "ankitpal181/toon-parse-mcp",
+  "source_url": "https://github.com/ankitpal181/toon-parse-mcp",
+  "install": "npx -y toon-parse-mcp"
+}

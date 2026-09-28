@@ -1,0 +1,7 @@
+{
+  "name": "infoway-mcp-server",
+  "description": "Gives AI assistants access to real-time financial data including stock prices, crypto, forex, market sentiment, sector analysis, and company fundamentals via the Infoway API.",
+  "source_repo": "infoway-api/infoway-mcp-server",
+  "source_url": "https://github.com/infoway-api/infoway-mcp-server",
+  "install": "npx -y infoway-mcp-server"
+}

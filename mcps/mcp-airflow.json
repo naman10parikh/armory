@@ -1,0 +1,7 @@
+{
+  "name": "mcp-airflow",
+  "description": "MCP server exposing Apache Airflow REST API operations as tools — list DAGs, inspect runs and task instances, trigger DAG runs, and check failed DAGs and scheduler health",
+  "source_repo": "antonio-mello-ai/mcp-airflow",
+  "source_url": "https://github.com/antonio-mello-ai/mcp-airflow",
+  "install": "# git clone --depth 1 https://github.com/antonio-mello-ai/mcp-airflow\n# See source for mcpServers config block"
+}

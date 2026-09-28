@@ -1,0 +1,7 @@
+{
+  "name": "voice-analysis-mcp",
+  "description": "Provides local audio analysis tools for LLMs, enabling transcription, conversation dynamics, prosody analysis, and visual inspection without API keys.",
+  "source_repo": "Patience-dot-devl/Voice-analysis.mcp",
+  "source_url": "https://github.com/Patience-dot-devl/Voice-analysis.mcp",
+  "install": "# git clone --depth 1 https://github.com/Patience-dot-devl/Voice-analysis.mcp\n# See source for mcpServers config block"
+}

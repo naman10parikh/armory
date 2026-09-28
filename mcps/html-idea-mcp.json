@@ -1,0 +1,7 @@
+{
+  "name": "html-idea-mcp",
+  "description": "Enables saving structured development ideas as HTML files from Claude Code CLI or claude.ai, capturing titles, summaries, features, tech stacks, phases, and other planning details using provided tools.",
+  "source_repo": "SOOJUNBARNG/Claude_base_html_make_MCP",
+  "source_url": "https://github.com/SOOJUNBARNG/Claude_base_html_make_MCP",
+  "install": "npx -y Claude_base_html_make_MCP"
+}

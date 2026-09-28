@@ -1,0 +1,7 @@
+{
+  "name": "eu-open-banking-mcp",
+  "description": "Enables secure, read-only access to personal European bank accounts through Enable Banking and Cloudflare Workers, allowing MCP clients to list accounts, retrieve balances, search transactions, and summarize cash flow.",
+  "source_repo": "cver-me/EU-Open-Banking-MCP",
+  "source_url": "https://github.com/cver-me/EU-Open-Banking-MCP",
+  "install": "npx -y EU-Open-Banking-MCP"
+}

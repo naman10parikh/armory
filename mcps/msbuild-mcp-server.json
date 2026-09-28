@@ -1,0 +1,7 @@
+{
+  "name": "msbuild-mcp-server",
+  "description": "Enables building MSBuild projects and solutions by dynamically locating MSBuild and providing customizable build options, with clear error reporting and cross-client compatibility.",
+  "source_repo": "zenoengine/msbuild-mcp-server",
+  "source_url": "https://github.com/zenoengine/msbuild-mcp-server",
+  "install": "npx -y msbuild-mcp-server"
+}

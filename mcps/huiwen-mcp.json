@@ -1,0 +1,7 @@
+{
+  "name": "huiwen-mcp",
+  "description": "Enables AI clients to securely query library catalog data, holdings, availability, and statistics from the Huiben library management system via a read-only MCP server.",
+  "source_repo": "isaacwang2023-droid/huiwen-mcp",
+  "source_url": "https://github.com/isaacwang2023-droid/huiwen-mcp",
+  "install": "npx -y huiwen-mcp"
+}

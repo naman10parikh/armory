@@ -1,0 +1,7 @@
+{
+  "name": "bamboo-mcp-server",
+  "description": "Enables management of Atlassian Bamboo CI/CD pipelines, projects, plans, builds, and deployments through natural language commands.",
+  "source_repo": "mvadly/bamboo-mcp",
+  "source_url": "https://github.com/mvadly/bamboo-mcp",
+  "install": "npx -y bamboo-mcp"
+}

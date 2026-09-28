@@ -1,0 +1,7 @@
+{
+  "name": "phabricator-mcp-server",
+  "description": "Enables interaction with Phabricator via MCP tools for task/revision management and RAG-based semantic search over indexed tasks and revisions.",
+  "source_repo": "palash018/Phab-MCP-RAG",
+  "source_url": "https://github.com/palash018/Phab-MCP-RAG",
+  "install": "# git clone --depth 1 https://github.com/palash018/Phab-MCP-RAG\n# See source for mcpServers config block"
+}

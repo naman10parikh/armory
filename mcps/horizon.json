@@ -1,0 +1,7 @@
+{
+  "name": "horizon",
+  "description": "An MCP server that connects AI assistants to university D2L Brightspace and Piazza, enabling query of courses, grades, assignments, deadlines, files, and Piazza posts.",
+  "source_repo": "hamzakammar/mcp-workspace",
+  "source_url": "https://github.com/hamzakammar/mcp-workspace",
+  "install": "# git clone --depth 1 https://github.com/hamzakammar/mcp-workspace\n# See source for mcpServers config block"
+}

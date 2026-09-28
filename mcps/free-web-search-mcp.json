@@ -1,0 +1,7 @@
+{
+  "name": "free-web-search-mcp",
+  "description": "This MCP server enables free web search and page content extraction using real browsers, with support for multiple search engines and stealth browser backends. It provides tools for searching, fetching pages, and setting up the Camoufox stealth browser.",
+  "source_repo": "adi-santoso/gatrion-free-web-search-mcp",
+  "source_url": "https://github.com/adi-santoso/gatrion-free-web-search-mcp",
+  "install": "npx -y gatrion-free-web-search-mcp"
+}

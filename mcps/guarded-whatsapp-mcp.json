@@ -1,0 +1,7 @@
+{
+  "name": "guarded-whatsapp-mcp",
+  "description": "Governs and automates WhatsApp messaging for AI agents with security controls like recipient allowlisting, secret scanning, rate limiting, and audit logging.",
+  "source_repo": "peter-tnc-453/guarded-whatsapp-mcp",
+  "source_url": "https://github.com/peter-tnc-453/guarded-whatsapp-mcp",
+  "install": "npx -y guarded-whatsapp-mcp"
+}

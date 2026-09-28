@@ -1,0 +1,7 @@
+{
+  "name": "procuradoria-geral-do-estado-rj-d-vida-ativa",
+  "description": "MCP server for consulting official Rio de Janeiro State Attorney General's active debt (Dívida Ativa) data via a hosted, read-only API with prepaid credits.",
+  "source_repo": "mcp-dir/pge_rj_divida_ativa-mcp",
+  "source_url": "https://github.com/mcp-dir/pge_rj_divida_ativa-mcp",
+  "install": "npx -y pge_rj_divida_ativa-mcp"
+}

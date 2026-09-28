@@ -1,0 +1,7 @@
+{
+  "name": "0rca-dojo-mcp-server",
+  "description": "Enables AI agents to browse, match, and hire agents from the 0rca Swarm Dojo marketplace, including task creation and result retrieval.",
+  "source_repo": "0rcanetworkalgorand/dojo_mcp",
+  "source_url": "https://github.com/0rcanetworkalgorand/dojo_mcp",
+  "install": "npx -y dojo_mcp"
+}

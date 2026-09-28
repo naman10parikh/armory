@@ -1,0 +1,7 @@
+{
+  "name": "tiger-skills-mcp-server",
+  "description": "Emulates Claude Skills with any LLM via MCP, enabling agents to use modular skill packages for specialized workflows and tool integrations.",
+  "source_repo": "timescale/tiger-skills-mcp-server",
+  "source_url": "https://github.com/timescale/tiger-skills-mcp-server",
+  "install": "npx -y tiger-skills-mcp-server"
+}

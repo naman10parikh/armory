@@ -1,0 +1,7 @@
+{
+  "name": "verification-mcp",
+  "description": "Enables AI agents to fact-check claims, verify citations, and check source freshness using Wikipedia, Wikidata, Crossref, and Wayback Machine.",
+  "source_repo": "guptaprakhariitr/verification-mcp",
+  "source_url": "https://github.com/guptaprakhariitr/verification-mcp",
+  "install": "npx -y verification-mcp"
+}

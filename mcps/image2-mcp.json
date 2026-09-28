@@ -1,0 +1,7 @@
+{
+  "name": "image2-mcp",
+  "description": "MCP server for the company image2 text-to-image API, enabling AI tools to generate images directly from text prompts.",
+  "source_repo": "Paipai112/image2-mcp",
+  "source_url": "https://github.com/Paipai112/image2-mcp",
+  "install": "npx -y image2-mcp"
+}

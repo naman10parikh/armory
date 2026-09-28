@@ -1,0 +1,7 @@
+{
+  "name": "gpt-image-2-mcp-server",
+  "description": "Enables image generation and editing using OpenAI's GPT Image 2 model within a Claude Desktop Code project workspace, with security boundaries and no-overwrite file handling.",
+  "source_repo": "kpkhxlgy0/claude-openai-gpt-image",
+  "source_url": "https://github.com/kpkhxlgy0/claude-openai-gpt-image",
+  "install": "# git clone --depth 1 https://github.com/kpkhxlgy0/claude-openai-gpt-image\n# See source for mcpServers config block"
+}

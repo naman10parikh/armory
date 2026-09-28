@@ -1,0 +1,7 @@
+{
+  "name": "nordic-data-mcp",
+  "description": "Enables AI assistants to access official European business data across 15 EU countries, including company lookups, VAT validation, sanctions screening, and KYB reports.",
+  "source_repo": "Mnymann/nordic-data-mcp",
+  "source_url": "https://github.com/Mnymann/nordic-data-mcp",
+  "install": "npx -y nordic-data-mcp"
+}

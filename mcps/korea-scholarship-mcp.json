@@ -1,0 +1,7 @@
+{
+  "name": "korea-scholarship-mcp",
+  "description": "Exposes KCI and OAK Korean bibliographic services as MCP tools for searching, harvesting, and retrieving articles, references, and journal metrics.",
+  "source_repo": "ckgerteis/korea-scholarship-mcp",
+  "source_url": "https://github.com/ckgerteis/korea-scholarship-mcp",
+  "install": "npx -y korea-scholarship-mcp"
+}

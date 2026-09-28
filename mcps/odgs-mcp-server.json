@@ -1,0 +1,7 @@
+{
+  "name": "odgs-mcp-server",
+  "description": "Connects AI agents to the ODGS Sovereign Validation Engine for deterministic governance enforcement, producing cryptographically signed S-Certs for auditable compliance with regulations like EU AI Act.",
+  "source_repo": "MetricProvenance/odgs-mcp-server",
+  "source_url": "https://github.com/MetricProvenance/odgs-mcp-server",
+  "install": "npx -y odgs-mcp-server"
+}

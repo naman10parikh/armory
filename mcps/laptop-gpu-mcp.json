@@ -1,0 +1,7 @@
+{
+  "name": "laptop-gpu-mcp",
+  "description": "A minimal MCP server for running Python scripts on a remote machine over HTTP, exposing tools to Claude for script discovery, execution, and job status tracking.",
+  "source_repo": "mbeh768/laptop_gpu_mcp",
+  "source_url": "https://github.com/mbeh768/laptop_gpu_mcp",
+  "install": "npx -y laptop_gpu_mcp"
+}

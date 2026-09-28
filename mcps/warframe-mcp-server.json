@@ -1,0 +1,7 @@
+{
+  "name": "warframe-mcp-server",
+  "description": "Provides AI assistants with real-time access to Warframe market data and game information, including item search, orders, statistics, and liquidity estimates.",
+  "source_repo": "RainRaini4/warframe-mcp",
+  "source_url": "https://github.com/RainRaini4/warframe-mcp",
+  "install": "npx -y warframe-mcp"
+}

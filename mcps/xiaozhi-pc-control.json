@@ -1,0 +1,7 @@
+{
+  "name": "xiaozhi-pc-control",
+  "description": "MCP server enabling voice-controlled Windows PC automation via Xiaozhi AI, supporting 200+ apps, media playback control, and terminal command execution.",
+  "source_repo": "violet-05/xiaozhi-butler-",
+  "source_url": "https://github.com/violet-05/xiaozhi-butler-",
+  "install": "# git clone --depth 1 https://github.com/violet-05/xiaozhi-butler-\n# See source for mcpServers config block"
+}

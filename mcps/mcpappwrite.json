@@ -1,0 +1,7 @@
+{
+  "name": "mcpappwrite",
+  "description": "A minimal Python MCP Todo server backed by Appwrite Cloud, providing tools to add, list, get, update, complete, and delete tasks.",
+  "source_repo": "sirishdasari/mcpappwrite",
+  "source_url": "https://github.com/sirishdasari/mcpappwrite",
+  "install": "# git clone --depth 1 https://github.com/sirishdasari/mcpappwrite\n# See source for mcpServers config block"
+}

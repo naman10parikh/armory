@@ -1,0 +1,7 @@
+{
+  "name": "ris-mcp",
+  "description": "MCP server that exposes Austrian federal law (Bundesrecht) to LLMs, enabling full-text search, paragraph retrieval, historical versions, statute lookup, BGBl lookups, amendment timelines, and citation searches via the public RIS OGD API.",
+  "source_repo": "noahpfi/ris-mcp",
+  "source_url": "https://github.com/noahpfi/ris-mcp",
+  "install": "npx -y ris-mcp"
+}

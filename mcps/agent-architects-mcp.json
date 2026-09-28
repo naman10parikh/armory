@@ -1,0 +1,7 @@
+{
+  "name": "agent-architects-mcp",
+  "description": "Enables searching and retrieving lessons, posts, comments, and member profiles from the Agent Architects community knowledge base for use with AI clients.",
+  "source_repo": "grandamenium/agent-architects-mcp",
+  "source_url": "https://github.com/grandamenium/agent-architects-mcp",
+  "install": "npx -y agent-architects-mcp"
+}

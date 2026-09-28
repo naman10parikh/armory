@@ -1,0 +1,7 @@
+{
+  "name": "agent-coordination-hub",
+  "description": "Enables coordinating multiple AI agents over HTTP with authenticated messaging, cached read-only Notion context, and safe proxying to registered endpoints.",
+  "source_repo": "IDSNR/mcp-prototype",
+  "source_url": "https://github.com/IDSNR/mcp-prototype",
+  "install": "# git clone --depth 1 https://github.com/IDSNR/mcp-prototype\n# See source for mcpServers config block"
+}

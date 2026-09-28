@@ -1,0 +1,7 @@
+{
+  "name": "sales-analytics",
+  "description": "Enables LLMs to load tabular data from CSV/Excel/JSON, clean and analyze it, generate charts, and write a report with conclusions.",
+  "source_repo": "ibezgachev/sales-analytics-mcp",
+  "source_url": "https://github.com/ibezgachev/sales-analytics-mcp",
+  "install": "npx -y sales-analytics-mcp"
+}

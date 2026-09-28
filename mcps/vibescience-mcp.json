@@ -1,0 +1,7 @@
+{
+  "name": "vibescience-mcp",
+  "description": "A scientific experiment log MCP server for AI agents that stores predictions, causal claims, and verdicts, enabling queryable causal maps and calibration of intuition over diagnostics.",
+  "source_repo": "AntonIXO/vibescience-mcp",
+  "source_url": "https://github.com/AntonIXO/vibescience-mcp",
+  "install": "npx -y vibescience-mcp"
+}

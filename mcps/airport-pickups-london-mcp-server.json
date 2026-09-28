@@ -1,0 +1,7 @@
+{
+  "name": "airport-pickups-london-mcp-server",
+  "description": "Enables AI agents to get fixed-price quotes and book London airport transfers, with flight validation and inter-agent communication via A2A protocol.",
+  "source_repo": "mfy-apl/apl-mcp-server",
+  "source_url": "https://github.com/mfy-apl/apl-mcp-server",
+  "install": "npx -y apl-mcp-server"
+}

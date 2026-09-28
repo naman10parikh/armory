@@ -1,0 +1,7 @@
+{
+  "name": "rarecloudio-mcp-server",
+  "description": "Read-only MCP server for the RareCloud API, enabling AI agents to list servers, browse the catalog, check billing, and plan deployments.",
+  "source_repo": "RareCloudio/rarecloud-mcp-server",
+  "source_url": "https://github.com/RareCloudio/rarecloud-mcp-server",
+  "install": "npx -y rarecloud-mcp-server"
+}

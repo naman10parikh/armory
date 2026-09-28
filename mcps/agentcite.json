@@ -1,0 +1,7 @@
+{
+  "name": "agentcite",
+  "description": "Fabrication-free, DOI-backed citations for AI content and agents, using openAlex public-domain data with resolvable DOIs. Includes an API and planned MCP server for agent-native citation retrieval.",
+  "source_repo": "Kevinx702/agentcite",
+  "source_url": "https://github.com/Kevinx702/agentcite",
+  "install": "# git clone --depth 1 https://github.com/Kevinx702/agentcite\n# See source for mcpServers config block"
+}

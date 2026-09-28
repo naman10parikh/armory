@@ -1,0 +1,7 @@
+{
+  "name": "ignav-flights-mcp-server",
+  "description": "Provides live flight prices, booking links, and airport lookup via a hosted MCP server. Enables search for flights and direct booking URL retrieval.",
+  "source_repo": "gusgordon/ignav-skill",
+  "source_url": "https://github.com/gusgordon/ignav-skill",
+  "install": "# git clone --depth 1 https://github.com/gusgordon/ignav-skill\n# See source for mcpServers config block"
+}

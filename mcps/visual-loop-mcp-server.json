@@ -1,0 +1,7 @@
+{
+  "name": "visual-loop-mcp-server",
+  "description": "Enables AI clients to write, run, and visually render code in a single loop, combining secure execution via Judge0/Codebox with Playwright screenshots.",
+  "source_repo": "IqbalHere/Visual-Loop-MCP-Server",
+  "source_url": "https://github.com/IqbalHere/Visual-Loop-MCP-Server",
+  "install": "npx -y Visual-Loop-MCP-Server"
+}

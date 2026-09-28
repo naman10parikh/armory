@@ -1,0 +1,7 @@
+{
+  "name": "cop-plug",
+  "description": "Enables AI assistants to execute PowerShell commands, manage files, inspect projects, run Git operations, and monitor system information on Windows through a local MCP server.",
+  "source_repo": "beepoo304/COP-Plug",
+  "source_url": "https://github.com/beepoo304/COP-Plug",
+  "install": "# git clone --depth 1 https://github.com/beepoo304/COP-Plug\n# See source for mcpServers config block"
+}

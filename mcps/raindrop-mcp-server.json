@@ -1,0 +1,7 @@
+{
+  "name": "raindrop-mcp-server",
+  "description": "An MCP server that exposes Raindrop.io's bookmark management API as tools for AI assistants, enabling collection, bookmark, and tag operations.",
+  "source_repo": "cash/raindrop_mcp_server",
+  "source_url": "https://github.com/cash/raindrop_mcp_server",
+  "install": "npx -y raindrop_mcp_server"
+}

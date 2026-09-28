@@ -1,0 +1,7 @@
+{
+  "name": "moo-tasks",
+  "description": "MCP server for agentic task orchestration and management, enabling AI agents to create goals, plan tasks with acceptance criteria, track dependencies, request human input, and provide proof of completion.",
+  "source_repo": "shekarsiri/moo-tasks",
+  "source_url": "https://github.com/shekarsiri/moo-tasks",
+  "install": "# git clone --depth 1 https://github.com/shekarsiri/moo-tasks\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xiaozhi-youtube-mcp",
+  "description": "Enables searching and playing songs via YouTube Data API v3, returning YouTube playback URLs.",
+  "source_repo": "tuyennn/xiaozhi-youtube-mcp",
+  "source_url": "https://github.com/tuyennn/xiaozhi-youtube-mcp",
+  "install": "npx -y xiaozhi-youtube-mcp"
+}

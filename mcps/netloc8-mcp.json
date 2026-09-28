@@ -1,0 +1,7 @@
+{
+  "name": "netloc8-mcp",
+  "description": "Model Context Protocol server for the NetLoc8 IP geolocation API. Gives AI assistants access to country/city lookup, timezone reconciliation, and IP utilities.",
+  "source_repo": "netloc8/netloc8-mcp",
+  "source_url": "https://github.com/netloc8/netloc8-mcp",
+  "install": "npx -y netloc8-mcp"
+}

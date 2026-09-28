@@ -1,0 +1,7 @@
+{
+  "name": "applenotes-mcp",
+  "description": "An MCP server for Apple Notes that creates, reads, edits, and searches notes with proper formatting (headings, lists, tables, checklists) and file attachments.",
+  "source_repo": "iangray001/applenotes-mcp",
+  "source_url": "https://github.com/iangray001/applenotes-mcp",
+  "install": "npx -y applenotes-mcp"
+}

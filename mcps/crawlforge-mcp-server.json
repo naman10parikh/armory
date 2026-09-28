@@ -1,0 +1,7 @@
+{
+  "name": "crawlforge-mcp-server",
+  "description": "Provides 27 MCP-native tools for web scraping, crawling, deep research, and autonomous extraction, delivering clean Markdown and structured JSON from any website.",
+  "source_repo": "mysleekdesigns/crawlforge-mcp",
+  "source_url": "https://github.com/mysleekdesigns/crawlforge-mcp",
+  "install": "npx -y crawlforge-mcp"
+}

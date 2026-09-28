@@ -1,0 +1,7 @@
+{
+  "name": "qwen-mcp",
+  "description": "A lightweight Node.js MCP server that integrates Alibaba Cloud's Qwen models, providing vision understanding, real-time web search, and general chat capabilities through three ready-to-use tools.",
+  "source_repo": "HUAN425/reasonix-qwen-mcp",
+  "source_url": "https://github.com/HUAN425/reasonix-qwen-mcp",
+  "install": "npx -y reasonix-qwen-mcp"
+}

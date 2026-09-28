@@ -1,0 +1,7 @@
+{
+  "name": "mailpal-mcp-server",
+  "description": "Free email server for AI agents with hardware attestation, enabling agents to send, receive, and manage emails via MCP tools.",
+  "source_repo": "mailpal-com/mcp-server",
+  "source_url": "https://github.com/mailpal-com/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/mailpal-com/mcp-server\n# See source for mcpServers config block"
+}

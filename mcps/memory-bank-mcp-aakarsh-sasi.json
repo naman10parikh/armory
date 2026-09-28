@@ -1,0 +1,7 @@
+{
+  "name": "memory-bank-mcp-aakarsh-sasi",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/memory-bank-mcp-aakarsh-sasi",
+  "install": "# git clone --depth 1 https://mcp.so/server/memory-bank-mcp-aakarsh-sasi\n# See source for mcpServers config block"
+}

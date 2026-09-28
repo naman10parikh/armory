@@ -1,0 +1,7 @@
+{
+  "name": "d-d-beyond-mcp-server",
+  "description": "A Model Context Protocol server that gives Claude direct access to your D\\&D Beyond account for characters, campaigns, sourcebooks, spells, monsters, rules, encounters, and treasure.",
+  "source_repo": "iamjameslennon/ddb-mcp",
+  "source_url": "https://github.com/iamjameslennon/ddb-mcp",
+  "install": "npx -y ddb-mcp"
+}

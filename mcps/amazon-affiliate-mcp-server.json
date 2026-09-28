@@ -1,0 +1,7 @@
+{
+  "name": "amazon-affiliate-mcp-server",
+  "description": "Enables AI assistants to recommend Amazon products with automatic affiliate link insertion, supporting product search, deals, bestsellers, and promotional content.",
+  "source_repo": "heikowagner/amazon-affiliate-mcp",
+  "source_url": "https://github.com/heikowagner/amazon-affiliate-mcp",
+  "install": "npx -y amazon-affiliate-mcp"
+}

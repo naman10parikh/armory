@@ -1,0 +1,7 @@
+{
+  "name": "sentiment-analyzer",
+  "description": "Provides a hello and echo tool for basic interaction.",
+  "source_repo": "DON-VXNKS/mcp-sentiment-analyzer",
+  "source_url": "https://github.com/DON-VXNKS/mcp-sentiment-analyzer",
+  "install": "# git clone --depth 1 https://github.com/DON-VXNKS/mcp-sentiment-analyzer\n# See source for mcpServers config block"
+}

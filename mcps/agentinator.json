@@ -1,0 +1,7 @@
+{
+  "name": "agentinator",
+  "description": "Local-first MCP server for repo-scoped development tasks like inspection, testing, documentation, and patching, designed to complement Cline with a structured local execution layer.",
+  "source_repo": "ESS-ROOT-DIR/agentinator",
+  "source_url": "https://github.com/ESS-ROOT-DIR/agentinator",
+  "install": "# git clone --depth 1 https://github.com/ESS-ROOT-DIR/agentinator\n# See source for mcpServers config block"
+}

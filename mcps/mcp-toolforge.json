@@ -1,0 +1,7 @@
+{
+  "name": "mcp-toolforge",
+  "description": "Enables AI agents to generate complete, runnable MCP server projects from natural-language tool descriptions, including schema, implementation, tests, README, and license.",
+  "source_repo": "itsPremkumar/mcp-toolforge",
+  "source_url": "https://github.com/itsPremkumar/mcp-toolforge",
+  "install": "# git clone --depth 1 https://github.com/itsPremkumar/mcp-toolforge\n# See source for mcpServers config block"
+}

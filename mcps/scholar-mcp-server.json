@@ -1,0 +1,7 @@
+{
+  "name": "scholar-mcp-server",
+  "description": "Unified MCP server for scientific literature search and extraction, integrating databases like Scopus, OpenAlex, Semantic Scholar, and Unpaywall to enable AI agents to discover papers, track citations, and analyze content.",
+  "source_repo": "mlintangmz2765/Scholar-MCP",
+  "source_url": "https://github.com/mlintangmz2765/Scholar-MCP",
+  "install": "npx -y Scholar-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "illustrator-ai-mcp-server",
+  "description": "An MCP server that lets AI assistants control Adobe Illustrator locally—running ExtendScript, capturing canvas screenshots, exporting artwork, and optionally remembering techniques—all without network activity.",
+  "source_repo": "Gokul2/illustrator-mcp-Gokul-Dhatkshina-Moorthy-",
+  "source_url": "https://github.com/Gokul2/illustrator-mcp-Gokul-Dhatkshina-Moorthy-",
+  "install": "# git clone --depth 1 https://github.com/Gokul2/illustrator-mcp-Gokul-Dhatkshina-Moorthy-\n# See source for mcpServers config block"
+}

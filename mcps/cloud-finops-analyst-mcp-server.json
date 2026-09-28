@@ -1,0 +1,7 @@
+{
+  "name": "cloud-finops-analyst-mcp-server",
+  "description": "Enables analyzing AWS cloud costs through natural language queries, providing cost summaries, anomaly detection, idle resource identification, rightsizing recommendations, and tagging compliance via Claude.",
+  "source_repo": "mihirkadam19/finops-mcp-server",
+  "source_url": "https://github.com/mihirkadam19/finops-mcp-server",
+  "install": "npx -y finops-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "actionstep-mcp-server",
+  "description": "A starter MCP server for Actionstep-style conveyancing automation, providing example tools like ping and list_conveyancing_actions, plus a health endpoint.",
+  "source_repo": "mayank2012/Node.js_MCP_Server_Development",
+  "source_url": "https://github.com/mayank2012/Node.js_MCP_Server_Development",
+  "install": "# git clone --depth 1 https://github.com/mayank2012/Node.js_MCP_Server_Development\n# See source for mcpServers config block"
+}

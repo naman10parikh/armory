@@ -1,0 +1,7 @@
+{
+  "name": "bolagsapi-mcp-server",
+  "description": "MCP server for Swedish company data. Enables AI agents to lookup companies, analyze financials, assess health, screen compliance, and get industry stats.",
+  "source_repo": "HugoAndFriends/BolagsAPI-mcp-server",
+  "source_url": "https://github.com/HugoAndFriends/BolagsAPI-mcp-server",
+  "install": "npx -y BolagsAPI-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "attestix",
+  "description": "MCP server for compliance automation of AI agents, enabling EU AI Act compliance, verifiable credentials, and decentralized identity management with 47 tools across 9 modules.",
+  "source_repo": "VibeTensor/attestix",
+  "source_url": "https://github.com/VibeTensor/attestix",
+  "install": "# git clone --depth 1 https://github.com/VibeTensor/attestix\n# See source for mcpServers config block"
+}

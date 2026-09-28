@@ -1,0 +1,7 @@
+{
+  "name": "ctxd",
+  "description": "A vendor-neutral, release-aware context contract and MCP runtime that provides reliable data agents with compact metadata, semantic definitions, and validated SQL compilation.",
+  "source_repo": "thisis-gp/ctxd",
+  "source_url": "https://github.com/thisis-gp/ctxd",
+  "install": "# git clone --depth 1 https://github.com/thisis-gp/ctxd\n# See source for mcpServers config block"
+}

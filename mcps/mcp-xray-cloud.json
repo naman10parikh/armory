@@ -1,0 +1,7 @@
+{
+  "name": "mcp-xray-cloud",
+  "description": "An MCP server that connects AI assistants to Xray Cloud for Jira test management, enabling natural language interaction with tests, test plans, executions, and CI result imports.",
+  "source_repo": "remynln/mcp-xray-cloud",
+  "source_url": "https://github.com/remynln/mcp-xray-cloud",
+  "install": "# git clone --depth 1 https://github.com/remynln/mcp-xray-cloud\n# See source for mcpServers config block"
+}

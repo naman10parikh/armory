@@ -1,0 +1,7 @@
+{
+  "name": "hostinger-mcp-server",
+  "description": "Connect any MCP-compatible AI agent to the full Hostinger platform. Manage VPS, domains, DNS, hosting, WordPress, email, ecommerce, and more through natural language.",
+  "source_repo": "idugeni/hostinger-mcp",
+  "source_url": "https://github.com/idugeni/hostinger-mcp",
+  "install": "npx -y hostinger-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "restaurant-reservation-monitor-mcp",
+  "description": "Enables monitoring restaurant reservation availability while handling CAPTCHA challenges using CapSolver, with allowlisted targets and bounded resume.",
+  "source_repo": "CaLuya-Rita/restaurant-reservation-monitor-mcp-captcha-capsolver",
+  "source_url": "https://github.com/CaLuya-Rita/restaurant-reservation-monitor-mcp-captcha-capsolver",
+  "install": "# git clone --depth 1 https://github.com/CaLuya-Rita/restaurant-reservation-monitor-mcp-captcha-capsolver\n# See source for mcpServers config block"
+}

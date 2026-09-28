@@ -1,0 +1,7 @@
+{
+  "name": "cairn-mcp-server",
+  "description": "A self-hosted persistent memory platform for AI agents and humans offering tools for memory storage, search, beliefs, work management, and code intelligence via MCP.",
+  "source_repo": "jasondostal/cairn-mcp",
+  "source_url": "https://github.com/jasondostal/cairn-mcp",
+  "install": "npx -y cairn-mcp"
+}

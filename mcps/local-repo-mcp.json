@@ -1,0 +1,7 @@
+{
+  "name": "local-repo-mcp",
+  "description": "Secure agent coding runtime for local Git repos with policy enforcement, RBAC, sessions, approval workflow, and sandboxed writes, optionally connectable to ChatGPT via Secure MCP Tunnel.",
+  "source_repo": "cloud-Xolt/local-repo-mcp",
+  "source_url": "https://github.com/cloud-Xolt/local-repo-mcp",
+  "install": "npx -y local-repo-mcp"
+}

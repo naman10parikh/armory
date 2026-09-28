@@ -1,0 +1,7 @@
+{
+  "name": "activities-mcp",
+  "description": "MCP server that provides read-only access to cached metadata of public activities, contests, and competitions from multiple sources via SQLite, enabling search and listing without hitting external sites.",
+  "source_repo": "kyowon1108/activities-mcp",
+  "source_url": "https://github.com/kyowon1108/activities-mcp",
+  "install": "npx -y activities-mcp"
+}

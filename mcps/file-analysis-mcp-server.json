@@ -1,6 +1,6 @@
 {
   "name": "file-analysis-mcp-server",
-  "description": "File Analysis Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "huangyz0918/file-analysis-mcp-server",
   "source_url": "https://mcp.so/server/file-analysis-mcp-server/huangyz0918",
   "install": "npx -y file-analysis-mcp-server"

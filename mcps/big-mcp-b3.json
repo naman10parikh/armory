@@ -1,0 +1,7 @@
+{
+  "name": "big-mcp-b3",
+  "description": "MCP server for B3 (Brazilian stock exchange) data, offering tools for real-time quotes, historical prices, dividends, FIIs, fundamental analysis, options, and indices via natural language.",
+  "source_repo": "danielvm-git/big-mcp-b3",
+  "source_url": "https://github.com/danielvm-git/big-mcp-b3",
+  "install": "# git clone --depth 1 https://github.com/danielvm-git/big-mcp-b3\n# See source for mcpServers config block"
+}

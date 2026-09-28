@@ -1,0 +1,7 @@
+{
+  "name": "docs2mcp",
+  "description": "Enables any compatible MCP client or AI agent to retrieve documentation from a local directory of Markdown, HTML, or TXT files via a remote, read-only MCP server.",
+  "source_repo": "r9s-ai/docs2mcp",
+  "source_url": "https://github.com/r9s-ai/docs2mcp",
+  "install": "# git clone --depth 1 https://github.com/r9s-ai/docs2mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mymlh-mcp-server",
+  "description": "Enables AI assistants to securely access and manage MyMLH user data, including profiles, education, and employment history, through OAuth-authenticated MCP tools.",
+  "source_repo": "sammy-nug/mlh-mcp-server",
+  "source_url": "https://github.com/sammy-nug/mlh-mcp-server",
+  "install": "npx -y mlh-mcp-server"
+}

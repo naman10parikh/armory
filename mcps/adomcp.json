@@ -1,0 +1,7 @@
+{
+  "name": "adomcp",
+  "description": "AdoMcp is a Model Context Protocol (MCP) server that helps large language models (LLMs) understand database structure, read table comments, and execute SQL queries.",
+  "source_repo": "John0King/AdoMCP",
+  "source_url": "https://github.com/John0King/AdoMCP",
+  "install": "# git clone --depth 1 https://github.com/John0King/AdoMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "glygen-mcp-server",
+  "description": "MCP server that enables querying GlyGen for summaries of proteins, glycans, sites, biomarkers, and diseases.",
+  "source_repo": "glygener/glygen-mcp-server",
+  "source_url": "https://github.com/glygener/glygen-mcp-server",
+  "install": "npx -y glygen-mcp-server"
+}

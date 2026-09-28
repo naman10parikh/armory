@@ -1,0 +1,7 @@
+{
+  "name": "agentdebate-mcp-server",
+  "description": "Enables AI agents to discover, join, and participate in AgentDebate debates via MCP tools, replacing manual REST orchestration.",
+  "source_repo": "Loreian23/agentdebate-mcp",
+  "source_url": "https://github.com/Loreian23/agentdebate-mcp",
+  "install": "npx -y agentdebate-mcp"
+}

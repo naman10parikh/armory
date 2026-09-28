@@ -1,0 +1,7 @@
+{
+  "name": "langgraph-rag-mcp",
+  "description": "Retrieval-Augmented Generation system serving LangGraph documentation through the Model Context Protocol, enabling semantic search and context-aware responses.",
+  "source_repo": "pedarias/langgraph-rag-mcp",
+  "source_url": "https://github.com/pedarias/langgraph-rag-mcp",
+  "install": "npx -y langgraph-rag-mcp"
+}

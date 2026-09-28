@@ -1,0 +1,7 @@
+{
+  "name": "jotform-workflow-mcp-server",
+  "description": "MCP server that exposes Jotform Workflows to AI assistants through 14 tools across discovery, reading, building, and risky actions. It allows creating, reading, updating, publishing, and deleting workflows, as well as managing their steps, all via natural language conversation.",
+  "source_repo": "msukruavci/jotform-workflow-mcp",
+  "source_url": "https://github.com/msukruavci/jotform-workflow-mcp",
+  "install": "npx -y jotform-workflow-mcp"
+}

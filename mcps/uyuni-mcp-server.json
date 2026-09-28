@@ -1,0 +1,7 @@
+{
+  "name": "uyuni-mcp-server",
+  "description": "Bridges LLMs with Uyuni infrastructure management, enabling natural language system administration such as inspecting systems, managing updates, and scheduling actions.",
+  "source_repo": "uyuni-project/mcp-server-uyuni",
+  "source_url": "https://github.com/uyuni-project/mcp-server-uyuni",
+  "install": "# git clone --depth 1 https://github.com/uyuni-project/mcp-server-uyuni\n# See source for mcpServers config block"
+}

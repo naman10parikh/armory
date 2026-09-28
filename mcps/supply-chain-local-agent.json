@@ -1,0 +1,7 @@
+{
+  "name": "supply-chain-local-agent",
+  "description": "Read-only MCP server for a local-first supply chain knowledge base, enabling knowledge search with source evidence, internal system troubleshooting, vendor documentation fallback, vessel tracking, and work handoff preparation.",
+  "source_repo": "wublinux/supply-chain-local-agent",
+  "source_url": "https://github.com/wublinux/supply-chain-local-agent",
+  "install": "# git clone --depth 1 https://github.com/wublinux/supply-chain-local-agent\n# See source for mcpServers config block"
+}

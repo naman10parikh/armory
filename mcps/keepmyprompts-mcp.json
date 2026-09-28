@@ -1,0 +1,7 @@
+{
+  "name": "keepmyprompts-mcp",
+  "description": "Reads saved Keep My Prompts library and fetches prompts by name from any MCP client, read-only.",
+  "source_repo": "simopet/keepmyprompts-mcp",
+  "source_url": "https://github.com/simopet/keepmyprompts-mcp",
+  "install": "npx -y keepmyprompts-mcp"
+}

@@ -1,6 +1,6 @@
 {
   "name": "smallrain",
-  "description": "Smallrain MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "jbyretopx/smallrain",
   "source_url": "https://mcp.so/server/smallrain/jbyretopx",
   "install": "# git clone --depth 1 https://mcp.so/server/smallrain/jbyretopx\n# See source for mcpServers config block"

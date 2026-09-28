@@ -1,0 +1,7 @@
+{
+  "name": "customer-support-mcp-server",
+  "description": "Enables AI-powered customer support with real-time access to CRM, ticketing, and communication tools via MCP, supporting context-aware conversations and automated actions.",
+  "source_repo": "ekluvtech/customersupport",
+  "source_url": "https://github.com/ekluvtech/customersupport",
+  "install": "# git clone --depth 1 https://github.com/ekluvtech/customersupport\n# See source for mcpServers config block"
+}

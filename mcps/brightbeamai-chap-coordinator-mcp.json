@@ -1,0 +1,7 @@
+{
+  "name": "brightbeamai-chap-coordinator-mcp",
+  "description": "Auditable records of human decisions over AI agent work. Approvals, edits, overrides, escalations.",
+  "source_repo": "BrightbeamAI/chap",
+  "source_url": "https://github.com/BrightbeamAI/chap",
+  "install": "# git clone --depth 1 https://github.com/BrightbeamAI/chap\n# See source for mcpServers config block"
+}

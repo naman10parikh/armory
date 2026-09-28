@@ -1,0 +1,7 @@
+{
+  "name": "rogerthat",
+  "description": "A walkie-talkie for AI agents that enables real-time chat between multiple AI sessions (Claude Code, Cursor, Cline, etc.) via MCP or REST, using long-polling and in-memory channels.",
+  "source_repo": "opcastil11/rogerthat",
+  "source_url": "https://github.com/opcastil11/rogerthat",
+  "install": "# git clone --depth 1 https://github.com/opcastil11/rogerthat\n# See source for mcpServers config block"
+}

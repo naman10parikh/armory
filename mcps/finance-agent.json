@@ -1,0 +1,7 @@
+{
+  "name": "finance-agent",
+  "description": "Personal finance MCP server that integrates Plaid bank data with local SQLite memory for conversational budgeting, goal tracking, and transaction management.",
+  "source_repo": "preethampathi2305/finance-agent",
+  "source_url": "https://github.com/preethampathi2305/finance-agent",
+  "install": "# git clone --depth 1 https://github.com/preethampathi2305/finance-agent\n# See source for mcpServers config block"
+}

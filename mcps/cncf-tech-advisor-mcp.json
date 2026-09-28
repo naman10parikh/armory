@@ -1,0 +1,7 @@
+{
+  "name": "cncf-tech-advisor-mcp",
+  "description": "Enables querying the CNCF landscape to search for projects, get detailed information, GitHub metrics, maturity status, and case studies for technology decision support.",
+  "source_repo": "jeanlopezxyz/cncf-tech-advisor-mcp",
+  "source_url": "https://github.com/jeanlopezxyz/cncf-tech-advisor-mcp",
+  "install": "npx -y cncf-tech-advisor-mcp"
+}

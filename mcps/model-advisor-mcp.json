@@ -1,0 +1,7 @@
+{
+  "name": "model-advisor-mcp",
+  "description": "Helps LLMs choose the best AI model for each coding agent by fetching real-time data from OpenCode subscriptions and matching with benchmarks and reasoning capabilities from OpenRouter.",
+  "source_repo": "AlonsoSG0/model-advisor-mcp",
+  "source_url": "https://github.com/AlonsoSG0/model-advisor-mcp",
+  "install": "npx -y model-advisor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "datahub-cm-mcp",
+  "description": "Read-only MCP server for querying Cloudera Manager metrics (CPU, memory, disk, health) for CDP Public Cloud DataHubs via natural language, using workload credentials and Knox.",
+  "source_repo": "zz22394/datahub-cm-mcp",
+  "source_url": "https://github.com/zz22394/datahub-cm-mcp",
+  "install": "npx -y datahub-cm-mcp"
+}

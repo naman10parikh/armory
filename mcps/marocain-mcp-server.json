@@ -1,0 +1,7 @@
+{
+  "name": "marocain-mcp-server",
+  "description": "MCP server for Marocain Investments that enables discovering, scoring, and analyzing Moroccan luxury real estate, along with submitting enquiries through the platform.",
+  "source_repo": "Hei33enberg/Marocain-mcp-server",
+  "source_url": "https://github.com/Hei33enberg/Marocain-mcp-server",
+  "install": "npx -y Marocain-mcp-server"
+}

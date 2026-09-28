@@ -1,0 +1,7 @@
+{
+  "name": "sftp-manager",
+  "description": "MCP server providing safe, sandboxed SFTP access to game servers for AI agents, enabling config editing, addon installation, and backups without shell access.",
+  "source_repo": "Gus2708/sftp-manager",
+  "source_url": "https://github.com/Gus2708/sftp-manager",
+  "install": "# git clone --depth 1 https://github.com/Gus2708/sftp-manager\n# See source for mcpServers config block"
+}

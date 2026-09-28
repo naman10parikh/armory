@@ -1,0 +1,7 @@
+{
+  "name": "command-executor",
+  "description": "Enables shell command execution with automatic pagination for large outputs, supporting custom directories and timeouts.",
+  "source_repo": "andrelip/paginate-stdout",
+  "source_url": "https://github.com/andrelip/paginate-stdout",
+  "install": "# git clone --depth 1 https://github.com/andrelip/paginate-stdout\n# See source for mcpServers config block"
+}

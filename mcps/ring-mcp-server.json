@@ -1,0 +1,7 @@
+{
+  "name": "ring-mcp-server",
+  "description": "Enables control of Ring home security devices, including doorbells, cameras, lights, and alarm systems, through MCP-compatible clients like Claude Desktop.",
+  "source_repo": "jpcors/ring-mcp",
+  "source_url": "https://github.com/jpcors/ring-mcp",
+  "install": "npx -y ring-mcp"
+}

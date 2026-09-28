@@ -1,0 +1,7 @@
+{
+  "name": "python-demo-mcp-server",
+  "description": "A demonstration server implementing the Model Context Protocol with Server-Sent Events for streaming content production and management.",
+  "source_repo": "sevalla-templates/python-demo-mcp-server",
+  "source_url": "https://github.com/sevalla-templates/python-demo-mcp-server",
+  "install": "npx -y python-demo-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cdisc-library-mcp-server",
+  "description": "Provides comprehensive access to CDISC clinical data standards (SDTM, ADaM, CDASH, CT) through 15 MCP tools, resources, and prompts.",
+  "source_repo": "whereayan/cdisc-library-mcp",
+  "source_url": "https://github.com/whereayan/cdisc-library-mcp",
+  "install": "npx -y cdisc-library-mcp"
+}

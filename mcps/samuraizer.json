@@ -1,0 +1,7 @@
+{
+  "name": "samuraizer",
+  "description": "Local-first CLI + MCP server for meeting recordings - Whisper transcription,",
+  "source_repo": "UladzKha/samuraizer-cli",
+  "source_url": "https://github.com/UladzKha/samuraizer-cli",
+  "install": "# git clone --depth 1 https://github.com/UladzKha/samuraizer-cli\n# See source for mcpServers config block"
+}

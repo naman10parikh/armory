@@ -1,0 +1,7 @@
+{
+  "name": "codeimpact",
+  "description": "An MCP server that indexes your codebase and gives AI assistants persistent understanding of project structure, dependencies, and history across sessions, with a self-improving multi-agent system for continuous code quality enhancement.",
+  "source_repo": "abhisavakar/codeimpact",
+  "source_url": "https://github.com/abhisavakar/codeimpact",
+  "install": "# git clone --depth 1 https://github.com/abhisavakar/codeimpact\n# See source for mcpServers config block"
+}

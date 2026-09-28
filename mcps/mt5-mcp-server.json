@@ -1,0 +1,7 @@
+{
+  "name": "mt5-mcp-server",
+  "description": "Enables interaction with MetaTrader 5 for market data, technical analysis, Fibonacci calculations, and trading via MCP clients such as Claude.",
+  "source_repo": "junmt/MT5-mcp",
+  "source_url": "https://github.com/junmt/MT5-mcp",
+  "install": "npx -y MT5-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-real-estate-intelligence-server",
+  "description": "Provides comprehensive real estate market intelligence, property valuation, and investment analysis for AI agents. Unifies data from multiple sources like Zillow, Redfin, and public records into a single MCP interface.",
+  "source_repo": "Abhishekpendyala06/MCP-Real-Estate-Intelligence",
+  "source_url": "https://github.com/Abhishekpendyala06/MCP-Real-Estate-Intelligence",
+  "install": "# git clone --depth 1 https://github.com/Abhishekpendyala06/MCP-Real-Estate-Intelligence\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "auto-knowledge-base",
+  "description": "基于MCP协议的知识库服务器，内置LLM层，提供结构化知识存储、语义搜索和主动知识推送，支持通过工具进行知识学习、搜索和关联推理。",
+  "source_repo": "guyeyouhun/auto-knowledge-base",
+  "source_url": "https://github.com/guyeyouhun/auto-knowledge-base",
+  "install": "# git clone --depth 1 https://github.com/guyeyouhun/auto-knowledge-base\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "video-evidence-mcp",
+  "description": "A self-hosted, read-only MCP service that searches public YouTube and Bilibili videos and produces compact evidence packages with verified metadata, timestamped captions or ASR, frames, OCR, and contact sheets for ChatGPT/Codex analysis.",
+  "source_repo": "Sandro-Z/Video-Evidence-MCP",
+  "source_url": "https://github.com/Sandro-Z/Video-Evidence-MCP",
+  "install": "npx -y Video-Evidence-MCP"
+}

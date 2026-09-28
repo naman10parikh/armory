@@ -1,0 +1,7 @@
+{
+  "name": "codebase-cartographer",
+  "description": "Maps a local Python repository into an AST-backed symbol graph and performs verified multi-file refactors, enabling scope-aware renaming, moving, and deletion of symbols with safety checks.",
+  "source_repo": "sdg5-hub/MCP-Cartographer",
+  "source_url": "https://github.com/sdg5-hub/MCP-Cartographer",
+  "install": "# git clone --depth 1 https://github.com/sdg5-hub/MCP-Cartographer\n# See source for mcpServers config block"
+}

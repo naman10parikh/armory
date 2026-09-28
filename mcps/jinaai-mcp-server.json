@@ -1,0 +1,7 @@
+{
+  "name": "jinaai-mcp-server",
+  "description": "Enables LLMs to read and extract clean, markdown-formatted content from any webpage using the Jina AI Reader API.",
+  "source_repo": "cyanheads/jinaai-mcp-server",
+  "source_url": "https://github.com/cyanheads/jinaai-mcp-server",
+  "install": "npx -y jinaai-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qwikvault-mcp",
+  "description": "Enables AI agents to read and write structured, human-verified wiki knowledge inside a project repo, providing reliable context without interfering with the AI's reasoning.",
+  "source_repo": "VoTrongHoang-Dyor/QwikVault-MCP",
+  "source_url": "https://github.com/VoTrongHoang-Dyor/QwikVault-MCP",
+  "install": "npx -y QwikVault-MCP"
+}

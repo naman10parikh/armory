@@ -1,0 +1,7 @@
+{
+  "name": "opal-mcp",
+  "description": "Enables AI assistants to view screen time data and control focus blocks for the Opal app.",
+  "source_repo": "lewisnsmith/opal-mcp",
+  "source_url": "https://github.com/lewisnsmith/opal-mcp",
+  "install": "npx -y opal-mcp"
+}

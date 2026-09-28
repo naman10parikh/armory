@@ -1,0 +1,7 @@
+{
+  "name": "mcpbrain",
+  "description": "A local-first personal knowledge daemon that syncs Gmail, Drive, and Calendar into a SQLite store for search and context retrieval via Claude Desktop over MCP.",
+  "source_repo": "Centrepoint-Church/mcpbrain",
+  "source_url": "https://github.com/Centrepoint-Church/mcpbrain",
+  "install": "# git clone --depth 1 https://github.com/Centrepoint-Church/mcpbrain\n# See source for mcpServers config block"
+}

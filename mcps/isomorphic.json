@@ -1,0 +1,7 @@
+{
+  "name": "isomorphic",
+  "description": "Enables Claude to maintain a team knowledge base stored as markdown in a GitHub repository, with tools for search, edit, linking, and interactive views.",
+  "source_repo": "isomorphic-team/isomorphic-app",
+  "source_url": "https://github.com/isomorphic-team/isomorphic-app",
+  "install": "# git clone --depth 1 https://github.com/isomorphic-team/isomorphic-app\n# See source for mcpServers config block"
+}

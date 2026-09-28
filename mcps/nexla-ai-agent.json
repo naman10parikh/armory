@@ -1,0 +1,7 @@
+{
+  "name": "nexla-ai-agent",
+  "description": "Enables natural language question answering over academic PDFs with grounded answers, exact source attribution, and explicit uncertainty handling.",
+  "source_repo": "Yeshwanth-git-tech/Nexla-AI-Agent",
+  "source_url": "https://github.com/Yeshwanth-git-tech/Nexla-AI-Agent",
+  "install": "# git clone --depth 1 https://github.com/Yeshwanth-git-tech/Nexla-AI-Agent\n# See source for mcpServers config block"
+}

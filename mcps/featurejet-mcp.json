@@ -1,0 +1,7 @@
+{
+  "name": "featurejet-mcp",
+  "description": "Official MCP server for FeatureJet, enabling agents to read and act on customer feedback boards: list/search posts, file feature requests, and pull top-voted planned items.",
+  "source_repo": "featurejet/featurejet-mcp",
+  "source_url": "https://github.com/featurejet/featurejet-mcp",
+  "install": "npx -y featurejet-mcp"
+}

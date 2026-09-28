@@ -1,0 +1,7 @@
+{
+  "name": "github-portfolio-intelligence-server",
+  "description": "Provides GitHub repository analysis tools for Claude, including repo summaries, commit history, issue tracking, contributor stats, and code quality assessment. Enables natural language queries about code quality, contributor activity, and repository comparisons.",
+  "source_repo": "Tahas13/github-portfolio-intelligence-server",
+  "source_url": "https://github.com/Tahas13/github-portfolio-intelligence-server",
+  "install": "# git clone --depth 1 https://github.com/Tahas13/github-portfolio-intelligence-server\n# See source for mcpServers config block"
+}

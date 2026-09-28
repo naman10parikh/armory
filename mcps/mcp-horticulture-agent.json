@@ -1,0 +1,7 @@
+{
+  "name": "mcp-horticulture-agent",
+  "description": "A local-first MCP server for tracking indoor horticulture metrics, enabling cold-stratification timelines, ericaceous soil pH validation, and transplant-shock recovery through a LangGraph agent with a local LLM.",
+  "source_repo": "hamzajbn1/mcp-horticulture-agent",
+  "source_url": "https://github.com/hamzajbn1/mcp-horticulture-agent",
+  "install": "# git clone --depth 1 https://github.com/hamzajbn1/mcp-horticulture-agent\n# See source for mcpServers config block"
+}

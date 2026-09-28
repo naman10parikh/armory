@@ -1,0 +1,7 @@
+{
+  "name": "scamcheck-mcp-server",
+  "description": "Scans suspicious messages, URLs, and text for scams inside any MCP-compatible AI assistant. No signup or API key needed for anonymous use.",
+  "source_repo": "smijo-geek/scamcheck-mcp-server",
+  "source_url": "https://github.com/smijo-geek/scamcheck-mcp-server",
+  "install": "npx -y scamcheck-mcp-server"
+}

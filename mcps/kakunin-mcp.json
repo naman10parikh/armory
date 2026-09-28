@@ -1,0 +1,7 @@
+{
+  "name": "kakunin-mcp",
+  "description": "Enables AI agents to self-verify their authorized scope, check risk scores, and log behavioral events via the Kakunin compliance API.",
+  "source_repo": "nqzai/kakunin-mcp",
+  "source_url": "https://github.com/nqzai/kakunin-mcp",
+  "install": "npx -y kakunin-mcp"
+}

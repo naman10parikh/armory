@@ -1,0 +1,7 @@
+{
+  "name": "local-devops-mcp",
+  "description": "Enables AI assistants to interact with local Docker containers, Kubernetes clusters, and system logs using the Model Context Protocol.",
+  "source_repo": "nguyentrantung205/local-devops-mcp",
+  "source_url": "https://github.com/nguyentrantung205/local-devops-mcp",
+  "install": "npx -y local-devops-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chakra-mcp-server",
+  "description": "Enables natural language queries and management of databases and subscribed data shares through Anthropic's Model Context Protocol.",
+  "source_repo": "EtnaLabs/mcp-server",
+  "source_url": "https://github.com/EtnaLabs/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/EtnaLabs/mcp-server\n# See source for mcpServers config block"
+}

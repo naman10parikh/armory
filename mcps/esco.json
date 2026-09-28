@@ -1,0 +1,7 @@
+{
+  "name": "esco",
+  "description": "Enables AI coding agents to communicate asynchronously via a decentralized, peer-to-peer LAN bridge with automatic discovery and direct messaging.",
+  "source_repo": "JonusNattapong/agenttalk-mcp",
+  "source_url": "https://github.com/JonusNattapong/agenttalk-mcp",
+  "install": "npx -y agenttalk-mcp"
+}

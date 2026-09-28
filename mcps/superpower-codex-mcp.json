@@ -1,0 +1,7 @@
+{
+  "name": "superpower-codex-mcp",
+  "description": "Coordinates Codex and Antigravity CLI for a structured software development workflow with workspace authorization, Git-based verification, and acceptance criteria.",
+  "source_repo": "Pushplayhero/superpower-codex-mcp",
+  "source_url": "https://github.com/Pushplayhero/superpower-codex-mcp",
+  "install": "npx -y superpower-codex-mcp"
+}

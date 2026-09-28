@@ -1,0 +1,7 @@
+{
+  "name": "eventops-mcp-server",
+  "description": "Enables AI assistants to query event operations data from Humanitix/MQIS exports, including metrics, sales curves, attendee lookups, and loyalty analytics. Provides deterministic data with AI-generated narrative, plus a CLI for ops reports and consent-aware marketing emails.",
+  "source_repo": "harshapranithreddy/event-ops-mcp",
+  "source_url": "https://github.com/harshapranithreddy/event-ops-mcp",
+  "install": "npx -y event-ops-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "supraprompt-mcp-server",
+  "description": "Connects SupraPrompt.ai to Claude, enabling users to turn marketing briefs into structured AI briefings such as battle cards, positioning, and buyer personas.",
+  "source_repo": "jon933/supraprompt-mcp",
+  "source_url": "https://github.com/jon933/supraprompt-mcp",
+  "install": "npx -y supraprompt-mcp"
+}

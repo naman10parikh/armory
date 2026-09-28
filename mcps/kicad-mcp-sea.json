@@ -1,0 +1,7 @@
+{
+  "name": "kicad-mcp-sea",
+  "description": "Audits KiCad PCB designs against South-East Asian fab capabilities using an IPC-compatible DFM rules engine with optional AI review via Ollama.",
+  "source_repo": "fadhilmayati/kicad-mcp-sea",
+  "source_url": "https://github.com/fadhilmayati/kicad-mcp-sea",
+  "install": "# git clone --depth 1 https://github.com/fadhilmayati/kicad-mcp-sea\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "github-directory-mcp",
+  "description": "An MCP server that enables AI assistants to list GitHub repositories for a user or organization and list directories within a repository via the GitHub REST API.",
+  "source_repo": "Productdeveloper5192/MCP",
+  "source_url": "https://github.com/Productdeveloper5192/MCP",
+  "install": "# git clone --depth 1 https://github.com/Productdeveloper5192/MCP\n# See source for mcpServers config block"
+}

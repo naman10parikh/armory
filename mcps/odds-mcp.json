@@ -1,0 +1,7 @@
+{
+  "name": "odds-mcp",
+  "description": "MCP server for odds data that provides tools to query consensus odds, fair prices, and outliers, and to safely propose, approve, and publish boosts with audit logging.",
+  "source_repo": "jigonyoo/odds-mcp",
+  "source_url": "https://github.com/jigonyoo/odds-mcp",
+  "install": "npx -y odds-mcp"
+}

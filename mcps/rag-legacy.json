@@ -1,0 +1,7 @@
+{
+  "name": "rag-legacy",
+  "description": "Enables Claude Code to semantically search a legacy codebase using natural language queries, returning relevant code chunks via vector search.",
+  "source_repo": "fubaritico/vite-mf-monorepo-rag",
+  "source_url": "https://github.com/fubaritico/vite-mf-monorepo-rag",
+  "install": "# git clone --depth 1 https://github.com/fubaritico/vite-mf-monorepo-rag\n# See source for mcpServers config block"
+}

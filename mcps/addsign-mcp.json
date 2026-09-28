@@ -1,0 +1,7 @@
+{
+  "name": "addsign-mcp",
+  "description": "Enables AI assistants to send documents for e-signature, track signing status, remind pending signers, and download signed PDFs with audit-trail hashes via the AddSign API.",
+  "source_repo": "rmindgh/addsign-mcp",
+  "source_url": "https://github.com/rmindgh/addsign-mcp",
+  "install": "npx -y addsign-mcp"
+}

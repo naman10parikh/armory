@@ -1,0 +1,7 @@
+{
+  "name": "devenv-mcp-server",
+  "description": "Provisions Docker-based development environments on demand, allowing AI agents to create, manage, and inspect containerized dev environments without manual setup.",
+  "source_repo": "ClaudiuJitea/devenv-mcp-server",
+  "source_url": "https://github.com/ClaudiuJitea/devenv-mcp-server",
+  "install": "npx -y devenv-mcp-server"
+}

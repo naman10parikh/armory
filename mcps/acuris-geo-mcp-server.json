@@ -1,0 +1,7 @@
+{
+  "name": "acuris-geo-mcp-server",
+  "description": "Provides address validation and geocoding for 240+ countries, including UK Royal Mail PAF and US/Canada census enrichment. Enables batch validation, forward/reverse geocoding, UK postcode expansion, and automatic refunds for failed lookups.",
+  "source_repo": "Acuris-GmbH/acuris-mcp",
+  "source_url": "https://github.com/Acuris-GmbH/acuris-mcp",
+  "install": "npx -y acuris-mcp"
+}

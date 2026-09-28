@@ -1,0 +1,7 @@
+{
+  "name": "x-mcp",
+  "description": "Read-only MCP server for Kan's FxTwitter API proxy, enabling public X/Twitter search and retrieval.",
+  "source_repo": "kandotrun/x-mcp",
+  "source_url": "https://github.com/kandotrun/x-mcp",
+  "install": "npx -y x-mcp"
+}

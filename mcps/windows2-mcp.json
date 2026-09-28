@@ -1,0 +1,7 @@
+{
+  "name": "windows2-mcp",
+  "description": "MCP server exposing Windows desktop UI Automation as tools for AI agents, enabling automated interaction with Windows applications via Appium.",
+  "source_repo": "verisoft-ai/windows2-mcp",
+  "source_url": "https://github.com/verisoft-ai/windows2-mcp",
+  "install": "npx -y windows2-mcp"
+}

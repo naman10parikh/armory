@@ -1,0 +1,7 @@
+{
+  "name": "public-calendar-mcp",
+  "description": "Enables AI agents to search and access public calendar data, supporting iCal, CalDAV, and Google Calendar sources with event search, details, and availability checks.",
+  "source_repo": "anton-jackson/calendar-mcp",
+  "source_url": "https://github.com/anton-jackson/calendar-mcp",
+  "install": "npx -y calendar-mcp"
+}

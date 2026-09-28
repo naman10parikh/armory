@@ -1,0 +1,7 @@
+{
+  "name": "linux-computer-mcp",
+  "description": "Provides an AI agent with a fixed, isolated Linux desktop workspace, enabling bounded screen capture, input control, and application launching via MCP.",
+  "source_repo": "Ocean-Moist/linux-computer",
+  "source_url": "https://github.com/Ocean-Moist/linux-computer",
+  "install": "# git clone --depth 1 https://github.com/Ocean-Moist/linux-computer\n# See source for mcpServers config block"
+}

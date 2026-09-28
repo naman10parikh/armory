@@ -1,0 +1,7 @@
+{
+  "name": "lextiva-compliance-mcp-server",
+  "description": "Provides AI agents with access to a structured compliance dataset covering privacy and AI regulations across jurisdictions, enabling verifiable answers to regulatory questions via tools and resources.",
+  "source_repo": "arturayupov/lextiva-mcp",
+  "source_url": "https://github.com/arturayupov/lextiva-mcp",
+  "install": "npx -y lextiva-mcp"
+}

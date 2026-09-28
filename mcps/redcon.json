@@ -1,0 +1,7 @@
+{
+  "name": "redcon",
+  "description": "Deterministic repository context packing for AI coding agents: selects, compresses, and budgets only the files a task needs. Measured 83% fewer input tokens at the same task coverage, fully local, no LLM in the loop.",
+  "source_repo": "natiixnt/redcon",
+  "source_url": "https://github.com/natiixnt/redcon",
+  "install": "# git clone --depth 1 https://github.com/natiixnt/redcon\n# See source for mcpServers config block"
+}

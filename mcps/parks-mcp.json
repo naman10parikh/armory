@@ -1,0 +1,7 @@
+{
+  "name": "parks-mcp",
+  "description": "Enables AI clients to search and browse camping availability across Alberta Parks, BC Parks, and Parks Canada, including front-country and backcountry campgrounds, through a unified set of tools.",
+  "source_repo": "jclement/parks-mcp",
+  "source_url": "https://github.com/jclement/parks-mcp",
+  "install": "npx -y parks-mcp"
+}

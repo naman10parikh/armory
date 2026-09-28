@@ -1,0 +1,7 @@
+{
+  "name": "mef-subnational-efficiency-mcp-2",
+  "description": "Multi-agent MCP server for auditing public spending execution of Peruvian regional and local governments, providing tools for CSV inspection, data pipeline orchestration, and historical PDF OCR processing.",
+  "source_repo": "MayraOA/mef_subnational_efficiency_mcp",
+  "source_url": "https://github.com/MayraOA/mef_subnational_efficiency_mcp",
+  "install": "npx -y mef_subnational_efficiency_mcp"
+}

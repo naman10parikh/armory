@@ -1,0 +1,7 @@
+{
+  "name": "mcp-audio-studio",
+  "description": "An interactive digital audio workstation as an MCP server, enabling music production with a channel rack, piano roll, mixer, effects, automation, microphone recording, and offline WAV rendering.",
+  "source_repo": "flujo-app/mcp-audio-studio-mcpapp",
+  "source_url": "https://github.com/flujo-app/mcp-audio-studio-mcpapp",
+  "install": "# git clone --depth 1 https://github.com/flujo-app/mcp-audio-studio-mcpapp\n# See source for mcpServers config block"
+}

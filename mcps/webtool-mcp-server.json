@@ -1,0 +1,7 @@
+{
+  "name": "webtool-mcp-server",
+  "description": "Provides web browsing, multi-engine search, and news retrieval tools for local LLMs via the Model Context Protocol, optimized for low-token iterative access with outline-first browsing and selective drill-down.",
+  "source_repo": "SashaYerashoff/webtool-mcp",
+  "source_url": "https://github.com/SashaYerashoff/webtool-mcp",
+  "install": "npx -y webtool-mcp"
+}

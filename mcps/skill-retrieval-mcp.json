@@ -1,0 +1,7 @@
+{
+  "name": "skill-retrieval-mcp",
+  "description": "Enables AI agents to search and retrieve over 89K skills on-demand at runtime, eliminating the need to manually install skills upfront.",
+  "source_repo": "JayCheng113/skill-retrieval-mcp",
+  "source_url": "https://github.com/JayCheng113/skill-retrieval-mcp",
+  "install": "npx -y skill-retrieval-mcp"
+}

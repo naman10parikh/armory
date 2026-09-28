@@ -1,0 +1,7 @@
+{
+  "name": "mcp-access-oauth-2",
+  "description": "A remote MCP server with Cloudflare Access OAuth authentication, deployable to Cloudflare Workers, enabling secure connections from MCP clients with identity-based access control.",
+  "source_repo": "rodolfostoicus/mcp-access-oauth",
+  "source_url": "https://github.com/rodolfostoicus/mcp-access-oauth",
+  "install": "# git clone --depth 1 https://github.com/rodolfostoicus/mcp-access-oauth\n# See source for mcpServers config block"
+}

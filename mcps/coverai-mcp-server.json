@@ -1,0 +1,7 @@
+{
+  "name": "coverai-mcp-server",
+  "description": "Automates cover letter generation and application question answering from job postings via local AI agents. Manages candidate profile and AI humanization rules to produce tailored, humanized application materials.",
+  "source_repo": "VIBHORE-LAB/jd-mcp",
+  "source_url": "https://github.com/VIBHORE-LAB/jd-mcp",
+  "install": "npx -y jd-mcp"
+}

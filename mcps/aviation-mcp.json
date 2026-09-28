@@ -1,0 +1,7 @@
+{
+  "name": "aviation-mcp",
+  "description": "Provides aviation weather data (METAR, TAF, station search) with a unique assess_conditions tool that returns flight category, confidence, and an escalation gate to indicate when human review is needed.",
+  "source_repo": "mikeinottawa/aviation-mcp",
+  "source_url": "https://github.com/mikeinottawa/aviation-mcp",
+  "install": "npx -y aviation-mcp"
+}

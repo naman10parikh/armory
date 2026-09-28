@@ -1,0 +1,7 @@
+{
+  "name": "azure-latency-mcp",
+  "description": "Measures TCP connection latency to Azure blob storage endpoints across regions, enabling AI-assisted region selection for optimal performance.",
+  "source_repo": "emrgcl/Azure-Region-Advisor",
+  "source_url": "https://github.com/emrgcl/Azure-Region-Advisor",
+  "install": "# git clone --depth 1 https://github.com/emrgcl/Azure-Region-Advisor\n# See source for mcpServers config block"
+}

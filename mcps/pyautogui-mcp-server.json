@@ -1,0 +1,7 @@
+{
+  "name": "pyautogui-mcp-server",
+  "description": "Enables GUI automation by executing Python code with instrumented pyautogui, providing MCP-friendly output and inline screenshot delivery.",
+  "source_repo": "on-panda/pyautogui_mcp_server",
+  "source_url": "https://github.com/on-panda/pyautogui_mcp_server",
+  "install": "npx -y pyautogui_mcp_server"
+}

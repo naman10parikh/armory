@@ -1,0 +1,7 @@
+{
+  "name": "worldcat-mcp-server",
+  "description": "Enables searching WorldCat's library catalog for bibliographic records, editions, citations, and exports in various formats via natural language.",
+  "source_repo": "SMABoundless/worldcat-mcp-server",
+  "source_url": "https://github.com/SMABoundless/worldcat-mcp-server",
+  "install": "npx -y worldcat-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yandex-wordstat-mcp",
+  "description": "Enables querying Yandex Wordstat search statistics, including frequency, related queries, seasonality, and regional distribution, through natural language in AI clients.",
+  "source_repo": "askads/mcp-yandex-wordstat",
+  "source_url": "https://github.com/askads/mcp-yandex-wordstat",
+  "install": "# git clone --depth 1 https://github.com/askads/mcp-yandex-wordstat\n# See source for mcpServers config block"
+}

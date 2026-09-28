@@ -1,0 +1,7 @@
+{
+  "name": "olexi-australian-laws-mcp-server",
+  "description": "Searches AustLII for Australian legislation and case law, enabling AI agents to find and cite real legal documents with sources.",
+  "source_repo": "konashevich/olexi-mcp",
+  "source_url": "https://github.com/konashevich/olexi-mcp",
+  "install": "npx -y olexi-mcp"
+}

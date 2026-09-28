@@ -1,0 +1,7 @@
+{
+  "name": "sap-business-one-mcp-server",
+  "description": "Enables interaction with SAP Business One via Service Layer REST API to retrieve and create business data such as partners, orders, invoices, items, and stock levels through natural language.",
+  "source_repo": "OscarGalloGarcia/sap-b1-mcp",
+  "source_url": "https://github.com/OscarGalloGarcia/sap-b1-mcp",
+  "install": "npx -y sap-b1-mcp"
+}

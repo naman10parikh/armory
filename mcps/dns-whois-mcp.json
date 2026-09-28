@@ -1,0 +1,7 @@
+{
+  "name": "dns-whois-mcp",
+  "description": "FastMCP server for DNS lookups and WHOIS domain research. It supports multiple record types and comprehensive domain investigation including parallel lookups and reverse IP resolution.",
+  "source_repo": "jmars/dns-whois-mcp",
+  "source_url": "https://github.com/jmars/dns-whois-mcp",
+  "install": "npx -y dns-whois-mcp"
+}

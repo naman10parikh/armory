@@ -1,0 +1,7 @@
+{
+  "name": "tamagotchi-mcp",
+  "description": "Enables an LLM to care for a virtual pet with actions like feeding, playing, and sleeping, plus a read-only web UI for real-time state visualization.",
+  "source_repo": "misaelvillaverde/tamagotchi-mcp-2",
+  "source_url": "https://github.com/misaelvillaverde/tamagotchi-mcp-2",
+  "install": "# git clone --depth 1 https://github.com/misaelvillaverde/tamagotchi-mcp-2\n# See source for mcpServers config block"
+}

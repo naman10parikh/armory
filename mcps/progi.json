@@ -1,0 +1,7 @@
+{
+  "name": "progi",
+  "description": "Workflow engine that teaches your agent how YOU like to get things done. So you can do your best work without re-explaining your process or losing context between sessions.",
+  "source_repo": "zseta/progi",
+  "source_url": "https://github.com/zseta/progi",
+  "install": "# git clone --depth 1 https://github.com/zseta/progi\n# See source for mcpServers config block"
+}

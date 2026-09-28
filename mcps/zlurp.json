@@ -1,0 +1,7 @@
+{
+  "name": "zlurp",
+  "description": "Web scraping for AI agents. Convert any URL to clean markdown via x402 micropayments on Base.",
+  "source_repo": "",
+  "source_url": "https://zlurp.ai/",
+  "install": "# git clone --depth 1 https://zlurp.ai/\n# See source for mcpServers config block"
+}

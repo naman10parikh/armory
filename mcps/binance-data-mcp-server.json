@@ -1,0 +1,7 @@
+{
+  "name": "binance-data-mcp-server",
+  "description": "MCP server providing access to Binance public market data, including klines, order book depth, and 24hr ticker.",
+  "source_repo": "Traia-IO/binance-data-mcp-server",
+  "source_url": "https://github.com/Traia-IO/binance-data-mcp-server",
+  "install": "npx -y binance-data-mcp-server"
+}

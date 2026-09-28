@@ -1,0 +1,7 @@
+{
+  "name": "instavar-mcp-server",
+  "description": "Drive the full Instavar Studio video workflow — create, render, approve, publish, and get metrics — from Claude Code or Codex without leaving your terminal.",
+  "source_repo": "instavar/mcp-server",
+  "source_url": "https://github.com/instavar/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/instavar/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "github-code-search-mcp-server",
+  "description": "Enables searching GitHub code with filters and reading arbitrary file contents from any repository via MCP.",
+  "source_repo": "WhiteElephant-abc/github-mcp",
+  "source_url": "https://github.com/WhiteElephant-abc/github-mcp",
+  "install": "npx -y github-mcp"
+}

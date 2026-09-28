@@ -1,0 +1,7 @@
+{
+  "name": "egov-security-mcp-server",
+  "description": "Collects, analyzes, and verifies security patches for the eGovernment framework, including PDF analysis and diff previews.",
+  "source_repo": "wjswnsdnjs1/egov_security_mcp",
+  "source_url": "https://github.com/wjswnsdnjs1/egov_security_mcp",
+  "install": "npx -y egov_security_mcp"
+}

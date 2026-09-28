@@ -1,0 +1,7 @@
+{
+  "name": "xtb-mcp-server",
+  "description": "An MCP server that provides tools for generating Extended Tight-Binding (XTB) quantum chemistry input files, enabling AI assistants to automate quantum chemistry calculations and workflows.",
+  "source_repo": "PhelanShao/xtb-mcp-server",
+  "source_url": "https://github.com/PhelanShao/xtb-mcp-server",
+  "install": "npx -y xtb-mcp-server"
+}

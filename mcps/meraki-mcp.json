@@ -1,0 +1,7 @@
+{
+  "name": "meraki-mcp",
+  "description": "A read-only MCP server for Cisco Meraki Dashboard, enabling LLMs to discover devices, check health, troubleshoot, and generate reports via natural language.",
+  "source_repo": "reshif/meraki-mcp",
+  "source_url": "https://github.com/reshif/meraki-mcp",
+  "install": "npx -y meraki-mcp"
+}

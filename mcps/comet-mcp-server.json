@@ -1,0 +1,7 @@
+{
+  "name": "comet-mcp-server",
+  "description": "Gives Claude a browser that thinks by connecting to Perplexity's Comet browser via Chrome DevTools Protocol, enabling AI-powered web search, navigation, reading, clicking, and screenshots while keeping Claude's context clean.",
+  "source_repo": "AdilShaikh1/comet-mcp-desktop",
+  "source_url": "https://github.com/AdilShaikh1/comet-mcp-desktop",
+  "install": "# git clone --depth 1 https://github.com/AdilShaikh1/comet-mcp-desktop\n# See source for mcpServers config block"
+}

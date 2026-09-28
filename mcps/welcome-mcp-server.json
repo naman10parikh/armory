@@ -1,6 +1,6 @@
 {
   "name": "welcome-mcp-server",
-  "description": "Welcome Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "readerszone/welcome-mcp-server",
   "source_url": "https://mcp.so/server/welcome-mcp-server/readerszone",
   "install": "npx -y welcome-mcp-server"

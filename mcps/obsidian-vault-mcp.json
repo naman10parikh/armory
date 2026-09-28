@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-vault-mcp",
+  "description": "An MCP server that integrates Zotero and MinerU pipelines to import and manage academic literature in an Obsidian vault, enabling automated note creation, PDF parsing, and vault maintenance.",
+  "source_repo": "luffysolution-svg/obsidian-vault-mcp",
+  "source_url": "https://github.com/luffysolution-svg/obsidian-vault-mcp",
+  "install": "npx -y obsidian-vault-mcp"
+}

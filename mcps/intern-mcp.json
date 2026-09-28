@@ -1,0 +1,7 @@
+{
+  "name": "intern-mcp",
+  "description": "Local stdio MCP server for working on Intern-hosted sites through guarded Git checkouts. It enables authentication, site preparation, testing, validation, and publishing via coding harnesses like Codex and Claude Code.",
+  "source_repo": "ArchAstro/intern-mcp",
+  "source_url": "https://github.com/ArchAstro/intern-mcp",
+  "install": "npx -y intern-mcp"
+}

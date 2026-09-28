@@ -1,0 +1,7 @@
+{
+  "name": "2d6-mcp",
+  "description": "An AI GM assistant for tabletop RPGs that provides dice rolling, rules queries, and AI-powered rulings across multiple game systems including sci-fi, fantasy, and d20.",
+  "source_repo": "crowterliam/2d6mcp",
+  "source_url": "https://github.com/crowterliam/2d6mcp",
+  "install": "# git clone --depth 1 https://github.com/crowterliam/2d6mcp\n# See source for mcpServers config block"
+}

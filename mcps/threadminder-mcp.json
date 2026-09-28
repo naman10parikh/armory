@@ -1,0 +1,7 @@
+{
+  "name": "threadminder-mcp",
+  "description": "A persistent context layer for Claude that automatically remembers project status, decisions, and next actions across sessions, eliminating the need to re-explain context.",
+  "source_repo": "pluralityworks/threadminder-mcp",
+  "source_url": "https://github.com/pluralityworks/threadminder-mcp",
+  "install": "npx -y threadminder-mcp"
+}

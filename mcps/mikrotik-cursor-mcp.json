@@ -1,0 +1,7 @@
+{
+  "name": "mikrotik-cursor-mcp",
+  "description": "Enables natural language management of MikroTik routers through Cursor IDE by translating requests into RouterOS commands via API or SSH.",
+  "source_repo": "kevinpez/mikrotik-cursor-mcp",
+  "source_url": "https://github.com/kevinpez/mikrotik-cursor-mcp",
+  "install": "npx -y mikrotik-cursor-mcp"
+}

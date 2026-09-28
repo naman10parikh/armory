@@ -1,0 +1,7 @@
+{
+  "name": "meok-cra-art14-reporter-mcp",
+  "description": "Enables reporting of actively exploited vulnerabilities in compliance with EU CRA Article 14, generating ENISA and CSIRT payloads.",
+  "source_repo": "CSOAI-ORG/meok-cra-art14-reporter-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-cra-art14-reporter-mcp",
+  "install": "npx -y meok-cra-art14-reporter-mcp"
+}

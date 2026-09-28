@@ -1,0 +1,7 @@
+{
+  "name": "emit-xhs-cover-mcp-server",
+  "description": "Generates beautiful Xiaohongshu-style cover images via AI, integrated with MCP-compatible tools.",
+  "source_repo": "xwchris/xhs-cover-mcp",
+  "source_url": "https://github.com/xwchris/xhs-cover-mcp",
+  "install": "npx -y xhs-cover-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "obsidi-mcp",
+  "description": "Exposes Obsidian vault tools via Model Context Protocol (MCP) server over stdio, HTTP, or SSE transports, enabling AI assistants to read, write, search, and manage vault notes with 28+ built-in tools and CLI bridge integration.",
+  "source_repo": "cameronsjo/obsidi-mcp",
+  "source_url": "https://github.com/cameronsjo/obsidi-mcp",
+  "install": "npx -y obsidi-mcp"
+}

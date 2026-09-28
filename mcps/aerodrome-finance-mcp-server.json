@@ -1,0 +1,7 @@
+{
+  "name": "aerodrome-finance-mcp-server",
+  "description": "Enables AI assistants to perform Aerodrome Finance DEX operations on Base chain, including token swaps, liquidity management, and market analysis through natural language.",
+  "source_repo": "Tairon-ai/aerodrome-finance-mcp",
+  "source_url": "https://github.com/Tairon-ai/aerodrome-finance-mcp",
+  "install": "npx -y aerodrome-finance-mcp"
+}

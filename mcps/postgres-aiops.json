@@ -1,0 +1,7 @@
+{
+  "name": "postgres-aiops",
+  "description": "Governed PostgreSQL DBA operations — slow-query, bloat, and blocking-lock RCA, index management, vacuum/analyze, and replication lag, with unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.",
+  "source_repo": "AIops-tools/Postgres-AIops",
+  "source_url": "https://github.com/AIops-tools/Postgres-AIops",
+  "install": "# git clone --depth 1 https://github.com/AIops-tools/Postgres-AIops\n# See source for mcpServers config block"
+}

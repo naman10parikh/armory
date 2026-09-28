@@ -1,0 +1,7 @@
+{
+  "name": "account-pool-mcp",
+  "description": "An MCP server that manages a pool of test accounts, leasing them out one at a time to prevent concurrent session collisions, with automatic reclamation of expired leases.",
+  "source_repo": "ankitsxchdeva/account-pool-mcp",
+  "source_url": "https://github.com/ankitsxchdeva/account-pool-mcp",
+  "install": "npx -y account-pool-mcp"
+}

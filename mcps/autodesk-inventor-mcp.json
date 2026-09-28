@@ -1,0 +1,7 @@
+{
+  "name": "autodesk-inventor-mcp",
+  "description": "MCP server for Autodesk Inventor that lets AI clients model parts, build assemblies, and inspect models via COM automation.",
+  "source_repo": "xtylerai2026-oss/autodesk-inventor-mcp",
+  "source_url": "https://github.com/xtylerai2026-oss/autodesk-inventor-mcp",
+  "install": "npx -y autodesk-inventor-mcp"
+}

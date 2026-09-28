@@ -1,0 +1,7 @@
+{
+  "name": "loadingmcp-mcp",
+  "description": "Plan optimal container & truck loads: 3D layouts, right-size the container mix, and check utilization, centre of gravity, crush protection and securing across 200+ equipment types.",
+  "source_repo": "lxxmng/loadingmcp-mcp",
+  "source_url": "https://github.com/lxxmng/loadingmcp-mcp",
+  "install": "npx -y loadingmcp-mcp"
+}

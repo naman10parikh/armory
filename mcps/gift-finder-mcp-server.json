@@ -1,0 +1,7 @@
+{
+  "name": "gift-finder-mcp-server",
+  "description": "Enables gift recommendations via Naver Shopping and nearby pickup store search via Kakao Local APIs.",
+  "source_repo": "LEEHEEWON123/kakao_mcp_gift_find",
+  "source_url": "https://github.com/LEEHEEWON123/kakao_mcp_gift_find",
+  "install": "# git clone --depth 1 https://github.com/LEEHEEWON123/kakao_mcp_gift_find\n# See source for mcpServers config block"
+}

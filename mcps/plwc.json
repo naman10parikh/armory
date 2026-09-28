@@ -1,0 +1,7 @@
+{
+  "name": "plwc",
+  "description": "Governed MCP gateway for Claude Desktop providing workspace, document, sandbox, profile, reflection, and audit controls through a single visible server.",
+  "source_repo": "mhoedt-ai/PLwC",
+  "source_url": "https://github.com/mhoedt-ai/PLwC",
+  "install": "# git clone --depth 1 https://github.com/mhoedt-ai/PLwC\n# See source for mcpServers config block"
+}

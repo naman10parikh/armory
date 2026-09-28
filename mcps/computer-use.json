@@ -1,0 +1,7 @@
+{
+  "name": "computer-use",
+  "description": "Standalone MCP server that gives AI agents full GUI control over macOS — screenshots, mouse, keyboard, apps, clipboard, and multi-display — with zero private dependencies.",
+  "source_repo": "wimi321/macos-computer-use-skill",
+  "source_url": "https://github.com/wimi321/macos-computer-use-skill",
+  "install": "# git clone --depth 1 https://github.com/wimi321/macos-computer-use-skill\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "garminsynapse",
+  "description": "Enables AI assistants to retrieve and analyze Garmin Connect health data, including daily summaries, sleep, HRV, workouts, and raw FIT files, while also supporting SQL queries on the underlying database.",
+  "source_repo": "kaivyy/garminsynapse",
+  "source_url": "https://github.com/kaivyy/garminsynapse",
+  "install": "# git clone --depth 1 https://github.com/kaivyy/garminsynapse\n# See source for mcpServers config block"
+}

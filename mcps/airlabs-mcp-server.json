@@ -1,0 +1,7 @@
+{
+  "name": "airlabs-mcp-server",
+  "description": "Provides AI assistants with access to real-time flight data, airport schedules, delays, and aviation reference databases through natural language queries.",
+  "source_repo": "airlabs-co/airlabs-mcp",
+  "source_url": "https://github.com/airlabs-co/airlabs-mcp",
+  "install": "npx -y airlabs-mcp"
+}

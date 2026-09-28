@@ -1,0 +1,7 @@
+{
+  "name": "lawmesh-mcp-server",
+  "description": "Enables AI agents to query U.S. legislative data, including jurisdictions, legislators, and bills, via the OpenStates API.",
+  "source_repo": "pratyushkr9420/Lawmesh",
+  "source_url": "https://github.com/pratyushkr9420/Lawmesh",
+  "install": "# git clone --depth 1 https://github.com/pratyushkr9420/Lawmesh\n# See source for mcpServers config block"
+}

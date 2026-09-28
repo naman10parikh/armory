@@ -1,0 +1,7 @@
+{
+  "name": "pokemon-champions-battle-assistant",
+  "description": "Enables live battle statistics queries and precise damage calculations for Pokemon Champions, supporting Japanese and English names, multiple formats, and environmental factors.",
+  "source_repo": "mekabu0551/champions-mcp",
+  "source_url": "https://github.com/mekabu0551/champions-mcp",
+  "install": "npx -y champions-mcp"
+}

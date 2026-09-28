@@ -1,0 +1,7 @@
+{
+  "name": "preclick-url-security-scanner",
+  "description": "PreClick: An MCP-native URL preflight security scanning service for autonomous agents. It scans links for threats and confirms they match the intended task before execution. Built for agentic workflows, it provides high-accuracy, context-aware browsing governance with adaptive learning.",
+  "source_repo": "",
+  "source_url": "https://preclick.ai",
+  "install": "# git clone --depth 1 https://preclick.ai\n# See source for mcpServers config block"
+}

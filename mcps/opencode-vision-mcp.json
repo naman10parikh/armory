@@ -1,0 +1,7 @@
+{
+  "name": "opencode-vision-mcp",
+  "description": "MCP server for image recognition via OpenRouter AI. It sends an image to a primary model (fast) and falls back to a secondary model if needed, returning a textual description.",
+  "source_repo": "avdivo/opencode-vision-mcp",
+  "source_url": "https://github.com/avdivo/opencode-vision-mcp",
+  "install": "npx -y opencode-vision-mcp"
+}

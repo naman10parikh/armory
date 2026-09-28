@@ -1,0 +1,7 @@
+{
+  "name": "ai-sql-agent-mcp-server",
+  "description": "Lets AI clients ask natural-language questions about a SQL database with production-safe guardrails, schema grounding, and read-only enforcement.",
+  "source_repo": "rajmyagentit-del/ai-sql-agent-mcp",
+  "source_url": "https://github.com/rajmyagentit-del/ai-sql-agent-mcp",
+  "install": "npx -y ai-sql-agent-mcp"
+}

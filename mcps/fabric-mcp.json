@@ -1,0 +1,7 @@
+{
+  "name": "fabric-mcp",
+  "description": "Enables interaction with Equinix Fabric via MCP protocol, providing 109 tools for managing Fabric resources with client-credentials authentication and governance.",
+  "source_repo": "sliuuu/fabric-mcp",
+  "source_url": "https://github.com/sliuuu/fabric-mcp",
+  "install": "npx -y fabric-mcp"
+}

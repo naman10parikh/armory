@@ -1,0 +1,7 @@
+{
+  "name": "zerobyte-mcp",
+  "description": "Enables managing Zerobyte backups via MCP, including listing repositories, snapshots, schedules, and restoring backups.",
+  "source_repo": "Rhonstin/zerobyte-mcp",
+  "source_url": "https://github.com/Rhonstin/zerobyte-mcp",
+  "install": "npx -y zerobyte-mcp"
+}

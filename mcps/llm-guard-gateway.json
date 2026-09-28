@@ -1,0 +1,7 @@
+{
+  "name": "llm-guard-gateway",
+  "description": "Provides a governance gateway for LLM and agent traffic via MCP, blocking prompt injection, redacting PII, enforcing per-tenant token budgets, and caching repeat questions semantically. Enables AI agents to route model calls through the same guardrails instead of calling providers directly.",
+  "source_repo": "ShreyAC962/llm-guard-gateway",
+  "source_url": "https://github.com/ShreyAC962/llm-guard-gateway",
+  "install": "# git clone --depth 1 https://github.com/ShreyAC962/llm-guard-gateway\n# See source for mcpServers config block"
+}

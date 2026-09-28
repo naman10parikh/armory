@@ -1,0 +1,7 @@
+{
+  "name": "yt-sub-mcp",
+  "description": "MCP server for reading YouTube subtitles without authentication or external binaries, using YouTube's internal get_panel endpoint to avoid rate limits and fetch full subtitles in a single request.",
+  "source_repo": "YaleDevUni/yt-sub-mcp",
+  "source_url": "https://github.com/YaleDevUni/yt-sub-mcp",
+  "install": "npx -y yt-sub-mcp"
+}

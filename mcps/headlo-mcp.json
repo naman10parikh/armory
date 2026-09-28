@@ -1,0 +1,7 @@
+{
+  "name": "headlo-mcp",
+  "description": "MCP server that provides Claude Desktop and Claude Code with access to Headlo collections, records, pages, components, and CAP sessions.",
+  "source_repo": "headlohq/headlo-mcp",
+  "source_url": "https://github.com/headlohq/headlo-mcp",
+  "install": "npx -y headlo-mcp"
+}

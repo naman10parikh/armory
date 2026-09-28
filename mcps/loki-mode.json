@@ -1,0 +1,7 @@
+{
+  "name": "loki-mode",
+  "description": "Autonomous spec-to-product coding-agent CLI. Its MCP server exposes 34 tools over stdio: project state and task-queue ops, memory retrieve/store, code search, quality and verification reports, repo hotspots/co-changes, and structured findings/learnings.",
+  "source_repo": "asklokesh/loki-mode",
+  "source_url": "https://github.com/asklokesh/loki-mode",
+  "install": "# git clone --depth 1 https://github.com/asklokesh/loki-mode\n# See source for mcpServers config block"
+}

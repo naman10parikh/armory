@@ -1,0 +1,7 @@
+{
+  "name": "mcp-legal-entity-resolver",
+  "description": "MCP server that resolves a company domain to its registered legal entity, returning legal name, company number, jurisdiction, status, LEI, and VAT number via the Apify Legal Entity Resolver actor.",
+  "source_repo": "mambalabsdev/mcp-legal-entity-resolver",
+  "source_url": "https://github.com/mambalabsdev/mcp-legal-entity-resolver",
+  "install": "# git clone --depth 1 https://github.com/mambalabsdev/mcp-legal-entity-resolver\n# See source for mcpServers config block"
+}

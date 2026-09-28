@@ -1,0 +1,7 @@
+{
+  "name": "etoro-portfolio-connector",
+  "description": "A read-only MCP server that connects Claude to your eToro account, enabling queries about your portfolio, P\\&L, balances, watchlists, live prices, and price history.",
+  "source_repo": "pdhimate/etoro-mcp-connector",
+  "source_url": "https://github.com/pdhimate/etoro-mcp-connector",
+  "install": "# git clone --depth 1 https://github.com/pdhimate/etoro-mcp-connector\n# See source for mcpServers config block"
+}

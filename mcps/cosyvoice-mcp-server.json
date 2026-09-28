@@ -1,0 +1,7 @@
+{
+  "name": "cosyvoice-mcp-server",
+  "description": "Text-to-speech synthesis server with multiple AI character voices, supporting streaming playback and Claude Desktop integration.",
+  "source_repo": "Z-bitlance/cosyVoice-mcp",
+  "source_url": "https://github.com/Z-bitlance/cosyVoice-mcp",
+  "install": "npx -y cosyVoice-mcp"
+}

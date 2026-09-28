@@ -1,0 +1,7 @@
+{
+  "name": "frisian-mcp",
+  "description": "An MCP gateway that automatically turns Django REST Framework ViewSets into callable MCP tools with zero boilerplate, featuring a token-efficient dispatcher pattern to minimize context usage.",
+  "source_repo": "Frisian-MCP/frisian-mcp",
+  "source_url": "https://github.com/Frisian-MCP/frisian-mcp",
+  "install": "npx -y frisian-mcp"
+}

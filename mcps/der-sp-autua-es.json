@@ -1,0 +1,7 @@
+{
+  "name": "der-sp-autua-es",
+  "description": "Provides a read-only MCP server for consulting traffic fines (autuações) from DER SP (São Paulo State Highway Department) from the official source. Works with any MCP client and uses a prepaid credit system.",
+  "source_repo": "mcp-dir/der_sp_autuacoes-mcp",
+  "source_url": "https://github.com/mcp-dir/der_sp_autuacoes-mcp",
+  "install": "npx -y der_sp_autuacoes-mcp"
+}

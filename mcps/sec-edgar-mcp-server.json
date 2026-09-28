@@ -1,0 +1,7 @@
+{
+  "name": "sec-edgar-mcp-server",
+  "description": "Enables to search and retrieve SEC EDGAR filings, insider transactions, major shareholders, and executive compensation data through natural language.",
+  "source_repo": "Sejin-Koo/sec-edgar-mcp",
+  "source_url": "https://github.com/Sejin-Koo/sec-edgar-mcp",
+  "install": "npx -y sec-edgar-mcp"
+}

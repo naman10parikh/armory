@@ -1,0 +1,7 @@
+{
+  "name": "vision-opencode-mcp",
+  "description": "MCP server that gives visual reference to MCP clients by calling an OpenAI-compatible vision API, enabling image description with optional auto-selection of the newest pasted image.",
+  "source_repo": "sddzwxy/vision-opencode-mcp",
+  "source_url": "https://github.com/sddzwxy/vision-opencode-mcp",
+  "install": "npx -y vision-opencode-mcp"
+}

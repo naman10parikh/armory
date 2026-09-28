@@ -1,0 +1,7 @@
+{
+  "name": "agnifolio-mcp",
+  "description": "Official MCP server for Agni Folio, a free multi-currency wealth & portfolio tracker. 23 tools for holdings, performance, FIRE planning, crypto P&L, and confirm-gated writes — hosted endpoint with OAuth 2.1, plus a Docker stdio bridge in this repo.",
+  "source_repo": "nivela-tech/agnifolio-mcp",
+  "source_url": "https://github.com/nivela-tech/agnifolio-mcp",
+  "install": "npx -y agnifolio-mcp"
+}

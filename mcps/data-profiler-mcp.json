@@ -1,0 +1,7 @@
+{
+  "name": "data-profiler-mcp",
+  "description": "Enables LLMs to profile and analyze tabular data files (CSV, Parquet, Excel, JSON) by extracting schema, statistics, data quality issues, and dtype suggestions, returning structured JSON.",
+  "source_repo": "haiiibin/data-profiler-mcp",
+  "source_url": "https://github.com/haiiibin/data-profiler-mcp",
+  "install": "npx -y data-profiler-mcp"
+}

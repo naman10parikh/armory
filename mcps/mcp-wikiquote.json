@@ -1,0 +1,7 @@
+{
+  "name": "mcp-wikiquote",
+  "description": "Enables searching and retrieving sourced quotations from Wikiquote, including page summaries, extracts, and daily featured quotes.",
+  "source_repo": "pipeworx-io/mcp-wikiquote",
+  "source_url": "https://github.com/pipeworx-io/mcp-wikiquote",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-wikiquote\n# See source for mcpServers config block"
+}

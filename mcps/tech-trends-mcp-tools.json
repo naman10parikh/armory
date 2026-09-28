@@ -1,0 +1,7 @@
+{
+  "name": "tech-trends-mcp-tools",
+  "description": "Tech Trends MCP Tools: 3 real-time data extraction tools for AI agents, powered by the Apify MCP server. Hacker News trend tracker (caught the Stripe/OpenRouter $7B acquisition rumor in real time), Product Hunt daily launch tracker, and GitHub trending repositories tracker. Pay-per-use at $0.10 per",
+  "source_repo": "GDN84/tech-trends-mcp-tools",
+  "source_url": "https://github.com/GDN84/tech-trends-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/GDN84/tech-trends-mcp-tools\n# See source for mcpServers config block"
+}

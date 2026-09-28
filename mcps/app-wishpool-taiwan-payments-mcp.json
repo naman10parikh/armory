@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-taiwan-payments-mcp",
+  "description": "Enables AI agents to accept payments and issue Taiwanese government e-invoices via ECPay. Supports payment link creation, status query, invoice issue and void.",
+  "source_repo": "junter1989k-ai/taiwan-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/taiwan-payments-mcp",
+  "install": "npx -y taiwan-payments-mcp"
+}

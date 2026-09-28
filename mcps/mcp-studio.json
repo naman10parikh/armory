@@ -1,0 +1,7 @@
+{
+  "name": "mcp-studio",
+  "description": "A collection of MCP servers that provide mathematical operations and weather information tools, enabling AI models to perform calculations and access weather data through a standardized interface.",
+  "source_repo": "DivyaG14/MCP-Studio",
+  "source_url": "https://github.com/DivyaG14/MCP-Studio",
+  "install": "# git clone --depth 1 https://github.com/DivyaG14/MCP-Studio\n# See source for mcpServers config block"
+}

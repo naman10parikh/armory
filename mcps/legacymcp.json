@@ -1,0 +1,7 @@
+{
+  "name": "legacymcp",
+  "description": "MCP server that enables AI-powered assessment of Active Directory on-premises environments by exposing AD data as queryable tools for LLMs like Claude.",
+  "source_repo": "Marco-Lelli/legacy-mcp",
+  "source_url": "https://github.com/Marco-Lelli/legacy-mcp",
+  "install": "npx -y legacy-mcp"
+}

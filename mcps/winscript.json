@@ -1,0 +1,7 @@
+{
+  "name": "winscript",
+  "description": "State-aware Windows automation MCP server for AI agents, enabling app control, UI interaction, COM Office, and more via 59 tools with fallback layers and audit logging.",
+  "source_repo": "RavaniRoshan/winscript-mcp",
+  "source_url": "https://github.com/RavaniRoshan/winscript-mcp",
+  "install": "npx -y winscript-mcp"
+}

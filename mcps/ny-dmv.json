@@ -1,0 +1,7 @@
+{
+  "name": "ny-dmv",
+  "description": "Enables querying New York State DMV data including vehicle registrations, EV adoption, offices, road test sites, driving schools, and licensed facilities, with keyless access to public datasets.",
+  "source_repo": "pipeworx-io/mcp-ny-dmv",
+  "source_url": "https://github.com/pipeworx-io/mcp-ny-dmv",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-ny-dmv\n# See source for mcpServers config block"
+}

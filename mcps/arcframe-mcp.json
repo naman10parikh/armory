@@ -1,0 +1,7 @@
+{
+  "name": "arcframe-mcp",
+  "description": "Generate videos, images, audio, and 3D models from any MCP-compatible AI agent — Claude, Cursor, ChatGPT, and more.",
+  "source_repo": "arcframe-ai/arcframe-mcp",
+  "source_url": "https://github.com/arcframe-ai/arcframe-mcp",
+  "install": "npx -y arcframe-mcp"
+}

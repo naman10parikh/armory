@@ -1,0 +1,7 @@
+{
+  "name": "tickscope-mcp",
+  "description": "Provides real-time and historical crypto market data via WebSocket and REST for MCP clients, supporting multiple exchanges, 73 technical indicators, and advanced chart analysis tools.",
+  "source_repo": "seungdori/tickscope-mcp",
+  "source_url": "https://github.com/seungdori/tickscope-mcp",
+  "install": "npx -y tickscope-mcp"
+}

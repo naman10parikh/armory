@@ -1,0 +1,7 @@
+{
+  "name": "deterministic-logic",
+  "description": "Provides deterministic logic evaluation tools including boolean expressions, truth tables, SAT solving, JSON logic rules, decision tables, and state machine analysis.",
+  "source_repo": "SamSoupSauce/deterministic-logic",
+  "source_url": "https://github.com/SamSoupSauce/deterministic-logic",
+  "install": "# git clone --depth 1 https://github.com/SamSoupSauce/deterministic-logic\n# See source for mcpServers config block"
+}

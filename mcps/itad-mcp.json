@@ -1,0 +1,7 @@
+{
+  "name": "itad-mcp",
+  "description": "MCP server that provides AI assistants with access to IsThereAnyDeal game pricing data, including current prices, discounts, historical lows, and active deals across multiple digital storefronts, using the official ITAD API with batching and caching.",
+  "source_repo": "brandikun/itad-mcp",
+  "source_url": "https://github.com/brandikun/itad-mcp",
+  "install": "npx -y itad-mcp"
+}

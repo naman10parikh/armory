@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stm32cubeide-server",
+  "description": "An MCP server that lets AI coding agents drive the full STM32 development loop—code generation, build, flash, debug, serial monitoring, and fault diagnosis—end to end via CubeIDE, CubeMX, CubeProgrammer, OpenOCD, and GDB.",
+  "source_repo": "Helistana/mcp-stm32cubeide-server",
+  "source_url": "https://github.com/Helistana/mcp-stm32cubeide-server",
+  "install": "# git clone --depth 1 https://github.com/Helistana/mcp-stm32cubeide-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "flowteller-api-mcp-server",
+  "description": "Enables AI clients to search trips, find locations, and manage bookings through the Flowteller backend.",
+  "source_repo": "flowteller-io/flow-mcp",
+  "source_url": "https://github.com/flowteller-io/flow-mcp",
+  "install": "npx -y flow-mcp"
+}

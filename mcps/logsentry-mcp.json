@@ -1,0 +1,7 @@
+{
+  "name": "logsentry-mcp",
+  "description": "Enables AI-powered centralized log monitoring and Q\\&A for GCP Java microservices, allowing log query, service health checks, and anomaly detection through MCP tools.",
+  "source_repo": "mehtaniravm/LogSentryMCPGoogleHangout",
+  "source_url": "https://github.com/mehtaniravm/LogSentryMCPGoogleHangout",
+  "install": "# git clone --depth 1 https://github.com/mehtaniravm/LogSentryMCPGoogleHangout\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wealify-kpi-mcp",
+  "description": "Read-only MCP server for Wealify KPI dashboard that allows AI agents to query KPI data, scoring status, alerts, member performance, and rubric documents via predefined tools and REST endpoints.",
+  "source_repo": "ngkienmkqn/wealify-kpi-mcp",
+  "source_url": "https://github.com/ngkienmkqn/wealify-kpi-mcp",
+  "install": "npx -y wealify-kpi-mcp"
+}

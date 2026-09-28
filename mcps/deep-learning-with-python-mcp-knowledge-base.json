@@ -1,0 +1,7 @@
+{
+  "name": "deep-learning-with-python-mcp-knowledge-base",
+  "description": "An MCP (Model Context Protocol) server that turns the book Deep Learning with Python (François Chollet) into a searchable knowledge base, so Claude can act as a deep-learning/ML expert grounded in the book's content.",
+  "source_repo": "LeoW19/deepLearning_MCP",
+  "source_url": "https://github.com/LeoW19/deepLearning_MCP",
+  "install": "npx -y deepLearning_MCP"
+}

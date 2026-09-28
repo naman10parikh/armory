@@ -1,0 +1,7 @@
+{
+  "name": "datacore-mcp",
+  "description": "MCP server exposing Datacore's knowledge base, GTD, and engram memory to any AI assistant.",
+  "source_repo": "datacore-one/datacore-mcp",
+  "source_url": "https://github.com/datacore-one/datacore-mcp",
+  "install": "npx -y datacore-mcp"
+}

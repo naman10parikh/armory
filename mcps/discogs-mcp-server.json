@@ -1,0 +1,7 @@
+{
+  "name": "discogs-mcp-server",
+  "description": "A powerful Model Context Protocol (MCP) server that enables AI assistants to interact with your personal Discogs music collection.",
+  "source_repo": "rianvdm/discogs-mcp",
+  "source_url": "https://github.com/rianvdm/discogs-mcp",
+  "install": "npx -y discogs-mcp"
+}

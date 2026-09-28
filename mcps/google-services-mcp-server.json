@@ -1,0 +1,7 @@
+{
+  "name": "google-services-mcp-server",
+  "description": "Enables AI agents to send and draft Gmail emails and append content to Google Docs through standardized MCP tools.",
+  "source_repo": "SPSahoo007/google-mcp-server",
+  "source_url": "https://github.com/SPSahoo007/google-mcp-server",
+  "install": "npx -y google-mcp-server"
+}

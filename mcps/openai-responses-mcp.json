@@ -1,0 +1,7 @@
+{
+  "name": "openai-responses-mcp",
+  "description": "Lightweight MCP server using OpenAI Responses API with built-in web search, enabling AI assistants to answer questions with citations and search results.",
+  "source_repo": "uchimanajet7/openai-responses-mcp",
+  "source_url": "https://github.com/uchimanajet7/openai-responses-mcp",
+  "install": "npx -y openai-responses-mcp"
+}

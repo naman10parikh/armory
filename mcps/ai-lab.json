@@ -1,0 +1,7 @@
+{
+  "name": "ai-lab",
+  "description": "Enables Claude Code to search and retrieve from a local knowledge base of markdown notes using hybrid semantic+keyword search, keeping data entirely offline.",
+  "source_repo": "bunlongheng/ai-lab",
+  "source_url": "https://github.com/bunlongheng/ai-lab",
+  "install": "# git clone --depth 1 https://github.com/bunlongheng/ai-lab\n# See source for mcpServers config block"
+}

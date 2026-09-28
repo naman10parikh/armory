@@ -1,0 +1,7 @@
+{
+  "name": "spicebridge",
+  "description": "AI-powered circuit design through simulation — an MCP server that gives language models direct access to SPICE circuit simulation via ngspice, enabling natural language circuit description and automated netlist generation, simulation, measurement, and spec verification.",
+  "source_repo": "clanker-lover/spicebridge",
+  "source_url": "https://github.com/clanker-lover/spicebridge",
+  "install": "# git clone --depth 1 https://github.com/clanker-lover/spicebridge\n# See source for mcpServers config block"
+}

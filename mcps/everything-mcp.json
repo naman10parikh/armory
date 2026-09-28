@@ -1,0 +1,7 @@
+{
+  "name": "everything-mcp",
+  "description": "The definitive MCP server for voidtools Everything - lightning-fast file search for AI agents.",
+  "source_repo": "elis132/everything-mcp",
+  "source_url": "https://github.com/elis132/everything-mcp",
+  "install": "npx -y everything-mcp"
+}

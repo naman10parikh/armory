@@ -1,0 +1,7 @@
+{
+  "name": "talk-safeguard-mcp",
+  "description": "Analyzes suspicious KakaoTalk messages and links using public data samples and rule-based risk scoring to classify scam types and generate safe action guides.",
+  "source_repo": "jiwon-5570/talk-safeguard-mcp",
+  "source_url": "https://github.com/jiwon-5570/talk-safeguard-mcp",
+  "install": "npx -y talk-safeguard-mcp"
+}

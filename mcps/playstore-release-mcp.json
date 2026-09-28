@@ -1,0 +1,7 @@
+{
+  "name": "playstore-release-mcp",
+  "description": "An MCP server that drives Google Play releases: bundle upload, track releases (internal/closed/open/production), listing metadata, store graphics, and review replies.",
+  "source_repo": "rabdulsal/playstore-release-mcp",
+  "source_url": "https://github.com/rabdulsal/playstore-release-mcp",
+  "install": "npx -y playstore-release-mcp"
+}

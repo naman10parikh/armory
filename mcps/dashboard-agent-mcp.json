@@ -1,0 +1,7 @@
+{
+  "name": "dashboard-agent-mcp",
+  "description": "Enables agents to create interactive dashboards from natural language queries, returning both text results and portable dashboard resources for MCP Apps-compatible hosts.",
+  "source_repo": "Thachx/dashboard-agent-mcp",
+  "source_url": "https://github.com/Thachx/dashboard-agent-mcp",
+  "install": "npx -y dashboard-agent-mcp"
+}

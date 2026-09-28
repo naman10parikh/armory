@@ -1,0 +1,7 @@
+{
+  "name": "raven-nest-mcp",
+  "description": "A pentesting toolkit that runs as an MCP server, providing AI assistants structured access to 22 security tools through a safety-hardened interface.",
+  "source_repo": "tidynest/raven-nest-mcp",
+  "source_url": "https://github.com/tidynest/raven-nest-mcp",
+  "install": "npx -y raven-nest-mcp"
+}

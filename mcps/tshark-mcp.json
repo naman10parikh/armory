@@ -1,0 +1,7 @@
+{
+  "name": "tshark-mcp",
+  "description": "An MCP server that exposes TShark as tools for AI-assisted network packet analysis, supporting PCAP analysis, live capture, TLS decryption, and telecom/SS7 signaling protocols.",
+  "source_repo": "ouonet/tshark-mcp",
+  "source_url": "https://github.com/ouonet/tshark-mcp",
+  "install": "npx -y tshark-mcp"
+}

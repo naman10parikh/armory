@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gateway-2",
+  "description": "Unified MCP tool gateway for agents to access WebPilot browser tools and other backend capabilities via an Electron tray application.",
+  "source_repo": "ace-kekoukele/mcp-gateway",
+  "source_url": "https://github.com/ace-kekoukele/mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/ace-kekoukele/mcp-gateway\n# See source for mcpServers config block"
+}

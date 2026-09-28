@@ -1,0 +1,7 @@
+{
+  "name": "continue-chat-export",
+  "description": "Sanitizes Continue.dev session exports and reformats them as readable Obsidian chat Markdown, with MCP tools that return only metadata (paths, counts) for privacy.",
+  "source_repo": "cr4i50n/mcp-continue-chat-export",
+  "source_url": "https://github.com/cr4i50n/mcp-continue-chat-export",
+  "install": "# git clone --depth 1 https://github.com/cr4i50n/mcp-continue-chat-export\n# See source for mcpServers config block"
+}

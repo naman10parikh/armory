@@ -1,0 +1,7 @@
+{
+  "name": "opc-memory-mcp-server",
+  "description": "MCP server that exposes OPC memory scripts as tools for Claude Code and Claude Desktop.",
+  "source_repo": "stephenfeather/opc-memory-mcp",
+  "source_url": "https://github.com/stephenfeather/opc-memory-mcp",
+  "install": "npx -y opc-memory-mcp"
+}

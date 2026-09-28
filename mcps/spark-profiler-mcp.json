@@ -1,0 +1,7 @@
+{
+  "name": "spark-profiler-mcp",
+  "description": "MCP server that reads Spark profiler files to give accurate Minecraft server tuning advice, parsing binary protobuf directly and diagnosing TPS, MSPT, GC, heap, and call-tree issues.",
+  "source_repo": "Imanity-Software/spark-profiler-mcp",
+  "source_url": "https://github.com/Imanity-Software/spark-profiler-mcp",
+  "install": "npx -y spark-profiler-mcp"
+}

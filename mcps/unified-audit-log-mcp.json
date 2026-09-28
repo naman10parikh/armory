@@ -1,0 +1,7 @@
+{
+  "name": "unified-audit-log-mcp",
+  "description": "Read-only MCP server for querying Microsoft Purview unified audit logs across M365 workloads, wrapping the Graph API's asynchronous audit log search.",
+  "source_repo": "sedattavukcu/unified-auditlog-mcp",
+  "source_url": "https://github.com/sedattavukcu/unified-auditlog-mcp",
+  "install": "npx -y unified-auditlog-mcp"
+}

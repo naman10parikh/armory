@@ -1,0 +1,7 @@
+{
+  "name": "vouch",
+  "description": "A per-call payment trust and reputation API for AI agents, allowing agents to check if a counterparty is safe to pay before making a payment.",
+  "source_repo": "notifuturo/vouch",
+  "source_url": "https://github.com/notifuturo/vouch",
+  "install": "# git clone --depth 1 https://github.com/notifuturo/vouch\n# See source for mcpServers config block"
+}

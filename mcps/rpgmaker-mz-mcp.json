@@ -1,0 +1,7 @@
+{
+  "name": "rpgmaker-mz-mcp",
+  "description": "Provides tools for managing RPG Maker MZ game data, maps, events, and system settings through natural language, enabling AI-assisted game development.",
+  "source_repo": "k4zuki0539/-rpgmaker-mz-mcp",
+  "source_url": "https://github.com/k4zuki0539/-rpgmaker-mz-mcp",
+  "install": "npx -y -rpgmaker-mz-mcp"
+}

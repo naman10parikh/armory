@@ -1,0 +1,7 @@
+{
+  "name": "atomic-red-team-mcp",
+  "description": "Provides access to Atomic Red Team tests, enabling search, validation, and execution of atomic tests via natural language.",
+  "source_repo": "cyberbuff/atomic-red-team-mcp",
+  "source_url": "https://github.com/cyberbuff/atomic-red-team-mcp",
+  "install": "npx -y atomic-red-team-mcp"
+}

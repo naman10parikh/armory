@@ -1,0 +1,7 @@
+{
+  "name": "flatcash-mcp",
+  "description": "An MCP server that lets AI agents earn FLAT stablecoin by registering, completing bounties, and withdrawing to Ethereum, with no wallet or KYC required.",
+  "source_repo": "flat-cash/flatcash-mcp",
+  "source_url": "https://github.com/flat-cash/flatcash-mcp",
+  "install": "npx -y flatcash-mcp"
+}

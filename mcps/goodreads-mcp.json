@@ -1,0 +1,7 @@
+{
+  "name": "goodreads-mcp",
+  "description": "A read-only MCP server for Goodreads that enables LLMs to search for books, retrieve detailed book info with ratings and reviews, and explore recommendations, series, and author bibliographies using public data sources without requiring authentication.",
+  "source_repo": "shreeyachand/goodreads-mcp",
+  "source_url": "https://github.com/shreeyachand/goodreads-mcp",
+  "install": "npx -y goodreads-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "data-aggregator-mcp",
+  "description": "Searches and fetches research datasets across Zenodo, DataCite (Dryad/Figshare/Dataverse/OSF), NCBI omics archives (GEO/SRA/BioProject), and the literature (PubMed/OpenAIRE) through one normalized model — deduplicating by DOI, expanding organism queries with NCBI Taxonomy synonyms, and bridging pape",
+  "source_repo": "musharna/data-aggregator-mcp",
+  "source_url": "https://github.com/musharna/data-aggregator-mcp",
+  "install": "npx -y data-aggregator-mcp"
+}

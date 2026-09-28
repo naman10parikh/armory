@@ -1,0 +1,7 @@
+{
+  "name": "douanecode-mcp",
+  "description": "Enables AI agents to search EU/French customs codes, get duty rates, and monitor tariff changes via natural language, using the DouaneCode API.",
+  "source_repo": "Courouge/douanecode-mcp",
+  "source_url": "https://github.com/Courouge/douanecode-mcp",
+  "install": "npx -y douanecode-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kryve-agent-evaluation-mcp",
+  "description": "Provides read-only tools to generate test plans for AI agents, score agent runs, and produce reusable evaluation scorecards.",
+  "source_repo": "louislaurent1/kryve-agent-eval-mcp",
+  "source_url": "https://github.com/louislaurent1/kryve-agent-eval-mcp",
+  "install": "npx -y kryve-agent-eval-mcp"
+}

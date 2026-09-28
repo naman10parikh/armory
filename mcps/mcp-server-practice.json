@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-practice",
+  "description": "A practice project demonstrating how to build Model Context Protocol servers with Python, LangGraph, and Groq, featuring a math server via stdio and a weather server via streamable-http, enabling arithmetic operations and mock weather queries through an AI agent.",
+  "source_repo": "shreenithi23/mcp-server-practice",
+  "source_url": "https://github.com/shreenithi23/mcp-server-practice",
+  "install": "# git clone --depth 1 https://github.com/shreenithi23/mcp-server-practice\n# See source for mcpServers config block"
+}

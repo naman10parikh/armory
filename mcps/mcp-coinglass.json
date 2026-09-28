@@ -1,0 +1,7 @@
+{
+  "name": "mcp-coinglass",
+  "description": "Provides futures market analytics (Open Interest, Liquidations, Long/Short Ratio, Funding Rates) via the CoinGlass API v4, enabling natural language queries for crypto derivatives data.",
+  "source_repo": "GPSxtreme/mcp-coinglass",
+  "source_url": "https://github.com/GPSxtreme/mcp-coinglass",
+  "install": "# git clone --depth 1 https://github.com/GPSxtreme/mcp-coinglass\n# See source for mcpServers config block"
+}

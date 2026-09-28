@@ -1,0 +1,7 @@
+{
+  "name": "logicmonitor-mcp",
+  "description": "Exposes the LogicMonitor REST API as MCP tools with per-request LMv1 authentication, enabling querying of devices, alerts, reports, and more.",
+  "source_repo": "MSPbotsAI/logicmonitor-mcp",
+  "source_url": "https://github.com/MSPbotsAI/logicmonitor-mcp",
+  "install": "npx -y logicmonitor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "the-bag-kenya-mcp-server",
+  "description": "Enables AI assistants to browse, search, and purchase limited-edition fashion from Kenya, with tools for product details, stock checks, styling advice, and cart link generation.",
+  "source_repo": "atthedanieljuma/thebag-mcp",
+  "source_url": "https://github.com/atthedanieljuma/thebag-mcp",
+  "install": "npx -y thebag-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bullrun",
+  "description": "Stock screening, company financials, ETF search, and personal portfolio analysis over a remote OAuth-protected MCP server https://mcp.bull-run.org/mcp",
+  "source_repo": "ferinator/bullrun-mcp",
+  "source_url": "https://github.com/ferinator/bullrun-mcp",
+  "install": "npx -y bullrun-mcp"
+}

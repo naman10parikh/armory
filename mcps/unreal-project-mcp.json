@@ -1,0 +1,7 @@
+{
+  "name": "unreal-project-mcp",
+  "description": "Indexes Unreal Engine project C++ source, config files, dependencies, gameplay tags, replication, asset references, and log categories into a SQLite database and exposes tools for AI assistants to query structural and config info.",
+  "source_repo": "tumourlove/DEPRECATED-unreal-project-mcp",
+  "source_url": "https://github.com/tumourlove/DEPRECATED-unreal-project-mcp",
+  "install": "npx -y DEPRECATED-unreal-project-mcp"
+}

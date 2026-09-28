@@ -1,0 +1,7 @@
+{
+  "name": "thiri-chord-intelligence-music-theory-mcp-server",
+  "description": "Deterministic music-theory MCP server and API for AI agents — analyze chords, run Roman-numeral analysis, generate voicings, and reharmonize progressions. Computed from music theory, not hallucinated.",
+  "source_repo": "BluesPrince/thiri-mcp",
+  "source_url": "https://github.com/BluesPrince/thiri-mcp",
+  "install": "npx -y thiri-mcp"
+}

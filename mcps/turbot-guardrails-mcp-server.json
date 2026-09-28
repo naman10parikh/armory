@@ -1,0 +1,7 @@
+{
+  "name": "turbot-guardrails-mcp-server",
+  "description": "Connects AI assistants to Turbot Guardrails for natural language exploration, analysis, and automation of cloud governance.",
+  "source_repo": "turbot/guardrails-mcp",
+  "source_url": "https://github.com/turbot/guardrails-mcp",
+  "install": "npx -y guardrails-mcp"
+}

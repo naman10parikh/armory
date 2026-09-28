@@ -1,0 +1,7 @@
+{
+  "name": "complyedge-trustlint",
+  "description": "Offline MCP server that checks and scans your own AI prompts and outputs against a local compliance rule corpus. Returns rule ID, severity, citation, and remediation per finding — no API key, Apache 2.0.",
+  "source_repo": "ComplyEdge/complyedge",
+  "source_url": "https://github.com/ComplyEdge/complyedge",
+  "install": "# git clone --depth 1 https://github.com/ComplyEdge/complyedge\n# See source for mcpServers config block"
+}

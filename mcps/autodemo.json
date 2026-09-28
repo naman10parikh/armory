@@ -1,0 +1,7 @@
+{
+  "name": "autodemo",
+  "description": "MCP server that turns any running web app into demo videos, interactive walkthroughs, and marketing captures via one command. Enables AI agents to show their work with regenerated demos on every PR.",
+  "source_repo": "praveen-palanisamy/autodemo",
+  "source_url": "https://github.com/praveen-palanisamy/autodemo",
+  "install": "# git clone --depth 1 https://github.com/praveen-palanisamy/autodemo\n# See source for mcpServers config block"
+}

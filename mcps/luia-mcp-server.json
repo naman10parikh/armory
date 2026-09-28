@@ -1,0 +1,7 @@
+{
+  "name": "luia-mcp-server",
+  "description": "Enables Claude to access and update a team's design knowledge stored in a local Markdown folder, including searching decisions and recording new conventions.",
+  "source_repo": "gustavocambareri/Luia_MCP",
+  "source_url": "https://github.com/gustavocambareri/Luia_MCP",
+  "install": "npx -y Luia_MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "verified-technical-solver",
+  "description": "Provides deterministic tools for symbolic math, equation solving, relation verification, reasoning structure audits, and validated CAD primitives, returning evidence artifacts for every result.",
+  "source_repo": "ASVLCII/verified-technical-solver",
+  "source_url": "https://github.com/ASVLCII/verified-technical-solver",
+  "install": "# git clone --depth 1 https://github.com/ASVLCII/verified-technical-solver\n# See source for mcpServers config block"
+}

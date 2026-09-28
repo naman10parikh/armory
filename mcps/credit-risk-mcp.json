@@ -1,0 +1,7 @@
+{
+  "name": "credit-risk-mcp",
+  "description": "Enables users to query financial data and compute credit-risk metrics like Altman Z-Score and loan default probability through natural language.",
+  "source_repo": "Lipika118/credit-risk-mcp",
+  "source_url": "https://github.com/Lipika118/credit-risk-mcp",
+  "install": "npx -y credit-risk-mcp"
+}

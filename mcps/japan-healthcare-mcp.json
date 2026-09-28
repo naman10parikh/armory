@@ -1,0 +1,7 @@
+{
+  "name": "japan-healthcare-mcp",
+  "description": "A local-first MCP server and toolkit for Japanese healthcare reference data, enabling lookup and search without bundling official datasets.",
+  "source_repo": "chinahamu/japan-healthcare-mcp",
+  "source_url": "https://github.com/chinahamu/japan-healthcare-mcp",
+  "install": "npx -y japan-healthcare-mcp"
+}

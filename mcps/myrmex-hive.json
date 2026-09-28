@@ -1,0 +1,7 @@
+{
+  "name": "myrmex-hive",
+  "description": "A decentralized, secure agent orchestration framework for monitoring and managing distributed edge servers, Docker hosts, and Kubernetes nodes via outbound SSH tunnels with zero inbound ports.",
+  "source_repo": "olafkfreund/myrmex-hive",
+  "source_url": "https://github.com/olafkfreund/myrmex-hive",
+  "install": "# git clone --depth 1 https://github.com/olafkfreund/myrmex-hive\n# See source for mcpServers config block"
+}

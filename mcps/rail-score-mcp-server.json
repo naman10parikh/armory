@@ -1,0 +1,7 @@
+{
+  "name": "rail-score-mcp-server",
+  "description": "Adds a responsible-AI safety layer to any agent by exposing RAIL Score's evaluation, agent-guardrail, and compliance capabilities as MCP tools, enabling content scoring, injection detection, tool call evaluation, and DPDP compliance checks.",
+  "source_repo": "Responsible-AI-Labs/rail-score-mcp",
+  "source_url": "https://github.com/Responsible-AI-Labs/rail-score-mcp",
+  "install": "npx -y rail-score-mcp"
+}

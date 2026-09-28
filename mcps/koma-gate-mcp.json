@@ -1,0 +1,7 @@
+{
+  "name": "koma-gate-mcp",
+  "description": "Blocks prompt injection, jailbreaks, and out-of-scope input before an AI agent acts. classify_input tool, stdio transport.",
+  "source_repo": "swnotmetal/Project-Koma",
+  "source_url": "https://github.com/swnotmetal/Project-Koma",
+  "install": "# git clone --depth 1 https://github.com/swnotmetal/Project-Koma\n# See source for mcpServers config block"
+}

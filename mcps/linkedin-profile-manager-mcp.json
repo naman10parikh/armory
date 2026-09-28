@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-profile-manager-mcp",
+  "description": "A local-first MCP server for auditing, drafting, and planning updates to your personal LinkedIn profile safely, without automation or scraping.",
+  "source_repo": "jcnh74/linkedin-profile-manager-mcp",
+  "source_url": "https://github.com/jcnh74/linkedin-profile-manager-mcp",
+  "install": "npx -y linkedin-profile-manager-mcp"
+}

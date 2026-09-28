@@ -1,0 +1,7 @@
+{
+  "name": "429-throttle-mcp",
+  "description": "Transparent rate-limiting MCP proxy that prevents HTTP 429 errors by throttling API calls and tokens. Includes tools to check usage and dynamically adjust rate limits.",
+  "source_repo": "iqingyoung/429-throttle-mcp",
+  "source_url": "https://github.com/iqingyoung/429-throttle-mcp",
+  "install": "npx -y 429-throttle-mcp"
+}

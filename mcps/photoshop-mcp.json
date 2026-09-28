@@ -1,0 +1,7 @@
+{
+  "name": "photoshop-mcp",
+  "description": "An MCP server that lets AI assistants drive Adobe Photoshop on Windows through ExtendScript and COM automation, offering ~122 tools for documents, layers, text, filters, color, selections, masks, layout QA, and design systems.",
+  "source_repo": "francisanderson/photoshop-mcp",
+  "source_url": "https://github.com/francisanderson/photoshop-mcp",
+  "install": "npx -y photoshop-mcp"
+}

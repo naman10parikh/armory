@@ -1,0 +1,7 @@
+{
+  "name": "nomai-mcp",
+  "description": "Enables secure, authenticated access to Nomai's tools via Google OAuth 2.1, with email allowlisting for access control.",
+  "source_repo": "nomaitech/nomai-mcp",
+  "source_url": "https://github.com/nomaitech/nomai-mcp",
+  "install": "npx -y nomai-mcp"
+}

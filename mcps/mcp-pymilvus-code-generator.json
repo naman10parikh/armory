@@ -1,6 +1,6 @@
 {
   "name": "mcp-pymilvus-code-generator",
-  "description": "Mcp Pymilvus Code Generator MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "brcarry/mcp-pymilvus-code-generator",
   "source_url": "https://mcp.so/server/mcp-pymilvus-code-generator/brcarry",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-pymilvus-code-generator/brcarry\n# See source for mcpServers config block"

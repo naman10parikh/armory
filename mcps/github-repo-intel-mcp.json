@@ -1,0 +1,7 @@
+{
+  "name": "github-repo-intel-mcp",
+  "description": "Provides AI coding agents with structured intelligence about any GitHub repository including overview, PRs, contributors, hot files, CI status, and dependencies via a hosted MCP endpoint.",
+  "source_repo": "heisencodex-jpg/github-repo-intel-mcp",
+  "source_url": "https://github.com/heisencodex-jpg/github-repo-intel-mcp",
+  "install": "npx -y github-repo-intel-mcp"
+}

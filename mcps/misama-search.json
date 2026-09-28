@@ -1,0 +1,7 @@
+{
+  "name": "misama-search",
+  "description": "Provides fully local, privacy-preserving semantic search over file names and paths via MCP, using BGE embeddings for fuzzy matching and supporting incremental updates, watch mode, and a loopback-only HTTP server.",
+  "source_repo": "miyc176/MISAMA-Search",
+  "source_url": "https://github.com/miyc176/MISAMA-Search",
+  "install": "# git clone --depth 1 https://github.com/miyc176/MISAMA-Search\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "docs-is-code",
+  "description": "Enables document-driven development by automatically detecting Markdown spec changes, generating implementation plans, and syncing code and tests through MCP tools.",
+  "source_repo": "xy200303/docs-is-code-mcp",
+  "source_url": "https://github.com/xy200303/docs-is-code-mcp",
+  "install": "npx -y docs-is-code-mcp"
+}

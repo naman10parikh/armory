@@ -1,0 +1,7 @@
+{
+  "name": "true-deck-mcp",
+  "description": "An MCP server that converts Markdown into True Corporation branded PowerPoint decks, offering tools for validation, generation, preview, and delivery of presentations.",
+  "source_repo": "ramzpat/true-deck-mcp",
+  "source_url": "https://github.com/ramzpat/true-deck-mcp",
+  "install": "npx -y true-deck-mcp"
+}

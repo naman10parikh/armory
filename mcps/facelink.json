@@ -1,0 +1,7 @@
+{
+  "name": "facelink",
+  "description": "Enables LLMs to plan and stage editable Blender scene animations via a typed ShotSpec, with a safe stage/review/apply workflow, scene scanning, locomotion planning, and MCP integration for Codex/ChatGPT clients.",
+  "source_repo": "xuebazhou-blip/FaceLink",
+  "source_url": "https://github.com/xuebazhou-blip/FaceLink",
+  "install": "# git clone --depth 1 https://github.com/xuebazhou-blip/FaceLink\n# See source for mcpServers config block"
+}

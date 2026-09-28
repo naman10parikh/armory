@@ -1,0 +1,7 @@
+{
+  "name": "ideavault-mcp",
+  "description": "A personal MCP server that manages an Obsidian vault of project notes, provides scoped external research tools, and offers code-graph analysis via a proxied tree-sitter engine.",
+  "source_repo": "Mephistopheles9631/ideavault-mcp",
+  "source_url": "https://github.com/Mephistopheles9631/ideavault-mcp",
+  "install": "npx -y ideavault-mcp"
+}

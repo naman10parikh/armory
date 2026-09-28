@@ -1,0 +1,7 @@
+{
+  "name": "shotpipe-mcp",
+  "description": "Hosted, SSRF-safe, cached screenshots and Open Graph images for AI agents - no headless Chrome to run.",
+  "source_repo": "podop29/shotpipe-mcp",
+  "source_url": "https://github.com/podop29/shotpipe-mcp",
+  "install": "npx -y shotpipe-mcp"
+}

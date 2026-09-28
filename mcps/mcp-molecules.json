@@ -1,0 +1,7 @@
+{
+  "name": "mcp-molecules",
+  "description": "An MCP server for chemistry: it computes molecular weights and isotope distributions from chemical formulae and resolves compound name/formula lookups, backed by NIST atomic-weight data and a cached finder over multiple online and offline sources.",
+  "source_repo": "laszlopere/mcp-molecules",
+  "source_url": "https://github.com/laszlopere/mcp-molecules",
+  "install": "# git clone --depth 1 https://github.com/laszlopere/mcp-molecules\n# See source for mcpServers config block"
+}

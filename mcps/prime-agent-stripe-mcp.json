@@ -1,0 +1,7 @@
+{
+  "name": "prime-agent-stripe-mcp",
+  "description": "A Prime Agent skill that connects to Stripe's official remote MCP server to inspect and manage Stripe resources via OAuth.",
+  "source_repo": "gbrlpzz/prime-agent-stripe-mcp",
+  "source_url": "https://github.com/gbrlpzz/prime-agent-stripe-mcp",
+  "install": "npx -y prime-agent-stripe-mcp"
+}

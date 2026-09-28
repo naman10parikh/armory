@@ -1,0 +1,7 @@
+{
+  "name": "aria2-agent",
+  "description": "A download tool for AI agents that wraps aria2 with safety rules and MCP server support, enabling reliable downloads without false positives.",
+  "source_repo": "Rehui-2006/aria2-agent",
+  "source_url": "https://github.com/Rehui-2006/aria2-agent",
+  "install": "# git clone --depth 1 https://github.com/Rehui-2006/aria2-agent\n# See source for mcpServers config block"
+}

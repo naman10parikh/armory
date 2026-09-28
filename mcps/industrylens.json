@@ -1,0 +1,7 @@
+{
+  "name": "industrylens",
+  "description": "B2B competitive-intelligence reports and head-to-head competitor comparisons from IndustryLens.",
+  "source_repo": "",
+  "source_url": "https://industry-lens.com",
+  "install": "# git clone --depth 1 https://industry-lens.com\n# See source for mcpServers config block"
+}

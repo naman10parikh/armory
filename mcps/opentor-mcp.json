@@ -1,0 +1,7 @@
+{
+  "name": "opentor-mcp",
+  "description": "MCP server that connects AI assistants to a supervised Firefox session routed through Tor, enabling browsing of HTTP(S) and .onion pages, reading content, taking screenshots, extracting forum data, and managing sessions.",
+  "source_repo": "Medamine-cheddadi/opentor-mcp",
+  "source_url": "https://github.com/Medamine-cheddadi/opentor-mcp",
+  "install": "npx -y opentor-mcp"
+}

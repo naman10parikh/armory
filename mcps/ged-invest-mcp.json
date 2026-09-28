@@ -1,0 +1,7 @@
+{
+  "name": "ged-invest-mcp",
+  "description": "An MCP server for construction tools that calculates wall formwork material takeoffs from geometry inputs, enabling LLMs to generate accurate bills of materials.",
+  "source_repo": "ged-pawel/ged-invest-mcp",
+  "source_url": "https://github.com/ged-pawel/ged-invest-mcp",
+  "install": "npx -y ged-invest-mcp"
+}

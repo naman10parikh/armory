@@ -1,0 +1,7 @@
+{
+  "name": "nextcloud-control-plane-mcp-server",
+  "description": "Enables management and administration of Nextcloud instances through OCC commands, including status checks, trusted domain configuration, and database optimization.",
+  "source_repo": "TheNovaNodes/nextcloud-mcp-control",
+  "source_url": "https://github.com/TheNovaNodes/nextcloud-mcp-control",
+  "install": "# git clone --depth 1 https://github.com/TheNovaNodes/nextcloud-mcp-control\n# See source for mcpServers config block"
+}

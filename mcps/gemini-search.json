@@ -1,0 +1,7 @@
+{
+  "name": "gemini-search",
+  "description": "Free, unlimited web search MCP server using Gemini CLI's Google Search grounding to provide cited, live web results for any AI agent.",
+  "source_repo": "leacvikas0/free-search-mcp-geminicli",
+  "source_url": "https://github.com/leacvikas0/free-search-mcp-geminicli",
+  "install": "# git clone --depth 1 https://github.com/leacvikas0/free-search-mcp-geminicli\n# See source for mcpServers config block"
+}

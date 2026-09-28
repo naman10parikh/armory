@@ -1,0 +1,7 @@
+{
+  "name": "uniprot-link",
+  "description": "An MCP server that grounds protein research in the UniProt SPARQL endpoint, providing tools for querying proteins, sequences, variants, diseases, and more via intent-named tools and raw SPARQL.",
+  "source_repo": "berntpopp/uniprot-link",
+  "source_url": "https://github.com/berntpopp/uniprot-link",
+  "install": "# git clone --depth 1 https://github.com/berntpopp/uniprot-link\n# See source for mcpServers config block"
+}

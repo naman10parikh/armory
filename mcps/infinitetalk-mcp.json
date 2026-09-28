@@ -1,0 +1,7 @@
+{
+  "name": "infinitetalk-mcp",
+  "description": "MCP server for the InfiniteTalk model line, enabling audio-to-video task creation, status polling, and pricing checks via a RunAPI API key.",
+  "source_repo": "runapi-ai/infinitetalk-mcp",
+  "source_url": "https://github.com/runapi-ai/infinitetalk-mcp",
+  "install": "npx -y infinitetalk-mcp"
+}

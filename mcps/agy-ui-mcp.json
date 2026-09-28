@@ -1,0 +1,7 @@
+{
+  "name": "agy-ui-mcp",
+  "description": "Delegates frontend/UI refinement to Gemini via agy CLI, using iterative vision loops and diff-gating to realign UIs to design mockups without affecting backend code.",
+  "source_repo": "qdzsh/agy-ui-mcp",
+  "source_url": "https://github.com/qdzsh/agy-ui-mcp",
+  "install": "npx -y agy-ui-mcp"
+}

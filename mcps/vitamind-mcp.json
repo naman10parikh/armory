@@ -1,0 +1,7 @@
+{
+  "name": "vitamind-mcp",
+  "description": "Solar vitamin D: whether the sun where you are can make vitamin D right now, how many minutes your Fitzpatrick skin type needs for a target dose, which months of the year synthesis is possible at your latitude, and how much a sun session produced. Computed from solar geometry, a clear-sky UV model w",
+  "source_repo": "JaviMaligno/vitamind-mcp",
+  "source_url": "https://github.com/JaviMaligno/vitamind-mcp",
+  "install": "npx -y vitamind-mcp"
+}

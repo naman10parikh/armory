@@ -1,0 +1,7 @@
+{
+  "name": "gemini-webapi-mcp",
+  "description": "MCP server for Google Gemini that enables image generation, editing, file analysis, and chat using browser cookies, no API key needed.",
+  "source_repo": "AndyShaman/gemini-webapi-mcp",
+  "source_url": "https://github.com/AndyShaman/gemini-webapi-mcp",
+  "install": "npx -y gemini-webapi-mcp"
+}

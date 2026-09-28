@@ -1,0 +1,7 @@
+{
+  "name": "neovimmcp",
+  "description": "Enables AI clients to interact with Neovim buffers via MCP tools, providing buffer and cursor context.",
+  "source_repo": "JaydenYip3/NeovimMCP",
+  "source_url": "https://github.com/JaydenYip3/NeovimMCP",
+  "install": "# git clone --depth 1 https://github.com/JaydenYip3/NeovimMCP\n# See source for mcpServers config block"
+}

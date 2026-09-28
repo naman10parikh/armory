@@ -1,0 +1,7 @@
+{
+  "name": "detran-ce-emiss-o-de-taxa-de-multas-antiga",
+  "description": "MCP server for querying DETRAN CE (Ceará) traffic fine issuance data from an official source, with a single read-only tool. It operates over MCP over HTTP, compatible with Claude, Cursor, and other clients, using prepaid credits.",
+  "source_repo": "mcp-dir/detran_ce_multas_antiga-mcp",
+  "source_url": "https://github.com/mcp-dir/detran_ce_multas_antiga-mcp",
+  "install": "npx -y detran_ce_multas_antiga-mcp"
+}

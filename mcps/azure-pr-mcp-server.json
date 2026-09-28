@@ -1,0 +1,7 @@
+{
+  "name": "azure-pr-mcp-server",
+  "description": "An MCP server that enables reviewing Azure DevOps Pull Request comments using the Azure CLI, with features like comment retrieval and status filtering.",
+  "source_repo": "tacone/simple-azure-devops-mcp",
+  "source_url": "https://github.com/tacone/simple-azure-devops-mcp",
+  "install": "npx -y simple-azure-devops-mcp"
+}

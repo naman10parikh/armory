@@ -1,0 +1,7 @@
+{
+  "name": "blockbench-mcp",
+  "description": "Enables AI agents to create and edit 3D models in Blockbench via the Model Context Protocol.",
+  "source_repo": "jasonjgardner/blockbench-mcp-plugin",
+  "source_url": "https://github.com/jasonjgardner/blockbench-mcp-plugin",
+  "install": "# git clone --depth 1 https://github.com/jasonjgardner/blockbench-mcp-plugin\n# See source for mcpServers config block"
+}

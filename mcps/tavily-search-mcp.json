@@ -1,0 +1,7 @@
+{
+  "name": "tavily-search-mcp",
+  "description": "MCP server that provides web search and web page content extraction tools using Tavily's API, enabling agents to retrieve current information from the web.",
+  "source_repo": "whfzdxhst/TavilySearchMCP",
+  "source_url": "https://github.com/whfzdxhst/TavilySearchMCP",
+  "install": "# git clone --depth 1 https://github.com/whfzdxhst/TavilySearchMCP\n# See source for mcpServers config block"
+}

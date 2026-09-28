@@ -1,0 +1,7 @@
+{
+  "name": "conselho-regional-de-odontologia-sp-cadastro",
+  "description": "Allows users to query the dental registry of the Regional Council of Dentistry of São Paulo from official sources.",
+  "source_repo": "mcp-dir/cro_sp_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_sp_cadastro-mcp",
+  "install": "npx -y cro_sp_cadastro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xunjuzhou-mcp-server",
+  "description": "XunJuZhou MCP is a read-only AI short drama search and recommendation MCP server. It supports keyword search, hot drama ranking, detail lookup, preference-based recommendation, and similar drama search.",
+  "source_repo": "wildmin/xunjuzhou-mcp-server",
+  "source_url": "https://github.com/wildmin/xunjuzhou-mcp-server",
+  "install": "npx -y xunjuzhou-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "boss-cli",
+  "description": "MCP server for searching BOSS直聘 (Boss Zhipin) job listings. It provides a boss_search tool that supports multi-city queries, keyword filtering, and JSON output for AI agents.",
+  "source_repo": "1013503897/boss-cli",
+  "source_url": "https://github.com/1013503897/boss-cli",
+  "install": "# git clone --depth 1 https://github.com/1013503897/boss-cli\n# See source for mcpServers config block"
+}

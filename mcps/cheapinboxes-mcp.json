@@ -1,0 +1,7 @@
+{
+  "name": "cheapinboxes-mcp",
+  "description": "MCP server for managing cold-email infrastructure: buy domains via Porkbun, import them into CheapInboxes, provision Google/Microsoft mailboxes, and sync credentials to platforms like Instantly and Smartlead.",
+  "source_repo": "cosankov/cheapinboxes-mcp",
+  "source_url": "https://github.com/cosankov/cheapinboxes-mcp",
+  "install": "npx -y cheapinboxes-mcp"
+}

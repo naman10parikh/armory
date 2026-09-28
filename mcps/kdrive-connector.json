@@ -1,0 +1,7 @@
+{
+  "name": "kdrive-connector",
+  "description": "MCP server for Infomaniak kDrive that enables natural, path-based read/write access to files. It supports browsing, searching, reading, uploading, renaming, moving, overwriting, and trashing items, with safety features like operation tokens and expiring private links.",
+  "source_repo": "mxpf/kdrive-connector",
+  "source_url": "https://github.com/mxpf/kdrive-connector",
+  "install": "# git clone --depth 1 https://github.com/mxpf/kdrive-connector\n# See source for mcpServers config block"
+}

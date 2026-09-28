@@ -1,0 +1,7 @@
+{
+  "name": "multi-cloud-llm-platform",
+  "description": "Exposes multiple LLM providers (AWS Bedrock, OpenAI, Google Gemini, local Ollama) as MCP tools with automatic routing by task type and Prometheus metrics, enabling any MCP-compatible client to generate text, route prompts, and list providers.",
+  "source_repo": "ariz-ahmad/multi-cloud-llm",
+  "source_url": "https://github.com/ariz-ahmad/multi-cloud-llm",
+  "install": "# git clone --depth 1 https://github.com/ariz-ahmad/multi-cloud-llm\n# See source for mcpServers config block"
+}

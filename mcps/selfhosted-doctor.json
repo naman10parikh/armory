@@ -1,0 +1,7 @@
+{
+  "name": "selfhosted-doctor",
+  "description": "Read-only MCP server that scans Docker Compose, Cloudflare Tunnel, and .env files for security risks in self-hosted homelabs.",
+  "source_repo": "Kevin9703/selfhosted-doctor",
+  "source_url": "https://github.com/Kevin9703/selfhosted-doctor",
+  "install": "# git clone --depth 1 https://github.com/Kevin9703/selfhosted-doctor\n# See source for mcpServers config block"
+}

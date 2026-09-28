@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-generator",
+  "description": "Creates, manages, and registers custom MCP servers for Claude Desktop. Enables users to generate and configure new MCP servers through natural language.",
+  "source_repo": "SerhatUzbas/mcp-server-generator",
+  "source_url": "https://github.com/SerhatUzbas/mcp-server-generator",
+  "install": "# git clone --depth 1 https://github.com/SerhatUzbas/mcp-server-generator\n# See source for mcpServers config block"
+}

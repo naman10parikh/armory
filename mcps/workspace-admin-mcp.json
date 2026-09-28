@@ -1,0 +1,7 @@
+{
+  "name": "workspace-admin-mcp",
+  "description": "An admin-oriented Model Context Protocol server for Google Workspace that lets LLMs perform directory and user lifecycle operations with safety guardrails and audit logging.",
+  "source_repo": "pizzacrustreviewer/workspace-admin-mcp",
+  "source_url": "https://github.com/pizzacrustreviewer/workspace-admin-mcp",
+  "install": "npx -y workspace-admin-mcp"
+}

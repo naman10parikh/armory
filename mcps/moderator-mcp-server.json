@@ -1,0 +1,7 @@
+{
+  "name": "moderator-mcp-server",
+  "description": "Allows users to manage multiple remote AI coding agents from a single Claude Code session, with a controlled execution model where operations require moderator approval.",
+  "source_repo": "linyh1983/multi-agent-moderator-mcp",
+  "source_url": "https://github.com/linyh1983/multi-agent-moderator-mcp",
+  "install": "npx -y multi-agent-moderator-mcp"
+}

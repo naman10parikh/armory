@@ -1,0 +1,7 @@
+{
+  "name": "incomeos-mcp",
+  "description": "Query your income by month and source, and log new monthly income, from any MCP client. Backed by IncomeOS, an open-source income tracker with Stripe sync plus manual entries for sources without an API.",
+  "source_repo": "Perufitlife/incomeos",
+  "source_url": "https://github.com/Perufitlife/incomeos",
+  "install": "# git clone --depth 1 https://github.com/Perufitlife/incomeos\n# See source for mcpServers config block"
+}

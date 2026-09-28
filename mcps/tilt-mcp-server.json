@@ -1,0 +1,7 @@
+{
+  "name": "tilt-mcp-server",
+  "description": "Enables LLMs and AI assistants to interact with Tilt development environments, providing tools to list resources, fetch logs, and monitor status.",
+  "source_repo": "aryan-agrawal-glean/tilt-mcp",
+  "source_url": "https://github.com/aryan-agrawal-glean/tilt-mcp",
+  "install": "npx -y tilt-mcp"
+}

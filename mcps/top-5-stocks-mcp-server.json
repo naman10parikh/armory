@@ -1,0 +1,7 @@
+{
+  "name": "top-5-stocks-mcp-server",
+  "description": "Exposes the Top 5 Stocks API as MCP tools for Claude and other agents, enabling market research watchlists and performance data retrieval.",
+  "source_repo": "Top5StocksAPI/mcp-server",
+  "source_url": "https://github.com/Top5StocksAPI/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Top5StocksAPI/mcp-server\n# See source for mcpServers config block"
+}

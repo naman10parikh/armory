@@ -1,0 +1,7 @@
+{
+  "name": "repowise",
+  "description": "Provides AI coding agents with five intelligence layers (dependency graph, git history, documentation, architectural decisions, code health) via nine MCP tools, enabling deep codebase understanding and reducing exploration cost.",
+  "source_repo": "repowise-dev/repowise",
+  "source_url": "https://github.com/repowise-dev/repowise",
+  "install": "# git clone --depth 1 https://github.com/repowise-dev/repowise\n# See source for mcpServers config block"
+}

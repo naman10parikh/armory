@@ -1,0 +1,7 @@
+{
+  "name": "proibidos-bacen",
+  "description": "Enables checking whether individuals or companies are on the Brazilian Central Bank's prohibited list (Quadro Geral de Proibidos) using CPF or CNPJ. Works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/bacen_proibidos-mcp",
+  "source_url": "https://github.com/mcp-dir/bacen_proibidos-mcp",
+  "install": "npx -y bacen_proibidos-mcp"
+}

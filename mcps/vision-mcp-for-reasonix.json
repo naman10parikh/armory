@@ -1,0 +1,7 @@
+{
+  "name": "vision-mcp-for-reasonix",
+  "description": "Provides vision capabilities to Reasonix, enabling analysis of images/videos, OCR, and comparisons via OpenAI-compatible vision models.",
+  "source_repo": "Dellety/vision-mcp-for-reasonix",
+  "source_url": "https://github.com/Dellety/vision-mcp-for-reasonix",
+  "install": "# git clone --depth 1 https://github.com/Dellety/vision-mcp-for-reasonix\n# See source for mcpServers config block"
+}

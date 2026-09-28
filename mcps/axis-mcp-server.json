@@ -1,0 +1,7 @@
+{
+  "name": "axis-mcp-server",
+  "description": "Runs a Model Context Protocol server directly on Axis cameras, enabling any MCP-capable AI to inspect and control the camera without cloud or middleware.",
+  "source_repo": "kotyzap/AXIS-MCP-Server",
+  "source_url": "https://github.com/kotyzap/AXIS-MCP-Server",
+  "install": "npx -y AXIS-MCP-Server"
+}

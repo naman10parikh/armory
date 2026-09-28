@@ -1,0 +1,7 @@
+{
+  "name": "pancake-pos-mcp",
+  "description": "Enables AI assistants to manage Vietnamese e-commerce POS operations including orders, products, customers, inventory, supply chain, sales, CRM, and multi-channel integration via Pancake POS API.",
+  "source_repo": "nguyennguyenit/pancake-pos-mcp",
+  "source_url": "https://github.com/nguyennguyenit/pancake-pos-mcp",
+  "install": "npx -y pancake-pos-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rundeck-mcp-server",
+  "description": "Enables AI assistants to manage Rundeck operations including jobs, executions, projects, nodes, system management, key storage, webhooks, and ACL policies via natural language.",
+  "source_repo": "mariomorenodev/rundeck-mcp-server",
+  "source_url": "https://github.com/mariomorenodev/rundeck-mcp-server",
+  "install": "npx -y rundeck-mcp-server"
+}

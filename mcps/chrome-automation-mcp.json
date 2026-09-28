@@ -1,0 +1,7 @@
+{
+  "name": "chrome-automation-mcp",
+  "description": "A Model Context Protocol (MCP) server for browser automation using Playwright to control Chrome browsers.",
+  "source_repo": "JackZhao98/chrome-automation-mcp",
+  "source_url": "https://github.com/JackZhao98/chrome-automation-mcp",
+  "install": "npx -y chrome-automation-mcp"
+}

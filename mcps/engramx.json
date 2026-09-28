@@ -1,0 +1,7 @@
+{
+  "name": "engramx",
+  "description": "One install. 8 IDEs. Your agent works from a structural map of your repo instead of re-reading whole files — so sessions run longer before the context wall — and bi-temporal mistakes are auto-captured from your git revert history, so it stops repeating fixes that already failed. Context packets run",
+  "source_repo": "NickCirv/engram",
+  "source_url": "https://github.com/NickCirv/engram",
+  "install": "# git clone --depth 1 https://github.com/NickCirv/engram\n# See source for mcpServers config block"
+}

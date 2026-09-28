@@ -1,0 +1,7 @@
+{
+  "name": "sap-hana-mcp",
+  "description": "An MCP server for SAP HANA that enables listing tables, columns, running SQL queries, and looking up SAP table descriptions, all through natural language via AI assistants.",
+  "source_repo": "Elkhn/sap-hana-mcp",
+  "source_url": "https://github.com/Elkhn/sap-hana-mcp",
+  "install": "npx -y sap-hana-mcp"
+}

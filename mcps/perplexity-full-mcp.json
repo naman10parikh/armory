@@ -1,0 +1,7 @@
+{
+  "name": "perplexity-full-mcp",
+  "description": "Gives AI agents live research and image generation capabilities by automating a logged-in Perplexity Pro browser session.",
+  "source_repo": "vaxosv/perplexityFullMCP",
+  "source_url": "https://github.com/vaxosv/perplexityFullMCP",
+  "install": "# git clone --depth 1 https://github.com/vaxosv/perplexityFullMCP\n# See source for mcpServers config block"
+}

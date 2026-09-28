@@ -1,0 +1,7 @@
+{
+  "name": "chat-with-audio",
+  "description": "Enables chat-driven audio analysis and enhancement using local Claude, including denoising, EQ, compression, and loudness normalization, with an A/B viewer for synchronized comparison.",
+  "source_repo": "learningtour/chat-with-audio",
+  "source_url": "https://github.com/learningtour/chat-with-audio",
+  "install": "# git clone --depth 1 https://github.com/learningtour/chat-with-audio\n# See source for mcpServers config block"
+}

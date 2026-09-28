@@ -1,0 +1,7 @@
+{
+  "name": "rhino-mcp",
+  "description": "Enables Claude to drive Rhino 8 and Grasshopper for geometry creation, manipulation, and analysis via natural language.",
+  "source_repo": "EaseHee/rhino-mcp",
+  "source_url": "https://github.com/EaseHee/rhino-mcp",
+  "install": "npx -y rhino-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "npm-search-mcp",
+  "description": "MCP server that searches npm packages and returns live registry data without an API key. Supports package search, detailed info, and side-by-side comparison of packages.",
+  "source_repo": "zcag/npm-search-mcp",
+  "source_url": "https://github.com/zcag/npm-search-mcp",
+  "install": "npx -y npm-search-mcp"
+}

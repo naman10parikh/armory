@@ -1,0 +1,7 @@
+{
+  "name": "mcp-setup-server",
+  "description": "A modular MCP server exposing tools for integrating with services like GitHub, Redash, Jenkins, Figma, Jira, Confluence, Teams, Datadog, PagerDuty, Slack, and Presto, enabling users to manage these platforms through natural language via an MCP client.",
+  "source_repo": "lakshmidevi2016/MCP_SETUP2016",
+  "source_url": "https://github.com/lakshmidevi2016/MCP_SETUP2016",
+  "install": "# git clone --depth 1 https://github.com/lakshmidevi2016/MCP_SETUP2016\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-perplexity",
+  "description": "Provides a Python-based interface to the Perplexity API for querying responses, maintaining chat history, and managing conversations. It enables models to ask questions, continue conversations, and list chats through Perplexity AI.",
+  "source_repo": "fastmcp-me/mcp-perplexity",
+  "source_url": "https://github.com/fastmcp-me/mcp-perplexity",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/mcp-perplexity\n# See source for mcpServers config block"
+}

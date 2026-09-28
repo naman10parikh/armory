@@ -1,0 +1,7 @@
+{
+  "name": "mcp-keycloak",
+  "description": "A Model Context Protocol (MCP) server that provides a natural language interface for managing Keycloak identity and access management through its REST API.",
+  "source_repo": "xuancanhit99/mcp-keycloak",
+  "source_url": "https://github.com/xuancanhit99/mcp-keycloak",
+  "install": "# git clone --depth 1 https://github.com/xuancanhit99/mcp-keycloak\n# See source for mcpServers config block"
+}

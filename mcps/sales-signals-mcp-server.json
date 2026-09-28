@@ -1,0 +1,7 @@
+{
+  "name": "sales-signals-mcp-server",
+  "description": "Give your AI agent 4 sales-timing tools: detect funding events, buying-signal hires, competitor pricing changes, and buying-intent Reddit posts. Know when to reach out, not just who.",
+  "source_repo": "emily397/sales-signals-mcp",
+  "source_url": "https://github.com/emily397/sales-signals-mcp",
+  "install": "npx -y sales-signals-mcp"
+}

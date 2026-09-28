@@ -1,0 +1,7 @@
+{
+  "name": "splitwise-chatgpt-mcp",
+  "description": "A data-only MCP server that connects ChatGPT to Splitwise's official API, enabling listing groups, friends, and expenses, as well as creating expenses with equal or explicit splits via natural language.",
+  "source_repo": "preethamd98/splitwise-chatgpt-mcp",
+  "source_url": "https://github.com/preethamd98/splitwise-chatgpt-mcp",
+  "install": "npx -y splitwise-chatgpt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "queue-mcp",
+  "description": "Task queue MCP server for Claude Code that allows adding, listing, and completing tasks from an external CLI, enabling Claude to drain a queue of follow-up work without disturbing a running turn.",
+  "source_repo": "mrconter1/queue-mcp",
+  "source_url": "https://github.com/mrconter1/queue-mcp",
+  "install": "npx -y queue-mcp"
+}

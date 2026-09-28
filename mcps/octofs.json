@@ -1,0 +1,7 @@
+{
+  "name": "octofs",
+  "description": "The fastest, most capable filesystem MCP server built in Rust, giving AI agents superpowers to read, search, edit, and manage files and directories.",
+  "source_repo": "Muvon/octofs",
+  "source_url": "https://github.com/Muvon/octofs",
+  "install": "# git clone --depth 1 https://github.com/Muvon/octofs\n# See source for mcpServers config block"
+}

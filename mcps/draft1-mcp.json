@@ -1,0 +1,7 @@
+{
+  "name": "draft1-mcp",
+  "description": "MCP server for generating and editing architecture diagrams from natural language or code, supporting formats like Terraform, docker-compose, Kubernetes, SQL, Mermaid, and PlantUML.",
+  "source_repo": "abdelhadi-azouni/draft1-mcp",
+  "source_url": "https://github.com/abdelhadi-azouni/draft1-mcp",
+  "install": "npx -y draft1-mcp"
+}

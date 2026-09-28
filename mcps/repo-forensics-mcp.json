@@ -1,0 +1,7 @@
+{
+  "name": "repo-forensics-mcp",
+  "description": "A local-only MCP server for understanding Git repositories, offering repository summary, recent changes, file hotspots, and hygiene checks without network access.",
+  "source_repo": "mrfentmen/repo-forensics-mcp",
+  "source_url": "https://github.com/mrfentmen/repo-forensics-mcp",
+  "install": "npx -y repo-forensics-mcp"
+}

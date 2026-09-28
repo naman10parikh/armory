@@ -1,0 +1,7 @@
+{
+  "name": "chainmemory-mcp",
+  "description": "Cross-model, cryptographically verifiable memory for AI agents, enabling portable, encrypted memory and project state management across different LLMs through the Model Context Protocol.",
+  "source_repo": "chaelynet/chainmemory-mcp",
+  "source_url": "https://github.com/chaelynet/chainmemory-mcp",
+  "install": "npx -y chainmemory-mcp"
+}

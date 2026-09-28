@@ -1,0 +1,7 @@
+{
+  "name": "droidlume",
+  "description": "Enables AI agents to control local Android virtual devices managed by DroidLume, including device lifecycle, app management, UI input, screenshots, and diagnostics through structured MCP tools.",
+  "source_repo": "tageecc/droidlume-agent-control",
+  "source_url": "https://github.com/tageecc/droidlume-agent-control",
+  "install": "# git clone --depth 1 https://github.com/tageecc/droidlume-agent-control\n# See source for mcpServers config block"
+}

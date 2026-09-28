@@ -1,0 +1,7 @@
+{
+  "name": "voice-memo-hub",
+  "description": "Enables read-first interaction with Apple Voice Memos: search transcripts, review action candidates, mark reviewed, prepare tasks for Codex, and render digests.",
+  "source_repo": "jremick/voice-memo-hub",
+  "source_url": "https://github.com/jremick/voice-memo-hub",
+  "install": "# git clone --depth 1 https://github.com/jremick/voice-memo-hub\n# See source for mcpServers config block"
+}

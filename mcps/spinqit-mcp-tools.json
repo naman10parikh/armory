@@ -1,0 +1,7 @@
+{
+  "name": "spinqit-mcp-tools",
+  "description": "SpinQit MCP Tools is a Python MCP server that connects AI assistants to SpinQ Cloud, enabling QASM circuit submission, platform discovery, and quantum task result retrieval through the Model Context Protocol.",
+  "source_repo": "SpinQTech/spinqit_mcp_tools",
+  "source_url": "https://github.com/SpinQTech/spinqit_mcp_tools",
+  "install": "# git clone --depth 1 https://github.com/SpinQTech/spinqit_mcp_tools\n# See source for mcpServers config block"
+}

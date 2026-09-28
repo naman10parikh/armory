@@ -1,0 +1,7 @@
+{
+  "name": "mcp-telegram",
+  "description": "A Telegram MCP server that connects agents to a real Telegram user account via MTProto, enabling reading, searching, sending, moderating, and managing Telegram chats through natural language or automated tool calls.",
+  "source_repo": "beautyfree/mcp-telegram",
+  "source_url": "https://github.com/beautyfree/mcp-telegram",
+  "install": "# git clone --depth 1 https://github.com/beautyfree/mcp-telegram\n# See source for mcpServers config block"
+}

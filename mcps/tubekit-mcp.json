@@ -1,0 +1,7 @@
+{
+  "name": "tubekit-mcp",
+  "description": "A compliance-aware MCP server for YouTube publishing, analytics, and creator insights. Every action is gated, metered, and audited before touching a channel.",
+  "source_repo": "santiriera626/tubekit-mcp",
+  "source_url": "https://github.com/santiriera626/tubekit-mcp",
+  "install": "npx -y tubekit-mcp"
+}

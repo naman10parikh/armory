@@ -1,0 +1,7 @@
+{
+  "name": "toolcall-mcp",
+  "description": "Provides 30 pay-per-call APIs (compliance, trade, safety, web, data) for AI agents via MCP with automatic USDC payment on Base.",
+  "source_repo": "BeneIstvan/toolcall-mcp",
+  "source_url": "https://github.com/BeneIstvan/toolcall-mcp",
+  "install": "npx -y toolcall-mcp"
+}

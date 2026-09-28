@@ -1,0 +1,7 @@
+{
+  "name": "easyhunt-ai",
+  "description": "MCP server for AI-driven VAPT orchestration, enabling agents to plan and execute authorized security scans through a control plane that enforces scope, sanitization, budget, rate limits, human approval, and audit logging.",
+  "source_repo": "iamsecure1920/EasyHunt-AI",
+  "source_url": "https://github.com/iamsecure1920/EasyHunt-AI",
+  "install": "# git clone --depth 1 https://github.com/iamsecure1920/EasyHunt-AI\n# See source for mcpServers config block"
+}

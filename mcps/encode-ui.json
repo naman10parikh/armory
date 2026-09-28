@@ -1,0 +1,7 @@
+{
+  "name": "encode-ui",
+  "description": "MCP server that lets AI agents search and inspect shadcn components from the encode-ui registry, returning metadata, source code, and install commands.",
+  "source_repo": "reuvenaor/encode-ui",
+  "source_url": "https://github.com/reuvenaor/encode-ui",
+  "install": "# git clone --depth 1 https://github.com/reuvenaor/encode-ui\n# See source for mcpServers config block"
+}

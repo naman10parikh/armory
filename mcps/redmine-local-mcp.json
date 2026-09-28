@@ -1,0 +1,7 @@
+{
+  "name": "redmine-local-mcp",
+  "description": "A local STDIO server that exposes Redmine REST API as MCP tools, allowing MCP clients to browse Redmine projects and tickets.",
+  "source_repo": "NobuoTsukamoto/redmine-local-mcp",
+  "source_url": "https://github.com/NobuoTsukamoto/redmine-local-mcp",
+  "install": "npx -y redmine-local-mcp"
+}

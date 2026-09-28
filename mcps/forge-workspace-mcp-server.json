@@ -1,0 +1,7 @@
+{
+  "name": "forge-workspace-mcp-server",
+  "description": "A deliberately narrow, approval-gated workspace server that safely reads and writes files and runs allowlisted commands only inside one configured workspace, requiring visible approval for every write, process execution, and file read, with stale-overwrite protection and symlink-escape rejection.",
+  "source_repo": "mwdk2smb4r-ux/forge-product-agent",
+  "source_url": "https://github.com/mwdk2smb4r-ux/forge-product-agent",
+  "install": "# git clone --depth 1 https://github.com/mwdk2smb4r-ux/forge-product-agent\n# See source for mcpServers config block"
+}

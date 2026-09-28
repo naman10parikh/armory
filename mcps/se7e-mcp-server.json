@@ -1,0 +1,7 @@
+{
+  "name": "se7e-mcp-server",
+  "description": "MCP server that enables an AI to query the Se7e ERP via the plug-server API, supporting authentication and catalog reconciliation.",
+  "source_repo": "cesar-carlos/plug_mcp",
+  "source_url": "https://github.com/cesar-carlos/plug_mcp",
+  "install": "npx -y plug_mcp"
+}

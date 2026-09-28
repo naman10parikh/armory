@@ -1,0 +1,7 @@
+{
+  "name": "open-brain-knowledge-mcp-server",
+  "description": "A persistent, cross-session knowledge base for AI agents that indexes session history into a searchable SQLite database with full-text search, enabling recall of past sessions, stored knowledge, and summaries.",
+  "source_repo": "melvenac/open-brain-knowledge",
+  "source_url": "https://github.com/melvenac/open-brain-knowledge",
+  "install": "# git clone --depth 1 https://github.com/melvenac/open-brain-knowledge\n# See source for mcpServers config block"
+}

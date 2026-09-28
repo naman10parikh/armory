@@ -1,0 +1,7 @@
+{
+  "name": "ultimate-gemini-mcp",
+  "description": "MCP server for Google's Gemini 3.1 Flash Image that enables fast, high-resolution image generation with advanced reasoning, up to 14 reference images, Google Search grounding, and automatic thinking mode.",
+  "source_repo": "anand-92/ultimate-image-gen-mcp",
+  "source_url": "https://github.com/anand-92/ultimate-image-gen-mcp",
+  "install": "npx -y ultimate-image-gen-mcp"
+}

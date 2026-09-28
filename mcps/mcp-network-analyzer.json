@@ -1,0 +1,7 @@
+{
+  "name": "mcp-network-analyzer",
+  "description": "Captures browser network traffic, analyzes API patterns, and exposes analysis tools through an MCP server for AI-assisted workflows.",
+  "source_repo": "kylebrodeur/mcp-network-analyzer",
+  "source_url": "https://github.com/kylebrodeur/mcp-network-analyzer",
+  "install": "# git clone --depth 1 https://github.com/kylebrodeur/mcp-network-analyzer\n# See source for mcpServers config block"
+}

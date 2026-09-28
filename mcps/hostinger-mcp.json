@@ -1,0 +1,7 @@
+{
+  "name": "hostinger-mcp",
+  "description": "Enables interaction with Hostinger's services through 111 OpenAPI tools, deployment helpers, and agent-navigation tools, with built-in safety defaults.",
+  "source_repo": "MADPANDA3D/HOSTINGER-MCP",
+  "source_url": "https://github.com/MADPANDA3D/HOSTINGER-MCP",
+  "install": "npx -y HOSTINGER-MCP"
+}

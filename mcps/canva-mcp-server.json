@@ -1,0 +1,7 @@
+{
+  "name": "canva-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for Canva integration. Connect Claude Code or any MCP-compatible AI client to your Canva account to search designs, generate AI designs, edit content, manage folders, and collaborate through comments.",
+  "source_repo": "falcoschaefer99-eng/canva-mcp-server",
+  "source_url": "https://github.com/falcoschaefer99-eng/canva-mcp-server",
+  "install": "npx -y canva-mcp-server"
+}

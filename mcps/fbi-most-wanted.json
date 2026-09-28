@@ -1,0 +1,7 @@
+{
+  "name": "fbi-most-wanted",
+  "description": "Enables checking names against the FBI Most Wanted list for compliance and AML due diligence via a read-only MCP tool.",
+  "source_repo": "mcp-dir/fbi_most_wanted-mcp",
+  "source_url": "https://github.com/mcp-dir/fbi_most_wanted-mcp",
+  "install": "npx -y fbi_most_wanted-mcp"
+}

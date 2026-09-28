@@ -1,0 +1,7 @@
+{
+  "name": "ab-platform-mcp-local",
+  "description": "A local MCP server that forwards tools from an upstream experiment platform and adds AI Agent tools for experiment analysis and skill debugging.",
+  "source_repo": "leinay633-maker/ab-platform-mcp",
+  "source_url": "https://github.com/leinay633-maker/ab-platform-mcp",
+  "install": "npx -y ab-platform-mcp"
+}

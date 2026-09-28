@@ -1,0 +1,7 @@
+{
+  "name": "mcp-apps-dashboard-demo",
+  "description": "A demo MCP server that returns an interactive dashboard (bar chart with dataset selector) as an MCP App via the official MCP Apps extension (SEP-1865).",
+  "source_repo": "ctocamar/mcp-apps-dashboard-demo",
+  "source_url": "https://github.com/ctocamar/mcp-apps-dashboard-demo",
+  "install": "# git clone --depth 1 https://github.com/ctocamar/mcp-apps-dashboard-demo\n# See source for mcpServers config block"
+}

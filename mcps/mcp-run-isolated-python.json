@@ -1,0 +1,7 @@
+{
+  "name": "mcp-run-isolated-python",
+  "description": "Enables LLMs to execute Python code securely in a sandboxed environment. Supports configurable restrictions like no network access and returns results including files.",
+  "source_repo": "Kigstn/mcp-run-isolated-python",
+  "source_url": "https://github.com/Kigstn/mcp-run-isolated-python",
+  "install": "# git clone --depth 1 https://github.com/Kigstn/mcp-run-isolated-python\n# See source for mcpServers config block"
+}

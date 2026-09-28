@@ -1,0 +1,7 @@
+{
+  "name": "customs-mcp-server",
+  "description": "Provides 14 customs and trade operations as MCP tools, enabling AI agents to query tariff, track declarations, screen dual-use items, and generate AI-powered declarations.",
+  "source_repo": "yak33/customs-mcp-server",
+  "source_url": "https://github.com/yak33/customs-mcp-server",
+  "install": "npx -y customs-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codepet-mcp-server",
+  "description": "A local MCP server that captures coding context, tracks developer sessions, and powers daily insights.",
+  "source_repo": "My-Outcasts/codepet-mcp-server",
+  "source_url": "https://github.com/My-Outcasts/codepet-mcp-server",
+  "install": "npx -y codepet-mcp-server"
+}

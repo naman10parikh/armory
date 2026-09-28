@@ -1,0 +1,7 @@
+{
+  "name": "trustscoreagent-mcp",
+  "description": "A free, open reputation registry for AI microservices: check a service's trust score before calling it and submit a rating afterward. Ratings can be backed by cryptographic receipts signed by the service and are recorded in a verifiable Merkle audit log.",
+  "source_repo": "trustscoreagent/trustscoreagent",
+  "source_url": "https://github.com/trustscoreagent/trustscoreagent",
+  "install": "# git clone --depth 1 https://github.com/trustscoreagent/trustscoreagent\n# See source for mcpServers config block"
+}

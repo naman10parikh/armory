@@ -1,0 +1,7 @@
+{
+  "name": "x402-ads-mcp",
+  "description": "x402 Ads lets AI agents buy and verify ad placements with per-request USDC payments. Agents can discover inventory, submit campaign context, receive structured placement options, and pay through x402 without API keys or accounts. Built for autonomous promotion, attribution, and pay-per-action agent",
+  "source_repo": "forgemeshlabs/x402-ads-mcp",
+  "source_url": "https://github.com/forgemeshlabs/x402-ads-mcp",
+  "install": "npx -y x402-ads-mcp"
+}

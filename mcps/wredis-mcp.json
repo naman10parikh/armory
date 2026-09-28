@@ -1,0 +1,7 @@
+{
+  "name": "wredis-mcp",
+  "description": "MCP server enabling AI agents to design and deploy WRedis/Redis-backed services using expert patterns, architecture scaffolding, and a unified CLI.",
+  "source_repo": "wisrovi/wredis_mcp",
+  "source_url": "https://github.com/wisrovi/wredis_mcp",
+  "install": "npx -y wredis_mcp"
+}

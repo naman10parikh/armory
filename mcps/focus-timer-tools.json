@@ -1,0 +1,7 @@
+{
+  "name": "focus-timer-tools",
+  "description": "MCP server that provides tools to control a server-owned Pomodoro timer, allowing focus, pause, resume, skip, reset, and stats operations.",
+  "source_repo": "jpvarbed/focus-timer-tools",
+  "source_url": "https://github.com/jpvarbed/focus-timer-tools",
+  "install": "# git clone --depth 1 https://github.com/jpvarbed/focus-timer-tools\n# See source for mcpServers config block"
+}

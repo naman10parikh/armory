@@ -1,0 +1,7 @@
+{
+  "name": "lexml-mcp",
+  "description": "MCP server for LexML Brasil — search the legislative SRU acervo, resolve URNs, and inspect service metadata.",
+  "source_repo": "prof-ramos/LeXML-mcp",
+  "source_url": "https://github.com/prof-ramos/LeXML-mcp",
+  "install": "npx -y LeXML-mcp"
+}

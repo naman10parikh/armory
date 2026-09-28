@@ -1,0 +1,7 @@
+{
+  "name": "wt-mcp",
+  "description": "MCP server for managing git worktrees per product, enabling agents to create, list, sync, and open tasks with multiple projects, reusable YAML config, and auto-generated Cursor/VS Code workspaces.",
+  "source_repo": "felipemdf/wt-manager",
+  "source_url": "https://github.com/felipemdf/wt-manager",
+  "install": "# git clone --depth 1 https://github.com/felipemdf/wt-manager\n# See source for mcpServers config block"
+}

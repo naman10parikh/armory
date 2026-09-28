@@ -1,0 +1,7 @@
+{
+  "name": "glpi-mcp",
+  "description": "MCP server allowing an AI assistant to interact directly with your GLPI instance via its REST API, enabling ticket management, knowledge base operations, and statistics.",
+  "source_repo": "svtica/glpi-mcp",
+  "source_url": "https://github.com/svtica/glpi-mcp",
+  "install": "npx -y glpi-mcp"
+}

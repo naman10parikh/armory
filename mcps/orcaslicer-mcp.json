@@ -1,0 +1,7 @@
+{
+  "name": "orcaslicer-mcp",
+  "description": "Enables headless slicing with OrcaSlicer, preset management, G-code analysis, and printer control over LAN for Klipper, OctoPrint, Prusa, Duet, Elegoo, and Bambu printers.",
+  "source_repo": "ShreddyKrueger75/claude-orcaslicer-mcp",
+  "source_url": "https://github.com/ShreddyKrueger75/claude-orcaslicer-mcp",
+  "install": "npx -y claude-orcaslicer-mcp"
+}

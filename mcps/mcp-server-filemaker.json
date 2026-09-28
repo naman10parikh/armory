@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-filemaker",
+  "description": "An MCP server that provides AI assistants with direct access to FileMaker databases via OData v4 API, enabling CRUD operations, script execution, and schema introspection.",
+  "source_repo": "JoergKoester/mcp-server-filemaker",
+  "source_url": "https://github.com/JoergKoester/mcp-server-filemaker",
+  "install": "# git clone --depth 1 https://github.com/JoergKoester/mcp-server-filemaker\n# See source for mcpServers config block"
+}

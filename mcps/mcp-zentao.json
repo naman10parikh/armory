@@ -1,0 +1,7 @@
+{
+  "name": "mcp-zentao",
+  "description": "An MCP server that enables reading and managing Zentao tasks, bugs, requirements, test cases, and test suites via the ZenTao 11.3 Legacy Session API. It integrates with MCP clients like Codex, Claude Desktop, and Cursor.",
+  "source_repo": "luffy-mcw/mcp-zentao",
+  "source_url": "https://github.com/luffy-mcw/mcp-zentao",
+  "install": "# git clone --depth 1 https://github.com/luffy-mcw/mcp-zentao\n# See source for mcpServers config block"
+}

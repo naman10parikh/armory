@@ -1,0 +1,7 @@
+{
+  "name": "mncs-forge-mcp",
+  "description": "An experimental MCP server for MNCS-native development and evidence control, enabling Codex to manage project authority, candidate lineage, evidence gaps, and evaluator-mode boundaries.",
+  "source_repo": "epi13/mncs-forge-mcp",
+  "source_url": "https://github.com/epi13/mncs-forge-mcp",
+  "install": "npx -y mncs-forge-mcp"
+}

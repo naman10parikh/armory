@@ -1,0 +1,7 @@
+{
+  "name": "falladviser-us-mcp",
+  "description": "MCP server for sovereign, offline-capable fall advisory services in the US, wrapped from the falladviser-us SDK.",
+  "source_repo": "sjgant80-hub/falladviser-us-mcp",
+  "source_url": "https://github.com/sjgant80-hub/falladviser-us-mcp",
+  "install": "npx -y falladviser-us-mcp"
+}

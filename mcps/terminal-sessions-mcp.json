@@ -1,0 +1,7 @@
+{
+  "name": "terminal-sessions-mcp",
+  "description": "Interactive, persistent terminal sessions for AI assistants via Model Context Protocol.",
+  "source_repo": "antra-tess/terminal-sessions-mcp",
+  "source_url": "https://github.com/antra-tess/terminal-sessions-mcp",
+  "install": "npx -y terminal-sessions-mcp"
+}

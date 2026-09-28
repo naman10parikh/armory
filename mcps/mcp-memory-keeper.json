@@ -1,0 +1,7 @@
+{
+  "name": "mcp-memory-keeper",
+  "description": "A local MCP server using SQLite to unify context and memory across multiple AI agents, enabling persistent decisions and preferences without re-explanation.",
+  "source_repo": "anthonycho-ux/unified-agent-context",
+  "source_url": "https://github.com/anthonycho-ux/unified-agent-context",
+  "install": "# git clone --depth 1 https://github.com/anthonycho-ux/unified-agent-context\n# See source for mcpServers config block"
+}

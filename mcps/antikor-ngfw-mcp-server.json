@@ -1,0 +1,7 @@
+{
+  "name": "antikor-ngfw-mcp-server",
+  "description": "Dynamically loads the Antikor NGFW API schema and exposes eligible endpoints as MCP tools for firewall management via natural language.",
+  "source_repo": "ePati-Cyber-Security/antikor-ngfw-mcp",
+  "source_url": "https://github.com/ePati-Cyber-Security/antikor-ngfw-mcp",
+  "install": "npx -y antikor-ngfw-mcp"
+}

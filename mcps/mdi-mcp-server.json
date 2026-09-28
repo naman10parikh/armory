@@ -1,0 +1,7 @@
+{
+  "name": "mdi-mcp-server",
+  "description": "MCP server for searching Material Design Icons, enabling AI agents to find icons by name, alias, category, or concept.",
+  "source_repo": "romeldev/mdi-mcp-server",
+  "source_url": "https://github.com/romeldev/mdi-mcp-server",
+  "install": "npx -y mdi-mcp-server"
+}

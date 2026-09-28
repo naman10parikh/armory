@@ -1,0 +1,7 @@
+{
+  "name": "qsearch",
+  "description": "Enables AI agents to perform web searches with full content retrieval and multi-engine provenance, including trust scoring and local corpus persistence, via MCP integration.",
+  "source_repo": "theYahia/qsearch",
+  "source_url": "https://github.com/theYahia/qsearch",
+  "install": "# git clone --depth 1 https://github.com/theYahia/qsearch\n# See source for mcpServers config block"
+}

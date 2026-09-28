@@ -1,0 +1,7 @@
+{
+  "name": "sophos-firewall-mcp-server",
+  "description": "An asynchronous MCP server for Sophos Firewall, enabling AI assistants to manage, audit, and troubleshoot network security infrastructure.",
+  "source_repo": "jelmervdm/sophos-firewall-mcp",
+  "source_url": "https://github.com/jelmervdm/sophos-firewall-mcp",
+  "install": "npx -y sophos-firewall-mcp"
+}

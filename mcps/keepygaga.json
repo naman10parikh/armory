@@ -1,0 +1,7 @@
+{
+  "name": "keepygaga",
+  "description": "Enables AI agents to maintain a small, curated set of durable personal memories in local Markdown via eight explicit MCP tools, avoiding unselective recall and temporary state.",
+  "source_repo": "TimWongUp/keepygaga",
+  "source_url": "https://github.com/TimWongUp/keepygaga",
+  "install": "# git clone --depth 1 https://github.com/TimWongUp/keepygaga\n# See source for mcpServers config block"
+}

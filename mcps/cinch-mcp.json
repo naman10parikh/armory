@@ -1,0 +1,7 @@
+{
+  "name": "cinch-mcp",
+  "description": "MCP server that gives AI assistants a secure gVisor-isolated sandbox to run Python or JavaScript code, returning stdout, stderr, and exit codes without local access.",
+  "source_repo": "yusufkadry/cinch-mcp",
+  "source_url": "https://github.com/yusufkadry/cinch-mcp",
+  "install": "npx -y cinch-mcp"
+}

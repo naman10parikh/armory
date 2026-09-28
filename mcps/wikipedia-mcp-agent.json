@@ -1,0 +1,7 @@
+{
+  "name": "wikipedia-mcp-agent",
+  "description": "Enables searching and reading Wikipedia articles through tools like search, section listing, and content retrieval. Supports prompt templates and resource suggestions for topic exploration.",
+  "source_repo": "sadeghetemad/wikipedia-mcp-agent",
+  "source_url": "https://github.com/sadeghetemad/wikipedia-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/sadeghetemad/wikipedia-mcp-agent\n# See source for mcpServers config block"
+}

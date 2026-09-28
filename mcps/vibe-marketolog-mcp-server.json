@@ -1,0 +1,7 @@
+{
+  "name": "vibe-marketolog-mcp-server",
+  "description": "MCP server providing tools to interact with Vibe Marketolog agent API for landing page audit, cost tracking, and account status, with call logging and caching.",
+  "source_repo": "FloppaProg/vibe-agent-api-mcp",
+  "source_url": "https://github.com/FloppaProg/vibe-agent-api-mcp",
+  "install": "npx -y vibe-agent-api-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipedream-mcp",
+  "description": "Pipedream Connect exposed as MCP: 2,800+ APIs with managed auth, one server.",
+  "source_repo": "https://pipedream.com/docs/connect/mcp",
+  "source_url": "https://pipedream.com/docs/connect/mcp",
+  "install": "# git clone --depth 1 https://pipedream.com/docs/connect/mcp\n# See source for mcpServers config block"
+}

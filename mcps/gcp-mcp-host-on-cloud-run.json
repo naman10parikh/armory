@@ -1,0 +1,7 @@
+{
+  "name": "gcp-mcp-host-on-cloud-run",
+  "description": "Enables management of GCP resources and integration with AI development tools via a stateless MCP server hosted on Cloud Run.",
+  "source_repo": "jaakkokorhonen/gcp-stateless-mcp",
+  "source_url": "https://github.com/jaakkokorhonen/gcp-stateless-mcp",
+  "install": "npx -y gcp-stateless-mcp"
+}

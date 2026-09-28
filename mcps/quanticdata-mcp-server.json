@@ -1,0 +1,7 @@
+{
+  "name": "quanticdata-mcp-server",
+  "description": "Provides AI agents live web access through scraping, multi-engine search, site mapping, crawling, SEO audits, and 31 data collectors via natural language tool calls.",
+  "source_repo": "quantumproxies/quanticdata-mcp-server",
+  "source_url": "https://github.com/quantumproxies/quanticdata-mcp-server",
+  "install": "npx -y quanticdata-mcp-server"
+}

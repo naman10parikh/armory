@@ -1,0 +1,7 @@
+{
+  "name": "agent-bridge-2",
+  "description": "An MCP central server that lets multiple AI agents (e.g., Claude Code, kimi-code) exchange private messages, shared channel broadcasts, and unified message streams via MCP tools, with SQLite persistence and per-connection identity binding.",
+  "source_repo": "itcomduke/agent-bridge",
+  "source_url": "https://github.com/itcomduke/agent-bridge",
+  "install": "# git clone --depth 1 https://github.com/itcomduke/agent-bridge\n# See source for mcpServers config block"
+}

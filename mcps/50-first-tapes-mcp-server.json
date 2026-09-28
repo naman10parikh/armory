@@ -1,0 +1,7 @@
+{
+  "name": "50-first-tapes-mcp-server",
+  "description": "Enables AI agents to read and write a local-first knowledge base of plain markdown files in git, with governance gates for safe, hash-anchored edits.",
+  "source_repo": "adilzuberi/50firsttapes",
+  "source_url": "https://github.com/adilzuberi/50firsttapes",
+  "install": "# git clone --depth 1 https://github.com/adilzuberi/50firsttapes\n# See source for mcpServers config block"
+}

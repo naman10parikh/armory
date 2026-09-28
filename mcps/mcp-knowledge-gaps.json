@@ -1,0 +1,7 @@
+{
+  "name": "mcp-knowledge-gaps",
+  "description": "Identifies knowledge gaps in markdown vaults, ranks them by priority, generates research questions, and offers long-tail sampling to break confirmation bias.",
+  "source_repo": "ermintoygar/mcp-knowledge-gaps",
+  "source_url": "https://github.com/ermintoygar/mcp-knowledge-gaps",
+  "install": "# git clone --depth 1 https://github.com/ermintoygar/mcp-knowledge-gaps\n# See source for mcpServers config block"
+}

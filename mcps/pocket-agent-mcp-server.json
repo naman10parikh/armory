@@ -1,0 +1,7 @@
+{
+  "name": "pocket-agent-mcp-server",
+  "description": "Enables read-only access to Pocket Agent's product information, public persona templates, and app catalog. No authentication required.",
+  "source_repo": "cwhited26/pocket-agent-mcp",
+  "source_url": "https://github.com/cwhited26/pocket-agent-mcp",
+  "install": "npx -y pocket-agent-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gas-mcp-server",
+  "description": "Enables local execution of Google Apps Script tools for Google Workspace automation via an MCP server, using gas-fakes for secure sandboxed execution.",
+  "source_repo": "tanaikech/Next-Level-Google-Apps-Script-Development",
+  "source_url": "https://github.com/tanaikech/Next-Level-Google-Apps-Script-Development",
+  "install": "# git clone --depth 1 https://github.com/tanaikech/Next-Level-Google-Apps-Script-Development\n# See source for mcpServers config block"
+}

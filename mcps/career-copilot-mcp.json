@@ -1,0 +1,7 @@
+{
+  "name": "career-copilot-mcp",
+  "description": "Enables exploring and analyzing US Data Analyst job postings, offering job search, salary benchmarking, and skill-demand insights through MCP tools, resources, and a career gap review prompt.",
+  "source_repo": "Aniruddha-Shukla/week-5-mcp",
+  "source_url": "https://github.com/Aniruddha-Shukla/week-5-mcp",
+  "install": "npx -y week-5-mcp"
+}

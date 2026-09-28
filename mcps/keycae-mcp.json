@@ -1,0 +1,7 @@
+{
+  "name": "keycae-mcp",
+  "description": "Argentine electronic invoicing (facturación electrónica) MCP Server for ARCA/AFIP. Emit invoices, manage credentials, check delegations, and look up taxpayers. 10 tools.",
+  "source_repo": "AMKRS3/keycae-mcp",
+  "source_url": "https://github.com/AMKRS3/keycae-mcp",
+  "install": "npx -y keycae-mcp"
+}

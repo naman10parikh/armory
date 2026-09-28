@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-minecraft-mod-devdoc",
+  "description": "Provides access to Minecraft mod development documentation (Neoforge) via MCP tools, allowing users to list providers and versions, browse file structures with previews, and retrieve full document content.",
+  "source_repo": "Zhou-Shilin/mcp-server-minecraft-mod-devdoc",
+  "source_url": "https://github.com/Zhou-Shilin/mcp-server-minecraft-mod-devdoc",
+  "install": "# git clone --depth 1 https://github.com/Zhou-Shilin/mcp-server-minecraft-mod-devdoc\n# See source for mcpServers config block"
+}

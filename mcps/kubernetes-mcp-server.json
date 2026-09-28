@@ -1,0 +1,7 @@
+{
+  "name": "kubernetes-mcp-server",
+  "description": "Enables secure Kubernetes operations with configurable security modes, supporting core Kubernetes resources, Istio service mesh, and Helm chart management through natural language.",
+  "source_repo": "bharathmadvar123/kubernetes-mcp-server",
+  "source_url": "https://github.com/bharathmadvar123/kubernetes-mcp-server",
+  "install": "npx -y kubernetes-mcp-server"
+}

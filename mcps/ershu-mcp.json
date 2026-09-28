@@ -1,0 +1,7 @@
+{
+  "name": "ershu-mcp",
+  "description": "Provides authenticated access to Ershu projects, enabling discovery, document and source navigation, indexed search, and consumer contract reads for coding agents and maintainers.",
+  "source_repo": "ershu-lab/ershu-mcp",
+  "source_url": "https://github.com/ershu-lab/ershu-mcp",
+  "install": "npx -y ershu-mcp"
+}

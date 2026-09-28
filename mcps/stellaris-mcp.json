@@ -1,0 +1,7 @@
+{
+  "name": "stellaris-mcp",
+  "description": "Combines semantic search with AST-based code exploration for AI agents, enabling natural language code search, file structure browsing, symbol inspection, and dependency analysis through the Model Context Protocol.",
+  "source_repo": "GDM-Pixel/stellaris-code-search",
+  "source_url": "https://github.com/GDM-Pixel/stellaris-code-search",
+  "install": "# git clone --depth 1 https://github.com/GDM-Pixel/stellaris-code-search\n# See source for mcpServers config block"
+}

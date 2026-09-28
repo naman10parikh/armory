@@ -1,0 +1,7 @@
+{
+  "name": "banco-do-brasil-mcp",
+  "description": "Connects your Banco do Brasil account to AI assistants via Open Finance Brasil, allowing natural language queries about balances, statements, credit card bills, and investments. Read-only, regulated by the Central Bank.",
+  "source_repo": "mcp-dir/bb-mcp",
+  "source_url": "https://github.com/mcp-dir/bb-mcp",
+  "install": "npx -y bb-mcp"
+}

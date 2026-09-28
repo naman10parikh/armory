@@ -1,0 +1,7 @@
+{
+  "name": "defenseops-aerospace-mcp-platform",
+  "description": "Provides aerospace fleet telemetry monitoring, Mil-Spec RAG search, fleet maintenance queries, sandboxed mission log exports, and tactical alert dispatching.",
+  "source_repo": "jdbruh18/defenseops-aerospace-mcp-platform",
+  "source_url": "https://github.com/jdbruh18/defenseops-aerospace-mcp-platform",
+  "install": "# git clone --depth 1 https://github.com/jdbruh18/defenseops-aerospace-mcp-platform\n# See source for mcpServers config block"
+}

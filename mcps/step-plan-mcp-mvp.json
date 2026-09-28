@@ -1,0 +1,7 @@
+{
+  "name": "step-plan-mcp-mvp",
+  "description": "A local MCP server that integrates Step Plan API for image generation and text-to-speech, allowing MCP-compatible clients like Codex to use these capabilities without switching models.",
+  "source_repo": "VITAisaFemmeFatale/step-plan-mcp-mvp",
+  "source_url": "https://github.com/VITAisaFemmeFatale/step-plan-mcp-mvp",
+  "install": "# git clone --depth 1 https://github.com/VITAisaFemmeFatale/step-plan-mcp-mvp\n# See source for mcpServers config block"
+}

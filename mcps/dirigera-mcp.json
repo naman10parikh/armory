@@ -1,0 +1,7 @@
+{
+  "name": "dirigera-mcp",
+  "description": "An MCP server that lets an MCP client control IKEA TRÅDFRI smart plugs paired to a DIRIGERA hub via its local REST API.",
+  "source_repo": "david-s-svedberg/ikea-mcp",
+  "source_url": "https://github.com/david-s-svedberg/ikea-mcp",
+  "install": "npx -y ikea-mcp"
+}

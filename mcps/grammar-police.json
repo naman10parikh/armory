@@ -1,0 +1,7 @@
+{
+  "name": "grammar-police",
+  "description": "Provides automated grammar checking by intercepting user input and returning correction instructions for MCP-compatible clients like Claude Desktop and Claude Code.",
+  "source_repo": "acforu/grammar-police-mcp",
+  "source_url": "https://github.com/acforu/grammar-police-mcp",
+  "install": "npx -y grammar-police-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "co-reading-kit",
+  "description": "A low-token human-AI co-reading MCP tool that imports local EPUB/TXT/Markdown books into chunks, enabling AI to read only relevant fragments and write co-reading results to long-term reading notes and progress files.",
+  "source_repo": "Youxuuuuu/co-reading-kit",
+  "source_url": "https://github.com/Youxuuuuu/co-reading-kit",
+  "install": "# git clone --depth 1 https://github.com/Youxuuuuu/co-reading-kit\n# See source for mcpServers config block"
+}

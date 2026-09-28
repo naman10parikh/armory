@@ -1,0 +1,7 @@
+{
+  "name": "news-api-mcp-server",
+  "description": "Enables AI assistants to search news articles, get top headlines, and browse sources via the NewsAPI.org service.",
+  "source_repo": "kcjonnyc/news_mcp",
+  "source_url": "https://github.com/kcjonnyc/news_mcp",
+  "install": "npx -y news_mcp"
+}

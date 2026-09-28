@@ -1,0 +1,7 @@
+{
+  "name": "cdk",
+  "description": "Buy video game keys, gift cards, and digital subscriptions via x402 USDC payments on Base. 8 tools covering catalog search, price quotes, on-chain purchase confirmation, delivery status, and refunds.",
+  "source_repo": "cdkbotmcp/cdk-mcp",
+  "source_url": "https://github.com/cdkbotmcp/cdk-mcp",
+  "install": "npx -y cdk-mcp"
+}

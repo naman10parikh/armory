@@ -1,0 +1,7 @@
+{
+  "name": "private-journal-mcp-server",
+  "description": "A project-scoped private journaling and semantic search server for Claude, using local AI embeddings to capture technical insights, user context, and work-in-progress notes.",
+  "source_repo": "lock3r/private-journal-mcp",
+  "source_url": "https://github.com/lock3r/private-journal-mcp",
+  "install": "npx -y private-journal-mcp"
+}

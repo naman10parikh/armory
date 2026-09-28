@@ -1,0 +1,7 @@
+{
+  "name": "juejin-mcp-server",
+  "description": "Enables AI assistants to access and analyze content from the Chinese developer community platform Juejin, including articles, trending topics, and user interactions.",
+  "source_repo": "ztxtxwd/juejin-mcp-server",
+  "source_url": "https://github.com/ztxtxwd/juejin-mcp-server",
+  "install": "npx -y juejin-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sintegra-ma",
+  "description": "MCP server for consulting SINTEGRA (MA) tax registration data from official sources, read-only.",
+  "source_repo": "mcp-dir/sintegra_ma-mcp",
+  "source_url": "https://github.com/mcp-dir/sintegra_ma-mcp",
+  "install": "npx -y sintegra_ma-mcp"
+}

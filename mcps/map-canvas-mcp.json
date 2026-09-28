@@ -1,0 +1,7 @@
+{
+  "name": "map-canvas-mcp",
+  "description": "Enables interactive map display with up to 50 marked places and optional route lines, using a bundled Leaflet UI and OpenStreetMap tiles.",
+  "source_repo": "diegodox/map-canvas-mcp",
+  "source_url": "https://github.com/diegodox/map-canvas-mcp",
+  "install": "npx -y map-canvas-mcp"
+}

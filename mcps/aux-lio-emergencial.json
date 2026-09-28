@@ -1,0 +1,7 @@
+{
+  "name": "aux-lio-emergencial",
+  "description": "Verifies the receipt of the Brazilian Auxílio Emergencial (emergency aid) by a beneficiary using CPF and NIS. It is a read-only, hosted MCP server that works with any MCP client.",
+  "source_repo": "mcp-dir/auxilio_emergencial-mcp",
+  "source_url": "https://github.com/mcp-dir/auxilio_emergencial-mcp",
+  "install": "npx -y auxilio_emergencial-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "threadline-core",
+  "description": "MCP server providing structured continuity memory for AI coding agents, tracking decisions, open loops, and session state in local SQLite. Enables agents to resume work from verified state across sessions without replaying transcripts.",
+  "source_repo": "richardoros/threadline-core",
+  "source_url": "https://github.com/richardoros/threadline-core",
+  "install": "# git clone --depth 1 https://github.com/richardoros/threadline-core\n# See source for mcpServers config block"
+}

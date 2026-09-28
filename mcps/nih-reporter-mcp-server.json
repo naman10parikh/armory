@@ -1,0 +1,7 @@
+{
+  "name": "nih-reporter-mcp-server",
+  "description": "Provides tools to search and retrieve data from NIH's RePORTER grant database, enabling queries for project counts, summaries, and detailed award information.",
+  "source_repo": "pradeept95/nih-reporter-mcp-server",
+  "source_url": "https://github.com/pradeept95/nih-reporter-mcp-server",
+  "install": "npx -y nih-reporter-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sky-pc-mcp-companion-safe",
+  "description": "A local MCP server for the Windows version of Sky: Children of the Light that enables AI clients to read validated game windows, perform local OCR, and send limited game keystrokes or chat text when explicitly permitted.",
+  "source_repo": "ll13355154947/sky-pc-mcp-companion-safe",
+  "source_url": "https://github.com/ll13355154947/sky-pc-mcp-companion-safe",
+  "install": "# git clone --depth 1 https://github.com/ll13355154947/sky-pc-mcp-companion-safe\n# See source for mcpServers config block"
+}

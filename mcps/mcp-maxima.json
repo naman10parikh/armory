@@ -1,0 +1,7 @@
+{
+  "name": "mcp-maxima",
+  "description": "Enables interaction with Maxima, a computer algebra system, for symbolic mathematics computation.",
+  "source_repo": "toms74209200/mcp-maxima",
+  "source_url": "https://github.com/toms74209200/mcp-maxima",
+  "install": "# git clone --depth 1 https://github.com/toms74209200/mcp-maxima\n# See source for mcpServers config block"
+}

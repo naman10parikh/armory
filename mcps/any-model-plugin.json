@@ -1,0 +1,7 @@
+{
+  "name": "any-model-plugin",
+  "description": "Enables AI agents to delegate tasks, run adversarial reviews, and manage background jobs across multiple models and providers via anymodel_* tools.",
+  "source_repo": "pealmeida/anymodel-plugin",
+  "source_url": "https://github.com/pealmeida/anymodel-plugin",
+  "install": "# git clone --depth 1 https://github.com/pealmeida/anymodel-plugin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "confluence-api-docs-mcp-server",
+  "description": "Generates API documentation in Confluence from Swagger/OpenAPI specs or NestJS controller files, including automatic Postman collection generation.",
+  "source_repo": "saleshandy/saleshandy-confluence-mcp-server",
+  "source_url": "https://github.com/saleshandy/saleshandy-confluence-mcp-server",
+  "install": "npx -y saleshandy-confluence-mcp-server"
+}

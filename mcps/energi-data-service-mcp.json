@@ -1,0 +1,7 @@
+{
+  "name": "energi-data-service-mcp",
+  "description": "Read-only MCP server for Energinet's public Energi Data Service. Enables dataset search, arbitrary dataset queries with filters, and CO2 emissions retrieval for DK1/DK2 without an API key.",
+  "source_repo": "Enevoldsen88/energi-data-service-mcp",
+  "source_url": "https://github.com/Enevoldsen88/energi-data-service-mcp",
+  "install": "npx -y energi-data-service-mcp"
+}

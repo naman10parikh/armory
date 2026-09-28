@@ -1,0 +1,7 @@
+{
+  "name": "zrobot-wsapi-mcp-server",
+  "description": "MCP server for IBM Z Hardware Management Console Web Services API integration with Bob AI, enabling management of HMC systems and partitions through natural language.",
+  "source_repo": "thirrukumar/zrobot-wsapi-mcp",
+  "source_url": "https://github.com/thirrukumar/zrobot-wsapi-mcp",
+  "install": "npx -y zrobot-wsapi-mcp"
+}

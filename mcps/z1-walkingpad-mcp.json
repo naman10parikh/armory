@@ -1,0 +1,7 @@
+{
+  "name": "z1-walkingpad-mcp",
+  "description": "Controls a KingSmith WalkingPad Z1 under-desk treadmill from a Mac over Bluetooth LE, with CLI and MCP server for status, start, stop, and speed control.",
+  "source_repo": "slandau3/z1-walkingpad-mcp",
+  "source_url": "https://github.com/slandau3/z1-walkingpad-mcp",
+  "install": "npx -y z1-walkingpad-mcp"
+}

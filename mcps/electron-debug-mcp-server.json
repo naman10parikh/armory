@@ -1,0 +1,7 @@
+{
+  "name": "electron-debug-mcp-server",
+  "description": "Enables debugging of Electron applications through the Model Context Protocol, with deep integration of Chrome DevTools Protocol for process management and advanced debugging capabilities.",
+  "source_repo": "amafjarkasi/electron-mcp-server",
+  "source_url": "https://github.com/amafjarkasi/electron-mcp-server",
+  "install": "npx -y electron-mcp-server"
+}

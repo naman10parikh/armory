@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-questdb",
+  "description": "QuestDB MCP server connects coding agents to a running QuestDB Web Console. The agent gets tools to create notebook cells, run queries, and build charts.",
+  "source_repo": "questdb/mcp-server-questdb",
+  "source_url": "https://github.com/questdb/mcp-server-questdb",
+  "install": "# git clone --depth 1 https://github.com/questdb/mcp-server-questdb\n# See source for mcpServers config block"
+}

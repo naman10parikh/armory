@@ -1,0 +1,7 @@
+{
+  "name": "agyforclaude",
+  "description": "MCP server enabling delegation of tasks to the Antigravity (Gemini) CLI from any AI client supporting MCP.",
+  "source_repo": "theoreticalthread/agyforclaude",
+  "source_url": "https://github.com/theoreticalthread/agyforclaude",
+  "install": "# git clone --depth 1 https://github.com/theoreticalthread/agyforclaude\n# See source for mcpServers config block"
+}

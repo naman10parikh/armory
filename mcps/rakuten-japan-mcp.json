@@ -1,0 +1,7 @@
+{
+  "name": "rakuten-japan-mcp",
+  "description": "MCP server to search Rakuten Ichiba (Japan's largest e-commerce platform) for products, returning names, prices, URLs, shop info, reviews, and images via the official Rakuten API.",
+  "source_repo": "atushi1841/rakuten-japan-mcp",
+  "source_url": "https://github.com/atushi1841/rakuten-japan-mcp",
+  "install": "npx -y rakuten-japan-mcp"
+}

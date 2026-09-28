@@ -1,0 +1,7 @@
+{
+  "name": "formpaste-mcp",
+  "description": "Enables coding agents to create and manage contact forms via the Formpaste API, including form creation, snippet generation, and submission management.",
+  "source_repo": "webrating/formpaste-mcp",
+  "source_url": "https://github.com/webrating/formpaste-mcp",
+  "install": "npx -y formpaste-mcp"
+}

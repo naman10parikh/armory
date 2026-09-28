@@ -1,0 +1,7 @@
+{
+  "name": "lex-provenance-mcp",
+  "description": "A read-only MCP connector for searching, fetching, and citing provenance-tracked legal corpora with verifiable content hashes.",
+  "source_repo": "dacheah/lex-provenance-mcp",
+  "source_url": "https://github.com/dacheah/lex-provenance-mcp",
+  "install": "npx -y lex-provenance-mcp"
+}

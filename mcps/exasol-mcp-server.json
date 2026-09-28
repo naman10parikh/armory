@@ -1,0 +1,7 @@
+{
+  "name": "exasol-mcp-server",
+  "description": "Provides an LLM access to the Exasol database via MCP tools, enabling reading of database metadata and execution of data reading queries.",
+  "source_repo": "exasol/mcp-server",
+  "source_url": "https://github.com/exasol/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/exasol/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-guard-mcp",
+  "description": "Detects and prevents infinite agent loops via circuit breakers, pattern detection, and recovery recommendations.",
+  "source_repo": "mdfifty50-boop/agent-guard-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/agent-guard-mcp",
+  "install": "npx -y agent-guard-mcp"
+}

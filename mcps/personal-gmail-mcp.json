@@ -1,0 +1,7 @@
+{
+  "name": "personal-gmail-mcp",
+  "description": "Enables managing Gmail inbox and Google Calendar through MCP, with tools for email operations and calendar events.",
+  "source_repo": "jaingxyz/personal-gmail-mcp",
+  "source_url": "https://github.com/jaingxyz/personal-gmail-mcp",
+  "install": "npx -y personal-gmail-mcp"
+}

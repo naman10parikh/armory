@@ -1,6 +1,6 @@
 {
   "name": "mcp-imdb",
-  "description": "Mcp Imdb MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "clsung/mcp-imdb",
   "source_url": "https://mcp.so/server/mcp-imdb/clsung",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-imdb/clsung\n# See source for mcpServers config block"

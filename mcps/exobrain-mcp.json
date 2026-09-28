@@ -1,0 +1,7 @@
+{
+  "name": "exobrain-mcp",
+  "description": "Personal AI cognitive exobrain server providing long-term, emotionally-tagged memory and task management for LLMs via MCP.",
+  "source_repo": "Corrame/exobrain-mcp",
+  "source_url": "https://github.com/Corrame/exobrain-mcp",
+  "install": "npx -y exobrain-mcp"
+}

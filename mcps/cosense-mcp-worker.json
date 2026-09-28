@@ -1,0 +1,7 @@
+{
+  "name": "cosense-mcp-worker",
+  "description": "A stateless Remote MCP server for operating a single Cosense (formerly Scrapbox) project, running on Cloudflare Workers with Hono and MCP SDK v2, delegating OAuth to Cloudflare Access Managed OAuth.",
+  "source_repo": "ogatomo21/cosense-mcp-worker",
+  "source_url": "https://github.com/ogatomo21/cosense-mcp-worker",
+  "install": "# git clone --depth 1 https://github.com/ogatomo21/cosense-mcp-worker\n# See source for mcpServers config block"
+}

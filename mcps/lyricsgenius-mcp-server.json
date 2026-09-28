@@ -1,0 +1,7 @@
+{
+  "name": "lyricsgenius-mcp-server",
+  "description": "An MCP server that enables searching Genius.com for artists, songs, and albums, retrieving song lyrics, and exploring artist discographies through natural language.",
+  "source_repo": "WinstonFassett/lyricsgenius-mcp-server",
+  "source_url": "https://github.com/WinstonFassett/lyricsgenius-mcp-server",
+  "install": "npx -y lyricsgenius-mcp-server"
+}

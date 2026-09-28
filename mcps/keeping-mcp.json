@@ -1,0 +1,7 @@
+{
+  "name": "keeping-mcp",
+  "description": "Enables AI coding assistants to log billable hours into the Keeping time-tracking service via MCP tools, with dry-run protection for all write operations.",
+  "source_repo": "Red-Square-Software/keeping-mcp",
+  "source_url": "https://github.com/Red-Square-Software/keeping-mcp",
+  "install": "npx -y keeping-mcp"
+}

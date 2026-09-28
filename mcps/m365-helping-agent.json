@@ -1,0 +1,7 @@
+{
+  "name": "m365-helping-agent",
+  "description": "Enables managing car repair records through MCP tools, with OAuth authentication via Microsoft Entra ID.",
+  "source_repo": "vishnukarthikr/m365-helping-agent",
+  "source_url": "https://github.com/vishnukarthikr/m365-helping-agent",
+  "install": "# git clone --depth 1 https://github.com/vishnukarthikr/m365-helping-agent\n# See source for mcpServers config block"
+}

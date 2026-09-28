@@ -1,0 +1,7 @@
+{
+  "name": "june-mcp",
+  "description": "Official MCP server connecting hosts to a June knowledge graph for agent memory, search, and cited answers.",
+  "source_repo": "Junemind/june-mcp",
+  "source_url": "https://github.com/Junemind/june-mcp",
+  "install": "npx -y june-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wpfvisualtreemcp",
+  "description": "Let AI agents inspect and drive running WPF (.NET desktop) apps: visual tree, dependency properties, data bindings and binding errors, DataContext, screenshots (popups included), plus click, select-item, text input, keyboard shortcuts, live property editing and wait-for — via runtime injection, with",
+  "source_repo": "faze79/WPFVisualTreeMcp",
+  "source_url": "https://github.com/faze79/WPFVisualTreeMcp",
+  "install": "# git clone --depth 1 https://github.com/faze79/WPFVisualTreeMcp\n# See source for mcpServers config block"
+}

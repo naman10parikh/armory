@@ -1,0 +1,7 @@
+{
+  "name": "mcp-enterprise-tools-server",
+  "description": "An MCP-based enterprise tools server that exposes company knowledge search and employee database lookup as callable tools.",
+  "source_repo": "Harry-GenAI/05-Mcp-Enterprise-Tool-Server",
+  "source_url": "https://github.com/Harry-GenAI/05-Mcp-Enterprise-Tool-Server",
+  "install": "# git clone --depth 1 https://github.com/Harry-GenAI/05-Mcp-Enterprise-Tool-Server\n# See source for mcpServers config block"
+}

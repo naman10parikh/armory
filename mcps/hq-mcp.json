@@ -1,0 +1,7 @@
+{
+  "name": "hq-mcp",
+  "description": "Read-only MCP server for VPN business operations, integrating SHM billing and Remnawave panel into composite tools for cross-system queries.",
+  "source_repo": "qwertyhq/hq-mcp",
+  "source_url": "https://github.com/qwertyhq/hq-mcp",
+  "install": "npx -y hq-mcp"
+}

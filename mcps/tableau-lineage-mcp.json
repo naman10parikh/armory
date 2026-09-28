@@ -1,0 +1,7 @@
+{
+  "name": "tableau-lineage-mcp",
+  "description": "Enables AI assistants to read and audit Tableau .twbx workbooks locally, providing tools for dependency tracing, field listing, SQL queries, filters, and semantic diffs.",
+  "source_repo": "andey0Saikiran/tableau-lineage",
+  "source_url": "https://github.com/andey0Saikiran/tableau-lineage",
+  "install": "# git clone --depth 1 https://github.com/andey0Saikiran/tableau-lineage\n# See source for mcpServers config block"
+}

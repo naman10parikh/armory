@@ -1,0 +1,7 @@
+{
+  "name": "effectfence",
+  "description": "Stops agents double-firing side effects like double-charges or duplicate sends: same-instant races elect exactly one winner, and late duplicates get a sealed, content-addressed receipt replayed instead of a second execution. Tools: fence_prepare, fence_commit, fence_abort.",
+  "source_repo": "aurumflux20/effectfence",
+  "source_url": "https://github.com/aurumflux20/effectfence",
+  "install": "# git clone --depth 1 https://github.com/aurumflux20/effectfence\n# See source for mcpServers config block"
+}

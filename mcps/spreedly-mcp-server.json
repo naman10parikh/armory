@@ -1,0 +1,7 @@
+{
+  "name": "spreedly-mcp-server",
+  "description": "Enables AI assistants to manage payments via Spreedly API, including gateways, transactions, and payment method tokenization.",
+  "source_repo": "spreedly/spreedly-mcp",
+  "source_url": "https://github.com/spreedly/spreedly-mcp",
+  "install": "npx -y spreedly-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "secapi-mcp",
+  "description": "Enables AI clients to search and analyze SEC filings, financial statements, insider trades, and institutional holdings through natural language tools.",
+  "source_repo": "secapi-dev/secapi-mcp",
+  "source_url": "https://github.com/secapi-dev/secapi-mcp",
+  "install": "npx -y secapi-mcp"
+}

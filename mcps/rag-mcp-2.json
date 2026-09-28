@@ -1,0 +1,7 @@
+{
+  "name": "rag-mcp-2",
+  "description": "A local hybrid-search MCP server that enables coding agents to query files and folders using natural language, returning relevant code chunks with exact source paths. Everything runs on-device with no API keys or network calls.",
+  "source_repo": "MasihMoafi/rag-mcp",
+  "source_url": "https://github.com/MasihMoafi/rag-mcp",
+  "install": "npx -y rag-mcp"
+}

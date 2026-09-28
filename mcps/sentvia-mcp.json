@@ -1,0 +1,7 @@
+{
+  "name": "sentvia-mcp",
+  "description": "MCP server for SentVia that provides email infrastructure for AI agents, enabling them to create inboxes, send, reply, forward, search messages, manage drafts, domains, webhooks, and allow/block rules through 21 tools.",
+  "source_repo": "samuelar2/sentvia-mcp",
+  "source_url": "https://github.com/samuelar2/sentvia-mcp",
+  "install": "npx -y sentvia-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "game-logs-mcp-server",
+  "description": "Retrieves game logs from the Lumigame platform, including recent logs and sign-in logs, with optional filtering by player ID.",
+  "source_repo": "557888-pixel/l1_n8n_mcp-server-demo",
+  "source_url": "https://github.com/557888-pixel/l1_n8n_mcp-server-demo",
+  "install": "# git clone --depth 1 https://github.com/557888-pixel/l1_n8n_mcp-server-demo\n# See source for mcpServers config block"
+}

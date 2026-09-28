@@ -1,0 +1,7 @@
+{
+  "name": "pingen-mcp",
+  "description": "Enables sending physical letters (including registered mail) from PDFs via the Pingen API, with tools to manage drafts, submit, track, and cancel letters.",
+  "source_repo": "sapn95/pingen-mcp",
+  "source_url": "https://github.com/sapn95/pingen-mcp",
+  "install": "npx -y pingen-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "paystack-mcp",
+  "description": "Enables AI agents to manage Paystack payments, products, customers, and transactions through natural language.",
+  "source_repo": "kohasummons/paystack-mcp",
+  "source_url": "https://github.com/kohasummons/paystack-mcp",
+  "install": "npx -y paystack-mcp"
+}

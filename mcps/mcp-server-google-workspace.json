@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-google-workspace",
+  "description": "Provides comprehensive programmatic control over Google Workspace applications including Sheets, Docs, Drive, Gmail, Calendar, and Slides with 141 tools for automation and management.",
+  "source_repo": "alanse-inc/mcp-server-google-workspace",
+  "source_url": "https://github.com/alanse-inc/mcp-server-google-workspace",
+  "install": "# git clone --depth 1 https://github.com/alanse-inc/mcp-server-google-workspace\n# See source for mcpServers config block"
+}

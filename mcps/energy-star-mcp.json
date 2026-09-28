@@ -1,0 +1,7 @@
+{
+  "name": "energy-star-mcp",
+  "description": "An MCP server that wraps the EPA ENERGY STAR Portfolio Manager REST API, enabling AI assistants to query and update building energy data.",
+  "source_repo": "soapboxbuild/energy-star-mcp",
+  "source_url": "https://github.com/soapboxbuild/energy-star-mcp",
+  "install": "npx -y energy-star-mcp"
+}

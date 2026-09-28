@@ -1,0 +1,7 @@
+{
+  "name": "n8n-mcp-agent",
+  "description": "Autonomous AI agent for n8n workflow automation with credential factories, execution helpers, and 4343+ workflow templates. Provides 38 MCP tools for full n8n API coverage.",
+  "source_repo": "anatolykoptev/n8n-mcp-agent",
+  "source_url": "https://github.com/anatolykoptev/n8n-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/anatolykoptev/n8n-mcp-agent\n# See source for mcpServers config block"
+}

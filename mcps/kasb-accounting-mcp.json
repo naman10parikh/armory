@@ -1,0 +1,7 @@
+{
+  "name": "kasb-accounting-mcp",
+  "description": "Enables searching and retrieving Korean accounting standards (K-IFRS, general corporate accounting standards) and Q&A summaries from the Korea Accounting Standards Board (KASB) database directly in Claude.",
+  "source_repo": "Sejin-Koo/kasb-accounting-mcp",
+  "source_url": "https://github.com/Sejin-Koo/kasb-accounting-mcp",
+  "install": "npx -y kasb-accounting-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "classroom-mcp",
+  "description": "Enables AI assistants to directly operate Google Classroom, including checking submissions, listing students, and creating assignments and announcements, with self-hosted deployment for data privacy.",
+  "source_repo": "FW1201/classroom-mcp",
+  "source_url": "https://github.com/FW1201/classroom-mcp",
+  "install": "npx -y classroom-mcp"
+}

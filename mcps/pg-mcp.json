@@ -1,0 +1,7 @@
+{
+  "name": "pg-mcp",
+  "description": "A lightweight Postgres MCP server for safe database exploration and query analysis, read-only by default, with multi-database support.",
+  "source_repo": "andre-c-andersen/pg-mcp",
+  "source_url": "https://github.com/andre-c-andersen/pg-mcp",
+  "install": "npx -y pg-mcp"
+}

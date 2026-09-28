@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ado-browser",
+  "description": "Provides read-only access to Azure DevOps using your browser session, no PAT required. Enables browsing projects, repos, work items, pull requests, and feeds through MCP tools.",
+  "source_repo": "VMargan/mcp-ado-browser",
+  "source_url": "https://github.com/VMargan/mcp-ado-browser",
+  "install": "# git clone --depth 1 https://github.com/VMargan/mcp-ado-browser\n# See source for mcpServers config block"
+}

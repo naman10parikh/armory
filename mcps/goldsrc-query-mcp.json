@@ -1,0 +1,7 @@
+{
+  "name": "goldsrc-query-mcp",
+  "description": "Enables querying GoldSrc game servers (e.g., Half-Life, Counter-Strike 1.6) for server info, player lists, rules, and RCON commands.",
+  "source_repo": "omar-hindawi98/goldsrc-query-mcp",
+  "source_url": "https://github.com/omar-hindawi98/goldsrc-query-mcp",
+  "install": "npx -y goldsrc-query-mcp"
+}

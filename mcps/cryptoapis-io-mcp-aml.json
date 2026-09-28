@@ -1,0 +1,7 @@
+{
+  "name": "cryptoapis-io-mcp-aml",
+  "description": "MCP server for Crypto APIs AML, enabling verification of blockchain addresses and screening of transactions for fraud, sanctions, and other AML risk categories.",
+  "source_repo": "CryptoAPIs-io/cryptoapis-mcp-aml",
+  "source_url": "https://github.com/CryptoAPIs-io/cryptoapis-mcp-aml",
+  "install": "# git clone --depth 1 https://github.com/CryptoAPIs-io/cryptoapis-mcp-aml\n# See source for mcpServers config block"
+}

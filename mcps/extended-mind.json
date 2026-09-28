@@ -1,0 +1,7 @@
+{
+  "name": "extended-mind",
+  "description": "A single MCP server that gives Claude, ChatGPT, Codex, and any MCP-compatible AI access to the same personal context via two tools: context_get and context_log.",
+  "source_repo": "SnowLightPath/extended-mind",
+  "source_url": "https://github.com/SnowLightPath/extended-mind",
+  "install": "# git clone --depth 1 https://github.com/SnowLightPath/extended-mind\n# See source for mcpServers config block"
+}

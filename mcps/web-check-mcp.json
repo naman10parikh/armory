@@ -1,0 +1,7 @@
+{
+  "name": "web-check-mcp",
+  "description": "MCP server that exposes 31 OSINT checks from Lissy93/web-check as tools for website analysis, including SSL, DNS, headers, WHOIS, and security presets. Enables natural-language-driven web recon and health checks.",
+  "source_repo": "ameobius-ai/web-check-mcp",
+  "source_url": "https://github.com/ameobius-ai/web-check-mcp",
+  "install": "npx -y web-check-mcp"
+}

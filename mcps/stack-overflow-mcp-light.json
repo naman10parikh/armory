@@ -1,0 +1,7 @@
+{
+  "name": "stack-overflow-mcp-light",
+  "description": "MCP server for searching Stack Overflow questions and retrieving answers with body content, supporting advanced filters and multiple transport types.",
+  "source_repo": "midodimori/stack-overflow-mcp-light",
+  "source_url": "https://github.com/midodimori/stack-overflow-mcp-light",
+  "install": "# git clone --depth 1 https://github.com/midodimori/stack-overflow-mcp-light\n# See source for mcpServers config block"
+}

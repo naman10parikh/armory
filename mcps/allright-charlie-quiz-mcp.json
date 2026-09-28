@@ -1,0 +1,7 @@
+{
+  "name": "allright-charlie-quiz-mcp",
+  "description": "MCP server for adaptive, agent-driven testing of the AllRight Charlie registration quiz, observing UI after every action and handling dynamic steps.",
+  "source_repo": "ValikBuiluk/allright-charlie-quiz-mcp",
+  "source_url": "https://github.com/ValikBuiluk/allright-charlie-quiz-mcp",
+  "install": "npx -y allright-charlie-quiz-mcp"
+}

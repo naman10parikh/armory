@@ -1,0 +1,7 @@
+{
+  "name": "hust-cnki-research-mcp",
+  "description": "Enables AI agents to search, read, and cite Chinese academic papers from CNKI using HUST single sign-on, with support for full-text retrieval, BibTeX export, and PDF download.",
+  "source_repo": "graywind-labs/hust-cnki-research-mcp",
+  "source_url": "https://github.com/graywind-labs/hust-cnki-research-mcp",
+  "install": "npx -y hust-cnki-research-mcp"
+}

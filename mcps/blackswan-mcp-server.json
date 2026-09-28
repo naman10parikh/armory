@@ -1,0 +1,7 @@
+{
+  "name": "blackswan-mcp-server",
+  "description": "Enables AI agents to access real-time crypto risk intelligence with two tools: Flare for precursor detection and Core for overall risk environment assessment.",
+  "source_repo": "blackswanwtf/blackswan-mcp",
+  "source_url": "https://github.com/blackswanwtf/blackswan-mcp",
+  "install": "npx -y blackswan-mcp"
+}

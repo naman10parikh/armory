@@ -1,0 +1,7 @@
+{
+  "name": "filemaker-odata-mcp",
+  "description": "MCP server for FileMaker Server OData 4.01 API integration, enabling AI assistants to discover databases, perform CRUD operations, and manage connections.",
+  "source_repo": "fsans/FMS-ODATA-MCP",
+  "source_url": "https://github.com/fsans/FMS-ODATA-MCP",
+  "install": "npx -y FMS-ODATA-MCP"
+}

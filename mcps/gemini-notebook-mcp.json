@@ -1,0 +1,7 @@
+{
+  "name": "gemini-notebook-mcp",
+  "description": "MCP server for Google NotebookLM that lets AI agents chat with notebooks, add sources, generate audio overviews, and extract citations via a real Chrome browser.",
+  "source_repo": "abderrahim-lectures/gemini-notebook-mcp",
+  "source_url": "https://github.com/abderrahim-lectures/gemini-notebook-mcp",
+  "install": "npx -y gemini-notebook-mcp"
+}

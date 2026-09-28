@@ -1,0 +1,7 @@
+{
+  "name": "atmcp",
+  "description": "Enables multiple LLM agents across devices to form teams, share knowledge, memory, and tasks with live status via a web dashboard and distributed-systems reliability.",
+  "source_repo": "MidCheck/ATMcp",
+  "source_url": "https://github.com/MidCheck/ATMcp",
+  "install": "# git clone --depth 1 https://github.com/MidCheck/ATMcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arispay-payagent-mcp",
+  "description": "Enables AI agents to call paid APIs and settle HTTP 402 payment challenges with USDC on Base, without private keys ever being involved.",
+  "source_repo": "arispay-inc/payagent-mcp",
+  "source_url": "https://github.com/arispay-inc/payagent-mcp",
+  "install": "npx -y payagent-mcp"
+}

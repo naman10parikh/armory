@@ -1,0 +1,7 @@
+{
+  "name": "duckduckgo-search-mcp-server",
+  "description": "Enables web search and content fetching via DuckDuckGo without requiring an API key.",
+  "source_repo": "HeiSir2014/duckduckgo-mcp-server",
+  "source_url": "https://github.com/HeiSir2014/duckduckgo-mcp-server",
+  "install": "npx -y duckduckgo-mcp-server"
+}

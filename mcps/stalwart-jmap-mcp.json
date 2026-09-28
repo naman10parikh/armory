@@ -1,0 +1,7 @@
+{
+  "name": "stalwart-jmap-mcp",
+  "description": "Unofficial MCP server for Stalwart Mail Server using the JMAP management API, providing 39 tools to read and manage mailboxes, accounts, domains, DKIM, queue, IP filtering, and admin operations.",
+  "source_repo": "fredogemilang/stalwart-jmap-mcp",
+  "source_url": "https://github.com/fredogemilang/stalwart-jmap-mcp",
+  "install": "npx -y stalwart-jmap-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cardloom-mcp",
+  "description": "Provides long-lived, cross-project technical memory for AI agents via markdown cards stored in git and indexed by SQLite, enabling search, retrieval, and human-reviewed knowledge management.",
+  "source_repo": "bangca85/cardloom-mcp",
+  "source_url": "https://github.com/bangca85/cardloom-mcp",
+  "install": "npx -y cardloom-mcp"
+}

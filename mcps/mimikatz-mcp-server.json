@@ -1,0 +1,7 @@
+{
+  "name": "mimikatz-mcp-server",
+  "description": "Provides programmatic access to Mimikatz for credential extraction, Kerberos attacks, SAM/LSA dumping, and other Windows security assessment tasks through natural language.",
+  "source_repo": "schwarztim/sec-mimikatz-mcp",
+  "source_url": "https://github.com/schwarztim/sec-mimikatz-mcp",
+  "install": "npx -y sec-mimikatz-mcp"
+}

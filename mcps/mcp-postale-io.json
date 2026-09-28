@@ -1,0 +1,7 @@
+{
+  "name": "mcp-postale-io",
+  "description": "Enables managing postale.io email hosting through the official API, covering domains, DNS/DKIM, mailboxes, aliases, branding, Sieve filters, quotas, and logs, with safety confirmations for destructive operations.",
+  "source_repo": "fmendezy/MCP-postale.io",
+  "source_url": "https://github.com/fmendezy/MCP-postale.io",
+  "install": "# git clone --depth 1 https://github.com/fmendezy/MCP-postale.io\n# See source for mcpServers config block"
+}

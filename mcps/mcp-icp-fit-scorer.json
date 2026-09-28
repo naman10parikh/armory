@@ -1,0 +1,7 @@
+{
+  "name": "mcp-icp-fit-scorer",
+  "description": "Scores companies against a configurable Ideal Customer Profile using firmographic and signal data. Returns a weighted fit score with per-criterion breakdowns.",
+  "source_repo": "mambalabsdev/mcp-icp-fit-scorer",
+  "source_url": "https://github.com/mambalabsdev/mcp-icp-fit-scorer",
+  "install": "# git clone --depth 1 https://github.com/mambalabsdev/mcp-icp-fit-scorer\n# See source for mcpServers config block"
+}

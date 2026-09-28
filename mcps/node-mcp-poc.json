@@ -1,0 +1,7 @@
+{
+  "name": "node-mcp-poc",
+  "description": "A minimal MCP server that exposes tools for addition, echoing text, time lookup, and URL fetching, with support for HTTP and stdio transports.",
+  "source_repo": "gurunate/node-mcp-poc",
+  "source_url": "https://github.com/gurunate/node-mcp-poc",
+  "install": "# git clone --depth 1 https://github.com/gurunate/node-mcp-poc\n# See source for mcpServers config block"
+}

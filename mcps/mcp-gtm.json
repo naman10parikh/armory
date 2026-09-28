@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gtm",
+  "description": "Enables LLMs to manage Google Tag Manager containers through exported JSON files, with full CRUD operations on tags, triggers, variables, and folders, plus validation and analysis tools.",
+  "source_repo": "jamestomasino/mcp-gtm",
+  "source_url": "https://github.com/jamestomasino/mcp-gtm",
+  "install": "# git clone --depth 1 https://github.com/jamestomasino/mcp-gtm\n# See source for mcpServers config block"
+}

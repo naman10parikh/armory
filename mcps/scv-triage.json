@@ -1,0 +1,7 @@
+{
+  "name": "scv-triage",
+  "description": "Enables bounded, deterministic triage verdicts for server health, fleet status, and timeline investigation through a simulated execution-boundary MCP server.",
+  "source_repo": "kc-ml2/mcp-execution-boundaries",
+  "source_url": "https://github.com/kc-ml2/mcp-execution-boundaries",
+  "install": "# git clone --depth 1 https://github.com/kc-ml2/mcp-execution-boundaries\n# See source for mcpServers config block"
+}

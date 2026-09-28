@@ -1,0 +1,7 @@
+{
+  "name": "heavenly-health-protocol",
+  "description": "Enables AI clients to securely access, query, and mutate normalized user-controlled health data (e.g., from Apple Health or Supabase) through a bounded set of MCP tools, with optional OAuth and sandboxed deployment.",
+  "source_repo": "obirimensah05/heavenly-health-protocol",
+  "source_url": "https://github.com/obirimensah05/heavenly-health-protocol",
+  "install": "# git clone --depth 1 https://github.com/obirimensah05/heavenly-health-protocol\n# See source for mcpServers config block"
+}

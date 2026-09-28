@@ -1,0 +1,7 @@
+{
+  "name": "gencodedoc",
+  "description": "Smart documentation generator and intelligent versioning system with full MCP support, enabling AI assistants like Claude and Gemini to manage project snapshots, generate docs, and control versioning via 26 MCP tools.",
+  "source_repo": "fkom13/gencodedoc",
+  "source_url": "https://github.com/fkom13/gencodedoc",
+  "install": "# git clone --depth 1 https://github.com/fkom13/gencodedoc\n# See source for mcpServers config block"
+}

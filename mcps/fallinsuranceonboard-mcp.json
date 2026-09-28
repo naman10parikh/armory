@@ -1,0 +1,7 @@
+{
+  "name": "fallinsuranceonboard-mcp",
+  "description": "MCP server for foldkit that exposes 7-prime spine, 7 κ-bands, and 6 fold operations as tools and resources for AI clients.",
+  "source_repo": "sjgant80-hub/fallinsuranceonboard-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallinsuranceonboard-mcp",
+  "install": "npx -y fallinsuranceonboard-mcp"
+}

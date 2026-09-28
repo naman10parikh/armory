@@ -1,0 +1,7 @@
+{
+  "name": "ultra-wiki-mcp",
+  "description": "Remote MCP server enabling ChatGPT Workspace integration with the official Ultra Group Wiki (Wiki.js). Provides read-only search_pages and get_page tools to retrieve Markdown content with metadata.",
+  "source_repo": "andbmarques/wiki-ultra-mcp",
+  "source_url": "https://github.com/andbmarques/wiki-ultra-mcp",
+  "install": "npx -y wiki-ultra-mcp"
+}

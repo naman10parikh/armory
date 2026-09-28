@@ -1,0 +1,7 @@
+{
+  "name": "remove-background",
+  "description": "A Model Context Protocol server for removing backgrounds from images using AI-powered segmentation models.",
+  "source_repo": "adamryczkowski/MCP-remove-background",
+  "source_url": "https://github.com/adamryczkowski/MCP-remove-background",
+  "install": "# git clone --depth 1 https://github.com/adamryczkowski/MCP-remove-background\n# See source for mcpServers config block"
+}

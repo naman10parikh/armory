@@ -1,0 +1,7 @@
+{
+  "name": "gstcranes-mcp-server",
+  "description": "Provides access to public GST Cranes resources including company records, Crane Wiki, marketplace, and developer APIs without authentication.",
+  "source_repo": "gkmex75/gstcranes-mcp-server",
+  "source_url": "https://github.com/gkmex75/gstcranes-mcp-server",
+  "install": "npx -y gstcranes-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kubernetes-runbooks-mcp-server",
+  "description": "Provides access to Kubernetes troubleshooting runbooks, enabling search, discovery, and retrieval of guides for common issues like pod crashes, node problems, and network failures.",
+  "source_repo": "raihan0824/kubernetes-runbooks-mcp-server",
+  "source_url": "https://github.com/raihan0824/kubernetes-runbooks-mcp-server",
+  "install": "npx -y kubernetes-runbooks-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "construction-intelligence-mcp",
+  "description": "Read-only MCP server exposing the Construction Intelligence Platform's project discovery interface via search_projects and fetch_project tools, returning Pydantic business objects from the ci_market_state DuckDB table without requiring SQL.",
+  "source_repo": "dsharrington84/construction-intelligence-mcp",
+  "source_url": "https://github.com/dsharrington84/construction-intelligence-mcp",
+  "install": "npx -y construction-intelligence-mcp"
+}

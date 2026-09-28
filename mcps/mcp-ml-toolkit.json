@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ml-toolkit",
+  "description": "基于FastMCP和scikit-learn构建的机器学习MCP服务器，提供30个工具覆盖分类、回归、聚类、降维、模型评估和数据预处理。",
+  "source_repo": "wzx11223344/mcp-ml-toolkit",
+  "source_url": "https://github.com/wzx11223344/mcp-ml-toolkit",
+  "install": "# git clone --depth 1 https://github.com/wzx11223344/mcp-ml-toolkit\n# See source for mcpServers config block"
+}

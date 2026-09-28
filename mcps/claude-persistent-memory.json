@@ -1,0 +1,7 @@
+{
+  "name": "claude-persistent-memory",
+  "description": "Gives Claude Code long-term memory that persists across sessions via hybrid BM25 and vector semantic search, with multi-project isolation.",
+  "source_repo": "MIMI180306/claude-persistent-memory",
+  "source_url": "https://github.com/MIMI180306/claude-persistent-memory",
+  "install": "# git clone --depth 1 https://github.com/MIMI180306/claude-persistent-memory\n# See source for mcpServers config block"
+}

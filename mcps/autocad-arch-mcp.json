@@ -1,0 +1,7 @@
+{
+  "name": "autocad-arch-mcp",
+  "description": "Enables architectural design in AutoCAD 2021 via chat, using YQArch (NBC standard) to build, draw, and dimension directly through natural language.",
+  "source_repo": "Crazay247/autocad-mcp-server",
+  "source_url": "https://github.com/Crazay247/autocad-mcp-server",
+  "install": "npx -y autocad-mcp-server"
+}

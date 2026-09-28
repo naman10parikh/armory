@@ -1,0 +1,7 @@
+{
+  "name": "nyxdoc",
+  "description": "MCP server for Nyxdoc, a document system where humans and external agents collaborate on documents with version history, agent to-dos, and workspace permissions.",
+  "source_repo": "getnyxdoc/nyxdoc",
+  "source_url": "https://github.com/getnyxdoc/nyxdoc",
+  "install": "# git clone --depth 1 https://github.com/getnyxdoc/nyxdoc\n# See source for mcpServers config block"
+}

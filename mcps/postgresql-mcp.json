@@ -1,0 +1,7 @@
+{
+  "name": "postgresql-mcp",
+  "description": "A production-ready MCP server that connects AI assistants to any PostgreSQL database with 25 tools and role-based access control.",
+  "source_repo": "vnikhilbuddhavarapu/postgresql-mcp",
+  "source_url": "https://github.com/vnikhilbuddhavarapu/postgresql-mcp",
+  "install": "npx -y postgresql-mcp"
+}

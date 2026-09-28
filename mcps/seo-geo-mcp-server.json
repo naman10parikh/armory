@@ -1,0 +1,7 @@
+{
+  "name": "seo-geo-mcp-server",
+  "description": "An MCP server that lets an AI agent audit a page for SEO and GEO — on-page tags, structured data, robots.txt, sitemaps, hreflang, and whether ChatGPT, Claude, Perplexity and Gemini can actually crawl and cite you. No API keys required.",
+  "source_repo": "OrtaMarco/seo-geo-mcp-server",
+  "source_url": "https://github.com/OrtaMarco/seo-geo-mcp-server",
+  "install": "npx -y seo-geo-mcp-server"
+}

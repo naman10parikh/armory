@@ -1,0 +1,7 @@
+{
+  "name": "ptt-mcp-server",
+  "description": "Enables AI clients to log in and interact with the PTT bulletin board system via MCP protocol, supporting article management, mailbox, and P-coin operations.",
+  "source_repo": "PyPtt/ptt_mcp_server",
+  "source_url": "https://github.com/PyPtt/ptt_mcp_server",
+  "install": "npx -y ptt_mcp_server"
+}

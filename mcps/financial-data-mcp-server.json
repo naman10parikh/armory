@@ -1,0 +1,7 @@
+{
+  "name": "financial-data-mcp-server",
+  "description": "This is an MCP server that provides access to the Alpha Vantage API, allowing stock data retrieval to be used as context to LLMs.",
+  "source_repo": "fastmcp-me/findata-mcp-server",
+  "source_url": "https://github.com/fastmcp-me/findata-mcp-server",
+  "install": "npx -y findata-mcp-server"
+}

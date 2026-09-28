@@ -1,0 +1,7 @@
+{
+  "name": "gravity-ads-mcp",
+  "description": "Enables MCP-capable agents to create, edit, pause, archive campaigns, and pull advertising reports from the Gravity Ads platform directly, without the API key leaving the local machine.",
+  "source_repo": "niyogi/gravity-ads-mcp",
+  "source_url": "https://github.com/niyogi/gravity-ads-mcp",
+  "install": "npx -y gravity-ads-mcp"
+}

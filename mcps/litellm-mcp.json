@@ -1,0 +1,7 @@
+{
+  "name": "litellm-mcp",
+  "description": "MCP server that provides tools to interact with the LiteLLM proxy API, enabling LLM completions, embeddings, image generation, and admin operations.",
+  "source_repo": "weeebdev/litellm-mcp",
+  "source_url": "https://github.com/weeebdev/litellm-mcp",
+  "install": "npx -y litellm-mcp"
+}

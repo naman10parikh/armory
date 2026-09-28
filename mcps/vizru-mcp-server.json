@@ -1,0 +1,7 @@
+{
+  "name": "vizru-mcp-server",
+  "description": "Provides read-only SQL query access to PostgreSQL mirrors of Vizru spreadsheets on Neon, exposing REST endpoints and MCP tools for relational filtering and schema discovery.",
+  "source_repo": "abhijithvs680/Vizru-mcp-server",
+  "source_url": "https://github.com/abhijithvs680/Vizru-mcp-server",
+  "install": "npx -y Vizru-mcp-server"
+}

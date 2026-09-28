@@ -1,0 +1,7 @@
+{
+  "name": "ecash-mcp-server",
+  "description": "Enables AI agents to interact with the eCash ecosystem on Base mainnet, providing tools for mining, wallet operations, job marketplace, and reputation management.",
+  "source_repo": "ecashprotocol/ecash-mcp-server",
+  "source_url": "https://github.com/ecashprotocol/ecash-mcp-server",
+  "install": "npx -y ecash-mcp-server"
+}

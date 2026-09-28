@@ -1,0 +1,7 @@
+{
+  "name": "ffmpeg-micro-mcp-server",
+  "description": "Enables AI agents to create, monitor, and download video transcodes through the FFmpeg Micro REST API.",
+  "source_repo": "javidjamae/ffmpeg-micro-mcp",
+  "source_url": "https://github.com/javidjamae/ffmpeg-micro-mcp",
+  "install": "npx -y ffmpeg-micro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-accountability-mcp-server",
+  "description": "Logs AI agent actions, computes reliability scores, generates audit reports, detects anomalies, and estimates risk to ensure agent accountability.",
+  "source_repo": "princeruhulofficial/mcp-agent-accountability-20260726",
+  "source_url": "https://github.com/princeruhulofficial/mcp-agent-accountability-20260726",
+  "install": "# git clone --depth 1 https://github.com/princeruhulofficial/mcp-agent-accountability-20260726\n# See source for mcpServers config block"
+}

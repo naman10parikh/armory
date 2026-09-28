@@ -1,0 +1,7 @@
+{
+  "name": "comfyui-app-mcp",
+  "description": "A custom node plugin for ComfyUI that encapsulates workflows as templates, enabling AI assistants (Claude, Cursor) to invoke ComfyUI for multimedia generation via the MCP protocol.",
+  "source_repo": "Luo-Lotus/ComfyUI-APP-MCP",
+  "source_url": "https://github.com/Luo-Lotus/ComfyUI-APP-MCP",
+  "install": "npx -y ComfyUI-APP-MCP"
+}

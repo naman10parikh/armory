@@ -1,0 +1,7 @@
+{
+  "name": "updated-mcp-spec-tut",
+  "description": "An MCP server that demonstrates modern MCP spec features including elicitation (interactive confirm dialogs), signed request state, and cache hints, with a deploy tool requiring confirmation. It runs as both a Node server and a Cloudflare Worker, supporting stateless per-request handling.",
+  "source_repo": "shricodev/updated-2026-july-mcp-spec-tut",
+  "source_url": "https://github.com/shricodev/updated-2026-july-mcp-spec-tut",
+  "install": "# git clone --depth 1 https://github.com/shricodev/updated-2026-july-mcp-spec-tut\n# See source for mcpServers config block"
+}

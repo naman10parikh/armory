@@ -1,0 +1,7 @@
+{
+  "name": "bidsparq-mcp-server",
+  "description": "Query federal RFP, subaward, pricing, and vendor data from AI clients via 55 tools, including procurement contact graph and contract vehicle intelligence.",
+  "source_repo": "n0edlg/bidsparq-mcp-server",
+  "source_url": "https://github.com/n0edlg/bidsparq-mcp-server",
+  "install": "npx -y bidsparq-mcp-server"
+}

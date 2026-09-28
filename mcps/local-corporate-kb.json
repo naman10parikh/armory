@@ -1,0 +1,7 @@
+{
+  "name": "local-corporate-kb",
+  "description": "Local RAG knowledge base for Qwen Code, enabling document indexing and semantic search via MCP tools. Supports metadata filtering and document retrieval without external dependencies.",
+  "source_repo": "arptra/kb-rag-mcp",
+  "source_url": "https://github.com/arptra/kb-rag-mcp",
+  "install": "npx -y kb-rag-mcp"
+}

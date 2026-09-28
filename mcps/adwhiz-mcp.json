@@ -1,0 +1,7 @@
+{
+  "name": "adwhiz-mcp",
+  "description": "Enables MCP clients like Claude Desktop to query DEXUN AdWhiz for ad account lists, AI recommendations, savings summaries, recent activity, and API quota, all read-only.",
+  "source_repo": "DEXUN-inc/adwhiz-mcp",
+  "source_url": "https://github.com/DEXUN-inc/adwhiz-mcp",
+  "install": "npx -y adwhiz-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "memgrep",
+  "description": "Enables agents to search and retrieve past chat transcripts from a local memory store, allowing cross-project, cross-tool recall of previously solved problems.",
+  "source_repo": "darula-hpp/memgrep",
+  "source_url": "https://github.com/darula-hpp/memgrep",
+  "install": "# git clone --depth 1 https://github.com/darula-hpp/memgrep\n# See source for mcpServers config block"
+}

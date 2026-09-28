@@ -1,0 +1,7 @@
+{
+  "name": "workoutguide-mcp",
+  "description": "Enables workout tracking and coaching within Claude conversations, managing exercise configs, logs, streaks, and health metrics via an MCP server with PostgreSQL.",
+  "source_repo": "amerhhh/Claude-Workout-Guide",
+  "source_url": "https://github.com/amerhhh/Claude-Workout-Guide",
+  "install": "# git clone --depth 1 https://github.com/amerhhh/Claude-Workout-Guide\n# See source for mcpServers config block"
+}

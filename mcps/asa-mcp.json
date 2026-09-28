@@ -1,0 +1,7 @@
+{
+  "name": "asa-mcp",
+  "description": "Connect your ASA account to Claude, ChatGPT, and AI agents via Open Finance Brazil. Read balances, statements, credit card invoices, and investments using natural language.",
+  "source_repo": "mcp-dir/asa-mcp",
+  "source_url": "https://github.com/mcp-dir/asa-mcp",
+  "install": "npx -y asa-mcp"
+}

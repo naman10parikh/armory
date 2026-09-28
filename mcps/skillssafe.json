@@ -1,0 +1,7 @@
+{
+  "name": "skillssafe",
+  "description": "Security scanner for AI agent skills, providing tools to scan skill files for threats such as credential theft and prompt injection.",
+  "source_repo": "GUCCI-atlasv/Skillssafe.com",
+  "source_url": "https://github.com/GUCCI-atlasv/Skillssafe.com",
+  "install": "# git clone --depth 1 https://github.com/GUCCI-atlasv/Skillssafe.com\n# See source for mcpServers config block"
+}

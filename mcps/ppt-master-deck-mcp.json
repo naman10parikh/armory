@@ -1,0 +1,7 @@
+{
+  "name": "ppt-master-deck-mcp",
+  "description": "Paid remote MCP for generating, revising, rendering, and exporting PowerPoint decks with structured receipts and audit logs.",
+  "source_repo": "clauxel/ppt-master-deck-mcp-mcp",
+  "source_url": "https://github.com/clauxel/ppt-master-deck-mcp-mcp",
+  "install": "npx -y ppt-master-deck-mcp-mcp"
+}

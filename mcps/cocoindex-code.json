@@ -1,0 +1,7 @@
+{
+  "name": "cocoindex-code",
+  "description": "embedded code search engine CLI -AST based that just works - improves speed and efficiency for coding agent",
+  "source_repo": "cocoindex-io/cocoindex-code",
+  "source_url": "https://github.com/cocoindex-io/cocoindex-code",
+  "install": "# git clone --depth 1 https://github.com/cocoindex-io/cocoindex-code\n# See source for mcpServers config block"
+}

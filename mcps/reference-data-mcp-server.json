@@ -1,0 +1,7 @@
+{
+  "name": "reference-data-mcp-server",
+  "description": "Countries, timezones, elements, constants, HTTP status codes, unit conversion, and MIME type lookup.",
+  "source_repo": "",
+  "source_url": "https://reference-data.caseyjhand.com/mcp",
+  "install": "# git clone --depth 1 https://reference-data.caseyjhand.com/mcp\n# See source for mcpServers config block"
+}

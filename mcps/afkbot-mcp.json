@@ -1,0 +1,7 @@
+{
+  "name": "afkbot-mcp",
+  "description": "MCP server for AFKBot PTO management that allows users to file and manage time-off requests from any MCP-compatible client.",
+  "source_repo": "wyre-technology/afkbot-mcp",
+  "source_url": "https://github.com/wyre-technology/afkbot-mcp",
+  "install": "npx -y afkbot-mcp"
+}

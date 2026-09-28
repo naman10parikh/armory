@@ -1,0 +1,7 @@
+{
+  "name": "genspark-custom-mcp-bridge",
+  "description": "Enables Genspark to connect to upstream MCP servers like Meta Ads by bridging STDIO to HTTP/SSE.",
+  "source_repo": "passasooz/genspark-custom-mcp",
+  "source_url": "https://github.com/passasooz/genspark-custom-mcp",
+  "install": "npx -y genspark-custom-mcp"
+}

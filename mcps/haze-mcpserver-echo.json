@@ -1,6 +1,6 @@
 {
   "name": "haze-mcpserver-echo",
-  "description": "Haze.McpServer.Echo MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "zaevi/Haze.McpServer.Echo",
   "source_url": "https://mcp.so/server/Haze.McpServer.Echo/zaevi",
   "install": "# git clone --depth 1 https://mcp.so/server/Haze.McpServer.Echo/zaevi\n# See source for mcpServers config block"

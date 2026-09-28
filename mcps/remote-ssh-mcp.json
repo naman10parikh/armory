@@ -1,0 +1,7 @@
+{
+  "name": "remote-ssh-mcp",
+  "description": "Connects an MCP client to a remote Linux/Unix host over SSH, enabling remote shell commands, file access, port forwarding, and VS Code Remote-SSH URI generation.",
+  "source_repo": "bbt567/remote-ssh-mcp",
+  "source_url": "https://github.com/bbt567/remote-ssh-mcp",
+  "install": "npx -y remote-ssh-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sharepoint-mcp-bridge",
+  "description": "A local MCP server that uses a Chromium extension to capture SharePoint Online session tokens, enabling supervised SharePoint operations (lists, files, permissions, modern pages) through Microsoft Graph and SharePoint REST without cloud token uploads.",
+  "source_repo": "icemage001/local_sharepoint_mcp",
+  "source_url": "https://github.com/icemage001/local_sharepoint_mcp",
+  "install": "npx -y local_sharepoint_mcp"
+}

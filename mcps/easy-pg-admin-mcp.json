@@ -1,0 +1,7 @@
+{
+  "name": "easy-pg-admin-mcp",
+  "description": "High-privilege PostgreSQL admin MCP server for database and role/grant management.",
+  "source_repo": "chenkumi/easy-pg-admin-mcp",
+  "source_url": "https://github.com/chenkumi/easy-pg-admin-mcp",
+  "install": "npx -y easy-pg-admin-mcp"
+}

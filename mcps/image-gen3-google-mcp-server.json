@@ -1,0 +1,7 @@
+{
+  "name": "image-gen3-google-mcp-server",
+  "description": "Enables high-quality image generation using Google's Imagen 3.0 model via the Gemini API, with support for multiple images per request and automatic file management and HTML preview generation.",
+  "source_repo": "falahgs/image-gen3-google-mcp-server",
+  "source_url": "https://github.com/falahgs/image-gen3-google-mcp-server",
+  "install": "npx -y image-gen3-google-mcp-server"
+}

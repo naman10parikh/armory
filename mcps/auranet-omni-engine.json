@@ -1,0 +1,7 @@
+{
+  "name": "auranet-omni-engine",
+  "description": "Omni-channel x402-gated MCP Oracle providing structured data across 12 verticals monetized via Base USDC micropayments.",
+  "source_repo": "Esdecy/auranet-omni-engine",
+  "source_url": "https://github.com/Esdecy/auranet-omni-engine",
+  "install": "# git clone --depth 1 https://github.com/Esdecy/auranet-omni-engine\n# See source for mcpServers config block"
+}

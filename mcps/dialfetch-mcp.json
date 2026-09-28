@@ -1,0 +1,7 @@
+{
+  "name": "dialfetch-mcp",
+  "description": "Enables AI agents to place real phone calls, navigate IVR trees, and retrieve structured answers with transcripts and recordings.",
+  "source_repo": "xneyder/dialfetch-mcp",
+  "source_url": "https://github.com/xneyder/dialfetch-mcp",
+  "install": "npx -y dialfetch-mcp"
+}

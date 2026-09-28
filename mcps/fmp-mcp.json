@@ -1,0 +1,7 @@
+{
+  "name": "fmp-mcp",
+  "description": "Enables AI agents to analyze stocks, screen markets, compare peers, read earnings calls, and track sector rotations using live financial data from Financial Modeling Prep.",
+  "source_repo": "henrysouchien/fmp-mcp",
+  "source_url": "https://github.com/henrysouchien/fmp-mcp",
+  "install": "npx -y fmp-mcp"
+}

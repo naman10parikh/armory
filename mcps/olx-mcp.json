@@ -1,0 +1,7 @@
+{
+  "name": "olx-mcp",
+  "description": "MCP server for OLX marketplace. Enables AI assistants to search listings, get offer details, track prices over time, and compare offers across OLX Poland and other supported countries.",
+  "source_repo": "tkupcewicz/olx-mcp",
+  "source_url": "https://github.com/tkupcewicz/olx-mcp",
+  "install": "npx -y olx-mcp"
+}

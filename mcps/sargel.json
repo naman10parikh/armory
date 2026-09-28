@@ -1,0 +1,7 @@
+{
+  "name": "sargel",
+  "description": "Lets AI agents visually inspect web elements, test CSS edits in real-time, and iterate until pixel-perfect, functioning like browser DevTools for debugging UI issues.",
+  "source_repo": "ofriw/inspect-mcp",
+  "source_url": "https://github.com/ofriw/inspect-mcp",
+  "install": "npx -y inspect-mcp"
+}

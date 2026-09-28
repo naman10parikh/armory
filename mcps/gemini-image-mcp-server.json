@@ -1,6 +1,6 @@
 {
   "name": "gemini-image-mcp-server",
-  "description": "Gemini Image Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "rocksun/gemini-image-mcp-server",
   "source_url": "https://mcp.so/server/gemini-image-mcp-server/rocksun",
   "install": "npx -y gemini-image-mcp-server"

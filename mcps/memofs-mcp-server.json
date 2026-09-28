@@ -1,0 +1,7 @@
+{
+  "name": "memofs-mcp-server",
+  "description": "@memofs/mcp-server lets AI coding agents (Claude Code, Claude Desktop, Codex, Cursor, opencode, Gemini CLI, GitHub Copilot, Zed, and any other MCP client) securely read and write MemoFS memory through standard Model Context Protocol tools.",
+  "source_repo": "memo-fs/memofs",
+  "source_url": "https://github.com/memo-fs/memofs",
+  "install": "# git clone --depth 1 https://github.com/memo-fs/memofs\n# See source for mcpServers config block"
+}

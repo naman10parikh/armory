@@ -1,0 +1,7 @@
+{
+  "name": "mixcloud-mcp",
+  "description": "Bridges the Mixcloud API to AI assistants via MCP, enabling search for mixes, artist lookup, uploads, and user profile access.",
+  "source_repo": "nelsonra/mixcloud-mcp",
+  "source_url": "https://github.com/nelsonra/mixcloud-mcp",
+  "install": "npx -y mixcloud-mcp"
+}

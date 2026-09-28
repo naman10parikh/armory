@@ -1,0 +1,7 @@
+{
+  "name": "vitalygpt-mcp",
+  "description": "MCP server providing UX insights from Vitaly Friedman as searchable tools for any LLM.",
+  "source_repo": "setugk/vitalygpt",
+  "source_url": "https://github.com/setugk/vitalygpt",
+  "install": "# git clone --depth 1 https://github.com/setugk/vitalygpt\n# See source for mcpServers config block"
+}

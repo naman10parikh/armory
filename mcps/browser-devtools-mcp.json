@@ -1,0 +1,7 @@
+{
+  "name": "browser-devtools-mcp",
+  "description": "An MCP server that provides AI coding assistants with comprehensive browser automation and debugging capabilities using Playwright, including visual inspection, DOM debugging, and execution monitoring.",
+  "source_repo": "serdarkaracay/browser-devtools-mcp",
+  "source_url": "https://github.com/serdarkaracay/browser-devtools-mcp",
+  "install": "npx -y browser-devtools-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "multi-mcp-proxy",
+  "description": "A flexible MCP proxy server that connects to and routes between multiple backend MCP servers over STDIO or SSE, enabling dynamic management and namespacing of tools.",
+  "source_repo": "kfirtoledo/multi-mcp",
+  "source_url": "https://github.com/kfirtoledo/multi-mcp",
+  "install": "npx -y multi-mcp"
+}

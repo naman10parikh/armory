@@ -1,0 +1,7 @@
+{
+  "name": "crash-mcp",
+  "description": "A structured reasoning and problem-solving MCP server that helps track step-by-step analysis with confidence levels, branching, and revisions, ideal for complex multi-step tasks like code optimization and debugging.",
+  "source_repo": "AbdulAziz001/mcp-local",
+  "source_url": "https://github.com/AbdulAziz001/mcp-local",
+  "install": "# git clone --depth 1 https://github.com/AbdulAziz001/mcp-local\n# See source for mcpServers config block"
+}

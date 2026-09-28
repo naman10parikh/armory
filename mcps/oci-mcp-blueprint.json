@@ -1,0 +1,7 @@
+{
+  "name": "oci-mcp-blueprint",
+  "description": "Provides a blueprint for building and deploying Python MCP servers on Oracle Cloud Infrastructure, with sample tools for database schema and data retrieval.",
+  "source_repo": "luigisaetta/oci-mcp-blueprint",
+  "source_url": "https://github.com/luigisaetta/oci-mcp-blueprint",
+  "install": "# git clone --depth 1 https://github.com/luigisaetta/oci-mcp-blueprint\n# See source for mcpServers config block"
+}

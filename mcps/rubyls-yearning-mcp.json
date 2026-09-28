@@ -1,0 +1,7 @@
+{
+  "name": "rubyls-yearning-mcp",
+  "description": "MCP server for Yearning SQL review platform, enabling read-only queries, ticket management (submit, audit, undo, rollback), query applications, comments, and data source/table exploration via REST/WebSocket APIs.",
+  "source_repo": "rubyLs/yearning_mcp",
+  "source_url": "https://github.com/rubyLs/yearning_mcp",
+  "install": "npx -y yearning_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tmdb-mcp",
+  "description": "MCP server for The Movie Database (TMDB): search and look up movies, TV shows and people, and read IMDb/Rotten Tomatoes/Metacritic ratings (via OMDb) in the same call.",
+  "source_repo": "Grinv/tmdb-mcp",
+  "source_url": "https://github.com/Grinv/tmdb-mcp",
+  "install": "npx -y tmdb-mcp"
+}

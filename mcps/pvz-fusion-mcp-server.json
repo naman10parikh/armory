@@ -1,0 +1,7 @@
+{
+  "name": "pvz-fusion-mcp-server",
+  "description": "Enables AI clients to access PVZ Fusion game rules, FAQ, and official links through the MCP protocol.",
+  "source_repo": "rocnubie/pvz-fusion-mcp",
+  "source_url": "https://github.com/rocnubie/pvz-fusion-mcp",
+  "install": "npx -y pvz-fusion-mcp"
+}

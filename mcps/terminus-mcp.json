@@ -1,0 +1,7 @@
+{
+  "name": "terminus-mcp",
+  "description": "Enables agents to create and publish content to a Terminus instance, including screen and playlist management, discovery, and documentation search.",
+  "source_repo": "gjermundgaraba/terminus-mcp",
+  "source_url": "https://github.com/gjermundgaraba/terminus-mcp",
+  "install": "npx -y terminus-mcp"
+}

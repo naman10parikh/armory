@@ -1,0 +1,7 @@
+{
+  "name": "rhoso-accel-mcp",
+  "description": "MCP server that exposes dev-tools make targets as AI-callable tools for end-to-end RHOSO-to-GPU-validated-VM bring-up.",
+  "source_repo": "MiguelCarpio/rhoso-accel-mcp",
+  "source_url": "https://github.com/MiguelCarpio/rhoso-accel-mcp",
+  "install": "npx -y rhoso-accel-mcp"
+}

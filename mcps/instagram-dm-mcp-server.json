@@ -1,0 +1,7 @@
+{
+  "name": "instagram-dm-mcp-server",
+  "description": "Enables agents to send and read Instagram direct messages to a fixed set of configured recipients, with recipient discovery via aliases.",
+  "source_repo": "jdenp/instagram-message-mcp",
+  "source_url": "https://github.com/jdenp/instagram-message-mcp",
+  "install": "npx -y instagram-message-mcp"
+}

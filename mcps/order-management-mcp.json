@@ -1,0 +1,7 @@
+{
+  "name": "order-management-mcp",
+  "description": "Enables role-based order management operations such as viewing orders, checking refund eligibility, issuing refunds, deleting orders, and managing users through MCP tools with audit logging and permission checks.",
+  "source_repo": "mahipalrajpurohit529-dotcom/order-management-mcp",
+  "source_url": "https://github.com/mahipalrajpurohit529-dotcom/order-management-mcp",
+  "install": "npx -y order-management-mcp"
+}

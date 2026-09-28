@@ -1,0 +1,7 @@
+{
+  "name": "proxy6-mcp-server",
+  "description": "Enables managing proxies through the PROXY6.net API, including account info, proxy listing, purchasing, prolonging, and checking.",
+  "source_repo": "AsmanovLev/proxy6_mcp",
+  "source_url": "https://github.com/AsmanovLev/proxy6_mcp",
+  "install": "npx -y proxy6_mcp"
+}

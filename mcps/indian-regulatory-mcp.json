@@ -1,0 +1,7 @@
+{
+  "name": "indian-regulatory-mcp",
+  "description": "Enables access to Indian regulatory data including SEBI orders, RBI circulars, MCA company details, GST verification, and more, designed for fintech and legaltech applications.",
+  "source_repo": "guptaprakhariitr/indian-regulatory-mcp",
+  "source_url": "https://github.com/guptaprakhariitr/indian-regulatory-mcp",
+  "install": "npx -y indian-regulatory-mcp"
+}

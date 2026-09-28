@@ -1,0 +1,7 @@
+{
+  "name": "ukraine-com-ua-mcp",
+  "description": "MCP server for the adm.tools / ukraine.com.ua hosting API, providing tools to manage hosting services, accounts, sites, and web apps.",
+  "source_repo": "sanyo4ever/ukraine.com.ua-mcp",
+  "source_url": "https://github.com/sanyo4ever/ukraine.com.ua-mcp",
+  "install": "npx -y ukraine.com.ua-mcp"
+}

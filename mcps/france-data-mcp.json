@@ -1,0 +1,7 @@
+{
+  "name": "france-data-mcp",
+  "description": "Provides AI agents with access to French public registries including company records, property sale prices, housing energy performance, and short-term rental rates via MCP tools.",
+  "source_repo": "takatin31/france-data-mcp",
+  "source_url": "https://github.com/takatin31/france-data-mcp",
+  "install": "npx -y france-data-mcp"
+}

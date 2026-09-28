@@ -1,0 +1,7 @@
+{
+  "name": "rss-digest-mcp",
+  "description": "A stateless RSS competitive-intelligence MCP server that fetches and filters RSS/Atom feeds by keywords, deduplicates, and sorts by recency to return a focused digest.",
+  "source_repo": "tefunamu/rss-digest-mcp",
+  "source_url": "https://github.com/tefunamu/rss-digest-mcp",
+  "install": "npx -y rss-digest-mcp"
+}

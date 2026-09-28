@@ -1,0 +1,7 @@
+{
+  "name": "akib-dabgar-mcp-server",
+  "description": "A personal knowledge hub MCP server that allows LLMs to query Akib Dabgar's skills, experience, projects, and education using Dynamic Context Retrieval.",
+  "source_repo": "akibdabgar07/self-mcp-server",
+  "source_url": "https://github.com/akibdabgar07/self-mcp-server",
+  "install": "npx -y self-mcp-server"
+}

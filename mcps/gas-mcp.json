@@ -1,0 +1,7 @@
+{
+  "name": "gas-mcp",
+  "description": "Turns a GAS service into an MCP server, exposing tools for session creation, resource reading, searching, and executing capabilities.",
+  "source_repo": "ryoshu/gas-mcp",
+  "source_url": "https://github.com/ryoshu/gas-mcp",
+  "install": "npx -y gas-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hwatu",
+  "description": "Verification browser for coding agents. Headless-by-default WebKit windows with DOM eval, screenshots, pixel-diff with a real match percentage and heatmap, and live hand-off to a human. One static binary, no Chromium.",
+  "source_repo": "hongnoul/hwatu",
+  "source_url": "https://github.com/hongnoul/hwatu",
+  "install": "# git clone --depth 1 https://github.com/hongnoul/hwatu\n# See source for mcpServers config block"
+}

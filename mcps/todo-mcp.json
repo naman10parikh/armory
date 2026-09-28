@@ -1,0 +1,7 @@
+{
+  "name": "todo-mcp",
+  "description": "Enables AI assistants to manage Microsoft To Do tasks via the Graph API, supporting multiple accounts, encrypted auth, and full CRUD operations.",
+  "source_repo": "jc1122/todo-mcp",
+  "source_url": "https://github.com/jc1122/todo-mcp",
+  "install": "npx -y todo-mcp"
+}

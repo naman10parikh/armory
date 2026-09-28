@@ -1,0 +1,7 @@
+{
+  "name": "aicon",
+  "description": "Enables AI-powered icon search, generation, and download from 275,000+ icons with web-based authentication and subscription plans.",
+  "source_repo": "yedidya-buildfy/icon-mcp",
+  "source_url": "https://github.com/yedidya-buildfy/icon-mcp",
+  "install": "npx -y icon-mcp"
+}

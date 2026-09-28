@@ -1,0 +1,7 @@
+{
+  "name": "presidio-hardened-x402-mcp",
+  "description": "A pre-payment safety gate for x402 that screens payment metadata for PII, enforces spending policies, and detects replay attacks before signing.",
+  "source_repo": "presidio-v/presidio-hardened-x402-mcp",
+  "source_url": "https://github.com/presidio-v/presidio-hardened-x402-mcp",
+  "install": "npx -y presidio-hardened-x402-mcp"
+}

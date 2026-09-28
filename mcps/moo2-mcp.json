@@ -1,0 +1,7 @@
+{
+  "name": "moo2-mcp",
+  "description": "Enables AI to observe and control the DOS game Master of Orion 2 by reading emulator memory and simulating mouse/keyboard input.",
+  "source_repo": "rapaul/moo2-mcp",
+  "source_url": "https://github.com/rapaul/moo2-mcp",
+  "install": "npx -y moo2-mcp"
+}

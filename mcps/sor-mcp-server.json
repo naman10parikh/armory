@@ -1,0 +1,7 @@
+{
+  "name": "sor-mcp-server",
+  "description": "Exposes 3 meta-tools to efficiently search and execute 174 backend CRUD tools, reducing context token usage by ~98%.",
+  "source_repo": "shashankcube/sor-mcp-server",
+  "source_url": "https://github.com/shashankcube/sor-mcp-server",
+  "install": "npx -y sor-mcp-server"
+}

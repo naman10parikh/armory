@@ -1,0 +1,7 @@
+{
+  "name": "financial-trading-risk-aiops-assistant",
+  "description": "Provides read-only MCP tools for market snapshots, position risk, order reconciliation, and daily report previews with deterministic financial calculations, evidence chains, and audit trails.",
+  "source_repo": "jadenmong/financial-trading-risk-aiops-assistant",
+  "source_url": "https://github.com/jadenmong/financial-trading-risk-aiops-assistant",
+  "install": "# git clone --depth 1 https://github.com/jadenmong/financial-trading-risk-aiops-assistant\n# See source for mcpServers config block"
+}

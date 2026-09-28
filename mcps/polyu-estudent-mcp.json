@@ -1,0 +1,7 @@
+{
+  "name": "polyu-estudent-mcp",
+  "description": "A local MCP server that lets Claude Code operate the PolyU eStudent portal to check grades, timetable, exams, search subjects, and manage course registration through natural language.",
+  "source_repo": "1708004874a-star/polyu-estudent-mcp",
+  "source_url": "https://github.com/1708004874a-star/polyu-estudent-mcp",
+  "install": "npx -y polyu-estudent-mcp"
+}

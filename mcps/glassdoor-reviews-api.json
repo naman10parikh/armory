@@ -1,0 +1,7 @@
+{
+  "name": "glassdoor-reviews-api",
+  "description": "Extracts Glassdoor employer reviews and returns them as structured JSON, usable as an MCP tool in AI agents.",
+  "source_repo": "johnisanerd/Apify-Glassdoor-Reviews-API",
+  "source_url": "https://github.com/johnisanerd/Apify-Glassdoor-Reviews-API",
+  "install": "# git clone --depth 1 https://github.com/johnisanerd/Apify-Glassdoor-Reviews-API\n# See source for mcpServers config block"
+}

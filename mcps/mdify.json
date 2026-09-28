@@ -1,0 +1,7 @@
+{
+  "name": "mdify",
+  "description": "Automatically converts PDF, DOCX, XLSX, and CSV files to clean markdown when read by Claude Code, reducing token usage by up to 98%.",
+  "source_repo": "SundeepSuddala/mdify",
+  "source_url": "https://github.com/SundeepSuddala/mdify",
+  "install": "# git clone --depth 1 https://github.com/SundeepSuddala/mdify\n# See source for mcpServers config block"
+}

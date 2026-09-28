@@ -1,0 +1,7 @@
+{
+  "name": "base-escrow-mcp",
+  "description": "MCP server for AI agents to create and manage P2P escrow deals on Base (ETH or ERC-20).",
+  "source_repo": "lordbasilaiassistant-sudo/base-escrow-mcp",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/base-escrow-mcp",
+  "install": "npx -y base-escrow-mcp"
+}

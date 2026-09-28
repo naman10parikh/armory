@@ -1,0 +1,7 @@
+{
+  "name": "sintegra-ccc-completa",
+  "description": "MCP server for querying complete Sintegra Centralized Taxpayer Registry (CCC) data from CPF/CNPJ or state registration and UF. Read-only, hosted, pay-per-use, works with any MCP client.",
+  "source_repo": "mcp-dir/sintegra_ccc_completa-mcp",
+  "source_url": "https://github.com/mcp-dir/sintegra_ccc_completa-mcp",
+  "install": "npx -y sintegra_ccc_completa-mcp"
+}

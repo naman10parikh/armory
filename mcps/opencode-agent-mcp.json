@@ -1,0 +1,7 @@
+{
+  "name": "opencode-agent-mcp",
+  "description": "MCP server that exposes independent OpenCode AI coding agents to upstream agents with multi-workspace concurrent routing, enabling session management and message exchange across multiple repositories via stdio JSON-RPC.",
+  "source_repo": "define9/opencode-agent-mcp",
+  "source_url": "https://github.com/define9/opencode-agent-mcp",
+  "install": "npx -y opencode-agent-mcp"
+}

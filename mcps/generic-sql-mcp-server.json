@@ -1,0 +1,7 @@
+{
+  "name": "generic-sql-mcp-server",
+  "description": "A configurable, database-agnostic MCP server that enables LLMs to safely interact with SQL databases through read-only operations and schema inspection.",
+  "source_repo": "Ayushedunext/DB-MCP",
+  "source_url": "https://github.com/Ayushedunext/DB-MCP",
+  "install": "npx -y DB-MCP"
+}

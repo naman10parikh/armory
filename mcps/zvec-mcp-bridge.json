@@ -1,0 +1,7 @@
+{
+  "name": "zvec-mcp-bridge",
+  "description": "Indexes project source files into a local Zvec vector database and provides semantic search through MCP tools, enabling natural-language queries over code.",
+  "source_repo": "ABIvan-Tech/zvec-mcp",
+  "source_url": "https://github.com/ABIvan-Tech/zvec-mcp",
+  "install": "npx -y zvec-mcp"
+}

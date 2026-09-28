@@ -1,0 +1,7 @@
+{
+  "name": "aminer-mcp-server",
+  "description": "Access AMiner's free academic data APIs to search researchers, papers, and patents, enabling AI agents to retrieve and utilize global research information.",
+  "source_repo": "huanghuoguoguo/aminer-mcp",
+  "source_url": "https://github.com/huanghuoguoguo/aminer-mcp",
+  "install": "npx -y aminer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-orator-mcp",
+  "description": "An MCP server for deterministic prompt optimization in Claude Code. Score prompts across 7 quality dimensions, auto-select from 11 Anthropic techniques, and return a structural scaffold.",
+  "source_repo": "Vvkmnn/claude-orator-mcp",
+  "source_url": "https://github.com/Vvkmnn/claude-orator-mcp",
+  "install": "npx -y claude-orator-mcp"
+}

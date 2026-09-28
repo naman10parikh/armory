@@ -1,0 +1,7 @@
+{
+  "name": "detran-ba-veiculo-mcp",
+  "description": "Hosted MCP server for querying official DETRAN BA vehicle information (single read-only tool) via HTTP, with prepaid per-use credits.",
+  "source_repo": "mcp-dir/detran_ba_veiculo-mcp",
+  "source_url": "https://github.com/mcp-dir/detran_ba_veiculo-mcp",
+  "install": "npx -y detran_ba_veiculo-mcp"
+}

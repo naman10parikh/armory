@@ -1,0 +1,7 @@
+{
+  "name": "mcp-flow",
+  "description": "A safe, local MCP server that lets Claude drive a controlled software-development loop (inspect, read, plan, patch, apply, check, analyze, fix, summarize) on a project, using deterministic tools and real diffs/test runs.",
+  "source_repo": "remimenguy/mcp-flow",
+  "source_url": "https://github.com/remimenguy/mcp-flow",
+  "install": "# git clone --depth 1 https://github.com/remimenguy/mcp-flow\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcpreg",
+  "description": "Wraps any MCP server and exposes introspection tools (list, get, query) for registered tools, enabling clients to inspect tool schemas even when the underlying SDK lacks list_tools().",
+  "source_repo": "prasad-a-abhishek/mcpreg",
+  "source_url": "https://github.com/prasad-a-abhishek/mcpreg",
+  "install": "# git clone --depth 1 https://github.com/prasad-a-abhishek/mcpreg\n# See source for mcpServers config block"
+}

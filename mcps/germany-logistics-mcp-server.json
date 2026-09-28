@@ -1,0 +1,7 @@
+{
+  "name": "germany-logistics-mcp-server",
+  "description": "Enables AI agents to purchase Deutsche Post shipping labels, track parcels, and refund unused labels, automatically selecting the cheapest rate via the Shippo API.",
+  "source_repo": "junter1989k-ai/germany-logistics-mcp",
+  "source_url": "https://github.com/junter1989k-ai/germany-logistics-mcp",
+  "install": "npx -y germany-logistics-mcp"
+}

@@ -1,6 +1,6 @@
 {
   "name": "vectorize",
-  "description": "Vectorize MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "vectorize-mcp-server/Vectorize",
   "source_url": "https://mcp.so/server/Vectorize/vectorize-mcp-server",
   "install": "# git clone --depth 1 https://mcp.so/server/Vectorize/vectorize-mcp-server\n# See source for mcpServers config block"

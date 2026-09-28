@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-excalidraw-universal-mcp",
+  "description": "MCP server enabling AI assistants to read and write Obsidian notes, create and edit Excalidraw drawings, and run Excalidraw scripts via natural language commands.",
+  "source_repo": "azgem102-max/obsidian-excalidraw-universal-mcp",
+  "source_url": "https://github.com/azgem102-max/obsidian-excalidraw-universal-mcp",
+  "install": "npx -y obsidian-excalidraw-universal-mcp"
+}

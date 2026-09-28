@@ -1,0 +1,7 @@
+{
+  "name": "modmind-mcp-server",
+  "description": "Provides a local stdio MCP interface that forwards tool calls to an already-running ModMind bridge for Minecraft automation.",
+  "source_repo": "waterpail114514/ModMind-MCP",
+  "source_url": "https://github.com/waterpail114514/ModMind-MCP",
+  "install": "npx -y ModMind-MCP"
+}

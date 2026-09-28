@@ -1,0 +1,7 @@
+{
+  "name": "binance-market-mcp-server",
+  "description": "Provides live and historical market data for Bitcoin and any Binance pair via two read-only tools: current price snapshot and historical OHLC candles.",
+  "source_repo": "picjhoe-dev/binance-market-mcp-server",
+  "source_url": "https://github.com/picjhoe-dev/binance-market-mcp-server",
+  "install": "npx -y binance-market-mcp-server"
+}

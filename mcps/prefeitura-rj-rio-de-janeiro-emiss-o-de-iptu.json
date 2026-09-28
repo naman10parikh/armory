@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-rj-rio-de-janeiro-emiss-o-de-iptu",
+  "description": "Enables consulting IPTU property tax issuance for Rio de Janeiro from official sources, read-only, with prepaid credits.",
+  "source_repo": "mcp-dir/pref_rj_rio_janeiro_iptu-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_rj_rio_janeiro_iptu-mcp",
+  "install": "npx -y pref_rj_rio_janeiro_iptu-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-cheap-search",
+  "description": "Provides real-time Google search results (organic + knowledge graph) with country targeting, language, time filters, and pagination, at low cost.",
+  "source_repo": "SerpCheap/mcp",
+  "source_url": "https://github.com/SerpCheap/mcp",
+  "install": "# git clone --depth 1 https://github.com/SerpCheap/mcp\n# See source for mcpServers config block"
+}

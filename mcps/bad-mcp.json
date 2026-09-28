@@ -1,0 +1,7 @@
+{
+  "name": "bad-mcp",
+  "description": "A harness for building test MCP servers that reproduce common attack patterns, enabling detection evaluation via streaming HTTP or stdio.",
+  "source_repo": "ytkoka/bad-mcp",
+  "source_url": "https://github.com/ytkoka/bad-mcp",
+  "install": "npx -y bad-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "telegram-agent-mcp",
+  "description": "MCP server that exposes a Telegram bot over stdio transport, enabling LLM agents to discover each other, announce capabilities, and communicate via messages in shared group chats. It provides tools like whoami, announce, list_agents, ping_agent, send_message, list_chats, get_recent_messages, and wai",
+  "source_repo": "clemente-turrubiates/telegram-agent-mcp",
+  "source_url": "https://github.com/clemente-turrubiates/telegram-agent-mcp",
+  "install": "npx -y telegram-agent-mcp"
+}

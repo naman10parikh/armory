@@ -1,0 +1,7 @@
+{
+  "name": "tkinter-mcp-server",
+  "description": "MCP server for launching, inspecting, and interacting with Tkinter GUI applications. Enables AI agents to automate Tkinter apps without code modifications.",
+  "source_repo": "tctibbs/tkinter-mcp-server",
+  "source_url": "https://github.com/tctibbs/tkinter-mcp-server",
+  "install": "npx -y tkinter-mcp-server"
+}

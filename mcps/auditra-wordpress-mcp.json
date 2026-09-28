@@ -1,0 +1,7 @@
+{
+  "name": "auditra-wordpress-mcp",
+  "description": "Auditra is a free WordPress plugin that lets an AI assistant like Claude read everything about your site's plugins — installed, deleted, and forgotten — and answer your questions about them in plain English.",
+  "source_repo": "mwstech/auditra",
+  "source_url": "https://github.com/mwstech/auditra",
+  "install": "# git clone --depth 1 https://github.com/mwstech/auditra\n# See source for mcpServers config block"
+}

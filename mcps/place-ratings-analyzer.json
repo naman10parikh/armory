@@ -1,0 +1,7 @@
+{
+  "name": "place-ratings-analyzer",
+  "description": "Fetches and analyzes Google Maps review ratings with a full star-by-star breakdown (★1–★5) and provides an assessment of rating patterns.",
+  "source_repo": "kzkymn/place-ratings-analyzer",
+  "source_url": "https://github.com/kzkymn/place-ratings-analyzer",
+  "install": "# git clone --depth 1 https://github.com/kzkymn/place-ratings-analyzer\n# See source for mcpServers config block"
+}

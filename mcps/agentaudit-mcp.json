@@ -1,0 +1,7 @@
+{
+  "name": "agentaudit-mcp",
+  "description": "Provides an immutable, tamper-evident audit trail for AI agents, enabling event logging with cryptographic chaining, search, verification, and statistics.",
+  "source_repo": "Rumblingb/agent-audit-mcp",
+  "source_url": "https://github.com/Rumblingb/agent-audit-mcp",
+  "install": "npx -y agent-audit-mcp"
+}

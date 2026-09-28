@@ -1,0 +1,7 @@
+{
+  "name": "jamfmcp",
+  "description": "An async MCP server for Jamf Pro integration, providing AI assistants with tools for computer health analysis, inventory management, and policy monitoring.",
+  "source_repo": "liquidz00/jamfmcp",
+  "source_url": "https://github.com/liquidz00/jamfmcp",
+  "install": "# git clone --depth 1 https://github.com/liquidz00/jamfmcp\n# See source for mcpServers config block"
+}

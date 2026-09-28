@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-placeholder-implementation",
+  "description": "An MCP server implementation in Python with placeholder tools, deployable to Azure Web App via GitHub Actions. Supports STDIO, HTTP REST, and WebSocket interfaces.",
+  "source_repo": "AfryDario/mcp-server",
+  "source_url": "https://github.com/AfryDario/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/AfryDario/mcp-server\n# See source for mcpServers config block"
+}

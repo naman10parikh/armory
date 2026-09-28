@@ -1,0 +1,7 @@
+{
+  "name": "caniemail",
+  "description": "MCP server providing email client compatibility data from caniemail.com, enabling agents to lint HTML/CSS for email client support, check feature support across clients, and search for features by keyword, with verdicts including supported, unsupported, mitigated, and untested.",
+  "source_repo": "shbernal/caniemail-ai-tooling",
+  "source_url": "https://github.com/shbernal/caniemail-ai-tooling",
+  "install": "# git clone --depth 1 https://github.com/shbernal/caniemail-ai-tooling\n# See source for mcpServers config block"
+}

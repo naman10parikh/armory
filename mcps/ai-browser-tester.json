@@ -1,0 +1,7 @@
+{
+  "name": "ai-browser-tester",
+  "description": "MCP-first browser-control toolkit enabling AI agents to safely automate browser actions using redacted snapshots and ref-based interactions.",
+  "source_repo": "Ryn-Mic/ai-browser-tester",
+  "source_url": "https://github.com/Ryn-Mic/ai-browser-tester",
+  "install": "# git clone --depth 1 https://github.com/Ryn-Mic/ai-browser-tester\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qiyueastro-mcp-server",
+  "description": "MCP server for Eastern and Western divination, enabling tarot, Lenormand, I Ching, Meihua, Qi Men, BaZi, Zi Wei Dou Shu, Xiao Liu Ren and Da Liu Ren readings via the free QiyueAstro public API.",
+  "source_repo": "BloodymaryGG/qiyue-mcp",
+  "source_url": "https://github.com/BloodymaryGG/qiyue-mcp",
+  "install": "npx -y qiyue-mcp"
+}

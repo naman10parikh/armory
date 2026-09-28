@@ -1,0 +1,7 @@
+{
+  "name": "diffbeam-mcp-server",
+  "description": "Enables AI agents and engineering tools to validate and simulate Gaussian beam optical systems, search component catalogs, and create immutable design links for optical design workflows.",
+  "source_repo": "RiaRosenauer/diffbeam-mcp",
+  "source_url": "https://github.com/RiaRosenauer/diffbeam-mcp",
+  "install": "npx -y diffbeam-mcp"
+}

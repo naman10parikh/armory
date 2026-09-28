@@ -1,0 +1,7 @@
+{
+  "name": "windows-appshots",
+  "description": "MCP server that captures a Windows application's pixels and bounded UI Automation tree with provider-exposed text for Codex inspection. It supports capture, listing, retrieval, and watcher control commands.",
+  "source_repo": "brianmulder/windows-appshots",
+  "source_url": "https://github.com/brianmulder/windows-appshots",
+  "install": "# git clone --depth 1 https://github.com/brianmulder/windows-appshots\n# See source for mcpServers config block"
+}

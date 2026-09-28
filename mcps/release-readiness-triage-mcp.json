@@ -1,0 +1,7 @@
+{
+  "name": "release-readiness-triage-mcp",
+  "description": "MCP server that aggregates test failures, cross-references flakiness history, and outputs a release readiness verdict.",
+  "source_repo": "vola-trebla/release-readiness-triage-mcp",
+  "source_url": "https://github.com/vola-trebla/release-readiness-triage-mcp",
+  "install": "npx -y release-readiness-triage-mcp"
+}

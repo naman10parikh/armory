@@ -1,0 +1,7 @@
+{
+  "name": "node-mcp-template",
+  "description": "Opinionated template for building Node.js stdio and HTTP MCP servers.",
+  "source_repo": "adamelliotfields/node-mcp-template",
+  "source_url": "https://github.com/adamelliotfields/node-mcp-template",
+  "install": "# git clone --depth 1 https://github.com/adamelliotfields/node-mcp-template\n# See source for mcpServers config block"
+}

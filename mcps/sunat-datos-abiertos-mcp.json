@@ -1,0 +1,7 @@
+{
+  "name": "sunat-datos-abiertos-mcp",
+  "description": "MCP server that exposes SUNAT Peruvian tax agency datasets (RUC registry, electronic receipts, IGV agents) via CKAN API with streaming preview and automatic zip decompression.",
+  "source_repo": "rodrigocapiz67-tech/mcp-sunat",
+  "source_url": "https://github.com/rodrigocapiz67-tech/mcp-sunat",
+  "install": "# git clone --depth 1 https://github.com/rodrigocapiz67-tech/mcp-sunat\n# See source for mcpServers config block"
+}

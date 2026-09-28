@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-ads-mcp-2",
+  "description": "MCP server for Microsoft Advertising (Bing Ads) REST API enabling agent-led campaign management and reporting. It provides tools to manage campaigns, ad groups, keywords, ads, budgets, and pull performance reports.",
+  "source_repo": "shinypebble/microsoft-ads-mcp",
+  "source_url": "https://github.com/shinypebble/microsoft-ads-mcp",
+  "install": "npx -y microsoft-ads-mcp"
+}

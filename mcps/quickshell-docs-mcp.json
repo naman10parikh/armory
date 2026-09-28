@@ -1,0 +1,7 @@
+{
+  "name": "quickshell-docs-mcp",
+  "description": "Gives AI assistants live, grounded access to official Quickshell documentation, examples, and real-world configs, resolving versions dynamically and citing sources.",
+  "source_repo": "franklinnolasco7/quickshell-docs-mcp",
+  "source_url": "https://github.com/franklinnolasco7/quickshell-docs-mcp",
+  "install": "npx -y quickshell-docs-mcp"
+}

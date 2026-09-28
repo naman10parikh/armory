@@ -1,0 +1,7 @@
+{
+  "name": "aipatterns-mcp-server",
+  "description": "Exposes AI patterns, incidents, benchmarks, and regulatory changes from aipatterns.com.au as callable tools for Claude and other MCP-compatible assistants.",
+  "source_repo": "uchit/aipatterns-mcp-server",
+  "source_url": "https://github.com/uchit/aipatterns-mcp-server",
+  "install": "npx -y aipatterns-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vector-search-service-mcp-provider",
+  "description": "A clean architecture backend API that registers and semantically searches data using vector embeddings, acting as an MCP context provider to connect AI models to external data.",
+  "source_repo": "thiagoaramizo/vetorial-search-service",
+  "source_url": "https://github.com/thiagoaramizo/vetorial-search-service",
+  "install": "# git clone --depth 1 https://github.com/thiagoaramizo/vetorial-search-service\n# See source for mcpServers config block"
+}

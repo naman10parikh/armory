@@ -1,0 +1,7 @@
+{
+  "name": "viator-mcp",
+  "description": "MCP server for the Viator Partner API that enables searching tours, activities, and attractions with structured filters or free text, retrieving product details and availability schedules.",
+  "source_repo": "chrischall/viator-mcp",
+  "source_url": "https://github.com/chrischall/viator-mcp",
+  "install": "npx -y viator-mcp"
+}

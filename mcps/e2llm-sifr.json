@@ -1,0 +1,7 @@
+{
+  "name": "e2llm-sifr",
+  "description": "E2LLM — structured browser perception for AI",
+  "source_repo": "e2llm/e2llm-sifr",
+  "source_url": "https://github.com/e2llm/e2llm-sifr",
+  "install": "# git clone --depth 1 https://github.com/e2llm/e2llm-sifr\n# See source for mcpServers config block"
+}

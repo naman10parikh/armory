@@ -1,0 +1,7 @@
+{
+  "name": "leave-management-mcp-server",
+  "description": "Enables HR teams to query and manage employee leave through natural language using Claude Desktop, with tools for checking balances, applying leave, and viewing history.",
+  "source_repo": "nishankuu/mcp_project",
+  "source_url": "https://github.com/nishankuu/mcp_project",
+  "install": "# git clone --depth 1 https://github.com/nishankuu/mcp_project\n# See source for mcpServers config block"
+}

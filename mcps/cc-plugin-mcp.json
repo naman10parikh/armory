@@ -1,0 +1,7 @@
+{
+  "name": "cc-plugin-mcp",
+  "description": "MCP server for accessing Claude Code plugins. Enables retrieving plugin lists and detailed information via MCP clients like Claude Desktop, Cursor.",
+  "source_repo": "ppspps824/cc-plugin-mcp",
+  "source_url": "https://github.com/ppspps824/cc-plugin-mcp",
+  "install": "npx -y cc-plugin-mcp"
+}

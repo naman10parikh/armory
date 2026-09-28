@@ -1,0 +1,7 @@
+{
+  "name": "claude-desktop-api-use-via-mcp",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/claude_desktop_api_use_via_mcp",
+  "install": "# git clone --depth 1 https://mcp.so/server/claude_desktop_api_use_via_mcp\n# See source for mcpServers config block"
+}

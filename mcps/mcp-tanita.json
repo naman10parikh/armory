@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tanita",
+  "description": "Read-only MCP server for Tanita Health Planet measurements, providing tools for profile, health reporting, and measurement reads.",
+  "source_repo": "kogecoo/mcp-tanita",
+  "source_url": "https://github.com/kogecoo/mcp-tanita",
+  "install": "# git clone --depth 1 https://github.com/kogecoo/mcp-tanita\n# See source for mcpServers config block"
+}

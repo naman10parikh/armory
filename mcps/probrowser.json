@@ -1,0 +1,7 @@
+{
+  "name": "probrowser",
+  "description": "Enables AI agents to control a user's real browser through the Model Context Protocol, attaching to existing browser sessions over CDP to preserve cookies and logins, with human-like input simulation, DOM/vision hybrid interaction, and CAPTCHA handling for anti-detection automation.",
+  "source_repo": "momadhuynh04/probrowser",
+  "source_url": "https://github.com/momadhuynh04/probrowser",
+  "install": "# git clone --depth 1 https://github.com/momadhuynh04/probrowser\n# See source for mcpServers config block"
+}

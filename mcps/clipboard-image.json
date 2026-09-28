@@ -1,0 +1,7 @@
+{
+  "name": "clipboard-image",
+  "description": "Enables Claude Code to paste images from the system clipboard for instant analysis and processing.",
+  "source_repo": "albertoelopez/claudecode-copy-img-mcp",
+  "source_url": "https://github.com/albertoelopez/claudecode-copy-img-mcp",
+  "install": "npx -y claudecode-copy-img-mcp"
+}

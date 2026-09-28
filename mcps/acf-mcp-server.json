@@ -1,0 +1,7 @@
+{
+  "name": "acf-mcp-server",
+  "description": "Production-ready Model Context Protocol server for safely reading and changing WordPress + ACF Pro structure through ACF Local JSON and explicit WP-CLI synchronization.",
+  "source_repo": "symonbaikov/acf-mcp-server",
+  "source_url": "https://github.com/symonbaikov/acf-mcp-server",
+  "install": "npx -y acf-mcp-server"
+}

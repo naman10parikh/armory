@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-vietnam-payments-mcp",
+  "description": "Lets AI agents accept Vietnam payments via MoMo wallet QR and cards with zero-setup demo; provides create payment link and query status tools.",
+  "source_repo": "junter1989k-ai/vietnam-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/vietnam-payments-mcp",
+  "install": "npx -y vietnam-payments-mcp"
+}

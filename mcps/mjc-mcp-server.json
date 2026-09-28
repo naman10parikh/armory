@@ -1,0 +1,7 @@
+{
+  "name": "mjc-mcp-server",
+  "description": "MCP server enabling AI assistants to query Myongji College data, including real-time library seat availability, campus notices, department lists, and course search (with user login). All tools are read-only and can be composed to answer complex campus-related questions.",
+  "source_repo": "4thIS/hachathon_mjc_mcp",
+  "source_url": "https://github.com/4thIS/hachathon_mjc_mcp",
+  "install": "npx -y hachathon_mjc_mcp"
+}

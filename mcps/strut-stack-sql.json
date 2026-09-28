@@ -1,0 +1,7 @@
+{
+  "name": "strut-stack-sql",
+  "description": "Token-efficient MCP server for MySQL, PostgreSQL, and SQLite written in Rust, providing SQL query execution and analysis tools with strong security guards.",
+  "source_repo": "rzlco666/mcp-sql-rust",
+  "source_url": "https://github.com/rzlco666/mcp-sql-rust",
+  "install": "# git clone --depth 1 https://github.com/rzlco666/mcp-sql-rust\n# See source for mcpServers config block"
+}

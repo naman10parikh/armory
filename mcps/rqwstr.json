@@ -1,0 +1,7 @@
+{
+  "name": "rqwstr",
+  "description": "AI-native HTTP security testing MCP server — 18 tools with raw HTTP/1.1 + HTTP/2 control",
+  "source_repo": "Kjopstad-IT/rqwstr-mcp",
+  "source_url": "https://github.com/Kjopstad-IT/rqwstr-mcp",
+  "install": "npx -y rqwstr-mcp"
+}

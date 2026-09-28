@@ -1,0 +1,7 @@
+{
+  "name": "imagen-tools-mcp-server",
+  "description": "An MCP server for generating and editing images using Google Gemini Imagen via Vertex AI. Supports multiple resolutions and aspect ratios.",
+  "source_repo": "hwalde/imagen-tools-mcp",
+  "source_url": "https://github.com/hwalde/imagen-tools-mcp",
+  "install": "npx -y imagen-tools-mcp"
+}

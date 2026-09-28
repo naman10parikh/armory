@@ -1,0 +1,7 @@
+{
+  "name": "cognitive-exoskeleton-mcp-server",
+  "description": "Builds a dynamic knowledge graph from your notes and uses LLM reasoning to discover blindspots, hidden cross-domain connections, track concept evolution, and spark creative inspiration.",
+  "source_repo": "hanjiang-215/cognitive-exoskeleton-mcp",
+  "source_url": "https://github.com/hanjiang-215/cognitive-exoskeleton-mcp",
+  "install": "npx -y cognitive-exoskeleton-mcp"
+}

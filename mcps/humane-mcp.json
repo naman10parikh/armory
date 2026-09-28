@@ -1,0 +1,7 @@
+{
+  "name": "humane-mcp",
+  "description": "Provides memory and orchestration capabilities to reduce AI waste, enabling recall before re-deriving and parallel task dispatch for any model.",
+  "source_repo": "sammyboi81/humane",
+  "source_url": "https://github.com/sammyboi81/humane",
+  "install": "# git clone --depth 1 https://github.com/sammyboi81/humane\n# See source for mcpServers config block"
+}

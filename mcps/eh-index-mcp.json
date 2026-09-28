@@ -1,0 +1,7 @@
+{
+  "name": "eh-index-mcp",
+  "description": "A read-only MCP server for E-Hentai and ExHentai, enabling gallery search, metadata retrieval, similar-gallery lookup, tag resolution, and authenticated favorites/archive access.",
+  "source_repo": "RichardGuan1/eh-index-mcp",
+  "source_url": "https://github.com/RichardGuan1/eh-index-mcp",
+  "install": "npx -y eh-index-mcp"
+}

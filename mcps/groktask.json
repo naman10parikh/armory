@@ -1,0 +1,7 @@
+{
+  "name": "groktask",
+  "description": "A standalone cross-platform task runner that delegates implementation to Grok Build via MCP, providing CLI, MCP, daemon, and a native desktop UI for live task monitoring.",
+  "source_repo": "xuqian-git/GrokTask",
+  "source_url": "https://github.com/xuqian-git/GrokTask",
+  "install": "# git clone --depth 1 https://github.com/xuqian-git/GrokTask\n# See source for mcpServers config block"
+}

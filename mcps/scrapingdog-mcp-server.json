@@ -1,0 +1,7 @@
+{
+  "name": "scrapingdog-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for ScrapingDog API that provides comprehensive web scraping, search engine data extraction, social media scraping, and e-commerce data collection capabilities.",
+  "source_repo": "nvrunx/scrapingdog-mcp-server",
+  "source_url": "https://github.com/nvrunx/scrapingdog-mcp-server",
+  "install": "npx -y scrapingdog-mcp-server"
+}

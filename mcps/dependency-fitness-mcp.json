@@ -1,0 +1,7 @@
+{
+  "name": "dependency-fitness-mcp",
+  "description": "An MCP server that provides cross-validated npm dependency fitness verdicts, including deprecation, malicious detection, and safe migration target inference.",
+  "source_repo": "TweedBeetle/dependency-fitness-mcp",
+  "source_url": "https://github.com/TweedBeetle/dependency-fitness-mcp",
+  "install": "npx -y dependency-fitness-mcp"
+}

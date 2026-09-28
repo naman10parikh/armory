@@ -1,0 +1,7 @@
+{
+  "name": "specularis-ai-visibility-audit",
+  "description": "Runs AI visibility (GEO/AEO) audits on websites, checking AI crawler access, schema markup, llms.txt, and content signals, with optional full PDF report.",
+  "source_repo": "AdevAarons/specularis-mcp-audit",
+  "source_url": "https://github.com/AdevAarons/specularis-mcp-audit",
+  "install": "# git clone --depth 1 https://github.com/AdevAarons/specularis-mcp-audit\n# See source for mcpServers config block"
+}

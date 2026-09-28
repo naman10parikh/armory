@@ -1,0 +1,7 @@
+{
+  "name": "nebuloss-r2-re-mcp",
+  "description": "Stateful radare2 MCP server tailored for reverse-engineering WiFi firmware, with token-limited outputs and baked-in Thumb-2 disassembly recipes.",
+  "source_repo": "nebuloss/r2-re-mcp",
+  "source_url": "https://github.com/nebuloss/r2-re-mcp",
+  "install": "npx -y r2-re-mcp"
+}

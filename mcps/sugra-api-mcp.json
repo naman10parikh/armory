@@ -1,0 +1,7 @@
+{
+  "name": "sugra-api-mcp",
+  "description": "Gateway connector between LLM agents and world data, providing access to financial market prices, macroeconomic indicators, and news through a bundled endpoint catalog.",
+  "source_repo": "Sugra-Systems/prod-sugra-ai-MCP",
+  "source_url": "https://github.com/Sugra-Systems/prod-sugra-ai-MCP",
+  "install": "npx -y prod-sugra-ai-MCP"
+}

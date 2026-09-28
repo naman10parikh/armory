@@ -1,0 +1,7 @@
+{
+  "name": "yarah-mcp-server",
+  "description": "Turns coding agents into full-stack builders by enabling backend features like auth, databases, file storage, serverless functions, and LLMs to be added to apps in seconds.",
+  "source_repo": "Darts7u7/Yarah-oos-mcp",
+  "source_url": "https://github.com/Darts7u7/Yarah-oos-mcp",
+  "install": "npx -y Yarah-oos-mcp"
+}

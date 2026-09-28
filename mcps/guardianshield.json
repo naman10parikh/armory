@@ -1,0 +1,7 @@
+{
+  "name": "guardianshield",
+  "description": "Universal AI security layer for code scanning, PII detection, prompt injection defense, secret detection, dependency auditing, and audit logging.",
+  "source_repo": "sparkvibe-io/GuardianShield",
+  "source_url": "https://github.com/sparkvibe-io/GuardianShield",
+  "install": "# git clone --depth 1 https://github.com/sparkvibe-io/GuardianShield\n# See source for mcpServers config block"
+}

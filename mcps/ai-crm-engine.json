@@ -1,0 +1,7 @@
+{
+  "name": "ai-crm-engine",
+  "description": "An MCP-native CRM backend for AI agents, enabling customer, opportunity, note, follow-up, and pipeline health management through 15 MCP tools.",
+  "source_repo": "digoo2008/ai-crm-engine",
+  "source_url": "https://github.com/digoo2008/ai-crm-engine",
+  "install": "# git clone --depth 1 https://github.com/digoo2008/ai-crm-engine\n# See source for mcpServers config block"
+}

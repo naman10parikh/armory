@@ -1,0 +1,7 @@
+{
+  "name": "userflow-mcp",
+  "description": "Simulates real users navigating your app and delivers qualitative UX feedback, including persona-driven testing, auto-friction detection, and WCAG accessibility audits.",
+  "source_repo": "prembobby39-gif/userflow-mcp",
+  "source_url": "https://github.com/prembobby39-gif/userflow-mcp",
+  "install": "npx -y userflow-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hyde-mcp",
+  "description": "MCP server for hyde.trade enabling LLM agents to discover and trade hyde coins on Robinhood Chain. Provides tools to list coins, get signals, quote trades, and build signable transactions.",
+  "source_repo": "errick0x/hyde-mcp",
+  "source_url": "https://github.com/errick0x/hyde-mcp",
+  "install": "npx -y hyde-mcp"
+}

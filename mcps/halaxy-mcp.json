@@ -1,0 +1,7 @@
+{
+  "name": "halaxy-mcp",
+  "description": "MCP server that lets AI assistants query your Halaxy practice-management data—appointments, invoices, referrals, and practitioners—via natural language, exposing read-only tools for daily schedules, billing status, and session limits.",
+  "source_repo": "ryanhunt/halaxy-mcp",
+  "source_url": "https://github.com/ryanhunt/halaxy-mcp",
+  "install": "npx -y halaxy-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zh-dict-mcp",
+  "description": "Provides Chinese figurative language lookup backed by CC-CEDICT, helping to verify whether a word or phrase has recorded figurative usage or is a one-off creative expression.",
+  "source_repo": "outsiderrr/zh-dict-mcp",
+  "source_url": "https://github.com/outsiderrr/zh-dict-mcp",
+  "install": "npx -y zh-dict-mcp"
+}

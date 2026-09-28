@@ -1,0 +1,7 @@
+{
+  "name": "cortex-engine",
+  "description": "Persistent memory for AI agents with semantic memory, belief tracking, and dream consolidation, enabling cross-session knowledge retention.",
+  "source_repo": "Fozikio/cortex-engine",
+  "source_url": "https://github.com/Fozikio/cortex-engine",
+  "install": "# git clone --depth 1 https://github.com/Fozikio/cortex-engine\n# See source for mcpServers config block"
+}

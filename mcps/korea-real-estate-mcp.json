@@ -1,0 +1,7 @@
+{
+  "name": "korea-real-estate-mcp",
+  "description": "Connects to Korea's MOLIT real estate API to provide 14+ tools for live transaction data and financial scenarios like buy now, buy later, or invest only based on income and savings.",
+  "source_repo": "tae0y/real-estate-mcp",
+  "source_url": "https://github.com/tae0y/real-estate-mcp",
+  "install": "npx -y real-estate-mcp"
+}

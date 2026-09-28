@@ -1,0 +1,7 @@
+{
+  "name": "pd-mcp",
+  "description": "Enables agentic interaction with vanilla Pure Data by providing tools for live patch creation, inspection, and manipulation via an MCP server that synchronizes with a Pd bridge patch.",
+  "source_repo": "chrisdonahue/pure-data-mcp",
+  "source_url": "https://github.com/chrisdonahue/pure-data-mcp",
+  "install": "npx -y pure-data-mcp"
+}

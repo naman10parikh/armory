@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-mcp-health-gateway",
+  "description": "A runnable MVP for onboarding enterprise tenants and agents, exposing governed health capabilities through MCP, storing downstream credentials, and monitoring tool activity from an analytics dashboard.",
+  "source_repo": "princeofmars/mcp",
+  "source_url": "https://github.com/princeofmars/mcp",
+  "install": "# git clone --depth 1 https://github.com/princeofmars/mcp\n# See source for mcpServers config block"
+}

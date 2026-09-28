@@ -1,0 +1,7 @@
+{
+  "name": "auto-news-mcp-server",
+  "description": "Enables AI assistants to access and manage an Indonesian stock market news pipeline, including checking news status, running scraping, and reading reports.",
+  "source_repo": "arbyazra123/auto-news",
+  "source_url": "https://github.com/arbyazra123/auto-news",
+  "install": "# git clone --depth 1 https://github.com/arbyazra123/auto-news\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nimble-crm-mcp",
+  "description": "MCP server for the Nimble CRM API, enabling management of contacts, deals, notes, tasks, and tags through natural language.",
+  "source_repo": "cphoskins/nimble-crm-mcp",
+  "source_url": "https://github.com/cphoskins/nimble-crm-mcp",
+  "install": "npx -y nimble-crm-mcp"
+}

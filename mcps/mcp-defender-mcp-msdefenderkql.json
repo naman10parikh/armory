@@ -1,0 +1,7 @@
+{
+  "name": "mcp-defender-mcp-msdefenderkql",
+  "description": "An MCP server for Microsoft Defender Advanced Hunting that enables AI assistants to investigate security events using natural language by translating queries to KQL and executing them against Defender.",
+  "source_repo": "trickyfalcon/mcp-defender",
+  "source_url": "https://github.com/trickyfalcon/mcp-defender",
+  "install": "# git clone --depth 1 https://github.com/trickyfalcon/mcp-defender\n# See source for mcpServers config block"
+}

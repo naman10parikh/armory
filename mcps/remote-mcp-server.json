@@ -1,6 +1,6 @@
 {
   "name": "remote-mcp-server",
-  "description": "Remote Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "cmsparks/remote-mcp-server",
   "source_url": "https://mcp.so/server/remote-mcp-server/cmsparks",
   "install": "npx -y remote-mcp-server"

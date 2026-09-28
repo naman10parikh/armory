@@ -1,0 +1,7 @@
+{
+  "name": "inistate-mcp-server",
+  "description": "Enables module discovery, entry management, and activity submission on the Inistate platform.",
+  "source_repo": "Inistate/inistate-mcp",
+  "source_url": "https://github.com/Inistate/inistate-mcp",
+  "install": "npx -y inistate-mcp"
+}

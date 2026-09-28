@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-365-mcp",
+  "description": "Enables LLMs to manage your Microsoft 365 calendar, tasks, and email via Microsoft Graph API, acting as a personal secretary.",
+  "source_repo": "xyz50270/Microsoft-Calendar-MCP",
+  "source_url": "https://github.com/xyz50270/Microsoft-Calendar-MCP",
+  "install": "npx -y Microsoft-Calendar-MCP"
+}

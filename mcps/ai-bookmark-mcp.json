@@ -1,0 +1,7 @@
+{
+  "name": "ai-bookmark-mcp",
+  "description": "A local-first MCP server that turns browser bookmark exports into a searchable knowledge base with classification, merging, full-text indexing, and Chrome integration.",
+  "source_repo": "NirussVn0/AI-Bookmark-MCP",
+  "source_url": "https://github.com/NirussVn0/AI-Bookmark-MCP",
+  "install": "npx -y AI-Bookmark-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codex-as-mcp",
+  "description": "Delegates work from MCP clients (like Claude Code) to the Codex CLI, allowing spawning of autonomous Codex subagents for tasks.",
+  "source_repo": "kky42/codex-as-mcp",
+  "source_url": "https://github.com/kky42/codex-as-mcp",
+  "install": "npx -y codex-as-mcp"
+}

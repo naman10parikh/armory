@@ -1,0 +1,7 @@
+{
+  "name": "nanobanana-mcp-server",
+  "description": "MCP server for AI image generation using Google Gemini models with intelligent model selection between Flash and Pro, supporting aspect ratios and search grounding.",
+  "source_repo": "QuorumEarth/nanobanana-mcp-server",
+  "source_url": "https://github.com/QuorumEarth/nanobanana-mcp-server",
+  "install": "npx -y nanobanana-mcp-server"
+}

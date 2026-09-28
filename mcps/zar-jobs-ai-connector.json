@@ -1,0 +1,7 @@
+{
+  "name": "zar-jobs-ai-connector",
+  "description": "MCP server that enables AI assistants to search and normalize job offers from portals like InfoJobs, while keeping the user in control of decisions. It provides read-only tools and respects official APIs and credentials.",
+  "source_repo": "abelvalle/zar-jobs-ai-connector",
+  "source_url": "https://github.com/abelvalle/zar-jobs-ai-connector",
+  "install": "# git clone --depth 1 https://github.com/abelvalle/zar-jobs-ai-connector\n# See source for mcpServers config block"
+}

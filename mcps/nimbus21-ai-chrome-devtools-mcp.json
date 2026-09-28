@@ -1,0 +1,7 @@
+{
+  "name": "nimbus21-ai-chrome-devtools-mcp",
+  "description": "Lets AI coding agents control and inspect a live Chrome browser via MCP, providing Chrome DevTools capabilities for automation, debugging, and performance analysis.",
+  "source_repo": "nimbus21/chrome-devtools-mcp",
+  "source_url": "https://github.com/nimbus21/chrome-devtools-mcp",
+  "install": "npx -y chrome-devtools-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-project-search",
+  "description": "A project search MCP server based on Milvus vector database, supporting semantic search, hybrid search, and exact scalar queries.",
+  "source_repo": "sirius-tangzhiming/mcp_-repository",
+  "source_url": "https://github.com/sirius-tangzhiming/mcp_-repository",
+  "install": "# git clone --depth 1 https://github.com/sirius-tangzhiming/mcp_-repository\n# See source for mcpServers config block"
+}

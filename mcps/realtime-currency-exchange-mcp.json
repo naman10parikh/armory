@@ -1,0 +1,7 @@
+{
+  "name": "realtime-currency-exchange-mcp",
+  "description": "Enables real-time currency exchange rate lookup, conversion, historical rates, and currency catalog using the free Frankfurter API, no API key required.",
+  "source_repo": "Ethereal-Jay/realtime-currency-exchange-mcp",
+  "source_url": "https://github.com/Ethereal-Jay/realtime-currency-exchange-mcp",
+  "install": "npx -y realtime-currency-exchange-mcp"
+}

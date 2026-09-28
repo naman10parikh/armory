@@ -1,0 +1,7 @@
+{
+  "name": "opendata-kr-narajangteo-bid-mcp",
+  "description": "MCP server for searching Korean public procurement bid notices (나라장터) using natural language.",
+  "source_repo": "opendata-kr/narajangteo-bid-mcp",
+  "source_url": "https://github.com/opendata-kr/narajangteo-bid-mcp",
+  "install": "npx -y narajangteo-bid-mcp"
+}

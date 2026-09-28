@@ -1,0 +1,7 @@
+{
+  "name": "local-computer",
+  "description": "Enables AI assistants to access files and terminal of a local computer via a public HTTPS endpoint, secured with GitHub OAuth.",
+  "source_repo": "ApsidD/local-computer-mcp",
+  "source_url": "https://github.com/ApsidD/local-computer-mcp",
+  "install": "npx -y local-computer-mcp"
+}

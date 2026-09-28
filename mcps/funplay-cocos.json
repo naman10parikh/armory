@@ -1,0 +1,7 @@
+{
+  "name": "funplay-cocos",
+  "description": "An embedded MCP server for Cocos Creator editor that enables AI assistants to inspect and automate Cocos projects.",
+  "source_repo": "FunplayAI/funplay-cocos-mcp",
+  "source_url": "https://github.com/FunplayAI/funplay-cocos-mcp",
+  "install": "npx -y funplay-cocos-mcp"
+}

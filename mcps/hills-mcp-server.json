@@ -1,0 +1,7 @@
+{
+  "name": "hills-mcp-server",
+  "description": "An MCP server for exploring British and Irish hills (Munros, Wainwrights, Corbetts, Marilyns) with offline search, nearby hills, and detailed hill data, no API key required.",
+  "source_repo": "Michael-Hutchinson/hills-mcp-server",
+  "source_url": "https://github.com/Michael-Hutchinson/hills-mcp-server",
+  "install": "npx -y hills-mcp-server"
+}

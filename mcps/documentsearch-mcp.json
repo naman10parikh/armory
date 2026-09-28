@@ -1,0 +1,7 @@
+{
+  "name": "documentsearch-mcp",
+  "description": "Enables searching and fetching documentation pages from a wide range of programming languages, frameworks, game engines, and tools. Supports multiple sources and returns relevant documentation snippets.",
+  "source_repo": "LittleFishStars/DocumentSearch-MCP",
+  "source_url": "https://github.com/LittleFishStars/DocumentSearch-MCP",
+  "install": "npx -y DocumentSearch-MCP"
+}

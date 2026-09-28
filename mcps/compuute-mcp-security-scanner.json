@@ -1,0 +1,7 @@
+{
+  "name": "compuute-mcp-security-scanner",
+  "description": "Static security scanner for MCP servers. POST a public GitHub URL, get severity counts, a score, and the top findings with file+line back. 37 rules across TypeScript, JavaScript, Python, Go, Rust, C#, Java, and Kotlin — every language with an official MCP SDK. Detects argument injection for npx/uvx/",
+  "source_repo": "",
+  "source_url": "https://scan.compuute.se",
+  "install": "# git clone --depth 1 https://scan.compuute.se\n# See source for mcpServers config block"
+}

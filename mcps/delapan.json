@@ -1,0 +1,7 @@
+{
+  "name": "delapan",
+  "description": "MCP server that grounds AI answers in a local, maintained knowledge base and optionally fills gaps from the web, fully local with SQLite.",
+  "source_repo": "anthonysuherli/delapan",
+  "source_url": "https://github.com/anthonysuherli/delapan",
+  "install": "# git clone --depth 1 https://github.com/anthonysuherli/delapan\n# See source for mcpServers config block"
+}

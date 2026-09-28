@@ -1,0 +1,7 @@
+{
+  "name": "quantgist-mcp-server",
+  "description": "Provides macro-economic event data, earnings reports, and market overviews as MCP tools, enabling AI agents to query calendars, check event proximity, and assess trade safety.",
+  "source_repo": "QuantGist-Technologies/QuantGist_MCP",
+  "source_url": "https://github.com/QuantGist-Technologies/QuantGist_MCP",
+  "install": "npx -y QuantGist_MCP"
+}

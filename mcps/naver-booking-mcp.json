@@ -1,0 +1,7 @@
+{
+  "name": "naver-booking-mcp",
+  "description": "Enables users to query real-time reservation availability for Naver Booking places in Korea, including beauty salons, restaurants, and other categories.",
+  "source_repo": "amiro-lab/booking-mcp",
+  "source_url": "https://github.com/amiro-lab/booking-mcp",
+  "install": "npx -y booking-mcp"
+}

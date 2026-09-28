@@ -1,0 +1,7 @@
+{
+  "name": "published-nft-literature-mcp-server",
+  "description": "Enables AI assistants to access Published NFT documentation, NFT collections, Flow blockchain info, pricing, and other literary marketplace data through MCP tools.",
+  "source_repo": "publishednft/mcp-literature-server",
+  "source_url": "https://github.com/publishednft/mcp-literature-server",
+  "install": "# git clone --depth 1 https://github.com/publishednft/mcp-literature-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pgdocs-mcp",
+  "description": "Provides fast, local, ranked search over PostgreSQL 18 and PostGIS 3.5 documentation via MCP, with no API keys or network calls at query time.",
+  "source_repo": "FloreData/pgdocs-mcp",
+  "source_url": "https://github.com/FloreData/pgdocs-mcp",
+  "install": "npx -y pgdocs-mcp"
+}

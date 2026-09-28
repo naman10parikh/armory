@@ -1,0 +1,7 @@
+{
+  "name": "hedera-mcp",
+  "description": "Comprehensive MCP server for Hedera (Hashgraph) covering 73 tools across all core services, building unsigned transactions for AI agents to propose. Never holds keys; reads via public Mirror Node.",
+  "source_repo": "ExpertVagabond/hedera-mcp",
+  "source_url": "https://github.com/ExpertVagabond/hedera-mcp",
+  "install": "npx -y hedera-mcp"
+}

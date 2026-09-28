@@ -1,0 +1,7 @@
+{
+  "name": "hyperroute-mcp",
+  "description": "MCP server for HyperRoute, a router that recommends and executes the best external tool for AI agent tasks, with server-side key management and outcome feedback.",
+  "source_repo": "HyperRouteAI/hyperroute-mcp",
+  "source_url": "https://github.com/HyperRouteAI/hyperroute-mcp",
+  "install": "npx -y hyperroute-mcp"
+}

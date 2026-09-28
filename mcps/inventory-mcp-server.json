@@ -1,0 +1,7 @@
+{
+  "name": "inventory-mcp-server",
+  "description": "An MCP server for inventory management (list, add, delete, comment on items) that demonstrates Auth0 for MCP capabilities including JWT bearer auth, fine-grained authorization with FGA, CIBA step-up approval, and Token Vault integration.",
+  "source_repo": "idmpotent2025/inventory-mcp-server",
+  "source_url": "https://github.com/idmpotent2025/inventory-mcp-server",
+  "install": "npx -y inventory-mcp-server"
+}

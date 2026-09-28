@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tarot-draw",
+  "description": "An MCP server that draws tarot cards from the 78-card deck and interprets them for your situation, using StupidAPIs with an X-API-Key required.",
+  "source_repo": "pipeworx-io/mcp-tarot-draw",
+  "source_url": "https://github.com/pipeworx-io/mcp-tarot-draw",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-tarot-draw\n# See source for mcpServers config block"
+}

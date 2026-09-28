@@ -1,0 +1,7 @@
+{
+  "name": "corpusfm",
+  "description": "Enables AI assistants and automation to inspect, compare, and manage FileMaker schema artifacts via MCP, including exploring objects, tracing references, generating diffs between versions, and automating schema tasks through jobs.",
+  "source_repo": "CORPUSfm/CORPUSfm",
+  "source_url": "https://github.com/CORPUSfm/CORPUSfm",
+  "install": "# git clone --depth 1 https://github.com/CORPUSfm/CORPUSfm\n# See source for mcpServers config block"
+}

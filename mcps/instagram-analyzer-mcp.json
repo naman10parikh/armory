@@ -1,0 +1,7 @@
+{
+  "name": "instagram-analyzer-mcp",
+  "description": "Analyzes public Instagram post URLs, returning captions and photos as image content for multimodal models like Claude, without requiring paid vision APIs.",
+  "source_repo": "SsangG77/instagram-analyzer-mcp",
+  "source_url": "https://github.com/SsangG77/instagram-analyzer-mcp",
+  "install": "npx -y instagram-analyzer-mcp"
+}

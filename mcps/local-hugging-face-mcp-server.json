@@ -1,0 +1,7 @@
+{
+  "name": "local-hugging-face-mcp-server",
+  "description": "A production-ready local MCP server for Agent Studio, providing tools for calculation, search, chat, and Hugging Face text generation via the Inference API.",
+  "source_repo": "madanvenkatraj/MCP-Server-hf-",
+  "source_url": "https://github.com/madanvenkatraj/MCP-Server-hf-",
+  "install": "# git clone --depth 1 https://github.com/madanvenkatraj/MCP-Server-hf-\n# See source for mcpServers config block"
+}

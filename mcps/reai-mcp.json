@@ -1,0 +1,7 @@
+{
+  "name": "reai-mcp",
+  "description": "MCP server for ReAI, the Norwegian cloud accounting system, enabling AI agents to read books, look up accounts and VAT codes, and perform bookkeeping through a curated toolset with safety guardrails.",
+  "source_repo": "Stener1/reai-mcp",
+  "source_url": "https://github.com/Stener1/reai-mcp",
+  "install": "npx -y reai-mcp"
+}

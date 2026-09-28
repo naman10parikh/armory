@@ -1,0 +1,7 @@
+{
+  "name": "repo-history",
+  "description": "Exposes a repo's historical engineering memory (decisions, landmines, guardrails) via MCP tools for AI coding agents.",
+  "source_repo": "hr23232323/repo-history",
+  "source_url": "https://github.com/hr23232323/repo-history",
+  "install": "# git clone --depth 1 https://github.com/hr23232323/repo-history\n# See source for mcpServers config block"
+}

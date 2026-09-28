@@ -1,0 +1,7 @@
+{
+  "name": "desktop-touch-mcp",
+  "description": "Allows AI clients to see and control Windows 10/11 desktops via MCP, with screenshots, UI Automation, Chrome CDP, keyboard/mouse, and terminal using semantic element targeting.",
+  "source_repo": "wangkang1133/desktop-touch-mcp",
+  "source_url": "https://github.com/wangkang1133/desktop-touch-mcp",
+  "install": "npx -y desktop-touch-mcp"
+}

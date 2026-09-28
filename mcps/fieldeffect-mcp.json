@@ -1,0 +1,7 @@
+{
+  "name": "fieldeffect-mcp",
+  "description": "MCP server for Field Effect MDR (Covalence) that exposes organization, endpoint device, and active response reporting endpoints as tools, enabling security management via natural language.",
+  "source_repo": "MSPbotsAI/fieldeffect-mcp",
+  "source_url": "https://github.com/MSPbotsAI/fieldeffect-mcp",
+  "install": "npx -y fieldeffect-mcp"
+}

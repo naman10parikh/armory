@@ -1,0 +1,7 @@
+{
+  "name": "lightweightchartsmcp",
+  "description": "Provides 6 MCP tools for semantic search, JS/TS code validation, and template generation based on TradingView Lightweight Charts documentation.",
+  "source_repo": "TheFractalyst/LightWeightChartsMCP",
+  "source_url": "https://github.com/TheFractalyst/LightWeightChartsMCP",
+  "install": "# git clone --depth 1 https://github.com/TheFractalyst/LightWeightChartsMCP\n# See source for mcpServers config block"
+}

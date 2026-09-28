@@ -1,0 +1,7 @@
+{
+  "name": "revitmcp",
+  "description": "A pyRevit extension and Python server that enables AI clients to interact with a live Autodesk Revit session through tools for project info, view management, element operations, and schedule management.",
+  "source_repo": "oakplank/RevitMCP",
+  "source_url": "https://github.com/oakplank/RevitMCP",
+  "install": "# git clone --depth 1 https://github.com/oakplank/RevitMCP\n# See source for mcpServers config block"
+}

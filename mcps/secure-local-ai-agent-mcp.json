@@ -1,0 +1,7 @@
+{
+  "name": "secure-local-ai-agent-mcp",
+  "description": "Enables ChatGPT to securely control a Windows PC via a local agent, supporting file operations, Chrome automation, and allowlisted apps with audit logging and approval workflows.",
+  "source_repo": "univcorp2-ctrl/secure-local-ai-agent",
+  "source_url": "https://github.com/univcorp2-ctrl/secure-local-ai-agent",
+  "install": "# git clone --depth 1 https://github.com/univcorp2-ctrl/secure-local-ai-agent\n# See source for mcpServers config block"
+}

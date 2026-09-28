@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-philippines-payments-mcp",
+  "description": "Enables AI agents to accept payments in the Philippines via GCash, Maya, GrabPay, cards, and online banking through the PayMongo gateway.",
+  "source_repo": "junter1989k-ai/philippines-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/philippines-payments-mcp",
+  "install": "npx -y philippines-payments-mcp"
+}

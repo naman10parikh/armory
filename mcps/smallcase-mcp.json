@@ -1,0 +1,7 @@
+{
+  "name": "smallcase-mcp",
+  "description": "Read-only MCP server for querying public smallcase data (catalog, returns, risk metrics, stocks, mutual funds) via natural language. No API key required.",
+  "source_repo": "Pragadeesh122/smallcase-mcp",
+  "source_url": "https://github.com/Pragadeesh122/smallcase-mcp",
+  "install": "npx -y smallcase-mcp"
+}

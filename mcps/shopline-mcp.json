@@ -1,0 +1,7 @@
+{
+  "name": "shopline-mcp",
+  "description": "MCP server for the Shopline Open API. Exposes 140+ tools for querying and managing orders, products, customers, promotions, analytics, and store settings from your Shopline store via Claude.",
+  "source_repo": "tzangms/shoplinemcp",
+  "source_url": "https://github.com/tzangms/shoplinemcp",
+  "install": "# git clone --depth 1 https://github.com/tzangms/shoplinemcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sozio-business",
+  "description": "Sozio Business is a standalone local MCP server for combining private company data with 22,635 profiled Swiss open-data resources.",
+  "source_repo": "FabianBartschDatenanalyse/sozio-business",
+  "source_url": "https://github.com/FabianBartschDatenanalyse/sozio-business",
+  "install": "# git clone --depth 1 https://github.com/FabianBartschDatenanalyse/sozio-business\n# See source for mcpServers config block"
+}

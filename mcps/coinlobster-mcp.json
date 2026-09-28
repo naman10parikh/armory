@@ -1,0 +1,7 @@
+{
+  "name": "coinlobster-mcp",
+  "description": "Provides real-time crypto whale trade data and market analysis to AI agents, including unusual flow radar, liquidations, funding rates, and market snapshots across 15 exchanges and on-chain DEXs.",
+  "source_repo": "CoinLobster/coinlobster-mcp",
+  "source_url": "https://github.com/CoinLobster/coinlobster-mcp",
+  "install": "npx -y coinlobster-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hunt-droid-mobile-mcp",
+  "description": "An MCP server that enables AI agents to drive real Android apps, capture API traffic, and test mobile-native attack surfaces, similar to Playwright for mobile.",
+  "source_repo": "banditPradyun/hunt-droid-mobile-mcp",
+  "source_url": "https://github.com/banditPradyun/hunt-droid-mobile-mcp",
+  "install": "npx -y hunt-droid-mobile-mcp"
+}

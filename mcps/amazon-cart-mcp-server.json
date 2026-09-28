@@ -1,0 +1,7 @@
+{
+  "name": "amazon-cart-mcp-server",
+  "description": "Enables AI assistants to interact with your personal Amazon cart through browser automation, allowing search, add to cart, and view cart functionalities.",
+  "source_repo": "meimakes/amazon-mcp-server",
+  "source_url": "https://github.com/meimakes/amazon-mcp-server",
+  "install": "npx -y amazon-mcp-server"
+}

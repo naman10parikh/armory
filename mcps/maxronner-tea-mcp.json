@@ -1,0 +1,7 @@
+{
+  "name": "maxronner-tea-mcp",
+  "description": "Enables AI assistants to manage Gitea repositories, issues, and pull requests via the tea CLI, including full PR review workflows.",
+  "source_repo": "maxronner/tea-mcp",
+  "source_url": "https://github.com/maxronner/tea-mcp",
+  "install": "npx -y tea-mcp"
+}

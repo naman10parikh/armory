@@ -1,0 +1,7 @@
+{
+  "name": "tool-name-normalization-mcp-server",
+  "description": "A throwaway HTTP MCP server that empirically tests whether Cursor invokes tools by exact name or munges them, to inform case normalization decisions.",
+  "source_repo": "rwjblue-glean/tool-name-normalization-mcp-server",
+  "source_url": "https://github.com/rwjblue-glean/tool-name-normalization-mcp-server",
+  "install": "npx -y tool-name-normalization-mcp-server"
+}

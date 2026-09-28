@@ -1,0 +1,7 @@
+{
+  "name": "indoads-prompt-mcp",
+  "description": "A retrieval-first prompt engine for commercial advertising that curates, ranks, and composes visual ad prompts for image generation models like GPT Image, Midjourney, and Flux without generating images itself.",
+  "source_repo": "edivianika/indoads-prompt-mcp",
+  "source_url": "https://github.com/edivianika/indoads-prompt-mcp",
+  "install": "npx -y indoads-prompt-mcp"
+}

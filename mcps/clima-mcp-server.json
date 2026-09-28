@@ -1,0 +1,7 @@
+{
+  "name": "clima-mcp-server",
+  "description": "Enables weather queries through OpenWeatherMap API, providing current conditions, intelligent city search, and configuration validation.",
+  "source_repo": "OscarC88/MCP-clases",
+  "source_url": "https://github.com/OscarC88/MCP-clases",
+  "install": "# git clone --depth 1 https://github.com/OscarC88/MCP-clases\n# See source for mcpServers config block"
+}

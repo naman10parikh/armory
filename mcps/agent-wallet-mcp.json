@@ -1,0 +1,7 @@
+{
+  "name": "agent-wallet-mcp",
+  "description": "Enables agents to maintain sandboxed spend ledgers, enforce monthly budgets, transfer funds between agents, and generate invoices, all without real financial accounts.",
+  "source_repo": "Rumblingb/agent-wallet-mcp",
+  "source_url": "https://github.com/Rumblingb/agent-wallet-mcp",
+  "install": "npx -y agent-wallet-mcp"
+}

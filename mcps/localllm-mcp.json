@@ -1,0 +1,7 @@
+{
+  "name": "localllm-mcp",
+  "description": "MCP server that enables AI to read, search, and edit local files securely without external data exposure, using local LLMs via Ollama and integrating with Open WebUI or Claude Desktop.",
+  "source_repo": "tsxk1san/localllm-MCP",
+  "source_url": "https://github.com/tsxk1san/localllm-MCP",
+  "install": "npx -y localllm-MCP"
+}

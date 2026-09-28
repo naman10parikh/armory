@@ -1,0 +1,7 @@
+{
+  "name": "daisyui-mcp-server",
+  "description": "MCP server for daisyUI React components that enables AI coding assistants to search documentation, look up props, and retrieve code examples.",
+  "source_repo": "matracey/daisyui-mcp-server",
+  "source_url": "https://github.com/matracey/daisyui-mcp-server",
+  "install": "npx -y daisyui-mcp-server"
+}

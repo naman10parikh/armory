@@ -1,0 +1,7 @@
+{
+  "name": "yoauto-mcp",
+  "description": "Official YoAuto MCP gateway for vehicle search and marketplace workflows in Moldova",
+  "source_repo": "atomix-spec/yoauto-mcp",
+  "source_url": "https://github.com/atomix-spec/yoauto-mcp",
+  "install": "npx -y yoauto-mcp"
+}

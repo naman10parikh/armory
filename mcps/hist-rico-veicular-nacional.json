@@ -1,0 +1,7 @@
+{
+  "name": "hist-rico-veicular-nacional",
+  "description": "MCP server for querying national vehicle history linked to a Brazilian CPF or CNPJ, using read-only paid credits via a hosted HTTP API.",
+  "source_repo": "mcp-dir/veiculo_historico-mcp",
+  "source_url": "https://github.com/mcp-dir/veiculo_historico-mcp",
+  "install": "npx -y veiculo_historico-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aiquaa-playwright-mcp-server",
+  "description": "Converts requirements into traceable, CI-ready Playwright BDD tests connected to business rules, with support for Gherkin generation, rule mapping, and automated test pipelines.",
+  "source_repo": "stevenayal/aiquaa-playwright-mcp-server",
+  "source_url": "https://github.com/stevenayal/aiquaa-playwright-mcp-server",
+  "install": "npx -y aiquaa-playwright-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "comfy-pilot-opencode-edition",
+  "description": "MCP server that lets OpenCode (or any MCP-compatible AI coding tool) directly control ComfyUI for AI image generation.",
+  "source_repo": "jaijia/comfy-pilot-opencode",
+  "source_url": "https://github.com/jaijia/comfy-pilot-opencode",
+  "install": "# git clone --depth 1 https://github.com/jaijia/comfy-pilot-opencode\n# See source for mcpServers config block"
+}

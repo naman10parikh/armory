@@ -1,0 +1,7 @@
+{
+  "name": "sorftime-mcp-server",
+  "description": "Remote MCP server for read-only Sorftime Enterprise API access, enabling product, category, and keyword data queries with per-user JWT authentication and audit logging.",
+  "source_repo": "ccchenhuohuo/sorftime-mcp",
+  "source_url": "https://github.com/ccchenhuohuo/sorftime-mcp",
+  "install": "npx -y sorftime-mcp"
+}

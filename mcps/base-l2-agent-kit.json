@@ -1,0 +1,7 @@
+{
+  "name": "base-l2-agent-kit",
+  "description": "MCP server for Base L2 DeFi — wallets, swaps, liquidity, price feeds, flash loans",
+  "source_repo": "manteclaw/base-l2-agent-kit-mcp",
+  "source_url": "https://github.com/manteclaw/base-l2-agent-kit-mcp",
+  "install": "npx -y base-l2-agent-kit-mcp"
+}

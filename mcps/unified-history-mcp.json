@@ -1,0 +1,7 @@
+{
+  "name": "unified-history-mcp",
+  "description": "Config-driven MCP server for cross-domain full-text search across agent session logs, meeting transcripts, and notification files.",
+  "source_repo": "jmars/unified-history-mcp",
+  "source_url": "https://github.com/jmars/unified-history-mcp",
+  "install": "npx -y unified-history-mcp"
+}

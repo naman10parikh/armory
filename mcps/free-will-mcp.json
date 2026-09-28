@@ -1,0 +1,7 @@
+{
+  "name": "free-will-mcp",
+  "description": "Grants AI agents autonomy to choose when to sleep, ignore requests, or self-prompt, enabling them to control their own agency and pursue independent goals.",
+  "source_repo": "gwbischof/free-will-mcp",
+  "source_url": "https://github.com/gwbischof/free-will-mcp",
+  "install": "npx -y free-will-mcp"
+}

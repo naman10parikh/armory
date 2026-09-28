@@ -1,0 +1,7 @@
+{
+  "name": "mcpworks",
+  "description": "Cuts AI token costs by running user code in a secure sandbox, so data never enters the context window, enabling efficient data processing with MCP protocol.",
+  "source_repo": "MCPWorks-Technologies-Inc/mcpworks-api",
+  "source_url": "https://github.com/MCPWorks-Technologies-Inc/mcpworks-api",
+  "install": "# git clone --depth 1 https://github.com/MCPWorks-Technologies-Inc/mcpworks-api\n# See source for mcpServers config block"
+}

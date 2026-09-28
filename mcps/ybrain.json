@@ -1,0 +1,7 @@
+{
+  "name": "ybrain",
+  "description": "Company knowledge MCP server for discovering prompts, owners, docs, and skills, with open read/suggest access and supervisor-controlled publishing via Git.",
+  "source_repo": "ynfra/ybrain",
+  "source_url": "https://github.com/ynfra/ybrain",
+  "install": "# git clone --depth 1 https://github.com/ynfra/ybrain\n# See source for mcpServers config block"
+}

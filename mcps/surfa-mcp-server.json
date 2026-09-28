@@ -1,0 +1,7 @@
+{
+  "name": "surfa-mcp-server",
+  "description": "Query your Surfa Analytics data using natural language through Claude Desktop, ChatGPT, or any MCP-compatible client. Turn your analytics into insights with AI.",
+  "source_repo": "gamladz/surfa-mcp",
+  "source_url": "https://github.com/gamladz/surfa-mcp",
+  "install": "npx -y surfa-mcp"
+}

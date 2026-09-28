@@ -1,0 +1,7 @@
+{
+  "name": "padlet-mcp-server",
+  "description": "Enables Claude to read posts, create new posts, and add comments on Padlet boards through natural language.",
+  "source_repo": "cho-0820/padlet-mcp-server",
+  "source_url": "https://github.com/cho-0820/padlet-mcp-server",
+  "install": "npx -y padlet-mcp-server"
+}

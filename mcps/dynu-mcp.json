@@ -1,0 +1,7 @@
+{
+  "name": "dynu-mcp",
+  "description": "Enables management of Dynu services (DNS, email, compute, domain, monitor, ping) via 117 MCP tools that wrap the full Dynu REST API v2, requiring an API key per request.",
+  "source_repo": "MSPbotsAI/dynu-mcp",
+  "source_url": "https://github.com/MSPbotsAI/dynu-mcp",
+  "install": "npx -y dynu-mcp"
+}

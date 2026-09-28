@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-sber-mcp",
+  "description": "MCP server for Sberbank business API enabling account management, balance checks, statements, payments, and counterparty operations.",
+  "source_repo": "theYahia/sber-mcp",
+  "source_url": "https://github.com/theYahia/sber-mcp",
+  "install": "npx -y sber-mcp"
+}

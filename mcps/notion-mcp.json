@@ -1,6 +1,6 @@
 {
   "name": "notion-mcp",
-  "description": "Notion MCP MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "phoenine/Notion-MCP",
   "source_url": "https://mcp.so/server/Notion-MCP/phoenine",
   "install": "npx -y Notion-MCP"

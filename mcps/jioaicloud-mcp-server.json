@@ -1,0 +1,7 @@
+{
+  "name": "jioaicloud-mcp-server",
+  "description": "Local MCP server for managing JioAICloud backups from Cursor, enabling browsing, duplicate detection, safe trashing, album management, and inventory exports using your own account.",
+  "source_repo": "Ashu-codeai/jioaicloud-mcp-server",
+  "source_url": "https://github.com/Ashu-codeai/jioaicloud-mcp-server",
+  "install": "npx -y jioaicloud-mcp-server"
+}

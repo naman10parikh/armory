@@ -1,0 +1,7 @@
+{
+  "name": "dm-mcp-server",
+  "description": "MCP server for Dameng database, providing tools to test connection, list tables, count tables, and execute SQL via environment variables.",
+  "source_repo": "TGich/dm_mcp_server",
+  "source_url": "https://github.com/TGich/dm_mcp_server",
+  "install": "npx -y dm_mcp_server"
+}

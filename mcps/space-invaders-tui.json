@@ -1,0 +1,7 @@
+{
+  "name": "space-invaders-tui",
+  "description": "MCP server that lets LLMs play a terminal Space Invaders game with the SUPERHOT rule: time only moves when the agent moves. Exposes tools to start a game, inspect the board state, and act by holding left/right/fire for N frames.",
+  "source_repo": "Avee4k/space-invaders-tui",
+  "source_url": "https://github.com/Avee4k/space-invaders-tui",
+  "install": "# git clone --depth 1 https://github.com/Avee4k/space-invaders-tui\n# See source for mcpServers config block"
+}

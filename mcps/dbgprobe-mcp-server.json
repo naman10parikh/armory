@@ -1,0 +1,7 @@
+{
+  "name": "dbgprobe-mcp-server",
+  "description": "Stateful MCP server for driving debug probes (J-Link) to flash, debug, and inspect embedded targets. Enables AI agents to perform flash, memory, breakpoint, and ELF/SVD-aware operations conversationally.",
+  "source_repo": "es617/dbgprobe-mcp-server",
+  "source_url": "https://github.com/es617/dbgprobe-mcp-server",
+  "install": "npx -y dbgprobe-mcp-server"
+}

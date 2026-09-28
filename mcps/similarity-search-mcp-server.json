@@ -1,0 +1,7 @@
+{
+  "name": "similarity-search-mcp-server",
+  "description": "Enables stateless similarity search over pre-computed vector corpora using NMI and cosine fusion with entropy-calibrated weighting. Provides tools for ranking, scoring, outlier detection, and alpha calibration for AI agents.",
+  "source_repo": "nexus-mcp-infra/similarity-search-api-sdk",
+  "source_url": "https://github.com/nexus-mcp-infra/similarity-search-api-sdk",
+  "install": "# git clone --depth 1 https://github.com/nexus-mcp-infra/similarity-search-api-sdk\n# See source for mcpServers config block"
+}

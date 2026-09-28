@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-outlook-mcp",
+  "description": "Enables AI assistants to manage Outlook mail, calendar, and contacts via Microsoft Graph API with secure device code authentication.",
+  "source_repo": "taddiemason/Microsoft-Outlook-MCP",
+  "source_url": "https://github.com/taddiemason/Microsoft-Outlook-MCP",
+  "install": "npx -y Microsoft-Outlook-MCP"
+}

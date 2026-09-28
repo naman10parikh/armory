@@ -1,0 +1,7 @@
+{
+  "name": "bearier-mcp",
+  "description": "Bearier MCP lets two desktop AI agents collaborate asynchronously through a shared local task queue — no API keys, no IDE, no cloud. Just one SQLite file bridging agents that otherwise can't talk to each other.",
+  "source_repo": "kumabear917/bearier-mcp",
+  "source_url": "https://github.com/kumabear917/bearier-mcp",
+  "install": "npx -y bearier-mcp"
+}

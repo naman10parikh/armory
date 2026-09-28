@@ -1,0 +1,7 @@
+{
+  "name": "food-mcp",
+  "description": "An MCP server for food-related queries powered by MiniMax AI, enabling natural language interaction via a chat API.",
+  "source_repo": "leochenliu/food-mcp",
+  "source_url": "https://github.com/leochenliu/food-mcp",
+  "install": "npx -y food-mcp"
+}

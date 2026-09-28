@@ -1,0 +1,7 @@
+{
+  "name": "402ai-mcp",
+  "description": "MCP server for 402ai.net, a Lightning-paid API proxy, providing AI model tools with automatic catalog synchronization and NWC auto-topup.",
+  "source_repo": "402ai-net/402-ai-mcp",
+  "source_url": "https://github.com/402ai-net/402-ai-mcp",
+  "install": "npx -y 402-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "notebook-editor",
+  "description": "A local MCP server for reading, writing, and executing Jupyter notebooks using jupyter_client for direct kernel communication.",
+  "source_repo": "linzk-bit/notebook-editor",
+  "source_url": "https://github.com/linzk-bit/notebook-editor",
+  "install": "# git clone --depth 1 https://github.com/linzk-bit/notebook-editor\n# See source for mcpServers config block"
+}

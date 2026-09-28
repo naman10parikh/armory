@@ -1,0 +1,7 @@
+{
+  "name": "version-pill-mcp",
+  "description": "AI-native project management server for coding agents, offering 60 tools for tasks, releases, epics, cycles, docs, and ideas with caching and agent memory.",
+  "source_repo": "versionpill/mcp",
+  "source_url": "https://github.com/versionpill/mcp",
+  "install": "# git clone --depth 1 https://github.com/versionpill/mcp\n# See source for mcpServers config block"
+}

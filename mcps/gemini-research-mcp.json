@@ -1,0 +1,7 @@
+{
+  "name": "gemini-research-mcp",
+  "description": "An MCP server that adds real-time web research to Claude Desktop using Gemini 2.5 Flash with native Google Search grounding.",
+  "source_repo": "Esanii/gemini-research-mcp",
+  "source_url": "https://github.com/Esanii/gemini-research-mcp",
+  "install": "npx -y gemini-research-mcp"
+}

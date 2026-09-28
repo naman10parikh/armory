@@ -1,0 +1,7 @@
+{
+  "name": "tuskr-mcp",
+  "description": "MCP server for Tuskr test management that allows browsing, searching, reading, creating, and updating test cases, suites, sections, and test runs from any MCP host like Cursor.",
+  "source_repo": "Zapkid/Tuskr-MCP",
+  "source_url": "https://github.com/Zapkid/Tuskr-MCP",
+  "install": "npx -y Tuskr-MCP"
+}

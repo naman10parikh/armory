@@ -1,0 +1,7 @@
+{
+  "name": "io-github-aiops-tools-ceph-aiops",
+  "description": "Governed AI-ops for Ceph, providing root-cause health analysis and guarded destructive operations via a built-in governance harness with risk tiers, audit, and undo recording.",
+  "source_repo": "AIops-tools/Ceph-AIops",
+  "source_url": "https://github.com/AIops-tools/Ceph-AIops",
+  "install": "# git clone --depth 1 https://github.com/AIops-tools/Ceph-AIops\n# See source for mcpServers config block"
+}

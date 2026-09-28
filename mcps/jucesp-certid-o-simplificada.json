@@ -1,0 +1,7 @@
+{
+  "name": "jucesp-certid-o-simplificada",
+  "description": "Emits simplified company certificates from JUCESP (Brazilian state registry) via CNPJ, NIRE, or name. Read-only, hosted MCP server with pay-per-use credit system.",
+  "source_repo": "mcp-dir/jucesp_certidao_simplificada-mcp",
+  "source_url": "https://github.com/mcp-dir/jucesp_certidao_simplificada-mcp",
+  "install": "npx -y jucesp_certidao_simplificada-mcp"
+}

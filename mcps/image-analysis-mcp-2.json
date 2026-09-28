@@ -1,0 +1,7 @@
+{
+  "name": "image-analysis-mcp-2",
+  "description": "MCP server for image analysis, providing OCR text extraction, image metadata, and EXIF/GPS data as structured JSON for downstream processing.",
+  "source_repo": "palimpsest-labs/image-analysis-mcp",
+  "source_url": "https://github.com/palimpsest-labs/image-analysis-mcp",
+  "install": "npx -y image-analysis-mcp"
+}

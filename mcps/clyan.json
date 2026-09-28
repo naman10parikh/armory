@@ -1,0 +1,7 @@
+{
+  "name": "clyan",
+  "description": "Enables AI agents to clean disk space by scanning and removing temporary files, caches, and duplicates through natural language commands via MCP protocol.",
+  "source_repo": "jonah791/clyan",
+  "source_url": "https://github.com/jonah791/clyan",
+  "install": "# git clone --depth 1 https://github.com/jonah791/clyan\n# See source for mcpServers config block"
+}

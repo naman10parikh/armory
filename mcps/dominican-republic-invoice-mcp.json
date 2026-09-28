@@ -1,0 +1,7 @@
+{
+  "name": "dominican-republic-invoice-mcp",
+  "description": "Lets AI agents authenticate and submit Dominican Republic electronic invoices (e-CF) to the DGII national gateway using certificate-based authentication.",
+  "source_repo": "junter1989k-ai/dominican-republic-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/dominican-republic-invoice-mcp",
+  "install": "npx -y dominican-republic-invoice-mcp"
+}

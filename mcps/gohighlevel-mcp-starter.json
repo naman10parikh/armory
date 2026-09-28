@@ -1,0 +1,7 @@
+{
+  "name": "gohighlevel-mcp-starter",
+  "description": "MCP server that lets you talk to your GoHighLevel sub-account in plain English, offering six tools to search contacts, list calendars, check free slots, and book appointments with dry-run safety and explicit error messages.",
+  "source_repo": "rockurbusinesscs-ship-it/gohighlevel-mcp-starter",
+  "source_url": "https://github.com/rockurbusinesscs-ship-it/gohighlevel-mcp-starter",
+  "install": "# git clone --depth 1 https://github.com/rockurbusinesscs-ship-it/gohighlevel-mcp-starter\n# See source for mcpServers config block"
+}

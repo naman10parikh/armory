@@ -1,0 +1,7 @@
+{
+  "name": "drugbank-mcp-server",
+  "description": "Model Context Protocol server providing access to the comprehensive DB pharmaceutical database with 17,430+ drugs, supporting search, drug details, interactions, and more.",
+  "source_repo": "openpharma-org/drugbank-mcp-server",
+  "source_url": "https://github.com/openpharma-org/drugbank-mcp-server",
+  "install": "npx -y drugbank-mcp-server"
+}

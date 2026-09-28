@@ -1,0 +1,7 @@
+{
+  "name": "pik-mcp",
+  "description": "Exposes the OLX.ba marketplace API as MCP tools, enabling LLM clients to authenticate, browse and manage listings, read categories/attributes/locations, and run sponsorship/discount actions.",
+  "source_repo": "dkasipovic/pik-mcp",
+  "source_url": "https://github.com/dkasipovic/pik-mcp",
+  "install": "npx -y pik-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "indexgraph-mcp-server",
+  "description": "Enables querying functions and their call relationships in frontend HTML inline scripts via indexgraph_node and indexgraph_explore tools.",
+  "source_repo": "JiaHuiRed/IndexGraph",
+  "source_url": "https://github.com/JiaHuiRed/IndexGraph",
+  "install": "# git clone --depth 1 https://github.com/JiaHuiRed/IndexGraph\n# See source for mcpServers config block"
+}

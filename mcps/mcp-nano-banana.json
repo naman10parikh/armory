@@ -1,0 +1,7 @@
+{
+  "name": "mcp-nano-banana",
+  "description": "Remote HTTP MCP server that generates LXP background images using Gemini 2.5 Flash Image, returning inline PNGs and public URLs with token-based authentication.",
+  "source_repo": "tifmp-hostinger/mcp_nanobanana",
+  "source_url": "https://github.com/tifmp-hostinger/mcp_nanobanana",
+  "install": "# git clone --depth 1 https://github.com/tifmp-hostinger/mcp_nanobanana\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cisco-cucm-mcp",
+  "description": "MCP server for Cisco CUCM operational debugging — 61 tools covering logs, device inventory, performance monitoring, packet capture, call analysis, service control, AXL discovery, certificates, backups, CTI status, and cluster topology.",
+  "source_repo": "calltelemetry/cisco-cucm-mcp",
+  "source_url": "https://github.com/calltelemetry/cisco-cucm-mcp",
+  "install": "npx -y cisco-cucm-mcp"
+}

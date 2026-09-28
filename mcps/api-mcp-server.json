@@ -1,0 +1,7 @@
+{
+  "name": "api-mcp-server",
+  "description": "Fetches and parses Swagger/OpenAPI documentation from URLs, cleans and optimizes it to reduce token consumption, and provides standardized API descriptions to intelligent IDEs for suggestions, auto-completion, and code generation.",
+  "source_repo": "bluechenchenchen/api-mcp-server",
+  "source_url": "https://github.com/bluechenchenchen/api-mcp-server",
+  "install": "npx -y api-mcp-server"
+}

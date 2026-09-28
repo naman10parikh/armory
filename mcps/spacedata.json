@@ -1,0 +1,7 @@
+{
+  "name": "spacedata",
+  "description": "Aggregated public space data — satellite orbits, catalogs and launches — as a single AI-friendly CLI.",
+  "source_repo": "oscarjpicazo/spacedata",
+  "source_url": "https://github.com/oscarjpicazo/spacedata",
+  "install": "# git clone --depth 1 https://github.com/oscarjpicazo/spacedata\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "submcp",
+  "description": "MCP server that delegates bounded subtasks to NVIDIA NIM sub-agents, enabling context offload and parallel fan-out for coding assistants like Claude Code and Cursor.",
+  "source_repo": "Animuni-Express/SubMCP",
+  "source_url": "https://github.com/Animuni-Express/SubMCP",
+  "install": "# git clone --depth 1 https://github.com/Animuni-Express/SubMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chainladder",
+  "description": "Enables to perform actuarial chain-ladder reserving calculations, including IBNR estimation, ultimate projections, Mack stochastic error estimates, and diagnostic tests, through natural language conversation with Claude.",
+  "source_repo": "datalattice/mcp-chainladder",
+  "source_url": "https://github.com/datalattice/mcp-chainladder",
+  "install": "# git clone --depth 1 https://github.com/datalattice/mcp-chainladder\n# See source for mcpServers config block"
+}

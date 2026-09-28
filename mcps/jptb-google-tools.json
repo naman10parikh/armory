@@ -1,0 +1,7 @@
+{
+  "name": "jptb-google-tools",
+  "description": "Enables AI agents to access and manage Google Analytics and Google Tag Manager using the user's own Google account via the JP Agent Tracking Bridge, supporting GTM read/write/publish and GA4 read-only operations with session-bound security.",
+  "source_repo": "joomlapro/jp-agent-tracking-bridge-mcp",
+  "source_url": "https://github.com/joomlapro/jp-agent-tracking-bridge-mcp",
+  "install": "npx -y jp-agent-tracking-bridge-mcp"
+}

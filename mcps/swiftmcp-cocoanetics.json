@@ -1,0 +1,7 @@
+{
+  "name": "swiftmcp-cocoanetics",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/swiftmcp-cocoanetics",
+  "install": "# git clone --depth 1 https://mcp.so/server/swiftmcp-cocoanetics\n# See source for mcpServers config block"
+}

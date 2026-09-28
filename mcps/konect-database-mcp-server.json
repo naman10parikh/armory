@@ -1,0 +1,7 @@
+{
+  "name": "konect-database-mcp-server",
+  "description": "Enables querying MongoDB collections from the Drivio application using Mongoose models, with support for filters, sorting, pagination, and population.",
+  "source_repo": "LogicSquare-1996/KONECT-MCP-SERVER",
+  "source_url": "https://github.com/LogicSquare-1996/KONECT-MCP-SERVER",
+  "install": "npx -y KONECT-MCP-SERVER"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "upnote-mcp",
+  "description": "Enables AI assistants to interact with Upnote via its x-callback-url API, allowing creation of notes, notebooks, tag management, and search. It also supports navigation to various Upnote sections and custom filters.",
+  "source_repo": "chadthornton/upnote-mcp",
+  "source_url": "https://github.com/chadthornton/upnote-mcp",
+  "install": "npx -y upnote-mcp"
+}

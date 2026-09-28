@@ -1,0 +1,7 @@
+{
+  "name": "myclaw-toolkit-mcp-server",
+  "description": "A comprehensive developer utility MCP server that provides 23 tools including web search, currency conversion, crypto prices, QR code generation, JSON formatting, and more.",
+  "source_repo": "Dusheh/myclaw-toolkit",
+  "source_url": "https://github.com/Dusheh/myclaw-toolkit",
+  "install": "# git clone --depth 1 https://github.com/Dusheh/myclaw-toolkit\n# See source for mcpServers config block"
+}

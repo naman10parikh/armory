@@ -1,0 +1,7 @@
+{
+  "name": "bun-mcp-starter",
+  "description": "A modern MCP server template built with Bun and TypeScript, supporting stdio and HTTP transports for easy integration with AI assistants like Claude.",
+  "source_repo": "krowten/create-bun-mcp",
+  "source_url": "https://github.com/krowten/create-bun-mcp",
+  "install": "npx -y create-bun-mcp"
+}

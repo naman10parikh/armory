@@ -1,0 +1,7 @@
+{
+  "name": "macos-sys-assist",
+  "description": "A secure, constraint-based macOS OS-level automation MCP server for AI assistants.",
+  "source_repo": "kbdiamondes/macos-sys-assist",
+  "source_url": "https://github.com/kbdiamondes/macos-sys-assist",
+  "install": "# git clone --depth 1 https://github.com/kbdiamondes/macos-sys-assist\n# See source for mcpServers config block"
+}

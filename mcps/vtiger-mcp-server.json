@@ -1,0 +1,7 @@
+{
+  "name": "vtiger-mcp-server",
+  "description": "Enables interaction with VTiger CRM through tools for module listing, CRUD operations, querying, and searching records.",
+  "source_repo": "elvmalrds/vtiger-mcp-server",
+  "source_url": "https://github.com/elvmalrds/vtiger-mcp-server",
+  "install": "npx -y vtiger-mcp-server"
+}

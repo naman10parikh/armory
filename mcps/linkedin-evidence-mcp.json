@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-evidence-mcp",
+  "description": "A local-first LinkedIn workspace that turns your own documents, CVs, repositories, and exports into a verifiable claim ledger and evidence-backed canonical profile, enabling evidence import, claim verification, profile patching, post drafting, content planning, analytics, and publication approvals t",
+  "source_repo": "victoryotzev/linkedin-mcp",
+  "source_url": "https://github.com/victoryotzev/linkedin-mcp",
+  "install": "npx -y linkedin-mcp"
+}

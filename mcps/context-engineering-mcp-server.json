@@ -1,0 +1,7 @@
+{
+  "name": "context-engineering-mcp-server",
+  "description": "Automates Cole Medin's context engineering methodology to generate high-quality Product Requirements Prompts (PRPs) by analyzing existing codebases, asking contextual questions, and synthesizing insights.",
+  "source_repo": "croakingtoad/context-engineering-mcp",
+  "source_url": "https://github.com/croakingtoad/context-engineering-mcp",
+  "install": "npx -y context-engineering-mcp"
+}

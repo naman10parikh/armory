@@ -1,0 +1,7 @@
+{
+  "name": "pi-agent-mcp",
+  "description": "Enables MCP hosts like Claude Code and Codex to spawn, manage, and interact with persistent, reusable Pi coding-agent sessions, supporting task dispatch, status checks, and session lifecycle control.",
+  "source_repo": "a809384377/path_pi",
+  "source_url": "https://github.com/a809384377/path_pi",
+  "install": "# git clone --depth 1 https://github.com/a809384377/path_pi\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mindcore-mcp",
+  "description": "Enables AI-powered chat and DeFi operations (swap, transfer) via MCP-compliant tools, integrating with LLMs for onchain actions.",
+  "source_repo": "hieudt-thehumaninc/mindcore-mcp",
+  "source_url": "https://github.com/hieudt-thehumaninc/mindcore-mcp",
+  "install": "npx -y mindcore-mcp"
+}

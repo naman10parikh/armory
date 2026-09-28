@@ -1,0 +1,7 @@
+{
+  "name": "docker-mcp",
+  "description": "Wraps the Docker Engine API as MCP tools for container and image management. Reduces token consumption by providing typed tools with default summaries and field selection.",
+  "source_repo": "mpgharris/docker-mcp",
+  "source_url": "https://github.com/mpgharris/docker-mcp",
+  "install": "npx -y docker-mcp"
+}

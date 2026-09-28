@@ -1,0 +1,7 @@
+{
+  "name": "steamgpt",
+  "description": "MCP server for Steam data, backed by steamgpt.net - a free Steam data API for AI agents. Steam profiles, SteamID conversion, VAC / game / community / trade bans, FACEIT stats, public friend graph, batch lookups and player comparison. No API key, no registration, no tracking.",
+  "source_repo": "SteamGPTnet/steamgpt-mcp",
+  "source_url": "https://github.com/SteamGPTnet/steamgpt-mcp",
+  "install": "npx -y steamgpt-mcp"
+}

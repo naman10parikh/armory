@@ -1,0 +1,7 @@
+{
+  "name": "catena-x402-mcp-demo",
+  "description": "An MCP server whose tool invocations are metered and charged over x402, plus a paying-proxy reference client that lets any standard MCP client use the paid tool without knowing x402 exists.",
+  "source_repo": "EfeDurmaz16/catena-x402-mcp-demo",
+  "source_url": "https://github.com/EfeDurmaz16/catena-x402-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/EfeDurmaz16/catena-x402-mcp-demo\n# See source for mcpServers config block"
+}

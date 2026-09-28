@@ -1,0 +1,7 @@
+{
+  "name": "codex-canvas-mcp",
+  "description": "A portable local MCP server enabling Canvas reads and safely gated content authoring (pages, modules, assignments, discussions, quizzes) with multi-layer safety checks.",
+  "source_repo": "mrchris-ai/codex_canvas_mcp",
+  "source_url": "https://github.com/mrchris-ai/codex_canvas_mcp",
+  "install": "npx -y codex_canvas_mcp"
+}

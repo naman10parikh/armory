@@ -1,0 +1,7 @@
+{
+  "name": "youtube-playlists-mcp",
+  "description": "A simple MCP server to manage YouTube playlists built in TypeScript.",
+  "source_repo": "jeromeberg/youtube-playlists-mcp",
+  "source_url": "https://github.com/jeromeberg/youtube-playlists-mcp",
+  "install": "npx -y youtube-playlists-mcp"
+}

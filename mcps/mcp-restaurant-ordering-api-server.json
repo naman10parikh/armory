@@ -1,0 +1,7 @@
+{
+  "name": "mcp-restaurant-ordering-api-server",
+  "description": "Enables simulating customer orders from a dummy restaurant menu and tracking their status in real-time via RESTful APIs.",
+  "source_repo": "sachnaror/mcp-restaurant-server",
+  "source_url": "https://github.com/sachnaror/mcp-restaurant-server",
+  "install": "# git clone --depth 1 https://github.com/sachnaror/mcp-restaurant-server\n# See source for mcpServers config block"
+}

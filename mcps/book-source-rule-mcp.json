@@ -1,0 +1,7 @@
+{
+  "name": "book-source-rule-mcp",
+  "description": "An MCP-based rule parsing engine for creating book sources, supporting CSS selectors, JSONPath, regex, and text matching to extract and validate content from HTML, JSON, or text data.",
+  "source_repo": "lingy-Mg/book-mcp",
+  "source_url": "https://github.com/lingy-Mg/book-mcp",
+  "install": "npx -y book-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-wormhole",
+  "description": "Open-source MCP servers that connect AI agents to tools like Asana and Vercel via natural language.",
+  "source_repo": "Ayush7614/mcp-wormhole",
+  "source_url": "https://github.com/Ayush7614/mcp-wormhole",
+  "install": "# git clone --depth 1 https://github.com/Ayush7614/mcp-wormhole\n# See source for mcpServers config block"
+}

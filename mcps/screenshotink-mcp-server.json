@@ -1,0 +1,7 @@
+{
+  "name": "screenshotink-mcp-server",
+  "description": "Enables AI agents to capture, batch, compare, and audit web pages using ScreenshotInk's hosted Chromium fleet, with tools for screenshotting, pixel-diff comparison, Lighthouse audits, and sitemap capture.",
+  "source_repo": "bikker/screenshotink-mcp",
+  "source_url": "https://github.com/bikker/screenshotink-mcp",
+  "install": "npx -y screenshotink-mcp"
+}

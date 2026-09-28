@@ -1,0 +1,7 @@
+{
+  "name": "aitraffic",
+  "description": "Analyzes how search engines and AI systems discover, crawl, cite, and convert traffic via CLI and MCP tools.",
+  "source_repo": "devanshug2307/aitraffic",
+  "source_url": "https://github.com/devanshug2307/aitraffic",
+  "install": "# git clone --depth 1 https://github.com/devanshug2307/aitraffic\n# See source for mcpServers config block"
+}

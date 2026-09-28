@@ -1,0 +1,7 @@
+{
+  "name": "depth-pro-mcp-server",
+  "description": "Enables AI assistants to perform monocular depth estimation on images using Apple's Depth Pro model, with tools for single or batch processing and GPU management.",
+  "source_repo": "neosun100/depth-pro-docker",
+  "source_url": "https://github.com/neosun100/depth-pro-docker",
+  "install": "# git clone --depth 1 https://github.com/neosun100/depth-pro-docker\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-pb-emiss-o-dar",
+  "description": "Enables consulting SEFAZ PB DAR (tax payment) emission data from official sources, with a single read-only tool, supporting various MCP clients via HTTP.",
+  "source_repo": "mcp-dir/sefaz_pb_emissao_dar-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_pb_emissao_dar-mcp",
+  "install": "npx -y sefaz_pb_emissao_dar-mcp"
+}

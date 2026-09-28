@@ -1,0 +1,7 @@
+{
+  "name": "codex-skills-mcp",
+  "description": "MCP server that enables AI programming tools to search, read, and use a remote library of 180+ professional development skills, with incremental caching and network acceleration for fast access.",
+  "source_repo": "Zhan-ZhangZ/codex-skills-mcp",
+  "source_url": "https://github.com/Zhan-ZhangZ/codex-skills-mcp",
+  "install": "npx -y codex-skills-mcp"
+}

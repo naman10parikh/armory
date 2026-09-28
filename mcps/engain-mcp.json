@@ -1,0 +1,7 @@
+{
+  "name": "engain-mcp",
+  "description": "Enables programmatic Reddit growth campaign management via the Engain API, including task scheduling, upvote/downvote orders, opportunity discovery, and account management.",
+  "source_repo": "AimenHallou/engain-mcp",
+  "source_url": "https://github.com/AimenHallou/engain-mcp",
+  "install": "npx -y engain-mcp"
+}

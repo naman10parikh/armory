@@ -1,0 +1,7 @@
+{
+  "name": "reasoning-engine-mcp",
+  "description": "MCP server for deep algorithmic and mathematical reasoning, wrapping any OpenAI-compatible LLM endpoint to return only the final distilled answer without reasoning traces. Supports per-call model and endpoint overrides, defaulting to vibethinker-3b via LM Studio.",
+  "source_repo": "codibre/reasoning-engine-mcp",
+  "source_url": "https://github.com/codibre/reasoning-engine-mcp",
+  "install": "npx -y reasoning-engine-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-context-api-mcp",
+  "description": "MCP server for deterministic context preflight, token counting, and credential redaction for coding agents, with a free local tier up to 12,000 characters and paid HTTP fallback for larger inputs.",
+  "source_repo": "dacode-dev/agent-context-api",
+  "source_url": "https://github.com/dacode-dev/agent-context-api",
+  "install": "# git clone --depth 1 https://github.com/dacode-dev/agent-context-api\n# See source for mcpServers config block"
+}

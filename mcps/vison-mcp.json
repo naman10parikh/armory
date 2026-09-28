@@ -1,0 +1,7 @@
+{
+  "name": "vison-mcp",
+  "description": "MCP server for vision AI — screenshots to code, OCR, error diagnosis, and image analysis via OpenAI-compatible APIs.",
+  "source_repo": "Lin-zhibo/Vison-MCP",
+  "source_url": "https://github.com/Lin-zhibo/Vison-MCP",
+  "install": "npx -y Vison-MCP"
+}

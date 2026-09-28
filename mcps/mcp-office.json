@@ -1,0 +1,7 @@
+{
+  "name": "mcp-office",
+  "description": "Combined MCP server for Euro-Office DocumentServer enabling Word and PDF editing, document conversion, force-save, session info, and headless prompt-based document editing.",
+  "source_repo": "gdmkonsult/mcp.office",
+  "source_url": "https://github.com/gdmkonsult/mcp.office",
+  "install": "# git clone --depth 1 https://github.com/gdmkonsult/mcp.office\n# See source for mcpServers config block"
+}

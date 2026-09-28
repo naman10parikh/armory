@@ -1,0 +1,7 @@
+{
+  "name": "aeso-mcp",
+  "description": "Provides agent-native, strongly typed access to Alberta's electricity market data via official AESO APIs, including current market snapshots, historical prices, load, generation, interchange, reserves, and deterministic analytics.",
+  "source_repo": "bchoi-qwe/aeso-mcp",
+  "source_url": "https://github.com/bchoi-qwe/aeso-mcp",
+  "install": "npx -y aeso-mcp"
+}

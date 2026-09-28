@@ -1,0 +1,7 @@
+{
+  "name": "domainnameregistration-com-mcp",
+  "description": "Enables fast, token-efficient bulk domain name search for AI agents, checking up to 1,000 domains per request to see availability statuses.",
+  "source_repo": "domainnameregistration/Domainnameregistration.com-MCP",
+  "source_url": "https://github.com/domainnameregistration/Domainnameregistration.com-MCP",
+  "install": "npx -y Domainnameregistration.com-MCP"
+}

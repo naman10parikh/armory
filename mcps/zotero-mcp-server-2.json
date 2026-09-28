@@ -1,0 +1,7 @@
+{
+  "name": "zotero-mcp-server-2",
+  "description": "An MCP server that integrates with Zotero to manage research references, enabling search, citation, and organization of your library.",
+  "source_repo": "Maxdepai1212/zotero-mcp-server",
+  "source_url": "https://github.com/Maxdepai1212/zotero-mcp-server",
+  "install": "npx -y zotero-mcp-server"
+}

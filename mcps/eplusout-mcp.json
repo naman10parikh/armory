@@ -1,0 +1,7 @@
+{
+  "name": "eplusout-mcp",
+  "description": "Provides comprehensive access to EnergyPlus building energy simulation results, enabling discovery, analysis, and extraction of data from epJSON, SQL, and HTML files through MCP tools with pandas integration.",
+  "source_repo": "msweeney-pnnl/eplusout-mcp",
+  "source_url": "https://github.com/msweeney-pnnl/eplusout-mcp",
+  "install": "npx -y eplusout-mcp"
+}

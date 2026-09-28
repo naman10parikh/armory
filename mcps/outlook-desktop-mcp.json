@@ -1,0 +1,7 @@
+{
+  "name": "outlook-desktop-mcp",
+  "description": "Turns your running Outlook Desktop into an MCP server, enabling email, calendar, tasks, and attachment management through your existing Outlook session without any cloud APIs.",
+  "source_repo": "jr2804/outlook-desktop-mcp",
+  "source_url": "https://github.com/jr2804/outlook-desktop-mcp",
+  "install": "npx -y outlook-desktop-mcp"
+}

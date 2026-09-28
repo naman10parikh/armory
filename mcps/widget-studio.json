@@ -1,0 +1,7 @@
+{
+  "name": "widget-studio",
+  "description": "MCP server that lets agents create, display, and export rich UI widgets (cards, dashboards, charts, forms) inline in conversations, with interactive iframe support in MCP Apps hosts and PNG image fallback for other clients.",
+  "source_repo": "ericlewis/widget-studio-mcp",
+  "source_url": "https://github.com/ericlewis/widget-studio-mcp",
+  "install": "npx -y widget-studio-mcp"
+}

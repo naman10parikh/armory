@@ -1,0 +1,7 @@
+{
+  "name": "claude-dj-mcp",
+  "description": "Enables Claude to act as an autonomous radio DJ, generating live-coded music with Strudel, making text-to-speech announcements, and responding to audience requests through a browser UI.",
+  "source_repo": "uetuluk/claude-dj-mcp",
+  "source_url": "https://github.com/uetuluk/claude-dj-mcp",
+  "install": "npx -y claude-dj-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cnia-improbidade-administrativa",
+  "description": "MCP server that checks administrative impropriety convictions and ineligibility (CNIA) for a person or company using CPF or CNPJ, via a hosted API with prepaid credits and read-only tools.",
+  "source_repo": "mcp-dir/cnia_improbidade-mcp",
+  "source_url": "https://github.com/mcp-dir/cnia_improbidade-mcp",
+  "install": "npx -y cnia_improbidade-mcp"
+}

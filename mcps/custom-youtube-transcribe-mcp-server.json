@@ -1,0 +1,7 @@
+{
+  "name": "custom-youtube-transcribe-mcp-server",
+  "description": "Fetches YouTube subtitles via yt-dlp, cleans them into plain text, and provides tools for transcript retrieval, file management, and session-based storage with paging.",
+  "source_repo": "rroos64/youtube_transcribe_mcp_server",
+  "source_url": "https://github.com/rroos64/youtube_transcribe_mcp_server",
+  "install": "npx -y youtube_transcribe_mcp_server"
+}

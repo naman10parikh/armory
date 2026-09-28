@@ -1,0 +1,7 @@
+{
+  "name": "youtube-mcp-server-4",
+  "description": "This MCP server fetches and extracts transcripts from YouTube videos, enabling AI language models to access and analyze video content.",
+  "source_repo": "PrajwalPrashanth/youtube-mcp-server",
+  "source_url": "https://github.com/PrajwalPrashanth/youtube-mcp-server",
+  "install": "npx -y youtube-mcp-server"
+}

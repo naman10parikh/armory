@@ -1,0 +1,7 @@
+{
+  "name": "cron-explainer",
+  "description": "Parses cron expressions, returns next fire times, and provides an English description.",
+  "source_repo": "IdoAzaCalls/cron-explainer",
+  "source_url": "https://github.com/IdoAzaCalls/cron-explainer",
+  "install": "# git clone --depth 1 https://github.com/IdoAzaCalls/cron-explainer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "oci-kafka-mcp-server",
+  "description": "An AI-native control interface for OCI Streaming with Apache Kafka that enables LLM agents to securely manage Kafka clusters through structured tool execution with safety guardrails.",
+  "source_repo": "BhaumikAbhishek/oci-kafka-mcp-server",
+  "source_url": "https://github.com/BhaumikAbhishek/oci-kafka-mcp-server",
+  "install": "npx -y oci-kafka-mcp-server"
+}

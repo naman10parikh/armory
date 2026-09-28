@@ -1,0 +1,7 @@
+{
+  "name": "ats-jobs-mcp",
+  "description": "Enables users to discover applicant tracking system job boards from company domains, list open roles, detect hiring changes over time, and generate hiring summaries across multiple ATS platforms.",
+  "source_repo": "VovikP/ats-jobs-mcp",
+  "source_url": "https://github.com/VovikP/ats-jobs-mcp",
+  "install": "npx -y ats-jobs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "grok-oauth-mcp",
+  "description": "Enables local MCP clients to interact with xAI Grok through OAuth PKCE, supporting chat, X search, image/video generation, TTS, and transcription.",
+  "source_repo": "BowTiedSwan/grok-oauth-mcp",
+  "source_url": "https://github.com/BowTiedSwan/grok-oauth-mcp",
+  "install": "npx -y grok-oauth-mcp"
+}

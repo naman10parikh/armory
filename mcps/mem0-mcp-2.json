@@ -1,0 +1,7 @@
+{
+  "name": "mem0-mcp-2",
+  "description": "A server that wraps a self-hosted mem0 REST API as MCP tools for Claude Desktop and Claude Code, enabling memory operations such as adding, searching, and managing memories via natural language.",
+  "source_repo": "andresmorales07/mem0-mcp",
+  "source_url": "https://github.com/andresmorales07/mem0-mcp",
+  "install": "npx -y mem0-mcp"
+}

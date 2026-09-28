@@ -1,0 +1,7 @@
+{
+  "name": "market-mcp",
+  "description": "An MCP server providing real-time market data, technical analysis, prediction market odds, and strategy backtesting for crypto, equities, and prediction markets.",
+  "source_repo": "kumaraprayoga68-sketch/market-mcp",
+  "source_url": "https://github.com/kumaraprayoga68-sketch/market-mcp",
+  "install": "npx -y market-mcp"
+}

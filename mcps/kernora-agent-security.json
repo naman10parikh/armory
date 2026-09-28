@@ -1,0 +1,7 @@
+{
+  "name": "kernora-agent-security",
+  "description": "Provides a zero-install security baseline for AI coding agents, with tools to retrieve curated security rules and check actions against them for self-correction.",
+  "source_repo": "kernora-ai/agent-sec",
+  "source_url": "https://github.com/kernora-ai/agent-sec",
+  "install": "# git clone --depth 1 https://github.com/kernora-ai/agent-sec\n# See source for mcpServers config block"
+}

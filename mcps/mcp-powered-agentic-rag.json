@@ -1,0 +1,7 @@
+{
+  "name": "mcp-powered-agentic-rag",
+  "description": "An agentic Retrieval-Augmented Generation (RAG) system that combines a small curated machine learning knowledge base with real-time web search capabilities, powered by the Model Context Protocol (MCP).",
+  "source_repo": "baazilakhlaque/mcp-powered-agentic-rag",
+  "source_url": "https://github.com/baazilakhlaque/mcp-powered-agentic-rag",
+  "install": "# git clone --depth 1 https://github.com/baazilakhlaque/mcp-powered-agentic-rag\n# See source for mcpServers config block"
+}

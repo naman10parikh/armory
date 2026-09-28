@@ -1,0 +1,7 @@
+{
+  "name": "uk-schools-mcp",
+  "description": "MCP server providing access to comprehensive UK school data from official government sources, including search, details, near-postcode, comparisons, Ofsted ratings, and DfE education datasets.",
+  "source_repo": "mkb-123/uk-schools-mcp",
+  "source_url": "https://github.com/mkb-123/uk-schools-mcp",
+  "install": "npx -y uk-schools-mcp"
+}

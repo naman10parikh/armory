@@ -1,0 +1,7 @@
+{
+  "name": "hybridlog",
+  "description": "MCP server that mirrors your Garmin data into a personal database and exposes tools for health summaries, training load, muscle readiness, and race analysis, with optional chat-driven insights via stdio or HTTP.",
+  "source_repo": "Imgrund/hybridlog",
+  "source_url": "https://github.com/Imgrund/hybridlog",
+  "install": "# git clone --depth 1 https://github.com/Imgrund/hybridlog\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qwen-image-mcp",
+  "description": "Enables text-to-image generation using Alibaba Cloud's Qwen-Image models, supporting both synchronous and asynchronous modes with configurable parameters.",
+  "source_repo": "yingcaihuang/qwen-image-mcp",
+  "source_url": "https://github.com/yingcaihuang/qwen-image-mcp",
+  "install": "npx -y qwen-image-mcp"
+}

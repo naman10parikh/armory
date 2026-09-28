@@ -1,0 +1,7 @@
+{
+  "name": "asian-expats-mcp-server",
+  "description": "Provides real-time safety ratings, internet speeds, budget tiers, top sights, and trip cost estimates for Asian travel destinations to LLM agents via MCP tools.",
+  "source_repo": "developeron29/asianexpats-mcp-server",
+  "source_url": "https://github.com/developeron29/asianexpats-mcp-server",
+  "install": "npx -y asianexpats-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-mcp-server-extended",
+  "description": "Enables natural language interactions with Salesforce data, metadata, and reports, including report creation, discovery, and schema inspection.",
+  "source_repo": "boejucci/mcp-server-salesforce",
+  "source_url": "https://github.com/boejucci/mcp-server-salesforce",
+  "install": "# git clone --depth 1 https://github.com/boejucci/mcp-server-salesforce\n# See source for mcpServers config block"
+}

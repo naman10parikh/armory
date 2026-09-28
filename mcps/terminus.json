@@ -1,0 +1,7 @@
+{
+  "name": "terminus",
+  "description": "A default-deny SQL firewall sidecar for AI agents that enforces per-agent policies on database queries, provides safe rewrites, and maintains a tamper-evident audit chain.",
+  "source_repo": "interceptai-tech/terminus",
+  "source_url": "https://github.com/interceptai-tech/terminus",
+  "install": "# git clone --depth 1 https://github.com/interceptai-tech/terminus\n# See source for mcpServers config block"
+}

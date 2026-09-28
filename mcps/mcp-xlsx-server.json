@@ -1,0 +1,7 @@
+{
+  "name": "mcp-xlsx-server",
+  "description": "MCP server for reading and writing Excel (xlsx) files using SheetJS, providing tools to list sheets, read data, create files, add sheets, and update cells.",
+  "source_repo": "lubo3395/mcp-xlsx-server",
+  "source_url": "https://github.com/lubo3395/mcp-xlsx-server",
+  "install": "# git clone --depth 1 https://github.com/lubo3395/mcp-xlsx-server\n# See source for mcpServers config block"
+}

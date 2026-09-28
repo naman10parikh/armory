@@ -1,0 +1,7 @@
+{
+  "name": "texasratedpros-rankings-mcp",
+  "description": "Provides read-only access to Texas business rankings across metros and categories, including tools to search, compare, and get detailed score breakdowns with methodology.",
+  "source_repo": "kossik/texasratedpros-mcp",
+  "source_url": "https://github.com/kossik/texasratedpros-mcp",
+  "install": "npx -y texasratedpros-mcp"
+}

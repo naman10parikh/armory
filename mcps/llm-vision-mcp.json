@@ -1,0 +1,7 @@
+{
+  "name": "llm-vision-mcp",
+  "description": "A TypeScript MCP server that gives text-only LLMs image understanding through StepFun vision models.",
+  "source_repo": "shaoyun/llm-vision-mcp",
+  "source_url": "https://github.com/shaoyun/llm-vision-mcp",
+  "install": "npx -y llm-vision-mcp"
+}

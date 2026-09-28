@@ -1,0 +1,7 @@
+{
+  "name": "hevy-mcp",
+  "description": "An MCP server that interfaces with the Hevy fitness tracking API, enabling AI assistants to manage workouts, routines, exercise templates, and more via natural language.",
+  "source_repo": "andreparmar/hevy-mcp-remote",
+  "source_url": "https://github.com/andreparmar/hevy-mcp-remote",
+  "install": "# git clone --depth 1 https://github.com/andreparmar/hevy-mcp-remote\n# See source for mcpServers config block"
+}

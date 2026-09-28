@@ -1,0 +1,7 @@
+{
+  "name": "materials-studio-mcp-moc",
+  "description": "MCP server for BIOVIA Materials Studio 2023 on Windows, providing controlled preparation of Forcite and CASTEP inputs, model building, and LAMMPS/VMD pre-processing with reproducible, auditable workflows and strict scientific boundaries.",
+  "source_repo": "christopher2lllp3t-cell/materials-studio-mcp-moc",
+  "source_url": "https://github.com/christopher2lllp3t-cell/materials-studio-mcp-moc",
+  "install": "# git clone --depth 1 https://github.com/christopher2lllp3t-cell/materials-studio-mcp-moc\n# See source for mcpServers config block"
+}

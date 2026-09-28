@@ -1,0 +1,7 @@
+{
+  "name": "mcp-repo",
+  "description": "Enables teams to build custom MCP servers with AI agents, supporting tool definition and Gemini API integration.",
+  "source_repo": "t11003/MCP_repo",
+  "source_url": "https://github.com/t11003/MCP_repo",
+  "install": "# git clone --depth 1 https://github.com/t11003/MCP_repo\n# See source for mcpServers config block"
+}

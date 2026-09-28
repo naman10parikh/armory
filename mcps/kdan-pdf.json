@@ -1,0 +1,7 @@
+{
+  "name": "kdan-pdf",
+  "description": "Upload, edit, compress, protect, redact, and compare PDFs with KDAN PDF in Claude and ChatGPT.",
+  "source_repo": "KDAN-PDF/KDAN-PDF-MCP",
+  "source_url": "https://github.com/KDAN-PDF/KDAN-PDF-MCP",
+  "install": "npx -y KDAN-PDF-MCP"
+}

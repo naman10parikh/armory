@@ -1,0 +1,7 @@
+{
+  "name": "archiet-xray",
+  "description": "Extracts deterministic architecture maps from codebases for AI agents, enabling queries about blast radius, routes, security findings, and production readiness without sending code anywhere.",
+  "source_repo": "Anioko/archiet-xray",
+  "source_url": "https://github.com/Anioko/archiet-xray",
+  "install": "# git clone --depth 1 https://github.com/Anioko/archiet-xray\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tapd-mcp-server",
+  "description": "Enables managing TAPD (Tencent Agile Product Development) bugs, requirements, PRD reviews, and test reports directly from IDE via natural language, with cross-project aggregation and built-in workflows.",
+  "source_repo": "sun-jingtao/tapd-mcp-server",
+  "source_url": "https://github.com/sun-jingtao/tapd-mcp-server",
+  "install": "npx -y tapd-mcp-server"
+}

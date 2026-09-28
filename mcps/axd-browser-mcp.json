@@ -1,0 +1,7 @@
+{
+  "name": "axd-browser-mcp",
+  "description": "A high-performance MCP server for browser automation via Chrome DevTools Protocol, enabling fast, low-cost, and anti-bot web interactions.",
+  "source_repo": "AXD-dev01/axd-browser-mcp",
+  "source_url": "https://github.com/AXD-dev01/axd-browser-mcp",
+  "install": "npx -y axd-browser-mcp"
+}

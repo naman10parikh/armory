@@ -1,0 +1,7 @@
+{
+  "name": "velesdb-memory",
+  "description": "Local-first agent-memory MCP server with a why() tool: recall a fact together with its connected subgraph (multi-hop), so linked memories surface even when they share no words with the query. remember/recall/relate/forget/why over one fused vector + graph + columnar engine a single offline Rust bina",
+  "source_repo": "cyberlife-coder/VelesDB",
+  "source_url": "https://github.com/cyberlife-coder/VelesDB",
+  "install": "# git clone --depth 1 https://github.com/cyberlife-coder/VelesDB\n# See source for mcpServers config block"
+}

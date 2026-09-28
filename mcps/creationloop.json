@@ -1,0 +1,7 @@
+{
+  "name": "creationloop",
+  "description": "Remote MCP server that exposes CreationLoop's canonical company information and allows submitting design-partner applications on behalf of a user.",
+  "source_repo": "marino129/creationloop-mcp",
+  "source_url": "https://github.com/marino129/creationloop-mcp",
+  "install": "npx -y creationloop-mcp"
+}

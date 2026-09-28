@@ -1,0 +1,7 @@
+{
+  "name": "xmemo",
+  "description": "XMemo is a secure, user-owned memory substrate and context engine for AI agents, CLIs, IDEs, and LLM workspaces. Exposed over Streamable HTTP MCP, it empowers agents with cross-session memory, task continuity, and personalized context. Key Features: * Personalized Context: Stores and recalls develop",
+  "source_repo": "yonro/memory-os-cli",
+  "source_url": "https://github.com/yonro/memory-os-cli",
+  "install": "# git clone --depth 1 https://github.com/yonro/memory-os-cli\n# See source for mcpServers config block"
+}

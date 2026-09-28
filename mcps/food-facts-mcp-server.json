@@ -1,0 +1,7 @@
+{
+  "name": "food-facts-mcp-server",
+  "description": "Provides AI assistants with real-time access to nutrition data from USDA FoodData Central and FatSecret, enabling accurate answers with citations for nutrition queries.",
+  "source_repo": "razvannicolae/Food-Facts-MCP",
+  "source_url": "https://github.com/razvannicolae/Food-Facts-MCP",
+  "install": "npx -y Food-Facts-MCP"
+}

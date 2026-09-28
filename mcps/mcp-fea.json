@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fea",
+  "description": "Enables real finite element analysis from natural language: accepts STEP geometry and plain-English questions, validates setups deterministically, meshes and solves with CalculiX on Modal, and returns engineering verdicts (stress, safety factor, deflection, modal frequencies) with rendered plots and",
+  "source_repo": "benchwire/mcp-fea",
+  "source_url": "https://github.com/benchwire/mcp-fea",
+  "install": "# git clone --depth 1 https://github.com/benchwire/mcp-fea\n# See source for mcpServers config block"
+}

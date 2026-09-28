@@ -1,0 +1,7 @@
+{
+  "name": "uma",
+  "description": "A local RAG context optimizer MCP server that filters retrieved context to the minimum an LLM needs to answer correctly, using a cross-encoder and optional calibration.",
+  "source_repo": "sainellutla/uma",
+  "source_url": "https://github.com/sainellutla/uma",
+  "install": "# git clone --depth 1 https://github.com/sainellutla/uma\n# See source for mcpServers config block"
+}

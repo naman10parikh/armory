@@ -1,0 +1,7 @@
+{
+  "name": "multicad-mcp",
+  "description": "Controls CAD applications (AutoCAD, ZWCAD, etc.) via AI assistants through the Model Context Protocol, enabling drawing, layer management, and automation through natural language or direct tool calls.",
+  "source_repo": "AnCode666/multiCAD-mcp",
+  "source_url": "https://github.com/AnCode666/multiCAD-mcp",
+  "install": "npx -y multiCAD-mcp"
+}

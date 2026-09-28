@@ -1,0 +1,7 @@
+{
+  "name": "brand-intelligence-mcp",
+  "description": "Provides domain and brand intelligence for AI agents, including company enrichment, tech stack detection, and brand research from free public sources with an on-demand cache.",
+  "source_repo": "FoundryNet/brand-intel-mcp",
+  "source_url": "https://github.com/FoundryNet/brand-intel-mcp",
+  "install": "npx -y brand-intel-mcp"
+}

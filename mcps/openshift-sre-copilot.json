@@ -1,0 +1,7 @@
+{
+  "name": "openshift-sre-copilot",
+  "description": "AI-powered MCP server for enterprise OpenShift/Kubernetes cluster management, providing diagnostic tools, RAG knowledge retrieval, and autonomous remediation recommendations.",
+  "source_repo": "agentic-devops/mcp-sre-tools",
+  "source_url": "https://github.com/agentic-devops/mcp-sre-tools",
+  "install": "# git clone --depth 1 https://github.com/agentic-devops/mcp-sre-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "weeek-mcp-smart",
+  "description": "WEEEK MCP server that allows creating, reading, updating, moving, and completing tasks using names instead of IDs for projects, columns, and assignees.",
+  "source_repo": "IlyaIvanchikov/weeek-mcp",
+  "source_url": "https://github.com/IlyaIvanchikov/weeek-mcp",
+  "install": "npx -y weeek-mcp"
+}

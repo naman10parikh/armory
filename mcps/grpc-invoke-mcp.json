@@ -1,0 +1,7 @@
+{
+  "name": "grpc-invoke-mcp",
+  "description": "An MCP server for calling gRPC methods from AI agents, enabling them to inspect gRPC APIs and invoke unary RPCs using server reflection or local .proto files.",
+  "source_repo": "grulex/grpc-invoke-mcp",
+  "source_url": "https://github.com/grulex/grpc-invoke-mcp",
+  "install": "npx -y grpc-invoke-mcp"
+}

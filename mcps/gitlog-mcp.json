@@ -1,0 +1,7 @@
+{
+  "name": "gitlog-mcp",
+  "description": "Give your AI coding agent superpowers over git history — auto-generate changelogs, analyze commits, attribute blame, and draft release notes via MCP. Zero runtime dependencies.",
+  "source_repo": "ManiaSacha/gitlog-mcp",
+  "source_url": "https://github.com/ManiaSacha/gitlog-mcp",
+  "install": "npx -y gitlog-mcp"
+}

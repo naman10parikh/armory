@@ -1,0 +1,7 @@
+{
+  "name": "taskguard-mcp",
+  "description": "Provides AI agents with a lightweight task-management and self-verification layer to define goals, track checkpoints, detect scope drift, and verify completion against explicit done criteria.",
+  "source_repo": "lhao17202-hue/taskguard-mcp",
+  "source_url": "https://github.com/lhao17202-hue/taskguard-mcp",
+  "install": "npx -y taskguard-mcp"
+}

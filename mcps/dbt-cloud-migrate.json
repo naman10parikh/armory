@@ -1,0 +1,7 @@
+{
+  "name": "dbt-cloud-migrate",
+  "description": "Audits dbt Core projects for migration blockers and generates actionable guidance for migrating to dbt Cloud, including auto-fixing deprecated syntax.",
+  "source_repo": "BrJan/dbt-cloud-migration-tool",
+  "source_url": "https://github.com/BrJan/dbt-cloud-migration-tool",
+  "install": "# git clone --depth 1 https://github.com/BrJan/dbt-cloud-migration-tool\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "indianrailwaysmcp",
+  "description": "Enables AI assistants to query real-time Indian Railways data including train schedules, live status, PNR status, seat availability, fares, and coach positions via the Model Context Protocol.",
+  "source_repo": "Shadhai/Railway_mcp",
+  "source_url": "https://github.com/Shadhai/Railway_mcp",
+  "install": "npx -y Railway_mcp"
+}

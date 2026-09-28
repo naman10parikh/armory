@@ -1,0 +1,7 @@
+{
+  "name": "outline-mcp",
+  "description": "Connects MCP clients to Outline workspaces, enabling agents to safely read, update, and manage documentation through structured tools.",
+  "source_repo": "sigee-min/outline-mcp",
+  "source_url": "https://github.com/sigee-min/outline-mcp",
+  "install": "npx -y outline-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "license-compliance-mcp",
+  "description": "Scans npm project dependencies for license compliance issues, detecting GPL contamination and generating detailed reports.",
+  "source_repo": "bighippoman/license-compliance-mcp",
+  "source_url": "https://github.com/bighippoman/license-compliance-mcp",
+  "install": "npx -y license-compliance-mcp"
+}

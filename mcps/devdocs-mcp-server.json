@@ -1,0 +1,7 @@
+{
+  "name": "devdocs-mcp-server",
+  "description": "Enables AI assistants like Claude to search and retrieve technical documentation from a local DevDocs instance for hundreds of programming languages and frameworks.",
+  "source_repo": "emaland/devdocs-mcp",
+  "source_url": "https://github.com/emaland/devdocs-mcp",
+  "install": "npx -y devdocs-mcp"
+}

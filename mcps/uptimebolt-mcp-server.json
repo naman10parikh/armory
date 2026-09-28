@@ -1,0 +1,7 @@
+{
+  "name": "uptimebolt-mcp-server",
+  "description": "AI-powered infrastructure monitoring and management for Claude and other MCP clients, enabling natural language queries for service health, incidents, predictions, root cause analysis, and deploy safety.",
+  "source_repo": "clm-cloud-solutions/uptimebolt-mcp-server",
+  "source_url": "https://github.com/clm-cloud-solutions/uptimebolt-mcp-server",
+  "install": "npx -y uptimebolt-mcp-server"
+}

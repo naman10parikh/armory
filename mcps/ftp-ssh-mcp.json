@@ -1,0 +1,7 @@
+{
+  "name": "ftp-ssh-mcp",
+  "description": "MCP server for managing a remote host via FTP/FTPS/SFTP/SSH, offering file transfer, optional shell execution, and MySQL query tools.",
+  "source_repo": "Chris221/ftp-ssh-mcp",
+  "source_url": "https://github.com/Chris221/ftp-ssh-mcp",
+  "install": "npx -y ftp-ssh-mcp"
+}

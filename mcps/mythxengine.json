@@ -1,0 +1,7 @@
+{
+  "name": "mythxengine",
+  "description": "Enables AI to act as Game Master for tabletop RPGs with deterministic dice, five-tier outcomes, FitD-style stress, combat tracking, clocks, investigations, NPC relationships, and world generation via 134 tools over MCP.",
+  "source_repo": "protoLabsAI/mythx-mcp",
+  "source_url": "https://github.com/protoLabsAI/mythx-mcp",
+  "install": "npx -y mythx-mcp"
+}

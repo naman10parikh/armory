@@ -1,0 +1,7 @@
+{
+  "name": "small-mcp",
+  "description": "A minimal FastMCP server in Python demonstrating all four MCP primitives with tools for arithmetic, word counting, time, and logging, resources for server info and code snippets, and prompts for summarization and code review.",
+  "source_repo": "Nishant-IIT/smallmp",
+  "source_url": "https://github.com/Nishant-IIT/smallmp",
+  "install": "# git clone --depth 1 https://github.com/Nishant-IIT/smallmp\n# See source for mcpServers config block"
+}

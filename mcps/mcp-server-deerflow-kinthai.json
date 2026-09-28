@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-deerflow-kinthai",
+  "description": "Exposes DeerFlow's multi-agent capabilities (deep research, data analysis, chart visualization, PPT/image generation, consulting) via the Model Context Protocol, enabling any MCP client to invoke these skills through a thin server wrapper.",
+  "source_repo": "kinthaiofficial/mcp-server-deerflow-kinthai",
+  "source_url": "https://github.com/kinthaiofficial/mcp-server-deerflow-kinthai",
+  "install": "# git clone --depth 1 https://github.com/kinthaiofficial/mcp-server-deerflow-kinthai\n# See source for mcpServers config block"
+}

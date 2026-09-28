@@ -1,0 +1,7 @@
+{
+  "name": "security-paper-search-mcp-server",
+  "description": "Enables searching and retrieving security conference papers from major venues (S&P, USENIX, CCS, NDSS, etc.) using natural language queries through the MCP protocol.",
+  "source_repo": "songyaeji/security-paper-mcp-server",
+  "source_url": "https://github.com/songyaeji/security-paper-mcp-server",
+  "install": "npx -y security-paper-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "opencode-image-mcp",
+  "description": "MCP server that gives non-image-capable models like DeepSeek the ability to generate images using backends such as Qwen-Image, Seedream, and CogView, saving them locally and returning file paths instead of base64 data.",
+  "source_repo": "Jsliu28/opencode-image-mcp",
+  "source_url": "https://github.com/Jsliu28/opencode-image-mcp",
+  "install": "npx -y opencode-image-mcp"
+}

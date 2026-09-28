@@ -1,0 +1,7 @@
+{
+  "name": "enhanced-power-bi-dax-mcp-server",
+  "description": "A comprehensive MCP server for Power BI DAX query execution, validation, optimization, and intelligent assistance with tools for schema analysis, template generation, and health monitoring.",
+  "source_repo": "vjsr007/pbi-dax-mcp-server",
+  "source_url": "https://github.com/vjsr007/pbi-dax-mcp-server",
+  "install": "npx -y pbi-dax-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xls-mcp-servers",
+  "description": "MCP server for reading and writing .xls (Excel 97-2003) files, enabling data manipulation, sheet listing, and metadata retrieval.",
+  "source_repo": "Lincyghb/xls-mcp-server",
+  "source_url": "https://github.com/Lincyghb/xls-mcp-server",
+  "install": "npx -y xls-mcp-server"
+}

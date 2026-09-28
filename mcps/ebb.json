@@ -1,0 +1,7 @@
+{
+  "name": "ebb",
+  "description": "Provides AI agents with a temporal knowledge graph where knowledge relevance decays over time, enabling memory recall, reinforcement, and auto-archiving through MCP tools.",
+  "source_repo": "jochemverheul/ebb-mcp",
+  "source_url": "https://github.com/jochemverheul/ebb-mcp",
+  "install": "npx -y ebb-mcp"
+}

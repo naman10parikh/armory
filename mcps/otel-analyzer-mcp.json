@@ -1,0 +1,7 @@
+{
+  "name": "otel-analyzer-mcp",
+  "description": "MCP server for analyzing OpenTelemetry traces with performance and error diagnosis, supporting loading from files, AWS X-Ray, and CloudWatch.",
+  "source_repo": "jsamuel1/otel-analyzer-mcp",
+  "source_url": "https://github.com/jsamuel1/otel-analyzer-mcp",
+  "install": "npx -y otel-analyzer-mcp"
+}

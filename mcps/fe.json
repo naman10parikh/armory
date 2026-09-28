@@ -1,0 +1,7 @@
+{
+  "name": "fe",
+  "description": "Multi-site analytics for AI agents — GA4, Google Search Console, Cloudflare edge, PageSpeed, and audit insights across all your websites as tools.",
+  "source_repo": "runFleets/cli",
+  "source_url": "https://github.com/runFleets/cli",
+  "install": "# git clone --depth 1 https://github.com/runFleets/cli\n# See source for mcpServers config block"
+}

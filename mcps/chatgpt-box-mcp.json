@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-box-mcp",
+  "description": "A private MCP server that lets ChatGPT create, manage, and operate Box by ASCII Linux environments through secure MCP tools.",
+  "source_repo": "wu6330077-sys/chatgpt-box-mcp",
+  "source_url": "https://github.com/wu6330077-sys/chatgpt-box-mcp",
+  "install": "npx -y chatgpt-box-mcp"
+}

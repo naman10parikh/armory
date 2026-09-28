@@ -1,0 +1,7 @@
+{
+  "name": "codex-hermes-worker",
+  "description": "A Windows-first, dual-mode MCP bridge that delegates bounded work to Hermes Agent and a local Qwen model via an OpenAI-compatible endpoint, providing restricted batch or trusted full execution modes.",
+  "source_repo": "RANJIANG23/codex-hermes-worker",
+  "source_url": "https://github.com/RANJIANG23/codex-hermes-worker",
+  "install": "# git clone --depth 1 https://github.com/RANJIANG23/codex-hermes-worker\n# See source for mcpServers config block"
+}

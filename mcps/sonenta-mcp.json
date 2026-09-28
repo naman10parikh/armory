@@ -1,0 +1,7 @@
+{
+  "name": "sonenta-mcp",
+  "description": "MCP server for Sonenta translation management, enabling key/translation management, agent observability sessions, and prompt library access via natural language.",
+  "source_repo": "sonenta/mcp",
+  "source_url": "https://github.com/sonenta/mcp",
+  "install": "# git clone --depth 1 https://github.com/sonenta/mcp\n# See source for mcpServers config block"
+}

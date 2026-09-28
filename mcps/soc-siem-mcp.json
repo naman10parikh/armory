@@ -1,0 +1,7 @@
+{
+  "name": "soc-siem-mcp",
+  "description": "Unified SIEM MCP gateway for AI-driven SOC operations and threat hunting across Azure Sentinel, Splunk, Wazuh, IBM QRadar, and Securonix.",
+  "source_repo": "JoaquinHernandez/soc-siem-mcp-",
+  "source_url": "https://github.com/JoaquinHernandez/soc-siem-mcp-",
+  "install": "# git clone --depth 1 https://github.com/JoaquinHernandez/soc-siem-mcp-\n# See source for mcpServers config block"
+}

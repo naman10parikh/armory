@@ -1,0 +1,7 @@
+{
+  "name": "quantakrypto-pqc-tools",
+  "description": "Post-quantum readiness for AI coding agents: scans code for quantum-vulnerable cryptography (RSA/ECDH/ECDSA/DH) and returns NIST ML-KEM/ML-DSA/SLH-DSA (and hybrid) migration guidance, with fix verification and dependency checks. Content-based, advisory tools only; runs local (npx @quantakrypto/mcp)",
+  "source_repo": "quantakrypto/pqc-tools",
+  "source_url": "https://github.com/quantakrypto/pqc-tools",
+  "install": "# git clone --depth 1 https://github.com/quantakrypto/pqc-tools\n# See source for mcpServers config block"
+}

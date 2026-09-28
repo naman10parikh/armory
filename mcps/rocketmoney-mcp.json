@@ -1,0 +1,7 @@
+{
+  "name": "rocketmoney-mcp",
+  "description": "Read-only MCP server for Rocket Money that lets you browse your accounts, transactions, spending, budgets, net worth, and subscriptions through natural language.",
+  "source_repo": "312-dev/rocketmoney-mcp",
+  "source_url": "https://github.com/312-dev/rocketmoney-mcp",
+  "install": "npx -y rocketmoney-mcp"
+}

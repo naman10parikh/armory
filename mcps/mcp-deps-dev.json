@@ -1,0 +1,7 @@
+{
+  "name": "mcp-deps-dev",
+  "description": "Provides access to Google's deps.dev API for package metadata and dependency graphs across ecosystems, enabling querying packages, versions, dependencies, and project info via natural language or direct tool calls.",
+  "source_repo": "pipeworx-io/mcp-deps-dev",
+  "source_url": "https://github.com/pipeworx-io/mcp-deps-dev",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-deps-dev\n# See source for mcpServers config block"
+}

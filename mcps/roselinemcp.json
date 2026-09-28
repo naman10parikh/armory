@@ -1,0 +1,7 @@
+{
+  "name": "roselinemcp",
+  "description": "Provides Roslyn-based code intelligence for AI coding agents via MCP, enabling efficient navigation and surgical edits of C# solutions.",
+  "source_repo": "Atypical-Consulting/RoselineMCP",
+  "source_url": "https://github.com/Atypical-Consulting/RoselineMCP",
+  "install": "# git clone --depth 1 https://github.com/Atypical-Consulting/RoselineMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yandex-station-mcp",
+  "description": "MCP server to control Yandex Station speakers with Alice: manage music, radio, volume, playback, TTS, timers, alarms, reminders, and smart home scenarios via text commands or predefined tools.",
+  "source_repo": "yasg1988/yandex-station-mcp",
+  "source_url": "https://github.com/yasg1988/yandex-station-mcp",
+  "install": "npx -y yandex-station-mcp"
+}

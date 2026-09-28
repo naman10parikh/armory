@@ -1,0 +1,7 @@
+{
+  "name": "outris-mcp",
+  "description": "Enables querying any API with natural language via Claude Desktop by connecting to the Outris API Orchestrator.",
+  "source_repo": "outris-dev-user/outris-mcp",
+  "source_url": "https://github.com/outris-dev-user/outris-mcp",
+  "install": "npx -y outris-mcp"
+}

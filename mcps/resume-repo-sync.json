@@ -1,0 +1,7 @@
+{
+  "name": "resume-repo-sync",
+  "description": "A local MCP server that generates bullet points for resume project experience from GitHub repository signals, merges them into a PDF resume, and exports a new PDF using templates.",
+  "source_repo": "Fusingsheep/resume-repo-sync",
+  "source_url": "https://github.com/Fusingsheep/resume-repo-sync",
+  "install": "# git clone --depth 1 https://github.com/Fusingsheep/resume-repo-sync\n# See source for mcpServers config block"
+}

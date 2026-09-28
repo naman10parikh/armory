@@ -1,0 +1,7 @@
+{
+  "name": "base-intel-mcp",
+  "description": "Read-only on-chain intelligence for AI agents on Base, providing tools to read balances, token metadata, gas, and transaction status live from chain without API keys.",
+  "source_repo": "datakoot/base-intel-mcp",
+  "source_url": "https://github.com/datakoot/base-intel-mcp",
+  "install": "npx -y base-intel-mcp"
+}

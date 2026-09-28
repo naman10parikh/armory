@@ -1,0 +1,7 @@
+{
+  "name": "affset-mcp-server",
+  "description": "Enables media buyers to manage affset campaigns, zones, stats, payouts, targeting, and team via natural language, pulling stats and cutting underperforming zones without the dashboard.",
+  "source_repo": "affset/mcp",
+  "source_url": "https://github.com/affset/mcp",
+  "install": "# git clone --depth 1 https://github.com/affset/mcp\n# See source for mcpServers config block"
+}

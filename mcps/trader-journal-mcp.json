@@ -1,0 +1,7 @@
+{
+  "name": "trader-journal-mcp",
+  "description": "Provides AI-powered trading analytics and coaching by analyzing historical trades to identify strategies, emotional patterns, and behavioral mistakes via MCP tools.",
+  "source_repo": "CepharsBonacci/trader-journal-mcp",
+  "source_url": "https://github.com/CepharsBonacci/trader-journal-mcp",
+  "install": "npx -y trader-journal-mcp"
+}

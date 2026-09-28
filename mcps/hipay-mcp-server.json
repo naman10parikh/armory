@@ -1,0 +1,7 @@
+{
+  "name": "hipay-mcp-server",
+  "description": "MCP server for integrating HiPay's Enterprise payment API, providing tools for transaction management, payment processing, and hosted payment pages.",
+  "source_repo": "hipay/hipay-mcp-server",
+  "source_url": "https://github.com/hipay/hipay-mcp-server",
+  "install": "npx -y hipay-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "askhumantowork-mcp-server",
+  "description": "Enables AI agents to capture, manage, and retrieve todos with due dates and provenance, while automatically escalating reminders until tasks are completed.",
+  "source_repo": "KuronokiCorp/AskHumanToWork",
+  "source_url": "https://github.com/KuronokiCorp/AskHumanToWork",
+  "install": "# git clone --depth 1 https://github.com/KuronokiCorp/AskHumanToWork\n# See source for mcpServers config block"
+}

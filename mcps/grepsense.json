@@ -1,0 +1,7 @@
+{
+  "name": "grepsense",
+  "description": "Provides two-modal code search (lexical via Zoekt and semantic via ChromaDB embeddings) for AI coding agents through MCP tools, enabling fast regex and meaning-based code lookup.",
+  "source_repo": "alaiba/grepsense",
+  "source_url": "https://github.com/alaiba/grepsense",
+  "install": "# git clone --depth 1 https://github.com/alaiba/grepsense\n# See source for mcpServers config block"
+}

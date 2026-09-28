@@ -1,0 +1,7 @@
+{
+  "name": "cold-email-outreach-mcp-server",
+  "description": "Enables AI agents to draft evidence-grounded cold-email openers, A/B variants, personalized LinkedIn DMs, and SEO content-gap plans for sales and marketing outreach.",
+  "source_repo": "emily397/ai-outreach-mcp",
+  "source_url": "https://github.com/emily397/ai-outreach-mcp",
+  "install": "npx -y ai-outreach-mcp"
+}

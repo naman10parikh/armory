@@ -1,0 +1,7 @@
+{
+  "name": "api-tester-mcp",
+  "description": "Enables QA/SDET engineers to test APIs by ingesting Swagger/OpenAPI specs and Postman collections, generating and executing tests in multiple languages and frameworks with real-time progress tracking.",
+  "source_repo": "kirti676/api_tester_mcp",
+  "source_url": "https://github.com/kirti676/api_tester_mcp",
+  "install": "npx -y api_tester_mcp"
+}

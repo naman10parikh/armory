@@ -1,0 +1,7 @@
+{
+  "name": "setlist-mcp",
+  "description": "Search concert setlists, artists, venues, tours, and cities from setlist.fm via natural language. Provides 16 read-only tools for exploring live music data.",
+  "source_repo": "chrischall/setlist-mcp",
+  "source_url": "https://github.com/chrischall/setlist-mcp",
+  "install": "npx -y setlist-mcp"
+}

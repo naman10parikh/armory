@@ -1,0 +1,7 @@
+{
+  "name": "rag-mcp-adapter",
+  "description": "Exposes an existing RAG API as MCP tools, enabling health checks and document-based question answering with source evidence.",
+  "source_repo": "ufigiabhi/rag-mcp-adapter",
+  "source_url": "https://github.com/ufigiabhi/rag-mcp-adapter",
+  "install": "# git clone --depth 1 https://github.com/ufigiabhi/rag-mcp-adapter\n# See source for mcpServers config block"
+}

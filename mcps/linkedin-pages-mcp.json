@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-pages-mcp",
+  "description": "MCP server for managing LinkedIn Company Pages via the official Community Management API. Post content, manage comments, track analytics, and more through the Model Context Protocol.",
+  "source_repo": "MCPWorks-Technologies-Inc/linkedin-pages-mcp",
+  "source_url": "https://github.com/MCPWorks-Technologies-Inc/linkedin-pages-mcp",
+  "install": "npx -y linkedin-pages-mcp"
+}

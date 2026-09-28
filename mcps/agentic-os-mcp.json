@@ -1,0 +1,7 @@
+{
+  "name": "agentic-os-mcp",
+  "description": "Read-only MCP server that exposes the agentic-os governance, SDLC, and Quality Engineering methodology to any MCP host. It never writes to your repository and never executes code — it serves the methodology, plans an install, and verifies it, handing any commands back to the host to run.",
+  "source_repo": "Jarroslav/agentic-os",
+  "source_url": "https://github.com/Jarroslav/agentic-os",
+  "install": "# git clone --depth 1 https://github.com/Jarroslav/agentic-os\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-proofjson",
+  "description": "A local MCP server that integrates ProofJSON to assess invoices before payment, providing allow/review/block decisions with confidence scores and verification capabilities.",
+  "source_repo": "heldertnn-glitch/mcp-proofjson",
+  "source_url": "https://github.com/heldertnn-glitch/mcp-proofjson",
+  "install": "# git clone --depth 1 https://github.com/heldertnn-glitch/mcp-proofjson\n# See source for mcpServers config block"
+}

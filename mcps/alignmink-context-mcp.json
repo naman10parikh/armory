@@ -1,0 +1,7 @@
+{
+  "name": "alignmink-context-mcp",
+  "description": "MCP server that stores and queries shared company context, strategic spines, documents, and decision traces with citations and versioning.",
+  "source_repo": "rajconnects/alignmink-context-cursor",
+  "source_url": "https://github.com/rajconnects/alignmink-context-cursor",
+  "install": "# git clone --depth 1 https://github.com/rajconnects/alignmink-context-cursor\n# See source for mcpServers config block"
+}

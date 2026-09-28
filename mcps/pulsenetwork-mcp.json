@@ -1,0 +1,7 @@
+{
+  "name": "pulsenetwork-mcp",
+  "description": "One MCP install that lets your AI agents discover and pay (x402 micropayments, USDC on Base + Solana) for 66 specialized real-time intelligence APIs - finance, crypto, insurance, immigration, legal, markets and more. 68 tools, pey-per-query, no subscription.",
+  "source_repo": "GTCC777/pulsenetwork-mcp",
+  "source_url": "https://github.com/GTCC777/pulsenetwork-mcp",
+  "install": "npx -y pulsenetwork-mcp"
+}

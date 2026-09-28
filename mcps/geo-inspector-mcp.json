@@ -1,0 +1,7 @@
+{
+  "name": "geo-inspector-mcp",
+  "description": "Enables inspection of any website's AI-search readiness, checking AI crawler blocks, llms.txt, schema markup, and indexing directives from MCP clients like Claude.",
+  "source_repo": "Bigsupe55/geo-inspector-mcp",
+  "source_url": "https://github.com/Bigsupe55/geo-inspector-mcp",
+  "install": "npx -y geo-inspector-mcp"
+}

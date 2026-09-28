@@ -1,0 +1,7 @@
+{
+  "name": "pubcrawl",
+  "description": "PubCrawl provides LLMs with access to PubMed, FDA/UK drug labeling, and ClinicalTrials.gov. It enables searching literature, retrieving abstracts and full texts, comparing US and UK drug labels, and exploring clinical trials.",
+  "source_repo": "nickjlamb/pubcrawl",
+  "source_url": "https://github.com/nickjlamb/pubcrawl",
+  "install": "# git clone --depth 1 https://github.com/nickjlamb/pubcrawl\n# See source for mcpServers config block"
+}

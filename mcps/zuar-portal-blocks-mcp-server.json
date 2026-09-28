@@ -1,0 +1,7 @@
+{
+  "name": "zuar-portal-blocks-mcp-server",
+  "description": "Enables Claude to build and manage Zuar Portal HTML blocks through the Portal REST API, including discovering datasources, previewing data, and performing CRUD operations on blocks.",
+  "source_repo": "patrickdeanfox/zuar-portal-mcp",
+  "source_url": "https://github.com/patrickdeanfox/zuar-portal-mcp",
+  "install": "npx -y zuar-portal-mcp"
+}

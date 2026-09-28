@@ -1,0 +1,7 @@
+{
+  "name": "revolut-business-mcp",
+  "description": "Read-only Model Context Protocol (MCP) server exposing Revolut Business transaction data to MCP clients over stdio.",
+  "source_repo": "fridaypatrick/revolut-business-mcp",
+  "source_url": "https://github.com/fridaypatrick/revolut-business-mcp",
+  "install": "npx -y revolut-business-mcp"
+}

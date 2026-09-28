@@ -1,0 +1,7 @@
+{
+  "name": "specq-mcp-server",
+  "description": "Enables AI agents to generate structured intelligence reports for electronic chemical sales, including competitor analysis, visit logging, and insight extraction.",
+  "source_repo": "daizehua-wq/Specq-mcp",
+  "source_url": "https://github.com/daizehua-wq/Specq-mcp",
+  "install": "npx -y Specq-mcp"
+}

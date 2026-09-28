@@ -1,0 +1,7 @@
+{
+  "name": "memory-journal-mcp-server",
+  "description": "Bridges disconnected AI sessions with persistent project memory and automatic session handoff, integrating GitHub workflows for context-aware development.",
+  "source_repo": "neverinfamous/memory-journal-mcp",
+  "source_url": "https://github.com/neverinfamous/memory-journal-mcp",
+  "install": "npx -y memory-journal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "offlinecreator-studio-mcp",
+  "description": "MCP server for OfflineCreator Studio that enables image and video generation, including model listing, credit management, generation tasks, and output downloads.",
+  "source_repo": "OfflineCreatorStudio/offlinecreator-mcp",
+  "source_url": "https://github.com/OfflineCreatorStudio/offlinecreator-mcp",
+  "install": "npx -y offlinecreator-mcp"
+}

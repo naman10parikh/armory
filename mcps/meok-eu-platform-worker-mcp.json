@@ -1,0 +1,7 @@
+{
+  "name": "meok-eu-platform-worker-mcp",
+  "description": "Enables compliance checking and risk forecasting for the EU Platform Workers Directive (2024/2831), including employment-status presumption, algorithmic management disclosure, and human oversight.",
+  "source_repo": "CSOAI-ORG/meok-eu-platform-worker-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-eu-platform-worker-mcp",
+  "install": "npx -y meok-eu-platform-worker-mcp"
+}

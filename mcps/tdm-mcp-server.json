@@ -1,0 +1,7 @@
+{
+  "name": "tdm-mcp-server",
+  "description": "Enables AI agents to perform local session-state checks for TDM, helping decide whether to continue, fuel, sweep, or connect the wallet.",
+  "source_repo": "ToDealMarket/mcp-server",
+  "source_url": "https://github.com/ToDealMarket/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/ToDealMarket/mcp-server\n# See source for mcpServers config block"
+}

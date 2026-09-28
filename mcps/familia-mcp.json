@@ -1,0 +1,7 @@
+{
+  "name": "familia-mcp",
+  "description": "Provides tools for managing Kenyan family legal matters including inheritance, wills, trusts, diaspora property, and caretaker records via MCP.",
+  "source_repo": "gabrielmahia/familia-mcp",
+  "source_url": "https://github.com/gabrielmahia/familia-mcp",
+  "install": "npx -y familia-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "packzoo",
+  "description": "Compare parcel and letter delivery prices across 60+ carriers in 27 European countries.",
+  "source_repo": "IAfanasov/packzoo-mcp",
+  "source_url": "https://github.com/IAfanasov/packzoo-mcp",
+  "install": "npx -y packzoo-mcp"
+}

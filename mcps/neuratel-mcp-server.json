@@ -1,0 +1,7 @@
+{
+  "name": "neuratel-mcp-server",
+  "description": "Control your voice AI platform through natural language from any MCP-compatible assistant.",
+  "source_repo": "Neuratel-AI/neuratel-mcp",
+  "source_url": "https://github.com/Neuratel-AI/neuratel-mcp",
+  "install": "npx -y neuratel-mcp"
+}

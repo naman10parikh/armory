@@ -1,0 +1,7 @@
+{
+  "name": "arl-dms-mcp-server",
+  "description": "Exposes the AKIJ Resources Document Management System to MCP clients, enabling search, listing, and retrieval of documents across risk databases, Google Drive, and legal sources via stdio JSON-RPC 2.0. Provides read-only access to 14,500+ indexed files and folders with tools for risk lookups and Ban",
+  "source_repo": "sakibntanmoy006/arl-dms-mcp",
+  "source_url": "https://github.com/sakibntanmoy006/arl-dms-mcp",
+  "install": "npx -y arl-dms-mcp"
+}

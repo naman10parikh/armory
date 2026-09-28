@@ -1,0 +1,7 @@
+{
+  "name": "sonic-pi-mcp",
+  "description": "Enables control of a local Sonic Pi runtime to run code, stop jobs, read events, and search docs/samples/synthdefs via OSC messages.",
+  "source_repo": "WEEZZ-admin/sonic-pi-mcp",
+  "source_url": "https://github.com/WEEZZ-admin/sonic-pi-mcp",
+  "install": "npx -y sonic-pi-mcp"
+}

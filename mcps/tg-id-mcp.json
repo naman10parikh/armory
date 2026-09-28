@@ -1,0 +1,7 @@
+{
+  "name": "tg-id-mcp",
+  "description": "MCP server for Telegram user/chat lookup with datacenter detection and account age estimation.",
+  "source_repo": "barkoszloy/tg-id-mcp",
+  "source_url": "https://github.com/barkoszloy/tg-id-mcp",
+  "install": "npx -y tg-id-mcp"
+}

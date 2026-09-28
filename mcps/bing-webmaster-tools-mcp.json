@@ -1,0 +1,7 @@
+{
+  "name": "bing-webmaster-tools-mcp",
+  "description": "Enables to interact with the Bing Webmaster Tools API for managing sites, URLs, sitemaps, and viewing analytics.",
+  "source_repo": "idowebid/bing-webmaster-mcp",
+  "source_url": "https://github.com/idowebid/bing-webmaster-mcp",
+  "install": "npx -y bing-webmaster-mcp"
+}

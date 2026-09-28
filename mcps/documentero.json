@@ -1,0 +1,7 @@
+{
+  "name": "documentero",
+  "description": "Enables AI agents to list Documentero templates, inspect their field schemas, and generate Word/PDF/Excel documents via the Documentero API.",
+  "source_repo": "documentero/documentero-mcp",
+  "source_url": "https://github.com/documentero/documentero-mcp",
+  "install": "npx -y documentero-mcp"
+}

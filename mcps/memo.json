@@ -1,0 +1,7 @@
+{
+  "name": "memo",
+  "description": "MCP server for local, offline-capable library documentation. It resolves library IDs and retrieves up-to-date docs via hybrid search from a persistent SQLite cache.",
+  "source_repo": "ngabzar02/memo-server",
+  "source_url": "https://github.com/ngabzar02/memo-server",
+  "install": "# git clone --depth 1 https://github.com/ngabzar02/memo-server\n# See source for mcpServers config block"
+}

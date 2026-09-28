@@ -1,0 +1,7 @@
+{
+  "name": "apexvol-mcp-server",
+  "description": "Provides natural language access to ApexVol's options analytics platform, enabling queries on options chains, volatility metrics, Greeks, flow analysis, and strategy building via Claude Code or Claude Desktop.",
+  "source_repo": "ryansilk/apexvol-mcp",
+  "source_url": "https://github.com/ryansilk/apexvol-mcp",
+  "install": "npx -y apexvol-mcp"
+}

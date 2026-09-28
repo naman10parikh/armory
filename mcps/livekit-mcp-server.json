@@ -1,0 +1,7 @@
+{
+  "name": "livekit-mcp-server",
+  "description": "MCP server bridging AI agents with the MantraCare LiveKit voice and telephony engine, enabling secure control and inspection of voice pipelines via OAuth 2.1 authenticated tools.",
+  "source_repo": "FardeenSK004/livekit-mcp",
+  "source_url": "https://github.com/FardeenSK004/livekit-mcp",
+  "install": "npx -y livekit-mcp"
+}

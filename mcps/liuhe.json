@@ -1,0 +1,7 @@
+{
+  "name": "liuhe",
+  "description": "LLM-native code tools: 44 MCP tools for AI agents to read, understand and modify code. Rust tree-sitter parse daemon (crash-isolated), SQLite symbol index (repo map 98ms), transactional journal-backed writes, deterministic quality gates (zero LLM calls). 512MB cgroup: 128 concurrent, zero OOM. MIT.",
+  "source_repo": "wulun811/LiuHe",
+  "source_url": "https://github.com/wulun811/LiuHe",
+  "install": "# git clone --depth 1 https://github.com/wulun811/LiuHe\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cartena-mcp-server",
+  "description": "Enables AI clients like Claude to interact with Cartena tools via MCP, supporting remote OAuth or local stdio authentication.",
+  "source_repo": "cartena-tecnologia/cartena-mcp",
+  "source_url": "https://github.com/cartena-tecnologia/cartena-mcp",
+  "install": "npx -y cartena-mcp"
+}

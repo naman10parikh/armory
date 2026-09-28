@@ -1,0 +1,7 @@
+{
+  "name": "vicsee-mcp-server",
+  "description": "Enables AI agents to generate, edit, and upscale videos and images using VicSee's API, with support for multiple models and asynchronous task polling.",
+  "source_repo": "vicseeai/vicsee-mcp-server",
+  "source_url": "https://github.com/vicseeai/vicsee-mcp-server",
+  "install": "npx -y vicsee-mcp-server"
+}

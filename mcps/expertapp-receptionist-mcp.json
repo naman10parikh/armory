@@ -1,0 +1,7 @@
+{
+  "name": "expertapp-receptionist-mcp",
+  "description": "An MCP server that enables AI agents to act as a business receptionist on expert.com.jm, managing appointments and services without exposing API keys to the model.",
+  "source_repo": "incrhst/expertapp-receptionist-mcp",
+  "source_url": "https://github.com/incrhst/expertapp-receptionist-mcp",
+  "install": "npx -y expertapp-receptionist-mcp"
+}

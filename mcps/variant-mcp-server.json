@@ -1,0 +1,7 @@
+{
+  "name": "variant-mcp-server",
+  "description": "Shared MCP HTTP server infrastructure for plugin projects, providing Express + Streamable HTTP transport, OAuth/OIDC auth, runtime configuration, tool registration, and widget support.",
+  "source_repo": "varianter/mcp-server",
+  "source_url": "https://github.com/varianter/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/varianter/mcp-server\n# See source for mcpServers config block"
+}

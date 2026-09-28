@@ -1,0 +1,7 @@
+{
+  "name": "memoryguard",
+  "description": "A local-first MCP memory layer for coding agents that automatically organizes shared memory writes and provides a governance console for inspection, correction, and rollback.",
+  "source_repo": "irisxc4/memoryguard",
+  "source_url": "https://github.com/irisxc4/memoryguard",
+  "install": "# git clone --depth 1 https://github.com/irisxc4/memoryguard\n# See source for mcpServers config block"
+}

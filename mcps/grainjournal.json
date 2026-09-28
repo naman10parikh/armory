@@ -1,0 +1,7 @@
+{
+  "name": "grainjournal",
+  "description": "An MCP-native journaling server that prompts one question per day and captures your responses verbatim, with no AI rewriting or analysis. It integrates with Claude Desktop, Cline, or cron scripts, storing everything as markdown in your vault.",
+  "source_repo": "stuartmhannon/grainjournal-mcp-server",
+  "source_url": "https://github.com/stuartmhannon/grainjournal-mcp-server",
+  "install": "npx -y grainjournal-mcp-server"
+}

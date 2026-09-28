@@ -1,0 +1,7 @@
+{
+  "name": "material-3-mcp-server",
+  "description": "Provides AI agents with tools to access Material 3 design components, design tokens, icons, and accessibility guidelines across multiple frameworks.",
+  "source_repo": "weppa-cloud/material3-mcp-server",
+  "source_url": "https://github.com/weppa-cloud/material3-mcp-server",
+  "install": "npx -y material3-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "icf-mcp-server",
+  "description": "Enables lookup, search, browsing, and explanation of WHO's International Classification of Functioning, Disability and Health (ICF) codes and qualifiers via the WHO ICD-API.",
+  "source_repo": "stayce/icf-mcp-server",
+  "source_url": "https://github.com/stayce/icf-mcp-server",
+  "install": "npx -y icf-mcp-server"
+}

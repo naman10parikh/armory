@@ -1,0 +1,7 @@
+{
+  "name": "business-data-mcp",
+  "description": "An evidence-first Model Context Protocol server for private business documents and structured datasets, preserving original files and source lineage.",
+  "source_repo": "Al-Rowads/mcp",
+  "source_url": "https://github.com/Al-Rowads/mcp",
+  "install": "# git clone --depth 1 https://github.com/Al-Rowads/mcp\n# See source for mcpServers config block"
+}

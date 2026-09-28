@@ -1,0 +1,7 @@
+{
+  "name": "fallbase-mcp",
+  "description": "Exposes a sovereign SQL database to MCP clients, enabling querying, table creation, insertion, and CSV import/export.",
+  "source_repo": "sjgant80-hub/fallbase-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallbase-mcp",
+  "install": "npx -y fallbase-mcp"
+}

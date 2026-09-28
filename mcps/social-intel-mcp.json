@@ -1,0 +1,7 @@
+{
+  "name": "social-intel-mcp",
+  "description": "Provides AI agents with real-time social trends, cross-platform sentiment, viral content velocity, and brand mentions from Reddit, Hacker News, and Google Trends.",
+  "source_repo": "FoundryNet/social-intel-mcp",
+  "source_url": "https://github.com/FoundryNet/social-intel-mcp",
+  "install": "npx -y social-intel-mcp"
+}

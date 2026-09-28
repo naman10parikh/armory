@@ -1,0 +1,7 @@
+{
+  "name": "platform-mcp",
+  "description": "A read-only MCP server that enables AI agents to act as GCP platform engineers, allowing them to investigate incidents, take inventory, and find cost-optimization opportunities in Google Cloud projects without mutating any infrastructure.",
+  "source_repo": "deBilla/platform-mcp",
+  "source_url": "https://github.com/deBilla/platform-mcp",
+  "install": "npx -y platform-mcp"
+}

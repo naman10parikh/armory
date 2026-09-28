@@ -1,0 +1,7 @@
+{
+  "name": "prometheus-mcp",
+  "description": "Prometheus-MCP is an AI Creative Director MCP server that enhances creative output from models like Claude and GPT to expert-level quality through iterative improvement loops.",
+  "source_repo": "gguatit/Prometheus-MCP",
+  "source_url": "https://github.com/gguatit/Prometheus-MCP",
+  "install": "npx -y Prometheus-MCP"
+}

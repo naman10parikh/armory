@@ -1,0 +1,7 @@
+{
+  "name": "salesbox-mcp-server",
+  "description": "Wraps the SalesBox public API to manage cashbacks, categories, chats, SEO, custom fields, discounts, and filters via MCP tools.",
+  "source_repo": "andriistakhov/salesbox-mcp",
+  "source_url": "https://github.com/andriistakhov/salesbox-mcp",
+  "install": "npx -y salesbox-mcp"
+}

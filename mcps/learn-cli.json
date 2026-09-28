@@ -1,0 +1,7 @@
+{
+  "name": "learn-cli",
+  "description": "An MCP server and CLI for step-by-step learning, enabling humans and agents to learn subjects like language tutoring through a structured prompt system.",
+  "source_repo": "agentculture/learn-cli",
+  "source_url": "https://github.com/agentculture/learn-cli",
+  "install": "# git clone --depth 1 https://github.com/agentculture/learn-cli\n# See source for mcpServers config block"
+}

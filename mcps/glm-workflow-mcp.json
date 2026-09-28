@@ -1,0 +1,7 @@
+{
+  "name": "glm-workflow-mcp",
+  "description": "Delegates autonomous coding tasks to Z.ai's GLM models with a genuine agent loop, file operations, and verification via git and real process results.",
+  "source_repo": "JawadAhbab/glm-workflow-mcp",
+  "source_url": "https://github.com/JawadAhbab/glm-workflow-mcp",
+  "install": "npx -y glm-workflow-mcp"
+}

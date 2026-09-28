@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-pb-mataraca-certid-o-negativa-de-d-bitos",
+  "description": "Enables consulting negative debt certificates from Prefeitura PB Mataraca through a single read-only tool.",
+  "source_repo": "mcp-dir/pref_pb_mataraca_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_pb_mataraca_cnd-mcp",
+  "install": "npx -y pref_pb_mataraca_cnd-mcp"
+}

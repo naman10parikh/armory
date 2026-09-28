@@ -1,0 +1,7 @@
+{
+  "name": "design-review",
+  "description": "This MCP server renders UI design artifacts headlessly, runs deterministic linters, and manages stateful design review loops with an independent vision critic.",
+  "source_repo": "davekim917/design-artifact-loop",
+  "source_url": "https://github.com/davekim917/design-artifact-loop",
+  "install": "# git clone --depth 1 https://github.com/davekim917/design-artifact-loop\n# See source for mcpServers config block"
+}

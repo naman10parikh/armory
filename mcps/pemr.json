@@ -1,0 +1,7 @@
+{
+  "name": "pemr",
+  "description": "A local-first, family-scale medical record framework that provides a Python CLI engine and MCP server for ingesting, deduplicating, querying, and generating medical records from source documents.",
+  "source_repo": "meridun/pemr",
+  "source_url": "https://github.com/meridun/pemr",
+  "install": "# git clone --depth 1 https://github.com/meridun/pemr\n# See source for mcpServers config block"
+}

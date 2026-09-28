@@ -1,0 +1,7 @@
+{
+  "name": "peer-cash-mcp",
+  "description": "Prepare custody-separated Base USDC cash-out plans, list supported fiat rails, and track settlement state through Peer Cash.",
+  "source_repo": "zkp2p/peer-cash-mcp",
+  "source_url": "https://github.com/zkp2p/peer-cash-mcp",
+  "install": "npx -y peer-cash-mcp"
+}

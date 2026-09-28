@@ -1,0 +1,7 @@
+{
+  "name": "weft-mcp",
+  "description": "Official MCP server for Weft, an agent-first Scrumban task manager. Gives AI agents 24 tools to manage tasks, sprints, and projects on your board, with OAuth 2.1 authentication and a hosted remote endpoint.",
+  "source_repo": "AndreiFinogeev/weft-mcp",
+  "source_url": "https://github.com/AndreiFinogeev/weft-mcp",
+  "install": "npx -y weft-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codedelta",
+  "description": "Deterministic code-churn measurement and AI-agent detection from the CodeDelta engine: measure churn between two directories or git refs, scan for code that runs AI agents, and get AI-authorship pointers. Runs fully locally.",
+  "source_repo": "code-delta-app/mcp",
+  "source_url": "https://github.com/code-delta-app/mcp",
+  "install": "# git clone --depth 1 https://github.com/code-delta-app/mcp\n# See source for mcpServers config block"
+}

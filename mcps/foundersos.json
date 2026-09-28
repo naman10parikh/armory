@@ -1,0 +1,7 @@
+{
+  "name": "foundersos",
+  "description": "Give your AI the full context of how your business runs: CRM, finances, tasks, and memory in one self-hosted MCP server.\" Short + long descriptions lead with cross-domain reasoning (\"which customers are behind on payment and what did we last promise them\" reads the ledger and CRM in one answer) and",
+  "source_repo": "OurThinkTank/founders-os",
+  "source_url": "https://github.com/OurThinkTank/founders-os",
+  "install": "# git clone --depth 1 https://github.com/OurThinkTank/founders-os\n# See source for mcpServers config block"
+}

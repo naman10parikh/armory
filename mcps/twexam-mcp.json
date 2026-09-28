@@ -1,0 +1,7 @@
+{
+  "name": "twexam-mcp",
+  "description": "A server for querying, practicing, and analyzing exam questions from Taiwan's national examinations, offering 20 tools including search, statute lookup, weak topic review, and readiness assessment.",
+  "source_repo": "pass-and-prosper/twlawexam-mcp",
+  "source_url": "https://github.com/pass-and-prosper/twlawexam-mcp",
+  "install": "npx -y twlawexam-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "investors-mcp-server",
+  "description": "Enables semantic search and ingestion of investor content using Upstash Vector and Vercel Blob storage, with optional filtering by author, company, and date.",
+  "source_repo": "prismteam-ai/investors-mcp",
+  "source_url": "https://github.com/prismteam-ai/investors-mcp",
+  "install": "npx -y investors-mcp"
+}

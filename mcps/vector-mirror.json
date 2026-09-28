@@ -1,0 +1,7 @@
+{
+  "name": "vector-mirror",
+  "description": "A deterministic SVG perception tool for LLM agents that renders SVGs in a real browser to measure geometry, colors, and spatial constraints, reporting results in grid grammar and W3C color names without guessing.",
+  "source_repo": "c64dos-png/vector-mirror",
+  "source_url": "https://github.com/c64dos-png/vector-mirror",
+  "install": "# git clone --depth 1 https://github.com/c64dos-png/vector-mirror\n# See source for mcpServers config block"
+}

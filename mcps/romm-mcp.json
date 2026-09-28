@@ -1,0 +1,7 @@
+{
+  "name": "romm-mcp",
+  "description": "A community-maintained MCP server for bounded management of RomM through its authenticated API, providing typed read/write tools for library tasks like ROM discovery, metadata updates, and collection management.",
+  "source_repo": "X1pheR/romm-mcp",
+  "source_url": "https://github.com/X1pheR/romm-mcp",
+  "install": "npx -y romm-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "invgate-service-desk",
+  "description": "MCP server for InvGate Service Desk — manage incidents, users, knowledge base, assets and time tracking from any AI assistant.",
+  "source_repo": "tracegazer/invgate-service-desk-mcp",
+  "source_url": "https://github.com/tracegazer/invgate-service-desk-mcp",
+  "install": "npx -y invgate-service-desk-mcp"
+}

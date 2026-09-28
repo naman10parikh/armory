@@ -1,0 +1,7 @@
+{
+  "name": "kommomcp",
+  "description": "AI-powered CRM assistant for Kommo/amoCRM that provides natural language management via Telegram bot and MCP protocol, enabling analytics, entity operations, and CRM setup.",
+  "source_repo": "ampulex-23/KommoMCP",
+  "source_url": "https://github.com/ampulex-23/KommoMCP",
+  "install": "# git clone --depth 1 https://github.com/ampulex-23/KommoMCP\n# See source for mcpServers config block"
+}

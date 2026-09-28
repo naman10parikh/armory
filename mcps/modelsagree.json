@@ -1,0 +1,7 @@
+{
+  "name": "modelsagree",
+  "description": "What ChatGPT, Claude, Gemini & Grok agree is the best product, tool, or service for any \"best X for Y\" need — continuously re-polled rankings with a dated verdict and a public poll audit trail. Excludes medical, financial, and legal advice.",
+  "source_repo": "Arephan/modelsagree-mcp",
+  "source_url": "https://github.com/Arephan/modelsagree-mcp",
+  "install": "npx -y modelsagree-mcp"
+}

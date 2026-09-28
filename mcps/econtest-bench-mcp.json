@@ -1,0 +1,7 @@
+{
+  "name": "econtest-bench-mcp",
+  "description": "MCP server for controlling SIGLENT oscilloscopes and signal generators via USBTMC, enabling waveform generation, scope configuration, measurement, and evidence reporting for electronics competitions.",
+  "source_repo": "DavidBlackCN/econtest-bench-mcp",
+  "source_url": "https://github.com/DavidBlackCN/econtest-bench-mcp",
+  "install": "npx -y econtest-bench-mcp"
+}

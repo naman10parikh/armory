@@ -1,0 +1,7 @@
+{
+  "name": "browsertrace-mcp",
+  "description": "A Chrome extension MCP server for browser automation, providing screenshots, mouse/keyboard input, network request tracing, and continuous recording via WebSocket bridge and direct extension calls.",
+  "source_repo": "sunwu51/browsertrace-mcp",
+  "source_url": "https://github.com/sunwu51/browsertrace-mcp",
+  "install": "npx -y browsertrace-mcp"
+}

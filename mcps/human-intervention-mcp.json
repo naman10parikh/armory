@@ -1,0 +1,7 @@
+{
+  "name": "human-intervention-mcp",
+  "description": "Enables AI agents to request human actions or decisions by opening a local browser page for input, allowing the agent to pause and wait for human response.",
+  "source_repo": "mhmdibrahimm/human-intervention-mcp",
+  "source_url": "https://github.com/mhmdibrahimm/human-intervention-mcp",
+  "install": "npx -y human-intervention-mcp"
+}

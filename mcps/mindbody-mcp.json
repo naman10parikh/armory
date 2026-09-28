@@ -1,0 +1,7 @@
+{
+  "name": "mindbody-mcp",
+  "description": "MCP server for Mindbody, enabling AI agents to fetch client info, query class schedules, book classes/appointments (env-gated), and process checkout (payment-gated).",
+  "source_repo": "NoBanks/mindbody-mcp",
+  "source_url": "https://github.com/NoBanks/mindbody-mcp",
+  "install": "npx -y mindbody-mcp"
+}

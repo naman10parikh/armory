@@ -1,0 +1,7 @@
+{
+  "name": "hooksense-mcp",
+  "description": "Enables AI agents to create callback endpoints, wait for async webhook results, and verify signatures, eliminating the need for polling.",
+  "source_repo": "ozers/hooksense-mcp",
+  "source_url": "https://github.com/ozers/hooksense-mcp",
+  "install": "npx -y hooksense-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "all-flights-mcp",
+  "description": "Searches multiple flight inventory sources concurrently and returns a normalized, deduplicated result set.",
+  "source_repo": "shayben/all-flights-mcp",
+  "source_url": "https://github.com/shayben/all-flights-mcp",
+  "install": "npx -y all-flights-mcp"
+}

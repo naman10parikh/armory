@@ -1,0 +1,7 @@
+{
+  "name": "superclean-mcp",
+  "description": "MCP server that wraps Daniel M Karlsson's SuperClean SC pattern engine, enabling control of Pdefs, tempo, and hushing via Claude Code through an OSC bridge.",
+  "source_repo": "Ziforge/superclean-mcp",
+  "source_url": "https://github.com/Ziforge/superclean-mcp",
+  "install": "npx -y superclean-mcp"
+}

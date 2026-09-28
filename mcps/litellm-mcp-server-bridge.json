@@ -1,0 +1,7 @@
+{
+  "name": "litellm-mcp-server-bridge",
+  "description": "Connects Antigravity to a LiteLLM instance, enabling chat completions, model listing, health checks, and more via the Model Context Protocol.",
+  "source_repo": "AbhishekMore-1/litellm-proxy-mcp",
+  "source_url": "https://github.com/AbhishekMore-1/litellm-proxy-mcp",
+  "install": "npx -y litellm-proxy-mcp"
+}

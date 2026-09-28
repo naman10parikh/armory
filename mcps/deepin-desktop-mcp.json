@@ -1,0 +1,7 @@
+{
+  "name": "deepin-desktop-mcp",
+  "description": "MCP server for controlling Deepin desktop system settings and applications, including WiFi, Bluetooth, brightness, theme, volume, app launching, file operations, and shutdown.",
+  "source_repo": "xxxos/deepin-desktop-mcp",
+  "source_url": "https://github.com/xxxos/deepin-desktop-mcp",
+  "install": "npx -y deepin-desktop-mcp"
+}

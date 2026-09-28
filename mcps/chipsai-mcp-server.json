@@ -1,0 +1,7 @@
+{
+  "name": "chipsai-mcp-server",
+  "description": "Enables managing ChipsBot chatbots, conversations, documents, RAG configuration, bot-to-bot routing, and AI models through natural language.",
+  "source_repo": "fgasparetto/chipsai-mcp",
+  "source_url": "https://github.com/fgasparetto/chipsai-mcp",
+  "install": "npx -y chipsai-mcp"
+}

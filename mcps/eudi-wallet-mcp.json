@@ -1,0 +1,7 @@
+{
+  "name": "eudi-wallet-mcp",
+  "description": "EU Digital Identity Wallet (eIDAS 2.0) for AI agents, compliant with MCP protocol and EU AI Act.",
+  "source_repo": "CSOAI-ORG/eudi-wallet-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/eudi-wallet-mcp",
+  "install": "npx -y eudi-wallet-mcp"
+}

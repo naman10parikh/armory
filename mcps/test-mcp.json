@@ -1,6 +1,6 @@
 {
   "name": "test-mcp",
-  "description": "Test Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "287852793/test-mcp",
   "source_url": "https://mcp.so/server/test-mcp/287852793",
   "install": "npx -y test-mcp"

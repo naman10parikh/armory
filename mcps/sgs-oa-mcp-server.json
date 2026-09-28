@@ -1,0 +1,7 @@
+{
+  "name": "sgs-oa-mcp-server",
+  "description": "Enables AI agents to query office locations and meeting rooms from the Shangang Capital Digital Office Platform via natural language.",
+  "source_repo": "lipeng5941/oa-mcp-server",
+  "source_url": "https://github.com/lipeng5941/oa-mcp-server",
+  "install": "npx -y oa-mcp-server"
+}

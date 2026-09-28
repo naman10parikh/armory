@@ -1,0 +1,7 @@
+{
+  "name": "engineer-mcp",
+  "description": "MCP server for mechanical engineering calculations, giving coding agents verified answers for beams, bolts, shafts, bearings, stress, sections, and units with formulas and citations.",
+  "source_repo": "DanielCuevas1208/engineer-mcp",
+  "source_url": "https://github.com/DanielCuevas1208/engineer-mcp",
+  "install": "npx -y engineer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arthas-mcp-proxy",
+  "description": "Aggregates multiple Arthas agents into a single MCP server, allowing Claude to diagnose any number of Java processes with just one MCP configuration.",
+  "source_repo": "zhaoziqian/arthas-mcp-proxy",
+  "source_url": "https://github.com/zhaoziqian/arthas-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/zhaoziqian/arthas-mcp-proxy\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "amap-weather-mcp-server",
+  "description": "基于高德地图API的中国城市天气查询MCP服务，支持实时天气和未来几天天气预报查询。",
+  "source_repo": "ACAne0320/amap-weather-mcp-server",
+  "source_url": "https://github.com/ACAne0320/amap-weather-mcp-server",
+  "install": "npx -y amap-weather-mcp-server"
+}

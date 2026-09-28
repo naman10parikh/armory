@@ -1,0 +1,7 @@
+{
+  "name": "office-editor-mcp",
+  "description": "An MCP server for creating and editing Word, Excel, and PowerPoint documents through AI assistants.",
+  "source_repo": "theWDY/office-editor-mcp",
+  "source_url": "https://github.com/theWDY/office-editor-mcp",
+  "install": "npx -y office-editor-mcp"
+}

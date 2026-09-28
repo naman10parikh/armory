@@ -1,0 +1,7 @@
+{
+  "name": "macos-desktop-control",
+  "description": "Provides native macOS desktop automation for AI agents, enabling screen capture, mouse/keyboard control, window management, and iOS/Android simulator control in both foreground and background modes without focus stealing.",
+  "source_repo": "d-wwei/macos-desktop-control",
+  "source_url": "https://github.com/d-wwei/macos-desktop-control",
+  "install": "# git clone --depth 1 https://github.com/d-wwei/macos-desktop-control\n# See source for mcpServers config block"
+}

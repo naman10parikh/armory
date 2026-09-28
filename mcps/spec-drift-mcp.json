@@ -1,0 +1,7 @@
+{
+  "name": "spec-drift-mcp",
+  "description": "Enables AI coding agents to verify code against YAML specifications, detecting missing fields, extra fields, and type mismatches to prevent silent drift before commits.",
+  "source_repo": "3ii-factory/spec-drift-mcp",
+  "source_url": "https://github.com/3ii-factory/spec-drift-mcp",
+  "install": "npx -y spec-drift-mcp"
+}

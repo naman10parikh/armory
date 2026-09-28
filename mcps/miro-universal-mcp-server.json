@@ -1,0 +1,7 @@
+{
+  "name": "miro-universal-mcp-server",
+  "description": "This repository contains an implementation of an Miro Universal MCP (Model Context Protocol) server. It provides a standardized interface for interacting with Miro's tools and services through a unified API.",
+  "source_repo": "universal-mcp/miro",
+  "source_url": "https://github.com/universal-mcp/miro",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/miro\n# See source for mcpServers config block"
+}

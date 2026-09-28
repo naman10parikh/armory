@@ -1,0 +1,7 @@
+{
+  "name": "receita-federal-per-dcomp",
+  "description": "MCP server enabling read-only consultation of official Brazilian Receita Federal PER/DCOMP data via a single tool, with prepaid per-query usage.",
+  "source_repo": "mcp-dir/receita_federal_perdcomp-mcp",
+  "source_url": "https://github.com/mcp-dir/receita_federal_perdcomp-mcp",
+  "install": "npx -y receita_federal_perdcomp-mcp"
+}

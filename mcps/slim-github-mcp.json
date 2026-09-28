@@ -1,0 +1,7 @@
+{
+  "name": "slim-github-mcp",
+  "description": "Enables local models to query GitHub read-only through nine compact tools that return small, capped results, such as repositories, issues, pull requests, commits, code search, and file contents.",
+  "source_repo": "0xBakeer/slim-github-mcp",
+  "source_url": "https://github.com/0xBakeer/slim-github-mcp",
+  "install": "npx -y slim-github-mcp"
+}

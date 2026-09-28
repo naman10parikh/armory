@@ -1,0 +1,7 @@
+{
+  "name": "bomberjs-mcp-server",
+  "description": "MCP server that exposes the atomic-bomb tool for generating project scaffolding based on templates. Allows agents to run atomic-bomb commands by providing project root, type, name, and optional target name.",
+  "source_repo": "ReneKrewinkel/bomberjs",
+  "source_url": "https://github.com/ReneKrewinkel/bomberjs",
+  "install": "# git clone --depth 1 https://github.com/ReneKrewinkel/bomberjs\n# See source for mcpServers config block"
+}

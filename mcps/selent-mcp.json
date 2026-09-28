@@ -1,0 +1,7 @@
+{
+  "name": "selent-mcp",
+  "description": "Provides dynamic access to the entire Meraki Dashboard API plus advanced compliance and security auditing capabilities.",
+  "source_repo": "selent-ai/selent-mcp",
+  "source_url": "https://github.com/selent-ai/selent-mcp",
+  "install": "npx -y selent-mcp"
+}

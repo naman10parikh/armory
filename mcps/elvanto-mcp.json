@@ -1,0 +1,7 @@
+{
+  "name": "elvanto-mcp",
+  "description": "Self-hosted MCP server for Elvanto church management. Enables querying upcoming rosters, service songs, and submitting unavailability via Claude or ChatGPT.",
+  "source_repo": "mcnamee/elvanto-mcp",
+  "source_url": "https://github.com/mcnamee/elvanto-mcp",
+  "install": "npx -y elvanto-mcp"
+}

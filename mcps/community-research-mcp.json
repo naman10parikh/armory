@@ -1,0 +1,7 @@
+{
+  "name": "community-research-mcp",
+  "description": "MCP server for researching community discussions, with a focus on Reddit. It enables searching Reddit posts and reading threads/comments, providing structured JSON output for LLM consumption.",
+  "source_repo": "bsaa141aly-bit/community-research-mcp",
+  "source_url": "https://github.com/bsaa141aly-bit/community-research-mcp",
+  "install": "npx -y community-research-mcp"
+}

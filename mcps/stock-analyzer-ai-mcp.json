@@ -1,0 +1,7 @@
+{
+  "name": "stock-analyzer-ai-mcp",
+  "description": "Analyze stocks with financial ratios, comparisons, and sector performance data.",
+  "source_repo": "CSOAI-ORG/stock-analyzer-ai-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/stock-analyzer-ai-mcp",
+  "install": "npx -y stock-analyzer-ai-mcp"
+}

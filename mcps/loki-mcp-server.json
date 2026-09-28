@@ -1,0 +1,7 @@
+{
+  "name": "loki-mcp-server",
+  "description": "An MCP server that enables AI assistants to query and analyze logs from Grafana Loki using LogQL, supporting label discovery and keyword search.",
+  "source_repo": "mo-silent/loki-mcp-server",
+  "source_url": "https://github.com/mo-silent/loki-mcp-server",
+  "install": "npx -y loki-mcp-server"
+}

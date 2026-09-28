@@ -1,0 +1,7 @@
+{
+  "name": "astrodynamics-mcp",
+  "description": "An MCP server that equips LLM clients with authoritative astrodynamics tools including TLE/SGP4 propagation, Lambert solving, ground-station access, time-scale and coordinate-frame conversions, and more.",
+  "source_repo": "astro-tools/astrodynamics-mcp",
+  "source_url": "https://github.com/astro-tools/astrodynamics-mcp",
+  "install": "npx -y astrodynamics-mcp"
+}

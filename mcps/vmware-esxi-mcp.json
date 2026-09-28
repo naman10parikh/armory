@@ -1,0 +1,7 @@
+{
+  "name": "vmware-esxi-mcp",
+  "description": "Enables management of VMware ESXi hosts and virtual machines through standardized MCP interfaces, supporting host operations, VM lifecycle, resource monitoring, and security management.",
+  "source_repo": "uldyssian-sh/vmware-esxi-mcp",
+  "source_url": "https://github.com/uldyssian-sh/vmware-esxi-mcp",
+  "install": "npx -y vmware-esxi-mcp"
+}

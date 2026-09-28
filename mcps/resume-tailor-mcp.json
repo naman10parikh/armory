@@ -1,0 +1,7 @@
+{
+  "name": "resume-tailor-mcp",
+  "description": "An MCP server that tailors a resume to a job posting by providing fit scores, keyword extraction, and bullet rewrites.",
+  "source_repo": "mr-martinsosa/resume-tailor-mcp",
+  "source_url": "https://github.com/mr-martinsosa/resume-tailor-mcp",
+  "install": "npx -y resume-tailor-mcp"
+}

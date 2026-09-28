@@ -1,0 +1,7 @@
+{
+  "name": "cadkit",
+  "description": "An MCP server for parametric part modeling in Onshape, producing fully-defined, variable-driven sketches and features. It enables LLMs to create editable CAD models using semantic selection and geometrically grounded constraints.",
+  "source_repo": "saltyeg/cadkit-mcp",
+  "source_url": "https://github.com/saltyeg/cadkit-mcp",
+  "install": "npx -y cadkit-mcp"
+}

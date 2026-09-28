@@ -1,0 +1,7 @@
+{
+  "name": "artemsemkin-envato-market-mcp",
+  "description": "MCP server for the Envato Market API that provides AI agents with purchase verification, item lookup, comment search, sales data, and account info.",
+  "source_repo": "artkrsk/envato-market-mcp",
+  "source_url": "https://github.com/artkrsk/envato-market-mcp",
+  "install": "npx -y envato-market-mcp"
+}

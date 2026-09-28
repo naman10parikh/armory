@@ -1,0 +1,7 @@
+{
+  "name": "yandex-cloud-docs-mcp",
+  "description": "Provides offline, read-only full-text search over a local Yandex Cloud documentation checkout via MCP, with ranked search, line-numbered excerpts, and index status tools.",
+  "source_repo": "selivanov-tech/yandex-cloud-docs-mcp",
+  "source_url": "https://github.com/selivanov-tech/yandex-cloud-docs-mcp",
+  "install": "npx -y yandex-cloud-docs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sqlmate-mcp",
+  "description": "Zero-config SQL database MCP server with a browser GUI that connects Claude to MySQL, MariaDB, SQLite, and MSSQL databases.",
+  "source_repo": "adamrpostjr/sqlmate-mcp",
+  "source_url": "https://github.com/adamrpostjr/sqlmate-mcp",
+  "install": "npx -y sqlmate-mcp"
+}

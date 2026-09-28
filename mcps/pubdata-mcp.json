@@ -1,0 +1,7 @@
+{
+  "name": "pubdata-mcp",
+  "description": "Enables querying Korean public datasets (apartment prices, weather, air quality) via natural language using an MCP server and local LLM agent.",
+  "source_repo": "jcyeom/pubdata-insight-mcp",
+  "source_url": "https://github.com/jcyeom/pubdata-insight-mcp",
+  "install": "npx -y pubdata-insight-mcp"
+}

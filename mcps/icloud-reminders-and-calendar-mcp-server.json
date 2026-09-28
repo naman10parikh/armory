@@ -1,0 +1,7 @@
+{
+  "name": "icloud-reminders-and-calendar-mcp-server",
+  "description": "Lets Claude read and manage your iCloud Reminders and Calendar through a custom MCP connector, enabling natural language queries and actions.",
+  "source_repo": "stefanikostic/reminders-mcp",
+  "source_url": "https://github.com/stefanikostic/reminders-mcp",
+  "install": "npx -y reminders-mcp"
+}

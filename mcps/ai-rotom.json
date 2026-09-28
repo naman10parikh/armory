@@ -1,0 +1,7 @@
+{
+  "name": "ai-rotom",
+  "description": "MCP server for Pokémon battle advising: provides type matchups, damage calculation, party analysis, and move/ability data for AI agents like Claude Code and Codex.",
+  "source_repo": "nonz250/ai-rotom",
+  "source_url": "https://github.com/nonz250/ai-rotom",
+  "install": "# git clone --depth 1 https://github.com/nonz250/ai-rotom\n# See source for mcpServers config block"
+}

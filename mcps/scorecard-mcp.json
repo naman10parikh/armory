@@ -1,0 +1,7 @@
+{
+  "name": "scorecard-mcp",
+  "description": "Enables asking natural language questions about OpenSSF Scorecard security assessments for open source projects.",
+  "source_repo": "steiza/scorecard-mcp",
+  "source_url": "https://github.com/steiza/scorecard-mcp",
+  "install": "npx -y scorecard-mcp"
+}

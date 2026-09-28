@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pdf-to-pgvector",
+  "description": "MCP server that ingests PDF documents into pgvector for semantic search and RAG pipelines. It handles extraction, chunking, local embeddings, and storage, enabling agents to make PDFs searchable via natural language.",
+  "source_repo": "sanskritiparmendranaval/mcp-pdf-to-pgvector-main",
+  "source_url": "https://github.com/sanskritiparmendranaval/mcp-pdf-to-pgvector-main",
+  "install": "# git clone --depth 1 https://github.com/sanskritiparmendranaval/mcp-pdf-to-pgvector-main\n# See source for mcpServers config block"
+}

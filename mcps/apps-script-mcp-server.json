@@ -1,0 +1,7 @@
+{
+  "name": "apps-script-mcp-server",
+  "description": "An MCP server that lets Claude read and push Google Apps Script code directly into a script project.",
+  "source_repo": "OLUYEMIOPEYEMI7/apps-script-mcp-server",
+  "source_url": "https://github.com/OLUYEMIOPEYEMI7/apps-script-mcp-server",
+  "install": "npx -y apps-script-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "meok-eu-aia-art-9-rms-mcp",
+  "description": "Generates EU AI Act Article 9 Risk Management Systems with a 4-step iteration process, covering 12 risk categories and Annex IV attestation.",
+  "source_repo": "CSOAI-ORG/meok-eu-aia-art-9-rms-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-eu-aia-art-9-rms-mcp",
+  "install": "npx -y meok-eu-aia-art-9-rms-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ebp-directory",
+  "description": "MCP server for querying a cross-referenced directory of evidence-based therapies and interventions, enabling search by query, tier, problem, population, modality, and registry.",
+  "source_repo": "Automated-Intelligence/ebp-directory",
+  "source_url": "https://github.com/Automated-Intelligence/ebp-directory",
+  "install": "# git clone --depth 1 https://github.com/Automated-Intelligence/ebp-directory\n# See source for mcpServers config block"
+}

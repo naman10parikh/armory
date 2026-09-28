@@ -1,0 +1,7 @@
+{
+  "name": "fastapi-mcp-todo",
+  "description": "FastAPI Todo API with an MCP server for managing todos, deployable to Render, AWS App Runner, or ECS.",
+  "source_repo": "egafossojm/fastapi-mcp-todo",
+  "source_url": "https://github.com/egafossojm/fastapi-mcp-todo",
+  "install": "# git clone --depth 1 https://github.com/egafossojm/fastapi-mcp-todo\n# See source for mcpServers config block"
+}

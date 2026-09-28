@@ -1,0 +1,7 @@
+{
+  "name": "wiki-mcp-server",
+  "description": "A lightweight personal wiki MCP server that allows AI assistants to save, search, and link markdown notes with backlinks and full-text search, functioning as a file-based second brain.",
+  "source_repo": "drazisil/wiki-mcp-server",
+  "source_url": "https://github.com/drazisil/wiki-mcp-server",
+  "install": "npx -y wiki-mcp-server"
+}

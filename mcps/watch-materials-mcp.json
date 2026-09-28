@@ -1,0 +1,7 @@
+{
+  "name": "watch-materials-mcp",
+  "description": "MCP server for materials science monitoring, searching ArXiv preprints and OpenAlex articles with sovereign intelligence filtering by country.",
+  "source_repo": "p-pouget/watch-materials-mcp",
+  "source_url": "https://github.com/p-pouget/watch-materials-mcp",
+  "install": "npx -y watch-materials-mcp"
+}

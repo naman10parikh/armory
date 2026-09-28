@@ -1,0 +1,7 @@
+{
+  "name": "mcp-esim",
+  "description": "Travel eSIMs for 193 countries. Stripe + Bitcoin checkout. QR by email in 30s. No API key.",
+  "source_repo": "isabellaliebgott/mcp-esim",
+  "source_url": "https://github.com/isabellaliebgott/mcp-esim",
+  "install": "# git clone --depth 1 https://github.com/isabellaliebgott/mcp-esim\n# See source for mcpServers config block"
+}

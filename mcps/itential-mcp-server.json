@@ -1,0 +1,7 @@
+{
+  "name": "itential-mcp-server",
+  "description": "MCP server for connecting LLMs to Itential Platform, enabling network automation, workflow orchestration, and platform monitoring.",
+  "source_repo": "itential/itential-mcp",
+  "source_url": "https://github.com/itential/itential-mcp",
+  "install": "npx -y itential-mcp"
+}

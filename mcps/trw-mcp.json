@@ -1,0 +1,7 @@
+{
+  "name": "trw-mcp",
+  "description": "MCP server providing persistent engineering memory and spec-driven development workflows for AI coding agents, preserving learnings across sessions.",
+  "source_repo": "wallter/trw-mcp",
+  "source_url": "https://github.com/wallter/trw-mcp",
+  "install": "npx -y trw-mcp"
+}

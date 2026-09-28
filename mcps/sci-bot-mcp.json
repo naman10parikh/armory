@@ -1,0 +1,7 @@
+{
+  "name": "sci-bot-mcp",
+  "description": "AI-powered research assistant MCP server for searching academic papers and answering research questions with DOI citations.",
+  "source_repo": "lnkvv210-eng/sci-bot-mcp",
+  "source_url": "https://github.com/lnkvv210-eng/sci-bot-mcp",
+  "install": "npx -y sci-bot-mcp"
+}

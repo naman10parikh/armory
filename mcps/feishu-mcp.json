@@ -1,0 +1,7 @@
+{
+  "name": "feishu-mcp",
+  "description": "Enables AI agents to control Feishu (Lark) through structured tools for messaging, calendar, tasks, and documents.",
+  "source_repo": "lichman0405/feishu-mcp",
+  "source_url": "https://github.com/lichman0405/feishu-mcp",
+  "install": "npx -y feishu-mcp"
+}

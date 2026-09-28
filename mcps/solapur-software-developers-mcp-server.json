@@ -1,0 +1,7 @@
+{
+  "name": "solapur-software-developers-mcp-server",
+  "description": "Enables AI agents to query a verified directory of software developers in Solapur, India, including developer profiles, skills, scores, and rankings through structured resources and tools.",
+  "source_repo": "mdyahhya/solapursoftwares",
+  "source_url": "https://github.com/mdyahhya/solapursoftwares",
+  "install": "# git clone --depth 1 https://github.com/mdyahhya/solapursoftwares\n# See source for mcpServers config block"
+}

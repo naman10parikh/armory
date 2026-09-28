@@ -1,0 +1,7 @@
+{
+  "name": "x402-atlas",
+  "description": "Enables AI agents to search and verify machine-payable HTTP 402/x402 APIs using live probe data, providing ranked results by liveness, uptime, price, and trustworthiness.",
+  "source_repo": "89rat/x402-atlas",
+  "source_url": "https://github.com/89rat/x402-atlas",
+  "install": "# git clone --depth 1 https://github.com/89rat/x402-atlas\n# See source for mcpServers config block"
+}

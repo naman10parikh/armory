@@ -1,0 +1,7 @@
+{
+  "name": "podman-mcp",
+  "description": "Enables management of Podman containers, pods, images, and compose stacks via natural language, with support for container stats, logs, exec, health analysis, and a web dashboard.",
+  "source_repo": "sandraschi/podman-mcp",
+  "source_url": "https://github.com/sandraschi/podman-mcp",
+  "install": "npx -y podman-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "402-mcp-restaurant-finder",
+  "description": "Enables AI agents to browse restaurants and menus for free, and place orders with USDC payment via x402.",
+  "source_repo": "harshil1712/402-mcp",
+  "source_url": "https://github.com/harshil1712/402-mcp",
+  "install": "npx -y 402-mcp"
+}

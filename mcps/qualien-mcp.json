@@ -1,0 +1,7 @@
+{
+  "name": "qualien-mcp",
+  "description": "A composite MCP gateway that aggregates multiple MCP servers into one endpoint for SDET/QE workflows, with curated tool namespacing, central safety guardrails, and composite tools like API-vs-DB verification.",
+  "source_repo": "qualienai/qualien-mcp",
+  "source_url": "https://github.com/qualienai/qualien-mcp",
+  "install": "npx -y qualien-mcp"
+}

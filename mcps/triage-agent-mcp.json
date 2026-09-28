@@ -1,0 +1,7 @@
+{
+  "name": "triage-agent-mcp",
+  "description": "MCP server that guides an AI agent through stack trace triage, from raw error to the commit and PR that introduced it.",
+  "source_repo": "rahulnayanegali/triage-agent-mcp",
+  "source_url": "https://github.com/rahulnayanegali/triage-agent-mcp",
+  "install": "npx -y triage-agent-mcp"
+}

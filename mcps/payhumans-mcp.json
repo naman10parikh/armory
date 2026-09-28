@@ -1,0 +1,7 @@
+{
+  "name": "payhumans-mcp",
+  "description": "Lets AI agents natively discover and hire human experts for tasks they can't do themselves, such as research, verification, and expert calls.",
+  "source_repo": "Krishnan-govindan/payhumans-mcp",
+  "source_url": "https://github.com/Krishnan-govindan/payhumans-mcp",
+  "install": "npx -y payhumans-mcp"
+}

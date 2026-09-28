@@ -1,0 +1,7 @@
+{
+  "name": "agent-audit-trail-mcp-server",
+  "description": "Provides tamper-proof audit logging for AI agents using SHA-256 hash chains, integrity verification, and compliance reporting for the EU AI Act.",
+  "source_repo": "AiAgentKarl/agent-audit-trail-mcp",
+  "source_url": "https://github.com/AiAgentKarl/agent-audit-trail-mcp",
+  "install": "npx -y agent-audit-trail-mcp"
+}

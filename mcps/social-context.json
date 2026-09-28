@@ -1,0 +1,7 @@
+{
+  "name": "social-context",
+  "description": "Transforms social media links (TikTok, Instagram, YouTube) and videos into text context with transcription, OCR, and metadata for AI agents like Claude and Cursor.",
+  "source_repo": "mcp-dir/socialdl-mcp",
+  "source_url": "https://github.com/mcp-dir/socialdl-mcp",
+  "install": "npx -y socialdl-mcp"
+}

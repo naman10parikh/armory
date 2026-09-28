@@ -1,0 +1,7 @@
+{
+  "name": "inky-mcp-server",
+  "description": "MCP server that connects Cursor IDE to Inky backend, enabling users to list and filter personalized coding rules stored in Pinecone.",
+  "source_repo": "enkhbold470/inky-mcp-server",
+  "source_url": "https://github.com/enkhbold470/inky-mcp-server",
+  "install": "npx -y inky-mcp-server"
+}

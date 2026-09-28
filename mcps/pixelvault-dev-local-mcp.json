@@ -1,0 +1,7 @@
+{
+  "name": "pixelvault-dev-local-mcp",
+  "description": "A local (stdio) MCP server for PixelVault — agent-first image hosting, enabling upload of local files by path without base64.",
+  "source_repo": "pixelvault-dev/mcp-local",
+  "source_url": "https://github.com/pixelvault-dev/mcp-local",
+  "install": "# git clone --depth 1 https://github.com/pixelvault-dev/mcp-local\n# See source for mcpServers config block"
+}

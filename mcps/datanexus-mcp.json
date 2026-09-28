@@ -1,0 +1,7 @@
+{
+  "name": "datanexus-mcp",
+  "description": "55 tools. Verified public data — CVE/SBOM security audits, licence compliance, frontend security scanning, nonprofit 990 filings, federal contracts, NPI lookups, patents, and domain intelligence",
+  "source_repo": "",
+  "source_url": "https://datanexusmcp.com",
+  "install": "# git clone --depth 1 https://datanexusmcp.com\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sonos-mcp",
+  "description": "MCP server for controlling Sonos speakers. Currently early scaffolding with a temporary discover tool.",
+  "source_repo": "bgrgicak/sonos-mcp",
+  "source_url": "https://github.com/bgrgicak/sonos-mcp",
+  "install": "npx -y sonos-mcp"
+}

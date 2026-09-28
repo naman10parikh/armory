@@ -1,0 +1,7 @@
+{
+  "name": "mu",
+  "description": "Mu is an MCP server and web app that provides agents and humans access to real-world services like news, web search, mail, markets, weather, video, places, images, files, calendar, and contacts. It offers a wide range of tools and can be self-hosted or used live at micro.mu.",
+  "source_repo": "micro/mu",
+  "source_url": "https://github.com/micro/mu",
+  "install": "# git clone --depth 1 https://github.com/micro/mu\n# See source for mcpServers config block"
+}

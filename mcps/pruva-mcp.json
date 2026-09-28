@@ -1,0 +1,7 @@
+{
+  "name": "pruva-mcp",
+  "description": "Remote MCP server for Pruva, enabling AI assistants to manage products, features, and documents over HTTPS with OAuth authentication.",
+  "source_repo": "pruva-ai/pruva-mcp",
+  "source_url": "https://github.com/pruva-ai/pruva-mcp",
+  "install": "npx -y pruva-mcp"
+}

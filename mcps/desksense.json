@@ -1,0 +1,7 @@
+{
+  "name": "desksense",
+  "description": "A read-only Windows MCP server that gives AI assistants awareness of the current PC state, including open applications, focus, idle status, and system metrics.",
+  "source_repo": "ChituQAQ/desksense-mcp",
+  "source_url": "https://github.com/ChituQAQ/desksense-mcp",
+  "install": "npx -y desksense-mcp"
+}

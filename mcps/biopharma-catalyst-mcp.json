@@ -1,0 +1,7 @@
+{
+  "name": "biopharma-catalyst-mcp",
+  "description": "Enables biopharma catalyst research by aggregating signals from ClinicalTrials.gov, PubMed, SEC EDGAR, openFDA, and Yahoo Finance, with a single tool to audit a ticker/drug combination and return a forensic verdict.",
+  "source_repo": "yesc97/biopharma-catalyst-mcp",
+  "source_url": "https://github.com/yesc97/biopharma-catalyst-mcp",
+  "install": "npx -y biopharma-catalyst-mcp"
+}

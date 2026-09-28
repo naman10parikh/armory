@@ -1,0 +1,7 @@
+{
+  "name": "mise-en-space",
+  "description": "An MCP server that enables LLMs to search, fetch, and act on Google Workspace (Drive, Gmail, Docs, Sheets, etc.) with rich, one-call results and file deposits to disk, reducing context usage.",
+  "source_repo": "spm1001/mise-en-space",
+  "source_url": "https://github.com/spm1001/mise-en-space",
+  "install": "# git clone --depth 1 https://github.com/spm1001/mise-en-space\n# See source for mcpServers config block"
+}

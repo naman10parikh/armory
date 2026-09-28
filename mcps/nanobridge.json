@@ -1,0 +1,7 @@
+{
+  "name": "nanobridge",
+  "description": "Enables agents to generate and edit images, sprites, icons, and animated sprite sheets via Gemini's Nano Banana model. It uses the existing Gemini plan's quota without per-image costs.",
+  "source_repo": "NspxMiguel/NanoBridge",
+  "source_url": "https://github.com/NspxMiguel/NanoBridge",
+  "install": "# git clone --depth 1 https://github.com/NspxMiguel/NanoBridge\n# See source for mcpServers config block"
+}

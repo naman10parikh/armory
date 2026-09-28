@@ -1,0 +1,7 @@
+{
+  "name": "riskprism",
+  "description": "MCP server for decomposing US equity portfolio risk into factor exposures, with tools for portfolio risk, factor exposures, stress tests, and coverage checks using Barra-style fundamental factor models.",
+  "source_repo": "wanxinwanxin/risk-prism",
+  "source_url": "https://github.com/wanxinwanxin/risk-prism",
+  "install": "# git clone --depth 1 https://github.com/wanxinwanxin/risk-prism\n# See source for mcpServers config block"
+}

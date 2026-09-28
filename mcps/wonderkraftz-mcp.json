@@ -1,0 +1,7 @@
+{
+  "name": "wonderkraftz-mcp",
+  "description": "An MCP server that connects AI assistants to the Wonderkraftz Premium Gifting Studio, enabling product browsing, personalized gift recommendations, cart management, and checkout through natural language.",
+  "source_repo": "rachit1987/wonderkraftz-mcp",
+  "source_url": "https://github.com/rachit1987/wonderkraftz-mcp",
+  "install": "npx -y wonderkraftz-mcp"
+}

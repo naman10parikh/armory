@@ -1,0 +1,7 @@
+{
+  "name": "routecraft",
+  "description": "Routecraft is an MCP server that lets agents build and validate bicycle routes segment by segment using OpenStreetMap data, with weather, elevation, imagery, and export options.",
+  "source_repo": "quinnsprouse/routecraft",
+  "source_url": "https://github.com/quinnsprouse/routecraft",
+  "install": "# git clone --depth 1 https://github.com/quinnsprouse/routecraft\n# See source for mcpServers config block"
+}

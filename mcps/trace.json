@@ -1,0 +1,7 @@
+{
+  "name": "trace",
+  "description": "An MCP server that transforms Claude into an honest CV co-pilot, mechanically verifying all claims against your actual experience through a structured truth base.",
+  "source_repo": "defibabylon/trace-mcp",
+  "source_url": "https://github.com/defibabylon/trace-mcp",
+  "install": "npx -y trace-mcp"
+}

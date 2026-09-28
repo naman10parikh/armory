@@ -1,0 +1,7 @@
+{
+  "name": "engineering-intelligence-mcp",
+  "description": "Enables AI clients to inspect backend systems through structured engineering tools including Git history, Winston logs, OpenAPI contracts, and sandboxed source code.",
+  "source_repo": "sanchit0496/engineering-intelligence-mcp",
+  "source_url": "https://github.com/sanchit0496/engineering-intelligence-mcp",
+  "install": "npx -y engineering-intelligence-mcp"
+}

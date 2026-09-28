@@ -1,0 +1,7 @@
+{
+  "name": "rosh-mcp-server",
+  "description": "Enables AI to create and publish interactive web apps, games, and 3D scenes using Rosh, a plain-English programming language. It supports compilation to HTML5 canvas, Phaser, or Three.js.",
+  "source_repo": "rosh-studio/rosh-mcp",
+  "source_url": "https://github.com/rosh-studio/rosh-mcp",
+  "install": "npx -y rosh-mcp"
+}

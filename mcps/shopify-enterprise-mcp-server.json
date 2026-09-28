@@ -1,0 +1,7 @@
+{
+  "name": "shopify-enterprise-mcp-server",
+  "description": "Production-grade MCP server that exposes live Shopify Admin GraphQL data to Microsoft Copilot Studio agents, enabling real-time answers to business questions about inventory, orders, and products.",
+  "source_repo": "aakarsh1t/ShopifyMCP",
+  "source_url": "https://github.com/aakarsh1t/ShopifyMCP",
+  "install": "# git clone --depth 1 https://github.com/aakarsh1t/ShopifyMCP\n# See source for mcpServers config block"
+}

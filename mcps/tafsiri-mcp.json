@@ -1,0 +1,7 @@
+{
+  "name": "tafsiri-mcp",
+  "description": "Provides translation and language resources for Kenyan languages including Swahili, Kikuyu, and Luo, with tools for glossaries, language guides, and civic terminology.",
+  "source_repo": "gabrielmahia/tafsiri-mcp",
+  "source_url": "https://github.com/gabrielmahia/tafsiri-mcp",
+  "install": "npx -y tafsiri-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rememberizer-mcp-us-patent-ck",
+  "description": "MCP server providing access to US patent data (2000-2024) via Rememberizer's knowledge retrieval tools, enabling semantic search and document management for patent information.",
+  "source_repo": "skydeckai/rememberizer-mcp-us-patent-ck",
+  "source_url": "https://github.com/skydeckai/rememberizer-mcp-us-patent-ck",
+  "install": "# git clone --depth 1 https://github.com/skydeckai/rememberizer-mcp-us-patent-ck\n# See source for mcpServers config block"
+}

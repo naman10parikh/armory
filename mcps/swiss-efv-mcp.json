@@ -1,0 +1,7 @@
+{
+  "name": "swiss-efv-mcp",
+  "description": "MCP server for Swiss federal finances (EFV), providing read-only tools to query budget, debt, forecasts, and spending by task and institution from public data.",
+  "source_repo": "malkreide/swiss-efv-mcp",
+  "source_url": "https://github.com/malkreide/swiss-efv-mcp",
+  "install": "npx -y swiss-efv-mcp"
+}

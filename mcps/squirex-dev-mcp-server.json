@@ -1,0 +1,7 @@
+{
+  "name": "squirex-dev-mcp-server",
+  "description": "MCP server that scans Salesforce Agentforce metadata for security vulnerabilities using 61+ SAST rules, integrating into AI coding workflows to guard against OWASP LLM top 10 risks.",
+  "source_repo": "SquireX-dev/squirex-mcp",
+  "source_url": "https://github.com/SquireX-dev/squirex-mcp",
+  "install": "npx -y squirex-mcp"
+}

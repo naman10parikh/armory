@@ -1,0 +1,7 @@
+{
+  "name": "chesscom-mcp-2",
+  "description": "MCP server for Chess.com's API, providing access to player profiles, stats, games, clubs, tournaments, and puzzles. It serializes requests to reduce rate limit errors and includes an unofficial tool for retrieving game data by ID.",
+  "source_repo": "rrrmaster/chesscom-mcp",
+  "source_url": "https://github.com/rrrmaster/chesscom-mcp",
+  "install": "npx -y chesscom-mcp"
+}

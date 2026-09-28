@@ -1,0 +1,7 @@
+{
+  "name": "self-mcp-server",
+  "description": "FastMCP server for querying FRED financial and macroeconomic data, providing tools to search and retrieve economic indicators.",
+  "source_repo": "RyanWang945/self-mcp-server",
+  "source_url": "https://github.com/RyanWang945/self-mcp-server",
+  "install": "npx -y self-mcp-server"
+}

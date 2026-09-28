@@ -1,0 +1,7 @@
+{
+  "name": "detran-al-ve-culo",
+  "description": "Consulta veicular em fonte oficial do DETRAN/AL via MCP, servidor hospedado sem credenciais, pré-pago por consulta, funciona com qualquer cliente MCP.",
+  "source_repo": "mcp-dir/detran_al_veiculo-mcp",
+  "source_url": "https://github.com/mcp-dir/detran_al_veiculo-mcp",
+  "install": "npx -y detran_al_veiculo-mcp"
+}

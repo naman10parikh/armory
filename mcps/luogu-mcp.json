@@ -1,0 +1,7 @@
+{
+  "name": "luogu-mcp",
+  "description": "Fetches and structures programming problem data from Luogu, enabling AI tools to query problem details such as title, difficulty, tags, samples, and limits.",
+  "source_repo": "a48zhang/luogu-mcp",
+  "source_url": "https://github.com/a48zhang/luogu-mcp",
+  "install": "npx -y luogu-mcp"
+}

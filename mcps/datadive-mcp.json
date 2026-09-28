@@ -1,0 +1,7 @@
+{
+  "name": "datadive-mcp",
+  "description": "An MCP server that lets Claude and other clients query DataDive niches, keywords, competitors, and Rank Radar data using your API key, including tools for managing dives and rank radars.",
+  "source_repo": "Data-Dive-Tools/datadive-mcp",
+  "source_url": "https://github.com/Data-Dive-Tools/datadive-mcp",
+  "install": "npx -y datadive-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "logmein-mcp",
+  "description": "MCP server for LogMeIn Rescue that exposes session, chat log, note, and reporting tools via the vendor's API, requiring per-request credentials.",
+  "source_repo": "MSPbotsAI/logmein-mcp",
+  "source_url": "https://github.com/MSPbotsAI/logmein-mcp",
+  "install": "npx -y logmein-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "remotive-mcp-server",
+  "description": "MCP server that provides tools to search and retrieve remote jobs from Remotive's public job board, with no API key required.",
+  "source_repo": "hyperplayer7/remotive-mcp-server",
+  "source_url": "https://github.com/hyperplayer7/remotive-mcp-server",
+  "install": "npx -y remotive-mcp-server"
+}

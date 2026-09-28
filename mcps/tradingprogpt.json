@@ -1,0 +1,7 @@
+{
+  "name": "tradingprogpt",
+  "description": "Read-only MCP server exposing MetaTrader 5 account and market data alongside Twelve Data quotes and technical indicators, with an LLM analysis layer.",
+  "source_repo": "xentristech/tradingprogpt",
+  "source_url": "https://github.com/xentristech/tradingprogpt",
+  "install": "# git clone --depth 1 https://github.com/xentristech/tradingprogpt\n# See source for mcpServers config block"
+}

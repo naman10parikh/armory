@@ -1,0 +1,7 @@
+{
+  "name": "io-github-lsmman-fetchive",
+  "description": "MCP server for extracting links from text dumps, checking duplicates, extracting YouTube transcripts (with fallbacks including speech-to-text), and preparing workspace-ready page payloads for your note-taking or saving tools. It does not write to your workspace; it hands off prepared content to your",
+  "source_repo": "lsmman/fetchive",
+  "source_url": "https://github.com/lsmman/fetchive",
+  "install": "# git clone --depth 1 https://github.com/lsmman/fetchive\n# See source for mcpServers config block"
+}

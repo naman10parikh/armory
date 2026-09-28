@@ -1,0 +1,7 @@
+{
+  "name": "memeboat-mcp",
+  "description": "Search 25,000+ meme templates and create shareable memes directly from your AI assistant.",
+  "source_repo": "memebo-at/memeboat-mcp",
+  "source_url": "https://github.com/memebo-at/memeboat-mcp",
+  "install": "npx -y memeboat-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "okareo-mcp-server",
+  "description": "Exposes Okareo's evaluation capabilities as MCP tools, enabling AI coding assistants to manage scenarios, register models, run evaluations, and execute multi-turn simulations directly from the editor.",
+  "source_repo": "okareo-ai/okareo-mcp",
+  "source_url": "https://github.com/okareo-ai/okareo-mcp",
+  "install": "npx -y okareo-mcp"
+}

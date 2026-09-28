@@ -1,0 +1,7 @@
+{
+  "name": "agent-validator-mcp-server",
+  "description": "Enables testing and validation of APIs for AI agent compatibility, providing scores, grades, and actionable recommendations.",
+  "source_repo": "AiAgentKarl/agent-validator-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/agent-validator-mcp-server",
+  "install": "npx -y agent-validator-mcp-server"
+}

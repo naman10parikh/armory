@@ -1,0 +1,7 @@
+{
+  "name": "git-repo-auth-mcp",
+  "description": "Mints short-lived, scoped GitHub App installation tokens on demand for AI agents to access git repositories or the GitHub API.",
+  "source_repo": "klappy/git-repo-auth-mcp",
+  "source_url": "https://github.com/klappy/git-repo-auth-mcp",
+  "install": "npx -y git-repo-auth-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tolls-mcp-server",
+  "description": "Calculate toll costs, list operators, and get tariff data across Spain, Portugal, and France through an LLM assistant.",
+  "source_repo": "cargoffer/tolls-mcp-server",
+  "source_url": "https://github.com/cargoffer/tolls-mcp-server",
+  "install": "npx -y tolls-mcp-server"
+}

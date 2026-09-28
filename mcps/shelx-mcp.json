@@ -1,0 +1,7 @@
+{
+  "name": "shelx-mcp",
+  "description": "Wraps SHELX crystallography programs for structure solution and refinement via a chat interface.",
+  "source_repo": "stge4code/shelx-mcp",
+  "source_url": "https://github.com/stge4code/shelx-mcp",
+  "install": "npx -y shelx-mcp"
+}

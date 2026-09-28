@@ -1,0 +1,7 @@
+{
+  "name": "sinfo-mcp",
+  "description": "MCP server that lets AI agents compose real music through a persistent server-side score, supporting planning, voice writing, verification, and MIDI export.",
+  "source_repo": "JOSETRA44/sinfo-mcp",
+  "source_url": "https://github.com/JOSETRA44/sinfo-mcp",
+  "install": "npx -y sinfo-mcp"
+}

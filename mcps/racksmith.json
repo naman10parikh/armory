@@ -1,0 +1,7 @@
+{
+  "name": "racksmith",
+  "description": "MCP server for bare-metal lab operations, enabling inventory, commissioning, deployment, fabric audit, and job scheduling via Hermes agent skills and a tool server.",
+  "source_repo": "Amiirhosseini/racksmith",
+  "source_url": "https://github.com/Amiirhosseini/racksmith",
+  "install": "# git clone --depth 1 https://github.com/Amiirhosseini/racksmith\n# See source for mcpServers config block"
+}

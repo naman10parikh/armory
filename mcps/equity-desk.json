@@ -1,0 +1,7 @@
+{
+  "name": "equity-desk",
+  "description": "Enables AI agents to perform grounded equity research by analyzing tickers from SEC filings and market data, producing citation-guarded memos with pre-computed fundamentals.",
+  "source_repo": "maxrotemberg04-spec/equity-desk",
+  "source_url": "https://github.com/maxrotemberg04-spec/equity-desk",
+  "install": "# git clone --depth 1 https://github.com/maxrotemberg04-spec/equity-desk\n# See source for mcpServers config block"
+}

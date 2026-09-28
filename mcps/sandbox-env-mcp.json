@@ -1,0 +1,7 @@
+{
+  "name": "sandbox-env-mcp",
+  "description": "MCP server providing AI agents with persistent shells, filesystem access, and multi-machine management backed by Docker containers or remote SSH hosts.",
+  "source_repo": "hs3434/sandbox-env-mcp",
+  "source_url": "https://github.com/hs3434/sandbox-env-mcp",
+  "install": "npx -y sandbox-env-mcp"
+}

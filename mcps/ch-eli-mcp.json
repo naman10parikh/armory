@@ -1,0 +1,7 @@
+{
+  "name": "ch-eli-mcp",
+  "description": "MCP server for Swiss federal legislation metadata via Fedlex, enabling search and retrieval of act details with ELI URIs, SR numbers, and multilingual support.",
+  "source_repo": "matematicsolutions/ch-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/ch-eli-mcp",
+  "install": "npx -y ch-eli-mcp"
+}

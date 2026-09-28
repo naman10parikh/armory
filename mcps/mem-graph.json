@@ -1,0 +1,7 @@
+{
+  "name": "mem-graph",
+  "description": "Graph-relational memory MCP server for persistent LLM memory, featuring wikilinks, BM25 auto-linking, spreading activation, and synaptic decay across five memory layers.",
+  "source_repo": "GoVanAI/mem-graph",
+  "source_url": "https://github.com/GoVanAI/mem-graph",
+  "install": "# git clone --depth 1 https://github.com/GoVanAI/mem-graph\n# See source for mcpServers config block"
+}

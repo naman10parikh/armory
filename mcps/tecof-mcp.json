@@ -1,0 +1,7 @@
+{
+  "name": "tecof-mcp",
+  "description": "MCP server for the Tecof Developer API that reads theme components from disk, converts agent-written sections into editor documents, and manages draft pages (create, update, delete, preview) with validation and multi-language support.",
+  "source_repo": "tecof/tecof-mcp",
+  "source_url": "https://github.com/tecof/tecof-mcp",
+  "install": "npx -y tecof-mcp"
+}

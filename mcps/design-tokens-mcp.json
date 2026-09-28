@@ -1,0 +1,7 @@
+{
+  "name": "design-tokens-mcp",
+  "description": "Manages design tokens (colors, spacing, fonts) in a JSON file and enables agents to read, write, export, and detect drift between tokens and CSS via MCP.",
+  "source_repo": "N-Link-Lab/design-tokens-mcp",
+  "source_url": "https://github.com/N-Link-Lab/design-tokens-mcp",
+  "install": "npx -y design-tokens-mcp"
+}

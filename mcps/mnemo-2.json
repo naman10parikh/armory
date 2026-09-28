@@ -1,0 +1,7 @@
+{
+  "name": "mnemo-2",
+  "description": "A local-first memory server for AI tools that provides cross-tool, consent-gated, and auditable memory management via MCP.",
+  "source_repo": "fozankhana/mnemo",
+  "source_url": "https://github.com/fozankhana/mnemo",
+  "install": "# git clone --depth 1 https://github.com/fozankhana/mnemo\n# See source for mcpServers config block"
+}

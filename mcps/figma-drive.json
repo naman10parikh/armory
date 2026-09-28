@@ -1,0 +1,7 @@
+{
+  "name": "figma-drive",
+  "description": "Exports frames from Figma and uploads them to Google Drive, with automated folder creation.",
+  "source_repo": "angelostark/stark-figma-drive-mcp",
+  "source_url": "https://github.com/angelostark/stark-figma-drive-mcp",
+  "install": "npx -y stark-figma-drive-mcp"
+}

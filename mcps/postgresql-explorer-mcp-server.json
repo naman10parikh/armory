@@ -1,0 +1,7 @@
+{
+  "name": "postgresql-explorer-mcp-server",
+  "description": "A FastMCP server for read-only introspection of PostgreSQL databases, providing tools to list databases, schemas, tables, columns, and relations.",
+  "source_repo": "pavanjava/mcp_course",
+  "source_url": "https://github.com/pavanjava/mcp_course",
+  "install": "# git clone --depth 1 https://github.com/pavanjava/mcp_course\n# See source for mcpServers config block"
+}

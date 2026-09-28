@@ -1,0 +1,7 @@
+{
+  "name": "polydesk",
+  "description": "Enables automated research and trading on Polymarket prediction markets through a Notion dashboard, with AI-powered analysis and human-in-the-loop trade approval.",
+  "source_repo": "yangfei077-cyber/notion-challenge-mcp",
+  "source_url": "https://github.com/yangfei077-cyber/notion-challenge-mcp",
+  "install": "npx -y notion-challenge-mcp"
+}

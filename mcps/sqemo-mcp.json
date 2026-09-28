@@ -1,0 +1,7 @@
+{
+  "name": "sqemo-mcp",
+  "description": "MCP server for Sqemo, a web-based ERD tool with team naming standards. 34 tools: read/edit entities, attributes, and relationships; generate physical names from a shared glossary and naming rules; SQL (7 dialects) and DBML import/export; ERD lint, diff, and ALTER generation.",
+  "source_repo": "sqemo/sqemo-mcp",
+  "source_url": "https://github.com/sqemo/sqemo-mcp",
+  "install": "npx -y sqemo-mcp"
+}

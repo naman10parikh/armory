@@ -1,0 +1,7 @@
+{
+  "name": "alolite-ssh-mcp-server",
+  "description": "Enables SSH remote command execution on remote machines with persistent connections, supporting automatic key discovery and connection pooling.",
+  "source_repo": "jppradhan/ssh-mcp",
+  "source_url": "https://github.com/jppradhan/ssh-mcp",
+  "install": "npx -y ssh-mcp"
+}

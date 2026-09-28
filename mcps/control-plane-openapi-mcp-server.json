@@ -1,0 +1,7 @@
+{
+  "name": "control-plane-openapi-mcp-server",
+  "description": "Enables AI assistants to explore and interact with the Facets Control Plane API via natural language, supporting operations like searching endpoints, loading schemas, and making authenticated API calls.",
+  "source_repo": "Facets-cloud/control-plane-openapi-mcp",
+  "source_url": "https://github.com/Facets-cloud/control-plane-openapi-mcp",
+  "install": "npx -y control-plane-openapi-mcp"
+}

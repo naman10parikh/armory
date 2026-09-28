@@ -1,0 +1,7 @@
+{
+  "name": "xiaozhi-bridge",
+  "description": "Connects a Xiaozhi AI voice agent to a Windows PC, enabling autonomous control via 58 MCP tools for screen vision, web browsing, file management, and system control.",
+  "source_repo": "weemadscotsman/xiaozhi-bridge",
+  "source_url": "https://github.com/weemadscotsman/xiaozhi-bridge",
+  "install": "# git clone --depth 1 https://github.com/weemadscotsman/xiaozhi-bridge\n# See source for mcpServers config block"
+}

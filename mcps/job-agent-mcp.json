@@ -1,0 +1,7 @@
+{
+  "name": "job-agent-mcp",
+  "description": "MCP server that aggregates and deduplicates job listings from multiple public sources, ranks them against a user's resume, and exposes tools for searching, viewing details, explaining fit, and tracking applications.",
+  "source_repo": "Shreya123989/job-agent-mcp",
+  "source_url": "https://github.com/Shreya123989/job-agent-mcp",
+  "install": "npx -y job-agent-mcp"
+}

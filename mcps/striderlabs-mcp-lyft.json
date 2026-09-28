@@ -1,0 +1,7 @@
+{
+  "name": "striderlabs-mcp-lyft",
+  "description": "MCP server connector for Lyft ride-sharing — request rides, get fare estimates, and track trips via browser automation.",
+  "source_repo": "markswendsen-code/mcp-lyft",
+  "source_url": "https://github.com/markswendsen-code/mcp-lyft",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-lyft\n# See source for mcpServers config block"
+}

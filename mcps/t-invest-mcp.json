@@ -1,0 +1,7 @@
+{
+  "name": "t-invest-mcp",
+  "description": "Enables natural language interaction with your T-Invest brokerage account for portfolio analysis, dividend tracking, and optional trading with safety confirmations.",
+  "source_repo": "human-turn/t-invest-mcp",
+  "source_url": "https://github.com/human-turn/t-invest-mcp",
+  "install": "npx -y t-invest-mcp"
+}

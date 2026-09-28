@@ -1,0 +1,7 @@
+{
+  "name": "ts-language-mcp",
+  "description": "Enables AI coding agents to interact with TypeScript projects through compiler-level code intelligence, providing tools for navigation, type information, diagnostics, refactoring, and semantic search.",
+  "source_repo": "jgauffin/ts-language-mcp",
+  "source_url": "https://github.com/jgauffin/ts-language-mcp",
+  "install": "npx -y ts-language-mcp"
+}

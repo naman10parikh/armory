@@ -1,0 +1,7 @@
+{
+  "name": "mobile-mcp-server",
+  "description": "A mobile automation MCP server providing 39 tools for Android and iOS device control, enabling AI agents to perform UI interactions, screenshot analysis, and coordinate-based operations.",
+  "source_repo": "congwa/mobile-agent",
+  "source_url": "https://github.com/congwa/mobile-agent",
+  "install": "# git clone --depth 1 https://github.com/congwa/mobile-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "capacities-mcp",
+  "description": "An MCP server for Capacities API 2.0 that enables AI agents to discover, create, read, update, and delete objects, blocks, and daily notes with structured JSON or Markdown, using personal API tokens.",
+  "source_repo": "Nyrest/capacities-mcp-v2",
+  "source_url": "https://github.com/Nyrest/capacities-mcp-v2",
+  "install": "# git clone --depth 1 https://github.com/Nyrest/capacities-mcp-v2\n# See source for mcpServers config block"
+}

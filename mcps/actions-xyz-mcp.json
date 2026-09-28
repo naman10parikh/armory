@@ -1,0 +1,7 @@
+{
+  "name": "actions-xyz-mcp",
+  "description": "Extract structured action items from meeting transcripts and notes using the actions.xyz API",
+  "source_repo": "Blockchainpreneur/actions-xyz-mcp",
+  "source_url": "https://github.com/Blockchainpreneur/actions-xyz-mcp",
+  "install": "npx -y actions-xyz-mcp"
+}

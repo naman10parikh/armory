@@ -1,0 +1,7 @@
+{
+  "name": "jiri-mcp",
+  "description": "Enables AI agents to manage Jira Cloud issues through natural language, including searching, creating, updating, commenting, assigning, and transitioning issues.",
+  "source_repo": "chatchawarn035/jira-mcp-type-script",
+  "source_url": "https://github.com/chatchawarn035/jira-mcp-type-script",
+  "install": "# git clone --depth 1 https://github.com/chatchawarn035/jira-mcp-type-script\n# See source for mcpServers config block"
+}

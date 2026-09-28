@@ -1,0 +1,7 @@
+{
+  "name": "pdf-extract-mcp",
+  "description": "FastMCP server for PDF text extraction and metadata retrieval, providing structured JSON output for pages, metadata, and specific page ranges.",
+  "source_repo": "palimpsest-labs/pdf-extract-mcp",
+  "source_url": "https://github.com/palimpsest-labs/pdf-extract-mcp",
+  "install": "npx -y pdf-extract-mcp"
+}

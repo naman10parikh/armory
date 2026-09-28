@@ -1,0 +1,7 @@
+{
+  "name": "voiceos-instagram-integration",
+  "description": "Enables voice-controlled Instagram account management from the Mac notch, including reading insights, comments, DMs, and publishing photos or carousels via natural language, with scheduled publishing and secure photo handling.",
+  "source_repo": "AravDharnikota/voiceos-instagram-integration",
+  "source_url": "https://github.com/AravDharnikota/voiceos-instagram-integration",
+  "install": "# git clone --depth 1 https://github.com/AravDharnikota/voiceos-instagram-integration\n# See source for mcpServers config block"
+}

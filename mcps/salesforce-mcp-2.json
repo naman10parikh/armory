@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-mcp-2",
+  "description": "An MCP server that provides comprehensive access to Salesforce Tooling API for metadata management, SOQL queries, code analysis, and debugging through Claude and other AI assistants.",
+  "source_repo": "ryu-727/salesforce-mcp",
+  "source_url": "https://github.com/ryu-727/salesforce-mcp",
+  "install": "npx -y salesforce-mcp"
+}

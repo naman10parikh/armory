@@ -1,0 +1,7 @@
+{
+  "name": "figmingo-mcp",
+  "description": "Local-first Figma MCP server providing unlimited read access via Personal Access Token, HTML replica generation with parity verification, and write-to-canvas through a companion plugin bridge.",
+  "source_repo": "wenym8/figmingo-mcp",
+  "source_url": "https://github.com/wenym8/figmingo-mcp",
+  "install": "npx -y figmingo-mcp"
+}

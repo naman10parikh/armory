@@ -1,0 +1,7 @@
+{
+  "name": "mcp-blender-server",
+  "description": "A Python-based MCP server for integrating Blender and 3D modeling capabilities with OpenClaw AI agents.",
+  "source_repo": "tinhtinhcd/mcp-blender-server",
+  "source_url": "https://github.com/tinhtinhcd/mcp-blender-server",
+  "install": "# git clone --depth 1 https://github.com/tinhtinhcd/mcp-blender-server\n# See source for mcpServers config block"
+}

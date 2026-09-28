@@ -1,0 +1,7 @@
+{
+  "name": "jw-org-mcp",
+  "description": "An MCP server that provides controlled, verifiable access to official jw.org content, enabling AI applications to search articles, retrieve full articles, and lookup scriptures without hallucinations.",
+  "source_repo": "Bjern/jw-org-mcp",
+  "source_url": "https://github.com/Bjern/jw-org-mcp",
+  "install": "npx -y jw-org-mcp"
+}

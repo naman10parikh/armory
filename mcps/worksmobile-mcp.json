@@ -1,0 +1,7 @@
+{
+  "name": "worksmobile-mcp",
+  "description": "Unofficial MCP server for NAVER WORKS Drive admin tasks, enabling shared-drive governance, permission management, and file operations via service-account delegation.",
+  "source_repo": "z0nam/worksmobile-mcp",
+  "source_url": "https://github.com/z0nam/worksmobile-mcp",
+  "install": "npx -y worksmobile-mcp"
+}

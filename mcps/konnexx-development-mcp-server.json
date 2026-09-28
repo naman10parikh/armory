@@ -1,0 +1,7 @@
+{
+  "name": "konnexx-development-mcp-server",
+  "description": "Centralized MCP server that provides standardized development workflow commands to Cursor AI, auto-detecting project type (Laravel, Next.js, Flutter, Architecture) and offering relevant commands for implementation, testing, and commits.",
+  "source_repo": "Konnexx-Software-Developers/konnexx-dev-mcp",
+  "source_url": "https://github.com/Konnexx-Software-Developers/konnexx-dev-mcp",
+  "install": "npx -y konnexx-dev-mcp"
+}

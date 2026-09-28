@@ -1,0 +1,7 @@
+{
+  "name": "analytics-selfhosted-mcp",
+  "description": "Self-hosted MCP server for Google Analytics over HTTP, providing URL-addressable access with API key auth. It enables clients to run reports, list accounts/properties, and use compact paginated reports for token efficiency.",
+  "source_repo": "ukituki/analytics-mcp",
+  "source_url": "https://github.com/ukituki/analytics-mcp",
+  "install": "npx -y analytics-mcp"
+}

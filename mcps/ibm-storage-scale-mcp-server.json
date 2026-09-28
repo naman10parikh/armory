@@ -1,0 +1,7 @@
+{
+  "name": "ibm-storage-scale-mcp-server",
+  "description": "Model Context Protocol (MCP) server for interacting with IBM Storage Scale clusters, enabling management of storage resources through natural language.",
+  "source_repo": "IBM/ibm-storage-scale-mcp-server",
+  "source_url": "https://github.com/IBM/ibm-storage-scale-mcp-server",
+  "install": "npx -y ibm-storage-scale-mcp-server"
+}

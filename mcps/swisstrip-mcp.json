@@ -1,0 +1,7 @@
+{
+  "name": "swisstrip-mcp",
+  "description": "Connects AI assistants to Swiss Federal Railways (SBB/CFF/FFS) data: train schedules, station search, ticket prices, and direct ticket purchase links.",
+  "source_repo": "Fabsbags/swisstrip-mcp",
+  "source_url": "https://github.com/Fabsbags/swisstrip-mcp",
+  "install": "npx -y swisstrip-mcp"
+}

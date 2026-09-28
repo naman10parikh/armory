@@ -1,0 +1,7 @@
+{
+  "name": "osint-mcp",
+  "description": "Provides 26 free OSINT tools as MCP tools for AI agents, enabling automated OSINT investigations directly from conversations.",
+  "source_repo": "rjn32s/osint-mcp",
+  "source_url": "https://github.com/rjn32s/osint-mcp",
+  "install": "npx -y osint-mcp"
+}

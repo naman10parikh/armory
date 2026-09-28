@@ -1,0 +1,7 @@
+{
+  "name": "llm-panel",
+  "description": "A small MCP server that lets Claude (or any MCP client) ask other models what they think.",
+  "source_repo": "dominiclynchwoodlands-ui/LLM-Panel",
+  "source_url": "https://github.com/dominiclynchwoodlands-ui/LLM-Panel",
+  "install": "# git clone --depth 1 https://github.com/dominiclynchwoodlands-ui/LLM-Panel\n# See source for mcpServers config block"
+}

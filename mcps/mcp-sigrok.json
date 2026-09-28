@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sigrok",
+  "description": "MCP server that exposes all functionality of sigrok-cli as MCP tools, enabling hardware initialization, signal acquisition, and protocol decoding for logic analyzers.",
+  "source_repo": "daedalus/mcp-sigrok",
+  "source_url": "https://github.com/daedalus/mcp-sigrok",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-sigrok\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "taiwan-isbn-mcp",
+  "description": "A MCP server for querying Taiwan ISBN book data, supporting search by title, author, publisher, batch ISBN lookup, and browsing new books.",
+  "source_repo": "iamhsuliheng/taiwan-isbn-mcp",
+  "source_url": "https://github.com/iamhsuliheng/taiwan-isbn-mcp",
+  "install": "npx -y taiwan-isbn-mcp"
+}

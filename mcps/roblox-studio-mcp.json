@@ -1,0 +1,7 @@
+{
+  "name": "roblox-studio-mcp",
+  "description": "Connects AI assistants to Roblox Studio, enabling them to interact with instance hierarchy, edit Luau scripts, manage properties, and sync files over a local connection.",
+  "source_repo": "aaronaalmendarez/roblox-mcp",
+  "source_url": "https://github.com/aaronaalmendarez/roblox-mcp",
+  "install": "npx -y roblox-mcp"
+}

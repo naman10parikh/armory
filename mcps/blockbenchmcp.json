@@ -1,0 +1,7 @@
+{
+  "name": "blockbenchmcp",
+  "description": "Enables AI assistants to build Minecraft models, textures, and animations directly inside Blockbench through the Model Context Protocol.",
+  "source_repo": "sosadly/blockbench-mcp",
+  "source_url": "https://github.com/sosadly/blockbench-mcp",
+  "install": "npx -y blockbench-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "io-github-matthewtracy-yagami",
+  "description": "Open-source AI context firewall for governed model, retrieval, memory, and tool access. It enables OpenAI SDK applications to adopt governed access via a single base_url change and includes MCP support.",
+  "source_repo": "MatthewTracy/yagami",
+  "source_url": "https://github.com/MatthewTracy/yagami",
+  "install": "# git clone --depth 1 https://github.com/MatthewTracy/yagami\n# See source for mcpServers config block"
+}

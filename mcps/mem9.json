@@ -1,0 +1,7 @@
+{
+  "name": "mem9",
+  "description": "Mem9 is an open-source, project-scoped memory service for Codex, Claude, and other MCP-compatible coding agents. It keeps durable project knowledge and CLI session metadata available across tools and conversations.",
+  "source_repo": "luuhung93/mem9",
+  "source_url": "https://github.com/luuhung93/mem9",
+  "install": "# git clone --depth 1 https://github.com/luuhung93/mem9\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "home-network-mcp",
+  "description": "Lets an LLM client monitor devices, services, disk usage, and uptime in a home network and home lab.",
+  "source_repo": "mirenchaps/home-network-mcp",
+  "source_url": "https://github.com/mirenchaps/home-network-mcp",
+  "install": "npx -y home-network-mcp"
+}

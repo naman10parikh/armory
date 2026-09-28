@@ -1,0 +1,7 @@
+{
+  "name": "cloud-mcp",
+  "description": "Wraps multiple cloud CLIs (AWS, GCP, Azure, OCI) into a unified command interface and exposes them as MCP tools for AI assistants.",
+  "source_repo": "LesterAJohn/cloud-mcp",
+  "source_url": "https://github.com/LesterAJohn/cloud-mcp",
+  "install": "npx -y cloud-mcp"
+}

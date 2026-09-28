@@ -1,0 +1,7 @@
+{
+  "name": "grain-mcp-server",
+  "description": "Enables browsing, retrieving, and downloading meeting recordings and transcripts from Grain via browser automation, bypassing the need for enterprise API access.",
+  "source_repo": "eadm/grain-mcp-server",
+  "source_url": "https://github.com/eadm/grain-mcp-server",
+  "install": "npx -y grain-mcp-server"
+}

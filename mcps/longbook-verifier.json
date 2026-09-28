@@ -1,0 +1,7 @@
+{
+  "name": "longbook-verifier",
+  "description": "An MCP server that evaluates whether retrieval methods and AI outputs are grounded in long narrative manuscripts by retrieving evidence and scoring coverage deterministically, without external model APIs. It provides tools for chunking, indexing, retrieval, and evaluation.",
+  "source_repo": "Mormolykos/longbook-rag-eval-lab",
+  "source_url": "https://github.com/Mormolykos/longbook-rag-eval-lab",
+  "install": "# git clone --depth 1 https://github.com/Mormolykos/longbook-rag-eval-lab\n# See source for mcpServers config block"
+}

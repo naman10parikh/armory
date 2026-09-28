@@ -1,0 +1,7 @@
+{
+  "name": "agentguard",
+  "description": "Provides security checks for AI agents, including secret scanning, CVE lookup, and dependency vulnerability scanning, all running locally except for CVE lookups.",
+  "source_repo": "shuaicongxiaomai/agentguard",
+  "source_url": "https://github.com/shuaicongxiaomai/agentguard",
+  "install": "# git clone --depth 1 https://github.com/shuaicongxiaomai/agentguard\n# See source for mcpServers config block"
+}

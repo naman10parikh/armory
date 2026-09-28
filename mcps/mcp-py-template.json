@@ -1,0 +1,7 @@
+{
+  "name": "mcp-py-template",
+  "description": "Production-ready MCP server template in Python with example tool, resource, and prompt.",
+  "source_repo": "vidyasagarr7/mcp-py-template",
+  "source_url": "https://github.com/vidyasagarr7/mcp-py-template",
+  "install": "# git clone --depth 1 https://github.com/vidyasagarr7/mcp-py-template\n# See source for mcpServers config block"
+}

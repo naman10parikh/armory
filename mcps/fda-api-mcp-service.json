@@ -1,0 +1,7 @@
+{
+  "name": "fda-api-mcp-service",
+  "description": "Enables searching FDA food recalls and adverse event reports through natural language, supporting filters and pagination.",
+  "source_repo": "pdp889/mcp-fda",
+  "source_url": "https://github.com/pdp889/mcp-fda",
+  "install": "# git clone --depth 1 https://github.com/pdp889/mcp-fda\n# See source for mcpServers config block"
+}

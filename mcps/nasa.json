@@ -1,0 +1,7 @@
+{
+  "name": "nasa",
+  "description": "MCP server that wraps three NASA public APIs (Astronomy Picture of the Day, Mars rover photos, and near-Earth objects) as tools for AI assistants.",
+  "source_repo": "rudylimxl/nasa_test_mcp",
+  "source_url": "https://github.com/rudylimxl/nasa_test_mcp",
+  "install": "npx -y nasa_test_mcp"
+}

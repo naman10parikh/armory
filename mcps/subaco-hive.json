@@ -1,0 +1,7 @@
+{
+  "name": "subaco-hive",
+  "description": "An MCP server for multi-agent collaboration, providing team messaging and long-term semantic memory with trust-based access control and single-writer consistency.",
+  "source_repo": "subaco-dev/subaco-hive",
+  "source_url": "https://github.com/subaco-dev/subaco-hive",
+  "install": "# git clone --depth 1 https://github.com/subaco-dev/subaco-hive\n# See source for mcpServers config block"
+}

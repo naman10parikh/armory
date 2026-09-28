@@ -1,0 +1,7 @@
+{
+  "name": "agent-claim-mcp",
+  "description": "Use Agent Claim MCP when multiple coding agents share one worktree and you need a tiny local coordination primitive before edits, not a full orchestration framework. It gives agents one job: claim paths, detect collisions, and release ownership so parallel work stops stomping the same files.",
+  "source_repo": "vk0dev/agent-claim-mcp",
+  "source_url": "https://github.com/vk0dev/agent-claim-mcp",
+  "install": "npx -y agent-claim-mcp"
+}

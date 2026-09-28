@@ -1,0 +1,7 @@
+{
+  "name": "free-etf-flows-mcp",
+  "description": "Model Context Protocol (MCP) server providing real-time institutional Spot Bitcoin (BTC) and Ethereum (ETH) daily net flow metrics for AI agents.",
+  "source_repo": "yasinozen35/free-etf-flows-mcp",
+  "source_url": "https://github.com/yasinozen35/free-etf-flows-mcp",
+  "install": "npx -y free-etf-flows-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "image-gen-mcp-server",
+  "description": "A multi-provider MCP server that enables AI agents to generate and edit images across OpenAI, Google Gemini, Azure, Vertex, and OpenRouter with a unified API.",
+  "source_repo": "simonChoi034/image-gen-mcp",
+  "source_url": "https://github.com/simonChoi034/image-gen-mcp",
+  "install": "npx -y image-gen-mcp"
+}

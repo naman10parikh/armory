@@ -1,0 +1,7 @@
+{
+  "name": "modelmux",
+  "description": "Enables AI agents like Claude Code, Codex, and Perplexity to call each other as tools directly from the terminal, supporting text, code, images, and PDFs passed by file path.",
+  "source_repo": "JRWoodcock/modelmux",
+  "source_url": "https://github.com/JRWoodcock/modelmux",
+  "install": "# git clone --depth 1 https://github.com/JRWoodcock/modelmux\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pruvagraph-mcp-server",
+  "description": "Enables Claude Code to query codebase knowledge graphs directly, reducing token usage 5x–71x by reading a compact graph.json instead of raw files.",
+  "source_repo": "PRUVALEX-Systems/pruvagraph",
+  "source_url": "https://github.com/PRUVALEX-Systems/pruvagraph",
+  "install": "# git clone --depth 1 https://github.com/PRUVALEX-Systems/pruvagraph\n# See source for mcpServers config block"
+}

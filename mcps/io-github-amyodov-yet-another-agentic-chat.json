@@ -1,0 +1,7 @@
+{
+  "name": "io-github-amyodov-yet-another-agentic-chat",
+  "description": "An MCP server that lets multiple agent sessions (e.g., Claude Code, Claude Desktop) on the same machine communicate over shared channels like walkie-talkies, enabling them to exchange messages and coordinate tasks without any central broker.",
+  "source_repo": "amyodov/yet-another-agentic-chat",
+  "source_url": "https://github.com/amyodov/yet-another-agentic-chat",
+  "install": "# git clone --depth 1 https://github.com/amyodov/yet-another-agentic-chat\n# See source for mcpServers config block"
+}

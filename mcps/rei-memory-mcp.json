@@ -1,0 +1,7 @@
+{
+  "name": "rei-memory-mcp",
+  "description": "Read-only MCP server that lets Claude/Rei query a curated SEED_KERNEL repository of over 1,677 theories via full-text search, ID lookup, or STEP metadata.",
+  "source_repo": "fc0web/rei-memory-mcp",
+  "source_url": "https://github.com/fc0web/rei-memory-mcp",
+  "install": "npx -y rei-memory-mcp"
+}

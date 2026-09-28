@@ -1,0 +1,7 @@
+{
+  "name": "mcp-finance",
+  "description": "MCP server for capturing and classifying daily expenses, built with Node.js and TypeScript, using Postgres and optional LLM-based classification.",
+  "source_repo": "toothlesstarantula/mcp-finance",
+  "source_url": "https://github.com/toothlesstarantula/mcp-finance",
+  "install": "# git clone --depth 1 https://github.com/toothlesstarantula/mcp-finance\n# See source for mcpServers config block"
+}

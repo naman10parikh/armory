@@ -1,0 +1,7 @@
+{
+  "name": "trendradar",
+  "description": "This MCP server is a hot news aggregator and push assistant that supports AI analysis, multi-language translation, and rapid deployment via Docker or local setup.",
+  "source_repo": "LeiTinG998/TrendRadar",
+  "source_url": "https://github.com/LeiTinG998/TrendRadar",
+  "install": "# git clone --depth 1 https://github.com/LeiTinG998/TrendRadar\n# See source for mcpServers config block"
+}

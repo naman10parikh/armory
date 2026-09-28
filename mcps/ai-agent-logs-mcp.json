@@ -1,0 +1,7 @@
+{
+  "name": "ai-agent-logs-mcp",
+  "description": "Enables AI agents to manage prompts and sessions via the ai-agent-logs API, with tools for health checks, login, listing/creating prompts, and retrieving sessions.",
+  "source_repo": "ArminDashti/ai-agent-logs-mcp",
+  "source_url": "https://github.com/ArminDashti/ai-agent-logs-mcp",
+  "install": "npx -y ai-agent-logs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-openmemory",
+  "description": "Enables Claude to remember conversations and learn over time by storing and recalling messages, memory abstracts, and recent history using a local SQLite database.",
+  "source_repo": "baryhuang/mcp-openmemory",
+  "source_url": "https://github.com/baryhuang/mcp-openmemory",
+  "install": "# git clone --depth 1 https://github.com/baryhuang/mcp-openmemory\n# See source for mcpServers config block"
+}

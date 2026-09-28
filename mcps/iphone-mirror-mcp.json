@@ -1,0 +1,7 @@
+{
+  "name": "iphone-mirror-mcp",
+  "description": "An MCP server that lets LLMs drive a real iPhone through macOS iPhone Mirroring, with tools for screen capture, OCR, taps, typing, and Xcode build/test/install automation.",
+  "source_repo": "nickatnight96/iphone-mirror-mcp",
+  "source_url": "https://github.com/nickatnight96/iphone-mirror-mcp",
+  "install": "npx -y iphone-mirror-mcp"
+}

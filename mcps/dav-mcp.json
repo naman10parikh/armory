@@ -1,0 +1,7 @@
+{
+  "name": "dav-mcp",
+  "description": "Transform AI agents into orchestrating assistants managing calendars, contacts, and tasks via CalDAV, CardDAV, and VTODO protocols.",
+  "source_repo": "PhilflowIOOrg/dav-mcp",
+  "source_url": "https://github.com/PhilflowIOOrg/dav-mcp",
+  "install": "npx -y dav-mcp"
+}

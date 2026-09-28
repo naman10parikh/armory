@@ -1,0 +1,7 @@
+{
+  "name": "arcana-mcp",
+  "description": "Semantic vector DB as an MCP server for Claude Code — SQLite + FTS5 + local ONNX embeddings. Gives Claude persistent, searchable project knowledge across conversations.",
+  "source_repo": "samelie/arcana-mcp",
+  "source_url": "https://github.com/samelie/arcana-mcp",
+  "install": "npx -y arcana-mcp"
+}

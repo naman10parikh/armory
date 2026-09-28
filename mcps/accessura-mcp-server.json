@@ -1,0 +1,7 @@
+{
+  "name": "accessura-mcp-server",
+  "description": "Enables AI buyers and sellers to interact with the Accessura encrypted-data marketplace, supporting bidding, settlement, x402 payments, claim decryption, and seller payout management.",
+  "source_repo": "accessura/agent-kit",
+  "source_url": "https://github.com/accessura/agent-kit",
+  "install": "# git clone --depth 1 https://github.com/accessura/agent-kit\n# See source for mcpServers config block"
+}

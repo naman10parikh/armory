@@ -1,0 +1,7 @@
+{
+  "name": "confirm-mcp",
+  "description": "Provides a human-approval tool for MCP-compatible agents, pausing execution until a human approves or edits the action, with every decision logged.",
+  "source_repo": "brendanlim/confirm-mcp",
+  "source_url": "https://github.com/brendanlim/confirm-mcp",
+  "install": "npx -y confirm-mcp"
+}

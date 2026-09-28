@@ -1,0 +1,7 @@
+{
+  "name": "superfaktura-mcp-server",
+  "description": "Model Context Protocol (MCP) server for SuperFaktura invoicing system. Enables AI assistants to interact with SuperFaktura API for managing invoices, clients, and expenses.",
+  "source_repo": "jurajgh/superfaktura-mcp",
+  "source_url": "https://github.com/jurajgh/superfaktura-mcp",
+  "install": "npx -y superfaktura-mcp"
+}

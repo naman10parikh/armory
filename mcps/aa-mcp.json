@@ -1,0 +1,7 @@
+{
+  "name": "aa-mcp",
+  "description": "Enables AI agents to query LLM and multimodal model benchmarks, pricing, speed, and track model updates via structured diffs using the Artificial Analysis public API.",
+  "source_repo": "Leev1s/aa-mcp",
+  "source_url": "https://github.com/Leev1s/aa-mcp",
+  "install": "npx -y aa-mcp"
+}

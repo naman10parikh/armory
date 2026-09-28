@@ -1,0 +1,7 @@
+{
+  "name": "clocknext-mcp-server",
+  "description": "Integrates usage-based billing into AI coding tools, enabling meter usage, signal verification, and billing management via the ClockNext API.",
+  "source_repo": "ClockNext/clocknext-mcp",
+  "source_url": "https://github.com/ClockNext/clocknext-mcp",
+  "install": "npx -y clocknext-mcp"
+}

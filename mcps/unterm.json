@@ -1,0 +1,7 @@
+{
+  "name": "unterm",
+  "description": "The terminal AI agents can drive: a cross-platform desktop terminal (macOS/Linux/Windows, MIT) that runs a local MCP server. Spawn tabs/panes, run commands with structured output, read screens and full scrollback, take scrolling screenshots, record sessions with secret redaction, switch identity pro",
+  "source_repo": "zhitongblog/unterm",
+  "source_url": "https://github.com/zhitongblog/unterm",
+  "install": "# git clone --depth 1 https://github.com/zhitongblog/unterm\n# See source for mcpServers config block"
+}

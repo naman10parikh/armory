@@ -1,0 +1,7 @@
+{
+  "name": "gw-x-research-mcp",
+  "description": "A read-only MCP server that lets ChatGPT use Grok's x_search to retrieve and analyze posts and threads from specified X accounts, returning Chinese research reports with source links.",
+  "source_repo": "wzh605574547gin/gw-x-research-mcp",
+  "source_url": "https://github.com/wzh605574547gin/gw-x-research-mcp",
+  "install": "npx -y gw-x-research-mcp"
+}

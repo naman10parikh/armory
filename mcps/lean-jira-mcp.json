@@ -1,0 +1,7 @@
+{
+  "name": "lean-jira-mcp",
+  "description": "A lean, agent-first MCP server for JIRA Cloud that exposes 10 intent-shaped tools for searching, creating, updating issues, and more, with human-friendly references and recovery hints.",
+  "source_repo": "wjarka/lean-jira-mcp",
+  "source_url": "https://github.com/wjarka/lean-jira-mcp",
+  "install": "npx -y lean-jira-mcp"
+}

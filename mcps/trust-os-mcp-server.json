@@ -1,0 +1,7 @@
+{
+  "name": "trust-os-mcp-server",
+  "description": "MCP server for verifying high-impact decisions with Trust OS.",
+  "source_repo": "trustos-trustfolio/trustos-mcp-server",
+  "source_url": "https://github.com/trustos-trustfolio/trustos-mcp-server",
+  "install": "npx -y trustos-mcp-server"
+}

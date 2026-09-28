@@ -1,0 +1,7 @@
+{
+  "name": "nemesis-shield",
+  "description": "A Model Context Protocol server that gives AI coding agents 16 tools to secure what they build: install the one-line Nemesis Shield SDK, learn/approve/enforce app protection, put a domain behind a Cloudflare-like edge, guard LLMs (OWASP LLM Top 10), and create + score Omniguard business-logic fraud",
+  "source_repo": "eobi/nemesis_shield_sdks",
+  "source_url": "https://github.com/eobi/nemesis_shield_sdks",
+  "install": "# git clone --depth 1 https://github.com/eobi/nemesis_shield_sdks\n# See source for mcpServers config block"
+}

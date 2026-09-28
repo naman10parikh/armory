@@ -1,0 +1,7 @@
+{
+  "name": "hachiman",
+  "description": "Enables AI agents and MCP servers to operate under autonomous security enforcement, including pre-deployment scanning, per-call authorization, runtime monitoring, incident containment, and comprehensive auditing.",
+  "source_repo": "nidhish28guhan-netizen/hachiman-agent",
+  "source_url": "https://github.com/nidhish28guhan-netizen/hachiman-agent",
+  "install": "# git clone --depth 1 https://github.com/nidhish28guhan-netizen/hachiman-agent\n# See source for mcpServers config block"
+}

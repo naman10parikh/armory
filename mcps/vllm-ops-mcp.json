@@ -1,0 +1,7 @@
+{
+  "name": "vllm-ops-mcp",
+  "description": "Read-only ops/health MCP server for a local vLLM instance: health tiers, GPU/VRAM, service status.",
+  "source_repo": "jaimenbell/vllm-ops-mcp",
+  "source_url": "https://github.com/jaimenbell/vllm-ops-mcp",
+  "install": "npx -y vllm-ops-mcp"
+}

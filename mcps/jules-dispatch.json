@@ -1,0 +1,7 @@
+{
+  "name": "jules-dispatch",
+  "description": "MCP server for batch-dispatching coding tasks to Google Jules in parallel, with YAML task definitions, plan approval, and optional LLM-based task planning. Integrates with Claude Code and OpenAI Codex CLI as a tool.",
+  "source_repo": "Yuuqq/jules-dispatch",
+  "source_url": "https://github.com/Yuuqq/jules-dispatch",
+  "install": "# git clone --depth 1 https://github.com/Yuuqq/jules-dispatch\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "solaire-mcp",
+  "description": "A standalone MCP server that exposes YYLX gpt-image-2 image generation as a generate_image tool, returning inline images directly in the conversation via stdio.",
+  "source_repo": "hsolaire/solaire-mcp",
+  "source_url": "https://github.com/hsolaire/solaire-mcp",
+  "install": "npx -y solaire-mcp"
+}

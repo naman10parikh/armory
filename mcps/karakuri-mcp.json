@@ -1,0 +1,7 @@
+{
+  "name": "karakuri-mcp",
+  "description": "A modular MCP server that enables AI agents to efficiently call multiple specific APIs through plugins, currently including video generation via PiAPI Seedance, file downloads, and audit logging.",
+  "source_repo": "n416/karakuri-mcp",
+  "source_url": "https://github.com/n416/karakuri-mcp",
+  "install": "npx -y karakuri-mcp"
+}

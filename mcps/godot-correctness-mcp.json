@@ -1,0 +1,7 @@
+{
+  "name": "godot-correctness-mcp",
+  "description": "Offline static correctness MCP server for Godot 4.x GDScript projects that lints code, looks up API symbols, and validates scenes/resources, all without a running editor.",
+  "source_repo": "TMHSDigital/godot-correctness-mcp",
+  "source_url": "https://github.com/TMHSDigital/godot-correctness-mcp",
+  "install": "npx -y godot-correctness-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yandex-metrika-mcp-2",
+  "description": "Enables AI assistants to retrieve comprehensive analytics data from Yandex Metrika accounts, including traffic, content, e-commerce, and user demographics.",
+  "source_repo": "IlyaVorozhbit/yandex-metrika-mcp",
+  "source_url": "https://github.com/IlyaVorozhbit/yandex-metrika-mcp",
+  "install": "npx -y yandex-metrika-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eventin-mcp-server",
+  "description": "MCP server for interacting with the Eventin booking system, enabling natural language management of bookings, events, and venues.",
+  "source_repo": "emaratHossain/eventin-mcp-server",
+  "source_url": "https://github.com/emaratHossain/eventin-mcp-server",
+  "install": "npx -y eventin-mcp-server"
+}

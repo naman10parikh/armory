@@ -1,0 +1,7 @@
+{
+  "name": "llmsecurity-mcp",
+  "description": "Provides local, dependency-free security scanning tools for LLM configurations, prompts, RAG sources, and more, enabling AI coding agents to detect prompt injections and other vulnerabilities without external network access.",
+  "source_repo": "afterdarksys/llmsecurity-mcp",
+  "source_url": "https://github.com/afterdarksys/llmsecurity-mcp",
+  "install": "npx -y llmsecurity-mcp"
+}

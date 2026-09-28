@@ -1,0 +1,7 @@
+{
+  "name": "origin-mcp-kimi",
+  "description": "A local MCP server that enables AI assistants to control Origin/OriginPro on Windows via Python automation, with adaptive path detection to resolve import errors.",
+  "source_repo": "wxxuan2000-gif/origin-mcp-kimi",
+  "source_url": "https://github.com/wxxuan2000-gif/origin-mcp-kimi",
+  "install": "# git clone --depth 1 https://github.com/wxxuan2000-gif/origin-mcp-kimi\n# See source for mcpServers config block"
+}

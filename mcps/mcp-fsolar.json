@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fsolar",
+  "description": "MCP server that connects to Felicity Solar cloud battery data, allowing natural language queries about battery status, cell voltages, and charge state.",
+  "source_repo": "RicardoSantos/mcp-fsolar",
+  "source_url": "https://github.com/RicardoSantos/mcp-fsolar",
+  "install": "# git clone --depth 1 https://github.com/RicardoSantos/mcp-fsolar\n# See source for mcpServers config block"
+}

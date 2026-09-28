@@ -1,0 +1,7 @@
+{
+  "name": "mountaineers-mcp-server",
+  "description": "Enables AI assistants to search and browse mountaineers.org for activities, courses, trip reports, and routes, and optionally access authenticated user data such as upcoming activities, badges, and member profiles.",
+  "source_repo": "dreamiurg/mountaineers-mcp",
+  "source_url": "https://github.com/dreamiurg/mountaineers-mcp",
+  "install": "npx -y mountaineers-mcp"
+}

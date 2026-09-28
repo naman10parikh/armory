@@ -1,0 +1,7 @@
+{
+  "name": "wicked-api-agent-first-api-services",
+  "description": "Real-time crypto, stock, and prediction-market data for agents — prices, indicators, funding rates, DeFi TVL, macro calendar, and an AI momentum score. Configure one Base wallet key and it just works. No signup, no dashboard, no subscription.",
+  "source_repo": "choaticpixels/WickedAPI_MCP",
+  "source_url": "https://github.com/choaticpixels/WickedAPI_MCP",
+  "install": "npx -y WickedAPI_MCP"
+}

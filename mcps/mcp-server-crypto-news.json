@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-crypto-news",
+  "description": "Free, no-auth crypto news API with 200+ sources for fetching real-time and historical crypto news.",
+  "source_repo": "nirholas/cryptocurrency.cv",
+  "source_url": "https://github.com/nirholas/cryptocurrency.cv",
+  "install": "# git clone --depth 1 https://github.com/nirholas/cryptocurrency.cv\n# See source for mcpServers config block"
+}

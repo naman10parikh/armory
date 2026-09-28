@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-pa-certid-o-negativa-de-d-bitos",
+  "description": "Consulta a Certidão Negativa de Débitos da SEFAZ do Pará em fonte oficial, com ferramenta de leitura para agentes de IA.",
+  "source_repo": "mcp-dir/sefaz_pa_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_pa_certidao_debitos-mcp",
+  "install": "npx -y sefaz_pa_certidao_debitos-mcp"
+}

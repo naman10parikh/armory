@@ -1,0 +1,7 @@
+{
+  "name": "load-planner-mcp",
+  "description": "Enables optimal freight-mode selection (air, sea-LCL, full container) by solving 3D bin-packing, cost optimization, and delivery-risk analysis behind two tools: solve for deterministic planning and explain for hallucination-proof natural-language narration of results.",
+  "source_repo": "bayraak/load-planner-mcp",
+  "source_url": "https://github.com/bayraak/load-planner-mcp",
+  "install": "npx -y load-planner-mcp"
+}

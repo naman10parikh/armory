@@ -1,0 +1,7 @@
+{
+  "name": "agent-bits",
+  "description": "Machine-readable utilities and datasets for AI agents. MCP + HTTP + x402.",
+  "source_repo": "rwaldman/agentbits",
+  "source_url": "https://github.com/rwaldman/agentbits",
+  "install": "# git clone --depth 1 https://github.com/rwaldman/agentbits\n# See source for mcpServers config block"
+}

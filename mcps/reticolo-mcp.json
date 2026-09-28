@@ -1,0 +1,7 @@
+{
+  "name": "reticolo-mcp",
+  "description": "MCP server for the RETICOLO V10 rigorous coupled-wave analysis solver, enabling agents to compute RCWA spectra, convergence scans, and field maps via MATLAB Engine API without launching the MATLAB desktop.",
+  "source_repo": "garbage-enzyme/RETICOLO_mcp",
+  "source_url": "https://github.com/garbage-enzyme/RETICOLO_mcp",
+  "install": "npx -y RETICOLO_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-mcp-server-template-2",
+  "description": "A production-ready TypeScript template for building Model Context Protocol (MCP) servers with Zod validation, structured logging, and seamless integration with AI agents like Claude Desktop and Cursor.",
+  "source_repo": "qmmughal/mcp-server-template",
+  "source_url": "https://github.com/qmmughal/mcp-server-template",
+  "install": "# git clone --depth 1 https://github.com/qmmughal/mcp-server-template\n# See source for mcpServers config block"
+}

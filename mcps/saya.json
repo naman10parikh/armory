@@ -1,0 +1,7 @@
+{
+  "name": "saya",
+  "description": "Enables agents to query team brain for memory, channels, decisions, skills, and readiness through a central remote MCP endpoint.",
+  "source_repo": "creative-int/saya-plugins",
+  "source_url": "https://github.com/creative-int/saya-plugins",
+  "install": "# git clone --depth 1 https://github.com/creative-int/saya-plugins\n# See source for mcpServers config block"
+}

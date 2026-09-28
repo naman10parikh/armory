@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dotnet-diagnostics",
+  "description": "Live .NET runtime diagnostics for AI assistants. Ask Claude to diagnose memory leaks, GC pressure, LOH fragmentation, and thread starvation in any running .NET process — no code changes required.",
+  "source_repo": "aayushmdesai/mcp-dotnet-diagnostics",
+  "source_url": "https://github.com/aayushmdesai/mcp-dotnet-diagnostics",
+  "install": "# git clone --depth 1 https://github.com/aayushmdesai/mcp-dotnet-diagnostics\n# See source for mcpServers config block"
+}

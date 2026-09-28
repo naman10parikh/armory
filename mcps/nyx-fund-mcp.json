@@ -1,0 +1,7 @@
+{
+  "name": "nyx-fund-mcp",
+  "description": "Provides hedge fund back-office calculations (fees, NAV, exposure, costs) and institutional LP report grading, accessible for free without an API key.",
+  "source_repo": "Nyx-Blockchain/nyx-fund-mcp",
+  "source_url": "https://github.com/Nyx-Blockchain/nyx-fund-mcp",
+  "install": "npx -y nyx-fund-mcp"
+}

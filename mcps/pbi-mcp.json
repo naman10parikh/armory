@@ -1,0 +1,7 @@
+{
+  "name": "pbi-mcp",
+  "description": "Enables local Power BI project (.pbip) automation, including model (TMDL) and report (PBIR) layer manipulation, without cloud dependencies. Provides 56 tools for building, editing, and validating reports and measures through natural language prompts.",
+  "source_repo": "rajdeepraoextras-dev/PBI-MCP-Server",
+  "source_url": "https://github.com/rajdeepraoextras-dev/PBI-MCP-Server",
+  "install": "npx -y PBI-MCP-Server"
+}

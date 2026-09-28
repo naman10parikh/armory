@@ -1,0 +1,7 @@
+{
+  "name": "steelmind-mcp",
+  "description": "Provides structured thinking with step-by-step reasoning and steel-manning verification for AI agents, backed by cognitive science research.",
+  "source_repo": "stabgan/steelmind-mcp",
+  "source_url": "https://github.com/stabgan/steelmind-mcp",
+  "install": "npx -y steelmind-mcp"
+}

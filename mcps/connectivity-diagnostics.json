@@ -1,0 +1,7 @@
+{
+  "name": "connectivity-diagnostics",
+  "description": "Enables AI assistants to perform real network diagnostics on the local machine, including ping, traceroute, DNS lookups, TLS checks, and more.",
+  "source_repo": "brocla/connectivity-mcp-server",
+  "source_url": "https://github.com/brocla/connectivity-mcp-server",
+  "install": "npx -y connectivity-mcp-server"
+}

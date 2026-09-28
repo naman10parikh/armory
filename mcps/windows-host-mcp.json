@@ -1,0 +1,7 @@
+{
+  "name": "windows-host-mcp",
+  "description": "An MCP server that runs on Linux and gives an MCP agent (e.g. Claude Code) SSH access to a Windows machine — to build, test, run commands, transfer files, and drive long-running or interactive jobs.",
+  "source_repo": "thnak/windows-host-mcp",
+  "source_url": "https://github.com/thnak/windows-host-mcp",
+  "install": "npx -y windows-host-mcp"
+}

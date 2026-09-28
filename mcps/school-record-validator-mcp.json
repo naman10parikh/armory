@@ -1,0 +1,7 @@
+{
+  "name": "school-record-validator-mcp",
+  "description": "Validates 2026 elementary school record narratives against official Korean MOE guidelines, detecting prohibited or review-required expressions, checking input lengths, and providing cited official sources via seven MCP tools.",
+  "source_repo": "ARTHONG1/-school-record-validator-mcp",
+  "source_url": "https://github.com/ARTHONG1/-school-record-validator-mcp",
+  "install": "npx -y -school-record-validator-mcp"
+}

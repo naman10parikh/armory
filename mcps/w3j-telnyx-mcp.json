@@ -1,0 +1,7 @@
+{
+  "name": "w3j-telnyx-mcp",
+  "description": "Exposes the full Telnyx API as Model Context Protocol tools and enables deploying autonomous AI voice agents from a YAML spec.",
+  "source_repo": "mnjbold/w3j-telnyx-mcp",
+  "source_url": "https://github.com/mnjbold/w3j-telnyx-mcp",
+  "install": "npx -y w3j-telnyx-mcp"
+}

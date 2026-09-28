@@ -1,0 +1,7 @@
+{
+  "name": "dali-mcp",
+  "description": "An MCP server that scores, enhances, and analyzes prompts for AI video and image generation models to prevent token waste on poor prompts.",
+  "source_repo": "Lulu-The-Narwhal/dali-mcp",
+  "source_url": "https://github.com/Lulu-The-Narwhal/dali-mcp",
+  "install": "npx -y dali-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "payme-mcp-server",
+  "description": "MCP server for Payme — the leading payment system in Uzbekistan. Enables AI agents to process payments, manage cards, and generate checkout links through the Model Context Protocol.",
+  "source_repo": "sirliboyev-uz/payme-mcp",
+  "source_url": "https://github.com/sirliboyev-uz/payme-mcp",
+  "install": "npx -y payme-mcp"
+}

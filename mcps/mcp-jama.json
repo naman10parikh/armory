@@ -1,0 +1,7 @@
+{
+  "name": "mcp-jama",
+  "description": "Enables Claude to interact with JAMA Cloud (Jama Connect) for project management, including creating, updating, and searching items, managing test plans, and adding comments.",
+  "source_repo": "KeisukeShima/mcp-jama",
+  "source_url": "https://github.com/KeisukeShima/mcp-jama",
+  "install": "# git clone --depth 1 https://github.com/KeisukeShima/mcp-jama\n# See source for mcpServers config block"
+}

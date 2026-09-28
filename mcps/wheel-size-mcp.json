@@ -1,0 +1,7 @@
+{
+  "name": "wheel-size-mcp",
+  "description": "Official MCP server for the Wheel Fitment API, giving LLM agents access to vehicle wheel and tire compatibility data, including OEM specs, reverse lookups, plus-sizing calculations, and product card generation.",
+  "source_repo": "driveate/wheel-size-mcp",
+  "source_url": "https://github.com/driveate/wheel-size-mcp",
+  "install": "npx -y wheel-size-mcp"
+}

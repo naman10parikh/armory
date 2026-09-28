@@ -1,0 +1,7 @@
+{
+  "name": "der-sp-multas-e-recursos",
+  "description": "Consulta de multas e recursos do DER SP em fonte oficial, com API remota paga por uso, integração com qualquer cliente MCP sobre HTTP e foco em privacidade via LGPD.",
+  "source_repo": "mcp-dir/der_sp_multas-mcp",
+  "source_url": "https://github.com/mcp-dir/der_sp_multas-mcp",
+  "install": "npx -y der_sp_multas-mcp"
+}

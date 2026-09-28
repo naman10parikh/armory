@@ -1,0 +1,7 @@
+{
+  "name": "component-contracts",
+  "description": "Provides two MCP servers: Variant Authority for managing component variant manifests and Radix Primitives for accessibility composition using Radix UI. Together they serve as the source of truth for design-to-code workflows.",
+  "source_repo": "jeremysykes/component-contracts",
+  "source_url": "https://github.com/jeremysykes/component-contracts",
+  "install": "# git clone --depth 1 https://github.com/jeremysykes/component-contracts\n# See source for mcpServers config block"
+}

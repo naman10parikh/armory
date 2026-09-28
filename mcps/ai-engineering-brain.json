@@ -1,0 +1,7 @@
+{
+  "name": "ai-engineering-brain",
+  "description": "A unified MCP Gateway for enterprise knowledge, code, and memory tools, featuring admin management for documents, accounts, and MCP keys, with local network deployment support.",
+  "source_repo": "arui-git/ai-engineering-brain",
+  "source_url": "https://github.com/arui-git/ai-engineering-brain",
+  "install": "# git clone --depth 1 https://github.com/arui-git/ai-engineering-brain\n# See source for mcpServers config block"
+}

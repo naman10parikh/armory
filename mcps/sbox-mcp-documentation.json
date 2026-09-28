@@ -1,0 +1,7 @@
+{
+  "name": "sbox-mcp-documentation",
+  "description": "An MCP server that provides AI assistants with searchable access to the full s&box game engine documentation and API reference.",
+  "source_repo": "fiedlermarius/sbox-mcp-documentation",
+  "source_url": "https://github.com/fiedlermarius/sbox-mcp-documentation",
+  "install": "# git clone --depth 1 https://github.com/fiedlermarius/sbox-mcp-documentation\n# See source for mcpServers config block"
+}

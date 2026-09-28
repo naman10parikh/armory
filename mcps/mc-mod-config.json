@@ -1,0 +1,7 @@
+{
+  "name": "mc-mod-config",
+  "description": "Enables reading, validating, comparing, and cleaning up Minecraft mod configuration files in .cfg, .toml, and .json formats.",
+  "source_repo": "dcd887/mc-mod-config-mcp",
+  "source_url": "https://github.com/dcd887/mc-mod-config-mcp",
+  "install": "npx -y mc-mod-config-mcp"
+}

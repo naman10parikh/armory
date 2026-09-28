@@ -1,0 +1,7 @@
+{
+  "name": "elevenlabs-agents-platform-mcp",
+  "description": "MCP server giving Claude full control over ElevenLabs Conversational AI agents, conversations, knowledge base, tools, tests, telephony, and workspace settings.",
+  "source_repo": "amaanshaikh-dc/elevenlabs-agent-platform-mcp",
+  "source_url": "https://github.com/amaanshaikh-dc/elevenlabs-agent-platform-mcp",
+  "install": "npx -y elevenlabs-agent-platform-mcp"
+}

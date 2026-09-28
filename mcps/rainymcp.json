@@ -1,0 +1,7 @@
+{
+  "name": "rainymcp",
+  "description": "A network analysis MCP server providing 23 tools for packet capture, protocol analysis, and cryptographic inspection, including TLS handshake, certificate extraction, and SM2/SM3/SM4 support.",
+  "source_repo": "RainyMarks/RainyMCP",
+  "source_url": "https://github.com/RainyMarks/RainyMCP",
+  "install": "# git clone --depth 1 https://github.com/RainyMarks/RainyMCP\n# See source for mcpServers config block"
+}

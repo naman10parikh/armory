@@ -1,0 +1,7 @@
+{
+  "name": "tiny-mcp-server",
+  "description": "A zero-dependency Python framework for building Model Context Protocol servers using a simple @tool decorator, with support for stdio and SSE transports.",
+  "source_repo": "hussain-alsaibai/tiny-mcp-server",
+  "source_url": "https://github.com/hussain-alsaibai/tiny-mcp-server",
+  "install": "npx -y tiny-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pretix-agent-mcp",
+  "description": "MCP server that enables AI agents to safely administer pretix events, with capability controls, PII masking, and approval-gated destructive operations.",
+  "source_repo": "bitcoinaustria/pretix-agent-mcp",
+  "source_url": "https://github.com/bitcoinaustria/pretix-agent-mcp",
+  "install": "npx -y pretix-agent-mcp"
+}

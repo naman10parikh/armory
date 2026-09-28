@@ -1,0 +1,7 @@
+{
+  "name": "mcp-a2a-documentation",
+  "description": "Search and retrieve Agent2Agent (A2A) protocol documentation using full-text search and section filtering.",
+  "source_repo": "martoc/mcp-a2a-documentation",
+  "source_url": "https://github.com/martoc/mcp-a2a-documentation",
+  "install": "# git clone --depth 1 https://github.com/martoc/mcp-a2a-documentation\n# See source for mcpServers config block"
+}

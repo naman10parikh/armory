@@ -1,0 +1,7 @@
+{
+  "name": "iccplus-mcp",
+  "description": "Enables AI agents to author, validate, and build ICC Plus interactive fiction projects with full schema awareness and source-backed indexing.",
+  "source_repo": "Kz2g1ew-commits/ICCPlus-MCP",
+  "source_url": "https://github.com/Kz2g1ew-commits/ICCPlus-MCP",
+  "install": "npx -y ICCPlus-MCP"
+}

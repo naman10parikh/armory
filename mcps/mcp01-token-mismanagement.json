@@ -1,0 +1,7 @@
+{
+  "name": "mcp01-token-mismanagement",
+  "description": "A deliberately vulnerable MCP server demonstrating API key exposure through hardcoding, plaintext logging, and returning secrets to the model, part of the OWASP MCP Top 10 security lab.",
+  "source_repo": "Anita-ani/mcp-security-lab",
+  "source_url": "https://github.com/Anita-ani/mcp-security-lab",
+  "install": "# git clone --depth 1 https://github.com/Anita-ani/mcp-security-lab\n# See source for mcpServers config block"
+}

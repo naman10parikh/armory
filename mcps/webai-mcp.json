@@ -1,0 +1,7 @@
+{
+  "name": "webai-mcp",
+  "description": "WebAI-MCP is a comprehensive browser automation and monitoring solution that enables AI applications to capture and analyze browser data through a Chrome extension, providing 20+ tools for screenshots, console logs, network monitoring, storage access, audits, and cross-platform auto-paste.",
+  "source_repo": "cpjet64/WebAI-MCP",
+  "source_url": "https://github.com/cpjet64/WebAI-MCP",
+  "install": "npx -y WebAI-MCP"
+}

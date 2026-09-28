@@ -1,0 +1,7 @@
+{
+  "name": "xiaozhi-mcp-aggregate",
+  "description": "Aggregates MCP tools for remote control, email, system monitoring, and web search, enabling AI to interact with external systems.",
+  "source_repo": "iflow-mcp/avxxoo-xiaozhi-mcp",
+  "source_url": "https://github.com/iflow-mcp/avxxoo-xiaozhi-mcp",
+  "install": "npx -y avxxoo-xiaozhi-mcp"
+}

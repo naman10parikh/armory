@@ -1,0 +1,7 @@
+{
+  "name": "showdoc2md",
+  "description": "Enables reading and exporting password-protected ShowDoc projects as Markdown through MCP tools, including probing access, listing pages, reading individual pages, full project export, and file export.",
+  "source_repo": "ishare2121/ShowDoc2MD",
+  "source_url": "https://github.com/ishare2121/ShowDoc2MD",
+  "install": "# git clone --depth 1 https://github.com/ishare2121/ShowDoc2MD\n# See source for mcpServers config block"
+}

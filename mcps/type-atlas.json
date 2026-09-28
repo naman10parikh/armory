@@ -1,0 +1,7 @@
+{
+  "name": "type-atlas",
+  "description": "Enables coding agents to navigate TypeScript, Markdown, and JSON with editor-grade features such as definitions, references, diagnostics, and code actions via the Model Context Protocol, using the local TypeScript project for each file.",
+  "source_repo": "tyler-mitchell/type-atlas",
+  "source_url": "https://github.com/tyler-mitchell/type-atlas",
+  "install": "# git clone --depth 1 https://github.com/tyler-mitchell/type-atlas\n# See source for mcpServers config block"
+}

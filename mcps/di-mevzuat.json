@@ -1,0 +1,7 @@
+{
+  "name": "di-mevzuat",
+  "description": "A local FastMCP server that enables searching and reviewing Turkish health and dental clinic promotional content against regulatory sources, with tools for source management and AI-assisted analysis.",
+  "source_repo": "yigitcanural/dis-mevzuat",
+  "source_url": "https://github.com/yigitcanural/dis-mevzuat",
+  "install": "# git clone --depth 1 https://github.com/yigitcanural/dis-mevzuat\n# See source for mcpServers config block"
+}

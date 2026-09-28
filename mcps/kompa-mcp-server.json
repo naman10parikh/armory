@@ -1,0 +1,7 @@
+{
+  "name": "kompa-mcp-server",
+  "description": "Exposes Kompa social-listening data as callable MCP tools, enabling natural language queries for buzzes, sentiment trends, hot topics, and unique authors from any MCP client.",
+  "source_repo": "khoadong07/claude-mcp-server",
+  "source_url": "https://github.com/khoadong07/claude-mcp-server",
+  "install": "npx -y claude-mcp-server"
+}

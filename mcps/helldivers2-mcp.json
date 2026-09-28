@@ -1,0 +1,7 @@
+{
+  "name": "helldivers2-mcp",
+  "description": "Provides live Helldivers 2 galactic war data including war status, major orders, planet details, dispatches, Steam news, and DSS status to LLMs.",
+  "source_repo": "xerno42/helldivers2-mcp",
+  "source_url": "https://github.com/xerno42/helldivers2-mcp",
+  "install": "npx -y helldivers2-mcp"
+}

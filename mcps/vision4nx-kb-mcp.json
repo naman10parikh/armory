@@ -1,0 +1,7 @@
+{
+  "name": "vision4nx-kb-mcp",
+  "description": "MCP server that exposes the Vision 4 NX knowledge base to any MCP client, enabling listing, querying, and reading of knowledge base contents via RAG vector search.",
+  "source_repo": "AiP-inteliScience/Vision4NX-Knowledge-Connector",
+  "source_url": "https://github.com/AiP-inteliScience/Vision4NX-Knowledge-Connector",
+  "install": "# git clone --depth 1 https://github.com/AiP-inteliScience/Vision4NX-Knowledge-Connector\n# See source for mcpServers config block"
+}

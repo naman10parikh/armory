@@ -1,0 +1,7 @@
+{
+  "name": "mydriverparis-mcp-server",
+  "description": "Enables booking premium private chauffeur transfers in Paris and across Europe directly from AI agents. Provides tools to list vehicles, get quotes, book rides, and retrieve service information.",
+  "source_repo": "mydriver-paris/mcp-mydriverparis",
+  "source_url": "https://github.com/mydriver-paris/mcp-mydriverparis",
+  "install": "# git clone --depth 1 https://github.com/mydriver-paris/mcp-mydriverparis\n# See source for mcpServers config block"
+}

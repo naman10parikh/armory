@@ -1,0 +1,7 @@
+{
+  "name": "active-mcp",
+  "description": "A Ruby on Rails engine for the Model Context Protocol (MCP) that enables connecting Rails apps to AI tools with minimal effort.",
+  "source_repo": "facexiang/active_mcp",
+  "source_url": "https://github.com/facexiang/active_mcp",
+  "install": "npx -y active_mcp"
+}

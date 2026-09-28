@@ -1,0 +1,7 @@
+{
+  "name": "openserp-cloud",
+  "description": "Search API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia results with URL extraction (+image search and engine metadata tools)",
+  "source_repo": "openserpapi/mcp",
+  "source_url": "https://github.com/openserpapi/mcp",
+  "install": "# git clone --depth 1 https://github.com/openserpapi/mcp\n# See source for mcpServers config block"
+}

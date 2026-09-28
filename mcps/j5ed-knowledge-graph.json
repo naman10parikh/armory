@@ -1,0 +1,7 @@
+{
+  "name": "j5ed-knowledge-graph",
+  "description": "A knowledge graph MCP server providing persistent, structured memory for AI assistants with multi-agent isolation, tiered search, and index navigation.",
+  "source_repo": "ArkTechNWA/j5ed-knowledge-graph",
+  "source_url": "https://github.com/ArkTechNWA/j5ed-knowledge-graph",
+  "install": "# git clone --depth 1 https://github.com/ArkTechNWA/j5ed-knowledge-graph\n# See source for mcpServers config block"
+}

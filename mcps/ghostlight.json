@@ -1,0 +1,7 @@
+{
+  "name": "ghostlight",
+  "description": "MCP server that lets AI agents drive your real Chromium browser with your existing signed-in sessions, providing visible, local, and inspectable automation for tasks like navigation, clicking, typing, and form filling.",
+  "source_repo": "sylin-org/ghostlight",
+  "source_url": "https://github.com/sylin-org/ghostlight",
+  "install": "# git clone --depth 1 https://github.com/sylin-org/ghostlight\n# See source for mcpServers config block"
+}

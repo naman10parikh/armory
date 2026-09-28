@@ -1,0 +1,7 @@
+{
+  "name": "dsh-cordis-mcp",
+  "description": "Exposes DeepSeek Harness dynamic Cordis plugin management to Claude Code via MCP, enabling plugin install, run, stop, inspect, and session handling through natural language.",
+  "source_repo": "GeekRicardo/dsh-cordis-mcp",
+  "source_url": "https://github.com/GeekRicardo/dsh-cordis-mcp",
+  "install": "npx -y dsh-cordis-mcp"
+}

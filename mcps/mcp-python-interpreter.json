@@ -1,0 +1,7 @@
+{
+  "name": "mcp-python-interpreter",
+  "description": "Enables LLMs to interact with Python environments, execute code, manage files, and handle packages through the Model Context Protocol.",
+  "source_repo": "luutuankiet/mcp-python-interpreter",
+  "source_url": "https://github.com/luutuankiet/mcp-python-interpreter",
+  "install": "# git clone --depth 1 https://github.com/luutuankiet/mcp-python-interpreter\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "metric-shift-mcp-server",
+  "description": "Answers \"sales dropped since last week — where?\" by comparing a target period against a weekday-adjusted baseline and localizing which attribute combinations (e.g. channel=web, or Tuesday nights) explain the shift. Runs fully offline on your own CSV — no API key, no ML training, read-only.",
+  "source_repo": "h-kazuki-pixel/metric-shift-mcp-server",
+  "source_url": "https://github.com/h-kazuki-pixel/metric-shift-mcp-server",
+  "install": "npx -y metric-shift-mcp-server"
+}

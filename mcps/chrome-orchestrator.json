@@ -1,0 +1,7 @@
+{
+  "name": "chrome-orchestrator",
+  "description": "Enables AI agents to dynamically provision headless browser environments and connect to them through a unified HTTP/SSE MCP endpoint with persistent storage and automatic health monitoring.",
+  "source_repo": "sh7vansh/chrome-orchestrator",
+  "source_url": "https://github.com/sh7vansh/chrome-orchestrator",
+  "install": "# git clone --depth 1 https://github.com/sh7vansh/chrome-orchestrator\n# See source for mcpServers config block"
+}

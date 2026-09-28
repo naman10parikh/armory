@@ -1,0 +1,7 @@
+{
+  "name": "unofficial-biorxiv-mcp-server",
+  "description": "Provides access to bioRxiv and medRxiv preprints via a unified tool with seven methods, including keyword search, metadata retrieval, and statistics.",
+  "source_repo": "openpharma-org/biorxiv-mcp",
+  "source_url": "https://github.com/openpharma-org/biorxiv-mcp",
+  "install": "npx -y biorxiv-mcp"
+}

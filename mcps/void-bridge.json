@@ -1,0 +1,7 @@
+{
+  "name": "void-bridge",
+  "description": "Exposes a secure, path-confined bridge to a local workspace and git remotes, enabling MCP clients to search, read, write, reset files, and perform git operations.",
+  "source_repo": "intricos777-dot/void-bridge",
+  "source_url": "https://github.com/intricos777-dot/void-bridge",
+  "install": "# git clone --depth 1 https://github.com/intricos777-dot/void-bridge\n# See source for mcpServers config block"
+}

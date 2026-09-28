@@ -1,0 +1,7 @@
+{
+  "name": "gasolineras-mcp",
+  "description": "Provides real-time fuel prices at gas stations in Spain using the government's public API. Enables users to find the cheapest fuel in a municipality or list stations sorted by price.",
+  "source_repo": "gregoriofraile/gasolineras-mcp",
+  "source_url": "https://github.com/gregoriofraile/gasolineras-mcp",
+  "install": "npx -y gasolineras-mcp"
+}

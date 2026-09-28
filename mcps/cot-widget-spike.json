@@ -1,0 +1,7 @@
+{
+  "name": "cot-widget-spike",
+  "description": "Enables users to visualize and interact with Claude's chain-of-thought reasoning from extended thinking traces, turning them into interactive reasoning maps with typed moves, dependency graphs, timelines, and replay mode.",
+  "source_repo": "matanma12/cot-widget-spike",
+  "source_url": "https://github.com/matanma12/cot-widget-spike",
+  "install": "# git clone --depth 1 https://github.com/matanma12/cot-widget-spike\n# See source for mcpServers config block"
+}

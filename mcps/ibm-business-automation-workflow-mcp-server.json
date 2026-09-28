@@ -1,0 +1,7 @@
+{
+  "name": "ibm-business-automation-workflow-mcp-server",
+  "description": "Enables AI agents to integrate with IBM Business Automation Workflow by exposing workflow REST services as MCP tools, allowing natural language interaction with business automation capabilities.",
+  "source_repo": "ibmbpm/ibm-baw-mcp-server",
+  "source_url": "https://github.com/ibmbpm/ibm-baw-mcp-server",
+  "install": "npx -y ibm-baw-mcp-server"
+}

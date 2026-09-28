@@ -1,0 +1,7 @@
+{
+  "name": "nks-osticket-mcp",
+  "description": "Enables AI agents to manage osTicket support tickets including listing, searching, reading, creating, updating, replying, deleting, managing subtickets, and downloading attachments.",
+  "source_repo": "nks-hub/nks-osticket-mcp",
+  "source_url": "https://github.com/nks-hub/nks-osticket-mcp",
+  "install": "npx -y nks-osticket-mcp"
+}

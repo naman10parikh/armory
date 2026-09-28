@@ -1,0 +1,7 @@
+{
+  "name": "dealership-ai-mcp-server",
+  "description": "MCP server that enables AI agents to instantly understand, generate pattern-aware code, search across repos, and validate changes in the Dealership AI codebase.",
+  "source_repo": "Exploratory-Projects/mcp-server",
+  "source_url": "https://github.com/Exploratory-Projects/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Exploratory-Projects/mcp-server\n# See source for mcpServers config block"
+}

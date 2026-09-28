@@ -1,0 +1,7 @@
+{
+  "name": "karellen-rr-mcp",
+  "description": "Enables LLM-powered debugging with rr reverse execution, allowing record and replay of program execution via GDB/MI for forward and reverse state inspection.",
+  "source_repo": "karellen/karellen-rr-mcp",
+  "source_url": "https://github.com/karellen/karellen-rr-mcp",
+  "install": "npx -y karellen-rr-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yandex-marketing-mcp",
+  "description": "MCP server for managing Yandex Direct advertising, Yandex Metrica analytics, Wordstat keyword research, and Yandex Webmaster SEO tools, with self-configuring OAuth; provides 153 tools for complete ad and search workflows from AI assistants.",
+  "source_repo": "skiddgoddamn/yandex-marketing-mcp",
+  "source_url": "https://github.com/skiddgoddamn/yandex-marketing-mcp",
+  "install": "npx -y yandex-marketing-mcp"
+}

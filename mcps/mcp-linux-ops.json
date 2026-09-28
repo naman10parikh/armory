@@ -1,0 +1,7 @@
+{
+  "name": "mcp-linux-ops",
+  "description": "Enables LLMs to execute shell commands and perform file operations on a Linux system, exposing tools like execute_command, read_file, write_file, and more.",
+  "source_repo": "zql78/mcp-linux-ops",
+  "source_url": "https://github.com/zql78/mcp-linux-ops",
+  "install": "# git clone --depth 1 https://github.com/zql78/mcp-linux-ops\n# See source for mcpServers config block"
+}

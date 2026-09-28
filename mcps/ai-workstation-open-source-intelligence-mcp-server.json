@@ -1,0 +1,7 @@
+{
+  "name": "ai-workstation-open-source-intelligence-mcp-server",
+  "description": "Enables researching, verifying, comparing, and composing open-source AI projects with transparent evidence and uncertainty boundaries through read-only tools.",
+  "source_repo": "zxhwolfe-dev/aiworkstation-open-source-intelligence",
+  "source_url": "https://github.com/zxhwolfe-dev/aiworkstation-open-source-intelligence",
+  "install": "# git clone --depth 1 https://github.com/zxhwolfe-dev/aiworkstation-open-source-intelligence\n# See source for mcpServers config block"
+}

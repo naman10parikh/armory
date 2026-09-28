@@ -1,0 +1,7 @@
+{
+  "name": "census-geocoding-mcp",
+  "description": "Provides access to the U.S. Census Bureau Geocoding Services API, enabling geocoding addresses, reverse geocoding coordinates, and retrieving Census geographies without an API key.",
+  "source_repo": "hesscl/census-geocoding-mcp",
+  "source_url": "https://github.com/hesscl/census-geocoding-mcp",
+  "install": "npx -y census-geocoding-mcp"
+}

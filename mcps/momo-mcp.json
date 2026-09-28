@@ -1,0 +1,7 @@
+{
+  "name": "momo-mcp",
+  "description": "An MCP server for Mobile Money in Francophone West Africa that enables AI agents to make payments via MTN MoMo (sandbox) using tools like request_payment, check_payment_status, and disburse_payment.",
+  "source_repo": "Tahsine/momo-mcp",
+  "source_url": "https://github.com/Tahsine/momo-mcp",
+  "install": "npx -y momo-mcp"
+}

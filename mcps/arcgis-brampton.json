@@ -1,0 +1,7 @@
+{
+  "name": "arcgis-brampton",
+  "description": "Provides access to City of Brampton GIS open geospatial data, enabling search, query, and schema inspection of datasets like parcels and zoning via natural language or tools.",
+  "source_repo": "pipeworx-io/mcp-arcgis-brampton",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-brampton",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-brampton\n# See source for mcpServers config block"
+}

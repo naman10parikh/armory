@@ -1,0 +1,7 @@
+{
+  "name": "pick-an-agency",
+  "description": "Search 47,000+ marketing agencies and get AI-matched with fitted agencies, from Pick an Agency.",
+  "source_repo": "Natden444/pickanagency-mcp",
+  "source_url": "https://github.com/Natden444/pickanagency-mcp",
+  "install": "npx -y pickanagency-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "community-toolkit",
+  "description": "Provides tools for event countdown, generating meetup announcements, and drafting contributor appreciation notes, enabling community builders to manage events and gratitude via natural language.",
+  "source_repo": "jaykuma007/mcp-first-server",
+  "source_url": "https://github.com/jaykuma007/mcp-first-server",
+  "install": "# git clone --depth 1 https://github.com/jaykuma007/mcp-first-server\n# See source for mcpServers config block"
+}

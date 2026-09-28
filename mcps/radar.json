@@ -1,0 +1,7 @@
+{
+  "name": "radar",
+  "description": "Radar is an open-source Kubernetes observability and diagnostics MCP server. It exposes cluster health, workload diagnosis, logs, events, topology, audit findings, and remediation actions to AI agents through the Model Context Protocol.",
+  "source_repo": "skyhook-io/radar",
+  "source_url": "https://github.com/skyhook-io/radar",
+  "install": "# git clone --depth 1 https://github.com/skyhook-io/radar\n# See source for mcpServers config block"
+}

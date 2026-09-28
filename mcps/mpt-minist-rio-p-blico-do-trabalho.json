@@ -1,0 +1,7 @@
+{
+  "name": "mpt-minist-rio-p-blico-do-trabalho",
+  "description": "Consulta registros de uma pessoa ou empresa no Ministério Público do Trabalho (MPT) a partir do CPF ou CNPJ e região, usando uma ferramenta de leitura.",
+  "source_repo": "mcp-dir/mpt-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt-mcp",
+  "install": "npx -y mpt-mcp"
+}

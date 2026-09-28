@@ -1,0 +1,7 @@
+{
+  "name": "agent-handoff-mcp",
+  "description": "Enables AI agents to exchange structured work items with an auditable lifecycle, supporting send, acknowledge, block, complete, and cancel operations via a shared SQLite-backed inbox.",
+  "source_repo": "SarutobiSasuke8/agent-handoff-mcp",
+  "source_url": "https://github.com/SarutobiSasuke8/agent-handoff-mcp",
+  "install": "npx -y agent-handoff-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "congatudo-mcp",
+  "description": "Enables AI agents to control a Cecotec Conga robot vacuum via 26 tools for state, cleaning modes, settings, timers, and system info.",
+  "source_repo": "cinderl/congatudo_mcp",
+  "source_url": "https://github.com/cinderl/congatudo_mcp",
+  "install": "npx -y congatudo_mcp"
+}

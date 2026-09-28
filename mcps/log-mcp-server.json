@@ -1,0 +1,7 @@
+{
+  "name": "log-mcp-server",
+  "description": "A log analysis MCP server that enables tailing, searching, filtering, and summarizing logs from local files and Docker containers.",
+  "source_repo": "sheikhBasit/log-mcp-server",
+  "source_url": "https://github.com/sheikhBasit/log-mcp-server",
+  "install": "npx -y log-mcp-server"
+}

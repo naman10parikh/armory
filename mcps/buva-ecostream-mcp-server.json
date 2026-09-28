@@ -1,0 +1,7 @@
+{
+  "name": "buva-ecostream-mcp-server",
+  "description": "Enables controlling and monitoring a Buva EcoStream WTW ventilation unit via natural language, including reading air quality data and adjusting fan settings.",
+  "source_repo": "kalmma/buva-ecostream-mcp",
+  "source_url": "https://github.com/kalmma/buva-ecostream-mcp",
+  "install": "npx -y buva-ecostream-mcp"
+}

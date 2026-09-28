@@ -1,0 +1,7 @@
+{
+  "name": "omnicodex",
+  "description": "Windows-local MCP gateway for the Codex runtime, enabling owner-authenticated tool access via Streamable HTTP with optional Oracle consent companion.",
+  "source_repo": "heelee912/omnicodex",
+  "source_url": "https://github.com/heelee912/omnicodex",
+  "install": "# git clone --depth 1 https://github.com/heelee912/omnicodex\n# See source for mcpServers config block"
+}

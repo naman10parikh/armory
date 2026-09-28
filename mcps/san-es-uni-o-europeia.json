@@ -1,0 +1,7 @@
+{
+  "name": "san-es-uni-o-europeia",
+  "description": "Checks if a name appears in the EU financial sanctions list for compliance and AML due diligence. Provides a read-only MCP tool that works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/sancoes_ue-mcp",
+  "source_url": "https://github.com/mcp-dir/sancoes_ue-mcp",
+  "install": "npx -y sancoes_ue-mcp"
+}

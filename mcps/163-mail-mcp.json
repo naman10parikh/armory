@@ -1,0 +1,7 @@
+{
+  "name": "163-mail-mcp",
+  "description": "Privacy-first local MCP server for personal @163.com mailboxes, connecting via IMAP/SMTP with read-only search and write operations guarded by confirmation tokens.",
+  "source_repo": "adjurtime/163-mail-mcp",
+  "source_url": "https://github.com/adjurtime/163-mail-mcp",
+  "install": "npx -y 163-mail-mcp"
+}

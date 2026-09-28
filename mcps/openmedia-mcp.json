@@ -1,0 +1,7 @@
+{
+  "name": "openmedia-mcp",
+  "description": "Enables AI agents to extract, analyze, and manipulate images, PDFs, video, and audio while conserving context through downscaling, truncation, and frame/page caps.",
+  "source_repo": "Builderstar/openmedia-mcp",
+  "source_url": "https://github.com/Builderstar/openmedia-mcp",
+  "install": "npx -y openmedia-mcp"
+}

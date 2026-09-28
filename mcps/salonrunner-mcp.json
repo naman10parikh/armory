@@ -1,0 +1,7 @@
+{
+  "name": "salonrunner-mcp",
+  "description": "Enables AI assistants to find, book, and cancel salon appointments via SalonRunner accounts. Self-hosted for local or remote use.",
+  "source_repo": "topness-msft/salonrunner-mcp",
+  "source_url": "https://github.com/topness-msft/salonrunner-mcp",
+  "install": "npx -y salonrunner-mcp"
+}

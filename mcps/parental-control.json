@@ -1,0 +1,7 @@
+{
+  "name": "parental-control",
+  "description": "An open-source MCP server that gives parents real-time oversight and guardrails over their children's AI agent interactions, with features like content filtering, spiral detection, and approval flows.",
+  "source_repo": "Gonzih/parental-control",
+  "source_url": "https://github.com/Gonzih/parental-control",
+  "install": "# git clone --depth 1 https://github.com/Gonzih/parental-control\n# See source for mcpServers config block"
+}

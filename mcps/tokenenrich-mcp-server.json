@@ -1,0 +1,7 @@
+{
+  "name": "tokenenrich-mcp-server",
+  "description": "Enables enrichment of company domains with verified firmographic signals including tech stack, hiring activity, email infrastructure, and SOC 2 compliance, returning compact typed JSON for AI agents.",
+  "source_repo": "barnsbytarquin/tokenenrich-mcp",
+  "source_url": "https://github.com/barnsbytarquin/tokenenrich-mcp",
+  "install": "npx -y tokenenrich-mcp"
+}

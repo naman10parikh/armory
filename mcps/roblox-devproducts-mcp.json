@@ -1,0 +1,7 @@
+{
+  "name": "roblox-devproducts-mcp",
+  "description": "A local MCP server that lets AI agents manage Roblox developer products and game passes through the Open Cloud API.",
+  "source_repo": "frrazer/roblox-devproducts-mcp",
+  "source_url": "https://github.com/frrazer/roblox-devproducts-mcp",
+  "install": "npx -y roblox-devproducts-mcp"
+}

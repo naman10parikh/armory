@@ -1,0 +1,7 @@
+{
+  "name": "mpt-pb-certid-o-negativa-de-feitos",
+  "description": "MCP server that enables querying official MPT PB labor court certificates (Certidão Negativa de Feitos) through a read-only tool, checking for negative records from official sources.",
+  "source_repo": "mcp-dir/mpt_pb_cnf-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt_pb_cnf-mcp",
+  "install": "npx -y mpt_pb_cnf-mcp"
+}

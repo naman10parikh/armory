@@ -1,0 +1,7 @@
+{
+  "name": "lelly-mcp-server",
+  "description": "Connects Lelly.chat workspace with AI agents, offering tools for tasks, reminders, health tracking, CRM, knowledge base, finance, and spiritual journaling via MCP.",
+  "source_repo": "robincoelho/lelly-mcp-server",
+  "source_url": "https://github.com/robincoelho/lelly-mcp-server",
+  "install": "npx -y lelly-mcp-server"
+}

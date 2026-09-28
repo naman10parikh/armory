@@ -1,0 +1,7 @@
+{
+  "name": "deliver-cli",
+  "description": "Transforms AI agents into spec-driven product engineers by managing the software project lifecycle through requirements, design, implementation, and archiving phases with state-aware MCP tools.",
+  "source_repo": "benjamesmurray/deliver-cli",
+  "source_url": "https://github.com/benjamesmurray/deliver-cli",
+  "install": "# git clone --depth 1 https://github.com/benjamesmurray/deliver-cli\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "docgen-mcp",
+  "description": "MCP server for generating Word documents and Google Docs with structured formatting, templates, and rich text.",
+  "source_repo": "mideliberto/docgen-mcp",
+  "source_url": "https://github.com/mideliberto/docgen-mcp",
+  "install": "npx -y docgen-mcp"
+}

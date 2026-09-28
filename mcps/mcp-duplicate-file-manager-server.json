@@ -1,0 +1,7 @@
+{
+  "name": "mcp-duplicate-file-manager-server",
+  "description": "Enables LLM agents to find and safely delete duplicate files using content-based detection, with smart copy prioritization and dry-run mode.",
+  "source_repo": "deerajd/DuplicateFileRemover-MCP",
+  "source_url": "https://github.com/deerajd/DuplicateFileRemover-MCP",
+  "install": "npx -y DuplicateFileRemover-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ellmos-blender-use-mcp",
+  "description": "Enables headless Blender asset QA and FBX reimport verification for game and 3D asset pipelines, checking mesh count, material count, and naming prefixes with deterministic JSON results.",
+  "source_repo": "ellmos-ai/ellmos-blender-use-mcp",
+  "source_url": "https://github.com/ellmos-ai/ellmos-blender-use-mcp",
+  "install": "npx -y ellmos-blender-use-mcp"
+}

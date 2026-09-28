@@ -1,0 +1,7 @@
+{
+  "name": "image-viewer-mcp",
+  "description": "Provides an MCP tool that analyzes images from local paths, URLs, or data URLs via a vision language model, returning structured descriptions (brief, detailed, summary) so text-only LLMs can understand image content.",
+  "source_repo": "Qalxry/image-viewer-mcp",
+  "source_url": "https://github.com/Qalxry/image-viewer-mcp",
+  "install": "npx -y image-viewer-mcp"
+}

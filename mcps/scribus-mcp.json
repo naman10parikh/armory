@@ -1,0 +1,7 @@
+{
+  "name": "scribus-mcp",
+  "description": "Enables AI assistants like Claude to control the Scribus desktop publishing app for document creation, editing, and export via its Python Scripter API, supporting both headless and interactive modes with ~125 tools.",
+  "source_repo": "caewa/scribus-mcp",
+  "source_url": "https://github.com/caewa/scribus-mcp",
+  "install": "npx -y scribus-mcp"
+}

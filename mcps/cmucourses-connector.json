@@ -1,0 +1,7 @@
+{
+  "name": "cmucourses-connector",
+  "description": "Remote MCP connector providing live, structured access to CMU Courses public data including courses, prerequisites, schedules, instructors, gen-eds, and final-exam times to help students plan schedules.",
+  "source_repo": "SamEthanMathew/cmucourses-connector",
+  "source_url": "https://github.com/SamEthanMathew/cmucourses-connector",
+  "install": "# git clone --depth 1 https://github.com/SamEthanMathew/cmucourses-connector\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "figma-mcp-express",
+  "description": "Fast, quota-free Figma automation for coding agents, enabling AI agents to read, edit, migrate, audit, screenshot, and prototype inside Figma Desktop files.",
+  "source_repo": "sunhome243/figma-mcp-express",
+  "source_url": "https://github.com/sunhome243/figma-mcp-express",
+  "install": "# git clone --depth 1 https://github.com/sunhome243/figma-mcp-express\n# See source for mcpServers config block"
+}

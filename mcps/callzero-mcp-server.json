@@ -1,0 +1,7 @@
+{
+  "name": "callzero-mcp-server",
+  "description": "Enables AI assistants to make phone calls via CallZero service, with tools for call management, templates, and memory.",
+  "source_repo": "CallZero-ai/CallZero-MCP",
+  "source_url": "https://github.com/CallZero-ai/CallZero-MCP",
+  "install": "npx -y CallZero-MCP"
+}

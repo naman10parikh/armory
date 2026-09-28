@@ -1,0 +1,7 @@
+{
+  "name": "nativine-mcp",
+  "description": "Enables AI-powered conversion of any website into native Android and iOS apps by managing drafts, uploading assets, and triggering builds through MCP.",
+  "source_repo": "nativine/mcp",
+  "source_url": "https://github.com/nativine/mcp",
+  "install": "# git clone --depth 1 https://github.com/nativine/mcp\n# See source for mcpServers config block"
+}

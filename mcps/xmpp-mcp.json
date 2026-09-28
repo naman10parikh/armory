@@ -1,0 +1,7 @@
+{
+  "name": "xmpp-mcp",
+  "description": "A minimal XMPP MCP server enabling human-in-the-loop notifications and messaging with a single allowlisted JID, exposing tools for status, sending messages, chat states, and message polling/waiting.",
+  "source_repo": "jfk9w/xmpp-mcp",
+  "source_url": "https://github.com/jfk9w/xmpp-mcp",
+  "install": "npx -y xmpp-mcp"
+}

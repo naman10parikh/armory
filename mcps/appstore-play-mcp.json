@@ -1,0 +1,7 @@
+{
+  "name": "appstore-play-mcp",
+  "description": "Enables read-only queries across App Store Connect and Google Play from one toolset, letting users list apps, track release states, and review merged store feedback without extra dependencies or credentials in demo mode.",
+  "source_repo": "JohnBilousov/appstore-play-mcp",
+  "source_url": "https://github.com/JohnBilousov/appstore-play-mcp",
+  "install": "npx -y appstore-play-mcp"
+}

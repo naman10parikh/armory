@@ -1,0 +1,7 @@
+{
+  "name": "sudo-mcp-gmail",
+  "description": "An MCP server for Gmail that allows AI assistants to read, search, compose drafts, send emails, and manage labels with attachment support.",
+  "source_repo": "sahilyadav902/sudo-mcp-gmail",
+  "source_url": "https://github.com/sahilyadav902/sudo-mcp-gmail",
+  "install": "# git clone --depth 1 https://github.com/sahilyadav902/sudo-mcp-gmail\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "domain-check-mcp",
+  "description": "MCP server for checking domain name availability across 500+ TLDs using RDAP with WHOIS fallback for specific TLDs.",
+  "source_repo": "stucchi/domain-check-mcp",
+  "source_url": "https://github.com/stucchi/domain-check-mcp",
+  "install": "npx -y domain-check-mcp"
+}

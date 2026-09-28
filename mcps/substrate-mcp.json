@@ -1,0 +1,7 @@
+{
+  "name": "substrate-mcp",
+  "description": "Enables persistent AI entities with causal memory, emotional state, and identity continuity. Provides 31 tools for memory, cognition, emotion, planning, reasoning, and more.",
+  "source_repo": "PKaldone/substrate-mcp",
+  "source_url": "https://github.com/PKaldone/substrate-mcp",
+  "install": "npx -y substrate-mcp"
+}

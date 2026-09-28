@@ -1,0 +1,7 @@
+{
+  "name": "cortex-2",
+  "description": "Persistent memory MCP server for Claude Code that captures and recalls project context across sessions, eliminating the need to re-explain architecture and decisions daily.",
+  "source_repo": "ProductionLineHQ/cortex",
+  "source_url": "https://github.com/ProductionLineHQ/cortex",
+  "install": "# git clone --depth 1 https://github.com/ProductionLineHQ/cortex\n# See source for mcpServers config block"
+}

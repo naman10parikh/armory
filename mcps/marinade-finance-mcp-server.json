@@ -1,0 +1,7 @@
+{
+  "name": "marinade-finance-mcp-server",
+  "description": "A simple MCP server for interacting with Marinade Finance on Solana, providing real-time updates and secure transactions.",
+  "source_repo": "sekskate56/marinade-finance-mcp-server",
+  "source_url": "https://github.com/sekskate56/marinade-finance-mcp-server",
+  "install": "npx -y marinade-finance-mcp-server"
+}

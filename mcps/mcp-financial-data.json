@@ -1,0 +1,7 @@
+{
+  "name": "mcp-financial-data",
+  "description": "提供19个中国A股、基金、宏观经济及市场行情数据工具，支持AI客户端实时查询。",
+  "source_repo": "wzx11223344/mcp-financial-data",
+  "source_url": "https://github.com/wzx11223344/mcp-financial-data",
+  "install": "# git clone --depth 1 https://github.com/wzx11223344/mcp-financial-data\n# See source for mcpServers config block"
+}

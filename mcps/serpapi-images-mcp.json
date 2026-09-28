@@ -1,0 +1,7 @@
+{
+  "name": "serpapi-images-mcp",
+  "description": "An MCP server that enables Google Images search via SerpAPI, with filtering options and image download capabilities.",
+  "source_repo": "jondufault/serpapi_images_mcp",
+  "source_url": "https://github.com/jondufault/serpapi_images_mcp",
+  "install": "npx -y serpapi_images_mcp"
+}

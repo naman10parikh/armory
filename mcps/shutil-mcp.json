@@ -1,0 +1,7 @@
+{
+  "name": "shutil-mcp",
+  "description": "Provides asynchronous file system operations (ls, cp, mv, etc.) with structured JSON output and optional jail restriction for AI agents.",
+  "source_repo": "cwt/shutil-mcp",
+  "source_url": "https://github.com/cwt/shutil-mcp",
+  "install": "npx -y shutil-mcp"
+}

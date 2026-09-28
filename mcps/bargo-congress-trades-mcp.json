@@ -1,0 +1,7 @@
+{
+  "name": "bargo-congress-trades-mcp",
+  "description": "Query normalized U.S. House and Senate STOCK Act disclosures, member trading histories, and aggregate trading statistics through MCP.",
+  "source_repo": "bargo-ai/bargo-free-api-packages",
+  "source_url": "https://github.com/bargo-ai/bargo-free-api-packages",
+  "install": "# git clone --depth 1 https://github.com/bargo-ai/bargo-free-api-packages\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "telemem",
+  "description": "Long-term and multimodal memory for AI agents. Store facts and conversations with add_memory, recall them with search_memories — 8 tools over stdio/SSE/HTTP. Per-character memory isolation, LLM-based semantic deduplication, FAISS + JSON storage, and a fully local option (Ollama, no API key). Drop-in",
+  "source_repo": "TeleAI-UAGI/telemem",
+  "source_url": "https://github.com/TeleAI-UAGI/telemem",
+  "install": "# git clone --depth 1 https://github.com/TeleAI-UAGI/telemem\n# See source for mcpServers config block"
+}

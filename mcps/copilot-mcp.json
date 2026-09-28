@@ -1,0 +1,7 @@
+{
+  "name": "copilot-mcp",
+  "description": "MCP server exposing 14 real-time financial data tools to Microsoft Copilot Studio, enabling natural language queries for stock prices, earnings, analyst recommendations, and more via the Finnhub API.",
+  "source_repo": "pedroalexleite/Copilot-MCP",
+  "source_url": "https://github.com/pedroalexleite/Copilot-MCP",
+  "install": "npx -y Copilot-MCP"
+}

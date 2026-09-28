@@ -1,0 +1,7 @@
+{
+  "name": "mpc-poc-2-resourceprovider-googlesheets",
+  "description": "MCP server that exposes Google Sheets as read-only resources, providing static and templated URI access to sheet data as CSV.",
+  "source_repo": "mzoffoli85/MPC-PoC-2-ResourceProvider-GoogleSheets",
+  "source_url": "https://github.com/mzoffoli85/MPC-PoC-2-ResourceProvider-GoogleSheets",
+  "install": "# git clone --depth 1 https://github.com/mzoffoli85/MPC-PoC-2-ResourceProvider-GoogleSheets\n# See source for mcpServers config block"
+}

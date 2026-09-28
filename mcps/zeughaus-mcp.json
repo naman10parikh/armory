@@ -1,0 +1,7 @@
+{
+  "name": "zeughaus-mcp",
+  "description": "Execute commands in ephemeral containers with any combination of Nix packages.",
+  "source_repo": "GTarkin/zeughaus_mcp",
+  "source_url": "https://github.com/GTarkin/zeughaus_mcp",
+  "install": "npx -y zeughaus_mcp"
+}

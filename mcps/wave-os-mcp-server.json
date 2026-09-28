@@ -1,0 +1,7 @@
+{
+  "name": "wave-os-mcp-server",
+  "description": "Integrates Base44 data management, Theta GPU compute and blockchain, and Wave OS intelligence into a single MCP server, enabling AI assistants to perform CRUD, AI inference, smart contract operations, and agent orchestration.",
+  "source_repo": "xBuildyTeam/wave-mcp-server",
+  "source_url": "https://github.com/xBuildyTeam/wave-mcp-server",
+  "install": "npx -y wave-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "storybook-renderer",
+  "description": "MCP server to query and render the Doggie UI design system's Storybook documentation, enabling component search, URL rendering, and natural language questions.",
+  "source_repo": "camoran89/mcp-storybook-render",
+  "source_url": "https://github.com/camoran89/mcp-storybook-render",
+  "install": "# git clone --depth 1 https://github.com/camoran89/mcp-storybook-render\n# See source for mcpServers config block"
+}

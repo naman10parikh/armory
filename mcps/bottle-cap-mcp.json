@@ -1,0 +1,7 @@
+{
+  "name": "bottle-cap-mcp",
+  "description": "MCP server for bottle-cap CAD workflow, providing tools for generating precise caps, filling holes, repairing meshes, and generating visual meshes via CadQuery, PyMeshLab, and the Meshy API.",
+  "source_repo": "Reshvanth-Y/Team-Automata",
+  "source_url": "https://github.com/Reshvanth-Y/Team-Automata",
+  "install": "# git clone --depth 1 https://github.com/Reshvanth-Y/Team-Automata\n# See source for mcpServers config block"
+}

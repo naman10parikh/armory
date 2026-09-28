@@ -1,0 +1,7 @@
+{
+  "name": "fetchium",
+  "description": "Fetchium — token-efficient web retrieval for AI agents",
+  "source_repo": "zuhabul/Fetchium",
+  "source_url": "https://github.com/zuhabul/Fetchium",
+  "install": "# git clone --depth 1 https://github.com/zuhabul/Fetchium\n# See source for mcpServers config block"
+}

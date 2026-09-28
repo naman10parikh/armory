@@ -1,0 +1,7 @@
+{
+  "name": "renoise-mcp",
+  "description": "MCP server for controlling Renoise via OSC. Lets Claude compose music by writing patterns, triggering notes, and controlling playback.",
+  "source_repo": "zakhap/renoise-mcp",
+  "source_url": "https://github.com/zakhap/renoise-mcp",
+  "install": "npx -y renoise-mcp"
+}

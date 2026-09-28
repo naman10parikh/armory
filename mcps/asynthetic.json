@@ -1,0 +1,7 @@
+{
+  "name": "asynthetic",
+  "description": "An MCP server that gives AI coding agents verified migration maps: exactly what breaks between two versions of a library and how to fix it, from hand-curated maps with source citations - instead of hallucinated answers from stale training data",
+  "source_repo": "asyntheticai/asynthetic",
+  "source_url": "https://github.com/asyntheticai/asynthetic",
+  "install": "# git clone --depth 1 https://github.com/asyntheticai/asynthetic\n# See source for mcpServers config block"
+}

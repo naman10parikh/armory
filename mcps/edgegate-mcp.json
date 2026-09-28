@@ -1,0 +1,7 @@
+{
+  "name": "edgegate-mcp",
+  "description": "MCP server for EdgeGate that enables setting up edge-AI regression gates on Snapdragon devices directly from Claude Code, Cursor, or Claude Desktop.",
+  "source_repo": "frozo-ai/edgegate-mcp",
+  "source_url": "https://github.com/frozo-ai/edgegate-mcp",
+  "install": "npx -y edgegate-mcp"
+}

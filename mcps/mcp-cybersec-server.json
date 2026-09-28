@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cybersec-server",
+  "description": "MCP server that supports cybersecurity operations by providing CVE lookup, risk summarization, and playbook resources through CIRCL Vulnerability-Lookup API.",
+  "source_repo": "camr8989/mcp-cybersec-server",
+  "source_url": "https://github.com/camr8989/mcp-cybersec-server",
+  "install": "# git clone --depth 1 https://github.com/camr8989/mcp-cybersec-server\n# See source for mcpServers config block"
+}

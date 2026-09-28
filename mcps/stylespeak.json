@@ -1,0 +1,7 @@
+{
+  "name": "stylespeak",
+  "description": "A companion MCP server that makes CSS legible to AI agents by resolving cascade, tracing properties, and explaining what applies and why before an agent modifies styles.",
+  "source_repo": "Patrizzos/StyleSpeak",
+  "source_url": "https://github.com/Patrizzos/StyleSpeak",
+  "install": "# git clone --depth 1 https://github.com/Patrizzos/StyleSpeak\n# See source for mcpServers config block"
+}

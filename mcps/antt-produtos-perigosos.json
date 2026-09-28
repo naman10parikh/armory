@@ -1,0 +1,7 @@
+{
+  "name": "antt-produtos-perigosos",
+  "description": "Read-only MCP server for querying official Brazilian ANTT data on dangerous goods, with pay-per-use hosted access.",
+  "source_repo": "mcp-dir/antt_produtos_perigosos-mcp",
+  "source_url": "https://github.com/mcp-dir/antt_produtos_perigosos-mcp",
+  "install": "npx -y antt_produtos_perigosos-mcp"
+}

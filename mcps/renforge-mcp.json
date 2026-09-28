@@ -1,0 +1,7 @@
+{
+  "name": "renforge-mcp",
+  "description": "An MCP server for Ren'Py project tooling that enables AI agents to inspect game state, evaluate expressions, read/write variables, and capture screenshots from running Ren'Py games.",
+  "source_repo": "alex-jordan547/renforge-mcp",
+  "source_url": "https://github.com/alex-jordan547/renforge-mcp",
+  "install": "npx -y renforge-mcp"
+}

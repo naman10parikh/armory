@@ -1,0 +1,7 @@
+{
+  "name": "gp-intel-mcp",
+  "description": "MCP server for querying verified data on European private equity & venture capital firms — funds, AUM, portfolio companies, and exits — from the GP Intel database.",
+  "source_repo": "gparientee/gp-intel-mcp",
+  "source_url": "https://github.com/gparientee/gp-intel-mcp",
+  "install": "npx -y gp-intel-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-colombia-payments-mcp",
+  "description": "Enables AI agents to accept payments in Colombia via PSE, Nequi, cards, and Efecty through Mercado Pago's hosted checkout.",
+  "source_repo": "junter1989k-ai/colombia-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/colombia-payments-mcp",
+  "install": "npx -y colombia-payments-mcp"
+}

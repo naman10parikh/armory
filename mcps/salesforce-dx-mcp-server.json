@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-dx-mcp-server",
+  "description": "Enables LLMs to securely read, manage, and operate Salesforce org resources through Model Context Protocol tools.",
+  "source_repo": "ElioLin/sfoa-enterprise-mcp",
+  "source_url": "https://github.com/ElioLin/sfoa-enterprise-mcp",
+  "install": "npx -y sfoa-enterprise-mcp"
+}

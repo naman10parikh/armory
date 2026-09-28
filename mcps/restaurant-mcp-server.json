@@ -1,0 +1,7 @@
+{
+  "name": "restaurant-mcp-server",
+  "description": "MCP server exposing restaurant tools including search by cuisine, price, rating, and open status, restaurant details, user preferences stored in Neon Postgres, and RAG knowledge search covering 50 mock restaurants across Scottsdale and Phoenix.",
+  "source_repo": "aadeshmahesh/restaurant-mcp-server",
+  "source_url": "https://github.com/aadeshmahesh/restaurant-mcp-server",
+  "install": "npx -y restaurant-mcp-server"
+}

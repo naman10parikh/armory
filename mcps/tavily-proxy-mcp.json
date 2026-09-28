@@ -1,0 +1,7 @@
+{
+  "name": "tavily-proxy-mcp",
+  "description": "A proxy MCP server that connects to Tavily's official Streamable HTTP MCP, managing multiple API keys and automatically switching to the next one when the current key's quota is exhausted.",
+  "source_repo": "pzehrel/tavily-proxy-mcp",
+  "source_url": "https://github.com/pzehrel/tavily-proxy-mcp",
+  "install": "npx -y tavily-proxy-mcp"
+}

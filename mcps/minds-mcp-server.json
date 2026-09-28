@@ -1,0 +1,7 @@
+{
+  "name": "minds-mcp-server",
+  "description": "Minds MCP enables AI assistants to run synthetic market research end to end using grounded synthetic customer panels for concept testing, message testing, and segment comparison, with durable server-side studies exporting to PDF, CSV, XLSX, JSON, and Markdown.",
+  "source_repo": "minds-ai-co/minds-mcp",
+  "source_url": "https://github.com/minds-ai-co/minds-mcp",
+  "install": "npx -y minds-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "blender-mind-mcp",
+  "description": "Enables AI-driven 3D modeling in Blender by providing tools to create primitives, apply modifiers and materials, set up lighting and cameras, capture viewport snapshots, export assets, inspect scenes, and execute Python commands via natural language.",
+  "source_repo": "xiaohai-uid/blender-mind-mcp",
+  "source_url": "https://github.com/xiaohai-uid/blender-mind-mcp",
+  "install": "npx -y blender-mind-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "the-teacher",
+  "description": "Enables structured learning with a verified loop: define goals as observable claims, learn through teach-lab-test-gate per claim, and get independently graded by an adversarial examiner to ensure genuine progress.",
+  "source_repo": "outlast85/the-teacher",
+  "source_url": "https://github.com/outlast85/the-teacher",
+  "install": "# git clone --depth 1 https://github.com/outlast85/the-teacher\n# See source for mcpServers config block"
+}

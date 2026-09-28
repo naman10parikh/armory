@@ -1,0 +1,7 @@
+{
+  "name": "kynth-core-mcp",
+  "description": "Enables document parsing, field extraction, PII redaction, contract analysis, chargeback handling, and company enrichment via the Kynth Core API. Provides tools for Claude and any MCP client to process documents and extract structured data.",
+  "source_repo": "kyisaiah47/kynth-core-mcp",
+  "source_url": "https://github.com/kyisaiah47/kynth-core-mcp",
+  "install": "npx -y kynth-core-mcp"
+}

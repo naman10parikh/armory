@@ -1,0 +1,7 @@
+{
+  "name": "jaringan-mcp",
+  "description": "MCP server for the Jaringan protocol that allows AI agents to fetch, inspect, search, and manage Jaringan pages through structured tool calls.",
+  "source_repo": "thesimonharms/jaringan-mcp",
+  "source_url": "https://github.com/thesimonharms/jaringan-mcp",
+  "install": "npx -y jaringan-mcp"
+}

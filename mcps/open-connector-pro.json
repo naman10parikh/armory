@@ -1,0 +1,7 @@
+{
+  "name": "open-connector-pro",
+  "description": "Unified AI Agent SaaS Connector & Multi-Provider Gateway connecting to 1,000+ SaaS platforms, vector databases, and 500+ LLM models via MCP, REST API, and CLI.",
+  "source_repo": "tonysheesh/open-connector-pro",
+  "source_url": "https://github.com/tonysheesh/open-connector-pro",
+  "install": "# git clone --depth 1 https://github.com/tonysheesh/open-connector-pro\n# See source for mcpServers config block"
+}

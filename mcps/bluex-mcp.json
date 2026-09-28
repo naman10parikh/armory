@@ -1,0 +1,7 @@
+{
+  "name": "bluex-mcp",
+  "description": "MCP server for live X/Twitter and web search, driven by your locally logged-in Grok CLI and leveraging your X Premium or SuperGrok subscription quota.",
+  "source_repo": "Derek-Wong213/bluex-mcp",
+  "source_url": "https://github.com/Derek-Wong213/bluex-mcp",
+  "install": "npx -y bluex-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "falllink-mcp",
+  "description": "MCP server for foldkit, exposing 7-prime spine, 7 κ-bands, and 6 fold operations as tools and resources for AI-native interactions.",
+  "source_repo": "sjgant80-hub/falllink-mcp",
+  "source_url": "https://github.com/sjgant80-hub/falllink-mcp",
+  "install": "npx -y falllink-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "supercell-mcp",
+  "description": "Read-only MCP server for Supercell game APIs (Clash of Clans, Clash Royale, Brawl Stars) with prefixed tool names to search players, clans, clubs, and more.",
+  "source_repo": "brettadams0/supercell-mcp",
+  "source_url": "https://github.com/brettadams0/supercell-mcp",
+  "install": "npx -y supercell-mcp"
+}

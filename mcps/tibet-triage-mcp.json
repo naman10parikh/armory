@@ -1,0 +1,7 @@
+{
+  "name": "tibet-triage-mcp",
+  "description": "MCP server for tibet-triage — process triage, flare rescue & reproducibility bundles with TIBET provenance.",
+  "source_repo": "Humotica/tibet-triage-mcp",
+  "source_url": "https://github.com/Humotica/tibet-triage-mcp",
+  "install": "npx -y tibet-triage-mcp"
+}

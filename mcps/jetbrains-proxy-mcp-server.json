@@ -1,0 +1,7 @@
+{
+  "name": "jetbrains-proxy-mcp-server",
+  "description": "A proxy server that forwards MCP requests to a JetBrains IDE server, with support for path conversion between WSL, Git Bash, and Windows.",
+  "source_repo": "lumerix7/jetbrains-proxy-mcp-server",
+  "source_url": "https://github.com/lumerix7/jetbrains-proxy-mcp-server",
+  "install": "npx -y jetbrains-proxy-mcp-server"
+}

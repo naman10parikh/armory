@@ -1,0 +1,7 @@
+{
+  "name": "sentinel-orchestrator",
+  "description": "An MCP server for domain-agnostic task orchestration, turning objectives into executed workflows with built-in validation, security, and multi-agent patterns.",
+  "source_repo": "fshbet/sentinel-orchestrator",
+  "source_url": "https://github.com/fshbet/sentinel-orchestrator",
+  "install": "# git clone --depth 1 https://github.com/fshbet/sentinel-orchestrator\n# See source for mcpServers config block"
+}

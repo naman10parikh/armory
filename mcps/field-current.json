@@ -1,0 +1,7 @@
+{
+  "name": "field-current",
+  "description": "A self-hosted research library with a read-only MCP endpoint for querying paper metadata, abstracts, and BibTeX entries.",
+  "source_repo": "LKRCharon/field-current",
+  "source_url": "https://github.com/LKRCharon/field-current",
+  "install": "# git clone --depth 1 https://github.com/LKRCharon/field-current\n# See source for mcpServers config block"
+}

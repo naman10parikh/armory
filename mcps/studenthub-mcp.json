@@ -1,0 +1,7 @@
+{
+  "name": "studenthub-mcp",
+  "description": "Read-only MCP server for the StudentHub recruitment database. Enables BAWES agents to search candidates, retrieve profiles, and query hiring pipeline data, with strict SELECT-only safety guarantees.",
+  "source_repo": "BAWES-Universe/studenthub-mcp",
+  "source_url": "https://github.com/BAWES-Universe/studenthub-mcp",
+  "install": "npx -y studenthub-mcp"
+}

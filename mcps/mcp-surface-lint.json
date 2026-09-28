@@ -1,0 +1,7 @@
+{
+  "name": "mcp-surface-lint",
+  "description": "Static checks over an MCP tool surface to find where a caller could do the wrong thing and get no error back.",
+  "source_repo": "robworks-code/mcp-surface-lint",
+  "source_url": "https://github.com/robworks-code/mcp-surface-lint",
+  "install": "# git clone --depth 1 https://github.com/robworks-code/mcp-surface-lint\n# See source for mcpServers config block"
+}

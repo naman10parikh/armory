@@ -1,0 +1,7 @@
+{
+  "name": "planhat-mcp",
+  "description": "Enables interacting with Planhat customer data via natural language, supporting CRUD operations on companies, contacts, opportunities, notes, conversations, users, assets, issues, tickets, tasks, licenses, and invoices.",
+  "source_repo": "da-troll/planhat-mcp",
+  "source_url": "https://github.com/da-troll/planhat-mcp",
+  "install": "npx -y planhat-mcp"
+}

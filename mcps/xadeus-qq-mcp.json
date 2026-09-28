@@ -1,0 +1,7 @@
+{
+  "name": "xadeus-qq-mcp",
+  "description": "QQ MCP Server with Auto-Wake, message send/receive, group management, file sharing, and timed tasks. Connects via NapCatQQ (OneBot v11). One-click setup with quickstart.ps1.Based on Amadeus-QQ-MCP.",
+  "source_repo": "mouse114514/Xadeus-QQ-MCP",
+  "source_url": "https://github.com/mouse114514/Xadeus-QQ-MCP",
+  "install": "npx -y Xadeus-QQ-MCP"
+}

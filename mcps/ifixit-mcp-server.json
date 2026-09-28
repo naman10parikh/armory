@@ -1,0 +1,7 @@
+{
+  "name": "ifixit-mcp-server",
+  "description": "Provides read-only access to iFixit repair guides, device information, repairability scores, categories, search, media, and contributor profiles via MCP tools.",
+  "source_repo": "Dthen/ifixit-mcp",
+  "source_url": "https://github.com/Dthen/ifixit-mcp",
+  "install": "npx -y ifixit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "depscope-mcp",
+  "description": "Validates and checks packages across 19 ecosystems to prevent AI agents from installing hallucinated, deprecated, or malicious packages.",
+  "source_repo": "cuttalo/depscope-mcp",
+  "source_url": "https://github.com/cuttalo/depscope-mcp",
+  "install": "npx -y depscope-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "checkov-mcp",
+  "description": "MCP server for analyzing Checkov results and generating executive explanations of vulnerabilities in Terraform infrastructure.",
+  "source_repo": "niyepes/python-checkov-mcp",
+  "source_url": "https://github.com/niyepes/python-checkov-mcp",
+  "install": "npx -y python-checkov-mcp"
+}

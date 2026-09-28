@@ -1,0 +1,7 @@
+{
+  "name": "job-finder-mcp-server",
+  "description": "Enables users to search for remote job listings using Playwright browser automation, fully containerized with Docker and compatible with Claude Desktop.",
+  "source_repo": "Zakria774/Job_Finder_mcp_docker",
+  "source_url": "https://github.com/Zakria774/Job_Finder_mcp_docker",
+  "install": "# git clone --depth 1 https://github.com/Zakria774/Job_Finder_mcp_docker\n# See source for mcpServers config block"
+}

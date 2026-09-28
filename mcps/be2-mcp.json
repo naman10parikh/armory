@@ -1,0 +1,7 @@
+{
+  "name": "be2-mcp",
+  "description": "A governance MCP server that lets employees use natural language to safely execute batch operations on the be2 product backend, featuring draft-only human approval, identity pass-through, and full audit trails.",
+  "source_repo": "kkday-it/kkday-be2-mcp",
+  "source_url": "https://github.com/kkday-it/kkday-be2-mcp",
+  "install": "npx -y kkday-be2-mcp"
+}

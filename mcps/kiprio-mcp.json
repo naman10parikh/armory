@@ -1,0 +1,7 @@
+{
+  "name": "kiprio-mcp",
+  "description": "23 developer & data API tools for AI agents - IP/DNS/WHOIS/SSL lookups, web scraping & screenshots, text AI (summarize, translate, sentiment, grammar, redact), and dev utilities (hash, UUID, QR, JWT, cron, IBAN/VAT/email validation, breach check).",
+  "source_repo": "ForeverTools/kiprio-mcp",
+  "source_url": "https://github.com/ForeverTools/kiprio-mcp",
+  "install": "npx -y kiprio-mcp"
+}

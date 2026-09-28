@@ -1,0 +1,7 @@
+{
+  "name": "daxops-mcp",
+  "description": "Build Power BI dashboards from your data, straight from Claude Code (or any MCP client).",
+  "source_repo": "cyphonica/daxops-mcp",
+  "source_url": "https://github.com/cyphonica/daxops-mcp",
+  "install": "npx -y daxops-mcp"
+}

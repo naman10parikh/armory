@@ -1,0 +1,7 @@
+{
+  "name": "ideogram-v3-mcp-server",
+  "description": "MCP server for Ideogram V3 model line enabling image editing, reframing, remixing, and text-to-image generation with task polling and pricing checks through RunAPI.",
+  "source_repo": "runapi-ai/ideogram-v3-mcp",
+  "source_url": "https://github.com/runapi-ai/ideogram-v3-mcp",
+  "install": "npx -y ideogram-v3-mcp"
+}

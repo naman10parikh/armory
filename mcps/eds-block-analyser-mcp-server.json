@@ -1,0 +1,7 @@
+{
+  "name": "eds-block-analyser-mcp-server",
+  "description": "Provides UI architecture analysis for converting Figma designs or web pages into reusable UI code blocks with effort estimation in CSV format.",
+  "source_repo": "kalimuthu-a/eds-block-analyser-mcp-server-test",
+  "source_url": "https://github.com/kalimuthu-a/eds-block-analyser-mcp-server-test",
+  "install": "# git clone --depth 1 https://github.com/kalimuthu-a/eds-block-analyser-mcp-server-test\n# See source for mcpServers config block"
+}

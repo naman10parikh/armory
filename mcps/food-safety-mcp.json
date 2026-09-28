@@ -1,0 +1,7 @@
+{
+  "name": "food-safety-mcp",
+  "description": "Enables checking food additive safety, nutrition profiles, pesticide residues, and ingredient lists with regulatory flags and dietary compatibility. All data is sourced from authoritative bodies like JECFA, EFSA, and FDA.",
+  "source_repo": "rootsbymenda/food-mcp-server",
+  "source_url": "https://github.com/rootsbymenda/food-mcp-server",
+  "install": "npx -y food-mcp-server"
+}

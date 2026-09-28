@@ -1,0 +1,7 @@
+{
+  "name": "auth0-forms-mcp-custom-extension",
+  "description": "Exposes an Auth0 Form as an MCP server, enabling AI models to interact with the form via natural language. It uses a stateless HTTP MCP transport with Auth0 authentication.",
+  "source_repo": "mustafadeel/auth0-poc-mcp",
+  "source_url": "https://github.com/mustafadeel/auth0-poc-mcp",
+  "install": "npx -y auth0-poc-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "x2md",
+  "description": "Converts .docx files to Markdown, with optional image extraction and HTML table conversion, accessible via MCP server or Python API.",
+  "source_repo": "fengredrum/x2md",
+  "source_url": "https://github.com/fengredrum/x2md",
+  "install": "# git clone --depth 1 https://github.com/fengredrum/x2md\n# See source for mcpServers config block"
+}

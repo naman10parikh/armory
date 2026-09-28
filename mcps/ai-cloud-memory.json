@@ -1,0 +1,7 @@
+{
+  "name": "ai-cloud-memory",
+  "description": "Enables AI clients to access a shared, authenticated memory and project management system with durable storage, task tracking, roadmaps, and semantic search, deployed on Cloudflare.",
+  "source_repo": "DrewMauldin/AI-Cloud-Memory",
+  "source_url": "https://github.com/DrewMauldin/AI-Cloud-Memory",
+  "install": "# git clone --depth 1 https://github.com/DrewMauldin/AI-Cloud-Memory\n# See source for mcpServers config block"
+}

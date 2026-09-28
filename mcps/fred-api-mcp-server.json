@@ -1,0 +1,7 @@
+{
+  "name": "fred-api-mcp-server",
+  "description": "Enables searching and retrieving economic data from the Federal Reserve Economic Data (FRED) API, including time series, categories, releases, and popular indicators.",
+  "source_repo": "dracepj/fred-mcp",
+  "source_url": "https://github.com/dracepj/fred-mcp",
+  "install": "npx -y fred-mcp"
+}

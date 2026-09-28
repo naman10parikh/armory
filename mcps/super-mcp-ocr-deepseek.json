@@ -1,0 +1,7 @@
+{
+  "name": "super-mcp-ocr-deepseek",
+  "description": "An MCP server that gives text-only LLMs like DeepSeek vision capabilities by OCRing images, PDFs, Office documents, and text files into pure text. It provides tools like read_document and ocr_image to enable file analysis.",
+  "source_repo": "slamsmart/Super-MCP-OCR-Deepseek",
+  "source_url": "https://github.com/slamsmart/Super-MCP-OCR-Deepseek",
+  "install": "# git clone --depth 1 https://github.com/slamsmart/Super-MCP-OCR-Deepseek\n# See source for mcpServers config block"
+}

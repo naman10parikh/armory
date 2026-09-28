@@ -1,6 +1,6 @@
 {
   "name": "view-control-mcp-server",
-  "description": "View Control Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "nakashima-takeo/view-control-mcp-server",
   "source_url": "https://mcp.so/server/view-control-mcp-server/nakashima-takeo",
   "install": "npx -y view-control-mcp-server"

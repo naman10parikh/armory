@@ -1,0 +1,7 @@
+{
+  "name": "mcp-contradiction-check",
+  "description": "Scans markdown vaults to detect contradictory claims (quantitative and negation) between notes with high concept overlap, and provides tools for analysis and reconciliation.",
+  "source_repo": "onetrueclaude-creator/mcp-contradiction-check",
+  "source_url": "https://github.com/onetrueclaude-creator/mcp-contradiction-check",
+  "install": "# git clone --depth 1 https://github.com/onetrueclaude-creator/mcp-contradiction-check\n# See source for mcpServers config block"
+}

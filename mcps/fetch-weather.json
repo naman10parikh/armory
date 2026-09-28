@@ -1,0 +1,7 @@
+{
+  "name": "fetch-weather",
+  "description": "Enables users to get weather forecasts for any city using the Open-Meteo API through natural language in Claude Desktop or VS Code.",
+  "source_repo": "mishrole/first-mcp-server",
+  "source_url": "https://github.com/mishrole/first-mcp-server",
+  "install": "npx -y first-mcp-server"
+}

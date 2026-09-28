@@ -1,0 +1,7 @@
+{
+  "name": "macctl",
+  "description": "macctl is an accessibility-first macOS desktop automation MCP server that lets AI clients see the screen, inspect app accessibility trees, control mouse/keyboard, manage windows, and run commands, all behind tiered permissions and audit logging.",
+  "source_repo": "sitharaj88/macctl",
+  "source_url": "https://github.com/sitharaj88/macctl",
+  "install": "# git clone --depth 1 https://github.com/sitharaj88/macctl\n# See source for mcpServers config block"
+}

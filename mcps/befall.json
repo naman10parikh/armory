@@ -1,0 +1,7 @@
+{
+  "name": "befall",
+  "description": "Multiplayer coordination for AI coding agents: Claude Code, Codex CLI and Cursor share one room per repository. An agent claims a path glob before it edits and a conflicting claim is refused at claim time, so collisions are prevented rather than resolved at merge. Metadata only — source code and dif",
+  "source_repo": "esenbora/befall-mcp",
+  "source_url": "https://github.com/esenbora/befall-mcp",
+  "install": "npx -y befall-mcp"
+}

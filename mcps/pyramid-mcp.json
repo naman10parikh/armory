@@ -1,0 +1,7 @@
+{
+  "name": "pyramid-mcp",
+  "description": "Exposes Pyramid web application endpoints as Model Context Protocol (MCP) tools, enabling AI assistants to interact with Pyramid apps via natural language.",
+  "source_repo": "cartaorobbin/pyramid-mcp",
+  "source_url": "https://github.com/cartaorobbin/pyramid-mcp",
+  "install": "npx -y pyramid-mcp"
+}

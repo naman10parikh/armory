@@ -1,0 +1,7 @@
+{
+  "name": "knowledgerail",
+  "description": "Local-first MCP server that turns project documentation and source code into durable, evidence-backed context for AI agents, with bounded retrieval and explicit gap reporting.",
+  "source_repo": "Deviank88/KnowledgeRail",
+  "source_url": "https://github.com/Deviank88/KnowledgeRail",
+  "install": "# git clone --depth 1 https://github.com/Deviank88/KnowledgeRail\n# See source for mcpServers config block"
+}

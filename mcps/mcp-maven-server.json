@@ -1,0 +1,7 @@
+{
+  "name": "mcp-maven-server",
+  "description": "Wraps Maven and Spring Boot operations for Claude Code, providing structured JSON output instead of raw build logs to save tokens and focus on code fixes.",
+  "source_repo": "Christian-Carminati/mcp-maven-server",
+  "source_url": "https://github.com/Christian-Carminati/mcp-maven-server",
+  "install": "# git clone --depth 1 https://github.com/Christian-Carminati/mcp-maven-server\n# See source for mcpServers config block"
+}

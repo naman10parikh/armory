@@ -1,0 +1,7 @@
+{
+  "name": "magga",
+  "description": "Magga lets coding agents prove their changes before claiming they’re done by building the code and verifying that newly added tests fail before the fix and pass after it. It returns evidence-backed verdicts through the verify_change tool and supports 16 languages, including Rust, Go, Python, Solidit",
+  "source_repo": "8NobleTruths/magga",
+  "source_url": "https://github.com/8NobleTruths/magga",
+  "install": "# git clone --depth 1 https://github.com/8NobleTruths/magga\n# See source for mcpServers config block"
+}

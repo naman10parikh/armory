@@ -1,0 +1,7 @@
+{
+  "name": "steganography-mcp",
+  "description": "The most comprehensive steganography analysis toolkit for AI agents, providing 60 tools across 7 categories for detecting and extracting hidden data from images, audio, text, and files, all running 100% offline.",
+  "source_repo": "badchars/steganography-mcp",
+  "source_url": "https://github.com/badchars/steganography-mcp",
+  "install": "npx -y steganography-mcp"
+}

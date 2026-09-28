@@ -1,0 +1,7 @@
+{
+  "name": "paydesk-mcp",
+  "description": "PayDesk MCP is a production-grade Model Context Protocol (MCP) server that exposes payment gateway APIs, tools, prompts, and resources. It bridges the gap between an AI assistant and three underlying database systems to resemble real payment services like Stripe, Razorpay, or PayPal.",
+  "source_repo": "jbagga07/paydesk-mcp",
+  "source_url": "https://github.com/jbagga07/paydesk-mcp",
+  "install": "npx -y paydesk-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "verified-googledocs-mcp",
+  "description": "An MCP server for Google Docs whose writes carry proof, ensuring every mutating operation re-reads the document and returns evidence of changes with tab-scoped edits, normalization ladder, and match-count guards.",
+  "source_repo": "michaelrobertsutton/verified-googledocs-mcp",
+  "source_url": "https://github.com/michaelrobertsutton/verified-googledocs-mcp",
+  "install": "npx -y verified-googledocs-mcp"
+}

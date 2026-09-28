@@ -1,0 +1,7 @@
+{
+  "name": "arr-mcp",
+  "description": "MCP server to manage your *ARR media stack (Radarr, Sonarr, Lidarr, Readarr, Prowlarr) for searching, adding, and managing movies, TV shows, music, books, and indexers.",
+  "source_repo": "LtMarx/Arr-MCP",
+  "source_url": "https://github.com/LtMarx/Arr-MCP",
+  "install": "npx -y Arr-MCP"
+}

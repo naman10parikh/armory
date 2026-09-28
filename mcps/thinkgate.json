@@ -1,0 +1,7 @@
+{
+  "name": "thinkgate",
+  "description": "Classifies message complexity to automatically select the appropriate Claude effort level (fast, think, ultrathink) for efficient reasoning.",
+  "source_repo": "tjp2021/mcp-thinkgate",
+  "source_url": "https://github.com/tjp2021/mcp-thinkgate",
+  "install": "# git clone --depth 1 https://github.com/tjp2021/mcp-thinkgate\n# See source for mcpServers config block"
+}

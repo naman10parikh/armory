@@ -1,0 +1,7 @@
+{
+  "name": "oculr-mcp",
+  "description": "Enables AI agents to create and control real, isolated browser profiles with engine-level fingerprinting and per-profile proxies, providing antidetect browsing capabilities through a Model Context Protocol interface.",
+  "source_repo": "Oculr-ai/oculr-mcp",
+  "source_url": "https://github.com/Oculr-ai/oculr-mcp",
+  "install": "npx -y oculr-mcp"
+}

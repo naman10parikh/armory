@@ -1,0 +1,7 @@
+{
+  "name": "unreal-mcp-additional-tools",
+  "description": "An MCP server that complements Epic's official Unreal Engine MCP server with 78 additional tools across 14 subsystems for build/cook/package, cinematics, Niagara, automation testing, source control, profiling, World Partition, and project maintenance, using Unreal's built-in Python and Remote Contro",
+  "source_repo": "nodormu/unreal-mcp-additional-tools",
+  "source_url": "https://github.com/nodormu/unreal-mcp-additional-tools",
+  "install": "# git clone --depth 1 https://github.com/nodormu/unreal-mcp-additional-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kubeview-mcp",
+  "description": "Read-only MCP server for safe Kubernetes inspection, diagnosis, and debugging. Supports Kubernetes core, Helm, Argo Workflows, and Argo CD.",
+  "source_repo": "mikhae1/kubeview-mcp",
+  "source_url": "https://github.com/mikhae1/kubeview-mcp",
+  "install": "npx -y kubeview-mcp"
+}

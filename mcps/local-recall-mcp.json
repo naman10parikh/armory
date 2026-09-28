@@ -1,0 +1,7 @@
+{
+  "name": "local-recall-mcp",
+  "description": "Provides fully local long-term memory for AI agents by enabling semantic search over notes and session logs using Ollama embeddings, with no external APIs or databases.",
+  "source_repo": "Chikoku-NEKO/local-recall-mcp",
+  "source_url": "https://github.com/Chikoku-NEKO/local-recall-mcp",
+  "install": "npx -y local-recall-mcp"
+}

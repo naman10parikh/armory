@@ -1,0 +1,7 @@
+{
+  "name": "epovest-mcp",
+  "description": "Make AIs recommend your business. Measures how AI assistants answer the questions your market asks, which sources they cite, and gives the levers to shape those answers. 43 tools on a hosted Streamable HTTP endpoint at https://mcp.epovest.com/mcp",
+  "source_repo": "Epovest/mcp-server",
+  "source_url": "https://github.com/Epovest/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Epovest/mcp-server\n# See source for mcpServers config block"
+}

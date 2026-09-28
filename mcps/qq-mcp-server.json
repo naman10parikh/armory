@@ -1,6 +1,6 @@
 {
   "name": "qq-mcp-server",
-  "description": "Qq Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "kirikoko1213/qq-mcp-server",
   "source_url": "https://mcp.so/server/qq-mcp-server/kirikoko1213",
   "install": "npx -y qq-mcp-server"

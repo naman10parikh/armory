@@ -1,0 +1,7 @@
+{
+  "name": "ons-nomis-mcp-server",
+  "description": "Provides access to UK economic, social, and labour-market statistics via the ONS beta and Nomis APIs, enabling discovery and retrieval of time series, datasets, and census data.",
+  "source_repo": "brynmrgn/ons-mcp",
+  "source_url": "https://github.com/brynmrgn/ons-mcp",
+  "install": "npx -y ons-mcp"
+}

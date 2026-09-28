@@ -1,0 +1,7 @@
+{
+  "name": "normi-french-real-estate-data-dvf",
+  "description": "Access 17M+ geocoded French property transactions (DVF), 22M+ DPE energy ratings, and 20M+ building records via MCP or REST API. Search transactions, market stats, comparables, price trends, rental yield, flip detection, and more.",
+  "source_repo": "NormiHQ/mcp-dvf",
+  "source_url": "https://github.com/NormiHQ/mcp-dvf",
+  "install": "# git clone --depth 1 https://github.com/NormiHQ/mcp-dvf\n# See source for mcpServers config block"
+}

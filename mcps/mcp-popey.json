@@ -1,0 +1,7 @@
+{
+  "name": "mcp-popey",
+  "description": "Read-only MCP server for querying the Popey ERP database, organized by business circuits. It provides tools to list circuits, run SELECT queries, and retrieve schema metadata, with strict read-only enforcement.",
+  "source_repo": "sistemasLang/mcp-popey",
+  "source_url": "https://github.com/sistemasLang/mcp-popey",
+  "install": "# git clone --depth 1 https://github.com/sistemasLang/mcp-popey\n# See source for mcpServers config block"
+}

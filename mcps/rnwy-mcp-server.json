@@ -1,0 +1,7 @@
+{
+  "name": "rnwy-mcp-server",
+  "description": "Provides trust intelligence for AI agents across 12 chains, including sybil detection, reviewer wallet analysis, and risk tiers, with tools for trust checks, reviewer analysis, and agent comparison.",
+  "source_repo": "rnwy/mcp",
+  "source_url": "https://github.com/rnwy/mcp",
+  "install": "# git clone --depth 1 https://github.com/rnwy/mcp\n# See source for mcpServers config block"
+}

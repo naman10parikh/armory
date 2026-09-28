@@ -1,0 +1,7 @@
+{
+  "name": "nautex",
+  "description": "Integrates Nautex AI's specification and planning tool with coding agents to manage requirements, tasks, and code generation in small, testable steps.",
+  "source_repo": "hmldns/nautex",
+  "source_url": "https://github.com/hmldns/nautex",
+  "install": "# git clone --depth 1 https://github.com/hmldns/nautex\n# See source for mcpServers config block"
+}

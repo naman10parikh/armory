@@ -1,0 +1,7 @@
+{
+  "name": "frc-mcp",
+  "description": "MCP server for querying lender-level FHA denial statistics from the 2025 HMDA record, exposing tools to get national, lender, state, and door-effect summaries.",
+  "source_repo": "financeratecalc/frc-mcp",
+  "source_url": "https://github.com/financeratecalc/frc-mcp",
+  "install": "npx -y frc-mcp"
+}

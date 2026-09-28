@@ -1,0 +1,7 @@
+{
+  "name": "product-hunt-mcp-server",
+  "description": "Provides access to Product Hunt data via the Product Hunt API v2, enabling queries for posts, collections, users, topics, comments, goals, and maker groups.",
+  "source_repo": "Jing-yilin/producthunt-mcp-server",
+  "source_url": "https://github.com/Jing-yilin/producthunt-mcp-server",
+  "install": "npx -y producthunt-mcp-server"
+}

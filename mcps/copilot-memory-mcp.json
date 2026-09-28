@@ -1,0 +1,7 @@
+{
+  "name": "copilot-memory-mcp",
+  "description": "Cross-session memory layer for GitHub Copilot agent mode that stores fixes/decisions in SQLite and provides tools for save, search, and recall via MCP.",
+  "source_repo": "pradeeps/copilot-mem-mcp",
+  "source_url": "https://github.com/pradeeps/copilot-mem-mcp",
+  "install": "npx -y copilot-mem-mcp"
+}

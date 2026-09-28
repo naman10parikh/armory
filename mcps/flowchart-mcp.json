@@ -1,0 +1,7 @@
+{
+  "name": "flowchart-mcp",
+  "description": "Enables AI assistants to create, edit, and export flowcharts through a local web-based editor with visual drag-and-drop, real-time sync, and 14 MCP tools for full node/edge CRUD.",
+  "source_repo": "Zafer-Liu/Flowchart_MCP",
+  "source_url": "https://github.com/Zafer-Liu/Flowchart_MCP",
+  "install": "npx -y Flowchart_MCP"
+}

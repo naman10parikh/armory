@@ -1,0 +1,7 @@
+{
+  "name": "change-detection-store",
+  "description": "An MCP server that answers one question well: 'has this JSON changed since I last saw it?'",
+  "source_repo": "psluja/change-detection-store-mcp",
+  "source_url": "https://github.com/psluja/change-detection-store-mcp",
+  "install": "npx -y change-detection-store-mcp"
+}

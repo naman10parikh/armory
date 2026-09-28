@@ -1,0 +1,7 @@
+{
+  "name": "cloudarmor-mcp",
+  "description": "MCP server for Google Cloud Armor WAF log patrol. Enables daily_brief summaries of enforced denies, home-region false-positive checks, and preview rule review from Cloud Logging.",
+  "source_repo": "shigechika/cloudarmor-mcp",
+  "source_url": "https://github.com/shigechika/cloudarmor-mcp",
+  "install": "npx -y cloudarmor-mcp"
+}

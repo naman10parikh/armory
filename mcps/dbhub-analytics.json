@@ -1,0 +1,7 @@
+{
+  "name": "dbhub-analytics",
+  "description": "Universal Database MCP Server enabling AI assistants to connect and query multiple databases including Databricks, BigQuery, PostgreSQL, MySQL, SQL Server, SQLite, and MariaDB through a unified interface.",
+  "source_repo": "amansingh63/dbhub-analytics",
+  "source_url": "https://github.com/amansingh63/dbhub-analytics",
+  "install": "# git clone --depth 1 https://github.com/amansingh63/dbhub-analytics\n# See source for mcpServers config block"
+}

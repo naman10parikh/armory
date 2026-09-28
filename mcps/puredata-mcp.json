@@ -1,0 +1,7 @@
+{
+  "name": "puredata-mcp",
+  "description": "Control and live-patch Pure Data from AI agents via the Model Context Protocol.",
+  "source_repo": "damagethundercat/PureData-MCP",
+  "source_url": "https://github.com/damagethundercat/PureData-MCP",
+  "install": "npx -y PureData-MCP"
+}

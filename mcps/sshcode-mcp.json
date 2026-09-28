@@ -1,0 +1,7 @@
+{
+  "name": "sshcode-mcp",
+  "description": "An MCP server that enables AI assistants to perform development operations on remote servers via SSH, including executing commands, managing files, and browsing directories.",
+  "source_repo": "guanhxuan/sshcode-mcp",
+  "source_url": "https://github.com/guanhxuan/sshcode-mcp",
+  "install": "npx -y sshcode-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "finam-mcp-server",
+  "description": "Enables trading operations on the Finam platform via natural language, allowing users to manage accounts, place orders, and retrieve market data through AI assistants.",
+  "source_repo": "FinamWeb/finam-mcp",
+  "source_url": "https://github.com/FinamWeb/finam-mcp",
+  "install": "npx -y finam-mcp"
+}

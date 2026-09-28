@@ -1,0 +1,7 @@
+{
+  "name": "spark-ordernet-mcp",
+  "description": "Read-only MCP server for accessing Spark/Ordernet brokerage accounts, including Meitav Trade, Psagot, IBI, Nesua, and Gaon. Enables querying holdings, transactions, orders, returns, security lookup, price history, standing orders, and market news via natural language.",
+  "source_repo": "anhermon/spark-ordernet-mcp",
+  "source_url": "https://github.com/anhermon/spark-ordernet-mcp",
+  "install": "npx -y spark-ordernet-mcp"
+}

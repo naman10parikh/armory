@@ -1,0 +1,7 @@
+{
+  "name": "excaliwow-mcp",
+  "description": "MCP server for Excaliwow that lets AI agents create, read, render, manage, and edit diagrams through the Excaliwow REST API. It provides 18 tools for diagram generation, editing, reading, exporting, and organization, running over stdio for any MCP client.",
+  "source_repo": "excaliwow/mcp",
+  "source_url": "https://github.com/excaliwow/mcp",
+  "install": "# git clone --depth 1 https://github.com/excaliwow/mcp\n# See source for mcpServers config block"
+}

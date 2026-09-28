@@ -1,0 +1,7 @@
+{
+  "name": "instrument-mcp",
+  "description": "Enables AI to control RIGOL DHO/HDO oscilloscopes and SIGLENT SDG1000X signal generators via SCPI commands through a local stdio MCP server.",
+  "source_repo": "Xingwen37/instrument_mcp",
+  "source_url": "https://github.com/Xingwen37/instrument_mcp",
+  "install": "npx -y instrument_mcp"
+}

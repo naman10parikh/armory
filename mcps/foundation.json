@@ -1,0 +1,7 @@
+{
+  "name": "foundation",
+  "description": "MCP server for a personal long-term memory base, providing 140 tools to search and write via PostgreSQL and Qdrant, with integrations for Obsidian, session histories, meetings, tasks, and smart home.",
+  "source_repo": "nekoPhysics/foundation-core",
+  "source_url": "https://github.com/nekoPhysics/foundation-core",
+  "install": "# git clone --depth 1 https://github.com/nekoPhysics/foundation-core\n# See source for mcpServers config block"
+}

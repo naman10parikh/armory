@@ -1,0 +1,7 @@
+{
+  "name": "spotify-mcp-2",
+  "description": "Enables searching and managing Spotify playlists, tracks, and user information through the Spotify Web API.",
+  "source_repo": "abenke/spotify-mcp",
+  "source_url": "https://github.com/abenke/spotify-mcp",
+  "install": "npx -y spotify-mcp"
+}

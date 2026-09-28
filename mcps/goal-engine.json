@@ -1,0 +1,7 @@
+{
+  "name": "goal-engine",
+  "description": "Provides persistent goal-tracking with external evaluation for agentic CLIs, enabling run-until-done loops where an agent works across turns until a condition is met.",
+  "source_repo": "melihzafer/mcp-goal",
+  "source_url": "https://github.com/melihzafer/mcp-goal",
+  "install": "# git clone --depth 1 https://github.com/melihzafer/mcp-goal\n# See source for mcpServers config block"
+}

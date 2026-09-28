@@ -1,0 +1,7 @@
+{
+  "name": "hushvert",
+  "description": "File conversion for AI agents: office docs to PDF, PDF to Word, document interchange (Markdown/HTML/EPUB/LaTeX), and audio/video transcodes via the hushvert hosted API. Tools: convert_file, convert_poll, list_formats, check_usage.",
+  "source_repo": "hushvert/mcp",
+  "source_url": "https://github.com/hushvert/mcp",
+  "install": "# git clone --depth 1 https://github.com/hushvert/mcp\n# See source for mcpServers config block"
+}

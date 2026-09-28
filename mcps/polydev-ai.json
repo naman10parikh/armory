@@ -1,0 +1,7 @@
+{
+  "name": "polydev-ai",
+  "description": "Queries multiple AI models simultaneously (GPT 5.2, Claude Opus 4.5, Gemini 3, Grok 4.1) via a single API call to provide diverse expert perspectives and consensus recommendations.",
+  "source_repo": "polydev-ai/perspectives-mcp",
+  "source_url": "https://github.com/polydev-ai/perspectives-mcp",
+  "install": "npx -y perspectives-mcp"
+}

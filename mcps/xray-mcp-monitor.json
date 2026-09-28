@@ -1,0 +1,7 @@
+{
+  "name": "xray-mcp-monitor",
+  "description": "MCP server for checking reachability of nodes inside an Xray subscription by fetching subscription URLs, parsing nodes, running TCP probes, and exposing tools for scheduled monitoring.",
+  "source_repo": "i-zrhe2016/xray-mcp",
+  "source_url": "https://github.com/i-zrhe2016/xray-mcp",
+  "install": "npx -y xray-mcp"
+}

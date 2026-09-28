@@ -1,0 +1,7 @@
+{
+  "name": "company-management-mcp-server",
+  "description": "Enables managing employee information, tasks (todos), and company policies via MCP tools and resources.",
+  "source_repo": "soulhyr/nvidia-mcp-test1",
+  "source_url": "https://github.com/soulhyr/nvidia-mcp-test1",
+  "install": "# git clone --depth 1 https://github.com/soulhyr/nvidia-mcp-test1\n# See source for mcpServers config block"
+}

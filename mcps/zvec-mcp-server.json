@@ -1,0 +1,7 @@
+{
+  "name": "zvec-mcp-server",
+  "description": "Enables LLMs to interact with Zvec vector database through tools for collection management, document operations, vector search, and AI-powered embeddings.",
+  "source_repo": "zvec-ai/zvec-mcp-server",
+  "source_url": "https://github.com/zvec-ai/zvec-mcp-server",
+  "install": "npx -y zvec-mcp-server"
+}

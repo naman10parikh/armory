@@ -1,0 +1,7 @@
+{
+  "name": "servicenow-dev-mcp",
+  "description": "AI-powered ServiceNow developer toolkit for Claude Code with 116 tools covering script generation, code review, portal and catalog development, notifications, user and group management, CRUD operations, dictionary overrides, data migration, bidirectional integrations, ATF testing, performance analys",
+  "source_repo": "pinnintisagarSB/ServiceNow-Dev-MCP",
+  "source_url": "https://github.com/pinnintisagarSB/ServiceNow-Dev-MCP",
+  "install": "npx -y ServiceNow-Dev-MCP"
+}

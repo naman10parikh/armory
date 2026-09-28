@@ -1,0 +1,7 @@
+{
+  "name": "eia-energy-mcp-server",
+  "description": "Browse and query the EIA API v2 — electricity, petroleum, natural gas, coal, forecasts via MCP.",
+  "source_repo": "",
+  "source_url": "https://eia-energy.caseyjhand.com/mcp",
+  "install": "# git clone --depth 1 https://eia-energy.caseyjhand.com/mcp\n# See source for mcpServers config block"
+}

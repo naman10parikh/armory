@@ -1,0 +1,7 @@
+{
+  "name": "mcp-brasil",
+  "description": "MCP Server for accessing 36 Brazilian public data sources and 1 agent, enabling AI agents to query government data on economy, legislation, transparency, judiciary, elections, environment, health, and more.",
+  "source_repo": "bob-reis/mcp-brasil",
+  "source_url": "https://github.com/bob-reis/mcp-brasil",
+  "install": "# git clone --depth 1 https://github.com/bob-reis/mcp-brasil\n# See source for mcpServers config block"
+}

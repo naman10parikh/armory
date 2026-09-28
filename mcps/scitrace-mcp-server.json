@@ -1,0 +1,7 @@
+{
+  "name": "scitrace-mcp-server",
+  "description": "Enables AI agents to record and query reasoning steps in SQLite, offloading trace data from the context window, with DAG support and persistent cross-session memory.",
+  "source_repo": "Mobai-read/scitrace",
+  "source_url": "https://github.com/Mobai-read/scitrace",
+  "install": "# git clone --depth 1 https://github.com/Mobai-read/scitrace\n# See source for mcpServers config block"
+}

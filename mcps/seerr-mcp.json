@@ -1,0 +1,7 @@
+{
+  "name": "seerr-mcp",
+  "description": "Enables AI assistants to search media catalogs and request movies and shows on Overseerr or Jellyseerr, with automatic approval and availability checks. It runs as a Cloudflare Worker and integrates with Radarr/Sonarr for seamless media requests.",
+  "source_repo": "Neoo-Blue/seerr-mcp",
+  "source_url": "https://github.com/Neoo-Blue/seerr-mcp",
+  "install": "npx -y seerr-mcp"
+}

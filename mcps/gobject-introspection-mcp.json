@@ -1,0 +1,7 @@
+{
+  "name": "gobject-introspection-mcp",
+  "description": "Exposes GObject Introspection metadata to coding agents, enabling querying of libraries, classes, functions, signals, properties, and more through MCP tools.",
+  "source_repo": "TingPing/gobject-introspection-mcp",
+  "source_url": "https://github.com/TingPing/gobject-introspection-mcp",
+  "install": "npx -y gobject-introspection-mcp"
+}

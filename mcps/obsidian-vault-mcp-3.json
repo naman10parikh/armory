@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-vault-mcp-3",
+  "description": "Enables Claude to read, write, search, and manage an Obsidian vault with tools for notes, tags, folders, and full-text search.",
+  "source_repo": "Adaptive-Edge/obsidian-vault-mcp",
+  "source_url": "https://github.com/Adaptive-Edge/obsidian-vault-mcp",
+  "install": "npx -y obsidian-vault-mcp"
+}

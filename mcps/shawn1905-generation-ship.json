@@ -1,0 +1,7 @@
+{
+  "name": "shawn1905-generation-ship",
+  "description": "AI building world",
+  "source_repo": "shawn1905/generation-ship",
+  "source_url": "https://github.com/shawn1905/generation-ship",
+  "install": "# git clone --depth 1 https://github.com/shawn1905/generation-ship\n# See source for mcpServers config block"
+}

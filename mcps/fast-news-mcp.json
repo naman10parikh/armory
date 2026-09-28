@@ -1,0 +1,7 @@
+{
+  "name": "fast-news-mcp",
+  "description": "Search, trending, topics, and local news all in one MCP server. Article previews, deduplication, source filtering, and 40+ languages built in.",
+  "source_repo": "wllrdev/Fast-News-MCP",
+  "source_url": "https://github.com/wllrdev/Fast-News-MCP",
+  "install": "npx -y Fast-News-MCP"
+}

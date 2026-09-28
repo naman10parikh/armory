@@ -1,0 +1,7 @@
+{
+  "name": "wiki-rag-mcp",
+  "description": "Enables searching enterprise wiki content via vector embeddings, using Qdrant for storage and FastMCP for SSE-based tool exposure.",
+  "source_repo": "petesouth/ai-realtime-wiki-ingestor",
+  "source_url": "https://github.com/petesouth/ai-realtime-wiki-ingestor",
+  "install": "# git clone --depth 1 https://github.com/petesouth/ai-realtime-wiki-ingestor\n# See source for mcpServers config block"
+}

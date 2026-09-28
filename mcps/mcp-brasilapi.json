@@ -1,0 +1,7 @@
+{
+  "name": "mcp-brasilapi",
+  "description": "Exposes the BrasilAPI as MCP tools, enabling AI agents to query Brazilian public data such as CEP, CNPJ, DDD, IBGE, banks, PIX, FIPE, NCM, exchange rates, taxes, weather, CVM information, holidays, ISBN, domains, stock tickers, and TUSS.",
+  "source_repo": "silasrm/mcp-brasilapi",
+  "source_url": "https://github.com/silasrm/mcp-brasilapi",
+  "install": "# git clone --depth 1 https://github.com/silasrm/mcp-brasilapi\n# See source for mcpServers config block"
+}

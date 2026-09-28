@@ -1,0 +1,7 @@
+{
+  "name": "winsight-mcp",
+  "description": "Windows Screen Capture MCP Server — give Claude Code eyes on your Windows desktop.",
+  "source_repo": "TheoEwzZer/WinSight-MCP",
+  "source_url": "https://github.com/TheoEwzZer/WinSight-MCP",
+  "install": "npx -y WinSight-MCP"
+}

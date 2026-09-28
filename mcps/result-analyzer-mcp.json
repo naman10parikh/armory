@@ -1,0 +1,7 @@
+{
+  "name": "result-analyzer-mcp",
+  "description": "MCP server for querying, validating, and analyzing student result data from a local database.",
+  "source_repo": "faizullahbalti29/result-analyzer-mcp",
+  "source_url": "https://github.com/faizullahbalti29/result-analyzer-mcp",
+  "install": "npx -y result-analyzer-mcp"
+}

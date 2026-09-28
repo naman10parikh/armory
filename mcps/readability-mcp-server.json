@@ -1,0 +1,7 @@
+{
+  "name": "readability-mcp-server",
+  "description": "Lets any AI agent score and simplify its own text before it reaches a human, using Flesch readability metrics and plain-language rewrites entirely on the local machine.",
+  "source_repo": "wedo911/readability-mcp-server",
+  "source_url": "https://github.com/wedo911/readability-mcp-server",
+  "install": "npx -y readability-mcp-server"
+}

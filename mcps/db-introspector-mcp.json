@@ -1,0 +1,7 @@
+{
+  "name": "db-introspector-mcp",
+  "description": "MCP server for introspecting PostgreSQL databases, providing tools to list tables, describe schemas, foreign keys, and generate DOT ER diagrams.",
+  "source_repo": "0PValencia/db-introspector-mcp",
+  "source_url": "https://github.com/0PValencia/db-introspector-mcp",
+  "install": "npx -y db-introspector-mcp"
+}

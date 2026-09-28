@@ -1,0 +1,7 @@
+{
+  "name": "bizratings-mcp",
+  "description": "Exposes the BizRatings CSAT/NPS customer-survey API for ConnectWise partners as MCP tools.",
+  "source_repo": "MSPbotsAI/bizratings-mcp",
+  "source_url": "https://github.com/MSPbotsAI/bizratings-mcp",
+  "install": "npx -y bizratings-mcp"
+}

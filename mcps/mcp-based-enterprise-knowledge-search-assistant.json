@@ -1,0 +1,7 @@
+{
+  "name": "mcp-based-enterprise-knowledge-search-assistant",
+  "description": "Enables enterprise knowledge search through a chat interface, comparing traditional RAG with MCP-driven retrieval using hybrid BM25 and dense vector search, Ollama-powered answer generation, and question routing to domain-specific retrieval tools.",
+  "source_repo": "Devidas-07/mcp-based-rag",
+  "source_url": "https://github.com/Devidas-07/mcp-based-rag",
+  "install": "# git clone --depth 1 https://github.com/Devidas-07/mcp-based-rag\n# See source for mcpServers config block"
+}

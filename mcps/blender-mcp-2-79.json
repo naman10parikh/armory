@@ -1,0 +1,7 @@
+{
+  "name": "blender-mcp-2-79",
+  "description": "Enables Claude AI to control Blender 2.79 for 3D modeling, scene creation, and manipulation through the Model Context Protocol, with legacy compatibility for older Blender versions.",
+  "source_repo": "AaronBrunckhurst/blender-mcp-2.79",
+  "source_url": "https://github.com/AaronBrunckhurst/blender-mcp-2.79",
+  "install": "# git clone --depth 1 https://github.com/AaronBrunckhurst/blender-mcp-2.79\n# See source for mcpServers config block"
+}

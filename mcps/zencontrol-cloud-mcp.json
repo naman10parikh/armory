@@ -1,0 +1,7 @@
+{
+  "name": "zencontrol-cloud-mcp",
+  "description": "Enables AI assistants to discover and control ZenControl DALI-2 lighting systems through natural language via the ZenControl Cloud API.",
+  "source_repo": "oWretch/zencontrol-cloud-mcp",
+  "source_url": "https://github.com/oWretch/zencontrol-cloud-mcp",
+  "install": "npx -y zencontrol-cloud-mcp"
+}

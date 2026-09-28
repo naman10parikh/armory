@@ -1,0 +1,7 @@
+{
+  "name": "mcp-registry-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides tools to query the official MCP Registry.",
+  "source_repo": "wei/mcp-registry-mcp-server",
+  "source_url": "https://github.com/wei/mcp-registry-mcp-server",
+  "install": "npx -y mcp-registry-mcp-server"
+}

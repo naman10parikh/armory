@@ -1,0 +1,7 @@
+{
+  "name": "mssql-mcp-python-server",
+  "description": "MCP server for safely exposing SQL Server database capabilities to LLM clients, with read-only mode, security features, and observability.",
+  "source_repo": "lorenzouriel/mssql-mcp-python",
+  "source_url": "https://github.com/lorenzouriel/mssql-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/lorenzouriel/mssql-mcp-python\n# See source for mcpServers config block"
+}

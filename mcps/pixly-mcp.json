@@ -1,0 +1,7 @@
+{
+  "name": "pixly-mcp",
+  "description": "Provides AI assistants with real-estate visual tools including virtual staging, photo enhancement, decluttering, day-to-night conversion, plot signs, and cinematic property videos via the Pixly API.",
+  "source_repo": "JanKratochvil1/pixly-mcp",
+  "source_url": "https://github.com/JanKratochvil1/pixly-mcp",
+  "install": "npx -y pixly-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stateark",
+  "description": "Saves the current state of a project — decisions, rejected approaches, open questions and the actual files — and hands it to any new chat, so you never re-explain a project twice. Local-first: everything is written to your own disk as plain Markdown and JSON, with no account and no telemetry.",
+  "source_repo": "Askrion/stateark",
+  "source_url": "https://github.com/Askrion/stateark",
+  "install": "# git clone --depth 1 https://github.com/Askrion/stateark\n# See source for mcpServers config block"
+}

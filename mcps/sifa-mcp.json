@@ -1,0 +1,7 @@
+{
+  "name": "sifa-mcp",
+  "description": "MCP server for portable reputation and skills passports in East Africa — worker profiles, verified service records, trust scores, and professional references for economic mobility. 6 tools.",
+  "source_repo": "gabrielmahia/sifa-mcp",
+  "source_url": "https://github.com/gabrielmahia/sifa-mcp",
+  "install": "npx -y sifa-mcp"
+}

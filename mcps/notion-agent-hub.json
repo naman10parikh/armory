@@ -1,0 +1,7 @@
+{
+  "name": "notion-agent-hub",
+  "description": "An MCP server that connects AI assistants to Notion, enabling automated research, GitHub tracking, and content pipelines with human-in-the-loop approval via a Notion task queue.",
+  "source_repo": "tysoncung/notion-agent-hub",
+  "source_url": "https://github.com/tysoncung/notion-agent-hub",
+  "install": "# git clone --depth 1 https://github.com/tysoncung/notion-agent-hub\n# See source for mcpServers config block"
+}

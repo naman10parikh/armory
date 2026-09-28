@@ -1,0 +1,7 @@
+{
+  "name": "feedhook-mcp",
+  "description": "Turns a YouTube channel into a webhook that delivers signed HTTP POST notifications ~8 seconds after a new video is published, without polling or YouTube API quota.",
+  "source_repo": "patwalls/feedhook-mcp",
+  "source_url": "https://github.com/patwalls/feedhook-mcp",
+  "install": "npx -y feedhook-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scavenge",
+  "description": "Enables deterministic web evidence collection by inspecting a field (price or availability) on a web page and returning structured observations from multiple channels (raw DOM, structured data, embedded state, rendered DOM, network JSON) with exact provenance, without interpreting correctness.",
+  "source_repo": "aarohim24/Scavenge",
+  "source_url": "https://github.com/aarohim24/Scavenge",
+  "install": "# git clone --depth 1 https://github.com/aarohim24/Scavenge\n# See source for mcpServers config block"
+}

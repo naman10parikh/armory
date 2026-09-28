@@ -1,0 +1,7 @@
+{
+  "name": "valmera-mcp-server",
+  "description": "An agentic AI video editor for Claude. It enables editing real video through MCP: cutting, captioning, reframing, scoring, and exporting finished MP4s from actual footage.",
+  "source_repo": "ABO3SKRALMASAOODI/valmera-mcp",
+  "source_url": "https://github.com/ABO3SKRALMASAOODI/valmera-mcp",
+  "install": "npx -y valmera-mcp"
+}

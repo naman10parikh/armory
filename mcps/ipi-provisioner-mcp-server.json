@@ -1,0 +1,7 @@
+{
+  "name": "ipi-provisioner-mcp-server",
+  "description": "An MCP server for OpenShift Baremetal IPI cluster provisioning, allowing users to generate and validate install-config.yaml files, test BMC connectivity, validate networks, and manage cluster installation lifecycle.",
+  "source_repo": "redhat-community-ai-tools/openshift-ipi-mcp",
+  "source_url": "https://github.com/redhat-community-ai-tools/openshift-ipi-mcp",
+  "install": "npx -y openshift-ipi-mcp"
+}

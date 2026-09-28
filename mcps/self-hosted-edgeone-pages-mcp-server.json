@@ -1,0 +1,7 @@
+{
+  "name": "self-hosted-edgeone-pages-mcp-server",
+  "description": "Enables AI assistants to deploy and manage static websites through a self-hosted EdgeOne Pages MCP server, with one-click deploy and direct API access.",
+  "source_repo": "itey/metax-pages-mcp",
+  "source_url": "https://github.com/itey/metax-pages-mcp",
+  "install": "npx -y metax-pages-mcp"
+}

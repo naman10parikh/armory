@@ -1,0 +1,7 @@
+{
+  "name": "handoff-mcp-server",
+  "description": "Enables durable handoffs and shared scratchpad for multi-agent workflows over MCP HTTP transport.",
+  "source_repo": "josephibra/handoff-mcp-server",
+  "source_url": "https://github.com/josephibra/handoff-mcp-server",
+  "install": "npx -y handoff-mcp-server"
+}

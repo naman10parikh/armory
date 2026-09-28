@@ -1,0 +1,7 @@
+{
+  "name": "turbosign-mcp",
+  "description": "Enables sending PDFs for e-signature via the TurboSign API, with tools for sending, reviewing, tracking status, downloading signed documents, voiding, resending, and managing credentials.",
+  "source_repo": "disciplin-run-org/turbosign-mcp",
+  "source_url": "https://github.com/disciplin-run-org/turbosign-mcp",
+  "install": "npx -y turbosign-mcp"
+}

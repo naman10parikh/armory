@@ -1,0 +1,7 @@
+{
+  "name": "usc-webreg-course-catalog-mcp",
+  "description": "Exposes USC's public course catalog API to AI agents, enabling natural-language queries about courses, GE requirements, schedules, and fees with optional filters for days, times, and open sections.",
+  "source_repo": "shreeyachand/usc-webreg-mcp",
+  "source_url": "https://github.com/shreeyachand/usc-webreg-mcp",
+  "install": "npx -y usc-webreg-mcp"
+}

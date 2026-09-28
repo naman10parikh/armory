@@ -1,0 +1,7 @@
+{
+  "name": "git-commit-mcp-server",
+  "description": "Enables AI assistants to create conventional Git commits, update changelogs, and optionally push changes to remote repositories.",
+  "source_repo": "surajfale/git-mcp-server",
+  "source_url": "https://github.com/surajfale/git-mcp-server",
+  "install": "npx -y git-mcp-server"
+}

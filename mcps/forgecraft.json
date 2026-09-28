@@ -1,0 +1,7 @@
+{
+  "name": "forgecraft",
+  "description": "Provides a quality framework and enforceable conventions for AI coding assistants, ensuring code quality, environment hygiene, and project standards across multiple AI tools.",
+  "source_repo": "jghiringhelli/forgecraft-mcp",
+  "source_url": "https://github.com/jghiringhelli/forgecraft-mcp",
+  "install": "npx -y forgecraft-mcp"
+}

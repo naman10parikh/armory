@@ -1,6 +1,6 @@
 {
   "name": "open-browser-mcp-server",
-  "description": "Open Browser Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "handoing/open-browser-mcp-server",
   "source_url": "https://mcp.so/server/open-browser-mcp-server/handoing",
   "install": "npx -y open-browser-mcp-server"

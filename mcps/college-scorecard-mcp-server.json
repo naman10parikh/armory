@@ -1,0 +1,7 @@
+{
+  "name": "college-scorecard-mcp-server",
+  "description": "Search, compare, and analyze U.S. college data — costs, earnings, programs, and outcomes — via MCP.",
+  "source_repo": "cyanheads/college-scorecard-mcp-server",
+  "source_url": "https://github.com/cyanheads/college-scorecard-mcp-server",
+  "install": "npx -y college-scorecard-mcp-server"
+}

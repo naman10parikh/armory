@@ -1,0 +1,7 @@
+{
+  "name": "value-investing-agent",
+  "description": "An AI-powered MCP server for value investors. Analyze stocks using principles from Benjamin Graham and Warren Buffett.",
+  "source_repo": "danielchu97/Value-Investing-Agent",
+  "source_url": "https://github.com/danielchu97/Value-Investing-Agent",
+  "install": "# git clone --depth 1 https://github.com/danielchu97/Value-Investing-Agent\n# See source for mcpServers config block"
+}

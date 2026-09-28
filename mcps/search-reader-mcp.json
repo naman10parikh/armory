@@ -1,0 +1,7 @@
+{
+  "name": "search-reader-mcp",
+  "description": "MCP server extending Jina Reader to provide web page/PDF to Markdown reading and Bocha AI/web search via a single HTTP endpoint, exposing read, search, and MCP tools.",
+  "source_repo": "bob56621517/search-reader-mcp",
+  "source_url": "https://github.com/bob56621517/search-reader-mcp",
+  "install": "npx -y search-reader-mcp"
+}

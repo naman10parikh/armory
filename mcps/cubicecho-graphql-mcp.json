@@ -1,0 +1,7 @@
+{
+  "name": "cubicecho-graphql-mcp",
+  "description": "Converts a GraphQL schema into MCP tools, allowing AI to discover and call GraphQL queries and mutations via natural language.",
+  "source_repo": "cubicecho/graphql-mcp",
+  "source_url": "https://github.com/cubicecho/graphql-mcp",
+  "install": "npx -y graphql-mcp"
+}

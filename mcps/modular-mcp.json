@@ -1,0 +1,7 @@
+{
+  "name": "modular-mcp",
+  "description": "A proxy MCP server that manages multiple upstream MCP servers by grouping them and loading tool schemas on-demand, reducing LLM context usage.",
+  "source_repo": "d-kimuson/modular-mcp",
+  "source_url": "https://github.com/d-kimuson/modular-mcp",
+  "install": "npx -y modular-mcp"
+}

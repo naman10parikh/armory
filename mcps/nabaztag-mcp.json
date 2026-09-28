@@ -1,0 +1,7 @@
+{
+  "name": "nabaztag-mcp",
+  "description": "MCP server for controlling a Nabaztag rabbit's ears, LEDs, and voice pipeline, enabling AI tool-use via Claude Desktop/Code.",
+  "source_repo": "maubau/nabaztag-ai",
+  "source_url": "https://github.com/maubau/nabaztag-ai",
+  "install": "# git clone --depth 1 https://github.com/maubau/nabaztag-ai\n# See source for mcpServers config block"
+}

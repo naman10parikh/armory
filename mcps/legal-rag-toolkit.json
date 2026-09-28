@@ -1,0 +1,7 @@
+{
+  "name": "legal-rag-toolkit",
+  "description": "Enables semantic search over Turkish legal contracts and emails via an MCP server integrated with Claude Desktop and Claude Code, providing tools for document ingestion, hybrid vector search, and full-text retrieval.",
+  "source_repo": "avocatt/legal-rag-toolkit",
+  "source_url": "https://github.com/avocatt/legal-rag-toolkit",
+  "install": "# git clone --depth 1 https://github.com/avocatt/legal-rag-toolkit\n# See source for mcpServers config block"
+}

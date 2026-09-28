@@ -1,0 +1,7 @@
+{
+  "name": "deepseek-vision-mcp",
+  "description": "Provides a recognize_image tool that enables image recognition using DeepSeek's vision capabilities. Supports automatic login via browser or manual token configuration for server environments.",
+  "source_repo": "m77can/deepseek-vision-mcp",
+  "source_url": "https://github.com/m77can/deepseek-vision-mcp",
+  "install": "npx -y deepseek-vision-mcp"
+}

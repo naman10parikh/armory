@@ -1,0 +1,7 @@
+{
+  "name": "mcp-xubio",
+  "description": "Enables querying Xubio accounting data (clients, invoices, products, balances) through natural language by exposing 52 read-only API endpoints as MCP tools.",
+  "source_repo": "Ignacio-Llabot/mcp-xubio",
+  "source_url": "https://github.com/Ignacio-Llabot/mcp-xubio",
+  "install": "# git clone --depth 1 https://github.com/Ignacio-Llabot/mcp-xubio\n# See source for mcpServers config block"
+}

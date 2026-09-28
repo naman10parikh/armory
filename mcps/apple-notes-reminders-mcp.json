@@ -1,0 +1,7 @@
+{
+  "name": "apple-notes-reminders-mcp",
+  "description": "An MCP server that enables reading and writing Apple Notes and Reminders directly from MCP-compatible clients like Claude Desktop.",
+  "source_repo": "martijnstegink/apple-notes-reminders-mcp",
+  "source_url": "https://github.com/martijnstegink/apple-notes-reminders-mcp",
+  "install": "npx -y apple-notes-reminders-mcp"
+}

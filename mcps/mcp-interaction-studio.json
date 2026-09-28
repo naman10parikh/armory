@@ -1,0 +1,7 @@
+{
+  "name": "mcp-interaction-studio",
+  "description": "MCP server for Salesforce Interaction Studio that enables listing and managing datasets, campaigns, segments, and performance stats via natural language.",
+  "source_repo": "matheswarwan/mcp-interaction-studio",
+  "source_url": "https://github.com/matheswarwan/mcp-interaction-studio",
+  "install": "# git clone --depth 1 https://github.com/matheswarwan/mcp-interaction-studio\n# See source for mcpServers config block"
+}

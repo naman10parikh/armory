@@ -1,0 +1,7 @@
+{
+  "name": "velora-mcp-demo",
+  "description": "A free public demo of Velora's agentic-commerce MCP toolkit, hosting ~49 real tool schemas with three honesty levels: pure validations, read-only sample data, and refused side-effect tools.",
+  "source_repo": "crossi-dev/velora-mcp-demo",
+  "source_url": "https://github.com/crossi-dev/velora-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/crossi-dev/velora-mcp-demo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "byakugan-private-open-source-ai-text-checker",
+  "description": "A private, open-source AI-text checker. Get a read on whether text looks AI-written, the exact AI-tell spans to fix, a reuse check, and a grammar pass.",
+  "source_repo": "JayOfemi/byakugan",
+  "source_url": "https://github.com/JayOfemi/byakugan",
+  "install": "# git clone --depth 1 https://github.com/JayOfemi/byakugan\n# See source for mcpServers config block"
+}

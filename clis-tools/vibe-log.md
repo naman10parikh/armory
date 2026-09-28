@@ -7,7 +7,7 @@ license: MIT
 ---
 # vibe-log
 
-Analyzes your Claude Code prompts locally (using CC), provides intelligent session analysis and actionable strategic guidance - works in the statusline and produces very pretty HTML reports as well. Easy to install and remove.
+Analyses your Claude Code prompts locally, gives session analysis and guidance in the status line, and produces HTML reports. Installs and uninstalls cleanly.
 
 **Source:** https://github.com/vibe-log/vibe-log-cli
 

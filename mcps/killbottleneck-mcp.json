@@ -1,0 +1,7 @@
+{
+  "name": "killbottleneck-mcp",
+  "description": "Goal and process maps for humans and AI agents on your own server: agents create and update nodes, manage tasks and automation rules and read the org structure, while people watch the same map live. Connects to your self-hosted killBottleneck instance.",
+  "source_repo": "tengolabs/killbottleneck",
+  "source_url": "https://github.com/tengolabs/killbottleneck",
+  "install": "# git clone --depth 1 https://github.com/tengolabs/killbottleneck\n# See source for mcpServers config block"
+}

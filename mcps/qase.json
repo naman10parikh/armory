@@ -1,7 +1,0 @@
-{
-  "name": "qase",
-  "description": "Manage test cases, runs, suites, and defects in Qase test management platform.",
-  "source_repo": "qase-tms/qase-mcp-server",
-  "source_url": "https://github.com/qase-tms/qase-mcp-server",
-  "install": "npx -y qase-mcp-server"
-}

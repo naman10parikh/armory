@@ -1,0 +1,7 @@
+{
+  "name": "peaka-api-mcp-server",
+  "description": "Model Context Protocol (MCP) server that provides access to Peaka's API endpoints for programmatic interaction.",
+  "source_repo": "peakacom/peaka-api-mcp-server",
+  "source_url": "https://github.com/peakacom/peaka-api-mcp-server",
+  "install": "npx -y peaka-api-mcp-server"
+}

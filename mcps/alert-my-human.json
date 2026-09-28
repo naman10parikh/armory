@@ -1,0 +1,7 @@
+{
+  "name": "alert-my-human",
+  "description": "A lightweight MCP server that lets agents send alerts across multiple channels (email, Slack, Telegram, SMS, webhooks) to notify humans about important events.",
+  "source_repo": "LMol-4/alert-my-human",
+  "source_url": "https://github.com/LMol-4/alert-my-human",
+  "install": "# git clone --depth 1 https://github.com/LMol-4/alert-my-human\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gets-nz",
+  "description": "Provides access to New Zealand Government Electronic Tenders Service (GETS) without API keys, enabling querying and searching for government tenders and contracts.",
+  "source_repo": "pipeworx-io/mcp-gets-nz",
+  "source_url": "https://github.com/pipeworx-io/mcp-gets-nz",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-gets-nz\n# See source for mcpServers config block"
+}

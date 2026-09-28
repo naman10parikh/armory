@@ -1,0 +1,7 @@
+{
+  "name": "mcp-python-interpreter-with-docker",
+  "description": "Enables executing Python code, managing environments and packages, and performing file operations within Docker containers.",
+  "source_repo": "beatwad/mcp_docker_python_interpreter",
+  "source_url": "https://github.com/beatwad/mcp_docker_python_interpreter",
+  "install": "# git clone --depth 1 https://github.com/beatwad/mcp_docker_python_interpreter\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-procurement-mcp-server",
+  "description": "Enables AI-powered procurement policy compliance, document generation, supplier management, budget verification, and analytics through standardized MCP tools.",
+  "source_repo": "kendrickjr/procurement-mcp-server",
+  "source_url": "https://github.com/kendrickjr/procurement-mcp-server",
+  "install": "npx -y procurement-mcp-server"
+}

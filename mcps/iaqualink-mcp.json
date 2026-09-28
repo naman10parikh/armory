@@ -1,0 +1,7 @@
+{
+  "name": "iaqualink-mcp",
+  "description": "Enables AI assistants to monitor and control Jandy iAqualink pool and spa equipment, including device status, power toggling, temperature settings, and lighting effects.",
+  "source_repo": "jgonzalez007/iaqualink-mcp",
+  "source_url": "https://github.com/jgonzalez007/iaqualink-mcp",
+  "install": "npx -y iaqualink-mcp"
+}

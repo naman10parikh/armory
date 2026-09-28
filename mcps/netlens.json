@@ -1,0 +1,7 @@
+{
+  "name": "netlens",
+  "description": "An MCP server that fetches any URL and returns clean Markdown, plus web search with real links.",
+  "source_repo": "pzalutski-pixel/netlens-mcp",
+  "source_url": "https://github.com/pzalutski-pixel/netlens-mcp",
+  "install": "npx -y netlens-mcp"
+}

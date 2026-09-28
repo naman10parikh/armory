@@ -1,0 +1,7 @@
+{
+  "name": "weather-alert-mcp-v2",
+  "description": "Enables querying live U.S. National Weather Service alerts by state through MCP, with both Python and TypeScript implementations.",
+  "source_repo": "rainygold25/weather-alert-mcp-v2",
+  "source_url": "https://github.com/rainygold25/weather-alert-mcp-v2",
+  "install": "# git clone --depth 1 https://github.com/rainygold25/weather-alert-mcp-v2\n# See source for mcpServers config block"
+}

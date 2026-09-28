@@ -1,0 +1,7 @@
+{
+  "name": "rollin-mcp-server",
+  "description": "Wheelchair accessibility data for 105,000+ locations across 15 US states. Enables search, details, and feedback submission through natural language.",
+  "source_repo": "DavidSirota/rollin-mcp-server",
+  "source_url": "https://github.com/DavidSirota/rollin-mcp-server",
+  "install": "npx -y rollin-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "work-assistant",
+  "description": "Enables AI agents to search and read a local, provider-independent email archive, reconstruct contacts and interactions, and prepare draft responses without sending anything.",
+  "source_repo": "Wulfgardr/work-assistant",
+  "source_url": "https://github.com/Wulfgardr/work-assistant",
+  "install": "# git clone --depth 1 https://github.com/Wulfgardr/work-assistant\n# See source for mcpServers config block"
+}

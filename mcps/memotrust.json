@@ -1,0 +1,7 @@
+{
+  "name": "memotrust",
+  "description": "Verified memory for AI agents — agents propose memories that are quarantined until verified against evidence, and recall() returns only trusted, fresh, and in-scope facts, preventing poisoned or hallucinated data from spreading.",
+  "source_repo": "Idanref/memotrust",
+  "source_url": "https://github.com/Idanref/memotrust",
+  "install": "# git clone --depth 1 https://github.com/Idanref/memotrust\n# See source for mcpServers config block"
+}

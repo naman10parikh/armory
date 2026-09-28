@@ -1,0 +1,7 @@
+{
+  "name": "teleport-mcp",
+  "description": "An MCP server that lets an LLM agent drive a TeleportXR headless client: connect to Teleport servers, move an avatar, send input, and inspect geometry.",
+  "source_repo": "teleportxr/teleport-mcp",
+  "source_url": "https://github.com/teleportxr/teleport-mcp",
+  "install": "npx -y teleport-mcp"
+}

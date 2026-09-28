@@ -1,0 +1,7 @@
+{
+  "name": "mark-coach-mcp",
+  "description": "Local MCP server that turns Mark Builds Brands' YouTube knowledge into an AI coaching assistant for ecommerce and Facebook Ads.",
+  "source_repo": "BlueNacho/mark-coach-mcp",
+  "source_url": "https://github.com/BlueNacho/mark-coach-mcp",
+  "install": "npx -y mark-coach-mcp"
+}

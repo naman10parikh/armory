@@ -1,0 +1,7 @@
+{
+  "name": "excel-live-mac",
+  "description": "Live Excel MCP server for macOS that interacts with running Excel instances in real time via AppleScript, enabling instant read/write, formula support, and VBA macro execution.",
+  "source_repo": "dcol3/excel-live-mac",
+  "source_url": "https://github.com/dcol3/excel-live-mac",
+  "install": "# git clone --depth 1 https://github.com/dcol3/excel-live-mac\n# See source for mcpServers config block"
+}

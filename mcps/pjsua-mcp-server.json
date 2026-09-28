@@ -1,0 +1,7 @@
+{
+  "name": "pjsua-mcp-server",
+  "description": "Manages multiple SIP user agents (phones) with full control over calls, registration, and media, plus a scenario engine for multi-step SIP flows.",
+  "source_repo": "Yevhenii-Yatchenko/pjsua_mcp",
+  "source_url": "https://github.com/Yevhenii-Yatchenko/pjsua_mcp",
+  "install": "npx -y pjsua_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tv-debug-mcp",
+  "description": "MCP server for semi-manual QA test execution on real Smart TVs (Tizen/webOS) and local Chrome via Chrome DevTools Protocol, enabling remote control, state inspection, and profiling.",
+  "source_repo": "Ediand11/tv-debug-mcp",
+  "source_url": "https://github.com/Ediand11/tv-debug-mcp",
+  "install": "npx -y tv-debug-mcp"
+}

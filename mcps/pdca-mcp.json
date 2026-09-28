@@ -1,0 +1,7 @@
+{
+  "name": "pdca-mcp",
+  "description": "Provides read-only query tools for PDCA dealer data (stores, sell-in/out, five-kit, meetings, targets) from production PostgreSQL for AI assistants, supporting stdio and authenticated HTTP transports.",
+  "source_repo": "wfywfywfy01/pdca-mcp",
+  "source_url": "https://github.com/wfywfywfy01/pdca-mcp",
+  "install": "npx -y pdca-mcp"
+}

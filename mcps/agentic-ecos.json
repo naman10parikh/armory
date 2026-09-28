@@ -1,0 +1,7 @@
+{
+  "name": "agentic-ecos",
+  "description": "MCP server that initializes, manages, and operates traceable agentic infrastructure across your digital ecosystem, serving as a control plane to know project states, health, and initialize missing setups.",
+  "source_repo": "deibanez/agentic-ecos",
+  "source_url": "https://github.com/deibanez/agentic-ecos",
+  "install": "# git clone --depth 1 https://github.com/deibanez/agentic-ecos\n# See source for mcpServers config block"
+}

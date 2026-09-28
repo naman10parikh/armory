@@ -1,0 +1,7 @@
+{
+  "name": "vechain-ai-terminal-mcp-server",
+  "description": "Enables Claude Desktop to interact with the VeChain blockchain through natural language commands for token transfers, DEX trading, cross-chain bridges, NFT management, and VeBetter DAO operations.",
+  "source_repo": "VeChain-AI-Terminal/vechain-terminal-mcp",
+  "source_url": "https://github.com/VeChain-AI-Terminal/vechain-terminal-mcp",
+  "install": "npx -y vechain-terminal-mcp"
+}

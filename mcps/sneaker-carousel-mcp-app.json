@@ -1,0 +1,7 @@
+{
+  "name": "sneaker-carousel-mcp-app",
+  "description": "Enables browsing a sneaker carousel, selecting sizes and quantities, and simulating a checkout process within Claude via an MCP App.",
+  "source_repo": "McpStorefront/mcp-apps-demo",
+  "source_url": "https://github.com/McpStorefront/mcp-apps-demo",
+  "install": "# git clone --depth 1 https://github.com/McpStorefront/mcp-apps-demo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-drive-comments-mcp",
+  "description": "A focused MCP server for reading comments on Google Drive files — Docs, Sheets, and Slides, with read-only OAuth scope.",
+  "source_repo": "zayansalman/google-drive-comments-mcp",
+  "source_url": "https://github.com/zayansalman/google-drive-comments-mcp",
+  "install": "npx -y google-drive-comments-mcp"
+}

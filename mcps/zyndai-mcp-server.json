@@ -1,0 +1,7 @@
+{
+  "name": "zyndai-mcp-server",
+  "description": "MCP server for AgentDNS that allows Claude or any MCP client to register a persona, discover and call other agents, and handle incoming messages with human-in-the-loop approval.",
+  "source_repo": "zyndai/mcp-server",
+  "source_url": "https://github.com/zyndai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/zyndai/mcp-server\n# See source for mcpServers config block"
+}

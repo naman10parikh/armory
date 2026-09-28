@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ens",
+  "description": "Enables resolving ENS names to Ethereum addresses and profile records, and reverse-resolving addresses to ENS names, all without requiring an API key.",
+  "source_repo": "pipeworx-io/mcp-ens",
+  "source_url": "https://github.com/pipeworx-io/mcp-ens",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-ens\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hwp-form-automation-mcp",
+  "description": "Automates Hancom Office HWP forms via COM, converting, extracting, field-filling, and exporting to PDF, preserving original formatting for Korean government and school documents.",
+  "source_repo": "Feynman520/d01-p01-hwp-form-automation-mcp",
+  "source_url": "https://github.com/Feynman520/d01-p01-hwp-form-automation-mcp",
+  "install": "npx -y d01-p01-hwp-form-automation-mcp"
+}

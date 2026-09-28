@@ -1,0 +1,7 @@
+{
+  "name": "sjtu-canvas-mcp",
+  "description": "Provides MCP tools to read SJTU Canvas data, download course files, and access video/subtitle resources without authentication simulation.",
+  "source_repo": "Aspirin0000/sjtu-canvas-assistant",
+  "source_url": "https://github.com/Aspirin0000/sjtu-canvas-assistant",
+  "install": "# git clone --depth 1 https://github.com/Aspirin0000/sjtu-canvas-assistant\n# See source for mcpServers config block"
+}

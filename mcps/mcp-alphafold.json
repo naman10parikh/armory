@@ -1,0 +1,7 @@
+{
+  "name": "mcp-alphafold",
+  "description": "Provides programmatic access to AlphaFold protein structure predictions and UniProt data, enabling users to retrieve protein structures, summaries, and annotations through natural language.",
+  "source_repo": "zeinab-sheikhi/mcp-alphafold",
+  "source_url": "https://github.com/zeinab-sheikhi/mcp-alphafold",
+  "install": "# git clone --depth 1 https://github.com/zeinab-sheikhi/mcp-alphafold\n# See source for mcpServers config block"
+}

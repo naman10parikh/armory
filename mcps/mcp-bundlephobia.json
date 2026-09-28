@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bundlephobia",
+  "description": "Enables npm bundle-size analysis including minified+gzipped size, tree-shakeability, dependencies, similar packages, version history, and recent searches.",
+  "source_repo": "pipeworx-io/mcp-bundlephobia",
+  "source_url": "https://github.com/pipeworx-io/mcp-bundlephobia",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-bundlephobia\n# See source for mcpServers config block"
+}

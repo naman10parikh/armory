@@ -1,0 +1,7 @@
+{
+  "name": "npi-registry-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for searching the National Provider Identifier (NPI) registry. It provides tools to search and retrieve information about healthcare providers and organizations in the United States.",
+  "source_repo": "fastmcp-me/npi-registry-mcp-server",
+  "source_url": "https://github.com/fastmcp-me/npi-registry-mcp-server",
+  "install": "npx -y npi-registry-mcp-server"
+}

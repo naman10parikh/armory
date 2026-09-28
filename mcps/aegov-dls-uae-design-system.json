@@ -1,0 +1,7 @@
+{
+  "name": "aegov-dls-uae-design-system",
+  "description": "UAE Design System (AEGOV DLS) for AI assistants: component catalogue, design tokens, UAE PASS & Emirates ID scaffolds, snippet validation.",
+  "source_repo": "dlsforge/aegov-dls-mcp",
+  "source_url": "https://github.com/dlsforge/aegov-dls-mcp",
+  "install": "npx -y aegov-dls-mcp"
+}

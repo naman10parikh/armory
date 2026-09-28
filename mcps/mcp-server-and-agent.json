@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-and-agent",
+  "description": "Provides a hand-written MCP server integrated with a LangGraph agent to benchmark multiple agent topologies and measure their failure rates.",
+  "source_repo": "moclamzw/mcp-server-and-agent",
+  "source_url": "https://github.com/moclamzw/mcp-server-and-agent",
+  "install": "# git clone --depth 1 https://github.com/moclamzw/mcp-server-and-agent\n# See source for mcpServers config block"
+}

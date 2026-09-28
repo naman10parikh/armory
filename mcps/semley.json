@@ -1,0 +1,7 @@
+{
+  "name": "semley",
+  "description": "Enables autonomous SRE incident investigation by allowing users to describe incidents in natural language. The agent follows a governed state machine to gather read-only evidence and produce grounded conclusions.",
+  "source_repo": "msradam/semley",
+  "source_url": "https://github.com/msradam/semley",
+  "install": "# git clone --depth 1 https://github.com/msradam/semley\n# See source for mcpServers config block"
+}

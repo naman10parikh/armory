@@ -1,0 +1,7 @@
+{
+  "name": "agent-sudo-mcp",
+  "description": "Local zero-trust permission gateway for AI agents. Enforces policy-based tool authorization, human approvals, scoped permissions, and cryptographically verifiable audit logs.",
+  "source_repo": "Kisyntra/Agent_Sudo",
+  "source_url": "https://github.com/Kisyntra/Agent_Sudo",
+  "install": "# git clone --depth 1 https://github.com/Kisyntra/Agent_Sudo\n# See source for mcpServers config block"
+}

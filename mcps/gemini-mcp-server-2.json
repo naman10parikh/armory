@@ -1,0 +1,7 @@
+{
+  "name": "gemini-mcp-server-2",
+  "description": "MCP server that connects Claude Desktop to Google Gemini, enabling multimodal analysis with file attachments (video, image, audio, PDF).",
+  "source_repo": "opedrenyo/gemini-mcp-server",
+  "source_url": "https://github.com/opedrenyo/gemini-mcp-server",
+  "install": "npx -y gemini-mcp-server"
+}

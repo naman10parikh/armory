@@ -1,0 +1,7 @@
+{
+  "name": "slackxmcp",
+  "description": "Enables MCP-compatible clients to interact with Slack through Web API tools and subscribe to inbound Slack messages via Socket Mode notifications.",
+  "source_repo": "vaibhavpandeyvpz/slackxmcp",
+  "source_url": "https://github.com/vaibhavpandeyvpz/slackxmcp",
+  "install": "# git clone --depth 1 https://github.com/vaibhavpandeyvpz/slackxmcp\n# See source for mcpServers config block"
+}

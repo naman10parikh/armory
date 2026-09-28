@@ -1,0 +1,7 @@
+{
+  "name": "giveradar-mcp-server",
+  "description": "GiveRadar's MCP server gives AI agents verified data on 7 million+ nonprofits across 65+ countries, sourced from official government registries. Tools let agents search charities, verify a charity by registration number or EIN, compare integrity scores, and find similar organizations.",
+  "source_repo": "matt-timmermans/giveradar-mcp",
+  "source_url": "https://github.com/matt-timmermans/giveradar-mcp",
+  "install": "npx -y giveradar-mcp"
+}

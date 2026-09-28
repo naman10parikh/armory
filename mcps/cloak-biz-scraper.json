@@ -1,0 +1,7 @@
+{
+  "name": "cloak-biz-scraper",
+  "description": "A self-hosted MCP server enabling AI assistants to scrape business-for-sale listings from websites like BizBuySell using stealth browsers and store results in Notion.",
+  "source_repo": "thisnick/cloak-biz-scraper",
+  "source_url": "https://github.com/thisnick/cloak-biz-scraper",
+  "install": "# git clone --depth 1 https://github.com/thisnick/cloak-biz-scraper\n# See source for mcpServers config block"
+}

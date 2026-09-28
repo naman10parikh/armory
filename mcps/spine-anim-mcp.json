@@ -1,0 +1,7 @@
+{
+  "name": "spine-anim-mcp",
+  "description": "An MCP server that converts layered PSD characters into Spine 4.2 rigs with deterministic, parametric 2D/2.5D animations (idle, walk, run, jump, attack, hit) ready for the Spine editor and Unity.",
+  "source_repo": "K-ulucay/spine_anim_mcp",
+  "source_url": "https://github.com/K-ulucay/spine_anim_mcp",
+  "install": "npx -y spine_anim_mcp"
+}

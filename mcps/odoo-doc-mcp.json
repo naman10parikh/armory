@@ -1,0 +1,7 @@
+{
+  "name": "odoo-doc-mcp",
+  "description": "MCP server that provides live Odoo documentation (v15.0–v19.0+) in clean Markdown, enabling AI assistants to search, fetch, and export official Odoo user and developer docs.",
+  "source_repo": "odoo-fun/odoo-doc-mcp",
+  "source_url": "https://github.com/odoo-fun/odoo-doc-mcp",
+  "install": "npx -y odoo-doc-mcp"
+}

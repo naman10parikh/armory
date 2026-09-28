@@ -1,0 +1,7 @@
+{
+  "name": "mcp-usaspending",
+  "description": "Enables access to federal spending data from USAspending.gov API via Pipeworx MCP gateway.",
+  "source_repo": "pipeworx-io/mcp-usaspending",
+  "source_url": "https://github.com/pipeworx-io/mcp-usaspending",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-usaspending\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mssql-mcp-server-streamable-http",
+  "description": "Provides MCP tools to query and inspect Microsoft SQL Server databases via a Streamable HTTP transport, including tools for running T-SQL queries, previewing tables, and retrieving schema context.",
+  "source_repo": "aekanun2020/fixed-2026-mssql-mcp-server-streamablehttp",
+  "source_url": "https://github.com/aekanun2020/fixed-2026-mssql-mcp-server-streamablehttp",
+  "install": "# git clone --depth 1 https://github.com/aekanun2020/fixed-2026-mssql-mcp-server-streamablehttp\n# See source for mcpServers config block"
+}

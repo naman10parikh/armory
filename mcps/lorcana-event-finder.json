@@ -1,0 +1,7 @@
+{
+  "name": "lorcana-event-finder",
+  "description": "An MCP server that lets AI assistants look up Disney Lorcana TCG events, stores, and tournament data via the Ravensburger Play API.",
+  "source_repo": "zammitt/unofficial-ravensburger-playhub-mcp",
+  "source_url": "https://github.com/zammitt/unofficial-ravensburger-playhub-mcp",
+  "install": "npx -y unofficial-ravensburger-playhub-mcp"
+}

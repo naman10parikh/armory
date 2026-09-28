@@ -1,0 +1,7 @@
+{
+  "name": "imagengen",
+  "description": "Generates and edits images via Gemini, Grok, and GPT-image providers for MCP clients like Claude Code that lack native image generation.",
+  "source_repo": "danton721/imagengen",
+  "source_url": "https://github.com/danton721/imagengen",
+  "install": "# git clone --depth 1 https://github.com/danton721/imagengen\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unofficial-clinical-trials-mcp-server",
+  "description": "Provides access to the ClinicalTrials.gov API, enabling search, analysis, and retrieval of clinical trial data through MCP tools.",
+  "source_repo": "Augmented-Nature/ClinicalTrials-MCP-Server",
+  "source_url": "https://github.com/Augmented-Nature/ClinicalTrials-MCP-Server",
+  "install": "npx -y ClinicalTrials-MCP-Server"
+}

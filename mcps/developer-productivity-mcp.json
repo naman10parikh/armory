@@ -1,0 +1,7 @@
+{
+  "name": "developer-productivity-mcp",
+  "description": "Provides MCP tools for GitHub code search, Jira sprint status, pull request risk analysis, and project metrics, enabling agentic workflows for developer productivity.",
+  "source_repo": "jiteshzope/Custom-MCP-server-Agentic-workflow-for-developer-productivity",
+  "source_url": "https://github.com/jiteshzope/Custom-MCP-server-Agentic-workflow-for-developer-productivity",
+  "install": "# git clone --depth 1 https://github.com/jiteshzope/Custom-MCP-server-Agentic-workflow-for-developer-productivity\n# See source for mcpServers config block"
+}

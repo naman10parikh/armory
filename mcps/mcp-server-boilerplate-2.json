@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-boilerplate-2",
+  "description": "A basic MCP server that provides an addition tool and an API key retrieval tool, designed as a boilerplate for integration with Cursor AI.",
+  "source_repo": "Potato-29/trello-mcp",
+  "source_url": "https://github.com/Potato-29/trello-mcp",
+  "install": "npx -y trello-mcp"
+}

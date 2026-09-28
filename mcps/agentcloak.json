@@ -1,0 +1,7 @@
+{
+  "name": "agentcloak",
+  "description": "A proxy service that sits between AI agents and email, providing safe access with read-only design, PII redaction, blocklists, and sanitization.",
+  "source_repo": "ryanfren/AgentCloak",
+  "source_url": "https://github.com/ryanfren/AgentCloak",
+  "install": "# git clone --depth 1 https://github.com/ryanfren/AgentCloak\n# See source for mcpServers config block"
+}

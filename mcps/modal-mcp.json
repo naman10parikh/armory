@@ -1,0 +1,7 @@
+{
+  "name": "modal-mcp",
+  "description": "An MCP server for managing Modal — apps, containers, volumes, and secrets — and for deploying & running Modal apps directly from Claude Code and other MCP clients.",
+  "source_repo": "george-bobby/mcp-modal",
+  "source_url": "https://github.com/george-bobby/mcp-modal",
+  "install": "# git clone --depth 1 https://github.com/george-bobby/mcp-modal\n# See source for mcpServers config block"
+}

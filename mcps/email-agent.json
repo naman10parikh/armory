@@ -1,0 +1,7 @@
+{
+  "name": "email-agent",
+  "description": "Turns Claude Desktop into an email assistant that connects to Gmail, reads your inbox, classifies emails, drafts replies in your voice, and sends them with your approval.",
+  "source_repo": "shreyapatelcodes/email-agent",
+  "source_url": "https://github.com/shreyapatelcodes/email-agent",
+  "install": "# git clone --depth 1 https://github.com/shreyapatelcodes/email-agent\n# See source for mcpServers config block"
+}

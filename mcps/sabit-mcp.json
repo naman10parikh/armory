@@ -1,0 +1,7 @@
+{
+  "name": "sabit-mcp",
+  "description": "Enables AI agents to verify email addresses through a multi-signal probabilistic pipeline, returning confidence scores and honest statuses (safe/risky/invalid/unknown) with evidence.",
+  "source_repo": "ruwadgroup/sabit",
+  "source_url": "https://github.com/ruwadgroup/sabit",
+  "install": "# git clone --depth 1 https://github.com/ruwadgroup/sabit\n# See source for mcpServers config block"
+}

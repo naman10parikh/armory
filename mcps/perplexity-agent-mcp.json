@@ -1,0 +1,7 @@
+{
+  "name": "perplexity-agent-mcp",
+  "description": "An MCP server for Perplexity's Agent API, enabling multi-step web research with citations through tools to start, collect, and cancel research runs.",
+  "source_repo": "zalez/perplexity-agent-mcp",
+  "source_url": "https://github.com/zalez/perplexity-agent-mcp",
+  "install": "npx -y perplexity-agent-mcp"
+}

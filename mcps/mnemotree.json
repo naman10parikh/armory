@@ -1,0 +1,7 @@
+{
+  "name": "mnemotree",
+  "description": "Mnemotree is an MCP server that provides biologically-inspired memory for LLM agents, enabling storage, retrieval, and analysis of structured knowledge with semantic search and relationship tracking.",
+  "source_repo": "kurcontko/mnemotree",
+  "source_url": "https://github.com/kurcontko/mnemotree",
+  "install": "# git clone --depth 1 https://github.com/kurcontko/mnemotree\n# See source for mcpServers config block"
+}

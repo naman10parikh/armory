@@ -1,0 +1,7 @@
+{
+  "name": "vaultmind",
+  "description": "Offline-first MCP proxy with policy engine and immutable audit trail for secure AI coding agents.",
+  "source_repo": "ik123a/VaultMind",
+  "source_url": "https://github.com/ik123a/VaultMind",
+  "install": "# git clone --depth 1 https://github.com/ik123a/VaultMind\n# See source for mcpServers config block"
+}

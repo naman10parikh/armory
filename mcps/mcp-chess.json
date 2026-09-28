@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chess",
+  "description": "An MCP server that exposes Stockfish chess analysis to LLM chat clients, enabling move analysis, game review, and explanation of engine choices.",
+  "source_repo": "dvip1/chess_mcp",
+  "source_url": "https://github.com/dvip1/chess_mcp",
+  "install": "npx -y chess_mcp"
+}

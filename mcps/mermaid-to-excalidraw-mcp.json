@@ -1,0 +1,7 @@
+{
+  "name": "mermaid-to-excalidraw-mcp",
+  "description": "MCP server that converts Mermaid diagrams to styled Excalidraw files, saving them directly to disk without token overhead.",
+  "source_repo": "yannick-cw/mermaid-to-excalidraw-mcp",
+  "source_url": "https://github.com/yannick-cw/mermaid-to-excalidraw-mcp",
+  "install": "npx -y mermaid-to-excalidraw-mcp"
+}

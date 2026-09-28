@@ -1,0 +1,7 @@
+{
+  "name": "chess-coach-mcp",
+  "description": "A hybrid AI chess coach MCP server that uses Stockfish for grounded evaluation and LLM for natural-language coaching, enabling game analysis, weakness diagnosis, and personalized drills from your own games.",
+  "source_repo": "parkseokjune/chess-coach-mcp",
+  "source_url": "https://github.com/parkseokjune/chess-coach-mcp",
+  "install": "npx -y chess-coach-mcp"
+}

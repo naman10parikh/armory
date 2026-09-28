@@ -1,0 +1,7 @@
+{
+  "name": "mcpify",
+  "description": "Turn any REST API into an MCP server in one command. Point mcpify at an OpenAPI spec and every endpoint becomes a tool your AI agent (Claude, Cursor, Windsurf) can call — zero glue code, always in sync with the spec.",
+  "source_repo": "Amanbig/mcpify",
+  "source_url": "https://github.com/Amanbig/mcpify",
+  "install": "# git clone --depth 1 https://github.com/Amanbig/mcpify\n# See source for mcpServers config block"
+}

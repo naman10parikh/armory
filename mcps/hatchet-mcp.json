@@ -1,0 +1,7 @@
+{
+  "name": "hatchet-mcp",
+  "description": "An MCP server for Hatchet, the durable orchestration engine, enabling LLMs to inspect workflow definitions, runs, logs, and more, with optional mutating tools for triggering, canceling, and managing workflows.",
+  "source_repo": "DanMeon/hatchet-mcp",
+  "source_url": "https://github.com/DanMeon/hatchet-mcp",
+  "install": "npx -y hatchet-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "weather-mcp-demo",
+  "description": "A FastMCP-based weather query tool using Open-Meteo API to get real-time weather by city name or coordinates, requiring no API key.",
+  "source_repo": "shanzi-1/weather-mcp-demo",
+  "source_url": "https://github.com/shanzi-1/weather-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/shanzi-1/weather-mcp-demo\n# See source for mcpServers config block"
+}

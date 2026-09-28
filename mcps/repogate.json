@@ -1,0 +1,7 @@
+{
+  "name": "repogate",
+  "description": "MCP server that wraps the GitHub REST API into tools for repo queries, issue/PR management, code review, search, and authentication, letting coding agents operate GitHub directly in conversations.",
+  "source_repo": "JohnXu22786/github-mcp",
+  "source_url": "https://github.com/JohnXu22786/github-mcp",
+  "install": "npx -y github-mcp"
+}

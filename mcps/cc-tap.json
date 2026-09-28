@@ -1,0 +1,7 @@
+{
+  "name": "cc-tap",
+  "description": "An MCP server that bridges Claude Desktop and Claude Code by letting Desktop read and interact with Claude Code Remote Control sessions, enabling cross-agent coordination.",
+  "source_repo": "es617/cc-tap",
+  "source_url": "https://github.com/es617/cc-tap",
+  "install": "# git clone --depth 1 https://github.com/es617/cc-tap\n# See source for mcpServers config block"
+}

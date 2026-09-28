@@ -1,0 +1,7 @@
+{
+  "name": "vantage-telemetry-mcp-server",
+  "description": "MCP server that captures and exposes usage, cost, productivity, and activity metrics for local-first software engineering teams, including LLM token usage, cloud cost savings, and developer activity tracking.",
+  "source_repo": "SALUS006/vantage-telemetry-mcp",
+  "source_url": "https://github.com/SALUS006/vantage-telemetry-mcp",
+  "install": "npx -y vantage-telemetry-mcp"
+}

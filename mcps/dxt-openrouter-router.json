@@ -1,0 +1,7 @@
+{
+  "name": "dxt-openrouter-router",
+  "description": "A tiny MCP server that constructs OpenRouter request bodies from presets and energy levels, with zero data retention by default, enabling routing decisions without exposing API keys.",
+  "source_repo": "sphilius/dxt-openrouter-router",
+  "source_url": "https://github.com/sphilius/dxt-openrouter-router",
+  "install": "# git clone --depth 1 https://github.com/sphilius/dxt-openrouter-router\n# See source for mcpServers config block"
+}

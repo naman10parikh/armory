@@ -1,0 +1,7 @@
+{
+  "name": "icecrawl-mcp-server",
+  "description": "Enables scraping single pages or crawling entire websites, converting content to markdown and optionally extracting structured data with Claude.",
+  "source_repo": "MrGreenlaw/icecrawl-public",
+  "source_url": "https://github.com/MrGreenlaw/icecrawl-public",
+  "install": "# git clone --depth 1 https://github.com/MrGreenlaw/icecrawl-public\n# See source for mcpServers config block"
+}

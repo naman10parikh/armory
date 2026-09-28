@@ -1,0 +1,7 @@
+{
+  "name": "feedthrough",
+  "description": "Debug bridge inside your web app: an agent reads the DOM, console and network. Any browser.",
+  "source_repo": "feedthrough/feedthrough",
+  "source_url": "https://github.com/feedthrough/feedthrough",
+  "install": "# git clone --depth 1 https://github.com/feedthrough/feedthrough\n# See source for mcpServers config block"
+}

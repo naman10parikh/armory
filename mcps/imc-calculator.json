@@ -1,0 +1,7 @@
+{
+  "name": "imc-calculator",
+  "description": "Calculates Body Mass Index (BMI) based on weight and height, returning the value and classification.",
+  "source_repo": "fernando2dias/first-mcp-server",
+  "source_url": "https://github.com/fernando2dias/first-mcp-server",
+  "install": "npx -y first-mcp-server"
+}

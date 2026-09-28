@@ -1,0 +1,7 @@
+{
+  "name": "webcmd-mcp",
+  "description": "Enables AI agents to drive websites locally through Webcmd, with tools for setup, skill retrieval, and running web commands. Simplifies integration by auto-installing the CLI and providing bundled skills.",
+  "source_repo": "rajarshidattapy/webcmd-mcp",
+  "source_url": "https://github.com/rajarshidattapy/webcmd-mcp",
+  "install": "npx -y webcmd-mcp"
+}

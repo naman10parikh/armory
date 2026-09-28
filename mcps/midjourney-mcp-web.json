@@ -1,0 +1,7 @@
+{
+  "name": "midjourney-mcp-web",
+  "description": "Unofficial MCP server for generating images via Midjourney web app using authentication cookies. Enables text-to-image generation with customizable parameters.",
+  "source_repo": "WilliamJizh/midjourney-mcp-web",
+  "source_url": "https://github.com/WilliamJizh/midjourney-mcp-web",
+  "install": "# git clone --depth 1 https://github.com/WilliamJizh/midjourney-mcp-web\n# See source for mcpServers config block"
+}

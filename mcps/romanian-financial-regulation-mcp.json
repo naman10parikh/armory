@@ -1,0 +1,7 @@
+{
+  "name": "romanian-financial-regulation-mcp",
+  "description": "Enables querying Romanian financial regulation data, including regulations, enforcement actions, and currency checks, directly from AI assistants.",
+  "source_repo": "Ansvar-Systems/romanian-financial-regulation-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/romanian-financial-regulation-mcp",
+  "install": "npx -y romanian-financial-regulation-mcp"
+}

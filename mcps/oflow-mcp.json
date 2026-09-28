@@ -1,0 +1,7 @@
+{
+  "name": "oflow-mcp",
+  "description": "An agent-native workflow MCP server that enables AI agents to execute text-defined, versionable workflows with checkpointing and state management.",
+  "source_repo": "openpeng/flow-mcp",
+  "source_url": "https://github.com/openpeng/flow-mcp",
+  "install": "npx -y flow-mcp"
+}

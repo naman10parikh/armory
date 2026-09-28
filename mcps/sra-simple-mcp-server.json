@@ -1,0 +1,7 @@
+{
+  "name": "sra-simple-mcp-server",
+  "description": "MCP server to control StarRailAssistant (SRA) on Windows. Enables listing task configurations and running SRA tasks with configurable timeout.",
+  "source_repo": "yasuoskywalker233/SRA_SimpleMCP",
+  "source_url": "https://github.com/yasuoskywalker233/SRA_SimpleMCP",
+  "install": "# git clone --depth 1 https://github.com/yasuoskywalker233/SRA_SimpleMCP\n# See source for mcpServers config block"
+}

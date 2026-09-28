@@ -1,0 +1,7 @@
+{
+  "name": "nas-mcp-server",
+  "description": "MCP server for managing a media server stack (Plex, Radarr, Overseerr, Bazarr, Prowlarr, Trakt.tv) using natural language to browse, request, and discover content.",
+  "source_repo": "matthieurosset/nas-mcp-server",
+  "source_url": "https://github.com/matthieurosset/nas-mcp-server",
+  "install": "npx -y nas-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-tool-hunter-mcp",
+  "description": "Exposes AI Tool Hunter's search as an MCP tool, enabling users to find AI tools by use case and list categories through their IDE or AI assistant.",
+  "source_repo": "VishalsWorkspace/ai-tool-hunter-mcp",
+  "source_url": "https://github.com/VishalsWorkspace/ai-tool-hunter-mcp",
+  "install": "npx -y ai-tool-hunter-mcp"
+}

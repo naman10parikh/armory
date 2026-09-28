@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-mcp",
+  "description": "Enables AI assistants to access and interact with LinkedIn data—profiles, messaging, jobs, companies, and more—via MCP, with remote or local deployment.",
+  "source_repo": "devag7/linkedin-mcp",
+  "source_url": "https://github.com/devag7/linkedin-mcp",
+  "install": "npx -y linkedin-mcp"
+}

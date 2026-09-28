@@ -1,0 +1,7 @@
+{
+  "name": "hrms-snaplogic-mcp",
+  "description": "Enables integration between HRMS systems and Snaplogic through the Model Context Protocol, allowing AI assistants to interact with HR data pipelines.",
+  "source_repo": "ashish-d-d/HRMS-Snaplogic-MCP",
+  "source_url": "https://github.com/ashish-d-d/HRMS-Snaplogic-MCP",
+  "install": "npx -y HRMS-Snaplogic-MCP"
+}

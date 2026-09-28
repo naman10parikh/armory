@@ -1,0 +1,7 @@
+{
+  "name": "etch",
+  "description": "Etch is a signed audit chain for AI agent decisions, offline-verifiable against pinned public keys.",
+  "source_repo": "SaravananJaichandar/etch-mcp",
+  "source_url": "https://github.com/SaravananJaichandar/etch-mcp",
+  "install": "npx -y etch-mcp"
+}

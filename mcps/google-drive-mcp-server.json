@@ -1,0 +1,7 @@
+{
+  "name": "google-drive-mcp-server",
+  "description": "Enables management of Google Drive files, Docs, Sheets, Slides, and Calendar events through natural language using the MCP protocol.",
+  "source_repo": "piotr-agier/google-drive-mcp",
+  "source_url": "https://github.com/piotr-agier/google-drive-mcp",
+  "install": "npx -y google-drive-mcp"
+}

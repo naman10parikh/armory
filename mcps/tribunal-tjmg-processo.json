@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tjmg-processo",
+  "description": "Consulta de processos do Tribunal de Justiça de Minas Gerais (TJMG) em fonte oficial via MCP.",
+  "source_repo": "mcp-dir/tribunal_tjmg_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tjmg_processo-mcp",
+  "install": "npx -y tribunal_tjmg_processo-mcp"
+}

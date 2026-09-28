@@ -1,0 +1,7 @@
+{
+  "name": "react-ts-dev-tools",
+  "description": "An MCP server that provides tools for React and TypeScript development, including generating typed form components, explaining TypeScript compiler errors, and producing Shadcn UI installation commands.",
+  "source_repo": "Lizzy223/ypeScript-Developer-MCP-Server",
+  "source_url": "https://github.com/Lizzy223/ypeScript-Developer-MCP-Server",
+  "install": "npx -y ypeScript-Developer-MCP-Server"
+}

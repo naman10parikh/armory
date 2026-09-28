@@ -1,0 +1,7 @@
+{
+  "name": "letta-mcp-server",
+  "description": "Connects any MCP-compatible AI client to Letta.ai's stateful agents for agent conversations, memory management, and tool orchestration.",
+  "source_repo": "SNYCFIRE-CORE/letta-mcp-server",
+  "source_url": "https://github.com/SNYCFIRE-CORE/letta-mcp-server",
+  "install": "npx -y letta-mcp-server"
+}

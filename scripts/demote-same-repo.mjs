@@ -19,9 +19,11 @@
 // walk, with `folded_into: <type>/<name>`. Their mentions and test result fold into the kept row (the
 // larger wins, so nothing is counted twice).
 //
-// `--same-type` also folds root rows on ONE shelf that share a URL but not a name: 2,872 MCP servers
-// crawled from both PulseMCP and Glama on 26 September 2026. Off by default: it moves about 3,000
-// notes, so it waits for a decision. The ranked lists already fold those pairs on screen.
+// It also folds one repository on ONE shelf under two names (the chairman's decision, CP147 T07): the MCP
+// servers crawled from both PulseMCP and Glama, and an mcp.so page whose source_repo is a repository
+// already listed. Rows that point at one file inside a repository stay: they are the entries that file
+// lists (D-08). Which rows are the same component is lib/same-component.mjs; scripts/lint-catalog.mjs
+// fails while any group is left.
 //
 //   node scripts/demote-same-repo.mjs                 # dry run: list the groups
 //   node scripts/demote-same-repo.mjs --apply         # move, fold signals, then rebuild the catalog
@@ -30,10 +32,10 @@ import { execFileSync } from "node:child_process";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { repoRootUrl } from "../lib/rank.mjs";
+import { duplicateGroups } from "../lib/same-component.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const apply = process.argv.includes("--apply");
-const sameType = process.argv.includes("--same-type");
 const cat = JSON.parse(readFileSync(join(ROOT, "catalog.json"), "utf-8")).components;
 const stack = JSON.parse(readFileSync(join(ROOT, "web", "src", "data", "stack.json"), "utf-8"));
 const lc = (s) => String(s || "").toLowerCase();
@@ -51,36 +53,17 @@ const SHELF = ["observability", "workflows", "infrastructure", "mcps", "memory",
   "subagents", "hooks", "claudemd-rules", "plugins", "clis-tools"];
 const shelf = (t) => (SHELF.includes(t) ? SHELF.indexOf(t) : SHELF.length);
 
-// A folder or file inside a repository, keyed without its branch: owner/repo/<path>.
-const SUB = /^https?:\/\/(?:www\.)?github\.com\/([^/\s#?]+)\/([^/\s#?]+)\/(?:tree|blob)\/[^/\s#?]+\/([^#?\s]+?)\/?(?:[#?].*)?$/i;
-function keyOf(c) {
-  const root = repoRootUrl(c.source_url);
-  if (root) return { key: `root:${lc(root)}`, repo: lc(root).replace("https://github.com/", ""), root: true };
-  const m = SUB.exec(String(c.source_url || "").trim());
-  // A folder's README is the folder: `…/blob/main/src/everything/README.md` names `…/tree/main/src/everything`.
-  const path = m ? m[3].replace(/\/readme(?:\.md)?$/i, "") : "";
-  return m ? { key: `sub:${lc(`${m[1]}/${m[2]}/${path}`)}`, repo: lc(`${m[1]}/${m[2]}`), root: false } : null;
-}
-
-const groups = new Map();
-for (const c of cat) {
-  const k = keyOf(c);
-  if (!k) continue;
-  c._k = k;
-  (groups.get(k.key) || groups.set(k.key, []).get(k.key)).push(c);
-}
-
 // Branch names a note may use; a named default branch beats HEAD, which is whatever it points at today.
 const branchRank = (c) => (/\/(?:tree|blob)\/(?:main|master)\//i.test(c.source_url || "") ? 0 : 1);
-function keeper(rows) {
-  const repoName = (r) => flat(r._k.repo.split("/")[1]);
+function keeper(rows, repo) {
+  const repoName = flat(repo.split("/")[1]);
   const plainRoot = (r) => Number(repoRootUrl(r.source_url) === String(r.source_url || "").trim().replace(/\/+$/, ""));
   return [...rows].sort((a, b) =>
     Number(pinned(b)) - Number(pinned(a)) ||
     plainRoot(b) - plainRoot(a) ||
     (b.eval_score || 0) - (a.eval_score || 0) ||
     (b.mentions || 0) - (a.mentions || 0) ||
-    Number(flat(b.name) === repoName(b)) - Number(flat(a.name) === repoName(a)) ||
+    Number(flat(b.name) === repoName) - Number(flat(a.name) === repoName) ||
     branchRank(a) - branchRank(b) ||
     shelf(a.type) - shelf(b.type) ||
     a.name.length - b.name.length || a.name.localeCompare(b.name),
@@ -103,20 +86,15 @@ function destination(type, name) {
 }
 
 let hit = 0, moved = 0;
-const kinds = { crossShelf: 0, rootWrittenTwice: 0, branchTwice: 0, sameShelfSameUrl: 0 };
+const kinds = { crossShelf: 0, rootWrittenTwice: 0, branchTwice: 0, sameShelfSameUrl: 0, registryPage: 0 };
+const movedBy = { ...kinds };
 const lines = [];
-for (const rows of groups.values()) {
-  if (rows.length < 2) continue;
-  const types = new Set(rows.map((r) => r.type));
-  const urls = new Set(rows.map((r) => lc(r.source_url).replace(/\/+$/, "")));
-  const isRoot = rows[0]._k.root;
-  // Same shelf and the very same URL: two crawls of one server under two names. Only with --same-type.
-  if (types.size === 1 && urls.size === 1 && !sameType) continue;
-  const kind = types.size > 1 ? "crossShelf" : urls.size === 1 ? "sameShelfSameUrl" : isRoot ? "rootWrittenTwice" : "branchTwice";
-  const keep = keeper(rows);
+for (const { kind, repo, rows } of duplicateGroups(cat)) {
+  const keep = keeper(rows, repo);
   const others = rows.filter((r) => r !== keep);
   hit++;
   kinds[kind]++;
+  movedBy[kind] += others.length;
   lines.push(`  ${kind.padEnd(16)} keep ${keep.type}/${keep.name}  ←  ${others.map((o) => `${o.type}/${o.name}`).join(", ")}`);
   if (!apply) { moved += others.length; continue; }
   const keepPath = join(ROOT, "brain", keep.path);
@@ -142,5 +120,7 @@ lines.sort();
 console.log(lines.slice(0, 80).join("\n"));
 if (lines.length > 80) console.log(`  … and ${lines.length - 80} more`);
 console.log(`\n${hit} repositories entered more than once · ${moved} rows ${apply ? "moved to brain/lookup/duplicates/" : "would move (dry run; --apply)"}`);
-console.log(`  on two or more shelves ${kinds.crossShelf} · a root written two ways ${kinds.rootWrittenTwice} · one folder under two branches ${kinds.branchTwice}${sameType ? ` · one shelf, one URL, two names ${kinds.sameShelfSameUrl}` : ""}`);
+const said = (k) => `${kinds[k]} (${movedBy[k]} rows)`;
+console.log(`  on two or more shelves ${said("crossShelf")} · a root written two ways ${said("rootWrittenTwice")} · one folder under two branches ${said("branchTwice")}`);
+console.log(`  one shelf, one URL, two names ${said("sameShelfSameUrl")} · a registry page (mcp.so) for a repository already listed ${said("registryPage")}`);
 if (apply) console.log("Next: node ingest/catalog.mjs && node ingest/validate.mjs && node ingest/test-gate.mjs");

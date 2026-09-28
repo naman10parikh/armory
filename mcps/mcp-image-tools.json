@@ -1,0 +1,7 @@
+{
+  "name": "mcp-image-tools",
+  "description": "Enables AI agents to perform image processing tasks such as sprite sheet splitting, resizing, cropping, and batch operations on local images.",
+  "source_repo": "yyyy-tt/mcp-image-tools",
+  "source_url": "https://github.com/yyyy-tt/mcp-image-tools",
+  "install": "# git clone --depth 1 https://github.com/yyyy-tt/mcp-image-tools\n# See source for mcpServers config block"
+}

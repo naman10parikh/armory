@@ -1,0 +1,7 @@
+{
+  "name": "ddys-mcp",
+  "description": "Official MCP server for the DDYS (低端影视) API, enabling search, details, resources, collections, comments, and media export (STRM, M3U) via natural language.",
+  "source_repo": "ddysiodev/ddys-mcp",
+  "source_url": "https://github.com/ddysiodev/ddys-mcp",
+  "install": "npx -y ddys-mcp"
+}

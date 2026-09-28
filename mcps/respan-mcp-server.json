@@ -1,0 +1,7 @@
+{
+  "name": "respan-mcp-server",
+  "description": "Enables AI assistants to access and manage Respan logs, traces, customers, and prompts for monitoring and management.",
+  "source_repo": "respanai/respan-mcp",
+  "source_url": "https://github.com/respanai/respan-mcp",
+  "install": "npx -y respan-mcp"
+}

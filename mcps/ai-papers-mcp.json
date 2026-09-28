@@ -1,0 +1,7 @@
+{
+  "name": "ai-papers-mcp",
+  "description": "Enables searching and reading of AI/ML papers from conference proceedings and arxiv, with tools for full-text search, table of contents, and content grep.",
+  "source_repo": "elpaca/ai_papers_helper",
+  "source_url": "https://github.com/elpaca/ai_papers_helper",
+  "install": "# git clone --depth 1 https://github.com/elpaca/ai_papers_helper\n# See source for mcpServers config block"
+}

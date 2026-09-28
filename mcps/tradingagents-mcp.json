@@ -1,0 +1,7 @@
+{
+  "name": "tradingagents-mcp",
+  "description": "MCP server that exposes TradingAgents multi-agent financial research as async tasks, generating research reports and non-executive decisions for LLM hosts without touching trading accounts.",
+  "source_repo": "blurryface1/tradingagents-mcp",
+  "source_url": "https://github.com/blurryface1/tradingagents-mcp",
+  "install": "npx -y tradingagents-mcp"
+}

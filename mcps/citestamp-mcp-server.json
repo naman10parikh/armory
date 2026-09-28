@@ -1,0 +1,7 @@
+{
+  "name": "citestamp-mcp-server",
+  "description": "Ground citations before your agent emits them by checking references against public scholarly registries and flagging hallucinated or retracted ones.",
+  "source_repo": "citestamp/mcp",
+  "source_url": "https://github.com/citestamp/mcp",
+  "install": "# git clone --depth 1 https://github.com/citestamp/mcp\n# See source for mcpServers config block"
+}

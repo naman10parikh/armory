@@ -1,0 +1,7 @@
+{
+  "name": "lyrion-mcp-server",
+  "description": "Enables LLMs to control a Lyrion Music Server (LMS/Squeezebox) for playback, search, library browsing, and player management.",
+  "source_repo": "edk4971/lyrion-mcp",
+  "source_url": "https://github.com/edk4971/lyrion-mcp",
+  "install": "npx -y lyrion-mcp"
+}

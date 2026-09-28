@@ -1,0 +1,7 @@
+{
+  "name": "oms-client-agent-mcp",
+  "description": "Exposes the 0xSequence OMS wallet client as a local MCP server, enabling email-based wallet authentication, message signing, balance queries, and transaction sending on supported networks like Polygon, Base, and Sepolia.",
+  "source_repo": "andygruening/oms-mcp",
+  "source_url": "https://github.com/andygruening/oms-mcp",
+  "install": "npx -y oms-mcp"
+}

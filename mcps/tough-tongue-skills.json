@@ -1,0 +1,7 @@
+{
+  "name": "tough-tongue-skills",
+  "description": "MCP server and agent skills for Tough Tongue AI, enabling handling tough conversations through voice agents, scenario creation, and session analysis.",
+  "source_repo": "tough-tongue/toughtongue-skills",
+  "source_url": "https://github.com/tough-tongue/toughtongue-skills",
+  "install": "# git clone --depth 1 https://github.com/tough-tongue/toughtongue-skills\n# See source for mcpServers config block"
+}

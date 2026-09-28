@@ -1,0 +1,7 @@
+{
+  "name": "romanian-job-search-mcp",
+  "description": "Cache-first MCP server for Romanian job search with Jooble integration, enabling local job search, quota management, and structured detail extraction.",
+  "source_repo": "Ispas-Catalin/ro-job-search-mcp",
+  "source_url": "https://github.com/Ispas-Catalin/ro-job-search-mcp",
+  "install": "npx -y ro-job-search-mcp"
+}

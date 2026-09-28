@@ -1,0 +1,7 @@
+{
+  "name": "sui-ops-bot-mcp",
+  "description": "MCP server for managing developer escalations: turns Slack messages into tracked issues in Google Sheets, with tools to post messages, check status, get weekly reports, mark solved, and ping.",
+  "source_repo": "AliErcanOzgokce/sui-ops-bot",
+  "source_url": "https://github.com/AliErcanOzgokce/sui-ops-bot",
+  "install": "# git clone --depth 1 https://github.com/AliErcanOzgokce/sui-ops-bot\n# See source for mcpServers config block"
+}

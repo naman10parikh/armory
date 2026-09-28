@@ -1,0 +1,7 @@
+{
+  "name": "locket",
+  "description": "A privacy-first personal context engine that ingests personal photos and message exports, extracts cited facts, and serves a queryable profile over MCP for natural-language questions like 'when did I last see Sarah?'.",
+  "source_repo": "noahejung/locket",
+  "source_url": "https://github.com/noahejung/locket",
+  "install": "# git clone --depth 1 https://github.com/noahejung/locket\n# See source for mcpServers config block"
+}

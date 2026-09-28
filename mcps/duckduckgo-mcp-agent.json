@@ -1,0 +1,7 @@
+{
+  "name": "duckduckgo-mcp-agent",
+  "description": "A minimal, production-ready MCP server enabling LLMs to perform web searches via DuckDuckGo without API keys, supporting SSE streaming and LM Studio compatibility.",
+  "source_repo": "cploutarchou/duckduckgo-mcp-agent",
+  "source_url": "https://github.com/cploutarchou/duckduckgo-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/cploutarchou/duckduckgo-mcp-agent\n# See source for mcpServers config block"
+}

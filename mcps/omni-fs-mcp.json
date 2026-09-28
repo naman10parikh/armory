@@ -1,0 +1,7 @@
+{
+  "name": "omni-fs-mcp",
+  "description": "Provides unified access to multiple file systems (local, S3, WebDAV, etc.) through OpenDAL, enabling file operations and cross-backend management.",
+  "source_repo": "vaayne/omni-fs-mcp",
+  "source_url": "https://github.com/vaayne/omni-fs-mcp",
+  "install": "npx -y omni-fs-mcp"
+}

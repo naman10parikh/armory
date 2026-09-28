@@ -1,0 +1,7 @@
+{
+  "name": "untitled-3",
+  "description": "A personal memory MCP server that stores and retrieves conversation memories, enabling AI agents to recall past discussions, promises, and preferences using natural language.",
+  "source_repo": "cdsassj00/kakao-mcp",
+  "source_url": "https://github.com/cdsassj00/kakao-mcp",
+  "install": "npx -y kakao-mcp"
+}

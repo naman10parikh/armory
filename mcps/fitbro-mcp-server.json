@@ -1,0 +1,7 @@
+{
+  "name": "fitbro-mcp-server",
+  "description": "Provides read-only access to a local FitBro environment, enabling queries of Postgres, retrieval of application and test logs, and on-demand Cucumber test runs via MCP.",
+  "source_repo": "simo21-ss/fitbro-mcp-server",
+  "source_url": "https://github.com/simo21-ss/fitbro-mcp-server",
+  "install": "npx -y fitbro-mcp-server"
+}

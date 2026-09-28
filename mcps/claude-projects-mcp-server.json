@@ -1,0 +1,7 @@
+{
+  "name": "claude-projects-mcp-server",
+  "description": "Enables Claude Code to read, create, update, and delete Claude Cowork/claude.ai projects and their knowledge documents, including syncing local folders to projects, with safety features like backups and overwrite protection.",
+  "source_repo": "Attacktive/claude-projects-mcp-server",
+  "source_url": "https://github.com/Attacktive/claude-projects-mcp-server",
+  "install": "npx -y claude-projects-mcp-server"
+}

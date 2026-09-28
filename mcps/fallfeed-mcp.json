@@ -1,0 +1,7 @@
+{
+  "name": "fallfeed-mcp",
+  "description": "A sovereign, MIT-licensed MCP server wrapping the fallfeed SDK for professional service workflows, featuring Ed25519 cryptographic signing, offline capability, and discoverability on FallMarket.",
+  "source_repo": "sjgant80-hub/fallfeed-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallfeed-mcp",
+  "install": "npx -y fallfeed-mcp"
+}

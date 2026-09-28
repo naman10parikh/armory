@@ -1,0 +1,7 @@
+{
+  "name": "detran-ce-emiss-o-de-taxa-de-multas",
+  "description": "Enables querying DETRAN Ceará traffic fine issuance data from official sources via a read-only MCP tool, with pay-per-use prepaid credits and magic-link login.",
+  "source_repo": "mcp-dir/detran_ce_multas-mcp",
+  "source_url": "https://github.com/mcp-dir/detran_ce_multas-mcp",
+  "install": "npx -y detran_ce_multas-mcp"
+}

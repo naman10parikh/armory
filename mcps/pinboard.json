@@ -1,0 +1,7 @@
+{
+  "name": "pinboard",
+  "description": "Pinboard is a local-first communication layer for coding agents, providing MCP tools for session presence, targeted messages, inbox delivery, and advisory file leases with secure local IPC.",
+  "source_repo": "Vikings-Studio/usepinboard-cli",
+  "source_url": "https://github.com/Vikings-Studio/usepinboard-cli",
+  "install": "# git clone --depth 1 https://github.com/Vikings-Studio/usepinboard-cli\n# See source for mcpServers config block"
+}

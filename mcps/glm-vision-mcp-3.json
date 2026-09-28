@@ -1,0 +1,7 @@
+{
+  "name": "glm-vision-mcp-3",
+  "description": "Enables AI assistants to recognize and extract information from images via GLM-4V, supporting automatic screenshot recognition and MCP-based local image file reading for non-vision models like DeepSeek.",
+  "source_repo": "lanyu-211/glm-version-mcp",
+  "source_url": "https://github.com/lanyu-211/glm-version-mcp",
+  "install": "npx -y glm-version-mcp"
+}

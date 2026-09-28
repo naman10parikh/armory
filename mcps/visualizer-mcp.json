@@ -1,0 +1,7 @@
+{
+  "name": "visualizer-mcp",
+  "description": "MCP server that archives Decent DE1 espresso shots from Visualizer.coffee into SQLite and provides analysis tools for shots, beans, and profiles via MCP.",
+  "source_repo": "The-Walker443/visualizer-mcp",
+  "source_url": "https://github.com/The-Walker443/visualizer-mcp",
+  "install": "npx -y visualizer-mcp"
+}

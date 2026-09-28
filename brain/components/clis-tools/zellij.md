@@ -7,7 +7,7 @@ source_repo: https://github.com/zellij-org/zellij
 source_url: https://github.com/zellij-org/zellij
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: 35236
 eval_score: 1
 mentions: null

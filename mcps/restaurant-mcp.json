@@ -1,0 +1,7 @@
+{
+  "name": "restaurant-mcp",
+  "description": "MCP server for Spice Garden demo restaurant that enables querying orders, inventory, tables, and sales data from a SQLite database, with an optional OpenRouter-powered chat assistant.",
+  "source_repo": "rick001/restaurant-mcp",
+  "source_url": "https://github.com/rick001/restaurant-mcp",
+  "install": "npx -y restaurant-mcp"
+}

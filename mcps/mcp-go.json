@@ -1,6 +1,6 @@
 {
   "name": "mcp-go",
-  "description": "Mcp Go MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "riza-io/mcp-go",
   "source_url": "https://mcp.so/server/mcp-go/riza-io",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-go/riza-io\n# See source for mcpServers config block"

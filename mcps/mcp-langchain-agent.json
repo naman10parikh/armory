@@ -1,0 +1,7 @@
+{
+  "name": "mcp-langchain-agent",
+  "description": "An MCP server exposing document search, retrieval, and summarization tools, paired with a LangChain agent that performs multi-step tasks like finding and summarizing relevant docs.",
+  "source_repo": "adityapal26may/mcp-langchain-agent",
+  "source_url": "https://github.com/adityapal26may/mcp-langchain-agent",
+  "install": "# git clone --depth 1 https://github.com/adityapal26may/mcp-langchain-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "io-github-thundereagle-context-bridge",
+  "description": "A zero-dependency MCP memory server for Windows that gives AI coding assistants a shared, persistent memory layer with semantic search.",
+  "source_repo": "ThunderEagle/context-bridge",
+  "source_url": "https://github.com/ThunderEagle/context-bridge",
+  "install": "# git clone --depth 1 https://github.com/ThunderEagle/context-bridge\n# See source for mcpServers config block"
+}

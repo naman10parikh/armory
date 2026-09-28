@@ -1,0 +1,7 @@
+{
+  "name": "vault-master-mcp",
+  "description": "An MCP server that treats Obsidian vaults as knowledge graphs, enabling AI agents to traverse wikilinks, assemble token-budgeted context, and search with backlink awareness.",
+  "source_repo": "mattbotcode/vault-master-mcp",
+  "source_url": "https://github.com/mattbotcode/vault-master-mcp",
+  "install": "npx -y vault-master-mcp"
+}

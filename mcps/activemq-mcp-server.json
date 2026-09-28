@@ -1,0 +1,7 @@
+{
+  "name": "activemq-mcp-server",
+  "description": "Enables AI assistants to manage ActiveMQ message brokers through MCP tools, supporting queue and topic operations, dynamic connection management, message browsing, and health monitoring.",
+  "source_repo": "mradovic95/activemq-mcp-server",
+  "source_url": "https://github.com/mradovic95/activemq-mcp-server",
+  "install": "npx -y activemq-mcp-server"
+}

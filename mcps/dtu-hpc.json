@@ -1,0 +1,7 @@
+{
+  "name": "dtu-hpc",
+  "description": "Connects MCP-capable agents to the DTU Computing Center cluster for submitting, monitoring, and chaining LSF jobs without shell access.",
+  "source_repo": "PV-Bhat/dtu-hpc-mcp",
+  "source_url": "https://github.com/PV-Bhat/dtu-hpc-mcp",
+  "install": "npx -y dtu-hpc-mcp"
+}

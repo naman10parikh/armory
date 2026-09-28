@@ -1,0 +1,7 @@
+{
+  "name": "cenprot-sp-protestos",
+  "description": "Read-only MCP server that queries official protest data from CENPROT SP, offering a single tool for consultations with prepaid credits.",
+  "source_repo": "mcp-dir/cenprot_sp_protestos-mcp",
+  "source_url": "https://github.com/mcp-dir/cenprot_sp_protestos-mcp",
+  "install": "npx -y cenprot_sp_protestos-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yureong",
+  "description": "Verifies Korean legal citations (case numbers, statutes) against the official government database to detect AI hallucinations. Works as CLI, MCP server, or Python library.",
+  "source_repo": "herrozim-ship-it/yureong",
+  "source_url": "https://github.com/herrozim-ship-it/yureong",
+  "install": "# git clone --depth 1 https://github.com/herrozim-ship-it/yureong\n# See source for mcpServers config block"
+}

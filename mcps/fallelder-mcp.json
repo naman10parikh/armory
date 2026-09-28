@@ -1,0 +1,7 @@
+{
+  "name": "fallelder-mcp",
+  "description": "MCP stdio server wrapping the fallelder SDK for sovereign, offline-capable, cryptographically signed operations, accessible via autonomous agents.",
+  "source_repo": "sjgant80-hub/fallelder-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallelder-mcp",
+  "install": "npx -y fallelder-mcp"
+}

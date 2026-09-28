@@ -1,0 +1,7 @@
+{
+  "name": "3gpp-ftp-remote-mcp-server",
+  "description": "A read-only MCP server for browsing public files from the 3GPP FTP service, providing search and fetch tools to explore directories and download files.",
+  "source_repo": "Kamu1403/3gpp-ftp-connector",
+  "source_url": "https://github.com/Kamu1403/3gpp-ftp-connector",
+  "install": "# git clone --depth 1 https://github.com/Kamu1403/3gpp-ftp-connector\n# See source for mcpServers config block"
+}

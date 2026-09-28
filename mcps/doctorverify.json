@@ -1,0 +1,7 @@
+{
+  "name": "doctorverify",
+  "description": "Enables verification of Indian doctors by querying the National Medical Commission's Indian Medical Register for registration, profiles, and blacklist status, with fallback guidance for manual lookup.",
+  "source_repo": "chandanbcsm012/VERIFY_INDIAN_DOCTOR_MCP",
+  "source_url": "https://github.com/chandanbcsm012/VERIFY_INDIAN_DOCTOR_MCP",
+  "install": "npx -y VERIFY_INDIAN_DOCTOR_MCP"
+}

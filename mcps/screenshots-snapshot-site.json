@@ -1,0 +1,7 @@
+{
+  "name": "screenshots-snapshot-site",
+  "description": "Screenshot, visual-diff, and AI page-analysis API for AI agents. Capture any URL as PNG, JPEG, WebP, PDF, or HTML, diff two versions of a page to catch visual regressions, and get an AI summary of what a page contains.",
+  "source_repo": "snapshot-site/snapshot-site-mcp",
+  "source_url": "https://github.com/snapshot-site/snapshot-site-mcp",
+  "install": "npx -y snapshot-site-mcp"
+}

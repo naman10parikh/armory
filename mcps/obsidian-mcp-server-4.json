@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-mcp-server-4",
+  "description": "Connects Claude.ai to your local Obsidian vault for full CRUD access, search, and daily note creation via the Model Context Protocol.",
+  "source_repo": "shivamsharmxa/obsidian-mcp-server",
+  "source_url": "https://github.com/shivamsharmxa/obsidian-mcp-server",
+  "install": "npx -y obsidian-mcp-server"
+}

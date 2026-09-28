@@ -1,0 +1,7 @@
+{
+  "name": "cloudloop",
+  "description": "Provides tools for document search, AWS cost estimation, checking latest AWS updates, and creating budget alerts, with a confirmation gate on the mutating tool.",
+  "source_repo": "HammadAshiq/cloudloop",
+  "source_url": "https://github.com/HammadAshiq/cloudloop",
+  "install": "# git clone --depth 1 https://github.com/HammadAshiq/cloudloop\n# See source for mcpServers config block"
+}

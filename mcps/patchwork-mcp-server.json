@@ -1,0 +1,7 @@
+{
+  "name": "patchwork-mcp-server",
+  "description": "Enables LLM agents to query Patchwork kernel patches, series, CI checks, and comments via natural language through a read-only MCP server.",
+  "source_repo": "higebu/patchwork-mcp-server",
+  "source_url": "https://github.com/higebu/patchwork-mcp-server",
+  "install": "npx -y patchwork-mcp-server"
+}

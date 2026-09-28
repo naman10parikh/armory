@@ -1,0 +1,7 @@
+{
+  "name": "john-ceo-agentic-memory",
+  "description": "MCP server that gives AI agents persistent, tenant-scoped memory with semantic search and consolidation, using CockroachDB vector indexes and Amazon Bedrock embeddings.",
+  "source_repo": "John-CEO-HQ/cockroachdb-x-aws-hackathon",
+  "source_url": "https://github.com/John-CEO-HQ/cockroachdb-x-aws-hackathon",
+  "install": "# git clone --depth 1 https://github.com/John-CEO-HQ/cockroachdb-x-aws-hackathon\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-weather-tools",
+  "description": "An MCP server that enables AI assistants to call weather tools, read resources, and use prompt templates for live weather data integration.",
+  "source_repo": "selva1990kumar/mcp-weather-tools",
+  "source_url": "https://github.com/selva1990kumar/mcp-weather-tools",
+  "install": "# git clone --depth 1 https://github.com/selva1990kumar/mcp-weather-tools\n# See source for mcpServers config block"
+}

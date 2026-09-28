@@ -1,0 +1,7 @@
+{
+  "name": "peliqan-mcp-server",
+  "description": "Enables AI assistants to interact with the Peliqan platform, providing access to hundreds of data connectors for reading and writing data in business applications.",
+  "source_repo": "Peliqan-io/mcp-server-peliqan",
+  "source_url": "https://github.com/Peliqan-io/mcp-server-peliqan",
+  "install": "# git clone --depth 1 https://github.com/Peliqan-io/mcp-server-peliqan\n# See source for mcpServers config block"
+}

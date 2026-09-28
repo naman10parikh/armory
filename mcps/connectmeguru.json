@@ -1,0 +1,7 @@
+{
+  "name": "connectmeguru",
+  "description": "An official MCP server for ConnectMeGuru to search active travel eSIM packages, apply discount coupons, check wallet balance, and purchase eSIM plans directly within AI chats.",
+  "source_repo": "vineetgoyalhuf/connectmeguru-mcp",
+  "source_url": "https://github.com/vineetgoyalhuf/connectmeguru-mcp",
+  "install": "npx -y connectmeguru-mcp"
+}

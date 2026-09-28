@@ -1,0 +1,7 @@
+{
+  "name": "truepng-mcp",
+  "description": "Recovers genuine transparency from images with painted checkerboard backgrounds, outputting RGBA PNGs with proper alpha channels. Supports CLI and MCP stdio server for macOS.",
+  "source_repo": "gkhntpbs/truepng-mcp",
+  "source_url": "https://github.com/gkhntpbs/truepng-mcp",
+  "install": "npx -y truepng-mcp"
+}

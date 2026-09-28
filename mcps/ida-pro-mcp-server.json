@@ -1,0 +1,7 @@
+{
+  "name": "ida-pro-mcp-server",
+  "description": "Bridges Claude Code with IDA Pro 9.0+ to provide 87 tools for AI-assisted reverse engineering, including decompilation, navigation, debugging, and patching.",
+  "source_repo": "31Benzi/IDA-PRO-MCP",
+  "source_url": "https://github.com/31Benzi/IDA-PRO-MCP",
+  "install": "npx -y IDA-PRO-MCP"
+}

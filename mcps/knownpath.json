@@ -1,0 +1,7 @@
+{
+  "name": "knownpath",
+  "description": "Enables AI coding agents to search and retrieve verified, reusable engineering solutions from a shared knowledge network through MCP tools.",
+  "source_repo": "nasyx-rakeeb/knownpath",
+  "source_url": "https://github.com/nasyx-rakeeb/knownpath",
+  "install": "# git clone --depth 1 https://github.com/nasyx-rakeeb/knownpath\n# See source for mcpServers config block"
+}

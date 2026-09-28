@@ -1,0 +1,7 @@
+{
+  "name": "ros2-manipulator-mcp",
+  "description": "This MCP server enables inspecting ROS 2 manipulators, computing kinematics, planning motion, and managing primitive MoveIt planning-scene objects via a typed API, with no physical execution support.",
+  "source_repo": "vagotec/ros2_manipulator_mcp",
+  "source_url": "https://github.com/vagotec/ros2_manipulator_mcp",
+  "install": "npx -y ros2_manipulator_mcp"
+}

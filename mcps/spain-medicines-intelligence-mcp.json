@@ -1,0 +1,7 @@
+{
+  "name": "spain-medicines-intelligence-mcp",
+  "description": "Query the official Spanish medicines database (AEMPS CIMA) for authorized medicines, their details, and real-time supply shortage alerts without requiring an API key.",
+  "source_repo": "fzthiait-ai/spain-medicines-intelligence-mcp",
+  "source_url": "https://github.com/fzthiait-ai/spain-medicines-intelligence-mcp",
+  "install": "npx -y spain-medicines-intelligence-mcp"
+}

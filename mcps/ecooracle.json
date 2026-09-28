@@ -1,0 +1,7 @@
+{
+  "name": "ecooracle",
+  "description": "EcoOracle is an MCP server that retrieves canonical usage recipes and API cards from a registry of R/Python packages, enabling users to build scripts using ecosystem packages.",
+  "source_repo": "bbuchsbaum/eco-oracle",
+  "source_url": "https://github.com/bbuchsbaum/eco-oracle",
+  "install": "# git clone --depth 1 https://github.com/bbuchsbaum/eco-oracle\n# See source for mcpServers config block"
+}

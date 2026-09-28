@@ -1,0 +1,7 @@
+{
+  "name": "personal-github-mcp",
+  "description": "Provides full read/write access to the GitHub REST API via a single tool using a personal access token.",
+  "source_repo": "neural-shubh/personal-github-mcp",
+  "source_url": "https://github.com/neural-shubh/personal-github-mcp",
+  "install": "npx -y personal-github-mcp"
+}

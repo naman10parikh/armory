@@ -1,0 +1,7 @@
+{
+  "name": "awesome-mineflayer-mcp",
+  "description": "A production-ready MCP server that gives an LLM agent standalone-equivalent control over a Mineflayer Minecraft bot — movement, mining, crafting, inventory, combat, containers, chat, and much more — exposed as 110 strongly-typed tools across 23 groups, with full bot lifecycle management and dual (po",
+  "source_repo": "G0Osey99/awesome-mineflayer-mcp",
+  "source_url": "https://github.com/G0Osey99/awesome-mineflayer-mcp",
+  "install": "npx -y awesome-mineflayer-mcp"
+}

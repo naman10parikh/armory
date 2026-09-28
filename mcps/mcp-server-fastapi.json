@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-fastapi",
+  "description": "A FastAPI-based MCP server providing automation and AI-powered tools for performance testing, security scanning, browser automation, code review, code generation, knowledge retrieval, and design collaboration via both REST API and MCP protocol.",
+  "source_repo": "vandien284/mcp-server",
+  "source_url": "https://github.com/vandien284/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/vandien284/mcp-server\n# See source for mcpServers config block"
+}

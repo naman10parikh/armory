@@ -1,0 +1,7 @@
+{
+  "name": "mandados-de-pris-o-cnj",
+  "description": "Enables checking for open arrest warrants in the Brazilian CNJ national database using a person's CPF and name, via a hosted read-only MCP server.",
+  "source_repo": "mcp-dir/mandados_prisao-mcp",
+  "source_url": "https://github.com/mcp-dir/mandados_prisao-mcp",
+  "install": "npx -y mandados_prisao-mcp"
+}

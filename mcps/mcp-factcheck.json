@@ -1,0 +1,7 @@
+{
+  "name": "mcp-factcheck",
+  "description": "Validates code or content against official MCP specifications to ensure technical accuracy and prevent misinformation.",
+  "source_repo": "carlisia/mcp-factcheck",
+  "source_url": "https://github.com/carlisia/mcp-factcheck",
+  "install": "# git clone --depth 1 https://github.com/carlisia/mcp-factcheck\n# See source for mcpServers config block"
+}

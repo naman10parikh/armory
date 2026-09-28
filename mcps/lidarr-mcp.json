@@ -1,0 +1,7 @@
+{
+  "name": "lidarr-mcp",
+  "description": "MCP server exposing Lidarr's full v1 REST API as tools for reading and managing artists, albums, tracks, queue, history, and more. It enables LLMs to interact with a Lidarr instance via natural language.",
+  "source_repo": "SavageCore/lidarr-mcp",
+  "source_url": "https://github.com/SavageCore/lidarr-mcp",
+  "install": "npx -y lidarr-mcp"
+}

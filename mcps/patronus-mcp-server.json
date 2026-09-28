@@ -1,0 +1,7 @@
+{
+  "name": "patronus-mcp-server",
+  "description": "Enables running LLM evaluations, experiments, and custom evaluators through a standardized MCP interface.",
+  "source_repo": "patronus-ai/patronus-mcp-server",
+  "source_url": "https://github.com/patronus-ai/patronus-mcp-server",
+  "install": "npx -y patronus-mcp-server"
+}

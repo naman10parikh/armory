@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-assistant-mcp-server",
+  "description": "A multi-agent RAG MCP server that answers questions from your documents with a human-in-the-loop approval step, using a coordinator, retriever, and synthesizer agents.",
+  "source_repo": "SMGilliatt/knowledge-assistant-mcp",
+  "source_url": "https://github.com/SMGilliatt/knowledge-assistant-mcp",
+  "install": "npx -y knowledge-assistant-mcp"
+}

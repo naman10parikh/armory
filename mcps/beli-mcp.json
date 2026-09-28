@@ -1,0 +1,7 @@
+{
+  "name": "beli-mcp",
+  "description": "MCP server for the Beli app, enabling search, reviews, photos, bookmarks, and local drafts via a reverse-engineered API.",
+  "source_repo": "jcjc-dev/beli-mcp",
+  "source_url": "https://github.com/jcjc-dev/beli-mcp",
+  "install": "npx -y beli-mcp"
+}

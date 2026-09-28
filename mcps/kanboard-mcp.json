@@ -1,0 +1,7 @@
+{
+  "name": "kanboard-mcp",
+  "description": "Multi-tenant MCP server for self-hosted Kanboard that enables team members to manage Kanboard projects, tasks, and boards with per-user authentication and permissions.",
+  "source_repo": "johlan456/kanboard-mcp",
+  "source_url": "https://github.com/johlan456/kanboard-mcp",
+  "install": "npx -y kanboard-mcp"
+}

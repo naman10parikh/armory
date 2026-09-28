@@ -1,0 +1,7 @@
+{
+  "name": "cytoscape-mcp-server",
+  "description": "An embedded MCP server for Cytoscape Desktop that lets AI agents load networks, set active views, and control the desktop application over HTTP.",
+  "source_repo": "cytoscape/cytoscape-desktop-mcp",
+  "source_url": "https://github.com/cytoscape/cytoscape-desktop-mcp",
+  "install": "npx -y cytoscape-desktop-mcp"
+}

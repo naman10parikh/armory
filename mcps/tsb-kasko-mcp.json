@@ -1,0 +1,7 @@
+{
+  "name": "tsb-kasko-mcp",
+  "description": "Enables querying Türkiye Sigorta Birliği’s Kasko Değer Listesi (vehicle insurance valuation list) through MCP, CLI, and Python, allowing natural language lookup of current and historical vehicle insurance values.",
+  "source_repo": "hmtkyn/tsb-kasko-mcp",
+  "source_url": "https://github.com/hmtkyn/tsb-kasko-mcp",
+  "install": "npx -y tsb-kasko-mcp"
+}

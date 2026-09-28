@@ -1,0 +1,7 @@
+{
+  "name": "datamineana",
+  "description": "Provides a comprehensive MCP server for data preprocessing, analysis, mathematical modeling, and visualization, enabling agents to load, clean, analyze, model, and plot data with tracking and dynamic method extension capabilities.",
+  "source_repo": "Fengxiaoxiao-001/DataMineAna-MCP",
+  "source_url": "https://github.com/Fengxiaoxiao-001/DataMineAna-MCP",
+  "install": "npx -y DataMineAna-MCP"
+}

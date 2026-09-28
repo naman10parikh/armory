@@ -1,0 +1,7 @@
+{
+  "name": "tmcp",
+  "description": "TMCP turns scattered agent instructions into task-specific operating packets.",
+  "source_repo": "jakyeamos/tmcp",
+  "source_url": "https://github.com/jakyeamos/tmcp",
+  "install": "# git clone --depth 1 https://github.com/jakyeamos/tmcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "juniper-junos-mcp",
+  "description": "Enables safe interaction with Juniper Junos devices (SRX firewalls) via MCP, providing operational read tools and a configuration change flow with device-side diff preview and automated rollback.",
+  "source_repo": "anderson-jason573/juniper-junos-mcp",
+  "source_url": "https://github.com/anderson-jason573/juniper-junos-mcp",
+  "install": "npx -y juniper-junos-mcp"
+}

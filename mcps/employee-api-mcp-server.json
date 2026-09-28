@@ -1,0 +1,7 @@
+{
+  "name": "employee-api-mcp-server",
+  "description": "MCP server for querying employee data via tools like get_employees and get_employee_by_id. Serves as a proof-of-concept for integrating Pega applications with AI agents.",
+  "source_repo": "rahulgh033/employee-api-mcp",
+  "source_url": "https://github.com/rahulgh033/employee-api-mcp",
+  "install": "npx -y employee-api-mcp"
+}

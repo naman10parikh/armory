@@ -1,0 +1,7 @@
+{
+  "name": "skillsmp-mcp-server",
+  "description": "This MCP server enables AI agents to search, discover, and install skills from the SkillsMP marketplace, with support for keyword and semantic search, skill content retrieval, and installation to various coding agents.",
+  "source_repo": "anilcancakir/skillsmp-mcp-server",
+  "source_url": "https://github.com/anilcancakir/skillsmp-mcp-server",
+  "install": "npx -y skillsmp-mcp-server"
+}

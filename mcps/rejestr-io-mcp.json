@@ -1,0 +1,7 @@
+{
+  "name": "rejestr-io-mcp",
+  "description": "MCP server providing access to Polish business registers (KRS, CRBR) via the rejestr.io API, enabling search, retrieval of organizations, beneficial owners, financial documents, and more.",
+  "source_repo": "QuverLabs/rejestr-io-mcp",
+  "source_url": "https://github.com/QuverLabs/rejestr-io-mcp",
+  "install": "npx -y rejestr-io-mcp"
+}

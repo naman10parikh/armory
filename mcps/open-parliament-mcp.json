@@ -1,0 +1,7 @@
+{
+  "name": "open-parliament-mcp",
+  "description": "A thin MCP connector to UK Parliament's public APIs and Members OData endpoint, providing generic tools to list, describe, and query data sources, with playbooks for procedural guidance.",
+  "source_repo": "brynmrgn/open-parliament-mcp",
+  "source_url": "https://github.com/brynmrgn/open-parliament-mcp",
+  "install": "npx -y open-parliament-mcp"
+}

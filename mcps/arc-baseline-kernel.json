@@ -1,0 +1,7 @@
+{
+  "name": "arc-baseline-kernel",
+  "description": "Peer-reviewed (ACM BCB 2026) within-subject physiological deviation scoring. Real-time IHB baseline queries with SHA-256 trust certificates and autonomous x402 USDC payments on Base L2. No population norms. No human required.",
+  "source_repo": "autonomic-resilience-collective/arc-baseline-kernel",
+  "source_url": "https://github.com/autonomic-resilience-collective/arc-baseline-kernel",
+  "install": "# git clone --depth 1 https://github.com/autonomic-resilience-collective/arc-baseline-kernel\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-quickserver",
+  "description": "A working MCP server template for notes management (add, get, search, delete) with in-memory store, demonstrating tools, resources, and prompts for easy forking and customization.",
+  "source_repo": "shadowmodder/mcp-quickserver",
+  "source_url": "https://github.com/shadowmodder/mcp-quickserver",
+  "install": "# git clone --depth 1 https://github.com/shadowmodder/mcp-quickserver\n# See source for mcpServers config block"
+}

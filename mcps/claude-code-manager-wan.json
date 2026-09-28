@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-manager-wan",
+  "description": "Enables ISLI agents and MCP clients to dispatch natural-language coding and terminal tasks to a locally-installed Claude Code CLI, supporting both one-shot execution and persistent sessions with workspace and security controls.",
+  "source_repo": "medelmouhajir/claude-code-manager-wan",
+  "source_url": "https://github.com/medelmouhajir/claude-code-manager-wan",
+  "install": "# git clone --depth 1 https://github.com/medelmouhajir/claude-code-manager-wan\n# See source for mcpServers config block"
+}

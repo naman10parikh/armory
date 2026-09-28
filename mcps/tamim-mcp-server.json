@@ -1,0 +1,7 @@
+{
+  "name": "tamim-mcp-server",
+  "description": "Converts images to PDF with support for local files, URLs, and base64 input, compatible with any AI agent via HTTP or stdio transport.",
+  "source_repo": "TamimLikhon/image2pdf-mcp",
+  "source_url": "https://github.com/TamimLikhon/image2pdf-mcp",
+  "install": "npx -y image2pdf-mcp"
+}

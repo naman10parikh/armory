@@ -1,0 +1,7 @@
+{
+  "name": "mergen",
+  "description": "AI-Powered Red Team MCP Server enabling autonomous penetration testing via Model Context Protocol with 44+ security tools for AI agents.",
+  "source_repo": "g4sk0/mergen-mcp",
+  "source_url": "https://github.com/g4sk0/mergen-mcp",
+  "install": "npx -y mergen-mcp"
+}

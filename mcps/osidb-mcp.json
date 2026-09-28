@@ -1,0 +1,7 @@
+{
+  "name": "osidb-mcp",
+  "description": "MCP server for OSIDB (Red Hat Product Security's vulnerability management system). Enables read-only querying of flaws, affects, trackers, and status via natural language from MCP clients like Cursor or Claude Desktop.",
+  "source_repo": "vdanen/osidb-mcp",
+  "source_url": "https://github.com/vdanen/osidb-mcp",
+  "install": "npx -y osidb-mcp"
+}

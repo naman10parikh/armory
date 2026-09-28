@@ -1,0 +1,7 @@
+{
+  "name": "laravel-mcp-server-2",
+  "description": "Exposes Laravel development tools (artisan, migrations, config, schema, logs) as MCP tools for use with compatible clients.",
+  "source_repo": "dok4everak47/cortex-agent-runtime",
+  "source_url": "https://github.com/dok4everak47/cortex-agent-runtime",
+  "install": "# git clone --depth 1 https://github.com/dok4everak47/cortex-agent-runtime\n# See source for mcpServers config block"
+}

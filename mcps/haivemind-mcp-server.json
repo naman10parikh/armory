@@ -1,0 +1,7 @@
+{
+  "name": "haivemind-mcp-server",
+  "description": "Enables AI agents to share knowledge, coordinate tasks, and maintain persistent memory across distributed infrastructure with secure vaults and 130+ MCP tools.",
+  "source_repo": "lancejames221b/agent-hivemind",
+  "source_url": "https://github.com/lancejames221b/agent-hivemind",
+  "install": "# git clone --depth 1 https://github.com/lancejames221b/agent-hivemind\n# See source for mcpServers config block"
+}

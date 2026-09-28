@@ -1,0 +1,7 @@
+{
+  "name": "japan-intelligence-api",
+  "description": "Provides AI agents with comprehensive Japanese market intelligence through 27 MCP tools, covering corporate data, macroeconomics, financials, and environmental data from 14 integrated sources.",
+  "source_repo": "hiroshic9-png/japan-intelligence-api",
+  "source_url": "https://github.com/hiroshic9-png/japan-intelligence-api",
+  "install": "# git clone --depth 1 https://github.com/hiroshic9-png/japan-intelligence-api\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-automation-mcp",
+  "description": "AI-powered LinkedIn automation server for content generation, profile/company data extraction, and connection request automation, integrating with MCP clients like Claude Desktop.",
+  "source_repo": "Rohan797217/Linkedin_Automation_MCP",
+  "source_url": "https://github.com/Rohan797217/Linkedin_Automation_MCP",
+  "install": "npx -y Linkedin_Automation_MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "open-mind",
+  "description": "MCP server that builds a deterministic, source-traceable knowledge index of any codebase, enabling glossary lookup, code graphs, and exact-token search with every fact linked to its source file and line.",
+  "source_repo": "HelloThisWorld/open-mind",
+  "source_url": "https://github.com/HelloThisWorld/open-mind",
+  "install": "# git clone --depth 1 https://github.com/HelloThisWorld/open-mind\n# See source for mcpServers config block"
+}

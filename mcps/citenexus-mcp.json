@@ -1,0 +1,7 @@
+{
+  "name": "citenexus-mcp",
+  "description": "Enables AI agents to access academic citations, fetch metadata, and generate BibTeX entries directly from Google Scholar via MCP tools.",
+  "source_repo": "akougkas/cite-nexus-mcp",
+  "source_url": "https://github.com/akougkas/cite-nexus-mcp",
+  "install": "npx -y cite-nexus-mcp"
+}

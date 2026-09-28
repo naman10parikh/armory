@@ -1,0 +1,7 @@
+{
+  "name": "komga-mcp",
+  "description": "A read-only MCP server that exposes Komga reading data via Streamable HTTP, providing tools for searching comics, listing unread series, and tracking reading progress.",
+  "source_repo": "pierrec18/Komga-MCP",
+  "source_url": "https://github.com/pierrec18/Komga-MCP",
+  "install": "npx -y Komga-MCP"
+}

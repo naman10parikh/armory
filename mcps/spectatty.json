@@ -1,0 +1,7 @@
+{
+  "name": "spectatty",
+  "description": "Enables AI agents to spawn and interact with real terminal sessions, capturing screenshots of rendered TUI output and sharing live sessions for debugging.",
+  "source_repo": "dayvidwang/spectatty",
+  "source_url": "https://github.com/dayvidwang/spectatty",
+  "install": "# git clone --depth 1 https://github.com/dayvidwang/spectatty\n# See source for mcpServers config block"
+}

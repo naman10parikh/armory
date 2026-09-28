@@ -1,0 +1,7 @@
+{
+  "name": "whatsapp-desktop-mcp",
+  "description": "An MCP server that connects WhatsApp Web to AI tools like Gemini and Claude, providing chat reading, messaging, and a local CRM with draft-and-approve workflows.",
+  "source_repo": "srijonbasak/wa-desktop-mcp",
+  "source_url": "https://github.com/srijonbasak/wa-desktop-mcp",
+  "install": "npx -y wa-desktop-mcp"
+}

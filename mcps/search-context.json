@@ -1,0 +1,7 @@
+{
+  "name": "search-context",
+  "description": "Enables semantic search across documentation stored in Gemini FileSearchStores, returning AI-generated answers with source citations.",
+  "source_repo": "ain3sh/search-context",
+  "source_url": "https://github.com/ain3sh/search-context",
+  "install": "# git clone --depth 1 https://github.com/ain3sh/search-context\n# See source for mcpServers config block"
+}

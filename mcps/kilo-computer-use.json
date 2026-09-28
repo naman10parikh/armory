@@ -1,0 +1,7 @@
+{
+  "name": "kilo-computer-use",
+  "description": "MCP server that connects AI agents to a real Chrome browser via a WebSocket extension bridge, enabling over 40 browser control tools without debug mode or profile isolation.",
+  "source_repo": "123itsfree/kilo-computer-use",
+  "source_url": "https://github.com/123itsfree/kilo-computer-use",
+  "install": "# git clone --depth 1 https://github.com/123itsfree/kilo-computer-use\n# See source for mcpServers config block"
+}

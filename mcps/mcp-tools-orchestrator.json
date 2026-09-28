@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tools-orchestrator",
+  "description": "A meta-MCP server that orchestrates tools from multiple MCP servers, enabling complex Python workflows with loops and conditionals.",
+  "source_repo": "inbarajaldrin/mcp-tools-orchestrator",
+  "source_url": "https://github.com/inbarajaldrin/mcp-tools-orchestrator",
+  "install": "# git clone --depth 1 https://github.com/inbarajaldrin/mcp-tools-orchestrator\n# See source for mcpServers config block"
+}

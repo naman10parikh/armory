@@ -1,0 +1,7 @@
+{
+  "name": "infera-mcp-server",
+  "description": "Enables AI assistants to query internal business data for insights into customers, revenue, subscriptions, sales, and churn through controlled, read-only MCP tools.",
+  "source_repo": "rdndelgado/infera-mcp-server",
+  "source_url": "https://github.com/rdndelgado/infera-mcp-server",
+  "install": "npx -y infera-mcp-server"
+}

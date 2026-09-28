@@ -1,0 +1,7 @@
+{
+  "name": "matchday-mcp",
+  "description": "Live football/soccer data from top European leagues, enabling queries for standings, fixtures, scorers, and team comparisons via natural language.",
+  "source_repo": "reiorozco/matchday-mcp",
+  "source_url": "https://github.com/reiorozco/matchday-mcp",
+  "install": "npx -y matchday-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "notion-export-mcp-server",
+  "description": "Enables AI assistants to export Notion pages as markdown using Notion's unofficial API.",
+  "source_repo": "syucream/notion-export-mcp-server",
+  "source_url": "https://github.com/syucream/notion-export-mcp-server",
+  "install": "npx -y notion-export-mcp-server"
+}

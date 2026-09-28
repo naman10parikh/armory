@@ -1,0 +1,7 @@
+{
+  "name": "pm3-mcp-server",
+  "description": "Enables AI assistants to control Proxmark3 RFID hardware for MIFARE Classic card reading, writing, and cloning via magic-safe write workflows, with automatic card generation detection, verification, and fallback handling.",
+  "source_repo": "wocessade/pm3-mcp-server",
+  "source_url": "https://github.com/wocessade/pm3-mcp-server",
+  "install": "npx -y pm3-mcp-server"
+}

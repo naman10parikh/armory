@@ -1,0 +1,7 @@
+{
+  "name": "tenable-mcp",
+  "description": "Exposes Tenable security operations as MCP tools for AI-powered security workflows, enabling asset, vulnerability, scan, plugin, and tag management via natural language.",
+  "source_repo": "nguyenthdat/tenable-mcp",
+  "source_url": "https://github.com/nguyenthdat/tenable-mcp",
+  "install": "npx -y tenable-mcp"
+}

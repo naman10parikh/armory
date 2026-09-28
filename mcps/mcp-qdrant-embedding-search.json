@@ -1,0 +1,7 @@
+{
+  "name": "mcp-qdrant-embedding-search",
+  "description": "MCP server that searches documents in Qdrant using embeddings from LMStudio. Takes a text query, converts it to a vector via LMStudio's OpenAI-compatible API, and performs semantic search in Qdrant.",
+  "source_repo": "plixplox/mcp-qdrant-embedding-search",
+  "source_url": "https://github.com/plixplox/mcp-qdrant-embedding-search",
+  "install": "# git clone --depth 1 https://github.com/plixplox/mcp-qdrant-embedding-search\n# See source for mcpServers config block"
+}

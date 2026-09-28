@@ -1,0 +1,7 @@
+{
+  "name": "agent-mesh",
+  "description": "Provides a messaging multiplexer for agents using Redis streams, allowing Claude Code to send, receive, and ping other agents through MCP tools.",
+  "source_repo": "NG-Bullseye/agent-mesh",
+  "source_url": "https://github.com/NG-Bullseye/agent-mesh",
+  "install": "# git clone --depth 1 https://github.com/NG-Bullseye/agent-mesh\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rs-mcp-lunar",
+  "description": "Enables BaZi and Zi Wei Dou Shu calculations through a stateless MCP server deployed on Cloudflare Workers, providing tools like bazi_chart and ziwei_chart with Markdown-only results.",
+  "source_repo": "Zayrick/rs-mcp-lunar",
+  "source_url": "https://github.com/Zayrick/rs-mcp-lunar",
+  "install": "# git clone --depth 1 https://github.com/Zayrick/rs-mcp-lunar\n# See source for mcpServers config block"
+}

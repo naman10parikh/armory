@@ -1,0 +1,7 @@
+{
+  "name": "hedera-mcp-server",
+  "description": "Integrates with a Langchain wrapper to interact with the Hedera network via natural language commands.",
+  "source_repo": "hedera-dev/mcp-server-hedera",
+  "source_url": "https://github.com/hedera-dev/mcp-server-hedera",
+  "install": "# git clone --depth 1 https://github.com/hedera-dev/mcp-server-hedera\n# See source for mcpServers config block"
+}

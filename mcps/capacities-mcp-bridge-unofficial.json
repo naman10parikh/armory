@@ -1,0 +1,7 @@
+{
+  "name": "capacities-mcp-bridge-unofficial",
+  "description": "Enables interaction with the Capacities.io note-taking API via MCP, supporting operations like searching content, saving weblinks, and appending to daily notes.",
+  "source_repo": "natkitten/capacities-mcp-bridge-unofficial",
+  "source_url": "https://github.com/natkitten/capacities-mcp-bridge-unofficial",
+  "install": "# git clone --depth 1 https://github.com/natkitten/capacities-mcp-bridge-unofficial\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apify-google-flights-deals-api",
+  "description": "Enables finding the cheapest flight destinations from an airport as structured JSON, with bargain detection via typical price comparisons and booking links.",
+  "source_repo": "johnisanerd/Apify-Google-Flights-Deals-API",
+  "source_url": "https://github.com/johnisanerd/Apify-Google-Flights-Deals-API",
+  "install": "# git clone --depth 1 https://github.com/johnisanerd/Apify-Google-Flights-Deals-API\n# See source for mcpServers config block"
+}

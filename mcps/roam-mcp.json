@@ -1,0 +1,7 @@
+{
+  "name": "roam-mcp",
+  "description": "MCP server for Roam Research that enables AI assistants like Claude and Cursor to read, write, search, and query your Roam graph with full write access.",
+  "source_repo": "Roam-Research/roam-tools",
+  "source_url": "https://github.com/Roam-Research/roam-tools",
+  "install": "# git clone --depth 1 https://github.com/Roam-Research/roam-tools\n# See source for mcpServers config block"
+}

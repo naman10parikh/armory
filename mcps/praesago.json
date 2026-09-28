@@ -1,0 +1,7 @@
+{
+  "name": "praesago",
+  "description": "UK property area intelligence: validated trajectory scores, gentrification early-warning and area screening for 2,292 England & Wales postcode districts, from 30+ government data sources.",
+  "source_repo": "marlybone/praesago-mcp",
+  "source_url": "https://github.com/marlybone/praesago-mcp",
+  "install": "npx -y praesago-mcp"
+}

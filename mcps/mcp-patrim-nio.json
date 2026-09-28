@@ -1,0 +1,7 @@
+{
+  "name": "mcp-patrim-nio",
+  "description": "Enables users to manage asset inventory (patrimônio) through a standardized MCP interface, allowing CRUD operations, queries by sector or user, and aggregated statistics.",
+  "source_repo": "neviim/mcppatrimonio",
+  "source_url": "https://github.com/neviim/mcppatrimonio",
+  "install": "# git clone --depth 1 https://github.com/neviim/mcppatrimonio\n# See source for mcpServers config block"
+}

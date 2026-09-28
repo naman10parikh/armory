@@ -1,0 +1,7 @@
+{
+  "name": "pplx-custom-mcp",
+  "description": "Provides Perplexity-powered search and page extraction tools that work without a headless browser, optimized for communities, forums, game stores, and comments. Runs on Cloudflare Workers, with free content fetching and per-search API costs.",
+  "source_repo": "115dkk/pplx-custom-mcp",
+  "source_url": "https://github.com/115dkk/pplx-custom-mcp",
+  "install": "npx -y pplx-custom-mcp"
+}

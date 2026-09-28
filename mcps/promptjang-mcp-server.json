@@ -1,0 +1,7 @@
+{
+  "name": "promptjang-mcp-server",
+  "description": "Enables sending and replaying events to registered PromptJang targets and managing agent mailboxes by listing, claiming, and acknowledging messages over stdio.",
+  "source_repo": "PromptJang/promptjang-mcp",
+  "source_url": "https://github.com/PromptJang/promptjang-mcp",
+  "install": "npx -y promptjang-mcp"
+}

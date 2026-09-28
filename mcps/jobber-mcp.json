@@ -1,0 +1,7 @@
+{
+  "name": "jobber-mcp",
+  "description": "MCP server for Jobber home service management software enabling read/write of clients, jobs, quotes, invoices via GraphQL API.",
+  "source_repo": "sanjibani/jobber-mcp",
+  "source_url": "https://github.com/sanjibani/jobber-mcp",
+  "install": "npx -y jobber-mcp"
+}

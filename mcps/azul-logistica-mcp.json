@@ -1,0 +1,7 @@
+{
+  "name": "azul-logistica-mcp",
+  "description": "Integrates Azul Cargo Express logistics operations with MCP clients like Shopify and TOTVS Moda, enabling freight quotes, tracking, CTe downloads, remittance issuance/cancellation, and invoice queries through the Azul API using secure authentication and production/homologation environments.",
+  "source_repo": "fabianoomura/azul-logistica",
+  "source_url": "https://github.com/fabianoomura/azul-logistica",
+  "install": "# git clone --depth 1 https://github.com/fabianoomura/azul-logistica\n# See source for mcpServers config block"
+}

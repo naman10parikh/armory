@@ -1,0 +1,7 @@
+{
+  "name": "numerology",
+  "description": "Calculates Pythagorean numerology core numbers (Life Path, Expression, Soul Urge, etc.) from name and birth date, returning structured text and a summary card PNG.",
+  "source_repo": "molpass/mcp-numerology",
+  "source_url": "https://github.com/molpass/mcp-numerology",
+  "install": "# git clone --depth 1 https://github.com/molpass/mcp-numerology\n# See source for mcpServers config block"
+}

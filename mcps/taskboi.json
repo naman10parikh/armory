@@ -1,0 +1,7 @@
+{
+  "name": "taskboi",
+  "description": "MCP server for Taskboi task management, enabling project and task operations with recurrence and priority support via the Taskboi API.",
+  "source_repo": "manugomez95/taskboi-mcp",
+  "source_url": "https://github.com/manugomez95/taskboi-mcp",
+  "install": "npx -y taskboi-mcp"
+}

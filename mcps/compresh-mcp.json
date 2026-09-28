@@ -1,0 +1,7 @@
+{
+  "name": "compresh-mcp",
+  "description": "Provides production-grade context compression for LLM agent conversations with Q-protective ranking, epistemic markers, and semantic store, reducing token usage while preserving equivalence.",
+  "source_repo": "compresh/compresh-mcp",
+  "source_url": "https://github.com/compresh/compresh-mcp",
+  "install": "npx -y compresh-mcp"
+}

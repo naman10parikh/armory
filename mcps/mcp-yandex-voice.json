@@ -1,0 +1,7 @@
+{
+  "name": "mcp-yandex-voice",
+  "description": "MCP server for Cursor that generates text responses via Yandex GPT and converts them to speech using Yandex SpeechKit TTS, enabling voice replies to user messages.",
+  "source_repo": "dimaanj/mcp-yandex-voice",
+  "source_url": "https://github.com/dimaanj/mcp-yandex-voice",
+  "install": "# git clone --depth 1 https://github.com/dimaanj/mcp-yandex-voice\n# See source for mcpServers config block"
+}

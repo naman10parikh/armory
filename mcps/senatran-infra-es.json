@@ -1,0 +1,7 @@
+{
+  "name": "senatran-infra-es",
+  "description": "Read-only MCP server for consulting Brazilian traffic infractions (SENATRAN) from the official source, using prepaid credits. Works with any MCP-compatible client.",
+  "source_repo": "mcp-dir/senatran_infracoes-mcp",
+  "source_url": "https://github.com/mcp-dir/senatran_infracoes-mcp",
+  "install": "npx -y senatran_infracoes-mcp"
+}

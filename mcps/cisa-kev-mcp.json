@@ -1,0 +1,7 @@
+{
+  "name": "cisa-kev-mcp",
+  "description": "MCP server to query and manage CISA Known Exploited Vulnerabilities catalog with EPSS overlay, enabling vulnerability checks and remediation deadline tracking.",
+  "source_repo": "CSOAI-ORG/cisa-kev-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/cisa-kev-mcp",
+  "install": "npx -y cisa-kev-mcp"
+}

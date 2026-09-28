@@ -1,0 +1,7 @@
+{
+  "name": "any-cli-mcp-server",
+  "description": "Turn any CLI tool into an MCP server by leveraging its --help output, enabling natural language interaction with tools like gh, az, git, etc.",
+  "source_repo": "eirikb/any-cli-mcp-server",
+  "source_url": "https://github.com/eirikb/any-cli-mcp-server",
+  "install": "npx -y any-cli-mcp-server"
+}

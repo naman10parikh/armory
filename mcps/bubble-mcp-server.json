@@ -1,0 +1,7 @@
+{
+  "name": "bubble-mcp-server",
+  "description": "Enables AI assistants to interact with Bubble.io applications through the Data API, supporting CRUD operations, schema discovery, and workflow execution.",
+  "source_repo": "D1DX/bubble-mcp",
+  "source_url": "https://github.com/D1DX/bubble-mcp",
+  "install": "npx -y bubble-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "servidores-federais-transpar-ncia",
+  "description": "MCP server for querying data of Brazilian federal public servants from the Transparency Portal using CPF. It is read-only and provides a single tool for consulting server information.",
+  "source_repo": "mcp-dir/transparencia_servidores-mcp",
+  "source_url": "https://github.com/mcp-dir/transparencia_servidores-mcp",
+  "install": "npx -y transparencia_servidores-mcp"
+}

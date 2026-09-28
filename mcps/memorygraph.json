@@ -1,0 +1,7 @@
+{
+  "name": "memorygraph",
+  "description": "Graph-based MCP memory server for AI coding agents to store patterns, track relationships, and retrieve knowledge across sessions.",
+  "source_repo": "memory-graph/memory-graph",
+  "source_url": "https://github.com/memory-graph/memory-graph",
+  "install": "# git clone --depth 1 https://github.com/memory-graph/memory-graph\n# See source for mcpServers config block"
+}

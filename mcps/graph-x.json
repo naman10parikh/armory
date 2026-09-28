@@ -1,0 +1,7 @@
+{
+  "name": "graph-x",
+  "description": "A knowledge graph MCP server that indexes your codebase into a local SQLite graph and provides tools for project mapping, file summaries, and impact analysis, drastically reducing token usage in AI coding assistants.",
+  "source_repo": "vugarfamiloglu/graph-x",
+  "source_url": "https://github.com/vugarfamiloglu/graph-x",
+  "install": "# git clone --depth 1 https://github.com/vugarfamiloglu/graph-x\n# See source for mcpServers config block"
+}

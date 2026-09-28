@@ -1,0 +1,7 @@
+{
+  "name": "clawfetch-mcp",
+  "description": "MCP server providing web intelligence tools for AI agents, including fetching pages as markdown, rendering JS-heavy SPAs, extracting structured data, multi-source research, and domain availability checks, with automatic x402 micropayments.",
+  "source_repo": "clawfetch/clawfetch-mcp",
+  "source_url": "https://github.com/clawfetch/clawfetch-mcp",
+  "install": "npx -y clawfetch-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "repovine",
+  "description": "MCP server that provides coding agents with structured repository context, including graph-based navigation, dependency analysis, runtime flow tracing, and configuration surface across supported stacks.",
+  "source_repo": "legann/repovine",
+  "source_url": "https://github.com/legann/repovine",
+  "install": "# git clone --depth 1 https://github.com/legann/repovine\n# See source for mcpServers config block"
+}

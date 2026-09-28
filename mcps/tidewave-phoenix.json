@@ -1,0 +1,7 @@
+{
+  "name": "tidewave-phoenix",
+  "description": "Better agentic Elixir Phoenix development, runtime-level tools for your agent to talk to your running app.",
+  "source_repo": "tidewave-ai/tidewave_phoenix",
+  "source_url": "https://github.com/tidewave-ai/tidewave_phoenix",
+  "install": "# git clone --depth 1 https://github.com/tidewave-ai/tidewave_phoenix\n# See source for mcpServers config block"
+}

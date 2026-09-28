@@ -1,0 +1,7 @@
+{
+  "name": "granoflow-mcp-server",
+  "description": "Exposes Granoflow's local REST API and CLI as tools for AI agents, IDEs, and automation, enabling task and project management via natural language.",
+  "source_repo": "granoflow/granoflow-mcp-server",
+  "source_url": "https://github.com/granoflow/granoflow-mcp-server",
+  "install": "npx -y granoflow-mcp-server"
+}

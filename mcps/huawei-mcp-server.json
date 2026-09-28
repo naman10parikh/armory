@@ -1,0 +1,7 @@
+{
+  "name": "huawei-mcp-server",
+  "description": "A Model Context Protocol server that provides secure, controlled access to Huawei Cloud services (ECS, OBS, GaussDB, etc.) for AI assistants, enabling cloud resource management through conversational workflows.",
+  "source_repo": "HuaweiCloudDeveloper/mcp-server",
+  "source_url": "https://github.com/HuaweiCloudDeveloper/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/HuaweiCloudDeveloper/mcp-server\n# See source for mcpServers config block"
+}

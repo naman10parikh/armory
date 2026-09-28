@@ -1,0 +1,7 @@
+{
+  "name": "wsl-envidat-mcp",
+  "description": "MCP server for querying Swiss environmental research data from WSL/EnviDat, including forest, snow, avalanche, and biodiversity datasets. No API key required.",
+  "source_repo": "malkreide/wsl-envidat-mcp",
+  "source_url": "https://github.com/malkreide/wsl-envidat-mcp",
+  "install": "npx -y wsl-envidat-mcp"
+}

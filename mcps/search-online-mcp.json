@@ -1,0 +1,7 @@
+{
+  "name": "search-online-mcp",
+  "description": "Exposes a standardized web search tool via Brave Search for MCP clients like Codex, Claude, and Cursor, returning stable JSON.",
+  "source_repo": "gastonmorixe/search-online-mcp",
+  "source_url": "https://github.com/gastonmorixe/search-online-mcp",
+  "install": "npx -y search-online-mcp"
+}

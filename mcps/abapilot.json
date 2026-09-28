@@ -1,0 +1,7 @@
+{
+  "name": "abapilot",
+  "description": "AI access to SAP ECC and on-premise S/4HANA: natural-language table queries, ABAP source reads, where-used lookups, syntax checks, dumps and background jobs — served by an in-system ABAP add-on behind a single ICF node, with no BTP, ADT or RISE dependency. Every call runs under the calling user's ow",
+  "source_repo": "NicoHern/abapilot-mcp",
+  "source_url": "https://github.com/NicoHern/abapilot-mcp",
+  "install": "npx -y abapilot-mcp"
+}

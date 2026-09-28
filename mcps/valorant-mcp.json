@@ -1,0 +1,7 @@
+{
+  "name": "valorant-mcp",
+  "description": "MCP server for Valorant esports that enables querying match schedules, live results, AI-powered analysis, and setting reminders.",
+  "source_repo": "ZenDeveloper7/valorant-mcp",
+  "source_url": "https://github.com/ZenDeveloper7/valorant-mcp",
+  "install": "npx -y valorant-mcp"
+}

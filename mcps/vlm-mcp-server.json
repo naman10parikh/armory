@@ -1,0 +1,7 @@
+{
+  "name": "vlm-mcp-server",
+  "description": "An MCP server providing vision and video analysis tools, configurable with any model provider.",
+  "source_repo": "syntx-ai/vlm-mcp-server",
+  "source_url": "https://github.com/syntx-ai/vlm-mcp-server",
+  "install": "npx -y vlm-mcp-server"
+}

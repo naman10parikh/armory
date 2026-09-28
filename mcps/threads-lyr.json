@@ -1,0 +1,7 @@
+{
+  "name": "threads-lyr",
+  "description": "Provides read-only access to public Threads.net profiles and threads via anonymous scraping, with tools for profile info, user threads, and session management.",
+  "source_repo": "ishan-parihar/threads-lyr",
+  "source_url": "https://github.com/ishan-parihar/threads-lyr",
+  "install": "# git clone --depth 1 https://github.com/ishan-parihar/threads-lyr\n# See source for mcpServers config block"
+}

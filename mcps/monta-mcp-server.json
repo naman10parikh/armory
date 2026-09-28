@@ -1,0 +1,7 @@
+{
+  "name": "monta-mcp-server",
+  "description": "MCP server that enables LLMs to interact with Monta's EV charging platform for managing charge points, charging sessions, and wallet operations.",
+  "source_repo": "nickknissen/monta-mcp",
+  "source_url": "https://github.com/nickknissen/monta-mcp",
+  "install": "npx -y monta-mcp"
+}

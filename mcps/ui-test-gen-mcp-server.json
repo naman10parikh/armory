@@ -1,0 +1,7 @@
+{
+  "name": "ui-test-gen-mcp-server",
+  "description": "Generates Playwright visual testing scripts from CSV data with advanced configuration management and environment switching capabilities.",
+  "source_repo": "latiosthinh/ui-test-gen-mcp",
+  "source_url": "https://github.com/latiosthinh/ui-test-gen-mcp",
+  "install": "npx -y ui-test-gen-mcp"
+}

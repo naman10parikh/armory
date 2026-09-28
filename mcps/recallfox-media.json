@@ -1,0 +1,7 @@
+{
+  "name": "recallfox-media",
+  "description": "A local MCP server that securely uploads explicitly selected local images to RecallFox, keeping image bytes and OAuth tokens out of model context.",
+  "source_repo": "Recallfox/recallfox-media",
+  "source_url": "https://github.com/Recallfox/recallfox-media",
+  "install": "# git clone --depth 1 https://github.com/Recallfox/recallfox-media\n# See source for mcpServers config block"
+}

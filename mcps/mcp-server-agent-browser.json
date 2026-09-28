@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-agent-browser",
+  "description": "MCP server that wraps agent-browser to let LLMs control a real browser, providing tools for navigation, interaction, reading page content, accessibility snapshots, screenshots, and session management.",
+  "source_repo": "codeChap/mcp-server-agent-browser",
+  "source_url": "https://github.com/codeChap/mcp-server-agent-browser",
+  "install": "# git clone --depth 1 https://github.com/codeChap/mcp-server-agent-browser\n# See source for mcpServers config block"
+}

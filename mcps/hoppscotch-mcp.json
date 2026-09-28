@@ -1,0 +1,7 @@
+{
+  "name": "hoppscotch-mcp",
+  "description": "Enables automation of Hoppscotch team collections, including OpenAPI sync, code-based endpoint analysis, and safe mutation with dry-run and backup.",
+  "source_repo": "z-illia/hoppscotch-mcp",
+  "source_url": "https://github.com/z-illia/hoppscotch-mcp",
+  "install": "npx -y hoppscotch-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "random-mcp",
+  "description": "A random number generation MCP server hosted on Cloudflare Workers that provides tools for generating integers, floats, weighted choices, and samples from various probability distributions, usable from MCP clients like Notion AI.",
+  "source_repo": "eldesh/random-mcp",
+  "source_url": "https://github.com/eldesh/random-mcp",
+  "install": "npx -y random-mcp"
+}

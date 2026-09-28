@@ -1,0 +1,7 @@
+{
+  "name": "ircv3-mcp",
+  "description": "An IRCv3 MCP server that enables agents to act as a mini IRC client: read channels as transcripts, send messages, reply to threads, add reactions, fetch history, and manage channel membership via MCP tools.",
+  "source_repo": "matheusfillipe/ircv3-mcp",
+  "source_url": "https://github.com/matheusfillipe/ircv3-mcp",
+  "install": "npx -y ircv3-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arcadia-mcp-3",
+  "description": "MCP server for the Arcadia Arc utility data API, enabling retrieval of bill data, interval meter readings, and carbon calculations.",
+  "source_repo": "soapboxbuild/arcadia-mcp",
+  "source_url": "https://github.com/soapboxbuild/arcadia-mcp",
+  "install": "npx -y arcadia-mcp"
+}

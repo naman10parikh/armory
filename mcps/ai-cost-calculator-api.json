@@ -1,0 +1,7 @@
+{
+  "name": "ai-cost-calculator-api",
+  "description": "Enables AI cost calculation, comparison, and optimization across major providers like Anthropic, OpenAI, Google, Meta, and Mistral. Supports cost estimation, budget-aware model finding, and token estimation through a simple API and MCP integration.",
+  "source_repo": "lazymac2x/ai-cost-calculator-api",
+  "source_url": "https://github.com/lazymac2x/ai-cost-calculator-api",
+  "install": "# git clone --depth 1 https://github.com/lazymac2x/ai-cost-calculator-api\n# See source for mcpServers config block"
+}

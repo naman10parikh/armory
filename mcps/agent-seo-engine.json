@@ -1,0 +1,7 @@
+{
+  "name": "agent-seo-engine",
+  "description": "Agent-first local SEO quality, intent and opportunity engine with CLI and optional MCP server.",
+  "source_repo": "davidmosiah/agent-seo-engine",
+  "source_url": "https://github.com/davidmosiah/agent-seo-engine",
+  "install": "# git clone --depth 1 https://github.com/davidmosiah/agent-seo-engine\n# See source for mcpServers config block"
+}

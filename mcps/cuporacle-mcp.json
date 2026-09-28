@@ -1,0 +1,7 @@
+{
+  "name": "cuporacle-mcp",
+  "description": "MCP server for FIFA World Cup 2026 data including fixtures, live scores, odds, and knockout bracket, plus a tool (wc_edge) that autonomously pays for premium data via Injective's x402 protocol.",
+  "source_repo": "edycutjong/cuporacle-mcp",
+  "source_url": "https://github.com/edycutjong/cuporacle-mcp",
+  "install": "npx -y cuporacle-mcp"
+}

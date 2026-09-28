@@ -1,0 +1,7 @@
+{
+  "name": "tianyan-mcp-server",
+  "description": "A read-only MCP server that enables querying available quantum computers and simulators from Tianyan Cloud, with tools to list running backends and retrieve detailed resource information.",
+  "source_repo": "bluesky050/tianyan-mcp-server",
+  "source_url": "https://github.com/bluesky050/tianyan-mcp-server",
+  "install": "npx -y tianyan-mcp-server"
+}

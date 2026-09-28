@@ -1,0 +1,7 @@
+{
+  "name": "ceaf-expuls-es",
+  "description": "Consultas de leitura ao Cadastro de Expulsões da Administração Federal (CEAF) por CPF, via MCP over HTTP, sem credenciais e com crédito pré-pago.",
+  "source_repo": "mcp-dir/ceaf-mcp",
+  "source_url": "https://github.com/mcp-dir/ceaf-mcp",
+  "install": "npx -y ceaf-mcp"
+}

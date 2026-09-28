@@ -1,0 +1,7 @@
+{
+  "name": "clearance-mcp",
+  "description": "MCP server that enables AI agents to request human approval before spending money, check approval status, verify signed tokens, and manage API keys.",
+  "source_repo": "Nauti-Labs/clearance-mcp",
+  "source_url": "https://github.com/Nauti-Labs/clearance-mcp",
+  "install": "npx -y clearance-mcp"
+}

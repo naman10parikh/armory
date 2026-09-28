@@ -1,0 +1,7 @@
+{
+  "name": "chess-com-mcp-interactive-views",
+  "description": "Chess.com player, game, and daily-puzzle tools where each tool ships its own interactive React view — board replays and a playable puzzle widget, not just text. Built with Skybridge for ChatGPT & Claude.",
+  "source_repo": "nbialk/chess-mcp",
+  "source_url": "https://github.com/nbialk/chess-mcp",
+  "install": "npx -y chess-mcp"
+}

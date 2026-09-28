@@ -1,0 +1,7 @@
+{
+  "name": "gigora",
+  "description": "Live-concert discovery for AI agents — search 44,000+ upcoming concerts worldwide by city, artist, genre or festival. Hosted, no API key required.",
+  "source_repo": "",
+  "source_url": "https://gigora.live/developers",
+  "install": "# git clone --depth 1 https://gigora.live/developers\n# See source for mcpServers config block"
+}

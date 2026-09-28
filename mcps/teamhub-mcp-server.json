@@ -1,0 +1,7 @@
+{
+  "name": "teamhub-mcp-server",
+  "description": "A remote MCP server enabling multiple Claude Code sessions to collaborate via shared presence, project-scoped notes, tasks, and memory, with owner-approved access control.",
+  "source_repo": "murali2212/-teamhub-mcp-server",
+  "source_url": "https://github.com/murali2212/-teamhub-mcp-server",
+  "install": "npx -y -teamhub-mcp-server"
+}

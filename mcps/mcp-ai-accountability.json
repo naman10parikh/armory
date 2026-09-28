@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ai-accountability",
+  "description": "MCP server for measuring, tracking, scoring, and improving AI agent reliability with tools for recording interactions, scoring reliability, analyzing failures, recommending improvements, generating audit reports, and checking MCP health.",
+  "source_repo": "princeruhulofficial/mcp-ai-accountability",
+  "source_url": "https://github.com/princeruhulofficial/mcp-ai-accountability",
+  "install": "# git clone --depth 1 https://github.com/princeruhulofficial/mcp-ai-accountability\n# See source for mcpServers config block"
+}

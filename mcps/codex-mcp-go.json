@@ -1,0 +1,7 @@
+{
+  "name": "codex-mcp-go",
+  "description": "Wraps OpenAI's Codex CLI as an MCP server, enabling AI clients like KiloCode, Roo Code, and Cline to leverage Codex for code generation, debugging, and analysis through natural language.",
+  "source_repo": "w31r4/codex-mcp-go",
+  "source_url": "https://github.com/w31r4/codex-mcp-go",
+  "install": "# git clone --depth 1 https://github.com/w31r4/codex-mcp-go\n# See source for mcpServers config block"
+}

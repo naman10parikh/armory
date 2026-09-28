@@ -1,0 +1,7 @@
+{
+  "name": "uco-bank-mcp-server",
+  "description": "Enables interaction with UCO Bank APIs through the Model Context Protocol, supporting banking operations such as account lookup, transaction history, and more.",
+  "source_repo": "ag2-mcp-servers/uco-bank",
+  "source_url": "https://github.com/ag2-mcp-servers/uco-bank",
+  "install": "# git clone --depth 1 https://github.com/ag2-mcp-servers/uco-bank\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "digital-twin-mcp-server",
+  "description": "MCP server for Digital Twin learner data, providing tools for AI Guide to explore metamodel and manage twin data with access control.",
+  "source_repo": "aisystant/digital-twin-mcp",
+  "source_url": "https://github.com/aisystant/digital-twin-mcp",
+  "install": "npx -y digital-twin-mcp"
+}

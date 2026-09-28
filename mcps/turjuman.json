@@ -1,0 +1,7 @@
+{
+  "name": "turjuman",
+  "description": "Open-source, self-hosted translation management system with an MCP server that enables AI agents to manage projects, locales, keys, and translations via natural language, and includes a CLI for deterministic file syncing.",
+  "source_repo": "mogharsallah/turjuman",
+  "source_url": "https://github.com/mogharsallah/turjuman",
+  "install": "# git clone --depth 1 https://github.com/mogharsallah/turjuman\n# See source for mcpServers config block"
+}

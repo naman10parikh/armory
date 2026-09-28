@@ -1,0 +1,7 @@
+{
+  "name": "robinscan-mcp",
+  "description": "MCP server for querying Robinhood Chain blockchain data, including network stats, transactions, token transfers, and stock prices.",
+  "source_repo": "robinscan/robinscan-mcp",
+  "source_url": "https://github.com/robinscan/robinscan-mcp",
+  "install": "npx -y robinscan-mcp"
+}

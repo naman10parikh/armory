@@ -1,0 +1,7 @@
+{
+  "name": "reasonforge",
+  "description": "Provides 8 MCP tools for deterministic, read-only reasoning: intake, routing, planning, rubric, sweep checklist, verdict gate, reflection, and evaluation. It forces scope locks, disconfirmation-first plans, blind-spot sweeps, and evidence-gated verdicts.",
+  "source_repo": "euuuuuuan/reasonforge-public",
+  "source_url": "https://github.com/euuuuuuan/reasonforge-public",
+  "install": "# git clone --depth 1 https://github.com/euuuuuuan/reasonforge-public\n# See source for mcpServers config block"
+}

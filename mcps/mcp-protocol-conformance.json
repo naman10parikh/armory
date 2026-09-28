@@ -1,0 +1,7 @@
+{
+  "name": "mcp-protocol-conformance",
+  "description": "Conformance test harness for Model Context Protocol servers, validating JSON-RPC, transport, capability, schema, and more across multiple spec versions.",
+  "source_repo": "studiomeyer-io/mcp-protocol-conformance",
+  "source_url": "https://github.com/studiomeyer-io/mcp-protocol-conformance",
+  "install": "# git clone --depth 1 https://github.com/studiomeyer-io/mcp-protocol-conformance\n# See source for mcpServers config block"
+}

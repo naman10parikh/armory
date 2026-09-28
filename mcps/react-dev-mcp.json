@@ -1,0 +1,7 @@
+{
+  "name": "react-dev-mcp",
+  "description": "Enables safe, controlled filesystem operations and terminal command execution within allowed directories, with security rules to prevent access to sensitive files.",
+  "source_repo": "muneeb3778/react-dev-mcp",
+  "source_url": "https://github.com/muneeb3778/react-dev-mcp",
+  "install": "npx -y react-dev-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "camda-mcp",
+  "description": "Exposes a Turso (libSQL) database to Claude via HTTP/SSE, enabling table listing, schema inspection, and read/write SQL queries.",
+  "source_repo": "LeoLira1/camda-mcp",
+  "source_url": "https://github.com/LeoLira1/camda-mcp",
+  "install": "npx -y camda-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "content-studio",
+  "description": "MCP server for content-studio, enabling AI agents to manage content ideas, channels, personas, and drafts with approval-based edits.",
+  "source_repo": "MattiooFR/content-studio",
+  "source_url": "https://github.com/MattiooFR/content-studio",
+  "install": "# git clone --depth 1 https://github.com/MattiooFR/content-studio\n# See source for mcpServers config block"
+}

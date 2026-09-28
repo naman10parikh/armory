@@ -1,0 +1,7 @@
+{
+  "name": "nextcloud-mcp-connector",
+  "description": "A curated MCP server that connects your Nextcloud (files, calendar, notes, deck, contacts) to AI assistants.",
+  "source_repo": "street1983nk/nextcloud-mcp-connector",
+  "source_url": "https://github.com/street1983nk/nextcloud-mcp-connector",
+  "install": "# git clone --depth 1 https://github.com/street1983nk/nextcloud-mcp-connector\n# See source for mcpServers config block"
+}

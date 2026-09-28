@@ -1,0 +1,7 @@
+{
+  "name": "nplg-dspace-mcp",
+  "description": "Read-only MCP server for the National Parliamentary Library of Georgia's Iverieli repository, enabling search, metadata retrieval, PDF downloads, and rendering of historical newspaper pages as JPEGs and tiles.",
+  "source_repo": "DavidOsipov/nplg-dspace-mcp",
+  "source_url": "https://github.com/DavidOsipov/nplg-dspace-mcp",
+  "install": "npx -y nplg-dspace-mcp"
+}

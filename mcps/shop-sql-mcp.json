@@ -1,0 +1,7 @@
+{
+  "name": "shop-sql-mcp",
+  "description": "Provides AI agents read-only analytical access to a SQLite database over stdio, with tools for listing tables, describing schemas, and running paginated SQL queries.",
+  "source_repo": "lampmaster/shop-sql-mcp",
+  "source_url": "https://github.com/lampmaster/shop-sql-mcp",
+  "install": "npx -y shop-sql-mcp"
+}

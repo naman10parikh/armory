@@ -1,0 +1,7 @@
+{
+  "name": "mcp-clickhouse-multids",
+  "description": "Enables connecting to multiple ClickHouse instances via dynamic registration or YAML configuration, supporting SQL queries and data source management through MCP tools.",
+  "source_repo": "wtkid/mcp-clickhouse-multids",
+  "source_url": "https://github.com/wtkid/mcp-clickhouse-multids",
+  "install": "# git clone --depth 1 https://github.com/wtkid/mcp-clickhouse-multids\n# See source for mcpServers config block"
+}

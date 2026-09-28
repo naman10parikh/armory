@@ -1,0 +1,7 @@
+{
+  "name": "mcp-shield-pro",
+  "description": "Enterprise-grade zero-dependency security shield and runtime governance engine for MCP servers, providing OWASP MCP Top 10 audits, cryptographic tool call signing, AIBOM generation, and inline parameter firewall protection.",
+  "source_repo": "tonysheesh/mcp-shield-pro",
+  "source_url": "https://github.com/tonysheesh/mcp-shield-pro",
+  "install": "# git clone --depth 1 https://github.com/tonysheesh/mcp-shield-pro\n# See source for mcpServers config block"
+}

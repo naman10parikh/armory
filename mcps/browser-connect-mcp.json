@@ -1,0 +1,7 @@
+{
+  "name": "browser-connect-mcp",
+  "description": "Enables AI assistants to connect to browser DevTools and backend debuggers for full-stack debugging, including frontend console, network, performance, and backend log analysis.",
+  "source_repo": "perception30/browser-connect-mcp",
+  "source_url": "https://github.com/perception30/browser-connect-mcp",
+  "install": "npx -y browser-connect-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "docscan-mcp-server",
+  "description": "MCP server that scans, indexes, and semantically searches local documents (PDF, DOCX, images, etc.) using Docling and local vector search.",
+  "source_repo": "timid2020-dot/docscan-mcp",
+  "source_url": "https://github.com/timid2020-dot/docscan-mcp",
+  "install": "npx -y docscan-mcp"
+}

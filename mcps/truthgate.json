@@ -1,0 +1,7 @@
+{
+  "name": "truthgate",
+  "description": "A fail-closed preflight, approval, evidence, and verification runtime for agents, preventing unsupported output from being treated as verified completion.",
+  "source_repo": "ay7627514-dotcom/truthgate",
+  "source_url": "https://github.com/ay7627514-dotcom/truthgate",
+  "install": "# git clone --depth 1 https://github.com/ay7627514-dotcom/truthgate\n# See source for mcpServers config block"
+}

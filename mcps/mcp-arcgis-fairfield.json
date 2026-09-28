@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arcgis-fairfield",
+  "description": "Enables AI agents to search and query City of Fairfield, California open geospatial datasets (parcels, zoning, public works) via ArcGIS Feature Services.",
+  "source_repo": "pipeworx-io/mcp-arcgis-fairfield",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-fairfield",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-fairfield\n# See source for mcpServers config block"
+}

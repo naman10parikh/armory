@@ -1,0 +1,7 @@
+{
+  "name": "commerce-operations-mcp",
+  "description": "Helps a commerce operations analyst investigate stuck synthetic orders, diagnose blockers from stored facts, and create auditable human-review escalations without changing fulfillment state.",
+  "source_repo": "mukundjha-mj/commerce-operations-mcp",
+  "source_url": "https://github.com/mukundjha-mj/commerce-operations-mcp",
+  "install": "npx -y commerce-operations-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-tasks-local-mcp-server",
+  "description": "Google Tasks MCP Server is a local MCP server that provides AI agents with full, granular access to the Google Tasks API.",
+  "source_repo": "brandon-lane-xyz/Google-Tasks-Local-MCP-Server",
+  "source_url": "https://github.com/brandon-lane-xyz/Google-Tasks-Local-MCP-Server",
+  "install": "npx -y Google-Tasks-Local-MCP-Server"
+}

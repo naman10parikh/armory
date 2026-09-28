@@ -1,0 +1,7 @@
+{
+  "name": "amazon-datazone-mcp-server",
+  "description": "A high-performance Model Context Protocol (MCP) server that provides seamless integration with Amazon DataZone services. This server enables AI assistants and applications to interact with Amazon DataZone APIs through a standardized interface.",
+  "source_repo": "awslabs/amazon-datazone-mcp-server",
+  "source_url": "https://github.com/awslabs/amazon-datazone-mcp-server",
+  "install": "npx -y amazon-datazone-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-image-previewer",
+  "description": "Enables previewing base64-encoded images in a native GUI window using Slint, with support for window reuse, always-on-top, and show/hide functionality.",
+  "source_repo": "signal-slot/mcp-image-previewer",
+  "source_url": "https://github.com/signal-slot/mcp-image-previewer",
+  "install": "# git clone --depth 1 https://github.com/signal-slot/mcp-image-previewer\n# See source for mcpServers config block"
+}

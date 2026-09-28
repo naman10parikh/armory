@@ -1,0 +1,7 @@
+{
+  "name": "amazon-ads-mcp",
+  "description": "Enables natural language querying of Amazon Advertising data including Sponsored Products, Brands, Display, DSP reports, and AMC SQL workflows, with live data from the Amazon Ads API.",
+  "source_repo": "Imsamiullah09/amazon-ads-mcp",
+  "source_url": "https://github.com/Imsamiullah09/amazon-ads-mcp",
+  "install": "npx -y amazon-ads-mcp"
+}

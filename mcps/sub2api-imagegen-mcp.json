@@ -1,0 +1,7 @@
+{
+  "name": "sub2api-imagegen-mcp",
+  "description": "Enables AI assistants to generate and edit images using a Sub2API API key, with local file saving and support for reference images.",
+  "source_repo": "BillSJC/sub2api-imagegen-mcp",
+  "source_url": "https://github.com/BillSJC/sub2api-imagegen-mcp",
+  "install": "npx -y sub2api-imagegen-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "spring-toolkit-mcp",
+  "description": "A secure-by-default MCP server and CLI for AI agents to inspect Spring Boot repositories and interact with runtime Actuator endpoints, enabling code review, dependency scanning, and monitoring.",
+  "source_repo": "giaffa86/spring-toolkit-mcp",
+  "source_url": "https://github.com/giaffa86/spring-toolkit-mcp",
+  "install": "npx -y spring-toolkit-mcp"
+}

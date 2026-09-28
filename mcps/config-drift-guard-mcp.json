@@ -1,0 +1,7 @@
+{
+  "name": "config-drift-guard-mcp",
+  "description": "A read-only MCP server for comparing environment configuration files, detecting drifts like added, removed, or secret-changed entries, while masking secrets and restricting file access to allowed directories.",
+  "source_repo": "xiaohuxi/config-drift-guard-mcp",
+  "source_url": "https://github.com/xiaohuxi/config-drift-guard-mcp",
+  "install": "npx -y config-drift-guard-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "getstoreready-mcp",
+  "description": "Enables AI clients to manage app store projects via the GetStoreReady API, including creating projects, uploading screenshots, applying templates, updating listings, and checking project status.",
+  "source_repo": "getstoreready/getstoreready-mcp",
+  "source_url": "https://github.com/getstoreready/getstoreready-mcp",
+  "install": "npx -y getstoreready-mcp"
+}

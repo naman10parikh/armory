@@ -1,0 +1,7 @@
+{
+  "name": "remunera-o-de-servidores-transpar-ncia",
+  "description": "Provides read-only access to remuneration data of Brazilian federal executive servants from the Transparency Portal, enabling salary queries by CPF and month/year.",
+  "source_repo": "mcp-dir/transparencia_servidores_remuneracao-mcp",
+  "source_url": "https://github.com/mcp-dir/transparencia_servidores_remuneracao-mcp",
+  "install": "npx -y transparencia_servidores_remuneracao-mcp"
+}

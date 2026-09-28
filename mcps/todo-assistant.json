@@ -1,0 +1,7 @@
+{
+  "name": "todo-assistant",
+  "description": "Manages TODO tasks with operations like add, list, complete, update, and delete, stored in a JSON file.",
+  "source_repo": "viksnekristians/todo-mcp",
+  "source_url": "https://github.com/viksnekristians/todo-mcp",
+  "install": "npx -y todo-mcp"
+}

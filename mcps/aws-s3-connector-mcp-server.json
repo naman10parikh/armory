@@ -1,0 +1,7 @@
+{
+  "name": "aws-s3-connector-mcp-server",
+  "description": "Enables comprehensive management of AWS S3 Tables including table bucket, namespace, table CRUD, metadata, maintenance, and data import operations through natural language.",
+  "source_repo": "sourav-spd/aws-s3-connector-16-mcp",
+  "source_url": "https://github.com/sourav-spd/aws-s3-connector-16-mcp",
+  "install": "npx -y aws-s3-connector-16-mcp"
+}

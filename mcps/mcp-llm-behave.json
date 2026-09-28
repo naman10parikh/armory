@@ -1,0 +1,7 @@
+{
+  "name": "mcp-llm-behave",
+  "description": "Exposes llm-behave's behavioral regression testing as MCP tools, allowing offline semantic similarity checks on LLM outputs without any API calls.",
+  "source_repo": "Swanand33/mcp_llm_behave",
+  "source_url": "https://github.com/Swanand33/mcp_llm_behave",
+  "install": "# git clone --depth 1 https://github.com/Swanand33/mcp_llm_behave\n# See source for mcpServers config block"
+}

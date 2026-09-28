@@ -1,0 +1,7 @@
+{
+  "name": "wikicleanhtml",
+  "description": "Fetches Wikipedia articles and returns cleaned, readable HTML stripped of citations, infoboxes, navboxes, and other clutter. Enables fetching specific articles or random ones with options to keep images, tables, or links.",
+  "source_repo": "alavna/wikicleanhtml",
+  "source_url": "https://github.com/alavna/wikicleanhtml",
+  "install": "# git clone --depth 1 https://github.com/alavna/wikicleanhtml\n# See source for mcpServers config block"
+}

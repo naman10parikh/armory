@@ -1,0 +1,7 @@
+{
+  "name": "limai",
+  "description": "Serves as a machine perception and action hub, enabling heartbeat monitoring, screen/window/clipboard sensing, todo management, long-term memory, and web/file operations through both CLI and MCP interfaces.",
+  "source_repo": "win10ogod/Rimai",
+  "source_url": "https://github.com/win10ogod/Rimai",
+  "install": "# git clone --depth 1 https://github.com/win10ogod/Rimai\n# See source for mcpServers config block"
+}

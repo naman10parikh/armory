@@ -1,0 +1,7 @@
+{
+  "name": "dbeaver-mcp-server",
+  "description": "MCP server that reads DBeaver database configurations and provides SQL execution via existing JDBC drivers — no extra driver downloads needed.",
+  "source_repo": "dongchao-1/dbeaver-mcp-server",
+  "source_url": "https://github.com/dongchao-1/dbeaver-mcp-server",
+  "install": "npx -y dbeaver-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "meok-tacho-audit-mcp",
+  "description": "Enables UK haulage compliance managers to audit tachographs, drivers' hours, and DVSA OCRS scores, preventing red status and generating public inquiry briefs.",
+  "source_repo": "CSOAI-ORG/meok-tacho-audit-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-tacho-audit-mcp",
+  "install": "npx -y meok-tacho-audit-mcp"
+}

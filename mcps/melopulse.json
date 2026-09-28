@@ -1,0 +1,7 @@
+{
+  "name": "melopulse",
+  "description": "MeloPulse is an offline-first playlist recommender for coding sessions, exposing MCP tools to recommend playlists, add playlist links, list local catalogue entries, and sync the MeloLab public catalogue.",
+  "source_repo": "tover0314-w/melopulse",
+  "source_url": "https://github.com/tover0314-w/melopulse",
+  "install": "# git clone --depth 1 https://github.com/tover0314-w/melopulse\n# See source for mcpServers config block"
+}

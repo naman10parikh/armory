@@ -1,0 +1,7 @@
+{
+  "name": "playwright-min-network-mcp",
+  "description": "A minimal network monitoring MCP tool for Playwright browser automation. Just 5 simple tools to capture, filter, and analyze network traffic during web automation with MCP context efficiency.",
+  "source_repo": "bun913/playwright-min-network-mcp",
+  "source_url": "https://github.com/bun913/playwright-min-network-mcp",
+  "install": "npx -y playwright-min-network-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-apps-interactive-ui",
+  "description": "A runnable example of building interactive in-chat UI with MCP Apps, demonstrating a pizza builder widget that lets users pick options and place orders through sandboxed HTML interfaces.",
+  "source_repo": "iamneilroberts/mcp-apps-interactive-ui",
+  "source_url": "https://github.com/iamneilroberts/mcp-apps-interactive-ui",
+  "install": "# git clone --depth 1 https://github.com/iamneilroberts/mcp-apps-interactive-ui\n# See source for mcpServers config block"
+}

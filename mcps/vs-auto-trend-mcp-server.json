@@ -1,0 +1,7 @@
+{
+  "name": "vs-auto-trend-mcp-server",
+  "description": "MCP server that wraps VS Auto Trend API to provide trend data and concept brief generation tools for LLMs.",
+  "source_repo": "beatshon/vs-auto-trend-mcp",
+  "source_url": "https://github.com/beatshon/vs-auto-trend-mcp",
+  "install": "npx -y vs-auto-trend-mcp"
+}

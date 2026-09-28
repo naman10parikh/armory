@@ -1,0 +1,7 @@
+{
+  "name": "criteo-mcp-server",
+  "description": "MCP server that enables AI agents (Claude Code) to manage Criteo campaigns, ad sets, creatives, audiences, and reports via natural language.",
+  "source_repo": "mirecbeno/criteo-mcp",
+  "source_url": "https://github.com/mirecbeno/criteo-mcp",
+  "install": "npx -y criteo-mcp"
+}

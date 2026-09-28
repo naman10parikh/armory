@@ -1,0 +1,7 @@
+{
+  "name": "presentationmcpserver",
+  "description": "Autonomously generates university-level educational presentations as interactive Reveal.js decks with time-synced presenter scripts from source materials, respecting target audience pedagogical level.",
+  "source_repo": "CompSciGuyIT/PresentationMcpServer",
+  "source_url": "https://github.com/CompSciGuyIT/PresentationMcpServer",
+  "install": "# git clone --depth 1 https://github.com/CompSciGuyIT/PresentationMcpServer\n# See source for mcpServers config block"
+}

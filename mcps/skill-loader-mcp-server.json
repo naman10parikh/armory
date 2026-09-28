@@ -1,0 +1,7 @@
+{
+  "name": "skill-loader-mcp-server",
+  "description": "Enables discovering, fetching, validating, and converting Claude skills from the skills.sh marketplace and GitHub repositories.",
+  "source_repo": "goldzulu/skill-loader-mcp-server",
+  "source_url": "https://github.com/goldzulu/skill-loader-mcp-server",
+  "install": "npx -y skill-loader-mcp-server"
+}

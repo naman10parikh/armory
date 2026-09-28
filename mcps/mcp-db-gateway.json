@@ -1,0 +1,7 @@
+{
+  "name": "mcp-db-gateway",
+  "description": "Provides governed, read-only PostgreSQL access for AI agents via MCP. Enforces schema/table allowlists, query limits, and audit events.",
+  "source_repo": "altsys/mcp-db-gateway",
+  "source_url": "https://github.com/altsys/mcp-db-gateway",
+  "install": "# git clone --depth 1 https://github.com/altsys/mcp-db-gateway\n# See source for mcpServers config block"
+}

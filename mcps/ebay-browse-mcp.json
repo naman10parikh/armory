@@ -1,0 +1,7 @@
+{
+  "name": "ebay-browse-mcp",
+  "description": "Minimal MCP server for searching eBay listings via the Browse API, enabling keyword search with filters, sorting, pagination, and retrieving full item details.",
+  "source_repo": "capitansuat/ebay-browse-mcp",
+  "source_url": "https://github.com/capitansuat/ebay-browse-mcp",
+  "install": "npx -y ebay-browse-mcp"
+}

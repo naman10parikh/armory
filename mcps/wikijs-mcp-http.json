@@ -1,0 +1,7 @@
+{
+  "name": "wikijs-mcp-http",
+  "description": "MCP server for Wiki.js that exposes 29 tools for managing pages, comments, tags, assets, users, navigation, and more via HTTP/SSE with built-in mutation safety.",
+  "source_repo": "Lil-Beast-666/wikijs-mcp-http",
+  "source_url": "https://github.com/Lil-Beast-666/wikijs-mcp-http",
+  "install": "# git clone --depth 1 https://github.com/Lil-Beast-666/wikijs-mcp-http\n# See source for mcpServers config block"
+}

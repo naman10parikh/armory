@@ -1,0 +1,7 @@
+{
+  "name": "disk-insights-mcp",
+  "description": "A read-only MCP server that reports largest files, folder sizes, and disk usage, running locally without any data leaving your machine.",
+  "source_repo": "rikuhn/mcp-disk-insights",
+  "source_url": "https://github.com/rikuhn/mcp-disk-insights",
+  "install": "# git clone --depth 1 https://github.com/rikuhn/mcp-disk-insights\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "typer-mcp",
+  "description": "Automatically converts any CLI built with Python's Typer into an MCP server without changing code. Gives AI agents instant access to thousands of CLI tools.",
+  "source_repo": "Darussalamnoor/typer-mcp",
+  "source_url": "https://github.com/Darussalamnoor/typer-mcp",
+  "install": "npx -y typer-mcp"
+}

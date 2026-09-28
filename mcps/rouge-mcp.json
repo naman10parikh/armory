@@ -1,0 +1,7 @@
+{
+  "name": "rouge-mcp",
+  "description": "A rogue MCP server (~90 lines) that demonstrates prompt injection via tool responses to achieve remote code execution on a developer's machine.",
+  "source_repo": "orchid-security-labs/rouge-mcp",
+  "source_url": "https://github.com/orchid-security-labs/rouge-mcp",
+  "install": "npx -y rouge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sarvam-tools",
+  "description": "An MCP server providing tools for speech-to-text, translation, language detection, question answering, and text-to-speech using Sarvam AI models, enabling multilingual voice agents.",
+  "source_repo": "Apurv428/setu-agent",
+  "source_url": "https://github.com/Apurv428/setu-agent",
+  "install": "# git clone --depth 1 https://github.com/Apurv428/setu-agent\n# See source for mcpServers config block"
+}

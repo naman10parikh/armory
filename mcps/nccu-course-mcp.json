@@ -1,0 +1,7 @@
+{
+  "name": "nccu-course-mcp",
+  "description": "Enables searching and retrieving course listings, departments, and syllabi from National Chengchi University's public course API using natural language.",
+  "source_repo": "yyu0310/nccu-course-mcp",
+  "source_url": "https://github.com/yyu0310/nccu-course-mcp",
+  "install": "npx -y nccu-course-mcp"
+}

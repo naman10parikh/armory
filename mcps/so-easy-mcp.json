@@ -1,0 +1,7 @@
+{
+  "name": "so-easy-mcp",
+  "description": "A full social media management MCP server enabling post, read, schedule, and analyze across Facebook, Instagram, LinkedIn, X/Twitter, Pinterest, and YouTube from any MCP-compatible AI client.",
+  "source_repo": "Pantalones411/so-easy-mcp",
+  "source_url": "https://github.com/Pantalones411/so-easy-mcp",
+  "install": "npx -y so-easy-mcp"
+}

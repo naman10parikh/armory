@@ -1,0 +1,7 @@
+{
+  "name": "fde-week3-agent",
+  "description": "MCP server that exposes tools for natural-language querying of the Chinook SQLite database, enabling agents to discover schema and execute read-only SQL queries dynamically.",
+  "source_repo": "jordanmatusik24/fde-week3-agent",
+  "source_url": "https://github.com/jordanmatusik24/fde-week3-agent",
+  "install": "# git clone --depth 1 https://github.com/jordanmatusik24/fde-week3-agent\n# See source for mcpServers config block"
+}

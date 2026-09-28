@@ -1,0 +1,7 @@
+{
+  "name": "ic-cap-mcp-server",
+  "description": "Enables MCP-compatible agents to interact with Keysight IC-CAP through its Python API, providing tools to inspect and modify projects, run simulations and transforms, extract parameters, and retrieve plots and data.",
+  "source_repo": "Solitario119/iccap-mcp-server",
+  "source_url": "https://github.com/Solitario119/iccap-mcp-server",
+  "install": "npx -y iccap-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "omoshiro-mcp",
+  "description": "Research-grounded MCP server that provides evaluation lenses and conceptual boundaries for analyzing interestingness, enabling AI to assess humor, curiosity, and suspense without scoring content.",
+  "source_repo": "take-code-0427/omoshiro-mcp",
+  "source_url": "https://github.com/take-code-0427/omoshiro-mcp",
+  "install": "npx -y omoshiro-mcp"
+}

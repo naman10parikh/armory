@@ -1,0 +1,7 @@
+{
+  "name": "operit-ai-github-mcp-connector",
+  "description": "Enables Operit AI mobile assistant to control GitHub operations (repos, files, pages) via a Personal Access Token.",
+  "source_repo": "qiafanya/mcp-connect",
+  "source_url": "https://github.com/qiafanya/mcp-connect",
+  "install": "# git clone --depth 1 https://github.com/qiafanya/mcp-connect\n# See source for mcpServers config block"
+}

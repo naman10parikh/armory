@@ -1,0 +1,7 @@
+{
+  "name": "shortlist-price-index-mcp",
+  "description": "Provides AI agents with verified, monthly software pricing data for categories like VPNs and cloud backup, enabling price comparisons and identifying cheapest providers.",
+  "source_repo": "ies86/shortlist-mcp",
+  "source_url": "https://github.com/ies86/shortlist-mcp",
+  "install": "npx -y shortlist-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "moolre-mcp",
+  "description": "MCP server that exposes Moolre's API as 24 tools for AI agents, enabling account management, transfers, payments, SMS, and WhatsApp operations.",
+  "source_repo": "moolrehq/mcp_php",
+  "source_url": "https://github.com/moolrehq/mcp_php",
+  "install": "# git clone --depth 1 https://github.com/moolrehq/mcp_php\n# See source for mcpServers config block"
+}

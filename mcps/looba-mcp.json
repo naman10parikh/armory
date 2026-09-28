@@ -1,0 +1,7 @@
+{
+  "name": "looba-mcp",
+  "description": "An MCP server that provides AI assistants read-only access to Looba, a community platform for UI snippets and design inspiration, enabling snippet discovery and integration into frontend projects.",
+  "source_repo": "Looba-snippet/looba-mcp",
+  "source_url": "https://github.com/Looba-snippet/looba-mcp",
+  "install": "npx -y looba-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openfda-mcp-server",
+  "description": "A comprehensive MCP server that provides access to U.S. FDA public datasets via the openFDA API, enabling querying of drug adverse events, labeling, recalls, approvals, shortages, NDC directory, and medical device regulatory data.",
+  "source_repo": "Augmented-Nature/OpenFDA-MCP-Server",
+  "source_url": "https://github.com/Augmented-Nature/OpenFDA-MCP-Server",
+  "install": "npx -y OpenFDA-MCP-Server"
+}

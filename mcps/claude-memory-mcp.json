@@ -1,0 +1,7 @@
+{
+  "name": "claude-memory-mcp",
+  "description": "A lightweight MCP server that provides Claude Desktop with persistent memory across conversations by storing, summarizing, and retrieving conversation history.",
+  "source_repo": "adeeljames/claude-memory-mcp",
+  "source_url": "https://github.com/adeeljames/claude-memory-mcp",
+  "install": "npx -y claude-memory-mcp"
+}

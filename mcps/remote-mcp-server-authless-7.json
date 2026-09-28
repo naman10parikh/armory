@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-server-authless-7",
+  "description": "Enables deploying a remote MCP server on Cloudflare Workers without authentication, allowing MCP tools to be used from clients like Cloudflare AI Playground or Claude Desktop.",
+  "source_repo": "Craftix-Labs/remote-mcp-server-authless",
+  "source_url": "https://github.com/Craftix-Labs/remote-mcp-server-authless",
+  "install": "# git clone --depth 1 https://github.com/Craftix-Labs/remote-mcp-server-authless\n# See source for mcpServers config block"
+}

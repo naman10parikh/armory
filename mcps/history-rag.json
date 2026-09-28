@@ -1,0 +1,7 @@
+{
+  "name": "history-rag",
+  "description": "Local semantic search over Claude Code sessions and shell command history, exposed to Claude Code as an MCP tool. Everything is indexed into one vector space and runs entirely on your machine.",
+  "source_repo": "standingwave/history-rag",
+  "source_url": "https://github.com/standingwave/history-rag",
+  "install": "# git clone --depth 1 https://github.com/standingwave/history-rag\n# See source for mcpServers config block"
+}

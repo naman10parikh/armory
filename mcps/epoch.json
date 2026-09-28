@@ -1,0 +1,7 @@
+{
+  "name": "epoch",
+  "description": "Time estimation MCP server for AI agents. It provides PERT, COCOMO II, Monte Carlo simulation, sprint forecasting, token-to-time and cost mapping, and schedule-risk tools.",
+  "source_repo": "KyaniteLabs/Epoch",
+  "source_url": "https://github.com/KyaniteLabs/Epoch",
+  "install": "# git clone --depth 1 https://github.com/KyaniteLabs/Epoch\n# See source for mcpServers config block"
+}

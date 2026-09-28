@@ -1,0 +1,7 @@
+{
+  "name": "mortgage-mcp",
+  "description": "MCP server for mortgage loan processing, providing tools to look up property info, analyze locality, verify documents, schedule site visits, evaluate loan applications, and generate final PDF reports.",
+  "source_repo": "Prithvi9x/mortgage-mcp",
+  "source_url": "https://github.com/Prithvi9x/mortgage-mcp",
+  "install": "npx -y mortgage-mcp"
+}

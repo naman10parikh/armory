@@ -1,0 +1,7 @@
+{
+  "name": "aws-knowledge-plus",
+  "description": "Enables searching and reading AWS knowledge from sources the official AWS Knowledge MCP Server does not index, including re:Post community Q&A, kiro.dev documentation, and AWS Builder Center posts.",
+  "source_repo": "hey-iam-ryan/kiro-power-aws-knowledge-plus",
+  "source_url": "https://github.com/hey-iam-ryan/kiro-power-aws-knowledge-plus",
+  "install": "# git clone --depth 1 https://github.com/hey-iam-ryan/kiro-power-aws-knowledge-plus\n# See source for mcpServers config block"
+}

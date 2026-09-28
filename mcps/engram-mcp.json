@@ -1,0 +1,7 @@
+{
+  "name": "engram-mcp",
+  "description": "MCP plugin that connects Cursor, Claude, and other hosts to an Engram workspace for searching and citing indexed GitHub and Notion content.",
+  "source_repo": "hidden-ones-dev/engram-mcp",
+  "source_url": "https://github.com/hidden-ones-dev/engram-mcp",
+  "install": "npx -y engram-mcp"
+}

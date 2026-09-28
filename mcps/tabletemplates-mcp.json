@@ -1,0 +1,7 @@
+{
+  "name": "tabletemplates-mcp",
+  "description": "MCP server for searching and browsing free Excel and Google Sheets templates from Tabletemplates.com, with access to 1,008 US search demand keywords across 16 categories.",
+  "source_repo": "tresor4k/tabletemplates-mcp",
+  "source_url": "https://github.com/tresor4k/tabletemplates-mcp",
+  "install": "npx -y tabletemplates-mcp"
+}

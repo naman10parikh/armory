@@ -1,0 +1,7 @@
+{
+  "name": "tagmesh",
+  "description": "Enables querying and managing markdown journal entries via tags, full-text search, and CRUD operations, plus workspace statistics, through a native edge MCP interface.",
+  "source_repo": "SaulGoodManC99/TagMesh",
+  "source_url": "https://github.com/SaulGoodManC99/TagMesh",
+  "install": "# git clone --depth 1 https://github.com/SaulGoodManC99/TagMesh\n# See source for mcpServers config block"
+}

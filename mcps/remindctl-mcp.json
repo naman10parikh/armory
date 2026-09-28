@@ -1,0 +1,7 @@
+{
+  "name": "remindctl-mcp",
+  "description": "MCP server for Apple Reminders, enabling management of reminders and lists via tools like add, edit, complete, and delete reminders.",
+  "source_repo": "sam-phinizy/remindctl-mcp",
+  "source_url": "https://github.com/sam-phinizy/remindctl-mcp",
+  "install": "npx -y remindctl-mcp"
+}

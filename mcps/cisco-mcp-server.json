@@ -1,0 +1,7 @@
+{
+  "name": "cisco-mcp-server",
+  "description": "Enables executing Cisco CLI commands on network devices over SSH through two MCP tools for exec and config commands, with security and automation features.",
+  "source_repo": "Ved-Tripathi07/CiscoMCPServer",
+  "source_url": "https://github.com/Ved-Tripathi07/CiscoMCPServer",
+  "install": "# git clone --depth 1 https://github.com/Ved-Tripathi07/CiscoMCPServer\n# See source for mcpServers config block"
+}

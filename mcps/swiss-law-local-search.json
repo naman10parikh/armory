@@ -1,0 +1,7 @@
+{
+  "name": "swiss-law-local-search",
+  "description": "Provides offline full-text search across 35,000+ Swiss laws from all cantons and federal level using SQLite FTS5 indexing. Enables querying laws, articles, and metadata through natural language.",
+  "source_repo": "janmanuelwinkler/hf_lexfind_mcp",
+  "source_url": "https://github.com/janmanuelwinkler/hf_lexfind_mcp",
+  "install": "npx -y hf_lexfind_mcp"
+}

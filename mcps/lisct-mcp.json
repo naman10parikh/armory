@@ -1,0 +1,7 @@
+{
+  "name": "lisct-mcp",
+  "description": "Enables interacting with lisct.com sets via MCP tools, including expanding, searching, creating, editing, and deleting sets, with write operations requiring appropriate API key scope.",
+  "source_repo": "yuanshenstarto/lisct-mcp",
+  "source_url": "https://github.com/yuanshenstarto/lisct-mcp",
+  "install": "npx -y lisct-mcp"
+}

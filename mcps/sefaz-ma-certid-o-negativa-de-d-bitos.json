@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-ma-certid-o-negativa-de-d-bitos",
+  "description": "Consulta em fonte oficial a Certidão Negativa de Débitos da SEFAZ MA, com uma ferramenta somente leitura via MCP over HTTP.",
+  "source_repo": "mcp-dir/sefaz_ma_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_ma_certidao_debitos-mcp",
+  "install": "npx -y sefaz_ma_certidao_debitos-mcp"
+}

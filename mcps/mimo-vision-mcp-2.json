@@ -1,0 +1,7 @@
+{
+  "name": "mimo-vision-mcp-2",
+  "description": "An MCP server that uses Xiaomi MiMo v2.5 multimodal model to provide image recognition capabilities (description, multi-image analysis, OCR, and image info validation) for text-only main models like deepseek-v4-flash, accepting local paths, URLs, file://, and base64 data inputs.",
+  "source_repo": "jack4862/mimo-vision-mcp",
+  "source_url": "https://github.com/jack4862/mimo-vision-mcp",
+  "install": "npx -y mimo-vision-mcp"
+}

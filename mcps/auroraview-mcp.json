@@ -1,0 +1,7 @@
+{
+  "name": "auroraview-mcp",
+  "description": "Enables AI agents to manage and interact with WebViews in DCC applications through tools like screenshot, load URL, eval JS, and event streaming via the Model Context Protocol.",
+  "source_repo": "loonghao/auroraview",
+  "source_url": "https://github.com/loonghao/auroraview",
+  "install": "# git clone --depth 1 https://github.com/loonghao/auroraview\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vibelive-mcp-server",
+  "description": "Enables starting and monitoring shared multiplayer sessions for agentic coding terminals, allowing agents to host wrapped commands and retrieve session status via WebSocket.",
+  "source_repo": "pooriaarab/vibelive",
+  "source_url": "https://github.com/pooriaarab/vibelive",
+  "install": "# git clone --depth 1 https://github.com/pooriaarab/vibelive\n# See source for mcpServers config block"
+}

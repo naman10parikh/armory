@@ -1,0 +1,7 @@
+{
+  "name": "panda-mcp",
+  "description": "Turns a comma.ai Panda into a conversational CAN reverse-engineering rig, allowing users to record, diff, find signals, and send frames through natural language with Claude.",
+  "source_repo": "lkathke/Comma-Panda-MCP",
+  "source_url": "https://github.com/lkathke/Comma-Panda-MCP",
+  "install": "npx -y Comma-Panda-MCP"
+}

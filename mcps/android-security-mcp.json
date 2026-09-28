@@ -1,0 +1,7 @@
+{
+  "name": "android-security-mcp",
+  "description": "MCP server for Android app security auditing that integrates ADB, VirusTotal, and MobSF to extract, analyze, and recommend actions on apps for ethical hacking learning.",
+  "source_repo": "mstivenvelezc-ctrl/android-security-mcp",
+  "source_url": "https://github.com/mstivenvelezc-ctrl/android-security-mcp",
+  "install": "npx -y android-security-mcp"
+}

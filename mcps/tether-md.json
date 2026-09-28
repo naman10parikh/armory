@@ -1,0 +1,7 @@
+{
+  "name": "tether-md",
+  "description": "Enables anchored comments in Markdown files that AI agents can propose changes for, with human approval before application, all managed via an MCP server.",
+  "source_repo": "tether-md/tether-md",
+  "source_url": "https://github.com/tether-md/tether-md",
+  "install": "# git clone --depth 1 https://github.com/tether-md/tether-md\n# See source for mcpServers config block"
+}

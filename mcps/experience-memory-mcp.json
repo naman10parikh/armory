@@ -1,0 +1,7 @@
+{
+  "name": "experience-memory-mcp",
+  "description": "Stores photos and notes as experience memories in Google Drive and enables natural language search to retrieve them later.",
+  "source_repo": "jih19984/experience-memory-mcp",
+  "source_url": "https://github.com/jih19984/experience-memory-mcp",
+  "install": "npx -y experience-memory-mcp"
+}

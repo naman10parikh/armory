@@ -1,0 +1,7 @@
+{
+  "name": "deribit-mcp",
+  "description": "MCP server for Deribit's crypto options exchange, enabling AI assistants to query market data, manage accounts and orders, and execute trades with safety defaults (testnet, trading disabled by default).",
+  "source_repo": "freeeverett/deribit-mcp",
+  "source_url": "https://github.com/freeeverett/deribit-mcp",
+  "install": "npx -y deribit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "conformidade-pbtr-mcp",
+  "description": "MCP server for automated compliance analysis of Basic Projects and Terms of Reference against SERPRO's checklist. Send a PDF and get a compliance index, prioritized findings, and reports in multiple formats.",
+  "source_repo": "charlesmmorais/conformidade-pbtr-mcp",
+  "source_url": "https://github.com/charlesmmorais/conformidade-pbtr-mcp",
+  "install": "npx -y conformidade-pbtr-mcp"
+}

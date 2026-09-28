@@ -1,0 +1,7 @@
+{
+  "name": "code-analysis-context-python-mcp",
+  "description": "A Model Context Protocol server for deep codebase understanding of Python projects, focusing on data analysis and scientific computing. It provides architectural analysis, pattern detection, dependency mapping, test coverage analysis, and AI-optimized context generation.",
+  "source_repo": "andreahaku/code-analysis-context-python-mcp",
+  "source_url": "https://github.com/andreahaku/code-analysis-context-python-mcp",
+  "install": "npx -y code-analysis-context-python-mcp"
+}

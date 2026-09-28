@@ -1,0 +1,7 @@
+{
+  "name": "mismem",
+  "description": "Provides persistent, cooperative memory for LLMs via MCP, with SQLite storage and tools for capturing, recalling, consolidating, crystallizing, and forgetting memories across sessions.",
+  "source_repo": "lucasmella-stack/misMEM",
+  "source_url": "https://github.com/lucasmella-stack/misMEM",
+  "install": "# git clone --depth 1 https://github.com/lucasmella-stack/misMEM\n# See source for mcpServers config block"
+}

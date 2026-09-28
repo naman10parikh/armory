@@ -1,0 +1,7 @@
+{
+  "name": "traderepublic-mcp",
+  "description": "A read-only MCP server for Trade Republic that provides portfolio, cash balance, real-time quotes, and instrument search via an unofficial API.",
+  "source_repo": "TommasoLovergine/traderepublic-mcp-py",
+  "source_url": "https://github.com/TommasoLovergine/traderepublic-mcp-py",
+  "install": "# git clone --depth 1 https://github.com/TommasoLovergine/traderepublic-mcp-py\n# See source for mcpServers config block"
+}

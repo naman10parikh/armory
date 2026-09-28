@@ -1,0 +1,7 @@
+{
+  "name": "tableau-graphql-mcp",
+  "description": "Enables querying Tableau lineage through the Metadata API via MCP, supporting impact analysis, where-used lookups, and content search. Provides read-only tools for answering natural-language questions about workbooks, datasources, fields, and dependencies.",
+  "source_repo": "tdries/tableau-graphQL-mcp",
+  "source_url": "https://github.com/tdries/tableau-graphQL-mcp",
+  "install": "npx -y tableau-graphQL-mcp"
+}

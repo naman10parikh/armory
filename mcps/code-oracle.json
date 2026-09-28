@@ -1,0 +1,7 @@
+{
+  "name": "code-oracle",
+  "description": "MCP server for automated architectural mapping, security vulnerability detection, ML asset tracking, and code metrics in local repositories.",
+  "source_repo": "Sri-Lohith-Mulugu/oracle-server",
+  "source_url": "https://github.com/Sri-Lohith-Mulugu/oracle-server",
+  "install": "# git clone --depth 1 https://github.com/Sri-Lohith-Mulugu/oracle-server\n# See source for mcpServers config block"
+}

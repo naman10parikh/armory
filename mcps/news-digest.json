@@ -1,0 +1,7 @@
+{
+  "name": "news-digest",
+  "description": "Fetches news from Telegram and RSS sources and serves them to LLM agents via MCP.",
+  "source_repo": "goldjee/news-digest-mcp",
+  "source_url": "https://github.com/goldjee/news-digest-mcp",
+  "install": "npx -y news-digest-mcp"
+}

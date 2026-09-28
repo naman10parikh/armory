@@ -1,0 +1,7 @@
+{
+  "name": "hiveclaude",
+  "description": "Coordinates multiple Claude Code agents to work collaboratively on projects with role-based task management, shared state, and automated code review.",
+  "source_repo": "andrewcorpdesing-coder/hiveclaude",
+  "source_url": "https://github.com/andrewcorpdesing-coder/hiveclaude",
+  "install": "# git clone --depth 1 https://github.com/andrewcorpdesing-coder/hiveclaude\n# See source for mcpServers config block"
+}

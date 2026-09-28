@@ -1,0 +1,7 @@
+{
+  "name": "local-agent-senses",
+  "description": "Provides local vision and audio perception for MCP-compatible agents, enabling them to read images, transcribe text from visual media, analyze videos, and convert speech to text entirely on-device. It is privacy-focused with no cloud upload or API keys by default, using Ollama for inference.",
+  "source_repo": "Scheme0/local-agent-senses",
+  "source_url": "https://github.com/Scheme0/local-agent-senses",
+  "install": "# git clone --depth 1 https://github.com/Scheme0/local-agent-senses\n# See source for mcpServers config block"
+}

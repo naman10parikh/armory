@@ -1,0 +1,7 @@
+{
+  "name": "aluris-caselibrary-mcp",
+  "description": "Enables semantic search and retrieval of Chinese judicial cases from the Supreme People's Court case library, supporting natural language queries for similar cases, case details, filtering, and statistics.",
+  "source_repo": "alexchenlin1996-pixel/aluris-caselibrary-mcp",
+  "source_url": "https://github.com/alexchenlin1996-pixel/aluris-caselibrary-mcp",
+  "install": "npx -y aluris-caselibrary-mcp"
+}

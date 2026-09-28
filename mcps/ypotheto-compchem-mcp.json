@@ -1,0 +1,7 @@
+{
+  "name": "ypotheto-compchem-mcp",
+  "description": "Enables natural language interaction with computational chemistry tools including molecule building, electronic structure calculations, geometry optimization, vibrational spectroscopy, and molecular dynamics, powered by RDKit, PySCF, and ASE.",
+  "source_repo": "ypotheto/compchem-mcp",
+  "source_url": "https://github.com/ypotheto/compchem-mcp",
+  "install": "npx -y compchem-mcp"
+}

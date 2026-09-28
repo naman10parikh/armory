@@ -1,0 +1,7 @@
+{
+  "name": "favro-mcp",
+  "description": "Read-only MCP server for Favro, providing tools to list organizations, collections, boards, cards, comments, checklists, and search cards via the Favro API.",
+  "source_repo": "tecbay/favro-mcp",
+  "source_url": "https://github.com/tecbay/favro-mcp",
+  "install": "npx -y favro-mcp"
+}

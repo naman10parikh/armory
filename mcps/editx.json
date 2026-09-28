@@ -1,0 +1,7 @@
+{
+  "name": "editx",
+  "description": "An MCP server for taking screenshots and editing images with annotations, shapes, and effects.",
+  "source_repo": "Retgex/EditX",
+  "source_url": "https://github.com/Retgex/EditX",
+  "install": "# git clone --depth 1 https://github.com/Retgex/EditX\n# See source for mcpServers config block"
+}

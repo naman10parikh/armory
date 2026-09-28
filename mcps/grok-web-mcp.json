@@ -1,0 +1,7 @@
+{
+  "name": "grok-web-mcp",
+  "description": "Automates Grok web interface to provide chat, web search, and conversation management via MCP, supporting multiple accounts and local/remote deployment.",
+  "source_repo": "zijueming/Grok-Web-MCP",
+  "source_url": "https://github.com/zijueming/Grok-Web-MCP",
+  "install": "npx -y Grok-Web-MCP"
+}

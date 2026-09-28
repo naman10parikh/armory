@@ -1,0 +1,7 @@
+{
+  "name": "aceto",
+  "description": "A local dev server with MCP interface for building HTML mockups together with an AI agent, enabling live collaborative editing through element selection and live preview.",
+  "source_repo": "AlexZeitler/aceto",
+  "source_url": "https://github.com/AlexZeitler/aceto",
+  "install": "# git clone --depth 1 https://github.com/AlexZeitler/aceto\n# See source for mcpServers config block"
+}

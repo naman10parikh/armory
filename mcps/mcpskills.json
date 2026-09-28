@@ -1,0 +1,7 @@
+{
+  "name": "mcpskills",
+  "description": "Pre-install trust scoring & safety scanning for MCP servers, AI skills & npm packages — 15 signals incl. OSV/KEV/EPSS vuln intel and an auto-gate go/no-go.",
+  "source_repo": "BeBraveBeKind/mcpskills-server",
+  "source_url": "https://github.com/BeBraveBeKind/mcpskills-server",
+  "install": "# git clone --depth 1 https://github.com/BeBraveBeKind/mcpskills-server\n# See source for mcpServers config block"
+}

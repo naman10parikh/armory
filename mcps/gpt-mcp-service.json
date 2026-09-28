@@ -1,0 +1,7 @@
+{
+  "name": "gpt-mcp-service",
+  "description": "Private OAuth-backed MCP server for ChatGPT, supporting GPT Apps via MCP Streamable HTTP and GPT Actions via REST endpoints with OpenAPI 3.1.",
+  "source_repo": "jmillpps/encore-mcp-base",
+  "source_url": "https://github.com/jmillpps/encore-mcp-base",
+  "install": "# git clone --depth 1 https://github.com/jmillpps/encore-mcp-base\n# See source for mcpServers config block"
+}

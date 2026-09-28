@@ -1,0 +1,7 @@
+{
+  "name": "quartus-lmcp-server",
+  "description": "Enables automation of Intel/Altera Quartus FPGA design flow including project management, compilation, simulation, timing analysis, and programming via Claude Code.",
+  "source_repo": "liujunjie666777/quartus-Lmcp-server",
+  "source_url": "https://github.com/liujunjie666777/quartus-Lmcp-server",
+  "install": "npx -y quartus-Lmcp-server"
+}

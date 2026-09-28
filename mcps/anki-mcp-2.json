@@ -1,0 +1,7 @@
+{
+  "name": "anki-mcp-2",
+  "description": "MCP server for Anki via AnkiConnect, enabling creation, search, and management of flashcards directly from Claude Code or any MCP client.",
+  "source_repo": "chaosisnotrandomitisrhythmic/anki-mcp",
+  "source_url": "https://github.com/chaosisnotrandomitisrhythmic/anki-mcp",
+  "install": "npx -y anki-mcp"
+}

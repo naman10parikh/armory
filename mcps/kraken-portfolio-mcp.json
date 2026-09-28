@@ -1,0 +1,7 @@
+{
+  "name": "kraken-portfolio-mcp",
+  "description": "MCP server that integrates with Kraken Futures and Spot APIs to track portfolio, compute FIFO cost basis, and generate German crypto tax reports.",
+  "source_repo": "Nabil-MEDIOUNI/kraken-portfolio-mcp",
+  "source_url": "https://github.com/Nabil-MEDIOUNI/kraken-portfolio-mcp",
+  "install": "npx -y kraken-portfolio-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "paperless-agent-toolkit",
+  "description": "MCP server for Paperless-ngx document management, enabling search, OCR content access, metadata updates, tag/correspondent/type management, and duplicate detection via natural language.",
+  "source_repo": "tobiasschuerg/paperless-agent-toolkit",
+  "source_url": "https://github.com/tobiasschuerg/paperless-agent-toolkit",
+  "install": "# git clone --depth 1 https://github.com/tobiasschuerg/paperless-agent-toolkit\n# See source for mcpServers config block"
+}

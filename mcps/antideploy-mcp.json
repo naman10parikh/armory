@@ -1,0 +1,7 @@
+{
+  "name": "antideploy-mcp",
+  "description": "Deploys applications from coding agents to Antideploy, handling packaging, environment variables, and asynchronous deployment without Dockerfiles or cloud consoles.",
+  "source_repo": "antideploy/antideploy-mcp",
+  "source_url": "https://github.com/antideploy/antideploy-mcp",
+  "install": "npx -y antideploy-mcp"
+}

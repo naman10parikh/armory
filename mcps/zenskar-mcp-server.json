@@ -1,0 +1,7 @@
+{
+  "name": "zenskar-mcp-server",
+  "description": "Enables natural language interaction with the Zenskar billing platform, covering customers, contracts, invoices, payments, accounting, products, plans, and more.",
+  "source_repo": "zenskar/mcp-zenskar",
+  "source_url": "https://github.com/zenskar/mcp-zenskar",
+  "install": "# git clone --depth 1 https://github.com/zenskar/mcp-zenskar\n# See source for mcpServers config block"
+}

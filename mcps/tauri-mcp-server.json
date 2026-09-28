@@ -1,0 +1,7 @@
+{
+  "name": "tauri-mcp-server",
+  "description": "Enables AI agents to interact with and debug Tauri desktop applications, providing tools for window management, user input simulation, and storage operations.",
+  "source_repo": "delorenj/tauri-mcp-server",
+  "source_url": "https://github.com/delorenj/tauri-mcp-server",
+  "install": "npx -y tauri-mcp-server"
+}

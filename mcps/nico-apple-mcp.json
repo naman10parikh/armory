@@ -1,0 +1,7 @@
+{
+  "name": "nico-apple-mcp",
+  "description": "Enables AI assistants to interact with local Apple Calendar, Notes, and Contacts on macOS. Provides tools for creating, reading, updating, and deleting events, notes, and contacts through natural language.",
+  "source_repo": "proxynico/nico-apple-mcp",
+  "source_url": "https://github.com/proxynico/nico-apple-mcp",
+  "install": "npx -y nico-apple-mcp"
+}

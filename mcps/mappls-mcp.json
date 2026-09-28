@@ -1,0 +1,7 @@
+{
+  "name": "mappls-mcp",
+  "description": "Enables AI agents to perform geocoding, routing, nearby search, and other location-based tasks for Indian addresses using the Mappls (MapMyIndia) platform.",
+  "source_repo": "AmanMakesStuff/mappls-mcp",
+  "source_url": "https://github.com/AmanMakesStuff/mappls-mcp",
+  "install": "npx -y mappls-mcp"
+}

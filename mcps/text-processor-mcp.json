@@ -1,0 +1,7 @@
+{
+  "name": "text-processor-mcp",
+  "description": "Provides 9 text processing tools for analysis, sentiment, language detection, summarization, spelling, and readability tips.",
+  "source_repo": "maki198906/-text-processor-mcp",
+  "source_url": "https://github.com/maki198906/-text-processor-mcp",
+  "install": "npx -y -text-processor-mcp"
+}

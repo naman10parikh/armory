@@ -1,0 +1,7 @@
+{
+  "name": "carddav-mcp",
+  "description": "A CardDAV MCP server that exposes contacts and address books as tools for AI assistants.",
+  "source_repo": "dominik1001/carddav-mcp",
+  "source_url": "https://github.com/dominik1001/carddav-mcp",
+  "install": "npx -y carddav-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "owui-email-mcp",
+  "description": "Enables drafting emails via Model Context Protocol in OpenWebUI using templates, generating short links for editable drafts without sending any emails.",
+  "source_repo": "Th3R3alDuk3/OWUI-Email-MCP",
+  "source_url": "https://github.com/Th3R3alDuk3/OWUI-Email-MCP",
+  "install": "npx -y OWUI-Email-MCP"
+}

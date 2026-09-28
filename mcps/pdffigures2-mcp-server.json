@@ -1,6 +1,6 @@
 {
   "name": "pdffigures2-mcp-server",
-  "description": "Pdffigures2 MCP Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "JackKuo666/pdffigures2-MCP-Server",
   "source_url": "https://mcp.so/server/pdffigures2-MCP-Server/JackKuo666",
   "install": "npx -y pdffigures2-MCP-Server"

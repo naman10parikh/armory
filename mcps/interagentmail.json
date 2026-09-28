@@ -1,0 +1,7 @@
+{
+  "name": "interagentmail",
+  "description": "Enables durable message passing between Codex project agents with MCP tools and automatic wake-up delivery, storing messages as JSON on disk.",
+  "source_repo": "cerberusgamelabs/cgl-interagentmail",
+  "source_url": "https://github.com/cerberusgamelabs/cgl-interagentmail",
+  "install": "# git clone --depth 1 https://github.com/cerberusgamelabs/cgl-interagentmail\n# See source for mcpServers config block"
+}

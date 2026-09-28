@@ -1,0 +1,7 @@
+{
+  "name": "calibremcp",
+  "description": "FastMCP 3.2 MCP server for Calibre e-book library management — AI-assisted search, RAG, and agentic workflows.",
+  "source_repo": "Jarzembak/calibremcp",
+  "source_url": "https://github.com/Jarzembak/calibremcp",
+  "install": "# git clone --depth 1 https://github.com/Jarzembak/calibremcp\n# See source for mcpServers config block"
+}

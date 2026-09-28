@@ -1,0 +1,7 @@
+{
+  "name": "vault-knowledge-mcp-server",
+  "description": "Read-only MCP server that surfaces contradictions in an Obsidian vault's knowledge graph via semantic search and reasoning edges.",
+  "source_repo": "seanwinslow28/sw-mcp-vault-knowledge",
+  "source_url": "https://github.com/seanwinslow28/sw-mcp-vault-knowledge",
+  "install": "# git clone --depth 1 https://github.com/seanwinslow28/sw-mcp-vault-knowledge\n# See source for mcpServers config block"
+}

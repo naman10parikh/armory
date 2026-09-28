@@ -1,0 +1,7 @@
+{
+  "name": "mcp-codebase-oracle",
+  "description": "Analyzes software projects to extract architecture, build dependency graphs, and predict the impact of code changes.",
+  "source_repo": "iamseyhmus7/mcp-codebase-oracle",
+  "source_url": "https://github.com/iamseyhmus7/mcp-codebase-oracle",
+  "install": "# git clone --depth 1 https://github.com/iamseyhmus7/mcp-codebase-oracle\n# See source for mcpServers config block"
+}

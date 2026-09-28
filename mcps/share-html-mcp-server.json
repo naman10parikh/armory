@@ -1,0 +1,7 @@
+{
+  "name": "share-html-mcp-server",
+  "description": "Enables publishing sanitized static HTML pages from an MCP agent and receiving shareable URLs, with tools for updating, listing, publishing, and deleting pages.",
+  "source_repo": "arunai30/share-html-mcp",
+  "source_url": "https://github.com/arunai30/share-html-mcp",
+  "install": "npx -y share-html-mcp"
+}

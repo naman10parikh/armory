@@ -1,0 +1,7 @@
+{
+  "name": "quolle-mcp",
+  "description": "Enables AI agents to send transactional emails through Quolle, including sending, batching, canceling, and checking delivery status of emails.",
+  "source_repo": "Quolle-main/quolle-mcp",
+  "source_url": "https://github.com/Quolle-main/quolle-mcp",
+  "install": "npx -y quolle-mcp"
+}

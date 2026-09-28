@@ -1,0 +1,7 @@
+{
+  "name": "lantern-mcp",
+  "description": "Enables full-text search of the Media History Digital Library's digitized entertainment trade press (e.g., Variety, Billboard), returning leaf-level results with keyword-in-context excerpts, no API key required.",
+  "source_repo": "nestordemeure/lantern-mcp",
+  "source_url": "https://github.com/nestordemeure/lantern-mcp",
+  "install": "npx -y lantern-mcp"
+}

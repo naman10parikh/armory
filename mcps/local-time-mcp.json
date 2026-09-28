@@ -1,0 +1,7 @@
+{
+  "name": "local-time-mcp",
+  "description": "An introductory MCP server that provides local time tools like getting current time, formatting, computing time differences, and listing timezones.",
+  "source_repo": "gouxinjie/local-time-mcp",
+  "source_url": "https://github.com/gouxinjie/local-time-mcp",
+  "install": "npx -y local-time-mcp"
+}

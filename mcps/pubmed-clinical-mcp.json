@@ -1,0 +1,7 @@
+{
+  "name": "pubmed-clinical-mcp",
+  "description": "A lightweight MCP server for clinical biomedical literature retrieval, enabling PubMed search, article metadata, full-text access, and evidence summarization through MCP-compatible clients.",
+  "source_repo": "jxia622/pubmed-clinical-mcp",
+  "source_url": "https://github.com/jxia622/pubmed-clinical-mcp",
+  "install": "npx -y pubmed-clinical-mcp"
+}

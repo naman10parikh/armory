@@ -1,0 +1,7 @@
+{
+  "name": "calibre-library-mcp",
+  "description": "A local stdio MCP server that enables AI tools to search a self-hosted Calibre library over SSH, supporting metadata queries, full-text search, and book details.",
+  "source_repo": "halimchaibi/calibre-library-mcp",
+  "source_url": "https://github.com/halimchaibi/calibre-library-mcp",
+  "install": "npx -y calibre-library-mcp"
+}

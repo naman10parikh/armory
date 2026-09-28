@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-codex-local-mcp",
+  "description": "A secure MCP server that exposes local repository context to ChatGPT/Codex with read-only access, path validation, and no generic shell.",
+  "source_repo": "dpaula/chatgpt-codex-local-mcp",
+  "source_url": "https://github.com/dpaula/chatgpt-codex-local-mcp",
+  "install": "npx -y chatgpt-codex-local-mcp"
+}

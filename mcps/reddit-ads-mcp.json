@@ -1,0 +1,7 @@
+{
+  "name": "reddit-ads-mcp",
+  "description": "A self-hosted MCP server for the Reddit Ads API v3, enabling reading ad accounts, campaigns, ad groups, ads, and performance reports, with optional write support for pausing/activating, budgeting, patching, and creating entities.",
+  "source_repo": "FarahTrip/reddit-ads-mcp",
+  "source_url": "https://github.com/FarahTrip/reddit-ads-mcp",
+  "install": "npx -y reddit-ads-mcp"
+}

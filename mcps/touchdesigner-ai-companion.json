@@ -1,0 +1,7 @@
+{
+  "name": "touchdesigner-ai-companion",
+  "description": "Enables users to capture TouchDesigner node network screenshots and ask Claude for context-aware analysis, diagnosis, and suggestions via MCP tools.",
+  "source_repo": "LindaEng/mcp_touch",
+  "source_url": "https://github.com/LindaEng/mcp_touch",
+  "install": "# git clone --depth 1 https://github.com/LindaEng/mcp_touch\n# See source for mcpServers config block"
+}

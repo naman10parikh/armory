@@ -1,0 +1,7 @@
+{
+  "name": "curl-mcp-server",
+  "description": "A comprehensive HTTP/HTTPS tool server using curl, supporting various authentication methods, file uploads, downloads, and custom curl commands.",
+  "source_repo": "Gabry848/curl-mcp",
+  "source_url": "https://github.com/Gabry848/curl-mcp",
+  "install": "npx -y curl-mcp"
+}

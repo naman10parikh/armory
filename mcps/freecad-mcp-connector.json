@@ -1,0 +1,7 @@
+{
+  "name": "freecad-mcp-connector",
+  "description": "Connects Claude Desktop to a running FreeCAD instance, enabling document management, part creation and editing, direct Python execution, parts library insertion, FEM analysis, and 3D view screenshots.",
+  "source_repo": "mario-2015/freecad-mcp-connector-for-claude-desktop",
+  "source_url": "https://github.com/mario-2015/freecad-mcp-connector-for-claude-desktop",
+  "install": "# git clone --depth 1 https://github.com/mario-2015/freecad-mcp-connector-for-claude-desktop\n# See source for mcpServers config block"
+}

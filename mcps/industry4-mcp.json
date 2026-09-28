@@ -1,0 +1,7 @@
+{
+  "name": "industry4-mcp",
+  "description": "MCP server that bridges industrial IoT data with conversational AI, enabling natural language queries to machine health telemetry through ChatGPT.",
+  "source_repo": "AryanPROOO/industry4-mcp",
+  "source_url": "https://github.com/AryanPROOO/industry4-mcp",
+  "install": "npx -y industry4-mcp"
+}

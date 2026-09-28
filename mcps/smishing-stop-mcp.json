@@ -1,0 +1,7 @@
+{
+  "name": "smishing-stop-mcp",
+  "description": "Analyzes suspicious messages to detect smishing, messenger phishing, and voice phishing attempts, providing risk assessment, evidence, and action guides in Korean.",
+  "source_repo": "jeongmk522-netizen/smishing-stop-mcp",
+  "source_url": "https://github.com/jeongmk522-netizen/smishing-stop-mcp",
+  "install": "npx -y smishing-stop-mcp"
+}

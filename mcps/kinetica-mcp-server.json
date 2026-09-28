@@ -1,0 +1,7 @@
+{
+  "name": "kinetica-mcp-server",
+  "description": "Exposes tools and resources for interacting with Kinetica's database, SQL-GPT contexts, and real-time monitoring.",
+  "source_repo": "kineticadb/mcp-kinetica",
+  "source_url": "https://github.com/kineticadb/mcp-kinetica",
+  "install": "# git clone --depth 1 https://github.com/kineticadb/mcp-kinetica\n# See source for mcpServers config block"
+}

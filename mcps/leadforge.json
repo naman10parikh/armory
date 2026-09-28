@@ -1,0 +1,7 @@
+{
+  "name": "leadforge",
+  "description": "Enables lightweight CRM pipeline management with email sequences, project scanning, and MCP-based interaction for AI agents.",
+  "source_repo": "cognis-digital/leadforge",
+  "source_url": "https://github.com/cognis-digital/leadforge",
+  "install": "# git clone --depth 1 https://github.com/cognis-digital/leadforge\n# See source for mcpServers config block"
+}

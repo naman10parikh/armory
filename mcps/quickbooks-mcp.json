@@ -1,0 +1,7 @@
+{
+  "name": "quickbooks-mcp",
+  "description": "Enables financial professionals to interact with QuickBooks Online using natural language for reports, journal entries, bills, expenses, and more.",
+  "source_repo": "laf-rge/quickbooks-mcp",
+  "source_url": "https://github.com/laf-rge/quickbooks-mcp",
+  "install": "npx -y quickbooks-mcp"
+}

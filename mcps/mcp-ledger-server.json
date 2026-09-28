@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ledger-server",
+  "description": "A comprehensive MCP server for secure Ledger hardware wallet integration with Ethereum blockchain operations, enabling AI agents to safely manage crypto assets, sign transactions, and interact with multiple networks.",
+  "source_repo": "dennisonbertram/mcp-ledger",
+  "source_url": "https://github.com/dennisonbertram/mcp-ledger",
+  "install": "# git clone --depth 1 https://github.com/dennisonbertram/mcp-ledger\n# See source for mcpServers config block"
+}

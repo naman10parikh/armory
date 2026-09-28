@@ -1,0 +1,7 @@
+{
+  "name": "kindly-web-search-mcp-server",
+  "description": "Provides web search and content retrieval optimized for AI coding assistants, returning full conversations and structured content from StackOverflow, GitHub Issues, arXiv, and Wikipedia in a single call.",
+  "source_repo": "Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server",
+  "source_url": "https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server",
+  "install": "npx -y kindly-web-search-mcp-server"
+}

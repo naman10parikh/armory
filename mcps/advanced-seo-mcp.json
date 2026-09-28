@@ -1,0 +1,7 @@
+{
+  "name": "advanced-seo-mcp",
+  "description": "Provides AI agents with professional-grade SEO capabilities including on-page analysis, technical audits, PageSpeed insights, and Ahrefs data integration.",
+  "source_repo": "halilertekin/advanced-seo-mcp",
+  "source_url": "https://github.com/halilertekin/advanced-seo-mcp",
+  "install": "npx -y advanced-seo-mcp"
+}

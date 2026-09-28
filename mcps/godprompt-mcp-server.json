@@ -1,0 +1,7 @@
+{
+  "name": "godprompt-mcp-server",
+  "description": "Provides tools to retrieve the GodPrompt universal system prompt and its components (core skill, protocols, gates, anti-patterns) for AI software development, plus task classification. Designed for progressive context usage.",
+  "source_repo": "AKzar1el/god-prompt-mcp",
+  "source_url": "https://github.com/AKzar1el/god-prompt-mcp",
+  "install": "npx -y god-prompt-mcp"
+}

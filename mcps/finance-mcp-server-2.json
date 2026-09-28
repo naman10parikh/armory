@@ -1,0 +1,7 @@
+{
+  "name": "finance-mcp-server-2",
+  "description": "Enables fetching real-time financial market data, including price, key metrics, and news headlines, for stock tickers using the yfinance API.",
+  "source_repo": "jrierapeiro/finance-mcp",
+  "source_url": "https://github.com/jrierapeiro/finance-mcp",
+  "install": "npx -y finance-mcp"
+}

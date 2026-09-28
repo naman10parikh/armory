@@ -1,0 +1,7 @@
+{
+  "name": "instagram-relationship-mcp",
+  "description": "An MCP server that determines which Instagram accounts you follow that do not follow you back, using a dedicated authenticated browser profile and caching derived results locally.",
+  "source_repo": "rankes96-dev/instagram-relationship-mcp",
+  "source_url": "https://github.com/rankes96-dev/instagram-relationship-mcp",
+  "install": "npx -y instagram-relationship-mcp"
+}

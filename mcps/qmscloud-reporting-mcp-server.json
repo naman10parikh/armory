@@ -1,0 +1,7 @@
+{
+  "name": "qmscloud-reporting-mcp-server",
+  "description": "Enables querying pre-built Metabase cards for QMSCloud reporting, allowing retrieval of ticket summaries and other reports via natural language through AnythingLLM.",
+  "source_repo": "koosoftware/metabase-mcpreport",
+  "source_url": "https://github.com/koosoftware/metabase-mcpreport",
+  "install": "# git clone --depth 1 https://github.com/koosoftware/metabase-mcpreport\n# See source for mcpServers config block"
+}

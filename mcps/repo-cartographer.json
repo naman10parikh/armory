@@ -1,0 +1,7 @@
+{
+  "name": "repo-cartographer",
+  "description": "An MCP server that maps any repository into architecture diagrams, providing tools for scanning code facts, building import graphs, and generating Mermaid/DOT diagrams, plus architecture rule enforcement for CI.",
+  "source_repo": "builditwithgk/repo-cartographer",
+  "source_url": "https://github.com/builditwithgk/repo-cartographer",
+  "install": "# git clone --depth 1 https://github.com/builditwithgk/repo-cartographer\n# See source for mcpServers config block"
+}

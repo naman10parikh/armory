@@ -1,0 +1,7 @@
+{
+  "name": "aiphotoeditor-mcp",
+  "description": "A read-only MCP server exposing AI Photo Editor's image generation styles, pricing, FAQ, and official links to AI clients like Claude Desktop.",
+  "source_repo": "rocnubie/aiphotoeditor-mcp",
+  "source_url": "https://github.com/rocnubie/aiphotoeditor-mcp",
+  "install": "npx -y aiphotoeditor-mcp"
+}

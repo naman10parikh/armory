@@ -1,0 +1,7 @@
+{
+  "name": "uk-visa-sponsor-mcp",
+  "description": "An MCP server that lets AI assistants search the UK Register of Licensed Visa Sponsors (125,000+ companies), enabling queries about company sponsorship, location, visa routes, and ratings.",
+  "source_repo": "folathecoder/uk-visa-sponsor-mcp",
+  "source_url": "https://github.com/folathecoder/uk-visa-sponsor-mcp",
+  "install": "npx -y uk-visa-sponsor-mcp"
+}

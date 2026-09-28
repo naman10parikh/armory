@@ -1,0 +1,7 @@
+{
+  "name": "mcp-booking-bridge",
+  "description": "Enables managing restaurant table bookings through natural language conversations with an AI assistant, with built-in safety measures like no deletion and explicit write enable.",
+  "source_repo": "Northorium/mcp-booking-bridge",
+  "source_url": "https://github.com/Northorium/mcp-booking-bridge",
+  "install": "# git clone --depth 1 https://github.com/Northorium/mcp-booking-bridge\n# See source for mcpServers config block"
+}

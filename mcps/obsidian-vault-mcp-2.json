@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-vault-mcp-2",
+  "description": "A filesystem-based MCP server for Obsidian vaults that works without Obsidian running, enabling direct file operations via tools like list, read, write, append, and patch notes.",
+  "source_repo": "WhiteWolf-Cyber/obsidian-vault-mcp",
+  "source_url": "https://github.com/WhiteWolf-Cyber/obsidian-vault-mcp",
+  "install": "npx -y obsidian-vault-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vruum-mcp",
+  "description": "Provides AI agents with access to Vruum's AI revenue platform, enabling outbound, deals, pipeline, and CRM automation with 155 tools for searching, managing people, deals, outreach, and engagement, while your AI harness authors all sales and marketing prose.",
+  "source_repo": "vruum-gtm/mcp",
+  "source_url": "https://github.com/vruum-gtm/mcp",
+  "install": "# git clone --depth 1 https://github.com/vruum-gtm/mcp\n# See source for mcpServers config block"
+}

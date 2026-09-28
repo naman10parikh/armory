@@ -1,0 +1,7 @@
+{
+  "name": "awrelay",
+  "description": "Enables agents to send and receive structured messages through an AitherRelay-shaped chat server, providing relay_send, relay_history, and relay_channels tools for inter-agent coordination.",
+  "source_repo": "Aitherium/awrelay",
+  "source_url": "https://github.com/Aitherium/awrelay",
+  "install": "# git clone --depth 1 https://github.com/Aitherium/awrelay\n# See source for mcpServers config block"
+}

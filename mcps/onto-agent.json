@@ -1,0 +1,7 @@
+{
+  "name": "onto-agent",
+  "description": "Provides AI coding agents with an embedded knowledge graph and architecture governance tools, enabling blast radius analysis, compliance checks, and smart context extraction from codebases.",
+  "source_repo": "rinDBeans/onto-agent",
+  "source_url": "https://github.com/rinDBeans/onto-agent",
+  "install": "# git clone --depth 1 https://github.com/rinDBeans/onto-agent\n# See source for mcpServers config block"
+}

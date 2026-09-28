@@ -1,0 +1,7 @@
+{
+  "name": "detran-df-veiculo-mobile",
+  "description": "Provides read-only access to consult DETRAN DF vehicle information from official sources, with a single tool for mobile-based queries.",
+  "source_repo": "mcp-dir/detran_df_veiculo_mobile-mcp",
+  "source_url": "https://github.com/mcp-dir/detran_df_veiculo_mobile-mcp",
+  "install": "npx -y detran_df_veiculo_mobile-mcp"
+}

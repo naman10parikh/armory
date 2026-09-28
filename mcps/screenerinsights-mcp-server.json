@@ -1,0 +1,7 @@
+{
+  "name": "screenerinsights-mcp-server",
+  "description": "A remote MCP server exposing two read-only tools (get_available_stocks, get_latest_quarter_details) backed by data stored in Cloudflare R2.",
+  "source_repo": "yashgoyalits/mcp-server",
+  "source_url": "https://github.com/yashgoyalits/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/yashgoyalits/mcp-server\n# See source for mcpServers config block"
+}

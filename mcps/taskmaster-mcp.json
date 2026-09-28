@@ -1,0 +1,7 @@
+{
+  "name": "taskmaster-mcp",
+  "description": "MCP server providing Jira tools to fetch, create, update tickets, manage attachments, and generate AI-powered ticket content.",
+  "source_repo": "Cintra-Payroll-HR/cintra-taskmaster-interview",
+  "source_url": "https://github.com/Cintra-Payroll-HR/cintra-taskmaster-interview",
+  "install": "# git clone --depth 1 https://github.com/Cintra-Payroll-HR/cintra-taskmaster-interview\n# See source for mcpServers config block"
+}

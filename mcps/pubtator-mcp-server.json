@@ -1,0 +1,7 @@
+{
+  "name": "pubtator-mcp-server",
+  "description": "Provides an async Python server for interacting with the PubTator3 API, exposing multiple biomedical text-mining tools compatible with the MCP agent protocol.",
+  "source_repo": "QIngyuanfl/mcp-server-pubtator3",
+  "source_url": "https://github.com/QIngyuanfl/mcp-server-pubtator3",
+  "install": "# git clone --depth 1 https://github.com/QIngyuanfl/mcp-server-pubtator3\n# See source for mcpServers config block"
+}

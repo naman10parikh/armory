@@ -1,0 +1,7 @@
+{
+  "name": "jlink-mcp-server",
+  "description": "An MCP server that provides comprehensive debugging capabilities for J-Link debuggers, enabling memory, flash, register, and RTT operations through AI assistants.",
+  "source_repo": "cyj0920/jlink_mcp",
+  "source_url": "https://github.com/cyj0920/jlink_mcp",
+  "install": "npx -y jlink_mcp"
+}

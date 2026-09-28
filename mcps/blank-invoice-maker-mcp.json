@@ -1,0 +1,7 @@
+{
+  "name": "blank-invoice-maker-mcp",
+  "description": "Create free, no-signup invoices from your AI assistant — the create_invoice tool returns a link that opens blankinvoicemaker.com pre-filled, ready to download as a watermark-free PDF.",
+  "source_repo": "InnarM/blank-invoice-maker-mcp",
+  "source_url": "https://github.com/InnarM/blank-invoice-maker-mcp",
+  "install": "npx -y blank-invoice-maker-mcp"
+}

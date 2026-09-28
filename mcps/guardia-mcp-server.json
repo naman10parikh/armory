@@ -1,0 +1,7 @@
+{
+  "name": "guardia-mcp-server",
+  "description": "A production Model Context Protocol (MCP) server with 70+ tools, OAuth 2.1 authentication, and frame-based tool filtering.",
+  "source_repo": "AlexlaGuardia/guardia-mcp",
+  "source_url": "https://github.com/AlexlaGuardia/guardia-mcp",
+  "install": "npx -y guardia-mcp"
+}

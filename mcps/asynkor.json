@@ -1,0 +1,7 @@
+{
+  "name": "asynkor",
+  "description": "Coordination layer for AI coding agents working on the same codebase. Adds file locks, shared project memory, and cross-machine file sync so Claude Code, Cursor, Windsurf, and other MCP agents stop overwriting each other.",
+  "source_repo": "asynkor/asynkor",
+  "source_url": "https://github.com/asynkor/asynkor",
+  "install": "# git clone --depth 1 https://github.com/asynkor/asynkor\n# See source for mcpServers config block"
+}

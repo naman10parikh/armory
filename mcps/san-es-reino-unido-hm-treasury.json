@@ -1,0 +1,7 @@
+{
+  "name": "san-es-reino-unido-hm-treasury",
+  "description": "Verifica se um nome consta na lista de sanções financeiras do Reino Unido (HM Treasury), para diligência de compliance e AML.",
+  "source_repo": "mcp-dir/sancoes_reino_unido-mcp",
+  "source_url": "https://github.com/mcp-dir/sancoes_reino_unido-mcp",
+  "install": "npx -y sancoes_reino_unido-mcp"
+}

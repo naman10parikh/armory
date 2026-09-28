@@ -1,0 +1,7 @@
+{
+  "name": "smart-compost-mcp",
+  "description": "MCP server for Smart Compost platform that lets LLM agents list composting processes/devices and pull measurements as read-only tools.",
+  "source_repo": "smart-compost/mcp",
+  "source_url": "https://github.com/smart-compost/mcp",
+  "install": "# git clone --depth 1 https://github.com/smart-compost/mcp\n# See source for mcpServers config block"
+}

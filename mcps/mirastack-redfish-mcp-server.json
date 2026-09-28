@@ -1,0 +1,7 @@
+{
+  "name": "mirastack-redfish-mcp-server",
+  "description": "Enables secure, governed interaction with DMTF Redfish-compliant BMCs (iDRAC, iLO, etc.) via MCP, with read-only default and write operations gated behind explicit write-mode elevation and dry-run confirmations.",
+  "source_repo": "mirastacklabs-ai/mirastack-redfish-mcp",
+  "source_url": "https://github.com/mirastacklabs-ai/mirastack-redfish-mcp",
+  "install": "npx -y mirastack-redfish-mcp"
+}

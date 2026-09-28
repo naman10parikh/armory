@@ -1,0 +1,7 @@
+{
+  "name": "codepilot",
+  "description": "An autonomous AI software engineer and MCP server that uses LangGraph and a hybrid RAG index to autonomously edit, test, and debug codebases.",
+  "source_repo": "Tanmaygangurde20/CodePilot",
+  "source_url": "https://github.com/Tanmaygangurde20/CodePilot",
+  "install": "# git clone --depth 1 https://github.com/Tanmaygangurde20/CodePilot\n# See source for mcpServers config block"
+}

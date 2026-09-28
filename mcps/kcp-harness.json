@@ -1,0 +1,7 @@
+{
+  "name": "kcp-harness",
+  "description": "An MCP compliance proxy that enforces deterministic knowledge governance for AI agents, routing tool calls through a 14-gate planner and generating audit logs, budget ledgers, and approval tickets.",
+  "source_repo": "Cantara/kcp-harness",
+  "source_url": "https://github.com/Cantara/kcp-harness",
+  "install": "# git clone --depth 1 https://github.com/Cantara/kcp-harness\n# See source for mcpServers config block"
+}

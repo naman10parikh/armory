@@ -1,0 +1,7 @@
+{
+  "name": "parseable-mcp-server",
+  "description": "Model Context Protocol server for Parseable that lets MCP-capable clients discover, query, and manage Parseable datasets and alerts using natural language. Supports both stdio and HTTP transports.",
+  "source_repo": "parseablehq/parseable-mcp-server",
+  "source_url": "https://github.com/parseablehq/parseable-mcp-server",
+  "install": "npx -y parseable-mcp-server"
+}

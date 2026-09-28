@@ -1,0 +1,7 @@
+{
+  "name": "yougile-mcp",
+  "description": "A production-grade Model Context Protocol server for YouGile that lets AI agents read and manage projects, boards, tasks, employees, and more.",
+  "source_repo": "IvanTereshin/yougile-mcp",
+  "source_url": "https://github.com/IvanTereshin/yougile-mcp",
+  "install": "npx -y yougile-mcp"
+}

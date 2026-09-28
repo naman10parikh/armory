@@ -1,0 +1,7 @@
+{
+  "name": "trust-chain-mcp",
+  "description": "Manages trust chains and attestations with built-in EU AI Act compliance.",
+  "source_repo": "CSOAI-ORG/trust-chain-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/trust-chain-mcp",
+  "install": "npx -y trust-chain-mcp"
+}

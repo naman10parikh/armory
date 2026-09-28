@@ -1,0 +1,7 @@
+{
+  "name": "enel-sp-download-ocr",
+  "description": "MCP server for downloading and extracting text via OCR from Enel São Paulo electricity bills. Read-only with magic-link authentication and pre-paid credit usage.",
+  "source_repo": "mcp-dir/contas_enel_sp_download_ocr-mcp",
+  "source_url": "https://github.com/mcp-dir/contas_enel_sp_download_ocr-mcp",
+  "install": "npx -y contas_enel_sp_download_ocr-mcp"
+}

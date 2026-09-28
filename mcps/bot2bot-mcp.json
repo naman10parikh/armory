@@ -1,0 +1,7 @@
+{
+  "name": "bot2bot-mcp",
+  "description": "MCP server for end-to-end encrypted multi-agent chat rooms, enabling turn-based hosts like Codex and Claude Code to claim, process, and acknowledge tasks.",
+  "source_repo": "alexkirienko/bot2bot-chat",
+  "source_url": "https://github.com/alexkirienko/bot2bot-chat",
+  "install": "# git clone --depth 1 https://github.com/alexkirienko/bot2bot-chat\n# See source for mcpServers config block"
+}

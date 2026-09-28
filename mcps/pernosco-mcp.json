@@ -1,0 +1,7 @@
+{
+  "name": "pernosco-mcp",
+  "description": "MCP server that connects AI coding agents to Pernosco debugging sessions for querying execution traces, inspecting variables, navigating call stacks, and tracing value histories through natural language.",
+  "source_repo": "jnjaeschke/pernosco-mcp",
+  "source_url": "https://github.com/jnjaeschke/pernosco-mcp",
+  "install": "npx -y pernosco-mcp"
+}

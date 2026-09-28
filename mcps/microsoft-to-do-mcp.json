@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-to-do-mcp",
+  "description": "A Model Context Protocol (MCP) server that enables AI assistants like Claude and Cursor to interact with Microsoft To Do via the Microsoft Graph API.",
+  "source_repo": "dshatokhin/microsoft-todo-mcp-server",
+  "source_url": "https://github.com/dshatokhin/microsoft-todo-mcp-server",
+  "install": "npx -y microsoft-todo-mcp-server"
+}

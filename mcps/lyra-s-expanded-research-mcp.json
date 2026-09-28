@@ -1,0 +1,7 @@
+{
+  "name": "lyra-s-expanded-research-mcp",
+  "description": "A unified MCP server providing programmatic access to three major academic research APIs: Semantic Scholar, OpenAlex, and PubMed.",
+  "source_repo": "Liberation-Labs-THCoalition/Lyra-s-Expanded-Research-MCP",
+  "source_url": "https://github.com/Liberation-Labs-THCoalition/Lyra-s-Expanded-Research-MCP",
+  "install": "npx -y Lyra-s-Expanded-Research-MCP"
+}

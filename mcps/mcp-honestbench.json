@@ -1,0 +1,7 @@
+{
+  "name": "mcp-honestbench",
+  "description": "A deliberately dishonest MCP server that measures an agent system's honesty via deterministic, rule-driven lies across five modes, recording ground truth for scoring.",
+  "source_repo": "maymun207/mcp-honestbench",
+  "source_url": "https://github.com/maymun207/mcp-honestbench",
+  "install": "# git clone --depth 1 https://github.com/maymun207/mcp-honestbench\n# See source for mcpServers config block"
+}

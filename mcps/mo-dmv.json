@@ -1,0 +1,7 @@
+{
+  "name": "mo-dmv",
+  "description": "Provides Missouri DMV license office data including addresses, hours, contract agents, and daily-refreshed closure dates.",
+  "source_repo": "pipeworx-io/mcp-mo-dmv",
+  "source_url": "https://github.com/pipeworx-io/mcp-mo-dmv",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-mo-dmv\n# See source for mcpServers config block"
+}

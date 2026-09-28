@@ -1,0 +1,7 @@
+{
+  "name": "servarr-analytics-mcp",
+  "description": "Provides a structured data interface for Servarr apps (Sonarr, Radarr, Prowlarr) enabling health checks, analytics, simulations, backups, and guarded write operations.",
+  "source_repo": "Maxinger15/servarr-analytics-mcp",
+  "source_url": "https://github.com/Maxinger15/servarr-analytics-mcp",
+  "install": "npx -y servarr-analytics-mcp"
+}

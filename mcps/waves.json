@@ -1,0 +1,7 @@
+{
+  "name": "waves",
+  "description": "Enables Claude to analyze and repair audio files by viewing spectrograms, measuring noise, and applying fixes like healing hums or isolating speakers, all with undoable operations and without uploading audio.",
+  "source_repo": "MirrorEdgeAI/waves-claude",
+  "source_url": "https://github.com/MirrorEdgeAI/waves-claude",
+  "install": "# git clone --depth 1 https://github.com/MirrorEdgeAI/waves-claude\n# See source for mcpServers config block"
+}

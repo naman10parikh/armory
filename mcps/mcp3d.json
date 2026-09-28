@@ -1,0 +1,7 @@
+{
+  "name": "mcp3d",
+  "description": "A local MCP server for parametric, manufacturing-focused CAD workflows using Build123d as the modeling engine and FastMCP for the protocol.",
+  "source_repo": "lscherrer2/mcp3d",
+  "source_url": "https://github.com/lscherrer2/mcp3d",
+  "install": "# git clone --depth 1 https://github.com/lscherrer2/mcp3d\n# See source for mcpServers config block"
+}

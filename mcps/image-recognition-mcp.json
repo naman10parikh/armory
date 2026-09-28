@@ -1,0 +1,7 @@
+{
+  "name": "image-recognition-mcp",
+  "description": "Gives vision-less LLMs the ability to recognize clipboard screenshots and images by proxying to an OpenAI-compatible vision model.",
+  "source_repo": "llt22/image-recognition-mcp",
+  "source_url": "https://github.com/llt22/image-recognition-mcp",
+  "install": "npx -y image-recognition-mcp"
+}

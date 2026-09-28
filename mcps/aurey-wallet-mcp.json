@@ -1,0 +1,7 @@
+{
+  "name": "aurey-wallet-mcp",
+  "description": "Self-hosted MCP server enabling AI agents to manage EVM wallets, check balances, swap tokens, and securely execute transactions via 1Claw Intents without exposing private keys.",
+  "source_repo": "agentic-pantheon/aurey-mcp",
+  "source_url": "https://github.com/agentic-pantheon/aurey-mcp",
+  "install": "npx -y aurey-mcp"
+}

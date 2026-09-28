@@ -1,0 +1,7 @@
+{
+  "name": "local-llm-delegator",
+  "description": "MCP server that enables delegation of small coding implementations to a cheaper language model with propose_patch and apply_patch tools, while the primary agent retains architecture, review, and approval.",
+  "source_repo": "tushrv/local-llm-delegator",
+  "source_url": "https://github.com/tushrv/local-llm-delegator",
+  "install": "# git clone --depth 1 https://github.com/tushrv/local-llm-delegator\n# See source for mcpServers config block"
+}

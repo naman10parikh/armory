@@ -1,0 +1,7 @@
+{
+  "name": "canvasmcp",
+  "description": "Deploys a read-only MCP server to Cloudflare Workers for interacting with Canvas LMS, supporting courses, assignments, files, and more via a user-generated encrypted endpoint.",
+  "source_repo": "guirguispierre/canvasMCP",
+  "source_url": "https://github.com/guirguispierre/canvasMCP",
+  "install": "# git clone --depth 1 https://github.com/guirguispierre/canvasMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openai-gpt-image-mcp-server",
+  "description": "Enables image generation and editing using OpenAI's GPT Image API (gpt-image-1, 1.5, 2) with support for multi-image generation, history management, and batch processing.",
+  "source_repo": "ex-takashima/openAI-gpt-image-1-MCP-SERVER",
+  "source_url": "https://github.com/ex-takashima/openAI-gpt-image-1-MCP-SERVER",
+  "install": "npx -y openAI-gpt-image-1-MCP-SERVER"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "appscope-mcp-server",
+  "description": "Self-hosted MCP server for app market intelligence, enabling tools to query app download/revenue estimates, ad intensity proxies, creator mentions, and rank history from local collected data.",
+  "source_repo": "Ahad690/open-app-intel",
+  "source_url": "https://github.com/Ahad690/open-app-intel",
+  "install": "# git clone --depth 1 https://github.com/Ahad690/open-app-intel\n# See source for mcpServers config block"
+}

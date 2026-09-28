@@ -1,0 +1,7 @@
+{
+  "name": "rsba1-mcp",
+  "description": "Enables AI agents to read frequency, mode, and signal meter, as well as set frequency and control PTT on Icom IC-705/9700 and CI-V transceivers over the network using the RS-BA1 protocol.",
+  "source_repo": "fe1iscurc0r/rsba1-core",
+  "source_url": "https://github.com/fe1iscurc0r/rsba1-core",
+  "install": "# git clone --depth 1 https://github.com/fe1iscurc0r/rsba1-core\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apple-health-shortcuts-mcp-4",
+  "description": "Enables AI to read Apple Health data (activity, sleep, trends) via three read-only tools, deployed effortlessly on Cloudflare.",
+  "source_repo": "shenqingmo3-dotcom/apple-health-shortcuts-mcp",
+  "source_url": "https://github.com/shenqingmo3-dotcom/apple-health-shortcuts-mcp",
+  "install": "npx -y apple-health-shortcuts-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "polyhaven-mcp",
+  "description": "Enables AI assistants to search and retrieve metadata and download links for CC0 HDRIs, textures, and 3D models from PolyHaven's public library.",
+  "source_repo": "RN0000/polyhaven-mcp",
+  "source_url": "https://github.com/RN0000/polyhaven-mcp",
+  "install": "npx -y polyhaven-mcp"
+}

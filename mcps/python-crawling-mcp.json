@@ -1,0 +1,7 @@
+{
+  "name": "python-crawling-mcp",
+  "description": "An MCP server for safe web crawling and scraping of public and authenticated sites using Playwright and Crawlee. It provides tools for scraping single pages, crawling entire sites, validating sessions, and listing supported sites, with built-in security protections and adapter-based extensibility.",
+  "source_repo": "BaektotheFuture98/Crawl_MCP",
+  "source_url": "https://github.com/BaektotheFuture98/Crawl_MCP",
+  "install": "npx -y Crawl_MCP"
+}

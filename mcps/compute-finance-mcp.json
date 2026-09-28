@@ -1,0 +1,7 @@
+{
+  "name": "compute-finance-mcp",
+  "description": "Provides real-time AI compute pricing and cost analysis across LLM providers, enabling session cost tracking, model price comparisons, and historical data queries.",
+  "source_repo": "compute-finance/mcp",
+  "source_url": "https://github.com/compute-finance/mcp",
+  "install": "# git clone --depth 1 https://github.com/compute-finance/mcp\n# See source for mcpServers config block"
+}

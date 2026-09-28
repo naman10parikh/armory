@@ -1,0 +1,7 @@
+{
+  "name": "inktomd-mcp-server",
+  "description": "Convert any file or URL to clean AI-ready Markdown directly from Claude, Claude Code, Cursor, or any MCP-compatible AI agent.",
+  "source_repo": "hadirizvi093/inktomd-mcp",
+  "source_url": "https://github.com/hadirizvi093/inktomd-mcp",
+  "install": "npx -y inktomd-mcp"
+}

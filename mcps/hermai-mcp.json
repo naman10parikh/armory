@@ -1,0 +1,7 @@
+{
+  "name": "hermai-mcp",
+  "description": "Enables agent runtimes to look up, classify, and fetch Hermai schemas as MCP tools, including read-only data retrieval via hosted endpoints (with optional API key).",
+  "source_repo": "hermai-ai/hermai-mcp",
+  "source_url": "https://github.com/hermai-ai/hermai-mcp",
+  "install": "npx -y hermai-mcp"
+}

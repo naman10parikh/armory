@@ -1,0 +1,7 @@
+{
+  "name": "pebblehost-mcp",
+  "description": "Enables natural language management of Pebblehost Minecraft servers, including server status, control, console commands, file management, and backups.",
+  "source_repo": "bop-del/pebblehost-mcp",
+  "source_url": "https://github.com/bop-del/pebblehost-mcp",
+  "install": "npx -y pebblehost-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "blockout-mcp",
+  "description": "Enables AI agents to control the Blockout previs desktop app for AI filmmaking, allowing staging of 3D worlds, character animation, camera framing, timeline control, and viewport screenshotting through MCP tools.",
+  "source_repo": "wassermanproductions/blockout-mcp",
+  "source_url": "https://github.com/wassermanproductions/blockout-mcp",
+  "install": "npx -y blockout-mcp"
+}

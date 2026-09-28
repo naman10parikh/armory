@@ -1,0 +1,7 @@
+{
+  "name": "bitwarden-mcp-server",
+  "description": "Enables interaction with Bitwarden/Vaultwarden for password and secure note management, including creation, updating, deletion, and search of items and folders.",
+  "source_repo": "giuliolibrando/bitwarden-mcp-server",
+  "source_url": "https://github.com/giuliolibrando/bitwarden-mcp-server",
+  "install": "npx -y bitwarden-mcp-server"
+}

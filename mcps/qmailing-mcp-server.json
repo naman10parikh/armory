@@ -1,0 +1,7 @@
+{
+  "name": "qmailing-mcp-server",
+  "description": "Enables AI agents to manage email mailboxes, send and receive emails, and handle webhooks via qmailing.",
+  "source_repo": "TheSameAbramovych/qmailing-mcp-server",
+  "source_url": "https://github.com/TheSameAbramovych/qmailing-mcp-server",
+  "install": "npx -y qmailing-mcp-server"
+}

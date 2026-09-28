@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sistema-archivos-fastapi",
+  "description": "Enables file system operations like listing, reading, writing, deleting, and renaming files within a specified folder via a FastAPI-based MCP server.",
+  "source_repo": "juanesteban-valdesospina-agencycic/mcp_sistema_archivos_fastapi",
+  "source_url": "https://github.com/juanesteban-valdesospina-agencycic/mcp_sistema_archivos_fastapi",
+  "install": "# git clone --depth 1 https://github.com/juanesteban-valdesospina-agencycic/mcp_sistema_archivos_fastapi\n# See source for mcpServers config block"
+}

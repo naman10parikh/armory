@@ -1,0 +1,7 @@
+{
+  "name": "tiktok-organic-mcp",
+  "description": "Enables AI assistants to access TikTok organic analytics including video performance, engagement metrics, and profile insights via the TikTok Developer API.",
+  "source_repo": "lanternrow/tiktok-organic-mcp",
+  "source_url": "https://github.com/lanternrow/tiktok-organic-mcp",
+  "install": "npx -y tiktok-organic-mcp"
+}

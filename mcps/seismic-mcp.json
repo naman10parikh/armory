@@ -1,0 +1,7 @@
+{
+  "name": "seismic-mcp",
+  "description": "A unified MCP server that queries 20 seismic agencies in parallel, reconciles cross-agency earthquake reports, and surfaces discrepancies for AI agents.",
+  "source_repo": "hoon1983/seismic-mcp",
+  "source_url": "https://github.com/hoon1983/seismic-mcp",
+  "install": "npx -y seismic-mcp"
+}

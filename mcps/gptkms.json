@@ -1,0 +1,7 @@
+{
+  "name": "gptkms",
+  "description": "Local-first Knowledge Management System that exposes markdown-based durable memory as MCP tools for Codex and ChatGPT, enabling search, read, write, and promotion workflows with project and global scopes.",
+  "source_repo": "sc28249782/GPTkms",
+  "source_url": "https://github.com/sc28249782/GPTkms",
+  "install": "# git clone --depth 1 https://github.com/sc28249782/GPTkms\n# See source for mcpServers config block"
+}

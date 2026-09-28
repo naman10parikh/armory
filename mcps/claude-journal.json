@@ -1,0 +1,7 @@
+{
+  "name": "claude-journal",
+  "description": "A lightweight journal/memory system for Claude Code with no ML dependencies, using SQLite for fast local storage.",
+  "source_repo": "chrismbryant/claude-journal-mcp",
+  "source_url": "https://github.com/chrismbryant/claude-journal-mcp",
+  "install": "npx -y claude-journal-mcp"
+}

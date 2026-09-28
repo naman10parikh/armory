@@ -1,0 +1,7 @@
+{
+  "name": "cadin-s-o-paulo",
+  "description": "Enables agents to check whether a CPF or CNPJ is registered in the São Paulo state CADIN (debtor registry), returning its situation. Read-only, works over MCP HTTP with any client.",
+  "source_repo": "mcp-dir/cadin_sp-mcp",
+  "source_url": "https://github.com/mcp-dir/cadin_sp-mcp",
+  "install": "npx -y cadin_sp-mcp"
+}

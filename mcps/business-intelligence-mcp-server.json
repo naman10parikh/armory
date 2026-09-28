@@ -1,0 +1,7 @@
+{
+  "name": "business-intelligence-mcp-server",
+  "description": "Enables AI-powered business intelligence queries on Elasticsearch data using natural language and Claude integration via MCP.",
+  "source_repo": "mikecali/bi_with_elasticsearch_mcp",
+  "source_url": "https://github.com/mikecali/bi_with_elasticsearch_mcp",
+  "install": "npx -y bi_with_elasticsearch_mcp"
+}

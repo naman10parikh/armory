@@ -1,0 +1,7 @@
+{
+  "name": "safari-devtools-mcp",
+  "description": "Lets your coding agent control and inspect a live Safari browser on macOS. Provides access to Safari DevTools for debugging, automation, and testing.",
+  "source_repo": "HayoDev/safari-devtools-mcp",
+  "source_url": "https://github.com/HayoDev/safari-devtools-mcp",
+  "install": "npx -y safari-devtools-mcp"
+}

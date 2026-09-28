@@ -1,0 +1,7 @@
+{
+  "name": "optimtoken-mcp",
+  "description": "Enables AI assistants to fetch live, dated prices for LLM models and cloud compute instances across providers, compare and recommend models, and estimate monthly costs based on workload-specific token shapes and constraints.",
+  "source_repo": "OptimNow/ai-pricing-hub-mcp",
+  "source_url": "https://github.com/OptimNow/ai-pricing-hub-mcp",
+  "install": "npx -y ai-pricing-hub-mcp"
+}

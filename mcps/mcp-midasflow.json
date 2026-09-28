@@ -1,0 +1,7 @@
+{
+  "name": "mcp-midasflow",
+  "description": "MidasFlow Flow API - Cross-exchange order flow, whale detection, liquidations, funding rates, squeeze alerts for AI agents. Native MCP server.",
+  "source_repo": "midasflowai-lab/midasflow-mcp-quickstart",
+  "source_url": "https://github.com/midasflowai-lab/midasflow-mcp-quickstart",
+  "install": "# git clone --depth 1 https://github.com/midasflowai-lab/midasflow-mcp-quickstart\n# See source for mcpServers config block"
+}

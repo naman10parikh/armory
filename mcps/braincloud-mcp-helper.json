@@ -1,0 +1,7 @@
+{
+  "name": "braincloud-mcp-helper",
+  "description": "A local, trustless MCP server that lets AI coding assistants sync brainCloud cloud-code scripts to and from your filesystem and git repo.",
+  "source_repo": "getbraincloud/braincloud-mcp-helper",
+  "source_url": "https://github.com/getbraincloud/braincloud-mcp-helper",
+  "install": "# git clone --depth 1 https://github.com/getbraincloud/braincloud-mcp-helper\n# See source for mcpServers config block"
+}

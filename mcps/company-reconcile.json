@@ -1,0 +1,7 @@
+{
+  "name": "company-reconcile",
+  "description": "模糊匹配两份表格中的公司名称和日期，输出已匹配、待复核和未匹配三种结果，便于数据对账。",
+  "source_repo": "uerdshds/company-data-mcp",
+  "source_url": "https://github.com/uerdshds/company-data-mcp",
+  "install": "npx -y company-data-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sparql-server",
+  "description": "Enables AI assistants to query semantic data via SPARQL endpoints, with support for multiple output formats and caching.",
+  "source_repo": "yet-market/yet-sparql-mcp-server",
+  "source_url": "https://github.com/yet-market/yet-sparql-mcp-server",
+  "install": "npx -y yet-sparql-mcp-server"
+}

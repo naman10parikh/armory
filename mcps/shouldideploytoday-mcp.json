@@ -1,0 +1,7 @@
+{
+  "name": "shouldideploytoday-mcp",
+  "description": "MCP server that checks if today is a good day to deploy using the shouldideploy.today API, with timezone support.",
+  "source_repo": "corentinleberre/shouldideploytoday-mcp",
+  "source_url": "https://github.com/corentinleberre/shouldideploytoday-mcp",
+  "install": "npx -y shouldideploytoday-mcp"
+}

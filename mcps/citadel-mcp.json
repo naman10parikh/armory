@@ -1,0 +1,7 @@
+{
+  "name": "citadel-mcp",
+  "description": "A Code Mode MCP server that provides AI coding agents with curated, per-stack documentation as typed tools, enabling efficient document access and search across multiple stacks.",
+  "source_repo": "sustinbebustin/citadel-mcp",
+  "source_url": "https://github.com/sustinbebustin/citadel-mcp",
+  "install": "npx -y citadel-mcp"
+}

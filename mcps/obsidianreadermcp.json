@@ -1,0 +1,7 @@
+{
+  "name": "obsidianreadermcp",
+  "description": "Enables AI assistants to manage Obsidian vaults via the local REST API, supporting CRUD operations, batch processing, templates, and vault analytics.",
+  "source_repo": "QianJue-CN/ObsidianReaderMCP",
+  "source_url": "https://github.com/QianJue-CN/ObsidianReaderMCP",
+  "install": "# git clone --depth 1 https://github.com/QianJue-CN/ObsidianReaderMCP\n# See source for mcpServers config block"
+}

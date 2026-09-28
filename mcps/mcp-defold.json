@@ -1,0 +1,7 @@
+{
+  "name": "mcp-defold",
+  "description": "This MCP server drives Defold games through an in-game debug bridge, allowing MCP clients to build, launch, playtest, and interact with real game builds via tools for input, screen reading, state, and logs.",
+  "source_repo": "haksanlulz/mcp-defold",
+  "source_url": "https://github.com/haksanlulz/mcp-defold",
+  "install": "# git clone --depth 1 https://github.com/haksanlulz/mcp-defold\n# See source for mcpServers config block"
+}

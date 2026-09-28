@@ -1,0 +1,7 @@
+{
+  "name": "databento-mcp-server",
+  "description": "Provides professional market data access via DataBento API, including real-time futures quotes, historical timeseries, batch downloads, symbol resolution, metadata discovery, and reference data.",
+  "source_repo": "Nice-Wolf-Studio/databento-mcp-server",
+  "source_url": "https://github.com/Nice-Wolf-Studio/databento-mcp-server",
+  "install": "npx -y databento-mcp-server"
+}

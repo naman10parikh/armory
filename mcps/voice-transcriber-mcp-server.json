@@ -1,0 +1,7 @@
+{
+  "name": "voice-transcriber-mcp-server",
+  "description": "Automatically transcribes Google Chat voice messages using Groq Whisper API, and also supports local audio file transcription.",
+  "source_repo": "fgasparetto/voice-transcriber-mcp",
+  "source_url": "https://github.com/fgasparetto/voice-transcriber-mcp",
+  "install": "npx -y voice-transcriber-mcp"
+}

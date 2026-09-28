@@ -1,0 +1,7 @@
+{
+  "name": "unit-expert-mcp",
+  "description": "Converts common units for length, weight, temperature, area, and volume.",
+  "source_repo": "kdaehun00/unit-expert-mcp",
+  "source_url": "https://github.com/kdaehun00/unit-expert-mcp",
+  "install": "npx -y unit-expert-mcp"
+}

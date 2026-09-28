@@ -1,0 +1,7 @@
+{
+  "name": "imon-framer-chat-mcp",
+  "description": "Private remote MCP gateway connecting ChatGPT to one configured Framer project. Exposes read, controlled write, and separate publishing tools over /mcp, with authentication and environment-based security controls.",
+  "source_repo": "IMONsergey/framer-chat-mcp",
+  "source_url": "https://github.com/IMONsergey/framer-chat-mcp",
+  "install": "npx -y framer-chat-mcp"
+}

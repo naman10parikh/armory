@@ -1,0 +1,7 @@
+{
+  "name": "postgres-mcp-server-2",
+  "description": "Acts as a secure bridge connecting PostgreSQL databases to AI models, enabling natural language querying, schema analysis, and controlled write operations with multi-layer security.",
+  "source_repo": "anilsrml/postgres-mcp-server",
+  "source_url": "https://github.com/anilsrml/postgres-mcp-server",
+  "install": "npx -y postgres-mcp-server"
+}

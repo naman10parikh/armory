@@ -1,0 +1,7 @@
+{
+  "name": "paperframe-ppt-agent",
+  "description": "MCP server for generating and editing PowerPoint-native framework diagrams from paper descriptions. Supports spec-based generation, incremental edits, snapshot rollback, and structure validation while preserving manual modifications.",
+  "source_repo": "MyLiya46/paperfream",
+  "source_url": "https://github.com/MyLiya46/paperfream",
+  "install": "# git clone --depth 1 https://github.com/MyLiya46/paperfream\n# See source for mcpServers config block"
+}

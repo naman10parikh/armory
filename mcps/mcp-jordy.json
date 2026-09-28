@@ -1,0 +1,7 @@
+{
+  "name": "mcp-jordy",
+  "description": "MCP server for managing the complete workflow of bank meeting minutes, from capture to approval and Word document generation.",
+  "source_repo": "mambamentality/mcp-jordy",
+  "source_url": "https://github.com/mambamentality/mcp-jordy",
+  "install": "# git clone --depth 1 https://github.com/mambamentality/mcp-jordy\n# See source for mcpServers config block"
+}

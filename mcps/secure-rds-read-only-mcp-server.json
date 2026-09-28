@@ -1,0 +1,7 @@
+{
+  "name": "secure-rds-read-only-mcp-server",
+  "description": "Provides read-only access to PostgreSQL databases via MCP, enforcing least-privilege roles, row-level security, masked views, and SQL AST guardrails to prevent data leakage and unauthorized operations, enabling AI agents to safely query sensitive production data.",
+  "source_repo": "Mpurushotham/secure-serverless-security-platform",
+  "source_url": "https://github.com/Mpurushotham/secure-serverless-security-platform",
+  "install": "# git clone --depth 1 https://github.com/Mpurushotham/secure-serverless-security-platform\n# See source for mcpServers config block"
+}

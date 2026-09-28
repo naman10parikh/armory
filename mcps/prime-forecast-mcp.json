@@ -1,0 +1,7 @@
+{
+  "name": "prime-forecast-mcp",
+  "description": "Enables read-only access to sales forecasts, team forecasts, and company forecasts from Prime Forecast V3. It provides role-based permissions for Sales, Team Admin, and Admin users.",
+  "source_repo": "makpdkpp/prime-forecast-mcp",
+  "source_url": "https://github.com/makpdkpp/prime-forecast-mcp",
+  "install": "npx -y prime-forecast-mcp"
+}

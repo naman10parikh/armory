@@ -1,0 +1,7 @@
+{
+  "name": "mcp-aider-executor",
+  "description": "Enables running aider as a detached background process with git and file tools, allowing LLMs to start code editing processes and check progress asynchronously for agentic swarm behavior.",
+  "source_repo": "RailKill/mcp-aider-executor",
+  "source_url": "https://github.com/RailKill/mcp-aider-executor",
+  "install": "# git clone --depth 1 https://github.com/RailKill/mcp-aider-executor\n# See source for mcpServers config block"
+}

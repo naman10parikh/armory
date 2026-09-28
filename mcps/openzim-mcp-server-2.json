@@ -1,0 +1,7 @@
+{
+  "name": "openzim-mcp-server-2",
+  "description": "OpenZIM MCP Server provides AI models structured, offline access to ZIM format knowledge archives (Wikipedia, Wiktionary, Stack Exchange, Kiwix Library) via a Model Context Protocol server with smart namespace navigation, full-text search with suggestions, structure-aware retrieval (sections, tables",
+  "source_repo": "ObunagaLabs/openzim-mcp",
+  "source_url": "https://github.com/ObunagaLabs/openzim-mcp",
+  "install": "npx -y openzim-mcp"
+}

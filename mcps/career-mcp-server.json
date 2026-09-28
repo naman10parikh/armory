@@ -1,0 +1,7 @@
+{
+  "name": "career-mcp-server",
+  "description": "A production-grade FastAPI-based MCP server for career-oriented tools, currently exposing GitHub integration (profile, repos, pinned, search, rate limits) to LLM clients via the Model Context Protocol.",
+  "source_repo": "mubashirnaeemj/career-mcp-server",
+  "source_url": "https://github.com/mubashirnaeemj/career-mcp-server",
+  "install": "npx -y career-mcp-server"
+}

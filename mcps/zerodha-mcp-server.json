@@ -1,0 +1,7 @@
+{
+  "name": "zerodha-mcp-server",
+  "description": "Enables AI assistants to interact with the Zerodha trading platform for placing stock orders, viewing holdings, and managing mutual fund investments through the MCP protocol.",
+  "source_repo": "ManikLakhanpal/Zerodha-MCP",
+  "source_url": "https://github.com/ManikLakhanpal/Zerodha-MCP",
+  "install": "npx -y Zerodha-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-linkedin-sales-navigator",
+  "description": "Enables AI assistants to search leads, view profiles, manage lists, send InMails, and export data from LinkedIn Sales Navigator through browser automation.",
+  "source_repo": "globodai-group/mcp-linkedin-sales-navigator",
+  "source_url": "https://github.com/globodai-group/mcp-linkedin-sales-navigator",
+  "install": "# git clone --depth 1 https://github.com/globodai-group/mcp-linkedin-sales-navigator\n# See source for mcpServers config block"
+}

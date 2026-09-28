@@ -1,0 +1,7 @@
+{
+  "name": "darcyaimcpserver",
+  "description": "A Python-based MCP server that predicts tomorrow's weather. It can be used remotely via uvx or locally with uv.",
+  "source_repo": "darcycui/DarcyAIMCPServer",
+  "source_url": "https://github.com/darcycui/DarcyAIMCPServer",
+  "install": "# git clone --depth 1 https://github.com/darcycui/DarcyAIMCPServer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "marketing-page-quality-gate",
+  "description": "An MCP server that deterministically scores landing pages on conversion-critical signals and blocks ad spend on low-quality pages to prevent wasted budget.",
+  "source_repo": "MarcinDudekDev/marketing-page-quality-gate",
+  "source_url": "https://github.com/MarcinDudekDev/marketing-page-quality-gate",
+  "install": "# git clone --depth 1 https://github.com/MarcinDudekDev/marketing-page-quality-gate\n# See source for mcpServers config block"
+}

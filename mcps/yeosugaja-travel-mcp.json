@@ -1,0 +1,7 @@
+{
+  "name": "yeosugaja-travel-mcp",
+  "description": "Enables search and retrieval of verified Yeosu travel itineraries, points of interest, and transport schedules via a read-only MCP server backed by cached bundles.",
+  "source_repo": "mogoon/yeosugaja-mcp",
+  "source_url": "https://github.com/mogoon/yeosugaja-mcp",
+  "install": "npx -y yeosugaja-mcp"
+}

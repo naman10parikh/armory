@@ -1,0 +1,7 @@
+{
+  "name": "mysql-context-mcp",
+  "description": "Enables agents to pull compact MySQL row diffs into their context, supporting before/after changes via triggers or watermark-based updates, with tools to fetch and acknowledge changes.",
+  "source_repo": "velinussage/mysql-context-mcp",
+  "source_url": "https://github.com/velinussage/mysql-context-mcp",
+  "install": "npx -y mysql-context-mcp"
+}

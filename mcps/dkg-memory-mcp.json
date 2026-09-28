@@ -1,0 +1,7 @@
+{
+  "name": "dkg-memory-mcp",
+  "description": "Exposes OriginTrail DKG V10 working, shared, and verifiable memory as standard MCP tools, enabling users to read, write, share, and query DKG memory from any MCP-capable client without custom HTTP wiring.",
+  "source_repo": "kiyeps/dkg-memory-mcp",
+  "source_url": "https://github.com/kiyeps/dkg-memory-mcp",
+  "install": "npx -y dkg-memory-mcp"
+}

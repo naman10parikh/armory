@@ -1,0 +1,7 @@
+{
+  "name": "agentic-keyvault",
+  "description": "A self-hostable secrets manager with an MCP server that enables AI agents to securely store, version, and retrieve API keys and tokens, ensuring they are never lost.",
+  "source_repo": "Hitesh-Sisara/agentic-keyvault",
+  "source_url": "https://github.com/Hitesh-Sisara/agentic-keyvault",
+  "install": "# git clone --depth 1 https://github.com/Hitesh-Sisara/agentic-keyvault\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "estonian-cybersecurity-mcp",
+  "description": "Query Estonian cybersecurity data -- regulations, decisions, and requirements from RIA/CERT-EE -- directly from any MCP-compatible client.",
+  "source_repo": "Ansvar-Systems/estonian-cybersecurity-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/estonian-cybersecurity-mcp",
+  "install": "npx -y estonian-cybersecurity-mcp"
+}

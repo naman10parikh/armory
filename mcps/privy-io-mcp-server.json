@@ -1,0 +1,7 @@
+{
+  "name": "privy-io-mcp-server",
+  "description": "Provides comprehensive access to user management, wallet operations, and blockchain interactions through the Privy.io Web3 wallet infrastructure.",
+  "source_repo": "incentivai-io/privy-mcp-server",
+  "source_url": "https://github.com/incentivai-io/privy-mcp-server",
+  "install": "npx -y privy-mcp-server"
+}

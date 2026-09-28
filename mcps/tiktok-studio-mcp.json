@@ -1,0 +1,7 @@
+{
+  "name": "tiktok-studio-mcp",
+  "description": "MCP server for TikTok that publishes videos to your own TikTok account and retrieves video performance metrics through TikTok's official Content Posting and Display APIs.",
+  "source_repo": "aaronckj/tiktok-studio-mcp",
+  "source_url": "https://github.com/aaronckj/tiktok-studio-mcp",
+  "install": "npx -y tiktok-studio-mcp"
+}

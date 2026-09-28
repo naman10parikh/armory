@@ -1,0 +1,7 @@
+{
+  "name": "tunetidy",
+  "description": "An MCP server that enables ChatGPT to control Spotify playlists, playback (including exact-cue seek), and perform offline metadata export to ZIP.",
+  "source_repo": "peterish8/TuneTidy",
+  "source_url": "https://github.com/peterish8/TuneTidy",
+  "install": "# git clone --depth 1 https://github.com/peterish8/TuneTidy\n# See source for mcpServers config block"
+}

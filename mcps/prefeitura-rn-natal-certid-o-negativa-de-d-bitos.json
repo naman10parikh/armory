@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-rn-natal-certid-o-negativa-de-d-bitos",
+  "description": "Enables querying negative debt certificates from the Natal city government using an official source.",
+  "source_repo": "mcp-dir/pref_rn_natal_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_rn_natal_cnd-mcp",
+  "install": "npx -y pref_rn_natal_cnd-mcp"
+}

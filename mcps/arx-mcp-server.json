@@ -1,0 +1,7 @@
+{
+  "name": "arx-mcp-server",
+  "description": "MCP server that integrates with ARXsec.io API to execute security scans, compliance checks, secrets management, and remediation actions with policy enforcement, audit logging, and human approval workflows.",
+  "source_repo": "GetHammerpath/arx-mcp-server",
+  "source_url": "https://github.com/GetHammerpath/arx-mcp-server",
+  "install": "npx -y arx-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "0pvalencia-academic-linter-mcp",
+  "description": "MCP server that lints academic documents (APA/structure) from Google Docs JSON, offering tools to check structure, compact headings, and find placeholders like TODO or lorem. Complements the Google Documents MCP server.",
+  "source_repo": "0PValencia/academic-linter-mcp",
+  "source_url": "https://github.com/0PValencia/academic-linter-mcp",
+  "install": "npx -y academic-linter-mcp"
+}

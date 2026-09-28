@@ -1,0 +1,7 @@
+{
+  "name": "fallphysio-us-mcp",
+  "description": "Sovereign, MIT-licensed MCP server wrapping the FallPhysio US SDK, providing Ed25519 signed listings and machine-callable tools for autonomous agents.",
+  "source_repo": "sjgant80-hub/fallphysio-us-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallphysio-us-mcp",
+  "install": "npx -y fallphysio-us-mcp"
+}

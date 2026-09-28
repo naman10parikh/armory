@@ -1,0 +1,7 @@
+{
+  "name": "dingtalk-robot-mcp",
+  "description": "Enables AI assistants to send DingTalk single and group chat messages via MCP protocol, supporting userId, name, or batch sending to up to 20 users.",
+  "source_repo": "liuyuming0823/dingtalk-robot-mcp",
+  "source_url": "https://github.com/liuyuming0823/dingtalk-robot-mcp",
+  "install": "npx -y dingtalk-robot-mcp"
+}

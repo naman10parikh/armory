@@ -1,0 +1,7 @@
+{
+  "name": "json-to-toon-compressor",
+  "description": "Converts oversized JSON arrays into a compact toon-style textual representation to reduce token consumption and compress context for LLM agent pipelines.",
+  "source_repo": "MCP-TOOLS-EDGE/json-to-toon-compressor",
+  "source_url": "https://github.com/MCP-TOOLS-EDGE/json-to-toon-compressor",
+  "install": "# git clone --depth 1 https://github.com/MCP-TOOLS-EDGE/json-to-toon-compressor\n# See source for mcpServers config block"
+}

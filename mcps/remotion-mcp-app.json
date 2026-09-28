@@ -1,0 +1,7 @@
+{
+  "name": "remotion-mcp-app",
+  "description": "Enables AI-powered video creation by letting the model write React/Remotion code, compiling it in real-time, and rendering the video inline in the chat interface via an interactive widget.",
+  "source_repo": "smarot6/remotion-mcp-app",
+  "source_url": "https://github.com/smarot6/remotion-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/smarot6/remotion-mcp-app\n# See source for mcpServers config block"
+}

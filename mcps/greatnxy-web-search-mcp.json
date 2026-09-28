@@ -1,0 +1,7 @@
+{
+  "name": "greatnxy-web-search-mcp",
+  "description": "A focused MCP server that provides a single web_search tool for web searches, integrating Tavily and Brave with automatic fallback and key rotation.",
+  "source_repo": "NXY666/web-search-mcp",
+  "source_url": "https://github.com/NXY666/web-search-mcp",
+  "install": "npx -y web-search-mcp"
+}

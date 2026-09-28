@@ -1,0 +1,7 @@
+{
+  "name": "ldap-mcp-server",
+  "description": "An MCP server that exposes LDAP directory operations to AI agents, supporting full CRUD, dual transport modes (stdio and SSE), and LDIF/JSON output with authentication.",
+  "source_repo": "markizano/ldap-mcp-server",
+  "source_url": "https://github.com/markizano/ldap-mcp-server",
+  "install": "npx -y ldap-mcp-server"
+}

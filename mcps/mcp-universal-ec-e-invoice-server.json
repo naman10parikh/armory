@@ -1,0 +1,7 @@
+{
+  "name": "mcp-universal-ec-e-invoice-server",
+  "description": "Enables AI agents to issue, void, query, and manage Taiwan e-invoices via 27 MCP tools, wrapping the Universal EC POS Web Service.",
+  "source_repo": "asgard-ai-platform/mcp-universalec-e-invoice",
+  "source_url": "https://github.com/asgard-ai-platform/mcp-universalec-e-invoice",
+  "install": "# git clone --depth 1 https://github.com/asgard-ai-platform/mcp-universalec-e-invoice\n# See source for mcpServers config block"
+}

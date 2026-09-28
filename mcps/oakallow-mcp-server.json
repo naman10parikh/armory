@@ -1,0 +1,7 @@
+{
+  "name": "oakallow-mcp-server",
+  "description": "Runtime permission, approval, and audit governance for AI agent tool execution, enabling human oversight of risky actions via an MCP server.",
+  "source_repo": "oakallow/oakallow-mcp",
+  "source_url": "https://github.com/oakallow/oakallow-mcp",
+  "install": "npx -y oakallow-mcp"
+}

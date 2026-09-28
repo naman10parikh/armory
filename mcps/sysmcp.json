@@ -1,0 +1,7 @@
+{
+  "name": "sysmcp",
+  "description": "MCP server that exposes live host metrics (CPU, memory, processes, network) to Cursor/Claude via /proc and optional eBPF, enabling system monitoring dashboards and natural language queries.",
+  "source_repo": "arunmm8335/sysmcp",
+  "source_url": "https://github.com/arunmm8335/sysmcp",
+  "install": "# git clone --depth 1 https://github.com/arunmm8335/sysmcp\n# See source for mcpServers config block"
+}

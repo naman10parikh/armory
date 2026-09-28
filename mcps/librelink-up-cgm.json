@@ -1,0 +1,7 @@
+{
+  "name": "librelink-up-cgm",
+  "description": "Read-only MCP server for accessing glucose readings, charts, logbook, and statistics from LibreLink Up sensors, supporting any MCP client.",
+  "source_repo": "mcp-dir/librelink-mcp",
+  "source_url": "https://github.com/mcp-dir/librelink-mcp",
+  "install": "npx -y librelink-mcp"
+}

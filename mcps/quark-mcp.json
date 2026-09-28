@@ -1,0 +1,7 @@
+{
+  "name": "quark-mcp",
+  "description": "Enables zero-API-cost visual understanding, text Q&A, image generation, and video analysis by driving the Quark browser's built-in AI chat page via CDP and Playwright.",
+  "source_repo": "007bba/quark-mcp",
+  "source_url": "https://github.com/007bba/quark-mcp",
+  "install": "npx -y quark-mcp"
+}

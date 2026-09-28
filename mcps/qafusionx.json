@@ -1,0 +1,7 @@
+{
+  "name": "qafusionx",
+  "description": "An MCP server that guides a sequential QA workflow, requiring initial project and user story inputs, then crawls web apps, generates test cases and Playwright scripts, runs tests, and files Jira bugs with proof.",
+  "source_repo": "thejanaloit/QAFusionX",
+  "source_url": "https://github.com/thejanaloit/QAFusionX",
+  "install": "# git clone --depth 1 https://github.com/thejanaloit/QAFusionX\n# See source for mcpServers config block"
+}

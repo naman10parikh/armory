@@ -1,0 +1,7 @@
+{
+  "name": "personal-info-mcp",
+  "description": "Stores and retrieves personal information fields securely, allowing Claude to access your name, address, email, and professional details without re-typing them.",
+  "source_repo": "KenTaniguchi-R/personal-info-mcp",
+  "source_url": "https://github.com/KenTaniguchi-R/personal-info-mcp",
+  "install": "npx -y personal-info-mcp"
+}

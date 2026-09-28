@@ -1,0 +1,7 @@
+{
+  "name": "groww-mcp-server",
+  "description": "An MCP server for the Groww trading platform. This enables LLM applications to interact with your Groww trading account.",
+  "source_repo": "abhijeetmohanan/growwmcp",
+  "source_url": "https://github.com/abhijeetmohanan/growwmcp",
+  "install": "# git clone --depth 1 https://github.com/abhijeetmohanan/growwmcp\n# See source for mcpServers config block"
+}

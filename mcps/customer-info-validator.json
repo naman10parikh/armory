@@ -1,0 +1,7 @@
+{
+  "name": "customer-info-validator",
+  "description": "Validates customer information completeness by checking caller-provided data against required fields, returning present and missing fields.",
+  "source_repo": "YanKe1816/customer-info-validator",
+  "source_url": "https://github.com/YanKe1816/customer-info-validator",
+  "install": "# git clone --depth 1 https://github.com/YanKe1816/customer-info-validator\n# See source for mcpServers config block"
+}

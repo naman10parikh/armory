@@ -1,0 +1,7 @@
+{
+  "name": "py-har-mcp",
+  "description": "An MCP server for parsing and analyzing HAR files, enabling AI assistants to inspect network traffic with automatic redaction of sensitive authentication headers.",
+  "source_repo": "wdvipa/py-har-mcp",
+  "source_url": "https://github.com/wdvipa/py-har-mcp",
+  "install": "npx -y py-har-mcp"
+}

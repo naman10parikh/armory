@@ -1,0 +1,7 @@
+{
+  "name": "kingdee-mcp-proxy",
+  "description": "Enables AI agents to safely query Kingdee Cloud Galaxy ERP with read-only mode, write confirmation gates, and full audit logging.",
+  "source_repo": "zhigang327/kingdee-mcp-proxy",
+  "source_url": "https://github.com/zhigang327/kingdee-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/zhigang327/kingdee-mcp-proxy\n# See source for mcpServers config block"
+}

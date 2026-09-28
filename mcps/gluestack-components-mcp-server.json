@@ -1,0 +1,7 @@
+{
+  "name": "gluestack-components-mcp-server",
+  "description": "Enables integration of Gluestack components with Claude Desktop and Cursor IDE for UI development.",
+  "source_repo": "gluestack/mcp",
+  "source_url": "https://github.com/gluestack/mcp",
+  "install": "# git clone --depth 1 https://github.com/gluestack/mcp\n# See source for mcpServers config block"
+}

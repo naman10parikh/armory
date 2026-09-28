@@ -1,0 +1,7 @@
+{
+  "name": "railway-mcp",
+  "description": "An MCP server that exposes the Railway API as tools for Claude. Manage Railway projects, services, deployments, variables, environments, and domains directly from Claude.",
+  "source_repo": "Gaaldaco/railway-mcp",
+  "source_url": "https://github.com/Gaaldaco/railway-mcp",
+  "install": "npx -y railway-mcp"
+}

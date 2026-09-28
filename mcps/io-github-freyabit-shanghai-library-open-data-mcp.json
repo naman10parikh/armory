@@ -1,0 +1,7 @@
+{
+  "name": "io-github-freyabit-shanghai-library-open-data-mcp",
+  "description": "Exposes 97 official Shanghai Library open data APIs and the Sou-Yun poetry database (1.99 million poems) as 12 MCP tools, covering genealogy, ancient books, calligraphy, historical buildings, and more. Enables MCP clients to query these datasets using natural language.",
+  "source_repo": "FreyaBit/OpenSH-mcp",
+  "source_url": "https://github.com/FreyaBit/OpenSH-mcp",
+  "install": "npx -y OpenSH-mcp"
+}

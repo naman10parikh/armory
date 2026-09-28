@@ -1,0 +1,7 @@
+{
+  "name": "doodleworks-mcp",
+  "description": "Turns any idea, blog post, or article into hand-drawn Tinku illustrations that explain key concepts, with an interactive viewer in the chat.",
+  "source_repo": "SalZaki/doodleworks-mcp",
+  "source_url": "https://github.com/SalZaki/doodleworks-mcp",
+  "install": "npx -y doodleworks-mcp"
+}

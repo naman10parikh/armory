@@ -1,0 +1,7 @@
+{
+  "name": "hiveos-mcp-server",
+  "description": "Enables Claude to read HiveOS rig stats and, when enabled, apply overclocks and flight sheets.",
+  "source_repo": "Mathis0000/MCP-hiveos",
+  "source_url": "https://github.com/Mathis0000/MCP-hiveos",
+  "install": "# git clone --depth 1 https://github.com/Mathis0000/MCP-hiveos\n# See source for mcpServers config block"
+}

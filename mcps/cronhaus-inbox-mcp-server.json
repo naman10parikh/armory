@@ -1,0 +1,7 @@
+{
+  "name": "cronhaus-inbox-mcp-server",
+  "description": "Enables AI-powered invoice analysis and reasoning: given invoice fields, it detects missing data, inconsistencies, duplicates, and proposes actions (register, request data, mark duplicate, review) using deterministic rules.",
+  "source_repo": "son1kkesp/cronhaus-inbox",
+  "source_url": "https://github.com/son1kkesp/cronhaus-inbox",
+  "install": "# git clone --depth 1 https://github.com/son1kkesp/cronhaus-inbox\n# See source for mcpServers config block"
+}

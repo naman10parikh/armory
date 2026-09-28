@@ -1,0 +1,7 @@
+{
+  "name": "mcp-postgres",
+  "description": "Read-only PostgreSQL MCP server that enables running SELECT queries, listing tables and schemas, and describing columns, with built-in protection against writes and malicious SQL attacks.",
+  "source_repo": "gbfeliped/mcp-postgres-readonly",
+  "source_url": "https://github.com/gbfeliped/mcp-postgres-readonly",
+  "install": "# git clone --depth 1 https://github.com/gbfeliped/mcp-postgres-readonly\n# See source for mcpServers config block"
+}

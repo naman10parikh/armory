@@ -1,0 +1,7 @@
+{
+  "name": "oracle-eval",
+  "description": "MCP server and standalone runner for benchmarking Oracle multi-agent stack components (memory and messages), producing SVG bar-chart reports.",
+  "source_repo": "OraclePersonal/Oracle-eval",
+  "source_url": "https://github.com/OraclePersonal/Oracle-eval",
+  "install": "# git clone --depth 1 https://github.com/OraclePersonal/Oracle-eval\n# See source for mcpServers config block"
+}

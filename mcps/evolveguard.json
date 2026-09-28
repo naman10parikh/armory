@@ -1,0 +1,7 @@
+{
+  "name": "evolveguard",
+  "description": "MCP server wrapping the evolveguard CLI as a single generic run tool for agent-skill file safety checks.",
+  "source_repo": "RudrenduPaul/evolveguard",
+  "source_url": "https://github.com/RudrenduPaul/evolveguard",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/evolveguard\n# See source for mcpServers config block"
+}

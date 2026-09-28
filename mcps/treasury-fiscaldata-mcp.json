@@ -1,0 +1,7 @@
+{
+  "name": "treasury-fiscaldata-mcp",
+  "description": "Enables querying U.S. Treasury fiscal data including debt, interest rates, auctions, and more via natural language, with no API key required.",
+  "source_repo": "jsconiers/treasury-fiscaldata-mcp",
+  "source_url": "https://github.com/jsconiers/treasury-fiscaldata-mcp",
+  "install": "npx -y treasury-fiscaldata-mcp"
+}

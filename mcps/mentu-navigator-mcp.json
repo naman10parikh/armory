@@ -1,0 +1,7 @@
+{
+  "name": "mentu-navigator-mcp",
+  "description": "Provides read-only, provenance-first repository navigation for agents and humans, with ranked lexical retrieval, exact query, document handles, symbol context, and change impact analysis.",
+  "source_repo": "mentu-ai/mentu-navigator",
+  "source_url": "https://github.com/mentu-ai/mentu-navigator",
+  "install": "# git clone --depth 1 https://github.com/mentu-ai/mentu-navigator\n# See source for mcpServers config block"
+}

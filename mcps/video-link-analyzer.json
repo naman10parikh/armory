@@ -1,0 +1,7 @@
+{
+  "name": "video-link-analyzer",
+  "description": "Enables link type detection, video downloading, metadata extraction, and transcript generation across 16+ platforms including YouTube, Bilibili, and WeChat Channels. Supports automatic subtitle extraction and optional Whisper speech-to-text for videos without captions.",
+  "source_repo": "demielcaitlinxk441-pixel/video-link-mcp",
+  "source_url": "https://github.com/demielcaitlinxk441-pixel/video-link-mcp",
+  "install": "npx -y video-link-mcp"
+}

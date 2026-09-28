@@ -1,0 +1,7 @@
+{
+  "name": "yieldsignal-mcp-server",
+  "description": "Provides risk-weighted yield signals and MOVE/HOLD decisions for ETH staking and USDC/WETH lending, accessed via x402 payment protocol with verifiable signed responses.",
+  "source_repo": "Stakemate369/yieldsignal",
+  "source_url": "https://github.com/Stakemate369/yieldsignal",
+  "install": "# git clone --depth 1 https://github.com/Stakemate369/yieldsignal\n# See source for mcpServers config block"
+}

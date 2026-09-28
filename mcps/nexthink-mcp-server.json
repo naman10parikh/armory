@@ -1,0 +1,7 @@
+{
+  "name": "nexthink-mcp-server",
+  "description": "An MCP server that exposes Nexthink Digital Employee Experience (DEX) telemetry and automation to LLM agents, enabling execution of saved NQL queries, bulk async data exports, remote actions, and workflow triggers against Nexthink Infinity via secure OAuth2/bearer/basic authentication.",
+  "source_repo": "mihender50/nexthink-mcp-server",
+  "source_url": "https://github.com/mihender50/nexthink-mcp-server",
+  "install": "npx -y nexthink-mcp-server"
+}

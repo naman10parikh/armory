@@ -1,0 +1,7 @@
+{
+  "name": "symbols-mcp",
+  "description": "MCP server for the Symbols.app platform, enabling AI coding assistants to search docs, generate components, audit code, manage projects, and deploy via the smbls stack.",
+  "source_repo": "symbo-ls/symbols-mcp",
+  "source_url": "https://github.com/symbo-ls/symbols-mcp",
+  "install": "npx -y symbols-mcp"
+}

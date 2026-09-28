@@ -1,0 +1,7 @@
+{
+  "name": "mcp-watermelon",
+  "description": "MCP server for Watermelon.ai that exposes all 13 public API endpoints as tools, enabling AI assistants to manage contacts, conversations, messages, custom fields, and webhooks.",
+  "source_repo": "CDiT-dev/mcp-watermelon",
+  "source_url": "https://github.com/CDiT-dev/mcp-watermelon",
+  "install": "# git clone --depth 1 https://github.com/CDiT-dev/mcp-watermelon\n# See source for mcpServers config block"
+}

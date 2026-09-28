@@ -1,0 +1,7 @@
+{
+  "name": "void",
+  "description": "Void is a universal no-op MCP server that turns tool calls into freely shaped thinking spaces. It allows users to define custom tools with fixed results, enabling guided agent articulation and recursive self-correction.",
+  "source_repo": "janbam/void-mcp",
+  "source_url": "https://github.com/janbam/void-mcp",
+  "install": "npx -y void-mcp"
+}

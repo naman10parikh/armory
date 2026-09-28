@@ -1,0 +1,7 @@
+{
+  "name": "globus-mcp",
+  "description": "MCP server enabling LLMs to manage Globus data transfers and compute tasks.",
+  "source_repo": "globus/globus-mcp",
+  "source_url": "https://github.com/globus/globus-mcp",
+  "install": "npx -y globus-mcp"
+}

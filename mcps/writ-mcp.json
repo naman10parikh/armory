@@ -1,0 +1,7 @@
+{
+  "name": "writ-mcp",
+  "description": "Connects MCP clients to Writ, turning saved browser workflows into callable tools. Allows running workflows, retrieving data, scheduling, and more.",
+  "source_repo": "usewrit/writ-mcp",
+  "source_url": "https://github.com/usewrit/writ-mcp",
+  "install": "npx -y writ-mcp"
+}

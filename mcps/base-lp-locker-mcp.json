@@ -1,0 +1,7 @@
+{
+  "name": "base-lp-locker-mcp",
+  "description": "An MCP server for AI agents to lock, manage, and withdraw LP tokens on Base with time-based unlock.",
+  "source_repo": "lordbasilaiassistant-sudo/base-lp-locker-mcp",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/base-lp-locker-mcp",
+  "install": "npx -y base-lp-locker-mcp"
+}

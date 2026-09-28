@@ -1,0 +1,7 @@
+{
+  "name": "market-map-mcp-server",
+  "description": "Analyzes early government notices to produce an evidence-backed map of plausible supplier companies with deterministic scoring and exact citation validation.",
+  "source_repo": "jam4fox99/market-map",
+  "source_url": "https://github.com/jam4fox99/market-map",
+  "install": "# git clone --depth 1 https://github.com/jam4fox99/market-map\n# See source for mcpServers config block"
+}

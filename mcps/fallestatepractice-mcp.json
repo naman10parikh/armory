@@ -1,0 +1,7 @@
+{
+  "name": "fallestatepractice-mcp",
+  "description": "Exposes the 7-prime spine, 7 κ-bands, and 6 fold operations as native tools and resources in any MCP client.",
+  "source_repo": "sjgant80-hub/fallestatepractice-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallestatepractice-mcp",
+  "install": "npx -y fallestatepractice-mcp"
+}

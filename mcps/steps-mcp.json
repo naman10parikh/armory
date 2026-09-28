@@ -1,0 +1,7 @@
+{
+  "name": "steps-mcp",
+  "description": "Task planning and execution MCP server with durable SQLite storage and a browser UI for reviewing plans and following progress.",
+  "source_repo": "dassader/steps-mcp",
+  "source_url": "https://github.com/dassader/steps-mcp",
+  "install": "npx -y steps-mcp"
+}

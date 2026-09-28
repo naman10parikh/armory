@@ -1,0 +1,7 @@
+{
+  "name": "codex-delegate-mcp",
+  "description": "An MCP bridge that enables AI coding agents to delegate implementation tasks to the OpenAI Codex CLI, allowing the orchestrator to plan and review while Codex executes.",
+  "source_repo": "andreilungeanu/codex-delegate-mcp",
+  "source_url": "https://github.com/andreilungeanu/codex-delegate-mcp",
+  "install": "npx -y codex-delegate-mcp"
+}

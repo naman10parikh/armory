@@ -1,0 +1,7 @@
+{
+  "name": "sportwizzard-mcp-server",
+  "description": "Enables AI agents to query live sports betting data including odds, edges, arbitrage opportunities, player/team stats, and reference data using the SportWizzard API.",
+  "source_repo": "adamruehle/sportwizzard-mcp",
+  "source_url": "https://github.com/adamruehle/sportwizzard-mcp",
+  "install": "npx -y sportwizzard-mcp"
+}

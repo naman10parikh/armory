@@ -1,0 +1,7 @@
+{
+  "name": "surveyhub-mcp",
+  "description": "Aggregates multiple cyberspace search engines (FOFA, Quake, Hunter, ZoomEye) into a unified MCP server, enabling asset search, pagination, statistics, and account info retrieval.",
+  "source_repo": "helGayhub233/SurveyHub-MCP",
+  "source_url": "https://github.com/helGayhub233/SurveyHub-MCP",
+  "install": "npx -y SurveyHub-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "veda-mcp-app",
+  "description": "MCP server for a VEDA STAC catalog, providing a tool to call and interactive React UI to view STAC collections.",
+  "source_repo": "vgeorge/veda-mcp-app",
+  "source_url": "https://github.com/vgeorge/veda-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/vgeorge/veda-mcp-app\n# See source for mcpServers config block"
+}

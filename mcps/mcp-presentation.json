@@ -1,0 +1,7 @@
+{
+  "name": "mcp-presentation",
+  "description": "MCP server for building presentations (PDF/web) with a task-based async pipeline, enabling session management, project creation, presentation IR saving, git commits, building, and deployment.",
+  "source_repo": "hewimetall/mcp-presentation",
+  "source_url": "https://github.com/hewimetall/mcp-presentation",
+  "install": "# git clone --depth 1 https://github.com/hewimetall/mcp-presentation\n# See source for mcpServers config block"
+}

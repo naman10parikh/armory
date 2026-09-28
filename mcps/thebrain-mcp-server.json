@@ -1,0 +1,7 @@
+{
+  "name": "thebrain-mcp-server",
+  "description": "Wraps TheBrain knowledge graph as an MCP server, enabling AI assistants to search, create, and manage thoughts, links, and notes via natural language.",
+  "source_repo": "jqlts1/thebrain-mcp-server",
+  "source_url": "https://github.com/jqlts1/thebrain-mcp-server",
+  "install": "npx -y thebrain-mcp-server"
+}

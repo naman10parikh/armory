@@ -1,0 +1,7 @@
+{
+  "name": "devops-agent-networking",
+  "description": "Enables DevOps Agent to troubleshoot VPC networking problems by running live probes (dig, nc, ping, traceroute) via SSM and querying VPC Flow Logs via Athena.",
+  "source_repo": "InitialXW/devops-agent-networking",
+  "source_url": "https://github.com/InitialXW/devops-agent-networking",
+  "install": "# git clone --depth 1 https://github.com/InitialXW/devops-agent-networking\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kb-mcp",
+  "description": "Provides LLM agents with a structured, queryable, local-first knowledge base with typed documents and full-text search via MCP.",
+  "source_repo": "HelloTomBruce/kb-mcp",
+  "source_url": "https://github.com/HelloTomBruce/kb-mcp",
+  "install": "npx -y kb-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adpilot-mcp",
+  "description": "Enables AI agents to perform marketing operations like campaign management, content creation, and outreach, with a tiered approval model ensuring human oversight for consequential actions.",
+  "source_repo": "kylemarham/adpilot-mcp",
+  "source_url": "https://github.com/kylemarham/adpilot-mcp",
+  "install": "npx -y adpilot-mcp"
+}

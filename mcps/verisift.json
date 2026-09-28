@@ -1,0 +1,7 @@
+{
+  "name": "verisift",
+  "description": "Read-only MCP server for autonomous, spoliation-proof disk-image triage with self-correcting verification loop.",
+  "source_repo": "Zenidp/verisift",
+  "source_url": "https://github.com/Zenidp/verisift",
+  "install": "# git clone --depth 1 https://github.com/Zenidp/verisift\n# See source for mcpServers config block"
+}

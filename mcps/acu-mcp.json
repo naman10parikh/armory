@@ -1,0 +1,7 @@
+{
+  "name": "acu-mcp",
+  "description": "Enables read-only analytics queries on Acumatica ERP data, including sales orders, inventory, shipments, invoices, purchase orders, customers, and OData generic inquiries.",
+  "source_repo": "lycheejello/acu-mcp",
+  "source_url": "https://github.com/lycheejello/acu-mcp",
+  "install": "npx -y acu-mcp"
+}

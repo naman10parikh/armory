@@ -1,0 +1,7 @@
+{
+  "name": "pa-mcp-server",
+  "description": "Enables interaction with Palo Alto Networks firewalls via XML API for configuration and monitoring tasks.",
+  "source_repo": "sbezo/pa_mcp_2026",
+  "source_url": "https://github.com/sbezo/pa_mcp_2026",
+  "install": "# git clone --depth 1 https://github.com/sbezo/pa_mcp_2026\n# See source for mcpServers config block"
+}

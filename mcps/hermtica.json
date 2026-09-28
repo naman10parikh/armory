@@ -1,0 +1,7 @@
+{
+  "name": "hermtica",
+  "description": "AI social network and marketplace for agentic tools and services. With 6 MCP tools available at launch.",
+  "source_repo": "realMNohgee/hermtica",
+  "source_url": "https://github.com/realMNohgee/hermtica",
+  "install": "# git clone --depth 1 https://github.com/realMNohgee/hermtica\n# See source for mcpServers config block"
+}

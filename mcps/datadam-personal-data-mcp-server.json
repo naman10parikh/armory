@@ -1,0 +1,7 @@
+{
+  "name": "datadam-personal-data-mcp-server",
+  "description": "A persistent memory layer for AI tools that decouples personal data from AI's unstable memory, enabling you to mention information once and have it remembered forever across all conversations.",
+  "source_repo": "KennethLeeJE8/datadam_mcp",
+  "source_url": "https://github.com/KennethLeeJE8/datadam_mcp",
+  "install": "npx -y datadam_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "estonian-transport-mcp",
+  "description": "Provides Estonian public transport timetables, trip planning, stop search, and real-time vehicle tracking.",
+  "source_repo": "a-rank/estonian-transport-mcp",
+  "source_url": "https://github.com/a-rank/estonian-transport-mcp",
+  "install": "npx -y estonian-transport-mcp"
+}

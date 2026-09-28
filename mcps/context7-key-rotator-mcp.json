@@ -1,0 +1,7 @@
+{
+  "name": "context7-key-rotator-mcp",
+  "description": "Enables querying Context7 V2 documentation through resolve-library-id and query-docs tools, alternating between two API keys and retrying when a key is blocked.",
+  "source_repo": "MooseGooseConsulting/context7-key-rotator-mcp",
+  "source_url": "https://github.com/MooseGooseConsulting/context7-key-rotator-mcp",
+  "install": "npx -y context7-key-rotator-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-ready-mcp",
+  "description": "Enables AI agents to scan any website for agent-readiness and generate the necessary artifacts (llms.txt, WebMCP scaffold, structured data) to make it agent-ready.",
+  "source_repo": "VeldinS/agent-ready",
+  "source_url": "https://github.com/VeldinS/agent-ready",
+  "install": "# git clone --depth 1 https://github.com/VeldinS/agent-ready\n# See source for mcpServers config block"
+}

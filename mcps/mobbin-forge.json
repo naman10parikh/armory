@@ -1,0 +1,7 @@
+{
+  "name": "mobbin-forge",
+  "description": "An MCP server that works with Mobbin — 600k+ real app screens and flows from 1,100+ apps. Search screens, browse flows, grab palettes, build better UI without leaving Claude.",
+  "source_repo": "Jelil-ah/mobbin-forge",
+  "source_url": "https://github.com/Jelil-ah/mobbin-forge",
+  "install": "# git clone --depth 1 https://github.com/Jelil-ah/mobbin-forge\n# See source for mcpServers config block"
+}

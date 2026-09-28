@@ -1,0 +1,7 @@
+{
+  "name": "codescan-mcp-server",
+  "description": "MCP server enabling AI models to interact with Codescan's API for listing projects, retrieving metrics, and querying issues with advanced filtering.",
+  "source_repo": "Presh-AR/codescan-mcp-server",
+  "source_url": "https://github.com/Presh-AR/codescan-mcp-server",
+  "install": "npx -y codescan-mcp-server"
+}

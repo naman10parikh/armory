@@ -1,0 +1,7 @@
+{
+  "name": "yahoo-shopping-mcp",
+  "description": "Read-only MCP server for searching Yahoo! Shopping products through the Yahoo! Shopping Item Search API v3. It supports keyword and JAN-code search with price, stock, condition, shipping, sorting, category, brand, seller, image-size, and pagination filters.",
+  "source_repo": "ymuichiro/yahoo-shopping-mcp",
+  "source_url": "https://github.com/ymuichiro/yahoo-shopping-mcp",
+  "install": "npx -y yahoo-shopping-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hrj-n8n-mcp",
+  "description": "Local stdio MCP bridge for managing n8n from HRJ Agent, providing read and write tools for workflows, executions, and Docker status with strong security protections.",
+  "source_repo": "hrjapp/hrj-n8n-mcp",
+  "source_url": "https://github.com/hrjapp/hrj-n8n-mcp",
+  "install": "npx -y hrj-n8n-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "domani",
+  "description": "Enables AI agents to register domains, manage DNS, create mailboxes, and send/receive email through typed tools.",
+  "source_repo": "gwendall/domani",
+  "source_url": "https://github.com/gwendall/domani",
+  "install": "# git clone --depth 1 https://github.com/gwendall/domani\n# See source for mcpServers config block"
+}

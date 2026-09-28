@@ -1,0 +1,7 @@
+{
+  "name": "mystreet",
+  "description": "MCP oracle of reputation for ia agent",
+  "source_repo": "philpof102-svg/mainstreet",
+  "source_url": "https://github.com/philpof102-svg/mainstreet",
+  "install": "# git clone --depth 1 https://github.com/philpof102-svg/mainstreet\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prespec",
+  "description": "An MCP server that provides curated test cases and behavior specifications for common software features, enabling AI coding agents to define acceptance criteria before writing code.",
+  "source_repo": "emretheus/prespec",
+  "source_url": "https://github.com/emretheus/prespec",
+  "install": "# git clone --depth 1 https://github.com/emretheus/prespec\n# See source for mcpServers config block"
+}

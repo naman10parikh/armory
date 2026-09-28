@@ -1,0 +1,7 @@
+{
+  "name": "mcp-loom",
+  "description": "An MCP proxy server that intercepts large tabular tool results, ingests them into an embedded DuckDB, and provides a compact envelope with schema and query capabilities, enabling efficient cross-server data analysis.",
+  "source_repo": "buttonmonkey/mcp-loom",
+  "source_url": "https://github.com/buttonmonkey/mcp-loom",
+  "install": "# git clone --depth 1 https://github.com/buttonmonkey/mcp-loom\n# See source for mcpServers config block"
+}

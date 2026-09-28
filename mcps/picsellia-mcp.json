@@ -1,0 +1,7 @@
+{
+  "name": "picsellia-mcp",
+  "description": "MCP server that wraps the Picsellia Python SDK, giving AI assistants access to computer vision platform capabilities such as datasets, experiments, models, deployments, and monitoring.",
+  "source_repo": "picselliahq/picsellia-mcp",
+  "source_url": "https://github.com/picselliahq/picsellia-mcp",
+  "install": "npx -y picsellia-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "biomedical-apis-mcp-server",
+  "description": "Enables AI agents to query free biomedical and pharmaceutical APIs for clinical trials, drug data, molecular structures, adverse events, and research literature.",
+  "source_repo": "KrithikVishal/mcp-with-dbs",
+  "source_url": "https://github.com/KrithikVishal/mcp-with-dbs",
+  "install": "# git clone --depth 1 https://github.com/KrithikVishal/mcp-with-dbs\n# See source for mcpServers config block"
+}

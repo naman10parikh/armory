@@ -1,0 +1,7 @@
+{
+  "name": "canvas-mcp-lite",
+  "description": "Enables AI assistants to act as teaching assistants for Canvas LMS, allowing them to browse courses, read student submissions (including PDF/DOCX), grade with rubrics, post announcements, manage modules and pages, and more.",
+  "source_repo": "vkumar04/canvas-mcp-lite",
+  "source_url": "https://github.com/vkumar04/canvas-mcp-lite",
+  "install": "# git clone --depth 1 https://github.com/vkumar04/canvas-mcp-lite\n# See source for mcpServers config block"
+}

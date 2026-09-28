@@ -1,0 +1,7 @@
+{
+  "name": "ditto",
+  "description": "An MCP server that loads your Ditto profile, mined from your local Claude Code, Codex, and OpenCode session logs, so your agent works like you. Exposes the load_ditto_profile tool over the Model Context Protocol.",
+  "source_repo": "ohad6k/ditto",
+  "source_url": "https://github.com/ohad6k/ditto",
+  "install": "# git clone --depth 1 https://github.com/ohad6k/ditto\n# See source for mcpServers config block"
+}

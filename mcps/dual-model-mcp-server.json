@@ -1,0 +1,7 @@
+{
+  "name": "dual-model-mcp-server",
+  "description": "Queries Claude Sonnet 4.6 and OpenAI GPT-5.5 in parallel via OpenRouter, returning structured multi-perspective responses for comparison and cross-checking.",
+  "source_repo": "Firnschnee/dual-model-mcp",
+  "source_url": "https://github.com/Firnschnee/dual-model-mcp",
+  "install": "npx -y dual-model-mcp"
+}

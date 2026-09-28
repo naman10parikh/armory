@@ -1,0 +1,7 @@
+{
+  "name": "my-mcp-template",
+  "description": "A generic FastMCP server template for building CLI coding agent tools, with example tools, authentication, and a comprehensive test suite.",
+  "source_repo": "Comet0322/MCP",
+  "source_url": "https://github.com/Comet0322/MCP",
+  "install": "# git clone --depth 1 https://github.com/Comet0322/MCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kubestellar-a2a-mcp-server",
+  "description": "Enables AI-powered management of multi-cluster Kubernetes environments through natural language, supporting kubectl operations, function execution, and agent interactions with multiple AI providers.",
+  "source_repo": "kubestellar/a2a",
+  "source_url": "https://github.com/kubestellar/a2a",
+  "install": "# git clone --depth 1 https://github.com/kubestellar/a2a\n# See source for mcpServers config block"
+}

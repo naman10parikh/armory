@@ -1,0 +1,7 @@
+{
+  "name": "io-github-nickklos10-querypilot",
+  "description": "QueryPilot enables AI agents to safely generate, validate, repair, and execute SQL against fixture databases, with eval-driven regression testing to ensure reliability.",
+  "source_repo": "nickklos10/QueryPilot",
+  "source_url": "https://github.com/nickklos10/QueryPilot",
+  "install": "# git clone --depth 1 https://github.com/nickklos10/QueryPilot\n# See source for mcpServers config block"
+}

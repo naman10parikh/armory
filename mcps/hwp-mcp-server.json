@@ -1,0 +1,7 @@
+{
+  "name": "hwp-mcp-server",
+  "description": "Enables LLMs to read and modify HWP (한글) documents via the HWP COM API, with tools for text, tables, formatting, and file conversion.",
+  "source_repo": "mjyoo2/hwp-mcp",
+  "source_url": "https://github.com/mjyoo2/hwp-mcp",
+  "install": "npx -y hwp-mcp"
+}

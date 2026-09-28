@@ -1,0 +1,7 @@
+{
+  "name": "apeiron",
+  "description": "Unlimited web access MCP server for AI agents, enabling search, fetch, and learning across multiple sources while bypassing anti-bot protections.",
+  "source_repo": "insomnia-me/apeiron",
+  "source_url": "https://github.com/insomnia-me/apeiron",
+  "install": "# git clone --depth 1 https://github.com/insomnia-me/apeiron\n# See source for mcpServers config block"
+}

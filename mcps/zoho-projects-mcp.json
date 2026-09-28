@@ -1,0 +1,7 @@
+{
+  "name": "zoho-projects-mcp",
+  "description": "Connects Zoho Projects with Claude AI to manage projects, tasks, time tracking, and comments through natural language conversations.",
+  "source_repo": "falegria86/zoho-mcp",
+  "source_url": "https://github.com/falegria86/zoho-mcp",
+  "install": "npx -y zoho-mcp"
+}

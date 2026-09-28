@@ -1,0 +1,7 @@
+{
+  "name": "kimi-code-memory-mcp-server",
+  "description": "Provides persistent, Markdown-based memory for Kimi Code CLI, enabling cross-session context recovery and structured knowledge management.",
+  "source_repo": "Zehee/kimi-code-memory-mcp-server",
+  "source_url": "https://github.com/Zehee/kimi-code-memory-mcp-server",
+  "install": "npx -y kimi-code-memory-mcp-server"
+}

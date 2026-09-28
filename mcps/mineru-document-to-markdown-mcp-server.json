@@ -1,0 +1,7 @@
+{
+  "name": "mineru-document-to-markdown-mcp-server",
+  "description": "Converts documents (PDF, Word, PPT, images, HTML) to Markdown via MinerU API. Supports URL and local file inputs with OCR, formula/table recognition, and automatic large file handling.",
+  "source_repo": "AvatarGanymede/MinerU-MCP",
+  "source_url": "https://github.com/AvatarGanymede/MinerU-MCP",
+  "install": "npx -y MinerU-MCP"
+}

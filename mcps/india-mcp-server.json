@@ -1,0 +1,7 @@
+{
+  "name": "india-mcp-server",
+  "description": "Production-grade MCP server for Indian agriculture and utility workflows, enabling crop advisory, weather checks, mandi prices, and railway utilities through natural language.",
+  "source_repo": "Parikshit2005/mcp-india-server",
+  "source_url": "https://github.com/Parikshit2005/mcp-india-server",
+  "install": "# git clone --depth 1 https://github.com/Parikshit2005/mcp-india-server\n# See source for mcpServers config block"
+}

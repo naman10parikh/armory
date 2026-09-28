@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pagespeed-insights",
+  "description": "Connects LLMs to Google PageSpeed Insights to analyze web performance, accessibility, SEO, and best practices, enabling AI assistants to audit and improve any web page.",
+  "source_repo": "NicolasET/mcp-pagespeed-insight",
+  "source_url": "https://github.com/NicolasET/mcp-pagespeed-insight",
+  "install": "# git clone --depth 1 https://github.com/NicolasET/mcp-pagespeed-insight\n# See source for mcpServers config block"
+}

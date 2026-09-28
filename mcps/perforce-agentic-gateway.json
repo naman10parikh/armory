@@ -1,0 +1,7 @@
+{
+  "name": "perforce-agentic-gateway",
+  "description": "A local MCP gateway that allows AI clients to manage and interact with multiple MCP servers through a single connection, providing token-efficient access to tools and resources.",
+  "source_repo": "perforce/perforce-agentic-gateway",
+  "source_url": "https://github.com/perforce/perforce-agentic-gateway",
+  "install": "# git clone --depth 1 https://github.com/perforce/perforce-agentic-gateway\n# See source for mcpServers config block"
+}

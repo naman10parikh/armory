@@ -1,0 +1,7 @@
+{
+  "name": "dados-cadastrais-pf-m-xico",
+  "description": "MCP server to look up Mexican personal registration data (CURP) for a person. Read-only, hosted service with prepaid credits.",
+  "source_repo": "mcp-dir/registro_pf_mx-mcp",
+  "source_url": "https://github.com/mcp-dir/registro_pf_mx-mcp",
+  "install": "npx -y registro_pf_mx-mcp"
+}

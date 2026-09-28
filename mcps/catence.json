@@ -1,0 +1,7 @@
+{
+  "name": "catence",
+  "description": "MCP server for local fitness-data extraction and analysis from Garmin Connect, Intervals.icu, and Strava. Provides read-only analytical tools over DuckDB and targeted Strava enrichment.",
+  "source_repo": "rifusaki/catence",
+  "source_url": "https://github.com/rifusaki/catence",
+  "install": "# git clone --depth 1 https://github.com/rifusaki/catence\n# See source for mcpServers config block"
+}

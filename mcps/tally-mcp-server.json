@@ -1,0 +1,7 @@
+{
+  "name": "tally-mcp-server",
+  "description": "Lightweight Node MCP server that enables querying Tally product and category data from mymarketaccount.net, with support for filtering, sorting, and natural language price questions.",
+  "source_repo": "kkroekerMTB/mtb-hq-snack-kiosk-mcp",
+  "source_url": "https://github.com/kkroekerMTB/mtb-hq-snack-kiosk-mcp",
+  "install": "npx -y mtb-hq-snack-kiosk-mcp"
+}

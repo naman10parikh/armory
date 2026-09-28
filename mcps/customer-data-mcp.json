@@ -1,0 +1,7 @@
+{
+  "name": "customer-data-mcp",
+  "description": "Enables Claude Desktop to answer natural-language questions about customers by exposing search, profile, order history, status filter, and spend statistics tools backed by local mock data, with a single-file swap path to Oracle AI Agent Studio later.",
+  "source_repo": "Haseeb-Ahmed-AI/MCP-Server-For-Claude-and-oracle-AI-Agentic-studio-Interconnectivity",
+  "source_url": "https://github.com/Haseeb-Ahmed-AI/MCP-Server-For-Claude-and-oracle-AI-Agentic-studio-Interconnectivity",
+  "install": "# git clone --depth 1 https://github.com/Haseeb-Ahmed-AI/MCP-Server-For-Claude-and-oracle-AI-Agentic-studio-Interconnectivity\n# See source for mcpServers config block"
+}

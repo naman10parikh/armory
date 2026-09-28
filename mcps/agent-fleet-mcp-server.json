@@ -1,0 +1,7 @@
+{
+  "name": "agent-fleet-mcp-server",
+  "description": "MCP server that exposes a pool of Claude SDK agents as tools, enabling deterministic agent creation, retrieval, and resumption from a capability corpus.",
+  "source_repo": "Magic-Man-us/claude-sdk-agent-fleet",
+  "source_url": "https://github.com/Magic-Man-us/claude-sdk-agent-fleet",
+  "install": "# git clone --depth 1 https://github.com/Magic-Man-us/claude-sdk-agent-fleet\n# See source for mcpServers config block"
+}

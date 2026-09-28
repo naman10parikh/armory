@@ -1,0 +1,7 @@
+{
+  "name": "theseus-kit",
+  "description": "Open-source MCP server for inspecting, editing, templating, and publishing TFRobot configuration, with optional A2C-SMCP resources.",
+  "source_repo": "A2C-SMCP/theseus-kit",
+  "source_url": "https://github.com/A2C-SMCP/theseus-kit",
+  "install": "# git clone --depth 1 https://github.com/A2C-SMCP/theseus-kit\n# See source for mcpServers config block"
+}

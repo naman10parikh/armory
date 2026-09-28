@@ -1,0 +1,7 @@
+{
+  "name": "kognar-nginx-manager-mcp-server",
+  "description": "MCP server that abstracts the Nginx Proxy Manager API, enabling management of proxy hosts, redirections, streams, certificates, access lists, and users through natural language.",
+  "source_repo": "kognar-ai/ngnix-manager-mcp-server",
+  "source_url": "https://github.com/kognar-ai/ngnix-manager-mcp-server",
+  "install": "npx -y ngnix-manager-mcp-server"
+}

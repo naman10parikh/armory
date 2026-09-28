@@ -1,0 +1,7 @@
+{
+  "name": "sealgate-mcp-server",
+  "description": "An MCP proxy that forwards tool calls to your organisation's Sealgate gateway, enabling AI agents to list governed MCP servers and review agent sessions/audit events for AI data-leak prevention.",
+  "source_repo": "Edison-Watch/sealgate-mcp",
+  "source_url": "https://github.com/Edison-Watch/sealgate-mcp",
+  "install": "npx -y sealgate-mcp"
+}

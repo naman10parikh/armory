@@ -1,0 +1,7 @@
+{
+  "name": "anno-mcp-server",
+  "description": "MCP server for searching and accessing historical Austrian newspapers from ANNO, providing full-text search, snippet extraction, and OCR text download.",
+  "source_repo": "nestordemeure/anno-mcp",
+  "source_url": "https://github.com/nestordemeure/anno-mcp",
+  "install": "npx -y anno-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "betterprompt-mcp",
+  "description": "Transforms user requests into enhanced, context-rich prompts using advanced prompt engineering techniques, compatible with MCP clients.",
+  "source_repo": "AungMyoKyaw/betterprompt-mcp",
+  "source_url": "https://github.com/AungMyoKyaw/betterprompt-mcp",
+  "install": "npx -y betterprompt-mcp"
+}

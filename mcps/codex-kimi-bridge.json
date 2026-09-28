@@ -1,0 +1,7 @@
+{
+  "name": "codex-kimi-bridge",
+  "description": "Enables Codex to delegate implementation tasks to Kimi Code while managing server lifecycle and authentication automatically.",
+  "source_repo": "ximenchuifeng/codex-kimi-bridge",
+  "source_url": "https://github.com/ximenchuifeng/codex-kimi-bridge",
+  "install": "# git clone --depth 1 https://github.com/ximenchuifeng/codex-kimi-bridge\n# See source for mcpServers config block"
+}

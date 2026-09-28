@@ -1,0 +1,7 @@
+{
+  "name": "muse-dash-mod-mcp",
+  "description": "An MCP server for Muse Dash mod development. It scaffolds projects, builds and deploys mods, launches the game, checks environment info, and provides documentation and community repository access.",
+  "source_repo": "Qi-Lai/musedash-mod-mcp",
+  "source_url": "https://github.com/Qi-Lai/musedash-mod-mcp",
+  "install": "npx -y musedash-mod-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "async-claude-agentsdk-mcp",
+  "description": "An MCP server that enables coding agents to run Claude Agent SDK sessions as asynchronous sub-agents, with tools for starting, continuing, and checking status of Claude sessions.",
+  "source_repo": "wyrd-company/async-claude-agentsdk-mcp",
+  "source_url": "https://github.com/wyrd-company/async-claude-agentsdk-mcp",
+  "install": "npx -y async-claude-agentsdk-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "patent-intelligence-mcp",
+  "description": "Enables AI agents to perform patent search, portfolio analysis, technology trend tracking, and semantic prior-art search using USPTO data.",
+  "source_repo": "FoundryNet/patent-intel-mcp",
+  "source_url": "https://github.com/FoundryNet/patent-intel-mcp",
+  "install": "npx -y patent-intel-mcp"
+}

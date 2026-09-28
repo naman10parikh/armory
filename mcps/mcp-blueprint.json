@@ -1,0 +1,7 @@
+{
+  "name": "mcp-blueprint",
+  "description": "A configuration-driven framework for building MCP servers that expose domain-oriented tools (e.g., get_customer, get_database_sizes) instead of generic SQL interfaces, by loading tool metadata and SQL queries from declarative packs.",
+  "source_repo": "meob/mcp-blueprint",
+  "source_url": "https://github.com/meob/mcp-blueprint",
+  "install": "# git clone --depth 1 https://github.com/meob/mcp-blueprint\n# See source for mcpServers config block"
+}

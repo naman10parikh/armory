@@ -1,0 +1,7 @@
+{
+  "name": "sendgrid-mcp-server",
+  "description": "Enables AI models to send emails, manage contacts, and interact with SendGrid's email platform via MCP.",
+  "source_repo": "FINCH285/SendGrid-MCP-Server",
+  "source_url": "https://github.com/FINCH285/SendGrid-MCP-Server",
+  "install": "npx -y SendGrid-MCP-Server"
+}

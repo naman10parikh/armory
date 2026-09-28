@@ -1,0 +1,7 @@
+{
+  "name": "torii",
+  "description": "Torii is an OAuth 2.1 authorization server and gateway for MCP servers, providing tool-level RBAC, audit trail, and credential management. It enables Claude clients to securely access upstream MCP servers through a single authenticated front door.",
+  "source_repo": "recklessop/torii",
+  "source_url": "https://github.com/recklessop/torii",
+  "install": "# git clone --depth 1 https://github.com/recklessop/torii\n# See source for mcpServers config block"
+}

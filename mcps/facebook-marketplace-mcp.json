@@ -1,0 +1,7 @@
+{
+  "name": "facebook-marketplace-mcp",
+  "description": "Enables searching Facebook Marketplace listings from Claude using your existing Facebook session without a browser.",
+  "source_repo": "fjvalencian/marketplace-mcp",
+  "source_url": "https://github.com/fjvalencian/marketplace-mcp",
+  "install": "npx -y marketplace-mcp"
+}

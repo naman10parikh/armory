@@ -1,0 +1,7 @@
+{
+  "name": "seahorse",
+  "description": "Open memory standard for AI agents. Local-first, MCP-native, lives in your Obsidian vault. Bi-temporal markdown, hybrid retrieval, reproducible benchmark.",
+  "source_repo": "ssanvi-builds/seahorse",
+  "source_url": "https://github.com/ssanvi-builds/seahorse",
+  "install": "# git clone --depth 1 https://github.com/ssanvi-builds/seahorse\n# See source for mcpServers config block"
+}

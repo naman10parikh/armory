@@ -1,0 +1,7 @@
+{
+  "name": "optionality-mcp",
+  "description": "An AI-judged options trading practice game with a dealer LLM that generates scenarios and a judge LLM that evaluates pitches. It includes red herrings, difficulty modes, options math, and monetization via Tollbooth-DPYC Bitcoin Lightning.",
+  "source_repo": "lonniev/optionality-mcp",
+  "source_url": "https://github.com/lonniev/optionality-mcp",
+  "install": "npx -y optionality-mcp"
+}

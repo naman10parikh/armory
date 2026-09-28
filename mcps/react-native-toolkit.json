@@ -1,0 +1,7 @@
+{
+  "name": "react-native-toolkit",
+  "description": "Provides AI agents with accurate, version-aware documentation for React Native, Expo, React Navigation, and Ignite by automatically detecting project dependencies and fetching matching documentation.",
+  "source_repo": "ItamiForge/mcp-react-native-toolkit",
+  "source_url": "https://github.com/ItamiForge/mcp-react-native-toolkit",
+  "install": "# git clone --depth 1 https://github.com/ItamiForge/mcp-react-native-toolkit\n# See source for mcpServers config block"
+}

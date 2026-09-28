@@ -1,0 +1,7 @@
+{
+  "name": "document-operator-mcp",
+  "description": "Enables AI assistants to read, modify, and create Word (.docx) and Excel (.xlsx) files through natural language commands, including batch queries and temporary table management.",
+  "source_repo": "dai-zw/document-operator-mcp",
+  "source_url": "https://github.com/dai-zw/document-operator-mcp",
+  "install": "npx -y document-operator-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jiebang-tools",
+  "description": "20 free developer tools - JSON/YAML, SQL, XML, Cron, QR code, SEO check, URL shortener, image converter, timezone, and more. No API key required.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/ajie-jiebang/jiebang-tools",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/ajie-jiebang/jiebang-tools\n# See source for mcpServers config block"
+}

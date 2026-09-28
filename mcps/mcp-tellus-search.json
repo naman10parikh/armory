@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tellus-search",
+  "description": "Enables Claude to search for geo entities such as cities, airports, and hotels using Skyscanner's Tellus API. Supports entity lookup, search by type/location, fetching children, and nearby entities.",
+  "source_repo": "senzg/mcp-tellus-search",
+  "source_url": "https://github.com/senzg/mcp-tellus-search",
+  "install": "# git clone --depth 1 https://github.com/senzg/mcp-tellus-search\n# See source for mcpServers config block"
+}

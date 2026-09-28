@@ -1,0 +1,7 @@
+{
+  "name": "fulfil-mcp",
+  "description": "MCP server for Fulfil.io ERP with 29 tools for inventory, orders, shipments, customers, purchasing, returns, warehouse operations, and analytics. Integrates with Claude Desktop and other MCP clients via Fulfil.io REST API v2.",
+  "source_repo": "ExpertVagabond/fulfil-mcp",
+  "source_url": "https://github.com/ExpertVagabond/fulfil-mcp",
+  "install": "npx -y fulfil-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cjk-calendar-converter-mcp-server",
+  "description": "Converts between East Asian lunisolar calendars (Chinese, Japanese, Korean, Vietnamese) and Gregorian/Julian dates using Julian Day Numbers. Provides MCP tools for date conversion and era search.",
+  "source_repo": "kltng/calendar_converter",
+  "source_url": "https://github.com/kltng/calendar_converter",
+  "install": "# git clone --depth 1 https://github.com/kltng/calendar_converter\n# See source for mcpServers config block"
+}

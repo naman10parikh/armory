@@ -1,0 +1,7 @@
+{
+  "name": "rules-as-code-mcp",
+  "description": "Deterministic SNAP eligibility logic, exposed as auditable Model Context Protocol tools. An AI agent can read, reason, and orchestrate, but the eligibility determination itself is made by versioned, tested, cited code that a caseworker, an auditor, or a court can inspect.",
+  "source_repo": "adamselzer/rules-as-code-mcp",
+  "source_url": "https://github.com/adamselzer/rules-as-code-mcp",
+  "install": "npx -y rules-as-code-mcp"
+}

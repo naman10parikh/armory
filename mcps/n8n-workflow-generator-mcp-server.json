@@ -1,0 +1,7 @@
+{
+  "name": "n8n-workflow-generator-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that generates production-ready n8n workflows from natural language prompts. Transform simple descriptions into fully validated, deployable automation workflows using AI-powered code generation.",
+  "source_repo": "mohithgowdak/n8n-workflow-generator-mcp",
+  "source_url": "https://github.com/mohithgowdak/n8n-workflow-generator-mcp",
+  "install": "npx -y n8n-workflow-generator-mcp"
+}

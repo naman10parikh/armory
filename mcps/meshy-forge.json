@@ -1,0 +1,7 @@
+{
+  "name": "meshy-forge",
+  "description": "Prevents Meshy asset expiration by automatically storing models locally, enabling search and reuse via prompts.",
+  "source_repo": "v0o0v/meshy-forge",
+  "source_url": "https://github.com/v0o0v/meshy-forge",
+  "install": "# git clone --depth 1 https://github.com/v0o0v/meshy-forge\n# See source for mcpServers config block"
+}

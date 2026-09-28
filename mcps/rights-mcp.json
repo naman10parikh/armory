@@ -1,0 +1,7 @@
+{
+  "name": "rights-mcp",
+  "description": "Enables AI agents to search, license, and pay for rights-clean music per use, returning a verifiable license certificate.",
+  "source_repo": "yksanjo/rights-mcp",
+  "source_url": "https://github.com/yksanjo/rights-mcp",
+  "install": "npx -y rights-mcp"
+}

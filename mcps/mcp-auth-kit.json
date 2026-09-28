@@ -1,0 +1,7 @@
+{
+  "name": "mcp-auth-kit",
+  "description": "A production-minded MCP server kit that provides OAuth 2.1/PKCE authentication, rate limiting, scope-gated tools, and two-phase confirmation for building secure MCP servers with custom tools, identity, and storage.",
+  "source_repo": "bradburch/mcp-auth-kit",
+  "source_url": "https://github.com/bradburch/mcp-auth-kit",
+  "install": "# git clone --depth 1 https://github.com/bradburch/mcp-auth-kit\n# See source for mcpServers config block"
+}

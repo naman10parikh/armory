@@ -1,0 +1,7 @@
+{
+  "name": "vecura-mcp-server",
+  "description": "MCP server exposing Vecura's bio/drug-discovery models to LLM agents. It authenticates users with JWT and forwards requests to existing Vecura services for model discovery, job submission, and status tracking.",
+  "source_repo": "NYB-AI/vecura-mcp-server",
+  "source_url": "https://github.com/NYB-AI/vecura-mcp-server",
+  "install": "npx -y vecura-mcp-server"
+}

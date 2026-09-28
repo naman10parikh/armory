@@ -1,0 +1,7 @@
+{
+  "name": "servicenow-script-manager",
+  "description": "MCP server providing CRUD tools for ServiceNow business rules, client scripts, and script includes.",
+  "source_repo": "Nahn2000/NowAI-MCP",
+  "source_url": "https://github.com/Nahn2000/NowAI-MCP",
+  "install": "npx -y NowAI-MCP"
+}

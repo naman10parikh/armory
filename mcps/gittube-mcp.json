@@ -1,0 +1,7 @@
+{
+  "name": "gittube-mcp",
+  "description": "MCP server for downloading videos and audio from 1000+ sites, with YouTube search, playlist support, and tools for video/audio extraction, compatible with Claude, Cursor, and other AI agents.",
+  "source_repo": "gairxx/gittube-mcp",
+  "source_url": "https://github.com/gairxx/gittube-mcp",
+  "install": "npx -y gittube-mcp"
+}

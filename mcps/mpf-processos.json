@@ -1,0 +1,7 @@
+{
+  "name": "mpf-processos",
+  "description": "Consulta processos do Ministério Público Federal em fonte oficial, via MCP, somente leitura, com pagamento por uso.",
+  "source_repo": "mcp-dir/mpf_processos-mcp",
+  "source_url": "https://github.com/mcp-dir/mpf_processos-mcp",
+  "install": "npx -y mpf_processos-mcp"
+}

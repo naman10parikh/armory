@@ -1,0 +1,7 @@
+{
+  "name": "opnsense-sdk",
+  "description": "Provides complete programmatic access to OPNsense core APIs, enabling firewall automation, VPN management, and system administration through a comprehensive MCP server.",
+  "source_repo": "benashby/opnsense-sdk",
+  "source_url": "https://github.com/benashby/opnsense-sdk",
+  "install": "# git clone --depth 1 https://github.com/benashby/opnsense-sdk\n# See source for mcpServers config block"
+}

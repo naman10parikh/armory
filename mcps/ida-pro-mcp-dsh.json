@@ -1,0 +1,7 @@
+{
+  "name": "ida-pro-mcp-dsh",
+  "description": "Enables LLMs to perform binary analysis and reverse engineering via IDA Pro's headless idalib, providing 66 MCP tools like decompile, disasm, and xrefs without requiring the IDA GUI.",
+  "source_repo": "Xilin3/ida-pro-mcp-dsh",
+  "source_url": "https://github.com/Xilin3/ida-pro-mcp-dsh",
+  "install": "# git clone --depth 1 https://github.com/Xilin3/ida-pro-mcp-dsh\n# See source for mcpServers config block"
+}

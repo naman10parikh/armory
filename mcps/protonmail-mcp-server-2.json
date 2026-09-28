@@ -1,0 +1,7 @@
+{
+  "name": "protonmail-mcp-server-2",
+  "description": "A read-only MCP server that connects to Proton Mail via Proton Bridge, enabling AI assistants to search, list, and read emails securely without leaving your machine.",
+  "source_repo": "de-Blanck/protonmail-mcp-server",
+  "source_url": "https://github.com/de-Blanck/protonmail-mcp-server",
+  "install": "npx -y protonmail-mcp-server"
+}

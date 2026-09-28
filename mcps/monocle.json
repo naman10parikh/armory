@@ -1,0 +1,7 @@
+{
+  "name": "monocle",
+  "description": "Gives AI agents the ability to interact with iOS simulators through 21+ tools for mobile app testing.",
+  "source_repo": "per-simmons/monocle",
+  "source_url": "https://github.com/per-simmons/monocle",
+  "install": "# git clone --depth 1 https://github.com/per-simmons/monocle\n# See source for mcpServers config block"
+}

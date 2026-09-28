@@ -1,0 +1,7 @@
+{
+  "name": "robotmcp-server",
+  "description": "A modular MCP server with automatic submodule integration, OAuth 2.1, Supabase user management, and Cloudflare tunnel support, enabling secure and extensible tool connectivity for AI assistants like ChatGPT and Claude.",
+  "source_repo": "robotmcp/robotmcp_server",
+  "source_url": "https://github.com/robotmcp/robotmcp_server",
+  "install": "npx -y robotmcp_server"
+}

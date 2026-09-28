@@ -1,0 +1,7 @@
+{
+  "name": "mcp-leave-manager-server",
+  "description": "Enables managing employee leave requests, balances, and approvals through natural language with Claude Desktop, using SQLite for persistence and fuzzy name matching.",
+  "source_repo": "chalamalasettichamundeswari/mcp_leave_manager_server",
+  "source_url": "https://github.com/chalamalasettichamundeswari/mcp_leave_manager_server",
+  "install": "# git clone --depth 1 https://github.com/chalamalasettichamundeswari/mcp_leave_manager_server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "audiobookshelf-mcp",
+  "description": "MCP server for Audiobookshelf that lets AI assistants browse libraries and manage listening progress, bookmarks, collections, and playlists.",
+  "source_repo": "ni-c/audiobookshelf-mcp",
+  "source_url": "https://github.com/ni-c/audiobookshelf-mcp",
+  "install": "npx -y audiobookshelf-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tbank-mcp",
+  "description": "Mobile banking API server for MCP-capable agents that provides 32 tools for accounts, operations, grocery ordering, transfers, and investments with secure login.",
+  "source_repo": "icyberdeveloper/tbank-mcp",
+  "source_url": "https://github.com/icyberdeveloper/tbank-mcp",
+  "install": "npx -y tbank-mcp"
+}

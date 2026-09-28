@@ -1,0 +1,7 @@
+{
+  "name": "goc-mcp-server",
+  "description": "Enables Claude and other AI agents to query real-time construction management data from GOC, including employee info, attendance, orders, and projects, using natural language.",
+  "source_repo": "Lalopa/goc_mcp",
+  "source_url": "https://github.com/Lalopa/goc_mcp",
+  "install": "npx -y goc_mcp"
+}

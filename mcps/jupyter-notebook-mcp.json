@@ -1,0 +1,7 @@
+{
+  "name": "jupyter-notebook-mcp",
+  "description": "A FastMCP server for loading, editing, searching, and saving Jupyter notebooks (.ipynb) through MCP tools. It maintains a single active notebook session with live cell indices that update as cells are inserted or removed.",
+  "source_repo": "g0g5/jupyter-notebook-mcp",
+  "source_url": "https://github.com/g0g5/jupyter-notebook-mcp",
+  "install": "npx -y jupyter-notebook-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aseprite-mcp-3",
+  "description": "MCP server for programmatically creating and editing Aseprite sprites, enabling AI agents to draw, manage layers and frames, and iterate until the desired result is achieved.",
+  "source_repo": "ilhamdoanggg/aseprite-mcp",
+  "source_url": "https://github.com/ilhamdoanggg/aseprite-mcp",
+  "install": "npx -y aseprite-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tamperlens-mcp",
+  "description": "Inspects documents for tampering, ineffective redactions, and text aimed at language models before they enter an agent's context, and compares documents to confirm whether they are unchanged.",
+  "source_repo": "haruodev/tamperlens-mcp",
+  "source_url": "https://github.com/haruodev/tamperlens-mcp",
+  "install": "npx -y tamperlens-mcp"
+}

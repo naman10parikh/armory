@@ -1,0 +1,7 @@
+{
+  "name": "courtvision-rules-mcp",
+  "description": "Turns official pickleball scoring rules into callable tools for LLMs to track live matches accurately.",
+  "source_repo": "WhitGai/courtvision-rules-mcp",
+  "source_url": "https://github.com/WhitGai/courtvision-rules-mcp",
+  "install": "npx -y courtvision-rules-mcp"
+}

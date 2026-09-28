@@ -1,0 +1,7 @@
+{
+  "name": "cross-search",
+  "description": "Enables multi-engine parallel search with cross-validation, combining Brave, Tavily, DuckDuckGo, Wikipedia, Bing, and Mojeek, and labeling results with confidence levels based on engine agreement.",
+  "source_repo": "Bryan-cmf/CrossSearch-MCP",
+  "source_url": "https://github.com/Bryan-cmf/CrossSearch-MCP",
+  "install": "npx -y CrossSearch-MCP"
+}

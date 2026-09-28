@@ -1,0 +1,7 @@
+{
+  "name": "orchestro",
+  "description": "Transforms product ideas into production code by orchestrating AI-assisted development with task decomposition, dependency tracking, and real-time progress visualization.",
+  "source_repo": "khaoss85/mcp-orchestro",
+  "source_url": "https://github.com/khaoss85/mcp-orchestro",
+  "install": "# git clone --depth 1 https://github.com/khaoss85/mcp-orchestro\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sql-sop-mcp",
+  "description": "MCP server that integrates sql-sop SQL linter into LLM clients, enabling linting SQL queries and listing lint rules via chat tools.",
+  "source_repo": "Pawansingh3889/sql-sop-mcp",
+  "source_url": "https://github.com/Pawansingh3889/sql-sop-mcp",
+  "install": "npx -y sql-sop-mcp"
+}

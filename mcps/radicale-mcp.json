@@ -1,0 +1,7 @@
+{
+  "name": "radicale-mcp",
+  "description": "MCP server for Radicale/CalDAV servers, enabling AI agents to manage calendars and task lists by listing, creating, and deleting events and reminders.",
+  "source_repo": "MastarCheeze/radicale-mcp",
+  "source_url": "https://github.com/MastarCheeze/radicale-mcp",
+  "install": "npx -y radicale-mcp"
+}

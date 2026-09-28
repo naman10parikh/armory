@@ -1,0 +1,7 @@
+{
+  "name": "codex-hermes-mcp-bridge",
+  "description": "Provides an isolated MCP bridge giving Codex Hermes-style long-term memory, checkpoints, and optional tools, while keeping Hermes and Codex data read-only and requiring human approval for skill proposals.",
+  "source_repo": "yejuntian/codex-hermes-mcp-bridge",
+  "source_url": "https://github.com/yejuntian/codex-hermes-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/yejuntian/codex-hermes-mcp-bridge\n# See source for mcpServers config block"
+}

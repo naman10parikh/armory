@@ -1,0 +1,7 @@
+{
+  "name": "memryzed",
+  "description": "Local-first cross-agent memory for AI coding agents. Persistent, shared memory over MCP — what you tell one agent can be recalled by another — with all data stored in a single local SQLite file, no cloud and no API keys.",
+  "source_repo": "memryzed/memryzed",
+  "source_url": "https://github.com/memryzed/memryzed",
+  "install": "# git clone --depth 1 https://github.com/memryzed/memryzed\n# See source for mcpServers config block"
+}

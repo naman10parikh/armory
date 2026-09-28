@@ -1,0 +1,7 @@
+{
+  "name": "doubao-mcp",
+  "description": "MCP server providing zero-cost visual analysis and Q&A through Doubao web (web.doubao.com), using Playwright/CDP to control Chrome and extract AI responses.",
+  "source_repo": "xiaodao00266/doubao-mcp",
+  "source_url": "https://github.com/xiaodao00266/doubao-mcp",
+  "install": "npx -y doubao-mcp"
+}

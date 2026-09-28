@@ -1,0 +1,7 @@
+{
+  "name": "chakudya-mcp-server",
+  "description": "Exposes the Chakudya Nutrition Registry API as MCP tools, enabling clients to search Malawian food data, perform clinical nutrition lookups, and query a RAG knowledge base.",
+  "source_repo": "edisontaimu9-ui/chakudya-mcp-server",
+  "source_url": "https://github.com/edisontaimu9-ui/chakudya-mcp-server",
+  "install": "npx -y chakudya-mcp-server"
+}

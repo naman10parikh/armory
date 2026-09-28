@@ -1,0 +1,7 @@
+{
+  "name": "meal-tracker-mcp",
+  "description": "Tracks meals for three people with cost calculation, deployable on Render and connectable to ChatGPT.",
+  "source_repo": "innajain/meal-tracker-mcp",
+  "source_url": "https://github.com/innajain/meal-tracker-mcp",
+  "install": "npx -y meal-tracker-mcp"
+}

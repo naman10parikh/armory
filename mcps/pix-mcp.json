@@ -1,0 +1,7 @@
+{
+  "name": "pix-mcp",
+  "description": "Enables AI agents to generate static Pix QR codes for Brazilian payments using natural language, with EMV 4.0 compliance and no external API required.",
+  "source_repo": "Regenerating-World/pix-mcp",
+  "source_url": "https://github.com/Regenerating-World/pix-mcp",
+  "install": "npx -y pix-mcp"
+}

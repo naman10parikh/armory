@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt9-consulta-processual",
+  "description": "MCP server for querying official Brazilian labor court (TRT9) case information via a hosted, read-only API with prepaid credits.",
+  "source_repo": "mcp-dir/tribunal_trt9_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt9_processo-mcp",
+  "install": "npx -y tribunal_trt9_processo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "blocksnet-mcp",
+  "description": "Local MCP server for urban analytics that wraps BlocksNet agent, enabling natural language urban questions to be answered with structured JSON results.",
+  "source_repo": "Eynor-K/blocksnet-mcp",
+  "source_url": "https://github.com/Eynor-K/blocksnet-mcp",
+  "install": "npx -y blocksnet-mcp"
+}

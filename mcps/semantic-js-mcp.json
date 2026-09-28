@@ -1,0 +1,7 @@
+{
+  "name": "semantic-js-mcp",
+  "description": "Provides structured semantic context for JavaScript/TypeScript codebases, enabling coding agents to navigate, review, and change code with explicit uncertainty.",
+  "source_repo": "elnonathan/semantic-js-mcp",
+  "source_url": "https://github.com/elnonathan/semantic-js-mcp",
+  "install": "npx -y semantic-js-mcp"
+}

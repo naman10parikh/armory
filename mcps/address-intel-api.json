@@ -1,0 +1,7 @@
+{
+  "name": "address-intel-api",
+  "description": "Provides counterparty risk checks for any EVM address, returning malicious-history flags, tiered risk scoring, and plain-language summaries via x402 payment.",
+  "source_repo": "TKtokyo/address-intel-api",
+  "source_url": "https://github.com/TKtokyo/address-intel-api",
+  "install": "# git clone --depth 1 https://github.com/TKtokyo/address-intel-api\n# See source for mcpServers config block"
+}

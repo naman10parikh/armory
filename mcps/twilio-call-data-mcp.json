@@ -1,0 +1,7 @@
+{
+  "name": "twilio-call-data-mcp",
+  "description": "Read-only MCP server for Twilio call data, providing tools to search calls, fetch recordings and transcripts, list agents, and generate summaries while explicitly handling timezone and duration measurement discrepancies.",
+  "source_repo": "burkecampbell/twilio-call-data-mcp",
+  "source_url": "https://github.com/burkecampbell/twilio-call-data-mcp",
+  "install": "npx -y twilio-call-data-mcp"
+}

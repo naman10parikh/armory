@@ -1,0 +1,7 @@
+{
+  "name": "runrun-it-mcp-server",
+  "description": "Enables interaction with the Runrun.it API for task management, including retrieving task details, listing tasks with filters, and fetching current user information.",
+  "source_repo": "ygor-infotera/runrunit-mcp",
+  "source_url": "https://github.com/ygor-infotera/runrunit-mcp",
+  "install": "npx -y runrunit-mcp"
+}

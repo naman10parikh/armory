@@ -1,0 +1,7 @@
+{
+  "name": "wincc-oa-mcp-server",
+  "description": "A Model Context Protocol server that bridges AI assistants with WinCC OA projects, enabling natural language queries for datapoint search, manager management, and CTL script execution.",
+  "source_repo": "winccoa-tools-pack/vscode-winccoa-mcp-server",
+  "source_url": "https://github.com/winccoa-tools-pack/vscode-winccoa-mcp-server",
+  "install": "npx -y vscode-winccoa-mcp-server"
+}

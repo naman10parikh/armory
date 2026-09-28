@@ -1,0 +1,7 @@
+{
+  "name": "kernelmind",
+  "description": "Enables monitoring and optimization of Linux system kernel metrics via MCP, with ethical safeguards requiring human consent for actions.",
+  "source_repo": "armazen-nft/KERNEL-MIND",
+  "source_url": "https://github.com/armazen-nft/KERNEL-MIND",
+  "install": "# git clone --depth 1 https://github.com/armazen-nft/KERNEL-MIND\n# See source for mcpServers config block"
+}

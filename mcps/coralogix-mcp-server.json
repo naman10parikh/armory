@@ -1,0 +1,7 @@
+{
+  "name": "coralogix-mcp-server",
+  "description": "A command-line tool for monitoring and analyzing Coralogix logs using the Model Control Protocol, providing tools to query and summarize log data.",
+  "source_repo": "neoai-agent/coralogix-mcp",
+  "source_url": "https://github.com/neoai-agent/coralogix-mcp",
+  "install": "npx -y coralogix-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "session-think-mcp",
+  "description": "A session-based thinking workspace for Claude that preserves and structures reasoning text. Supports structured session names, search, and persistent storage for complex problem-solving.",
+  "source_repo": "differentstuff/session-think-mcp",
+  "source_url": "https://github.com/differentstuff/session-think-mcp",
+  "install": "npx -y session-think-mcp"
+}

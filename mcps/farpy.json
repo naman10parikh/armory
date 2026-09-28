@@ -1,0 +1,7 @@
+{
+  "name": "farpy",
+  "description": "Verified GPU compute for Blender rendering with signed receipts and proof.",
+  "source_repo": "Mangomunchr/farpy-public",
+  "source_url": "https://github.com/Mangomunchr/farpy-public",
+  "install": "# git clone --depth 1 https://github.com/Mangomunchr/farpy-public\n# See source for mcpServers config block"
+}

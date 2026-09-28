@@ -1,0 +1,7 @@
+{
+  "name": "auth-mcp",
+  "description": "A secure MCP server that stores and retrieves API keys and credentials, featuring encrypted storage, masked retrieval, and AI-powered recommendation via MCP sampling.",
+  "source_repo": "KB01111/auth-mcp",
+  "source_url": "https://github.com/KB01111/auth-mcp",
+  "install": "npx -y auth-mcp"
+}

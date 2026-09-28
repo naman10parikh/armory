@@ -1,0 +1,7 @@
+{
+  "name": "fred-economic-mcp",
+  "description": "Enables natural language access to 800,000+ economic time series from FRED, including GDP, inflation, unemployment, and interest rates, with built-in transforms and frequency aggregation.",
+  "source_repo": "danishashko/fred-economic-mcp",
+  "source_url": "https://github.com/danishashko/fred-economic-mcp",
+  "install": "npx -y fred-economic-mcp"
+}

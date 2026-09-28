@@ -1,0 +1,7 @@
+{
+  "name": "token-guardian-mcp",
+  "description": "A read-only MCP server that reports token usage by agents and models, and recommends the cheapest safe model and effort level for a given task, helping to reduce token waste.",
+  "source_repo": "KitsuneTech1/token-guardian-mcp",
+  "source_url": "https://github.com/KitsuneTech1/token-guardian-mcp",
+  "install": "npx -y token-guardian-mcp"
+}

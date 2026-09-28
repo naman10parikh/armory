@@ -1,0 +1,7 @@
+{
+  "name": "ccc-brand-mcp",
+  "description": "Strict Model Context Protocol server for Consumer Choice Center brand-guided generation. It exposes the CCC 2026 brand guide as machine-readable resources and tools so an LLM can retrieve brand assets, validate designs, and generate on-brand prompts and SVG drafts.",
+  "source_repo": "Consumer-Choice-Center/ccc-brand-mcp-final",
+  "source_url": "https://github.com/Consumer-Choice-Center/ccc-brand-mcp-final",
+  "install": "# git clone --depth 1 https://github.com/Consumer-Choice-Center/ccc-brand-mcp-final\n# See source for mcpServers config block"
+}

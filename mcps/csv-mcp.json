@@ -1,0 +1,7 @@
+{
+  "name": "csv-mcp",
+  "description": "A stdio MCP server for safely reading, analyzing, validating, and transforming CSV/TSV files, with sandboxed file system access and configurable parsing options.",
+  "source_repo": "meysam-kazemi/csv-mcp-server",
+  "source_url": "https://github.com/meysam-kazemi/csv-mcp-server",
+  "install": "npx -y csv-mcp-server"
+}

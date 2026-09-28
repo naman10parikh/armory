@@ -1,6 +1,6 @@
 {
   "name": "tugboat-mcp",
-  "description": "Tugboat Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Lullabot/tugboat-mcp",
   "source_url": "https://mcp.so/server/tugboat-mcp/Lullabot",
   "install": "npx -y tugboat-mcp"

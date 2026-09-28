@@ -1,0 +1,7 @@
+{
+  "name": "qc-database-mcp-server",
+  "description": "Enables AI assistants to perform QC Database tasks such as uploading records, managing project turnover packages, and signing off on inspections via natural language.",
+  "source_repo": "larrygiroux/qcdatabase_mcp",
+  "source_url": "https://github.com/larrygiroux/qcdatabase_mcp",
+  "install": "npx -y qcdatabase_mcp"
+}

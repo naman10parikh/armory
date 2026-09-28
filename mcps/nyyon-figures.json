@@ -1,0 +1,7 @@
+{
+  "name": "nyyon-figures",
+  "description": "A local MCP server that renders nyyon's editorial diagrams and featured covers from a spec, without network requests.",
+  "source_repo": "LevNyyon/nyyon-figures",
+  "source_url": "https://github.com/LevNyyon/nyyon-figures",
+  "install": "# git clone --depth 1 https://github.com/LevNyyon/nyyon-figures\n# See source for mcpServers config block"
+}

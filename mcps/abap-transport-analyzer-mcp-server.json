@@ -1,0 +1,7 @@
+{
+  "name": "abap-transport-analyzer-mcp-server",
+  "description": "Enables AI-driven analysis of SAP transport requests, including metadata retrieval, code diff analysis, and risk detection for ABAP objects.",
+  "source_repo": "RJTechRamjee/my-abap-mcp-server",
+  "source_url": "https://github.com/RJTechRamjee/my-abap-mcp-server",
+  "install": "npx -y my-abap-mcp-server"
+}

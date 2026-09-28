@@ -1,0 +1,7 @@
+{
+  "name": "sketchbord-mcp",
+  "description": "Enables AI agents to visualize tasks on a collaborative Sketchbord whiteboard by composing content into diagrams, editing them incrementally, and reading back the board including user-drawn additions.",
+  "source_repo": "kizilov-dev/sketchbord-mcp",
+  "source_url": "https://github.com/kizilov-dev/sketchbord-mcp",
+  "install": "npx -y sketchbord-mcp"
+}

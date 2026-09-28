@@ -1,0 +1,7 @@
+{
+  "name": "finviz-screener-mcp",
+  "description": "MCP server exposing Finviz's US stock screener via finvizfinance, allowing filter-based screening and custom table columns as structured JSON.",
+  "source_repo": "gabriansa/finviz-screener-mcp",
+  "source_url": "https://github.com/gabriansa/finviz-screener-mcp",
+  "install": "npx -y finviz-screener-mcp"
+}

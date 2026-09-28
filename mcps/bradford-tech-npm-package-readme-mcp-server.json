@@ -1,0 +1,7 @@
+{
+  "name": "bradford-tech-npm-package-readme-mcp-server",
+  "description": "Fetches npm package READMEs, metadata, and search results for MCP-compatible AI clients.",
+  "source_repo": "bradford-tech/npm-package-readme-mcp-server",
+  "source_url": "https://github.com/bradford-tech/npm-package-readme-mcp-server",
+  "install": "npx -y npm-package-readme-mcp-server"
+}

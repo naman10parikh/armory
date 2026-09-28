@@ -1,0 +1,7 @@
+{
+  "name": "habitica-mcp",
+  "description": "Habitica MCP server built with Effect v4, currently exposing a hello-world tool, resource, and prompt over stdio for early development and testing.",
+  "source_repo": "tatemz/habitica-mcp",
+  "source_url": "https://github.com/tatemz/habitica-mcp",
+  "install": "npx -y habitica-mcp"
+}

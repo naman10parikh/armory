@@ -1,0 +1,7 @@
+{
+  "name": "cocoinbox-mcp-server",
+  "description": "Thin MCP wrapper around the CocoInbox REST API, enabling email management such as listing, creating, selecting, and sending emails through natural language.",
+  "source_repo": "WalidMoultamiss/cocoinbox-mcp",
+  "source_url": "https://github.com/WalidMoultamiss/cocoinbox-mcp",
+  "install": "npx -y cocoinbox-mcp"
+}

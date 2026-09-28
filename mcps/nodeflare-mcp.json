@@ -1,0 +1,7 @@
+{
+  "name": "nodeflare-mcp",
+  "description": "Blockchain JSON-RPC on 23 EVM chains for AI agents — Ethereum, Base, Arbitrum, plus young chains like Robinhood Chain, Plasma and Ink. Free reads with no key; heavy methods (eth_getLogs, trace, debug) via a free API key or x402 USDC pay-per-call.",
+  "source_repo": "Nodeflare-app/nodeflare-mcp",
+  "source_url": "https://github.com/Nodeflare-app/nodeflare-mcp",
+  "install": "npx -y nodeflare-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ticketsystem-mcp",
+  "description": "Enables agents to view and reassign tickets in a fictional German health insurer's case load, with German-language responses and demo-friendly relative dates.",
+  "source_repo": "wernerth-cs/ticketsystem-mcp",
+  "source_url": "https://github.com/wernerth-cs/ticketsystem-mcp",
+  "install": "npx -y ticketsystem-mcp"
+}

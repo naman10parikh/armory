@@ -1,0 +1,7 @@
+{
+  "name": "giltiq-mcp-server",
+  "description": "Validates EU VAT IDs using VIES and Germany's BZSt with automatic failover and legally binding qualified confirmations per §18e UStG, ensuring reliability even when VIES is down.",
+  "source_repo": "giltiq/giltiq-mcp",
+  "source_url": "https://github.com/giltiq/giltiq-mcp",
+  "install": "npx -y giltiq-mcp"
+}

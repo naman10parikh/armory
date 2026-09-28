@@ -1,0 +1,7 @@
+{
+  "name": "sigrank-mcp-server",
+  "description": "Exposes the SigRank leaderboard as tools for agents, enabling token-only rank and submit operations with local privacy-first tokenpull reading.",
+  "source_repo": "SunrisesIllNeverSee/sigrank-mcp",
+  "source_url": "https://github.com/SunrisesIllNeverSee/sigrank-mcp",
+  "install": "npx -y sigrank-mcp"
+}

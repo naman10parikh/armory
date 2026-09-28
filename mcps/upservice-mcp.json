@@ -1,0 +1,7 @@
+{
+  "name": "upservice-mcp",
+  "description": "Manages employees, projects, sprints, tasks, tags, directories, and channel messages via the Upservice Public API.",
+  "source_repo": "alexherbaly/upservice-mcp",
+  "source_url": "https://github.com/alexherbaly/upservice-mcp",
+  "install": "npx -y upservice-mcp"
+}

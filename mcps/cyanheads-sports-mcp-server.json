@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-sports-mcp-server",
+  "description": "Get live scores, schedules, standings, team and player data for NFL, NBA, MLB, NHL, soccer, and more via MCP.",
+  "source_repo": "cyanheads/sports-mcp-server",
+  "source_url": "https://github.com/cyanheads/sports-mcp-server",
+  "install": "npx -y sports-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-smithsonian-mcp-server",
+  "description": "Enables searching 14.5M Smithsonian Open Access objects, retrieving CC0 images, and exploring museum collections via MCP with 6 tools.",
+  "source_repo": "cyanheads/smithsonian-mcp-server",
+  "source_url": "https://github.com/cyanheads/smithsonian-mcp-server",
+  "install": "npx -y smithsonian-mcp-server"
+}

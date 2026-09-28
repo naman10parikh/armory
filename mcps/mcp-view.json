@@ -1,0 +1,7 @@
+{
+  "name": "mcp-view",
+  "description": "An MCP server that builds a local webpage to view AI plans, reports, and diagrams, so the AI only needs to send a URL pointer instead of long text. It provides three tools (view_plan, view_report, view_diagram) and tracks project changes for diff viewing.",
+  "source_repo": "zivhdinfo/mcp-view",
+  "source_url": "https://github.com/zivhdinfo/mcp-view",
+  "install": "# git clone --depth 1 https://github.com/zivhdinfo/mcp-view\n# See source for mcpServers config block"
+}

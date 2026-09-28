@@ -1,0 +1,7 @@
+{
+  "name": "mcp-instagram",
+  "description": "MCP server for downloading Instagram content (videos, reels, audio, carousels) using yt-dlp, with tools for downloading media and fetching metadata. Supports stdio and HTTP transports.",
+  "source_repo": "smorand/mcp-instagram",
+  "source_url": "https://github.com/smorand/mcp-instagram",
+  "install": "# git clone --depth 1 https://github.com/smorand/mcp-instagram\n# See source for mcpServers config block"
+}

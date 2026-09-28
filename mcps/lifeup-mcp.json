@@ -1,0 +1,7 @@
+{
+  "name": "lifeup-mcp",
+  "description": "Enables Claude to interact with LifeUp Cloud API on your local network for task management, achievements, and user information. Supports 20 tools including creating, editing, and querying tasks, achievements, and shop items.",
+  "source_repo": "derekprovance/lifeup-mcp",
+  "source_url": "https://github.com/derekprovance/lifeup-mcp",
+  "install": "npx -y lifeup-mcp"
+}

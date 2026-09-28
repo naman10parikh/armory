@@ -1,0 +1,7 @@
+{
+  "name": "specter-skills",
+  "description": "Configure a Specter game backend from chat — economy, progression, leaderboards, tournaments, battle passes, and real-time multiplayer — via your AI assistant.",
+  "source_repo": "dirtcubeinteractive/specter-skills",
+  "source_url": "https://github.com/dirtcubeinteractive/specter-skills",
+  "install": "# git clone --depth 1 https://github.com/dirtcubeinteractive/specter-skills\n# See source for mcpServers config block"
+}

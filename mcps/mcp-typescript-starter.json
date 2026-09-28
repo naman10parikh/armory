@@ -1,0 +1,7 @@
+{
+  "name": "mcp-typescript-starter",
+  "description": "A feature-complete MCP server template in TypeScript demonstrating tools, resources, prompts, and both stdio and HTTP transports.",
+  "source_repo": "SamMorrowDrums/mcp-typescript-starter",
+  "source_url": "https://github.com/SamMorrowDrums/mcp-typescript-starter",
+  "install": "# git clone --depth 1 https://github.com/SamMorrowDrums/mcp-typescript-starter\n# See source for mcpServers config block"
+}

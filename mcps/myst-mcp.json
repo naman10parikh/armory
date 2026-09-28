@@ -1,0 +1,7 @@
+{
+  "name": "myst-mcp",
+  "description": "Enables searching any MyST Markdown or Jupyter Book documentation site that publishes a search index, without crawling or embeddings.",
+  "source_repo": "eresearchqut/myst-mcp",
+  "source_url": "https://github.com/eresearchqut/myst-mcp",
+  "install": "npx -y myst-mcp"
+}

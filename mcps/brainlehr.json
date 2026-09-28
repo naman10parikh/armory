@@ -1,0 +1,7 @@
+{
+  "name": "brainlehr",
+  "description": "A local MCP knowledge store that enforces provenance, flags missing citations, and measures retrieval quality, enabling natural language search and management of verified knowledge via SQLite.",
+  "source_repo": "3lehr/brainlehr",
+  "source_url": "https://github.com/3lehr/brainlehr",
+  "install": "# git clone --depth 1 https://github.com/3lehr/brainlehr\n# See source for mcpServers config block"
+}

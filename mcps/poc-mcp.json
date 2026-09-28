@@ -1,0 +1,7 @@
+{
+  "name": "poc-mcp",
+  "description": "A proof-of-concept MCP server that enables LLMs to read local text files and fetch real-time weather data through external tools.",
+  "source_repo": "SarahOtmane/POC-MCP",
+  "source_url": "https://github.com/SarahOtmane/POC-MCP",
+  "install": "npx -y POC-MCP"
+}

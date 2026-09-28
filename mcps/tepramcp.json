@@ -1,0 +1,7 @@
+{
+  "name": "tepramcp",
+  "description": "Enables printing labels on King Jim Tepra PRO SR5900P over Wi-Fi/LAN, supporting Japanese text, QR codes, and images through natural language.",
+  "source_repo": "swmr71/TepraMCP",
+  "source_url": "https://github.com/swmr71/TepraMCP",
+  "install": "# git clone --depth 1 https://github.com/swmr71/TepraMCP\n# See source for mcpServers config block"
+}

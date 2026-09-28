@@ -1,0 +1,7 @@
+{
+  "name": "lead-enrichment-mcp",
+  "description": "Enriches B2B company profiles with structured data including firmographic, technographic, and intent signals.",
+  "source_repo": "Diego-Costa-Tech/lead-enrichment-mcp",
+  "source_url": "https://github.com/Diego-Costa-Tech/lead-enrichment-mcp",
+  "install": "npx -y lead-enrichment-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "everhour-mcp-server",
+  "description": "Provides complete integration with the Everhour API for time tracking, project and task management, enabling AI assistants to manage productivity workflows.",
+  "source_repo": "stefanskiasan/everhour-mcp-server",
+  "source_url": "https://github.com/stefanskiasan/everhour-mcp-server",
+  "install": "npx -y everhour-mcp-server"
+}

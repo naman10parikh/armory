@@ -1,0 +1,7 @@
+{
+  "name": "matchbrief",
+  "description": "MCP server for retrieving World Cup match briefs, fixtures, and event explanations with sourced, plain-language context.",
+  "source_repo": "SpaceGravy/matchbrief-agent",
+  "source_url": "https://github.com/SpaceGravy/matchbrief-agent",
+  "install": "# git clone --depth 1 https://github.com/SpaceGravy/matchbrief-agent\n# See source for mcpServers config block"
+}

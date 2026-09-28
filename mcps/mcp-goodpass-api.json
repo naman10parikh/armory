@@ -1,0 +1,7 @@
+{
+  "name": "mcp-goodpass-api",
+  "description": "Enables AI assistants to interact with the GoodPass API for searching products, retrieving details, checking availability, pricing, and managing orders.",
+  "source_repo": "eshwar-chandra/mcp-goodpass-api",
+  "source_url": "https://github.com/eshwar-chandra/mcp-goodpass-api",
+  "install": "# git clone --depth 1 https://github.com/eshwar-chandra/mcp-goodpass-api\n# See source for mcpServers config block"
+}

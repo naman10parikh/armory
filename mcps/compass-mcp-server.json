@@ -1,0 +1,7 @@
+{
+  "name": "compass-mcp-server",
+  "description": "Enables Claude to run SQL queries against Infor Compass (Data Fabric) directly from chat, with automatic export of large result sets to Excel.",
+  "source_repo": "acogley313/compass-mcp",
+  "source_url": "https://github.com/acogley313/compass-mcp",
+  "install": "npx -y compass-mcp"
+}

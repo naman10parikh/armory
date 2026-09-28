@@ -1,0 +1,7 @@
+{
+  "name": "nor-data-nabolag-mcp",
+  "description": "MCP server that wraps open Norwegian neighborhood data, enabling queries for public transport coverage, traffic noise, and green areas around a location.",
+  "source_repo": "3121n/nor-data-nabolag-mcp",
+  "source_url": "https://github.com/3121n/nor-data-nabolag-mcp",
+  "install": "npx -y nor-data-nabolag-mcp"
+}

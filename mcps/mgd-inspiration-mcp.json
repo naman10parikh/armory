@@ -1,0 +1,7 @@
+{
+  "name": "mgd-inspiration-mcp",
+  "description": "An MCP server that lets AI assistants search Made Good Designs' curated library of typography and brand-design inspiration — returning descriptions, tags, colour palettes (HEX), source attribution and image URLs. Endpoint: https://madegooddesigns.com/inspiration/mcp",
+  "source_repo": "Kelkotome/mgd-inspiration-mcp",
+  "source_url": "https://github.com/Kelkotome/mgd-inspiration-mcp",
+  "install": "npx -y mgd-inspiration-mcp"
+}

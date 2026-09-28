@@ -1,0 +1,7 @@
+{
+  "name": "garmin-health-mcp-server",
+  "description": "Exposes Garmin Connect health data (steps, sleep, HR, HRV, stress, activities, etc.) as tools for MCP-compatible clients like Claude.",
+  "source_repo": "AryanP45/garmin-mcp",
+  "source_url": "https://github.com/AryanP45/garmin-mcp",
+  "install": "npx -y garmin-mcp"
+}

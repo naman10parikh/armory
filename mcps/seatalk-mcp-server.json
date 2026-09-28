@@ -1,0 +1,7 @@
+{
+  "name": "seatalk-mcp-server",
+  "description": "Enables sending and reading SeaTalk messages, including DMs, group chats, and message history, plus employee lookup via the SeaTalk Open Platform API.",
+  "source_repo": "agentp-amateur/seatalk-mcp-server",
+  "source_url": "https://github.com/agentp-amateur/seatalk-mcp-server",
+  "install": "npx -y seatalk-mcp-server"
+}

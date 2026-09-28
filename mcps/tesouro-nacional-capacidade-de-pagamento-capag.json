@@ -1,0 +1,7 @@
+{
+  "name": "tesouro-nacional-capacidade-de-pagamento-capag",
+  "description": "Enables consulting the Brazilian Treasury's Payment Capacity (CAPAG) data through an MCP server, providing official information via natural language.",
+  "source_repo": "mcp-dir/tesouro_nacional_capag-mcp",
+  "source_url": "https://github.com/mcp-dir/tesouro_nacional_capag-mcp",
+  "install": "npx -y tesouro_nacional_capag-mcp"
+}

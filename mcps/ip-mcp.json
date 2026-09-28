@@ -1,0 +1,7 @@
+{
+  "name": "ip-mcp",
+  "description": "Provides tools to classify, test, and expand IPv4/IPv6 addresses using Node's built-in net module.",
+  "source_repo": "MukundaKatta/ip-mcp",
+  "source_url": "https://github.com/MukundaKatta/ip-mcp",
+  "install": "npx -y ip-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "app-data-ios-gp",
+  "description": "Enables AI assistants to query the FoxData API for iOS and Google Play app analytics, including downloads, revenue, rankings, keywords, competitor insights, and ad data across 200+ countries. Supports natural-language requests to retrieve app intelligence and market data.",
+  "source_repo": "unchartered-starlet3516/App-data-IOS-GP-",
+  "source_url": "https://github.com/unchartered-starlet3516/App-data-IOS-GP-",
+  "install": "# git clone --depth 1 https://github.com/unchartered-starlet3516/App-data-IOS-GP-\n# See source for mcpServers config block"
+}

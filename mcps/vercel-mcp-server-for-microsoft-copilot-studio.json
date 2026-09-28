@@ -1,0 +1,7 @@
+{
+  "name": "vercel-mcp-server-for-microsoft-copilot-studio",
+  "description": "Enables managing Vercel projects, deployments, build logs, domains, and environment variables through natural language in Microsoft Copilot Studio, using streamable HTTP with API key authentication.",
+  "source_repo": "ogradyliam5/vercel-mcp-copilot-studio",
+  "source_url": "https://github.com/ogradyliam5/vercel-mcp-copilot-studio",
+  "install": "# git clone --depth 1 https://github.com/ogradyliam5/vercel-mcp-copilot-studio\n# See source for mcpServers config block"
+}

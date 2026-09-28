@@ -1,0 +1,7 @@
+{
+  "name": "unofficial-polestar-mcp",
+  "description": "MCP server for controlling Polestar vehicles via natural language, enabling climate, charging, locks, location, and vehicle status management through Claude.",
+  "source_repo": "uint16/unofficial-polestar-mcp",
+  "source_url": "https://github.com/uint16/unofficial-polestar-mcp",
+  "install": "npx -y unofficial-polestar-mcp"
+}

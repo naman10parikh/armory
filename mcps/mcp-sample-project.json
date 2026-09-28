@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sample-project",
+  "description": "A sample MCP project enabling AI to interact with external tools via WebSocket for tasks like calculations, email, and knowledge search, supporting multiple transport types.",
+  "source_repo": "Yukie8848-bit/mcp13",
+  "source_url": "https://github.com/Yukie8848-bit/mcp13",
+  "install": "# git clone --depth 1 https://github.com/Yukie8848-bit/mcp13\n# See source for mcpServers config block"
+}

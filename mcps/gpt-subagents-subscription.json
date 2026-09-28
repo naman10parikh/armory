@@ -1,0 +1,7 @@
+{
+  "name": "gpt-subagents-subscription",
+  "description": "Unofficial MCP server that provides GPT subagent tools using a ChatGPT subscription via OAuth, enabling access to GPT models for orchestrated tasks.",
+  "source_repo": "Wally-Ahmed/gpt-subagents-subscription",
+  "source_url": "https://github.com/Wally-Ahmed/gpt-subagents-subscription",
+  "install": "# git clone --depth 1 https://github.com/Wally-Ahmed/gpt-subagents-subscription\n# See source for mcpServers config block"
+}

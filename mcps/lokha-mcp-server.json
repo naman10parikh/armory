@@ -1,0 +1,7 @@
+{
+  "name": "lokha-mcp-server",
+  "description": "A Model Context Protocol server hosted on Cloudflare Workers that integrates AI assistants with the Lokha ecosystem, currently providing Ghost CMS tools for content management, publishing, and scheduling.",
+  "source_repo": "jith-jstrange/lokha-mcp",
+  "source_url": "https://github.com/jith-jstrange/lokha-mcp",
+  "install": "npx -y lokha-mcp"
+}

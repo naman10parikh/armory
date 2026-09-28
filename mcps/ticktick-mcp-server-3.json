@@ -1,0 +1,7 @@
+{
+  "name": "ticktick-mcp-server-3",
+  "description": "Enables interaction with TickTick task management system through MCP, allowing users to view, create, update, complete, and delete tasks and projects via natural language.",
+  "source_repo": "iflow-mcp/jacepark12-ticktick-mcp",
+  "source_url": "https://github.com/iflow-mcp/jacepark12-ticktick-mcp",
+  "install": "npx -y jacepark12-ticktick-mcp"
+}

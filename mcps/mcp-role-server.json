@@ -1,0 +1,7 @@
+{
+  "name": "mcp-role-server",
+  "description": "A role-based access control MCP server template with authentication, role-based tool exposure, and rate limiting, enabling secure tool management for AI assistants.",
+  "source_repo": "kazuhiro2188-lgtm/mcp-role-server",
+  "source_url": "https://github.com/kazuhiro2188-lgtm/mcp-role-server",
+  "install": "# git clone --depth 1 https://github.com/kazuhiro2188-lgtm/mcp-role-server\n# See source for mcpServers config block"
+}

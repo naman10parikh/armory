@@ -1,0 +1,7 @@
+{
+  "name": "wcprediction-mcp",
+  "description": "MCP server for a World Cup 2026 prediction game assistant, providing tools for live game data via PostgreSQL and semantic search over football articles via RAG.",
+  "source_repo": "ajaleelp/wcprediction-mcp",
+  "source_url": "https://github.com/ajaleelp/wcprediction-mcp",
+  "install": "npx -y wcprediction-mcp"
+}

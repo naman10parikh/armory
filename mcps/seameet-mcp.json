@@ -1,0 +1,7 @@
+{
+  "name": "seameet-mcp",
+  "description": "SeaMeet MCP connects Claude, Cursor, Codex, and other AI agents to SeaMeet meeting recordings, transcripts, AI summaries, screenshots, action items, webhooks, and desktop recording controls. Use it to search meeting memory, read synced cloud recordings, and automate meeting notes through the Model C",
+  "source_repo": "seameet-ai/seameet-mcp",
+  "source_url": "https://github.com/seameet-ai/seameet-mcp",
+  "install": "npx -y seameet-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gcore-mcp-server",
+  "description": "Enables interaction with Gcore Cloud API via LLM assistants, providing tools for managing instances, networking, storage, AI/ML, and more.",
+  "source_repo": "G-Core/gcore-mcp-server",
+  "source_url": "https://github.com/G-Core/gcore-mcp-server",
+  "install": "npx -y gcore-mcp-server"
+}

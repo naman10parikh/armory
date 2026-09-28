@@ -1,0 +1,7 @@
+{
+  "name": "tc-help-mcp",
+  "description": "Provides live access to TutorCruncher and Bobbin product documentation via Intercom and GitHub, enabling Claude to search and retrieve help articles and API docs on demand.",
+  "source_repo": "tutorcruncher/help-mcp",
+  "source_url": "https://github.com/tutorcruncher/help-mcp",
+  "install": "npx -y help-mcp"
+}

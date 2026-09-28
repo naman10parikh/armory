@@ -1,0 +1,7 @@
+{
+  "name": "finscreen",
+  "description": "Loan officer assistant that uses Claude AI and Plaid banking API to assess loan applicants by pulling financial data and returning structured eligibility verdicts.",
+  "source_repo": "Tomiwa-31/AI-Powered-Loan-Assistant-with-MCP",
+  "source_url": "https://github.com/Tomiwa-31/AI-Powered-Loan-Assistant-with-MCP",
+  "install": "npx -y AI-Powered-Loan-Assistant-with-MCP"
+}

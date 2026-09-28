@@ -1,0 +1,7 @@
+{
+  "name": "prtg-mcp",
+  "description": "MCP server for PRTG Network Monitor that exposes sensors, devices, and historic sensor data as MCP tools.",
+  "source_repo": "MSPbotsAI/prtg-mcp",
+  "source_url": "https://github.com/MSPbotsAI/prtg-mcp",
+  "install": "npx -y prtg-mcp"
+}

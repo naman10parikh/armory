@@ -1,0 +1,7 @@
+{
+  "name": "codex-gemini-web-bridge",
+  "description": "Enables Codex to interact with Gemini Web through browser automation, allowing it to ask scoped questions and analyze public URLs or YouTube videos without a Gemini API key.",
+  "source_repo": "andrewLi1994/codex-gemini-web-bridge",
+  "source_url": "https://github.com/andrewLi1994/codex-gemini-web-bridge",
+  "install": "# git clone --depth 1 https://github.com/andrewLi1994/codex-gemini-web-bridge\n# See source for mcpServers config block"
+}

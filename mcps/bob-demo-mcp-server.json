@@ -1,0 +1,7 @@
+{
+  "name": "bob-demo-mcp-server",
+  "description": "A comprehensive MCP server that demonstrates Bob's capabilities through 9 specialized tools for file operations, code analysis, and git operations.",
+  "source_repo": "Ahmed-Chaudhry-ibm/bob-demo-mcp-server",
+  "source_url": "https://github.com/Ahmed-Chaudhry-ibm/bob-demo-mcp-server",
+  "install": "npx -y bob-demo-mcp-server"
+}

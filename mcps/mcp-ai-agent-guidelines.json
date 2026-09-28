@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ai-agent-guidelines",
+  "description": "A TypeScript ESM MCP server exposing 20 public instruction tools and 7 utility tools, backed by 102 internal skills across 18 domain families — from requirements discovery and code quality through governance, resilience, and physics-inspired analysis.",
+  "source_repo": "Anselmoo/mcp-ai-agent-guidelines",
+  "source_url": "https://github.com/Anselmoo/mcp-ai-agent-guidelines",
+  "install": "# git clone --depth 1 https://github.com/Anselmoo/mcp-ai-agent-guidelines\n# See source for mcpServers config block"
+}

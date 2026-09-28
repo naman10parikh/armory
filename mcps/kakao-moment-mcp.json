@@ -1,0 +1,7 @@
+{
+  "name": "kakao-moment-mcp",
+  "description": "Read-only MCP server for querying, analyzing, and reporting Kakao Moment ad data. Supports OAuth login and session-based authentication for multi-user hosting.",
+  "source_repo": "PlatAid/kakao-moment-mcp",
+  "source_url": "https://github.com/PlatAid/kakao-moment-mcp",
+  "install": "npx -y kakao-moment-mcp"
+}

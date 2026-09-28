@@ -1,0 +1,7 @@
+{
+  "name": "memoraeu-mcp",
+  "description": "Zero-knowledge persistent memory layer for Claude with client-side encryption and semantic search.",
+  "source_repo": "pquattro/memoraeu-mcp",
+  "source_url": "https://github.com/pquattro/memoraeu-mcp",
+  "install": "npx -y memoraeu-mcp"
+}

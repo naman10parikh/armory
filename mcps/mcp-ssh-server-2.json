@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ssh-server-2",
+  "description": "Bridges VS Code on Windows with remote Linux servers via SSH, enabling AI assistants to interact with remote development environments.",
+  "source_repo": "arieend/mcp-ssh-server",
+  "source_url": "https://github.com/arieend/mcp-ssh-server",
+  "install": "# git clone --depth 1 https://github.com/arieend/mcp-ssh-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "goodmemory",
+  "description": "Local-first, auditable memory for Codex, Claude Code, and MCP clients. It stores scoped user/project memory in SQLite or Postgres, serves read-only recall and inspection tools by default, and supports opt-in governed writeback with review and forget controls.",
+  "source_repo": "hjqcan/GoodMemory",
+  "source_url": "https://github.com/hjqcan/GoodMemory",
+  "install": "# git clone --depth 1 https://github.com/hjqcan/GoodMemory\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "batcave-mcp",
+  "description": "Enables resume review against job descriptions through a three-stage pipeline: match scoring, experience rewriting, and ATS optimization. Supports text or document uploads.",
+  "source_repo": "pnaskardev/Batcave-MCP",
+  "source_url": "https://github.com/pnaskardev/Batcave-MCP",
+  "install": "npx -y Batcave-MCP"
+}

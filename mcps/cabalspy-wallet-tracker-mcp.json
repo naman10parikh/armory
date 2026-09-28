@@ -1,0 +1,7 @@
+{
+  "name": "cabalspy-wallet-tracker-mcp",
+  "description": "KOL, smart money & whale wallets API on Solana, BNB, Base, ETH: Wallet tracker, Leaderboard",
+  "source_repo": "CabalSpy/CabalSpy-MCP-Server",
+  "source_url": "https://github.com/CabalSpy/CabalSpy-MCP-Server",
+  "install": "npx -y CabalSpy-MCP-Server"
+}

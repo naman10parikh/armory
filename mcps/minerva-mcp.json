@@ -1,0 +1,7 @@
+{
+  "name": "minerva-mcp",
+  "description": "Enables AI assistants to administer Microsoft 365 and Azure, including PowerShell-only areas like Exchange, SharePoint, Teams, and Purview, with risk classification and human approval for write operations.",
+  "source_repo": "HoussemMak/minerva-mcp",
+  "source_url": "https://github.com/HoussemMak/minerva-mcp",
+  "install": "npx -y minerva-mcp"
+}

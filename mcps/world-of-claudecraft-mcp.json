@@ -1,0 +1,7 @@
+{
+  "name": "world-of-claudecraft-mcp",
+  "description": "An MCP server adapter that allows LLM agents to autonomously play World of ClaudeCraft by wrapping the game's headless environment as MCP tools for state reading and action execution.",
+  "source_repo": "u2/world-of-claudecraft-mcp",
+  "source_url": "https://github.com/u2/world-of-claudecraft-mcp",
+  "install": "npx -y world-of-claudecraft-mcp"
+}

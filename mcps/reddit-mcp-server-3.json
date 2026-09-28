@@ -1,0 +1,7 @@
+{
+  "name": "reddit-mcp-server-3",
+  "description": "Enables AI models to search, fetch, and read Reddit content with resilient rate-limit handling and smart comment filtering, including zero-config fallback to alternative sources.",
+  "source_repo": "ismailsaoulaj/reddit-mcp-server",
+  "source_url": "https://github.com/ismailsaoulaj/reddit-mcp-server",
+  "install": "npx -y reddit-mcp-server"
+}

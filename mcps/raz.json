@@ -1,0 +1,7 @@
+{
+  "name": "raz",
+  "description": "Voice interface for Claude Code enabling hands-free, conversational interaction entirely on-device for Apple Silicon Macs. It provides push-to-talk transcription and automatic spoken responses via local AI models.",
+  "source_repo": "Mateob6/claude-voice-interaction",
+  "source_url": "https://github.com/Mateob6/claude-voice-interaction",
+  "install": "# git clone --depth 1 https://github.com/Mateob6/claude-voice-interaction\n# See source for mcpServers config block"
+}

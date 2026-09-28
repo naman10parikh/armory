@@ -1,0 +1,7 @@
+{
+  "name": "google-maps-lead-gen-mcp-local-business-enrichment-4",
+  "description": "B2B lead generation tool: search Google Maps by 'plumbers in Austin', get back business profiles with emails, phone numbers, ratings, websites. The differentiator over plain Google Maps API is the contact-enrichment layer (scraped from each business's site). Built for agency prospecting workflows.",
+  "source_repo": "",
+  "source_url": "https://thenextgennexus.com",
+  "install": "# git clone --depth 1 https://thenextgennexus.com\n# See source for mcpServers config block"
+}

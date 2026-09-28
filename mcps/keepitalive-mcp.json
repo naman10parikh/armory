@@ -1,0 +1,7 @@
+{
+  "name": "keepitalive-mcp",
+  "description": "MCP server for KEEPitALIVE monitoring, enabling AI agents to read and manage monitors, incidents, triggers, and notification routing via the v1 API, with scope-based tool filtering and safety modes.",
+  "source_repo": "salab3rt/keepitalive-mcp",
+  "source_url": "https://github.com/salab3rt/keepitalive-mcp",
+  "install": "npx -y keepitalive-mcp"
+}

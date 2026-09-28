@@ -1,0 +1,7 @@
+{
+  "name": "mapify-mcp-server",
+  "description": "Enables AI assistants to generate interactive mind maps from text, YouTube videos, and web content using Mapify's API.",
+  "source_repo": "xmindltd/mapify-mcp-server",
+  "source_url": "https://github.com/xmindltd/mapify-mcp-server",
+  "install": "npx -y mapify-mcp-server"
+}

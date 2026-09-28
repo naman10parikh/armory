@@ -1,0 +1,7 @@
+{
+  "name": "memewright",
+  "description": "Enables AI agents to create memes by selecting from a library of templates and rendering captions with proper typesetting.",
+  "source_repo": "Metzpapa/memewright",
+  "source_url": "https://github.com/Metzpapa/memewright",
+  "install": "# git clone --depth 1 https://github.com/Metzpapa/memewright\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "code-index-mcp-server",
+  "description": "An MCP server for fast local source code searching using Zoekt, enabling regex and substring queries across indexed directories.",
+  "source_repo": "trondhindenes/code-index-mcp",
+  "source_url": "https://github.com/trondhindenes/code-index-mcp",
+  "install": "npx -y code-index-mcp"
+}

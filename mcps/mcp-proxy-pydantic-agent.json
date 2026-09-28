@@ -1,0 +1,7 @@
+{
+  "name": "mcp-proxy-pydantic-agent",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/mcp_proxy_pydantic_agent",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_proxy_pydantic_agent\n# See source for mcpServers config block"
+}

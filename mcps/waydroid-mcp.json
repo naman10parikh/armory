@@ -1,0 +1,7 @@
+{
+  "name": "waydroid-mcp",
+  "description": "Enables agents to interact with Android via text-based UI trees instead of screenshots, supporting taps, swipes, input, macro recording, and device control through an MCP server and CLI.",
+  "source_repo": "YeeDochi/waydroid-mcp",
+  "source_url": "https://github.com/YeeDochi/waydroid-mcp",
+  "install": "npx -y waydroid-mcp"
+}

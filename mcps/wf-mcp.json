@@ -1,0 +1,7 @@
+{
+  "name": "wf-mcp",
+  "description": "A local-first MCP server for financial wire message forensics, providing read-only tools to parse, validate, and detect SR2026 address compliance in ISO 8583, SWIFT MT, and ISO 20022 messages.",
+  "source_repo": "hanmahong5-arch/wireforge-core",
+  "source_url": "https://github.com/hanmahong5-arch/wireforge-core",
+  "install": "# git clone --depth 1 https://github.com/hanmahong5-arch/wireforge-core\n# See source for mcpServers config block"
+}

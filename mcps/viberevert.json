@@ -1,0 +1,7 @@
+{
+  "name": "viberevert",
+  "description": "Local MCP server for AI agents and vibe coding safety: deterministic risk checks (payments, auth, database, secrets, infrastructure), sessions, checkpoints, policy inspection, and fix prompts. Runs over stdio against a local git repository; no language model judges risk.",
+  "source_repo": "madeinplutofabio/vibe-revert",
+  "source_url": "https://github.com/madeinplutofabio/vibe-revert",
+  "install": "# git clone --depth 1 https://github.com/madeinplutofabio/vibe-revert\n# See source for mcpServers config block"
+}

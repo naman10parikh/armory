@@ -1,0 +1,7 @@
+{
+  "name": "mathjs-calculator-mcp-server",
+  "description": "Provides mathematical calculation capabilities using MathJS, enabling expression evaluation and derivative calculation.",
+  "source_repo": "edwardpwtsoi/mathjs-mcp",
+  "source_url": "https://github.com/edwardpwtsoi/mathjs-mcp",
+  "install": "npx -y mathjs-mcp"
+}

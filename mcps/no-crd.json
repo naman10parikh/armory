@@ -1,0 +1,7 @@
+{
+  "name": "no-crd",
+  "description": "Enables AI agents to dynamically spawn, route to, and manage ephemeral containerized sandboxes on Kubernetes without requiring Custom Resource Definitions or cluster-level operators.",
+  "source_repo": "nogoo9/no-crd",
+  "source_url": "https://github.com/nogoo9/no-crd",
+  "install": "# git clone --depth 1 https://github.com/nogoo9/no-crd\n# See source for mcpServers config block"
+}

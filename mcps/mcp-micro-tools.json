@@ -1,0 +1,7 @@
+{
+  "name": "mcp-micro-tools",
+  "description": "Provides a set of micro-tools (time calculation, regex, encoding, JSON diff, etc.) for LLM agents to handle deterministic, precision tasks that models often get wrong.",
+  "source_repo": "ZZZ034/mcp-micro-tools",
+  "source_url": "https://github.com/ZZZ034/mcp-micro-tools",
+  "install": "# git clone --depth 1 https://github.com/ZZZ034/mcp-micro-tools\n# See source for mcpServers config block"
+}

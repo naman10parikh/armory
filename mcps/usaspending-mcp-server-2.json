@@ -1,0 +1,7 @@
+{
+  "name": "usaspending-mcp-server-2",
+  "description": "Access US federal award, recipient, agency, and spending analytics data from USAspending.gov.",
+  "source_repo": "",
+  "source_url": "https://usaspending.caseyjhand.com/mcp",
+  "install": "# git clone --depth 1 https://usaspending.caseyjhand.com/mcp\n# See source for mcpServers config block"
+}

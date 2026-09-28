@@ -1,0 +1,7 @@
+{
+  "name": "zap-mcp-proxy",
+  "description": "A lightweight MCP server that wraps OWASP ZAP's REST API as Model Context Protocol tools, enabling AI agents to perform automated security scanning.",
+  "source_repo": "madmystic/zap-mcp-proxy",
+  "source_url": "https://github.com/madmystic/zap-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/madmystic/zap-mcp-proxy\n# See source for mcpServers config block"
+}

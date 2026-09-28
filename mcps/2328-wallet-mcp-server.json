@@ -1,0 +1,7 @@
+{
+  "name": "2328-wallet-mcp-server",
+  "description": "MCP server for managing a 2328 merchant account, providing tools for balances, exchange rates, invoices, static wallets, payouts, and conversions via natural language.",
+  "source_repo": "2328io/mcp",
+  "source_url": "https://github.com/2328io/mcp",
+  "install": "# git clone --depth 1 https://github.com/2328io/mcp\n# See source for mcpServers config block"
+}

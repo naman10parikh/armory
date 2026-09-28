@@ -1,0 +1,7 @@
+{
+  "name": "nepal-law-mcp",
+  "description": "Provides search and retrieval of Nepali statutes from the law commission database, enabling users to search across 328 acts and their provisions, view section details, and check act status via natural language.",
+  "source_repo": "lngiri/nepal-law-mcp",
+  "source_url": "https://github.com/lngiri/nepal-law-mcp",
+  "install": "npx -y nepal-law-mcp"
+}

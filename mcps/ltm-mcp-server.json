@@ -1,0 +1,7 @@
+{
+  "name": "ltm-mcp-server",
+  "description": "Enables MCP-capable AI to perform read-only semantic search over a local document corpus stored in Postgres with pgvector, using mxbai-embed-large embeddings and optional reranking for confidence-gated results.",
+  "source_repo": "mklcapital/ltm-mcp",
+  "source_url": "https://github.com/mklcapital/ltm-mcp",
+  "install": "npx -y ltm-mcp"
+}

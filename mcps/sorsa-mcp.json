@@ -1,0 +1,7 @@
+{
+  "name": "sorsa-mcp",
+  "description": "An MCP server for the Sorsa.io API v3 — access to X/Twitter data: profiles, tweets, search, follow/retweet checks, Sorsa scores, lists and communities.",
+  "source_repo": "Sorsa-io/sorsa-mcp",
+  "source_url": "https://github.com/Sorsa-io/sorsa-mcp",
+  "install": "npx -y sorsa-mcp"
+}

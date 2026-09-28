@@ -1,0 +1,7 @@
+{
+  "name": "ftb-mcp",
+  "description": "Read-only MCP server for genealogy data from Family Tree Builder (.ftb) or GEDCOM files, exposing tools for person search, family relationships, and statistical analysis via HTTP or stdio.",
+  "source_repo": "mouchar/ftb-mcp",
+  "source_url": "https://github.com/mouchar/ftb-mcp",
+  "install": "npx -y ftb-mcp"
+}

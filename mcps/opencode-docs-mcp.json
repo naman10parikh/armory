@@ -1,0 +1,7 @@
+{
+  "name": "opencode-docs-mcp",
+  "description": "Enables AI models to search, browse, and retrieve full content of OpenCode documentation pages.",
+  "source_repo": "sandbox-technologies/opencode-docs-mcp",
+  "source_url": "https://github.com/sandbox-technologies/opencode-docs-mcp",
+  "install": "npx -y opencode-docs-mcp"
+}

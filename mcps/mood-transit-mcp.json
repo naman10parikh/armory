@@ -1,0 +1,7 @@
+{
+  "name": "mood-transit-mcp",
+  "description": "Enables music curation that gently transitions a user's mood through three stages (Mirror, Bridge, Arrive), incorporating weather, activity, time, and personal preferences to recommend songs.",
+  "source_repo": "Festinz/mood-transit-mcp",
+  "source_url": "https://github.com/Festinz/mood-transit-mcp",
+  "install": "npx -y mood-transit-mcp"
+}

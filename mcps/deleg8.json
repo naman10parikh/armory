@@ -1,0 +1,7 @@
+{
+  "name": "deleg8",
+  "description": "Enables Claude Code to delegate work to persistent oh-my-pi (omp) subagents via an MCP server with 7 tools (spawn, send, output, status, list, stop, prune), wrapping omp RPC mode with enforcement hooks for descriptive agent naming, model configuration, denylists, write-scope ownership, and cooperati",
+  "source_repo": "emmahyde/deleg8",
+  "source_url": "https://github.com/emmahyde/deleg8",
+  "install": "# git clone --depth 1 https://github.com/emmahyde/deleg8\n# See source for mcpServers config block"
+}

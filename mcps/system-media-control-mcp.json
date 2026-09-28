@@ -1,0 +1,7 @@
+{
+  "name": "system-media-control-mcp",
+  "description": "Enables AI agents to monitor system resources and control media, brightness, volume, and other Windows PC functions through natural language commands.",
+  "source_repo": "noackjona-hash/system-media-control-mcp",
+  "source_url": "https://github.com/noackjona-hash/system-media-control-mcp",
+  "install": "npx -y system-media-control-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "amazon-sp-api-mcp",
+  "description": "A production-grade MCP server for the Amazon Selling Partner API that provides a complete registry of 353 operations across 49 API domains, enabling discovery, description, and invocation of SP-API operations with version awareness and safety controls.",
+  "source_repo": "ailumia/amazon-sp-api-mcp",
+  "source_url": "https://github.com/ailumia/amazon-sp-api-mcp",
+  "install": "npx -y amazon-sp-api-mcp"
+}

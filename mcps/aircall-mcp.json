@@ -1,0 +1,7 @@
+{
+  "name": "aircall-mcp",
+  "description": "A read-only MCP server for the Aircall REST API, enabling browsing calls, transcripts, contacts, and more while keeping data local.",
+  "source_repo": "growth-box/aircall-mcp",
+  "source_url": "https://github.com/growth-box/aircall-mcp",
+  "install": "npx -y aircall-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agundur-geo-scanner",
+  "description": "Checks whether a website is readable and citable by AI search engines — llms.txt, Schema.org structured data, AI-bot access in robots.txt, content freshness, answer directness, E-E-A-T signals, plus a LocalBusiness Rich Results validator. Free, no API key, remote Streamable HTTP.",
+  "source_repo": "Agundur-KDE/geo-scanner-mcp",
+  "source_url": "https://github.com/Agundur-KDE/geo-scanner-mcp",
+  "install": "npx -y geo-scanner-mcp"
+}

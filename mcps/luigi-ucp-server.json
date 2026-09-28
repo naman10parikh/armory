@@ -1,0 +1,7 @@
+{
+  "name": "luigi-ucp-server",
+  "description": "Implements Universal Commerce Protocol (UCP) primitives backed by HubSpot CRM, enabling buyer profile, product catalog, cart, and order operations via MCP tools.",
+  "source_repo": "PhilInTheLoop/luigi-ucp-server",
+  "source_url": "https://github.com/PhilInTheLoop/luigi-ucp-server",
+  "install": "# git clone --depth 1 https://github.com/PhilInTheLoop/luigi-ucp-server\n# See source for mcpServers config block"
+}

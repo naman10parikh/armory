@@ -1,0 +1,7 @@
+{
+  "name": "gworkspace-mcp",
+  "description": "A production-ready MCP server that gives AI assistants full, authenticated access to the entire Google Workspace ecosystem.",
+  "source_repo": "rkpraveendev/gworkspace-mcp",
+  "source_url": "https://github.com/rkpraveendev/gworkspace-mcp",
+  "install": "npx -y gworkspace-mcp"
+}

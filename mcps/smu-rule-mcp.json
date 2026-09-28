@@ -1,0 +1,7 @@
+{
+  "name": "smu-rule-mcp",
+  "description": "Enables AI assistants to search and retrieve Sangmyung University regulations, articles, and forms from the university's rule management system.",
+  "source_repo": "gsmtc01/smu-rule-mcp",
+  "source_url": "https://github.com/gsmtc01/smu-rule-mcp",
+  "install": "npx -y smu-rule-mcp"
+}

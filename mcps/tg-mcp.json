@@ -1,0 +1,7 @@
+{
+  "name": "tg-mcp",
+  "description": "Read-only MCP server for Telegram chats and channels that provides digest summaries, message search, and action items.",
+  "source_repo": "s4relok/tg-mcp",
+  "source_url": "https://github.com/s4relok/tg-mcp",
+  "install": "npx -y tg-mcp"
+}

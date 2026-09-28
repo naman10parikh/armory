@@ -1,0 +1,7 @@
+{
+  "name": "econ-r-mcp",
+  "description": "econ-r-mcp is a local MCP server plus companion skill for reproducible applied econometrics and statistics workflows powered by headless R execution.",
+  "source_repo": "emmanueltsallis/econ-r-mcp",
+  "source_url": "https://github.com/emmanueltsallis/econ-r-mcp",
+  "install": "npx -y econ-r-mcp"
+}

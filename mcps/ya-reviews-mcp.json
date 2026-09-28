@@ -1,0 +1,7 @@
+{
+  "name": "ya-reviews-mcp",
+  "description": "MCP server that scrapes Yandex Maps business reviews and company info, exposing them to AI assistants via three tools. No API key required, uses headless browser.",
+  "source_repo": "mrkhachaturov/ya-reviews-mcp",
+  "source_url": "https://github.com/mrkhachaturov/ya-reviews-mcp",
+  "install": "npx -y ya-reviews-mcp"
+}

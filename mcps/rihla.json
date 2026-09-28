@@ -1,0 +1,7 @@
+{
+  "name": "rihla",
+  "description": "Flexible multi-leg, multi-airport flight search that finds the cheapest route across an entire itinerary — available as a CLI and as an MCP server for AI agents.",
+  "source_repo": "leojg/rihla",
+  "source_url": "https://github.com/leojg/rihla",
+  "install": "# git clone --depth 1 https://github.com/leojg/rihla\n# See source for mcpServers config block"
+}

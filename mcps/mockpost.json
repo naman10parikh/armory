@@ -1,0 +1,7 @@
+{
+  "name": "mockpost",
+  "description": "Enables agents to inspect captured emails, messages, and webhooks across multiple channels, read OTP codes, and simulate inbound events for end-to-end testing.",
+  "source_repo": "reiarseni/mockpost",
+  "source_url": "https://github.com/reiarseni/mockpost",
+  "install": "# git clone --depth 1 https://github.com/reiarseni/mockpost\n# See source for mcpServers config block"
+}

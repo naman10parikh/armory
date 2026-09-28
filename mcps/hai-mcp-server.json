@@ -1,6 +1,6 @@
 {
   "name": "hai-mcp-server",
-  "description": "Hai Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "avacx/hai-mcp-server",
   "source_url": "https://mcp.so/server/hai-mcp-server/avacx",
   "install": "npx -y hai-mcp-server"

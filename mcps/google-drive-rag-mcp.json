@@ -1,0 +1,7 @@
+{
+  "name": "google-drive-rag-mcp",
+  "description": "A local MCP server that enables LLMs to securely search and read files within designated Google Drive folders. Supports Google Docs, Google Sheets, PDFs, and plain text with strict folder-scoping via service account authentication.",
+  "source_repo": "asamiile/google-drive-rag-mcp",
+  "source_url": "https://github.com/asamiile/google-drive-rag-mcp",
+  "install": "npx -y google-drive-rag-mcp"
+}

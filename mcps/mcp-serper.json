@@ -1,0 +1,7 @@
+{
+  "name": "mcp-serper",
+  "description": "Enables Google Search, News, and Places queries via the Serper API, integrated with the Pipeworx MCP gateway.",
+  "source_repo": "pipeworx-io/mcp-serper",
+  "source_url": "https://github.com/pipeworx-io/mcp-serper",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-serper\n# See source for mcpServers config block"
+}

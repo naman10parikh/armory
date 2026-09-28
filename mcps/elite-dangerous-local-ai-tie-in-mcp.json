@@ -1,0 +1,7 @@
+{
+  "name": "elite-dangerous-local-ai-tie-in-mcp",
+  "description": "This MCP server provides real-time integration between Elite Dangerous and Claude Desktop, enabling AI-powered analysis of your gameplay data and dynamic generation of EDCoPilot custom content.",
+  "source_repo": "GWLlosa/elite-dangerous-local-ai-tie-in-mcp",
+  "source_url": "https://github.com/GWLlosa/elite-dangerous-local-ai-tie-in-mcp",
+  "install": "npx -y elite-dangerous-local-ai-tie-in-mcp"
+}

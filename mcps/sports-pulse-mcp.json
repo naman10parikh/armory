@@ -1,0 +1,7 @@
+{
+  "name": "sports-pulse-mcp",
+  "description": "MCP server that enables Claude Desktop to access real-time sports data including live scores, fixtures, standings, and NBA statistics using free APIs.",
+  "source_repo": "wyverns76-J/sports-pulse-mcp",
+  "source_url": "https://github.com/wyverns76-J/sports-pulse-mcp",
+  "install": "npx -y sports-pulse-mcp"
+}

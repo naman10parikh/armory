@@ -1,0 +1,7 @@
+{
+  "name": "neural-stimulus",
+  "description": "An MCP server that provides persistent semantic memory for LLMs by building a concept graph with vector search. It enables storing, linking, and retrieving concepts across conversations using Turso vector search and 256-dimensional embeddings.",
+  "source_repo": "recla93/NeuralStimulus",
+  "source_url": "https://github.com/recla93/NeuralStimulus",
+  "install": "# git clone --depth 1 https://github.com/recla93/NeuralStimulus\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "advinpay-mcp",
+  "description": "MCP server to connect AI assistants to the AdvinPay payment API, enabling PIX charges, transaction queries, and documentation search.",
+  "source_repo": "AdvinPay/advinpay-mcp",
+  "source_url": "https://github.com/AdvinPay/advinpay-mcp",
+  "install": "npx -y advinpay-mcp"
+}

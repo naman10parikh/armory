@@ -1,0 +1,7 @@
+{
+  "name": "videonote-mcp",
+  "description": "MCP server that converts video links into AI-generated Markdown notes, with tools for task management, transcription engines, and LLM providers.",
+  "source_repo": "HuangYincan/VideoNote-MCP",
+  "source_url": "https://github.com/HuangYincan/VideoNote-MCP",
+  "install": "npx -y VideoNote-MCP"
+}

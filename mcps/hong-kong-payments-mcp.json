@@ -1,0 +1,7 @@
+{
+  "name": "hong-kong-payments-mcp",
+  "description": "Lets AI agents accept payments in Hong Kong via Stripe hosted checkout, supporting cards, Apple Pay, Alipay, and WeChat Pay.",
+  "source_repo": "junter1989k-ai/hong-kong-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/hong-kong-payments-mcp",
+  "install": "npx -y hong-kong-payments-mcp"
+}

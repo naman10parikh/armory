@@ -1,0 +1,7 @@
+{
+  "name": "noesis",
+  "description": "A cognitive optimization engine exposed as an MCP server that amplifies LLM reasoning through self-consistency sampling, MCTS, Dung argumentation, symbolic verification, and measured confidence.",
+  "source_repo": "AndrewBalda01/noesis-mcp",
+  "source_url": "https://github.com/AndrewBalda01/noesis-mcp",
+  "install": "npx -y noesis-mcp"
+}

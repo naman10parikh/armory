@@ -1,0 +1,7 @@
+{
+  "name": "knesset-mcp-server",
+  "description": "Enables AI assistants to query bills, committees, and members from the Israeli Knesset parliamentary information API via MCP tools.",
+  "source_repo": "zohar/knesset-mcp",
+  "source_url": "https://github.com/zohar/knesset-mcp",
+  "install": "npx -y knesset-mcp"
+}

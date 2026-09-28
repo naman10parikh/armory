@@ -1,0 +1,7 @@
+{
+  "name": "mcp-nextjs",
+  "description": "Next.js-based MCP server with OAuth 2.1 authentication, deployable on Vercel, supporting SSE and Streamable HTTP transports for various clients.",
+  "source_repo": "run-llama/mcp-nextjs",
+  "source_url": "https://github.com/run-llama/mcp-nextjs",
+  "install": "# git clone --depth 1 https://github.com/run-llama/mcp-nextjs\n# See source for mcpServers config block"
+}

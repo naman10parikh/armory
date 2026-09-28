@@ -1,0 +1,7 @@
+{
+  "name": "rdap-mcp-server",
+  "description": "Model Context Protocol server to look up domain names and IPs using RDAP.",
+  "source_repo": "clareliguori/rdap-mcp-server",
+  "source_url": "https://github.com/clareliguori/rdap-mcp-server",
+  "install": "npx -y rdap-mcp-server"
+}

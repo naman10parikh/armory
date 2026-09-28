@@ -1,0 +1,7 @@
+{
+  "name": "fantastical",
+  "description": "An MCP server for creating calendar events in Fantastical on macOS with verification by reading back from the calendar store.",
+  "source_repo": "sidbandy/fantastical-mcp",
+  "source_url": "https://github.com/sidbandy/fantastical-mcp",
+  "install": "npx -y fantastical-mcp"
+}

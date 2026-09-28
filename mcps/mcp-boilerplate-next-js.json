@@ -1,0 +1,7 @@
+{
+  "name": "mcp-boilerplate-next-js",
+  "description": "A minimal Next.js starter for building MCP Apps, enabling MCP hosts to render interactive UIs alongside tool calls via an MCP server endpoint and a React widget UI.",
+  "source_repo": "BenPDev/mcp-boilerplate-nextjs",
+  "source_url": "https://github.com/BenPDev/mcp-boilerplate-nextjs",
+  "install": "# git clone --depth 1 https://github.com/BenPDev/mcp-boilerplate-nextjs\n# See source for mcpServers config block"
+}

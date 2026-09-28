@@ -1,0 +1,7 @@
+{
+  "name": "mcp-firefox",
+  "description": "Connects to Firefox's Remote Debugging Protocol over TCP, exposing browser DevTools capabilities (JS evaluation, navigation, screenshots, network capture) as tools for LLMs via MCP.",
+  "source_repo": "murphysean/mcp-firefox",
+  "source_url": "https://github.com/murphysean/mcp-firefox",
+  "install": "# git clone --depth 1 https://github.com/murphysean/mcp-firefox\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "weather-israel-mcp-2",
+  "description": "MCP server that enables LLMs to retrieve weather forecasts for Israeli cities by automating a browser with Playwright, and also provides US weather alerts and forecasts via NWS API.",
+  "source_repo": "avigail4408/Weather-MCP-with-Playwright",
+  "source_url": "https://github.com/avigail4408/Weather-MCP-with-Playwright",
+  "install": "# git clone --depth 1 https://github.com/avigail4408/Weather-MCP-with-Playwright\n# See source for mcpServers config block"
+}

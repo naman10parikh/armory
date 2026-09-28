@@ -1,0 +1,7 @@
+{
+  "name": "minerva",
+  "description": "Manages skills and profiles on disk and probes companion tools (bob, cortex, mcphub, etc.) over stdio MCP, enabling library operations and stack readiness checks.",
+  "source_repo": "abdul-hamid-achik/minerva",
+  "source_url": "https://github.com/abdul-hamid-achik/minerva",
+  "install": "# git clone --depth 1 https://github.com/abdul-hamid-achik/minerva\n# See source for mcpServers config block"
+}

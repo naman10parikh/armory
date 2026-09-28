@@ -1,0 +1,7 @@
+{
+  "name": "cpu-game-mcp",
+  "description": "Enables AI agents to play the CPU Game on EVM, including world exploration, building, crafting, and trading via natural language.",
+  "source_repo": "sodiqit/cpu-game-mcp",
+  "source_url": "https://github.com/sodiqit/cpu-game-mcp",
+  "install": "npx -y cpu-game-mcp"
+}

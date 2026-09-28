@@ -1,0 +1,7 @@
+{
+  "name": "readpic-mcp",
+  "description": "Analyzes images using a vision model and returns detailed Chinese text descriptions, enabling text-only models to understand pictures from screenshots, UI designs, error logs, and architecture diagrams.",
+  "source_repo": "Alzeros/readpic-mcp",
+  "source_url": "https://github.com/Alzeros/readpic-mcp",
+  "install": "npx -y readpic-mcp"
+}

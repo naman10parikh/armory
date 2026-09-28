@@ -1,0 +1,7 @@
+{
+  "name": "puls-mcp",
+  "description": "MCP server for Puls prediction markets on Arc, letting AI assistants read live markets, the AI-vs-crowd oracle, autonomous agents, and place real USDC trades and x402 forecast signals.",
+  "source_repo": "rdmbtc/puls-mcp",
+  "source_url": "https://github.com/rdmbtc/puls-mcp",
+  "install": "npx -y puls-mcp"
+}

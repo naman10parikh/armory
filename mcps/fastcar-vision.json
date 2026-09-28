@@ -1,0 +1,7 @@
+{
+  "name": "fastcar-vision",
+  "description": "Provides vision understanding capabilities such as image analysis, OCR, object localization, and video frame analysis, plus optional image generation and editing, to coding agents via OpenAI-compatible multimodal models. Runs as a local MCP server with HTTP and stdio transports, configurable for cli",
+  "source_repo": "williamDazhangyu/-fastcar-mcp-vision-tools",
+  "source_url": "https://github.com/williamDazhangyu/-fastcar-mcp-vision-tools",
+  "install": "# git clone --depth 1 https://github.com/williamDazhangyu/-fastcar-mcp-vision-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "water-chemistry-mcp-server",
+  "description": "An advanced MCP server powered by PHREEQC for industrial wastewater treatment modeling, offering 17 tools for chemical equilibrium, kinetic reactions, and optimization like lime softening and phosphorus removal.",
+  "source_repo": "puran-water/water-chemistry-mcp",
+  "source_url": "https://github.com/puran-water/water-chemistry-mcp",
+  "install": "npx -y water-chemistry-mcp"
+}

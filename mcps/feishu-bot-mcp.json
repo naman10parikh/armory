@@ -1,0 +1,7 @@
+{
+  "name": "feishu-bot-mcp",
+  "description": "Enables sending text messages, files, and images to Feishu (Lark) group chats via MCP, with support for automatic default group configuration.",
+  "source_repo": "983033995/feishu-bot-mcp",
+  "source_url": "https://github.com/983033995/feishu-bot-mcp",
+  "install": "npx -y feishu-bot-mcp"
+}

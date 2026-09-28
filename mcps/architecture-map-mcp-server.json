@@ -1,0 +1,7 @@
+{
+  "name": "architecture-map-mcp-server",
+  "description": "Enables MCP-compatible AI agents to read and write architecture-map projects and diagrams with per-project access controls via OAuth 2.1/PKCE.",
+  "source_repo": "Andrewdpg/cartogram-mcp",
+  "source_url": "https://github.com/Andrewdpg/cartogram-mcp",
+  "install": "npx -y cartogram-mcp"
+}

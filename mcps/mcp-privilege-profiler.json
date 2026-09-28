@@ -1,0 +1,7 @@
+{
+  "name": "mcp-privilege-profiler",
+  "description": "A task-scoped MCP stdio proxy that learns candidate least-privilege policies from labeled successful runs, requires human review, enforces exact decisions, detects tool-definition drift, and emits privacy-minimized JSONL events for Wazuh.",
+  "source_repo": "Ylyass/mcp-privilege-profiler",
+  "source_url": "https://github.com/Ylyass/mcp-privilege-profiler",
+  "install": "# git clone --depth 1 https://github.com/Ylyass/mcp-privilege-profiler\n# See source for mcpServers config block"
+}

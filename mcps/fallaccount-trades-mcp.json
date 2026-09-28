@@ -1,0 +1,7 @@
+{
+  "name": "fallaccount-trades-mcp",
+  "description": "Exposes foldkit 7-prime spine, κ-band classification, and 6 fold operations as tools and resources for MCP-compatible AI clients like Claude Code.",
+  "source_repo": "sjgant80-hub/fallaccount-trades-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallaccount-trades-mcp",
+  "install": "npx -y fallaccount-trades-mcp"
+}

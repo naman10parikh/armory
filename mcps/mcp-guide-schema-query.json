@@ -1,0 +1,7 @@
+{
+  "name": "mcp-guide-schema-query",
+  "description": "Enables AI tools to understand a database, inspect schema, and run safe SELECT queries with SQL guardrails, plus optional codebase reading.",
+  "source_repo": "BaoNgoThien18/mcp-guide-schema-query",
+  "source_url": "https://github.com/BaoNgoThien18/mcp-guide-schema-query",
+  "install": "# git clone --depth 1 https://github.com/BaoNgoThien18/mcp-guide-schema-query\n# See source for mcpServers config block"
+}

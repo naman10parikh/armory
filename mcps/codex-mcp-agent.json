@@ -1,0 +1,7 @@
+{
+  "name": "codex-mcp-agent",
+  "description": "Enables Claude Code, Cursor, and other AI tools to call OpenAI Codex for task execution, with safe and writable modes.",
+  "source_repo": "1WorldCapture/codex-as-mcp",
+  "source_url": "https://github.com/1WorldCapture/codex-as-mcp",
+  "install": "npx -y codex-as-mcp"
+}

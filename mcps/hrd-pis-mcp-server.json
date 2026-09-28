@@ -1,0 +1,7 @@
+{
+  "name": "hrd-pis-mcp-server",
+  "description": "Enables AI assistants to interact with the HRD-PIS API for HR profile management, including authentication and various HR operations.",
+  "source_repo": "Rashqueee/hrd-pis-mcp",
+  "source_url": "https://github.com/Rashqueee/hrd-pis-mcp",
+  "install": "npx -y hrd-pis-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-glpi-it4",
+  "description": "Integrates with GLPI IT4Solução API v2.3 (OAuth2) to manage tickets, computer inventory, and configuration parameters, with safety features like dry-run and rollback.",
+  "source_repo": "chicoIA/mcp-glpi-it4",
+  "source_url": "https://github.com/chicoIA/mcp-glpi-it4",
+  "install": "# git clone --depth 1 https://github.com/chicoIA/mcp-glpi-it4\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lineage-mcp-server",
+  "description": "Provides tools to interact with the Lineage blockchain API, including wallet seed phrase and keypair generation, balance queries, and latest block retrieval.",
+  "source_repo": "lineage-foundation/mcp",
+  "source_url": "https://github.com/lineage-foundation/mcp",
+  "install": "# git clone --depth 1 https://github.com/lineage-foundation/mcp\n# See source for mcpServers config block"
+}

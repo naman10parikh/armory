@@ -1,0 +1,7 @@
+{
+  "name": "dtrpg-mcp",
+  "description": "Enables searching your DriveThruRPG library and the public catalog for tabletop RPG products, returning structured details like title, description, publisher, and game system.",
+  "source_repo": "erik-saltwell/dtrpg_mcp",
+  "source_url": "https://github.com/erik-saltwell/dtrpg_mcp",
+  "install": "npx -y dtrpg_mcp"
+}

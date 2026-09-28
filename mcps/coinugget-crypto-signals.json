@@ -1,0 +1,7 @@
+{
+  "name": "coinugget-crypto-signals",
+  "description": "Provides real-time cryptocurrency market signals including RSI, top gainers, price action, kimchi premium, market prices, and derivatives data from multiple exchanges.",
+  "source_repo": "coinugget/coinugget-mcp",
+  "source_url": "https://github.com/coinugget/coinugget-mcp",
+  "install": "npx -y coinugget-mcp"
+}

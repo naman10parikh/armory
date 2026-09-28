@@ -1,0 +1,7 @@
+{
+  "name": "voiceos-tmux-mcp",
+  "description": "Enables voice control of local Claude Code sessions running in tmux, allowing users to list, read, send messages to, and manage sessions via nine MCP tools.",
+  "source_repo": "seanchiuai/voiceos-tmux-mcp",
+  "source_url": "https://github.com/seanchiuai/voiceos-tmux-mcp",
+  "install": "npx -y voiceos-tmux-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "works-with-agents-mcp-server",
+  "description": "Provides 14 MCP tools for AI agent infrastructure, enabling knowledge base queries, skill search, handoffs, blueprint validation, trust scoring, identity verification, SLA validation, and compliance checks.",
+  "source_repo": "vystartasv/wwa-mcp",
+  "source_url": "https://github.com/vystartasv/wwa-mcp",
+  "install": "npx -y wwa-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "autofuse",
+  "description": "Mount, heal, wake and run commands on remote Windows/Linux machines over SSHFS from a macOS menu-bar app. 34 tools with MCP behavior annotations (read-only vs destructive) and agent-friendly error hints.",
+  "source_repo": "Fasen24-AI/autofuse",
+  "source_url": "https://github.com/Fasen24-AI/autofuse",
+  "install": "# git clone --depth 1 https://github.com/Fasen24-AI/autofuse\n# See source for mcpServers config block"
+}

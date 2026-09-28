@@ -1,0 +1,7 @@
+{
+  "name": "fo-semantic-mcp-server",
+  "description": "Enables AI assistants to search and analyze Microsoft Dynamics 365 Finance & Operations artifacts, read local source code, and generate context-aware solutions through natural language.",
+  "source_repo": "xplusplusai/fo-semantic-mcp",
+  "source_url": "https://github.com/xplusplusai/fo-semantic-mcp",
+  "install": "npx -y fo-semantic-mcp"
+}

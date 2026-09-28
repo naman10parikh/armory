@@ -1,0 +1,7 @@
+{
+  "name": "mcpie",
+  "description": "An MCP server that lets you order your usual pizza from Domino's with a single tool call, using cash at pickup. It supports checking store status, menus, coupons, and dry-run pricing, with a hard confirmation gate before placing real orders.",
+  "source_repo": "SuperAngryMonkey/mcpie",
+  "source_url": "https://github.com/SuperAngryMonkey/mcpie",
+  "install": "# git clone --depth 1 https://github.com/SuperAngryMonkey/mcpie\n# See source for mcpServers config block"
+}

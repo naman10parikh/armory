@@ -1,0 +1,7 @@
+{
+  "name": "request-finder",
+  "description": "Enables Claude Code to search and inspect live network traffic from Chrome, including HTTP requests, WebSocket frames, and GraphQL calls, with tools to filter history, retrieve full request details, and control capture settings.",
+  "source_repo": "ravi-03/netscribe",
+  "source_url": "https://github.com/ravi-03/netscribe",
+  "install": "# git clone --depth 1 https://github.com/ravi-03/netscribe\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-fde",
+  "description": "A methodology-driven MCP server that guides enterprise AI rollouts through a 5-phase pipeline with layered memory for experience reuse, enabling agents to manage engagements and crystallize skills.",
+  "source_repo": "chenshuai9101/agent-fde",
+  "source_url": "https://github.com/chenshuai9101/agent-fde",
+  "install": "# git clone --depth 1 https://github.com/chenshuai9101/agent-fde\n# See source for mcpServers config block"
+}

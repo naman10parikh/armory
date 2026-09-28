@@ -1,0 +1,7 @@
+{
+  "name": "anakin",
+  "description": "Web data for AI agents: scrape, crawl, search, deep research, site monitoring, browser automation",
+  "source_repo": "Anakin-Inc/anakin-mcp",
+  "source_url": "https://github.com/Anakin-Inc/anakin-mcp",
+  "install": "npx -y anakin-mcp"
+}

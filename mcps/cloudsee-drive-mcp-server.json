@@ -1,0 +1,7 @@
+{
+  "name": "cloudsee-drive-mcp-server",
+  "description": "Enables natural language management of files on CloudSee Drive (Amazon S3) including browsing, searching, uploading, downloading, sharing, and organizing, with confirmation for destructive actions.",
+  "source_repo": "webapper-services/cloudsee-drive-mcp",
+  "source_url": "https://github.com/webapper-services/cloudsee-drive-mcp",
+  "install": "npx -y cloudsee-drive-mcp"
+}

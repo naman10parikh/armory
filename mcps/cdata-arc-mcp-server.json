@@ -1,0 +1,7 @@
+{
+  "name": "cdata-arc-mcp-server",
+  "description": "Enables AI assistants to manage CData Arc connectors, files, transactions, workspaces, and administrative actions through natural language interactions via the Arc Admin API.",
+  "source_repo": "ctslone/AdminAPI_MCP",
+  "source_url": "https://github.com/ctslone/AdminAPI_MCP",
+  "install": "npx -y AdminAPI_MCP"
+}

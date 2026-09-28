@@ -1,0 +1,7 @@
+{
+  "name": "vepclin-mcp",
+  "description": "A terminal-based bioinformatics CLI chat tool that integrates Ensembl VEP, NCBI ClinVar, an MCP server layer, and OpenRouter's NVIDIA Nemotron 3 Ultra model to provide variant consequence and clinical significance lookups with clear summaries in a Rich-powered CLI.",
+  "source_repo": "shivankvirdi/VepClin-MCP",
+  "source_url": "https://github.com/shivankvirdi/VepClin-MCP",
+  "install": "npx -y VepClin-MCP"
+}

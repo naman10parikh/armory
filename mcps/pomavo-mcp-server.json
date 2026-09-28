@@ -1,0 +1,7 @@
+{
+  "name": "pomavo-mcp-server",
+  "description": "Enables managing tickets, projects, and iterations in the Pomavo system through natural language, supporting CRUD operations, state transitions, comments, linking, and search with a DSL query language.",
+  "source_repo": "megashrieks/Pomavo.MCP",
+  "source_url": "https://github.com/megashrieks/Pomavo.MCP",
+  "install": "# git clone --depth 1 https://github.com/megashrieks/Pomavo.MCP\n# See source for mcpServers config block"
+}

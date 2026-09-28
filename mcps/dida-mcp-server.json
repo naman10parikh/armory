@@ -1,0 +1,7 @@
+{
+  "name": "dida-mcp-server",
+  "description": "Enables AI assistants to manage TickTick/Dida365 tasks, projects, and tags through the MCP protocol, with features for GTD-based task organization and OAuth authentication.",
+  "source_repo": "zhongwencool/dida-mcp-server",
+  "source_url": "https://github.com/zhongwencool/dida-mcp-server",
+  "install": "npx -y dida-mcp-server"
+}

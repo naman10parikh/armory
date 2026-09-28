@@ -1,0 +1,7 @@
+{
+  "name": "factorio-docs-mcp",
+  "description": "Synchronizes Factorio mod API docs to a local SQLite index, enabling search, version comparison, and migration checklists via MCP tools.",
+  "source_repo": "hjfmailbox/factorio-docs-mcp",
+  "source_url": "https://github.com/hjfmailbox/factorio-docs-mcp",
+  "install": "npx -y factorio-docs-mcp"
+}

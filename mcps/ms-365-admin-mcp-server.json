@@ -1,0 +1,7 @@
+{
+  "name": "ms-365-admin-mcp-server",
+  "description": "A Model Context Protocol server for Microsoft 365 administration using Graph API application permissions, enabling security monitoring, identity audits, incident response, and service health management.",
+  "source_repo": "okapi-ca/ms-365-admin-mcp-server",
+  "source_url": "https://github.com/okapi-ca/ms-365-admin-mcp-server",
+  "install": "npx -y ms-365-admin-mcp-server"
+}

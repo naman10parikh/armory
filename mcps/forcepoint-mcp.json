@@ -1,0 +1,7 @@
+{
+  "name": "forcepoint-mcp",
+  "description": "MCP server for the Forcepoint DLP 9.0 REST API. Enables incident management, policy management, and authentication via natural language, with multi-user support and persistent storage in Postgres and Vault.",
+  "source_repo": "LesterAJohn/forcepointDLP-mcp",
+  "source_url": "https://github.com/LesterAJohn/forcepointDLP-mcp",
+  "install": "npx -y forcepointDLP-mcp"
+}

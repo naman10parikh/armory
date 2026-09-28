@@ -1,0 +1,7 @@
+{
+  "name": "easybill-mcp",
+  "description": "MCP server providing access to the easybill REST API for managing invoices, customers, articles, payments, projects, and time tracking, with read-only mode by default.",
+  "source_repo": "stack74/easybill-mcp",
+  "source_url": "https://github.com/stack74/easybill-mcp",
+  "install": "npx -y easybill-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-codex-bridge",
+  "description": "Local authenticated MCP bridge enabling bounded cross-model review between Claude Code and Codex, with isolated artifacts/workspaces and secure per-role endpoints.",
+  "source_repo": "SanAntonio021/claude-codex-bridge",
+  "source_url": "https://github.com/SanAntonio021/claude-codex-bridge",
+  "install": "# git clone --depth 1 https://github.com/SanAntonio021/claude-codex-bridge\n# See source for mcpServers config block"
+}

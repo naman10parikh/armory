@@ -1,0 +1,7 @@
+{
+  "name": "universal-database-mcp",
+  "description": "A small MCP server that lets an LLM query PostgreSQL, MySQL, MariaDB, SQL Server, or SQLite databases safely — read-only, role-restricted, and with sensitive data blacked out.",
+  "source_repo": "jaynasriwala/Universal-Database-MCP",
+  "source_url": "https://github.com/jaynasriwala/Universal-Database-MCP",
+  "install": "npx -y Universal-Database-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "btrfs-snapper-mcp",
+  "description": "Enables management of BTRFS snapshots via Snapper and monitoring of BTRFS filesystem health through the Model Context Protocol.",
+  "source_repo": "danielrosehill/BTRFS-Snapper-MCP",
+  "source_url": "https://github.com/danielrosehill/BTRFS-Snapper-MCP",
+  "install": "npx -y BTRFS-Snapper-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "micro-mcp",
+  "description": "Enables building, verifying, previewing, deploying, diagnosing, updating, and rolling back full-stack Micro apps through typed local MCP tools backed by micro-cli.",
+  "source_repo": "AndreBaltazar8/micro-mcp",
+  "source_url": "https://github.com/AndreBaltazar8/micro-mcp",
+  "install": "npx -y micro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "upshift",
+  "description": "Audits a live site for machine legibility (structured data, llms.txt, titles, headings), matches a trade to one of 14 website templates with demo links, and quotes real prices. Remote Streamable HTTP on MCP spec 2026-07-28, with an eval suite in the repo.",
+  "source_repo": "samerdwykat-cmyk/upshift-mcp",
+  "source_url": "https://github.com/samerdwykat-cmyk/upshift-mcp",
+  "install": "npx -y upshift-mcp"
+}

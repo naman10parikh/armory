@@ -1,0 +1,7 @@
+{
+  "name": "mneme-memory-mcp",
+  "description": "A local-first shared memory layer for MCP-aware agents like Claude, Codex, and Hermes, enabling persistent memory across chats and clients via Markdown files and SQLite FTS.",
+  "source_repo": "ethos-zero/mneme-memory-mcp",
+  "source_url": "https://github.com/ethos-zero/mneme-memory-mcp",
+  "install": "npx -y mneme-memory-mcp"
+}

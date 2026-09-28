@@ -1,0 +1,7 @@
+{
+  "name": "skeleton-svelte-mcp",
+  "description": "A local stdio MCP server that gives coding agents searchable access to official Skeleton documentation, with tools for searching docs, retrieving sections, and getting Svelte-specific guidance.",
+  "source_repo": "mxmauro/mcp-skeleton-dev",
+  "source_url": "https://github.com/mxmauro/mcp-skeleton-dev",
+  "install": "# git clone --depth 1 https://github.com/mxmauro/mcp-skeleton-dev\n# See source for mcpServers config block"
+}

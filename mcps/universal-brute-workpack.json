@@ -1,0 +1,7 @@
+{
+  "name": "universal-brute-workpack",
+  "description": "Turns an Agent client into a local-first workbench with tools for files, grep, patching, commands, web search fallback, memory recall, and model-backed agent tasks.",
+  "source_repo": "haoyun18881-beep/universal-brute-workpack",
+  "source_url": "https://github.com/haoyun18881-beep/universal-brute-workpack",
+  "install": "# git clone --depth 1 https://github.com/haoyun18881-beep/universal-brute-workpack\n# See source for mcpServers config block"
+}

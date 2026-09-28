@@ -1,0 +1,7 @@
+{
+  "name": "calculator-mcp",
+  "description": "An MCP server that exposes 16 calculator operations as tools, enabling arithmetic, rounding, and root calculations via natural language.",
+  "source_repo": "rubensgomes/calculator-mcp",
+  "source_url": "https://github.com/rubensgomes/calculator-mcp",
+  "install": "npx -y calculator-mcp"
+}

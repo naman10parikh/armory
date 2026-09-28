@@ -1,0 +1,7 @@
+{
+  "name": "mcp-for-money-money",
+  "description": "A small MCP server that wraps MoneyMoney on macOS via AppleScript, exporting account lists and transactions (bookingDate, amount, name, purpose) as plists for invoice reconciliation, complementing a companion Apple Mail server.",
+  "source_repo": "shaack/mcp-for-money-money",
+  "source_url": "https://github.com/shaack/mcp-for-money-money",
+  "install": "# git clone --depth 1 https://github.com/shaack/mcp-for-money-money\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "universal-lsp",
+  "description": "Enables AI agents to query language intelligence over MCP, including definitions, references, symbols, and code relationship graphs across many languages, all in one native process with no external language servers.",
+  "source_repo": "developerz-ai/universal-lsp",
+  "source_url": "https://github.com/developerz-ai/universal-lsp",
+  "install": "# git clone --depth 1 https://github.com/developerz-ai/universal-lsp\n# See source for mcpServers config block"
+}

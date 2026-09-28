@@ -1,0 +1,7 @@
+{
+  "name": "planoda-mcp-server",
+  "description": "A stdio bridge that connects MCP clients to Planoda's hosted platform, enabling AI assistants to manage issues, projects, cycles, and more in a Planoda workspace.",
+  "source_repo": "Planoda/mcp-server",
+  "source_url": "https://github.com/Planoda/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Planoda/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unigrok",
+  "description": "A local Grok MCP server and gateway that every coding agent on your machine shares, self-routing across xAI's API and Grok CLI subscription with per-call cost tracking while keeping your API key server-side.",
+  "source_repo": "djtelicloud/grok-mcp-server",
+  "source_url": "https://github.com/djtelicloud/grok-mcp-server",
+  "install": "npx -y grok-mcp-server"
+}

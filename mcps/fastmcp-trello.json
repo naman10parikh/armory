@@ -1,0 +1,7 @@
+{
+  "name": "fastmcp-trello",
+  "description": "A Trello MCP server that enables AI assistants to manage boards, cards, and lists via the Model Context Protocol.",
+  "source_repo": "Jimdrews/fastmcp-trello",
+  "source_url": "https://github.com/Jimdrews/fastmcp-trello",
+  "install": "# git clone --depth 1 https://github.com/Jimdrews/fastmcp-trello\n# See source for mcpServers config block"
+}

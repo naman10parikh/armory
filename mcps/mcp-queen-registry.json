@@ -1,0 +1,7 @@
+{
+  "name": "mcp-queen-registry",
+  "description": "Crawls and grades MCP servers deterministically, providing a registry, leaderboard, and API to query server grades and submit feedback.",
+  "source_repo": "mcpqueen/mcpqueen",
+  "source_url": "https://github.com/mcpqueen/mcpqueen",
+  "install": "# git clone --depth 1 https://github.com/mcpqueen/mcpqueen\n# See source for mcpServers config block"
+}

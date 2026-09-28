@@ -1,0 +1,7 @@
+{
+  "name": "io-github-aguantar-clickhouse-dataops-mcp",
+  "description": "A DataOps-focused MCP server for ClickHouse that provides query optimization advice, pipeline latency analysis, and data quality monitoring, with read-only safety.",
+  "source_repo": "Aguantar/clickhouse-mcp-server",
+  "source_url": "https://github.com/Aguantar/clickhouse-mcp-server",
+  "install": "npx -y clickhouse-mcp-server"
+}

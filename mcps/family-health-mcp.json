@@ -1,0 +1,7 @@
+{
+  "name": "family-health-mcp",
+  "description": "MCP server that lets a hosted LLM securely read a local family health archive and deposit structured reports into an inbox, with a read-biased tool surface and strict path/token enforcement.",
+  "source_repo": "kevinave/family-health-mcp",
+  "source_url": "https://github.com/kevinave/family-health-mcp",
+  "install": "npx -y family-health-mcp"
+}

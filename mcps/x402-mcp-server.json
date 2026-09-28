@@ -1,0 +1,7 @@
+{
+  "name": "x402-mcp-server",
+  "description": "An MCP server that provides DeFi data tools (crypto prices, whale concentration, funding rates) for AI agents via the x402 protocol.",
+  "source_repo": "fernsugi/x402-mcp-server",
+  "source_url": "https://github.com/fernsugi/x402-mcp-server",
+  "install": "npx -y x402-mcp-server"
+}

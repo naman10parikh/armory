@@ -1,0 +1,7 @@
+{
+  "name": "send-to-kindle-mcp",
+  "description": "Sends document files (EPUB, PDF, DOCX, etc.) to your Kindle via email using Amazon's Send to Kindle feature.",
+  "source_repo": "BenjaminBini/send-to-kindle-mcp",
+  "source_url": "https://github.com/BenjaminBini/send-to-kindle-mcp",
+  "install": "npx -y send-to-kindle-mcp"
+}

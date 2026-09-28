@@ -1,0 +1,7 @@
+{
+  "name": "lottery-mcp",
+  "description": "Enables retrieval of Taiwan lottery data for a specified month, supporting Super Lotto 638, Lotto 649, Daily Cash 539, and Lotto 4D.",
+  "source_repo": "ishuen/lottery-mcp",
+  "source_url": "https://github.com/ishuen/lottery-mcp",
+  "install": "npx -y lottery-mcp"
+}

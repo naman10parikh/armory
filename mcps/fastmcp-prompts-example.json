@@ -1,0 +1,7 @@
+{
+  "name": "fastmcp-prompts-example",
+  "description": "A tutorial demonstrating how to build reusable, parameterized MCP prompt templates using FastMCP, including patterns for research, summarization, and code review.",
+  "source_repo": "mohamedelamraoui1/mcp-prompts-tutorial",
+  "source_url": "https://github.com/mohamedelamraoui1/mcp-prompts-tutorial",
+  "install": "# git clone --depth 1 https://github.com/mohamedelamraoui1/mcp-prompts-tutorial\n# See source for mcpServers config block"
+}

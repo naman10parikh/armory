@@ -1,0 +1,7 @@
+{
+  "name": "network-operator-mcp",
+  "description": "Enables agents to access network device management interfaces via SSH, keeping credentials on the server side. Supports both interactive terminal sessions and command execution on devices like Huawei VRP, MikroTik, and OpenWrt.",
+  "source_repo": "bowling233/network-operator-mcp",
+  "source_url": "https://github.com/bowling233/network-operator-mcp",
+  "install": "npx -y network-operator-mcp"
+}

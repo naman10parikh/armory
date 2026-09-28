@@ -1,0 +1,7 @@
+{
+  "name": "gemini-bridge-mcp",
+  "description": "MCP server for Google Gemini that does not require an API key, combining a CLI backend for Q\\&A, research, and analysis with a web UI backend for image and video generation.",
+  "source_repo": "Euamobi4582/gemini-bridge-mcp",
+  "source_url": "https://github.com/Euamobi4582/gemini-bridge-mcp",
+  "install": "npx -y gemini-bridge-mcp"
+}

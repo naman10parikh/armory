@@ -1,0 +1,7 @@
+{
+  "name": "mcp-isbn",
+  "description": "Validates and converts ISBN-10 and ISBN-13 numbers offline, checking check digits and supporting conversion between formats.",
+  "source_repo": "pipeworx-io/mcp-isbn",
+  "source_url": "https://github.com/pipeworx-io/mcp-isbn",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-isbn\n# See source for mcpServers config block"
+}

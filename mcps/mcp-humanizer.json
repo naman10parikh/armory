@@ -1,0 +1,7 @@
+{
+  "name": "mcp-humanizer",
+  "description": "Provides psycholinguistic, lexical, structural, and discourse-level rules to help writing sound human-authored. Includes reference readers and a compliance checker.",
+  "source_repo": "nicojan/humanizer-mcp",
+  "source_url": "https://github.com/nicojan/humanizer-mcp",
+  "install": "npx -y humanizer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cerebromcp",
+  "description": "MCP server for working with the Cerebro project management system. Lets Claude and other LLM clients read data from Cerebro: tasks, messages, users, attachments, and more.",
+  "source_repo": "pushkarev-alexandr/cerebro-mcp",
+  "source_url": "https://github.com/pushkarev-alexandr/cerebro-mcp",
+  "install": "npx -y cerebro-mcp"
+}

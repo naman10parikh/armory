@@ -1,0 +1,7 @@
+{
+  "name": "compliant-empty-mcp",
+  "description": "A fully valid MCP server that advertises zero capabilities, demonstrating that protocol conformance does not imply utility.",
+  "source_repo": "shinytoyrobots/compliant-empty-mcp",
+  "source_url": "https://github.com/shinytoyrobots/compliant-empty-mcp",
+  "install": "npx -y compliant-empty-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "myth",
+  "description": "Auto-generates MCP servers for Celo smart contracts, converting contract ABIs into AI-callable tools.",
+  "source_repo": "GideonNut/myth-celo-mcp",
+  "source_url": "https://github.com/GideonNut/myth-celo-mcp",
+  "install": "npx -y myth-celo-mcp"
+}

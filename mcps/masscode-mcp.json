@@ -1,0 +1,7 @@
+{
+  "name": "masscode-mcp",
+  "description": "MCP server for massCode that lets AI assistants list, read, create, and update snippets, folders, and tags via the local massCode API.",
+  "source_repo": "MDizzleZA/masscode-mcp",
+  "source_url": "https://github.com/MDizzleZA/masscode-mcp",
+  "install": "npx -y masscode-mcp"
+}

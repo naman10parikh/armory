@@ -1,0 +1,7 @@
+{
+  "name": "awaken-claude-governance",
+  "description": "Enforces Awaken Church's governance policies by scanning content, correcting language, blocking unauthorized integrations, routing projects, and flagging content for review.",
+  "source_repo": "Keystone-Infrastructure-Corp/awaken-claude-governance",
+  "source_url": "https://github.com/Keystone-Infrastructure-Corp/awaken-claude-governance",
+  "install": "# git clone --depth 1 https://github.com/Keystone-Infrastructure-Corp/awaken-claude-governance\n# See source for mcpServers config block"
+}

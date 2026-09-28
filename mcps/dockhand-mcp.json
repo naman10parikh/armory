@@ -1,0 +1,7 @@
+{
+  "name": "dockhand-mcp",
+  "description": "Exposes the Dockhand Docker management API as tools for LLMs, enabling container, stack, image, volume, and network management via natural language.",
+  "source_repo": "markhaines/dockhand-mcp",
+  "source_url": "https://github.com/markhaines/dockhand-mcp",
+  "install": "npx -y dockhand-mcp"
+}

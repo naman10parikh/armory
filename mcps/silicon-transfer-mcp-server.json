@@ -1,0 +1,7 @@
+{
+  "name": "silicon-transfer-mcp-server",
+  "description": "Enables secure file transfers (FTP/FTPS/SFTP) with built-in SHA-256 verification proofs, ensuring every upload and download is cryptographically verified for integrity.",
+  "source_repo": "SiliconAINetworks/silicon-transfer-mcp-server",
+  "source_url": "https://github.com/SiliconAINetworks/silicon-transfer-mcp-server",
+  "install": "npx -y silicon-transfer-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skillsearch-mcp",
+  "description": "Semantic skill-library search MCP server that finds relevant skills or Markdown knowledge files from local directories using embeddings, SQLite vector storage, and Reciprocal Rank Fusion.",
+  "source_repo": "thishuixinxin-create/skillsearch-mcp",
+  "source_url": "https://github.com/thishuixinxin-create/skillsearch-mcp",
+  "install": "npx -y skillsearch-mcp"
+}

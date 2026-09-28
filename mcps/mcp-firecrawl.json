@@ -1,0 +1,7 @@
+{
+  "name": "mcp-firecrawl",
+  "description": "Web scraping and search MCP server that wraps Firecrawl API for URL discovery and web search with optional content retrieval.",
+  "source_repo": "pipeworx-io/mcp-firecrawl",
+  "source_url": "https://github.com/pipeworx-io/mcp-firecrawl",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-firecrawl\n# See source for mcpServers config block"
+}

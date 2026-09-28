@@ -1,0 +1,7 @@
+{
+  "name": "invisible-playwright-mcp",
+  "description": "This MCP server exposes an anti-detect Firefox browser that passes bot-detection tests, allowing LLMs to automate web interactions with humanized clicks and fingerprint randomization.",
+  "source_repo": "LowOrbitLab/invisible-playwright-mcp",
+  "source_url": "https://github.com/LowOrbitLab/invisible-playwright-mcp",
+  "install": "npx -y invisible-playwright-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "page-fetcher-mcp",
+  "description": "An MCP server for fetching and scraping web pages, providing fetch_url and scrape_url tools.",
+  "source_repo": "jialinhome/page-fetcher-mcp",
+  "source_url": "https://github.com/jialinhome/page-fetcher-mcp",
+  "install": "npx -y page-fetcher-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "canary-mcp",
+  "description": "A visual canary that detects context rot and silent model degradation in long agent conversations by embedding externally verified checkpoints and self-reported status into each response.",
+  "source_repo": "devon-clarkk/canary-mcp",
+  "source_url": "https://github.com/devon-clarkk/canary-mcp",
+  "install": "npx -y canary-mcp"
+}

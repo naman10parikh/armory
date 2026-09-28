@@ -1,0 +1,7 @@
+{
+  "name": "vulnerable-notes-mcp",
+  "description": "A deliberately vulnerable MCP server for practicing exploitation of tool poisoning, command injection, and path traversal. Includes fixed versions and an agent demo to reproduce the issues in a controlled environment.",
+  "source_repo": "rockysec/vulnerable-notes-mcp",
+  "source_url": "https://github.com/rockysec/vulnerable-notes-mcp",
+  "install": "npx -y vulnerable-notes-mcp"
+}

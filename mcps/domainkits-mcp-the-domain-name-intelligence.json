@@ -1,0 +1,7 @@
+{
+  "name": "domainkits-mcp-the-domain-name-intelligence",
+  "description": "# DomainKits MCP Domain MCP server for AI assistants. DomainKits MCP connects Claude, GPT, Gemini, and other AI assistants to domain data, turning them into domain agents that can search, analyze, and act on market data through natural conversation. ## What is this? Check availability with pricing.",
+  "source_repo": "",
+  "source_url": "https://domainkits.com/",
+  "install": "# git clone --depth 1 https://domainkits.com/\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fliq-mcp",
+  "description": "Lets AI agents schedule and manage HTTP jobs, cron schedules, rate-limited buffers, and alert channels via natural language, backed by Fliq's Postgres-native job scheduler.",
+  "source_repo": "fliq-sh/mcp",
+  "source_url": "https://github.com/fliq-sh/mcp",
+  "install": "# git clone --depth 1 https://github.com/fliq-sh/mcp\n# See source for mcpServers config block"
+}

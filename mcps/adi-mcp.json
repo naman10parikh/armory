@@ -1,0 +1,7 @@
+{
+  "name": "adi-mcp",
+  "description": "A remote MCP server that exposes tools from many services (X, LinkedIn, GitHub, Gmail, Notion, etc.) through a single endpoint on Cloudflare Workers, enabling unified access to third-party APIs via natural language.",
+  "source_repo": "adityasingh2929/adi-mcp",
+  "source_url": "https://github.com/adityasingh2929/adi-mcp",
+  "install": "npx -y adi-mcp"
+}

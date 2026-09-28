@@ -1,0 +1,7 @@
+{
+  "name": "moonbridge",
+  "description": "Enables compatible MCP clients to invoke Kimi Code for second opinions, code reviews, and delegated coding tasks with structured results.",
+  "source_repo": "briandconnelly/moonbridge",
+  "source_url": "https://github.com/briandconnelly/moonbridge",
+  "install": "# git clone --depth 1 https://github.com/briandconnelly/moonbridge\n# See source for mcpServers config block"
+}

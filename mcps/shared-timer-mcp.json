@@ -1,0 +1,7 @@
+{
+  "name": "shared-timer-mcp",
+  "description": "This MCP server enables Claude to create and control shared timers, polls, and quizzes on the '모두의 타이머' platform.",
+  "source_repo": "sihyoung0624/moduui-timer-mcp",
+  "source_url": "https://github.com/sihyoung0624/moduui-timer-mcp",
+  "install": "npx -y moduui-timer-mcp"
+}

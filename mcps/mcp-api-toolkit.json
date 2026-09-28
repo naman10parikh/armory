@@ -1,0 +1,7 @@
+{
+  "name": "mcp-api-toolkit",
+  "description": "Comprehensive API development and testing MCP server for Claude Code. Integrates OpenAPI parsing, testing, SDK generation, and documentation generation into Claude workflows.",
+  "source_repo": "anyrxo/mcp-api-toolkit",
+  "source_url": "https://github.com/anyrxo/mcp-api-toolkit",
+  "install": "# git clone --depth 1 https://github.com/anyrxo/mcp-api-toolkit\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tjsc-pedido-de-certid-o",
+  "description": "Enables querying and requesting official certificates from the Tribunal de Justiça de Santa Catarina (TJSC) via a read-only tool, using prepaid credits and MCP over HTTP.",
+  "source_repo": "mcp-dir/tribunal_tjsc_pedido_certidao-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tjsc_pedido_certidao-mcp",
+  "install": "npx -y tribunal_tjsc_pedido_certidao-mcp"
+}

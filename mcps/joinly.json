@@ -1,0 +1,7 @@
+{
+  "name": "joinly",
+  "description": "Enables AI agents to join and actively participate in video calls, providing real-time interaction and meeting tools through an MCP server.",
+  "source_repo": "joinly-ai/joinly",
+  "source_url": "https://github.com/joinly-ai/joinly",
+  "install": "# git clone --depth 1 https://github.com/joinly-ai/joinly\n# See source for mcpServers config block"
+}

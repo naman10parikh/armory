@@ -1,0 +1,7 @@
+{
+  "name": "orcha-mcp",
+  "description": "Provides a unified context layer for AI agents, enabling ranked search, file management, context bundles, database queries, and connected source access through MCP, all scoped to organizational permissions with citations.",
+  "source_repo": "westonhancock/orcha-mcp",
+  "source_url": "https://github.com/westonhancock/orcha-mcp",
+  "install": "npx -y orcha-mcp"
+}

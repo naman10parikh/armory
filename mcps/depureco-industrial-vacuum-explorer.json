@@ -1,0 +1,7 @@
+{
+  "name": "depureco-industrial-vacuum-explorer",
+  "description": "Remote MCP Server for industrial vacuum cleaner configuration. Query 150+ products across 24 industrial sectors with full ATEX certification data, technical specs, and accessory compatibility. No authentication required.",
+  "source_repo": "depurecoindustrialvacuums-boop/industrial-vacuum-explorer-mcp",
+  "source_url": "https://github.com/depurecoindustrialvacuums-boop/industrial-vacuum-explorer-mcp",
+  "install": "npx -y industrial-vacuum-explorer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aipickmygame-mcp-server",
+  "description": "Syncs Epic/GOG/Steam game libraries with Chinese metadata, enabling AI agents to recommend games through natural language conversation.",
+  "source_repo": "Hsia97/AIPickMyGame",
+  "source_url": "https://github.com/Hsia97/AIPickMyGame",
+  "install": "# git clone --depth 1 https://github.com/Hsia97/AIPickMyGame\n# See source for mcpServers config block"
+}

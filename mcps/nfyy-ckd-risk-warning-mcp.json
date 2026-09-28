@@ -1,0 +1,7 @@
+{
+  "name": "nfyy-ckd-risk-warning-mcp",
+  "description": "Mock MCP server for pediatric CKD risk warning, enabling patient biochemical trend retrieval, deterministic risk rule evaluation, structured alert triggering, and clinical SOP lookup using simulated data.",
+  "source_repo": "rpint/nfyy-ckd-risk-warning-mcp",
+  "source_url": "https://github.com/rpint/nfyy-ckd-risk-warning-mcp",
+  "install": "npx -y nfyy-ckd-risk-warning-mcp"
+}

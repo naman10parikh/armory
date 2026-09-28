@@ -1,0 +1,7 @@
+{
+  "name": "agentic-product-protocol-mcp-server",
+  "description": "Klarna-style product discovery for AI shopping agents. Makes product catalogs machine-readable so AI agents can search, compare, and purchase products programmatically.",
+  "source_repo": "AiAgentKarl/agentic-product-protocol-mcp",
+  "source_url": "https://github.com/AiAgentKarl/agentic-product-protocol-mcp",
+  "install": "npx -y agentic-product-protocol-mcp"
+}

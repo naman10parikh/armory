@@ -1,0 +1,7 @@
+{
+  "name": "web-research-mcp",
+  "description": "Enables AI agents to search the web, fetch pages, and synthesize research through three tools: web_search, fetch_page, and research_topic, all in a single pay-per-use API call.",
+  "source_repo": "idapixl/idapixl-web-research-mcp",
+  "source_url": "https://github.com/idapixl/idapixl-web-research-mcp",
+  "install": "npx -y idapixl-web-research-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vue-ts-lsp",
+  "description": "Self-contained MCP server providing type-aware code intelligence for TypeScript, JavaScript, and Vue files, exposing tools like hover, definition, references, and diagnostics to Claude Code without requiring global language server installations.",
+  "source_repo": "enc0ded/vue-ts-lsp-mcp",
+  "source_url": "https://github.com/enc0ded/vue-ts-lsp-mcp",
+  "install": "npx -y vue-ts-lsp-mcp"
+}

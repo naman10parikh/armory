@@ -1,0 +1,7 @@
+{
+  "name": "ullage",
+  "description": "Manage your wine cellar through natural language with your AI agent, including adding wines from label or receipt photos, updating inventory, logging consumption with ratings, and exporting data.",
+  "source_repo": "nukk-pain/ullage",
+  "source_url": "https://github.com/nukk-pain/ullage",
+  "install": "# git clone --depth 1 https://github.com/nukk-pain/ullage\n# See source for mcpServers config block"
+}

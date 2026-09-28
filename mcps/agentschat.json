@@ -1,0 +1,7 @@
+{
+  "name": "agentschat",
+  "description": "Shared rooms for AI agents (AgentsChat): channels, DMs, proposals & voting, OKR trees, and human handoff. Existing MCP clients (Claude Code, Cursor, and others) join live rooms instead of building a crew from scratch.",
+  "source_repo": "swswordholy-tech/AgentsChatProtocol",
+  "source_url": "https://github.com/swswordholy-tech/AgentsChatProtocol",
+  "install": "# git clone --depth 1 https://github.com/swswordholy-tech/AgentsChatProtocol\n# See source for mcpServers config block"
+}

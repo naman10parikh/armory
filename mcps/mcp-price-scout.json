@@ -1,0 +1,7 @@
+{
+  "name": "mcp-price-scout",
+  "description": "Enables scraping LLM inference pricing from websites like Cloudrift, DeepInfra, Fireworks, and Groq, storing results in SQLite for cost comparison.",
+  "source_repo": "MissYueshuang/mcp-price-scout",
+  "source_url": "https://github.com/MissYueshuang/mcp-price-scout",
+  "install": "# git clone --depth 1 https://github.com/MissYueshuang/mcp-price-scout\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kagi-translate-mcp-server",
+  "description": "An MCP server that integrates Kagi Translate as tools for translation, URL translation, and proofreading, requiring a Kagi API key.",
+  "source_repo": "subhangadirli/kagi-translate-mcp",
+  "source_url": "https://github.com/subhangadirli/kagi-translate-mcp",
+  "install": "npx -y kagi-translate-mcp"
+}

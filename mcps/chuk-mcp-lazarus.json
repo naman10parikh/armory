@@ -1,0 +1,7 @@
+{
+  "name": "chuk-mcp-lazarus",
+  "description": "Mechanistic interpretability MCP server wrapping chuk-lazarus, enabling model loading, activation extraction, probe training, steering, and ablation via MCP tools.",
+  "source_repo": "chrishayuk/chuk-mcp-lazarus",
+  "source_url": "https://github.com/chrishayuk/chuk-mcp-lazarus",
+  "install": "# git clone --depth 1 https://github.com/chrishayuk/chuk-mcp-lazarus\n# See source for mcpServers config block"
+}

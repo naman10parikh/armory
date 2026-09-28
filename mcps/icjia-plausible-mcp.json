@@ -1,0 +1,7 @@
+{
+  "name": "icjia-plausible-mcp",
+  "description": "Enables querying a self-hosted Plausible Analytics instance to retrieve compressed analytics data such as overview stats, top pages, traffic sources, and trends, with computed deltas and human-readable filters.",
+  "source_repo": "ICJIA/plausible-mcp",
+  "source_url": "https://github.com/ICJIA/plausible-mcp",
+  "install": "npx -y plausible-mcp"
+}

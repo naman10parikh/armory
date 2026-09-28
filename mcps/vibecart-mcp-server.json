@@ -1,0 +1,7 @@
+{
+  "name": "vibecart-mcp-server",
+  "description": "Enables AI agents to discover and interact with a merchant's commerce layer, including product listing and checkout creation, while payments settle directly to the merchant's Stripe account.",
+  "source_repo": "runjohnray2-lgtm/vibecart",
+  "source_url": "https://github.com/runjohnray2-lgtm/vibecart",
+  "install": "# git clone --depth 1 https://github.com/runjohnray2-lgtm/vibecart\n# See source for mcpServers config block"
+}

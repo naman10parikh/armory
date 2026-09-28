@@ -1,0 +1,7 @@
+{
+  "name": "cloudmusic-desktop-mcp",
+  "description": "Controls the official NetEase Cloud Music desktop client on Windows, enabling AI to search, play, manage queues, and adjust playback settings via a local control channel.",
+  "source_repo": "Seraph310/cloudmusic-desktop-mcp",
+  "source_url": "https://github.com/Seraph310/cloudmusic-desktop-mcp",
+  "install": "npx -y cloudmusic-desktop-mcp"
+}

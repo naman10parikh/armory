@@ -1,0 +1,7 @@
+{
+  "name": "meta-mcp-manager",
+  "description": "Federates multiple MCP servers into a single endpoint with search, call, and admin tools, plus inbound/outbound OAuth.",
+  "source_repo": "arthurkatcher/meta-mcp-manager",
+  "source_url": "https://github.com/arthurkatcher/meta-mcp-manager",
+  "install": "# git clone --depth 1 https://github.com/arthurkatcher/meta-mcp-manager\n# See source for mcpServers config block"
+}

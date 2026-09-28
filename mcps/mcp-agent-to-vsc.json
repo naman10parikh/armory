@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent-to-vsc",
+  "description": "Local MCP server that connects VS Code agents like Cline to OpenAI and provides workspace file tools (read, write, list) with restricted file access.",
+  "source_repo": "relr-prog/mcp-agent-to-vsc",
+  "source_url": "https://github.com/relr-prog/mcp-agent-to-vsc",
+  "install": "# git clone --depth 1 https://github.com/relr-prog/mcp-agent-to-vsc\n# See source for mcpServers config block"
+}

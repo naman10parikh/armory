@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-siebel",
+  "description": "Enables AI models to interact with Oracle Siebel CRM via its REST API, supporting account, contact, opportunity retrieval, activity creation, record updates, and custom queries.",
+  "source_repo": "Jeretucu/mcp-server-siebel",
+  "source_url": "https://github.com/Jeretucu/mcp-server-siebel",
+  "install": "# git clone --depth 1 https://github.com/Jeretucu/mcp-server-siebel\n# See source for mcpServers config block"
+}

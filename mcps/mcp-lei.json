@@ -1,0 +1,7 @@
+{
+  "name": "mcp-lei",
+  "description": "Servidor MCP para busca e normalização de citações de leis brasileiras em arquivos de texto locais.",
+  "source_repo": "PedroGiudice/MCP-LEI",
+  "source_url": "https://github.com/PedroGiudice/MCP-LEI",
+  "install": "# git clone --depth 1 https://github.com/PedroGiudice/MCP-LEI\n# See source for mcpServers config block"
+}

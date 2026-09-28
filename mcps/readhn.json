@@ -1,0 +1,7 @@
+{
+  "name": "readhn",
+  "description": "MCP server for Hacker News that lets AI agents discover ranked stories, find domain experts, and get explainable quality signals for every result.",
+  "source_repo": "xodn348/readhn",
+  "source_url": "https://github.com/xodn348/readhn",
+  "install": "# git clone --depth 1 https://github.com/xodn348/readhn\n# See source for mcpServers config block"
+}

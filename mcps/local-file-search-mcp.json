@@ -1,0 +1,7 @@
+{
+  "name": "local-file-search-mcp",
+  "description": "Provides tools for searching and reading local files, supporting metadata filters, PDF full-text keyword search, and sandboxed file access.",
+  "source_repo": "dchatpar/mcp-file-agent",
+  "source_url": "https://github.com/dchatpar/mcp-file-agent",
+  "install": "# git clone --depth 1 https://github.com/dchatpar/mcp-file-agent\n# See source for mcpServers config block"
+}

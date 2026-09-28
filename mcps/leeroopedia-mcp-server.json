@@ -1,0 +1,7 @@
+{
+  "name": "leeroopedia-mcp-server",
+  "description": "MCP server that turns AI coding agents into ML/AI experts by providing best-practice knowledge for fine-tuning, inference optimization, agent building, and more.",
+  "source_repo": "Leeroo-AI/leeroopedia-mcp",
+  "source_url": "https://github.com/Leeroo-AI/leeroopedia-mcp",
+  "install": "npx -y leeroopedia-mcp"
+}

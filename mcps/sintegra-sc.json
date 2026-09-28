@@ -1,0 +1,7 @@
+{
+  "name": "sintegra-sc",
+  "description": "Consulta em fonte oficial do SINTEGRA: SC via MCP, permitindo consultar dados com uma ferramenta somente leitura e pagamento por uso.",
+  "source_repo": "mcp-dir/sintegra_sc-mcp",
+  "source_url": "https://github.com/mcp-dir/sintegra_sc-mcp",
+  "install": "npx -y sintegra_sc-mcp"
+}

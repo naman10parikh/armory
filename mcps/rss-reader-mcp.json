@@ -1,0 +1,7 @@
+{
+  "name": "rss-reader-mcp",
+  "description": "An MCP server for RSS feed aggregation and article content extraction, allowing users to subscribe to feeds and extract full article content as Markdown.",
+  "source_repo": "kwp-lab/rss-reader-mcp",
+  "source_url": "https://github.com/kwp-lab/rss-reader-mcp",
+  "install": "npx -y rss-reader-mcp"
+}

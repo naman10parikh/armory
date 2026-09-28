@@ -1,0 +1,7 @@
+{
+  "name": "rasterly-mcp",
+  "description": "Enables AI agents to read, screenshot, or convert web pages to PDF using a real headless browser, turning any URL into clean Markdown, a visual image, or a print-ready document.",
+  "source_repo": "jhonychain/rasterly-mcp",
+  "source_url": "https://github.com/jhonychain/rasterly-mcp",
+  "install": "npx -y rasterly-mcp"
+}

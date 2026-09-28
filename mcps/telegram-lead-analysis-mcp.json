@@ -1,0 +1,7 @@
+{
+  "name": "telegram-lead-analysis-mcp",
+  "description": "A read-only MCP server that exposes Telegram lead conversations to Claude for sales analysis, enabling lead summary, intent, stage, and follow-up insights.",
+  "source_repo": "zeropennyads/Telegram-MCP",
+  "source_url": "https://github.com/zeropennyads/Telegram-MCP",
+  "install": "npx -y Telegram-MCP"
+}

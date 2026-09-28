@@ -1,0 +1,7 @@
+{
+  "name": "htb-hosts",
+  "description": "Enables sudo-free management of /etc/hosts entries for Hack The Box and lab work, with a zero-dependency MCP server for AI coding agents.",
+  "source_repo": "sresarehumantoo/htb-hosts",
+  "source_url": "https://github.com/sresarehumantoo/htb-hosts",
+  "install": "# git clone --depth 1 https://github.com/sresarehumantoo/htb-hosts\n# See source for mcpServers config block"
+}

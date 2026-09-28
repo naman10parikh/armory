@@ -1,0 +1,7 @@
+{
+  "name": "demo-tools",
+  "description": "A minimal MCP server exposing four trivial tools: arithmetic calculation, current time lookup, and in-memory note storage. It serves as a teaching example to demonstrate the complete MCP request/response cycle with a Gemini agent.",
+  "source_repo": "mallahim01/MCP-server",
+  "source_url": "https://github.com/mallahim01/MCP-server",
+  "install": "# git clone --depth 1 https://github.com/mallahim01/MCP-server\n# See source for mcpServers config block"
+}

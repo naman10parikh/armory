@@ -1,0 +1,7 @@
+{
+  "name": "elyan-staking-mcp-server",
+  "description": "Enables AI agents to stake tokens for skill acquisition and verify staking verdicts via the Elyan Staking SDK.",
+  "source_repo": "nkar123412-hub/elyan-mcp-server",
+  "source_url": "https://github.com/nkar123412-hub/elyan-mcp-server",
+  "install": "npx -y elyan-mcp-server"
+}

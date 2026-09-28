@@ -1,0 +1,7 @@
+{
+  "name": "devmcp",
+  "description": "A single-file MCP server that turns any folder into a workspace for AI agents, enabling file operations, code search, shell commands, background jobs, HTTP testing, headless browsing, PDF extraction, and screen capture.",
+  "source_repo": "git-lakshy/DevMcp",
+  "source_url": "https://github.com/git-lakshy/DevMcp",
+  "install": "# git clone --depth 1 https://github.com/git-lakshy/DevMcp\n# See source for mcpServers config block"
+}

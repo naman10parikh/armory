@@ -1,0 +1,7 @@
+{
+  "name": "askme-cli",
+  "description": "An MCP server that provides a user confirmation interface for AI assistants via terminal.",
+  "source_repo": "rhyspenn/askme-cli",
+  "source_url": "https://github.com/rhyspenn/askme-cli",
+  "install": "# git clone --depth 1 https://github.com/rhyspenn/askme-cli\n# See source for mcpServers config block"
+}

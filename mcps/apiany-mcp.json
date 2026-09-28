@@ -1,0 +1,7 @@
+{
+  "name": "apiany-mcp",
+  "description": "Enables discovery of public AI models with pricing, documentation context, and OpenAI-compatible integration examples. Supports both read-only queries and paid async media generation tasks.",
+  "source_repo": "ailingqu/apiany-mcp",
+  "source_url": "https://github.com/ailingqu/apiany-mcp",
+  "install": "npx -y apiany-mcp"
+}

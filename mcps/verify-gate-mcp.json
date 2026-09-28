@@ -1,0 +1,7 @@
+{
+  "name": "verify-gate-mcp",
+  "description": "Enforces that tasks are created with criteria, claimed by one agent with evidence, and verified by a different agent, preventing self-verification and ensuring independent validation.",
+  "source_repo": "Monkeyattack/verify-gate-mcp",
+  "source_url": "https://github.com/Monkeyattack/verify-gate-mcp",
+  "install": "npx -y verify-gate-mcp"
+}

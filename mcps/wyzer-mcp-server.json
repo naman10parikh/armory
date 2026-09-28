@@ -1,0 +1,7 @@
+{
+  "name": "wyzer-mcp-server",
+  "description": "MCP server for controlling Wyze smart home devices (plugs, switches, thermostats, air purifiers) via Claude Desktop or Home Assistant.",
+  "source_repo": "caseman72/wyzer-mcp",
+  "source_url": "https://github.com/caseman72/wyzer-mcp",
+  "install": "npx -y wyzer-mcp"
+}

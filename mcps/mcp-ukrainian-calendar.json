@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ukrainian-calendar",
+  "description": "Provides access to Ukrainian pagan calendar with holidays, deities, folk wisdom, and birth charms, enabling users to query today's holidays, upcoming events, deity details, and personal birth charms.",
+  "source_repo": "ChuprinaDaria/mcp-ukrainian-calendar",
+  "source_url": "https://github.com/ChuprinaDaria/mcp-ukrainian-calendar",
+  "install": "# git clone --depth 1 https://github.com/ChuprinaDaria/mcp-ukrainian-calendar\n# See source for mcpServers config block"
+}

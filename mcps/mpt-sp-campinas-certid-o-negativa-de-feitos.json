@@ -1,0 +1,7 @@
+{
+  "name": "mpt-sp-campinas-certid-o-negativa-de-feitos",
+  "description": "Consulta em fonte oficial a Certidão Negativa de Feitos do MPT SP Campinas, com ferramenta de leitura para verificação de pendências judiciais.",
+  "source_repo": "mcp-dir/mpt_sp_campinas_cnf-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt_sp_campinas_cnf-mcp",
+  "install": "npx -y mpt_sp_campinas_cnf-mcp"
+}

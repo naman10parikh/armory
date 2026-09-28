@@ -1,0 +1,7 @@
+{
+  "name": "demandscope",
+  "description": "MCP server that provides demand-signal scanning tools from GitHub, Hacker News, npm, and PyPI to validate digital-product and dev-tool ideas. Enables agents to query repo signals, trends, and download counts via stdio JSON-RPC.",
+  "source_repo": "baobabcat/demandscope",
+  "source_url": "https://github.com/baobabcat/demandscope",
+  "install": "# git clone --depth 1 https://github.com/baobabcat/demandscope\n# See source for mcpServers config block"
+}

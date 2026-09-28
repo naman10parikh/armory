@@ -1,0 +1,7 @@
+{
+  "name": "axonn-mcp",
+  "description": "MCP server for Axonn, enabling access to US energy regulatory filings, real-time ISO prices, and market data.",
+  "source_repo": "beee003/axonn-mcp",
+  "source_url": "https://github.com/beee003/axonn-mcp",
+  "install": "npx -y axonn-mcp"
+}

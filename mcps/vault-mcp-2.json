@@ -1,0 +1,7 @@
+{
+  "name": "vault-mcp-2",
+  "description": "Authenticated remote MCP server that exposes a private GitHub-hosted Obsidian vault to Claude, enabling list, read, write, and search operations on notes.",
+  "source_repo": "wakita181009/vault-mcp",
+  "source_url": "https://github.com/wakita181009/vault-mcp",
+  "install": "npx -y vault-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wealth-engine",
+  "description": "A personal finance and business economics MCP server that provides math-backed answers to financial questions, including investment growth, loan amortization, debt payoff strategies, and tax estimation, all computed locally without API keys or network calls.",
+  "source_repo": "Jaume9/wealth-engine-mcp",
+  "source_url": "https://github.com/Jaume9/wealth-engine-mcp",
+  "install": "npx -y wealth-engine-mcp"
+}

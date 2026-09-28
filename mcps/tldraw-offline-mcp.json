@@ -1,0 +1,7 @@
+{
+  "name": "tldraw-offline-mcp",
+  "description": "Enables remote agents to control tldraw Desktop's Canvas API, manage documents, scripts, assets, and take screenshots.",
+  "source_repo": "er1chi/tldraw-mcp",
+  "source_url": "https://github.com/er1chi/tldraw-mcp",
+  "install": "npx -y tldraw-mcp"
+}

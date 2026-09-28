@@ -1,0 +1,7 @@
+{
+  "name": "core-context",
+  "description": "A local MCP server that semantically searches Markdown context files and extension context links, providing tools for context_search, context_read, and context_status.",
+  "source_repo": "zotoio/cursor-symlink-ext-context-mcp",
+  "source_url": "https://github.com/zotoio/cursor-symlink-ext-context-mcp",
+  "install": "npx -y cursor-symlink-ext-context-mcp"
+}

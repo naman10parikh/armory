@@ -1,0 +1,7 @@
+{
+  "name": "wlanpi-mcp",
+  "description": "An MCP server that exposes WLAN Pi capabilities like device info, Wi-Fi scanning, service management, and VLANs to AI assistants via the wlanpi-core REST API.",
+  "source_repo": "WLAN-Pi/wlanpi-mcp",
+  "source_url": "https://github.com/WLAN-Pi/wlanpi-mcp",
+  "install": "npx -y wlanpi-mcp"
+}

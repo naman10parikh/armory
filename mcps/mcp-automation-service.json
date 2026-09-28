@@ -1,0 +1,7 @@
+{
+  "name": "mcp-automation-service",
+  "description": "A production-grade backend that lets LLMs safely operate Gmail, Google Drive, and Calendar through the Model Context Protocol.",
+  "source_repo": "shukurlukerem/MCP",
+  "source_url": "https://github.com/shukurlukerem/MCP",
+  "install": "# git clone --depth 1 https://github.com/shukurlukerem/MCP\n# See source for mcpServers config block"
+}

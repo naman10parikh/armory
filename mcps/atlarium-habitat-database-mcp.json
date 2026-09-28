@@ -1,0 +1,7 @@
+{
+  "name": "atlarium-habitat-database-mcp",
+  "description": "Public read-only MCP server providing structured access to Atlarium habitat data and advisory functions for aquariums, terrariums, and related systems.",
+  "source_repo": "techgardeners/atlarium-mcp",
+  "source_url": "https://github.com/techgardeners/atlarium-mcp",
+  "install": "npx -y atlarium-mcp"
+}

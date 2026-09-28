@@ -1,0 +1,7 @@
+{
+  "name": "tokendiet-mcp",
+  "description": "Compresses file reads, command output, search hits, and fetched web pages before entering agent context to reduce token usage, using deterministic transforms and a safety verifier.",
+  "source_repo": "DukeDeSouth/tokendiet-mcp",
+  "source_url": "https://github.com/DukeDeSouth/tokendiet-mcp",
+  "install": "npx -y tokendiet-mcp"
+}

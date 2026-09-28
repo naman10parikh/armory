@@ -1,0 +1,7 @@
+{
+  "name": "bullet-mcp",
+  "description": "MCP server for evidence-based bullet point summarization guidance. Validates and improves bullet lists using scientifically-validated principles from cognitive psychology and UX research.",
+  "source_repo": "nikkoxgonzales/bullet-mcp",
+  "source_url": "https://github.com/nikkoxgonzales/bullet-mcp",
+  "install": "npx -y bullet-mcp"
+}

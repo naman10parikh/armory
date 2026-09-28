@@ -1,0 +1,7 @@
+{
+  "name": "minimax-vision-mcp-server",
+  "description": "MCP server for MiniMax vision models, enabling image analysis through the OpenAI-compatible chat completions endpoint. Supports local image files and remote URLs, with configurable temperature, max tokens, and adaptive thinking.",
+  "source_repo": "kira4094/minimax-vision-mcp-server",
+  "source_url": "https://github.com/kira4094/minimax-vision-mcp-server",
+  "install": "npx -y minimax-vision-mcp-server"
+}

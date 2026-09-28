@@ -1,0 +1,7 @@
+{
+  "name": "mcp-git-historian",
+  "description": "MCP server for git archaeology — churn hotspots, blame summaries, bus factor, commit forensics and file history over any local repository.",
+  "source_repo": "AleBrito124356/mcp-git-historian",
+  "source_url": "https://github.com/AleBrito124356/mcp-git-historian",
+  "install": "# git clone --depth 1 https://github.com/AleBrito124356/mcp-git-historian\n# See source for mcpServers config block"
+}

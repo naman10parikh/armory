@@ -1,0 +1,7 @@
+{
+  "name": "bncc-mcp",
+  "description": "MCP server that exposes skills from the Brazilian National Common Curricular Base (BNCC) with thematic units, knowledge objects, and prioritization layer from Mapa de Foco, enabling lookup, search, listing, and statistics of educational skills.",
+  "source_repo": "dfdb76/bncc-mcp",
+  "source_url": "https://github.com/dfdb76/bncc-mcp",
+  "install": "npx -y bncc-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "legalsearch",
+  "description": "Grounds external agents in public Indian judgments and statutes through MCP, enabling legal search and bounded document packets without requiring the full Roop platform.",
+  "source_repo": "Roop-World/LegalSearch",
+  "source_url": "https://github.com/Roop-World/LegalSearch",
+  "install": "# git clone --depth 1 https://github.com/Roop-World/LegalSearch\n# See source for mcpServers config block"
+}

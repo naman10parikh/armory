@@ -1,0 +1,7 @@
+{
+  "name": "softauto",
+  "description": "Enables AI agents to perform deterministic Windows desktop and browser automation through MCP, using pre-validated UI Automation and DOM locators for fast, stable execution of ERP and business workflows.",
+  "source_repo": "guangfubill-crypto/SoftAuto-MCP",
+  "source_url": "https://github.com/guangfubill-crypto/SoftAuto-MCP",
+  "install": "npx -y SoftAuto-MCP"
+}

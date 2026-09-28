@@ -1,0 +1,7 @@
+{
+  "name": "project-explorer-mcp",
+  "description": "Analyzes Python project structure by exploring directory trees, extracting outlines from Python and Markdown files, and inspecting OpenAPI specifications.",
+  "source_repo": "l0kifs/project-explorer-mcp",
+  "source_url": "https://github.com/l0kifs/project-explorer-mcp",
+  "install": "npx -y project-explorer-mcp"
+}

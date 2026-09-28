@@ -1,0 +1,7 @@
+{
+  "name": "lodd-mcp-server",
+  "description": "First-party web analytics MCP server for AI agents, providing 42 tools to query traffic, events, funnels, conversions, sources, and performance data.",
+  "source_repo": "hholen/lodd-mcp-server",
+  "source_url": "https://github.com/hholen/lodd-mcp-server",
+  "install": "npx -y lodd-mcp-server"
+}

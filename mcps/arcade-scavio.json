@@ -1,0 +1,7 @@
+{
+  "name": "arcade-scavio",
+  "description": "Enables real-time search across Google, News, Reddit, YouTube, and Amazon using Scavio's unified API, with secure key injection for Arcade agents.",
+  "source_repo": "scavio-ai/arcade-scavio",
+  "source_url": "https://github.com/scavio-ai/arcade-scavio",
+  "install": "# git clone --depth 1 https://github.com/scavio-ai/arcade-scavio\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "image-generation-mcp",
+  "description": "Enables text-to-image generation using the api.airforce API, with a generate_image tool and model discovery resource.",
+  "source_repo": "PurinNyova/airforce-image-mcp",
+  "source_url": "https://github.com/PurinNyova/airforce-image-mcp",
+  "install": "npx -y airforce-image-mcp"
+}

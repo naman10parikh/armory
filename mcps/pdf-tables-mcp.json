@@ -1,0 +1,7 @@
+{
+  "name": "pdf-tables-mcp",
+  "description": "Enables agents to extract clean structured JSON tables from any PDF with per-cell citations to the source page.",
+  "source_repo": "mehtaphysical13/pdf-tables-mcp",
+  "source_url": "https://github.com/mehtaphysical13/pdf-tables-mcp",
+  "install": "npx -y pdf-tables-mcp"
+}

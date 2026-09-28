@@ -1,0 +1,7 @@
+{
+  "name": "anythingllm-control-plane-mcp-server",
+  "description": "Enables managing and controlling AnythingLLM instances through MCP, providing tools to list, create, and delete workspaces, retrieve system environment settings, and get vector counts.",
+  "source_repo": "TheNovaNodes/anythingllm-mcp-control",
+  "source_url": "https://github.com/TheNovaNodes/anythingllm-mcp-control",
+  "install": "# git clone --depth 1 https://github.com/TheNovaNodes/anythingllm-mcp-control\n# See source for mcpServers config block"
+}

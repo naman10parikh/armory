@@ -1,0 +1,7 @@
+{
+  "name": "googlenews-mcp",
+  "description": "Enables AI agents to read Google News without internet access, providing tools for top headlines, topic search, and news searches.",
+  "source_repo": "RobertDWhite/googlenews-mcp",
+  "source_url": "https://github.com/RobertDWhite/googlenews-mcp",
+  "install": "npx -y googlenews-mcp"
+}

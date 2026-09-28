@@ -1,0 +1,7 @@
+{
+  "name": "shutter-cull-mcp",
+  "description": "Enables AI agents to cull photo shoots by evaluating sharpness, eye-openness, and aesthetics, and writing reversible XMP sidecars for Lightroom, with strict safety gates to prevent unauthorized writes.",
+  "source_repo": "keivanmalhani/shutter-cull-mcp",
+  "source_url": "https://github.com/keivanmalhani/shutter-cull-mcp",
+  "install": "npx -y shutter-cull-mcp"
+}

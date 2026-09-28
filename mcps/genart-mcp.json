@@ -1,0 +1,7 @@
+{
+  "name": "genart-mcp",
+  "description": "MCP server for creating and manipulating generative art with p5.js, Three.js, GLSL, Canvas2D, and SVG, featuring workspace management, parameter control, and screenshot capture.",
+  "source_repo": "genart-dev/mcp-server",
+  "source_url": "https://github.com/genart-dev/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/genart-dev/mcp-server\n# See source for mcpServers config block"
+}

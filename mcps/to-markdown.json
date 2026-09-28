@@ -1,0 +1,7 @@
+{
+  "name": "to-markdown",
+  "description": "MCP server that converts PDF, video, web, and audio inputs into structured Markdown notes with support for checkpointing, batch processing, and Obsidian integration.",
+  "source_repo": "xincen0725/to-Markdown",
+  "source_url": "https://github.com/xincen0725/to-Markdown",
+  "install": "# git clone --depth 1 https://github.com/xincen0725/to-Markdown\n# See source for mcpServers config block"
+}

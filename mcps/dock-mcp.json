@@ -1,0 +1,7 @@
+{
+  "name": "dock-mcp",
+  "description": "Conecta sua conta Dock a agentes de IA via Open Finance Brasil para consultar saldos, extratos, faturas de cartão e investimentos em linguagem natural, com segurança e apenas leitura.",
+  "source_repo": "mcp-dir/dock-mcp",
+  "source_url": "https://github.com/mcp-dir/dock-mcp",
+  "install": "npx -y dock-mcp"
+}

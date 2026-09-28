@@ -1,0 +1,7 @@
+{
+  "name": "gunio-mcp",
+  "description": "A local-only MCP server that reads gun.io freelancer data (interviews, applications, jobs, profile) using your browser session, with optional gated writes for confirmable actions.",
+  "source_repo": "InfiniteRoomLabs/gunio-mcp",
+  "source_url": "https://github.com/InfiniteRoomLabs/gunio-mcp",
+  "install": "npx -y gunio-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-to-telegram-mcp",
+  "description": "Publish reliable, duplicate-free Telegram posts from ChatGPT — manually or as part of a scheduled workflow.",
+  "source_repo": "d8rt8v/ChatGPT-to-Telegram-MCP",
+  "source_url": "https://github.com/d8rt8v/ChatGPT-to-Telegram-MCP",
+  "install": "npx -y ChatGPT-to-Telegram-MCP"
+}

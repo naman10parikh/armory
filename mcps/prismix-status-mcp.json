@@ -1,0 +1,7 @@
+{
+  "name": "prismix-status-mcp",
+  "description": "Enables checking real-time operational status of 75+ AI services (OpenAI, Anthropic, Cursor, etc.) through tools like check_ai_status and list_ai_services.",
+  "source_repo": "Prismor/prismix-status-mcp",
+  "source_url": "https://github.com/Prismor/prismix-status-mcp",
+  "install": "npx -y prismix-status-mcp"
+}

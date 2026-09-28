@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-mcp-2",
+  "description": "MCP server running inside Obsidian that provides AI assistants with native access to the Obsidian API for file operations, search, commands, and periodic notes without external bridges.",
+  "source_repo": "tylernford/obsidian-mcp",
+  "source_url": "https://github.com/tylernford/obsidian-mcp",
+  "install": "npx -y obsidian-mcp"
+}

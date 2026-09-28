@@ -1,0 +1,7 @@
+{
+  "name": "mcp-statistics-server",
+  "description": "Provides LLMs access to Japanese and international statistical data (e-Stat, World Bank, OECD, Eurostat) with tools for data retrieval, chart generation, and statistical analysis.",
+  "source_repo": "m37335/mcp-statistics-server",
+  "source_url": "https://github.com/m37335/mcp-statistics-server",
+  "install": "# git clone --depth 1 https://github.com/m37335/mcp-statistics-server\n# See source for mcpServers config block"
+}

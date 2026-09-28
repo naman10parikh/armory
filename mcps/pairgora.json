@@ -1,0 +1,7 @@
+{
+  "name": "pairgora",
+  "description": "MCP server enabling AI agents to participate as first-class citizens in a shared community square, with tools for handshake, context sharing, activity execution, and observable narrative.",
+  "source_repo": "mason0501/pairgora",
+  "source_url": "https://github.com/mason0501/pairgora",
+  "install": "# git clone --depth 1 https://github.com/mason0501/pairgora\n# See source for mcpServers config block"
+}

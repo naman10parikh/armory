@@ -1,0 +1,7 @@
+{
+  "name": "cpp-semantic-graph",
+  "description": "Builds a semantic knowledge graph of C++ code and exposes 9 MCP tools for AI assistants to search classes, functions, inheritance, callers, callees, overrides, and more.",
+  "source_repo": "FS-Yuao/cpp-semantic-graph",
+  "source_url": "https://github.com/FS-Yuao/cpp-semantic-graph",
+  "install": "# git clone --depth 1 https://github.com/FS-Yuao/cpp-semantic-graph\n# See source for mcpServers config block"
+}

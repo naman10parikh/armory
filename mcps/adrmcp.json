@@ -1,0 +1,7 @@
+{
+  "name": "adrmcp",
+  "description": "An MCP server that turns a folder of Markdown ADRs into live tools for AI agents: search, author, validate, link, and trace architectural decisions, with preview-by-default writes.",
+  "source_repo": "Atypical-Consulting/AdrMcp",
+  "source_url": "https://github.com/Atypical-Consulting/AdrMcp",
+  "install": "# git clone --depth 1 https://github.com/Atypical-Consulting/AdrMcp\n# See source for mcpServers config block"
+}

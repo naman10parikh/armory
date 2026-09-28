@@ -1,0 +1,7 @@
+{
+  "name": "first-ch-tools-mcp",
+  "description": "MCP server exposing First CH Tools' free web-tool logic for WCAG contrast, JP character counting, WebP conversion, JSON-LD, and llms.txt generation to AI agents.",
+  "source_repo": "First-CH/firstch-tools-mcp",
+  "source_url": "https://github.com/First-CH/firstch-tools-mcp",
+  "install": "npx -y firstch-tools-mcp"
+}

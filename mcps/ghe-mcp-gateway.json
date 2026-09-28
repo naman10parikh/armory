@@ -1,0 +1,7 @@
+{
+  "name": "ghe-mcp-gateway",
+  "description": "Enables natural language admin tasks for GitHub Enterprise Cloud, like listing private repos, access reviews, and secret scanning, with read-only safety by default.",
+  "source_repo": "mholzinger/ghe-mcp-gateway",
+  "source_url": "https://github.com/mholzinger/ghe-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/mholzinger/ghe-mcp-gateway\n# See source for mcpServers config block"
+}

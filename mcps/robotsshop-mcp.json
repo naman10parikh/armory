@@ -1,0 +1,7 @@
+{
+  "name": "robotsshop-mcp",
+  "description": "MCP server for verifying agent payment integrity on x402, providing tools to check payTo mismatches, market stats, and lookup endpoints.",
+  "source_repo": "AnalogHubris/robotsshop-mcp",
+  "source_url": "https://github.com/AnalogHubris/robotsshop-mcp",
+  "install": "npx -y robotsshop-mcp"
+}

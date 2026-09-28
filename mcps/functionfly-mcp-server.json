@@ -1,0 +1,7 @@
+{
+  "name": "functionfly-mcp-server",
+  "description": "Enables AI agents to interact with the FunctionFly platform for registry search, function execution, publishing, analytics, vault secrets, and stateful workflows.",
+  "source_repo": "functionfly/mcp-server",
+  "source_url": "https://github.com/functionfly/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/functionfly/mcp-server\n# See source for mcpServers config block"
+}

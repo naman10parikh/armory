@@ -1,0 +1,7 @@
+{
+  "name": "sheetsdb-mcp-server",
+  "description": "An MCP server that enables Claude to interact with Google Sheets via the SheetsDB API, supporting CRUD operations and smart data addition.",
+  "source_repo": "SarthakS97/sheetsdb-mcp-server",
+  "source_url": "https://github.com/SarthakS97/sheetsdb-mcp-server",
+  "install": "npx -y sheetsdb-mcp-server"
+}

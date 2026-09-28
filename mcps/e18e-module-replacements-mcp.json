@@ -1,0 +1,7 @@
+{
+  "name": "e18e-module-replacements-mcp",
+  "description": "An MCP server that exposes e18e module replacement data. It helps AI assistants suggest lighter, faster, or native alternatives to common JavaScript/Node.js packages.",
+  "source_repo": "santoshyadavdev/e18e-module-replacements-mcp",
+  "source_url": "https://github.com/santoshyadavdev/e18e-module-replacements-mcp",
+  "install": "npx -y e18e-module-replacements-mcp"
+}

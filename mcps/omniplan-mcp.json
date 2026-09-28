@@ -1,0 +1,7 @@
+{
+  "name": "omniplan-mcp",
+  "description": "Enables natural language control of OmniPlan 4 on macOS, allowing creation and manipulation of tasks, resources, dependencies, and project metadata through MCP-compatible agents.",
+  "source_repo": "johntrandall/omniplan-mcp",
+  "source_url": "https://github.com/johntrandall/omniplan-mcp",
+  "install": "npx -y omniplan-mcp"
+}

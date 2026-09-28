@@ -1,0 +1,7 @@
+{
+  "name": "mcp-project-bridge",
+  "description": "Enables multi-project workspaces to share structured notes, API contracts, and handoff messages via a local SQLite database, with versioning and read tracking.",
+  "source_repo": "Tenko-Star/mcp-project-bridge",
+  "source_url": "https://github.com/Tenko-Star/mcp-project-bridge",
+  "install": "# git clone --depth 1 https://github.com/Tenko-Star/mcp-project-bridge\n# See source for mcpServers config block"
+}

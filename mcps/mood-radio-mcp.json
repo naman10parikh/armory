@@ -1,0 +1,7 @@
+{
+  "name": "mood-radio-mcp",
+  "description": "Enables users to anonymously share and pass along songs with messages in mood-based rooms, and view community-featured radio feeds, relay chains, and charts.",
+  "source_repo": "coldmans/mood-radio-mcp",
+  "source_url": "https://github.com/coldmans/mood-radio-mcp",
+  "install": "npx -y mood-radio-mcp"
+}

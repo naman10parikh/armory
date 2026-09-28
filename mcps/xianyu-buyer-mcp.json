@@ -1,0 +1,7 @@
+{
+  "name": "xianyu-buyer-mcp",
+  "description": "Enables AI agents to interact with Goofish (闲鱼) marketplace, supporting product search, batch inquiry messaging, and conversation management for buyers.",
+  "source_repo": "yunwanshu/xianyu-buyer-mcp",
+  "source_url": "https://github.com/yunwanshu/xianyu-buyer-mcp",
+  "install": "npx -y xianyu-buyer-mcp"
+}

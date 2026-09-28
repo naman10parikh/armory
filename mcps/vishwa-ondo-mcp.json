@@ -1,0 +1,7 @@
+{
+  "name": "vishwa-ondo-mcp",
+  "description": "An MCP server that wraps the Vishwa exchange API for USDC→USDY swaps on Solana, enabling agents to quote, prepare unsigned transactions, submit signed ones, and check status. It never signs or holds funds, requiring explicit eligibility acknowledgement.",
+  "source_repo": "AdenProSDE2024/vishwa-ondo-mcp",
+  "source_url": "https://github.com/AdenProSDE2024/vishwa-ondo-mcp",
+  "install": "npx -y vishwa-ondo-mcp"
+}

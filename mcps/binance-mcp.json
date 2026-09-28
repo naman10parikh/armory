@@ -1,0 +1,7 @@
+{
+  "name": "binance-mcp",
+  "description": "MCP server for Binance market data, account insights, and Convert workflows.",
+  "source_repo": "mujeeb8/Binance-MCP",
+  "source_url": "https://github.com/mujeeb8/Binance-MCP",
+  "install": "npx -y Binance-MCP"
+}

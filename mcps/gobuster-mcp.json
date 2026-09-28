@@ -1,0 +1,7 @@
+{
+  "name": "gobuster-mcp",
+  "description": "A Model Context Protocol (MCP) server for Gobuster that enables AI assistants to perform directory/file, DNS, virtual host, S3 bucket, and TFTP enumeration on a remote Kali Linux host via SSH.",
+  "source_repo": "schwarztim/sec-gobuster-mcp",
+  "source_url": "https://github.com/schwarztim/sec-gobuster-mcp",
+  "install": "npx -y sec-gobuster-mcp"
+}

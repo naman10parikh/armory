@@ -1,0 +1,7 @@
+{
+  "name": "yadisk-mcp",
+  "description": "MCP server for Yandex Disk that enables file and folder management, search, upload/download, publishing, and trash operations through natural language.",
+  "source_repo": "Patr56/yadisk-mcp",
+  "source_url": "https://github.com/Patr56/yadisk-mcp",
+  "install": "npx -y yadisk-mcp"
+}

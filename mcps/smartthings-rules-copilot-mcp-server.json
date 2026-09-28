@@ -1,0 +1,7 @@
+{
+  "name": "smartthings-rules-copilot-mcp-server",
+  "description": "Enables querying and managing SmartThings locations, devices, and rules through MCP tools, with security and confirmation safeguards.",
+  "source_repo": "WoongTs/st-rules-copilot",
+  "source_url": "https://github.com/WoongTs/st-rules-copilot",
+  "install": "# git clone --depth 1 https://github.com/WoongTs/st-rules-copilot\n# See source for mcpServers config block"
+}

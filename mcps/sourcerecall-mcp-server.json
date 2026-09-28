@@ -1,0 +1,7 @@
+{
+  "name": "sourcerecall-mcp-server",
+  "description": "Enables AI coding assistants to search and retrieve code from self-hosted Git repositories using semantic and lexical search with optional reranking, while keeping repository data under the operator's control.",
+  "source_repo": "Mortau/source-recall",
+  "source_url": "https://github.com/Mortau/source-recall",
+  "install": "# git clone --depth 1 https://github.com/Mortau/source-recall\n# See source for mcpServers config block"
+}

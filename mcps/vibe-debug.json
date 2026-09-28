@@ -1,0 +1,7 @@
+{
+  "name": "vibe-debug",
+  "description": "Enables coding agents to use a real debugger (Python via debugpy) for launching, attaching, setting breakpoints, stepping through code, inspecting stack frames, and evaluating expressions through MCP tools.",
+  "source_repo": "illscience/vibe-debug",
+  "source_url": "https://github.com/illscience/vibe-debug",
+  "install": "# git clone --depth 1 https://github.com/illscience/vibe-debug\n# See source for mcpServers config block"
+}

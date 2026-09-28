@@ -1,0 +1,7 @@
+{
+  "name": "mitm-mcp",
+  "description": "MCP server for network-level TLS interception and IoT security testing. Orchestrates mitmproxy and tshark to intercept traffic from devices connecting to a WiFi access point, automatically flagging credentials, API keys, and certificate pinning failures.",
+  "source_repo": "mplogas/mitmproxy-mcp",
+  "source_url": "https://github.com/mplogas/mitmproxy-mcp",
+  "install": "npx -y mitmproxy-mcp"
+}

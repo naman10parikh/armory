@@ -1,0 +1,7 @@
+{
+  "name": "tarot-mcp-server",
+  "description": "Provides tarot card meanings, spreads (three-card, yes/no), and random draws for any MCP-compatible client.",
+  "source_repo": "gokimedia/tarot-mcp-server",
+  "source_url": "https://github.com/gokimedia/tarot-mcp-server",
+  "install": "npx -y tarot-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "workforceai-mcp-server",
+  "description": "Enables AI assistants to look up and update WorkForceAI platform data, including voice agents, campaigns, phone numbers, call logs, and dashboard stats, through natural language.",
+  "source_repo": "shandanawerkx/workforceai-mcp",
+  "source_url": "https://github.com/shandanawerkx/workforceai-mcp",
+  "install": "npx -y workforceai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "job-radar",
+  "description": "Searches LinkedIn for job posts, filters out non-vacancies and out-of-market roles, and provides a local dashboard to triage and rate the remaining openings.",
+  "source_repo": "MaryemeBay/linkedin-posts-job-radar",
+  "source_url": "https://github.com/MaryemeBay/linkedin-posts-job-radar",
+  "install": "# git clone --depth 1 https://github.com/MaryemeBay/linkedin-posts-job-radar\n# See source for mcpServers config block"
+}

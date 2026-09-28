@@ -1,0 +1,7 @@
+{
+  "name": "mcp-kg-skills",
+  "description": "Manages a Neo4j knowledge graph of reusable Python functions, documentation, and environment variables, enabling dynamic script composition and execution with automatic dependency management and secret protection.",
+  "source_repo": "fkesheh/mcp-kg-skills",
+  "source_url": "https://github.com/fkesheh/mcp-kg-skills",
+  "install": "# git clone --depth 1 https://github.com/fkesheh/mcp-kg-skills\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "moo-mcp",
+  "description": "MCP server for LambdaMOO administration. Connects to a MOO's admin port over TCP and exposes tools for eval, verb/property management, and inheritance chain walking.",
+  "source_repo": "ryanb96/moo-mcp",
+  "source_url": "https://github.com/ryanb96/moo-mcp",
+  "install": "npx -y moo-mcp"
+}

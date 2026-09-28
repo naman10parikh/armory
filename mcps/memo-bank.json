@@ -1,0 +1,7 @@
+{
+  "name": "memo-bank",
+  "description": "Enables agents to query a git-native markdown corpus for the specs governing a file in about two reads, plus supports lexical topic search with expansion. Includes maintenance loops that surface uncovered code and stale governing docs to keep the corpus honest.",
+  "source_repo": "kmitin/memo-bank",
+  "source_url": "https://github.com/kmitin/memo-bank",
+  "install": "# git clone --depth 1 https://github.com/kmitin/memo-bank\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kalicart-global",
+  "description": "Federated commerce search MCP server enabling AI agents to query real product offers, prices, and availability across independent WooCommerce stores without API keys or registration.",
+  "source_repo": "giuseppesocci-bot/kalicart-global",
+  "source_url": "https://github.com/giuseppesocci-bot/kalicart-global",
+  "install": "# git clone --depth 1 https://github.com/giuseppesocci-bot/kalicart-global\n# See source for mcpServers config block"
+}

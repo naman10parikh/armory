@@ -1,0 +1,7 @@
+{
+  "name": "thunderclient-mcp",
+  "description": "Enables AI tools to create and manage API requests and collections in Thunder Client, with automated collection and folder creation.",
+  "source_repo": "thunderclient/thunderclient-mcp",
+  "source_url": "https://github.com/thunderclient/thunderclient-mcp",
+  "install": "npx -y thunderclient-mcp"
+}

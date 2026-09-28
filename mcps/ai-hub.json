@@ -1,0 +1,7 @@
+{
+  "name": "ai-hub",
+  "description": "A self-hosted server providing shared memory, RAG document search, project maps, and role-based prompts for all AI agents via MCP and REST, enabling persistent context across devices and tools.",
+  "source_repo": "fthsrbst/ai-hub-public",
+  "source_url": "https://github.com/fthsrbst/ai-hub-public",
+  "install": "# git clone --depth 1 https://github.com/fthsrbst/ai-hub-public\n# See source for mcpServers config block"
+}

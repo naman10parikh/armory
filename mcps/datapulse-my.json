@@ -1,0 +1,7 @@
+{
+  "name": "datapulse-my",
+  "description": "Trust layer for 375 Malaysian public datasets. Independent probes every 15 min, 10-status taxonomy, machine-readable licence metadata, read-only MCP. No API key.",
+  "source_repo": "r3dz4r/datapulse-my",
+  "source_url": "https://github.com/r3dz4r/datapulse-my",
+  "install": "# git clone --depth 1 https://github.com/r3dz4r/datapulse-my\n# See source for mcpServers config block"
+}

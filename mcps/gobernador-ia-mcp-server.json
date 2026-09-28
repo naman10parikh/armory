@@ -1,0 +1,7 @@
+{
+  "name": "gobernador-ia-mcp-server",
+  "description": "MCP server de auditoría de compliance de IA que expone el motor de reglas de Gobernador IA como tools para agentes Claude, contra Ley 21.719 (Chile), ISO/IEC 42001:2023, y el EU AI Act.",
+  "source_repo": "CodexPromptusIuris/Gobernador-ia-mcp-server-",
+  "source_url": "https://github.com/CodexPromptusIuris/Gobernador-ia-mcp-server-",
+  "install": "# git clone --depth 1 https://github.com/CodexPromptusIuris/Gobernador-ia-mcp-server-\n# See source for mcpServers config block"
+}

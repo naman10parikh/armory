@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent-gateway",
+  "description": "A ready-to-run MCP gateway and multi-agent scheduling system with 14 built-in tools and 3-layer performance optimization, reducing latency by 65%.",
+  "source_repo": "wuwo1979/agent",
+  "source_url": "https://github.com/wuwo1979/agent",
+  "install": "# git clone --depth 1 https://github.com/wuwo1979/agent\n# See source for mcpServers config block"
+}

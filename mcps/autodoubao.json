@@ -1,0 +1,7 @@
+{
+  "name": "autodoubao",
+  "description": "MCP server that lets AI agents like Codex, Hermes, and LobsterAI automatically generate images via the logged-in Doubao web UI and download the original images to local storage, using a Chrome extension and a queue.",
+  "source_repo": "linxxcat000/autodoubao",
+  "source_url": "https://github.com/linxxcat000/autodoubao",
+  "install": "# git clone --depth 1 https://github.com/linxxcat000/autodoubao\n# See source for mcpServers config block"
+}

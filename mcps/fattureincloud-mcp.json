@@ -1,0 +1,7 @@
+{
+  "name": "fattureincloud-mcp",
+  "description": "MCP server for the Fatture in Cloud API v2 that lets Claude read and manage issued and received documents (invoices, credit notes, quotes, expenses, etc.) via CRUD operations.",
+  "source_repo": "badbat75/FattureInCloudMCP",
+  "source_url": "https://github.com/badbat75/FattureInCloudMCP",
+  "install": "# git clone --depth 1 https://github.com/badbat75/FattureInCloudMCP\n# See source for mcpServers config block"
+}

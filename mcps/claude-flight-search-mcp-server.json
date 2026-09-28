@@ -1,0 +1,7 @@
+{
+  "name": "claude-flight-search-mcp-server",
+  "description": "Enables flight search, airport information lookup, and price comparison through Claude Desktop.",
+  "source_repo": "adeyholar/claude-flight-search-mcp",
+  "source_url": "https://github.com/adeyholar/claude-flight-search-mcp",
+  "install": "npx -y claude-flight-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tespit",
+  "description": "Enables AI assistants to monitor real-time CPU, RAM, and disk usage on the local machine.",
+  "source_repo": "maniakh/MCP",
+  "source_url": "https://github.com/maniakh/MCP",
+  "install": "# git clone --depth 1 https://github.com/maniakh/MCP\n# See source for mcpServers config block"
+}

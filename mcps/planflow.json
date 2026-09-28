@@ -1,0 +1,7 @@
+{
+  "name": "planflow",
+  "description": "MCP server for creating, validating, and reviewing implementation plans in GitHub Copilot Chat, with visual review interface and MongoDB persistence.",
+  "source_repo": "DabiK/mcp-plan-generation",
+  "source_url": "https://github.com/DabiK/mcp-plan-generation",
+  "install": "# git clone --depth 1 https://github.com/DabiK/mcp-plan-generation\n# See source for mcpServers config block"
+}

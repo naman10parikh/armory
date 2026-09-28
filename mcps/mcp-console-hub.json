@@ -1,0 +1,7 @@
+{
+  "name": "mcp-console-hub",
+  "description": "Streams browser DevTools console, network, storage, and performance data to your IDE's AI agent for real-time debugging and analysis.",
+  "source_repo": "nano-step/mcp-console-hub",
+  "source_url": "https://github.com/nano-step/mcp-console-hub",
+  "install": "# git clone --depth 1 https://github.com/nano-step/mcp-console-hub\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "korone-mcp",
+  "description": "An MCP bridge that lets AI assistants control Roblox Studio 2021 in real time, offering tools for workspace inspection, instance creation, and Lua execution.",
+  "source_repo": "undef1n9d/korone-mcp",
+  "source_url": "https://github.com/undef1n9d/korone-mcp",
+  "install": "npx -y korone-mcp"
+}

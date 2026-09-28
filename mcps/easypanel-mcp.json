@@ -1,0 +1,7 @@
+{
+  "name": "easypanel-mcp",
+  "description": "MCP server for EasyPanel that enables AI agents to manage servers, projects, services, databases, and domains via 40 curated tools or raw tRPC access to all 347 API procedures.",
+  "source_repo": "dray-supadev/easypanel-mcp",
+  "source_url": "https://github.com/dray-supadev/easypanel-mcp",
+  "install": "npx -y easypanel-mcp"
+}

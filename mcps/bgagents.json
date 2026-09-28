@@ -1,0 +1,7 @@
+{
+  "name": "bgagents",
+  "description": "Enables turning AI code agents like Anthropic Claude and OpenAI Codex into background agents accessible via MCP protocol for code generation, branch creation, and PR automation.",
+  "source_repo": "michael-elkabetz/bgagents",
+  "source_url": "https://github.com/michael-elkabetz/bgagents",
+  "install": "# git clone --depth 1 https://github.com/michael-elkabetz/bgagents\n# See source for mcpServers config block"
+}

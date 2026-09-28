@@ -1,0 +1,7 @@
+{
+  "name": "us-property-hazard-risk",
+  "description": "Assesses natural hazard exposure (flood, wildfire, earthquake, coastal proximity) for a single US property address using only free, keyless public data.",
+  "source_repo": "ericshenus/us-property-hazard-risk",
+  "source_url": "https://github.com/ericshenus/us-property-hazard-risk",
+  "install": "# git clone --depth 1 https://github.com/ericshenus/us-property-hazard-risk\n# See source for mcpServers config block"
+}

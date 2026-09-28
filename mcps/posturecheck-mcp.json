@@ -1,0 +1,7 @@
+{
+  "name": "posturecheck-mcp",
+  "description": "Performs domain security posture checks including SPF, DKIM, DMARC, TLS, and HTTP security headers.",
+  "source_repo": "mvg777/posturecheck-mcp",
+  "source_url": "https://github.com/mvg777/posturecheck-mcp",
+  "install": "npx -y posturecheck-mcp"
+}

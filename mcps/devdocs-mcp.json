@@ -1,0 +1,7 @@
+{
+  "name": "devdocs-mcp",
+  "description": "Access to 819+ documentation sources from devdocs.io with semantic search capabilities.",
+  "source_repo": "HellButcher/devdocs-mcp",
+  "source_url": "https://github.com/HellButcher/devdocs-mcp",
+  "install": "npx -y devdocs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mat-as-context-mcp",
+  "description": "A thin, local, read-only MCP gateway that exposes governed context documents and producer manifests as logical resources, enabling AI clients to access them without arbitrary filesystem access.",
+  "source_repo": "matuteiglesias/matias-context-mcp",
+  "source_url": "https://github.com/matuteiglesias/matias-context-mcp",
+  "install": "npx -y matias-context-mcp"
+}

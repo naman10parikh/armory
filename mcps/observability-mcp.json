@@ -1,0 +1,7 @@
+{
+  "name": "observability-mcp",
+  "description": "MCP server that enables AI assistants to query Grafana/Loki logs and Thanos/Prometheus metrics directly from MCP-compatible clients like Cursor or Claude Desktop.",
+  "source_repo": "ThainaJardim/observability-mcp",
+  "source_url": "https://github.com/ThainaJardim/observability-mcp",
+  "install": "npx -y observability-mcp"
+}

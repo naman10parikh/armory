@@ -1,0 +1,7 @@
+{
+  "name": "base-dos-dados-mcp",
+  "description": "This MCP server provides AI-optimized access to Brazil's largest open data platform, Base dos Dados, enabling dataset search and direct BigQuery SQL execution for Brazilian public datasets.",
+  "source_repo": "JoaoCarabetta/basedosdados-mcp",
+  "source_url": "https://github.com/JoaoCarabetta/basedosdados-mcp",
+  "install": "npx -y basedosdados-mcp"
+}

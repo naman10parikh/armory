@@ -1,0 +1,7 @@
+{
+  "name": "web-fetch-mcp",
+  "description": "A web-fetch MCP server for LLM agents that fetches pages with an escalation ladder through different engines, raising FetchBlocked instead of returning blocked content.",
+  "source_repo": "Dutta-SD/web-fetch-mcp",
+  "source_url": "https://github.com/Dutta-SD/web-fetch-mcp",
+  "install": "npx -y web-fetch-mcp"
+}

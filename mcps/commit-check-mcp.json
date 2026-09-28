@@ -1,0 +1,7 @@
+{
+  "name": "commit-check-mcp",
+  "description": "Enables validation of commit messages, branch names, author info, push safety, and repository state using commit-check rules, accessible as MCP tools.",
+  "source_repo": "commit-check/commit-check-mcp",
+  "source_url": "https://github.com/commit-check/commit-check-mcp",
+  "install": "npx -y commit-check-mcp"
+}

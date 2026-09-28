@@ -1,0 +1,7 @@
+{
+  "name": "browsercontrol",
+  "description": "MCP server for vision-first browser automation that annotates interactive elements with numbered markers, allowing AI agents to control any webpage by simply referencing element numbers.",
+  "source_repo": "adityasasidhar/browsercontrol",
+  "source_url": "https://github.com/adityasasidhar/browsercontrol",
+  "install": "# git clone --depth 1 https://github.com/adityasasidhar/browsercontrol\n# See source for mcpServers config block"
+}

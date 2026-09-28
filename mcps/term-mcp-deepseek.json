@@ -1,0 +1,7 @@
+{
+  "name": "term-mcp-deepseek",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/term_mcp_deepseek",
+  "install": "# git clone --depth 1 https://mcp.so/server/term_mcp_deepseek\n# See source for mcpServers config block"
+}

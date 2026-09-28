@@ -1,0 +1,7 @@
+{
+  "name": "plc-mcp-server",
+  "description": "MCP server for industrial PLC integration, enabling AI to read tags, monitor alarms, and interact with Allen-Bradley ControlLogix PLCs via natural language.",
+  "source_repo": "OlubunmiAde/plc-mcp-server",
+  "source_url": "https://github.com/OlubunmiAde/plc-mcp-server",
+  "install": "npx -y plc-mcp-server"
+}

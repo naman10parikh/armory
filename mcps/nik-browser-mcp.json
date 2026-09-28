@@ -1,0 +1,7 @@
+{
+  "name": "nik-browser-mcp",
+  "description": "Локальный MCP-сервер, который предоставляет LLM собственный независимый Chromium для управления браузером, включая открытие сайтов, чтение страниц, нажатие кнопок, заполнение форм и создание скриншотов.",
+  "source_repo": "Nikolay-3D/nik-browser-mcp",
+  "source_url": "https://github.com/Nikolay-3D/nik-browser-mcp",
+  "install": "npx -y nik-browser-mcp"
+}

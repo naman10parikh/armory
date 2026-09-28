@@ -1,0 +1,7 @@
+{
+  "name": "sec-edgar-filings-mcp-server",
+  "description": "Enables AI agents to download, convert, and analyze SEC EDGAR filings with tools for downloading filings, converting HTML to PDF, and transforming PDF to Markdown.",
+  "source_repo": "seongjju/MCP_Engineer_Technical_Assignment",
+  "source_url": "https://github.com/seongjju/MCP_Engineer_Technical_Assignment",
+  "install": "# git clone --depth 1 https://github.com/seongjju/MCP_Engineer_Technical_Assignment\n# See source for mcpServers config block"
+}

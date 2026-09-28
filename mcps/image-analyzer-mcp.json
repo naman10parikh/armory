@@ -1,0 +1,7 @@
+{
+  "name": "image-analyzer-mcp",
+  "description": "Analyzes images via OpenAI-compatible vision APIs, returning structured JSON for layout, components, colors, typography, and issues, with tools for single image analysis, comparison, and clipboard image analysis.",
+  "source_repo": "AlierQ/image-analyzer-mcp",
+  "source_url": "https://github.com/AlierQ/image-analyzer-mcp",
+  "install": "npx -y image-analyzer-mcp"
+}

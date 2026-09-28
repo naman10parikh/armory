@@ -1,0 +1,7 @@
+{
+  "name": "cobble-mcp",
+  "description": "Enables AI assistants to connect to Minecraft servers as a bot, allowing cooperative building, movement, combat, and chat in the same world.",
+  "source_repo": "brian-mwirigi/cobble-mcp",
+  "source_url": "https://github.com/brian-mwirigi/cobble-mcp",
+  "install": "npx -y cobble-mcp"
+}

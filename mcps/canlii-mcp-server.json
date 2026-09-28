@@ -1,0 +1,7 @@
+{
+  "name": "canlii-mcp-server",
+  "description": "Enables Claude Desktop to search the CanLII Canadian legal database and retrieve the full text of matching legal documents.",
+  "source_repo": "yvesnormandin/canlii_mcp_server",
+  "source_url": "https://github.com/yvesnormandin/canlii_mcp_server",
+  "install": "npx -y canlii_mcp_server"
+}

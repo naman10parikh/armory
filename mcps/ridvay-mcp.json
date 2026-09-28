@@ -1,0 +1,7 @@
+{
+  "name": "ridvay-mcp",
+  "description": "MCP server that lets AI assistants create and edit Ridvay Studio posters, flyers, and social designs directly from chat conversations, returning shareable links.",
+  "source_repo": "tom-tgr/ridvay-mcp",
+  "source_url": "https://github.com/tom-tgr/ridvay-mcp",
+  "install": "npx -y ridvay-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lake-dayz",
+  "description": "An MCP server that pre-flights DayZ Enforce mods, catching boot-crashing mistakes before packing PBO files.",
+  "source_repo": "ZeripeDaniel/Lake-Dayz-MCP",
+  "source_url": "https://github.com/ZeripeDaniel/Lake-Dayz-MCP",
+  "install": "npx -y Lake-Dayz-MCP"
+}

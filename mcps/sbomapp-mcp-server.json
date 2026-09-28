@@ -1,0 +1,7 @@
+{
+  "name": "sbomapp-mcp-server",
+  "description": "MCP server that enables generating SBOMs, scanning for CVEs, and checking license compliance in VS Code via natural language with GitHub Copilot.",
+  "source_repo": "mcpsbom/sbomapp-mcp-server",
+  "source_url": "https://github.com/mcpsbom/sbomapp-mcp-server",
+  "install": "npx -y sbomapp-mcp-server"
+}

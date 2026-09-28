@@ -1,0 +1,7 @@
+{
+  "name": "csdk-docs-mcp-server",
+  "description": "Enables TF-IDF search and structured browsing of Sisense Compose SDK documentation for React, Vue, and Angular, with support for framework filtering and code context to find relevant code examples.",
+  "source_repo": "pmorris24/csdk-docs-mcp",
+  "source_url": "https://github.com/pmorris24/csdk-docs-mcp",
+  "install": "npx -y csdk-docs-mcp"
+}

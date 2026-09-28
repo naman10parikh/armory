@@ -1,0 +1,7 @@
+{
+  "name": "consulta-veicular-nacional",
+  "description": "MCP server that enables querying Brazilian vehicle data by plate, returning details like brand, model, year, and color. It is read-only, hosted, and works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/veiculo_nacional-mcp",
+  "source_url": "https://github.com/mcp-dir/veiculo_nacional-mcp",
+  "install": "npx -y veiculo_nacional-mcp"
+}

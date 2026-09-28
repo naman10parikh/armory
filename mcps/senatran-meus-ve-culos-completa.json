@@ -1,0 +1,7 @@
+{
+  "name": "senatran-meus-ve-culos-completa",
+  "description": "MCP server for querying official Brazilian vehicle data (SENATRAN), offering a read-only consultation tool via hosted API with prepaid credits.",
+  "source_repo": "mcp-dir/senatran_meus_veiculos_comp-mcp",
+  "source_url": "https://github.com/mcp-dir/senatran_meus_veiculos_comp-mcp",
+  "install": "npx -y senatran_meus_veiculos_comp-mcp"
+}

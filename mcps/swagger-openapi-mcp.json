@@ -1,0 +1,7 @@
+{
+  "name": "swagger-openapi-mcp",
+  "description": "Enables AI to scan and query local OpenAPI/Swagger documentation, listing API groups and endpoints, and generating TypeScript type definitions for specific endpoints.",
+  "source_repo": "dreamhuan/swagger-openapi-mcp",
+  "source_url": "https://github.com/dreamhuan/swagger-openapi-mcp",
+  "install": "npx -y swagger-openapi-mcp"
+}

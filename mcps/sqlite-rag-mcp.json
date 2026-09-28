@@ -1,0 +1,7 @@
+{
+  "name": "sqlite-rag-mcp",
+  "description": "Offline RAG MCP server that indexes documents into SQLite with hybrid vector and lexical search, and enables natural language queries via Claude.",
+  "source_repo": "giuseppeferretti/sqlite-rag-mcp",
+  "source_url": "https://github.com/giuseppeferretti/sqlite-rag-mcp",
+  "install": "npx -y sqlite-rag-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentmem",
+  "description": "Enables AI coding agents to store and retrieve persistent contextual memories locally, with support for tagging and querying through CLI or MCP integration.",
+  "source_repo": "Josan88/agentmem",
+  "source_url": "https://github.com/Josan88/agentmem",
+  "install": "# git clone --depth 1 https://github.com/Josan88/agentmem\n# See source for mcpServers config block"
+}

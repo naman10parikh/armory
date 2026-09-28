@@ -1,0 +1,7 @@
+{
+  "name": "bitbank-lab-mcp",
+  "description": "An MCP server that enables AI clients to analyze cryptocurrency market data from bitbank API, providing technical indicators, order book analysis, and chart visualization.",
+  "source_repo": "tjackiet/bitbank-genesis-mcp-server-http-archive",
+  "source_url": "https://github.com/tjackiet/bitbank-genesis-mcp-server-http-archive",
+  "install": "# git clone --depth 1 https://github.com/tjackiet/bitbank-genesis-mcp-server-http-archive\n# See source for mcpServers config block"
+}

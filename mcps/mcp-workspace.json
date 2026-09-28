@@ -1,0 +1,7 @@
+{
+  "name": "mcp-workspace",
+  "description": "Enables AI assistants to perform file system operations within a specified project directory, including reading, writing, editing, and managing files, with optional read-only access to reference projects.",
+  "source_repo": "MarcusJellinghaus/mcp-workspace",
+  "source_url": "https://github.com/MarcusJellinghaus/mcp-workspace",
+  "install": "# git clone --depth 1 https://github.com/MarcusJellinghaus/mcp-workspace\n# See source for mcpServers config block"
+}

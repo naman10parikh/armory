@@ -1,0 +1,7 @@
+{
+  "name": "mcp-edge",
+  "description": "Enables cloud LLM agents to discover and invoke physical hardware on edge and IoT devices through standard MCP tools, bridging constrained device channels like UART, BLE, and Wi-Fi.",
+  "source_repo": "jemsbhai/mcp-edge",
+  "source_url": "https://github.com/jemsbhai/mcp-edge",
+  "install": "# git clone --depth 1 https://github.com/jemsbhai/mcp-edge\n# See source for mcpServers config block"
+}

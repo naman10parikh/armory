@@ -1,0 +1,7 @@
+{
+  "name": "memprocfs-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for memory forensics analysis using MemProcFS.",
+  "source_repo": "Varshith-JV-1410/memprocfs-mcp",
+  "source_url": "https://github.com/Varshith-JV-1410/memprocfs-mcp",
+  "install": "npx -y memprocfs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vworld-mcp",
+  "description": "Enables to query South Korean cadastral and land information (parcel boundaries, land use zones, official land prices) via VWorld Open API, supporting geocoding, reverse geocoding, and location search for real estate feasibility reviews.",
+  "source_repo": "jeon3709-dev/vworld-mcp",
+  "source_url": "https://github.com/jeon3709-dev/vworld-mcp",
+  "install": "npx -y vworld-mcp"
+}

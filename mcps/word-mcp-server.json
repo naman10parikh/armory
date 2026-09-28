@@ -1,0 +1,7 @@
+{
+  "name": "word-mcp-server",
+  "description": "MCP server for real-time Microsoft Word document manipulation via COM automation. Word runs in a visible window — every change appears instantly.",
+  "source_repo": "HelloWorld-Open/word-mcp-server",
+  "source_url": "https://github.com/HelloWorld-Open/word-mcp-server",
+  "install": "npx -y word-mcp-server"
+}

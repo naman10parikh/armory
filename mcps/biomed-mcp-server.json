@@ -1,6 +1,6 @@
 {
   "name": "biomed-mcp-server",
-  "description": "BioMed MCP Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "JackKuo666/BioMed-MCP-Server",
   "source_url": "https://mcp.so/server/BioMed-MCP-Server/JackKuo666",
   "install": "npx -y BioMed-MCP-Server"

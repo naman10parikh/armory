@@ -1,0 +1,7 @@
+{
+  "name": "network-mcp",
+  "description": "Enables supervised web form assistance with ChatGPT, opening pages visibly, discovering opportunities, and requiring user approval before any fill actions.",
+  "source_repo": "smartresponsor/networking",
+  "source_url": "https://github.com/smartresponsor/networking",
+  "install": "# git clone --depth 1 https://github.com/smartresponsor/networking\n# See source for mcpServers config block"
+}

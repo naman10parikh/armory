@@ -1,0 +1,7 @@
+{
+  "name": "gpt-github-max-mcp",
+  "description": "MCP server providing maximum practical control over GitHub via REST and GraphQL APIs, exposing 22 tools for repository management, file operations, issues, PRs, Actions, and more.",
+  "source_repo": "alikhande70/gpt-github-max-mcp",
+  "source_url": "https://github.com/alikhande70/gpt-github-max-mcp",
+  "install": "npx -y gpt-github-max-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "visual-review-workbench",
+  "description": "Enables visual review of frontend UI variants by providing an MCP tool that opens, refreshes, verifies, captures, and closes review surfaces.",
+  "source_repo": "Olorinm/visual-review-workbench",
+  "source_url": "https://github.com/Olorinm/visual-review-workbench",
+  "install": "# git clone --depth 1 https://github.com/Olorinm/visual-review-workbench\n# See source for mcpServers config block"
+}

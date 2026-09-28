@@ -1,0 +1,7 @@
+{
+  "name": "agent-computer-use-mcp",
+  "description": "Local MCP server for Gateway-managed computer use that exposes computer.* tools with desktop control, OCR, and user-visible safety overlays.",
+  "source_repo": "astraclawteam/agent-computer-use-mcp",
+  "source_url": "https://github.com/astraclawteam/agent-computer-use-mcp",
+  "install": "npx -y agent-computer-use-mcp"
+}

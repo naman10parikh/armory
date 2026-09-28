@@ -1,0 +1,7 @@
+{
+  "name": "portal-da-transpar-ncia-benef-cio-de-presta-o-continuada-bpc",
+  "description": "Enables read-only queries to the official Brazilian transparency portal for the BPC benefit, using prepaid credits.",
+  "source_repo": "mcp-dir/portal_transparencia_bpc-mcp",
+  "source_url": "https://github.com/mcp-dir/portal_transparencia_bpc-mcp",
+  "install": "npx -y portal_transparencia_bpc-mcp"
+}

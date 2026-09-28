@@ -1,0 +1,7 @@
+{
+  "name": "form4api-mcp",
+  "description": "Real-time SEC Form 4 insider trading data — transactions with post-trade returns, cluster-buy signals, Form 144 early warnings, and 13F institutional holdings. 27 tools + 6 research prompts; free tier available.",
+  "source_repo": "theodor90/form4api-mcp",
+  "source_url": "https://github.com/theodor90/form4api-mcp",
+  "install": "npx -y form4api-mcp"
+}

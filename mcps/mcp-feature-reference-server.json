@@ -1,0 +1,7 @@
+{
+  "name": "mcp-feature-reference-server",
+  "description": "A complete MCP server implementation demonstrating all protocol features (tools, resources, prompts, sampling, and elicitation) with OAuth authentication, serving as a learning resource and starting template for building MCP servers.",
+  "source_repo": "charithadevarinti24-boop/example-mcp-server-2",
+  "source_url": "https://github.com/charithadevarinti24-boop/example-mcp-server-2",
+  "install": "# git clone --depth 1 https://github.com/charithadevarinti24-boop/example-mcp-server-2\n# See source for mcpServers config block"
+}

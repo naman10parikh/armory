@@ -1,0 +1,7 @@
+{
+  "name": "veragent-mcp",
+  "description": "Enables checking trust of MCP tools before installation, listing trusted tools, and scoring MCP stacks via the Veragent trust registry.",
+  "source_repo": "lixiaowww/veragent-mcp",
+  "source_url": "https://github.com/lixiaowww/veragent-mcp",
+  "install": "npx -y veragent-mcp"
+}

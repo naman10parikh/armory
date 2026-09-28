@@ -1,0 +1,7 @@
+{
+  "name": "liturgical-calendar-mcp-server",
+  "description": "Provides access to Roman Catholic Liturgical Calendar data, enabling retrieval of liturgical calendars for any year, nation, or diocese via MCP tools.",
+  "source_repo": "CatholicOS/liturgical-calendar-mcp",
+  "source_url": "https://github.com/CatholicOS/liturgical-calendar-mcp",
+  "install": "npx -y liturgical-calendar-mcp"
+}

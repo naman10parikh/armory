@@ -1,0 +1,7 @@
+{
+  "name": "exchange-ai-connector",
+  "description": "Enables AI agents to read and manage Microsoft 365/Outlook email and calendar, with destructive actions (send email, create event) requiring human approval.",
+  "source_repo": "wteja/exchange-ai-connector",
+  "source_url": "https://github.com/wteja/exchange-ai-connector",
+  "install": "# git clone --depth 1 https://github.com/wteja/exchange-ai-connector\n# See source for mcpServers config block"
+}

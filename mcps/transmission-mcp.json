@@ -1,0 +1,7 @@
+{
+  "name": "transmission-mcp",
+  "description": "MCP server for managing Transmission BitTorrent client. Provides tools to add, remove, monitor, and control torrents, as well as configure session settings.",
+  "source_repo": "montyanderson/transmission-mcp",
+  "source_url": "https://github.com/montyanderson/transmission-mcp",
+  "install": "npx -y transmission-mcp"
+}

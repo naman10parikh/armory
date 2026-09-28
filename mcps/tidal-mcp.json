@@ -1,0 +1,7 @@
+{
+  "name": "tidal-mcp",
+  "description": "Enables Claude to search, browse, and create playlists on Tidal, including AI-powered mood-based playlist generation.",
+  "source_repo": "redDawne/tidal-mcp-server",
+  "source_url": "https://github.com/redDawne/tidal-mcp-server",
+  "install": "npx -y tidal-mcp-server"
+}

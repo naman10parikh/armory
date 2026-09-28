@@ -1,0 +1,7 @@
+{
+  "name": "qualitymax-qa-mcp",
+  "description": "Enables coding agents to independently verify web changes by scanning pages, inspecting UI structure, generating Playwright reproductions, and executing tests with structured QA evidence.",
+  "source_repo": "Quality-Max/qmax-mcp",
+  "source_url": "https://github.com/Quality-Max/qmax-mcp",
+  "install": "npx -y qmax-mcp"
+}

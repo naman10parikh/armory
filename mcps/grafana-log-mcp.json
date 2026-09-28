@@ -1,0 +1,7 @@
+{
+  "name": "grafana-log-mcp",
+  "description": "A read-only stdio MCP server that provides a generic log-querying layer for Grafana/Loki, enabling discovery, retrieval, and aggregation of logs (raw, slow, errors, volumes) through 15 tools, with hard limits on data volume and no built-in business logic.",
+  "source_repo": "sunshinerich/grafana-log-mcp",
+  "source_url": "https://github.com/sunshinerich/grafana-log-mcp",
+  "install": "npx -y grafana-log-mcp"
+}

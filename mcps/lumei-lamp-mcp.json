@@ -1,0 +1,7 @@
+{
+  "name": "lumei-lamp-mcp",
+  "description": "Enables remote control of a virtual LUMEI lamp via Claude, allowing users to adjust power, brightness, mode, tracking, and view product info or battery status.",
+  "source_repo": "caffeineworks-ai/lumei-lamp",
+  "source_url": "https://github.com/caffeineworks-ai/lumei-lamp",
+  "install": "# git clone --depth 1 https://github.com/caffeineworks-ai/lumei-lamp\n# See source for mcpServers config block"
+}

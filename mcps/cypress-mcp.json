@@ -1,0 +1,7 @@
+{
+  "name": "cypress-mcp",
+  "description": "MCP server plugin for Cypress that enables AI agents to control a browser for automated testing and interaction.",
+  "source_repo": "sbtungd2/cypress-mcp",
+  "source_url": "https://github.com/sbtungd2/cypress-mcp",
+  "install": "npx -y cypress-mcp"
+}

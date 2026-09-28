@@ -1,0 +1,7 @@
+{
+  "name": "suno-hmnn-mcp",
+  "description": "A FastMCP server that provides full programmatic access to Suno Premier features, including music generation, clip extension, stem separation, and audio retrieval using your Suno account.",
+  "source_repo": "SialkiLabs/Suno-Hmnn-MCP",
+  "source_url": "https://github.com/SialkiLabs/Suno-Hmnn-MCP",
+  "install": "npx -y Suno-Hmnn-MCP"
+}

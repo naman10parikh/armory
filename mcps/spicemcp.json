@@ -1,0 +1,7 @@
+{
+  "name": "spicemcp",
+  "description": "MCP server for LTspice circuit simulation and optimization. It manages optimization state, evaluates metrics from .meas directives, and supports schematic generation and parameter tuning.",
+  "source_repo": "oniondas/SpiceMCP",
+  "source_url": "https://github.com/oniondas/SpiceMCP",
+  "install": "# git clone --depth 1 https://github.com/oniondas/SpiceMCP\n# See source for mcpServers config block"
+}

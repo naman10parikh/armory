@@ -1,0 +1,7 @@
+{
+  "name": "getxapi-mcp",
+  "description": "The official GetXAPI MCP server. Give your AI assistant direct access to the Twitter/X API - search tweets, look up users, read replies and followers, and post tweets, send DMs, manage articles, and more - through one Model Context Protocol server. Unlike read-only Twitter MCP servers, GetXAPI MCP c",
+  "source_repo": "getxapi/getxapi-mcp",
+  "source_url": "https://github.com/getxapi/getxapi-mcp",
+  "install": "npx -y getxapi-mcp"
+}

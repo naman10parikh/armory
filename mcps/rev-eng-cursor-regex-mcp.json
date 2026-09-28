@@ -1,0 +1,7 @@
+{
+  "name": "rev-eng-cursor-regex-mcp",
+  "description": "Enables fast literal and regex search over local workspaces using a sparse n-gram index for candidate pruning, with deterministic verification against file contents.",
+  "source_repo": "blas0/rev-eng-cursor-regex-mcp",
+  "source_url": "https://github.com/blas0/rev-eng-cursor-regex-mcp",
+  "install": "npx -y rev-eng-cursor-regex-mcp"
+}

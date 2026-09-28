@@ -1,0 +1,7 @@
+{
+  "name": "mcp-document-chat",
+  "description": "Exposes a document store over MCP tools, resources, and prompts for reading, editing, summarizing, and formatting documents in a chat interface.",
+  "source_repo": "JuanCamiloMendoza99/mcp-document-chat",
+  "source_url": "https://github.com/JuanCamiloMendoza99/mcp-document-chat",
+  "install": "# git clone --depth 1 https://github.com/JuanCamiloMendoza99/mcp-document-chat\n# See source for mcpServers config block"
+}

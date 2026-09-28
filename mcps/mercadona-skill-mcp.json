@@ -1,0 +1,7 @@
+{
+  "name": "mercadona-skill-mcp",
+  "description": "Enables personalized Mercadona grocery orders via natural language, with Nutri-Score prioritization and supervised cart execution (no payment). Supports user intake, product search, and integration with external menu systems.",
+  "source_repo": "Luispitik/mercadona-skill",
+  "source_url": "https://github.com/Luispitik/mercadona-skill",
+  "install": "# git clone --depth 1 https://github.com/Luispitik/mercadona-skill\n# See source for mcpServers config block"
+}

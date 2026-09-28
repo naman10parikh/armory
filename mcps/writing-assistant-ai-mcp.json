@@ -1,0 +1,7 @@
+{
+  "name": "writing-assistant-ai-mcp",
+  "description": "Content writing toolkit for headline generation, readability scoring, tone analysis, outline building, and plagiarism similarity checking.",
+  "source_repo": "CSOAI-ORG/writing-assistant-ai-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/writing-assistant-ai-mcp",
+  "install": "npx -y writing-assistant-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zee5-mcp-private",
+  "description": "MCP server providing synthetic subscriber data (profiles, watch history, billing) for personalization in a Stream Discovery ADK agent.",
+  "source_repo": "samayyy/zee5-mcp-private",
+  "source_url": "https://github.com/samayyy/zee5-mcp-private",
+  "install": "# git clone --depth 1 https://github.com/samayyy/zee5-mcp-private\n# See source for mcpServers config block"
+}

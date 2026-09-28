@@ -1,0 +1,7 @@
+{
+  "name": "vizier-yu-gi-oh-mcp",
+  "description": "MCP server for Yu-Gi-Oh! card data, providing cards, prices, banlists, rules, rulings, relations, and deck tools via a local SQLite database with semantic search.",
+  "source_repo": "l3p3r-muo/vizier",
+  "source_url": "https://github.com/l3p3r-muo/vizier",
+  "install": "# git clone --depth 1 https://github.com/l3p3r-muo/vizier\n# See source for mcpServers config block"
+}

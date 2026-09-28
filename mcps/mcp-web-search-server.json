@@ -1,0 +1,7 @@
+{
+  "name": "mcp-web-search-server",
+  "description": "MCP server for web search with LLM-optimized results and anti-detection mechanisms.",
+  "source_repo": "DmitriyOT/mcp-web-search",
+  "source_url": "https://github.com/DmitriyOT/mcp-web-search",
+  "install": "# git clone --depth 1 https://github.com/DmitriyOT/mcp-web-search\n# See source for mcpServers config block"
+}

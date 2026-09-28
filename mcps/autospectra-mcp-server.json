@@ -1,0 +1,7 @@
+{
+  "name": "autospectra-mcp-server",
+  "description": "All-in-one automation platform for AI agents, providing browser automation, API testing, debugging, and testing tools via the MCP protocol.",
+  "source_repo": "RaphaEnterprises-AI/autospectra-mcp-server",
+  "source_url": "https://github.com/RaphaEnterprises-AI/autospectra-mcp-server",
+  "install": "npx -y autospectra-mcp-server"
+}

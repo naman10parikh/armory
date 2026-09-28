@@ -1,0 +1,7 @@
+{
+  "name": "hardware-monitor-mcp-server",
+  "description": "Enables AI assistants to query real-time system metrics like CPU, RAM, disk, and battery usage, and check performance thresholds.",
+  "source_repo": "paresh-p-crest/cpu-mcp-server",
+  "source_url": "https://github.com/paresh-p-crest/cpu-mcp-server",
+  "install": "npx -y cpu-mcp-server"
+}

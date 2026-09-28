@@ -1,0 +1,7 @@
+{
+  "name": "db2st-mcp",
+  "description": "A horizontally scalable Model Context Protocol server for exposing shipment tracking (and other data sources) as authenticated MCP tools, starting with DB Schenker's public tracking endpoint.",
+  "source_repo": "AlexisMarasigan/db2st-mcp",
+  "source_url": "https://github.com/AlexisMarasigan/db2st-mcp",
+  "install": "npx -y db2st-mcp"
+}

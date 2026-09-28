@@ -1,0 +1,7 @@
+{
+  "name": "retiregolden-mcp",
+  "description": "Headless MCP server for the RetireGolden retirement-planning calculator, providing typed tools to build/validate plans, run projections, Monte Carlo simulations, and optimization via stdio.",
+  "source_repo": "RetireGolden/RetireGolden-MCP",
+  "source_url": "https://github.com/RetireGolden/RetireGolden-MCP",
+  "install": "npx -y RetireGolden-MCP"
+}

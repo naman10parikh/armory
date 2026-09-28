@@ -1,0 +1,7 @@
+{
+  "name": "google-maps-mcp",
+  "description": "A TypeScript MCP server that exposes Google Maps Platform APIs as tools for LLMs, providing real map data like directions, transit routes, place search, address validation, photos, and elevation.",
+  "source_repo": "apurvaumredkar/google-maps-mcp",
+  "source_url": "https://github.com/apurvaumredkar/google-maps-mcp",
+  "install": "npx -y google-maps-mcp"
+}

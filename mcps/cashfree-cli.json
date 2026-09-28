@@ -1,0 +1,7 @@
+{
+  "name": "cashfree-cli",
+  "description": "Enables AI agents to test Cashfree payment integrations end-to-end by creating orders, simulating payments, listening to webhooks, and verifying signatures via MCP tools.",
+  "source_repo": "mothivenkatesh/cashfree-cli",
+  "source_url": "https://github.com/mothivenkatesh/cashfree-cli",
+  "install": "# git clone --depth 1 https://github.com/mothivenkatesh/cashfree-cli\n# See source for mcpServers config block"
+}

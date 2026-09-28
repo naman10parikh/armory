@@ -1,0 +1,7 @@
+{
+  "name": "mixamo-mcp",
+  "description": "Enables Claude Code to automate Mixamo: browse/search animations, upload custom characters via Auto-Rigger, set animation parameters, and download animations with your character.",
+  "source_repo": "V1xel/mixamo-mcp",
+  "source_url": "https://github.com/V1xel/mixamo-mcp",
+  "install": "npx -y mixamo-mcp"
+}

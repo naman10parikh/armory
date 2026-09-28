@@ -1,0 +1,7 @@
+{
+  "name": "revpar-mcp",
+  "description": "A Revenue Management MCP server for hotels and short-term rentals that provides market intelligence, event data, and dynamic pricing recommendations.",
+  "source_repo": "tabaldii/revpar-mcp",
+  "source_url": "https://github.com/tabaldii/revpar-mcp",
+  "install": "npx -y revpar-mcp"
+}

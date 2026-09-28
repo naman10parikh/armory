@@ -1,0 +1,7 @@
+{
+  "name": "naukri-mcp-server",
+  "description": "MCP server for scraping and managing Naukri job postings, with tracking, filtering, and Excel export capabilities.",
+  "source_repo": "pcsuper50/Naukri-mcp-server",
+  "source_url": "https://github.com/pcsuper50/Naukri-mcp-server",
+  "install": "npx -y Naukri-mcp-server"
+}

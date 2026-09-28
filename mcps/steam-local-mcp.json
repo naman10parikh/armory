@@ -1,0 +1,7 @@
+{
+  "name": "steam-local-mcp",
+  "description": "Let your agent control your steam client. e.g. \"pick a strategy game from my library and launch it\"",
+  "source_repo": "Jackson-Brooks/steam-local-mcp",
+  "source_url": "https://github.com/Jackson-Brooks/steam-local-mcp",
+  "install": "npx -y steam-local-mcp"
+}

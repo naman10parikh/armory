@@ -1,0 +1,7 @@
+{
+  "name": "upsprint-mcp",
+  "description": "Enables AI models to interact with the Upsprints API for managing users, companies, projects, and tasks, including generating Software Design Documents (SDDs) from tasks via read/write tools and webhooks.",
+  "source_repo": "Pedro-Roger/upsprint-mcp",
+  "source_url": "https://github.com/Pedro-Roger/upsprint-mcp",
+  "install": "npx -y upsprint-mcp"
+}

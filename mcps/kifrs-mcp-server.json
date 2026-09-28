@@ -1,0 +1,7 @@
+{
+  "name": "kifrs-mcp-server",
+  "description": "Enables querying K-IFRS and K-GAAP accounting standards from kifrs.com through Claude, providing tools for listing, retrieving standard details, and searching.",
+  "source_repo": "sgj9802-hub/kifrs-mcp-server",
+  "source_url": "https://github.com/sgj9802-hub/kifrs-mcp-server",
+  "install": "npx -y kifrs-mcp-server"
+}

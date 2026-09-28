@@ -1,0 +1,7 @@
+{
+  "name": "lema",
+  "description": "Your coding agent can read the code. It can't read the argument behind it. lema-mcp gives your agent the recorded why — and the alternatives a project already ruled out — cited to the source. For React, Kubernetes, and Rust out of the box, and for your own repo with one command.",
+  "source_repo": "lemahq/lema-mcp",
+  "source_url": "https://github.com/lemahq/lema-mcp",
+  "install": "npx -y lema-mcp"
+}

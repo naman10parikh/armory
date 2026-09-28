@@ -1,0 +1,7 @@
+{
+  "name": "shopee-log-mcp-server",
+  "description": "A TypeScript MCP server for querying Shopee logs via the log platform's Mgmt API and Querymaster WebSocket flow, with config-driven service resolution and session reuse.",
+  "source_repo": "Seanlhe/logs-mcp",
+  "source_url": "https://github.com/Seanlhe/logs-mcp",
+  "install": "npx -y logs-mcp"
+}

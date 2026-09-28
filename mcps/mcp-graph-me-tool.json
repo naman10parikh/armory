@@ -1,0 +1,7 @@
+{
+  "name": "mcp-graph-me-tool",
+  "description": "Enables MCP clients to fetch the signed-in Microsoft Entra user's profile from Microsoft Graph via the GET /me endpoint using the provided bearer token.",
+  "source_repo": "day0ops/mcp-graph-me-tool",
+  "source_url": "https://github.com/day0ops/mcp-graph-me-tool",
+  "install": "# git clone --depth 1 https://github.com/day0ops/mcp-graph-me-tool\n# See source for mcpServers config block"
+}

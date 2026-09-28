@@ -1,0 +1,7 @@
+{
+  "name": "code-snippet-image-mcp",
+  "description": "Generates beautiful code snippet images with syntax highlighting and customizable themes for sharing on social media.",
+  "source_repo": "suhaibkhan/code-snippet-image-mcp",
+  "source_url": "https://github.com/suhaibkhan/code-snippet-image-mcp",
+  "install": "npx -y code-snippet-image-mcp"
+}

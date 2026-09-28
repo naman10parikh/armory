@@ -1,0 +1,7 @@
+{
+  "name": "agi-cognitive-mcp-server",
+  "description": "Provides programmatic access to causal discovery, topological data analysis, Gaussian process belief updating, thermodynamic auditing, and HCHL inference for agents and researchers.",
+  "source_repo": "SVG-campus/agi-cognitive-mcp-server",
+  "source_url": "https://github.com/SVG-campus/agi-cognitive-mcp-server",
+  "install": "npx -y agi-cognitive-mcp-server"
+}

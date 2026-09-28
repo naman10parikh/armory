@@ -1,0 +1,7 @@
+{
+  "name": "nimgen",
+  "description": "First MCP server for NVIDIA NIM FLUX. Generate and edit images using FLUX.1 models with your existing NVIDIA API key.",
+  "source_repo": "gabriel-ferraresi/NIMGEN",
+  "source_url": "https://github.com/gabriel-ferraresi/NIMGEN",
+  "install": "# git clone --depth 1 https://github.com/gabriel-ferraresi/NIMGEN\n# See source for mcpServers config block"
+}

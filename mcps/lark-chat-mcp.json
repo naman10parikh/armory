@@ -1,0 +1,7 @@
+{
+  "name": "lark-chat-mcp",
+  "description": "Enables remote chat between Feishu (Lark) and AI agents like Cursor/Claude via MCP, allowing users to send messages from Feishu groups and receive streaming replies.",
+  "source_repo": "gitByEOS/lark-chat-mcp",
+  "source_url": "https://github.com/gitByEOS/lark-chat-mcp",
+  "install": "npx -y lark-chat-mcp"
+}

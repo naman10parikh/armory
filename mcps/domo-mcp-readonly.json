@@ -1,0 +1,7 @@
+{
+  "name": "domo-mcp-readonly",
+  "description": "A read-only MCP server for the Domo BI platform that allows AI agents to query and list data, datasets, cards, and analytics structures without making any changes.",
+  "source_repo": "jphilip-png/domo-mcp-readonly",
+  "source_url": "https://github.com/jphilip-png/domo-mcp-readonly",
+  "install": "# git clone --depth 1 https://github.com/jphilip-png/domo-mcp-readonly\n# See source for mcpServers config block"
+}

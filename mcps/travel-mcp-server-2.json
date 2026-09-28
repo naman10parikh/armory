@@ -1,0 +1,7 @@
+{
+  "name": "travel-mcp-server-2",
+  "description": "An MCP server for searching flights, hotels, weather, and tourist attractions.",
+  "source_repo": "matiasvagli/mcp-server-travel",
+  "source_url": "https://github.com/matiasvagli/mcp-server-travel",
+  "install": "# git clone --depth 1 https://github.com/matiasvagli/mcp-server-travel\n# See source for mcpServers config block"
+}

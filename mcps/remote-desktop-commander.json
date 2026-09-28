@@ -1,0 +1,7 @@
+{
+  "name": "remote-desktop-commander",
+  "description": "Enables secure remote access to your computer's filesystem and terminal through MCP, allowing AI assistants to manage files, run commands, and automate tasks from anywhere via a hosted relay.",
+  "source_repo": "desktop-commander/remote-desktop-commander",
+  "source_url": "https://github.com/desktop-commander/remote-desktop-commander",
+  "install": "# git clone --depth 1 https://github.com/desktop-commander/remote-desktop-commander\n# See source for mcpServers config block"
+}

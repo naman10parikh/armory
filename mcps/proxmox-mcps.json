@@ -1,0 +1,7 @@
+{
+  "name": "proxmox-mcps",
+  "description": "Enables AI assistants to manage Proxmox VE infrastructure, including VMs, containers, storage, network, high availability, replication, SDN, and node administration.",
+  "source_repo": "ngocdd/proxmox-mcps",
+  "source_url": "https://github.com/ngocdd/proxmox-mcps",
+  "install": "# git clone --depth 1 https://github.com/ngocdd/proxmox-mcps\n# See source for mcpServers config block"
+}

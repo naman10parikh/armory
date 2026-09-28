@@ -1,0 +1,7 @@
+{
+  "name": "langfuse-mcp",
+  "description": "MCP server for Langfuse that lets Claude Code create projects, manage API keys, and query traces without touching the web UI. Designed to work with a self-hosted Langfuse v3 stack running locally via Docker Compose.",
+  "source_repo": "dominic-righthere/langfuse-mcp",
+  "source_url": "https://github.com/dominic-righthere/langfuse-mcp",
+  "install": "npx -y langfuse-mcp"
+}

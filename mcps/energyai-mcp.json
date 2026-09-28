@@ -1,0 +1,7 @@
+{
+  "name": "energyai-mcp",
+  "description": "Provides free energy intelligence APIs for AI agents: solar production estimates, US clean-energy incentives by ZIP, home Energy Node Scores, contractor search, and consented installer routing.",
+  "source_repo": "jdhart81/energyai-mcp",
+  "source_url": "https://github.com/jdhart81/energyai-mcp",
+  "install": "npx -y energyai-mcp"
+}

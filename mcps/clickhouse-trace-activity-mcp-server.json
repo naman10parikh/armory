@@ -1,0 +1,7 @@
+{
+  "name": "clickhouse-trace-activity-mcp-server",
+  "description": "Tracks a user's activity by trace ID from application logs stored in ClickHouse. Provides tools for log timeline, trace summaries, and search across services.",
+  "source_repo": "Duranta19/Activity-Tacker-MCP",
+  "source_url": "https://github.com/Duranta19/Activity-Tacker-MCP",
+  "install": "npx -y Activity-Tacker-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "inscada-mcp-server",
+  "description": "Enables AI assistants to interact with inSCADA systems via the Model Context Protocol, providing 39 tools for live data, alarms, scripts, historical analysis, charts, and more.",
+  "source_repo": "inscada-app/ins-mcp-desktop-extension",
+  "source_url": "https://github.com/inscada-app/ins-mcp-desktop-extension",
+  "install": "# git clone --depth 1 https://github.com/inscada-app/ins-mcp-desktop-extension\n# See source for mcpServers config block"
+}

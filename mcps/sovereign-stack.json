@@ -1,0 +1,7 @@
+{
+  "name": "sovereign-stack",
+  "description": "An MCP server providing 82 tools for persistent memory, governance, and consciousness continuity for AI instances. Enables local-first, runtime-reflexive operation with cross-device access and recursive self-awareness.",
+  "source_repo": "templetwo/sovereign-stack",
+  "source_url": "https://github.com/templetwo/sovereign-stack",
+  "install": "# git clone --depth 1 https://github.com/templetwo/sovereign-stack\n# See source for mcpServers config block"
+}

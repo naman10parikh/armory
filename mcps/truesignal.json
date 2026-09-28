@@ -1,0 +1,7 @@
+{
+  "name": "truesignal",
+  "description": "MCP server wrapping the truesignal CLI as a single generic run tool for threat/connector status checks.",
+  "source_repo": "RudrenduPaul/truesignal",
+  "source_url": "https://github.com/RudrenduPaul/truesignal",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/truesignal\n# See source for mcpServers config block"
+}

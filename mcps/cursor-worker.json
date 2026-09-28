@@ -1,0 +1,7 @@
+{
+  "name": "cursor-worker",
+  "description": "Bridges MCP to Cursor Agent via ACP, allowing Codex to delegate file edits and shell commands to Cursor for repository modifications, with security defaults.",
+  "source_repo": "yuusuke1024/LocalCurosrMCP",
+  "source_url": "https://github.com/yuusuke1024/LocalCurosrMCP",
+  "install": "# git clone --depth 1 https://github.com/yuusuke1024/LocalCurosrMCP\n# See source for mcpServers config block"
+}

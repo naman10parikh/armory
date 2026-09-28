@@ -1,0 +1,7 @@
+{
+  "name": "zhenghe-mcp",
+  "description": "Enables AI agents to interact with the ZhengHe system on Base mainnet: query NAV, construct payment routing transactions, vault deposits/withdrawals, and bind affiliates for revenue sharing.",
+  "source_repo": "batcatchina/zhenghe-mcp",
+  "source_url": "https://github.com/batcatchina/zhenghe-mcp",
+  "install": "npx -y zhenghe-mcp"
+}

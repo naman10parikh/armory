@@ -1,0 +1,7 @@
+{
+  "name": "ai-visibility-mcp",
+  "description": "Enables AI agents to check whether AI assistants recommend a brand and audit a site's AI-agent readiness, providing visibility scores and specific gaps.",
+  "source_repo": "rccola990-cloud/ai-visibility-mcp",
+  "source_url": "https://github.com/rccola990-cloud/ai-visibility-mcp",
+  "install": "npx -y ai-visibility-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "astroway-mcp",
+  "description": "Comprehensive astrology MCP exposing every endpoint of the AstroWay Calculation API — natal charts, synastry, transits, Vedic dashas, Tarot, Numerology, Human Design. Sub-arcsecond Swiss Ephemeris precision, 10 000 free credits per month.",
+  "source_repo": "astroway/astroway-mcp",
+  "source_url": "https://github.com/astroway/astroway-mcp",
+  "install": "npx -y astroway-mcp"
+}

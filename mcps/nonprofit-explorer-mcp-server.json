@@ -1,0 +1,7 @@
+{
+  "name": "nonprofit-explorer-mcp-server",
+  "description": "Search and explore 1.8M+ US nonprofits, fetch Form 990 financials, and access IRS filing history via MCP.",
+  "source_repo": "cyanheads/nonprofit-explorer-mcp-server",
+  "source_url": "https://github.com/cyanheads/nonprofit-explorer-mcp-server",
+  "install": "npx -y nonprofit-explorer-mcp-server"
+}

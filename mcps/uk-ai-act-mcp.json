@@ -1,0 +1,7 @@
+{
+  "name": "uk-ai-act-mcp",
+  "description": "UK AI regulation compliance MCP server enabling AI regulation tracking, risk classification, and impact assessment for AI systems deployed in the UK.",
+  "source_repo": "CSOAI-ORG/uk-ai-act-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/uk-ai-act-mcp",
+  "install": "npx -y uk-ai-act-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "github-and-alphavantage-mcp-server",
+  "description": "Enables searching GitHub users and repositories, fetching details, and performing stock market technical analysis via AlphaVantage.",
+  "source_repo": "Uditdev21/MCP-server",
+  "source_url": "https://github.com/Uditdev21/MCP-server",
+  "install": "# git clone --depth 1 https://github.com/Uditdev21/MCP-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kelivo-image-mcp",
+  "description": "Remote MCP server that enables Kelivo chat models to generate images via tool calls, supporting OpenAI-compatible relay and NovelAI backends, and returning images as Markdown links or native image blocks.",
+  "source_repo": "1906777392-star/kelivo-image-mcp",
+  "source_url": "https://github.com/1906777392-star/kelivo-image-mcp",
+  "install": "npx -y kelivo-image-mcp"
+}

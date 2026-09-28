@@ -1,0 +1,7 @@
+{
+  "name": "crm-agent-tools",
+  "description": "Provides Claude agents with CRM contact lookup, action logging, and prompt cost auditing tools. Includes a Streamlit UI to demo the same tools without an MCP client.",
+  "source_repo": "PureGit90/mcp-server-claude-agent-demo",
+  "source_url": "https://github.com/PureGit90/mcp-server-claude-agent-demo",
+  "install": "# git clone --depth 1 https://github.com/PureGit90/mcp-server-claude-agent-demo\n# See source for mcpServers config block"
+}

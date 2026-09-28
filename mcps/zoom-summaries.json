@@ -1,0 +1,7 @@
+{
+  "name": "zoom-summaries",
+  "description": "Enables users to fetch Zoom meeting summaries and write them into matching Obsidian 1:1 notes, with browser-based authentication and automatic session cookie management.",
+  "source_repo": "unhuman/zoomObsidian",
+  "source_url": "https://github.com/unhuman/zoomObsidian",
+  "install": "# git clone --depth 1 https://github.com/unhuman/zoomObsidian\n# See source for mcpServers config block"
+}

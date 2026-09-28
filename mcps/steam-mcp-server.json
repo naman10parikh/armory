@@ -1,0 +1,7 @@
+{
+  "name": "steam-mcp-server",
+  "description": "MCP server providing 25 tools to query Steam store data, player statistics, achievements, reviews, pricing, workshop items, leaderboards, inventory, and player profiles for AI-powered IDEs like Cursor.",
+  "source_repo": "TMHSDigital/steam-mcp",
+  "source_url": "https://github.com/TMHSDigital/steam-mcp",
+  "install": "npx -y steam-mcp"
+}

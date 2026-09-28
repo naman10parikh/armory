@@ -1,0 +1,7 @@
+{
+  "name": "typescript-extractor-mcp-server",
+  "description": "Enables to extract TypeScript methods, functions, and their relevant imports and class properties for code analysis, refactoring, and documentation.",
+  "source_repo": "saudqsaleshandy/development-mcp-server",
+  "source_url": "https://github.com/saudqsaleshandy/development-mcp-server",
+  "install": "npx -y development-mcp-server"
+}

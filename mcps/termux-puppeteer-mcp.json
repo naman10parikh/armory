@@ -1,0 +1,7 @@
+{
+  "name": "termux-puppeteer-mcp",
+  "description": "Enables Puppeteer-based web automation (navigation, screenshots, PDF generation, JavaScript execution, clicking) on Android Termux by running Chromium inside an Alpine Linux container.",
+  "source_repo": "kevintpeng/termux-puppeteer-mcp",
+  "source_url": "https://github.com/kevintpeng/termux-puppeteer-mcp",
+  "install": "npx -y termux-puppeteer-mcp"
+}

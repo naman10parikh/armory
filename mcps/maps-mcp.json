@@ -1,0 +1,7 @@
+{
+  "name": "maps-mcp",
+  "description": "MCP server exposing Google Maps Platform to MCP clients with seven tools for geocoding, place search/details, traffic-aware travel times, and time zones. Runs as a local stdio server or a containerized HTTP service with bearer auth, needing only a single API key.",
+  "source_repo": "snickery/maps-mcp",
+  "source_url": "https://github.com/snickery/maps-mcp",
+  "install": "npx -y maps-mcp"
+}

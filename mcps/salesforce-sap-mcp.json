@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-sap-mcp",
+  "description": "Enables Claude AI to securely query live SAP inventory data through Salesforce by invoking typed Apex methods via MCP, using OAuth 2.0 JWT Bearer flow for authentication.",
+  "source_repo": "prasanth-personal/claude-salesforce-mcp",
+  "source_url": "https://github.com/prasanth-personal/claude-salesforce-mcp",
+  "install": "npx -y claude-salesforce-mcp"
+}

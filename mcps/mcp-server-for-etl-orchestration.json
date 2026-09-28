@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-for-etl-orchestration",
+  "description": "Enables natural language-powered ETL workflows using Airflow, AWS Glue, Athena, and S3, allowing LLM agents to control and monitor data infrastructure.",
+  "source_repo": "atharvpatwardhan/MCP-Server-for-ETL-Orchestration",
+  "source_url": "https://github.com/atharvpatwardhan/MCP-Server-for-ETL-Orchestration",
+  "install": "# git clone --depth 1 https://github.com/atharvpatwardhan/MCP-Server-for-ETL-Orchestration\n# See source for mcpServers config block"
+}

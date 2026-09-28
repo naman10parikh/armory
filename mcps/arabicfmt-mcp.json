@@ -1,0 +1,7 @@
+{
+  "name": "arabicfmt-mcp",
+  "description": "MCP server for correct Arabic formatting — currency, Hijri dates, number-to-words, RTL fixes and validation across all 22 Arab countries. Zero-dependency.",
+  "source_repo": "cc1a2b/arabicfmt",
+  "source_url": "https://github.com/cc1a2b/arabicfmt",
+  "install": "# git clone --depth 1 https://github.com/cc1a2b/arabicfmt\n# See source for mcpServers config block"
+}

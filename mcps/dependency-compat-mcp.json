@@ -1,0 +1,7 @@
+{
+  "name": "dependency-compat-mcp",
+  "description": "MCP server that evaluates compatibility between exact versions of packages and runtimes using official evidence, returning structured verdicts (supported/unsupported/unknown) with sources and limitations.",
+  "source_repo": "dongju93/dependency-compat-mcp",
+  "source_url": "https://github.com/dongju93/dependency-compat-mcp",
+  "install": "npx -y dependency-compat-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cinevva-game-engine",
+  "description": "Turn the AI you already use into a game studio. Describe a game and Claude or Cursor builds it as a real 3D browser game: playable immediately, hosted on its own link, shareable with anyone. No engine, no build step, no code knowledge, nothing to export. Your AI ships the whole thing: it pulls free",
+  "source_repo": "cinevva-engine/mcp",
+  "source_url": "https://github.com/cinevva-engine/mcp",
+  "install": "# git clone --depth 1 https://github.com/cinevva-engine/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "colombia-invoice-mcp",
+  "description": "Lets AI agents issue and query Colombia DIAN electronic invoices (factura electrónica) via the Matias API, handling IVA math locally and forwarding requests to Matias for signing and DIAN transmission.",
+  "source_repo": "junter1989k-ai/colombia-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/colombia-invoice-mcp",
+  "install": "npx -y colombia-invoice-mcp"
+}

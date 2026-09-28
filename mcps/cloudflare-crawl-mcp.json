@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-crawl-mcp",
+  "description": "MCP server for Cloudflare Browser Rendering Crawl API. Fetches and crawls web pages, returning clean Markdown optimized for LLM consumption.",
+  "source_repo": "bidouilles/cloudflare-crawl-mcp",
+  "source_url": "https://github.com/bidouilles/cloudflare-crawl-mcp",
+  "install": "npx -y cloudflare-crawl-mcp"
+}

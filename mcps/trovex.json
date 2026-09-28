@@ -1,0 +1,7 @@
+{
+  "name": "trovex",
+  "description": "Indexes your repo's markdown into a canonical doc store, serving agents the single current doc per question via MCP to save tokens and keep all agents on the same source of truth.",
+  "source_repo": "TsukumoHQ/trovex",
+  "source_url": "https://github.com/TsukumoHQ/trovex",
+  "install": "# git clone --depth 1 https://github.com/TsukumoHQ/trovex\n# See source for mcpServers config block"
+}

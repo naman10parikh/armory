@@ -1,0 +1,7 @@
+{
+  "name": "muse-tts-embed",
+  "description": "Enables Claude to speak text with an embedded audio player, supporting 54 voices, voice cloning, and playback controls, all running locally.",
+  "source_repo": "falcoschaefer99-eng/muse-tts-embed",
+  "source_url": "https://github.com/falcoschaefer99-eng/muse-tts-embed",
+  "install": "# git clone --depth 1 https://github.com/falcoschaefer99-eng/muse-tts-embed\n# See source for mcpServers config block"
+}

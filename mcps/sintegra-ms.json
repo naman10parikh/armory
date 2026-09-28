@@ -1,0 +1,7 @@
+{
+  "name": "sintegra-ms",
+  "description": "Consulta a situação cadastral de empresas no SINTEGRA-MS em fonte oficial, com a ferramenta sintegra_ms_consultar e acesso via MCP over HTTP.",
+  "source_repo": "mcp-dir/sintegra_ms-mcp",
+  "source_url": "https://github.com/mcp-dir/sintegra_ms-mcp",
+  "install": "npx -y sintegra_ms-mcp"
+}

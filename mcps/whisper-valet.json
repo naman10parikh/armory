@@ -1,0 +1,7 @@
+{
+  "name": "whisper-valet",
+  "description": "Enables automated audio restoration, transcription, and speaker diarization via MCP tools for queuing files, monitoring progress, and retrieving speaker-labeled transcripts.",
+  "source_repo": "yashkotha/whisper-valet",
+  "source_url": "https://github.com/yashkotha/whisper-valet",
+  "install": "# git clone --depth 1 https://github.com/yashkotha/whisper-valet\n# See source for mcpServers config block"
+}

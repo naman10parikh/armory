@@ -1,0 +1,7 @@
+{
+  "name": "ghidramcp",
+  "description": "MCP server that allows LLMs to autonomously reverse engineer applications using Ghidra, exposing tools like decompilation, renaming, and listing methods.",
+  "source_repo": "DaCodeChick/GhidraMCP",
+  "source_url": "https://github.com/DaCodeChick/GhidraMCP",
+  "install": "# git clone --depth 1 https://github.com/DaCodeChick/GhidraMCP\n# See source for mcpServers config block"
+}

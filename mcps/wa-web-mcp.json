@@ -1,0 +1,7 @@
+{
+  "name": "wa-web-mcp",
+  "description": "MCP server that lets Claude read and send WhatsApp messages using a genuine WhatsApp Web client behind a code-enforced human-behavior middleware for safety.",
+  "source_repo": "myi1/wa-web-mcp-oss",
+  "source_url": "https://github.com/myi1/wa-web-mcp-oss",
+  "install": "# git clone --depth 1 https://github.com/myi1/wa-web-mcp-oss\n# See source for mcpServers config block"
+}

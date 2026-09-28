@@ -1,0 +1,7 @@
+{
+  "name": "lithium-vault-mcp",
+  "description": "Provides primary-source lithium and battery-metals mining data from SEC/ASX/TSX/SEDAR filings, with production, costs, reserves, and financials for 40 producers and 49 mines, paid per request via USDC on Base.",
+  "source_repo": "ciinkwia/lithium-vault-mcp",
+  "source_url": "https://github.com/ciinkwia/lithium-vault-mcp",
+  "install": "npx -y lithium-vault-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thinker-mcp",
+  "description": "MCP server for thinker-ci, exposing tickets, CI/CD pipelines, project management data, and AI-agent sessions as tools and resources for Claude Code and other MCP clients.",
+  "source_repo": "thinker-ci/thinker-mcp",
+  "source_url": "https://github.com/thinker-ci/thinker-mcp",
+  "install": "npx -y thinker-mcp"
+}

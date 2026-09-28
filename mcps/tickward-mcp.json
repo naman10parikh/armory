@@ -1,0 +1,7 @@
+{
+  "name": "tickward-mcp",
+  "description": "OAuth MCP server providing thin edge adapter access to the tickward public API via REST endpoints.",
+  "source_repo": "CorgiCorner/tickward-mcp",
+  "source_url": "https://github.com/CorgiCorner/tickward-mcp",
+  "install": "npx -y tickward-mcp"
+}

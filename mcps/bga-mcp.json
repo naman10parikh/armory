@@ -1,0 +1,7 @@
+{
+  "name": "bga-mcp",
+  "description": "An unofficial Model Context Protocol server for Board Game Arena Studio development, providing structured access to BGA project inspection, validation, documentation, and safe Studio operations.",
+  "source_repo": "Brandon-Born/bga-mcp",
+  "source_url": "https://github.com/Brandon-Born/bga-mcp",
+  "install": "npx -y bga-mcp"
+}

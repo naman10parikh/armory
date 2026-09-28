@@ -1,0 +1,7 @@
+{
+  "name": "macos-control-mcp",
+  "description": "MCP server that enables AI to fully control macOS — mouse, keyboard, terminal, screenshots, window management, UI element detection, and provides AI-optimized information reporting.",
+  "source_repo": "vito1317/macos-control-mcp",
+  "source_url": "https://github.com/vito1317/macos-control-mcp",
+  "install": "npx -y macos-control-mcp"
+}

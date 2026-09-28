@@ -1,0 +1,7 @@
+{
+  "name": "code-repo-mcp",
+  "description": "An MCP server that exposes glob, grep, and list_repos tools over a folder containing multiple git repositories, allowing clients to search across repos by name without local filesystem access.",
+  "source_repo": "janstuemmel/code-repo-mcp",
+  "source_url": "https://github.com/janstuemmel/code-repo-mcp",
+  "install": "npx -y code-repo-mcp"
+}

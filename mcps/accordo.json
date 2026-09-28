@@ -1,0 +1,7 @@
+{
+  "name": "accordo",
+  "description": "A YAML-driven workflow guidance MCP server that enables AI coding agents to follow structured development workflows with real-time state tracking and progression control.",
+  "source_repo": "AndurilCode/accordo",
+  "source_url": "https://github.com/AndurilCode/accordo",
+  "install": "# git clone --depth 1 https://github.com/AndurilCode/accordo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sovseal-mcp-server",
+  "description": "Provides a private, on-device memory with semantic search for MCP clients, enabling encrypted storage and recall of context facts without external API calls.",
+  "source_repo": "sovseal/mcp-server",
+  "source_url": "https://github.com/sovseal/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/sovseal/mcp-server\n# See source for mcpServers config block"
+}

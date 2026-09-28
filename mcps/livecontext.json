@@ -1,0 +1,7 @@
+{
+  "name": "livecontext",
+  "description": "LiveContext is a self-hosted AI automation platform that exposes its whole surface over MCP: build and run workflows, manage agents and skills, read and write tables, browse workspace files, create web interfaces, and call 600+ third-party API integrations. Tools are unified per resource and driven",
+  "source_repo": "livecontext-ai/livecontext-ce",
+  "source_url": "https://github.com/livecontext-ai/livecontext-ce",
+  "install": "# git clone --depth 1 https://github.com/livecontext-ai/livecontext-ce\n# See source for mcpServers config block"
+}

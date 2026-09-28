@@ -1,0 +1,7 @@
+{
+  "name": "coinbase-mcp-server",
+  "description": "Provides tools for interacting with the Coinbase Advanced Trading API, enabling autonomous crypto trading via a Claude skill.",
+  "source_repo": "visusnet/coinbase-mcp-server",
+  "source_url": "https://github.com/visusnet/coinbase-mcp-server",
+  "install": "npx -y coinbase-mcp-server"
+}

@@ -1,6 +1,6 @@
 {
   "name": "jhony-mcp",
-  "description": "Jhony Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "joao-loker/jhony-mcp",
   "source_url": "https://mcp.so/server/jhony-mcp/joao-loker",
   "install": "npx -y jhony-mcp"

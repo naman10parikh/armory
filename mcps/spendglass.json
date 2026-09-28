@@ -1,0 +1,7 @@
+{
+  "name": "spendglass",
+  "description": "Read-only MCP server that lets local AI agents query bank transactions stored in a local SQLite database, with tools for accounts, transaction search, spending summaries, recurring charges, trends, themes, subscriptions, and store health.",
+  "source_repo": "shawn-durrani/spendglass",
+  "source_url": "https://github.com/shawn-durrani/spendglass",
+  "install": "# git clone --depth 1 https://github.com/shawn-durrani/spendglass\n# See source for mcpServers config block"
+}

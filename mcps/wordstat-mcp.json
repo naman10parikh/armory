@@ -1,0 +1,7 @@
+{
+  "name": "wordstat-mcp",
+  "description": "Connects Claude or ChatGPT to Yandex Wordstat for keyword research, enabling frequency lookups, related phrase suggestions with noise filtering, and 24-month seasonality analysis directly in chat.",
+  "source_repo": "marketscore/marketscore-wordstat-mcp",
+  "source_url": "https://github.com/marketscore/marketscore-wordstat-mcp",
+  "install": "npx -y marketscore-wordstat-mcp"
+}

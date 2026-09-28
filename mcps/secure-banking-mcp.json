@@ -1,0 +1,7 @@
+{
+  "name": "secure-banking-mcp",
+  "description": "Demonstrates secure banking operations with mock data, enabling an AI assistant to query accounts while identity and authorization are enforced via signed tokens outside the conversation.",
+  "source_repo": "Lawaa/secure-banking-mcp",
+  "source_url": "https://github.com/Lawaa/secure-banking-mcp",
+  "install": "npx -y secure-banking-mcp"
+}

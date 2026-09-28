@@ -1,6 +1,6 @@
 {
   "name": "unsplash-mcp-server-5",
-  "description": "Unsplash Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Mineru98/unsplash-mcp-server",
   "source_url": "https://mcp.so/server/unsplash-mcp-server/Mineru98",
   "install": "npx -y unsplash-mcp-server"

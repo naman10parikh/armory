@@ -1,0 +1,7 @@
+{
+  "name": "vercel-mcp-server",
+  "description": "Enables interaction with Vercel's REST API through natural language. Facilitates managing deployments, projects, domains, environment variables, teams, and more.",
+  "source_repo": "hemichaeli/vercel-mcp-server",
+  "source_url": "https://github.com/hemichaeli/vercel-mcp-server",
+  "install": "npx -y vercel-mcp-server"
+}

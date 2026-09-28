@@ -1,0 +1,7 @@
+{
+  "name": "flighttrack",
+  "description": "MCP server for monitoring flight prices: users can track flights, set price thresholds, receive Telegram alerts on drops, and query current tracked flights and historical price trends via natural language.",
+  "source_repo": "KaitlynOoi/flighttrack",
+  "source_url": "https://github.com/KaitlynOoi/flighttrack",
+  "install": "# git clone --depth 1 https://github.com/KaitlynOoi/flighttrack\n# See source for mcpServers config block"
+}

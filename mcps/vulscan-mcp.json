@@ -1,0 +1,7 @@
+{
+  "name": "vulscan-mcp",
+  "description": "MCP server that scans project dependencies for security vulnerabilities (CVEs) and provides fix instructions directly in VS Code via Copilot.",
+  "source_repo": "abhishekrai43/VulScan-MCP",
+  "source_url": "https://github.com/abhishekrai43/VulScan-MCP",
+  "install": "npx -y VulScan-MCP"
+}

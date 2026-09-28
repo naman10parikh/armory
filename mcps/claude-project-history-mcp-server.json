@@ -1,0 +1,7 @@
+{
+  "name": "claude-project-history-mcp-server",
+  "description": "Tracks workflows, tasks, blockers, and decisions locally for Claude Code, using PGlite with no cloud dependencies.",
+  "source_repo": "MatthewDegtyar/claude-project-history",
+  "source_url": "https://github.com/MatthewDegtyar/claude-project-history",
+  "install": "# git clone --depth 1 https://github.com/MatthewDegtyar/claude-project-history\n# See source for mcpServers config block"
+}

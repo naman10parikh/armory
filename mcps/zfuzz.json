@@ -1,0 +1,7 @@
+{
+  "name": "zfuzz",
+  "description": "Real security scanners for AI coding agents — SAST (441 rules), secret detection (419+ patterns), dependency CVEs (OSV.dev), MCP/skill vetting, MITRE ATT&CK. Open-source, Rust, free",
+  "source_repo": "Zfuzz-dev/zfuzz-mcp",
+  "source_url": "https://github.com/Zfuzz-dev/zfuzz-mcp",
+  "install": "npx -y zfuzz-mcp"
+}

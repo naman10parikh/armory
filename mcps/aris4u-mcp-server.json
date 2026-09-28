@@ -1,0 +1,7 @@
+{
+  "name": "aris4u-mcp-server",
+  "description": "An MCP server providing per-client memory, governance, and five tools (ingest, search, dialectic, health, recall) for Claude Code, running locally with zero external token cost.",
+  "source_repo": "aris4u-dev/aris4u",
+  "source_url": "https://github.com/aris4u-dev/aris4u",
+  "install": "# git clone --depth 1 https://github.com/aris4u-dev/aris4u\n# See source for mcpServers config block"
+}

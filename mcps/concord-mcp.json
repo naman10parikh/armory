@@ -1,0 +1,7 @@
+{
+  "name": "concord-mcp",
+  "description": "Enables MCP clients to look up Bible verses, perform semantic search, and access original-language word study through a local Concord instance, providing accurate citations and honesty about uncertainty.",
+  "source_repo": "kbennett2000/concord-mcp",
+  "source_url": "https://github.com/kbennett2000/concord-mcp",
+  "install": "npx -y concord-mcp"
+}

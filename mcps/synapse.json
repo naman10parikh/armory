@@ -1,0 +1,7 @@
+{
+  "name": "synapse",
+  "description": "Provides structural code intelligence via 26 MCP tools, enabling AI assistants to query code symbols, dependencies, and call graphs accurately without file-pasting.",
+  "source_repo": "amitsingh2003/Synapse",
+  "source_url": "https://github.com/amitsingh2003/Synapse",
+  "install": "# git clone --depth 1 https://github.com/amitsingh2003/Synapse\n# See source for mcpServers config block"
+}

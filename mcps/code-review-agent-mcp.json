@@ -1,0 +1,7 @@
+{
+  "name": "code-review-agent-mcp",
+  "description": "An AI-powered MCP server that reviews code bluntly, without sugarcoating, citing line numbers and severity labels.",
+  "source_repo": "frangelbarrera/code-review-agent-mcp",
+  "source_url": "https://github.com/frangelbarrera/code-review-agent-mcp",
+  "install": "npx -y code-review-agent-mcp"
+}

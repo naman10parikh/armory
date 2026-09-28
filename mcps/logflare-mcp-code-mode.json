@@ -1,0 +1,7 @@
+{
+  "name": "logflare-mcp-code-mode",
+  "description": "Enables agents to interact with the Logflare API by writing JavaScript functions that run in a Vercel Sandbox, using three tools: search, execute_read, and execute_write.",
+  "source_repo": "Rodriguespn/logflare-mcp-code-mode",
+  "source_url": "https://github.com/Rodriguespn/logflare-mcp-code-mode",
+  "install": "# git clone --depth 1 https://github.com/Rodriguespn/logflare-mcp-code-mode\n# See source for mcpServers config block"
+}

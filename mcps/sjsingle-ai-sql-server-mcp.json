@@ -1,0 +1,7 @@
+{
+  "name": "sjsingle-ai-sql-server-mcp",
+  "description": "MCP server for Microsoft SQL Server enabling safe read-only queries, schema discovery, and natural-language query via LangChain.",
+  "source_repo": "DhruviPatel712/dhruvi_mcp_server",
+  "source_url": "https://github.com/DhruviPatel712/dhruvi_mcp_server",
+  "install": "npx -y dhruvi_mcp_server"
+}

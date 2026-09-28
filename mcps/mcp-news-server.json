@@ -1,0 +1,7 @@
+{
+  "name": "mcp-news-server",
+  "description": "Fetches, summarizes, and analyzes Turkish news from multiple RSS sources using NLP techniques.",
+  "source_repo": "gamzesirin/MCP-News-Server",
+  "source_url": "https://github.com/gamzesirin/MCP-News-Server",
+  "install": "# git clone --depth 1 https://github.com/gamzesirin/MCP-News-Server\n# See source for mcpServers config block"
+}

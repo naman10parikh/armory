@@ -1,0 +1,7 @@
+{
+  "name": "askboard-mcp",
+  "description": "A local MCP server that collects structured human input via browser forms and maintains a searchable history dashboard.",
+  "source_repo": "qinsehm1128/askboard-mcp",
+  "source_url": "https://github.com/qinsehm1128/askboard-mcp",
+  "install": "npx -y askboard-mcp"
+}

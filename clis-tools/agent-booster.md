@@ -7,7 +7,7 @@ license: MIT
 ---
 # agent-booster
 
-Use to apply deterministic, zero-LLM code transforms — fast, repeatable edits that don't need a model — so an agent offloads mechanical changes to a cheap tool instead of spending tokens reasoning through them.
+Use to apply deterministic, zero-LLM code transforms: fast, repeatable edits that don't need a model, so an agent offloads mechanical changes to a cheap tool instead of spending tokens reasoning through them.
 
 **Source:** https://github.com/naman10parikh/agent-booster
 

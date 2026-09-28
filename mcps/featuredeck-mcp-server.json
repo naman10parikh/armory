@@ -1,0 +1,7 @@
+{
+  "name": "featuredeck-mcp-server",
+  "description": "Enables interaction with Featuredeck's feature request and roadmap management through natural language, supporting reading and writing operations with API key authentication.",
+  "source_repo": "Mak-3/featuredeck-mcp",
+  "source_url": "https://github.com/Mak-3/featuredeck-mcp",
+  "install": "npx -y featuredeck-mcp"
+}

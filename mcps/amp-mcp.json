@@ -1,0 +1,7 @@
+{
+  "name": "amp-mcp",
+  "description": "Enables MCP-compatible coding harnesses to read Amp threads as Markdown, with pagination and filtering options, through a read-only interface.",
+  "source_repo": "vadim0x60/amp-mcp",
+  "source_url": "https://github.com/vadim0x60/amp-mcp",
+  "install": "npx -y amp-mcp"
+}

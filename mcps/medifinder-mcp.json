@@ -1,6 +1,6 @@
 {
   "name": "medifinder-mcp",
-  "description": "Medifinder Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "MediFinderBot/medifinder-mcp",
   "source_url": "https://mcp.so/server/medifinder-mcp/MediFinderBot",
   "install": "npx -y medifinder-mcp"

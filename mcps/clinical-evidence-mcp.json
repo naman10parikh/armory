@@ -1,0 +1,7 @@
+{
+  "name": "clinical-evidence-mcp",
+  "description": "Searches medical literature, clinical trials, drug labels, and adverse-event reports via official public APIs, returning structured records with source URLs and timestamps.",
+  "source_repo": "danielk-am/clinical-evidence-mcp",
+  "source_url": "https://github.com/danielk-am/clinical-evidence-mcp",
+  "install": "npx -y clinical-evidence-mcp"
+}

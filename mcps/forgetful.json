@@ -1,0 +1,7 @@
+{
+  "name": "forgetful",
+  "description": "A storage and retrieval MCP server for AI agents using FastMCP, enabling persistent knowledge base with semantic search and automatic linking.",
+  "source_repo": "ScottRBK/forgetful",
+  "source_url": "https://github.com/ScottRBK/forgetful",
+  "install": "# git clone --depth 1 https://github.com/ScottRBK/forgetful\n# See source for mcpServers config block"
+}

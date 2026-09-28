@@ -1,0 +1,7 @@
+{
+  "name": "godot-mcp-2",
+  "description": "An out-of-the-box, zero-dependency Model Context Protocol (MCP) server integration designed specifically for the Godot Engine (4.x).Once connected, your AI agents (Claude, Cursor, Trae, ChatGPT) gain access to a powerful set of tools to interact with your active Godot project directory.",
+  "source_repo": "vberai/godot-mcp",
+  "source_url": "https://github.com/vberai/godot-mcp",
+  "install": "npx -y godot-mcp"
+}

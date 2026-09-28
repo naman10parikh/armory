@@ -1,0 +1,7 @@
+{
+  "name": "packwright-mcp",
+  "description": "A local-first MCP server for safely creating, inspecting, validating, testing, and packaging Minecraft Java Edition datapacks with guarded file access and deterministic builds.",
+  "source_repo": "rithwikbabu/packwright-mcp",
+  "source_url": "https://github.com/rithwikbabu/packwright-mcp",
+  "install": "npx -y packwright-mcp"
+}

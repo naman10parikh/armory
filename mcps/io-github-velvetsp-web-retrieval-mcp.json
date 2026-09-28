@@ -1,0 +1,7 @@
+{
+  "name": "io-github-velvetsp-web-retrieval-mcp",
+  "description": "An open-source MCP server providing AI agents with neural web search via Exa and tiered web fetch (Exa, local browser, Firecrawl) as a drop-in replacement for built-in web tools, preserving provenance and guarding against SSRF.",
+  "source_repo": "VelvetSP/web-retrieval-mcp",
+  "source_url": "https://github.com/VelvetSP/web-retrieval-mcp",
+  "install": "npx -y web-retrieval-mcp"
+}

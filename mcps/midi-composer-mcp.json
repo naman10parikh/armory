@@ -1,0 +1,7 @@
+{
+  "name": "midi-composer-mcp",
+  "description": "Provides atomic music-theory and MIDI tools for composing, enabling LLMs to chain deterministic steps like scale/chord lookups, degree resolution, rhythm generation, and MIDI rendering.",
+  "source_repo": "voho/midi-composer-mcp",
+  "source_url": "https://github.com/voho/midi-composer-mcp",
+  "install": "npx -y midi-composer-mcp"
+}

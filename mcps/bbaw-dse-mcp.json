@@ -1,0 +1,7 @@
+{
+  "name": "bbaw-dse-mcp",
+  "description": "Enables natural-language querying of multiple digital scholarly editions, aggregating Schleiermacher digital, Praktiken der Monarchie, and correspSearch into a single MCP endpoint.",
+  "source_repo": "telota/bbaw-dse-mcp",
+  "source_url": "https://github.com/telota/bbaw-dse-mcp",
+  "install": "npx -y bbaw-dse-mcp"
+}

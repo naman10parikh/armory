@@ -1,0 +1,7 @@
+{
+  "name": "mcp-app-proxyfier",
+  "description": "MCP server delivering interactive MCP Apps UI for Megamarket shopping, enabling search, product details, cart, and checkout through native interfaces within the chat.",
+  "source_repo": "DreamShaded/MCP-Apps-data-proxyfier",
+  "source_url": "https://github.com/DreamShaded/MCP-Apps-data-proxyfier",
+  "install": "# git clone --depth 1 https://github.com/DreamShaded/MCP-Apps-data-proxyfier\n# See source for mcpServers config block"
+}

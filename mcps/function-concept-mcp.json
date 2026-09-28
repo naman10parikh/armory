@@ -1,0 +1,7 @@
+{
+  "name": "function-concept-mcp",
+  "description": "Enables access to a local Markdown knowledge base via MCP, currently only providing a ping tool.",
+  "source_repo": "blackmarketing2026/Function-Concept-MCP",
+  "source_url": "https://github.com/blackmarketing2026/Function-Concept-MCP",
+  "install": "npx -y Function-Concept-MCP"
+}

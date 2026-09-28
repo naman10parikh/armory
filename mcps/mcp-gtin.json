@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gtin",
+  "description": "Provides GTIN barcode validation and check digit computation for EAN-13, UPC-A, EAN-8, and GTIN-14 formats as an MCP server, part of the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-gtin",
+  "source_url": "https://github.com/pipeworx-io/mcp-gtin",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-gtin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "akij-hr-data-mcp",
+  "description": "A read-only MCP server that exposes a configured Google Drive folder to MCP clients, enabling them to list, search, and extract content from various file formats like Excel, CSV, PDF, DOCX, and images.",
+  "source_repo": "mdshahabdulaziz-beep/mcp-akij",
+  "source_url": "https://github.com/mdshahabdulaziz-beep/mcp-akij",
+  "install": "# git clone --depth 1 https://github.com/mdshahabdulaziz-beep/mcp-akij\n# See source for mcpServers config block"
+}

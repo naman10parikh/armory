@@ -1,0 +1,7 @@
+{
+  "name": "local-mlx-mcp",
+  "description": "Exposes locally hosted MLX models as MCP tools for Claude Desktop and Codex, with optional SearXNG search augmentation for private local inference.",
+  "source_repo": "obyrned/local-mlx-mcp",
+  "source_url": "https://github.com/obyrned/local-mlx-mcp",
+  "install": "npx -y local-mlx-mcp"
+}

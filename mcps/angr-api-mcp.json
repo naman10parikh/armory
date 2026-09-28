@@ -1,0 +1,7 @@
+{
+  "name": "angr-api-mcp",
+  "description": "MCP server for angr binary analysis API workflow retrieval. Extracts real API usage patterns from angr's source code and angr-doc examples, then indexes them with semantic search so LLMs can query correct API call sequences.",
+  "source_repo": "Taardisaa/angr-api-mcp",
+  "source_url": "https://github.com/Taardisaa/angr-api-mcp",
+  "install": "npx -y angr-api-mcp"
+}

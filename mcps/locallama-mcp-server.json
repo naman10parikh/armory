@@ -1,0 +1,7 @@
+{
+  "name": "locallama-mcp-server",
+  "description": "Routes coding tasks to local and remote LLMs with intelligent cost-quality optimization, supports benchmarking and code search.",
+  "source_repo": "Heratiki/locallama-mcp",
+  "source_url": "https://github.com/Heratiki/locallama-mcp",
+  "install": "npx -y locallama-mcp"
+}

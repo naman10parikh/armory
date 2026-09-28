@@ -1,0 +1,7 @@
+{
+  "name": "viral-mcp",
+  "description": "MCP server that wraps the last30days research engine, enabling agents to run topic research across social/web sources with a synthesis contract.",
+  "source_repo": "viral-sangani/viral-mcp",
+  "source_url": "https://github.com/viral-sangani/viral-mcp",
+  "install": "npx -y viral-mcp"
+}

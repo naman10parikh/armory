@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tmobile",
+  "description": "Automates T-Mobile account interactions such as viewing usage, paying bills, and checking upgrade eligibility using Playwright browser automation.",
+  "source_repo": "markswendsen-code/mcp-tmobile",
+  "source_url": "https://github.com/markswendsen-code/mcp-tmobile",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-tmobile\n# See source for mcpServers config block"
+}

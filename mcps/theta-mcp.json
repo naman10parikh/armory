@@ -1,0 +1,7 @@
+{
+  "name": "theta-mcp",
+  "description": "A comprehensive sales automation platform combining Model Context Protocol (MCP) server with Gemini AI voice interface, featuring 13+ integrated sales tools and AWS deployment capabilities.",
+  "source_repo": "arsalannkhann/Theta-MCP",
+  "source_url": "https://github.com/arsalannkhann/Theta-MCP",
+  "install": "npx -y Theta-MCP"
+}

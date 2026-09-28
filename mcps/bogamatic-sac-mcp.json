@@ -1,0 +1,7 @@
+{
+  "name": "bogamatic-sac-mcp",
+  "description": "Enables interaction with the Argentine judiciary system (SAC - Justicia Cordoba) via Claude Desktop, supporting case searches, notifications, and procedural deadlines.",
+  "source_repo": "inncode-io/bogamatic-mcp",
+  "source_url": "https://github.com/inncode-io/bogamatic-mcp",
+  "install": "npx -y bogamatic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "flow-agent-mcp",
+  "description": "An MCP server that exposes Estuary Flow pipeline operations as typed tools, enabling agents to inspect pipeline health, publish captures and materializations, edit/restart tasks, and read landed documents via tool calls.",
+  "source_repo": "awictor/flow-agent-mcp",
+  "source_url": "https://github.com/awictor/flow-agent-mcp",
+  "install": "npx -y flow-agent-mcp"
+}

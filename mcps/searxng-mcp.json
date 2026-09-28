@@ -1,0 +1,7 @@
+{
+  "name": "searxng-mcp",
+  "description": "MCP server for private web search via self-hosted SearXNG with local reranking, full-page content fetching via Firecrawl, and optional Ollama-powered query expansion and summaries.",
+  "source_repo": "TadMSTR/searxng-mcp",
+  "source_url": "https://github.com/TadMSTR/searxng-mcp",
+  "install": "npx -y searxng-mcp"
+}

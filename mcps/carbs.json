@@ -1,0 +1,7 @@
+{
+  "name": "carbs",
+  "description": "A local MCP server for research that bundles SearXNG meta-search and Crawl4AI web scraping, offering tools for search, scraping, structured extraction, and deep research.",
+  "source_repo": "ferre-z/carbs",
+  "source_url": "https://github.com/ferre-z/carbs",
+  "install": "# git clone --depth 1 https://github.com/ferre-z/carbs\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-jobs-agent",
+  "description": "ai-jobs-agent MCP server: Exposes an autonomous job-detection agent's data to MCP clients, offering tools to search jobs, retrieve job details, view detection-latency statistics, and trigger on-demand sweeps",
+  "source_repo": "wale-eth/ai-jobs-agent",
+  "source_url": "https://github.com/wale-eth/ai-jobs-agent",
+  "install": "# git clone --depth 1 https://github.com/wale-eth/ai-jobs-agent\n# See source for mcpServers config block"
+}

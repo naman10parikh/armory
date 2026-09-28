@@ -1,0 +1,7 @@
+{
+  "name": "signal-scanner",
+  "description": "YAML-rule stock/crypto screener: define a watchlist + plain rules (RSI, SMA cross, volume, 52-week) and get matches via console, Telegram, or MCP. Keyless (yfinance).",
+  "source_repo": "cstamigo-droid/signal-scanner",
+  "source_url": "https://github.com/cstamigo-droid/signal-scanner",
+  "install": "# git clone --depth 1 https://github.com/cstamigo-droid/signal-scanner\n# See source for mcpServers config block"
+}

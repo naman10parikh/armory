@@ -1,0 +1,7 @@
+{
+  "name": "elasticsearch-memory-mcp",
+  "description": "Provides persistent, intelligent memory using Elasticsearch with hierarchical categorization and semantic search for LLM contexts.",
+  "source_repo": "fredac100/elasticsearch-memory-mcp",
+  "source_url": "https://github.com/fredac100/elasticsearch-memory-mcp",
+  "install": "npx -y elasticsearch-memory-mcp"
+}

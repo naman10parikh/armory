@@ -1,0 +1,7 @@
+{
+  "name": "mcp-caddy",
+  "description": "Enables management of Caddy web server via admin API, allowing inspection of routes, upstream health, certificates, and configuration reloading.",
+  "source_repo": "aaronckj/mcp-caddy",
+  "source_url": "https://github.com/aaronckj/mcp-caddy",
+  "install": "# git clone --depth 1 https://github.com/aaronckj/mcp-caddy\n# See source for mcpServers config block"
+}

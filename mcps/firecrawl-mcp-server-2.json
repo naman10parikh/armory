@@ -1,0 +1,7 @@
+{
+  "name": "firecrawl-mcp-server-2",
+  "description": "Integrates with Firecrawl for web scraping, enabling capabilities like scraping, crawling, searching, extracting, deep research, and batch scraping with JavaScript rendering and smart content filtering.",
+  "source_repo": "AmokOrg/firecrawl-mcp-server-1",
+  "source_url": "https://github.com/AmokOrg/firecrawl-mcp-server-1",
+  "install": "# git clone --depth 1 https://github.com/AmokOrg/firecrawl-mcp-server-1\n# See source for mcpServers config block"
+}

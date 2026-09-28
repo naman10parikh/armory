@@ -1,0 +1,7 @@
+{
+  "name": "windows-debug-mcp",
+  "description": "Read-only MCP server for diagnosing Windows crashes, stability, and gaming performance by reading event logs, crash dumps, hardware inventory, performance counters, and registry settings.",
+  "source_repo": "emyk/windows-mcp",
+  "source_url": "https://github.com/emyk/windows-mcp",
+  "install": "npx -y windows-mcp"
+}

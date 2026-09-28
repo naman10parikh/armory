@@ -1,0 +1,7 @@
+{
+  "name": "argocd-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for integrating ArgoCD GitOps continuous delivery tool with GenAI applications, enabling intelligent Kubernetes deployment management.",
+  "source_repo": "asklokesh/argocd-mcp-server",
+  "source_url": "https://github.com/asklokesh/argocd-mcp-server",
+  "install": "npx -y argocd-mcp-server"
+}

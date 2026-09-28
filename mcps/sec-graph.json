@@ -1,0 +1,7 @@
+{
+  "name": "sec-graph",
+  "description": "Enables triage of SAST findings by exposing a read-only MCP server with tools to access hash-verified source-to-sink code slices, unguarded sinks, and layered enrichment for local LLM analysis.",
+  "source_repo": "Vadale/sec-graph",
+  "source_url": "https://github.com/Vadale/sec-graph",
+  "install": "# git clone --depth 1 https://github.com/Vadale/sec-graph\n# See source for mcpServers config block"
+}

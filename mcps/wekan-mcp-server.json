@@ -1,0 +1,7 @@
+{
+  "name": "wekan-mcp-server",
+  "description": "Enables interaction with Wekan kanban boards through the Wekan REST API, supporting board, list, and card operations via natural language.",
+  "source_repo": "namar0x0309/wekan-mcp",
+  "source_url": "https://github.com/namar0x0309/wekan-mcp",
+  "install": "npx -y wekan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rustfs-mcp",
+  "description": "A per-add-on RustFS (S3) object-storage admin MCP for the kubero chat, enabling management of S3-compatible buckets and objects through natural language.",
+  "source_repo": "stackblaze/rustfs-mcp",
+  "source_url": "https://github.com/stackblaze/rustfs-mcp",
+  "install": "npx -y rustfs-mcp"
+}

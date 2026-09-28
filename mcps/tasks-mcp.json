@@ -1,0 +1,7 @@
+{
+  "name": "tasks-mcp",
+  "description": "Enables AI assistants to manage Notion tasks, projects, and courses through MCP, allowing creation, retrieval, and filtering of tasks.",
+  "source_repo": "markmusic27/tasks-mcp",
+  "source_url": "https://github.com/markmusic27/tasks-mcp",
+  "install": "npx -y tasks-mcp"
+}

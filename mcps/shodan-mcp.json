@@ -1,0 +1,7 @@
+{
+  "name": "shodan-mcp",
+  "description": "Enables searching Shodan for devices and services, and looking up host details, through natural language.",
+  "source_repo": "radeksh/shodan-mcp",
+  "source_url": "https://github.com/radeksh/shodan-mcp",
+  "install": "npx -y shodan-mcp"
+}

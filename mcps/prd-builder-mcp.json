@@ -1,0 +1,7 @@
+{
+  "name": "prd-builder-mcp",
+  "description": "Enables product managers to create, edit, and export product requirements documents interactively within Claude's chat, with real-time completeness scoring and suggestions.",
+  "source_repo": "benhedrington/prd-builder-mcp",
+  "source_url": "https://github.com/benhedrington/prd-builder-mcp",
+  "install": "npx -y prd-builder-mcp"
+}

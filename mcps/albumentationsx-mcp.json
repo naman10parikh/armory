@@ -1,0 +1,7 @@
+{
+  "name": "albumentationsx-mcp",
+  "description": "Model Context Protocol server for discovering transforms, validating augmentation pipelines, rendering deterministic previews, and exporting reproducible pipeline specs.",
+  "source_repo": "dKosarevsky/albu-mcp",
+  "source_url": "https://github.com/dKosarevsky/albu-mcp",
+  "install": "npx -y albu-mcp"
+}

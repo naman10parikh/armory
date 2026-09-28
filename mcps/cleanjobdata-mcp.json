@@ -1,0 +1,7 @@
+{
+  "name": "cleanjobdata-mcp",
+  "description": "MCP server for interacting with the CleanJobData Job API, enabling job searches, company lookups, location suggestions, and candidate profile prompts.",
+  "source_repo": "jhgaylor/cleanjobdata-mcp",
+  "source_url": "https://github.com/jhgaylor/cleanjobdata-mcp",
+  "install": "npx -y cleanjobdata-mcp"
+}

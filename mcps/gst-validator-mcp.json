@@ -1,0 +1,7 @@
+{
+  "name": "gst-validator-mcp",
+  "description": "Validates Indian GSTIN numbers with structural checks, embedded PAN extraction, state-code lookup, and mod-36 check character validation, all via local compute.",
+  "source_repo": "guptaprakhariitr/gst-validator-mcp",
+  "source_url": "https://github.com/guptaprakhariitr/gst-validator-mcp",
+  "install": "npx -y gst-validator-mcp"
+}

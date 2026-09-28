@@ -1,0 +1,7 @@
+{
+  "name": "retro-diffusion-mcp-server",
+  "description": "Generate real pixel art — sprites, animations, and tilesets — from any MCP-capable AI assistant. Grid-aligned pixels, controlled palettes, transparent backgrounds, with cost estimation always free.",
+  "source_repo": "Retro-Diffusion/retro-diffusion-mcp",
+  "source_url": "https://github.com/Retro-Diffusion/retro-diffusion-mcp",
+  "install": "npx -y retro-diffusion-mcp"
+}

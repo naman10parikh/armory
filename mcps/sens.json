@@ -1,0 +1,7 @@
+{
+  "name": "sens",
+  "description": "Provides MCP tools for Claude Code to query a project's codebase via a compact index, reducing token usage and context bloat by enabling symbol lookup, usage tracking, and dead-code detection.",
+  "source_repo": "iiTzSenn/Sens",
+  "source_url": "https://github.com/iiTzSenn/Sens",
+  "install": "# git clone --depth 1 https://github.com/iiTzSenn/Sens\n# See source for mcpServers config block"
+}

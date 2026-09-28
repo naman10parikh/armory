@@ -1,0 +1,7 @@
+{
+  "name": "fluf-mcp",
+  "description": "Enables AI agents to manage multichannel e-commerce inventory, list products, view orders, and raise support tickets across connected marketplaces via FLUF Connect, without per-marketplace API complexity.",
+  "source_repo": "FLUF-io/fluf-mcp",
+  "source_url": "https://github.com/FLUF-io/fluf-mcp",
+  "install": "npx -y fluf-mcp"
+}

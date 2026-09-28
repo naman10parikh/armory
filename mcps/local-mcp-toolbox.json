@@ -1,0 +1,7 @@
+{
+  "name": "local-mcp-toolbox",
+  "description": "A secure, local-first MCP server for read-only inspection and troubleshooting of development environments, exposing narrow, typed, auditable capabilities for repository inspection, log summarization, Docker review, and security scanning without granting unrestricted machine access.",
+  "source_repo": "chriswayneh/local-mcp-toolbox",
+  "source_url": "https://github.com/chriswayneh/local-mcp-toolbox",
+  "install": "# git clone --depth 1 https://github.com/chriswayneh/local-mcp-toolbox\n# See source for mcpServers config block"
+}

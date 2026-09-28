@@ -1,0 +1,7 @@
+{
+  "name": "nessus-mcp-server",
+  "description": "Enables natural language interaction with Tenable Nessus for vulnerability scans, policy management, and report generation.",
+  "source_repo": "SamTesura/nessus-mcp-server",
+  "source_url": "https://github.com/SamTesura/nessus-mcp-server",
+  "install": "npx -y nessus-mcp-server"
+}

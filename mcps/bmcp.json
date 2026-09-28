@@ -1,0 +1,7 @@
+{
+  "name": "bmcp",
+  "description": "Enables AI to control Blender 3D through the Model Context Protocol, allowing Python execution, scene state queries, and automation of 3D workflows.",
+  "source_repo": "niewinny/bMCP",
+  "source_url": "https://github.com/niewinny/bMCP",
+  "install": "# git clone --depth 1 https://github.com/niewinny/bMCP\n# See source for mcpServers config block"
+}

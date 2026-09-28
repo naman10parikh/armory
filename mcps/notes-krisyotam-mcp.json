@@ -1,0 +1,7 @@
+{
+  "name": "notes-krisyotam-mcp",
+  "description": "Provides access to public notes and bibliography from notes.krisyotam.com, with tools for searching, fetching, listing notes, tags, backlinks, and bibliography metadata. Enforces public-only state and does not expose arbitrary SQL.",
+  "source_repo": "krisyotam/notes-krisyotam-mcp",
+  "source_url": "https://github.com/krisyotam/notes-krisyotam-mcp",
+  "install": "npx -y notes-krisyotam-mcp"
+}

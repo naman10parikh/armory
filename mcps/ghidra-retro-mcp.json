@@ -1,0 +1,7 @@
+{
+  "name": "ghidra-retro-mcp",
+  "description": "Enables AI assistants to perform headless reverse engineering of retro game ROMs using Ghidra, with automated platform detection and triage.",
+  "source_repo": "getanirao/ghidra-retro-mcp",
+  "source_url": "https://github.com/getanirao/ghidra-retro-mcp",
+  "install": "npx -y ghidra-retro-mcp"
+}

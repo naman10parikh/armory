@@ -1,0 +1,7 @@
+{
+  "name": "fitness-mcp",
+  "description": "A personal remote MCP server for fitness data that provides read-only tools to query Garmin Connect activities and Hevy workouts, enabling users to list, retrieve, and analyze exercise records through natural language.",
+  "source_repo": "owenrumney/health-mcp",
+  "source_url": "https://github.com/owenrumney/health-mcp",
+  "install": "npx -y health-mcp"
+}

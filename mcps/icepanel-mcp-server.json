@@ -1,0 +1,7 @@
+{
+  "name": "icepanel-mcp-server",
+  "description": "Enables interaction with IcePanel for architectural diagram management via MCP clients, such as Claude Desktop, Cursor, and Windsurf. Deprecated in favor of a remote MCP server.",
+  "source_repo": "IcePanel/mcp-server",
+  "source_url": "https://github.com/IcePanel/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/IcePanel/mcp-server\n# See source for mcpServers config block"
+}

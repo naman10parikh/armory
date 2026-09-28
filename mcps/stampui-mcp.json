@@ -1,0 +1,7 @@
+{
+  "name": "stampui-mcp",
+  "description": "MCP server for StampUI that lets AI coding agents browse the block registry and install blocks as real .tsx source files.",
+  "source_repo": "StampUI/mcp",
+  "source_url": "https://github.com/StampUI/mcp",
+  "install": "# git clone --depth 1 https://github.com/StampUI/mcp\n# See source for mcpServers config block"
+}

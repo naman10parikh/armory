@@ -1,0 +1,7 @@
+{
+  "name": "godot-docs-mcp-server",
+  "description": "Enables searching and reading Godot documentation as Markdown. Provides tools to search for terms and retrieve matching documentation pages through the Model Context Protocol.",
+  "source_repo": "jcappele/godot-docs-mcp",
+  "source_url": "https://github.com/jcappele/godot-docs-mcp",
+  "install": "npx -y godot-docs-mcp"
+}

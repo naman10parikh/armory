@@ -1,0 +1,7 @@
+{
+  "name": "structdoc-mcp",
+  "description": "MCP server for StructDoc that converts documents (PDFs, images) into structured data like Markdown, OCR text, and invoice/receipt fields for AI agents, with pay-per-call via x402 (USDC on Base/Solana).",
+  "source_repo": "vladic-corp/structdoc-mcp",
+  "source_url": "https://github.com/vladic-corp/structdoc-mcp",
+  "install": "npx -y structdoc-mcp"
+}

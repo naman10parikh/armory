@@ -1,0 +1,7 @@
+{
+  "name": "pcb-mcp",
+  "description": "Enables AI assistants to read and modify KiCAD PCB designs through the KiCAD IPC API, providing tools for board queries, footprint placement, track creation, DRC, and export.",
+  "source_repo": "Amagtoto/pcb-mcp",
+  "source_url": "https://github.com/Amagtoto/pcb-mcp",
+  "install": "npx -y pcb-mcp"
+}

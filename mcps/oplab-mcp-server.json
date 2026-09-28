@@ -1,0 +1,7 @@
+{
+  "name": "oplab-mcp-server",
+  "description": "Provides access to Brazilian financial market data through OpLab APIs, enabling stock information, historical data, options chains, and more.",
+  "source_repo": "Perdiga/OpLab-mcp",
+  "source_url": "https://github.com/Perdiga/OpLab-mcp",
+  "install": "npx -y OpLab-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "writavo-mcp-server",
+  "description": "MCP server that connects AI assistants to Writavo CMS, enabling content creation, publishing, scheduling, and media management through natural language, with safety confirmations for irreversible actions.",
+  "source_repo": "SparkleOfficial/writavo-mcp-server",
+  "source_url": "https://github.com/SparkleOfficial/writavo-mcp-server",
+  "install": "npx -y writavo-mcp-server"
+}

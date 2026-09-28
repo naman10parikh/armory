@@ -1,0 +1,7 @@
+{
+  "name": "msteams-local-mcp",
+  "description": "Reads the local Microsoft Teams (v2) message cache and exposes it over MCP, enabling AI assistants to list accounts/conversations and search/read messages without Graph API or network.",
+  "source_repo": "KamorionLabs/msteams-local-mcp",
+  "source_url": "https://github.com/KamorionLabs/msteams-local-mcp",
+  "install": "npx -y msteams-local-mcp"
+}

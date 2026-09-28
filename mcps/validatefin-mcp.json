@@ -1,0 +1,7 @@
+{
+  "name": "validatefin-mcp",
+  "description": "Validates financial documents and payment files (SEPA, UBL/Peppol, camt, ACH) entirely locally.",
+  "source_repo": "elnicaise/validatefin-mcp",
+  "source_url": "https://github.com/elnicaise/validatefin-mcp",
+  "install": "npx -y validatefin-mcp"
+}

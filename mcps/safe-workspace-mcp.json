@@ -1,0 +1,7 @@
+{
+  "name": "safe-workspace-mcp",
+  "description": "A minimal, security-focused MCP server that provides structured read/write access to exactly one local workspace, with built-in local Git checkpoints and rollback.",
+  "source_repo": "Xs-trek/safe-workspace-mcp",
+  "source_url": "https://github.com/Xs-trek/safe-workspace-mcp",
+  "install": "npx -y safe-workspace-mcp"
+}

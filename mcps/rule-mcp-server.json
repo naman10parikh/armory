@@ -1,0 +1,7 @@
+{
+  "name": "rule-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for the Rule marketing automation platform. It provides full access to Rule's REST API v2 for subscriber management, campaigns, transactional messages, and more.",
+  "source_repo": "extend-marketing/rule-mcp-server",
+  "source_url": "https://github.com/extend-marketing/rule-mcp-server",
+  "install": "npx -y rule-mcp-server"
+}

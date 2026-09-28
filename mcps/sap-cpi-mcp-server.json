@@ -1,0 +1,7 @@
+{
+  "name": "sap-cpi-mcp-server",
+  "description": "Enables AI agents to interact with SAP Cloud Integration (CPI) by exposing CPI APIs as MCP tools for inspecting metadata, runtime artifacts, message logs, and failed messages.",
+  "source_repo": "jacksnh/CPI-MCP-SERVER",
+  "source_url": "https://github.com/jacksnh/CPI-MCP-SERVER",
+  "install": "npx -y CPI-MCP-SERVER"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "breedsim-mcp",
+  "description": "Enables interactive breeding program simulation and comparison via MCP, returning statistical distributions (mean, sd, CI) instead of single stochastic runs.",
+  "source_repo": "musharna/breedsim-mcp",
+  "source_url": "https://github.com/musharna/breedsim-mcp",
+  "install": "npx -y breedsim-mcp"
+}

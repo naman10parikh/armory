@@ -1,0 +1,7 @@
+{
+  "name": "vidsight",
+  "description": "Enables AI agents to query local video timelines by extracting speech, frame captions, and on-screen text into a SQLite store, exposing search and retrieval tools via MCP.",
+  "source_repo": "szepix/vidsight",
+  "source_url": "https://github.com/szepix/vidsight",
+  "install": "# git clone --depth 1 https://github.com/szepix/vidsight\n# See source for mcpServers config block"
+}

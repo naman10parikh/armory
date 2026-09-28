@@ -1,0 +1,7 @@
+{
+  "name": "submarine-attack-mcp-apps",
+  "description": "MCP server for playing a submarine (Battleship-style) game against an AI, with game rules enforced server-side to prevent cheating.",
+  "source_repo": "mfukushim/submarine-attack-mcp-apps",
+  "source_url": "https://github.com/mfukushim/submarine-attack-mcp-apps",
+  "install": "# git clone --depth 1 https://github.com/mfukushim/submarine-attack-mcp-apps\n# See source for mcpServers config block"
+}

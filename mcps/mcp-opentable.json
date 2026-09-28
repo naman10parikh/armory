@@ -1,0 +1,7 @@
+{
+  "name": "mcp-opentable",
+  "description": "Enables AI agents to search restaurants, check availability, and book reservations on OpenTable, with persistent sessions and MFA handling.",
+  "source_repo": "markswendsen-code/mcp-opentable",
+  "source_url": "https://github.com/markswendsen-code/mcp-opentable",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-opentable\n# See source for mcpServers config block"
+}

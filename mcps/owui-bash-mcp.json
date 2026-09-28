@@ -1,0 +1,7 @@
+{
+  "name": "owui-bash-mcp",
+  "description": "Enables Open WebUI to execute bash commands for coding tasks in a persistent projects workspace, with configurable timeouts and output limits.",
+  "source_repo": "peterhel/owui-bash-mcp",
+  "source_url": "https://github.com/peterhel/owui-bash-mcp",
+  "install": "npx -y owui-bash-mcp"
+}

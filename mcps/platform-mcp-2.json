@@ -1,0 +1,7 @@
+{
+  "name": "platform-mcp-2",
+  "description": "MCP server for Argo CD and Vault that allows authenticated users to run CLI commands via GitLab SSO, with confirmation for dangerous operations and secret redaction from model context.",
+  "source_repo": "K-manankov/platform-mcp",
+  "source_url": "https://github.com/K-manankov/platform-mcp",
+  "install": "npx -y platform-mcp"
+}

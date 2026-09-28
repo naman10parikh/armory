@@ -1,0 +1,7 @@
+{
+  "name": "ai-personal-email-assistant",
+  "description": "Enables AI assistants to manage Gmail and Outlook inboxes through natural language, supporting email search, reading, and reply operations.",
+  "source_repo": "HeetSanghani/email-mcp-server",
+  "source_url": "https://github.com/HeetSanghani/email-mcp-server",
+  "install": "npx -y email-mcp-server"
+}

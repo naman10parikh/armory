@@ -7,7 +7,7 @@ source_repo: https://github.com/mvanhorn/cli-printing-press
 source_url: https://github.com/mvanhorn/cli-printing-press
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: 4750
 eval_score: 1
 mentions: null

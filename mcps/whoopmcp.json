@@ -1,0 +1,7 @@
+{
+  "name": "whoopmcp",
+  "description": "Enables querying WHOOP fitness data including recovery, sleep, workouts, physiological cycles, and profile via the WHOOP API v2.",
+  "source_repo": "wackari/WhoopMCP",
+  "source_url": "https://github.com/wackari/WhoopMCP",
+  "install": "# git clone --depth 1 https://github.com/wackari/WhoopMCP\n# See source for mcpServers config block"
+}

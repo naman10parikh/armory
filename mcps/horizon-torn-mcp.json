@@ -1,0 +1,7 @@
+{
+  "name": "horizon-torn-mcp",
+  "description": "A TypeScript MCP server that exposes Torn API v2 operations as MCP tools, with tool definitions generated from Torn's OpenAPI schema.",
+  "source_repo": "Promaxian/horizon-torn-mcp",
+  "source_url": "https://github.com/Promaxian/horizon-torn-mcp",
+  "install": "npx -y horizon-torn-mcp"
+}

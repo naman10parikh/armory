@@ -1,0 +1,7 @@
+{
+  "name": "gh-issues-mcp",
+  "description": "A standalone MCP server that exposes a narrow set of GitHub Issues tools for a single repository, securely handling a GitHub personal access token so agents never see the credential.",
+  "source_repo": "joachimwedin/gh-issues-mcp",
+  "source_url": "https://github.com/joachimwedin/gh-issues-mcp",
+  "install": "npx -y gh-issues-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "status-global-mcp",
+  "description": "Enables web audits for performance, security, SEO, and DNS, returning structured improvement prompts for AI assistants.",
+  "source_repo": "Thebignoze1/status-global-mcp",
+  "source_url": "https://github.com/Thebignoze1/status-global-mcp",
+  "install": "npx -y status-global-mcp"
+}

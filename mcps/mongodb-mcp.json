@@ -1,0 +1,7 @@
+{
+  "name": "mongodb-mcp",
+  "description": "A MongoDB MCP Server that allows AI agents and MCP clients to interact with MongoDB databases through standardized tools for CRUD operations, schema discovery, and collection management.",
+  "source_repo": "vishnuweb-a/mongo_agent_mcp",
+  "source_url": "https://github.com/vishnuweb-a/mongo_agent_mcp",
+  "install": "npx -y mongo_agent_mcp"
+}

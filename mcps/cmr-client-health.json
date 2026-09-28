@@ -1,0 +1,7 @@
+{
+  "name": "cmr-client-health",
+  "description": "Enables client success teams to get instant, natural-language health reads on client accounts with tools for overall health, low-performing courses, and launcher-only clients.",
+  "source_repo": "RahulModugula/cmr-client-health-mcp",
+  "source_url": "https://github.com/RahulModugula/cmr-client-health-mcp",
+  "install": "npx -y cmr-client-health-mcp"
+}

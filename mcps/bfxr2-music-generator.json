@@ -1,0 +1,7 @@
+{
+  "name": "bfxr2-music-generator",
+  "description": "Generates music and sound effects using Bfxr2, with preset or custom parameter control.",
+  "source_repo": "avi892nash/bfxr2-mcp",
+  "source_url": "https://github.com/avi892nash/bfxr2-mcp",
+  "install": "npx -y bfxr2-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-node",
+  "description": "A Node.js MCP server providing user management, task management, and calculator tools with Bearer token authentication, deployable on Cloudtype.",
+  "source_repo": "cloudtype-examples/mcp-server-node",
+  "source_url": "https://github.com/cloudtype-examples/mcp-server-node",
+  "install": "# git clone --depth 1 https://github.com/cloudtype-examples/mcp-server-node\n# See source for mcpServers config block"
+}

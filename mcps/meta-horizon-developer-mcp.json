@@ -1,0 +1,7 @@
+{
+  "name": "meta-horizon-developer-mcp",
+  "description": "Read-only MCP server that collects Analytics data from the Meta Horizon developer dashboard by intercepting GraphQL queries. It provides tools for status checks, snapshot collection, and reading allowed query results.",
+  "source_repo": "takezoh/meta-horizon-developer-mcp",
+  "source_url": "https://github.com/takezoh/meta-horizon-developer-mcp",
+  "install": "npx -y meta-horizon-developer-mcp"
+}

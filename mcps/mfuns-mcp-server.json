@@ -1,0 +1,7 @@
+{
+  "name": "mfuns-mcp-server",
+  "description": "Enables AI agents to browse, interact with, and manage Mfuns community content through 17 standardized MCP tools, including feeds, threads, posts, comments, reactions, and video publishing.",
+  "source_repo": "ymltsh/Mfuns_MCP",
+  "source_url": "https://github.com/ymltsh/Mfuns_MCP",
+  "install": "npx -y Mfuns_MCP"
+}

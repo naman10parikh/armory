@@ -1,0 +1,7 @@
+{
+  "name": "mcp-animenewsnetwork",
+  "description": "MCP server for Anime News Network, enabling search of anime and manga encyclopedia entries, retrieval of details like cast, staff, and episodes, and access to news feeds. No API key or configuration required.",
+  "source_repo": "smeet666/mcp-animenewsnetwork",
+  "source_url": "https://github.com/smeet666/mcp-animenewsnetwork",
+  "install": "# git clone --depth 1 https://github.com/smeet666/mcp-animenewsnetwork\n# See source for mcpServers config block"
+}

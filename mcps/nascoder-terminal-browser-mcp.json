@@ -1,0 +1,7 @@
+{
+  "name": "nascoder-terminal-browser-mcp",
+  "description": "Ultimate Standalone Terminal Browser & Web Scraper - Browse any website, extract content & links directly in your terminal.",
+  "source_repo": "freelancernasimofficial/nascoder-terminal-browser-mcp",
+  "source_url": "https://github.com/freelancernasimofficial/nascoder-terminal-browser-mcp",
+  "install": "npx -y nascoder-terminal-browser-mcp"
+}

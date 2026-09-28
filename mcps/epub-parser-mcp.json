@@ -1,0 +1,7 @@
+{
+  "name": "epub-parser-mcp",
+  "description": "A TypeScript-based MCP server for parsing EPUB files, enabling metadata extraction, table of contents parsing, text content extraction, and search within EPUB documents, designed for seamless integration with AI assistants like Claude Desktop.",
+  "source_repo": "kala51773/epub-parser-mcp",
+  "source_url": "https://github.com/kala51773/epub-parser-mcp",
+  "install": "npx -y epub-parser-mcp"
+}

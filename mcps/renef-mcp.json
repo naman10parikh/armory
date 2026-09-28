@@ -1,0 +1,7 @@
+{
+  "name": "renef-mcp",
+  "description": "MCP server for Renef, providing dynamic instrumentation and reverse engineering capabilities for Android ARM64, including native hooking, Java interception, and memory manipulation.",
+  "source_repo": "Ahmeth4n/renef-mcp",
+  "source_url": "https://github.com/Ahmeth4n/renef-mcp",
+  "install": "npx -y renef-mcp"
+}

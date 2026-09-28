@@ -1,0 +1,7 @@
+{
+  "name": "telegram-public-mcp-cloudflare",
+  "description": "Reads public Telegram channel pages and exposes them as MCP tools over Streamable HTTP/JSON-RPC, enabling retrieval of channel info, latest posts, and search without Telegram API credentials.",
+  "source_repo": "freQuensy23-coder/telegram-public-mcp-cloudflare",
+  "source_url": "https://github.com/freQuensy23-coder/telegram-public-mcp-cloudflare",
+  "install": "# git clone --depth 1 https://github.com/freQuensy23-coder/telegram-public-mcp-cloudflare\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "markdownpointer",
+  "description": "Enables AI to open, navigate, and export Markdown documents, and to import/export PPTX files.",
+  "source_repo": "yotsuda/MarkdownPointer",
+  "source_url": "https://github.com/yotsuda/MarkdownPointer",
+  "install": "# git clone --depth 1 https://github.com/yotsuda/MarkdownPointer\n# See source for mcpServers config block"
+}

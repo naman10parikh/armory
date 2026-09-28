@@ -1,0 +1,7 @@
+{
+  "name": "rms-memory-mcp",
+  "description": "Persistent, local, cross-IDE memory for AI agents — markdown source of truth, LanceDB-powered semantic search, zero cloud dependency",
+  "source_repo": "max-ramas/rms-memory-mcp",
+  "source_url": "https://github.com/max-ramas/rms-memory-mcp",
+  "install": "npx -y rms-memory-mcp"
+}

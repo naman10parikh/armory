@@ -1,0 +1,7 @@
+{
+  "name": "mcp-internet-server",
+  "description": "Enables web search and webpage content fetching with SSRF protections, returning structured results.",
+  "source_repo": "devk86/mcp-internet-server",
+  "source_url": "https://github.com/devk86/mcp-internet-server",
+  "install": "# git clone --depth 1 https://github.com/devk86/mcp-internet-server\n# See source for mcpServers config block"
+}

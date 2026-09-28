@@ -1,0 +1,7 @@
+{
+  "name": "pxweb-mcp",
+  "description": "MCP server for accessing statistical data via the PxWeb API v2.",
+  "source_repo": "jarib/pxweb-mcp",
+  "source_url": "https://github.com/jarib/pxweb-mcp",
+  "install": "npx -y pxweb-mcp"
+}

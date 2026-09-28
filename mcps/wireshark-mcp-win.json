@@ -1,0 +1,7 @@
+{
+  "name": "wireshark-mcp-win",
+  "description": "Wireshark MCP server for Windows that enables AI agents to capture live packets, analyze pcap files, apply display filters, reassemble TCP/UDP streams, generate statistics, and export packets or protocol objects.",
+  "source_repo": "slcsec/wireshark-mcp-win",
+  "source_url": "https://github.com/slcsec/wireshark-mcp-win",
+  "install": "# git clone --depth 1 https://github.com/slcsec/wireshark-mcp-win\n# See source for mcpServers config block"
+}

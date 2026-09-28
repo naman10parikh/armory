@@ -1,0 +1,7 @@
+{
+  "name": "skool-mcp-kit",
+  "description": "MCP server to read and operate your Skool community (calendar, feed, posts, members) and publish posts/comments with confirmation, using your own authenticated session.",
+  "source_repo": "elchamoluso/skool-mcp-kit",
+  "source_url": "https://github.com/elchamoluso/skool-mcp-kit",
+  "install": "# git clone --depth 1 https://github.com/elchamoluso/skool-mcp-kit\n# See source for mcpServers config block"
+}

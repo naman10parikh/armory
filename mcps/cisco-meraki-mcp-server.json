@@ -1,0 +1,7 @@
+{
+  "name": "cisco-meraki-mcp-server",
+  "description": "Provides MCP tools for Cisco Meraki Dashboard API, enabling management of networks, configuration templates, and health checks via natural language commands.",
+  "source_repo": "sen2diwakar/meraki-mcp",
+  "source_url": "https://github.com/sen2diwakar/meraki-mcp",
+  "install": "npx -y meraki-mcp"
+}

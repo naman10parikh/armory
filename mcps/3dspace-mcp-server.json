@@ -1,0 +1,7 @@
+{
+  "name": "3dspace-mcp-server",
+  "description": "Converts OpenAPI specifications into MCP tools to access 3DSpace Engineering Web Services APIs, enabling natural language interaction with 45+ services for engineering, manufacturing, and project management.",
+  "source_repo": "pgupta1795/3dspace-mcp-server",
+  "source_url": "https://github.com/pgupta1795/3dspace-mcp-server",
+  "install": "npx -y 3dspace-mcp-server"
+}

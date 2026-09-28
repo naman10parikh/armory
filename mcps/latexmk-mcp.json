@@ -1,0 +1,7 @@
+{
+  "name": "latexmk-mcp",
+  "description": "An MCP server that exposes LaTeX compilation, log parsing, dependency inspection, and citation checking as tools for AI agents, using latexmk under the hood.",
+  "source_repo": "coolport/latexmk-mcp",
+  "source_url": "https://github.com/coolport/latexmk-mcp",
+  "install": "npx -y latexmk-mcp"
+}

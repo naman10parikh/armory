@@ -1,0 +1,7 @@
+{
+  "name": "mrholmes",
+  "description": "Enables users to execute OSINT tasks from 88 catalogued repositories through safe command surfaces, supporting authorized research and threat intelligence workflows.",
+  "source_repo": "Reaper-Forge/mrholmes-osint-suite",
+  "source_url": "https://github.com/Reaper-Forge/mrholmes-osint-suite",
+  "install": "# git clone --depth 1 https://github.com/Reaper-Forge/mrholmes-osint-suite\n# See source for mcpServers config block"
+}

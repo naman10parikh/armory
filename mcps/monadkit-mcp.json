@@ -1,0 +1,7 @@
+{
+  "name": "monadkit-mcp",
+  "description": "Turns Base44's AI builder into a Monad web3 app builder, enabling anyone to vibecode consumer crypto apps (invisible wallets, gasless USDC payments) by describing them in English.",
+  "source_repo": "tangibletrade/monad_mcp",
+  "source_url": "https://github.com/tangibletrade/monad_mcp",
+  "install": "npx -y monad_mcp"
+}

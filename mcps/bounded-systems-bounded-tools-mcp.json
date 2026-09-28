@@ -1,0 +1,7 @@
+{
+  "name": "bounded-systems-bounded-tools-mcp",
+  "description": "Local, read-only MCP server that provides verified access to bounded.tools' signed static API, including the Web-Build Conformance report and SPDX SBOM, with byte-for-byte verification against a Sigstore-signed manifest.",
+  "source_repo": "bounded-systems/bounded-tools-mcp",
+  "source_url": "https://github.com/bounded-systems/bounded-tools-mcp",
+  "install": "npx -y bounded-tools-mcp"
+}

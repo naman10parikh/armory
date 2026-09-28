@@ -1,0 +1,7 @@
+{
+  "name": "iam-sentinel-mcp-server",
+  "description": "Enables auditors to scan cloud IAM policies for privilege-escalation paths, wildcards, and risky grants directly within Cursor or Claude Code, using a deterministic rule engine that runs entirely on local infrastructure.",
+  "source_repo": "Pratikchandrathakur/IAM-Sentinel",
+  "source_url": "https://github.com/Pratikchandrathakur/IAM-Sentinel",
+  "install": "# git clone --depth 1 https://github.com/Pratikchandrathakur/IAM-Sentinel\n# See source for mcpServers config block"
+}

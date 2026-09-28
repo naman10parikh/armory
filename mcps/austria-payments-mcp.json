@@ -1,0 +1,7 @@
+{
+  "name": "austria-payments-mcp",
+  "description": "Enables AI agents to accept payments in Austria via Stripe hosted checkout, supporting EPS, cards, and Apple Pay.",
+  "source_repo": "junter1989k-ai/austria-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/austria-payments-mcp",
+  "install": "npx -y austria-payments-mcp"
+}

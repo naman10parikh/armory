@@ -1,0 +1,7 @@
+{
+  "name": "fitness-tracker-mcp",
+  "description": "Offline MCP server for logging workouts, tracking dietary macros, and retrieving daily summaries, all stored in local SQLite. Enables fitness tracking via natural language in MCP-compatible clients.",
+  "source_repo": "MayankKapgate/fitness-tracker-mcp",
+  "source_url": "https://github.com/MayankKapgate/fitness-tracker-mcp",
+  "install": "npx -y fitness-tracker-mcp"
+}

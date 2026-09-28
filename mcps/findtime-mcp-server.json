@@ -1,0 +1,7 @@
+{
+  "name": "findtime-mcp-server",
+  "description": "Enables LLM agents to query current time, DST schedules, timezone conversions, working hour overlaps, and meeting time suggestions across locations via the production findtime.io Time API, including natural-language time questions and location resolution.",
+  "source_repo": "hkchao/findtime-mcp-server",
+  "source_url": "https://github.com/hkchao/findtime-mcp-server",
+  "install": "npx -y findtime-mcp-server"
+}

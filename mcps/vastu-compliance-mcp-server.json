@@ -1,0 +1,7 @@
+{
+  "name": "vastu-compliance-mcp-server",
+  "description": "An MCP server for checking architectural designs against Vastu principles, integrating with Autodesk tools to provide deterministic compliance scoring and explainable recommendations.",
+  "source_repo": "AbhayVarkad/Vastu-Compilance-MCP",
+  "source_url": "https://github.com/AbhayVarkad/Vastu-Compilance-MCP",
+  "install": "npx -y Vastu-Compilance-MCP"
+}

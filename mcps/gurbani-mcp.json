@@ -1,0 +1,7 @@
+{
+  "name": "gurbani-mcp",
+  "description": "A local self-hosted MCP server for searching and verifying Gurmukhi quotes from Sri Guru Granth Sahib, offering keyword search, authenticity verification, and text guarding via an MCP or HTTP API.",
+  "source_repo": "grusingh/gurbani-mcp",
+  "source_url": "https://github.com/grusingh/gurbani-mcp",
+  "install": "npx -y gurbani-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "imagine-mcp",
+  "description": "Production-grade MCP server for image and video understanding and generation across Gemini, OpenAI, and Grok.",
+  "source_repo": "n24q02m/imagine-mcp",
+  "source_url": "https://github.com/n24q02m/imagine-mcp",
+  "install": "npx -y imagine-mcp"
+}

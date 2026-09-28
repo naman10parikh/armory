@@ -1,0 +1,7 @@
+{
+  "name": "backupradar-mcp",
+  "description": "Provides MCP tools to interact with the Backup Radar v2 Backups API, enabling queries on backups, scheduled backups, inactive backups, and backup results.",
+  "source_repo": "MSPbotsAI/backupradar-mcp",
+  "source_url": "https://github.com/MSPbotsAI/backupradar-mcp",
+  "install": "npx -y backupradar-mcp"
+}

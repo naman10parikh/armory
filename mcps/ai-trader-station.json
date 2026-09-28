@@ -1,0 +1,7 @@
+{
+  "name": "ai-trader-station",
+  "description": "MCP server exposing Bill Williams trading signal analysis, market data, and order execution capabilities from MetaTrader 5, enabling AI assistants to run analyses and execute trades through natural language.",
+  "source_repo": "Swigler/ai-trader-station",
+  "source_url": "https://github.com/Swigler/ai-trader-station",
+  "install": "# git clone --depth 1 https://github.com/Swigler/ai-trader-station\n# See source for mcpServers config block"
+}

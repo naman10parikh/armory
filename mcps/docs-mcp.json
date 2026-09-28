@@ -1,0 +1,7 @@
+{
+  "name": "docs-mcp",
+  "description": "MCP server for reading and writing .docx files. Exposes four paginated tools so agents can batch-read document content and styles, write content, and union style definitions.",
+  "source_repo": "gossipauthorxpm/docs-mcp",
+  "source_url": "https://github.com/gossipauthorxpm/docs-mcp",
+  "install": "npx -y docs-mcp"
+}

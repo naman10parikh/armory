@@ -1,0 +1,7 @@
+{
+  "name": "dandeliongold-mcp-time",
+  "description": "Provides current time and time difference calculations in ISO format (YYYY-MM-DD HH:mm:ss) using JavaScript Date. Supports both Windows and macOS for use with Claude desktop.",
+  "source_repo": "dandeliongold/mcp-time",
+  "source_url": "https://github.com/dandeliongold/mcp-time",
+  "install": "# git clone --depth 1 https://github.com/dandeliongold/mcp-time\n# See source for mcpServers config block"
+}

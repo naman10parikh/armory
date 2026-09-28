@@ -1,0 +1,7 @@
+{
+  "name": "mcp-notas",
+  "description": "Provides tools, resources, and prompts for managing a local Markdown notes database, including create, read, update, delete, search, and statistics operations, with robust path traversal protection.",
+  "source_repo": "herickbrandao483-jpg/mcp-server-example",
+  "source_url": "https://github.com/herickbrandao483-jpg/mcp-server-example",
+  "install": "# git clone --depth 1 https://github.com/herickbrandao483-jpg/mcp-server-example\n# See source for mcpServers config block"
+}

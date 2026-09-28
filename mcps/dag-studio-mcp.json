@@ -1,0 +1,7 @@
+{
+  "name": "dag-studio-mcp",
+  "description": "MCP server for the DAG Studio causal-inference engine, enabling AI agents to construct, analyze, and validate causal directed acyclic graphs (DAGs) through tools for analysis, data simulation, and code generation.",
+  "source_repo": "Black-Swan-Causal-Labs/dagstudio-mcp",
+  "source_url": "https://github.com/Black-Swan-Causal-Labs/dagstudio-mcp",
+  "install": "npx -y dagstudio-mcp"
+}

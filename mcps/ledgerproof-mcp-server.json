@@ -1,0 +1,7 @@
+{
+  "name": "ledgerproof-mcp-server",
+  "description": "Let any MCP client issue and verify EU AI Act Article 50 transparency receipts for AI-generated content, anchored to Bitcoin.",
+  "source_repo": "vsdawkins-creator/ledgerproof-mcp-server",
+  "source_url": "https://github.com/vsdawkins-creator/ledgerproof-mcp-server",
+  "install": "npx -y ledgerproof-mcp-server"
+}

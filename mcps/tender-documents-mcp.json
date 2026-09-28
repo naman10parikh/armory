@@ -1,0 +1,7 @@
+{
+  "name": "tender-documents-mcp",
+  "description": "Safely downloads and extracts public tender documents from PDFs, Office files, and ZIP archives into text with structured signals, while also supporting document comparison and base64 extraction.",
+  "source_repo": "asept1977/tender-documents-mcp",
+  "source_url": "https://github.com/asept1977/tender-documents-mcp",
+  "install": "npx -y tender-documents-mcp"
+}

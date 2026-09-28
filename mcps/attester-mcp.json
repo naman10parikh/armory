@@ -1,0 +1,7 @@
+{
+  "name": "attester-mcp",
+  "description": "MCP server for verification and API-existence oracle tools, enabling AI agents to check package existence, symbol details, and version diffs with signed attestations.",
+  "source_repo": "maminihds/attester-mcp",
+  "source_url": "https://github.com/maminihds/attester-mcp",
+  "install": "npx -y attester-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lookout",
+  "description": "MCP server enabling local-first web search, fetch, extract, and caching with citeable excerpts, no API key required. Supports research workflows for agents and apps.",
+  "source_repo": "SylphxAI/lookout",
+  "source_url": "https://github.com/SylphxAI/lookout",
+  "install": "# git clone --depth 1 https://github.com/SylphxAI/lookout\n# See source for mcpServers config block"
+}

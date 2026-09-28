@@ -1,0 +1,7 @@
+{
+  "name": "suplagentics-mcp-server",
+  "description": "Enables importing Claude Code and opencode session history into a searchable memory store and surfacing improvement suggestions, accessible from any MCP-capable client.",
+  "source_repo": "lokiwilded/suplagentics-mcp-server",
+  "source_url": "https://github.com/lokiwilded/suplagentics-mcp-server",
+  "install": "npx -y suplagentics-mcp-server"
+}

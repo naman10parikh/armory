@@ -1,0 +1,7 @@
+{
+  "name": "pendo-ontology-mcp-server",
+  "description": "A semantic ontology layer for Pendo that enables users to define and manage business concepts, entity relationships, and measurement hints, grounding LLM queries in workspace-specific definitions.",
+  "source_repo": "Band-Aid/pendo-ontology-mcp",
+  "source_url": "https://github.com/Band-Aid/pendo-ontology-mcp",
+  "install": "npx -y pendo-ontology-mcp"
+}

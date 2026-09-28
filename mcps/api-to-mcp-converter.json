@@ -1,0 +1,7 @@
+{
+  "name": "api-to-mcp-converter",
+  "description": "Converts any REST API into MCP-compatible tools instantly by providing an OpenAPI/Swagger spec, enabling seamless integration with AI agents.",
+  "source_repo": "AiAgentKarl/api-to-mcp-converter",
+  "source_url": "https://github.com/AiAgentKarl/api-to-mcp-converter",
+  "install": "# git clone --depth 1 https://github.com/AiAgentKarl/api-to-mcp-converter\n# See source for mcpServers config block"
+}

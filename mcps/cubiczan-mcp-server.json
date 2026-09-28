@@ -1,0 +1,7 @@
+{
+  "name": "cubiczan-mcp-server",
+  "description": "Connects Off Grid mobile app to Cubiczan's multi-agent intelligence, exposing agent orchestration as an OpenAI-compatible API endpoint.",
+  "source_repo": "Cubiczan/cubiczan-mcp-server",
+  "source_url": "https://github.com/Cubiczan/cubiczan-mcp-server",
+  "install": "npx -y cubiczan-mcp-server"
+}

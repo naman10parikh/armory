@@ -1,0 +1,7 @@
+{
+  "name": "indonesia-civic-stack",
+  "description": "Provides access to Indonesian government data sources (BPOM, BPJPH, AHU, etc.) via a unified API and MCP tools.",
+  "source_repo": "suryast/indonesia-civic-stack",
+  "source_url": "https://github.com/suryast/indonesia-civic-stack",
+  "install": "# git clone --depth 1 https://github.com/suryast/indonesia-civic-stack\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kindora-for-chatgpt-mcp-server",
+  "description": "A Python FastMCP server that re-exposes Kindora's public funder and grant tools for ChatGPT, enabling grant discovery from IRS 990 filings and Grants.gov.",
+  "source_repo": "wayanvota/kindora-chatgpt-mcp",
+  "source_url": "https://github.com/wayanvota/kindora-chatgpt-mcp",
+  "install": "npx -y kindora-chatgpt-mcp"
+}

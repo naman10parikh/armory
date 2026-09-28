@@ -1,0 +1,7 @@
+{
+  "name": "byo-server",
+  "description": "Headless local stdio MCP server for board-debug operations, allowing compatible clients to use tools for firmware debugging and board management.",
+  "source_repo": "JasonPeng2019/BYO-Firmware-MCP",
+  "source_url": "https://github.com/JasonPeng2019/BYO-Firmware-MCP",
+  "install": "npx -y BYO-Firmware-MCP"
+}

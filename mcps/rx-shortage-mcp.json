@@ -1,0 +1,7 @@
+{
+  "name": "rx-shortage-mcp",
+  "description": "An MCP server that lets an LLM answer a pharmacist's question about drug shortages by normalizing drug names, finding pharmacologic alternatives, and checking their shortage status using public FDA and NLM data.",
+  "source_repo": "Travis-Clement-Dev/rx-shortage-mcp",
+  "source_url": "https://github.com/Travis-Clement-Dev/rx-shortage-mcp",
+  "install": "npx -y rx-shortage-mcp"
+}

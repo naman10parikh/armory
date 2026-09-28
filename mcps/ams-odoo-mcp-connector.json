@@ -1,0 +1,7 @@
+{
+  "name": "ams-odoo-mcp-connector",
+  "description": "MCP server that provides an AI assistant with access to Odoo business data, enabling read operations and human-approved record creation.",
+  "source_repo": "nestordiaz-one/odoo-mcp-connector",
+  "source_url": "https://github.com/nestordiaz-one/odoo-mcp-connector",
+  "install": "# git clone --depth 1 https://github.com/nestordiaz-one/odoo-mcp-connector\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yahoo-mail-mcp-server",
+  "description": "Provides full email management for Yahoo Mail via IMAP, including listing, reading, searching, deleting, archiving, and flagging emails.",
+  "source_repo": "jtokib/yahoo-mail-mcp-server",
+  "source_url": "https://github.com/jtokib/yahoo-mail-mcp-server",
+  "install": "npx -y yahoo-mail-mcp-server"
+}

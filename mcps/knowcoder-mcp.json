@@ -1,0 +1,7 @@
+{
+  "name": "knowcoder-mcp",
+  "description": "Turns deep-research questions into reusable, source-grounded Workspaces with review checkpoints and background tasks, enabling structured research and reporting.",
+  "source_repo": "Chunmao-Zhang/KnowCoder_MCP",
+  "source_url": "https://github.com/Chunmao-Zhang/KnowCoder_MCP",
+  "install": "npx -y KnowCoder_MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kyiv-alerts",
+  "description": "Provides read-only MCP tools to query historical air-raid alerts for Kyiv City, including alert windows, sleep window overlaps, and data coverage verdicts.",
+  "source_repo": "YoYoZ/kyiv-alerts",
+  "source_url": "https://github.com/YoYoZ/kyiv-alerts",
+  "install": "# git clone --depth 1 https://github.com/YoYoZ/kyiv-alerts\n# See source for mcpServers config block"
+}

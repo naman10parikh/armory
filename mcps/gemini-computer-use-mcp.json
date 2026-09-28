@@ -1,0 +1,7 @@
+{
+  "name": "gemini-computer-use-mcp",
+  "description": "An MCP server that enables browser control agents to plan and execute UI tasks using Gemini Computer Use.",
+  "source_repo": "block-88/gemini-computer-use-mcp",
+  "source_url": "https://github.com/block-88/gemini-computer-use-mcp",
+  "install": "npx -y gemini-computer-use-mcp"
+}

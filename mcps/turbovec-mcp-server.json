@@ -1,0 +1,7 @@
+{
+  "name": "turbovec-mcp-server",
+  "description": "Provides persistent long-term memory (semantic RAG) for AI coding assistants, enabling them to store and semantically search code and documentation across chat sessions without token limits.",
+  "source_repo": "henny-bee/Turbovec-MCP-Server",
+  "source_url": "https://github.com/henny-bee/Turbovec-MCP-Server",
+  "install": "npx -y Turbovec-MCP-Server"
+}

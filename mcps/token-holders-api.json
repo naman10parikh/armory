@@ -1,0 +1,7 @@
+{
+  "name": "token-holders-api",
+  "description": "Provides token holder distribution and concentration analysis for on-chain due diligence, with pay-per-call via x402 micropayments.",
+  "source_repo": "Br0ski777/token-holders-x402",
+  "source_url": "https://github.com/Br0ski777/token-holders-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/token-holders-x402\n# See source for mcpServers config block"
+}

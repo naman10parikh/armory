@@ -1,0 +1,7 @@
+{
+  "name": "honest-drive-mcp",
+  "description": "A local Google Drive MCP server with full permission management (share, list, remove permissions), enabling AI agents to manage file sharing and access beyond the official connector.",
+  "source_repo": "bartosz-kuc/honest-drive-mcp",
+  "source_url": "https://github.com/bartosz-kuc/honest-drive-mcp",
+  "install": "npx -y honest-drive-mcp"
+}

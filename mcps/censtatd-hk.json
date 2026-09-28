@@ -1,0 +1,7 @@
+{
+  "name": "censtatd-hk",
+  "description": "Enables querying Hong Kong Census and Statistics Department open data via natural language or direct tool calls through the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-censtatd-hk",
+  "source_url": "https://github.com/pipeworx-io/mcp-censtatd-hk",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-censtatd-hk\n# See source for mcpServers config block"
+}

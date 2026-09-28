@@ -1,0 +1,7 @@
+{
+  "name": "mydy-lms",
+  "description": "An MCP server for interacting with the MyDy (Moodle-based) LMS, enabling attendance viewing, course browsing, assignment and grade checking, announcement reading, and material downloading.",
+  "source_repo": "Deeptanshuu/mydy-lms-helper",
+  "source_url": "https://github.com/Deeptanshuu/mydy-lms-helper",
+  "install": "# git clone --depth 1 https://github.com/Deeptanshuu/mydy-lms-helper\n# See source for mcpServers config block"
+}

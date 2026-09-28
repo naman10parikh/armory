@@ -1,0 +1,7 @@
+{
+  "name": "orca-slicer-mcp",
+  "description": "An MCP server that drives OrcaSlicer headlessly on a virtual display, enabling an agent to import 3D models, slice them, and export G-code without a physical screen or GUI automation.",
+  "source_repo": "dmikushin/orca-slicer-mcp",
+  "source_url": "https://github.com/dmikushin/orca-slicer-mcp",
+  "install": "npx -y orca-slicer-mcp"
+}

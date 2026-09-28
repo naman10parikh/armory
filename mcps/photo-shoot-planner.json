@@ -1,0 +1,7 @@
+{
+  "name": "photo-shoot-planner",
+  "description": "A Claude-compatible MCP server for planning both outdoor photography trips and professional photoshoot productions, with tools for location scouting, astronomy, weather, budgeting, and production management.",
+  "source_repo": "chenyuan99/photo-shoot-planner",
+  "source_url": "https://github.com/chenyuan99/photo-shoot-planner",
+  "install": "# git clone --depth 1 https://github.com/chenyuan99/photo-shoot-planner\n# See source for mcpServers config block"
+}

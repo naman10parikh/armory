@@ -1,0 +1,7 @@
+{
+  "name": "relay-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for Relay Protocol — cross-chain bridge and swap tools for AI agents.",
+  "source_repo": "relayprotocol/relay-mcp",
+  "source_url": "https://github.com/relayprotocol/relay-mcp",
+  "install": "npx -y relay-mcp"
+}

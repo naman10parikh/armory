@@ -1,0 +1,7 @@
+{
+  "name": "goodvat",
+  "description": "Enables AI assistants to answer tax compliance questions (VAT, sales tax, GST) and validate EU VAT numbers in real time via the VIES registry.",
+  "source_repo": "goodvat/mcp-server-goodvat",
+  "source_url": "https://github.com/goodvat/mcp-server-goodvat",
+  "install": "# git clone --depth 1 https://github.com/goodvat/mcp-server-goodvat\n# See source for mcpServers config block"
+}

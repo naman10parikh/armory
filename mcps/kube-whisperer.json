@@ -1,0 +1,7 @@
+{
+  "name": "kube-whisperer",
+  "description": "Autonomous AI agent for Kubernetes triage and infrastructure management using natural language.",
+  "source_repo": "vijaypranesh/kube_whisperer",
+  "source_url": "https://github.com/vijaypranesh/kube_whisperer",
+  "install": "# git clone --depth 1 https://github.com/vijaypranesh/kube_whisperer\n# See source for mcpServers config block"
+}

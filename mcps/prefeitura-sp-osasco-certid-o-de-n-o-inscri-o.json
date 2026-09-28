@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-sp-osasco-certid-o-de-n-o-inscri-o",
+  "description": "MCP server for querying the Certificate of Non-Registration from Osasco City Hall (SP, Brazil). It provides a single read-only tool to consult this certificate via official sources, hosted with pay-per-use credits.",
+  "source_repo": "mcp-dir/pref_sp_osasco_cert_nao_insc-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_sp_osasco_cert_nao_insc-mcp",
+  "install": "npx -y pref_sp_osasco_cert_nao_insc-mcp"
+}

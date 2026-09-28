@@ -1,0 +1,7 @@
+{
+  "name": "sponsorable-mcp-server",
+  "description": "Connects a podcast-sponsorship database to AI assistants, allowing users to search for brands that sponsor podcasts and reveal buyer contacts by name and email.",
+  "source_repo": "sponsorable/mcp",
+  "source_url": "https://github.com/sponsorable/mcp",
+  "install": "# git clone --depth 1 https://github.com/sponsorable/mcp\n# See source for mcpServers config block"
+}

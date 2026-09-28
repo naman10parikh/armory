@@ -1,0 +1,7 @@
+{
+  "name": "noisy-coding",
+  "description": "Voice interface for Claude Code: you talk, the agent listens, codes, and talks back while it works. Live speech-to-text with turn-taking, Grok/xAI voices with per-subagent personas, and a real-time HUD dashboard.",
+  "source_repo": "noisy/noisy-coding",
+  "source_url": "https://github.com/noisy/noisy-coding",
+  "install": "# git clone --depth 1 https://github.com/noisy/noisy-coding\n# See source for mcpServers config block"
+}

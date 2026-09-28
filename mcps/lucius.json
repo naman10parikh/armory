@@ -1,0 +1,7 @@
+{
+  "name": "lucius",
+  "description": "An MCP server for Allure TestOps that enables AI agents to manage test cases, defects, test plans, and other test management entities with clear, easy-to-use tools and helpful error guidance.",
+  "source_repo": "ivanostanin/lucius-mcp",
+  "source_url": "https://github.com/ivanostanin/lucius-mcp",
+  "install": "npx -y lucius-mcp"
+}

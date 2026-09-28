@@ -1,0 +1,7 @@
+{
+  "name": "agmarknet-mcp-server",
+  "description": "Provides LLMs with real-time access to Indian agricultural commodity prices across 3,000+ markets via the government's Agmarknet database.",
+  "source_repo": "Krishna-Baldwa/agmarket-mcp",
+  "source_url": "https://github.com/Krishna-Baldwa/agmarket-mcp",
+  "install": "npx -y agmarket-mcp"
+}

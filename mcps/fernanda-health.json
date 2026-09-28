@@ -1,0 +1,7 @@
+{
+  "name": "fernanda-health",
+  "description": "A private, read-only MCP server that lets Claude retrieve your Oura Ring health data for a daily check-in, self-hosted on Cloudflare with OAuth authentication.",
+  "source_repo": "feneute/fernanda-health-mcp",
+  "source_url": "https://github.com/feneute/fernanda-health-mcp",
+  "install": "npx -y fernanda-health-mcp"
+}

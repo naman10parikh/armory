@@ -1,0 +1,7 @@
+{
+  "name": "telegram-web-mcp-server",
+  "description": "Enables AI agents to interact with Telegram Web through a clean text-based API, including chat search, message history, sending messages, and profile retrieval via a persistent Playwright session.",
+  "source_repo": "Fayzullo637/mytelegrammini1-mcp",
+  "source_url": "https://github.com/Fayzullo637/mytelegrammini1-mcp",
+  "install": "npx -y mytelegrammini1-mcp"
+}

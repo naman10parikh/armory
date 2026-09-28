@@ -1,0 +1,7 @@
+{
+  "name": "markdown-notes-mcp",
+  "description": "Enables managing and searching markdown notes with semantic search, question answering, and note generation, and provides an MCP server for GitHub Copilot integration.",
+  "source_repo": "codeMaestro78/markdown-notes-mcp",
+  "source_url": "https://github.com/codeMaestro78/markdown-notes-mcp",
+  "install": "npx -y markdown-notes-mcp"
+}

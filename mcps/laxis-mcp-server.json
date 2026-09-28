@@ -1,0 +1,7 @@
+{
+  "name": "laxis-mcp-server",
+  "description": "The Laxis MCP Server connects Laxis - the AI meeting note taker and voice dictation tool for professionals to Claude and other AI tools through the Model Context Protocol. Your assistant can search and read your meeting transcripts, summaries, and participants directly in chat, turning every convers",
+  "source_repo": "laxis-tech/laxis-mcp",
+  "source_url": "https://github.com/laxis-tech/laxis-mcp",
+  "install": "npx -y laxis-mcp"
+}

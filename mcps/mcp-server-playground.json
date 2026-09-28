@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-playground",
+  "description": "A learning project that wraps a FastAPI app with endpoints for random facts and Japan FAQs as MCP tools, enabling LLMs to call them via LiteLLM proxy.",
+  "source_repo": "deivit24/test_mcp_litellm",
+  "source_url": "https://github.com/deivit24/test_mcp_litellm",
+  "install": "# git clone --depth 1 https://github.com/deivit24/test_mcp_litellm\n# See source for mcpServers config block"
+}

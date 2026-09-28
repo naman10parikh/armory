@@ -1,0 +1,7 @@
+{
+  "name": "eufy-lock-codes",
+  "description": "A local MCP server for managing Eufy smart-lock access codes across rental properties, with safety features like dry-run planning and explicit confirmation for write operations.",
+  "source_repo": "ChaddBrenner/eufy-lock-codes",
+  "source_url": "https://github.com/ChaddBrenner/eufy-lock-codes",
+  "install": "# git clone --depth 1 https://github.com/ChaddBrenner/eufy-lock-codes\n# See source for mcpServers config block"
+}

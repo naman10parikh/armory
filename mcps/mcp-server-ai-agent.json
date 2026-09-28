@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-ai-agent",
+  "description": "A Python MCP server with JWT authentication and sample tools (weather + Bitcoin price), plus an AI agent that uses OpenAI to reason about and call those tools.",
+  "source_repo": "amitsharma55/mcp-server",
+  "source_url": "https://github.com/amitsharma55/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/amitsharma55/mcp-server\n# See source for mcpServers config block"
+}

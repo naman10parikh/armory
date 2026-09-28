@@ -1,0 +1,7 @@
+{
+  "name": "54ch10-mcp",
+  "description": "Provides the brief tool, letting MCP clients query the 54ch10 Brief API for analytics on addresses, tokens, or URLs and receive a JSON summary with score, flags, sources, and disclaimer.",
+  "source_repo": "sachio222/54ch10-mcp",
+  "source_url": "https://github.com/sachio222/54ch10-mcp",
+  "install": "npx -y 54ch10-mcp"
+}

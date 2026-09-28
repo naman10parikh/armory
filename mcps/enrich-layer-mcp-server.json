@@ -1,0 +1,7 @@
+{
+  "name": "enrich-layer-mcp-server",
+  "description": "Provides 25 tools to enrich company, person, contact, school, and job data via the Enrich Layer API, enabling lookups, profiles, and contact discovery.",
+  "source_repo": "enrichlayer/mcp-server",
+  "source_url": "https://github.com/enrichlayer/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/enrichlayer/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fallnotary-mcp",
+  "description": "A sovereign, MIT-licensed MCP server wrapping the FallNotary SDK for Ed25519-signed notarial operations with discoverable registry and offline capability.",
+  "source_repo": "sjgant80-hub/fallnotary-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallnotary-mcp",
+  "install": "npx -y fallnotary-mcp"
+}

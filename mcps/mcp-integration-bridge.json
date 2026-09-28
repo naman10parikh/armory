@@ -1,0 +1,7 @@
+{
+  "name": "mcp-integration-bridge",
+  "description": "An MCP server that connects any two systems so an agent can explore both, map between them, and run real data transfers — then shows its working in a run folder you can audit afterwards.",
+  "source_repo": "Randika97/mcp-integration-bridge",
+  "source_url": "https://github.com/Randika97/mcp-integration-bridge",
+  "install": "# git clone --depth 1 https://github.com/Randika97/mcp-integration-bridge\n# See source for mcpServers config block"
+}

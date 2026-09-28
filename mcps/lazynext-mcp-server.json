@@ -1,0 +1,7 @@
+{
+  "name": "lazynext-mcp-server",
+  "description": "Enables AI agents to read, edit, and export real video projects with a full multitrack timeline, effects, captions, and export capabilities.",
+  "source_repo": "Lazynext-Platform/Lazynext",
+  "source_url": "https://github.com/Lazynext-Platform/Lazynext",
+  "install": "# git clone --depth 1 https://github.com/Lazynext-Platform/Lazynext\n# See source for mcpServers config block"
+}

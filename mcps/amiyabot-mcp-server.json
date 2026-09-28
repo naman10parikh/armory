@@ -1,0 +1,7 @@
+{
+  "name": "amiyabot-mcp-server",
+  "description": "Provides MCP server and CLI for querying Arknights game data, including operator skills, glossary, and resource updates.",
+  "source_repo": "AmiyaBot/Amiya-Bot-mcp-server",
+  "source_url": "https://github.com/AmiyaBot/Amiya-Bot-mcp-server",
+  "install": "npx -y Amiya-Bot-mcp-server"
+}

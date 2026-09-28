@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt3-certid-o-eletr-nica-de-a-es-trabalhistas-ceat",
+  "description": "Enables querying official TRT3 labor court records (CEAT) through a read-only MCP tool with prepaid credits, supporting any MCP-compatible client.",
+  "source_repo": "mcp-dir/tribunal_trt3_ceat-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt3_ceat-mcp",
+  "install": "npx -y tribunal_trt3_ceat-mcp"
+}

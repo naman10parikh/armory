@@ -1,0 +1,7 @@
+{
+  "name": "review-analysis-mcp-server",
+  "description": "A local, privacy-friendly pipeline for analyzing customer reviews using Ollama for sentiment analysis and issue clustering.",
+  "source_repo": "ChandanRocky/mcp",
+  "source_url": "https://github.com/ChandanRocky/mcp",
+  "install": "# git clone --depth 1 https://github.com/ChandanRocky/mcp\n# See source for mcpServers config block"
+}

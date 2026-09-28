@@ -1,0 +1,7 @@
+{
+  "name": "idfkit-mcp",
+  "description": "Enables AI assistants to create, edit, and simulate EnergyPlus building energy models via natural language. Supports schema exploration, model editing, simulation execution, and documentation search.",
+  "source_repo": "idfkit/idfkit-mcp",
+  "source_url": "https://github.com/idfkit/idfkit-mcp",
+  "install": "npx -y idfkit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fellow-aiden-brew-link-mcp-server",
+  "description": "Enables creating and sharing Fellow Aiden brew profiles as brew.link URLs through Claude.ai, with validation and authentication.",
+  "source_repo": "ga815647/fellow-aiden-mcp",
+  "source_url": "https://github.com/ga815647/fellow-aiden-mcp",
+  "install": "npx -y fellow-aiden-mcp"
+}

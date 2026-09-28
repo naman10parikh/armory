@@ -1,0 +1,7 @@
+{
+  "name": "vision-mcp-server",
+  "description": "An MCP server for analyzing images using ModelScope's vision models. Supports both local files and URLs, enabling image content description and question answering.",
+  "source_repo": "Markusbetter/vision-mcp-server",
+  "source_url": "https://github.com/Markusbetter/vision-mcp-server",
+  "install": "npx -y vision-mcp-server"
+}

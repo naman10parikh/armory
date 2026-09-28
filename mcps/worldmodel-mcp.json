@@ -1,0 +1,7 @@
+{
+  "name": "worldmodel-mcp",
+  "description": "Provides an external, validated state database for LLM agents to manage long-horizon tasks, with tools for defining schemas, invariants, actions, procedures, and branching, preventing state drift and compounding errors.",
+  "source_repo": "CocoaBeans/worldmodel-mcp",
+  "source_url": "https://github.com/CocoaBeans/worldmodel-mcp",
+  "install": "npx -y worldmodel-mcp"
+}

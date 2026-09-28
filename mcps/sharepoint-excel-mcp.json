@@ -1,0 +1,7 @@
+{
+  "name": "sharepoint-excel-mcp",
+  "description": "Enables AI agents to read and query Excel files stored in SharePoint and OneDrive for Business, converting permission-matrix spreadsheets into structured JSON for automated QA workflows.",
+  "source_repo": "dhanushkacc/sharepoint-excel-mcp",
+  "source_url": "https://github.com/dhanushkacc/sharepoint-excel-mcp",
+  "install": "npx -y sharepoint-excel-mcp"
+}

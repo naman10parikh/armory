@@ -1,0 +1,7 @@
+{
+  "name": "youtube-marketing-skills",
+  "description": "MCP server that connects AI agents to real YouTube channel analytics and SEO management via OAuth, enabling content strategy, metadata updates, and companion WordPress posts without leaving the agent.",
+  "source_repo": "adityaarsharma/youtube-marketing-skills",
+  "source_url": "https://github.com/adityaarsharma/youtube-marketing-skills",
+  "install": "# git clone --depth 1 https://github.com/adityaarsharma/youtube-marketing-skills\n# See source for mcpServers config block"
+}

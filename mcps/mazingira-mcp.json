@@ -1,0 +1,7 @@
+{
+  "name": "mazingira-mcp",
+  "description": "MCP server for Kenya environment — NEMA permits, climate data, conservation areas, environmental rights, climate adaptation.",
+  "source_repo": "gabrielmahia/mazingira-mcp",
+  "source_url": "https://github.com/gabrielmahia/mazingira-mcp",
+  "install": "npx -y mazingira-mcp"
+}

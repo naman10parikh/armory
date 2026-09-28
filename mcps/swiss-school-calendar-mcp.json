@@ -1,0 +1,7 @@
+{
+  "name": "swiss-school-calendar-mcp",
+  "description": "MCP server for Swiss school and public holidays across all 26 cantons, with differentiation by school type. No API key required.",
+  "source_repo": "malkreide/swiss-school-calendar-mcp",
+  "source_url": "https://github.com/malkreide/swiss-school-calendar-mcp",
+  "install": "npx -y swiss-school-calendar-mcp"
+}

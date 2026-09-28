@@ -1,0 +1,7 @@
+{
+  "name": "chatwoot-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that connects AI assistants like Claude to your Chatwoot instance. Manage customer conversations, read messages, send replies, and filter by date ranges -- all through natural language.",
+  "source_repo": "mohnori/chatwoot-mcp",
+  "source_url": "https://github.com/mohnori/chatwoot-mcp",
+  "install": "npx -y chatwoot-mcp"
+}

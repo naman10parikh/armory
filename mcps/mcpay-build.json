@@ -1,0 +1,7 @@
+{
+  "name": "mcpay-build",
+  "description": "Enables no-code creation, preview, deployment, and monetization of MCP servers via x402 micropayments, including a virtual file system, sandbox preview, and tool monetization.",
+  "source_repo": "microchipgnu/mcpay-build",
+  "source_url": "https://github.com/microchipgnu/mcpay-build",
+  "install": "# git clone --depth 1 https://github.com/microchipgnu/mcpay-build\n# See source for mcpServers config block"
+}

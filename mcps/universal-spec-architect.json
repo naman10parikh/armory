@@ -1,0 +1,7 @@
+{
+  "name": "universal-spec-architect",
+  "description": "Enforces a rigorous spec-driven engineering workflow for AI coding assistants, requiring requirements, design, and task planning before any code is written.",
+  "source_repo": "ahmedelpannann/bob-a-thon-submission",
+  "source_url": "https://github.com/ahmedelpannann/bob-a-thon-submission",
+  "install": "# git clone --depth 1 https://github.com/ahmedelpannann/bob-a-thon-submission\n# See source for mcpServers config block"
+}

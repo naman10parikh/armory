@@ -1,0 +1,7 @@
+{
+  "name": "design-schema-mcp",
+  "description": "A read-only MCP server for reading and analyzing Lanhu (Blue Lake) design projects, providing tools to retrieve design lists, previews, node trees, schemas, and exportable resources.",
+  "source_repo": "andyjin5/lanhu-schema-mcp",
+  "source_url": "https://github.com/andyjin5/lanhu-schema-mcp",
+  "install": "npx -y lanhu-schema-mcp"
+}

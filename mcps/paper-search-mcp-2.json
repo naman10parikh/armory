@@ -1,0 +1,7 @@
+{
+  "name": "paper-search-mcp-2",
+  "description": "A Model Context Protocol server for searching and downloading academic papers from multiple free and public sources, enabling LLM-driven academic research workflows.",
+  "source_repo": "Nehra-Amaterasu/paper-search-mcp",
+  "source_url": "https://github.com/Nehra-Amaterasu/paper-search-mcp",
+  "install": "npx -y paper-search-mcp"
+}

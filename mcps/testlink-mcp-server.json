@@ -1,0 +1,7 @@
+{
+  "name": "testlink-mcp-server",
+  "description": "Enables LLM agents to interact with TestLink test management system via XML-RPC API, supporting test projects, suites, cases, plans, executions, and custom fields.",
+  "source_repo": "adama007/MCP-TESTLINK",
+  "source_url": "https://github.com/adama007/MCP-TESTLINK",
+  "install": "# git clone --depth 1 https://github.com/adama007/MCP-TESTLINK\n# See source for mcpServers config block"
+}

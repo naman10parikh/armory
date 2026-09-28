@@ -1,0 +1,7 @@
+{
+  "name": "novelai-image-mcp",
+  "description": "An MCP server that exposes NovelAI image generation as tools for AI agents, supporting txt2img, img2img, inpaint, upscaling, Director tools, ControlNet annotation, tag suggestions, vibe encoding, and subscription queries via stdio or streamable-http transports.",
+  "source_repo": "xinvxueyuan/NovelAI-Image-MCP",
+  "source_url": "https://github.com/xinvxueyuan/NovelAI-Image-MCP",
+  "install": "npx -y NovelAI-Image-MCP"
+}

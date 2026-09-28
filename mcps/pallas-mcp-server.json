@@ -1,0 +1,7 @@
+{
+  "name": "pallas-mcp-server",
+  "description": "Connects an AI agent to Figma and Panda CSS for two-way design system sync, component creation, and variable binding.",
+  "source_repo": "emanirfan-creator/figma-pallas-mcp",
+  "source_url": "https://github.com/emanirfan-creator/figma-pallas-mcp",
+  "install": "npx -y figma-pallas-mcp"
+}

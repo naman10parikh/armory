@@ -1,0 +1,7 @@
+{
+  "name": "hermes-marketplace-tools",
+  "description": "Provides MCP tools for searching and comparing products on Wildberries (and Ozon planned), including product search, detailed card retrieval, and review fetching, normalized for LLM consumption.",
+  "source_repo": "vladthecto/hermes-marketplace-tools",
+  "source_url": "https://github.com/vladthecto/hermes-marketplace-tools",
+  "install": "# git clone --depth 1 https://github.com/vladthecto/hermes-marketplace-tools\n# See source for mcpServers config block"
+}

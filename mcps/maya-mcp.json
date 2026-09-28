@@ -1,0 +1,7 @@
+{
+  "name": "maya-mcp",
+  "description": "A local Model Context Protocol server for controlling Autodesk Maya, providing typed tools for scene, modeling, animation, and more without Maya imports in the server process.",
+  "source_repo": "GimbalGoats/GG_MayaMCP",
+  "source_url": "https://github.com/GimbalGoats/GG_MayaMCP",
+  "install": "# git clone --depth 1 https://github.com/GimbalGoats/GG_MayaMCP\n# See source for mcpServers config block"
+}

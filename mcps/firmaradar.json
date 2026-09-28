@@ -1,0 +1,7 @@
+{
+  "name": "firmaradar",
+  "description": "Multi-source enrichment platform for Norwegian company intelligence: search, ownership down to individual shareholders, roles, financials, risk scoring, and KYC/AML/PEP screening. Fuses Brønnøysundregistrene, the Tax Administration's shareholder registry, and foreign PEP/sanctions sources into decis",
+  "source_repo": "Tiwas/firmaradar-mcp",
+  "source_url": "https://github.com/Tiwas/firmaradar-mcp",
+  "install": "npx -y firmaradar-mcp"
+}

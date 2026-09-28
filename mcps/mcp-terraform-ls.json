@@ -1,0 +1,7 @@
+{
+  "name": "mcp-terraform-ls",
+  "description": "An MCP server that wraps terraform-ls to provide Terraform language intelligence as MCP tools, enabling AI assistants to understand and navigate Terraform codebases.",
+  "source_repo": "alexsavio/mcp-terraform-ls",
+  "source_url": "https://github.com/alexsavio/mcp-terraform-ls",
+  "install": "# git clone --depth 1 https://github.com/alexsavio/mcp-terraform-ls\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nport",
+  "description": "MCP server serving a normalized graph of fund holdings and service providers built from SEC Form N-PORT and N-CEN data joined to the GLEIF LEI register. Currently only the ingest layer is implemented, with the MCP server not yet built.",
+  "source_repo": "bensacc/nport-mcp",
+  "source_url": "https://github.com/bensacc/nport-mcp",
+  "install": "npx -y nport-mcp"
+}

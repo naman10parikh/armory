@@ -1,0 +1,7 @@
+{
+  "name": "qjtrader-mcp",
+  "description": "MCP server for QJ Trader AI Trading APIs, enabling LLMs to watch live Canadian market data and place simulated orders.",
+  "source_repo": "QJTrader/qjtrader-mcp",
+  "source_url": "https://github.com/QJTrader/qjtrader-mcp",
+  "install": "npx -y qjtrader-mcp"
+}

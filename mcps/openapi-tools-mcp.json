@@ -1,0 +1,7 @@
+{
+  "name": "openapi-tools-mcp",
+  "description": "Enables inspecting local OpenAPI specification files by listing and retrieving spec details with filters and $ref resolution.",
+  "source_repo": "kardaj/openapi-tools-mcp",
+  "source_url": "https://github.com/kardaj/openapi-tools-mcp",
+  "install": "npx -y openapi-tools-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "groundstation",
+  "description": "Enables AI agents to query Earth observation data, satellite imagery, active fires, and weather via natural language, returning interactive maps and briefs.",
+  "source_repo": "dannybauman/groundstation",
+  "source_url": "https://github.com/dannybauman/groundstation",
+  "install": "# git clone --depth 1 https://github.com/dannybauman/groundstation\n# See source for mcpServers config block"
+}

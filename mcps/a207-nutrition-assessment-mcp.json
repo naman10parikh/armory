@@ -1,0 +1,7 @@
+{
+  "name": "a207-nutrition-assessment-mcp",
+  "description": "Enables pediatric CKD nutrition assessment by calculating PRNT energy/protein targets, evaluating dietary intake against those targets, and screening for PEW risk, with support for dialysis, vegetarian diets, and edema corrections.",
+  "source_repo": "ayeyouok/a207-nutrition-assessment-mcp",
+  "source_url": "https://github.com/ayeyouok/a207-nutrition-assessment-mcp",
+  "install": "npx -y a207-nutrition-assessment-mcp"
+}

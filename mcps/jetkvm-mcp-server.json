@@ -1,0 +1,7 @@
+{
+  "name": "jetkvm-mcp-server",
+  "description": "Enables remote control of a computer connected to a JetKVM device by capturing its screen and sending mouse, keyboard, and scroll inputs via Playwright and the JetKVM's local Web UI.",
+  "source_repo": "YokihitoOkiBiz/jetkvm-mcp",
+  "source_url": "https://github.com/YokihitoOkiBiz/jetkvm-mcp",
+  "install": "npx -y jetkvm-mcp"
+}

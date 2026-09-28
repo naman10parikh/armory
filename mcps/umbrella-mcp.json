@@ -1,0 +1,7 @@
+{
+  "name": "umbrella-mcp",
+  "description": "Local MCP server for interacting with Umbrella Lua scripts and match state, enabling runtime status, script management, and game data inspection.",
+  "source_repo": "madonchik123/umbrella-mcp",
+  "source_url": "https://github.com/madonchik123/umbrella-mcp",
+  "install": "npx -y umbrella-mcp"
+}

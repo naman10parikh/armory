@@ -1,0 +1,7 @@
+{
+  "name": "elnora-mcp-server",
+  "description": "Connects AI agents to the Elnora bioprotocol optimization platform, enabling generation, management, and optimization of wet-lab protocols through natural language.",
+  "source_repo": "Elnora-AI/elnora-mcp-server",
+  "source_url": "https://github.com/Elnora-AI/elnora-mcp-server",
+  "install": "npx -y elnora-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "local-git-mcp-server",
+  "description": "A Model Context Protocol server for interacting with Git repositories, extending mcp_server_git with custom tools to list repository directories and view file contents for easier codebase navigation.",
+  "source_repo": "bpweatherill/local-git-mcp",
+  "source_url": "https://github.com/bpweatherill/local-git-mcp",
+  "install": "npx -y local-git-mcp"
+}

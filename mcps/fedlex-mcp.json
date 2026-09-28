@@ -1,0 +1,7 @@
+{
+  "name": "fedlex-mcp",
+  "description": "MCP Server for Swiss federal law — search the SR, monitor legal changes, and query BBl/treaties via Claude Desktop or Claude.ai.",
+  "source_repo": "malkreide/fedlex-mcp",
+  "source_url": "https://github.com/malkreide/fedlex-mcp",
+  "install": "npx -y fedlex-mcp"
+}

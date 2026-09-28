@@ -1,0 +1,7 @@
+{
+  "name": "italian-data-protection-mcp",
+  "description": "Provides tools to search and retrieve Italian data protection regulations, decisions, and guidelines from the Garante, for use with AI compliance tools.",
+  "source_repo": "Ansvar-Systems/italian-data-protection-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/italian-data-protection-mcp",
+  "install": "npx -y italian-data-protection-mcp"
+}

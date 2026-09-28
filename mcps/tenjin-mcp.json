@@ -1,0 +1,7 @@
+{
+  "name": "tenjin-mcp",
+  "description": "Remote MCP server enabling agents to search, buy, and publish reusable knowledge via nine agent-native tools without API keys or custodied wallets.",
+  "source_repo": "BackTrackCo/tenjin-mcp",
+  "source_url": "https://github.com/BackTrackCo/tenjin-mcp",
+  "install": "npx -y tenjin-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dreamd",
+  "description": "A local MCP server that gives AI harnesses a shared, filesystem-backed memory using the .agent folder, with tools to search and append lessons across sessions.",
+  "source_repo": "botzrDev/dreamd",
+  "source_url": "https://github.com/botzrDev/dreamd",
+  "install": "# git clone --depth 1 https://github.com/botzrDev/dreamd\n# See source for mcpServers config block"
+}

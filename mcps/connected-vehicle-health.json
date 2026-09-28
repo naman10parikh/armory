@@ -1,0 +1,7 @@
+{
+  "name": "connected-vehicle-health",
+  "description": "Exposes a connected-vehicle OBD-II/telematics platform to AI agents, enabling vehicle health scoring, live data queries, DTC decoding, maintenance prediction, and gated remote commands via a pluggable data layer.",
+  "source_repo": "imsnawaz/connected-vehicle-mcp",
+  "source_url": "https://github.com/imsnawaz/connected-vehicle-mcp",
+  "install": "npx -y connected-vehicle-mcp"
+}

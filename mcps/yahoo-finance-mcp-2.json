@@ -1,0 +1,7 @@
+{
+  "name": "yahoo-finance-mcp-2",
+  "description": "Enables retrieval of comprehensive financial data from Yahoo Finance, including stock prices, company info, financial statements, options, and news, for stock analysis and market research.",
+  "source_repo": "Alex2Yang97/yahoo-finance-mcp",
+  "source_url": "https://github.com/Alex2Yang97/yahoo-finance-mcp",
+  "install": "npx -y yahoo-finance-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dfxm-geo-mcp",
+  "description": "MCP server that lets AI clients drive the dfxm-geo dark-field X-ray microscopy forward model, enabling config validation, reflection enumeration, and preview-scale simulations.",
+  "source_repo": "borgi-s/dfxm-geo-mcp",
+  "source_url": "https://github.com/borgi-s/dfxm-geo-mcp",
+  "install": "npx -y dfxm-geo-mcp"
+}

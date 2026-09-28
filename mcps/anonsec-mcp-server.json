@@ -1,0 +1,7 @@
+{
+  "name": "anonsec-mcp-server",
+  "description": "Provides anonymous email management through Firefox Relay, enabling sending, receiving, and OTP extraction while maintaining privacy and security.",
+  "source_repo": "VrilLabs/anonsec-mcp-server",
+  "source_url": "https://github.com/VrilLabs/anonsec-mcp-server",
+  "install": "npx -y anonsec-mcp-server"
+}

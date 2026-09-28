@@ -1,0 +1,7 @@
+{
+  "name": "mindway-mcp-server",
+  "description": "Provides a read-only context gateway for the Mindway operating protocol, enabling AI clients to load startup context, search public guidelines, and retrieve protocol documentation safely with path traversal protection.",
+  "source_repo": "contactwichit-design/mindway-mcp",
+  "source_url": "https://github.com/contactwichit-design/mindway-mcp",
+  "install": "npx -y mindway-mcp"
+}

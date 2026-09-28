@@ -1,0 +1,7 @@
+{
+  "name": "figma-mcp-rust",
+  "description": "An MCP server that enables AI tools to read and write Figma designs via a plugin bridge, bypassing the Figma REST API and rate limits.",
+  "source_repo": "alvinindra/figma-mcp-rust",
+  "source_url": "https://github.com/alvinindra/figma-mcp-rust",
+  "install": "# git clone --depth 1 https://github.com/alvinindra/figma-mcp-rust\n# See source for mcpServers config block"
+}

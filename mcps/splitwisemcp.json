@@ -1,0 +1,7 @@
+{
+  "name": "splitwisemcp",
+  "description": "A local MCP server that enables AI clients like Codex, Claude Code, and Claude Desktop to manage Splitwise expenses, friends, groups, and more through natural language.",
+  "source_repo": "NetEngBuff/SplitwiseMCP",
+  "source_url": "https://github.com/NetEngBuff/SplitwiseMCP",
+  "install": "# git clone --depth 1 https://github.com/NetEngBuff/SplitwiseMCP\n# See source for mcpServers config block"
+}

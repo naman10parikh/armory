@@ -1,0 +1,7 @@
+{
+  "name": "antt-tric-mcp-server",
+  "description": "Enables querying official Brazilian ANTT data on international road freight transport (TRIC) through a single read-only tool, with prepaid per-use pricing.",
+  "source_repo": "mcp-dir/antt_tric-mcp",
+  "source_url": "https://github.com/mcp-dir/antt_tric-mcp",
+  "install": "npx -y antt_tric-mcp"
+}

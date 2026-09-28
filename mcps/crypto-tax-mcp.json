@@ -1,0 +1,7 @@
+{
+  "name": "crypto-tax-mcp",
+  "description": "Cost basis tracking, capital gains calculation, and 1099-DA reconciliation for Claude, built on top of the Crypto Portfolio MCP data layer.",
+  "source_repo": "biggling/crypto-tax-mcp",
+  "source_url": "https://github.com/biggling/crypto-tax-mcp",
+  "install": "npx -y crypto-tax-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "17-0-mcp-server-2",
+  "description": "Exposes the canonical 17-0 knowledge surface including game rules, roster constraints, and entry points for the NFL roster strategy game to MCP-compatible AI clients.",
+  "source_repo": "Rocniubi/17-0-mcp",
+  "source_url": "https://github.com/Rocniubi/17-0-mcp",
+  "install": "npx -y 17-0-mcp"
+}

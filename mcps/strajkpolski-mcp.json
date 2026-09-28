@@ -1,0 +1,7 @@
+{
+  "name": "strajkpolski-mcp",
+  "description": "MCP server providing tools to query Polish political open data: public debt, budget, 460 Sejm MPs, protest manifesto, and skills.",
+  "source_repo": "Hei33enberg/strajkpolski-mcp",
+  "source_url": "https://github.com/Hei33enberg/strajkpolski-mcp",
+  "install": "npx -y strajkpolski-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "homespun",
+  "description": "Hand a human a rich interactive UI by URL from any MCP client and get structured data back: forms, approvals, surveys, pickers, editable lists. Round-trip human-in-the-loop for agents.",
+  "source_repo": "homespunapps/homespun",
+  "source_url": "https://github.com/homespunapps/homespun",
+  "install": "# git clone --depth 1 https://github.com/homespunapps/homespun\n# See source for mcpServers config block"
+}

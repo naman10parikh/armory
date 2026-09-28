@@ -1,0 +1,7 @@
+{
+  "name": "bidirectional-bridge-claude-codex",
+  "description": "A local, repository-scoped MCP coordination bridge that lets Claude Code and Codex work together in the same checkout via tasks, leases, and evidence-based completion, preventing conflicting edits and enabling bounded delegation.",
+  "source_repo": "grizzly2005/bidirectional-bridge-claude-codex",
+  "source_url": "https://github.com/grizzly2005/bidirectional-bridge-claude-codex",
+  "install": "# git clone --depth 1 https://github.com/grizzly2005/bidirectional-bridge-claude-codex\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fluxdots-mcp",
+  "description": "MCP server that lets agents play the FluxDots strategy game, including hosting/joining matches, making moves, and tracking Elo ratings on a live ladder.",
+  "source_repo": "drknowhow/fluxdots-mcp",
+  "source_url": "https://github.com/drknowhow/fluxdots-mcp",
+  "install": "npx -y fluxdots-mcp"
+}

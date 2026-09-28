@@ -1,0 +1,7 @@
+{
+  "name": "lamoda-mcp-ru",
+  "description": "Enables Lamoda sellers to manage their store via natural language through a MCP server that connects to the official Lamoda Seller API, supporting 155 methods for products, prices, orders, shipments, and more.",
+  "source_repo": "ilyautov/lamoda-mcp-ru",
+  "source_url": "https://github.com/ilyautov/lamoda-mcp-ru",
+  "install": "# git clone --depth 1 https://github.com/ilyautov/lamoda-mcp-ru\n# See source for mcpServers config block"
+}

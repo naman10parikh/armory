@@ -1,0 +1,7 @@
+{
+  "name": "paragon-mcp-server",
+  "description": "Enables AI agents to access prebuilt actions for 130+ SaaS integrations via Paragon's ActionKit, with automatic OAuth and API key flows.",
+  "source_repo": "useparagon/paragon-mcp",
+  "source_url": "https://github.com/useparagon/paragon-mcp",
+  "install": "npx -y paragon-mcp"
+}

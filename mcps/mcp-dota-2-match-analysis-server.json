@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dota-2-match-analysis-server",
+  "description": "FastMCP server for Dota 2 match analysis using replay files and OpenDota API, with built-in coaching instructions for LLMs.",
+  "source_repo": "DeepBlueCoding/mcp-replay-dota2",
+  "source_url": "https://github.com/DeepBlueCoding/mcp-replay-dota2",
+  "install": "# git clone --depth 1 https://github.com/DeepBlueCoding/mcp-replay-dota2\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nextjs-agent-mcp",
+  "description": "An MCP server that lets an AI agent drive and inspect a running Next.js app, with headless route/error introspection and a real DOM-based in-page bridge for interactive testing.",
+  "source_repo": "zohaib3249/nextjs-agent-mcp",
+  "source_url": "https://github.com/zohaib3249/nextjs-agent-mcp",
+  "install": "npx -y nextjs-agent-mcp"
+}

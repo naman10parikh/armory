@@ -1,0 +1,7 @@
+{
+  "name": "dorar-net-hadith-mcp",
+  "description": "An MCP server that enables searching and researching Hadith through Dorar.net inside Claude Desktop, providing authentic search results, grading, and commentary.",
+  "source_repo": "ibnsaleem29/dorar-hadith-mcp",
+  "source_url": "https://github.com/ibnsaleem29/dorar-hadith-mcp",
+  "install": "npx -y dorar-hadith-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scrapy-mcp",
+  "description": "A headless web-scraping MCP server built on Scrapy, providing tools for polite fetching, CSS/XPath extraction, link/table extraction, sitemap and robots.txt reading, and bounded asynchronous crawls.",
+  "source_repo": "eitan3/Scrapy_MCP_Scraper",
+  "source_url": "https://github.com/eitan3/Scrapy_MCP_Scraper",
+  "install": "# git clone --depth 1 https://github.com/eitan3/Scrapy_MCP_Scraper\n# See source for mcpServers config block"
+}

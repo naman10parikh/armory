@@ -1,0 +1,7 @@
+{
+  "name": "solidworks-mcp-server",
+  "description": "A Node.js MCP server that connects AI assistants to SolidWorks for CAD automation via COM interop, with a smart routing layer to handle parameter limits by using VBA macros when needed.",
+  "source_repo": "vespo92/SolidworksMCP-TS",
+  "source_url": "https://github.com/vespo92/SolidworksMCP-TS",
+  "install": "# git clone --depth 1 https://github.com/vespo92/SolidworksMCP-TS\n# See source for mcpServers config block"
+}

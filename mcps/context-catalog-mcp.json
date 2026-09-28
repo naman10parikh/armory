@@ -1,0 +1,7 @@
+{
+  "name": "context-catalog-mcp",
+  "description": "Exposes schema, lineage, and data-quality trust signals from a SQLite-backed catalog as MCP tools, enabling AI agents to answer grounded questions about datasets without hallucinating.",
+  "source_repo": "ArokiaNisha/atlan-context-mcp",
+  "source_url": "https://github.com/ArokiaNisha/atlan-context-mcp",
+  "install": "npx -y atlan-context-mcp"
+}

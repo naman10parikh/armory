@@ -1,0 +1,7 @@
+{
+  "name": "wafle-scraper",
+  "description": "Enables AI agents to scrape web pages safely with incognito browsing, rate limiting, and ethical CAPTCHA handling.",
+  "source_repo": "creandoaldia/wafle-scraper",
+  "source_url": "https://github.com/creandoaldia/wafle-scraper",
+  "install": "# git clone --depth 1 https://github.com/creandoaldia/wafle-scraper\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "project-telos",
+  "description": "Local-first MCP tools for AI-assisted work receipts, workspace maps, routing ledgers, measured verdicts, and shared state verification across the five Project Telos flagships.",
+  "source_repo": "HarperZ9/telos",
+  "source_url": "https://github.com/HarperZ9/telos",
+  "install": "# git clone --depth 1 https://github.com/HarperZ9/telos\n# See source for mcpServers config block"
+}

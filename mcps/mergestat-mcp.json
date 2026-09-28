@@ -1,0 +1,7 @@
+{
+  "name": "mergestat-mcp",
+  "description": "Enables SQL queries against git repositories via MergeStat, allowing users to analyze commits, authors, and files using natural language.",
+  "source_repo": "alc0der/mergestat-mcp",
+  "source_url": "https://github.com/alc0der/mergestat-mcp",
+  "install": "npx -y mergestat-mcp"
+}

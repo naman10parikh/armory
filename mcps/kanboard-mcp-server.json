@@ -1,0 +1,7 @@
+{
+  "name": "kanboard-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that exposes Kanboard API functionality to Large Language Models (LLMs), enabling AI assistants to interact with Kanboard project management system.",
+  "source_repo": "hoducha/kanboard-mcp",
+  "source_url": "https://github.com/hoducha/kanboard-mcp",
+  "install": "npx -y kanboard-mcp"
+}

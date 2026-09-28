@@ -1,0 +1,7 @@
+{
+  "name": "docs-cache-mcp",
+  "description": "A local MCP server that fetches official library documentation (llms.txt-first), caches it to disk, and serves relevant sections to coding agents offline with deterministic retrieval.",
+  "source_repo": "BlackRaptorAI/docs-cache-mcp",
+  "source_url": "https://github.com/BlackRaptorAI/docs-cache-mcp",
+  "install": "npx -y docs-cache-mcp"
+}

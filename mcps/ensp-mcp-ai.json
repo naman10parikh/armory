@@ -1,0 +1,7 @@
+{
+  "name": "ensp-mcp-ai",
+  "description": "Enables AI clients to manage Huawei eNSP simulated network devices, execute CLI commands, apply configurations, and perform network diagnostics through natural language, with topology upload and visualization via a web UI.",
+  "source_repo": "dawnight0x/ENSP-MCP",
+  "source_url": "https://github.com/dawnight0x/ENSP-MCP",
+  "install": "npx -y ENSP-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "coinmarket-mcp-server",
+  "description": "Enables access to CoinMarketCap API data, including latest cryptocurrency listings and token quotes, through natural language.",
+  "source_repo": "mikeysrecipes/coinmarket-mcp-server",
+  "source_url": "https://github.com/mikeysrecipes/coinmarket-mcp-server",
+  "install": "npx -y coinmarket-mcp-server"
+}

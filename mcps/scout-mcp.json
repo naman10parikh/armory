@@ -1,0 +1,7 @@
+{
+  "name": "scout-mcp",
+  "description": "Enables AI assistants to look up real estate agents, search MLS listings, submit buyer/seller leads, and access proprietary seller-intent signals in SC and GA.",
+  "source_repo": "Flikah/scout-mcp",
+  "source_url": "https://github.com/Flikah/scout-mcp",
+  "install": "npx -y scout-mcp"
+}

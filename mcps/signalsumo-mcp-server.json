@@ -1,0 +1,7 @@
+{
+  "name": "signalsumo-mcp-server",
+  "description": "Model Context Protocol server for SignalSumo that lets Claude, Cursor, and other MCP-compatible clients read SEO data, run technical audits, research keywords, and check backlink profiles through natural-language tool calls.",
+  "source_repo": "signalsumo/mcp",
+  "source_url": "https://github.com/signalsumo/mcp",
+  "install": "# git clone --depth 1 https://github.com/signalsumo/mcp\n# See source for mcpServers config block"
+}

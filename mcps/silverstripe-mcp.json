@@ -1,0 +1,7 @@
+{
+  "name": "silverstripe-mcp",
+  "description": "Validates AI-generated PHP code against Silverstripe 6 patterns, catching migration issues from SS5 to SS6.",
+  "source_repo": "sandervanscheepen/silverstripe-mcp",
+  "source_url": "https://github.com/sandervanscheepen/silverstripe-mcp",
+  "install": "npx -y silverstripe-mcp"
+}

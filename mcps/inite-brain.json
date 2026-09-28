@@ -1,0 +1,7 @@
+{
+  "name": "inite-brain",
+  "description": "An open-source bitemporal knowledge graph that provides long-term memory for AI agents via a native MCP endpoint, enabling conflict-aware ingest and hybrid retrieval.",
+  "source_repo": "inite-ai/inite-brain-service",
+  "source_url": "https://github.com/inite-ai/inite-brain-service",
+  "install": "# git clone --depth 1 https://github.com/inite-ai/inite-brain-service\n# See source for mcpServers config block"
+}

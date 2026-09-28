@@ -1,0 +1,7 @@
+{
+  "name": "kiyas",
+  "description": "AI design fidelity — compare Figma designs or screenshots against the rendered implementation and get structured discrepancies. Uses your Claude Code or Codex subscription, no API keys.",
+  "source_repo": "saiffmirza/kiyas",
+  "source_url": "https://github.com/saiffmirza/kiyas",
+  "install": "# git clone --depth 1 https://github.com/saiffmirza/kiyas\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cast-mcp",
+  "description": "MCP server for casting audiobooks from a local filesystem library to Google Cast speakers, with playback control and local TTS support.",
+  "source_repo": "zapplebee/cast-mcp",
+  "source_url": "https://github.com/zapplebee/cast-mcp",
+  "install": "npx -y cast-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "appointment-scheduler-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that connects to a PostgreSQL database to manage appointment scheduling.",
+  "source_repo": "fastmcp-me/backend-mcp",
+  "source_url": "https://github.com/fastmcp-me/backend-mcp",
+  "install": "npx -y backend-mcp"
+}

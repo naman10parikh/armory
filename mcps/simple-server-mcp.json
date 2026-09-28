@@ -1,0 +1,7 @@
+{
+  "name": "simple-server-mcp",
+  "description": "A lightweight MCP server that enables AI agents to retrieve customer support ticket information from an in-memory datastore via SSE.",
+  "source_repo": "rodriguesscaio/simple-server-mcp",
+  "source_url": "https://github.com/rodriguesscaio/simple-server-mcp",
+  "install": "npx -y simple-server-mcp"
+}

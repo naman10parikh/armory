@@ -1,0 +1,7 @@
+{
+  "name": "stoxly",
+  "description": "Free stock & ETF fundamental analysis: 10-criteria scoring with a clear verdict and key metrics for any ticker. Two tools (analyze_stock, analyze_etf), no auth, no API keys.",
+  "source_repo": "wizard-exe/Stoxly-mcp",
+  "source_url": "https://github.com/wizard-exe/Stoxly-mcp",
+  "install": "npx -y Stoxly-mcp"
+}

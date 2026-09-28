@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gsa-perdiem",
+  "description": "Enables querying GSA Per Diem rates for travel destinations, providing daily lodging and meal allowance data from the U.S. General Services Administration API.",
+  "source_repo": "pipeworx-io/mcp-gsa-perdiem",
+  "source_url": "https://github.com/pipeworx-io/mcp-gsa-perdiem",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-gsa-perdiem\n# See source for mcpServers config block"
+}

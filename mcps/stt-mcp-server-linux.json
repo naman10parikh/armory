@@ -1,0 +1,7 @@
+{
+  "name": "stt-mcp-server-linux",
+  "description": "Local speech-to-text MCP server for Linux that transcribes audio via push-to-talk (Right Ctrl) and injects the text into Claude's input stream in Tmux.",
+  "source_repo": "marcindulak/stt-mcp-server-linux",
+  "source_url": "https://github.com/marcindulak/stt-mcp-server-linux",
+  "install": "# git clone --depth 1 https://github.com/marcindulak/stt-mcp-server-linux\n# See source for mcpServers config block"
+}

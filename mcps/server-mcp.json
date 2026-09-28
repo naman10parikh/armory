@@ -1,0 +1,7 @@
+{
+  "name": "server-mcp",
+  "description": "Provides math and weather tools accessible via LangGraph agent using MCP protocol with stdio and streamable HTTP transports.",
+  "source_repo": "SeydinaBANE/Server_mcp",
+  "source_url": "https://github.com/SeydinaBANE/Server_mcp",
+  "install": "npx -y Server_mcp"
+}

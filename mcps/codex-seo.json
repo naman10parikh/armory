@@ -1,0 +1,7 @@
+{
+  "name": "codex-seo",
+  "description": "Provides SEO audits, crawling, performance analysis, and deployment management for web projects via a stdio MCP server.",
+  "source_repo": "CaffNoir59/codex-seo",
+  "source_url": "https://github.com/CaffNoir59/codex-seo",
+  "install": "# git clone --depth 1 https://github.com/CaffNoir59/codex-seo\n# See source for mcpServers config block"
+}

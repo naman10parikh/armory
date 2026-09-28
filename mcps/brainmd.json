@@ -1,0 +1,7 @@
+{
+  "name": "brainmd",
+  "description": "Local-first markdown vault with a built-in MCP server (streamable HTTP). 16 tools and 2 resources for Claude Code / Desktop / Cursor: read/write/search plus context_for_query, find_orphans, weekly_digest, compare_notes, semantic_outline. Per-folder agent permissions, LanceDB vectors, local Xenova ON",
+  "source_repo": "mi4uu/brain.md",
+  "source_url": "https://github.com/mi4uu/brain.md",
+  "install": "# git clone --depth 1 https://github.com/mi4uu/brain.md\n# See source for mcpServers config block"
+}

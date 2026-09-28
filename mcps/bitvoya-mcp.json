@@ -1,0 +1,7 @@
+{
+  "name": "bitvoya-mcp",
+  "description": "Luxury hotel intelligence and secure checkout handoff for AI travel agents.",
+  "source_repo": "seanbabalala/bitvoya-mcp",
+  "source_url": "https://github.com/seanbabalala/bitvoya-mcp",
+  "install": "npx -y bitvoya-mcp"
+}

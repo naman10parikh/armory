@@ -1,0 +1,7 @@
+{
+  "name": "cure-cancer-with-ai-mcp-server",
+  "description": "Provides oncology data (research, news, FDA approvals, clinical trials) and IBM MAMMAL biomedical predictions (PPI, DTI, ClinTox) as MCP tools. Allows AI agents to query cancer datasets and run predictions through a remote MCP server.",
+  "source_repo": "hifarrer/ccwai-api",
+  "source_url": "https://github.com/hifarrer/ccwai-api",
+  "install": "# git clone --depth 1 https://github.com/hifarrer/ccwai-api\n# See source for mcpServers config block"
+}

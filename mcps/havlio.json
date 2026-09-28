@@ -1,0 +1,7 @@
+{
+  "name": "havlio",
+  "description": "Self-hosted PaaS MCP server providing a write-capable control plane with over 100 tools to deploy, roll back, manage domains, and administer infrastructure, while ensuring agent permissions never exceed human RBAC.",
+  "source_repo": "kanduit-lab/havlio",
+  "source_url": "https://github.com/kanduit-lab/havlio",
+  "install": "# git clone --depth 1 https://github.com/kanduit-lab/havlio\n# See source for mcpServers config block"
+}

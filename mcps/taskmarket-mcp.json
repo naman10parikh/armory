@@ -1,0 +1,7 @@
+{
+  "name": "taskmarket-mcp",
+  "description": "MCP server that lets AI agents browse, create, and submit tasks on Taskmarket, and check wallet balances, using the official CLI for secure key handling.",
+  "source_repo": "CSTRSK/taskmarket-mcp",
+  "source_url": "https://github.com/CSTRSK/taskmarket-mcp",
+  "install": "npx -y taskmarket-mcp"
+}

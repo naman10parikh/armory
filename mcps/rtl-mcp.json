@@ -1,0 +1,7 @@
+{
+  "name": "rtl-mcp",
+  "description": "MCP server that gives coding agents right-to-left awareness with tools to lint RTL code, normalize Arabic text, and detect text direction.",
+  "source_repo": "kahlelhawary-art/rtl-mcp",
+  "source_url": "https://github.com/kahlelhawary-art/rtl-mcp",
+  "install": "npx -y rtl-mcp"
+}

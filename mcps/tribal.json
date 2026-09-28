@@ -1,0 +1,7 @@
+{
+  "name": "tribal",
+  "description": "Semantic memory for AI builders: capture the tacit engineering know-how that never reaches your docs, recall it the moment it applies. Built in Rust on Postgres and pgvector.",
+  "source_repo": "tribal-memory/tribal",
+  "source_url": "https://github.com/tribal-memory/tribal",
+  "install": "# git clone --depth 1 https://github.com/tribal-memory/tribal\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vhdl-rag-mcp",
+  "description": "Provides coding agents with hybrid semantic and exact-identifier search across VHDL source, documentation, and general code, with cross-referencing and exact source attribution.",
+  "source_repo": "ru551n/vhdl-rag-mcp",
+  "source_url": "https://github.com/ru551n/vhdl-rag-mcp",
+  "install": "npx -y vhdl-rag-mcp"
+}

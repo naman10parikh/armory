@@ -1,0 +1,7 @@
+{
+  "name": "mem-agent-mcp",
+  "description": "MCP server for the driaforall/mem-agent model that enables interaction with an obsidian-like memory system through apps like Claude Desktop or LM Studio.",
+  "source_repo": "firstbatchxyz/mem-agent-mcp",
+  "source_url": "https://github.com/firstbatchxyz/mem-agent-mcp",
+  "install": "npx -y mem-agent-mcp"
+}

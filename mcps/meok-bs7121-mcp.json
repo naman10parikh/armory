@@ -1,0 +1,7 @@
+{
+  "name": "meok-bs7121-mcp",
+  "description": "Provides BS 7121 lift-plan compliance for UK crane and hiab operators including clause lookup, lift classification, CPA hire vs contract-lift triage, and LOLER scheduling.",
+  "source_repo": "CSOAI-ORG/meok-bs7121-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-bs7121-mcp",
+  "install": "npx -y meok-bs7121-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cc-recommender",
+  "description": "Analyzes project dependencies and recommends relevant skills, plugins, and MCP servers for Claude Code, enabling users to discover and install optimal tools.",
+  "source_repo": "yuji0809/cc-recommender",
+  "source_url": "https://github.com/yuji0809/cc-recommender",
+  "install": "# git clone --depth 1 https://github.com/yuji0809/cc-recommender\n# See source for mcpServers config block"
+}

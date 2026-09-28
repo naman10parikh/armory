@@ -1,0 +1,7 @@
+{
+  "name": "statetakehome-mcp",
+  "description": "Enables AI assistants to compute US take-home pay, self-employment taxes, and capital gains taxes for the 2026 tax year using the engine from statetakehome.com.",
+  "source_repo": "tresor4k/statetakehome-mcp",
+  "source_url": "https://github.com/tresor4k/statetakehome-mcp",
+  "install": "npx -y statetakehome-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "asklear-browser-mcp",
+  "description": "A local stdio MCP server that drives your Chrome browser through the Asklear extension, offering six browser tools for navigation, observation, clicking, filling, scrolling, and extraction — all operations remain on your machine.",
+  "source_repo": "Asklear/asklear-browser-mcp",
+  "source_url": "https://github.com/Asklear/asklear-browser-mcp",
+  "install": "npx -y asklear-browser-mcp"
+}

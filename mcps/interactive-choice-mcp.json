@@ -1,0 +1,7 @@
+{
+  "name": "interactive-choice-mcp",
+  "description": "Enables AI to present options and launch an interactive web or terminal interface for user selection, then return the results to the AI.",
+  "source_repo": "Sighthesia/interactive-choice-mcp",
+  "source_url": "https://github.com/Sighthesia/interactive-choice-mcp",
+  "install": "npx -y interactive-choice-mcp"
+}

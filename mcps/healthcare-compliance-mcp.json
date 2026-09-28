@@ -1,0 +1,7 @@
+{
+  "name": "healthcare-compliance-mcp",
+  "description": "Enables AI agents to access FDA and ClinicalTrials.gov data for medical device compliance, adverse event monitoring, and regulatory due diligence.",
+  "source_repo": "red-cars-io/healthcare-compliance-mcp",
+  "source_url": "https://github.com/red-cars-io/healthcare-compliance-mcp",
+  "install": "npx -y healthcare-compliance-mcp"
+}

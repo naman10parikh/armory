@@ -1,0 +1,7 @@
+{
+  "name": "mcp-backend",
+  "description": "MCP server providing backend access to PostgreSQL, Storage (Supabase/S3), Iceberg data lake, and SQL seeds. It offers 32 tools for database queries, storage operations, seed management, and more.",
+  "source_repo": "natuleadan/mcp-backend",
+  "source_url": "https://github.com/natuleadan/mcp-backend",
+  "install": "# git clone --depth 1 https://github.com/natuleadan/mcp-backend\n# See source for mcpServers config block"
+}

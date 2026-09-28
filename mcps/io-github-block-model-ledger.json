@@ -1,0 +1,7 @@
+{
+  "name": "io-github-block-model-ledger",
+  "description": "Provides AI agents with a toolset to query model inventories, trace dependencies, and analyze the impact of changes across machine learning models and data pipelines.",
+  "source_repo": "block/model-ledger",
+  "source_url": "https://github.com/block/model-ledger",
+  "install": "# git clone --depth 1 https://github.com/block/model-ledger\n# See source for mcpServers config block"
+}

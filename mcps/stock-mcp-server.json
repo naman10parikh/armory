@@ -1,6 +1,6 @@
 {
   "name": "stock-mcp-server",
-  "description": "Stock_mcp_server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "ingpoc/stock_mcp_server",
   "source_url": "https://mcp.so/server/stock_mcp_server/ingpoc",
   "install": "npx -y stock_mcp_server"

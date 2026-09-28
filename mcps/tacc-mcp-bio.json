@@ -1,0 +1,7 @@
+{
+  "name": "tacc-mcp-bio",
+  "description": "Enables Claude Code to interact with a TACC or SLURM HPC cluster for bioinformatics pipelines, allowing job management, log reading, file browsing, remote script execution, and job submission through natural language.",
+  "source_repo": "Narasimhan-Lab/tacc-mcp-bio",
+  "source_url": "https://github.com/Narasimhan-Lab/tacc-mcp-bio",
+  "install": "# git clone --depth 1 https://github.com/Narasimhan-Lab/tacc-mcp-bio\n# See source for mcpServers config block"
+}

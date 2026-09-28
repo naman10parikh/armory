@@ -1,0 +1,7 @@
+{
+  "name": "quantdb-mcp",
+  "description": "Read-only SQL MCP server for quantitative finance data (DuckDB) with stock quotes, financials, and historical K-lines, enabling cross-database JOIN queries.",
+  "source_repo": "openbot-coder/quantdb-mcp",
+  "source_url": "https://github.com/openbot-coder/quantdb-mcp",
+  "install": "npx -y quantdb-mcp"
+}

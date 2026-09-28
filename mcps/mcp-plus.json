@@ -1,0 +1,7 @@
+{
+  "name": "mcp-plus",
+  "description": "Enables Claude Code to understand images by transparently routing them to Qwen vision models, supporting both automatic gateway and MCP tool for file analysis.",
+  "source_repo": "zjcdkj/mcp-plus",
+  "source_url": "https://github.com/zjcdkj/mcp-plus",
+  "install": "# git clone --depth 1 https://github.com/zjcdkj/mcp-plus\n# See source for mcpServers config block"
+}

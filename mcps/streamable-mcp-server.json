@@ -1,0 +1,7 @@
+{
+  "name": "streamable-mcp-server",
+  "description": "A starting template for building a Streamable HTTP MCP server using TypeScript, based on the official SDK example with session management.",
+  "source_repo": "ferrants/mcp-streamable-http-typescript-server",
+  "source_url": "https://github.com/ferrants/mcp-streamable-http-typescript-server",
+  "install": "# git clone --depth 1 https://github.com/ferrants/mcp-streamable-http-typescript-server\n# See source for mcpServers config block"
+}

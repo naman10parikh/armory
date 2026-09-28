@@ -1,0 +1,7 @@
+{
+  "name": "wikipedia-mcp-server-2",
+  "description": "Enables AI assistants to access Wikipedia content, search articles, retrieve historical events, and fetch images through the Wikipedia API.",
+  "source_repo": "scotthelm/wikipedia-mcp-server",
+  "source_url": "https://github.com/scotthelm/wikipedia-mcp-server",
+  "install": "npx -y wikipedia-mcp-server"
+}

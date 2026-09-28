@@ -1,0 +1,7 @@
+{
+  "name": "cdp-pc",
+  "description": "Provides read-only access to the Cloudera CDP Public Cloud control plane, allowing users to list and describe environments, datahubs, datalakes, DW clusters, virtual warehouses, DE services, ML workspaces, and IAM users via natural language. It uses the installed cdp CLI and supports profiles.",
+  "source_repo": "zz22394/cdp-pc-mcp",
+  "source_url": "https://github.com/zz22394/cdp-pc-mcp",
+  "install": "npx -y cdp-pc-mcp"
+}

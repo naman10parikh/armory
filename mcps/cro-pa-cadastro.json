@@ -1,0 +1,7 @@
+{
+  "name": "cro-pa-cadastro",
+  "description": "Consulta dados de cadastro no Conselho Regional de Odontologia do Pará em fonte oficial, com ferramenta somente leitura. Permite verificar inscrições de profissionais via linguagem natural em qualquer cliente MCP.",
+  "source_repo": "mcp-dir/cro_pa_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_pa_cadastro-mcp",
+  "install": "npx -y cro_pa_cadastro-mcp"
+}

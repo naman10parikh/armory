@@ -1,0 +1,7 @@
+{
+  "name": "ltagent-mcp",
+  "description": "Generates, simulates, and inspects LTspice circuits via MCP tools and resources, providing structured JSON interfaces for AI agents.",
+  "source_repo": "AbiyuLingga/LTSpice-MCP",
+  "source_url": "https://github.com/AbiyuLingga/LTSpice-MCP",
+  "install": "npx -y LTSpice-MCP"
+}

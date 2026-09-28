@@ -1,0 +1,7 @@
+{
+  "name": "mcp-clickhouse",
+  "description": "An MCP server for ClickHouse with enhanced filtering for database and table discovery, supporting LIKE/NOT LIKE patterns and both ClickHouse and chDB tools.",
+  "source_repo": "stiproot/mcp-clickhouse",
+  "source_url": "https://github.com/stiproot/mcp-clickhouse",
+  "install": "# git clone --depth 1 https://github.com/stiproot/mcp-clickhouse\n# See source for mcpServers config block"
+}

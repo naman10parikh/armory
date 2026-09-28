@@ -1,0 +1,7 @@
+{
+  "name": "gong-mcp",
+  "description": "MCP server for interacting with Gong's sales engagement platform, enabling access to call recordings, analytics, and CRM data.",
+  "source_repo": "MicaelJarniac/gong-mcp",
+  "source_url": "https://github.com/MicaelJarniac/gong-mcp",
+  "install": "npx -y gong-mcp"
+}

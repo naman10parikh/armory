@@ -1,0 +1,7 @@
+{
+  "name": "general-agentic-management-mcp",
+  "description": "Enables querying aviation weather, FAA TFRs, NWS alerts, flight tracking, and Amtrak train status using public APIs. No API keys or private infrastructure required.",
+  "source_repo": "CorporateTravelDC/general-agentic-management-mcp",
+  "source_url": "https://github.com/CorporateTravelDC/general-agentic-management-mcp",
+  "install": "npx -y general-agentic-management-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "phpipam-mcp-server",
+  "description": "Enables interaction with phpIPAM IP address management (IPAM) system, providing tools to manage IP sections, subnets, addresses, VLANs, and more through natural language.",
+  "source_repo": "InfraMCP/phpipam-mcp-server",
+  "source_url": "https://github.com/InfraMCP/phpipam-mcp-server",
+  "install": "npx -y phpipam-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lemon-manuals-mcp",
+  "description": "Enables browsing and searching a self-hosted LEMON/CHARM car-repair manual archive, with tools to list makes, search vehicles, and fetch manual pages as markdown.",
+  "source_repo": "kelchm/lemon-manuals-mcp",
+  "source_url": "https://github.com/kelchm/lemon-manuals-mcp",
+  "install": "npx -y lemon-manuals-mcp"
+}

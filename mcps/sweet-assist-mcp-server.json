@@ -1,0 +1,7 @@
+{
+  "name": "sweet-assist-mcp-server",
+  "description": "Standalone MCP server exposing Sweet Assist transactions, contacts, envelopes, and agent profiles to Claude, behind an OAuth 2.1 login and approve flow.",
+  "source_repo": "anoopmkmk/sa-mcp",
+  "source_url": "https://github.com/anoopmkmk/sa-mcp",
+  "install": "npx -y sa-mcp"
+}

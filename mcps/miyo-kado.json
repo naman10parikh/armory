@@ -1,0 +1,7 @@
+{
+  "name": "miyo-kado",
+  "description": "Security-first MCP server plugin for Obsidian that gives AI assistants granular, permissioned access to vault notes and files through tools like read, write, delete, rename, search, and open-notes.",
+  "source_repo": "MMoMM-org/miyo-kado",
+  "source_url": "https://github.com/MMoMM-org/miyo-kado",
+  "install": "# git clone --depth 1 https://github.com/MMoMM-org/miyo-kado\n# See source for mcpServers config block"
+}

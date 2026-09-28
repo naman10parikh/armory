@@ -1,0 +1,7 @@
+{
+  "name": "mmwrag",
+  "description": "Bilingual RAG for scientific literature with search-only MCP server. Enables hybrid retrieval and reranking over indexed textbooks/papers.",
+  "source_repo": "mikrominiw/scientific-rag-mcp",
+  "source_url": "https://github.com/mikrominiw/scientific-rag-mcp",
+  "install": "npx -y scientific-rag-mcp"
+}

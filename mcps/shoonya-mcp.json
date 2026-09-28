@@ -1,0 +1,7 @@
+{
+  "name": "shoonya-mcp",
+  "description": "Enables algorithmic trading on the Shoonya platform through natural language commands, with military-grade encryption for credential security.",
+  "source_repo": "benatcmathew/Shoonya_Trading_MCP-Server",
+  "source_url": "https://github.com/benatcmathew/Shoonya_Trading_MCP-Server",
+  "install": "npx -y Shoonya_Trading_MCP-Server"
+}

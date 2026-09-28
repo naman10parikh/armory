@@ -1,0 +1,7 @@
+{
+  "name": "patentmcp",
+  "description": "Patent data retrieval and file delivery engine that searches multiple patent databases via a unified API and delivers documents as verifiable artifacts.",
+  "source_repo": "Raw1mage/patentmcp",
+  "source_url": "https://github.com/Raw1mage/patentmcp",
+  "install": "# git clone --depth 1 https://github.com/Raw1mage/patentmcp\n# See source for mcpServers config block"
+}

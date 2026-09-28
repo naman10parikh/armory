@@ -1,0 +1,7 @@
+{
+  "name": "scala-mcp-server",
+  "description": "MCP server for S.C.A.L.A. Score API — search and retrieve data on 244M+ companies across 50+ countries. Tools for company lookup by name/VAT/ID, NACE sector search, geographic filtering, and financial data enrichment from official EU business registries.",
+  "source_repo": "Alessandro114/scala-mcp-server",
+  "source_url": "https://github.com/Alessandro114/scala-mcp-server",
+  "install": "npx -y scala-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nausika-2",
+  "description": "Marine, maritime, nautical and sailing data for AI assistants and chatbots. Mediterranean marine forecast: wind, wave, swell, gust. Tide tables and tidal predictions. Sea routing and passage planning on a coastline-aware maritime graph. Curated POIs: marinas, ports, harbors, anchorages, moorings, fu",
+  "source_repo": "",
+  "source_url": "https://nausika.app",
+  "install": "# git clone --depth 1 https://nausika.app\n# See source for mcpServers config block"
+}

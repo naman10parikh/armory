@@ -1,0 +1,7 @@
+{
+  "name": "risbridge-mcp",
+  "description": "Enables users to run Slurm jobs on WashU RIS Compute2 cluster by describing their intent in plain English, without requiring SSH or Slurm knowledge.",
+  "source_repo": "CodeMonk6/risbridge-mcp",
+  "source_url": "https://github.com/CodeMonk6/risbridge-mcp",
+  "install": "npx -y risbridge-mcp"
+}

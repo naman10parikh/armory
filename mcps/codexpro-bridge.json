@@ -1,0 +1,7 @@
+{
+  "name": "codexpro-bridge",
+  "description": "A companion MCP server that exposes live Hermes Skills, filtered native MCP tools, and conditional Memos recall to ChatGPT while isolating Bridge failures from CodexPro VPS operations.",
+  "source_repo": "bsbofmusic/codexpro-bridge",
+  "source_url": "https://github.com/bsbofmusic/codexpro-bridge",
+  "install": "# git clone --depth 1 https://github.com/bsbofmusic/codexpro-bridge\n# See source for mcpServers config block"
+}

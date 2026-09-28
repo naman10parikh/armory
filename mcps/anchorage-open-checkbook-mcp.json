@@ -1,0 +1,7 @@
+{
+  "name": "anchorage-open-checkbook-mcp",
+  "description": "Read-only MCP server providing tools over Municipality of Anchorage's expenditure, payroll, procurement, and revenue data, with duplicates filtered by default.",
+  "source_repo": "codeforanchorage/anchorage-checkbook-mcp",
+  "source_url": "https://github.com/codeforanchorage/anchorage-checkbook-mcp",
+  "install": "npx -y anchorage-checkbook-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dexscreener-mcp",
+  "description": "An MCP server that gives Claude, Cursor, and any MCP-compatible agent live on-chain market data from DexScreener — search pairs, inspect tokens and pools, and pull trending/boosted tokens across every chain.",
+  "source_repo": "Glebenjoy/dexscreener-mcp",
+  "source_url": "https://github.com/Glebenjoy/dexscreener-mcp",
+  "install": "npx -y dexscreener-mcp"
+}

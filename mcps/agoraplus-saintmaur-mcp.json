@@ -1,0 +1,7 @@
+{
+  "name": "agoraplus-saintmaur-mcp",
+  "description": "Read-only MCP server for the Agora Plus family portal of Saint-Maur-des-Fossés, exposing portal info and peri-inscriptions.",
+  "source_repo": "ghis94/agoraplus-saintmaur-mcp",
+  "source_url": "https://github.com/ghis94/agoraplus-saintmaur-mcp",
+  "install": "npx -y agoraplus-saintmaur-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "halo-mcp",
+  "description": "Provides 12 CRUD tools for managing Halo tags, categories, and articles via a secure Cloudflare Workers gateway.",
+  "source_repo": "wangling-miao/halo-mcp",
+  "source_url": "https://github.com/wangling-miao/halo-mcp",
+  "install": "npx -y halo-mcp"
+}

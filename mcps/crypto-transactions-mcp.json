@@ -1,0 +1,7 @@
+{
+  "name": "crypto-transactions-mcp",
+  "description": "MCP server for tracking crypto transactions (trades, swaps, transfers) with exact Decimal precision, allowing LLM agents to log and query historical records with JSON or Notion persistence.",
+  "source_repo": "bolesk/crypto-transactions-mcp",
+  "source_url": "https://github.com/bolesk/crypto-transactions-mcp",
+  "install": "npx -y crypto-transactions-mcp"
+}

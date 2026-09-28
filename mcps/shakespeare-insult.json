@@ -1,0 +1,7 @@
+{
+  "name": "shakespeare-insult",
+  "description": "Generates Shakespearean insults using classical vocabulary or targeted Haiku mode. Accessed via Pipeworx MCP gateway.",
+  "source_repo": "pipeworx-io/mcp-shakespeare-insult",
+  "source_url": "https://github.com/pipeworx-io/mcp-shakespeare-insult",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-shakespeare-insult\n# See source for mcpServers config block"
+}

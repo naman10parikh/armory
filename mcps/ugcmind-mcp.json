@@ -1,0 +1,7 @@
+{
+  "name": "ugcmind-mcp",
+  "description": "Open-source MCP server for AI image and video generation via UGCmind, enabling prompt inspiration, generation, and async task tracking from any MCP host.",
+  "source_repo": "keenocean/ugcmind-mcp",
+  "source_url": "https://github.com/keenocean/ugcmind-mcp",
+  "install": "npx -y ugcmind-mcp"
+}

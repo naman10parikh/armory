@@ -1,0 +1,7 @@
+{
+  "name": "tushare-mcp-server",
+  "description": "Provides AI assistants with access to Chinese financial market data via the Tushare Pro API, covering stocks, indices, funds, futures, options, bonds, forex, and macroeconomic indicators.",
+  "source_repo": "erwanjun/tushare-mcp-server",
+  "source_url": "https://github.com/erwanjun/tushare-mcp-server",
+  "install": "npx -y tushare-mcp-server"
+}

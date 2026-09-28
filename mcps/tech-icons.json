@@ -1,0 +1,7 @@
+{
+  "name": "tech-icons",
+  "description": "MCP server exposing 3100+ cloud technology icons (AWS, Azure, GCP, Microsoft, CNCF, Devicon) with 3-tier search and multiple output formats for integration into presentations and architecture diagrams.",
+  "source_repo": "zhiweio/tech-icons",
+  "source_url": "https://github.com/zhiweio/tech-icons",
+  "install": "# git clone --depth 1 https://github.com/zhiweio/tech-icons\n# See source for mcpServers config block"
+}

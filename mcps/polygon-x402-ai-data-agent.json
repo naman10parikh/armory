@@ -1,0 +1,7 @@
+{
+  "name": "polygon-x402-ai-data-agent",
+  "description": "Zero-human Web3 micropayment MCP agent for LLM-ready clean web scraping, YouTube transcripts, PDF paper extraction, and plain text on Polygon Mainnet.",
+  "source_repo": "nohosa001-pixel/x402-cleanweb-agent",
+  "source_url": "https://github.com/nohosa001-pixel/x402-cleanweb-agent",
+  "install": "# git clone --depth 1 https://github.com/nohosa001-pixel/x402-cleanweb-agent\n# See source for mcpServers config block"
+}

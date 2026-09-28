@@ -1,0 +1,7 @@
+{
+  "name": "note-app-mcp-server",
+  "description": "MCP server for a JWT-authenticated note-taking API, exposing CRUD tools for notes.",
+  "source_repo": "hothienlac/mcp_demo",
+  "source_url": "https://github.com/hothienlac/mcp_demo",
+  "install": "# git clone --depth 1 https://github.com/hothienlac/mcp_demo\n# See source for mcpServers config block"
+}

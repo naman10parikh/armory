@@ -1,0 +1,7 @@
+{
+  "name": "nowsecure-mcp-server",
+  "description": "Enables interaction with NowSecure Platform for listing applications, retrieving remediation findings, and generating remediation PDFs via REST and GraphQL APIs.",
+  "source_repo": "tatavarthitarun/nowsecure-mcp-server",
+  "source_url": "https://github.com/tatavarthitarun/nowsecure-mcp-server",
+  "install": "npx -y nowsecure-mcp-server"
+}

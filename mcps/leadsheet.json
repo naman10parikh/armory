@@ -1,0 +1,7 @@
+{
+  "name": "leadsheet",
+  "description": "Enables Claude to compose real music from chord-symbol descriptions into MIDI files and audio previews, with musicology cross-checks on every chord.",
+  "source_repo": "Niraj-Kamdar/leadsheet",
+  "source_url": "https://github.com/Niraj-Kamdar/leadsheet",
+  "install": "# git clone --depth 1 https://github.com/Niraj-Kamdar/leadsheet\n# See source for mcpServers config block"
+}

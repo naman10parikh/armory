@@ -1,0 +1,7 @@
+{
+  "name": "whatsapp-claude-mcp",
+  "description": "Enables WhatsApp bots to process incoming messages through Claude AI, supporting conversational memory and extensible MCP tools for tasks like fetching jokes from external APIs.",
+  "source_repo": "yulianheroes-lgtm/whatsapp-claude-mcp",
+  "source_url": "https://github.com/yulianheroes-lgtm/whatsapp-claude-mcp",
+  "install": "npx -y whatsapp-claude-mcp"
+}

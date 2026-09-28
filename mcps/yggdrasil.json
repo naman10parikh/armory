@@ -1,0 +1,7 @@
+{
+  "name": "yggdrasil",
+  "description": "Durable, local-first memory for AI coding agents over MCP — zero-dependency (pure Python + SQLite/FTS5), curated and semantically de-duped. Works with Claude Code, Codex and any MCP host, and you own the data as plain rows.",
+  "source_repo": "VonderVuflya/Yggdrasil",
+  "source_url": "https://github.com/VonderVuflya/Yggdrasil",
+  "install": "# git clone --depth 1 https://github.com/VonderVuflya/Yggdrasil\n# See source for mcpServers config block"
+}

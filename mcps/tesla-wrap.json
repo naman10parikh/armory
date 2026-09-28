@@ -1,0 +1,7 @@
+{
+  "name": "tesla-wrap",
+  "description": "Provides tools to list vehicle models, fetch official UV templates, generate AI paint designs, and verify or flatten the resulting wrap files for custom vehicle styling.",
+  "source_repo": "abhinav937/tesla-wrap-editor-mcp",
+  "source_url": "https://github.com/abhinav937/tesla-wrap-editor-mcp",
+  "install": "npx -y tesla-wrap-editor-mcp"
+}

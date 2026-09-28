@@ -1,0 +1,7 @@
+{
+  "name": "github-pr-control-mcp",
+  "description": "A production-ready MCP server for triaging and reviewing GitHub pull requests via the GitHub REST API, providing typed tools to list, inspect, comment, add labels, and submit reviews.",
+  "source_repo": "nexicturbo/github-pr-control-mcp",
+  "source_url": "https://github.com/nexicturbo/github-pr-control-mcp",
+  "install": "npx -y github-pr-control-mcp"
+}

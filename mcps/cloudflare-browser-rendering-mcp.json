@@ -1,6 +1,6 @@
 {
   "name": "cloudflare-browser-rendering-mcp",
-  "description": "Cloudflare Browser Rendering Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "amotivv/cloudflare-browser-rendering-mcp",
   "source_url": "https://mcp.so/server/cloudflare-browser-rendering-mcp/amotivv",
   "install": "npx -y cloudflare-browser-rendering-mcp"

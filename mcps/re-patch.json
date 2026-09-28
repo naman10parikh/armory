@@ -1,0 +1,7 @@
+{
+  "name": "re-patch",
+  "description": "MCP server for on-disk patching of binary artifacts with SHA-256 manifest, byte-level patch application, and manifest-driven restore, ensuring auditability and reversibility.",
+  "source_repo": "Heretek-RE/re-patch",
+  "source_url": "https://github.com/Heretek-RE/re-patch",
+  "install": "# git clone --depth 1 https://github.com/Heretek-RE/re-patch\n# See source for mcpServers config block"
+}

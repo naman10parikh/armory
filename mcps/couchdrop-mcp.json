@@ -1,0 +1,7 @@
+{
+  "name": "couchdrop-mcp",
+  "description": "MCP server for Couchdrop that enables file listing, metadata inspection, download/upload, user/group listing, and folder permission reading.",
+  "source_repo": "OraDavis/couchdrop-mcp",
+  "source_url": "https://github.com/OraDavis/couchdrop-mcp",
+  "install": "npx -y couchdrop-mcp"
+}

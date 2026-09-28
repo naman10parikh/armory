@@ -1,0 +1,7 @@
+{
+  "name": "gmaps-lead-atlas-mcp",
+  "description": "An MCP server that enables finding and qualifying local business leads through the Google Maps Places API, with tools for searching businesses, fetching details, and sweeping areas for coverage.",
+  "source_repo": "msaeedsakib/gmaps-lead-atlas-mcp",
+  "source_url": "https://github.com/msaeedsakib/gmaps-lead-atlas-mcp",
+  "install": "npx -y gmaps-lead-atlas-mcp"
+}

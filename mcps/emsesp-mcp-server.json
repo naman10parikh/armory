@@ -1,0 +1,7 @@
+{
+  "name": "emsesp-mcp-server",
+  "description": "Enables LLM applications to query and visualize data from Bosch/Buderus heat pumps via ems-ESP, including temperatures, statistics, and heat curves through natural language.",
+  "source_repo": "bosch-buderus-wp/emsesp-mcp-server",
+  "source_url": "https://github.com/bosch-buderus-wp/emsesp-mcp-server",
+  "install": "npx -y emsesp-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "coffer-mcp",
+  "description": "Credential vault for LLM agents that stores credentials encrypted and exposes MCP tools for authenticated HTTP requests, web scraping, and credential management, preventing AI assistants from seeing secrets.",
+  "source_repo": "annawhooo/coffer-mcp",
+  "source_url": "https://github.com/annawhooo/coffer-mcp",
+  "install": "npx -y coffer-mcp"
+}

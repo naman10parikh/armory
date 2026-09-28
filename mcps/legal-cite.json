@@ -1,0 +1,7 @@
+{
+  "name": "legal-cite",
+  "description": "Verifies legal citations by fetching the exact, in-force wording of cited articles from official PL and EU legal sources, preventing hallucination by returning verbatim text.",
+  "source_repo": "apiotrowski-afk/legal-cite-pl",
+  "source_url": "https://github.com/apiotrowski-afk/legal-cite-pl",
+  "install": "# git clone --depth 1 https://github.com/apiotrowski-afk/legal-cite-pl\n# See source for mcpServers config block"
+}

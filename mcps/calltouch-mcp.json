@@ -1,0 +1,7 @@
+{
+  "name": "calltouch-mcp",
+  "description": "MCP server for Calltouch API to retrieve calls, leads, sources, tags, and statistics, enabling call tracking and analysis.",
+  "source_repo": "theYahia/calltouch-mcp",
+  "source_url": "https://github.com/theYahia/calltouch-mcp",
+  "install": "npx -y calltouch-mcp"
+}

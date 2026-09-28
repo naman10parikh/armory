@@ -1,0 +1,7 @@
+{
+  "name": "family-mcp-server",
+  "description": "MCP server for TheDaninFamily database with tools to query family events and dates.",
+  "source_repo": "aldanin/family-mcp-server",
+  "source_url": "https://github.com/aldanin/family-mcp-server",
+  "install": "npx -y family-mcp-server"
+}

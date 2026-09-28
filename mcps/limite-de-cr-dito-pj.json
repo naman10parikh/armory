@@ -1,0 +1,7 @@
+{
+  "name": "limite-de-cr-dito-pj",
+  "description": "Provides complete credit analysis and suggested credit limits for Brazilian companies from CNPJ. It is a hosted, read-only MCP server that works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/credito_pj_limite-mcp",
+  "source_url": "https://github.com/mcp-dir/credito_pj_limite-mcp",
+  "install": "npx -y credito_pj_limite-mcp"
+}

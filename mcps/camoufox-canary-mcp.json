@@ -1,0 +1,7 @@
+{
+  "name": "camoufox-canary-mcp",
+  "description": "Provides isolated Camoufox browser sessions via MCP, allowing Playwright to connect through a single published port. Designed for small trusted networks, it offers session management tools for creating, listing, and closing browser sessions.",
+  "source_repo": "midnightphreaker/CamouFox-Canary-MCP",
+  "source_url": "https://github.com/midnightphreaker/CamouFox-Canary-MCP",
+  "install": "npx -y CamouFox-Canary-MCP"
+}

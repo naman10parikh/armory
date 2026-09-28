@@ -1,0 +1,7 @@
+{
+  "name": "rag-chatbot-mcp-server",
+  "description": "Exposes a local RAG document index as MCP tools (ask, search, rebuild_index, status) for MCP clients like Claude Desktop and Claude Code to query your documents over stdio.",
+  "source_repo": "ansh-7666/AI-Based-Chatbot",
+  "source_url": "https://github.com/ansh-7666/AI-Based-Chatbot",
+  "install": "# git clone --depth 1 https://github.com/ansh-7666/AI-Based-Chatbot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "documentpro-mcp",
+  "description": "Extract structured, schema-typed data from invoices, purchase orders, receipts, and tax forms, and classify documents into custom label sets — via a hosted MCP server. Free tier included.",
+  "source_repo": "documentpro/documentpro-mcp",
+  "source_url": "https://github.com/documentpro/documentpro-mcp",
+  "install": "npx -y documentpro-mcp"
+}

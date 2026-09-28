@@ -1,0 +1,7 @@
+{
+  "name": "infomaniak-calendar-mcp-server",
+  "description": "Enables calendar management via Infomaniak's API, allowing users to list calendars, search events, and create events.",
+  "source_repo": "Infomaniak/mcp-server-calendar",
+  "source_url": "https://github.com/Infomaniak/mcp-server-calendar",
+  "install": "# git clone --depth 1 https://github.com/Infomaniak/mcp-server-calendar\n# See source for mcpServers config block"
+}

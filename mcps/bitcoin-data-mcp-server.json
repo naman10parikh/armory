@@ -1,0 +1,7 @@
+{
+  "name": "bitcoin-data-mcp-server",
+  "description": "Enables Bitcoin blockchain data retrieval and analysis through free APIs, including transaction, address, market data, and network metrics.",
+  "source_repo": "myownipgit/bitcoin-data-mcp",
+  "source_url": "https://github.com/myownipgit/bitcoin-data-mcp",
+  "install": "npx -y bitcoin-data-mcp"
+}

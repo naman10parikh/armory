@@ -1,0 +1,7 @@
+{
+  "name": "scaleway-mcp",
+  "description": "A comprehensive MCP server for the Scaleway cloud platform, enabling AI agents to inspect and manage cloud infrastructure through 155+ tools across compute, storage, networking, and platform services.",
+  "source_repo": "sndpl/scaleway-mcp",
+  "source_url": "https://github.com/sndpl/scaleway-mcp",
+  "install": "npx -y scaleway-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jk-mcp-usls",
+  "description": "MCP server providing Claude live access to USL Super League data—teams, matches, standings, rosters, and schedule-strength analytics—via the ESPN public API.",
+  "source_repo": "jedi-knights/jk-mcp-usls",
+  "source_url": "https://github.com/jedi-knights/jk-mcp-usls",
+  "install": "# git clone --depth 1 https://github.com/jedi-knights/jk-mcp-usls\n# See source for mcpServers config block"
+}

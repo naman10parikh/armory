@@ -1,0 +1,7 @@
+{
+  "name": "stepik-courses-mcp",
+  "description": "Read-only MCP server that retrieves educational context from started Stepik courses, offering tools to list courses, explore structure, fetch text step content, and perform local lexical search.",
+  "source_repo": "lifefucky/mcp_read_stepik",
+  "source_url": "https://github.com/lifefucky/mcp_read_stepik",
+  "install": "# git clone --depth 1 https://github.com/lifefucky/mcp_read_stepik\n# See source for mcpServers config block"
+}

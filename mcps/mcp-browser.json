@@ -1,0 +1,7 @@
+{
+  "name": "mcp-browser",
+  "description": "Exposes Playwright browser automation as MCP tools, enabling AI assistants to control a real browser tab-by-tab for form filling, navigation, and more, while preserving the user's active session.",
+  "source_repo": "souhailmerroun/mcp-browser",
+  "source_url": "https://github.com/souhailmerroun/mcp-browser",
+  "install": "# git clone --depth 1 https://github.com/souhailmerroun/mcp-browser\n# See source for mcpServers config block"
+}

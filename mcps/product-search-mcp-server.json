@@ -1,0 +1,7 @@
+{
+  "name": "product-search-mcp-server",
+  "description": "An MCP server that exposes SF Supplies product search API to LLM tools. Supports free-text search, autocomplete suggestions, and retrieving filterable attributes.",
+  "source_repo": "sfsupplies/internal-product-search-mcp-server",
+  "source_url": "https://github.com/sfsupplies/internal-product-search-mcp-server",
+  "install": "npx -y internal-product-search-mcp-server"
+}

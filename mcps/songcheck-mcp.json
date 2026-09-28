@@ -1,0 +1,7 @@
+{
+  "name": "songcheck-mcp",
+  "description": "Enables AI agents to detect AI-generated music, images, and video by analyzing files through SongCheck's ensemble detector, providing verdicts and confidence scores.",
+  "source_repo": "afghanfansmedia-ai/songcheck-mcp",
+  "source_url": "https://github.com/afghanfansmedia-ai/songcheck-mcp",
+  "install": "npx -y songcheck-mcp"
+}

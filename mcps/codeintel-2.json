@@ -1,0 +1,7 @@
+{
+  "name": "codeintel-2",
+  "description": "MCP server that provides code intelligence by indexing configured repositories, extracting deterministic facts, and enabling graph queries, drift checks, and maps via Kuzu-backed MCP tools.",
+  "source_repo": "0xstubbs/code-intel",
+  "source_url": "https://github.com/0xstubbs/code-intel",
+  "install": "# git clone --depth 1 https://github.com/0xstubbs/code-intel\n# See source for mcpServers config block"
+}

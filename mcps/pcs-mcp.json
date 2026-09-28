@@ -1,0 +1,7 @@
+{
+  "name": "pcs-mcp",
+  "description": "MCP server exposing ProCyclingStats teams, riders, and races data by scraping site pages, enabling custom rankings and historical result analysis.",
+  "source_repo": "MartinCeska/pcs-mcp",
+  "source_url": "https://github.com/MartinCeska/pcs-mcp",
+  "install": "npx -y pcs-mcp"
+}

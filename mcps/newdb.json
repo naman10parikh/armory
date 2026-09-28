@@ -1,0 +1,7 @@
+{
+  "name": "newdb",
+  "description": "NewDB is a unified DaaS intelligence platform and MCP server providing automated verification for Russian individuals, legal entities, and foreign citizens. Connect your AI agents directly to official government and commercial registries, including FNS (taxes & bank blocks), FSSP (enforcement debts)",
+  "source_repo": "newdb-api/newdb-mcp-server",
+  "source_url": "https://github.com/newdb-api/newdb-mcp-server",
+  "install": "npx -y newdb-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "signoz-funnel-mcp",
+  "description": "Provides MCP tools to create and query SigNoz trace funnels, enabling agents to measure their own step conversion rates from within the agent loop.",
+  "source_repo": "wiz-abhi/funnel-of-thought",
+  "source_url": "https://github.com/wiz-abhi/funnel-of-thought",
+  "install": "# git clone --depth 1 https://github.com/wiz-abhi/funnel-of-thought\n# See source for mcpServers config block"
+}

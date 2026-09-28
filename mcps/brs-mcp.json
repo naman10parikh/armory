@@ -1,0 +1,7 @@
+{
+  "name": "brs-mcp",
+  "description": "An MCP server that scaffolds runnable Roku channels from a validated AppSpec, zips them, and optionally sideloads to a Roku device.",
+  "source_repo": "bblietz/brs-mcp",
+  "source_url": "https://github.com/bblietz/brs-mcp",
+  "install": "npx -y brs-mcp"
+}

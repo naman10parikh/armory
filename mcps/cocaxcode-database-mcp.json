@@ -1,0 +1,7 @@
+{
+  "name": "cocaxcode-database-mcp",
+  "description": "A database MCP server providing 33 tools across PostgreSQL, MySQL, and SQLite, with connection groups, rollback, dump/restore, and schema auto-discovery via natural language.",
+  "source_repo": "cocaxcode/database-mcp",
+  "source_url": "https://github.com/cocaxcode/database-mcp",
+  "install": "npx -y database-mcp"
+}

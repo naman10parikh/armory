@@ -1,0 +1,7 @@
+{
+  "name": "fake-pennylane-mcp-server",
+  "description": "A fake MCP server that emulates the Pennylane MCP experience for local development, testing, demos, and CI pipelines, providing deterministic fixtures and authentication modes without needing a real Pennylane account.",
+  "source_repo": "leyriel/fake-pennylane-mcp-server",
+  "source_url": "https://github.com/leyriel/fake-pennylane-mcp-server",
+  "install": "npx -y fake-pennylane-mcp-server"
+}

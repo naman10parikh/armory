@@ -1,0 +1,7 @@
+{
+  "name": "youtrack-mcp",
+  "description": "MCP server for interacting with YouTrack, enabling issue management, project operations, and search via natural language.",
+  "source_repo": "tonyzorin/youtrack-mcp",
+  "source_url": "https://github.com/tonyzorin/youtrack-mcp",
+  "install": "npx -y youtrack-mcp"
+}

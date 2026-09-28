@@ -1,0 +1,7 @@
+{
+  "name": "soma-mcp",
+  "description": "A private, self-hosted MCP server that wraps a retrieval pipeline over your own data, enabling trusted AI agents to access and manage your personal memory through standard MCP tools.",
+  "source_repo": "odbgrowth/soma-mcp",
+  "source_url": "https://github.com/odbgrowth/soma-mcp",
+  "install": "npx -y soma-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-hackathon-server",
+  "description": "Provides a template for building an MCP server with example tools, prompts, and resources, enabling developers to create a server that exposes data and actions to AI clients.",
+  "source_repo": "GSA-TTS/mcp-hackathon-template",
+  "source_url": "https://github.com/GSA-TTS/mcp-hackathon-template",
+  "install": "# git clone --depth 1 https://github.com/GSA-TTS/mcp-hackathon-template\n# See source for mcpServers config block"
+}

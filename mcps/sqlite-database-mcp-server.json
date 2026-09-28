@@ -1,0 +1,7 @@
+{
+  "name": "sqlite-database-mcp-server",
+  "description": "Enables AI agents to connect to and query an SQLite database through the Model Context Protocol, allowing natural language interaction with database tables and data.",
+  "source_repo": "getinclub/template-build-mcp-server",
+  "source_url": "https://github.com/getinclub/template-build-mcp-server",
+  "install": "npx -y template-build-mcp-server"
+}

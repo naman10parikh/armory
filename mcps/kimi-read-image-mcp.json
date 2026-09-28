@@ -1,0 +1,7 @@
+{
+  "name": "kimi-read-image-mcp",
+  "description": "Minimal MCP server for Kimi-compatible image analysis, allowing local images to be sent as inline base64 to any compatible endpoint.",
+  "source_repo": "hlf20010508/kimi-read-image-mcp",
+  "source_url": "https://github.com/hlf20010508/kimi-read-image-mcp",
+  "install": "npx -y kimi-read-image-mcp"
+}

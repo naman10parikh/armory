@@ -1,0 +1,7 @@
+{
+  "name": "splunk-automated-triage-mcp-server",
+  "description": "Provides tools to search Splunk logs, inject test data, and send triage emails, enabling AI-driven incident investigation.",
+  "source_repo": "RyanKershawWhittle/agentic-automated-triage-for-splunk",
+  "source_url": "https://github.com/RyanKershawWhittle/agentic-automated-triage-for-splunk",
+  "install": "# git clone --depth 1 https://github.com/RyanKershawWhittle/agentic-automated-triage-for-splunk\n# See source for mcpServers config block"
+}

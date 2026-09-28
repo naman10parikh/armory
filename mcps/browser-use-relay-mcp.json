@@ -1,0 +1,7 @@
+{
+  "name": "browser-use-relay-mcp",
+  "description": "An MCP server that enables remote observation and control of a Chromium browser via a WebSocket relay, supporting DOM, CDP, and native OS automation for local or LAN-based AI agents.",
+  "source_repo": "mlnima/browser-use-relay-mcp",
+  "source_url": "https://github.com/mlnima/browser-use-relay-mcp",
+  "install": "npx -y browser-use-relay-mcp"
+}

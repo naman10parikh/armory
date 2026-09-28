@@ -1,0 +1,7 @@
+{
+  "name": "clockchain-developer-tools-mcp-server",
+  "description": "Provides Clockchain's verified-time primitives, notarization, smart-contract scheduling, audit trails, and agent identity verification to any MCP client.",
+  "source_repo": "thetangstr/clockchain-developer-tools",
+  "source_url": "https://github.com/thetangstr/clockchain-developer-tools",
+  "install": "# git clone --depth 1 https://github.com/thetangstr/clockchain-developer-tools\n# See source for mcpServers config block"
+}

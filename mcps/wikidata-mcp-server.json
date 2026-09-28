@@ -1,0 +1,7 @@
+{
+  "name": "wikidata-mcp-server",
+  "description": "Enables searching and fetching Wikidata entities, executing SPARQL queries, and resolving external identifiers via the Model Context Protocol.",
+  "source_repo": "cyanheads/wikidata-mcp-server",
+  "source_url": "https://github.com/cyanheads/wikidata-mcp-server",
+  "install": "npx -y wikidata-mcp-server"
+}

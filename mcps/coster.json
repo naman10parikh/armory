@@ -1,0 +1,7 @@
+{
+  "name": "coster",
+  "description": "MCP server that provides offline-first, persistent memory for AI coding assistants. It captures project decisions and conventions into a local SQLite database and syncs them to tool-specific memory files like CLAUDE.md and AGENTS.md.",
+  "source_repo": "savai15/coster",
+  "source_url": "https://github.com/savai15/coster",
+  "install": "# git clone --depth 1 https://github.com/savai15/coster\n# See source for mcpServers config block"
+}

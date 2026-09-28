@@ -1,0 +1,7 @@
+{
+  "name": "multidim-mcp",
+  "description": "Provides deterministic structured thinking grids and validation for AI agents, enabling consistent multi-lens analysis without network calls or model inference.",
+  "source_repo": "Cherridsaid/multidim-mcp",
+  "source_url": "https://github.com/Cherridsaid/multidim-mcp",
+  "install": "npx -y multidim-mcp"
+}

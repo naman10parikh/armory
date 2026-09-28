@@ -1,0 +1,7 @@
+{
+  "name": "mcp-apps-generative-ui-showcase",
+  "description": "Enables booking flights and hotels, creating investment portfolios, and managing kanban boards directly within a chat interface using generative UI components.",
+  "source_repo": "marcelofmatos/mcp-apps-generative-ui-showcase",
+  "source_url": "https://github.com/marcelofmatos/mcp-apps-generative-ui-showcase",
+  "install": "# git clone --depth 1 https://github.com/marcelofmatos/mcp-apps-generative-ui-showcase\n# See source for mcpServers config block"
+}

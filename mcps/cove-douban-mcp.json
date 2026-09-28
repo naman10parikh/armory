@@ -1,0 +1,7 @@
+{
+  "name": "cove-douban-mcp",
+  "description": "Read-only MCP server that accesses Douban data through your local Chrome session, enabling search, movie/book details, marks, reviews, and more.",
+  "source_repo": "moonlin1213/cove-douban-mcp",
+  "source_url": "https://github.com/moonlin1213/cove-douban-mcp",
+  "install": "npx -y cove-douban-mcp"
+}

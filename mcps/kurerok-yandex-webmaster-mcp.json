@@ -1,0 +1,7 @@
+{
+  "name": "kurerok-yandex-webmaster-mcp",
+  "description": "Local-first MCP server for Yandex Webmaster that exposes tools for SEO operations including search query analytics, sitemap management, indexing history, recrawl quota, and diagnostics.",
+  "source_repo": "shutovdef-dotcom/kurerok-yandex-webmaster-mcp",
+  "source_url": "https://github.com/shutovdef-dotcom/kurerok-yandex-webmaster-mcp",
+  "install": "npx -y kurerok-yandex-webmaster-mcp"
+}

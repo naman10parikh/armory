@@ -1,0 +1,7 @@
+{
+  "name": "vibe-code-mcp",
+  "description": "Connects to vibe-code-best-practices.vercel.app to index 817 tools across 185 sections and 10 domains, routes the right tool/Skill for your project need, and can recommend a full stack.",
+  "source_repo": "arielaizn/vibe-code-mcp",
+  "source_url": "https://github.com/arielaizn/vibe-code-mcp",
+  "install": "npx -y vibe-code-mcp"
+}

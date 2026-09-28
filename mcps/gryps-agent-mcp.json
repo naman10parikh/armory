@@ -1,0 +1,7 @@
+{
+  "name": "gryps-agent-mcp",
+  "description": "Read-only MCP server for Gryps venue state, enabling Claude to query live markets, fee schedules, funding parameters, and open interest.",
+  "source_repo": "gryps-finance/gryps-agent-mcp",
+  "source_url": "https://github.com/gryps-finance/gryps-agent-mcp",
+  "install": "npx -y gryps-agent-mcp"
+}

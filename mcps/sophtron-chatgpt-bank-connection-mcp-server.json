@@ -1,0 +1,7 @@
+{
+  "name": "sophtron-chatgpt-bank-connection-mcp-server",
+  "description": "Enables users to connect bank accounts within a chat session using Sophtron's UCW widget and query account information, owner details, and transactions persistently.",
+  "source_repo": "sophtron/chagpt-mcp",
+  "source_url": "https://github.com/sophtron/chagpt-mcp",
+  "install": "npx -y chagpt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wayforth-mcp",
+  "description": "Provides AI agents with a unified runtime to discover, use, and pay for thousands of services with automatic failover and per-run credit ceilings.",
+  "source_repo": "WayforthOfficial/wayforth",
+  "source_url": "https://github.com/WayforthOfficial/wayforth",
+  "install": "# git clone --depth 1 https://github.com/WayforthOfficial/wayforth\n# See source for mcpServers config block"
+}

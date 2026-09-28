@@ -1,0 +1,7 @@
+{
+  "name": "aigiglab-mcp-server",
+  "description": "Enables AI assistants to interact with the AIGigLab API for lead generation, LinkedIn automation, voice cloning/TTS, and visual asset generation.",
+  "source_repo": "JayIsDeveloper/aigiglab-mcp-server",
+  "source_url": "https://github.com/JayIsDeveloper/aigiglab-mcp-server",
+  "install": "npx -y aigiglab-mcp-server"
+}

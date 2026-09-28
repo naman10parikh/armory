@@ -1,0 +1,7 @@
+{
+  "name": "local-video-scenes-mcp",
+  "description": "Extracts timestamped screenshots from local videos, enabling Claude to produce visual walkthroughs without audio analysis or cloud processing.",
+  "source_repo": "FlorinCiocirlan/local-video-scenes-mcp",
+  "source_url": "https://github.com/FlorinCiocirlan/local-video-scenes-mcp",
+  "install": "npx -y local-video-scenes-mcp"
+}

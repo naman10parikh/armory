@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ctf-challenge-server",
+  "description": "A vulnerable MCP server designed for educational CTF challenges. It demonstrates various MCP security vulnerabilities in a controlled environment.",
+  "source_repo": "aganita/mcp-ctf-challenge",
+  "source_url": "https://github.com/aganita/mcp-ctf-challenge",
+  "install": "# git clone --depth 1 https://github.com/aganita/mcp-ctf-challenge\n# See source for mcpServers config block"
+}

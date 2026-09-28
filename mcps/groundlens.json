@@ -1,0 +1,7 @@
+{
+  "name": "groundlens",
+  "description": "Groundlens is a proofreader for what your model writes. It marks the words your sources don't back — and shows you what each one should have said.",
+  "source_repo": "groundlens-dev/groundlens",
+  "source_url": "https://github.com/groundlens-dev/groundlens",
+  "install": "# git clone --depth 1 https://github.com/groundlens-dev/groundlens\n# See source for mcpServers config block"
+}

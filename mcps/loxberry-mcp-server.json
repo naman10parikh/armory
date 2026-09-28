@@ -1,0 +1,7 @@
+{
+  "name": "loxberry-mcp-server",
+  "description": "Enables AI assistants and agents to query and control a Loxone Miniserver installation via MCP, using existing room and control names without cloud services. Also provides selected LoxBerry information, secured by Loxone login.",
+  "source_repo": "Miraculix2050/LoxBerry-Plugin-MCP-Server",
+  "source_url": "https://github.com/Miraculix2050/LoxBerry-Plugin-MCP-Server",
+  "install": "npx -y LoxBerry-Plugin-MCP-Server"
+}

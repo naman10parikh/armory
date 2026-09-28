@@ -1,0 +1,7 @@
+{
+  "name": "open-vision-mcp",
+  "description": "Provider-neutral Vision MCP Server — image analysis via 10 inference providers through a single MCP server.",
+  "source_repo": "abyssbugg/open-vision-mcp",
+  "source_url": "https://github.com/abyssbugg/open-vision-mcp",
+  "install": "npx -y open-vision-mcp"
+}

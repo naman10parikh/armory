@@ -1,0 +1,7 @@
+{
+  "name": "odatano-nightgate-mcp",
+  "description": "MCP server that lets AI agents interact with NIGHTGATE, the Midnight blockchain attestation layer, to anchor documents, verify zero-knowledge predicates, manage disclosure grants, and poll async jobs.",
+  "source_repo": "ODATANO/NIGHTGATE-MCP",
+  "source_url": "https://github.com/ODATANO/NIGHTGATE-MCP",
+  "install": "npx -y NIGHTGATE-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "context-index-mcp",
+  "description": "A lightweight MCP server that maps keywords to file paths instantly using a JSON index, enabling fast context retrieval for AI agents without embeddings or vector databases.",
+  "source_repo": "butler-kasagi/context-index-mcp",
+  "source_url": "https://github.com/butler-kasagi/context-index-mcp",
+  "install": "npx -y context-index-mcp"
+}

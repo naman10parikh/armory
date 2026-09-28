@@ -1,6 +1,6 @@
 {
   "name": "jira-mcp",
-  "description": "Jira Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "MankowskiNick/jira-mcp",
   "source_url": "https://mcp.so/server/jira-mcp/MankowskiNick",
   "install": "npx -y jira-mcp"

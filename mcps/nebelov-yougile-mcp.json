@@ -1,0 +1,7 @@
+{
+  "name": "nebelov-yougile-mcp",
+  "description": "MCP server for YouGile project management. Provides 57 tools covering 100% of the YouGile API v2, enabling AI agents to manage projects, boards, tasks, and chat directly through natural language.",
+  "source_repo": "Sunscrypt/yougile-mcp",
+  "source_url": "https://github.com/Sunscrypt/yougile-mcp",
+  "install": "npx -y yougile-mcp"
+}

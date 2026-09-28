@@ -1,0 +1,7 @@
+{
+  "name": "claude-mac-bridge",
+  "description": "MCP server that lets an AI agent delegate tasks to Claude Code on a remote Mac via SSH over Tailscale. Persistent sessions, 200k context, full Mac filesystem access.",
+  "source_repo": "freeze1999/claude-mac-bridge",
+  "source_url": "https://github.com/freeze1999/claude-mac-bridge",
+  "install": "# git clone --depth 1 https://github.com/freeze1999/claude-mac-bridge\n# See source for mcpServers config block"
+}

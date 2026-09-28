@@ -1,0 +1,7 @@
+{
+  "name": "supercollider-osc-mcp",
+  "description": "Enables AI assistants to control SuperCollider audio synthesis via OSC, supporting melody, rhythm, and soundscape generation through MCP tools.",
+  "source_repo": "Tok/SuperColliderMCP",
+  "source_url": "https://github.com/Tok/SuperColliderMCP",
+  "install": "# git clone --depth 1 https://github.com/Tok/SuperColliderMCP\n# See source for mcpServers config block"
+}

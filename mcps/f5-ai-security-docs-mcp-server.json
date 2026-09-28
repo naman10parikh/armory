@@ -1,0 +1,7 @@
+{
+  "name": "f5-ai-security-docs-mcp-server",
+  "description": "Enables searching and browsing the entire F5 AI Security documentation using TF-IDF search and section reader tools.",
+  "source_repo": "kauzy7/f5-aisec-mcp",
+  "source_url": "https://github.com/kauzy7/f5-aisec-mcp",
+  "install": "npx -y f5-aisec-mcp"
+}

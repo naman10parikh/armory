@@ -1,0 +1,7 @@
+{
+  "name": "socrata-mcp-server",
+  "description": "Search and query government open-data portals (Socrata SODA API).",
+  "source_repo": "",
+  "source_url": "https://socrata.caseyjhand.com/mcp",
+  "install": "# git clone --depth 1 https://socrata.caseyjhand.com/mcp\n# See source for mcpServers config block"
+}

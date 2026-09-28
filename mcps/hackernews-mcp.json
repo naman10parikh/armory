@@ -1,0 +1,7 @@
+{
+  "name": "hackernews-mcp",
+  "description": "Enables LLMs to search and read Hacker News posts and comments via the Algolia API.",
+  "source_repo": "ccozad/hackernews-mcp",
+  "source_url": "https://github.com/ccozad/hackernews-mcp",
+  "install": "npx -y hackernews-mcp"
+}

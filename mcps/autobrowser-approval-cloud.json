@@ -1,0 +1,7 @@
+{
+  "name": "autobrowser-approval-cloud",
+  "description": "Hosted remote MCP for AI agent browser approval. Provides structured tools for page approval workflows, session management, and audit receipts.",
+  "source_repo": "clauxel/autobrowser-approval-cloud-mcp",
+  "source_url": "https://github.com/clauxel/autobrowser-approval-cloud-mcp",
+  "install": "npx -y autobrowser-approval-cloud-mcp"
+}

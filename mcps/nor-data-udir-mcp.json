@@ -1,0 +1,7 @@
+{
+  "name": "nor-data-udir-mcp",
+  "description": "MCP server that wraps UDIR's open registries for Norwegian schools (NSR) and kindergartens (NBR), enabling search by municipality and retrieval of full details including coordinates and enrollment.",
+  "source_repo": "3121n/nor-data-udir-mcp",
+  "source_url": "https://github.com/3121n/nor-data-udir-mcp",
+  "install": "npx -y nor-data-udir-mcp"
+}

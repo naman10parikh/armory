@@ -1,0 +1,7 @@
+{
+  "name": "scottylabs-mcp",
+  "description": "Enables searching and retrieving course details, schedules, prerequisites, and instructor information from the CMU course catalog via the ScottyLabs API.",
+  "source_repo": "shivendoo123/scottylabs_MCP",
+  "source_url": "https://github.com/shivendoo123/scottylabs_MCP",
+  "install": "npx -y scottylabs_MCP"
+}

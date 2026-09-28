@@ -1,0 +1,7 @@
+{
+  "name": "dooray-dbins-mcp",
+  "description": "Provides read-only access to Dooray collaboration services through REST, CalDAV, and LDAP, enabling queries for projects, tasks, calendar events, and directory information via 18 MCP tools.",
+  "source_repo": "shaterguy/dooray-dbins-mcp",
+  "source_url": "https://github.com/shaterguy/dooray-dbins-mcp",
+  "install": "npx -y dooray-dbins-mcp"
+}

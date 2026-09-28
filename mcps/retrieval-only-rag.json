@@ -1,0 +1,7 @@
+{
+  "name": "retrieval-only-rag",
+  "description": "An MCP server that retrieves relevant PDF chunks via local embeddings and returns them to IDE agents (Cursor, Kiro, Claude Code) for answer generation.",
+  "source_repo": "rspraneeth/retrieval-only-RAG",
+  "source_url": "https://github.com/rspraneeth/retrieval-only-RAG",
+  "install": "# git clone --depth 1 https://github.com/rspraneeth/retrieval-only-RAG\n# See source for mcpServers config block"
+}

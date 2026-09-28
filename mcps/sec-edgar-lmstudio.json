@@ -1,0 +1,7 @@
+{
+  "name": "sec-edgar-lmstudio",
+  "description": "Enables AI assistants in LM Studio to access SEC EDGAR company filings, financial statements, and insider trading data via a plugin that wraps the sec-edgar-mcp server.",
+  "source_repo": "Nowng/sec-edgar-lmstudio",
+  "source_url": "https://github.com/Nowng/sec-edgar-lmstudio",
+  "install": "# git clone --depth 1 https://github.com/Nowng/sec-edgar-lmstudio\n# See source for mcpServers config block"
+}

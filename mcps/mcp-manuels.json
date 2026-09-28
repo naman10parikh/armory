@@ -1,0 +1,7 @@
+{
+  "name": "mcp-manuels",
+  "description": "Enables Claude Desktop to read and search through PDF technical manuals, answering questions in natural language with citations.",
+  "source_repo": "FrenchFRy7/MCP_server_Claude",
+  "source_url": "https://github.com/FrenchFRy7/MCP_server_Claude",
+  "install": "# git clone --depth 1 https://github.com/FrenchFRy7/MCP_server_Claude\n# See source for mcpServers config block"
+}

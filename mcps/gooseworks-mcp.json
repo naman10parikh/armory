@@ -1,0 +1,7 @@
+{
+  "name": "gooseworks-mcp",
+  "description": "A Model Context Protocol (MCP) server that exposes GitHub tools for repository management, code search, issue creation, and pull request operations.",
+  "source_repo": "EduardKuun/gooseworks-mcp",
+  "source_url": "https://github.com/EduardKuun/gooseworks-mcp",
+  "install": "npx -y gooseworks-mcp"
+}

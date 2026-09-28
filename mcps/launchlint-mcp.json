@@ -1,0 +1,7 @@
+{
+  "name": "launchlint-mcp",
+  "description": "Secure local MCP connector for LaunchLint. It reads only supported files from the explicitly approved workspace, respects .gitignore and .launchlintignore, never executes project code, and sends a controlled snapshot directly to LaunchLint over HTTPS.",
+  "source_repo": "TheWinters12/launchlint-mcp",
+  "source_url": "https://github.com/TheWinters12/launchlint-mcp",
+  "install": "npx -y launchlint-mcp"
+}

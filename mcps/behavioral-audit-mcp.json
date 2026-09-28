@@ -1,0 +1,7 @@
+{
+  "name": "behavioral-audit-mcp",
+  "description": "Checks draft support replies for missing policy disclosures that the customer's situation makes relevant, returning a pass/gap verdict with suggestions.",
+  "source_repo": "kandikandikandi/behavioral-audit-mcp",
+  "source_url": "https://github.com/kandikandikandi/behavioral-audit-mcp",
+  "install": "npx -y behavioral-audit-mcp"
+}

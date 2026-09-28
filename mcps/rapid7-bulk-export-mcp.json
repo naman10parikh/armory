@@ -1,0 +1,7 @@
+{
+  "name": "rapid7-bulk-export-mcp",
+  "description": "Exports vulnerability and asset data from Rapid7 Command Platform via the Bulk Export API into a local DuckDB database, enabling AI assistants to run natural language queries and SQL analysis with sandboxed security.",
+  "source_repo": "Cgisclair29/Rapid7-MCP",
+  "source_url": "https://github.com/Cgisclair29/Rapid7-MCP",
+  "install": "npx -y Rapid7-MCP"
+}

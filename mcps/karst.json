@@ -1,0 +1,7 @@
+{
+  "name": "karst",
+  "description": "MCP server for local codebase analysis, enabling semantic code search, impact analysis, and pack-scoped retrieval with cited file:line results.",
+  "source_repo": "Moin105/karst",
+  "source_url": "https://github.com/Moin105/karst",
+  "install": "# git clone --depth 1 https://github.com/Moin105/karst\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-lsp-v1",
+  "description": "An MCP stdio server that wraps language servers to expose read-oriented code-intelligence tools (hover, definition, references, diagnostics, etc.) for coding agents, supporting TypeScript/JavaScript and Python.",
+  "source_repo": "beruang/lsp-mcp",
+  "source_url": "https://github.com/beruang/lsp-mcp",
+  "install": "npx -y lsp-mcp"
+}

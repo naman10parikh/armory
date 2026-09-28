@@ -1,0 +1,7 @@
+{
+  "name": "mcpcut",
+  "description": "A real video editor for AI agents, served over MCP, enabling journaled timeline editing, rendering via FFmpeg/MLT, and deterministic CLI operation.",
+  "source_repo": "musyta-labs/mcpCut",
+  "source_url": "https://github.com/musyta-labs/mcpCut",
+  "install": "# git clone --depth 1 https://github.com/musyta-labs/mcpCut\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "outreach-deliverability-mcp",
+  "description": "Provides rules, checklists, and audits for cold outreach deliverability across email, LinkedIn, Instagram, and X, helping ensure messages land in inboxes rather than spam folders.",
+  "source_repo": "closermethod/outreach-deliverability-mcp",
+  "source_url": "https://github.com/closermethod/outreach-deliverability-mcp",
+  "install": "npx -y outreach-deliverability-mcp"
+}

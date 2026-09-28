@@ -1,0 +1,7 @@
+{
+  "name": "mcp-weather-news-assistant",
+  "description": "An MCP server that provides real-time weather data and latest news headlines via custom tools.",
+  "source_repo": "ZiliOussema/mcp_weather_and_news_assistant",
+  "source_url": "https://github.com/ZiliOussema/mcp_weather_and_news_assistant",
+  "install": "# git clone --depth 1 https://github.com/ZiliOussema/mcp_weather_and_news_assistant\n# See source for mcpServers config block"
+}

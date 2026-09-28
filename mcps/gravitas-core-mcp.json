@@ -1,0 +1,7 @@
+{
+  "name": "gravitas-core-mcp",
+  "description": "Production-grade, autonomous Model Context Protocol (MCP) server that elevates AI models from stateless code generators into persistent, self-verifying software engineers.",
+  "source_repo": "ahmed-coding/Gravitas-Core",
+  "source_url": "https://github.com/ahmed-coding/Gravitas-Core",
+  "install": "# git clone --depth 1 https://github.com/ahmed-coding/Gravitas-Core\n# See source for mcpServers config block"
+}

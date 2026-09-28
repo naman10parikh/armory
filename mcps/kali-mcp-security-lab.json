@@ -1,0 +1,7 @@
+{
+  "name": "kali-mcp-security-lab",
+  "description": "A safety-constrained MCP server that exposes selected Kali Linux and Nmap capabilities within an authorized lab network, enforcing strict scope limitations and audit logging.",
+  "source_repo": "backyard-labs/kali-mcp-security-lab",
+  "source_url": "https://github.com/backyard-labs/kali-mcp-security-lab",
+  "install": "# git clone --depth 1 https://github.com/backyard-labs/kali-mcp-security-lab\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nexbank-mcp-server",
+  "description": "MCP server for interacting with NexBank API v2, providing six business tools and supporting Bearer Token or OAuth authentication.",
+  "source_repo": "xencio/nexbankapi-mcp-server",
+  "source_url": "https://github.com/xencio/nexbankapi-mcp-server",
+  "install": "npx -y nexbankapi-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pollen-alert-mcp",
+  "description": "Provides real-time pollen level alerts and hayfever mitigation tips using the Ambee API.",
+  "source_repo": "jaygaha/pollen-alert-mcp",
+  "source_url": "https://github.com/jaygaha/pollen-alert-mcp",
+  "install": "npx -y pollen-alert-mcp"
+}

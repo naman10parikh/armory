@@ -1,0 +1,7 @@
+{
+  "name": "ltd-mcp",
+  "description": "MCP server that lets AI agents connect to LTD project workspaces to inspect project health, search and manage tasks, assign owners, and add comments, with scoped tokens and preview-confirm safety for writes.",
+  "source_repo": "Eshway/ltd-mcp",
+  "source_url": "https://github.com/Eshway/ltd-mcp",
+  "install": "npx -y ltd-mcp"
+}

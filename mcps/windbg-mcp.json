@@ -1,0 +1,7 @@
+{
+  "name": "windbg-mcp",
+  "description": "Enables AI-driven WinDbg kernel debugging via the Model Context Protocol, allowing agents to send debug commands and receive results.",
+  "source_repo": "chensiling/Windbg-MCP",
+  "source_url": "https://github.com/chensiling/Windbg-MCP",
+  "install": "npx -y Windbg-MCP"
+}

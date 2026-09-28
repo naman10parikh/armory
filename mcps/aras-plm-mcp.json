@@ -1,0 +1,7 @@
+{
+  "name": "aras-plm-mcp",
+  "description": "Enables natural language interaction with Aras Innovator PLM, providing schema-aware tools for querying items, managing BOMs, change orders, workflows, and lifecycle operations over OData and AML.",
+  "source_repo": "Erryb95/aras-plm-mcp",
+  "source_url": "https://github.com/Erryb95/aras-plm-mcp",
+  "install": "npx -y aras-plm-mcp"
+}

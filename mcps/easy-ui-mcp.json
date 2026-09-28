@@ -1,0 +1,7 @@
+{
+  "name": "easy-ui-mcp",
+  "description": "Enables AI agents to drive Playwright-based browser automation for UI testing, returning JSON/HTML reports with screenshots without server-side LLM or test scripts.",
+  "source_repo": "thunderkds/easy-ui-mcp",
+  "source_url": "https://github.com/thunderkds/easy-ui-mcp",
+  "install": "npx -y easy-ui-mcp"
+}

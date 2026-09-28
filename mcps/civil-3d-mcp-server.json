@@ -1,0 +1,7 @@
+{
+  "name": "civil-3d-mcp-server",
+  "description": "Enables AI assistants to write and execute C# code directly inside Autodesk Civil 3D, providing full API access through code generation and execution.",
+  "source_repo": "SantosSjba/mcp-to-c3d",
+  "source_url": "https://github.com/SantosSjba/mcp-to-c3d",
+  "install": "# git clone --depth 1 https://github.com/SantosSjba/mcp-to-c3d\n# See source for mcpServers config block"
+}

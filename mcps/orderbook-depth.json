@@ -1,0 +1,7 @@
+{
+  "name": "orderbook-depth",
+  "description": "Enables AI agents to analyze Uniswap V3 pool liquidity depth and estimate price impact at 1%, 2%, 5%, and 10% levels before large trades, with pay-per-call micropayments via x402.",
+  "source_repo": "Br0ski777/orderbook-depth-x402",
+  "source_url": "https://github.com/Br0ski777/orderbook-depth-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/orderbook-depth-x402\n# See source for mcpServers config block"
+}

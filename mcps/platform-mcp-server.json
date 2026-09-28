@@ -1,0 +1,7 @@
+{
+  "name": "platform-mcp-server",
+  "description": "Read-only MCP server that exposes Kubernetes platform state (tenants, pods, SLOs, ArgoCD applications, chaos schedules, and catalog services) to AI agents, enabling natural language queries about cluster health and configuration.",
+  "source_repo": "kamroy/platform-mcp-server",
+  "source_url": "https://github.com/kamroy/platform-mcp-server",
+  "install": "npx -y platform-mcp-server"
+}

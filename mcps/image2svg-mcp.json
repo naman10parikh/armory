@@ -1,0 +1,7 @@
+{
+  "name": "image2svg-mcp",
+  "description": "An MCP server that converts raster images (PNG, JPG, WEBP) to scalable SVG vector graphics.",
+  "source_repo": "botmonster/image2svg-mcp",
+  "source_url": "https://github.com/botmonster/image2svg-mcp",
+  "install": "npx -y image2svg-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wechat-local-mcp",
+  "description": "A read-only MCP server that enables searching and extracting to-dos from local macOS WeChat chat databases. It decrypts and queries local WeChat data without sending messages or modifying databases.",
+  "source_repo": "cocohahaha/wechat-local-mcp",
+  "source_url": "https://github.com/cocohahaha/wechat-local-mcp",
+  "install": "npx -y wechat-local-mcp"
+}

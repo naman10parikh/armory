@@ -1,0 +1,7 @@
+{
+  "name": "connectwise-asio-mcp",
+  "description": "Exposes ConnectWise Platform APIs as MCP tools, enabling management of companies, contacts, devices, policies, patches, and tickets through natural language.",
+  "source_repo": "MSPbotsAI/connectwise-asio-mcp",
+  "source_url": "https://github.com/MSPbotsAI/connectwise-asio-mcp",
+  "install": "npx -y connectwise-asio-mcp"
+}

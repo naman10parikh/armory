@@ -1,0 +1,7 @@
+{
+  "name": "job-scout-mcp",
+  "description": "MCP server that scours job openings from public, ToS-clean sources (Greenhouse, Lever, Ashby, HN, RemoteOK, Adzuna, USAJobs) and provides tools for job search, company listings, and salary context.",
+  "source_repo": "pabnatanawan87/job-scout-mcp",
+  "source_url": "https://github.com/pabnatanawan87/job-scout-mcp",
+  "install": "npx -y job-scout-mcp"
+}

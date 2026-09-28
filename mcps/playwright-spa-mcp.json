@@ -1,0 +1,7 @@
+{
+  "name": "playwright-spa-mcp",
+  "description": "Playwright browser automation tuned for single-page apps (React/Vue/Angular) — screenshots, form filling, action chains, persistent sessions and 140+ device presets.",
+  "source_repo": "manganate006/playwright-spa-mcp",
+  "source_url": "https://github.com/manganate006/playwright-spa-mcp",
+  "install": "npx -y playwright-spa-mcp"
+}

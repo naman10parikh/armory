@@ -1,0 +1,7 @@
+{
+  "name": "krita-codex-mcp",
+  "description": "A Windows-first local MCP server that lets Codex inspect and control Krita through a small, authenticated bridge.",
+  "source_repo": "cyyprezz/krita-codex-mcp",
+  "source_url": "https://github.com/cyyprezz/krita-codex-mcp",
+  "install": "npx -y krita-codex-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "latam-intelligence-mcp",
+  "description": "Provides business intelligence, compliance tools, and economic data for Latin America, including Brazilian company lookups, tax ID validation for multiple countries, and economic indicators from official government sources.",
+  "source_repo": "fzthiait-ai/latam-intelligence-mcp",
+  "source_url": "https://github.com/fzthiait-ai/latam-intelligence-mcp",
+  "install": "npx -y latam-intelligence-mcp"
+}

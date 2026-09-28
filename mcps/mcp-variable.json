@@ -1,0 +1,7 @@
+{
+  "name": "mcp-variable",
+  "description": "Converts between Korean terminology and physical column names using a standard CSV dictionary, enabling developers to look up and transform terms, physical names, and variable cases.",
+  "source_repo": "lahuman/mcp-variable",
+  "source_url": "https://github.com/lahuman/mcp-variable",
+  "install": "# git clone --depth 1 https://github.com/lahuman/mcp-variable\n# See source for mcpServers config block"
+}

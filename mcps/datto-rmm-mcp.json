@@ -1,0 +1,7 @@
+{
+  "name": "datto-rmm-mcp",
+  "description": "Enables Claude to interact with Datto RMM accounts for device, alert, site, and quick job management through natural language.",
+  "source_repo": "wylienorthwind/datto-rmm-mcp",
+  "source_url": "https://github.com/wylienorthwind/datto-rmm-mcp",
+  "install": "npx -y datto-rmm-mcp"
+}

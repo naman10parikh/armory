@@ -1,0 +1,7 @@
+{
+  "name": "resp-mcp",
+  "description": "SERP-free scholarly search MCP server that queries academic sources like arXiv, Semantic Scholar, and conference proceedings using official APIs and reverse-engineered endpoints, with no API keys required. It supports unified conference search and returns normalized paper metadata.",
+  "source_repo": "monk1337/resp_mcp",
+  "source_url": "https://github.com/monk1337/resp_mcp",
+  "install": "npx -y resp_mcp"
+}

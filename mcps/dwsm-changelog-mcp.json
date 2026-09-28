@@ -1,0 +1,7 @@
+{
+  "name": "dwsm-changelog-mcp",
+  "description": "Enables safe changelog management for AI assistants with append-only entries, automatic versioning, and backups to prevent accidental deletion or formatting inconsistencies.",
+  "source_repo": "dwsmorg/changelog_mcp",
+  "source_url": "https://github.com/dwsmorg/changelog_mcp",
+  "install": "npx -y changelog_mcp"
+}

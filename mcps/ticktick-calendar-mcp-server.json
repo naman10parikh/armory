@@ -1,0 +1,7 @@
+{
+  "name": "ticktick-calendar-mcp-server",
+  "description": "Integrates TickTick calendar with Obsidian/Claude Code, enabling users to register events from markdown text or files via natural language.",
+  "source_repo": "plhyun22/ticktick-mcp-server",
+  "source_url": "https://github.com/plhyun22/ticktick-mcp-server",
+  "install": "npx -y ticktick-mcp-server"
+}

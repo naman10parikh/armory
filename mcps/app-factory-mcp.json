@@ -1,0 +1,7 @@
+{
+  "name": "app-factory-mcp",
+  "description": "An orchestrator MCP server that takes a plain-language app description and guides agents through a full workflow from intake to deployment, including design, audit, and maintenance.",
+  "source_repo": "DPGS-oss/app-factory-mcp",
+  "source_url": "https://github.com/DPGS-oss/app-factory-mcp",
+  "install": "npx -y app-factory-mcp"
+}

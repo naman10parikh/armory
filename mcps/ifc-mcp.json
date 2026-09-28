@@ -1,0 +1,7 @@
+{
+  "name": "ifc-mcp",
+  "description": "Enables AI agents to load, query, and analyze IFC building model files, including spatial structures, elements, properties, materials, and geometry.",
+  "source_repo": "WolfzTech/Ifc-Mcp",
+  "source_url": "https://github.com/WolfzTech/Ifc-Mcp",
+  "install": "npx -y Ifc-Mcp"
+}

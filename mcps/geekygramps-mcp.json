@@ -1,0 +1,7 @@
+{
+  "name": "geekygramps-mcp",
+  "description": "A shared memory gateway for AI coding agents using PostgreSQL, enabling collaborative context across agents.",
+  "source_repo": "fbrawner3/geekygramps-mcp",
+  "source_url": "https://github.com/fbrawner3/geekygramps-mcp",
+  "install": "npx -y geekygramps-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "axis-camera-mcp",
+  "description": "MCP server that lets an LLM control an Axis network camera over VAPIX, including live streaming, PTZ, image settings, overlays, clock, light, user management, and a built-in RAG knowledge base of VAPIX docs.",
+  "source_repo": "cdp/GSX2026-axis-camera-mcp",
+  "source_url": "https://github.com/cdp/GSX2026-axis-camera-mcp",
+  "install": "npx -y GSX2026-axis-camera-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zipnavi-mcp-server",
+  "description": "Provides home renovation guidance including building info, recent deals, permit procedures, checklists, and contractor verification based on address, powered by Korean public data.",
+  "source_repo": "oowang15/zipnavi-mcp-deploy",
+  "source_url": "https://github.com/oowang15/zipnavi-mcp-deploy",
+  "install": "# git clone --depth 1 https://github.com/oowang15/zipnavi-mcp-deploy\n# See source for mcpServers config block"
+}

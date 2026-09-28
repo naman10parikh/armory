@@ -1,0 +1,7 @@
+{
+  "name": "seo-aeo-geo-digital-marketing-audit-safe-fix-mcp-server",
+  "description": "An advanced, AI-powered Model Context Protocol (MCP) server that acts as a comprehensive Growth Auditor, SEO Optimizer, and Code Fixer.",
+  "source_repo": "sparrow84001/mcp-seo",
+  "source_url": "https://github.com/sparrow84001/mcp-seo",
+  "install": "# git clone --depth 1 https://github.com/sparrow84001/mcp-seo\n# See source for mcpServers config block"
+}

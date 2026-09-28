@@ -1,0 +1,7 @@
+{
+  "name": "fast-h3yun",
+  "description": "Enables read-only search and retrieval of H3 Yun workbench apps, forms, and business records via mobile and password login, exposing these as FastMCP tools for MCP clients.",
+  "source_repo": "ironfrancis/fast-h3yun",
+  "source_url": "https://github.com/ironfrancis/fast-h3yun",
+  "install": "# git clone --depth 1 https://github.com/ironfrancis/fast-h3yun\n# See source for mcpServers config block"
+}

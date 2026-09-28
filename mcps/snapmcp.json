@@ -1,0 +1,7 @@
+{
+  "name": "snapmcp",
+  "description": "Visual documentation MCP server with 13 tools to capture terminal screenshots, syntax-highlighted code, visual diffs, PDFs, GIFs, and more for documentation workflows.",
+  "source_repo": "reeinharddd/snapmcp",
+  "source_url": "https://github.com/reeinharddd/snapmcp",
+  "install": "# git clone --depth 1 https://github.com/reeinharddd/snapmcp\n# See source for mcpServers config block"
+}

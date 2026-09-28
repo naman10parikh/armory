@@ -1,0 +1,7 @@
+{
+  "name": "agentkimi",
+  "description": "MCP server that runs Kimi K2.7-code as an autonomous coding agent inside a bubblewrap-sandboxed git worktree, returning git diffs of changes for review.",
+  "source_repo": "dominiclynchwoodlands-ui/agentKimi",
+  "source_url": "https://github.com/dominiclynchwoodlands-ui/agentKimi",
+  "install": "# git clone --depth 1 https://github.com/dominiclynchwoodlands-ui/agentKimi\n# See source for mcpServers config block"
+}

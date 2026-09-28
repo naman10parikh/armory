@@ -1,0 +1,7 @@
+{
+  "name": "seoradar-mcp",
+  "description": "Enables SEO audits and URL monitoring via the SEO Radar API from any MCP-compatible AI client.",
+  "source_repo": "sikulovi-s-r-o/seoradar-mcp",
+  "source_url": "https://github.com/sikulovi-s-r-o/seoradar-mcp",
+  "install": "npx -y seoradar-mcp"
+}

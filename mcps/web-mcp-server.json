@@ -1,0 +1,7 @@
+{
+  "name": "web-mcp-server",
+  "description": "MCP server that exposes web_search and web_fetch tools, allowing LLM applications to search the web via DuckDuckGo and fetch page content as cleaned markdown.",
+  "source_repo": "RyanDam/EssentialMCP",
+  "source_url": "https://github.com/RyanDam/EssentialMCP",
+  "install": "# git clone --depth 1 https://github.com/RyanDam/EssentialMCP\n# See source for mcpServers config block"
+}

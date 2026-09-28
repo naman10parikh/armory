@@ -1,0 +1,7 @@
+{
+  "name": "trainrouter-atlas",
+  "description": "The world railway atlas as read-only MCP tools: search 744+ legendary train routes (high-speed, classic, night, scenic) and get per-route facts, rankings and journey times. Runs from the repo's open dataset (CC BY 4.0); a free hosted endpoint is also live at https://trainrouter.com/mcp.",
+  "source_repo": "Flightmussy/trainrouter-atlas",
+  "source_url": "https://github.com/Flightmussy/trainrouter-atlas",
+  "install": "# git clone --depth 1 https://github.com/Flightmussy/trainrouter-atlas\n# See source for mcpServers config block"
+}

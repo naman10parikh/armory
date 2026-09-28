@@ -1,0 +1,7 @@
+{
+  "name": "docs-to-ai",
+  "description": "Enables LLMs to query documents using semantic search, supporting PDFs, Word, Excel, and more. Organizes documents by topics from folder structure and provides advanced search features like phrase matching and date filtering.",
+  "source_repo": "dorianmeric/docs-to-ai",
+  "source_url": "https://github.com/dorianmeric/docs-to-ai",
+  "install": "# git clone --depth 1 https://github.com/dorianmeric/docs-to-ai\n# See source for mcpServers config block"
+}

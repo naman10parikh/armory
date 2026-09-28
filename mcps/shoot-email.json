@@ -1,0 +1,7 @@
+{
+  "name": "shoot-email",
+  "description": "An MCP server that provides AI agents with a persistent, agent-native email mailbox for sending, receiving, and managing emails through bounded-context retrieval, idempotent operations, and explicit acknowledgement.",
+  "source_repo": "powersurge01/shoot-email",
+  "source_url": "https://github.com/powersurge01/shoot-email",
+  "install": "# git clone --depth 1 https://github.com/powersurge01/shoot-email\n# See source for mcpServers config block"
+}

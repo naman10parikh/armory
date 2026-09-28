@@ -1,0 +1,7 @@
+{
+  "name": "douyin-controlled-mcp",
+  "description": "An MCP adapter for reading and carefully operating Douyin and Creator Center through structured IDs and verified browser state, with safety boundaries.",
+  "source_repo": "mei-shui-xing/douyin-controlled-mcp",
+  "source_url": "https://github.com/mei-shui-xing/douyin-controlled-mcp",
+  "install": "npx -y douyin-controlled-mcp"
+}

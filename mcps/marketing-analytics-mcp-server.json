@@ -1,0 +1,7 @@
+{
+  "name": "marketing-analytics-mcp-server",
+  "description": "Enables natural language querying of marketing analytics across Google Search Console, GA4, Google Ads, HubSpot, and Bing. Provides tools for search queries, traffic, campaign performance, and composite cross-platform rollups.",
+  "source_repo": "Dweeb1578/marketing-analytics-mcp",
+  "source_url": "https://github.com/Dweeb1578/marketing-analytics-mcp",
+  "install": "npx -y marketing-analytics-mcp"
+}

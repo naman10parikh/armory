@@ -1,0 +1,7 @@
+{
+  "name": "permitverdict-mcp",
+  "description": "Provides tools for verifying crypto price events and building permit intelligence, with free and paid tools using the x402 protocol.",
+  "source_repo": "okwithit9-debug/permitverdict-mcp",
+  "source_url": "https://github.com/okwithit9-debug/permitverdict-mcp",
+  "install": "npx -y permitverdict-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "keiro-mcp-server",
+  "description": "Enables AI agents to perform real-time web searches, deep research, content extraction, and AI-powered answers via the KEIRO API.",
+  "source_repo": "Neptaverse/KEIRO-MCP-PYT",
+  "source_url": "https://github.com/Neptaverse/KEIRO-MCP-PYT",
+  "install": "# git clone --depth 1 https://github.com/Neptaverse/KEIRO-MCP-PYT\n# See source for mcpServers config block"
+}

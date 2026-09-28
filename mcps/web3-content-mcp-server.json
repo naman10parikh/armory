@@ -1,0 +1,7 @@
+{
+  "name": "web3-content-mcp-server",
+  "description": "MCP server for managing web3 content, fetching blockchain data, and analyzing content for web3 topics.",
+  "source_repo": "greyisworking/web3-content-mcp",
+  "source_url": "https://github.com/greyisworking/web3-content-mcp",
+  "install": "npx -y web3-content-mcp"
+}

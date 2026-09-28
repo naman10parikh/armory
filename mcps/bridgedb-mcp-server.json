@@ -1,0 +1,7 @@
+{
+  "name": "bridgedb-mcp-server",
+  "description": "Provides biological identifier mapping via BridgeDb webservice, allowing LLMs to convert identifiers like Ensembl to HGNC symbols through MCP tools.",
+  "source_repo": "marvinm2/bridgedb-mcp",
+  "source_url": "https://github.com/marvinm2/bridgedb-mcp",
+  "install": "npx -y bridgedb-mcp"
+}

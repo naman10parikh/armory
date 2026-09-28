@@ -1,0 +1,7 @@
+{
+  "name": "crosscheck",
+  "description": "MCP server that automatically cross-checks claims from Reddit posts against trusted news sources and delivers a daily digest to Discord, without making final truth judgments.",
+  "source_repo": "hongsungmin0315/crosscheck",
+  "source_url": "https://github.com/hongsungmin0315/crosscheck",
+  "install": "# git clone --depth 1 https://github.com/hongsungmin0315/crosscheck\n# See source for mcpServers config block"
+}

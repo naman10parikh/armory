@@ -1,0 +1,7 @@
+{
+  "name": "bijon-portfolio-mcp-server",
+  "description": "Exposes a personal portfolio's resume, projects, skills, certifications, and live GitHub repositories as tools for AI assistants to query via natural language.",
+  "source_repo": "Bijon2002/Build-Own-MCP",
+  "source_url": "https://github.com/Bijon2002/Build-Own-MCP",
+  "install": "npx -y Build-Own-MCP"
+}

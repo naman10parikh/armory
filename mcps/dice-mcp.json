@@ -1,0 +1,7 @@
+{
+  "name": "dice-mcp",
+  "description": "Enables rolling dice with customizable sides and counts, returning results and totals via MCP Streamable HTTP transport.",
+  "source_repo": "yus04/dice-mcp",
+  "source_url": "https://github.com/yus04/dice-mcp",
+  "install": "npx -y dice-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arifosmcp",
+  "description": "Constitutional MCP server enforcing 13 Floors of governance for AI agents, providing tools for session anchoring, reasoning, safety critique, and audit logging.",
+  "source_repo": "ariffazil/arifosmcp",
+  "source_url": "https://github.com/ariffazil/arifosmcp",
+  "install": "# git clone --depth 1 https://github.com/ariffazil/arifosmcp\n# See source for mcpServers config block"
+}

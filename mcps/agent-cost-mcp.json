@@ -1,0 +1,7 @@
+{
+  "name": "agent-cost-mcp",
+  "description": "Tracks AI agent token usage and spending in real time, with budget alerts, per-task cost breakdown, and a visual dashboard.",
+  "source_repo": "vanthienha199/agent-cost-mcp",
+  "source_url": "https://github.com/vanthienha199/agent-cost-mcp",
+  "install": "npx -y agent-cost-mcp"
+}

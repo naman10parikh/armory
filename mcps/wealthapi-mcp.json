@@ -1,0 +1,7 @@
+{
+  "name": "wealthapi-mcp",
+  "description": "MCP server that enables AI assistants to answer portfolio questions about a wealthAPI account, with read-only tools for accounts, transactions, investments, dividends, and market data.",
+  "source_repo": "wealthAPI-eu/wealthapi-mcp",
+  "source_url": "https://github.com/wealthAPI-eu/wealthapi-mcp",
+  "install": "npx -y wealthapi-mcp"
+}

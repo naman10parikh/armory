@@ -1,0 +1,7 @@
+{
+  "name": "telegram-mcp-server-2",
+  "description": "A Telegram integration for MCP-compatible clients, enabling account, chat, message, contact, media, folder, and admin operations.",
+  "source_repo": "georgiisidorov/telegram-mcp",
+  "source_url": "https://github.com/georgiisidorov/telegram-mcp",
+  "install": "npx -y telegram-mcp"
+}

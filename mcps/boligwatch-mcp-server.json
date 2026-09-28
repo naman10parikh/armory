@@ -1,0 +1,7 @@
+{
+  "name": "boligwatch-mcp-server",
+  "description": "Monitors boligportal.dk for new rental listings in Denmark. Provides tools to search, filter, and track apartment listings via natural language.",
+  "source_repo": "nille/boligwatch",
+  "source_url": "https://github.com/nille/boligwatch",
+  "install": "# git clone --depth 1 https://github.com/nille/boligwatch\n# See source for mcpServers config block"
+}

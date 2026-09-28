@@ -1,0 +1,7 @@
+{
+  "name": "unrealmcp",
+  "description": "A native MCP server for Unreal Engine 5.7 that lets AI assistants inspect and control an open Unreal Editor through a single 'unreal' tool, supporting Python/console command execution and async tasks.",
+  "source_repo": "AvatarGanymede/ue5.7-mcp",
+  "source_url": "https://github.com/AvatarGanymede/ue5.7-mcp",
+  "install": "npx -y ue5.7-mcp"
+}

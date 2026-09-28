@@ -1,0 +1,7 @@
+{
+  "name": "linklore",
+  "description": "AI-native coding memory — lore/doc that AI agents read and write directly, via MCP",
+  "source_repo": "linklore/linklore-mcp",
+  "source_url": "https://github.com/linklore/linklore-mcp",
+  "install": "npx -y linklore-mcp"
+}

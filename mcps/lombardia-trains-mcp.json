@@ -1,0 +1,7 @@
+{
+  "name": "lombardia-trains-mcp",
+  "description": "Enables querying live departure and arrival boards, delays, platforms, cancellations, crowding, stop-by-stop progress, and journey planning with up to one change for Lombardy's regional rail network, using public open data without an API key.",
+  "source_repo": "DenisRaimondi/lombardia-trains-mcp",
+  "source_url": "https://github.com/DenisRaimondi/lombardia-trains-mcp",
+  "install": "npx -y lombardia-trains-mcp"
+}

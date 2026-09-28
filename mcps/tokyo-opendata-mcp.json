@@ -1,0 +1,7 @@
+{
+  "name": "tokyo-opendata-mcp",
+  "description": "An MCP server that enables AI to correctly search and query Tokyo's open data by automatically handling synonym variations, warning about misleading update timestamps, and skipping empty rows in API responses.",
+  "source_repo": "bitpackman/tokyo-opendata-mcp",
+  "source_url": "https://github.com/bitpackman/tokyo-opendata-mcp",
+  "install": "npx -y tokyo-opendata-mcp"
+}

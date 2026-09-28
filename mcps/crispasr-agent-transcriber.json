@@ -1,0 +1,7 @@
+{
+  "name": "crispasr-agent-transcriber",
+  "description": "Local-only transcription server for MCP agents, powered by CrispASR. Transcribes audio/video files without cloud uploads, supporting English and Chinese.",
+  "source_repo": "EmiyaKatuz/crispasr-agent-transcriber",
+  "source_url": "https://github.com/EmiyaKatuz/crispasr-agent-transcriber",
+  "install": "# git clone --depth 1 https://github.com/EmiyaKatuz/crispasr-agent-transcriber\n# See source for mcpServers config block"
+}

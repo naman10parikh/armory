@@ -1,0 +1,7 @@
+{
+  "name": "roslyn-backed-mcp-server",
+  "description": "Local-first MCP server for semantic C# analysis, navigation, validation, and refactoring using Roslyn on real .NET workspaces.",
+  "source_repo": "darylmcd/Roslyn-Backed-MCP",
+  "source_url": "https://github.com/darylmcd/Roslyn-Backed-MCP",
+  "install": "npx -y Roslyn-Backed-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "custom-fabric-mcp",
+  "description": "An MCP server that provides AI-powered, governed access to Microsoft Fabric data assets with 16 tools for querying, schema discovery, knowledge retrieval, and export.",
+  "source_repo": "vpsathish05/custom-fabric-mcp",
+  "source_url": "https://github.com/vpsathish05/custom-fabric-mcp",
+  "install": "npx -y custom-fabric-mcp"
+}

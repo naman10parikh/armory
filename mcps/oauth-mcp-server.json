@@ -1,0 +1,7 @@
+{
+  "name": "oauth-mcp-server",
+  "description": "An MCP server for OAuth 2.0 authentication supporting Device Code and Client Credentials flows, enabling secure token management for MCP applications.",
+  "source_repo": "walkerpauldavid/oauth_mcp_server",
+  "source_url": "https://github.com/walkerpauldavid/oauth_mcp_server",
+  "install": "npx -y oauth_mcp_server"
+}

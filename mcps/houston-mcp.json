@@ -1,0 +1,7 @@
+{
+  "name": "houston-mcp",
+  "description": "A unified Model Context Protocol server for Houston-area civic, transit, and flood data, joining incompatible public data systems behind workflow-oriented tools. It enables AI assistants to answer questions like 'is my route flooding right now?' by integrating sources such as TranStar, HCFWS, and th",
+  "source_repo": "jurjones29/houston-mcp",
+  "source_url": "https://github.com/jurjones29/houston-mcp",
+  "install": "npx -y houston-mcp"
+}

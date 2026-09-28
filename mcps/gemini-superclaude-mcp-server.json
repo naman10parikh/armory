@@ -1,0 +1,7 @@
+{
+  "name": "gemini-superclaude-mcp-server",
+  "description": "Enhances Gemini CLI with SuperClaude Framework v4.0.9, providing 22 specialized commands, 14 domain-expert agents, and integration with 6 MCP servers for development, analysis, and automation.",
+  "source_repo": "Dianel555/gemini-superclaude-mcp-server",
+  "source_url": "https://github.com/Dianel555/gemini-superclaude-mcp-server",
+  "install": "npx -y gemini-superclaude-mcp-server"
+}

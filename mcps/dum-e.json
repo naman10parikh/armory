@@ -1,0 +1,7 @@
+{
+  "name": "dum-e",
+  "description": "Enables AI agents to manage tasks through a structured lifecycle (todo, in_progress, ai_testing, manual_testing, deployment, completed) with human approval gates, providing a single-user task management system with CLI, REST API, and live updates.",
+  "source_repo": "sarathm09/dum-e",
+  "source_url": "https://github.com/sarathm09/dum-e",
+  "install": "# git clone --depth 1 https://github.com/sarathm09/dum-e\n# See source for mcpServers config block"
+}

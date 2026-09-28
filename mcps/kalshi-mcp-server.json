@@ -1,0 +1,7 @@
+{
+  "name": "kalshi-mcp-server",
+  "description": "Self-hosted MCP server for trading on Kalshi prediction markets via DFlow on Solana, enabling account management, market discovery, trading, swaps, transfers, and redemption.",
+  "source_repo": "joinQuantish/kalshi-mcp",
+  "source_url": "https://github.com/joinQuantish/kalshi-mcp",
+  "install": "npx -y kalshi-mcp"
+}

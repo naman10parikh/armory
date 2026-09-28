@@ -1,0 +1,7 @@
+{
+  "name": "onchainai",
+  "description": "Unified crypto tool directory MCP server enabling AI agents to discover, evaluate, and install crypto tools across multiple sources with trust scoring and x402 payment support.",
+  "source_repo": "Coinyak/onchainai",
+  "source_url": "https://github.com/Coinyak/onchainai",
+  "install": "# git clone --depth 1 https://github.com/Coinyak/onchainai\n# See source for mcpServers config block"
+}

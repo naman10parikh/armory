@@ -1,0 +1,7 @@
+{
+  "name": "rendr",
+  "description": "The Rendr MCP server allows AI agents to control the full video editing workflow, including recording, timeline editing, color grading, and exporting.",
+  "source_repo": "nickthelegend/rendr-desktop",
+  "source_url": "https://github.com/nickthelegend/rendr-desktop",
+  "install": "# git clone --depth 1 https://github.com/nickthelegend/rendr-desktop\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "book-notes-mcp",
+  "description": "MCP server for processing raw book notes into structured, searchable knowledge using embeddings and semantic search.",
+  "source_repo": "ayush1298/book-notes-mcp",
+  "source_url": "https://github.com/ayush1298/book-notes-mcp",
+  "install": "npx -y book-notes-mcp"
+}

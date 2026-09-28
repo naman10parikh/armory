@@ -1,0 +1,7 @@
+{
+  "name": "codescope",
+  "description": "A local-first MCP preflight system to help AI inspect Python repositories before generating code, enabling reuse, extend, or create decisions. Currently in early development with only foundational modules implemented.",
+  "source_repo": "Ibadat-Ali86/codescope-mcp-preflight",
+  "source_url": "https://github.com/Ibadat-Ali86/codescope-mcp-preflight",
+  "install": "# git clone --depth 1 https://github.com/Ibadat-Ali86/codescope-mcp-preflight\n# See source for mcpServers config block"
+}

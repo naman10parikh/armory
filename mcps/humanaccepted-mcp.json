@@ -1,0 +1,7 @@
+{
+  "name": "humanaccepted-mcp",
+  "description": "MCP server that auto-emits tamper-evident receipts for every tool call, enabling EU AI Act Article 12 compliance with signed, chain-linked receipts.",
+  "source_repo": "Ola-Turmo/humanaccepted-mcp",
+  "source_url": "https://github.com/Ola-Turmo/humanaccepted-mcp",
+  "install": "npx -y humanaccepted-mcp"
+}

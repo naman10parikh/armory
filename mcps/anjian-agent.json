@@ -1,0 +1,7 @@
+{
+  "name": "anjian-agent",
+  "description": "A local-first, authorization-gated MCP server for web security assessment that transforms URLs into traceable, reviewable reports and integrates with Claude Code and local LLMs.",
+  "source_repo": "ck3938700-ship-it/anjian-agent",
+  "source_url": "https://github.com/ck3938700-ship-it/anjian-agent",
+  "install": "# git clone --depth 1 https://github.com/ck3938700-ship-it/anjian-agent\n# See source for mcpServers config block"
+}

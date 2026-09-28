@@ -1,0 +1,7 @@
+{
+  "name": "mcp-arcgis-asheville",
+  "description": "Enables querying City of Asheville open geospatial data (parcels, zoning, etc.) through ArcGIS Feature Services. Supports searching datasets, querying layers with SQL-like filters, and retrieving layer schemas.",
+  "source_repo": "pipeworx-io/mcp-arcgis-asheville",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-asheville",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-asheville\n# See source for mcpServers config block"
+}

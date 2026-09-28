@@ -1,0 +1,7 @@
+{
+  "name": "thumbagent",
+  "description": "Local-first MCP server that enables AI agents to safely control and observe Android mobile devices, supporting device diagnostics, app lifecycle management, async task execution, and performance monitoring through a policy-constrained interface with explicit confirmations.",
+  "source_repo": "LiuShiYi1027/ThumbAgent",
+  "source_url": "https://github.com/LiuShiYi1027/ThumbAgent",
+  "install": "# git clone --depth 1 https://github.com/LiuShiYi1027/ThumbAgent\n# See source for mcpServers config block"
+}

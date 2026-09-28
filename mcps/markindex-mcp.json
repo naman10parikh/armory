@@ -1,0 +1,7 @@
+{
+  "name": "markindex-mcp",
+  "description": "Enables LLMs to accurately navigate and retrieve information from complex documents using Page Index RAG methodology.",
+  "source_repo": "rajfazulhussain2008/markindex-mcp",
+  "source_url": "https://github.com/rajfazulhussain2008/markindex-mcp",
+  "install": "npx -y markindex-mcp"
+}

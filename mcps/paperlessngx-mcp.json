@@ -1,0 +1,7 @@
+{
+  "name": "paperlessngx-mcp",
+  "description": "A privacy-first MCP server for Paperless-ngx that lets an LLM agent search, organize, tag, and reference documents without exposing full text unless explicitly requested.",
+  "source_repo": "Milli42/paperlessngx-mcp",
+  "source_url": "https://github.com/Milli42/paperlessngx-mcp",
+  "install": "npx -y paperlessngx-mcp"
+}

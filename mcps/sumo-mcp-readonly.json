@@ -1,0 +1,7 @@
+{
+  "name": "sumo-mcp-readonly",
+  "description": "A read-only MCP server for querying Sumo Logic logs, enabling AI assistants to search and investigate application logs with opinionated tools and secure credential handling.",
+  "source_repo": "CraigWetzelberger/sumo-mcp-readonly",
+  "source_url": "https://github.com/CraigWetzelberger/sumo-mcp-readonly",
+  "install": "# git clone --depth 1 https://github.com/CraigWetzelberger/sumo-mcp-readonly\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentsim-mcp",
+  "description": "MCP server that enables AI coding assistants to provision temporary US phone numbers and receive SMS OTPs for verification workflows.",
+  "source_repo": "agentsimdev/agentsim-mcp",
+  "source_url": "https://github.com/agentsimdev/agentsim-mcp",
+  "install": "npx -y agentsim-mcp"
+}

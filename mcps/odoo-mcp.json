@@ -1,0 +1,7 @@
+{
+  "name": "odoo-mcp",
+  "description": "Connects AI assistants to Odoo 19.0, enabling full CRUD operations and method calls on any Odoo model via API key or username/password authentication.",
+  "source_repo": "bemade/odoo-mcp",
+  "source_url": "https://github.com/bemade/odoo-mcp",
+  "install": "npx -y odoo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "groundcheck-mcp",
+  "description": "MCP server for grounding verification (exact quotes, citations, code output, repo patterns, arithmetic) using no LLM in the verification path.",
+  "source_repo": "aghasalim/groundcheck-mcp",
+  "source_url": "https://github.com/aghasalim/groundcheck-mcp",
+  "install": "npx -y groundcheck-mcp"
+}

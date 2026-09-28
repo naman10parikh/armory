@@ -1,0 +1,7 @@
+{
+  "name": "conselho-regional-de-odontologia-rn-cadastro",
+  "description": "Consulta o cadastro oficial de cirurgiões-dentistas no Conselho Regional de Odontologia do Rio Grande do Norte, fornecendo dados de registro e situação profissional.",
+  "source_repo": "mcp-dir/cro_rn_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_rn_cadastro-mcp",
+  "install": "npx -y cro_rn_cadastro-mcp"
+}

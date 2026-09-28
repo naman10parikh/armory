@@ -1,0 +1,7 @@
+{
+  "name": "mongodb-intelligence-mcp-server",
+  "description": "An autonomous MCP server that enables LLMs to intelligently query and analyze MongoDB databases by reverse-engineering schemas, proving relationships, and enforcing security safeguards like PII masking and query limits.",
+  "source_repo": "Salman0076/mongodb-intelligence-mcp",
+  "source_url": "https://github.com/Salman0076/mongodb-intelligence-mcp",
+  "install": "npx -y mongodb-intelligence-mcp"
+}

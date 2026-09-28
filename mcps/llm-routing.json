@@ -1,0 +1,7 @@
+{
+  "name": "llm-routing",
+  "description": "Enables cost-aware LLM routing over MCP with verification-based cascading, offering tools for routing queries, resuming escalated approvals, estimating costs, comparing policies, and explaining routing decisions, plus read-only resources and a policy-selection prompt.",
+  "source_repo": "APantov/llm-routing-comparison",
+  "source_url": "https://github.com/APantov/llm-routing-comparison",
+  "install": "# git clone --depth 1 https://github.com/APantov/llm-routing-comparison\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shippingrates-mcp-server",
+  "description": "Provides container shipping intelligence for AI agents, enabling demurrage & detention calculations, local charges, inland haulage rates, and CFS tariffs across multiple shipping lines, with pay-per-request USDC payments via x402.",
+  "source_repo": "vinaybhosle/shippingrates-mcp-server",
+  "source_url": "https://github.com/vinaybhosle/shippingrates-mcp-server",
+  "install": "npx -y shippingrates-mcp-server"
+}

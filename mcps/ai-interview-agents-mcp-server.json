@@ -1,0 +1,7 @@
+{
+  "name": "ai-interview-agents-mcp-server",
+  "description": "Lets any MCP client drive the recruiting workflow in natural language: create roles, screen CVs, schedule and manage candidate interviews, and read back scored reports with transcripts.",
+  "source_repo": "dpkdhingra91/aiia-mcp-server",
+  "source_url": "https://github.com/dpkdhingra91/aiia-mcp-server",
+  "install": "npx -y aiia-mcp-server"
+}

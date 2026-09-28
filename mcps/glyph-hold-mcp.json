@@ -1,0 +1,7 @@
+{
+  "name": "glyph-hold-mcp",
+  "description": "MCP server that connects Codex and other MCP clients to a running Glyph Hold instance via its HTTP API, enabling memory and secret management.",
+  "source_repo": "Dosk3n/glyphhold-mcp",
+  "source_url": "https://github.com/Dosk3n/glyphhold-mcp",
+  "install": "npx -y glyphhold-mcp"
+}

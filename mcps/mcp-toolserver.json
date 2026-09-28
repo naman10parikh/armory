@@ -1,0 +1,7 @@
+{
+  "name": "mcp-toolserver",
+  "description": "Enables document search, read-only SQL querying, arithmetic calculation, and corpus introspection through MCP tools, allowing Claude to dynamically discover and chain these tools together to answer multi-step questions.",
+  "source_repo": "roshano3o3/mcp-toolserver",
+  "source_url": "https://github.com/roshano3o3/mcp-toolserver",
+  "install": "# git clone --depth 1 https://github.com/roshano3o3/mcp-toolserver\n# See source for mcpServers config block"
+}

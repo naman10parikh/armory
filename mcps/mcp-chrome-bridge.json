@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chrome-bridge",
+  "description": "Enables AI agents to control Chrome browser actions like navigation, clicking, form filling, screenshots, and console/network logging via an MCP server and Chrome extension.",
+  "source_repo": "wizardofweb125-lab/mcp-chrome-bridge",
+  "source_url": "https://github.com/wizardofweb125-lab/mcp-chrome-bridge",
+  "install": "# git clone --depth 1 https://github.com/wizardofweb125-lab/mcp-chrome-bridge\n# See source for mcpServers config block"
+}

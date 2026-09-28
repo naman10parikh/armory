@@ -1,0 +1,7 @@
+{
+  "name": "slang-workflows",
+  "description": "Run provable, .slang-driven multi-agent workflows inside Claude Code. A deterministic executor enforces typed output contracts, tool scoping, and convergence, providing guarantees and auditability.",
+  "source_repo": "shofer-dev/claude-code-slang-orchestrator",
+  "source_url": "https://github.com/shofer-dev/claude-code-slang-orchestrator",
+  "install": "# git clone --depth 1 https://github.com/shofer-dev/claude-code-slang-orchestrator\n# See source for mcpServers config block"
+}

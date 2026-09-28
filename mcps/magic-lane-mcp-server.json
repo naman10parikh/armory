@@ -1,0 +1,7 @@
+{
+  "name": "magic-lane-mcp-server",
+  "description": "Enables AI agents to become geospatially intelligent assistants with tools for location search, smart routing, round trip planning, reverse geocoding, isochrone analysis, route visualization, geofence management, and interactive map display.",
+  "source_repo": "magiclane/magiclane-mcp-server",
+  "source_url": "https://github.com/magiclane/magiclane-mcp-server",
+  "install": "npx -y magiclane-mcp-server"
+}

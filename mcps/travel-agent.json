@@ -1,0 +1,7 @@
+{
+  "name": "travel-agent",
+  "description": "Enables travel-related queries and planning including weather, train and flight information, itinerary generation, and travel knowledge retrieval via RAG, using an AI agent with MCP protocol.",
+  "source_repo": "to-ri-ki/travel-agent",
+  "source_url": "https://github.com/to-ri-ki/travel-agent",
+  "install": "# git clone --depth 1 https://github.com/to-ri-ki/travel-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sleeper-fantasy-football-mcp",
+  "description": "A read-only MCP server that supplies live context from Sleeper fantasy-football leagues, including rosters, trade analysis, draft picks, and league settings via Sleeper's public API.",
+  "source_repo": "rajn1/sleeper-fantasy-mcp",
+  "source_url": "https://github.com/rajn1/sleeper-fantasy-mcp",
+  "install": "npx -y sleeper-fantasy-mcp"
+}

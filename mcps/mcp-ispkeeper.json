@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ispkeeper",
+  "description": "Read-only MCP server for ISPKeeper ISP management software, enabling querying of clients, invoices, collections, internet connections, support tickets, network status, and FTTx infrastructure through MCP-compatible clients.",
+  "source_repo": "dmayan-ss/mcp-ispkeeper",
+  "source_url": "https://github.com/dmayan-ss/mcp-ispkeeper",
+  "install": "# git clone --depth 1 https://github.com/dmayan-ss/mcp-ispkeeper\n# See source for mcpServers config block"
+}

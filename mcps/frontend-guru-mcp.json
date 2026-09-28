@@ -1,0 +1,7 @@
+{
+  "name": "frontend-guru-mcp",
+  "description": "Transforms design inputs (URLs, screenshots, descriptions) into production-ready React components following G2's Elevate 2.0 design system, providing both an MCP server for Claude Code and a web interface.",
+  "source_repo": "abedell-g2/frontend-guru-mcp",
+  "source_url": "https://github.com/abedell-g2/frontend-guru-mcp",
+  "install": "npx -y frontend-guru-mcp"
+}

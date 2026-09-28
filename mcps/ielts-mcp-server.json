@@ -1,0 +1,7 @@
+{
+  "name": "ielts-mcp-server",
+  "description": "Connects Claude Desktop to Google Drive to access and analyze IELTS study materials without downloading, supporting PDFs, DOCX, and Google Docs.",
+  "source_repo": "Tungtom2004/ielts-study-mcp",
+  "source_url": "https://github.com/Tungtom2004/ielts-study-mcp",
+  "install": "npx -y ielts-study-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pool",
+  "description": "Pools multiple API keys for upstream MCP servers to distribute rate limits and provide automatic failover on rate limiting or errors.",
+  "source_repo": "yuzu-octopus/mcp-pool",
+  "source_url": "https://github.com/yuzu-octopus/mcp-pool",
+  "install": "# git clone --depth 1 https://github.com/yuzu-octopus/mcp-pool\n# See source for mcpServers config block"
+}

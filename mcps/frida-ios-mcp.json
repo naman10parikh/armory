@@ -1,0 +1,7 @@
+{
+  "name": "frida-ios-mcp",
+  "description": "MCP server for iOS Frida exploration enabling app control, UI interaction, and media import via spawn sessions on jailbroken devices.",
+  "source_repo": "YPYT1/frida-ios-mcp",
+  "source_url": "https://github.com/YPYT1/frida-ios-mcp",
+  "install": "npx -y frida-ios-mcp"
+}

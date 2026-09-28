@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-mssql",
+  "description": "Enables AI agents to interact with Microsoft SQL Server databases via MCP, supporting table listing, schema retrieval, and CRUD operations.",
+  "source_repo": "TerraCo89/mcp-server-mssql",
+  "source_url": "https://github.com/TerraCo89/mcp-server-mssql",
+  "install": "# git clone --depth 1 https://github.com/TerraCo89/mcp-server-mssql\n# See source for mcpServers config block"
+}

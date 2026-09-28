@@ -1,0 +1,7 @@
+{
+  "name": "ledgerfc-mcp",
+  "description": "Provides AI agents with live, grounded sports data including model probabilities, track records, and European soccer and tennis arbitrage opportunities, so they answer from real numbers instead of stale guesses.",
+  "source_repo": "yaotsakpo/ledgerfc-mcp",
+  "source_url": "https://github.com/yaotsakpo/ledgerfc-mcp",
+  "install": "npx -y ledgerfc-mcp"
+}

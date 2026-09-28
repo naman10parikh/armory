@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chrome-debugger-protocol",
+  "description": "MCP server that lets AI coding tools control and observe a running Node.js process through the chrome devtools protocol (CDP), via a lightweight Debug Adapter Protocol (DAP) bridge.",
+  "source_repo": "VitalyOstanin/mcp-chrome-debugger-protocol",
+  "source_url": "https://github.com/VitalyOstanin/mcp-chrome-debugger-protocol",
+  "install": "# git clone --depth 1 https://github.com/VitalyOstanin/mcp-chrome-debugger-protocol\n# See source for mcpServers config block"
+}

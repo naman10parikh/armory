@@ -1,0 +1,7 @@
+{
+  "name": "remote-jobs-center",
+  "description": "Search current remote / work-from-home jobs by category, region, perk, or company — with ready-to-apply links.",
+  "source_repo": "mdwells/remotejobscenter-mcp",
+  "source_url": "https://github.com/mdwells/remotejobscenter-mcp",
+  "install": "npx -y remotejobscenter-mcp"
+}

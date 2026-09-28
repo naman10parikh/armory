@@ -1,0 +1,7 @@
+{
+  "name": "samsara-fleet-mcp-server",
+  "description": "Exposes live Samsara fleet data via MCP tools for searching assets and retrieving GPS locations.",
+  "source_repo": "ssu851009/samsara-mcp",
+  "source_url": "https://github.com/ssu851009/samsara-mcp",
+  "install": "npx -y samsara-mcp"
+}

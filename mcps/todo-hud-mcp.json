@@ -1,0 +1,7 @@
+{
+  "name": "todo-hud-mcp",
+  "description": "MCP server for managing a todo list with gamified pomodoro features, exposing set_tasks and list_tasks tools.",
+  "source_repo": "FelipeDanielH/todo-hud-mcp",
+  "source_url": "https://github.com/FelipeDanielH/todo-hud-mcp",
+  "install": "npx -y todo-hud-mcp"
+}

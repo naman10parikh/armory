@@ -1,0 +1,7 @@
+{
+  "name": "openroute-mcp",
+  "description": "MCP server for planning routes (hiking, biking, driving, etc.) using the OpenRouteService API. Provides tools to find coordinates, create routes with GPX/PNG/HTML output, search POIs, and compute reachable areas.",
+  "source_repo": "vemonet/openroute-mcp",
+  "source_url": "https://github.com/vemonet/openroute-mcp",
+  "install": "npx -y openroute-mcp"
+}

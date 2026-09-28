@@ -1,0 +1,7 @@
+{
+  "name": "setell",
+  "description": "Modern quote to cash powered by AI",
+  "source_repo": "Setell-AI/setell-mcp",
+  "source_url": "https://github.com/Setell-AI/setell-mcp",
+  "install": "npx -y setell-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "worlditormcp",
+  "description": "Enables any agent framework to connect and interact with a persistent, rules-based world service, while providing a built-in WebUI for human players and owner management.",
+  "source_repo": "Rail1bc/WorlditorMCP",
+  "source_url": "https://github.com/Rail1bc/WorlditorMCP",
+  "install": "# git clone --depth 1 https://github.com/Rail1bc/WorlditorMCP\n# See source for mcpServers config block"
+}

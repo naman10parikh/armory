@@ -1,0 +1,7 @@
+{
+  "name": "styletrace",
+  "description": "Analyzes website references, images, screenshots, and HTML snippets to produce a design brief with style constraints, and reviews generated HTML against those constraints.",
+  "source_repo": "AgenticBridge/style-trace",
+  "source_url": "https://github.com/AgenticBridge/style-trace",
+  "install": "# git clone --depth 1 https://github.com/AgenticBridge/style-trace\n# See source for mcpServers config block"
+}

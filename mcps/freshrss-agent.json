@@ -1,0 +1,7 @@
+{
+  "name": "freshrss-agent",
+  "description": "MCP server for FreshRSS RSS reader enabling feed reading, subscription management, and item actions via the Google Reader compatible API.",
+  "source_repo": "Knuckles-Team/freshrss-agent",
+  "source_url": "https://github.com/Knuckles-Team/freshrss-agent",
+  "install": "# git clone --depth 1 https://github.com/Knuckles-Team/freshrss-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openapi-atlas-mcp",
+  "description": "Aggregates multiple OpenAPI specifications into a single searchable MCP server, enabling AI agents to query API endpoints across all services using natural language.",
+  "source_repo": "mbvillaverde/openapi-atlas-mcp",
+  "source_url": "https://github.com/mbvillaverde/openapi-atlas-mcp",
+  "install": "npx -y openapi-atlas-mcp"
+}

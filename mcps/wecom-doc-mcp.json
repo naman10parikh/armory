@@ -1,0 +1,7 @@
+{
+  "name": "wecom-doc-mcp",
+  "description": "Allows AI assistants to fetch and read Enterprise WeChat documents in real time using cookie authentication and HTML-to-Markdown conversion.",
+  "source_repo": "Tiansiyu-tj/wecom-doc-mcp",
+  "source_url": "https://github.com/Tiansiyu-tj/wecom-doc-mcp",
+  "install": "npx -y wecom-doc-mcp"
+}

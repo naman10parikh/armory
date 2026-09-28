@@ -1,0 +1,7 @@
+{
+  "name": "ml-experiment-tracker-mcp",
+  "description": "Query your MLflow experiments in plain English using Claude Desktop. No dashboards, no SQL — just ask.",
+  "source_repo": "Prateek-Gaurav7296/experiments-mcp",
+  "source_url": "https://github.com/Prateek-Gaurav7296/experiments-mcp",
+  "install": "npx -y experiments-mcp"
+}

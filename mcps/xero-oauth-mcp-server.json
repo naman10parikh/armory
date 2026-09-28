@@ -1,0 +1,7 @@
+{
+  "name": "xero-oauth-mcp-server",
+  "description": "Enables natural language interaction with Xero accounting data, managing contacts, invoices, and accounts across multiple organisations via OAuth2.",
+  "source_repo": "patthewebrat/xero-oauth-mcp-server",
+  "source_url": "https://github.com/patthewebrat/xero-oauth-mcp-server",
+  "install": "npx -y xero-oauth-mcp-server"
+}

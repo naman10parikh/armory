@@ -1,0 +1,7 @@
+{
+  "name": "mcp-on-edge1111",
+  "description": "MCP server deployed on EdgeOne Pages, providing a Streamable HTTP MCP server for intelligent chat applications with tool capabilities like generating webpages.",
+  "source_repo": "HeBeiaa/mcp-on-edge1111",
+  "source_url": "https://github.com/HeBeiaa/mcp-on-edge1111",
+  "install": "# git clone --depth 1 https://github.com/HeBeiaa/mcp-on-edge1111\n# See source for mcpServers config block"
+}

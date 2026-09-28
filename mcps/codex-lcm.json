@@ -1,0 +1,7 @@
+{
+  "name": "codex-lcm",
+  "description": "Enables lossless context management for OpenAI Codex CLI by capturing and compressing conversation history in SQLite, with lexical recall via MCP tools.",
+  "source_repo": "Mallet-Dev/codex-lcm",
+  "source_url": "https://github.com/Mallet-Dev/codex-lcm",
+  "install": "# git clone --depth 1 https://github.com/Mallet-Dev/codex-lcm\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mural-mcp",
+  "description": "MCP server for interacting with Mural's public API, enabling browsing and management of workspaces, rooms, murals, and widgets within Mural.",
+  "source_repo": "alymohamedhassan/mural-mcp",
+  "source_url": "https://github.com/alymohamedhassan/mural-mcp",
+  "install": "npx -y mural-mcp"
+}

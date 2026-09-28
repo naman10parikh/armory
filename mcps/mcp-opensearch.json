@@ -1,0 +1,7 @@
+{
+  "name": "mcp-opensearch",
+  "description": "A read-only MCP server that enables AI assistants to search, aggregate, and explore OpenSearch log data through 12 tools for connectivity, index discovery, search, and aggregations.",
+  "source_repo": "bunnyiesart/mcp-opensearch",
+  "source_url": "https://github.com/bunnyiesart/mcp-opensearch",
+  "install": "# git clone --depth 1 https://github.com/bunnyiesart/mcp-opensearch\n# See source for mcpServers config block"
+}

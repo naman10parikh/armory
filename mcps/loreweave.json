@@ -1,0 +1,7 @@
+{
+  "name": "loreweave",
+  "description": "An MCP server that gives AI agents durable, temporal memory over local markdown vaults, with tools for searching, asserting facts, querying point-in-time state, and reinforcing useful knowledge.",
+  "source_repo": "lets-order-some-fries/loreweave",
+  "source_url": "https://github.com/lets-order-some-fries/loreweave",
+  "install": "# git clone --depth 1 https://github.com/lets-order-some-fries/loreweave\n# See source for mcpServers config block"
+}

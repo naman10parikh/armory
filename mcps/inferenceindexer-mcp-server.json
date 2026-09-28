@@ -1,0 +1,7 @@
+{
+  "name": "inferenceindexer-mcp-server",
+  "description": "Exposes InferenceIndexer's live and historical inference pricing as MCP tools, enabling search of models, providers, price comparisons, and SIT index trends.",
+  "source_repo": "DesMartin01/inferenceindexer-mcp",
+  "source_url": "https://github.com/DesMartin01/inferenceindexer-mcp",
+  "install": "npx -y inferenceindexer-mcp"
+}

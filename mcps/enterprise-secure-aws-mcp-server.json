@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-secure-aws-mcp-server",
+  "description": "Enables secure tool discovery and execution on AWS Lambda with role-based access control, command injection defense, and sensitive data redaction, allowing managed CloudWatch log queries and Terraform operations through a standard MCP interface.",
+  "source_repo": "patelketul1230/aws-mcp-enterprise-server",
+  "source_url": "https://github.com/patelketul1230/aws-mcp-enterprise-server",
+  "install": "# git clone --depth 1 https://github.com/patelketul1230/aws-mcp-enterprise-server\n# See source for mcpServers config block"
+}

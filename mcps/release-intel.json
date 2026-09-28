@@ -1,0 +1,7 @@
+{
+  "name": "release-intel",
+  "description": "An MCP server that generates release intelligence from GitHub repository data, correlating commits, pull requests, issues, and contributors between two git refs to produce structured context for release notes, changelogs, and summaries.",
+  "source_repo": "barissozudogru/release-intel-mcp",
+  "source_url": "https://github.com/barissozudogru/release-intel-mcp",
+  "install": "npx -y release-intel-mcp"
+}

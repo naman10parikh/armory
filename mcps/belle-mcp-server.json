@@ -1,0 +1,7 @@
+{
+  "name": "belle-mcp-server",
+  "description": "A reference Model Context Protocol (MCP) server that exposes real Belle Realty property-management data — properties, tenants, leases, maintenance tickets, rent roll — as tools that Claude Desktop, Cursor, or any MCP-compatible client can call directly.",
+  "source_repo": "OrangeOnyx/belle-mcp-server",
+  "source_url": "https://github.com/OrangeOnyx/belle-mcp-server",
+  "install": "npx -y belle-mcp-server"
+}

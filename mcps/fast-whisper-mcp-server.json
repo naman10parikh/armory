@@ -1,6 +1,6 @@
 {
   "name": "fast-whisper-mcp-server",
-  "description": "Fast Whisper MCP Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "BigUncle/Fast-Whisper-MCP-Server",
   "source_url": "https://mcp.so/server/Fast-Whisper-MCP-Server/BigUncle",
   "install": "npx -y Fast-Whisper-MCP-Server"

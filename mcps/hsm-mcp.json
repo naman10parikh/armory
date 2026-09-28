@@ -1,0 +1,7 @@
+{
+  "name": "hsm-mcp",
+  "description": "Enables querying the Dutch IND public register of recognised sponsors for work/residence permits. Offers tools to search sponsors by name or KvK number and check register status.",
+  "source_repo": "CodeAlanDebug/hsm-mcp",
+  "source_url": "https://github.com/CodeAlanDebug/hsm-mcp",
+  "install": "npx -y hsm-mcp"
+}

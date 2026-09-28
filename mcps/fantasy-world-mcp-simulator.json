@@ -1,0 +1,7 @@
+{
+  "name": "fantasy-world-mcp-simulator",
+  "description": "Generates and evolves fantasy worlds procedurally, simulating centuries of history, geography, and culture from a simple starting event.",
+  "source_repo": "DangerBlack/fantasy-world-mcp",
+  "source_url": "https://github.com/DangerBlack/fantasy-world-mcp",
+  "install": "npx -y fantasy-world-mcp"
+}

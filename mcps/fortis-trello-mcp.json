@@ -1,0 +1,7 @@
+{
+  "name": "fortis-trello-mcp",
+  "description": "Enables natural language management of a Trello board for Fortis robotics, including card creation, moving, blocking, weekly recurring tasks, and more.",
+  "source_repo": "nthankas/fortis-trello-mcp",
+  "source_url": "https://github.com/nthankas/fortis-trello-mcp",
+  "install": "npx -y fortis-trello-mcp"
+}

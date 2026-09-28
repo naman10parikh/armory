@@ -1,0 +1,7 @@
+{
+  "name": "lms-mcp-server",
+  "description": "Enables natural-language querying and control of a Lyrion Music Server, including music library searches, album playback, player controls, and play-history tracking.",
+  "source_repo": "sixeyed/lms-mcp-server",
+  "source_url": "https://github.com/sixeyed/lms-mcp-server",
+  "install": "npx -y lms-mcp-server"
+}

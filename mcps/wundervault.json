@@ -1,0 +1,7 @@
+{
+  "name": "wundervault",
+  "description": "MCP server for Wundervault zero-knowledge secret management. Exposes vault secrets to AI agents via the Model Context Protocol — secrets are decrypted server-side and never returned to the agent in plaintext.",
+  "source_repo": "wundervault/wundervault-mcp",
+  "source_url": "https://github.com/wundervault/wundervault-mcp",
+  "install": "npx -y wundervault-mcp"
+}

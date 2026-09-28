@@ -1,0 +1,7 @@
+{
+  "name": "mcp-vroid",
+  "description": "Enables MCP clients to drive VRoid Studio's GUI by launching the app, capturing screenshots, locating UI elements via OCR/color, and simulating clicks/typing to adjust parameters and export .vrm files.",
+  "source_repo": "nhodges/mcp-vroid",
+  "source_url": "https://github.com/nhodges/mcp-vroid",
+  "install": "# git clone --depth 1 https://github.com/nhodges/mcp-vroid\n# See source for mcpServers config block"
+}

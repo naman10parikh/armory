@@ -1,0 +1,7 @@
+{
+  "name": "localmem",
+  "description": "A local-first, zero-token memory MCP server for AI coding agents, storing memories in SQLite and providing memory_recall and memory_add tools for pull-based retrieval.",
+  "source_repo": "dangchison/localmem",
+  "source_url": "https://github.com/dangchison/localmem",
+  "install": "# git clone --depth 1 https://github.com/dangchison/localmem\n# See source for mcpServers config block"
+}

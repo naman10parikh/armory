@@ -1,0 +1,7 @@
+{
+  "name": "payload-mcp",
+  "description": "Auto-generates MCP tools from Payload CMS 3.0 TypeScript type definitions, providing an HTTP endpoint for LLMs to generate Payload code.",
+  "source_repo": "Govcraft/payload-mcp",
+  "source_url": "https://github.com/Govcraft/payload-mcp",
+  "install": "npx -y payload-mcp"
+}

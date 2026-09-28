@@ -1,0 +1,7 @@
+{
+  "name": "rubrik-sentinel-mcp-tools",
+  "description": "Enables querying Rubrik Security Cloud protection and threat data in Microsoft Sentinel via KQL-based custom MCP tools for backup posture, compliance, anomaly triage, and recovery readiness.",
+  "source_repo": "MitchellGulledge3/rubrik-sentinel-mcp-tools",
+  "source_url": "https://github.com/MitchellGulledge3/rubrik-sentinel-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/MitchellGulledge3/rubrik-sentinel-mcp-tools\n# See source for mcpServers config block"
+}

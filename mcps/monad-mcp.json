@@ -1,0 +1,7 @@
+{
+  "name": "monad-mcp",
+  "description": "MCP server for the Monad blockchain. Provides tools for balances, transfers, swaps, and DeFi with Privy wallet signing.",
+  "source_repo": "pareen/monad-mcp",
+  "source_url": "https://github.com/pareen/monad-mcp",
+  "install": "npx -y monad-mcp"
+}

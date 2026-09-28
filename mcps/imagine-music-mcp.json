@@ -1,0 +1,7 @@
+{
+  "name": "imagine-music-mcp",
+  "description": "Generates music from text prompts via a local ACE Step API, providing tools for music generation, result checking, and listing generations.",
+  "source_repo": "BAWES/universe-imagine-music-mcp",
+  "source_url": "https://github.com/BAWES/universe-imagine-music-mcp",
+  "install": "npx -y universe-imagine-music-mcp"
+}

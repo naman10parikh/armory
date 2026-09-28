@@ -1,0 +1,7 @@
+{
+  "name": "hrizzle-hr-assist",
+  "description": "MCP-based HR automation tool that streamlines employee onboarding, leave management, and equipment requests via natural language conversations.",
+  "source_repo": "inv-fourier-transform/HRizzle-AI-HR-assistant",
+  "source_url": "https://github.com/inv-fourier-transform/HRizzle-AI-HR-assistant",
+  "install": "# git clone --depth 1 https://github.com/inv-fourier-transform/HRizzle-AI-HR-assistant\n# See source for mcpServers config block"
+}

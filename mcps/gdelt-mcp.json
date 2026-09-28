@@ -1,0 +1,7 @@
+{
+  "name": "gdelt-mcp",
+  "description": "A remote, read-only MCP server for global media intelligence using GDELT DOC 2.0 API, enabling search and analysis of multilingual news coverage, tone, and attention trends.",
+  "source_repo": "mjtahir02-alt/GDELT_MCP",
+  "source_url": "https://github.com/mjtahir02-alt/GDELT_MCP",
+  "install": "npx -y GDELT_MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "basic-mcp-calculator-server",
+  "description": "A simple MCP server that provides basic calculator operations such as add, subtract, multiply, and divide.",
+  "source_repo": "Yash-synergy/authentication_mcp",
+  "source_url": "https://github.com/Yash-synergy/authentication_mcp",
+  "install": "npx -y authentication_mcp"
+}

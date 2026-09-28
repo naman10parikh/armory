@@ -1,0 +1,7 @@
+{
+  "name": "slmn-mcp",
+  "description": "Exposes a collection of developer utilities (notebook editing, remote job management, GPU checking, etc.) as MCP tools via a single server.",
+  "source_repo": "drscotthawley/slmn",
+  "source_url": "https://github.com/drscotthawley/slmn",
+  "install": "# git clone --depth 1 https://github.com/drscotthawley/slmn\n# See source for mcpServers config block"
+}

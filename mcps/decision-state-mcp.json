@@ -1,0 +1,7 @@
+{
+  "name": "decision-state-mcp",
+  "description": "A small MCP server that stores and retrieves compact decision-relevant state (goals, constraints, facts, decisions) outside the chat context, enabling easy retrieval for Claude Code or Codex.",
+  "source_repo": "Koolercat/mcp-state",
+  "source_url": "https://github.com/Koolercat/mcp-state",
+  "install": "# git clone --depth 1 https://github.com/Koolercat/mcp-state\n# See source for mcpServers config block"
+}

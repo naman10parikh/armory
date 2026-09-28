@@ -1,0 +1,7 @@
+{
+  "name": "hiberden-mcp",
+  "description": "Read-only access to a local Hiberden backup catalog: list projects, archives, tapes, and jobs, check 3-2-1 coverage, and verify a stored copy by reading it back and re-hashing it. Runs against the catalog on your own machine, so nothing leaves it.",
+  "source_repo": "Agaveis/hiberden-mcp",
+  "source_url": "https://github.com/Agaveis/hiberden-mcp",
+  "install": "npx -y hiberden-mcp"
+}

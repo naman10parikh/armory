@@ -1,0 +1,7 @@
+{
+  "name": "moodle-student-mcp",
+  "description": "Enables read-only querying of Moodle as a student, including courses, assignments, grades, forums, and files, using a personal web services token.",
+  "source_repo": "tcpassos/moodle-student-mcp",
+  "source_url": "https://github.com/tcpassos/moodle-student-mcp",
+  "install": "npx -y moodle-student-mcp"
+}

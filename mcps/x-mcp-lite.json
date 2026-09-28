@@ -1,0 +1,7 @@
+{
+  "name": "x-mcp-lite",
+  "description": "Read-only Twitter API server with bookmark and like management, plus anti-rate-limit protection.",
+  "source_repo": "huakexie/x-mcp-lite",
+  "source_url": "https://github.com/huakexie/x-mcp-lite",
+  "install": "# git clone --depth 1 https://github.com/huakexie/x-mcp-lite\n# See source for mcpServers config block"
+}

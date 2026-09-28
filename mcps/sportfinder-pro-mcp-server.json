@@ -1,0 +1,7 @@
+{
+  "name": "sportfinder-pro-mcp-server",
+  "description": "Enables searching for sports stores with intelligent ranking, filtering, and availability checks across multiple languages.",
+  "source_repo": "FARAONRAMSES333/sportfinder-pro-mcp",
+  "source_url": "https://github.com/FARAONRAMSES333/sportfinder-pro-mcp",
+  "install": "npx -y sportfinder-pro-mcp"
+}

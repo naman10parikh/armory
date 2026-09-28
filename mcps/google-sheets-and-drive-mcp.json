@@ -1,0 +1,7 @@
+{
+  "name": "google-sheets-and-drive-mcp",
+  "description": "Provides tools for reading, modifying, and analyzing Google Sheets, as well as searching and managing Google Drive spreadsheets with access control.",
+  "source_repo": "Runemal/google_sheets_mcp",
+  "source_url": "https://github.com/Runemal/google_sheets_mcp",
+  "install": "npx -y google_sheets_mcp"
+}

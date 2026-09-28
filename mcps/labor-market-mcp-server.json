@@ -1,0 +1,7 @@
+{
+  "name": "labor-market-mcp-server",
+  "description": "Provides access to worldwide labor market data including unemployment, wages, and employment statistics from BLS (US) and Eurostat (EU). Offers tools for comparing countries and sectors, and retrieving occupation outlooks.",
+  "source_repo": "AiAgentKarl/labor-market-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/labor-market-mcp-server",
+  "install": "npx -y labor-market-mcp-server"
+}

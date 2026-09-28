@@ -1,6 +1,6 @@
 {
   "name": "mcp-lambda-layer",
-  "description": "Mcp Lambda Layer MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "markvp/mcp-lambda-layer",
   "source_url": "https://mcp.so/server/mcp-lambda-layer/markvp",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-lambda-layer/markvp\n# See source for mcpServers config block"

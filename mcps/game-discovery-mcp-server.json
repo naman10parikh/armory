@@ -1,0 +1,7 @@
+{
+  "name": "game-discovery-mcp-server",
+  "description": "Discovers and manages installed games on Windows PC from platforms like Steam, Epic Games, GOG, and more. Provides tools to list, get details, and launch games via MCP.",
+  "source_repo": "moonolgerd/game-mcp",
+  "source_url": "https://github.com/moonolgerd/game-mcp",
+  "install": "npx -y game-mcp"
+}

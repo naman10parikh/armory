@@ -1,0 +1,7 @@
+{
+  "name": "casino-kings-mcp-server",
+  "description": "Wraps bitcoincasinokings.com APIs to enable natural language queries for casino data, brand search, and live bonuses.",
+  "source_repo": "affteamgit/casinos-mcp",
+  "source_url": "https://github.com/affteamgit/casinos-mcp",
+  "install": "npx -y casinos-mcp"
+}

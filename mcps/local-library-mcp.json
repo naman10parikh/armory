@@ -1,0 +1,7 @@
+{
+  "name": "local-library-mcp",
+  "description": "Local MCP server that provides verified answers about Jimmer and internal libraries using a SQLite FTS5 knowledge base.",
+  "source_repo": "asimmetria/uvz-local-library-mcp",
+  "source_url": "https://github.com/asimmetria/uvz-local-library-mcp",
+  "install": "npx -y uvz-local-library-mcp"
+}

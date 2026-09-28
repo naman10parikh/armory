@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-teams-mcp-server",
+  "description": "Enables AI agents to interact with Microsoft Teams through Microsoft Graph API, using delegated device-code authentication to act on behalf of the user.",
+  "source_repo": "adkins-amdg/teams-mcp-server",
+  "source_url": "https://github.com/adkins-amdg/teams-mcp-server",
+  "install": "npx -y teams-mcp-server"
+}

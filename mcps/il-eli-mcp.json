@@ -1,0 +1,7 @@
+{
+  "name": "il-eli-mcp",
+  "description": "Enables searching and retrieving metadata of Israeli primary legislation via the Knesset's official OData API, including law names, status, and Basic Law classification.",
+  "source_repo": "matematicsolutions/il-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/il-eli-mcp",
+  "install": "npx -y il-eli-mcp"
+}

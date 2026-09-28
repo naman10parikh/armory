@@ -1,0 +1,7 @@
+{
+  "name": "llm-wiki",
+  "description": "Builds a local, citation-aware wiki from an approved project scope and exposes it as an MCP server with a single read-only tool for agents to explore the wiki.",
+  "source_repo": "TigerOfCountryYao/llm-wiki-mcp",
+  "source_url": "https://github.com/TigerOfCountryYao/llm-wiki-mcp",
+  "install": "npx -y llm-wiki-mcp"
+}

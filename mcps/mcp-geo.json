@@ -1,0 +1,7 @@
+{
+  "name": "mcp-geo",
+  "description": "MCP server exposing Generative Engine Optimization tools to any AI agent, enabling checking of llms.txt, auditing robots.txt for AI crawlers, and validating JSON-LD schema.",
+  "source_repo": "josezuma/mcp-geo",
+  "source_url": "https://github.com/josezuma/mcp-geo",
+  "install": "# git clone --depth 1 https://github.com/josezuma/mcp-geo\n# See source for mcpServers config block"
+}

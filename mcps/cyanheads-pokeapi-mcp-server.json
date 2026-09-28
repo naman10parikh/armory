@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-pokeapi-mcp-server",
+  "description": "Look up Pokémon, moves, abilities, items, natures, and type matchups from PokéAPI v2 via MCP. Supports STDIO or Streamable HTTP.",
+  "source_repo": "cyanheads/pokeapi-mcp-server",
+  "source_url": "https://github.com/cyanheads/pokeapi-mcp-server",
+  "install": "npx -y pokeapi-mcp-server"
+}

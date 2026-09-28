@@ -1,0 +1,7 @@
+{
+  "name": "usap-skills",
+  "description": "Exposes 79 cybersecurity skills and 12 orchestrator agents over MCP, with a typed 11-field output contract, an enforced resolvable-evidence gate (no verdict without a resolvable source), and human-approval gating for every mutating action. Apache-2.0, stdlib-only.",
+  "source_repo": "jaskaranhundal/usap-skills",
+  "source_url": "https://github.com/jaskaranhundal/usap-skills",
+  "install": "# git clone --depth 1 https://github.com/jaskaranhundal/usap-skills\n# See source for mcpServers config block"
+}

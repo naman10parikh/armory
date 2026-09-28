@@ -1,0 +1,7 @@
+{
+  "name": "archival-imagery-mcp",
+  "description": "An MCP server for browsing and downloading open-licensed imagery from major museum and archive APIs including Wellcome, Met, Library of Congress, Smithsonian, and Europeana.",
+  "source_repo": "chandhoke/archival-imagery-mcp",
+  "source_url": "https://github.com/chandhoke/archival-imagery-mcp",
+  "install": "npx -y archival-imagery-mcp"
+}

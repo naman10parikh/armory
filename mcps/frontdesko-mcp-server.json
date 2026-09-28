@@ -1,0 +1,7 @@
+{
+  "name": "frontdesko-mcp-server",
+  "description": "Enables AI assistants to answer hoteliers' questions about pricing plans, PMS comparisons, OTA commission savings, documentation search, and live demo availability, all grounded in FrontDesko's published pages with source URLs.",
+  "source_repo": "anmols/frontdesko-mcp",
+  "source_url": "https://github.com/anmols/frontdesko-mcp",
+  "install": "npx -y frontdesko-mcp"
+}

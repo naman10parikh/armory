@@ -1,0 +1,7 @@
+{
+  "name": "parallelix-mcp",
+  "description": "MCP server for the ParalleliX Compute API that lets you offload parallel inference tasks (bulk classify, extract, summarize, etc.) to a distributed network of open-source models.",
+  "source_repo": "parallelixnetwork/parallelix-mcp",
+  "source_url": "https://github.com/parallelixnetwork/parallelix-mcp",
+  "install": "npx -y parallelix-mcp"
+}

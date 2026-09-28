@@ -1,0 +1,7 @@
+{
+  "name": "mcp-europeana",
+  "description": "Enables searching and retrieving records from the Europeana digital collection, including metadata such as titles, creators, dates, and images, via two MCP tools: search and record.",
+  "source_repo": "pipeworx-io/mcp-europeana",
+  "source_url": "https://github.com/pipeworx-io/mcp-europeana",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-europeana\n# See source for mcpServers config block"
+}

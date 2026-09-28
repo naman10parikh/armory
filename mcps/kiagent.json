@@ -1,0 +1,7 @@
+{
+  "name": "kiagent",
+  "description": "Personal digital memory: a desktop app that indexes your mail, chats, and documents into a local SQLite corpus on your machine — parsing and OCR run on-device via llama.cpp — and serves them to any MCP client. Local server on 127.0.0.1, plus an optional per-user remote endpoint (you.localkiagent.com",
+  "source_repo": "edjafarov/kiagent-core",
+  "source_url": "https://github.com/edjafarov/kiagent-core",
+  "install": "# git clone --depth 1 https://github.com/edjafarov/kiagent-core\n# See source for mcpServers config block"
+}

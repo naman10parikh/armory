@@ -1,0 +1,7 @@
+{
+  "name": "ruddur-mcp-server",
+  "description": "An MCP server that enables natural language interaction with the Ruddur creator API, supporting content management tasks like creating headings and waypoints, with OAuth for hosted deployments and token-based local stdio mode.",
+  "source_repo": "chadsly/ruddur-mcp",
+  "source_url": "https://github.com/chadsly/ruddur-mcp",
+  "install": "npx -y ruddur-mcp"
+}

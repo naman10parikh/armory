@@ -1,0 +1,7 @@
+{
+  "name": "qector-claude-plugin",
+  "description": "QECTOR Quantum Error Correction: High-performance, mathematically verified local QEC engineering environment for Claude Code and Claude Desktop.",
+  "source_repo": "GuillaumeLessard/qector-claude-plugin",
+  "source_url": "https://github.com/GuillaumeLessard/qector-claude-plugin",
+  "install": "# git clone --depth 1 https://github.com/GuillaumeLessard/qector-claude-plugin\n# See source for mcpServers config block"
+}

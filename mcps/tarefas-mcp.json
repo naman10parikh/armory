@@ -1,0 +1,7 @@
+{
+  "name": "tarefas-mcp",
+  "description": "An MCP server that provides tools to create and list tasks by calling a REST API.",
+  "source_repo": "primodeckers/exercicio-4.2-mcp-server",
+  "source_url": "https://github.com/primodeckers/exercicio-4.2-mcp-server",
+  "install": "npx -y exercicio-4.2-mcp-server"
+}

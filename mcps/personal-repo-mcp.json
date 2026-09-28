@@ -1,0 +1,7 @@
+{
+  "name": "personal-repo-mcp",
+  "description": "Enables AI agents to work with administrator-approved Git repositories on a self-hosted VPS, supporting cloning, file edits, and full Git operations within persistent workspaces.",
+  "source_repo": "jsilvanus/personal-repo-mcp",
+  "source_url": "https://github.com/jsilvanus/personal-repo-mcp",
+  "install": "npx -y personal-repo-mcp"
+}

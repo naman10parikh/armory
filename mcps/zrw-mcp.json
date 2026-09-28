@@ -1,0 +1,7 @@
+{
+  "name": "zrw-mcp",
+  "description": "MCP server for Zero Range Wave Compression, enabling efficient compression and decompression of integer sequences with record-breaking performance.",
+  "source_repo": "ceedot-rock/zero-range-wave-compression",
+  "source_url": "https://github.com/ceedot-rock/zero-range-wave-compression",
+  "install": "# git clone --depth 1 https://github.com/ceedot-rock/zero-range-wave-compression\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "line-context-relay",
+  "description": "A read-only MCP server that connects ChatGPT/Codex to LINE Desktop's local encrypted database to provide private conversation advice without sending messages.",
+  "source_repo": "LEO0047/line-chat-advisor-mcp-ai-assistant",
+  "source_url": "https://github.com/LEO0047/line-chat-advisor-mcp-ai-assistant",
+  "install": "# git clone --depth 1 https://github.com/LEO0047/line-chat-advisor-mcp-ai-assistant\n# See source for mcpServers config block"
+}

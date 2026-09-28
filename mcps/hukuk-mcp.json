@@ -1,0 +1,7 @@
+{
+  "name": "hukuk-mcp",
+  "description": "MCP server for searching Turkish legal texts using ChromaDB, with PDF indexing and Claude Desktop support.",
+  "source_repo": "avkaanaydin/hukuk-mcp",
+  "source_url": "https://github.com/avkaanaydin/hukuk-mcp",
+  "install": "npx -y hukuk-mcp"
+}

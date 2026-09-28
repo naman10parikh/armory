@@ -1,0 +1,7 @@
+{
+  "name": "mimo-vision-mcp",
+  "description": "An image recognition MCP server based on mimo-v2.5, enabling AI assistants to describe images, extract text via OCR, and output structured information in JSON or table format.",
+  "source_repo": "k0tori/mimo-vision-mcp",
+  "source_url": "https://github.com/k0tori/mimo-vision-mcp",
+  "install": "npx -y mimo-vision-mcp"
+}

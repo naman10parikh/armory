@@ -1,0 +1,7 @@
+{
+  "name": "vesktopclaudebridge",
+  "description": "MCP server that lets Claude Code read Discord messages, attachments, and history directly from the Equicord/Vencord client over a local WebSocket, without screenshots or copy-paste. Exposes tools for current view, marked messages, history, attachments, and link resolution.",
+  "source_repo": "dataterminals/VesktopClaudeBridge",
+  "source_url": "https://github.com/dataterminals/VesktopClaudeBridge",
+  "install": "# git clone --depth 1 https://github.com/dataterminals/VesktopClaudeBridge\n# See source for mcpServers config block"
+}

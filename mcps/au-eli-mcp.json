@@ -1,0 +1,7 @@
+{
+  "name": "au-eli-mcp",
+  "description": "MCP server for Australia's Federal Register of Legislation. Enables searching and fetching Commonwealth Acts with verifiable citations.",
+  "source_repo": "matematicsolutions/au-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/au-eli-mcp",
+  "install": "npx -y au-eli-mcp"
+}

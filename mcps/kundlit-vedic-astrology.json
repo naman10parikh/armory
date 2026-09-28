@@ -1,0 +1,7 @@
+{
+  "name": "kundlit-vedic-astrology",
+  "description": "Hosted Streamable HTTP MCP server for Vedic astrology: panchang, kundali (birth chart), matchmaking, dashas, doshas, muhurta and 16 tools computed by a precision astronomy engine.",
+  "source_repo": "puru991/kundlit-mcp",
+  "source_url": "https://github.com/puru991/kundlit-mcp",
+  "install": "npx -y kundlit-mcp"
+}

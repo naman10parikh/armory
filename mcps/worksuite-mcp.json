@@ -1,0 +1,7 @@
+{
+  "name": "worksuite-mcp",
+  "description": "Connects AI assistants to Google Workspace (Gmail, Drive, Docs, Sheets, Slides, Calendar, Tasks, Forms, Chat, Contacts) through your own OAuth app, providing around 120 tools for managing email, files, calendar, and more.",
+  "source_repo": "chadvdwww-hash/worksuite-mcp",
+  "source_url": "https://github.com/chadvdwww-hash/worksuite-mcp",
+  "install": "npx -y worksuite-mcp"
+}

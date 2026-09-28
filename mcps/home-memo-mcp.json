@@ -1,0 +1,7 @@
+{
+  "name": "home-memo-mcp",
+  "description": "Enables searching personal knowledge notes stored in markdown files via MCP, using Cloudflare AI Search for RAG and secured with Cloudflare Access.",
+  "source_repo": "Koutaro-Hanabusa/home-memo-mcp",
+  "source_url": "https://github.com/Koutaro-Hanabusa/home-memo-mcp",
+  "install": "npx -y home-memo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cert-atlas",
+  "description": "MCP server over the open index of 1,562 certification exam blueprints across 217 certifying bodies. Search exams, pull full blueprints (domains & weights, passing scores, prerequisites, renewal), and compare certifications. Read-only, public data, no API key.",
+  "source_repo": "hans6883/cert-atlas",
+  "source_url": "https://github.com/hans6883/cert-atlas",
+  "install": "# git clone --depth 1 https://github.com/hans6883/cert-atlas\n# See source for mcpServers config block"
+}

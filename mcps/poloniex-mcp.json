@@ -1,0 +1,7 @@
+{
+  "name": "poloniex-mcp",
+  "description": "A local MCP server that exposes the Poloniex spot exchange to MCP clients, providing market data tools (ticker, order book) and authenticated account balance queries.",
+  "source_repo": "salleh/poloniex-mcp",
+  "source_url": "https://github.com/salleh/poloniex-mcp",
+  "install": "npx -y poloniex-mcp"
+}

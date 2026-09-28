@@ -1,0 +1,7 @@
+{
+  "name": "verisom",
+  "description": "Scores contract safety for Somnia Agents using on-chain analysis, RAG, and a VeriSom contract, returning a pre-interaction safety score.",
+  "source_repo": "anoop04singh/verisom",
+  "source_url": "https://github.com/anoop04singh/verisom",
+  "install": "# git clone --depth 1 https://github.com/anoop04singh/verisom\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "battery-mcp",
+  "description": "Enables LLMs to verify the novelty and validity of invented battery materials, with support for searching and validating against a materials database.",
+  "source_repo": "janhq/material-project-mcp",
+  "source_url": "https://github.com/janhq/material-project-mcp",
+  "install": "npx -y material-project-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uktrains",
+  "description": "MCP server for UK train journeys that resolves station names, builds journey intents, and generates pre-filled booking links, with optional fare-aware ranking.",
+  "source_repo": "aaryan-gulia/uktrains",
+  "source_url": "https://github.com/aaryan-gulia/uktrains",
+  "install": "# git clone --depth 1 https://github.com/aaryan-gulia/uktrains\n# See source for mcpServers config block"
+}

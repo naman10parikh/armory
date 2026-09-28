@@ -1,0 +1,7 @@
+{
+  "name": "spotify-mcp",
+  "description": "MCP server to control Spotify conversationally from Claude, Cursor, and other AI clients.",
+  "source_repo": "XavierFabregat/spotify-mcp",
+  "source_url": "https://github.com/XavierFabregat/spotify-mcp",
+  "install": "npx -y spotify-mcp"
+}

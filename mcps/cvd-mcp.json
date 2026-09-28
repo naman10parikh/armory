@@ -1,0 +1,7 @@
+{
+  "name": "cvd-mcp",
+  "description": "An MCP server that enforces context validity declarations, ensuring agents refuse stale context with a disclosure naming the accountable steward instead of answering confidently with outdated information.",
+  "source_repo": "kefreen/cvd-mcp",
+  "source_url": "https://github.com/kefreen/cvd-mcp",
+  "install": "npx -y cvd-mcp"
+}

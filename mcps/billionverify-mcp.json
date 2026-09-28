@@ -1,0 +1,7 @@
+{
+  "name": "billionverify-mcp",
+  "description": "Connects AI assistants to BillionVerify email verification via the Model Context Protocol, supporting single and batch email verification, account balance checks, and webhook management.",
+  "source_repo": "BillionVerify/billionverify-mcp",
+  "source_url": "https://github.com/BillionVerify/billionverify-mcp",
+  "install": "npx -y billionverify-mcp"
+}

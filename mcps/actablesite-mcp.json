@@ -1,0 +1,7 @@
+{
+  "name": "actablesite-mcp",
+  "description": "Audits public websites for AI crawler access, public technical signals, and deployment readiness. Includes a focused path to the full readiness report when deeper remediation guidance is needed.",
+  "source_repo": "unitedideas/actablesite-mcp",
+  "source_url": "https://github.com/unitedideas/actablesite-mcp",
+  "install": "npx -y actablesite-mcp"
+}

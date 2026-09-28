@@ -1,0 +1,7 @@
+{
+  "name": "web3-career-mcp-server",
+  "description": "Enables AI agents to search and filter Web3 job listings from web3.career, supporting parameters like remote, country, tag, and limit.",
+  "source_repo": "pcmarts/Web3-career-mcp",
+  "source_url": "https://github.com/pcmarts/Web3-career-mcp",
+  "install": "npx -y Web3-career-mcp"
+}

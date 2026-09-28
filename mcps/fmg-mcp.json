@@ -1,0 +1,7 @@
+{
+  "name": "fmg-mcp",
+  "description": "MCP server that drives Azgaar's Fantasy Map Generator in a real browser via Playwright, enabling map generation, inspection, and exporting screenshots/SVG/JSON through natural language.",
+  "source_repo": "rashestbread691/fmg-mcp",
+  "source_url": "https://github.com/rashestbread691/fmg-mcp",
+  "install": "npx -y fmg-mcp"
+}

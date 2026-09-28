@@ -1,0 +1,7 @@
+{
+  "name": "nornweave",
+  "description": "Open-source, self-hosted Inbox-as-a-Service API for AI agents. It enables agents to manage email inboxes, send/receive emails, search messages, and wait for replies via REST or MCP.",
+  "source_repo": "DataCovey/nornweave",
+  "source_url": "https://github.com/DataCovey/nornweave",
+  "install": "# git clone --depth 1 https://github.com/DataCovey/nornweave\n# See source for mcpServers config block"
+}

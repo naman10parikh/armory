@@ -1,0 +1,7 @@
+{
+  "name": "beel-mcp-server",
+  "description": "Enables AI agents to issue, correct, and register legally compliant Spanish electronic invoices with AEAT VeriFactu, supporting F1/F2 types, R1–R5 correctives, and NIF validation from Claude, ChatGPT, Cursor, or VS Code.",
+  "source_repo": "beel-es/beel-mcp",
+  "source_url": "https://github.com/beel-es/beel-mcp",
+  "install": "npx -y beel-mcp"
+}

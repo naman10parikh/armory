@@ -1,0 +1,7 @@
+{
+  "name": "postfader",
+  "description": "Postfader is an AI copilot for FL Studio. It lets MCP clients inspect running projects, measure bounces, and make verified mixer and plug-in changes on macOS.",
+  "source_repo": "synopsys0/postfader-fl-studio-mcp",
+  "source_url": "https://github.com/synopsys0/postfader-fl-studio-mcp",
+  "install": "npx -y postfader-fl-studio-mcp"
+}

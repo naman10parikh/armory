@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-memory-mcp",
+  "description": "Provides a per-project memory layer with plain notes, semantic vector recall, and a knowledge graph, all hosted on Cloudflare's free tier. It includes a web dashboard for browsing projects and deleting them.",
+  "source_repo": "ady133t/Cloudflare-Memory-Mcp",
+  "source_url": "https://github.com/ady133t/Cloudflare-Memory-Mcp",
+  "install": "npx -y Cloudflare-Memory-Mcp"
+}

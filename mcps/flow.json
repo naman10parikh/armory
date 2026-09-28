@@ -1,0 +1,7 @@
+{
+  "name": "flow",
+  "description": "Agent-first project management MCP server that enables AI agents to manage tasks, spaces, lists, boards, subtasks, comments, and automations via natural language, with full audit trail and real-time sync.",
+  "source_repo": "joelborch/flow",
+  "source_url": "https://github.com/joelborch/flow",
+  "install": "# git clone --depth 1 https://github.com/joelborch/flow\n# See source for mcpServers config block"
+}

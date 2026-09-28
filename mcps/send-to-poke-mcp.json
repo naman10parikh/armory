@@ -1,0 +1,7 @@
+{
+  "name": "send-to-poke-mcp",
+  "description": "Minimal MCP server for sending messages to Poke via the inbound webhook.",
+  "source_repo": "konarkm/send-to-poke-mcp",
+  "source_url": "https://github.com/konarkm/send-to-poke-mcp",
+  "install": "npx -y send-to-poke-mcp"
+}

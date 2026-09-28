@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-dalux",
+  "description": "MCP server for the Dalux Build API, enabling read and write access to Dalux Field and Box data including projects, tasks, files, and more.",
+  "source_repo": "borgels/mcp-server-dalux",
+  "source_url": "https://github.com/borgels/mcp-server-dalux",
+  "install": "# git clone --depth 1 https://github.com/borgels/mcp-server-dalux\n# See source for mcpServers config block"
+}

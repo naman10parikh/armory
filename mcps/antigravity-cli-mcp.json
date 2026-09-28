@@ -1,0 +1,7 @@
+{
+  "name": "antigravity-cli-mcp",
+  "description": "MCP server wrapping the agy CLI, enabling querying, web search, and file writing through tools like ask-agy, search-web, and write-file.",
+  "source_repo": "nadimtuhin/antigravity-cli-mcp",
+  "source_url": "https://github.com/nadimtuhin/antigravity-cli-mcp",
+  "install": "npx -y antigravity-cli-mcp"
+}

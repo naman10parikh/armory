@@ -1,0 +1,7 @@
+{
+  "name": "ig-integration-mcp",
+  "description": "MCP server for IG's REST Trading API and Lightstreamer streaming API. Provides tools for accounts, markets, positions, orders, watchlists, sentiment, OTC trades, and streaming price/account/trade/chart data.",
+  "source_repo": "MarkHorwell/ig-integration-mcp-simple",
+  "source_url": "https://github.com/MarkHorwell/ig-integration-mcp-simple",
+  "install": "# git clone --depth 1 https://github.com/MarkHorwell/ig-integration-mcp-simple\n# See source for mcpServers config block"
+}

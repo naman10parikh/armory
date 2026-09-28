@@ -1,0 +1,7 @@
+{
+  "name": "context-lens",
+  "description": "An MCP server that enables semantic search over local files or GitHub repositories by indexing content into a serverless vector database, allowing AI assistants to understand meaning rather than just keywords.",
+  "source_repo": "cornelcroi/context-lens",
+  "source_url": "https://github.com/cornelcroi/context-lens",
+  "install": "# git clone --depth 1 https://github.com/cornelcroi/context-lens\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-ma-certid-o-de-d-vida-ativa",
+  "description": "Consulta certidões de dívida ativa da SEFAZ-MA em fonte oficial, com uma ferramenta somente leitura e pagamento por uso.",
+  "source_repo": "mcp-dir/sefaz_ma_certidao_divida_ativa-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_ma_certidao_divida_ativa-mcp",
+  "install": "npx -y sefaz_ma_certidao_divida_ativa-mcp"
+}

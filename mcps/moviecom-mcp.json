@@ -1,0 +1,7 @@
+{
+  "name": "moviecom-mcp",
+  "description": "MCP server for querying movie schedules and seat availability from Moviecom.",
+  "source_repo": "Santosl2/moviecom-mcp",
+  "source_url": "https://github.com/Santosl2/moviecom-mcp",
+  "install": "npx -y moviecom-mcp"
+}

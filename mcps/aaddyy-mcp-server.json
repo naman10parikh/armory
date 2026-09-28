@@ -1,0 +1,7 @@
+{
+  "name": "aaddyy-mcp-server",
+  "description": "Enables AI agents to use over 100 AI tools for tasks like content generation, image creation, video generation, and problem solving via the AADDYY API.",
+  "source_repo": "nandanv99/aaddyy-mcp",
+  "source_url": "https://github.com/nandanv99/aaddyy-mcp",
+  "install": "npx -y aaddyy-mcp"
+}

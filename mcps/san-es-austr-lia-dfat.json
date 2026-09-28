@@ -1,0 +1,7 @@
+{
+  "name": "san-es-austr-lia-dfat",
+  "description": "MCP server to check names against Australia's DFAT sanctions list for compliance and AML due diligence.",
+  "source_repo": "mcp-dir/sancoes_australia-mcp",
+  "source_url": "https://github.com/mcp-dir/sancoes_australia-mcp",
+  "install": "npx -y sancoes_australia-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "similaridade-br-mcp",
+  "description": "MCP server that compares Brazilian identity data (CPF, name, birth, address) and returns a similarity score against official records, enabling identity verification through natural language.",
+  "source_repo": "mcp-dir/similaridade_br-mcp",
+  "source_url": "https://github.com/mcp-dir/similaridade_br-mcp",
+  "install": "npx -y similaridade_br-mcp"
+}

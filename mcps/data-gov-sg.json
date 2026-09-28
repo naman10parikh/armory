@@ -1,0 +1,7 @@
+{
+  "name": "data-gov-sg",
+  "description": "Enables access to Singapore government open data and real-time environment/transport feeds including weather, air quality, taxi availability, and traffic incidents.",
+  "source_repo": "pipeworx-io/mcp-data-gov-sg",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-gov-sg",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-gov-sg\n# See source for mcpServers config block"
+}

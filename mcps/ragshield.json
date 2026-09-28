@@ -1,0 +1,7 @@
+{
+  "name": "ragshield",
+  "description": "RAG corpus poisoning detector that scans for embedding anomalies and backdoor triggers, with an MCP server for AI agent integration.",
+  "source_repo": "cognis-digital/ragshield",
+  "source_url": "https://github.com/cognis-digital/ragshield",
+  "install": "# git clone --depth 1 https://github.com/cognis-digital/ragshield\n# See source for mcpServers config block"
+}

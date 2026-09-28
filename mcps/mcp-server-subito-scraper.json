@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-subito-scraper",
+  "description": "Enables searching and scraping Subito.it classified ads via Apify, with support for categories, regions, price filters, and direct URL scraping.",
+  "source_repo": "pindaroli/mcp-server-subito-scraper",
+  "source_url": "https://github.com/pindaroli/mcp-server-subito-scraper",
+  "install": "# git clone --depth 1 https://github.com/pindaroli/mcp-server-subito-scraper\n# See source for mcpServers config block"
+}

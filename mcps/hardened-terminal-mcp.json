@@ -1,0 +1,7 @@
+{
+  "name": "hardened-terminal-mcp",
+  "description": "Security-hardened MCP server that runs only allowlisted commands with no shell, jailed to a single directory, and bounded execution.",
+  "source_repo": "Asaad-Suliman/hardened-terminal-mcp",
+  "source_url": "https://github.com/Asaad-Suliman/hardened-terminal-mcp",
+  "install": "npx -y hardened-terminal-mcp"
+}

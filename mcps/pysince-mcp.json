@@ -1,0 +1,7 @@
+{
+  "name": "pysince-mcp",
+  "description": "Provides tools for tracking file reads and staleness, enabling LLM agents to detect when files have changed between turns for improved context awareness.",
+  "source_repo": "LNSHRIVAS/since",
+  "source_url": "https://github.com/LNSHRIVAS/since",
+  "install": "# git clone --depth 1 https://github.com/LNSHRIVAS/since\n# See source for mcpServers config block"
+}

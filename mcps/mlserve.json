@@ -1,0 +1,7 @@
+{
+  "name": "mlserve",
+  "description": "Self-hosted ML inference MCP server providing embeddings and summarization tools using sentence-transformers and Ollama, with low-latency preloaded models and API-key authentication.",
+  "source_repo": "prjha-ds/ds-ml-mcp-service",
+  "source_url": "https://github.com/prjha-ds/ds-ml-mcp-service",
+  "install": "# git clone --depth 1 https://github.com/prjha-ds/ds-ml-mcp-service\n# See source for mcpServers config block"
+}

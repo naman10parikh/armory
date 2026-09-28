@@ -1,0 +1,7 @@
+{
+  "name": "subway-mcp",
+  "description": "실시간 수원역 지하철 도착정보를 조회하는 MCP 서버로, 1호선과 수인분당선의 도착정보를 제공합니다.",
+  "source_repo": "Sungsanmerrygoround/subway-mcp",
+  "source_url": "https://github.com/Sungsanmerrygoround/subway-mcp",
+  "install": "npx -y subway-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "identity-aware-mcp-server-with-azure-cosmos-db",
+  "description": "A Python MCP server that authenticates users via Microsoft Entra ID, stores per-user data in Azure Cosmos DB, and provides admin tools based on Entra group membership.",
+  "source_repo": "pamelafox/azure-cosmosdb-identity-aware-mcp-server",
+  "source_url": "https://github.com/pamelafox/azure-cosmosdb-identity-aware-mcp-server",
+  "install": "npx -y azure-cosmosdb-identity-aware-mcp-server"
+}

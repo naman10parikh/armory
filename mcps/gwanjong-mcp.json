@@ -1,0 +1,7 @@
+{
+  "name": "gwanjong-mcp",
+  "description": "Campaign-driven social engagement MCP server for authentic developer community interaction (Dev.to, Bluesky, Twitter, Reddit) with a streamlined scout-draft-strike pipeline minimizing LLM round trips.",
+  "source_repo": "SonAIengine/gwanjong-mcp",
+  "source_url": "https://github.com/SonAIengine/gwanjong-mcp",
+  "install": "npx -y gwanjong-mcp"
+}

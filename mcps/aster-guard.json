@@ -1,0 +1,7 @@
+{
+  "name": "aster-guard",
+  "description": "Enables scanning MCP server configurations for security risks like prompt injection, hardcoded secrets, and dangerous commands, providing risk scores and detailed reports before connecting to an AI coding assistant.",
+  "source_repo": "jimiaki7/aster-guard",
+  "source_url": "https://github.com/jimiaki7/aster-guard",
+  "install": "# git clone --depth 1 https://github.com/jimiaki7/aster-guard\n# See source for mcpServers config block"
+}

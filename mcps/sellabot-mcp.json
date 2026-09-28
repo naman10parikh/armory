@@ -1,0 +1,7 @@
+{
+  "name": "sellabot-mcp",
+  "description": "An MCP server that exposes marketplace seller operations (Shopee first) as tools Claude can call, enabling automation of product, pricing, inventory, customer service, and other seller tasks.",
+  "source_repo": "RextonWong/sellabot-mcp",
+  "source_url": "https://github.com/RextonWong/sellabot-mcp",
+  "install": "npx -y sellabot-mcp"
+}

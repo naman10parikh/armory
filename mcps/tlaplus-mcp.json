@@ -1,0 +1,7 @@
+{
+  "name": "tlaplus-mcp",
+  "description": "Exposes the TLA+ toolchain (TLC, SANY, PlusCal, TLATeX) as structured JSON tools via the Model Context Protocol, enabling AI assistants to parse, check, simulate, and typeset TLA+ specifications.",
+  "source_repo": "richashworth/tlaplus-mcp",
+  "source_url": "https://github.com/richashworth/tlaplus-mcp",
+  "install": "npx -y tlaplus-mcp"
+}

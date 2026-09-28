@@ -1,0 +1,7 @@
+{
+  "name": "voxpilot-mcp-server",
+  "description": "A production-ready remote MCP server for the VoxPilot AI SaaS platform, providing 15 tool groups for restaurant orders, messaging, POS, calendars, customer memory, QA, and handoff.",
+  "source_repo": "nehilor/voxpilot-mcp-server",
+  "source_url": "https://github.com/nehilor/voxpilot-mcp-server",
+  "install": "npx -y voxpilot-mcp-server"
+}

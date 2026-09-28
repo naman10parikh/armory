@@ -1,0 +1,7 @@
+{
+  "name": "openbrowser-2",
+  "description": "An enhanced MCP Playwright browser server that enables robust web automation with persistent locator caching, multi-level click fallbacks, accessibility tree interactions, and smart handling of navigation and popups.",
+  "source_repo": "SangoAlgo/openbrowser",
+  "source_url": "https://github.com/SangoAlgo/openbrowser",
+  "install": "# git clone --depth 1 https://github.com/SangoAlgo/openbrowser\n# See source for mcpServers config block"
+}

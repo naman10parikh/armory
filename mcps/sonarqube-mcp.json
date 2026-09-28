@@ -1,0 +1,7 @@
+{
+  "name": "sonarqube-mcp",
+  "description": "MCP server that exposes SonarQube data as AI agent tools, enabling project discovery, quality gates, measures, issues, hotspots, rule explanations, source code, and raw API access.",
+  "source_repo": "metalralf/sonarqube-mcp",
+  "source_url": "https://github.com/metalralf/sonarqube-mcp",
+  "install": "npx -y sonarqube-mcp"
+}

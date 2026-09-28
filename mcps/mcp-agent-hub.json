@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent-hub",
+  "description": "A local message broker for AI CLI agents, enabling multiple agent sessions to communicate, send tasks, and share results through a single HTTP endpoint.",
+  "source_repo": "avdiam/mcp-agent-hub",
+  "source_url": "https://github.com/avdiam/mcp-agent-hub",
+  "install": "# git clone --depth 1 https://github.com/avdiam/mcp-agent-hub\n# See source for mcpServers config block"
+}

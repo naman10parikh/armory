@@ -1,0 +1,7 @@
+{
+  "name": "speaktome-mcp",
+  "description": "A local MCP server for Linux that records microphone audio and returns transcripts using local faster-whisper transcription.",
+  "source_repo": "alma3lol/SpeakToMeMCP",
+  "source_url": "https://github.com/alma3lol/SpeakToMeMCP",
+  "install": "# git clone --depth 1 https://github.com/alma3lol/SpeakToMeMCP\n# See source for mcpServers config block"
+}

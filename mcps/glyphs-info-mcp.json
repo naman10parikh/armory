@@ -1,0 +1,7 @@
+{
+  "name": "glyphs-info-mcp",
+  "description": "A unified MCP server for Glyphs font design software, integrating handbook queries and API reference lookups. Enables searching documentation, managing plugins, and accessing development templates through Claude.",
+  "source_repo": "yintzuyuan/glyphs-info-mcp",
+  "source_url": "https://github.com/yintzuyuan/glyphs-info-mcp",
+  "install": "npx -y glyphs-info-mcp"
+}

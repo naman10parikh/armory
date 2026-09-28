@@ -1,0 +1,7 @@
+{
+  "name": "seo-factory-mcp",
+  "description": "MCP server for SEO content factory and blog growth cycle, enabling content publishing with validation, interlinking, search query mining, and content audits.",
+  "source_repo": "skiddgoddamn/seo-factory-mcp",
+  "source_url": "https://github.com/skiddgoddamn/seo-factory-mcp",
+  "install": "npx -y seo-factory-mcp"
+}

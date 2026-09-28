@@ -1,0 +1,7 @@
+{
+  "name": "pen-editor",
+  "description": "Provides MCP tools to read and edit live Pen Editor documents, including structure, layout, variables, screenshots, and batch design DSL, plus static guidelines and style guides.",
+  "source_repo": "dan-rozhkov/pen-editor-plugin",
+  "source_url": "https://github.com/dan-rozhkov/pen-editor-plugin",
+  "install": "# git clone --depth 1 https://github.com/dan-rozhkov/pen-editor-plugin\n# See source for mcpServers config block"
+}

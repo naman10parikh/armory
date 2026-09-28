@@ -1,0 +1,7 @@
+{
+  "name": "mcp-veggie",
+  "description": "Enables tracking of weekly vegetable box deliveries, translating Danish produce names, providing USDA-sourced freshness data, generating zero-waste recipes, and alerting on expiring items.",
+  "source_repo": "lovettbarron/mcp-veggiebox",
+  "source_url": "https://github.com/lovettbarron/mcp-veggiebox",
+  "install": "# git clone --depth 1 https://github.com/lovettbarron/mcp-veggiebox\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dense-mem",
+  "description": "About Self-hosted AI agent memory server with MCP, evidence provenance, typed claims, conflict detection, embeddings, recall, PostgreSQL, and Neo4j.",
+  "source_repo": "markhuangai/dense-mem",
+  "source_url": "https://github.com/markhuangai/dense-mem",
+  "install": "# git clone --depth 1 https://github.com/markhuangai/dense-mem\n# See source for mcpServers config block"
+}

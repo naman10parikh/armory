@@ -1,0 +1,7 @@
+{
+  "name": "safe-fix-mcp",
+  "description": "Enables scanning Python repos for dead code and automatically drafting a branch + PR for the safe subset (unused single-name imports) after running the repo's full test suite. All other findings are reported without modification, and a human always merges.",
+  "source_repo": "pamela-0/safe-fix-mcp",
+  "source_url": "https://github.com/pamela-0/safe-fix-mcp",
+  "install": "npx -y safe-fix-mcp"
+}

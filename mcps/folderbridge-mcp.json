@@ -1,0 +1,7 @@
+{
+  "name": "folderbridge-mcp",
+  "description": "Enables AI clients to inspect and carefully edit a bounded local workspace via stdio, with a read-only default, conflict-safe updates, and no network listener or telemetry.",
+  "source_repo": "MoonTzai/folderbridge-mcp",
+  "source_url": "https://github.com/MoonTzai/folderbridge-mcp",
+  "install": "npx -y folderbridge-mcp"
+}

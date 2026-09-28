@@ -1,0 +1,7 @@
+{
+  "name": "appwrite-security-mcp",
+  "description": "MCP server for Appwrite security audits that scans permissions and provides structured fix proposals, with active live leak confirmation via anonymous fetch.",
+  "source_repo": "Perufitlife/appwrite-security-mcp",
+  "source_url": "https://github.com/Perufitlife/appwrite-security-mcp",
+  "install": "npx -y appwrite-security-mcp"
+}

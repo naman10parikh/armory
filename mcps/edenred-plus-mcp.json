@@ -1,0 +1,7 @@
+{
+  "name": "edenred-plus-mcp",
+  "description": "Read-only MCP server for Edenred Plus that enables checking benefit balances, transactions, and deals via local browser authentication.",
+  "source_repo": "B-Mahdj/edenred-plus-mcp",
+  "source_url": "https://github.com/B-Mahdj/edenred-plus-mcp",
+  "install": "npx -y edenred-plus-mcp"
+}

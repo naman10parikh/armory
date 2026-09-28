@@ -1,0 +1,7 @@
+{
+  "name": "logica-mind",
+  "description": "Long-term memory for AI agents over MCP — episodic + semantic memory, a temporal knowledge graph, and a dialectic user model, exposed as 32 tools (recall, remember, context, graph, dreaming, peers). Zero dependencies, runs fully offline; leads the LoCoMo benchmark at ~35x fewer LLM calls.",
+  "source_repo": "Rovemark/logica-mind",
+  "source_url": "https://github.com/Rovemark/logica-mind",
+  "install": "# git clone --depth 1 https://github.com/Rovemark/logica-mind\n# See source for mcpServers config block"
+}

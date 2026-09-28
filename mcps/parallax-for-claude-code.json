@@ -1,0 +1,7 @@
+{
+  "name": "parallax-for-claude-code",
+  "description": "An MCP server that enhances Claude Code with evidence-first engineering, protocol gates, project-aware verification, auditable traces, and durable autonomous execution.",
+  "source_repo": "Master0fFate/parallax-claudecode",
+  "source_url": "https://github.com/Master0fFate/parallax-claudecode",
+  "install": "# git clone --depth 1 https://github.com/Master0fFate/parallax-claudecode\n# See source for mcpServers config block"
+}

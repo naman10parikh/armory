@@ -1,0 +1,7 @@
+{
+  "name": "studio-state",
+  "description": "A stateless MCP server for AI film and video production that tracks project state, shot status, and updates, enabling consistent characters and continuity across generative video tools.",
+  "source_repo": "dkf2studios/studio-state-public",
+  "source_url": "https://github.com/dkf2studios/studio-state-public",
+  "install": "# git clone --depth 1 https://github.com/dkf2studios/studio-state-public\n# See source for mcpServers config block"
+}

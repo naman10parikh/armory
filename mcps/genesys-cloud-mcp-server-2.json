@@ -1,0 +1,7 @@
+{
+  "name": "genesys-cloud-mcp-server-2",
+  "description": "MCP server for Genesys Cloud Platform API, enabling queue search, conversation analysis, call quality, sentiment, topics, and transcript retrieval.",
+  "source_repo": "rbolante999/MCPBeta",
+  "source_url": "https://github.com/rbolante999/MCPBeta",
+  "install": "# git clone --depth 1 https://github.com/rbolante999/MCPBeta\n# See source for mcpServers config block"
+}

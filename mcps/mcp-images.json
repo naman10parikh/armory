@@ -1,0 +1,7 @@
+{
+  "name": "mcp-images",
+  "description": "MCP server for raster image manipulation using Pillow and OpenCV. Enables image operations such as resizing, cropping, rotating, format conversion, filtering, and auto-enhancement via MCP tools.",
+  "source_repo": "timaliev/mcp_images",
+  "source_url": "https://github.com/timaliev/mcp_images",
+  "install": "# git clone --depth 1 https://github.com/timaliev/mcp_images\n# See source for mcpServers config block"
+}

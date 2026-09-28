@@ -1,0 +1,7 @@
+{
+  "name": "ucp-mcp-storefront",
+  "description": "A UCP-compliant MCP storefront server that exposes product catalog operations (search, cart, checkout) as MCP tools, following UCP schema version 2026-04-08.",
+  "source_repo": "ZaynTawfik/mcpforucp",
+  "source_url": "https://github.com/ZaynTawfik/mcpforucp",
+  "install": "# git clone --depth 1 https://github.com/ZaynTawfik/mcpforucp\n# See source for mcpServers config block"
+}

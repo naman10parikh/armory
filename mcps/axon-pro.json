@@ -1,0 +1,7 @@
+{
+  "name": "axon-pro",
+  "description": "Transforms codebases into structural knowledge graphs for AI agents and developers, providing precise architectural awareness and dependency mapping.",
+  "source_repo": "talhamsajid/axon-pro",
+  "source_url": "https://github.com/talhamsajid/axon-pro",
+  "install": "# git clone --depth 1 https://github.com/talhamsajid/axon-pro\n# See source for mcpServers config block"
+}

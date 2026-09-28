@@ -1,0 +1,7 @@
+{
+  "name": "owlpost",
+  "description": "A high-fidelity IMAP/SMTP MCP server that enables reading, searching, and sending emails from providers like iCloud and Gmail, handling real-world IMAP quirks automatically.",
+  "source_repo": "smankoo/owlpost",
+  "source_url": "https://github.com/smankoo/owlpost",
+  "install": "# git clone --depth 1 https://github.com/smankoo/owlpost\n# See source for mcpServers config block"
+}

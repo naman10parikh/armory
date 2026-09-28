@@ -1,0 +1,7 @@
+{
+  "name": "openkai",
+  "description": "OpenKai is an open-source MCP server that gives AI agents persistent memory across conversations, supporting core, long-term, short-term, episodic, and working memory types with goals, emotional intelligence, and temporal queries.",
+  "source_repo": "udithaMee/openkai",
+  "source_url": "https://github.com/udithaMee/openkai",
+  "install": "# git clone --depth 1 https://github.com/udithaMee/openkai\n# See source for mcpServers config block"
+}

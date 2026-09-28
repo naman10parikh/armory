@@ -1,0 +1,7 @@
+{
+  "name": "nasdaq-data-link-mcp-server",
+  "description": "Enables LLMs to access Nasdaq Data Link's financial datasets via natural language, providing tools to search, retrieve, and export data.",
+  "source_repo": "stefanoamorelli/nasdaq-data-link-mcp",
+  "source_url": "https://github.com/stefanoamorelli/nasdaq-data-link-mcp",
+  "install": "npx -y nasdaq-data-link-mcp"
+}

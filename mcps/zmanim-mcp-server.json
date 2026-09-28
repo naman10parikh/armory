@@ -1,0 +1,7 @@
+{
+  "name": "zmanim-mcp-server",
+  "description": "A comprehensive MCP server for calculating Jewish prayer times (zmanim) using the python-zmanim library, supporting multiple halachic opinions and global locations.",
+  "source_repo": "ariroffe72/zmanim-mcp-server",
+  "source_url": "https://github.com/ariroffe72/zmanim-mcp-server",
+  "install": "npx -y zmanim-mcp-server"
+}

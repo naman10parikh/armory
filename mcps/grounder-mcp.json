@@ -1,0 +1,7 @@
+{
+  "name": "grounder-mcp",
+  "description": "Gives local and cloud LLMs live web grounding as four MCP tools: web_search, fetch, deep_search (a token-capped, cited evidence pack sized to a small context window), and research (an agentic search-and-read loop). Flat monthly pricing, no query content stored.",
+  "source_repo": "rozetyp/grounder-mcp",
+  "source_url": "https://github.com/rozetyp/grounder-mcp",
+  "install": "npx -y grounder-mcp"
+}

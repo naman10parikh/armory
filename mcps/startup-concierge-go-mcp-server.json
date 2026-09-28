@@ -1,0 +1,7 @@
+{
+  "name": "startup-concierge-go-mcp-server",
+  "description": "An MCP server that enables searching Korean government startup grants, checking eligibility, scoring applications, and writing business plans with deterministic coaching.",
+  "source_repo": "loykim621-lab/startup-concierge-go-mcp",
+  "source_url": "https://github.com/loykim621-lab/startup-concierge-go-mcp",
+  "install": "npx -y startup-concierge-go-mcp"
+}

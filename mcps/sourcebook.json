@@ -1,0 +1,7 @@
+{
+  "name": "sourcebook",
+  "description": "MCP server that gives AI coding agents a git-backed markdown wiki to read and update, enabling search, read, write, verify, ingest, promote, and lint operations on versioned knowledge documents with schema validation, staleness tracking, and contradiction detection.",
+  "source_repo": "BackendGameSetMatch/sourcebook",
+  "source_url": "https://github.com/BackendGameSetMatch/sourcebook",
+  "install": "# git clone --depth 1 https://github.com/BackendGameSetMatch/sourcebook\n# See source for mcpServers config block"
+}

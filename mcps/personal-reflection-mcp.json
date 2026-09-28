@@ -1,0 +1,7 @@
+{
+  "name": "personal-reflection-mcp",
+  "description": "A FastMCP server for journaling, habit tracking, and task management with SQLite storage.",
+  "source_repo": "Adithi1367/Personal-reflection-mcp",
+  "source_url": "https://github.com/Adithi1367/Personal-reflection-mcp",
+  "install": "npx -y Personal-reflection-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "violet-fhir",
+  "description": "Exposes a FHIR endpoint as deterministic read-only tools, providing a context layer for retrieving clinical data from FHIR servers.",
+  "source_repo": "dominickadlich/violet-fhir",
+  "source_url": "https://github.com/dominickadlich/violet-fhir",
+  "install": "# git clone --depth 1 https://github.com/dominickadlich/violet-fhir\n# See source for mcpServers config block"
+}

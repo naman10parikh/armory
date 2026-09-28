@@ -1,0 +1,7 @@
+{
+  "name": "sui-graphql-mcp-server",
+  "description": "Query the Sui blockchain directly from Claude using GraphQL.",
+  "source_repo": "Sceat/sui-graphql-mcp",
+  "source_url": "https://github.com/Sceat/sui-graphql-mcp",
+  "install": "npx -y sui-graphql-mcp"
+}

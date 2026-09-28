@@ -1,0 +1,7 @@
+{
+  "name": "finance-tracking-mcp",
+  "description": "Tracks personal expenses with tools to add, edit, and summarize expenses, storing data locally in SQLite.",
+  "source_repo": "Siddharth202002/finance-tracking-mcp-server",
+  "source_url": "https://github.com/Siddharth202002/finance-tracking-mcp-server",
+  "install": "npx -y finance-tracking-mcp-server"
+}

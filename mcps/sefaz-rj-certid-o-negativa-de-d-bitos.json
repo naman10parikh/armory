@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-rj-certid-o-negativa-de-d-bitos",
+  "description": "Consulta a Certidão Negativa de Débitos em fonte oficial da SEFAZ RJ, com uma ferramenta de leitura via MCP over HTTP, hospedada na plataforma com crédito pré-pago.",
+  "source_repo": "mcp-dir/sefaz_rj_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_rj_certidao_debitos-mcp",
+  "install": "npx -y sefaz_rj_certidao_debitos-mcp"
+}

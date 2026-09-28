@@ -1,0 +1,7 @@
+{
+  "name": "torn-mcp-server",
+  "description": "Remote MCP server for the Torn City API v2, enabling querying of player, faction, market, and other game data, plus aggregated intelligence reports, all via natural language.",
+  "source_repo": "Yoonutz/torn-mcp",
+  "source_url": "https://github.com/Yoonutz/torn-mcp",
+  "install": "npx -y torn-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "context-capsule",
+  "description": "Allows coding agents to securely retrieve curated, sealed Slack message bundles (capsules) via MCP, with full audit and expiration controls.",
+  "source_repo": "apraba05/context-capsule",
+  "source_url": "https://github.com/apraba05/context-capsule",
+  "install": "# git clone --depth 1 https://github.com/apraba05/context-capsule\n# See source for mcpServers config block"
+}

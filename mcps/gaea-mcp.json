@@ -1,0 +1,7 @@
+{
+  "name": "gaea-mcp",
+  "description": "MCP server for Gaea 2.0 terrain generation tool, providing CLI build automation and graph manipulation of .terrain files.",
+  "source_repo": "yushimatenjin/gaea-mcp",
+  "source_url": "https://github.com/yushimatenjin/gaea-mcp",
+  "install": "npx -y gaea-mcp"
+}

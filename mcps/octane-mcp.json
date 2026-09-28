@@ -1,0 +1,7 @@
+{
+  "name": "octane-mcp",
+  "description": "A local MCP server that lets Hermes Agent use Octane X as a shared visual canvas for geometry, data, math, and concept visualization.",
+  "source_repo": "nobulart/octane-mcp",
+  "source_url": "https://github.com/nobulart/octane-mcp",
+  "install": "npx -y octane-mcp"
+}

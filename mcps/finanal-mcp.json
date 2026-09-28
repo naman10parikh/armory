@@ -1,0 +1,7 @@
+{
+  "name": "finanal-mcp",
+  "description": "A minimal, token-efficient MCP server that combines stock prices and fundamentals with the macro and micro narrative around them — so an AI agent can reason about why a stock moved, what people are thinking about it, and what probable scenarios lie ahead.",
+  "source_repo": "Sekharz/finanal",
+  "source_url": "https://github.com/Sekharz/finanal",
+  "install": "# git clone --depth 1 https://github.com/Sekharz/finanal\n# See source for mcpServers config block"
+}

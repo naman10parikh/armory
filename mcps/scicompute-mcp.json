@@ -1,0 +1,7 @@
+{
+  "name": "scicompute-mcp",
+  "description": "MCP server for scientific computing with multiple backends (Mathematica, Octave, Python, R, SageMath, etc.) enabling mathematical computation and visualization through AI coding assistants.",
+  "source_repo": "sanshanjianke/scicompute-mcp",
+  "source_url": "https://github.com/sanshanjianke/scicompute-mcp",
+  "install": "npx -y scicompute-mcp"
+}

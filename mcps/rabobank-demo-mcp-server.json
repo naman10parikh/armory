@@ -1,0 +1,7 @@
+{
+  "name": "rabobank-demo-mcp-server",
+  "description": "Demonstrates how to expose approved internal banking tools to AI assistants via MCP, enabling secure lookups of account balances, customer names, branch details, and live exchange rate conversions.",
+  "source_repo": "RemseyMailjard/exchange-rate-mcp-server",
+  "source_url": "https://github.com/RemseyMailjard/exchange-rate-mcp-server",
+  "install": "npx -y exchange-rate-mcp-server"
+}

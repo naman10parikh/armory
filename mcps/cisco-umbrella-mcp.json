@@ -1,0 +1,7 @@
+{
+  "name": "cisco-umbrella-mcp",
+  "description": "MCP server for Cisco Umbrella that enables querying DNS/proxy/firewall/AMP activity reports, roaming computers, app discovery data, and managed provider customer/console information via the classic Umbrella REST API v2.",
+  "source_repo": "MSPbotsAI/cisco-umbrella-mcp",
+  "source_url": "https://github.com/MSPbotsAI/cisco-umbrella-mcp",
+  "install": "npx -y cisco-umbrella-mcp"
+}

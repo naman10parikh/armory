@@ -1,0 +1,7 @@
+{
+  "name": "qbittorrent-readonly-mcp",
+  "description": "Provides read-only MCP tools for qBittorrent diagnostics, enabling health checks, torrent listing, detail retrieval, and problem analysis via local stdio without any write operations.",
+  "source_repo": "XiaotaoGuo/qbittorrent-readonly-mcp",
+  "source_url": "https://github.com/XiaotaoGuo/qbittorrent-readonly-mcp",
+  "install": "npx -y qbittorrent-readonly-mcp"
+}

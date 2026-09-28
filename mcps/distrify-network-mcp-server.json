@@ -1,0 +1,7 @@
+{
+  "name": "distrify-network-mcp-server",
+  "description": "A FastMCP runtime that lets AI tools search electronic components, prices, and availability across the Distrify distributor network through one connection, federating queries across accessible distributors.",
+  "source_repo": "flo-distrify/distrify-mcp-runtime",
+  "source_url": "https://github.com/flo-distrify/distrify-mcp-runtime",
+  "install": "# git clone --depth 1 https://github.com/flo-distrify/distrify-mcp-runtime\n# See source for mcpServers config block"
+}

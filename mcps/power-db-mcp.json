@@ -1,0 +1,7 @@
+{
+  "name": "power-db-mcp",
+  "description": "A multi-database MCP tool that enables LLM agents to securely query and write to databases via local stdio, supporting MySQL, Oracle, PostgreSQL, DM, SQLite and more.",
+  "source_repo": "cjp1016/power-db-mcp",
+  "source_url": "https://github.com/cjp1016/power-db-mcp",
+  "install": "npx -y power-db-mcp"
+}

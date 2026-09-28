@@ -1,0 +1,7 @@
+{
+  "name": "citation-safe",
+  "description": "Deterministic legal citation verification for AI-generated legal briefs. Three-layer verification: CourtListener database lookup, quote-match against primary source, and LLM edge-case verification. Free tier available.",
+  "source_repo": "andrewjgaber-commits/citation-safe-mcp",
+  "source_url": "https://github.com/andrewjgaber-commits/citation-safe-mcp",
+  "install": "npx -y citation-safe-mcp"
+}

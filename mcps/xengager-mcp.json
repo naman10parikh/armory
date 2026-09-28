@@ -1,0 +1,7 @@
+{
+  "name": "xengager-mcp",
+  "description": "Provides programmatic X (Twitter) engagement via MCP, offering 24 tools for search, timelines, notifications, bookmarks, profiles, and tweet actions through a headless browser.",
+  "source_repo": "ogunbaysal/xengager-mcp",
+  "source_url": "https://github.com/ogunbaysal/xengager-mcp",
+  "install": "npx -y xengager-mcp"
+}

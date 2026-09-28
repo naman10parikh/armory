@@ -1,0 +1,7 @@
+{
+  "name": "salban-mcp-server",
+  "description": "Enables AI agents to program sequences, tweak synthesizer parameters, load audio samples, and interact with the SAL BAN Monolith Engine in real-time via a secure local WebSocket bridge.",
+  "source_repo": "WizardofTryout/salban-mcp-server",
+  "source_url": "https://github.com/WizardofTryout/salban-mcp-server",
+  "install": "npx -y salban-mcp-server"
+}

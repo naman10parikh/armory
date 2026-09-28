@@ -1,0 +1,7 @@
+{
+  "name": "codeigniter-mcp",
+  "description": "A Model Context Protocol server that accelerates CodeIgniter-inspired PHP framework development by generating, validating, and maintaining idiomatic MVC plus Services/Repository code via 7 tools and 4 resources.",
+  "source_repo": "X-Gunner/codeigniter-mcp",
+  "source_url": "https://github.com/X-Gunner/codeigniter-mcp",
+  "install": "npx -y codeigniter-mcp"
+}

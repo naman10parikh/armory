@@ -1,0 +1,7 @@
+{
+  "name": "1c-platform-tools-mcp",
+  "description": "Enables AI agents to interact with 1C: Enterprise development environment, including running tests, managing launch profiles, building configurations, and performing database operations through the 1C: Platform Tools extension.",
+  "source_repo": "yellow-hammer/mcp-1c-platform-tools",
+  "source_url": "https://github.com/yellow-hammer/mcp-1c-platform-tools",
+  "install": "# git clone --depth 1 https://github.com/yellow-hammer/mcp-1c-platform-tools\n# See source for mcpServers config block"
+}

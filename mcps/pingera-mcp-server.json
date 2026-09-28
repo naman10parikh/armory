@@ -1,0 +1,7 @@
+{
+  "name": "pingera-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for the Pingera monitoring service, providing seamless integration between AI models and monitoring data.",
+  "source_repo": "pingera/pingera-mcp",
+  "source_url": "https://github.com/pingera/pingera-mcp",
+  "install": "npx -y pingera-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "loki-auto-mcp-server",
+  "description": "Enables LLM agents to automate browser tasks through secure, sandboxed Rhai scripts executed in a WebAssembly VM, supporting DOM interactions and tab management via MCP tools.",
+  "source_repo": "loki4agent/loki-auto",
+  "source_url": "https://github.com/loki4agent/loki-auto",
+  "install": "# git clone --depth 1 https://github.com/loki4agent/loki-auto\n# See source for mcpServers config block"
+}

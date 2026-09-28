@@ -1,0 +1,7 @@
+{
+  "name": "xcpng-aiops",
+  "description": "Governed XCP-ng operations via Xen Orchestra REST — VM-health, SR-usage, backup-failure, and patch-state RCA, with unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.",
+  "source_repo": "AIops-tools/XCPng-AIops",
+  "source_url": "https://github.com/AIops-tools/XCPng-AIops",
+  "install": "# git clone --depth 1 https://github.com/AIops-tools/XCPng-AIops\n# See source for mcpServers config block"
+}

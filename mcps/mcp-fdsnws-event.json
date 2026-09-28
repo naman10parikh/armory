@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fdsnws-event",
+  "description": "An MCP server for querying the FDSN Web Service Event APIs of multiple seismological datacenters and retrieving earthquake information as JSON.",
+  "source_repo": "INGV/mcp-fdsnws-event",
+  "source_url": "https://github.com/INGV/mcp-fdsnws-event",
+  "install": "# git clone --depth 1 https://github.com/INGV/mcp-fdsnws-event\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-rr-certid-o-negativa-de-d-bitos",
+  "description": "Consulta Certidão Negativa de Débitos da SEFAZ RR em fonte oficial, por meio de uma ferramenta de leitura, com pagamento pré-pago por uso.",
+  "source_repo": "mcp-dir/sefaz_rr_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_rr_certidao_debitos-mcp",
+  "install": "npx -y sefaz_rr_certidao_debitos-mcp"
+}

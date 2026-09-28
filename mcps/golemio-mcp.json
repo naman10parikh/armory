@@ -1,0 +1,7 @@
+{
+  "name": "golemio-mcp",
+  "description": "Enables AI assistants to query Prague's public transit departures, air quality, parking availability, and other city data via the Golemio open data API.",
+  "source_repo": "MrMebelMan/golemio-mcp-server",
+  "source_url": "https://github.com/MrMebelMan/golemio-mcp-server",
+  "install": "npx -y golemio-mcp-server"
+}

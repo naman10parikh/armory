@@ -1,0 +1,7 @@
+{
+  "name": "hexwitness",
+  "description": "Enables AI agents to query persistent, build-scoped evidence memory for reverse engineering, combining static analysis, runtime captures, and claims with honest uncertainty. Provides read-only access to an evidence graph and MCP prompts for structured investigations.",
+  "source_repo": "siaginw/HexWitness",
+  "source_url": "https://github.com/siaginw/HexWitness",
+  "install": "# git clone --depth 1 https://github.com/siaginw/HexWitness\n# See source for mcpServers config block"
+}

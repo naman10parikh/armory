@@ -1,0 +1,7 @@
+{
+  "name": "ai-galaxy-compute-mcp",
+  "description": "MCP server for securely discovering, pricing, renting, connecting, and releasing GPU compute instances from AI Galaxy with budget checks and two-phase approval.",
+  "source_repo": "FreddieWho/mcp_ai_galaxy",
+  "source_url": "https://github.com/FreddieWho/mcp_ai_galaxy",
+  "install": "# git clone --depth 1 https://github.com/FreddieWho/mcp_ai_galaxy\n# See source for mcpServers config block"
+}

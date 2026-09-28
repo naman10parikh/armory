@@ -1,0 +1,7 @@
+{
+  "name": "superpos-mcp",
+  "description": "MCP server that connects coding agents to Superpos cloud workspace, enabling task management, knowledge sharing, event handling, and schedule orchestration directly from agent tools.",
+  "source_repo": "Superpos-AI/superpos-mcp",
+  "source_url": "https://github.com/Superpos-AI/superpos-mcp",
+  "install": "npx -y superpos-mcp"
+}

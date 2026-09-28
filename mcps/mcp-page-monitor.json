@@ -1,0 +1,7 @@
+{
+  "name": "mcp-page-monitor",
+  "description": "Enables monitoring web pages for changes using Playwright, storing snapshots in SQLite, and optionally analyzing changes with an LLM for business impact assessment.",
+  "source_repo": "deialedin/mcp-page-monitor",
+  "source_url": "https://github.com/deialedin/mcp-page-monitor",
+  "install": "# git clone --depth 1 https://github.com/deialedin/mcp-page-monitor\n# See source for mcpServers config block"
+}

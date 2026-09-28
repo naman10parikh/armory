@@ -1,0 +1,7 @@
+{
+  "name": "smartapi-images",
+  "description": "Enables generating images through SmartAPI's image generation endpoint directly from Codex, saving files locally.",
+  "source_repo": "smrcdr/smartapi-images",
+  "source_url": "https://github.com/smrcdr/smartapi-images",
+  "install": "# git clone --depth 1 https://github.com/smrcdr/smartapi-images\n# See source for mcpServers config block"
+}

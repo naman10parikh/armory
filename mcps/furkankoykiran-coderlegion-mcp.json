@@ -1,0 +1,7 @@
+{
+  "name": "furkankoykiran-coderlegion-mcp",
+  "description": "TypeScript MCP server for CoderLegion — connect AI agents (Claude, Cursor, Cline) to the developer community platform.",
+  "source_repo": "furkankoykiran/coderlegion-mcp",
+  "source_url": "https://github.com/furkankoykiran/coderlegion-mcp",
+  "install": "npx -y coderlegion-mcp"
+}

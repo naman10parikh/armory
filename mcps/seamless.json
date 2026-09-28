@@ -1,0 +1,7 @@
+{
+  "name": "seamless",
+  "description": "Local-first shared memory and task coordination for AI coding agents. One Go binary, MCP server, markdown files you own. Hooks for Claude Code and Codex CLI (and their desktop apps).",
+  "source_repo": "0spoon/seamless",
+  "source_url": "https://github.com/0spoon/seamless",
+  "install": "# git clone --depth 1 https://github.com/0spoon/seamless\n# See source for mcpServers config block"
+}

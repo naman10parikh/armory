@@ -1,0 +1,7 @@
+{
+  "name": "secops-toolkit-mcp",
+  "description": "Local, no-API-key MCP server with seven defensive SecOps tools for AI agents: extract IOCs (IPs, URLs, domains, hashes, CVE IDs) from text with defang/refang, hash strings, estimate password entropy, and run CIDR/subnet checks. Built on FastMCP with no outbound network calls.",
+  "source_repo": "glatinone/secops-toolkit-mcp",
+  "source_url": "https://github.com/glatinone/secops-toolkit-mcp",
+  "install": "npx -y secops-toolkit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mexico-payments-mcp",
+  "description": "Enables AI agents to accept payments in Mexico via Mercado Pago, including OXXO cash vouchers, SPEI bank transfers, cards, and Mercado Pago wallet, through a stateless hosted checkout.",
+  "source_repo": "junter1989k-ai/mexico-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/mexico-payments-mcp",
+  "install": "npx -y mexico-payments-mcp"
+}

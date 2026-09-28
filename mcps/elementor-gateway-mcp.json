@@ -1,0 +1,7 @@
+{
+  "name": "elementor-gateway-mcp",
+  "description": "A multi-tenant MCP gateway that connects Claude to Elementor Pro WordPress sites, enabling site listing, tool discovery, and execution of Elementor actions through natural language.",
+  "source_repo": "Siana2022/elementor-mcp",
+  "source_url": "https://github.com/Siana2022/elementor-mcp",
+  "install": "npx -y elementor-mcp"
+}

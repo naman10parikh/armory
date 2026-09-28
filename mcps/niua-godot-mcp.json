@@ -1,0 +1,7 @@
+{
+  "name": "niua-godot-mcp",
+  "description": "A local MCP server plus a bundled Godot editor addon that lets an AI agent create, inspect, run, debug, and export real Godot 4.6 games through tools.",
+  "source_repo": "OhaoTech/niua-godot-mcp",
+  "source_url": "https://github.com/OhaoTech/niua-godot-mcp",
+  "install": "npx -y niua-godot-mcp"
+}

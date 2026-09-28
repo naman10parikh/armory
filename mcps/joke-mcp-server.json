@@ -1,0 +1,7 @@
+{
+  "name": "joke-mcp-server",
+  "description": "Provides random joke generation and joke counting as MCP tools for seamless integration with AI assistants and other compatible clients.",
+  "source_repo": "tehrimaly/mcp-guide",
+  "source_url": "https://github.com/tehrimaly/mcp-guide",
+  "install": "# git clone --depth 1 https://github.com/tehrimaly/mcp-guide\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sk2gdrive",
+  "description": "Enables Google Drive file operations (list, search, read, create) via MCP using OAuth2 authentication with token persistence.",
+  "source_repo": "GuilhermeSK2/mcp-sk2gdrive",
+  "source_url": "https://github.com/GuilhermeSK2/mcp-sk2gdrive",
+  "install": "# git clone --depth 1 https://github.com/GuilhermeSK2/mcp-sk2gdrive\n# See source for mcpServers config block"
+}

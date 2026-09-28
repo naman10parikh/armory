@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx",
+  "description": "Live data for AI — one connector to SEC filings, economics, FDA, patents, weather, prediction markets, and more across 750+ official sources, with citations. The hero tool ask_pipeworx routes any question to the right source and returns structured, cited data.",
+  "source_repo": "",
+  "source_url": "https://pipeworx.io",
+  "install": "# git clone --depth 1 https://pipeworx.io\n# See source for mcpServers config block"
+}

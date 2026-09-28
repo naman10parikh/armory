@@ -1,0 +1,7 @@
+{
+  "name": "orpheus",
+  "description": "An AI agent that analyzes and transforms music projects in REAPER, explaining why it sounds a certain way and reshaping it toward a desired style through natural language interaction.",
+  "source_repo": "mal0ware/Orpheus",
+  "source_url": "https://github.com/mal0ware/Orpheus",
+  "install": "# git clone --depth 1 https://github.com/mal0ware/Orpheus\n# See source for mcpServers config block"
+}

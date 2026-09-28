@@ -1,0 +1,7 @@
+{
+  "name": "sketchfab-mcp-server",
+  "description": "Enables AI clients to search, browse, inspect, and download 3D models from Sketchfab via the Model Context Protocol.",
+  "source_repo": "AliRezaBeigy/sketchfab-mcp-server",
+  "source_url": "https://github.com/AliRezaBeigy/sketchfab-mcp-server",
+  "install": "npx -y sketchfab-mcp-server"
+}

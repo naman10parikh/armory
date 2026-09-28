@@ -1,0 +1,7 @@
+{
+  "name": "gammainfra-mcp-server",
+  "description": "Model Context Protocol (MCP) server for GammaInfra — intelligent LLM routing across every major provider via one OpenAI-shape API.",
+  "source_repo": "yuz0101/gammainfra-mcp-server",
+  "source_url": "https://github.com/yuz0101/gammainfra-mcp-server",
+  "install": "npx -y gammainfra-mcp-server"
+}

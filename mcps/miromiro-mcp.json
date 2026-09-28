@@ -1,0 +1,7 @@
+{
+  "name": "miromiro-mcp",
+  "description": "MCP server for the MiroMiro design-extraction API. It extracts real design data from live websites—including brand colors, fonts, tokens, SVGs, images, and component code—so AI agents can build from actual values.",
+  "source_repo": "SoraiaBarroso/miromiro-mcp",
+  "source_url": "https://github.com/SoraiaBarroso/miromiro-mcp",
+  "install": "npx -y miromiro-mcp"
+}

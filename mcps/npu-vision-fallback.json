@@ -1,0 +1,7 @@
+{
+  "name": "npu-vision-fallback",
+  "description": "Provides an MCP server for local low-power screen vision, enabling AI agents to perform OCR and UI detection on inaccessible screens (games, remote desktops) using NPU acceleration and system OCR.",
+  "source_repo": "Byte-Naut/npu-vision-fallback",
+  "source_url": "https://github.com/Byte-Naut/npu-vision-fallback",
+  "install": "# git clone --depth 1 https://github.com/Byte-Naut/npu-vision-fallback\n# See source for mcpServers config block"
+}

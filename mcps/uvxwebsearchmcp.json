@@ -1,0 +1,7 @@
+{
+  "name": "uvxwebsearchmcp",
+  "description": "A zero-config web search and fetch MCP server for LLM agents, featuring multi-backend metasearch, persistent rolling cache, and structured error envelopes for retry-friendly interactions.",
+  "source_repo": "DanielNMC/web_tools_mcp",
+  "source_url": "https://github.com/DanielNMC/web_tools_mcp",
+  "install": "npx -y web_tools_mcp"
+}

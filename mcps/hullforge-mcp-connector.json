@@ -1,0 +1,7 @@
+{
+  "name": "hullforge-mcp-connector",
+  "description": "An MCP server that enables Claude to drive a running Unreal Engine 5 editor, managing communication between the editor plugin and the LLM client through stdio transport with session discovery, idempotent operations, and honest failure reporting.",
+  "source_repo": "jigwright/hullforge-mcp",
+  "source_url": "https://github.com/jigwright/hullforge-mcp",
+  "install": "npx -y hullforge-mcp"
+}

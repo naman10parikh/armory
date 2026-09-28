@@ -1,0 +1,7 @@
+{
+  "name": "mcp-myhealthfinder",
+  "description": "MyHealthfinder MCP provides access to U.S. preventive services and health screening guidance through natural language queries.",
+  "source_repo": "pipeworx-io/mcp-myhealthfinder",
+  "source_url": "https://github.com/pipeworx-io/mcp-myhealthfinder",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-myhealthfinder\n# See source for mcpServers config block"
+}

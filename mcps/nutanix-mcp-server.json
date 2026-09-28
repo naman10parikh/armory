@@ -1,0 +1,7 @@
+{
+  "name": "nutanix-mcp-server",
+  "description": "A Model Context Protocol server for Nutanix Virtual Machine Management APIs, enabling users to manage VMs, images, alerts, and logs via natural language through a CLI chatbot or any MCP client.",
+  "source_repo": "atalhens/ntnx-mcp",
+  "source_url": "https://github.com/atalhens/ntnx-mcp",
+  "install": "npx -y ntnx-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "illustrator-figure-mcp",
+  "description": "Rebuilds scientific figures as editable Adobe Illustrator artwork with a validate-and-repair loop that geometrically proves internal correctness and judges appearance similarity against reference images.",
+  "source_repo": "ymo6/illustrator-figure-mcp",
+  "source_url": "https://github.com/ymo6/illustrator-figure-mcp",
+  "install": "npx -y illustrator-figure-mcp"
+}

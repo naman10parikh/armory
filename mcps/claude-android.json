@@ -1,0 +1,7 @@
+{
+  "name": "claude-android",
+  "description": "MCP server for Android dev workflows that exposes Gradle, Manifest, and ProGuard context to Claude, with a library of skills for tasks like AGP upgrade and R8 audit.",
+  "source_repo": "duonglkh/claude-android",
+  "source_url": "https://github.com/duonglkh/claude-android",
+  "install": "# git clone --depth 1 https://github.com/duonglkh/claude-android\n# See source for mcpServers config block"
+}

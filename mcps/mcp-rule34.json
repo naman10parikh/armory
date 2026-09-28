@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rule34",
+  "description": "Searches rule34.xxx posts by tag through the site's API, returning each post's page, file, dimensions, score, rating, and full tag list along with the total match count. It requires a user's rule34.xxx API key and user ID to operate.",
+  "source_repo": "smeet666/mcp-rule34",
+  "source_url": "https://github.com/smeet666/mcp-rule34",
+  "install": "# git clone --depth 1 https://github.com/smeet666/mcp-rule34\n# See source for mcpServers config block"
+}

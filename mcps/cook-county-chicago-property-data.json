@@ -1,0 +1,7 @@
+{
+  "name": "cook-county-chicago-property-data",
+  "description": "Hosted, pay-per-call MCP server for Cook County / Chicago property records — parcels, recorded sales & deeds, building permits, tax assessments, and comparable sales — by street address or 14-digit PIN. Pay per call via x402 (USDC on Base/Solana); no signup or API key.",
+  "source_repo": "hyperionxmota/cook-county-property-mcp",
+  "source_url": "https://github.com/hyperionxmota/cook-county-property-mcp",
+  "install": "npx -y cook-county-property-mcp"
+}

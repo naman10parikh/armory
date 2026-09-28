@@ -1,0 +1,7 @@
+{
+  "name": "chatbottool-mcp",
+  "description": "A local-first MCP server providing guarded access to a workspace with file operations, search, commands, tests, Git helpers, checkpoints, and structured tool results. It supports multiple tool modes and emphasizes security with workspace restrictions and secret blocking.",
+  "source_repo": "tamvi-journal/chatbottool-mcp",
+  "source_url": "https://github.com/tamvi-journal/chatbottool-mcp",
+  "install": "npx -y chatbottool-mcp"
+}

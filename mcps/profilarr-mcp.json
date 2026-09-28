@@ -1,0 +1,7 @@
+{
+  "name": "profilarr-mcp",
+  "description": "MCP server exposing Profilarr's v1 REST API as tools, enabling an LLM to inspect and manage linked databases, connected Radarr/Sonarr instances, backups, jobs, announcements, and system status.",
+  "source_repo": "SavageCore/profilarr-mcp",
+  "source_url": "https://github.com/SavageCore/profilarr-mcp",
+  "install": "npx -y profilarr-mcp"
+}

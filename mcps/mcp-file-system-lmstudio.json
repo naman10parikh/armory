@@ -1,0 +1,7 @@
+{
+  "name": "mcp-file-system-lmstudio",
+  "description": "Exposes local LM Studio language models as MCP tools, enabling chat completions and model listing through a local OpenAI-compatible API without requiring API keys.",
+  "source_repo": "developersorli/mcp-file-system-lmstudio",
+  "source_url": "https://github.com/developersorli/mcp-file-system-lmstudio",
+  "install": "# git clone --depth 1 https://github.com/developersorli/mcp-file-system-lmstudio\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "trendforge-mcp",
+  "description": "Enables querying YouTube gaming opportunity rankings to answer 'what should I record?' by providing tools for top games, game breakdowns with AI video ideas, and live topic checks.",
+  "source_repo": "flyflyloop/trendforge-mcp",
+  "source_url": "https://github.com/flyflyloop/trendforge-mcp",
+  "install": "npx -y trendforge-mcp"
+}

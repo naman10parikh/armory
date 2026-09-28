@@ -1,0 +1,7 @@
+{
+  "name": "relayer-mcp",
+  "description": "Install and manage a self-hosted XNS Relayer — S3-compatible distributed object storage — conversationally over stdio. 15 tools cover prerequisites, account registration, install, claim, health, VPD configuration, S3 verification, CLI credentials, settings, restart, and backups.",
+  "source_repo": "xns-cloud/relayer-mcp",
+  "source_url": "https://github.com/xns-cloud/relayer-mcp",
+  "install": "npx -y relayer-mcp"
+}

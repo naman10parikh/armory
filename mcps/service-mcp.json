@@ -1,0 +1,7 @@
+{
+  "name": "service-mcp",
+  "description": "A production-ready generic FastMCP server template with SQLAlchemy async CRUD, enabling rapid bootstrapping of MCP data-management services. It provides registry-driven CRUD, FK resolution, conflict versioning, and multiple transports.",
+  "source_repo": "RamidLab/mcp-service-template",
+  "source_url": "https://github.com/RamidLab/mcp-service-template",
+  "install": "# git clone --depth 1 https://github.com/RamidLab/mcp-service-template\n# See source for mcpServers config block"
+}

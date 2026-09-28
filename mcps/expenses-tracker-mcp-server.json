@@ -1,0 +1,7 @@
+{
+  "name": "expenses-tracker-mcp-server",
+  "description": "Backend MCP server for the Expenses Tracker app, providing APIs to record, retrieve, and report expenses.",
+  "source_repo": "Neha-Pandey12/expenses_tracker_remote_mcp_server",
+  "source_url": "https://github.com/Neha-Pandey12/expenses_tracker_remote_mcp_server",
+  "install": "npx -y expenses_tracker_remote_mcp_server"
+}

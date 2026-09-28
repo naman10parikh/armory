@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-to-codex",
+  "description": "A local MCP runtime for macOS and Windows that enables ChatGPT to read, edit, search, run tests, and capture screenshots in your local project folder while keeping your source code on your machine.",
+  "source_repo": "ezBuilder/chatgpt2codex",
+  "source_url": "https://github.com/ezBuilder/chatgpt2codex",
+  "install": "# git clone --depth 1 https://github.com/ezBuilder/chatgpt2codex\n# See source for mcpServers config block"
+}

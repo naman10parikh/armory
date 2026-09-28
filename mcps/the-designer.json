@@ -1,0 +1,7 @@
+{
+  "name": "the-designer",
+  "description": "Enables generating UI design rules, fetching color palettes, and retrieving brand design references from over 328 brands.",
+  "source_repo": "1999AZZAR/the-designer",
+  "source_url": "https://github.com/1999AZZAR/the-designer",
+  "install": "# git clone --depth 1 https://github.com/1999AZZAR/the-designer\n# See source for mcpServers config block"
+}

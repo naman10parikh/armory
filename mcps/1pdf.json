@@ -1,0 +1,7 @@
+{
+  "name": "1pdf",
+  "description": "Enables AI assistants to perform PDF operations like merge, split, compress, convert, encrypt, OCR, and summarize using natural language.",
+  "source_repo": "WendongAI/onepdf-mcp-server",
+  "source_url": "https://github.com/WendongAI/onepdf-mcp-server",
+  "install": "npx -y onepdf-mcp-server"
+}

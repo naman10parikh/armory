@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-engine",
+  "description": "MCP server for querying a personal knowledge base using semantic RAG, powered by DeepSeek and local embeddings from Ollama.",
+  "source_repo": "gorosofia/knowledge-engine",
+  "source_url": "https://github.com/gorosofia/knowledge-engine",
+  "install": "# git clone --depth 1 https://github.com/gorosofia/knowledge-engine\n# See source for mcpServers config block"
+}

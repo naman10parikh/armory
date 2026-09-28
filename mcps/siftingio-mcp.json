@@ -1,0 +1,7 @@
+{
+  "name": "siftingio-mcp",
+  "description": "MCP server that provides access to SiftingIO market data, including live prices, SEC filings, OHLCV bars, 13F holdings, market status, and economic calendar tools for AI assistants.",
+  "source_repo": "SiftingIO/siftingio-mcp",
+  "source_url": "https://github.com/SiftingIO/siftingio-mcp",
+  "install": "npx -y siftingio-mcp"
+}

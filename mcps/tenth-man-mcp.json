@@ -1,0 +1,7 @@
+{
+  "name": "tenth-man-mcp",
+  "description": "Adversarial review system that spawns three independent contrarian reviewers to catch issues before AI coding agents execute critical changes.",
+  "source_repo": "keeganthewhi/tenth-man-mcp",
+  "source_url": "https://github.com/keeganthewhi/tenth-man-mcp",
+  "install": "npx -y tenth-man-mcp"
+}

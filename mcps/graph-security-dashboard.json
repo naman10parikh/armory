@@ -1,0 +1,7 @@
+{
+  "name": "graph-security-dashboard",
+  "description": "Security Graph MCP Server",
+  "source_repo": "IamVigneshk/graph-security-dashboard",
+  "source_url": "https://github.com/IamVigneshk/graph-security-dashboard",
+  "install": "# git clone --depth 1 https://github.com/IamVigneshk/graph-security-dashboard\n# See source for mcpServers config block"
+}

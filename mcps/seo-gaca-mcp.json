@@ -1,0 +1,7 @@
+{
+  "name": "seo-gaca-mcp",
+  "description": "A comprehensive MCP server for SEO, performance, GEO, and UX audits with 37 tools covering technical SEO, Lighthouse performance, AI search optimization, content analysis, accessibility, security, and more.",
+  "source_repo": "gacabartosz/seo-gaca-mcp",
+  "source_url": "https://github.com/gacabartosz/seo-gaca-mcp",
+  "install": "npx -y seo-gaca-mcp"
+}

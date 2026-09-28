@@ -1,0 +1,7 @@
+{
+  "name": "chuk-mcp-code-raptor",
+  "description": "Deep code intelligence for MCP — an MCP server that gives AI agents semantic understanding of codebases via RAPTOR hierarchical indexing and code property graphs.",
+  "source_repo": "chrishayuk/chuk-mcp-code-raptor",
+  "source_url": "https://github.com/chrishayuk/chuk-mcp-code-raptor",
+  "install": "# git clone --depth 1 https://github.com/chrishayuk/chuk-mcp-code-raptor\n# See source for mcpServers config block"
+}

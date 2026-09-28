@@ -1,0 +1,7 @@
+{
+  "name": "k3b-mcp",
+  "description": "Enables burning optical media via the K3b CLI. Supports listing drives, burning data discs, and executing arbitrary k3bcli commands.",
+  "source_repo": "danielrosehill/K3B-MCP",
+  "source_url": "https://github.com/danielrosehill/K3B-MCP",
+  "install": "npx -y K3B-MCP"
+}

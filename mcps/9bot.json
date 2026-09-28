@@ -1,0 +1,7 @@
+{
+  "name": "9bot",
+  "description": "Automate and manage WhatsApp groups, communities, and channels with scheduling, moderation, analytics, and more.",
+  "source_repo": "9-bot/mcp",
+  "source_url": "https://github.com/9-bot/mcp",
+  "install": "# git clone --depth 1 https://github.com/9-bot/mcp\n# See source for mcpServers config block"
+}

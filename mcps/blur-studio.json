@@ -1,0 +1,7 @@
+{
+  "name": "blur-studio",
+  "description": "MCP server for coordinate-based selective photo blurring, letting AI agents blur faces, plates, or regions with ellipses, rectangles, and VIP exclusion boxes. Exposes tools to scan folders, manage configs, apply blur, and export Python snippets.",
+  "source_repo": "fauzulkc/blur-studio",
+  "source_url": "https://github.com/fauzulkc/blur-studio",
+  "install": "# git clone --depth 1 https://github.com/fauzulkc/blur-studio\n# See source for mcpServers config block"
+}

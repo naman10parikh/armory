@@ -1,0 +1,7 @@
+{
+  "name": "flash-cast-mcp",
+  "description": "A deterministic video rendering engine that enables AI agents to create programmable, reproducible videos via MCP protocol.",
+  "source_repo": "trtian/flash-cast-mcp",
+  "source_url": "https://github.com/trtian/flash-cast-mcp",
+  "install": "npx -y flash-cast-mcp"
+}

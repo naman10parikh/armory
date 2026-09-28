@@ -1,0 +1,7 @@
+{
+  "name": "mcp-documentacao",
+  "description": "MCP server that indexes technical documents and provides hybrid search (vector + BM25) for retrieval only, without generation.",
+  "source_repo": "Ezequiell22/MCP_RAG",
+  "source_url": "https://github.com/Ezequiell22/MCP_RAG",
+  "install": "# git clone --depth 1 https://github.com/Ezequiell22/MCP_RAG\n# See source for mcpServers config block"
+}

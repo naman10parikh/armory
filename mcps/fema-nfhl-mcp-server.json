@@ -1,0 +1,7 @@
+{
+  "name": "fema-nfhl-mcp-server",
+  "description": "MCP server that queries FEMA's National Flood Hazard Layer (NFHL) for flood zone information, including flood zone codes, Base Flood Elevation, FIRM panel numbers, and identifies LOMRs/LOMAs from provided coordinates, enabling automated flood risk lookups.",
+  "source_repo": "Graysonf12/fema-nfhl-mcp-server",
+  "source_url": "https://github.com/Graysonf12/fema-nfhl-mcp-server",
+  "install": "npx -y fema-nfhl-mcp-server"
+}

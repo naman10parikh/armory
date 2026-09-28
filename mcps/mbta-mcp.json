@@ -1,0 +1,7 @@
+{
+  "name": "mbta-mcp",
+  "description": "MCP server exposing live MBTA V3 transit data, with tools for routes, stops, arrivals, alerts, and vehicle positions.",
+  "source_repo": "jegamboafuentes/MBTA-MCP",
+  "source_url": "https://github.com/jegamboafuentes/MBTA-MCP",
+  "install": "npx -y MBTA-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "llm-wiki-mcp-server",
+  "description": "Provides a lightweight personal knowledge base MCP server that compiles raw materials into interconnected Wiki pages, with hybrid search (BM25, optional vector, link expansion) and tools for querying, reading, writing, and ingesting content.",
+  "source_repo": "COOLFEATHER/LLMwiki_mcp",
+  "source_url": "https://github.com/COOLFEATHER/LLMwiki_mcp",
+  "install": "npx -y LLMwiki_mcp"
+}

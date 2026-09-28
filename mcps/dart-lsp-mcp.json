@@ -1,0 +1,7 @@
+{
+  "name": "dart-lsp-mcp",
+  "description": "A Model Context Protocol (MCP) server that provides Dart language analysis capabilities to Claude Code, enabling real-time diagnostics, code navigation, and symbol search for Dart projects.",
+  "source_repo": "BenjaminKobjolke/dart-lsp-mcp",
+  "source_url": "https://github.com/BenjaminKobjolke/dart-lsp-mcp",
+  "install": "npx -y dart-lsp-mcp"
+}

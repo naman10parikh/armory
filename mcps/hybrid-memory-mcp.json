@@ -1,0 +1,7 @@
+{
+  "name": "hybrid-memory-mcp",
+  "description": "Universal FastMCP bridge into a hybrid memory stack, enabling MCP-capable agents to save, search, read, and recall memories using OpenViking and Honcho backends.",
+  "source_repo": "bellfireg/hybrid-memory-mcp",
+  "source_url": "https://github.com/bellfireg/hybrid-memory-mcp",
+  "install": "npx -y hybrid-memory-mcp"
+}

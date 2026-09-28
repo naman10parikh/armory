@@ -1,0 +1,7 @@
+{
+  "name": "py-ast-mcp",
+  "description": "Provides deep structural analysis of Python source code via AST, including function signatures, call graphs, cyclomatic complexity, code smells, dead code detection, and protocol conformance.",
+  "source_repo": "gclluch/py-ast-mcp",
+  "source_url": "https://github.com/gclluch/py-ast-mcp",
+  "install": "npx -y py-ast-mcp"
+}

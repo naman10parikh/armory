@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chef",
+  "description": "Enables AI agents to participate in CodeChef contests by fetching problems, generating and testing solutions in a secure sandbox, and submitting answers.",
+  "source_repo": "mayooreshmoodanwal/MCP_Chef",
+  "source_url": "https://github.com/mayooreshmoodanwal/MCP_Chef",
+  "install": "# git clone --depth 1 https://github.com/mayooreshmoodanwal/MCP_Chef\n# See source for mcpServers config block"
+}

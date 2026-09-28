@@ -1,0 +1,7 @@
+{
+  "name": "geminicli-mcp-antigravity-server",
+  "description": "A local MCP server for code analysis and investigation, providing tools like code search, file read, and symbol hint via SSE for integration with Gemini CLI and Antigravity.",
+  "source_repo": "wu55246842/GeminiCLI_MCP_Antigravity",
+  "source_url": "https://github.com/wu55246842/GeminiCLI_MCP_Antigravity",
+  "install": "# git clone --depth 1 https://github.com/wu55246842/GeminiCLI_MCP_Antigravity\n# See source for mcpServers config block"
+}

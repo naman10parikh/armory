@@ -1,0 +1,7 @@
+{
+  "name": "fastapi-scaffolder-mcp-server",
+  "description": "Enables AI agents to scaffold production-ready FastAPI applications from YAML architecture specifications, generating modular project structures with routers, models, and tests.",
+  "source_repo": "SevenDeadlyCommits/fast_api_scaffolder",
+  "source_url": "https://github.com/SevenDeadlyCommits/fast_api_scaffolder",
+  "install": "# git clone --depth 1 https://github.com/SevenDeadlyCommits/fast_api_scaffolder\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "safe-vision-mcp",
+  "description": "Safe Vision MCP enables safe and efficient local image inspection by generating thumbnails, contact sheets, and statistics, avoiding large images in LLM context.",
+  "source_repo": "williamxhero/SafeVision",
+  "source_url": "https://github.com/williamxhero/SafeVision",
+  "install": "# git clone --depth 1 https://github.com/williamxhero/SafeVision\n# See source for mcpServers config block"
+}

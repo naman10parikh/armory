@@ -1,0 +1,7 @@
+{
+  "name": "pressadvantage-mcp",
+  "description": "MCP server wrapping the Press Advantage API, enabling AI assistants to manage press releases, organizations, distributions, and more via natural language.",
+  "source_repo": "hamza-shamas/mcp-tester-pr",
+  "source_url": "https://github.com/hamza-shamas/mcp-tester-pr",
+  "install": "# git clone --depth 1 https://github.com/hamza-shamas/mcp-tester-pr\n# See source for mcpServers config block"
+}

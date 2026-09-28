@@ -1,0 +1,7 @@
+{
+  "name": "wise-mise-mcp",
+  "description": "AI-powered MCP server that analyzes project structures to create optimized task architectures for mise, enabling intelligent task management, dependency mapping, and automated task suggestions.",
+  "source_repo": "delorenj/wise-mise-mcp",
+  "source_url": "https://github.com/delorenj/wise-mise-mcp",
+  "install": "npx -y wise-mise-mcp"
+}

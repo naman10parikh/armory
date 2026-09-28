@@ -1,0 +1,7 @@
+{
+  "name": "byteask-embedded-docs",
+  "description": "An MCP server for source-grounded, page-cited evidence retrieval tailored for embedded and firmware development, returning verbatim snippets with exact citations or 'no match' to prevent fabrications.",
+  "source_repo": "ByteAsk/ByteAsk-Embedded-MCP",
+  "source_url": "https://github.com/ByteAsk/ByteAsk-Embedded-MCP",
+  "install": "npx -y ByteAsk-Embedded-MCP"
+}

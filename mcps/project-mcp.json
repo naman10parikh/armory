@@ -1,0 +1,7 @@
+{
+  "name": "project-mcp",
+  "description": "MCP server that enables LLMs to read and analyze Microsoft Project schedules, including critical path, resources, and advanced construction planning layers (AWP and LPS) for work packages and Lean planning.",
+  "source_repo": "Gonzo3030/project-mcp",
+  "source_url": "https://github.com/Gonzo3030/project-mcp",
+  "install": "npx -y project-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openapi-docs-mcp",
+  "description": "A vendor-neutral MCP server that lets coding agents search and understand OpenAPI/Swagger documents via stdio tools, without calling real backend APIs.",
+  "source_repo": "yangjh0127/openapi-docs-mcp",
+  "source_url": "https://github.com/yangjh0127/openapi-docs-mcp",
+  "install": "npx -y openapi-docs-mcp"
+}

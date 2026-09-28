@@ -1,0 +1,7 @@
+{
+  "name": "nerai-mcp",
+  "description": "Provides AI agents with geopolitical risk intelligence, calibrated forecasts, sanctions and trade-control data, and live maritime chokepoint traffic across 60 countries, with source-linked answers.",
+  "source_repo": "serkvay13/nerai-mcp",
+  "source_url": "https://github.com/serkvay13/nerai-mcp",
+  "install": "npx -y nerai-mcp"
+}

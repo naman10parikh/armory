@@ -1,0 +1,7 @@
+{
+  "name": "sthayi",
+  "description": "A local-first MCP server that gives AI clients a shared, user-owned memory and skills plane, enabling persistent memory across apps via the Model Context Protocol.",
+  "source_repo": "sthayi-ai/sthayi",
+  "source_url": "https://github.com/sthayi-ai/sthayi",
+  "install": "# git clone --depth 1 https://github.com/sthayi-ai/sthayi\n# See source for mcpServers config block"
+}

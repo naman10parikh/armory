@@ -1,0 +1,7 @@
+{
+  "name": "workos-mcp-server",
+  "description": "MCP server for WorkOS User Management API. Enables Claude to manage users, organizations, memberships, invitations, and sessions in WorkOS.",
+  "source_repo": "tellahq/workos-mcp",
+  "source_url": "https://github.com/tellahq/workos-mcp",
+  "install": "npx -y workos-mcp"
+}

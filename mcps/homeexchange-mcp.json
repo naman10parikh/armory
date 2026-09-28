@@ -1,0 +1,7 @@
+{
+  "name": "homeexchange-mcp",
+  "description": "Interact with the HomeExchange home-swapping platform — search listings, manage your calendar and availabilities, and handle messages and exchange requests.",
+  "source_repo": "manganate006/homeexchange-mcp",
+  "source_url": "https://github.com/manganate006/homeexchange-mcp",
+  "install": "npx -y homeexchange-mcp"
+}

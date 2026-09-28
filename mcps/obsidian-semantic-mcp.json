@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-semantic-mcp",
+  "description": "A persistent memory layer for Claude Desktop that enables semantic search and CRUD operations on your Obsidian vault using local embeddings and PostgreSQL+pgvector.",
+  "source_repo": "celstnblacc/obsidian-semantic-mcp",
+  "source_url": "https://github.com/celstnblacc/obsidian-semantic-mcp",
+  "install": "npx -y obsidian-semantic-mcp"
+}

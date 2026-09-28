@@ -1,0 +1,7 @@
+{
+  "name": "recargapay-mcp",
+  "description": "Connects RecargaPay accounts to AI agents via Open Finance Brasil, enabling read-only queries about balances, statements, credit card bills, and investments in natural language.",
+  "source_repo": "mcp-dir/recargapay-mcp",
+  "source_url": "https://github.com/mcp-dir/recargapay-mcp",
+  "install": "npx -y recargapay-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dodo-payments-agent-plugin",
+  "description": "Official Dodo Payments MCP servers - dodopayments-api for live payments, subscriptions, customers, products, refunds, license keys, and usage-based billing (browser OAuth, no API key needed) and dodo-knowledge for semantic search over Dodo Payments documentation.",
+  "source_repo": "dodopayments/dodo-agent-plugin",
+  "source_url": "https://github.com/dodopayments/dodo-agent-plugin",
+  "install": "# git clone --depth 1 https://github.com/dodopayments/dodo-agent-plugin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "diffcontext",
+  "description": "Show an AI coding assistant only the code that matters for a change — callers, callees, and related functions packed into a token budget, with self-grading retrieval.",
+  "source_repo": "trakshan-mishra/Diffcontext",
+  "source_url": "https://github.com/trakshan-mishra/Diffcontext",
+  "install": "# git clone --depth 1 https://github.com/trakshan-mishra/Diffcontext\n# See source for mcpServers config block"
+}

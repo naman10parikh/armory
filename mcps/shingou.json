@@ -1,0 +1,7 @@
+{
+  "name": "shingou",
+  "description": "Hourly news sentiment and typed market events (hack, regulation, listing, delisting, legal) for 30 crypto pairs, with source links on every signal. Four tools cover the latest score per symbol, history, classified events and the symbol list, and a free API key works out of the box",
+  "source_repo": "auriontech/shingou-skills",
+  "source_url": "https://github.com/auriontech/shingou-skills",
+  "install": "# git clone --depth 1 https://github.com/auriontech/shingou-skills\n# See source for mcpServers config block"
+}

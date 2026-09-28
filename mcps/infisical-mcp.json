@@ -1,0 +1,7 @@
+{
+  "name": "infisical-mcp",
+  "description": "FastMCP server for managing a self-hosted Infisical instance, exposing tools to create, read, update, and delete projects, environments, folders, and secrets, and to render .env and shell-export formats.",
+  "source_repo": "plgonzalezrx8/InfisicalMCP",
+  "source_url": "https://github.com/plgonzalezrx8/InfisicalMCP",
+  "install": "# git clone --depth 1 https://github.com/plgonzalezrx8/InfisicalMCP\n# See source for mcpServers config block"
+}

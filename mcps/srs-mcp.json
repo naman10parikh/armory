@@ -1,0 +1,7 @@
+{
+  "name": "srs-mcp",
+  "description": "Enables agents to perform spaced-repetition learning with FSRS scheduling, including adding cards, reviewing due cards, and grading recall, using a headless SQLite or Postgres backend.",
+  "source_repo": "klutometis/srs-mcp",
+  "source_url": "https://github.com/klutometis/srs-mcp",
+  "install": "npx -y srs-mcp"
+}

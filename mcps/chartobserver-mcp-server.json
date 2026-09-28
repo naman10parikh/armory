@@ -1,0 +1,7 @@
+{
+  "name": "chartobserver-mcp-server",
+  "description": "An MCP server that lets an AI agent read your portfolio, place paper trades, and check the leaderboard on your ChartObserver account.",
+  "source_repo": "bbusche/chartobserver-mcp",
+  "source_url": "https://github.com/bbusche/chartobserver-mcp",
+  "install": "npx -y chartobserver-mcp"
+}

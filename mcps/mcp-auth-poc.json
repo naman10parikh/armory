@@ -1,0 +1,7 @@
+{
+  "name": "mcp-auth-poc",
+  "description": "A minimal MCP server with token-based authentication and SSE transport, providing greeting and echo tools for testing authentication patterns in remote MCP servers.",
+  "source_repo": "360XView/mcp-auth-poc",
+  "source_url": "https://github.com/360XView/mcp-auth-poc",
+  "install": "# git clone --depth 1 https://github.com/360XView/mcp-auth-poc\n# See source for mcpServers config block"
+}

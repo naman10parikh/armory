@@ -1,0 +1,7 @@
+{
+  "name": "hir",
+  "description": "Compiler introspection for the Hirð language (typed actors and effect rows on the BEAM): type inference, definition lookup, effect-row explanation, IR fragments, actor protocol and supervision graphs, and token-budget-aware symbol summaries.",
+  "source_repo": "no-materials/hird",
+  "source_url": "https://github.com/no-materials/hird",
+  "install": "# git clone --depth 1 https://github.com/no-materials/hird\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kimi-project-intelligence-mcp",
+  "description": "A Model Context Protocol server for Kimi-CLI that provides semantic project indexing, intelligent code retrieval, and dynamic skill routing to enhance code assistance. It supports incremental indexing, file watching, dependency graphs, git integration, code summarization, REST API, and web UI for ma",
+  "source_repo": "skyones-0/kimi-mcp",
+  "source_url": "https://github.com/skyones-0/kimi-mcp",
+  "install": "npx -y kimi-mcp"
+}

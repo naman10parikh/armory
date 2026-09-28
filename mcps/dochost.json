@@ -1,0 +1,7 @@
+{
+  "name": "dochost",
+  "description": "Publish Markdown or HTML to a clean, shareable public link straight from your AI assistant — OAuth sign-in, no API keys. Tools: publish and list_my_pages.",
+  "source_repo": "zyli5313/dochost-mcp",
+  "source_url": "https://github.com/zyli5313/dochost-mcp",
+  "install": "npx -y dochost-mcp"
+}

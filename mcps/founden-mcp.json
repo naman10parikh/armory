@@ -1,0 +1,7 @@
+{
+  "name": "founden-mcp",
+  "description": "Enables building and iterating on a software company through natural language, returning live preview URLs, without needing a browser.",
+  "source_repo": "O-mega-Enterprise/founden-mcp",
+  "source_url": "https://github.com/O-mega-Enterprise/founden-mcp",
+  "install": "npx -y founden-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hungarian-legislation-mcp-server",
+  "description": "Query 4,326 Hungarian laws (Ptk., Mt., Btk., etc.) from MCP-compatible clients. Includes full-text search, citation validation, and EU law mapping.",
+  "source_repo": "gergototh1/magyar-jogszabaly-mcp",
+  "source_url": "https://github.com/gergototh1/magyar-jogszabaly-mcp",
+  "install": "npx -y magyar-jogszabaly-mcp"
+}

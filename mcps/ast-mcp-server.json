@@ -1,0 +1,7 @@
+{
+  "name": "ast-mcp-server",
+  "description": "ast-mcp-server gives coding agents compact, type-aware access to TypeScript and JavaScript projects, providing structural code tools based on the real compiler project model through ts-morph for declarations, references, renames, and diagnostics, with safe prepare → review → apply mutation semantics",
+  "source_repo": "yailPeralta/ast-mcp-server",
+  "source_url": "https://github.com/yailPeralta/ast-mcp-server",
+  "install": "npx -y ast-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ofaudio-mcp",
+  "description": "An agent-first MCP server for generating and transforming audio (music, speech, sound effects) via ElevenLabs and Mureka, providing tools for transcription, voice cloning, and multi-speaker dialogue.",
+  "source_repo": "DuragonYama/ofaudio-mcp",
+  "source_url": "https://github.com/DuragonYama/ofaudio-mcp",
+  "install": "npx -y ofaudio-mcp"
+}

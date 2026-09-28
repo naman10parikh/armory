@@ -1,0 +1,7 @@
+{
+  "name": "is-bankasi-mcp",
+  "description": "MCP server for Isbank (Is Bankasi) developer API (Turkey). Enables access to accounts, balances, transactions, exchange rates, transfers, and credit cards via OAuth 2.0 authentication.",
+  "source_repo": "theYahia/is-bankasi-mcp",
+  "source_url": "https://github.com/theYahia/is-bankasi-mcp",
+  "install": "npx -y is-bankasi-mcp"
+}

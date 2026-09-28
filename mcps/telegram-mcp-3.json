@@ -1,0 +1,7 @@
+{
+  "name": "telegram-mcp-3",
+  "description": "Personal read-only Telegram MCP server exposing chat, message, and media tools via streamable HTTP with bearer authentication.",
+  "source_repo": "francescomiliani/telegram-mcp-server",
+  "source_url": "https://github.com/francescomiliani/telegram-mcp-server",
+  "install": "npx -y telegram-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fouradata-mcp",
+  "description": "Provides MCP tools for web scraping, including smart fetching, proxy rotation, and browser rendering to bypass anti-bot challenges and render JavaScript-heavy sites.",
+  "source_repo": "fouradata/mcp",
+  "source_url": "https://github.com/fouradata/mcp",
+  "install": "# git clone --depth 1 https://github.com/fouradata/mcp\n# See source for mcpServers config block"
+}

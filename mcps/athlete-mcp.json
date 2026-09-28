@@ -1,0 +1,7 @@
+{
+  "name": "athlete-mcp",
+  "description": "An open-source, Strava-first remote MCP server that enables users to authorize with Strava and ask AI about their training data.",
+  "source_repo": "chamilqs/athlete-mcp",
+  "source_url": "https://github.com/chamilqs/athlete-mcp",
+  "install": "npx -y athlete-mcp"
+}

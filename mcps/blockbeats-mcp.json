@@ -1,0 +1,7 @@
+{
+  "name": "blockbeats-mcp",
+  "description": "A crypto data gateway for AI assistants, providing real-time newsflashes, articles, on-chain metrics, ETF flows, stablecoin data, macro indicators, and derivatives market data via the BlockBeats Pro API.",
+  "source_repo": "BlockBeatsOfficial/blockbeats-MCP",
+  "source_url": "https://github.com/BlockBeatsOfficial/blockbeats-MCP",
+  "install": "npx -y blockbeats-MCP"
+}

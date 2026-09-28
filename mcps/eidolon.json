@@ -1,0 +1,7 @@
+{
+  "name": "eidolon",
+  "description": "Privacy-first OSINT scanning MCP server that aggregates ~25 sources into a risk report, running locally with no data leaving your machine.",
+  "source_repo": "sudohnim/eidolon",
+  "source_url": "https://github.com/sudohnim/eidolon",
+  "install": "# git clone --depth 1 https://github.com/sudohnim/eidolon\n# See source for mcpServers config block"
+}

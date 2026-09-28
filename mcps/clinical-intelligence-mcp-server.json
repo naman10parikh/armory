@@ -1,0 +1,7 @@
+{
+  "name": "clinical-intelligence-mcp-server",
+  "description": "Enables searching clinical trials, PubMed, Open Targets, and openFDA data, with optional Vertex AI grounding for regulatory context.",
+  "source_repo": "nasimpc/Clinical-Trial-Intelligence-MCP-Server",
+  "source_url": "https://github.com/nasimpc/Clinical-Trial-Intelligence-MCP-Server",
+  "install": "npx -y Clinical-Trial-Intelligence-MCP-Server"
+}

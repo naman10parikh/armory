@@ -1,0 +1,7 @@
+{
+  "name": "paperops",
+  "description": "An observability control plane for Paper's MCP that acts as a passive proxy to meter, attribute, and live-stream every tool call with budgets and a real-time dashboard.",
+  "source_repo": "rbadillap/paperops",
+  "source_url": "https://github.com/rbadillap/paperops",
+  "install": "# git clone --depth 1 https://github.com/rbadillap/paperops\n# See source for mcpServers config block"
+}

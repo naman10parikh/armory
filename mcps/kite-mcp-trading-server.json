@@ -1,0 +1,7 @@
+{
+  "name": "kite-mcp-trading-server",
+  "description": "An MCP server for Zerodha Kite Connect that enables AI agents to execute trades, manage portfolios, fetch market data, and perform technical and fundamental analysis.",
+  "source_repo": "BrextherFx/kite-mcp-server",
+  "source_url": "https://github.com/BrextherFx/kite-mcp-server",
+  "install": "npx -y kite-mcp-server"
+}

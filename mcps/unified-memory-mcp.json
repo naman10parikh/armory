@@ -1,0 +1,7 @@
+{
+  "name": "unified-memory-mcp",
+  "description": "Local explicit memory vault exposing MCP tools for storing, searching, and managing memories, providing a shared memory layer for agents like Codex and ChatGPT.",
+  "source_repo": "yksanjo/unified-memory-mcp",
+  "source_url": "https://github.com/yksanjo/unified-memory-mcp",
+  "install": "npx -y unified-memory-mcp"
+}

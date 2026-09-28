@@ -1,0 +1,7 @@
+{
+  "name": "opti-mcp",
+  "description": "Enables AI assistants to solve linear, integer, mixed-integer, and knapsack optimization problems using Google OR-Tools via a simple JSON interface.",
+  "source_repo": "average-joe25/opti-mcp",
+  "source_url": "https://github.com/average-joe25/opti-mcp",
+  "install": "npx -y opti-mcp"
+}

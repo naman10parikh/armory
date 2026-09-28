@@ -1,0 +1,7 @@
+{
+  "name": "gemini-designer-mcp",
+  "description": "Provides AI-powered UI design, repo intelligence, and frontend code generation tools, enabling assistants to scaffold projects, generate and modify UI components, manage design tokens, and analyze repositories.",
+  "source_repo": "Pape45/gemini-designer-mcp",
+  "source_url": "https://github.com/Pape45/gemini-designer-mcp",
+  "install": "npx -y gemini-designer-mcp"
+}

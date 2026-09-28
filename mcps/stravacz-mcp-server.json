@@ -1,0 +1,7 @@
+{
+  "name": "stravacz-mcp-server",
+  "description": "Provides tools to interact with the strava.cz meal ordering system, enabling users to view menus, check and place orders, and manage their canteen account.",
+  "source_repo": "mirecekd/stravacz-mcp",
+  "source_url": "https://github.com/mirecekd/stravacz-mcp",
+  "install": "npx -y stravacz-mcp"
+}

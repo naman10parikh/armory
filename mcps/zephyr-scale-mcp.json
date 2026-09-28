@@ -1,0 +1,7 @@
+{
+  "name": "zephyr-scale-mcp",
+  "description": "MCP server for managing test cases, cycles, and results in Zephyr Scale on self-hosted Jira. Enables AI agents to create, search, update, and delete test artifacts through natural language.",
+  "source_repo": "vilaabo/zephyr-scale-mcp",
+  "source_url": "https://github.com/vilaabo/zephyr-scale-mcp",
+  "install": "npx -y zephyr-scale-mcp"
+}

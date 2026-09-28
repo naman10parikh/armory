@@ -1,0 +1,7 @@
+{
+  "name": "jeju-humanities-tour-mcp-server",
+  "description": "Recommends humanities tour courses in Jeju based on region, theme, and duration, and provides details about tour spots using SQLite database queries.",
+  "source_repo": "openhee/MCP",
+  "source_url": "https://github.com/openhee/MCP",
+  "install": "# git clone --depth 1 https://github.com/openhee/MCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vision-mcp-5",
+  "description": "Enables text-only models to understand images through a conversational MCP server, supporting multi-turn follow-ups, URL inputs, and OpenAI-compatible vision APIs.",
+  "source_repo": "whyneedai/vision-mcp",
+  "source_url": "https://github.com/whyneedai/vision-mcp",
+  "install": "npx -y vision-mcp"
+}

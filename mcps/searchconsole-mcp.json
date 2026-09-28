@@ -1,0 +1,7 @@
+{
+  "name": "searchconsole-mcp",
+  "description": "A lightweight, fast MCP server for Google Search Console. Query search analytics, manage sitemaps, and inspect URLs directly from your AI assistant.",
+  "source_repo": "harisnadeem/searchconsole-mcp",
+  "source_url": "https://github.com/harisnadeem/searchconsole-mcp",
+  "install": "npx -y searchconsole-mcp"
+}

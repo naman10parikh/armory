@@ -1,0 +1,7 @@
+{
+  "name": "carclever-find-my-car",
+  "description": "An MCP server for used-vehicle matching, offering tools to find matching vehicles, fetch photos, and resolve dealer URLs using Auto.dev endpoints. Currently a scaffold with stubs for search logic.",
+  "source_repo": "AndreBro007/carclever-find-my-car",
+  "source_url": "https://github.com/AndreBro007/carclever-find-my-car",
+  "install": "# git clone --depth 1 https://github.com/AndreBro007/carclever-find-my-car\n# See source for mcpServers config block"
+}

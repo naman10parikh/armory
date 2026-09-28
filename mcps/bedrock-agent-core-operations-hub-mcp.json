@@ -1,0 +1,7 @@
+{
+  "name": "bedrock-agent-core-operations-hub-mcp",
+  "description": "An autonomous AI operations hub for enterprise e-commerce that uses a decentralized MCP mesh and LLM-as-Judge consensus to detect and self-heal infrastructure issues.",
+  "source_repo": "sujithpvarghese/bedrock-agent-core-operations-hub-mcp",
+  "source_url": "https://github.com/sujithpvarghese/bedrock-agent-core-operations-hub-mcp",
+  "install": "npx -y bedrock-agent-core-operations-hub-mcp"
+}

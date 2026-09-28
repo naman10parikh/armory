@@ -1,0 +1,7 @@
+{
+  "name": "opplevagent-mcp",
+  "description": "MCP server for Opplevagent — discover Norwegian experiences and activities such as tours, courses and things to do, filtered by county, municipality, category, weather, season, group size, age and price. Read-only access to a public A2A experiences marketplace.",
+  "source_repo": "slookisen/opplevagent-mcp",
+  "source_url": "https://github.com/slookisen/opplevagent-mcp",
+  "install": "npx -y opplevagent-mcp"
+}

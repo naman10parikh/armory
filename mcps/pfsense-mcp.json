@@ -1,0 +1,7 @@
+{
+  "name": "pfsense-mcp",
+  "description": "Enables AI agents to manage and configure pfSense routers through the pfSense REST API, offering 240 tools across 17 modules with safety features like confirm gates, config backups, and read-only mode.",
+  "source_repo": "parthmstech/pfsense-mcp",
+  "source_url": "https://github.com/parthmstech/pfsense-mcp",
+  "install": "npx -y pfsense-mcp"
+}

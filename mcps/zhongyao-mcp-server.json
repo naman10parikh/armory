@@ -1,0 +1,7 @@
+{
+  "name": "zhongyao-mcp-server",
+  "description": "Enables generating short videos for Chinese herbs with information, images, voiceovers, and video synthesis using Volcano Engine's Doubao models.",
+  "source_repo": "zhouqyu666/zhongyao-mcp-server",
+  "source_url": "https://github.com/zhouqyu666/zhongyao-mcp-server",
+  "install": "npx -y zhongyao-mcp-server"
+}

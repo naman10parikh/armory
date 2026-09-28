@@ -1,0 +1,7 @@
+{
+  "name": "monarch-mcp2",
+  "description": "Unofficial MCP server for Monarch Money that exposes tools for managing accounts, transactions, budgets, and other financial data through natural language.",
+  "source_repo": "erikrubstein/monarch-mcp2",
+  "source_url": "https://github.com/erikrubstein/monarch-mcp2",
+  "install": "# git clone --depth 1 https://github.com/erikrubstein/monarch-mcp2\n# See source for mcpServers config block"
+}

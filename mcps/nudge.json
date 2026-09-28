@@ -1,0 +1,7 @@
+{
+  "name": "nudge",
+  "description": "An MCP server that connects AI assistants like Claude to your todo app, enabling natural, friendly reminders and task management without a server to run.",
+  "source_repo": "davesleal/nudge",
+  "source_url": "https://github.com/davesleal/nudge",
+  "install": "# git clone --depth 1 https://github.com/davesleal/nudge\n# See source for mcpServers config block"
+}

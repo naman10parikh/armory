@@ -1,0 +1,7 @@
+{
+  "name": "airkorea-statistics-mcp",
+  "description": "Enables Claude to query AirKorea's air pollution statistics, including real-time averages by province and city/county, as well as daily and monthly averages by monitoring station.",
+  "source_repo": "hlucent/airkorea-statistics-mcp",
+  "source_url": "https://github.com/hlucent/airkorea-statistics-mcp",
+  "install": "npx -y airkorea-statistics-mcp"
+}

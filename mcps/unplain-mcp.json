@@ -1,0 +1,7 @@
+{
+  "name": "unplain-mcp",
+  "description": "Enables generating designed, publish-ready PDF ebooks and reports from Markdown through natural language, with reusable brand themes, AI-generated covers, and editable saved projects.",
+  "source_repo": "Dolko42/unplain-mcp",
+  "source_url": "https://github.com/Dolko42/unplain-mcp",
+  "install": "npx -y unplain-mcp"
+}

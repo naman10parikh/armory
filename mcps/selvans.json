@@ -1,0 +1,7 @@
+{
+  "name": "selvans",
+  "description": "A framework that makes any web application natively operable by AI agents through the Model Context Protocol (MCP), replacing browser automation with structured UI semantic trees and typed backend operations.",
+  "source_repo": "gabrieleakeron/selvans",
+  "source_url": "https://github.com/gabrieleakeron/selvans",
+  "install": "# git clone --depth 1 https://github.com/gabrieleakeron/selvans\n# See source for mcpServers config block"
+}

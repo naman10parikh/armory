@@ -1,6 +1,6 @@
 {
   "name": "entity-identificationn",
-  "description": "Entity Identificationn MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "u3588064/Entity Identificationn",
   "source_url": "https://mcp.so/server/Entity Identificationn/u3588064",
   "install": "# git clone --depth 1 https://mcp.so/server/Entity Identificationn/u3588064\n# See source for mcpServers config block"

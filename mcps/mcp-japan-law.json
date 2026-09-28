@@ -1,0 +1,7 @@
+{
+  "name": "mcp-japan-law",
+  "description": "Enables querying Japanese national laws and ordinances via the e-Gov Law API, allowing AI agents to access legal data through natural language questions.",
+  "source_repo": "pipeworx-io/mcp-japan-law",
+  "source_url": "https://github.com/pipeworx-io/mcp-japan-law",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-japan-law\n# See source for mcpServers config block"
+}

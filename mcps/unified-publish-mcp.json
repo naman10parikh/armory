@@ -1,0 +1,7 @@
+{
+  "name": "unified-publish-mcp",
+  "description": "Unified Publish MCP is a server that enables cross-platform social content publishing, searching, and commenting across 28+ platforms via a unified interface, leveraging the Model Context Protocol.",
+  "source_repo": "Lesleyshi1015/unified-publish-mcp",
+  "source_url": "https://github.com/Lesleyshi1015/unified-publish-mcp",
+  "install": "npx -y unified-publish-mcp"
+}

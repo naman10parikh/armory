@@ -1,0 +1,7 @@
+{
+  "name": "bip-monitor-mcp-server",
+  "description": "Monitors Next.js development servers with intelligent error categorization, smart diagnostics, and performance tracking.",
+  "source_repo": "The-Bip-App/bip-monitor-mcp",
+  "source_url": "https://github.com/The-Bip-App/bip-monitor-mcp",
+  "install": "npx -y bip-monitor-mcp"
+}

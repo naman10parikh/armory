@@ -1,0 +1,7 @@
+{
+  "name": "faostat-mcp-server-2",
+  "description": "UN FAOSTAT global food & agriculture statistics over a local SQLite mirror, via MCP.",
+  "source_repo": "",
+  "source_url": "https://faostat.caseyjhand.com/mcp",
+  "install": "# git clone --depth 1 https://faostat.caseyjhand.com/mcp\n# See source for mcpServers config block"
+}

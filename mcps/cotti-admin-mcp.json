@@ -1,0 +1,7 @@
+{
+  "name": "cotti-admin-mcp",
+  "description": "MCP server for Cotti Admin backend, enabling reading and writing of private domain product configurations, including coupon and activity management via Playwright UI.",
+  "source_repo": "zchangechen/cotti-admin-mcp",
+  "source_url": "https://github.com/zchangechen/cotti-admin-mcp",
+  "install": "npx -y cotti-admin-mcp"
+}

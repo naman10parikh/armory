@@ -1,0 +1,7 @@
+{
+  "name": "chess-support-mcp",
+  "description": "Manages the state of a chess game for LLMs/agents without suggesting moves, providing tools to create/reset game, add moves, get status, and check legality.",
+  "source_repo": "danilop/chess-support-mcp",
+  "source_url": "https://github.com/danilop/chess-support-mcp",
+  "install": "npx -y chess-support-mcp"
+}

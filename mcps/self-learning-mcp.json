@@ -1,0 +1,7 @@
+{
+  "name": "self-learning-mcp",
+  "description": "Enables AI agents to learn from their work by recording tasks, extracting patterns, detecting mistakes, and proactively surfacing insights, all using the agent's own model through a cooperative intelligence pattern.",
+  "source_repo": "ByronAP/Self-Learning-MCP",
+  "source_url": "https://github.com/ByronAP/Self-Learning-MCP",
+  "install": "npx -y Self-Learning-MCP"
+}

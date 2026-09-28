@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tst-valida-o-de-cndt",
+  "description": "Consultas a Certidão de Negativa de Débitos Trabalhistas (CNDT) na fonte oficial do Tribunal Superior do Trabalho, com leitura somente e pré-pago.",
+  "source_repo": "mcp-dir/tribunal_tst_validacao_cndt-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tst_validacao_cndt-mcp",
+  "install": "npx -y tribunal_tst_validacao_cndt-mcp"
+}

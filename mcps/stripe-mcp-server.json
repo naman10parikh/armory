@@ -1,0 +1,7 @@
+{
+  "name": "stripe-mcp-server",
+  "description": "Enables Claude to integrate with Stripe for creating payment links, processing payments, and managing products and customers.",
+  "source_repo": "jsyapps/stripe-mcp",
+  "source_url": "https://github.com/jsyapps/stripe-mcp",
+  "install": "npx -y stripe-mcp"
+}

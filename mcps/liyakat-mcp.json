@@ -1,0 +1,7 @@
+{
+  "name": "liyakat-mcp",
+  "description": "A Türk hukuk MCP sunucusu that enables searching and retrieving Turkish legal decisions (Yargıtay, Danıştay, etc.) with semantic search via NVIDIA embeddings and a Turkish chat tool powered by Llama 3.3 70B.",
+  "source_repo": "muhammedturan65/liyakat-mcp",
+  "source_url": "https://github.com/muhammedturan65/liyakat-mcp",
+  "install": "npx -y liyakat-mcp"
+}

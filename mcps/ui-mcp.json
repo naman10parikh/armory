@@ -1,0 +1,7 @@
+{
+  "name": "ui-mcp",
+  "description": "Gives MCP clients access to a registry of elite UI patterns, components, and motion configs with real, copy-pasteable React/TSX implementations.",
+  "source_repo": "maahigoel/ui-elite-patterns",
+  "source_url": "https://github.com/maahigoel/ui-elite-patterns",
+  "install": "# git clone --depth 1 https://github.com/maahigoel/ui-elite-patterns\n# See source for mcpServers config block"
+}

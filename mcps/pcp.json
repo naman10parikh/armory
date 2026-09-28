@@ -1,0 +1,7 @@
+{
+  "name": "pcp",
+  "description": "Standardize Context, Not Intelligence. An open protocol and native MCP server for preserving, organizing, and serving structured project context (architecture, decision logs, domain rules, and roadmap) to AI coding assistants (Cursor, Claude Desktop, Antigravity) with built-in CLI verification",
+  "source_repo": "IsoCodeCrafter/PCP",
+  "source_url": "https://github.com/IsoCodeCrafter/PCP",
+  "install": "# git clone --depth 1 https://github.com/IsoCodeCrafter/PCP\n# See source for mcpServers config block"
+}

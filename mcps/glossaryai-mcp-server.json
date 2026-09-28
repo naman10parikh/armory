@@ -1,0 +1,7 @@
+{
+  "name": "glossaryai-mcp-server",
+  "description": "MCP server for GlossaryAI, an AI assistant specialized in legal and regulatory vocabularies. Provides tools for vector search, planning, legal link resolution, and concept comparison using Qdrant and an OpenAI-compatible LLM.",
+  "source_repo": "theojoly2/GlossaryAI-MCP-server",
+  "source_url": "https://github.com/theojoly2/GlossaryAI-MCP-server",
+  "install": "npx -y GlossaryAI-MCP-server"
+}

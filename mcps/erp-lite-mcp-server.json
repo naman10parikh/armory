@@ -1,0 +1,7 @@
+{
+  "name": "erp-lite-mcp-server",
+  "description": "MCP server that exposes ERP functionalities to AI agents, enabling read-only queries for sales orders and inventory, and human-in-the-loop purchase requisition creation and approval.",
+  "source_repo": "josephkamau32/erp-lite-mcp",
+  "source_url": "https://github.com/josephkamau32/erp-lite-mcp",
+  "install": "npx -y erp-lite-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-scoped-write-mcp",
+  "description": "Enables reading an entire Obsidian Vault while limiting Markdown creation and updates to two designated ChatGPT directories, with overwrite protection and backup safeguards.",
+  "source_repo": "kee12301230-prog/obsidian-readonly-mcp",
+  "source_url": "https://github.com/kee12301230-prog/obsidian-readonly-mcp",
+  "install": "npx -y obsidian-readonly-mcp"
+}

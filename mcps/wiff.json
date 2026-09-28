@@ -1,0 +1,7 @@
+{
+  "name": "wiff",
+  "description": "Harness-agnostic MCP server for orchestrating deterministic, resumable multi-agent workflows. It lets you start, watch, resume, and cancel agent runs from any MCP client, using agents from Codex, Claude, Cursor, or Kimi.",
+  "source_repo": "xxxoooxoxo/wiff",
+  "source_url": "https://github.com/xxxoooxoxo/wiff",
+  "install": "# git clone --depth 1 https://github.com/xxxoooxoxo/wiff\n# See source for mcpServers config block"
+}

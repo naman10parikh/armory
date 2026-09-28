@@ -1,0 +1,7 @@
+{
+  "name": "haraj-mcp-server",
+  "description": "Enables AI models to connect to Haraj accounts for listing management, marketplace discovery, messaging, and bulk operations.",
+  "source_repo": "primeoak/Haraj-Mcp",
+  "source_url": "https://github.com/primeoak/Haraj-Mcp",
+  "install": "npx -y Haraj-Mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hotline-finance-faq-mcp-server",
+  "description": "MCP server for retrieving FAQ and glossary from the hotline.finance insurance service, supporting both stdio and HTTP modes for integration with clients like Cursor, Claude Desktop, and ChatGPT.",
+  "source_repo": "denysmilimonko/hf_faqs_mcp_server",
+  "source_url": "https://github.com/denysmilimonko/hf_faqs_mcp_server",
+  "install": "npx -y hf_faqs_mcp_server"
+}

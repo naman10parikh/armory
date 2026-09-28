@@ -1,0 +1,7 @@
+{
+  "name": "nullsec-s1-mcp",
+  "description": "Exposes Nullsec security tooling for scanning and explaining ZK circuits (Circom/Halo2) to MCP-compatible AI agents.",
+  "source_repo": "trynullsec/s1-mcp",
+  "source_url": "https://github.com/trynullsec/s1-mcp",
+  "install": "npx -y s1-mcp"
+}

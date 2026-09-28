@@ -1,0 +1,7 @@
+{
+  "name": "orbit-sentinel-mcp",
+  "description": "Search 419,000+ LLM-extracted space regulatory filings from the FCC, ITU, UNOOSA, and FAA. Semantic search, entity dossiers, spectrum-band holdings, launch licenses, filing trends, and alerts.",
+  "source_repo": "Viventine-Space/orbit-sentinel-mcp",
+  "source_url": "https://github.com/Viventine-Space/orbit-sentinel-mcp",
+  "install": "npx -y orbit-sentinel-mcp"
+}

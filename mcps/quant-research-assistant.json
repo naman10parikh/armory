@@ -1,0 +1,7 @@
+{
+  "name": "quant-research-assistant",
+  "description": "A comprehensive quantitative finance MCP server providing live financial analysis, including price/risk metrics, HMM market regime detection, backtesting, options analytics, fundamentals, sentiment, Monte Carlo simulation, pairs trading, factor models, and portfolio optimization. It integrates with",
+  "source_repo": "irohan0/quant-mcp",
+  "source_url": "https://github.com/irohan0/quant-mcp",
+  "install": "npx -y quant-mcp"
+}

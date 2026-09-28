@@ -1,0 +1,7 @@
+{
+  "name": "ahao-weather-mcp-server",
+  "description": "Provides real-time weather data for Chinese cities and worldwide locations through wttr.in, with tools to query weather, list supported cities, and get server/author information.",
+  "source_repo": "ooo423/ahao-weather-mcp-server",
+  "source_url": "https://github.com/ooo423/ahao-weather-mcp-server",
+  "install": "npx -y ahao-weather-mcp-server"
+}

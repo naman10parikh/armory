@@ -1,0 +1,7 @@
+{
+  "name": "ticket-support-mcp-server",
+  "description": "Enables retrieval of support tickets and user data from a JSON store or ServiceNow via MCP tools, providing context for AI-powered support responses.",
+  "source_repo": "dsoziev1/deepseek-cli-day-33",
+  "source_url": "https://github.com/dsoziev1/deepseek-cli-day-33",
+  "install": "# git clone --depth 1 https://github.com/dsoziev1/deepseek-cli-day-33\n# See source for mcpServers config block"
+}

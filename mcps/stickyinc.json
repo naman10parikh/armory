@@ -1,0 +1,7 @@
+{
+  "name": "stickyinc",
+  "description": "Captures commitments from LLM conversations into a persistent local task list shown on an edge strip, with tools to add, list, and complete tasks.",
+  "source_repo": "Astralchemist/stickyinc",
+  "source_url": "https://github.com/Astralchemist/stickyinc",
+  "install": "# git clone --depth 1 https://github.com/Astralchemist/stickyinc\n# See source for mcpServers config block"
+}

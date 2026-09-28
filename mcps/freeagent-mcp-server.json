@@ -1,0 +1,7 @@
+{
+  "name": "freeagent-mcp-server",
+  "description": "MCP server for the FreeAgent accounting API, enabling LLMs to securely access and manage accounting data including contacts, invoices, bills, bank transactions, and more.",
+  "source_repo": "StupidCodeFactory/freeagent-mcp",
+  "source_url": "https://github.com/StupidCodeFactory/freeagent-mcp",
+  "install": "npx -y freeagent-mcp"
+}

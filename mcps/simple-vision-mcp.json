@@ -1,0 +1,7 @@
+{
+  "name": "simple-vision-mcp",
+  "description": "A lightweight MCP server for image analysis using any OpenAI-compatible API endpoint, enabling AI agents to analyze images via a single tool.",
+  "source_repo": "erickstryck/simple-vision-mcp",
+  "source_url": "https://github.com/erickstryck/simple-vision-mcp",
+  "install": "npx -y simple-vision-mcp"
+}

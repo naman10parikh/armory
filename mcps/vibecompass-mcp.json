@@ -1,0 +1,7 @@
+{
+  "name": "vibecompass-mcp",
+  "description": "MCP server that connects AI coding tools to VibeCompass projects for reading context and writing decisions, conflicts, and session notes.",
+  "source_repo": "jack-whimvy/vibecompass-mcp",
+  "source_url": "https://github.com/jack-whimvy/vibecompass-mcp",
+  "install": "npx -y vibecompass-mcp"
+}

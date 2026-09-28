@@ -1,0 +1,7 @@
+{
+  "name": "nfe-completa",
+  "description": "Consulta dados completos de Notas Fiscais Eletrônicas (NFe) a partir da chave de acesso. Servidor MCP hospedado, somente leitura, com pagamento por consulta via créditos pré-pagos.",
+  "source_repo": "mcp-dir/nfe_completa-mcp",
+  "source_url": "https://github.com/mcp-dir/nfe_completa-mcp",
+  "install": "npx -y nfe_completa-mcp"
+}

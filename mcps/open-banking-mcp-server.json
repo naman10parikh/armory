@@ -1,0 +1,7 @@
+{
+  "name": "open-banking-mcp-server",
+  "description": "Enables interaction with bank accounts via TrueLayer API, supporting listing accounts and retrieving transactions.",
+  "source_repo": "tkom04/openbankingMCP",
+  "source_url": "https://github.com/tkom04/openbankingMCP",
+  "install": "# git clone --depth 1 https://github.com/tkom04/openbankingMCP\n# See source for mcpServers config block"
+}

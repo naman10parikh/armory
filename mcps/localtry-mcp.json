@@ -1,0 +1,7 @@
+{
+  "name": "localtry-mcp",
+  "description": "Remote MCP server for operating a LocalTry CRM with plain-language instructions, enforcing tenant isolation via OAuth-bound connections. Enables searching and managing customers, companies, contacts, leads, jobs, estimates, invoices, and workspace customizations.",
+  "source_repo": "philly88r/localtry-mcp",
+  "source_url": "https://github.com/philly88r/localtry-mcp",
+  "install": "npx -y localtry-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "endpoint-aiops-mcp",
+  "description": "Governed AI-ops for managed-endpoint fleets, providing login-storm analysis and patch/config drift detection with built-in audit, budget, and risk-tier governance.",
+  "source_repo": "AIops-tools/Endpoint-AIops",
+  "source_url": "https://github.com/AIops-tools/Endpoint-AIops",
+  "install": "# git clone --depth 1 https://github.com/AIops-tools/Endpoint-AIops\n# See source for mcpServers config block"
+}

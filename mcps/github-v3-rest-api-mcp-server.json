@@ -1,0 +1,7 @@
+{
+  "name": "github-v3-rest-api-mcp-server",
+  "description": "Provides access to GitHub v3 REST API functionality through STDIO mode with FastMCP, enabling users to interact with GitHub resources.",
+  "source_repo": "CodeGlide/google-maps-api",
+  "source_url": "https://github.com/CodeGlide/google-maps-api",
+  "install": "# git clone --depth 1 https://github.com/CodeGlide/google-maps-api\n# See source for mcpServers config block"
+}

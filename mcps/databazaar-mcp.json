@@ -1,0 +1,7 @@
+{
+  "name": "databazaar-mcp",
+  "description": "Enables AI agents to discover, preview, purchase, and sell datasets on the DataBazaar marketplace, with tools for search, secure Stripe payments, listings, and seller communication.",
+  "source_repo": "shagarwal/databazaar-mcp",
+  "source_url": "https://github.com/shagarwal/databazaar-mcp",
+  "install": "npx -y databazaar-mcp"
+}

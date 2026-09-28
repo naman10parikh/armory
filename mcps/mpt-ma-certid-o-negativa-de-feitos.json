@@ -1,0 +1,7 @@
+{
+  "name": "mpt-ma-certid-o-negativa-de-feitos",
+  "description": "Enables querying official negative certificates of court cases (Certidão Negativa de Feitos) from the Brazilian Labor Prosecutor's Office in Maranhão (MPT MA) via a read-only MCP server.",
+  "source_repo": "mcp-dir/mpt_ma_cnf-mcp",
+  "source_url": "https://github.com/mcp-dir/mpt_ma_cnf-mcp",
+  "install": "npx -y mpt_ma_cnf-mcp"
+}

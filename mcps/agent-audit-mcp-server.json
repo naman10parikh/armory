@@ -1,0 +1,7 @@
+{
+  "name": "agent-audit-mcp-server",
+  "description": "MCP server that provides structured audit logging for AI agent repair tasks via tools to start, record, end, query, and export event traces, with JSONL persistence and SDK integration.",
+  "source_repo": "xueca/agent-aduit-mcp",
+  "source_url": "https://github.com/xueca/agent-aduit-mcp",
+  "install": "npx -y agent-aduit-mcp"
+}

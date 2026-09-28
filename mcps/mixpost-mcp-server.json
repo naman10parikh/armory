@@ -1,0 +1,7 @@
+{
+  "name": "mixpost-mcp-server",
+  "description": "Enables interaction with the Mixpost social media management API through natural language, supporting account, post, media, and tag management.",
+  "source_repo": "pfarag/mixpost-mcp-server",
+  "source_url": "https://github.com/pfarag/mixpost-mcp-server",
+  "install": "npx -y mixpost-mcp-server"
+}

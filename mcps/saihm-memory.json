@@ -1,0 +1,7 @@
+{
+  "name": "saihm-memory",
+  "description": "Provides persistent, client-side-encrypted memory for AI coding assistants via SAIHM, enabling tools to remember, recall, and forget with provable erasure.",
+  "source_repo": "citw2/demo-claude-code",
+  "source_url": "https://github.com/citw2/demo-claude-code",
+  "install": "# git clone --depth 1 https://github.com/citw2/demo-claude-code\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "piazza-mcp",
+  "description": "Enables read-only searching and reading of configured Piazza course discussions, including listing courses, browsing recent post summaries, and fetching individual threads.",
+  "source_repo": "mkslge/piazza-mcp",
+  "source_url": "https://github.com/mkslge/piazza-mcp",
+  "install": "npx -y piazza-mcp"
+}

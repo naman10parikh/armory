@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-tavily-search-mcp",
+  "description": "A remote web search MCP server deployed on Cloudflare Workers that wraps Tavily's low-cost search into a 'web_search' tool. It is suitable for mobile/desktop AI clients or any app supporting remote MCP.",
+  "source_repo": "KB-521/cloudflare-tavily-search-mcp",
+  "source_url": "https://github.com/KB-521/cloudflare-tavily-search-mcp",
+  "install": "npx -y cloudflare-tavily-search-mcp"
+}

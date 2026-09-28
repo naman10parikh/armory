@@ -1,0 +1,7 @@
+{
+  "name": "palveron-mcp-server",
+  "description": "Provides advisory AI-governance checks for MCP hosts and coding agents, enabling policy verdicts, PII masking, and audit traces before executing tool calls.",
+  "source_repo": "palveron/mcp-server",
+  "source_url": "https://github.com/palveron/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/palveron/mcp-server\n# See source for mcpServers config block"
+}

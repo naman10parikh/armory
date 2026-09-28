@@ -1,0 +1,7 @@
+{
+  "name": "evalscope-benchmark-mcp",
+  "description": "Paid hosted MCP endpoint for AI SDK benchmark dashboard, providing tools for running benchmarks, comparing model scores, reading reports, and issuing receipts.",
+  "source_repo": "clauxel/evalscope-benchmark-mcp-mcp",
+  "source_url": "https://github.com/clauxel/evalscope-benchmark-mcp-mcp",
+  "install": "npx -y evalscope-benchmark-mcp-mcp"
+}

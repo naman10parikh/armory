@@ -1,0 +1,7 @@
+{
+  "name": "exif-mcp",
+  "description": "An MCP server that lets LLMs read and edit image metadata (EXIF, GPS, XMP, ICC, IPTC, and more) entirely offline. Supports files, URLs, base64, and includes a browser-based UI for analysis, GPS extraction, and metadata stripping.",
+  "source_repo": "myworkgmail001-sketch/exif-mcp",
+  "source_url": "https://github.com/myworkgmail001-sketch/exif-mcp",
+  "install": "npx -y exif-mcp"
+}

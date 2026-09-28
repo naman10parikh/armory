@@ -1,0 +1,7 @@
+{
+  "name": "consilium-principis",
+  "description": "A personal board of AI advisors grounded in public-domain texts, with a fail-closed fidelity contour: every quote is checked word-for-word against its source by code, or the advisor abstains. Runs locally as a stdio MCP server.",
+  "source_repo": "ilyautov/consilium-principis",
+  "source_url": "https://github.com/ilyautov/consilium-principis",
+  "install": "# git clone --depth 1 https://github.com/ilyautov/consilium-principis\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "used-tempon",
+  "description": "Enables logging time to Tempo (Jira time tracker) via natural language in Claude Desktop or OpenCode.",
+  "source_repo": "lettfeti/used-tempon",
+  "source_url": "https://github.com/lettfeti/used-tempon",
+  "install": "# git clone --depth 1 https://github.com/lettfeti/used-tempon\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-runrun",
+  "description": "MCP server that gives Claude access to Runrun.it tasks, projects, clients, users, boards, and more via the Runrun.it REST API v1.0, including listing, creating, updating, deleting, and time-tracking operations.",
+  "source_repo": "Baker-Brands/mcp-runrun",
+  "source_url": "https://github.com/Baker-Brands/mcp-runrun",
+  "install": "# git clone --depth 1 https://github.com/Baker-Brands/mcp-runrun\n# See source for mcpServers config block"
+}

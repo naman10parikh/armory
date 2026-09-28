@@ -1,0 +1,7 @@
+{
+  "name": "prowlkit-mcp",
+  "description": "An advanced Model Context Protocol (MCP) server for Xcode project introspection. It enables AI assistants to read schemes, build iOS/macOS projects, run tests, and check Git & SwiftLint info directly from local repositories",
+  "source_repo": "ProwlLabs/prowlKit-mcp",
+  "source_url": "https://github.com/ProwlLabs/prowlKit-mcp",
+  "install": "npx -y prowlKit-mcp"
+}

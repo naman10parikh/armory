@@ -1,0 +1,7 @@
+{
+  "name": "wechat-desktop-mcp",
+  "description": "A production-oriented MCP server that exposes task-level WeChat Desktop automation to AI clients, enabling status checks, message fetching/reply, contact addition, and Moment publishing on macOS via accessibility automation.",
+  "source_repo": "Wirkflow/wechat-desktop-mcp",
+  "source_url": "https://github.com/Wirkflow/wechat-desktop-mcp",
+  "install": "npx -y wechat-desktop-mcp"
+}

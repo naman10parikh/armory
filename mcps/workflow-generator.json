@@ -1,0 +1,7 @@
+{
+  "name": "workflow-generator",
+  "description": "Architecture diagram with concurrency capacity and bottleneck estimates from any codebase.",
+  "source_repo": "askuma/workflow-generator",
+  "source_url": "https://github.com/askuma/workflow-generator",
+  "install": "# git clone --depth 1 https://github.com/askuma/workflow-generator\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gavel",
+  "description": "MCP server for gavel, a code-quality gate for Bazel monorepos. Exposes judge, findings, coverage and architecture tools so a coding agent can check its change against the quality gate (lint, coverage, layer rules) before declaring it done — all off the Bazel build graph, over just what changed.",
+  "source_repo": "gavelcode/gavel",
+  "source_url": "https://github.com/gavelcode/gavel",
+  "install": "# git clone --depth 1 https://github.com/gavelcode/gavel\n# See source for mcpServers config block"
+}

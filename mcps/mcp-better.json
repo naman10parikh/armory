@@ -1,0 +1,7 @@
+{
+  "name": "mcp-better",
+  "description": "A modern MCP server demonstrating the 7/28 protocol era, offering health and echo tools with stamped list caching and stable ordering over stdio or Streamable HTTP.",
+  "source_repo": "Wolfe-Jam/mcp-better",
+  "source_url": "https://github.com/Wolfe-Jam/mcp-better",
+  "install": "# git clone --depth 1 https://github.com/Wolfe-Jam/mcp-better\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "helcim-mcp",
+  "description": "Read-only MCP server for the Helcim payment API, letting AI agents safely query customers, invoices, card transactions, subscriptions, and more without risking financial mutations.",
+  "source_repo": "tejasghalsasi/helcim-mcp",
+  "source_url": "https://github.com/tejasghalsasi/helcim-mcp",
+  "install": "npx -y helcim-mcp"
+}

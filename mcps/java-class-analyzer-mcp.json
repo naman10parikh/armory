@@ -1,0 +1,7 @@
+{
+  "name": "java-class-analyzer-mcp",
+  "description": "MCP server that scans Maven project dependencies, decompiles Java class files, and provides class structure analysis to LLMs for accurate code generation.",
+  "source_repo": "ETHAN0430/java-class-analyzer-mcp",
+  "source_url": "https://github.com/ETHAN0430/java-class-analyzer-mcp",
+  "install": "npx -y java-class-analyzer-mcp"
+}

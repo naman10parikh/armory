@@ -1,0 +1,7 @@
+{
+  "name": "umo-memory",
+  "description": "Persistent memory for AI coding agents that stores and recalls preferences, decisions, and conventions via semantic similarity, with zero cloud dependencies and plug-and-play MCP integration for Claude Code.",
+  "source_repo": "umowork/umo-memory",
+  "source_url": "https://github.com/umowork/umo-memory",
+  "install": "# git clone --depth 1 https://github.com/umowork/umo-memory\n# See source for mcpServers config block"
+}

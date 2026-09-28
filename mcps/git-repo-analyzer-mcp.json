@@ -1,0 +1,7 @@
+{
+  "name": "git-repo-analyzer-mcp",
+  "description": "Enables analysis of local Git repositories via standard git commands, providing insights like line authorship, commit frequency, code churn, and co-changed files.",
+  "source_repo": "AntonyWhatsup/git-repo-analyzer-mcp",
+  "source_url": "https://github.com/AntonyWhatsup/git-repo-analyzer-mcp",
+  "install": "npx -y git-repo-analyzer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "proofpane",
+  "description": "A governance proxy for AI tools — every MCP/agent tool call is policy-gated, secret-redacted, and written to a hash-chained, offline-verifiable audit trail.",
+  "source_repo": "Proofpane/releases",
+  "source_url": "https://github.com/Proofpane/releases",
+  "install": "# git clone --depth 1 https://github.com/Proofpane/releases\n# See source for mcpServers config block"
+}

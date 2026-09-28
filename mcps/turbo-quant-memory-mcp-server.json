@@ -1,0 +1,7 @@
+{
+  "name": "turbo-quant-memory-mcp-server",
+  "description": "Provides persistent, local-first memory with knowledge graph and hybrid search for AI coding agents, reducing token usage by storing decisions, patterns, and codebase context.",
+  "source_repo": "Lexus2016/turbo_quant_memory",
+  "source_url": "https://github.com/Lexus2016/turbo_quant_memory",
+  "install": "# git clone --depth 1 https://github.com/Lexus2016/turbo_quant_memory\n# See source for mcpServers config block"
+}

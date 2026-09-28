@@ -1,0 +1,7 @@
+{
+  "name": "garmin-local-mcp",
+  "description": "Local-first Garmin data warehouse with an analysis-grade MCP server. Sync once, analyze forever, even when the API is down.",
+  "source_repo": "anup-shesh/garmin-local-mcp",
+  "source_url": "https://github.com/anup-shesh/garmin-local-mcp",
+  "install": "npx -y garmin-local-mcp"
+}

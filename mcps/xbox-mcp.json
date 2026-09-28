@@ -1,0 +1,7 @@
+{
+  "name": "xbox-mcp",
+  "description": "Enables to query Xbox Live profiles, current games, recent games, and activity for any Xbox player using the OpenXBL API. Supports gamertag resolution and provides rich presence details.",
+  "source_repo": "312-dev/xbox-mcp",
+  "source_url": "https://github.com/312-dev/xbox-mcp",
+  "install": "npx -y xbox-mcp"
+}

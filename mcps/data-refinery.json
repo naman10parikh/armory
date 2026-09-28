@@ -1,0 +1,7 @@
+{
+  "name": "data-refinery",
+  "description": "Enables AI agents to query structured data refined from unstructured web sources, including developer breaking changes, B2B pricing matrices, regulatory compliance, semantic search, and on-demand URL refinement.",
+  "source_repo": "juanquy/AI-data-refinery",
+  "source_url": "https://github.com/juanquy/AI-data-refinery",
+  "install": "# git clone --depth 1 https://github.com/juanquy/AI-data-refinery\n# See source for mcpServers config block"
+}

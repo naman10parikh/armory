@@ -1,0 +1,7 @@
+{
+  "name": "md2card-mcp-server",
+  "description": "Converts Markdown content into beautifully designed knowledge cards with customizable styles and sizes. Also supports fetching and converting WeChat public account articles to Markdown.",
+  "source_repo": "maqi1520/md2card-mcp-server",
+  "source_url": "https://github.com/maqi1520/md2card-mcp-server",
+  "install": "npx -y md2card-mcp-server"
+}

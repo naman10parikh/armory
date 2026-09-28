@@ -1,0 +1,7 @@
+{
+  "name": "zahori",
+  "description": "Enables coding agents to discover and save media stream profiles from any webpage by probing the page, testing profiles, and validating stream URLs.",
+  "source_repo": "josesepulvedapino/zahori",
+  "source_url": "https://github.com/josesepulvedapino/zahori",
+  "install": "# git clone --depth 1 https://github.com/josesepulvedapino/zahori\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "metabase-mcp-server",
+  "description": "Enables AI assistants to interact with Metabase's analytics platform, managing dashboards, cards, databases, and tables via the Model Context Protocol.",
+  "source_repo": "CognitionAI/metabase-mcp-server",
+  "source_url": "https://github.com/CognitionAI/metabase-mcp-server",
+  "install": "npx -y metabase-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "todoist-mcp",
+  "description": "Enables Claude Desktop and other MCP clients to manage Todoist tasks, projects, and labels through natural language.",
+  "source_repo": "amattas/todoist-mcp",
+  "source_url": "https://github.com/amattas/todoist-mcp",
+  "install": "npx -y todoist-mcp"
+}

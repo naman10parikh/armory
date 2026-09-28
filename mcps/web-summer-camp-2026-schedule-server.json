@@ -1,0 +1,7 @@
+{
+  "name": "web-summer-camp-2026-schedule-server",
+  "description": "Exposes the conference schedule as tools for ChatGPT, allowing attendees to view talks and buy tickets through natural language.",
+  "source_repo": "TejasQ/mcp-apps-workshop",
+  "source_url": "https://github.com/TejasQ/mcp-apps-workshop",
+  "install": "# git clone --depth 1 https://github.com/TejasQ/mcp-apps-workshop\n# See source for mcpServers config block"
+}

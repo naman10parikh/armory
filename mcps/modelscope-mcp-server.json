@@ -1,0 +1,7 @@
+{
+  "name": "modelscope-mcp-server",
+  "description": "Enables AI agents and chatbots to access ModelScope's ecosystem of AI resources, including image generation, resource discovery, and more through conversational interactions.",
+  "source_repo": "modelscope/modelscope-mcp-server",
+  "source_url": "https://github.com/modelscope/modelscope-mcp-server",
+  "install": "npx -y modelscope-mcp-server"
+}

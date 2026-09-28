@@ -1,0 +1,7 @@
+{
+  "name": "moji-mcp-worker",
+  "description": "Remote MCP server that enables composing Moji illustrations from asset catalogs, validating layers, and returning importable .moji.json files.",
+  "source_repo": "angelcreative/moji-mcp-worker",
+  "source_url": "https://github.com/angelcreative/moji-mcp-worker",
+  "install": "# git clone --depth 1 https://github.com/angelcreative/moji-mcp-worker\n# See source for mcpServers config block"
+}

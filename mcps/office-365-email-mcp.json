@@ -1,0 +1,7 @@
+{
+  "name": "office-365-email-mcp",
+  "description": "Enables AI agents to send emails via Microsoft 365/Office 365 using app-only authentication and Microsoft Graph API, supporting HTML content, attachments, and CC/BCC.",
+  "source_repo": "cybrlou/office365-email-mcp",
+  "source_url": "https://github.com/cybrlou/office365-email-mcp",
+  "install": "npx -y office365-email-mcp"
+}

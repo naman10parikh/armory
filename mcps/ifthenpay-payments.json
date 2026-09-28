@@ -1,0 +1,7 @@
+{
+  "name": "ifthenpay-payments",
+  "description": "Enables AI assistants to securely create payment references and requests for Multibanco, MB WAY, Payshop, Credit Card, PinPay, Cofidis Pay, PIX, and retrieve payment reports.",
+  "source_repo": "ifthenpay/mcp-payments",
+  "source_url": "https://github.com/ifthenpay/mcp-payments",
+  "install": "# git clone --depth 1 https://github.com/ifthenpay/mcp-payments\n# See source for mcpServers config block"
+}

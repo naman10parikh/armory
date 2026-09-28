@@ -1,0 +1,7 @@
+{
+  "name": "taiwan-building-code-tracker",
+  "description": "An MCP server that provides automated querying of Taiwan building regulations, integrating both legal articles and official interpretation letters from government databases.",
+  "source_repo": "h30190/HJPLUS_Taiwan_building_code_tracker_MCP",
+  "source_url": "https://github.com/h30190/HJPLUS_Taiwan_building_code_tracker_MCP",
+  "install": "npx -y HJPLUS_Taiwan_building_code_tracker_MCP"
+}

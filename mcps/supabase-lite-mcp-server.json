@@ -1,0 +1,7 @@
+{
+  "name": "supabase-lite-mcp-server",
+  "description": "A lightweight MCP server that provides 8 essential Supabase database management commands with minimal token usage, enabling efficient database operations through Claude.",
+  "source_repo": "krwhynot/supabase-lite-mcp",
+  "source_url": "https://github.com/krwhynot/supabase-lite-mcp",
+  "install": "npx -y supabase-lite-mcp"
+}

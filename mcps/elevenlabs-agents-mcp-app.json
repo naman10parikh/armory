@@ -1,0 +1,7 @@
+{
+  "name": "elevenlabs-agents-mcp-app",
+  "description": "Enables creating and managing ElevenLabs conversational AI agents with an interactive UI, voice selection, and configuration of agent behavior.",
+  "source_repo": "elevenlabs/elevenlabs-agents-mcp-app",
+  "source_url": "https://github.com/elevenlabs/elevenlabs-agents-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/elevenlabs/elevenlabs-agents-mcp-app\n# See source for mcpServers config block"
+}

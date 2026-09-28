@@ -1,0 +1,7 @@
+{
+  "name": "earth-class-mail-mcp",
+  "description": "Access and manage your Earth Class Mail virtual mailbox, including viewing mail pieces, requesting actions like scan or shred, and listing inboxes.",
+  "source_repo": "usiegj00/earthclassmail-mcp",
+  "source_url": "https://github.com/usiegj00/earthclassmail-mcp",
+  "install": "npx -y earthclassmail-mcp"
+}

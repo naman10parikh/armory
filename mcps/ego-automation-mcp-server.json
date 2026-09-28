@@ -1,0 +1,7 @@
+{
+  "name": "ego-automation-mcp-server",
+  "description": "MCP server that launches and manages ego-browser sessions, providing tools to open URLs and extract DOM records filtered by status, all through a sandboxed UI app.",
+  "source_repo": "seerkong/ego-automation-mcp-app-demo",
+  "source_url": "https://github.com/seerkong/ego-automation-mcp-app-demo",
+  "install": "# git clone --depth 1 https://github.com/seerkong/ego-automation-mcp-app-demo\n# See source for mcpServers config block"
+}

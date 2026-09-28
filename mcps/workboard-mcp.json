@@ -1,0 +1,7 @@
+{
+  "name": "workboard-mcp",
+  "description": "Enables interaction with Workboard through MCP tools, with OAuth authentication, token management, and support for all 63 documented Workboard API operations.",
+  "source_repo": "felixipraxis/workboard-mcp",
+  "source_url": "https://github.com/felixipraxis/workboard-mcp",
+  "install": "npx -y workboard-mcp"
+}

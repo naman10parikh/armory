@@ -1,0 +1,7 @@
+{
+  "name": "adobe-premiere-mcp",
+  "description": "Control Adobe Premiere Pro from AI agents via ExtendScript, enabling media import, sequence creation, effect application, media export, and custom scripting.",
+  "source_repo": "mrfentmen/adobe-premiere-mcp",
+  "source_url": "https://github.com/mrfentmen/adobe-premiere-mcp",
+  "install": "npx -y adobe-premiere-mcp"
+}

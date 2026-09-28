@@ -1,0 +1,7 @@
+{
+  "name": "document-index-mcp",
+  "description": "Indexes local documents (PDF, Word, Markdown, text) into a SQLite database for AI agents to search and retrieve bounded, source-located passages. Runs fully locally with optional OCR, preserving privacy.",
+  "source_repo": "ekelly95/document-index-mcp",
+  "source_url": "https://github.com/ekelly95/document-index-mcp",
+  "install": "npx -y document-index-mcp"
+}

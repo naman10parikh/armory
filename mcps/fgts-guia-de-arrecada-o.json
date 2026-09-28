@@ -1,0 +1,7 @@
+{
+  "name": "fgts-guia-de-arrecada-o",
+  "description": "Enables consultation of FGTS (Brazilian severance guarantee fund) collection guides from official sources via a hosted, read-only MCP server. Supports natural language queries through any MCP client with pay-per-use credit.",
+  "source_repo": "mcp-dir/fgts_guia-mcp",
+  "source_url": "https://github.com/mcp-dir/fgts_guia-mcp",
+  "install": "npx -y fgts_guia-mcp"
+}

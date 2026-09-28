@@ -1,0 +1,7 @@
+{
+  "name": "sf-mm-mcp",
+  "description": "Enables searching movies and TV shows, finding magnet links, and starting downloads on put.io via natural language from MCP clients like Claude.",
+  "source_repo": "githendrik/sf-mm-mcp",
+  "source_url": "https://github.com/githendrik/sf-mm-mcp",
+  "install": "npx -y sf-mm-mcp"
+}

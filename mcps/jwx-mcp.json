@@ -1,0 +1,7 @@
+{
+  "name": "jwx-mcp",
+  "description": "Exposes Justworx devices to AI agents as MCP tools and resources, backed by the public Developer API. Supports local stdio and hosted remote OAuth operation for controlling device IO, rules, and viewing live state.",
+  "source_repo": "JustworxCloud/mcp",
+  "source_url": "https://github.com/JustworxCloud/mcp",
+  "install": "# git clone --depth 1 https://github.com/JustworxCloud/mcp\n# See source for mcpServers config block"
+}

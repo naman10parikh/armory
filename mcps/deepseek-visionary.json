@@ -1,0 +1,7 @@
+{
+  "name": "deepseek-visionary",
+  "description": "An MCP server that integrates DeepSeek's web-native multimodal vision model into Zed, featuring automatic browser login and image analysis tools. It enables vision-powered tasks like image understanding and multi-turn conversations directly within the editor.",
+  "source_repo": "xlight/deepseek-visionary",
+  "source_url": "https://github.com/xlight/deepseek-visionary",
+  "install": "# git clone --depth 1 https://github.com/xlight/deepseek-visionary\n# See source for mcpServers config block"
+}

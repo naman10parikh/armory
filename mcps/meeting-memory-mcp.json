@@ -1,0 +1,7 @@
+{
+  "name": "meeting-memory-mcp",
+  "description": "A local-first MCP server that stores meeting transcripts and maintains a searchable markdown wiki of decisions, commitments, and contradictions, enabling Claude to recall context across meetings.",
+  "source_repo": "coolsheng/meeting-memory-mcp",
+  "source_url": "https://github.com/coolsheng/meeting-memory-mcp",
+  "install": "npx -y meeting-memory-mcp"
+}

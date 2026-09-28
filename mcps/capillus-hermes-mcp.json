@@ -1,0 +1,7 @@
+{
+  "name": "capillus-hermes-mcp",
+  "description": "Enables tracking and monitoring of Capillus Bluetooth caps for treatment sessions, adherence, and device status using local BLE data, without requiring cloud APIs.",
+  "source_repo": "emminentt/capillus-hermes-mcp",
+  "source_url": "https://github.com/emminentt/capillus-hermes-mcp",
+  "install": "npx -y capillus-hermes-mcp"
+}

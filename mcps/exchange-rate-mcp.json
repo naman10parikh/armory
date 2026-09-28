@@ -1,0 +1,7 @@
+{
+  "name": "exchange-rate-mcp",
+  "description": "Enables users to retrieve the latest USD/KRW exchange rate and receive user-friendly responses in Korean.",
+  "source_repo": "RichGom84/exchange_rate_MCP",
+  "source_url": "https://github.com/RichGom84/exchange_rate_MCP",
+  "install": "npx -y exchange_rate_MCP"
+}

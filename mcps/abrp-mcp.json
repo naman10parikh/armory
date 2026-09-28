@@ -1,0 +1,7 @@
+{
+  "name": "abrp-mcp",
+  "description": "An unofficial MCP server for A Better Routeplanner that enables EV route planning with charging stops, charger search, vehicle models, and live telemetry using the ABRP API.",
+  "source_repo": "Casperjuel/abrp-mcp",
+  "source_url": "https://github.com/Casperjuel/abrp-mcp",
+  "install": "npx -y abrp-mcp"
+}

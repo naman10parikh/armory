@@ -1,0 +1,7 @@
+{
+  "name": "champcity-gpt-mcp-launcher",
+  "description": "ChatGPT-compatible MCP server and Electron launcher for controlled local project-file access, providing read-only and approval-gated write tools over STDIO or HTTP with optional OAuth and HTTPS tunneling.",
+  "source_repo": "ChampCityChris/ChampCity_GPT_MCP",
+  "source_url": "https://github.com/ChampCityChris/ChampCity_GPT_MCP",
+  "install": "npx -y ChampCity_GPT_MCP"
+}

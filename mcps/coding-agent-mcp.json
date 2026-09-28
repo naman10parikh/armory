@@ -1,0 +1,7 @@
+{
+  "name": "coding-agent-mcp",
+  "description": "Containerized MCP server for coding agents with tools for file editing, shell commands, process management, Git, browser automation, and project snapshots.",
+  "source_repo": "spyduck007/agent-mcp",
+  "source_url": "https://github.com/spyduck007/agent-mcp",
+  "install": "npx -y agent-mcp"
+}

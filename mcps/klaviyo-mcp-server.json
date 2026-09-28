@@ -1,0 +1,7 @@
+{
+  "name": "klaviyo-mcp-server",
+  "description": "A comprehensive MCP server for interacting with the Klaviyo API, providing tools and resources for managing profiles, lists, segments, campaigns, flows, and more.",
+  "source_repo": "mattcoatsworth/Klaviyo-MCP-Server",
+  "source_url": "https://github.com/mattcoatsworth/Klaviyo-MCP-Server",
+  "install": "npx -y Klaviyo-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "toolahead",
+  "description": "Speeds up coding agents by predicting and pre-executing upcoming tool calls, then safely returning validated cached results to eliminate wait time.",
+  "source_repo": "michael-ra/toolahead",
+  "source_url": "https://github.com/michael-ra/toolahead",
+  "install": "# git clone --depth 1 https://github.com/michael-ra/toolahead\n# See source for mcpServers config block"
+}

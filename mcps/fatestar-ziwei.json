@@ -1,0 +1,7 @@
+{
+  "name": "fatestar-ziwei",
+  "description": "Provides free hosted Zi Wei Dou Shu (Purple Star Astrology) natal charts and six-level transits as MCP tools, enabling AI agents to compute charts and transits through natural language.",
+  "source_repo": "LouisLin0723/fatestar-ziwei",
+  "source_url": "https://github.com/LouisLin0723/fatestar-ziwei",
+  "install": "# git clone --depth 1 https://github.com/LouisLin0723/fatestar-ziwei\n# See source for mcpServers config block"
+}

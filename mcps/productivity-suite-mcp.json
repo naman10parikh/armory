@@ -1,0 +1,7 @@
+{
+  "name": "productivity-suite-mcp",
+  "description": "AI-powered text formatting and summarization tools for development workflows. Zero-install Streamable HTTP transport — no binary, no npm required.",
+  "source_repo": "zellkernel/productivity-suite-mcp",
+  "source_url": "https://github.com/zellkernel/productivity-suite-mcp",
+  "install": "npx -y productivity-suite-mcp"
+}

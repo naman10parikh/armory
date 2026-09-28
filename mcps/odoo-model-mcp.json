@@ -1,0 +1,7 @@
+{
+  "name": "odoo-model-mcp",
+  "description": "Enables querying Odoo's model registry (fields, inheritance, methods) without a database connection by loading the registry in-memory.",
+  "source_repo": "bemade/odoo-model-mcp",
+  "source_url": "https://github.com/bemade/odoo-model-mcp",
+  "install": "npx -y odoo-model-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "caduceus-memory-mcp",
+  "description": "A local shared-memory MCP server for Claude, Codex, Hermes, and other MCP-aware agents, providing a durable memory layer with Markdown files and SQLite fact store.",
+  "source_repo": "ethos-zero/caduceus-memory-mcp",
+  "source_url": "https://github.com/ethos-zero/caduceus-memory-mcp",
+  "install": "npx -y caduceus-memory-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "clbench-fireworks-rft",
+  "description": "Enables reinforcement fine-tuning of Qwen3-8B on the CLBench poker task using the eval-protocol MCP-Gym framework on Fireworks infrastructure, with structured tool calls via MCP.",
+  "source_repo": "sr-networks/clbench-fireworks-rft",
+  "source_url": "https://github.com/sr-networks/clbench-fireworks-rft",
+  "install": "# git clone --depth 1 https://github.com/sr-networks/clbench-fireworks-rft\n# See source for mcpServers config block"
+}

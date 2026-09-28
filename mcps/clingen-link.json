@@ -1,0 +1,7 @@
+{
+  "name": "clingen-link",
+  "description": "Enables querying ClinGen curated evidence for gene-disease validity, dosage, actionability, and variant pathogenicity via MCP tools.",
+  "source_repo": "berntpopp/clingen-link",
+  "source_url": "https://github.com/berntpopp/clingen-link",
+  "install": "# git clone --depth 1 https://github.com/berntpopp/clingen-link\n# See source for mcpServers config block"
+}

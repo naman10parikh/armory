@@ -1,0 +1,7 @@
+{
+  "name": "vastai-mcp",
+  "description": "MCP server that wraps the Vast.ai REST API to enable LLM agents to search GPU marketplace, rent machines, manage instance lifecycle, run commands, and inspect billing.",
+  "source_repo": "dam2452/vastai-mcp",
+  "source_url": "https://github.com/dam2452/vastai-mcp",
+  "install": "npx -y vastai-mcp"
+}

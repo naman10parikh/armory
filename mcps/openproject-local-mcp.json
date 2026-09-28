@@ -1,0 +1,7 @@
+{
+  "name": "openproject-local-mcp",
+  "description": "A local STDIO server that exposes OpenProject API v3 as MCP tools, allowing MCP clients like Codex CLI and GitHub Copilot CLI to reference projects and work packages.",
+  "source_repo": "NobuoTsukamoto/openproject-local-mcp",
+  "source_url": "https://github.com/NobuoTsukamoto/openproject-local-mcp",
+  "install": "npx -y openproject-local-mcp"
+}

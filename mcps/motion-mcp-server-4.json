@@ -1,0 +1,7 @@
+{
+  "name": "motion-mcp-server-4",
+  "description": "Enables natural language management of Motion tasks, projects, schedules, and more via the Model Context Protocol, integrating with LLMs like Claude and ChatGPT.",
+  "source_repo": "jsardinia/motion-mcp-server",
+  "source_url": "https://github.com/jsardinia/motion-mcp-server",
+  "install": "npx -y motion-mcp-server"
+}

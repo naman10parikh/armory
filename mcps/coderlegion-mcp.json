@@ -1,0 +1,7 @@
+{
+  "name": "coderlegion-mcp",
+  "description": "Connects AI agents like Claude, Cursor, and Cline to the CoderLegion developer community platform, enabling content management and workflow automation through the Model Context Protocol.",
+  "source_repo": "Muriellecomputerreadable868/coderlegion-mcp",
+  "source_url": "https://github.com/Muriellecomputerreadable868/coderlegion-mcp",
+  "install": "npx -y coderlegion-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "imgui-mcp",
+  "description": "Enables AI agents to visually design and iterate on Dear ImGui game UIs in real-time with live preview, input simulation, and a wide range of widgets and tools.",
+  "source_repo": "SaloQT/imgui-mcp",
+  "source_url": "https://github.com/SaloQT/imgui-mcp",
+  "install": "npx -y imgui-mcp"
+}

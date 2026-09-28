@@ -1,0 +1,7 @@
+{
+  "name": "pii-mcp",
+  "description": "MCP server for anonymizing and deanonymizing PII through the Pseudora API, enabling safe sharing of sensitive text with AI assistants.",
+  "source_repo": "nephilimdie/pii-mcp",
+  "source_url": "https://github.com/nephilimdie/pii-mcp",
+  "install": "npx -y pii-mcp"
+}

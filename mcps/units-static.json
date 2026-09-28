@@ -1,0 +1,7 @@
+{
+  "name": "units-static",
+  "description": "A deterministic unit conversion MCP server with fixed tables, offering tools to convert length, mass, temperature, and volume, list units, and compare quantities. Designed for judge-friendly schema clarity and no network I/O.",
+  "source_repo": "plugin-federation/units-static",
+  "source_url": "https://github.com/plugin-federation/units-static",
+  "install": "# git clone --depth 1 https://github.com/plugin-federation/units-static\n# See source for mcpServers config block"
+}

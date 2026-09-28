@@ -1,0 +1,7 @@
+{
+  "name": "perplexity-deep-mcp",
+  "description": "An MCP server that makes Perplexity's Sonar Deep Research usable from MCP clients that enforce a request timeout by using Perplexity's async API.",
+  "source_repo": "Aakashanil67/perplexity-deep-mcp",
+  "source_url": "https://github.com/Aakashanil67/perplexity-deep-mcp",
+  "install": "npx -y perplexity-deep-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gateway-mcp",
+  "description": "Admin MCP server that exposes Kubernetes CRD state and live broker status as MCP tools and a browser-renderable UI resource, enabling platform engineers to manage the mcp-gateway without kubectl.",
+  "source_repo": "dmartinol/mcp-gateway-mcp",
+  "source_url": "https://github.com/dmartinol/mcp-gateway-mcp",
+  "install": "npx -y mcp-gateway-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "local-websearch-mcp",
+  "description": "Small Python MCP server that provides web search and page fetching tools via DuckDuckGo, requiring no API key.",
+  "source_repo": "dr34dl10n/websearch-mcp",
+  "source_url": "https://github.com/dr34dl10n/websearch-mcp",
+  "install": "npx -y websearch-mcp"
+}

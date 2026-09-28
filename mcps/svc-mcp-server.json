@@ -1,0 +1,7 @@
+{
+  "name": "svc-mcp-server",
+  "description": "Enables AI assistants to interact with IBM SVC storage systems, checking system status and executing arbitrary SVC CLI commands via SSH.",
+  "source_repo": "cu0001/svc-mcp-server",
+  "source_url": "https://github.com/cu0001/svc-mcp-server",
+  "install": "npx -y svc-mcp-server"
+}

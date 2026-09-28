@@ -1,0 +1,7 @@
+{
+  "name": "vision-bridge",
+  "description": "A single MCP server that lets any agent see and act on the screen across native desktop apps, Electron/Chromium windows, and the browser undetected, providing four tools (capture, act, find, wait_for) for UI interaction via structured text.",
+  "source_repo": "rusnetru/vision-bridge",
+  "source_url": "https://github.com/rusnetru/vision-bridge",
+  "install": "# git clone --depth 1 https://github.com/rusnetru/vision-bridge\n# See source for mcpServers config block"
+}

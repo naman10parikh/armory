@@ -1,0 +1,7 @@
+{
+  "name": "palaryn-mcp-server",
+  "description": "Governs AI agent HTTP requests with policy enforcement, security scanning, and audit logging via MCP.",
+  "source_repo": "palaryn-ai/mcp",
+  "source_url": "https://github.com/palaryn-ai/mcp",
+  "install": "# git clone --depth 1 https://github.com/palaryn-ai/mcp\n# See source for mcpServers config block"
+}

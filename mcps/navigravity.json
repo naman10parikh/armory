@@ -1,0 +1,7 @@
+{
+  "name": "navigravity",
+  "description": "An intelligent MCP server that enables AI agents to act as sophisticated music curators for self-hosted Navidrome libraries, focusing on quality, discovery, and non-destructive management.",
+  "source_repo": "miziodel/navigravity",
+  "source_url": "https://github.com/miziodel/navigravity",
+  "install": "# git clone --depth 1 https://github.com/miziodel/navigravity\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pendo-mcp",
+  "description": "A comprehensive MCP server that provides AI assistants with powerful access to Pendo analytics through 15 specialized tools, transforming natural language questions into deep product insights.",
+  "source_repo": "AsherJN/pendo-mcp",
+  "source_url": "https://github.com/AsherJN/pendo-mcp",
+  "install": "npx -y pendo-mcp"
+}

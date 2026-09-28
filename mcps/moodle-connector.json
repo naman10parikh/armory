@@ -1,0 +1,7 @@
+{
+  "name": "moodle-connector",
+  "description": "Moodle REST API client with batch downloading and MCP protocol support for Claude Code and OpenCode, enabling course management, grade checking, assignment tracking, file downloads, and more.",
+  "source_repo": "Jabir-Srj/moodle-connector",
+  "source_url": "https://github.com/Jabir-Srj/moodle-connector",
+  "install": "# git clone --depth 1 https://github.com/Jabir-Srj/moodle-connector\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "surprise-buddy",
+  "description": "## What is Surprise Buddy? Surprise Buddy is a curated, country-scoped gift database exposed via a public Model Context Protocol (MCP) server. International coverage — every result is a real product page on a real marketplace (Amazon, Etsy, Mercado Libre, Otto, Bol.com, Allegro, Jochen Schweizer) an",
+  "source_repo": "",
+  "source_url": "https://surprise-buddy.com",
+  "install": "# git clone --depth 1 https://surprise-buddy.com\n# See source for mcpServers config block"
+}

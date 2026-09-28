@@ -1,0 +1,7 @@
+{
+  "name": "gu-does-packages-pluggy-mcp",
+  "description": "An MCP server for the Pluggy Open Finance Brazil API, enabling connection to bank accounts and management of financial data including transactions, accounts, investments, and payment intents through natural language.",
+  "source_repo": "gu-does-git/pluggy-mcp",
+  "source_url": "https://github.com/gu-does-git/pluggy-mcp",
+  "install": "npx -y pluggy-mcp"
+}

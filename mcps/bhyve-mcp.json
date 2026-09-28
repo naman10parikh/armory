@@ -1,0 +1,7 @@
+{
+  "name": "bhyve-mcp",
+  "description": "Query and control Orbit B-Hyve irrigation systems from MCP-compatible clients like Claude Code and Cursor.",
+  "source_repo": "norman2112/bhyve-mcp",
+  "source_url": "https://github.com/norman2112/bhyve-mcp",
+  "install": "npx -y bhyve-mcp"
+}

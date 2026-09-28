@@ -1,0 +1,7 @@
+{
+  "name": "connect-claude",
+  "description": "MCP server scaffold that exposes stubbed tools for listing, searching, and summarizing sources, with built-in OAuth 2.1 authorization flow for Claude integration.",
+  "source_repo": "felixtosh/connect-claude",
+  "source_url": "https://github.com/felixtosh/connect-claude",
+  "install": "# git clone --depth 1 https://github.com/felixtosh/connect-claude\n# See source for mcpServers config block"
+}

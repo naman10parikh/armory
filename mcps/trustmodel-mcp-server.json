@@ -1,0 +1,7 @@
+{
+  "name": "trustmodel-mcp-server",
+  "description": "Enables AI agents to evaluate trust, safety, and bias of models and agentic traces using TrustModel APIs.",
+  "source_repo": "karlmehta/trustmodel-mcp",
+  "source_url": "https://github.com/karlmehta/trustmodel-mcp",
+  "install": "npx -y trustmodel-mcp"
+}

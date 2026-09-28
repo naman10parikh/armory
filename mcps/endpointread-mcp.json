@@ -1,0 +1,7 @@
+{
+  "name": "endpointread-mcp",
+  "description": "A read-only MCP server for Microsoft Intune and Entra ID that enables list, get, search, and reporting operations for tenant visibility, audits, troubleshooting, and health reporting without write actions. It includes authentication helpers, report exports, and metadata discovery tools.",
+  "source_repo": "nelladath/EndpointRead-MCP",
+  "source_url": "https://github.com/nelladath/EndpointRead-MCP",
+  "install": "npx -y EndpointRead-MCP"
+}

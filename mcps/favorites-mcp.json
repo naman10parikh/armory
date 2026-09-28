@@ -1,0 +1,7 @@
+{
+  "name": "favorites-mcp",
+  "description": "Enables AI agents to organize and manage Chrome/Edge bookmarks through natural language, with user-controlled permissions, privacy filters, and safety mechanisms.",
+  "source_repo": "lizy14/favorites-mcp",
+  "source_url": "https://github.com/lizy14/favorites-mcp",
+  "install": "npx -y favorites-mcp"
+}

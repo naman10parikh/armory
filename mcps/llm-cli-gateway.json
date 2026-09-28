@@ -1,0 +1,7 @@
+{
+  "name": "llm-cli-gateway",
+  "description": "A Model Context Protocol (MCP) gateway for running Claude Code, Codex, Gemini, Grok, and Mistral (Vibe) CLIs from one MCP endpoint, with durable async jobs, session continuity, cache-aware prompting, observability, and personal-appliance setup tooling. Why developers try it: one local MCP endpoint f",
+  "source_repo": "verivus-oss/llm-cli-gateway",
+  "source_url": "https://github.com/verivus-oss/llm-cli-gateway",
+  "install": "# git clone --depth 1 https://github.com/verivus-oss/llm-cli-gateway\n# See source for mcpServers config block"
+}

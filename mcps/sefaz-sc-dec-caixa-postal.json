@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-sc-dec-caixa-postal",
+  "description": "Enables querying SEFAZ SC DEC Caixa Postal (Brazilian state tax mailbox) from the official source via a hosted MCP server, with prepaid credits and support for any MCP client.",
+  "source_repo": "mcp-dir/sefaz_sc_dec_caixa_postal-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_sc_dec_caixa_postal-mcp",
+  "install": "npx -y sefaz_sc_dec_caixa_postal-mcp"
+}

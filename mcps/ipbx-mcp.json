@@ -1,0 +1,7 @@
+{
+  "name": "ipbx-mcp",
+  "description": "MCP server that exposes IPBX PABX data (branches, users, groups, trunks, queues) as typed tools via Streamable HTTP, with OAuth and static bearer authentication.",
+  "source_repo": "ricardolan85/ipbx-mcp",
+  "source_url": "https://github.com/ricardolan85/ipbx-mcp",
+  "install": "npx -y ipbx-mcp"
+}

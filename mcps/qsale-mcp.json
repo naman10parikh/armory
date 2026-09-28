@@ -1,0 +1,7 @@
+{
+  "name": "qsale-mcp",
+  "description": "MCP server for the QSale headless commerce platform enabling catalog, content, navigation, segments, and more via a propose→review→apply pattern.",
+  "source_repo": "qsale-io/qsale-mcp-server",
+  "source_url": "https://github.com/qsale-io/qsale-mcp-server",
+  "install": "npx -y qsale-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skylight-mcp-remote",
+  "description": "Remote MCP deployment scaffold for Skylight's MCP server, hosted on Cloudflare Workers and Containers, enabling HTTP access to the stdio-based Ruby MCP server.",
+  "source_repo": "andychongyz/skylight-mcp-remote",
+  "source_url": "https://github.com/andychongyz/skylight-mcp-remote",
+  "install": "# git clone --depth 1 https://github.com/andychongyz/skylight-mcp-remote\n# See source for mcpServers config block"
+}

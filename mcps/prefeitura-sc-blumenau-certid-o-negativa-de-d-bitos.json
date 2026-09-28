@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-sc-blumenau-certid-o-negativa-de-d-bitos",
+  "description": "MCP server to consult municipal tax debt certificates (Certidão Negativa de Débitos) for Blumenau, SC, Brazil, from an official source. It is read-only, offers one tool, and works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/pref_sc_blumenau_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_sc_blumenau_cnd-mcp",
+  "install": "npx -y pref_sc_blumenau_cnd-mcp"
+}

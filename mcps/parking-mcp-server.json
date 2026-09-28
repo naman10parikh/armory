@@ -1,0 +1,7 @@
+{
+  "name": "parking-mcp-server",
+  "description": "MCP server that securely writes confirmed parking reservations to a file with bearer-token auth and input validation.",
+  "source_repo": "nikita-pakhno/parking-mcp-server",
+  "source_url": "https://github.com/nikita-pakhno/parking-mcp-server",
+  "install": "npx -y parking-mcp-server"
+}

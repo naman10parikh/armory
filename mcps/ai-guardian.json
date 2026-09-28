@@ -1,0 +1,7 @@
+{
+  "name": "ai-guardian",
+  "description": "Enables observability and governance for local LLMs via Ollama, including auditing model usage, scanning prompts for secrets/PII, and enforcing allow/deny policies.",
+  "source_repo": "AIops-tools/AI-Guardian",
+  "source_url": "https://github.com/AIops-tools/AI-Guardian",
+  "install": "# git clone --depth 1 https://github.com/AIops-tools/AI-Guardian\n# See source for mcpServers config block"
+}

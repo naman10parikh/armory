@@ -1,0 +1,7 @@
+{
+  "name": "kimi-vision-mcp-server",
+  "description": "Enables analysis of local images through Kimi (Moonshot AI) vision models via the MCP protocol, supporting features like OCR and long context understanding.",
+  "source_repo": "kira4094/kimi-vision-mcp-server",
+  "source_url": "https://github.com/kira4094/kimi-vision-mcp-server",
+  "install": "npx -y kimi-vision-mcp-server"
+}

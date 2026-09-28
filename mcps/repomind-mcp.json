@@ -1,0 +1,7 @@
+{
+  "name": "repomind-mcp",
+  "description": "MCP server for repository mapping, dependency analysis, and architecture diagram generation for JavaScript, TypeScript, and Python projects.",
+  "source_repo": "deep095/RepoMind-MCP",
+  "source_url": "https://github.com/deep095/RepoMind-MCP",
+  "install": "npx -y RepoMind-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pihole-mcp",
+  "description": "MCP server for Pi-hole v6.x that provides direct API proxying and composite tools for analyzing network devices, managing block/allow lists, local DNS records, and performing backups.",
+  "source_repo": "nickcheban/pihole-mcp",
+  "source_url": "https://github.com/nickcheban/pihole-mcp",
+  "install": "npx -y pihole-mcp"
+}

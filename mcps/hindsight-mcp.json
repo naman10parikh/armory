@@ -1,0 +1,7 @@
+{
+  "name": "hindsight-mcp",
+  "description": "Consolidates git history, test results, and Copilot sessions into a searchable SQLite database for AI assistants to answer questions about development activity.",
+  "source_repo": "Rbfinch/hindsight-mcp",
+  "source_url": "https://github.com/Rbfinch/hindsight-mcp",
+  "install": "npx -y hindsight-mcp"
+}

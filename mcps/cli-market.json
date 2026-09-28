@@ -1,0 +1,7 @@
+{
+  "name": "cli-market",
+  "description": "Servidor MCP para integrar la plataforma CLI MARKET con asistentes de IA. Permite gestionar productos, pedidos, clientes e inventario de tu tienda marketplace mediante lenguaje natural.",
+  "source_repo": "Treevu-ai/cli-market-world",
+  "source_url": "https://github.com/Treevu-ai/cli-market-world",
+  "install": "# git clone --depth 1 https://github.com/Treevu-ai/cli-market-world\n# See source for mcpServers config block"
+}

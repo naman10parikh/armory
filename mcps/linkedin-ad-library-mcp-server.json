@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-ad-library-mcp-server",
+  "description": "Enables AI assistants to search LinkedIn's Ad Library for sponsored ads, job postings, and paid endorsements, providing insights into competitor strategies and hiring signals.",
+  "source_repo": "confortistefano/linkedin-ads-library-mcp",
+  "source_url": "https://github.com/confortistefano/linkedin-ads-library-mcp",
+  "install": "npx -y linkedin-ads-library-mcp"
+}

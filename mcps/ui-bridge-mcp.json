@@ -1,0 +1,7 @@
+{
+  "name": "ui-bridge-mcp",
+  "description": "Enables AI to inspect and interact with UI elements, supporting control mode for the runner's own UI and SDK mode for external applications.",
+  "source_repo": "qontinui/ui-bridge-mcp",
+  "source_url": "https://github.com/qontinui/ui-bridge-mcp",
+  "install": "npx -y ui-bridge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tool-compass",
+  "description": "Semantic navigator for MCP tools that finds relevant tools by natural language intent, reducing token usage by 95%.",
+  "source_repo": "mcp-tool-shop-org/tool-compass",
+  "source_url": "https://github.com/mcp-tool-shop-org/tool-compass",
+  "install": "# git clone --depth 1 https://github.com/mcp-tool-shop-org/tool-compass\n# See source for mcpServers config block"
+}

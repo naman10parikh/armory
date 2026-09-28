@@ -1,0 +1,7 @@
+{
+  "name": "skuvault-mcp-server",
+  "description": "Enables interaction with the SkuVault inventory management system API for product management, inventory control, warehouse operations, and analytics through natural language.",
+  "source_repo": "dbankscard/skuvault-mcp-server",
+  "source_url": "https://github.com/dbankscard/skuvault-mcp-server",
+  "install": "npx -y skuvault-mcp-server"
+}

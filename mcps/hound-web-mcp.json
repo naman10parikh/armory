@@ -1,0 +1,7 @@
+{
+  "name": "hound-web-mcp",
+  "description": "Hound MCP Servers Gives your agent actually good fetch + Search for 0$, no catch, no api keys or free tiers, fully free.",
+  "source_repo": "dondai1234/master-fetch",
+  "source_url": "https://github.com/dondai1234/master-fetch",
+  "install": "# git clone --depth 1 https://github.com/dondai1234/master-fetch\n# See source for mcpServers config block"
+}

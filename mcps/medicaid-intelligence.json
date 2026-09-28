@@ -1,0 +1,7 @@
+{
+  "name": "medicaid-intelligence",
+  "description": "This MCP server enables querying Medicaid drug utilization, managed-care enrollment, and state enrollment data from CMS's public Medicaid Open Data API, with tools for trends, market analysis, and program mix without authentication.",
+  "source_repo": "pipeworx-io/mcp-medicaid-intelligence",
+  "source_url": "https://github.com/pipeworx-io/mcp-medicaid-intelligence",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-medicaid-intelligence\n# See source for mcpServers config block"
+}

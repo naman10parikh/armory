@@ -1,0 +1,7 @@
+{
+  "name": "ipsymcon-mcp-server",
+  "description": "Enables Claude/agents to read, control, and develop IP-Symcon home automation systems via JSON-RPC, including object tree navigation, variable reading, device switching, and PHP script management.",
+  "source_repo": "Schimmilab/ipsymcon-mcp-server",
+  "source_url": "https://github.com/Schimmilab/ipsymcon-mcp-server",
+  "install": "npx -y ipsymcon-mcp-server"
+}

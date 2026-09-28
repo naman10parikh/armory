@@ -1,0 +1,7 @@
+{
+  "name": "umlout-mcp-server",
+  "description": "Hosted MCP server that lets AI assistants create and edit diagrams (UML, flowcharts, wireframes, domain models) in a Umlout workspace via natural language.",
+  "source_repo": "dmkorj/umlout-mcp",
+  "source_url": "https://github.com/dmkorj/umlout-mcp",
+  "install": "npx -y umlout-mcp"
+}

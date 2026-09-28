@@ -1,0 +1,7 @@
+{
+  "name": "livejournal-mcp-server",
+  "description": "Enables reading, searching, and posting to LiveJournal journals via the legacy XML-RPC API, with local SQLite caching for offline search.",
+  "source_repo": "pavelber/livejournal-mcp",
+  "source_url": "https://github.com/pavelber/livejournal-mcp",
+  "install": "npx -y livejournal-mcp"
+}

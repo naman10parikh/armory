@@ -1,0 +1,7 @@
+{
+  "name": "x402-agent-data",
+  "description": "Pay-per-call MCP server offering crypto market signals, web page extraction, and GitHub repo auditing, with automatic settlement in USDC via the x402 protocol.",
+  "source_repo": "charlie-morrison/x402-agent-data",
+  "source_url": "https://github.com/charlie-morrison/x402-agent-data",
+  "install": "# git clone --depth 1 https://github.com/charlie-morrison/x402-agent-data\n# See source for mcpServers config block"
+}

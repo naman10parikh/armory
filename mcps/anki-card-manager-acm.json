@@ -1,0 +1,7 @@
+{
+  "name": "anki-card-manager-acm",
+  "description": "This MCP server connects Claude with Anki, allowing users to create flashcards conversationally and automatically deduplicates, classifies, and uploads them without manual copying and pasting. It runs locally with Ollama for embeddings and classification, ensuring privacy.",
+  "source_repo": "Eduvent/Anki-MCP",
+  "source_url": "https://github.com/Eduvent/Anki-MCP",
+  "install": "npx -y Anki-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "trends-mcp",
+  "description": "Provides hosted trend data MCP server for querying Google, TikTok, Amazon, Reddit, YouTube, Steam, npm and 30+ trend sources in natural language from any MCP-compatible AI.",
+  "source_repo": "trendsapi/trends-mcp",
+  "source_url": "https://github.com/trendsapi/trends-mcp",
+  "install": "npx -y trends-mcp"
+}

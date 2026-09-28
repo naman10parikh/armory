@@ -1,0 +1,7 @@
+{
+  "name": "htmlbook",
+  "description": "Publishes AI-generated HTML and Markdown to a hosted, shareable URL with versioning, theming, and access control.",
+  "source_repo": "Streamize-llc/htmlbook",
+  "source_url": "https://github.com/Streamize-llc/htmlbook",
+  "install": "# git clone --depth 1 https://github.com/Streamize-llc/htmlbook\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "erp-file-mcp-server",
+  "description": "Enables querying ERP data via an external API with adaptive caching, and accessing data from Google Sheets or local Excel/CSV files through dual MCP endpoints.",
+  "source_repo": "sharpjsdev/mcp-server",
+  "source_url": "https://github.com/sharpjsdev/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/sharpjsdev/mcp-server\n# See source for mcpServers config block"
+}

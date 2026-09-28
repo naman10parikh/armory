@@ -1,0 +1,7 @@
+{
+  "name": "beyondidentity-mcp",
+  "description": "Enables AI agents to directly manage Beyond Identity resources such as identities, groups, applications, SSO configurations, and credentials via natural language tool calls.",
+  "source_repo": "gobeyondidentity/bi-mcp",
+  "source_url": "https://github.com/gobeyondidentity/bi-mcp",
+  "install": "npx -y bi-mcp"
+}

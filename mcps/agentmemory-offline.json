@@ -1,0 +1,7 @@
+{
+  "name": "agentmemory-offline",
+  "description": "Provides local, project-aware memory for coding agents via MCP tools, lifecycle hooks, and a REST service, with no outbound network access.",
+  "source_repo": "rmarquesa/agentmemory-offline",
+  "source_url": "https://github.com/rmarquesa/agentmemory-offline",
+  "install": "# git clone --depth 1 https://github.com/rmarquesa/agentmemory-offline\n# See source for mcpServers config block"
+}

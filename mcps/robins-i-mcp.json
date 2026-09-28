@@ -1,0 +1,7 @@
+{
+  "name": "robins-i-mcp",
+  "description": "An MCP server implementing the ROBINS-I V2 framework for risk-of-bias assessment in non-randomized studies, with deterministic algorithms and full provenance. It enables users to parse study documents, specify target trial results, answer signalling questions with evidence-bound quotes, and compute",
+  "source_repo": "Black-Swan-Causal-Labs/robins-i-mcp",
+  "source_url": "https://github.com/Black-Swan-Causal-Labs/robins-i-mcp",
+  "install": "npx -y robins-i-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "workatastartup-mcp",
+  "description": "Enables AI assistants to query Y Combinator startup jobs and companies via the Work at a Startup platform, including advanced filters for skills, salary, equity, and visa sponsorship, plus tools to fetch detailed company and job information.",
+  "source_repo": "MIt9/workatastartup-mcp",
+  "source_url": "https://github.com/MIt9/workatastartup-mcp",
+  "install": "npx -y workatastartup-mcp"
+}

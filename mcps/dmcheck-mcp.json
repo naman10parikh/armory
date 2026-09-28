@@ -1,0 +1,7 @@
+{
+  "name": "dmcheck-mcp",
+  "description": "MCP server for refereeing tabletop RPG sessions by analyzing transcripts against a configurable charter, providing deterministic findings on rule violations like unanswered questions or unacknowledged dice rolls.",
+  "source_repo": "chaoz23/dmcheck",
+  "source_url": "https://github.com/chaoz23/dmcheck",
+  "install": "# git clone --depth 1 https://github.com/chaoz23/dmcheck\n# See source for mcpServers config block"
+}

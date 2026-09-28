@@ -1,0 +1,7 @@
+{
+  "name": "costrack-mcp",
+  "description": "Enables AI agents to track LLM costs, enforce budgets, compare models, and estimate expenses through simple tool calls.",
+  "source_repo": "nexussquad300/costrack-mcp",
+  "source_url": "https://github.com/nexussquad300/costrack-mcp",
+  "install": "npx -y costrack-mcp"
+}

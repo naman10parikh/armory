@@ -1,0 +1,7 @@
+{
+  "name": "egnyte-mcp-server",
+  "description": "Enables AI agents to search for and retrieve documents from Egnyte by name, using Egnyte's public APIs and Python SDK, integrating enterprise content into AI workflows.",
+  "source_repo": "egnyte/egnyte-mcp-server",
+  "source_url": "https://github.com/egnyte/egnyte-mcp-server",
+  "install": "npx -y egnyte-mcp-server"
+}

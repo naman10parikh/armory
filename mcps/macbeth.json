@@ -1,0 +1,7 @@
+{
+  "name": "macbeth",
+  "description": "MCP server that gives AI agents hands and eyes on macOS, enabling them to see and operate native and Electron applications via structured accessibility queries, screenshots, OCR, and application-specific skills.",
+  "source_repo": "wende/macbeth",
+  "source_url": "https://github.com/wende/macbeth",
+  "install": "# git clone --depth 1 https://github.com/wende/macbeth\n# See source for mcpServers config block"
+}

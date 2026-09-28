@@ -1,0 +1,7 @@
+{
+  "name": "user-story-context-mcp-server",
+  "description": "Enables MCP-capable agents to retrieve relevant slices of a user-story knowledge graph (stored in Supabase + pgvector) using three retrieval verbs: find_related, find_crossover, and query_stories.",
+  "source_repo": "knoxgraeme/user-story-context-mcp-server",
+  "source_url": "https://github.com/knoxgraeme/user-story-context-mcp-server",
+  "install": "npx -y user-story-context-mcp-server"
+}

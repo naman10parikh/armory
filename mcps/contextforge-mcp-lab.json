@@ -1,0 +1,7 @@
+{
+  "name": "contextforge-mcp-lab",
+  "description": "A local MCP-style server for managing task records and seeded documents through controlled tool functions, using SQLite and JSON seed data.",
+  "source_repo": "dotdigitize/contextforge-mcp-lab",
+  "source_url": "https://github.com/dotdigitize/contextforge-mcp-lab",
+  "install": "# git clone --depth 1 https://github.com/dotdigitize/contextforge-mcp-lab\n# See source for mcpServers config block"
+}

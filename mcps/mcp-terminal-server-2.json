@@ -1,0 +1,7 @@
+{
+  "name": "mcp-terminal-server-2",
+  "description": "Enables running interactive terminals inside Claude Code and Claude Desktop, supporting multiple sessions for different tasks.",
+  "source_repo": "Unfathomable-siren38/mcp-terminal-server",
+  "source_url": "https://github.com/Unfathomable-siren38/mcp-terminal-server",
+  "install": "# git clone --depth 1 https://github.com/Unfathomable-siren38/mcp-terminal-server\n# See source for mcpServers config block"
+}

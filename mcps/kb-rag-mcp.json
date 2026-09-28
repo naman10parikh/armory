@@ -1,0 +1,7 @@
+{
+  "name": "kb-rag-mcp",
+  "description": "Standalone MCP server exposing agentic-RAG tools (hybrid search, article retrieval, category listing) over a pgvector-backed knowledge base with bearer-token auth, designed for deployment on Render.",
+  "source_repo": "n1khll/kb-rag-mcp",
+  "source_url": "https://github.com/n1khll/kb-rag-mcp",
+  "install": "npx -y kb-rag-mcp"
+}

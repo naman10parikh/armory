@@ -1,0 +1,7 @@
+{
+  "name": "imaginate",
+  "description": "MCP server that expands rough ideas into detailed image prompts via LangChain and generates images using the Hugging Face Inference API.",
+  "source_repo": "vanshgurawalia/Imaginate",
+  "source_url": "https://github.com/vanshgurawalia/Imaginate",
+  "install": "# git clone --depth 1 https://github.com/vanshgurawalia/Imaginate\n# See source for mcpServers config block"
+}

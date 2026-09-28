@@ -1,0 +1,7 @@
+{
+  "name": "render-useful-mcp",
+  "description": "A Model Context Protocol server that exposes all Render API endpoints and higher-level tools for managing services, deployments, databases, and more on Render.",
+  "source_repo": "LuSrodri/render-useful-mcp",
+  "source_url": "https://github.com/LuSrodri/render-useful-mcp",
+  "install": "npx -y render-useful-mcp"
+}

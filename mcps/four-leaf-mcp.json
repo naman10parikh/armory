@@ -1,0 +1,7 @@
+{
+  "name": "four-leaf-mcp",
+  "description": "Job search assistant and interview prep inside any ai tool via MCP or public skill. Every tool you'll need for your job search in one product.",
+  "source_repo": "fourleafai/clover-public",
+  "source_url": "https://github.com/fourleafai/clover-public",
+  "install": "# git clone --depth 1 https://github.com/fourleafai/clover-public\n# See source for mcpServers config block"
+}

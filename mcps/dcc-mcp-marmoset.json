@@ -1,0 +1,7 @@
+{
+  "name": "dcc-mcp-marmoset",
+  "description": "Typed DCC-MCP control for Marmoset Toolbag 4.03+ and 5.x, enabling shell-capable agents to interact with Toolbag scenes via a shared CLI and MCP gateway.",
+  "source_repo": "dcc-mcp/dcc-mcp-marmoset",
+  "source_url": "https://github.com/dcc-mcp/dcc-mcp-marmoset",
+  "install": "# git clone --depth 1 https://github.com/dcc-mcp/dcc-mcp-marmoset\n# See source for mcpServers config block"
+}

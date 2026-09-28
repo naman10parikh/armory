@@ -1,0 +1,7 @@
+{
+  "name": "discord-webhook-relay-mcp",
+  "description": "Enables sending messages to Discord via webhook URLs through a single tool.",
+  "source_repo": "nakanoasaservice/discord-webhook-relay-mcp",
+  "source_url": "https://github.com/nakanoasaservice/discord-webhook-relay-mcp",
+  "install": "npx -y discord-webhook-relay-mcp"
+}

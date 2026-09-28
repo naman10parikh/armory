@@ -1,0 +1,7 @@
+{
+  "name": "medlineplus-mcp",
+  "description": "Provides tools to look up patient-friendly health education links from MedlinePlus Connect using clinical codes or medication names, enabling AI agents to retrieve trustworthy reference material without accessing private health records.",
+  "source_repo": "chrisvo/medlineplus-mcp",
+  "source_url": "https://github.com/chrisvo/medlineplus-mcp",
+  "install": "npx -y medlineplus-mcp"
+}

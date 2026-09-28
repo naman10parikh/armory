@@ -1,0 +1,7 @@
+{
+  "name": "rhodium11-mcp",
+  "description": "MCP server for Rhodium11 that exposes 19 tools for managing projects, schedules, orders, wallet, and feedback through any MCP-compatible AI agent.",
+  "source_repo": "Rhodium11/rhodium11-mcp",
+  "source_url": "https://github.com/Rhodium11/rhodium11-mcp",
+  "install": "npx -y rhodium11-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "classifinder-mcp",
+  "description": "Enables AI agents to scan text for leaked secrets and prompt injection markers, and redact them before reaching an LLM.",
+  "source_repo": "ClassiFinder/classifinder-mcp",
+  "source_url": "https://github.com/ClassiFinder/classifinder-mcp",
+  "install": "npx -y classifinder-mcp"
+}

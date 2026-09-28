@@ -1,0 +1,7 @@
+{
+  "name": "geocode-mcp",
+  "description": "MCP server for geocoding, reverse geocoding, place/POI search, and distance calculation using OpenStreetMap Nominatim, with no API key required.",
+  "source_repo": "danishashko/geocode-mcp",
+  "source_url": "https://github.com/danishashko/geocode-mcp",
+  "install": "npx -y geocode-mcp"
+}

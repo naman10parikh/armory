@@ -1,0 +1,7 @@
+{
+  "name": "outlook-evidence-mcp",
+  "description": "Enables read-only search and export of Outlook emails and attachments with a chain-of-custody manifest for evidence collection.",
+  "source_repo": "ZachPackull/outlook-evidence-mcp",
+  "source_url": "https://github.com/ZachPackull/outlook-evidence-mcp",
+  "install": "npx -y outlook-evidence-mcp"
+}

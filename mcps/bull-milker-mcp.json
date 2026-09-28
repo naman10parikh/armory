@@ -1,0 +1,7 @@
+{
+  "name": "bull-milker-mcp",
+  "description": "Enables agents to view moomoo market data, run the Bull Milker stock screener, and assess portfolio risk/exposure without placing orders. Also offers optional gated order execution and quarterly tax summaries.",
+  "source_repo": "mDemarco12/bull-milker-mcp",
+  "source_url": "https://github.com/mDemarco12/bull-milker-mcp",
+  "install": "npx -y bull-milker-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "legal-doc-intelligence",
+  "description": "MCP server that analyzes legal documents, extracts key clauses, identifies risks, and summarizes contracts. 8 tools for AI agents needing legal document intelligence.",
+  "source_repo": "MichalisKampouridis/income-machine",
+  "source_url": "https://github.com/MichalisKampouridis/income-machine",
+  "install": "# git clone --depth 1 https://github.com/MichalisKampouridis/income-machine\n# See source for mcpServers config block"
+}

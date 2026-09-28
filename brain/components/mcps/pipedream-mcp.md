@@ -6,7 +6,7 @@ source_repo: https://pipedream.com/docs/connect/mcp
 source_url: https://pipedream.com/docs/connect/mcp
 license: unknown
 cli_compat: []
-maturity: curated
+maturity: stable
 stars: null
 eval_score: 1
 mentions: null

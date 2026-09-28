@@ -1,0 +1,7 @@
+{
+  "name": "anotepad-mcp-server",
+  "description": "Connects AI assistants to aNotepad online notes for reading, searching, writing, and organizing notes through natural conversation.",
+  "source_repo": "vannet/anotepad-mcp",
+  "source_url": "https://github.com/vannet/anotepad-mcp",
+  "install": "npx -y anotepad-mcp"
+}

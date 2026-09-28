@@ -1,0 +1,7 @@
+{
+  "name": "cisco-iq-mcp-server",
+  "description": "A local MCP server that exposes Cisco IQ's Assets and Assessments REST APIs as read-only MCP tools, enabling AI assistants to query asset inventory, contracts, lifecycle data, security advisories, and field notices.",
+  "source_repo": "rrizbaf/cisco-iq-mcp-server",
+  "source_url": "https://github.com/rrizbaf/cisco-iq-mcp-server",
+  "install": "npx -y cisco-iq-mcp-server"
+}

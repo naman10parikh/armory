@@ -1,0 +1,7 @@
+{
+  "name": "vmm-mcp-server",
+  "description": "MCP server that wraps the vmm-api CLI to enable listing and managing VMM network topologies through natural language.",
+  "source_repo": "urao/vmm-mcp-server",
+  "source_url": "https://github.com/urao/vmm-mcp-server",
+  "install": "npx -y vmm-mcp-server"
+}

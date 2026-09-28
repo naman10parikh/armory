@@ -1,0 +1,7 @@
+{
+  "name": "daito",
+  "description": "MCP server for screening Indian stocks and mutual funds by wrapping screener.in and Morningstar India, enabling fundamental queries from Claude or Cursor.",
+  "source_repo": "achaljhawar/daito",
+  "source_url": "https://github.com/achaljhawar/daito",
+  "install": "# git clone --depth 1 https://github.com/achaljhawar/daito\n# See source for mcpServers config block"
+}

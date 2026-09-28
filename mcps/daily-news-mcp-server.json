@@ -1,0 +1,7 @@
+{
+  "name": "daily-news-mcp-server",
+  "description": "Enables AI assistants to fetch news categories and hot news/tweets across various topics like crypto, DeFi, and AI.",
+  "source_repo": "6551Team/daily-news",
+  "source_url": "https://github.com/6551Team/daily-news",
+  "install": "# git clone --depth 1 https://github.com/6551Team/daily-news\n# See source for mcpServers config block"
+}

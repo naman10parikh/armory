@@ -1,0 +1,7 @@
+{
+  "name": "broll-studio-mcp",
+  "description": "Enables searching, downloading, and placing b-roll assets (images, stock video, etc.) onto an editor timeline in DaVinci Resolve, Premiere, or via universal formats.",
+  "source_repo": "Gaffattack54/broll-studio-mcp",
+  "source_url": "https://github.com/Gaffattack54/broll-studio-mcp",
+  "install": "npx -y broll-studio-mcp"
+}

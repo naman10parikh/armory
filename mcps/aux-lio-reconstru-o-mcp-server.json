@@ -1,0 +1,7 @@
+{
+  "name": "aux-lio-reconstru-o-mcp-server",
+  "description": "Verifica o recebimento do Auxílio Reconstrução por um beneficiário a partir do CPF e do NIS, permitindo consultas de elegibilidade a partir de qualquer cliente MCP.",
+  "source_repo": "mcp-dir/auxilio_reconstrucao-mcp",
+  "source_url": "https://github.com/mcp-dir/auxilio_reconstrucao-mcp",
+  "install": "npx -y auxilio_reconstrucao-mcp"
+}

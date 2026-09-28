@@ -1,0 +1,7 @@
+{
+  "name": "gnews-agent",
+  "description": "A persistent news intelligence MCP server that enables AI agents to fetch, store, deduplicate, embed, and semantically query news from Google News across 141 countries and 41 languages.",
+  "source_repo": "ranahaani/gnews-agent",
+  "source_url": "https://github.com/ranahaani/gnews-agent",
+  "install": "# git clone --depth 1 https://github.com/ranahaani/gnews-agent\n# See source for mcpServers config block"
+}

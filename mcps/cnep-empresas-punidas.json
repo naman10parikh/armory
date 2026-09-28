@@ -1,0 +1,7 @@
+{
+  "name": "cnep-empresas-punidas",
+  "description": "Verifica se uma pessoa ou empresa consta no Cadastro Nacional de Empresas Punidas (CNEP) a partir do CPF ou CNPJ, com consulta por crédito pré-pago e integração MCP.",
+  "source_repo": "mcp-dir/cnep-mcp",
+  "source_url": "https://github.com/mcp-dir/cnep-mcp",
+  "install": "npx -y cnep-mcp"
+}

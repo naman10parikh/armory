@@ -1,0 +1,7 @@
+{
+  "name": "mercora",
+  "description": "Enables AI agents to discover products, build carts, and complete purchases across multiple downstream commerce services through a secure, contract-driven API.",
+  "source_repo": "gnanadeepgudapati/ACG-Agent-Commerce-Gateway",
+  "source_url": "https://github.com/gnanadeepgudapati/ACG-Agent-Commerce-Gateway",
+  "install": "# git clone --depth 1 https://github.com/gnanadeepgudapati/ACG-Agent-Commerce-Gateway\n# See source for mcpServers config block"
+}

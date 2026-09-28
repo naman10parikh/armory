@@ -1,0 +1,7 @@
+{
+  "name": "feishu-user-mcp",
+  "description": "MCP server enabling Feishu/Lark operations including messaging as user, document management, spreadsheets, knowledge base, calendar, tasks, and OKR, with cookie-based user authentication as a zero-setup option for personal developers.",
+  "source_repo": "zhuzhen-team/feishu-user-plugin",
+  "source_url": "https://github.com/zhuzhen-team/feishu-user-plugin",
+  "install": "# git clone --depth 1 https://github.com/zhuzhen-team/feishu-user-plugin\n# See source for mcpServers config block"
+}

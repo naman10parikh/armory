@@ -1,0 +1,7 @@
+{
+  "name": "agent-task-list-mcp-server",
+  "description": "Provides a self-hosted shared work queue for AI agents via MCP, using a local SQLite database for task management.",
+  "source_repo": "vigneshr-07/agent-task-list",
+  "source_url": "https://github.com/vigneshr-07/agent-task-list",
+  "install": "# git clone --depth 1 https://github.com/vigneshr-07/agent-task-list\n# See source for mcpServers config block"
+}

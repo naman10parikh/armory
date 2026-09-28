@@ -1,0 +1,7 @@
+{
+  "name": "idms-identity-sql-mcp",
+  "description": "Enables SQL-based identity lookups for IDMS systems, supporting search by account, employee ID, name, department, and manager, plus active students and stats.",
+  "source_repo": "josephstreeter/mcp_idms",
+  "source_url": "https://github.com/josephstreeter/mcp_idms",
+  "install": "# git clone --depth 1 https://github.com/josephstreeter/mcp_idms\n# See source for mcpServers config block"
+}

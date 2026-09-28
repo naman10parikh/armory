@@ -1,0 +1,7 @@
+{
+  "name": "gym-mcp",
+  "description": "Enables AI agents to discover and play games like Tic-Tac-Toe through a standardized interface, with plans to integrate more environments.",
+  "source_repo": "IshanTiwari0112/gym-mcp",
+  "source_url": "https://github.com/IshanTiwari0112/gym-mcp",
+  "install": "npx -y gym-mcp"
+}

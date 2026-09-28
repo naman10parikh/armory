@@ -1,0 +1,7 @@
+{
+  "name": "kyaulabs-deepseek-websearch",
+  "description": "Enables real-time web search via DeepSeek's server-side tool without requiring additional search API keys.",
+  "source_repo": "kyaulabs/deepseek-websearch-mcp",
+  "source_url": "https://github.com/kyaulabs/deepseek-websearch-mcp",
+  "install": "npx -y deepseek-websearch-mcp"
+}

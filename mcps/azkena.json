@@ -1,0 +1,7 @@
+{
+  "name": "azkena",
+  "description": "An MCP server that exposes Basque pelota competition data as tools, enabling AI assistants to query competitions, clubs, results, and more via natural language.",
+  "source_repo": "pilotariak/azkena",
+  "source_url": "https://github.com/pilotariak/azkena",
+  "install": "# git clone --depth 1 https://github.com/pilotariak/azkena\n# See source for mcpServers config block"
+}

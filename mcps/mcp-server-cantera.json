@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-cantera",
+  "description": "An MCP server that wraps Cantera to enable LLMs to perform accurate thermodynamic, transport, equilibrium, and chemical kinetics calculations.",
+  "source_repo": "StepFunctionLLC/mcp-server-cantera",
+  "source_url": "https://github.com/StepFunctionLLC/mcp-server-cantera",
+  "install": "# git clone --depth 1 https://github.com/StepFunctionLLC/mcp-server-cantera\n# See source for mcpServers config block"
+}

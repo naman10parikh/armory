@@ -1,0 +1,7 @@
+{
+  "name": "monstarx-india-mcp",
+  "description": "Production-ready MCP server exposing India-specific public data, weather/environment, transport, and maps/address APIs through unified tools for AI agents.",
+  "source_repo": "Thinaakar/IN_mcp",
+  "source_url": "https://github.com/Thinaakar/IN_mcp",
+  "install": "npx -y IN_mcp"
+}

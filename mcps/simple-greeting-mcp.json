@@ -1,0 +1,7 @@
+{
+  "name": "simple-greeting-mcp",
+  "description": "A minimal MCP server that provides a single 'hello' tool returning a greeting message, deployable on Render.",
+  "source_repo": "Shin-Kyeongsik/simple-greeting-mcp",
+  "source_url": "https://github.com/Shin-Kyeongsik/simple-greeting-mcp",
+  "install": "npx -y simple-greeting-mcp"
+}

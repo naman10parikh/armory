@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trf3-certid-o-de-distribui-o",
+  "description": "MCP server for consulting distribution certificates from TRF3 (Tribunal Regional Federal da 3ª Região) via official source, providing read-only access with usage-based pricing.",
+  "source_repo": "mcp-dir/tribunal_trf3_certidao_distr-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trf3_certidao_distr-mcp",
+  "install": "npx -y tribunal_trf3_certidao_distr-mcp"
+}

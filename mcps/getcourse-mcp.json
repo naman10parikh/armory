@@ -1,0 +1,7 @@
+{
+  "name": "getcourse-mcp",
+  "description": "Automates a GetCourse account from an AI agent — grant lesson/training access, manage users and groups — with no official API.",
+  "source_repo": "skiddgoddamn/getcourse-mcp",
+  "source_url": "https://github.com/skiddgoddamn/getcourse-mcp",
+  "install": "npx -y getcourse-mcp"
+}

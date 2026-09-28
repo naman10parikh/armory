@@ -1,0 +1,7 @@
+{
+  "name": "fifa-public-api-mcp",
+  "description": "Enables querying FIFA competitions, fixtures, results, and live match data through the FIFA Public API without authentication.",
+  "source_repo": "chrispickford/fifa-public-api-mcp",
+  "source_url": "https://github.com/chrispickford/fifa-public-api-mcp",
+  "install": "npx -y fifa-public-api-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "octopus-mcp",
+  "description": "Lets Claude analyse your Octopus Energy account: usage, costs, tariff comparisons, Saving Sessions, Octoplus rewards.",
+  "source_repo": "DanielChicot/octopus-mcp",
+  "source_url": "https://github.com/DanielChicot/octopus-mcp",
+  "install": "npx -y octopus-mcp"
+}

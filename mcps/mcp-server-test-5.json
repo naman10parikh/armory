@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-test-5",
-  "description": "Mcp Server Test MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "xfg-studio/mcp-server-test",
   "source_url": "https://mcp.so/server/mcp-server-test/xfg-studio",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-test/xfg-studio\n# See source for mcpServers config block"

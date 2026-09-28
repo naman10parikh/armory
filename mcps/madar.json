@@ -1,0 +1,7 @@
+{
+  "name": "madar",
+  "description": "Give your coding agent the repo context it needs before it starts searching. Madar builds a local graph of your TypeScript or Node.js repository and turns the current question into a small, task-aware context pack. Claude Code, Codex, Cursor, Copilot, Gemini, Aider, and OpenCode can start from relev",
+  "source_repo": "mohanagy/madar",
+  "source_url": "https://github.com/mohanagy/madar",
+  "install": "# git clone --depth 1 https://github.com/mohanagy/madar\n# See source for mcpServers config block"
+}

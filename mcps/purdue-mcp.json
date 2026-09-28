@@ -1,0 +1,7 @@
+{
+  "name": "purdue-mcp",
+  "description": "MCP server providing 24 tools to access public, real-time Purdue University data including dining menus, gym occupancy, course catalogs, bus times, events, and more.",
+  "source_repo": "sharziki/purdue-mcp",
+  "source_url": "https://github.com/sharziki/purdue-mcp",
+  "install": "npx -y purdue-mcp"
+}

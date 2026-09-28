@@ -1,0 +1,7 @@
+{
+  "name": "cv-forge",
+  "description": "An MCP server that analyzes job postings and generates tailored, ATS-friendly CVs, cover letters, and email templates in multiple formats including PDF.",
+  "source_repo": "thechandanbhagat/cv-forge",
+  "source_url": "https://github.com/thechandanbhagat/cv-forge",
+  "install": "# git clone --depth 1 https://github.com/thechandanbhagat/cv-forge\n# See source for mcpServers config block"
+}

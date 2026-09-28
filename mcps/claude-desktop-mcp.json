@@ -1,0 +1,7 @@
+{
+  "name": "claude-desktop-mcp",
+  "description": "A fake MCP server with 108 themed tools for testing Claude Desktop's handling of large toolsets and Amazon Bedrock AgentCore Gateway integration.",
+  "source_repo": "dmccaffery/claude-desktop-mcp",
+  "source_url": "https://github.com/dmccaffery/claude-desktop-mcp",
+  "install": "npx -y claude-desktop-mcp"
+}

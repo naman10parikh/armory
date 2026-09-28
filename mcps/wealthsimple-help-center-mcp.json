@@ -1,0 +1,7 @@
+{
+  "name": "wealthsimple-help-center-mcp",
+  "description": "Enables AI agents to search, browse, and retrieve articles from the Wealthsimple Help Center via 7 typed tools (search, taxonomy, article retrieval) using the public Zendesk API.",
+  "source_repo": "tatianathevisionary/wealthsimple-mcp",
+  "source_url": "https://github.com/tatianathevisionary/wealthsimple-mcp",
+  "install": "npx -y wealthsimple-mcp"
+}

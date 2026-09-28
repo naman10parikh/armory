@@ -1,0 +1,7 @@
+{
+  "name": "falcon-mcp-server",
+  "description": "A Python MCP server using the Falcon web framework, providing Streamable HTTP transport for connecting AI agents and MCP clients.",
+  "source_repo": "falconry/falcon-mcp-server",
+  "source_url": "https://github.com/falconry/falcon-mcp-server",
+  "install": "npx -y falcon-mcp-server"
+}

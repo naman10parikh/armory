@@ -1,0 +1,7 @@
+{
+  "name": "acc-ai-mcp",
+  "description": "Enables AI assistants to interact with Autodesk Construction Cloud projects through natural language, connecting APS APIs for querying project data and issues.",
+  "source_repo": "ssdotai/acc-ai-mcp",
+  "source_url": "https://github.com/ssdotai/acc-ai-mcp",
+  "install": "npx -y acc-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "twitterapis",
+  "description": "MCP server for the Twitter/X read API, enabling search, user profiles, tweets, followers, and more via natural language.",
+  "source_repo": "TwitterAPIs/twitterapis-mcp",
+  "source_url": "https://github.com/TwitterAPIs/twitterapis-mcp",
+  "install": "npx -y twitterapis-mcp"
+}

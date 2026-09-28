@@ -1,0 +1,7 @@
+{
+  "name": "gcp-mcp",
+  "description": "Enables managing Google Cloud Platform (GCP) resources through natural language commands, including compute instances, storage, databases, and monitoring.",
+  "source_repo": "fastmcp-me/gcp-mcp-henihaddad",
+  "source_url": "https://github.com/fastmcp-me/gcp-mcp-henihaddad",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/gcp-mcp-henihaddad\n# See source for mcpServers config block"
+}

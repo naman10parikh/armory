@@ -1,0 +1,7 @@
+{
+  "name": "openfda-fastmcp-server",
+  "description": "Enables AI agents to query and analyze FDA adverse events, drug labels, medical device clearances, and other public health datasets through natural language commands.",
+  "source_repo": "SuyashEkhande/OpenFDA-Semantic-MCP",
+  "source_url": "https://github.com/SuyashEkhande/OpenFDA-Semantic-MCP",
+  "install": "npx -y OpenFDA-Semantic-MCP"
+}

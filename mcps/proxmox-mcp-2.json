@@ -1,0 +1,7 @@
+{
+  "name": "proxmox-mcp-2",
+  "description": "An MCP server that exposes Proxmox VE node/cluster as tools for MCP clients, enabling management of VMs and containers including power control, resource reconfiguration, snapshots, and backups.",
+  "source_repo": "nrohozen/proxmox-mcp",
+  "source_url": "https://github.com/nrohozen/proxmox-mcp",
+  "install": "npx -y proxmox-mcp"
+}

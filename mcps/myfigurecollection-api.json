@@ -1,0 +1,7 @@
+{
+  "name": "myfigurecollection-api",
+  "description": "An MCP server that enables AI assistants to search and retrieve anime figure data, collections, lists, and clubs from MyFigureCollection.net, including partner listings and barcode lookup.",
+  "source_repo": "ssskay/myfigurecollection-api",
+  "source_url": "https://github.com/ssskay/myfigurecollection-api",
+  "install": "# git clone --depth 1 https://github.com/ssskay/myfigurecollection-api\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ripplecheck-mcp-server",
+  "description": "Ripplecheck is a counterfactual schema migration compiler powered by the DataHub MCP Server. Paste breaking warehouse DDL and it projects the metadata graph, proves a bounded release policy, routes an executable migration DAG to owners, writes a hash-sealed decision capsule back to DataHub, and gene",
+  "source_repo": "sohamkamat28/ripplecheck",
+  "source_url": "https://github.com/sohamkamat28/ripplecheck",
+  "install": "# git clone --depth 1 https://github.com/sohamkamat28/ripplecheck\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "newspaper-mcp",
+  "description": "Enables LLM agents to discover news sources, list articles, parse and extract article text, search news, and perform NLP analysis such as keyword extraction and summarization.",
+  "source_repo": "AndyTheFactory/newspaper4k-mcp",
+  "source_url": "https://github.com/AndyTheFactory/newspaper4k-mcp",
+  "install": "npx -y newspaper4k-mcp"
+}

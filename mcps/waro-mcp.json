@@ -1,0 +1,7 @@
+{
+  "name": "waro-mcp",
+  "description": "Enables LLMs to interact with Waro Colombia's API, providing tools for sales, customers, menu, and analytics data.",
+  "source_repo": "uno0uno/waro-mcp",
+  "source_url": "https://github.com/uno0uno/waro-mcp",
+  "install": "npx -y waro-mcp"
+}

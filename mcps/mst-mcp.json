@@ -1,0 +1,7 @@
+{
+  "name": "mst-mcp",
+  "description": "MCP server for the MST Chain ecosystem, enabling access to documentation, network info, smart contract guides, wallet balances, and transaction details via Web3.",
+  "source_repo": "vipulsutar11/mst-mcp",
+  "source_url": "https://github.com/vipulsutar11/mst-mcp",
+  "install": "npx -y mst-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aporix-mcp-server",
+  "description": "Exposes the Aporix document optimization API as an MCP tool for AI agents, enabling document compression and token/cost savings analysis.",
+  "source_repo": "yashvis15/aporix-mcp-server",
+  "source_url": "https://github.com/yashvis15/aporix-mcp-server",
+  "install": "npx -y aporix-mcp-server"
+}

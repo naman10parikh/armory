@@ -1,0 +1,7 @@
+{
+  "name": "varta-mcp",
+  "description": "Spam classification MCP server for AI agents that classifies messages as SPAM, SUSPICIOUS, or SAFE based on real Telegram moderation data and multi-layer detection.",
+  "source_repo": "DarynaFor/mcp-varta",
+  "source_url": "https://github.com/DarynaFor/mcp-varta",
+  "install": "# git clone --depth 1 https://github.com/DarynaFor/mcp-varta\n# See source for mcpServers config block"
+}

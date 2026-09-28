@@ -1,0 +1,7 @@
+{
+  "name": "site-sense",
+  "description": "Enables AI assistants to see and interact with web browser tabs by capturing accessibility tree and screenshots via a Chrome extension and local MCP server.",
+  "source_repo": "NordmanLive/site-sense",
+  "source_url": "https://github.com/NordmanLive/site-sense",
+  "install": "# git clone --depth 1 https://github.com/NordmanLive/site-sense\n# See source for mcpServers config block"
+}

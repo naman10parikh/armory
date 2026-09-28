@@ -1,0 +1,7 @@
+{
+  "name": "appraisal-tracker-mcp",
+  "description": "Enables tracking annual performance appraisal by logging professional achievements as structured Markdown notes to an Obsidian vault through natural language conversation with VS Code Copilot.",
+  "source_repo": "shabiokscode/appraisal-tracker-mcp",
+  "source_url": "https://github.com/shabiokscode/appraisal-tracker-mcp",
+  "install": "npx -y appraisal-tracker-mcp"
+}

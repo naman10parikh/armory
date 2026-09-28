@@ -1,0 +1,7 @@
+{
+  "name": "resy-mcp",
+  "description": "Manage Resy reservations via natural language: search restaurants, book tables, and manage reservations, favorites, and Priority Notify.",
+  "source_repo": "chrischall/resy-mcp",
+  "source_url": "https://github.com/chrischall/resy-mcp",
+  "install": "npx -y resy-mcp"
+}

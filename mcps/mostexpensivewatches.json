@@ -1,0 +1,7 @@
+{
+  "name": "mostexpensivewatches",
+  "description": "MCP server providing tools to search luxury watch inventory, auction records, market estimates, and brand info from mostexpensivewatches.net. Enables AI agents to access documented ultra-luxury watch data without an API key.",
+  "source_repo": "softdevfz/mostexpensivewatches",
+  "source_url": "https://github.com/softdevfz/mostexpensivewatches",
+  "install": "# git clone --depth 1 https://github.com/softdevfz/mostexpensivewatches\n# See source for mcpServers config block"
+}

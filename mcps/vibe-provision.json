@@ -1,0 +1,7 @@
+{
+  "name": "vibe-provision",
+  "description": "Enables AI agents to provision and manage external SaaS services (Clerk, Stripe, Resend, etc.) by authenticating and creating resources via YAML configuration.",
+  "source_repo": "totte-dev/vibe-provision",
+  "source_url": "https://github.com/totte-dev/vibe-provision",
+  "install": "# git clone --depth 1 https://github.com/totte-dev/vibe-provision\n# See source for mcpServers config block"
+}

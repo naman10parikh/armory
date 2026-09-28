@@ -1,0 +1,7 @@
+{
+  "name": "roku-debug-mcp",
+  "description": "Provides AI agents with Roku BrightScript debugging tools, including log reading, scene graph inspection, breakpoint management, variable inspection, and execution control.",
+  "source_repo": "dominick253/roku-debug-mcp",
+  "source_url": "https://github.com/dominick253/roku-debug-mcp",
+  "install": "npx -y roku-debug-mcp"
+}

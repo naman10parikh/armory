@@ -1,0 +1,7 @@
+{
+  "name": "fortress-mcp",
+  "description": "A zero-trust security gateway for AI-agent tool execution, enforcing authentication, authorization, risk classification, and human confirmation before MCP tools run.",
+  "source_repo": "Mayank1532/FORTRESS-MCP",
+  "source_url": "https://github.com/Mayank1532/FORTRESS-MCP",
+  "install": "npx -y FORTRESS-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "grok-build-bridge",
+  "description": "An MCP server that wraps the local Grok Build CLI, enabling Codex to delegate code reviews, bounded coding tasks, and setup diagnostics to Grok for a second opinion or parallel processing.",
+  "source_repo": "Reederey87/grok-build-codex-plugin",
+  "source_url": "https://github.com/Reederey87/grok-build-codex-plugin",
+  "install": "# git clone --depth 1 https://github.com/Reederey87/grok-build-codex-plugin\n# See source for mcpServers config block"
+}

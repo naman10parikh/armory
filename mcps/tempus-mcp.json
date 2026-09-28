@@ -1,0 +1,7 @@
+{
+  "name": "tempus-mcp",
+  "description": "Enables AI assistants to manage Toggl Track time entries, projects, and workspaces through natural language, supporting CRUD operations and past date time slots.",
+  "source_repo": "Kos-M/tempus-mcp",
+  "source_url": "https://github.com/Kos-M/tempus-mcp",
+  "install": "npx -y tempus-mcp"
+}

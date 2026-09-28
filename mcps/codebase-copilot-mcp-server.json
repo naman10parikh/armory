@@ -1,0 +1,7 @@
+{
+  "name": "codebase-copilot-mcp-server",
+  "description": "Exposes code search and file reading tools over the Model Context Protocol, enabling any MCP-compatible client to query a codebase with natural language.",
+  "source_repo": "farahibreez18-ds/codebase-copilot",
+  "source_url": "https://github.com/farahibreez18-ds/codebase-copilot",
+  "install": "# git clone --depth 1 https://github.com/farahibreez18-ds/codebase-copilot\n# See source for mcpServers config block"
+}

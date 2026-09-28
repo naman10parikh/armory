@@ -1,0 +1,7 @@
+{
+  "name": "bitacora-mcp",
+  "description": "MCP server for creating, versioning, and publishing HTML presentations, using a Git store as source of truth and deploying to Google Apps Script. Supports large decks via file input or chunked uploads, with optional Google Workspace authentication for HTTP access.",
+  "source_repo": "Bidcomsrl/bitacora-mcp",
+  "source_url": "https://github.com/Bidcomsrl/bitacora-mcp",
+  "install": "npx -y bitacora-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "falling-tree-risk-mcp-server",
+  "description": "Provides falling tree risk intelligence for any US property address.",
+  "source_repo": "goodest/fallingtreerisk-mcp",
+  "source_url": "https://github.com/goodest/fallingtreerisk-mcp",
+  "install": "npx -y fallingtreerisk-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "model-card-chat",
+  "description": "An MCP server that turns the Hugging Face Hub into a conversational model picker with a tool-use eval harness to prove the agent actually uses it correctly.",
+  "source_repo": "farnoosh-afshinrad/model-card-chat-mcp",
+  "source_url": "https://github.com/farnoosh-afshinrad/model-card-chat-mcp",
+  "install": "npx -y model-card-chat-mcp"
+}

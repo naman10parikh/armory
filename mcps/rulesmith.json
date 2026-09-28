@@ -1,0 +1,7 @@
+{
+  "name": "rulesmith",
+  "description": "Provides a CLI and MCP server for scanning repositories to generate evidence-backed, project-specific instruction files for AI coding assistants, ensuring AI behavior aligns with existing codebase conventions.",
+  "source_repo": "CsabaKovacs/rulesmith",
+  "source_url": "https://github.com/CsabaKovacs/rulesmith",
+  "install": "# git clone --depth 1 https://github.com/CsabaKovacs/rulesmith\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arcgis-glasgow",
+  "description": "Enables querying Glasgow City Council GIS open geospatial datasets (parcels, zoning, public works) via natural language or direct tools: search datasets, query layers with SQL-like filters, and retrieve layer schemas.",
+  "source_repo": "pipeworx-io/mcp-arcgis-glasgow",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-glasgow",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-glasgow\n# See source for mcpServers config block"
+}

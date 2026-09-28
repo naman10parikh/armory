@@ -1,0 +1,7 @@
+{
+  "name": "easy-mysql-admin-mcp",
+  "description": "High-privilege MySQL admin MCP server for database and user/grant management.",
+  "source_repo": "chenkumi/easy-mysql-admin-mcp",
+  "source_url": "https://github.com/chenkumi/easy-mysql-admin-mcp",
+  "install": "npx -y easy-mysql-admin-mcp"
+}

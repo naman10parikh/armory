@@ -1,0 +1,7 @@
+{
+  "name": "mcp-searcher",
+  "description": "A template for creating MCP servers in Node.js/TypeScript with a modular architecture. It simplifies adding new tools and includes an example Elasticsearch search tool.",
+  "source_repo": "ljutreras/mcp-searcher",
+  "source_url": "https://github.com/ljutreras/mcp-searcher",
+  "install": "# git clone --depth 1 https://github.com/ljutreras/mcp-searcher\n# See source for mcpServers config block"
+}

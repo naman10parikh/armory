@@ -1,0 +1,7 @@
+{
+  "name": "re-angr",
+  "description": "MCP server for angr — symbolic execution + CFG + reaching-definitions.",
+  "source_repo": "Heretek-RE/re-angr",
+  "source_url": "https://github.com/Heretek-RE/re-angr",
+  "install": "# git clone --depth 1 https://github.com/Heretek-RE/re-angr\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "termux-mcp-shell",
+  "description": "Gives an agent full shell access on Termux with file read/write/edit capabilities.",
+  "source_repo": "nelvinzfx/termux-mcp-shell",
+  "source_url": "https://github.com/nelvinzfx/termux-mcp-shell",
+  "install": "# git clone --depth 1 https://github.com/nelvinzfx/termux-mcp-shell\n# See source for mcpServers config block"
+}

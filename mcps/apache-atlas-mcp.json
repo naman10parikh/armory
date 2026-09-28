@@ -1,0 +1,7 @@
+{
+  "name": "apache-atlas-mcp",
+  "description": "Connects LLM agents to Apache Atlas for searching, tracing lineage, and managing metadata. Read-only by default, with optional write mode for creating entities and classifications.",
+  "source_repo": "DanMeon/apache-atlas-mcp",
+  "source_url": "https://github.com/DanMeon/apache-atlas-mcp",
+  "install": "npx -y apache-atlas-mcp"
+}

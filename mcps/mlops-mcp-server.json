@@ -1,0 +1,7 @@
+{
+  "name": "mlops-mcp-server",
+  "description": "Enables AI assistants to perform MLOps workflows such as experiment tracking, model registry, dataset management, pipeline orchestration, and data lineage by wrapping DVC, MLflow, and Git.",
+  "source_repo": "anant-patankar/mlops-mcp-server",
+  "source_url": "https://github.com/anant-patankar/mlops-mcp-server",
+  "install": "npx -y mlops-mcp-server"
+}

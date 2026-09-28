@@ -1,0 +1,7 @@
+{
+  "name": "tokenhub-aigc-model",
+  "description": "Enables MCP-compatible clients to call TokenHub's image generation and editing APIs through natural language, supporting text-to-image, image-to-image, and configurable model and endpoint settings.",
+  "source_repo": "willsygao/tokenhub-aigc-model",
+  "source_url": "https://github.com/willsygao/tokenhub-aigc-model",
+  "install": "# git clone --depth 1 https://github.com/willsygao/tokenhub-aigc-model\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lofty-mcp",
+  "description": "MCP server for Lofty CRM. Enables managing leads, tasks, calendar, communications, and notes via the Lofty REST API.",
+  "source_repo": "nbhav/lofty-mcp",
+  "source_url": "https://github.com/nbhav/lofty-mcp",
+  "install": "npx -y lofty-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uspto-fpd-mcp",
+  "description": "High-performance server that simplifies access to the USPTO Final Petition Decisions API, streamlining document analysis and enhancing intellectual property workflows.",
+  "source_repo": "Tam1379/uspto_fpd_mcp",
+  "source_url": "https://github.com/Tam1379/uspto_fpd_mcp",
+  "install": "npx -y uspto_fpd_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-surf-forecast",
+  "description": "An MCP server that provides real-time surf intelligence, including wave quality scoring, beach discovery, session planning, and forecast analysis across 12+ global data sources. It turns AI assistants into surf-savvy copilots for finding the perfect wave.",
+  "source_repo": "luisaugustomachadomoretto/mcp-surf-forecast",
+  "source_url": "https://github.com/luisaugustomachadomoretto/mcp-surf-forecast",
+  "install": "# git clone --depth 1 https://github.com/luisaugustomachadomoretto/mcp-surf-forecast\n# See source for mcpServers config block"
+}

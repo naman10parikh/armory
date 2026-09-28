@@ -1,0 +1,7 @@
+{
+  "name": "wavemaker-react-native-mcp-server",
+  "description": "An MCP server providing intelligent development assistance for WaveMaker React Native projects. This tool integrates with Cursor IDE to help developers solve bugs, optimize performance, analyze code, and generate tests.",
+  "source_repo": "wm-raajvamsy/wavemaker-rn-mcp",
+  "source_url": "https://github.com/wm-raajvamsy/wavemaker-rn-mcp",
+  "install": "npx -y wavemaker-rn-mcp"
+}

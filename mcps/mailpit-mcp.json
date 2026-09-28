@@ -1,0 +1,7 @@
+{
+  "name": "mailpit-mcp",
+  "description": "Enables interaction with a local Mailpit instance for capturing and inspecting test emails during development and E2E testing.",
+  "source_repo": "exabyteso/mailpit_mcp",
+  "source_url": "https://github.com/exabyteso/mailpit_mcp",
+  "install": "npx -y mailpit_mcp"
+}

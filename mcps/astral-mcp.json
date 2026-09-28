@@ -1,0 +1,7 @@
+{
+  "name": "astral-mcp",
+  "description": "Precision-audited astrology MCP for natal charts, transits, synastry and moon phases. No API key.",
+  "source_repo": "davidmosiah/astral-mcp",
+  "source_url": "https://github.com/davidmosiah/astral-mcp",
+  "install": "npx -y astral-mcp"
+}

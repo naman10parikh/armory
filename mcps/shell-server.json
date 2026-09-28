@@ -1,0 +1,7 @@
+{
+  "name": "shell-server",
+  "description": "A simple MCP server that exposes a terminal tool, allowing AI agents to execute shell commands.",
+  "source_repo": "schajii/MCP-to-understand",
+  "source_url": "https://github.com/schajii/MCP-to-understand",
+  "install": "# git clone --depth 1 https://github.com/schajii/MCP-to-understand\n# See source for mcpServers config block"
+}

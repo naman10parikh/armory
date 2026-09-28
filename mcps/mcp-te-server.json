@@ -1,0 +1,7 @@
+{
+  "name": "mcp-te-server",
+  "description": "MCP proxy server for ThinkingEngine with automatic browser-based authentication. Automates the login → token extraction → proxy flow so you never need to manually copy tokens.",
+  "source_repo": "zjandrew/mcp-te-server",
+  "source_url": "https://github.com/zjandrew/mcp-te-server",
+  "install": "# git clone --depth 1 https://github.com/zjandrew/mcp-te-server\n# See source for mcpServers config block"
+}

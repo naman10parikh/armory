@@ -1,0 +1,7 @@
+{
+  "name": "mulchd",
+  "description": "Self-hosted MCP server for storing and serving structured team knowledge, enabling AI sessions to load relevant team context without re-prompting.",
+  "source_repo": "ChacheGS/mulchd",
+  "source_url": "https://github.com/ChacheGS/mulchd",
+  "install": "# git clone --depth 1 https://github.com/ChacheGS/mulchd\n# See source for mcpServers config block"
+}

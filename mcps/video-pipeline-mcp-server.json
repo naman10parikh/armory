@@ -1,0 +1,7 @@
+{
+  "name": "video-pipeline-mcp-server",
+  "description": "MCP server for managing video pipelines, integrating media processing (TTS, STT, image generation) and video editing, with a structured plugin system and tunnel to Claude AI Web.",
+  "source_repo": "sdvsdrv8990/video-pipeline-mcp",
+  "source_url": "https://github.com/sdvsdrv8990/video-pipeline-mcp",
+  "install": "npx -y video-pipeline-mcp"
+}

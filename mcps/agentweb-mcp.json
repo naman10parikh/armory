@@ -1,0 +1,7 @@
+{
+  "name": "agentweb-mcp",
+  "description": "Enables agents to search, retrieve, and contribute business data from a directory of 11M+ businesses across 195 countries, returning markdown prose by default.",
+  "source_repo": "zerabic/agentweb-mcp",
+  "source_url": "https://github.com/zerabic/agentweb-mcp",
+  "install": "npx -y agentweb-mcp"
+}

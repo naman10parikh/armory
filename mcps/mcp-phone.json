@@ -1,0 +1,7 @@
+{
+  "name": "mcp-phone",
+  "description": "Validates phone numbers and provides country calling codes, enabling AI agents to look up international dialing codes and filter by country name, ISO code, or calling code.",
+  "source_repo": "pipeworx-io/mcp-phone",
+  "source_url": "https://github.com/pipeworx-io/mcp-phone",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-phone\n# See source for mcpServers config block"
+}

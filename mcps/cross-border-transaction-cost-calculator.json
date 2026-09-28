@@ -1,0 +1,7 @@
+{
+  "name": "cross-border-transaction-cost-calculator",
+  "description": "Calculates total landed cost of international payments including FX spread, transfer fees, and settlement time across multiple payment methods, and provides free currency conversion and ECB exchange rates.",
+  "source_repo": "FoundryNet/currency-intel-mcp",
+  "source_url": "https://github.com/FoundryNet/currency-intel-mcp",
+  "install": "npx -y currency-intel-mcp"
+}

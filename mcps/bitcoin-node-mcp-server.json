@@ -1,0 +1,7 @@
+{
+  "name": "bitcoin-node-mcp-server",
+  "description": "Read-only MCP server that monitors a Bitcoin Core full node via JSON-RPC, providing tools to check node status, network info, mempool, and peer information.",
+  "source_repo": "andy-builds-ai/bitcoin-node-mcp",
+  "source_url": "https://github.com/andy-builds-ai/bitcoin-node-mcp",
+  "install": "npx -y bitcoin-node-mcp"
+}

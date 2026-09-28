@@ -1,0 +1,7 @@
+{
+  "name": "loomle",
+  "description": "MCP server that integrates with Unreal Engine to read and modify complex editor objects using SAL, providing tools for queries, patches, schema discovery, and editor control.",
+  "source_repo": "loomle/loomle",
+  "source_url": "https://github.com/loomle/loomle",
+  "install": "# git clone --depth 1 https://github.com/loomle/loomle\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "email-firewall",
+  "description": "Enables deterministic email triage by classifying messages into P0–P3 or REVIEW and emitting the pif.event.v1 contract. Provides tools for rendering Feishu messages, recording feedback, and retrieving policies, while leaving mailbox actions to Hermes.",
+  "source_repo": "roclee2692/email-triage-agent",
+  "source_url": "https://github.com/roclee2692/email-triage-agent",
+  "install": "# git clone --depth 1 https://github.com/roclee2692/email-triage-agent\n# See source for mcpServers config block"
+}

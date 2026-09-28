@@ -1,0 +1,7 @@
+{
+  "name": "straightedge",
+  "description": "Enables AI agents to deterministically control Mermaid diagram layout through semantic operations like alignment, distribution, resizing, and history management via MCP.",
+  "source_repo": "gmjen/straightedge",
+  "source_url": "https://github.com/gmjen/straightedge",
+  "install": "# git clone --depth 1 https://github.com/gmjen/straightedge\n# See source for mcpServers config block"
+}

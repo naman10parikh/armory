@@ -1,0 +1,7 @@
+{
+  "name": "release-doc-mcp",
+  "description": "Finds version and image tag from latest successful GitHub Actions workflow run and creates a Confluence release page documenting that information.",
+  "source_repo": "ankitscherian/release-doc-mcp",
+  "source_url": "https://github.com/ankitscherian/release-doc-mcp",
+  "install": "npx -y release-doc-mcp"
+}

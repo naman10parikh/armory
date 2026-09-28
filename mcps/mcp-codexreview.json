@@ -1,0 +1,7 @@
+{
+  "name": "mcp-codexreview",
+  "description": "Provides MCP tools to review git changes using OpenAI Codex CLI, enabling code review of unstaged, staged, or last-commit changes.",
+  "source_repo": "signal-slot/mcp-codexreview",
+  "source_url": "https://github.com/signal-slot/mcp-codexreview",
+  "install": "# git clone --depth 1 https://github.com/signal-slot/mcp-codexreview\n# See source for mcpServers config block"
+}

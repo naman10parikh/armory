@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gdbmi",
+  "description": "Enables debugging of programs through GDB/MI, allowing breakpoints, stepping, and register analysis via natural language.",
+  "source_repo": "maxholman/mcp-gdbmi",
+  "source_url": "https://github.com/maxholman/mcp-gdbmi",
+  "install": "# git clone --depth 1 https://github.com/maxholman/mcp-gdbmi\n# See source for mcpServers config block"
+}

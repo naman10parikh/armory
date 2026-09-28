@@ -1,0 +1,7 @@
+{
+  "name": "text2animate",
+  "description": "Turns plain-language descriptions into animated SVGs with a live preview and conversational editing.",
+  "source_repo": "tom-pettit/text2animate",
+  "source_url": "https://github.com/tom-pettit/text2animate",
+  "install": "# git clone --depth 1 https://github.com/tom-pettit/text2animate\n# See source for mcpServers config block"
+}

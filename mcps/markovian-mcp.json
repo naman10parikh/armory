@@ -1,0 +1,7 @@
+{
+  "name": "markovian-mcp",
+  "description": "Bitcoin-anchored provenance for AI outputs; enables stamping, verifying, and tracing outputs with offline-verifiable canonical roots.",
+  "source_repo": "MarkovianProtocol/markovian-mcp",
+  "source_url": "https://github.com/MarkovianProtocol/markovian-mcp",
+  "install": "npx -y markovian-mcp"
+}

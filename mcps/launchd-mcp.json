@@ -1,0 +1,7 @@
+{
+  "name": "launchd-mcp",
+  "description": "Manage macOS launchd jobs from MCP tools with support for Python-script tasks, scheduling, logs, and lifecycle management.",
+  "source_repo": "igtm/launchd-mcp",
+  "source_url": "https://github.com/igtm/launchd-mcp",
+  "install": "npx -y launchd-mcp"
+}

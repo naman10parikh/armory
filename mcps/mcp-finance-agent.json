@@ -1,0 +1,7 @@
+{
+  "name": "mcp-finance-agent",
+  "description": "Provides yfinance-based quant tools for stock price lookups, fundamentals, metric comparisons, price history statistics, and earnings dates, enabling natural-language stock questions.",
+  "source_repo": "zacharymcclernon/mcp-finance-agent",
+  "source_url": "https://github.com/zacharymcclernon/mcp-finance-agent",
+  "install": "# git clone --depth 1 https://github.com/zacharymcclernon/mcp-finance-agent\n# See source for mcpServers config block"
+}

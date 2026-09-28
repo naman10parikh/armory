@@ -1,0 +1,7 @@
+{
+  "name": "forgeline",
+  "description": "Read-only Modbus TCP monitoring server that exposes safe MCP tools for AI agents to read holding/input registers, coils, and device identity from industrial devices without write access.",
+  "source_repo": "codenikhildr/Forgeline",
+  "source_url": "https://github.com/codenikhildr/Forgeline",
+  "install": "# git clone --depth 1 https://github.com/codenikhildr/Forgeline\n# See source for mcpServers config block"
+}

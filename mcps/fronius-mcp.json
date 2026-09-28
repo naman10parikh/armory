@@ -1,0 +1,7 @@
+{
+  "name": "fronius-mcp",
+  "description": "Enables real-time solar data from Fronius inverters via Claude, allowing natural language queries about solar production, battery, and grid exchange.",
+  "source_repo": "flowiesner/fronius-mcp",
+  "source_url": "https://github.com/flowiesner/fronius-mcp",
+  "install": "npx -y fronius-mcp"
+}

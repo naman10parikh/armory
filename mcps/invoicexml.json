@@ -1,0 +1,7 @@
+{
+  "name": "invoicexml",
+  "description": "InvoiceXML brings e-invoice compliance to your AI agent. Create, validate, convert, render, and extract structured invoices across UBL (Peppol BIS Billing 3.0, used worldwide), CII, Factur-X, ZUGFeRD, and XRechnung, all checked against the EN 16931 standard and official Schematron rules. Ask your as",
+  "source_repo": "InvoiceXML/invoicexml-mcp",
+  "source_url": "https://github.com/InvoiceXML/invoicexml-mcp",
+  "install": "npx -y invoicexml-mcp"
+}

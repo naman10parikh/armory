@@ -1,0 +1,7 @@
+{
+  "name": "codex-mcp-proxy",
+  "description": "A lightweight MCP proxy that resolves compatibility issues between Codex MCP Server and Warp by intercepting resources/list and resources/read requests.",
+  "source_repo": "jonnyhoo/codex-mcp-proxy",
+  "source_url": "https://github.com/jonnyhoo/codex-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/jonnyhoo/codex-mcp-proxy\n# See source for mcpServers config block"
+}

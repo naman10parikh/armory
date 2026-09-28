@@ -1,0 +1,7 @@
+{
+  "name": "revnuvo-x402-mcp",
+  "description": "Enables AI clients to perform domain verification, DNS lookup, and domain assessment via the Revnuvo x402 paid APIs, with automatic USDC micropayments on Base.",
+  "source_repo": "hardeyhemy/revnuvo-mcp",
+  "source_url": "https://github.com/hardeyhemy/revnuvo-mcp",
+  "install": "npx -y revnuvo-mcp"
+}
