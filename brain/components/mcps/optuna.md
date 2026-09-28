@@ -8,11 +8,11 @@ source_url: https://github.com/optuna/optuna-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 85
+stars: 86
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
+forks: 26
 pushed_at: "2026-08-05T05:34:37Z"
 ---
 ## What it is

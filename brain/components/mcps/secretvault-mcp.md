@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T00:16:59Z"
+pushed_at: "2026-09-24T20:15:00Z"
 ---
 ## What it is
 Bounded egress gateway & secret proxy for AI agents and applications, enabling safe credential injection into upstream requests while keeping raw secrets out of LLM prompt contexts.

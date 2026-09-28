@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-20T17:46:13Z"
+pushed_at: "2026-09-14T15:32:21Z"
 ---
 ## What it is
 Local MCP server for the Spawn Games agent API, enabling LLMs to manage game projects, push updates, and interact with live games via a Playwright Chromium client.

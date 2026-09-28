@@ -8,12 +8,12 @@ source_url: https://github.com/web-infra-dev/rsdoctor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1139
+stars: 1144
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 102
-pushed_at: "2026-09-01T11:17:22Z"
+forks: 104
+pushed_at: "2026-09-28T06:29:12Z"
 ---
 ## What it is
 MCP server `Rsdoctor`, catalogued on PulseMCP. Build analysis and optimization recommendations for Rspack projects

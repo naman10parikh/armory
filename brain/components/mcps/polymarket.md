@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [crypto, mcp]
 mentions: null
-forks: 13
+forks: 14
 pushed_at: "2026-01-11T19:48:19Z"
 ---
 

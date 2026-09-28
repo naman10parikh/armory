@@ -8,13 +8,13 @@ source_url: https://github.com/OpenAdaptAI/openadapt-agent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-02T00:13:40Z"
+pushed_at: "2026-09-21T20:48:00Z"
 ---
 ## What it is
 Serves compiled OpenAdapt workflows to MCP clients as read-only or executable tools, and exposes a Needs Attention queue with attended actions like continue, skip, teach, and escalate.

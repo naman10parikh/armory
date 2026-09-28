@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T14:33:08Z"
+pushed_at: "2026-09-28T14:36:31Z"
 ---
 ## What it is
 MCP server for HUD housing data, enabling Fair Market Rent lookups, Section 8 income limits, and ZIP-to-county crosswalk mapping for affordable housing assessments.

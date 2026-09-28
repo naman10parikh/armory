@@ -8,12 +8,12 @@ source_url: https://github.com/NitroRCr/gread
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 61
+stars: 64
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-07-05T10:18:15Z"
 ---
 ## What it is

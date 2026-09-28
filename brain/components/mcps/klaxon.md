@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T08:16:53Z"
+pushed_at: "2026-09-17T05:51:32Z"
 ---
 ## What it is
 An MCP server that connects language models to a Wazuh SIEM cluster, enabling read-only plain-language queries, schema inspection, field coverage analysis, and decoder testing.

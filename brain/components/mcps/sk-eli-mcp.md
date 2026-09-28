@@ -8,13 +8,13 @@ source_url: https://github.com/matematicsolutions/sk-eli-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:58:03Z"
+pushed_at: "2026-09-24T13:32:10Z"
 ---
 ## What it is
 Enables access to Slovak legislation from the Collection of Laws via static.slov-lex.sk. Supports listing consolidated versions, retrieving act metadata, and fetching full text with verifiable citations.

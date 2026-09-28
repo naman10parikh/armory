@@ -8,13 +8,13 @@ source_url: https://github.com/Axiler-Lab/vaultmcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-28T05:03:43Z"
+pushed_at: "2026-09-16T00:07:04Z"
 ---
 ## What it is
 An encrypted secret vault and MCP gateway that securely stores API keys and injects them into upstream MCP servers, so AI IDEs never see raw credentials.

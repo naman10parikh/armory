@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T03:24:15Z"
+pushed_at: "2026-09-04T02:15:26Z"
 ---
 ## What it is
 Provides deterministic A-share market snapshots and immutable strategy versions for short-term review, exposing verified daily reports via MCP without order or account management.

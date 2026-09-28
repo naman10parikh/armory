@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T06:33:16Z"
+pushed_at: "2026-09-21T23:51:32Z"
 ---
 ## What it is
 Enables querying a TypeScript codebase's graph for call flows, type relationships, and symbol locations without reading file bodies.

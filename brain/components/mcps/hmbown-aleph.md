@@ -8,11 +8,11 @@ source_url: https://github.com/hmbown/aleph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 213
+stars: 217
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
+forks: 25
 pushed_at: "2026-04-11T23:57:39Z"
 ---
 ## What it is

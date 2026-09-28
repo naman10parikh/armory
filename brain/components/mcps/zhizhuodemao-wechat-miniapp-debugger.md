@@ -8,11 +8,11 @@ source_url: https://github.com/zhizhuodemao/miniapp-cdp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 160
+stars: 198
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 33
+forks: 39
 pushed_at: "2026-04-22T14:04:09Z"
 ---
 ## What it is

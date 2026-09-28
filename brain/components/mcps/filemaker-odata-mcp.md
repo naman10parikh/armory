@@ -8,13 +8,13 @@ source_url: https://github.com/fsans/FMS-ODATA-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-06-25T13:22:35Z"
+pushed_at: "2026-09-14T15:39:10Z"
 ---
 ## What it is
 MCP server for FileMaker Server OData 4.01 API integration, enabling AI assistants to discover databases, perform CRUD operations, and manage connections.

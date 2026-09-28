@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-07-24T17:43:44Z"
+pushed_at: "2026-09-26T00:32:02Z"
 ---
 ## What it is
 MCP server `Kitsune`, catalogued on PulseMCP. Dynamic MCP hub that loads and unloads servers at runtime without restarts, accessing 130,000+ servers across 7 registries.

@@ -8,13 +8,13 @@ source_url: https://github.com/raintree-technology/hig-doctor
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 121
+stars: 140
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-08-31T02:19:12Z"
+pushed_at: "2026-09-11T06:39:34Z"
 ---
 ## What it is
 MCP server for Apple HIG compliance auditing, providing tools to list skills, search/lookup HIG references, audit files/projects, and explain findings.

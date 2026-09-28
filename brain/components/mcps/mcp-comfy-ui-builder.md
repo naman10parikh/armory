@@ -8,13 +8,13 @@ source_url: https://github.com/MIt9/mcp-comfy-ui-builder
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-02-03T18:07:42Z"
+pushed_at: "2026-09-23T19:31:53Z"
 ---
 ## What it is
 Enables discovery of ComfyUI nodes and building/managing workflows with real-time execution via WebSocket. Provides 50+ tools for node discovery, workflow building, template usage, model management, and batch/chain execution.

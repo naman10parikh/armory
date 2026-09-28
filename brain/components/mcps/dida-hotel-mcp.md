@@ -8,12 +8,12 @@ source_url: https://github.com/DIDA-AI/Dida-hotel-MCP-CN
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 2
 pushed_at: "2026-08-26T09:56:11Z"
 ---
 ## What it is

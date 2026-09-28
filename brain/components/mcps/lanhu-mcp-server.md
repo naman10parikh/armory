@@ -8,13 +8,13 @@ source_url: https://github.com/DC911360/lanhu-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T08:38:14Z"
+pushed_at: "2026-09-15T09:51:26Z"
 ---
 ## What it is
 Enables AI coding tools to read Lanhu design data and automate Design to Code, including project browsing, layer tree extraction, DDS semantic components, and code generation.

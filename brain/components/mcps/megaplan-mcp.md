@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-23T12:07:08Z"
+pushed_at: "2026-09-03T04:45:41Z"
 ---
 ## What it is
 Enables interaction with Megaplan project management platform, allowing users to manage tasks, deals, projects, and comments through natural language.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-29T16:08:43Z"
+pushed_at: "2026-09-28T13:48:35Z"
 ---
 ## What it is
 MCP server `Tmux Injector`, catalogued on PulseMCP. MCP server enabling AI agents to execute commands in live tmux panes with shell, Python REPL, and TCL interpreter support.

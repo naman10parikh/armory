@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:34:13Z"
+pushed_at: "2026-09-17T20:22:58Z"
 ---
 ## What it is
 Enables AI clients to manage SlimWeb/Webless e-commerce backend operations such as products, orders, categories, promotions, and settings through a secure Remote MCP server.

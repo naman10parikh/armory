@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T08:12:04Z"
+pushed_at: "2026-09-27T16:34:14Z"
 ---
 ## What it is
 An MCP server that connects AI agents to Scouter APM, enabling natural-language queries against real-time application performance data.

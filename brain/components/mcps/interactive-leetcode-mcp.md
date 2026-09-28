@@ -8,13 +8,13 @@ source_url: https://github.com/SPerekrestova/interactive-leetcode-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-07-21T03:55:56Z"
+pushed_at: "2026-09-15T18:48:44Z"
 ---
 ## What it is
 Enables interactive LeetCode practice with AI-guided authentication, problem solving, solution submission, and learning mode.

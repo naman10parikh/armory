@@ -8,13 +8,13 @@ source_url: https://github.com/AndyShaman/telegram-business-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-08-13T06:52:00Z"
+forks: 6
+pushed_at: "2026-09-09T14:12:04Z"
 ---
 ## What it is
 Connect any AI agent to your personal Telegram messages through the official Business API, enabling message history search and draft replies with optional manual approval.

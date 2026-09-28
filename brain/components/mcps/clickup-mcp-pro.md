@@ -8,13 +8,13 @@ source_url: https://github.com/helbertparanhos/clickup-mcp-pro
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T21:41:26Z"
+pushed_at: "2026-09-10T00:41:12Z"
 ---
 ## What it is
 ClickUp MCP Pro exposes nearly every ClickUp operation as a typed Model Context Protocol tool — so Claude Code (and any MCP client) can drive your entire workspace: tasks, lists, folders, spaces, docs, chat, goals, sprints, time tracking, custom fields, webhooks, guests and more. When a niche endpoi

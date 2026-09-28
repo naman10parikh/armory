@@ -8,13 +8,13 @@ source_url: https://github.com/kintone/mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 55
+stars: 57
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 21
-pushed_at: "2026-08-30T21:49:04Z"
+forks: 24
+pushed_at: "2026-09-03T07:24:46Z"
 ---
 ## What it is
 Official MCP server for kintone, enabling AI assistants to manage kintone apps, records, and settings through natural language.

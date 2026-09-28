@@ -8,13 +8,13 @@ source_url: https://github.com/trsdn/mcp-server-word
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T09:35:23Z"
+pushed_at: "2026-09-28T04:28:44Z"
 ---
 ## What it is
 Enables AI assistants to drive Microsoft Word for Windows via COM automation, including opening and creating documents, editing text, managing paragraphs, tables, images, styles, tracked changes, and exporting to PDF.

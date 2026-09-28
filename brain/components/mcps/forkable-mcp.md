@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-25T02:27:26Z"
+forks: 1
+pushed_at: "2026-09-09T03:40:48Z"
 ---
 ## What it is
 Enables ordering and managing Forkable corporate lunches from any MCP client, including viewing menus, setting/skipping/confirming meals, and getting personalized recommendations.

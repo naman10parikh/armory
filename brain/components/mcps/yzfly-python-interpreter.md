@@ -8,11 +8,11 @@ source_url: https://github.com/yzfly/mcp-python-interpreter
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 102
+stars: 103
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 34
+forks: 35
 pushed_at: "2026-07-02T09:05:18Z"
 ---
 ## What it is

@@ -8,7 +8,7 @@ source_url: https://github.com/mcccsm/x402-list-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 30
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []

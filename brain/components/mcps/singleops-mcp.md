@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-23T05:08:56Z"
+pushed_at: "2026-09-17T05:07:19Z"
 ---
 ## What it is
 Enables reading operations, searching clients, and creating leads in SingleOps, the US green-industry field-service platform, through natural language commands.

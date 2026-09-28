@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-22T21:26:53Z"
+pushed_at: "2026-09-08T19:20:17Z"
 ---
 ## What it is
 MCP server that provides persistent, structured memory using an Obsidian vault with the PARA method.

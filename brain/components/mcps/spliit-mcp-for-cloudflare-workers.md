@@ -8,13 +8,13 @@ source_url: https://github.com/kegelmeier/spliit-mcp-cloudflare
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T21:46:27Z"
+pushed_at: "2026-09-10T09:03:35Z"
 ---
 ## What it is
 An unofficial, security-focused MCP server for Spliit that runs on Cloudflare Workers. It enables remote management of multiple Spliit groups, including reading balances and expenses, and safely preparing and committing drafts.

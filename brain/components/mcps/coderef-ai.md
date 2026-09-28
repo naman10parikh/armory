@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T06:47:36Z"
+pushed_at: "2026-09-21T02:09:45Z"
 ---
 ## What it is
 A tool for vibecoding personnel and non-programmers to perform static code audit, query knowledge graph, and generate project documentation via MCP protocol.

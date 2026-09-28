@@ -8,12 +8,12 @@ source_url: https://github.com/dimitrovakulenko/dwg-mcp-server
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-08-28T21:05:55Z"
 ---
 ## What it is

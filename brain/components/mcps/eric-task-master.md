@@ -8,13 +8,13 @@ source_url: https://github.com/npcworkspace-cmyk/eric-task-master
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T18:00:37Z"
+forks: 1
+pushed_at: "2026-09-27T19:35:07Z"
 ---
 ## What it is
 Enables AI agents to run durable, isolated, and observable browser automation tasks via Playwright, with persistent profiles, recovery, evidence capture, and unattended execution for long-running web workflows.

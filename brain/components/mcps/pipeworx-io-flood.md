@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:07:22Z"
+pushed_at: "2026-09-26T12:28:59Z"
 ---
 ## What it is
 MCP server `Flood Warning`, catalogued on PulseMCP. Retrieve flood warnings and river level data from the UK Environment Agency API.

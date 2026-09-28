@@ -8,12 +8,12 @@ source_url: https://github.com/zapier/zapier-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 397
+stars: 421
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 58
+forks: 68
 pushed_at: "2026-07-29T21:42:17Z"
 ---
 ## What it is

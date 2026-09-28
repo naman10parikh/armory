@@ -13,7 +13,7 @@ related: []
 tags: [mcp, finance-fintech]
 stars: 1
 forks: 0
-pushed_at: "2026-06-04T10:41:34Z"
+pushed_at: "2026-09-10T11:48:51Z"
 ---
 ## What it is
 Deterministic risk governance for crypto trading agents. 5-level policy engine with position sizing, leverage limits, and trade blocking. BTC + ETH.

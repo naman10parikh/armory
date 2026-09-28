@@ -8,11 +8,11 @@ source_url: https://github.com/pinkpixel-dev/mem0-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 98
+stars: 99
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 14
 pushed_at: "2026-07-25T10:22:49Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/theyahia/voximplant-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-06-23T12:39:53Z"
+pushed_at: "2026-09-02T19:11:31Z"
 ---
 ## What it is
 MCP server `Voximplant`, catalogued on PulseMCP. Integrates with Voximplant for call history, user management, and SMS.

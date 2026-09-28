@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:29:34Z"
+pushed_at: "2026-09-26T21:58:46Z"
 ---
 ## What it is
 MCP server `TMDB`, catalogued on PulseMCP. TMDB movie and TV database: search movies, TV shows, people, trending content, genres, and credits.

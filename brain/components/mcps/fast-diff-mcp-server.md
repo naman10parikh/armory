@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-31T06:54:09Z"
+pushed_at: "2026-09-28T06:53:53Z"
 ---
 ## What it is
 A high-performance Model Context Protocol server that provides text diffing capabilities, enabling LLMs to compare two blocks of text and receive differences in unified diff format.

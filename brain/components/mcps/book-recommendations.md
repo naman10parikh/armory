@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T05:20:23Z"
+pushed_at: "2026-09-20T07:20:41Z"
 ---
 ## What it is
 Enables AI agents to get book recommendations by topic or mood, discover serendipitous blind-date picks from first sentences, and access free public-domain classics with read-now availability, all with no API keys required.

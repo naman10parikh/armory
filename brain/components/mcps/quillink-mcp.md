@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T13:45:33Z"
+pushed_at: "2026-09-26T08:58:08Z"
 ---
 ## What it is
 A read-only MCP server for accessing Quillink notes, folders, and tags, enabling AI tools like Claude to search, retrieve, and list notes and related metadata. Requires a Pro Quillink plan and supports OAuth or personal access token authentication.

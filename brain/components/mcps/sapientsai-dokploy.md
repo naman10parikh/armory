@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-24T17:44:19Z"
+pushed_at: "2026-09-13T22:54:37Z"
 ---
 ## What it is
 MCP server `Dokploy`, catalogued on PulseMCP. Integrates with Dokploy's self-hosted PaaS for deployment management, database orchestration, and infrastructure automation via 13 consolidated action-based tools.

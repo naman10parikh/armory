@@ -8,12 +8,12 @@ source_url: https://github.com/localstack/localstack-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-09-01T14:43:06Z"
+pushed_at: "2026-09-22T14:37:32Z"
 ---
 ## What it is
 MCP server `LocalStack`, catalogued on PulseMCP. Provides tools to manage your LocalStack container and other assorted related tasks, to simplify local cloud development and testing.

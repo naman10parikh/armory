@@ -8,13 +8,13 @@ source_url: https://github.com/CoinRithm/coinrithm-agent-trading
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-02T03:29:59Z"
+forks: 2
+pushed_at: "2026-09-28T12:44:30Z"
 ---
 ## What it is
 Paper-trade crypto spot, futures, and prediction markets on CoinRithm with a user-minted API key. Simulated funds only; includes 21 MCP tools and Agent Arena performance tracking.

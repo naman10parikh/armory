@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T22:38:25Z"
+pushed_at: "2026-09-21T22:37:30Z"
 ---
 ## What it is
 Enables persistent remote terminal sessions that survive dropped client connections, using pty-mcp and ai-tmux for interactive work and native OpenSSH for structured remote operations. Supports SSH config alias resolution, remote execution, file operations, and secure session management.

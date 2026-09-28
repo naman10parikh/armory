@@ -8,13 +8,13 @@ source_url: https://github.com/link0-o/PerfLens
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T14:25:10Z"
+pushed_at: "2026-09-27T19:03:59Z"
 ---
 ## What it is
 Provides typed, paginated tools for evidence-driven Linux performance analysis including profile analysis, comparison, and report generation with server-side authorization.

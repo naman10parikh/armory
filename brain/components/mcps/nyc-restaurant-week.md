@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T09:14:35Z"
+pushed_at: "2026-09-26T09:11:41Z"
 ---
 ## What it is
 MCP server for NYC Restaurant Week, enabling search and lookup of participating restaurants, date checks, and filter options.

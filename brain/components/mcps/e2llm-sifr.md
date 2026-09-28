@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-01T16:09:38Z"
+pushed_at: "2026-09-02T16:29:14Z"
 ---
 ## What it is
 E2LLM — structured browser perception for AI

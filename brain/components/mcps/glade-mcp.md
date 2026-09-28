@@ -8,13 +8,13 @@ source_url: https://github.com/Glade-tool/glade-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 205
+stars: 224
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 21
-pushed_at: "2026-08-29T23:19:01Z"
+forks: 25
+pushed_at: "2026-09-02T19:58:45Z"
 ---
 ## What it is
 Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 300+ granular tools, an editor aware system prompt, game design document project context, script semantic search, and skill calibration.

@@ -8,12 +8,12 @@ source_url: https://github.com/jkf87/hwp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 266
+stars: 267
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 64
-pushed_at: "2026-01-29T12:37:34Z"
+forks: 67
+pushed_at: "2026-09-27T20:52:28Z"
 ---
 ## What it is
 MCP server `Hangul Word Processor`, catalogued on PulseMCP. Enables direct creation, editing, and formatting of Korean documents in Hangul Word Processor (HWP) format through Python or Node.js interfaces that control the HWP COM interface.

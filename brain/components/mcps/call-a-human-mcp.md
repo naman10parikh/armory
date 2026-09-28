@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-03-03T00:53:34Z"
+pushed_at: "2026-09-13T03:54:03Z"
 ---
 ## What it is
 An MCP server that enables AI agents to pause and request human approval or information via Slack, Telegram, or macOS dialogs before proceeding with actions.

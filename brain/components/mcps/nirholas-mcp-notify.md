@@ -8,12 +8,12 @@ source_url: https://github.com/nirholas/mcp-notify
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-17T03:02:42Z"
+pushed_at: "2026-09-15T08:00:11Z"
 ---
 ## What it is
 MCP server `MCP Registry Notify`, catalogued on PulseMCP. Monitor the MCP Registry for new servers and changes with real-time notifications via Discord, Slack, Email, Telegram, Teams, and webhooks.

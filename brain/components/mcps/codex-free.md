@@ -8,13 +8,13 @@ source_url: https://github.com/hypnguyen1209/codex-free
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-08-29T03:31:52Z"
+forks: 8
+pushed_at: "2026-09-17T03:56:41Z"
 ---
 ## What it is
 An MCP server that bridges ChatGPT Web Pro to local tools, enabling file read/write, shell command execution, git operations, and search within a specified project directory.

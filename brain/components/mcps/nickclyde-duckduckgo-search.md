@@ -8,12 +8,12 @@ source_url: https://github.com/nickclyde/duckduckgo-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1446
+stars: 1510
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 186
-pushed_at: "2026-07-28T14:23:09Z"
+forks: 190
+pushed_at: "2026-09-04T18:31:25Z"
 ---
 ## What it is
 MCP server `DuckDuckGo Search`, catalogued on PulseMCP. Integrates with DuckDuckGo to provide web search capabilities, content fetching, and parsing, with results formatted for large language model consumption.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T23:37:28Z"
+pushed_at: "2026-09-24T12:57:13Z"
 ---
 ## What it is
 Enables publishing and managing HTML artifacts on stacktr.ee directly from MCP clients like Claude Desktop.

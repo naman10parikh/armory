@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-02T15:45:33Z"
+pushed_at: "2026-09-10T18:30:36Z"
 ---
 ## What it is
 MCP server `Pixie Vacations`, catalogued on PulseMCP. Book Sandals, Beaches resorts, and cruises through Pixie Vacations with co-branded booking URLs.

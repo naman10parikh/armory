@@ -8,12 +8,12 @@ source_url: https://github.com/pantheon-security/notebooklm-mcp-secure
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 81
+stars: 85
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
-pushed_at: "2026-08-29T08:30:00Z"
+forks: 18
+pushed_at: "2026-09-03T06:15:38Z"
 ---
 ## What it is
 MCP server `NotebookLM Secure`, catalogued on PulseMCP. Security-hardened fork with post-quantum encryption, secrets scanning, and enterprise-grade protections

@@ -8,13 +8,13 @@ source_url: https://github.com/rayss868/pc-controller-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T05:21:06Z"
+pushed_at: "2026-09-09T02:53:57Z"
 ---
 ## What it is
 Enables AI assistants to control Windows PCs by executing shell commands, managing files, capturing screenshots, and monitoring system information through a comprehensive set of MCP tools.

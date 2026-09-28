@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-09T19:00:42Z"
+pushed_at: "2026-09-09T17:40:25Z"
 ---
 ## What it is
 MCP server for Apple event liveblog updates from Engadget, MacRumors, iClarified, and Macworld, enabling AI agents to search, summarize, and monitor posts with optional webhook notifications.

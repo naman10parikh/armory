@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-07T07:55:13Z"
+pushed_at: "2026-09-26T13:58:58Z"
 ---
 ## What it is
 MCP server `Laddro Career`, catalogued on PulseMCP. Career platform MCP for tailoring resumes, generating cover letters, and accessing 22 customizable templates.

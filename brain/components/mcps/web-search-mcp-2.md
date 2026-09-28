@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-09-01T13:08:40Z"
+forks: 6
+pushed_at: "2026-09-19T05:32:56Z"
 ---
 ## What it is
 Provides LLMs with real-time web search and content extraction capabilities, including text/news search, full-text URL reading, and targeted technical documentation search.

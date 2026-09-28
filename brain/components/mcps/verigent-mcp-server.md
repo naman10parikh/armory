@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T05:54:03Z"
+pushed_at: "2026-09-22T07:27:31Z"
 ---
 ## What it is
 MCP server for Verigent's AI agent verification, enabling agents to verify themselves, check other agents' status, and browse the leaderboard.

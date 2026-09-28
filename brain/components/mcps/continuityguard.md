@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T21:25:42Z"
+pushed_at: "2026-09-26T21:26:09Z"
 ---
 ## What it is
 MCP server wrapping the ContinuityGuard CLI as a single generic run tool for video-clip continuity scans.

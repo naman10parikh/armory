@@ -8,11 +8,11 @@ source_url: https://github.com/back1ply/agent-skill-loader
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 4
 pushed_at: "2026-04-29T13:33:16Z"
 ---
 ## What it is

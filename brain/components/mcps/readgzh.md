@@ -8,13 +8,13 @@ source_url: https://github.com/sweesama/readgzh
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-25T13:34:44Z"
+forks: 2
+pushed_at: "2026-09-27T15:16:06Z"
 ---
 ## What it is
 Enables AI to read full-text WeChat Official Account articles, returning title, author, publish time, and clean Markdown content.

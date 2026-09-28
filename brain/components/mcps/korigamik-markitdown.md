@@ -8,11 +8,11 @@ source_url: https://github.com/korigamik/markitdown_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 87
+stars: 88
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 17
 pushed_at: "2025-12-21T14:18:32Z"
 ---
 ## What it is

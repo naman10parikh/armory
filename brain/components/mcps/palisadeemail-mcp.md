@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T20:21:10Z"
+pushed_at: "2026-09-11T14:10:22Z"
 ---
 ## What it is
 Enables monitoring and management of email authentication for domains, including SPF, DKIM, DMARC, MTA-STS, and BIMI, through an MCP server.

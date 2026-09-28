@@ -8,11 +8,11 @@ source_url: https://github.com/theposch/gmail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 15
 pushed_at: "2025-02-28T17:16:34Z"
 ---
 ## What it is

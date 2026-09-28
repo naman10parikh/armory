@@ -8,11 +8,11 @@ source_url: https://github.com/renandadalte/wpdev-pro-extended
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-02-20T07:57:41Z"
 ---
 ## What it is

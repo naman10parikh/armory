@@ -8,13 +8,13 @@ source_url: https://github.com/Pushary/pushary-skill
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T13:57:28Z"
+pushed_at: "2026-09-26T11:39:36Z"
 ---
 ## What it is
 Pushary is an MCP server that connects AI agents to push notifications, enabling human-in-the-loop approval from a phone.

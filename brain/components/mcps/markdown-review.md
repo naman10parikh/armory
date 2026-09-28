@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T02:43:03Z"
+pushed_at: "2026-09-22T07:23:49Z"
 ---
 ## What it is
 Enables interactive review of rendered Markdown documents by selecting passages, queueing line-anchored feedback, and submitting it in one batch to a coding agent that edits the original source file.

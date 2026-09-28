@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-30T05:49:37Z"
+pushed_at: "2026-09-25T21:27:12Z"
 ---
 ## What it is
 Typed MCP server for Hugging Face LeRobot workflows. Provides a structured, auditable interface for LeRobot CLI, examples, datasets, and dataset conversion.

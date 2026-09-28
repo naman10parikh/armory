@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T15:36:38Z"
+pushed_at: "2026-09-04T15:36:05Z"
 ---
 ## What it is
 Enables AI clients to submit files, hashes, and URLs for malware analysis, retrieve results, search across AssemblyLine indices, and triage alerts, all through the Model Context Protocol.

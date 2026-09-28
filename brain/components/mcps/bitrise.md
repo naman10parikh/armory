@@ -8,12 +8,12 @@ source_url: https://github.com/bitrise-io/bitrise-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
-pushed_at: "2026-08-14T07:52:09Z"
+forks: 18
+pushed_at: "2026-09-28T14:11:58Z"
 ---
 ## What it is
 MCP server `Bitrise`, catalogued on PulseMCP. Provides a bridge to the Bitrise CI/CD platform API, enabling mobile app development workflow management including builds, artifacts, and releases for iOS and Android platforms.

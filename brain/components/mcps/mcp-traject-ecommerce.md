@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:29:59Z"
+pushed_at: "2026-09-26T22:00:03Z"
 ---
 ## What it is
 Enables access to ecommerce data from Amazon (via Rainforest API) and Walmart (via BlueCart API) through an MCP server, part of the Pipeworx gateway.

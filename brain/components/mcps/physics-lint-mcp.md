@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T14:50:44Z"
+pushed_at: "2026-09-04T19:27:22Z"
 ---
 ## What it is
 Enables AI agents to verify physical admissibility of S-parameter models and coupling matrices, preventing reasoning about impossible physics.

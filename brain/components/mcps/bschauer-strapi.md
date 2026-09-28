@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 22
-pushed_at: "2026-01-07T08:14:57Z"
+pushed_at: "2026-09-11T12:25:56Z"
 ---
 ## What it is
 MCP server `Strapi CMS`, catalogued on PulseMCP. Integrates Strapi CMS content into workflows, enabling manipulation of data for content management and querying in Strapi-powered applications.

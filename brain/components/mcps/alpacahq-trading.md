@@ -8,12 +8,12 @@ source_url: https://github.com/alpacahq/alpaca-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 934
+stars: 995
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 296
-pushed_at: "2026-09-01T09:20:11Z"
+forks: 323
+pushed_at: "2026-09-25T12:52:26Z"
 ---
 ## What it is
 MCP server `Alpaca Trading`, catalogued on PulseMCP. Integrates with Alpaca trading platform to manage stock and options accounts through paper and live trading environments, enabling order execution, portfolio monitoring, market data retrieval, and watchlist management for algorithmic trading and financial analysis workflows.

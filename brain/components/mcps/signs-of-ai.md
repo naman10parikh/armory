@@ -8,13 +8,13 @@ source_url: https://github.com/peopleworks/SignsofAI
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T21:30:15Z"
+pushed_at: "2026-09-16T16:45:56Z"
 ---
 ## What it is
 Bilingual (EN/ES) AI-writing detection that shows the evidence instead of a percentage: named tells with line and column, hidden-character inspection, and citation cross-checking against a document's own bibliography. Seven of its nine tools run entirely locally and never touch the network.

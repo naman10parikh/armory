@@ -8,7 +8,7 @@ source_url: https://github.com/benjaminr/chrome-devtools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 307
+stars: 309
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T22:22:40Z"
+pushed_at: "2026-09-13T22:22:52Z"
 ---
 ## What it is
 Lizard Eyes — a local vision MCP server backed by Qwen3-VL-4B, exposing a single vision.inspect tool for analyzing images via llama-server.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 13
-pushed_at: "2026-08-09T10:14:32Z"
+pushed_at: "2026-09-13T12:29:00Z"
 ---
 ## What it is
 An MCP server that exposes relational databases (PostgreSQL/MySQL) to AI agents with natural language to SQL query support.

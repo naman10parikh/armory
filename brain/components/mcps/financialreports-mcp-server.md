@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-08-31T12:10:02Z"
+forks: 5
+pushed_at: "2026-09-24T10:44:48Z"
 ---
 ## What it is
 Official MCP server for the FinancialReports API. Provides direct access to regulatory filings, financial data, and corporate information from listed companies worldwide via 15 curated tools.

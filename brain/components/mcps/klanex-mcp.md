@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T08:01:57Z"
+pushed_at: "2026-09-18T06:59:15Z"
 ---
 ## What it is
 Reliable async execution for agent tool calls: schema-gate hallucinated payloads before they run, absorb rate limits and outages with retries and circuit breakers, and add idempotency, human approval gates, encrypted credentials, and signed-webhook results. Failed calls return an llm_hint the agent 

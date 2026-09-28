@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T07:57:54Z"
+pushed_at: "2026-09-17T06:42:35Z"
 ---
 ## What it is
 Provides a read-only interface to Taiwan stock financial data from the public Mopsfin source, enabling queries for company metrics, financial statements, notes, industry statistics, and financial institution data through MCP tools.

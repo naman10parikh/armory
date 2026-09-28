@@ -8,13 +8,13 @@ source_url: https://github.com/AndekQR/fitatu-mcp-unofficial
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-23T14:05:20Z"
+pushed_at: "2026-09-25T08:30:50Z"
 ---
 ## What it is
 Unofficial MCP server that exposes Fitatu account operations as tools for inspecting and updating your meal plan.

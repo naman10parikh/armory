@@ -8,11 +8,11 @@ source_url: https://github.com/praneybehl/code-review-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 8
 pushed_at: "2025-05-16T05:22:27Z"
 ---
 ## What it is

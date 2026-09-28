@@ -8,12 +8,12 @@ source_url: https://github.com/lexfrei/mcp-loki
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-30T23:41:37Z"
+pushed_at: "2026-09-25T15:09:06Z"
 ---
 ## What it is
 MCP server `Grafana Loki`, catalogued on PulseMCP. Integrates with Grafana Loki log aggregation.

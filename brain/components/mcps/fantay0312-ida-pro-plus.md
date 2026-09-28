@@ -8,11 +8,11 @@ source_url: https://github.com/fantay0312/ida-pro-mcp-plus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 2
 pushed_at: "2026-04-05T17:56:25Z"
 ---
 ## What it is

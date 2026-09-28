@@ -8,11 +8,11 @@ source_url: https://github.com/yuzeguitarist/wx_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 5
 pushed_at: "2026-07-03T08:54:49Z"
 ---
 ## What it is

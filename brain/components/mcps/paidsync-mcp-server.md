@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-14T08:55:16Z"
+pushed_at: "2026-09-22T11:48:14Z"
 ---
 ## What it is
 Connects Google Ads, Meta Ads, and LinkedIn Ads to AI assistants, enabling natural language ad campaign management, reporting, and optimization across platforms.

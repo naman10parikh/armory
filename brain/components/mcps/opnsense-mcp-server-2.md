@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T00:54:17Z"
+pushed_at: "2026-09-18T18:20:32Z"
 ---
 ## What it is
 Enables AI clients to manage OPNsense firewall, interfaces, DHCP, DNS, routes, and services via natural language through 42 MCP tools.

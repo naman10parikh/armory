@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, file-systems]
 stars: 19
-forks: 4
+forks: 5
 pushed_at: "2026-08-04T03:23:06Z"
 ---
 ## What it is

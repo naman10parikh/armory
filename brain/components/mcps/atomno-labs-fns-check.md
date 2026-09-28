@@ -8,12 +8,12 @@ source_url: https://github.com/atomno-labs/mcp-fns-check
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-01T18:29:40Z"
+pushed_at: "2026-09-04T16:21:15Z"
 ---
 ## What it is
 MCP server `FNS Counterparty Check`, catalogued on PulseMCP. MCP server for verifying Russian business entities against Federal Tax Service registries, providing risk assessments for counterparty due diligence.

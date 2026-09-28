@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T08:33:43Z"
+pushed_at: "2026-09-18T14:01:14Z"
 ---
 ## What it is
 Enterprise-grade MCP server for intelligent supply chain analytics, enabling managers to investigate forecast accuracy, vendor performance, demand trends, and root causes using natural language.

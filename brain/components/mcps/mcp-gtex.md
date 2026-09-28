@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:11:43Z"
+pushed_at: "2026-09-26T19:01:23Z"
 ---
 ## What it is
 Enables querying GTEx gene expression, eQTL, and tissue data through an MCP gateway.

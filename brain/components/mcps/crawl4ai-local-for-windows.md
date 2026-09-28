@@ -8,13 +8,13 @@ source_url: https://github.com/fix-a-lot/crawl4ai-local-for-windows
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T07:47:40Z"
+pushed_at: "2026-09-24T10:38:43Z"
 ---
 ## What it is
 Provides a local MCP server for AI-powered web crawling on Windows, enabling agents to directly crawl and extract web content without requiring WSL.

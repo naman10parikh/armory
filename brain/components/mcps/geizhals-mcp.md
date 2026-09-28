@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T11:41:58Z"
+pushed_at: "2026-09-20T17:57:25Z"
 ---
 ## What it is
 An MCP server that lets an LLM search Geizhals, a leading German/DACH price-comparison site, for the cheapest offers on new products.

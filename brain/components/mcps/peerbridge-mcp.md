@@ -8,13 +8,13 @@ source_url: https://github.com/Hoylon/peerbridge-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 189
+stars: 239
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T14:52:49Z"
+forks: 2
+pushed_at: "2026-09-02T14:17:21Z"
 ---
 ## What it is
 Connects multiple AI agents (Codex, Claude Code, Grok, etc.) into a coordinated, auditable team with shared memory, task ownership, and human oversight, enabling parallel collaboration without conflicts.

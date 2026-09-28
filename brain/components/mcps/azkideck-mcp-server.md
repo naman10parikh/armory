@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T12:50:17Z"
+pushed_at: "2026-09-05T05:41:03Z"
 ---
 ## What it is
 Enables MCP clients to remotely control a user's AzkiDeck mobile app over the internet, allowing notification delivery to watches, watch face/quick app installation, and notification icon management without requiring same-LAN connectivity.

@@ -8,13 +8,13 @@ source_url: https://github.com/breckenreed/clickup-mcp-full
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T20:24:28Z"
+pushed_at: "2026-09-27T17:10:09Z"
 ---
 ## What it is
 Enables reading entire nested ClickUp subtask trees in a single call, plus task, list, folder, comment, tag, and time-tracking operations through natural language.

@@ -8,12 +8,12 @@ source_url: https://github.com/dragon1086/kospi-kosdaq-stock-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 29
-pushed_at: "2026-08-04T09:05:50Z"
+forks: 33
+pushed_at: "2026-09-11T06:43:28Z"
 ---
 ## What it is
 MCP server `KOSPI/KOSDAQ Stock Data`, catalogued on PulseMCP. Integrates with pykrx to provide real-time access to KOSPI and KOSDAQ stock market data, offering tools for retrieving ticker symbols, OHLCV data, market capitalization, fundamental metrics, and trading volumes.

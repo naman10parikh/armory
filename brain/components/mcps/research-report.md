@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:58Z"
+pushed_at: "2026-09-02T21:19:02Z"
 ---
 ## What it is
 Generates comprehensive research reports on any topic by fetching and compiling multiple web sources. Pay-per-call via x402 micropayments with no API key or signup required.

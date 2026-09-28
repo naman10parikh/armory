@@ -8,12 +8,12 @@ source_url: https://github.com/kaierikniermann/pypreset
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-31T10:29:06Z"
+pushed_at: "2026-09-28T00:45:50Z"
 ---
 ## What it is
 MCP server `PyPreset`, catalogued on PulseMCP. Scaffold Python projects from YAML presets and augment existing projects with CI and tests.

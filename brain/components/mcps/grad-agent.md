@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-14T11:53:10Z"
+pushed_at: "2026-09-25T16:00:13Z"
 ---
 ## What it is
 An autonomous MCP agent that helps you apply to fully funded MS and PhD programs by discovering professors, verifying faculty status, matching projects, and drafting cold emails.

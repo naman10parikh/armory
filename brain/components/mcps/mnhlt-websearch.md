@@ -8,11 +8,11 @@ source_url: https://github.com/mnhlt/websearch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2025-04-30T18:04:26Z"
 ---
 ## What it is

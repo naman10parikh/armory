@@ -8,11 +8,11 @@ source_url: https://github.com/hatrigt/hana-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 64
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
+forks: 29
 pushed_at: "2026-07-18T10:56:22Z"
 ---
 ## What it is

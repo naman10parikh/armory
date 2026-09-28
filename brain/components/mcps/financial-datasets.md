@@ -8,11 +8,11 @@ source_url: https://github.com/financial-datasets/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2282
+stars: 2300
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 345
+forks: 351
 pushed_at: "2025-06-05T19:50:38Z"
 ---
 ## What it is

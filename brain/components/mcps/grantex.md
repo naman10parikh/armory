@@ -8,12 +8,12 @@ source_url: https://github.com/mishrasanjeev/grantex
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
-pushed_at: "2026-09-01T15:40:52Z"
+forks: 9
+pushed_at: "2026-09-28T14:56:35Z"
 ---
 ## What it is
 MCP server `Grantex`, catalogued on PulseMCP. OAuth 2.0 authorization infrastructure for AI agents — scoped delegation tokens, audit trails, and revocation.

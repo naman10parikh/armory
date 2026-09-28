@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-13T13:40:07Z"
+pushed_at: "2026-09-08T15:39:58Z"
 ---
 ## What it is
 Provides lake conditions, fish-stocking records, fishing-favorability scoring, and live weather for outdoor recreation AI agents, powering trip-planning and fishing apps with 72,000+ US lakes and 293,000+ stocking events.

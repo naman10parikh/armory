@@ -8,12 +8,12 @@ source_url: https://github.com/Soul-Brews-Studio/arra-oracle-v3
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 87
+stars: 88
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 82
+forks: 83
 pushed_at: "2026-08-17T04:39:35Z"
 ---
 ## What it is

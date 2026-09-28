@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-29T15:26:56Z"
+pushed_at: "2026-09-06T15:53:03Z"
 ---
 ## What it is
 MCP server for managing personal items with expiration dates, enabling AI agents to add, query, and scan barcode items via API Key authentication.

@@ -8,13 +8,13 @@ source_url: https://github.com/astrobleem/mame-mcp
 license: GPL 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T21:43:38Z"
+pushed_at: "2026-09-07T00:11:31Z"
 ---
 ## What it is
 Enables MAME reverse engineering tasks including memory access tracing, input injection, ROM auditing, and IO-port discovery for arcade-to-SNES porting.

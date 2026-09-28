@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T12:35:15Z"
+pushed_at: "2026-09-21T13:33:32Z"
 ---
 ## What it is
 Connects AI agents to persistent topological memory on the Volumetric Lattice Network, enabling sub-5ms associative recall and storage of facts, documents, and code.

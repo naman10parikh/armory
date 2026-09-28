@@ -8,13 +8,13 @@ source_url: https://github.com/JNHFlow21/trove
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T11:35:57Z"
+pushed_at: "2026-09-28T11:41:43Z"
 ---
 ## What it is
 A macOS-only local-private runtime that returns bounded cited evidence to external Agents via MCP, with optional Reply Runtime and WeChat source Provider.

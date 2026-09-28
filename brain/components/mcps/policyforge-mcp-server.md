@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T10:59:27Z"
+pushed_at: "2026-09-02T21:02:11Z"
 ---
 ## What it is
 Generates legal policies (privacy, terms, cookies, etc.) directly from AI coding tools by analyzing codebase context.

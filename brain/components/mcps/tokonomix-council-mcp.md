@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T03:40:29Z"
+pushed_at: "2026-09-28T14:14:36Z"
 ---
 ## What it is
 Enables multi-model consensus decision-making for high-stakes AI decisions, using independent expert models and a judge to surface disagreements and ground decisions.

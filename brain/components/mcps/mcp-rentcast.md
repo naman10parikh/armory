@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:36:41Z"
+pushed_at: "2026-09-26T21:18:36Z"
 ---
 ## What it is
 Wraps the Rentcast API to provide real estate data access for AI agents through the Model Context Protocol, part of the Pipeworx gateway.

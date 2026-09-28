@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T08:15:19Z"
+pushed_at: "2026-09-17T16:44:09Z"
 ---
 ## What it is
 A minimal MCP server for homelab environments, providing demo tools like ping and echo over Streamable HTTP for testing client-server integration.

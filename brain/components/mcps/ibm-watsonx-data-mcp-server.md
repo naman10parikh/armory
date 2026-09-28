@@ -8,13 +8,13 @@ source_url: https://github.com/IBM/ibm-watsonxdata-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-08-14T18:46:10Z"
+forks: 6
+pushed_at: "2026-09-21T18:28:00Z"
 ---
 ## What it is
 Enables AI assistants to interact seamlessly with IBM watsonx.data lakehouses using natural language for operations like querying, catalog browsing, engine management, and data ingestion.

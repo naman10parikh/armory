@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T16:49:29Z"
+pushed_at: "2026-09-22T18:59:27Z"
 ---
 ## What it is
 An MCP server that gives Claude a memory system modeled on the hippocampus using hyperdimensional computing, with features like surprise-gated writing, consolidation, and active forgetting.

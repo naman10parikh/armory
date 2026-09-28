@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:54:30Z"
+pushed_at: "2026-09-25T23:14:38Z"
 ---
 ## What it is
 MCP server to access India Open Government Data (data.gov.in) resources via natural language queries.

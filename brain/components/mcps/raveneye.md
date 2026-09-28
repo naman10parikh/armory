@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-05T10:23:07Z"
+pushed_at: "2026-09-08T11:58:40Z"
 ---
 ## What it is
 Enables AI intelligence gathering by scanning RSS feeds and GitHub for high-value opportunities, then generating actionable Markdown reports through an MCP-integrated multi-agent platform.

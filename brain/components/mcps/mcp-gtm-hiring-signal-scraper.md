@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T17:21:41Z"
+pushed_at: "2026-09-22T17:53:54Z"
 ---
 ## What it is
 Detects hiring intent signals by scanning job boards for specific companies. Returns structured role data for outbound sales targeting.

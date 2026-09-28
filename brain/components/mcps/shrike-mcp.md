@@ -8,11 +8,11 @@ source_url: https://github.com/shrike-security/shrike-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2026-08-31T18:50:13Z"
 ---
 ## What it is

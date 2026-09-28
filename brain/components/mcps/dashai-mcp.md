@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T21:52:37Z"
+pushed_at: "2026-09-15T16:57:38Z"
 ---
 ## What it is
 MCP server that gives agents the same interface as dashAI's GUI: explore datasets, list models, train, track jobs, and read metrics.

@@ -8,11 +8,11 @@ source_url: https://github.com/homelycarlos/nexusre-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 6
 pushed_at: "2026-06-21T18:42:32Z"
 ---
 ## What it is

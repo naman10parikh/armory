@@ -8,13 +8,13 @@ source_url: https://github.com/ratevert/mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-14T20:04:09Z"
+pushed_at: "2026-09-05T16:14:15Z"
 ---
 ## What it is
 Enables searching and converting currencies, stocks, crypto, ETFs, and funds with current rates and source freshness for AI agents.

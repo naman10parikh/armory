@@ -8,13 +8,13 @@ source_url: https://github.com/GiulioDER/RE-call
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T23:26:43Z"
+forks: 1
+pushed_at: "2026-09-28T14:46:06Z"
 ---
 ## What it is
 MCP server exposing memory search, index, and stats tools for agents, with honesty guards to prevent re-litigation of settled decisions.

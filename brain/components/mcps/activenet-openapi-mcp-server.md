@@ -8,13 +8,13 @@ source_url: https://github.com/globalpayments/an-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T14:53:38Z"
+pushed_at: "2026-09-04T13:47:02Z"
 ---
 ## What it is
 Enables AI agents to interact with ActiveNet OpenAPI services for managing organizations, activities, customers, facilities, and more.

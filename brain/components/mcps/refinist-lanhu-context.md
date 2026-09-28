@@ -8,11 +8,11 @@ source_url: https://github.com/refinist/lanhu-context-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 8
 pushed_at: "2026-07-13T17:00:27Z"
 ---
 ## What it is

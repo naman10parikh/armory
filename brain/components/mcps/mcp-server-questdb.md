@@ -8,13 +8,13 @@ source_url: https://github.com/questdb/mcp-server-questdb
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-26T15:44:28Z"
+forks: 2
+pushed_at: "2026-09-25T15:59:51Z"
 ---
 ## What it is
 QuestDB MCP server connects coding agents to a running QuestDB Web Console. The agent gets tools to create notebook cells, run queries, and build charts.

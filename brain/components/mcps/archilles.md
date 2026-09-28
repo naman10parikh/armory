@@ -8,13 +8,13 @@ source_url: https://github.com/kasssandr/archilles
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T22:01:33Z"
+pushed_at: "2026-09-25T11:35:03Z"
 ---
 ## What it is
 Enables semantic search over local Calibre libraries via MCP, allowing AI assistants to query books, annotations, and export bibliographies while keeping data private.

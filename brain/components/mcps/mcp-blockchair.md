@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:44:15Z"
+pushed_at: "2026-09-25T22:11:51Z"
 ---
 ## What it is
 Enables querying multi-chain blockchain data (stats, blocks, transactions, addresses, node info) via Blockchair's free keyless API.

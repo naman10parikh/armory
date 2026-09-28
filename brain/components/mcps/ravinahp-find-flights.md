@@ -8,11 +8,11 @@ source_url: https://github.com/ravinahp/flights-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 222
+stars: 229
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 44
+forks: 45
 pushed_at: "2025-06-11T23:09:34Z"
 ---
 ## What it is

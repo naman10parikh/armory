@@ -8,11 +8,11 @@ source_url: https://github.com/mobilehackinglab/jadx-mcp-plugin
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 104
+stars: 102
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 16
 pushed_at: "2026-02-04T20:08:59Z"
 ---
 ## What it is

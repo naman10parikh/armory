@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T13:19:56Z"
+pushed_at: "2026-09-06T01:23:53Z"
 ---
 ## What it is
 MCP server for Korean market data with metered USDC payments, providing kimchi premium, translated headlines, Upbit KRW markets, and USD/KRW rates.

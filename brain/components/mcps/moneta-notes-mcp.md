@@ -8,13 +8,13 @@ source_url: https://github.com/ajmichels/moneta-notes
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T20:11:59Z"
+pushed_at: "2026-09-21T13:23:26Z"
 ---
 ## What it is
 MCP server exposing fast full-text and semantic search over an Obsidian vault, plus safe structured note read and write access for Claude.

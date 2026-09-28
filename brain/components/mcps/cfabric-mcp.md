@@ -8,12 +8,12 @@ source_url: https://github.com/Context-Fabric/context-fabric
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-08-23T04:01:31Z"
 ---
 ## What it is

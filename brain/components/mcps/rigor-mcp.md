@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T18:02:13Z"
+pushed_at: "2026-09-17T07:59:57Z"
 ---
 ## What it is
 Provides verified statistical inference and hypothesis testing tools, including t-tests, effect sizes, power analysis, and multiple comparisons correction, with assumption checks and citations.

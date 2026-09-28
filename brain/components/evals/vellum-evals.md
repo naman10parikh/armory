@@ -8,7 +8,7 @@ source_url: https://github.com/vellum-ai/vellum-client-python
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 82
+stars: 83
 eval_score: null
 verified_at: 2026-05-27
 related: []

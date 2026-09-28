@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T10:57:41Z"
+pushed_at: "2026-09-02T06:06:18Z"
 ---
 ## What it is
 MCP server providing diagnostic tools to analyze software architecture, security, REST API compliance, and dependencies for multiple programming languages. Enables AI agents to run scans and audits on codebases.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-06T00:24:16Z"
+pushed_at: "2026-09-28T04:14:55Z"
 ---
 ## What it is
 Converts PDF to Markdown and Markdown to PDF using PyMuPDF and WeasyPrint engines.

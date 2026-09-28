@@ -8,11 +8,11 @@ source_url: https://github.com/inercia/mcpshell
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2026-08-12T09:04:14Z"
 ---
 ## What it is

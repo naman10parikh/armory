@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:44:51Z"
+pushed_at: "2026-09-26T21:49:20Z"
 ---
 ## What it is
 Evaluates whether a meeting is worth attending, heavily weighted toward no, and provides time cost analysis, productivity impact, email viability score, and a polite decline template.

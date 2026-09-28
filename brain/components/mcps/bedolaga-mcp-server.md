@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T13:49:49Z"
+pushed_at: "2026-09-03T16:52:45Z"
 ---
 ## What it is
 Enables retrieving user balance in rubles from the Bedolaga Bot using Telegram ID.

@@ -8,12 +8,12 @@ source_url: https://github.com/anaskasmi/local-pm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-01-27T20:03:46Z"
+forks: 3
+pushed_at: "2026-09-22T09:25:38Z"
 ---
 ## What it is
 MCP server `Local PM`, catalogued on PulseMCP. Self-hosted project management system with Linear-like Kanban boards that exposes tools for creating projects, managing tickets, assigning teams, and tracking dependencies.

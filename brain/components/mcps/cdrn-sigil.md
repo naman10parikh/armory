@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-19T12:25:41Z"
+pushed_at: "2026-09-16T12:24:10Z"
 ---
 ## What it is
 MCP server `Sigil`, catalogued on PulseMCP. Local keystore enabling AI agents to sign EVM transactions without exposing private keys.

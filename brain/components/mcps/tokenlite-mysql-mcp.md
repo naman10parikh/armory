@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T20:49:58Z"
+pushed_at: "2026-09-10T23:56:30Z"
 ---
 ## What it is
 Secure and token-efficient MySQL MCP server built specifically for AI agents. Prevents hallucinations, optimizes context windows and blocks dangerous queries.

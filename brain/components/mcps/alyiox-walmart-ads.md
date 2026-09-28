@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-18T09:31:22Z"
+pushed_at: "2026-09-23T00:52:49Z"
 ---
 ## What it is
 MCP server `Walmart Ads`, catalogued on PulseMCP. Walmart Connect Ads API integration for Sponsored Search and Display campaign management.

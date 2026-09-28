@@ -8,13 +8,13 @@ source_url: https://github.com/PleasePrompto/google-ai-mode-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 150
+stars: 152
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 18
-pushed_at: "2026-01-08T06:05:57Z"
+pushed_at: "2026-09-10T07:44:17Z"
 ---
 ## What it is
 Enables any MCP-compatible LLM to perform AI-powered web research using Google's AI Mode, returning synthesized and cited answers instead of raw search results.

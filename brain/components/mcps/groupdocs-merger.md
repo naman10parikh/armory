@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-25T21:19:58Z"
+pushed_at: "2026-09-05T23:04:40Z"
 ---
 ## What it is
 MCP server `GroupDocs Merger`, catalogued on PulseMCP. Merge, split, and inspect documents across PDF, DOCX, XLSX, PPTX, and 30+ formats via AI agents.

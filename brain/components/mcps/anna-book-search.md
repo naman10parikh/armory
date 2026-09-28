@@ -8,13 +8,13 @@ source_url: https://github.com/KevinBatdorf/anna
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-07T15:51:08Z"
+pushed_at: "2026-09-21T05:43:25Z"
 ---
 ## What it is
 Self-hosted MCP server for searching and discovering books using Anna's Archive and Goodreads datasets, enabling full-text search, ISBN/md5 lookup, similarity matching, and optional download URL retrieval.

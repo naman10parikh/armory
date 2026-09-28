@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-08-09T12:13:32Z"
+pushed_at: "2026-09-09T23:36:14Z"
 ---
 ## What it is
 MCP server `Slack`, catalogued on PulseMCP. Integrates with Slack workspaces to enable user-level interactions like messaging, reactions, and channel management without bot permissions.

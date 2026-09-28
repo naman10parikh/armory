@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-23T06:19:30Z"
+pushed_at: "2026-09-13T01:46:56Z"
 ---
 ## What it is
 Structured workspace runtime for long-running coding agents, providing controlled workspace capabilities with task state, snapshots, checkpoints, drift detection, verification evidence, audit logs, and structured handoff.

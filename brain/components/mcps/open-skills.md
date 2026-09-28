@@ -8,12 +8,12 @@ source_url: https://github.com/instavm/open-skills
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 449
+stars: 454
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 36
+forks: 37
 pushed_at: "2026-01-23T19:53:56Z"
 ---
 ## What it is

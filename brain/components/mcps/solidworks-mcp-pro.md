@@ -8,12 +8,12 @@ source_url: https://github.com/ANYLXB/solidworks-mcp-pro
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-06-28T08:21:38Z"
 ---
 ## What it is

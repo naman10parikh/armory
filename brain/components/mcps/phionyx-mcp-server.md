@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T19:22:01Z"
+pushed_at: "2026-09-12T11:22:45Z"
 ---
 ## What it is
 An MCP trust boundary that produces signed, hash-chained evidence envelopes for third-party MCP tool calls, enabling tamper-evident audit and descriptor verification.

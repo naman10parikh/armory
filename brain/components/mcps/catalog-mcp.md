@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T11:04:11Z"
+pushed_at: "2026-09-14T16:20:22Z"
 ---
 ## What it is
 An MCP server that turns any JSON catalog into query tools for AI agents, enabling structured filtering, grouping, and schema discovery over records.

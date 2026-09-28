@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-07-31T23:24:55Z"
+pushed_at: "2026-09-16T22:16:37Z"
 ---
 ## What it is
 MCP server `Safe Packages`, catalogued on PulseMCP. Analyzes npm and Cargo packages for security risks through typosquatting detection, version analysis, and advisory scanning.

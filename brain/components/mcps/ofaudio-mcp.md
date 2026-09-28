@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T18:16:30Z"
+pushed_at: "2026-09-04T10:21:59Z"
 ---
 ## What it is
 An agent-first MCP server for generating and transforming audio (music, speech, sound effects) via ElevenLabs and Mureka, providing tools for transcription, voice cloning, and multi-speaker dialogue.

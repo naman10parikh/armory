@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T00:52:21Z"
+pushed_at: "2026-09-18T06:14:41Z"
 ---
 ## What it is
 Read-only MCP tools for TROCCO API, enabling workflow and BigQuery datamart audit information retrieval.

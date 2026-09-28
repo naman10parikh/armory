@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-23T21:00:12Z"
+pushed_at: "2026-09-12T12:23:03Z"
 ---
 ## What it is
 MCP server `Tenzro LiFi`, catalogued on PulseMCP. MCP server for Li.Fi cross-chain bridging via Tenzro Network: quotes, routes, status, and token enumeration.

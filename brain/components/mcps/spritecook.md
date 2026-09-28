@@ -8,11 +8,11 @@ source_url: https://github.com/spritecook/skills
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2026-08-17T20:42:29Z"
 ---
 ## What it is

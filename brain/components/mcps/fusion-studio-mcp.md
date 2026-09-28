@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T22:02:25Z"
+pushed_at: "2026-09-07T03:37:48Z"
 ---
 ## What it is
 MCP server for inspecting and controlling Blackmagic Fusion Studio through its scripting API.

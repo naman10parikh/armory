@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T19:59:24Z"
+pushed_at: "2026-09-21T16:41:49Z"
 ---
 ## What it is
 The personal context layer for AI - one user owned profile plus files, read by any MCP client so you never re-introduce yourself.

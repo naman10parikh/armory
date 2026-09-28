@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-02-18T17:02:27Z"
+pushed_at: "2026-09-14T19:08:34Z"
 ---
 ## What it is
 MCP server `ResearchTwin`, catalogued on PulseMCP. Federated research discovery with S-Index metrics.

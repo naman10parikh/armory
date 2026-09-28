@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-19T00:54:43Z"
+pushed_at: "2026-09-02T19:57:13Z"
 ---
 ## What it is
 Captures full-page screenshots and PDFs from any URL using Chromium rendering, with pay-per-call via x402 micropayments.

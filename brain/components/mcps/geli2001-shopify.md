@@ -8,11 +8,11 @@ source_url: https://github.com/geli2001/shopify-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 236
+stars: 238
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 117
+forks: 119
 pushed_at: "2026-04-05T00:29:07Z"
 ---
 ## What it is

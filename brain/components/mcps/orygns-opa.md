@@ -8,12 +8,12 @@ source_url: https://github.com/orygnscode/opa-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-01T19:40:39Z"
+pushed_at: "2026-09-28T00:26:53Z"
 ---
 ## What it is
 MCP server `OPA`, catalogued on PulseMCP. Integrates Open Policy Agent with AI clients for authoring, validating, evaluating, and deploying Rego policies.

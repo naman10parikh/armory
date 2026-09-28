@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:14:51Z"
+pushed_at: "2026-09-25T00:18:31Z"
 ---
 ## What it is
 Enables searching IEEE Xplore metadata through the IEEE Xplore Metadata Search API, providing access to IEEE standards and technical literature via an MCP gateway.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:34:03Z"
+pushed_at: "2026-09-25T21:25:19Z"
 ---
 ## What it is
 Enables searching and querying City of Carlsbad, California open geospatial datasets (parcels, zoning, public works) via ArcGIS Feature Services. Provides tools to search datasets, query layers with SQL-like conditions, and retrieve layer schema.

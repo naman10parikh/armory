@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T10:03:35Z"
+pushed_at: "2026-09-24T13:26:22Z"
 ---
 ## What it is
 Enables retrieval of Belgian legislation metadata and full text by ELI coordinates from the official gazette (Moniteur Belge), supporting French, Dutch, and German languages.

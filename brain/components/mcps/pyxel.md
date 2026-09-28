@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-07-15T10:05:51Z"
+pushed_at: "2026-09-22T03:52:25Z"
 ---
 ## What it is
 MCP server `Pyxel`, catalogued on PulseMCP. Enables AI-assisted retro game development with Pyxel engine through script execution, screenshot capture, sprite inspection, and audio analysis.

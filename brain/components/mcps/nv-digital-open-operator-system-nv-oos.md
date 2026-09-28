@@ -8,13 +8,13 @@ source_url: https://github.com/nvdigitalsolutions/mcp-ai-wpoos
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-02T03:43:51Z"
+forks: 2
+pushed_at: "2026-09-28T14:59:59Z"
 ---
 ## What it is
 Enables AI-powered operations on WordPress sites, integrating multiple LLM providers and providing MCP server capabilities for chat, tools, and automation.

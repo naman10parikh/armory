@@ -1,0 +1,7 @@
+{
+  "name": "quelvio",
+  "description": "**Your company's brain for AI agents.** Quelvio continuously understands your organization's knowledge across every connected system — what's authoritative, what's recent, what's persistent, what's temporary, and what should be forgotten. Returns cited answers grounded in your authoritative sources,",
+  "source_repo": "",
+  "source_url": "https://quelvio.com",
+  "install": "# git clone --depth 1 https://quelvio.com\n# See source for mcpServers config block"
+}

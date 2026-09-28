@@ -12,8 +12,8 @@ stars: 379
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 103
-pushed_at: "2026-08-01T15:41:26Z"
+forks: 105
+pushed_at: "2026-09-13T19:52:11Z"
 ---
 ## What it is
 MCP server `EVM Blockchain`, catalogued on PulseMCP. Integrates with EVM-compatible blockchains to enable querying data, transferring tokens, reading smart contracts, and resolving ENS names across Ethereum, Optimism, Arbitrum, and Base networks.

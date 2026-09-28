@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-12T16:05:08Z"
+pushed_at: "2026-09-26T14:53:33Z"
 ---
 ## What it is
 Enables a fully local multi-agent AI system with 45 specialized agents and 50 predefined workflows via MCP, powered by Ollama and requiring no internet.

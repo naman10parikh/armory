@@ -8,11 +8,11 @@ source_url: https://github.com/gpaul-mcp/mcp_thingiverse
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2025-03-18T23:41:34Z"
 ---
 ## What it is

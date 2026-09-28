@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T00:40:49Z"
+pushed_at: "2026-09-27T14:34:59Z"
 ---
 ## What it is
 Records a browser window while Claude drives it and converts the recording into labelled contact sheets, key frames, and an action-correlated timeline for evidence-based evaluation. macOS 15+ only.

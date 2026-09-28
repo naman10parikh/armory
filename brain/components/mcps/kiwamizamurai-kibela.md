@@ -12,8 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2025-08-23T06:09:37Z"
+forks: 7
+pushed_at: "2026-09-05T04:50:55Z"
 ---
 ## What it is
 MCP server `Kibela`, catalogued on PulseMCP. Integrates with Kibela API to enable searching, retrieving, and accessing collaborative documentation for knowledge management and AI-assisted workflows.

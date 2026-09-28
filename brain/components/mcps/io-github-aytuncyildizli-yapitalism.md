@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-24T19:33:38Z"
+pushed_at: "2026-09-07T20:36:29Z"
 ---
 ## What it is
 Local MCP server enabling voice-controlled terminal coding agents with verified action receipts, distinguishing proven acceptance from unconfirmed writes.

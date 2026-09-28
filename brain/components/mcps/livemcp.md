@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T03:16:56Z"
+pushed_at: "2026-09-24T23:10:15Z"
 ---
 ## What it is
 Turns Ableton Live into an MCP-accessible control surface, providing tools for controlling transport, tracks, clips, and devices, as well as resources for reading live state.

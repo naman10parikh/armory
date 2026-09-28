@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T18:09:21Z"
+pushed_at: "2026-09-15T18:12:00Z"
 ---
 ## What it is
 Provides tools to read and write Workiz CRM/Field Service data (jobs, leads, team, time off) enabling Claude to manage records via natural language.

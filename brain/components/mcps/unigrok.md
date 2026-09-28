@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-20T23:37:59Z"
+pushed_at: "2026-09-18T22:19:31Z"
 ---
 ## What it is
 A local Grok MCP server and gateway that every coding agent on your machine shares, self-routing across xAI's API and Grok CLI subscription with per-call cost tracking while keeping your API key server-side.

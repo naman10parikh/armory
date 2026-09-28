@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T07:22:03Z"
+pushed_at: "2026-09-17T14:25:55Z"
 ---
 ## What it is
 Exposes AI agents as MCP tools to fetch Jira stories, generate BRDs and Playwright test scripts, run tests, and auto-heal broken locators. Integrates with Claude Desktop and Cursor IDE for enterprise-grade test automation.

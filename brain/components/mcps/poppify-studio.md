@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-29T01:19:48Z"
+pushed_at: "2026-09-26T01:57:54Z"
 ---
 ## What it is
 Photo-to-reel MCP for solo founders and SMBs. Upload 1–10 photos and get a captioned vertical reel for Instagram, TikTok, YouTube Shorts, or Facebook — with motion, library-matched music, and optional AI voiceover.

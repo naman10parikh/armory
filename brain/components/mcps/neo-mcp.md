@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-01T07:12:28Z"
+pushed_at: "2026-09-15T07:06:42Z"
 ---
 ## What it is
 Integrates an autonomous AI engineering agent into your editor via the Model Context Protocol, allowing you to describe AI/ML tasks in plain English and execute them locally.

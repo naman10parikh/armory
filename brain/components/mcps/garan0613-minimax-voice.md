@@ -8,12 +8,12 @@ source_url: https://github.com/garan0613/voice-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 40
-pushed_at: "2026-08-31T12:31:42Z"
+forks: 52
+pushed_at: "2026-09-04T16:54:36Z"
 ---
 ## What it is
 MCP server `MiniMax Voice`, catalogued on PulseMCP. Voice synthesis MCP server using MiniMax TTS API with Cloudflare Workers deployment and SSE transport.

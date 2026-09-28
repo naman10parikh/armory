@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T16:46:24Z"
+pushed_at: "2026-09-09T17:00:45Z"
 ---
 ## What it is
 Enables coding agents to join a secure agent-to-agent network for team collaboration, with tools for direct messaging, shared rooms, and approval-gated file/command requests.

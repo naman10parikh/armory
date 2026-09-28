@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T02:48:23Z"
+pushed_at: "2026-09-22T08:12:36Z"
 ---
 ## What it is
 Provides deterministic, read-only design knowledge for AI coding agents to help them choose visual directions, plan UI states, and compose design tokens, all without network access.

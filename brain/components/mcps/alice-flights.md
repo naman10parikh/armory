@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T06:57:26Z"
+pushed_at: "2026-09-22T13:24:35Z"
 ---
 ## What it is
 Add real-time flight search. Alice Flights is a hosted, remote MCP server that lets an AI assistant search flights — best, cheapest, and fastest options with live seat availability — directly in a conversation. Powered by Alice, Israel's flight-booking travel app.

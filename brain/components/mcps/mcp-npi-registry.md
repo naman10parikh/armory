@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:25:57Z"
+pushed_at: "2026-09-26T20:02:46Z"
 ---
 ## What it is
 Enables querying healthcare provider information from the CMS NPI Registry using a 10-digit National Provider Identifier (NPI).

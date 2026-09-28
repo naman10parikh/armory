@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-19T00:54:10Z"
+pushed_at: "2026-09-02T19:56:31Z"
 ---
 ## What it is
 Enables fetching best swap quotes on Solana via Jupiter aggregator with pay-per-call x402 micropayments.

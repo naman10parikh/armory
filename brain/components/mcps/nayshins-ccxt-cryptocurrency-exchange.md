@@ -8,11 +8,11 @@ source_url: https://github.com/nayshins/mcp-server-ccxt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 62
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
+forks: 21
 pushed_at: "2025-02-17T18:45:06Z"
 ---
 ## What it is

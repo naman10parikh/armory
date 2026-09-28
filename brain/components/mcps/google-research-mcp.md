@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-01-12T10:46:04Z"
+pushed_at: "2026-09-24T12:01:20Z"
 ---
 ## What it is
 Implements Anthropic's multi-agent research architecture with subagent spawning, adaptive stopping, and citation processing for automated research.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T07:27:45Z"
+pushed_at: "2026-09-26T13:04:13Z"
 ---
 ## What it is
 Access 17M+ geocoded French property transactions (DVF), 22M+ DPE energy ratings, and 20M+ building records via MCP or REST API. Search transactions, market stats, comparables, price trends, rental yield, flip detection, and more.

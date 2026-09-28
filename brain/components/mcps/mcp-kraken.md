@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-22T04:35:41Z"
+pushed_at: "2026-09-20T05:33:10Z"
 ---
 ## What it is
 An MCP server that exposes the Kraken cryptocurrency exchange Spot REST API over HTTP with bearer token authentication, enabling account management, trading, and market data queries through natural language.

@@ -8,12 +8,12 @@ source_url: https://github.com/jamiew/monarch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
-pushed_at: "2026-06-30T20:34:37Z"
+forks: 11
+pushed_at: "2026-09-27T04:35:05Z"
 ---
 ## What it is
 MCP server `Monarch Money`, catalogued on PulseMCP. Access Monarch Money financial data including accounts, transactions, budgets, and investments.

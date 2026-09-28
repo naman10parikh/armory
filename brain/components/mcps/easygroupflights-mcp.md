@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T06:14:18Z"
+pushed_at: "2026-09-15T08:23:15Z"
 ---
 ## What it is
 Provides group air travel booking and flight search via IATA-accredited services, supporting group quotes and flight fares.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:25Z"
+pushed_at: "2026-09-02T19:56:20Z"
 ---
 ## What it is
 Enables users to analyze HTTP response headers of any URL for security and configuration, returning a 0-100 security score, HSTS/CSP and header checks, server detection, caching details, and recommendations. Supports pay-per-call access via x402 micropayments.

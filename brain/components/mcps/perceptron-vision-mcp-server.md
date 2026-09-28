@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-12T22:35:07Z"
+pushed_at: "2026-09-24T06:40:59Z"
 ---
 ## What it is
 A vision MCP server that gives MCP-compatible agents direct access to Perceptron's Isaac model family for visual question answering, captioning, OCR, and object detection over images and videos.

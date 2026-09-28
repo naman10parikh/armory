@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-14T11:53:19Z"
+pushed_at: "2026-09-27T23:58:22Z"
 ---
 ## What it is
 Enables Claude Code agents to communicate and share context across sessions via a peer-to-peer mesh, allowing them to ask for help from other agents without human interruption.

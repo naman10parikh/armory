@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T00:58:30Z"
+pushed_at: "2026-09-06T12:45:57Z"
 ---
 ## What it is
 A suite of four MCP bridges that enable orchestrator agents to drive local installed CLI coding assistants (Pi, Agy, Codex, Copilot) with secure, sandboxed prompts and session continuity.

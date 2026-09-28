@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, data-platforms]
-stars: 5
-forks: 0
-pushed_at: "2026-07-02T15:11:48Z"
+stars: 7
+forks: 1
+pushed_at: "2026-09-15T06:02:11Z"
 ---
 ## What it is
 Brazilian public data for AI agents — companies (CNPJ), addresses (CEP), banks (BACEN), national holidays — via [BrasilAPI](https://brasilapi.com.br). No auth, no API key. Install: `npx -y brasil-data-mcp`.

@@ -12,8 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-09-07T09:16:30Z"
+forks: 1
+pushed_at: "2026-09-16T14:31:08Z"
 ---
 ## What it is
 MCP server `Unclick`, catalogued on PulseMCP. AI agent tool marketplace providing 60+ tools for social, e-commerce, accounting, and messaging.

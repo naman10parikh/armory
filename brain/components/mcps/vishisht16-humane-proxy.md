@@ -8,11 +8,11 @@ source_url: https://github.com/vishisht16/humane-proxy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 29
+forks: 28
 pushed_at: "2026-07-29T13:16:41Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/goweft/heddle
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-08-09T09:38:14Z"
+pushed_at: "2026-09-06T01:54:49Z"
 ---
 ## What it is
 Enables users to define and run MCP tools using declarative YAML configs with built-in trust enforcement, credential brokering, and tamper-evident audit logging.

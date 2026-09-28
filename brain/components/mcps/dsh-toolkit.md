@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T14:18:38Z"
+pushed_at: "2026-09-22T14:19:29Z"
 ---
 ## What it is
 Exposes 20 deterministic tools for finance, data, content, and lifestyle tasks via MCP, A2A, and REST interfaces, enabling automation and multi-agent workflows.

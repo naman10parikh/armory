@@ -8,11 +8,11 @@ source_url: https://github.com/etweisberg/garmin-connect-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 13
 pushed_at: "2026-07-12T03:05:32Z"
 ---
 ## What it is

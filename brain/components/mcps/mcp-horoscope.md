@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:13:40Z"
+pushed_at: "2026-09-26T19:07:57Z"
 ---
 ## What it is
 Horoscope MCP — wraps the keyless Horoscope App API.

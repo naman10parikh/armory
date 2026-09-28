@@ -8,13 +8,13 @@ source_url: https://github.com/HitamLegit6777/blender-mcp-ultra
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T10:05:33Z"
+pushed_at: "2026-09-05T12:25:52Z"
 ---
 ## What it is
 MCP server providing 138+ tools to control Blender 4.2 LTS, enabling modeling, coloring, rigging, animation, geometry nodes, UV, printing, batch operations, and IO through natural language from any AI assistant.

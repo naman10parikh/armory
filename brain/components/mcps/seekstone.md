@@ -8,13 +8,13 @@ source_url: https://github.com/shaqmughal/seekstone
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-02T02:40:44Z"
+forks: 4
+pushed_at: "2026-09-27T20:57:53Z"
 ---
 ## What it is
 MCP Server for Obsidian.

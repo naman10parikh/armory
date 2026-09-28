@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:17:13Z"
+pushed_at: "2026-09-26T19:20:26Z"
 ---
 ## What it is
 Enables searching the Apple iTunes catalog by keyword across music, movies, podcasts, TV shows, apps, ebooks, and more, with support for exact-ID lookup and top charts for podcasts and ebooks.

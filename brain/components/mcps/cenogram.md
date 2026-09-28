@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-02T13:43:55Z"
+pushed_at: "2026-09-25T21:53:38Z"
 ---
 ## What it is
 MCP server `Cenogram`, catalogued on PulseMCP. Search and analyze 7M+ verified real estate transactions from Poland's official RCN registry.

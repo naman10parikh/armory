@@ -8,7 +8,7 @@ source_url: https://github.com/mastergo-design/mastergo-magic-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 283
+stars: 286
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

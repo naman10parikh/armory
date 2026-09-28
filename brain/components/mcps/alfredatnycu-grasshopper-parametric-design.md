@@ -8,11 +8,11 @@ source_url: https://github.com/alfredatnycu/grasshopper-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 97
+stars: 99
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 17
 pushed_at: "2025-03-22T13:38:12Z"
 ---
 ## What it is

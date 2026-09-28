@@ -8,13 +8,13 @@ source_url: https://github.com/chrisryugj/archhub-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 64
+stars: 66
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
-pushed_at: "2026-08-17T06:09:04Z"
+forks: 13
+pushed_at: "2026-09-12T13:11:30Z"
 ---
 ## What it is
 Enables natural language access to 11 Korean building data tools including building registers, permits, comprehensive profiles with zoning, floor composition, district statistics, old building analysis, price history, demolitions, and permit pipeline.

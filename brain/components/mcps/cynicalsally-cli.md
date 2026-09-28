@@ -8,12 +8,12 @@ source_url: https://github.com/w1ckedxt/cynicalsally-cli
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 93
+stars: 97
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 10
 pushed_at: "2026-07-04T13:31:57Z"
 ---
 ## What it is

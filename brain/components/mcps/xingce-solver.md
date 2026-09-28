@@ -8,13 +8,13 @@ source_url: https://github.com/heihei999/xingce-solver
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-19T08:57:33Z"
+pushed_at: "2026-09-04T06:37:18Z"
 ---
 ## What it is
 MCP server for structured civil service exam question solving based on Huasheng's methodology, providing question routing, method retrieval, and guided analysis prompts.

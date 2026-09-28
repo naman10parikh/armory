@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T21:08:43Z"
+pushed_at: "2026-09-03T21:31:36Z"
 ---
 ## What it is
 Enables AI agents to use Mint as a safety layer for file operations on macOS, providing storage growth analysis, cleanup suggestions, and journaled, reversible deletions via MCP tools.

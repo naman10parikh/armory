@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-05-10T11:43:37Z"
+forks: 16
+pushed_at: "2026-09-16T15:25:28Z"
 ---
 ## What it is
 A comprehensive MCP server for analyzing Maven jar files in the local repository, enabling AI agents to understand dependencies, analyze bytecode, and extract source code.

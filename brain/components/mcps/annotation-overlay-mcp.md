@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T05:24:46Z"
+pushed_at: "2026-09-10T00:36:08Z"
 ---
 ## What it is
 Enables DOM-aware visual annotation of web pages with drawing tools and element selection, submitting structured annotations to Claude Code via MCP for automated feedback processing.

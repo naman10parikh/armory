@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T09:26:40Z"
+pushed_at: "2026-09-18T14:36:38Z"
 ---
 ## What it is
 Local MCP server for agents to search, structure, and export authorized WhatsApp Web conversations. Uses Playwright for DOM interaction, supports message search, export, media transcription, and controlled message sending.

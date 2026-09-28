@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T08:39:50Z"
+pushed_at: "2026-09-14T13:12:32Z"
 ---
 ## What it is
 Show an AI coding assistant only the code that matters for a change — callers, callees, and related functions packed into a token budget, with self-grading retrieval.

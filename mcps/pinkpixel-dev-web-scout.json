@@ -1,0 +1,7 @@
+{
+  "name": "pinkpixel-dev-web-scout",
+  "description": "Search the web and extract clean, readable text from webpages. Process multiple URLs at once to speed up research with reliable throttling and error handling. Quickly compile sources and summaries for briefs, reports, or competitive analysis.",
+  "source_repo": "pinkpixel-dev/web-scout-mcp",
+  "source_url": "https://github.com/pinkpixel-dev/web-scout-mcp",
+  "install": "npx -y web-scout-mcp"
+}

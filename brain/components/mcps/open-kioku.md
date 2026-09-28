@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T01:10:50Z"
+pushed_at: "2026-09-28T13:31:01Z"
 ---
 ## What it is
 Open Kioku is the local-first code intelligence and evidence layer for AI coding agents (Claude, Cursor, Codex, Zed, and other MCP clients). Instead of letting agents blindly crawl files, guess blast radius, or read the entire repository repeatedly, Open Kioku gives them a precise, pre-indexed code 

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-28T11:58:48Z"
+pushed_at: "2026-09-04T05:45:03Z"
 ---
 ## What it is
 Enables AI assistants to manage WhatsApp business operations including chatbots, broadcasts, campaigns, and contacts through 120+ MCP tools.

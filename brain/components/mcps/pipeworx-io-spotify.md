@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:43:05Z"
+pushed_at: "2026-09-26T21:43:25Z"
 ---
 ## What it is
 MCP server `Spotify`, catalogued on PulseMCP. Spotify Web API for searching tracks, albums, artists, and playlists via client credentials OAuth through Pipeworx.

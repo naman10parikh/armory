@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T06:08:34Z"
+pushed_at: "2026-09-21T06:05:27Z"
 ---
 ## What it is
 MCP server for Scrapiq, providing a tool to extract clean content from URLs. It returns title, content, links, and metadata in text, markdown, or JSON formats.

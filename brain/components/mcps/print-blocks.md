@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T05:25:22Z"
+pushed_at: "2026-09-23T05:24:19Z"
 ---
 ## What it is
 Enables printing structured documents to ESC/POS thermal printers via a CUPS queue, with tools for printer info, print jobs, and template management.

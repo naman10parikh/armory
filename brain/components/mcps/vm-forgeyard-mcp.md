@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T06:45:12Z"
+pushed_at: "2026-09-08T16:06:44Z"
 ---
 ## What it is
 HTTP MCP adapter for requesting VMs and inspecting state. Part of the vm-forgeyard KVM control plane for test and development virtual machines.

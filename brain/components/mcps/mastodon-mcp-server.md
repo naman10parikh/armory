@@ -8,13 +8,13 @@ source_url: https://github.com/VitexSoftware/mastodon-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T10:35:49Z"
+pushed_at: "2026-09-21T13:52:51Z"
 ---
 ## What it is
 Comprehensive MCP server for Mastodon integration, enabling AI assistants to read timelines, post statuses, manage accounts, search, and more on any Mastodon instance.

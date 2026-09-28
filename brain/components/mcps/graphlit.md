@@ -8,11 +8,11 @@ source_url: https://github.com/graphlit/graphlit-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 379
+stars: 380
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 53
+forks: 56
 pushed_at: "2026-01-12T19:10:52Z"
 ---
 ## What it is

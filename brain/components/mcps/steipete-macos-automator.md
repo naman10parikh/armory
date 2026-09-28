@@ -8,12 +8,12 @@ source_url: https://github.com/steipete/macos-automator-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 874
+stars: 885
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 65
-pushed_at: "2026-09-01T00:08:39Z"
+pushed_at: "2026-09-13T04:39:18Z"
 ---
 ## What it is
 MCP server `macOS Automator`, catalogued on PulseMCP. Automates macOS tasks through AppleScript and JavaScript for Automation with a rich library of pre-defined scripts for application control, file operations, and system interactions.

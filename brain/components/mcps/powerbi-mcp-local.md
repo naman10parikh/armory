@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:52:55Z"
+pushed_at: "2026-09-23T18:41:47Z"
 ---
 ## What it is
 Local-first MCP server for Power BI Desktop automation. Automate semantic model changes, DAX, Power Query, Excel, and report layout from MCP-capable AI clients.

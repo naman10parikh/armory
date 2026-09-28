@@ -8,12 +8,12 @@ source_url: https://github.com/leedoughty/omnifocus-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-10T10:24:13Z"
+pushed_at: "2026-09-13T08:42:40Z"
 ---
 ## What it is
 MCP server `OmniFocus`, catalogued on PulseMCP. OmniFocus task management integration through JXA and AppleScript on macOS.

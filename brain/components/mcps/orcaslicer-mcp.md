@@ -8,13 +8,13 @@ source_url: https://github.com/ShreddyKrueger75/claude-orcaslicer-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-02T01:43:37Z"
+pushed_at: "2026-09-05T22:29:39Z"
 ---
 ## What it is
 Enables headless slicing with OrcaSlicer, preset management, G-code analysis, and printer control over LAN for Klipper, OctoPrint, Prusa, Duet, Elegoo, and Bambu printers.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-30T14:16:17Z"
+pushed_at: "2026-09-24T14:15:43Z"
 ---
 ## What it is
 MCP server `Qonto Banking`, catalogued on PulseMCP. CLI and MCP interface for the Qonto business banking API.

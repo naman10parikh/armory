@@ -8,11 +8,11 @@ source_url: https://github.com/deliciousbuding/codex-browser-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-09-01T23:08:58Z"
 ---
 ## What it is

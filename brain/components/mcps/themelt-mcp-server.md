@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T21:59:26Z"
+pushed_at: "2026-09-09T20:47:57Z"
 ---
 ## What it is
 Enables AI assistants to identify and quantify value leaks in organizations using Melt's methodology, providing structured estimates instead of generic vendor lists.

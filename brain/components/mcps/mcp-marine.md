@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-26T17:20:47Z"
+pushed_at: "2026-09-26T19:38:13Z"
 ---
 ## What it is
 Provides access to marine weather data from Open-Meteo's free API through natural language queries via Pipeworx MCP gateway.

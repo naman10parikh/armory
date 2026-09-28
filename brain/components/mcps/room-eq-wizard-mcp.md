@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T15:17:05Z"
+pushed_at: "2026-09-22T21:38:50Z"
 ---
 ## What it is
 Enables natural language control of Room EQ Wizard for acoustic measurements, analysis, and EQ optimization, with peak/null detection and room-mode analysis.

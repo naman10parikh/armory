@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T10:11:22Z"
+pushed_at: "2026-09-03T19:24:22Z"
 ---
 ## What it is
 Enables MCP hosts to call the Teamline API for user authentication, task listing, creation, completion, and webhook management.

@@ -8,12 +8,12 @@ source_url: https://github.com/webdriverio/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 16
-pushed_at: "2026-08-12T11:04:55Z"
+pushed_at: "2026-09-23T20:40:33Z"
 ---
 ## What it is
 MCP server `WebdriverIO`, catalogued on PulseMCP. Browser and mobile app automation for Chrome, Firefox, Edge, Safari, iOS, and Android via WebDriver and Appium protocols.

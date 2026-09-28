@@ -8,12 +8,12 @@ source_url: https://github.com/theyahia/1c-rest-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-08-12T15:09:35Z"
+pushed_at: "2026-09-05T13:51:49Z"
 ---
 ## What it is
 MCP server `1C Enterprise REST`, catalogued on PulseMCP. Integrates with 1C:Enterprise REST API for catalogs and documents.

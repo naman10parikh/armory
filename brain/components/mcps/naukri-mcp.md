@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T20:04:13Z"
+pushed_at: "2026-09-28T10:13:09Z"
 ---
 ## What it is
 Enables automation of your own Naukri.com account for job search, job details, applications, saved jobs, profile viewing, and recruiter messaging through MCP-compatible clients.

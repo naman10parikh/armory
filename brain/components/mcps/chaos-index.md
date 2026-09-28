@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:47:32Z"
+pushed_at: "2026-09-25T22:23:14Z"
 ---
 ## What it is
 Calculates a chaos index (0-100) by combining Bitcoin volatility, ISS orbital position, global temperatures, earthquake activity, and lunar phase, with a breakdown of each component's contribution.

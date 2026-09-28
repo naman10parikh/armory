@@ -8,13 +8,13 @@ source_url: https://github.com/knaisoma/data-olympus
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-08-12T04:29:30Z"
+forks: 6
+pushed_at: "2026-09-28T08:35:16Z"
 ---
 ## What it is
 Provides a single-writer MCP server for a governance-grade knowledge base of markdown documents with version control and query capabilities.

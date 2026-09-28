@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T11:10:12Z"
+pushed_at: "2026-09-16T10:07:55Z"
 ---
 ## What it is
 A small MCP server exposing investment-data tools (search_companies, get_company) over a synthetic firmographic dataset, enabling natural language queries for company information.

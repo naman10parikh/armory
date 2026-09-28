@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T06:05:09Z"
+pushed_at: "2026-09-13T08:27:51Z"
 ---
 ## What it is
 Provides offline, privacy-preserving image recognition, OCR, and scene description for AI assistants via the Model Context Protocol, with Vulkan-accelerated local processing.

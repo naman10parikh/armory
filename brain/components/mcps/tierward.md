@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T04:16:24Z"
+pushed_at: "2026-09-28T04:12:47Z"
 ---
 ## What it is
 Tierward is a development framework that governs Claude Code sessions through a tiered pipeline with STOP gates, audit skills, and test enforcement, enabling teams to review and approve AI-generated code before merging.

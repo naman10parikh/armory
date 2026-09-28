@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T03:01:23Z"
+pushed_at: "2026-09-21T03:47:00Z"
 ---
 ## What it is
 Turns Claude Code, Claude Desktop, Cursor, Windsurf or ChatGPT into a WhatsApp operator that knows your customers, your templates, your wallet, and your funnel.

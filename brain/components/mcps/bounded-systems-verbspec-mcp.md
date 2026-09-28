@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T22:08:20Z"
+pushed_at: "2026-09-28T13:27:48Z"
 ---
 ## What it is
 Turns any verb Registry into a real MCP server, where each verb becomes an MCP tool with its own Zod input/output schemas (zero drift).

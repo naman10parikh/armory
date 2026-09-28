@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-19T06:17:18Z"
+pushed_at: "2026-09-07T19:50:29Z"
 ---
 ## What it is
 MCP server `Veris`, catalogued on PulseMCP. Behavioral verification infrastructure for AI coding agents with 17 MCP tools.

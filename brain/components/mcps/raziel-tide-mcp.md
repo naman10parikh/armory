@@ -8,13 +8,13 @@ source_url: https://github.com/tide-foundation/raziel-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T09:03:57Z"
+pushed_at: "2026-09-23T02:39:02Z"
 ---
 ## What it is
 Provides AI coding agents with deep knowledge of TideCloak authentication, cryptography, and security analysis to integrate Tide auth into applications.

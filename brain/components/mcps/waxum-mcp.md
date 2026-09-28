@@ -8,13 +8,13 @@ source_url: https://github.com/imtaqin/waxum-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-30T14:26:04Z"
+pushed_at: "2026-09-25T08:41:16Z"
 ---
 ## What it is
 MCP server for WhatsApp that exposes send, read, and media management tools through the waxum REST API gateway, enabling any MCP client to interact with WhatsApp chats and media over stdio.

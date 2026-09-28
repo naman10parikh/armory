@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T21:41:33Z"
+forks: 1
+pushed_at: "2026-09-10T00:41:23Z"
 ---
 ## What it is
 A comprehensive MCP server with 70 tools covering the entire Vercel REST API, enabling management of deployments, projects, environment variables, domains, DNS, aliases, certificates, logs, checks, webhooks, edge config, and teams via a Vercel access token.

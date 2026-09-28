@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-01T20:50:32Z"
+pushed_at: "2026-09-24T20:39:02Z"
 ---
 ## What it is
 MCP server `Prisma Cloud Docs`, catalogued on PulseMCP. Provides search access to Prisma Cloud documentation by crawling and indexing pages from both main docs and API documentation, implementing caching with TTL expiration and relevance scoring to return structured results with snippets and URLs for quick documentation access.

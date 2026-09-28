@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T17:40:45Z"
+pushed_at: "2026-09-25T23:13:34Z"
 ---
 ## What it is
 MCP server for Irish classifieds, providing tools to search Daft.ie property listings and Adverts.ie marketplace ads, retrieve details, and optionally manage authenticated accounts. Supports both stdio and HTTP transports.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-12T05:24:42Z"
+pushed_at: "2026-09-26T03:46:07Z"
 ---
 ## What it is
 Universal database copilot for diagnostics, operations, and performance analysis via MCP and CLI.

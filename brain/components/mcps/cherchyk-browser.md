@@ -8,12 +8,12 @@ source_url: https://github.com/cherchyk/mcpbrowser
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-12T00:40:44Z"
+pushed_at: "2026-09-28T13:02:41Z"
 ---
 ## What it is
 MCP server `Browser`, catalogued on PulseMCP. Load authenticated web pages using Chrome DevTools Protocol

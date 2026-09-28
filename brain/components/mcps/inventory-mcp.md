@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T20:59:14Z"
+pushed_at: "2026-09-10T02:41:00Z"
 ---
 ## What it is
 MCP server for Inventory (whereiput.it) that enables searching, full CRUD operations on items/locations/areas, and AI-powered photo recognition flow from MCP-compatible clients.

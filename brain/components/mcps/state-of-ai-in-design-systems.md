@@ -8,13 +8,13 @@ source_url: https://github.com/kaelig/state-of-ai-in-design-systems
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T20:17:51Z"
+forks: 2
+pushed_at: "2026-09-21T19:00:47Z"
 ---
 ## What it is
 Read-only MCP server for the July 2026 survey of AI in open-source design systems, enabling agents to query 19 systems' affordances, coercion techniques, and platform data via 9 tools, 2 resources, and 2 prompts.

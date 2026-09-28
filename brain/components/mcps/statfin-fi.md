@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:43:56Z"
+pushed_at: "2026-09-26T21:45:53Z"
 ---
 ## What it is
 Enables querying Statistics Finland's public statistical database using PxWeb API. Supports retrieving table metadata and pulling data with PxWeb query objects.

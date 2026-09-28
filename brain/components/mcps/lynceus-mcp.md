@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T19:01:13Z"
+pushed_at: "2026-09-16T18:29:29Z"
 ---
 ## What it is
 Enables AI agents to run RU-first web searches through the Yandex index and extract web pages into clean reader-mode Markdown, bypassing anti-bot blocks.

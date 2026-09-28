@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:19:15Z"
+pushed_at: "2026-09-26T19:29:00Z"
 ---
 ## What it is
 Enables patent and scholarly works search on Lens.org. Supports natural language queries and direct tool calls.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T11:41:34Z"
+pushed_at: "2026-09-28T11:47:10Z"
 ---
 ## What it is
 Nine tools for indoor climate and household energy in Germany/EU: BTU sizing for a room, portable-AC window-seal length, live heatwave outlook, appliance running costs, heating watts, dew point for safe ventilation, and balcony-storage subsidy rules. Also searches and reads 133 guides on getecoback.

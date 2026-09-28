@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T14:57:39Z"
+pushed_at: "2026-09-03T15:14:02Z"
 ---
 ## What it is
 Enables local AI inference for Claude and Cursor through 22 APIs, including summarization, translation, review, classification, RAG, and more, with all data processed on-device.

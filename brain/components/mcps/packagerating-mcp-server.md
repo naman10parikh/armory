@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T21:26:51Z"
+pushed_at: "2026-09-08T13:56:55Z"
 ---
 ## What it is
 Provides live, on-demand access to packagerating.com package health and risk scores, enabling users to evaluate package safety directly within coding sessions.

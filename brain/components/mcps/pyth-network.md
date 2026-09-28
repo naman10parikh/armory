@@ -12,8 +12,8 @@ stars: 247
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 346
-pushed_at: "2026-09-01T23:57:03Z"
+forks: 347
+pushed_at: "2026-09-28T02:39:40Z"
 ---
 ## What it is
 MCP server `Pyth Network`, catalogued on PulseMCP. Real-time and historical price feeds for crypto, equities, FX, and commodities.

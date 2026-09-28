@@ -8,12 +8,12 @@ source_url: https://github.com/theyahia/yandex-webmaster-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-28T09:55:43Z"
+pushed_at: "2026-09-06T08:43:40Z"
 ---
 ## What it is
 MCP server `Yandex Webmaster`, catalogued on PulseMCP. Integrates with Yandex Webmaster API for monitoring website indexing, search queries, and site management.

@@ -8,11 +8,11 @@ source_url: https://github.com/scald/tesla-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 8
 pushed_at: "2025-03-14T18:09:51Z"
 ---
 ## What it is

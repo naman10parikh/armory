@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T11:39:58Z"
+pushed_at: "2026-09-04T03:46:29Z"
 ---
 ## What it is
 Turns any OpenAPI/Swagger spec into an MCP server, generating one tool per endpoint with zero code.

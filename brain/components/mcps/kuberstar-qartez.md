@@ -8,7 +8,7 @@ source_url: https://github.com/kuberstar/qartez-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

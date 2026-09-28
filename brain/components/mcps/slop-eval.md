@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T15:53:01Z"
+pushed_at: "2026-09-25T04:29:16Z"
 ---
 ## What it is
 MCP server wrapping the slop-eval CLI as a single generic run tool for genericness scoring of AI-generated UI output.

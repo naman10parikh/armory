@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 50
-forks: 6
-pushed_at: "2026-08-27T16:52:34Z"
+stars: 51
+forks: 7
+pushed_at: "2026-09-26T19:27:46Z"
 ---
 ## What it is
 Outcome-based persistent memory for AI coding tools. Memories that help get promoted, memories that mislead get demoted. Works with Claude Code and OpenCode via hooks + MCP.

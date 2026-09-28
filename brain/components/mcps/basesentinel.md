@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T09:56:51Z"
+pushed_at: "2026-09-07T16:17:14Z"
 ---
 ## What it is
 AI DeFi risk monitor for Base L2 that exposes MCP tools for real-time protocol health checks, anomaly detection, risk reporting, and threshold alerts.

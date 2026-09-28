@@ -8,11 +8,11 @@ source_url: https://github.com/alfredang/notebooklm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 32
 pushed_at: "2026-01-26T17:22:29Z"
 ---
 ## What it is

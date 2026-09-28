@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T05:14:07Z"
+pushed_at: "2026-09-08T05:14:49Z"
 ---
 ## What it is
 MCP server that exposes Cleanuparr's REST API for inspecting status, history, statistics, jobs, and configuration, enabling natural language interaction with Cleanuparr.

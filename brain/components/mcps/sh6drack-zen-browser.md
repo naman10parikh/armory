@@ -8,11 +8,11 @@ source_url: https://github.com/sh6drack/zen-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-05-16T09:45:26Z"
 ---
 ## What it is

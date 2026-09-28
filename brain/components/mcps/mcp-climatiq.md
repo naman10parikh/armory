@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:48:37Z"
+pushed_at: "2026-09-25T22:53:21Z"
 ---
 ## What it is
 Climatiq MCP server that calculates carbon footprints using emission factors, enabling users to list unit types and compute environmental impact.

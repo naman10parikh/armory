@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-05T14:13:48Z"
+pushed_at: "2026-09-04T05:48:29Z"
 ---
 ## What it is
 Integrates eSewa and Khalti payment gateways into Claude, enabling payment processing via natural language.

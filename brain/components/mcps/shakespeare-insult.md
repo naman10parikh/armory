@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:40:53Z"
+pushed_at: "2026-09-26T21:36:50Z"
 ---
 ## What it is
 Generates Shakespearean insults using classical vocabulary or targeted Haiku mode. Accessed via Pipeworx MCP gateway.

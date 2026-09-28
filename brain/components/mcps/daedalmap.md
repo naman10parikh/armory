@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-27T00:57:50Z"
+pushed_at: "2026-09-28T03:35:52Z"
 ---
 ## What it is
 MCP server `DaedalMap Geographic Data`, catalogued on PulseMCP. Geographic data intelligence for disasters and FX with free and paid access via x402.

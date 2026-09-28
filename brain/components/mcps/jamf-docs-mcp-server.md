@@ -8,13 +8,13 @@ source_url: https://github.com/GET-Technology-Inc/jamf-docs-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T01:26:39Z"
+pushed_at: "2026-09-28T13:12:18Z"
 ---
 ## What it is
 Provides AI assistants with direct access to Jamf official documentation, enabling them to answer Jamf-related questions by searching, retrieving articles, and browsing product documentation.

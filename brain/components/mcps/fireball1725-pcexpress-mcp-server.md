@@ -8,7 +8,7 @@ source_url: https://github.com/FireBall1725/pcexpress-mcp-server
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []

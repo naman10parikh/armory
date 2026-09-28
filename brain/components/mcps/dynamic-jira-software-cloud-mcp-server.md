@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T18:09:38Z"
+pushed_at: "2026-09-28T13:19:50Z"
 ---
 ## What it is
 Dynamically exposes over 100 Jira Software Cloud REST API operations as fully typed tools for LLMs to interact with, supporting SSE and Stdio transports.

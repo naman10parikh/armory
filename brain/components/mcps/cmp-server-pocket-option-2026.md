@@ -8,12 +8,12 @@ source_url: https://github.com/Rufus011/CMP-server_Pocket-option-2026
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 4
 pushed_at: "2026-07-20T09:39:23Z"
 ---
 ## What it is

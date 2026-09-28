@@ -8,13 +8,13 @@ source_url: https://github.com/real-limitless/ansible-flow-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T03:53:24Z"
+pushed_at: "2026-09-11T19:46:12Z"
 ---
 ## What it is
 MCP server that exposes Ansible modules to AI agents with a search-schema-check-execute workflow, enabling safe ad-hoc runs via check mode by default. It provides tools to search modules, fetch schemas, run modules, and list collections.

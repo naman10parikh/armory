@@ -8,13 +8,13 @@ source_url: https://github.com/Ekioo/KittyClaw
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T10:31:38Z"
+pushed_at: "2026-09-06T04:07:43Z"
 ---
 ## What it is
 Self-hosted kanban board that dispatches AI agent fleets against tickets. The embedded Streamable HTTP /mcp endpoint exposes 7 tools to list projects, read boards and tickets, and create, move and comment tickets from any MCP client.

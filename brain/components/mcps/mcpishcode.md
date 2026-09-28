@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T21:23:10Z"
+pushed_at: "2026-09-25T16:03:48Z"
 ---
 ## What it is
 A self-hosted MCP server that brings a Codex-style coding workflow to ChatGPT, allowing it to read, edit, search, and run code in your local projects.

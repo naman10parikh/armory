@@ -8,11 +8,11 @@ source_url: https://github.com/vikrantsingh01/adaptive-cards-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-06-20T05:08:35Z"
 ---
 ## What it is

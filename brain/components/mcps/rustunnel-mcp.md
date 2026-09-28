@@ -8,13 +8,13 @@ source_url: https://github.com/joaoh82/rustunnel
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 655
+stars: 656
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 48
-pushed_at: "2026-07-31T16:21:20Z"
+pushed_at: "2026-09-03T21:48:14Z"
 ---
 ## What it is
 MCP (Model Context Protocol) server for rustunnel. Lets AI agents (Claude Code, Cursor, Windsurf) create and manage public tunnels to local services from inside an agent session.

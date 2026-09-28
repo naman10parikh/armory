@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:59:04Z"
+pushed_at: "2026-09-26T21:16:30Z"
 ---
 ## What it is
 Wraps the TheMealDB API to search for recipes, get full meal details, random meal suggestions, and find recipes by ingredient.

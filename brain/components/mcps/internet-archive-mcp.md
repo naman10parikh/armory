@@ -8,13 +8,13 @@ source_url: https://github.com/Dthen/internet-archive-mcp
 license: BSD Zero Clause License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-07-31T16:43:22Z"
+forks: 1
+pushed_at: "2026-09-27T09:01:52Z"
 ---
 ## What it is
 Full-coverage MCP server for Internet Archive, enabling search, metadata lookup, collection browsing, and Wayback Machine snapshot retrieval via 13 tools.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:32:03Z"
+pushed_at: "2026-09-26T22:07:58Z"
 ---
 ## What it is
 Provides free, no-key open-access lookup for scholarly papers via Unpaywall. Enables querying article metadata and open-access status through natural language.

@@ -8,13 +8,13 @@ source_url: https://github.com/VitexSoftware/abraflexi-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T17:31:53Z"
+pushed_at: "2026-09-21T13:39:07Z"
 ---
 ## What it is
 Provides a comprehensive MCP interface to the AbraFlexi ERP REST API, enabling management of invoices, contacts, products, bank transactions, and other evidence through natural language.

@@ -8,13 +8,13 @@ source_url: https://github.com/0spoon/seamless
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T10:22:12Z"
+pushed_at: "2026-09-28T05:34:41Z"
 ---
 ## What it is
 Local-first shared memory and task coordination for AI coding agents. One Go binary, MCP server, markdown files you own. Hooks for Claude Code and Codex CLI (and their desktop apps).

@@ -8,11 +8,11 @@ source_url: https://github.com/antfu/nuxt-mcp-dev
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 909
+stars: 912
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 51
+forks: 52
 pushed_at: "2026-03-01T06:08:50Z"
 ---
 ## What it is

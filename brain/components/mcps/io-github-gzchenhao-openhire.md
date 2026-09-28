@@ -8,13 +8,13 @@ source_url: https://github.com/gzchenhao/openhire
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T14:51:02Z"
+pushed_at: "2026-09-28T09:25:18Z"
 ---
 ## What it is
 An MCP server that turns your AI assistant into a private radar for AI/infra, autonomous-driving, and embodied-AI jobs, sourcing directly from employer career sites and ATS APIs with no résumé upload or account required.

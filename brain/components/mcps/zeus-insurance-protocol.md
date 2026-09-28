@@ -8,13 +8,13 @@ source_url: https://github.com/igor-vii/Zeus-Insurance-BOT
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T21:21:44Z"
+pushed_at: "2026-09-28T06:37:41Z"
 ---
 ## What it is
 Decentralized insurance and escrow for AI agents. Buy coverage against API failures and validator slashing via MCP tools. Live on X Layer (chainId 196).

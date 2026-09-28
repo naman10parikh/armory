@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-31T07:20:48Z"
+pushed_at: "2026-09-28T07:17:13Z"
 ---
 ## What it is
 MCP server `PostgreSQL`, catalogued on PulseMCP. Enterprise PostgreSQL server with query optimization, index tuning, EXPLAIN analysis, and database health monitoring

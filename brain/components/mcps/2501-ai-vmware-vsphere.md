@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-02-24T15:01:51Z"
+pushed_at: "2026-09-09T06:09:56Z"
 ---
 ## What it is
 MCP server `VMware vSphere`, catalogued on PulseMCP. Manages VMware vSphere infrastructure through the govc CLI with 55 typed tools covering VM lifecycle, snapshots, datastores, and networking.

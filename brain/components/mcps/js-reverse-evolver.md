@@ -8,12 +8,12 @@ source_url: https://github.com/JiangtaoQu/js-reverse-evolver
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 4
 pushed_at: "2026-03-21T05:14:09Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-16T18:04:06Z"
+pushed_at: "2026-09-07T12:30:54Z"
 ---
 ## What it is
 A 100% local MCP server for semantic and lexical search over your code, library docs, and PDFs, featuring hybrid BM25 and dense retrieval, syntax aware chunking, and an optional code knowledge graph. It also ships a Coral integration, so you can expose your code search as SQL and join it with live d

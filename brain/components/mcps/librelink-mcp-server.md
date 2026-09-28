@@ -8,12 +8,12 @@ source_url: https://github.com/amansk/librelink-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 6
 pushed_at: "2025-07-23T06:29:44Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:37:21Z"
+pushed_at: "2026-09-25T21:31:16Z"
 ---
 ## What it is
 Access City of Greenwood, Indiana open geospatial data including parcels, zoning, public works, and city services via ArcGIS feature services.

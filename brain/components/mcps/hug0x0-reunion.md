@@ -8,12 +8,12 @@ source_url: https://github.com/hug0x0/mcp-reunion
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T23:22:44Z"
+pushed_at: "2026-09-28T02:09:20Z"
 ---
 ## What it is
 MCP server `La Réunion Open Data`, catalogued on PulseMCP. Accesses La Réunion regional open data through 99 tools across 22 topic modules.

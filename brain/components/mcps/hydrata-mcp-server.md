@@ -8,13 +8,13 @@ source_url: https://github.com/Hydrata/hydrata-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-01T14:06:13Z"
+pushed_at: "2026-09-22T16:22:32Z"
 ---
 ## What it is
 Enables running, monitoring, and managing ANUGA flood simulations on Hydrata Cloud, supporting project listing, scenario queries, simulation start, status polling, cancellation, and retry operations.

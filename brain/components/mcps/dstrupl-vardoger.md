@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-16T20:21:59Z"
+pushed_at: "2026-09-27T17:12:33Z"
 ---
 ## What it is
 MCP server `Vardoger`, catalogued on PulseMCP. Personalizes AI coding assistants by analyzing local conversation history on-device.

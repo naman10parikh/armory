@@ -12,8 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-09-01T13:14:16Z"
+forks: 1
+pushed_at: "2026-09-28T12:44:01Z"
 ---
 ## What it is
 MCP server `ControlKeel`, catalogued on PulseMCP. Governance layer for AI coding agents with policy validation, findings tracking, and review gates.

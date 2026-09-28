@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-17T12:23:46Z"
+pushed_at: "2026-09-08T02:27:35Z"
 ---
 ## What it is
 MCP server for MEGA encrypted cloud storage providing file management, uploads, downloads, sharing, folder sync, and search.

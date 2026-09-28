@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-26T03:44:28Z"
+pushed_at: "2026-09-16T03:44:08Z"
 ---
 ## What it is
 MCP server `Django Shell`, catalogued on PulseMCP. Provides a stateful Python shell environment specifically configured for Django development, enabling execution of Django ORM operations, model exploration, and application interaction through persistent sessions with intelligent formatting and comprehensive error handling.

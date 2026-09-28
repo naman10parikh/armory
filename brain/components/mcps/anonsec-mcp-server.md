@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T03:12:27Z"
+pushed_at: "2026-09-09T22:26:36Z"
 ---
 ## What it is
 Provides anonymous email management through Firefox Relay, enabling sending, receiving, and OTP extraction while maintaining privacy and security.

@@ -8,12 +8,12 @@ source_url: https://github.com/nana7chi/CubismExternalEditMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 6
 pushed_at: "2026-08-03T07:38:18Z"
 ---
 ## What it is

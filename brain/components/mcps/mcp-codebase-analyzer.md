@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T14:33:14Z"
+pushed_at: "2026-09-03T13:45:36Z"
 ---
 ## What it is
 Enables LLMs to explore codebases structurally via MCP tools for outlines, function sources, imports, complexity, git changes, and dead code detection, reducing token usage by avoiding raw file ingestion.

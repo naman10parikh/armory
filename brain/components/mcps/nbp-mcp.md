@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T09:01:02Z"
+pushed_at: "2026-09-26T10:45:58Z"
 ---
 ## What it is
 Local MCP server for the Polish National Bank (NBP) public API enabling exchange rates, gold prices, and currency conversion without authentication.

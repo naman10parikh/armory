@@ -8,7 +8,7 @@ source_url: https://github.com/ttjslbz001/akshare_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

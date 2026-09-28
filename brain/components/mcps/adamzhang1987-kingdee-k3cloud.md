@@ -8,12 +8,12 @@ source_url: https://github.com/adamzhang1987/kingdee-k3cloud-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 66
+stars: 86
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
-pushed_at: "2026-09-01T01:32:33Z"
+forks: 25
+pushed_at: "2026-09-28T04:55:48Z"
 ---
 ## What it is
 MCP server `Kingdee K3Cloud`, catalogued on PulseMCP. Query and operate Kingdee K3Cloud ERP systems through natural language with 15 tools for reading, writing, and auditing business records.

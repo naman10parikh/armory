@@ -8,13 +8,13 @@ source_url: https://github.com/daviddme/capitol-alpha-terminal
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-07-07T08:06:02Z"
+pushed_at: "2026-09-10T17:14:51Z"
 ---
 ## What it is
 Enables querying U.S. politician stock trades from public disclosures, running backtests, and generating daily briefings via MCP tools.

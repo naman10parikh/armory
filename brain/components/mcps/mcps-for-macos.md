@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T14:59:45Z"
+pushed_at: "2026-09-02T09:12:04Z"
 ---
 ## What it is
 A collection of small MCP servers for macOS automation that expose Apple Mail, MoneyMoney, and Spotlight functionality as tools via AppleScript and command-line, enabling AI applications to search mail, manage contacts and transactions, and perform system-wide file searches through natural language.

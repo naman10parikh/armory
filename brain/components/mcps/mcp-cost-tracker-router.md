@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-27T13:59:31Z"
+pushed_at: "2026-09-28T11:45:26Z"
 ---
 ## What it is
 Local-first cost tracking and model routing for MCP agents with offline token counting, budget alerts, and spend reports.

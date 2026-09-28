@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T21:02:29Z"
+pushed_at: "2026-09-10T00:30:53Z"
 ---
 ## What it is
 Read-only MCP server for Tegro Finance DEX on TON blockchain, enabling AI assistants to query pools, token prices, swap quotes, and liquid-staking rates without API keys or wallet.

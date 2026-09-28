@@ -8,12 +8,12 @@ source_url: https://github.com/artarasov/zenmoney-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-05-28T16:38:08Z"
+forks: 5
+pushed_at: "2026-09-04T15:27:05Z"
 ---
 ## What it is
 MCP server `ZenMoney`, catalogued on PulseMCP. Access ZenMoney personal finance data including accounts, transactions, categories, and cross-currency transfers.

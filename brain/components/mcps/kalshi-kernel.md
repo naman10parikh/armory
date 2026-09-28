@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T22:35:00Z"
+pushed_at: "2026-09-19T22:32:42Z"
 ---
 ## What it is
 Enables AI agents to interact with Kalshi event contracts and perpetual markets via a safety-focused MCP interface, with paper trading by default, strict schemas, and fail-closed behavior.

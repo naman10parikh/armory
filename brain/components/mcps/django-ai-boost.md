@@ -8,12 +8,12 @@ source_url: https://github.com/vintasoftware/django-ai-boost
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 111
+stars: 113
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-07-31T18:15:58Z"
 ---
 ## What it is

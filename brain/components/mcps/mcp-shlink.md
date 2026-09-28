@@ -8,13 +8,13 @@ source_url: https://github.com/magnus919/mcp-shlink
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-14T16:24:22Z"
+pushed_at: "2026-09-16T23:29:49Z"
 ---
 ## What it is
 Enables AI assistants to interact with a Shlink URL shortening instance, allowing creation, listing, retrieval, and deletion of short URLs, as well as tag management.

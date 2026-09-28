@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:32:45Z"
+pushed_at: "2026-09-02T19:55:15Z"
 ---
 ## What it is
 Enables AI agents to generate barcodes in Code128, Code39, EAN-13, or UPC-A formats via x402 micropayments, returning base64-encoded SVG images with customizable width and height.

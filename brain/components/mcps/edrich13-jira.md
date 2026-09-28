@@ -8,11 +8,11 @@ source_url: https://github.com/edrich13/mcp-jira-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 7
 pushed_at: "2026-01-27T10:58:09Z"
 ---
 ## What it is

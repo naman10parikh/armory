@@ -8,12 +8,12 @@ source_url: https://github.com/azure-samples/remote-mcp-apim-functions-python
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 128
+stars: 129
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 79
-pushed_at: "2025-10-02T21:31:09Z"
+pushed_at: "2026-09-23T20:10:14Z"
 ---
 ## What it is
 MCP server `Azure API Management Gateway with Entra ID Authentication`, catalogued on PulseMCP. Secures remote AI servers using Azure API Management as a gateway with Microsoft Entra ID authentication, enabling enterprise-grade access control for organizations leveraging existing Azure identity services.

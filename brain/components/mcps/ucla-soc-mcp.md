@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T15:43:47Z"
+pushed_at: "2026-09-17T01:09:59Z"
 ---
 ## What it is
 MCP server for querying the public UCLA Schedule of Classes. It provides tools to list terms, subject areas, search courses, and get detailed enrollment, waitlist, and section information.

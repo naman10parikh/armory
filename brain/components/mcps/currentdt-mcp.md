@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-05-29T18:10:37Z"
+pushed_at: "2026-09-16T16:21:06Z"
 ---
 ## What it is
 Provides real-time date and time information to AI assistants via the Model Context Protocol, enabling timestamped content generation.

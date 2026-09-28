@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T20:10:03Z"
+pushed_at: "2026-09-09T19:26:11Z"
 ---
 ## What it is
 Provides read-only observation tools for Chromium pages, enabling agents to inspect page accessibility trees without mutation.

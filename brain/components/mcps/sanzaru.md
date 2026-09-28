@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-14T20:21:19Z"
+pushed_at: "2026-09-28T14:58:56Z"
 ---
 ## What it is
 Stateless MCP server that wraps OpenAI's Sora, Whisper, GPT-4o Audio, and TTS APIs for generating videos, images, and processing audio.

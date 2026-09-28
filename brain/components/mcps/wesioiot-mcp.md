@@ -8,13 +8,13 @@ source_url: https://github.com/wesioplayconstructor/wesioiot-top_proxy-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-18T22:01:02Z"
+forks: 1
+pushed_at: "2026-09-27T01:44:01Z"
 ---
 ## What it is
 MCP server for MiniMax media generation (TTS, image, video, music) routed through the wesioiot proxy, enabling media creation with PT-BR voices and async job polling.

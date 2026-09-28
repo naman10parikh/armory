@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-07T12:07:19Z"
+pushed_at: "2026-09-16T09:53:51Z"
 ---
 ## What it is
 MCP server `Inkog`, catalogued on PulseMCP. Scan AI agents for security vulnerabilities and audit MCP servers before installation.

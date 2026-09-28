@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T11:01:12Z"
+pushed_at: "2026-09-03T11:34:52Z"
 ---
 ## What it is
 Enables users with mobility impairments to assess tourist destination accessibility by providing integrated information on barrier-free facilities, weather conditions, nearby wheelchair charging stations, and festival-based congestion risk through natural language queries.

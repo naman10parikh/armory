@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T22:12:46Z"
+pushed_at: "2026-09-25T05:54:04Z"
 ---
 ## What it is
 Enables querying and summarizing public datasets from any OpenDataSoft Explore v2.1 portal.

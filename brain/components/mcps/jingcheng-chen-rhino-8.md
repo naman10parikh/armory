@@ -8,12 +8,12 @@ source_url: https://github.com/jingcheng-chen/rhinomcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1012
+stars: 1112
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 95
-pushed_at: "2026-07-26T13:32:38Z"
+forks: 103
+pushed_at: "2026-09-14T18:17:37Z"
 ---
 ## What it is
 MCP server `Rhino 8`, catalogued on PulseMCP. Enables direct control of Rhino 8's 3D modeling environment through a C# SDK-based server that exposes modeling operations for design workflow automation and conversational interfaces.

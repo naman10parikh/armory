@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T06:53:35Z"
+pushed_at: "2026-09-24T06:23:55Z"
 ---
 ## What it is
 Provides an MCP server that automatically exposes API routes as MCP tools with input validation and authentication, enabling AI agents to call the same handlers as HTTP RPC.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T14:10:31Z"
+pushed_at: "2026-09-11T19:50:15Z"
 ---
 ## What it is
 Enables agents to search SEC filings, earnings transcripts, and EU regulations with ready-to-cite evidence, including exact passages and source links.

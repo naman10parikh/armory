@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T02:01:33Z"
+pushed_at: "2026-09-27T05:48:57Z"
 ---
 ## What it is
 Enables AI assistants to manage Gmail emails, including sending, searching, and organizing with labels and attachments via OAuth2.

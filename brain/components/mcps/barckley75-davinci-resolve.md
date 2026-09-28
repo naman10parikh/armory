@@ -8,11 +8,11 @@ source_url: https://github.com/barckley75/resolve-claude-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 346
+stars: 369
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 45
+forks: 49
 pushed_at: "2026-05-14T13:24:14Z"
 ---
 ## What it is

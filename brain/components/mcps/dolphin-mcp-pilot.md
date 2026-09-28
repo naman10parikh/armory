@@ -8,13 +8,13 @@ source_url: https://github.com/iflytek/dolphin-mcp-pilot
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 15
-pushed_at: "2026-08-31T08:28:55Z"
+pushed_at: "2026-09-14T02:43:46Z"
 ---
 ## What it is
 Production-ready MCP server for Apache DolphinScheduler. Enables AI agents to operate data workflows end-to-end with 58 tools covering DAG creation, schedule management, instance control, guided troubleshooting, serial backfills, and version rollback.

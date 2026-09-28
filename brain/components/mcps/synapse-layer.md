@@ -12,8 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-08-17T23:04:47Z"
+forks: 4
+pushed_at: "2026-09-18T13:46:59Z"
 ---
 ## What it is
 MCP server `Synapse Layer`, catalogued on PulseMCP. Zero-knowledge memory layer for AI agents with differential privacy and AES-256 encryption.

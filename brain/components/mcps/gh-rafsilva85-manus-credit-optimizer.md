@@ -8,11 +8,11 @@ source_url: https://github.com/rafsilva85/credit-optimizer-v5
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2026-05-25T00:08:44Z"
 ---
 ## What it is

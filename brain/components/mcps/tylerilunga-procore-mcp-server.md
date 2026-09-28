@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, product-management]
-stars: 9
+stars: 10
 forks: 5
 pushed_at: "2026-08-21T10:59:35Z"
 ---

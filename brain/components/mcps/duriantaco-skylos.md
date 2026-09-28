@@ -8,12 +8,12 @@ source_url: https://github.com/duriantaco/skylos
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 546
+stars: 838
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 30
-pushed_at: "2026-09-01T01:47:24Z"
+forks: 56
+pushed_at: "2026-09-28T14:53:34Z"
 ---
 ## What it is
 MCP server `Skylos`, catalogued on PulseMCP. Privacy-first SAST tool for Python, TypeScript, and Go that detects dead code, security vulnerabilities, and code quality issues with hybrid AST and optional LLM analysis.

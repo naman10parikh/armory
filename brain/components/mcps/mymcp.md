@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-02T03:06:40Z"
+pushed_at: "2026-09-26T19:09:23Z"
 ---
 ## What it is
 Dynamically converts any OpenAPI v3 specification into a fully-functional Model Context Protocol (MCP) server.

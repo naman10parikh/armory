@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:30:28Z"
+pushed_at: "2026-09-26T22:01:55Z"
 ---
 ## What it is
 Enables querying a global plant database with over 1 million species, providing access to plant records and species search via natural language.

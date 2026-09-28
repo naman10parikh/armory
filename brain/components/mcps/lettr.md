@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-15T09:14:53Z"
+pushed_at: "2026-09-22T12:50:09Z"
 ---
 ## What it is
 MCP server `Lettr`, catalogued on PulseMCP. Sends transactional emails, manages templates, configures domains, and monitors webhooks via the Lettr API.

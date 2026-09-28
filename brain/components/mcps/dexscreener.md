@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:00:09Z"
+pushed_at: "2026-09-25T23:33:25Z"
 ---
 ## What it is
 Provides DEX price, liquidity, and volume data across multiple chains, including pair details, token pairs, search, and trending tokens.

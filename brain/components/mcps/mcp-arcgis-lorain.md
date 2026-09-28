@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:38:41Z"
+pushed_at: "2026-09-25T21:50:57Z"
 ---
 ## What it is
 Enables searching and querying Lorain County, Ohio open geospatial datasets including parcels, addresses, zoning, and public works via ArcGIS Feature Services.

@@ -8,13 +8,13 @@ source_url: https://github.com/Lexus2016/turbo_quant_memory
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-25T16:35:41Z"
+pushed_at: "2026-09-20T11:55:18Z"
 ---
 ## What it is
 Provides persistent, local-first memory with knowledge graph and hybrid search for AI coding agents, reducing token usage by storing decisions, patterns, and codebase context.

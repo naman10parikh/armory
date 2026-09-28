@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-06-23T12:37:07Z"
+pushed_at: "2026-09-03T04:53:50Z"
 ---
 ## What it is
 MCP server `Kaiten`, catalogued on PulseMCP. Integrates with Kaiten project management API for board, card, and column operations.

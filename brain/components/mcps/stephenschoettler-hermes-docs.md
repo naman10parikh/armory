@@ -8,11 +8,11 @@ source_url: https://github.com/stephenschoettler/hermes-docs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 1
 pushed_at: "2026-04-08T21:06:53Z"
 ---
 ## What it is

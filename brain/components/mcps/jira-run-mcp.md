@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T09:08:28Z"
+pushed_at: "2026-09-04T09:43:59Z"
 ---
 ## What it is
 An MCP server for Jira 8 that enables SSO-authenticated issue management, work logging, search, and more through natural language, using Playwright for session setup and running as a local subprocess.

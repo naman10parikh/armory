@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T10:29:43Z"
+pushed_at: "2026-09-08T08:31:04Z"
 ---
 ## What it is
 A cross-agent MCP server development kit that lets you build once and connect with multiple AI agents including Claude Code, Cursor, Mavis, and OpenAI via stdio or HTTP.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T18:33:43Z"
+pushed_at: "2026-09-08T11:50:04Z"
 ---
 ## What it is
 Enables natural-language queries about real filming locations and the productions recorded at them, including search, proximity, and ranking tools.

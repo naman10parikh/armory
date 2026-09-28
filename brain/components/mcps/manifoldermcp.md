@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-06-12T00:42:58Z"
+pushed_at: "2026-09-28T14:12:40Z"
 ---
 ## What it is
 Enables browsing and editing Open Metaverse Spatial Fabric scenes, including managing scenes, objects, and resources through natural language.

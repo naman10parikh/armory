@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-27T21:58:10Z"
+pushed_at: "2026-09-15T08:03:15Z"
 ---
 ## What it is
 MCP server for professional prompt engineering and agentic scaffolding, with cloud and local optimization.

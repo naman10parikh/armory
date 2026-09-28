@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T19:20:27Z"
+pushed_at: "2026-09-09T22:51:28Z"
 ---
 ## What it is
 MCP server that gives LLMs deep knowledge of design systems and tokens, enabling intelligent design evolution, token analysis, and designer-to-developer handoffs.

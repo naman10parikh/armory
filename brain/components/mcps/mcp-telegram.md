@@ -8,12 +8,12 @@ source_url: https://github.com/beautyfree/mcp-telegram
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 5
 pushed_at: "2026-05-18T11:13:20Z"
 ---
 ## What it is

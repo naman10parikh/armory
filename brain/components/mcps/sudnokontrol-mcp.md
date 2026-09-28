@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T08:02:03Z"
+pushed_at: "2026-09-03T07:37:14Z"
 ---
 ## What it is
 Enables searching Ukrainian national vessel registries by registration number, name, or owner, retrieving full vessel records, and querying registry statistics, all without an API key.

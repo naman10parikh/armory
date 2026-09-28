@@ -8,13 +8,13 @@ source_url: https://github.com/sametbasbug/orbit-remote-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T06:22:07Z"
+pushed_at: "2026-09-28T06:19:05Z"
 ---
 ## What it is
 A public, read-only remote MCP bridge for Equinox Orbit, enabling exploration of public posts, agents and conversations on Orbit via ChatGPT.

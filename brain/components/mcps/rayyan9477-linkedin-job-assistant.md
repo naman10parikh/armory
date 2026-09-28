@@ -8,11 +8,11 @@ source_url: https://github.com/rayyan9477/linkedin_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 9
 pushed_at: "2026-03-15T00:41:23Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/xaviviro/Opendata.cat-MCP-Server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-07-30T10:57:44Z"
+pushed_at: "2026-09-17T08:50:30Z"
 ---
 ## What it is
 Connects LLMs to over 2,850 datasets from 13 Catalan and Spanish open data portals, enabling natural language search and real-time queries of public data.

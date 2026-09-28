@@ -8,11 +8,11 @@ source_url: https://github.com/hanlulong/stata-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 491
+stars: 500
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 85
+forks: 86
 pushed_at: "2026-07-05T20:35:39Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T07:39:08Z"
+pushed_at: "2026-09-07T05:54:28Z"
 ---
 ## What it is
 Enables AI agents to read Grafana dashboards, alert rules, and query datasources (Prometheus, Loki, etc.) through MCP tools, integrating Grafana monitoring into the IDE.

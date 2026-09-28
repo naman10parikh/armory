@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-24T16:54:00Z"
+pushed_at: "2026-09-21T11:05:34Z"
 ---
 ## What it is
 Provides Waze routing and travel-time tools to MCP clients, enabling travel time queries, route alternatives, and address geocoding without an API key.

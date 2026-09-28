@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-01T16:30:42Z"
+pushed_at: "2026-09-06T08:40:49Z"
 ---
 ## What it is
 MCP server `Bitrix24`, catalogued on PulseMCP. Integrates with Bitrix24 CRM via webhooks for deal, contact, and task management.

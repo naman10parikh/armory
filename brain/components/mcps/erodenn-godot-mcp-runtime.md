@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
-stars: 62
-forks: 13
-pushed_at: "2026-09-01T23:55:10Z"
+stars: 78
+forks: 17
+pushed_at: "2026-09-25T01:48:25Z"
 ---
 ## What it is
 MCP server for Godot 4.x with runtime control via injected UDP bridge: input simulation, screenshots, UI discovery, and live GDScript execution while the game is running.

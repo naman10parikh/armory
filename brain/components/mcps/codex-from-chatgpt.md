@@ -8,12 +8,12 @@ source_url: https://github.com/joseanu/codex-from-chatgpt
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 5
 pushed_at: "2026-08-10T19:29:21Z"
 ---
 ## What it is

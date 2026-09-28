@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T04:17:19Z"
+pushed_at: "2026-09-20T19:50:52Z"
 ---
 ## What it is
 An MCP server that exposes Verum Signal's public API to LLM agents, enabling retrieval of outlet credibility scores, recent claims, and debate verdicts. Requires self-hosting with a Verum Signal API key.

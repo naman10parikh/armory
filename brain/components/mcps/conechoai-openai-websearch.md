@@ -8,11 +8,11 @@ source_url: https://github.com/conechoai/openai-websearch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 93
+stars: 94
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 18
 pushed_at: "2025-09-12T08:44:52Z"
 ---
 ## What it is

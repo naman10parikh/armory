@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T18:55:27Z"
+pushed_at: "2026-09-10T22:04:47Z"
 ---
 ## What it is
 Provides read-only tools to search live government surplus auction listings, retrieve sold price comparables, and compute a resale Flip Score. Enables agents to access auction data via natural language.

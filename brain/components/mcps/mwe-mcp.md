@@ -8,13 +8,13 @@ source_url: https://github.com/Fr4nZ82/mwe-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-02T22:10:39Z"
+pushed_at: "2026-09-19T14:16:19Z"
 ---
 ## What it is
 A Markdown wiki-based memory server for AI agents with per-fact access control, attribution, and validity enforcement, enabling multiple users and agents to share a governed knowledge base.

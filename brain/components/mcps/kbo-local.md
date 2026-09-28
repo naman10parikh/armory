@@ -8,13 +8,13 @@ source_url: https://github.com/SNGCHN/kbo-analyst
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T06:29:16Z"
+pushed_at: "2026-09-09T16:05:29Z"
 ---
 ## What it is
 Provides 28 MCP tools to query KBO baseball data, including player stats, pitch arsenal, zone charts, usage patterns, and trend reports using a SQLite database.

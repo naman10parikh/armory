@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:20:54Z"
+pushed_at: "2026-09-26T19:38:24Z"
 ---
 ## What it is
 Provides a one-call snapshot of recent market activity and events.

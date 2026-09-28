@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T08:20:13Z"
+pushed_at: "2026-09-26T08:49:37Z"
 ---
 ## What it is
 Enables AI coding agents to interact with TypeScript projects through compiler-level code intelligence, providing tools for navigation, type information, diagnostics, refactoring, and semantic search.

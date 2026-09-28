@@ -8,13 +8,13 @@ source_url: https://github.com/222wcnm/BiliStalkerMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-08-26T15:10:02Z"
+pushed_at: "2026-09-25T05:53:58Z"
 ---
 ## What it is
 BiliStalkerMCP is a Bilibili MCP server designed to analyze a specific Bilibili user by providing tools to retrieve user profiles, videos, dynamics, articles, and followings.

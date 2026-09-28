@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-30T06:02:58Z"
+forks: 0
+pushed_at: "2026-09-28T14:17:03Z"
 ---
 ## What it is
 A distributed durable notebook MCP server for high-scale agents, providing git-like pull and commit tools with automatic conflict resolution.

@@ -8,13 +8,13 @@ source_url: https://github.com/FangYuan33/easy-code-reader
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 155
+stars: 154
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 17
-pushed_at: "2026-03-01T05:38:35Z"
+pushed_at: "2026-09-17T14:09:34Z"
 ---
 ## What it is
 An MCP server for intelligently reading Java source code, supporting extraction from Maven dependencies and local projects with dual decompilers.

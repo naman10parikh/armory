@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T02:48:16Z"
+pushed_at: "2026-09-28T12:05:54Z"
 ---
 ## What it is
 Provides point-in-time Brazilian market data and official statistics, enabling accurate backtesting and AI agent access to vintage, unrevised data, as well as Brazilian financial primitives like PIX code generation and business day calculations.

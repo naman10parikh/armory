@@ -8,13 +8,13 @@ source_url: https://github.com/shvartzj1/jetkvm-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-07-10T20:46:13Z"
+forks: 5
+pushed_at: "2026-09-23T04:20:02Z"
 ---
 ## What it is
 MCP server that enables AI to see and control a physical computer via a JetKVM device for screen viewing, mouse/keyboard input, media mounting, and power management.

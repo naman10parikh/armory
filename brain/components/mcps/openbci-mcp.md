@@ -8,13 +8,13 @@ source_url: https://github.com/sandraschi/openbci-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T10:43:37Z"
+pushed_at: "2026-09-27T10:11:48Z"
 ---
 ## What it is
 MCP server for OpenBCI hardware via BrainFlow, enabling board connection, streaming, signal processing, and export with a web dashboard.

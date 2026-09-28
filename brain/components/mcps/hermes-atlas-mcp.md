@@ -8,12 +8,12 @@ source_url: https://github.com/ksimback/hermes-atlas-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-08-09T16:36:01Z"
 ---
 ## What it is

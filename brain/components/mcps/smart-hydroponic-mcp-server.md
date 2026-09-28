@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-04T02:32:55Z"
+pushed_at: "2026-09-05T15:05:15Z"
 ---
 ## What it is
 MCP server for querying hydroponic sensor data stored in PostgreSQL/TimescaleDB. Provides tools to list tables, describe schemas, read recent sensor readings, fetch latest data, and perform time-series aggregations via natural language.

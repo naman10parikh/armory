@@ -8,11 +8,11 @@ source_url: https://github.com/berrykuipers/mcp_services_radarr_sonarr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 26
+forks: 25
 pushed_at: "2025-10-25T12:31:01Z"
 ---
 ## What it is

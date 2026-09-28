@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:32:32Z"
+pushed_at: "2026-09-26T22:09:55Z"
 ---
 ## What it is
 Search and retrieve US federal job postings from USAJOBS.gov. Includes tools for finding announcements, agencies, pay grades, and occupational series.

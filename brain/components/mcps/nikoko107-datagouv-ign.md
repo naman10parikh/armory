@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-04T15:15:11Z"
+pushed_at: "2026-09-14T17:53:13Z"
 ---
 ## What it is
 MCP server `Data.gouv.fr & IGN`, catalogued on PulseMCP. Integrates with France's national open data portal and IGN geographic services to provide access to government datasets, administrative data, and official geographic references for location-aware applications and urban planning research.

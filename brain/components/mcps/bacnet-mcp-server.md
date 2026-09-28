@@ -8,13 +8,13 @@ source_url: https://github.com/ezhuk/bacnet-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-01T09:53:10Z"
+pushed_at: "2026-09-27T20:22:19Z"
 ---
 ## What it is
 A lightweight MCP server that connects LLM agents to BACnet devices for building automation, enabling real-time monitoring, actuation, and task orchestration.

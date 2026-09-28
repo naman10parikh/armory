@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-08-23T19:38:47Z"
+pushed_at: "2026-09-21T20:04:52Z"
 ---
 ## What it is
 MCP server `SwitchBot`, catalogued on PulseMCP. Integrates with SwitchBot devices to enable smart home automation, device control, and status monitoring using the SwitchBot API.

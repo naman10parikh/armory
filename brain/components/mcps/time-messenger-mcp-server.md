@@ -8,13 +8,13 @@ source_url: https://github.com/BarredEwe/time-messenger-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-06-30T13:50:19Z"
+pushed_at: "2026-09-08T12:46:57Z"
 ---
 ## What it is
 MCP server for T-Bank's Time Messenger (Mattermost-based) that enables AI assistants to read and send messages, manage threads, search channels and users, and track unread messages.

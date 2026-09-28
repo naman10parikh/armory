@@ -8,11 +8,11 @@ source_url: https://github.com/leonardsellem/n8n-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1637
+stars: 1632
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 293
+forks: 297
 pushed_at: "2025-07-09T21:05:08Z"
 ---
 ## What it is

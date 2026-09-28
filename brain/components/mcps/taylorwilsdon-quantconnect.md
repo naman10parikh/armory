@@ -8,11 +8,11 @@ source_url: https://github.com/taylorwilsdon/quantconnect-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 119
+stars: 120
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 31
+forks: 32
 pushed_at: "2025-08-24T17:16:26Z"
 ---
 ## What it is

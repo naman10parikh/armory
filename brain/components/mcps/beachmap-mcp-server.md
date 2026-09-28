@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-14T17:54:43Z"
+pushed_at: "2026-09-25T09:40:41Z"
 ---
 ## What it is
 Enables querying a curated database of 478 European beaches with filters such as country, sand type, Blue Flag status, sea temperature, and best months for swimming.

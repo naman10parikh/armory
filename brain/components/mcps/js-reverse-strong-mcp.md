@@ -8,12 +8,12 @@ source_url: https://github.com/lwjjike/JSReverser-Strong-MCP
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 68
+stars: 71
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
+forks: 16
 pushed_at: "2026-04-01T05:38:06Z"
 ---
 ## What it is

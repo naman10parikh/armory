@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T18:14:21Z"
+pushed_at: "2026-09-16T18:23:59Z"
 ---
 ## What it is
 32 MCP tools for job search, resume analysis, matching, alerts, and exports using public LinkedIn endpoints, with optional read-only browser intelligence.

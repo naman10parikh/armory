@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-14T10:17:21Z"
+pushed_at: "2026-09-10T17:51:34Z"
 ---
 ## What it is
 An AI-powered MCP server for personal and group expense management, providing CRUD operations, advanced filtering, analytics, Splitwise-style splitting, budget tracking, and report generation.

@@ -8,11 +8,11 @@ source_url: https://github.com/sdiehl/sympy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 85
+stars: 84
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 14
 pushed_at: "2026-03-18T10:29:13Z"
 ---
 ## What it is

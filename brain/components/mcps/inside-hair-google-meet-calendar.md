@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2025-08-29T12:11:30Z"
+pushed_at: "2026-09-02T07:57:45Z"
 ---
 ## What it is
 MCP server `Google Meet & Calendar`, catalogued on PulseMCP. Integrates with Google Meet and Calendar APIs to provide comprehensive meeting scheduling, calendar management, conference recording retrieval, and automated workspace coordination through 23+ validated tools with multiple authentication methods and advanced monitoring capabilities.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-25T19:48:44Z"
+pushed_at: "2026-09-11T03:36:35Z"
 ---
 ## What it is
 A CLI tool and MCP server that turns markdown documentation into a searchable, queryable knowledge base.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-19T17:10:58Z"
+pushed_at: "2026-09-12T18:53:09Z"
 ---
 ## What it is
 An MCP server providing geocoding, routing, isochrones, and POI-by-proximity search through self-hosted OpenStreetMap backends.

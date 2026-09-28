@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T02:06:47Z"
+pushed_at: "2026-09-10T08:40:33Z"
 ---
 ## What it is
 A local-first secrets vault for MCP clients that lets AI assistants use secrets by injecting them into child processes, without the plaintext ever entering the model's context.

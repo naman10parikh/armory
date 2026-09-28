@@ -8,11 +8,11 @@ source_url: https://github.com/ashev87/propstack-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-07-01T11:44:56Z"
 ---
 ## What it is

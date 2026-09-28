@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T08:32:26Z"
+pushed_at: "2026-09-22T17:05:21Z"
 ---
 ## What it is
 Enables capturing recent posts from LinkedIn profiles and company pages, including real reaction and comment counts and publicly visible commenters, without requiring a LinkedIn account, cookies, or credentials.

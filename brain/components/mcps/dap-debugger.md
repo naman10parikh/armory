@@ -8,12 +8,12 @@ source_url: https://github.com/go-delve/mcp-dap-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 100
+stars: 104
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
-pushed_at: "2026-07-23T00:01:35Z"
+forks: 18
+pushed_at: "2026-09-23T22:19:38Z"
 ---
 ## What it is
 MCP server `DAP Debugger`, catalogued on PulseMCP. Integrates with DAP-compatible debuggers like Delve to provide comprehensive debugging session management including breakpoints, execution control, state inspection, and expression evaluation for multiple programming languages.

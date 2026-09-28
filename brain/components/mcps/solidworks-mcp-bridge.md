@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T14:48:54Z"
+pushed_at: "2026-09-22T17:11:03Z"
 ---
 ## What it is
 MCP server that integrates local LLMs (via Ollama) with SolidWorks through its COM API, enabling read-only inspection of features, dimensions, equations, mass properties, and file exports. It supports models like Qwen3 and plans future expansion to editing and generation.

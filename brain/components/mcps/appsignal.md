@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-07-31T14:23:35Z"
+pushed_at: "2026-09-04T09:22:32Z"
 ---
 ## What it is
 MCP server `AppSignal`, catalogued on PulseMCP. Integrates with AppSignal's application performance monitoring platform through a proxy architecture that forwards requests to hosted API endpoints, enabling access to monitoring tools, error tracking, and system metrics for application health insights.

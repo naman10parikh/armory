@@ -8,13 +8,13 @@ source_url: https://github.com/olk/architecture-pattern-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T17:50:28Z"
+pushed_at: "2026-09-27T06:40:44Z"
 ---
 ## What it is
 Provides architecture design expertise to AI coding agents, analyzing requirements, selecting architecture patterns, generating concrete designs, and evaluating quality attributes.

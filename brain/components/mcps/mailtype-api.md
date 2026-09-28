@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T16:04:36Z"
+pushed_at: "2026-09-13T15:16:02Z"
 ---
 ## What it is
 MCP server for inspecting email domains and addresses, providing objective domain-level email infrastructure answers such as MX, SPF, DMARC, MTA-STS, and disposable-domain evidence.

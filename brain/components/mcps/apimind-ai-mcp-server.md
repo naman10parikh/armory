@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T05:27:34Z"
+pushed_at: "2026-09-18T07:17:35Z"
 ---
 ## What it is
 Enables natural language queries against uploaded OpenAPI/Swagger documentation via a hybrid RAG pipeline, providing grounded answers through MCP-compatible clients like VS Code Copilot.

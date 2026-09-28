@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T16:44:10Z"
+pushed_at: "2026-09-03T16:46:50Z"
 ---
 ## What it is
 Reference MCP server for the AudienceScore protocol: query a vendor's audience score (percent of verified thumbs-up over receipt-gated reviews) and get back a signed, recomputable score manifest an agent can verify without trusting the server.

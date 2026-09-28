@@ -8,13 +8,13 @@ source_url: https://github.com/slamsmart/Super-MCP-OCR-Deepseek
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-08-10T11:11:35Z"
+forks: 4
+pushed_at: "2026-09-06T17:44:01Z"
 ---
 ## What it is
 An MCP server that gives text-only LLMs like DeepSeek vision capabilities by OCRing images, PDFs, Office documents, and text files into pure text. It provides tools like read_document and ocr_image to enable file analysis.

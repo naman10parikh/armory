@@ -8,12 +8,12 @@ source_url: https://github.com/ryu0118/xcstrings-crud
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-31T01:58:48Z"
+pushed_at: "2026-09-25T02:12:07Z"
 ---
 ## What it is
 MCP server `XCStrings CRUD`, catalogued on PulseMCP. Manages Apple's xcstrings localization files with complete CRUD operations for key creation, translation updates, coverage statistics, and batch processing across multiple files for iOS/macOS internationalization workflows.

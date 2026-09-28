@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T08:00:16Z"
+pushed_at: "2026-09-15T01:43:32Z"
 ---
 ## What it is
 Zero-setup safety toolkit for AI coding agents with 16 built-in tools for context gathering, safe file editing, validation, and session memory. Features rollback, circuit breaker, sandbox, timeout, and dangerous pattern blocking — no config, no API key, no database required.

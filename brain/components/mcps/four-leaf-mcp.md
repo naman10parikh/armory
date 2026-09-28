@@ -8,13 +8,13 @@ source_url: https://github.com/fourleafai/clover-public
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-03T19:11:26Z"
+pushed_at: "2026-09-19T21:48:33Z"
 ---
 ## What it is
 Job search assistant and interview prep inside any ai tool via MCP or public skill. Every tool you'll need for your job search in one product.

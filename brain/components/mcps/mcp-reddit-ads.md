@@ -8,13 +8,13 @@ source_url: https://github.com/mharnett/mcp-reddit-ads
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-07-13T00:14:55Z"
+pushed_at: "2026-09-09T04:29:51Z"
 ---
 ## What it is
 MCP server for Reddit Ads API v3 enabling campaign management, ad creation, performance reporting, and audience targeting through Claude.

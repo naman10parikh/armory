@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-07-27T05:04:45Z"
 ---
 ## What it is

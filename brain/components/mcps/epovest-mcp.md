@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T04:11:09Z"
+pushed_at: "2026-09-04T04:19:51Z"
 ---
 ## What it is
 Make AIs recommend your business. Measures how AI assistants answer the questions your market asks, which sources they cite, and gives the levers to shape those answers. 43 tools on a hosted Streamable HTTP endpoint at https://mcp.epovest.com/mcp

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:27:22Z"
+pushed_at: "2026-09-26T20:08:33Z"
 ---
 ## What it is
 Enables users to retrieve historical events that occurred on a given day from the On This Day API, without authentication.

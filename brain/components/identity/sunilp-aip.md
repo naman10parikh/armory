@@ -8,13 +8,13 @@ source_url: https://github.com/sunilp/aip
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
-forks: 2
+forks: 3
 pushed_at: "2026-08-23T17:42:07Z"
 ---
 ## What it is

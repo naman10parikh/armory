@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-08-25T06:21:07Z"
+pushed_at: "2026-09-28T09:34:21Z"
 ---
 ## What it is
 MCP server `Surf`, catalogued on PulseMCP. Dynamically generated crypto data tools covering market prices, exchange feeds, wallet tracking, on-chain queries, social sentiment, and prediction markets via the Surf API.

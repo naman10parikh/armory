@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T00:28:58Z"
+pushed_at: "2026-09-10T16:42:09Z"
 ---
 ## What it is
 MCP server for querying OFIMA data replicated to Supabase, providing tools to list tables, describe schemas, query data, count rows, and run custom SQL.

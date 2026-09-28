@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T03:34:26Z"
+pushed_at: "2026-09-27T10:51:27Z"
 ---
 ## What it is
 MCP server for Swiss electricity data from three official sources — production mix, consumption forecast, storage-lake fill, consumer price index, tariffs per municipality, and dataset discovery. Zero authentication.

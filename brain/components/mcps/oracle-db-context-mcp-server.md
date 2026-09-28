@@ -8,12 +8,12 @@ source_url: https://github.com/danielmeppiel/oracle-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 131
+stars: 132
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 67
+forks: 68
 pushed_at: "2025-08-22T12:16:03Z"
 ---
 ## What it is

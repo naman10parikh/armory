@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2025-08-15T20:10:54Z"
+pushed_at: "2026-09-26T11:47:59Z"
 ---
 ## What it is
 MCP server to manage your Aranet4 CO2 sensor, enabling scanning, data fetching, historical querying, and plotting.

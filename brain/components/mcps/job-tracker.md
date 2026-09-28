@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T05:40:24Z"
+pushed_at: "2026-09-28T05:29:48Z"
 ---
 ## What it is
 Enables managing a job search through natural language: tracking applications, discovery leads, interview prep, and resume generation. Connects to Claude via MCP to read and update local Excel files and documents.

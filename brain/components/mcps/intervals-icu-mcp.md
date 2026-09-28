@@ -8,12 +8,12 @@ source_url: https://github.com/eddmann/intervals-icu-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 36
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 27
+forks: 28
 pushed_at: "2025-11-06T16:58:20Z"
 ---
 ## What it is

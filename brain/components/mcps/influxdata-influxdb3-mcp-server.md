@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
-stars: 36
+stars: 38
 forks: 14
-pushed_at: "2026-09-01T18:00:16Z"
+pushed_at: "2026-09-21T23:26:56Z"
 ---
 ## What it is
 Official MCP server for InfluxDB 3 Core/Enterprise/Cloud Dedicated

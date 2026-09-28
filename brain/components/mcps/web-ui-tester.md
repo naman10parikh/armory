@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T12:10:12Z"
+pushed_at: "2026-09-27T19:25:00Z"
 ---
 ## What it is
 Enables AI agents to rapidly drive and inspect real web pages through persistent browser sessions, using accessibility-tree snapshots and DevTools-grade diagnostics to identify and diagnose issues.

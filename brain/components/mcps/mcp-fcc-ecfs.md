@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:06:16Z"
+pushed_at: "2026-09-26T12:24:33Z"
 ---
 ## What it is
 MCP server for searching and retrieving FCC ECFS filings, dockets, and proceedings via the public API.

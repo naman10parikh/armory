@@ -8,13 +8,13 @@ source_url: https://github.com/LBurny/symkit-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-09T14:19:27Z"
+pushed_at: "2026-09-17T21:10:17Z"
 ---
 ## What it is
 MCP server for symbolic computation that enables AI agents to perform step-by-step derivations, transform formulas, and verify results with full provenance, combining natural language with formal mathematical operations.

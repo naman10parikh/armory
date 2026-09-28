@@ -8,13 +8,13 @@ source_url: https://github.com/RFingAdam/drawio-engineering-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-09-01T03:07:44Z"
+forks: 1
+pushed_at: "2026-09-10T04:40:58Z"
 ---
 ## What it is
 Enables AI agents to generate, view, and analyze engineering diagrams (RF, PCB, EMC) in draw.io using natural language prompts, with auto-layout and 269 engineering stencils.

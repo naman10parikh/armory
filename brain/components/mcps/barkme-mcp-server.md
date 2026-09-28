@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2025-09-05T07:02:41Z"
+pushed_at: "2026-09-02T05:56:35Z"
 ---
 ## What it is
 Enables sending iOS push notifications through the Bark service directly from Claude conversations. Supports device aliases, all Bark API parameters, and async delivery.

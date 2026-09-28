@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T20:03:30Z"
+pushed_at: "2026-09-13T07:58:56Z"
 ---
 ## What it is
 Enables users to manage OmniWatchGuard website monitors and alerts via natural language. Supports listing, creating, updating, pausing, resuming, and deleting monitors, plus reviewing recent notifications across channels.

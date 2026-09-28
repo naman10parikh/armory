@@ -8,11 +8,11 @@ source_url: https://github.com/jayarrowz/mcp-osrs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 22
+forks: 24
 pushed_at: "2026-06-08T11:35:11Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:15:12Z"
+pushed_at: "2026-09-25T00:19:48Z"
 ---
 ## What it is
 Validates IMEI numbers with Luhn check and computes the check digit; works offline without API keys.

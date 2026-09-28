@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T11:15:46Z"
+pushed_at: "2026-09-10T13:20:04Z"
 ---
 ## What it is
 Enables Codex to supervise long-running DeepSeek Harness sessions through MCP, providing tools for progress monitoring, handoffs, and artifact management while keeping the host independent.

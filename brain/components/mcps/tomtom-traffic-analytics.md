@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-21T09:45:32Z"
+pushed_at: "2026-09-11T01:15:44Z"
 ---
 ## What it is
 MCP server `TomTom Traffic Analytics`, catalogued on PulseMCP. Provides 8 tools for analyzing real-time and historical traffic patterns via TomTom's MOVE portal and Developer API.

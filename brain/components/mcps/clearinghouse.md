@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T19:28:14Z"
+pushed_at: "2026-09-04T17:06:00Z"
 ---
 ## What it is
 A single-auth MCP server that gives Claude unified access to deal intelligence from Salesforce, Slack, and Gong, enabling natural-language queries about deal status, activity, and pipeline health.

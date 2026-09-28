@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-04T10:59:53Z"
+pushed_at: "2026-09-26T07:31:29Z"
 ---
 ## What it is
 Enables searching OpenAleph entities and documents using natural language queries through the MCP protocol.

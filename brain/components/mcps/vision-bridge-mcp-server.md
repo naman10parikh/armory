@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T18:55:08Z"
+pushed_at: "2026-09-23T12:47:32Z"
 ---
 ## What it is
 Enables text-only LLMs to understand images by converting them into text descriptions, supporting multiple vision backends like cloud APIs, local models, and OCR engines.

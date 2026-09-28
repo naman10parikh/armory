@@ -8,11 +8,11 @@ source_url: https://github.com/octagonai/octagon-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 147
+stars: 148
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 23
+forks: 25
 pushed_at: "2026-07-09T19:52:51Z"
 ---
 ## What it is

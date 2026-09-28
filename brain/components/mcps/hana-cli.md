@@ -8,12 +8,12 @@ source_url: https://github.com/sap-samples/hana-developer-cli-tool-example
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 109
+stars: 113
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
-pushed_at: "2026-09-02T03:27:58Z"
+forks: 29
+pushed_at: "2026-09-17T19:07:45Z"
 ---
 ## What it is
 MCP server `SAP HANA CLI`, catalogued on PulseMCP. 150+ SAP HANA database tools for AI assistants via the HANA developer CLI.

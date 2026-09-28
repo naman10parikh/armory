@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: [ccometixline-claude-code-statusline, claude-powerline]
 tags: [claude-code, status-lines]
 stars: 36
-forks: 5
+forks: 6
 pushed_at: "2026-06-15T04:14:35Z"
 ---
 ## What it is

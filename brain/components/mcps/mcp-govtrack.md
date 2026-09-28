@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-02T17:41:57Z"
+pushed_at: "2026-09-13T06:37:20Z"
 ---
 ## What it is
 Provides tools to fetch US Congress data including bills, members, and vote details via GovTrack API, with no authentication required.

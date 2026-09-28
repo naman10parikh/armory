@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T11:09:51Z"
+pushed_at: "2026-09-16T12:51:53Z"
 ---
 ## What it is
 MCP server `Sequenzy`, catalogued on PulseMCP. Manage subscribers, campaigns, sequences, templates, and analytics for email marketing automation.

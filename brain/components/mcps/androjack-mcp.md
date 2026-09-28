@@ -8,13 +8,13 @@ source_url: https://github.com/VIKAS9793/AndroJack-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-02T03:04:22Z"
+forks: 3
+pushed_at: "2026-09-28T06:10:56Z"
 ---
 ## What it is
 Enables AI coding assistants to access up-to-date, official Android documentation and APIs, reducing hallucinations from stale training data.

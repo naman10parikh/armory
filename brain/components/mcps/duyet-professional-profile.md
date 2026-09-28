@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-23T13:13:54Z"
+pushed_at: "2026-09-28T02:21:12Z"
 ---
 ## What it is
 MCP server `Duyet Professional Profile`, catalogued on PulseMCP. Provides access to Duyet's professional information including CV, GitHub activity, and blog posts, with contact capabilities for collaboration and consulting inquiries.

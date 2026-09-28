@@ -8,12 +8,12 @@ source_url: https://github.com/tiagodanin/android-debug-bridge-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-01T19:34:40Z"
+pushed_at: "2026-09-03T17:44:04Z"
 ---
 ## What it is
 MCP server `Android Debug Bridge`, catalogued on PulseMCP. Integrates with Android devices through ADB commands to enable app management, UI interaction, screenshot capture, and automated testing workflows.

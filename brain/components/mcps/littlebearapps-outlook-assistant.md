@@ -8,12 +8,12 @@ source_url: https://github.com/littlebearapps/outlook-assistant
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
-pushed_at: "2026-08-03T12:25:16Z"
+forks: 17
+pushed_at: "2026-09-09T09:24:18Z"
 ---
 ## What it is
 MCP server `Outlook Assistant`, catalogued on PulseMCP. Microsoft Outlook integration with 20+ tools for email, calendar, contacts, and mailbox management via Graph API.

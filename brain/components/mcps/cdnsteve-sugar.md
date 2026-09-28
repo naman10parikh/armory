@@ -8,12 +8,12 @@ source_url: https://github.com/roboticforce/sugar
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 93
+stars: 95
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
-pushed_at: "2026-08-24T17:26:16Z"
+forks: 15
+pushed_at: "2026-09-16T18:09:03Z"
 ---
 ## What it is
 MCP server `Sugar`, catalogued on PulseMCP. Autonomous AI development system with persistent task queue and background execution.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T03:36:33Z"
+pushed_at: "2026-09-04T03:09:22Z"
 ---
 ## What it is
 Enables management of OpenWrt routers via SSH, providing tools for network configuration, system administration, file operations, and package management through natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T23:11:15Z"
+pushed_at: "2026-09-26T00:37:05Z"
 ---
 ## What it is
 An MCP server that enables human-in-the-loop elicitation, letting AI agents ask users questions via tools like elicit_confirm and elicit_form, with diagnostics to verify host elicitation support.

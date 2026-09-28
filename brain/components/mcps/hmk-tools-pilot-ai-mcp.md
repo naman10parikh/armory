@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T11:57:07Z"
+pushed_at: "2026-09-18T22:21:06Z"
 ---
 ## What it is
 Drive Autodesk Revit, AutoCAD & Civil 3D from Claude over MCP — 190+ real actions, runs locally.

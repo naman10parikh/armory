@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T10:52:08Z"
+pushed_at: "2026-09-06T05:59:53Z"
 ---
 ## What it is
 MCP server for searching and verifying academic journal PDFs. It uses Tavily search and Gemini Flash Lite to analyze PDF content and return structured JSON results.

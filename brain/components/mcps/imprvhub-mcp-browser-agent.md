@@ -13,7 +13,7 @@ related: []
 tags: [mcp, browser-automation]
 stars: 41
 forks: 14
-pushed_at: "2026-02-05T01:49:00Z"
+pushed_at: "2026-09-27T03:25:20Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) integration that provides Claude Desktop with autonomous browser automation capabilities.

@@ -8,12 +8,12 @@ source_url: https://github.com/d4vinci/scrapling
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 77802
+stars: 84248
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7814
-pushed_at: "2026-09-01T12:39:01Z"
+forks: 8613
+pushed_at: "2026-09-27T15:18:03Z"
 mentions: 1
 ---
 ## What it is

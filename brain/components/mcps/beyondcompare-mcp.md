@@ -8,13 +8,13 @@ source_url: https://github.com/danielsimonjr/beyondcompare-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T09:39:11Z"
+pushed_at: "2026-09-07T17:40:47Z"
 ---
 ## What it is
 Enables file comparison, folder diffing, 3-way merging, folder sync, and scripted automation through MCP.

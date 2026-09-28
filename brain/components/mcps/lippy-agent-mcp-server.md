@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T10:31:59Z"
+pushed_at: "2026-09-14T11:50:33Z"
 ---
 ## What it is
 Enables monitoring of website changes through contracts, with automatic extraction, semantic diffing, and healing, triggering alerts and actions via email, Slack, or Telegram.

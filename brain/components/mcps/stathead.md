@@ -8,13 +8,13 @@ source_url: https://github.com/dachhack/stathead
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T03:03:07Z"
+pushed_at: "2026-09-28T14:44:32Z"
 ---
 ## What it is
 An open NFL fantasy-football analytics platform that provides live data, machine-learned projections, dynasty values, and prospect grades via an MCP server for AI clients.

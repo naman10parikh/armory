@@ -8,13 +8,13 @@ source_url: https://github.com/vshulcz/deja-vu
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 755
+stars: 1078
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 60
-pushed_at: "2026-09-01T22:42:09Z"
+forks: 104
+pushed_at: "2026-09-28T12:05:36Z"
 ---
 ## What it is
 Indexes the session histories Claude Code, Codex CLI and opencode already write into a local searchable memory. MCP recall tools, session-start auto-recall, secret redaction at index time, cross-machine sync over SSH.

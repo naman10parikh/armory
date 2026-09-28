@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T12:20:47Z"
+pushed_at: "2026-09-27T11:28:23Z"
 ---
 ## What it is
 MCP server that lets AI assistants directly control the Xojo IDE on macOS, enabling code editing, project management, building, running, and documentation lookup through natural language.

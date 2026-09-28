@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T01:43:56Z"
+pushed_at: "2026-09-03T01:20:18Z"
 ---
 ## What it is
 MCP server that enforces critical business invariants on AI-generated code changes, providing deterministic, evidence-backed ALLOW/BLOCK decisions before patches are accepted.

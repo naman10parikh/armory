@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-26T20:27:51Z"
+pushed_at: "2026-09-05T18:47:43Z"
 ---
 ## What it is
 MCP server `Pythia Oracle`, catalogued on PulseMCP. Delivers on-chain technical indicators including EMA, RSI, Bollinger Bands, VWAP, and volatility for smart contracts and AI agents via Chainlink.

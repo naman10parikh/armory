@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-03T15:08:24Z"
+pushed_at: "2026-09-09T12:49:46Z"
 ---
 ## What it is
 A CLI tool that generates production-ready MCP servers from databases or OpenAPI specifications, with optional security shields.

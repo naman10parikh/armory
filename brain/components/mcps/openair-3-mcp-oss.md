@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T22:49:57Z"
+pushed_at: "2026-09-02T13:46:15Z"
 ---
 ## What it is
 MCP server wrapping the openair R package for air quality data analysis, enabling time series loading, statistical summaries, and publication-ready plots like polar and calendar plots.

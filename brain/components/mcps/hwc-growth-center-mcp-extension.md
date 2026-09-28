@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T09:32:24Z"
+pushed_at: "2026-09-04T14:02:47Z"
 ---
 ## What it is
 Enables daily check-in, points and task queries for Huawei Cloud Developer Growth Center via a Chrome extension and Node.js bridge.

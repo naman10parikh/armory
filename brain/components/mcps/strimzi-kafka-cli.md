@@ -8,12 +8,12 @@ source_url: https://github.com/SystemCraftsman/strimzi-kafka-cli
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 91
+stars: 92
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
+forks: 15
 pushed_at: "2026-08-13T15:43:13Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/Eshaan-Nair/ArcRift
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 245
+stars: 244
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 33
+forks: 35
 pushed_at: "2026-07-07T12:52:48Z"
 ---
 ## What it is

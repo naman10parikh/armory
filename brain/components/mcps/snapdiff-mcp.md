@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T01:40:17Z"
+pushed_at: "2026-09-11T07:54:07Z"
 ---
 ## What it is
 Intent-aware visual verification for coding agents: the agent declares what a UI change should affect, and SnapDiff diffs the page against a baseline and flags anything that changed outside that intent for review or rollback — local screenshot capture via Playwright.

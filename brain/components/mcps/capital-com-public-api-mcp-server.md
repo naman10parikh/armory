@@ -8,13 +8,13 @@ source_url: https://github.com/capital-com-sv/capital-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-05T13:51:44Z"
+pushed_at: "2026-09-22T07:40:04Z"
 ---
 ## What it is
 The Capital.com MCP Server lets your AI assistant talk to your trading account directly. Market data, position checks, trade previews – all in plain language, without leaving your AI tool.

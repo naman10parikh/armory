@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T03:28:44Z"
+pushed_at: "2026-09-27T16:28:47Z"
 ---
 ## What it is
 Enables AI chatbots to securely answer natural-language questions against Oracle databases by discovering metadata, generating and validating read-only SQL, executing with limits, masking sensitive data, and logging all activity.

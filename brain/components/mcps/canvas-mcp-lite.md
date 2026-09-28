@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T04:03:00Z"
+pushed_at: "2026-09-24T22:09:53Z"
 ---
 ## What it is
 Enables AI assistants to act as teaching assistants for Canvas LMS, allowing them to browse courses, read student submissions (including PDF/DOCX), grade with rubrics, post announcements, manage modules and pages, and more.

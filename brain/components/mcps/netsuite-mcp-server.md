@@ -8,12 +8,12 @@ source_url: https://github.com/dsvantien/netsuite-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2025-10-15T05:21:07Z"
 ---
 ## What it is

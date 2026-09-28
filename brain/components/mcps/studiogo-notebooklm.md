@@ -12,8 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-08-28T15:04:07Z"
+forks: 3
+pushed_at: "2026-09-19T02:35:29Z"
 ---
 ## What it is
 MCP server `NotebookLM Extended`, catalogued on PulseMCP. Fork of the NotebookLM MCP server with 12 additional tools, automatic cookie refresh, and compatibility fixes for notebooklm-py 0.3.4+.

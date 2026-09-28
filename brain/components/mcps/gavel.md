@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T20:13:44Z"
+pushed_at: "2026-09-14T20:06:52Z"
 ---
 ## What it is
 MCP server for gavel, a code-quality gate for Bazel monorepos. Exposes judge, findings, coverage and architecture tools so a coding agent can check its change against the quality gate (lint, coverage, layer rules) before declaring it done — all off the Bazel build graph, over just what changed.

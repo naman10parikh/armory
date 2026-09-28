@@ -8,13 +8,13 @@ source_url: https://github.com/tidewave-ai/tidewave_phoenix
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 847
+stars: 853
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 74
-pushed_at: "2026-08-30T17:06:16Z"
+pushed_at: "2026-09-23T17:14:48Z"
 ---
 ## What it is
 Better agentic Elixir Phoenix development, runtime-level tools for your agent to talk to your running app.

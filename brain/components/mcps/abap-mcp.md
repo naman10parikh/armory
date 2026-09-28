@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T18:32:47Z"
+pushed_at: "2026-09-28T10:23:49Z"
 ---
 ## What it is
 An offline MCP server for SAP ABAP that provides static analysis, ABAP Cloud readiness checks, and RAP scaffolding using abaplint, enabling AI agents to analyze and generate ABAP code without a live SAP system.

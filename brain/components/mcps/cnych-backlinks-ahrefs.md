@@ -8,11 +8,11 @@ source_url: https://github.com/cnych/seo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 257
+stars: 261
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 41
+forks: 42
 pushed_at: "2025-04-14T13:26:19Z"
 ---
 ## What it is

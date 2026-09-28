@@ -8,12 +8,12 @@ source_url: https://github.com/licinexus/licinexus-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 76
+stars: 78
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 38
-pushed_at: "2026-08-03T03:07:31Z"
+forks: 39
+pushed_at: "2026-09-08T07:59:14Z"
 ---
 ## What it is
 MCP server `Brazilian Public Procurement`, catalogued on PulseMCP. Brazilian public procurement MCP providing access to PNCP tenders, contracts, and CNPJ company data.

@@ -8,7 +8,7 @@ source_url: https://github.com/steelmorgan/spring-mcp-1c-copilot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

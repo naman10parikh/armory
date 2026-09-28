@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T14:21:48Z"
+pushed_at: "2026-09-16T12:53:22Z"
 ---
 ## What it is
 Governed Docker + Portainer container-host operations (non-Kubernetes) — restart-loop, resource-pressure, and image/volume-bloat RCA, with guarded lifecycle writes, unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.

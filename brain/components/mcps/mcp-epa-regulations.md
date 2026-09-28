@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:04:31Z"
+pushed_at: "2026-09-24T23:34:28Z"
 ---
 ## What it is
 This MCP server provides access to US Environmental Protection Agency regulations (40 CFR), enabling AI agents to query and retrieve regulatory data through natural language.

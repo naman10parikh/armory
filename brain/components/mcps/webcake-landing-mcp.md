@@ -8,13 +8,13 @@ source_url: https://github.com/vuluu2k/webcake-landing-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T03:59:33Z"
+pushed_at: "2026-09-17T13:16:35Z"
 ---
 ## What it is
 Bridges AI assistants to WebCake, enabling users to build, validate, and save editable landing pages from natural language descriptions.

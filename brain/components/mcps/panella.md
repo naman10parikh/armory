@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T18:03:34Z"
+pushed_at: "2026-09-13T18:03:25Z"
 ---
 ## What it is
 Governed, self-hosted memory for AI agents: writes queue until an authorized approver signs off.

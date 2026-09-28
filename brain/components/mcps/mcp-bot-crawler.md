@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T15:57:47Z"
+pushed_at: "2026-09-28T11:12:21Z"
 ---
 ## What it is
 Discovers, identifies, and governs bots on your website with MCP tools for scanning, analyzing, and managing bot traffic.

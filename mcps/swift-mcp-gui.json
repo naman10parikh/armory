@@ -1,0 +1,7 @@
+{
+  "name": "swift-mcp-gui",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/swift-mcp-gui",
+  "install": "# git clone --depth 1 https://mcp.so/server/swift-mcp-gui\n# See source for mcpServers config block"
+}

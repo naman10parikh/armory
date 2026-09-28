@@ -8,11 +8,11 @@ source_url: https://github.com/burtthecoder/mcp-maigret
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 260
+stars: 264
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 35
+forks: 37
 pushed_at: "2026-01-27T03:36:32Z"
 ---
 ## What it is

@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, e-commerce]
-stars: 20
+stars: 21
 forks: 6
 pushed_at: "2026-04-17T13:43:23Z"
 ---

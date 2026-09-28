@@ -8,13 +8,13 @@ source_url: https://github.com/alex-jordan547/renforge-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-27T13:55:19Z"
+pushed_at: "2026-09-13T15:35:46Z"
 ---
 ## What it is
 An MCP server for Ren'Py project tooling that enables AI agents to inspect game state, evaluate expressions, read/write variables, and capture screenshots from running Ren'Py games.

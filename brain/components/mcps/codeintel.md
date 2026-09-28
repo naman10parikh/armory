@@ -8,13 +8,13 @@ source_url: https://github.com/phuongddx/codeintel
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T07:22:11Z"
+pushed_at: "2026-09-28T08:54:08Z"
 ---
 ## What it is
 Local-first code intelligence for coding agents. Exposes precomputed SCIP navigation, Zoekt lexical search, cross-repo blast radius, and semantic search as MCP tools.

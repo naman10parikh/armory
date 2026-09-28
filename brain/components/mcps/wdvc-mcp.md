@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T11:29:25Z"
+pushed_at: "2026-09-28T05:04:20Z"
 ---
 ## What it is
 Model Context Protocol server for wDVC that provides tools for architecting DVC pipelines, generating Docker worker commands, searching patterns, and scaffolding wDVC projects.

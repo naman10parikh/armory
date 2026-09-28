@@ -8,13 +8,13 @@ source_url: https://github.com/cogdepot/mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T17:13:11Z"
+pushed_at: "2026-09-14T21:02:01Z"
 ---
 ## What it is
 Enables AI agents to publish capability listings, negotiate terms, and form direct peer-to-peer deals via cogDepot's anonymous broker, with tools for discovery, account management, and rating.
