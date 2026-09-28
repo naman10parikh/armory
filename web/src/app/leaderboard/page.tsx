@@ -6,7 +6,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { BoardTable } from "@/components/board-table";
 import { ContentWidth } from "@/components/data-table";
-import { CliNote, HarnessSelector } from "@/components/install-snippet";
+import { Info } from "@/components/info-mark";
+import { CliNote } from "@/components/install-snippet";
 import { LinkChipGroup, type ChipLink } from "@/components/link-chips";
 import { stackFor } from "@/lib/canon";
 import { int } from "@/lib/format";
@@ -125,13 +126,13 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
     <div>
       <section className="border-b border-line-subtle">
         <ContentWidth className="pb-6 pt-10">
-          <h1 className="text-[27px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">Leaderboard</h1>
-          <p className="mt-3 text-[16px] leading-normal text-ink-body">
-            Scored on public signals; components with none are listed as Unranked ·{" "}
-            <Link href="/formula" className="cursor-pointer font-medium text-accent-hover underline underline-offset-4">
-              Formula
-            </Link>
-          </p>
+          {/* The page's one explanation sits on its title (CP147); Formula is in the nav. */}
+          <div className="flex items-center gap-2">
+            <h1 className="text-[27px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">Leaderboard</h1>
+            <Info id="info-leaderboard" label="About the Leaderboard">
+              Every listed component, scored on public signals. A component with none is listed as Unranked.
+            </Info>
+          </div>
         </ContentWidth>
       </section>
 
@@ -173,17 +174,16 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
               <a href={csv} className={BUTTON}>
                 Export
               </a>
-              <HarnessSelector className="lg:hidden" />
               <CliNote />
               <span className="ml-auto text-ink-muted">
                 <data value={String(total)} className="font-semibold text-ink-hi">
                   {int(total)}
                 </data>{" "}
-                results
+                Results
                 {filtered && (
                   <>
                     {" "}
-                    · <data value={String(meta.total)}>{int(meta.total)}</data> in the catalog
+                    · <data value={String(meta.total)}>{int(meta.total)}</data> Total
                   </>
                 )}
               </span>
@@ -193,16 +193,15 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
           {/* infra, cli and workflow list only the rows made for their job (lib/rank.mjs SHELF_FIT). */}
           {fit && fit.left_out > 0 && (
             <p className="mt-3 text-[12.5px] text-ink-muted">
-              Lists only rows made to {fit.purpose}: <data value={String(total)}>{int(total)}</data> of the{" "}
+              Only rows made to {fit.purpose}: <data value={String(total)}>{int(total)}</data> of{" "}
               <data value={String(fit.filed)}>{int(fit.filed)}</data> filed under{" "}
-              <span className="font-sans text-ink-body">{(fit.shelf && stackFor(fit.shelf)?.label) || v.component}</span>.{" "}
+              <span className="font-sans text-ink-body">{(fit.shelf && stackFor(fit.shelf)?.label) || v.component}</span> ·{" "}
               <Link
                 href={hrefFor(v, { component: "", page: 1 })}
                 className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"
               >
-                All
-              </Link>{" "}
-              includes the rest.
+                Show all
+              </Link>
             </p>
           )}
 
@@ -244,9 +243,6 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
                 Next
               </Link>
             )}
-            <span className="ml-auto">
-              Rows with the same score share a rank, and are listed by how many signals agree, then the most recent commit and stars.
-            </span>
           </nav>
         </ContentWidth>
       </section>

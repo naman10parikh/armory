@@ -20,6 +20,7 @@ import {
   type Worked,
 } from "@/components/score-explainer";
 import { clampWords } from "@/components/data-table";
+import { Info } from "@/components/info-mark";
 import { signalWords } from "@/components/signals-row";
 
 export const runtime = "nodejs";
@@ -115,7 +116,7 @@ function work(r: Row, tier: string): Worked {
   const mark = (s: Signal) => (s === base ? "  ← strongest" : s === second ? "  ← second" : "  (not used: weaker than both)");
   const parts = held.map((s) => `${signalWords(s, r.signals[s] as number)} → p${pct[s]}${mark(s)}`).join("\n");
   // others = the second-strongest percentile; a weaker third signal is not used, so it cannot cost points
-  const othersMath = second ? `${B.others} × ${pct[second]}` : `${B.others} × 0 (nothing else to corroborate)`;
+  const othersMath = second ? `${B.others} × ${pct[second]}` : `${B.others} × 0 (no second signal)`;
   return {
     name: r.title || r.name,
     desc: clampWords(r.desc, 90),
@@ -151,14 +152,14 @@ export default function FormulaPage() {
     return hit ? { raw: n(hit.signals.stars as number), pct: hit.scores.popular ?? 0, note } : null;
   };
   const medianRung: Rung | null = median
-    ? { raw: n(median.signals.stars as number), pct: median.scores.popular ?? 0, note: "the median repo: half of everything with stars sits below here" }
+    ? { raw: n(median.signals.stars as number), pct: median.scores.popular ?? 0, note: "Median repository" }
     : null;
   const rungs = [
     rungAt(1),
     medianRung,
     rungAt(100),
     rungAt(5000),
-    rungAt(100000, "the top is compressed on purpose: 5,000 → 100,000 stars moves you about one point"),
+    rungAt(100000, "Top compressed: 5,000 to 100,000 stars is about 1 point"),
   ].filter((x): x is Rung => x !== null);
 
   // ── the head-to-head: most stars in the catalog vs the highest score ───────────────────────
@@ -176,7 +177,7 @@ export default function FormulaPage() {
   const examples: Worked[] = [
     threeSignal ? work(threeSignal, `${threeSignal.scores.evidence} Signals`) : null,
     twoSignal ? work(twoSignal, "2 Signals") : null,
-    loudest ? work(loudest, "1 Signal · Most-Starred Single-Signal Row") : null,
+    loudest ? work(loudest, "1 Signal · Most Stars") : null,
     mostUsed ? work(mostUsed, "Registry Listing") : null,
     median ? work(median, "Median") : null,
     failed ? work(failed, "Tested · Failed") : null,
@@ -201,8 +202,9 @@ export default function FormulaPage() {
   );
 
   return (
-    <main style={{ maxWidth: 1240, margin: "0 auto", padding: "96px 24px 96px" }}>
-      <h1 style={{ fontFamily: "var(--font-display), Georgia, serif", fontSize: 46, lineHeight: 1.04, color: "var(--text-hi)", letterSpacing: "-0.02em", margin: "0 0 10px" }}>
+    <main style={{ maxWidth: 1240, margin: "0 auto", padding: "40px 24px 96px" }}>
+      {/* One title size across the site (CP147): 27px, as on every other page. */}
+      <h1 style={{ fontFamily: "var(--font-display), Georgia, serif", fontSize: 27, fontWeight: 600, lineHeight: 1.15, color: "var(--text-hi)", letterSpacing: "-0.01em", margin: "0 0 10px" }}>
         Formula
       </h1>
       <p style={{ color: "var(--text-muted)", fontSize: 16, margin: "0 0 56px" }}>
@@ -212,7 +214,8 @@ export default function FormulaPage() {
       <Section
         n="01"
         title="Signals"
-        lead={`${cards.length} exist today. A tool is scored on whichever ones it has: nothing is taken off for a missing signal or a recorded zero, though the last ${Math.round(100 * B.others)} points need a second signal (see Confidence). The strongest number a tool holds is always the one it leads with; the weight only decides which leads when two rank the same.`}
+        lead={`${cards.length} signals. A component is scored on the ones it holds; a missing signal or a recorded zero costs nothing.`}
+        info={`The last ${Math.round(100 * B.others)} points need a second signal (Confidence). A signal's weight only decides which one leads when two rank the same.`}
       >
         <Signals cards={cards} />
       </Section>
@@ -220,7 +223,8 @@ export default function FormulaPage() {
       <Section
         n="02"
         title="Percentiles"
-        lead={`Each number is swapped for its place among things measured the same way: a repo's stars against other repos' stars, a registry's installs against other registries'. A kind with fewer than ${MIN_POOL} measured things is too small to rank within, so those are ranked against every kind. Listed twice on the same link? It counts once. On this page, p90 means the 90th percentile: higher than 90% of its kind.`}
+        lead="Each number becomes its percentile within its own kind: stars against stars, installs against installs. p90 means higher than 90% of its kind."
+        info={`A kind with fewer than ${MIN_POOL} measured rows is ranked against every kind. A link listed twice counts once.`}
       >
         <Ladder rungs={rungs} unit="stars" />
       </Section>
@@ -229,7 +233,8 @@ export default function FormulaPage() {
         <Section
           n="03"
           title="Confidence"
-          lead={`One signal can be luck, a launch, or marketing. Several sources agreeing is stronger evidence than one. So we take your strongest number as ${B.base} of the score, and your second strongest adds the last ${B.others}. With one signal the most you can reach is ${Math.round(100 * B.base)}. A third counts only when it beats one of those two, so earning more evidence is never punished.`}
+          lead={`Score = ${B.base} × the strongest percentile + ${B.others} × the second strongest. One signal caps a score at ${Math.round(100 * B.base)}.`}
+          info="One signal can be luck, a launch or marketing; agreeing sources are stronger evidence. A third signal counts only when it beats one of the two, so more evidence never lowers a score."
         >
           <HeadToHead
             left={{
@@ -255,7 +260,8 @@ export default function FormulaPage() {
       <Section
         n="04"
         title="Worked Examples"
-        lead={`${B.base} × the best rank a tool holds, plus ${B.others} × its second best, cut to one decimal at the end and never rounded up, so only a perfect row shows 100.0. Ranked tables print three decimals from the full score, or four when three would make two different scores look alike, and rows with the same full score share a rank. These sums use the same numbers as the score.`}
+        lead="Real rows. Each sum uses the engine's own numbers."
+        info="The score is cut to one decimal, never rounded up, so only a perfect row shows 100.0. Ranked tables print three decimals, or four when three would make two scores look alike; equal scores share a rank."
       >
         <WorkedTable rows={examples} />
       </Section>
@@ -263,38 +269,39 @@ export default function FormulaPage() {
       <Section
         n="05"
         title="Coverage"
-        lead={`The ${n(blank.length)} blank rows point at ${n(repos.size)} different GitHub repositories, and we asked GitHub about every one; some repositories are listed in more than one row. Most have nothing to measure yet. The counts below are rows.`}
+        lead={`${n(blank.length)} unranked rows across ${n(repos.size)} GitHub repositories, each checked on GitHub.`}
+        info="A repository can appear in more than one row, so the counts below are rows. Most have nothing to measure yet."
       >
         <Coverage
           ranked={ranked.length}
           total={total}
           buckets={[
-            { rows: root.length, label: "Rows for a repository with zero stars: nothing to score yet", fix: "Needs a first star", fixable: false },
-            { rows: inside.length, label: "Files inside a repository: the parent's stars are not counted for the file", fix: "Needs its own signal", fixable: true },
-            { rows: elsewhere.length, label: "Listed on a registry that publishes its own install counts", fix: "Pending registry fetch", fixable: true },
-            { rows: nowhere.length, label: "Nowhere to look: nothing published anywhere", fix: nowhere.length ? "genuinely unrankable" : "None", fixable: false },
+            { rows: root.length, label: "Repository with 0 stars", fix: "Needs a first star", fixable: false },
+            { rows: inside.length, label: "File inside a repository (the parent's stars are not counted)", fix: "Needs its own signal", fixable: true },
+            { rows: elsewhere.length, label: "Registry listing with install counts", fix: "Pending registry fetch", fixable: true },
+            { rows: nowhere.length, label: "No public source", fix: nowhere.length ? "Unrankable" : "None", fixable: false },
           ]}
         />
-        <p style={{ color: "var(--text-muted)", fontSize: 13, marginTop: 18 }}>
-          Separately: we record when a repo was last pushed to, and flag anything untouched for two
-          years as <strong style={{ color: "var(--accent-hover)" }}>Stale</strong>. It is a warning
-          label, never a term in the score. Being freshly pushed proves a tool is alive, not that
-          anyone uses it, and a brand-new repo nobody has starred must not outrank a maintained one.
-          It breaks ties. Rows are ordered by the full score, then by how many signals
-          back it, then by the latest commit, then by stars, then by name, so among tools on the same
-          score the ones still being worked on come first.{" "}
-          {dated
-            ? `We hold a push date for ${n(dated)} rows; ${n(stale)} of them are stale.`
-            : "The push-date backfill has not run yet, so nothing is flagged."}
+        {/* Stale and the tie order, as labels; the reasoning is behind the mark (CP147). */}
+        <p style={{ color: "var(--text-muted)", fontSize: 13, marginTop: 18, display: "flex", flexWrap: "wrap", alignItems: "center", gap: 6 }}>
+          <span>
+            <strong style={{ color: "var(--accent-hover)" }}>Stale</strong>: no commit in 2 years · a label, never a
+            score term ·{" "}
+            {dated ? `${n(stale)} of ${n(dated)} dated rows` : "no push dates yet"}
+          </span>
+          <Info id="info-formula-stale" label="About Stale and ties">
+            A fresh commit shows a tool is alive, not that anyone uses it, so it adds no points. It breaks ties:
+            score before rounding, then signals, latest commit, stars and name.
+          </Info>
         </p>
       </Section>
 
-      <Section n="06" title="API" lead="The same ranked JSON, three ways in.">
+      <Section n="06" title="API" lead="REST, CLI and MCP return the same ranked JSON.">
         <div style={{ display: "grid", gap: 12, gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))" }}>
           {(
             [
               ["REST", "GET /api/rank?component=mcp&vertical=finance\nGET /api/search?q=browser+automation"],
-              ["CLI", 'Not on npm yet · build from cli/ in the repository, then:\narmory rank --domain payments\narmory search "oauth"'],
+              ["CLI", 'Not on npm · build from cli/, then:\narmory rank --domain payments\narmory search "oauth"'],
               ["MCP", "rank_components · search_catalog"],
             ] as const
           ).map(([label, code]) => (
@@ -309,11 +316,11 @@ export default function FormulaPage() {
           ))}
         </div>
         <p style={{ color: "var(--text-muted)", fontSize: 13, marginTop: 18 }}>
-          Weights are versioned in the repository (
+          Weights:{" "}
           <a href={`${REPO}/blob/main/lib/rank.mjs`} target="_blank" rel="noreferrer noopener" className="cursor-pointer text-accent-hover underline underline-offset-4">
             lib/rank.mjs
-          </a>
-          ) ·{" "}
+          </a>{" "}
+          ·{" "}
           <a href={`${REPO}/issues/new`} target="_blank" rel="noreferrer noopener" className="cursor-pointer text-accent-hover underline underline-offset-4">
             Open Issue
           </a>

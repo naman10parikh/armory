@@ -32,10 +32,7 @@ export default function Identity() {
 
   return (
     <ContentWidth className="pb-24 pt-8">
-      <h1 className="text-[32px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">Channels</h1>
-      <p className="mt-2 max-w-[64ch] text-[16px] leading-[1.5] text-ink-body">
-        Three channels, one ranked catalog search
-      </p>
+      <h1 className="text-[27px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">Channels</h1>
 
       <section className="mt-8">
         <DataTable label="Channels" minWidthClass="min-w-[640px]" className="card-table">
@@ -43,7 +40,7 @@ export default function Identity() {
             <tr>
               <Th className="w-[160px]">Channel</Th>
               <Th className="w-[300px]">Address</Th>
-              <Th>What Happens</Th>
+              <Th>Reply</Th>
             </tr>
           </thead>
           <tbody>
@@ -52,14 +49,14 @@ export default function Identity() {
               <Td label="Address" className={email ? "font-sans text-[12px] text-ink-body" : "text-ink-faint"}>
                 {email || NOT_CONFIGURED}
               </Td>
-              <Td label="What Happens" className="text-ink-muted">Subject and body ranked · reply with 5 picks</Td>
+              <Td label="Reply" className="text-ink-muted">5 ranked picks, from subject and body</Td>
             </Tr>
             <Tr>
               <Td className="font-medium text-ink-hi">SMS / WhatsApp</Td>
               <Td label="Address" className={phone ? "font-sans text-[12px] text-ink-body" : "text-ink-faint"}>
                 {phone || NOT_CONFIGURED}
               </Td>
-              <Td label="What Happens" className="text-ink-muted">Message ranked · reply with 3 picks</Td>
+              <Td label="Reply" className="text-ink-muted">3 ranked picks, from the message</Td>
             </Tr>
             <Tr>
               <Td className="font-medium text-ink-hi">Web</Td>
@@ -71,14 +68,14 @@ export default function Identity() {
                   /ask
                 </a>
               </Td>
-              <Td label="What Happens" className="text-ink-muted">Query ranked · 12 picks with signals and install</Td>
+              <Td label="Reply" className="text-ink-muted">12 ranked picks, with signals and install</Td>
             </Tr>
           </tbody>
         </DataTable>
       </section>
 
       <section className="mt-12">
-        <h2 className="text-[22px] font-semibold leading-[1.2] tracking-[-0.01em] text-ink-hi">
+        <h2 className="text-[19px] font-semibold leading-[1.2] tracking-[-0.01em] text-ink-hi">
           Webhook Endpoints
         </h2>
         <ul className="mt-4 flex list-none flex-col gap-2 p-0">
