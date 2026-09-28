@@ -1,0 +1,7 @@
+{
+  "name": "robloxmcp",
+  "description": "Enables AI assistants to control Roblox clients through a WebSocket connection, allowing execution of Lua scripts, game state inspection, and player manipulation.",
+  "source_repo": "ItzSkieHacker/RobloxMCP",
+  "source_url": "https://github.com/ItzSkieHacker/RobloxMCP",
+  "install": "# git clone --depth 1 https://github.com/ItzSkieHacker/RobloxMCP\n# See source for mcpServers config block"
+}

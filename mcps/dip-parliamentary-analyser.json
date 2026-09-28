@@ -1,0 +1,7 @@
+{
+  "name": "dip-parliamentary-analyser",
+  "description": "Analyzes German Bundestag parliamentary group membership distribution via the DIP API and exposes analysis through MCP tools for natural language interaction.",
+  "source_repo": "Indrasena-reddy/DIP-mcp",
+  "source_url": "https://github.com/Indrasena-reddy/DIP-mcp",
+  "install": "npx -y DIP-mcp"
+}

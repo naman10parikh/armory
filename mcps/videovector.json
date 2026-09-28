@@ -1,0 +1,7 @@
+{
+  "name": "videovector",
+  "description": "Enables MCP clients to search, inspect, and operate VideoVector media intelligence workflows, including semantic/multimodal search, prompt management, and data operations via the public VideoVector API.",
+  "source_repo": "VectorMethods/videovector-mcp-server",
+  "source_url": "https://github.com/VectorMethods/videovector-mcp-server",
+  "install": "npx -y videovector-mcp-server"
+}

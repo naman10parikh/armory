@@ -1,0 +1,7 @@
+{
+  "name": "substance-painter-mcp",
+  "description": "Enables conversational control of Adobe Substance 3D Painter for look-dev iteration, including baking, smart materials, and generator parameter tuning.",
+  "source_repo": "jwang47/substance-painter-mcp",
+  "source_url": "https://github.com/jwang47/substance-painter-mcp",
+  "install": "npx -y substance-painter-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apiany-mcp-server",
+  "description": "Provides tools for discovering AI models, checking pricing, retrieving API documentation context, and generating integration examples; also supports paid async image/video tasks.",
+  "source_repo": "ailingqu/ApiAny.AI-MCP",
+  "source_url": "https://github.com/ailingqu/ApiAny.AI-MCP",
+  "install": "npx -y ApiAny.AI-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wiztree-mcp",
+  "description": "Read-only MCP server that wraps WizTree's CSV export and adds disk-usage analysis tools, enabling file system scanning and analysis via natural language.",
+  "source_repo": "onmokoworks/wiztree-mcp",
+  "source_url": "https://github.com/onmokoworks/wiztree-mcp",
+  "install": "npx -y wiztree-mcp"
+}

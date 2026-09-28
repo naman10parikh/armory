@@ -1,0 +1,7 @@
+{
+  "name": "pdfops-mcp",
+  "description": "AI agents can inspect, fill, merge PDFs, and generate invoices deterministically using local file paths, without PDF bytes passing through the model context.",
+  "source_repo": "pdfops/pdfops-mcp",
+  "source_url": "https://github.com/pdfops/pdfops-mcp",
+  "install": "npx -y pdfops-mcp"
+}

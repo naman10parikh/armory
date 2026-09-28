@@ -1,0 +1,7 @@
+{
+  "name": "unyly-gateway",
+  "description": "One connector for the whole MCP catalog — 15,000+ servers plus your team's private MCPs — callable from Claude, ChatGPT, Cursor and VS Code through a single OAuth endpoint. No per-server install.",
+  "source_repo": "FasadSalatov/unyly-gateway",
+  "source_url": "https://github.com/FasadSalatov/unyly-gateway",
+  "install": "# git clone --depth 1 https://github.com/FasadSalatov/unyly-gateway\n# See source for mcpServers config block"
+}

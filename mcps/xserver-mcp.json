@@ -1,0 +1,7 @@
+{
+  "name": "xserver-mcp",
+  "description": "Read-only MCP server for XServer API, enabling Claude to check server status like disk usage, domains, mail, and cron via natural language.",
+  "source_repo": "masp047/Xserver_MCP",
+  "source_url": "https://github.com/masp047/Xserver_MCP",
+  "install": "npx -y Xserver_MCP"
+}

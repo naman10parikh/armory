@@ -1,0 +1,7 @@
+{
+  "name": "life-assistant-mcp-server",
+  "description": "Provides weather queries for major Chinese cities, hot news and news search, and text processing tools using free public APIs.",
+  "source_repo": "kkmmtt0919/life-assistant-mcp-server",
+  "source_url": "https://github.com/kkmmtt0919/life-assistant-mcp-server",
+  "install": "npx -y life-assistant-mcp-server"
+}

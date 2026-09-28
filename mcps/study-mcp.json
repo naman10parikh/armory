@@ -1,0 +1,7 @@
+{
+  "name": "study-mcp",
+  "description": "Converts study materials like PDFs, slides, and DOCX into a searchable vector database with semantic search, summarization, and flashcard generation, integrated with Notion.",
+  "source_repo": "italoo97/study-mcp",
+  "source_url": "https://github.com/italoo97/study-mcp",
+  "install": "npx -y study-mcp"
+}

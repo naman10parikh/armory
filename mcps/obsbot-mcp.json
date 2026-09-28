@@ -1,0 +1,7 @@
+{
+  "name": "obsbot-mcp",
+  "description": "Controls an OBSBOT Tiny 2 camera gimbal, zoom, and wake/sleep over UVC/USB without any vendor SDK.",
+  "source_repo": "lxman/obsbot-mcp",
+  "source_url": "https://github.com/lxman/obsbot-mcp",
+  "install": "npx -y obsbot-mcp"
+}

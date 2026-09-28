@@ -1,0 +1,7 @@
+{
+  "name": "pet-tools-mcp",
+  "description": "Enables AI agents to code and debug Commodore PET software using the VICE emulator, with CLI and MCP tools for session control, screen reading, memory manipulation, and testing.",
+  "source_repo": "nschneir/PET-Project",
+  "source_url": "https://github.com/nschneir/PET-Project",
+  "install": "# git clone --depth 1 https://github.com/nschneir/PET-Project\n# See source for mcpServers config block"
+}

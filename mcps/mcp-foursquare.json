@@ -1,0 +1,7 @@
+{
+  "name": "mcp-foursquare",
+  "description": "Enables place search and discovery via the Foursquare Places API v3, allowing AI assistants to find venues, search near locations, look up place details, and get location context.",
+  "source_repo": "McCullonas/mcp-foursquare",
+  "source_url": "https://github.com/McCullonas/mcp-foursquare",
+  "install": "# git clone --depth 1 https://github.com/McCullonas/mcp-foursquare\n# See source for mcpServers config block"
+}

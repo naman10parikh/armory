@@ -1,0 +1,7 @@
+{
+  "name": "scantobill-mcp-server",
+  "description": "MCP server for ScanToBill, an AI-powered OCR platform that extracts structured JSON from invoices and business documents in Arabic and English. It enables Claude Desktop to extract invoice data from URLs, list past extractions, and retrieve detailed results.",
+  "source_repo": "nooot77/scantobill-mcp-server",
+  "source_url": "https://github.com/nooot77/scantobill-mcp-server",
+  "install": "npx -y scantobill-mcp-server"
+}

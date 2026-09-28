@@ -1,0 +1,7 @@
+{
+  "name": "quiz-app-mcp-server",
+  "description": "A Python MCP server built with FastMCP that exposes tools for a quiz app, optionally backed by a MySQL database.",
+  "source_repo": "sathvik1607/Quiz_mcp_server",
+  "source_url": "https://github.com/sathvik1607/Quiz_mcp_server",
+  "install": "npx -y Quiz_mcp_server"
+}

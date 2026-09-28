@@ -1,0 +1,7 @@
+{
+  "name": "s-gw-mcp-server",
+  "description": "A local stdio MCP server that enables coding agents to discover credential handles and create scoped action requests with local approval and sanitized output.",
+  "source_repo": "sgateway/s-gw",
+  "source_url": "https://github.com/sgateway/s-gw",
+  "install": "# git clone --depth 1 https://github.com/sgateway/s-gw\n# See source for mcpServers config block"
+}

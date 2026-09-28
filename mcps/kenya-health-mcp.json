@@ -1,0 +1,7 @@
+{
+  "name": "kenya-health-mcp",
+  "description": "MCP server for Kenya health facility and epidemiological data via KHIS/DHIS2.",
+  "source_repo": "gabrielmahia/kenya-health-mcp",
+  "source_url": "https://github.com/gabrielmahia/kenya-health-mcp",
+  "install": "npx -y kenya-health-mcp"
+}

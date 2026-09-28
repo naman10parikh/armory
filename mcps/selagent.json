@@ -1,0 +1,7 @@
+{
+  "name": "selagent",
+  "description": "A Selenium-based MCP server that exposes browser automation tools for navigation, interaction, form filling, and assertions, enabling AI agents to control web browsers through natural language.",
+  "source_repo": "akshay-rajan/selagent",
+  "source_url": "https://github.com/akshay-rajan/selagent",
+  "install": "# git clone --depth 1 https://github.com/akshay-rajan/selagent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crawl4ai-mcp-server",
+  "description": "Self-hosted MCP server that provides web scraping and crawling tools, integrating seamlessly with AI frameworks like OpenAI Agents SDK, Cursor, and Claude Code.",
+  "source_repo": "amienbou121/crawl4ai-mcp-server",
+  "source_url": "https://github.com/amienbou121/crawl4ai-mcp-server",
+  "install": "npx -y crawl4ai-mcp-server"
+}

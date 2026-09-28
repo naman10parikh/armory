@@ -1,0 +1,7 @@
+{
+  "name": "mcp-plotting-server",
+  "description": "A FastMCP server that turns JSON data into Plotly figures, deployable as an isolated service on Modal. Data goes in as JSON; a validated Plotly figure (JSON) or a rendered PNG comes back over the Model Context Protocol.",
+  "source_repo": "ericmjl/mcp-plotting-server",
+  "source_url": "https://github.com/ericmjl/mcp-plotting-server",
+  "install": "# git clone --depth 1 https://github.com/ericmjl/mcp-plotting-server\n# See source for mcpServers config block"
+}

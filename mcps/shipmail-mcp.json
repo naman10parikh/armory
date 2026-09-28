@@ -1,0 +1,7 @@
+{
+  "name": "shipmail-mcp",
+  "description": "Official MCP server for Shipmail, enabling agents to manage domains, mailboxes, messages, threads, webhooks, and suppressions via natural language.",
+  "source_repo": "jcoulaud/shipmail-mcp",
+  "source_url": "https://github.com/jcoulaud/shipmail-mcp",
+  "install": "npx -y shipmail-mcp"
+}

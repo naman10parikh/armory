@@ -1,0 +1,7 @@
+{
+  "name": "sync-spec-agent",
+  "description": "AI-powered MCP assistant for telecom synchronization standards (ITU-T & 3GPP). Ask questions about PTP, SyncE, GNSS, timing budgets in plain English and get answers with exact standard references.",
+  "source_repo": "Abinash009/sync-spec-agent",
+  "source_url": "https://github.com/Abinash009/sync-spec-agent",
+  "install": "# git clone --depth 1 https://github.com/Abinash009/sync-spec-agent\n# See source for mcpServers config block"
+}

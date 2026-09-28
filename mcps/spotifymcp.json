@@ -1,0 +1,7 @@
+{
+  "name": "spotifymcp",
+  "description": "Enables creating and searching Spotify playlists through natural language using the Model Context Protocol.",
+  "source_repo": "carllapierre/spotify-mcp",
+  "source_url": "https://github.com/carllapierre/spotify-mcp",
+  "install": "npx -y spotify-mcp"
+}

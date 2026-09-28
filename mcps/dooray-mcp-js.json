@@ -1,0 +1,7 @@
+{
+  "name": "dooray-mcp-js",
+  "description": "Dooray MCP server for interacting with Dooray services such as messenger, calendar, project, and posts. Supports operations like reading, creating, and updating posts, comments, and files.",
+  "source_repo": "sdadaniel/dooray-mcp",
+  "source_url": "https://github.com/sdadaniel/dooray-mcp",
+  "install": "npx -y dooray-mcp"
+}

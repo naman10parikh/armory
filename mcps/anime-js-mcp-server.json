@@ -1,0 +1,7 @@
+{
+  "name": "anime-js-mcp-server",
+  "description": "Provides AI assistants with comprehensive access to the Anime.js animation library, including API coverage, documentation, examples, and performance tips.",
+  "source_repo": "yeshsurya/anime-js-mcp-server",
+  "source_url": "https://github.com/yeshsurya/anime-js-mcp-server",
+  "install": "npx -y anime-js-mcp-server"
+}

@@ -1,6 +1,6 @@
 {
   "name": "haskell-hackage-mcp",
-  "description": "Haskell Hackage Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "apenugon/haskell-hackage-mcp",
   "source_url": "https://mcp.so/server/haskell-hackage-mcp/apenugon",
   "install": "npx -y haskell-hackage-mcp"

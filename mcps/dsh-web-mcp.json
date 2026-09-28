@@ -1,0 +1,7 @@
+{
+  "name": "dsh-web-mcp",
+  "description": "An MCP bridge that exposes DeepSeek Harness (DSH) web UI's cordis RPC API as stdio tools, enabling any MCP client to manage workspaces, create/resume sessions, send messages, and fetch session stats.",
+  "source_repo": "cv588888888888888888888ju/dsh-web-mcp",
+  "source_url": "https://github.com/cv588888888888888888888ju/dsh-web-mcp",
+  "install": "npx -y dsh-web-mcp"
+}

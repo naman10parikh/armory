@@ -1,0 +1,7 @@
+{
+  "name": "ansible-mcp-server",
+  "description": "Enables AI assistants to manage infrastructure using Ansible and Terraform with 58 tools for playbooks, provisioning, security scanning, and more.",
+  "source_repo": "washyu/ansible-mcp-server",
+  "source_url": "https://github.com/washyu/ansible-mcp-server",
+  "install": "npx -y ansible-mcp-server"
+}

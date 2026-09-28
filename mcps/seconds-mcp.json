@@ -1,0 +1,7 @@
+{
+  "name": "seconds-mcp",
+  "description": "Summarizes tabular data (ambulance dispatch response times) and lets AI agents query it in natural language via MCP tools for aggregates, grouping, and trends.",
+  "source_repo": "philmas/seconds-mcp",
+  "source_url": "https://github.com/philmas/seconds-mcp",
+  "install": "npx -y seconds-mcp"
+}

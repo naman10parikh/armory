@@ -1,0 +1,7 @@
+{
+  "name": "youtube-shorts-agent",
+  "description": "Agent-first YouTube Shorts uploader with dry-run validation, OAuth checks and synthetic-media metadata.",
+  "source_repo": "davidmosiah/youtube-shorts-agent",
+  "source_url": "https://github.com/davidmosiah/youtube-shorts-agent",
+  "install": "# git clone --depth 1 https://github.com/davidmosiah/youtube-shorts-agent\n# See source for mcpServers config block"
+}

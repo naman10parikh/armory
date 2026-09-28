@@ -1,0 +1,7 @@
+{
+  "name": "upgradeseo-mcp-server",
+  "description": "Enables AI agents to perform SEO tasks like keyword research, rank tracking, backlink analysis, site audits, and competitor insights using free data sources, with no subscription or per-call charges.",
+  "source_repo": "upgrade-ventures/upgradeseo",
+  "source_url": "https://github.com/upgrade-ventures/upgradeseo",
+  "install": "# git clone --depth 1 https://github.com/upgrade-ventures/upgradeseo\n# See source for mcpServers config block"
+}

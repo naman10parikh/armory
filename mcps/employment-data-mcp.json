@@ -1,0 +1,7 @@
+{
+  "name": "employment-data-mcp",
+  "description": "Provides read-only FastMCP tools for BLS nonfarm employment, ADP private employment, economic calendar, and employment release summaries.",
+  "source_repo": "lvzenglei/economic-mcp",
+  "source_url": "https://github.com/lvzenglei/economic-mcp",
+  "install": "npx -y economic-mcp"
+}

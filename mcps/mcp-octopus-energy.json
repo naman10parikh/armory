@@ -1,0 +1,7 @@
+{
+  "name": "mcp-octopus-energy",
+  "description": "Enables AI agents to query UK energy tariffs and products via the Octopus Energy public API.",
+  "source_repo": "pipeworx-io/mcp-octopus-energy",
+  "source_url": "https://github.com/pipeworx-io/mcp-octopus-energy",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-octopus-energy\n# See source for mcpServers config block"
+}

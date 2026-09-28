@@ -1,0 +1,7 @@
+{
+  "name": "papsermcp-server",
+  "description": "Enables AI assistants to search and retrieve CodeChef VIT university question papers from MongoDB, offering tools for paper search, metadata retrieval, and recent paper feeds.",
+  "source_repo": "YOGESH-08/papserMCP_server",
+  "source_url": "https://github.com/YOGESH-08/papserMCP_server",
+  "install": "npx -y papserMCP_server"
+}

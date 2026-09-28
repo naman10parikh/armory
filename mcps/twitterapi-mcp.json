@@ -1,0 +1,7 @@
+{
+  "name": "twitterapi-mcp",
+  "description": "A Model Context Protocol (MCP) server that provides access to Twitter data through the TwitterAPI.io service, enabling Claude and other MCP clients to interact with Twitter's ecosystem without requiring Twitter developer account approval.",
+  "source_repo": "kinhunt/twitterapi-mcp",
+  "source_url": "https://github.com/kinhunt/twitterapi-mcp",
+  "install": "npx -y twitterapi-mcp"
+}

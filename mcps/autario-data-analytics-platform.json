@@ -1,0 +1,7 @@
+{
+  "name": "autario-data-analytics-platform",
+  "description": "Access 2,300+ verified public datasets from World Bank, IMF, Eurostat, OECD, WHO, FRED, and more. Search, query, and publish data visualizations with real data. ## What you can do - **Search** across 2,300+ datasets by topic, category, or keyword - **Query** any dataset with filters, sorting, and fi",
+  "source_repo": "",
+  "source_url": "https://autario.com",
+  "install": "# git clone --depth 1 https://autario.com\n# See source for mcpServers config block"
+}

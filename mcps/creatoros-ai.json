@@ -1,0 +1,7 @@
+{
+  "name": "creatoros-ai",
+  "description": "MCP server that enables AI-powered content generation in multiple formats using Google Gemini and Tavily real-time research, accessible via MCP-compatible clients.",
+  "source_repo": "shantanuchapke400-crypto/CreatorOS-AI",
+  "source_url": "https://github.com/shantanuchapke400-crypto/CreatorOS-AI",
+  "install": "# git clone --depth 1 https://github.com/shantanuchapke400-crypto/CreatorOS-AI\n# See source for mcpServers config block"
+}

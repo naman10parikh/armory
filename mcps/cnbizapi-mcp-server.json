@@ -1,0 +1,7 @@
+{
+  "name": "cnbizapi-mcp-server",
+  "description": "Enables AI agents to query detailed information on 77M+ Chinese companies, including basic data, shareholders, legal risks, and more, through a pay-per-query MCP server.",
+  "source_repo": "cnbizapi/cnbizapi-mcp",
+  "source_url": "https://github.com/cnbizapi/cnbizapi-mcp",
+  "install": "npx -y cnbizapi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gencc-link",
+  "description": "MCP server that provides tools to query harmonized gene-disease validity data from the Gene Curation Coalition, supporting consensus and conflict detection for gene-disease assertions.",
+  "source_repo": "berntpopp/gencc-link",
+  "source_url": "https://github.com/berntpopp/gencc-link",
+  "install": "# git clone --depth 1 https://github.com/berntpopp/gencc-link\n# See source for mcpServers config block"
+}

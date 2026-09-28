@@ -1,0 +1,7 @@
+{
+  "name": "gpters-search-mcp-server",
+  "description": "Searches knowledge from the GPTers AI study community with filtering by date, author, and board.",
+  "source_repo": "chat-prompt/gpters-search-mcp-server",
+  "source_url": "https://github.com/chat-prompt/gpters-search-mcp-server",
+  "install": "npx -y gpters-search-mcp-server"
+}

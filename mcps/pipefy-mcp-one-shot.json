@@ -1,0 +1,7 @@
+{
+  "name": "pipefy-mcp-one-shot",
+  "description": "Exposes Pipefy iPaaS connection actions as MCP tools, allowing the Pipefy Agent to call them directly without creating flows. It uses the authenticated pipefy CLI session to discover and proxy actions.",
+  "source_repo": "Guilherme-CA-Dias/pipefy-mcp-one-shot",
+  "source_url": "https://github.com/Guilherme-CA-Dias/pipefy-mcp-one-shot",
+  "install": "# git clone --depth 1 https://github.com/Guilherme-CA-Dias/pipefy-mcp-one-shot\n# See source for mcpServers config block"
+}

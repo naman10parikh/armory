@@ -1,0 +1,7 @@
+{
+  "name": "unified-diff-mcp-server",
+  "description": "Transforms code diffs into beautiful visual comparisons with support for GitHub Gist sharing and local file output (HTML/PNG).",
+  "source_repo": "gorosun/unified-diff-mcp",
+  "source_url": "https://github.com/gorosun/unified-diff-mcp",
+  "install": "npx -y unified-diff-mcp"
+}

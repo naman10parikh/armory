@@ -1,0 +1,7 @@
+{
+  "name": "whatsapp-mcp-platform",
+  "description": "Provides a Model Context Protocol server for WhatsApp, enabling session management, webhook normalization, and tenant-based message operations through a public API and private control plane.",
+  "source_repo": "cuevaio/whatsapp-mcp",
+  "source_url": "https://github.com/cuevaio/whatsapp-mcp",
+  "install": "npx -y whatsapp-mcp"
+}

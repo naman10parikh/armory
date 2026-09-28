@@ -1,0 +1,7 @@
+{
+  "name": "mitmproxy-mcp",
+  "description": "A lightweight MCP server built on mitmproxy that lets LLMs capture, inspect, replay, and modify HTTP traffic through a set of focused tools.",
+  "source_repo": "u33pk/mitmproxy-mcp",
+  "source_url": "https://github.com/u33pk/mitmproxy-mcp",
+  "install": "npx -y mitmproxy-mcp"
+}

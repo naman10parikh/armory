@@ -1,0 +1,7 @@
+{
+  "name": "lifescored-mcp-server",
+  "description": "Provides access to the rulebook, input schema, and methodology for the life scored system, enabling agents to compute scores locally without sending personal data to the server.",
+  "source_repo": "royashbrook/lifescored",
+  "source_url": "https://github.com/royashbrook/lifescored",
+  "install": "# git clone --depth 1 https://github.com/royashbrook/lifescored\n# See source for mcpServers config block"
+}

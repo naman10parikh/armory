@@ -1,0 +1,7 @@
+{
+  "name": "ahrefs-mcp",
+  "description": "MCP server for the Ahrefs API v3 that provides live SEO data including keyword research, SERP analysis, backlink profiles, and domain authority to MCP clients like Claude.",
+  "source_repo": "newilu/ahrefs-mcp",
+  "source_url": "https://github.com/newilu/ahrefs-mcp",
+  "install": "npx -y ahrefs-mcp"
+}

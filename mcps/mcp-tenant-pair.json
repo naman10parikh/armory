@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tenant-pair",
+  "description": "Manages multi-user tenancy for consumer MCP servers, enabling pair creation, invite flows, identity-separated state, and conflict resolution.",
+  "source_repo": "studiomeyer-io/mcp-tenant-pair",
+  "source_url": "https://github.com/studiomeyer-io/mcp-tenant-pair",
+  "install": "# git clone --depth 1 https://github.com/studiomeyer-io/mcp-tenant-pair\n# See source for mcpServers config block"
+}

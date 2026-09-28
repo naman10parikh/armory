@@ -1,0 +1,7 @@
+{
+  "name": "mcp-calculator-server",
+  "description": "A simple MCP server that provides an add_numbers tool for addition operations, with setup instructions for VSCode extensions like Roo Code or Cline.",
+  "source_repo": "barneybarney143/mcp_poc",
+  "source_url": "https://github.com/barneybarney143/mcp_poc",
+  "install": "# git clone --depth 1 https://github.com/barneybarney143/mcp_poc\n# See source for mcpServers config block"
+}

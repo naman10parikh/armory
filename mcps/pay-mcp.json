@@ -1,0 +1,7 @@
+{
+  "name": "pay-mcp",
+  "description": "An MCP server for USDC payments on Base, enabling AI agents to check balances, send payments, generate payment requests, and view transaction history.",
+  "source_repo": "MonadWorks/pay-mcp",
+  "source_url": "https://github.com/MonadWorks/pay-mcp",
+  "install": "npx -y pay-mcp"
+}

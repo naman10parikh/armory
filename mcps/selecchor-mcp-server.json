@@ -1,0 +1,7 @@
+{
+  "name": "selecchor-mcp-server",
+  "description": "Lets Claude read and manage the Selecchor house-tasks app including tasks, house info, quotes, meter readings, and password vault.",
+  "source_repo": "lynch2812/selecchor-mcp",
+  "source_url": "https://github.com/lynch2812/selecchor-mcp",
+  "install": "npx -y selecchor-mcp"
+}

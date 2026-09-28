@@ -1,0 +1,7 @@
+{
+  "name": "brixui-mcp-server",
+  "description": "An MCP server that connects AI clients to Figma components, design tokens, and variables from the BrixUI Design System, enabling component browsing, searching, and token retrieval.",
+  "source_repo": "multicomak/BrixUI-MCP",
+  "source_url": "https://github.com/multicomak/BrixUI-MCP",
+  "install": "npx -y BrixUI-MCP"
+}

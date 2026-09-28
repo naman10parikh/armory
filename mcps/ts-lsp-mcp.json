@@ -1,0 +1,7 @@
+{
+  "name": "ts-lsp-mcp",
+  "description": "An MCP server that provides TypeScript 7 native language server capabilities (go to definition, find references, hover types, diagnostics) to coding agents, using the Go-based tsc compiler for fast and accurate semantic analysis.",
+  "source_repo": "trophygeek/ts-lsp-mcp",
+  "source_url": "https://github.com/trophygeek/ts-lsp-mcp",
+  "install": "npx -y ts-lsp-mcp"
+}

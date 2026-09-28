@@ -1,0 +1,7 @@
+{
+  "name": "doc2mcp",
+  "description": "Turns any documentation URL into a hosted MCP server for use in Cursor, Claude, and VS Code.",
+  "source_repo": "doc2mcp/doc2mcp-registry",
+  "source_url": "https://github.com/doc2mcp/doc2mcp-registry",
+  "install": "# git clone --depth 1 https://github.com/doc2mcp/doc2mcp-registry\n# See source for mcpServers config block"
+}

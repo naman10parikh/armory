@@ -1,0 +1,7 @@
+{
+  "name": "mailbridge-mcp",
+  "description": "Connects AI assistants to email accounts via IMAP/SMTP, enabling reading, searching, sending, and organizing emails with features like smart drafts, scheduling, and attachment handling.",
+  "source_repo": "Creativestefan/mailbridge-mcp",
+  "source_url": "https://github.com/Creativestefan/mailbridge-mcp",
+  "install": "npx -y mailbridge-mcp"
+}

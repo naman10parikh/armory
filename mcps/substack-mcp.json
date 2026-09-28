@@ -1,6 +1,6 @@
 {
   "name": "substack-mcp",
-  "description": "Substack Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Greg-Swiftomatic/substack-mcp",
   "source_url": "https://mcp.so/server/substack-mcp/Greg-Swiftomatic",
   "install": "npx -y substack-mcp"

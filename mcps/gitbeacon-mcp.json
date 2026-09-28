@@ -1,0 +1,7 @@
+{
+  "name": "gitbeacon-mcp",
+  "description": "MCP server for GitBeacon that provides GitHub trend intelligence—daily AI-analyzed digests, top trending repos, and historical trend tracking—with free tools and optional pay-per-call pricing in USDC via x402.",
+  "source_repo": "jcislo/gitbeacon-mcp",
+  "source_url": "https://github.com/jcislo/gitbeacon-mcp",
+  "install": "npx -y gitbeacon-mcp"
+}

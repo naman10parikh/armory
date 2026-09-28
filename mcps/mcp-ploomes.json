@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ploomes",
+  "description": "Read-only MCP server for the Ploomes CRM API, providing 49 tools to query contacts, deals, products, and other business data using natural language.",
+  "source_repo": "by-BC/mcp-ploomes",
+  "source_url": "https://github.com/by-BC/mcp-ploomes",
+  "install": "# git clone --depth 1 https://github.com/by-BC/mcp-ploomes\n# See source for mcpServers config block"
+}

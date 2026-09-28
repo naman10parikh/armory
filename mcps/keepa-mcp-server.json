@@ -1,0 +1,7 @@
+{
+  "name": "keepa-mcp-server",
+  "description": "Provides conversational access to Keepa's product and sales data for product research, sales velocity analysis, inventory optimization, and competitive intelligence.",
+  "source_repo": "cosjef/keepa_MCP",
+  "source_url": "https://github.com/cosjef/keepa_MCP",
+  "install": "npx -y keepa_MCP"
+}

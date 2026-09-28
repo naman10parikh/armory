@@ -1,0 +1,7 @@
+{
+  "name": "batru-mcp",
+  "description": "A read-only MCP server providing calibrated Dota 2 and Deadlock win-rate predictions and hero counters via batru.gg's live API.",
+  "source_repo": "batrugg/batru-mcp",
+  "source_url": "https://github.com/batrugg/batru-mcp",
+  "install": "npx -y batru-mcp"
+}

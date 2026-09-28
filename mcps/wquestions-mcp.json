@@ -1,0 +1,7 @@
+{
+  "name": "wquestions-mcp",
+  "description": "Lets you model any domain (spa, barbershop, clinic, etc.) using 7 fixed axes and query it via natural language, with no per-domain schema required.",
+  "source_repo": "joseabantomarin/wquestions-mcp",
+  "source_url": "https://github.com/joseabantomarin/wquestions-mcp",
+  "install": "npx -y wquestions-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alloy-mcp-server",
+  "description": "Enables Claude to write, compile, and execute formal verification models in Alloy and read raw mathematical graph structures back into its context window.",
+  "source_repo": "joel6603/alloy-mcp-server",
+  "source_url": "https://github.com/joel6603/alloy-mcp-server",
+  "install": "npx -y alloy-mcp-server"
+}

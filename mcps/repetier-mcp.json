@@ -1,0 +1,7 @@
+{
+  "name": "repetier-mcp",
+  "description": "Enables AI to monitor, control, and diagnose 3D printers via Repetier-Host/Repetier-Server, supporting temperature readings, job management, and intelligent error diagnosis.",
+  "source_repo": "Nstalej/repetier-mcp",
+  "source_url": "https://github.com/Nstalej/repetier-mcp",
+  "install": "npx -y repetier-mcp"
+}

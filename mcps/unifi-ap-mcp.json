@@ -1,0 +1,7 @@
+{
+  "name": "unifi-ap-mcp",
+  "description": "MCP server for UniFi Network Controller that provides full API coverage for managing APs, clients, WLANs, firewall rules, VLANs, port forwards, and more.",
+  "source_repo": "haiduongacm/unifi-ap-mcp",
+  "source_url": "https://github.com/haiduongacm/unifi-ap-mcp",
+  "install": "npx -y unifi-ap-mcp"
+}

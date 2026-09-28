@@ -1,0 +1,7 @@
+{
+  "name": "tg-assistant",
+  "description": "MCP server that connects Claude to a Telegram personal assistant, enabling message processing, task management, and responses via scheduled workflows.",
+  "source_repo": "vladyslavhumeniuk-oss/tg-assistant",
+  "source_url": "https://github.com/vladyslavhumeniuk-oss/tg-assistant",
+  "install": "# git clone --depth 1 https://github.com/vladyslavhumeniuk-oss/tg-assistant\n# See source for mcpServers config block"
+}

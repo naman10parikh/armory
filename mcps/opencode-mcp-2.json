@@ -1,0 +1,7 @@
+{
+  "name": "opencode-mcp-2",
+  "description": "Enables Claude Code to delegate tasks to OpenCode subagents asynchronously, with tools for starting tasks, polling status, and fetching results.",
+  "source_repo": "alejandro-technology/opencode-mcp",
+  "source_url": "https://github.com/alejandro-technology/opencode-mcp",
+  "install": "npx -y opencode-mcp"
+}

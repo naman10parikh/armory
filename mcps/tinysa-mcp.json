@@ -1,6 +1,6 @@
 {
   "name": "tinysa-mcp",
-  "description": "TinySA_mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "manahiyo831/tinySA_mcp",
   "source_url": "https://mcp.so/server/tinySA_mcp/manahiyo831",
   "install": "npx -y tinySA_mcp"

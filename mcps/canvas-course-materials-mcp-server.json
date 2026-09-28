@@ -1,0 +1,7 @@
+{
+  "name": "canvas-course-materials-mcp-server",
+  "description": "A remote MCP server that gives Claude access to your Canvas LMS course materials and files, enabling you to list courses, retrieve files, modules, syllabus, pages, assignments, grades, quizzes, and more via natural language.",
+  "source_repo": "ichung32-rgb/canvas-mcp",
+  "source_url": "https://github.com/ichung32-rgb/canvas-mcp",
+  "install": "npx -y canvas-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "muninn-mcp",
+  "description": "Read-only MCP server for retrieving Muninn's memory via a single recall tool, with parity testing against live Python outputs.",
+  "source_repo": "oaustegard/muninn-mcp",
+  "source_url": "https://github.com/oaustegard/muninn-mcp",
+  "install": "npx -y muninn-mcp"
+}

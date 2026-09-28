@@ -1,0 +1,7 @@
+{
+  "name": "mcp-football-data",
+  "description": "Access football (soccer) data including competitions, matches, standings, and team details via the Football-Data.org API.",
+  "source_repo": "pipeworx-io/mcp-football-data",
+  "source_url": "https://github.com/pipeworx-io/mcp-football-data",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-football-data\n# See source for mcpServers config block"
+}

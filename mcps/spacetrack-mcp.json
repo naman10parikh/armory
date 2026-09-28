@@ -1,0 +1,7 @@
+{
+  "name": "spacetrack-mcp",
+  "description": "MCP server that wraps the NASA Space-Track API to provide tools for TLE lookup, conjunction query, and satellite catalog search.",
+  "source_repo": "kaushik701/spacetrack-mcp",
+  "source_url": "https://github.com/kaushik701/spacetrack-mcp",
+  "install": "npx -y spacetrack-mcp"
+}

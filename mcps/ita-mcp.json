@@ -1,0 +1,7 @@
+{
+  "name": "ita-mcp",
+  "description": "Enables AI assistants to read Itaú bank account information (balances, statements, credit card bills, investments) via Open Finance Brasil, read-only.",
+  "source_repo": "mcp-dir/itau-mcp",
+  "source_url": "https://github.com/mcp-dir/itau-mcp",
+  "install": "npx -y itau-mcp"
+}

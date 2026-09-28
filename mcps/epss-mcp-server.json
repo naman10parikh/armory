@@ -1,0 +1,7 @@
+{
+  "name": "epss-mcp-server",
+  "description": "Provides EPSS scores, percentiles, and time series for CVEs, along with vulnerability details from the NVD API, enabling risk assessment through natural language.",
+  "source_repo": "kodamap/epss_mcp",
+  "source_url": "https://github.com/kodamap/epss_mcp",
+  "install": "npx -y epss_mcp"
+}

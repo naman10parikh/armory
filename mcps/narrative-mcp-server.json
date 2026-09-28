@@ -1,0 +1,7 @@
+{
+  "name": "narrative-mcp-server",
+  "description": "Integrates with Narrative's Data Collaboration Platform, enabling AI assistants to search attributes, list datasets, manage access rules, and execute NQL queries via MCP tools and prompts.",
+  "source_repo": "narrative-io/data-collaboration-mcp",
+  "source_url": "https://github.com/narrative-io/data-collaboration-mcp",
+  "install": "npx -y data-collaboration-mcp"
+}

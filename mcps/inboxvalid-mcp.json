@@ -1,0 +1,7 @@
+{
+  "name": "inboxvalid-mcp",
+  "description": "An MCP server that exposes a verify_email tool for checking email syntax, disposable domains, and MX records, returning a structured validity result.",
+  "source_repo": "vigneshachar283/inboxvalid-mcp",
+  "source_url": "https://github.com/vigneshachar283/inboxvalid-mcp",
+  "install": "npx -y inboxvalid-mcp"
+}

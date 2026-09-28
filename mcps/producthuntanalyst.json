@@ -1,0 +1,7 @@
+{
+  "name": "producthuntanalyst",
+  "description": "Enables AI agents to fetch and analyze Product Hunt trending products over 1-4 week periods, generating trend reports, top product lists, and category insights via MCP tools.",
+  "source_repo": "phuhao00/product-hunt-analyst",
+  "source_url": "https://github.com/phuhao00/product-hunt-analyst",
+  "install": "# git clone --depth 1 https://github.com/phuhao00/product-hunt-analyst\n# See source for mcpServers config block"
+}

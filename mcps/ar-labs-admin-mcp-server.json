@@ -1,0 +1,7 @@
+{
+  "name": "ar-labs-admin-mcp-server",
+  "description": "Full-access MCP server for managing AR LABS (Viral AI Prompts & Guides), enabling post creation, editing, deletion, image uploads, push notifications, comment moderation, and site stats via AI assistants.",
+  "source_repo": "abdulrehmanfatehali1-ui/ar-labs-mcp-server",
+  "source_url": "https://github.com/abdulrehmanfatehali1-ui/ar-labs-mcp-server",
+  "install": "npx -y ar-labs-mcp-server"
+}

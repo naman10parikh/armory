@@ -1,0 +1,7 @@
+{
+  "name": "searxng-mcp-scraper",
+  "description": "MCP server that exposes SearXNG search and HTTP fetch tools for AI agents, enabling web search and clean page text extraction via natural language.",
+  "source_repo": "ptrken01/searxng-mcp-scraper",
+  "source_url": "https://github.com/ptrken01/searxng-mcp-scraper",
+  "install": "# git clone --depth 1 https://github.com/ptrken01/searxng-mcp-scraper\n# See source for mcpServers config block"
+}

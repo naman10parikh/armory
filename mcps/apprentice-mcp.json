@@ -1,0 +1,7 @@
+{
+  "name": "apprentice-mcp",
+  "description": "Enables AI assistants to act as apprentices that learn from users through the apprentice effect and spaced repetition, helping users solidify knowledge by teaching.",
+  "source_repo": "nancliu/apprentice-mcp",
+  "source_url": "https://github.com/nancliu/apprentice-mcp",
+  "install": "npx -y apprentice-mcp"
+}

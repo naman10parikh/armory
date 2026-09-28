@@ -1,0 +1,7 @@
+{
+  "name": "mwaa-mcp-server",
+  "description": "MCP server for Amazon MWAA that enables managing Airflow environments, DAGs, runs, task instances, and configurations through natural language, using secure AWS-native API access and read-only by default.",
+  "source_repo": "biswasbiplob/mwaa-mcp-server",
+  "source_url": "https://github.com/biswasbiplob/mwaa-mcp-server",
+  "install": "npx -y mwaa-mcp-server"
+}

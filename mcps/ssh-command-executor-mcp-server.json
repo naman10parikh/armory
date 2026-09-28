@@ -1,0 +1,7 @@
+{
+  "name": "ssh-command-executor-mcp-server",
+  "description": "A secure MCP server that enables AI assistants to execute commands on remote servers via SSH, with cross-platform support and features like encrypted config storage, connection management, and security controls.",
+  "source_repo": "sanjaypsachdev/ssh-command-executor-mcp",
+  "source_url": "https://github.com/sanjaypsachdev/ssh-command-executor-mcp",
+  "install": "npx -y ssh-command-executor-mcp"
+}

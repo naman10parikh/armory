@@ -1,0 +1,7 @@
+{
+  "name": "jp-calendar-mcp",
+  "description": "MCP server for Japanese business days, public holidays, wareki dates, and tax arithmetic, helping AI agents avoid common Japanese date and tax errors.",
+  "source_repo": "takeo628-hub/jp-calendar-mcp",
+  "source_url": "https://github.com/takeo628-hub/jp-calendar-mcp",
+  "install": "npx -y jp-calendar-mcp"
+}

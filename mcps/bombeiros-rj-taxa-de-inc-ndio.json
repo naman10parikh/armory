@@ -1,0 +1,7 @@
+{
+  "name": "bombeiros-rj-taxa-de-inc-ndio",
+  "description": "MCP server to query the Rio de Janeiro fire department's fire tax from the official source. It is read-only, hosted, and paid per query with prepaid credits.",
+  "source_repo": "mcp-dir/bombeiros_rj_taxa_incendio-mcp",
+  "source_url": "https://github.com/mcp-dir/bombeiros_rj_taxa_incendio-mcp",
+  "install": "npx -y bombeiros_rj_taxa_incendio-mcp"
+}

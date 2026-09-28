@@ -1,0 +1,7 @@
+{
+  "name": "pdf-to-text-mcp-server",
+  "description": "Converts PDF files to text for use with MCP-compatible applications like Cursor IDE.",
+  "source_repo": "xxx87/pdf-to-text-mcp",
+  "source_url": "https://github.com/xxx87/pdf-to-text-mcp",
+  "install": "npx -y pdf-to-text-mcp"
+}

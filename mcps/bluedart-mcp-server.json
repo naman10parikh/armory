@@ -1,0 +1,7 @@
+{
+  "name": "bluedart-mcp-server",
+  "description": "MCP server for BlueDart (DHL eCommerce India) shipping API enabling waybill creation, tracking, pickup scheduling, and transit time lookup via MCP tools.",
+  "source_repo": "nidhiyashwanth/bluedart-mcp-server",
+  "source_url": "https://github.com/nidhiyashwanth/bluedart-mcp-server",
+  "install": "npx -y bluedart-mcp-server"
+}

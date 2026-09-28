@@ -1,0 +1,7 @@
+{
+  "name": "agent-magnet",
+  "description": "Self-learning memory for AI tools. Remembers user preferences and context across Claude, Cursor, and Codex with multi-parameter forgetting and cross-tool identity.",
+  "source_repo": "helinakdogan/magnet-gateway",
+  "source_url": "https://github.com/helinakdogan/magnet-gateway",
+  "install": "# git clone --depth 1 https://github.com/helinakdogan/magnet-gateway\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "verifimind-peas",
+  "description": "Enables structured multi-LLM critique of concepts using three specialized agents (Innovation, Ethics, Security) with multi-vendor LLM support. Provides 13 free tools for validation, template management, and coordination.",
+  "source_repo": "creator35lwb-web/VerifiMind-PEAS",
+  "source_url": "https://github.com/creator35lwb-web/VerifiMind-PEAS",
+  "install": "# git clone --depth 1 https://github.com/creator35lwb-web/VerifiMind-PEAS\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-proxy-bridge",
+  "description": "Enables AI coding assistants to access hosts (e.g., GitHub) behind a local proxy by automatically launching the proxy client and configuring tools to route through it.",
+  "source_repo": "xiaolaifeng/mcp-proxy-bridge",
+  "source_url": "https://github.com/xiaolaifeng/mcp-proxy-bridge",
+  "install": "# git clone --depth 1 https://github.com/xiaolaifeng/mcp-proxy-bridge\n# See source for mcpServers config block"
+}

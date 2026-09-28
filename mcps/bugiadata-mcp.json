@@ -1,0 +1,7 @@
+{
+  "name": "bugiadata-mcp",
+  "description": "BugiaData is a hosted remote MCP server for generating relational fake data that is locale-aware and maintains foreign keys. It enables AI editors to generate realistic fake data with proper relationships and locale support via natural language.",
+  "source_repo": "lgpoliveira/bugiadata-mcp",
+  "source_url": "https://github.com/lgpoliveira/bugiadata-mcp",
+  "install": "npx -y bugiadata-mcp"
+}

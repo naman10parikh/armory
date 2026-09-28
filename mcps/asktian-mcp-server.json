@@ -1,0 +1,7 @@
+{
+  "name": "asktian-mcp-server",
+  "description": "Provides Chinese metaphysical tools (bazi, qimen, five elements) as MCP tools for AI agents to give personalized advice on timing, compatibility, and daily energy.",
+  "source_repo": "douglasgan/asktian-mcp",
+  "source_url": "https://github.com/douglasgan/asktian-mcp",
+  "install": "npx -y asktian-mcp"
+}

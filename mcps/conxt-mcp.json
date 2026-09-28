@@ -1,0 +1,7 @@
+{
+  "name": "conxt-mcp",
+  "description": "Local-first MCP server for governed AI memory where agents propose memories and humans approve them, with optional cloud sync.",
+  "source_repo": "pgavali0318/conxt-mcp",
+  "source_url": "https://github.com/pgavali0318/conxt-mcp",
+  "install": "npx -y conxt-mcp"
+}

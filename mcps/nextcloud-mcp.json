@@ -1,0 +1,7 @@
+{
+  "name": "nextcloud-mcp",
+  "description": "MCP server integrating Nextcloud services (tasks, calendar, notes, email, files, Deck) for AI assistant interaction.",
+  "source_repo": "Jaypeg-dev/nextcloud-mcp",
+  "source_url": "https://github.com/Jaypeg-dev/nextcloud-mcp",
+  "install": "npx -y nextcloud-mcp"
+}

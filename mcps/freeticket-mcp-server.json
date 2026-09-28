@@ -1,0 +1,7 @@
+{
+  "name": "freeticket-mcp-server",
+  "description": "Exposes FreeTicket's B2B domain (events, sales, tickets, etc.) as tools for MCP clients like Claude Code, using the same authentication as the CLI.",
+  "source_repo": "AppFreeticket/freeticket-mcp",
+  "source_url": "https://github.com/AppFreeticket/freeticket-mcp",
+  "install": "npx -y freeticket-mcp"
+}

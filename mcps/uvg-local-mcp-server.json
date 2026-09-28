@@ -1,0 +1,7 @@
+{
+  "name": "uvg-local-mcp-server",
+  "description": "Enables local text analysis, statistical calculations, and system information retrieval via the Model Context Protocol over stdio.",
+  "source_repo": "Anggelie/mcp-local-server-uvg",
+  "source_url": "https://github.com/Anggelie/mcp-local-server-uvg",
+  "install": "# git clone --depth 1 https://github.com/Anggelie/mcp-local-server-uvg\n# See source for mcpServers config block"
+}

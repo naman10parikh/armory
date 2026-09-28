@@ -1,0 +1,7 @@
+{
+  "name": "skillaudit",
+  "description": "Security scanner for AI agent skills and MCP servers. Detects credential theft, data exfiltration, prompt injection, obfuscated code, and 80+ threat patterns. Free API + CLI (npx skillaudit). Premium deep scans via x402 micropayments.",
+  "source_repo": "",
+  "source_url": "https://skillaudit.vercel.app",
+  "install": "# git clone --depth 1 https://skillaudit.vercel.app\n# See source for mcpServers config block"
+}

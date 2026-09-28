@@ -1,0 +1,7 @@
+{
+  "name": "xmcp-core",
+  "description": "A generic X/bookmark intelligence MCP core for ingesting, enriching, and retrieving bookmarks with semantic search, brief generation, and academic paper scanning, exposed as MCP tools.",
+  "source_repo": "irinityhq/xmcp-core",
+  "source_url": "https://github.com/irinityhq/xmcp-core",
+  "install": "# git clone --depth 1 https://github.com/irinityhq/xmcp-core\n# See source for mcpServers config block"
+}

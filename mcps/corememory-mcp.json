@@ -1,0 +1,7 @@
+{
+  "name": "corememory-mcp",
+  "description": "Provides a local, persistent long-term memory service for MCP-compatible AI agents, enabling them to store, search, and recall information across sessions.",
+  "source_repo": "michaelfeng/CoreMemory-MCP",
+  "source_url": "https://github.com/michaelfeng/CoreMemory-MCP",
+  "install": "npx -y CoreMemory-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tickiti-mcp",
+  "description": "An MCP server that exposes the Tickiti helpdesk API to AI assistants, enabling ticket management and helpdesk operations via natural language.",
+  "source_repo": "tickiti/tickiti-mcp",
+  "source_url": "https://github.com/tickiti/tickiti-mcp",
+  "install": "npx -y tickiti-mcp"
+}

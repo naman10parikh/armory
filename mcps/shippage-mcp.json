@@ -1,0 +1,7 @@
+{
+  "name": "shippage-mcp",
+  "description": "Enables AI agents to publish HTML or Markdown to a public URL with a single HTTP POST, automatically converting Markdown to a styled webpage, with no account or setup required.",
+  "source_repo": "jieshu666/ShipPage-Skill",
+  "source_url": "https://github.com/jieshu666/ShipPage-Skill",
+  "install": "# git clone --depth 1 https://github.com/jieshu666/ShipPage-Skill\n# See source for mcpServers config block"
+}

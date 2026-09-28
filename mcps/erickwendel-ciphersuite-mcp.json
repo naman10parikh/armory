@@ -1,0 +1,7 @@
+{
+  "name": "erickwendel-ciphersuite-mcp",
+  "description": "An MCP server that provides AES-256-CBC encryption and decryption tools, resources, and prompts for use in VS Code Copilot Chat.",
+  "source_repo": "lucasmetron/serverMCP",
+  "source_url": "https://github.com/lucasmetron/serverMCP",
+  "install": "# git clone --depth 1 https://github.com/lucasmetron/serverMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prerender-buddy-mcp",
+  "description": "Provides local MCP tools for checking what public crawlers can read from HTTP responses, including crawler readability, response comparison, and discovery file checks.",
+  "source_repo": "kopachlager/prerenderbuddy-mcp",
+  "source_url": "https://github.com/kopachlager/prerenderbuddy-mcp",
+  "install": "npx -y prerenderbuddy-mcp"
+}

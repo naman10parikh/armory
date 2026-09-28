@@ -1,0 +1,7 @@
+{
+  "name": "godrix-mcp-gitlab-utils",
+  "description": "MCP server for GitLab REST API enabling AI agents to manage pipelines, merge requests, diffs, and local reviews.",
+  "source_repo": "godrix/mcp-gitlab-utils",
+  "source_url": "https://github.com/godrix/mcp-gitlab-utils",
+  "install": "# git clone --depth 1 https://github.com/godrix/mcp-gitlab-utils\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scriptflow-mcp-server",
+  "description": "ScriptFlow is a script workflow management system that transforms complex, repetitive AI interactions into persistent, executable scripts that can be managed, version-controlled, and reused across sessions.",
+  "source_repo": "yanmxa/scriptflow-mcp",
+  "source_url": "https://github.com/yanmxa/scriptflow-mcp",
+  "install": "npx -y scriptflow-mcp"
+}

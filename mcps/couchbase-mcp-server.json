@@ -1,0 +1,7 @@
+{
+  "name": "couchbase-mcp-server",
+  "description": "Enables LLMs to interact directly with Couchbase databases, supporting CRUD operations, N1QL queries, and data management through natural language.",
+  "source_repo": "karthik-couchbase/MCP-Server-Couchbase",
+  "source_url": "https://github.com/karthik-couchbase/MCP-Server-Couchbase",
+  "install": "# git clone --depth 1 https://github.com/karthik-couchbase/MCP-Server-Couchbase\n# See source for mcpServers config block"
+}

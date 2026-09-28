@@ -1,0 +1,7 @@
+{
+  "name": "byerisk-mcp",
+  "description": "MCP server that integrates ByeRisk's content compliance detection into AI assistants, enabling text, image, and video compliance checks with risk details and rewrite suggestions.",
+  "source_repo": "Ewangzai/byerisk-mcp",
+  "source_url": "https://github.com/Ewangzai/byerisk-mcp",
+  "install": "npx -y byerisk-mcp"
+}

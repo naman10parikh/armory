@@ -1,0 +1,7 @@
+{
+  "name": "biotrax",
+  "description": "Unified genomic track, peak, and sequence retrieval tool for ENCODE, ChIP-Atlas, ReMap, GEO, and SRA/ENA with unified metadata, resolved DOI/PMID provenance, and direct FASTQ download without SRA toolkit.",
+  "source_repo": "SpaceSorcerer/BioTrax",
+  "source_url": "https://github.com/SpaceSorcerer/BioTrax",
+  "install": "# git clone --depth 1 https://github.com/SpaceSorcerer/BioTrax\n# See source for mcpServers config block"
+}

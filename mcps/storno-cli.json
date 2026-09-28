@@ -1,0 +1,7 @@
+{
+  "name": "storno-cli",
+  "description": "Enables AI assistants to manage invoices, clients, companies, and ANAF e-Factura through the Storno.ro e-invoicing API.",
+  "source_repo": "stornoro/storno-cli",
+  "source_url": "https://github.com/stornoro/storno-cli",
+  "install": "# git clone --depth 1 https://github.com/stornoro/storno-cli\n# See source for mcpServers config block"
+}

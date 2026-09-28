@@ -1,0 +1,7 @@
+{
+  "name": "veezee",
+  "description": "Real-time LinkedIn, X (Twitter) and Reddit data for AI agents: profiles, companies, people search, tweets, subreddits, and search. Free start: self-mint a key in one call, no signup, no card.",
+  "source_repo": "veezeehq/veezee-mcp",
+  "source_url": "https://github.com/veezeehq/veezee-mcp",
+  "install": "npx -y veezee-mcp"
+}

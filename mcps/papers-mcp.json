@@ -1,0 +1,7 @@
+{
+  "name": "papers-mcp",
+  "description": "MCP server for scientific grounding: search and discover open-access research papers across arXiv, OpenAlex, Crossref, PubMed, and Semantic Scholar, and retrieve references/citations from paywalled journals via public DOI/abstract metadata.",
+  "source_repo": "surendranb/find-research-papers-mcp",
+  "source_url": "https://github.com/surendranb/find-research-papers-mcp",
+  "install": "npx -y find-research-papers-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "minecraft-document-mcp",
+  "description": "Enables AI assistants to search and retrieve content from the Chinese Minecraft Wiki, including article introductions, full content, and category lists.",
+  "source_repo": "PYmili/minecraft-document-mcp",
+  "source_url": "https://github.com/PYmili/minecraft-document-mcp",
+  "install": "npx -y minecraft-document-mcp"
+}

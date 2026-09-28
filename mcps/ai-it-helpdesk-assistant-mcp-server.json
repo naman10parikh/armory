@@ -1,0 +1,7 @@
+{
+  "name": "ai-it-helpdesk-assistant-mcp-server",
+  "description": "MCP server for an AI IT helpdesk that exposes 29 tools, 10 resources, and 6 prompts for ticket management, knowledge base search, employee lookup, reporting, and Slack notifications, with a multi-agent conversation pipeline.",
+  "source_repo": "PankajMahanto/AI-IT-Helpdesk",
+  "source_url": "https://github.com/PankajMahanto/AI-IT-Helpdesk",
+  "install": "# git clone --depth 1 https://github.com/PankajMahanto/AI-IT-Helpdesk\n# See source for mcpServers config block"
+}

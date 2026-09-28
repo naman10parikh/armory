@@ -1,0 +1,7 @@
+{
+  "name": "cheaplane",
+  "description": "Delegates replaceable grunt work (boilerplate, formatting, translation, long-document summarizing) from a premium agent to cheap models behind a local LiteLLM proxy, auto-routing each task by type. Delegated calls run in a separate process, so the subscription session and the API credentials never s",
+  "source_repo": "millennialdreamer/cheaplane",
+  "source_url": "https://github.com/millennialdreamer/cheaplane",
+  "install": "# git clone --depth 1 https://github.com/millennialdreamer/cheaplane\n# See source for mcpServers config block"
+}

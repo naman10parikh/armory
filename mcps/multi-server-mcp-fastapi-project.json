@@ -1,0 +1,7 @@
+{
+  "name": "multi-server-mcp-fastapi-project",
+  "description": "A FastAPI application that hosts multiple MCP servers for weather, news, currency, and quotes APIs.",
+  "source_repo": "AlwaysSany/fastapi-multi-server-mcp",
+  "source_url": "https://github.com/AlwaysSany/fastapi-multi-server-mcp",
+  "install": "npx -y fastapi-multi-server-mcp"
+}

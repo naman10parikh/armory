@@ -1,0 +1,7 @@
+{
+  "name": "claude-gpt-launcher",
+  "description": "Enables Codex chat to use the Claude Code harness for repository consultation and editing, routing through GPT models via a local proxy.",
+  "source_repo": "Bennyyy28/claude-gpt-launcher",
+  "source_url": "https://github.com/Bennyyy28/claude-gpt-launcher",
+  "install": "# git clone --depth 1 https://github.com/Bennyyy28/claude-gpt-launcher\n# See source for mcpServers config block"
+}

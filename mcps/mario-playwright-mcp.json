@@ -1,0 +1,7 @@
+{
+  "name": "mario-playwright-mcp",
+  "description": "MCP server for browser automation with AI agents, enabling network payload capture and QA workflows.",
+  "source_repo": "mariocosttaa/mario-playwright-mcp",
+  "source_url": "https://github.com/mariocosttaa/mario-playwright-mcp",
+  "install": "npx -y mario-playwright-mcp"
+}

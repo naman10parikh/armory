@@ -1,0 +1,7 @@
+{
+  "name": "desktop-control-mcp",
+  "description": "MCP server for Windows desktop automation. It provides mouse, keyboard, screen capture, and AI-driven UI element detection via OmniParser.",
+  "source_repo": "emadaljumah-camel/desktop-control-mcp",
+  "source_url": "https://github.com/emadaljumah-camel/desktop-control-mcp",
+  "install": "npx -y desktop-control-mcp"
+}

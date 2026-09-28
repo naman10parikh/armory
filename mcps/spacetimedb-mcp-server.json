@@ -1,0 +1,7 @@
+{
+  "name": "spacetimedb-mcp-server",
+  "description": "Enables AI assistants to interact with SpacetimeDB instances, query tables, call reducers, and manage database operations.",
+  "source_repo": "fractaloutlook/spacetimedb-mcp-server",
+  "source_url": "https://github.com/fractaloutlook/spacetimedb-mcp-server",
+  "install": "npx -y spacetimedb-mcp-server"
+}

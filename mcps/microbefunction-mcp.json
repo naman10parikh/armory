@@ -1,0 +1,7 @@
+{
+  "name": "microbefunction-mcp",
+  "description": "Supports querying and downloading MGnify genome data and performing KEGG functional annotation and module completeness analysis for microbial genomes.",
+  "source_repo": "Miooooooo/microbeFunction_mcp",
+  "source_url": "https://github.com/Miooooooo/microbeFunction_mcp",
+  "install": "npx -y microbeFunction_mcp"
+}

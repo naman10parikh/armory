@@ -1,0 +1,7 @@
+{
+  "name": "wardcat-mcp",
+  "description": "MCP server providing on-prem PII detection and anonymization tools (scan and is_sensitive) for AI agents, ensuring data stays local.",
+  "source_repo": "oguzhantopcu0/wardcat-mcp",
+  "source_url": "https://github.com/oguzhantopcu0/wardcat-mcp",
+  "install": "npx -y wardcat-mcp"
+}

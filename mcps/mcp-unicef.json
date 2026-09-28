@@ -1,0 +1,7 @@
+{
+  "name": "mcp-unicef",
+  "description": "Provides access to UNICEF data on global statistics about child health, enabling AI agents to query child health indicators.",
+  "source_repo": "pipeworx-io/mcp-unicef",
+  "source_url": "https://github.com/pipeworx-io/mcp-unicef",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-unicef\n# See source for mcpServers config block"
+}

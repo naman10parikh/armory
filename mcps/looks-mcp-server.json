@@ -1,0 +1,7 @@
+{
+  "name": "looks-mcp-server",
+  "description": "Exposes the Look API's analytics surface as MCP tools, enabling agents to query outfit generation and analytics data with proper semantics for suppressed, sampled, or truncated results.",
+  "source_repo": "montebelle/Looks-SDK",
+  "source_url": "https://github.com/montebelle/Looks-SDK",
+  "install": "# git clone --depth 1 https://github.com/montebelle/Looks-SDK\n# See source for mcpServers config block"
+}

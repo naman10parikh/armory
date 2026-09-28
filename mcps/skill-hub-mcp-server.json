@@ -1,0 +1,7 @@
+{
+  "name": "skill-hub-mcp-server",
+  "description": "Enables AI assistants to discover, search, and install Claude Code Skills from SkillHub, with tools for semantic search, browsing, recommendations, and installation.",
+  "source_repo": "skillhub-club/mcp-server",
+  "source_url": "https://github.com/skillhub-club/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/skillhub-club/mcp-server\n# See source for mcpServers config block"
+}

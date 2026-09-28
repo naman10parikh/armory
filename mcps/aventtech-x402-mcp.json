@@ -1,0 +1,7 @@
+{
+  "name": "aventtech-x402-mcp",
+  "description": "Provides AI agents with AV/IT device integration knowledge (control protocols, ports, field-tested notes) via a pay-per-lookup API using the x402 protocol and USDC micropayments.",
+  "source_repo": "ttsempelis/avt-x402-mcp",
+  "source_url": "https://github.com/ttsempelis/avt-x402-mcp",
+  "install": "npx -y avt-x402-mcp"
+}

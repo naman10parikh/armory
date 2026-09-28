@@ -1,0 +1,7 @@
+{
+  "name": "gripforge-mcp",
+  "description": "MCP server for attaching weapons and props to rigged characters via the GripForge API, supporting multiple styles and output formats for game engines.",
+  "source_repo": "gripforgeai/mcp",
+  "source_url": "https://github.com/gripforgeai/mcp",
+  "install": "# git clone --depth 1 https://github.com/gripforgeai/mcp\n# See source for mcpServers config block"
+}

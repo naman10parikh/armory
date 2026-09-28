@@ -1,0 +1,7 @@
+{
+  "name": "notion-multi-mcp",
+  "description": "An MCP server that lets AI assistants operate multiple Notion accounts simultaneously.",
+  "source_repo": "kerwin77106/Notion-Multi-MCP",
+  "source_url": "https://github.com/kerwin77106/Notion-Multi-MCP",
+  "install": "npx -y Notion-Multi-MCP"
+}

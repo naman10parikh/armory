@@ -1,0 +1,7 @@
+{
+  "name": "origintrail-dkg-mcp-server",
+  "description": "Connects MCP-compatible agents with the OriginTrail Decentralized Knowledge Graph, enabling creation, retrieval, linking, and exchange of verifiable knowledge using natural language and SPARQL queries.",
+  "source_repo": "OriginTrail/dkg-mcp-server",
+  "source_url": "https://github.com/OriginTrail/dkg-mcp-server",
+  "install": "npx -y dkg-mcp-server"
+}

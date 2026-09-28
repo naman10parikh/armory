@@ -1,0 +1,7 @@
+{
+  "name": "taproom",
+  "description": "Discovers and manages portable agent capabilities (skills and MCP servers) from configurable collections, providing search, inspection, and local installation via CLI and MCP tools.",
+  "source_repo": "batteryshark/taproom",
+  "source_url": "https://github.com/batteryshark/taproom",
+  "install": "# git clone --depth 1 https://github.com/batteryshark/taproom\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shakatoti1618-agent",
+  "description": "MCP server that enables AI agents to perform GitHub operations (repos, issues, commits, PRs) via natural language, integrated with hosts like Antigravity.",
+  "source_repo": "shakatoti1618-wq/shakatoti1618-agent-pi5-henry-jonathan-heredia-",
+  "source_url": "https://github.com/shakatoti1618-wq/shakatoti1618-agent-pi5-henry-jonathan-heredia-",
+  "install": "# git clone --depth 1 https://github.com/shakatoti1618-wq/shakatoti1618-agent-pi5-henry-jonathan-heredia-\n# See source for mcpServers config block"
+}

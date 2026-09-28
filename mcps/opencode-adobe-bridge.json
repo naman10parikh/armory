@@ -1,0 +1,7 @@
+{
+  "name": "opencode-adobe-bridge",
+  "description": "MCP server that bridges OpenCode AI chat to Adobe After Effects and Premiere Pro via a local Node/Express server and ExtendScript, enabling commands like creating compositions, rendering, and executing scripts directly from the chat.",
+  "source_repo": "luisitoys12/opencode-adobe-bridge",
+  "source_url": "https://github.com/luisitoys12/opencode-adobe-bridge",
+  "install": "# git clone --depth 1 https://github.com/luisitoys12/opencode-adobe-bridge\n# See source for mcpServers config block"
+}

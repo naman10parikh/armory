@@ -1,0 +1,7 @@
+{
+  "name": "admitad-mcp",
+  "description": "Enables AI assistants to browse Admitad affiliate programs, discover product feeds, and search products directly from chat.",
+  "source_repo": "gruzd1sok/admitad-mcp",
+  "source_url": "https://github.com/gruzd1sok/admitad-mcp",
+  "install": "npx -y admitad-mcp"
+}

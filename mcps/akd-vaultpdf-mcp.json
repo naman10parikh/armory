@@ -1,0 +1,7 @@
+{
+  "name": "akd-vaultpdf-mcp",
+  "description": "Provides tools to analyze local PDFs and CSVs (page count, text search, scoring, column stats) with strict refusal to guess ambiguous data. Requires a paid license.",
+  "source_repo": "LifeAbundantly/akd-vaultpdf-mcp",
+  "source_url": "https://github.com/LifeAbundantly/akd-vaultpdf-mcp",
+  "install": "npx -y akd-vaultpdf-mcp"
+}

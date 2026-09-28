@@ -1,0 +1,7 @@
+{
+  "name": "vibecoin-mcp",
+  "description": "Drafts and deploys a coin from your repo to pump.fun's bonding curve on Solana, with local key management and fee recycling into an agent budget.",
+  "source_repo": "thetriggeredkid-spec/vibecoin-mcp",
+  "source_url": "https://github.com/thetriggeredkid-spec/vibecoin-mcp",
+  "install": "npx -y vibecoin-mcp"
+}

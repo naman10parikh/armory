@@ -1,0 +1,7 @@
+{
+  "name": "mcp-http-proxy",
+  "description": "Enables MCP clients to perform HTTP GET requests to arbitrary URLs and receive response details.",
+  "source_repo": "matthewhuie/mcp-http-proxy",
+  "source_url": "https://github.com/matthewhuie/mcp-http-proxy",
+  "install": "# git clone --depth 1 https://github.com/matthewhuie/mcp-http-proxy\n# See source for mcpServers config block"
+}

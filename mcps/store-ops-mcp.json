@@ -1,0 +1,7 @@
+{
+  "name": "store-ops-mcp",
+  "description": "Enables store operations including inventory and sales queries and automated replenishment ordering through natural language.",
+  "source_repo": "AI-Product-Allen-Yu/duvo-store-ops-mcp",
+  "source_url": "https://github.com/AI-Product-Allen-Yu/duvo-store-ops-mcp",
+  "install": "npx -y duvo-store-ops-mcp"
+}

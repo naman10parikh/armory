@@ -1,0 +1,7 @@
+{
+  "name": "kairan",
+  "description": "A local MCP server that lets AI agents publish markdown/HTML to a browser viewer with session management, revision diffs, and live updates via a single tool call.",
+  "source_repo": "ukwhatn/kairan",
+  "source_url": "https://github.com/ukwhatn/kairan",
+  "install": "# git clone --depth 1 https://github.com/ukwhatn/kairan\n# See source for mcpServers config block"
+}

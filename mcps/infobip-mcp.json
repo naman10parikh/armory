@@ -1,0 +1,7 @@
+{
+  "name": "infobip-mcp",
+  "description": "Unified Model Context Protocol (MCP) server for Infobip APIs. Consolidates SMS, WhatsApp, Email, 2FA/OTP, and Account management into a single, high-performance local MCP server.",
+  "source_repo": "Steph-ux/infobip-mcp",
+  "source_url": "https://github.com/Steph-ux/infobip-mcp",
+  "install": "npx -y infobip-mcp"
+}

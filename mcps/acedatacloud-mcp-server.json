@@ -1,0 +1,7 @@
+{
+  "name": "acedatacloud-mcp-server",
+  "description": "Manages your AceDataCloud account through the platform management API, enabling balance checks, usage/spend lookup, API key management, order creation/payment, announcement publishing, and more.",
+  "source_repo": "AceDataCloud/AceDataCloudMCP",
+  "source_url": "https://github.com/AceDataCloud/AceDataCloudMCP",
+  "install": "# git clone --depth 1 https://github.com/AceDataCloud/AceDataCloudMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-harness-lab-mcp-server",
+  "description": "Provides a guarded semantic layer for text-to-SQL, offering tools for schema discovery, semantic profiling, and query verification to enable safe and reliable SQL generation on enterprise databases.",
+  "source_repo": "ishanarya31/agent-harness-lab",
+  "source_url": "https://github.com/ishanarya31/agent-harness-lab",
+  "install": "# git clone --depth 1 https://github.com/ishanarya31/agent-harness-lab\n# See source for mcpServers config block"
+}

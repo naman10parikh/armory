@@ -1,0 +1,7 @@
+{
+  "name": "mcp-xmorf",
+  "description": "MCP server for xmorf API enabling AI image editing and generation via natural language prompts.",
+  "source_repo": "crawde/mcp-xmorf",
+  "source_url": "https://github.com/crawde/mcp-xmorf",
+  "install": "# git clone --depth 1 https://github.com/crawde/mcp-xmorf\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "giljoai-mcp",
+  "description": "A passive context server that stores product knowledge, generates structured prompts, and coordinates multi-agent workflows via the Model Context Protocol, enabling AI coding tools to share a full picture of the product.",
+  "source_repo": "giljoai/GiljoAI_MCP",
+  "source_url": "https://github.com/giljoai/GiljoAI_MCP",
+  "install": "npx -y GiljoAI_MCP"
+}

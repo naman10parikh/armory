@@ -1,0 +1,7 @@
+{
+  "name": "oneshot-mcp",
+  "description": "Enables coding agents to search and retrieve OneShot's receipt-verified build packs, including verification details, pricing, and refund terms, directly from the editor.",
+  "source_repo": "gkaffen338/oneshot-mcp",
+  "source_url": "https://github.com/gkaffen338/oneshot-mcp",
+  "install": "npx -y oneshot-mcp"
+}

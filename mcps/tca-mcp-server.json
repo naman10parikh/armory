@@ -1,0 +1,7 @@
+{
+  "name": "tca-mcp-server",
+  "description": "Enables starting code analysis and obtaining code analysis reports via the MCP protocol, integrating with Tencent Cloud Code Analysis (TCA).",
+  "source_repo": "TCATools/tca-mcp-server",
+  "source_url": "https://github.com/TCATools/tca-mcp-server",
+  "install": "npx -y tca-mcp-server"
+}

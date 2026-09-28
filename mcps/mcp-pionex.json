@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pionex",
+  "description": "Enables AI assistants to interact with the Pionex exchange through MCP, providing market data, account info, spot trading, grid bots, and Dual Investment tools with strict anti-hallucination guardrails including two-phase order confirmation and live symbol/price validation.",
+  "source_repo": "alejandrorodm/MCP-Pionex",
+  "source_url": "https://github.com/alejandrorodm/MCP-Pionex",
+  "install": "# git clone --depth 1 https://github.com/alejandrorodm/MCP-Pionex\n# See source for mcpServers config block"
+}

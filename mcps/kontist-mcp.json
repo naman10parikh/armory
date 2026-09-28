@@ -1,0 +1,7 @@
+{
+  "name": "kontist-mcp",
+  "description": "MCP server that reads and annotates Kontist business banking data, including balances, transactions, and tax reserves.",
+  "source_repo": "Fabi-SPL/kontist-mcp",
+  "source_url": "https://github.com/Fabi-SPL/kontist-mcp",
+  "install": "npx -y kontist-mcp"
+}

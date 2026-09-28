@@ -1,0 +1,7 @@
+{
+  "name": "zaytsv-bot-graph-mcp",
+  "description": "MCP server for building and publishing Telegram bot funnels on zaytsv.ru, enabling graph creation, validation, and publication via API.",
+  "source_repo": "skiddgoddamn/zaytsv-bot-graph-mcp",
+  "source_url": "https://github.com/skiddgoddamn/zaytsv-bot-graph-mcp",
+  "install": "npx -y zaytsv-bot-graph-mcp"
+}

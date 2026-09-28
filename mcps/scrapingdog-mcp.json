@@ -1,0 +1,7 @@
+{
+  "name": "scrapingdog-mcp",
+  "description": "An MCP server that exposes all 77 ScrapingDog API endpoints as AI-ready tools, enabling web scraping, Google search, Amazon product data, LinkedIn profiles, YouTube transcripts, and more through a single API key.",
+  "source_repo": "alessandrobenigni/ScrapingDog-MCP",
+  "source_url": "https://github.com/alessandrobenigni/ScrapingDog-MCP",
+  "install": "npx -y ScrapingDog-MCP"
+}

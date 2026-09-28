@@ -1,0 +1,7 @@
+{
+  "name": "vdl-mcp",
+  "description": "MCP server for vdl that lets AI assistants resolve, download, and transcribe videos through a self-hosted vdl instance.",
+  "source_repo": "sphings79/vdl-mcp",
+  "source_url": "https://github.com/sphings79/vdl-mcp",
+  "install": "npx -y vdl-mcp"
+}

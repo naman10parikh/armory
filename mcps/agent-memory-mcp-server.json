@@ -1,0 +1,7 @@
+{
+  "name": "agent-memory-mcp-server",
+  "description": "Provides persistent key-value storage with full-text search, tags, and namespaces for AI agents to maintain context across sessions.",
+  "source_repo": "AiAgentKarl/agent-memory-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/agent-memory-mcp-server",
+  "install": "npx -y agent-memory-mcp-server"
+}

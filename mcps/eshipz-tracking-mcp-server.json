@@ -1,0 +1,7 @@
+{
+  "name": "eshipz-tracking-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides shipment tracking functionality through the eShipz API. This server enables Claude Desktop to track packages across multiple carriers with intelligent, status-aware formatting.",
+  "source_repo": "KavinVetrivel/eshipz-mcp",
+  "source_url": "https://github.com/KavinVetrivel/eshipz-mcp",
+  "install": "npx -y eshipz-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "k8s-lens-mcp",
+  "description": "Enables natural language Kubernetes operations, including smart resource queries, pod root-cause analysis, cross-environment diffs, and manifest generation.",
+  "source_repo": "firas-mcp-servers/k8s-lens-mcp",
+  "source_url": "https://github.com/firas-mcp-servers/k8s-lens-mcp",
+  "install": "npx -y k8s-lens-mcp"
+}

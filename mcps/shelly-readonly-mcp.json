@@ -1,0 +1,7 @@
+{
+  "name": "shelly-readonly-mcp",
+  "description": "Enables read-only inspection of Shelly devices discovered through Home Assistant, providing status and redacted configuration without control or switching capabilities.",
+  "source_repo": "achouwer/shelly-readonly-mcp",
+  "source_url": "https://github.com/achouwer/shelly-readonly-mcp",
+  "install": "npx -y shelly-readonly-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dynamic-openapi-mcp",
+  "description": "Converts any OpenAPI v3 spec into an MCP server with typed tools, resources, and prompts, enabling AI agents to call any REST API via natural language.",
+  "source_repo": "forattini-dev/dynamic-openapi-mcp",
+  "source_url": "https://github.com/forattini-dev/dynamic-openapi-mcp",
+  "install": "npx -y dynamic-openapi-mcp"
+}

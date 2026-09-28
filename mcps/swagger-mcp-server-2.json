@@ -1,6 +1,6 @@
 {
   "name": "swagger-mcp-server-2",
-  "description": "Swagger Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "marcin-sucharski/swagger-mcp-server",
   "source_url": "https://mcp.so/server/swagger-mcp-server/marcin-sucharski",
   "install": "npx -y swagger-mcp-server"

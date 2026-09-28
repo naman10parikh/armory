@@ -1,0 +1,7 @@
+{
+  "name": "jira-run-mcp",
+  "description": "An MCP server for Jira 8 that enables SSO-authenticated issue management, work logging, search, and more through natural language, using Playwright for session setup and running as a local subprocess.",
+  "source_repo": "cuongph-dev-work/jira8_mcp",
+  "source_url": "https://github.com/cuongph-dev-work/jira8_mcp",
+  "install": "npx -y jira8_mcp"
+}

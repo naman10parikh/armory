@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-mcp-pro",
+  "description": "Self-hosted, ban-safe MCP server for LinkedIn that provides 22 tools for profiles, search, jobs, posts, connections, and messages. Integrates with any MCP-compatible client like Claude Desktop.",
+  "source_repo": "horizonbymuneeb/linkedin-mcp-pro",
+  "source_url": "https://github.com/horizonbymuneeb/linkedin-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/horizonbymuneeb/linkedin-mcp-pro\n# See source for mcpServers config block"
+}

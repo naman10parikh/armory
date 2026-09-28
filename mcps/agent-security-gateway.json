@@ -1,0 +1,7 @@
+{
+  "name": "agent-security-gateway",
+  "description": "MCP server that provides a security gateway for AI agents, enforcing allow/confirm/deny policies on tool calls and requiring human approval for risky operations, with full audit logging.",
+  "source_repo": "Un1u6ky/agent-security-gateway",
+  "source_url": "https://github.com/Un1u6ky/agent-security-gateway",
+  "install": "# git clone --depth 1 https://github.com/Un1u6ky/agent-security-gateway\n# See source for mcpServers config block"
+}

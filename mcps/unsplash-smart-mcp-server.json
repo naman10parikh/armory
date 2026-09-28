@@ -1,0 +1,7 @@
+{
+  "name": "unsplash-smart-mcp-server",
+  "description": "Enables AI agents to search, recommend, and deliver professional stock photos from Unsplash with intelligent context awareness and automatic attribution management.",
+  "source_repo": "drumnation/unsplash-smart-mcp-server",
+  "source_url": "https://github.com/drumnation/unsplash-smart-mcp-server",
+  "install": "npx -y unsplash-smart-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cryptocurrency-mcp-server",
+  "description": "Python-based MCP server that provides real-time and historical cryptocurrency data from 100+ exchanges via CCXT, with tools for tickers, OHLCV, markets, and order books.",
+  "source_repo": "Diya28-mehra/crypto_mcp_server",
+  "source_url": "https://github.com/Diya28-mehra/crypto_mcp_server",
+  "install": "npx -y crypto_mcp_server"
+}

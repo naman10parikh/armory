@@ -1,0 +1,7 @@
+{
+  "name": "peaka-mcp-server",
+  "description": "Enables LLMs to inspect schemas and execute SQL queries on Peaka projects using Peaka's text2SQL capabilities.",
+  "source_repo": "peakacom/peaka-mcp-server",
+  "source_url": "https://github.com/peakacom/peaka-mcp-server",
+  "install": "npx -y peaka-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "context0-core",
+  "description": "Personal documentation index for agents and IDEs, accessible via MCP HTTP protocol.",
+  "source_repo": "thiagovasconcelosti/contextzero-vscode",
+  "source_url": "https://github.com/thiagovasconcelosti/contextzero-vscode",
+  "install": "# git clone --depth 1 https://github.com/thiagovasconcelosti/contextzero-vscode\n# See source for mcpServers config block"
+}

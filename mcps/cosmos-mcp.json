@@ -1,0 +1,7 @@
+{
+  "name": "cosmos-mcp",
+  "description": "MCP server for searching cosmos.so, returning direct CDN image URLs without page scraping.",
+  "source_repo": "vihaanshahh/cosmos-mcp",
+  "source_url": "https://github.com/vihaanshahh/cosmos-mcp",
+  "install": "npx -y cosmos-mcp"
+}

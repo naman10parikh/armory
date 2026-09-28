@@ -1,0 +1,7 @@
+{
+  "name": "kachaka-mcp-server",
+  "description": "Enables AI models to monitor and control Kachaka robots via MCP, including navigation, shelf operations, and sensor data access.",
+  "source_repo": "comoc/kachaka-mcp",
+  "source_url": "https://github.com/comoc/kachaka-mcp",
+  "install": "npx -y kachaka-mcp"
+}

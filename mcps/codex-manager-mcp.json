@@ -1,0 +1,7 @@
+{
+  "name": "codex-manager-mcp",
+  "description": "Manages local Codex CLI sessions from Claude Code, enabling starting, monitoring, messaging, stopping, and adopting codex tasks.",
+  "source_repo": "SinCircle/codex-manager-mcp",
+  "source_url": "https://github.com/SinCircle/codex-manager-mcp",
+  "install": "npx -y codex-manager-mcp"
+}

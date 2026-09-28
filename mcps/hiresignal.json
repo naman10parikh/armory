@@ -1,0 +1,7 @@
+{
+  "name": "hiresignal",
+  "description": "MCP server that turns live job postings into buying signals for B2B sales, enabling AI agents to find in-market accounts and time outreach based on hiring intent.",
+  "source_repo": "iusmuchandra/hiresignal-mcp",
+  "source_url": "https://github.com/iusmuchandra/hiresignal-mcp",
+  "install": "npx -y hiresignal-mcp"
+}

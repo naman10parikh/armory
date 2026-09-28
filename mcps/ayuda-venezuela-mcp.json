@@ -1,0 +1,7 @@
+{
+  "name": "ayuda-venezuela-mcp",
+  "description": "Bot to amplify crisis information in Venezuela by tweeting predefined templates and mentioning key accounts.",
+  "source_repo": "mrallanodreman/ayuda-venezuela-mcp",
+  "source_url": "https://github.com/mrallanodreman/ayuda-venezuela-mcp",
+  "install": "npx -y ayuda-venezuela-mcp"
+}

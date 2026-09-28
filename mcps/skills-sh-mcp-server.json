@@ -1,0 +1,7 @@
+{
+  "name": "skills-sh-mcp-server",
+  "description": "Enables AI agents to autonomously search, evaluate, and install skills from the skills.sh catalog.",
+  "source_repo": "ANeuronI/Skill.sh-MCP",
+  "source_url": "https://github.com/ANeuronI/Skill.sh-MCP",
+  "install": "npx -y Skill.sh-MCP"
+}

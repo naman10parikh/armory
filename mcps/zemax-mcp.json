@@ -1,0 +1,7 @@
+{
+  "name": "zemax-mcp",
+  "description": "Safety-first MCP server enabling AI assistants to drive Zemax OpticStudio sequential-mode optical design workflows, including a mock backend for validation.",
+  "source_repo": "dongzhaohe321418-lab/zemax-mcp",
+  "source_url": "https://github.com/dongzhaohe321418-lab/zemax-mcp",
+  "install": "npx -y zemax-mcp"
+}

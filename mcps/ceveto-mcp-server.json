@@ -1,0 +1,7 @@
+{
+  "name": "ceveto-mcp-server",
+  "description": "Enables AI agents to interact with the Ceveto business management API through MCP, with permission-filtered tools and secure Ed25519 authentication.",
+  "source_repo": "Ceveto/mcp-server",
+  "source_url": "https://github.com/Ceveto/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Ceveto/mcp-server\n# See source for mcpServers config block"
+}

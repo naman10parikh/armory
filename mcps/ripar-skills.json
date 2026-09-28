@@ -1,0 +1,7 @@
+{
+  "name": "ripar-skills",
+  "description": "This MCP server enables AI agents to interact with Ripar's decentralized registries on Algorand, offering tools for searching agents, checking reputations, listing jobs, auditing settlements, and composing unsigned transactions for payments.",
+  "source_repo": "nickthelegend/ripar-skills",
+  "source_url": "https://github.com/nickthelegend/ripar-skills",
+  "install": "# git clone --depth 1 https://github.com/nickthelegend/ripar-skills\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kitsu-mcp-server",
+  "description": "Enables LLMs to interact with Kitsu production tracker via its Zou API, providing tools for project management, asset and task operations, and cross-platform migration support.",
+  "source_repo": "huikku/kitsu-mcp",
+  "source_url": "https://github.com/huikku/kitsu-mcp",
+  "install": "npx -y kitsu-mcp"
+}

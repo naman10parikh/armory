@@ -1,0 +1,7 @@
+{
+  "name": "hackbrowser-mcp",
+  "description": "Enables AI agents to perform security testing on web applications by controlling a Firefox browser with 39 security tools, including injection testing and access control analysis.",
+  "source_repo": "badchars/hackbrowser-mcp",
+  "source_url": "https://github.com/badchars/hackbrowser-mcp",
+  "install": "npx -y hackbrowser-mcp"
+}

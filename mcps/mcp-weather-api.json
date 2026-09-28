@@ -1,0 +1,7 @@
+{
+  "name": "mcp-weather-api",
+  "description": "Provides weather forecasts and alerts for US locations via the National Weather Service API, enabling AI assistants to deliver real-time weather information.",
+  "source_repo": "devgrunge/mcp-weather-api",
+  "source_url": "https://github.com/devgrunge/mcp-weather-api",
+  "install": "# git clone --depth 1 https://github.com/devgrunge/mcp-weather-api\n# See source for mcpServers config block"
+}

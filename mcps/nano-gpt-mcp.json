@@ -1,0 +1,7 @@
+{
+  "name": "nano-gpt-mcp",
+  "description": "Provides access to 700+ AI models for text, image, video, and audio generation via the NanoGPT API, enabling direct use from Claude Code or any MCP-compatible client.",
+  "source_repo": "mageaustralia/nano-gpt-mcp",
+  "source_url": "https://github.com/mageaustralia/nano-gpt-mcp",
+  "install": "npx -y nano-gpt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "image-this-mcp",
+  "description": "A production-ready MCP server that provides AI-powered image generation through multiple providers including Gemini and Jimeng AI with intelligent provider selection.",
+  "source_repo": "GalaxyXieyu/Image-This-MCP",
+  "source_url": "https://github.com/GalaxyXieyu/Image-This-MCP",
+  "install": "npx -y Image-This-MCP"
+}

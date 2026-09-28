@@ -1,0 +1,7 @@
+{
+  "name": "windex-mcp-server",
+  "description": "Enables hybrid search (dense + sparse) over self-hosted indexes of continuously ingested public datasets (news, GitHub, Wikipedia, arXiv, small web, devdocs, Hacker News) using your own embedding model, served via the Model Context Protocol.",
+  "source_repo": "stevemurr/windex",
+  "source_url": "https://github.com/stevemurr/windex",
+  "install": "# git clone --depth 1 https://github.com/stevemurr/windex\n# See source for mcpServers config block"
+}

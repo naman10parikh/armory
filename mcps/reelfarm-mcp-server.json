@@ -1,0 +1,7 @@
+{
+  "name": "reelfarm-mcp-server",
+  "description": "Enables creating slideshows, managing automations, publishing to TikTok, and searching Pinterest via the ReelFarm API from any MCP-compatible AI client.",
+  "source_repo": "AhmadElsaeedd/reelfarm-mcp",
+  "source_url": "https://github.com/AhmadElsaeedd/reelfarm-mcp",
+  "install": "npx -y reelfarm-mcp"
+}

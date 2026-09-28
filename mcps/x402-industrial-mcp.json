@@ -1,0 +1,7 @@
+{
+  "name": "x402-industrial-mcp",
+  "description": "The first and only MCP server for PLC (Programmable Logic Controller) intelligence. Give any AI agent direct access to industrial automation data — ladder logic, tag databases, cross-references, fault root cause analysis, and sequence blockers",
+  "source_repo": "xXbrucyjucyXx/x402-industrial-mcp",
+  "source_url": "https://github.com/xXbrucyjucyXx/x402-industrial-mcp",
+  "install": "npx -y x402-industrial-mcp"
+}

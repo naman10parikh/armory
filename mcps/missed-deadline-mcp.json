@@ -1,0 +1,7 @@
+{
+  "name": "missed-deadline-mcp",
+  "description": "A Korean-language loss-prevention MCP server that extracts deadlines from user-provided text, ranks them by risk, and generates actionable steps to avoid financial or opportunity loss.",
+  "source_repo": "NewTurn2017/missed-deadline-mcp",
+  "source_url": "https://github.com/NewTurn2017/missed-deadline-mcp",
+  "install": "npx -y missed-deadline-mcp"
+}

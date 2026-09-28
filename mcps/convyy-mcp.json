@@ -1,0 +1,7 @@
+{
+  "name": "convyy-mcp",
+  "description": "Enables AI agents to create and manage Convyy boards, including diagrams, kanban boards, journey maps, and more, through MCP tools like convyy_run_prompt.",
+  "source_repo": "divulture/convyy-mcp",
+  "source_url": "https://github.com/divulture/convyy-mcp",
+  "install": "npx -y convyy-mcp"
+}

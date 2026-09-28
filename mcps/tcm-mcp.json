@@ -1,0 +1,7 @@
+{
+  "name": "tcm-mcp",
+  "description": "A stdio MCP server providing AI agents with a stable tool interface to read and write TCM test cases through REST, including search, CRUD operations, and a dry-run-to-commit safety flow.",
+  "source_repo": "JoinFullStackDev/tcm-mcp",
+  "source_url": "https://github.com/JoinFullStackDev/tcm-mcp",
+  "install": "npx -y tcm-mcp"
+}

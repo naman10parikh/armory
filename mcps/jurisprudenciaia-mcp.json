@@ -1,0 +1,7 @@
+{
+  "name": "jurisprudenciaia-mcp",
+  "description": "Self-hosted MCP connector for querying Brazilian legal jurisprudence via JurisprudenciaIA. Enables natural language legal research using Claude.ai, with tools for consulting, searching, and comparing jurisprudence and legal theses.",
+  "source_repo": "brunoflma/jurisprudenciaia-mcp",
+  "source_url": "https://github.com/brunoflma/jurisprudenciaia-mcp",
+  "install": "npx -y jurisprudenciaia-mcp"
+}

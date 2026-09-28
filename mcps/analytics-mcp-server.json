@@ -1,0 +1,7 @@
+{
+  "name": "analytics-mcp-server",
+  "description": "Enables safe exploration and analysis of SQLite databases through guarded read-only queries, schema inspection, aggregations, and CSV imports.",
+  "source_repo": "kshitiz305/analytics-mcp-server",
+  "source_url": "https://github.com/kshitiz305/analytics-mcp-server",
+  "install": "npx -y analytics-mcp-server"
+}

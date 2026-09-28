@@ -1,0 +1,7 @@
+{
+  "name": "mcp-vsdiff",
+  "description": "An MCP server that exposes VS Code's advanced diff algorithm as a tool, providing accurate unified diffs with move detection and annotations.",
+  "source_repo": "Paul-Particle/mcp-vsdiff",
+  "source_url": "https://github.com/Paul-Particle/mcp-vsdiff",
+  "install": "# git clone --depth 1 https://github.com/Paul-Particle/mcp-vsdiff\n# See source for mcpServers config block"
+}

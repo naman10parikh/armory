@@ -1,0 +1,7 @@
+{
+  "name": "jjx-js-reverse-mcp",
+  "description": "A unified MCP server for JavaScript reverse engineering that provides full hook, breakpoints, script debugging, and browser automation with CDP anti-detection, supporting both ATTACH and LAUNCH modes.",
+  "source_repo": "Junjianxin/jjx-js-reverse-mcp",
+  "source_url": "https://github.com/Junjianxin/jjx-js-reverse-mcp",
+  "install": "npx -y jjx-js-reverse-mcp"
+}

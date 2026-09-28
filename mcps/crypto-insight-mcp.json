@@ -1,0 +1,7 @@
+{
+  "name": "crypto-insight-mcp",
+  "description": "MCP server for accessing crypto market data (prices, portfolio analytics) from CoinGecko and performing RAG-based search over internal documents with responsible-AI guardrails.",
+  "source_repo": "IgorAbramov/crypto-insight-mcp",
+  "source_url": "https://github.com/IgorAbramov/crypto-insight-mcp",
+  "install": "npx -y crypto-insight-mcp"
+}

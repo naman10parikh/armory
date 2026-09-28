@@ -1,0 +1,7 @@
+{
+  "name": "0g-chain-mcp",
+  "description": "Production-ready MCP server for 0G Chain blockchain operations, enabling wallet creation, balance checks, token transfers, staking, and validator discovery through natural language.",
+  "source_repo": "Tairon-ai/0g-chain-mcp",
+  "source_url": "https://github.com/Tairon-ai/0g-chain-mcp",
+  "install": "npx -y 0g-chain-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "speechweave-mcp",
+  "description": "MCP server for SpeechWeave transcription, enabling AI assistants to transcribe local files and URLs via wait-first or async tools.",
+  "source_repo": "speechweave/speechweave-mcp",
+  "source_url": "https://github.com/speechweave/speechweave-mcp",
+  "install": "npx -y speechweave-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-preview-mcp",
+  "description": "Provides dev-server lifecycle management and Chrome browser automation tools (14 preview_* tools) for MCP-compatible agents like Claude Code, OpenCode, and Kilo Code.",
+  "source_repo": "MichaelTendoSsemwanga/claude-preview-mcp",
+  "source_url": "https://github.com/MichaelTendoSsemwanga/claude-preview-mcp",
+  "install": "npx -y claude-preview-mcp"
+}

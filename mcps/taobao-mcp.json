@@ -1,0 +1,7 @@
+{
+  "name": "taobao-mcp",
+  "description": "An MCP server that exposes browser automation tools and Taobao product search/detail lookup via Playwright. It requires a logged-in Taobao session and is best-effort scraping, not an official API.",
+  "source_repo": "Sinpensar/taobao-mcp",
+  "source_url": "https://github.com/Sinpensar/taobao-mcp",
+  "install": "npx -y taobao-mcp"
+}

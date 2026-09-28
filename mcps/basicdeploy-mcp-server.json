@@ -1,0 +1,7 @@
+{
+  "name": "basicdeploy-mcp-server",
+  "description": "Enables AI agents to create and manage BasicDeploy containers with PostgreSQL, S3 storage, and public URLs, including deploying apps, running commands, viewing logs, and sharing containers.",
+  "source_repo": "AkaciaNL/basicdeploy-mcp",
+  "source_url": "https://github.com/AkaciaNL/basicdeploy-mcp",
+  "install": "npx -y basicdeploy-mcp"
+}

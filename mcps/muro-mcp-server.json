@@ -1,0 +1,7 @@
+{
+  "name": "muro-mcp-server",
+  "description": "The official hosted MCP server for muro.chat, enabling AI agents to manage customer support conversations, send replies, triage tickets, and configure the live chat widget.",
+  "source_repo": "Muro-chat/muro-mcp",
+  "source_url": "https://github.com/Muro-chat/muro-mcp",
+  "install": "npx -y muro-mcp"
+}

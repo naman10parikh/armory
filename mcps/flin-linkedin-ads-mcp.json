@@ -1,0 +1,7 @@
+{
+  "name": "flin-linkedin-ads-mcp",
+  "description": "A read-only MCP server for LinkedIn Ads that enables users to query ad accounts, campaigns, creatives, insights, and company intelligence via natural language.",
+  "source_repo": "flin-agency/flin-linkedin-ads-mcp",
+  "source_url": "https://github.com/flin-agency/flin-linkedin-ads-mcp",
+  "install": "npx -y flin-linkedin-ads-mcp"
+}

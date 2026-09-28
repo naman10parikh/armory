@@ -1,0 +1,7 @@
+{
+  "name": "codex-remote-exec",
+  "description": "MCP server for remote execution on Windows devices. Enables Codex to run PowerShell, manage files/processes, and capture screenshots via a relay and enrolled Windows agent.",
+  "source_repo": "simon92641/codex-remote-exec",
+  "source_url": "https://github.com/simon92641/codex-remote-exec",
+  "install": "# git clone --depth 1 https://github.com/simon92641/codex-remote-exec\n# See source for mcpServers config block"
+}

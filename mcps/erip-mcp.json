@@ -1,0 +1,7 @@
+{
+  "name": "erip-mcp",
+  "description": "MCP server for Belarus ERIP/E-POS/KROK payments via aggregator APIs, offering platform-specific tools for Express-Pay, bePaid, WEBPAY, Hutki Grosh, and Assist to manage invoices and payments.",
+  "source_repo": "yasmanmesa/erip-mcp",
+  "source_url": "https://github.com/yasmanmesa/erip-mcp",
+  "install": "npx -y erip-mcp"
+}

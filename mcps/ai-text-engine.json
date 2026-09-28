@@ -1,0 +1,7 @@
+{
+  "name": "ai-text-engine",
+  "description": "MCP server that enables AI agents to create, edit, validate, and export single-file HTML text adventure games using JSON story data and MCP tools.",
+  "source_repo": "Flamesnake/ai-text-engine",
+  "source_url": "https://github.com/Flamesnake/ai-text-engine",
+  "install": "# git clone --depth 1 https://github.com/Flamesnake/ai-text-engine\n# See source for mcpServers config block"
+}

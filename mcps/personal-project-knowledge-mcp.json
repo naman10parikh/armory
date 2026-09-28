@@ -1,0 +1,7 @@
+{
+  "name": "personal-project-knowledge-mcp",
+  "description": "Personal local AI memory/document MCP that manages short and long-term memories and Markdown documents, with tools for import, search, and retrieval.",
+  "source_repo": "YR-yangrui/personal-project-knowledge-mcp",
+  "source_url": "https://github.com/YR-yangrui/personal-project-knowledge-mcp",
+  "install": "npx -y personal-project-knowledge-mcp"
+}

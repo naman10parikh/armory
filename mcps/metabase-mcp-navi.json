@@ -1,0 +1,7 @@
+{
+  "name": "metabase-mcp-navi",
+  "description": "A MCP server for Metabase that gives AI assistants direct access to dashboards, cards, and query execution.",
+  "source_repo": "manish-coder-1007/metabase-mcp-navi",
+  "source_url": "https://github.com/manish-coder-1007/metabase-mcp-navi",
+  "install": "# git clone --depth 1 https://github.com/manish-coder-1007/metabase-mcp-navi\n# See source for mcpServers config block"
+}

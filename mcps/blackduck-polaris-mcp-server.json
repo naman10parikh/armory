@@ -1,0 +1,7 @@
+{
+  "name": "blackduck-polaris-mcp-server",
+  "description": "An MCP server for Black Duck Polaris that enables AI coding assistants to trigger scans, manage findings, generate reports, and handle policies across SAST, SCA, and DAST tools.",
+  "source_repo": "easygoingcoder/blackduck-polaris-mcp-server",
+  "source_url": "https://github.com/easygoingcoder/blackduck-polaris-mcp-server",
+  "install": "npx -y blackduck-polaris-mcp-server"
+}

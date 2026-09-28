@@ -1,0 +1,7 @@
+{
+  "name": "agentcrdt",
+  "description": "CRDT-based shared world state for parallel agent sessions — conflict-free merging of facts across concurrent AI agents.",
+  "source_repo": "sandeep-alluru/agentcrdt",
+  "source_url": "https://github.com/sandeep-alluru/agentcrdt",
+  "install": "# git clone --depth 1 https://github.com/sandeep-alluru/agentcrdt\n# See source for mcpServers config block"
+}

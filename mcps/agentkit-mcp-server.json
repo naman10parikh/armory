@@ -1,0 +1,7 @@
+{
+  "name": "agentkit-mcp-server",
+  "description": "Code-mode MCP server (docs_search + execute_code two-tool surface) backed by a unified capability manifest across three sandbox kernels (in-process node:vm, WASM via QuickJS / Pyodide / Wasmtime, and remote microVM via E2B / Cloudflare Sandbox). At N=30 tools the bootstrap-context cost drops to 13.6",
+  "source_repo": "telleroutlook/agentkit-js",
+  "source_url": "https://github.com/telleroutlook/agentkit-js",
+  "install": "# git clone --depth 1 https://github.com/telleroutlook/agentkit-js\n# See source for mcpServers config block"
+}

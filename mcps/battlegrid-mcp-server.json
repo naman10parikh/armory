@@ -1,0 +1,7 @@
+{
+  "name": "battlegrid-mcp-server",
+  "description": "Enables AI agents to play crypto prediction games on BattleGrid by managing accounts, submitting entries, and accessing market data through MCP tools and prompts.",
+  "source_repo": "playbattlegrid/battlegrid-mcp",
+  "source_url": "https://github.com/playbattlegrid/battlegrid-mcp",
+  "install": "npx -y battlegrid-mcp"
+}

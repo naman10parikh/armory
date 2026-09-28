@@ -1,0 +1,7 @@
+{
+  "name": "mcp-app-template",
+  "description": "A starter template for building MCP Apps on deco, enabling tools, resources, and interactive React UIs powered by the Model Context Protocol.",
+  "source_repo": "gsbenevides2/pr-mcp",
+  "source_url": "https://github.com/gsbenevides2/pr-mcp",
+  "install": "npx -y pr-mcp"
+}

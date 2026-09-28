@@ -1,0 +1,7 @@
+{
+  "name": "megachad-mcp-server",
+  "description": "MCP server exposing 20 tools for AI agents to interact with MegaETH, enabling DeFi swaps, NFT burn-to-create minting, identity resolution, and cross-chain operations.",
+  "source_repo": "megachadxyz/mega-chad",
+  "source_url": "https://github.com/megachadxyz/mega-chad",
+  "install": "# git clone --depth 1 https://github.com/megachadxyz/mega-chad\n# See source for mcpServers config block"
+}

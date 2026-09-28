@@ -1,0 +1,7 @@
+{
+  "name": "clawpanel-mcp",
+  "description": "MCP server exposing a ClawPanel workspace's knowledge base, memory, agents, and activity to MCP clients over OAuth 2.1, with strict tenant isolation.",
+  "source_repo": "Sidarau/clawpanel-mcp",
+  "source_url": "https://github.com/Sidarau/clawpanel-mcp",
+  "install": "npx -y clawpanel-mcp"
+}

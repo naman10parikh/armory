@@ -1,0 +1,7 @@
+{
+  "name": "parallel-search-mcp",
+  "description": "An MCP server that brings Parallel web search and URL extraction to Codex and other Model Context Protocol clients.",
+  "source_repo": "L-Chris/parallel-search-mcp",
+  "source_url": "https://github.com/L-Chris/parallel-search-mcp",
+  "install": "npx -y parallel-search-mcp"
+}

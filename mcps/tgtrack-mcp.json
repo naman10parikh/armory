@@ -1,0 +1,7 @@
+{
+  "name": "tgtrack-mcp",
+  "description": "Manage a tgtrack (Откуда Подписки) account from an AI agent — channels, ad-system integrations, tracking-script settings, goals and links — with no official API.",
+  "source_repo": "skiddgoddamn/tgtrack-mcp",
+  "source_url": "https://github.com/skiddgoddamn/tgtrack-mcp",
+  "install": "npx -y tgtrack-mcp"
+}

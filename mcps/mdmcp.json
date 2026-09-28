@@ -1,0 +1,7 @@
+{
+  "name": "mdmcp",
+  "description": "Turns Markdown files into local MCP servers, enabling users to define and run tools using simple Markdown syntax with zero dependencies.",
+  "source_repo": "MakiDevelop/mdmcp",
+  "source_url": "https://github.com/MakiDevelop/mdmcp",
+  "install": "# git clone --depth 1 https://github.com/MakiDevelop/mdmcp\n# See source for mcpServers config block"
+}

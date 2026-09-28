@@ -1,0 +1,7 @@
+{
+  "name": "kreports",
+  "description": "Enables investors and analysts to query Korean listed companies' financial health, accounting risks, and disclosure events using DART filings, accessible via natural language through Claude.",
+  "source_repo": "capitalparser/kreports-dart-mcp",
+  "source_url": "https://github.com/capitalparser/kreports-dart-mcp",
+  "install": "npx -y kreports-dart-mcp"
+}

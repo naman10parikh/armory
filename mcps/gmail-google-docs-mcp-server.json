@@ -1,0 +1,7 @@
+{
+  "name": "gmail-google-docs-mcp-server",
+  "description": "Enables AI assistants to send emails via Gmail and append text to Google Docs or local files.",
+  "source_repo": "Aparana-tech/MCP-Server",
+  "source_url": "https://github.com/Aparana-tech/MCP-Server",
+  "install": "# git clone --depth 1 https://github.com/Aparana-tech/MCP-Server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "phosphor",
+  "description": "Phosphor is a local stablecoin portfolio manager that exposes an MCP server, enabling AI agents to read balances, composition, and costs, and propose actions like consolidation or policy changes, with all execution gated by explicit human approval in the app window.",
+  "source_repo": "karimbabasf/phosphor",
+  "source_url": "https://github.com/karimbabasf/phosphor",
+  "install": "# git clone --depth 1 https://github.com/karimbabasf/phosphor\n# See source for mcpServers config block"
+}

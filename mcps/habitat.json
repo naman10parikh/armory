@@ -1,0 +1,7 @@
+{
+  "name": "habitat",
+  "description": "An MCP server that provides a restful environment for AI agents, offering ambient natural descriptions with no tasks or evaluations required.",
+  "source_repo": "mitsuashi/habitat",
+  "source_url": "https://github.com/mitsuashi/habitat",
+  "install": "# git clone --depth 1 https://github.com/mitsuashi/habitat\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "doc-ingestor-mcp",
+  "description": "An MCP server that uses Docling to convert PDFs, Office documents, images, audio, and more into clean Markdown for AI processing and RAG pipelines.",
+  "source_repo": "saleemh/doc-ingestor",
+  "source_url": "https://github.com/saleemh/doc-ingestor",
+  "install": "# git clone --depth 1 https://github.com/saleemh/doc-ingestor\n# See source for mcpServers config block"
+}

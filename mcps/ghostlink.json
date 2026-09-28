@@ -1,0 +1,7 @@
+{
+  "name": "ghostlink",
+  "description": "GhostLink is a security-hardened MCP server that gives AI coding agents safe, deterministic access to local repositories through sandboxed, policy-gated tools for searching, reading, patching, and running curated commands.",
+  "source_repo": "bgorzelic/ghostlink",
+  "source_url": "https://github.com/bgorzelic/ghostlink",
+  "install": "# git clone --depth 1 https://github.com/bgorzelic/ghostlink\n# See source for mcpServers config block"
+}

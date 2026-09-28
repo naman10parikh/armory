@@ -1,0 +1,7 @@
+{
+  "name": "web-crawler-mcp",
+  "description": "A minimal MCP server that crawls web pages using crawl4ai and returns content as markdown, deployable to Cloud Run.",
+  "source_repo": "SMB-Team-Technology/web-crawler-mcp",
+  "source_url": "https://github.com/SMB-Team-Technology/web-crawler-mcp",
+  "install": "npx -y web-crawler-mcp"
+}

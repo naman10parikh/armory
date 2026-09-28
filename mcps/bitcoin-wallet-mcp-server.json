@@ -1,0 +1,7 @@
+{
+  "name": "bitcoin-wallet-mcp-server",
+  "description": "Provides Bitcoin and Stacks wallet operations including sending, receiving, balance checks, and transaction management via MCP tools.",
+  "source_repo": "markmhendrickson/mcp-server-bitcoin",
+  "source_url": "https://github.com/markmhendrickson/mcp-server-bitcoin",
+  "install": "# git clone --depth 1 https://github.com/markmhendrickson/mcp-server-bitcoin\n# See source for mcpServers config block"
+}

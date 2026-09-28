@@ -1,0 +1,7 @@
+{
+  "name": "devsync-mcp",
+  "description": "MCP server for AI-merge of team dev configurations, allowing the IDE's LLM to intelligently merge team configs with personal configs.",
+  "source_repo": "troylar/devsync-mcp",
+  "source_url": "https://github.com/troylar/devsync-mcp",
+  "install": "npx -y devsync-mcp"
+}

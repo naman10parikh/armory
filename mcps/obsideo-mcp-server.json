@@ -1,0 +1,7 @@
+{
+  "name": "obsideo-mcp-server",
+  "description": "Enables durable, encrypted, cryptographically verified storage for MCP agents with self-serve signup and 12 GB free tier.",
+  "source_repo": "Regan-Milne/obsideo-mcp",
+  "source_url": "https://github.com/Regan-Milne/obsideo-mcp",
+  "install": "npx -y obsideo-mcp"
+}

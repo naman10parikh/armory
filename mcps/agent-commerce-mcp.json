@@ -1,0 +1,7 @@
+{
+  "name": "agent-commerce-mcp",
+  "description": "Enables AI agents to discover, price, and purchase SaaS products, developer tools, and MCP servers with live Stripe checkout, affiliate program, and AgentTrust verification.",
+  "source_repo": "bch1212/agent-commerce-mcp",
+  "source_url": "https://github.com/bch1212/agent-commerce-mcp",
+  "install": "npx -y agent-commerce-mcp"
+}

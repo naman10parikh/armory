@@ -1,0 +1,7 @@
+{
+  "name": "wanakahaus-mcp",
+  "description": "Booking system for private accomo",
+  "source_repo": "ferguswatts/wanakahaus-mcp",
+  "source_url": "https://github.com/ferguswatts/wanakahaus-mcp",
+  "install": "npx -y wanakahaus-mcp"
+}

@@ -1,6 +1,6 @@
 {
   "name": "samcp",
-  "description": "Samcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "coodyme/samcp",
   "source_url": "https://mcp.so/server/samcp/coodyme",
   "install": "# git clone --depth 1 https://mcp.so/server/samcp/coodyme\n# See source for mcpServers config block"

@@ -1,0 +1,7 @@
+{
+  "name": "aegis-mcp",
+  "description": "Provides AI coding agents with deterministic security requirements, approved patterns, and anti-patterns based on a project's threat model defined in security-context.yaml, enabling secure code generation without relying on LLMs for security advice.",
+  "source_repo": "bgigurtsis/aegis-mcp",
+  "source_url": "https://github.com/bgigurtsis/aegis-mcp",
+  "install": "npx -y aegis-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "loop-developer-agent",
+  "description": "MCP server for LOOP financial infrastructure, enabling AI agents to inspect projects, generate payment integration code, and execute sandbox-validated transactions (M-Pesa, LOOP, PesaLink) with a deterministic policy engine.",
+  "source_repo": "ChristopherMwanginjoroge/loop_mcp",
+  "source_url": "https://github.com/ChristopherMwanginjoroge/loop_mcp",
+  "install": "npx -y loop_mcp"
+}

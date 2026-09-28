@@ -1,0 +1,7 @@
+{
+  "name": "canada-travel-advisory-mcp-server",
+  "description": "Enables querying Government of Canada travel advisories for 230 destinations, including searching, comparing, and filtering by risk level, with support for English and French.",
+  "source_repo": "w-metcalfe/canada-travel-advisory",
+  "source_url": "https://github.com/w-metcalfe/canada-travel-advisory",
+  "install": "# git clone --depth 1 https://github.com/w-metcalfe/canada-travel-advisory\n# See source for mcpServers config block"
+}

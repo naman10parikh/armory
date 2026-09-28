@@ -1,0 +1,7 @@
+{
+  "name": "kernel-mcp",
+  "description": "Provides a persistent Jupyter kernel for executing code, inspecting variables and dataframes, and checking SQL query plans, enabling agents to work with stateful Python sessions.",
+  "source_repo": "Luckylobster8868/kernel-mcp",
+  "source_url": "https://github.com/Luckylobster8868/kernel-mcp",
+  "install": "npx -y kernel-mcp"
+}

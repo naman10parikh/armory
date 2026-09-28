@@ -1,0 +1,7 @@
+{
+  "name": "gigalixir-turso-github-mcp-server",
+  "description": "A multi-service MCP server for Cloudflare Workers that enables managing Gigalixir apps, querying Turso databases, and handling GitHub repositories through natural language.",
+  "source_repo": "amer585/gigalixir-mcp1",
+  "source_url": "https://github.com/amer585/gigalixir-mcp1",
+  "install": "# git clone --depth 1 https://github.com/amer585/gigalixir-mcp1\n# See source for mcpServers config block"
+}

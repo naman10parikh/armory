@@ -1,0 +1,7 @@
+{
+  "name": "coda-mcp-server-2",
+  "description": "Enables AI-powered document automation and data manipulation with Coda.io through the Model Context Protocol, supporting document, page, table, row, and formula operations.",
+  "source_repo": "TJC-LP/coda-mcp-server",
+  "source_url": "https://github.com/TJC-LP/coda-mcp-server",
+  "install": "npx -y coda-mcp-server"
+}

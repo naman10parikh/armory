@@ -1,0 +1,7 @@
+{
+  "name": "apple-health-semantic-mcp",
+  "description": "Query Apple Health export data with an LLM via a semantic layer that avoids common data traps, enabling accurate natural-language queries about health metrics. Optionally imports CPAP therapy data for correlation.",
+  "source_repo": "Barbaroso/apple-health-semantic-mcp",
+  "source_url": "https://github.com/Barbaroso/apple-health-semantic-mcp",
+  "install": "npx -y apple-health-semantic-mcp"
+}

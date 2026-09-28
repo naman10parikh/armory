@@ -1,0 +1,7 @@
+{
+  "name": "bug-sheet-mcp",
+  "description": "Enables managing bugs and test cases in Google Sheets via Claude Code, with tools to list, search, filter failed, and update test cases.",
+  "source_repo": "TrungPhuNA/bug-sheet-mcp",
+  "source_url": "https://github.com/TrungPhuNA/bug-sheet-mcp",
+  "install": "npx -y bug-sheet-mcp"
+}

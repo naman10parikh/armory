@@ -1,0 +1,7 @@
+{
+  "name": "27-0-mcp-server",
+  "description": "Provides game rules, roster constraints, FAQ, and official links for the 27-0 NRL fantasy draft game, enabling AI clients to retrieve this knowledge.",
+  "source_repo": "rocnubie/27-0-mcp",
+  "source_url": "https://github.com/rocnubie/27-0-mcp",
+  "install": "npx -y 27-0-mcp"
+}

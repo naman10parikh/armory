@@ -1,0 +1,7 @@
+{
+  "name": "namesniper-username-domain-monitoring",
+  "description": "Monitor taken usernames and get alerted the moment they free up or drop, so you can claim a handle before anyone else. Also checks live username availability across the major social platforms, domain availability across popular TLDs, and screens names for trademark conflicts.",
+  "source_repo": "ArvaNet/NameSniper-MCP",
+  "source_url": "https://github.com/ArvaNet/NameSniper-MCP",
+  "install": "npx -y NameSniper-MCP"
+}

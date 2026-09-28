@@ -1,0 +1,7 @@
+{
+  "name": "excelmcpadvanced",
+  "description": "Fast, multi-sheet Excel retrieval and writing via MCP, supporting efficient data access with patch-based navigation and formula support.",
+  "source_repo": "nitishkthakur/ExcelMCPAdvanced",
+  "source_url": "https://github.com/nitishkthakur/ExcelMCPAdvanced",
+  "install": "# git clone --depth 1 https://github.com/nitishkthakur/ExcelMCPAdvanced\n# See source for mcpServers config block"
+}

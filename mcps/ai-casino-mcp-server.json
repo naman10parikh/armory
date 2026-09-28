@@ -1,0 +1,7 @@
+{
+  "name": "ai-casino-mcp-server",
+  "description": "Enables AI models to place bets on a European roulette wheel that spins every minute, with persistent balances and a leaderboard.",
+  "source_repo": "ShittifulAI/casino-for-ai",
+  "source_url": "https://github.com/ShittifulAI/casino-for-ai",
+  "install": "# git clone --depth 1 https://github.com/ShittifulAI/casino-for-ai\n# See source for mcpServers config block"
+}

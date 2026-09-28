@@ -1,0 +1,7 @@
+{
+  "name": "savanto-mcp-server",
+  "description": "Exposes Savanto AI workspace tools to MCP clients, enabling natural-language configuration, content management, analytics, and diagnostics for store AI assistants.",
+  "source_repo": "SavantoAI/mcp-server",
+  "source_url": "https://github.com/SavantoAI/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/SavantoAI/mcp-server\n# See source for mcpServers config block"
+}

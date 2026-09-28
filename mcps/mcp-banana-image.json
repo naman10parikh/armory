@@ -1,0 +1,7 @@
+{
+  "name": "mcp-banana-image",
+  "description": "AI-powered image generation MCP server with 16 specialized tools for generating, editing, analyzing, and processing images using Google's Nano Banana 2 model. Supports custom API endpoints and integrates with AI coding assistants via natural language.",
+  "source_repo": "Trigi-Digital/mcp-banana-image",
+  "source_url": "https://github.com/Trigi-Digital/mcp-banana-image",
+  "install": "# git clone --depth 1 https://github.com/Trigi-Digital/mcp-banana-image\n# See source for mcpServers config block"
+}

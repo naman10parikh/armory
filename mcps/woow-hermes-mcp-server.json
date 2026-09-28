@@ -1,0 +1,7 @@
+{
+  "name": "woow-hermes-mcp-server",
+  "description": "FastMCP wrapper that lets Claude app fully control a Hermes Agent instance via remote connector.",
+  "source_repo": "WOOWTECH/woow_hermes_mcp_server",
+  "source_url": "https://github.com/WOOWTECH/woow_hermes_mcp_server",
+  "install": "npx -y woow_hermes_mcp_server"
+}

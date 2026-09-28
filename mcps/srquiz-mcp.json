@@ -1,0 +1,7 @@
+{
+  "name": "srquiz-mcp",
+  "description": "An MCP server providing science-based psychometric tools and sexual well-being assessments for AI agents.",
+  "source_repo": "double2dev/srquiz-mcp",
+  "source_url": "https://github.com/double2dev/srquiz-mcp",
+  "install": "npx -y srquiz-mcp"
+}

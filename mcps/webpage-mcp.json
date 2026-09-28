@@ -1,0 +1,7 @@
+{
+  "name": "webpage-mcp",
+  "description": "Enables AI assistants to control your webpage via MCP, allowing navigation, screenshots, clicks, content reading, and more through a Chrome extension.",
+  "source_repo": "mcpland/webpage-mcp",
+  "source_url": "https://github.com/mcpland/webpage-mcp",
+  "install": "npx -y webpage-mcp"
+}

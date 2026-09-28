@@ -1,0 +1,7 @@
+{
+  "name": "apiweaver",
+  "description": "Dynamically creates MCP servers from web API configurations, enabling AI assistants to interact with any REST API, GraphQL endpoint, or web service.",
+  "source_repo": "fastmcp-me/APIWeaver",
+  "source_url": "https://github.com/fastmcp-me/APIWeaver",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/APIWeaver\n# See source for mcpServers config block"
+}

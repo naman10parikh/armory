@@ -1,0 +1,7 @@
+{
+  "name": "mlit-geospatial-mcp-server",
+  "description": "Enables LLMs to search and retrieve Japanese real estate data through unified access to the MLIT Real Estate Information Library API, supporting over 25 geospatial datasets for interactive queries.",
+  "source_repo": "chirikuuka/mlit-geospatial-mcp",
+  "source_url": "https://github.com/chirikuuka/mlit-geospatial-mcp",
+  "install": "npx -y mlit-geospatial-mcp"
+}

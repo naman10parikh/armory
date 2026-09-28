@@ -1,0 +1,7 @@
+{
+  "name": "xsignal-mcp-server",
+  "description": "Provides pay-per-call data signals for Base tokens via x402, including intent (with abstain), preflight, token briefs, and social signals.",
+  "source_repo": "philpof102-svg/xsignal",
+  "source_url": "https://github.com/philpof102-svg/xsignal",
+  "install": "# git clone --depth 1 https://github.com/philpof102-svg/xsignal\n# See source for mcpServers config block"
+}

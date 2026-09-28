@@ -1,0 +1,7 @@
+{
+  "name": "wordpress-mcp",
+  "description": "Enables WordPress content management via the Model Context Protocol, allowing creation, update, search, and retrieval of posts, as well as fetching block type schemas for generating block-based content.",
+  "source_repo": "Utsav-Ladani/WordPress-MCP",
+  "source_url": "https://github.com/Utsav-Ladani/WordPress-MCP",
+  "install": "npx -y WordPress-MCP"
+}

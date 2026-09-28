@@ -1,0 +1,7 @@
+{
+  "name": "agh-mail-mcp-server",
+  "description": "Enables Claude to read and send emails from your AGH University mailbox via IMAP and SMTP.",
+  "source_repo": "Nikodem5/agh-mcp",
+  "source_url": "https://github.com/Nikodem5/agh-mcp",
+  "install": "npx -y agh-mcp"
+}

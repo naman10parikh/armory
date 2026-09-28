@@ -1,0 +1,7 @@
+{
+  "name": "evalgate",
+  "description": "Eval-integrity statistics for AI benchmark claims — multiple-testing correction, power/MDE for model gaps, judge-bias and leaderboard-rank checks. Catches a benchmark number that won't survive a second look.",
+  "source_repo": "ipezygj/evalgate",
+  "source_url": "https://github.com/ipezygj/evalgate",
+  "install": "# git clone --depth 1 https://github.com/ipezygj/evalgate\n# See source for mcpServers config block"
+}

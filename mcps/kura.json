@@ -1,0 +1,7 @@
+{
+  "name": "kura",
+  "description": "Local Ethereum wallet for AI agents — read balances and history, request payments that a human approves by password in the app popup, and fetch x402-paywalled resources with USDC on Base. Keys are encrypted on-device and never leave your Mac.",
+  "source_repo": "dinggi5/kura",
+  "source_url": "https://github.com/dinggi5/kura",
+  "install": "# git clone --depth 1 https://github.com/dinggi5/kura\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "abap-adt-api-mcp-server",
+  "description": "Enables interaction with SAP ABAP systems via ADT APIs, allowing management of ABAP objects, transport requests, and code analysis through MCP clients.",
+  "source_repo": "toshif1234/ABAP---FS-to-ABAP-Code---TS-Claude-MCP",
+  "source_url": "https://github.com/toshif1234/ABAP---FS-to-ABAP-Code---TS-Claude-MCP",
+  "install": "npx -y ABAP---FS-to-ABAP-Code---TS-Claude-MCP"
+}

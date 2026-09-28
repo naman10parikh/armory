@@ -1,0 +1,7 @@
+{
+  "name": "editorconfig-mcp",
+  "description": "Formats files using .editorconfig rules to ensure consistent formatting, especially for AI-generated code.",
+  "source_repo": "neilberkman/editorconfig_mcp",
+  "source_url": "https://github.com/neilberkman/editorconfig_mcp",
+  "install": "npx -y editorconfig_mcp"
+}

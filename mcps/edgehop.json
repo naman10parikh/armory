@@ -1,0 +1,7 @@
+{
+  "name": "edgehop",
+  "description": "Stop grepping. Start knowing. EdgeHop turns a codebase into a queryable graph and serves it over MCP — find where a symbol lives, who calls a function, the type hierarchy, and the shortest path between two symbols, resolved from the compiler's semantic model instead of text search. Language support",
+  "source_repo": "EdgeHop/EdgeHop",
+  "source_url": "https://github.com/EdgeHop/EdgeHop",
+  "install": "# git clone --depth 1 https://github.com/EdgeHop/EdgeHop\n# See source for mcpServers config block"
+}

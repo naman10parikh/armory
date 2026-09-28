@@ -1,0 +1,7 @@
+{
+  "name": "korean-special-education-curriculum-mcp",
+  "description": "Read-only MCP server for searching and retrieving the 2022 revised Korean special education curriculum for middle and high schools, with official source references, filters, and achievement standards.",
+  "source_repo": "sonbyobyo/korean-special-education-curriculum-mcp",
+  "source_url": "https://github.com/sonbyobyo/korean-special-education-curriculum-mcp",
+  "install": "npx -y korean-special-education-curriculum-mcp"
+}

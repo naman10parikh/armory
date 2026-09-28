@@ -1,0 +1,7 @@
+{
+  "name": "grillmejewel",
+  "description": "MCP server for jewelry design ideation that guides users through structured interviews to create a design brief, then generates real jewelry design images via gpt-image-2.",
+  "source_repo": "yuyou-dev/GrillMeJewel",
+  "source_url": "https://github.com/yuyou-dev/GrillMeJewel",
+  "install": "# git clone --depth 1 https://github.com/yuyou-dev/GrillMeJewel\n# See source for mcpServers config block"
+}

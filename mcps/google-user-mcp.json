@@ -1,0 +1,7 @@
+{
+  "name": "google-user-mcp",
+  "description": "Authenticates users via Google OAuth and returns the authenticated user's display name through the get_current_user tool. Supports deployment on Node.js and Cloudflare Workers.",
+  "source_repo": "usuijuice/auth-mcp",
+  "source_url": "https://github.com/usuijuice/auth-mcp",
+  "install": "npx -y auth-mcp"
+}

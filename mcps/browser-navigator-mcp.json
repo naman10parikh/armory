@@ -1,0 +1,7 @@
+{
+  "name": "browser-navigator-mcp",
+  "description": "Controls the Brave browser via CDP for web automation, OSINT, and social media crawling, including navigation, CAPTCHA detection, session persistence, and video control.",
+  "source_repo": "ahmadhass0un/brave-browser-mcp",
+  "source_url": "https://github.com/ahmadhass0un/brave-browser-mcp",
+  "install": "npx -y brave-browser-mcp"
+}

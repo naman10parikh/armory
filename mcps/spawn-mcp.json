@@ -1,0 +1,7 @@
+{
+  "name": "spawn-mcp",
+  "description": "Local MCP server for the Spawn Games agent API, enabling LLMs to manage game projects, push updates, and interact with live games via a Playwright Chromium client.",
+  "source_repo": "wfbcargo/wfbcargo_spawn_mcp",
+  "source_url": "https://github.com/wfbcargo/wfbcargo_spawn_mcp",
+  "install": "npx -y wfbcargo_spawn_mcp"
+}

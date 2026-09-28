@@ -1,0 +1,7 @@
+{
+  "name": "fastroute",
+  "description": "FastRoute is an MCP server that recommends relevant skills from locally installed skills when an agent receives a new task. It provides tools to retrieve top-N skill recommendations and incrementally rebuild the skill index.",
+  "source_repo": "akushonkamen/fastroute",
+  "source_url": "https://github.com/akushonkamen/fastroute",
+  "install": "# git clone --depth 1 https://github.com/akushonkamen/fastroute\n# See source for mcpServers config block"
+}

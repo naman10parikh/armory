@@ -1,0 +1,7 @@
+{
+  "name": "celo-chain-intel",
+  "description": "A paid MCP server providing AI agents with Celo chain intelligence tools (gas, token info, balances, transaction lookup, and x402 endpoint discovery) with payment via x402 on Celo.",
+  "source_repo": "ayushsrivastava55/celo-x402-mcp",
+  "source_url": "https://github.com/ayushsrivastava55/celo-x402-mcp",
+  "install": "npx -y celo-x402-mcp"
+}

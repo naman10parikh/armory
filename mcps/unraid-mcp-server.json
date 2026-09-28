@@ -1,0 +1,7 @@
+{
+  "name": "unraid-mcp-server",
+  "description": "Enables AI assistants to manage Unraid OS via Docker, system calls, and file system access for automating array, share, and container operations.",
+  "source_repo": "CrouchingMuppet/unraid-mcp-server",
+  "source_url": "https://github.com/CrouchingMuppet/unraid-mcp-server",
+  "install": "npx -y unraid-mcp-server"
+}

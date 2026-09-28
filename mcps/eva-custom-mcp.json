@@ -1,0 +1,7 @@
+{
+  "name": "eva-custom-mcp",
+  "description": "Custom MCP server for EvaTeam that enables interaction with glossary pages, project tasks, and wiki documents via tools for search, create, update, delete, and more.",
+  "source_repo": "ivan1911/eva-custom-mcp",
+  "source_url": "https://github.com/ivan1911/eva-custom-mcp",
+  "install": "npx -y eva-custom-mcp"
+}

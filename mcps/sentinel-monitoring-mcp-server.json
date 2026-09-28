@@ -1,0 +1,7 @@
+{
+  "name": "sentinel-monitoring-mcp-server",
+  "description": "Uptime, SSL, DNS and domain monitoring you can talk to: check, create and manage monitors for all your client sites from Claude, ChatGPT, or any MCP client.",
+  "source_repo": "rootstuff/sentinel-mcp",
+  "source_url": "https://github.com/rootstuff/sentinel-mcp",
+  "install": "npx -y sentinel-mcp"
+}

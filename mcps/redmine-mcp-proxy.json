@@ -1,0 +1,7 @@
+{
+  "name": "redmine-mcp-proxy",
+  "description": "Enables multi-user, network-reachable MCP interaction with Redmine, with per-user impersonation and identity-based access control.",
+  "source_repo": "mieweb/redmine-mcp-proxy",
+  "source_url": "https://github.com/mieweb/redmine-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/mieweb/redmine-mcp-proxy\n# See source for mcpServers config block"
+}

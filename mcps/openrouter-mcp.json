@@ -1,0 +1,7 @@
+{
+  "name": "openrouter-mcp",
+  "description": "Enables AI assistants to consult other AI models via OpenRouter for help with coding tasks.",
+  "source_repo": "minovap/openrouter-mcp",
+  "source_url": "https://github.com/minovap/openrouter-mcp",
+  "install": "npx -y openrouter-mcp"
+}

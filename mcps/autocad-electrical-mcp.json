@@ -1,0 +1,7 @@
+{
+  "name": "autocad-electrical-mcp",
+  "description": "MCP server and web dashboard for controlling AutoCAD Electrical 2027 via natural language, supporting MCC configurator and multiple AI backends like Claude, Ollama, or OpenAI-compatible models.",
+  "source_repo": "nihaalgaina/AutoCAD-Electrical-MCP",
+  "source_url": "https://github.com/nihaalgaina/AutoCAD-Electrical-MCP",
+  "install": "npx -y AutoCAD-Electrical-MCP"
+}

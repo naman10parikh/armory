@@ -1,0 +1,7 @@
+{
+  "name": "chile-procurement",
+  "description": "Enables access to Chile's government procurement data (Mercado Público / ChileCompra) via MCP, allowing AI agents to query public procurement information.",
+  "source_repo": "pipeworx-io/mcp-chile-procurement",
+  "source_url": "https://github.com/pipeworx-io/mcp-chile-procurement",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-chile-procurement\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "savage-in-a-suit-mcp-server",
+  "description": "Enables Claude to directly manage the Savage in a Suit website through 31 tools for pages, events, members, testimonials, podcast episodes, and site content, with all changes logged.",
+  "source_repo": "ayushg8/sias-mcp-server",
+  "source_url": "https://github.com/ayushg8/sias-mcp-server",
+  "install": "npx -y sias-mcp-server"
+}

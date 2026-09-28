@@ -1,0 +1,7 @@
+{
+  "name": "chuk-mcp-stac",
+  "description": "A Model Context Protocol (MCP) server for searching STAC catalogs, downloading satellite bands, and creating composites via 21 tools.",
+  "source_repo": "IBM/chuk-mcp-stac",
+  "source_url": "https://github.com/IBM/chuk-mcp-stac",
+  "install": "# git clone --depth 1 https://github.com/IBM/chuk-mcp-stac\n# See source for mcpServers config block"
+}

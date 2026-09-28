@@ -1,0 +1,7 @@
+{
+  "name": "kyora-iq-compliance-control-reference-mcp-server",
+  "description": "Enables AI assistants to search and retrieve security, privacy, and AI-governance controls from multiple compliance frameworks (e.g., NIST, HIPAA, OWASP) with cross-references, providing authoritative cited control text.",
+  "source_repo": "KyoraIQ/Compliance-MCPServer",
+  "source_url": "https://github.com/KyoraIQ/Compliance-MCPServer",
+  "install": "# git clone --depth 1 https://github.com/KyoraIQ/Compliance-MCPServer\n# See source for mcpServers config block"
+}

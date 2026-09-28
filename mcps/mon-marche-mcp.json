@@ -1,0 +1,7 @@
+{
+  "name": "mon-marche-mcp",
+  "description": "Enables an AI assistant to search the mon-marche.fr grocery catalog and build a basket, stopping at the cart without automating payment.",
+  "source_repo": "theomartiz/mon-marche-mcp",
+  "source_url": "https://github.com/theomartiz/mon-marche-mcp",
+  "install": "npx -y mon-marche-mcp"
+}

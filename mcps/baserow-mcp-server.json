@@ -1,0 +1,7 @@
+{
+  "name": "baserow-mcp-server",
+  "description": "MCP server enabling AI-powered Baserow database operations through natural language, with workspace, table, and row management.",
+  "source_repo": "ayyazzafar/mcp-baserow",
+  "source_url": "https://github.com/ayyazzafar/mcp-baserow",
+  "install": "# git clone --depth 1 https://github.com/ayyazzafar/mcp-baserow\n# See source for mcpServers config block"
+}

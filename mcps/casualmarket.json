@@ -1,0 +1,7 @@
+{
+  "name": "casualmarket",
+  "description": "A Taiwan stock trading MCP server providing over 23 tools for real-time stock prices, financial analysis, market information, and simulated trading.",
+  "source_repo": "sacahan/CasualMarket",
+  "source_url": "https://github.com/sacahan/CasualMarket",
+  "install": "# git clone --depth 1 https://github.com/sacahan/CasualMarket\n# See source for mcpServers config block"
+}

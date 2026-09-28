@@ -1,0 +1,7 @@
+{
+  "name": "whoop-mcp-3",
+  "description": "Gives LLM agents read-only access to your WHOOP data — recovery, sleep, strain, workouts, and profile.",
+  "source_repo": "aryanranderiya/whoop-mcp",
+  "source_url": "https://github.com/aryanranderiya/whoop-mcp",
+  "install": "npx -y whoop-mcp"
+}

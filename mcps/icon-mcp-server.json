@@ -1,0 +1,7 @@
+{
+  "name": "icon-mcp-server",
+  "description": "Provides unified search across multiple icon libraries with fuzzy search, caching, and comprehensive filtering for easy icon discovery and retrieval via the Model Context Protocol.",
+  "source_repo": "agentic-ph/icon-mcp",
+  "source_url": "https://github.com/agentic-ph/icon-mcp",
+  "install": "npx -y icon-mcp"
+}

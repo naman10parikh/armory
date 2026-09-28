@@ -1,0 +1,7 @@
+{
+  "name": "ft-mcp",
+  "description": "A Python MCP server implemented from scratch, providing tool execution capabilities like system time and file hashing via stdio or HTTP transport.",
+  "source_repo": "alsaeed3/ft_mcp",
+  "source_url": "https://github.com/alsaeed3/ft_mcp",
+  "install": "npx -y ft_mcp"
+}

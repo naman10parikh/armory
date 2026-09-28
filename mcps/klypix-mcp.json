@@ -1,0 +1,7 @@
+{
+  "name": "klypix-mcp",
+  "description": "Enables AI agents to read, write, search, and manage .klypix canvas files for persistent spatial memory across sessions.",
+  "source_repo": "dahshanlabs/klypix-mcp",
+  "source_url": "https://github.com/dahshanlabs/klypix-mcp",
+  "install": "npx -y klypix-mcp"
+}

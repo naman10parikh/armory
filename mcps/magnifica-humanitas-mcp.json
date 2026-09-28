@@ -1,0 +1,7 @@
+{
+  "name": "magnifica-humanitas-mcp",
+  "description": "Enables exploration of Pope Leo XIV's encyclical on AI and human dignity, providing tools to fetch chapters, sections, paragraphs, and search the full text from the Vatican website.",
+  "source_repo": "grinnellian/magnifica-humanitas-mcp",
+  "source_url": "https://github.com/grinnellian/magnifica-humanitas-mcp",
+  "install": "npx -y magnifica-humanitas-mcp"
+}

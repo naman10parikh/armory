@@ -1,0 +1,7 @@
+{
+  "name": "kbsec-mcp",
+  "description": "A Python MCP server wrapping KB Securities' OpenAPI, providing 75 tools for market data, stock orders, account management, and investment insights for Korean and overseas equities via natural language. It includes safety measures like blocking real trades unless explicitly enabled.",
+  "source_repo": "nkwoo/kbsec-mcp",
+  "source_url": "https://github.com/nkwoo/kbsec-mcp",
+  "install": "npx -y kbsec-mcp"
+}

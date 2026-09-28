@@ -1,0 +1,7 @@
+{
+  "name": "token-safety",
+  "description": "Checks token contract safety for honeypot, tax, proxy, blacklist, ownership risks, and returns a risk score, enabling rug-pull protection for agents via pay-per-call x402 micropayments.",
+  "source_repo": "Br0ski777/token-safety-x402",
+  "source_url": "https://github.com/Br0ski777/token-safety-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/token-safety-x402\n# See source for mcpServers config block"
+}

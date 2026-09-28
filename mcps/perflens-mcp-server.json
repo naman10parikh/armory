@@ -1,0 +1,7 @@
+{
+  "name": "perflens-mcp-server",
+  "description": "Provides typed, paginated tools for evidence-driven Linux performance analysis including profile analysis, comparison, and report generation with server-side authorization.",
+  "source_repo": "link0-o/PerfLens",
+  "source_url": "https://github.com/link0-o/PerfLens",
+  "install": "# git clone --depth 1 https://github.com/link0-o/PerfLens\n# See source for mcpServers config block"
+}

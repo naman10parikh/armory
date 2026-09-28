@@ -1,0 +1,7 @@
+{
+  "name": "streamlabs-mcp",
+  "description": "MCP server that gives AI assistants direct control over Streamlabs Desktop, enabling scene switching, source/audio management, and streaming/recording controls through natural language.",
+  "source_repo": "AhmadTariq1337/streamlabs-mcp",
+  "source_url": "https://github.com/AhmadTariq1337/streamlabs-mcp",
+  "install": "npx -y streamlabs-mcp"
+}

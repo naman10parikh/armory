@@ -1,0 +1,7 @@
+{
+  "name": "ascii-table-mcp-server",
+  "description": "MCP server for generating properly aligned ASCII, Unicode box-drawing, and Markdown tables, with correct width measurement for Thai, Pali, and CJK characters using wcwidth.",
+  "source_repo": "dhammawatthumpra-coder/ascii-table-mcp",
+  "source_url": "https://github.com/dhammawatthumpra-coder/ascii-table-mcp",
+  "install": "npx -y ascii-table-mcp"
+}

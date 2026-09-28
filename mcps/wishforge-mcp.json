@@ -1,0 +1,7 @@
+{
+  "name": "wishforge-mcp",
+  "description": "Generates viral wishes, shayari, and status packs in Indic languages using MCP sampling.",
+  "source_repo": "iammohit1311/wishforge-mcp",
+  "source_url": "https://github.com/iammohit1311/wishforge-mcp",
+  "install": "npx -y wishforge-mcp"
+}

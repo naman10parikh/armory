@@ -1,0 +1,7 @@
+{
+  "name": "qa-prompts-mcp-server",
+  "description": "Provides prompt templates and tools for mobile QA automation, including converting manual tests to Appium scripts, analyzing failures, and standardizing bug reports.",
+  "source_repo": "swapnilGirishPawar/Custom-MCP-Server-Mobile-QA",
+  "source_url": "https://github.com/swapnilGirishPawar/Custom-MCP-Server-Mobile-QA",
+  "install": "# git clone --depth 1 https://github.com/swapnilGirishPawar/Custom-MCP-Server-Mobile-QA\n# See source for mcpServers config block"
+}

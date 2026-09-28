@@ -1,0 +1,7 @@
+{
+  "name": "tokenhub-mcp",
+  "description": "A production-packaged Model Context Protocol server for coding agents that routes large file, git, web, database, and other tasks through token-budgeted tools and workflows.",
+  "source_repo": "Gravitied/tokenhub",
+  "source_url": "https://github.com/Gravitied/tokenhub",
+  "install": "# git clone --depth 1 https://github.com/Gravitied/tokenhub\n# See source for mcpServers config block"
+}

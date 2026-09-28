@@ -1,0 +1,7 @@
+{
+  "name": "opc-skill-content-discover",
+  "description": "MCP server to read OPC discover content (AI deals/tools) from mrkjai.com using a personal API key, enabling AI assistants to fetch the latest curated AI resources.",
+  "source_repo": "guipi888/opc-skill-content-discover",
+  "source_url": "https://github.com/guipi888/opc-skill-content-discover",
+  "install": "# git clone --depth 1 https://github.com/guipi888/opc-skill-content-discover\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "trademe-tinymcp",
+  "description": "A simple MCP server for interacting with Trade Me APIs, providing tools for connectivity testing and SDK integration.",
+  "source_repo": "nzduck/trademe-tinymcp",
+  "source_url": "https://github.com/nzduck/trademe-tinymcp",
+  "install": "# git clone --depth 1 https://github.com/nzduck/trademe-tinymcp\n# See source for mcpServers config block"
+}

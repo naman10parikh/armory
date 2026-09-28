@@ -1,0 +1,7 @@
+{
+  "name": "hypd-ai-openai-ads",
+  "description": "Enable AI agents such as Claude, Co-Pilot, Codex and other compatible tools to create, manage, and optimize advertising campaigns on ChatGPT.",
+  "source_repo": "HYPD-AI/openai-ads-mcp",
+  "source_url": "https://github.com/HYPD-AI/openai-ads-mcp",
+  "install": "npx -y openai-ads-mcp"
+}

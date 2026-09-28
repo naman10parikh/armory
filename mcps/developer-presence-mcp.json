@@ -1,0 +1,7 @@
+{
+  "name": "developer-presence-mcp",
+  "description": "Enables querying GitHub repos and stats, and managing DEV.to articles (list, create, update) through natural language.",
+  "source_repo": "enjoykumawat/developer-presence-mcp",
+  "source_url": "https://github.com/enjoykumawat/developer-presence-mcp",
+  "install": "npx -y developer-presence-mcp"
+}

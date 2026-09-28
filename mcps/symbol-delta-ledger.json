@@ -1,0 +1,7 @@
+{
+  "name": "symbol-delta-ledger",
+  "description": "Enables AI coding agents to efficiently query code context via a symbol graph, reducing token usage by up to 20x.",
+  "source_repo": "GlitterKill/sdl-mcp",
+  "source_url": "https://github.com/GlitterKill/sdl-mcp",
+  "install": "npx -y sdl-mcp"
+}

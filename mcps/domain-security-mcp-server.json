@@ -1,0 +1,7 @@
+{
+  "name": "domain-security-mcp-server",
+  "description": "Enables AI agents to audit email and domain security (SPF, DKIM, DMARC, etc.) for any domain without requiring API keys.",
+  "source_repo": "OrtaMarco/domain-security-mcp-server",
+  "source_url": "https://github.com/OrtaMarco/domain-security-mcp-server",
+  "install": "npx -y domain-security-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "demo-vid-mcp",
+  "description": "Records narrated walkthroughs of any webapp by orchestrating Playwright, speech-mcp TTS, and FFmpeg composition.",
+  "source_repo": "sandraschi/demo-vid-mcp",
+  "source_url": "https://github.com/sandraschi/demo-vid-mcp",
+  "install": "npx -y demo-vid-mcp"
+}

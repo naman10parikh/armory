@@ -1,0 +1,7 @@
+{
+  "name": "dataverse-plugin-mcp",
+  "description": "MCP server that lets AI assistants scaffold, build, register, query, and diagnose Microsoft Dataverse plug-ins directly from conversation, orchestrating Power Platform CLI and Azure CLI.",
+  "source_repo": "lucasjesus0311/dataverse-plugin-mcp",
+  "source_url": "https://github.com/lucasjesus0311/dataverse-plugin-mcp",
+  "install": "npx -y dataverse-plugin-mcp"
+}

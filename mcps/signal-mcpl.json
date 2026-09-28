@@ -1,0 +1,7 @@
+{
+  "name": "signal-mcpl",
+  "description": "MCPL server that bridges Signal via signal-cli, exposing DMs and group chats as channels and providing signal_send and signal_react tools.",
+  "source_repo": "jeremyschlatter/signal-mcpl",
+  "source_url": "https://github.com/jeremyschlatter/signal-mcpl",
+  "install": "# git clone --depth 1 https://github.com/jeremyschlatter/signal-mcpl\n# See source for mcpServers config block"
+}

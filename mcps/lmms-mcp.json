@@ -1,0 +1,7 @@
+{
+  "name": "lmms-mcp",
+  "description": "Enables AI agents to create, modify, and save LMMS music projects programmatically, including tracks, notes, mixer control, effects, and song settings.",
+  "source_repo": "TypeWolf/lmms-mcp",
+  "source_url": "https://github.com/TypeWolf/lmms-mcp",
+  "install": "npx -y lmms-mcp"
+}

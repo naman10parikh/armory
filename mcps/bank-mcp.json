@@ -1,0 +1,7 @@
+{
+  "name": "bank-mcp",
+  "description": "MCP server that turns bank transactions into a financial digest including cash-flow forecast, spending breakdown, fee detection, and receipt reconciliation, exposing deterministic engines as JSON-RPC tools.",
+  "source_repo": "owieschon/bank.mcp",
+  "source_url": "https://github.com/owieschon/bank.mcp",
+  "install": "# git clone --depth 1 https://github.com/owieschon/bank.mcp\n# See source for mcpServers config block"
+}

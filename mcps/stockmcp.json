@@ -1,0 +1,7 @@
+{
+  "name": "stockmcp",
+  "description": "Enables stock analysis by fetching company details, profit data, and shareholding patterns from Screener.in using local LLM tools.",
+  "source_repo": "ambideXtrous9/Airbnb-StockScreener-Agent-with-MCP",
+  "source_url": "https://github.com/ambideXtrous9/Airbnb-StockScreener-Agent-with-MCP",
+  "install": "npx -y Airbnb-StockScreener-Agent-with-MCP"
+}

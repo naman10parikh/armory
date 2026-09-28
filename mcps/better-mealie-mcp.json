@@ -1,0 +1,7 @@
+{
+  "name": "better-mealie-mcp",
+  "description": "Provides complete access to Mealie's API for managing recipes, meal plans, shopping lists, households, and more via natural language from AI assistants.",
+  "source_repo": "djwmarcx/better-mealie-mcp",
+  "source_url": "https://github.com/djwmarcx/better-mealie-mcp",
+  "install": "npx -y better-mealie-mcp"
+}

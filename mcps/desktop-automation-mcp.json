@@ -1,0 +1,7 @@
+{
+  "name": "desktop-automation-mcp",
+  "description": "Windows desktop automation MCP server supporting mouse, keyboard, screenshot, and image recognition, with native CJK text input via clipboard.",
+  "source_repo": "Lianne0106/desktop-automation-mcp",
+  "source_url": "https://github.com/Lianne0106/desktop-automation-mcp",
+  "install": "npx -y desktop-automation-mcp"
+}

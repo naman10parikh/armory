@@ -1,0 +1,7 @@
+{
+  "name": "holoscrape-mcp",
+  "description": "This MCP server lets AI agents read and extract data from your own logged-in Chrome browser via the HoloScrape extension, enabling private, local automation of web scraping and list extraction without uploading data.",
+  "source_repo": "joshghal/holoscrape-mcp",
+  "source_url": "https://github.com/joshghal/holoscrape-mcp",
+  "install": "npx -y holoscrape-mcp"
+}

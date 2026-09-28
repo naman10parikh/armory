@@ -1,0 +1,7 @@
+{
+  "name": "ddg-search",
+  "description": "Provides DuckDuckGo web search through MCP with automatic failover across multiple backends, enabling reliable query results even when individual backends are rate-limited or blocked.",
+  "source_repo": "NikkeTryHard/ddg-search",
+  "source_url": "https://github.com/NikkeTryHard/ddg-search",
+  "install": "# git clone --depth 1 https://github.com/NikkeTryHard/ddg-search\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "spicelib-mcp",
+  "description": "A thin MCP server that wraps spicelib for circuit simulation. Exposes tools for running AC, transient, DC op, and parameter sweep analyses, enabling behavioral model fitting through iterative simulation and measurement comparison.",
+  "source_repo": "lucasgerads/spicelib-mcp",
+  "source_url": "https://github.com/lucasgerads/spicelib-mcp",
+  "install": "npx -y spicelib-mcp"
+}

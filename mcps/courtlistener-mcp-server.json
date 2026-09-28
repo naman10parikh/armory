@@ -1,0 +1,7 @@
+{
+  "name": "courtlistener-mcp-server",
+  "description": "Enables LLM-friendly access to the CourtListener legal database and eCFR for searching legal opinions, court cases, judges, documents, and federal regulations.",
+  "source_repo": "Travis-Prall/court-listener-mcp",
+  "source_url": "https://github.com/Travis-Prall/court-listener-mcp",
+  "install": "npx -y court-listener-mcp"
+}

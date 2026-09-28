@@ -1,0 +1,7 @@
+{
+  "name": "keystack",
+  "description": "Local dashboard and MCP server that maintains a live project registry and skill library, enabling coding agents to pull project context and automatically update status, stack, and next steps.",
+  "source_repo": "nzt108-dev/keystack",
+  "source_url": "https://github.com/nzt108-dev/keystack",
+  "install": "# git clone --depth 1 https://github.com/nzt108-dev/keystack\n# See source for mcpServers config block"
+}

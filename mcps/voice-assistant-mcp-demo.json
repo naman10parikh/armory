@@ -1,0 +1,7 @@
+{
+  "name": "voice-assistant-mcp-demo",
+  "description": "A cloud backend for a voice assistant that processes natural language commands, manages tasks, and provides speech responses. Integrates with MCP protocol and Gemini API for Vietnamese language support.",
+  "source_repo": "nhattan-dev/voice-assistant-mcp-demo",
+  "source_url": "https://github.com/nhattan-dev/voice-assistant-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/nhattan-dev/voice-assistant-mcp-demo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kaboom-browser-ai-devtools-mcp",
+  "description": "MCP server for browser debugging, inspection, and verification that streams console logs, network errors, and user actions into AI coding assistants.",
+  "source_repo": "brennhill/Kaboom-Browser-AI-Devtools-MCP",
+  "source_url": "https://github.com/brennhill/Kaboom-Browser-AI-Devtools-MCP",
+  "install": "npx -y Kaboom-Browser-AI-Devtools-MCP"
+}

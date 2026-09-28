@@ -1,0 +1,7 @@
+{
+  "name": "lyric-studio",
+  "description": "Enables AI assistants to create lyric videos by adding images, audio, styled text, and timed lyric lines, then rendering the final MP4.",
+  "source_repo": "mudon/lyric-video-mcp",
+  "source_url": "https://github.com/mudon/lyric-video-mcp",
+  "install": "npx -y lyric-video-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "geo-audit-mcp",
+  "description": "MCP server for GEO site audits, checking 31 signals across 6 pillars and returning a score, breakdowns, and actionable fix prompts.",
+  "source_repo": "carter-wzq/geo-audit-mcp",
+  "source_url": "https://github.com/carter-wzq/geo-audit-mcp",
+  "install": "npx -y geo-audit-mcp"
+}

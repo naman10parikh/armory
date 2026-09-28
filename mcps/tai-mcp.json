@@ -1,0 +1,7 @@
+{
+  "name": "tai-mcp",
+  "description": "Enables image generation and editing as MCP tools, abstracting tai-openapi's endpoints and returning images directly without relying on local URLs.",
+  "source_repo": "iat-tai/tai-mcp",
+  "source_url": "https://github.com/iat-tai/tai-mcp",
+  "install": "npx -y tai-mcp"
+}

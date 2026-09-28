@@ -1,0 +1,7 @@
+{
+  "name": "traceflow-compress",
+  "description": "Serverless MCP connector for compressing prompts with TraceFlow metrics (tokens, cost, latency, compute, energy, carbon). Provides compression, analysis, routing, and caching tools.",
+  "source_repo": "ashritkvs/traceflow-compress",
+  "source_url": "https://github.com/ashritkvs/traceflow-compress",
+  "install": "# git clone --depth 1 https://github.com/ashritkvs/traceflow-compress\n# See source for mcpServers config block"
+}

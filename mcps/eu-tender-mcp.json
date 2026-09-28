@@ -1,0 +1,7 @@
+{
+  "name": "eu-tender-mcp",
+  "description": "Enables searching for EU public-procurement tenders, analyzing cross-border risk, and understanding tender details through tools for CPV code lookup, EU threshold checks, red-flag scanning, and SME fit scoring.",
+  "source_repo": "omardaaboul/eu-tender-mcp",
+  "source_url": "https://github.com/omardaaboul/eu-tender-mcp",
+  "install": "npx -y eu-tender-mcp"
+}

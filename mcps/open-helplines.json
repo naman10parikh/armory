@@ -1,0 +1,7 @@
+{
+  "name": "open-helplines",
+  "description": "CC0 open-data registry of community support helplines worldwide. TypeScript MCP server providing verified contacts with citation, staleness, and country-context guardrails. 15+ countries indexed.",
+  "source_repo": "Kouki-odaka/open-helplines",
+  "source_url": "https://github.com/Kouki-odaka/open-helplines",
+  "install": "# git clone --depth 1 https://github.com/Kouki-odaka/open-helplines\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "odoo-mcp-server-remote",
+  "description": "Remote MCP server for Odoo ERP — exposes Odoo operations over Streamable HTTP with bearer token authentication.",
+  "source_repo": "josespinal/odoo-mcp-server-remote",
+  "source_url": "https://github.com/josespinal/odoo-mcp-server-remote",
+  "install": "# git clone --depth 1 https://github.com/josespinal/odoo-mcp-server-remote\n# See source for mcpServers config block"
+}

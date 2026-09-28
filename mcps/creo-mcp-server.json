@@ -1,0 +1,7 @@
+{
+  "name": "creo-mcp-server",
+  "description": "MCP server for interacting with Creo Parametric CAD software. Enables tool calls like file_open, feature_set, and J-Link execution through a Python-based server and optional Java gateway.",
+  "source_repo": "kirakirapink/creo-mcp-server",
+  "source_url": "https://github.com/kirakirapink/creo-mcp-server",
+  "install": "npx -y creo-mcp-server"
+}

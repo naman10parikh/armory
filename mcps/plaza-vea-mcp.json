@@ -1,0 +1,7 @@
+{
+  "name": "plaza-vea-mcp",
+  "description": "MCP server for querying Plaza Vea's public catalog via VTEX APIs, enabling product search, price comparison, image display, and cart link generation.",
+  "source_repo": "jeffreymonjacastro/plaza-vea-mcp",
+  "source_url": "https://github.com/jeffreymonjacastro/plaza-vea-mcp",
+  "install": "npx -y plaza-vea-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "football-docs",
+  "description": "Searchable football data provider documentation for AI coding agents. Enables agents to look up verified docs on event types, qualifier IDs, coordinate systems, and more across 15 providers.",
+  "source_repo": "withqwerty/football-docs",
+  "source_url": "https://github.com/withqwerty/football-docs",
+  "install": "# git clone --depth 1 https://github.com/withqwerty/football-docs\n# See source for mcpServers config block"
+}

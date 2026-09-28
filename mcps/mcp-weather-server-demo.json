@@ -1,0 +1,7 @@
+{
+  "name": "mcp-weather-server-demo",
+  "description": "Demo MCP server that provides weather data for cities, with tools to get weather and list available cities.",
+  "source_repo": "shazforiot/MCP-Explained",
+  "source_url": "https://github.com/shazforiot/MCP-Explained",
+  "install": "# git clone --depth 1 https://github.com/shazforiot/MCP-Explained\n# See source for mcpServers config block"
+}

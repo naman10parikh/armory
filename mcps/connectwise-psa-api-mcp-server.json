@@ -1,6 +1,6 @@
 {
   "name": "connectwise-psa-api-mcp-server",
-  "description": "Connectwise PSA API MCP Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "jasondsmith72/Connectwise-PSA-API-MCP-Server",
   "source_url": "https://mcp.so/server/Connectwise-PSA-API-MCP-Server/jasondsmith72",
   "install": "npx -y Connectwise-PSA-API-MCP-Server"

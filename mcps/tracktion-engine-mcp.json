@@ -1,0 +1,7 @@
+{
+  "name": "tracktion-engine-mcp",
+  "description": "Enables AI assistants to search and retrieve detailed documentation for Tracktion Engine classes and APIs.",
+  "source_repo": "Conceptual-Machines/tracktion-engine-mcp",
+  "source_url": "https://github.com/Conceptual-Machines/tracktion-engine-mcp",
+  "install": "npx -y tracktion-engine-mcp"
+}

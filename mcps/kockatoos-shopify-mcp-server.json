@@ -1,0 +1,7 @@
+{
+  "name": "kockatoos-shopify-mcp-server",
+  "description": "An MCP server providing AI agents with full access to the Shopify Admin API via 136 tools for managing products, orders, customers, collections, and more.",
+  "source_repo": "untitled-developers/shopify-mcp",
+  "source_url": "https://github.com/untitled-developers/shopify-mcp",
+  "install": "npx -y shopify-mcp"
+}

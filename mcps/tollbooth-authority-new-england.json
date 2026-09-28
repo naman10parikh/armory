@@ -1,0 +1,7 @@
+{
+  "name": "tollbooth-authority-new-england",
+  "description": "A sub-regional MCP server for the DPYC tollbooth ecosystem, providing authority certification and audit trails for New England operators, with tools inherited from the tollbooth-dpyc shared SDK.",
+  "source_repo": "lonniev/tollbooth-authority-newengland",
+  "source_url": "https://github.com/lonniev/tollbooth-authority-newengland",
+  "install": "# git clone --depth 1 https://github.com/lonniev/tollbooth-authority-newengland\n# See source for mcpServers config block"
+}

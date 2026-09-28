@@ -1,0 +1,7 @@
+{
+  "name": "vision-mcp-9",
+  "description": "An MCP server for image understanding via OpenAI-compatible vision models, offering tools for OCR, error screenshot diagnosis, technical diagram reading, data visualization analysis, UI-to-code conversion, and UI diff comparison.",
+  "source_repo": "sunqb/vision-mcp",
+  "source_url": "https://github.com/sunqb/vision-mcp",
+  "install": "npx -y vision-mcp"
+}

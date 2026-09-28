@@ -1,0 +1,7 @@
+{
+  "name": "worldbank-mcp-server",
+  "description": "Enables querying 29,500+ World Bank development indicators for 200+ countries across 60+ years via MCP, with 7 tools for browsing topics, sources, countries, and indicators.",
+  "source_repo": "cyanheads/worldbank-mcp-server",
+  "source_url": "https://github.com/cyanheads/worldbank-mcp-server",
+  "install": "npx -y worldbank-mcp-server"
+}

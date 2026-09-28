@@ -1,0 +1,7 @@
+{
+  "name": "shade-mcp",
+  "description": "Shade MCP connects AI assistants to the creative assets in your Shade workspace. It can search and browse drives, inspect assets and transcripts, manage files and metadata, curate collections and views, add comments, create share links, work with custom objects, and manage automations.",
+  "source_repo": "shade-labs/shade-mcp",
+  "source_url": "https://github.com/shade-labs/shade-mcp",
+  "install": "npx -y shade-mcp"
+}

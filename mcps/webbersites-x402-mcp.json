@@ -1,0 +1,7 @@
+{
+  "name": "webbersites-x402-mcp",
+  "description": "Pay-per-call MCP server for WebberSites x402 Data API, offering 45 tools for AI agents: web scraping, document extraction, SEO audits, linting, crypto data, and more, with payment via USDC on Base.",
+  "source_repo": "webberdesign/webbersites-x402-mcp",
+  "source_url": "https://github.com/webberdesign/webbersites-x402-mcp",
+  "install": "npx -y webbersites-x402-mcp"
+}

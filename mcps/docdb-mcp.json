@@ -1,0 +1,7 @@
+{
+  "name": "docdb-mcp",
+  "description": "Resolves patent publication numbers to canonical DOCDB identifiers, providing inventor, publication date, and family ID.",
+  "source_repo": "gui11aume/docdb-mcp",
+  "source_url": "https://github.com/gui11aume/docdb-mcp",
+  "install": "npx -y docdb-mcp"
+}

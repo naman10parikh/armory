@@ -1,0 +1,7 @@
+{
+  "name": "front-mcp",
+  "description": "Enables to use Front from any MCP-compatible client. Search conversations, manage contacts, send messages, tag, assign, and automate inbox workflows with 26 tools and 172 actions.",
+  "source_repo": "wearehoust/front-mcp",
+  "source_url": "https://github.com/wearehoust/front-mcp",
+  "install": "npx -y front-mcp"
+}

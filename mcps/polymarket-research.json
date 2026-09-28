@@ -1,0 +1,7 @@
+{
+  "name": "polymarket-research",
+  "description": "Read-only MCP server for investigating Polymarket wallets, markets, and cross-wallet patterns using 21 tools backed by public APIs and an optional SQLite cache.",
+  "source_repo": "YoppaV/polymarket-mcp",
+  "source_url": "https://github.com/YoppaV/polymarket-mcp",
+  "install": "npx -y polymarket-mcp"
+}

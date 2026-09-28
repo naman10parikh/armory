@@ -1,0 +1,7 @@
+{
+  "name": "synthlab-mcp",
+  "description": "Enables AI-powered music composition and synthesis by generating Pure Data patches, VCV Rack modules, and MIDI controller mappings through natural language.",
+  "source_repo": "j0KZ/synthlab-mcp-server",
+  "source_url": "https://github.com/j0KZ/synthlab-mcp-server",
+  "install": "npx -y synthlab-mcp-server"
+}

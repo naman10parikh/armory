@@ -1,0 +1,7 @@
+{
+  "name": "campfire-mcp",
+  "description": "Connects a local Codex session to SMS so users can check and acknowledge inbound messages and send concise updates from a phone.",
+  "source_repo": "campfiresms/campfire-mcp",
+  "source_url": "https://github.com/campfiresms/campfire-mcp",
+  "install": "npx -y campfire-mcp"
+}

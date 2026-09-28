@@ -1,0 +1,7 @@
+{
+  "name": "mcp-two-ai-models-communicating-server",
+  "description": "Enables two local LLMs (Qwen and Llama) to communicate via MCP, allowing one model to consult the other for second opinions or additional reasoning.",
+  "source_repo": "mamidi-joseph/MCP-Two-AI-Models-Communicating",
+  "source_url": "https://github.com/mamidi-joseph/MCP-Two-AI-Models-Communicating",
+  "install": "# git clone --depth 1 https://github.com/mamidi-joseph/MCP-Two-AI-Models-Communicating\n# See source for mcpServers config block"
+}

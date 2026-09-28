@@ -1,0 +1,7 @@
+{
+  "name": "ecrvsp-atpv-inten-o-de-venda-incluir",
+  "description": "Enables consulting official ECRVSP ATPV (Intenção de Venda) inclusion data through a read-only MCP server. Works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/ecrvsp_atpv_incluir-mcp",
+  "source_url": "https://github.com/mcp-dir/ecrvsp_atpv_incluir-mcp",
+  "install": "npx -y ecrvsp_atpv_incluir-mcp"
+}

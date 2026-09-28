@@ -1,0 +1,7 @@
+{
+  "name": "redaction-compliance-mcp-server",
+  "description": "Provides a pre-flight/post-flight firewall for LLM calls with comprehensive detection, classification, policy enforcement, reversible redaction, output safety, and immutable audit logging.",
+  "source_repo": "sunkencity999/redaction-compliance-MCP",
+  "source_url": "https://github.com/sunkencity999/redaction-compliance-MCP",
+  "install": "npx -y redaction-compliance-MCP"
+}

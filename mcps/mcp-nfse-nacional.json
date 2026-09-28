@@ -1,0 +1,7 @@
+{
+  "name": "mcp-nfse-nacional",
+  "description": "MCP server for querying Brazilian electronic service invoices (NFSe) from the national portal. Allows AI agents to authenticate with digital certificates and search, detail, and download PDFs of issued NFSe.",
+  "source_repo": "SamuelMoraesF/mcp-nfse-nacional",
+  "source_url": "https://github.com/SamuelMoraesF/mcp-nfse-nacional",
+  "install": "# git clone --depth 1 https://github.com/SamuelMoraesF/mcp-nfse-nacional\n# See source for mcpServers config block"
+}

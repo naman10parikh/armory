@@ -1,0 +1,7 @@
+{
+  "name": "tianshu-mcp-server",
+  "description": "Enables AI assistants to process documents, images, audio, and video via MCP protocol, converting unstructured data into structured Markdown/JSON.",
+  "source_repo": "magicyuan876/mineru-tianshu",
+  "source_url": "https://github.com/magicyuan876/mineru-tianshu",
+  "install": "# git clone --depth 1 https://github.com/magicyuan876/mineru-tianshu\n# See source for mcpServers config block"
+}

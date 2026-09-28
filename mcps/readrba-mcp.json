@@ -1,0 +1,7 @@
+{
+  "name": "readrba-mcp",
+  "description": "A local MCP server for public Reserve Bank of Australia data, exposing six read-only tools backed by the R package readrba.",
+  "source_repo": "Dominic-Behrens/readrba-mcp",
+  "source_url": "https://github.com/Dominic-Behrens/readrba-mcp",
+  "install": "npx -y readrba-mcp"
+}

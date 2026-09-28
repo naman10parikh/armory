@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sandboxed-git-gh-cli",
+  "description": "Runs git and GitHub CLI commands outside the macOS sandbox to bypass sandbox restrictions like SSH signing and TLS issues.",
+  "source_repo": "nerdalytics/mcp-git-sandbox-fix",
+  "source_url": "https://github.com/nerdalytics/mcp-git-sandbox-fix",
+  "install": "# git clone --depth 1 https://github.com/nerdalytics/mcp-git-sandbox-fix\n# See source for mcpServers config block"
+}

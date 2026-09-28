@@ -1,0 +1,7 @@
+{
+  "name": "cracken",
+  "description": "AI-powered penetration testing framework that can operate as an MCP server, enabling automated security assessments through natural language commands.",
+  "source_repo": "keyreyla/cracken",
+  "source_url": "https://github.com/keyreyla/cracken",
+  "install": "# git clone --depth 1 https://github.com/keyreyla/cracken\n# See source for mcpServers config block"
+}

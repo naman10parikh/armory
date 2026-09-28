@@ -1,0 +1,7 @@
+{
+  "name": "session-memory",
+  "description": "An MCP server for persistent session context, user preferences, project conventions, and indexed state, with features like full-text search, task management, and a web dashboard.",
+  "source_repo": "lovellfelix/session-memory",
+  "source_url": "https://github.com/lovellfelix/session-memory",
+  "install": "# git clone --depth 1 https://github.com/lovellfelix/session-memory\n# See source for mcpServers config block"
+}

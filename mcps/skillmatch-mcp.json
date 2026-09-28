@@ -1,0 +1,7 @@
+{
+  "name": "skillmatch-mcp",
+  "description": "Claude-powered job fit analyzer that analyzes job fit based on GitHub portfolio, resume, and preferences, tracks applications locally.",
+  "source_repo": "jarmstrong158/skillmatch-mcp",
+  "source_url": "https://github.com/jarmstrong158/skillmatch-mcp",
+  "install": "npx -y skillmatch-mcp"
+}

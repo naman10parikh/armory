@@ -1,0 +1,7 @@
+{
+  "name": "lattice",
+  "description": "Provides bounded repository context and edit-grant MCP tools to coding agents such as Codex, indexing local repositories and enabling fingerprint-checked patch application.",
+  "source_repo": "moulwyse/lattice",
+  "source_url": "https://github.com/moulwyse/lattice",
+  "install": "# git clone --depth 1 https://github.com/moulwyse/lattice\n# See source for mcpServers config block"
+}

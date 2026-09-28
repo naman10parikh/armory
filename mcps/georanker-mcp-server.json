@@ -1,0 +1,7 @@
+{
+  "name": "georanker-mcp-server",
+  "description": "An agent-friendly MCP server for the GeoRanker High-Volume API, enabling SEO rank tracking and keyword management through natural language.",
+  "source_repo": "lucas111112/georanker-mcp",
+  "source_url": "https://github.com/lucas111112/georanker-mcp",
+  "install": "npx -y georanker-mcp"
+}

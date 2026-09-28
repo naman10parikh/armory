@@ -1,0 +1,7 @@
+{
+  "name": "ironmcp-framework-starter",
+  "description": "A framework for building MCP servers with standardized tools, authentication, logging, and multiple transports. Enables rapid development of secure, auditable MCP tools.",
+  "source_repo": "julioalberto64/iron-mcp-framework",
+  "source_url": "https://github.com/julioalberto64/iron-mcp-framework",
+  "install": "# git clone --depth 1 https://github.com/julioalberto64/iron-mcp-framework\n# See source for mcpServers config block"
+}

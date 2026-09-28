@@ -1,0 +1,7 @@
+{
+  "name": "near-mcp-server",
+  "description": "The NEAR MCP Server enables AI agents to interact with the NEAR Protocol blockchain, providing smart contract interaction, transaction handling, and event listening with AI-driven processing.",
+  "source_repo": "IQAIcom/mcp-near-agent",
+  "source_url": "https://github.com/IQAIcom/mcp-near-agent",
+  "install": "# git clone --depth 1 https://github.com/IQAIcom/mcp-near-agent\n# See source for mcpServers config block"
+}

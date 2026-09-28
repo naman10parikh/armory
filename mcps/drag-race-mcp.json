@@ -1,0 +1,7 @@
+{
+  "name": "drag-race-mcp",
+  "description": "An MCP server for Drag Race knowledge, enabling search of queens, seasons, episodes, winners, and comparisons. It provides structured information through community-maintained data.",
+  "source_repo": "tkalejandro/drag-race-mcp",
+  "source_url": "https://github.com/tkalejandro/drag-race-mcp",
+  "install": "npx -y drag-race-mcp"
+}

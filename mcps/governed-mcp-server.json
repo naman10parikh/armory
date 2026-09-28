@@ -1,0 +1,7 @@
+{
+  "name": "governed-mcp-server",
+  "description": "An MCP server reference implementation adding enterprise layers (identity, authorization, audit) around MCP, with sample shipment status and delayed shipment tools over a stateless transport.",
+  "source_repo": "johannespietsch/governed-mcp-server",
+  "source_url": "https://github.com/johannespietsch/governed-mcp-server",
+  "install": "npx -y governed-mcp-server"
+}

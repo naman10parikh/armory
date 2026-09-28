@@ -1,0 +1,7 @@
+{
+  "name": "reclaw-comms-mcp",
+  "description": "MCP server enabling permissioned, structured agent-to-agent communications, allowing agents to negotiate availability through schema-validated messages with scoped access and audit logging.",
+  "source_repo": "redesignhealth/rh-reclaw",
+  "source_url": "https://github.com/redesignhealth/rh-reclaw",
+  "install": "# git clone --depth 1 https://github.com/redesignhealth/rh-reclaw\n# See source for mcpServers config block"
+}

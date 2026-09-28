@@ -1,0 +1,7 @@
+{
+  "name": "roku-mcp",
+  "description": "Enables AI agents to inspect and control Roku devices—query UI elements, send remote input, launch channels, and run tests—using the Model Context Protocol or a CLI.",
+  "source_repo": "danecodes/roku-mcp",
+  "source_url": "https://github.com/danecodes/roku-mcp",
+  "install": "npx -y roku-mcp"
+}

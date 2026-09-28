@@ -1,0 +1,7 @@
+{
+  "name": "biopharma-mcp",
+  "description": "MCP server for biopharma software infrastructure offering FDA 21 CFR Part 11 audit trails, CDISC SDTM/Allotrope data exports, 4PL dose-response curve fitting, and HIPAA PII/PHI redaction through 10 Zod-validated tools.",
+  "source_repo": "SEOSiri-Official/biopharma-mcp",
+  "source_url": "https://github.com/SEOSiri-Official/biopharma-mcp",
+  "install": "npx -y biopharma-mcp"
+}

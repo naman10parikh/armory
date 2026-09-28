@@ -1,0 +1,7 @@
+{
+  "name": "bruno-headless",
+  "description": "A headless MCP server for Bruno workspaces, enabling CRUD operations on collections, folders, requests, environments, and dotenv files, plus request execution with scripting, tests, and assertions over HTTP, GraphQL, gRPC, and WebSocket.",
+  "source_repo": "bachden/bruno-headless",
+  "source_url": "https://github.com/bachden/bruno-headless",
+  "install": "# git clone --depth 1 https://github.com/bachden/bruno-headless\n# See source for mcpServers config block"
+}

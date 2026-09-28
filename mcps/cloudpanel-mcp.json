@@ -1,0 +1,7 @@
+{
+  "name": "cloudpanel-mcp",
+  "description": "Provides 50 tools to manage a CloudPanel VPS through AI assistants, covering sites, databases, Docker, server software, firewall, DNS, and one-shot deployments.",
+  "source_repo": "heyjishh/cloudpanel-mcp",
+  "source_url": "https://github.com/heyjishh/cloudpanel-mcp",
+  "install": "npx -y cloudpanel-mcp"
+}

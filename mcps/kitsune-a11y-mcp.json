@@ -1,0 +1,7 @@
+{
+  "name": "kitsune-a11y-mcp",
+  "description": "An accessibility audit server that enforces WCAG 2.2 AA standards by running axe-core in a headless browser, providing violation details grouped by impact with fix hints.",
+  "source_repo": "KitsuneTech1/kitsune-a11y-mcp",
+  "source_url": "https://github.com/KitsuneTech1/kitsune-a11y-mcp",
+  "install": "npx -y kitsune-a11y-mcp"
+}

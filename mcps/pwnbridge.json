@@ -1,0 +1,7 @@
+{
+  "name": "pwnbridge",
+  "description": "Enables AI assistants to execute security testing tools on a Kali Linux machine over SSH, including reconnaissance, web app scanning, and static/dynamic analysis.",
+  "source_repo": "1mr0-tech/PwnBridge",
+  "source_url": "https://github.com/1mr0-tech/PwnBridge",
+  "install": "# git clone --depth 1 https://github.com/1mr0-tech/PwnBridge\n# See source for mcpServers config block"
+}

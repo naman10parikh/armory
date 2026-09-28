@@ -1,0 +1,7 @@
+{
+  "name": "mcp-email",
+  "description": "MCP server that enables email management (send, read, search, delete, etc.) via IMAP/SMTP, compatible with Gmail, Outlook, Yahoo, iCloud, and other standard mail servers.",
+  "source_repo": "weiting-tw/mcp-email",
+  "source_url": "https://github.com/weiting-tw/mcp-email",
+  "install": "# git clone --depth 1 https://github.com/weiting-tw/mcp-email\n# See source for mcpServers config block"
+}

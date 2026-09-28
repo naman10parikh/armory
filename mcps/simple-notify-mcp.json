@@ -1,0 +1,7 @@
+{
+  "name": "simple-notify-mcp",
+  "description": "Provides text-to-speech and Telegram notification capabilities via the Model Context Protocol. Supports multiple TTS providers and Telegram messaging with optional setup web interface.",
+  "source_repo": "pintar-team/simple-notify-mcp",
+  "source_url": "https://github.com/pintar-team/simple-notify-mcp",
+  "install": "npx -y simple-notify-mcp"
+}

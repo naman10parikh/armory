@@ -1,0 +1,7 @@
+{
+  "name": "ptolemy-mcp",
+  "description": "Enables AI agents to construct and simulate Ptolemy II models over MCP, including SDF model builds and signal property verification.",
+  "source_repo": "tianfanxuan/ptolemy-mcp",
+  "source_url": "https://github.com/tianfanxuan/ptolemy-mcp",
+  "install": "npx -y ptolemy-mcp"
+}

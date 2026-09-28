@@ -1,0 +1,7 @@
+{
+  "name": "league-of-legends-mcp-server",
+  "description": "MCP server exposing 30 tools for League of Legends player analysis, match review, and training-plan generation.",
+  "source_repo": "rexlManu/lol-mcp-server",
+  "source_url": "https://github.com/rexlManu/lol-mcp-server",
+  "install": "npx -y lol-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "japan-tariff-mcp",
+  "description": "An MCP server for searching Japanese tariff data by keywords, HS codes, and more, enabling AI agents to access tariff information.",
+  "source_repo": "qlitre/japan-tariff-mcp",
+  "source_url": "https://github.com/qlitre/japan-tariff-mcp",
+  "install": "npx -y japan-tariff-mcp"
+}

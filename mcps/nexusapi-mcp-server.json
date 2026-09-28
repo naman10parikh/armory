@@ -1,0 +1,7 @@
+{
+  "name": "nexusapi-mcp-server",
+  "description": "Enables AI agents to interact with NexusAPI's asynchronous generation API, including model discovery, schema inspection, task creation, and status retrieval.",
+  "source_repo": "mat12121212/nexusapi-examples",
+  "source_url": "https://github.com/mat12121212/nexusapi-examples",
+  "install": "# git clone --depth 1 https://github.com/mat12121212/nexusapi-examples\n# See source for mcpServers config block"
+}

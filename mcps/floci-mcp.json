@@ -1,0 +1,7 @@
+{
+  "name": "floci-mcp",
+  "description": "Enables AI agents to deploy and manage simulated AWS resources (like EC2, S3, DynamoDB) on a local Floci instance through natural language.",
+  "source_repo": "Awilliv/floci-mcp",
+  "source_url": "https://github.com/Awilliv/floci-mcp",
+  "install": "npx -y floci-mcp"
+}

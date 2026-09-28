@@ -1,0 +1,7 @@
+{
+  "name": "zadig-mcp",
+  "description": "Enables management of Zadig CI/CD workflows, builds, services, environments, and webhooks through the Zadig OpenAPI.",
+  "source_repo": "Deraiven/zadig-mcp",
+  "source_url": "https://github.com/Deraiven/zadig-mcp",
+  "install": "npx -y zadig-mcp"
+}

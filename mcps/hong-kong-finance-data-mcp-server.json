@@ -1,0 +1,7 @@
+{
+  "name": "hong-kong-finance-data-mcp-server",
+  "description": "Provides access to Hong Kong financial data like business registrations, mortgage statistics, and HIBOR rates through a FastMCP interface.",
+  "source_repo": "hkopenai/hk-finance-mcp-server",
+  "source_url": "https://github.com/hkopenai/hk-finance-mcp-server",
+  "install": "npx -y hk-finance-mcp-server"
+}

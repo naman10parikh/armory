@@ -1,0 +1,7 @@
+{
+  "name": "localmem-mcp-zh",
+  "description": "A fully local, offline Chinese-optimized MCP memory server using SQLite and local embeddings, enabling MCP clients to store, semantically search, recall, and count memories without any API calls.",
+  "source_repo": "lvyuan1688/localmem-mcp-zh",
+  "source_url": "https://github.com/lvyuan1688/localmem-mcp-zh",
+  "install": "# git clone --depth 1 https://github.com/lvyuan1688/localmem-mcp-zh\n# See source for mcpServers config block"
+}

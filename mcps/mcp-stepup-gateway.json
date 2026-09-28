@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stepup-gateway",
+  "description": "An MCP gateway that enforces step-up authentication using WebAuthn passkeys for remote clients, requiring session handles for read operations and fresh passkey confirmations for writes to protect an Obsidian vault.",
+  "source_repo": "joaorura/mcp-stepup-gateway",
+  "source_url": "https://github.com/joaorura/mcp-stepup-gateway",
+  "install": "# git clone --depth 1 https://github.com/joaorura/mcp-stepup-gateway\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vercel-mcp-web-crawler",
+  "description": "Provides lightweight web crawling and scraping capabilities, enabling users to fetch pages as clean Markdown, recursively crawl domains, extract metadata, and perform search-and-crawl operations.",
+  "source_repo": "AIEterprise/mcp-web-crawler",
+  "source_url": "https://github.com/AIEterprise/mcp-web-crawler",
+  "install": "# git clone --depth 1 https://github.com/AIEterprise/mcp-web-crawler\n# See source for mcpServers config block"
+}

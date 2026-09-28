@@ -1,6 +1,6 @@
 {
   "name": "ai-create-mcp",
-  "description": "Ai Create Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "xxlv/ai-create-mcp",
   "source_url": "https://mcp.so/server/ai-create-mcp/xxlv",
   "install": "npx -y ai-create-mcp"

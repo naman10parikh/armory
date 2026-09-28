@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-pipeline-connector",
+  "description": "Unified MCP server for querying CSV, Postgres, and REST API data sources via embedded DuckDB, enabling cross-source SQL joins with no external query service.",
+  "source_repo": "dbsectrainer/mcp-data-pipeline-connector",
+  "source_url": "https://github.com/dbsectrainer/mcp-data-pipeline-connector",
+  "install": "# git clone --depth 1 https://github.com/dbsectrainer/mcp-data-pipeline-connector\n# See source for mcpServers config block"
+}

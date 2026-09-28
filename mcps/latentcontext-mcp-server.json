@@ -1,0 +1,7 @@
+{
+  "name": "latentcontext-mcp-server",
+  "description": "A session-scoped memory layer for LLMs that enables AI assistants to explicitly store and retrieve notes, decisions, and context within a single conversation, ensuring focus without cross-session data contamination.",
+  "source_repo": "Master0fFate/LatentContext-MCP",
+  "source_url": "https://github.com/Master0fFate/LatentContext-MCP",
+  "install": "npx -y LatentContext-MCP"
+}

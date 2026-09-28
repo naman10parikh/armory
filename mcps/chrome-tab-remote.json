@@ -1,0 +1,7 @@
+{
+  "name": "chrome-tab-remote",
+  "description": "MCP server that gives AI agents secure, consent-based access to a single browser tab, supporting read-only snapshots, element interaction with per-action approval, and frozen multi-step plans, all audited.",
+  "source_repo": "ai-4-you/chrome-tab-remote",
+  "source_url": "https://github.com/ai-4-you/chrome-tab-remote",
+  "install": "# git clone --depth 1 https://github.com/ai-4-you/chrome-tab-remote\n# See source for mcpServers config block"
+}

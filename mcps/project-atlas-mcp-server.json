@@ -1,0 +1,7 @@
+{
+  "name": "project-atlas-mcp-server",
+  "description": "A standard, forkable MCP App server with a Streamable HTTP endpoint, providing a self-contained UI resource and native tools like search_projects for project discovery.",
+  "source_repo": "reachjalil/openwork-remote-mcp-app-example",
+  "source_url": "https://github.com/reachjalil/openwork-remote-mcp-app-example",
+  "install": "# git clone --depth 1 https://github.com/reachjalil/openwork-remote-mcp-app-example\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apple-event-mcp",
+  "description": "MCP server for Apple event liveblog updates from Engadget, MacRumors, iClarified, and Macworld, enabling AI agents to search, summarize, and monitor posts with optional webhook notifications.",
+  "source_repo": "perryraskin/apple-event-mcp",
+  "source_url": "https://github.com/perryraskin/apple-event-mcp",
+  "install": "npx -y apple-event-mcp"
+}

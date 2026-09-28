@@ -1,0 +1,7 @@
+{
+  "name": "email-mcp",
+  "description": "Local MCP server for multi-account IMAP/SMTP email (iCloud + Gmail via app-specific passwords). Never marks mail read. Cross-folder search, idempotent sends, TLS verified.",
+  "source_repo": "swapnilsurdi/email_mcp",
+  "source_url": "https://github.com/swapnilsurdi/email_mcp",
+  "install": "npx -y email_mcp"
+}

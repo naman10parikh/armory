@@ -1,0 +1,7 @@
+{
+  "name": "multimodels-mcp",
+  "description": "Delegate tasks from Claude Code to other models (Codex CLI, DeepSeek, OpenRouter, etc.) without leaving the app.",
+  "source_repo": "dpmadsen/multimodels-mcp",
+  "source_url": "https://github.com/dpmadsen/multimodels-mcp",
+  "install": "npx -y multimodels-mcp"
+}

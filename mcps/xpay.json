@@ -1,0 +1,7 @@
+{
+  "name": "xpay",
+  "description": "An MCP server for agentic commerce, enabling AI agents to discover services, make x402 payments with USDC across multiple chains, and manage crypto wallets and token swaps.",
+  "source_repo": "xona-labs/xpay",
+  "source_url": "https://github.com/xona-labs/xpay",
+  "install": "# git clone --depth 1 https://github.com/xona-labs/xpay\n# See source for mcpServers config block"
+}

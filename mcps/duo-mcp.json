@@ -1,0 +1,7 @@
+{
+  "name": "duo-mcp",
+  "description": "MCP server for the Cisco Duo Admin API, enabling management of Duo MFA, users, groups, devices, policies, and more via 160 tools across 20 categories.",
+  "source_repo": "MSPbotsAI/duo-mcp",
+  "source_url": "https://github.com/MSPbotsAI/duo-mcp",
+  "install": "npx -y duo-mcp"
+}

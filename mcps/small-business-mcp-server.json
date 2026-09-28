@@ -1,0 +1,7 @@
+{
+  "name": "small-business-mcp-server",
+  "description": "Enables LLMs to interact with small business data systems through tools for document processing, data queries, and report generation, using MCP primitives for structured context.",
+  "source_repo": "Joe-Spencer/small-business-mcp",
+  "source_url": "https://github.com/Joe-Spencer/small-business-mcp",
+  "install": "npx -y small-business-mcp"
+}

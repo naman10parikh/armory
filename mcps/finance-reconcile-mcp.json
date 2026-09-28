@@ -1,0 +1,7 @@
+{
+  "name": "finance-reconcile-mcp",
+  "description": "Read-only MCP server for reconciling SimpleFIN bank data against Firefly III ledger, enabling audit and review workflows without mutation.",
+  "source_repo": "nalyDzzz/finance-reconcile-mcp",
+  "source_url": "https://github.com/nalyDzzz/finance-reconcile-mcp",
+  "install": "npx -y finance-reconcile-mcp"
+}

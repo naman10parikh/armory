@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-docgen-mcp-server",
+  "description": "Render HTML/markdown to PDF, export rows to xlsx, and fill AcroForm PDFs via MCP. STDIO or Streamable HTTP.",
+  "source_repo": "cyanheads/docgen-mcp-server",
+  "source_url": "https://github.com/cyanheads/docgen-mcp-server",
+  "install": "npx -y docgen-mcp-server"
+}

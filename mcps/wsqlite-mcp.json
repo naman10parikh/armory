@@ -1,0 +1,7 @@
+{
+  "name": "wsqlite-mcp",
+  "description": "MCP server that bridges AI agents with WSQLite, enabling search, design, and deployment of high-performance SQLite-backed services with industry-standard patterns and architecture enforcement.",
+  "source_repo": "wisrovi/wsqlite_mcp",
+  "source_url": "https://github.com/wisrovi/wsqlite_mcp",
+  "install": "npx -y wsqlite_mcp"
+}

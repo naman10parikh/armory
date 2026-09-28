@@ -1,0 +1,7 @@
+{
+  "name": "suresh-hr-assist",
+  "description": "Automates HR workflows such as employee onboarding, leave management, meeting scheduling, and ticket handling through natural language, with email notifications and demo data.",
+  "source_repo": "Amgoth-Suresh/HR-ASSIST-Agentic-AI-System",
+  "source_url": "https://github.com/Amgoth-Suresh/HR-ASSIST-Agentic-AI-System",
+  "install": "# git clone --depth 1 https://github.com/Amgoth-Suresh/HR-ASSIST-Agentic-AI-System\n# See source for mcpServers config block"
+}

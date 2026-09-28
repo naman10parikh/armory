@@ -1,0 +1,7 @@
+{
+  "name": "scirepl-mcp",
+  "description": "MCP servers for controlling SciREPL from coding agents and MCP clients, offering an app-connected broker and a Playwright driver for browser automation.",
+  "source_repo": "s243a/SciREPL-MCP",
+  "source_url": "https://github.com/s243a/SciREPL-MCP",
+  "install": "npx -y SciREPL-MCP"
+}

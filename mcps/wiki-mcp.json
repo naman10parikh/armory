@@ -1,0 +1,7 @@
+{
+  "name": "wiki-mcp",
+  "description": "MCP server for managing a personal markdown wiki. Provides search, navigation, read, write, delete, and move tools with automatic index.md management.",
+  "source_repo": "icarus-inte01/wiki-mcp",
+  "source_url": "https://github.com/icarus-inte01/wiki-mcp",
+  "install": "npx -y wiki-mcp"
+}

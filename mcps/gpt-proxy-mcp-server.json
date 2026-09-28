@@ -1,0 +1,7 @@
+{
+  "name": "gpt-proxy-mcp-server",
+  "description": "MCP server that proxies GPT API calls for Claude Code, supporting multiple GPT models with both standard and streaming responses.",
+  "source_repo": "Roxanne299/mcp-server",
+  "source_url": "https://github.com/Roxanne299/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Roxanne299/mcp-server\n# See source for mcpServers config block"
+}

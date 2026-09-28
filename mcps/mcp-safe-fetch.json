@@ -1,0 +1,7 @@
+{
+  "name": "mcp-safe-fetch",
+  "description": "A content fetcher that sanitizes, size-caps, and caches fetched content, protecting against injection attacks via the Model Context Protocol.",
+  "source_repo": "PortfolioKB/mcp-safe-fetch",
+  "source_url": "https://github.com/PortfolioKB/mcp-safe-fetch",
+  "install": "# git clone --depth 1 https://github.com/PortfolioKB/mcp-safe-fetch\n# See source for mcpServers config block"
+}

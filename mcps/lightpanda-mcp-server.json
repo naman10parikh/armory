@@ -1,0 +1,7 @@
+{
+  "name": "lightpanda-mcp-server",
+  "description": "MCP server for Lightpanda headless browser enabling ultra-fast HTML extraction, markdown conversion, and JavaScript execution with 16x lower memory footprint than Chrome.",
+  "source_repo": "Brilhante29/lightpanda-mcp-server",
+  "source_url": "https://github.com/Brilhante29/lightpanda-mcp-server",
+  "install": "npx -y lightpanda-mcp-server"
+}

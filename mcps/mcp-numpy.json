@@ -1,0 +1,7 @@
+{
+  "name": "mcp-numpy",
+  "description": "An MCP server that exposes NumPy functionality as tools, enabling array creation, manipulation, mathematical operations, linear algebra, random sampling, statistics, and element-wise math through natural language.",
+  "source_repo": "daedalus/mcp-numpy",
+  "source_url": "https://github.com/daedalus/mcp-numpy",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-numpy\n# See source for mcpServers config block"
+}

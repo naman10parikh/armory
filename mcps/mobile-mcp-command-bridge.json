@@ -1,0 +1,7 @@
+{
+  "name": "mobile-mcp-command-bridge",
+  "description": "A controlled local program execution bridge for mobile MCP clients, exposing structured tools for running programs, file operations, and network diagnostics without shell access.",
+  "source_repo": "XD06/MCP_Command_Bridge",
+  "source_url": "https://github.com/XD06/MCP_Command_Bridge",
+  "install": "# git clone --depth 1 https://github.com/XD06/MCP_Command_Bridge\n# See source for mcpServers config block"
+}

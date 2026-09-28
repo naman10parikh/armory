@@ -1,0 +1,7 @@
+{
+  "name": "mcp-docs-assistant",
+  "description": "An MCP server that retrieves documentation from official sources (LangChain, LlamaIndex, OpenAI, uv) using Serper API, extracts page content, and provides context for LLM-based answers.",
+  "source_repo": "amanjain200/official-docs-mcp",
+  "source_url": "https://github.com/amanjain200/official-docs-mcp",
+  "install": "npx -y official-docs-mcp"
+}

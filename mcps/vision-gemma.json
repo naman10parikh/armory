@@ -1,0 +1,7 @@
+{
+  "name": "vision-gemma",
+  "description": "Provides offline, privacy-preserving image recognition, OCR, and scene description for AI assistants via the Model Context Protocol, with Vulkan-accelerated local processing.",
+  "source_repo": "q1023884985/visiongemma",
+  "source_url": "https://github.com/q1023884985/visiongemma",
+  "install": "# git clone --depth 1 https://github.com/q1023884985/visiongemma\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-owl-mcp-server",
+  "description": "Agent Owl provides cryptographic file integrity monitoring, OWL/RDF semantic knowledge graphing with SPARQL queries, and EU AI Act compliance tracking for Claude Code via 15 MCP tools covering file verification, compliance management, and project administration.",
+  "source_repo": "arnwaldn/agent-owl",
+  "source_url": "https://github.com/arnwaldn/agent-owl",
+  "install": "# git clone --depth 1 https://github.com/arnwaldn/agent-owl\n# See source for mcpServers config block"
+}

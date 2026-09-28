@@ -1,0 +1,7 @@
+{
+  "name": "raj-assistant-mcp",
+  "description": "A modular AI Assistant built using the Model Context Protocol that provides tools for calculator, weather, news, AI chat, currency conversion, document processing, and future RAG capabilities.",
+  "source_repo": "Rajmaheta009/MCP_Agent",
+  "source_url": "https://github.com/Rajmaheta009/MCP_Agent",
+  "install": "# git clone --depth 1 https://github.com/Rajmaheta009/MCP_Agent\n# See source for mcpServers config block"
+}

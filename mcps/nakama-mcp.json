@@ -1,0 +1,7 @@
+{
+  "name": "nakama-mcp",
+  "description": "An MCP server that allows Claude and other hosts to interact with a Heroic Labs Nakama instance through both its Client API and Console API, enabling game server operations like authentication, accounts, storage, leaderboards, and admin tasks.",
+  "source_repo": "mlger/nakama-mcp",
+  "source_url": "https://github.com/mlger/nakama-mcp",
+  "install": "npx -y nakama-mcp"
+}

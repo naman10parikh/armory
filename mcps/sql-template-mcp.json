@@ -1,0 +1,7 @@
+{
+  "name": "sql-template-mcp",
+  "description": "MCP server for managing and retrieving reusable SQL templates with semantic search, enabling a workflow of generation, retrieval, and templating.",
+  "source_repo": "nichuan/sql-template-mcp",
+  "source_url": "https://github.com/nichuan/sql-template-mcp",
+  "install": "npx -y sql-template-mcp"
+}

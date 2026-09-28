@@ -1,0 +1,7 @@
+{
+  "name": "calmesh-mcp-server",
+  "description": "MCP server that connects AI agents to calendars, bookings, and scheduling polls via the Model Context Protocol.",
+  "source_repo": "davidklemme/calmesh-mcp-server",
+  "source_url": "https://github.com/davidklemme/calmesh-mcp-server",
+  "install": "npx -y calmesh-mcp-server"
+}

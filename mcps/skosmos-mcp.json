@@ -1,0 +1,7 @@
+{
+  "name": "skosmos-mcp",
+  "description": "Wraps the Skosmos REST API to enable AI assistants to browse, search, and traverse SKOS vocabularies via MCP tools and resources.",
+  "source_repo": "jsilvanus/skosmos-mcp",
+  "source_url": "https://github.com/jsilvanus/skosmos-mcp",
+  "install": "npx -y skosmos-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-treasury",
+  "description": "Provides access to US Treasury Fiscal Data via a free, no-auth public API. Enables querying government financial data through natural language.",
+  "source_repo": "pipeworx-io/mcp-treasury",
+  "source_url": "https://github.com/pipeworx-io/mcp-treasury",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-treasury\n# See source for mcpServers config block"
+}

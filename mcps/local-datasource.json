@@ -1,0 +1,7 @@
+{
+  "name": "local-datasource",
+  "description": "将akshare、yfinance、wbgapi、arxiv等免费公开接口封装为4个标准MCP工具，使支持MCP的智能体无需第三方账号和云额度即可直接查询金融市场、宏观经济和学术论文数据。",
+  "source_repo": "jarvislee90s-dot/local-datasource",
+  "source_url": "https://github.com/jarvislee90s-dot/local-datasource",
+  "install": "# git clone --depth 1 https://github.com/jarvislee90s-dot/local-datasource\n# See source for mcpServers config block"
+}

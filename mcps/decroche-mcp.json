@@ -1,0 +1,7 @@
+{
+  "name": "decroche-mcp",
+  "description": "Deterministic MCP server for job-landing pipeline that parses CVs into validated JSON Resume, detects sections, scores parse confidence, and exposes FR/US market profiles to help beat ATS and LLM screeners honestly.",
+  "source_repo": "Casius999/decroche-mcp",
+  "source_url": "https://github.com/Casius999/decroche-mcp",
+  "install": "npx -y decroche-mcp"
+}

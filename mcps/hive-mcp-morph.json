@@ -1,0 +1,7 @@
+{
+  "name": "hive-mcp-morph",
+  "description": "MCP server for the HiveMorph polymorphic agent runtime, exposing audit log, identity index, supermodel directory, brood carousel, and approval queue with x402 micropayments.",
+  "source_repo": "srotzin/hive-mcp-morph",
+  "source_url": "https://github.com/srotzin/hive-mcp-morph",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-morph\n# See source for mcpServers config block"
+}

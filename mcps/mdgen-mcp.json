@@ -1,0 +1,7 @@
+{
+  "name": "mdgen-mcp",
+  "description": "MCP server for mdgen that enables reading, writing, and managing mdgen documents from MCP clients like Claude Desktop and Codex CLI using your own mdgen account.",
+  "source_repo": "Shien-Inc/mdgen-mcp",
+  "source_url": "https://github.com/Shien-Inc/mdgen-mcp",
+  "install": "npx -y mdgen-mcp"
+}

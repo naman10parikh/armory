@@ -1,0 +1,7 @@
+{
+  "name": "zipkit-mcp-server",
+  "description": "Enables AI agents to access Thailand tax, visa, and expat-money tools, including tax calculation, remittance checks, residency counting, and premium rule-engine queries.",
+  "source_repo": "sniertough/zipkit-mcp",
+  "source_url": "https://github.com/sniertough/zipkit-mcp",
+  "install": "npx -y zipkit-mcp"
+}

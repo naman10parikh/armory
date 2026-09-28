@@ -1,0 +1,7 @@
+{
+  "name": "pm-skills-mcp",
+  "description": "MCP server exposing 40 best-practice product management skills plus workflows and lifecycle tools, instantly accessible to any AI via Model Context Protocol.",
+  "source_repo": "product-on-purpose/pm-skills-mcp",
+  "source_url": "https://github.com/product-on-purpose/pm-skills-mcp",
+  "install": "npx -y pm-skills-mcp"
+}

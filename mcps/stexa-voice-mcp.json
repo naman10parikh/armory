@@ -1,0 +1,7 @@
+{
+  "name": "stexa-voice-mcp",
+  "description": "Connect voice telephony to your AI agent. Make outbound calls, get transcripts, check call status — all via MCP tools. Built on Asterisk + Yandex SpeechKit. OAuth 2.1, FZ-152 compliant.",
+  "source_repo": "",
+  "source_url": "https://stexa.ru/en/voice-mcp",
+  "install": "# git clone --depth 1 https://stexa.ru/en/voice-mcp\n# See source for mcpServers config block"
+}

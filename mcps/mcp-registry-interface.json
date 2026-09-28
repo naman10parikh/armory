@@ -1,0 +1,7 @@
+{
+  "name": "mcp-registry-interface",
+  "description": "MCP server for interfacing with the official Model Context Protocol registry. Enables Claude and other MCP clients to dynamically discover, browse, search, and manage MCP servers directly from GitHub.",
+  "source_repo": "MikeyBeez/mcp-registry-interface",
+  "source_url": "https://github.com/MikeyBeez/mcp-registry-interface",
+  "install": "# git clone --depth 1 https://github.com/MikeyBeez/mcp-registry-interface\n# See source for mcpServers config block"
+}

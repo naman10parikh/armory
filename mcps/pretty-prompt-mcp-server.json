@@ -1,0 +1,7 @@
+{
+  "name": "pretty-prompt-mcp-server",
+  "description": "Exposes tools to list and save prompts from the Pretty Prompt library, enabling integration with AI editors like Cursor and Claude Desktop.",
+  "source_repo": "charliemday/pretty-mcp",
+  "source_url": "https://github.com/charliemday/pretty-mcp",
+  "install": "npx -y pretty-mcp"
+}

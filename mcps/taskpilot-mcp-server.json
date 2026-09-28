@@ -1,0 +1,7 @@
+{
+  "name": "taskpilot-mcp-server",
+  "description": "Provides 13 tools for AI agents to manage tasks, calendar, and goals in TaskPilot, a local-first desktop task manager with a permissioned agent runner and review workflows.",
+  "source_repo": "Gr0wthHacker/taskpilot",
+  "source_url": "https://github.com/Gr0wthHacker/taskpilot",
+  "install": "# git clone --depth 1 https://github.com/Gr0wthHacker/taskpilot\n# See source for mcpServers config block"
+}

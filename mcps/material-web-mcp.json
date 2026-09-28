@@ -1,0 +1,7 @@
+{
+  "name": "material-web-mcp",
+  "description": "Provides programmatic access to Material Web documentation and components for AI agents, enabling documentation search, template generation, and HTML validation.",
+  "source_repo": "shantoislamdev/material-web-mcp",
+  "source_url": "https://github.com/shantoislamdev/material-web-mcp",
+  "install": "npx -y material-web-mcp"
+}

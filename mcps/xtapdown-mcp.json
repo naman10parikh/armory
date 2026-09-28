@@ -1,0 +1,7 @@
+{
+  "name": "xtapdown-mcp",
+  "description": "An MCP server that provides LLM clients with direct access to XTapDown's Twitter creator toolkit, enabling tweet downloads, engagement calculations, content generation, and trend analysis without authentication or rate limits.",
+  "source_repo": "farukkolip/xtapdown-mcp",
+  "source_url": "https://github.com/farukkolip/xtapdown-mcp",
+  "install": "npx -y xtapdown-mcp"
+}

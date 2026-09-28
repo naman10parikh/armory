@@ -1,0 +1,7 @@
+{
+  "name": "zammad-mcp-server",
+  "description": "An MCP server that connects AI assistants to Zammad, providing tools for managing tickets, users, organizations, and attachments.",
+  "source_repo": "basher83/Zammad-MCP",
+  "source_url": "https://github.com/basher83/Zammad-MCP",
+  "install": "npx -y Zammad-MCP"
+}

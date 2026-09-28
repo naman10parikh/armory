@@ -1,0 +1,7 @@
+{
+  "name": "socialcrawl-mcp",
+  "description": "Provides AI agents with unified access to 21 social media platforms and 105 endpoints for retrieving profiles, posts, comments, search results, trending content, and analytics without per-platform authentication.",
+  "source_repo": "RidioDevelopment/socialcrawl-mcp",
+  "source_url": "https://github.com/RidioDevelopment/socialcrawl-mcp",
+  "install": "npx -y socialcrawl-mcp"
+}

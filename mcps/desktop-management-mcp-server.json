@@ -1,0 +1,7 @@
+{
+  "name": "desktop-management-mcp-server",
+  "description": "MCP server for managing devices via JAMF Pro and Microsoft Intune APIs, enabling AI assistants to query and control device management tasks.",
+  "source_repo": "rcobb2/desktop-management-mcp",
+  "source_url": "https://github.com/rcobb2/desktop-management-mcp",
+  "install": "npx -y desktop-management-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unipile-linkedin-mcp",
+  "description": "Enables AI assistants to interact with LinkedIn for search, messaging, connections, and Sales Navigator features via the Unipile API.",
+  "source_repo": "bhaktatejas922/unipile-linkedin-mcp",
+  "source_url": "https://github.com/bhaktatejas922/unipile-linkedin-mcp",
+  "install": "npx -y unipile-linkedin-mcp"
+}

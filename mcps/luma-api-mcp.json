@@ -1,0 +1,7 @@
+{
+  "name": "luma-api-mcp",
+  "description": "Enables image and video generation using Luma's API, supporting multiple models, aspect ratios, and advanced features like keyframes and style references.",
+  "source_repo": "lumalabs/luma-api-mcp",
+  "source_url": "https://github.com/lumalabs/luma-api-mcp",
+  "install": "npx -y luma-api-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wheel-of-heaven-mcp-server",
+  "description": "A read-only MCP server that lets AI agents search and retrieve the Wheel of Heaven corpus, including source-grounded facts, interpretations, and comparative traditions, all with full epistemic metadata.",
+  "source_repo": "wheelofheaven/mcp.wheelofheaven.world",
+  "source_url": "https://github.com/wheelofheaven/mcp.wheelofheaven.world",
+  "install": "# git clone --depth 1 https://github.com/wheelofheaven/mcp.wheelofheaven.world\n# See source for mcpServers config block"
+}

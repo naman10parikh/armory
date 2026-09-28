@@ -1,0 +1,7 @@
+{
+  "name": "wlady-code-mcp",
+  "description": "An MCP server that turns any codebase into a queryable knowledge graph — and renders it as an interactive galaxy.",
+  "source_repo": "wladimania93/wlady-code-mcp",
+  "source_url": "https://github.com/wladimania93/wlady-code-mcp",
+  "install": "npx -y wlady-code-mcp"
+}

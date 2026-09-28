@@ -1,0 +1,7 @@
+{
+  "name": "cronometer-api-mcp",
+  "description": "MCP server for Cronometer nutrition tracking using the mobile API. Enables food logging, nutrition data retrieval, diary management, and fasting tracking.",
+  "source_repo": "firaskudsy/cronometer-api-mcp",
+  "source_url": "https://github.com/firaskudsy/cronometer-api-mcp",
+  "install": "npx -y cronometer-api-mcp"
+}

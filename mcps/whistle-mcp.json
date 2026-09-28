@@ -1,0 +1,7 @@
+{
+  "name": "whistle-mcp",
+  "description": "Enables AI to manage whistle mock rules, values, and inspect network sessions, facilitating API mocking and debugging through natural language.",
+  "source_repo": "hzbhzb/whistle-mcp",
+  "source_url": "https://github.com/hzbhzb/whistle-mcp",
+  "install": "npx -y whistle-mcp"
+}

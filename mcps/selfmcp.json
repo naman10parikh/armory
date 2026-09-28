@@ -1,0 +1,7 @@
+{
+  "name": "selfmcp",
+  "description": "A personal MCP server that exposes your profile (bio, skills, projects, work experience) as structured tools for any MCP-compatible AI client, secured with OAuth 2.1 and Dynamic Client Registration.",
+  "source_repo": "jaiminbhaduri/selfmcp",
+  "source_url": "https://github.com/jaiminbhaduri/selfmcp",
+  "install": "# git clone --depth 1 https://github.com/jaiminbhaduri/selfmcp\n# See source for mcpServers config block"
+}

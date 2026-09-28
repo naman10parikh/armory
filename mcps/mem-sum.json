@@ -1,0 +1,7 @@
+{
+  "name": "mem-sum",
+  "description": "Mem·Sum is a shared memory workspace for small groups accessible via AI assistants, enabling agents to read, draft, and publish atomic updates to a shared workspace with version control and security.",
+  "source_repo": "docgotham/memsum",
+  "source_url": "https://github.com/docgotham/memsum",
+  "install": "# git clone --depth 1 https://github.com/docgotham/memsum\n# See source for mcpServers config block"
+}

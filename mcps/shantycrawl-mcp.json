@@ -1,0 +1,7 @@
+{
+  "name": "shantycrawl-mcp",
+  "description": "A lean MCP server for Firecrawl with lazy-loading tool architecture, reducing context consumption by exposing only 5 base tools by default and enabling 23 advanced tools on demand via tool_enable.",
+  "source_repo": "schlemperdev/shantycrawl-mcp",
+  "source_url": "https://github.com/schlemperdev/shantycrawl-mcp",
+  "install": "npx -y shantycrawl-mcp"
+}

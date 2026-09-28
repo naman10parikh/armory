@@ -1,0 +1,7 @@
+{
+  "name": "serial-mcp",
+  "description": "MCP server that lets LLMs talk to serial devices: microcontrollers, routers, modems, embedded Linux, anything with a UART.",
+  "source_repo": "alxgmpr/serial-mcp",
+  "source_url": "https://github.com/alxgmpr/serial-mcp",
+  "install": "npx -y serial-mcp"
+}

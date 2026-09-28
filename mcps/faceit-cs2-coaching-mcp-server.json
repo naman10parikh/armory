@@ -1,0 +1,7 @@
+{
+  "name": "faceit-cs2-coaching-mcp-server",
+  "description": "Enables Claude to analyze a player's public FACEIT CS2 data, diagnose strengths and weaknesses, and generate personalized improvement plans.",
+  "source_repo": "xarielah/FACEIT-MCP",
+  "source_url": "https://github.com/xarielah/FACEIT-MCP",
+  "install": "npx -y FACEIT-MCP"
+}

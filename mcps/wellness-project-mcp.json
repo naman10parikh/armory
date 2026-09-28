@@ -1,0 +1,7 @@
+{
+  "name": "wellness-project-mcp",
+  "description": "Hosted MCP server that syncs health data from Apple Health, Fitbit, Oura, and Google Health Connect, enabling Claude and ChatGPT to query workouts, sleep, nutrition, and recovery in plain English with interactive charts.",
+  "source_repo": "turnnoblindeye/wellness-project-mcp",
+  "source_url": "https://github.com/turnnoblindeye/wellness-project-mcp",
+  "install": "npx -y wellness-project-mcp"
+}

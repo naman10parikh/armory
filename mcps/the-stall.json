@@ -1,0 +1,7 @@
+{
+  "name": "the-stall",
+  "description": "x402 capability chassis: 170+ AI-callable, pay-per-call data tools (US/global equities, crypto/DeFi, prediction markets, gov/legal, research, infra) settled in USDC on Base mainnet via the Coinbase CDP facilitator. No API keys or accounts — the x402 payment is the auth. Remote MCP at https://the-sta",
+  "source_repo": "thebrierfox/the-stall",
+  "source_url": "https://github.com/thebrierfox/the-stall",
+  "install": "# git clone --depth 1 https://github.com/thebrierfox/the-stall\n# See source for mcpServers config block"
+}

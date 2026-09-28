@@ -1,0 +1,7 @@
+{
+  "name": "typeorm-docs-mcp",
+  "description": "Analyzes TypeORM entity source files offline to produce schema graphs, ERD diagrams, Markdown documentation, and missing-documentation audits. Enables AI clients to understand database schema without a database connection.",
+  "source_repo": "doominkim/typeorm-docs-mcp",
+  "source_url": "https://github.com/doominkim/typeorm-docs-mcp",
+  "install": "npx -y typeorm-docs-mcp"
+}

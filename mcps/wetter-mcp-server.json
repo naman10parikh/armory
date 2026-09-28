@@ -1,0 +1,7 @@
+{
+  "name": "wetter-mcp-server",
+  "description": "MCP server for weather forecasts via Open-Meteo (no API key needed), providing current weather, hourly, and daily forecasts with geocoding support.",
+  "source_repo": "Schimmilab/wetter-mcp-server",
+  "source_url": "https://github.com/Schimmilab/wetter-mcp-server",
+  "install": "npx -y wetter-mcp-server"
+}

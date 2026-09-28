@@ -1,0 +1,7 @@
+{
+  "name": "fb-assist",
+  "description": "Privacy-preserving feedback co-author for Claude Code that redacts sensitive data from session transcripts before submitting bug reports, ensuring only confirmed content is uploaded.",
+  "source_repo": "DrAlexHarrison/claude-fb-loops",
+  "source_url": "https://github.com/DrAlexHarrison/claude-fb-loops",
+  "install": "# git clone --depth 1 https://github.com/DrAlexHarrison/claude-fb-loops\n# See source for mcpServers config block"
+}

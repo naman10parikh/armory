@@ -1,0 +1,7 @@
+{
+  "name": "leaflet-mcp-server",
+  "description": "MCP server providing comprehensive Leaflet.js documentation, code generation for maps, markers, layers, GeoJSON, choropleth, and debugging tools.",
+  "source_repo": "philgebauer/leaflet-mcp-server",
+  "source_url": "https://github.com/philgebauer/leaflet-mcp-server",
+  "install": "npx -y leaflet-mcp-server"
+}

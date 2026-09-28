@@ -1,0 +1,7 @@
+{
+  "name": "lexware-office-mcp-server-2",
+  "description": "Enables MCP-capable assistants to query and manage Lexware Office contacts, sales documents, vouchers, files, payments, webhooks, and reference data via the Lexware Office public API. Adds bank reconciliation tools for matching bank statement CSVs against Lexware vouchers or scanned receipt PDFs.",
+  "source_repo": "bdiaby1/claude_lexware_mcp_2",
+  "source_url": "https://github.com/bdiaby1/claude_lexware_mcp_2",
+  "install": "# git clone --depth 1 https://github.com/bdiaby1/claude_lexware_mcp_2\n# See source for mcpServers config block"
+}

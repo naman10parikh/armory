@@ -1,0 +1,7 @@
+{
+  "name": "llama-mcp-server",
+  "description": "MCP server bridging Claude Code to local llama.cpp. Run local LLMs alongside Claude for experimentation, testing, and cost-effective inference.",
+  "source_repo": "ahays248/llama-mcp-server",
+  "source_url": "https://github.com/ahays248/llama-mcp-server",
+  "install": "npx -y llama-mcp-server"
+}

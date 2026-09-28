@@ -1,0 +1,7 @@
+{
+  "name": "nouva-mcp-server",
+  "description": "Centralized repository for modular, portable skills and memory, enabling AI agents and IDEs to access personalized tools and memory via stdio or SSE transport.",
+  "source_repo": "nouverse-tech/nouva-mcp-server",
+  "source_url": "https://github.com/nouverse-tech/nouva-mcp-server",
+  "install": "npx -y nouva-mcp-server"
+}

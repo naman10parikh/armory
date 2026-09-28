@@ -1,0 +1,7 @@
+{
+  "name": "creative-storyteller",
+  "description": "Connects to local LM Studio models to generate highly creative, imaginative stories with customizable genres, tones, and word counts.",
+  "source_repo": "saikamma227/creative-story-mcp",
+  "source_url": "https://github.com/saikamma227/creative-story-mcp",
+  "install": "npx -y creative-story-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cybermcp",
+  "description": "Enables cybersecurity research through Claude by providing tools for CVE lookup, IP geolocation, and file hash checking against VirusTotal.",
+  "source_repo": "mehmetaksy/cybermcp",
+  "source_url": "https://github.com/mehmetaksy/cybermcp",
+  "install": "# git clone --depth 1 https://github.com/mehmetaksy/cybermcp\n# See source for mcpServers config block"
+}

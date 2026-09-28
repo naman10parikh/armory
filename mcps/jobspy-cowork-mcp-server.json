@@ -1,0 +1,7 @@
+{
+  "name": "jobspy-cowork-mcp-server",
+  "description": "Enables searching real job listings from multiple job boards (Indeed, LinkedIn, Glassdoor, Google Jobs, etc.) through a single MCP tool, designed for use as a custom connector in Claude Cowork.",
+  "source_repo": "m0408-dev/jobspy-cowork-mcp",
+  "source_url": "https://github.com/m0408-dev/jobspy-cowork-mcp",
+  "install": "npx -y jobspy-cowork-mcp"
+}

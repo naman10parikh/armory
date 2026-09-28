@@ -1,0 +1,7 @@
+{
+  "name": "stelar-signals-mcp",
+  "description": "Enables AI agents to access crypto market signals including regime, sentiment, price, risk, and text tools like summarization and fact-checking, backed by a live production-grade classifier.",
+  "source_repo": "StelarDigital/stelar-signals-mcp",
+  "source_url": "https://github.com/StelarDigital/stelar-signals-mcp",
+  "install": "npx -y stelar-signals-mcp"
+}

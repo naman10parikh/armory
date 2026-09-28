@@ -1,0 +1,7 @@
+{
+  "name": "io-github-xvvln-pdf-reader-mcp",
+  "description": "A PDF MCP server for extracting text, rendered pages, tables, links, annotations, outlines, metadata, and text statistics from PDF files.",
+  "source_repo": "Xvvln/pdf-reader-mcp",
+  "source_url": "https://github.com/Xvvln/pdf-reader-mcp",
+  "install": "npx -y pdf-reader-mcp"
+}

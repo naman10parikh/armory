@@ -1,0 +1,7 @@
+{
+  "name": "contractor-scale-context-mcp-server",
+  "description": "Enables AI agents to access Contractor Scale internal context, including client background, meeting transcripts, and team summaries, via three tools: list_clients, get_client_context, and get_meetings.",
+  "source_repo": "isaganiesteron/contractor-scale-context-mcp",
+  "source_url": "https://github.com/isaganiesteron/contractor-scale-context-mcp",
+  "install": "npx -y contractor-scale-context-mcp"
+}

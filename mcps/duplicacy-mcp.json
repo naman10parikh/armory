@@ -1,0 +1,7 @@
+{
+  "name": "duplicacy-mcp",
+  "description": "MCP server for administering Duplicacy backups via the duplicacy-web API, enabling AI clients to inspect and manage storages, repositories, schedules, and jobs.",
+  "source_repo": "SeraphimSerapis/duplicacy_mcp",
+  "source_url": "https://github.com/SeraphimSerapis/duplicacy_mcp",
+  "install": "npx -y duplicacy_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xcreener-mcp",
+  "description": "Local stdio MCP bridge for XCREENER's XQL screener API — validate, explain, and run XQL queries from Claude Desktop, Cursor, Windsurf, or any stdio MCP client.",
+  "source_repo": "xcreener/xcreener-mcp",
+  "source_url": "https://github.com/xcreener/xcreener-mcp",
+  "install": "npx -y xcreener-mcp"
+}

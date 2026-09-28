@@ -1,0 +1,7 @@
+{
+  "name": "property-mcp-server",
+  "description": "Enables AI assistants to operate property management systems via natural language, covering repair orders, owner info, payments, notices, and inspections. Features a full agentic workflow with human-in-the-loop and observability.",
+  "source_repo": "digitsouler/property-mcp-server",
+  "source_url": "https://github.com/digitsouler/property-mcp-server",
+  "install": "npx -y property-mcp-server"
+}

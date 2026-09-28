@@ -1,0 +1,7 @@
+{
+  "name": "deal-locator-mcp",
+  "description": "상업용 부동산 실거래가와 건축물대장을 역매칭하여 정확한 건물 정보를 조회하고, 시세·이력·데이터카드를 제공하는 MCP 서버입니다.",
+  "source_repo": "syleedlabs/deal-locator-mcp",
+  "source_url": "https://github.com/syleedlabs/deal-locator-mcp",
+  "install": "npx -y deal-locator-mcp"
+}

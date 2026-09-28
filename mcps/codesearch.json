@@ -1,0 +1,7 @@
+{
+  "name": "codesearch",
+  "description": "Full-text and structural code search for a large monorepo, exposing results as MCP tools so Claude can query the codebase directly without copy-pasting.",
+  "source_repo": "microsoft/tscodesearch",
+  "source_url": "https://github.com/microsoft/tscodesearch",
+  "install": "# git clone --depth 1 https://github.com/microsoft/tscodesearch\n# See source for mcpServers config block"
+}

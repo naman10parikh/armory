@@ -1,0 +1,7 @@
+{
+  "name": "brandguard",
+  "description": "Scans npm, PyPI, and GitHub for typosquatting and brand impersonation, risk-scores findings, and drafts takedown notices.",
+  "source_repo": "Baneado98/brandguard",
+  "source_url": "https://github.com/Baneado98/brandguard",
+  "install": "# git clone --depth 1 https://github.com/Baneado98/brandguard\n# See source for mcpServers config block"
+}

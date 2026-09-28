@@ -1,0 +1,7 @@
+{
+  "name": "seo-audit-mcp",
+  "description": "Enables AI agents to perform instant SEO audits, check robots.txt, sitemaps, and AI crawler access for any URL without API keys.",
+  "source_repo": "cyber-kani/seo-audit-mcp",
+  "source_url": "https://github.com/cyber-kani/seo-audit-mcp",
+  "install": "npx -y seo-audit-mcp"
+}

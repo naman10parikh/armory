@@ -1,0 +1,7 @@
+{
+  "name": "coordmcp",
+  "description": "A coordination server that enables multiple AI coding agents to work together on the same project by providing shared memory, file locking, decision tracking, and architecture guidance, preventing conflicts and maintaining consistency across sessions.",
+  "source_repo": "siddiquesahabaj/CoordMCP",
+  "source_url": "https://github.com/siddiquesahabaj/CoordMCP",
+  "install": "# git clone --depth 1 https://github.com/siddiquesahabaj/CoordMCP\n# See source for mcpServers config block"
+}

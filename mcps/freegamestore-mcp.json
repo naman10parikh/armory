@@ -1,0 +1,7 @@
+{
+  "name": "freegamestore-mcp",
+  "description": "Enables building, publishing, and improving PWA games from your editor by scaffolding games, updating files, and auto-deploying to a live URL.",
+  "source_repo": "freegamestore-online/mcp",
+  "source_url": "https://github.com/freegamestore-online/mcp",
+  "install": "# git clone --depth 1 https://github.com/freegamestore-online/mcp\n# See source for mcpServers config block"
+}

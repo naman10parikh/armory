@@ -1,0 +1,7 @@
+{
+  "name": "gitpin",
+  "description": "Provides index-free, read-only, multi-repo Git evidence for MCP agents, enabling prove-verify loops with git show.",
+  "source_repo": "shmindmaster/gitpin",
+  "source_url": "https://github.com/shmindmaster/gitpin",
+  "install": "# git clone --depth 1 https://github.com/shmindmaster/gitpin\n# See source for mcpServers config block"
+}

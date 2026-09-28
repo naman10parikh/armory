@@ -1,0 +1,7 @@
+{
+  "name": "cardnews-mcp-server",
+  "description": "Converts subtitles or text into a single 1080×1620 infographic card (HTML+PNG) using LLM to generate content and Puppeteer for rendering.",
+  "source_repo": "leedonwoo2827-ship-it/cardnews-mcp-server",
+  "source_url": "https://github.com/leedonwoo2827-ship-it/cardnews-mcp-server",
+  "install": "npx -y cardnews-mcp-server"
+}

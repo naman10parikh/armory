@@ -1,0 +1,7 @@
+{
+  "name": "dexcom-g7-mcp-server",
+  "description": "Provides access to Dexcom G7 continuous glucose monitor data, enabling AI assistants to retrieve current glucose readings and historical data.",
+  "source_repo": "phildougherty/dexcom_g7_mcp_server",
+  "source_url": "https://github.com/phildougherty/dexcom_g7_mcp_server",
+  "install": "npx -y dexcom_g7_mcp_server"
+}

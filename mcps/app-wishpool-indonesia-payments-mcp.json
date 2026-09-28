@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-indonesia-payments-mcp",
+  "description": "Enables AI agents to accept Indonesian payments including GoPay, QRIS, ShopeePay, DANA, bank transfers, and convenience store payments via Midtrans Snap's hosted checkout.",
+  "source_repo": "junter1989k-ai/indonesia-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/indonesia-payments-mcp",
+  "install": "npx -y indonesia-payments-mcp"
+}

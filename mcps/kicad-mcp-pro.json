@@ -1,0 +1,7 @@
+{
+  "name": "kicad-mcp-pro",
+  "description": "AI-powered PCB and schematic design with KiCad. Works with Claude, Cursor, VS Code, Claude Code, and any MCP-compatible client.",
+  "source_repo": "Valxyria/kicad-mcp-pro",
+  "source_url": "https://github.com/Valxyria/kicad-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/Valxyria/kicad-mcp-pro\n# See source for mcpServers config block"
+}

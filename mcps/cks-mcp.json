@@ -1,0 +1,7 @@
+{
+  "name": "cks-mcp",
+  "description": "Enables LLMs to perform structured, verifiable knowledge operations using the Canonical Knowledge Structure (CKS) ecosystem, including validation, querying, comparison, evolution, and derivation of knowledge.",
+  "source_repo": "Deus-corp/cks-mcp",
+  "source_url": "https://github.com/Deus-corp/cks-mcp",
+  "install": "npx -y cks-mcp"
+}

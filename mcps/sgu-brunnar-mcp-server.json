@@ -1,0 +1,7 @@
+{
+  "name": "sgu-brunnar-mcp-server",
+  "description": "A read-only MCP server that provides access to the Swedish Geological Survey (SGU) wells dataset, enabling search, retrieval, and export of well data with geocoding support.",
+  "source_repo": "deanmcgowan/mcp-sgu-open-data",
+  "source_url": "https://github.com/deanmcgowan/mcp-sgu-open-data",
+  "install": "# git clone --depth 1 https://github.com/deanmcgowan/mcp-sgu-open-data\n# See source for mcpServers config block"
+}

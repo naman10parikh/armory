@@ -1,0 +1,7 @@
+{
+  "name": "linode-mcp-server",
+  "description": "MCP server for managing Linode cloud resources via the Linode API, enabling LLMs to create, list, delete, and reboot instances.",
+  "source_repo": "fastmcp-me/linode-mcp",
+  "source_url": "https://github.com/fastmcp-me/linode-mcp",
+  "install": "npx -y linode-mcp"
+}

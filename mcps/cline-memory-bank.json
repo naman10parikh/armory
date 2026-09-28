@@ -1,6 +1,6 @@
 {
   "name": "cline-memory-bank",
-  "description": "Cline Memory Bank MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "dazeb/Cline-Memory-Bank",
   "source_url": "https://mcp.so/server/Cline-Memory-Bank/dazeb",
   "install": "# git clone --depth 1 https://mcp.so/server/Cline-Memory-Bank/dazeb\n# See source for mcpServers config block"

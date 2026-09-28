@@ -1,0 +1,7 @@
+{
+  "name": "pulsar-mcp-server",
+  "description": "Enables interaction with Apache Pulsar clusters through MCP-compatible clients, supporting publish, consume, topic management, and connector operations.",
+  "source_repo": "Germain-D/pulsar-mcp-server",
+  "source_url": "https://github.com/Germain-D/pulsar-mcp-server",
+  "install": "npx -y pulsar-mcp-server"
+}

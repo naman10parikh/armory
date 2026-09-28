@@ -1,0 +1,7 @@
+{
+  "name": "serbian-data-mcp",
+  "description": "Enables searching and analyzing over 3,400 datasets from the Serbian government open data portal, with built-in charting and data transformation tools.",
+  "source_repo": "acailic/serbian-data-mcp",
+  "source_url": "https://github.com/acailic/serbian-data-mcp",
+  "install": "npx -y serbian-data-mcp"
+}

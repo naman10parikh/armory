@@ -1,0 +1,7 @@
+{
+  "name": "prolog-debug-mcp",
+  "description": "An MCP server that uses SWI-Prolog for logical deduction to find root causes of errors in service dependencies, enabling root cause analysis, impact analysis, and cycle detection.",
+  "source_repo": "jackwillis/prolog-debug-mcp",
+  "source_url": "https://github.com/jackwillis/prolog-debug-mcp",
+  "install": "npx -y prolog-debug-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "a2n-easyeda-mcp",
+  "description": "Enables MCP clients to control EasyEDA Pro for schematic and PCB design through natural language, bridging the EasyEDA API without external AI or API keys.",
+  "source_repo": "anwarminarso/a2n-easyeda-mcp",
+  "source_url": "https://github.com/anwarminarso/a2n-easyeda-mcp",
+  "install": "npx -y a2n-easyeda-mcp"
+}

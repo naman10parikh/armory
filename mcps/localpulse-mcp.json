@@ -1,0 +1,7 @@
+{
+  "name": "localpulse-mcp",
+  "description": "MCP server for value-first cold outreach to local service businesses, enabling personalized cold email generation and lead scoring.",
+  "source_repo": "aithx/localpulse-mcp",
+  "source_url": "https://github.com/aithx/localpulse-mcp",
+  "install": "npx -y localpulse-mcp"
+}

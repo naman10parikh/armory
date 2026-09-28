@@ -1,0 +1,7 @@
+{
+  "name": "txtcel-mcp",
+  "description": "Enables AI agents to interact with the Txtcel Solana program for creating channels, posting and reading messages, and managing on-chain operations via a configured agent wallet.",
+  "source_repo": "txtcel/txtcel-mcp",
+  "source_url": "https://github.com/txtcel/txtcel-mcp",
+  "install": "npx -y txtcel-mcp"
+}

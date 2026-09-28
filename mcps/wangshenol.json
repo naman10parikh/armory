@@ -1,0 +1,7 @@
+{
+  "name": "wangshenol",
+  "description": "Enables AI clients to control a job application assistant that manages resume profiles, recommends SOE-first companies, tracks applications, scans jobs, and smart-fills ATS forms in a built-in browser.",
+  "source_repo": "ldq30000-tech/online-job-ai-helper",
+  "source_url": "https://github.com/ldq30000-tech/online-job-ai-helper",
+  "install": "# git clone --depth 1 https://github.com/ldq30000-tech/online-job-ai-helper\n# See source for mcpServers config block"
+}

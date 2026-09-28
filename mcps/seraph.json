@@ -1,0 +1,7 @@
+{
+  "name": "seraph",
+  "description": "Seraph is Kondux's crypto transaction firewall and risk-scoring MCP server for AI agents. It provides OAuth-secured Streamable HTTP tools for pre-trade checks, token/address risk, gas, balances, liquidity, agent reputation, dependency advisories, and tenant guardrails.",
+  "source_repo": "Kondux/seraph-mcp-public",
+  "source_url": "https://github.com/Kondux/seraph-mcp-public",
+  "install": "# git clone --depth 1 https://github.com/Kondux/seraph-mcp-public\n# See source for mcpServers config block"
+}

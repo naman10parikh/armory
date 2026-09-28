@@ -1,0 +1,7 @@
+{
+  "name": "gsc-seo-mcp",
+  "description": "Secure, read-only Google Search Console MCP server with exact property allowlists and a hardened TypeScript runtime.",
+  "source_repo": "ayhammouda/gsc-seo-mcp",
+  "source_url": "https://github.com/ayhammouda/gsc-seo-mcp",
+  "install": "npx -y gsc-seo-mcp"
+}

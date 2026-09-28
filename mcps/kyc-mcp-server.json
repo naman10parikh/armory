@@ -1,0 +1,7 @@
+{
+  "name": "kyc-mcp-server",
+  "description": "Comprehensive system diagnostics and monitoring server providing detailed hardware information, performance metrics, and optimization recommendations.",
+  "source_repo": "vishnurudra-ai/KYC-mcp-server",
+  "source_url": "https://github.com/vishnurudra-ai/KYC-mcp-server",
+  "install": "npx -y KYC-mcp-server"
+}

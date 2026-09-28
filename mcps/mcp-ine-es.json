@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ine-es",
+  "description": "MCP server providing access to Spain's National Statistics Institute (INE) Tempus3 JSON API, enabling querying of Spanish statistical data through natural language.",
+  "source_repo": "pipeworx-io/mcp-ine-es",
+  "source_url": "https://github.com/pipeworx-io/mcp-ine-es",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-ine-es\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codex-mcp-async",
+  "description": "Enables Claude Code to run OpenAI Codex (GPT-5) tasks asynchronously in the background, filtering out thinking logs to save 95% context tokens and allowing parallel execution.",
+  "source_repo": "jeanchristophe13v/codex-mcp-async",
+  "source_url": "https://github.com/jeanchristophe13v/codex-mcp-async",
+  "install": "# git clone --depth 1 https://github.com/jeanchristophe13v/codex-mcp-async\n# See source for mcpServers config block"
+}

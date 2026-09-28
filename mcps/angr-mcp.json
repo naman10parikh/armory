@@ -1,0 +1,7 @@
+{
+  "name": "angr-mcp",
+  "description": "Exposes angr binary-analysis capabilities (symbolic execution, taint analysis, CFG recovery) as MCP tools for vulnerability exploration and exploit development.",
+  "source_repo": "karimodm/angrMCP",
+  "source_url": "https://github.com/karimodm/angrMCP",
+  "install": "# git clone --depth 1 https://github.com/karimodm/angrMCP\n# See source for mcpServers config block"
+}

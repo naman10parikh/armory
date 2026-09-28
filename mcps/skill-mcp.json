@@ -1,0 +1,7 @@
+{
+  "name": "skill-mcp",
+  "description": "An MCP server that serves company documentation from a Markdown folder, exposing read-only search and fetch tools for agents to discover and retrieve authoritative documents.",
+  "source_repo": "jacobragsdale/skill-mcp",
+  "source_url": "https://github.com/jacobragsdale/skill-mcp",
+  "install": "npx -y skill-mcp"
+}

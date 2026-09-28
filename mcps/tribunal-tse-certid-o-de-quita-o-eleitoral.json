@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-tse-certid-o-de-quita-o-eleitoral",
+  "description": "MCP server for querying official Brazilian electoral clearance certificates (Certidão de Quitação Eleitoral) from the TSE, with a single read-only tool and prepaid per-use pricing.",
+  "source_repo": "mcp-dir/tribunal_tse_certidao-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_tse_certidao-mcp",
+  "install": "npx -y tribunal_tse_certidao-mcp"
+}

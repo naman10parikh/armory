@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cocktail",
+  "description": "Provides a framework to benchmark, evaluate, and inject real-time guardrails across competing MCP servers, CLIs, and AI agent tools. It enables recursive self-improvement by mining failures and synthesizing weakest valid guardrails.",
+  "source_repo": "asavs/mcp-cocktail",
+  "source_url": "https://github.com/asavs/mcp-cocktail",
+  "install": "# git clone --depth 1 https://github.com/asavs/mcp-cocktail\n# See source for mcpServers config block"
+}

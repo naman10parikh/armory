@@ -1,0 +1,7 @@
+{
+  "name": "charlie-work",
+  "description": "Scans a repository for maintenance toil (flaky tests, expiring certificates, TODO rot, dead flags, etc.) and returns a prioritized queue with a credit ledger to track who cleared what.",
+  "source_repo": "Falcon305/charlie-work-mcp",
+  "source_url": "https://github.com/Falcon305/charlie-work-mcp",
+  "install": "npx -y charlie-work-mcp"
+}

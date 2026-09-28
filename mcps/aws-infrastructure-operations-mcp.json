@@ -1,0 +1,7 @@
+{
+  "name": "aws-infrastructure-operations-mcp",
+  "description": "A read-only MCP server that lets an AI assistant inspect a single AWS lab instance's EC2 health, recent system/nginx errors from CloudWatch, and nginx service status via SSM, with strict allowlisting and no generic shell access.",
+  "source_repo": "nhkm95/aws-infra-ops-mcp",
+  "source_url": "https://github.com/nhkm95/aws-infra-ops-mcp",
+  "install": "npx -y aws-infra-ops-mcp"
+}

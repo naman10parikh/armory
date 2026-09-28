@@ -1,0 +1,7 @@
+{
+  "name": "canvas-api-mcp",
+  "description": "An MCP server for Canvas LMS that provides 15 curated tools for everyday student work and a gateway to reach every endpoint your Canvas instance exposes.",
+  "source_repo": "JohannsenLum/canvas-api-mcp",
+  "source_url": "https://github.com/JohannsenLum/canvas-api-mcp",
+  "install": "npx -y canvas-api-mcp"
+}

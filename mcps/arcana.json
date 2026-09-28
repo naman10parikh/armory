@@ -1,0 +1,7 @@
+{
+  "name": "arcana",
+  "description": "Provides tarot reading capabilities including drawing spreads, looking up card interpretations, listing cards, and retrieving reading history for LLM integration.",
+  "source_repo": "kellymears/arcana-cli",
+  "source_url": "https://github.com/kellymears/arcana-cli",
+  "install": "# git clone --depth 1 https://github.com/kellymears/arcana-cli\n# See source for mcpServers config block"
+}

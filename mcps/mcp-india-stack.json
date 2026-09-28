@@ -1,0 +1,7 @@
+{
+  "name": "mcp-india-stack",
+  "description": "An offline-first MCP server for Indian financial, tax, and government APIs, providing tools for identity validation (PAN, Aadhaar, GSTIN), tax calculations (Income Tax, TDS, GST), and master data lookups (IFSC, Pincode, HSN/SAC) with zero authentication required.",
+  "source_repo": "rehan1020/MCP-India-Stack",
+  "source_url": "https://github.com/rehan1020/MCP-India-Stack",
+  "install": "# git clone --depth 1 https://github.com/rehan1020/MCP-India-Stack\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "target-grocery-mcp-server",
+  "description": "Enables AI agents to search Target for groceries, compare unit prices, and manage a shopping cart, stopping short of checkout to keep the human in control.",
+  "source_repo": "ishita199615/MCP_Server_PersonalShopping",
+  "source_url": "https://github.com/ishita199615/MCP_Server_PersonalShopping",
+  "install": "# git clone --depth 1 https://github.com/ishita199615/MCP_Server_PersonalShopping\n# See source for mcpServers config block"
+}

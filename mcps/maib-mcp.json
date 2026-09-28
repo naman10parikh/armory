@@ -1,0 +1,7 @@
+{
+  "name": "maib-mcp",
+  "description": "MCP server for MAIB e-commerce payments (Moldova). Supports payments, refunds, recurring billing, one-click payments, and transaction status via OAuth 2.0.",
+  "source_repo": "theYahia/maib-mcp",
+  "source_url": "https://github.com/theYahia/maib-mcp",
+  "install": "npx -y maib-mcp"
+}

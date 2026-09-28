@@ -1,0 +1,7 @@
+{
+  "name": "stoquant-mcp",
+  "description": "Model Context Protocol (MCP) server for StoQuant that gives Claude and any MCP-compatible agent direct, read-only access to StoQuant's quant signals, ML predictions, screening, ownership, and macro data.",
+  "source_repo": "ohadf2015/stoquant-mcp",
+  "source_url": "https://github.com/ohadf2015/stoquant-mcp",
+  "install": "npx -y stoquant-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "civil3d-mcp-server",
+  "description": "Connects Claude to a running Autodesk Civil 3D instance via COM automation to perform drawing, surface, alignment, COGO point, line, and corridor operations.",
+  "source_repo": "antonhofstader/Civil3D-mcp-python-COM",
+  "source_url": "https://github.com/antonhofstader/Civil3D-mcp-python-COM",
+  "install": "# git clone --depth 1 https://github.com/antonhofstader/Civil3D-mcp-python-COM\n# See source for mcpServers config block"
+}

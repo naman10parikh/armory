@@ -1,0 +1,7 @@
+{
+  "name": "mcp-conversation-server",
+  "description": "A CLI-based MCP server for managing conversation sessions, history, and multi-language support, enabling creation, switching, deletion of sessions, saving and searching messages, and exporting data.",
+  "source_repo": "vip618/mcp-conversation-server",
+  "source_url": "https://github.com/vip618/mcp-conversation-server",
+  "install": "# git clone --depth 1 https://github.com/vip618/mcp-conversation-server\n# See source for mcpServers config block"
+}

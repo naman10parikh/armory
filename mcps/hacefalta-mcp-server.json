@@ -1,0 +1,7 @@
+{
+  "name": "hacefalta-mcp-server",
+  "description": "Exposes the volunteering catalog from hacesfalta.org, enabling AI agents to help users find volunteering opportunities through natural conversation.",
+  "source_repo": "HazloPosible/hacesfalta-mcp",
+  "source_url": "https://github.com/HazloPosible/hacesfalta-mcp",
+  "install": "npx -y hacesfalta-mcp"
+}

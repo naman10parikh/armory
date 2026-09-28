@@ -1,0 +1,7 @@
+{
+  "name": "yams-yet-another-mcp-server",
+  "description": "A batteries-included MCP server providing common coding-agent tools like web search, page fetching, file system access, shell command execution, and Git integration, built in Python with a local-first, Unix-style philosophy.",
+  "source_repo": "carlosroman/yet-another-MCP-server",
+  "source_url": "https://github.com/carlosroman/yet-another-MCP-server",
+  "install": "npx -y yet-another-MCP-server"
+}

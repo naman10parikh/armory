@@ -1,0 +1,7 @@
+{
+  "name": "zyta-expedientes-mcp",
+  "description": "MCP server for managing Argentine judicial cases (expedientes) from portals like PJN, MEV, CABA, and custom cases, supporting CRUD operations, synchronization, and management of tasks, fees, and alerts.",
+  "source_repo": "blanck1945/zyta-expedientes-mcp",
+  "source_url": "https://github.com/blanck1945/zyta-expedientes-mcp",
+  "install": "npx -y zyta-expedientes-mcp"
+}

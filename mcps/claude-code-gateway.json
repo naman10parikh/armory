@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-gateway",
+  "description": "Enables local Claude Code to interact with Snowflake, Asana, M365, GitHub, and Hive Mind with automatic response truncation to prevent memory overload.",
+  "source_repo": "jstewartrr/infra-20260105-claude-code-gateway",
+  "source_url": "https://github.com/jstewartrr/infra-20260105-claude-code-gateway",
+  "install": "# git clone --depth 1 https://github.com/jstewartrr/infra-20260105-claude-code-gateway\n# See source for mcpServers config block"
+}

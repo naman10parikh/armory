@@ -7,7 +7,7 @@ license: MIT
 ---
 # claudex
 
-Claudex - A web-based browser for exploring your Claude Code conversation history across projects. Indexes your codebase for full-text search. Nice, easy-to-navigate UI. Simple dashboard interface for high-level analytics, and multiple export options as well. (And completely local w/ no telemetry!)
+A web-based browser for your Claude Code conversation history across projects, with full-text search, a dashboard of high-level figures and several export formats. Runs locally with no telemetry.
 
 **Source:** https://github.com/kunwar-shah/claudex
 

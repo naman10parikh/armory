@@ -1,0 +1,7 @@
+{
+  "name": "orcool-studio",
+  "description": "Self-service creative engine: a living market-signal feed, narratives your experts judge, and a Brand Lens that gets you to a winning ad faster. Sold as time-to-winner, not video volume.",
+  "source_repo": "ryss30/mcp",
+  "source_url": "https://github.com/ryss30/mcp",
+  "install": "# git clone --depth 1 https://github.com/ryss30/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ossicle",
+  "description": "MCP server that transcribes local media files and URLs via Deepgram, writing Markdown transcripts to disk with strict per-job cost ceilings and caching. It also provides a CLI and optional transcript formatting through a language model.",
+  "source_repo": "PSNapier/ossicle",
+  "source_url": "https://github.com/PSNapier/ossicle",
+  "install": "# git clone --depth 1 https://github.com/PSNapier/ossicle\n# See source for mcpServers config block"
+}

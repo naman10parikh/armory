@@ -1,0 +1,7 @@
+{
+  "name": "kubesearch-mcp",
+  "description": "Enables LLMs to search Flux HelmReleases and Argo Applications from kubesearch.dev, and temporarily clone repos to review actual manifests.",
+  "source_repo": "perfectra1n/kubesearch-mcp",
+  "source_url": "https://github.com/perfectra1n/kubesearch-mcp",
+  "install": "npx -y kubesearch-mcp"
+}

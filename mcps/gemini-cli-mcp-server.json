@@ -1,0 +1,7 @@
+{
+  "name": "gemini-cli-mcp-server",
+  "description": "A MCP server wrapper for Google's Gemini CLI that enables AI assistants to perform searches, have conversations, list sessions, and analyze files using Gemini's capabilities.",
+  "source_repo": "Cinnamobot/gemini-cli-mcp-server",
+  "source_url": "https://github.com/Cinnamobot/gemini-cli-mcp-server",
+  "install": "npx -y gemini-cli-mcp-server"
+}

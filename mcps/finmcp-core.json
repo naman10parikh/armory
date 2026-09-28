@@ -1,0 +1,7 @@
+{
+  "name": "finmcp-core",
+  "description": "Financial MCP server providing 15 tools for stock quotes, financials, risk metrics, news sentiment, SEC filings, and session summaries via Yahoo Finance data.",
+  "source_repo": "souzanahamza/finMCP",
+  "source_url": "https://github.com/souzanahamza/finMCP",
+  "install": "# git clone --depth 1 https://github.com/souzanahamza/finMCP\n# See source for mcpServers config block"
+}

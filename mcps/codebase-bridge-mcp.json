@@ -1,0 +1,7 @@
+{
+  "name": "codebase-bridge-mcp",
+  "description": "A read-only MCP server that lets a Claude chat explore your local repository and answer questions about it, returning synthesized answers with file:line references.",
+  "source_repo": "EDMMY/codebase-bridge-mcp",
+  "source_url": "https://github.com/EDMMY/codebase-bridge-mcp",
+  "install": "npx -y codebase-bridge-mcp"
+}

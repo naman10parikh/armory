@@ -1,0 +1,7 @@
+{
+  "name": "read-no-evil-mcp",
+  "description": "A secure email gateway MCP server that protects AI agents from prompt injection attacks by scanning emails for malicious instructions before they reach the agent.",
+  "source_repo": "thekie/read-no-evil-mcp",
+  "source_url": "https://github.com/thekie/read-no-evil-mcp",
+  "install": "npx -y read-no-evil-mcp"
+}

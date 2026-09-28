@@ -1,0 +1,7 @@
+{
+  "name": "rosetta-mcp",
+  "description": "Modular MCP hub hosting multiple read-only addons behind a single OIDC authentication layer, enabling agents to use services like Google Maps and transit APIs with server-side API key management.",
+  "source_repo": "AntorFr/rosetta-mcp",
+  "source_url": "https://github.com/AntorFr/rosetta-mcp",
+  "install": "npx -y rosetta-mcp"
+}

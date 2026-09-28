@@ -1,0 +1,7 @@
+{
+  "name": "overton",
+  "description": "MCP server for Overton, an admission control daemon that gates coding agent dispatch based on per-account and per-project budget allocation. It lets agents ask for permission to run, returning verdicts such as go, wait, ask, or deny with retry timing to prevent overspending.",
+  "source_repo": "hookdump/overton",
+  "source_url": "https://github.com/hookdump/overton",
+  "install": "# git clone --depth 1 https://github.com/hookdump/overton\n# See source for mcpServers config block"
+}

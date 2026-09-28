@@ -1,0 +1,7 @@
+{
+  "name": "embgrep",
+  "description": "Provides local semantic search over files using embeddings, enabling directory indexing and natural language queries without external services.",
+  "source_repo": "QuartzUnit/embgrep",
+  "source_url": "https://github.com/QuartzUnit/embgrep",
+  "install": "# git clone --depth 1 https://github.com/QuartzUnit/embgrep\n# See source for mcpServers config block"
+}

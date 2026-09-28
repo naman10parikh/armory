@@ -1,0 +1,7 @@
+{
+  "name": "user-intent-mcp",
+  "description": "A multi-modal user intent collection MCP server that allows AI agents to ask users questions and receive text/image replies.",
+  "source_repo": "chameleonscool/feedback-mcp",
+  "source_url": "https://github.com/chameleonscool/feedback-mcp",
+  "install": "npx -y feedback-mcp"
+}

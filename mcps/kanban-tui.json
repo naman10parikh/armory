@@ -1,0 +1,7 @@
+{
+  "name": "kanban-tui",
+  "description": "MCP server for kanban-tui, a terminal-based task manager, that exposes task, board, and column management commands for AI agents to interact with.",
+  "source_repo": "Zaloog/kanban-tui",
+  "source_url": "https://github.com/Zaloog/kanban-tui",
+  "install": "# git clone --depth 1 https://github.com/Zaloog/kanban-tui\n# See source for mcpServers config block"
+}

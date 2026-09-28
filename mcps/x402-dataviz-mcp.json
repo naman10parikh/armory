@@ -1,0 +1,7 @@
+{
+  "name": "x402-dataviz-mcp",
+  "description": "A free MCP server that renders bar, line, and area charts from structured data into clean, hand-designed SVG. No API key or payment needed, with colorblind-safe palettes and light/dark theme support.",
+  "source_repo": "liminalpepe/x402-dataviz-mcp",
+  "source_url": "https://github.com/liminalpepe/x402-dataviz-mcp",
+  "install": "npx -y x402-dataviz-mcp"
+}

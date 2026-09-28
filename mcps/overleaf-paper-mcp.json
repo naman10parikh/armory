@@ -1,0 +1,7 @@
+{
+  "name": "overleaf-paper-mcp",
+  "description": "MCP server for managing academic LaTeX projects in Overleaf: create projects, transfer files, compile documents, inspect compiler output, and download PDFs.",
+  "source_repo": "jcswhldbb/overleaf-paper-mcp",
+  "source_url": "https://github.com/jcswhldbb/overleaf-paper-mcp",
+  "install": "npx -y overleaf-paper-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "production-master-mcp",
+  "description": "MCP server for the Production Master incident-investigation service, enabling any MCP client to drive investigations via tool calls with pass-through authentication.",
+  "source_repo": "ProductionMasterAI/production-master-mcp",
+  "source_url": "https://github.com/ProductionMasterAI/production-master-mcp",
+  "install": "npx -y production-master-mcp"
+}

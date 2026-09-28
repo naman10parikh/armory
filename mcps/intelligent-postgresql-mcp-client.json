@@ -1,0 +1,7 @@
+{
+  "name": "intelligent-postgresql-mcp-client",
+  "description": "Enables natural language querying of PostgreSQL databases with intelligent SQL generation using LLMs.",
+  "source_repo": "anass1209/MCP_PostgreSQL",
+  "source_url": "https://github.com/anass1209/MCP_PostgreSQL",
+  "install": "# git clone --depth 1 https://github.com/anass1209/MCP_PostgreSQL\n# See source for mcpServers config block"
+}

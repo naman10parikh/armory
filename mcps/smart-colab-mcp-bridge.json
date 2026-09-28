@@ -1,0 +1,7 @@
+{
+  "name": "smart-colab-mcp-bridge",
+  "description": "Connects Claude Desktop to a Google Colab runtime via ngrok for remote Python execution, enabling GPU/CPU code execution with smart timeouts and file management.",
+  "source_repo": "G-karthick0501/Smart-colab-MCP",
+  "source_url": "https://github.com/G-karthick0501/Smart-colab-MCP",
+  "install": "npx -y Smart-colab-MCP"
+}

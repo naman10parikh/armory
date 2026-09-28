@@ -1,0 +1,7 @@
+{
+  "name": "codex-workspace-enhancer",
+  "description": "Provides a visual workspace for OpenAI Codex, enabling users to arrange images, notes, and creative assets on an infinite canvas, with secure image browsing, annotation, and attachment to conversations.",
+  "source_repo": "papperrollinggery/codex-workspace-enhancer",
+  "source_url": "https://github.com/papperrollinggery/codex-workspace-enhancer",
+  "install": "# git clone --depth 1 https://github.com/papperrollinggery/codex-workspace-enhancer\n# See source for mcpServers config block"
+}

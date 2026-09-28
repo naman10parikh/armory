@@ -1,0 +1,7 @@
+{
+  "name": "monnet-mcp",
+  "description": "Model Context Protocol (MCP) server for Monnet. Exposes motions, plans, and approvals to MCP-compatible clients so you can work with your Monnet workspace from your terminal without leaving your AI assistant.",
+  "source_repo": "GregoireCasoetto/monnet-mcp",
+  "source_url": "https://github.com/GregoireCasoetto/monnet-mcp",
+  "install": "npx -y monnet-mcp"
+}

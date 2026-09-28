@@ -1,0 +1,7 @@
+{
+  "name": "open-edison",
+  "description": "Deterministic agentic data firewall that secures, monitors, and controls AI agent interactions with data and software via MCP, preventing data leaks.",
+  "source_repo": "Edison-Watch/open-edison",
+  "source_url": "https://github.com/Edison-Watch/open-edison",
+  "install": "# git clone --depth 1 https://github.com/Edison-Watch/open-edison\n# See source for mcpServers config block"
+}

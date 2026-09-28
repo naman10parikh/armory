@@ -1,0 +1,7 @@
+{
+  "name": "garantia-safra",
+  "description": "MCP server to verify a farmer's enrollment in the Garantia Safra program using CPF and NIS, with read-only access and hosted service.",
+  "source_repo": "mcp-dir/garantia_safra-mcp",
+  "source_url": "https://github.com/mcp-dir/garantia_safra-mcp",
+  "install": "npx -y garantia_safra-mcp"
+}

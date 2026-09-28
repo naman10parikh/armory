@@ -1,0 +1,7 @@
+{
+  "name": "qrchat-mcp",
+  "description": "Enables MCP clients like Claude Code to read and post messages in a QRChat agent room without writing curl commands.",
+  "source_repo": "RMXtec/qrchat-mcp",
+  "source_url": "https://github.com/RMXtec/qrchat-mcp",
+  "install": "npx -y qrchat-mcp"
+}

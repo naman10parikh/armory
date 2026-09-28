@@ -1,0 +1,7 @@
+{
+  "name": "health-hub-mcp-server",
+  "description": "Aggregates Android Health Connect data into daily summaries, time-series metrics, sleep details, and sync status, exposing them to LLM clients via MCP with caveats to prevent data fabrication.",
+  "source_repo": "naymEvg/health-conect-mcp",
+  "source_url": "https://github.com/naymEvg/health-conect-mcp",
+  "install": "npx -y health-conect-mcp"
+}

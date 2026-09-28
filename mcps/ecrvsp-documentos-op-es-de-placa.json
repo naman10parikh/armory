@@ -1,0 +1,7 @@
+{
+  "name": "ecrvsp-documentos-op-es-de-placa",
+  "description": "Provides official vehicle plate options consultation (read-only) via prepaid credits, using MCP over HTTP.",
+  "source_repo": "mcp-dir/ecrvsp_docs_opcoes_placa-mcp",
+  "source_url": "https://github.com/mcp-dir/ecrvsp_docs_opcoes_placa-mcp",
+  "install": "npx -y ecrvsp_docs_opcoes_placa-mcp"
+}

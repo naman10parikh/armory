@@ -1,0 +1,7 @@
+{
+  "name": "vecfs",
+  "description": "VecFS is a lightweight, local-first vector storage specification and implementation for AI agent long-term memory. It provides an MCP server enabling agents to search, memorize, and manage context.",
+  "source_repo": "WazzaMo/vecfs",
+  "source_url": "https://github.com/WazzaMo/vecfs",
+  "install": "# git clone --depth 1 https://github.com/WazzaMo/vecfs\n# See source for mcpServers config block"
+}

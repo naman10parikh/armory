@@ -1,0 +1,7 @@
+{
+  "name": "amika-mcp-server",
+  "description": "Remote MCP server for Amika: manage sandboxes and agent sessions from any MCP client, including Claude mobile app.",
+  "source_repo": "Neolithic/amika-mcp",
+  "source_url": "https://github.com/Neolithic/amika-mcp",
+  "install": "npx -y amika-mcp"
+}

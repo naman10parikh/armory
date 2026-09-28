@@ -1,0 +1,7 @@
+{
+  "name": "is-it-agent-ready",
+  "description": "Provides agent-readiness audits of public websites via Cloudflare's scanner, enabling users to run scans, save reports, and enforce safety boundaries from natural language.",
+  "source_repo": "Cameloo1/agent-friendly",
+  "source_url": "https://github.com/Cameloo1/agent-friendly",
+  "install": "# git clone --depth 1 https://github.com/Cameloo1/agent-friendly\n# See source for mcpServers config block"
+}

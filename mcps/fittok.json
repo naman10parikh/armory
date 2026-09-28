@@ -1,0 +1,7 @@
+{
+  "name": "fittok",
+  "description": "An MCP server that filters and compresses context by 80-90% before sending to an LLM, using code knowledge graphs and compression.",
+  "source_repo": "likhithreddy/fittok",
+  "source_url": "https://github.com/likhithreddy/fittok",
+  "install": "# git clone --depth 1 https://github.com/likhithreddy/fittok\n# See source for mcpServers config block"
+}

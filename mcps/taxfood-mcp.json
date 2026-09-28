@@ -1,0 +1,7 @@
+{
+  "name": "taxfood-mcp",
+  "description": "Exposes public agency dining expense data from Korean public institutions, enabling AI agents to search, rank, and retrieve details of tax-funded restaurant visits with transparency links and KakaoMap deep links.",
+  "source_repo": "man2service/taxfood-mcp",
+  "source_url": "https://github.com/man2service/taxfood-mcp",
+  "install": "npx -y taxfood-mcp"
+}

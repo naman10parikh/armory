@@ -1,0 +1,7 @@
+{
+  "name": "reasoning-engine",
+  "description": "An MCP server that brings difficulty-adaptive, multi-path reasoning to Claude Code. It implements the Actor-Critic-Planner-Reflexion (ACPR) pipeline for deep research synthesis.",
+  "source_repo": "Raoof128/reasoning-engine",
+  "source_url": "https://github.com/Raoof128/reasoning-engine",
+  "install": "# git clone --depth 1 https://github.com/Raoof128/reasoning-engine\n# See source for mcpServers config block"
+}

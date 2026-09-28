@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-sol-local-bridge",
+  "description": "Enables ChatGPT to securely control a local workstation via an MCP tunnel, exposing 44 tools for file/project editing, git, process supervision, browser automation, and Office document handling across macOS, Linux, and Windows.",
+  "source_repo": "mingrath/chatgpt-sol-local-bridge",
+  "source_url": "https://github.com/mingrath/chatgpt-sol-local-bridge",
+  "install": "# git clone --depth 1 https://github.com/mingrath/chatgpt-sol-local-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cont3xt",
+  "description": "Virtual Infinite Context for Agents and LLMs - maintains a continuous rolling context window, surfacing relevant memories while respecting token budgets.",
+  "source_repo": "elevend0g/cont3xt",
+  "source_url": "https://github.com/elevend0g/cont3xt",
+  "install": "# git clone --depth 1 https://github.com/elevend0g/cont3xt\n# See source for mcpServers config block"
+}

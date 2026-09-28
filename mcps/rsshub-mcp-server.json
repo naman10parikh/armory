@@ -1,0 +1,7 @@
+{
+  "name": "rsshub-mcp-server",
+  "description": "A Model Context Protocol server for RSSHub that enables AI assistants to access and query various RSS feeds, manage subscriptions, and search routes through natural language.",
+  "source_repo": "panxiande/RSSHub-MCP",
+  "source_url": "https://github.com/panxiande/RSSHub-MCP",
+  "install": "npx -y RSSHub-MCP"
+}

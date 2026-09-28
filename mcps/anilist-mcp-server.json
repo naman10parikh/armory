@@ -1,0 +1,7 @@
+{
+  "name": "anilist-mcp-server",
+  "description": "Enables searching and browsing anime/manga, characters, staff, and more on AniList without credentials, and with a one-time login allows managing personal lists, favorites, follows, and activity.",
+  "source_repo": "Grinv/anilist-mcp-server",
+  "source_url": "https://github.com/Grinv/anilist-mcp-server",
+  "install": "npx -y anilist-mcp-server"
+}

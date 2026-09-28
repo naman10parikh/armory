@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ollama-server",
+  "description": "Enables natural language database queries by combining Ollama's language models with SQLite database access through an MCP server.",
+  "source_repo": "ollibeyer/mcp-example",
+  "source_url": "https://github.com/ollibeyer/mcp-example",
+  "install": "# git clone --depth 1 https://github.com/ollibeyer/mcp-example\n# See source for mcpServers config block"
+}

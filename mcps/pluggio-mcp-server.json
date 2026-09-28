@@ -1,0 +1,7 @@
+{
+  "name": "pluggio-mcp-server",
+  "description": "Multi-tenant MCP server that connects Claude.ai to WordPress sites through Pluggio, enabling AI-driven site management, content operations, database queries, and file manipulation.",
+  "source_repo": "Hari842-ai/pluggio-mcp",
+  "source_url": "https://github.com/Hari842-ai/pluggio-mcp",
+  "install": "npx -y pluggio-mcp"
+}

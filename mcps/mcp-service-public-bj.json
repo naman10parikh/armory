@@ -1,0 +1,7 @@
+{
+  "name": "mcp-service-public-bj",
+  "description": "An MCP server that enables AI assistants to search and retrieve Beninese government services, procedures, and requirements from service-public.bj with real-time data and smart provider routing.",
+  "source_repo": "hpfpv/mcp-service-public-bj",
+  "source_url": "https://github.com/hpfpv/mcp-service-public-bj",
+  "install": "# git clone --depth 1 https://github.com/hpfpv/mcp-service-public-bj\n# See source for mcpServers config block"
+}

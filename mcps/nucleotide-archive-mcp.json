@@ -1,0 +1,7 @@
+{
+  "name": "nucleotide-archive-mcp",
+  "description": "An MCP server for searching and accessing RNA sequencing datasets from the European Nucleotide Archive (ENA), supporting bulk, single-cell, and spatial transcriptomics with advanced filtering and download capabilities.",
+  "source_repo": "biocontext-ai/nucleotide_archive_mcp",
+  "source_url": "https://github.com/biocontext-ai/nucleotide_archive_mcp",
+  "install": "npx -y nucleotide_archive_mcp"
+}

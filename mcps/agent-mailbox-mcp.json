@@ -1,0 +1,7 @@
+{
+  "name": "agent-mailbox-mcp",
+  "description": "MCP server for multi-agent AI systems providing mailbox messaging, A2A task delegation, resource coordination, and a web dashboard.",
+  "source_repo": "lleontor705/agent-mailbox-mcp",
+  "source_url": "https://github.com/lleontor705/agent-mailbox-mcp",
+  "install": "npx -y agent-mailbox-mcp"
+}

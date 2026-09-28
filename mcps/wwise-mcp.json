@@ -1,0 +1,7 @@
+{
+  "name": "wwise-mcp",
+  "description": "Enables natural language control of Wwise audio middleware, allowing project auditing, batch editing, event creation, and reference checking through conversational interaction.",
+  "source_repo": "linnn-nb/wwise-mcp",
+  "source_url": "https://github.com/linnn-nb/wwise-mcp",
+  "install": "npx -y wwise-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "com-imergea-ma-advisory",
+  "description": "Enables AI clients to perform indicative business valuations, assess sell-readiness, list fixed-price M&A advisory services, and generate secure handoff links for partner applications and deal referrals, with support for English, French, Spanish, and Portuguese.",
+  "source_repo": "imergea/imergea.com-mcp",
+  "source_url": "https://github.com/imergea/imergea.com-mcp",
+  "install": "npx -y imergea.com-mcp"
+}

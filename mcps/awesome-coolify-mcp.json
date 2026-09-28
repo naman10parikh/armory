@@ -1,0 +1,7 @@
+{
+  "name": "awesome-coolify-mcp",
+  "description": "Enables managing multiple self-hosted Coolify instances via MCP, with tools for deploying, monitoring, and emergency operations.",
+  "source_repo": "clezcoding/awesome-coolify-mcp",
+  "source_url": "https://github.com/clezcoding/awesome-coolify-mcp",
+  "install": "npx -y awesome-coolify-mcp"
+}

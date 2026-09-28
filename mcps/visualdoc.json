@@ -1,0 +1,7 @@
+{
+  "name": "visualdoc",
+  "description": "MCP server for automated visual-layout QA of DOCX documents, enabling rendering, measurement, rule checking, patching, and diffing in a closed loop.",
+  "source_repo": "Alvnvnc/visualdoc-mcp",
+  "source_url": "https://github.com/Alvnvnc/visualdoc-mcp",
+  "install": "npx -y visualdoc-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "substack-draft-mcp-server",
+  "description": "Private MCP server for validating, previewing, creating, and updating Substack newsletter drafts through an MCP-compatible client.",
+  "source_repo": "damienbenveniste/substack-mcp",
+  "source_url": "https://github.com/damienbenveniste/substack-mcp",
+  "install": "npx -y substack-mcp"
+}

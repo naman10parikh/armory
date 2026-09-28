@@ -1,0 +1,7 @@
+{
+  "name": "gleaner",
+  "description": "Enables academic literature collection and full-text downloading from multiple sources (CNKI, Elsevier, OpenAlex, etc.) via natural language commands.",
+  "source_repo": "liuqiaodongdong/gleaner-mcp",
+  "source_url": "https://github.com/liuqiaodongdong/gleaner-mcp",
+  "install": "npx -y gleaner-mcp"
+}

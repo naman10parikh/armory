@@ -1,0 +1,7 @@
+{
+  "name": "global-mcp-server",
+  "description": "Enables agents to inspect ROS topics, processes, tmux sessions, and logs, and to perform operational actions such as sending tmux commands, restarting services, executing commands in containers, and running SSH remote commands.",
+  "source_repo": "zhywwyzh/Global-MCP-Server",
+  "source_url": "https://github.com/zhywwyzh/Global-MCP-Server",
+  "install": "npx -y Global-MCP-Server"
+}

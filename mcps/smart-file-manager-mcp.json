@@ -1,0 +1,7 @@
+{
+  "name": "smart-file-manager-mcp",
+  "description": "An AI-powered file management system that integrates with Claude Desktop to provide intelligent file analysis, multimedia processing, and automatic organization.",
+  "source_repo": "hyoseop1231/smart-file-manager-mcp",
+  "source_url": "https://github.com/hyoseop1231/smart-file-manager-mcp",
+  "install": "npx -y smart-file-manager-mcp"
+}

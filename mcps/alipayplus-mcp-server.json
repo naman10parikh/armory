@@ -1,0 +1,7 @@
+{
+  "name": "alipayplus-mcp-server",
+  "description": "Integrates Ant International's AlipayPlus payment APIs, enabling AI assistants to handle payment and refund operations seamlessly.",
+  "source_repo": "alipay/global-alipayplus-mcp",
+  "source_url": "https://github.com/alipay/global-alipayplus-mcp",
+  "install": "npx -y global-alipayplus-mcp"
+}

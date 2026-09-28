@@ -1,0 +1,7 @@
+{
+  "name": "browser-jet-pilot",
+  "description": "Self-hosted MCP server for AI browser automation. Connects to your own Chromium instance via CDP, providing tools for browser control, navigation, interaction, and content extraction.",
+  "source_repo": "0xABADBABE-ops/browser-jet-pilot",
+  "source_url": "https://github.com/0xABADBABE-ops/browser-jet-pilot",
+  "install": "# git clone --depth 1 https://github.com/0xABADBABE-ops/browser-jet-pilot\n# See source for mcpServers config block"
+}

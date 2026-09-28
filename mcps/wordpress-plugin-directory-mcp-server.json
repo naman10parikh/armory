@@ -1,0 +1,7 @@
+{
+  "name": "wordpress-plugin-directory-mcp-server",
+  "description": "Enables searching, downloading, extracting, and comparing WordPress.org plugins with local plugins via natural language.",
+  "source_repo": "juanma-wp/wordpress-org-mcp",
+  "source_url": "https://github.com/juanma-wp/wordpress-org-mcp",
+  "install": "npx -y wordpress-org-mcp"
+}

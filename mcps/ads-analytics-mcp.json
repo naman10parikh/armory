@@ -1,0 +1,7 @@
+{
+  "name": "ads-analytics-mcp",
+  "description": "Provides read access to campaign performance data from Google Ads, Meta Ads, and TikTok Ads via live API calls, enabling AI assistants to analyze and audit advertising campaigns.",
+  "source_repo": "Pauesome/Paid-Media-MCP",
+  "source_url": "https://github.com/Pauesome/Paid-Media-MCP",
+  "install": "npx -y Paid-Media-MCP"
+}

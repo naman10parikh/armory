@@ -1,0 +1,7 @@
+{
+  "name": "easy-gg-bedwars-mcp",
+  "description": "A local-first Python MCP server for Easy.gg BedWars custom scripting, enabling users to create, edit, and sync Roblox BedWars scripts using official APIs and Code Sync.",
+  "source_repo": "iwillwait4u/easy-gg-bedwars-mcp",
+  "source_url": "https://github.com/iwillwait4u/easy-gg-bedwars-mcp",
+  "install": "npx -y easy-gg-bedwars-mcp"
+}

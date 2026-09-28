@@ -1,0 +1,7 @@
+{
+  "name": "mcp-peek",
+  "description": "Optimizes REST API calls for AI agents by returning compact schemas instead of full responses, allowing agents to fetch only needed fields via jq masks, reducing token consumption by up to 50x.",
+  "source_repo": "ed-smartass/mcp-peek",
+  "source_url": "https://github.com/ed-smartass/mcp-peek",
+  "install": "# git clone --depth 1 https://github.com/ed-smartass/mcp-peek\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xpense-mcp",
+  "description": "A minimal MCP server with hello and echo tools.",
+  "source_repo": "AbuJubair7/xpense-mcp",
+  "source_url": "https://github.com/AbuJubair7/xpense-mcp",
+  "install": "npx -y xpense-mcp"
+}

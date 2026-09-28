@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-sc-certid-o-negativa-de-d-bitos",
+  "description": "MCP server to query official Santa Catarina state tax clearance certificates (Certidão Negativa de Débitos) from SEFAZ SC, read-only, hosted, and pay-per-use.",
+  "source_repo": "mcp-dir/sefaz_sc_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_sc_certidao_debitos-mcp",
+  "install": "npx -y sefaz_sc_certidao_debitos-mcp"
+}

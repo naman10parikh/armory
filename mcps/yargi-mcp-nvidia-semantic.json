@@ -1,0 +1,7 @@
+{
+  "name": "yargi-mcp-nvidia-semantic",
+  "description": "MCP server for Turkish legal semantic search using NVIDIA nv-embed-v1 embeddings, with rate-limit resilience and query embedding caching for fast RAG responses.",
+  "source_repo": "muhammedturan65/yargi-mcp-nvidia-semantic",
+  "source_url": "https://github.com/muhammedturan65/yargi-mcp-nvidia-semantic",
+  "install": "# git clone --depth 1 https://github.com/muhammedturan65/yargi-mcp-nvidia-semantic\n# See source for mcpServers config block"
+}

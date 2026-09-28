@@ -1,0 +1,7 @@
+{
+  "name": "bailinghub-mcp-server",
+  "description": "Submit and inspect governed business-system actions through a BailingHub control plane, with tools for submitting, retrieving, and waiting on governed jobs.",
+  "source_repo": "bailinghub/bailinghub-mcp-server",
+  "source_url": "https://github.com/bailinghub/bailinghub-mcp-server",
+  "install": "npx -y bailinghub-mcp-server"
+}

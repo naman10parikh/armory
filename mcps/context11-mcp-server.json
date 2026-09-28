@@ -1,0 +1,7 @@
+{
+  "name": "context11-mcp-server",
+  "description": "Enables AI assistants to search, retrieve, and manage documents from a Context11 knowledge base through tools like search_context, get_document, and list_folders.",
+  "source_repo": "vedadsose/mcp-server-context11",
+  "source_url": "https://github.com/vedadsose/mcp-server-context11",
+  "install": "# git clone --depth 1 https://github.com/vedadsose/mcp-server-context11\n# See source for mcpServers config block"
+}

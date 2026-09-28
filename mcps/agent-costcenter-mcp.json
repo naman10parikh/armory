@@ -1,0 +1,7 @@
+{
+  "name": "agent-costcenter-mcp",
+  "description": "MCP server for tracking and managing costs per AI agent, with budget alerts, anomaly detection, and model cost comparison.",
+  "source_repo": "mdfifty50-boop/agent-costcenter-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/agent-costcenter-mcp",
+  "install": "npx -y agent-costcenter-mcp"
+}

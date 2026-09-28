@@ -1,0 +1,7 @@
+{
+  "name": "memtomem",
+  "description": "Markdown-first long-term memory for AI coding agents, enabling hybrid search over local files via MCP tools.",
+  "source_repo": "memtomem/memtomem",
+  "source_url": "https://github.com/memtomem/memtomem",
+  "install": "# git clone --depth 1 https://github.com/memtomem/memtomem\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "intervals-icu-running-analysis-mcp-server",
+  "description": "MCP server for analyzing running data from Intervals.icu, offering tools for athlete profiles, activity details, fitness trends, and running summaries.",
+  "source_repo": "rakazidan/intervals-mcp",
+  "source_url": "https://github.com/rakazidan/intervals-mcp",
+  "install": "npx -y intervals-mcp"
+}

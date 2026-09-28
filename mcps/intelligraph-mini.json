@@ -1,0 +1,7 @@
+{
+  "name": "intelligraph-mini",
+  "description": "Local-first MCP graph intelligence server providing RRF hybrid search, multi-hop traversal, source snippets, and rationale nodes for AI agents, without Docker or web UI.",
+  "source_repo": "kfireew/intelligraph-mini",
+  "source_url": "https://github.com/kfireew/intelligraph-mini",
+  "install": "# git clone --depth 1 https://github.com/kfireew/intelligraph-mini\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "clevertap-mcp",
+  "description": "Read-only AI analytics assistant for CleverTap via MCP, enabling querying of events, profiles, campaigns, and realtime data without write endpoints.",
+  "source_repo": "YASH-YADAV-dynamo/clevertap-MCP",
+  "source_url": "https://github.com/YASH-YADAV-dynamo/clevertap-MCP",
+  "install": "npx -y clevertap-MCP"
+}

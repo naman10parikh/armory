@@ -1,0 +1,7 @@
+{
+  "name": "momento-mcp-server",
+  "description": "A simple MCP server for Momento Cache enabling get, set, list, create, and delete cache operations with optional TTL and cache name configuration.",
+  "source_repo": "ampcome-mcps/momento-mcp",
+  "source_url": "https://github.com/ampcome-mcps/momento-mcp",
+  "install": "npx -y momento-mcp"
+}

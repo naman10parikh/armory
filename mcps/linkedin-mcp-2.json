@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-mcp-2",
+  "description": "Automates LinkedIn recruiting tasks such as login, search with filters, paginated people search, and profile detail retrieval via Playwright.",
+  "source_repo": "junqing258/linkedin-mcp",
+  "source_url": "https://github.com/junqing258/linkedin-mcp",
+  "install": "npx -y linkedin-mcp"
+}

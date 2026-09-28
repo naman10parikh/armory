@@ -1,0 +1,7 @@
+{
+  "name": "headless-unity-mcp",
+  "description": "Enables headless batchmode control of Unity projects for compile, test, build, and screenshot tasks, avoiding the need for an interactive editor.",
+  "source_repo": "Shonas301/headless-unity-mcp",
+  "source_url": "https://github.com/Shonas301/headless-unity-mcp",
+  "install": "npx -y headless-unity-mcp"
+}

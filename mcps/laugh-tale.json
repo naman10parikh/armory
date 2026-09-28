@@ -1,0 +1,7 @@
+{
+  "name": "laugh-tale",
+  "description": "MCP server that checks for the presence of other Grand Line stack tools and reveals a fun surprise when all are installed.",
+  "source_repo": "xfloukiex-lab/laugh-tale",
+  "source_url": "https://github.com/xfloukiex-lab/laugh-tale",
+  "install": "# git clone --depth 1 https://github.com/xfloukiex-lab/laugh-tale\n# See source for mcpServers config block"
+}

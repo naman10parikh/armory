@@ -1,0 +1,7 @@
+{
+  "name": "cnki-search",
+  "description": "MCP server for searching Chinese academic literature from CNKI Space, returning metadata such as title, authors, year, and links, and retrieving abstracts and degree details. Enables agents to query CNKI without an account.",
+  "source_repo": "Biogod2020/cnki-search",
+  "source_url": "https://github.com/Biogod2020/cnki-search",
+  "install": "# git clone --depth 1 https://github.com/Biogod2020/cnki-search\n# See source for mcpServers config block"
+}

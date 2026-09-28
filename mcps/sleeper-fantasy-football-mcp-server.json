@@ -1,0 +1,7 @@
+{
+  "name": "sleeper-fantasy-football-mcp-server",
+  "description": "Enables Claude to securely read Sleeper fantasy football league data over the internet via the public API, supporting access from both Claude Desktop and mobile devices.",
+  "source_repo": "dduderstadt/sleeper-fantasy-football-claude-mcp",
+  "source_url": "https://github.com/dduderstadt/sleeper-fantasy-football-claude-mcp",
+  "install": "npx -y sleeper-fantasy-football-claude-mcp"
+}

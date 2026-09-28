@@ -1,0 +1,7 @@
+{
+  "name": "gemini-image-video-generation-mcp",
+  "description": "A production-ready MCP server that enables Claude and other LLMs to generate images and videos using Google's Gemini AI models (Gemini 2.0 Flash and Veo 2.0).",
+  "source_repo": "collactivelabs/gemini-image-gen-mcp",
+  "source_url": "https://github.com/collactivelabs/gemini-image-gen-mcp",
+  "install": "npx -y gemini-image-gen-mcp"
+}

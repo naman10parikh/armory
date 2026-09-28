@@ -1,0 +1,7 @@
+{
+  "name": "tapscript-mcp",
+  "description": "MCP server for reading, writing, and compiling music notation, enabling multi-agent collaboration on scores without conflicts.",
+  "source_repo": "SuperInstance/tapscript-mcp",
+  "source_url": "https://github.com/SuperInstance/tapscript-mcp",
+  "install": "npx -y tapscript-mcp"
+}

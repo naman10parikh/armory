@@ -1,0 +1,7 @@
+{
+  "name": "notch-mcp",
+  "description": "Enables agents to display status readouts in the Mac's notch area via MCP, with multiple styles and progress indicators.",
+  "source_repo": "avoguru/notch-mcp",
+  "source_url": "https://github.com/avoguru/notch-mcp",
+  "install": "npx -y notch-mcp"
+}

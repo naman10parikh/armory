@@ -1,0 +1,7 @@
+{
+  "name": "agent-q",
+  "description": "Agent-Q is an MCP server that separates execution surfaces from signing authority, enabling secure Sui signing flows where the signing device holds keys and policy while requesters submit bounded signing requests through a local host process.",
+  "source_repo": "stelis-dev/agent-q",
+  "source_url": "https://github.com/stelis-dev/agent-q",
+  "install": "# git clone --depth 1 https://github.com/stelis-dev/agent-q\n# See source for mcpServers config block"
+}

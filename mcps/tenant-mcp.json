@@ -1,0 +1,7 @@
+{
+  "name": "tenant-mcp",
+  "description": "Thin MCP server that proxies the personal Tenant service to Claude Desktop, enabling job match retrieval and application tracking.",
+  "source_repo": "Bundelkund/tenant-mcp",
+  "source_url": "https://github.com/Bundelkund/tenant-mcp",
+  "install": "npx -y tenant-mcp"
+}

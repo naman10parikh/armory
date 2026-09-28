@@ -1,0 +1,7 @@
+{
+  "name": "korean-law-search",
+  "description": "Search and retrieve Korean statutes and administrative rules with precise filters. Access English translations and drill down to articles, paragraphs, and sub-items. Explore linkages with local ordinances and delegated authority to speed up legal research.",
+  "source_repo": "",
+  "source_url": "https://velog.io/@zvezda/LexLink-MCP-%EA%B0%9C%EB%B0%9C%EA%B8%B0",
+  "install": "# git clone --depth 1 https://velog.io/@zvezda/LexLink-MCP-%EA%B0%9C%EB%B0%9C%EA%B8%B0\n# See source for mcpServers config block"
+}

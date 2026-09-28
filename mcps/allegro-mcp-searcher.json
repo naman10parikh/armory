@@ -1,0 +1,7 @@
+{
+  "name": "allegro-mcp-searcher",
+  "description": "Enables Claude Desktop to search products on Allegro.pl by translating user queries into Polish and querying the Allegro API.",
+  "source_repo": "andrewsakhno/allegro-mcp-searcher",
+  "source_url": "https://github.com/andrewsakhno/allegro-mcp-searcher",
+  "install": "# git clone --depth 1 https://github.com/andrewsakhno/allegro-mcp-searcher\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alcove",
+  "description": "A local-first personal information manager for knowledge, pins, tasks, and mounted sources, with MCP tools for agent-friendly access.",
+  "source_repo": "OctopusGarage/alcove",
+  "source_url": "https://github.com/OctopusGarage/alcove",
+  "install": "# git clone --depth 1 https://github.com/OctopusGarage/alcove\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vtiger-mcp",
+  "description": "MCP server for vtiger CRM that enables AI agents to log timesheets and create/update records in any module via natural language.",
+  "source_repo": "ViralP17/vtiger-mcp",
+  "source_url": "https://github.com/ViralP17/vtiger-mcp",
+  "install": "npx -y vtiger-mcp"
+}

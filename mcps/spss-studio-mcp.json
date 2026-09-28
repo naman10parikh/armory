@@ -1,0 +1,7 @@
+{
+  "name": "spss-studio-mcp",
+  "description": "Enables AI agents to drive IBM SPSS Statistics for statistical analysis and publication-quality chart generation through natural language, returning structured results and ensuring safe execution.",
+  "source_repo": "flupke91/spss-studio-mcp",
+  "source_url": "https://github.com/flupke91/spss-studio-mcp",
+  "install": "npx -y spss-studio-mcp"
+}

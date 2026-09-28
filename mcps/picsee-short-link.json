@@ -1,0 +1,7 @@
+{
+  "name": "picsee-short-link",
+  "description": "Official PicSee MCP server for creating short links. OAuth unlocks link management and click analytics; anonymous shortening is supported.",
+  "source_repo": "PicSeeInc/picsee-mcp",
+  "source_url": "https://github.com/PicSeeInc/picsee-mcp",
+  "install": "npx -y picsee-mcp"
+}

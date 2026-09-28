@@ -1,0 +1,7 @@
+{
+  "name": "currency-mcp-server",
+  "description": "Enables fetching real-time exchange rates between currencies and listing supported currency codes using the Frankfurter API.",
+  "source_repo": "SEJIN0419/mcpstudy",
+  "source_url": "https://github.com/SEJIN0419/mcpstudy",
+  "install": "# git clone --depth 1 https://github.com/SEJIN0419/mcpstudy\n# See source for mcpServers config block"
+}

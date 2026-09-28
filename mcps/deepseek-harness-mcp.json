@@ -1,0 +1,7 @@
+{
+  "name": "deepseek-harness-mcp",
+  "description": "Enables Codex to start the local DeepSeek Harness Web UI, delegate coding tasks into visible sessions, and review workspace changes.",
+  "source_repo": "Seann0824/deepseek-harness-for-codex",
+  "source_url": "https://github.com/Seann0824/deepseek-harness-for-codex",
+  "install": "# git clone --depth 1 https://github.com/Seann0824/deepseek-harness-for-codex\n# See source for mcpServers config block"
+}

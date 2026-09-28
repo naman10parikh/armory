@@ -1,0 +1,7 @@
+{
+  "name": "lawpracticeza-mcp",
+  "description": "MCP server for LawPracticeZA, South African legal practice software, providing tools to manage clients, matters, work-in-progress fees, billing, and accounting via the LawPracticeZA API.",
+  "source_repo": "nate-raubenheimer/lawpracticeza-mcp",
+  "source_url": "https://github.com/nate-raubenheimer/lawpracticeza-mcp",
+  "install": "npx -y lawpracticeza-mcp"
+}

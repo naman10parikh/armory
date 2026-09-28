@@ -1,0 +1,7 @@
+{
+  "name": "smspm-mcp",
+  "description": "MCP server for sending SMS via the SMSPM API. Send transactional SMS from Claude Desktop, Cursor, Windsurf, Cline, or any MCP client.",
+  "source_repo": "alesav/smspm-mcp",
+  "source_url": "https://github.com/alesav/smspm-mcp",
+  "install": "npx -y smspm-mcp"
+}

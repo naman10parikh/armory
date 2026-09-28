@@ -1,0 +1,7 @@
+{
+  "name": "scholar-search",
+  "description": "Enables searching Google Scholar papers with year filtering, deduplication, and proxy support. Also provides paper detail retrieval, TF-IDF relevance analysis, and chart generation via MCP tools.",
+  "source_repo": "MuliMuri/scholar_search",
+  "source_url": "https://github.com/MuliMuri/scholar_search",
+  "install": "# git clone --depth 1 https://github.com/MuliMuri/scholar_search\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "universal-github-mcp-server",
+  "description": "A configurable MCP server for managing multiple GitHub repositories, branches, pull requests, and files, with built-in company documentation and validation.",
+  "source_repo": "nasimcoderex/tasker-mcp",
+  "source_url": "https://github.com/nasimcoderex/tasker-mcp",
+  "install": "npx -y tasker-mcp"
+}

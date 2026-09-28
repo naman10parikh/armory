@@ -1,0 +1,7 @@
+{
+  "name": "screen-control-mcp",
+  "description": "An MCP server that enables viewing all screens and controlling mouse and keyboard, allowing clicks anywhere and text input.",
+  "source_repo": "peteraspenberg/screen-control-mcp",
+  "source_url": "https://github.com/peteraspenberg/screen-control-mcp",
+  "install": "npx -y screen-control-mcp"
+}

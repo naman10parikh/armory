@@ -1,0 +1,7 @@
+{
+  "name": "paperstack",
+  "description": "Enables arXiv paper search, PDF download, text extraction, and context chunking for LLM pipelines, along with advanced features like citation graphs and reproducibility scoring.",
+  "source_repo": "Aldrin-Joan/paperstack",
+  "source_url": "https://github.com/Aldrin-Joan/paperstack",
+  "install": "# git clone --depth 1 https://github.com/Aldrin-Joan/paperstack\n# See source for mcpServers config block"
+}

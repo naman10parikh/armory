@@ -1,0 +1,7 @@
+{
+  "name": "netpascal-mcp-tools",
+  "description": "Provides web automation utilities, including taking Camofox browser tab screenshots and saving them directly to local files.",
+  "source_repo": "PascalNoisette/mcp-tools",
+  "source_url": "https://github.com/PascalNoisette/mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/PascalNoisette/mcp-tools\n# See source for mcpServers config block"
+}

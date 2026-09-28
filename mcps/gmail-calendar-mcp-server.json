@@ -1,0 +1,7 @@
+{
+  "name": "gmail-calendar-mcp-server",
+  "description": "A multi-account MCP server providing 72 tools for Gmail and Google Calendar, with password protection, environment variable-based credentials, and support for multiple accounts.",
+  "source_repo": "eitan3/Gmail_MCP",
+  "source_url": "https://github.com/eitan3/Gmail_MCP",
+  "install": "npx -y Gmail_MCP"
+}

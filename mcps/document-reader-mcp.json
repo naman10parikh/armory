@@ -1,0 +1,7 @@
+{
+  "name": "document-reader-mcp",
+  "description": "Universal MCP server for extracting text from various document formats including PDF, Excel, Word, CSV, and more, with support for streaming, limits, and markdown conversion.",
+  "source_repo": "ifmelate/document-reader-mcp",
+  "source_url": "https://github.com/ifmelate/document-reader-mcp",
+  "install": "npx -y document-reader-mcp"
+}

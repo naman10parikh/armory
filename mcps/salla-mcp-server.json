@@ -1,0 +1,7 @@
+{
+  "name": "salla-mcp-server",
+  "description": "Bridges AI assistants to Salla e-commerce stores for natural language operations on products, orders, and analytics.",
+  "source_repo": "adshaa/salla-mcp-server",
+  "source_url": "https://github.com/adshaa/salla-mcp-server",
+  "install": "npx -y salla-mcp-server"
+}

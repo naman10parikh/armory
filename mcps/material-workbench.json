@@ -1,0 +1,7 @@
+{
+  "name": "material-workbench",
+  "description": "Exposes procedural material and isometric terrain generation as MCP tools, allowing agents to create deterministic PBR textures and 2:1 isometric tiles from JSON recipes.",
+  "source_repo": "hoklims/material-workbench",
+  "source_url": "https://github.com/hoklims/material-workbench",
+  "install": "# git clone --depth 1 https://github.com/hoklims/material-workbench\n# See source for mcpServers config block"
+}

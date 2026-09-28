@@ -1,0 +1,7 @@
+{
+  "name": "agentlens-mcp-server",
+  "description": "Enables AI agents to access observability and evaluation data, including run history, span traces, LLM-as-judge evaluation results, and regression reports.",
+  "source_repo": "Nexus-universe-space/agentlens",
+  "source_url": "https://github.com/Nexus-universe-space/agentlens",
+  "install": "# git clone --depth 1 https://github.com/Nexus-universe-space/agentlens\n# See source for mcpServers config block"
+}

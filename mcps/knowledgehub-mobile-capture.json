@@ -1,0 +1,7 @@
+{
+  "name": "knowledgehub-mobile-capture",
+  "description": "Enables a secure append-only write service for mobile ChatGPT captures, storing text, voice transcriptions, and attachments as new files in a private GitHub KnowledgeHub repository without overwriting or deleting existing content.",
+  "source_repo": "MaybeToSure/KnowledgeHub-Mobile-Capture",
+  "source_url": "https://github.com/MaybeToSure/KnowledgeHub-Mobile-Capture",
+  "install": "# git clone --depth 1 https://github.com/MaybeToSure/KnowledgeHub-Mobile-Capture\n# See source for mcpServers config block"
+}

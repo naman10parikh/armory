@@ -1,0 +1,7 @@
+{
+  "name": "mcp-odoo-fintech",
+  "description": "Connects Claude Desktop to Odoo ERP via JSON-2 API for searching invoices, creating sales orders, checking customer balances, and managing webhooks.",
+  "source_repo": "IsliBasha/mcp-odoo-fintech",
+  "source_url": "https://github.com/IsliBasha/mcp-odoo-fintech",
+  "install": "# git clone --depth 1 https://github.com/IsliBasha/mcp-odoo-fintech\n# See source for mcpServers config block"
+}

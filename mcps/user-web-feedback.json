@@ -1,0 +1,7 @@
+{
+  "name": "user-web-feedback",
+  "description": "Enables AI-assisted user feedback collection and management via a web interface, with MCP integration for automated replies and tool execution.",
+  "source_repo": "HyperHeroX/user-feedback-web",
+  "source_url": "https://github.com/HyperHeroX/user-feedback-web",
+  "install": "# git clone --depth 1 https://github.com/HyperHeroX/user-feedback-web\n# See source for mcpServers config block"
+}

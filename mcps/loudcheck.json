@@ -1,0 +1,7 @@
+{
+  "name": "loudcheck",
+  "description": "Loudness compliance verdicts against formal broadcast standards (EBU R128, ATSC A/85). Measures audio/video with ffmpeg and returns a pass/fail verdict with exact deltas and remediation parameters.",
+  "source_repo": "chaoz23/loudcheck",
+  "source_url": "https://github.com/chaoz23/loudcheck",
+  "install": "# git clone --depth 1 https://github.com/chaoz23/loudcheck\n# See source for mcpServers config block"
+}

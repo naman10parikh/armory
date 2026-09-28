@@ -1,0 +1,7 @@
+{
+  "name": "fsnb-mcp",
+  "description": "Offline MCP server for querying Russian construction normative rates (FSNB-2022/GESN) via SQLite with full-text search.",
+  "source_repo": "pyrfor/fsnb-mcp",
+  "source_url": "https://github.com/pyrfor/fsnb-mcp",
+  "install": "npx -y fsnb-mcp"
+}

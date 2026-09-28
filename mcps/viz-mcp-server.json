@@ -1,0 +1,7 @@
+{
+  "name": "viz-mcp-server",
+  "description": "Enables AI agents to create data visualizations like bar charts, line charts, pie charts, scatter plots, and histograms, returning inline SVG or PNG files.",
+  "source_repo": "ceeyang-ai/viz-mcp-server",
+  "source_url": "https://github.com/ceeyang-ai/viz-mcp-server",
+  "install": "npx -y viz-mcp-server"
+}

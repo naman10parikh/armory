@@ -1,0 +1,7 @@
+{
+  "name": "fluencydrift-mcp",
+  "description": "MCP server that diffs a project's code structure against fluencyloop architectural records and flags where reality has drifted.",
+  "source_repo": "baokhang83/fluencydrift-mcp",
+  "source_url": "https://github.com/baokhang83/fluencydrift-mcp",
+  "install": "npx -y fluencydrift-mcp"
+}

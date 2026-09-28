@@ -1,0 +1,7 @@
+{
+  "name": "rachio-mcp",
+  "description": "MCP server for full control of Rachio sprinkler controllers via the reverse-engineered internal gRPC API, enabling schedule management, manual zone runs, rain delays, and weather data retrieval.",
+  "source_repo": "rwestergren/rachio-mcp",
+  "source_url": "https://github.com/rwestergren/rachio-mcp",
+  "install": "npx -y rachio-mcp"
+}

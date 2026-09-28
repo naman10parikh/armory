@@ -1,0 +1,7 @@
+{
+  "name": "apec-mcp",
+  "description": "MCP server that exposes the APEC candidate-profile API as tools for any MCP-compatible AI assistant, enabling profile management, job-search updates, and data retrieval.",
+  "source_repo": "clement-igonet/apec-mcp",
+  "source_url": "https://github.com/clement-igonet/apec-mcp",
+  "install": "npx -y apec-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zhihumcp",
+  "description": "Read-focused MCP server for Zhihu, enabling retrieval of pins, articles, comments, and replies, with optional limited write tools for drafting and editing answers.",
+  "source_repo": "WloBy-Labs/ZhihuMCP",
+  "source_url": "https://github.com/WloBy-Labs/ZhihuMCP",
+  "install": "# git clone --depth 1 https://github.com/WloBy-Labs/ZhihuMCP\n# See source for mcpServers config block"
+}

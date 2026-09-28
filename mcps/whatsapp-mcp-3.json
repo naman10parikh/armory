@@ -1,0 +1,7 @@
+{
+  "name": "whatsapp-mcp-3",
+  "description": "An MCP server that gives Claude read and write access to WhatsApp through a self-hosted Evolution API gateway. It is dependency-free, using Node's built-in fetch and stdio transport.",
+  "source_repo": "wsti-studio/whatsapp-mcp",
+  "source_url": "https://github.com/wsti-studio/whatsapp-mcp",
+  "install": "npx -y whatsapp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pymilvus-code-generate-helper",
+  "description": "An MCP server that retrieves relevant code snippets and documents to assist in generating pymilvus code, converting between ORM and client, and translating Milvus code between programming languages.",
+  "source_repo": "brcarry/mcp-pymilvus-code-generate-helper",
+  "source_url": "https://github.com/brcarry/mcp-pymilvus-code-generate-helper",
+  "install": "# git clone --depth 1 https://github.com/brcarry/mcp-pymilvus-code-generate-helper\n# See source for mcpServers config block"
+}

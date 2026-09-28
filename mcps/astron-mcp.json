@@ -1,0 +1,7 @@
+{
+  "name": "astron-mcp",
+  "description": "An MCP server that wraps multiple vendors' Coding Plan services (iFlytek Spark, Volcengine) to provide code review, plan review, and multi-turn dialogue for AI coding tools like Claude Code.",
+  "source_repo": "htmambo/coding-bridge-mcp",
+  "source_url": "https://github.com/htmambo/coding-bridge-mcp",
+  "install": "npx -y coding-bridge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "geocoding-mcp",
+  "description": "An MCP server for forward geocoding via the Nominatim API (OpenStreetMap) with no API key required.",
+  "source_repo": "jamesfiltness/geocoding-mcp",
+  "source_url": "https://github.com/jamesfiltness/geocoding-mcp",
+  "install": "npx -y geocoding-mcp"
+}

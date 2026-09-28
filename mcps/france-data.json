@@ -1,0 +1,7 @@
+{
+  "name": "france-data",
+  "description": "France Data MCP permet aux agents IA d’interroger, croiser et enrichir automatiquement plusieurs référentiels publics français via une interface MCP unifiée. France Data MCP fournit une couche d’intelligence territoriale française conçue pour le reasoning multi-sources et l’orchestration agentique.",
+  "source_repo": "",
+  "source_url": "https://github.com/cturkieh/",
+  "install": "# git clone --depth 1 https://github.com/cturkieh/\n# See source for mcpServers config block"
+}

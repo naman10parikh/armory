@@ -1,0 +1,7 @@
+{
+  "name": "gemini-agent-mcp-server",
+  "description": "An advanced MCP server that provides an agentic interface to Google's Gemini 3.1 models via Vertex AI, combining real-time Google Search, URL analysis, and Python code execution to solve complex multi-step research and data tasks.",
+  "source_repo": "cybaea/google-search-mcp",
+  "source_url": "https://github.com/cybaea/google-search-mcp",
+  "install": "npx -y google-search-mcp"
+}

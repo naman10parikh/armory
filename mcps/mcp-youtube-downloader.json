@@ -1,0 +1,7 @@
+{
+  "name": "mcp-youtube-downloader",
+  "description": "MCP server for downloading videos and audio from YouTube and hundreds of other sites using yt-dlp.",
+  "source_repo": "lucassnts963/mcp-youtube-downloader",
+  "source_url": "https://github.com/lucassnts963/mcp-youtube-downloader",
+  "install": "# git clone --depth 1 https://github.com/lucassnts963/mcp-youtube-downloader\n# See source for mcpServers config block"
+}

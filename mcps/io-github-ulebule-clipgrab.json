@@ -1,0 +1,7 @@
+{
+  "name": "io-github-ulebule-clipgrab",
+  "description": "Saves the image currently on the system clipboard to a file (PNG or JPG), enabling AI agents that cannot access the clipboard to use clipboard images.",
+  "source_repo": "ulebule/ClipGrab",
+  "source_url": "https://github.com/ulebule/ClipGrab",
+  "install": "# git clone --depth 1 https://github.com/ulebule/ClipGrab\n# See source for mcpServers config block"
+}

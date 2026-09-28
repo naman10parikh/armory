@@ -1,0 +1,7 @@
+{
+  "name": "kicad-mcp-server",
+  "description": "An MCP server that enables AI assistants to analyze schematics, inspect PCBs, trace connections, validate designs, and generate embedded code for KiCad projects.",
+  "source_repo": "Seeed-Studio/kicad-mcp-server",
+  "source_url": "https://github.com/Seeed-Studio/kicad-mcp-server",
+  "install": "npx -y kicad-mcp-server"
+}

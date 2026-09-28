@@ -1,0 +1,7 @@
+{
+  "name": "arpi-mcp",
+  "description": "AI-powered ECG analysis server that accepts ECG images and returns AI-generated diagnosis reports.",
+  "source_repo": "arpi-ai/arpi-mcp",
+  "source_url": "https://github.com/arpi-ai/arpi-mcp",
+  "install": "npx -y arpi-mcp"
+}

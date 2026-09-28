@@ -1,0 +1,7 @@
+{
+  "name": "jenny-mcp-server",
+  "description": "Enables AI agents to interact with the Windows desktop environment, including browser control, clipboard, file management, GitHub, Roblox Studio, OCR, and more, with a privileged approval system for risky actions.",
+  "source_repo": "RhaDar12/jenny-mcp-server",
+  "source_url": "https://github.com/RhaDar12/jenny-mcp-server",
+  "install": "npx -y jenny-mcp-server"
+}

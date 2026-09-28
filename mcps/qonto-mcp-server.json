@@ -1,0 +1,7 @@
+{
+  "name": "qonto-mcp-server",
+  "description": "Enables AI assistants to access Qonto financial data including organization info, account balances, transaction history, and business operations through natural language.",
+  "source_repo": "qonto/qonto-mcp-server",
+  "source_url": "https://github.com/qonto/qonto-mcp-server",
+  "install": "npx -y qonto-mcp-server"
+}

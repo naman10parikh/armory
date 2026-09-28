@@ -1,0 +1,7 @@
+{
+  "name": "a207-his-mcp",
+  "description": "Read-only MCP server providing pediatric CKD patient master data with tools for patient profiles, diagnosis, nutrition ceilings, guardian verification, and patient lists, designed for the CKDNutri project.",
+  "source_repo": "ayeyouok/a207-his-mcp",
+  "source_url": "https://github.com/ayeyouok/a207-his-mcp",
+  "install": "npx -y a207-his-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-hsl",
+  "description": "An MCP server exposing Greater Helsinki public transport data from Digitransit, enabling LLM hosts to answer live transit queries, plan journeys, and fetch stop departures via natural language.",
+  "source_repo": "devusvulgaris/mcp-hsl",
+  "source_url": "https://github.com/devusvulgaris/mcp-hsl",
+  "install": "# git clone --depth 1 https://github.com/devusvulgaris/mcp-hsl\n# See source for mcpServers config block"
+}

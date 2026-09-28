@@ -1,0 +1,7 @@
+{
+  "name": "abscissa",
+  "description": "A Python stdio MCP server for Linear's GraphQL API, providing 35 tools to manage issues, projects, cycles, dependencies, comments, labels, workflow states, teams, and users with cursor-paginated results and destructive action confirmation.",
+  "source_repo": "KazKozDev/abscissa",
+  "source_url": "https://github.com/KazKozDev/abscissa",
+  "install": "# git clone --depth 1 https://github.com/KazKozDev/abscissa\n# See source for mcpServers config block"
+}

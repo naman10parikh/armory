@@ -1,0 +1,7 @@
+{
+  "name": "beadsmcp",
+  "description": "A Windows app that wraps the BEADS framework as an MCP server, enabling AI tools to send structured requests and run BEADS actions locally.",
+  "source_repo": "Harby3816/BeadsMCP",
+  "source_url": "https://github.com/Harby3816/BeadsMCP",
+  "install": "# git clone --depth 1 https://github.com/Harby3816/BeadsMCP\n# See source for mcpServers config block"
+}

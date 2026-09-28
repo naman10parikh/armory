@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fleet-worker",
+  "description": "Spawn headless OpenCode workers on cheap models to delegate expensive tool-using tasks to a fleet of parallel workers with isolated git worktrees.",
+  "source_repo": "alexgenovese/mcp-fleet-worker",
+  "source_url": "https://github.com/alexgenovese/mcp-fleet-worker",
+  "install": "# git clone --depth 1 https://github.com/alexgenovese/mcp-fleet-worker\n# See source for mcpServers config block"
+}

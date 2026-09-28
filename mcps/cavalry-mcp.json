@@ -1,0 +1,7 @@
+{
+  "name": "cavalry-mcp",
+  "description": "MCP server for driving Cavalry's 2D motion-graphics engine from LLMs, enabling scene creation and animation via natural language.",
+  "source_repo": "ZHUYUFAN3-33/cavalry-mcp",
+  "source_url": "https://github.com/ZHUYUFAN3-33/cavalry-mcp",
+  "install": "npx -y cavalry-mcp"
+}

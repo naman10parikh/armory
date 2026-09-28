@@ -1,0 +1,7 @@
+{
+  "name": "escalidrau-mcp-server",
+  "description": "MCP server for Escalidrau, a collaborative macOS whiteboard. Lets AI agents read, draw, edit, rearrange, and export diagrams on a shared canvas in real time.",
+  "source_repo": "aguara-guazu/escalidrau",
+  "source_url": "https://github.com/aguara-guazu/escalidrau",
+  "install": "# git clone --depth 1 https://github.com/aguara-guazu/escalidrau\n# See source for mcpServers config block"
+}

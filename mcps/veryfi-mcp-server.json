@@ -1,0 +1,7 @@
+{
+  "name": "veryfi-mcp-server",
+  "description": "Integrates Veryfi for document processing, enabling data extraction from documents via the Model Context Protocol.",
+  "source_repo": "veryfi/mcp-server",
+  "source_url": "https://github.com/veryfi/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/veryfi/mcp-server\n# See source for mcpServers config block"
+}

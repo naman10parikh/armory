@@ -1,0 +1,7 @@
+{
+  "name": "okf-knowledge-agent-mcp-server",
+  "description": "An LLM-managed knowledge base following the Open Knowledge Format (OKF) v0.1 spec. Provides MCP tools: kb_query, kb_add, kb_update, kb_status over stdio or streamable HTTP.",
+  "source_repo": "thecodacus/okf-agent",
+  "source_url": "https://github.com/thecodacus/okf-agent",
+  "install": "# git clone --depth 1 https://github.com/thecodacus/okf-agent\n# See source for mcpServers config block"
+}

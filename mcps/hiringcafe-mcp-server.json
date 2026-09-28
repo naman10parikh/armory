@@ -1,0 +1,7 @@
+{
+  "name": "hiringcafe-mcp-server",
+  "description": "Enables searching and fetching HiringCafe job listings through MCP, using public HTML pages without authentication or browser automation.",
+  "source_repo": "maazghani/hiring-mcp.cafe",
+  "source_url": "https://github.com/maazghani/hiring-mcp.cafe",
+  "install": "# git clone --depth 1 https://github.com/maazghani/hiring-mcp.cafe\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-rag",
+  "description": "MCP server that indexes Markdown files into a local SQLite vector store and provides semantic search tools for Claude Code.",
+  "source_repo": "sangelastro/claude-rag",
+  "source_url": "https://github.com/sangelastro/claude-rag",
+  "install": "# git clone --depth 1 https://github.com/sangelastro/claude-rag\n# See source for mcpServers config block"
+}

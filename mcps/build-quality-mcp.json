@@ -1,0 +1,7 @@
+{
+  "name": "build-quality-mcp",
+  "description": "Enables Claude-powered pre-push code review, blocking bad commits by analyzing diffs with Anthropic's models.",
+  "source_repo": "alex-jb/build-quality-agent",
+  "source_url": "https://github.com/alex-jb/build-quality-agent",
+  "install": "# git clone --depth 1 https://github.com/alex-jb/build-quality-agent\n# See source for mcpServers config block"
+}

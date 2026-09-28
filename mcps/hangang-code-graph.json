@@ -1,0 +1,7 @@
+{
+  "name": "hangang-code-graph",
+  "description": "MCP server for indexing source code from repositories into a Neo4j graph database and enabling Graph RAG-based search and traversal of functions via natural language queries.",
+  "source_repo": "asm-hangang/hangang-code-graph",
+  "source_url": "https://github.com/asm-hangang/hangang-code-graph",
+  "install": "# git clone --depth 1 https://github.com/asm-hangang/hangang-code-graph\n# See source for mcpServers config block"
+}

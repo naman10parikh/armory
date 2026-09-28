@@ -1,0 +1,7 @@
+{
+  "name": "tavern-tanuki",
+  "description": "MCP server for managing and playing a running SillyTavern instance, enabling AI coding assistants to read/write character cards, worldbooks, and chats, and to interact as a player via the full generation pipeline.",
+  "source_repo": "fannnnnnn5822/tavern-tanuki",
+  "source_url": "https://github.com/fannnnnnn5822/tavern-tanuki",
+  "install": "# git clone --depth 1 https://github.com/fannnnnnn5822/tavern-tanuki\n# See source for mcpServers config block"
+}

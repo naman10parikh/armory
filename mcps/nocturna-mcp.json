@@ -1,0 +1,7 @@
+{
+  "name": "nocturna-mcp",
+  "description": "MCP server for Nocturna astrology APIs, providing 20 tools for natal charts, transits, synastry, progressions, returns, and chart image rendering.",
+  "source_repo": "eaprelsky/nocturna-mcp",
+  "source_url": "https://github.com/eaprelsky/nocturna-mcp",
+  "install": "npx -y nocturna-mcp"
+}

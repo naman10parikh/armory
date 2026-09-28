@@ -1,0 +1,7 @@
+{
+  "name": "ascii-svg-art-studio",
+  "description": "Enables AI to create ASCII and SVG art through a character canvas, with tools for drawing, previewing, and exporting to multiple formats, as well as composing stop-motion animations with optional voice-over.",
+  "source_repo": "SolenmeChiara/ASCII_ART_MCP",
+  "source_url": "https://github.com/SolenmeChiara/ASCII_ART_MCP",
+  "install": "npx -y ASCII_ART_MCP"
+}

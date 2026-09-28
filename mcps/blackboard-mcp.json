@@ -1,0 +1,7 @@
+{
+  "name": "blackboard-mcp",
+  "description": "Cross-session coordination server for Claude Code that manages file claims, build locks, shared knowledge, and provides a real-time dashboard to prevent conflicts across multiple sessions.",
+  "source_repo": "RD2100/blackboard-mcp",
+  "source_url": "https://github.com/RD2100/blackboard-mcp",
+  "install": "npx -y blackboard-mcp"
+}

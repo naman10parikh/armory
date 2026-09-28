@@ -1,0 +1,7 @@
+{
+  "name": "synology-filestation-mcp",
+  "description": "Enables AI agents to manage files on Synology NAS via the File Station API, supporting operations like browsing, searching, uploading/downloading, creating, renaming, copying, moving, deleting, compressing, and extracting.",
+  "source_repo": "01men/synology-filestation-mcp",
+  "source_url": "https://github.com/01men/synology-filestation-mcp",
+  "install": "npx -y synology-filestation-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "desktopcommanderpy",
+  "description": "A Python MCP server that provides controlled access to local filesystem, terminal, processes, and SAP HANA Cloud, enabling Claude to interact with your machine and databases securely.",
+  "source_repo": "eduardoddddddd/DesktopCommanderPy",
+  "source_url": "https://github.com/eduardoddddddd/DesktopCommanderPy",
+  "install": "# git clone --depth 1 https://github.com/eduardoddddddd/DesktopCommanderPy\n# See source for mcpServers config block"
+}

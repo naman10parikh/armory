@@ -1,0 +1,7 @@
+{
+  "name": "archiscribe-mcp-server",
+  "description": "Retrieves architectural information from ArchiMate models, enabling AI coding assistants to access architectural context during the software development lifecycle. Supports search and retrieval of views and elements in markdown, JSON, or YAML.",
+  "source_repo": "dclnbrght/archiscribe-mcp",
+  "source_url": "https://github.com/dclnbrght/archiscribe-mcp",
+  "install": "npx -y archiscribe-mcp"
+}

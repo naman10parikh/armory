@@ -1,0 +1,7 @@
+{
+  "name": "runtime-inspector-mcp",
+  "description": "Read-only MCP server to inspect allowlisted Docker containers, systemd services, JSONL logs, and HTTP health endpoints without arbitrary shell access.",
+  "source_repo": "ludi-uni/runtime-inspector-mcp",
+  "source_url": "https://github.com/ludi-uni/runtime-inspector-mcp",
+  "install": "npx -y runtime-inspector-mcp"
+}

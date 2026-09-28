@@ -1,0 +1,7 @@
+{
+  "name": "dlbrowser",
+  "description": "MCP server that gives AI agents reliable web access with self-healing, anti-bot bypass and clean content extraction. It provides 11 tools like fetch, scrape, and search, metered by credit with cost transparency.",
+  "source_repo": "DekryptLabs/dlbrowser",
+  "source_url": "https://github.com/DekryptLabs/dlbrowser",
+  "install": "# git clone --depth 1 https://github.com/DekryptLabs/dlbrowser\n# See source for mcpServers config block"
+}

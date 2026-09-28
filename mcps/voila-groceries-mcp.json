@@ -1,0 +1,7 @@
+{
+  "name": "voila-groceries-mcp",
+  "description": "Voila.ca groceries MCP for card management, product search and order history analysis",
+  "source_repo": "dearlordylord/voila-sdk",
+  "source_url": "https://github.com/dearlordylord/voila-sdk",
+  "install": "# git clone --depth 1 https://github.com/dearlordylord/voila-sdk\n# See source for mcpServers config block"
+}

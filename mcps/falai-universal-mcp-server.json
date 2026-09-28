@@ -1,0 +1,7 @@
+{
+  "name": "falai-universal-mcp-server",
+  "description": "Provides a standardized interface for interacting with Falai's tools and services through the Model Context Protocol, enabling AI assistants to leverage Falai capabilities.",
+  "source_repo": "universal-mcp/falai",
+  "source_url": "https://github.com/universal-mcp/falai",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/falai\n# See source for mcpServers config block"
+}

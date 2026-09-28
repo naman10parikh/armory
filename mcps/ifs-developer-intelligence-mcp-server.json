@@ -1,0 +1,7 @@
+{
+  "name": "ifs-developer-intelligence-mcp-server",
+  "description": "An enterprise MCP server that transforms IFS Cloud documentation, local code, and Oracle error knowledge into AI-powered development intelligence, offering 60+ tools for code generation, review, error diagnosis, and deployment.",
+  "source_repo": "devansh-tntra/ifs-developer-intelligence-mcp",
+  "source_url": "https://github.com/devansh-tntra/ifs-developer-intelligence-mcp",
+  "install": "npx -y ifs-developer-intelligence-mcp"
+}

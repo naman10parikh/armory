@@ -1,0 +1,7 @@
+{
+  "name": "jira-github-mcp",
+  "description": "An MCP server for end-to-end Jira and GitHub integration, enabling AI agents in the IDE to automate workflows from issue tracking to pull request management.",
+  "source_repo": "garbvalley/jira-github-mcp",
+  "source_url": "https://github.com/garbvalley/jira-github-mcp",
+  "install": "npx -y jira-github-mcp"
+}

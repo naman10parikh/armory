@@ -1,0 +1,7 @@
+{
+  "name": "telemetry-mcp",
+  "description": "A read-only MCP server for querying telemetry data from configurable backends. Provides tools to list sources, describe schemas, run bounded queries, and compute aggregates.",
+  "source_repo": "selamy-labs/telemetry-mcp",
+  "source_url": "https://github.com/selamy-labs/telemetry-mcp",
+  "install": "npx -y telemetry-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "relay-mcp",
+  "description": "Self-hosted session relay for Claude enabling shared message threads across multiple Claude surfaces like Code, Chat, and Cowork, allowing seamless state transfer without manual copy-paste.",
+  "source_repo": "zhowe-designs/relay-mcp",
+  "source_url": "https://github.com/zhowe-designs/relay-mcp",
+  "install": "npx -y relay-mcp"
+}

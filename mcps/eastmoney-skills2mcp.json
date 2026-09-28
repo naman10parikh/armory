@@ -1,0 +1,7 @@
+{
+  "name": "eastmoney-skills2mcp",
+  "description": "Provides 11 MCP tools for querying A-share market data, financial reports, stock screening, hot topics, self-selected stocks, and LOF arbitrage using natural language, powered by East Money / Miaoxiang APIs.",
+  "source_repo": "essos-bot/eastmoney-skills2mcp",
+  "source_url": "https://github.com/essos-bot/eastmoney-skills2mcp",
+  "install": "# git clone --depth 1 https://github.com/essos-bot/eastmoney-skills2mcp\n# See source for mcpServers config block"
+}

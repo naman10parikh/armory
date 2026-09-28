@@ -1,0 +1,7 @@
+{
+  "name": "comos-federation-gateway",
+  "description": "Shop every merchant on the ComOS commerce network over one MCP connection — catalog search, live inventory, atomic COM/USD checkout, orders, tracking, returns — or apply to sell on it in-session. ~49 tools, no API key required; OAuth 2.1 for privileged scopes.",
+  "source_repo": "ronrey/comos-mcp",
+  "source_url": "https://github.com/ronrey/comos-mcp",
+  "install": "npx -y comos-mcp"
+}

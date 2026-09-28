@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-toolkit",
+  "description": "Provides filesystem, web search, SQLite, and system tools for AI assistants like Claude, enabling secure access to local resources and the web.",
+  "source_repo": "plasmacat420/mcp-server-toolkit",
+  "source_url": "https://github.com/plasmacat420/mcp-server-toolkit",
+  "install": "# git clone --depth 1 https://github.com/plasmacat420/mcp-server-toolkit\n# See source for mcpServers config block"
+}

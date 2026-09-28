@@ -1,0 +1,7 @@
+{
+  "name": "kandilli-deprem-mcp-server",
+  "description": "Enables fetching latest earthquake data from Kandilli Observatory, searching earthquakes by region, and obtaining regional statistics through MCP tools.",
+  "source_repo": "muratti66/mcp-kandilli-deprem",
+  "source_url": "https://github.com/muratti66/mcp-kandilli-deprem",
+  "install": "# git clone --depth 1 https://github.com/muratti66/mcp-kandilli-deprem\n# See source for mcpServers config block"
+}

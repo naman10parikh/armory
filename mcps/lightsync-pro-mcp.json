@@ -1,0 +1,7 @@
+{
+  "name": "lightsync-pro-mcp",
+  "description": "Connects AI clients to WordPress sites for content management and synchronization, supporting multiple sites with secure token-based authentication.",
+  "source_repo": "TagTeamDesign/lightsync-pro",
+  "source_url": "https://github.com/TagTeamDesign/lightsync-pro",
+  "install": "# git clone --depth 1 https://github.com/TagTeamDesign/lightsync-pro\n# See source for mcpServers config block"
+}

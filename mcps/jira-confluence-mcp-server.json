@@ -1,0 +1,7 @@
+{
+  "name": "jira-confluence-mcp-server",
+  "description": "Enables AI assistants to interact with Jira and Confluence via natural language, supporting 37 Jira tools and 16 Confluence tools.",
+  "source_repo": "halim-23/jira-mcp-server",
+  "source_url": "https://github.com/halim-23/jira-mcp-server",
+  "install": "npx -y jira-mcp-server"
+}

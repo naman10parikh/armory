@@ -1,0 +1,7 @@
+{
+  "name": "sports-mcp-server",
+  "description": "Provides comprehensive sports intelligence including live scores, standings, schedules, betting odds, news, highlights, and more via SSE transport.",
+  "source_repo": "YJSummers/sports-mcp-server",
+  "source_url": "https://github.com/YJSummers/sports-mcp-server",
+  "install": "npx -y sports-mcp-server"
+}

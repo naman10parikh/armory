@@ -1,0 +1,7 @@
+{
+  "name": "mcp-perfectpixel",
+  "description": "MCP server for pixel-perfect verification, screenshots a live URL and diffs it against a static design image, returning grouped diff regions with severity scores and source tracing.",
+  "source_repo": "hiimbomb1999/mcp-perfectpixel",
+  "source_url": "https://github.com/hiimbomb1999/mcp-perfectpixel",
+  "install": "# git clone --depth 1 https://github.com/hiimbomb1999/mcp-perfectpixel\n# See source for mcpServers config block"
+}

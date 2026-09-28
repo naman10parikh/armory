@@ -1,0 +1,7 @@
+{
+  "name": "brainstem",
+  "description": "Local-first knowledge backend for AI agents that connects MCP hosts to an Obsidian-compatible vault with indexed retrieval, token-budgeted memory recall, and secure ingestion.",
+  "source_repo": "DarkCodePE/brainstem",
+  "source_url": "https://github.com/DarkCodePE/brainstem",
+  "install": "# git clone --depth 1 https://github.com/DarkCodePE/brainstem\n# See source for mcpServers config block"
+}

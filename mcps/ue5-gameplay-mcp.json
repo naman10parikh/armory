@@ -1,0 +1,7 @@
+{
+  "name": "ue5-gameplay-mcp",
+  "description": "Enables playing and observing a running Unreal Engine 5 game through virtual gamepad, keyboard, and mouse input, plus screen capture, log streaming, and UMG UI inspection and control.",
+  "source_repo": "hiroog/ue5_gameplay_mcp",
+  "source_url": "https://github.com/hiroog/ue5_gameplay_mcp",
+  "install": "npx -y ue5_gameplay_mcp"
+}

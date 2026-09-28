@@ -1,0 +1,7 @@
+{
+  "name": "logtime-summarizer",
+  "description": "Enables AI assistants to analyze log time data from various sources to summarize project health, employee performance, and client status.",
+  "source_repo": "agungadipurwa/mcp-client-server",
+  "source_url": "https://github.com/agungadipurwa/mcp-client-server",
+  "install": "# git clone --depth 1 https://github.com/agungadipurwa/mcp-client-server\n# See source for mcpServers config block"
+}

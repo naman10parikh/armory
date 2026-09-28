@@ -1,0 +1,7 @@
+{
+  "name": "tgms-mcp-server",
+  "description": "Enables LLM agents to query a bi-temporal property graph using verified temporal operators via MCP, with auditable claims and correction-aware time travel.",
+  "source_repo": "zxf-work/tgms",
+  "source_url": "https://github.com/zxf-work/tgms",
+  "install": "# git clone --depth 1 https://github.com/zxf-work/tgms\n# See source for mcpServers config block"
+}

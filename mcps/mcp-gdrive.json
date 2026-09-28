@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gdrive",
+  "description": "Enables listing, searching, reading, writing, creating, and uploading files on Google Drive.",
+  "source_repo": "rofe/mcp-gdrive",
+  "source_url": "https://github.com/rofe/mcp-gdrive",
+  "install": "# git clone --depth 1 https://github.com/rofe/mcp-gdrive\n# See source for mcpServers config block"
+}

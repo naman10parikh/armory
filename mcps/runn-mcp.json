@@ -1,0 +1,7 @@
+{
+  "name": "runn-mcp",
+  "description": "A generic MCP server that wraps the Runn REST API v1 (read + write) with ID-based tools and dry-run safety for write operations.",
+  "source_repo": "CodecoolGlobal/runn-mcp",
+  "source_url": "https://github.com/CodecoolGlobal/runn-mcp",
+  "install": "npx -y runn-mcp"
+}

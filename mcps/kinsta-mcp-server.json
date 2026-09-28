@@ -1,0 +1,7 @@
+{
+  "name": "kinsta-mcp-server",
+  "description": "MCP server for the Kinsta WordPress hosting platform, enabling AI assistants to interact with Kinsta sites and infrastructure via the Kinsta API.",
+  "source_repo": "jacob-hartmann/kinsta-mcp",
+  "source_url": "https://github.com/jacob-hartmann/kinsta-mcp",
+  "install": "npx -y kinsta-mcp"
+}

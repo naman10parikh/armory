@@ -1,0 +1,7 @@
+{
+  "name": "contract-information-extractor",
+  "description": "Enables extracting explicitly stated contract metadata, clauses, and obligations from user-supplied contract text without storing or modifying the data.",
+  "source_repo": "YanKe1816/contract-information-extractor",
+  "source_url": "https://github.com/YanKe1816/contract-information-extractor",
+  "install": "# git clone --depth 1 https://github.com/YanKe1816/contract-information-extractor\n# See source for mcpServers config block"
+}

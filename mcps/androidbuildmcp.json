@@ -1,0 +1,7 @@
+{
+  "name": "androidbuildmcp",
+  "description": "Enables AI agents to build, deploy, drive, and debug Android apps — managing Gradle builds, emulators, adb deployment, logcat capture, and full UI automation.",
+  "source_repo": "dev-jackson/androidbuild-mcp",
+  "source_url": "https://github.com/dev-jackson/androidbuild-mcp",
+  "install": "npx -y androidbuild-mcp"
+}

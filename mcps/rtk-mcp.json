@@ -1,0 +1,7 @@
+{
+  "name": "rtk-mcp",
+  "description": "MCP proxy that filters oversized tool responses, downscaling screenshots and pruning accessibility snapshots to reduce token usage in LLM interactions.",
+  "source_repo": "KCuppens/rtk-mcp",
+  "source_url": "https://github.com/KCuppens/rtk-mcp",
+  "install": "npx -y rtk-mcp"
+}

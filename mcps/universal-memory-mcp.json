@@ -1,0 +1,7 @@
+{
+  "name": "universal-memory-mcp",
+  "description": "Provides any AI CLI tool with long-term memory using a three-tier architecture (sensory, short-term, long-term) for cross-session persistence, fully local and private.",
+  "source_repo": "slicenferqin/universal-memory-mcp",
+  "source_url": "https://github.com/slicenferqin/universal-memory-mcp",
+  "install": "npx -y universal-memory-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ruyi-mcp",
+  "description": "Community MCP server for RuyiPage enabling browser automation, fingerprint analysis, network interception, and human behavior simulation via 56 MCP tools.",
+  "source_repo": "Facetomyself/ruyi-mcp",
+  "source_url": "https://github.com/Facetomyself/ruyi-mcp",
+  "install": "npx -y ruyi-mcp"
+}

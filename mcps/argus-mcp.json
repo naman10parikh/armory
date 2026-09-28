@@ -1,0 +1,7 @@
+{
+  "name": "argus-mcp",
+  "description": "Enables AI-powered, zero-trust code review with multiple models, supporting single files, git diffs, and multiple files, with security, performance, and architecture checks across 10+ languages.",
+  "source_repo": "lokafinnsw/argus-mcp",
+  "source_url": "https://github.com/lokafinnsw/argus-mcp",
+  "install": "npx -y argus-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crm-mcp-agent",
+  "description": "An MCP server that allows agents to perform CRM segment and campaign queries, with a governance kernel controlling write operations for safety.",
+  "source_repo": "euuuuuuan/crm-mcp-agent-public",
+  "source_url": "https://github.com/euuuuuuan/crm-mcp-agent-public",
+  "install": "# git clone --depth 1 https://github.com/euuuuuuan/crm-mcp-agent-public\n# See source for mcpServers config block"
+}

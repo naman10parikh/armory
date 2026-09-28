@@ -1,0 +1,7 @@
+{
+  "name": "watch-buddy-mcp",
+  "description": "An MCP server that gives Claude the ability to watch any desktop window, detecting changes and providing compact image bundles for Claude's vision, enabling real-time screen-watching without API costs.",
+  "source_repo": "jpetree331/mcp-watch-buddy",
+  "source_url": "https://github.com/jpetree331/mcp-watch-buddy",
+  "install": "# git clone --depth 1 https://github.com/jpetree331/mcp-watch-buddy\n# See source for mcpServers config block"
+}

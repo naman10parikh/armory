@@ -1,0 +1,7 @@
+{
+  "name": "archivist-ai-mcp-server",
+  "description": "Connects AI assistants to TTRPG campaign data for managing characters, sessions, locations, factions, items, quests, and more.",
+  "source_repo": "Astrotomic/mcp.myarchivist.ai",
+  "source_url": "https://github.com/Astrotomic/mcp.myarchivist.ai",
+  "install": "# git clone --depth 1 https://github.com/Astrotomic/mcp.myarchivist.ai\n# See source for mcpServers config block"
+}

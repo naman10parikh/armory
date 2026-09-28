@@ -1,0 +1,7 @@
+{
+  "name": "gameface-devtools-mcp",
+  "description": "An MCP server that lets AI models drive any Coherent Gameface UI over Chrome DevTools Protocol, enabling JavaScript evaluation, screenshots, DOM inspection, console capture, and breakpoint debugging.",
+  "source_repo": "CitiesSkylinesModding/coherent-gameface-agent-plugin",
+  "source_url": "https://github.com/CitiesSkylinesModding/coherent-gameface-agent-plugin",
+  "install": "# git clone --depth 1 https://github.com/CitiesSkylinesModding/coherent-gameface-agent-plugin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "emotion-mcp",
+  "description": "Provides a dynamic emotion simulation system for AI character roleplay, based on Freudian psychodynamics, that analyzes dialogue content via LLM to adjust emotional metrics in real-time.",
+  "source_repo": "yaoxiaolinglong/emotion-mcp",
+  "source_url": "https://github.com/yaoxiaolinglong/emotion-mcp",
+  "install": "npx -y emotion-mcp"
+}

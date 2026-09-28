@@ -1,0 +1,7 @@
+{
+  "name": "ptc-fs-mcp",
+  "description": "A small filesystem MCP server that reads and writes files under one confined root over stdio, with paginated tools and strict change-detection. It enables safe, deterministic file access for agentic runtimes and MCP clients.",
+  "source_repo": "andreasronge/ptc-fs-mcp",
+  "source_url": "https://github.com/andreasronge/ptc-fs-mcp",
+  "install": "npx -y ptc-fs-mcp"
+}

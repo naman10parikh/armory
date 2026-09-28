@@ -1,0 +1,7 @@
+{
+  "name": "windows98-mcp",
+  "description": "Controls a real Windows 98 VM through 47 MCP tools, enabling screenshots, mouse/keyboard input, command execution, and file transfers.",
+  "source_repo": "ido-pluto/windows98-mcp",
+  "source_url": "https://github.com/ido-pluto/windows98-mcp",
+  "install": "npx -y windows98-mcp"
+}

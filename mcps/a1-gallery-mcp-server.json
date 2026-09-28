@@ -1,0 +1,7 @@
+{
+  "name": "a1-gallery-mcp-server",
+  "description": "Provides curated real website design references with structured JSON data on type, spacing, palette, and layout. Enables AI agents to search, browse, and analyze over 1,000 sites and their sections.",
+  "source_repo": "bryntay/a1-mcp",
+  "source_url": "https://github.com/bryntay/a1-mcp",
+  "install": "npx -y a1-mcp"
+}

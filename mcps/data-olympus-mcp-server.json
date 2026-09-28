@@ -1,0 +1,7 @@
+{
+  "name": "data-olympus-mcp-server",
+  "description": "Provides a single-writer MCP server for a governance-grade knowledge base of markdown documents with version control and query capabilities.",
+  "source_repo": "knaisoma/data-olympus",
+  "source_url": "https://github.com/knaisoma/data-olympus",
+  "install": "# git clone --depth 1 https://github.com/knaisoma/data-olympus\n# See source for mcpServers config block"
+}

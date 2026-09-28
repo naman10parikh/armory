@@ -1,0 +1,7 @@
+{
+  "name": "agent-jail-mcp",
+  "description": "Provides MCP tools for managing disposable Docker sandboxes that let AI agents safely execute commands in isolated, ephemeral environments.",
+  "source_repo": "idiscoord13-sketch/agent-jail-mcp",
+  "source_url": "https://github.com/idiscoord13-sketch/agent-jail-mcp",
+  "install": "npx -y agent-jail-mcp"
+}

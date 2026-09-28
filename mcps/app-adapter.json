@@ -1,0 +1,7 @@
+{
+  "name": "app-adapter",
+  "description": "An MCP server that translates human GUI actions into machine-executable commands, enabling AI agents to control real software applications like Zoom, Excel, and WeChat via natural language or API calls.",
+  "source_repo": "codenoob-jacky/app-adapter",
+  "source_url": "https://github.com/codenoob-jacky/app-adapter",
+  "install": "# git clone --depth 1 https://github.com/codenoob-jacky/app-adapter\n# See source for mcpServers config block"
+}

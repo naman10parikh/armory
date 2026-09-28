@@ -1,0 +1,7 @@
+{
+  "name": "local-document-rag-agent",
+  "description": "MCP server enabling Claude Desktop to answer questions from local Word and PDF documents by searching a vector index built from their contents.",
+  "source_repo": "iupulk/local-document-rag-agent",
+  "source_url": "https://github.com/iupulk/local-document-rag-agent",
+  "install": "# git clone --depth 1 https://github.com/iupulk/local-document-rag-agent\n# See source for mcpServers config block"
+}

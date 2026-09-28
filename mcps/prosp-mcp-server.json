@@ -1,0 +1,7 @@
+{
+  "name": "prosp-mcp-server",
+  "description": "MCP server for Prosp.ai LinkedIn outreach automation. Manage leads, campaigns, messaging, and analytics programmatically.",
+  "source_repo": "AvolveAi/prosp-mcp",
+  "source_url": "https://github.com/AvolveAi/prosp-mcp",
+  "install": "npx -y prosp-mcp"
+}

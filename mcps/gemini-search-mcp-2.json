@@ -1,0 +1,7 @@
+{
+  "name": "gemini-search-mcp-2",
+  "description": "MCP server for web search powered by Google AI Mode (Gemini). Enables any AI agent to search the web in real-time for free and without rate limits.",
+  "source_repo": "Sophomoresty/gemini-search-mcp",
+  "source_url": "https://github.com/Sophomoresty/gemini-search-mcp",
+  "install": "npx -y gemini-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gcloud-adc-proxy",
+  "description": "An auth proxy that forwards requests to remote MCP servers, attaching Google Cloud ADC tokens for authentication. It enables secure access to IAM-protected services like Cloud Run.",
+  "source_repo": "yukukotani/mcp-gcloud-adc-proxy",
+  "source_url": "https://github.com/yukukotani/mcp-gcloud-adc-proxy",
+  "install": "# git clone --depth 1 https://github.com/yukukotani/mcp-gcloud-adc-proxy\n# See source for mcpServers config block"
+}

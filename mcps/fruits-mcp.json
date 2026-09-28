@@ -1,0 +1,7 @@
+{
+  "name": "fruits-mcp",
+  "description": "Enables management of Product Fruits knowledge base articles, categories, and images through natural language commands via MCP.",
+  "source_repo": "lucassampsouza/fruits-mcp",
+  "source_url": "https://github.com/lucassampsouza/fruits-mcp",
+  "install": "npx -y fruits-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "colors-mcp-server",
+  "description": "A simple color utility MCP server for frontend developers. Convert, mix, adjust, and analyze colors right from your AI agents.",
+  "source_repo": "HtetOoWaiYan/colors-mcp-server",
+  "source_url": "https://github.com/HtetOoWaiYan/colors-mcp-server",
+  "install": "npx -y colors-mcp-server"
+}

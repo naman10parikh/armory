@@ -1,0 +1,7 @@
+{
+  "name": "swatgenx-mcp-server",
+  "description": "Enables search and retrieval of calibrated SWAT+ watershed models, national groundwater lithology and PFAS inventories, plus API-key-secured ordering and downloading of custom watershed models.",
+  "source_repo": "SWATGenX/swatgenx-mcp",
+  "source_url": "https://github.com/SWATGenX/swatgenx-mcp",
+  "install": "npx -y swatgenx-mcp"
+}

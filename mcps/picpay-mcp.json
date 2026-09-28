@@ -1,0 +1,7 @@
+{
+  "name": "picpay-mcp",
+  "description": "Connect your PicPay account to Claude, ChatGPT, and AI agents via Open Finance Brazil to query balances, statements, credit card bills, and investments in natural language. Read-only.",
+  "source_repo": "mcp-dir/picpay-mcp",
+  "source_url": "https://github.com/mcp-dir/picpay-mcp",
+  "install": "npx -y picpay-mcp"
+}

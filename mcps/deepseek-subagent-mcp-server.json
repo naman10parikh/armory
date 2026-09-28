@@ -1,0 +1,7 @@
+{
+  "name": "deepseek-subagent-mcp-server",
+  "description": "Lets MCP clients like Codex delegate independent sub-tasks to DeepSeek as a sub-agent via a single tool, with optional context, custom system prompts, and configurable model/temperature settings.",
+  "source_repo": "kira4094/deepseek-subagent-mcp-server",
+  "source_url": "https://github.com/kira4094/deepseek-subagent-mcp-server",
+  "install": "npx -y deepseek-subagent-mcp-server"
+}

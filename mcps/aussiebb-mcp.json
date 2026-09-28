@@ -1,0 +1,7 @@
+{
+  "name": "aussiebb-mcp",
+  "description": "MCP server for Aussie Broadband NBN diagnostics, enabling AI assistants to run connection tests, check outages, speed tests, and fault tickets via the MyAussie API.",
+  "source_repo": "snickery/aussiebb-mcp",
+  "source_url": "https://github.com/snickery/aussiebb-mcp",
+  "install": "npx -y aussiebb-mcp"
+}

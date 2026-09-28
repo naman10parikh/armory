@@ -1,0 +1,7 @@
+{
+  "name": "vibecheck",
+  "description": "Agent-native \"safe to ship?\" security gate for AI-generated code. Uses real parsers and inter-rocedural taint analysis (JS/TS, Python, Go) to flag the classes AI coding agents get wrong — secrets, SQL injection, SS, SSRF, path traversal, command injection, weak JWT/CORS — and ranks findings by confi",
+  "source_repo": "ArisRhiannon/vibecheck",
+  "source_url": "https://github.com/ArisRhiannon/vibecheck",
+  "install": "# git clone --depth 1 https://github.com/ArisRhiannon/vibecheck\n# See source for mcpServers config block"
+}

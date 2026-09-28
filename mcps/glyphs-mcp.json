@@ -1,0 +1,7 @@
+{
+  "name": "glyphs-mcp",
+  "description": "MCP bridge for AI-assisted type design in GlyphsApp. Lets Claude, Cursor, or any MCP client read and write font data directly in GlyphsApp — bidirectional, real-time, live in the editor.",
+  "source_repo": "nmassi/glyphs-mcp",
+  "source_url": "https://github.com/nmassi/glyphs-mcp",
+  "install": "npx -y glyphs-mcp"
+}

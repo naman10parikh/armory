@@ -1,0 +1,7 @@
+{
+  "name": "scopus-mcp",
+  "description": "Enables AI agents to search and retrieve academic papers, author profiles, and citation data from the Scopus database via MCP tools.",
+  "source_repo": "JOSETRA44/scopus-mcp",
+  "source_url": "https://github.com/JOSETRA44/scopus-mcp",
+  "install": "npx -y scopus-mcp"
+}

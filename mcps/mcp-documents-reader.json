@@ -1,0 +1,7 @@
+{
+  "name": "mcp-documents-reader",
+  "description": "Enables AI agents to read documents in Excel, DOCX, PDF, and TXT formats via MCP protocol.",
+  "source_repo": "xt765/mcp_documents_reader",
+  "source_url": "https://github.com/xt765/mcp_documents_reader",
+  "install": "# git clone --depth 1 https://github.com/xt765/mcp_documents_reader\n# See source for mcpServers config block"
+}

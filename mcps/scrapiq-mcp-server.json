@@ -1,0 +1,7 @@
+{
+  "name": "scrapiq-mcp-server",
+  "description": "MCP server for Scrapiq, providing a tool to extract clean content from URLs. It returns title, content, links, and metadata in text, markdown, or JSON formats.",
+  "source_repo": "NG-PR0JECT/scrapiq-mcp-server",
+  "source_url": "https://github.com/NG-PR0JECT/scrapiq-mcp-server",
+  "install": "npx -y scrapiq-mcp-server"
+}

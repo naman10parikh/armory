@@ -1,0 +1,7 @@
+{
+  "name": "io-github-zengineco-gonzalgo",
+  "description": "Enables auditing formal libraries (Lean 4/Mathlib and Metamath) to trace axiom dependencies, find theorems resting on sorry or compiler trust, and analyze the impact of changes.",
+  "source_repo": "zengineco/gonzalgo",
+  "source_url": "https://github.com/zengineco/gonzalgo",
+  "install": "# git clone --depth 1 https://github.com/zengineco/gonzalgo\n# See source for mcpServers config block"
+}

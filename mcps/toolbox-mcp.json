@@ -1,0 +1,7 @@
+{
+  "name": "toolbox-mcp",
+  "description": "Enables name validation, arithmetic evaluation, shape identification from images, syllabus study material lookup, and graph-based route optimization with tolls.",
+  "source_repo": "pslimmm/ubs-2026-mcp",
+  "source_url": "https://github.com/pslimmm/ubs-2026-mcp",
+  "install": "npx -y ubs-2026-mcp"
+}

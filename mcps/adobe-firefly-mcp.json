@@ -1,0 +1,7 @@
+{
+  "name": "adobe-firefly-mcp",
+  "description": "Local MCP server that uses Playwright browser automation to enable Claude Code to generate images, create variations, expand, and remove backgrounds via Adobe Firefly, requiring manual sign-in once.",
+  "source_repo": "peroxide-dev/adobe-firefly-mcp",
+  "source_url": "https://github.com/peroxide-dev/adobe-firefly-mcp",
+  "install": "npx -y adobe-firefly-mcp"
+}

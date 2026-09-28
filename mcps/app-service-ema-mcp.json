@@ -1,0 +1,7 @@
+{
+  "name": "app-service-ema-mcp",
+  "description": "Enables enterprise-managed authorization for MCP on Azure App Service, with deployable Entra OAuth and a local EMA ID-JAG lab exposing whoami and authorization_model tools.",
+  "source_repo": "seligj95/app-service-ema-mcp",
+  "source_url": "https://github.com/seligj95/app-service-ema-mcp",
+  "install": "npx -y app-service-ema-mcp"
+}

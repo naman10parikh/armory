@@ -1,0 +1,7 @@
+{
+  "name": "affinity-mcp-proxy",
+  "description": "Proxies the local Affinity MCP server over stdio, enabling tools to call Affinity's tools like execute_script and search_sdk_hints via MCP.",
+  "source_repo": "MaddozS/affinity-mcp-proxy",
+  "source_url": "https://github.com/MaddozS/affinity-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/MaddozS/affinity-mcp-proxy\n# See source for mcpServers config block"
+}

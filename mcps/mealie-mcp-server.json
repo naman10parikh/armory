@@ -1,0 +1,7 @@
+{
+  "name": "mealie-mcp-server",
+  "description": "An MCP server for managing recipes, meal plans, shopping lists, and more through a self-hosted Mealie instance.",
+  "source_repo": "GraysonCAdams/mealie-mcp",
+  "source_url": "https://github.com/GraysonCAdams/mealie-mcp",
+  "install": "npx -y mealie-mcp"
+}

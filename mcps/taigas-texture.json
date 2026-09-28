@@ -1,0 +1,7 @@
+{
+  "name": "taigas-texture",
+  "description": "MCP server for procedural material generation and inspection via a deterministic Texture DSL, exposing tools to list, validate, render, and multiscale-inspect materials.",
+  "source_repo": "kawaiiTaiga/taigas-texture",
+  "source_url": "https://github.com/kawaiiTaiga/taigas-texture",
+  "install": "# git clone --depth 1 https://github.com/kawaiiTaiga/taigas-texture\n# See source for mcpServers config block"
+}

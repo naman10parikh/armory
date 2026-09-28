@@ -1,0 +1,7 @@
+{
+  "name": "workhours-calendar-mcp-server",
+  "description": "Enables tracking worked hours by client, project, and task, with monthly/daily reports and natural language interaction through Claude.",
+  "source_repo": "gifflet/workhours-calendar",
+  "source_url": "https://github.com/gifflet/workhours-calendar",
+  "install": "# git clone --depth 1 https://github.com/gifflet/workhours-calendar\n# See source for mcpServers config block"
+}

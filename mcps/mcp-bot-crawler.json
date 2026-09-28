@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bot-crawler",
+  "description": "Discovers, identifies, and governs bots on your website with MCP tools for scanning, analyzing, and managing bot traffic.",
+  "source_repo": "MeruLocal/HelloGrowthCRMwebsite_MCP",
+  "source_url": "https://github.com/MeruLocal/HelloGrowthCRMwebsite_MCP",
+  "install": "npx -y HelloGrowthCRMwebsite_MCP"
+}

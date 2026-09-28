@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-ukraine-payments-mcp",
+  "description": "Enables AI agents to accept payments in Ukraine via LiqPay (cards, Apple Pay, Google Pay). Provides tools to create hosted checkout links and query payment status.",
+  "source_repo": "junter1989k-ai/ukraine-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/ukraine-payments-mcp",
+  "install": "npx -y ukraine-payments-mcp"
+}

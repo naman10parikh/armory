@@ -1,0 +1,7 @@
+{
+  "name": "fastmcp-langgraph-webinar-demo",
+  "description": "Provides six tools including web search, URL fetching, calculator, and note management for use with LangGraph agents or manual testing via terminal.",
+  "source_repo": "RichaG-cyber/MCP_LG",
+  "source_url": "https://github.com/RichaG-cyber/MCP_LG",
+  "install": "# git clone --depth 1 https://github.com/RichaG-cyber/MCP_LG\n# See source for mcpServers config block"
+}

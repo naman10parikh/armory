@@ -1,0 +1,7 @@
+{
+  "name": "canonical-vault-mcp-server",
+  "description": "Enables read-only access to the canonical-vault GitHub repository through MCP, letting clients list files, retrieve file contents and history, inspect commits, and search code.",
+  "source_repo": "kushkillerjsixx66/canonical-vault-mcp-server",
+  "source_url": "https://github.com/kushkillerjsixx66/canonical-vault-mcp-server",
+  "install": "npx -y canonical-vault-mcp-server"
+}

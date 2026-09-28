@@ -1,0 +1,7 @@
+{
+  "name": "kylin-offline-mcp-echarts",
+  "description": "An MCP server for generating offline charts using Apache ECharts SVG SSR and rsvg-convert, optimized for Kylin ARM64 with 64KB page size.",
+  "source_repo": "54dabang/kylin-arm64-64kb-page-size-mcp",
+  "source_url": "https://github.com/54dabang/kylin-arm64-64kb-page-size-mcp",
+  "install": "npx -y kylin-arm64-64kb-page-size-mcp"
+}

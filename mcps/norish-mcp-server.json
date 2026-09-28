@@ -1,0 +1,7 @@
+{
+  "name": "norish-mcp-server",
+  "description": "A Model Context Protocol server that connects AI assistants to the Norish recipe management API for recipe browsing, meal planning, and grocery list management.",
+  "source_repo": "Kellojo/norish-mcp",
+  "source_url": "https://github.com/Kellojo/norish-mcp",
+  "install": "npx -y norish-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-blockchain",
+  "description": "An MCP server that exposes blockchain data as native tools for AI agents, enabling read-only queries like wallet balances and token holdings on Ethereum, Polygon, and Base.",
+  "source_repo": "shubhamdusane/mcp-blockchain",
+  "source_url": "https://github.com/shubhamdusane/mcp-blockchain",
+  "install": "# git clone --depth 1 https://github.com/shubhamdusane/mcp-blockchain\n# See source for mcpServers config block"
+}

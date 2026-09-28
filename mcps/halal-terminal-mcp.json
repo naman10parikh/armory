@@ -1,0 +1,7 @@
+{
+  "name": "halal-terminal-mcp",
+  "description": "Provides 22 tools for Shariah-compliant stock and ETF screening across 5 methodologies, portfolio auditing, zakat calculation, and live market data for AI agents.",
+  "source_repo": "goww7/halalterminal-mcp",
+  "source_url": "https://github.com/goww7/halalterminal-mcp",
+  "install": "npx -y halalterminal-mcp"
+}

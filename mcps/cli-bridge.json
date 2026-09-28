@@ -1,0 +1,7 @@
+{
+  "name": "cli-bridge",
+  "description": "An MCP server that bridges AI assistants to other CLI tools, enabling capabilities like large-context reads, vision, file generation, and cross-vendor verification without API keys.",
+  "source_repo": "JoaoBerne/cli-bridge-mcp",
+  "source_url": "https://github.com/JoaoBerne/cli-bridge-mcp",
+  "install": "npx -y cli-bridge-mcp"
+}

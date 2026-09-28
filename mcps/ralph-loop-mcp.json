@@ -1,0 +1,7 @@
+{
+  "name": "ralph-loop-mcp",
+  "description": "Automates a three-phase development workflow: planning, spec generation, and iterative task execution with verification.",
+  "source_repo": "hpractv/ralph-loop-mcp",
+  "source_url": "https://github.com/hpractv/ralph-loop-mcp",
+  "install": "npx -y ralph-loop-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "humanitarian-mcp",
+  "description": "Enables querying and analyzing humanitarian data, such as refugee statistics, through semantic tools like country comparisons, trend analysis, and report generation, using the UNHCR API.",
+  "source_repo": "ahmedvnabil/humanitarian-mcp",
+  "source_url": "https://github.com/ahmedvnabil/humanitarian-mcp",
+  "install": "npx -y humanitarian-mcp"
+}

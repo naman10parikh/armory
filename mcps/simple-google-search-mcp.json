@@ -1,0 +1,7 @@
+{
+  "name": "simple-google-search-mcp",
+  "description": "Enables Google search with advanced options (date, language, country, safe search) and webpage content extraction via the Model Context Protocol.",
+  "source_repo": "XRayZen/simple-google-search-mcp",
+  "source_url": "https://github.com/XRayZen/simple-google-search-mcp",
+  "install": "npx -y simple-google-search-mcp"
+}

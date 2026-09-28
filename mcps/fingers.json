@@ -1,0 +1,7 @@
+{
+  "name": "fingers",
+  "description": "Read-only checks on tokens, NFTs, wallets, contracts and tokenized stocks before an agent acts. Honeypot, peg, copycat, wallet risk. Deep Robinhood Chain coverage. Never your keys.",
+  "source_repo": "fingersaiofficial/fingers-mcp",
+  "source_url": "https://github.com/fingersaiofficial/fingers-mcp",
+  "install": "npx -y fingers-mcp"
+}

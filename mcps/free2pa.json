@@ -1,0 +1,7 @@
+{
+  "name": "free2pa",
+  "description": "Enables verification of agent control file provenance (signature, integrity, certificate, and trust group) via MCP tools before loading.",
+  "source_repo": "kilroyblockchain/free2pa-devtool",
+  "source_url": "https://github.com/kilroyblockchain/free2pa-devtool",
+  "install": "# git clone --depth 1 https://github.com/kilroyblockchain/free2pa-devtool\n# See source for mcpServers config block"
+}

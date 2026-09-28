@@ -1,0 +1,7 @@
+{
+  "name": "radiochron-mcp",
+  "description": "Provides AI assistants with local Wi-Fi diagnostics including connection history analysis, live signal sampling, and connectivity diagnosis. It returns findings and verdicts rather than raw data, and runs on Windows, Linux, and macOS without sending data off the machine.",
+  "source_repo": "sergii-ziborov/radiochron-mcp",
+  "source_url": "https://github.com/sergii-ziborov/radiochron-mcp",
+  "install": "npx -y radiochron-mcp"
+}

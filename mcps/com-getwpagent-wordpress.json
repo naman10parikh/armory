@@ -1,0 +1,7 @@
+{
+  "name": "com-getwpagent-wordpress",
+  "description": "Enables managing self-hosted WordPress sites via AI assistants, providing 69 tools for content creation, SEO, media, comments, and site management through the MCP protocol.",
+  "source_repo": "yaniv-fink/wp-agent-mcp",
+  "source_url": "https://github.com/yaniv-fink/wp-agent-mcp",
+  "install": "npx -y wp-agent-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pingpoint-freight-mcp-server",
+  "description": "Provides real-time freight tracking and load visibility for logistics and AI agents: create loads, get live GPS positions, trip stats, and confirm deliveries via geofenced statuses.",
+  "source_repo": "sudzikcoin/pingpoint-freight-mcp",
+  "source_url": "https://github.com/sudzikcoin/pingpoint-freight-mcp",
+  "install": "npx -y pingpoint-freight-mcp"
+}

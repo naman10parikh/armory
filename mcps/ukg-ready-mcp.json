@@ -1,0 +1,7 @@
+{
+  "name": "ukg-ready-mcp",
+  "description": "Enables interaction with UKG Ready REST endpoints for workforce management, including employees, timecards, exceptions, compensation, and saved reports via MCP.",
+  "source_repo": "MightyCMEMBRENO/UKG-MCP",
+  "source_url": "https://github.com/MightyCMEMBRENO/UKG-MCP",
+  "install": "npx -y UKG-MCP"
+}

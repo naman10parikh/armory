@@ -1,0 +1,7 @@
+{
+  "name": "agent-broker",
+  "description": "Enables multi-agent communication workflows with consensus arbitration, peer messaging, and operator-mediated collaboration through authenticated MCP tools.",
+  "source_repo": "strommy76/agent-broker",
+  "source_url": "https://github.com/strommy76/agent-broker",
+  "install": "# git clone --depth 1 https://github.com/strommy76/agent-broker\n# See source for mcpServers config block"
+}

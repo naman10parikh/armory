@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-ro-nfc-e-completa",
+  "description": "Consulta NFC-e em fonte oficial da SEFAZ RO, com ferramenta somente leitura e pagamento por uso via crédito pré-pago.",
+  "source_repo": "mcp-dir/sefaz_ro_nfce_completa-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_ro_nfce_completa-mcp",
+  "install": "npx -y sefaz_ro_nfce_completa-mcp"
+}

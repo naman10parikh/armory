@@ -1,0 +1,7 @@
+{
+  "name": "kaminari-click-mcp-server",
+  "description": "Enables querying traffic-quality statistics, managing reports, and downloading IP/UA risk databases via MCP.",
+  "source_repo": "kaminari-click/mcp",
+  "source_url": "https://github.com/kaminari-click/mcp",
+  "install": "# git clone --depth 1 https://github.com/kaminari-click/mcp\n# See source for mcpServers config block"
+}

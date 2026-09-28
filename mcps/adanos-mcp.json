@@ -1,0 +1,7 @@
+{
+  "name": "adanos-mcp",
+  "description": "Enables querying market sentiment data, including daily panels, trending tickers, and cross-source sentiment, via the Adanos API.",
+  "source_repo": "testproghub/adanos-mcp",
+  "source_url": "https://github.com/testproghub/adanos-mcp",
+  "install": "npx -y adanos-mcp"
+}

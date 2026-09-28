@@ -1,0 +1,7 @@
+{
+  "name": "inflow-inventory-mcp-server",
+  "description": "Enables AI assistants to manage inFlow Inventory, including products, sales orders, purchase orders, customers, vendors, inventory operations, serial numbers, and webhooks through natural language.",
+  "source_repo": "bigl34/inflow-mcp-server",
+  "source_url": "https://github.com/bigl34/inflow-mcp-server",
+  "install": "npx -y inflow-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "geosphere-mcp-server",
+  "description": "MCP server for worldwide weather data, using high-resolution GeoSphere Austria data for the Alpine region and Open-Meteo elsewhere. Provides current conditions, hourly forecasts, and daily outlooks with compact emoji-markdown output.",
+  "source_repo": "slettmayer/geosphere-mcp-server",
+  "source_url": "https://github.com/slettmayer/geosphere-mcp-server",
+  "install": "npx -y geosphere-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "calculator-mcp-server-3",
+  "description": "A calculator-focused MCP server for learning NitroStack fundamentals, providing tools, resources, and prompts.",
+  "source_repo": "Asyncbot31/mcp",
+  "source_url": "https://github.com/Asyncbot31/mcp",
+  "install": "# git clone --depth 1 https://github.com/Asyncbot31/mcp\n# See source for mcpServers config block"
+}

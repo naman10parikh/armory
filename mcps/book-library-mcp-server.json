@@ -1,0 +1,7 @@
+{
+  "name": "book-library-mcp-server",
+  "description": "Enables Claude or any LLM to manage a book library via MCP tools, allowing listing, searching, creating, updating, and deleting books through natural language.",
+  "source_repo": "Abishek-0607/Library-Management-MCP",
+  "source_url": "https://github.com/Abishek-0607/Library-Management-MCP",
+  "install": "npx -y Library-Management-MCP"
+}

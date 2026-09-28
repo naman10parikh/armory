@@ -1,0 +1,7 @@
+{
+  "name": "web-developer-mcp-server",
+  "description": "Enables AI assistants to inspect web pages, monitor network requests, extract HTML, analyze console output, and examine DOM elements in real-time through a Playwright-powered browser.",
+  "source_repo": "Artmann/web-developer-mcp",
+  "source_url": "https://github.com/Artmann/web-developer-mcp",
+  "install": "npx -y web-developer-mcp"
+}

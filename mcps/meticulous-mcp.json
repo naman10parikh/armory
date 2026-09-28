@@ -1,0 +1,7 @@
+{
+  "name": "meticulous-mcp",
+  "description": "MCP server for controlling Meticulous espresso machines via Claude and other AI clients.",
+  "source_repo": "NatiCha/meticulous-mcp",
+  "source_url": "https://github.com/NatiCha/meticulous-mcp",
+  "install": "npx -y meticulous-mcp"
+}

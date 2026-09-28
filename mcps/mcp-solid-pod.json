@@ -1,0 +1,7 @@
+{
+  "name": "mcp-solid-pod",
+  "description": "MCP server for reading, searching, and optionally writing data in Solid Pods via LDP/RDF with headless client-credentials authentication.",
+  "source_repo": "memori-ai/mcp-solid-pod",
+  "source_url": "https://github.com/memori-ai/mcp-solid-pod",
+  "install": "# git clone --depth 1 https://github.com/memori-ai/mcp-solid-pod\n# See source for mcpServers config block"
+}

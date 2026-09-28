@@ -1,0 +1,7 @@
+{
+  "name": "willys-mcp-server",
+  "description": "An MCP server for Sweden's largest grocery chain Willys. Enables controlling your shopping cart, browsing orders, searching products, and getting AI-powered recommendations from any MCP client.",
+  "source_repo": "jimmystridh/willys-mcp",
+  "source_url": "https://github.com/jimmystridh/willys-mcp",
+  "install": "npx -y willys-mcp"
+}

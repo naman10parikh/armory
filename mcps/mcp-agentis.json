@@ -1,6 +1,6 @@
 {
   "name": "mcp-agentis",
-  "description": "Mcp Agentis MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "AgentisLabs/mcp-agentis",
   "source_url": "https://mcp.so/server/mcp-agentis/AgentisLabs",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-agentis/AgentisLabs\n# See source for mcpServers config block"

@@ -1,0 +1,7 @@
+{
+  "name": "trustpilot-reviews-api-mcp-server",
+  "description": "Enables retrieval of Trustpilot reviews as structured JSON, including ratings, dates, replies, and company metrics, with MCP support for AI agents.",
+  "source_repo": "johnisanerd/Apify-Trustpilot-Reviews-API",
+  "source_url": "https://github.com/johnisanerd/Apify-Trustpilot-Reviews-API",
+  "install": "# git clone --depth 1 https://github.com/johnisanerd/Apify-Trustpilot-Reviews-API\n# See source for mcpServers config block"
+}

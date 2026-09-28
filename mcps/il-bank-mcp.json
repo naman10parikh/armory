@@ -1,0 +1,7 @@
+{
+  "name": "il-bank-mcp",
+  "description": "Finance assistant that brings your Israeli bank data to any AI assistant, enabling transaction analysis, spending patterns, and financial insights.",
+  "source_repo": "glekner/il-bank-mcp",
+  "source_url": "https://github.com/glekner/il-bank-mcp",
+  "install": "npx -y il-bank-mcp"
+}

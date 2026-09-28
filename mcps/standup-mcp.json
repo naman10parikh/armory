@@ -1,0 +1,7 @@
+{
+  "name": "standup-mcp",
+  "description": "Generates daily standup drafts from your actual GitHub, Jira, Linear, and Slack activity, grouping work items and detecting blockers.",
+  "source_repo": "sathvic-kollu/standup-mcp",
+  "source_url": "https://github.com/sathvic-kollu/standup-mcp",
+  "install": "npx -y standup-mcp"
+}

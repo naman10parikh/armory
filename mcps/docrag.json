@@ -1,0 +1,7 @@
+{
+  "name": "docrag",
+  "description": "Provides RAG (Retrieval Augmented Generation) access to technical documentation through MCP, enabling LLMs to search and retrieve relevant documentation on-demand.",
+  "source_repo": "ryan-m-bishop/docrag",
+  "source_url": "https://github.com/ryan-m-bishop/docrag",
+  "install": "# git clone --depth 1 https://github.com/ryan-m-bishop/docrag\n# See source for mcpServers config block"
+}

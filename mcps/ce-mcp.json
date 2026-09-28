@@ -1,0 +1,7 @@
+{
+  "name": "ce-mcp",
+  "description": "Enables AI agents to programmatically control Cheat Engine for memory scanning, editing, cheat table management, and reverse engineering tasks.",
+  "source_repo": "IMRX44/MCP",
+  "source_url": "https://github.com/IMRX44/MCP",
+  "install": "# git clone --depth 1 https://github.com/IMRX44/MCP\n# See source for mcpServers config block"
+}

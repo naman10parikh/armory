@@ -1,0 +1,7 @@
+{
+  "name": "ble-fleet-mcp",
+  "description": "MCP server for managing large fleets of BLE devices with connection pooling, scheduling, retries, and partial-failure handling. Enables AI agents to run fleet-level reads/writes without worrying about radio connection limits.",
+  "source_repo": "JephinJose/ble-fleet-mcp",
+  "source_url": "https://github.com/JephinJose/ble-fleet-mcp",
+  "install": "npx -y ble-fleet-mcp"
+}

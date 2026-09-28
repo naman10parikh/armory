@@ -1,0 +1,7 @@
+{
+  "name": "mcptokens",
+  "description": "Provides tool to count token cost of any MCP server's tool definitions, enabling agents to assess cost before enabling.",
+  "source_repo": "dondai1234/mcptokens",
+  "source_url": "https://github.com/dondai1234/mcptokens",
+  "install": "# git clone --depth 1 https://github.com/dondai1234/mcptokens\n# See source for mcpServers config block"
+}

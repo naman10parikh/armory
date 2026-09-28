@@ -1,0 +1,7 @@
+{
+  "name": "notion-ai-chatbot-mcp-server",
+  "description": "Supercharges any Notion workspace with an AI chatbot and MCP server, enabling natural language interaction, search, summarization, and content generation.",
+  "source_repo": "Clickdzpro1/notion-mcp-chatbot",
+  "source_url": "https://github.com/Clickdzpro1/notion-mcp-chatbot",
+  "install": "# git clone --depth 1 https://github.com/Clickdzpro1/notion-mcp-chatbot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "discord-server-creator-mcp",
+  "description": "Gives AI agents full control over Discord server creation and configuration. Exposes 36 tools covering guild lifecycle, channels, roles, members, content, messages, templates, and a declarative blueprint engine.",
+  "source_repo": "ZepioCs/dc-server-creator-mcp",
+  "source_url": "https://github.com/ZepioCs/dc-server-creator-mcp",
+  "install": "npx -y dc-server-creator-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "local-mcp-server-expense-tracker",
+  "description": "A lightweight local MCP server that enables users to add, list, edit, and delete expenses via SQLite database through natural language in MCP-compatible clients.",
+  "source_repo": "MOKSH0077/Local-MCP-Server-Expense-Tracker",
+  "source_url": "https://github.com/MOKSH0077/Local-MCP-Server-Expense-Tracker",
+  "install": "# git clone --depth 1 https://github.com/MOKSH0077/Local-MCP-Server-Expense-Tracker\n# See source for mcpServers config block"
+}

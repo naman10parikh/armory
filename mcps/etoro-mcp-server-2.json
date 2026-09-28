@@ -1,0 +1,7 @@
+{
+  "name": "etoro-mcp-server-2",
+  "description": "A security-hardened MCP server that wraps the eToro public API, enabling AI assistants to trade, access market data, manage portfolios, and interact with social feeds via 34 tools.",
+  "source_repo": "ranjanvipul88/etoro-mcp",
+  "source_url": "https://github.com/ranjanvipul88/etoro-mcp",
+  "install": "npx -y etoro-mcp"
+}

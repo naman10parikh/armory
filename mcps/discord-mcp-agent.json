@@ -1,0 +1,7 @@
+{
+  "name": "discord-mcp-agent",
+  "description": "A Model Context Protocol (MCP) server for Discord-based AI agent-user communication. Enables AI agents to communicate with users through Discord instead of IDE chat interfaces.",
+  "source_repo": "zebbern/discord-mcp-agent",
+  "source_url": "https://github.com/zebbern/discord-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/zebbern/discord-mcp-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "daml-canton-docs-mcp",
+  "description": "Builds and serves local MCP-searchable documentation indexes for Daml, Canton, and related projects, enabling search and query of documentation through MCP tools.",
+  "source_repo": "stevennevins/daml-docs-mcp",
+  "source_url": "https://github.com/stevennevins/daml-docs-mcp",
+  "install": "npx -y daml-docs-mcp"
+}

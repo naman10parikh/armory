@@ -1,0 +1,7 @@
+{
+  "name": "aionis-mcp-server",
+  "description": "Bridges Aionis execution memory to MCP clients, enabling governed memory context for AI agents.",
+  "source_repo": "ostinatocc/aionis-mcp",
+  "source_url": "https://github.com/ostinatocc/aionis-mcp",
+  "install": "npx -y aionis-mcp"
+}

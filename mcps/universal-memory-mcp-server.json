@@ -1,0 +1,7 @@
+{
+  "name": "universal-memory-mcp-server",
+  "description": "A portable MCP server providing a shared intelligent memory system for any MCP-compatible AI tool, enabling storage, retrieval, extraction, and governance of memories across sessions.",
+  "source_repo": "DevMinions/universal-memory-mcp",
+  "source_url": "https://github.com/DevMinions/universal-memory-mcp",
+  "install": "npx -y universal-memory-mcp"
+}

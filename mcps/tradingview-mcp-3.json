@@ -1,0 +1,7 @@
+{
+  "name": "tradingview-mcp-3",
+  "description": "MCP server that connects AI assistants to TradingView Desktop via Chrome DevTools Protocol, enabling chart analysis, Pine Script development, and workflow automation through natural language.",
+  "source_repo": "lexasanych1984-ux/tradingview-mcp",
+  "source_url": "https://github.com/lexasanych1984-ux/tradingview-mcp",
+  "install": "npx -y tradingview-mcp"
+}

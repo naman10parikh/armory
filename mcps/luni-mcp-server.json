@@ -1,0 +1,7 @@
+{
+  "name": "luni-mcp-server",
+  "description": "MCP server that lets Claude read live financial data from Luni, including personal transactions, budgets, and business P\\&L, cash flow, and partner distributions, by connecting to the Luni backend API.",
+  "source_repo": "rorygeddes/luni_mcp",
+  "source_url": "https://github.com/rorygeddes/luni_mcp",
+  "install": "npx -y luni_mcp"
+}

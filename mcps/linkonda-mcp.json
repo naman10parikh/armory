@@ -1,0 +1,7 @@
+{
+  "name": "linkonda-mcp",
+  "description": "MCP server for creating and managing Linkonda short links, supporting anonymous use without an API key and full link management with a key, while collecting only total redirect counts for privacy.",
+  "source_repo": "Verano-DE/linkonda-mcp",
+  "source_url": "https://github.com/Verano-DE/linkonda-mcp",
+  "install": "npx -y linkonda-mcp"
+}

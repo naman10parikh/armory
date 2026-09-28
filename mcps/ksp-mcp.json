@@ -1,0 +1,7 @@
+{
+  "name": "ksp-mcp",
+  "description": "Enables searching and browsing products on KSP.co.il, one of Israel's largest electronics and retail stores, using natural language.",
+  "source_repo": "guymon92/ksp-mcp",
+  "source_url": "https://github.com/guymon92/ksp-mcp",
+  "install": "npx -y ksp-mcp"
+}

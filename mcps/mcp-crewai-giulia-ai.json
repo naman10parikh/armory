@@ -1,0 +1,7 @@
+{
+  "name": "mcp-crewai-giulia-ai",
+  "description": "MCP server enabling text-to-SQL on PostgreSQL databases using a CrewAI multi-agent system. It generates and executes read-only SQL queries from natural language, with security layers against prompt injection.",
+  "source_repo": "wganalytics/mcp-crewai-giulia-ai",
+  "source_url": "https://github.com/wganalytics/mcp-crewai-giulia-ai",
+  "install": "# git clone --depth 1 https://github.com/wganalytics/mcp-crewai-giulia-ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "debugmcp",
+  "description": "Enables AI agents to debug code inside VS Code by setting breakpoints, stepping through execution, inspecting variables, and evaluating expressions across multiple languages.",
+  "source_repo": "microsoft/DebugMCP",
+  "source_url": "https://github.com/microsoft/DebugMCP",
+  "install": "# git clone --depth 1 https://github.com/microsoft/DebugMCP\n# See source for mcpServers config block"
+}

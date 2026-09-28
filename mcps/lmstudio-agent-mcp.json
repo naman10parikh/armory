@@ -1,0 +1,7 @@
+{
+  "name": "lmstudio-agent-mcp",
+  "description": "Provides local agent capabilities for LM Studio including file I/O, terminal execution, and web search.",
+  "source_repo": "oemoem12/lmstudio-agent-mcp",
+  "source_url": "https://github.com/oemoem12/lmstudio-agent-mcp",
+  "install": "npx -y lmstudio-agent-mcp"
+}

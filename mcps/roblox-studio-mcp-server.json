@@ -1,0 +1,7 @@
+{
+  "name": "roblox-studio-mcp-server",
+  "description": "A free, open-source MCP server that lets Claude, Cursor, Codex, or Gemini operate Roblox Studio — debug live playtests, bulk-edit places, and scaffold whole games — with a built-in safety layer.",
+  "source_repo": "princeofscale/robloxstudio-mcp",
+  "source_url": "https://github.com/princeofscale/robloxstudio-mcp",
+  "install": "npx -y robloxstudio-mcp"
+}

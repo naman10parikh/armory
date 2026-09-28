@@ -1,0 +1,7 @@
+{
+  "name": "steel-tester",
+  "description": "Enables AI assistants to control an internal Steel Browser via CLI or MCP, allowing URL navigation, session management, and screenshot capture.",
+  "source_repo": "ywf2016/steel-tester",
+  "source_url": "https://github.com/ywf2016/steel-tester",
+  "install": "# git clone --depth 1 https://github.com/ywf2016/steel-tester\n# See source for mcpServers config block"
+}

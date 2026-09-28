@@ -1,0 +1,7 @@
+{
+  "name": "ai-sticky-notes",
+  "description": "Lightweight MCP server for adding, reading, and summarizing sticky notes persisted in a local file.",
+  "source_repo": "Thaiebu/mcp_not_taking_app_with_claude",
+  "source_url": "https://github.com/Thaiebu/mcp_not_taking_app_with_claude",
+  "install": "# git clone --depth 1 https://github.com/Thaiebu/mcp_not_taking_app_with_claude\n# See source for mcpServers config block"
+}

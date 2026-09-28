@@ -1,0 +1,7 @@
+{
+  "name": "lhk714-bazi-mcp",
+  "description": "Enables calculation of Four Pillars of Destiny (BaZi) charts using true solar time and a global geographic database, providing pillars, Da Yun, and branch interactions for any location and time.",
+  "source_repo": "listen-hai/bazi-mcp",
+  "source_url": "https://github.com/listen-hai/bazi-mcp",
+  "install": "npx -y bazi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "safe-link-visual-mcp",
+  "description": "Checks URLs for phishing risks using URL, DNS, HTTP, HTML, and mobile rendering signals, and provides a 1024x1024 PNG visual summary of the page.",
+  "source_repo": "studyreadbook4ever/safe-link-visual-mcp",
+  "source_url": "https://github.com/studyreadbook4ever/safe-link-visual-mcp",
+  "install": "npx -y safe-link-visual-mcp"
+}

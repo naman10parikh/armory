@@ -1,0 +1,7 @@
+{
+  "name": "tg-recall-mcp",
+  "description": "Local-first, read-only MCP server for searching and retrieving cited evidence from archived Telegram chats, including transcripts and media metadata.",
+  "source_repo": "Rerowros/tg-recall",
+  "source_url": "https://github.com/Rerowros/tg-recall",
+  "install": "# git clone --depth 1 https://github.com/Rerowros/tg-recall\n# See source for mcpServers config block"
+}

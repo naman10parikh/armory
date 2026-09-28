@@ -1,0 +1,7 @@
+{
+  "name": "openbusdata",
+  "description": "MCP server for the UK Bus Open Data Service, enabling timetable queries, stop search, route discovery, journey planning, and real-time bus tracking.",
+  "source_repo": "AndrewAubury/openbusdata-mcp",
+  "source_url": "https://github.com/AndrewAubury/openbusdata-mcp",
+  "install": "npx -y openbusdata-mcp"
+}

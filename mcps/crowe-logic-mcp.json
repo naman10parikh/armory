@@ -1,0 +1,7 @@
+{
+  "name": "crowe-logic-mcp",
+  "description": "MCP server for the Crowe Logic platform, enabling mycology expertise chat, cultivation photo analysis, grow log management, and SOP generation.",
+  "source_repo": "MichaelCrowe11/crowe-logic-mcp",
+  "source_url": "https://github.com/MichaelCrowe11/crowe-logic-mcp",
+  "install": "npx -y crowe-logic-mcp"
+}

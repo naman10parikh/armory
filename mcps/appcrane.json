@@ -1,0 +1,7 @@
+{
+  "name": "appcrane",
+  "description": "AppCrane is the self-hosted home for the apps your AI builds and your AI deploys. It exposes 35 appcrane_* MCP tools so any MCP client (Claude Code, Cursor, Codex) can run the full deploy lifecycle — create app, deploy to sandbox/production, manage secrets, stream logs, list releases, roll back — ev",
+  "source_repo": "gitayg/appCrane",
+  "source_url": "https://github.com/gitayg/appCrane",
+  "install": "# git clone --depth 1 https://github.com/gitayg/appCrane\n# See source for mcpServers config block"
+}

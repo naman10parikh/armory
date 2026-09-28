@@ -1,0 +1,7 @@
+{
+  "name": "atomic-mail-agentic",
+  "description": "Read and write email through the Atomic Mail from an AI agent. Handles proof-of-work authentication and JMAP so the agent thinks in JMAP method calls. Use when the user asks to register an email inbox, list mailboxes, fetch or send email.",
+  "source_repo": "Atomic-Mail/atomic-mail-agentic",
+  "source_url": "https://github.com/Atomic-Mail/atomic-mail-agentic",
+  "install": "# git clone --depth 1 https://github.com/Atomic-Mail/atomic-mail-agentic\n# See source for mcpServers config block"
+}

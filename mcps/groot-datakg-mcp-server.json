@@ -1,0 +1,7 @@
+{
+  "name": "groot-datakg-mcp-server",
+  "description": "MCP server for enabling data extraction and context retrieval for agents, storing information in a knowledge graph using Amazon Neptune or FalkorDB.",
+  "source_repo": "bertinm/groot-data-kg-mcp",
+  "source_url": "https://github.com/bertinm/groot-data-kg-mcp",
+  "install": "npx -y groot-data-kg-mcp"
+}

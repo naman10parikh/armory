@@ -1,0 +1,7 @@
+{
+  "name": "codesight",
+  "description": "Provides 13 MCP tools for codebase analysis, wiki generation, and knowledge mapping, enabling AI assistants to understand project structure and context efficiently.",
+  "source_repo": "Houseofmvps/codesight",
+  "source_url": "https://github.com/Houseofmvps/codesight",
+  "install": "# git clone --depth 1 https://github.com/Houseofmvps/codesight\n# See source for mcpServers config block"
+}

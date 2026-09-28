@@ -1,0 +1,7 @@
+{
+  "name": "page-vision-mcp",
+  "description": "Provides structured visual analysis tools for coding agents, enabling UI analysis, screenshot comparison, OCR, and crop-based refinement through VLM.",
+  "source_repo": "666666999999666/page-vision-mcp",
+  "source_url": "https://github.com/666666999999666/page-vision-mcp",
+  "install": "npx -y page-vision-mcp"
+}

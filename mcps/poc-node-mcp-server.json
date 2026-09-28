@@ -1,0 +1,7 @@
+{
+  "name": "poc-node-mcp-server",
+  "description": "A proof-of-concept MCP server for learning and testing, providing basic arithmetic and weather tools, along with greeting and user profile resources.",
+  "source_repo": "slicequeue/poc-node-mcp-server",
+  "source_url": "https://github.com/slicequeue/poc-node-mcp-server",
+  "install": "npx -y poc-node-mcp-server"
+}

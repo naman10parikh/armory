@@ -1,0 +1,7 @@
+{
+  "name": "dub-mcp",
+  "description": "A Model Context Protocol server for Dub that enables creating, updating, deleting short links and retrieving link analytics through natural language.",
+  "source_repo": "iamperegrine/dub-mcp",
+  "source_url": "https://github.com/iamperegrine/dub-mcp",
+  "install": "npx -y dub-mcp"
+}

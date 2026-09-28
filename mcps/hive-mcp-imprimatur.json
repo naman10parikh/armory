@@ -1,0 +1,7 @@
+{
+  "name": "hive-mcp-imprimatur",
+  "description": "Pre-attestation gate for AI inference that checks compliance conditions and issues Ed25519-signed clearances before execution, refusing any inference without a valid clearance.",
+  "source_repo": "srotzin/hive-mcp-imprimatur",
+  "source_url": "https://github.com/srotzin/hive-mcp-imprimatur",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-imprimatur\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-mcp-server",
+  "description": "A forkable RAG project with an MCP server for VS Code/Copilot, enabling indexing and querying of knowledge from URLs, PDFs, or TeX files.",
+  "source_repo": "NumericalPie/knowledge-mcp-server",
+  "source_url": "https://github.com/NumericalPie/knowledge-mcp-server",
+  "install": "npx -y knowledge-mcp-server"
+}

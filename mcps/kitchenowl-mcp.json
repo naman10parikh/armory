@@ -1,0 +1,7 @@
+{
+  "name": "kitchenowl-mcp",
+  "description": "Enables AI assistants to manage KitchenOwl shopping lists, recipes, meal plans, and shared expenses via a standalone MCP server with streamable HTTP transport.",
+  "source_repo": "Harpune/mcp-kitchenowl",
+  "source_url": "https://github.com/Harpune/mcp-kitchenowl",
+  "install": "# git clone --depth 1 https://github.com/Harpune/mcp-kitchenowl\n# See source for mcpServers config block"
+}

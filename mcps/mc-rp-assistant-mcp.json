@@ -1,0 +1,7 @@
+{
+  "name": "mc-rp-assistant-mcp",
+  "description": "Enables reading, validating, and managing Minecraft resource packs, including structure checks, asset listing, pack comparison, and Modrinth queries.",
+  "source_repo": "dcd887/mc-rp-assistant-mcp",
+  "source_url": "https://github.com/dcd887/mc-rp-assistant-mcp",
+  "install": "npx -y mc-rp-assistant-mcp"
+}

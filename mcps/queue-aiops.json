@@ -1,0 +1,7 @@
+{
+  "name": "queue-aiops",
+  "description": "Governed Redis + RabbitMQ middleware operations — memory-pressure, latency, backlog, and churn RCA, with guarded queue/key writes, unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.",
+  "source_repo": "AIops-tools/Queue-AIops",
+  "source_url": "https://github.com/AIops-tools/Queue-AIops",
+  "install": "# git clone --depth 1 https://github.com/AIops-tools/Queue-AIops\n# See source for mcpServers config block"
+}

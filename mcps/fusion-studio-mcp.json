@@ -1,0 +1,7 @@
+{
+  "name": "fusion-studio-mcp",
+  "description": "MCP server for inspecting and controlling Blackmagic Fusion Studio through its scripting API.",
+  "source_repo": "bigsbypuglise/fusion-studio-mcp",
+  "source_url": "https://github.com/bigsbypuglise/fusion-studio-mcp",
+  "install": "npx -y fusion-studio-mcp"
+}

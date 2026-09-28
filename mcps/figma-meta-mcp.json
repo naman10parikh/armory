@@ -1,0 +1,7 @@
+{
+  "name": "figma-meta-mcp",
+  "description": "Figma MCP server that lets agents execute arbitrary JavaScript inside a running Figma desktop app via a local development plugin, enabling real-time document inspection and manipulation while avoiding REST API rate limits.",
+  "source_repo": "shinjiyu/figma_mcp",
+  "source_url": "https://github.com/shinjiyu/figma_mcp",
+  "install": "npx -y figma_mcp"
+}

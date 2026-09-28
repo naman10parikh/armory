@@ -1,0 +1,7 @@
+{
+  "name": "mcplookup-mcp",
+  "description": "Enables users to resolve server names, discover servers via taxonomy, and look up trust ratings for MCP servers through the MCPLookup independent trust layer.",
+  "source_repo": "mcplookupdev/mcplookup-mcp",
+  "source_url": "https://github.com/mcplookupdev/mcplookup-mcp",
+  "install": "npx -y mcplookup-mcp"
+}

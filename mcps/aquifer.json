@@ -1,0 +1,7 @@
+{
+  "name": "aquifer",
+  "description": "A MCP Runtime for dealing with spiky agentic traffic in golang",
+  "source_repo": "rjpruitt16/aquifer",
+  "source_url": "https://github.com/rjpruitt16/aquifer",
+  "install": "# git clone --depth 1 https://github.com/rjpruitt16/aquifer\n# See source for mcpServers config block"
+}

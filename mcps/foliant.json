@@ -1,0 +1,7 @@
+{
+  "name": "foliant",
+  "description": "Self-hosted MCP server for D&D 5e rules reference, answering rule questions, providing character summaries, and assisting with character creation, based on imported sources with proper attribution.",
+  "source_repo": "magnetron01123/foliant",
+  "source_url": "https://github.com/magnetron01123/foliant",
+  "install": "# git clone --depth 1 https://github.com/magnetron01123/foliant\n# See source for mcpServers config block"
+}

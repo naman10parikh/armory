@@ -1,0 +1,7 @@
+{
+  "name": "autorank-mcp",
+  "description": "Provides technical SEO tools for AI agents, including structured data generation, meta tag creation, robots.txt validation, and SERP previews, all offline with no API key or account.",
+  "source_repo": "RyanKramer/autorank-mcp",
+  "source_url": "https://github.com/RyanKramer/autorank-mcp",
+  "install": "npx -y autorank-mcp"
+}

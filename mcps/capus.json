@@ -1,0 +1,7 @@
+{
+  "name": "capus",
+  "description": "Persona-driven LLM agent testing for macOS and web apps through a local MCP daemon, enabling autonomous GUI testing with human-like behavior.",
+  "source_repo": "DanielBirk04/capus",
+  "source_url": "https://github.com/DanielBirk04/capus",
+  "install": "# git clone --depth 1 https://github.com/DanielBirk04/capus\n# See source for mcpServers config block"
+}

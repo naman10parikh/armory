@@ -1,0 +1,7 @@
+{
+  "name": "horizun-project-mcp",
+  "description": "An MCP server for Microsoft Project that reads, analyzes, and writes .mpp, .xer, and .xml schedule files, offering critical path analysis, DCMA 14-point assessment, and verified writes without requiring Java or Microsoft Project.",
+  "source_repo": "HorizunGroup/horizun-msproject-mcp",
+  "source_url": "https://github.com/HorizunGroup/horizun-msproject-mcp",
+  "install": "npx -y horizun-msproject-mcp"
+}

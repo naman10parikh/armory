@@ -1,0 +1,7 @@
+{
+  "name": "oci-pricing-mcp",
+  "description": "Provides Oracle Cloud Infrastructure pricing data to AI assistants, enabling cost estimation, shape comparison, and real-time pricing queries.",
+  "source_repo": "jasonwilbur/oci-pricing-mcp",
+  "source_url": "https://github.com/jasonwilbur/oci-pricing-mcp",
+  "install": "npx -y oci-pricing-mcp"
+}

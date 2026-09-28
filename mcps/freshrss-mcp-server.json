@@ -1,0 +1,7 @@
+{
+  "name": "freshrss-mcp-server",
+  "description": "Enables AI assistants to interact with FreshRSS feeds via the Fever API, allowing listing feeds, fetching unread items, marking items as read/unread, and managing feed subscriptions.",
+  "source_repo": "rakeshgangwar/freshrss-mcp-server",
+  "source_url": "https://github.com/rakeshgangwar/freshrss-mcp-server",
+  "install": "npx -y freshrss-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yuppie-mcp-tts",
+  "description": "Provides text-to-speech synthesis using Microsoft Edge's free TTS engine, supporting multiple voices, languages, and audio output options (base64 or file).",
+  "source_repo": "yuppie1949/yuppie-mcp-tts",
+  "source_url": "https://github.com/yuppie1949/yuppie-mcp-tts",
+  "install": "# git clone --depth 1 https://github.com/yuppie1949/yuppie-mcp-tts\n# See source for mcpServers config block"
+}

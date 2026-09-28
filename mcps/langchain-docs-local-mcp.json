@@ -1,0 +1,7 @@
+{
+  "name": "langchain-docs-local-mcp",
+  "description": "An offline MCP server that provides LangChain and LangGraph documentation search via BM25 full-text search, enabling drop-in replacement for cloud-hosted docs in airgapped environments.",
+  "source_repo": "xmkoh/langchain-docs-local-mcp",
+  "source_url": "https://github.com/xmkoh/langchain-docs-local-mcp",
+  "install": "npx -y langchain-docs-local-mcp"
+}

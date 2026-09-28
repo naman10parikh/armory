@@ -1,0 +1,7 @@
+{
+  "name": "guarded-notes-mcp",
+  "description": "Enables local-only review and organization of Apple Notes on macOS with safety-gated moves, snapshots, one-use authorization, and rollback, without deletion or content editing.",
+  "source_repo": "nextgencods/guarded-notes-mcp",
+  "source_url": "https://github.com/nextgencods/guarded-notes-mcp",
+  "install": "npx -y guarded-notes-mcp"
+}

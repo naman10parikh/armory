@@ -1,0 +1,7 @@
+{
+  "name": "tracedelta",
+  "description": "Enables AI agents and engineers to create and reuse source-verifiable evidence capsules for incident investigations over SigNoz telemetry, reducing duplicated queries and providing delta updates.",
+  "source_repo": "swaroop2005/TraceDelta",
+  "source_url": "https://github.com/swaroop2005/TraceDelta",
+  "install": "# git clone --depth 1 https://github.com/swaroop2005/TraceDelta\n# See source for mcpServers config block"
+}

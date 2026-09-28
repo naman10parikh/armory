@@ -1,0 +1,7 @@
+{
+  "name": "claude-image-recognition-mcp",
+  "description": "OpenAI-compatible vision recognition MCP server that lets MCP clients see images by routing them to any OpenAI-compatible vision model.",
+  "source_repo": "JesonMrLiu/image-recognition-mcp",
+  "source_url": "https://github.com/JesonMrLiu/image-recognition-mcp",
+  "install": "npx -y image-recognition-mcp"
+}

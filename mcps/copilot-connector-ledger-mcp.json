@@ -1,0 +1,7 @@
+{
+  "name": "copilot-connector-ledger-mcp",
+  "description": "Audits Copilot Studio connector permissions, drift scans, owner signoff receipts, and compliance export packs.",
+  "source_repo": "clauxel/copilot-connector-ledger-mcp",
+  "source_url": "https://github.com/clauxel/copilot-connector-ledger-mcp",
+  "install": "npx -y copilot-connector-ledger-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "khiip",
+  "description": "Local-first MCP server that captures web URLs (X, Reddit, YouTube, Wikipedia, articles) as typed data + Markdown into a self-hosted capture/store/recall substrate, with offline semantic recall. Six tools over a local khiipd daemon; run khiipd serve first.",
+  "source_repo": "KhiipAI/khiip",
+  "source_url": "https://github.com/KhiipAI/khiip",
+  "install": "# git clone --depth 1 https://github.com/KhiipAI/khiip\n# See source for mcpServers config block"
+}

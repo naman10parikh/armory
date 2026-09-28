@@ -1,0 +1,7 @@
+{
+  "name": "is-it-ai-mcp",
+  "description": "An MCP server that reads a file's embedded C2PA Content Credential to report whether it declares AI generation or a real-world capture, and checks whether that declaration's signature still verifies against the file's current bytes.",
+  "source_repo": "JohannsenLum/is-it-ai-mcp",
+  "source_url": "https://github.com/JohannsenLum/is-it-ai-mcp",
+  "install": "npx -y is-it-ai-mcp"
+}

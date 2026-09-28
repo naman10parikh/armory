@@ -1,6 +1,6 @@
 {
   "name": "github-checkout-commit-tools",
-  "description": "Github Checkout Commit Tools MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "tmw397/github-checkout-commit-tools",
   "source_url": "https://mcp.so/server/github-checkout-commit-tools/tmw397",
   "install": "# git clone --depth 1 https://mcp.so/server/github-checkout-commit-tools/tmw397\n# See source for mcpServers config block"

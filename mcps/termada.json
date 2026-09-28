@@ -1,0 +1,7 @@
+{
+  "name": "termada",
+  "description": "Enables AI agents to securely execute terminal commands with persistent sessions, async jobs, and mission control, while providing a live dashboard for human oversight.",
+  "source_repo": "Islomzoda/termada",
+  "source_url": "https://github.com/Islomzoda/termada",
+  "install": "# git clone --depth 1 https://github.com/Islomzoda/termada\n# See source for mcpServers config block"
+}

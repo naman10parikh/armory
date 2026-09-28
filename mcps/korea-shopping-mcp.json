@@ -1,0 +1,7 @@
+{
+  "name": "korea-shopping-mcp",
+  "description": "Enables searching, price comparison, trend analysis, and saving of Korean e-commerce products (Naver Shopping) using natural language.",
+  "source_repo": "AIAgentStudy/mcp_study",
+  "source_url": "https://github.com/AIAgentStudy/mcp_study",
+  "install": "# git clone --depth 1 https://github.com/AIAgentStudy/mcp_study\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "veridigit",
+  "description": "Verified validation of structured identifiers — IBAN, payment cards, ISBN-13 and VIN — for AI agents. Runs the real checksum algorithms (mod-97, Luhn, mod-10, ISO 3779) instead of letting the model guess, and returns structured results with clear errors.",
+  "source_repo": "qinisolabs/veridigit",
+  "source_url": "https://github.com/qinisolabs/veridigit",
+  "install": "# git clone --depth 1 https://github.com/qinisolabs/veridigit\n# See source for mcpServers config block"
+}

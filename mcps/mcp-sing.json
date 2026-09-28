@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sing",
+  "description": "Enables reproduction of identical handwritten signatures on a NextDraw 8511 pen plotter using deterministic toolpath compilation and SHA-256 locking.",
+  "source_repo": "luizrodrigues034/mcp-sing",
+  "source_url": "https://github.com/luizrodrigues034/mcp-sing",
+  "install": "# git clone --depth 1 https://github.com/luizrodrigues034/mcp-sing\n# See source for mcpServers config block"
+}

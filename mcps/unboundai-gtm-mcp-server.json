@@ -1,0 +1,7 @@
+{
+  "name": "unboundai-gtm-mcp-server",
+  "description": "MCP server for Google Tag Manager API, enabling users to manage containers, tags, and triggers through natural language using Google Application Default Credentials.",
+  "source_repo": "tijevlam/unboundai-google-tag-manager-mcp-server",
+  "source_url": "https://github.com/tijevlam/unboundai-google-tag-manager-mcp-server",
+  "install": "npx -y unboundai-google-tag-manager-mcp-server"
+}

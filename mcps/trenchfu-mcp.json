@@ -1,0 +1,7 @@
+{
+  "name": "trenchfu-mcp",
+  "description": "Provides AI agents with 92 tools and 230+ marketplace services on Solana for prediction markets, intelligence feeds, agent identity, hiring, and more.",
+  "source_repo": "WizzyDev/trenchfu-mcp",
+  "source_url": "https://github.com/WizzyDev/trenchfu-mcp",
+  "install": "npx -y trenchfu-mcp"
+}

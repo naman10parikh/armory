@@ -1,0 +1,7 @@
+{
+  "name": "remodeleriq",
+  "description": "Check if a contractor's remodeling bid is fair — analyze a quote (fairness score + red flags), get 2026 cost estimates by city, and look up BLS trade labor rates.",
+  "source_repo": "gustavoatar/remodeleriq-mcp",
+  "source_url": "https://github.com/gustavoatar/remodeleriq-mcp",
+  "install": "npx -y remodeleriq-mcp"
+}

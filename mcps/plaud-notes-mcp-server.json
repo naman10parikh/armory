@@ -1,0 +1,7 @@
+{
+  "name": "plaud-notes-mcp-server",
+  "description": "Connects your Plaud voice recorder to Claude, giving access to recordings, transcripts, and AI summaries so you can query your notes via natural language.",
+  "source_repo": "jameshenning/PlaudNotes",
+  "source_url": "https://github.com/jameshenning/PlaudNotes",
+  "install": "# git clone --depth 1 https://github.com/jameshenning/PlaudNotes\n# See source for mcpServers config block"
+}

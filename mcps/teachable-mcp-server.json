@@ -1,0 +1,7 @@
+{
+  "name": "teachable-mcp-server",
+  "description": "Enables AI assistants to seamlessly interact with the Teachable API, managing courses, users, enrollments, progress tracking, and more.",
+  "source_repo": "ahmedrowaihi/teachable-mcp-server",
+  "source_url": "https://github.com/ahmedrowaihi/teachable-mcp-server",
+  "install": "npx -y teachable-mcp-server"
+}

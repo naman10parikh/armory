@@ -1,0 +1,7 @@
+{
+  "name": "git-worktrees-for-zcode",
+  "description": "Manages isolated Git worktrees for each ZCode thread, enabling safe parallel development with automatic setup, snapshot-based removal, PR review, and background agent orchestration.",
+  "source_repo": "agallardol/zcode-git-worktrees",
+  "source_url": "https://github.com/agallardol/zcode-git-worktrees",
+  "install": "# git clone --depth 1 https://github.com/agallardol/zcode-git-worktrees\n# See source for mcpServers config block"
+}

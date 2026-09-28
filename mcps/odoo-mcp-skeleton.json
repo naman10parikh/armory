@@ -1,0 +1,7 @@
+{
+  "name": "odoo-mcp-skeleton",
+  "description": "A Python-based MCP server for interacting with Odoo ERP, offering example tools such as health checks, customer search, customer details, and listing sale orders.",
+  "source_repo": "daitianjun/odoo-mcp-demo",
+  "source_url": "https://github.com/daitianjun/odoo-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/daitianjun/odoo-mcp-demo\n# See source for mcpServers config block"
+}

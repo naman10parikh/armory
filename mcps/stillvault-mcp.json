@@ -1,0 +1,7 @@
+{
+  "name": "stillvault-mcp",
+  "description": "Enables AI agents to securely use real secrets (API keys, database passwords) by requiring human approval for each release, ensuring secrets never enter the model's context.",
+  "source_repo": "Wolstapp/stillvault-mcp",
+  "source_url": "https://github.com/Wolstapp/stillvault-mcp",
+  "install": "npx -y stillvault-mcp"
+}

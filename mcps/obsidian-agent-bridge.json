@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-agent-bridge",
+  "description": "A secure MCP server that connects ChatGPT/Codex to a local Obsidian Vault, enabling controlled knowledge retrieval, note maintenance, and daily ingest while enforcing path policies, concurrency checks, and audit.",
+  "source_repo": "li1-user/obsidian-mcp-bridge",
+  "source_url": "https://github.com/li1-user/obsidian-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/li1-user/obsidian-mcp-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "conapesca-db-mcp",
+  "description": "MCP server for querying the CONAPESCA historical fishing landings database (2001–2026) from Mexico's Pacific and Gulf coasts, providing tools to extract and analyze standardized landing records (avisos de arribo).",
+  "source_repo": "ccalderong/conapesca-db-mcp",
+  "source_url": "https://github.com/ccalderong/conapesca-db-mcp",
+  "install": "npx -y conapesca-db-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-multi-poc",
+  "description": "Serves multiple MCP servers from a single PyPI package using subcommands for server selection and optional extras for on-demand dependencies. Demonstrates alpha and beta server variants with different tool sets.",
+  "source_repo": "nithishr/mcp-registry-poc",
+  "source_url": "https://github.com/nithishr/mcp-registry-poc",
+  "install": "# git clone --depth 1 https://github.com/nithishr/mcp-registry-poc\n# See source for mcpServers config block"
+}

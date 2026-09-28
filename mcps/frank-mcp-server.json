@@ -1,0 +1,7 @@
+{
+  "name": "frank-mcp-server",
+  "description": "An MCP server that provides typed, audited, least-privilege tools for monitoring AWS infrastructure and GitHub pipelines, including instance health, service status, logs, deployment status, CI workflow runs, failed jobs, and PR checks.",
+  "source_repo": "cbuckley-code/frank-mcp-server",
+  "source_url": "https://github.com/cbuckley-code/frank-mcp-server",
+  "install": "npx -y frank-mcp-server"
+}

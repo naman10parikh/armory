@@ -1,0 +1,7 @@
+{
+  "name": "godot-docs-mcp",
+  "description": "Enables searching and retrieving Godot documentation pages using fuzzy search, with support for multiple documentation versions.",
+  "source_repo": "dachnikrus/godot-docs-mcp",
+  "source_url": "https://github.com/dachnikrus/godot-docs-mcp",
+  "install": "npx -y godot-docs-mcp"
+}

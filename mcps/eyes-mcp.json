@@ -1,0 +1,7 @@
+{
+  "name": "eyes-mcp",
+  "description": "A research MCP server that enables AI agents to query the internet using multiple sources like SearXNG, GitHub, Reddit, and YouTube, and returns synthesized answers with citations.",
+  "source_repo": "ferre-z/eyes-mcp",
+  "source_url": "https://github.com/ferre-z/eyes-mcp",
+  "install": "npx -y eyes-mcp"
+}

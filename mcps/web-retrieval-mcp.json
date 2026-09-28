@@ -1,0 +1,7 @@
+{
+  "name": "web-retrieval-mcp",
+  "description": "A Model Context Protocol server that analyzes webpage design structures, providing detailed layout, navigation, content, form, image, and link information from a given URL.",
+  "source_repo": "guangxiangdebizi/web-retrieval-mcp",
+  "source_url": "https://github.com/guangxiangdebizi/web-retrieval-mcp",
+  "install": "npx -y web-retrieval-mcp"
+}

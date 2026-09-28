@@ -1,0 +1,7 @@
+{
+  "name": "spring-nacos-mcp",
+  "description": "A project-aware, read-only Nacos MCP server for Spring Cloud repositories.",
+  "source_repo": "kestiny18/spring-nacos-mcp",
+  "source_url": "https://github.com/kestiny18/spring-nacos-mcp",
+  "install": "npx -y spring-nacos-mcp"
+}

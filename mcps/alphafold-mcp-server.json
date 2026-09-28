@@ -1,0 +1,7 @@
+{
+  "name": "alphafold-mcp-server",
+  "description": "Provides access to the AlphaFold Protein Structure Database with tools for structure retrieval, confidence analysis, batch processing, and visualization.",
+  "source_repo": "plemio/alphafold-mcp",
+  "source_url": "https://github.com/plemio/alphafold-mcp",
+  "install": "npx -y alphafold-mcp"
+}

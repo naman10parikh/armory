@@ -1,0 +1,7 @@
+{
+  "name": "zom-brain",
+  "description": "A nightly local pipeline that ingests zom codebases and their GitHub activity, compiles them into a queryable markdown brain, and serves it to Claude Code over MCP with strong privacy guarantees.",
+  "source_repo": "akolazabal/zom-brain",
+  "source_url": "https://github.com/akolazabal/zom-brain",
+  "install": "# git clone --depth 1 https://github.com/akolazabal/zom-brain\n# See source for mcpServers config block"
+}

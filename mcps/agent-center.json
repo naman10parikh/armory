@@ -1,0 +1,7 @@
+{
+  "name": "agent-center",
+  "description": "Enables AI agents to send notifications to a unified feed, report activity, request input from humans, and manage notification state through MCP tools.",
+  "source_repo": "harariguy/agent-center",
+  "source_url": "https://github.com/harariguy/agent-center",
+  "install": "# git clone --depth 1 https://github.com/harariguy/agent-center\n# See source for mcpServers config block"
+}

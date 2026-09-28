@@ -1,0 +1,7 @@
+{
+  "name": "openpanel-mcp",
+  "description": "Minimal MCP server for OpenPanel analytics, enabling queries for landing pages, page events, and tracked event names.",
+  "source_repo": "neverhunt/Open-panel-mcp-server",
+  "source_url": "https://github.com/neverhunt/Open-panel-mcp-server",
+  "install": "npx -y Open-panel-mcp-server"
+}

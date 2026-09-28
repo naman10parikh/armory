@@ -1,0 +1,7 @@
+{
+  "name": "strava-planner-mcp",
+  "description": "Exposes Strava training data to Claude for coaching, planning, and analysis via a read-only MCP server with OAuth and Docker support.",
+  "source_repo": "Mohith1612/strava-planner-mcp",
+  "source_url": "https://github.com/Mohith1612/strava-planner-mcp",
+  "install": "npx -y strava-planner-mcp"
+}

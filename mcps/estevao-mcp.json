@@ -1,0 +1,7 @@
+{
+  "name": "estevao-mcp",
+  "description": "Provides accurate Anglican liturgical data including calendar, lectionary readings, and complete Daily Office across multiple prayer book editions via the Estêvão API.",
+  "source_repo": "dodopok/estevao-mcp",
+  "source_url": "https://github.com/dodopok/estevao-mcp",
+  "install": "npx -y estevao-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agenticbtc-mcp",
+  "description": "Connects AI agents to Bitcoin payment rails with owner-defined spending policies and limits.",
+  "source_repo": "bkblocksolutions-rgb/agenticbtc-mcp",
+  "source_url": "https://github.com/bkblocksolutions-rgb/agenticbtc-mcp",
+  "install": "npx -y agenticbtc-mcp"
+}

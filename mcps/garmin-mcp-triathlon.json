@@ -1,0 +1,7 @@
+{
+  "name": "garmin-mcp-triathlon",
+  "description": "Enables triathlon coaches and athletes to interact with Garmin Connect, including retrieving health/activity data, building and uploading structured workouts (cycling, running, swimming, brick), and accessing coaching analytics like readiness, load, and performance trends.",
+  "source_repo": "pluton74mac/Garmin_MCP_Triathlon",
+  "source_url": "https://github.com/pluton74mac/Garmin_MCP_Triathlon",
+  "install": "# git clone --depth 1 https://github.com/pluton74mac/Garmin_MCP_Triathlon\n# See source for mcpServers config block"
+}

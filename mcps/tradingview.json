@@ -1,0 +1,7 @@
+{
+  "name": "tradingview",
+  "description": "Connects Claude Code to your locally running TradingView Desktop app via Chrome DevTools Protocol for AI-assisted chart analysis, Pine Script development, and workflow automation.",
+  "source_repo": "Mftrdnd/tradingview-termux",
+  "source_url": "https://github.com/Mftrdnd/tradingview-termux",
+  "install": "# git clone --depth 1 https://github.com/Mftrdnd/tradingview-termux\n# See source for mcpServers config block"
+}

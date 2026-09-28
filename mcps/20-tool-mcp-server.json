@@ -1,0 +1,7 @@
+{
+  "name": "20-tool-mcp-server",
+  "description": "20-tool MCP server - production web-intelligence API gateway exposing 10 Website Intelligence + 7 Marketing APIs as 20 MCP tools over Streamable HTTP + stdio, with pay-per-call Solana USDC payments. 20 tools: URL-to-Markdown, metadata, technology detection, contact extraction, SEO audit, SSL, DNS, s",
+  "source_repo": "samayhuf-star/all-apis-gateway",
+  "source_url": "https://github.com/samayhuf-star/all-apis-gateway",
+  "install": "# git clone --depth 1 https://github.com/samayhuf-star/all-apis-gateway\n# See source for mcpServers config block"
+}

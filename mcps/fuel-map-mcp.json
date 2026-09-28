@@ -1,0 +1,7 @@
+{
+  "name": "fuel-map-mcp",
+  "description": "Finds the cheapest gas stations along a travel route in Korea using Kakao Navigation and Opinet APIs.",
+  "source_repo": "s-jiun/fuel-map-mcp",
+  "source_url": "https://github.com/s-jiun/fuel-map-mcp",
+  "install": "npx -y fuel-map-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "memclaw",
+  "description": "Governed shared memory platform for AI agents and agent fleets. Provides persistent memory, cross-agent knowledge sharing, permissions, audit trails, and multi-tenant isolation through a Model Context Protocol (MCP) server.",
+  "source_repo": "caura-ai/caura-memclaw",
+  "source_url": "https://github.com/caura-ai/caura-memclaw",
+  "install": "# git clone --depth 1 https://github.com/caura-ai/caura-memclaw\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fhir-patient-consent-mcp-server",
+  "description": "Enables natural-language queries about a patient, their insulin pump or other devices, and consent to share their data, with answers retrieved in real time from a FHIR R4 endpoint.",
+  "source_repo": "scollard001/fhir-mcp-server",
+  "source_url": "https://github.com/scollard001/fhir-mcp-server",
+  "install": "npx -y fhir-mcp-server"
+}

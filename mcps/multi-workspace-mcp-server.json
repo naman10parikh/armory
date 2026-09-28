@@ -1,0 +1,7 @@
+{
+  "name": "multi-workspace-mcp-server",
+  "description": "Enables AI coding agents to access and manage multiple configured workspace repositories from a single session, eliminating context loss when working across companion repos.",
+  "source_repo": "EtienneBBeaulac/workspace-mcp",
+  "source_url": "https://github.com/EtienneBBeaulac/workspace-mcp",
+  "install": "npx -y workspace-mcp"
+}

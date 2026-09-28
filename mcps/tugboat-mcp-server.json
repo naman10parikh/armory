@@ -1,0 +1,7 @@
+{
+  "name": "tugboat-mcp-server",
+  "description": "Enables AI assistants to manage Tugboat projects, previews, and repositories via the Tugboat API, supporting operations like creating, building, and deleting previews.",
+  "source_repo": "TugboatQA/tugboat-mcp",
+  "source_url": "https://github.com/TugboatQA/tugboat-mcp",
+  "install": "npx -y tugboat-mcp"
+}

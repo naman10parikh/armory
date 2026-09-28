@@ -1,0 +1,7 @@
+{
+  "name": "chesscom-mcp",
+  "description": "Enables querying Chess.com public data including player profiles, stats, games, and club information through natural language.",
+  "source_repo": "brettadams0/chesscom-mcp",
+  "source_url": "https://github.com/brettadams0/chesscom-mcp",
+  "install": "npx -y chesscom-mcp"
+}

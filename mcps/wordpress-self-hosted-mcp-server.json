@@ -1,0 +1,7 @@
+{
+  "name": "wordpress-self-hosted-mcp-server",
+  "description": "A small FastMCP server that lets an AI client create drafts, publish/update posts, upload media, set featured images, and manage categories/tags on a self-hosted WordPress.org site via the REST API + Application Passwords.",
+  "source_repo": "mdsakib-dr/wordpress-mcp",
+  "source_url": "https://github.com/mdsakib-dr/wordpress-mcp",
+  "install": "npx -y wordpress-mcp"
+}

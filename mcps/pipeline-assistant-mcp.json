@@ -1,0 +1,7 @@
+{
+  "name": "pipeline-assistant-mcp",
+  "description": "An MCP server that automates CI/CD pipeline creation, analysis, and security enforcement. It generates production-ready pipelines from templates and enforces DevSecOps best practices.",
+  "source_repo": "soydachi/pipeline-assistant-mcp",
+  "source_url": "https://github.com/soydachi/pipeline-assistant-mcp",
+  "install": "npx -y pipeline-assistant-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gemini-web-mcp",
+  "description": "An MCP server for automated interaction with Gemini's web interface using Playwright and LangGraph, enabling task execution, deep research, file uploads, chat management, and dynamic selector verification via MCP tools.",
+  "source_repo": "edwyn211/gemini-web-mcp",
+  "source_url": "https://github.com/edwyn211/gemini-web-mcp",
+  "install": "npx -y gemini-web-mcp"
+}

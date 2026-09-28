@@ -1,0 +1,7 @@
+{
+  "name": "ffmpeg-mcp-video-editor",
+  "description": "Give any MCP client a real video editor — 32 typed tools over ffmpeg, Whisper and MediaPipe, plus an optional local UI with a drag-and-drop timeline.",
+  "source_repo": "AbyAbyss/ffmpeg-mcp-video-editor",
+  "source_url": "https://github.com/AbyAbyss/ffmpeg-mcp-video-editor",
+  "install": "# git clone --depth 1 https://github.com/AbyAbyss/ffmpeg-mcp-video-editor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "localsend-mcp",
+  "description": "Enables sending files to LocalSend devices on the local network by scanning for devices and sending files using the LocalSend v2 protocol.",
+  "source_repo": "dhinalata21-ctrl/localsend-mcp",
+  "source_url": "https://github.com/dhinalata21-ctrl/localsend-mcp",
+  "install": "npx -y localsend-mcp"
+}

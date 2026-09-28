@@ -1,0 +1,7 @@
+{
+  "name": "pty-debug-mcp-server",
+  "description": "Enables spawning, interacting with, and capturing screen output from terminal-based programs for debugging PTY/TTY/TUI applications.",
+  "source_repo": "so2liu/pty-mcp",
+  "source_url": "https://github.com/so2liu/pty-mcp",
+  "install": "npx -y pty-mcp"
+}

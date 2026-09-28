@@ -1,0 +1,7 @@
+{
+  "name": "transit-mcp",
+  "description": "MCP server for Japanese public transit journey planning with interactive map UI, enabling station search, route planning, and departure lookups via natural language.",
+  "source_repo": "tori-create-7991/transit-mcp",
+  "source_url": "https://github.com/tori-create-7991/transit-mcp",
+  "install": "npx -y transit-mcp"
+}

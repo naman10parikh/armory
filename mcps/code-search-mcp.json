@@ -1,0 +1,7 @@
+{
+  "name": "code-search-mcp",
+  "description": "Provides a code search service via MCP, allowing AI clients to perform fast, indexed searches across large codebases using Zoekt, with support for filters like repository, language, and path.",
+  "source_repo": "YamadaYoukai/CodeNavigator",
+  "source_url": "https://github.com/YamadaYoukai/CodeNavigator",
+  "install": "# git clone --depth 1 https://github.com/YamadaYoukai/CodeNavigator\n# See source for mcpServers config block"
+}

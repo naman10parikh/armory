@@ -1,0 +1,7 @@
+{
+  "name": "firecrawl-pool-proxy",
+  "description": "Multi-key proxy for Firecrawl API that rotates API keys on credit exhaustion and falls back to keyless free tier for search/scrape.",
+  "source_repo": "themuuln/firecrawl-pool-proxy",
+  "source_url": "https://github.com/themuuln/firecrawl-pool-proxy",
+  "install": "# git clone --depth 1 https://github.com/themuuln/firecrawl-pool-proxy\n# See source for mcpServers config block"
+}

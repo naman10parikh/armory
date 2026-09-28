@@ -1,0 +1,7 @@
+{
+  "name": "zube-mcp",
+  "description": "MCP server for the Zube.io project management API, exposing boards, cards, epics, tickets, sprints, and workspaces as tools for AI assistants.",
+  "source_repo": "reenrik/zube-mcp",
+  "source_url": "https://github.com/reenrik/zube-mcp",
+  "install": "npx -y zube-mcp"
+}

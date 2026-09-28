@@ -1,0 +1,7 @@
+{
+  "name": "vehicle-database",
+  "description": "MotiveGrid Vehicle Database is an MCP server that provides AI assistants with grounded vehicle intelligence. Compare cars, retrieve vehicle scorecards, analyze five-year cost of ownership, evaluate safety and driver-assistance features, and generate personalized vehicle recommendations using structu",
+  "source_repo": "",
+  "source_url": "https://motivegrid.com/connect",
+  "install": "# git clone --depth 1 https://motivegrid.com/connect\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "orphograph",
+  "description": "Enables AI agents and MCP hosts to anchor file hashes to Bitcoin via OpenTimestamps and verify proofs, ensuring files existed before a given time with privacy-preserving local hashing.",
+  "source_repo": "Orphograph/Orphograph",
+  "source_url": "https://github.com/Orphograph/Orphograph",
+  "install": "# git clone --depth 1 https://github.com/Orphograph/Orphograph\n# See source for mcpServers config block"
+}

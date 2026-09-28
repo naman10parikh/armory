@@ -1,0 +1,7 @@
+{
+  "name": "pbpk-mcp-server",
+  "description": "Public MCP endpoint for physiologically based pharmacokinetic (PBPK) simulation, qualification, and dossier export.",
+  "source_repo": "ToxMCP/pbpk-mcp",
+  "source_url": "https://github.com/ToxMCP/pbpk-mcp",
+  "install": "npx -y pbpk-mcp"
+}

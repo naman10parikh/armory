@@ -1,0 +1,7 @@
+{
+  "name": "f4-crash-doctor",
+  "description": "Fallout 4 crash log diagnosis tool for MCP clients. Analyzes crash logs, load order, and game environment to explain crashes and suggest fixes.",
+  "source_repo": "Apocalypse-Meow/f4-crash-doctor",
+  "source_url": "https://github.com/Apocalypse-Meow/f4-crash-doctor",
+  "install": "# git clone --depth 1 https://github.com/Apocalypse-Meow/f4-crash-doctor\n# See source for mcpServers config block"
+}

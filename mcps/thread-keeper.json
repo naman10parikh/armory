@@ -1,0 +1,7 @@
+{
+  "name": "thread-keeper",
+  "description": "Multi-agent shared brain MCP server enabling cross-session memory, self-improving skill loops, and inter-agent signaling across Claude, Codex, Gemini, Copilot, and VS Code CLI agents.",
+  "source_repo": "po4erk91/thread-keeper",
+  "source_url": "https://github.com/po4erk91/thread-keeper",
+  "install": "# git clone --depth 1 https://github.com/po4erk91/thread-keeper\n# See source for mcpServers config block"
+}

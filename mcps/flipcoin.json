@@ -1,0 +1,7 @@
+{
+  "name": "flipcoin",
+  "description": "Enables browsing prediction markets, getting price quotes, trading, creating markets, and managing portfolios on the FlipCoin platform through natural language.",
+  "source_repo": "flipcoin-fun/flipcoin-mcp",
+  "source_url": "https://github.com/flipcoin-fun/flipcoin-mcp",
+  "install": "npx -y flipcoin-mcp"
+}

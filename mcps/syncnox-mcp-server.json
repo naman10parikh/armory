@@ -1,0 +1,7 @@
+{
+  "name": "syncnox-mcp-server",
+  "description": "Enables AI agents to manage routes via Syncnox backend, with tools to add stops, optimize routes, get ETAs, and retrieve route details.",
+  "source_repo": "mav92121/syncnox-mcp",
+  "source_url": "https://github.com/mav92121/syncnox-mcp",
+  "install": "npx -y syncnox-mcp"
+}

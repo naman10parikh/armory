@@ -1,0 +1,7 @@
+{
+  "name": "createworker-mcp",
+  "description": "MCP server for CreateWorker that lets you create and run tasks, manage knowledge, connect apps, and approve actions from AI assistants like Claude and Cursor.",
+  "source_repo": "CreateWorkerAI/createworker-mcp",
+  "source_url": "https://github.com/CreateWorkerAI/createworker-mcp",
+  "install": "npx -y createworker-mcp"
+}

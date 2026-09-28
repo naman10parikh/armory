@@ -1,0 +1,7 @@
+{
+  "name": "analog-rytm-agent-bridge",
+  "description": "Enables a coding agent to operate an Elektron Analog Rytm MKII through semantic MCP tools, with validation-first safety, snapshots, and rollback for persistent changes.",
+  "source_repo": "chronick/analog-rytm-agent-bridge",
+  "source_url": "https://github.com/chronick/analog-rytm-agent-bridge",
+  "install": "# git clone --depth 1 https://github.com/chronick/analog-rytm-agent-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cb-strategy-mcp",
+  "description": "An MCP server offering six strategies to filter and analyze Chinese convertible bonds, including dual-low, triple-low, YTM ranking, redemption monitoring, and revision analysis.",
+  "source_repo": "Lozzi1910/cb-strategy-mcp",
+  "source_url": "https://github.com/Lozzi1910/cb-strategy-mcp",
+  "install": "npx -y cb-strategy-mcp"
+}

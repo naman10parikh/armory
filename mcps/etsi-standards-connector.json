@@ -1,0 +1,7 @@
+{
+  "name": "etsi-standards-connector",
+  "description": "Fetches, parses, and summarizes ETSI telecommunications and media standards documents, enabling Claude to autonomously look up and ingest standards mid-conversation for answering questions, generating conformant code, or writing XML.",
+  "source_repo": "magicbadger/claude-mcp-etsi",
+  "source_url": "https://github.com/magicbadger/claude-mcp-etsi",
+  "install": "# git clone --depth 1 https://github.com/magicbadger/claude-mcp-etsi\n# See source for mcpServers config block"
+}

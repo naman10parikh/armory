@@ -1,0 +1,7 @@
+{
+  "name": "ops-hubspot-crm-mcp-server",
+  "description": "Custom MCP server for HubSpot CRM providing ICP segmentation, scoring, duplicate detection, Data Quality Score, and lifecycle stage automation. Exposes 39 tools to enhance HubSpot's native capabilities.",
+  "source_repo": "Digishop92/mcp-serveur-Ops-Hubspot-CRM",
+  "source_url": "https://github.com/Digishop92/mcp-serveur-Ops-Hubspot-CRM",
+  "install": "# git clone --depth 1 https://github.com/Digishop92/mcp-serveur-Ops-Hubspot-CRM\n# See source for mcpServers config block"
+}

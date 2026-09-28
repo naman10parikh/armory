@@ -1,0 +1,7 @@
+{
+  "name": "console-censorchecker",
+  "description": "Batch tcping probe & Censor checker",
+  "source_repo": "SpaceTimee/Console-CensorChecker",
+  "source_url": "https://github.com/SpaceTimee/Console-CensorChecker",
+  "install": "# git clone --depth 1 https://github.com/SpaceTimee/Console-CensorChecker\n# See source for mcpServers config block"
+}

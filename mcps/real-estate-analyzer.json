@@ -1,0 +1,7 @@
+{
+  "name": "real-estate-analyzer",
+  "description": "Analyzes real estate locations using Kakao Local API, providing insights on education, transportation, convenience, nature, and future value.",
+  "source_repo": "immortal0900/Real-Estate-Location-Analyzer_MCP",
+  "source_url": "https://github.com/immortal0900/Real-Estate-Location-Analyzer_MCP",
+  "install": "npx -y Real-Estate-Location-Analyzer_MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "valyu-mcp",
+  "description": "Enables AI models to retrieve high-quality context from Valyu's API, including search over Wikipedia, arXiv papers, and the web.",
+  "source_repo": "valyuAI/valyu-mcp",
+  "source_url": "https://github.com/valyuAI/valyu-mcp",
+  "install": "npx -y valyu-mcp"
+}

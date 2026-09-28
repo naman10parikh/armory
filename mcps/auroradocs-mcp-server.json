@@ -1,0 +1,7 @@
+{
+  "name": "auroradocs-mcp-server",
+  "description": "Enables local MCP clients to interact with an AuroraCloud workspace, supporting object listing, content reading, search, and task management through authenticated API calls.",
+  "source_repo": "henrikogaard/auroradocs-mcp",
+  "source_url": "https://github.com/henrikogaard/auroradocs-mcp",
+  "install": "npx -y auroradocs-mcp"
+}

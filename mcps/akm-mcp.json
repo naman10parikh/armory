@@ -1,0 +1,7 @@
+{
+  "name": "akm-mcp",
+  "description": "This MCP server enables AI agents to manage artifacts across sessions by providing tools for searching, retrieving, and registering entries in a persistent ledger, ensuring consistency and traceability of agent outputs.",
+  "source_repo": "An-idd/akm",
+  "source_url": "https://github.com/An-idd/akm",
+  "install": "# git clone --depth 1 https://github.com/An-idd/akm\n# See source for mcpServers config block"
+}

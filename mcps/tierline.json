@@ -1,0 +1,7 @@
+{
+  "name": "tierline",
+  "description": "Enables LLM clients and coding agents to analyze prompts and recommend the cheapest AI model that meets the task requirements across text, voice, video, and other modalities, projecting monthly cost savings against a flagship baseline.",
+  "source_repo": "jayj221/tierline",
+  "source_url": "https://github.com/jayj221/tierline",
+  "install": "# git clone --depth 1 https://github.com/jayj221/tierline\n# See source for mcpServers config block"
+}

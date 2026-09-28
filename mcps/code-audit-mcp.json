@@ -1,0 +1,7 @@
+{
+  "name": "code-audit-mcp",
+  "description": "Enables automated security code auditing using LLM and MCP, including AST parsing, taint analysis, dataflow tracing, and automated PoC generation for multi-language codebases.",
+  "source_repo": "kkk1259/code-audit-mcp",
+  "source_url": "https://github.com/kkk1259/code-audit-mcp",
+  "install": "npx -y code-audit-mcp"
+}

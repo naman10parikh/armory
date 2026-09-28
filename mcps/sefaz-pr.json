@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-pr",
+  "description": "Enables consultation of Paraná state tax information (SEFAZ) from official sources via MCP over HTTP, with read-only access and prepaid per-query pricing.",
+  "source_repo": "mcp-dir/sefaz_pr-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_pr-mcp",
+  "install": "npx -y sefaz_pr-mcp"
+}

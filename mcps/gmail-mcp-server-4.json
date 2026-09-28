@@ -1,0 +1,7 @@
+{
+  "name": "gmail-mcp-server-4",
+  "description": "Enables AI assistants to search, read, and download attachments from Gmail using natural language, with read-only access.",
+  "source_repo": "Maheidem/gmail-mcp",
+  "source_url": "https://github.com/Maheidem/gmail-mcp",
+  "install": "npx -y gmail-mcp"
+}

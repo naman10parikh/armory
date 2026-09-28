@@ -1,0 +1,7 @@
+{
+  "name": "vzt-video-intel",
+  "description": "Self-hosted video intelligence pipeline that turns video into structured, citable, queryable JSON scene graphs, enabling AI assistants to analyze and search across video libraries without re-processing.",
+  "source_repo": "vonzelle-vzt/vzt-video-intel",
+  "source_url": "https://github.com/vonzelle-vzt/vzt-video-intel",
+  "install": "# git clone --depth 1 https://github.com/vonzelle-vzt/vzt-video-intel\n# See source for mcpServers config block"
+}

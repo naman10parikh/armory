@@ -1,0 +1,7 @@
+{
+  "name": "zellij-mcp-server",
+  "description": "Enables comprehensive management of Zellij terminal workspace sessions, including session, pane, tab, plugin, layout operations, and LLM completion detection.",
+  "source_repo": "GitJuhb/zellij-mcp-server",
+  "source_url": "https://github.com/GitJuhb/zellij-mcp-server",
+  "install": "npx -y zellij-mcp-server"
+}

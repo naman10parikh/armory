@@ -1,0 +1,7 @@
+{
+  "name": "easyeda-mcp-pro",
+  "description": "Production-grade MCP server for EasyEDA Pro that enables AI-assisted hardware design review, PCB inspection, BOM sourcing, and manufacturing export through 41 profile-gated tools.",
+  "source_repo": "oaslananka/easyeda-mcp-pro",
+  "source_url": "https://github.com/oaslananka/easyeda-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/oaslananka/easyeda-mcp-pro\n# See source for mcpServers config block"
+}

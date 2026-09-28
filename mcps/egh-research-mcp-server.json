@@ -1,0 +1,7 @@
+{
+  "name": "egh-research-mcp-server",
+  "description": "Provides offline research and advanced search capabilities for Ellen Gould Harmon's writings via MCP and HTTP APIs, including PDF generation and Docker deployment.",
+  "source_repo": "GospelSounders/egw-writings-mcp.todelete",
+  "source_url": "https://github.com/GospelSounders/egw-writings-mcp.todelete",
+  "install": "# git clone --depth 1 https://github.com/GospelSounders/egw-writings-mcp.todelete\n# See source for mcpServers config block"
+}

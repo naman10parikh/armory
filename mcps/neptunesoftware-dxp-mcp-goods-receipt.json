@@ -1,0 +1,7 @@
+{
+  "name": "neptunesoftware-dxp-mcp-goods-receipt",
+  "description": "Demonstrates a SAP Goods Receipt workflow, enabling AI Agents to interact with production orders and post goods receipts to SAP.",
+  "source_repo": "dvieira-neptune/neptunesoftware-dxp-mcp-goods-receipt",
+  "source_url": "https://github.com/dvieira-neptune/neptunesoftware-dxp-mcp-goods-receipt",
+  "install": "# git clone --depth 1 https://github.com/dvieira-neptune/neptunesoftware-dxp-mcp-goods-receipt\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "swiftlens",
+  "description": "MCP server that provides semantic-level analysis of Swift codebases to AI agents by integrating with Apple's SourceKit-LSP, enabling compiler-grade code understanding and cross-file navigation.",
+  "source_repo": "swiftlens/swiftlens",
+  "source_url": "https://github.com/swiftlens/swiftlens",
+  "install": "# git clone --depth 1 https://github.com/swiftlens/swiftlens\n# See source for mcpServers config block"
+}

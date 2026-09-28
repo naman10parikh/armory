@@ -1,0 +1,7 @@
+{
+  "name": "ros-mcp",
+  "description": "Enables management of multiple MikroTik RouterOS devices over SSH via two tools: device listing and command execution.",
+  "source_repo": "asharca/ros-mcp",
+  "source_url": "https://github.com/asharca/ros-mcp",
+  "install": "npx -y ros-mcp"
+}

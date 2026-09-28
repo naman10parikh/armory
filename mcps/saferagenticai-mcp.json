@@ -1,0 +1,7 @@
+{
+  "name": "saferagenticai-mcp",
+  "description": "MCP server exposing the Safer Agentic AI safety framework: 238 patterns + 14 operational heuristics via 12 read-only stdio tools.",
+  "source_repo": "NellInc/saferagenticai-mcp",
+  "source_url": "https://github.com/NellInc/saferagenticai-mcp",
+  "install": "npx -y saferagenticai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "redshift-mcp-server-2",
+  "description": "Enables interacting with Amazon Redshift databases through SQL queries, schema exploration, and execution plan analysis.",
+  "source_repo": "tuanknguyen/redshift-mcp-server",
+  "source_url": "https://github.com/tuanknguyen/redshift-mcp-server",
+  "install": "npx -y redshift-mcp-server"
+}

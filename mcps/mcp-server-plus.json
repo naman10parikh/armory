@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-plus",
+  "description": "A TypeScript toolkit for building Model Context Protocol servers with tools, prompts, resources, middleware, and testing helpers, reducing boilerplate.",
+  "source_repo": "theinfyark/mcp-server-plus",
+  "source_url": "https://github.com/theinfyark/mcp-server-plus",
+  "install": "# git clone --depth 1 https://github.com/theinfyark/mcp-server-plus\n# See source for mcpServers config block"
+}

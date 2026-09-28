@@ -1,0 +1,7 @@
+{
+  "name": "cronicorn",
+  "description": "Enables managing adaptive HTTP jobs with AI-driven scheduling, auto-recovery, and multi-endpoint coordination via MCP.",
+  "source_repo": "weskerllc/cronicorn",
+  "source_url": "https://github.com/weskerllc/cronicorn",
+  "install": "# git clone --depth 1 https://github.com/weskerllc/cronicorn\n# See source for mcpServers config block"
+}

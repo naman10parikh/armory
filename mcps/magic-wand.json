@@ -1,0 +1,7 @@
+{
+  "name": "magic-wand",
+  "description": "Enables AI agents to interactively remove image backgrounds using a Paint.NET-style magic wand tool with live visual feedback and precision helpers.",
+  "source_repo": "nathandstory/magic-wand",
+  "source_url": "https://github.com/nathandstory/magic-wand",
+  "install": "# git clone --depth 1 https://github.com/nathandstory/magic-wand\n# See source for mcpServers config block"
+}

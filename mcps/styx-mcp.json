@@ -1,0 +1,7 @@
+{
+  "name": "styx-mcp",
+  "description": "Provides 7 reverse-engineering tools (hexdump, disasm, strings, xref, Ghidra decompilation, angr symbolic execution, OLLVM deobfuscation) for LLM agents like hermes-agent and Claude Desktop.",
+  "source_repo": "jackmis0724/styx-mcp",
+  "source_url": "https://github.com/jackmis0724/styx-mcp",
+  "install": "npx -y styx-mcp"
+}

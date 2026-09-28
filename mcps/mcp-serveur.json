@@ -1,0 +1,7 @@
+{
+  "name": "mcp-serveur",
+  "description": "A modular and extensible MCP server for managing synchronous and asynchronous tasks, leveraging Docker, BullMQ, and Redis.",
+  "source_repo": "DeamonDev888/MCP-Server-Asynchrone",
+  "source_url": "https://github.com/DeamonDev888/MCP-Server-Asynchrone",
+  "install": "# git clone --depth 1 https://github.com/DeamonDev888/MCP-Server-Asynchrone\n# See source for mcpServers config block"
+}

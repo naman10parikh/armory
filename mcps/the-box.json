@@ -1,0 +1,7 @@
+{
+  "name": "the-box",
+  "description": "A local MCP daemon that turns an agentic coding client into a bug bounty operator, with 103 tools for offensive security testing including MITM proxy, traffic analysis, and OOB callbacks.",
+  "source_repo": "horizonfps/the-box-mcp",
+  "source_url": "https://github.com/horizonfps/the-box-mcp",
+  "install": "npx -y the-box-mcp"
+}

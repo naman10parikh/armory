@@ -1,0 +1,7 @@
+{
+  "name": "space-dust-mcp",
+  "description": "Lets users shape Space Dust synthesizer presets by describing the sound they want in natural language, instead of turning knobs. It reads, creates, adjusts, and compares preset files, with safety rails and live updates.",
+  "source_repo": "jwang47/Space_Dust_Synthesizer_MCP",
+  "source_url": "https://github.com/jwang47/Space_Dust_Synthesizer_MCP",
+  "install": "npx -y Space_Dust_Synthesizer_MCP"
+}

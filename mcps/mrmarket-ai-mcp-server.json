@@ -1,0 +1,7 @@
+{
+  "name": "mrmarket-ai-mcp-server",
+  "description": "Enables financial research on US-listed equities by answering natural language questions with structured data from fundamentals, prices, earnings, and insider activity.",
+  "source_repo": "mrmarket-ai/mrmarket-mcp",
+  "source_url": "https://github.com/mrmarket-ai/mrmarket-mcp",
+  "install": "npx -y mrmarket-mcp"
+}

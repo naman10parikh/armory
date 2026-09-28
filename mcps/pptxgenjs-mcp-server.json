@@ -1,0 +1,7 @@
+{
+  "name": "pptxgenjs-mcp-server",
+  "description": "A production-ready MCP server that enables LLMs to create, modify, and export PowerPoint presentations programmatically using PptxGenJS.",
+  "source_repo": "Hrithik-s-Raj/PptxGenJS-mcp-server",
+  "source_url": "https://github.com/Hrithik-s-Raj/PptxGenJS-mcp-server",
+  "install": "npx -y PptxGenJS-mcp-server"
+}

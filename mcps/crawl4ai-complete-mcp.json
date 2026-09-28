@@ -1,0 +1,7 @@
+{
+  "name": "crawl4ai-complete-mcp",
+  "description": "Provides a secure, stdio-based MCP server for crawling, streaming, rendering, JavaScript execution, extraction, and configuration of web content, with domain allowlisting and private network protections.",
+  "source_repo": "lexiismadd/crawl4ai-complete-mcp",
+  "source_url": "https://github.com/lexiismadd/crawl4ai-complete-mcp",
+  "install": "npx -y crawl4ai-complete-mcp"
+}

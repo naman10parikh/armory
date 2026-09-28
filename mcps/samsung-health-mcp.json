@@ -1,0 +1,7 @@
+{
+  "name": "samsung-health-mcp",
+  "description": "Read your Samsung Health CSV/ZIP exports — activity, sleep, heart, stress — locally. It is a local-first MCP server that keeps your tokens on your machine.",
+  "source_repo": "davidmosiah/samsung-health-mcp",
+  "source_url": "https://github.com/davidmosiah/samsung-health-mcp",
+  "install": "npx -y samsung-health-mcp"
+}

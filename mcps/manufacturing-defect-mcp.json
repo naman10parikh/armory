@@ -1,0 +1,7 @@
+{
+  "name": "manufacturing-defect-mcp",
+  "description": "MCP server for manufacturing defect investigation using knowledge graphs and graph analytics. Enables LLM agents to retrieve context, find similar cases, and generate investigation reports from manufacturing data.",
+  "source_repo": "darrellathaya/manufacturing-defect-mcp",
+  "source_url": "https://github.com/darrellathaya/manufacturing-defect-mcp",
+  "install": "npx -y manufacturing-defect-mcp"
+}

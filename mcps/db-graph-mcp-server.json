@@ -1,0 +1,7 @@
+{
+  "name": "db-graph-mcp-server",
+  "description": "Connects to SQL databases to execute queries and return results as chart images (PNG) visible in MCP clients.",
+  "source_repo": "jatindagar32-ui/mcp-graph-server",
+  "source_url": "https://github.com/jatindagar32-ui/mcp-graph-server",
+  "install": "# git clone --depth 1 https://github.com/jatindagar32-ui/mcp-graph-server\n# See source for mcpServers config block"
+}

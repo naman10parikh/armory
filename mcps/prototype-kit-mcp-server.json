@@ -1,0 +1,7 @@
+{
+  "name": "prototype-kit-mcp-server",
+  "description": "An MCP server that creates and manages GOV.UK Prototype Kit projects, enabling agents to scaffold kits, plan and generate multi-page journeys as Nunjucks macros, and run the dev server with embedded GOV.UK design conventions and accessibility guidelines.",
+  "source_repo": "nmiah1/prototypekit-mcp",
+  "source_url": "https://github.com/nmiah1/prototypekit-mcp",
+  "install": "npx -y prototypekit-mcp"
+}

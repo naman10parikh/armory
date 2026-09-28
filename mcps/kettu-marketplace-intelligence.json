@@ -1,0 +1,7 @@
+{
+  "name": "kettu-marketplace-intelligence",
+  "description": "Enables querying and comparing prices, availability, ratings, reviews, and seller details from major Russian and Chinese marketplaces (Wildberries, Ozon, Yandex Market, and others) without requiring API keys, via a unified MCP interface.",
+  "source_repo": "neuratechcompany-ops/kettu-marketplace-mcp",
+  "source_url": "https://github.com/neuratechcompany-ops/kettu-marketplace-mcp",
+  "install": "npx -y kettu-marketplace-mcp"
+}

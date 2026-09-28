@@ -1,0 +1,7 @@
+{
+  "name": "k-data-mcp",
+  "description": "MCP server for Korean market data with metered USDC payments, providing kimchi premium, translated headlines, Upbit KRW markets, and USD/KRW rates.",
+  "source_repo": "juh5ng/k-data-mcp",
+  "source_url": "https://github.com/juh5ng/k-data-mcp",
+  "install": "npx -y k-data-mcp"
+}

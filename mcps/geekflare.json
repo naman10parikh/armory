@@ -1,0 +1,7 @@
+{
+  "name": "geekflare",
+  "description": "Geekflare MCP server connects your AI agents to the live web for scraping, search, screenshots, DNS lookup, site uptime and more.",
+  "source_repo": "geekflare/geekflare-api-mcp",
+  "source_url": "https://github.com/geekflare/geekflare-api-mcp",
+  "install": "npx -y geekflare-api-mcp"
+}

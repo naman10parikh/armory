@@ -1,0 +1,7 @@
+{
+  "name": "toutiao-mcp-server",
+  "description": "Enables automated content management for Toutiao (今日头条), including login, article/micro-post publishing, analytics, and multi-platform compatibility with Xiaohongshu data format.",
+  "source_repo": "iflow-mcp/toutiao_mcp_server",
+  "source_url": "https://github.com/iflow-mcp/toutiao_mcp_server",
+  "install": "npx -y toutiao_mcp_server"
+}

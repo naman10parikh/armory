@@ -1,0 +1,7 @@
+{
+  "name": "nist-rag-mcp-server",
+  "description": "A local FastMCP STDIO server exposing two tools (ask_nist_rag and get_nist_visual) and one read-only resource (nist://visuals/catalog) that provides grounded question answering over NIST AI RMF documents using local RAG with selective OCR, hybrid retrieval, and verified visual figure retrieval.",
+  "source_repo": "nourawada02/MultiAgent_MCP_Project",
+  "source_url": "https://github.com/nourawada02/MultiAgent_MCP_Project",
+  "install": "# git clone --depth 1 https://github.com/nourawada02/MultiAgent_MCP_Project\n# See source for mcpServers config block"
+}

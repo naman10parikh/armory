@@ -1,0 +1,7 @@
+{
+  "name": "rustici-mcp-server",
+  "description": "MCP server for interacting with Rustici LRS via xAPI, enabling statement retrieval, analytics, and aggregation operations.",
+  "source_repo": "jeffreyteoh78/rustici-mcp-server",
+  "source_url": "https://github.com/jeffreyteoh78/rustici-mcp-server",
+  "install": "npx -y rustici-mcp-server"
+}

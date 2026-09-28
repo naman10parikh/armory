@@ -1,0 +1,7 @@
+{
+  "name": "vocaloid6-mcp",
+  "description": "MCP server that enables AI to compose melodies and generate VOCALOID6 project files (.vpr/.vsqx), with tools for MIDI conversion, lyric correction, and opening projects in the VOCALOID6 editor.",
+  "source_repo": "nigexiaolaji/vocaloid6-mcp",
+  "source_url": "https://github.com/nigexiaolaji/vocaloid6-mcp",
+  "install": "npx -y vocaloid6-mcp"
+}

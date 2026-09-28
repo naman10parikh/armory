@@ -1,0 +1,7 @@
+{
+  "name": "reputation-intelligence-mcp-server",
+  "description": "Analyzes and compares product reputation using data from Reddit, Hacker News, and YouTube, providing sentiment and dimensional scores.",
+  "source_repo": "andichen0420/reputation-mcp-server",
+  "source_url": "https://github.com/andichen0420/reputation-mcp-server",
+  "install": "npx -y reputation-mcp-server"
+}

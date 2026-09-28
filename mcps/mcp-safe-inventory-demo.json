@@ -1,0 +1,7 @@
+{
+  "name": "mcp-safe-inventory-demo",
+  "description": "Enables AI agents to safely mutate business state by demonstrating phase-gating, validation-before-mutation, and structured audit logging in a toy inventory and purchase order system.",
+  "source_repo": "Medhaj-ops/mcp-safe-inventory-demo",
+  "source_url": "https://github.com/Medhaj-ops/mcp-safe-inventory-demo",
+  "install": "# git clone --depth 1 https://github.com/Medhaj-ops/mcp-safe-inventory-demo\n# See source for mcpServers config block"
+}

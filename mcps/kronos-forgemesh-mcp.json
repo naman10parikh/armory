@@ -1,0 +1,7 @@
+{
+  "name": "kronos-forgemesh-mcp",
+  "description": "MCP server for purchasing Kronos market intelligence via x402 USDC payments on Base, providing tools for risk, whale flows, signals, history, forecasts, and auditable decision journaling.",
+  "source_repo": "forgemeshlabs/kronos-forgemesh-mcp",
+  "source_url": "https://github.com/forgemeshlabs/kronos-forgemesh-mcp",
+  "install": "npx -y kronos-forgemesh-mcp"
+}

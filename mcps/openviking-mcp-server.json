@@ -1,0 +1,7 @@
+{
+  "name": "openviking-mcp-server",
+  "description": "Provides semantic search and tiered loading (L0/L1/L2) to access OpenViking context DB from Claude Code, saving tokens by loading only the needed detail.",
+  "source_repo": "osushi-cr/openviking-mcp",
+  "source_url": "https://github.com/osushi-cr/openviking-mcp",
+  "install": "npx -y openviking-mcp"
+}

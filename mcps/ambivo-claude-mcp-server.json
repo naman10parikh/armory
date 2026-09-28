@@ -1,0 +1,7 @@
+{
+  "name": "ambivo-claude-mcp-server",
+  "description": "Enables natural language querying of Ambivo CRM entity data through Claude AI, with JWT authentication, rate limiting, and error handling.",
+  "source_repo": "voicenectargit/ambivo-mcp-server",
+  "source_url": "https://github.com/voicenectargit/ambivo-mcp-server",
+  "install": "npx -y ambivo-mcp-server"
+}

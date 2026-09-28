@@ -1,0 +1,7 @@
+{
+  "name": "airus-mcp",
+  "description": "MCP server exposing 1688 and OZON e-commerce crawling tools, enabling AI agents to perform product search, image search, and supplier contact scraping via natural language.",
+  "source_repo": "Eureka-Zhang/airus-mcp-",
+  "source_url": "https://github.com/Eureka-Zhang/airus-mcp-",
+  "install": "# git clone --depth 1 https://github.com/Eureka-Zhang/airus-mcp-\n# See source for mcpServers config block"
+}

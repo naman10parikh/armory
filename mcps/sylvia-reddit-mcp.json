@@ -1,0 +1,7 @@
+{
+  "name": "sylvia-reddit-mcp",
+  "description": "MCP server for Reddit data — subreddits, users, search, live comments. No OAuth required.",
+  "source_repo": "c1nn3r/mcp-sylvia",
+  "source_url": "https://github.com/c1nn3r/mcp-sylvia",
+  "install": "# git clone --depth 1 https://github.com/c1nn3r/mcp-sylvia\n# See source for mcpServers config block"
+}

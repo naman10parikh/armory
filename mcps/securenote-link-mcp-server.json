@@ -1,0 +1,7 @@
+{
+  "name": "securenote-link-mcp-server",
+  "description": "Enables AI agents to create end-to-end encrypted, self-destructing notes that can be securely shared via a one-click link, ensuring secrets are never stored in plain text in chat history.",
+  "source_repo": "jackalterman/securenote-link-MCP-server",
+  "source_url": "https://github.com/jackalterman/securenote-link-MCP-server",
+  "install": "npx -y securenote-link-MCP-server"
+}

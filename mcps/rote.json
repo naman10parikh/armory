@@ -1,0 +1,7 @@
+{
+  "name": "rote",
+  "description": "MCP server that exposes compiled rote pipelines as callable tools. The rote CLI compiles a proven agent skill into a deterministic workflow, and rote serve lets any MCP client trigger the deployed pipelines and poll their status.",
+  "source_repo": "trevhud/rote",
+  "source_url": "https://github.com/trevhud/rote",
+  "install": "# git clone --depth 1 https://github.com/trevhud/rote\n# See source for mcpServers config block"
+}

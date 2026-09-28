@@ -1,0 +1,7 @@
+{
+  "name": "winjupos-mcp",
+  "description": "A local MCP server for Windows and WinJUPOS 12.4.1, providing a guarded workflow for Jupiter image measurement, image de-rotation, and moon-trail repair through 22 MCP tools.",
+  "source_repo": "nuan-xing/winjupos-mcp",
+  "source_url": "https://github.com/nuan-xing/winjupos-mcp",
+  "install": "npx -y winjupos-mcp"
+}

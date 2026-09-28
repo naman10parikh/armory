@@ -1,0 +1,7 @@
+{
+  "name": "logistics-mcp",
+  "description": "Enables AI assistants to query and manage logistics shipment data, supporting operations like tracking, quoting, and performance analysis via nine tools backed by a demo dataset or a REST API.",
+  "source_repo": "Azzaraell/logistics-mcp",
+  "source_url": "https://github.com/Azzaraell/logistics-mcp",
+  "install": "npx -y logistics-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zhihu-collections-mcp",
+  "description": "This MCP server enables AI agents to list, export, and search Zhihu collections, converting them to Markdown files with images.",
+  "source_repo": "JasonJarvan/Zhihu-Collections-MCP",
+  "source_url": "https://github.com/JasonJarvan/Zhihu-Collections-MCP",
+  "install": "npx -y Zhihu-Collections-MCP"
+}

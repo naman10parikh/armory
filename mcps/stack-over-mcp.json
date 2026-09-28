@@ -1,0 +1,7 @@
+{
+  "name": "stack-over-mcp",
+  "description": "Provides LLMs with tools to search Stack Overflow for programming solutions, helping ground responses in real-world code examples.",
+  "source_repo": "ygfest/stack-over-mcp",
+  "source_url": "https://github.com/ygfest/stack-over-mcp",
+  "install": "npx -y stack-over-mcp"
+}

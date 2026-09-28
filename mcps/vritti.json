@@ -1,0 +1,7 @@
+{
+  "name": "vritti",
+  "description": "Enables AI agents to act as graphic designers by generating images and social-ready visuals, with brand DNA memory, genre-aware styles, 35+ platform presets, self-critique, and version control.",
+  "source_repo": "krshforever/vritti",
+  "source_url": "https://github.com/krshforever/vritti",
+  "install": "# git clone --depth 1 https://github.com/krshforever/vritti\n# See source for mcpServers config block"
+}

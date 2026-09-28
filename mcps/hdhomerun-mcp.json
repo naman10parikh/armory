@@ -1,0 +1,7 @@
+{
+  "name": "hdhomerun-mcp",
+  "description": "MCP server for SiliconDust HDHomeRun network TV tuners, providing tools to control and query tuners, manage DVR recordings, and run diagnostics.",
+  "source_repo": "Knuckles-Team/hdhomerun-mcp",
+  "source_url": "https://github.com/Knuckles-Team/hdhomerun-mcp",
+  "install": "npx -y hdhomerun-mcp"
+}

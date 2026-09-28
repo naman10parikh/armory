@@ -1,0 +1,7 @@
+{
+  "name": "google-maps-platform-mcp-server",
+  "description": "Provides MCP tools for Google Maps services including directions, geocoding, distance matrix, and places search.",
+  "source_repo": "Neutrollized/google-maps-mcp-server",
+  "source_url": "https://github.com/Neutrollized/google-maps-mcp-server",
+  "install": "npx -y google-maps-mcp-server"
+}

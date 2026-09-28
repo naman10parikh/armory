@@ -1,0 +1,7 @@
+{
+  "name": "resume-matcher-mcp-server",
+  "description": "Provides sandboxed file system tools (read, write, search, list, watch) over the Model Context Protocol, enabling resume matching and analysis workflows via an agent.",
+  "source_repo": "roncyrthomas/resume-matcher-mcp",
+  "source_url": "https://github.com/roncyrthomas/resume-matcher-mcp",
+  "install": "npx -y resume-matcher-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tigerdata-pulumi-mcp-server",
+  "description": "An MCP server for managing TigerData Cloud services via Pulumi automation, enabling operations like creating, listing, and deleting TimescaleDB services through natural language.",
+  "source_repo": "TheSurfingCoder/tigerdata-pulumi-mcp-server",
+  "source_url": "https://github.com/TheSurfingCoder/tigerdata-pulumi-mcp-server",
+  "install": "npx -y tigerdata-pulumi-mcp-server"
+}

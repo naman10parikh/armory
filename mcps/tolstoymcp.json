@@ -1,0 +1,7 @@
+{
+  "name": "tolstoymcp",
+  "description": "Tolstoy MCP for AI-native ecommerce brands: Studio generates marketing videos and images, Library manages your media library, shoppable widgets, and ads, and Shopper searches products across brand stores with virtual try-on.",
+  "source_repo": "GoTolstoy/mcp",
+  "source_url": "https://github.com/GoTolstoy/mcp",
+  "install": "# git clone --depth 1 https://github.com/GoTolstoy/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gw",
+  "description": "Aggregates multiple MCP servers into a single HTTP endpoint with tool namespacing, dashboard, and REST API for management.",
+  "source_repo": "gpimthong/mcp-gw",
+  "source_url": "https://github.com/gpimthong/mcp-gw",
+  "install": "# git clone --depth 1 https://github.com/gpimthong/mcp-gw\n# See source for mcpServers config block"
+}

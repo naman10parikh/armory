@@ -1,6 +1,6 @@
 {
   "name": "commandexecution",
-  "description": "CommandExecution MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "ryaker/CommandExecution",
   "source_url": "https://mcp.so/server/CommandExecution/ryaker",
   "install": "# git clone --depth 1 https://mcp.so/server/CommandExecution/ryaker\n# See source for mcpServers config block"

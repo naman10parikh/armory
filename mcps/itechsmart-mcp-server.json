@@ -1,0 +1,7 @@
+{
+  "name": "itechsmart-mcp-server",
+  "description": "Enables AI agents to verify cryptographic ProofLink receipts, query UAIO platform status, and simulate infrastructure attacks, providing autonomous IT operations with audit trails.",
+  "source_repo": "Iteksmart/mcp-server",
+  "source_url": "https://github.com/Iteksmart/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Iteksmart/mcp-server\n# See source for mcpServers config block"
+}

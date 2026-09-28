@@ -1,0 +1,7 @@
+{
+  "name": "deepseek-vision",
+  "description": "MCP server that gives text-only LLMs vision capabilities by using a free multimodal model to perceive images, audio, and video, returning text for the main model to reason with.",
+  "source_repo": "Sunlianwang/deepseek-vision",
+  "source_url": "https://github.com/Sunlianwang/deepseek-vision",
+  "install": "# git clone --depth 1 https://github.com/Sunlianwang/deepseek-vision\n# See source for mcpServers config block"
+}

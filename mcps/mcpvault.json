@@ -1,0 +1,7 @@
+{
+  "name": "mcpvault",
+  "description": "Search and evaluate MCP servers from your AI agent: quality grades, live verification status, install commands and client compatibility for 5,000+ servers.",
+  "source_repo": "coburn2716/mcpvault-mcp",
+  "source_url": "https://github.com/coburn2716/mcpvault-mcp",
+  "install": "npx -y mcpvault-mcp"
+}

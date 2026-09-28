@@ -1,0 +1,7 @@
+{
+  "name": "kira-perplexity-scout",
+  "description": "Integrates Perplexity API into Claude/Cowork as MCP tools for search, trend scouting, and deep research.",
+  "source_repo": "Lina11-00/kira-perplexity",
+  "source_url": "https://github.com/Lina11-00/kira-perplexity",
+  "install": "# git clone --depth 1 https://github.com/Lina11-00/kira-perplexity\n# See source for mcpServers config block"
+}

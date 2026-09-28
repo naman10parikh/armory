@@ -1,0 +1,7 @@
+{
+  "name": "webpulse",
+  "description": "Enables live web retrieval through MCP, allowing Claude to fetch and extract current web information with validations, SSRF protections, and structured results for grounded responses.",
+  "source_repo": "Mayank1532/webpulse",
+  "source_url": "https://github.com/Mayank1532/webpulse",
+  "install": "# git clone --depth 1 https://github.com/Mayank1532/webpulse\n# See source for mcpServers config block"
+}

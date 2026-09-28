@@ -1,0 +1,7 @@
+{
+  "name": "moneys3-mcp",
+  "description": "MCP server for connecting AI clients to the Money S3 accounting system via GraphQL API, enabling operations on invoices, contacts, stock, banking, payroll, and more.",
+  "source_repo": "hlebtkachenko/moneys3-mcp",
+  "source_url": "https://github.com/hlebtkachenko/moneys3-mcp",
+  "install": "npx -y moneys3-mcp"
+}

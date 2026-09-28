@@ -1,0 +1,7 @@
+{
+  "name": "mcp-npm-publish",
+  "description": "MCP server for npm login, publishing, and viewing package operations.",
+  "source_repo": "LxyMp/npm-publish-mcp",
+  "source_url": "https://github.com/LxyMp/npm-publish-mcp",
+  "install": "npx -y npm-publish-mcp"
+}

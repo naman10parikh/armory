@@ -1,0 +1,7 @@
+{
+  "name": "powershell-terminal",
+  "description": "Enables Claude to execute PowerShell commands and scripts in a persistent interactive terminal on Windows, with real-time output streaming to a web terminal.",
+  "source_repo": "TiM00R/powershell-terminal-mcp",
+  "source_url": "https://github.com/TiM00R/powershell-terminal-mcp",
+  "install": "npx -y powershell-terminal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-template-python-3",
+  "description": "A minimal Model Context Protocol server template for Render with bearer token authentication, an example tool, and a health check endpoint. Enables deploying custom MCP tools quickly on Render.",
+  "source_repo": "pego29/mcp-server-python-mskl4du6",
+  "source_url": "https://github.com/pego29/mcp-server-python-mskl4du6",
+  "install": "# git clone --depth 1 https://github.com/pego29/mcp-server-python-mskl4du6\n# See source for mcpServers config block"
+}

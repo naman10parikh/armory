@@ -1,6 +1,6 @@
 {
   "name": "git-auto-commit",
-  "description": "Git Auto Commit MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "jatinsandilya/Git Auto Commit",
   "source_url": "https://mcp.so/server/Git Auto Commit/jatinsandilya",
   "install": "# git clone --depth 1 https://mcp.so/server/Git Auto Commit/jatinsandilya\n# See source for mcpServers config block"

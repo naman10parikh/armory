@@ -1,0 +1,7 @@
+{
+  "name": "file-tools-mcp-server",
+  "description": "An MCP server that provides file and directory tools for LLMs, including project structure analysis, file reading, and project context resources, with support for .gitignore patterns.",
+  "source_repo": "BumpyClock/file-tools-mcp",
+  "source_url": "https://github.com/BumpyClock/file-tools-mcp",
+  "install": "npx -y file-tools-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "caramelo-mcp-server",
+  "description": "MCP server that exposes tools to query DulceGestion business data (orders, stock, customers) and retrieve documentation via RAG, enabling Claude to assist with pastry shop management.",
+  "source_repo": "pablopelardas/dulcechat",
+  "source_url": "https://github.com/pablopelardas/dulcechat",
+  "install": "# git clone --depth 1 https://github.com/pablopelardas/dulcechat\n# See source for mcpServers config block"
+}

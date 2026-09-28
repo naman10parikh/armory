@@ -1,0 +1,7 @@
+{
+  "name": "chatcrystal",
+  "description": "Local-first AI PKM memory server for coding conversations. Imports Claude Code, Cursor, Codex CLI, Trae, and GitHub Copilot chats into notes, semantic search, tag graphs, Markdown exports, and MCP memory tools.",
+  "source_repo": "ZengLiangYi/ChatCrystal",
+  "source_url": "https://github.com/ZengLiangYi/ChatCrystal",
+  "install": "# git clone --depth 1 https://github.com/ZengLiangYi/ChatCrystal\n# See source for mcpServers config block"
+}

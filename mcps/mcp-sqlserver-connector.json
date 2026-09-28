@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sqlserver-connector",
+  "description": "MCP server that exposes SQL Server databases to Claude, allowing natural language queries with tools to list tables, describe schemas, and run read-only SELECT statements.",
+  "source_repo": "LEstebanVA/mcp-sqlserver-connector",
+  "source_url": "https://github.com/LEstebanVA/mcp-sqlserver-connector",
+  "install": "# git clone --depth 1 https://github.com/LEstebanVA/mcp-sqlserver-connector\n# See source for mcpServers config block"
+}

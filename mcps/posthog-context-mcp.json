@@ -1,0 +1,7 @@
+{
+  "name": "posthog-context-mcp",
+  "description": "MCP server that serves PostHog JavaScript SDK documentation to coding agents via efficient retrieval, offering tools to query and assemble cited context for tasks like capturing custom events.",
+  "source_repo": "josephruocco/posthog-mcp-mini",
+  "source_url": "https://github.com/josephruocco/posthog-mcp-mini",
+  "install": "# git clone --depth 1 https://github.com/josephruocco/posthog-mcp-mini\n# See source for mcpServers config block"
+}

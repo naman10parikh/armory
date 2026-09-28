@@ -1,0 +1,7 @@
+{
+  "name": "second-eyes-mcp",
+  "description": "A thin stdio client that proxies to the Second Eyes API, enabling wallet-equipped agents to pay via x402 and receive deterministic verdicts.",
+  "source_repo": "This-Is-Hellgate/second-eyes-ai",
+  "source_url": "https://github.com/This-Is-Hellgate/second-eyes-ai",
+  "install": "# git clone --depth 1 https://github.com/This-Is-Hellgate/second-eyes-ai\n# See source for mcpServers config block"
+}

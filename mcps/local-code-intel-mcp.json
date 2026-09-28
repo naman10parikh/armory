@@ -1,0 +1,7 @@
+{
+  "name": "local-code-intel-mcp",
+  "description": "Provides code intelligence by indexing source code into SQLite and offering MCP tools for symbol search, flow tracing, and context retrieval to assist with code navigation and understanding.",
+  "source_repo": "tungvt93/local-code-intel-mcp",
+  "source_url": "https://github.com/tungvt93/local-code-intel-mcp",
+  "install": "npx -y local-code-intel-mcp"
+}

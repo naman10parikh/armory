@@ -1,0 +1,7 @@
+{
+  "name": "renoolab-mcp",
+  "description": "Enables users to find and contact building tradespeople in France, and lets independent tradespeople create free profiles.",
+  "source_repo": "mehdimicra/renoolab-mcp",
+  "source_url": "https://github.com/mehdimicra/renoolab-mcp",
+  "install": "npx -y renoolab-mcp"
+}

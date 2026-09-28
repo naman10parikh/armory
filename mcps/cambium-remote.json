@@ -1,0 +1,7 @@
+{
+  "name": "cambium-remote",
+  "description": "Enables recall of promoted team and org knowledge from GitHub repositories via Claude.ai, supporting search and status checks.",
+  "source_repo": "jarmstrong158/cambium-remote",
+  "source_url": "https://github.com/jarmstrong158/cambium-remote",
+  "install": "# git clone --depth 1 https://github.com/jarmstrong158/cambium-remote\n# See source for mcpServers config block"
+}

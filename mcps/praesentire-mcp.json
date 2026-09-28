@@ -1,0 +1,7 @@
+{
+  "name": "praesentire-mcp",
+  "description": "MCP server for Praesentire — bilingual financial news sentiment as a Claude tool. Provides aggregated sentiment scores, batch queries, and English vs Chinese sentiment comparison for cross-market signals.",
+  "source_repo": "Etha0916/praesentire-mcp",
+  "source_url": "https://github.com/Etha0916/praesentire-mcp",
+  "install": "npx -y praesentire-mcp"
+}

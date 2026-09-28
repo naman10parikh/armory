@@ -1,0 +1,7 @@
+{
+  "name": "llm-redteam-mcp",
+  "description": "An MCP server that runs curated adversarial prompts against local Ollama models to test guardrails, scoring responses with heuristic verdicts for human review.",
+  "source_repo": "Aeronique/llm-redteam-mcp",
+  "source_url": "https://github.com/Aeronique/llm-redteam-mcp",
+  "install": "npx -y llm-redteam-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "self-improve",
+  "description": "Captures user corrections and improvements during interactions, logs them, finds recurring patterns, and prescribes preventive fixes like CLAUDE.md rules, skills, scripts, or MCP tools to avoid repeating mistakes.",
+  "source_repo": "Feynman520/d06-p01-self-improve",
+  "source_url": "https://github.com/Feynman520/d06-p01-self-improve",
+  "install": "# git clone --depth 1 https://github.com/Feynman520/d06-p01-self-improve\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chathook",
+  "description": "Enables AI agents to prompt users for input directly within the chat UI using MCP's elicitation capabilities, allowing for interactive multi-turn conversations without leaving the conversation interface.",
+  "source_repo": "kedaya2025/mcp-chathook",
+  "source_url": "https://github.com/kedaya2025/mcp-chathook",
+  "install": "# git clone --depth 1 https://github.com/kedaya2025/mcp-chathook\n# See source for mcpServers config block"
+}

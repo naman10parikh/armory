@@ -1,0 +1,7 @@
+{
+  "name": "brighty-mcp-server",
+  "description": "Banking infrastructure for AI agents: open accounts, issue cards, send SEPA/SWIFT payments, run mass payouts, and pay invoices via natural language.",
+  "source_repo": "razz-team/brighty-agent-toolkit",
+  "source_url": "https://github.com/razz-team/brighty-agent-toolkit",
+  "install": "# git clone --depth 1 https://github.com/razz-team/brighty-agent-toolkit\n# See source for mcpServers config block"
+}

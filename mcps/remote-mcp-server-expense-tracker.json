@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-server-expense-tracker",
+  "description": "A remote MCP server that lets users track expenses through Claude AI, supporting add, list, edit, and delete operations via natural language.",
+  "source_repo": "MOKSH0077/Remote-MCP-Server-Expense-Tracker",
+  "source_url": "https://github.com/MOKSH0077/Remote-MCP-Server-Expense-Tracker",
+  "install": "# git clone --depth 1 https://github.com/MOKSH0077/Remote-MCP-Server-Expense-Tracker\n# See source for mcpServers config block"
+}

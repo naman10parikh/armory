@@ -1,0 +1,7 @@
+{
+  "name": "market-data-mcp",
+  "description": "Provides real-time market data tools (quotes, news, earnings calendar, watchlist scanner, and composite analysis) for AI agents via Finnhub, with optional Alpaca broker integration and graceful degradation.",
+  "source_repo": "cstamigo-droid/market-data-mcp",
+  "source_url": "https://github.com/cstamigo-droid/market-data-mcp",
+  "install": "npx -y market-data-mcp"
+}

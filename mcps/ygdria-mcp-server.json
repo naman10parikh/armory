@@ -1,0 +1,7 @@
+{
+  "name": "ygdria-mcp-server",
+  "description": "A lightweight MCP adapter that connects AI clients to Ygdria Desktop's ETAPI, enabling note search, tree navigation, reading, and authorized editing via MCP tools and resources.",
+  "source_repo": "Seraphoenixy/Ygdria-MCP",
+  "source_url": "https://github.com/Seraphoenixy/Ygdria-MCP",
+  "install": "npx -y Ygdria-MCP"
+}

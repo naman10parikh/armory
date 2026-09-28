@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-github-trend",
+  "description": "Provides GitHub open-source intelligence via MCP tools for discovering trends, evaluating repository health, comparing projects, and analyzing users, issues, and releases. It includes a CLI and can be used with AI assistants like Claude or Cursor.",
+  "source_repo": "jankoli/mcp-server-github-trend",
+  "source_url": "https://github.com/jankoli/mcp-server-github-trend",
+  "install": "# git clone --depth 1 https://github.com/jankoli/mcp-server-github-trend\n# See source for mcpServers config block"
+}

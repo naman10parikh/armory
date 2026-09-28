@@ -1,0 +1,7 @@
+{
+  "name": "blockscout-mcp",
+  "description": "Enables AI models to interact with Blockscout API for blockchain data, including transactions, blocks, balances, and contract calls. Supports multiple endpoints for comprehensive blockchain exploration.",
+  "source_repo": "karacurt/blockscout-mcp-server",
+  "source_url": "https://github.com/karacurt/blockscout-mcp-server",
+  "install": "npx -y blockscout-mcp-server"
+}

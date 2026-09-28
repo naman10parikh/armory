@@ -1,0 +1,7 @@
+{
+  "name": "orbitmcp",
+  "description": "A lightweight, air-gapped desktop cockpit connecting local LLMs (Llama 3.2) to standard MCP tools with deterministic hardware safety, acting as an edge-native MCP control plane and autonomous tool dispatcher.",
+  "source_repo": "Velocity07/OrbitMCP",
+  "source_url": "https://github.com/Velocity07/OrbitMCP",
+  "install": "# git clone --depth 1 https://github.com/Velocity07/OrbitMCP\n# See source for mcpServers config block"
+}

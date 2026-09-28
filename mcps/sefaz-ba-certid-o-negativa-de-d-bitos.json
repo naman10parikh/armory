@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-ba-certid-o-negativa-de-d-bitos",
+  "description": "Enables querying official SEFAZ BA tax clearance certificates (Certidão Negativa de Débitos) through a read-only MCP tool, providing access to official fiscal status information for the state of Bahia, Brazil.",
+  "source_repo": "mcp-dir/sefaz_ba_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_ba_certidao_debitos-mcp",
+  "install": "npx -y sefaz_ba_certidao_debitos-mcp"
+}

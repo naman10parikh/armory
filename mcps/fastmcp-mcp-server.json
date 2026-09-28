@@ -1,0 +1,7 @@
+{
+  "name": "fastmcp-mcp-server",
+  "description": "A Model Context Protocol (MCP) server built with FastMCP that provides tools for web scraping and documentation searching.",
+  "source_repo": "Neel-XV/MCP-Server",
+  "source_url": "https://github.com/Neel-XV/MCP-Server",
+  "install": "# git clone --depth 1 https://github.com/Neel-XV/MCP-Server\n# See source for mcpServers config block"
+}

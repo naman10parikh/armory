@@ -1,0 +1,7 @@
+{
+  "name": "tradelab-mcp",
+  "description": "Quantitative research MCP server that lets AI define strategies and uses MetaTrader 5's official Strategy Tester to execute backtests, managing experiments and results via tools like run_backtest, get_run, and compare_runs.",
+  "source_repo": "CaioAllgayer/TradeLab-MCP",
+  "source_url": "https://github.com/CaioAllgayer/TradeLab-MCP",
+  "install": "npx -y TradeLab-MCP"
+}

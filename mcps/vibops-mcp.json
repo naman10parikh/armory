@@ -1,0 +1,7 @@
+{
+  "name": "vibops-mcp",
+  "description": "VibOps MCP is the control plane between your AI agents and your GPU infrastructure. 74 tools covering: GPU fleet management (deploy, scale, monitor across NVIDIA, AMD, Intel, AWS, Google, Groq), Agent Infrastructure Control Plane (per-agent GPU cost, budget enforcement, model policies, dependency gr",
+  "source_repo": "VibOpsai/vibops-mcp",
+  "source_url": "https://github.com/VibOpsai/vibops-mcp",
+  "install": "npx -y vibops-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "compendium",
+  "description": "MCP server that minimizes LLM token usage by compressing, summarizing, filtering, chunk-referencing, and pruning large context before it reaches the model, with heuristic or local-SLM smart actions, caching, and token counting.",
+  "source_repo": "hocestnonsatis/Compendium",
+  "source_url": "https://github.com/hocestnonsatis/Compendium",
+  "install": "# git clone --depth 1 https://github.com/hocestnonsatis/Compendium\n# See source for mcpServers config block"
+}

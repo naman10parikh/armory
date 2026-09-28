@@ -1,0 +1,7 @@
+{
+  "name": "finance-app",
+  "description": "Double-entry accounting service for personal finance with MCP tools, enabling AI agents to manage accounts, transactions, budgets, and analytics via PostgreSQL.",
+  "source_repo": "youssefaltai/finance-app",
+  "source_url": "https://github.com/youssefaltai/finance-app",
+  "install": "# git clone --depth 1 https://github.com/youssefaltai/finance-app\n# See source for mcpServers config block"
+}

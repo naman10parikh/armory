@@ -1,0 +1,7 @@
+{
+  "name": "k8scortex-mcp",
+  "description": "A production-grade MCP server providing a secure, natural-language interface to Kubernetes for developers and AI agents, with multi-cluster routing, OIDC authentication, RBAC, and audit logging.",
+  "source_repo": "apatilgtn/k8scortex-mcp",
+  "source_url": "https://github.com/apatilgtn/k8scortex-mcp",
+  "install": "npx -y k8scortex-mcp"
+}

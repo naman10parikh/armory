@@ -1,0 +1,7 @@
+{
+  "name": "cric-mcp",
+  "description": "Enterprise-grade MCP server providing daily cricket updates via FastAPI and SSE transport, integrating with Claude Remote MCP Connector.",
+  "source_repo": "thisismugil/cric-mcp",
+  "source_url": "https://github.com/thisismugil/cric-mcp",
+  "install": "npx -y cric-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "web-search-cli",
+  "description": "Enables web search using Bing and DuckDuckGo combined, and fetching readable content from web pages, with no API key required.",
+  "source_repo": "AusertDream/web-search-cli",
+  "source_url": "https://github.com/AusertDream/web-search-cli",
+  "install": "# git clone --depth 1 https://github.com/AusertDream/web-search-cli\n# See source for mcpServers config block"
+}

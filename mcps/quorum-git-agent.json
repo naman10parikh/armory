@@ -1,0 +1,7 @@
+{
+  "name": "quorum-git-agent",
+  "description": "Analyze GitHub repositories with health scores, issue triage, and action items through MCP tools.",
+  "source_repo": "rom4ik1346/quorum-git-agent",
+  "source_url": "https://github.com/rom4ik1346/quorum-git-agent",
+  "install": "# git clone --depth 1 https://github.com/rom4ik1346/quorum-git-agent\n# See source for mcpServers config block"
+}

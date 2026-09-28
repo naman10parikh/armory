@@ -1,0 +1,7 @@
+{
+  "name": "fetch-crawl-mcp",
+  "description": "Enables fetching, crawling, and analyzing web pages with 29 tools for SEO audits, content extraction, and more.",
+  "source_repo": "GeorgesAdSim/fetch-crawl-mcp",
+  "source_url": "https://github.com/GeorgesAdSim/fetch-crawl-mcp",
+  "install": "npx -y fetch-crawl-mcp"
+}

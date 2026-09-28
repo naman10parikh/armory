@@ -1,0 +1,7 @@
+{
+  "name": "swarm-mcp-server",
+  "description": "An MCP server that lets multiple AI coding agents coordinate as a swarm, with agent registration, task queues, messaging, a shared knowledge base, and fleet-wide machine capacity tracking.",
+  "source_repo": "Northern-Lighthouse/swarm-mcp-server",
+  "source_url": "https://github.com/Northern-Lighthouse/swarm-mcp-server",
+  "install": "npx -y swarm-mcp-server"
+}

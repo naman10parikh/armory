@@ -1,0 +1,7 @@
+{
+  "name": "cert-study",
+  "description": "Provides a local CBT exam system as MCP tools for Codex, managing study sessions, scoring, wrong answer tracking, and review queues with deterministic Python engine and optional Notion integration.",
+  "source_repo": "Merchantlee99/26_codex_learningsystem",
+  "source_url": "https://github.com/Merchantlee99/26_codex_learningsystem",
+  "install": "# git clone --depth 1 https://github.com/Merchantlee99/26_codex_learningsystem\n# See source for mcpServers config block"
+}

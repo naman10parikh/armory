@@ -1,0 +1,7 @@
+{
+  "name": "courses-mcp-server",
+  "description": "Enables LLMs to interact with FIT CTU course materials, including listing subjects, navigating subpages, reading content as Markdown, and performing keyword searches.",
+  "source_repo": "Dzendys/courses-mcp",
+  "source_url": "https://github.com/Dzendys/courses-mcp",
+  "install": "npx -y courses-mcp"
+}

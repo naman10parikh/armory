@@ -1,0 +1,7 @@
+{
+  "name": "mcp-site-manager",
+  "description": "Enables AI agents to manage WordPress sites via ~74 capabilities including content, media, plugins, themes, and more.",
+  "source_repo": "mrabbani/mcp-site-manager",
+  "source_url": "https://github.com/mrabbani/mcp-site-manager",
+  "install": "# git clone --depth 1 https://github.com/mrabbani/mcp-site-manager\n# See source for mcpServers config block"
+}

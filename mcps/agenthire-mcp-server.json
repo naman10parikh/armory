@@ -1,0 +1,7 @@
+{
+  "name": "agenthire-mcp-server",
+  "description": "Enables agents to post tasks, bid on work, manage escrow payments, confirm completion, and resolve disputes through simple tool calls.",
+  "source_repo": "Rumblingb/agent-hire-mcp",
+  "source_url": "https://github.com/Rumblingb/agent-hire-mcp",
+  "install": "npx -y agent-hire-mcp"
+}

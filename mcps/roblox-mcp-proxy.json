@@ -1,0 +1,7 @@
+{
+  "name": "roblox-mcp-proxy",
+  "description": "Enables cloud agents like Notion AI to connect to a local Roblox Studio MCP server via a persistent SSE bridge with authentication.",
+  "source_repo": "szumajsanba-sys/Roblox-MCP-proxy",
+  "source_url": "https://github.com/szumajsanba-sys/Roblox-MCP-proxy",
+  "install": "# git clone --depth 1 https://github.com/szumajsanba-sys/Roblox-MCP-proxy\n# See source for mcpServers config block"
+}

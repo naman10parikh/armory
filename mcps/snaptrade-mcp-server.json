@@ -1,0 +1,7 @@
+{
+  "name": "snaptrade-mcp-server",
+  "description": "A Test/Sandbox MCP server that integrates with the SnapTrade API Sandbox environment to provide portfolio oversight, market data, and trading capabilities.",
+  "source_repo": "matthewtzong/snaptrade_mcp",
+  "source_url": "https://github.com/matthewtzong/snaptrade_mcp",
+  "install": "npx -y snaptrade_mcp"
+}

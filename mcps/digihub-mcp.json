@@ -1,0 +1,7 @@
+{
+  "name": "digihub-mcp",
+  "description": "MCP server for the digihub.li content API, enabling Claude to read and write Stories, Solutions, and Sessions, and upload images for media.",
+  "source_repo": "M0TT3P/digihub-mcp",
+  "source_url": "https://github.com/M0TT3P/digihub-mcp",
+  "install": "npx -y digihub-mcp"
+}

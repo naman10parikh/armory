@@ -1,0 +1,7 @@
+{
+  "name": "metabo-idmapper",
+  "description": "Converts messy metabolite names into standard database identifiers (KEGG, HMDB, ChEBI, PubChem, InChIKey) and performs crosswalking to Mouse-GEM for metabolic model input, with deterministic tools and an LLM reasoning layer for identity disambiguation.",
+  "source_repo": "Wooyoung-kim91/metabo-idmapper",
+  "source_url": "https://github.com/Wooyoung-kim91/metabo-idmapper",
+  "install": "# git clone --depth 1 https://github.com/Wooyoung-kim91/metabo-idmapper\n# See source for mcpServers config block"
+}

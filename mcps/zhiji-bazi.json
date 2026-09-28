@@ -1,0 +1,7 @@
+{
+  "name": "zhiji-bazi",
+  "description": "MCP server for computing BaZi (Four Pillars) charts. Supports Gregorian, lunar, or direct Four Pillars input, with optional true solar time correction, and outputs strength, pattern, and useful god.",
+  "source_repo": "AmsonntagChow/zhiji-bazi",
+  "source_url": "https://github.com/AmsonntagChow/zhiji-bazi",
+  "install": "# git clone --depth 1 https://github.com/AmsonntagChow/zhiji-bazi\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "grounded-code-mcp",
+  "description": "A local MCP server that gives AI coding assistants retrieval access to your personal knowledge base of books, standards, and docs, grounding their answers in sources you trust.",
+  "source_repo": "michaelalber/grounded-code-mcp",
+  "source_url": "https://github.com/michaelalber/grounded-code-mcp",
+  "install": "npx -y grounded-code-mcp"
+}

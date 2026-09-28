@@ -1,0 +1,7 @@
+{
+  "name": "raven-roblox-mcp",
+  "description": "A Roblox MCP bridge that connects Codex and other MCP clients to a live Roblox client, enabling live inspection, control, and authorized reverse engineering.",
+  "source_repo": "valrinx/raven-roblox-mcp",
+  "source_url": "https://github.com/valrinx/raven-roblox-mcp",
+  "install": "npx -y raven-roblox-mcp"
+}

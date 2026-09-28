@@ -1,0 +1,7 @@
+{
+  "name": "aethyn-browser-mcp",
+  "description": "An MCP server enabling AI agents to drive a real browser through residential proxies with per-task geo (country/city) and sticky identity, all chosen at call time.",
+  "source_repo": "aethynio/aethyn-browser-mcp",
+  "source_url": "https://github.com/aethynio/aethyn-browser-mcp",
+  "install": "npx -y aethyn-browser-mcp"
+}

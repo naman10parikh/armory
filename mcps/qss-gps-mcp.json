@@ -1,0 +1,7 @@
+{
+  "name": "qss-gps-mcp",
+  "description": "Enables adding GPS goals and logging time directly from Claude Desktop, with support for bulk backfill and session management.",
+  "source_repo": "rajeevqss/qss-gps-mcp",
+  "source_url": "https://github.com/rajeevqss/qss-gps-mcp",
+  "install": "npx -y qss-gps-mcp"
+}

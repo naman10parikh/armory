@@ -1,0 +1,7 @@
+{
+  "name": "infra-advisor-mcp",
+  "description": "Estimates GPU requirements, training/inference costs, and cloud-vs-on-prem TCO for AI workloads using deterministic calculators.",
+  "source_repo": "c3-yang-song/LLM-Infra-Advisor-MCP",
+  "source_url": "https://github.com/c3-yang-song/LLM-Infra-Advisor-MCP",
+  "install": "npx -y LLM-Infra-Advisor-MCP"
+}

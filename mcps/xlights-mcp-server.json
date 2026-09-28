@@ -1,0 +1,7 @@
+{
+  "name": "xlights-mcp-server",
+  "description": "Analyzes music and generates xLights light show sequences, compatible with any MCP-compatible AI tool.",
+  "source_repo": "JohnBreault/xlights-mcp-server",
+  "source_url": "https://github.com/JohnBreault/xlights-mcp-server",
+  "install": "npx -y xlights-mcp-server"
+}

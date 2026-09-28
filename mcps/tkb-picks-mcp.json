@@ -1,0 +1,7 @@
+{
+  "name": "tkb-picks-mcp",
+  "description": "MCP server that wraps SportsGameOdds and BALLDONTLIE APIs to provide sports scheduling, odds, injuries, and team statistics tools for building TKB Picks threads.",
+  "source_repo": "tylerbody/tkb-picks-mcp",
+  "source_url": "https://github.com/tylerbody/tkb-picks-mcp",
+  "install": "npx -y tkb-picks-mcp"
+}

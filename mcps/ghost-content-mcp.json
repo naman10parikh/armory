@@ -1,0 +1,7 @@
+{
+  "name": "ghost-content-mcp",
+  "description": "Read-only MCP server for Ghost sites that enables AI assistants to search, summarize, and read content via hybrid lexical and semantic ranking.",
+  "source_repo": "doradame/ghost-content-mcp",
+  "source_url": "https://github.com/doradame/ghost-content-mcp",
+  "install": "npx -y ghost-content-mcp"
+}

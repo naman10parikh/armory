@@ -1,0 +1,7 @@
+{
+  "name": "coffee-price-mcp",
+  "description": "A read-only MCP server that wraps the coffee.pryzm.gg public API to calculate effective prices of coffee drinks after discounts, enabling users to find the cheapest coffee deals, search for discounts, and verify receipt prices.",
+  "source_repo": "jeonghwanko/coffee-price-mcp",
+  "source_url": "https://github.com/jeonghwanko/coffee-price-mcp",
+  "install": "npx -y coffee-price-mcp"
+}

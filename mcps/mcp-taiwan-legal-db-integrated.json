@@ -1,0 +1,7 @@
+{
+  "name": "mcp-taiwan-legal-db-integrated",
+  "description": "Enables AI assistants to query Taiwan's legal databases including court judgments, regulations, constitutional interpretations, and engineering committee letters, with automatic updates and offline caching.",
+  "source_repo": "oldbear-meme/mcp-taiwan-legal-db-integrated",
+  "source_url": "https://github.com/oldbear-meme/mcp-taiwan-legal-db-integrated",
+  "install": "# git clone --depth 1 https://github.com/oldbear-meme/mcp-taiwan-legal-db-integrated\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nrc-mcp",
+  "description": "An MCP server for designing, sculpting, optimizing, and shipping NetRadiant-custom levels for Urban Terror, exposing map editing, validation, rendering, and compilation through 47 tools and 5 resources.",
+  "source_repo": "luukvhoudt/nrc-mcp",
+  "source_url": "https://github.com/luukvhoudt/nrc-mcp",
+  "install": "npx -y nrc-mcp"
+}

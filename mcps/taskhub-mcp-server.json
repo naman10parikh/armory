@@ -1,0 +1,7 @@
+{
+  "name": "taskhub-mcp-server",
+  "description": "Provides 25 tools to manage tasks, projects, organizations, comments, notifications, and activity on the TaskHub platform via Claude Code.",
+  "source_repo": "jose890823/taskhub-mcp",
+  "source_url": "https://github.com/jose890823/taskhub-mcp",
+  "install": "npx -y taskhub-mcp"
+}

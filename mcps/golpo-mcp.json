@@ -1,0 +1,7 @@
+{
+  "name": "golpo-mcp",
+  "description": "MCP server for the Golpo AI video API, enabling video generation, listing, and downloading from any MCP-compatible client.",
+  "source_repo": "Golpo-AI/golpo-mcp",
+  "source_url": "https://github.com/Golpo-AI/golpo-mcp",
+  "install": "npx -y golpo-mcp"
+}

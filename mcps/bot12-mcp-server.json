@@ -1,0 +1,7 @@
+{
+  "name": "bot12-mcp-server",
+  "description": "Converts your bot12 trading bot into tools for Claude and other AI assistants, providing pre-built trading operations, account management, and reporting features.",
+  "source_repo": "mohamadasani494-pixel/bot12-mcp-server",
+  "source_url": "https://github.com/mohamadasani494-pixel/bot12-mcp-server",
+  "install": "npx -y bot12-mcp-server"
+}

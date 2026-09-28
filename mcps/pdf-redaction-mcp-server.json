@@ -1,0 +1,7 @@
+{
+  "name": "pdf-redaction-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides comprehensive PDF redaction capabilities, including text and image redaction, search, and session-based in-memory operations using FastMCP and pymupdf.",
+  "source_repo": "marc-hanheide/pdf-redaction-mcp",
+  "source_url": "https://github.com/marc-hanheide/pdf-redaction-mcp",
+  "install": "npx -y pdf-redaction-mcp"
+}

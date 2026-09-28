@@ -1,0 +1,7 @@
+{
+  "name": "recallant",
+  "description": "Self-hosted governed project memory for coding agents, recording decisions, checkpoints, evidence, review state, and agent activity in PostgreSQL with pgvector while keeping maintainer control over what becomes reusable memory or instruction-grade guidance.",
+  "source_repo": "Mushkrot/Recallant",
+  "source_url": "https://github.com/Mushkrot/Recallant",
+  "install": "# git clone --depth 1 https://github.com/Mushkrot/Recallant\n# See source for mcpServers config block"
+}

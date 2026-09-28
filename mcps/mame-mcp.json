@@ -1,0 +1,7 @@
+{
+  "name": "mame-mcp",
+  "description": "Enables MAME reverse engineering tasks including memory access tracing, input injection, ROM auditing, and IO-port discovery for arcade-to-SNES porting.",
+  "source_repo": "astrobleem/mame-mcp",
+  "source_url": "https://github.com/astrobleem/mame-mcp",
+  "install": "npx -y mame-mcp"
+}

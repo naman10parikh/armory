@@ -1,0 +1,7 @@
+{
+  "name": "krovacloud-mcp",
+  "description": "MCP server for interacting with the Krova Cloud API, enabling AI assistants like Claude to manage cloud resources.",
+  "source_repo": "krovacloud/krova-node",
+  "source_url": "https://github.com/krovacloud/krova-node",
+  "install": "# git clone --depth 1 https://github.com/krovacloud/krova-node\n# See source for mcpServers config block"
+}

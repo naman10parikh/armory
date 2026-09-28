@@ -1,0 +1,7 @@
+{
+  "name": "upstage-mcp-server",
+  "description": "Enables AI assistants to extract and structure content from documents (PDFs, images, Office files) using Upstage AI's document digitization and information extraction APIs.",
+  "source_repo": "PritamPatil2603/upstage-mcp-server",
+  "source_url": "https://github.com/PritamPatil2603/upstage-mcp-server",
+  "install": "npx -y upstage-mcp-server"
+}

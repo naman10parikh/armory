@@ -1,0 +1,7 @@
+{
+  "name": "booklib",
+  "description": "A context engineering tool for AI coding assistants that detects post-training knowledge gaps, resolves them automatically, and delivers team decisions via MCP to Claude, Cursor, Copilot, and other AI tools.",
+  "source_repo": "booklib-ai/booklib",
+  "source_url": "https://github.com/booklib-ai/booklib",
+  "install": "# git clone --depth 1 https://github.com/booklib-ai/booklib\n# See source for mcpServers config block"
+}

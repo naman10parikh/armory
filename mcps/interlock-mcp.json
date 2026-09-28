@@ -1,0 +1,7 @@
+{
+  "name": "interlock-mcp",
+  "description": "A human-in-the-loop governance interlock for AI agents. Agents propose changes, a human countersigns the exact plan, and then it executes stage by stage with precondition checks, verification, and auditing.",
+  "source_repo": "Zigerus/interlock-mcp",
+  "source_url": "https://github.com/Zigerus/interlock-mcp",
+  "install": "npx -y interlock-mcp"
+}

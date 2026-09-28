@@ -1,0 +1,7 @@
+{
+  "name": "aisle-wedding-mcp",
+  "description": "Search destination wedding venues and vendors worldwide with Aisle. 10 tools for AI-assisted wedding planning: Venue Search: Find wedding venues by country, type (villa, beach, castle, resort), capacity, and budget. Covers 20+ countries. Vendor Search: Browse wedding photographers, florists, planner",
+  "source_repo": "Nunya-design/aisle-mcp",
+  "source_url": "https://github.com/Nunya-design/aisle-mcp",
+  "install": "npx -y aisle-mcp"
+}

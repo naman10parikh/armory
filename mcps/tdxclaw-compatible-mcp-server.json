@@ -1,0 +1,7 @@
+{
+  "name": "tdxclaw-compatible-mcp-server",
+  "description": "A standalone local MCP server that provides web fetching, searching, and HTTP request tools without requiring TdxClaw installation.",
+  "source_repo": "seanWeb3dDev/financial-mcp-server",
+  "source_url": "https://github.com/seanWeb3dDev/financial-mcp-server",
+  "install": "npx -y financial-mcp-server"
+}

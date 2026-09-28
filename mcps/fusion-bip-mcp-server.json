@@ -1,0 +1,7 @@
+{
+  "name": "fusion-bip-mcp-server",
+  "description": "MCP server for Oracle Fusion BI Publisher that lets AI agents run queries, reports, and manage catalog objects via a secure, scoped interface.",
+  "source_repo": "brainmakeassistant/fusion-bip-mcp-server",
+  "source_url": "https://github.com/brainmakeassistant/fusion-bip-mcp-server",
+  "install": "npx -y fusion-bip-mcp-server"
+}

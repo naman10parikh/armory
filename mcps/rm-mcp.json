@@ -1,0 +1,7 @@
+{
+  "name": "rm-mcp",
+  "description": "Enables AI assistants to read, search, and traverse your reMarkable tablet library, including handwritten notes via OCR, turning it into a second brain.",
+  "source_repo": "wavyrai/rm-mcp",
+  "source_url": "https://github.com/wavyrai/rm-mcp",
+  "install": "npx -y rm-mcp"
+}

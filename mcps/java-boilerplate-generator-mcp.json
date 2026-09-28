@@ -1,0 +1,7 @@
+{
+  "name": "java-boilerplate-generator-mcp",
+  "description": "Enables automatic generation of explicit boilerplate methods (getter/setter/equals/hashCode/toString/constructors) for Java entity classes, replacing Lombok dependencies with visible, reviewable code.",
+  "source_repo": "FlyDut/java-boilerplate-mcp",
+  "source_url": "https://github.com/FlyDut/java-boilerplate-mcp",
+  "install": "npx -y java-boilerplate-mcp"
+}

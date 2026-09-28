@@ -1,0 +1,7 @@
+{
+  "name": "spider-cloud-mcp-server",
+  "description": "Enables AI assistants to scrape, crawl, search, and extract data from websites via the Spider Cloud API, with anti-bot bypass and JavaScript rendering.",
+  "source_repo": "willbohn/spider-mcp",
+  "source_url": "https://github.com/willbohn/spider-mcp",
+  "install": "npx -y spider-mcp"
+}

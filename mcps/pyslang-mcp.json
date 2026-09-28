@@ -1,0 +1,7 @@
+{
+  "name": "pyslang-mcp",
+  "description": "Provides AI agents with compiler-backed, read-only context for Verilog and SystemVerilog projects using pyslang.",
+  "source_repo": "ariklapid/pyslang-mcp",
+  "source_url": "https://github.com/ariklapid/pyslang-mcp",
+  "install": "npx -y pyslang-mcp"
+}

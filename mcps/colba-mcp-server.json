@@ -1,0 +1,7 @@
+{
+  "name": "colba-mcp-server",
+  "description": "Enables AI agents to interact with the Colba API for managing workflow pipelines, processes, and approval requests.",
+  "source_repo": "mysiteby/colba-mcp",
+  "source_url": "https://github.com/mysiteby/colba-mcp",
+  "install": "npx -y colba-mcp"
+}

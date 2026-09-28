@@ -1,0 +1,7 @@
+{
+  "name": "safra-mcp",
+  "description": "Enables AI assistants to securely read balances, statements, credit card bills, and investments from Safra accounts via Open Finance Brasil. Read-only, regulated by the Central Bank of Brazil.",
+  "source_repo": "mcp-dir/safra-mcp",
+  "source_url": "https://github.com/mcp-dir/safra-mcp",
+  "install": "npx -y safra-mcp"
+}

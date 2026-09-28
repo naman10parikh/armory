@@ -1,0 +1,7 @@
+{
+  "name": "funplay-mcp-for-cocos",
+  "description": "An embedded MCP server for Cocos Creator that enables AI assistants to inspect and operate running Cocos projects through tools like execute_javascript, get_project_info, and screenshot capture.",
+  "source_repo": "XOVIET-GAME/cocos-mcp-xoviet",
+  "source_url": "https://github.com/XOVIET-GAME/cocos-mcp-xoviet",
+  "install": "# git clone --depth 1 https://github.com/XOVIET-GAME/cocos-mcp-xoviet\n# See source for mcpServers config block"
+}

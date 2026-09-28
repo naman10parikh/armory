@@ -1,0 +1,7 @@
+{
+  "name": "mcp-governance-proxy",
+  "description": "An MCP server that acts as a governance proxy for AI agents, evaluating each tool call against policies before execution, enabling secure and controlled access to systems like Slack, GitHub, and AWS without exposing credentials to the agent.",
+  "source_repo": "andreas-altamirano/mcp-governance-proxy",
+  "source_url": "https://github.com/andreas-altamirano/mcp-governance-proxy",
+  "install": "# git clone --depth 1 https://github.com/andreas-altamirano/mcp-governance-proxy\n# See source for mcpServers config block"
+}

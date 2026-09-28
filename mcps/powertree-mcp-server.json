@@ -1,0 +1,7 @@
+{
+  "name": "powertree-mcp-server",
+  "description": "Enables AI assistants to perform electronic circuit power tree analysis, including opening projects, solving margins, validating designs, editing elements, managing waivers, and exporting reports.",
+  "source_repo": "bin2ai/powertree",
+  "source_url": "https://github.com/bin2ai/powertree",
+  "install": "# git clone --depth 1 https://github.com/bin2ai/powertree\n# See source for mcpServers config block"
+}

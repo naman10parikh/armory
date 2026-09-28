@@ -1,0 +1,7 @@
+{
+  "name": "community-prompt-voting-mcp-server",
+  "description": "MCP server for community-driven prompt voting and discovery — submit, upvote, and find the best AI prompts.",
+  "source_repo": "AiAgentKarl/community-prompt-voting-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/community-prompt-voting-mcp-server",
+  "install": "npx -y community-prompt-voting-mcp-server"
+}

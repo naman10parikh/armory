@@ -1,0 +1,7 @@
+{
+  "name": "worldanvil-mcp-server",
+  "description": "MCP server for World Anvil that enables browsing, searching, and managing world content, plus exporting complete copies for migrations or backups.",
+  "source_repo": "daireb/worldanvil-mcp",
+  "source_url": "https://github.com/daireb/worldanvil-mcp",
+  "install": "npx -y worldanvil-mcp"
+}

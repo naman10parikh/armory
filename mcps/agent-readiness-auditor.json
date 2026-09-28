@@ -1,0 +1,7 @@
+{
+  "name": "agent-readiness-auditor",
+  "description": "Scans a website to score its compatibility and safety for AI agents, and exposes an audit tool via the Model Context Protocol.",
+  "source_repo": "asish-singh/agent-readiness-auditor",
+  "source_url": "https://github.com/asish-singh/agent-readiness-auditor",
+  "install": "# git clone --depth 1 https://github.com/asish-singh/agent-readiness-auditor\n# See source for mcpServers config block"
+}

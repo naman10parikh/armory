@@ -1,0 +1,7 @@
+{
+  "name": "waybill",
+  "description": "A token accounting plugin for Claude Code that meters AI token usage, attributes costs to Jira stories, and generates evidence-backed reports for performance reviews and budget requests.",
+  "source_repo": "Jakeintech/waybill",
+  "source_url": "https://github.com/Jakeintech/waybill",
+  "install": "# git clone --depth 1 https://github.com/Jakeintech/waybill\n# See source for mcpServers config block"
+}

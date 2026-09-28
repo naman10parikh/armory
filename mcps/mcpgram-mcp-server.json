@@ -1,0 +1,7 @@
+{
+  "name": "mcpgram-mcp-server",
+  "description": "Model Context Protocol server for MCPGRAM that enables MCP clients to interact with connectors like GitHub, Slack, and Notion through stdio or Streamable HTTP transports.",
+  "source_repo": "Aryan418-dev/mcpgram-mcp-server",
+  "source_url": "https://github.com/Aryan418-dev/mcpgram-mcp-server",
+  "install": "npx -y mcpgram-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crrem-mcp-server",
+  "description": "Provides CRREM v2.05 carbon pathway data for real estate decarbonization analysis, including carbon/energy targets, emission factors, climate zones, and stranding risk calculations.",
+  "source_repo": "soapboxbuild/crrem-mcp",
+  "source_url": "https://github.com/soapboxbuild/crrem-mcp",
+  "install": "npx -y crrem-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "varity-mcp-server",
+  "description": "Enables AI coding tools to scaffold, build, and deploy Node.js or Python apps to Varity with a single command, automatically provisioning databases and backend services.",
+  "source_repo": "varity-labs/varity-mcp",
+  "source_url": "https://github.com/varity-labs/varity-mcp",
+  "install": "npx -y varity-mcp"
+}

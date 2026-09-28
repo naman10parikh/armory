@@ -1,0 +1,7 @@
+{
+  "name": "onedrive-live-mcp-on-cloudflare",
+  "description": "A read-only remote MCP server that searches and reads files from a personal Microsoft OneDrive folder via Cloudflare Workers, enabling live access without a local workstation or tunnel.",
+  "source_repo": "njuorju/OneDrive-Live-MCP-on-Cloudflare",
+  "source_url": "https://github.com/njuorju/OneDrive-Live-MCP-on-Cloudflare",
+  "install": "# git clone --depth 1 https://github.com/njuorju/OneDrive-Live-MCP-on-Cloudflare\n# See source for mcpServers config block"
+}

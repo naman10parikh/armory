@@ -1,0 +1,7 @@
+{
+  "name": "anova-oven-mcp",
+  "description": "Enables controlling an Anova Precision Oven through MCP, including reading temperatures, starting and managing cooks, and capturing camera frames.",
+  "source_repo": "ampdot-io/anova-oven-mcp",
+  "source_url": "https://github.com/ampdot-io/anova-oven-mcp",
+  "install": "npx -y anova-oven-mcp"
+}

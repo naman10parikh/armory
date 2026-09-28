@@ -1,0 +1,7 @@
+{
+  "name": "proofflow-mcp-server",
+  "description": "Enables AI coding agents to record auditable work ledgers with evidence chains, from contract to proof packet, via MCP tools for file scanning, code review, and issue triage.",
+  "source_repo": "Hyperion-GPU/ProofFlow-v0.1",
+  "source_url": "https://github.com/Hyperion-GPU/ProofFlow-v0.1",
+  "install": "# git clone --depth 1 https://github.com/Hyperion-GPU/ProofFlow-v0.1\n# See source for mcpServers config block"
+}

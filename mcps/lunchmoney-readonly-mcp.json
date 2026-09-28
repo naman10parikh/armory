@@ -1,0 +1,7 @@
+{
+  "name": "lunchmoney-readonly-mcp",
+  "description": "A read-only MCP server for Lunch Money that provides secure, retrieval-only access to financial data through ChatGPT Business, with OAuth authentication and enforced read-only restrictions.",
+  "source_repo": "bhonick/lunchmoney-readonly-mcp",
+  "source_url": "https://github.com/bhonick/lunchmoney-readonly-mcp",
+  "install": "npx -y lunchmoney-readonly-mcp"
+}

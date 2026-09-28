@@ -1,0 +1,7 @@
+{
+  "name": "skill-lint",
+  "description": "Lint agent SKILL.md files and MCP tool schemas to catch issues like missing descriptions, similar skills, unconstrained parameters, and destructive tools without confirmation gates.",
+  "source_repo": "0xNagato/skill-lint",
+  "source_url": "https://github.com/0xNagato/skill-lint",
+  "install": "# git clone --depth 1 https://github.com/0xNagato/skill-lint\n# See source for mcpServers config block"
+}

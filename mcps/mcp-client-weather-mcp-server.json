@@ -1,6 +1,6 @@
 {
   "name": "mcp-client-weather-mcp-server",
-  "description": "MCP Client Weather MCP Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "trymeuj/MCP-client-weather-MCP-server",
   "source_url": "https://mcp.so/server/MCP-client-weather-MCP-server/trymeuj",
   "install": "npx -y MCP-client-weather-MCP-server"

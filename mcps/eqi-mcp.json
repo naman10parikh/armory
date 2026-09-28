@@ -1,0 +1,7 @@
+{
+  "name": "eqi-mcp",
+  "description": "Connects to EQI accounts via Open Finance Brasil, enabling read-only access to balances, statements, credit card bills, investments, and loans through natural language.",
+  "source_repo": "mcp-dir/eqi-mcp",
+  "source_url": "https://github.com/mcp-dir/eqi-mcp",
+  "install": "npx -y eqi-mcp"
+}

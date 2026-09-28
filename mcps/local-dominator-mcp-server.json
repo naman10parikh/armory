@@ -1,0 +1,7 @@
+{
+  "name": "local-dominator-mcp-server",
+  "description": "Connects AI agents to pull SERP rankings, site audit issues, AI Tracker visibility, geogrid scans, and review data from a Local Dominator account.",
+  "source_repo": "localdominator/mcp-server",
+  "source_url": "https://github.com/localdominator/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/localdominator/mcp-server\n# See source for mcpServers config block"
+}

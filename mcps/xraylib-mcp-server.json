@@ -1,0 +1,7 @@
+{
+  "name": "xraylib-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides access to xraylib X-ray interaction data through a standardized interface. Query cross-sections, fluorescence lines, edge energies, and more from any MCP-compatible client.",
+  "source_repo": "tschoonj/xraylib-mcp-server",
+  "source_url": "https://github.com/tschoonj/xraylib-mcp-server",
+  "install": "npx -y xraylib-mcp-server"
+}

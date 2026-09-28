@@ -1,0 +1,7 @@
+{
+  "name": "personal-db-mcp-server",
+  "description": "Provides structured personal data (skills, experiences, values) as context to AI services, enabling personalized outputs across different AI applications.",
+  "source_repo": "itoufo/personal-db-mcp",
+  "source_url": "https://github.com/itoufo/personal-db-mcp",
+  "install": "npx -y personal-db-mcp"
+}

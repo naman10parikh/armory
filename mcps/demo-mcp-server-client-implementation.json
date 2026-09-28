@@ -1,6 +1,6 @@
 {
   "name": "demo-mcp-server-client-implementation",
-  "description": "Demo Mcp Server Client Implementation MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "mschwarzmueller/demo-mcp-server-client-implementation",
   "source_url": "https://mcp.so/server/demo-mcp-server-client-implementation/mschwarzmueller",
   "install": "# git clone --depth 1 https://mcp.so/server/demo-mcp-server-client-implementation/mschwarzmueller\n# See source for mcpServers config block"

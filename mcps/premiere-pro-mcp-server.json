@@ -1,0 +1,7 @@
+{
+  "name": "premiere-pro-mcp-server",
+  "description": "Enables AI assistants to fully control Adobe Premiere Pro through 269 tools across 28 modules for video editing tasks like importing media, editing timelines, applying effects, and exporting.",
+  "source_repo": "leancoderkavy/premiere-pro-mcp",
+  "source_url": "https://github.com/leancoderkavy/premiere-pro-mcp",
+  "install": "npx -y premiere-pro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tool-gateway",
+  "description": "A secure tool-execution plane for agentic AI that enforces JWT authentication, rate limiting, prompt-injection inspection, and audit logging, while ingesting downstream OpenAPI endpoints as MCP tools.",
+  "source_repo": "chandanCoding/mcp-tool-gateway",
+  "source_url": "https://github.com/chandanCoding/mcp-tool-gateway",
+  "install": "# git clone --depth 1 https://github.com/chandanCoding/mcp-tool-gateway\n# See source for mcpServers config block"
+}

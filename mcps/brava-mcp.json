@@ -1,0 +1,7 @@
+{
+  "name": "brava-mcp",
+  "description": "Enables querying rare-variant, gene-based association results across ~1.2M individuals from 10 global biobanks, supporting phenome-wide scans, replication screens across ancestries, and candidate list evaluation for 44 harmonized traits.",
+  "source_repo": "plemio/brava-mcp",
+  "source_url": "https://github.com/plemio/brava-mcp",
+  "install": "npx -y brava-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sentinela-mcp",
+  "description": "Provides coding agents with durable, cross-session lessons-learned memory, enforcing that success or failure verdicts can only come from human approval, human correction, or objective metrics—never from the agent itself.",
+  "source_repo": "luclinocruz/lucross-sentinela-mcp",
+  "source_url": "https://github.com/luclinocruz/lucross-sentinela-mcp",
+  "install": "npx -y lucross-sentinela-mcp"
+}

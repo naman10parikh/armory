@@ -1,0 +1,7 @@
+{
+  "name": "condor-mcp",
+  "description": "Enables searching a product catalog stored in SQLite by category via the catalog.search tool.",
+  "source_repo": "locus-x64/condor-mcp",
+  "source_url": "https://github.com/locus-x64/condor-mcp",
+  "install": "npx -y condor-mcp"
+}

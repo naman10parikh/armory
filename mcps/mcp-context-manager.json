@@ -1,0 +1,7 @@
+{
+  "name": "mcp-context-manager",
+  "description": "This MCP server provides tools to manage, score, compress, and prune AI agent conversation context, helping keep agents focused and reduce token costs. It is a free, local, pure Python solution for any MCP client.",
+  "source_repo": "princeruhulofficial/mcp-context-manager",
+  "source_url": "https://github.com/princeruhulofficial/mcp-context-manager",
+  "install": "# git clone --depth 1 https://github.com/princeruhulofficial/mcp-context-manager\n# See source for mcpServers config block"
+}

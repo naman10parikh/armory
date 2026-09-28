@@ -1,0 +1,7 @@
+{
+  "name": "jan-terminal-mcp",
+  "description": "An MCP server that gives Jan AI terminal and code execution capabilities, enabling shell commands, multi-language code execution, file manipulation, and git operations locally.",
+  "source_repo": "Trigodil/jan-terminal-mcp",
+  "source_url": "https://github.com/Trigodil/jan-terminal-mcp",
+  "install": "npx -y jan-terminal-mcp"
+}

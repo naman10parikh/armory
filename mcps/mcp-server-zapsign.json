@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-zapsign",
+  "description": "Enables integration with the ZapSign API for electronic document signing and management, including document, template, signer, webhook, and background check operations through MCP tools.",
+  "source_repo": "ZapSign/api-mcp",
+  "source_url": "https://github.com/ZapSign/api-mcp",
+  "install": "npx -y api-mcp"
+}

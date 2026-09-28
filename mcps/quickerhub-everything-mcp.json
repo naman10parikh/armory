@@ -1,0 +1,7 @@
+{
+  "name": "quickerhub-everything-mcp",
+  "description": "Enables fast cross-project file search on Windows using Voidtools Everything. Agents can locate files and folders across the whole machine in milliseconds.",
+  "source_repo": "QuickerHub/everything-mcp",
+  "source_url": "https://github.com/QuickerHub/everything-mcp",
+  "install": "npx -y everything-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ros2-mcp",
+  "description": "MCP server for AI agents to inspect and control ROS2 graphs, enabling topic listing, node info, service calls, parameter management, and pub/echo without manual ROS2 CLI usage.",
+  "source_repo": "mergeos-bounties/ros2-mcp",
+  "source_url": "https://github.com/mergeos-bounties/ros2-mcp",
+  "install": "npx -y ros2-mcp"
+}

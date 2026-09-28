@@ -1,0 +1,7 @@
+{
+  "name": "whats-inherited-mcp",
+  "description": "Enumerates everything in a code checkout addressed to an AI agent, including instruction files, hook commands, declared MCP servers, and skills/subagents, so you can review what your agent will actually follow.",
+  "source_repo": "stcmain/whats-inherited-mcp",
+  "source_url": "https://github.com/stcmain/whats-inherited-mcp",
+  "install": "npx -y whats-inherited-mcp"
+}

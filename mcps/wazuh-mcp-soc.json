@@ -1,0 +1,7 @@
+{
+  "name": "wazuh-mcp-soc",
+  "description": "Enables natural-language security operations by connecting Wazuh SIEM to Claude Desktop via MCP, allowing querying of alerts, agents, vulnerabilities, and generating security reports with Slack integration.",
+  "source_repo": "cisse-lalya/Wazuh-SIEM-Claude-Desktop-Conversational-SOC-via-MCP",
+  "source_url": "https://github.com/cisse-lalya/Wazuh-SIEM-Claude-Desktop-Conversational-SOC-via-MCP",
+  "install": "npx -y Wazuh-SIEM-Claude-Desktop-Conversational-SOC-via-MCP"
+}

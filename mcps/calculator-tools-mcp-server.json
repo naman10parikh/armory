@@ -1,0 +1,7 @@
+{
+  "name": "calculator-tools-mcp-server",
+  "description": "Provides utility tools for temperature conversion, percentage calculation, and news fetching from NewsAPI.",
+  "source_repo": "yogeshkk2/mcp-server",
+  "source_url": "https://github.com/yogeshkk2/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/yogeshkk2/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gptzero-mcp",
+  "description": "Enables AI content detection with sentence-level and paragraph-level AI probability scoring to identify and fix AI-generated text.",
+  "source_repo": "cphoskins/gptzero-mcp",
+  "source_url": "https://github.com/cphoskins/gptzero-mcp",
+  "install": "npx -y gptzero-mcp"
+}

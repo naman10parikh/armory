@@ -1,0 +1,7 @@
+{
+  "name": "vanam-erp-mcp",
+  "description": "MCP server for querying inventory items and stock levels via internal API, enabling AI chatbots to look up product codes and current quantities.",
+  "source_repo": "LeeJunHeon/vanam-erp-mcp",
+  "source_url": "https://github.com/LeeJunHeon/vanam-erp-mcp",
+  "install": "npx -y vanam-erp-mcp"
+}

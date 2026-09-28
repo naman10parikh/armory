@@ -1,0 +1,7 @@
+{
+  "name": "finanpy",
+  "description": "MCP server for personal finance management that connects a SQLite database to any MCP client, allowing users to register, query, and analyze financial transactions through natural language.",
+  "source_repo": "Gahbrielms/exercicio_mcp",
+  "source_url": "https://github.com/Gahbrielms/exercicio_mcp",
+  "install": "npx -y exercicio_mcp"
+}

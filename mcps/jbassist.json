@@ -1,6 +1,6 @@
 {
   "name": "jbassist",
-  "description": "JBAssist MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "JBAgent/JBAssist",
   "source_url": "https://mcp.so/server/JBAssist/JBAgent",
   "install": "# git clone --depth 1 https://mcp.so/server/JBAssist/JBAgent\n# See source for mcpServers config block"

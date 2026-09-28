@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tool-connector",
+  "description": "Exposes search over internal documents and company lookup via authenticated API, enabling LLMs to access firm files and data.",
+  "source_repo": "GayathriNarayanan1610/mcp-tool-connector",
+  "source_url": "https://github.com/GayathriNarayanan1610/mcp-tool-connector",
+  "install": "# git clone --depth 1 https://github.com/GayathriNarayanan1610/mcp-tool-connector\n# See source for mcpServers config block"
+}

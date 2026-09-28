@@ -1,0 +1,7 @@
+{
+  "name": "clarilayer",
+  "description": "The individual-analyst context layer, delivered over MCP, that gives your AI coding agent durable, reconciled memory of your data context to stop re-explaining data every session.",
+  "source_repo": "clarilayer/clarilayer",
+  "source_url": "https://github.com/clarilayer/clarilayer",
+  "install": "# git clone --depth 1 https://github.com/clarilayer/clarilayer\n# See source for mcpServers config block"
+}

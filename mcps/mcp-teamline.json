@@ -1,0 +1,7 @@
+{
+  "name": "mcp-teamline",
+  "description": "Enables MCP hosts to call the Teamline API for user authentication, task listing, creation, completion, and webhook management.",
+  "source_repo": "aroy314/mcp-teamline",
+  "source_url": "https://github.com/aroy314/mcp-teamline",
+  "install": "# git clone --depth 1 https://github.com/aroy314/mcp-teamline\n# See source for mcpServers config block"
+}

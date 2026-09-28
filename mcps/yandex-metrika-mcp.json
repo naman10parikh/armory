@@ -1,0 +1,7 @@
+{
+  "name": "yandex-metrika-mcp",
+  "description": "Read-only MCP server for Yandex Metrika analytics, enabling report retrieval via MCP clients like Claude Code or Cursor without modifying any data.",
+  "source_repo": "nikolaymokh-dev/yandex-metrika-mcp",
+  "source_url": "https://github.com/nikolaymokh-dev/yandex-metrika-mcp",
+  "install": "npx -y yandex-metrika-mcp"
+}

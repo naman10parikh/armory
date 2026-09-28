@@ -1,0 +1,7 @@
+{
+  "name": "skillfm-byok-vault-mcp",
+  "description": "BYOK vault and provider API key usage guidance for MCP-capable agents.",
+  "source_repo": "ericm1018/skillfm-byok-vault-mcp",
+  "source_url": "https://github.com/ericm1018/skillfm-byok-vault-mcp",
+  "install": "npx -y skillfm-byok-vault-mcp"
+}

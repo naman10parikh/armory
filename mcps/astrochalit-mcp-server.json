@@ -1,0 +1,7 @@
+{
+  "name": "astrochalit-mcp-server",
+  "description": "Enables AI assistants to access real-time Vedic astrology data and perform calculations like horoscopes, panchang, matchmaking, and planetary positions via the AstroChalit API.",
+  "source_repo": "subhamPoulimaInfotech/Astroavastha_api_mcp",
+  "source_url": "https://github.com/subhamPoulimaInfotech/Astroavastha_api_mcp",
+  "install": "npx -y Astroavastha_api_mcp"
+}

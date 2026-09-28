@@ -1,0 +1,7 @@
+{
+  "name": "poke-google-docs-mcp",
+  "description": "A remote MCP server that lets your Poke agent create and edit Google Docs.",
+  "source_repo": "niharxavier/poke-google-docs-mcp",
+  "source_url": "https://github.com/niharxavier/poke-google-docs-mcp",
+  "install": "npx -y poke-google-docs-mcp"
+}

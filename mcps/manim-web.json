@@ -1,0 +1,7 @@
+{
+  "name": "manim-web",
+  "description": "MCP server for creating math animations with manim, enabling AI-driven real-time interactive creation and browser preview.",
+  "source_repo": "1Cyrvox/manim-mcpweb",
+  "source_url": "https://github.com/1Cyrvox/manim-mcpweb",
+  "install": "# git clone --depth 1 https://github.com/1Cyrvox/manim-mcpweb\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "veracium-mcp-server",
+  "description": "Provides agents with durable, provenance-aware memory through tools for remembering, recalling, answering, and maintaining information, while structurally resisting injection and confabulation.",
+  "source_repo": "veracium-ai/Veracium",
+  "source_url": "https://github.com/veracium-ai/Veracium",
+  "install": "# git clone --depth 1 https://github.com/veracium-ai/Veracium\n# See source for mcpServers config block"
+}

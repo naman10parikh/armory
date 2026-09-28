@@ -1,0 +1,7 @@
+{
+  "name": "arzbin-mcp-server",
+  "description": "Live Iran exchange rates, gold, crypto, and Toman/Rial market data for AI agents.",
+  "source_repo": "arzbin-com/arzbin-mcp",
+  "source_url": "https://github.com/arzbin-com/arzbin-mcp",
+  "install": "npx -y arzbin-mcp"
+}

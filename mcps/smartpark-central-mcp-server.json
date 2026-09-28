@@ -1,0 +1,7 @@
+{
+  "name": "smartpark-central-mcp-server",
+  "description": "Records approved parking reservations to a secure text file via the Model Context Protocol, with token authentication and input sanitization.",
+  "source_repo": "AraksyaG/epam-ai-engineering-stage3",
+  "source_url": "https://github.com/AraksyaG/epam-ai-engineering-stage3",
+  "install": "# git clone --depth 1 https://github.com/AraksyaG/epam-ai-engineering-stage3\n# See source for mcpServers config block"
+}

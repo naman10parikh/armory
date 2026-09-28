@@ -1,0 +1,7 @@
+{
+  "name": "eth-library-mcp",
+  "description": "MCP server giving AI models direct access to 30M+ resources at ETH Library Zurich – books, maps, images, archival material, and linked-data person records.",
+  "source_repo": "malkreide/eth-library-mcp",
+  "source_url": "https://github.com/malkreide/eth-library-mcp",
+  "install": "npx -y eth-library-mcp"
+}

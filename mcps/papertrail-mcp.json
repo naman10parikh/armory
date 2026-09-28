@@ -1,0 +1,7 @@
+{
+  "name": "papertrail-mcp",
+  "description": "Read-only MCP server for searching migrated Papertrail logs via SolarWinds Observability API. Provides tools to list environments and perform bearer-authenticated log queries through stdio.",
+  "source_repo": "andreimaxim/papertrail-mcp",
+  "source_url": "https://github.com/andreimaxim/papertrail-mcp",
+  "install": "npx -y papertrail-mcp"
+}

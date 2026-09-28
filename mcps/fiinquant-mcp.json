@@ -1,0 +1,7 @@
+{
+  "name": "fiinquant-mcp",
+  "description": "A resilient MCP server wrapping FiinQuant/FiinQuantX Python SDK for Claude Desktop and Cursor, providing market data, fundamental analysis, screening, and technical indicators via stdio with timeouts, error envelopes, and free-tier guards.",
+  "source_repo": "luongndcoder/fiinquant-python-mcp",
+  "source_url": "https://github.com/luongndcoder/fiinquant-python-mcp",
+  "install": "npx -y fiinquant-python-mcp"
+}

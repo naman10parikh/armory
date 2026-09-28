@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-odoo",
+  "description": "Enables AI assistants to fully interact with Odoo ERP instances over XML-RPC, supporting read and write operations on any model without requiring Odoo module installation.",
+  "source_repo": "altinkaya-opensource/odoo-mcp",
+  "source_url": "https://github.com/altinkaya-opensource/odoo-mcp",
+  "install": "npx -y odoo-mcp"
+}

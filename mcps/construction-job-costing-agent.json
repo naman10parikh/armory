@@ -1,0 +1,7 @@
+{
+  "name": "construction-job-costing-agent",
+  "description": "MCP server providing construction job costing data and interactive visualizations for a fictitious general contractor, enabling queries on projects, budgets, cost codes, change orders, and cash flow.",
+  "source_repo": "jgang724/construction-job-costing-agent",
+  "source_url": "https://github.com/jgang724/construction-job-costing-agent",
+  "install": "# git clone --depth 1 https://github.com/jgang724/construction-job-costing-agent\n# See source for mcpServers config block"
+}

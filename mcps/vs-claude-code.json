@@ -1,0 +1,7 @@
+{
+  "name": "vs-claude-code",
+  "description": "A native Visual Studio 2026 extension implementing Claude Code's IDE integration protocol: agent edits open in VS's diff viewer for accept/reject, and MCP servers expose the live debugger (stepping, data breakpoints, attach), Test Explorer runs, and Roslyn navigation with decompile to the agent.",
+  "source_repo": "firish/claude_code_vs",
+  "source_url": "https://github.com/firish/claude_code_vs",
+  "install": "# git clone --depth 1 https://github.com/firish/claude_code_vs\n# See source for mcpServers config block"
+}

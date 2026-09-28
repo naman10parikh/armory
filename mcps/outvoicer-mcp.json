@@ -1,0 +1,7 @@
+{
+  "name": "outvoicer-mcp",
+  "description": "Enables AI assistants to prepare and create invoices via Outvoicer's invoicing platform using Streamable HTTP MCP.",
+  "source_repo": "kristjansuursoho/mcp.lebo.agency.outvoicer",
+  "source_url": "https://github.com/kristjansuursoho/mcp.lebo.agency.outvoicer",
+  "install": "# git clone --depth 1 https://github.com/kristjansuursoho/mcp.lebo.agency.outvoicer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sandbox-seed",
+  "description": "Salesforce sandbox seeding, built for AI agents. SOQL-driven org-to-org record copy with automatic dependency-graph walking, cross-org FK remapping, and a hard AI-never-sees-your-data boundary.",
+  "source_repo": "PranavNagrecha/sandbox-seed",
+  "source_url": "https://github.com/PranavNagrecha/sandbox-seed",
+  "install": "# git clone --depth 1 https://github.com/PranavNagrecha/sandbox-seed\n# See source for mcpServers config block"
+}

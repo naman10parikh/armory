@@ -1,0 +1,7 @@
+{
+  "name": "aperion-shield-mcp-server",
+  "description": "Governance engine for MCP tool calls, providing deterministic rule enforcement to block destructive actions like SQL drops, shell commands, and file system modifications before execution.",
+  "source_repo": "AperionAI/shield-langflow",
+  "source_url": "https://github.com/AperionAI/shield-langflow",
+  "install": "# git clone --depth 1 https://github.com/AperionAI/shield-langflow\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "opendss-mcp-server",
+  "description": "Connects Claude AI with EPRI's OpenDSS power system simulator, enabling conversational power system analysis for distribution planning.",
+  "source_repo": "ahmedelshazly27/opendss-mcp-server",
+  "source_url": "https://github.com/ahmedelshazly27/opendss-mcp-server",
+  "install": "npx -y opendss-mcp-server"
+}

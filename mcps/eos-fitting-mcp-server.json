@@ -1,0 +1,7 @@
+{
+  "name": "eos-fitting-mcp-server",
+  "description": "MCP server that wraps the Eos EVE Online fitting engine. Agents propose fit changes; this server applies them, recalculates, and returns a FitReport.",
+  "source_repo": "theonlysinjin/eve-fit-mcp",
+  "source_url": "https://github.com/theonlysinjin/eve-fit-mcp",
+  "install": "npx -y eve-fit-mcp"
+}

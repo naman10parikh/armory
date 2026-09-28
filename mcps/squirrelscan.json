@@ -1,0 +1,7 @@
+{
+  "name": "squirrelscan",
+  "description": "MCP server for website QA auditing, covering SEO, performance, security, accessibility, and agent experience with 260+ rules and AI-optimized output for coding agents.",
+  "source_repo": "squirrelscan/squirrelscan",
+  "source_url": "https://github.com/squirrelscan/squirrelscan",
+  "install": "# git clone --depth 1 https://github.com/squirrelscan/squirrelscan\n# See source for mcpServers config block"
+}

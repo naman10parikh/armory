@@ -1,0 +1,7 @@
+{
+  "name": "bukvarix-mcp",
+  "description": "MCP server that enables keyword research and domain analysis for the Russian search market (Yandex/Google) via the Bukvarix API, exposing tools for keyword searches and domain comparisons.",
+  "source_repo": "frankydzoro/bukvarix-mcp",
+  "source_url": "https://github.com/frankydzoro/bukvarix-mcp",
+  "install": "npx -y bukvarix-mcp"
+}

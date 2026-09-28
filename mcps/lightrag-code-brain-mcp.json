@@ -1,0 +1,7 @@
+{
+  "name": "lightrag-code-brain-mcp",
+  "description": "Provides a durable memory layer for coding agents like Claude Code and Codex by indexing codebases and enabling RAG queries, reducing rediscovery tokens and providing senior-engineer orientation.",
+  "source_repo": "Filmystar/lightrag-code-brain-mcp-server",
+  "source_url": "https://github.com/Filmystar/lightrag-code-brain-mcp-server",
+  "install": "npx -y lightrag-code-brain-mcp-server"
+}

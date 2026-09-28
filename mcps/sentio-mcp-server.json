@@ -1,0 +1,7 @@
+{
+  "name": "sentio-mcp-server",
+  "description": "This MCP server integrates with Sentio's API services to provide web, data, price, processor, and alerts tools, enabling users to manage and query Sentio resources through natural language.",
+  "source_repo": "sentioxyz/sentio-mcp",
+  "source_url": "https://github.com/sentioxyz/sentio-mcp",
+  "install": "npx -y sentio-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "receita-federal-pj",
+  "description": "Consulta dados cadastrais de empresas brasileiras na Receita Federal a partir do CNPJ, com opção de quadro societário, para uso via MCP.",
+  "source_repo": "mcp-dir/receita_pj-mcp",
+  "source_url": "https://github.com/mcp-dir/receita_pj-mcp",
+  "install": "npx -y receita_pj-mcp"
+}

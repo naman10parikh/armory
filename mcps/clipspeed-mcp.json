@@ -1,0 +1,7 @@
+{
+  "name": "clipspeed-mcp",
+  "description": "Enables turning any video into scored, captioned, ready-to-post vertical clips directly from your MCP client, with capabilities to download finished MP4s, schedule posts, and discover trending content.",
+  "source_repo": "thestockgoatballs/clipspeed-mcp",
+  "source_url": "https://github.com/thestockgoatballs/clipspeed-mcp",
+  "install": "npx -y clipspeed-mcp"
+}

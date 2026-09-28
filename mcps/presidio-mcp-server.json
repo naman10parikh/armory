@@ -1,0 +1,7 @@
+{
+  "name": "presidio-mcp-server",
+  "description": "Enables PII detection and anonymization using Microsoft Presidio with tools, resources, and prompts via MCP.",
+  "source_repo": "ManoharMarri/local-presidio-mcp-server",
+  "source_url": "https://github.com/ManoharMarri/local-presidio-mcp-server",
+  "install": "npx -y local-presidio-mcp-server"
+}

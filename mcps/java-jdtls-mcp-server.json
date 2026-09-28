@@ -1,0 +1,7 @@
+{
+  "name": "java-jdtls-mcp-server",
+  "description": "A high-performance MCP server that bridges AI agents with Java codebases, providing professional-grade Java language intelligence via Eclipse JDT.LS.",
+  "source_repo": "SachieWang/java-jdtls-mcp-server",
+  "source_url": "https://github.com/SachieWang/java-jdtls-mcp-server",
+  "install": "npx -y java-jdtls-mcp-server"
+}

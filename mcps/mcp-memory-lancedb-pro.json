@@ -1,0 +1,7 @@
+{
+  "name": "mcp-memory-lancedb-pro",
+  "description": "A full-featured long-term memory system for Claude Code that persistently stores and retrieves preferences, decisions, and project context across sessions using hybrid search and LLM-powered extraction.",
+  "source_repo": "bcornish1797/MCP-Memory-LanceDB-Pro",
+  "source_url": "https://github.com/bcornish1797/MCP-Memory-LanceDB-Pro",
+  "install": "# git clone --depth 1 https://github.com/bcornish1797/MCP-Memory-LanceDB-Pro\n# See source for mcpServers config block"
+}

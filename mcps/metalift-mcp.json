@@ -1,0 +1,7 @@
+{
+  "name": "metalift-mcp",
+  "description": "Enables AI agents to scrape, crawl, and map websites into LLM-ready markdown via the Metalift API",
+  "source_repo": "MetaliftAI/metalift-mcp",
+  "source_url": "https://github.com/MetaliftAI/metalift-mcp",
+  "install": "npx -y metalift-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reddit-research-mcp",
+  "description": "MCP server for compact Reddit research packs. Enables Reddit data extraction, search, and trend analysis through a set of tools like reddit_search and reddit_thread.",
+  "source_repo": "jhartum/reddit-research-mcp",
+  "source_url": "https://github.com/jhartum/reddit-research-mcp",
+  "install": "npx -y reddit-research-mcp"
+}

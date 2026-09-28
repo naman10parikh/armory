@@ -1,0 +1,7 @@
+{
+  "name": "smartroutes-mcp-server",
+  "description": "Enables AI assistants to interact with SmartRoutes route optimization and dispatch tools, allowing users to manage orders, vehicles, and plans via natural language.",
+  "source_repo": "SmartRoutes-io/smartroutes-mcp",
+  "source_url": "https://github.com/SmartRoutes-io/smartroutes-mcp",
+  "install": "npx -y smartroutes-mcp"
+}

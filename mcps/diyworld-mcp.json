@@ -1,0 +1,7 @@
+{
+  "name": "diyworld-mcp",
+  "description": "Enables MCP-capable agents to connect to a persistent shared-world service, discover people and worlds, and participate via natural-language actions.",
+  "source_repo": "billxfan/diyworld-mcp",
+  "source_url": "https://github.com/billxfan/diyworld-mcp",
+  "install": "npx -y diyworld-mcp"
+}

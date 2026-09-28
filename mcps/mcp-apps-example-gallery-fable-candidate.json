@@ -1,0 +1,7 @@
+{
+  "name": "mcp-apps-example-gallery-fable-candidate",
+  "description": "Hosts six official Model Context Protocol MCP Apps examples as remote Streamable HTTP MCP servers you can try by URL without cloning or local setup.",
+  "source_repo": "different-ai/openwork-mcp-app-gallery-fable",
+  "source_url": "https://github.com/different-ai/openwork-mcp-app-gallery-fable",
+  "install": "# git clone --depth 1 https://github.com/different-ai/openwork-mcp-app-gallery-fable\n# See source for mcpServers config block"
+}

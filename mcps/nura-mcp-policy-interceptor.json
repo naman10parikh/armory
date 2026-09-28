@@ -1,0 +1,7 @@
+{
+  "name": "nura-mcp-policy-interceptor",
+  "description": "A governance and policy enforcement gateway for MCP servers that provides hard guardrails, dynamic parameter bounds, human-in-the-loop approvals, and audit telemetry.",
+  "source_repo": "Katalinhorvath-blip/mcp-policy-interceptor",
+  "source_url": "https://github.com/Katalinhorvath-blip/mcp-policy-interceptor",
+  "install": "# git clone --depth 1 https://github.com/Katalinhorvath-blip/mcp-policy-interceptor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mailsyncmcp",
+  "description": "MCP server that enables reading, searching, and replying to all Apple Mail accounts from Claude while keeping credentials local, using a two-phase commit for safe sending.",
+  "source_repo": "st-designs/Apple-Mail-Sync-MCP",
+  "source_url": "https://github.com/st-designs/Apple-Mail-Sync-MCP",
+  "install": "npx -y Apple-Mail-Sync-MCP"
+}

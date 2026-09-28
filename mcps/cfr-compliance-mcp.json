@@ -1,0 +1,7 @@
+{
+  "name": "cfr-compliance-mcp",
+  "description": "A production-quality MCP server that exposes the official eCFR API as structured tools for AI-driven contract compliance, enabling retrieval of relevant Code of Federal Regulations by clauses extracted from contracts.",
+  "source_repo": "vvXranjan/cfr-compliance-mcp",
+  "source_url": "https://github.com/vvXranjan/cfr-compliance-mcp",
+  "install": "npx -y cfr-compliance-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-security-framework",
+  "description": "Enables creation of secure-by-default MCP servers with 5-layer validation to protect against injection, path traversal, and other attack vectors.",
+  "source_repo": "aself101/mcp-secure-server",
+  "source_url": "https://github.com/aself101/mcp-secure-server",
+  "install": "# git clone --depth 1 https://github.com/aself101/mcp-secure-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tracklix-mcp",
+  "description": "An MCP server that detects affiliate links and provides information about Tracklix, enabling AI assistants to answer affiliate-link-related questions without any network calls or API keys.",
+  "source_repo": "zhowe-designs/tracklix-mcp",
+  "source_url": "https://github.com/zhowe-designs/tracklix-mcp",
+  "install": "npx -y tracklix-mcp"
+}

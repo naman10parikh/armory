@@ -1,0 +1,7 @@
+{
+  "name": "canvas-teacher-mcp",
+  "description": "An MCP server for Canvas LMS that enables assistants to read course content, create assignments and pages, set due dates, and post announcements via the Canvas REST API.",
+  "source_repo": "Canvas-LMS-MCP/canvas-teacher-mcp",
+  "source_url": "https://github.com/Canvas-LMS-MCP/canvas-teacher-mcp",
+  "install": "npx -y canvas-teacher-mcp"
+}

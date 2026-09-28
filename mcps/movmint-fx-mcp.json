@@ -1,0 +1,7 @@
+{
+  "name": "movmint-fx-mcp",
+  "description": "Exposes two tools (get_fx_quote, capture_fx_quote) that LLM clients can call to get live FX rates and execute trades.",
+  "source_repo": "nziacbdc/fx-mcp",
+  "source_url": "https://github.com/nziacbdc/fx-mcp",
+  "install": "npx -y fx-mcp"
+}

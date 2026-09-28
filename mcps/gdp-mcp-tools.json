@@ -1,0 +1,7 @@
+{
+  "name": "gdp-mcp-tools",
+  "description": "MCP server for Grubhub Data Platform operations, providing 40+ tools across 18 service categories for data platform management, observability, analytics, and collaboration.",
+  "source_repo": "asuar16/gdp-mcp-tools",
+  "source_url": "https://github.com/asuar16/gdp-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/asuar16/gdp-mcp-tools\n# See source for mcpServers config block"
+}

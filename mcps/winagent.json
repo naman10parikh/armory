@@ -1,0 +1,7 @@
+{
+  "name": "winagent",
+  "description": "Enables MCP-compatible AI platforms to see the screen and operate any desktop software through real mouse clicks, text input, key presses, and scripted scenario execution.",
+  "source_repo": "ZYYDI1959/winagent-lite",
+  "source_url": "https://github.com/ZYYDI1959/winagent-lite",
+  "install": "# git clone --depth 1 https://github.com/ZYYDI1959/winagent-lite\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prefect-mcp-server",
+  "description": "An MCP server for interacting with Prefect resources, enabling AI assistants to monitor, manage, and debug workflows.",
+  "source_repo": "PrefectHQ/prefect-mcp-server",
+  "source_url": "https://github.com/PrefectHQ/prefect-mcp-server",
+  "install": "npx -y prefect-mcp-server"
+}

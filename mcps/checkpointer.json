@@ -1,0 +1,7 @@
+{
+  "name": "checkpointer",
+  "description": "MCP server for file checkpointing and undo, enabling AI agents to safely read, write, and edit files with full snapshot history and revert capabilities.",
+  "source_repo": "IronKommander/checkpointer",
+  "source_url": "https://github.com/IronKommander/checkpointer",
+  "install": "# git clone --depth 1 https://github.com/IronKommander/checkpointer\n# See source for mcpServers config block"
+}

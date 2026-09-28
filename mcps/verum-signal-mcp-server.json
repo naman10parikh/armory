@@ -1,0 +1,7 @@
+{
+  "name": "verum-signal-mcp-server",
+  "description": "An MCP server that exposes Verum Signal's public API to LLM agents, enabling retrieval of outlet credibility scores, recent claims, and debate verdicts. Requires self-hosting with a Verum Signal API key.",
+  "source_repo": "brittbart/verumsignal-mcp",
+  "source_url": "https://github.com/brittbart/verumsignal-mcp",
+  "install": "npx -y verumsignal-mcp"
+}

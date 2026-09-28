@@ -1,0 +1,7 @@
+{
+  "name": "book-mcp",
+  "description": "A service that lets readers chat with fictional characters from novels, where the AI adopts the character's personality, memory, and knowledge for immersive roleplay.",
+  "source_repo": "liheng-personal/book-mcp",
+  "source_url": "https://github.com/liheng-personal/book-mcp",
+  "install": "npx -y book-mcp"
+}

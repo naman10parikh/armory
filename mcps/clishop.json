@@ -1,0 +1,7 @@
+{
+  "name": "clishop",
+  "description": "Enables AI agents and humans to search products across multiple stores, compare prices, and place real orders directly from the terminal using 46 MCP tools.",
+  "source_repo": "DavooxBv2/CLISHOP",
+  "source_url": "https://github.com/DavooxBv2/CLISHOP",
+  "install": "# git clone --depth 1 https://github.com/DavooxBv2/CLISHOP\n# See source for mcpServers config block"
+}

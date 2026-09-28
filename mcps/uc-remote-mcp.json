@@ -1,0 +1,7 @@
+{
+  "name": "uc-remote-mcp",
+  "description": "Enables natural language interaction with Unfolded Circle Remote 3/Remote Two for configuration, button mapping, UI editing, and backup/restore.",
+  "source_repo": "b2dmx/uc-remote-mcp",
+  "source_url": "https://github.com/b2dmx/uc-remote-mcp",
+  "install": "npx -y uc-remote-mcp"
+}

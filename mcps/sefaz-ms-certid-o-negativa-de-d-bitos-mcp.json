@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-ms-certid-o-negativa-de-d-bitos-mcp",
+  "description": "Consulta certidões negativas de débitos da SEFAZ MS em fonte oficial, via ferramenta de leitura. Funciona com qualquer cliente MCP suportando MCP over HTTP.",
+  "source_repo": "mcp-dir/sefaz_ms_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_ms_certidao_debitos-mcp",
+  "install": "npx -y sefaz_ms_certidao_debitos-mcp"
+}

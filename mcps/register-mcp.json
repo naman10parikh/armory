@@ -1,0 +1,7 @@
+{
+  "name": "register-mcp",
+  "description": "Provides access to the Swiss Federal Commercial Register (Zefix) for company search, verification, and reference data, enabling natural language queries for public administration use cases.",
+  "source_repo": "malkreide/register-mcp",
+  "source_url": "https://github.com/malkreide/register-mcp",
+  "install": "npx -y register-mcp"
+}

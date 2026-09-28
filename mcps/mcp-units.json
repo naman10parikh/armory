@@ -1,0 +1,7 @@
+{
+  "name": "mcp-units",
+  "description": "An MCP server that provides deterministic unit conversions backed by Pint, enabling exact unit conversions, compatibility checks, and parsing of quantities for LLMs.",
+  "source_repo": "quantumleeps/mcp-units",
+  "source_url": "https://github.com/quantumleeps/mcp-units",
+  "install": "# git clone --depth 1 https://github.com/quantumleeps/mcp-units\n# See source for mcpServers config block"
+}

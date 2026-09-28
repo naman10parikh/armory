@@ -1,0 +1,7 @@
+{
+  "name": "mcp-node-server",
+  "description": "A remote MCP server that exposes machine resources like filesystem, terminal, camera, and input to AI agents over HTTP, enabling access from anywhere on the network.",
+  "source_repo": "patatosorus/mcp-node-server",
+  "source_url": "https://github.com/patatosorus/mcp-node-server",
+  "install": "# git clone --depth 1 https://github.com/patatosorus/mcp-node-server\n# See source for mcpServers config block"
+}

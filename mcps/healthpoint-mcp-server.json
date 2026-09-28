@@ -1,0 +1,7 @@
+{
+  "name": "healthpoint-mcp-server",
+  "description": "Read-only MCP server for licensed Healthpoint HL7 FHIR API access.",
+  "source_repo": "edithatogo/healthpoint-rs",
+  "source_url": "https://github.com/edithatogo/healthpoint-rs",
+  "install": "# git clone --depth 1 https://github.com/edithatogo/healthpoint-rs\n# See source for mcpServers config block"
+}

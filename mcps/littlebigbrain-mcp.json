@@ -1,0 +1,7 @@
+{
+  "name": "littlebigbrain-mcp",
+  "description": "An MCP server that provides graph-aware tools for interacting with Little Big Brain knowledge graphs, enabling search, query, commit, and configuration operations via natural language.",
+  "source_repo": "littlebigbrains/lbb-mcp",
+  "source_url": "https://github.com/littlebigbrains/lbb-mcp",
+  "install": "npx -y lbb-mcp"
+}

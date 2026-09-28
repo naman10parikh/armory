@@ -1,0 +1,7 @@
+{
+  "name": "serper-proxy-mcp",
+  "description": "Provides Google search and web page fetching tools to MCP clients via the Serper API, enabling models to search and read pages during conversations.",
+  "source_repo": "Edgaras0x4E/serper-proxy",
+  "source_url": "https://github.com/Edgaras0x4E/serper-proxy",
+  "install": "# git clone --depth 1 https://github.com/Edgaras0x4E/serper-proxy\n# See source for mcpServers config block"
+}

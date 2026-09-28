@@ -1,0 +1,7 @@
+{
+  "name": "jb-pi-macos-control",
+  "description": "A local observation-only MCP server for macOS that provides secure, atomic evidence capture with strict target approval and manifest-based output.",
+  "source_repo": "JbBom/macos-observation-bridge",
+  "source_url": "https://github.com/JbBom/macos-observation-bridge",
+  "install": "# git clone --depth 1 https://github.com/JbBom/macos-observation-bridge\n# See source for mcpServers config block"
+}

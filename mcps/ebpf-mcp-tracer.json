@@ -1,0 +1,7 @@
+{
+  "name": "ebpf-mcp-tracer",
+  "description": "Enables LLMs to safely write and run bpftrace scripts against the Linux kernel for observability, with explicit probe allowlists and execution timeout.",
+  "source_repo": "blackdragoon26/ebpf-mcp-tracer",
+  "source_url": "https://github.com/blackdragoon26/ebpf-mcp-tracer",
+  "install": "# git clone --depth 1 https://github.com/blackdragoon26/ebpf-mcp-tracer\n# See source for mcpServers config block"
+}

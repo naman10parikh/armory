@@ -1,0 +1,7 @@
+{
+  "name": "ms365-mcp",
+  "description": "Provides a minimal Microsoft 365 MCP server with fourteen hand-written tools for email, people, and drafts, designed to fit small local models.",
+  "source_repo": "sunnycho100/ms365-mcp",
+  "source_url": "https://github.com/sunnycho100/ms365-mcp",
+  "install": "npx -y ms365-mcp"
+}

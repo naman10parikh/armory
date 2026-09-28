@@ -1,0 +1,7 @@
+{
+  "name": "aura-mnemos",
+  "description": "A persistent-memory MCP server for AI agents with an honest health endpoint that survives its store dying.",
+  "source_repo": "myfjin/aura-mnemos",
+  "source_url": "https://github.com/myfjin/aura-mnemos",
+  "install": "# git clone --depth 1 https://github.com/myfjin/aura-mnemos\n# See source for mcpServers config block"
+}

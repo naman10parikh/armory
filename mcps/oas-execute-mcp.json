@@ -1,0 +1,7 @@
+{
+  "name": "oas-execute-mcp",
+  "description": "An MCP server that adds a safety layer with eight independent checks and audit logging between a language model and a broker order, supporting both on-disk simulation and live MetaTrader 5 terminals.",
+  "source_repo": "zorionarrillaga/oas-execute-mcp",
+  "source_url": "https://github.com/zorionarrillaga/oas-execute-mcp",
+  "install": "npx -y oas-execute-mcp"
+}

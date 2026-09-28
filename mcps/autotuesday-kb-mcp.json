@@ -1,0 +1,7 @@
+{
+  "name": "autotuesday-kb-mcp",
+  "description": "Enables secure access to an organizational knowledge base via Supabase (RLS), providing tools for search, retrieval, writing, version history, and change tracking.",
+  "source_repo": "netanelhibsh/autotuesday-kb-mcp",
+  "source_url": "https://github.com/netanelhibsh/autotuesday-kb-mcp",
+  "install": "npx -y autotuesday-kb-mcp"
+}

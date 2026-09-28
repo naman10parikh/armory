@@ -1,0 +1,7 @@
+{
+  "name": "ultramem-mcp",
+  "description": "Give any MCP client durable, cross-session memory by exposing an UltraMem deployment's memory layer.",
+  "source_repo": "Akpughe/ultramem-mcp",
+  "source_url": "https://github.com/Akpughe/ultramem-mcp",
+  "install": "npx -y ultramem-mcp"
+}

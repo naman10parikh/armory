@@ -1,0 +1,7 @@
+{
+  "name": "shopware-admin-mcp-server",
+  "description": "Enables AI assistants to manage Shopware e-commerce data through the Admin API, including products, categories, sales channels, orders, themes, and media.",
+  "source_repo": "shopware/shopware-admin-mcp",
+  "source_url": "https://github.com/shopware/shopware-admin-mcp",
+  "install": "npx -y shopware-admin-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-loop-mcp",
+  "description": "The industry-standard persistent memory and state manager for long-running agentic workflows.",
+  "source_repo": "meharajM/agent-loop-mcp",
+  "source_url": "https://github.com/meharajM/agent-loop-mcp",
+  "install": "npx -y agent-loop-mcp"
+}

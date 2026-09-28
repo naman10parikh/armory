@@ -1,0 +1,7 @@
+{
+  "name": "sweep-mcp",
+  "description": "Enables LLM agents to safely reclaim disk space by deleting build artifact directories like node_modules, .venv, and target, with strong guardrails to prevent accidental or malicious deletion.",
+  "source_repo": "les-k/sweep-mcp",
+  "source_url": "https://github.com/les-k/sweep-mcp",
+  "install": "npx -y sweep-mcp"
+}

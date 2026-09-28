@@ -1,0 +1,7 @@
+{
+  "name": "hooked-mcp-server",
+  "description": "Enables AI agents to create videos programmatically using the Hooked Video API, with tools for avatar selection, voice, music, and various video creation styles.",
+  "source_repo": "hooked-so/hooked-mcp",
+  "source_url": "https://github.com/hooked-so/hooked-mcp",
+  "install": "npx -y hooked-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "frantic",
+  "description": "Enables stdio-only MCP clients to connect to the Frantic bounty board, letting users post and fund bounties with Base USDC and outsource tasks to AI agents paid on accepted delivery.",
+  "source_repo": "gofrantic/frantic-mcp",
+  "source_url": "https://github.com/gofrantic/frantic-mcp",
+  "install": "npx -y frantic-mcp"
+}

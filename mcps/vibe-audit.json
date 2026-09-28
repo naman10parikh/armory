@@ -1,0 +1,7 @@
+{
+  "name": "vibe-audit",
+  "description": "A multi-agent system that scans a JavaScript or TypeScript source file for unbalanced addEventListener calls, flags memory-leak vectors, and produces a validated patch via a Gemini LLM.",
+  "source_repo": "tanushbhootra576/Vibe-Audit",
+  "source_url": "https://github.com/tanushbhootra576/Vibe-Audit",
+  "install": "# git clone --depth 1 https://github.com/tanushbhootra576/Vibe-Audit\n# See source for mcpServers config block"
+}

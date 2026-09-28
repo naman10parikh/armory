@@ -1,0 +1,7 @@
+{
+  "name": "geo-inquire-mcp-server",
+  "description": "Enables interaction with Geo-INQUIRE OGC API Processes for geospatial operations, including planning, execution, and job management through natural language.",
+  "source_repo": "lukwe/mcp_or_skill_for_geoenquire_ogc",
+  "source_url": "https://github.com/lukwe/mcp_or_skill_for_geoenquire_ogc",
+  "install": "# git clone --depth 1 https://github.com/lukwe/mcp_or_skill_for_geoenquire_ogc\n# See source for mcpServers config block"
+}

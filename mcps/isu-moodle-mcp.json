@@ -1,0 +1,7 @@
+{
+  "name": "isu-moodle-mcp",
+  "description": "Enables Claude to interact with Moodle via the official REST API for read-only tasks like listing courses, materials, assignments, submissions, and grades. Uses token-based authentication and emphasizes safe, no-write operations.",
+  "source_repo": "scatjay/isu-moodle-mcp",
+  "source_url": "https://github.com/scatjay/isu-moodle-mcp",
+  "install": "npx -y isu-moodle-mcp"
+}

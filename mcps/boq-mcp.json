@@ -1,0 +1,7 @@
+{
+  "name": "boq-mcp",
+  "description": "Enables natural language management of BOQ/Tendix project data, including hierarchy, pricing, and contractor handling via the BOQ REST API.",
+  "source_repo": "jehadbaniodeh/boq-mcp",
+  "source_url": "https://github.com/jehadbaniodeh/boq-mcp",
+  "install": "npx -y boq-mcp"
+}

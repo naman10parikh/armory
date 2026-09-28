@@ -1,6 +1,6 @@
 {
   "name": "booking-system-fixed",
-  "description": "Booking System Fixed MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Konstrex/booking-system-fixed",
   "source_url": "https://mcp.so/server/booking-system-fixed/Konstrex",
   "install": "# git clone --depth 1 https://mcp.so/server/booking-system-fixed/Konstrex\n# See source for mcpServers config block"

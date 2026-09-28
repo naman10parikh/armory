@@ -1,0 +1,7 @@
+{
+  "name": "azure-ai-foundry-agent-mcp",
+  "description": "Enables interaction with Azure AI Agent Service by automatically discovering agents and creating MCP tools for querying and managing agent workflows.",
+  "source_repo": "sebafo/azure-ai-foundry-mcp",
+  "source_url": "https://github.com/sebafo/azure-ai-foundry-mcp",
+  "install": "npx -y azure-ai-foundry-mcp"
+}

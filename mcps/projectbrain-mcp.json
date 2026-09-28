@@ -1,0 +1,7 @@
+{
+  "name": "projectbrain-mcp",
+  "description": "ProjectBrain MCP is a Model Context Protocol (MCP) server for project planning and execution workflows. It exposes tools for tasks, decisions, facts, milestones, comments, and team messaging through a Streamable HTTP endpoint.",
+  "source_repo": "9-Trinkets/projectbrain-mcp",
+  "source_url": "https://github.com/9-Trinkets/projectbrain-mcp",
+  "install": "npx -y projectbrain-mcp"
+}

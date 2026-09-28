@@ -1,0 +1,7 @@
+{
+  "name": "nn-mcp-stdio",
+  "description": "A no-nonsense framework for building stdio MCP servers using plain async handlers and type annotations, with strict schema validation and no configuration overhead.",
+  "source_repo": "fre-sch/nn-mcp-stdio",
+  "source_url": "https://github.com/fre-sch/nn-mcp-stdio",
+  "install": "# git clone --depth 1 https://github.com/fre-sch/nn-mcp-stdio\n# See source for mcpServers config block"
+}

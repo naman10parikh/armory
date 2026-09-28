@@ -1,0 +1,7 @@
+{
+  "name": "auxiliar-mcp",
+  "description": "Eval-backed web-access tool discovery for AI agents.",
+  "source_repo": "auxiliar-ai/auxiliar-mcp",
+  "source_url": "https://github.com/auxiliar-ai/auxiliar-mcp",
+  "install": "npx -y auxiliar-mcp"
+}

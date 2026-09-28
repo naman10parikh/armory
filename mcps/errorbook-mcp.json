@@ -1,0 +1,7 @@
+{
+  "name": "errorbook-mcp",
+  "description": "Local-first error notebook server for MCP agents, enabling problem management with FSRS scheduling, idempotent operations, and printable math PDF generation.",
+  "source_repo": "stardustlil/errorbook-mcp",
+  "source_url": "https://github.com/stardustlil/errorbook-mcp",
+  "install": "npx -y errorbook-mcp"
+}

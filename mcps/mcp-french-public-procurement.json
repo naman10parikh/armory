@@ -1,0 +1,7 @@
+{
+  "name": "mcp-french-public-procurement",
+  "description": "Enables agents to inspect French public procurement sources, including DECP, BOAMP, buyers, suppliers, and SIRENE data, to discover and summarize public contracts and related context.",
+  "source_repo": "Hug0x0/mcp-french-public-procurement",
+  "source_url": "https://github.com/Hug0x0/mcp-french-public-procurement",
+  "install": "# git clone --depth 1 https://github.com/Hug0x0/mcp-french-public-procurement\n# See source for mcpServers config block"
+}

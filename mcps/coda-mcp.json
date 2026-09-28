@@ -1,0 +1,7 @@
+{
+  "name": "coda-mcp",
+  "description": "MCP server for Coda.io API that enables AI assistants to read and write Coda documents, tables, and rows.",
+  "source_repo": "nkpar/coda-mcp",
+  "source_url": "https://github.com/nkpar/coda-mcp",
+  "install": "npx -y coda-mcp"
+}

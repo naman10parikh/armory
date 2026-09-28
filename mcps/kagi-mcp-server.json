@@ -1,6 +1,6 @@
 {
   "name": "kagi-mcp-server",
-  "description": "Kagi Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "elliottlawson/kagi-mcp-server",
   "source_url": "https://mcp.so/server/kagi-mcp-server/elliottlawson",
   "install": "npx -y kagi-mcp-server"

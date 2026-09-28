@@ -1,0 +1,7 @@
+{
+  "name": "prometheus-safe-mcp",
+  "description": "Executes constrained, read-only Prometheus queries for instant metrics, active alerts, and target health, with bounded resource usage and audit records.",
+  "source_repo": "bgauger/prometheus-safe-mcp",
+  "source_url": "https://github.com/bgauger/prometheus-safe-mcp",
+  "install": "npx -y prometheus-safe-mcp"
+}

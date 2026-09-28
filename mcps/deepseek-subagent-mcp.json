@@ -1,0 +1,7 @@
+{
+  "name": "deepseek-subagent-mcp",
+  "description": "Enables AI coding agents like Claude Code or Codex to delegate tasks to a DeepSeek Harness subagent with its own context window, providing tools for task delegation, result waiting, continuation, and supervision with sandboxed execution.",
+  "source_repo": "gaztrabisme/deepseek-subagent-mcp",
+  "source_url": "https://github.com/gaztrabisme/deepseek-subagent-mcp",
+  "install": "npx -y deepseek-subagent-mcp"
+}

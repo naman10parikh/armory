@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-whoop",
+  "description": "A local-first, read-only MCP server that provides compact recovery, sleep, strain, HRV, heart-rate, workout, and body-measurement data from WHOOP without sending credentials to a third party.",
+  "source_repo": "Yadheedhya06/mcp-server-whoop",
+  "source_url": "https://github.com/Yadheedhya06/mcp-server-whoop",
+  "install": "# git clone --depth 1 https://github.com/Yadheedhya06/mcp-server-whoop\n# See source for mcpServers config block"
+}

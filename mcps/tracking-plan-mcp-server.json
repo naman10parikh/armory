@@ -1,0 +1,7 @@
+{
+  "name": "tracking-plan-mcp-server",
+  "description": "MCP server for creating, listing, inspecting, and validating tracking plans for ecommerce and lead-generation businesses, with JSON storage and TypeScript implementation.",
+  "source_repo": "webanalyticsprobd-maker/tracking-plan-mcp",
+  "source_url": "https://github.com/webanalyticsprobd-maker/tracking-plan-mcp",
+  "install": "npx -y tracking-plan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openwa-mcp-server",
+  "description": "OpenWA MCP server that bridges AI agents to the OpenWA WhatsApp API, exposing 40 tools for sessions, messages, contacts, groups, and webhooks so agents can read and send WhatsApp messages through a self-hosted OpenWA gateway.",
+  "source_repo": "LoopyOratory/openwa-mcp",
+  "source_url": "https://github.com/LoopyOratory/openwa-mcp",
+  "install": "npx -y openwa-mcp"
+}

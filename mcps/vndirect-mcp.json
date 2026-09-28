@@ -1,0 +1,7 @@
+{
+  "name": "vndirect-mcp",
+  "description": "Provides Vietnamese stock market data and technical analysis tools via VNDIRECT's public API, including OHLC candles, fundamentals, chart rendering, MACD divergence detection, and market structure analysis. Enables MCP clients like Claude Code to fetch and analyze stock data without API keys.",
+  "source_repo": "vinhndq/vndirect-mcp",
+  "source_url": "https://github.com/vinhndq/vndirect-mcp",
+  "install": "npx -y vndirect-mcp"
+}

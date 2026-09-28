@@ -1,0 +1,7 @@
+{
+  "name": "testrail-mcp-server",
+  "description": "Enables AI assistants to interact with TestRail test management system, supporting full CRUD operations on projects, suites, sections, test cases, runs, results, plans, and milestones.",
+  "source_repo": "denys-ispaniuk/testrail-mcp",
+  "source_url": "https://github.com/denys-ispaniuk/testrail-mcp",
+  "install": "npx -y testrail-mcp"
+}

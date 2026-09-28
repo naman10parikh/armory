@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gatehouse",
+  "description": "Permission tiers, approval gates, and audit logging for MCP servers.",
+  "source_repo": "nickgeorgeseo/mcp-gatehouse",
+  "source_url": "https://github.com/nickgeorgeseo/mcp-gatehouse",
+  "install": "# git clone --depth 1 https://github.com/nickgeorgeseo/mcp-gatehouse\n# See source for mcpServers config block"
+}

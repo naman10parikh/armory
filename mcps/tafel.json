@@ -1,0 +1,7 @@
+{
+  "name": "tafel",
+  "description": "MCP server that lets Claude Code create explainer videos from plain English requests by writing and rendering manim animations locally, then publishing the result as a shareable artifact.",
+  "source_repo": "parmeet10/tafel",
+  "source_url": "https://github.com/parmeet10/tafel",
+  "install": "# git clone --depth 1 https://github.com/parmeet10/tafel\n# See source for mcpServers config block"
+}

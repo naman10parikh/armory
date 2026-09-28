@@ -1,0 +1,7 @@
+{
+  "name": "presence-mcp",
+  "description": "PyPI-launched MCP server that exposes a living project model and outcome telemetry as read-only resources for MCP-aware clients.",
+  "source_repo": "sara-star-quant/presence-mcp",
+  "source_url": "https://github.com/sara-star-quant/presence-mcp",
+  "install": "npx -y presence-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "debug-mcp",
+  "description": "A smart debugging agent that remembers errors, automatically diagnoses issues, and accumulates solutions for faster resolution.",
+  "source_repo": "HAnonym/debug-mcp",
+  "source_url": "https://github.com/HAnonym/debug-mcp",
+  "install": "npx -y debug-mcp"
+}

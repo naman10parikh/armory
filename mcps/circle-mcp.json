@@ -1,0 +1,7 @@
+{
+  "name": "circle-mcp",
+  "description": "Enables read-only access to Circle parental-control data, including family profiles and per-profile internet usage.",
+  "source_repo": "TechBlueprints/circle-mcp",
+  "source_url": "https://github.com/TechBlueprints/circle-mcp",
+  "install": "npx -y circle-mcp"
+}

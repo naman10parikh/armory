@@ -1,0 +1,7 @@
+{
+  "name": "heista-mcp",
+  "description": "Decode any video ad, load brand information, and generate ad scripts from inside MCP-compatible clients like Claude and ChatGPT.",
+  "source_repo": "Heista-co/heista-mcp",
+  "source_url": "https://github.com/Heista-co/heista-mcp",
+  "install": "npx -y heista-mcp"
+}

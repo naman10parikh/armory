@@ -1,0 +1,7 @@
+{
+  "name": "agentsmd-memory",
+  "description": "MCP server for managing project memory in AGENTS.md. Allows agents to record and remove durable facts using save/forget tools.",
+  "source_repo": "jryom/agentsmd-memory",
+  "source_url": "https://github.com/jryom/agentsmd-memory",
+  "install": "# git clone --depth 1 https://github.com/jryom/agentsmd-memory\n# See source for mcpServers config block"
+}

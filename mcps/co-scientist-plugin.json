@@ -1,0 +1,7 @@
+{
+  "name": "co-scientist-plugin",
+  "description": "MCP server that lets AI assistants like Claude Code and Codex drive the co-scientist engine to generate, review, rank, and evolve scientific hypotheses via an Elo tournament.",
+  "source_repo": "Ahmad-Jaradat-Space/co-scientist-plugin",
+  "source_url": "https://github.com/Ahmad-Jaradat-Space/co-scientist-plugin",
+  "install": "# git clone --depth 1 https://github.com/Ahmad-Jaradat-Space/co-scientist-plugin\n# See source for mcpServers config block"
+}

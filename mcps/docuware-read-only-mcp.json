@@ -1,0 +1,7 @@
+{
+  "name": "docuware-read-only-mcp",
+  "description": "Read-only MCP server for DocuWare that lets you list file cabinets, search documents, view metadata, and download documents.",
+  "source_repo": "sobhanjabari/mcp_docuware",
+  "source_url": "https://github.com/sobhanjabari/mcp_docuware",
+  "install": "# git clone --depth 1 https://github.com/sobhanjabari/mcp_docuware\n# See source for mcpServers config block"
+}

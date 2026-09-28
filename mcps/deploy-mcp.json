@@ -1,0 +1,7 @@
+{
+  "name": "deploy-mcp",
+  "description": "Universal deployment tracker for AI assistants, enabling real-time monitoring and management of deployments across Vercel, Netlify, and Cloudflare Pages without context switching.",
+  "source_repo": "alexpota/deploy-mcp",
+  "source_url": "https://github.com/alexpota/deploy-mcp",
+  "install": "npx -y deploy-mcp"
+}

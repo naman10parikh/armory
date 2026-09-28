@@ -1,0 +1,7 @@
+{
+  "name": "datacrazy-mcp",
+  "description": "A multi-tenant MCP server that exposes DataCrazy CRM REST API as 63 auto-generated tools, allowing AI assistants to query leads, conversations, pipelines, and more through natural language.",
+  "source_repo": "hiperbold/datacrazy-mcp",
+  "source_url": "https://github.com/hiperbold/datacrazy-mcp",
+  "install": "npx -y datacrazy-mcp"
+}

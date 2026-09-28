@@ -1,0 +1,7 @@
+{
+  "name": "ckd-parent-guide-mcp",
+  "description": "Provides deterministic parental guidance for children with chronic kidney disease, including food safety checks, lab report interpretation, and nutrient-aware food substitutions based on authoritative guidelines and the Chinese Food Composition Table.",
+  "source_repo": "rpint/ckd-parent-guide-mcp",
+  "source_url": "https://github.com/rpint/ckd-parent-guide-mcp",
+  "install": "npx -y ckd-parent-guide-mcp"
+}

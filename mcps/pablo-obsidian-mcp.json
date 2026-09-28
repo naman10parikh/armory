@@ -1,0 +1,7 @@
+{
+  "name": "pablo-obsidian-mcp",
+  "description": "An MCP server that provides full read/write access to an Obsidian vault, enabling searching, task management, wiki-link graph analysis, and attachment organization from an MCP client like Claude Code.",
+  "source_repo": "90PabloRomero/pablo-obsidian-mcp",
+  "source_url": "https://github.com/90PabloRomero/pablo-obsidian-mcp",
+  "install": "npx -y pablo-obsidian-mcp"
+}

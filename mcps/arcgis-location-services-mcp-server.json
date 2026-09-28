@@ -1,0 +1,7 @@
+{
+  "name": "arcgis-location-services-mcp-server",
+  "description": "Enables location-based services such as geocoding, reverse geocoding, finding nearby places, directions, elevation, and basemap tiles using ArcGIS Location Services.",
+  "source_repo": "lwsinclair/arcgis-location-services-mcp",
+  "source_url": "https://github.com/lwsinclair/arcgis-location-services-mcp",
+  "install": "npx -y arcgis-location-services-mcp"
+}

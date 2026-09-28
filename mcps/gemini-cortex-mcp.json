@@ -1,0 +1,7 @@
+{
+  "name": "gemini-cortex-mcp",
+  "description": "An MCP server that delegates tasks to Google Gemini, enabling live web search, video/audio understanding, and summarizing large files.",
+  "source_repo": "atknony/gemini-cortex-mcp",
+  "source_url": "https://github.com/atknony/gemini-cortex-mcp",
+  "install": "npx -y gemini-cortex-mcp"
+}

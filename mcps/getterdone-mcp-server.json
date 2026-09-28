@@ -1,0 +1,7 @@
+{
+  "name": "getterdone-mcp-server",
+  "description": "Enables AI agents to post tasks, manage escrow, approve work, and pay human gig workers on the GetterDone physical-task marketplace.",
+  "source_repo": "getterdoneinc/getterdone-mcp",
+  "source_url": "https://github.com/getterdoneinc/getterdone-mcp",
+  "install": "npx -y getterdone-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "exhibit402-mcp",
+  "description": "Enables agents to pay USDC on Base to permanently certify the current content of a public URL via dual-observer capture, and to re-verify existing certificates.",
+  "source_repo": "dylancaponi/exhibit402-mcp",
+  "source_url": "https://github.com/dylancaponi/exhibit402-mcp",
+  "install": "npx -y exhibit402-mcp"
+}

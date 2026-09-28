@@ -1,0 +1,7 @@
+{
+  "name": "tome-mcp",
+  "description": "Manages a research paper library, providing PDF ingestion, bibliography management, semantic search, figure tracking, and integration with Semantic Scholar.",
+  "source_repo": "retospect/tome-mcp",
+  "source_url": "https://github.com/retospect/tome-mcp",
+  "install": "npx -y tome-mcp"
+}

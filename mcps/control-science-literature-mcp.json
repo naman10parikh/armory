@@ -1,0 +1,7 @@
+{
+  "name": "control-science-literature-mcp",
+  "description": "A read-only MCP server for searching control science and engineering papers via OpenAlex, limited to core journals in the field.",
+  "source_repo": "PrisonBreakPB/control-science-literature-mcp",
+  "source_url": "https://github.com/PrisonBreakPB/control-science-literature-mcp",
+  "install": "npx -y control-science-literature-mcp"
+}

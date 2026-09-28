@@ -1,0 +1,7 @@
+{
+  "name": "agent-antigravity-mcp",
+  "description": "MCP server for Google Gemini Antigravity Agent, enabling autonomous code execution, web browsing, and GitHub PR workflows in remote sandboxes.",
+  "source_repo": "bgembalczyk/agent-antigravity-mcp",
+  "source_url": "https://github.com/bgembalczyk/agent-antigravity-mcp",
+  "install": "npx -y agent-antigravity-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-content-engine",
+  "description": "MCP server for managing LinkedIn content workflows. It generates images via OpenAI, stores assets in Cloudinary, and queues drafts through Buffer with mandatory human approval.",
+  "source_repo": "mdbailin/linkedin-content-engine",
+  "source_url": "https://github.com/mdbailin/linkedin-content-engine",
+  "install": "# git clone --depth 1 https://github.com/mdbailin/linkedin-content-engine\n# See source for mcpServers config block"
+}

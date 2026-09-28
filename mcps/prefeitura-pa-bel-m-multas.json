@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-pa-bel-m-multas",
+  "description": "MCP server for consulting traffic fines from Belém, PA, Brazil, using official sources. Provides a read-only tool for querying fines via natural language.",
+  "source_repo": "mcp-dir/pref_pa_belem_multas-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_pa_belem_multas-mcp",
+  "install": "npx -y pref_pa_belem_multas-mcp"
+}

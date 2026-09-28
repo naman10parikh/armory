@@ -1,0 +1,7 @@
+{
+  "name": "mcp-refana-server",
+  "description": "Enables Mu2e analysis workflows by exposing event counting, cut analysis, sensitivity computation, and ML selection as MCP tools for agentic frameworks.",
+  "source_repo": "sophiemiddleton/mcp-refana",
+  "source_url": "https://github.com/sophiemiddleton/mcp-refana",
+  "install": "# git clone --depth 1 https://github.com/sophiemiddleton/mcp-refana\n# See source for mcpServers config block"
+}

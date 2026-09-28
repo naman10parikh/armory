@@ -1,0 +1,7 @@
+{
+  "name": "docs-search",
+  "description": "Enables AI agents to search project documentation via a semantic index, returning relevant markdown files to read before editing code.",
+  "source_repo": "RevinFedor/docs_search_mcp",
+  "source_url": "https://github.com/RevinFedor/docs_search_mcp",
+  "install": "npx -y docs_search_mcp"
+}

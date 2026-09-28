@@ -1,0 +1,7 @@
+{
+  "name": "shelter-mcp",
+  "description": "Enables MCP-compatible agents to access read-only financial context from a Shelter account, including forecasts, runway, alerts, opportunities, and affordability guidance.",
+  "source_repo": "nextauralabs/shelter-mcp",
+  "source_url": "https://github.com/nextauralabs/shelter-mcp",
+  "install": "npx -y shelter-mcp"
+}

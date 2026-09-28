@@ -1,0 +1,7 @@
+{
+  "name": "defi-intel",
+  "description": "Operator-grade DeFi intelligence MCP. - 10 tools vs DefiLlama's basic 4, - adds governance proposals, - RWA attestation scores, - live X/Twitter narrative. - No enterprise subscription - and a one-call operator brief that compiles TVL + yields + stablecoins + governance + market narrative into a sin",
+  "source_repo": "",
+  "source_url": "https://paragraph.com/dashboard/@0x836c370ab3ca72a823ec7f1a9c148305db3e5812/metrics/post/yzf7MbpMJr9LMKnNqdHa",
+  "install": "# git clone --depth 1 https://paragraph.com/dashboard/@0x836c370ab3ca72a823ec7f1a9c148305db3e5812/metrics/post/yzf7MbpMJr9LMKnNqdHa\n# See source for mcpServers config block"
+}

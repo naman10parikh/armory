@@ -1,0 +1,7 @@
+{
+  "name": "agent-handoff-protocol",
+  "description": "Enables durable agent session transfer between machines by serializing state, provisioning sandboxes, and metering costs via MCP tools over a Postgres-backed state machine.",
+  "source_repo": "zordhalo/agent-handoff-protocol",
+  "source_url": "https://github.com/zordhalo/agent-handoff-protocol",
+  "install": "# git clone --depth 1 https://github.com/zordhalo/agent-handoff-protocol\n# See source for mcpServers config block"
+}

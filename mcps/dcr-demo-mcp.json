@@ -1,0 +1,7 @@
+{
+  "name": "dcr-demo-mcp",
+  "description": "Demonstrates OAuth 2.0 Dynamic Client Registration with Duo SSO, providing three MCP servers for calendar events, document management, and analytics dashboards.",
+  "source_repo": "cmedfisch/dcr-mcp-demo",
+  "source_url": "https://github.com/cmedfisch/dcr-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/cmedfisch/dcr-mcp-demo\n# See source for mcpServers config block"
+}

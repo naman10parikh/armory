@@ -1,0 +1,7 @@
+{
+  "name": "measure-space-mcp-server",
+  "description": "Provides weather, climate, air quality, agriculture, pollen, and geocoding data from measurespace.io through the Model Context Protocol.",
+  "source_repo": "MeasureSpace/measure-space-mcp-server",
+  "source_url": "https://github.com/MeasureSpace/measure-space-mcp-server",
+  "install": "npx -y measure-space-mcp-server"
+}

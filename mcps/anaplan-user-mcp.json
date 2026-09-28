@@ -1,0 +1,7 @@
+{
+  "name": "anaplan-user-mcp",
+  "description": "A read-only MCP server for Anaplan that exposes 5 tools for business users to explore data through an AI assistant, with session caching and metadata gating.",
+  "source_repo": "larasrinath/anaplan-user-mcp",
+  "source_url": "https://github.com/larasrinath/anaplan-user-mcp",
+  "install": "npx -y anaplan-user-mcp"
+}

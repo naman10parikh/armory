@@ -1,0 +1,7 @@
+{
+  "name": "semantic-dom-mcp",
+  "description": "Drives a real Chromium browser to extract a page's DOM into compact Semantic JSON with Playwright-native locators, enabling AI agents to generate consistent, accurate Playwright tests.",
+  "source_repo": "helmif/semantic-dom-mcp",
+  "source_url": "https://github.com/helmif/semantic-dom-mcp",
+  "install": "npx -y semantic-dom-mcp"
+}

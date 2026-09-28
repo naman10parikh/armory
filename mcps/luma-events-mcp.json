@@ -1,0 +1,7 @@
+{
+  "name": "luma-events-mcp",
+  "description": "An MCP server for the Luma Events API that enables creating, updating, and managing events and guests.",
+  "source_repo": "montaguegabe/luma-events-mcp",
+  "source_url": "https://github.com/montaguegabe/luma-events-mcp",
+  "install": "npx -y luma-events-mcp"
+}

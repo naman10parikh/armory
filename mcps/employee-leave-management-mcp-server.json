@@ -1,0 +1,7 @@
+{
+  "name": "employee-leave-management-mcp-server",
+  "description": "Manages employee leave with Claude Desktop via natural language. Enables checking balances, applying, approving, and reviewing leave requests through a Supabase-backed MCP server.",
+  "source_repo": "adityapatel143/GenAi_Employee_Leave_Management-MCP_Server",
+  "source_url": "https://github.com/adityapatel143/GenAi_Employee_Leave_Management-MCP_Server",
+  "install": "npx -y GenAi_Employee_Leave_Management-MCP_Server"
+}

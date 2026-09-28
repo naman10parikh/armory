@@ -1,6 +1,6 @@
 {
   "name": "deepre",
-  "description": "Deepre MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "hirokidaichi/deepre",
   "source_url": "https://mcp.so/server/deepre/hirokidaichi",
   "install": "# git clone --depth 1 https://mcp.so/server/deepre/hirokidaichi\n# See source for mcpServers config block"

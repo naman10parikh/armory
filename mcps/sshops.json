@@ -1,0 +1,7 @@
+{
+  "name": "sshops",
+  "description": "A lightweight, zero-agent SSH operations tool that enables remote command execution, file transfer, and audit logging. It integrates as an MCP server for AI-driven infrastructure management.",
+  "source_repo": "LckAndLove/sshops",
+  "source_url": "https://github.com/LckAndLove/sshops",
+  "install": "# git clone --depth 1 https://github.com/LckAndLove/sshops\n# See source for mcpServers config block"
+}

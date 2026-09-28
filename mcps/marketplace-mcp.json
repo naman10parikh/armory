@@ -1,0 +1,7 @@
+{
+  "name": "marketplace-mcp",
+  "description": "Run a Shopstr / NOSTR marketplace storefront from an AI agent — create and update stalls and products in both the NIP-15 dialect and the Shopstr-modern NIP-99 dialect, including the cache POST that makes Shopstr cards actually render.",
+  "source_repo": "llmops-pro/marketplace-mcp",
+  "source_url": "https://github.com/llmops-pro/marketplace-mcp",
+  "install": "npx -y marketplace-mcp"
+}

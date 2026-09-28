@@ -1,0 +1,7 @@
+{
+  "name": "market-recap",
+  "description": "Provides a one-call snapshot of recent market activity and events.",
+  "source_repo": "pipeworx-io/mcp-market-recap",
+  "source_url": "https://github.com/pipeworx-io/mcp-market-recap",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-market-recap\n# See source for mcpServers config block"
+}

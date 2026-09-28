@@ -1,0 +1,7 @@
+{
+  "name": "mermaid-ai-links-mcp",
+  "description": "Enables AI hosts to generate and open Mermaid diagram links in Markdown files, providing tools for syncing, listing, and injecting diagrams via the Mermaid.ai editor.",
+  "source_repo": "Async23/mermaid-ai-links",
+  "source_url": "https://github.com/Async23/mermaid-ai-links",
+  "install": "# git clone --depth 1 https://github.com/Async23/mermaid-ai-links\n# See source for mcpServers config block"
+}

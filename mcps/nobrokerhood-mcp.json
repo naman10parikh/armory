@@ -1,0 +1,7 @@
+{
+  "name": "nobrokerhood-mcp",
+  "description": "Enables pre-approving deliveries and visitors at your gate via the NoBrokerHood resident app, so you or an LLM can automate gate access.",
+  "source_repo": "smtchahal/nobrokerhood-mcp",
+  "source_url": "https://github.com/smtchahal/nobrokerhood-mcp",
+  "install": "npx -y nobrokerhood-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nodel-mcp",
+  "description": "MCP sidecar that exposes a local Nodel runtime via the Model Context Protocol, read-only by default with optional write/lifecycle/delete operations and approval workflows.",
+  "source_repo": "mcartmel/nodel-mcp",
+  "source_url": "https://github.com/mcartmel/nodel-mcp",
+  "install": "npx -y nodel-mcp"
+}

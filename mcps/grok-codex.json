@@ -1,0 +1,7 @@
+{
+  "name": "grok-codex",
+  "description": "MCP server for integrating xAI's Grok model into OpenAI Codex Desktop/GUI, enabling direct Grok calls via chat completions or responses with OAuth or API key authentication.",
+  "source_repo": "Meapri/grok-codex",
+  "source_url": "https://github.com/Meapri/grok-codex",
+  "install": "# git clone --depth 1 https://github.com/Meapri/grok-codex\n# See source for mcpServers config block"
+}

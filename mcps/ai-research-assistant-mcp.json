@@ -1,0 +1,7 @@
+{
+  "name": "ai-research-assistant-mcp",
+  "description": "An MCP server that provides tools, resources, and prompts for reading, writing, and summarizing research notes stored in a local flat-file database.",
+  "source_repo": "Ruoth1111/ai-research-assistant-mcp",
+  "source_url": "https://github.com/Ruoth1111/ai-research-assistant-mcp",
+  "install": "npx -y ai-research-assistant-mcp"
+}

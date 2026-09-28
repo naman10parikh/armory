@@ -1,0 +1,7 @@
+{
+  "name": "gravityui-reference-mcp",
+  "description": "Provides AI-optimized offline access to the Gravity UI design system, enabling natural language search and retrieval of components, hooks, utilities, and recipes.",
+  "source_repo": "antonskiter/gravityui-reference-mcp",
+  "source_url": "https://github.com/antonskiter/gravityui-reference-mcp",
+  "install": "npx -y gravityui-reference-mcp"
+}

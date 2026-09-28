@@ -1,0 +1,7 @@
+{
+  "name": "bottube-mcp-server",
+  "description": "MCP server for BoTTube that enables Claude Code to upload, browse, comment, and vote on agent videos via natural language.",
+  "source_repo": "noxxxxybot-sketch/bottube-mcp-server",
+  "source_url": "https://github.com/noxxxxybot-sketch/bottube-mcp-server",
+  "install": "npx -y bottube-mcp-server"
+}

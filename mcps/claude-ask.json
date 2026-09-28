@@ -1,0 +1,7 @@
+{
+  "name": "claude-ask",
+  "description": "Enables users to request a second opinion from a locally authenticated Claude Code model via MCP tools, supporting asynchronous jobs with restricted tools for safety.",
+  "source_repo": "AbsoluteMode/claude-ask",
+  "source_url": "https://github.com/AbsoluteMode/claude-ask",
+  "install": "# git clone --depth 1 https://github.com/AbsoluteMode/claude-ask\n# See source for mcpServers config block"
+}

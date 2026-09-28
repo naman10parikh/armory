@@ -1,0 +1,7 @@
+{
+  "name": "urmusic-mcp",
+  "description": "A personal MCP server that analyzes your Spotify streaming history locally, enabling queries, artist insights, and recommendations using a local SQLite database.",
+  "source_repo": "ipaud/urmusic-mcp",
+  "source_url": "https://github.com/ipaud/urmusic-mcp",
+  "install": "npx -y urmusic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "workday-mcp",
+  "description": "Read-only MCP server for Workday that fetches your tasks and data cards (pay, benefits, compensation) via your existing browser session, returning structured JSON.",
+  "source_repo": "chrischall/workday-mcp",
+  "source_url": "https://github.com/chrischall/workday-mcp",
+  "install": "npx -y workday-mcp"
+}

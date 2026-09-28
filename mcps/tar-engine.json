@@ -1,0 +1,7 @@
+{
+  "name": "tar-engine",
+  "description": "Audits AI agent skills for safety using static, semantic, adversarial, and supply-chain analysis, providing scores and risk flags. Can be run via CLI, CI, or as an MCP tool from Claude Code, Cursor, and Codex.",
+  "source_repo": "qingxuantang/tar-engine",
+  "source_url": "https://github.com/qingxuantang/tar-engine",
+  "install": "# git clone --depth 1 https://github.com/qingxuantang/tar-engine\n# See source for mcpServers config block"
+}

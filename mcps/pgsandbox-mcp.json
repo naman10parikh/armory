@@ -1,0 +1,7 @@
+{
+  "name": "pgsandbox-mcp",
+  "description": "PGSandbox MCP is a local Rust MCP server for disposable Postgres databases. It creates tracked database/role pairs, returns scoped sandbox credentials, supports bounded SQL and schema tools, and cleans up expired sandboxes with TTLs.",
+  "source_repo": "LVTD-LLC/pgsandbox-mcp",
+  "source_url": "https://github.com/LVTD-LLC/pgsandbox-mcp",
+  "install": "npx -y pgsandbox-mcp"
+}

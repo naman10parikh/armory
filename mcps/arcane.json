@@ -1,0 +1,7 @@
+{
+  "name": "arcane",
+  "description": "Provides persistent, searchable memory and knowledge capture for AI-assisted development, enabling agents to retain decisions, bugs, and patterns across sessions and projects.",
+  "source_repo": "Edition-X/arcane",
+  "source_url": "https://github.com/Edition-X/arcane",
+  "install": "# git clone --depth 1 https://github.com/Edition-X/arcane\n# See source for mcpServers config block"
+}

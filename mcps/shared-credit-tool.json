@@ -1,0 +1,7 @@
+{
+  "name": "shared-credit-tool",
+  "description": "Local MCP server enabling Codex and ChatGPT to read/write files, execute commands, manage processes, use Git, and inspect images on the user's machine with full privileges.",
+  "source_repo": "Minglink/shared-credit-tool",
+  "source_url": "https://github.com/Minglink/shared-credit-tool",
+  "install": "# git clone --depth 1 https://github.com/Minglink/shared-credit-tool\n# See source for mcpServers config block"
+}

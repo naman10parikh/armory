@@ -1,0 +1,7 @@
+{
+  "name": "dependency-audit-mcp",
+  "description": "MCP server that audits npm dependencies against the live registry, providing per-dependency reports on versions behind, deprecation, and license.",
+  "source_repo": "Anicodeth/dependency-audit-mcp",
+  "source_url": "https://github.com/Anicodeth/dependency-audit-mcp",
+  "install": "npx -y dependency-audit-mcp"
+}

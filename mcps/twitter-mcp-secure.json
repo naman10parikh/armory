@@ -1,0 +1,7 @@
+{
+  "name": "twitter-mcp-secure",
+  "description": "Security-hardened MCP server for interacting with X.com (Twitter), with a fix to prevent sensitive tweet content from being logged to stderr.",
+  "source_repo": "MunhoLau/twitter-mcp-secure",
+  "source_url": "https://github.com/MunhoLau/twitter-mcp-secure",
+  "install": "# git clone --depth 1 https://github.com/MunhoLau/twitter-mcp-secure\n# See source for mcpServers config block"
+}

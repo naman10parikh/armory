@@ -1,0 +1,7 @@
+{
+  "name": "databricks-jobs-mcp-server",
+  "description": "Enables management and monitoring of Databricks jobs, including listing, running, and canceling jobs, through the Model Context Protocol.",
+  "source_repo": "rajeshpenki/databricks-jobs-mcp-server",
+  "source_url": "https://github.com/rajeshpenki/databricks-jobs-mcp-server",
+  "install": "npx -y databricks-jobs-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xhs-searchmcp",
+  "description": "An MCP server that searches Xiaohongshu (Little Red Book) for top-liked image-text notes, extracting structured data such as title, content, author, links, and images. It can be used as an MCP tool or CLI for AI workflows.",
+  "source_repo": "Yuyaoqaq/xhs_searchMcp",
+  "source_url": "https://github.com/Yuyaoqaq/xhs_searchMcp",
+  "install": "# git clone --depth 1 https://github.com/Yuyaoqaq/xhs_searchMcp\n# See source for mcpServers config block"
+}

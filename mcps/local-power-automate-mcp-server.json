@@ -1,0 +1,7 @@
+{
+  "name": "local-power-automate-mcp-server",
+  "description": "A self-hosted MCP server that enables AI assistants to inspect and manage Microsoft Power Automate cloud flows and Dataverse records locally, using your own Azure identity.",
+  "source_repo": "prasadgd9022/power-automate-mcp",
+  "source_url": "https://github.com/prasadgd9022/power-automate-mcp",
+  "install": "npx -y power-automate-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mailwarden",
+  "description": "A native Gmail MCP server providing full mailbox control via the live Gmail API, including unique snooze functionality.",
+  "source_repo": "csitte/mailwarden",
+  "source_url": "https://github.com/csitte/mailwarden",
+  "install": "# git clone --depth 1 https://github.com/csitte/mailwarden\n# See source for mcpServers config block"
+}

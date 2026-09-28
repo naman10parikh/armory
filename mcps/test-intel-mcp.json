@@ -1,0 +1,7 @@
+{
+  "name": "test-intel-mcp",
+  "description": "Test coverage intelligence MCP server for TypeScript and JavaScript projects. Analyzes coverage reports to find untested functions, computes cyclomatic complexity, and suggests test cases locally.",
+  "source_repo": "barissozudogru/test-intel-mcp",
+  "source_url": "https://github.com/barissozudogru/test-intel-mcp",
+  "install": "npx -y test-intel-mcp"
+}

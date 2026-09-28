@@ -1,0 +1,7 @@
+{
+  "name": "officeclimcp",
+  "description": "Enables processing of Office documents (DOCX, XLSX, PPTX, PDF, Markdown) through 21 tools for reading, creating, editing, converting, comparing, and analyzing documents.",
+  "source_repo": "Quiz99/officeCliMCP",
+  "source_url": "https://github.com/Quiz99/officeCliMCP",
+  "install": "# git clone --depth 1 https://github.com/Quiz99/officeCliMCP\n# See source for mcpServers config block"
+}

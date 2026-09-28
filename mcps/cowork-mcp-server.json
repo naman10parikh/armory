@@ -1,0 +1,7 @@
+{
+  "name": "cowork-mcp-server",
+  "description": "Adds trust, handoffs, and accountability to any AI agent via 14 MCP tools implementing the COWORK Protocol.",
+  "source_repo": "CoWork-Human-Agent-Protocol/human-agent-cowork-mcp-server",
+  "source_url": "https://github.com/CoWork-Human-Agent-Protocol/human-agent-cowork-mcp-server",
+  "install": "npx -y human-agent-cowork-mcp-server"
+}

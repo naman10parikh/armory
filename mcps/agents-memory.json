@@ -1,0 +1,7 @@
+{
+  "name": "agents-memory",
+  "description": "A local markdown memory and cross-agent context engine for AI coding assistants. It provides an MCP server with tools to search, add, retrieve, and distill persistent memory across tools like Claude Code, Cursor, and Zed.",
+  "source_repo": "Lolaplex/agents-memory",
+  "source_url": "https://github.com/Lolaplex/agents-memory",
+  "install": "# git clone --depth 1 https://github.com/Lolaplex/agents-memory\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "htmldrop",
+  "description": "Publish HTML or markdown artifacts (reports, dashboards, demos) as instant shareable links with TTL expiry, social preview cards, and optional password protection. Works with the hosted service or a self-hosted instance.",
+  "source_repo": "vin-spiegel/htmldrop",
+  "source_url": "https://github.com/vin-spiegel/htmldrop",
+  "install": "# git clone --depth 1 https://github.com/vin-spiegel/htmldrop\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "retrieval-lens",
+  "description": "A black-box flight recorder for RAG retrieval inside MCP agents. Logs what chunks the model saw, scores, sources, and rankings - so you can audit, replay, and diff retrieval runs after the fact.",
+  "source_repo": "Vbj1808/retrieval-lens",
+  "source_url": "https://github.com/Vbj1808/retrieval-lens",
+  "install": "# git clone --depth 1 https://github.com/Vbj1808/retrieval-lens\n# See source for mcpServers config block"
+}

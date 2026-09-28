@@ -1,0 +1,7 @@
+{
+  "name": "v-nculo-empregat-cio-mcp",
+  "description": "MCP server that queries employment bonds (vínculos empregatícios) associated with a company using its CNPJ, offering a single read-only tool for retrieval. Works with any MCP client over HTTP with prepaid credits.",
+  "source_repo": "mcp-dir/vinculo_empregaticio-mcp",
+  "source_url": "https://github.com/mcp-dir/vinculo_empregaticio-mcp",
+  "install": "npx -y vinculo_empregaticio-mcp"
+}

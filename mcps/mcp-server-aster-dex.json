@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-aster-dex",
+  "description": "MCP server providing read-only access to Aster DEX volume, points, leaderboard rank, and airdrop eligibility as natural-language tools for LLM agents like Claude, Cursor, and Cline.",
+  "source_repo": "blessedberserker/MCP-Server-Aster-DEX",
+  "source_url": "https://github.com/blessedberserker/MCP-Server-Aster-DEX",
+  "install": "# git clone --depth 1 https://github.com/blessedberserker/MCP-Server-Aster-DEX\n# See source for mcpServers config block"
+}

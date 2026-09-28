@@ -1,0 +1,7 @@
+{
+  "name": "zerodha-kite-mcp-server",
+  "description": "Enables Claude to access a Zerodha trading account for historical candles, weekly/monthly zone levels and CPR pivots, EMA crossover detection, and option chain data.",
+  "source_repo": "shankartradebot2020-pixel/kite-mcp-server",
+  "source_url": "https://github.com/shankartradebot2020-pixel/kite-mcp-server",
+  "install": "npx -y kite-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "organisation-md",
+  "description": "Turns any GitHub repository into your organisation's persistent context layer, enabling AI agents to read, search, and propose updates via pull requests.",
+  "source_repo": "shashank-sn/organisation.md",
+  "source_url": "https://github.com/shashank-sn/organisation.md",
+  "install": "# git clone --depth 1 https://github.com/shashank-sn/organisation.md\n# See source for mcpServers config block"
+}

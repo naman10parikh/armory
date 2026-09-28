@@ -1,0 +1,7 @@
+{
+  "name": "agentscoin",
+  "description": "Give your AI agent its own money. AgentsCoin MCP lets an agent create a wallet, mine the native coin $AGENT in-browser (no stake, no captcha, no human), check its balance, and send it — on AgentsCoin, an EVM chain built for agents. Tools: create_wallet, mine, balance, send, network_info.",
+  "source_repo": "axiosdevs/agentscoin-mcp",
+  "source_url": "https://github.com/axiosdevs/agentscoin-mcp",
+  "install": "npx -y agentscoin-mcp"
+}

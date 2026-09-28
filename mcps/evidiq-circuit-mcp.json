@@ -1,0 +1,7 @@
+{
+  "name": "evidiq-circuit-mcp",
+  "description": "Verifiable API proxy and circuit breaker guard for autonomous agents, offering TLS attestation, payload schema inspection, circuit breaker enforcement, webhook signature verification, and 0G-anchored receipt attestation.",
+  "source_repo": "evidiq/evidiq-circuit-mcp",
+  "source_url": "https://github.com/evidiq/evidiq-circuit-mcp",
+  "install": "npx -y evidiq-circuit-mcp"
+}

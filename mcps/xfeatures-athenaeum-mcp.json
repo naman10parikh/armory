@@ -1,0 +1,7 @@
+{
+  "name": "xfeatures-athenaeum-mcp",
+  "description": "A Model Context Protocol server providing secure, authenticated access to an organization's knowledge layer—exact facts, documents, and semantic search—with per-call authorization and audit, never letting callers directly touch D1, R2, or AI Search.",
+  "source_repo": "XfeaturesGroup/XfeaturesAthenaeum",
+  "source_url": "https://github.com/XfeaturesGroup/XfeaturesAthenaeum",
+  "install": "# git clone --depth 1 https://github.com/XfeaturesGroup/XfeaturesAthenaeum\n# See source for mcpServers config block"
+}

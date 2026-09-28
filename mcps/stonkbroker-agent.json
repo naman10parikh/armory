@@ -1,0 +1,7 @@
+{
+  "name": "stonkbroker-agent",
+  "description": "An MCP server enabling AI agents to trade stock tokens using StonkBroker NFTs via ERC-6551 wallets on Robinhood Chain through Uniswap, with X integration.",
+  "source_repo": "slkzgm/stonkbroker-agent",
+  "source_url": "https://github.com/slkzgm/stonkbroker-agent",
+  "install": "# git clone --depth 1 https://github.com/slkzgm/stonkbroker-agent\n# See source for mcpServers config block"
+}

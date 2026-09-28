@@ -1,0 +1,7 @@
+{
+  "name": "home-mcp-gateway",
+  "description": "A local MCP gateway that provides image generation and editing tools via external APIs (e.g., DALL-E) and local ComfyUI workflows, with authentication and policy enforcement.",
+  "source_repo": "yexca/home-mcp",
+  "source_url": "https://github.com/yexca/home-mcp",
+  "install": "npx -y home-mcp"
+}

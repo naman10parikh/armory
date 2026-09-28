@@ -1,0 +1,7 @@
+{
+  "name": "python-repl-mcp",
+  "description": "一个基于MCP的Python REPL服务器，支持多会话管理、代码执行、历史记录回放和包安装，为AI提供Python解释器能力。",
+  "source_repo": "miloira/python-repl-mcp",
+  "source_url": "https://github.com/miloira/python-repl-mcp",
+  "install": "npx -y python-repl-mcp"
+}

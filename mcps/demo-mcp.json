@@ -1,0 +1,7 @@
+{
+  "name": "demo-mcp",
+  "description": "Public shared memory MCP server for OKF markdown notes and links with optional human summaries, featuring a web UI and MCP read/write access.",
+  "source_repo": "MickaelV0/demo-mcp",
+  "source_url": "https://github.com/MickaelV0/demo-mcp",
+  "install": "npx -y demo-mcp"
+}

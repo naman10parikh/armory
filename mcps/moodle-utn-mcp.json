@@ -1,0 +1,7 @@
+{
+  "name": "moodle-utn-mcp",
+  "description": "Enables browser-based login to approved UTN Moodle sites and read-only access to the user's profile, course list, and course activities via local Chromium automation.",
+  "source_repo": "NicolasViruel/moodle-utn-mcp",
+  "source_url": "https://github.com/NicolasViruel/moodle-utn-mcp",
+  "install": "npx -y moodle-utn-mcp"
+}

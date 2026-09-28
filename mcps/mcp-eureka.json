@@ -1,0 +1,7 @@
+{
+  "name": "mcp-eureka",
+  "description": "MCP server that provides access to Polish individual tax interpretations (KIS) via the official EUREKA API, enabling search and retrieval of rulings with signatures, theses, and full text.",
+  "source_repo": "HelpToSave/mcp-eureka",
+  "source_url": "https://github.com/HelpToSave/mcp-eureka",
+  "install": "# git clone --depth 1 https://github.com/HelpToSave/mcp-eureka\n# See source for mcpServers config block"
+}

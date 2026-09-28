@@ -1,0 +1,7 @@
+{
+  "name": "vyne-mcp",
+  "description": "MCP server for vyne, a Solana DeFi automation engine, enabling creation, testing, and monitoring of multi-step workflows via 32 tools, 11 resources, and guided prompts.",
+  "source_repo": "rajgoesout/vyne-mcp",
+  "source_url": "https://github.com/rajgoesout/vyne-mcp",
+  "install": "npx -y vyne-mcp"
+}

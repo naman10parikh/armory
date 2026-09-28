@@ -1,0 +1,7 @@
+{
+  "name": "agentram-mcp",
+  "description": "Provides persistent memory for AI agents via 10 MCP tools that map to the AgentRAM REST API, enabling store, retrieve, search, and share memories across personal and shared namespaces.",
+  "source_repo": "seanmarkwei/agentram-mcp",
+  "source_url": "https://github.com/seanmarkwei/agentram-mcp",
+  "install": "npx -y agentram-mcp"
+}

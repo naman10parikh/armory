@@ -1,0 +1,7 @@
+{
+  "name": "formacv-mcp",
+  "description": "Official MCP server for FormaCV, enabling AI-powered CV formatting, anonymization, tailoring, and ATS push-back from AI agents like Claude Desktop and Cursor.",
+  "source_repo": "Rocketech-Software-Development/formacv-mcp",
+  "source_url": "https://github.com/Rocketech-Software-Development/formacv-mcp",
+  "install": "npx -y formacv-mcp"
+}

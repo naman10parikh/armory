@@ -1,0 +1,7 @@
+{
+  "name": "amatta-mcp",
+  "description": "Provides infant health references including WHO growth percentiles, NIP vaccine schedules, and national checkup schedules as tools for LLMs.",
+  "source_repo": "jkimdev/amatta-mcp",
+  "source_url": "https://github.com/jkimdev/amatta-mcp",
+  "install": "npx -y amatta-mcp"
+}

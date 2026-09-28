@@ -1,0 +1,7 @@
+{
+  "name": "mathmethods-mcp",
+  "description": "An MCP server that exposes numerical and mathematical methods (root finding, integration, differentiation, ODEs, Monte Carlo, dynamic systems) as tools for LLM agents to call directly from chat clients.",
+  "source_repo": "agmonetti/mathmethods-mcp",
+  "source_url": "https://github.com/agmonetti/mathmethods-mcp",
+  "install": "npx -y mathmethods-mcp"
+}

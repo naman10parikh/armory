@@ -1,0 +1,7 @@
+{
+  "name": "mcp-inotes",
+  "description": "Enables LLMs to create, read, and append notes in Apple Notes through AppleScript, with append-only operations restricted to a single folder for safety.",
+  "source_repo": "pongsapakl/mcp-inotes",
+  "source_url": "https://github.com/pongsapakl/mcp-inotes",
+  "install": "# git clone --depth 1 https://github.com/pongsapakl/mcp-inotes\n# See source for mcpServers config block"
+}

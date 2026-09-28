@@ -1,0 +1,7 @@
+{
+  "name": "predmcp",
+  "description": "Safe, read-only market data for AI trading agents, offering 44 tools to query prediction markets, perpetuals, and cross-venue signals without the ability to execute trades.",
+  "source_repo": "RavioleLabs/predmcp",
+  "source_url": "https://github.com/RavioleLabs/predmcp",
+  "install": "# git clone --depth 1 https://github.com/RavioleLabs/predmcp\n# See source for mcpServers config block"
+}

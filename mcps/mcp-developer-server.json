@@ -1,0 +1,7 @@
+{
+  "name": "mcp-developer-server",
+  "description": "A Python-based MCP server that provides instant access to over 700 documentation sources and creates isolated Docker containers for safe code testing and experimentation.",
+  "source_repo": "RA86-dev/MCPDockerShell",
+  "source_url": "https://github.com/RA86-dev/MCPDockerShell",
+  "install": "# git clone --depth 1 https://github.com/RA86-dev/MCPDockerShell\n# See source for mcpServers config block"
+}

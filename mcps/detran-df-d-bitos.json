@@ -1,0 +1,7 @@
+{
+  "name": "detran-df-d-bitos",
+  "description": "MCP server for querying vehicle debts (débitos) from DETRAN DF's official source. It is read-only and works with any MCP client over HTTP, with pay-per-use prepaid credits.",
+  "source_repo": "mcp-dir/detran_df_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/detran_df_debitos-mcp",
+  "install": "npx -y detran_df_debitos-mcp"
+}

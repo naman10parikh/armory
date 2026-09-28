@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-truster",
+  "description": "Enables querying domain trust scores, ratings, and reviews, searching domains, and posting reviews via natural language through the truster.info service.",
+  "source_repo": "trusterinfo/mcp-server-truster",
+  "source_url": "https://github.com/trusterinfo/mcp-server-truster",
+  "install": "# git clone --depth 1 https://github.com/trusterinfo/mcp-server-truster\n# See source for mcpServers config block"
+}

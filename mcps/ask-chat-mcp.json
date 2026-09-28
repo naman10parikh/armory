@@ -1,0 +1,7 @@
+{
+  "name": "ask-chat-mcp",
+  "description": "An MCP server that queries ChatGPT via the Codex CLI with real file context, read-only, and no length limits, enabling second opinions grounded in actual files.",
+  "source_repo": "spe-investigator/ask-chat-mcp",
+  "source_url": "https://github.com/spe-investigator/ask-chat-mcp",
+  "install": "npx -y ask-chat-mcp"
+}

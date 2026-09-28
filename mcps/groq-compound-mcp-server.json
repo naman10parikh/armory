@@ -1,0 +1,7 @@
+{
+  "name": "groq-compound-mcp-server",
+  "description": "Enables interaction with Groq models, including compound models, through tools for asking questions with real-time information and code execution.",
+  "source_repo": "groq/compound-mcp-server",
+  "source_url": "https://github.com/groq/compound-mcp-server",
+  "install": "npx -y compound-mcp-server"
+}

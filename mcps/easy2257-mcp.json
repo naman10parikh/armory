@@ -1,0 +1,7 @@
+{
+  "name": "easy2257-mcp",
+  "description": "Enables AI assistants to read 18 U.S.C. 2257 compliance records over Streamable HTTP, providing read-only access to production statuses, certificates, and compliance gaps without exposing identity data or enabling changes.",
+  "source_repo": "Agaveis/easy2257-mcp",
+  "source_url": "https://github.com/Agaveis/easy2257-mcp",
+  "install": "npx -y easy2257-mcp"
+}

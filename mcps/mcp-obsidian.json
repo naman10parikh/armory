@@ -1,0 +1,7 @@
+{
+  "name": "mcp-obsidian",
+  "description": "A filesystem-based MCP server for Obsidian vaults that enables LLMs to browse, search, read, write, and edit Markdown notes directly on disk without requiring Obsidian to be running.",
+  "source_repo": "NeveuGregor/mcp-obsidian",
+  "source_url": "https://github.com/NeveuGregor/mcp-obsidian",
+  "install": "# git clone --depth 1 https://github.com/NeveuGregor/mcp-obsidian\n# See source for mcpServers config block"
+}

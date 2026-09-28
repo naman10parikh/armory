@@ -1,0 +1,7 @@
+{
+  "name": "galgame-mcp-engine",
+  "description": "An MCP server that provides a visual novel world engine, enabling AI clients to drive interactive galgame experiences with narrative consistency.",
+  "source_repo": "mchenziyi/galgame-mcp-engine",
+  "source_url": "https://github.com/mchenziyi/galgame-mcp-engine",
+  "install": "# git clone --depth 1 https://github.com/mchenziyi/galgame-mcp-engine\n# See source for mcpServers config block"
+}

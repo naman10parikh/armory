@@ -1,0 +1,7 @@
+{
+  "name": "apc-agent",
+  "description": "MCP server for AWS Payment Cryptography that gives AI coding assistants direct access to the APC control plane and data plane, with embedded knowledge of payment standards, HSM vendor command sets, and PCI PIN v3.1 compliance requirements.",
+  "source_repo": "J8k3/aws-payment-cryptography-mcp",
+  "source_url": "https://github.com/J8k3/aws-payment-cryptography-mcp",
+  "install": "npx -y aws-payment-cryptography-mcp"
+}

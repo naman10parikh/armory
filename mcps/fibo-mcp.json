@@ -1,0 +1,7 @@
+{
+  "name": "fibo-mcp",
+  "description": "Provides financial agents access to the Financial Industry Business Ontology (FIBO) for querying financial concepts, terms, and relationships through natural language.",
+  "source_repo": "NeuroFusionAI/fibo-mcp",
+  "source_url": "https://github.com/NeuroFusionAI/fibo-mcp",
+  "install": "npx -y fibo-mcp"
+}

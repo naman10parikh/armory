@@ -1,0 +1,7 @@
+{
+  "name": "neo-mcp",
+  "description": "Integrates an autonomous AI engineering agent into your editor via the Model Context Protocol, allowing you to describe AI/ML tasks in plain English and execute them locally.",
+  "source_repo": "NeoAIResearch/neo-mcp",
+  "source_url": "https://github.com/NeoAIResearch/neo-mcp",
+  "install": "npx -y neo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claims-coverage-assessment-assistant",
+  "description": "MCP server that reviews insurance claims against policy documents, providing coverage decisions, policy clause retrieval, claim history lookup, coverage rule checks, and fraud risk scoring via four tools.",
+  "source_repo": "ayushgupta94/claims-coverage-assessment-assistant",
+  "source_url": "https://github.com/ayushgupta94/claims-coverage-assessment-assistant",
+  "install": "# git clone --depth 1 https://github.com/ayushgupta94/claims-coverage-assessment-assistant\n# See source for mcpServers config block"
+}

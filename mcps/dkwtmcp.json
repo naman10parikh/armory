@@ -1,0 +1,7 @@
+{
+  "name": "dkwtmcp",
+  "description": "Local MCP server that connects Claude Desktop with Garmin and Apple Health data to read training and recovery, estimate heart rate and pace zones, analyze performance, and create structured workouts.",
+  "source_repo": "bynoe17/DkwtMCP",
+  "source_url": "https://github.com/bynoe17/DkwtMCP",
+  "install": "# git clone --depth 1 https://github.com/bynoe17/DkwtMCP\n# See source for mcpServers config block"
+}

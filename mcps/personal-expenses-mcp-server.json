@@ -1,0 +1,7 @@
+{
+  "name": "personal-expenses-mcp-server",
+  "description": "An MCP server for tracking personal monthly budgets, allowing users to add people, initialize months with salary, log expenses, and retrieve monthly statements through natural language.",
+  "source_repo": "gunnaabhinay/PersonalExpenses_MCPServer",
+  "source_url": "https://github.com/gunnaabhinay/PersonalExpenses_MCPServer",
+  "install": "# git clone --depth 1 https://github.com/gunnaabhinay/PersonalExpenses_MCPServer\n# See source for mcpServers config block"
+}

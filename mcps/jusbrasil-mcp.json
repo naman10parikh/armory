@@ -1,0 +1,7 @@
+{
+  "name": "jusbrasil-mcp",
+  "description": "Search Brazilian jurisprudence on JusBrasil in natural language and retrieve formatted citations for legal documents, including metadata extraction from court decisions.",
+  "source_repo": "fxbarros/mcp-jusbrasil",
+  "source_url": "https://github.com/fxbarros/mcp-jusbrasil",
+  "install": "# git clone --depth 1 https://github.com/fxbarros/mcp-jusbrasil\n# See source for mcpServers config block"
+}

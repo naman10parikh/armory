@@ -1,0 +1,7 @@
+{
+  "name": "iron-manus-mcp",
+  "description": "Enables AI workflow orchestration with an 8-phase process, task delegation via Todos, and role-based agent specialization for complex multi-step tasks.",
+  "source_repo": "dnnyngyen/iron-manus-mcp",
+  "source_url": "https://github.com/dnnyngyen/iron-manus-mcp",
+  "install": "npx -y iron-manus-mcp"
+}

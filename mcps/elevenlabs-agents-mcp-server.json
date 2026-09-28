@@ -1,0 +1,7 @@
+{
+  "name": "elevenlabs-agents-mcp-server",
+  "description": "MCP server that lets Claude place outbound telephone calls via ElevenLabs Agents over a SIP trunk and report the outcome including status, success evaluation, summary, and transcript.",
+  "source_repo": "easyonthesauce/elevenlabs-agents-mcp",
+  "source_url": "https://github.com/easyonthesauce/elevenlabs-agents-mcp",
+  "install": "npx -y elevenlabs-agents-mcp"
+}

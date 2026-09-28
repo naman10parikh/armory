@@ -1,0 +1,7 @@
+{
+  "name": "sanitized-db-mcp",
+  "description": "Enables SQL query sanitization by rewriting queries at the AST level to prevent PII/PHI exposure, acting as a proxy between AI agents and PostgreSQL databases.",
+  "source_repo": "ruminaider/sanitized-db-mcp",
+  "source_url": "https://github.com/ruminaider/sanitized-db-mcp",
+  "install": "npx -y sanitized-db-mcp"
+}

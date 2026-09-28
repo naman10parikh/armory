@@ -1,0 +1,7 @@
+{
+  "name": "regexguard",
+  "description": "Enables AI agents to explain regex patterns in plain English and statically assess ReDoS risk before shipping, without executing the pattern or requiring an API key.",
+  "source_repo": "wedo911/regexguard-mcp-server",
+  "source_url": "https://github.com/wedo911/regexguard-mcp-server",
+  "install": "npx -y regexguard-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "formal-proof-mcp",
+  "description": "MCP server that provides six verification tools (Lean proof checking, axiom audit, bound, gridlock check, certificate verification, residency check) with honest status reporting (ok/failed/unavailable) to prevent agents from claiming unchecked proofs passed.",
+  "source_repo": "nickharris808/formal-proof-mcp",
+  "source_url": "https://github.com/nickharris808/formal-proof-mcp",
+  "install": "npx -y formal-proof-mcp"
+}

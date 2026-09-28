@@ -1,0 +1,7 @@
+{
+  "name": "korean-elementary-learning-map-mcp",
+  "description": "Provides access to the Korean elementary 2022 revised curriculum learning graph, enabling users to search and retrieve curriculum standards, learning topics, prerequisites, and roadmaps from a fully local database.",
+  "source_repo": "taehyeonglim/korean-elementary-learning-map-mcp",
+  "source_url": "https://github.com/taehyeonglim/korean-elementary-learning-map-mcp",
+  "install": "npx -y korean-elementary-learning-map-mcp"
+}

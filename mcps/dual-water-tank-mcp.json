@@ -1,0 +1,7 @@
+{
+  "name": "dual-water-tank-mcp",
+  "description": "Fits a lithium-ion full-cell dual-water-tank model from charge/discharge voltage-capacity data for battery aging mechanism identification, with parameter fitting, batch processing, and MCP server integration.",
+  "source_repo": "ZidingWang/dual-water-tank-aging-identification-mcp",
+  "source_url": "https://github.com/ZidingWang/dual-water-tank-aging-identification-mcp",
+  "install": "npx -y dual-water-tank-aging-identification-mcp"
+}

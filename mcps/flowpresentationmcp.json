@@ -1,0 +1,7 @@
+{
+  "name": "flowpresentationmcp",
+  "description": "Generates branded presentations in PowerPoint and HTML formats from a deck spec, styled with the Peach State Truck Centers theme.",
+  "source_repo": "siennag-mcp/FlowPresentationMCP",
+  "source_url": "https://github.com/siennag-mcp/FlowPresentationMCP",
+  "install": "# git clone --depth 1 https://github.com/siennag-mcp/FlowPresentationMCP\n# See source for mcpServers config block"
+}

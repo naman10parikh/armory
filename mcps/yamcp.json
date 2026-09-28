@@ -1,0 +1,7 @@
+{
+  "name": "yamcp",
+  "description": "Convert any OpenAPI spec into a secure MCP server with scoped auth, per-tool allow/deny policies, rate limiting, and a redacted audit trail.",
+  "source_repo": "adamgalmor/yamcp",
+  "source_url": "https://github.com/adamgalmor/yamcp",
+  "install": "# git clone --depth 1 https://github.com/adamgalmor/yamcp\n# See source for mcpServers config block"
+}

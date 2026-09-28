@@ -1,0 +1,7 @@
+{
+  "name": "ask-gorilladesk-gorilladesk-mcp",
+  "description": "Read-only MCP server that lets Claude, ChatGPT, or Cursor answer pest-business questions from your GorillaDesk account in plain English—looks up customers, invoices, schedules, and technicians without creating or changing data.",
+  "source_repo": "daisydaines/gorilladesk-mcp",
+  "source_url": "https://github.com/daisydaines/gorilladesk-mcp",
+  "install": "npx -y gorilladesk-mcp"
+}

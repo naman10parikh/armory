@@ -1,0 +1,7 @@
+{
+  "name": "google-health-broker",
+  "description": "Self-hosted multi-user Google Health OAuth broker and read-only Agent API with remote MCP support. Enables users to connect their Google account and grant agents secure access to activity, sleep, heart, HRV, SpO2, and other health metrics via revocable per-token authentication.",
+  "source_repo": "zhanjinfeng/google-health-broker",
+  "source_url": "https://github.com/zhanjinfeng/google-health-broker",
+  "install": "# git clone --depth 1 https://github.com/zhanjinfeng/google-health-broker\n# See source for mcpServers config block"
+}

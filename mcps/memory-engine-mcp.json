@@ -1,0 +1,7 @@
+{
+  "name": "memory-engine-mcp",
+  "description": "Enables AI assistants to have a living memory with atomic knowledge storage, multi-factor recall, organic decay, automatic learning, and graph traversal via MCP.",
+  "source_repo": "SimoneB79/memory-engine-mcp",
+  "source_url": "https://github.com/SimoneB79/memory-engine-mcp",
+  "install": "npx -y memory-engine-mcp"
+}

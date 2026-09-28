@@ -1,0 +1,7 @@
+{
+  "name": "vault-rag-mcp",
+  "description": "MCP server for semantic search in an Obsidian Second Brain vault using self-hosted Qdrant and Google Gemini embeddings.",
+  "source_repo": "fjacquet/vault-rag-mcp",
+  "source_url": "https://github.com/fjacquet/vault-rag-mcp",
+  "install": "npx -y vault-rag-mcp"
+}

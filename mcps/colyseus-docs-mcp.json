@@ -1,0 +1,7 @@
+{
+  "name": "colyseus-docs-mcp",
+  "description": "Provides AI agents with access to the Colyseus documentation, enabling searching, reading, and listing of documentation pages.",
+  "source_repo": "VGFP/colyseus-docs-mcp",
+  "source_url": "https://github.com/VGFP/colyseus-docs-mcp",
+  "install": "npx -y colyseus-docs-mcp"
+}

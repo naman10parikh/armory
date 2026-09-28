@@ -1,0 +1,7 @@
+{
+  "name": "easel",
+  "description": "Local human-in-the-loop MCP server bridging AI agents to Higgsfield's web image generator, requiring manual image generation via a dashboard.",
+  "source_repo": "pradeexsu/easel",
+  "source_url": "https://github.com/pradeexsu/easel",
+  "install": "# git clone --depth 1 https://github.com/pradeexsu/easel\n# See source for mcpServers config block"
+}

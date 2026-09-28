@@ -1,0 +1,7 @@
+{
+  "name": "waw-mcp",
+  "description": "Gives AI agents a real email identity, OTP reading, autonomous signup, and MCP server registry via a single stdio MCP connection.",
+  "source_repo": "Revens2/waw-mcp",
+  "source_url": "https://github.com/Revens2/waw-mcp",
+  "install": "npx -y waw-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wordpress-ops-mcp",
+  "description": "Enables interaction with WordPress sites through the WordPress REST API, supporting content management and post operations with safety confirmations.",
+  "source_repo": "DaveTheProfessor/wordpress-ops-mcp",
+  "source_url": "https://github.com/DaveTheProfessor/wordpress-ops-mcp",
+  "install": "npx -y wordpress-ops-mcp"
+}

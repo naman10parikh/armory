@@ -1,0 +1,7 @@
+{
+  "name": "mcp-employee-identity-server",
+  "description": "This MCP server enables AI-assisted professional profile generation by connecting to verified employee work data (skills, career history, certifications, projects) from employer HCM systems.",
+  "source_repo": "Anshuman-Gaur-AI-Builder/mcp-employee-identity",
+  "source_url": "https://github.com/Anshuman-Gaur-AI-Builder/mcp-employee-identity",
+  "install": "# git clone --depth 1 https://github.com/Anshuman-Gaur-AI-Builder/mcp-employee-identity\n# See source for mcpServers config block"
+}

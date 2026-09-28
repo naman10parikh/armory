@@ -1,0 +1,7 @@
+{
+  "name": "gmail-guardian",
+  "description": "Enables intelligent Gmail management, including email triage, newsletter classification, promotional email cleanup, summarization, filter suggestions, draft replies, and audit logging.",
+  "source_repo": "wyller/mcp-email-guardian",
+  "source_url": "https://github.com/wyller/mcp-email-guardian",
+  "install": "# git clone --depth 1 https://github.com/wyller/mcp-email-guardian\n# See source for mcpServers config block"
+}

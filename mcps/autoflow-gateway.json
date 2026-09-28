@@ -1,0 +1,7 @@
+{
+  "name": "autoflow-gateway",
+  "description": "Central MCP gateway for smart home automation, enabling agents to safely control Home Assistant and Node-RED with identity-based access, human confirmation for writes, and a WebUI for governance.",
+  "source_repo": "lidicn/AutoFlow",
+  "source_url": "https://github.com/lidicn/AutoFlow",
+  "install": "# git clone --depth 1 https://github.com/lidicn/AutoFlow\n# See source for mcpServers config block"
+}

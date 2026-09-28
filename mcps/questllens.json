@@ -1,0 +1,7 @@
+{
+  "name": "questllens",
+  "description": "Gives AI agents read-only access to any QuestDB instance, enabling schema discovery, time-series querying, and monitoring of partitions, WAL state, symbols, and ingestion health through MCP.",
+  "source_repo": "DMDuFresne/questllens",
+  "source_url": "https://github.com/DMDuFresne/questllens",
+  "install": "# git clone --depth 1 https://github.com/DMDuFresne/questllens\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fallpharm-us-mcp",
+  "description": "A sovereign, MIT-licensed MCP server for professional-service workflow automation, enabling offline-capable, cryptographically signed operations without vendor lock-in.",
+  "source_repo": "sjgant80-hub/fallpharm-us-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallpharm-us-mcp",
+  "install": "npx -y fallpharm-us-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "repository-analyzer-mcp-server",
+  "description": "Provides tools for analyzing code repositories, including structure, dependencies, and git history, with special support for Nostr-related projects.",
+  "source_repo": "DocNR/repo-analyzer-mcp",
+  "source_url": "https://github.com/DocNR/repo-analyzer-mcp",
+  "install": "npx -y repo-analyzer-mcp"
+}

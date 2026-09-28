@@ -1,0 +1,7 @@
+{
+  "name": "wolvenkit-mcp",
+  "description": "MCP server that gives Claude Code access to WolvenKit for Cyberpunk 2077 modding. Extract archives, convert game files to JSON, inspect meshes and textures, manage mods, and build mod projects — all from your terminal.",
+  "source_repo": "Y4rd13/wolvenkit-mcp",
+  "source_url": "https://github.com/Y4rd13/wolvenkit-mcp",
+  "install": "npx -y wolvenkit-mcp"
+}

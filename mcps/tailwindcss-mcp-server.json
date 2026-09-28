@@ -1,0 +1,7 @@
+{
+  "name": "tailwindcss-mcp-server",
+  "description": "A comprehensive MCP server providing TailwindCSS utilities, documentation, conversion tools, and template generation to assist AI in TailwindCSS development.",
+  "source_repo": "clarity-contrib/tailwindcss-mcp-server",
+  "source_url": "https://github.com/clarity-contrib/tailwindcss-mcp-server",
+  "install": "npx -y tailwindcss-mcp-server"
+}

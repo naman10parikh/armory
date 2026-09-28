@@ -1,0 +1,7 @@
+{
+  "name": "agenticsettle-verify",
+  "description": "Free VOP (Verified Output Protocol) verification for AI agent outputs — score any output 0-100 and get a PASS/PARTIAL/FAIL verdict. No account, no escrow, no financial transaction of any kind.",
+  "source_repo": "agenticsettleio/agenticsettle-mcp",
+  "source_url": "https://github.com/agenticsettleio/agenticsettle-mcp",
+  "install": "npx -y agenticsettle-mcp"
+}

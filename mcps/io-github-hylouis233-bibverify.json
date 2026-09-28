@@ -1,0 +1,7 @@
+{
+  "name": "io-github-hylouis233-bibverify",
+  "description": "A multi-platform BibTeX reference verification and update tool with DOI-first lookup, dynamic source ranking, MCP tools, and skill export for AI assistants.",
+  "source_repo": "Hylouis233/bibverify",
+  "source_url": "https://github.com/Hylouis233/bibverify",
+  "install": "# git clone --depth 1 https://github.com/Hylouis233/bibverify\n# See source for mcpServers config block"
+}

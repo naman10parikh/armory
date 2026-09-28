@@ -1,0 +1,7 @@
+{
+  "name": "namemyapp-mcp",
+  "description": "Enables AI agents to check domain availability, generate brandable names, and create one-click purchase URLs for domains via namemy.app.",
+  "source_repo": "Rakesh1002/namemyapp-mcp",
+  "source_url": "https://github.com/Rakesh1002/namemyapp-mcp",
+  "install": "npx -y namemyapp-mcp"
+}

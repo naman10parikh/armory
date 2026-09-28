@@ -1,0 +1,7 @@
+{
+  "name": "brewfather-mcp",
+  "description": "Enables reading, searching, creating, and safely modifying Brewfather recipes via the Brewfather API, with local credential storage and confirmation-based writes.",
+  "source_repo": "plane636/brewfather-mcp",
+  "source_url": "https://github.com/plane636/brewfather-mcp",
+  "install": "npx -y brewfather-mcp"
+}

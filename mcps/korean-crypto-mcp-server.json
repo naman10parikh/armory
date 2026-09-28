@@ -1,0 +1,7 @@
+{
+  "name": "korean-crypto-mcp-server",
+  "description": "Real-time Korean cryptocurrency data via Upbit exchange — kimchi premium, live prices, top movers, and exchange comparison.",
+  "source_repo": "koreafintech/korean-crypto-mcp",
+  "source_url": "https://github.com/koreafintech/korean-crypto-mcp",
+  "install": "npx -y korean-crypto-mcp"
+}

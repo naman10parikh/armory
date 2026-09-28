@@ -1,0 +1,7 @@
+{
+  "name": "cegid-mcp",
+  "description": "Open-source MCP server that exposes Cegid APIs (accounting, third parties, documents, HR) as tools for LLM agents via the Model Context Protocol. Currently in early bootstrap phase with core structure in place.",
+  "source_repo": "Nijal-AI/cegid-mcp",
+  "source_url": "https://github.com/Nijal-AI/cegid-mcp",
+  "install": "npx -y cegid-mcp"
+}

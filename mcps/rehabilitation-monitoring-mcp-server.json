@@ -1,0 +1,7 @@
+{
+  "name": "rehabilitation-monitoring-mcp-server",
+  "description": "An MCP server for rehabilitation monitoring that provides tools for patient risk scoring, outcome analysis, report generation, alerts, and research search, along with prompts and CSV data resources.",
+  "source_repo": "miiakorhonen/rehab-monitor-mcp",
+  "source_url": "https://github.com/miiakorhonen/rehab-monitor-mcp",
+  "install": "npx -y rehab-monitor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "banking-mcp-server-mongodb-backend",
+  "description": "Enables basic banking operations (CRUD) with persistent MongoDB storage, supporting account management and money transfers.",
+  "source_repo": "stwomack/banking-mcp-server-mdb",
+  "source_url": "https://github.com/stwomack/banking-mcp-server-mdb",
+  "install": "# git clone --depth 1 https://github.com/stwomack/banking-mcp-server-mdb\n# See source for mcpServers config block"
+}

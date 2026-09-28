@@ -1,0 +1,7 @@
+{
+  "name": "dashan-crm-mcp",
+  "description": "Enables AI agents to manage Dashan CRM (customers, orders, products, etc.) via MCP with built-in safety constraints.",
+  "source_repo": "xuzhu03133-ai/dashan-crm-mcp",
+  "source_url": "https://github.com/xuzhu03133-ai/dashan-crm-mcp",
+  "install": "npx -y dashan-crm-mcp"
+}

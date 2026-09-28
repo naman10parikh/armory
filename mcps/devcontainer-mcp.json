@@ -1,0 +1,7 @@
+{
+  "name": "devcontainer-mcp",
+  "description": "A minimal MCP server that exposes a single bash tool to execute commands inside a devcontainer, returning real output and exit codes.",
+  "source_repo": "vovayartsev-dice/devcontainer-mcp",
+  "source_url": "https://github.com/vovayartsev-dice/devcontainer-mcp",
+  "install": "npx -y devcontainer-mcp"
+}

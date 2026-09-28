@@ -1,0 +1,7 @@
+{
+  "name": "doordash-mcp",
+  "description": "Enables ordering DoorDash through Poke over text, exposing tools for restaurant discovery, cart management, promotions, and order submission with purchase safety features.",
+  "source_repo": "shivanished/doordash-mcp",
+  "source_url": "https://github.com/shivanished/doordash-mcp",
+  "install": "npx -y doordash-mcp"
+}

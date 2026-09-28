@@ -1,0 +1,7 @@
+{
+  "name": "fis-intellimatch-mcp-server",
+  "description": "Connects AI assistants to FIS IntelliMatch SQL Server database for read-only BAU operations, enabling natural language queries on reconciliation data.",
+  "source_repo": "navin2031992/mcpmssql",
+  "source_url": "https://github.com/navin2031992/mcpmssql",
+  "install": "# git clone --depth 1 https://github.com/navin2031992/mcpmssql\n# See source for mcpServers config block"
+}

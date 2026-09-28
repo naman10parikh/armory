@@ -1,0 +1,7 @@
+{
+  "name": "ot5-mcp-server",
+  "description": "MCP server providing tools to extract text from PDF, Word, and Excel documents and perform read-only PostgreSQL searches, returning structured JSON results.",
+  "source_repo": "Epyur/ot5-mcp-server",
+  "source_url": "https://github.com/Epyur/ot5-mcp-server",
+  "install": "npx -y ot5-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ssig-mcp",
+  "description": "Local MCP-to-browser signing bridge for EVM, Solana, and Sui, letting agents prepare and simulate transactions while users approve and sign in a browser wallet extension.",
+  "source_repo": "mrq1911/ssig-mcp",
+  "source_url": "https://github.com/mrq1911/ssig-mcp",
+  "install": "npx -y ssig-mcp"
+}

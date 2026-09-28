@@ -1,0 +1,7 @@
+{
+  "name": "gequbao",
+  "description": "Enables searching for songs and retrieving direct MP3 play URLs from gequbao.net. Supports both simple keyword search and enriched result lookup.",
+  "source_repo": "cgitato/gequbao-mcp",
+  "source_url": "https://github.com/cgitato/gequbao-mcp",
+  "install": "npx -y gequbao-mcp"
+}

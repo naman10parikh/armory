@@ -1,0 +1,7 @@
+{
+  "name": "multi-gmail-mcp-server",
+  "description": "Enables searching, reading, and drafting emails across multiple Gmail accounts through a single MCP server.",
+  "source_repo": "makingprettyspaces/gmail-mcp-server",
+  "source_url": "https://github.com/makingprettyspaces/gmail-mcp-server",
+  "install": "npx -y gmail-mcp-server"
+}

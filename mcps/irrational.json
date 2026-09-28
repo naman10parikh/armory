@@ -1,0 +1,7 @@
+{
+  "name": "irrational",
+  "description": "Audits decisions for cognitive biases through an adversarial framework, exposing tools like analyze_decision, list_biases, and get_bias via MCP.",
+  "source_repo": "urbanmorph/irrational",
+  "source_url": "https://github.com/urbanmorph/irrational",
+  "install": "# git clone --depth 1 https://github.com/urbanmorph/irrational\n# See source for mcpServers config block"
+}

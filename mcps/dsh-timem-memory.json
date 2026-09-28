@@ -1,0 +1,7 @@
+{
+  "name": "dsh-timem-memory",
+  "description": "Bridges TiMEM's cloud MCP server with DeepSeek Harness to provide long-term memory tools and automatic memory skills for AI models, enabling persistent context and learned behaviors across conversations.",
+  "source_repo": "auuduu/dsh-timem-memory",
+  "source_url": "https://github.com/auuduu/dsh-timem-memory",
+  "install": "# git clone --depth 1 https://github.com/auuduu/dsh-timem-memory\n# See source for mcpServers config block"
+}

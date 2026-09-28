@@ -1,0 +1,7 @@
+{
+  "name": "bilibili-mcp",
+  "description": "A MCP tool to fetch Bilibili hot list videos, supporting configurable top-K results via async HTTP requests.",
+  "source_repo": "xspadex/bilibili-mcp",
+  "source_url": "https://github.com/xspadex/bilibili-mcp",
+  "install": "npx -y bilibili-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bibliography-search-mcp",
+  "description": "A multi-source academic bibliography search server that retrieves papers from 7 databases with automatic language detection, LLM-powered query planning, and relevance scoring.",
+  "source_repo": "Tokisaki-Galaxy/bibliographySearchMCP",
+  "source_url": "https://github.com/Tokisaki-Galaxy/bibliographySearchMCP",
+  "install": "# git clone --depth 1 https://github.com/Tokisaki-Galaxy/bibliographySearchMCP\n# See source for mcpServers config block"
+}

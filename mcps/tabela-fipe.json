@@ -1,0 +1,7 @@
+{
+  "name": "tabela-fipe",
+  "description": "Provides vehicle reference prices in Brazil (Tabela FIPE) for cars, motorcycles, and trucks, enabling navigation by brand/model/year, historical price queries, depreciation curves, and fuzzy model search.",
+  "source_repo": "mcp-dir/fipe-mcp",
+  "source_url": "https://github.com/mcp-dir/fipe-mcp",
+  "install": "npx -y fipe-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openwebgal-assistant",
+  "description": "MCP server that automates WebGAL game development tasks such as resource management, script editing, documentation lookup, and AI-powered voice generation using LLMs.",
+  "source_repo": "floatDreamWithSong/openwebgal-mcp-server",
+  "source_url": "https://github.com/floatDreamWithSong/openwebgal-mcp-server",
+  "install": "npx -y openwebgal-mcp-server"
+}

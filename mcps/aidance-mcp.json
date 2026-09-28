@@ -1,0 +1,7 @@
+{
+  "name": "aidance-mcp",
+  "description": "A read-only MCP server that exposes AI Dance's image generation workflows, styles, pricing, and official links to MCP-compatible AI clients like Claude Desktop and Cursor.",
+  "source_repo": "rocnubie/aidance-mcp",
+  "source_url": "https://github.com/rocnubie/aidance-mcp",
+  "install": "npx -y aidance-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "meta-trader-mcp",
+  "description": "Exposes a unified AI interface to MetaTrader 5 over the Model Context Protocol, enabling live quotes, historical data, technical indicators, order execution, position management, and headless backtests.",
+  "source_repo": "shubhvisputek/meta-trader-mcp",
+  "source_url": "https://github.com/shubhvisputek/meta-trader-mcp",
+  "install": "npx -y meta-trader-mcp"
+}

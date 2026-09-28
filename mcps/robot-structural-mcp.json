@@ -1,0 +1,7 @@
+{
+  "name": "robot-structural-mcp",
+  "description": "MCP server for Autodesk Robot Structural Analysis Professional that enables AI assistants to read model data, loads, and analysis results from an open Robot session, with optional write and calculation tools.",
+  "source_repo": "TranTriLuc/robot-structural-mcp",
+  "source_url": "https://github.com/TranTriLuc/robot-structural-mcp",
+  "install": "npx -y robot-structural-mcp"
+}

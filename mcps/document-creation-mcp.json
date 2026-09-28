@@ -1,0 +1,7 @@
+{
+  "name": "document-creation-mcp",
+  "description": "MCP server for AI-driven document creation, enabling generation of PowerPoint decks with consistent design themes and auto-generated images via ComfyUI.",
+  "source_repo": "TheRealChickenlegs/document-creation-mcp",
+  "source_url": "https://github.com/TheRealChickenlegs/document-creation-mcp",
+  "install": "npx -y document-creation-mcp"
+}

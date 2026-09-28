@@ -1,0 +1,7 @@
+{
+  "name": "nowhere",
+  "description": "Enables AI to explore real-world coordinates by simulating physical presence with sensory details like terrain, weather, sounds, and local knowledge through MCP tools.",
+  "source_repo": "ariaprism/nowhere-mcp",
+  "source_url": "https://github.com/ariaprism/nowhere-mcp",
+  "install": "npx -y nowhere-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "freeagent-mcp-remote",
+  "description": "An MCP server that connects Claude to FreeAgent accounting data, allowing natural language queries for financial information like bank transactions, invoices, and reports. It also includes a command-line tool for direct API access.",
+  "source_repo": "kivistudio/freeagent-connector",
+  "source_url": "https://github.com/kivistudio/freeagent-connector",
+  "install": "# git clone --depth 1 https://github.com/kivistudio/freeagent-connector\n# See source for mcpServers config block"
+}

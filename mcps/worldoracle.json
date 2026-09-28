@@ -1,0 +1,7 @@
+{
+  "name": "worldoracle",
+  "description": "Contradiction detector and belief repairer for multi-source facts — ensures knowledge-base consistency across agent sessions.",
+  "source_repo": "sandeep-alluru/worldoracle",
+  "source_url": "https://github.com/sandeep-alluru/worldoracle",
+  "install": "# git clone --depth 1 https://github.com/sandeep-alluru/worldoracle\n# See source for mcpServers config block"
+}

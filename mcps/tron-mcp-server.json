@@ -1,0 +1,7 @@
+{
+  "name": "tron-mcp-server",
+  "description": "MCP server for TRON blockchain integration, enabling AI assistants to check balances, manage transactions, interact with smart contracts, and access real-time blockchain data.",
+  "source_repo": "Netts-official/tron_mcp_server",
+  "source_url": "https://github.com/Netts-official/tron_mcp_server",
+  "install": "npx -y tron_mcp_server"
+}

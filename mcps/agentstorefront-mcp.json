@@ -1,0 +1,7 @@
+{
+  "name": "agentstorefront-mcp",
+  "description": "Enables AI agents to discover, subscribe to, and call paid agent services from the AgentStorefront marketplace directly within MCP-aware clients like Claude or Cursor.",
+  "source_repo": "lmaniraruta/agentstorefront-mcp",
+  "source_url": "https://github.com/lmaniraruta/agentstorefront-mcp",
+  "install": "npx -y agentstorefront-mcp"
+}

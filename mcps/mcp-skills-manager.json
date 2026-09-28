@@ -1,0 +1,7 @@
+{
+  "name": "mcp-skills-manager",
+  "description": "A server that serves reusable markdown skills (instructions, playbooks, references) to agents, with a web UI for editing and organizing skills, profiles, and both HTTP and stdio transports.",
+  "source_repo": "cubicecho/mcp-skills-manager",
+  "source_url": "https://github.com/cubicecho/mcp-skills-manager",
+  "install": "# git clone --depth 1 https://github.com/cubicecho/mcp-skills-manager\n# See source for mcpServers config block"
+}

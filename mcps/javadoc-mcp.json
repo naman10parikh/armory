@@ -1,0 +1,7 @@
+{
+  "name": "javadoc-mcp",
+  "description": "Enables browsing JavaDoc documentation of Java libraries via Maven coordinates, with tools to list packages, classes, methods, and search.",
+  "source_repo": "loong95/javadoc-mcp",
+  "source_url": "https://github.com/loong95/javadoc-mcp",
+  "install": "npx -y javadoc-mcp"
+}

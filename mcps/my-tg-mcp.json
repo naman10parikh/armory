@@ -1,0 +1,7 @@
+{
+  "name": "my-tg-mcp",
+  "description": "Read-only MCP access to a personal Telegram account. Allows querying chats, reading and searching messages via Streamable HTTP.",
+  "source_repo": "kiaquila/my-tg-mcp",
+  "source_url": "https://github.com/kiaquila/my-tg-mcp",
+  "install": "npx -y my-tg-mcp"
+}

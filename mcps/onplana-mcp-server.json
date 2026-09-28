@@ -1,0 +1,7 @@
+{
+  "name": "onplana-mcp-server",
+  "description": "Open-source TypeScript MCP server template with Streamable HTTP transport, Bearer auth, and prompt-injection containment, plus a client SDK for Onplana's hosted MCP endpoint.",
+  "source_repo": "Onplana/onplana-mcp-server",
+  "source_url": "https://github.com/Onplana/onplana-mcp-server",
+  "install": "npx -y onplana-mcp-server"
+}

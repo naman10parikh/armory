@@ -1,0 +1,7 @@
+{
+  "name": "ultimate-excel-mcp-server",
+  "description": "Enables AI agents to read, write, format, and execute VBA macros in Microsoft Excel in real-time through the Model Context Protocol, connecting directly to an open Excel window via COM integration.",
+  "source_repo": "akuntumbabanget-sketch/mcpexcel",
+  "source_url": "https://github.com/akuntumbabanget-sketch/mcpexcel",
+  "install": "# git clone --depth 1 https://github.com/akuntumbabanget-sketch/mcpexcel\n# See source for mcpServers config block"
+}

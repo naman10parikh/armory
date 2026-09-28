@@ -1,0 +1,7 @@
+{
+  "name": "chronosync-mcp",
+  "description": "Free, keyless MCP server for timezone conversion, world clock, DST-aware date arithmetic, and cross-timezone meeting scheduling using IANA timezones.",
+  "source_repo": "jmavid/chronosync-mcp",
+  "source_url": "https://github.com/jmavid/chronosync-mcp",
+  "install": "npx -y chronosync-mcp"
+}

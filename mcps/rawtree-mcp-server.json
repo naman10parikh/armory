@@ -1,0 +1,7 @@
+{
+  "name": "rawtree-mcp-server",
+  "description": "Enables querying, inserting, and managing unstructured data in RawTree via SQL, JSON ingestion, and log inspection through MCP clients like Claude Code, Cursor, and Claude Desktop.",
+  "source_repo": "rawtreedb/rawtree-mcp",
+  "source_url": "https://github.com/rawtreedb/rawtree-mcp",
+  "install": "npx -y rawtree-mcp"
+}

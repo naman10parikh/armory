@@ -1,0 +1,7 @@
+{
+  "name": "scicalc-mcp",
+  "description": "A Model Context Protocol server providing mathematical and scientific computing capabilities via NumPy, pandas, SciPy, and Matplotlib, with 19 tools for linear algebra, statistics, numerical methods, data processing, and plotting.",
+  "source_repo": "k-ming/Scientific-computing-MCP",
+  "source_url": "https://github.com/k-ming/Scientific-computing-MCP",
+  "install": "npx -y Scientific-computing-MCP"
+}

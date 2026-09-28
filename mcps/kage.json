@@ -1,0 +1,7 @@
+{
+  "name": "kage",
+  "description": "Shared, code-grounded memory for developers and their coding agents. Capture a learning once and the whole team plus every agent recalls it; memory is grounded in your code and stored as git-tracked JSON reviewed in PRs, with citations validated on write and stale memory withheld from recall. Works",
+  "source_repo": "kage-core/Kage",
+  "source_url": "https://github.com/kage-core/Kage",
+  "install": "# git clone --depth 1 https://github.com/kage-core/Kage\n# See source for mcpServers config block"
+}

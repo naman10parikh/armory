@@ -1,0 +1,7 @@
+{
+  "name": "csmar-mcp",
+  "description": "Provides CSMAR metadata discovery, query feasibility probing, and local materialization for agent workflows, with caching and rate-limit management.",
+  "source_repo": "JinYuKiKK0/CSMAR-Data-MCP",
+  "source_url": "https://github.com/JinYuKiKK0/CSMAR-Data-MCP",
+  "install": "npx -y CSMAR-Data-MCP"
+}

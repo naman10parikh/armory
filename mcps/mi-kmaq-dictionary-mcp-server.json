@@ -1,0 +1,7 @@
+{
+  "name": "mi-kmaq-dictionary-mcp-server",
+  "description": "Enables bidirectional lookup of Mi'kmaq and English words with definitions and examples, and provides tools for learning and dictionary statistics, integrating seamlessly with AI-powered IDEs.",
+  "source_repo": "Traves-Theberge/Mikmaq-Dictionary-API-and-MCP",
+  "source_url": "https://github.com/Traves-Theberge/Mikmaq-Dictionary-API-and-MCP",
+  "install": "npx -y Mikmaq-Dictionary-API-and-MCP"
+}

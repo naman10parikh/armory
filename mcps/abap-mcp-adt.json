@@ -1,0 +1,7 @@
+{
+  "name": "abap-mcp-adt",
+  "description": "MCP server for SAP ABAP development that enables AI assistants and code editors to interact with SAP systems via ABAP Developer Toolkit (ADT) APIs, supporting read, create, update, and delete of ABAP objects.",
+  "source_repo": "ChinhHN-DEV/abap-mcp-adt",
+  "source_url": "https://github.com/ChinhHN-DEV/abap-mcp-adt",
+  "install": "# git clone --depth 1 https://github.com/ChinhHN-DEV/abap-mcp-adt\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "catalogue-api",
+  "description": "Provides a read-only API over a book catalogue, offering tools to search books, retrieve book details and series, and inspect provenance and source agreement data.",
+  "source_repo": "ibraheemmawwal/catalogue-api",
+  "source_url": "https://github.com/ibraheemmawwal/catalogue-api",
+  "install": "# git clone --depth 1 https://github.com/ibraheemmawwal/catalogue-api\n# See source for mcpServers config block"
+}

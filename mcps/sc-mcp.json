@@ -1,0 +1,7 @@
+{
+  "name": "sc-mcp",
+  "description": "A read-only MCP server that wraps the Scalable Capital CLI to expose broker data (portfolio, holdings, transactions, analytics, quotes, news) to any MCP-capable client.",
+  "source_repo": "ratulotron/sc-mcp",
+  "source_url": "https://github.com/ratulotron/sc-mcp",
+  "install": "npx -y sc-mcp"
+}

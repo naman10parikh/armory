@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-zig",
+  "description": "Provides Zig language intelligence for Claude Code by wrapping ZLS (Zig Language Server) and exposing 8 tools for diagnostics, formatting, hover info, go-to-definition, references, completions, document symbols, and building.",
+  "source_repo": "sadopc/mcp-server-zig",
+  "source_url": "https://github.com/sadopc/mcp-server-zig",
+  "install": "# git clone --depth 1 https://github.com/sadopc/mcp-server-zig\n# See source for mcpServers config block"
+}

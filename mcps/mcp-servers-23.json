@@ -1,6 +1,6 @@
 {
   "name": "mcp-servers-23",
-  "description": "MCP Servers MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "andriantahiry2024/MCP-servers",
   "source_url": "https://mcp.so/server/MCP-servers/andriantahiry2024",
   "install": "# git clone --depth 1 https://mcp.so/server/MCP-servers/andriantahiry2024\n# See source for mcpServers config block"

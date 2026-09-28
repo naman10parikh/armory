@@ -1,0 +1,7 @@
+{
+  "name": "prg-mcp",
+  "description": "Enables interaction with the Polish National Register of Borders (PRG) data, currently providing health status monitoring and a server skeleton for future data retrieval features.",
+  "source_repo": "ciembor/prg-mcp",
+  "source_url": "https://github.com/ciembor/prg-mcp",
+  "install": "npx -y prg-mcp"
+}

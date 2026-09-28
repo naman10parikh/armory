@@ -1,0 +1,7 @@
+{
+  "name": "tokenarchive",
+  "description": "Enables agents to query your archived AI coding usage through read-only tools for usage summaries, project breakdowns, daily trends, and archive health.",
+  "source_repo": "ddyy/tokenarchive",
+  "source_url": "https://github.com/ddyy/tokenarchive",
+  "install": "# git clone --depth 1 https://github.com/ddyy/tokenarchive\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "release-notes-coverage-checker",
+  "description": "Checks whether release notes cover the feature changes, fixes, and known issues provided by the user.",
+  "source_repo": "YanKe1816/release-notes-coverage-checker",
+  "source_url": "https://github.com/YanKe1816/release-notes-coverage-checker",
+  "install": "# git clone --depth 1 https://github.com/YanKe1816/release-notes-coverage-checker\n# See source for mcpServers config block"
+}

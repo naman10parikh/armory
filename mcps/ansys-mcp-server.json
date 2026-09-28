@@ -1,0 +1,7 @@
+{
+  "name": "ansys-mcp-server",
+  "description": "Enables natural language-driven ANSYS simulations (Fluent, Mechanical, Geometry) with automatic TUI script generation for reproducibility.",
+  "source_repo": "Bettertoo2/ansys-mcp-server",
+  "source_url": "https://github.com/Bettertoo2/ansys-mcp-server",
+  "install": "npx -y ansys-mcp-server"
+}

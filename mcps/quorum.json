@@ -1,0 +1,7 @@
+{
+  "name": "quorum",
+  "description": "Quorum is an MCP server for querying meeting archives in natural language, returning answers with citations to speakers and timestamps or explicitly abstaining when evidence is insufficient.",
+  "source_repo": "AnjanaSuresh01/agentic-meeting-intelligence",
+  "source_url": "https://github.com/AnjanaSuresh01/agentic-meeting-intelligence",
+  "install": "# git clone --depth 1 https://github.com/AnjanaSuresh01/agentic-meeting-intelligence\n# See source for mcpServers config block"
+}

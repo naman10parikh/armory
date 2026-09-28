@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-mg-luz-certid-o-negativa-de-d-bitos",
+  "description": "Enables querying municipal tax clearance certificates (Certidão Negativa de Débitos) from Prefeitura de Luz, MG, via a hosted MCP server with a single read-only tool.",
+  "source_repo": "mcp-dir/pref_mg_luz_cnd-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_mg_luz_cnd-mcp",
+  "install": "npx -y pref_mg_luz_cnd-mcp"
+}

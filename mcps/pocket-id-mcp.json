@@ -1,0 +1,7 @@
+{
+  "name": "pocket-id-mcp",
+  "description": "Enables bounded administration of Pocket ID, focusing on OIDC client management and read-only identity inventory, with secure handling of API keys and client secrets.",
+  "source_repo": "X1pheR/pocket-id-mcp",
+  "source_url": "https://github.com/X1pheR/pocket-id-mcp",
+  "install": "npx -y pocket-id-mcp"
+}

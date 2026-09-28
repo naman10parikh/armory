@@ -1,0 +1,7 @@
+{
+  "name": "duckdb-mcp",
+  "description": "Enables read-only SQL querying and exploration of data files (CSV, Parquet, JSON, Excel, etc.) via DuckDB, supporting local paths, globs, URLs, and S3 buckets.",
+  "source_repo": "lab1702/duck-mcp",
+  "source_url": "https://github.com/lab1702/duck-mcp",
+  "install": "npx -y duck-mcp"
+}

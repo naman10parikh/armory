@@ -1,0 +1,7 @@
+{
+  "name": "payhere-mcp-server",
+  "description": "Enables interaction with the PayHere payment gateway via MCP, allowing payment retrieval, refund issuance, checkout payload generation, and signature computation/verification.",
+  "source_repo": "lakshitha0526/payhere-mcp",
+  "source_url": "https://github.com/lakshitha0526/payhere-mcp",
+  "install": "npx -y payhere-mcp"
+}

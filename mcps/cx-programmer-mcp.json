@@ -1,0 +1,7 @@
+{
+  "name": "cx-programmer-mcp",
+  "description": "MCP server for editing OMRON CX-Programmer ladder logic projects, supporting sections, rungs, symbols, and program validation via natural language.",
+  "source_repo": "BlackUppsss/Cx-Proggrammer-MCP",
+  "source_url": "https://github.com/BlackUppsss/Cx-Proggrammer-MCP",
+  "install": "npx -y Cx-Proggrammer-MCP"
+}

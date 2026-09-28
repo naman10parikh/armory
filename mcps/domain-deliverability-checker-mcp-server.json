@@ -1,0 +1,7 @@
+{
+  "name": "domain-deliverability-checker-mcp-server",
+  "description": "Enables auditing any domain's email deliverability and DNS health, including SPF, DKIM, DMARC, MX, mail provider, DNS blacklist status, catch-all, domain age, and a deliverability score.",
+  "source_repo": "mambalabsdev/mcp-domain-deliverability-checker",
+  "source_url": "https://github.com/mambalabsdev/mcp-domain-deliverability-checker",
+  "install": "# git clone --depth 1 https://github.com/mambalabsdev/mcp-domain-deliverability-checker\n# See source for mcpServers config block"
+}

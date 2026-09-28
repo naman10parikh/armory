@@ -1,0 +1,7 @@
+{
+  "name": "llm-safe-sql",
+  "description": "Enables LLMs to propose UPDATE/DELETE SQL that is run in a transaction, measured, and rolled back, requiring human approval before applying to prevent unauthorized changes.",
+  "source_repo": "hyuga611/llm-safe-sql",
+  "source_url": "https://github.com/hyuga611/llm-safe-sql",
+  "install": "# git clone --depth 1 https://github.com/hyuga611/llm-safe-sql\n# See source for mcpServers config block"
+}

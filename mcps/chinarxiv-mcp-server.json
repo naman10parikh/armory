@@ -1,0 +1,7 @@
+{
+  "name": "chinarxiv-mcp-server",
+  "description": "Provides tools to search and retrieve papers, metadata, full text, figures, and PDFs from the ChinaRxiv preprint repository.",
+  "source_repo": "jorgeguberte/chinarxiv-mcp-server",
+  "source_url": "https://github.com/jorgeguberte/chinarxiv-mcp-server",
+  "install": "npx -y chinarxiv-mcp-server"
+}

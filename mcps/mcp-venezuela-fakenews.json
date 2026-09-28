@@ -1,0 +1,7 @@
+{
+  "name": "mcp-venezuela-fakenews",
+  "description": "A Model Context Protocol server for combating disinformation about Venezuela, integrating real fake news patterns with optional web search.",
+  "source_repo": "ajcastrob/mcp-venezuela-fakenews",
+  "source_url": "https://github.com/ajcastrob/mcp-venezuela-fakenews",
+  "install": "# git clone --depth 1 https://github.com/ajcastrob/mcp-venezuela-fakenews\n# See source for mcpServers config block"
+}

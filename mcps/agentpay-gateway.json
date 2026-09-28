@@ -1,0 +1,7 @@
+{
+  "name": "agentpay-gateway",
+  "description": "Provides a single MCP endpoint for 90+ tools across 42 backend servers (search, legal, domain, etc.) with per-call credit billing and a single API key.",
+  "source_repo": "Rumblingb/agentpay-gateway-mcp",
+  "source_url": "https://github.com/Rumblingb/agentpay-gateway-mcp",
+  "install": "npx -y agentpay-gateway-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lenz-mcp-server",
+  "description": "Fact-check claims against independent sources via a multi-model pipeline, providing verdicts and confidence levels from any MCP client.",
+  "source_repo": "lenzhq/lenz-mcp",
+  "source_url": "https://github.com/lenzhq/lenz-mcp",
+  "install": "npx -y lenz-mcp"
+}

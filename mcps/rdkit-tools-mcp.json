@@ -1,0 +1,7 @@
+{
+  "name": "rdkit-tools-mcp",
+  "description": "Provides in-process RDKit cheminformatics operations — descriptors, fingerprints, similarity and substructure search, reaction enumeration, standardization, and 3D conformer generation — for AI agents.",
+  "source_repo": "mtx-auto/rdkit-tools-mcp",
+  "source_url": "https://github.com/mtx-auto/rdkit-tools-mcp",
+  "install": "npx -y rdkit-tools-mcp"
+}

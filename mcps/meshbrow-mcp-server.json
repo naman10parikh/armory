@@ -1,0 +1,7 @@
+{
+  "name": "meshbrow-mcp-server",
+  "description": "MCP server for Meshbrow that gives AI agents full browser automation capabilities with stealth anti-detection, enabling natural language control of browser sessions, data extraction, and multi-browser fleets.",
+  "source_repo": "meshbrow-dev/meshbrow-mcp",
+  "source_url": "https://github.com/meshbrow-dev/meshbrow-mcp",
+  "install": "npx -y meshbrow-mcp"
+}

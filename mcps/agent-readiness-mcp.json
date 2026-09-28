@@ -1,0 +1,7 @@
+{
+  "name": "agent-readiness-mcp",
+  "description": "Scans any website to generate an Agent Readiness Report based on the ASO framework, evaluating agent discoverability, trust, interoperability, and commerce readiness.",
+  "source_repo": "forgemeshlabs/agent-readiness-mcp",
+  "source_url": "https://github.com/forgemeshlabs/agent-readiness-mcp",
+  "install": "npx -y agent-readiness-mcp"
+}

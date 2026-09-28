@@ -1,0 +1,7 @@
+{
+  "name": "ghost-content-universal-mcp-server",
+  "description": "Provides a standardized interface for interacting with Ghost-Content tools and services through a unified API.",
+  "source_repo": "universal-mcp/ghost-content",
+  "source_url": "https://github.com/universal-mcp/ghost-content",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/ghost-content\n# See source for mcpServers config block"
+}

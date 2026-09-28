@@ -1,0 +1,7 @@
+{
+  "name": "at-ris-mcp",
+  "description": "Austria's legal information system (RIS): federal & state law, case law, gazettes, change monitoring.",
+  "source_repo": "paragraflabs/at-ris-mcp",
+  "source_url": "https://github.com/paragraflabs/at-ris-mcp",
+  "install": "npx -y at-ris-mcp"
+}

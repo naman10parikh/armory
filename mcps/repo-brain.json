@@ -1,0 +1,7 @@
+{
+  "name": "repo-brain",
+  "description": "Offline-first, persistent repository memory for coding agents. Provides MCP tools for repository scanning, searching, context, and impact analysis, helping agents navigate and edit code efficiently.",
+  "source_repo": "lucianum7/repo-brain",
+  "source_url": "https://github.com/lucianum7/repo-brain",
+  "install": "# git clone --depth 1 https://github.com/lucianum7/repo-brain\n# See source for mcpServers config block"
+}

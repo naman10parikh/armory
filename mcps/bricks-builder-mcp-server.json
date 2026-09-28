@@ -1,0 +1,7 @@
+{
+  "name": "bricks-builder-mcp-server",
+  "description": "Enables AI assistants to manage Bricks Builder pages, templates, and elements via natural language, with multi-site and CPT support.",
+  "source_repo": "sabiertas/bricks-mcp-server",
+  "source_url": "https://github.com/sabiertas/bricks-mcp-server",
+  "install": "npx -y bricks-mcp-server"
+}

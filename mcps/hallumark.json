@@ -1,0 +1,7 @@
+{
+  "name": "hallumark",
+  "description": "MCP-native auditor for LLM hallucination and grounding issues in RAG systems. Provides prioritized findings in table, JSON, or SARIF format for CI gating and AI agent integration.",
+  "source_repo": "cognis-digital/hallumark",
+  "source_url": "https://github.com/cognis-digital/hallumark",
+  "install": "# git clone --depth 1 https://github.com/cognis-digital/hallumark\n# See source for mcpServers config block"
+}

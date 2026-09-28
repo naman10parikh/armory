@@ -1,0 +1,7 @@
+{
+  "name": "cityflo-on-time-performance-mcp",
+  "description": "Answers operational questions about route on-time performance, such as lateness rates and trip evidence, using structured tools for route summary, trip lateness, and data quality.",
+  "source_repo": "devbathani/Cityflo-Internal-MCP",
+  "source_url": "https://github.com/devbathani/Cityflo-Internal-MCP",
+  "install": "npx -y Cityflo-Internal-MCP"
+}

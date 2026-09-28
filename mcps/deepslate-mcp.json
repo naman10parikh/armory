@@ -1,0 +1,7 @@
+{
+  "name": "deepslate-mcp",
+  "description": "An MCP server that renders Minecraft structure files (NBT / Sponge schematic / Litematic) into PNG preview images using vanilla Minecraft resources.",
+  "source_repo": "Philogag/deepslate-mcp",
+  "source_url": "https://github.com/Philogag/deepslate-mcp",
+  "install": "npx -y deepslate-mcp"
+}

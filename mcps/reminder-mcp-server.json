@@ -1,0 +1,7 @@
+{
+  "name": "reminder-mcp-server",
+  "description": "Provides AI assistants with reliable reminders, persistent memory, task tracking, and activity history through 20 MCP tools, with a multi-user web dashboard and support for SQLite or PostgreSQL.",
+  "source_repo": "sj7trunks/reminder-mcp",
+  "source_url": "https://github.com/sj7trunks/reminder-mcp",
+  "install": "npx -y reminder-mcp"
+}

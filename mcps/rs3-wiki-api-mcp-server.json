@@ -1,0 +1,7 @@
+{
+  "name": "rs3-wiki-api-mcp-server",
+  "description": "Enables Claude to interact with the RuneScape Wiki through search, page retrieval, extracts, and ASCII image rendering.",
+  "source_repo": "deansasek/rs3-wiki-api",
+  "source_url": "https://github.com/deansasek/rs3-wiki-api",
+  "install": "# git clone --depth 1 https://github.com/deansasek/rs3-wiki-api\n# See source for mcpServers config block"
+}

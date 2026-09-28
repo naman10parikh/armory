@@ -1,0 +1,7 @@
+{
+  "name": "zebpay-mcp-server",
+  "description": "Enables AI assistants to securely access Zebpay's spot and futures APIs for market data, trading, and account management through the Model Context Protocol, supporting clients like Cursor and Claude Desktop.",
+  "source_repo": "zebpay/zebpay-mcp-server",
+  "source_url": "https://github.com/zebpay/zebpay-mcp-server",
+  "install": "npx -y zebpay-mcp-server"
+}

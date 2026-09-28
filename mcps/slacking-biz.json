@@ -1,0 +1,7 @@
+{
+  "name": "slacking-biz",
+  "description": "24 MCP tools for SEC financials, FRED economics, US Census demographics, and World Bank data via Streamable HTTP.",
+  "source_repo": "Th3Slack3r/slacking-mcp",
+  "source_url": "https://github.com/Th3Slack3r/slacking-mcp",
+  "install": "npx -y slacking-mcp"
+}

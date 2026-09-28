@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-am-nfce-completa",
+  "description": "Enables querying official SEFAZ Amazonas NFC-e data through a hosted MCP server, with read-only access and pay-per-use credits.",
+  "source_repo": "mcp-dir/sefaz_am_nfce_completa-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_am_nfce_completa-mcp",
+  "install": "npx -y sefaz_am_nfce_completa-mcp"
+}

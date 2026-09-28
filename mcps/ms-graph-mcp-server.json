@@ -1,0 +1,7 @@
+{
+  "name": "ms-graph-mcp-server",
+  "description": "Enables AI assistants to securely operate Microsoft 365 services, including Outlook email drafting/sending, Teams messaging, and user profile retrieval, through MCP over Streamable HTTP. Deployable on Google Cloud Run with managed authentication via Microsoft Entra ID.",
+  "source_repo": "MT-Git01/MS-Graph-MCP-Server_for_Cloud_Run",
+  "source_url": "https://github.com/MT-Git01/MS-Graph-MCP-Server_for_Cloud_Run",
+  "install": "# git clone --depth 1 https://github.com/MT-Git01/MS-Graph-MCP-Server_for_Cloud_Run\n# See source for mcpServers config block"
+}

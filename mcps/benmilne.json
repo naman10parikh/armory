@@ -1,0 +1,7 @@
+{
+  "name": "benmilne",
+  "description": "Enables querying and searching Ben Milne's personal site content, including essays, API endpoints, and PDF books, via MCP tools.",
+  "source_repo": "benmilne-com/agents",
+  "source_url": "https://github.com/benmilne-com/agents",
+  "install": "# git clone --depth 1 https://github.com/benmilne-com/agents\n# See source for mcpServers config block"
+}

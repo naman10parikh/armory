@@ -1,0 +1,7 @@
+{
+  "name": "mcpfoundry",
+  "description": "A CLI tool that generates production-ready MCP servers from databases or OpenAPI specifications, with optional security shields.",
+  "source_repo": "FidarOrg/mcpfoundry",
+  "source_url": "https://github.com/FidarOrg/mcpfoundry",
+  "install": "# git clone --depth 1 https://github.com/FidarOrg/mcpfoundry\n# See source for mcpServers config block"
+}

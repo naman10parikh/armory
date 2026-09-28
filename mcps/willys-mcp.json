@@ -1,0 +1,7 @@
+{
+  "name": "willys-mcp",
+  "description": "An MCP server for Willy:s that enables recipe-based shopping cart planning, product search, price comparison, and cart management through natural language. It maps the grocery store's internal endpoints and exposes tools to manage recipes, search products, compare prices, and sync the cart.",
+  "source_repo": "oscarthroedsson/willys-mcp",
+  "source_url": "https://github.com/oscarthroedsson/willys-mcp",
+  "install": "npx -y willys-mcp"
+}

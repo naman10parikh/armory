@@ -1,0 +1,7 @@
+{
+  "name": "socialgo-mcp-server",
+  "description": "Enables AI assistants to search the SocialGO SMM platform catalog and place social-media-marketing orders.",
+  "source_repo": "SocialGOcompany/socialgo-tools",
+  "source_url": "https://github.com/SocialGOcompany/socialgo-tools",
+  "install": "# git clone --depth 1 https://github.com/SocialGOcompany/socialgo-tools\n# See source for mcpServers config block"
+}

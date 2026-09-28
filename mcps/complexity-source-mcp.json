@@ -1,0 +1,7 @@
+{
+  "name": "complexity-source-mcp",
+  "description": "Read-only MCP server providing AI access to verifiable web, GitHub, and local sources, plus a managed fantasy entity catalog, with strong security and provenance tracking.",
+  "source_repo": "Complexity-ML/complexity-source-mcp",
+  "source_url": "https://github.com/Complexity-ML/complexity-source-mcp",
+  "install": "npx -y complexity-source-mcp"
+}

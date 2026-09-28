@@ -1,0 +1,7 @@
+{
+  "name": "venezuela-fakenews",
+  "description": "Enables AI assistants to verify claims about Venezuela's June 2026 earthquake using pattern detection, official sources, and fact-check reports.",
+  "source_repo": "Rexpeto/Venezuela-fakenew",
+  "source_url": "https://github.com/Rexpeto/Venezuela-fakenew",
+  "install": "# git clone --depth 1 https://github.com/Rexpeto/Venezuela-fakenew\n# See source for mcpServers config block"
+}

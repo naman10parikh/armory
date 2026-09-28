@@ -1,0 +1,7 @@
+{
+  "name": "checkpj-mcp-server",
+  "description": "Provides tools to look up Brazilian companies by CNPJ, search companies, get risk scores, and validate CNPJ using the CheckPJ API.",
+  "source_repo": "dapdevsoftware/checkpj-mcp",
+  "source_url": "https://github.com/dapdevsoftware/checkpj-mcp",
+  "install": "npx -y checkpj-mcp"
+}

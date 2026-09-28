@@ -1,0 +1,7 @@
+{
+  "name": "meli-chatgpt-business-mcp",
+  "description": "Enables analyzing Mercado Libre Argentina listings, calculating seller net proceeds, and preparing/publishing listings after explicit confirmation. Includes safe mock mode and secure OAuth.",
+  "source_repo": "h6vrzxy9mm-byte/meli-chatgpt-business-mcp",
+  "source_url": "https://github.com/h6vrzxy9mm-byte/meli-chatgpt-business-mcp",
+  "install": "npx -y meli-chatgpt-business-mcp"
+}

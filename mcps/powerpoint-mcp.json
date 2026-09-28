@@ -1,0 +1,7 @@
+{
+  "name": "powerpoint-mcp",
+  "description": "Create and edit PowerPoint presentations with Claude – locally, on any platform.",
+  "source_repo": "juanocampo400/powerpoint-mcp",
+  "source_url": "https://github.com/juanocampo400/powerpoint-mcp",
+  "install": "npx -y powerpoint-mcp"
+}

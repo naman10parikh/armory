@@ -1,0 +1,7 @@
+{
+  "name": "aeo-tool",
+  "description": "Audit any website for AI citability on **67 criteria across 7 AI engines** (ChatGPT, Gemini, Perplexity, Claude, Copilot, Grok, Google AI Overviews). Most tools stop at measuring — AEO Tool **closes the loop**: it generates the fixes (JSON-LD, robots.txt, llms.txt, meta/OpenGraph, FAQPage) and **app",
+  "source_repo": "",
+  "source_url": "https://aeotool.io/mcp-agences",
+  "install": "# git clone --depth 1 https://aeotool.io/mcp-agences\n# See source for mcpServers config block"
+}

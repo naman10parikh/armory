@@ -1,0 +1,7 @@
+{
+  "name": "qa-automation-mcp-server",
+  "description": "An AI-powered QA automation tool that crawls web pages, generates Playwright-based pytest tests using an LLM, runs them, and automatically heals failing tests.",
+  "source_repo": "parajuliminiyan/PlaywrightMCP-Server",
+  "source_url": "https://github.com/parajuliminiyan/PlaywrightMCP-Server",
+  "install": "npx -y PlaywrightMCP-Server"
+}

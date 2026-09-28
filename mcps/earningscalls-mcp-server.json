@@ -1,0 +1,7 @@
+{
+  "name": "earningscalls-mcp-server",
+  "description": "Enables AI agents to access and search 177,000+ earnings call transcripts from 17,000+ companies, allowing natural language queries about financial commentary.",
+  "source_repo": "stockmarketscan/earningscalls-mcp",
+  "source_url": "https://github.com/stockmarketscan/earningscalls-mcp",
+  "install": "npx -y earningscalls-mcp"
+}

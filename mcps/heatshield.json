@@ -1,0 +1,7 @@
+{
+  "name": "heatshield",
+  "description": "HeatShield MCP server enables AI assistants with real-time spatial reasoning for urban heat wave safety. It provides tools for geocoding, weather/heat risk, air quality, finding cooling spots, and heat safety advice.",
+  "source_repo": "AscilCH/heatshield-mcp",
+  "source_url": "https://github.com/AscilCH/heatshield-mcp",
+  "install": "npx -y heatshield-mcp"
+}

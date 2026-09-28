@@ -1,0 +1,7 @@
+{
+  "name": "company-identity-resolver-mcp-server",
+  "description": "Resolves any combination of company name, domain, or LinkedIn URL into the canonical company identity (name, domain, LinkedIn URL) with confidence scores and match method.",
+  "source_repo": "mambalabsdev/mcp-company-identity-resolver",
+  "source_url": "https://github.com/mambalabsdev/mcp-company-identity-resolver",
+  "install": "# git clone --depth 1 https://github.com/mambalabsdev/mcp-company-identity-resolver\n# See source for mcpServers config block"
+}

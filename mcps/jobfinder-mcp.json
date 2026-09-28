@@ -1,0 +1,7 @@
+{
+  "name": "jobfinder-mcp",
+  "description": "Enables searching job listings, tracking applications, managing resumes, and tailoring resumes to job posts, all locally via MCP.",
+  "source_repo": "juanzjck/autojobfinder-mcp",
+  "source_url": "https://github.com/juanzjck/autojobfinder-mcp",
+  "install": "npx -y autojobfinder-mcp"
+}

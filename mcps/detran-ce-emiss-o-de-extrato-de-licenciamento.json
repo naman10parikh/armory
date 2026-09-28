@@ -1,0 +1,7 @@
+{
+  "name": "detran-ce-emiss-o-de-extrato-de-licenciamento",
+  "description": "Enables AI agents to retrieve official vehicle licensing extracts from DETRAN CE via a hosted, read-only MCP server with prepaid credit usage.",
+  "source_repo": "mcp-dir/detran_ce_licenciamento-mcp",
+  "source_url": "https://github.com/mcp-dir/detran_ce_licenciamento-mcp",
+  "install": "npx -y detran_ce_licenciamento-mcp"
+}

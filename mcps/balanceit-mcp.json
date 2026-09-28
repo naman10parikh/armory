@@ -1,0 +1,7 @@
+{
+  "name": "balanceit-mcp",
+  "description": "An MCP server that automates a balance.it account, providing tools for calorie calculation, food search, catalogue listing, and recipe generation for pet diets.",
+  "source_repo": "seraphinerenard/balanceit-mcp",
+  "source_url": "https://github.com/seraphinerenard/balanceit-mcp",
+  "install": "npx -y balanceit-mcp"
+}

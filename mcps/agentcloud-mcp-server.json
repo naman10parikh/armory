@@ -1,0 +1,7 @@
+{
+  "name": "agentcloud-mcp-server",
+  "description": "Enables managing persistent AI workers through MCP tools for versioning, safe testing, deployment, approvals, and run lifecycle with tenant isolation and policy enforcement.",
+  "source_repo": "premhiru/agentcloud",
+  "source_url": "https://github.com/premhiru/agentcloud",
+  "install": "# git clone --depth 1 https://github.com/premhiru/agentcloud\n# See source for mcpServers config block"
+}

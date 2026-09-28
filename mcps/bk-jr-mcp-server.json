@@ -1,0 +1,7 @@
+{
+  "name": "bk-jr-mcp-server",
+  "description": "A hosted MCP server for the BK Jr. recruiter agent that integrates voice (Retell AI), SMS (Quo/OpenPhone), and Google services, exposing tools for candidate management, outreach, and scheduling.",
+  "source_repo": "mnjbold/bk-jr-recruiter-mcp",
+  "source_url": "https://github.com/mnjbold/bk-jr-recruiter-mcp",
+  "install": "npx -y bk-jr-recruiter-mcp"
+}

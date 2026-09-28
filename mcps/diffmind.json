@@ -1,0 +1,7 @@
+{
+  "name": "diffmind",
+  "description": "An MCP server for Claude Code that forces AI agents to document every change with rationale, rejected alternatives, and trade-offs, ensuring code maintainability and developer ownership during AI-assisted development.",
+  "source_repo": "akay1121/DiffMind",
+  "source_url": "https://github.com/akay1121/DiffMind",
+  "install": "# git clone --depth 1 https://github.com/akay1121/DiffMind\n# See source for mcpServers config block"
+}

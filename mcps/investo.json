@@ -1,0 +1,7 @@
+{
+  "name": "investo",
+  "description": "An AI investment-analysis MCP server that analyzes companies (Indian NSE/BSE or global) by gathering public financial data and producing a comprehensive report including financials, ratios, DCF valuation, economic moat, risks, and a 0-100 investment rating.",
+  "source_repo": "YashvantHange/Investo",
+  "source_url": "https://github.com/YashvantHange/Investo",
+  "install": "# git clone --depth 1 https://github.com/YashvantHange/Investo\n# See source for mcpServers config block"
+}

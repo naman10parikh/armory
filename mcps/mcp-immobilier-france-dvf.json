@@ -1,0 +1,7 @@
+{
+  "name": "mcp-immobilier-france-dvf",
+  "description": "Provides AI agents with real-time access to French real estate transaction data, price per square meter, and property estimates using official open DVF data, with no API key required.",
+  "source_repo": "AgentIA1984-cmd/mcp-immobilier-dvf",
+  "source_url": "https://github.com/AgentIA1984-cmd/mcp-immobilier-dvf",
+  "install": "# git clone --depth 1 https://github.com/AgentIA1984-cmd/mcp-immobilier-dvf\n# See source for mcpServers config block"
+}

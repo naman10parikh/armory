@@ -1,0 +1,7 @@
+{
+  "name": "career-navigator-mcp",
+  "description": "Enables career diagnosis by analyzing user skills and recommending suitable professions using Google Gemini and a RAG knowledge base of 10 professions.",
+  "source_repo": "Miriam-Epstein/career-navigator-mcp",
+  "source_url": "https://github.com/Miriam-Epstein/career-navigator-mcp",
+  "install": "npx -y career-navigator-mcp"
+}

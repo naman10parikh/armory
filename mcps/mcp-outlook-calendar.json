@@ -1,0 +1,7 @@
+{
+  "name": "mcp-outlook-calendar",
+  "description": "Enables interaction with Outlook / Microsoft 365 calendar, allowing users to list events, get event details, find meeting times, and access calendar and profile information.",
+  "source_repo": "pipeworx-io/mcp-outlook-calendar",
+  "source_url": "https://github.com/pipeworx-io/mcp-outlook-calendar",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-outlook-calendar\n# See source for mcpServers config block"
+}

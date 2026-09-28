@@ -1,0 +1,7 @@
+{
+  "name": "food-travel-mcp-server",
+  "description": "An MCP server that integrates with Google Places API to enable AI clients to search for restaurants and get food recommendations based on location and preferences.",
+  "source_repo": "snehalsaurabh/Travelio-MCP",
+  "source_url": "https://github.com/snehalsaurabh/Travelio-MCP",
+  "install": "npx -y Travelio-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "paper-intelligence",
+  "description": "A local-first database and assistant layer for organizing, analyzing, and retrieving research papers efficiently.",
+  "source_repo": "jonastbrg/paper-intelligence",
+  "source_url": "https://github.com/jonastbrg/paper-intelligence",
+  "install": "# git clone --depth 1 https://github.com/jonastbrg/paper-intelligence\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "valorlens",
+  "description": "MCP server for Valorant esports analytics that exposes structured metrics and database query tools, enabling AI-assisted match analysis, player profiling, scouting reports, and coaching insights.",
+  "source_repo": "jawaharlaldoon-bit/ValorLens",
+  "source_url": "https://github.com/jawaharlaldoon-bit/ValorLens",
+  "install": "# git clone --depth 1 https://github.com/jawaharlaldoon-bit/ValorLens\n# See source for mcpServers config block"
+}

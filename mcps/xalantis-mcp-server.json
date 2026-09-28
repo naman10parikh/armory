@@ -1,0 +1,7 @@
+{
+  "name": "xalantis-mcp-server",
+  "description": "Enables managing support tickets from Claude, Cursor, and other AI tools, including listing, creating, updating, and replying to tickets.",
+  "source_repo": "xalantis-hub/xalantis-mcp",
+  "source_url": "https://github.com/xalantis-hub/xalantis-mcp",
+  "install": "npx -y xalantis-mcp"
+}

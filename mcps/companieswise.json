@@ -1,0 +1,7 @@
+{
+  "name": "companieswise",
+  "description": "Provides verified UK company lookup and number validation for AI agents using official Companies House data. Enables lookup of registered details by number, validation of company number format, and search by company name.",
+  "source_repo": "qinisolabs/companieswise",
+  "source_url": "https://github.com/qinisolabs/companieswise",
+  "install": "# git clone --depth 1 https://github.com/qinisolabs/companieswise\n# See source for mcpServers config block"
+}

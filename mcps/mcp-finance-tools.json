@@ -1,0 +1,7 @@
+{
+  "name": "mcp-finance-tools",
+  "description": "Provides Korean-specific financial calculators (4 insurances, salary net, severance pay, capital gains tax, DSR/DTI, FX conversion, housing subscription score) as MCP tools for AI agents.",
+  "source_repo": "jack200250-collab/mcp-finance-tools",
+  "source_url": "https://github.com/jack200250-collab/mcp-finance-tools",
+  "install": "# git clone --depth 1 https://github.com/jack200250-collab/mcp-finance-tools\n# See source for mcpServers config block"
+}

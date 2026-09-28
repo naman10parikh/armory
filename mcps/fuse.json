@@ -1,0 +1,7 @@
+{
+  "name": "fuse",
+  "description": "A local .NET MCP server for coding agents, providing persistent semantic indexing, typed-graph DI wiring resolution, reduced context, and compiler-backed verification for .NET projects.",
+  "source_repo": "Litenova-Solutions/Fuse",
+  "source_url": "https://github.com/Litenova-Solutions/Fuse",
+  "install": "# git clone --depth 1 https://github.com/Litenova-Solutions/Fuse\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "promo-kit-mcp",
+  "description": "Creates a complete promotional campaign kit from a short brief using web research, images, voiceovers, and evaluation.",
+  "source_repo": "vickhunter/cursor_mcpserver_buildnight",
+  "source_url": "https://github.com/vickhunter/cursor_mcpserver_buildnight",
+  "install": "# git clone --depth 1 https://github.com/vickhunter/cursor_mcpserver_buildnight\n# See source for mcpServers config block"
+}

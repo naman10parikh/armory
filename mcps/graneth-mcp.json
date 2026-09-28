@@ -1,0 +1,7 @@
+{
+  "name": "graneth-mcp",
+  "description": "An account-free MCP server that checks AI-written changes before they are committed, detecting nonexistent packages, dependency risk shapes, and hardcoded secrets.",
+  "source_repo": "zubovartemiy/graneth-mcp",
+  "source_url": "https://github.com/zubovartemiy/graneth-mcp",
+  "install": "npx -y graneth-mcp"
+}

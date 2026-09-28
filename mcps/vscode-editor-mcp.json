@@ -1,0 +1,7 @@
+{
+  "name": "vscode-editor-mcp",
+  "description": "Exposes the active file and selection(s) from VS Code to MCP clients, enabling CLI coding agents to access current editor context.",
+  "source_repo": "user-ic/vscode_mcp",
+  "source_url": "https://github.com/user-ic/vscode_mcp",
+  "install": "npx -y vscode_mcp"
+}

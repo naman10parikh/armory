@@ -1,0 +1,7 @@
+{
+  "name": "proposal-generator-mcp",
+  "description": "Generates professional client proposals including timeline, tech stack, price estimate, and milestone breakdown from client requirements.",
+  "source_repo": "ahmaddeveloper17/client-proposal-generator-mcp",
+  "source_url": "https://github.com/ahmaddeveloper17/client-proposal-generator-mcp",
+  "install": "npx -y client-proposal-generator-mcp"
+}

@@ -1,6 +1,6 @@
 {
   "name": "mcp-inspector-vscode",
-  "description": "Mcp Inspector Vscode MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "kshern/mcp-inspector-vscode",
   "source_url": "https://mcp.so/server/mcp-inspector-vscode/kshern",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-inspector-vscode/kshern\n# See source for mcpServers config block"

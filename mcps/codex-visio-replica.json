@@ -1,0 +1,7 @@
+{
+  "name": "codex-visio-replica",
+  "description": "A local-first toolkit that rebuilds reference images as editable Microsoft Visio shapes via two MCP servers for image QA and Visio COM rendering.",
+  "source_repo": "Leobeckham-162632/codex-visio-replica",
+  "source_url": "https://github.com/Leobeckham-162632/codex-visio-replica",
+  "install": "# git clone --depth 1 https://github.com/Leobeckham-162632/codex-visio-replica\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "myhealth-companion-mcp",
+  "description": "Enables users to understand lab test results, check food-drug interactions, and get medication information from official Korean sources. Offers personalized insights based on user's health profile and current medications.",
+  "source_repo": "colinkkk/medical-helper-mcp",
+  "source_url": "https://github.com/colinkkk/medical-helper-mcp",
+  "install": "npx -y medical-helper-mcp"
+}

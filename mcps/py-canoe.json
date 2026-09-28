@@ -1,0 +1,7 @@
+{
+  "name": "py-canoe",
+  "description": "MCP server that enables AI agents to interact with Vector CANoe for automotive bus testing and diagnostics using natural language commands.",
+  "source_repo": "suzike/Agent2Canoe",
+  "source_url": "https://github.com/suzike/Agent2Canoe",
+  "install": "# git clone --depth 1 https://github.com/suzike/Agent2Canoe\n# See source for mcpServers config block"
+}

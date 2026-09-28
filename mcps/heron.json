@@ -1,0 +1,7 @@
+{
+  "name": "heron",
+  "description": "Security scanning for AI agent skills, MCP servers, and agent prompts, returning signed trust scores and detailed findings.",
+  "source_repo": "heronsec/heron-mcp",
+  "source_url": "https://github.com/heronsec/heron-mcp",
+  "install": "npx -y heron-mcp"
+}

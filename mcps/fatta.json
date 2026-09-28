@@ -1,0 +1,7 @@
+{
+  "name": "fatta",
+  "description": "MCP server for code comprehension indices and test maps. It answers what must be known to change a function and which tests pin its behavior, using compiler type information.",
+  "source_repo": "sockulags/fatta",
+  "source_url": "https://github.com/sockulags/fatta",
+  "install": "# git clone --depth 1 https://github.com/sockulags/fatta\n# See source for mcpServers config block"
+}

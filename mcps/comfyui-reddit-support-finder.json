@@ -1,0 +1,7 @@
+{
+  "name": "comfyui-reddit-support-finder",
+  "description": "Enables read-only, user-initiated searches of public r/comfyui troubleshooting discussions, returning titles, excerpts, and direct Reddit links to help find existing solutions before posting duplicate support questions.",
+  "source_repo": "woodenriver05/comfyui-reddit-support-finder",
+  "source_url": "https://github.com/woodenriver05/comfyui-reddit-support-finder",
+  "install": "# git clone --depth 1 https://github.com/woodenriver05/comfyui-reddit-support-finder\n# See source for mcpServers config block"
+}

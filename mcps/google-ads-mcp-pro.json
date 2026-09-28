@@ -1,0 +1,7 @@
+{
+  "name": "google-ads-mcp-pro",
+  "description": "A Model Context Protocol server providing full read and write control over Google Ads, enabling AI assistants to build campaigns, fix targeting, rewrite ads, and manage bidding strategies without opening a browser.",
+  "source_repo": "saifshabsug/google-ads-mcp-pro",
+  "source_url": "https://github.com/saifshabsug/google-ads-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/saifshabsug/google-ads-mcp-pro\n# See source for mcpServers config block"
+}

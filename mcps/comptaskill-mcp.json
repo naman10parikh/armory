@@ -1,0 +1,7 @@
+{
+  "name": "comptaskill-mcp",
+  "description": "Enables searching, installing, and proposing Claude skills from the Comptaskill catalogue directly within Claude Chat, with tools for skill discovery and installation.",
+  "source_repo": "TARNCOMPTA/comptaskill-mcp",
+  "source_url": "https://github.com/TARNCOMPTA/comptaskill-mcp",
+  "install": "npx -y comptaskill-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "maverick-lms-mcp",
+  "description": "MCP server integrating MaverickMCP with LM Studio, providing 37+ stock market analysis tools including market data, technical analysis, screening, portfolio tracking, backtesting, and research. Enables natural language interaction with stock analysis tools within LM Studio.",
+  "source_repo": "Nowng/maverick-lms-mcp",
+  "source_url": "https://github.com/Nowng/maverick-lms-mcp",
+  "install": "npx -y maverick-lms-mcp"
+}

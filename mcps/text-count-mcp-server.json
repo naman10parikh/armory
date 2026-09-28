@@ -1,0 +1,7 @@
+{
+  "name": "text-count-mcp-server",
+  "description": "Provides tools for AI models to count characters and words in text, supporting English and other space-delimited languages.",
+  "source_repo": "yuiseki/text-count-mcp-server",
+  "source_url": "https://github.com/yuiseki/text-count-mcp-server",
+  "install": "npx -y text-count-mcp-server"
+}

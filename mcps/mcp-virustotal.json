@@ -1,0 +1,7 @@
+{
+  "name": "mcp-virustotal",
+  "description": "Enables file, URL, domain, and IP reputation checks via VirusTotal API using the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-virustotal",
+  "source_url": "https://github.com/pipeworx-io/mcp-virustotal",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-virustotal\n# See source for mcpServers config block"
+}

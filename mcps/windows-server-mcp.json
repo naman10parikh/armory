@@ -1,0 +1,7 @@
+{
+  "name": "windows-server-mcp",
+  "description": "Enables read-only observability of Windows systems, exposing CPU, memory, storage, service, and health information through Model Context Protocol tools.",
+  "source_repo": "TechGOELogy/windows-server-mcp",
+  "source_url": "https://github.com/TechGOELogy/windows-server-mcp",
+  "install": "npx -y windows-server-mcp"
+}

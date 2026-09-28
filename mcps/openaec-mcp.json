@@ -1,0 +1,7 @@
+{
+  "name": "openaec-mcp",
+  "description": "Safety-first Model Context Protocol platform for AEC applications, enabling AI assistants to inspect, plan, validate, and modify engineering documents after policy and approval checks.",
+  "source_repo": "Venkatchavan/OpenAEC-MCP",
+  "source_url": "https://github.com/Venkatchavan/OpenAEC-MCP",
+  "install": "npx -y OpenAEC-MCP"
+}

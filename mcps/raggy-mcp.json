@@ -1,0 +1,7 @@
+{
+  "name": "raggy-mcp",
+  "description": "Provides centralized, persistent memory and knowledge graph for AI agents via Raggy, enabling recall of decisions, errors, and preferences across sessions.",
+  "source_repo": "sonofakel/raggy-mcp",
+  "source_url": "https://github.com/sonofakel/raggy-mcp",
+  "install": "npx -y raggy-mcp"
+}

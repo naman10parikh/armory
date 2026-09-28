@@ -1,0 +1,7 @@
+{
+  "name": "madtaco-mcp-server",
+  "description": "Provides verification and utility APIs for AI agents to validate tax IDs, screen sanctions, verify companies, and inspect domains using prepaid USD credits, with no charge for failed checks.",
+  "source_repo": "madtaco-dev/mcp",
+  "source_url": "https://github.com/madtaco-dev/mcp",
+  "install": "# git clone --depth 1 https://github.com/madtaco-dev/mcp\n# See source for mcpServers config block"
+}

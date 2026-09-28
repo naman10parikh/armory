@@ -1,0 +1,7 @@
+{
+  "name": "claude-foundry-image",
+  "description": "MCP server for Claude Code that enables image generation and editing via Azure AI Foundry's MAI Image API, writing files to disk and returning only the path.",
+  "source_repo": "jpaarhuis/claude-foundry-image",
+  "source_url": "https://github.com/jpaarhuis/claude-foundry-image",
+  "install": "# git clone --depth 1 https://github.com/jpaarhuis/claude-foundry-image\n# See source for mcpServers config block"
+}

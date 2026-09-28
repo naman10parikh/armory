@@ -1,0 +1,7 @@
+{
+  "name": "cafe-shop-mcp-agent",
+  "description": "Enables natural language interaction with a coffee shop's inventory and order system, allowing users to check menu items, place orders, and track order status via MCP tools.",
+  "source_repo": "rizhwan05/cafe-shop-mcp-agent",
+  "source_url": "https://github.com/rizhwan05/cafe-shop-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/rizhwan05/cafe-shop-mcp-agent\n# See source for mcpServers config block"
+}

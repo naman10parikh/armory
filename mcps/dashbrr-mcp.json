@@ -1,0 +1,7 @@
+{
+  "name": "dashbrr-mcp",
+  "description": "MCP server exposing Dashbrr's REST API as tools, so an LLM can read and manage a dashbrr instance: configured services, per-service health, and summary panels for many apps. Write tools cover settings management, download-queue deletes, Overseerr approvals, UI preferences, and the Plex auth PIN flow",
+  "source_repo": "SavageCore/dashbrr-mcp",
+  "source_url": "https://github.com/SavageCore/dashbrr-mcp",
+  "install": "npx -y dashbrr-mcp"
+}

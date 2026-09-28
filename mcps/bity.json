@@ -1,0 +1,7 @@
+{
+  "name": "bity",
+  "description": "Enables read-only access to Bity cryptocurrency account balances, market data (ticker, order book, trades), and order history via the official API.",
+  "source_repo": "mcp-dir/bity-mcp",
+  "source_url": "https://github.com/mcp-dir/bity-mcp",
+  "install": "npx -y bity-mcp"
+}

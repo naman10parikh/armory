@@ -1,0 +1,7 @@
+{
+  "name": "veeam-aiops",
+  "description": "AI-powered Veeam Backup & Replication operations MCP server with tools for managing jobs, restores, sessions, and repositories, featuring built-in governance, audit logging, and safety controls.",
+  "source_repo": "AIops-tools/Veeam-AIops",
+  "source_url": "https://github.com/AIops-tools/Veeam-AIops",
+  "install": "# git clone --depth 1 https://github.com/AIops-tools/Veeam-AIops\n# See source for mcpServers config block"
+}

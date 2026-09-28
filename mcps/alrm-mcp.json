@@ -1,0 +1,7 @@
+{
+  "name": "alrm-mcp",
+  "description": "Enables AI coding agents to reserve unique AL object IDs via the ALRM database in Business Central, ensuring consistent ID allocation across team members.",
+  "source_repo": "hiimnit/alrm-mcp",
+  "source_url": "https://github.com/hiimnit/alrm-mcp",
+  "install": "npx -y alrm-mcp"
+}

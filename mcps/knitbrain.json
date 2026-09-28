@@ -1,0 +1,7 @@
+{
+  "name": "knitbrain",
+  "description": "Local-first MCP server that gives any AI coding agent per-project memory, workflow intelligence, and always-on, lossless token & context optimization.",
+  "source_repo": "PDgit12/knitbrain",
+  "source_url": "https://github.com/PDgit12/knitbrain",
+  "install": "# git clone --depth 1 https://github.com/PDgit12/knitbrain\n# See source for mcpServers config block"
+}

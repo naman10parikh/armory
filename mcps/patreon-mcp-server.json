@@ -1,0 +1,7 @@
+{
+  "name": "patreon-mcp-server",
+  "description": "Gives AI assistants read-only access to your Patreon creator data, including campaigns, members, posts, and tiers.",
+  "source_repo": "KyuRish/patreon-mcp-server",
+  "source_url": "https://github.com/KyuRish/patreon-mcp-server",
+  "install": "npx -y patreon-mcp-server"
+}

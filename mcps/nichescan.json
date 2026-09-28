@@ -1,0 +1,7 @@
+{
+  "name": "nichescan",
+  "description": "MCP server for Douyin/TikTok short-video transcript and hook analysis, ranking content by save intent rather than likes and transcribing real speech to find reusable opening structures.",
+  "source_repo": "JustinXai/nichescan",
+  "source_url": "https://github.com/JustinXai/nichescan",
+  "install": "# git clone --depth 1 https://github.com/JustinXai/nichescan\n# See source for mcpServers config block"
+}

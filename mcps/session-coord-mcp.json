@@ -1,0 +1,7 @@
+{
+  "name": "session-coord-mcp",
+  "description": "A local-first MCP server for coordinating parallel AI coding sessions with tools like Claude Code and Codex in a single repository.",
+  "source_repo": "LingFeng-Vels/session-coord-mcp",
+  "source_url": "https://github.com/LingFeng-Vels/session-coord-mcp",
+  "install": "npx -y session-coord-mcp"
+}

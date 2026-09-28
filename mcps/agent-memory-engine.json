@@ -1,0 +1,7 @@
+{
+  "name": "agent-memory-engine",
+  "description": "Provides coding agents with persistent, evidence-backed project memory and knowledge across sessions, using a structured memory tree and local knowledge base.",
+  "source_repo": "uudam42/agent-memory-engine",
+  "source_url": "https://github.com/uudam42/agent-memory-engine",
+  "install": "# git clone --depth 1 https://github.com/uudam42/agent-memory-engine\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ragbuddy",
+  "description": "MCP server that enables coding agents to retrieve project context, semantically search indexed documentation, and read specific documents from registered repositories.",
+  "source_repo": "azmirizkifar20/RAGBuddy",
+  "source_url": "https://github.com/azmirizkifar20/RAGBuddy",
+  "install": "# git clone --depth 1 https://github.com/azmirizkifar20/RAGBuddy\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "einvoice-mcp",
+  "description": "MCP server for German e-invoice compliance (XRechnung 3.0 & ZUGFeRD 2.x) enabling AI agents to validate, generate, parse, and check compliance of electronic invoices per EN 16931.",
+  "source_repo": "Mavengence/einvoice-mcp",
+  "source_url": "https://github.com/Mavengence/einvoice-mcp",
+  "install": "npx -y einvoice-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentsumo-mcp",
+  "description": "Enables interactive design, execution, and analysis of SUMO traffic simulations through natural language, providing tools for scenario generation, policy experimentation, result analysis, and visualization.",
+  "source_repo": "urban-ai-institute/kra35-prismx-agentsumo",
+  "source_url": "https://github.com/urban-ai-institute/kra35-prismx-agentsumo",
+  "install": "# git clone --depth 1 https://github.com/urban-ai-institute/kra35-prismx-agentsumo\n# See source for mcpServers config block"
+}

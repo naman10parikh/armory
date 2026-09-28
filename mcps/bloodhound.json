@@ -1,0 +1,7 @@
+{
+  "name": "bloodhound",
+  "description": "Enables users to query BloodHound Active Directory graph data using natural language, finding attack paths, Kerberoastable accounts, and other AD security insights.",
+  "source_repo": "The-bub/Agent-BloodHound",
+  "source_url": "https://github.com/The-bub/Agent-BloodHound",
+  "install": "# git clone --depth 1 https://github.com/The-bub/Agent-BloodHound\n# See source for mcpServers config block"
+}

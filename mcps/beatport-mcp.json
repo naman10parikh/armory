@@ -1,0 +1,7 @@
+{
+  "name": "beatport-mcp",
+  "description": "An MCP server that lets Claude search the Beatport catalog and manage your Beatport playlists, including adding tracks to playlists by name.",
+  "source_repo": "BadWasabeee/beatport-mcp",
+  "source_url": "https://github.com/BadWasabeee/beatport-mcp",
+  "install": "npx -y beatport-mcp"
+}

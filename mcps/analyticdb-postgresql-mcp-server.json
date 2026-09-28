@@ -1,0 +1,7 @@
+{
+  "name": "analyticdb-postgresql-mcp-server",
+  "description": "Serves as a universal interface between AI Agents and AnalyticDB PostgreSQL databases, enabling metadata retrieval and SQL execution, with additional capabilities for knowledge graph and LLM memory management.",
+  "source_repo": "aliyun/alibabacloud-adbpg-mcp-server",
+  "source_url": "https://github.com/aliyun/alibabacloud-adbpg-mcp-server",
+  "install": "npx -y alibabacloud-adbpg-mcp-server"
+}

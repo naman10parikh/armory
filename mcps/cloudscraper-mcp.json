@@ -1,0 +1,7 @@
+{
+  "name": "cloudscraper-mcp",
+  "description": "Enables AI agents to bypass Cloudflare protection and scrape web content, returning clean Markdown with smart chunking and file export.",
+  "source_repo": "LLMTooling/cloudscraper-mcp-server",
+  "source_url": "https://github.com/LLMTooling/cloudscraper-mcp-server",
+  "install": "npx -y cloudscraper-mcp-server"
+}

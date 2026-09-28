@@ -1,0 +1,7 @@
+{
+  "name": "cavalry-mcp-bridge",
+  "description": "Enables AI assistants to control Cavalry, a procedural 2D motion graphics application, through natural language commands for creating and animating scenes.",
+  "source_repo": "matthewobanla/Calvary-MCP",
+  "source_url": "https://github.com/matthewobanla/Calvary-MCP",
+  "install": "npx -y Calvary-MCP"
+}

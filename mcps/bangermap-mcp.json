@@ -1,0 +1,7 @@
+{
+  "name": "bangermap-mcp",
+  "description": "YouTube outlier research on your own free Data API key. It ranks a channel's uploads by their multiple against that channel's own baseline, with Shorts and long-form scored separately, compares several channels at once, and expands a niche from a seed channel.",
+  "source_repo": "AdesiaHQ/bangermap-integrations",
+  "source_url": "https://github.com/AdesiaHQ/bangermap-integrations",
+  "install": "# git clone --depth 1 https://github.com/AdesiaHQ/bangermap-integrations\n# See source for mcpServers config block"
+}

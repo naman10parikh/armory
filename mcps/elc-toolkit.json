@@ -1,0 +1,7 @@
+{
+  "name": "elc-toolkit",
+  "description": "MCP server providing engineering leadership benchmarks, partnership business case generation, and community launch readiness checks using real data from the Engineering Leaders Community.",
+  "source_repo": "marian-kamenistak/elc-toolkit",
+  "source_url": "https://github.com/marian-kamenistak/elc-toolkit",
+  "install": "# git clone --depth 1 https://github.com/marian-kamenistak/elc-toolkit\n# See source for mcpServers config block"
+}

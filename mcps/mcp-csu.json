@@ -1,0 +1,7 @@
+{
+  "name": "mcp-csu",
+  "description": "Provides AI assistants direct access to 700+ statistical datasets about the Czech Republic, including population, economy, prices, wages, employment, industry, agriculture, trade, tourism, environment, and more.",
+  "source_repo": "reloadcz/mcp-csu",
+  "source_url": "https://github.com/reloadcz/mcp-csu",
+  "install": "# git clone --depth 1 https://github.com/reloadcz/mcp-csu\n# See source for mcpServers config block"
+}

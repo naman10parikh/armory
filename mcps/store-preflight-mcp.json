@@ -1,0 +1,7 @@
+{
+  "name": "store-preflight-mcp",
+  "description": "An MCP server that scans code repositories for app store rejection risks by mapping API usage to required declarations and policy deadlines, enabling agents to catch issues before submission.",
+  "source_repo": "asif786ka/store-preflight-mcp",
+  "source_url": "https://github.com/asif786ka/store-preflight-mcp",
+  "install": "npx -y store-preflight-mcp"
+}

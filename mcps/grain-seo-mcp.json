@@ -1,0 +1,7 @@
+{
+  "name": "grain-seo-mcp",
+  "description": "An SEO analysis MCP server integrating Google Search Console, Bing Webmaster Tools, and GA4 with custom grain analysis tools for content decay, traffic drops, CTR benchmarking, and actionable recommendations.",
+  "source_repo": "zhangluka/grain-seo-mcp",
+  "source_url": "https://github.com/zhangluka/grain-seo-mcp",
+  "install": "npx -y grain-seo-mcp"
+}

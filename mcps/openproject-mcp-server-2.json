@@ -1,0 +1,7 @@
+{
+  "name": "openproject-mcp-server-2",
+  "description": "An MCP server that enables AI assistants to interact with OpenProject, listing projects and work packages and managing resources through natural language.",
+  "source_repo": "akbted/Project-Nexus",
+  "source_url": "https://github.com/akbted/Project-Nexus",
+  "install": "# git clone --depth 1 https://github.com/akbted/Project-Nexus\n# See source for mcpServers config block"
+}

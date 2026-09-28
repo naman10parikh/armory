@@ -1,0 +1,7 @@
+{
+  "name": "leave-manager-mcp",
+  "description": "Enables AI assistants to manage employee leave by checking balances, applying for leave, and viewing history via MCP tools.",
+  "source_repo": "git-akki/leave-manager-mcp",
+  "source_url": "https://github.com/git-akki/leave-manager-mcp",
+  "install": "npx -y leave-manager-mcp"
+}

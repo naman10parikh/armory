@@ -1,0 +1,7 @@
+{
+  "name": "finpay-mcp-server",
+  "description": "MCP server exposing a fictional payment domain as tools, resources, and prompts, enabling reasoning over transactions, payment hubs, services, and system health.",
+  "source_repo": "thanhnv2210/finpay-mcp-server",
+  "source_url": "https://github.com/thanhnv2210/finpay-mcp-server",
+  "install": "npx -y finpay-mcp-server"
+}

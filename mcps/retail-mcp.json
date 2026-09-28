@@ -1,0 +1,7 @@
+{
+  "name": "retail-mcp",
+  "description": "Connects AI clients to retail customer, inventory, sales, order, and support capabilities through the Model Context Protocol.",
+  "source_repo": "titi0001/mcp-enterprise-portfolio",
+  "source_url": "https://github.com/titi0001/mcp-enterprise-portfolio",
+  "install": "# git clone --depth 1 https://github.com/titi0001/mcp-enterprise-portfolio\n# See source for mcpServers config block"
+}

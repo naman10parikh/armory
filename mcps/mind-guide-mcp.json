@@ -1,0 +1,7 @@
+{
+  "name": "mind-guide-mcp",
+  "description": "Connects users to mental health counseling centers and welfare programs based on location and situation, prioritizing crisis resources.",
+  "source_repo": "dayainow/mind-guide-mcp",
+  "source_url": "https://github.com/dayainow/mind-guide-mcp",
+  "install": "npx -y mind-guide-mcp"
+}

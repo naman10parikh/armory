@@ -1,0 +1,7 @@
+{
+  "name": "kronos-crypto-data-mcp-server",
+  "description": "Provides real-time crypto market data for AI agents, including derivatives, liquidations, options, macro, and market regime detection, with pay-per-call via x402 micropayments on Base.",
+  "source_repo": "hashchecked/kronos-mcp",
+  "source_url": "https://github.com/hashchecked/kronos-mcp",
+  "install": "npx -y kronos-mcp"
+}

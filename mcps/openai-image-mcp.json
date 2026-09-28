@@ -1,0 +1,7 @@
+{
+  "name": "openai-image-mcp",
+  "description": "MCP server that exposes multiple image generation backends (Sensenova, ModelScope) as configurable tools, enabling AI-powered image generation and editing via natural language.",
+  "source_repo": "bookandmusic/openai-image-mcp",
+  "source_url": "https://github.com/bookandmusic/openai-image-mcp",
+  "install": "npx -y openai-image-mcp"
+}

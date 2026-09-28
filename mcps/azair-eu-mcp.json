@@ -1,0 +1,7 @@
+{
+  "name": "azair-eu-mcp",
+  "description": "MCP server for azair.eu that enables flexible-date cheap flight searches across European low-cost airlines, with multi-airport, metro-area, and advanced filter support.",
+  "source_repo": "yuriiter/azair-eu-mcp",
+  "source_url": "https://github.com/yuriiter/azair-eu-mcp",
+  "install": "npx -y azair-eu-mcp"
+}

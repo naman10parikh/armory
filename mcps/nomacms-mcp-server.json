@@ -1,0 +1,7 @@
+{
+  "name": "nomacms-mcp-server",
+  "description": "MCP server for NomaCMS. Manage collections, fields, content, and assets via AI agents.",
+  "source_repo": "NomaCMS/nomacms-mcp-server",
+  "source_url": "https://github.com/NomaCMS/nomacms-mcp-server",
+  "install": "npx -y nomacms-mcp-server"
+}

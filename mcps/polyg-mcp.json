@@ -1,0 +1,7 @@
+{
+  "name": "polyg-mcp",
+  "description": "A multi-graph memory MCP server that traces cause-effect chains across semantic, entity, temporal, and causal graphs to answer 'why' questions with confidence-scored paths, enabling agents to reason beyond simple similarity retrieval.",
+  "source_repo": "Captain-Jay29/polyg-mcp",
+  "source_url": "https://github.com/Captain-Jay29/polyg-mcp",
+  "install": "npx -y polyg-mcp"
+}

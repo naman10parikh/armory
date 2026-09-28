@@ -1,0 +1,7 @@
+{
+  "name": "social-publisher-mcp",
+  "description": "A local MCP service for safely preparing, validating, and executing multi-platform social media auto-publishing, with dry-run mode and real adapter for Douyin.",
+  "source_repo": "winLee1118/social-publisher-mcp",
+  "source_url": "https://github.com/winLee1118/social-publisher-mcp",
+  "install": "npx -y social-publisher-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tibet-ipoll-mcp",
+  "description": "MCP server for AI-to-AI messaging on the AInternet with TIBET provenance. Enables sending, receiving, and resolving messages between AI agents using .aint domains.",
+  "source_repo": "Humotica/tibet-ipoll-mcp",
+  "source_url": "https://github.com/Humotica/tibet-ipoll-mcp",
+  "install": "npx -y tibet-ipoll-mcp"
+}

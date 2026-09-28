@@ -1,0 +1,7 @@
+{
+  "name": "safesign-mcp",
+  "description": "Analyzes contracts for safety score and risk assessment, identifying dangerous clauses and dispute patterns, with recommendations for improvements.",
+  "source_repo": "ddolmange00/safesign-mcp",
+  "source_url": "https://github.com/ddolmange00/safesign-mcp",
+  "install": "npx -y safesign-mcp"
+}

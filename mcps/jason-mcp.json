@@ -1,0 +1,7 @@
+{
+  "name": "jason-mcp",
+  "description": "Enables natural language interaction with JetBrains YouTrack, including issue management, sprint operations, team reporting, name-based assignments, and notification checks.",
+  "source_repo": "jasonsteinman/youtrack-mcp",
+  "source_url": "https://github.com/jasonsteinman/youtrack-mcp",
+  "install": "npx -y youtrack-mcp"
+}

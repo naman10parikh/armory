@@ -1,0 +1,7 @@
+{
+  "name": "memscope-mcp",
+  "description": "Enables AI agents to perform low-level Windows process memory research, including process attachment, memory scanning, reading/writing, pointer chasing, remote code execution, and inline hooking via MCP tools and Lua scripting.",
+  "source_repo": "Boti-Ormandi/memscope-mcp",
+  "source_url": "https://github.com/Boti-Ormandi/memscope-mcp",
+  "install": "npx -y memscope-mcp"
+}

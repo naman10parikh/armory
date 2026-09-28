@@ -1,0 +1,7 @@
+{
+  "name": "bcs-mcp",
+  "description": "Enables AI assistants to interact with BCS brokerage accounts for portfolio viewing, quotes, order book, candles, position analysis, and rebalancing planning using natural language, with read-only mode by default and optional trade execution with confirmation.",
+  "source_repo": "human-turn/bcs-mcp",
+  "source_url": "https://github.com/human-turn/bcs-mcp",
+  "install": "npx -y bcs-mcp"
+}

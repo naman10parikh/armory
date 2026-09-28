@@ -1,0 +1,7 @@
+{
+  "name": "conselho-regional-de-odontologia-pr-cadastro",
+  "description": "Enables querying the official registry of the Regional Council of Dentistry of Paraná (Brazil) for professional registration data. It provides a read-only tool to consult official records via natural language.",
+  "source_repo": "mcp-dir/cro_pr_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_pr_cadastro-mcp",
+  "install": "npx -y cro_pr_cadastro-mcp"
+}

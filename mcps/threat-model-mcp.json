@@ -1,0 +1,7 @@
+{
+  "name": "threat-model-mcp",
+  "description": "Serves any STRIDE threat model to MCP-capable LLMs, enabling natural language querying of threat registers and export to the Microsoft Threat Modeling Tool.",
+  "source_repo": "Sumanharapanahalli/mcp-microsoft-threat-modeling",
+  "source_url": "https://github.com/Sumanharapanahalli/mcp-microsoft-threat-modeling",
+  "install": "# git clone --depth 1 https://github.com/Sumanharapanahalli/mcp-microsoft-threat-modeling\n# See source for mcpServers config block"
+}

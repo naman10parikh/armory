@@ -1,0 +1,7 @@
+{
+  "name": "cyberhawk-veeam-mcp",
+  "description": "Enables Claude to read and control Veeam Backup & Replication infrastructure through natural language, supporting full operator capabilities like starting/stopping jobs, creating backups, and monitoring threat detection via the VBR REST API.",
+  "source_repo": "rudraverma/veeam-mcp",
+  "source_url": "https://github.com/rudraverma/veeam-mcp",
+  "install": "npx -y veeam-mcp"
+}

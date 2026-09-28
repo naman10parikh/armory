@@ -1,0 +1,7 @@
+{
+  "name": "omnifocus-mcp-server",
+  "description": "An MCP server that provides full read/write access to OmniFocus, enabling AI assistants to manage tasks, projects, folders, tags, and perspectives via 51 tools, resources, and prompts.",
+  "source_repo": "IllyaStarikov/omnifocus-mcp",
+  "source_url": "https://github.com/IllyaStarikov/omnifocus-mcp",
+  "install": "npx -y omnifocus-mcp"
+}

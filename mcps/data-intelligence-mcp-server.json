@@ -1,0 +1,7 @@
+{
+  "name": "data-intelligence-mcp-server",
+  "description": "Provides a modular MCP server to integrate with IBM Data Intelligence services, enabling secure interaction with data intelligence capabilities via tools and skills.",
+  "source_repo": "IBM/data-intelligence-mcp-server",
+  "source_url": "https://github.com/IBM/data-intelligence-mcp-server",
+  "install": "npx -y data-intelligence-mcp-server"
+}

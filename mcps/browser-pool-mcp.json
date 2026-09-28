@@ -1,0 +1,7 @@
+{
+  "name": "browser-pool-mcp",
+  "description": "A dynamic browser pool MCP server that gives each agent its own isolated browser, enabling concurrent browser automation without conflicts.",
+  "source_repo": "hy-2005/playwright-pool-mcp",
+  "source_url": "https://github.com/hy-2005/playwright-pool-mcp",
+  "install": "npx -y playwright-pool-mcp"
+}

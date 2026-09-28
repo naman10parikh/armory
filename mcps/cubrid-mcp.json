@@ -1,0 +1,7 @@
+{
+  "name": "cubrid-mcp",
+  "description": "MCP server for exploring CUBRID database schemas and executing read-only SQL queries with policy-based restrictions. Enables safe database interaction through natural language in MCP-compatible clients.",
+  "source_repo": "xhdndi81/cubrid-mcp",
+  "source_url": "https://github.com/xhdndi81/cubrid-mcp",
+  "install": "npx -y cubrid-mcp"
+}

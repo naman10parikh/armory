@@ -1,0 +1,7 @@
+{
+  "name": "leadfunnel-mcp",
+  "description": "Ephemeral MCP server that loads Salesforce leads into RAM for natural-language querying via Claude, with PII masking and session purging.",
+  "source_repo": "UcemaRepo/mcpfunnel",
+  "source_url": "https://github.com/UcemaRepo/mcpfunnel",
+  "install": "# git clone --depth 1 https://github.com/UcemaRepo/mcpfunnel\n# See source for mcpServers config block"
+}

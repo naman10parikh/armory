@@ -1,0 +1,7 @@
+{
+  "name": "bridgenode-mcp",
+  "description": "Enables AI agents to make pay-as-you-go AI inference requests through x402 with automatic Solana USDC payments, no API keys or registration, while enforcing configurable spending limits.",
+  "source_repo": "bridgenode-ai/bridgenode-mcp",
+  "source_url": "https://github.com/bridgenode-ai/bridgenode-mcp",
+  "install": "npx -y bridgenode-mcp"
+}

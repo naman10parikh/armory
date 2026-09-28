@@ -1,0 +1,7 @@
+{
+  "name": "iconfont-mcp-server",
+  "description": "Enables AI assistants to search and download SVG icons from iconfont.cn, with support for style filtering and automatic login.",
+  "source_repo": "NingYuanLee/search-iconfont-mcp",
+  "source_url": "https://github.com/NingYuanLee/search-iconfont-mcp",
+  "install": "npx -y search-iconfont-mcp"
+}

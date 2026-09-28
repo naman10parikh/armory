@@ -1,0 +1,7 @@
+{
+  "name": "db3-atlassian-mcp",
+  "description": "Lightweight MCP server for Jira, Confluence, and Bitbucket — read, create, and update from your AI IDE.",
+  "source_repo": "db3net/db3-atlassian-mcp",
+  "source_url": "https://github.com/db3net/db3-atlassian-mcp",
+  "install": "npx -y db3-atlassian-mcp"
+}

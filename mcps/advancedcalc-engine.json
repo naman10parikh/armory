@@ -1,0 +1,7 @@
+{
+  "name": "advancedcalc-engine",
+  "description": "Provides secure, agentic Excel analysis and calculation capabilities, enabling users to inspect workbook structure, perform statistical computations, write formulas, and generate outputs through whitelisted MCP tools with audit trails and backups.",
+  "source_repo": "surajpanwar/advanced-calc-engine",
+  "source_url": "https://github.com/surajpanwar/advanced-calc-engine",
+  "install": "# git clone --depth 1 https://github.com/surajpanwar/advanced-calc-engine\n# See source for mcpServers config block"
+}

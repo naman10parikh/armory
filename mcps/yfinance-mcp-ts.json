@@ -1,0 +1,7 @@
+{
+  "name": "yfinance-mcp-ts",
+  "description": "An MCP server that provides 20 tools for accessing Yahoo Finance stock data, financials, options, screeners, and market summaries.",
+  "source_repo": "anconina/yfinance-mcp-ts",
+  "source_url": "https://github.com/anconina/yfinance-mcp-ts",
+  "install": "# git clone --depth 1 https://github.com/anconina/yfinance-mcp-ts\n# See source for mcpServers config block"
+}

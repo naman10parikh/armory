@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-collageai",
+  "description": "Provides tools for querying student academic data such as subjects, marks, performance reports, timetable, exams, fees, events, holidays, and assignments via natural language.",
+  "source_repo": "tanojrahul/MCP-Server-CollageAI",
+  "source_url": "https://github.com/tanojrahul/MCP-Server-CollageAI",
+  "install": "# git clone --depth 1 https://github.com/tanojrahul/MCP-Server-CollageAI\n# See source for mcpServers config block"
+}

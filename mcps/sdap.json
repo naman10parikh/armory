@@ -1,0 +1,7 @@
+{
+  "name": "sdap",
+  "description": "MCP server for the Super Duper Admin Portal that enables AI agents to chat with LLMs, trigger admin actions, and make Okta API requests.",
+  "source_repo": "barneslardo/super-duper-admin-portal",
+  "source_url": "https://github.com/barneslardo/super-duper-admin-portal",
+  "install": "# git clone --depth 1 https://github.com/barneslardo/super-duper-admin-portal\n# See source for mcpServers config block"
+}

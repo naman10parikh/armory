@@ -1,0 +1,7 @@
+{
+  "name": "leporis-mcp",
+  "description": "Remote MCP server for Leporis WhatsApp Business platform, enabling AI agents to send and read WhatsApp messages through exposed REST API tools.",
+  "source_repo": "admin-rstechie/leporis-mcp",
+  "source_url": "https://github.com/admin-rstechie/leporis-mcp",
+  "install": "npx -y leporis-mcp"
+}

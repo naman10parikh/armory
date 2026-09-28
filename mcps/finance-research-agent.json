@@ -1,0 +1,7 @@
+{
+  "name": "finance-research-agent",
+  "description": "AI equity-research analyst for Indian NSE/BSE markets with 28 MCP tools enabling sector screens, valuations, SWOTs, and forensic audits using Claude Agent SDK.",
+  "source_repo": "sreenathvemula/finance-research-agent",
+  "source_url": "https://github.com/sreenathvemula/finance-research-agent",
+  "install": "# git clone --depth 1 https://github.com/sreenathvemula/finance-research-agent\n# See source for mcpServers config block"
+}

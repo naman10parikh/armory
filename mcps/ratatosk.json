@@ -1,0 +1,7 @@
+{
+  "name": "ratatosk",
+  "description": "CNCF release intelligence: typed, quoted facts (security fixes, breaking changes, deprecations) from every graduated/incubating project's release notes, updated daily. check_stack compares running versions locally — versions never leave your process.",
+  "source_repo": "garlicKim21/ratatosk-mcp",
+  "source_url": "https://github.com/garlicKim21/ratatosk-mcp",
+  "install": "npx -y ratatosk-mcp"
+}

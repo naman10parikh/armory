@@ -1,0 +1,7 @@
+{
+  "name": "jira-mock-mcp",
+  "description": "Enables AI assistants to interact with a self-hosted Jira clone for testing, supporting project and issue management, comments, and search via MCP tools.",
+  "source_repo": "ZacharyF-dev/jira-clone",
+  "source_url": "https://github.com/ZacharyF-dev/jira-clone",
+  "install": "# git clone --depth 1 https://github.com/ZacharyF-dev/jira-clone\n# See source for mcpServers config block"
+}

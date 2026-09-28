@@ -1,0 +1,7 @@
+{
+  "name": "deepnets",
+  "description": "Provides deep analysis of Solana tokens, their risks, and holder information.",
+  "source_repo": "scifantastic/deepnets-mcp",
+  "source_url": "https://github.com/scifantastic/deepnets-mcp",
+  "install": "npx -y deepnets-mcp"
+}

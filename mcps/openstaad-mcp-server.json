@@ -1,0 +1,7 @@
+{
+  "name": "openstaad-mcp-server",
+  "description": "Enables AI agents to interact with Bentley STAAD.Pro models for tasks like load case definition, data extraction, and property setting, running locally with multi-instance support and no cloud dependency.",
+  "source_repo": "DP065U/STAAD-MCP",
+  "source_url": "https://github.com/DP065U/STAAD-MCP",
+  "install": "npx -y STAAD-MCP"
+}

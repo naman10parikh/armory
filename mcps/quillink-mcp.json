@@ -1,0 +1,7 @@
+{
+  "name": "quillink-mcp",
+  "description": "A read-only MCP server for accessing Quillink notes, folders, and tags, enabling AI tools like Claude to search, retrieve, and list notes and related metadata. Requires a Pro Quillink plan and supports OAuth or personal access token authentication.",
+  "source_repo": "dagistankaradeniz/gcp-note-taking-mcp",
+  "source_url": "https://github.com/dagistankaradeniz/gcp-note-taking-mcp",
+  "install": "npx -y gcp-note-taking-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-webhook",
+  "description": "A webhook management and delivery service with MCP tools for endpoints, deliveries, relay, and incoming webhooks, enabling autonomous agents to send, track, and relay webhooks.",
+  "source_repo": "nyx-builds/agent-webhook",
+  "source_url": "https://github.com/nyx-builds/agent-webhook",
+  "install": "# git clone --depth 1 https://github.com/nyx-builds/agent-webhook\n# See source for mcpServers config block"
+}

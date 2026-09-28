@@ -7,7 +7,7 @@ license: AGPL-3.0
 ---
 # auto-claude
 
-Autonomous multi-agent coding framework for Claude Code (Claude Agent SDK) that integrates the full SDLC - "plans, builds, and validates software for you". Features a slick kanban-style UI and a well-designed but not over-engineered agent orchestration system.
+An autonomous multi-agent coding framework built on the Claude Agent SDK that plans, builds and validates software across the development life cycle, with a kanban-style interface.
 
 **Source:** https://github.com/AndyMik90/Auto-Claude
 

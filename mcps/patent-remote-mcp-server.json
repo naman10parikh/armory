@@ -1,0 +1,7 @@
+{
+  "name": "patent-remote-mcp-server",
+  "description": "Enables Claude to search and retrieve patent data from EPO OPS and Google Patents via natural language, supporting patent search, details, claims, and family information with OAuth authentication.",
+  "source_repo": "zcgkiller/patent-mcp-server",
+  "source_url": "https://github.com/zcgkiller/patent-mcp-server",
+  "install": "npx -y patent-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "citeguard",
+  "description": "Enables per-claim citation verification for AI-generated text by fetching cited sources and judging whether they support the claim, with verdicts and evidence quotes.",
+  "source_repo": "Franksterino/citeguard",
+  "source_url": "https://github.com/Franksterino/citeguard",
+  "install": "# git clone --depth 1 https://github.com/Franksterino/citeguard\n# See source for mcpServers config block"
+}

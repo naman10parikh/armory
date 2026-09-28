@@ -1,0 +1,7 @@
+{
+  "name": "foundry-vtt-mcp-server",
+  "description": "Enables AI agents to interact with Foundry Virtual Tabletop, supporting reading world data, managing combat, rolling dice, and updating actor attributes via a sidecar architecture.",
+  "source_repo": "Hybridenishi/foundryvtt-mcp",
+  "source_url": "https://github.com/Hybridenishi/foundryvtt-mcp",
+  "install": "npx -y foundryvtt-mcp"
+}

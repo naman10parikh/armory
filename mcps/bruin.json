@@ -1,0 +1,7 @@
+{
+  "name": "bruin",
+  "description": "MCP server for AI agents to read, write, and organize notes in a local-first, human-in-the-loop note-taking app.",
+  "source_repo": "sawzhang/bruin",
+  "source_url": "https://github.com/sawzhang/bruin",
+  "install": "# git clone --depth 1 https://github.com/sawzhang/bruin\n# See source for mcpServers config block"
+}

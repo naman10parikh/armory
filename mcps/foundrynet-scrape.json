@@ -1,0 +1,7 @@
+{
+  "name": "foundrynet-scrape",
+  "description": "Enables AI agents to extract clean, structured content from any web page via a pay-per-call API or with a Forge key.",
+  "source_repo": "FoundryNet/foundrynet-scrape",
+  "source_url": "https://github.com/FoundryNet/foundrynet-scrape",
+  "install": "# git clone --depth 1 https://github.com/FoundryNet/foundrynet-scrape\n# See source for mcpServers config block"
+}

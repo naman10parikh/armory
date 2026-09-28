@@ -1,0 +1,7 @@
+{
+  "name": "af-filesystem-mcp",
+  "description": "Gives Analysis Facility users read-only browse, read, stat, and grep access to their own files on shared NFS home and Ceph data areas, with kernel-enforced per-user permissions.",
+  "source_repo": "maniaclab/af-filesystem-mcp",
+  "source_url": "https://github.com/maniaclab/af-filesystem-mcp",
+  "install": "npx -y af-filesystem-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-avoindata-fi",
+  "description": "Enables searching and querying Finland's open data portal (avoindata.fi) via CKAN. Supports dataset search, metadata retrieval, and tabular data queries.",
+  "source_repo": "pipeworx-io/mcp-avoindata-fi",
+  "source_url": "https://github.com/pipeworx-io/mcp-avoindata-fi",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-avoindata-fi\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-outline",
+  "description": "Enables interaction with the Outline knowledge base API, allowing search, document and collection management, comments, and more.",
+  "source_repo": "borgels/mcp-server-outline",
+  "source_url": "https://github.com/borgels/mcp-server-outline",
+  "install": "# git clone --depth 1 https://github.com/borgels/mcp-server-outline\n# See source for mcpServers config block"
+}

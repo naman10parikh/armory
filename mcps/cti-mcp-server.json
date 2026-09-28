@@ -1,0 +1,7 @@
+{
+  "name": "cti-mcp-server",
+  "description": "Provides threat intelligence tools like IoC lookups, event backtracking, and IP enrichment via MCP, enabling automated triage and evidence queries.",
+  "source_repo": "TopCaver/cti-mcp-server",
+  "source_url": "https://github.com/TopCaver/cti-mcp-server",
+  "install": "npx -y cti-mcp-server"
+}

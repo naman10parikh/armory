@@ -1,0 +1,7 @@
+{
+  "name": "mcp-exec",
+  "description": "A secure, context-aware MCP server for shell command execution with comprehensive logging and AI optimizations, enabling interactive sessions and safe system administration via Claude Desktop.",
+  "source_repo": "bensons/mcp-exec",
+  "source_url": "https://github.com/bensons/mcp-exec",
+  "install": "# git clone --depth 1 https://github.com/bensons/mcp-exec\n# See source for mcpServers config block"
+}

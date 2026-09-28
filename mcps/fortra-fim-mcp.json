@@ -1,0 +1,7 @@
+{
+  "name": "fortra-fim-mcp",
+  "description": "MCP server for interacting with Tripwire Enterprise REST API, enabling file integrity monitoring workflows such as node management, policy tests, element versioning, and promotions.",
+  "source_repo": "askjarv/fim-mcp",
+  "source_url": "https://github.com/askjarv/fim-mcp",
+  "install": "npx -y fim-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "asset-library-mcp-server",
+  "description": "Enables users to search and retrieve research datasets via natural language queries, with tools for proposing and committing tag changes. Includes robust authorization, idempotent mutations, and an audit trail.",
+  "source_repo": "moiez-asif2002/asset-library-mcp",
+  "source_url": "https://github.com/moiez-asif2002/asset-library-mcp",
+  "install": "npx -y asset-library-mcp"
+}

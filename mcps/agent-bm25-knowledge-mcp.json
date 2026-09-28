@@ -1,0 +1,7 @@
+{
+  "name": "agent-bm25-knowledge-mcp",
+  "description": "A local BM25 knowledge retrieval MCP server that indexes configured files and directories for agents like Claude Code, Kiro CLI, and Codex, providing interpretable search and chunk retrieval tools.",
+  "source_repo": "BairuiZhang/agent-bm25-knowledge-mcp",
+  "source_url": "https://github.com/BairuiZhang/agent-bm25-knowledge-mcp",
+  "install": "npx -y agent-bm25-knowledge-mcp"
+}

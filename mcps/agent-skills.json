@@ -1,0 +1,7 @@
+{
+  "name": "agent-skills",
+  "description": "Retrieval-only MCP server that turns any knowledge source (Obsidian vault, notes, reference sets) into searchable Qdrant-backed skills, exposing list_skills, search_vault, and search_skill tools for agents to query via stdio or SSE.",
+  "source_repo": "soniccidr/ragistry",
+  "source_url": "https://github.com/soniccidr/ragistry",
+  "install": "# git clone --depth 1 https://github.com/soniccidr/ragistry\n# See source for mcpServers config block"
+}

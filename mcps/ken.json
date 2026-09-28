@@ -1,0 +1,7 @@
+{
+  "name": "ken",
+  "description": "Fast hybrid code search for agents. Pure Go, single static binary, BM25 lexical + Model2Vec semantic embeddings + RRF fusion + a code-aware reranker, with the retrieval algorithm ported verbatim from semble",
+  "source_repo": "townsendmerino/ken",
+  "source_url": "https://github.com/townsendmerino/ken",
+  "install": "# git clone --depth 1 https://github.com/townsendmerino/ken\n# See source for mcpServers config block"
+}

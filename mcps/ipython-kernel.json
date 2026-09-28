@@ -1,0 +1,7 @@
+{
+  "name": "ipython-kernel",
+  "description": "An MCP server that connects to existing IPython kernels, allowing Claude to execute code in a shared persistent environment with your IDE.",
+  "source_repo": "gabiteodoru/ipython-mcp",
+  "source_url": "https://github.com/gabiteodoru/ipython-mcp",
+  "install": "npx -y ipython-mcp"
+}

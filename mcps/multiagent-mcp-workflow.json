@@ -1,0 +1,7 @@
+{
+  "name": "multiagent-mcp-workflow",
+  "description": "Enables enterprise multi-agent decision workflows that expose 8+ MCP tools such as SQL query, web search, Python sandbox, RAG, file access, data cleaning, chart generation, and HTTP calls, orchestrated with LangGraph, streaming output, and human-in-the-loop approvals.",
+  "source_repo": "Sakiko236/MultiAgent-MCP-Workflow",
+  "source_url": "https://github.com/Sakiko236/MultiAgent-MCP-Workflow",
+  "install": "# git clone --depth 1 https://github.com/Sakiko236/MultiAgent-MCP-Workflow\n# See source for mcpServers config block"
+}

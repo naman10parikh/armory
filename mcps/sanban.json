@@ -1,0 +1,7 @@
+{
+  "name": "sanban",
+  "description": "Enables AI agents to manage kanban boards with tasks, including creating boards, items, moving between columns, and searching.",
+  "source_repo": "aancw/sanban",
+  "source_url": "https://github.com/aancw/sanban",
+  "install": "# git clone --depth 1 https://github.com/aancw/sanban\n# See source for mcpServers config block"
+}

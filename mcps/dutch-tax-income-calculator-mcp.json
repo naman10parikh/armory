@@ -1,0 +1,7 @@
+{
+  "name": "dutch-tax-income-calculator-mcp",
+  "description": "Enables Dutch income tax calculations: converts gross to net salary, net to gross, compares multiple salary scenarios, and provides tax bracket data for supported years. Every result includes a detailed breakdown and a thetax.nl permalink.",
+  "source_repo": "stevermeister/dutch-tax-income-calculator-mcp",
+  "source_url": "https://github.com/stevermeister/dutch-tax-income-calculator-mcp",
+  "install": "npx -y dutch-tax-income-calculator-mcp"
+}

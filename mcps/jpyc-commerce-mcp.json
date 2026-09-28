@@ -1,0 +1,7 @@
+{
+  "name": "jpyc-commerce-mcp",
+  "description": "Enables autonomous AI agents to conduct non-custodial commerce using JPYC stablecoin on Polygon, with trust scoring, task evaluation, negotiation, and on-chain verification via Soulbound Tokens.",
+  "source_repo": "ackey-web/JPYC-commerce-mcp",
+  "source_url": "https://github.com/ackey-web/JPYC-commerce-mcp",
+  "install": "npx -y JPYC-commerce-mcp"
+}

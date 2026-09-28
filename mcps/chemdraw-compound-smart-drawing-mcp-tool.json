@@ -1,0 +1,7 @@
+{
+  "name": "chemdraw-compound-smart-drawing-mcp-tool",
+  "description": "Enables intelligent identification and validation of compound data from documents and images, then automatically draws compound structures using local ChemDraw software with academic formatting.",
+  "source_repo": "king12q/Chemdraw-draw-mcp",
+  "source_url": "https://github.com/king12q/Chemdraw-draw-mcp",
+  "install": "npx -y Chemdraw-draw-mcp"
+}

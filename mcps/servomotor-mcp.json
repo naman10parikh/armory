@@ -1,0 +1,7 @@
+{
+  "name": "servomotor-mcp",
+  "description": "Drive open-source Gearotons M17 servomotors from natural language via an MCP server with safety rails and a mock backend.",
+  "source_repo": "Gearotons/servomotor-mcp",
+  "source_url": "https://github.com/Gearotons/servomotor-mcp",
+  "install": "npx -y servomotor-mcp"
+}

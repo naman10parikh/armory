@@ -1,0 +1,7 @@
+{
+  "name": "portuguese-competition-mcp",
+  "description": "Enables querying Portuguese competition data from AdC (Autoridade da Concorrência), including enforcement decisions and merger control decisions, directly from MCP-compatible clients.",
+  "source_repo": "Ansvar-Systems/portuguese-competition-mcp",
+  "source_url": "https://github.com/Ansvar-Systems/portuguese-competition-mcp",
+  "install": "npx -y portuguese-competition-mcp"
+}

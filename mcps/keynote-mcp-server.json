@@ -1,0 +1,7 @@
+{
+  "name": "keynote-mcp-server",
+  "description": "Provides full programmatic control over Apple Keynote through the Model Context Protocol, enabling creation, editing, presenting, and exporting of presentations via natural language.",
+  "source_repo": "superdwayne/keynoteMP",
+  "source_url": "https://github.com/superdwayne/keynoteMP",
+  "install": "# git clone --depth 1 https://github.com/superdwayne/keynoteMP\n# See source for mcpServers config block"
+}

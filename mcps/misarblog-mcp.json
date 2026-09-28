@@ -1,0 +1,7 @@
+{
+  "name": "misarblog-mcp",
+  "description": "Enables AI assistants to publish and manage blog posts on Misar.Blog, including drafts, series, AI content generation, and analytics.",
+  "source_repo": "mrgulshanyadav/misarblog-mcp",
+  "source_url": "https://github.com/mrgulshanyadav/misarblog-mcp",
+  "install": "npx -y misarblog-mcp"
+}

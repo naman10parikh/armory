@@ -1,0 +1,7 @@
+{
+  "name": "robocop-mcp",
+  "description": "MCP server that helps resolve Robocop static code analysis errors and warnings via LLM, providing tools to get reports and run format.",
+  "source_repo": "aaltat/robocop-mcp",
+  "source_url": "https://github.com/aaltat/robocop-mcp",
+  "install": "npx -y robocop-mcp"
+}

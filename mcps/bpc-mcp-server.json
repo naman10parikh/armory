@@ -1,0 +1,7 @@
+{
+  "name": "bpc-mcp-server",
+  "description": "Verifies whether a Brazilian citizen receives the Benefício de Prestação Continuada (BPC) using CPF and NIS, with read-only access via a hosted MCP endpoint.",
+  "source_repo": "mcp-dir/bpc-mcp",
+  "source_url": "https://github.com/mcp-dir/bpc-mcp",
+  "install": "npx -y bpc-mcp"
+}

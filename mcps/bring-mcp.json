@@ -1,0 +1,7 @@
+{
+  "name": "bring-mcp",
+  "description": "MCP server that writes items to a Bring! shopping list, enabling Claude to add recipe ingredients directly to your list via natural language.",
+  "source_repo": "cpy-pst-gmbh/bring-api-mcp-connector",
+  "source_url": "https://github.com/cpy-pst-gmbh/bring-api-mcp-connector",
+  "install": "# git clone --depth 1 https://github.com/cpy-pst-gmbh/bring-api-mcp-connector\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-image-generator",
+  "description": "MCP server for AI image generation supporting multiple providers (OpenRouter, Together AI, Replicate, fal.ai) and compatible with various MCP agents.",
+  "source_repo": "fdciabdul/MCP-IMAGE-GENERATOR",
+  "source_url": "https://github.com/fdciabdul/MCP-IMAGE-GENERATOR",
+  "install": "# git clone --depth 1 https://github.com/fdciabdul/MCP-IMAGE-GENERATOR\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yari-medic-mcp-server",
+  "description": "MCP server exposing 147 medical tools for patient management, appointments, pharmacy, lab, billing, CRM, emergencies, and AI-powered triage via SSE, integrating with the Yari Medic Django backend.",
+  "source_repo": "Yari-Medic/yari-medic-mcp",
+  "source_url": "https://github.com/Yari-Medic/yari-medic-mcp",
+  "install": "npx -y yari-medic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "editor-mcp",
+  "description": "A secure, isolated MCP server providing full code editor functionality for AI pair programming, with Docker-based command execution and Cloudflare Tunnel remote access.",
+  "source_repo": "randyaswin/editor-mcp",
+  "source_url": "https://github.com/randyaswin/editor-mcp",
+  "install": "npx -y editor-mcp"
+}

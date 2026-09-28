@@ -1,0 +1,7 @@
+{
+  "name": "avalanche-mcp-server",
+  "description": "Enables AI agents and IDEs to search official Avalanche documentation, query live C-Chain/P-Chain/X-Chain and Data API data, and follow guided workflows for launching L1s, configuring precompiles, and building cross-chain applications.",
+  "source_repo": "Eelvanpsd/Avalanche-mcp",
+  "source_url": "https://github.com/Eelvanpsd/Avalanche-mcp",
+  "install": "npx -y Avalanche-mcp"
+}

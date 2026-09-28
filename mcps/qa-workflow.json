@@ -1,0 +1,7 @@
+{
+  "name": "qa-workflow",
+  "description": "QA bug-fix workflow MCP server that waits for bug reports with source locations, enables Claude Code to automatically fix bugs, and cycles through pending issues.",
+  "source_repo": "WtecHtec/agentation-qa-skill",
+  "source_url": "https://github.com/WtecHtec/agentation-qa-skill",
+  "install": "# git clone --depth 1 https://github.com/WtecHtec/agentation-qa-skill\n# See source for mcpServers config block"
+}

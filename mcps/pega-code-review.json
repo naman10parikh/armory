@@ -1,0 +1,7 @@
+{
+  "name": "pega-code-review",
+  "description": "MCP server for exploring Pega branches and fetching full rule XML for LSA-style code reviews.",
+  "source_repo": "zotodev/pega-mcp",
+  "source_url": "https://github.com/zotodev/pega-mcp",
+  "install": "npx -y pega-mcp"
+}

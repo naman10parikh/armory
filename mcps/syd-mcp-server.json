@@ -1,0 +1,7 @@
+{
+  "name": "syd-mcp-server",
+  "description": "Enables querying batch status, traceability, and compliance through natural language by connecting SYD to AI assistants via the Model Context Protocol.",
+  "source_repo": "pyzack/mcp-server",
+  "source_url": "https://github.com/pyzack/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/pyzack/mcp-server\n# See source for mcpServers config block"
+}

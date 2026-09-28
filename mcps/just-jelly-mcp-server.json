@@ -1,0 +1,7 @@
+{
+  "name": "just-jelly-mcp-server",
+  "description": "MCP server for Zama's fhEVM that provides tools to scaffold, compile, deploy, test, and analyze confidential smart contracts, with support for encryption, ACL, and error decoding.",
+  "source_repo": "juSt-jeLLy/zama-fhevm-skill",
+  "source_url": "https://github.com/juSt-jeLLy/zama-fhevm-skill",
+  "install": "# git clone --depth 1 https://github.com/juSt-jeLLy/zama-fhevm-skill\n# See source for mcpServers config block"
+}

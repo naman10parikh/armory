@@ -1,0 +1,7 @@
+{
+  "name": "claude-for-abap",
+  "description": "MCP server giving Claude (and any MCP-compatible client) live access to SAP systems via ADT for reading, searching, editing, and activating ABAP objects.",
+  "source_repo": "yzonur/claude-for-abap",
+  "source_url": "https://github.com/yzonur/claude-for-abap",
+  "install": "# git clone --depth 1 https://github.com/yzonur/claude-for-abap\n# See source for mcpServers config block"
+}

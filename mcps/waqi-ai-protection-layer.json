@@ -1,0 +1,7 @@
+{
+  "name": "waqi-ai-protection-layer",
+  "description": "Waqi — hosted MCP server that redacts PII from your business tools before the AI sees them. Audit log included.",
+  "source_repo": "ajprolific/waqi-mcp",
+  "source_url": "https://github.com/ajprolific/waqi-mcp",
+  "install": "npx -y waqi-mcp"
+}

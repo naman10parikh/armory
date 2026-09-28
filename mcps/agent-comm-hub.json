@@ -1,0 +1,7 @@
+{
+  "name": "agent-comm-hub",
+  "description": "MCP server enabling real-time communication, task delegation, and acknowledgment among multiple AI agents through a single local endpoint.",
+  "source_repo": "JochenYang/agent-comm-hub",
+  "source_url": "https://github.com/JochenYang/agent-comm-hub",
+  "install": "# git clone --depth 1 https://github.com/JochenYang/agent-comm-hub\n# See source for mcpServers config block"
+}

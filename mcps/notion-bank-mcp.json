@@ -1,0 +1,7 @@
+{
+  "name": "notion-bank-mcp",
+  "description": "Plan-bank MCP for AI agents and Notion. Agents read and write Markdown implementation plans with line + section addressing — no ad-hoc temp scripts.",
+  "source_repo": "hinha/notion-bank-mcp",
+  "source_url": "https://github.com/hinha/notion-bank-mcp",
+  "install": "npx -y notion-bank-mcp"
+}

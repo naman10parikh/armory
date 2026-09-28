@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-playwright-mcp-worker",
+  "description": "Enables AI assistants to control a browser for web automation tasks like navigation, typing, clicking, and taking screenshots, with optional API key authentication.",
+  "source_repo": "chenwei791129/playwright-mcp-worker",
+  "source_url": "https://github.com/chenwei791129/playwright-mcp-worker",
+  "install": "# git clone --depth 1 https://github.com/chenwei791129/playwright-mcp-worker\n# See source for mcpServers config block"
+}

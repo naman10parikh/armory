@@ -1,0 +1,7 @@
+{
+  "name": "horizon-mcp-auth-proxy",
+  "description": "A generic single-upstream MCP authentication proxy that wraps remote Streamable HTTP MCP servers behind Horizon OAuth, enabling clients to connect securely without carrying upstream API keys. It adds a fixed authentication header to upstream requests and supports bearer tokens, API keys, and custom",
+  "source_repo": "Razewang/mcp-proxy",
+  "source_url": "https://github.com/Razewang/mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/Razewang/mcp-proxy\n# See source for mcpServers config block"
+}

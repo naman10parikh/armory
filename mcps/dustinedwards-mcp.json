@@ -1,0 +1,7 @@
+{
+  "name": "dustinedwards-mcp",
+  "description": "MCP wrapper over the dustinedwards.info operator publish API, exposing five tools for managing blog posts (list, get, save, sync, delete) while containing no policy of its own.",
+  "source_repo": "DrDustinEdwards/dustinedwards-mcp",
+  "source_url": "https://github.com/DrDustinEdwards/dustinedwards-mcp",
+  "install": "npx -y dustinedwards-mcp"
+}

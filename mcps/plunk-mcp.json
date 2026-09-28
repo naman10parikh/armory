@@ -1,0 +1,7 @@
+{
+  "name": "plunk-mcp",
+  "description": "A Model Context Protocol server for Plunk, the open-source self-hosted email platform. Provides 84 tools for transactional email, contacts, campaigns, segments, templates, workflows, events, and analytics through the Plunk API.",
+  "source_repo": "ignytehq/plunk-mcp",
+  "source_url": "https://github.com/ignytehq/plunk-mcp",
+  "install": "npx -y plunk-mcp"
+}

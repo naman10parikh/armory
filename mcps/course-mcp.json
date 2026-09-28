@@ -1,0 +1,7 @@
+{
+  "name": "course-mcp",
+  "description": "A local MCP server for referencing course files from a configured classes directory, allowing listing courses and their files safely.",
+  "source_repo": "mkslge/course-mcp",
+  "source_url": "https://github.com/mkslge/course-mcp",
+  "install": "npx -y course-mcp"
+}

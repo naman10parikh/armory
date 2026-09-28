@@ -1,0 +1,7 @@
+{
+  "name": "medical-mcp",
+  "description": "This MCP server provides authoritative medical data from FDA, WHO, PubMed, RxNorm, and Google Scholar, enabling drug information lookup, health statistics retrieval, medical literature searching, and clinical guidelines access directly in AI workflows.",
+  "source_repo": "samson-art/medical-mcp",
+  "source_url": "https://github.com/samson-art/medical-mcp",
+  "install": "npx -y medical-mcp"
+}

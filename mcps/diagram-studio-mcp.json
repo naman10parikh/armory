@@ -1,0 +1,7 @@
+{
+  "name": "diagram-studio-mcp",
+  "description": "MCP server for rendering diagrams (Mermaid, Graphviz, PlantUML, D2) via Kroki. Provides tools to render diagrams and list available engines.",
+  "source_repo": "0PValencia/diagram-studio-mcp",
+  "source_url": "https://github.com/0PValencia/diagram-studio-mcp",
+  "install": "npx -y diagram-studio-mcp"
+}

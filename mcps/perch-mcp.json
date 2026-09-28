@@ -1,0 +1,7 @@
+{
+  "name": "perch-mcp",
+  "description": "Enables building Perch mods by providing Perch's display vocabulary, documentation, builtin package examples, a package validator, and the ability to run your package in Perch.",
+  "source_repo": "hlpdev/perch-mcp",
+  "source_url": "https://github.com/hlpdev/perch-mcp",
+  "install": "npx -y perch-mcp"
+}

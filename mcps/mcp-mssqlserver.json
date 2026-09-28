@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mssqlserver",
+  "description": "Production-oriented MCP server for Microsoft SQL Server, enabling query execution, database discovery, schema introspection, and metadata inspection via MCP clients.",
+  "source_repo": "ferronicardoso/mcp-mssqlserver",
+  "source_url": "https://github.com/ferronicardoso/mcp-mssqlserver",
+  "install": "# git clone --depth 1 https://github.com/ferronicardoso/mcp-mssqlserver\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "daily-standup-digest-bot-mcp-server",
+  "description": "Exposes standup workflow tools (list members, start standup, record replies, list non-responders, generate digest) and skill resources via MCP, enabling AI agents to automate standup collection and summarization without direct Slack access.",
+  "source_repo": "SaahasK18/daily-standup-digest-bot",
+  "source_url": "https://github.com/SaahasK18/daily-standup-digest-bot",
+  "install": "# git clone --depth 1 https://github.com/SaahasK18/daily-standup-digest-bot\n# See source for mcpServers config block"
+}

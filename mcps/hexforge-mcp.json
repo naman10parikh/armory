@@ -1,0 +1,7 @@
+{
+  "name": "hexforge-mcp",
+  "description": "A hex computation MCP server for binary security and reverse engineering, providing precise arithmetic, bitwise operations, and data conversion tools.",
+  "source_repo": "Mistyovo/hexforge-mcp",
+  "source_url": "https://github.com/Mistyovo/hexforge-mcp",
+  "install": "npx -y hexforge-mcp"
+}

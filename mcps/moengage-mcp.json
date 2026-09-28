@@ -1,0 +1,7 @@
+{
+  "name": "moengage-mcp",
+  "description": "MCP server for MoEngage marketing platform, exposing campaign and email-template tools with full campaign targeting filter tree via API-key auth.",
+  "source_repo": "poddubnyoleg/moengage_mcp",
+  "source_url": "https://github.com/poddubnyoleg/moengage_mcp",
+  "install": "npx -y moengage_mcp"
+}

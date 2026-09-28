@@ -1,0 +1,7 @@
+{
+  "name": "browser-research-mcp",
+  "description": "Browser-based research MCP server that drives a real Chromium browser via patched Playwright to access JavaScript-rendered content, dynamic tables, and login-walled dashboards. It provides tools for visiting URLs to extract DOM text and screenshots, and for performing structured data extraction usin",
+  "source_repo": "rsi-ai-platform/browser-research-mcp",
+  "source_url": "https://github.com/rsi-ai-platform/browser-research-mcp",
+  "install": "npx -y browser-research-mcp"
+}

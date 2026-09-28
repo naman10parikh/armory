@@ -1,0 +1,7 @@
+{
+  "name": "bunbrowser-mcp",
+  "description": "Ultra-fast, zero-download MCP server for browser automation powered by Bun.WebView. Provides 24 tools for navigation, interaction, screenshots, performance audits, and more, as a drop-in replacement for @playwright/mcp.",
+  "source_repo": "vintik100/bunbrowser",
+  "source_url": "https://github.com/vintik100/bunbrowser",
+  "install": "# git clone --depth 1 https://github.com/vintik100/bunbrowser\n# See source for mcpServers config block"
+}

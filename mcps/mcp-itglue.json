@@ -1,0 +1,7 @@
+{
+  "name": "mcp-itglue",
+  "description": "Connects AI assistants to IT Glue, the MSP documentation platform. Browse organizations, read and write documents and flexible assets, and answer natural-language questions via semantic vector search (OpenAI/Azure embeddings). Viewer/editor/admin roles gate tool access; bring-your-own-key applies IT",
+  "source_repo": "selic/mcp-itglue",
+  "source_url": "https://github.com/selic/mcp-itglue",
+  "install": "# git clone --depth 1 https://github.com/selic/mcp-itglue\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-remote-macos-use",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/mcp-remote-macos-use",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-remote-macos-use\n# See source for mcpServers config block"
+}

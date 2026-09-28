@@ -1,0 +1,7 @@
+{
+  "name": "nanami-products",
+  "description": "MCP server for generating astrology chart data (Western, Jyotish, Four Pillars) using Swiss Ephemeris and AI-based interpretation.",
+  "source_repo": "haserisa0810-gif/nanami-products",
+  "source_url": "https://github.com/haserisa0810-gif/nanami-products",
+  "install": "# git clone --depth 1 https://github.com/haserisa0810-gif/nanami-products\n# See source for mcpServers config block"
+}

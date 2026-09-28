@@ -1,0 +1,7 @@
+{
+  "name": "sangfor-mcp-workflow",
+  "description": "Automates three core workflows for Sangfor Engineer: project all-in-one (Excel to guide to validation to report), equipment health check, and Obsidian wiki integration.",
+  "source_repo": "whelp99-code/sangfor-mcp-workflow",
+  "source_url": "https://github.com/whelp99-code/sangfor-mcp-workflow",
+  "install": "# git clone --depth 1 https://github.com/whelp99-code/sangfor-mcp-workflow\n# See source for mcpServers config block"
+}

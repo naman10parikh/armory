@@ -1,0 +1,7 @@
+{
+  "name": "fabric-docs-mcp",
+  "description": "MCP server that provides LLM coding agents with version-pinned Fabric modding documentation, including search, page reading, and a curated built-ins index to encourage idiomatic code.",
+  "source_repo": "adriancalavie/fabric-docs-mcp",
+  "source_url": "https://github.com/adriancalavie/fabric-docs-mcp",
+  "install": "npx -y fabric-docs-mcp"
+}

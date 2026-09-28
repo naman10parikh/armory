@@ -1,0 +1,7 @@
+{
+  "name": "mcp-solana-ico",
+  "description": "Simplified MCP server for managing Solana ICOs with multiple bonding curves, token pricing, and buy/sell functionality.",
+  "source_repo": "waifuai/mcp-solana-ico",
+  "source_url": "https://github.com/waifuai/mcp-solana-ico",
+  "install": "# git clone --depth 1 https://github.com/waifuai/mcp-solana-ico\n# See source for mcpServers config block"
+}

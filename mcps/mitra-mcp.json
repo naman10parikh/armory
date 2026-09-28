@@ -1,0 +1,7 @@
+{
+  "name": "mitra-mcp",
+  "description": "A modular MCP server integrating Clockify, WakaTime, and Azure DevOps for time tracking, work item management, and time logging via a unified API.",
+  "source_repo": "thegauravgiri/mitra-mcp",
+  "source_url": "https://github.com/thegauravgiri/mitra-mcp",
+  "install": "npx -y mitra-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yodolabs-plateau-creative-mcp",
+  "description": "An MCP server that turns Project PLATEAU's 3D city data into scene-editing and glTF export tools for creative LLM agents.",
+  "source_repo": "pixelx-jp/plateau-creative-mcp",
+  "source_url": "https://github.com/pixelx-jp/plateau-creative-mcp",
+  "install": "npx -y plateau-creative-mcp"
+}

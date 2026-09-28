@@ -1,0 +1,7 @@
+{
+  "name": "mediacrawler-mcp-server",
+  "description": "MCP server for crawling social media platforms (e.g., Bilibili) by keywords, video IDs, or creator IDs, with support for MySQL, JSON, and CSV storage.",
+  "source_repo": "Bowenwin/MediaCrawler_MCP_Server",
+  "source_url": "https://github.com/Bowenwin/MediaCrawler_MCP_Server",
+  "install": "npx -y MediaCrawler_MCP_Server"
+}

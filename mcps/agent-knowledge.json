@@ -1,0 +1,7 @@
+{
+  "name": "agent-knowledge",
+  "description": "Enables cross-session memory and recall for AI coding assistants through a git-synced knowledge base, hybrid semantic and TF-IDF search across tool transcripts, and automatic distillation of insights with secrets scrubbing.",
+  "source_repo": "keshrath/agent-knowledge",
+  "source_url": "https://github.com/keshrath/agent-knowledge",
+  "install": "# git clone --depth 1 https://github.com/keshrath/agent-knowledge\n# See source for mcpServers config block"
+}

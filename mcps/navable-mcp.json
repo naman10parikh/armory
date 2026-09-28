@@ -1,0 +1,7 @@
+{
+  "name": "navable-mcp",
+  "description": "Enables AI coding agents to perform real-browser accessibility scanning of localhost pages using Playwright and axe-core, returning WCAG 2.1 violations with structured fix plans.",
+  "source_repo": "web-DnA/navable-web-accessibility-mcp",
+  "source_url": "https://github.com/web-DnA/navable-web-accessibility-mcp",
+  "install": "npx -y navable-web-accessibility-mcp"
+}

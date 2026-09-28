@@ -1,0 +1,7 @@
+{
+  "name": "tapp",
+  "description": "Provides autonomous QA and a deterministic ship/no-ship verdict for iOS and web apps, enabling coding agents to explore, screenshot, and test apps via MCP tools.",
+  "source_repo": "aarwitz/tapp",
+  "source_url": "https://github.com/aarwitz/tapp",
+  "install": "# git clone --depth 1 https://github.com/aarwitz/tapp\n# See source for mcpServers config block"
+}

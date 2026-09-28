@@ -1,0 +1,7 @@
+{
+  "name": "freebuff-bridge",
+  "description": "MCP server that bridges agents to Freebuff Desktop sessions, enabling project and thread management, prompt sending, queue control, and wake-on-demand via REST API, SSE, and MCP tools.",
+  "source_repo": "toyro396133/freebuff-bridge",
+  "source_url": "https://github.com/toyro396133/freebuff-bridge",
+  "install": "# git clone --depth 1 https://github.com/toyro396133/freebuff-bridge\n# See source for mcpServers config block"
+}

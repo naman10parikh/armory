@@ -1,0 +1,7 @@
+{
+  "name": "pubmed-search",
+  "description": "Enables searching PubMed using natural language questions by translating queries to PubMed syntax and returning semantically relevant results. It also supports related articles, citation chains, and bibliography export via MCP tools.",
+  "source_repo": "Dariolex/pubmed-search-agent",
+  "source_url": "https://github.com/Dariolex/pubmed-search-agent",
+  "install": "# git clone --depth 1 https://github.com/Dariolex/pubmed-search-agent\n# See source for mcpServers config block"
+}

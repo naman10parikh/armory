@@ -1,0 +1,7 @@
+{
+  "name": "addressintel-mcp",
+  "description": "A read-only MCP server that exposes SF Peninsula building-permit and parcel-buildability data, enabling queries on permits, SB 9 eligibility, ADU potential, and redevelopment leads.",
+  "source_repo": "RantumBits/addressintel-mcp",
+  "source_url": "https://github.com/RantumBits/addressintel-mcp",
+  "install": "npx -y addressintel-mcp"
+}

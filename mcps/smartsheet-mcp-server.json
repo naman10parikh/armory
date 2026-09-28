@@ -1,0 +1,7 @@
+{
+  "name": "smartsheet-mcp-server",
+  "description": "Connects to your Smartsheet account, enabling Claude Code to browse workspaces, read sheets, and generate documentation.",
+  "source_repo": "merpuya/northern-reticulated",
+  "source_url": "https://github.com/merpuya/northern-reticulated",
+  "install": "# git clone --depth 1 https://github.com/merpuya/northern-reticulated\n# See source for mcpServers config block"
+}

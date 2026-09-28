@@ -1,0 +1,7 @@
+{
+  "name": "efood-mcp",
+  "description": "An unofficial Model Context Protocol server for the efood.gr consumer app API that lets you discover restaurants, browse menus, build a cart, and place real orders on efood.gr.",
+  "source_repo": "DENNISDGR/efood-mcp",
+  "source_url": "https://github.com/DENNISDGR/efood-mcp",
+  "install": "npx -y efood-mcp"
+}

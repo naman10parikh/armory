@@ -1,0 +1,7 @@
+{
+  "name": "gyst-mcp",
+  "description": "Enables listing and updating clients, projects, and tickets from your editor via Gyst's API.",
+  "source_repo": "NathanHartkopf/gyst-mcp",
+  "source_url": "https://github.com/NathanHartkopf/gyst-mcp",
+  "install": "npx -y gyst-mcp"
+}

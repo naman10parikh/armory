@@ -1,0 +1,7 @@
+{
+  "name": "read-only-vsphere-mcp-server",
+  "description": "Connects MCP-compatible coding agents to VMware vCenter to query information about virtual machines, hosts, clusters, datastores, datacenters, and networks.",
+  "source_repo": "arjungowdal4601/vcenter_mcp",
+  "source_url": "https://github.com/arjungowdal4601/vcenter_mcp",
+  "install": "npx -y vcenter_mcp"
+}

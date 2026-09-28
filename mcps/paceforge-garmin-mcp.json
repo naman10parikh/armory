@@ -1,0 +1,7 @@
+{
+  "name": "paceforge-garmin-mcp",
+  "description": "Enables MCP hosts to read Garmin training data and write structured workouts to a calendar, with tools for listing activities, summarizing training, computing athlete zones, building and scheduling workout plans, syncing data, and checking cache status.",
+  "source_repo": "yashhooda1/paceforge",
+  "source_url": "https://github.com/yashhooda1/paceforge",
+  "install": "# git clone --depth 1 https://github.com/yashhooda1/paceforge\n# See source for mcpServers config block"
+}

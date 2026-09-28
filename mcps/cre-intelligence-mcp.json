@@ -1,0 +1,7 @@
+{
+  "name": "cre-intelligence-mcp",
+  "description": "Provides live commercial real estate data (rates, demographics) and analysis tools (DCF, rent roll parsing, lease abstraction, IC memo generation) within Claude Desktop.",
+  "source_repo": "Zwondra/cre-intelligence-mcp",
+  "source_url": "https://github.com/Zwondra/cre-intelligence-mcp",
+  "install": "npx -y cre-intelligence-mcp"
+}

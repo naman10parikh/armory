@@ -1,0 +1,7 @@
+{
+  "name": "companies-house-mcp-server",
+  "description": "Access UK company data through the Companies House API directly in MCP clients, with 45+ tools for company info, search, officers, filing history, ownership, and charges.",
+  "source_repo": "stefanoamorelli/companies-house-mcp",
+  "source_url": "https://github.com/stefanoamorelli/companies-house-mcp",
+  "install": "npx -y companies-house-mcp"
+}

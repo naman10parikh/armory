@@ -1,0 +1,7 @@
+{
+  "name": "afc-commander-free-edition",
+  "description": "Enables managing a parametric CLI command registry with profile isolation and pipelines from Cursor agents via 11 MCP tools.",
+  "source_repo": "Trace186/AFC-Commander-CLI-MCP",
+  "source_url": "https://github.com/Trace186/AFC-Commander-CLI-MCP",
+  "install": "npx -y AFC-Commander-CLI-MCP"
+}

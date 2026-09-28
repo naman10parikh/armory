@@ -1,0 +1,7 @@
+{
+  "name": "cro-mg-cadastro-mcp",
+  "description": "Consulta em fonte oficial o cadastro do Conselho Regional de Odontologia de MG (somente leitura) via uma ferramenta MCP.",
+  "source_repo": "mcp-dir/cro_mg_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_mg_cadastro-mcp",
+  "install": "npx -y cro_mg_cadastro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "code-ast-mcp",
+  "description": "This MCP server enables AI models to analyze local Python codebases using abstract syntax trees, providing tools for file structure analysis, symbol search, import graphing, docstring auditing, and refactoring prompts without loading entire source files into context.",
+  "source_repo": "m-sameerkhan/code-ast-mcp",
+  "source_url": "https://github.com/m-sameerkhan/code-ast-mcp",
+  "install": "npx -y code-ast-mcp"
+}

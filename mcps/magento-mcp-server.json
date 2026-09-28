@@ -1,0 +1,7 @@
+{
+  "name": "magento-mcp-server",
+  "description": "Enables natural language queries about Magento store catalog, sales, and customer data through dynamic tools for AI assistants.",
+  "source_repo": "jayankaghosh/magento-mcp-server",
+  "source_url": "https://github.com/jayankaghosh/magento-mcp-server",
+  "install": "npx -y magento-mcp-server"
+}

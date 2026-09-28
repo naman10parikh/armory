@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent-relay",
+  "description": "A durable MCP-native job relay that enables agents to dispatch work to each other and wakes a running Claude session via a channel when a job completes, eliminating fragile tmux-based approaches.",
+  "source_repo": "brenoperucchi/mcp-agent-relay",
+  "source_url": "https://github.com/brenoperucchi/mcp-agent-relay",
+  "install": "# git clone --depth 1 https://github.com/brenoperucchi/mcp-agent-relay\n# See source for mcpServers config block"
+}

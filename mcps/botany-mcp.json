@@ -1,0 +1,7 @@
+{
+  "name": "botany-mcp",
+  "description": "Remote MCP server for authoritative plant information from the VicFlora API. Enables searching plants, fetching profiles, finding occurrences near a point, and looking up botanical terms.",
+  "source_repo": "idamadam/botany-mcp",
+  "source_url": "https://github.com/idamadam/botany-mcp",
+  "install": "npx -y botany-mcp"
+}

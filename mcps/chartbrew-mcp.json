@@ -1,0 +1,7 @@
+{
+  "name": "chartbrew-mcp",
+  "description": "Enables AI agents to manage Chartbrew resources like teams, connections, datasets, dashboards, and charts via natural language.",
+  "source_repo": "dhavanikgithub/chartbrew-mcp",
+  "source_url": "https://github.com/dhavanikgithub/chartbrew-mcp",
+  "install": "npx -y chartbrew-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bw-modeeling-mcp",
+  "description": "A Model Context Protocol (MCP) server that enables AI assistants like Claude to work directly inside SAP BW/4HANA systems — reading, creating and modifying BW modeling objects via the internal REST API used by Eclipse BWMT.",
+  "source_repo": "shreemanrs6/BW-Modeeling-mcp",
+  "source_url": "https://github.com/shreemanrs6/BW-Modeeling-mcp",
+  "install": "npx -y BW-Modeeling-mcp"
+}

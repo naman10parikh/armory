@@ -1,0 +1,7 @@
+{
+  "name": "copilot-usage-mcp",
+  "description": "Exposes GitHub Copilot premium request usage as an MCP tool, providing a breakdown by model and cost.",
+  "source_repo": "pradeepjc/copilot-usage-mcp",
+  "source_url": "https://github.com/pradeepjc/copilot-usage-mcp",
+  "install": "npx -y copilot-usage-mcp"
+}

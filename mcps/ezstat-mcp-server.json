@@ -1,0 +1,7 @@
+{
+  "name": "ezstat-mcp-server",
+  "description": "Enables AI agents to push and read metrics from EzStat, track counters/gauges, and ask natural-language questions about telemetry.",
+  "source_repo": "clira-dev/ezstat-mcp-server",
+  "source_url": "https://github.com/clira-dev/ezstat-mcp-server",
+  "install": "npx -y ezstat-mcp-server"
+}

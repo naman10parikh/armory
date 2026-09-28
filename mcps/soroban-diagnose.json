@@ -1,0 +1,7 @@
+{
+  "name": "soroban-diagnose",
+  "description": "Deterministic failure diagnosis for Soroban transactions and simulations, providing a normalized diagnosis with ranked causes, evidence, and fixes via CLI, MCP, or library.",
+  "source_repo": "kaankacar/soroban-diagnose",
+  "source_url": "https://github.com/kaankacar/soroban-diagnose",
+  "install": "# git clone --depth 1 https://github.com/kaankacar/soroban-diagnose\n# See source for mcpServers config block"
+}

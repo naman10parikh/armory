@@ -1,0 +1,7 @@
+{
+  "name": "ecrvsp-atpv-inten-o-de-venda-imprimir",
+  "description": "Read-only MCP server that provides a tool for consulting official ECRVSP ATPV (Intenção de Venda) data, with pre-paid pricing and no credentials required.",
+  "source_repo": "mcp-dir/ecrvsp_atpv_imprimir-mcp",
+  "source_url": "https://github.com/mcp-dir/ecrvsp_atpv_imprimir-mcp",
+  "install": "npx -y ecrvsp_atpv_imprimir-mcp"
+}

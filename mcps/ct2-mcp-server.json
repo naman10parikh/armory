@@ -1,0 +1,7 @@
+{
+  "name": "ct2-mcp-server",
+  "description": "Centralizes multi-agent team workflows, providing Kanban, audit timeline, scorecards, and event hooks, integrated natively with Hermes Dashboard via the Model Context Protocol.",
+  "source_repo": "rafael-fae/hermes-ct2",
+  "source_url": "https://github.com/rafael-fae/hermes-ct2",
+  "install": "# git clone --depth 1 https://github.com/rafael-fae/hermes-ct2\n# See source for mcpServers config block"
+}

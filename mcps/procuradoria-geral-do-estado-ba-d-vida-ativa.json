@@ -1,0 +1,7 @@
+{
+  "name": "procuradoria-geral-do-estado-ba-d-vida-ativa",
+  "description": "Consulta de dívida ativa em fonte oficial da PGE-BA, com leitura somente e pagamento por uso.",
+  "source_repo": "mcp-dir/pge_ba_divida_ativa-mcp",
+  "source_url": "https://github.com/mcp-dir/pge_ba_divida_ativa-mcp",
+  "install": "npx -y pge_ba_divida_ativa-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ff2026",
+  "description": "An MCP server that helps an AI agent run a Sleeper fantasy football team from draft night through the championship. It syncs league data, imports FantasyPros rankings, and recommends draft picks, lineups, waivers, and trades.",
+  "source_repo": "gregbuehler/mcp-ff2026",
+  "source_url": "https://github.com/gregbuehler/mcp-ff2026",
+  "install": "# git clone --depth 1 https://github.com/gregbuehler/mcp-ff2026\n# See source for mcpServers config block"
+}

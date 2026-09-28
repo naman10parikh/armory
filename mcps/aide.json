@@ -1,0 +1,7 @@
+{
+  "name": "aide",
+  "description": "A unified backend MCP server that aggregates and filters data from external services like Zaim, GitHub, Google, and Notion, providing cross-cutting views via MCP and REST API without heavy AI inference.",
+  "source_repo": "guchi-apps/aide",
+  "source_url": "https://github.com/guchi-apps/aide",
+  "install": "# git clone --depth 1 https://github.com/guchi-apps/aide\n# See source for mcpServers config block"
+}

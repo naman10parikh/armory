@@ -1,0 +1,7 @@
+{
+  "name": "mitre-atlas-mcp",
+  "description": "Enables querying MITRE ATLAS adversarial AI threat intelligence, including techniques, tactics, and case studies, through natural language.",
+  "source_repo": "CSOAI-ORG/mitre-atlas-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/mitre-atlas-mcp",
+  "install": "npx -y mitre-atlas-mcp"
+}

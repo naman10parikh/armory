@@ -1,0 +1,7 @@
+{
+  "name": "somanylemons-mcp",
+  "description": "AI-powered content marketing MCP server for creating branded video reels, LinkedIn posts, image quotes, and more via the /lemons command.",
+  "source_repo": "NoMiddleInc/somanylemons-mcp",
+  "source_url": "https://github.com/NoMiddleInc/somanylemons-mcp",
+  "install": "npx -y somanylemons-mcp"
+}

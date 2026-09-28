@@ -1,0 +1,7 @@
+{
+  "name": "imejis-mcp",
+  "description": "Hosted MCP server for Imejis. Your AI agent designs a template once, then renders on-brand images in bulk with the same layout every time, only the data changing.",
+  "source_repo": "MediaAssist/imejis-mcp",
+  "source_url": "https://github.com/MediaAssist/imejis-mcp",
+  "install": "npx -y imejis-mcp"
+}

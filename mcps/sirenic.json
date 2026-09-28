@@ -1,0 +1,7 @@
+{
+  "name": "sirenic",
+  "description": "Provides official French and European company data (INSEE Sirene, INPI RNE) for AI agents via pay-per-call USDC on Base, including search, profiles, KYB, sanctions screening, financials, and more.",
+  "source_repo": "sirenic-eu/sirenic-examples",
+  "source_url": "https://github.com/sirenic-eu/sirenic-examples",
+  "install": "# git clone --depth 1 https://github.com/sirenic-eu/sirenic-examples\n# See source for mcpServers config block"
+}

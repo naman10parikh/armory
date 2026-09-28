@@ -1,0 +1,7 @@
+{
+  "name": "plaid-mcp-server",
+  "description": "A self-hosted MCP server that lets Claude query your bank accounts, balances, and transactions through Plaid.",
+  "source_repo": "lukew0824/plaid-mcp-server",
+  "source_url": "https://github.com/lukew0824/plaid-mcp-server",
+  "install": "npx -y plaid-mcp-server"
+}

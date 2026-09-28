@@ -1,0 +1,7 @@
+{
+  "name": "infraveil-guard",
+  "description": "A cooperative guardrail for AI agents that blocks destructive shell commands, SQL statements, or cloud operations until a human approves them out-of-band, with a tamper-evident local ledger.",
+  "source_repo": "infraveilhq/infraveil-guard",
+  "source_url": "https://github.com/infraveilhq/infraveil-guard",
+  "install": "# git clone --depth 1 https://github.com/infraveilhq/infraveil-guard\n# See source for mcpServers config block"
+}

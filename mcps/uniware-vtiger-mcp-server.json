@@ -1,0 +1,7 @@
+{
+  "name": "uniware-vtiger-mcp-server",
+  "description": "Read-only MCP server connecting Claude to Vtiger CRM for leads, deals, and overdue follow-ups.",
+  "source_repo": "Srimathi-8502/Mcp_Vtiger_claude",
+  "source_url": "https://github.com/Srimathi-8502/Mcp_Vtiger_claude",
+  "install": "# git clone --depth 1 https://github.com/Srimathi-8502/Mcp_Vtiger_claude\n# See source for mcpServers config block"
+}

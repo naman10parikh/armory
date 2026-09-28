@@ -1,0 +1,7 @@
+{
+  "name": "mcp-umphreys",
+  "description": "Enables querying Umphrey's McGee setlist data including shows, songs, jam charts, and guest appearances through natural language.",
+  "source_repo": "pete-builds/mcp-umphreys",
+  "source_url": "https://github.com/pete-builds/mcp-umphreys",
+  "install": "# git clone --depth 1 https://github.com/pete-builds/mcp-umphreys\n# See source for mcpServers config block"
+}

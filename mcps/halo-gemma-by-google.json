@@ -1,0 +1,7 @@
+{
+  "name": "halo-gemma-by-google",
+  "description": "An MCP server providing AI-powered cybersecurity, penetration testing, reconnaissance, vulnerability assessment, and security automation tools through the Model Context Protocol.",
+  "source_repo": "XenoCoreGiger31/GEMMA-by-GOOGLE",
+  "source_url": "https://github.com/XenoCoreGiger31/GEMMA-by-GOOGLE",
+  "install": "# git clone --depth 1 https://github.com/XenoCoreGiger31/GEMMA-by-GOOGLE\n# See source for mcpServers config block"
+}

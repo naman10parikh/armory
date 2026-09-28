@@ -1,0 +1,7 @@
+{
+  "name": "sketchup-mcp",
+  "description": "Connects SketchUp to Claude AI through MCP, enabling natural language controlled 3D modeling, component manipulation, and scene creation.",
+  "source_repo": "nguyenduyhust/sketchup-mcp",
+  "source_url": "https://github.com/nguyenduyhust/sketchup-mcp",
+  "install": "npx -y sketchup-mcp"
+}

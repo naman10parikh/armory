@@ -1,0 +1,7 @@
+{
+  "name": "wisdomgraph",
+  "description": "This MCP server lets AI agents persistently record facts, experiences, insights, and lessons into a Neo4j DIKW graph, then query that memory across sessions to prevent repeating past mistakes.",
+  "source_repo": "cklam12345/wisdomGraph",
+  "source_url": "https://github.com/cklam12345/wisdomGraph",
+  "install": "# git clone --depth 1 https://github.com/cklam12345/wisdomGraph\n# See source for mcpServers config block"
+}

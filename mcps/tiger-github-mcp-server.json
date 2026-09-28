@@ -1,0 +1,7 @@
+{
+  "name": "tiger-github-mcp-server",
+  "description": "Enables LLMs to interact with GitHub via the Model Context Protocol, providing tools for repository management and other GitHub operations.",
+  "source_repo": "timescale/tiger-gh-mcp-server",
+  "source_url": "https://github.com/timescale/tiger-gh-mcp-server",
+  "install": "npx -y tiger-gh-mcp-server"
+}

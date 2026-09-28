@@ -1,0 +1,7 @@
+{
+  "name": "logic-lab",
+  "description": "A read-only reference server for 303 curated generative art algorithms implemented in Python (py5), spanning physics, fractals, cellular automata, shaders, and more. Agents can search by keyword, visual mood (ethereal, chaotic, crystalline…), or multi-layer artistic intent to discover algorithms, re",
+  "source_repo": "asamiile/logic-lab",
+  "source_url": "https://github.com/asamiile/logic-lab",
+  "install": "# git clone --depth 1 https://github.com/asamiile/logic-lab\n# See source for mcpServers config block"
+}

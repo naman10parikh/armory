@@ -1,0 +1,7 @@
+{
+  "name": "vesta-mcp-server-savesearch",
+  "description": "MCP tool server for MLS saved searches that enables listing, proposing, saving, updating, and deleting a user's saved property searches.",
+  "source_repo": "vestaplus/vesta-mcp-server-savesearch",
+  "source_url": "https://github.com/vestaplus/vesta-mcp-server-savesearch",
+  "install": "# git clone --depth 1 https://github.com/vestaplus/vesta-mcp-server-savesearch\n# See source for mcpServers config block"
+}

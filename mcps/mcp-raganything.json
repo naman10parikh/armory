@@ -1,0 +1,7 @@
+{
+  "name": "mcp-raganything",
+  "description": "Multi-modal RAG service exposing a REST API and MCP server for document indexing and knowledge-base querying, powered by RAGAnything and LightRAG.",
+  "source_repo": "SoluDevTech/mcp-raganything",
+  "source_url": "https://github.com/SoluDevTech/mcp-raganything",
+  "install": "# git clone --depth 1 https://github.com/SoluDevTech/mcp-raganything\n# See source for mcpServers config block"
+}

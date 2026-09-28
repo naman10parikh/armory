@@ -1,0 +1,7 @@
+{
+  "name": "custom-clickup-mcp",
+  "description": "Local MCP server for essential ClickUp workflows over stdio, exposing a bounded set of tools for search, task management, comments, tags, and workspace hierarchy.",
+  "source_repo": "Blackklegend/custom-clickup-mcp",
+  "source_url": "https://github.com/Blackklegend/custom-clickup-mcp",
+  "install": "npx -y custom-clickup-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codeparse-mcp",
+  "description": "Parses Java and Xtend source code into a graph database and provides MCP tools for querying classes, methods, control flow graphs, and MC/DC conditions, enabling AI-driven unit test generation for ISO 26262 ASIL-D compliance.",
+  "source_repo": "khuongtt/codeparse-mcp",
+  "source_url": "https://github.com/khuongtt/codeparse-mcp",
+  "install": "npx -y codeparse-mcp"
+}

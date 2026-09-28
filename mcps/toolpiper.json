@@ -1,0 +1,7 @@
+{
+  "name": "toolpiper",
+  "description": "300+ MCP tools for macOS, all on-device — local AI inference (llama.cpp on Metal), voice, vision OCR, local RAG, browser automation, and ~140 system actions across 26 macOS domains. Nothing leaves your Mac.",
+  "source_repo": "ModelPiper/toolpiper",
+  "source_url": "https://github.com/ModelPiper/toolpiper",
+  "install": "# git clone --depth 1 https://github.com/ModelPiper/toolpiper\n# See source for mcpServers config block"
+}

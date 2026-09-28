@@ -1,0 +1,7 @@
+{
+  "name": "kenning-pg-mcp",
+  "description": "A secure PostgreSQL Model Context Protocol server that provides read-only database access through tools like schema listing, object inspection, query execution, and EXPLAIN analysis, with database-enforced access control via read-only transactions and a minimal role rather than SQL text parsing.",
+  "source_repo": "kenningai/kenning-pg-mcp",
+  "source_url": "https://github.com/kenningai/kenning-pg-mcp",
+  "install": "npx -y kenning-pg-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "airlock-mcp-server",
+  "description": "Airlock provides named resource locks, atomic shared state, presence, events, and a task queue for AI agents to coordinate on a shared filesystem, with blocking waits and SQLite-backed persistence.",
+  "source_repo": "adamorad/airlock",
+  "source_url": "https://github.com/adamorad/airlock",
+  "install": "# git clone --depth 1 https://github.com/adamorad/airlock\n# See source for mcpServers config block"
+}

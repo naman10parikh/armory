@@ -1,0 +1,7 @@
+{
+  "name": "local-delegate",
+  "description": "Delegates mechanical text-to-text tasks to a local LLM to save Claude subscription quota, reading files server-side so large content never enters Claude's context.",
+  "source_repo": "ZahiriNatZuke/local-delegate",
+  "source_url": "https://github.com/ZahiriNatZuke/local-delegate",
+  "install": "# git clone --depth 1 https://github.com/ZahiriNatZuke/local-delegate\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "safetyops-mcp-server",
+  "description": "Enables AI assistants to query workplace incident data using RAG, providing search, analysis, and corrective action plans.",
+  "source_repo": "ANASSIJASSI/safetyops-mcp-server",
+  "source_url": "https://github.com/ANASSIJASSI/safetyops-mcp-server",
+  "install": "npx -y safetyops-mcp-server"
+}

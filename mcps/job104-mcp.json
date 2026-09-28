@@ -1,0 +1,7 @@
+{
+  "name": "job104-mcp",
+  "description": "Searches 104 job listings with natural-language filters and retrieves full postings via MCP tools.",
+  "source_repo": "mozzan/job104-mcp",
+  "source_url": "https://github.com/mozzan/job104-mcp",
+  "install": "npx -y job104-mcp"
+}

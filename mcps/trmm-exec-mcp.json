@@ -1,0 +1,7 @@
+{
+  "name": "trmm-exec-mcp",
+  "description": "Provides read-only access to Tactical RMM, enabling agent searches, detailed agent information, audit log queries, and execution of information-gathering PowerShell scripts on agents, with Entra ID authentication and a strict read-only guard.",
+  "source_repo": "JohnGilligan2/tactical-rmm-exec-mcp",
+  "source_url": "https://github.com/JohnGilligan2/tactical-rmm-exec-mcp",
+  "install": "npx -y tactical-rmm-exec-mcp"
+}

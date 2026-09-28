@@ -1,0 +1,7 @@
+{
+  "name": "slack-readonly-mcp",
+  "description": "A self-hosted, read-only Slack MCP server that runs locally and provides read-only access to Slack channels, messages, and users via the Slack Web API, with no third-party intermediary.",
+  "source_repo": "tomfunk/slack-readonly-mcp",
+  "source_url": "https://github.com/tomfunk/slack-readonly-mcp",
+  "install": "npx -y slack-readonly-mcp"
+}

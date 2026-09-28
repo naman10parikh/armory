@@ -1,0 +1,7 @@
+{
+  "name": "starwars",
+  "description": "Provides access to the SWAPI Star Wars API, enabling users to query characters, planets, films, species, vehicles, and starships with automatic pagination and caching.",
+  "source_repo": "johnpapa/mcp-starwars",
+  "source_url": "https://github.com/johnpapa/mcp-starwars",
+  "install": "# git clone --depth 1 https://github.com/johnpapa/mcp-starwars\n# See source for mcpServers config block"
+}

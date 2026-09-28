@@ -1,0 +1,7 @@
+{
+  "name": "remoteshell-mcp",
+  "description": "A server that enables LLMs to securely manage and execute commands on remote SSH servers.",
+  "source_repo": "chouzz/remoteShell-mcp",
+  "source_url": "https://github.com/chouzz/remoteShell-mcp",
+  "install": "npx -y remoteShell-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "triage-mcp-server",
+  "description": "Enables AI agents to autonomously check, diagnose, and recover Dockerized services through safe, tool-based ops without direct host shell access.",
+  "source_repo": "fazalrshah/triage",
+  "source_url": "https://github.com/fazalrshah/triage",
+  "install": "# git clone --depth 1 https://github.com/fazalrshah/triage\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "syntax-map-mcp",
+  "description": "Enables code analysis of JavaScript, TypeScript, TSX, Python, and Rust files using Tree-sitter, providing symbol listing, definition/reference lookup, AST queries, LSP-style features, and SQLite indexing for efficient cross-file searches.",
+  "source_repo": "kht6163/syntax-map-mcp",
+  "source_url": "https://github.com/kht6163/syntax-map-mcp",
+  "install": "npx -y syntax-map-mcp"
+}

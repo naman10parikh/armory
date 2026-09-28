@@ -1,0 +1,7 @@
+{
+  "name": "agentic-rag-mcp-server",
+  "description": "MCP server providing tools for entity extraction, query refinement, and relevance checking to build Agentic RAG applications.",
+  "source_repo": "Bhonandh/Agentic-RAG-with-MCP-Server-main",
+  "source_url": "https://github.com/Bhonandh/Agentic-RAG-with-MCP-Server-main",
+  "install": "# git clone --depth 1 https://github.com/Bhonandh/Agentic-RAG-with-MCP-Server-main\n# See source for mcpServers config block"
+}

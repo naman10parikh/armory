@@ -1,0 +1,7 @@
+{
+  "name": "directadmin-mcp-server",
+  "description": "An MCP server that enables AI agents to manage DirectAdmin hosting panels via the Model Context Protocol, covering tasks like SSL certificate management, firewall/CSF controls, user/domain administration, and system operations through a secure, role-based interface.",
+  "source_repo": "OpenIaaS/directadmin-mcp-server",
+  "source_url": "https://github.com/OpenIaaS/directadmin-mcp-server",
+  "install": "npx -y directadmin-mcp-server"
+}

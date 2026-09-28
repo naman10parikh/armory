@@ -1,0 +1,7 @@
+{
+  "name": "garmin-mcp-bridge",
+  "description": "Brings Garmin training data into Claude via Intervals.icu, enabling querying of activities, wellness, and planned workouts, as well as creating structured workouts that sync back to the Garmin watch.",
+  "source_repo": "jonas-theobald/garmin-mcp-bridge",
+  "source_url": "https://github.com/jonas-theobald/garmin-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/jonas-theobald/garmin-mcp-bridge\n# See source for mcpServers config block"
+}

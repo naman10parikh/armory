@@ -1,0 +1,7 @@
+{
+  "name": "aidelly-mcp-server",
+  "description": "Automate Aidelly social media management directly from Claude Code. Create, schedule, and manage posts across all connected platforms with AI-powered MCP tools.",
+  "source_repo": "Aidelly/claude-plugin",
+  "source_url": "https://github.com/Aidelly/claude-plugin",
+  "install": "# git clone --depth 1 https://github.com/Aidelly/claude-plugin\n# See source for mcpServers config block"
+}

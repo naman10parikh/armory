@@ -1,0 +1,7 @@
+{
+  "name": "solarbuild-mcp",
+  "description": "MCP server for the Solar framework. Gives AI agents live access to your component registry — call manifest(), component(), and validate() tools to discover, inspect, and validate Solar components at runtime.",
+  "source_repo": "Stahlwalker/framework-solar",
+  "source_url": "https://github.com/Stahlwalker/framework-solar",
+  "install": "# git clone --depth 1 https://github.com/Stahlwalker/framework-solar\n# See source for mcpServers config block"
+}

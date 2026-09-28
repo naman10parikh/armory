@@ -1,0 +1,7 @@
+{
+  "name": "modelport",
+  "description": "Turns any ML model into an MCP tool with auto-inferred schemas, input/output validation, and structured error handling.",
+  "source_repo": "Deividhp13/modelport",
+  "source_url": "https://github.com/Deividhp13/modelport",
+  "install": "# git clone --depth 1 https://github.com/Deividhp13/modelport\n# See source for mcpServers config block"
+}

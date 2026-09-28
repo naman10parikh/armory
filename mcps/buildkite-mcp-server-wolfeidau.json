@@ -1,0 +1,7 @@
+{
+  "name": "buildkite-mcp-server-wolfeidau",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/buildkite-mcp-server-wolfeidau",
+  "install": "# git clone --depth 1 https://mcp.so/server/buildkite-mcp-server-wolfeidau\n# See source for mcpServers config block"
+}

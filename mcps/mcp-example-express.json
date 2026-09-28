@@ -1,0 +1,7 @@
+{
+  "name": "mcp-example-express",
+  "description": "A basic example of a Model Context Protocol (MCP) server deployed as a Netlify Function, demonstrating how to serve MCP endpoints over HTTP.",
+  "source_repo": "sandhub/mcp-example",
+  "source_url": "https://github.com/sandhub/mcp-example",
+  "install": "# git clone --depth 1 https://github.com/sandhub/mcp-example\n# See source for mcpServers config block"
+}

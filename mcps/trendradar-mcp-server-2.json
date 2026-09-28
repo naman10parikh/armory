@@ -1,0 +1,7 @@
+{
+  "name": "trendradar-mcp-server-2",
+  "description": "MCP server for aggregating and analyzing hot news from multiple platforms, with AI-powered summaries, smart filtering, and multi-channel notifications.",
+  "source_repo": "rui497/my-trendradar",
+  "source_url": "https://github.com/rui497/my-trendradar",
+  "install": "# git clone --depth 1 https://github.com/rui497/my-trendradar\n# See source for mcpServers config block"
+}

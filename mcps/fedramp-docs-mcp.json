@@ -1,0 +1,7 @@
+{
+  "name": "fedramp-docs-mcp",
+  "description": "An unofficial MCP server that exposes public FedRAMP 20x documentation as deterministic, citable lookup tools for AI assistants, with every response citing the exact upstream source.",
+  "source_repo": "Andrew-Nolan-owl/fedramp-docs-mcp",
+  "source_url": "https://github.com/Andrew-Nolan-owl/fedramp-docs-mcp",
+  "install": "npx -y fedramp-docs-mcp"
+}

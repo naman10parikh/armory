@@ -1,0 +1,7 @@
+{
+  "name": "libvirt-mcp-server",
+  "description": "Enables AI models to securely query and manage virtual machines and virtualized resources via the libvirt API through the Model Context Protocol.",
+  "source_repo": "coolnyx/libvirt-mcp-server",
+  "source_url": "https://github.com/coolnyx/libvirt-mcp-server",
+  "install": "npx -y libvirt-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stickyrice-mcp",
+  "description": "MCP server for Sticky Rice - interact with your notes from Claude.",
+  "source_repo": "azamuddin/stickyrice-mcp",
+  "source_url": "https://github.com/azamuddin/stickyrice-mcp",
+  "install": "npx -y stickyrice-mcp"
+}

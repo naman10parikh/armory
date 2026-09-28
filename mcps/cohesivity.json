@@ -1,0 +1,7 @@
+{
+  "name": "cohesivity",
+  "description": "Cohesivity lets AI agents provision and manage infrastructure like postgres, hosting, storage, redis, realtime, etc. and other useful APIs.",
+  "source_repo": "cohesivity-org/cohesivity-plugin",
+  "source_url": "https://github.com/cohesivity-org/cohesivity-plugin",
+  "install": "# git clone --depth 1 https://github.com/cohesivity-org/cohesivity-plugin\n# See source for mcpServers config block"
+}

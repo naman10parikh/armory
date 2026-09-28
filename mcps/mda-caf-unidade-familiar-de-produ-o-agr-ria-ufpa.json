@@ -1,0 +1,7 @@
+{
+  "name": "mda-caf-unidade-familiar-de-produ-o-agr-ria-ufpa",
+  "description": "MCP server for consulting official data on family farming production units (CAF) from the Brazilian MDA. Provides read-only access to official records via natural language.",
+  "source_repo": "mcp-dir/mda_caf_ufpa-mcp",
+  "source_url": "https://github.com/mcp-dir/mda_caf_ufpa-mcp",
+  "install": "npx -y mda_caf_ufpa-mcp"
+}

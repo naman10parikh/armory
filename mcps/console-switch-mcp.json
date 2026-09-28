@@ -1,0 +1,7 @@
+{
+  "name": "console-switch-mcp",
+  "description": "Enables control of network switches via serial console ports, supporting Huawei, H3C, and Cisco devices for command execution and configuration.",
+  "source_repo": "yangyu2729/console-switch-mcp",
+  "source_url": "https://github.com/yangyu2729/console-switch-mcp",
+  "install": "npx -y console-switch-mcp"
+}

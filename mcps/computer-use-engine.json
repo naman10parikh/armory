@@ -1,0 +1,7 @@
+{
+  "name": "computer-use-engine",
+  "description": "Safety middleware for AI computer use agents that monitors, enforces policies, and provides guardrails to enable safe desktop interaction.",
+  "source_repo": "yonghwan1106/computer-use-engine",
+  "source_url": "https://github.com/yonghwan1106/computer-use-engine",
+  "install": "# git clone --depth 1 https://github.com/yonghwan1106/computer-use-engine\n# See source for mcpServers config block"
+}

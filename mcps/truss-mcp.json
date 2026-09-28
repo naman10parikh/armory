@@ -1,0 +1,7 @@
+{
+  "name": "truss-mcp",
+  "description": "Truss MCP Server enables cross-organization evidence coordination via the Model Context Protocol, allowing multiple organizations to join, list, and verify cryptographically signed evidence packages.",
+  "source_repo": "tensflare/truss-mcp",
+  "source_url": "https://github.com/tensflare/truss-mcp",
+  "install": "npx -y truss-mcp"
+}

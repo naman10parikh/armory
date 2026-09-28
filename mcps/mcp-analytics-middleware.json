@@ -1,6 +1,6 @@
 {
   "name": "mcp-analytics-middleware",
-  "description": "Mcp Analytics Middleware MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Phillip-Kemper/mcp-analytics-middleware",
   "source_url": "https://mcp.so/server/mcp-analytics-middleware/Phillip-Kemper",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-analytics-middleware/Phillip-Kemper\n# See source for mcpServers config block"

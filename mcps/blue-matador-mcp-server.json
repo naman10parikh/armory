@@ -1,0 +1,7 @@
+{
+  "name": "blue-matador-mcp-server",
+  "description": "Enables natural language management of Bluematador monitoring, including cloud integrations, alerts, notifications, and team management.",
+  "source_repo": "bluematador/blue-matador-mcp-server",
+  "source_url": "https://github.com/bluematador/blue-matador-mcp-server",
+  "install": "npx -y blue-matador-mcp-server"
+}

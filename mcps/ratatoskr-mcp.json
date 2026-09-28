@@ -1,0 +1,7 @@
+{
+  "name": "ratatoskr-mcp",
+  "description": "An MCP server that exposes a single tool to retrieve Wikipedia articles from local multistream dump files, offering fast offline access with redirect following and fuzzy matching.",
+  "source_repo": "edk4971/Ratatoskr-mcp",
+  "source_url": "https://github.com/edk4971/Ratatoskr-mcp",
+  "install": "npx -y Ratatoskr-mcp"
+}

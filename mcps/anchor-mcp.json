@@ -1,0 +1,7 @@
+{
+  "name": "anchor-mcp",
+  "description": "An MCP server that reads a team's interviews, tickets, and docs to build a model of the product, exposing tools to ask questions, list contradictions and gaps, and draft documents, with all answers citing their source fragments.",
+  "source_repo": "amitboker/anchor-mcp",
+  "source_url": "https://github.com/amitboker/anchor-mcp",
+  "install": "npx -y anchor-mcp"
+}

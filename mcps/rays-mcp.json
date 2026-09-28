@@ -1,0 +1,7 @@
+{
+  "name": "rays-mcp",
+  "description": "Exposes global market breadth, volume, RSI, volatility, and sentiment for 12 major equity indices (US + Asia) via 5 tools.",
+  "source_repo": "ivyyy0601/alert-mcp",
+  "source_url": "https://github.com/ivyyy0601/alert-mcp",
+  "install": "npx -y alert-mcp"
+}
