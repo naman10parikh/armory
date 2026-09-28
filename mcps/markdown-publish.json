@@ -1,0 +1,7 @@
+{
+  "name": "markdown-publish",
+  "description": "Enables AI to search, retrieve, list notes, and get backlinks from a published Markdown vault (Obsidian) via GitHub Pages.",
+  "source_repo": "abstractwebunit/markdown-publish-plugin",
+  "source_url": "https://github.com/abstractwebunit/markdown-publish-plugin",
+  "install": "# git clone --depth 1 https://github.com/abstractwebunit/markdown-publish-plugin\n# See source for mcpServers config block"
+}

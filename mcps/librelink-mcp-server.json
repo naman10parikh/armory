@@ -1,0 +1,7 @@
+{
+  "name": "librelink-mcp-server",
+  "description": "Enables Claude Desktop to securely access FreeStyle LibreLink continuous glucose monitoring data, providing real-time readings, historical analysis, and health insights through natural language queries.",
+  "source_repo": "amansk/librelink-mcp-server",
+  "source_url": "https://github.com/amansk/librelink-mcp-server",
+  "install": "npx -y librelink-mcp-server"
+}

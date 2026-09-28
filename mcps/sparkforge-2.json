@@ -1,0 +1,7 @@
+{
+  "name": "sparkforge-2",
+  "description": "Access a versatile collection of tools for media generation, web scraping, and cryptocurrency research. Convert between data formats, summarize long documents, and extract text from images or PDFs with ease. Streamline your workflow by automating tasks like SEO metadata extraction, code reviews, and",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/henry-ships/sparkforge",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/henry-ships/sparkforge\n# See source for mcpServers config block"
+}

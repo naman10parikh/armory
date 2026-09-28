@@ -1,0 +1,7 @@
+{
+  "name": "chatty-mcp",
+  "description": "Provides voice summaries after each AI request in Cursor, Cline, or any MCP-supported editor, allowing users to hear what was done and stay informed without staring at the screen.",
+  "source_repo": "stephentth/chatty-mcp",
+  "source_url": "https://github.com/stephentth/chatty-mcp",
+  "install": "npx -y chatty-mcp"
+}

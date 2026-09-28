@@ -1,7 +1,7 @@
 {
   "name": "ynab-mcp-server",
-  "description": "Exposes YNAB API endpoints as MCP tools, allowing AI assistants to manage budgets, accounts, transactions, and more through natural language.",
-  "source_repo": "rgarcia/ynab-mcp-server",
-  "source_url": "https://github.com/rgarcia/ynab-mcp-server",
-  "install": "npx -y ynab-mcp-server"
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/ynab-mcp-server",
+  "install": "# git clone --depth 1 https://mcp.so/server/ynab-mcp-server\n# See source for mcpServers config block"
 }

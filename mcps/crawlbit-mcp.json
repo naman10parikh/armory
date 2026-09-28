@@ -1,0 +1,7 @@
+{
+  "name": "crawlbit-mcp",
+  "description": "Provides four free tools to assess AI visibility: crawler access, entity recognition, off-page gaps, and shopping agent compatibility, without requiring an API key.",
+  "source_repo": "amati032-dev/crawlbit-mcp",
+  "source_url": "https://github.com/amati032-dev/crawlbit-mcp",
+  "install": "npx -y crawlbit-mcp"
+}

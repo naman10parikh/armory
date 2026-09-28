@@ -1,0 +1,7 @@
+{
+  "name": "banktivity-mcp",
+  "description": "MCP server for accessing and managing Banktivity personal finance data, enabling account, transaction, and budget operations through natural language.",
+  "source_repo": "mhriemers/banktivity-mcp",
+  "source_url": "https://github.com/mhriemers/banktivity-mcp",
+  "install": "npx -y banktivity-mcp"
+}

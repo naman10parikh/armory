@@ -1,0 +1,7 @@
+{
+  "name": "inkstone",
+  "description": "Automatically extracts and indexes knowledge from AI sessions and files using local LLMs, enabling semantic search and memory management.",
+  "source_repo": "jairodriguez/inkstone",
+  "source_url": "https://github.com/jairodriguez/inkstone",
+  "install": "# git clone --depth 1 https://github.com/jairodriguez/inkstone\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "posthog-mcp-2",
+  "description": "Enables interaction with PostHog product analytics API, supporting project listing, event queries, insight analysis, feature flag management, and annotation creation.",
+  "source_repo": "JiayuuWang/posthog-mcp",
+  "source_url": "https://github.com/JiayuuWang/posthog-mcp",
+  "install": "npx -y posthog-mcp"
+}

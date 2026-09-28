@@ -1,0 +1,7 @@
+{
+  "name": "ai-product-planner",
+  "description": "Turns product ideas into implementation-ready planning packages including PRD, requirements, user flow, wireframes, data schema, API contracts, and SDK boundaries, with an MCP handoff for coding agents.",
+  "source_repo": "codenameju/ai-product-planner",
+  "source_url": "https://github.com/codenameju/ai-product-planner",
+  "install": "# git clone --depth 1 https://github.com/codenameju/ai-product-planner\n# See source for mcpServers config block"
+}

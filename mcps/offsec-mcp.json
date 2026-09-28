@@ -1,0 +1,7 @@
+{
+  "name": "offsec-mcp",
+  "description": "MCP server for offensive-security tooling, enabling AI agents to run reconnaissance, CVE intelligence, JavaScript analysis, HTTP probing, and port scanning against authorized targets.",
+  "source_repo": "nadirzhon/offsec-mcp",
+  "source_url": "https://github.com/nadirzhon/offsec-mcp",
+  "install": "npx -y offsec-mcp"
+}

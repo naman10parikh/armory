@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-pkm",
+  "description": "This MCP server enables Claude to interact with an Obsidian vault for persistent, structured memory, providing tools for note creation, semantic search, graph traversal, and session memory.",
+  "source_repo": "AdrianV101/obsidian-pkm-plugin",
+  "source_url": "https://github.com/AdrianV101/obsidian-pkm-plugin",
+  "install": "# git clone --depth 1 https://github.com/AdrianV101/obsidian-pkm-plugin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claudeskills-mcp-server",
+  "description": "Exposes Anthropic Claude Agent Skills as MCP tools for discovery, search, and reading skill guidance and assets.",
+  "source_repo": "tsoernes/skills-mcp",
+  "source_url": "https://github.com/tsoernes/skills-mcp",
+  "install": "npx -y skills-mcp"
+}

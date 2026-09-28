@@ -1,0 +1,7 @@
+{
+  "name": "ordio-mcp",
+  "description": "MCP server for the Ordio restaurant operations platform, enabling AI assistants to manage inventory, orders, recipes, team, shifts, and reports.",
+  "source_repo": "Abhilashachar/ordio-mcp",
+  "source_url": "https://github.com/Abhilashachar/ordio-mcp",
+  "install": "npx -y ordio-mcp"
+}

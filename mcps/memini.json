@@ -1,0 +1,7 @@
+{
+  "name": "memini",
+  "description": "Local-first project memory for AI coding agents. Records failed attempts, fragile files, and decisions per repo, and warns the agent via hooks before it repeats a recorded mistake.",
+  "source_repo": "lumayapartners/memini",
+  "source_url": "https://github.com/lumayapartners/memini",
+  "install": "# git clone --depth 1 https://github.com/lumayapartners/memini\n# See source for mcpServers config block"
+}

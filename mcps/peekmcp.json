@@ -1,0 +1,7 @@
+{
+  "name": "peekmcp",
+  "description": "Zero-dependency MCP server and CLI for token-efficient inspection of local CSV/JSON/JSONL files, providing schema, samples, and paginated filtered queries to AI agents.",
+  "source_repo": "yulinlina/peekmcp",
+  "source_url": "https://github.com/yulinlina/peekmcp",
+  "install": "# git clone --depth 1 https://github.com/yulinlina/peekmcp\n# See source for mcpServers config block"
+}

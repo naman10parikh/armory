@@ -1,0 +1,7 @@
+{
+  "name": "netlab-mcp",
+  "description": "Wraps ipspace/netlab as an engine to give LLMs access to validated, lab-tested network device configurations instead of hallucinated ones.",
+  "source_repo": "steinzi/netlab-mcp",
+  "source_url": "https://github.com/steinzi/netlab-mcp",
+  "install": "npx -y netlab-mcp"
+}

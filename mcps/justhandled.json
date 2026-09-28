@@ -1,0 +1,7 @@
+{
+  "name": "justhandled",
+  "description": "Enables deterministic preflight utility checks through the JustHandled Agent Gateway, with paid calls on Base mainnet and secure 402 preview before signing.",
+  "source_repo": "justhandledlabs/justhandled-agent-client",
+  "source_url": "https://github.com/justhandledlabs/justhandled-agent-client",
+  "install": "# git clone --depth 1 https://github.com/justhandledlabs/justhandled-agent-client\n# See source for mcpServers config block"
+}

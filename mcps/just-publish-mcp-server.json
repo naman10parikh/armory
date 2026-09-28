@@ -1,0 +1,7 @@
+{
+  "name": "just-publish-mcp-server",
+  "description": "Publish the website you built with AI to a live public URL — straight from chat, no setup. Enables deploying static sites and updating them with edit tokens.",
+  "source_repo": "just-done/just-publish-mcp",
+  "source_url": "https://github.com/just-done/just-publish-mcp",
+  "install": "npx -y just-publish-mcp"
+}

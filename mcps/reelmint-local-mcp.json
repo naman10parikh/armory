@@ -1,0 +1,7 @@
+{
+  "name": "reelmint-local-mcp",
+  "description": "Downloads and analyzes videos from platforms like Instagram, YouTube, and TikTok locally, returning keyframes and optional transcripts.",
+  "source_repo": "HiteshR90/reelmint-local-mcp",
+  "source_url": "https://github.com/HiteshR90/reelmint-local-mcp",
+  "install": "npx -y reelmint-local-mcp"
+}

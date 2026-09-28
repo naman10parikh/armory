@@ -1,0 +1,7 @@
+{
+  "name": "agentpump-mcp-server",
+  "description": "MCP server for the AgentPump agent economy, enabling live market data reads and autonomous agent operations on Solana.",
+  "source_repo": "pact-layer/agentpump-mcp",
+  "source_url": "https://github.com/pact-layer/agentpump-mcp",
+  "install": "npx -y agentpump-mcp"
+}

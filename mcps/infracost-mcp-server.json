@@ -1,0 +1,7 @@
+{
+  "name": "infracost-mcp-server",
+  "description": "An MCP server for running the Infracost CLI to estimate, compare, and publish infrastructure cost changes from Terraform and other IaC projects.",
+  "source_repo": "DownAtTheBottomOfTheMoleHole/infracost-mcp",
+  "source_url": "https://github.com/DownAtTheBottomOfTheMoleHole/infracost-mcp",
+  "install": "npx -y infracost-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openapi-md-mcp",
+  "description": "Enables efficient exploration of OpenAPI specs via markdown, with progressive disclosure of endpoints, schemas, and batch operations to minimize AI context usage.",
+  "source_repo": "YuShenLiu06/openapi-md-mcp",
+  "source_url": "https://github.com/YuShenLiu06/openapi-md-mcp",
+  "install": "npx -y openapi-md-mcp"
+}

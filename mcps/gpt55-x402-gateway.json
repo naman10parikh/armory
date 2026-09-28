@@ -1,0 +1,7 @@
+{
+  "name": "gpt55-x402-gateway",
+  "description": "Provides a read-only MCP gateway and quote-first buyer client for the GPT55 x402 service, enabling service discovery, catalog access, and safe payment quote checking without signing transactions.",
+  "source_repo": "wangletiand/gpt55-x402-gateway",
+  "source_url": "https://github.com/wangletiand/gpt55-x402-gateway",
+  "install": "# git clone --depth 1 https://github.com/wangletiand/gpt55-x402-gateway\n# See source for mcpServers config block"
+}

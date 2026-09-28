@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gemini-deep-research",
+  "description": "MCP server that runs Google Gemini Deep Research using live Chrome session cookies, enabling autonomous web research and cited report generation without an API key.",
+  "source_repo": "vadim-a-yegorov/mcp-gemini-deep-research",
+  "source_url": "https://github.com/vadim-a-yegorov/mcp-gemini-deep-research",
+  "install": "# git clone --depth 1 https://github.com/vadim-a-yegorov/mcp-gemini-deep-research\n# See source for mcpServers config block"
+}

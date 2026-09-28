@@ -1,0 +1,7 @@
+{
+  "name": "agent-comms-mcp",
+  "description": "MCP server for permissioned, structured agent-to-agent communications, enabling agents to coordinate and negotiate through scoped, typed messages with authentication and audit logging.",
+  "source_repo": "redesignhealth/agent-comms-mcp",
+  "source_url": "https://github.com/redesignhealth/agent-comms-mcp",
+  "install": "npx -y agent-comms-mcp"
+}

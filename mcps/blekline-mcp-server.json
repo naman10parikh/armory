@@ -1,0 +1,7 @@
+{
+  "name": "blekline-mcp-server",
+  "description": "Provides AI ingress governance by masking prompts, classifying risk, and enforcing tool policies before agent calls reach model providers or sandboxes.",
+  "source_repo": "Blekline/blekline-oss",
+  "source_url": "https://github.com/Blekline/blekline-oss",
+  "install": "# git clone --depth 1 https://github.com/Blekline/blekline-oss\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "singapore-mcp",
+  "description": "Enables interaction with Singapore public data including datasets, real-time traffic, weather, and geospatial services through MCP.",
+  "source_repo": "olano-ai/mcp-singapore",
+  "source_url": "https://github.com/olano-ai/mcp-singapore",
+  "install": "# git clone --depth 1 https://github.com/olano-ai/mcp-singapore\n# See source for mcpServers config block"
+}

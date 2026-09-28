@@ -1,0 +1,7 @@
+{
+  "name": "mail-tm-mcp-server",
+  "description": "Enables AI assistants to manage temporary email addresses via the mail.tm API, including creating disposable inboxes, reading messages, and managing accounts.",
+  "source_repo": "opastorello/mailtm-mcp-server",
+  "source_url": "https://github.com/opastorello/mailtm-mcp-server",
+  "install": "npx -y mailtm-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mssql-localdb-mcp",
+  "description": "A Rust MCP server for SQL Server Express LocalDB on Windows, enabling AI agents to create and manage LocalDB instances, run T-SQL scripts, and find/attach loose database files.",
+  "source_repo": "HermesSilva/LocalDB-MCP",
+  "source_url": "https://github.com/HermesSilva/LocalDB-MCP",
+  "install": "npx -y LocalDB-MCP"
+}

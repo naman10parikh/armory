@@ -1,0 +1,7 @@
+{
+  "name": "compact-prompt",
+  "description": "This MCP server compacts prompts to save on token usage.",
+  "source_repo": "gtkcyber/compact_prompt",
+  "source_url": "https://github.com/gtkcyber/compact_prompt",
+  "install": "# git clone --depth 1 https://github.com/gtkcyber/compact_prompt\n# See source for mcpServers config block"
+}

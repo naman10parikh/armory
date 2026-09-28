@@ -1,0 +1,7 @@
+{
+  "name": "documind-mcp",
+  "description": "A citation-grounded RAG server for internal documentation that exposes retrieval tools and resources via the Model Context Protocol, enabling any MCP client to search and access organizational knowledge with structured citations.",
+  "source_repo": "pragati243/DocuMind-MCP",
+  "source_url": "https://github.com/pragati243/DocuMind-MCP",
+  "install": "npx -y DocuMind-MCP"
+}

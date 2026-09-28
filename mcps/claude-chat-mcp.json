@@ -1,0 +1,7 @@
+{
+  "name": "claude-chat-mcp",
+  "description": "Connects Claude Desktop to self-hosted enterprise tools such as Confluence, Jira, Bitbucket, Airtable, and databases (MySQL, MariaDB, ClickHouse, Oracle) via MCP.",
+  "source_repo": "huylq98/claude-chat-mcp",
+  "source_url": "https://github.com/huylq98/claude-chat-mcp",
+  "install": "npx -y claude-chat-mcp"
+}

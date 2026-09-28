@@ -1,0 +1,7 @@
+{
+  "name": "codebase-archaeology-mcp",
+  "description": "Enables tracing any line in a local git repository back to the commit that actually introduced it and the PR/review discussion behind it, overcoming git blame's misleading last-touch attribution.",
+  "source_repo": "Joel-Wwalker/codebase-archaeology-mcp",
+  "source_url": "https://github.com/Joel-Wwalker/codebase-archaeology-mcp",
+  "install": "npx -y codebase-archaeology-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codex-memory-intelligence",
+  "description": "A local-first MCP server that gives AI coding agents durable project memory, dependency graphs, and impact analysis to answer team knowledge and cross-file change questions before editing.",
+  "source_repo": "lenhonbp/codex-memory-intelligence",
+  "source_url": "https://github.com/lenhonbp/codex-memory-intelligence",
+  "install": "# git clone --depth 1 https://github.com/lenhonbp/codex-memory-intelligence\n# See source for mcpServers config block"
+}

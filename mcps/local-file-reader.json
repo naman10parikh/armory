@@ -1,0 +1,7 @@
+{
+  "name": "local-file-reader",
+  "description": "Enables safe reading, listing, and text searching of local files within a specified base directory.",
+  "source_repo": "niaproject/mcpserver-sample",
+  "source_url": "https://github.com/niaproject/mcpserver-sample",
+  "install": "# git clone --depth 1 https://github.com/niaproject/mcpserver-sample\n# See source for mcpServers config block"
+}

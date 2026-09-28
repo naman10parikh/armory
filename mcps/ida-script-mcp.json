@@ -1,0 +1,7 @@
+{
+  "name": "ida-script-mcp",
+  "description": "Executes IDAPython scripts in IDA Pro through any MCP-compatible AI assistant, enabling AI-powered binary analysis with full access to IDA's API.",
+  "source_repo": "SuZiXunYue/ida-script-mcp",
+  "source_url": "https://github.com/SuZiXunYue/ida-script-mcp",
+  "install": "npx -y ida-script-mcp"
+}

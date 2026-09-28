@@ -1,0 +1,7 @@
+{
+  "name": "jobs-now-mcp-server",
+  "description": "Enables searching and browsing hidden job market roles with H1B PERM sponsorship from major US companies, including tools for job search, details, categories, and company listings.",
+  "source_repo": "aetheric-tech/jobsnow-mcp",
+  "source_url": "https://github.com/aetheric-tech/jobsnow-mcp",
+  "install": "npx -y jobsnow-mcp"
+}

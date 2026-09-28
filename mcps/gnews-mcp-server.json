@@ -1,0 +1,7 @@
+{
+  "name": "gnews-mcp-server",
+  "description": "MCP server providing access to the GNews API for fetching news articles and headlines. Supports search and top headlines with advanced filtering by language, country, category, and date.",
+  "source_repo": "alejandro-ao/gnews-mcp-server",
+  "source_url": "https://github.com/alejandro-ao/gnews-mcp-server",
+  "install": "npx -y gnews-mcp-server"
+}

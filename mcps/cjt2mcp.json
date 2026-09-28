@@ -1,0 +1,7 @@
+{
+  "name": "cjt2mcp",
+  "description": "Converts Chanjet T+ OpenAPI into MCP endpoints, enabling AI clients to query inventory, archives, and sales/purchase orders from T+ systems.",
+  "source_repo": "hkxiaoyao/cjt2mcp",
+  "source_url": "https://github.com/hkxiaoyao/cjt2mcp",
+  "install": "# git clone --depth 1 https://github.com/hkxiaoyao/cjt2mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sintegra-pb",
+  "description": "Enables querying SINTEGRA PB (Paraíba state tax registration) data from official sources through a read-only MCP tool, with prepaid per-query pricing.",
+  "source_repo": "mcp-dir/sintegra_pb-mcp",
+  "source_url": "https://github.com/mcp-dir/sintegra_pb-mcp",
+  "install": "npx -y sintegra_pb-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-fabric-mcp",
+  "description": "A read-only Model Context Protocol server for Microsoft Fabric, enabling natural language queries to workspaces, lakehouses, tables, jobs, and dependencies.",
+  "source_repo": "Augustab/microsoft_fabric_mcp",
+  "source_url": "https://github.com/Augustab/microsoft_fabric_mcp",
+  "install": "npx -y microsoft_fabric_mcp"
+}

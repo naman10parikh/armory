@@ -1,0 +1,7 @@
+{
+  "name": "eurlex-mcp-server",
+  "description": "Enables searching and retrieving EU legal documents (regulations, directives, court decisions) via the EUR-Lex Cellar API, supporting full-text search, metadata, citations, and consolidated versions without requiring an API key.",
+  "source_repo": "Honeyfield-Org/eurlex-mcp-server",
+  "source_url": "https://github.com/Honeyfield-Org/eurlex-mcp-server",
+  "install": "npx -y eurlex-mcp-server"
+}

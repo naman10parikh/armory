@@ -1,0 +1,7 @@
+{
+  "name": "nblm-mcp",
+  "description": "A multi-account MCP server for NotebookLM that maintains sticky account and notebook per session. It uses the internal RPC to avoid logout issues and adds tools for account switching, notebook selection, and health checks.",
+  "source_repo": "Solar2004/nblm-mcp",
+  "source_url": "https://github.com/Solar2004/nblm-mcp",
+  "install": "npx -y nblm-mcp"
+}

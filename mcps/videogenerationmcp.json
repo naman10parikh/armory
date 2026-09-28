@@ -1,0 +1,7 @@
+{
+  "name": "videogenerationmcp",
+  "description": "An MCP server for video generation using Kling Omni and Seedance 2 via PiAPI, with ElevenLabs voiceovers and Hebrew BVAC lipsync, featuring local validation before API calls.",
+  "source_repo": "AvivK5498/VideoGenerationMCP",
+  "source_url": "https://github.com/AvivK5498/VideoGenerationMCP",
+  "install": "# git clone --depth 1 https://github.com/AvivK5498/VideoGenerationMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bachstudio-teradata-mcp-server",
+  "description": "MCP server for Teradata databases, providing tools and prompts for querying, analyzing, and managing data through AI agents.",
+  "source_repo": "BACH-AI-Tools/bachstudio-teradata-mcp-server",
+  "source_url": "https://github.com/BACH-AI-Tools/bachstudio-teradata-mcp-server",
+  "install": "npx -y bachstudio-teradata-mcp-server"
+}

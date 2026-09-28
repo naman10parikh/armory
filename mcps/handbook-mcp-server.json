@@ -1,0 +1,7 @@
+{
+  "name": "handbook-mcp-server",
+  "description": "Enables full management of handbook entries through the Handbook API, allowing users to list, create, update, delete, and search entries from MCP-compatible clients like Claude Desktop.",
+  "source_repo": "ah-oh/handbook-mcp-server",
+  "source_url": "https://github.com/ah-oh/handbook-mcp-server",
+  "install": "npx -y handbook-mcp-server"
+}

@@ -1,6 +1,6 @@
 {
   "name": "airtable-mcp-config",
-  "description": "Airtable Mcp Config MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "AliMHJR/airtable-mcp-config",
   "source_url": "https://mcp.so/server/airtable-mcp-config/AliMHJR",
   "install": "# git clone --depth 1 https://mcp.so/server/airtable-mcp-config/AliMHJR\n# See source for mcpServers config block"

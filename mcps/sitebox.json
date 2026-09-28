@@ -1,0 +1,7 @@
+{
+  "name": "sitebox",
+  "description": "Enables AI agents to upload, list, read, and delete static web pages via the Model Context Protocol, with REST API and optional authentication and TTL.",
+  "source_repo": "zarguell/sitebox",
+  "source_url": "https://github.com/zarguell/sitebox",
+  "install": "# git clone --depth 1 https://github.com/zarguell/sitebox\n# See source for mcpServers config block"
+}

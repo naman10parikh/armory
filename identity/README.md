@@ -1,4 +1,6 @@
-# identity/ — 4 components (catalog view)
+# identity/: 38 components (catalog view)
+
+**Last updated:** 2026-09-28T01:41:03.689Z (UTC), when `catalog.json` was last generated.
 
 Each `<slug>.md` is a slim install card generated from `brain/components/identity/`.
 

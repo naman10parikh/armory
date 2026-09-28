@@ -1,0 +1,7 @@
+{
+  "name": "research-paper-agent",
+  "description": "A remote MCP server for searching arXiv papers, extracting paper details, and generating structured prompts for LLM agents.",
+  "source_repo": "selinazarzour/mcp-server",
+  "source_url": "https://github.com/selinazarzour/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/selinazarzour/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hw-rag-mcp",
+  "description": "MCP server that indexes a knowledge base into Chroma and provides search tools for retrieving document fragments via vector embeddings.",
+  "source_repo": "schuchev/hw_rag_mcp",
+  "source_url": "https://github.com/schuchev/hw_rag_mcp",
+  "install": "npx -y hw_rag_mcp"
+}

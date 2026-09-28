@@ -1,0 +1,7 @@
+{
+  "name": "express-erp-mcp-server",
+  "description": "Enables AI agents to verify orders in an ERP system through Supabase API, checking order existence and retrieving details.",
+  "source_repo": "futureofworktraining/Express_ERP_MCP",
+  "source_url": "https://github.com/futureofworktraining/Express_ERP_MCP",
+  "install": "npx -y Express_ERP_MCP"
+}

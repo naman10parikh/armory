@@ -1,0 +1,7 @@
+{
+  "name": "gamepick-mcp",
+  "description": "Helps users choose which Steam games to play or buy by analyzing their library, playtime, discounts, and reviews.",
+  "source_repo": "roxasventus/Steam-gamepick_MCP",
+  "source_url": "https://github.com/roxasventus/Steam-gamepick_MCP",
+  "install": "npx -y Steam-gamepick_MCP"
+}

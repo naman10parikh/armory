@@ -1,0 +1,7 @@
+{
+  "name": "aerodrome-swap-mcp-server",
+  "description": "Integrates with the Aerodrome Swap API to enable token swaps, pool information retrieval, price queries, and quote generation via the MCP framework.",
+  "source_repo": "protagolabs/aerodrome-swap-mcp",
+  "source_url": "https://github.com/protagolabs/aerodrome-swap-mcp",
+  "install": "npx -y aerodrome-swap-mcp"
+}

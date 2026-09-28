@@ -1,0 +1,7 @@
+{
+  "name": "tienda-nube-mcp-server",
+  "description": "Integrates with the Tienda Nube/Nuvemshop API to manage products, orders, customers, categories, coupons, and webhooks through MCP tools.",
+  "source_repo": "PedroHSGuimaraes/nuvem-shop-mcp-server",
+  "source_url": "https://github.com/PedroHSGuimaraes/nuvem-shop-mcp-server",
+  "install": "npx -y nuvem-shop-mcp-server"
+}

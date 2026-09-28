@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-ce-certid-o-de-regularidade",
+  "description": "Enables users to query SEFAZ CE regularity certificates (Certidão de Regularidade) from official sources, providing read-only access for tax compliance verification in the state of Ceará, Brazil.",
+  "source_repo": "mcp-dir/sefaz_ce_cert_regulariedade-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_ce_cert_regulariedade-mcp",
+  "install": "npx -y sefaz_ce_cert_regulariedade-mcp"
+}

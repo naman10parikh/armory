@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bigcapital",
+  "description": "Enables interaction with Bigcapital accounting through MCP, providing tools for customers, vendors, invoices, payments, reports, and more via an unofficial API wrapper.",
+  "source_repo": "Reomar/mcp-bigcapital",
+  "source_url": "https://github.com/Reomar/mcp-bigcapital",
+  "install": "# git clone --depth 1 https://github.com/Reomar/mcp-bigcapital\n# See source for mcpServers config block"
+}

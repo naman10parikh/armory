@@ -1,0 +1,7 @@
+{
+  "name": "cpp-coro-graph",
+  "description": "Enables exploring a C++17 coroutine and device-domain call graph through MCP tools, providing symbol search, caller/callee queries, and neighborhood exploration of coroutine-aware codebases.",
+  "source_repo": "ArcherLin13/cpp-coro-graph",
+  "source_url": "https://github.com/ArcherLin13/cpp-coro-graph",
+  "install": "# git clone --depth 1 https://github.com/ArcherLin13/cpp-coro-graph\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kundeavis-mcp",
+  "description": "MCP server that queries Norwegian grocery store flyers (kundeaviser) to help AI agents plan cheap meals based on current offers.",
+  "source_repo": "donadelicc/kundeavis-mcp",
+  "source_url": "https://github.com/donadelicc/kundeavis-mcp",
+  "install": "npx -y kundeavis-mcp"
+}

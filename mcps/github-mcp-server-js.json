@@ -1,0 +1,7 @@
+{
+  "name": "github-mcp-server-js",
+  "description": "A GitHub MCP server enabling repository, issue, and pull request management through natural language, built on octokit.js and the MCP TypeScript SDK.",
+  "source_repo": "wuqunfei/github-mcp-server-js",
+  "source_url": "https://github.com/wuqunfei/github-mcp-server-js",
+  "install": "# git clone --depth 1 https://github.com/wuqunfei/github-mcp-server-js\n# See source for mcpServers config block"
+}

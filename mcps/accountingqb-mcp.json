@@ -1,0 +1,7 @@
+{
+  "name": "accountingqb-mcp",
+  "description": "The AccountingQB-MCP server is a comprehensive QuickBooks Online integration for Claude, offering 108 tools to manage transactions, run reports, and prepare taxes for US and Canada through natural language. It supports sole proprietors and small businesses with features like GST/HST returns, 1099/T4",
+  "source_repo": "RCOLKITT/AccountingQB-MCP",
+  "source_url": "https://github.com/RCOLKITT/AccountingQB-MCP",
+  "install": "npx -y AccountingQB-MCP"
+}

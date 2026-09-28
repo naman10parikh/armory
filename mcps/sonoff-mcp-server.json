@@ -1,0 +1,7 @@
+{
+  "name": "sonoff-mcp-server",
+  "description": "Enables AI agents to control Sonoff smart-home devices through the eWelink Cloud API, with tools for device listing, switching, thermostat control, and sensor data retrieval.",
+  "source_repo": "mrkutin/sonoff-mcp",
+  "source_url": "https://github.com/mrkutin/sonoff-mcp",
+  "install": "npx -y sonoff-mcp"
+}

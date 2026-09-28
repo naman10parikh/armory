@@ -1,0 +1,7 @@
+{
+  "name": "s3-uploader-mcp-server",
+  "description": "Enables file uploads to AWS S3 buckets with automatic MIME type detection.",
+  "source_repo": "artemu78/mcp-server-s3-uploader",
+  "source_url": "https://github.com/artemu78/mcp-server-s3-uploader",
+  "install": "# git clone --depth 1 https://github.com/artemu78/mcp-server-s3-uploader\n# See source for mcpServers config block"
+}

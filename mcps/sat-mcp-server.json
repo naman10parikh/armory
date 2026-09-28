@@ -1,6 +1,6 @@
 {
   "name": "sat-mcp-server",
-  "description": "Sat Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "satellaite/sat-mcp-server",
   "source_url": "https://mcp.so/server/sat-mcp-server/satellaite",
   "install": "npx -y sat-mcp-server"

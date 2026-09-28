@@ -1,0 +1,7 @@
+{
+  "name": "ezyvet-mcp-server",
+  "description": "Enables AI agents to manage veterinary practice data through ezyVet API, including animals, contacts, appointments, consults, invoices, and products.",
+  "source_repo": "NoBanks/ezyvet-mcp",
+  "source_url": "https://github.com/NoBanks/ezyvet-mcp",
+  "install": "npx -y ezyvet-mcp"
+}

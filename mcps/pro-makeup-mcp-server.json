@@ -1,0 +1,7 @@
+{
+  "name": "pro-makeup-mcp-server",
+  "description": "Enables searching and retrieving information about makeup professionals, schools, and shops from the pro.makeup directory with over 214,000 listings across 100+ countries.",
+  "source_repo": "Evergrow-Management-PTE-LTD/pro-makeup-mcp",
+  "source_url": "https://github.com/Evergrow-Management-PTE-LTD/pro-makeup-mcp",
+  "install": "npx -y pro-makeup-mcp"
+}

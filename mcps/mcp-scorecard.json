@@ -1,0 +1,7 @@
+{
+  "name": "mcp-scorecard",
+  "description": "Agent-readiness scorecard for any MCP server: protocol checks, 0-100 score and actionable findings.",
+  "source_repo": "davidmosiah/mcp-scorecard",
+  "source_url": "https://github.com/davidmosiah/mcp-scorecard",
+  "install": "# git clone --depth 1 https://github.com/davidmosiah/mcp-scorecard\n# See source for mcpServers config block"
+}

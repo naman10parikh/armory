@@ -1,0 +1,7 @@
+{
+  "name": "ziplife-navi",
+  "description": "AI assistant for Korean youth and newlyweds navigating rental housing, moving, and government support programs.",
+  "source_repo": "su8729/ziplife-navi-mcp",
+  "source_url": "https://github.com/su8729/ziplife-navi-mcp",
+  "install": "npx -y ziplife-navi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "financial-assistant",
+  "description": "Enables natural language stock price queries, leveraging MCP tools to fetch real-time market data from EODHD and present results through a Gradio interface.",
+  "source_repo": "faiez123tariq/financial-assistant",
+  "source_url": "https://github.com/faiez123tariq/financial-assistant",
+  "install": "# git clone --depth 1 https://github.com/faiez123tariq/financial-assistant\n# See source for mcpServers config block"
+}

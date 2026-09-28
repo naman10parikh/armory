@@ -1,0 +1,7 @@
+{
+  "name": "browser-screenshot-mcp",
+  "description": "Enables local MCP clients to capture screenshots of explicitly shared browser tabs without broad browser permissions. Prioritizes privacy by sharing only user-selected tabs, with automatic screenshot retrieval and no global tab access.",
+  "source_repo": "szichedelic/browser-screenshot-mcp",
+  "source_url": "https://github.com/szichedelic/browser-screenshot-mcp",
+  "install": "npx -y browser-screenshot-mcp"
+}

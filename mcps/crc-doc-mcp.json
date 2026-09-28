@@ -1,0 +1,7 @@
+{
+  "name": "crc-doc-mcp",
+  "description": "An MCP server that provides intelligent access to CRC/OpenShift Local documentation by fetching, caching, and searching official docs.",
+  "source_repo": "praveenkumar/crc-doc-mcp",
+  "source_url": "https://github.com/praveenkumar/crc-doc-mcp",
+  "install": "npx -y crc-doc-mcp"
+}

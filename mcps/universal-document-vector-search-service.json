@@ -1,0 +1,7 @@
+{
+  "name": "universal-document-vector-search-service",
+  "description": "This MCP server provides semantic document search and retrieval, enabling AI assistants to search documents, search categories, and retrieve category hierarchies using the Model Context Protocol.",
+  "source_repo": "PlVld/rag-service",
+  "source_url": "https://github.com/PlVld/rag-service",
+  "install": "# git clone --depth 1 https://github.com/PlVld/rag-service\n# See source for mcpServers config block"
+}

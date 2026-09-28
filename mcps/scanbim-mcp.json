@@ -1,0 +1,7 @@
+{
+  "name": "scanbim-mcp",
+  "description": "An AI hub for AEC that enables upload, conversion, viewing, analysis, and sharing of BIM models via 46 tools across 5 workers, integrating with Autodesk Platform Services.",
+  "source_repo": "ScanBIM-Labs/scanbim-mcp",
+  "source_url": "https://github.com/ScanBIM-Labs/scanbim-mcp",
+  "install": "npx -y scanbim-mcp"
+}

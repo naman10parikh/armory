@@ -1,0 +1,7 @@
+{
+  "name": "indian-broker-mcp-server",
+  "description": "Enables unified read-only portfolio viewing across Indian brokers (Groww, Zerodha, INDmoney) using browser automation, without paid API subscriptions.",
+  "source_repo": "Sparker0i/indian-stock-mcp-agent",
+  "source_url": "https://github.com/Sparker0i/indian-stock-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/Sparker0i/indian-stock-mcp-agent\n# See source for mcpServers config block"
+}

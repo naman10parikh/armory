@@ -1,0 +1,7 @@
+{
+  "name": "media-gen-pro-mcp",
+  "description": "MCP server that generates images via multiple AI models (GPT Image, Gemini, Recraft, Seedream, Grok, Arrow) and returns usable file paths, including editable SVG output.",
+  "source_repo": "fledgeling-co/media-gen-pro-mcp",
+  "source_url": "https://github.com/fledgeling-co/media-gen-pro-mcp",
+  "install": "npx -y media-gen-pro-mcp"
+}

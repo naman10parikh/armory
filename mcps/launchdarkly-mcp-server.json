@@ -1,0 +1,7 @@
+{
+  "name": "launchdarkly-mcp-server",
+  "description": "An MCP server that lets AI assistants manage LaunchDarkly feature flags via natural language.",
+  "source_repo": "helper1234286/launchdarkly-mcp-server",
+  "source_url": "https://github.com/helper1234286/launchdarkly-mcp-server",
+  "install": "npx -y launchdarkly-mcp-server"
+}

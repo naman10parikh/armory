@@ -1,0 +1,7 @@
+{
+  "name": "modootoday-datalab-extension-mcp",
+  "description": "A local MCP server that lets an AI app read your Naver data through your own browser, using the session you are already logged into.",
+  "source_repo": "modootoday/datalab-extension-mcp",
+  "source_url": "https://github.com/modootoday/datalab-extension-mcp",
+  "install": "npx -y datalab-extension-mcp"
+}

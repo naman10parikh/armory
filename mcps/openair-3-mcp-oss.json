@@ -1,0 +1,7 @@
+{
+  "name": "openair-3-mcp-oss",
+  "description": "MCP server wrapping the openair R package for air quality data analysis, enabling time series loading, statistical summaries, and publication-ready plots like polar and calendar plots.",
+  "source_repo": "miguel-escribano/openair-3-mcp-oss",
+  "source_url": "https://github.com/miguel-escribano/openair-3-mcp-oss",
+  "install": "# git clone --depth 1 https://github.com/miguel-escribano/openair-3-mcp-oss\n# See source for mcpServers config block"
+}

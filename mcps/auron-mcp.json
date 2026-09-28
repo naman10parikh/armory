@@ -1,0 +1,7 @@
+{
+  "name": "auron-mcp",
+  "description": "A read-only MCP gateway that enables AI agents to retrieve business data (sales, appointments, clients, inventory, etc.) from the AURON Suite backend with role-based access control, audit logging, and rate limiting.",
+  "source_repo": "alexandevs2309/auron-mcp",
+  "source_url": "https://github.com/alexandevs2309/auron-mcp",
+  "install": "npx -y auron-mcp"
+}

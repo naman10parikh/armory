@@ -1,0 +1,7 @@
+{
+  "name": "baryon-mcp",
+  "description": "Baryon connects MCP-compatible AI assistants to Proton Mail through a local bridge, enabling email search, reading, attachment handling, and draft creation while enforcing deliberate permission limits. It runs locally and cannot send, delete, or modify mail.",
+  "source_repo": "combor/baryon-mcp",
+  "source_url": "https://github.com/combor/baryon-mcp",
+  "install": "npx -y baryon-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "enrow-mcp-server",
+  "description": "Enables AI assistants to find and verify professional emails and phone numbers via the Enrow API.",
+  "source_repo": "EnrowAPI/enrow-mcp",
+  "source_url": "https://github.com/EnrowAPI/enrow-mcp",
+  "install": "npx -y enrow-mcp"
+}

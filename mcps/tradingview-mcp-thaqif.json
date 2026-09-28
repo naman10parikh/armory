@@ -1,0 +1,7 @@
+{
+  "name": "tradingview-mcp-thaqif",
+  "description": "A local MCP server that connects TradingView Desktop to AI assistants via Chrome DevTools Protocol, enabling Pine Script development, multi-timeframe analysis, and Wyckoff scanning with a rules engine.",
+  "source_repo": "TZ24cloud/tradingview-mcp-thaqif",
+  "source_url": "https://github.com/TZ24cloud/tradingview-mcp-thaqif",
+  "install": "# git clone --depth 1 https://github.com/TZ24cloud/tradingview-mcp-thaqif\n# See source for mcpServers config block"
+}

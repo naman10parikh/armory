@@ -1,0 +1,7 @@
+{
+  "name": "line-local-mcp",
+  "description": "A read-only MCP server that lets AI search a user's own LINE Desktop chat history on macOS, providing tools to list chats, retrieve messages, and search conversations directly from the local encrypted database.",
+  "source_repo": "curzer1995-777/line-local-mcp-user-key",
+  "source_url": "https://github.com/curzer1995-777/line-local-mcp-user-key",
+  "install": "# git clone --depth 1 https://github.com/curzer1995-777/line-local-mcp-user-key\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ghantika",
+  "description": "Run commands in the background and get notified when they finish, so your AI agent can proceed without blocking.",
+  "source_repo": "yaanfpv/ghantika",
+  "source_url": "https://github.com/yaanfpv/ghantika",
+  "install": "# git clone --depth 1 https://github.com/yaanfpv/ghantika\n# See source for mcpServers config block"
+}

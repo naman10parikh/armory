@@ -1,0 +1,7 @@
+{
+  "name": "websitescreenshot-online-mcp-server",
+  "description": "Enables AI assistants to capture website screenshots and record videos of web pages by providing tools for taking screenshots, recording videos, and checking video status.",
+  "source_repo": "Website-Screenshot-Online/websitescreenshot-mcp",
+  "source_url": "https://github.com/Website-Screenshot-Online/websitescreenshot-mcp",
+  "install": "npx -y websitescreenshot-mcp"
+}

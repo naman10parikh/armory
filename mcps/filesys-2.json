@@ -1,6 +1,6 @@
 {
   "name": "filesys-2",
-  "description": "Filesys MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "iBz-04/Filesys",
   "source_url": "https://mcp.so/server/Filesys/iBz-04",
   "install": "# git clone --depth 1 https://mcp.so/server/Filesys/iBz-04\n# See source for mcpServers config block"

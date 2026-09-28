@@ -1,0 +1,7 @@
+{
+  "name": "hasura-mcp-server",
+  "description": "Enables read-only interaction with Hasura GraphQL APIs, including table exploration, data preview, and schema introspection.",
+  "source_repo": "suryarajendhran/hasura-mcp-server",
+  "source_url": "https://github.com/suryarajendhran/hasura-mcp-server",
+  "install": "npx -y hasura-mcp-server"
+}

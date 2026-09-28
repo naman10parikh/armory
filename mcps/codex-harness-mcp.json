@@ -1,0 +1,7 @@
+{
+  "name": "codex-harness-mcp",
+  "description": "Enables MCP-compatible AI clients to invoke CLI-driven agent tools over Streamable HTTP, including shell execution, file operations, patching, image viewing, web search, and nested agent tasks, with permission modes and real-time progress streaming.",
+  "source_repo": "2091k/A_Harness_MCP",
+  "source_url": "https://github.com/2091k/A_Harness_MCP",
+  "install": "npx -y A_Harness_MCP"
+}

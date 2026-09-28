@@ -1,0 +1,7 @@
+{
+  "name": "fusion-mcp",
+  "description": "A local stdio MCP server providing read-only access to Oracle Fusion/ERP Cloud databases via the BI Publisher SOAP API, enabling object discovery, table descriptions, source reading, and SELECT queries.",
+  "source_repo": "ramesharavapally/FUSION-MCP",
+  "source_url": "https://github.com/ramesharavapally/FUSION-MCP",
+  "install": "npx -y FUSION-MCP"
+}

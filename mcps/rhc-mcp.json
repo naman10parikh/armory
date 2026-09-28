@@ -1,0 +1,7 @@
+{
+  "name": "rhc-mcp",
+  "description": "Enables AI agents to read Robinhood Chain stock-token positions, quote swaps, and execute swaps through the Model Context Protocol, bridging on-chain assets that Robinhood's own off-chain MCP cannot reach.",
+  "source_repo": "jumpboxtech/rhc-mcp",
+  "source_url": "https://github.com/jumpboxtech/rhc-mcp",
+  "install": "npx -y rhc-mcp"
+}

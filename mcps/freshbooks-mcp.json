@@ -1,0 +1,7 @@
+{
+  "name": "freshbooks-mcp",
+  "description": "MCP server for FreshBooks, providing tools to browse and manage invoices, clients, estimates, payments, expenses, projects, and time entries. Handles OAuth2 authorization and token rotation, enabling Claude to interact with FreshBooks accounting via natural language.",
+  "source_repo": "chrischall/freshbooks-mcp",
+  "source_url": "https://github.com/chrischall/freshbooks-mcp",
+  "install": "npx -y freshbooks-mcp"
+}

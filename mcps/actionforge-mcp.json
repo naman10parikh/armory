@@ -1,0 +1,7 @@
+{
+  "name": "actionforge-mcp",
+  "description": "Bridges ActionForge's hosted function endpoints to any MCP client, letting Claude and others call your generated tools directly.",
+  "source_repo": "PritaS/actionforge-mcp",
+  "source_url": "https://github.com/PritaS/actionforge-mcp",
+  "install": "npx -y actionforge-mcp"
+}

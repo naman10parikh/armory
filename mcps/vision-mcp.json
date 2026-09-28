@@ -1,0 +1,7 @@
+{
+  "name": "vision-mcp",
+  "description": "Helps non-vision models extract and understand images and screenshots via OpenRouter multimodal models.",
+  "source_repo": "forloopcodes/vision-mcp",
+  "source_url": "https://github.com/forloopcodes/vision-mcp",
+  "install": "npx -y vision-mcp"
+}

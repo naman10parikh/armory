@@ -1,0 +1,7 @@
+{
+  "name": "blender-animation-mcp",
+  "description": "Enables multimodal models to drive Blender animation through precise timeline and keyframe tools, import GLB/glTF assets, inspect rigs, and render frames or contact sheets for visual feedback.",
+  "source_repo": "kevindowling/blender_animation_mcp",
+  "source_url": "https://github.com/kevindowling/blender_animation_mcp",
+  "install": "npx -y blender_animation_mcp"
+}

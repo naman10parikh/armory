@@ -1,0 +1,7 @@
+{
+  "name": "productboard-mcp",
+  "description": "Enables AI assistants to interact with your Productboard workspace, allowing features, products, notes, objectives, key results, and releases management.",
+  "source_repo": "Enreign/productboard-mcp",
+  "source_url": "https://github.com/Enreign/productboard-mcp",
+  "install": "npx -y productboard-mcp"
+}

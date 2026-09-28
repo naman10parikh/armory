@@ -1,0 +1,7 @@
+{
+  "name": "jupyter-editor-mcp",
+  "description": "An MCP server for programmatically editing Jupyter notebooks, offering 29 tools for reading, modifying, and batch-processing notebooks without requiring a Jupyter server.",
+  "source_repo": "jsamuel1/jupyter-editor-mcp",
+  "source_url": "https://github.com/jsamuel1/jupyter-editor-mcp",
+  "install": "npx -y jupyter-editor-mcp"
+}

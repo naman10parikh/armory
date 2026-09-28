@@ -1,0 +1,7 @@
+{
+  "name": "fingerprint-mcp-servers",
+  "description": "Provides MCP servers for AI assistants to interact with Fingerprint's Server API for visitor identification events and Management API for workspace configuration.",
+  "source_repo": "JuroUhlar/fingerprint-mcp-server",
+  "source_url": "https://github.com/JuroUhlar/fingerprint-mcp-server",
+  "install": "npx -y fingerprint-mcp-server"
+}

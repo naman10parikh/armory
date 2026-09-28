@@ -1,0 +1,7 @@
+{
+  "name": "gristmill-mcp",
+  "description": "An MCP server that inspects AI-generated code and returns a deterministic list of structural and safety violations, so an AI coding agent can fix its own output before the code lands.",
+  "source_repo": "mattshuttle/gristmill-mcp",
+  "source_url": "https://github.com/mattshuttle/gristmill-mcp",
+  "install": "npx -y gristmill-mcp"
+}

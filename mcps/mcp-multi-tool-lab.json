@@ -1,0 +1,7 @@
+{
+  "name": "mcp-multi-tool-lab",
+  "description": "A lightweight multi-provider MCP testing fixture with two providers (eva_air and uk_railway), each exposing 5 tools using in-memory fake data, designed for verifying MCP client tool discovery, tool calls, and multi-provider routing.",
+  "source_repo": "YuTingChi-Una/mcp-multi-tool-lab",
+  "source_url": "https://github.com/YuTingChi-Una/mcp-multi-tool-lab",
+  "install": "# git clone --depth 1 https://github.com/YuTingChi-Una/mcp-multi-tool-lab\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cogniresearch",
+  "description": "An MCP server for academic research combining local document search with Semantic Scholar API integration.",
+  "source_repo": "marceliogreen/cogniresearch-mcp",
+  "source_url": "https://github.com/marceliogreen/cogniresearch-mcp",
+  "install": "npx -y cogniresearch-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "e-worker-mcp",
+  "description": "A local-first MCP server that handles daily work tasks through your AI assistant: converts meeting notes into todos, manages todo lifecycle, tracks work hours, generates daily/weekly reports, organizes files via move-only operations, and diagnoses dev environments, all guarded by a human-maintained",
+  "source_repo": "albertm88/e-worker-mcp",
+  "source_url": "https://github.com/albertm88/e-worker-mcp",
+  "install": "npx -y e-worker-mcp"
+}

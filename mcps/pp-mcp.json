@@ -1,0 +1,7 @@
+{
+  "name": "pp-mcp",
+  "description": "A read-only MCP server that provides filtered account and portfolio data from Portfolio Performance .portfolio files to generate reports.",
+  "source_repo": "Nokke32/pp-mcp",
+  "source_url": "https://github.com/Nokke32/pp-mcp",
+  "install": "npx -y pp-mcp"
+}

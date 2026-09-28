@@ -1,0 +1,7 @@
+{
+  "name": "webull-au-mcp",
+  "description": "Slim MCP server for Webull Australia, enabling US stock and ETF market data and trading through the official OpenAPI.",
+  "source_repo": "nickp27/webull-au-mcp",
+  "source_url": "https://github.com/nickp27/webull-au-mcp",
+  "install": "npx -y webull-au-mcp"
+}

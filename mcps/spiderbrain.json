@@ -1,0 +1,7 @@
+{
+  "name": "spiderbrain",
+  "description": "Enables AI coding agents to query a repository's committed understanding layer—its structure, dependencies, and blast radius—without any setup. Provides tools like sb_blast, sb_impact, and sb_map for exploring impact and key files.",
+  "source_repo": "aabhisrv/Spiderbrain.ai-Coremind",
+  "source_url": "https://github.com/aabhisrv/Spiderbrain.ai-Coremind",
+  "install": "# git clone --depth 1 https://github.com/aabhisrv/Spiderbrain.ai-Coremind\n# See source for mcpServers config block"
+}

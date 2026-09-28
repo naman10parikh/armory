@@ -1,0 +1,7 @@
+{
+  "name": "tvsub-mcp",
+  "description": "Inspects Apple TV.app playback and lets you load, translate, style, and sync subtitle overlays on macOS, with optional LLM translation via Anthropic, Claude Code, or Codex.",
+  "source_repo": "launzi/tvsub-mcp",
+  "source_url": "https://github.com/launzi/tvsub-mcp",
+  "install": "npx -y tvsub-mcp"
+}

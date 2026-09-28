@@ -1,0 +1,7 @@
+{
+  "name": "employee-leave-manager-mcp",
+  "description": "Enables managing employee leave through natural language, including checking balances, applying for or canceling leave, and viewing history, with data stored in a local SQLite database.",
+  "source_repo": "TharushiDinushika/Employee-Leave-Manager-MCP",
+  "source_url": "https://github.com/TharushiDinushika/Employee-Leave-Manager-MCP",
+  "install": "npx -y Employee-Leave-Manager-MCP"
+}

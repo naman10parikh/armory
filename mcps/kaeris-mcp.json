@@ -1,0 +1,7 @@
+{
+  "name": "kaeris-mcp",
+  "description": "AI localization from your editor — translate an app's string files into 46 languages with placeholder-safe, reproducible output. Eleven formats (JSON, .arb, .po, .strings, Android XML and more), and every translation is read back and checked before it lands.",
+  "source_repo": "RaiGanja/kaeris-mcp",
+  "source_url": "https://github.com/RaiGanja/kaeris-mcp",
+  "install": "npx -y kaeris-mcp"
+}

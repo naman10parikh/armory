@@ -1,0 +1,7 @@
+{
+  "name": "cangjie-knowledge-mcp",
+  "description": "MCP server for Cangjie knowledge retrieval, enabling Java-to-Cangjie translation with API search, class members, examples, Java mappings, and error hints.",
+  "source_repo": "sskacc/cangjie-knowledge-mcp",
+  "source_url": "https://github.com/sskacc/cangjie-knowledge-mcp",
+  "install": "npx -y cangjie-knowledge-mcp"
+}

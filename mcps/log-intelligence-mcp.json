@@ -1,0 +1,7 @@
+{
+  "name": "log-intelligence-mcp",
+  "description": "MCP server for semantic log ingestion, hybrid retrieval, and cleanup, enabling natural-language querying of log files with dense+BM25 retrieval and full provenance.",
+  "source_repo": "anands-bounteous/log-intelligence-mcp",
+  "source_url": "https://github.com/anands-bounteous/log-intelligence-mcp",
+  "install": "npx -y log-intelligence-mcp"
+}

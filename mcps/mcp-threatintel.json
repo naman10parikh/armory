@@ -1,0 +1,7 @@
+{
+  "name": "mcp-threatintel",
+  "description": "A threat intelligence MCP server for Claude Code that enables lookup of IOCs, threat feeds, breached credentials, CVEs, and dark web data.",
+  "source_repo": "pete-builds/mcp-threatintel",
+  "source_url": "https://github.com/pete-builds/mcp-threatintel",
+  "install": "# git clone --depth 1 https://github.com/pete-builds/mcp-threatintel\n# See source for mcpServers config block"
+}

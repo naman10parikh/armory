@@ -1,0 +1,7 @@
+{
+  "name": "orca-drive",
+  "description": "Enables interacting with Google Drive folders through an MCP server, allowing listing, searching, and reading files using tools like list_files, search_files, get_file, and read_file.",
+  "source_repo": "saydurrahman-ORCA/orca-drive-mcp",
+  "source_url": "https://github.com/saydurrahman-ORCA/orca-drive-mcp",
+  "install": "npx -y orca-drive-mcp"
+}

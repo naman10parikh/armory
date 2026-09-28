@@ -1,0 +1,7 @@
+{
+  "name": "mcp-suite-crm",
+  "description": "Enables AI agents to interact with a CRM covering companies, people, leads, deals, and more, with role checks, scoped agent keys, approval gates, and a shared audit trail.",
+  "source_repo": "rehanhaider/mcpsuite",
+  "source_url": "https://github.com/rehanhaider/mcpsuite",
+  "install": "# git clone --depth 1 https://github.com/rehanhaider/mcpsuite\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sap-mcp-command-center",
+  "description": "Enables querying three synthetic SAP systems (ERP, S/4HANA, BW) for master data, transactions, and analytics via natural language or MCP tools, with a live dashboard.",
+  "source_repo": "Onandthegr8/sap-mcp-command-center",
+  "source_url": "https://github.com/Onandthegr8/sap-mcp-command-center",
+  "install": "# git clone --depth 1 https://github.com/Onandthegr8/sap-mcp-command-center\n# See source for mcpServers config block"
+}

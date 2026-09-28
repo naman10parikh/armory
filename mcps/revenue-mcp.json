@@ -1,0 +1,7 @@
+{
+  "name": "revenue-mcp",
+  "description": "Enables querying MRR, churn, and revenue from Stripe, Gumroad, and Lemon Squeezy directly inside Claude, allowing natural language questions about business metrics.",
+  "source_repo": "warfare-hub/revenue-mcp",
+  "source_url": "https://github.com/warfare-hub/revenue-mcp",
+  "install": "npx -y revenue-mcp"
+}

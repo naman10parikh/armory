@@ -1,0 +1,7 @@
+{
+  "name": "myopic",
+  "description": "myopic is a code-review MCP server that reviews GitLab/GitHub merge requests against the whole codebase, not just the diff, analyzing blast radius and conventions.",
+  "source_repo": "SurajKGoyal/myopic",
+  "source_url": "https://github.com/SurajKGoyal/myopic",
+  "install": "# git clone --depth 1 https://github.com/SurajKGoyal/myopic\n# See source for mcpServers config block"
+}

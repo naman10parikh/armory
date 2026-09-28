@@ -1,0 +1,7 @@
+{
+  "name": "swt3-mcp",
+  "description": "Cryptographic AI governance and audit. 18 tools, 28 frameworks. EU AI Act, NIST AI RMF, OWASP Agentic Top 10, CMMC, SR 11-7, ISO 42001. Tool policy gates, trust mesh, inference attestation, audit sessions. Zero-config demo mode.",
+  "source_repo": "tenova-labs/swt3-ai",
+  "source_url": "https://github.com/tenova-labs/swt3-ai",
+  "install": "# git clone --depth 1 https://github.com/tenova-labs/swt3-ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hytalemodding-dev-mcp-server",
+  "description": "Provides AI tools with access to HytaleModding.dev documentation through search and page retrieval, enabling modding assistance in natural language.",
+  "source_repo": "jmrapp1/HytaleModding.dev-MCP-Server",
+  "source_url": "https://github.com/jmrapp1/HytaleModding.dev-MCP-Server",
+  "install": "npx -y HytaleModding.dev-MCP-Server"
+}

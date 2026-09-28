@@ -1,0 +1,7 @@
+{
+  "name": "kci-mcp-server",
+  "description": "Enables querying the Korea Citation Index (KCI) Open API to search reference lists, retrieve journal citation indices, and view citation detail history for Korean academic journals.",
+  "source_repo": "iapke486-arch/mcp-server",
+  "source_url": "https://github.com/iapke486-arch/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/iapke486-arch/mcp-server\n# See source for mcpServers config block"
+}

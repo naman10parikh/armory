@@ -1,0 +1,7 @@
+{
+  "name": "cadgang",
+  "description": "Block-based implicit modeling CAD with a REST API, WebSocket updates, and an MCP server that enables Claude Code to build models, inspect geometry, render previews, and export STLs.",
+  "source_repo": "cheewee2000/cadgang",
+  "source_url": "https://github.com/cheewee2000/cadgang",
+  "install": "# git clone --depth 1 https://github.com/cheewee2000/cadgang\n# See source for mcpServers config block"
+}

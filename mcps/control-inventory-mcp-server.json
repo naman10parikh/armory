@@ -1,0 +1,7 @@
+{
+  "name": "control-inventory-mcp-server",
+  "description": "Provides search, detail lookup, and gap listing tools for a security control inventory, enabling natural language queries about control status and gaps.",
+  "source_repo": "MiguelAngelHorta/Control-Inventory-MCP-Server",
+  "source_url": "https://github.com/MiguelAngelHorta/Control-Inventory-MCP-Server",
+  "install": "npx -y Control-Inventory-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "logic-analyzer-mcp",
+  "description": "AI-driven USB logic analyzer control via FastMCP. Captures digital traces, decodes UART/I2C/SPI, and exports VCD for PulseView, supporting sigrok hardware and built-in simulator.",
+  "source_repo": "sandraschi/logic-analyzer-mcp",
+  "source_url": "https://github.com/sandraschi/logic-analyzer-mcp",
+  "install": "npx -y logic-analyzer-mcp"
+}

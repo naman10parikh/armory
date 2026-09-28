@@ -1,0 +1,7 @@
+{
+  "name": "clinicaltrials-gov-mcp-server",
+  "description": "Enables AI assistants to search and retrieve clinical trial data from ClinicalTrials.gov, supporting filters, study details, metadata, and statistics.",
+  "source_repo": "davidfromkansas/clinical_trials_mcp_server",
+  "source_url": "https://github.com/davidfromkansas/clinical_trials_mcp_server",
+  "install": "npx -y clinical_trials_mcp_server"
+}

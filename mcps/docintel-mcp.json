@@ -1,0 +1,7 @@
+{
+  "name": "docintel-mcp",
+  "description": "A document intelligence MCP server that extracts text and structured fields from business documents, routes low-confidence extractions to a human review queue, and enables searching across processed documents.",
+  "source_repo": "reshma449/docintel-mcp",
+  "source_url": "https://github.com/reshma449/docintel-mcp",
+  "install": "npx -y docintel-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-travelcode",
+  "description": "Enables AI assistants to search flights and hotels, manage bookings, check flight status, and access delay statistics through the TravelCode corporate travel API, all via natural language conversations.",
+  "source_repo": "Travel-Code-Inc/mcp-travelcode",
+  "source_url": "https://github.com/Travel-Code-Inc/mcp-travelcode",
+  "install": "# git clone --depth 1 https://github.com/Travel-Code-Inc/mcp-travelcode\n# See source for mcpServers config block"
+}

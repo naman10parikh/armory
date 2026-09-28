@@ -1,0 +1,7 @@
+{
+  "name": "markettrace-agent-feed",
+  "description": "Read-only crypto perps microstructure for AI agents: normalized cross-exchange market state (funding + multi-year percentile, OI, volume, CVD, order-book imbalance, liquidations, basis), OHLCV, 15-min state history, and measured conditional outcomes (historical base rates, not predictions) — 6 asset",
+  "source_repo": "MarketTrace/markettrace-agent-feed",
+  "source_url": "https://github.com/MarketTrace/markettrace-agent-feed",
+  "install": "# git clone --depth 1 https://github.com/MarketTrace/markettrace-agent-feed\n# See source for mcpServers config block"
+}

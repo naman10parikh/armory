@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cn-commerce",
+  "description": "A suite of MCP servers that give AI agents read-only access to Chinese e-commerce platform business data, including advertising, orders, products, and more from platforms like Douyin, JD.com, Taobao, etc.",
+  "source_repo": "TonyWang-hub/mcp-cn-commerce",
+  "source_url": "https://github.com/TonyWang-hub/mcp-cn-commerce",
+  "install": "# git clone --depth 1 https://github.com/TonyWang-hub/mcp-cn-commerce\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gqai-law-mcp",
+  "description": "Remote MCP server for querying Korean statutes, precedents, administrative rules, and local ordinances via the National Law Information Center API without requiring user API keys. It includes caching, global rate limiting, and deployment on Vercel.",
+  "source_repo": "yongkyu4803/gqai-law-mcp",
+  "source_url": "https://github.com/yongkyu4803/gqai-law-mcp",
+  "install": "npx -y gqai-law-mcp"
+}

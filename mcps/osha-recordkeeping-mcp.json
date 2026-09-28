@@ -1,0 +1,7 @@
+{
+  "name": "osha-recordkeeping-mcp",
+  "description": "Enables deterministic evaluation of workplace injury recordability under 29 CFR Part 1904, using 11 typed triage tools to return cited determinations for OSHA log entries.",
+  "source_repo": "srhtdmrkl/osha-recordkeeping-mcp",
+  "source_url": "https://github.com/srhtdmrkl/osha-recordkeeping-mcp",
+  "install": "npx -y osha-recordkeeping-mcp"
+}

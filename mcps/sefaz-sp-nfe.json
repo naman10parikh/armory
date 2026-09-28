@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-sp-nfe",
+  "description": "Enables querying official São Paulo state electronic invoices (NFE) data from SEFAZ SP via a read-only MCP server, using prepaid credits and no platform credentials.",
+  "source_repo": "mcp-dir/sefaz_sp_nfe-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_sp_nfe-mcp",
+  "install": "npx -y sefaz_sp_nfe-mcp"
+}

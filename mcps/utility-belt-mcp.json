@@ -1,0 +1,7 @@
+{
+  "name": "utility-belt-mcp",
+  "description": "Provides deterministic, stateless tools for common data work including JSON, CSV, text, encoding, hashing, IDs, date/time, and number statistics.",
+  "source_repo": "appoloncel283-debug/utility-belt-mcp",
+  "source_url": "https://github.com/appoloncel283-debug/utility-belt-mcp",
+  "install": "npx -y utility-belt-mcp"
+}

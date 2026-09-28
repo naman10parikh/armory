@@ -1,0 +1,7 @@
+{
+  "name": "weather-israel-mcp-server",
+  "description": "Enables users to query weather forecasts for Israeli cities through natural language using browser automation and Gemini.",
+  "source_repo": "yael3222664-alt/MCP",
+  "source_url": "https://github.com/yael3222664-alt/MCP",
+  "install": "# git clone --depth 1 https://github.com/yael3222664-alt/MCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "netcoredbg-mcp",
+  "description": "Enables AI coding agents to debug .NET applications with breakpoints, stepping, variable inspection, and GUI automation for WPF, WinForms, and Avalonia apps.",
+  "source_repo": "thebtf/netcoredbg-mcp",
+  "source_url": "https://github.com/thebtf/netcoredbg-mcp",
+  "install": "npx -y netcoredbg-mcp"
+}

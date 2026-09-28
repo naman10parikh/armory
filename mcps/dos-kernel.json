@@ -1,0 +1,7 @@
+{
+  "name": "dos-kernel",
+  "description": "The kernel that doesn't believe the agents — a domain-free trust substrate for fleets of autonomous agents: verify what shipped, arbitrate collisions, refuse with structured reasons.",
+  "source_repo": "anthony-chaudhary/dos-kernel",
+  "source_url": "https://github.com/anthony-chaudhary/dos-kernel",
+  "install": "# git clone --depth 1 https://github.com/anthony-chaudhary/dos-kernel\n# See source for mcpServers config block"
+}

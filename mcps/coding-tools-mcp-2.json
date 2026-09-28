@@ -1,0 +1,7 @@
+{
+  "name": "coding-tools-mcp-2",
+  "description": "Enables AI agents to develop within a local project workspace by reading and modifying files, running commands and tests, checking Git state, and persisting progress as history sessions that can be restored in later conversations.",
+  "source_repo": "R-HUA/coding-mcp",
+  "source_url": "https://github.com/R-HUA/coding-mcp",
+  "install": "npx -y coding-mcp"
+}

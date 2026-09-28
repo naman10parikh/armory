@@ -1,0 +1,7 @@
+{
+  "name": "mongodb-mcp-server-for-vercel",
+  "description": "A read-only MongoDB MCP server designed for serverless deployment on Vercel, providing secure, limited access to MongoDB databases for AI assistants.",
+  "source_repo": "guillermolg00/mongodb-mcp-vercel",
+  "source_url": "https://github.com/guillermolg00/mongodb-mcp-vercel",
+  "install": "# git clone --depth 1 https://github.com/guillermolg00/mongodb-mcp-vercel\n# See source for mcpServers config block"
+}

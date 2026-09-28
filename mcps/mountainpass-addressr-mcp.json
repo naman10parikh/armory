@@ -1,0 +1,7 @@
+{
+  "name": "mountainpass-addressr-mcp",
+  "description": "MCP server for Australian address search and validation powered by Addressr.",
+  "source_repo": "mountain-pass/addressr-mcp",
+  "source_url": "https://github.com/mountain-pass/addressr-mcp",
+  "install": "npx -y addressr-mcp"
+}

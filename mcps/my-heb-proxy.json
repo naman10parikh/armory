@@ -1,0 +1,7 @@
+{
+  "name": "my-heb-proxy",
+  "description": "Provides tools for LLMs to search H-E-B stores, coupons, products, and weekly ads using reversed-engineered APIs.",
+  "source_repo": "ALLMarvelous/my-heb-proxy",
+  "source_url": "https://github.com/ALLMarvelous/my-heb-proxy",
+  "install": "# git clone --depth 1 https://github.com/ALLMarvelous/my-heb-proxy\n# See source for mcpServers config block"
+}

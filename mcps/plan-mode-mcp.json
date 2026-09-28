@@ -1,0 +1,7 @@
+{
+  "name": "plan-mode-mcp",
+  "description": "Cross-platform MCP server providing Claude Code-style plan mode via four tools (enter_plan_mode, get_plan_mode_standards, todo_write, exit_plan_mode) with soft guidance through SKILL.md.",
+  "source_repo": "billy12151/plan-mode-mcp",
+  "source_url": "https://github.com/billy12151/plan-mode-mcp",
+  "install": "npx -y plan-mode-mcp"
+}

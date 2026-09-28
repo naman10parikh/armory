@@ -1,0 +1,7 @@
+{
+  "name": "infomaniak-contact-mcp-server",
+  "description": "MCP server for the Infomaniak Contacts API, enabling listing and searching contacts across address books.",
+  "source_repo": "Infomaniak/mcp-server-contact",
+  "source_url": "https://github.com/Infomaniak/mcp-server-contact",
+  "install": "# git clone --depth 1 https://github.com/Infomaniak/mcp-server-contact\n# See source for mcpServers config block"
+}

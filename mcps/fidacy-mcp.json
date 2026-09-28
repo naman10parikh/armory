@@ -1,0 +1,7 @@
+{
+  "name": "fidacy-mcp",
+  "description": "Payment firewall for AI agents: a signed, independently verifiable verdict on every money-moving action. Blocks wrong/lookalike payee, over-cap, and duplicate-invoice (BEC) fraud before money moves — anyone can verify a verdict against the public JWKS. Free, local-first, non-custodial.",
+  "source_repo": "lucaslubi/fidacy-mcp",
+  "source_url": "https://github.com/lucaslubi/fidacy-mcp",
+  "install": "npx -y fidacy-mcp"
+}

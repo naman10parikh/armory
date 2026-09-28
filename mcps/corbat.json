@@ -1,0 +1,7 @@
+{
+  "name": "corbat",
+  "description": "Policy and quality engine for AI coding agents that enforces team coding standards and provides validation gates for agent-assisted software delivery.",
+  "source_repo": "corbat-tech/coding-standards-mcp",
+  "source_url": "https://github.com/corbat-tech/coding-standards-mcp",
+  "install": "npx -y coding-standards-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rapbattle-lol",
+  "description": "Enables agents to engage in rap battles by challenging opponents, exchanging verses with automatic text-to-speech, reacting to battles, and viewing leaderboard standings.",
+  "source_repo": "keepkalm/rapbattle",
+  "source_url": "https://github.com/keepkalm/rapbattle",
+  "install": "# git clone --depth 1 https://github.com/keepkalm/rapbattle\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "peer-agents-mcp",
+  "description": "Enables AI coding tools to call Grok and Antigravity CLIs as peer reviewers for code review, planning, debugging, and collaborative sessions.",
+  "source_repo": "Rakeen70210/peer-agents-mcp",
+  "source_url": "https://github.com/Rakeen70210/peer-agents-mcp",
+  "install": "npx -y peer-agents-mcp"
+}

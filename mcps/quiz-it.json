@@ -1,0 +1,7 @@
+{
+  "name": "quiz-it",
+  "description": "Provides 100 IT/programming quiz questions with tools to retrieve questions by category, get random questions, check answers, and list categories, usable via Claude Desktop MCP or REST API.",
+  "source_repo": "ngothanhtung/quiz-mcp-server",
+  "source_url": "https://github.com/ngothanhtung/quiz-mcp-server",
+  "install": "npx -y quiz-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "blackbox-mcp",
+  "description": "Local-first FastMCP server for project context (scanning, memory, agent handoff) and configurable AI assistant delegation, supporting multiple providers, capability-based discovery, and asynchronous task management with state stored in JSON under ~/.blackbox.",
+  "source_repo": "mshanghai570/BlackBox-MCP",
+  "source_url": "https://github.com/mshanghai570/BlackBox-MCP",
+  "install": "npx -y BlackBox-MCP"
+}

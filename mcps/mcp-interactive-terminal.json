@@ -1,0 +1,7 @@
+{
+  "name": "mcp-interactive-terminal",
+  "description": "MCP server that gives AI agents real interactive terminal sessions for running REPLs, SSH, database clients, and any interactive CLI with clean text output and smart completion detection.",
+  "source_repo": "amol21p/mcp-interactive-terminal",
+  "source_url": "https://github.com/amol21p/mcp-interactive-terminal",
+  "install": "# git clone --depth 1 https://github.com/amol21p/mcp-interactive-terminal\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "census-trade-mcp-server",
+  "description": "An MCP server for the U.S. Census Bureau's International Trade Data API, enabling queries of monthly export and import statistics by HS, NAICS, end-use, and other classifications, with tools for trade balance, top partners, and country code lookup.",
+  "source_repo": "jslagle9/uscensus-intl-trade-api-mcp",
+  "source_url": "https://github.com/jslagle9/uscensus-intl-trade-api-mcp",
+  "install": "npx -y uscensus-intl-trade-api-mcp"
+}

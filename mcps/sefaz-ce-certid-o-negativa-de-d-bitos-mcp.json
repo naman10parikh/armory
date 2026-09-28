@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-ce-certid-o-negativa-de-d-bitos-mcp",
+  "description": "Enables querying SEFAZ Ceará tax clearance certificates (Certidão Negativa de Débitos) from official sources, read-only.",
+  "source_repo": "mcp-dir/sefaz_ce_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_ce_certidao_debitos-mcp",
+  "install": "npx -y sefaz_ce_certidao_debitos-mcp"
+}

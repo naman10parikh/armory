@@ -1,0 +1,7 @@
+{
+  "name": "oeil-atelier-mcp",
+  "description": "Serveur MCP exposant 4 ESP32-CAM d'atelier à Claude Code, permettant de lister les caméras, prendre des photos, consulter le statut technique et contrôler les LEDs flash.",
+  "source_repo": "SierraCharlie56/oeil-atelier-mcp",
+  "source_url": "https://github.com/SierraCharlie56/oeil-atelier-mcp",
+  "install": "npx -y oeil-atelier-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ads",
+  "description": "Enables running marketing platforms like Google Ads, Meta Ads, GA4, Search Console, Tag Manager, and WordPress from any MCP client to read performance, audit wasted spend, build reports, and launch campaigns (created paused until you say otherwise).",
+  "source_repo": "RoyAzran/mcp-ads",
+  "source_url": "https://github.com/RoyAzran/mcp-ads",
+  "install": "# git clone --depth 1 https://github.com/RoyAzran/mcp-ads\n# See source for mcpServers config block"
+}

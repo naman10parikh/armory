@@ -1,0 +1,7 @@
+{
+  "name": "tossinvest-openapi-mcp",
+  "description": "MCP server for exploring and integrating Toss Securities Open API, providing tools to browse endpoints, schemas, and generate code samples.",
+  "source_repo": "JeongSeongMok/tossinvest-openapi-mcp",
+  "source_url": "https://github.com/JeongSeongMok/tossinvest-openapi-mcp",
+  "install": "npx -y tossinvest-openapi-mcp"
+}

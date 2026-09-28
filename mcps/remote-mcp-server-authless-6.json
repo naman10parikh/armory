@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-server-authless-6",
+  "description": "Deploy a remote MCP server on Cloudflare Workers without authentication, enabling connection from AI Playground and Claude Desktop.",
+  "source_repo": "danescobargon/remote-mcp-server-authless",
+  "source_url": "https://github.com/danescobargon/remote-mcp-server-authless",
+  "install": "# git clone --depth 1 https://github.com/danescobargon/remote-mcp-server-authless\n# See source for mcpServers config block"
+}

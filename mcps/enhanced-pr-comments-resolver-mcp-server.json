@@ -1,0 +1,7 @@
+{
+  "name": "enhanced-pr-comments-resolver-mcp-server",
+  "description": "Fetches GitHub PR comments and intelligently applies fixes directly in workspace files, supporting automatic issue resolution with smart pattern recognition.",
+  "source_repo": "abhinandanmishra1/pr-comments-resolver-mcp",
+  "source_url": "https://github.com/abhinandanmishra1/pr-comments-resolver-mcp",
+  "install": "npx -y pr-comments-resolver-mcp"
+}

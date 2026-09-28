@@ -1,0 +1,7 @@
+{
+  "name": "meok-w3c-tdm-rights-mcp",
+  "description": "An MCP server for issuing and scanning TDM reservation signals (HTTP, HTML, robots.txt, C2PA) and signing training-run liability shields to ensure EU AI Act compliance.",
+  "source_repo": "CSOAI-ORG/meok-w3c-tdm-rights-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-w3c-tdm-rights-mcp",
+  "install": "npx -y meok-w3c-tdm-rights-mcp"
+}

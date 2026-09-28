@@ -1,0 +1,7 @@
+{
+  "name": "twothumbs-mcp",
+  "description": "Verifies AI agent actions by exercising public web surfaces and returning evidence-based pass/fail verdicts on real outcomes, rather than trusting self-reported success messages.",
+  "source_repo": "asselwan/twothumbs-mcp",
+  "source_url": "https://github.com/asselwan/twothumbs-mcp",
+  "install": "npx -y twothumbs-mcp"
+}

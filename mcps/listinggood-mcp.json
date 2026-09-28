@@ -1,0 +1,7 @@
+{
+  "name": "listinggood-mcp",
+  "description": "A remote MCP server for Amazon sellers to scan, generate, and optimize product listings for AI-recommendation readiness and compliance.",
+  "source_repo": "ryanyang828/listinggood-skills",
+  "source_url": "https://github.com/ryanyang828/listinggood-skills",
+  "install": "# git clone --depth 1 https://github.com/ryanyang828/listinggood-skills\n# See source for mcpServers config block"
+}

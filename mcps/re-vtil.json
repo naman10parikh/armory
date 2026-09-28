@@ -1,0 +1,7 @@
+{
+  "name": "re-vtil",
+  "description": "Lifts machine code to VTIL intermediate language and emits pseudo-C for VM handler characterization. Complements concrete execution tools with static IL analysis.",
+  "source_repo": "Heretek-RE/re-vtil",
+  "source_url": "https://github.com/Heretek-RE/re-vtil",
+  "install": "# git clone --depth 1 https://github.com/Heretek-RE/re-vtil\n# See source for mcpServers config block"
+}

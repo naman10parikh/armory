@@ -1,0 +1,7 @@
+{
+  "name": "runningknowledgebase",
+  "description": "A fully local MCP server that imports Markdown, PDF, and web pages into a running knowledge base, providing hybrid search and document retrieval via authenticated Streamable HTTP for Codex and DeepSeek agents.",
+  "source_repo": "1556053950/RunningKnowledgeBase",
+  "source_url": "https://github.com/1556053950/RunningKnowledgeBase",
+  "install": "# git clone --depth 1 https://github.com/1556053950/RunningKnowledgeBase\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "homelab-mcp-server",
+  "description": "Extensible MCP server for managing a homelab from Claude AI, enabling control of VMs, snapshots, services, and files via natural language.",
+  "source_repo": "faton5/homelab-mcp-server",
+  "source_url": "https://github.com/faton5/homelab-mcp-server",
+  "install": "npx -y homelab-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cooper-cyber-coffee-opencti-mcp-server",
+  "description": "This MCP server connects Claude Desktop to OpenCTI for AI-augmented threat intelligence analysis, enabling natural language queries and instant, contextualized answers from your threat intelligence database.",
+  "source_repo": "CooperCyberCoffee/opencti_mcp_server",
+  "source_url": "https://github.com/CooperCyberCoffee/opencti_mcp_server",
+  "install": "npx -y opencti_mcp_server"
+}

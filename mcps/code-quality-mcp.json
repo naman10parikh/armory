@@ -1,0 +1,7 @@
+{
+  "name": "code-quality-mcp",
+  "description": "Provides deterministic Python code quality analysis using flake8, mypy, McCabe, and vulture, enabling LLMs to access real linting and type checking results.",
+  "source_repo": "Javier-Morenosa/code-quality-mcp",
+  "source_url": "https://github.com/Javier-Morenosa/code-quality-mcp",
+  "install": "npx -y code-quality-mcp"
+}

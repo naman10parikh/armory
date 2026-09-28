@@ -1,0 +1,7 @@
+{
+  "name": "labelbridge-mcp",
+  "description": "This MCP server enables human-in-the-loop semantic labeling by creating self-contained HTML forms for ambiguous data and securely retrieving labeled results.",
+  "source_repo": "studyreadbook4ever/labelbridge-mcp",
+  "source_url": "https://github.com/studyreadbook4ever/labelbridge-mcp",
+  "install": "npx -y labelbridge-mcp"
+}

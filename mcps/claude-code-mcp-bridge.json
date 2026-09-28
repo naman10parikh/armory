@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-mcp-bridge",
+  "description": "A transparent message ferry between Claude Desktop and Claude Code CLI, enabling task delegation with any MCP configuration without the bridge needing to know about specific MCPs.",
+  "source_repo": "MagicTurtle-s/claude-code-mcp-bridge",
+  "source_url": "https://github.com/MagicTurtle-s/claude-code-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/MagicTurtle-s/claude-code-mcp-bridge\n# See source for mcpServers config block"
+}

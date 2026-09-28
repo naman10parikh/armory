@@ -1,0 +1,7 @@
+{
+  "name": "intacct-docs",
+  "description": "Enables AI assistants to search, browse, and generate example payloads from Sage Intacct REST API documentation using OpenAPI specs.",
+  "source_repo": "RowelLewis/mcp-intacct-docs",
+  "source_url": "https://github.com/RowelLewis/mcp-intacct-docs",
+  "install": "# git clone --depth 1 https://github.com/RowelLewis/mcp-intacct-docs\n# See source for mcpServers config block"
+}

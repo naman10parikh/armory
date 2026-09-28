@@ -1,0 +1,7 @@
+{
+  "name": "archivist-mcp",
+  "description": "A self-hosted MCP server that provides Claude with a git-versioned document vault, featuring dataset-based access control with keys, OAuth authentication via GitHub, and automatic commits on every write.",
+  "source_repo": "alcor6502/archivist-mcp",
+  "source_url": "https://github.com/alcor6502/archivist-mcp",
+  "install": "npx -y archivist-mcp"
+}

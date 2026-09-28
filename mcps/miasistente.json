@@ -1,0 +1,7 @@
+{
+  "name": "miasistente",
+  "description": "A FastMCP server that provides mathematical tools (addition, multiplication, temperature conversion) for Claude to execute via natural language.",
+  "source_repo": "CarlosMaroRuiz/MCP_SENCILLO",
+  "source_url": "https://github.com/CarlosMaroRuiz/MCP_SENCILLO",
+  "install": "# git clone --depth 1 https://github.com/CarlosMaroRuiz/MCP_SENCILLO\n# See source for mcpServers config block"
+}

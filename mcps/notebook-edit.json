@@ -1,0 +1,7 @@
+{
+  "name": "notebook-edit",
+  "description": "MCP server for structural editing of Jupyter notebook cells (list, read, insert, edit, patch, delete, move) without kernel execution.",
+  "source_repo": "tmlksu/nbedit-mcp",
+  "source_url": "https://github.com/tmlksu/nbedit-mcp",
+  "install": "npx -y nbedit-mcp"
+}

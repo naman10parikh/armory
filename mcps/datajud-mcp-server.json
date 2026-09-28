@@ -1,0 +1,7 @@
+{
+  "name": "datajud-mcp-server",
+  "description": "MCP server for querying Brazil's CNJ DataJud public API. Enables validating CNJ process numbers, searching lawsuits by number, and listing courts.",
+  "source_repo": "innovtech-developers/datajud-mcp-server",
+  "source_url": "https://github.com/innovtech-developers/datajud-mcp-server",
+  "install": "npx -y datajud-mcp-server"
+}

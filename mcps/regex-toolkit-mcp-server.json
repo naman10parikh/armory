@@ -1,0 +1,7 @@
+{
+  "name": "regex-toolkit-mcp-server",
+  "description": "Enables LLM agents to extract, validate, and mask personally identifiable information using deterministic regular expressions, reducing token usage and hallucination risks.",
+  "source_repo": "vinkius-labs/regex-toolkit-mcp",
+  "source_url": "https://github.com/vinkius-labs/regex-toolkit-mcp",
+  "install": "npx -y regex-toolkit-mcp"
+}

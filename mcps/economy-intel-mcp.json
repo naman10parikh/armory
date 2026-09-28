@@ -1,0 +1,7 @@
+{
+  "name": "economy-intel-mcp",
+  "description": "Provides macroeconomic data (GDP, inflation, unemployment, trade) for any country via MCP tools, sourced from World Bank and US BLS, no API keys required.",
+  "source_repo": "datakoot/economy-intel-mcp",
+  "source_url": "https://github.com/datakoot/economy-intel-mcp",
+  "install": "npx -y economy-intel-mcp"
+}

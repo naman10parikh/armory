@@ -1,0 +1,7 @@
+{
+  "name": "adobe-extensibility-mcp",
+  "description": "This MCP server provides AI coding assistants with curated Adobe developer knowledge on demand, enabling automatic retrieval of guidance and patterns for building App Builder actions and Workfront extensions.",
+  "source_repo": "davidbenge/adobe_extensibility_mcp",
+  "source_url": "https://github.com/davidbenge/adobe_extensibility_mcp",
+  "install": "npx -y adobe_extensibility_mcp"
+}

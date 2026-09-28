@@ -1,0 +1,7 @@
+{
+  "name": "herald-mcp",
+  "description": "Enables two AI assistants on different computers to communicate with each other via a shared cloud server.",
+  "source_repo": "liewcc/Herald_MCP",
+  "source_url": "https://github.com/liewcc/Herald_MCP",
+  "install": "npx -y Herald_MCP"
+}

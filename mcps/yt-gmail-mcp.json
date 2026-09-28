@@ -1,0 +1,7 @@
+{
+  "name": "yt-gmail-mcp",
+  "description": "MCP server for Gmail, Google Drive, and Google Calendar — search, read, send, and manage threads, files, and events.",
+  "source_repo": "yentsun/gmail-mcp",
+  "source_url": "https://github.com/yentsun/gmail-mcp",
+  "install": "npx -y gmail-mcp"
+}

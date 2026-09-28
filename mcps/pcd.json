@@ -1,0 +1,7 @@
+{
+  "name": "pcd",
+  "description": "Provides a portable context layer for MCP clients, letting users load containers with structured context, work state, and accumulated knowledge across different AI environments. It enables persistent, cross-client context management through a single MCP endpoint.",
+  "source_repo": "d3lanight/pcd",
+  "source_url": "https://github.com/d3lanight/pcd",
+  "install": "# git clone --depth 1 https://github.com/d3lanight/pcd\n# See source for mcpServers config block"
+}

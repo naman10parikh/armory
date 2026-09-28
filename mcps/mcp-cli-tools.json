@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cli-tools",
+  "description": "MCP server that gives AI coding agents (Claude Code, Cursor, Cline, etc.) access to multiple AI models through Antigravity CLI and OpenAI Codex CLI, enabling mid-conversation model consultation and code review.",
+  "source_repo": "Marcelo-Henry/mcp-cli-tools",
+  "source_url": "https://github.com/Marcelo-Henry/mcp-cli-tools",
+  "install": "# git clone --depth 1 https://github.com/Marcelo-Henry/mcp-cli-tools\n# See source for mcpServers config block"
+}

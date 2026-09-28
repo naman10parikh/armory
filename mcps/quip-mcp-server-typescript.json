@@ -1,0 +1,7 @@
+{
+  "name": "quip-mcp-server-typescript",
+  "description": "A Model Context Protocol (MCP) server for interacting with Quip spreadsheets. It provides tools to read spreadsheet data from Quip documents and return the content in CSV format.",
+  "source_repo": "zxkane/quip-mcp-server-typescript",
+  "source_url": "https://github.com/zxkane/quip-mcp-server-typescript",
+  "install": "# git clone --depth 1 https://github.com/zxkane/quip-mcp-server-typescript\n# See source for mcpServers config block"
+}

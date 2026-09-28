@@ -1,0 +1,7 @@
+{
+  "name": "tollboothswap-mcp",
+  "description": "MCP server for non-custodial token swaps and honeypot/rug-pull safety checks across 8 blockchains, with free quotes and paid x402-based transaction builds and security screenings.",
+  "source_repo": "soundsparkaudiolab/tollboothswap-mcp",
+  "source_url": "https://github.com/soundsparkaudiolab/tollboothswap-mcp",
+  "install": "npx -y tollboothswap-mcp"
+}

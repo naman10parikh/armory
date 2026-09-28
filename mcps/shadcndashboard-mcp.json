@@ -1,0 +1,7 @@
+{
+  "name": "shadcndashboard-mcp",
+  "description": "MCP server for Shadcn Dashboard that enables AI to discover, search, and install UI blocks directly into projects without copy-paste.",
+  "source_repo": "shadcnspace/shadcndashboard-mcp",
+  "source_url": "https://github.com/shadcnspace/shadcndashboard-mcp",
+  "install": "npx -y shadcndashboard-mcp"
+}

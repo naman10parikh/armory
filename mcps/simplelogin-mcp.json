@@ -1,0 +1,7 @@
+{
+  "name": "simplelogin-mcp",
+  "description": "An MCP server that exposes SimpleLogin alias management endpoints, enabling creation, listing, searching, updating, and toggling email aliases with configurable permission levels.",
+  "source_repo": "samanthavbarron/simplelogin-mcp",
+  "source_url": "https://github.com/samanthavbarron/simplelogin-mcp",
+  "install": "npx -y simplelogin-mcp"
+}

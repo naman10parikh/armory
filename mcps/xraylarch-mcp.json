@@ -1,0 +1,7 @@
+{
+  "name": "xraylarch-mcp",
+  "description": "MCP server that wraps xraylarch for X-ray spectroscopy analysis, enabling loading, processing, analyzing, and plotting XAS/XAFS spectra through natural language.",
+  "source_repo": "Joint-Photon-Sciences-Institute/xraylarch-mcp",
+  "source_url": "https://github.com/Joint-Photon-Sciences-Institute/xraylarch-mcp",
+  "install": "npx -y xraylarch-mcp"
+}

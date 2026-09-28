@@ -1,0 +1,7 @@
+{
+  "name": "smart-contract-security-analyzer",
+  "description": "An MCP server that statically audits Solidity smart contracts for common vulnerabilities like reentrancy and access control, enabling developers to identify and fix security issues via natural language.",
+  "source_repo": "uitkhoanna/smart-contract-mcp",
+  "source_url": "https://github.com/uitkhoanna/smart-contract-mcp",
+  "install": "npx -y smart-contract-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tcp-tuner",
+  "description": "Enables autonomous TCP congestion-control tuning through MCP tools for benchmarking, sysctl parameter adjustments, fault injection, and runbook generation within Kubernetes clusters.",
+  "source_repo": "PiSpike/tcp-congestion-tuner",
+  "source_url": "https://github.com/PiSpike/tcp-congestion-tuner",
+  "install": "# git clone --depth 1 https://github.com/PiSpike/tcp-congestion-tuner\n# See source for mcpServers config block"
+}

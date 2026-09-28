@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sumologic",
+  "description": "MCP server that integrates with Sumo Logic's API to perform log searches, data discovery, metrics queries, and monitoring.",
+  "source_repo": "giftHEALTH/mcp-sumologic",
+  "source_url": "https://github.com/giftHEALTH/mcp-sumologic",
+  "install": "# git clone --depth 1 https://github.com/giftHEALTH/mcp-sumologic\n# See source for mcpServers config block"
+}

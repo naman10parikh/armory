@@ -1,0 +1,7 @@
+{
+  "name": "confea-crea-engenharia",
+  "description": "This MCP server enables querying the professional registration of engineers and agronomists in Brazil's CONFEA/CREA system using CPF and national registration number, with a single read-only tool.",
+  "source_repo": "mcp-dir/confea_crea-mcp",
+  "source_url": "https://github.com/mcp-dir/confea_crea-mcp",
+  "install": "npx -y confea_crea-mcp"
+}

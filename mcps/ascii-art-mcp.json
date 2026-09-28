@@ -1,0 +1,7 @@
+{
+  "name": "ascii-art-mcp",
+  "description": "An MCP server that provides tools for retrieving ASCII and Unicode art from a local database, including search, random selection, and category listing.",
+  "source_repo": "theduodecim/ascii-art-mcp",
+  "source_url": "https://github.com/theduodecim/ascii-art-mcp",
+  "install": "npx -y ascii-art-mcp"
+}

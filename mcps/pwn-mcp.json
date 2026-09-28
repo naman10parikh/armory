@@ -1,0 +1,7 @@
+{
+  "name": "pwn-mcp",
+  "description": "A CTF Pwn AI-assisted debugging platform based on MCP, enabling AI to directly interact with remote GDB and CTF services for automated heap exploitation.",
+  "source_repo": "Aiyakami/PWN-MCP",
+  "source_url": "https://github.com/Aiyakami/PWN-MCP",
+  "install": "npx -y PWN-MCP"
+}

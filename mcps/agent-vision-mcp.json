@@ -1,0 +1,7 @@
+{
+  "name": "agent-vision-mcp",
+  "description": "Provides image analysis, inspection, cropping, OCR, and comparison capabilities via the Model Context Protocol, allowing AI agents to process and manipulate images using vision models.",
+  "source_repo": "idealizing/agent-vision-mcp",
+  "source_url": "https://github.com/idealizing/agent-vision-mcp",
+  "install": "npx -y agent-vision-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ssh-shell-mcp",
+  "description": "AI-native SSH orchestration server enabling Claude or any MCP agent to execute commands, manage files, tunnels, and fleet operations across multiple hosts with security policies and audit logs.",
+  "source_repo": "jaguar999paw-droid/ssh-shell-mcp",
+  "source_url": "https://github.com/jaguar999paw-droid/ssh-shell-mcp",
+  "install": "npx -y ssh-shell-mcp"
+}

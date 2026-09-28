@@ -1,0 +1,7 @@
+{
+  "name": "mcp-canadiantire",
+  "description": "Enables searching Canadian Tire's product catalogue, checking product details, store-level stock, and finding nearby stores.",
+  "source_repo": "sstepanovvl/mcp_canadiantire",
+  "source_url": "https://github.com/sstepanovvl/mcp_canadiantire",
+  "install": "# git clone --depth 1 https://github.com/sstepanovvl/mcp_canadiantire\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "level-mcp",
+  "description": "MCP server for the Level v2 REST API, enabling management of alerts, automations, devices, groups, tags, updates, and custom fields through typed tools.",
+  "source_repo": "pbozzay/level-mcp",
+  "source_url": "https://github.com/pbozzay/level-mcp",
+  "install": "npx -y level-mcp"
+}

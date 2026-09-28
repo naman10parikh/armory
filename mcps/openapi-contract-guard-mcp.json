@@ -1,0 +1,7 @@
+{
+  "name": "openapi-contract-guard-mcp",
+  "description": "Enables AI clients to validate OpenAPI specs, compare versions, detect breaking changes, and generate changelogs.",
+  "source_repo": "xiaohuxi/openapi-contract-guard-mcp",
+  "source_url": "https://github.com/xiaohuxi/openapi-contract-guard-mcp",
+  "install": "npx -y openapi-contract-guard-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "postgres-ssh-mcp",
+  "description": "A cross-platform MCP server for querying and introspecting PostgreSQL databases with SSH tunnel support, featuring multi-layered query safety and read-only enforcement.",
+  "source_repo": "SecretX33/postgres-ssh-mcp",
+  "source_url": "https://github.com/SecretX33/postgres-ssh-mcp",
+  "install": "npx -y postgres-ssh-mcp"
+}

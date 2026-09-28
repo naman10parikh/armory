@@ -1,0 +1,7 @@
+{
+  "name": "sql-generative-mcp",
+  "description": "Enables natural language querying of PostgreSQL databases under read-only mode, returning results as structured XML.",
+  "source_repo": "Denuwanhh/sql-generative-mcp",
+  "source_url": "https://github.com/Denuwanhh/sql-generative-mcp",
+  "install": "npx -y sql-generative-mcp"
+}

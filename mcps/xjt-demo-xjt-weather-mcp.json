@@ -1,0 +1,7 @@
+{
+  "name": "xjt-demo-xjt-weather-mcp",
+  "description": "基于高德天气API的MCP服务器，可通过adcode查询实时天气和未来3天预报。",
+  "source_repo": "TheHexaflux/xjt-weather-mcp-server",
+  "source_url": "https://github.com/TheHexaflux/xjt-weather-mcp-server",
+  "install": "npx -y xjt-weather-mcp-server"
+}

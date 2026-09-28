@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-sc-nfe",
+  "description": "Read-only MCP server for consulting Santa Catarina electronic invoices (NFE) from the official SEFAZ SC source via natural language, with prepaid per-query pricing.",
+  "source_repo": "mcp-dir/sefaz_sc_nfe-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_sc_nfe-mcp",
+  "install": "npx -y sefaz_sc_nfe-mcp"
+}

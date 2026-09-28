@@ -1,0 +1,7 @@
+{
+  "name": "filesystem-ts",
+  "description": "Standalone TypeScript MCP server for filesystem operations with robust security, encoding support, and cross-platform path handling.",
+  "source_repo": "hypnwtykvmpr/filesystem-ts",
+  "source_url": "https://github.com/hypnwtykvmpr/filesystem-ts",
+  "install": "# git clone --depth 1 https://github.com/hypnwtykvmpr/filesystem-ts\n# See source for mcpServers config block"
+}

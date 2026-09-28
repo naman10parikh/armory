@@ -1,0 +1,7 @@
+{
+  "name": "content-repurposing-mcp",
+  "description": "Maps any source asset (e.g., long video, podcast, blog) to all platform formats (TikTok, Reels, Shorts, etc.) with per-platform adaptation rules, enabling a 'film-once-cut-many' content workflow.",
+  "source_repo": "closermethod/content-repurposing-mcp",
+  "source_url": "https://github.com/closermethod/content-repurposing-mcp",
+  "install": "npx -y content-repurposing-mcp"
+}

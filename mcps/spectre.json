@@ -1,0 +1,7 @@
+{
+  "name": "spectre",
+  "description": "Enables AI agents to fully automate X/Twitter interactions including searching, posting, engaging, and managing multiple accounts without paid API keys.",
+  "source_repo": "pranrichh/spectre",
+  "source_url": "https://github.com/pranrichh/spectre",
+  "install": "# git clone --depth 1 https://github.com/pranrichh/spectre\n# See source for mcpServers config block"
+}

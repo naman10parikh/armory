@@ -1,0 +1,7 @@
+{
+  "name": "devrpg-mcp",
+  "description": "An MCP server that turns your development workflow into an RPG with persistent memory, tracking quests, perks, and skills across projects.",
+  "source_repo": "Zver1013/devrpg-mcp",
+  "source_url": "https://github.com/Zver1013/devrpg-mcp",
+  "install": "npx -y devrpg-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "antecedentes-pol-cia-federal",
+  "description": "This MCP server enables querying Brazilian Federal Police criminal background certificates using a person's CPF and name. It is a read-only, pay-per-use service that works with any MCP client.",
+  "source_repo": "mcp-dir/antecedentes_policia_federal-mcp",
+  "source_url": "https://github.com/mcp-dir/antecedentes_policia_federal-mcp",
+  "install": "npx -y antecedentes_policia_federal-mcp"
+}

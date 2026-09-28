@@ -1,0 +1,7 @@
+{
+  "name": "wpxmcp",
+  "description": "Enables managing self-hosted WordPress sites from any MCP client, covering content, themes, plugins, menus, users, and SQL with credentials in Cloudflare Worker Secrets or local stdio. It provides 117 tools and adds guardrails like drafts, trash, and dry-run operations.",
+  "source_repo": "alokemajumder/wpxmcp",
+  "source_url": "https://github.com/alokemajumder/wpxmcp",
+  "install": "# git clone --depth 1 https://github.com/alokemajumder/wpxmcp\n# See source for mcpServers config block"
+}

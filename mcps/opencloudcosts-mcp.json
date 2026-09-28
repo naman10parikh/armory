@@ -1,0 +1,7 @@
+{
+  "name": "opencloudcosts-mcp",
+  "description": "Anchor AI FinOps to real, live cloud pricing. AWS, GCP & Azure — public list prices and enterprise negotiated rates. No credentials needed for AWS and Azure public pricing.",
+  "source_repo": "x7even/cloudcostsmcp",
+  "source_url": "https://github.com/x7even/cloudcostsmcp",
+  "install": "# git clone --depth 1 https://github.com/x7even/cloudcostsmcp\n# See source for mcpServers config block"
+}

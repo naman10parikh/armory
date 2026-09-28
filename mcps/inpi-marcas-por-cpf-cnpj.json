@@ -1,0 +1,7 @@
+{
+  "name": "inpi-marcas-por-cpf-cnpj",
+  "description": "MCP server for querying Brazilian trademark registrations by CPF/CNPJ from an official source. It provides a single read-only tool for trademark consultation and works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/inpi_marcas_titular-mcp",
+  "source_url": "https://github.com/mcp-dir/inpi_marcas_titular-mcp",
+  "install": "npx -y inpi_marcas_titular-mcp"
+}

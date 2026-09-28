@@ -1,0 +1,7 @@
+{
+  "name": "freecad-mcp-next",
+  "description": "MCP server that connects FreeCAD to AI assistants via a local workbench and XML-RPC bridge, enabling natural language control of FreeCAD.",
+  "source_repo": "Lumitorus/freecad-mcp-next",
+  "source_url": "https://github.com/Lumitorus/freecad-mcp-next",
+  "install": "# git clone --depth 1 https://github.com/Lumitorus/freecad-mcp-next\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "h-ear-mcp-server",
+  "description": "Enables Claude to classify audio across 7,000+ sound classes, including bird species and urban noise, with tools for batch processing, webhooks, and usage tracking.",
+  "source_repo": "Badajoz95/h-ear-claude",
+  "source_url": "https://github.com/Badajoz95/h-ear-claude",
+  "install": "# git clone --depth 1 https://github.com/Badajoz95/h-ear-claude\n# See source for mcpServers config block"
+}

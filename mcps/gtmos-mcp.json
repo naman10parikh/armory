@@ -1,0 +1,7 @@
+{
+  "name": "gtmos-mcp",
+  "description": "Read-only CRM audit for HubSpot that scores data integrity and finds duplicate clusters and stalled revenue using your own token.",
+  "source_repo": "Kai8karma/gtmos-mcp",
+  "source_url": "https://github.com/Kai8karma/gtmos-mcp",
+  "install": "npx -y gtmos-mcp"
+}

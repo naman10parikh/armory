@@ -1,0 +1,7 @@
+{
+  "name": "odt-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for handling OpenDocument Text (.odt) files, enabling AI assistants to read, analyze, and extract data from ODT documents.",
+  "source_repo": "PeterHeick/odt-mcp-server",
+  "source_url": "https://github.com/PeterHeick/odt-mcp-server",
+  "install": "npx -y odt-mcp-server"
+}

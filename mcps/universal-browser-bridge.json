@@ -1,0 +1,7 @@
+{
+  "name": "universal-browser-bridge",
+  "description": "Enables MCP-compatible AI agents to securely control Chrome tabs via a local bridge, with explicit per-tab sharing and human approval for consequential actions.",
+  "source_repo": "code-x-coffee/universal-browser-bridge",
+  "source_url": "https://github.com/code-x-coffee/universal-browser-bridge",
+  "install": "# git clone --depth 1 https://github.com/code-x-coffee/universal-browser-bridge\n# See source for mcpServers config block"
+}

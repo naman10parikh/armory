@@ -1,0 +1,7 @@
+{
+  "name": "logsafe",
+  "description": "Enables debugging by querying and tailing local log sessions via tools like list_sessions, query_events, and tail_session.",
+  "source_repo": "omarqx/logsafe",
+  "source_url": "https://github.com/omarqx/logsafe",
+  "install": "# git clone --depth 1 https://github.com/omarqx/logsafe\n# See source for mcpServers config block"
+}

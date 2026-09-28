@@ -1,0 +1,7 @@
+{
+  "name": "null-trust-score",
+  "description": "Enables AI agents to query trust scores and security reviews for MCP servers before connecting, helping assess safety via a composite score and letter grade.",
+  "source_repo": "nullbuilds-ai/null-trust-score",
+  "source_url": "https://github.com/nullbuilds-ai/null-trust-score",
+  "install": "# git clone --depth 1 https://github.com/nullbuilds-ai/null-trust-score\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ya-direct-mcp",
+  "description": "MCP-сервер для управления кампаниями, группами, объявлениями, ключевыми фразами и статистикой Яндекс.Директ через Claude.",
+  "source_repo": "dmburov/ya-direct-mcp",
+  "source_url": "https://github.com/dmburov/ya-direct-mcp",
+  "install": "npx -y ya-direct-mcp"
+}

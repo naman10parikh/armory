@@ -1,0 +1,7 @@
+{
+  "name": "dimetrics-mcp-server",
+  "description": "Enables natural language management of apps, services, resources, attributes, and data via the Dimetrics API with full CRUD operations and advanced filtering.",
+  "source_repo": "fellnerd/dimetrics-mcp-server",
+  "source_url": "https://github.com/fellnerd/dimetrics-mcp-server",
+  "install": "npx -y dimetrics-mcp-server"
+}

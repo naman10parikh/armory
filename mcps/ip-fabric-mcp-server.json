@@ -1,0 +1,7 @@
+{
+  "name": "ip-fabric-mcp-server",
+  "description": "Enables AI assistants to query IP Fabric network inventory and snapshots through natural language, using tools to fetch devices, interfaces, routing tables, and more.",
+  "source_repo": "sdargoeuves/ipf-mcp-playground",
+  "source_url": "https://github.com/sdargoeuves/ipf-mcp-playground",
+  "install": "# git clone --depth 1 https://github.com/sdargoeuves/ipf-mcp-playground\n# See source for mcpServers config block"
+}

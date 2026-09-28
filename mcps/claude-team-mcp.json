@@ -1,0 +1,7 @@
+{
+  "name": "claude-team-mcp",
+  "description": "A Model Context Protocol (MCP) server that turns multiple AI coding agents into a coordinated team that chats, debates, remembers, audits security, and works in parallel on the same project.",
+  "source_repo": "Lakshan12367/MCP",
+  "source_url": "https://github.com/Lakshan12367/MCP",
+  "install": "# git clone --depth 1 https://github.com/Lakshan12367/MCP\n# See source for mcpServers config block"
+}

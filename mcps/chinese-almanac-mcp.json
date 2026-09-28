@@ -1,0 +1,7 @@
+{
+  "name": "chinese-almanac-mcp",
+  "description": "Enables planning real-life events using the Chinese Tung Shing almanac with NASA-grade astronomy and the 1739 imperial canon.",
+  "source_repo": "yonlandwu/chinese-almanac-mcp",
+  "source_url": "https://github.com/yonlandwu/chinese-almanac-mcp",
+  "install": "npx -y chinese-almanac-mcp"
+}

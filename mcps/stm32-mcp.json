@@ -1,0 +1,7 @@
+{
+  "name": "stm32-mcp",
+  "description": "Enables Claude Code to build, flash, and communicate with STM32 hardware over SWD and serial, including multi-board management, live memory monitoring, and hardware sequences.",
+  "source_repo": "shieldyguy/stm32-mcp",
+  "source_url": "https://github.com/shieldyguy/stm32-mcp",
+  "install": "npx -y stm32-mcp"
+}

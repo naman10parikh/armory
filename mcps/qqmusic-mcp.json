@@ -1,0 +1,7 @@
+{
+  "name": "qqmusic-mcp",
+  "description": "A local MCP server for managing and organizing a personal QQ Music library, enabling playlist operations, music analysis, and intelligent classification workflows with safe write-back and rollback.",
+  "source_repo": "baoozak/qqmusic-mcp",
+  "source_url": "https://github.com/baoozak/qqmusic-mcp",
+  "install": "npx -y qqmusic-mcp"
+}

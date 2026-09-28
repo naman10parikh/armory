@@ -1,0 +1,7 @@
+{
+  "name": "tableau-mcp",
+  "description": "Enables AI applications to interact with Tableau through tools for querying data, exploring content, and retrieving views.",
+  "source_repo": "Sanpelegrino/tableau-mcp-test",
+  "source_url": "https://github.com/Sanpelegrino/tableau-mcp-test",
+  "install": "# git clone --depth 1 https://github.com/Sanpelegrino/tableau-mcp-test\n# See source for mcpServers config block"
+}

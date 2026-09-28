@@ -1,0 +1,7 @@
+{
+  "name": "indesign-mcp",
+  "description": "A custom MCP server that lets Claude Code read, search, and manipulate Adobe InDesign documents. macOS only.",
+  "source_repo": "matthijs1000/indesign-mcp",
+  "source_url": "https://github.com/matthijs1000/indesign-mcp",
+  "install": "npx -y indesign-mcp"
+}

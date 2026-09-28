@@ -1,0 +1,7 @@
+{
+  "name": "rocketmatter-mcp",
+  "description": "Enables interaction with Rocketmatter legal practice management via natural language, covering matters, clients, tasks, time, invoices, calendar, documents, and trust accounting.",
+  "source_repo": "RosenAdvertising/rocketmatter-mcp",
+  "source_url": "https://github.com/RosenAdvertising/rocketmatter-mcp",
+  "install": "npx -y rocketmatter-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "climate-peer-comparison",
+  "description": "Generates peer comparison reports on emissions trends, reduction targets, and gaps for companies in a given SICS sector/sub-sector using live data from the Climate Data Utility (CDU).",
+  "source_repo": "mohsen-ahmed-pm/cdu-climate-peer-comparison-mcp",
+  "source_url": "https://github.com/mohsen-ahmed-pm/cdu-climate-peer-comparison-mcp",
+  "install": "npx -y cdu-climate-peer-comparison-mcp"
+}

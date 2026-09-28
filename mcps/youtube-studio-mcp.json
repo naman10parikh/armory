@@ -1,0 +1,7 @@
+{
+  "name": "youtube-studio-mcp",
+  "description": "An MCP server for auditing and improving a YouTube channel's discoverability by providing read-only access to channel catalog, analytics metrics, retention curves, search terms, and Studio CSV data, and ranking underperformers by recoverable views.",
+  "source_repo": "jaimebg/youtube-studio-mcp",
+  "source_url": "https://github.com/jaimebg/youtube-studio-mcp",
+  "install": "npx -y youtube-studio-mcp"
+}

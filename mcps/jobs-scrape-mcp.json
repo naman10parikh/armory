@@ -1,0 +1,7 @@
+{
+  "name": "jobs-scrape-mcp",
+  "description": "Enables AI assistants to query a corpus of job offers via natural language, using BM25 search, facets, and trend analysis to answer questions about skills, positions, and timelines.",
+  "source_repo": "XavierBeheydt/jobs-scrape-mcp",
+  "source_url": "https://github.com/XavierBeheydt/jobs-scrape-mcp",
+  "install": "npx -y jobs-scrape-mcp"
+}

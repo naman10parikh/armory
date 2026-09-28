@@ -1,0 +1,7 @@
+{
+  "name": "mcp-legacy-lane",
+  "description": "Monitors MCP protocol traffic across legacy and modern lanes, records usage evidence in a durable SQLite ledger, and recommends when the legacy fallback can safely be removed.",
+  "source_repo": "jagreehal/mcp-legacy-lane",
+  "source_url": "https://github.com/jagreehal/mcp-legacy-lane",
+  "install": "# git clone --depth 1 https://github.com/jagreehal/mcp-legacy-lane\n# See source for mcpServers config block"
+}

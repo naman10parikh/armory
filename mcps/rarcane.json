@@ -1,0 +1,7 @@
+{
+  "name": "rarcane",
+  "description": "MCP server for managing Docker containers, images, networks, volumes, and Compose projects via Arcane, exposing a single 'arcane' tool for read/write operations over stdio or HTTP.",
+  "source_repo": "dinglebear-ai/rarcane",
+  "source_url": "https://github.com/dinglebear-ai/rarcane",
+  "install": "# git clone --depth 1 https://github.com/dinglebear-ai/rarcane\n# See source for mcpServers config block"
+}

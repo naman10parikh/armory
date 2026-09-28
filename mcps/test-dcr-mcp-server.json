@@ -1,0 +1,7 @@
+{
+  "name": "test-dcr-mcp-server",
+  "description": "A spec-compliant remote MCP server with built-in OAuth 2.1 and Dynamic Client Registration, enabling Notion Custom Agents to connect via 'Sign in with OAuth' without bearer tokens. It supports SSO federation to Google and Microsoft Entra, and includes basic tools like whoami, echo, and slow_task.",
+  "source_repo": "LOUPZ-DE/test-dcr-mcp-server",
+  "source_url": "https://github.com/LOUPZ-DE/test-dcr-mcp-server",
+  "install": "npx -y test-dcr-mcp-server"
+}

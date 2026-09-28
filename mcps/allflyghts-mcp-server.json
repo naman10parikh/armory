@@ -1,0 +1,7 @@
+{
+  "name": "allflyghts-mcp-server",
+  "description": "Enables flight search, location lookup, and city information retrieval using the AllFlyghts public API through MCP tools.",
+  "source_repo": "dev-allflyghts/mcp-server",
+  "source_url": "https://github.com/dev-allflyghts/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/dev-allflyghts/mcp-server\n# See source for mcpServers config block"
+}

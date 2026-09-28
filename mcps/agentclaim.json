@@ -1,0 +1,7 @@
+{
+  "name": "agentclaim",
+  "description": "Enables multiple AI coding agents to safely collaborate in the same git working tree by managing file ownership, merging writes, and preventing snapshot races.",
+  "source_repo": "volkangunay/agentclaim",
+  "source_url": "https://github.com/volkangunay/agentclaim",
+  "install": "# git clone --depth 1 https://github.com/volkangunay/agentclaim\n# See source for mcpServers config block"
+}

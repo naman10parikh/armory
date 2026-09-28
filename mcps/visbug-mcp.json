@@ -1,0 +1,7 @@
+{
+  "name": "visbug-mcp",
+  "description": "Captures visual changes made with VisBug in the browser and exposes them to Claude Code via MCP, allowing developers to apply design modifications to source files directly from natural language.",
+  "source_repo": "mambari/visbug-mcp",
+  "source_url": "https://github.com/mambari/visbug-mcp",
+  "install": "npx -y visbug-mcp"
+}

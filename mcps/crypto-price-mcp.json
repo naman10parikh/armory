@@ -1,0 +1,7 @@
+{
+  "name": "crypto-price-mcp",
+  "description": "Fetches real-time cryptocurrency prices from multiple exchanges and enables price comparison, volume rankings, and listing of tradable pairs.",
+  "source_repo": "yusnmt/crypto-price-mcp",
+  "source_url": "https://github.com/yusnmt/crypto-price-mcp",
+  "install": "npx -y crypto-price-mcp"
+}

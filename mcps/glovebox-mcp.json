@@ -1,0 +1,7 @@
+{
+  "name": "glovebox-mcp",
+  "description": "A sandboxed computer-use MCP server that lets an AI agent drive a real browser and desktop apps, confined to a nested X11 window so it cannot touch your real screen or files.",
+  "source_repo": "segentic-lab/glovebox-mcp",
+  "source_url": "https://github.com/segentic-lab/glovebox-mcp",
+  "install": "npx -y glovebox-mcp"
+}

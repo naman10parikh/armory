@@ -1,0 +1,7 @@
+{
+  "name": "delx-memory",
+  "description": "Local-first persistent memory MCP: shared SQLite key/value store, searchable, TTL-aware and secret-safe.",
+  "source_repo": "davidmosiah/delx-memory",
+  "source_url": "https://github.com/davidmosiah/delx-memory",
+  "install": "# git clone --depth 1 https://github.com/davidmosiah/delx-memory\n# See source for mcpServers config block"
+}

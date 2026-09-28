@@ -1,0 +1,7 @@
+{
+  "name": "the-neural-ledger-intelligence",
+  "description": "Read-only, source-linked news intelligence for AI agents: search The Neural Ledger's stories, retrieve story details with citations and revision history, and resolve related entities and assets. It is an evidence layer, not a trading or execution service.",
+  "source_repo": "bekirdag/tnl-intelligence",
+  "source_url": "https://github.com/bekirdag/tnl-intelligence",
+  "install": "# git clone --depth 1 https://github.com/bekirdag/tnl-intelligence\n# See source for mcpServers config block"
+}

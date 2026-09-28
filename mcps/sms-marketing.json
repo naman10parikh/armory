@@ -1,0 +1,7 @@
+{
+  "name": "sms-marketing",
+  "description": "SMS marketing MCP server for AI agents. Send SMS, manage contacts, templates, and campaigns programmatically. Sign up at oblipali.app, generate an API key, buy prepaid SMS credits, and connect your agent. 22 tools available, pay-as-you-go pricing, no subscription.",
+  "source_repo": "",
+  "source_url": "https://oblipali.app",
+  "install": "# git clone --depth 1 https://oblipali.app\n# See source for mcpServers config block"
+}

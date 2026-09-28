@@ -1,0 +1,7 @@
+{
+  "name": "php-container-test-mcp",
+  "description": "An MCP server that lets AI agents run PHP unit and integration tests inside Docker containers without local PHP or Composer.",
+  "source_repo": "GleisonOliveira/php-container-test-mcp",
+  "source_url": "https://github.com/GleisonOliveira/php-container-test-mcp",
+  "install": "npx -y php-container-test-mcp"
+}

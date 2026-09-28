@@ -1,0 +1,7 @@
+{
+  "name": "koncepto",
+  "description": "Semantic concept graph MCP server for codebases — what your code means, not just what it does.",
+  "source_repo": "yourtechtribe-labs/koncept-mcp",
+  "source_url": "https://github.com/yourtechtribe-labs/koncept-mcp",
+  "install": "npx -y koncept-mcp"
+}

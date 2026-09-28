@@ -1,0 +1,7 @@
+{
+  "name": "modelmix",
+  "description": "Enables comparing outputs of 17 large language models side by side, with AI judging, cost and speed analysis.",
+  "source_repo": "StarShipI/modelmix",
+  "source_url": "https://github.com/StarShipI/modelmix",
+  "install": "# git clone --depth 1 https://github.com/StarShipI/modelmix\n# See source for mcpServers config block"
+}

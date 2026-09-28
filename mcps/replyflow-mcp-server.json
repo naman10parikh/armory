@@ -1,0 +1,7 @@
+{
+  "name": "replyflow-mcp-server",
+  "description": "Enables AI agents to manage Twitter replies by fetching relevant tweets, generating AI-powered reply drafts in various styles, and copying them to clipboard.",
+  "source_repo": "tiancaijb/replyflow-mcp",
+  "source_url": "https://github.com/tiancaijb/replyflow-mcp",
+  "install": "npx -y replyflow-mcp"
+}

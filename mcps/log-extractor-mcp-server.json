@@ -1,0 +1,7 @@
+{
+  "name": "log-extractor-mcp-server",
+  "description": "Exposes read-only Order Orchestrator diagnostics, including search_order_failure_logs backed by live telemetry from Render.",
+  "source_repo": "AneeshMishra/log-extractor-mcp-server",
+  "source_url": "https://github.com/AneeshMishra/log-extractor-mcp-server",
+  "install": "npx -y log-extractor-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "antigravity-intern",
+  "description": "An MCP server that bridges Claude Code with Antigravity CLI using a Swarm Agent architecture to optimize local development workflows and minimize LLM token costs. Includes a web UI for monitoring agent workflows.",
+  "source_repo": "SinanTufekci/antigravity-intern",
+  "source_url": "https://github.com/SinanTufekci/antigravity-intern",
+  "install": "# git clone --depth 1 https://github.com/SinanTufekci/antigravity-intern\n# See source for mcpServers config block"
+}

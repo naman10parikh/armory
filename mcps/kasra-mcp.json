@@ -1,0 +1,7 @@
+{
+  "name": "kasra-mcp",
+  "description": "Enables local code review and security scanning by reading files and sending them to the Kasra API for analysis, integrating with AI tools like Claude Desktop and Cursor via the Model Context Protocol.",
+  "source_repo": "yuanjianking/kasra-mcp",
+  "source_url": "https://github.com/yuanjianking/kasra-mcp",
+  "install": "npx -y kasra-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "limitless-ai-mcp-server",
+  "description": "Enables AI assistants to interact with Limitless AI Pendant recordings, search, retrieve, and analyze lifelogs via the Model Context Protocol.",
+  "source_repo": "ericbuess/limitless-ai-mcp-server",
+  "source_url": "https://github.com/ericbuess/limitless-ai-mcp-server",
+  "install": "npx -y limitless-ai-mcp-server"
+}

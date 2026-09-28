@@ -1,0 +1,7 @@
+{
+  "name": "bib-enrich-mcp",
+  "description": "Automatically enriches BibTeX citations with missing metadata (DOI, venue, etc.) from arXiv, DBLP, and CrossRef via an MCP server for AI assistants.",
+  "source_repo": "haoxiangsnr/bib-enrich-mcp",
+  "source_url": "https://github.com/haoxiangsnr/bib-enrich-mcp",
+  "install": "npx -y bib-enrich-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "linak-standing-desk-controller",
+  "description": "Enables control of a Linak standing desk through natural language, allowing height adjustments and preset management via MCP-compatible clients like Claude Desktop.",
+  "source_repo": "jonico/mcp-linak-standing-desk-controller",
+  "source_url": "https://github.com/jonico/mcp-linak-standing-desk-controller",
+  "install": "# git clone --depth 1 https://github.com/jonico/mcp-linak-standing-desk-controller\n# See source for mcpServers config block"
+}

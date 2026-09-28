@@ -1,0 +1,7 @@
+{
+  "name": "defi-llama-mcp-server",
+  "description": "Provides access to DeFi Llama's free API for querying protocol TVL, chain TVL, yields, stablecoins, bridges, DEX volumes, and fees through natural language.",
+  "source_repo": "friendlygeorge/defillama-mcp-server",
+  "source_url": "https://github.com/friendlygeorge/defillama-mcp-server",
+  "install": "npx -y defillama-mcp-server"
+}

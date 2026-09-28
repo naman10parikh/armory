@@ -1,0 +1,7 @@
+{
+  "name": "census-mcp-server-2",
+  "description": "Query U.S. Census Bureau data, variables, and geography via MCP.",
+  "source_repo": "",
+  "source_url": "https://census.caseyjhand.com/mcp",
+  "install": "# git clone --depth 1 https://census.caseyjhand.com/mcp\n# See source for mcpServers config block"
+}

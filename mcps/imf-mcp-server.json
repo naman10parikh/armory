@@ -1,0 +1,7 @@
+{
+  "name": "imf-mcp-server",
+  "description": "Query IMF SDMX 3.0 macroeconomic data — hundreds of dataflows across 190 countries, including WEO projections, BOP, CPI, exchange rates, and national accounts — via MCP tools and resources.",
+  "source_repo": "cyanheads/imf-mcp-server",
+  "source_url": "https://github.com/cyanheads/imf-mcp-server",
+  "install": "npx -y imf-mcp-server"
+}

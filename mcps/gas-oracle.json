@@ -1,0 +1,7 @@
+{
+  "name": "gas-oracle",
+  "description": "Live gas prices with gwei tiers, USD cost estimates, and congestion level. Time your transactions perfectly with pay-per-call via x402.",
+  "source_repo": "Br0ski777/gas-oracle-x402",
+  "source_url": "https://github.com/Br0ski777/gas-oracle-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/gas-oracle-x402\n# See source for mcpServers config block"
+}

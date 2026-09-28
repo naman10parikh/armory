@@ -1,0 +1,7 @@
+{
+  "name": "porto-alegre-mcp-server-llm-bus",
+  "description": "Enables natural language queries for Porto Alegre's public transport system, including route planning, stop search, and route information via Claude Desktop or any MCP-compatible client.",
+  "source_repo": "gregorizeidler/porto-alegre-mcp-server-llm-bus",
+  "source_url": "https://github.com/gregorizeidler/porto-alegre-mcp-server-llm-bus",
+  "install": "# git clone --depth 1 https://github.com/gregorizeidler/porto-alegre-mcp-server-llm-bus\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "telegram-news-mcp",
+  "description": "Ranks posts from Telegram channels and exposes them via a REST endpoint and the MCP tool getTopNews, supporting configurable periods and channel filtering.",
+  "source_repo": "gerarte04/openclaw-mcp",
+  "source_url": "https://github.com/gerarte04/openclaw-mcp",
+  "install": "npx -y openclaw-mcp"
+}

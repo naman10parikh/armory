@@ -1,0 +1,7 @@
+{
+  "name": "hackscout-mcp",
+  "description": "Provides hackathon intelligence for builders by analyzing projects to rank best hackathons, target tracks, and differentiate using fit scoring and public gallery intel.",
+  "source_repo": "Ash-Blanc/hackscout-mcp",
+  "source_url": "https://github.com/Ash-Blanc/hackscout-mcp",
+  "install": "npx -y hackscout-mcp"
+}

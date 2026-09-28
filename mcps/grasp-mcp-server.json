@@ -1,0 +1,7 @@
+{
+  "name": "grasp-mcp-server",
+  "description": "A Windows desktop control MCP server that gives Claude eyes and hands—screen capture with coordinate-grid overlays, pixel-perfect DPI-correct mouse/keyboard input via a Rust backend, and direct PowerShell command execution, enabling full local desktop automation through natural language.",
+  "source_repo": "Jamshed7470/grasp-mcp",
+  "source_url": "https://github.com/Jamshed7470/grasp-mcp",
+  "install": "npx -y grasp-mcp"
+}

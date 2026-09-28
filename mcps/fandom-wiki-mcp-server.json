@@ -1,0 +1,7 @@
+{
+  "name": "fandom-wiki-mcp-server",
+  "description": "A generic MCP server that allows searching and retrieving articles, summaries, category members, and wiki info from any Fandom wiki.",
+  "source_repo": "dotnetrule/mcp-fandomwiki",
+  "source_url": "https://github.com/dotnetrule/mcp-fandomwiki",
+  "install": "# git clone --depth 1 https://github.com/dotnetrule/mcp-fandomwiki\n# See source for mcpServers config block"
+}

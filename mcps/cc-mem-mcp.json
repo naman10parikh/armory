@@ -1,0 +1,7 @@
+{
+  "name": "cc-mem-mcp",
+  "description": "Lossless, categorized long-term memory for Claude Code (and any MCP client), backed by Qdrant, capturing compaction summaries across generations.",
+  "source_repo": "NguyenSen/cc-mem-mcp",
+  "source_url": "https://github.com/NguyenSen/cc-mem-mcp",
+  "install": "npx -y cc-mem-mcp"
+}

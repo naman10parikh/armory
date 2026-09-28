@@ -1,0 +1,7 @@
+{
+  "name": "vibe-pay",
+  "description": "Platform access code. Email coryhigham@gmail.com with subject \"MCP Trial\" to request one",
+  "source_repo": "",
+  "source_url": "https://xqb.io/mcp",
+  "install": "# git clone --depth 1 https://xqb.io/mcp\n# See source for mcpServers config block"
+}

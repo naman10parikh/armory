@@ -1,0 +1,7 @@
+{
+  "name": "supertonic3-mcp",
+  "description": "Enables local text-to-speech synthesis for Claude and Cursor using Supertonic 3, with support for multiple voices, expressions, and languages. No API key or cloud required.",
+  "source_repo": "nextic-tech/supertonic3-mcp",
+  "source_url": "https://github.com/nextic-tech/supertonic3-mcp",
+  "install": "npx -y supertonic3-mcp"
+}

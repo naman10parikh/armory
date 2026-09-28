@@ -1,0 +1,7 @@
+{
+  "name": "easyeda-pro-mcp",
+  "description": "Connects MCP clients to live EasyEDA Pro projects, enabling schematic and PCB inspection and editing through natural language.",
+  "source_repo": "VLab-Software/easyeda_mcp",
+  "source_url": "https://github.com/VLab-Software/easyeda_mcp",
+  "install": "npx -y easyeda_mcp"
+}

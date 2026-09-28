@@ -1,0 +1,7 @@
+{
+  "name": "firebase-emulator-mcp-server",
+  "description": "Exposes Firebase emulator data (Firestore, Auth, Realtime Database, and logs) to AI coding assistants for local development inspection.",
+  "source_repo": "LaishGlenberg/firebase-emulator-mcp",
+  "source_url": "https://github.com/LaishGlenberg/firebase-emulator-mcp",
+  "install": "npx -y firebase-emulator-mcp"
+}

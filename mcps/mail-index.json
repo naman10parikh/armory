@@ -1,0 +1,7 @@
+{
+  "name": "mail-index",
+  "description": "Enables AI agents to query and recall your entire Gmail inbox locally, providing fast summarization and semantic search without relying on Gmail's search API.",
+  "source_repo": "unsoldgroup/mail-index",
+  "source_url": "https://github.com/unsoldgroup/mail-index",
+  "install": "# git clone --depth 1 https://github.com/unsoldgroup/mail-index\n# See source for mcpServers config block"
+}

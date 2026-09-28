@@ -1,0 +1,7 @@
+{
+  "name": "gitcontribute",
+  "description": "MCP server that helps coding agents research and prepare GitHub contributions by gathering repository guidance, related work, code context, and validation evidence into a local SQLite corpus, without ever writing to GitHub.",
+  "source_repo": "morluto/gitcontribute",
+  "source_url": "https://github.com/morluto/gitcontribute",
+  "install": "# git clone --depth 1 https://github.com/morluto/gitcontribute\n# See source for mcpServers config block"
+}

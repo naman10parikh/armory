@@ -1,0 +1,7 @@
+{
+  "name": "invox-mcp",
+  "description": "Hosted MCP server that enables AI assistants to manage clients, invoices, and expenses via the Invox API, supporting actions like drafting, sending, cancelling, and marking invoices as paid, as well as logging expenses and updating client information.",
+  "source_repo": "Edgetive/invox-mcp",
+  "source_url": "https://github.com/Edgetive/invox-mcp",
+  "install": "npx -y invox-mcp"
+}

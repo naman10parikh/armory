@@ -1,0 +1,7 @@
+{
+  "name": "refinex-mcp",
+  "description": "Enables querying live AWS spot price arbitrage signals and suppression logs directly in Claude Code or any MCP-compatible AI tool.",
+  "source_repo": "keithrawlingsbrown/refinex-mcp",
+  "source_url": "https://github.com/keithrawlingsbrown/refinex-mcp",
+  "install": "npx -y refinex-mcp"
+}

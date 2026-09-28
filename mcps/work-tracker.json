@@ -1,0 +1,7 @@
+{
+  "name": "work-tracker",
+  "description": "Automatically tracks AI-assisted work sessions, code changes, and commands in Claude Code or Codex CLI, and provides daily stats, weekly reports, and data export through MCP tools.",
+  "source_repo": "dud0880/work_tracker_mcp",
+  "source_url": "https://github.com/dud0880/work_tracker_mcp",
+  "install": "npx -y work_tracker_mcp"
+}

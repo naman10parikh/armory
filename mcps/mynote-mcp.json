@@ -1,0 +1,7 @@
+{
+  "name": "mynote-mcp",
+  "description": "Local MCP server for reading and writing notes to an Obsidian vault, allowing any Claude Code or Codex session to save notes to the same vault with tag-based organization.",
+  "source_repo": "Yatty1/mynote-mcp",
+  "source_url": "https://github.com/Yatty1/mynote-mcp",
+  "install": "npx -y mynote-mcp"
+}

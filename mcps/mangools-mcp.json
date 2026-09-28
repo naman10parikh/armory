@@ -1,0 +1,7 @@
+{
+  "name": "mangools-mcp",
+  "description": "Standalone MCP server for the Mangools API with 82 tools covering keyword research, SERP analysis, rank tracking, backlinks, competitor research, and AI search visibility. Enables natural language interaction with Mangools SEO capabilities.",
+  "source_repo": "marwa-mrwan/mangools-mcp-codex",
+  "source_url": "https://github.com/marwa-mrwan/mangools-mcp-codex",
+  "install": "# git clone --depth 1 https://github.com/marwa-mrwan/mangools-mcp-codex\n# See source for mcpServers config block"
+}

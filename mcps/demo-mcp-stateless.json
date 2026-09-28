@@ -1,0 +1,7 @@
+{
+  "name": "demo-mcp-stateless",
+  "description": "Demonstrates the new stateless MCP protocol on a serverless platform, showing how it survives instance death and cold starts unlike the legacy session-based approach.",
+  "source_repo": "jobvancreij/demo-mcp-stateless",
+  "source_url": "https://github.com/jobvancreij/demo-mcp-stateless",
+  "install": "# git clone --depth 1 https://github.com/jobvancreij/demo-mcp-stateless\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "govbr-ds-mcp",
+  "description": "Enables AI agents to access and utilize GovBR Design System documentation, including component details, accessibility guidance, and search functionality via Model Context Protocol.",
+  "source_repo": "FelipeVergaraChico/gov-ds-mcp",
+  "source_url": "https://github.com/FelipeVergaraChico/gov-ds-mcp",
+  "install": "npx -y gov-ds-mcp"
+}

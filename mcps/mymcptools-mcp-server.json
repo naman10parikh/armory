@@ -1,0 +1,7 @@
+{
+  "name": "mymcptools-mcp-server",
+  "description": "Enables searching for and checking the reachability of MCP servers through real handshakes and uptime verification.",
+  "source_repo": "shibley/mymcptools-mcp-server",
+  "source_url": "https://github.com/shibley/mymcptools-mcp-server",
+  "install": "npx -y mymcptools-mcp-server"
+}

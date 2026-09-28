@@ -1,0 +1,7 @@
+{
+  "name": "tasie-mcp",
+  "description": "MCP server exposing TASIE's autonomous SAST, live exploit, and human-gated remediation as tools, enabling ChatGPT clients to scan code, dependencies, and frameworks and receive proof-carrying fixes.",
+  "source_repo": "rajdeepkulkarni/tasie-mcp",
+  "source_url": "https://github.com/rajdeepkulkarni/tasie-mcp",
+  "install": "npx -y tasie-mcp"
+}

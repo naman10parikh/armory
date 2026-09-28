@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tokensage",
+  "description": "Enables token counting, usage tracking, and cost calculation for LLM APIs, with a proxy server mode to automatically intercept and monitor API requests from clients like Cursor and Windsurf.",
+  "source_repo": "quangminh1212/MCP_TokenSage",
+  "source_url": "https://github.com/quangminh1212/MCP_TokenSage",
+  "install": "# git clone --depth 1 https://github.com/quangminh1212/MCP_TokenSage\n# See source for mcpServers config block"
+}

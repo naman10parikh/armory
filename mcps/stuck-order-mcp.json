@@ -1,0 +1,7 @@
+{
+  "name": "stuck-order-mcp",
+  "description": "MCP server for investigating payment/webhook drift, classifying order status mismatches, detecting duplicate charges, and escalating findings for human review. It is read-only for payment state and does not automatically retry or correct transactions.",
+  "source_repo": "SafalBhandari12/stuck-order-mcp",
+  "source_url": "https://github.com/SafalBhandari12/stuck-order-mcp",
+  "install": "npx -y stuck-order-mcp"
+}

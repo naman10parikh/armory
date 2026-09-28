@@ -1,0 +1,7 @@
+{
+  "name": "dos-mcp",
+  "description": "Enables an MCP client to observe and control a text-mode DOS system via a Python bridge, supporting keyboard input and screen capture.",
+  "source_repo": "rvdbijl/dos-mcp",
+  "source_url": "https://github.com/rvdbijl/dos-mcp",
+  "install": "npx -y dos-mcp"
+}

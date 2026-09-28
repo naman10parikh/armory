@@ -1,0 +1,7 @@
+{
+  "name": "spaceops-satellite-operations-mcp-server",
+  "description": "Connects LLM agents to live and simulated satellite telemetry, NOAA space weather data, and space debris orbital conjunction analysis.",
+  "source_repo": "jdbruh18/spaceops-mcp-server",
+  "source_url": "https://github.com/jdbruh18/spaceops-mcp-server",
+  "install": "npx -y spaceops-mcp-server"
+}

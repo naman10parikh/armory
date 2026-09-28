@@ -1,0 +1,7 @@
+{
+  "name": "leela-mcp-server",
+  "description": "An MCP server that exposes the Leela Chess Zero neural-network chess engine to MCP clients, enabling position analysis, best move calculation, and board manipulation.",
+  "source_repo": "indulge/leela-mcp-server",
+  "source_url": "https://github.com/indulge/leela-mcp-server",
+  "install": "npx -y leela-mcp-server"
+}

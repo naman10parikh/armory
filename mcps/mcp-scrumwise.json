@@ -1,0 +1,7 @@
+{
+  "name": "mcp-scrumwise",
+  "description": "MCP server that exposes the Scrumwise API as tools for managing projects, backlog items, tasks, sprints, releases, and time tracking.",
+  "source_repo": "LovelessCodes/mcp-scrumwise",
+  "source_url": "https://github.com/LovelessCodes/mcp-scrumwise",
+  "install": "# git clone --depth 1 https://github.com/LovelessCodes/mcp-scrumwise\n# See source for mcpServers config block"
+}

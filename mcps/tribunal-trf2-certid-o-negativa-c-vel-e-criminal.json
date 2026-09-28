@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trf2-certid-o-negativa-c-vel-e-criminal",
+  "description": "Provides access to official civil and criminal negative certificates from TRF2 through a read-only MCP tool, enabling queries from any MCP-compatible client.",
+  "source_repo": "mcp-dir/tribunal_trf2_certidao-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trf2_certidao-mcp",
+  "install": "npx -y tribunal_trf2_certidao-mcp"
+}

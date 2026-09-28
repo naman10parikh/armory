@@ -1,0 +1,7 @@
+{
+  "name": "simuloom-mcp",
+  "description": "Contract-driven service virtualization and synthetic test-data management server that enables simulating APIs from OpenAPI contracts through MCP tools.",
+  "source_repo": "anzar-ahsan-commits/simuloom-mcp",
+  "source_url": "https://github.com/anzar-ahsan-commits/simuloom-mcp",
+  "install": "npx -y simuloom-mcp"
+}

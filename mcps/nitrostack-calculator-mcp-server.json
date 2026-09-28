@@ -1,0 +1,7 @@
+{
+  "name": "nitrostack-calculator-mcp-server",
+  "description": "Calculator-focused MCP server with tools, resources, and prompts for arithmetic operations and widget interactions.",
+  "source_repo": "janakir2006/idea-validator-mcp",
+  "source_url": "https://github.com/janakir2006/idea-validator-mcp",
+  "install": "npx -y idea-validator-mcp"
+}

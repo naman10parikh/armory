@@ -1,0 +1,7 @@
+{
+  "name": "occ-gis-mcp",
+  "description": "MCP server that provides AI assistants access to Oklahoma Corporation Commission public GIS datasets, enabling dataset search, layer metadata retrieval, and attribute/spatial queries on ArcGIS Hub data.",
+  "source_repo": "MSPFE2019/occ-gis-mcp",
+  "source_url": "https://github.com/MSPFE2019/occ-gis-mcp",
+  "install": "npx -y occ-gis-mcp"
+}

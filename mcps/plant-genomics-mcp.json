@@ -1,0 +1,7 @@
+{
+  "name": "plant-genomics-mcp",
+  "description": "▎ Provides 32 tools for plant-genomics locus lookup across 11 free public backends (Ensembl Plants, Phytozome, UniProtKB, Europe PMC, QuickGO, NCBI BLAST, Gramene, KEGG, STRING-DB, ATTED-II, BAR). Takes a TAIR-style locus plus optional organism and returns gene metadata, functional/pathway annotatio",
+  "source_repo": "musharna/plant-genomics-mcp",
+  "source_url": "https://github.com/musharna/plant-genomics-mcp",
+  "install": "npx -y plant-genomics-mcp"
+}

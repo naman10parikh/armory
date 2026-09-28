@@ -1,0 +1,7 @@
+{
+  "name": "rlm-mem-mcp-server",
+  "description": "An MCP server implementing the TRUE Recursive Language Model technique for managing large context windows in Claude Code, enabling analysis of codebases beyond 200k tokens by storing content as variables and using LLM-generated code for search and analysis.",
+  "source_repo": "mosif16/RLM-Mem_MCP",
+  "source_url": "https://github.com/mosif16/RLM-Mem_MCP",
+  "install": "npx -y RLM-Mem_MCP"
+}

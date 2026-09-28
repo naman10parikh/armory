@@ -1,0 +1,7 @@
+{
+  "name": "ldap-assistant-mcp",
+  "description": "Enables troubleshooting of LDAP directory services through natural language queries, providing health diagnostics, replication status, performance metrics, log analysis, and configuration comparisons across multiple servers.",
+  "source_repo": "droideck/ldap-assistant-mcp",
+  "source_url": "https://github.com/droideck/ldap-assistant-mcp",
+  "install": "npx -y ldap-assistant-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sosumi-ai",
+  "description": "Converts Apple Developer documentation, HIG, WWDC transcripts, and external Swift-DocC pages into Markdown for AI consumption via MCP tools and HTTP API.",
+  "source_repo": "NSHipster/sosumi.ai",
+  "source_url": "https://github.com/NSHipster/sosumi.ai",
+  "install": "# git clone --depth 1 https://github.com/NSHipster/sosumi.ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vynn-mcp",
+  "description": "MCP server for Vynn — self-improving AI workflows & backtesting.",
+  "source_repo": "beee003/vynn-mcp",
+  "source_url": "https://github.com/beee003/vynn-mcp",
+  "install": "npx -y vynn-mcp"
+}

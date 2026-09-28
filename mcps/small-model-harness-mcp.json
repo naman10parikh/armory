@@ -1,0 +1,7 @@
+{
+  "name": "small-model-harness-mcp",
+  "description": "Provides context management, task classification, and routing tools for small models (1B-12B) in production agentic workflows.",
+  "source_repo": "iknowkungfubar/small-model-harness",
+  "source_url": "https://github.com/iknowkungfubar/small-model-harness",
+  "install": "# git clone --depth 1 https://github.com/iknowkungfubar/small-model-harness\n# See source for mcpServers config block"
+}

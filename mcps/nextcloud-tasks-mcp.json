@@ -1,0 +1,7 @@
+{
+  "name": "nextcloud-tasks-mcp",
+  "description": "MCP server for managing Nextcloud Tasks (todos) via CalDAV, allowing Claude to view, add, complete, edit, and delete tasks with GitHub OAuth authentication.",
+  "source_repo": "crosbyh/nextcloud-tasks-mcp",
+  "source_url": "https://github.com/crosbyh/nextcloud-tasks-mcp",
+  "install": "npx -y nextcloud-tasks-mcp"
+}

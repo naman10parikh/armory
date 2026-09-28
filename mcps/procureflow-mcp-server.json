@@ -1,0 +1,7 @@
+{
+  "name": "procureflow-mcp-server",
+  "description": "Enables AI agents to query and manage ERP procurement data, including suppliers, parts, inventory, and purchase orders, with human approval for write operations.",
+  "source_repo": "Running-hue/procureflow-agent",
+  "source_url": "https://github.com/Running-hue/procureflow-agent",
+  "install": "# git clone --depth 1 https://github.com/Running-hue/procureflow-agent\n# See source for mcpServers config block"
+}

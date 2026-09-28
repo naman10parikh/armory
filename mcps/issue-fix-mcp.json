@@ -1,0 +1,7 @@
+{
+  "name": "issue-fix-mcp",
+  "description": "A Model Context Protocol server that enables coding agents to search for and record software issue fixes with semantic search using natural language queries.",
+  "source_repo": "ehartye/issue-fix-mcp",
+  "source_url": "https://github.com/ehartye/issue-fix-mcp",
+  "install": "npx -y issue-fix-mcp"
+}

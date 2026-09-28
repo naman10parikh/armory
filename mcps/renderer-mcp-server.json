@@ -1,0 +1,7 @@
+{
+  "name": "renderer-mcp-server",
+  "description": "AI-powered assistant for the Renderer portfolio framework. Enables users to explore documentation, validate TOML configurations, generate templates, and customize portfolios through natural language.",
+  "source_repo": "NishikantaRay/renderer-mcp-server",
+  "source_url": "https://github.com/NishikantaRay/renderer-mcp-server",
+  "install": "npx -y renderer-mcp-server"
+}

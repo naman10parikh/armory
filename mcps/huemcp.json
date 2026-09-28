@@ -1,0 +1,7 @@
+{
+  "name": "huemcp",
+  "description": "Enables discovery and control of Philips Hue lighting devices via a local bridge using the CLIP v2 API, without any cloud dependency.",
+  "source_repo": "mbruton/HueMCP",
+  "source_url": "https://github.com/mbruton/HueMCP",
+  "install": "# git clone --depth 1 https://github.com/mbruton/HueMCP\n# See source for mcpServers config block"
+}

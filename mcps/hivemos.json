@@ -1,0 +1,7 @@
+{
+  "name": "hivemos",
+  "description": "Tether MOS site telemetry, mining intelligence, and energy arbitrage agent.",
+  "source_repo": "srotzin/hive-mcp-mos",
+  "source_url": "https://github.com/srotzin/hive-mcp-mos",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-mos\n# See source for mcpServers config block"
+}

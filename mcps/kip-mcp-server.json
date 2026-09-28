@@ -1,0 +1,7 @@
+{
+  "name": "kip-mcp-server",
+  "description": "An MCP server that lets an AI assistant look at your boat's Signal K data and help you design and install KIP dashboards.",
+  "source_repo": "dillan/kip-mcp-server",
+  "source_url": "https://github.com/dillan/kip-mcp-server",
+  "install": "npx -y kip-mcp-server"
+}

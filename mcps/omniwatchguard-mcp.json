@@ -1,0 +1,7 @@
+{
+  "name": "omniwatchguard-mcp",
+  "description": "Enables users to manage OmniWatchGuard website monitors and alerts via natural language. Supports listing, creating, updating, pausing, resuming, and deleting monitors, plus reviewing recent notifications across channels.",
+  "source_repo": "Isoprest/omniwatchguard-mcp",
+  "source_url": "https://github.com/Isoprest/omniwatchguard-mcp",
+  "install": "npx -y omniwatchguard-mcp"
+}

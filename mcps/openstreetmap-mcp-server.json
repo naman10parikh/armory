@@ -1,0 +1,7 @@
+{
+  "name": "openstreetmap-mcp-server",
+  "description": "Geocode, reverse geocode, and run Overpass spatial queries on OpenStreetMap data.",
+  "source_repo": "",
+  "source_url": "https://openstreetmap.caseyjhand.com/mcp",
+  "install": "# git clone --depth 1 https://openstreetmap.caseyjhand.com/mcp\n# See source for mcpServers config block"
+}

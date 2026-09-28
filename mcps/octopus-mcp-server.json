@@ -1,0 +1,7 @@
+{
+  "name": "octopus-mcp-server",
+  "description": "MCP server that brings Octopus AI code review into editors, allowing review of code changes and asking questions about your codebase. Integrates with Cursor, Claude, or any MCP client via natural language.",
+  "source_repo": "octopusreview/octopus-plugin",
+  "source_url": "https://github.com/octopusreview/octopus-plugin",
+  "install": "# git clone --depth 1 https://github.com/octopusreview/octopus-plugin\n# See source for mcpServers config block"
+}

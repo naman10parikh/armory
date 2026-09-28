@@ -1,0 +1,7 @@
+{
+  "name": "otgate",
+  "description": "An OT-aware authorization MCP server for OPC UA that applies process-aware policies (value ranges, rate limits, interlocks) to every agent call, enabling safe industrial control with optional human approval workflows.",
+  "source_repo": "alikup-ai/otgate",
+  "source_url": "https://github.com/alikup-ai/otgate",
+  "install": "# git clone --depth 1 https://github.com/alikup-ai/otgate\n# See source for mcpServers config block"
+}

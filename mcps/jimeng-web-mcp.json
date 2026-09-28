@@ -1,0 +1,7 @@
+{
+  "name": "jimeng-web-mcp",
+  "description": "Provides direct access to Jimeng AI's web interface for generating images and videos, supporting features like multi-image generation, video creation with frame control, and batch operations using free daily credits.",
+  "source_repo": "LupinLin1/jimeng-web-mcp",
+  "source_url": "https://github.com/LupinLin1/jimeng-web-mcp",
+  "install": "npx -y jimeng-web-mcp"
+}

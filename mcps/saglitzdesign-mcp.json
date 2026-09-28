@@ -1,0 +1,7 @@
+{
+  "name": "saglitzdesign-mcp",
+  "description": "Provides expert design and marketing guidance for AI coding agents through curated knowledge documents and tools. Covers UI/UX, copywriting, SEO, GEO, and conversion optimization.",
+  "source_repo": "HalidSaglam/saglitzdesign-mcp",
+  "source_url": "https://github.com/HalidSaglam/saglitzdesign-mcp",
+  "install": "npx -y saglitzdesign-mcp"
+}

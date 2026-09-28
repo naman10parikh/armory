@@ -1,0 +1,7 @@
+{
+  "name": "repliers-mcp-server",
+  "description": "Provides AI assistants access to real-time MLS data via the Repliers API, enabling natural language property search, market statistics, and listing details.",
+  "source_repo": "Repliers-io/mcp-server",
+  "source_url": "https://github.com/Repliers-io/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Repliers-io/mcp-server\n# See source for mcpServers config block"
+}

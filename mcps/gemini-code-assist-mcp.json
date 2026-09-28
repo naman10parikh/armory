@@ -1,0 +1,7 @@
+{
+  "name": "gemini-code-assist-mcp",
+  "description": "An MCP server that integrates Google Gemini CLI with Claude Code for AI-powered development assistance, enabling code review, bug analysis, feature planning, and code explanation without requiring an API key.",
+  "source_repo": "VinnyVanGogh/gemini-code-assist-mcp",
+  "source_url": "https://github.com/VinnyVanGogh/gemini-code-assist-mcp",
+  "install": "npx -y gemini-code-assist-mcp"
+}

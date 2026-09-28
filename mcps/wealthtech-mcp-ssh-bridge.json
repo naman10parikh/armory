@@ -1,0 +1,7 @@
+{
+  "name": "wealthtech-mcp-ssh-bridge",
+  "description": "A read-only MCP server that exposes controlled SSH tools to inventory, document, and prepare operations on WealthTech servers for AI assistants like ChatGPT and Codex.",
+  "source_repo": "Patricked-code/MCP",
+  "source_url": "https://github.com/Patricked-code/MCP",
+  "install": "# git clone --depth 1 https://github.com/Patricked-code/MCP\n# See source for mcpServers config block"
+}

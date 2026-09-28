@@ -1,0 +1,7 @@
+{
+  "name": "japanese-anki-mcp-server",
+  "description": "MCP server for Japanese language learning with Anki, enabling vocabulary card creation, reMarkable handwritten note OCR, and full Anki deck management.",
+  "source_repo": "johnhnguyen97/japanese-anki-mcp",
+  "source_url": "https://github.com/johnhnguyen97/japanese-anki-mcp",
+  "install": "npx -y japanese-anki-mcp"
+}

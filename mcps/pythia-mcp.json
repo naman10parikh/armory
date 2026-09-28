@@ -1,0 +1,7 @@
+{
+  "name": "pythia-mcp",
+  "description": "MCP server that lets agents query a Discord-based wiki knowledge bot by opening threads and aggregating answers.",
+  "source_repo": "HsYihung/pythia-mcp",
+  "source_url": "https://github.com/HsYihung/pythia-mcp",
+  "install": "npx -y pythia-mcp"
+}

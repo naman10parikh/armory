@@ -1,0 +1,7 @@
+{
+  "name": "graphpilot",
+  "description": "Structural memory for coding agents — 60% fewer tokens, refactor-safe, runs entirely on your machine.",
+  "source_repo": "graphpilot-oss/graphpilot",
+  "source_url": "https://github.com/graphpilot-oss/graphpilot",
+  "install": "# git clone --depth 1 https://github.com/graphpilot-oss/graphpilot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mm-ibkr-mcp",
+  "description": "MCP server for Interactive Brokers that enables account monitoring, order preview, trade execution, and basket trading with human-in-the-loop approval via Telegram and SQLite-backed audit.",
+  "source_repo": "MrRolie/mm-ibkr-mcp",
+  "source_url": "https://github.com/MrRolie/mm-ibkr-mcp",
+  "install": "npx -y mm-ibkr-mcp"
+}

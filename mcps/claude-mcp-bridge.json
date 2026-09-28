@@ -1,0 +1,7 @@
+{
+  "name": "claude-mcp-bridge",
+  "description": "MCP server that lets any agent or MCP host delegate tasks to Claude Code running headless, with tools for review, validation, analysis, and autonomous work.",
+  "source_repo": "JaimeJunr/claude-mcp-bridge",
+  "source_url": "https://github.com/JaimeJunr/claude-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/JaimeJunr/claude-mcp-bridge\n# See source for mcpServers config block"
+}

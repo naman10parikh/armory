@@ -1,0 +1,7 @@
+{
+  "name": "certid-o-de-d-bitos-pj",
+  "description": "MCP server that issues joint federal debt certificates for Brazilian companies from CNPJ. Read-only, hosted, pay-per-use, works with any MCP client.",
+  "source_repo": "mcp-dir/certidao_debitos_pj-mcp",
+  "source_url": "https://github.com/mcp-dir/certidao_debitos_pj-mcp",
+  "install": "npx -y certidao_debitos_pj-mcp"
+}

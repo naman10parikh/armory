@@ -1,0 +1,7 @@
+{
+  "name": "latentmachine-mcp-server",
+  "description": "Provides deterministic tools for understanding, transforming, and verifying structured data via MCP, enabling rule inference from examples and verification of transformed records.",
+  "source_repo": "Kumagaizo/latentmachine",
+  "source_url": "https://github.com/Kumagaizo/latentmachine",
+  "install": "# git clone --depth 1 https://github.com/Kumagaizo/latentmachine\n# See source for mcpServers config block"
+}

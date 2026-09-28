@@ -1,0 +1,7 @@
+{
+  "name": "codex-context-engine",
+  "description": "Indexes a workspace and exposes code-navigation tools to Codex, enabling symbol lookup, reference finding, dependency analysis, and security audit for local codebases.",
+  "source_repo": "Elioz404/PanchiCodex",
+  "source_url": "https://github.com/Elioz404/PanchiCodex",
+  "install": "# git clone --depth 1 https://github.com/Elioz404/PanchiCodex\n# See source for mcpServers config block"
+}

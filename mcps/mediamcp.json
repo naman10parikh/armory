@@ -1,0 +1,7 @@
+{
+  "name": "mediamcp",
+  "description": "mediamcp is an MCP server that connects your AI assistant — Claude Code, Claude Desktop, Cursor, Windsurf, VS Code, or anything else that speaks MCP — to cloud media models (Gemini Flash Image, GPT-5 Image, Seedream, Veo, Sora, …) via OpenRouter or any OpenAI-compatible API.",
+  "source_repo": "legolev/mediamcp",
+  "source_url": "https://github.com/legolev/mediamcp",
+  "install": "# git clone --depth 1 https://github.com/legolev/mediamcp\n# See source for mcpServers config block"
+}

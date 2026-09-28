@@ -1,0 +1,7 @@
+{
+  "name": "prefeitura-sp-sumar-nfs-e-nota-fiscal-eletr-nica-de-servi-os",
+  "description": "Read-only MCP server for consulting municipal electronic service invoices (NFS-e) from Sumaré, SP, through official sources, with a single query tool.",
+  "source_repo": "mcp-dir/pref_sp_sumare_nfs-mcp",
+  "source_url": "https://github.com/mcp-dir/pref_sp_sumare_nfs-mcp",
+  "install": "npx -y pref_sp_sumare_nfs-mcp"
+}

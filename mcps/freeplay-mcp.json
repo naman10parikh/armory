@@ -1,0 +1,7 @@
+{
+  "name": "freeplay-mcp",
+  "description": "Enables AI agents to interact with Freeplay, an ops platform for AI engineering teams, to analyze production logs, identify quality issues, iterate on prompts and agents using real data, and run experiments before deploying.",
+  "source_repo": "freeplayai/freeplay-mcp",
+  "source_url": "https://github.com/freeplayai/freeplay-mcp",
+  "install": "npx -y freeplay-mcp"
+}

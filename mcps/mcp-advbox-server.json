@@ -1,0 +1,7 @@
+{
+  "name": "mcp-advbox-server",
+  "description": "Enables AI agents to interact with the Advbox legal management system, supporting operations on clients, lawsuits, tasks, and financial transactions.",
+  "source_repo": "JonasSousaAP/advbox-mcp-server",
+  "source_url": "https://github.com/JonasSousaAP/advbox-mcp-server",
+  "install": "npx -y advbox-mcp-server"
+}

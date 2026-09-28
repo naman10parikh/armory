@@ -1,0 +1,7 @@
+{
+  "name": "qflow",
+  "description": "qflow is an MCP server that transforms AI editors into project managers with 50 built-in tools, requiring no API keys.",
+  "source_repo": "Pangu-Immortal/qflow",
+  "source_url": "https://github.com/Pangu-Immortal/qflow",
+  "install": "# git clone --depth 1 https://github.com/Pangu-Immortal/qflow\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ultra-confluence-mcp",
+  "description": "A Model Context Protocol server for Confluence Cloud that aggressively trims API responses to reduce token usage, with features like disk offload and tunable tool surface.",
+  "source_repo": "criblio/ultra-confluence-mcp",
+  "source_url": "https://github.com/criblio/ultra-confluence-mcp",
+  "install": "npx -y ultra-confluence-mcp"
+}

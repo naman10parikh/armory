@@ -1,0 +1,7 @@
+{
+  "name": "rlm-memory-mcp-server",
+  "description": "Provides persistent memory and semantic file discovery for AI coding agents, enabling them to remember changes and find relevant files across sessions.",
+  "source_repo": "jumpino27/RLM-Memory-MCP-Server",
+  "source_url": "https://github.com/jumpino27/RLM-Memory-MCP-Server",
+  "install": "npx -y RLM-Memory-MCP-Server"
+}

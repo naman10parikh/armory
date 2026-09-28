@@ -1,0 +1,7 @@
+{
+  "name": "referencemcp",
+  "description": "An academic reference manager MCP server that enables searching papers across multiple sources, managing references locally, and formatting citations in 10,000+ styles.",
+  "source_repo": "eduardofarina/ReferenceMCP",
+  "source_url": "https://github.com/eduardofarina/ReferenceMCP",
+  "install": "# git clone --depth 1 https://github.com/eduardofarina/ReferenceMCP\n# See source for mcpServers config block"
+}

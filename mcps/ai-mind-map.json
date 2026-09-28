@@ -1,0 +1,7 @@
+{
+  "name": "ai-mind-map",
+  "description": "An MCP server that reduces AI coding agent token usage by 80-99% through a queryable knowledge graph of code, change tracking, and persistent memory across sessions.",
+  "source_repo": "shdra06/ai-mind-map",
+  "source_url": "https://github.com/shdra06/ai-mind-map",
+  "install": "# git clone --depth 1 https://github.com/shdra06/ai-mind-map\n# See source for mcpServers config block"
+}

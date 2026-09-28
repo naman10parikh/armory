@@ -1,0 +1,7 @@
+{
+  "name": "galaxus-mcp",
+  "description": "Enables AI assistants to search products and retrieve detailed information from Galaxus and Digitec, including prices, specifications, and price history.",
+  "source_repo": "LeonardoRO/galaxus-mcp",
+  "source_url": "https://github.com/LeonardoRO/galaxus-mcp",
+  "install": "npx -y galaxus-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sec-ops-mcp",
+  "description": "Enables LLMs and AI agents to perform defensive security posture assessments, privilege escalation surface audits, and post-quantum cryptography readiness checks through read-only diagnostic tools.",
+  "source_repo": "JoaquinHernandez/sec-ops-mcp",
+  "source_url": "https://github.com/JoaquinHernandez/sec-ops-mcp",
+  "install": "npx -y sec-ops-mcp"
+}

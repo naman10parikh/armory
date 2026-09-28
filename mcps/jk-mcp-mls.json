@@ -1,0 +1,7 @@
+{
+  "name": "jk-mcp-mls",
+  "description": "MCP server that gives Claude live access to Major League Soccer data — teams, matches, standings, rosters, and schedule-strength analytics — via the ESPN public API.",
+  "source_repo": "jedi-knights/jk-mcp-mls",
+  "source_url": "https://github.com/jedi-knights/jk-mcp-mls",
+  "install": "# git clone --depth 1 https://github.com/jedi-knights/jk-mcp-mls\n# See source for mcpServers config block"
+}

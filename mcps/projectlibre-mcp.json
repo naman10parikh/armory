@@ -1,0 +1,7 @@
+{
+  "name": "projectlibre-mcp",
+  "description": "Read, analyze, create, and edit ProjectLibre project files (.pod/.xml) from Claude using the MPXJ library.",
+  "source_repo": "Osyanne/projectlibre-mcp",
+  "source_url": "https://github.com/Osyanne/projectlibre-mcp",
+  "install": "npx -y projectlibre-mcp"
+}

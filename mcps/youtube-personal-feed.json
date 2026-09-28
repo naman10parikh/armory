@@ -1,0 +1,7 @@
+{
+  "name": "youtube-personal-feed",
+  "description": "MCP server that connects to your personal YouTube account and exposes your subscription feed, letting you list subscribed channels, recent uploads, and get YouTube watch links for handoff to other MCPs.",
+  "source_repo": "toniher/youtube-personal-feed",
+  "source_url": "https://github.com/toniher/youtube-personal-feed",
+  "install": "# git clone --depth 1 https://github.com/toniher/youtube-personal-feed\n# See source for mcpServers config block"
+}

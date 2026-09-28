@@ -1,6 +1,6 @@
 {
   "name": "awesome-blockchain-mcps",
-  "description": "Awesome Blockchain Mcps MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "royyannick/awesome-blockchain-mcps",
   "source_url": "https://mcp.so/server/awesome-blockchain-mcps/royyannick",
   "install": "# git clone --depth 1 https://mcp.so/server/awesome-blockchain-mcps/royyannick\n# See source for mcpServers config block"

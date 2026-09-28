@@ -1,0 +1,7 @@
+{
+  "name": "manos-mcp",
+  "description": "A Model Context Protocol server for ad-hoc UI testing of Android and iOS apps, enabling LLM agents to interact with mobile app UIs and react to observations.",
+  "source_repo": "ryanperkins/Manos-MCP",
+  "source_url": "https://github.com/ryanperkins/Manos-MCP",
+  "install": "npx -y Manos-MCP"
+}

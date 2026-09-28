@@ -1,0 +1,7 @@
+{
+  "name": "ai-search-mcp-server",
+  "description": "Provides intelligent search aggregation for AI agents, automatically detecting intent and returning structured results with links to platforms for various categories like movies, books, products, courses, and more.",
+  "source_repo": "lzycjwds/-ai-search-mcp",
+  "source_url": "https://github.com/lzycjwds/-ai-search-mcp",
+  "install": "npx -y -ai-search-mcp"
+}

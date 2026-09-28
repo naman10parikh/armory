@@ -1,0 +1,7 @@
+{
+  "name": "mailroom",
+  "description": "Enables AI agents to manage project email by listing, describing, and running bounded mailbox operations such as reading messages, searching, and sending drafts.",
+  "source_repo": "iannuttall/mailroom",
+  "source_url": "https://github.com/iannuttall/mailroom",
+  "install": "# git clone --depth 1 https://github.com/iannuttall/mailroom\n# See source for mcpServers config block"
+}

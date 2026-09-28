@@ -1,0 +1,7 @@
+{
+  "name": "gnews-api-mcp-server",
+  "description": "Provides access to global news articles from over 60,000 sources through the GNews API. Supports keyword search, category browsing, and language customization.",
+  "source_repo": "bads1de/GNews-MCP",
+  "source_url": "https://github.com/bads1de/GNews-MCP",
+  "install": "npx -y GNews-MCP"
+}

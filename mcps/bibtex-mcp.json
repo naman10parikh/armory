@@ -1,0 +1,7 @@
+{
+  "name": "bibtex-mcp",
+  "description": "CLI and MCP server for fetching multiple BibTeX options from Google Scholar's visible citation export flow.",
+  "source_repo": "aryankeluskar/bibtex-mcp",
+  "source_url": "https://github.com/aryankeluskar/bibtex-mcp",
+  "install": "npx -y bibtex-mcp"
+}

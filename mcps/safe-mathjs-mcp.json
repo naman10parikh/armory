@@ -1,0 +1,7 @@
+{
+  "name": "safe-mathjs-mcp",
+  "description": "Safe MCP server for math operations: evaluate, simplify, and differentiate expressions with configurable precision, using a sandboxed worker thread and strict AST allowlist to block dangerous input.",
+  "source_repo": "daffamumtaz2361/safe-mathjs-mcp",
+  "source_url": "https://github.com/daffamumtaz2361/safe-mathjs-mcp",
+  "install": "npx -y safe-mathjs-mcp"
+}

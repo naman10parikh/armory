@@ -1,0 +1,7 @@
+{
+  "name": "sitecore-personalize-mcp",
+  "description": "An MCP server for Sitecore Personalize / CDP that exposes decisioning flows, experiences, audiences, guest profiles, events, and datasets as tools, enabling natural-language management and interaction with Sitecore Personalize.",
+  "source_repo": "keerthika-srinivasan/sitecore-personalize-mcp",
+  "source_url": "https://github.com/keerthika-srinivasan/sitecore-personalize-mcp",
+  "install": "npx -y sitecore-personalize-mcp"
+}

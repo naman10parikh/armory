@@ -1,0 +1,7 @@
+{
+  "name": "wikicapsule",
+  "description": "Turns a git-backed markdown directory into an MCP-compatible knowledge server, enabling any MCP client to read, search, ingest, and maintain a persistent wiki that compounds across sessions.",
+  "source_repo": "pisigmac/wikicapsule",
+  "source_url": "https://github.com/pisigmac/wikicapsule",
+  "install": "# git clone --depth 1 https://github.com/pisigmac/wikicapsule\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "slack-mcp-server-ubie-oss",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/slack-mcp-server-ubie-oss",
+  "install": "# git clone --depth 1 https://mcp.so/server/slack-mcp-server-ubie-oss\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kinescope-mcp-server",
+  "description": "Kinescope MCP Server — Integrates Kinescope's video platform with AI assistants via the Model Context Protocol. Manage videos, access analytics, control live streams, and automate workflows through natural language. Upload, organize, update metadata, view performance metrics, and manage playlists wi",
+  "source_repo": "",
+  "source_url": "https://kinescope.com",
+  "install": "# git clone --depth 1 https://kinescope.com\n# See source for mcpServers config block"
+}

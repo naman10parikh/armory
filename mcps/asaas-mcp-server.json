@@ -1,0 +1,7 @@
+{
+  "name": "asaas-mcp-server",
+  "description": "Enables querying and operating Asaas digital account and billing (boletos, PIX, credit card, subscriptions, splits, etc.) via natural language, with read-only access.",
+  "source_repo": "mcp-dir/asaas-mcp",
+  "source_url": "https://github.com/mcp-dir/asaas-mcp",
+  "install": "npx -y asaas-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zenoti-mcp-server",
+  "description": "Enables AI agents to manage spa/wellness operations via Zenoti API, including appointments, guests, services, and billing.",
+  "source_repo": "tacit-code/zenoti-mcp-server",
+  "source_url": "https://github.com/tacit-code/zenoti-mcp-server",
+  "install": "npx -y zenoti-mcp-server"
+}

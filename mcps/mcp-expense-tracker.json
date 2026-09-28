@@ -1,0 +1,7 @@
+{
+  "name": "mcp-expense-tracker",
+  "description": "Enables tracking personal expenses by adding, listing, deleting, and summarizing expenses by day or month, stored locally in a JSON file.",
+  "source_repo": "sppandita85/mcp-expense-tracker",
+  "source_url": "https://github.com/sppandita85/mcp-expense-tracker",
+  "install": "# git clone --depth 1 https://github.com/sppandita85/mcp-expense-tracker\n# See source for mcpServers config block"
+}

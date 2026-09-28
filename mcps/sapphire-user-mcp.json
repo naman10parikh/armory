@@ -1,0 +1,7 @@
+{
+  "name": "sapphire-user-mcp",
+  "description": "Exposes user profile data from the Sapphire Wellness App to AI assistants via MCP, providing tools for fetching health alerts, personalized recommendations, and partner service subscriptions.",
+  "source_repo": "avd-fde-labs/sapphire-user-mcp",
+  "source_url": "https://github.com/avd-fde-labs/sapphire-user-mcp",
+  "install": "npx -y sapphire-user-mcp"
+}

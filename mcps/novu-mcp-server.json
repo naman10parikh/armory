@@ -1,0 +1,7 @@
+{
+  "name": "novu-mcp-server",
+  "description": "Enables AI agents to interact with Novu's notification infrastructure, supporting event triggering, subscriber management, topic operations, and notification retrieval.",
+  "source_repo": "zenkodr/smithery-mcp",
+  "source_url": "https://github.com/zenkodr/smithery-mcp",
+  "install": "npx -y smithery-mcp"
+}

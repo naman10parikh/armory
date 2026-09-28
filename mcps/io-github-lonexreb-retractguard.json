@@ -1,0 +1,7 @@
+{
+  "name": "io-github-lonexreb-retractguard",
+  "description": "Provides MCP tools to check reference lists for retracted or problematic citations, retrieve nuanced editorial statuses with evidence, and monitor institutions for newly flagged papers using open data from OpenAlex, Retraction Watch, and Crossref.",
+  "source_repo": "lonexreb/cite-guard",
+  "source_url": "https://github.com/lonexreb/cite-guard",
+  "install": "# git clone --depth 1 https://github.com/lonexreb/cite-guard\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stream-mcp-server",
+  "description": "An MCP server for Evertrust Stream, a PKI platform, allowing LLM clients to manage certificate authorities, issue/revoke X.509 and SSH certificates, and operate PKI infrastructure through natural language.",
+  "source_repo": "evertrust/stream-mcp",
+  "source_url": "https://github.com/evertrust/stream-mcp",
+  "install": "npx -y stream-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "semantic-scholar-mcp-server",
+  "description": "Provides tools to search, retrieve, and explore over 200M academic papers, authors, citations, and full-text snippets via the Semantic Scholar API.",
+  "source_repo": "SMABoundless/semanticscholar-mcp-server",
+  "source_url": "https://github.com/SMABoundless/semanticscholar-mcp-server",
+  "install": "npx -y semanticscholar-mcp-server"
+}

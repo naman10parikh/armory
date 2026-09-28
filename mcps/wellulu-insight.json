@@ -1,0 +1,7 @@
+{
+  "name": "wellulu-insight",
+  "description": "Enables automatic saving of insights from Claude conversations as GitHub Issues, with features to create, list, and search insights by category and keyword.",
+  "source_repo": "DonoueKen/wellulu-insight",
+  "source_url": "https://github.com/DonoueKen/wellulu-insight",
+  "install": "# git clone --depth 1 https://github.com/DonoueKen/wellulu-insight\n# See source for mcpServers config block"
+}

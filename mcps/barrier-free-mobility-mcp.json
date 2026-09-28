@@ -1,0 +1,7 @@
+{
+  "name": "barrier-free-mobility-mcp",
+  "description": "This MCP server provides accessibility risk assessment for Seoul subway trips, considering wheelchair, stroller, and other mobility constraints. It offers tools to check station facilities, elevator status, and calculates risk scores for routes based on a deterministic engine.",
+  "source_repo": "kaero313/barrier-free-mobility-mcp",
+  "source_url": "https://github.com/kaero313/barrier-free-mobility-mcp",
+  "install": "npx -y barrier-free-mobility-mcp"
+}

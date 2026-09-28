@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-traceparent",
+  "description": "Echo tool MCP server that extracts and logs W3C Trace Context from requests to verify propagation from Claude Code.",
+  "source_repo": "yokonao/claude-code-traceparent",
+  "source_url": "https://github.com/yokonao/claude-code-traceparent",
+  "install": "# git clone --depth 1 https://github.com/yokonao/claude-code-traceparent\n# See source for mcpServers config block"
+}

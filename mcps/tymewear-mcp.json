@@ -1,0 +1,7 @@
+{
+  "name": "tymewear-mcp",
+  "description": "Connects Claude to Tyme Wear's breathing sensor platform to analyze ventilatory data, activities, thresholds, and training zones.",
+  "source_repo": "tkelkermans/tymewear-mcp",
+  "source_url": "https://github.com/tkelkermans/tymewear-mcp",
+  "install": "npx -y tymewear-mcp"
+}

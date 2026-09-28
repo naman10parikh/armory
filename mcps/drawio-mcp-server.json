@@ -1,0 +1,7 @@
+{
+  "name": "drawio-mcp-server",
+  "description": "Enables creating and editing draw.io diagrams from structured descriptions, rendering them as interactive inline SVGs, and providing access to the full draw.io editor for further modification and export.",
+  "source_repo": "niklasmeixner-langdock/drawio-mcp-server",
+  "source_url": "https://github.com/niklasmeixner-langdock/drawio-mcp-server",
+  "install": "npx -y drawio-mcp-server"
+}

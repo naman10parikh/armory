@@ -1,0 +1,7 @@
+{
+  "name": "provenance-mcp",
+  "description": "Checks wash-traffic risk of Algorand x402 endpoints using on-chain analysis, helping agents decide whether to pay USDC.",
+  "source_repo": "apeirontrade/provenance-mcp",
+  "source_url": "https://github.com/apeirontrade/provenance-mcp",
+  "install": "npx -y provenance-mcp"
+}

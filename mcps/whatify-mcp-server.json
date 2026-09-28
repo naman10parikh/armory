@@ -1,0 +1,7 @@
+{
+  "name": "whatify-mcp-server",
+  "description": "Exposes Whatify's WhatsApp API as tools for MCP-compatible AI clients, enabling sending messages, templates, and flows, and reading contacts, conversations, campaigns, and wallet balance.",
+  "source_repo": "ashusingh1/whatify-mcp",
+  "source_url": "https://github.com/ashusingh1/whatify-mcp",
+  "install": "npx -y whatify-mcp"
+}

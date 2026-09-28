@@ -1,0 +1,7 @@
+{
+  "name": "fastmcp-render-boilerplate",
+  "description": "A boilerplate MCP server built with Python and FastMCP, ready for deployment on Render, with example tools and logging.",
+  "source_repo": "nzwi263/mcp-server-using-py-fastmcp-render-boilerplate",
+  "source_url": "https://github.com/nzwi263/mcp-server-using-py-fastmcp-render-boilerplate",
+  "install": "# git clone --depth 1 https://github.com/nzwi263/mcp-server-using-py-fastmcp-render-boilerplate\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "amazfit-mcp",
+  "description": "Enables Claude to analyze training data from spreadsheets and Amazfit watches, providing insights on strength progression, running metrics, recovery status, and readiness, with tools for weekly reviews, exercise progression, and health reporting.",
+  "source_repo": "MatheuslFavaretto/amazfit-mcp",
+  "source_url": "https://github.com/MatheuslFavaretto/amazfit-mcp",
+  "install": "npx -y amazfit-mcp"
+}

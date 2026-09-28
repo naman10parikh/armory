@@ -1,0 +1,7 @@
+{
+  "name": "voiceos-todoist",
+  "description": "Enables voice control of Todoist tasks via VoiceOS, with optional Apple Reminders to Todoist sync.",
+  "source_repo": "gabeperez/voiceos-todoist",
+  "source_url": "https://github.com/gabeperez/voiceos-todoist",
+  "install": "# git clone --depth 1 https://github.com/gabeperez/voiceos-todoist\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "evolved",
+  "description": "An MCP server that provides the complete operations brain of an industrial-services company, enabling agents to manage quoting, booking, invoicing, safety, and finances end-to-end.",
+  "source_repo": "kr8tiv-ai/evolved",
+  "source_url": "https://github.com/kr8tiv-ai/evolved",
+  "install": "# git clone --depth 1 https://github.com/kr8tiv-ai/evolved\n# See source for mcpServers config block"
+}

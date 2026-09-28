@@ -1,0 +1,7 @@
+{
+  "name": "rizerve-mcp-server",
+  "description": "MCP server for the Rizerve direct booking platform. Enables managing properties, bookings, availability, iCal sync, analytics, and webhooks through AI assistants.",
+  "source_repo": "panoskiriakopoulos-sys/rizerve-mcp-server",
+  "source_url": "https://github.com/panoskiriakopoulos-sys/rizerve-mcp-server",
+  "install": "npx -y rizerve-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qinglong-mcp",
+  "description": "MCP server that lets AI clients manage a Qinglong (qinglong) panel via natural language, covering crons, environment variables, scripts, subscriptions, logs, configs, and dependencies through its Open API.",
+  "source_repo": "YSJohnson/qinglong-mcp",
+  "source_url": "https://github.com/YSJohnson/qinglong-mcp",
+  "install": "npx -y qinglong-mcp"
+}

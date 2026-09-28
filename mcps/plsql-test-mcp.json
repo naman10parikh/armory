@@ -1,0 +1,7 @@
+{
+  "name": "plsql-test-mcp",
+  "description": "MCP server for IFS Cloud PL/SQL unit testing, enabling check of testability, generation of unit tests, and orchestration of deploy/run steps via ifs-f1-codegen-dev.",
+  "source_repo": "VaruniAlwis/plsql-test-mcp",
+  "source_url": "https://github.com/VaruniAlwis/plsql-test-mcp",
+  "install": "npx -y plsql-test-mcp"
+}

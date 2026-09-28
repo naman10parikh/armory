@@ -1,0 +1,7 @@
+{
+  "name": "pooml-mcp",
+  "description": "Enables querying logs and metrics with plain SQL from any MCP client via pooml's read-only query API.",
+  "source_repo": "n0rdy/pooml-mcp",
+  "source_url": "https://github.com/n0rdy/pooml-mcp",
+  "install": "npx -y pooml-mcp"
+}

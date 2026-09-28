@@ -1,0 +1,7 @@
+{
+  "name": "seshat-mcp-server",
+  "description": "Enables querying 10,000 years of historical social-complexity data from the Seshat Global History Databank through 9 tools, allowing counterfactual analysis and comparison of polities in natural language.",
+  "source_repo": "mosse/seshat-mcp",
+  "source_url": "https://github.com/mosse/seshat-mcp",
+  "install": "npx -y seshat-mcp"
+}

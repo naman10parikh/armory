@@ -1,0 +1,7 @@
+{
+  "name": "mcp-records-demo",
+  "description": "A demo MCP server for generic record management with read/write tools, write safeguards, and structured error handling, designed as a portfolio piece that can be adapted for real business APIs.",
+  "source_repo": "groundwork07/mcp-records-demo",
+  "source_url": "https://github.com/groundwork07/mcp-records-demo",
+  "install": "# git clone --depth 1 https://github.com/groundwork07/mcp-records-demo\n# See source for mcpServers config block"
+}

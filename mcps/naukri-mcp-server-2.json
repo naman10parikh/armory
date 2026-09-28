@@ -1,0 +1,7 @@
+{
+  "name": "naukri-mcp-server-2",
+  "description": "Enables job searching on Naukri via MCP, offering tools like search_jobs, get_job_details, get_trending_roles, and get_my_profile_summary, currently using demo data.",
+  "source_repo": "krishnananbu/naukri_mcp",
+  "source_url": "https://github.com/krishnananbu/naukri_mcp",
+  "install": "npx -y naukri_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lettucemeet-mcp",
+  "description": "Unofficial MCP tools for LettuceMeet to create polls, view responses, and find meeting overlaps via CLI or MCP server.",
+  "source_repo": "brchn6/LettuceMeet_CLI",
+  "source_url": "https://github.com/brchn6/LettuceMeet_CLI",
+  "install": "# git clone --depth 1 https://github.com/brchn6/LettuceMeet_CLI\n# See source for mcpServers config block"
+}

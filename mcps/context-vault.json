@@ -1,0 +1,7 @@
+{
+  "name": "context-vault",
+  "description": "Persistent memory for AI agents enabling saving, searching, and managing knowledge across sessions with local markdown files.",
+  "source_repo": "fellanH/context-vault",
+  "source_url": "https://github.com/fellanH/context-vault",
+  "install": "# git clone --depth 1 https://github.com/fellanH/context-vault\n# See source for mcpServers config block"
+}

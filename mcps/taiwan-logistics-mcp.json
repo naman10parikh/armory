@@ -1,0 +1,7 @@
+{
+  "name": "taiwan-logistics-mcp",
+  "description": "Enables AI agents to create CVS store pickup and home delivery shipments in Taiwan, including label printing and tracking via the ECPay Logistics API.",
+  "source_repo": "junter1989k-ai/taiwan-logistics-mcp",
+  "source_url": "https://github.com/junter1989k-ai/taiwan-logistics-mcp",
+  "install": "npx -y taiwan-logistics-mcp"
+}

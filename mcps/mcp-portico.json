@@ -1,0 +1,7 @@
+{
+  "name": "mcp-portico",
+  "description": "MCP Portico is an MCP server that turns OpenAPI descriptions or inspected backend source code into policy-controlled MCP connections, exposing multiple backend systems with tenant isolation and credential security.",
+  "source_repo": "yashcodelabs/mcp-portico",
+  "source_url": "https://github.com/yashcodelabs/mcp-portico",
+  "install": "# git clone --depth 1 https://github.com/yashcodelabs/mcp-portico\n# See source for mcpServers config block"
+}

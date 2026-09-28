@@ -1,0 +1,7 @@
+{
+  "name": "mcp-salesforce-reader",
+  "description": "A read-only MCP server for querying Salesforce metadata and object schemas across multiple orgs. Enables AI agents to understand Salesforce org structures securely with production confirmation.",
+  "source_repo": "MarcoFloresCa/MCP-Salesforce",
+  "source_url": "https://github.com/MarcoFloresCa/MCP-Salesforce",
+  "install": "# git clone --depth 1 https://github.com/MarcoFloresCa/MCP-Salesforce\n# See source for mcpServers config block"
+}

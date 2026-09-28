@@ -1,0 +1,7 @@
+{
+  "name": "pbs-chat-mcp-server",
+  "description": "Enables AI assistants to query the Australian Pharmaceutical Benefits Scheme (PBS) API for medicine pricing, prescriber information, schedules, and more.",
+  "source_repo": "rakeshnirzari1/pbs-chat-mcp",
+  "source_url": "https://github.com/rakeshnirzari1/pbs-chat-mcp",
+  "install": "npx -y pbs-chat-mcp"
+}

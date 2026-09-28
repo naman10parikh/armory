@@ -1,0 +1,7 @@
+{
+  "name": "pocmap-mcp-server",
+  "description": "AI-agent-optimized CVE exploit discovery toolkit that provides 19 tools for finding proof-of-concept exploits, CTF labs, bug bounty reports, and vulnerability intelligence from a single interface.",
+  "source_repo": "zebbern/pocmap",
+  "source_url": "https://github.com/zebbern/pocmap",
+  "install": "# git clone --depth 1 https://github.com/zebbern/pocmap\n# See source for mcpServers config block"
+}

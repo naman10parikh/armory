@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tienda-nube",
+  "description": "MCP server that exposes all 111 endpoints of the Tienda Nube API as tools for Cursor (or other MCP clients) to code directly with the API.",
+  "source_repo": "ropu/MCP-tienda_nube",
+  "source_url": "https://github.com/ropu/MCP-tienda_nube",
+  "install": "# git clone --depth 1 https://github.com/ropu/MCP-tienda_nube\n# See source for mcpServers config block"
+}

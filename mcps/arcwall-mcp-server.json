@@ -1,0 +1,7 @@
+{
+  "name": "arcwall-mcp-server",
+  "description": "Security scanning for AI coding tools (Claude Code, Cursor, Windsurf) including secrets detection, MCP config vulnerabilities, agent instruction checks, threat modeling, prompt injection testing, pre-commit security checks, and dependency vulnerability scanning.",
+  "source_repo": "rom-baro/arcwall-mcp",
+  "source_url": "https://github.com/rom-baro/arcwall-mcp",
+  "install": "npx -y arcwall-mcp"
+}

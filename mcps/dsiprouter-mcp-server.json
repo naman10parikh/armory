@@ -1,0 +1,7 @@
+{
+  "name": "dsiprouter-mcp-server",
+  "description": "Enables AI assistants to manage dSIPRouter operations such as endpoint groups, carrier groups, inbound mappings, and call data retrieval through natural language.",
+  "source_repo": "dOpensource/dsiprouter-mcp",
+  "source_url": "https://github.com/dOpensource/dsiprouter-mcp",
+  "install": "npx -y dsiprouter-mcp"
+}

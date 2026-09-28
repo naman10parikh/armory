@@ -1,0 +1,7 @@
+{
+  "name": "replication-radar",
+  "description": "An MCP server that makes the OpenAIRE Graph more useful for replication by identifying high-impact work worth replicating, finding independent reusable tooling, and checking replication status with verdicts.",
+  "source_repo": "ScienceLiveHub/replication-radar",
+  "source_url": "https://github.com/ScienceLiveHub/replication-radar",
+  "install": "# git clone --depth 1 https://github.com/ScienceLiveHub/replication-radar\n# See source for mcpServers config block"
+}

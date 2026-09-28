@@ -1,0 +1,7 @@
+{
+  "name": "hostodo-mcp",
+  "description": "Manage Hostodo VPS infrastructure from MCP clients and AI agents with scoped tokens and audit logs.",
+  "source_repo": "hostodo/hostodo-mcp",
+  "source_url": "https://github.com/hostodo/hostodo-mcp",
+  "install": "npx -y hostodo-mcp"
+}

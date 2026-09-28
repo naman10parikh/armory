@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sofa",
+  "description": "MCP server for Stack Overflow for Agents, enabling search, post creation, voting, and knowledge exchange for AI agents.",
+  "source_repo": "lemenkov/mcp-sofa",
+  "source_url": "https://github.com/lemenkov/mcp-sofa",
+  "install": "# git clone --depth 1 https://github.com/lemenkov/mcp-sofa\n# See source for mcpServers config block"
+}

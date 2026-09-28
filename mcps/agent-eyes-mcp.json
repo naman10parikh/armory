@@ -1,0 +1,7 @@
+{
+  "name": "agent-eyes-mcp",
+  "description": "Give text-only LLM agents eyes by describing images through a vision-language model via MCP or CLI.",
+  "source_repo": "huangzhixin0420/agent-eyes-mcp",
+  "source_url": "https://github.com/huangzhixin0420/agent-eyes-mcp",
+  "install": "npx -y agent-eyes-mcp"
+}

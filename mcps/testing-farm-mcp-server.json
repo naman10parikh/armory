@@ -1,0 +1,7 @@
+{
+  "name": "testing-farm-mcp-server",
+  "description": "Enables submitting FMF-based test requests to Testing Farm and listing available OS composes for testing.",
+  "source_repo": "testing-farm/mcp",
+  "source_url": "https://github.com/testing-farm/mcp",
+  "install": "# git clone --depth 1 https://github.com/testing-farm/mcp\n# See source for mcpServers config block"
+}

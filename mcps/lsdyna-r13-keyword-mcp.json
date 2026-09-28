@@ -1,0 +1,7 @@
+{
+  "name": "lsdyna-r13-keyword-mcp",
+  "description": "Provides structured access to LS-DYNA R13 keyword manuals via MCP, enabling AI agents to retrieve card syntax, field info, and search within sections for writing and verifying LS-DYNA input files.",
+  "source_repo": "JimmyZhou226/lsdyna-r13-keyword-mcp",
+  "source_url": "https://github.com/JimmyZhou226/lsdyna-r13-keyword-mcp",
+  "install": "npx -y lsdyna-r13-keyword-mcp"
+}

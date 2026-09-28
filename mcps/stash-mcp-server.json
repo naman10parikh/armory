@@ -1,0 +1,7 @@
+{
+  "name": "stash-mcp-server",
+  "description": "An MCP server for querying and analyzing a Stash instance with advanced filters, caching, and personalized recommendations.",
+  "source_repo": "donlothario/stash_mcp_server",
+  "source_url": "https://github.com/donlothario/stash_mcp_server",
+  "install": "npx -y stash_mcp_server"
+}

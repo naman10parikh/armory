@@ -1,0 +1,7 @@
+{
+  "name": "capture-and-slack-mcp",
+  "description": "Relays a result screenshot to Slack so you can review a coding agent's output without opening the app.",
+  "source_repo": "baho0/capture-and-slack-mcp",
+  "source_url": "https://github.com/baho0/capture-and-slack-mcp",
+  "install": "npx -y capture-and-slack-mcp"
+}

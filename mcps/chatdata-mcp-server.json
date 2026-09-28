@@ -1,6 +1,6 @@
 {
   "name": "chatdata-mcp-server",
-  "description": "Chatdata Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "xiaozhch5/chatdata-mcp-server",
   "source_url": "https://mcp.so/server/chatdata-mcp-server/xiaozhch5",
   "install": "npx -y chatdata-mcp-server"

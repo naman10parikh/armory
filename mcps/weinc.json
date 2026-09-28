@@ -1,0 +1,7 @@
+{
+  "name": "weinc",
+  "description": "Hosted remote MCP server for WeInc (we.inc), the AI website builder. Manage projects, publishing, custom domains, and previews from Claude, Cursor, or any MCP client - nothing to install.",
+  "source_repo": "umairalisadaqat/weinc-mcp",
+  "source_url": "https://github.com/umairalisadaqat/weinc-mcp",
+  "install": "npx -y weinc-mcp"
+}

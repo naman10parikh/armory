@@ -1,0 +1,7 @@
+{
+  "name": "payments-toolkit-mcp",
+  "description": "A local MCP server providing payment validation tools and resources, including card number Luhn checks, card network detection, and IBAN validation, with no network calls required.",
+  "source_repo": "ramigs/payments-toolkit-mcp",
+  "source_url": "https://github.com/ramigs/payments-toolkit-mcp",
+  "install": "npx -y payments-toolkit-mcp"
+}

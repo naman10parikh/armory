@@ -1,0 +1,7 @@
+{
+  "name": "nidonnaesan",
+  "description": "Enables reviewers to find sponsorship campaigns, assess their value, and generate application messages via a conversational interface. It integrates with Korean review platforms and provides tips for increasing selection rates.",
+  "source_repo": "dablro12/nidonnaesan-mcp",
+  "source_url": "https://github.com/dablro12/nidonnaesan-mcp",
+  "install": "npx -y nidonnaesan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-mesh",
+  "description": "Enables networked Claude-to-Claude messaging over HTTP and MCP channels, allowing direct messages, broadcasts, threaded replies, and permission approvals among Claude Code instances.",
+  "source_repo": "pouriamrt/claude-mesh",
+  "source_url": "https://github.com/pouriamrt/claude-mesh",
+  "install": "# git clone --depth 1 https://github.com/pouriamrt/claude-mesh\n# See source for mcpServers config block"
+}

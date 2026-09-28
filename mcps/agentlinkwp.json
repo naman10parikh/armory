@@ -1,0 +1,7 @@
+{
+  "name": "agentlinkwp",
+  "description": "Enables MCP-compatible AI agents to securely manage multiple self-hosted WordPress sites, including content editing, theme management, and maintenance operations with fine-grained permission controls.",
+  "source_repo": "AIGenArt/AgentLinkWP",
+  "source_url": "https://github.com/AIGenArt/AgentLinkWP",
+  "install": "# git clone --depth 1 https://github.com/AIGenArt/AgentLinkWP\n# See source for mcpServers config block"
+}

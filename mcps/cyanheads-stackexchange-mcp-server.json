@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-stackexchange-mcp-server",
+  "description": "Search Stack Exchange questions, fetch complete Q&A threads as clean markdown, browse tag FAQs, and look up user profiles via MCP.",
+  "source_repo": "cyanheads/stackexchange-mcp-server",
+  "source_url": "https://github.com/cyanheads/stackexchange-mcp-server",
+  "install": "npx -y stackexchange-mcp-server"
+}

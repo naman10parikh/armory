@@ -1,0 +1,7 @@
+{
+  "name": "salta-mcp",
+  "description": "Enables Claude Code to read, create, and complete tasks in your Salta life planner account, and break goals into dated steps, synced to your phone and web.",
+  "source_repo": "jnuo/salta-mcp",
+  "source_url": "https://github.com/jnuo/salta-mcp",
+  "install": "npx -y salta-mcp"
+}

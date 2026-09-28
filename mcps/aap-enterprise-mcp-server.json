@@ -1,0 +1,7 @@
+{
+  "name": "aap-enterprise-mcp-server",
+  "description": "A comprehensive MCP server suite for Red Hat's automation ecosystem, enabling AI assistants to interact with Ansible Automation Platform, Event-Driven Ansible, ansible-lint, and official Red Hat documentation with secure domain validation.",
+  "source_repo": "sibilleb/AAP-Enterprise-MCP-Server",
+  "source_url": "https://github.com/sibilleb/AAP-Enterprise-MCP-Server",
+  "install": "npx -y AAP-Enterprise-MCP-Server"
+}

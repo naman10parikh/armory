@@ -1,0 +1,7 @@
+{
+  "name": "media-agent",
+  "description": "MCP server that gives AI agents video parsing and downloading capabilities, offering tools to extract video info, list formats, and download videos from sites like Bilibili and YouTube via yt-dlp.",
+  "source_repo": "leohux/media-agent",
+  "source_url": "https://github.com/leohux/media-agent",
+  "install": "# git clone --depth 1 https://github.com/leohux/media-agent\n# See source for mcpServers config block"
+}

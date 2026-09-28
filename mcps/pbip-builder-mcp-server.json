@@ -1,0 +1,7 @@
+{
+  "name": "pbip-builder-mcp-server",
+  "description": "Creates, inspects, validates, and modifies Power BI Project (.pbip) folders, generating PBIR-style reports and TMDL semantic models from structured inputs.",
+  "source_repo": "haiprobmt/PBIP-MCP",
+  "source_url": "https://github.com/haiprobmt/PBIP-MCP",
+  "install": "npx -y PBIP-MCP"
+}

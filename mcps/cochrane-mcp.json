@@ -1,0 +1,7 @@
+{
+  "name": "cochrane-mcp",
+  "description": "Turns the Cochrane Library into a tool for AI agents to search and retrieve clinical evidence, including systematic reviews, trials, and plain-language summaries.",
+  "source_repo": "aliildan/cochrane-mcp",
+  "source_url": "https://github.com/aliildan/cochrane-mcp",
+  "install": "npx -y cochrane-mcp"
+}

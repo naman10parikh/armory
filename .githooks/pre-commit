@@ -1,0 +1,7 @@
+#!/bin/sh
+# Armory pre-commit (CP147 T08): the catalog lint, only when a staged file can change what it checks.
+# Turn it on once per clone:  git config core.hooksPath .githooks
+# The same lint runs in CI on every pull request and in the nightly refresh before its commit.
+git diff --cached --name-only | grep -qE '^(catalog\.json|lib/.*|scripts/lint-catalog\.mjs|web/src/data/stack\.json|ingest/(catalog|surface)\.mjs|([^/]+/)?README\.md)$' || exit 0
+echo "pre-commit: catalog lint (node scripts/lint-catalog.mjs)"
+exec node scripts/lint-catalog.mjs

@@ -1,0 +1,7 @@
+{
+  "name": "vskstudio-takt-mcp",
+  "description": "MCP server for querying privacy-friendly website analytics from a self-hosted Takt instance, supporting metrics like visitors, pageviews, realtime activity, and more.",
+  "source_repo": "vskstudio/takt-mcp",
+  "source_url": "https://github.com/vskstudio/takt-mcp",
+  "install": "npx -y takt-mcp"
+}

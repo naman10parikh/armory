@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dep-tools",
+  "description": "MCP server providing dependency and package management tools for AI agents. Analyze licenses, find outdated packages, visualize dependency trees, estimate bundle sizes, and audit security vulnerabilities.",
+  "source_repo": "rog0x/mcp-dep-tools",
+  "source_url": "https://github.com/rog0x/mcp-dep-tools",
+  "install": "# git clone --depth 1 https://github.com/rog0x/mcp-dep-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pulse-mcp",
+  "description": "Free MCP server for fetching social media metrics (views, likes, comments) from public post URLs across YouTube, Twitter, TikTok, and Instagram. No API key needed.",
+  "source_repo": "patwalls/pulse-mcp",
+  "source_url": "https://github.com/patwalls/pulse-mcp",
+  "install": "npx -y pulse-mcp"
+}

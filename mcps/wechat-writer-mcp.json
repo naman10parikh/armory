@@ -1,0 +1,7 @@
+{
+  "name": "wechat-writer-mcp",
+  "description": "Enables AI to import, format, check originality, and save articles as drafts to WeChat Official Account draft box, without auto-publishing.",
+  "source_repo": "datoushiwo/wechat-writer-mcp",
+  "source_url": "https://github.com/datoushiwo/wechat-writer-mcp",
+  "install": "npx -y wechat-writer-mcp"
+}

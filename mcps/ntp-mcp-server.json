@@ -1,0 +1,7 @@
+{
+  "name": "ntp-mcp-server",
+  "description": "Enables retrieval of accurate current time from NTP servers with timezone conversion and structured output, falling back to local time if NTP is unavailable.",
+  "source_repo": "n3r0-b1n4ry/ntp-mcp-server",
+  "source_url": "https://github.com/n3r0-b1n4ry/ntp-mcp-server",
+  "install": "npx -y ntp-mcp-server"
+}

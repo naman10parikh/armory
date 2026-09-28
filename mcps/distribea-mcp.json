@@ -1,0 +1,7 @@
+{
+  "name": "distribea-mcp",
+  "description": "Generates images, video, music, and voice from plain-language prompts, shipping them production-ready as optimised WebP with SEO alt text, directly in your terminal or AI agent.",
+  "source_repo": "Distribea/distribea-mcp",
+  "source_url": "https://github.com/Distribea/distribea-mcp",
+  "install": "npx -y distribea-mcp"
+}

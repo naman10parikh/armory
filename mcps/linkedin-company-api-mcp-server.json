@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-company-api-mcp-server",
+  "description": "Enables AI agents to extract structured firmographic data from public LinkedIn company URLs, returning fields like name, industry, size, and headquarters.",
+  "source_repo": "johnisanerd/Apify-LinkedIn-Company-API",
+  "source_url": "https://github.com/johnisanerd/Apify-LinkedIn-Company-API",
+  "install": "# git clone --depth 1 https://github.com/johnisanerd/Apify-LinkedIn-Company-API\n# See source for mcpServers config block"
+}

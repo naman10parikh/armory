@@ -1,0 +1,7 @@
+{
+  "name": "codex-claude-bridge-mcp",
+  "description": "One local MCP server that lets Codex and Claude Code coordinate through a shared task board and message inbox.",
+  "source_repo": "nevzoom/codex-claude-bridge-mcp",
+  "source_url": "https://github.com/nevzoom/codex-claude-bridge-mcp",
+  "install": "npx -y codex-claude-bridge-mcp"
+}

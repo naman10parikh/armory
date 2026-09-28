@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-gr",
+  "description": "Enables searching and querying Greek government open data (data.gov.gr) datasets through CKAN API, including full metadata retrieval and tabular data extraction.",
+  "source_repo": "pipeworx-io/mcp-data-gr",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-gr",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-gr\n# See source for mcpServers config block"
+}

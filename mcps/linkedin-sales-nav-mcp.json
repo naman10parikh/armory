@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-sales-nav-mcp",
+  "description": "Enables AI assistants to search LinkedIn Sales Navigator contacts and accounts by driving a real logged-in browser and capturing Sales Navigator's own search API responses.",
+  "source_repo": "nick-choudhary/linkedin-sales-nav-mcp",
+  "source_url": "https://github.com/nick-choudhary/linkedin-sales-nav-mcp",
+  "install": "npx -y linkedin-sales-nav-mcp"
+}

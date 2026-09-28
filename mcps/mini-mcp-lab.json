@@ -1,0 +1,7 @@
+{
+  "name": "mini-mcp-lab",
+  "description": "A procurement scenario MCP server for testing whether pending work can resume after a service restart, comparing legacy and modern continuation. It uses SQLite for data persistence and demonstrates real MCP protocol messages.",
+  "source_repo": "133institute/mini-mcp-lab",
+  "source_url": "https://github.com/133institute/mini-mcp-lab",
+  "install": "# git clone --depth 1 https://github.com/133institute/mini-mcp-lab\n# See source for mcpServers config block"
+}

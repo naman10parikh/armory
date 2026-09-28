@@ -1,0 +1,7 @@
+{
+  "name": "onenote-mcp",
+  "description": "Enables AI assistants to read, write, and manage Microsoft OneNote notebooks, sections, and pages through OAuth-authenticated MCP tools, resources, and prompts.",
+  "source_repo": "jacob-hartmann/onenote-mcp",
+  "source_url": "https://github.com/jacob-hartmann/onenote-mcp",
+  "install": "npx -y onenote-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skysql-mcp",
+  "description": "Manages SkySQL MariaDB database instances and enables interaction with AI-powered database agents through natural language.",
+  "source_repo": "skysqlinc/skysql-mcp",
+  "source_url": "https://github.com/skysqlinc/skysql-mcp",
+  "install": "npx -y skysql-mcp"
+}

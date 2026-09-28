@@ -1,0 +1,7 @@
+{
+  "name": "birding-buddy-mcp",
+  "description": "An AI-powered birding companion that connects Claude to eBird and Xeno-canto APIs, enabling personalized birding with life list tracking, route-based hotspot discovery, and recording enrichment.",
+  "source_repo": "woodcreeper/birding-buddy-mcp",
+  "source_url": "https://github.com/woodcreeper/birding-buddy-mcp",
+  "install": "npx -y birding-buddy-mcp"
+}

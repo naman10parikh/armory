@@ -1,0 +1,7 @@
+{
+  "name": "stackscan-mcp-server",
+  "description": "Enables natural language queries about the technologies behind websites and the companies running them, using the StackScan Tech Lookup API. Includes tools for domain technology lookup, company details, technology usage stats, and batch company lookups.",
+  "source_repo": "stackscan/stackscan-mcp",
+  "source_url": "https://github.com/stackscan/stackscan-mcp",
+  "install": "npx -y stackscan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "servicenow-mcp-lite",
+  "description": "Connects AI assistants to a ServiceNow instance, providing tools for Table API CRUD, incident lifecycle, CMDB queries, knowledge search, and user lookup.",
+  "source_repo": "vikram-karety/ServiceNow",
+  "source_url": "https://github.com/vikram-karety/ServiceNow",
+  "install": "# git clone --depth 1 https://github.com/vikram-karety/ServiceNow\n# See source for mcpServers config block"
+}

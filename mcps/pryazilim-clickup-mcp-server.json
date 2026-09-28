@@ -1,0 +1,7 @@
+{
+  "name": "pryazilim-clickup-mcp-server",
+  "description": "A secure and optimized MCP server for integrating ClickUp project management, enabling task CRUD operations, workspace organization, file attachments, and natural language date parsing.",
+  "source_repo": "karaokmert/pryazilim-clickup-mcp",
+  "source_url": "https://github.com/karaokmert/pryazilim-clickup-mcp",
+  "install": "npx -y pryazilim-clickup-mcp"
+}

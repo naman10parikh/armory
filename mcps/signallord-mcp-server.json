@@ -1,0 +1,7 @@
+{
+  "name": "signallord-mcp-server",
+  "description": "Bitcoin market intelligence MCP server. Exposes Signal Lord's composite gauge scoring, on-chain and macro regime signals, and market data to AI agents.",
+  "source_repo": "KK6BZB/signallord-mcp-server",
+  "source_url": "https://github.com/KK6BZB/signallord-mcp-server",
+  "install": "npx -y signallord-mcp-server"
+}

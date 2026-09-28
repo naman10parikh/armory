@@ -1,0 +1,7 @@
+{
+  "name": "ckd-meal-plan-mcp",
+  "description": "This MCP server generates individualized meal plans for children with chronic kidney disease (CKD) based on KDIGO 2024/PRNT 2020/KRCP 2025 guidelines, incorporating patient age, CKD stage, allergies, dietary culture, and diet diary analysis. It provides deterministic nutrient computations and tools",
+  "source_repo": "rpint/ckd-meal-plan-mcp",
+  "source_url": "https://github.com/rpint/ckd-meal-plan-mcp",
+  "install": "npx -y ckd-meal-plan-mcp"
+}

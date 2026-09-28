@@ -1,0 +1,7 @@
+{
+  "name": "obs-showrunner-mcp",
+  "description": "MCP server enabling LLMs to control OBS Studio through high-level show and effect APIs.",
+  "source_repo": "takurot/obs-showrunner-mcp",
+  "source_url": "https://github.com/takurot/obs-showrunner-mcp",
+  "install": "npx -y obs-showrunner-mcp"
+}

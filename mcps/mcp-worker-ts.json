@@ -1,0 +1,7 @@
+{
+  "name": "mcp-worker-ts",
+  "description": "Implements a distributed AI worker pattern over MCP, enabling clients to register as workers, poll for tasks, process prompts with AI, and submit results back to the server continuously.",
+  "source_repo": "tmsdnl/mcp-worker-ts",
+  "source_url": "https://github.com/tmsdnl/mcp-worker-ts",
+  "install": "# git clone --depth 1 https://github.com/tmsdnl/mcp-worker-ts\n# See source for mcpServers config block"
+}

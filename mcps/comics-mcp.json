@@ -1,0 +1,7 @@
+{
+  "name": "comics-mcp",
+  "description": "Model Context Protocol server for comic data sources with plugin architecture, enabling character information retrieval from Comic Vine API.",
+  "source_repo": "imikailoby/comics-mcp",
+  "source_url": "https://github.com/imikailoby/comics-mcp",
+  "install": "npx -y comics-mcp"
+}

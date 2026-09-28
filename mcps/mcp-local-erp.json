@@ -1,0 +1,7 @@
+{
+  "name": "mcp-local-erp",
+  "description": "Enables local file reading and writing for your project via Claude Desktop, with tools to read, write, and list files in a specified root path.",
+  "source_repo": "ricardoshuree/mcp-local",
+  "source_url": "https://github.com/ricardoshuree/mcp-local",
+  "install": "# git clone --depth 1 https://github.com/ricardoshuree/mcp-local\n# See source for mcpServers config block"
+}

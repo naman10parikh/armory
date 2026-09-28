@@ -1,0 +1,7 @@
+{
+  "name": "constitutional-court-decision-mcp",
+  "description": "Enables searching and retrieving Korean Constitutional Court decisions using the official Open API, with search filters and full-text retrieval.",
+  "source_repo": "woongaro/Constitutional-Court-decision-mcp",
+  "source_url": "https://github.com/woongaro/Constitutional-Court-decision-mcp",
+  "install": "npx -y Constitutional-Court-decision-mcp"
+}

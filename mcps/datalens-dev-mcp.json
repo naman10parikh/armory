@@ -1,0 +1,7 @@
+{
+  "name": "datalens-dev-mcp",
+  "description": "A local Python MCP server for AI-assisted development of Yandex DataLens dashboards, enabling inspection, planning, validation, and guarded application of changes.",
+  "source_repo": "ADIKANT/datalens-dev-mcp",
+  "source_url": "https://github.com/ADIKANT/datalens-dev-mcp",
+  "install": "npx -y datalens-dev-mcp"
+}

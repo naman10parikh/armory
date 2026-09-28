@@ -1,0 +1,7 @@
+{
+  "name": "mcp-for-sitecore-developers",
+  "description": "A minimal MCP server demonstrating tools, resources, and prompts for Sitecore CDP personalization scenarios, with mock data.",
+  "source_repo": "keerthika-srinivasan/mcp-for-sitecore-developers",
+  "source_url": "https://github.com/keerthika-srinivasan/mcp-for-sitecore-developers",
+  "install": "# git clone --depth 1 https://github.com/keerthika-srinivasan/mcp-for-sitecore-developers\n# See source for mcpServers config block"
+}

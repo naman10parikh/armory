@@ -1,0 +1,7 @@
+{
+  "name": "folder-stats",
+  "description": "Provides a tool to count files and folders in a directory, supporting both recursive and non-recursive counts.",
+  "source_repo": "dakshhgondaliyaa/mcp-folder-stats",
+  "source_url": "https://github.com/dakshhgondaliyaa/mcp-folder-stats",
+  "install": "# git clone --depth 1 https://github.com/dakshhgondaliyaa/mcp-folder-stats\n# See source for mcpServers config block"
+}

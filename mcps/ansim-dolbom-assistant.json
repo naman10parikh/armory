@@ -1,0 +1,7 @@
+{
+  "name": "ansim-dolbom-assistant",
+  "description": "Enables caregivers to log daily care activities and generate draft notification reports for the elderly, with automatic safety constraints to prevent AI-generated inaccuracies.",
+  "source_repo": "Enddn/ansim-dolbom-mcp",
+  "source_url": "https://github.com/Enddn/ansim-dolbom-mcp",
+  "install": "npx -y ansim-dolbom-mcp"
+}

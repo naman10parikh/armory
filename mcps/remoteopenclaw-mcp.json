@@ -1,0 +1,7 @@
+{
+  "name": "remoteopenclaw-mcp",
+  "description": "Enables AI agents to search a directory of 13,870+ MCP servers, 4,384+ agent skills, and plugins from Remote OpenClaw, returning install commands directly.",
+  "source_repo": "aidevelopers2/remoteopenclaw-mcp",
+  "source_url": "https://github.com/aidevelopers2/remoteopenclaw-mcp",
+  "install": "npx -y remoteopenclaw-mcp"
+}

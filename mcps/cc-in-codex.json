@@ -1,0 +1,7 @@
+{
+  "name": "cc-in-codex",
+  "description": "Enables Codex to manage a local Claude Code companion through MCP, implementing a dual-agent workflow where Codex handles reasoning and review while Claude Code performs engineering tasks.",
+  "source_repo": "Terry-Wang-Lynx/cc-in-codex",
+  "source_url": "https://github.com/Terry-Wang-Lynx/cc-in-codex",
+  "install": "# git clone --depth 1 https://github.com/Terry-Wang-Lynx/cc-in-codex\n# See source for mcpServers config block"
+}

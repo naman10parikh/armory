@@ -1,0 +1,7 @@
+{
+  "name": "document-tools",
+  "description": "Enables document conversion and processing through an MCP server interface for AI assistants.",
+  "source_repo": "Sunilrana1978/MCP",
+  "source_url": "https://github.com/Sunilrana1978/MCP",
+  "install": "# git clone --depth 1 https://github.com/Sunilrana1978/MCP\n# See source for mcpServers config block"
+}

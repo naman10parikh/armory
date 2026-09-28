@@ -1,0 +1,7 @@
+{
+  "name": "matlab-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that enables seamless integration between MATLAB and MCP-compatible applications like Claude Code, allowing execution of MATLAB code, workspace management, plotting, and data I/O.",
+  "source_repo": "flyearth9981/matlab-mcp-server",
+  "source_url": "https://github.com/flyearth9981/matlab-mcp-server",
+  "install": "npx -y matlab-mcp-server"
+}

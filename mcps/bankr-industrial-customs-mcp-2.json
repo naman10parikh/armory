@@ -1,0 +1,7 @@
+{
+  "name": "bankr-industrial-customs-mcp-2",
+  "description": "Enables AI agents to perform international trade operations such as calculating landed costs, classifying goods, explaining trade terms, estimating shipping, and converting currencies for Kazakhstan/EAEU/Central Asia trade routes.",
+  "source_repo": "Appleabram/bankr-customs-mcp",
+  "source_url": "https://github.com/Appleabram/bankr-customs-mcp",
+  "install": "npx -y bankr-customs-mcp"
+}

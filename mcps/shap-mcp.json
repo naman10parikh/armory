@@ -1,0 +1,7 @@
+{
+  "name": "shap-mcp",
+  "description": "A lightweight, focused Model Context Protocol (MCP) server exposing SHAP model explainability as agent-callable tools with dual stdio/HTTP transports and a built-in Web GUI.",
+  "source_repo": "Manas-maker/shap-mcp",
+  "source_url": "https://github.com/Manas-maker/shap-mcp",
+  "install": "npx -y shap-mcp"
+}

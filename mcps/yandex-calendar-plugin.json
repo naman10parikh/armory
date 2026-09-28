@@ -1,0 +1,7 @@
+{
+  "name": "yandex-calendar-plugin",
+  "description": "Unofficial local MCP plugin for interacting with Yandex Calendar from Codex. Enables calendar listing, event CRUD, and Telemost meeting creation via CalDAV.",
+  "source_repo": "shanginn/yandex-calendar-plugin",
+  "source_url": "https://github.com/shanginn/yandex-calendar-plugin",
+  "install": "# git clone --depth 1 https://github.com/shanginn/yandex-calendar-plugin\n# See source for mcpServers config block"
+}

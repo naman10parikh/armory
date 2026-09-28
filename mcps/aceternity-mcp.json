@@ -1,0 +1,7 @@
+{
+  "name": "aceternity-mcp",
+  "description": "MCP server for Aceternity UI components, enabling AI assistants to discover, search, install, and generate page layouts with 106 components.",
+  "source_repo": "devinoldenburg/aceternity-mcp",
+  "source_url": "https://github.com/devinoldenburg/aceternity-mcp",
+  "install": "npx -y aceternity-mcp"
+}

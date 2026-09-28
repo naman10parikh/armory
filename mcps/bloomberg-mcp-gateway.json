@@ -1,0 +1,7 @@
+{
+  "name": "bloomberg-mcp-gateway",
+  "description": "Production-grade MCP gateway that provides controlled access to the Bloomberg Desktop API on a Windows terminal via Tailscale, with policy, quotas, and audit safety.",
+  "source_repo": "JohnJohnJohnJohn/blpapi_mcp",
+  "source_url": "https://github.com/JohnJohnJohnJohn/blpapi_mcp",
+  "install": "npx -y blpapi_mcp"
+}

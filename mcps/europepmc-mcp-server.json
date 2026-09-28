@@ -1,0 +1,7 @@
+{
+  "name": "europepmc-mcp-server",
+  "description": "Enables searching and retrieving biomedical literature from Europe PMC, including abstracts, full-text (JATS XML), text-mined annotations, citations, references, and database cross-links, through natural language queries and automated data staging.",
+  "source_repo": "QuentinCody/europepmc-mcp-server",
+  "source_url": "https://github.com/QuentinCody/europepmc-mcp-server",
+  "install": "npx -y europepmc-mcp-server"
+}

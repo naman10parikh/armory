@@ -1,0 +1,7 @@
+{
+  "name": "langchain-mcp-demo",
+  "description": "Enables grounding AI responses in a local document corpus by exposing MCP tools to list, search, and summarize documents, and generating answers using OpenAI.",
+  "source_repo": "shafeequealipt-dotcom/LangChain-MCP",
+  "source_url": "https://github.com/shafeequealipt-dotcom/LangChain-MCP",
+  "install": "npx -y LangChain-MCP"
+}

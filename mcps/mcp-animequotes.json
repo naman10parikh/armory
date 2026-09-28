@@ -1,0 +1,7 @@
+{
+  "name": "mcp-animequotes",
+  "description": "An MCP server that fetches anime quotes from animechan.io, providing random quotes and search by anime title or character name.",
+  "source_repo": "pipeworx-io/mcp-animequotes",
+  "source_url": "https://github.com/pipeworx-io/mcp-animequotes",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-animequotes\n# See source for mcpServers config block"
+}

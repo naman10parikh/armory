@@ -1,0 +1,7 @@
+{
+  "name": "mcp-jobgpt",
+  "description": "jobgpt server is used to access job posting from multiple job portals.",
+  "source_repo": "Pratik060921/jobgpt",
+  "source_url": "https://github.com/Pratik060921/jobgpt",
+  "install": "# git clone --depth 1 https://github.com/Pratik060921/jobgpt\n# See source for mcpServers config block"
+}

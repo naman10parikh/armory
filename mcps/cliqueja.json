@@ -1,0 +1,7 @@
+{
+  "name": "cliqueja",
+  "description": "Enables fast browser automation on a real Chrome tab via a local hub, providing MCP tools for clicking, filling, snapshotting, and navigating without launching a full browser instance.",
+  "source_repo": "paivaxqz/cliqueja",
+  "source_url": "https://github.com/paivaxqz/cliqueja",
+  "install": "# git clone --depth 1 https://github.com/paivaxqz/cliqueja\n# See source for mcpServers config block"
+}

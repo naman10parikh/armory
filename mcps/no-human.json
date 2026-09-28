@@ -1,0 +1,7 @@
+{
+  "name": "no-human",
+  "description": "From ticket to reviewed pull request, on your own machine",
+  "source_repo": "no-human-ai/no_human",
+  "source_url": "https://github.com/no-human-ai/no_human",
+  "install": "# git clone --depth 1 https://github.com/no-human-ai/no_human\n# See source for mcpServers config block"
+}

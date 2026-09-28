@@ -1,0 +1,7 @@
+{
+  "name": "mythos-reasoning-mcp",
+  "description": "A deterministic verification gate for MCP clients that independently checks model outputs against evidence, contradictions, calibration, and provenance without relying on LLM self-assessment.",
+  "source_repo": "sorryorc/mythos-mcp",
+  "source_url": "https://github.com/sorryorc/mythos-mcp",
+  "install": "npx -y mythos-mcp"
+}

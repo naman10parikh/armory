@@ -1,0 +1,7 @@
+{
+  "name": "colab-drive-mcp",
+  "description": "An MCP server for safely inspecting, editing, and synchronizing Google Colab-compatible .ipynb notebooks through Google Drive.",
+  "source_repo": "YummyTastyCode/colab-drive-mcp",
+  "source_url": "https://github.com/YummyTastyCode/colab-drive-mcp",
+  "install": "npx -y colab-drive-mcp"
+}

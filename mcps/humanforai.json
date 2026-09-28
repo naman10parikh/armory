@@ -1,0 +1,7 @@
+{
+  "name": "humanforai",
+  "description": "Enables AI agents to hire real human operators for tasks requiring physical presence, human perception, or judgment, such as verification, testing, data collection, and physical-world tasks.",
+  "source_repo": "humanforai/humanforai-mcp",
+  "source_url": "https://github.com/humanforai/humanforai-mcp",
+  "install": "npx -y humanforai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qase-mcp-server",
+  "description": "Official MCP server for Qase Test Management Platform. Enables AI assistants to manage test cases, test runs, defects, and other Qase entities through natural language.",
+  "source_repo": "qase-tms/qase-mcp-server",
+  "source_url": "https://github.com/qase-tms/qase-mcp-server",
+  "install": "npx -y qase-mcp-server"
+}

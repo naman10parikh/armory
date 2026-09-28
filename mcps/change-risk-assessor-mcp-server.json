@@ -1,0 +1,7 @@
+{
+  "name": "change-risk-assessor-mcp-server",
+  "description": "Assesses code change risk with ultra-low token budget (50-100 tokens) and provides structured risk metadata for AI agents in IDEs.",
+  "source_repo": "Hardik-369/mcp-change-risk-assessor",
+  "source_url": "https://github.com/Hardik-369/mcp-change-risk-assessor",
+  "install": "# git clone --depth 1 https://github.com/Hardik-369/mcp-change-risk-assessor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "io-github-gabrielmahia-decision-intelligence-mcp",
+  "description": "5,000 years of military strategy, philosophy, and decision science — as AI-accessible tools.",
+  "source_repo": "gabrielmahia/decision-intelligence-mcp",
+  "source_url": "https://github.com/gabrielmahia/decision-intelligence-mcp",
+  "install": "npx -y decision-intelligence-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "quiver-quant-mcp",
+  "description": "Enables querying alternative financial data including congressional trades, insider transactions, government contracts, and WallStreetBets activity through the Quiver Quantitative API.",
+  "source_repo": "jsconiers/quiver-quant-mcp",
+  "source_url": "https://github.com/jsconiers/quiver-quant-mcp",
+  "install": "npx -y quiver-quant-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "data-sync-mcp",
+  "description": "An MCP server optimized for user profile and audience data synchronization tasks, providing tools for confirmation, verification, and rollback in data sync workflows.",
+  "source_repo": "Patrick-321/data_sync_mcp",
+  "source_url": "https://github.com/Patrick-321/data_sync_mcp",
+  "install": "npx -y data_sync_mcp"
+}

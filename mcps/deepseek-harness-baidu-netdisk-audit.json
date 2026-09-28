@@ -1,0 +1,7 @@
+{
+  "name": "deepseek-harness-baidu-netdisk-audit",
+  "description": "Read-only bridge that lets DeepSeek Harness audit Baidu Netdisk directories via official MCP, blocking downloads and writes.",
+  "source_repo": "MarenV-narrative/deepseek-harness-baidu-netdisk-audit",
+  "source_url": "https://github.com/MarenV-narrative/deepseek-harness-baidu-netdisk-audit",
+  "install": "# git clone --depth 1 https://github.com/MarenV-narrative/deepseek-harness-baidu-netdisk-audit\n# See source for mcpServers config block"
+}

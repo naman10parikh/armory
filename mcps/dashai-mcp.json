@@ -1,0 +1,7 @@
+{
+  "name": "dashai-mcp",
+  "description": "MCP server that gives agents the same interface as dashAI's GUI: explore datasets, list models, train, track jobs, and read metrics.",
+  "source_repo": "Maarmapa/dashai-mcp",
+  "source_url": "https://github.com/Maarmapa/dashai-mcp",
+  "install": "npx -y dashai-mcp"
+}

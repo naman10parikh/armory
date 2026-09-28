@@ -1,0 +1,7 @@
+{
+  "name": "mabl-mcp-server",
+  "description": "Managed MCP server that enables AI assistants to run, analyze, and create mabl tests, and query results across workspaces.",
+  "source_repo": "mablhq/mabl-mcp-server",
+  "source_url": "https://github.com/mablhq/mabl-mcp-server",
+  "install": "npx -y mabl-mcp-server"
+}

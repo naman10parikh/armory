@@ -1,0 +1,7 @@
+{
+  "name": "payment-reconciliation-copilot",
+  "description": "Enables read-only investigation of payment transactions by building normalized timelines, detecting anomalies like duplicate charges and stuck refunds, and creating diagnostic escalations for human review. Never executes or modifies payment actions.",
+  "source_repo": "shivanshshekhar11/transactions-mcp",
+  "source_url": "https://github.com/shivanshshekhar11/transactions-mcp",
+  "install": "npx -y transactions-mcp"
+}

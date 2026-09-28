@@ -1,0 +1,7 @@
+{
+  "name": "dali2-logic-reasoner",
+  "description": "MCP server that exposes the DALI2-Agent-Brain symbolic verification system as tools, allowing MCP clients to submit reasoning problems for formal Prolog-based verification.",
+  "source_repo": "lollix91/DALI2-Agent-Brain-MCP",
+  "source_url": "https://github.com/lollix91/DALI2-Agent-Brain-MCP",
+  "install": "npx -y DALI2-Agent-Brain-MCP"
+}

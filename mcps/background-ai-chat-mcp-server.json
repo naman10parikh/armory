@@ -1,0 +1,7 @@
+{
+  "name": "background-ai-chat-mcp-server",
+  "description": "MCP server that drives chat.sakana.ai via headless Chrome with persistent sessions. Enables AI assistants to interact with Sakana AI chat through tools like session management, with ToS gate and browser automation.",
+  "source_repo": "misternay/mcp-sakana-chat",
+  "source_url": "https://github.com/misternay/mcp-sakana-chat",
+  "install": "# git clone --depth 1 https://github.com/misternay/mcp-sakana-chat\n# See source for mcpServers config block"
+}

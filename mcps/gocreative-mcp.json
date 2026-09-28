@@ -1,0 +1,7 @@
+{
+  "name": "gocreative-mcp",
+  "description": "Keyless, pay-per-call compliance & regulated-data tools for AI agents: OFAC wallet + sanctions/PEP + KYB screening, SEC filings, FRED economics, FDA recalls, federal awards, and continuous monitoring (watch a wallet/company/brand for status changes). USDC via x402 on Base/Solana, no API key, no sign",
+  "source_repo": "ColinHughes2121/gocreative-mcp",
+  "source_url": "https://github.com/ColinHughes2121/gocreative-mcp",
+  "install": "npx -y gocreative-mcp"
+}

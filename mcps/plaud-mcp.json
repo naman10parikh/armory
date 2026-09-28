@@ -1,0 +1,7 @@
+{
+  "name": "plaud-mcp",
+  "description": "Enables querying Plaud AI recordings, transcripts, and summaries through the Plaud Desktop app's authenticated session via Chrome DevTools Protocol.",
+  "source_repo": "davidlinjiahao/plaud-mcp",
+  "source_url": "https://github.com/davidlinjiahao/plaud-mcp",
+  "install": "npx -y plaud-mcp"
+}

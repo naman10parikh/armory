@@ -1,0 +1,7 @@
+{
+  "name": "antigravity-mcp-2",
+  "description": "Bridges Google Antigravity CLI with MCP clients, enabling 13 specialized tools for AI-assisted coding, automation, and security audits.",
+  "source_repo": "NohchiyBors/antigravity-mcp",
+  "source_url": "https://github.com/NohchiyBors/antigravity-mcp",
+  "install": "npx -y antigravity-mcp"
+}

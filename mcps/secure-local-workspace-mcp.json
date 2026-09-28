@@ -1,0 +1,7 @@
+{
+  "name": "secure-local-workspace-mcp",
+  "description": "Enables ChatGPT and Codex to safely work with explicitly authorized local project folders through MCP, providing constrained file reading, searching, patch editing, Git inspection, and whitelisted tasks without exposing arbitrary shell, deletion, or deployment capabilities.",
+  "source_repo": "dxawdc/chatgpt-workspace-mcp",
+  "source_url": "https://github.com/dxawdc/chatgpt-workspace-mcp",
+  "install": "npx -y chatgpt-workspace-mcp"
+}

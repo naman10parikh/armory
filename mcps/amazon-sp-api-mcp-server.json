@@ -1,0 +1,7 @@
+{
+  "name": "amazon-sp-api-mcp-server",
+  "description": "Connects Claude to Amazon Seller Central via the SP-API for natural language queries on sales, inventory, reports, fees, reimbursements, and analytics.",
+  "source_repo": "mansournorouzi/amazon-sp-mcp",
+  "source_url": "https://github.com/mansournorouzi/amazon-sp-mcp",
+  "install": "npx -y amazon-sp-mcp"
+}

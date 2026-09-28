@@ -1,0 +1,7 @@
+{
+  "name": "ablesign-mcp",
+  "description": "MCP server for the AbleSign digital signage API, enabling AI agents to manage screens, media, playlists, and workspaces through natural language.",
+  "source_repo": "MartinLoeper/ablesign-mcp",
+  "source_url": "https://github.com/MartinLoeper/ablesign-mcp",
+  "install": "npx -y ablesign-mcp"
+}

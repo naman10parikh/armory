@@ -1,0 +1,7 @@
+{
+  "name": "outpost",
+  "description": "Enables interaction with Microsoft Outlook services (Tasks, Calendar, Email, Contacts, and Teams) via the Microsoft Graph API, providing 39 tools for Claude Desktop with natural language and JSON output.",
+  "source_repo": "signalclaude/outpost",
+  "source_url": "https://github.com/signalclaude/outpost",
+  "install": "# git clone --depth 1 https://github.com/signalclaude/outpost\n# See source for mcpServers config block"
+}

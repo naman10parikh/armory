@@ -1,0 +1,7 @@
+{
+  "name": "bdm-mcp",
+  "description": "Provides MCP tools (bdm_search, bdm_get_provvedimento, bdm_check_session) to query the Italian public judicial database (Banca Dati di Merito) for civil court rulings using a session authenticated via CNS.",
+  "source_repo": "slimmanolesta/mcp-bdm",
+  "source_url": "https://github.com/slimmanolesta/mcp-bdm",
+  "install": "# git clone --depth 1 https://github.com/slimmanolesta/mcp-bdm\n# See source for mcpServers config block"
+}

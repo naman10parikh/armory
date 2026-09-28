@@ -1,0 +1,7 @@
+{
+  "name": "dc-dmv",
+  "description": "Access District of Columbia DMV data including service center locations, vehicle inspection records, and traffic convictions. Enables querying by VIN, violation text, and date ranges.",
+  "source_repo": "pipeworx-io/mcp-dc-dmv",
+  "source_url": "https://github.com/pipeworx-io/mcp-dc-dmv",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-dc-dmv\n# See source for mcpServers config block"
+}

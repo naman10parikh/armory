@@ -1,0 +1,7 @@
+{
+  "name": "md-log-mcp",
+  "description": "An MCP server that lets AI coding agents save immutable, versioned Markdown reports into md-log, a human-in-the-loop review and archive layer for vibe coding.",
+  "source_repo": "md-log/md-log-mcp",
+  "source_url": "https://github.com/md-log/md-log-mcp",
+  "install": "npx -y md-log-mcp"
+}

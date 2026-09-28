@@ -1,0 +1,7 @@
+{
+  "name": "fosterrx-verify-mcp-server",
+  "description": "Enables read-only verification of Foster Rx certificates against the public Ed25519 trust anchor, returning verdicts such as verified, signature_invalid, not_found, or tool_fault, and also allows retrieval of certificate records and trust anchor material.",
+  "source_repo": "gfoster12/fosterrx-verify-mcp",
+  "source_url": "https://github.com/gfoster12/fosterrx-verify-mcp",
+  "install": "npx -y fosterrx-verify-mcp"
+}

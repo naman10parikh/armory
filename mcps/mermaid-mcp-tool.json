@@ -1,0 +1,7 @@
+{
+  "name": "mermaid-mcp-tool",
+  "description": "Provides Mermaid code validation and iterative line-level repair to fix syntax errors in LLM-generated Mermaid diagrams, ensuring consistency with the frontend parser.",
+  "source_repo": "shangdongwei/mermaid_mcp_tool",
+  "source_url": "https://github.com/shangdongwei/mermaid_mcp_tool",
+  "install": "# git clone --depth 1 https://github.com/shangdongwei/mermaid_mcp_tool\n# See source for mcpServers config block"
+}

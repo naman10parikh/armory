@@ -1,0 +1,7 @@
+{
+  "name": "deepseek-costs-mcp",
+  "description": "Provides tools to check DeepSeek account balance, list available models, and estimate costs from token usage, without proxying API calls.",
+  "source_repo": "gbenm/deepseek-costs-mcp",
+  "source_url": "https://github.com/gbenm/deepseek-costs-mcp",
+  "install": "npx -y deepseek-costs-mcp"
+}

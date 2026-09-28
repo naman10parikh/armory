@@ -1,0 +1,7 @@
+{
+  "name": "coverageunlocked-mcp-server",
+  "description": "Enables AI assistants to analyze insurance denial appeals, providing win probabilities, appeal strategies, payer behavioral intelligence, and regulatory leverage for any CPT code.",
+  "source_repo": "edgeedgehq/coverageunlocked-mcp",
+  "source_url": "https://github.com/edgeedgehq/coverageunlocked-mcp",
+  "install": "npx -y coverageunlocked-mcp"
+}

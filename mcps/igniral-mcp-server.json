@@ -1,0 +1,7 @@
+{
+  "name": "igniral-mcp-server",
+  "description": "Bridges AI agents with Igniral's platform to generate production-ready backends from natural language descriptions.",
+  "source_repo": "Igniral/igniral-mcp-server",
+  "source_url": "https://github.com/Igniral/igniral-mcp-server",
+  "install": "npx -y igniral-mcp-server"
+}

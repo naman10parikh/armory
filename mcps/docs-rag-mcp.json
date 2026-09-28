@@ -1,0 +1,7 @@
+{
+  "name": "docs-rag-mcp",
+  "description": "Searches local markdown files using TF-IDF retrieval and serves full documents as resources.",
+  "source_repo": "shrish346/docs-rag-mcp",
+  "source_url": "https://github.com/shrish346/docs-rag-mcp",
+  "install": "npx -y docs-rag-mcp"
+}

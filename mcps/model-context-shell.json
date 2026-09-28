@@ -1,0 +1,7 @@
+{
+  "name": "model-context-shell",
+  "description": "Enables AI agents to compose MCP tool calls into Unix-style pipelines, executing complex workflows server-side and returning only the final result.",
+  "source_repo": "StacklokLabs/model-context-shell",
+  "source_url": "https://github.com/StacklokLabs/model-context-shell",
+  "install": "# git clone --depth 1 https://github.com/StacklokLabs/model-context-shell\n# See source for mcpServers config block"
+}

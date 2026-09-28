@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-cluster",
+  "description": "Enables natural language querying of PostgreSQL via MCP, combining SQL, vector search, and knowledge graph with automatic routing and token-aware curation.",
+  "source_repo": "nhj048/mcp-data-cluster",
+  "source_url": "https://github.com/nhj048/mcp-data-cluster",
+  "install": "# git clone --depth 1 https://github.com/nhj048/mcp-data-cluster\n# See source for mcpServers config block"
+}

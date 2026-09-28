@@ -1,0 +1,7 @@
+{
+  "name": "figma-slides-mcp",
+  "description": "MCP server for controlling Figma Slides — create, edit, and screenshot slides from any AI assistant that supports MCP.",
+  "source_repo": "Strand-AI/figma-slides-mcp",
+  "source_url": "https://github.com/Strand-AI/figma-slides-mcp",
+  "install": "npx -y figma-slides-mcp"
+}

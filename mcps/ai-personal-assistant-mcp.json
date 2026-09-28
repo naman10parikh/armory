@@ -1,0 +1,7 @@
+{
+  "name": "ai-personal-assistant-mcp",
+  "description": "MCP server providing weather lookup, semantic search over personal notes (RAG), and image generation tools for any MCP client like Claude Desktop.",
+  "source_repo": "Alejo3119/ai-personal-assistant",
+  "source_url": "https://github.com/Alejo3119/ai-personal-assistant",
+  "install": "# git clone --depth 1 https://github.com/Alejo3119/ai-personal-assistant\n# See source for mcpServers config block"
+}

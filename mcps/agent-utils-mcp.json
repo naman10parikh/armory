@@ -1,0 +1,7 @@
+{
+  "name": "agent-utils-mcp",
+  "description": "Provides six general-purpose utilities (geocoding, reverse geocoding, weather, web search, URL-to-Markdown, secure random) as paid MCP tools, with each call costing $0.01 USDC on Base mainnet.",
+  "source_repo": "donnywin85/agent-utils-mcp",
+  "source_url": "https://github.com/donnywin85/agent-utils-mcp",
+  "install": "npx -y agent-utils-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "condensation-mcp",
+  "description": "Enables users to assess condensation and mold risk for building surfaces using physics-based calculations (dew point, surface temperature, critical thresholds), with support for real-time weather data and prescription generation.",
+  "source_repo": "WillyWilley/condensation-mcp",
+  "source_url": "https://github.com/WillyWilley/condensation-mcp",
+  "install": "npx -y condensation-mcp"
+}

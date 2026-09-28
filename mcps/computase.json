@@ -1,0 +1,7 @@
+{
+  "name": "computase",
+  "description": "Provides local DNA/RNA sequence analysis tools (composition, reverse complement, translation, ORF enumeration, motif scanning) via MCP for agent workflows.",
+  "source_repo": "madhusudan-kulkarni/computase",
+  "source_url": "https://github.com/madhusudan-kulkarni/computase",
+  "install": "# git clone --depth 1 https://github.com/madhusudan-kulkarni/computase\n# See source for mcpServers config block"
+}

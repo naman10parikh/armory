@@ -1,0 +1,7 @@
+{
+  "name": "panaya-mcp-server",
+  "description": "Exposes Panaya REST APIs as MCP tools for managing entities like projects, requirements, tests, defects, releases, cycles, and business processes. Enables Claude or any MCP client to perform CRUD operations on Panaya data via natural language.",
+  "source_repo": "engineersonal/panaya-mcp-sonal",
+  "source_url": "https://github.com/engineersonal/panaya-mcp-sonal",
+  "install": "# git clone --depth 1 https://github.com/engineersonal/panaya-mcp-sonal\n# See source for mcpServers config block"
+}

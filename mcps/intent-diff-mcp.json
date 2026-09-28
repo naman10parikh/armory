@@ -1,0 +1,7 @@
+{
+  "name": "intent-diff-mcp",
+  "description": "An MCP server that helps catch context drift in AI coding agents by comparing actual code changes against the original request, allowing users to keep or roll back unintended additions.",
+  "source_repo": "ssh00n/intent-diff-mcp",
+  "source_url": "https://github.com/ssh00n/intent-diff-mcp",
+  "install": "npx -y intent-diff-mcp"
+}

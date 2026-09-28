@@ -1,0 +1,7 @@
+{
+  "name": "drawio-mcp",
+  "description": "An MCP server that enables LLMs to create and open diagrams in draw.io using XML, Mermaid, or CSV formats, by building a URL with compressed content and opening it in the browser.",
+  "source_repo": "mingrath/drawio-mcp",
+  "source_url": "https://github.com/mingrath/drawio-mcp",
+  "install": "npx -y drawio-mcp"
+}

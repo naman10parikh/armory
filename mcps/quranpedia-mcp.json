@@ -1,0 +1,7 @@
+{
+  "name": "quranpedia-mcp",
+  "description": "Provides AI clients with fast, hallucination-free access to the Quran through 13 MCP tools, covering search, navigation, morphology, tafsir, translations, and surah background over stdio and Streamable HTTP.",
+  "source_repo": "adelpro/quranpedia-mcp",
+  "source_url": "https://github.com/adelpro/quranpedia-mcp",
+  "install": "npx -y quranpedia-mcp"
+}

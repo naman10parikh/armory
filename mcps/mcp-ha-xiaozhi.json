@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ha-xiaozhi",
+  "description": "Proxies Xiaozhi MCP server to Home Assistant MCP server, enabling control of Home Assistant devices through Xiaozhi.",
+  "source_repo": "soonnn1/mcp_ha_xiaozhi-custom",
+  "source_url": "https://github.com/soonnn1/mcp_ha_xiaozhi-custom",
+  "install": "# git clone --depth 1 https://github.com/soonnn1/mcp_ha_xiaozhi-custom\n# See source for mcpServers config block"
+}

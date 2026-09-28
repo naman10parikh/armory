@@ -1,0 +1,7 @@
+{
+  "name": "receita-federal-simples-emiss-o-de-das-de-mei",
+  "description": "MCP server for consulting and issuing DAS (payment slips) for MEI (Individual Microentrepreneur) from the official Brazilian Federal Revenue system. Provides a read-only tool via hosted API without credentials.",
+  "source_repo": "mcp-dir/receita_federal_simples_das-mcp",
+  "source_url": "https://github.com/mcp-dir/receita_federal_simples_das-mcp",
+  "install": "npx -y receita_federal_simples_das-mcp"
+}

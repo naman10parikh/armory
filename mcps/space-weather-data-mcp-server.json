@@ -1,0 +1,7 @@
+{
+  "name": "space-weather-data-mcp-server",
+  "description": "Provides AI assistants with access to real-time space weather data and forecasts from NOAA's Space Weather Prediction Center, enabling queries and interpretations of geomagnetic storms, solar flares, and related indices.",
+  "source_repo": "JimFlannery/space_weather_data_mcp",
+  "source_url": "https://github.com/JimFlannery/space_weather_data_mcp",
+  "install": "npx -y space_weather_data_mcp"
+}

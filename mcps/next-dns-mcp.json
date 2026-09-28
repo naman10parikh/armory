@@ -1,0 +1,7 @@
+{
+  "name": "next-dns-mcp",
+  "description": "MCP server for NextDNS that enables managing profiles, blocklists, analytics, DNS logs, and parental controls through natural language.",
+  "source_repo": "kajmund/next-dns-mcp",
+  "source_url": "https://github.com/kajmund/next-dns-mcp",
+  "install": "npx -y next-dns-mcp"
+}

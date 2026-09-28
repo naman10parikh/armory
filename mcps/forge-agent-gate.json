@@ -1,0 +1,7 @@
+{
+  "name": "forge-agent-gate",
+  "description": "Enables AI agents to execute prediction-market trades through a risk-control gateway that enforces signed mandates and generates proof trails for accountability.",
+  "source_repo": "forgeorbital/forge-agent-gate",
+  "source_url": "https://github.com/forgeorbital/forge-agent-gate",
+  "install": "# git clone --depth 1 https://github.com/forgeorbital/forge-agent-gate\n# See source for mcpServers config block"
+}

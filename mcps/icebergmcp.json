@@ -1,0 +1,7 @@
+{
+  "name": "icebergmcp",
+  "description": "Enables natural language interaction with Apache Iceberg Lakehouse tables through MCP, supporting read-only operations like listing namespaces, tables, schemas, and partitions.",
+  "source_repo": "fastmcp-me/iceberg-mcp",
+  "source_url": "https://github.com/fastmcp-me/iceberg-mcp",
+  "install": "npx -y iceberg-mcp"
+}

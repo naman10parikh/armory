@@ -1,0 +1,7 @@
+{
+  "name": "proyecto-m5-mcp",
+  "description": "Provides a GitHub-integrated Model Context Protocol server with Octokit client, enabling AI models to interact with GitHub repositories, issues, and pull requests.",
+  "source_repo": "SantiagoChavez/Proyecto-M5-MCP",
+  "source_url": "https://github.com/SantiagoChavez/Proyecto-M5-MCP",
+  "install": "npx -y Proyecto-M5-MCP"
+}

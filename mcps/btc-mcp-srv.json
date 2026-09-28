@@ -1,0 +1,7 @@
+{
+  "name": "btc-mcp-srv",
+  "description": "An MCP server that enables AI agents to send and receive Bitcoin over the Lightning Network using NWC or LND backends.",
+  "source_repo": "lightphon/BTC-LND-NWC-MCP-server",
+  "source_url": "https://github.com/lightphon/BTC-LND-NWC-MCP-server",
+  "install": "npx -y BTC-LND-NWC-MCP-server"
+}

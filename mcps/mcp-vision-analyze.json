@@ -1,0 +1,7 @@
+{
+  "name": "mcp-vision-analyze",
+  "description": "Provides AI vision analysis via OpenRouter, enabling image understanding from local paths or URLs. Supports OCR, error diagnosis, and chart/UI analysis using Gemini models.",
+  "source_repo": "rezkycodes/mcp-vision-analyze",
+  "source_url": "https://github.com/rezkycodes/mcp-vision-analyze",
+  "install": "# git clone --depth 1 https://github.com/rezkycodes/mcp-vision-analyze\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arxiv-query-mcp",
+  "description": "Enables AI assistants to search arXiv papers, retrieve metadata, browse categories, and read paper text.",
+  "source_repo": "LWaetzig/arxiv-query-mcp",
+  "source_url": "https://github.com/LWaetzig/arxiv-query-mcp",
+  "install": "npx -y arxiv-query-mcp"
+}

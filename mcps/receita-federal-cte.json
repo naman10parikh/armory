@@ -1,0 +1,7 @@
+{
+  "name": "receita-federal-cte",
+  "description": "MCP server for consulting Brazilian federal CTE (electronic transport document) data from official sources, read-only and paid per use via prepaid credits.",
+  "source_repo": "mcp-dir/receita_federal_cte-mcp",
+  "source_url": "https://github.com/mcp-dir/receita_federal_cte-mcp",
+  "install": "npx -y receita_federal_cte-mcp"
+}

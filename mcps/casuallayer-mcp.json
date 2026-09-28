@@ -1,0 +1,7 @@
+{
+  "name": "casuallayer-mcp",
+  "description": "Deterministic AI liability attribution engine. Scores fault across AI supply-chain participants (deployer, developer, vendor) with tamper-evident certificates and weekly cryptographic anchoring.’",
+  "source_repo": "smq9sn5jck-coder/causallayer-mcp",
+  "source_url": "https://github.com/smq9sn5jck-coder/causallayer-mcp",
+  "install": "npx -y causallayer-mcp"
+}

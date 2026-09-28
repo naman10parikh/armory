@@ -1,0 +1,7 @@
+{
+  "name": "onr-mapa-do-registro-de-im-veis",
+  "description": "Provides read-only access to official Brazilian real estate registration data (ONR) via a single tool. Works with any MCP client over HTTP, with prepaid pay-per-use billing.",
+  "source_repo": "mcp-dir/onr_mapa_registro_imoveis-mcp",
+  "source_url": "https://github.com/mcp-dir/onr_mapa_registro_imoveis-mcp",
+  "install": "npx -y onr_mapa_registro_imoveis-mcp"
+}

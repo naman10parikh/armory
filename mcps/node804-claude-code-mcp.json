@@ -1,0 +1,7 @@
+{
+  "name": "node804-claude-code-mcp",
+  "description": "MCP server for reading Claude Code session history from the local filesystem, exposing project and session data to MCP-compatible clients.",
+  "source_repo": "Node804/node804-claude-code-mcp",
+  "source_url": "https://github.com/Node804/node804-claude-code-mcp",
+  "install": "npx -y node804-claude-code-mcp"
+}

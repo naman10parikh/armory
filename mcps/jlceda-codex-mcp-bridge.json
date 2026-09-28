@@ -1,0 +1,7 @@
+{
+  "name": "jlceda-codex-mcp-bridge",
+  "description": "Bridges JLCPCB/Lichuang EDA Pro with MCP clients to export and analyze schematic/PCB DRC, netlists, and BOMs, enabling automated diagnostics and data queries.",
+  "source_repo": "Dissipative-ATLAS/jlceda-codex-mcp",
+  "source_url": "https://github.com/Dissipative-ATLAS/jlceda-codex-mcp",
+  "install": "npx -y jlceda-codex-mcp"
+}

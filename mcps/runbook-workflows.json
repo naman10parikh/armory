@@ -1,0 +1,7 @@
+{
+  "name": "runbook-workflows",
+  "description": "MCP server for authoring, validating, simulating, and publishing workflows for the Runbook workflow engine, including branch and run management.",
+  "source_repo": "TheRathin/runbook-workflows",
+  "source_url": "https://github.com/TheRathin/runbook-workflows",
+  "install": "# git clone --depth 1 https://github.com/TheRathin/runbook-workflows\n# See source for mcpServers config block"
+}

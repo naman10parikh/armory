@@ -1,0 +1,7 @@
+{
+  "name": "xero-mcp",
+  "description": "A local MCP server for Xero that lets you search contacts, list and fetch invoices, and create draft invoices. It includes guardrails to prevent approving, sending, or deleting invoices.",
+  "source_repo": "david-buck/xero-mcp",
+  "source_url": "https://github.com/david-buck/xero-mcp",
+  "install": "npx -y xero-mcp"
+}

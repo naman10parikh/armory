@@ -1,0 +1,7 @@
+{
+  "name": "webex-calling-mcp-server",
+  "description": "Manages your entire Webex Calling infrastructure using natural language through an AI assistant like Claude.",
+  "source_repo": "rochaussee/webex-calling-mcp",
+  "source_url": "https://github.com/rochaussee/webex-calling-mcp",
+  "install": "npx -y webex-calling-mcp"
+}

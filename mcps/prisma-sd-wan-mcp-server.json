@@ -1,0 +1,7 @@
+{
+  "name": "prisma-sd-wan-mcp-server",
+  "description": "Enables AI agents to securely access and query Prisma SD-WAN operational data for inventory, health checks, topology analysis, and policy verification through natural language.",
+  "source_repo": "iamdheerajdubey/prisma-sdwan-mcp",
+  "source_url": "https://github.com/iamdheerajdubey/prisma-sdwan-mcp",
+  "install": "npx -y prisma-sdwan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "intunerosetta-mcp",
+  "description": "Translates raw OMA-URI/CSP path strings into structured, human-readable Intune policy metadata, and enables search and resolution of policy names to CSP keys.",
+  "source_repo": "UniverseCitiz3n/IntuneRosetta-mcp",
+  "source_url": "https://github.com/UniverseCitiz3n/IntuneRosetta-mcp",
+  "install": "npx -y IntuneRosetta-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-retroarch",
+  "description": "An MCP server for controlling RetroArch via its Network Control Interface, enabling memory read/write, save states, screenshots, emulator control, and gamepad input through the Network RetroPad protocol.",
+  "source_repo": "pythoninthegrass/mcp-retroarch",
+  "source_url": "https://github.com/pythoninthegrass/mcp-retroarch",
+  "install": "# git clone --depth 1 https://github.com/pythoninthegrass/mcp-retroarch\n# See source for mcpServers config block"
+}

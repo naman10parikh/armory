@@ -1,0 +1,7 @@
+{
+  "name": "civicrm-mcp-server",
+  "description": "Enables AI assistants to access and manage CiviCRM data, including contacts, activities, contributions, events, and memberships, with full custom field support.",
+  "source_repo": "johncallhub/civicrm-mcp-server",
+  "source_url": "https://github.com/johncallhub/civicrm-mcp-server",
+  "install": "npx -y civicrm-mcp-server"
+}

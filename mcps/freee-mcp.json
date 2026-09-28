@@ -1,0 +1,7 @@
+{
+  "name": "freee-mcp",
+  "description": "MCP server for freee HR attendance workflows, enabling clock in/out, team status, and approval operations through a shared core service with API or Playwright backends.",
+  "source_repo": "newbdez33/freee-mcp",
+  "source_url": "https://github.com/newbdez33/freee-mcp",
+  "install": "npx -y freee-mcp"
+}

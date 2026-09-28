@@ -1,0 +1,7 @@
+{
+  "name": "nipregon-mcp",
+  "description": "Look up Polish companies from any AI assistant: registry data (KRS, REGON, CEIDG), VAT white list checks before payments, and financial statements of 4.4M businesses. Read-only tools backed by official public registers.",
+  "source_repo": "AMR-DEV-PS/nipregon-mcp",
+  "source_url": "https://github.com/AMR-DEV-PS/nipregon-mcp",
+  "install": "npx -y nipregon-mcp"
+}

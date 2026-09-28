@@ -1,0 +1,7 @@
+{
+  "name": "outlook-local-mcp",
+  "description": "Local-first Microsoft Outlook MCP server: a single Go binary that manages calendar events and mail through the Microsoft Graph API over stdio, with tokens stored in the OS keychain and no Entra ID app registration required. Exposes four aggregate tools (calendar, mail, account, system) dispatched by",
+  "source_repo": "desek/outlook-local-mcp",
+  "source_url": "https://github.com/desek/outlook-local-mcp",
+  "install": "npx -y outlook-local-mcp"
+}

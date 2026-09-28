@@ -1,0 +1,7 @@
+{
+  "name": "crosmos-mcp-server",
+  "description": "MCP server for the Crosmos memory layer, enabling semantic, keyword, and graph retrieval of memories, as well as storing content with automatic entity and relation extraction.",
+  "source_repo": "crosmos-labs/crosmos-mcp",
+  "source_url": "https://github.com/crosmos-labs/crosmos-mcp",
+  "install": "npx -y crosmos-mcp"
+}

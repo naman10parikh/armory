@@ -1,0 +1,7 @@
+{
+  "name": "mcp-exp",
+  "description": "Experimental MCP server that integrates OpenAI and Serper APIs for news search, sentiment analysis, and email delivery.",
+  "source_repo": "HugoWw/MCP-EXP",
+  "source_url": "https://github.com/HugoWw/MCP-EXP",
+  "install": "# git clone --depth 1 https://github.com/HugoWw/MCP-EXP\n# See source for mcpServers config block"
+}

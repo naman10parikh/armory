@@ -1,0 +1,7 @@
+{
+  "name": "apple-health-export-mcp",
+  "description": "Query your Apple Health data including sleep, heart rate, steps, workouts, and more by ingesting an exported XML archive into a local SQLite database.",
+  "source_repo": "burakdirin/apple-health-export-mcp",
+  "source_url": "https://github.com/burakdirin/apple-health-export-mcp",
+  "install": "npx -y apple-health-export-mcp"
+}

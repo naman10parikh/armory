@@ -1,0 +1,7 @@
+{
+  "name": "game-asset-finder-mcp",
+  "description": "A search-first MCP server that queries multiple public asset sources and optional local libraries for game development, unifying results with Chinese keyword expansion, license normalization, and cursor pagination.",
+  "source_repo": "sudoriaa/game-asset-finder-mcp",
+  "source_url": "https://github.com/sudoriaa/game-asset-finder-mcp",
+  "install": "npx -y game-asset-finder-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jira-gateway",
+  "description": "Exposes Jira task management (list, create with two-step confirmation, start) to AI agents while keeping credentials hidden, and deliberately does not handle git operations.",
+  "source_repo": "lfern/jira-gateway-mcp",
+  "source_url": "https://github.com/lfern/jira-gateway-mcp",
+  "install": "npx -y jira-gateway-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "smson-mcp",
+  "description": "MCP server for the smsOn/mobileOn SMPP API, enabling sending SMS and checking delivery status directly from Claude Code.",
+  "source_repo": "DevsJony/smsOn-MCP",
+  "source_url": "https://github.com/DevsJony/smsOn-MCP",
+  "install": "npx -y smsOn-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shothik-mcp-server",
+  "description": "Provides enterprise tools for Posthuman blockchain validators, South Asian demography operations (bKash, Steadfast, NBR VAT), episodic semantic memory, and isolated sandbox code execution via MCP.",
+  "source_repo": "SGPT9/shothik-mcp",
+  "source_url": "https://github.com/SGPT9/shothik-mcp",
+  "install": "npx -y shothik-mcp"
+}

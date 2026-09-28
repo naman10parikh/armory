@@ -1,0 +1,7 @@
+{
+  "name": "continuum",
+  "description": "An autonomous AI showrunner for serialized vertical micro-drama that generates episodes with consistent characters and style using a series bible and multi-agent pipeline.",
+  "source_repo": "calderbuild/continuum",
+  "source_url": "https://github.com/calderbuild/continuum",
+  "install": "# git clone --depth 1 https://github.com/calderbuild/continuum\n# See source for mcpServers config block"
+}

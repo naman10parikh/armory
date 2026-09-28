@@ -1,0 +1,7 @@
+{
+  "name": "cc-switch-websearch",
+  "description": "Provides a web_search MCP tool for cc-switch, backed by a self-hosted SearXNG instance, enabling AI assistants like Claude Code to perform web searches without a premium API key.",
+  "source_repo": "soizo/cc-switch-websearch",
+  "source_url": "https://github.com/soizo/cc-switch-websearch",
+  "install": "# git clone --depth 1 https://github.com/soizo/cc-switch-websearch\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "copilot-memory-store",
+  "description": "Enables storing, searching, and compressing contextual memories for LLM interactions, with tools for memory management and context injection.",
+  "source_repo": "timothywarner-org/copilot-memory-store",
+  "source_url": "https://github.com/timothywarner-org/copilot-memory-store",
+  "install": "# git clone --depth 1 https://github.com/timothywarner-org/copilot-memory-store\n# See source for mcpServers config block"
+}

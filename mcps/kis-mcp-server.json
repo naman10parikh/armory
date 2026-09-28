@@ -1,0 +1,7 @@
+{
+  "name": "kis-mcp-server",
+  "description": "Enables Claude to trade Korean and overseas stocks, check balances, and search stock information through the Korea Investment & Securities Open API.",
+  "source_repo": "nangchang/kis_mcp",
+  "source_url": "https://github.com/nangchang/kis_mcp",
+  "install": "npx -y kis_mcp"
+}

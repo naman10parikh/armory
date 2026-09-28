@@ -1,0 +1,7 @@
+{
+  "name": "evidiq-compass",
+  "description": "Provides pricing and demand intelligence for the OKX.AI agent market via MCP. It offers market rate, price guidance, competitor analysis, demand signals, and attestation tools.",
+  "source_repo": "evidiq/evidiq-compass-mcp",
+  "source_url": "https://github.com/evidiq/evidiq-compass-mcp",
+  "install": "npx -y evidiq-compass-mcp"
+}

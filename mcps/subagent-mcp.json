@@ -1,0 +1,7 @@
+{
+  "name": "subagent-mcp",
+  "description": "MCP server that launches and supervises coding-CLI subagents (claude, opencode) in detached tmux windows, collapsing the ceremony of starting a TUI coding assistant into a single tool call.",
+  "source_repo": "garland3/subagent-mcp",
+  "source_url": "https://github.com/garland3/subagent-mcp",
+  "install": "npx -y subagent-mcp"
+}

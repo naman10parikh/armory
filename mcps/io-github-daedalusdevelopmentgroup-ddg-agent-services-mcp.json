@@ -1,0 +1,7 @@
+{
+  "name": "io-github-daedalusdevelopmentgroup-ddg-agent-services-mcp",
+  "description": "Enables AI agents to access DDG's payable services including checkout/payment conformance, MCP/tool security audits, agent-discovery repair, and buyer-agent smoke probes, with structured payment challenges.",
+  "source_repo": "daedalusdevelopmentgroup/ddg-agent-payable-services",
+  "source_url": "https://github.com/daedalusdevelopmentgroup/ddg-agent-payable-services",
+  "install": "# git clone --depth 1 https://github.com/daedalusdevelopmentgroup/ddg-agent-payable-services\n# See source for mcpServers config block"
+}

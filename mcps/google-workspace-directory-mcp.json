@@ -1,0 +1,7 @@
+{
+  "name": "google-workspace-directory-mcp",
+  "description": "Read-only MCP server for narrowly scoped Google Workspace user lookups via the Admin SDK Directory API, providing user status, search, aliases, and summary tools with strict domain and trust-boundary controls.",
+  "source_repo": "AngelN-Halo/google-mcp",
+  "source_url": "https://github.com/AngelN-Halo/google-mcp",
+  "install": "npx -y google-mcp"
+}

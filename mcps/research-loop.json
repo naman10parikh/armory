@@ -1,0 +1,7 @@
+{
+  "name": "research-loop",
+  "description": "Enables AI-moderated interviews that become cited, searchable transcripts, with a repository Q&A tool that returns exact transcript quotes.",
+  "source_repo": "JerryWhites/research-loop",
+  "source_url": "https://github.com/JerryWhites/research-loop",
+  "install": "# git clone --depth 1 https://github.com/JerryWhites/research-loop\n# See source for mcpServers config block"
+}

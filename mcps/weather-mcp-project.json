@@ -1,0 +1,7 @@
+{
+  "name": "weather-mcp-project",
+  "description": "Provides real-time weather forecasts through an MCP server, using Google Gemini for AI-powered interactions and a Streamlit interface.",
+  "source_repo": "tejaswini22012003/weather_mcp_project",
+  "source_url": "https://github.com/tejaswini22012003/weather_mcp_project",
+  "install": "# git clone --depth 1 https://github.com/tejaswini22012003/weather_mcp_project\n# See source for mcpServers config block"
+}

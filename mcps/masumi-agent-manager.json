@@ -1,0 +1,7 @@
+{
+  "name": "masumi-agent-manager",
+  "description": "Connects AI clients to decentralized agent discovery, hiring, monitoring, and payment systems on the Masumi Network.",
+  "source_repo": "masumi-network/masumi-mcp-server",
+  "source_url": "https://github.com/masumi-network/masumi-mcp-server",
+  "install": "npx -y masumi-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "space-weather-mcp",
+  "description": "Enables space-aware daily briefings, stargazing condition reports, and astronomy picture exploration from within the IDE by connecting to NASA and weather APIs.",
+  "source_repo": "pyraenix/space-weather-mcp",
+  "source_url": "https://github.com/pyraenix/space-weather-mcp",
+  "install": "npx -y space-weather-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kula-ai-mcp-server",
+  "description": "MCP server enabling AI assistants to connect to Kula recruiting API for managing jobs, candidates, applications, webhooks, and more.",
+  "source_repo": "kula-ai/kula-mcp-server",
+  "source_url": "https://github.com/kula-ai/kula-mcp-server",
+  "install": "npx -y kula-mcp-server"
+}

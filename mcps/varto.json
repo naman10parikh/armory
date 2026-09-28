@@ -1,0 +1,7 @@
+{
+  "name": "varto",
+  "description": "MCP server for Ukrainian public procurement (Prozorro) that exposes tools to search tenders, retrieve tender details and cards, list and read tender documents.",
+  "source_repo": "volodeveth/varto",
+  "source_url": "https://github.com/volodeveth/varto",
+  "install": "# git clone --depth 1 https://github.com/volodeveth/varto\n# See source for mcpServers config block"
+}

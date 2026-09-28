@@ -1,0 +1,7 @@
+{
+  "name": "musicolet-mcp",
+  "description": "Extracts listening metrics from Musicolet backup files and builds a static dashboard. Optionally runs as an MCP server for agent workflows.",
+  "source_repo": "jtbrennan-git/musicolet-mcp",
+  "source_url": "https://github.com/jtbrennan-git/musicolet-mcp",
+  "install": "npx -y musicolet-mcp"
+}

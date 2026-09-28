@@ -1,0 +1,7 @@
+{
+  "name": "prf-debitos",
+  "description": "Enables querying debts (débitos) from the Brazilian Federal Highway Police (Polícia Rodoviária Federal) via an official source, with a single read-only tool.",
+  "source_repo": "mcp-dir/prf_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/prf_debitos-mcp",
+  "install": "npx -y prf_debitos-mcp"
+}

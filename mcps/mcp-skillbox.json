@@ -1,0 +1,7 @@
+{
+  "name": "mcp-skillbox",
+  "description": "An MCP server that aggregates agent skills from skills.sh and GitHub repositories, exposing list_skills, search_skills, and load_skill tools for context-efficient skill discovery and on-demand loading.",
+  "source_repo": "beremaran/mcp-skillbox",
+  "source_url": "https://github.com/beremaran/mcp-skillbox",
+  "install": "# git clone --depth 1 https://github.com/beremaran/mcp-skillbox\n# See source for mcpServers config block"
+}

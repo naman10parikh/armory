@@ -1,0 +1,7 @@
+{
+  "name": "terminal-bridge-mcp",
+  "description": "An MCP server that bridges AI assistants to real terminal sessions, enabling creation, management, and interaction with persistent PTY processes for running commands, monitoring output, and debugging.",
+  "source_repo": "dividduang/terminal-bridge-mcp",
+  "source_url": "https://github.com/dividduang/terminal-bridge-mcp",
+  "install": "npx -y terminal-bridge-mcp"
+}

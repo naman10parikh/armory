@@ -1,0 +1,7 @@
+{
+  "name": "job-search-mcp-server",
+  "description": "Enables Claude to search AI/ML jobs across Greenhouse, Lever, and Adzuna, with resume tailoring and referral outreach assistance.",
+  "source_repo": "prabhakar1234pr/Applying-Jobs-MCP-server",
+  "source_url": "https://github.com/prabhakar1234pr/Applying-Jobs-MCP-server",
+  "install": "npx -y Applying-Jobs-MCP-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-context-guard",
+  "description": "Compresses, deduplicates, and filters tool outputs to optimize token usage and context window for AI agents.",
+  "source_repo": "aaameobius-crypto/mcp-context-guard",
+  "source_url": "https://github.com/aaameobius-crypto/mcp-context-guard",
+  "install": "# git clone --depth 1 https://github.com/aaameobius-crypto/mcp-context-guard\n# See source for mcpServers config block"
+}

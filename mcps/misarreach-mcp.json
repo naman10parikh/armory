@@ -1,0 +1,7 @@
+{
+  "name": "misarreach-mcp",
+  "description": "MCP server for MisarReach that enables finding, enriching, and scoring leads, running multi-channel outreach (WhatsApp, SMS, push) with AI autopilot, and managing the sales pipeline across 27 tools, 5 prompts, 4 resources, and 4 agent skills.",
+  "source_repo": "mrgulshanyadav/misarreach-mcp",
+  "source_url": "https://github.com/mrgulshanyadav/misarreach-mcp",
+  "install": "npx -y misarreach-mcp"
+}

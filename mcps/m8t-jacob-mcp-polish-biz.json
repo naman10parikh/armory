@@ -1,0 +1,7 @@
+{
+  "name": "m8t-jacob-mcp-polish-biz",
+  "description": "MCP server that provides AI agents with Polish business data tools: identifier validation (NIP, PESEL, REGON, KRS, IBAN), VAT whitelist checks, EU VIES lookups, and NBP exchange rates.",
+  "source_repo": "M8T-Jacob/mcp-polish-biz",
+  "source_url": "https://github.com/M8T-Jacob/mcp-polish-biz",
+  "install": "# git clone --depth 1 https://github.com/M8T-Jacob/mcp-polish-biz\n# See source for mcpServers config block"
+}

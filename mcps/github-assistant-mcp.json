@@ -1,0 +1,7 @@
+{
+  "name": "github-assistant-mcp",
+  "description": "A read-only MCP server that lets AI assistants inspect local workspace files, search context, view git diffs, and fetch a fixed GitHub profile, all within a sandboxed stdio transport.",
+  "source_repo": "imshashwatsingh/github-assitant-mcp",
+  "source_url": "https://github.com/imshashwatsingh/github-assitant-mcp",
+  "install": "npx -y github-assitant-mcp"
+}

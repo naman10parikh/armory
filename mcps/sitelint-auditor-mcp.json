@@ -1,0 +1,7 @@
+{
+  "name": "sitelint-auditor-mcp",
+  "description": "Runs WCAG accessibility, SEO, performance, and security audits on URLs or raw HTML via SiteLint Auditor. Enables LLM agents to audit web pages and check WCAG criteria through MCP tools.",
+  "source_repo": "sitelint/auditor-mcp",
+  "source_url": "https://github.com/sitelint/auditor-mcp",
+  "install": "npx -y auditor-mcp"
+}

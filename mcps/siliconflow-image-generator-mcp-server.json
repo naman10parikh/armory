@@ -1,0 +1,7 @@
+{
+  "name": "siliconflow-image-generator-mcp-server",
+  "description": "Generates images via SiliconFlow API with support for multiple models, concurrent requests, and automatic saving.",
+  "source_repo": "Gzmomo001/mcp-image-generator",
+  "source_url": "https://github.com/Gzmomo001/mcp-image-generator",
+  "install": "# git clone --depth 1 https://github.com/Gzmomo001/mcp-image-generator\n# See source for mcpServers config block"
+}

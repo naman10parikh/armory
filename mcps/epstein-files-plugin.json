@@ -1,0 +1,7 @@
+{
+  "name": "epstein-files-plugin",
+  "description": "Enables AI agents to search and query the public DOJ Epstein Files release across 20 databases, resolve EFTA numbers to official DOJ PDFs, and cross-check viral claims against a fact-checked registry.",
+  "source_repo": "Zereo0317/Epstein-Files-Plugin",
+  "source_url": "https://github.com/Zereo0317/Epstein-Files-Plugin",
+  "install": "# git clone --depth 1 https://github.com/Zereo0317/Epstein-Files-Plugin\n# See source for mcpServers config block"
+}

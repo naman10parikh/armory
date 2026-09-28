@@ -1,0 +1,7 @@
+{
+  "name": "ripple",
+  "description": "A data-incident triage agent for DataHub that traverses downstream lineage, ranks affected assets by criticality, resolves owners, and records incidents back into the catalog.",
+  "source_repo": "chakri192/ripple",
+  "source_url": "https://github.com/chakri192/ripple",
+  "install": "# git clone --depth 1 https://github.com/chakri192/ripple\n# See source for mcpServers config block"
+}

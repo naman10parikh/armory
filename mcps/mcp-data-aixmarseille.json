@@ -1,0 +1,7 @@
+{
+  "name": "mcp-data-aixmarseille",
+  "description": "Enables searching and querying datasets from Aix-Marseille-Provence Open Data portal. Supports filtering, aggregation, and pagination via ODSQL.",
+  "source_repo": "pipeworx-io/mcp-data-aixmarseille",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-aixmarseille",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-aixmarseille\n# See source for mcpServers config block"
+}

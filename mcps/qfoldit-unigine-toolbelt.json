@@ -1,0 +1,7 @@
+{
+  "name": "qfoldit-unigine-toolbelt",
+  "description": "Enables AI agents to automate UNIGINE 2 editor workflows through 25 composite tools (scene, materials, procedural, stamps, codegen, assets, and build console) via an external MCP bridge that runs alongside UNIGINE's official MCPBridge Plugin.",
+  "source_repo": "qfoldit/UNIGINE-TOOLBELT",
+  "source_url": "https://github.com/qfoldit/UNIGINE-TOOLBELT",
+  "install": "# git clone --depth 1 https://github.com/qfoldit/UNIGINE-TOOLBELT\n# See source for mcpServers config block"
+}

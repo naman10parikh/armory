@@ -1,0 +1,7 @@
+{
+  "name": "simplefin",
+  "description": "Exposes SimpleFIN bank data (accounts and transactions) as tools for Claude Code, enabling users to connect to bank accounts, list balances, and fetch transactions.",
+  "source_repo": "RommelTVAG/SimpleFIN",
+  "source_url": "https://github.com/RommelTVAG/SimpleFIN",
+  "install": "# git clone --depth 1 https://github.com/RommelTVAG/SimpleFIN\n# See source for mcpServers config block"
+}

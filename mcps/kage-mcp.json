@@ -1,0 +1,7 @@
+{
+  "name": "kage-mcp",
+  "description": "A lightweight MCP server for parsing HTML, fetching URLs, rendering terminal-style screenshots, and executing JavaScript on static HTML without external dependencies.",
+  "source_repo": "lxyct825-ops/kage-mcp",
+  "source_url": "https://github.com/lxyct825-ops/kage-mcp",
+  "install": "npx -y kage-mcp"
+}

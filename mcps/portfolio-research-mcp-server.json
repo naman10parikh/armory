@@ -1,0 +1,7 @@
+{
+  "name": "portfolio-research-mcp-server",
+  "description": "Enables AI assistants to perform live stock and portfolio research using Yahoo Finance data, including quotes, fundamentals, price history, news, portfolio analysis, and ticker comparisons.",
+  "source_repo": "themohal/stock-research-mcp",
+  "source_url": "https://github.com/themohal/stock-research-mcp",
+  "install": "npx -y stock-research-mcp"
+}

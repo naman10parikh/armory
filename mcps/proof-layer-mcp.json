@@ -1,0 +1,7 @@
+{
+  "name": "proof-layer-mcp",
+  "description": "Provides cryptographic governance receipts for AI agents, enabling pre-execution evaluation and signed verdicts (EXECUTE/BLOCK/REVIEW/SHADOW) with offline-verifiable audit trails.",
+  "source_repo": "World-999-Labs/proof-layer",
+  "source_url": "https://github.com/World-999-Labs/proof-layer",
+  "install": "# git clone --depth 1 https://github.com/World-999-Labs/proof-layer\n# See source for mcpServers config block"
+}

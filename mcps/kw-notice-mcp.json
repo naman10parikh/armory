@@ -1,0 +1,7 @@
+{
+  "name": "kw-notice-mcp",
+  "description": "Local read-only MCP server for Kwangwoon University notices, providing metadata-only crawling and cached notice access through a local STDIO server.",
+  "source_repo": "kyowon1108/kw-notice-mcp",
+  "source_url": "https://github.com/kyowon1108/kw-notice-mcp",
+  "install": "npx -y kw-notice-mcp"
+}

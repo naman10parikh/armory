@@ -1,0 +1,7 @@
+{
+  "name": "listenseu-image-mcp",
+  "description": "Enables Codex users to generate and edit images via Listenseu's image API, reusing their existing Codex login credentials without exposing API keys.",
+  "source_repo": "Listen-Sun/listenseu-image-mcp",
+  "source_url": "https://github.com/Listen-Sun/listenseu-image-mcp",
+  "install": "npx -y listenseu-image-mcp"
+}

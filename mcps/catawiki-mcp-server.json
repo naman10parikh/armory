@@ -1,0 +1,7 @@
+{
+  "name": "catawiki-mcp-server",
+  "description": "Enables AI assistants to read-only access Catawiki auction marketplace data, including searching lots, inspecting items, browsing categories, and exploring auctions.",
+  "source_repo": "AkhtarXx/catawiki-mcp-server",
+  "source_url": "https://github.com/AkhtarXx/catawiki-mcp-server",
+  "install": "npx -y catawiki-mcp-server"
+}

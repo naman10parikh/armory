@@ -1,0 +1,7 @@
+{
+  "name": "agileconfig-mcp-server",
+  "description": "MCP server that exposes all AgileConfig RESTful APIs as tools, enabling AI assistants to manage configuration, applications, users, nodes, and more via natural language.",
+  "source_repo": "animacaeli/agile-confg-mcp",
+  "source_url": "https://github.com/animacaeli/agile-confg-mcp",
+  "install": "npx -y agile-confg-mcp"
+}

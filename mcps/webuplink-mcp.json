@@ -1,0 +1,7 @@
+{
+  "name": "webuplink-mcp",
+  "description": "Enables AI assistants to browse and interact with websites via WebUplink, providing browser automation tools like browse and close_session.",
+  "source_repo": "webuplink-dev/webuplink-mcp",
+  "source_url": "https://github.com/webuplink-dev/webuplink-mcp",
+  "install": "npx -y webuplink-mcp"
+}

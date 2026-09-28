@@ -1,0 +1,7 @@
+{
+  "name": "toutiao-mcp",
+  "description": "MCP server for publishing articles to Toutiao (今日头条) via browser automation, featuring QR code login and no API key required.",
+  "source_repo": "JessYan0913/toutiao-mcp",
+  "source_url": "https://github.com/JessYan0913/toutiao-mcp",
+  "install": "npx -y toutiao-mcp"
+}

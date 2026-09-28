@@ -1,0 +1,7 @@
+{
+  "name": "supply-ops-agent",
+  "description": "A supply-side operations diagnostic MCP server for bid rate analysis, IVT detection, and ads.txt compliance.",
+  "source_repo": "mpessis/supply-ops-agent",
+  "source_url": "https://github.com/mpessis/supply-ops-agent",
+  "install": "# git clone --depth 1 https://github.com/mpessis/supply-ops-agent\n# See source for mcpServers config block"
+}

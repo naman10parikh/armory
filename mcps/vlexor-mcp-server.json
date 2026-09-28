@@ -1,0 +1,7 @@
+{
+  "name": "vlexor-mcp-server",
+  "description": "Enables MCP agents to drive AI video editing on local footage, game-asset generation, and motion-graphics production via Vlexor's API, with all video rendering done entirely locally.",
+  "source_repo": "Open2Loop/vlexor-mcp",
+  "source_url": "https://github.com/Open2Loop/vlexor-mcp",
+  "install": "npx -y vlexor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "forwardemail-mcp-server",
+  "description": "Enables management of ForwardEmail domains, aliases, emails, sieve filters, contacts, calendars, and more via natural language, using 71 MCP tools.",
+  "source_repo": "junxit/mcp-forwardemail",
+  "source_url": "https://github.com/junxit/mcp-forwardemail",
+  "install": "# git clone --depth 1 https://github.com/junxit/mcp-forwardemail\n# See source for mcpServers config block"
+}

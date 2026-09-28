@@ -1,0 +1,7 @@
+{
+  "name": "roundtable-mcp",
+  "description": "Enables role-based, multi-model AI orchestration by assigning specialized expert roles to a hybrid panel of local and cloud LLMs, generating unified advisory council reports for complex tasks.",
+  "source_repo": "hardc0l2e/roundtable-mcp",
+  "source_url": "https://github.com/hardc0l2e/roundtable-mcp",
+  "install": "npx -y roundtable-mcp"
+}

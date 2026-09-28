@@ -1,0 +1,7 @@
+{
+  "name": "coldchain-mcp",
+  "description": "Enables AI agents to analyze cold-chain sensor data locally, detecting threshold breaches, anomalies, and segmenting journeys from temperature/humidity logs.",
+  "source_repo": "MatuZale/coldchain-mcp",
+  "source_url": "https://github.com/MatuZale/coldchain-mcp",
+  "install": "npx -y coldchain-mcp"
+}

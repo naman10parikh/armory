@@ -1,0 +1,7 @@
+{
+  "name": "hardware-manual-rag-mcp-server",
+  "description": "Local RAG over hardware manuals (PDF/HTML) using ChromaDB and local embeddings, enabling Claude Code to query pinouts, registers, and schematics via a Docker container.",
+  "source_repo": "thenguyenyf/hum-mcp",
+  "source_url": "https://github.com/thenguyenyf/hum-mcp",
+  "install": "npx -y hum-mcp"
+}

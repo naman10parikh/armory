@@ -1,6 +1,6 @@
 {
   "name": "mcp-github-notifications",
-  "description": "Mcp Github Notifications MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "mcollina/mcp-github-notifications",
   "source_url": "https://mcp.so/server/mcp-github-notifications/mcollina",
   "install": "# git clone --depth 1 https://mcp.so/server/mcp-github-notifications/mcollina\n# See source for mcpServers config block"

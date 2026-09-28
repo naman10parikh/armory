@@ -1,0 +1,7 @@
+{
+  "name": "mcp-adonis-docs",
+  "description": "Version-aware AdonisJS documentation MCP server that detects your project's AdonisJS version and provides search and retrieval of relevant docs including core, Lucid ORM, Edge, VineJS, and Japa.",
+  "source_repo": "fdciabdul/mcp-adonis-docs",
+  "source_url": "https://github.com/fdciabdul/mcp-adonis-docs",
+  "install": "# git clone --depth 1 https://github.com/fdciabdul/mcp-adonis-docs\n# See source for mcpServers config block"
+}

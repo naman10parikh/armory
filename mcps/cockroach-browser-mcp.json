@@ -1,0 +1,7 @@
+{
+  "name": "cockroach-browser-mcp",
+  "description": "Observation-first MCP server for Cockroach Browser, enabling AI agents to snapshot, audit, and propose browser actions through a secure, policy-controlled daemon.",
+  "source_repo": "AjnasNB/cockroach-browser",
+  "source_url": "https://github.com/AjnasNB/cockroach-browser",
+  "install": "# git clone --depth 1 https://github.com/AjnasNB/cockroach-browser\n# See source for mcpServers config block"
+}

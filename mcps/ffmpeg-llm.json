@@ -1,0 +1,7 @@
+{
+  "name": "ffmpeg-llm",
+  "description": "An MCP server that exposes FFmpeg as a structured tool set for AI agents, enabling timeline-based video editing, preview, rendering, and analysis with an optional LLM autopilot.",
+  "source_repo": "Mnehmos/mnehmos.ffmpeg-llm.mcp",
+  "source_url": "https://github.com/Mnehmos/mnehmos.ffmpeg-llm.mcp",
+  "install": "# git clone --depth 1 https://github.com/Mnehmos/mnehmos.ffmpeg-llm.mcp\n# See source for mcpServers config block"
+}

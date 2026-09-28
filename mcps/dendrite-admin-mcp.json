@@ -1,0 +1,7 @@
+{
+  "name": "dendrite-admin-mcp",
+  "description": "MCP server exposing Dendrite Matrix homeserver admin APIs as tools, enabling an LLM agent to manage users, rooms, registration tokens, send server notices, and more.",
+  "source_repo": "niels-emmer/dendrite-admin-mcp",
+  "source_url": "https://github.com/niels-emmer/dendrite-admin-mcp",
+  "install": "npx -y dendrite-admin-mcp"
+}

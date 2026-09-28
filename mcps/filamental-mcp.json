@@ -1,0 +1,7 @@
+{
+  "name": "filamental-mcp",
+  "description": "Search, traverse and edit your Filamental knowledge graph from any MCP-compatible AI client. Local-first, no cloud, no auth required. 12 tools for reading and writing nodes and edges.",
+  "source_repo": "Scottnine/filamental",
+  "source_url": "https://github.com/Scottnine/filamental",
+  "install": "# git clone --depth 1 https://github.com/Scottnine/filamental\n# See source for mcpServers config block"
+}

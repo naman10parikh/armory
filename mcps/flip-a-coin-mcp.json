@@ -1,0 +1,7 @@
+{
+  "name": "flip-a-coin-mcp",
+  "description": "A simple MCP server that provides a fair coin flip tool, returning heads or tails.",
+  "source_repo": "michaelcarpenter2000/flip-a-coin-mcp",
+  "source_url": "https://github.com/michaelcarpenter2000/flip-a-coin-mcp",
+  "install": "npx -y flip-a-coin-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "m-video-mcp",
+  "description": "Local MCP server for M.Video/Eldorado OmniNet seller API, enabling price/stock updates, product mappings, FBS orders, and shipment management.",
+  "source_repo": "richtargetman/mvideo-mcp",
+  "source_url": "https://github.com/richtargetman/mvideo-mcp",
+  "install": "npx -y mvideo-mcp"
+}

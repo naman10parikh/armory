@@ -1,0 +1,7 @@
+{
+  "name": "lotw-mcp",
+  "description": "MCP server for ARRL Logbook of The World (LoTW) that enables querying confirmations, uploaded QSOs, DXCC credits, and user activity through any MCP-compatible AI assistant. Part of the qso-graph project, it is read-only and requires LoTW credentials for authenticated tools.",
+  "source_repo": "qso-graph/lotw-mcp",
+  "source_url": "https://github.com/qso-graph/lotw-mcp",
+  "install": "npx -y lotw-mcp"
+}

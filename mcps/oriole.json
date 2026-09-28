@@ -1,0 +1,7 @@
+{
+  "name": "oriole",
+  "description": "This MCP server exposes 16 bilingual tools for operating a review-gated China job-source intelligence engine, enabling discovery, probing, human approval, collection, and job/region queries. It lets an LLM manage the Oriole job pipeline over stdio without requiring model access to credentials.",
+  "source_repo": "gaofeibilly-maker/oriole-job-engine",
+  "source_url": "https://github.com/gaofeibilly-maker/oriole-job-engine",
+  "install": "# git clone --depth 1 https://github.com/gaofeibilly-maker/oriole-job-engine\n# See source for mcpServers config block"
+}

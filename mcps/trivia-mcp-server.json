@@ -1,0 +1,7 @@
+{
+  "name": "trivia-mcp-server",
+  "description": "Connects Kiro to the Open Trivia Database to fetch real quiz questions, categories, and stats for building interactive quiz applications.",
+  "source_repo": "Sankar2316/trivia-mcp-server",
+  "source_url": "https://github.com/Sankar2316/trivia-mcp-server",
+  "install": "npx -y trivia-mcp-server"
+}

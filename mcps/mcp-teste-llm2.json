@@ -1,0 +1,7 @@
+{
+  "name": "mcp-teste-llm2",
+  "description": "MCP server that allows natural language queries in Portuguese to a PostgreSQL database using Ollama, ensuring read-only access with parameterized SQL and strict safety policies.",
+  "source_repo": "leomc06/mcp-teste-llm2",
+  "source_url": "https://github.com/leomc06/mcp-teste-llm2",
+  "install": "# git clone --depth 1 https://github.com/leomc06/mcp-teste-llm2\n# See source for mcpServers config block"
+}

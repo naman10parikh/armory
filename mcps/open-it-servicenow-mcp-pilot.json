@@ -1,0 +1,7 @@
+{
+  "name": "open-it-servicenow-mcp-pilot",
+  "description": "This MCP server provides a read-only tool to find products without entitlement records using deterministic mock data, supporting publisher filtering and result limits. It is a pilot scaffold for Open iT and ServiceNow SAM Pro integration.",
+  "source_repo": "markberin/sample-mcp",
+  "source_url": "https://github.com/markberin/sample-mcp",
+  "install": "npx -y sample-mcp"
+}

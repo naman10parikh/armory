@@ -1,0 +1,7 @@
+{
+  "name": "brave-image-mcp",
+  "description": "An MCP server that provides image search capabilities via the Brave Image Search API, allowing AI assistants to search images with various filters and perform batch queries.",
+  "source_repo": "ilker-tosun/brave-image-mcp",
+  "source_url": "https://github.com/ilker-tosun/brave-image-mcp",
+  "install": "npx -y brave-image-mcp"
+}

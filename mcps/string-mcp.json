@@ -1,0 +1,7 @@
+{
+  "name": "string-mcp",
+  "description": "MCP server that exposes STRING database functionality, allowing AI agents to resolve protein identifiers, retrieve interaction networks, perform homology lookups, and run functional enrichment analysis.",
+  "source_repo": "meringlab/string-mcp",
+  "source_url": "https://github.com/meringlab/string-mcp",
+  "install": "npx -y string-mcp"
+}

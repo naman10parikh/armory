@@ -1,0 +1,7 @@
+{
+  "name": "hpsilab-mcp-server",
+  "description": "Institutional-grade quantitative stock analysis and research signals for AI agents via the Model Context Protocol (MCP).",
+  "source_repo": "haiyunsky/hpsilab-mcp-server",
+  "source_url": "https://github.com/haiyunsky/hpsilab-mcp-server",
+  "install": "npx -y hpsilab-mcp-server"
+}

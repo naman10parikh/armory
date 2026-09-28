@@ -1,0 +1,7 @@
+{
+  "name": "mcp-convertica",
+  "description": "Convert PDF, Word, Excel, PowerPoint, EPUB, HEIC and images from Claude, Cursor or any MCP client. 35+ conversion tools from convertica.net.",
+  "source_repo": "convertica-net/convertica-mcp",
+  "source_url": "https://github.com/convertica-net/convertica-mcp",
+  "install": "npx -y convertica-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "centralita-vpbx-mcp",
+  "description": "MCP server for vpbx.me virtual PBX, enabling assistants to access telephony features like call history, recordings, live calls, click-to-call, and configuration management.",
+  "source_repo": "DerechoVirtual/centralita-vpbx-mcp",
+  "source_url": "https://github.com/DerechoVirtual/centralita-vpbx-mcp",
+  "install": "npx -y centralita-vpbx-mcp"
+}

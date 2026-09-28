@@ -1,0 +1,7 @@
+{
+  "name": "chapel-support",
+  "description": "Enables AI assistants to work with Chapel code, including compiling, linting, and accessing educational primers.",
+  "source_repo": "DanilaFe/chapel-support",
+  "source_url": "https://github.com/DanilaFe/chapel-support",
+  "install": "# git clone --depth 1 https://github.com/DanilaFe/chapel-support\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dazongguan-mcp-server",
+  "description": "A template for building MCP servers with Python, providing modular tools, API key authentication, and logging to connect AI-powered assistants to backend systems.",
+  "source_repo": "Lijianqiang999/dazongguan-mcp",
+  "source_url": "https://github.com/Lijianqiang999/dazongguan-mcp",
+  "install": "npx -y dazongguan-mcp"
+}

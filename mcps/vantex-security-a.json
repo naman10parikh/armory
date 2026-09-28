@@ -1,0 +1,7 @@
+{
+  "name": "vantex-security-a",
+  "description": "This MCP server provides secure access to databases for AI agents, enforcing authentication, authorization, human approval, logging, and notifications to prevent dangerous actions.",
+  "source_repo": "farahkhaterr/Vantex-Security-A",
+  "source_url": "https://github.com/farahkhaterr/Vantex-Security-A",
+  "install": "# git clone --depth 1 https://github.com/farahkhaterr/Vantex-Security-A\n# See source for mcpServers config block"
+}

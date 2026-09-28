@@ -1,0 +1,7 @@
+{
+  "name": "hermes-blockchain-oracle",
+  "description": "An MCP server that connects Hermes Agent to the Solana blockchain, enabling natural language queries for wallets, tokens, NFTs, transactions, whale movements, and network health.",
+  "source_repo": "gizdusum/hermes-blockchain-oracle",
+  "source_url": "https://github.com/gizdusum/hermes-blockchain-oracle",
+  "install": "# git clone --depth 1 https://github.com/gizdusum/hermes-blockchain-oracle\n# See source for mcpServers config block"
+}

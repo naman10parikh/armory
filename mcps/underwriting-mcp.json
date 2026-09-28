@@ -1,0 +1,7 @@
+{
+  "name": "underwriting-mcp",
+  "description": "A headless MCP connector that lets you underwrite commercial and multifamily deals inside a Claude chat, providing exact arithmetic for NOI, valuation, debt sizing, DSCR, and returns.",
+  "source_repo": "jaredmaxey-hue/underwriting-mcp",
+  "source_url": "https://github.com/jaredmaxey-hue/underwriting-mcp",
+  "install": "npx -y underwriting-mcp"
+}

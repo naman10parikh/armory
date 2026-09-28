@@ -1,0 +1,7 @@
+{
+  "name": "openapi-to-remote-mcp-gateway",
+  "description": "A cloud gateway that dynamically parses standard OpenAPI JSON specifications and provisions a hosted, remote Model Context Protocol (MCP) server running over Server-Sent Events (SSE).",
+  "source_repo": "notsariedo/openapi-mcp-gateway",
+  "source_url": "https://github.com/notsariedo/openapi-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/notsariedo/openapi-mcp-gateway\n# See source for mcpServers config block"
+}

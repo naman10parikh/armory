@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-typescript",
+  "description": "A production-ready Model Context Protocol server built with Node.js and TypeScript, providing tool-based execution with input validation and error handling.",
+  "source_repo": "Nayem707/MCP-server-typescript",
+  "source_url": "https://github.com/Nayem707/MCP-server-typescript",
+  "install": "# git clone --depth 1 https://github.com/Nayem707/MCP-server-typescript\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "feishu-mcp-gateway",
+  "description": "A Cloudflare Workers-based remote MCP gateway that securely bridges Feishu official MCP to MCP clients like ChatGPT, using OAuth-authorized user tokens for accessing and managing personal Feishu documents.",
+  "source_repo": "wangling-miao/feishu-mcp",
+  "source_url": "https://github.com/wangling-miao/feishu-mcp",
+  "install": "npx -y feishu-mcp"
+}

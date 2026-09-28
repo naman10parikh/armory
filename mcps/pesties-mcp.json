@@ -1,0 +1,7 @@
+{
+  "name": "pesties-mcp",
+  "description": "MCP server for Pesties.au pest control booking (Gold Coast, Logan, South Brisbane, Australia). 7 tools including signed quote tokens and two-phase booking commit.",
+  "source_repo": "JovianNights/pesties-mcp",
+  "source_url": "https://github.com/JovianNights/pesties-mcp",
+  "install": "npx -y pesties-mcp"
+}

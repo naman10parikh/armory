@@ -1,0 +1,7 @@
+{
+  "name": "tass-mcp-server",
+  "description": "Provides LIWC-style dictionary scoring of text with deterministic, provenance-first analysis, enabling researchers and AI agents to perform reproducible text analysis via MCP tools.",
+  "source_repo": "SIM-DAD/tass",
+  "source_url": "https://github.com/SIM-DAD/tass",
+  "install": "# git clone --depth 1 https://github.com/SIM-DAD/tass\n# See source for mcpServers config block"
+}

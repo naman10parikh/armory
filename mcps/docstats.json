@@ -1,0 +1,7 @@
+{
+  "name": "docstats",
+  "description": "MCP server that calculates readability metrics for text, web pages, and PDFs, providing scores like Flesch Reading Ease and grade levels.",
+  "source_repo": "ghchinoy/docstats",
+  "source_url": "https://github.com/ghchinoy/docstats",
+  "install": "# git clone --depth 1 https://github.com/ghchinoy/docstats\n# See source for mcpServers config block"
+}

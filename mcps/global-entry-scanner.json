@@ -1,0 +1,7 @@
+{
+  "name": "global-entry-scanner",
+  "description": "MCP server to scan for open Global Entry / NEXUS appointment slots and get notified via email, Slack, or Discord.",
+  "source_repo": "JaiminBrahmbhatt/Global-Entry-Appointment-Scanner",
+  "source_url": "https://github.com/JaiminBrahmbhatt/Global-Entry-Appointment-Scanner",
+  "install": "# git clone --depth 1 https://github.com/JaiminBrahmbhatt/Global-Entry-Appointment-Scanner\n# See source for mcpServers config block"
+}

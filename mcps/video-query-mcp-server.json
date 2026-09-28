@@ -1,0 +1,7 @@
+{
+  "name": "video-query-mcp-server",
+  "description": "Enables natural language search through personal video collections, returning AI-generated descriptions and direct URLs to relevant 30-second video clips.",
+  "source_repo": "aryankeluskar/poke-video-mcp",
+  "source_url": "https://github.com/aryankeluskar/poke-video-mcp",
+  "install": "npx -y poke-video-mcp"
+}

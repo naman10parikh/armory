@@ -1,0 +1,7 @@
+{
+  "name": "ovb3-bridge",
+  "description": "MCP server + CLI for automating Oracle Visual Builder Studio/VBCS app development, enabling artifact read/write, build/audit execution, and VBCS REST API interactions from Claude.",
+  "source_repo": "vanamthrishul/ovb3-bridge",
+  "source_url": "https://github.com/vanamthrishul/ovb3-bridge",
+  "install": "# git clone --depth 1 https://github.com/vanamthrishul/ovb3-bridge\n# See source for mcpServers config block"
+}

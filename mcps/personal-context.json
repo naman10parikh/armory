@@ -1,0 +1,7 @@
+{
+  "name": "personal-context",
+  "description": "Aggregates your digital footprint (GitHub, blogs, resume) into a single AI-readable profile and exposes it via MCP tools so AI agents can query your context live.",
+  "source_repo": "Ayush7614/personal-context",
+  "source_url": "https://github.com/Ayush7614/personal-context",
+  "install": "# git clone --depth 1 https://github.com/Ayush7614/personal-context\n# See source for mcpServers config block"
+}

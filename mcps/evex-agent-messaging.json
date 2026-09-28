@@ -1,0 +1,7 @@
+{
+  "name": "evex-agent-messaging",
+  "description": "Provider-neutral MCP transport for Parent Main, Child Main, and Role Child conversation operations, enabling agents to create child conversations, send results, request user decisions, and manage missions via HMAC-signed capabilities without exposing credentials.",
+  "source_repo": "EvexU2/evex-agent-messaging",
+  "source_url": "https://github.com/EvexU2/evex-agent-messaging",
+  "install": "# git clone --depth 1 https://github.com/EvexU2/evex-agent-messaging\n# See source for mcpServers config block"
+}

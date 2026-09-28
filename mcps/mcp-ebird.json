@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ebird",
+  "description": "Enables querying recent bird observations from the eBird citizen-science database by location.",
+  "source_repo": "pipeworx-io/mcp-ebird",
+  "source_url": "https://github.com/pipeworx-io/mcp-ebird",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-ebird\n# See source for mcpServers config block"
+}

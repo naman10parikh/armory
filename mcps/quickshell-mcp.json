@@ -1,0 +1,7 @@
+{
+  "name": "quickshell-mcp",
+  "description": "Enables driving a Quickshell QML app inside a headless compositor, with tools to screenshot windows, inspect their object trees, and read or write QML state.",
+  "source_repo": "hsjobeki/quickshell-mcp",
+  "source_url": "https://github.com/hsjobeki/quickshell-mcp",
+  "install": "npx -y quickshell-mcp"
+}

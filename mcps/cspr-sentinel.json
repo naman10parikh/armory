@@ -1,0 +1,7 @@
+{
+  "name": "cspr-sentinel",
+  "description": "An MCP server for autonomous AI agents to discover, pay for, and rate paid APIs on Casper with policy-controlled approvals and on-chain reputation.",
+  "source_repo": "yi-dong-z/cspr-sentinel",
+  "source_url": "https://github.com/yi-dong-z/cspr-sentinel",
+  "install": "# git clone --depth 1 https://github.com/yi-dong-z/cspr-sentinel\n# See source for mcpServers config block"
+}

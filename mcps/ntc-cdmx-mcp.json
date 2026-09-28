@@ -1,0 +1,7 @@
+{
+  "name": "ntc-cdmx-mcp",
+  "description": "MCP server for querying Mexico City building regulations (NTC CDMX 2004/2017/2023) with RAG-powered answers, hybrid search, and precise section retrieval, including citations and validated calculations.",
+  "source_repo": "Sobrio25/ntc-cdmx-mcp",
+  "source_url": "https://github.com/Sobrio25/ntc-cdmx-mcp",
+  "install": "npx -y ntc-cdmx-mcp"
+}

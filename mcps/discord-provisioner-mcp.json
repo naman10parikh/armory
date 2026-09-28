@@ -1,0 +1,7 @@
+{
+  "name": "discord-provisioner-mcp",
+  "description": "An MCP server that lets AI assistants provision Discord servers (guilds, categories, channels, roles, permissions) from declarative blueprints via the Discord REST API, with idempotent diff-based planning and no deletions.",
+  "source_repo": "TinyGecko920/discord-mcp",
+  "source_url": "https://github.com/TinyGecko920/discord-mcp",
+  "install": "npx -y discord-mcp"
+}

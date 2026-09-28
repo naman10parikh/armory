@@ -1,0 +1,7 @@
+{
+  "name": "canvas-lms-mcp",
+  "description": "Enables AI agents to access Canvas LMS academic data such as courses, assignments, grades, and events via MCP tools.",
+  "source_repo": "diegoadborges/canvas-mcp",
+  "source_url": "https://github.com/diegoadborges/canvas-mcp",
+  "install": "npx -y canvas-mcp"
+}

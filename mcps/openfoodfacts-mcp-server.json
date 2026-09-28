@@ -1,0 +1,7 @@
+{
+  "name": "openfoodfacts-mcp-server",
+  "description": "MCP server for Open Food Facts, enabling food product lookup by barcode, search, nutrition facts, allergen checks, and eco-scores without an API key.",
+  "source_repo": "AiAgentKarl/openfoodfacts-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/openfoodfacts-mcp-server",
+  "install": "npx -y openfoodfacts-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vigia-edgar",
+  "description": "An always-on engine that watches SEC EDGAR for insider trading (Form 4) and material event (8-K) filings, alerting users through AI agents via MCP tools.",
+  "source_repo": "filingtape/vigia-edgar",
+  "source_url": "https://github.com/filingtape/vigia-edgar",
+  "install": "# git clone --depth 1 https://github.com/filingtape/vigia-edgar\n# See source for mcpServers config block"
+}

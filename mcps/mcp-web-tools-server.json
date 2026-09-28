@@ -1,0 +1,7 @@
+{
+  "name": "mcp-web-tools-server",
+  "description": "A custom MCP server that provides AI agents with tools to fetch web pages, extract readable article text, extract structured data by CSS selector, and check robots.txt permissions.",
+  "source_repo": "ZephyraRR/mcp-web-tools-server",
+  "source_url": "https://github.com/ZephyraRR/mcp-web-tools-server",
+  "install": "# git clone --depth 1 https://github.com/ZephyraRR/mcp-web-tools-server\n# See source for mcpServers config block"
+}

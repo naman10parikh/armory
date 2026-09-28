@@ -1,0 +1,7 @@
+{
+  "name": "aula-mcp",
+  "description": "This server enables MCP clients (LLMs) to access data from the Danish school platform Aula, such as messages, schedules, and child profiles, by authenticating via MitID and running locally.",
+  "source_repo": "Casperjuel/aula-mcp",
+  "source_url": "https://github.com/Casperjuel/aula-mcp",
+  "install": "npx -y aula-mcp"
+}

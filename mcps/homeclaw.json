@@ -1,0 +1,7 @@
+{
+  "name": "homeclaw",
+  "description": "Enables AI assistants to control Apple HomeKit smart home accessories, scenes, and automations via MCP tools.",
+  "source_repo": "omarshahine/HomeClaw",
+  "source_url": "https://github.com/omarshahine/HomeClaw",
+  "install": "# git clone --depth 1 https://github.com/omarshahine/HomeClaw\n# See source for mcpServers config block"
+}

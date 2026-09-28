@@ -1,0 +1,7 @@
+{
+  "name": "rug-check",
+  "description": "On-chain rug-pull & honeypot risk screen for ERC-20 tokens, providing a SAFE / CAUTION / HIGH-RISK verdict based on live public RPC reads.",
+  "source_repo": "Baneado98/rug-check",
+  "source_url": "https://github.com/Baneado98/rug-check",
+  "install": "# git clone --depth 1 https://github.com/Baneado98/rug-check\n# See source for mcpServers config block"
+}

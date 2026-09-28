@@ -1,0 +1,7 @@
+{
+  "name": "knu-mcp",
+  "description": "Unofficial MCP server for Kangwon National University that provides academic calendar, cafeteria menus, notices, shuttle bus and city bus arrival information via natural language.",
+  "source_repo": "LEEseungseok-01/knu-mcp",
+  "source_url": "https://github.com/LEEseungseok-01/knu-mcp",
+  "install": "npx -y knu-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cds-mcp-server",
+  "description": "MCP server for assisting in SAP ABAP CDS Views development on Eclipse ADT. Provides tools to generate, validate, and annotate CDS views, and suggest associations.",
+  "source_repo": "Palapangpond/sap-dev-mcp-server",
+  "source_url": "https://github.com/Palapangpond/sap-dev-mcp-server",
+  "install": "npx -y sap-dev-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "matter-controller-mcp",
+  "description": "A powerful MCP server that enables AI assistants to discover, commission, and control Matter-compatible smart home devices through a standardized interface.",
+  "source_repo": "0x1abin/matter-controller-mcp",
+  "source_url": "https://github.com/0x1abin/matter-controller-mcp",
+  "install": "npx -y matter-controller-mcp"
+}

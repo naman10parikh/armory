@@ -1,0 +1,7 @@
+{
+  "name": "alioss-mcp-server",
+  "description": "将图片URL转存到阿里云OSS并返回CDN访问地址，支持OSS直传和HOOK代理两种模式。",
+  "source_repo": "lvchenyang/alioss-mcp-server",
+  "source_url": "https://github.com/lvchenyang/alioss-mcp-server",
+  "install": "npx -y alioss-mcp-server"
+}

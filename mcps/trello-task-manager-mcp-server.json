@@ -1,0 +1,7 @@
+{
+  "name": "trello-task-manager-mcp-server",
+  "description": "Enables AI applications to manage tasks on a real Trello board by exposing four MCP tools for adding, listing, completing, and deleting tasks.",
+  "source_repo": "akbarshaik2243/trello-task-manager-mcp",
+  "source_url": "https://github.com/akbarshaik2243/trello-task-manager-mcp",
+  "install": "npx -y trello-task-manager-mcp"
+}

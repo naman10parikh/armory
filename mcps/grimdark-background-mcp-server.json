@@ -1,0 +1,7 @@
+{
+  "name": "grimdark-background-mcp-server",
+  "description": "Generates grimdark-industrial comic panel backgrounds using a local ComfyUI + Stable Diffusion pipeline, accepting a prompt and optional perspective sketch and style reference to output a finished PNG.",
+  "source_repo": "tobiasfong/Warhammer40000-background-mcp",
+  "source_url": "https://github.com/tobiasfong/Warhammer40000-background-mcp",
+  "install": "npx -y Warhammer40000-background-mcp"
+}

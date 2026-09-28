@@ -1,0 +1,7 @@
+{
+  "name": "supermem",
+  "description": "Enables storing and querying a personal knowledge graph as a shared memory, allowing agents and tools to remember facts, entities, relations, and recall relevant context via natural language hybrid search.",
+  "source_repo": "LaxRaj/supermem",
+  "source_url": "https://github.com/LaxRaj/supermem",
+  "install": "# git clone --depth 1 https://github.com/LaxRaj/supermem\n# See source for mcpServers config block"
+}

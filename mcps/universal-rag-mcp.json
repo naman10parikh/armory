@@ -1,0 +1,7 @@
+{
+  "name": "universal-rag-mcp",
+  "description": "Enables persistent, searchable memory for AI assistants across platforms like Claude, ChatGPT, and Gemini, using semantic search and automatic deduplication.",
+  "source_repo": "Sid7on1/universal-memory-mcp",
+  "source_url": "https://github.com/Sid7on1/universal-memory-mcp",
+  "install": "npx -y universal-memory-mcp"
+}

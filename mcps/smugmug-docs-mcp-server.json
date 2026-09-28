@@ -1,0 +1,7 @@
+{
+  "name": "smugmug-docs-mcp-server",
+  "description": "A lightweight MCP server for searching SmugMug documentation and calling the live SmugMug API.",
+  "source_repo": "Mark425/smugmug-docs-mcp-server",
+  "source_url": "https://github.com/Mark425/smugmug-docs-mcp-server",
+  "install": "npx -y smugmug-docs-mcp-server"
+}

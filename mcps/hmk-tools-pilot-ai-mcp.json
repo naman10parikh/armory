@@ -1,0 +1,7 @@
+{
+  "name": "hmk-tools-pilot-ai-mcp",
+  "description": "Drive Autodesk Revit, AutoCAD & Civil 3D from Claude over MCP — 190+ real actions, runs locally.",
+  "source_repo": "hmertkaramann/hmk-pilot-mcp",
+  "source_url": "https://github.com/hmertkaramann/hmk-pilot-mcp",
+  "install": "npx -y hmk-pilot-mcp"
+}

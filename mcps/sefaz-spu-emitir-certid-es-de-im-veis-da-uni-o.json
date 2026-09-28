@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-spu-emitir-certid-es-de-im-veis-da-uni-o",
+  "description": "MCP server for consulting and issuing property certificates for federal real estate in Brazil through official SEFAZ SPU sources, with read-only access and pay-per-use credits.",
+  "source_repo": "mcp-dir/sefaz_spu_certidao_imoveis-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_spu_certidao_imoveis-mcp",
+  "install": "npx -y sefaz_spu_certidao_imoveis-mcp"
+}

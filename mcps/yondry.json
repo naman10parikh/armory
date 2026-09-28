@@ -1,0 +1,7 @@
+{
+  "name": "yondry",
+  "description": "Plan your perfect day out, anywhere.",
+  "source_repo": "yondry-ltd/yondry-mcp",
+  "source_url": "https://github.com/yondry-ltd/yondry-mcp",
+  "install": "npx -y yondry-mcp"
+}

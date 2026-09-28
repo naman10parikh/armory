@@ -1,0 +1,7 @@
+{
+  "name": "mcp-multimedia-server",
+  "description": "Provides multimedia understanding tools for LLM agents, enabling image, video, audio analysis and speech transcription via cloud-based MiMo V2.5 through OpenAI-compatible endpoints.",
+  "source_repo": "ThermalEng/mcp-multimedia-server",
+  "source_url": "https://github.com/ThermalEng/mcp-multimedia-server",
+  "install": "# git clone --depth 1 https://github.com/ThermalEng/mcp-multimedia-server\n# See source for mcpServers config block"
+}

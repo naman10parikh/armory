@@ -1,0 +1,7 @@
+{
+  "name": "edgemem",
+  "description": "Filesystem-native agent memory for Claude Code, enabling persistent team context across sessions through cloud-synced memory files and MCP tools.",
+  "source_repo": "AnuwatThisuka/edgemem",
+  "source_url": "https://github.com/AnuwatThisuka/edgemem",
+  "install": "# git clone --depth 1 https://github.com/AnuwatThisuka/edgemem\n# See source for mcpServers config block"
+}

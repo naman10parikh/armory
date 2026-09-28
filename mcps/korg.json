@@ -1,0 +1,7 @@
+{
+  "name": "korg",
+  "description": "A causally-ordered, rewindable event-ledger for autonomous AI agents, enabling tamper-evident audit, replay, and rollback of agent actions via an MCP server.",
+  "source_repo": "New1Direction/korg",
+  "source_url": "https://github.com/New1Direction/korg",
+  "install": "# git clone --depth 1 https://github.com/New1Direction/korg\n# See source for mcpServers config block"
+}

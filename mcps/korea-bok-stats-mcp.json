@@ -1,0 +1,7 @@
+{
+  "name": "korea-bok-stats-mcp",
+  "description": "Enables querying Bank of Korea ECOS economic statistics via Open API, including searching tables, retrieving time series data, and accessing key indicators.",
+  "source_repo": "hlucent/korea-bok-stats-mcp",
+  "source_url": "https://github.com/hlucent/korea-bok-stats-mcp",
+  "install": "npx -y korea-bok-stats-mcp"
+}

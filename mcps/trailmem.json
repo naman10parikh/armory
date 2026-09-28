@@ -1,0 +1,7 @@
+{
+  "name": "trailmem",
+  "description": "Persistent, local-first graph memory for AI coding agents. Provides durable cross-session memory via a local SQLite knowledge graph with typed relationships.",
+  "source_repo": "amitnexTech/trailmem",
+  "source_url": "https://github.com/amitnexTech/trailmem",
+  "install": "# git clone --depth 1 https://github.com/amitnexTech/trailmem\n# See source for mcpServers config block"
+}

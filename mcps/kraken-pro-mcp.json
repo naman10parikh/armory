@@ -1,0 +1,7 @@
+{
+  "name": "kraken-pro-mcp",
+  "description": "Enables natural language trading and market data queries on Kraken Pro via Gemini CLI.",
+  "source_repo": "oilst/kraken-mcp",
+  "source_url": "https://github.com/oilst/kraken-mcp",
+  "install": "npx -y kraken-mcp"
+}

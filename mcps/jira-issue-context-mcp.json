@@ -1,0 +1,7 @@
+{
+  "name": "jira-issue-context-mcp",
+  "description": "Read-only MCP server that fetches a single Jira issue by key and returns its title, description, comments, attachment summary, and image attachments.",
+  "source_repo": "formonkey/jira-issue-context-mcp",
+  "source_url": "https://github.com/formonkey/jira-issue-context-mcp",
+  "install": "npx -y jira-issue-context-mcp"
+}

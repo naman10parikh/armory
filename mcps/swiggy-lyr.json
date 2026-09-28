@@ -1,0 +1,7 @@
+{
+  "name": "swiggy-lyr",
+  "description": "Aggregates Swiggy's food delivery, Instamart groceries, and Dineout table booking services into one MCP server, letting AI agents search, order, and book via a single OAuth token.",
+  "source_repo": "ishan-parihar/swiggy-lyr",
+  "source_url": "https://github.com/ishan-parihar/swiggy-lyr",
+  "install": "# git clone --depth 1 https://github.com/ishan-parihar/swiggy-lyr\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jyotish-mcp",
+  "description": "Vedic astrology MCP server that computes birth charts, dashas, transits, and ashtakavarga using Swiss ephemerides, enabling Claude to provide astrological interpretations.",
+  "source_repo": "Aikanysh7/jyotish-mcp",
+  "source_url": "https://github.com/Aikanysh7/jyotish-mcp",
+  "install": "npx -y jyotish-mcp"
+}

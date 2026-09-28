@@ -1,0 +1,7 @@
+{
+  "name": "mem-context",
+  "description": "Multi-modal RAG engine for AI assistants. Stores conversation history, conclusions, diffs, error traces, and other development artifacts in LanceDB with vector search, multi-factor scoring, and an LLM-driven consolidation pipeline.",
+  "source_repo": "turbyho/mem-context",
+  "source_url": "https://github.com/turbyho/mem-context",
+  "install": "# git clone --depth 1 https://github.com/turbyho/mem-context\n# See source for mcpServers config block"
+}

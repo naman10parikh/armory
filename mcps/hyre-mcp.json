@@ -1,0 +1,7 @@
+{
+  "name": "hyre-mcp",
+  "description": "Provides 13 Solana DeFi intelligence tools for AI agents, paid per-call via micropayments (USDC). Enables pulling live DeFi data and automatic payment settlement.",
+  "source_repo": "cryptoeights/hyre-mcp",
+  "source_url": "https://github.com/cryptoeights/hyre-mcp",
+  "install": "npx -y hyre-mcp"
+}

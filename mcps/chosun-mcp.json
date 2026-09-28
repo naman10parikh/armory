@@ -1,0 +1,7 @@
+{
+  "name": "chosun-mcp",
+  "description": "MCP server for querying Chosun University portal, CLC/e-Class, and OJ systems, providing tools to access academic information, timetables, notices, and more.",
+  "source_repo": "andyjusa/chosun-mcp",
+  "source_url": "https://github.com/andyjusa/chosun-mcp",
+  "install": "npx -y chosun-mcp"
+}

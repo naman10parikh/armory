@@ -1,0 +1,7 @@
+{
+  "name": "luma-tabs",
+  "description": "MCP server for managing Chrome tabs and tasks, enabling AI agents to search, recall, and organize browser sessions by preventing duplicate tabs, fuzzy searching, and saving workspaces as tasks.",
+  "source_repo": "844587244-rgb/luma-tabs",
+  "source_url": "https://github.com/844587244-rgb/luma-tabs",
+  "install": "# git clone --depth 1 https://github.com/844587244-rgb/luma-tabs\n# See source for mcpServers config block"
+}

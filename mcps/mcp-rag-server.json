@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rag-server",
+  "description": "A Model Context Protocol (MCP) server with Retrieval-Augmented Generation (RAG) for answering questions about imaginary SuperNova documentation. Enables semantic search over documentation using HuggingFace embeddings.",
+  "source_repo": "shabib87/supernova-mcp-rag",
+  "source_url": "https://github.com/shabib87/supernova-mcp-rag",
+  "install": "# git clone --depth 1 https://github.com/shabib87/supernova-mcp-rag\n# See source for mcpServers config block"
+}

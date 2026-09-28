@@ -1,0 +1,7 @@
+{
+  "name": "veeam-ports-mcp",
+  "description": "Provides structured access to Veeam product network port requirements. Enables querying ports, generating topology diagrams, and producing firewall rule import files through natural language.",
+  "source_repo": "shapedthought/veeam-ports-mcp",
+  "source_url": "https://github.com/shapedthought/veeam-ports-mcp",
+  "install": "npx -y veeam-ports-mcp"
+}

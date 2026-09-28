@@ -1,0 +1,7 @@
+{
+  "name": "agentweaver-mcp-server",
+  "description": "Exposes Agentweaver runs and outcomes as MCP tools for Claude Desktop and compatible clients.",
+  "source_repo": "sabbour/agentweaver",
+  "source_url": "https://github.com/sabbour/agentweaver",
+  "install": "# git clone --depth 1 https://github.com/sabbour/agentweaver\n# See source for mcpServers config block"
+}

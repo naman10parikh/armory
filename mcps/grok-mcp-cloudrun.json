@@ -1,0 +1,7 @@
+{
+  "name": "grok-mcp-cloudrun",
+  "description": "Grok plugin for deploying and managing Google Cloud Run services via MCP tools, slash commands, and a skill.",
+  "source_repo": "gprot42/grok-mcp-cloudrun",
+  "source_url": "https://github.com/gprot42/grok-mcp-cloudrun",
+  "install": "# git clone --depth 1 https://github.com/gprot42/grok-mcp-cloudrun\n# See source for mcpServers config block"
+}

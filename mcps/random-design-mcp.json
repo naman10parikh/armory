@@ -1,0 +1,7 @@
+{
+  "name": "random-design-mcp",
+  "description": "Generates randomized English Markdown frontend design directions using curated catalogs, with optional soft compatibility scoring. Does not call an LLM.",
+  "source_repo": "yanislav-igonin/random-design-mcp",
+  "source_url": "https://github.com/yanislav-igonin/random-design-mcp",
+  "install": "npx -y random-design-mcp"
+}

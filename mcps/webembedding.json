@@ -1,0 +1,7 @@
+{
+  "name": "webembedding",
+  "description": "webEmbedding is a source-first website cloning engine for AI coding agents that captures live pages with Playwright, replays network evidence, and self-verifies the result.",
+  "source_repo": "jongko54/webEmbedding",
+  "source_url": "https://github.com/jongko54/webEmbedding",
+  "install": "# git clone --depth 1 https://github.com/jongko54/webEmbedding\n# See source for mcpServers config block"
+}

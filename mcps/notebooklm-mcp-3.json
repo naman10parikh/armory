@@ -1,0 +1,7 @@
+{
+  "name": "notebooklm-mcp-3",
+  "description": "Enables AI agents to interact with Google NotebookLM through browser automation, supporting notebook management, source addition, question answering, and audio overview generation.",
+  "source_repo": "kkaminsk/NotebookLM-MCP",
+  "source_url": "https://github.com/kkaminsk/NotebookLM-MCP",
+  "install": "npx -y NotebookLM-MCP"
+}

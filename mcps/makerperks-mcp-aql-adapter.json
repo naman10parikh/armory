@@ -1,0 +1,7 @@
+{
+  "name": "makerperks-mcp-aql-adapter",
+  "description": "Enables AI agents to browse and apply for builder perks (free credits, discounts, etc.) via a single semantic endpoint, with optional user-controlled autonomy for signups.",
+  "source_repo": "MCPAQL/makerperks-adapter",
+  "source_url": "https://github.com/MCPAQL/makerperks-adapter",
+  "install": "# git clone --depth 1 https://github.com/MCPAQL/makerperks-adapter\n# See source for mcpServers config block"
+}

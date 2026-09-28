@@ -1,0 +1,7 @@
+{
+  "name": "forgejo-mcp",
+  "description": "A Model Context Protocol (MCP) server for Forgejo and Gitea instances, enabling AI assistants to interact with repositories, issues, pull requests, and more.",
+  "source_repo": "Sqcows/forgejo-mcp",
+  "source_url": "https://github.com/Sqcows/forgejo-mcp",
+  "install": "npx -y forgejo-mcp"
+}

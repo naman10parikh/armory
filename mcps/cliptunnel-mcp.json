@@ -1,0 +1,7 @@
+{
+  "name": "cliptunnel-mcp",
+  "description": "Operate a locked-down remote machine through its clipboard by tunneling shell and file commands over a shared clipboard slot, exposing them as MCP tools like remote_shell and remote_fs_*.",
+  "source_repo": "jordi-murgo/cliptunnel-mcp",
+  "source_url": "https://github.com/jordi-murgo/cliptunnel-mcp",
+  "install": "npx -y cliptunnel-mcp"
+}

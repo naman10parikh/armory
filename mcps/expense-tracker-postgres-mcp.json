@@ -1,0 +1,7 @@
+{
+  "name": "expense-tracker-postgres-mcp",
+  "description": "Persistent expense tracker backed by Neon Postgres with SQL tools for adding, editing, deleting, and analyzing expenses via natural language.",
+  "source_repo": "EESHAN-ANAND/expense-tracker-postgres-mcp",
+  "source_url": "https://github.com/EESHAN-ANAND/expense-tracker-postgres-mcp",
+  "install": "npx -y expense-tracker-postgres-mcp"
+}

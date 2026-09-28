@@ -1,0 +1,7 @@
+{
+  "name": "api-docs-mcp-server",
+  "description": "Exposes OpenAPI/Swagger API documentation as MCP tools, enabling AI agents to search, inspect, and call API endpoints through natural language.",
+  "source_repo": "geniyangge/api-docs-mcp-server",
+  "source_url": "https://github.com/geniyangge/api-docs-mcp-server",
+  "install": "npx -y api-docs-mcp-server"
+}

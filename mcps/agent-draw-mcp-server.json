@@ -1,0 +1,7 @@
+{
+  "name": "agent-draw-mcp-server",
+  "description": "A TypeScript stdio MCP server that lets agents read, import, propose connections for, and apply optimistic patches to versioned agent-draw diagram documents.",
+  "source_repo": "nicolaerusan/agent-draw",
+  "source_url": "https://github.com/nicolaerusan/agent-draw",
+  "install": "# git clone --depth 1 https://github.com/nicolaerusan/agent-draw\n# See source for mcpServers config block"
+}

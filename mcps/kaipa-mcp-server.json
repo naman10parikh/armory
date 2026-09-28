@@ -1,0 +1,7 @@
+{
+  "name": "kaipa-mcp-server",
+  "description": "Enables Laravel API integration with Cursor, providing tools for routes, models, Artisan commands, configuration, and Redis cache management through Docker.",
+  "source_repo": "HaManhTuan/mcp-laravel",
+  "source_url": "https://github.com/HaManhTuan/mcp-laravel",
+  "install": "# git clone --depth 1 https://github.com/HaManhTuan/mcp-laravel\n# See source for mcpServers config block"
+}

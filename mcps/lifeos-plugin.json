@@ -1,0 +1,7 @@
+{
+  "name": "lifeos-plugin",
+  "description": "An MCP server integrating 40+ workflow skills for personal productivity, project management, health, finance, and more, powered by Convex and FalkorDB.",
+  "source_repo": "starascendin/lifeos-plugin",
+  "source_url": "https://github.com/starascendin/lifeos-plugin",
+  "install": "# git clone --depth 1 https://github.com/starascendin/lifeos-plugin\n# See source for mcpServers config block"
+}

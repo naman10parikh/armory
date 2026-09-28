@@ -1,0 +1,7 @@
+{
+  "name": "tessyr",
+  "description": "Enables AI agents to execute authorized payment actions and retrieve receipts through a local authority gateway with configurable approval policies.",
+  "source_repo": "prantikmedhi/Tessyr",
+  "source_url": "https://github.com/prantikmedhi/Tessyr",
+  "install": "# git clone --depth 1 https://github.com/prantikmedhi/Tessyr\n# See source for mcpServers config block"
+}

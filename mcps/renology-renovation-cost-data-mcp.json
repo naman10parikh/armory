@@ -1,0 +1,7 @@
+{
+  "name": "renology-renovation-cost-data-mcp",
+  "description": "Read-only MCP server for the Renology 2026 city-level renovation cost dataset. Enables AI assistants to list markets and project types, retrieve cost ranges, compare costs across cities, and access methodology and citation information.",
+  "source_repo": "asafichaki/renology-cost-data-mcp",
+  "source_url": "https://github.com/asafichaki/renology-cost-data-mcp",
+  "install": "npx -y renology-cost-data-mcp"
+}

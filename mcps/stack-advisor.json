@@ -1,0 +1,7 @@
+{
+  "name": "stack-advisor",
+  "description": "An MCP server that recommends tech stacks for your project. Describe what you're building and get a recommended stack with reasoning, tradeoffs, and what each layer should use.",
+  "source_repo": "officechbusinessservices-creator/stack-advisor",
+  "source_url": "https://github.com/officechbusinessservices-creator/stack-advisor",
+  "install": "# git clone --depth 1 https://github.com/officechbusinessservices-creator/stack-advisor\n# See source for mcpServers config block"
+}

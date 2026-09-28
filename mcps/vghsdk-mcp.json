@@ -1,0 +1,7 @@
+{
+  "name": "vghsdk-mcp",
+  "description": "MCP server for querying patient, surgery, outpatient, inpatient, consent, and IVI data within the VGH intranet. Provides 27 tools with unified authentication and date formatting.",
+  "source_repo": "eyeduck-ai/vghsdk-mcp",
+  "source_url": "https://github.com/eyeduck-ai/vghsdk-mcp",
+  "install": "npx -y vghsdk-mcp"
+}

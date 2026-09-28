@@ -1,0 +1,7 @@
+{
+  "name": "browser-tools-mcp",
+  "description": "Persistence, headed Chromium browser control for MCP clients like OpenCode and Claude Code, enabling navigation, inspection, clicking, filling, and human-gated actions on JavaScript-heavy or login-walled pages.",
+  "source_repo": "luigimasango-dev/browser-tools-mcp",
+  "source_url": "https://github.com/luigimasango-dev/browser-tools-mcp",
+  "install": "npx -y browser-tools-mcp"
+}

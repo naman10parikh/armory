@@ -1,0 +1,7 @@
+{
+  "name": "jobkeepr-mcp",
+  "description": "Enables AI assistants to read and manage a Jobkeepr field service business including jobs, customers, scheduling, estimates, invoices, and payments via MCP.",
+  "source_repo": "dandyer/jobkeepr-mcp",
+  "source_url": "https://github.com/dandyer/jobkeepr-mcp",
+  "install": "npx -y jobkeepr-mcp"
+}

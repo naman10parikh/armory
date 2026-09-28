@@ -1,0 +1,7 @@
+{
+  "name": "mcp-transportasi-jalan-tol-jalur-ka",
+  "description": "MCP server providing data on Indonesian toll roads and railway lines, including toll gates, road segments, stations, and track locations across Java. Enables querying transportation infrastructure via natural language.",
+  "source_repo": "tirthanzh/mcp-transportasi-jalan-tol-dan-jalur-ka",
+  "source_url": "https://github.com/tirthanzh/mcp-transportasi-jalan-tol-dan-jalur-ka",
+  "install": "# git clone --depth 1 https://github.com/tirthanzh/mcp-transportasi-jalan-tol-dan-jalur-ka\n# See source for mcpServers config block"
+}

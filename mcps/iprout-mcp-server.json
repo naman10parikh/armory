@@ -1,0 +1,7 @@
+{
+  "name": "iprout-mcp-server",
+  "description": "Provides GeoIP and ASN intelligence lookup for IP addresses, enabling AI agents to retrieve location and network information via the IPRout API.",
+  "source_repo": "IProut2026/mcp-server",
+  "source_url": "https://github.com/IProut2026/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/IProut2026/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fonto-docs-mcp",
+  "description": "Makes Fonto XML documentation accessible to AI tools by fetching underlying XML and converting it to clean Markdown on demand, enabling search and retrieval of docs pages.",
+  "source_repo": "DrRataplan/fonto-docs-mcp",
+  "source_url": "https://github.com/DrRataplan/fonto-docs-mcp",
+  "install": "npx -y fonto-docs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-fables",
+  "description": "Provides offline, evidence-based preflight risk assessment for agent actions, returning revision-pinned incident patterns and unresolved verification gates to help prevent past failures from recurring.",
+  "source_repo": "AaronVick/AGENT_FABLES",
+  "source_url": "https://github.com/AaronVick/AGENT_FABLES",
+  "install": "# git clone --depth 1 https://github.com/AaronVick/AGENT_FABLES\n# See source for mcpServers config block"
+}

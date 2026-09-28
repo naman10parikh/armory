@@ -1,6 +1,6 @@
 {
   "name": "php-hostinger-mcp-server",
-  "description": "Php Hostinger Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "Lucasdoreac/php-hostinger-mcp-server",
   "source_url": "https://mcp.so/server/php-hostinger-mcp-server/Lucasdoreac",
   "install": "npx -y php-hostinger-mcp-server"

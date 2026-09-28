@@ -1,0 +1,7 @@
+{
+  "name": "xhs-comment-analyzer",
+  "description": "Enables AI clients to search Xiaohongshu notes by brand and category, batch extract comments, and perform keyword/sentiment/heat analysis, with results exported as Excel and JSON reports.",
+  "source_repo": "nideaon/xhs-comment-analyzer",
+  "source_url": "https://github.com/nideaon/xhs-comment-analyzer",
+  "install": "# git clone --depth 1 https://github.com/nideaon/xhs-comment-analyzer\n# See source for mcpServers config block"
+}

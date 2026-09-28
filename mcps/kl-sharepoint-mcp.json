@@ -1,0 +1,7 @@
+{
+  "name": "kl-sharepoint-mcp",
+  "description": "Enables interaction with SharePoint Online and OneDrive content via Microsoft Graph, supporting device-code authentication for multi-account environments.",
+  "source_repo": "PoOpOpO/kl-sharepoint-mcp",
+  "source_url": "https://github.com/PoOpOpO/kl-sharepoint-mcp",
+  "install": "npx -y kl-sharepoint-mcp"
+}

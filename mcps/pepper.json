@@ -1,0 +1,7 @@
+{
+  "name": "pepper",
+  "description": "Pepper gives AI agents eyes and hands inside iOS Simulator apps, enabling them to view screens, tap buttons, inspect objects, and intercept network calls without source access.",
+  "source_repo": "skwallace36/Pepper",
+  "source_url": "https://github.com/skwallace36/Pepper",
+  "install": "# git clone --depth 1 https://github.com/skwallace36/Pepper\n# See source for mcpServers config block"
+}

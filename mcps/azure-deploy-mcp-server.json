@@ -1,6 +1,6 @@
 {
   "name": "azure-deploy-mcp-server",
-  "description": "Azure Deploy Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "qianwens/azure-deploy-mcp-server",
   "source_url": "https://mcp.so/server/azure-deploy-mcp-server/qianwens",
   "install": "npx -y azure-deploy-mcp-server"

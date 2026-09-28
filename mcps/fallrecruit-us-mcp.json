@@ -1,0 +1,7 @@
+{
+  "name": "fallrecruit-us-mcp",
+  "description": "Sovereign, MIT-licensed MCP server for professional service workflow, wrapping the FallRecruit US SDK, enabling offline-capable, Ed25519-signed listing and transaction operations.",
+  "source_repo": "sjgant80-hub/fallrecruit-us-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallrecruit-us-mcp",
+  "install": "npx -y fallrecruit-us-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "csv-to-json",
+  "description": "Enables AI agents to convert CSV text into JSON arrays with automatic delimiter detection and optional header-row handling, accessed through a pay-per-call x402 micropayment API.",
+  "source_repo": "Br0ski777/csv-to-json-x402",
+  "source_url": "https://github.com/Br0ski777/csv-to-json-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/csv-to-json-x402\n# See source for mcpServers config block"
+}

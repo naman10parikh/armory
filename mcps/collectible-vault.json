@@ -1,0 +1,7 @@
+{
+  "name": "collectible-vault",
+  "description": "Enables AI assistants to manage a universal collectibles vault with natural language, supporting item lookup, addition, valuation, and portfolio summary via FastMCP.",
+  "source_repo": "cereos20/collectible-vault",
+  "source_url": "https://github.com/cereos20/collectible-vault",
+  "install": "# git clone --depth 1 https://github.com/cereos20/collectible-vault\n# See source for mcpServers config block"
+}

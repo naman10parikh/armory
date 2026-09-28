@@ -1,0 +1,7 @@
+{
+  "name": "procuradoria-geral-do-estado-sp-certid-o-negativa-de-d-bitos-tribut-rios",
+  "description": "Enables querying the São Paulo State Attorney General's Office for tax clearance certificates (Certidão Negativa de Débitos Tributários) directly from official sources. Read-only tool that works with any MCP-compatible client.",
+  "source_repo": "mcp-dir/pge_sp_cndt-mcp",
+  "source_url": "https://github.com/mcp-dir/pge_sp_cndt-mcp",
+  "install": "npx -y pge_sp_cndt-mcp"
+}

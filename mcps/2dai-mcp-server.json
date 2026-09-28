@@ -1,0 +1,7 @@
+{
+  "name": "2dai-mcp-server",
+  "description": "MCP server for 2DAI that enables AI assistants to generate images and videos, upload references, browse the public feed, and manage cloud drive on a 2DAI account.",
+  "source_repo": "2DAICommunity/2dai-mcp-server",
+  "source_url": "https://github.com/2DAICommunity/2dai-mcp-server",
+  "install": "npx -y 2dai-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shoplazza-mcp",
+  "description": "Enables AI clients to read and write Shoplazza store data (products, orders, customers, inventory, discounts, webhooks) via the Shoplazza OpenAPI, with multi-store support and 311 endpoint coverage.",
+  "source_repo": "ThinkPro-GZ/shoplazza-mcp",
+  "source_url": "https://github.com/ThinkPro-GZ/shoplazza-mcp",
+  "install": "npx -y shoplazza-mcp"
+}

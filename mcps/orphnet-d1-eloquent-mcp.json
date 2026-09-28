@@ -1,0 +1,7 @@
+{
+  "name": "orphnet-d1-eloquent-mcp",
+  "description": "Enables Claude and MCP clients to introspect, generate, and execute d1-eloquent project operations (models, migrations, schema, seeders, factories, and CLI) against local D1 databases.",
+  "source_repo": "Orphnet/d1-eloquent-mcp",
+  "source_url": "https://github.com/Orphnet/d1-eloquent-mcp",
+  "install": "npx -y d1-eloquent-mcp"
+}

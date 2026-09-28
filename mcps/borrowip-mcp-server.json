@@ -1,0 +1,7 @@
+{
+  "name": "borrowip-mcp-server",
+  "description": "Enables AI agents to route web scraping traffic through a phone's cellular connection via SSH reverse tunnel, providing mobile IPs.",
+  "source_repo": "wahyuzero/borrowip",
+  "source_url": "https://github.com/wahyuzero/borrowip",
+  "install": "# git clone --depth 1 https://github.com/wahyuzero/borrowip\n# See source for mcpServers config block"
+}

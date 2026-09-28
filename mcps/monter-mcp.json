@@ -1,0 +1,7 @@
+{
+  "name": "monter-mcp",
+  "description": "Enables local analysis of personal finance data from a Monter JSON export, answering questions about spending, subscriptions, debts, and more via MCP-capable assistants without any cloud servers.",
+  "source_repo": "Akhows/monter-mcp",
+  "source_url": "https://github.com/Akhows/monter-mcp",
+  "install": "npx -y monter-mcp"
+}

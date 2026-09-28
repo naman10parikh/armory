@@ -1,6 +1,6 @@
 {
   "name": "refact",
-  "description": "Refact MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "smallcloudai/refact",
   "source_url": "https://mcp.so/server/refact/smallcloudai",
   "install": "# git clone --depth 1 https://mcp.so/server/refact/smallcloudai\n# See source for mcpServers config block"

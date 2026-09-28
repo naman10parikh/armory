@@ -1,0 +1,7 @@
+{
+  "name": "mcp-py-devto",
+  "description": "Enables interaction with dev.to platform through a message-based architecture, supporting article management operations like create, update, delete, and get articles.",
+  "source_repo": "extinctsion/mcp-py-devto",
+  "source_url": "https://github.com/extinctsion/mcp-py-devto",
+  "install": "# git clone --depth 1 https://github.com/extinctsion/mcp-py-devto\n# See source for mcpServers config block"
+}

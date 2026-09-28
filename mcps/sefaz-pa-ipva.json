@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-pa-ipva",
+  "description": "Enables consulting IPVA (vehicle property tax) data from the official SEFAZ PA source via a read-only MCP tool, working with any MCP-compatible client.",
+  "source_repo": "mcp-dir/sefaz_pa_ipva-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_pa_ipva-mcp",
+  "install": "npx -y sefaz_pa_ipva-mcp"
+}

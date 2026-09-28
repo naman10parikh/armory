@@ -1,0 +1,7 @@
+{
+  "name": "lens-mcp-2",
+  "description": "Lens-MCP is a read-only Postgres MCP server that lets AI agents inspect and query approved database data safely.",
+  "source_repo": "Hqzdev/Lens-MCP",
+  "source_url": "https://github.com/Hqzdev/Lens-MCP",
+  "install": "npx -y Lens-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nextflows-academy-mcp-starter",
+  "description": "A starter MCP server with a working 'greet' tool and stub examples for notes/FAQ search, built for the NextFlows Academy cohort program to extend with custom tools.",
+  "source_repo": "RoaM04/Job-Application-Tracker-Project",
+  "source_url": "https://github.com/RoaM04/Job-Application-Tracker-Project",
+  "install": "# git clone --depth 1 https://github.com/RoaM04/Job-Application-Tracker-Project\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "healthcare-data-quality-mcp-server",
+  "description": "Enables AI assistants to run healthcare data quality checks (completeness, integrity, consistency, temporal accuracy) on claims and EHR data files, returning severity-scored findings for governance reporting.",
+  "source_repo": "muyogalega25/healthcare-data-quality-mcp-server",
+  "source_url": "https://github.com/muyogalega25/healthcare-data-quality-mcp-server",
+  "install": "npx -y healthcare-data-quality-mcp-server"
+}

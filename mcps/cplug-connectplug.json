@@ -1,0 +1,7 @@
+{
+  "name": "cplug-connectplug",
+  "description": "MCP server for ConnectPlug's API enabling read-only querying of sales, inventory, financial data, DRE, and orders from iFood, Rappi, and Uber Eats for restaurants and retail.",
+  "source_repo": "mcp-dir/cplug-mcp",
+  "source_url": "https://github.com/mcp-dir/cplug-mcp",
+  "install": "npx -y cplug-mcp"
+}

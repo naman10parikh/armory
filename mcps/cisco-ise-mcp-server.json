@@ -1,0 +1,7 @@
+{
+  "name": "cisco-ise-mcp-server",
+  "description": "Cisco ISE MCP Server",
+  "source_repo": "TheOtherBrad/cisco-ise-mcp",
+  "source_url": "https://github.com/TheOtherBrad/cisco-ise-mcp",
+  "install": "npx -y cisco-ise-mcp"
+}

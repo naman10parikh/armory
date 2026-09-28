@@ -1,0 +1,7 @@
+{
+  "name": "edgar-mcp",
+  "description": "MCP server providing read-only access to SEC EDGAR filings, allowing LLMs to look up companies, search filings, and retrieve securities offering data.",
+  "source_repo": "mcpwright/edgar-mcp",
+  "source_url": "https://github.com/mcpwright/edgar-mcp",
+  "install": "npx -y edgar-mcp"
+}

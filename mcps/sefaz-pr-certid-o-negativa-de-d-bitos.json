@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-pr-certid-o-negativa-de-d-bitos",
+  "description": "Enables querying official Paraná state tax negative debt certificates through a single read-only MCP tool, hosted with prepaid per-use credits and no platform credentials required.",
+  "source_repo": "mcp-dir/sefaz_pr_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_pr_certidao_debitos-mcp",
+  "install": "npx -y sefaz_pr_certidao_debitos-mcp"
+}

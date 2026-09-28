@@ -1,0 +1,7 @@
+{
+  "name": "suricatamcp-server",
+  "description": "Turn Claude Desktop into a network security analyst. A comprehensive MCP server that connects Claude Desktop to Suricata IDS/IPS for PCAP analysis, rule management, and rule quality linting through natural language.",
+  "source_repo": "Hackerobi/suricata-mcp-server",
+  "source_url": "https://github.com/Hackerobi/suricata-mcp-server",
+  "install": "npx -y suricata-mcp-server"
+}

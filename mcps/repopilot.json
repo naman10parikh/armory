@@ -1,0 +1,7 @@
+{
+  "name": "repopilot",
+  "description": "MCP server for auditable repository self-maintenance, turning GitHub issues and failed CI into independently verified pull requests with full audit trails, human approvals, and runbook archival.",
+  "source_repo": "wellkilo/RepoPilot",
+  "source_url": "https://github.com/wellkilo/RepoPilot",
+  "install": "# git clone --depth 1 https://github.com/wellkilo/RepoPilot\n# See source for mcpServers config block"
+}

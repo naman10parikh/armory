@@ -1,0 +1,7 @@
+{
+  "name": "qwen-omni-mcp",
+  "description": "Enables Claude Code and other AI agents to understand videos and images via Qwen3.7-Plus, supporting native video analysis, image understanding, and convenience tools like summarization and OCR.",
+  "source_repo": "sommio/qwen-omni-mcp",
+  "source_url": "https://github.com/sommio/qwen-omni-mcp",
+  "install": "npx -y qwen-omni-mcp"
+}

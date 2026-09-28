@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tfl-journey",
+  "description": "Provides real-time Transport for London journey data, including routes, alerts, and disruptions, allowing AI assistants to search journeys and get station information.",
+  "source_repo": "alisonborba/mcp-tfl-journey",
+  "source_url": "https://github.com/alisonborba/mcp-tfl-journey",
+  "install": "# git clone --depth 1 https://github.com/alisonborba/mcp-tfl-journey\n# See source for mcpServers config block"
+}

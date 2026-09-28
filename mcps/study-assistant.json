@@ -1,0 +1,7 @@
+{
+  "name": "study-assistant",
+  "description": "Converts syllabus documents into a searchable study knowledge base. Provides MCP tools to list available syllabi and retrieve structured summaries and extracted text.",
+  "source_repo": "Markalvs/assistente-de-estudos",
+  "source_url": "https://github.com/Markalvs/assistente-de-estudos",
+  "install": "# git clone --depth 1 https://github.com/Markalvs/assistente-de-estudos\n# See source for mcpServers config block"
+}

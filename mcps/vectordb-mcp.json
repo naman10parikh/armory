@@ -1,0 +1,7 @@
+{
+  "name": "vectordb-mcp",
+  "description": "Local RAG system that ingests documents into a vector database using FAISS and SQLite, then enables Claude to search over them via MCP tools, all running locally with no API key required.",
+  "source_repo": "AliHaider20/MCP-VectorDB-context-manager",
+  "source_url": "https://github.com/AliHaider20/MCP-VectorDB-context-manager",
+  "install": "# git clone --depth 1 https://github.com/AliHaider20/MCP-VectorDB-context-manager\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mosaic-mcp",
+  "description": "Pre-clinical drug discovery intelligence MCP server providing 44 tools to query 800+ drug targets, 12K+ compounds, 46K+ papers, 18K+ clinical trials, and 16K+ patents.",
+  "source_repo": "sourabhnk/mosaic-mcp",
+  "source_url": "https://github.com/sourabhnk/mosaic-mcp",
+  "install": "npx -y mosaic-mcp"
+}

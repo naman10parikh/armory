@@ -1,0 +1,7 @@
+{
+  "name": "shop-mcp",
+  "description": "MCP server for automating personal Amazon.in and Flipkart accounts via browser sessions, enabling product search, cart management, and guarded checkout.",
+  "source_repo": "detushar/shop-mcp",
+  "source_url": "https://github.com/detushar/shop-mcp",
+  "install": "npx -y shop-mcp"
+}

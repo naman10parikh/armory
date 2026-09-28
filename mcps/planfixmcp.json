@@ -1,0 +1,7 @@
+{
+  "name": "planfixmcp",
+  "description": "MCP server for Planfix REST API that generates tools from an OpenAPI spec, exposing operations like task_list and comment_add with Russian descriptions, filtering, and response validation.",
+  "source_repo": "alexd73/PlanfixMCP",
+  "source_url": "https://github.com/alexd73/PlanfixMCP",
+  "install": "# git clone --depth 1 https://github.com/alexd73/PlanfixMCP\n# See source for mcpServers config block"
+}

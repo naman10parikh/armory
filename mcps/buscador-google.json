@@ -1,0 +1,7 @@
+{
+  "name": "buscador-google",
+  "description": "MCP server for Google search queries, hosted with prepaid credits, read-only, works with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/buscador_google-mcp",
+  "source_url": "https://github.com/mcp-dir/buscador_google-mcp",
+  "install": "npx -y buscador_google-mcp"
+}

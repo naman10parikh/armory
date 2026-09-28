@@ -1,0 +1,7 @@
+{
+  "name": "payu-mcp-server",
+  "description": "Integrates PayU payment services with AI tools through the Model Context Protocol, enabling payment link creation, transaction retrieval, and settlement analysis.",
+  "source_repo": "payu-intrepos/payu-mcp-server",
+  "source_url": "https://github.com/payu-intrepos/payu-mcp-server",
+  "install": "npx -y payu-mcp-server"
+}

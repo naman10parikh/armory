@@ -1,0 +1,7 @@
+{
+  "name": "hy3d-mcp",
+  "description": "Turns a single concept image into a game-ready textured 3D model (GLB) locally on Apple Silicon by wrapping Hunyuan3D-MLX, with tools for generation, finishing, preview, and setup diagnostics.",
+  "source_repo": "JimCline/hy3d-mcp",
+  "source_url": "https://github.com/JimCline/hy3d-mcp",
+  "install": "npx -y hy3d-mcp"
+}

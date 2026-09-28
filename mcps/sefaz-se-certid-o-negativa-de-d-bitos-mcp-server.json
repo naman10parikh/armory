@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-se-certid-o-negativa-de-d-bitos-mcp-server",
+  "description": "Enables users to consult official SEFAZ SE negative debt certificates through a read-only MCP tool. It provides one tool, sefaz_se_certidao_debitos_consultar, and works with any MCP-compatible client over HTTP.",
+  "source_repo": "mcp-dir/sefaz_se_certidao_debitos-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_se_certidao_debitos-mcp",
+  "install": "npx -y sefaz_se_certidao_debitos-mcp"
+}

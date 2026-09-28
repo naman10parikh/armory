@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ephemeral-k8s",
+  "description": "Enables spawning ephemeral Model Context Protocol (MCP) servers on Kubernetes using Server-Sent Events (SSE), supporting multiple runtimes.",
+  "source_repo": "BobMerkus/mcp-ephemeral-k8s",
+  "source_url": "https://github.com/BobMerkus/mcp-ephemeral-k8s",
+  "install": "# git clone --depth 1 https://github.com/BobMerkus/mcp-ephemeral-k8s\n# See source for mcpServers config block"
+}

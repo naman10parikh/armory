@@ -1,0 +1,7 @@
+{
+  "name": "figma-spec-mcp",
+  "description": "Bridge Figma designs to any platform with structured specs for Unity, React, Flutter, SwiftUI, and more, including layout audit, design tokens, and accessibility checks.",
+  "source_repo": "zaferdace/figma-spec-mcp",
+  "source_url": "https://github.com/zaferdace/figma-spec-mcp",
+  "install": "npx -y figma-spec-mcp"
+}

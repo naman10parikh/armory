@@ -1,0 +1,7 @@
+{
+  "name": "web3trackers-mcp",
+  "description": "MCP server for crypto marketing attribution. Build UTM-tagged tracking URLs, estimate campaign ROI, compare web3 attribution tools, and pull DeFi marketing benchmarks.",
+  "source_repo": "aerobean/web3trackers-mcp",
+  "source_url": "https://github.com/aerobean/web3trackers-mcp",
+  "install": "npx -y web3trackers-mcp"
+}

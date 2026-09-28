@@ -1,0 +1,7 @@
+{
+  "name": "polymarket-mcp-2",
+  "description": "Enables AI assistants to query Polymarket prediction markets and analyze market data through the MCP interface.",
+  "source_repo": "pab1it0/polymarket-mcp",
+  "source_url": "https://github.com/pab1it0/polymarket-mcp",
+  "install": "npx -y polymarket-mcp"
+}

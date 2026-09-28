@@ -1,0 +1,7 @@
+{
+  "name": "omnicord",
+  "description": "Gives your AI assistant full control of a Discord server: 148 tools for chat, moderation, automod, events, and administration, up to building a complete community server from one paragraph. Every destructive action previews first and waits for your confirmation.",
+  "source_repo": "OrygnsCode/Omnicord",
+  "source_url": "https://github.com/OrygnsCode/Omnicord",
+  "install": "# git clone --depth 1 https://github.com/OrygnsCode/Omnicord\n# See source for mcpServers config block"
+}

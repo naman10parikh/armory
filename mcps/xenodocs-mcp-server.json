@@ -1,0 +1,7 @@
+{
+  "name": "xenodocs-mcp-server",
+  "description": "Fetches up-to-date, version-specific documentation and code examples for any library, preventing outdated or hallucinated API usage in LLM responses.",
+  "source_repo": "Xenodocs/xenodocs-mcp-server",
+  "source_url": "https://github.com/Xenodocs/xenodocs-mcp-server",
+  "install": "npx -y xenodocs-mcp-server"
+}

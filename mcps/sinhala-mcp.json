@@ -1,0 +1,7 @@
+{
+  "name": "sinhala-mcp",
+  "description": "Translates Sinhala or Singlish instructions into precise English technical specifications using Google Gemini AI, enabling Sinhala-speaking developers to code in their native language.",
+  "source_repo": "Thamindu-Dev/sinhala-mcp",
+  "source_url": "https://github.com/Thamindu-Dev/sinhala-mcp",
+  "install": "npx -y sinhala-mcp"
+}

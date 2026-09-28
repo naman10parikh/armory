@@ -1,0 +1,7 @@
+{
+  "name": "app-wishpool-korea-payments-mcp",
+  "description": "Lets AI agents accept Korean payments (cards, KakaoPay, NaverPay, Toss Pay, virtual accounts, bank transfers, carrier billing) via Toss Payments hosted checkout using a stateless, bring-your-own-credentials MCP server.",
+  "source_repo": "junter1989k-ai/korea-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/korea-payments-mcp",
+  "install": "npx -y korea-payments-mcp"
+}

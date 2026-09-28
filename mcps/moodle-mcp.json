@@ -1,0 +1,7 @@
+{
+  "name": "moodle-mcp",
+  "description": "Enables retrieval of upcoming events from Moodle LMS via the Model Context Protocol.",
+  "source_repo": "loyaniu/moodle-mcp",
+  "source_url": "https://github.com/loyaniu/moodle-mcp",
+  "install": "npx -y moodle-mcp"
+}

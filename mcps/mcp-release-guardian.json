@@ -1,0 +1,7 @@
+{
+  "name": "mcp-release-guardian",
+  "description": "Validates release hygiene in local repositories with network-free, read-only tools for checking repo structure, version alignment, and generating release checklists.",
+  "source_repo": "curtis-d-williams/mcp-release-guardian",
+  "source_url": "https://github.com/curtis-d-williams/mcp-release-guardian",
+  "install": "# git clone --depth 1 https://github.com/curtis-d-williams/mcp-release-guardian\n# See source for mcpServers config block"
+}

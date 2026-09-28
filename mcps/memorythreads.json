@@ -1,0 +1,7 @@
+{
+  "name": "memorythreads",
+  "description": "Persistent, searchable conversation memory shared across Claude Code and Codex, enabling cross-session recall and thread continuity via hybrid BM25 and vector search.",
+  "source_repo": "v3velev/memorythreads",
+  "source_url": "https://github.com/v3velev/memorythreads",
+  "install": "# git clone --depth 1 https://github.com/v3velev/memorythreads\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "citizenofthecloud-mcp-server",
+  "description": "MCP server for Citizen of the Cloud — agent identity verification, trust scoring, and registry access for any AI runtime that speaks the Model Context Protocol.",
+  "source_repo": "citizenofthecloud/mcp-server",
+  "source_url": "https://github.com/citizenofthecloud/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/citizenofthecloud/mcp-server\n# See source for mcpServers config block"
+}

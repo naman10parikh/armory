@@ -1,0 +1,7 @@
+{
+  "name": "specmatic-mcp-server",
+  "description": "Exposes Specmatic's API contract testing, resiliency testing, and mocking capabilities to AI coding agents via natural language, enabling automated validation and simulation of API behaviors.",
+  "source_repo": "specmatic/specmatic-mcp-server",
+  "source_url": "https://github.com/specmatic/specmatic-mcp-server",
+  "install": "npx -y specmatic-mcp-server"
+}

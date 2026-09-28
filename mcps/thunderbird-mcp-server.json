@@ -1,0 +1,7 @@
+{
+  "name": "thunderbird-mcp-server",
+  "description": "Centralizes Thunderbird email operations as MCP tools: read, send, draft, search, attachments.",
+  "source_repo": "zxkjack123/thunderbird-mcp-server",
+  "source_url": "https://github.com/zxkjack123/thunderbird-mcp-server",
+  "install": "npx -y thunderbird-mcp-server"
+}

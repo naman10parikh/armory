@@ -1,0 +1,7 @@
+{
+  "name": "office-word-mcp-server",
+  "description": "Enables AI assistants to create, read, and manipulate Microsoft Word documents with rich editing capabilities.",
+  "source_repo": "LOCAL2/Office-Word-MCP-Server",
+  "source_url": "https://github.com/LOCAL2/Office-Word-MCP-Server",
+  "install": "npx -y Office-Word-MCP-Server"
+}

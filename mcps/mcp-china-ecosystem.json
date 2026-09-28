@@ -1,0 +1,7 @@
+{
+  "name": "mcp-china-ecosystem",
+  "description": "Bridges AI agents to Chinese internet services like Baidu, Bilibili, and Chinese web page extraction without requiring API keys.",
+  "source_repo": "543366565/mcp-china-ecosystem",
+  "source_url": "https://github.com/543366565/mcp-china-ecosystem",
+  "install": "# git clone --depth 1 https://github.com/543366565/mcp-china-ecosystem\n# See source for mcpServers config block"
+}

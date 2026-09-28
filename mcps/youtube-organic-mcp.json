@@ -1,0 +1,7 @@
+{
+  "name": "youtube-organic-mcp",
+  "description": "Enables AI assistants to access YouTube organic analytics, including channel stats, video performance, watch time, and audience engagement, via the YouTube Data API v3 and Analytics API v2.",
+  "source_repo": "lanternrow/youtube-organic-mcp",
+  "source_url": "https://github.com/lanternrow/youtube-organic-mcp",
+  "install": "npx -y youtube-organic-mcp"
+}

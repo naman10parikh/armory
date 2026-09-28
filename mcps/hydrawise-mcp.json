@@ -1,0 +1,7 @@
+{
+  "name": "hydrawise-mcp",
+  "description": "MCP server for Hunter Hydrawise irrigation controllers, exposing the Hydrawise REST API as tools for AI agents to manage watering schedules and controller settings.",
+  "source_repo": "b3nw/hydrawise-mcp",
+  "source_url": "https://github.com/b3nw/hydrawise-mcp",
+  "install": "npx -y hydrawise-mcp"
+}

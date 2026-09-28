@@ -1,0 +1,7 @@
+{
+  "name": "securevibes-mcp",
+  "description": "Enables AI-powered security scanning of codebases through conversational analysis, allowing users to assess, threat model, code review, DAST test, and generate security reports using natural language with Claude.",
+  "source_repo": "SimonvanAs/secure-vibes-mcp",
+  "source_url": "https://github.com/SimonvanAs/secure-vibes-mcp",
+  "install": "npx -y secure-vibes-mcp"
+}

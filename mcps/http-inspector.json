@@ -1,0 +1,7 @@
+{
+  "name": "http-inspector",
+  "description": "HTTP Inspector MCP Server enables sending arbitrary HTTP requests, viewing history via a web panel, and taking screenshots of the panel for AI penetration testing workflows.",
+  "source_repo": "zfdx123/mcp-http-inspector",
+  "source_url": "https://github.com/zfdx123/mcp-http-inspector",
+  "install": "# git clone --depth 1 https://github.com/zfdx123/mcp-http-inspector\n# See source for mcpServers config block"
+}

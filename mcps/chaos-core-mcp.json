@@ -1,0 +1,7 @@
+{
+  "name": "chaos-core-mcp",
+  "description": "Enables AI agents to hand high-level objectives to a decision-making core that autonomously reasons, plans, enforces deterministic policy, executes capabilities, evaluates outcomes, and persists semantic memory over stdio or Streamable HTTP.",
+  "source_repo": "chaosbrewing/chaos-core-mcp",
+  "source_url": "https://github.com/chaosbrewing/chaos-core-mcp",
+  "install": "npx -y chaos-core-mcp"
+}

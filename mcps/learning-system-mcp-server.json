@@ -1,0 +1,7 @@
+{
+  "name": "learning-system-mcp-server",
+  "description": "This MCP server provides an AI-driven learning and knowledge management platform that automatically summarizes conversations, manages knowledge graphs, tracks project progress, explores new technologies, and generates study plans through specialized agents.",
+  "source_repo": "zsc140217/learning-system",
+  "source_url": "https://github.com/zsc140217/learning-system",
+  "install": "# git clone --depth 1 https://github.com/zsc140217/learning-system\n# See source for mcpServers config block"
+}

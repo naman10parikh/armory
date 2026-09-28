@@ -1,0 +1,7 @@
+{
+  "name": "opentable-watcher-mcp",
+  "description": "A watch-and-alert tool for OpenTable availability that polls for open slots and sends alerts, allowing users to manage watches through natural language via Claude MCP.",
+  "source_repo": "jtur671/opentable-watcher-mcp",
+  "source_url": "https://github.com/jtur671/opentable-watcher-mcp",
+  "install": "npx -y opentable-watcher-mcp"
+}

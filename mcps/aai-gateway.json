@@ -1,0 +1,7 @@
+{
+  "name": "aai-gateway",
+  "description": "Unified MCP and skill management gateway for AI agents, enabling tool discovery, installation, and sharing with 99% context token savings.",
+  "source_repo": "gybob/aai-gateway",
+  "source_url": "https://github.com/gybob/aai-gateway",
+  "install": "# git clone --depth 1 https://github.com/gybob/aai-gateway\n# See source for mcpServers config block"
+}

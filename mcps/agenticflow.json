@@ -1,0 +1,7 @@
+{
+  "name": "agenticflow",
+  "description": "Self-hosted MCP gateway that connects productivity tools like Jira, Confluence, and Obsidian to AI assistants via a single endpoint.",
+  "source_repo": "Ask-Me-Anything-dot-work/agenticflow",
+  "source_url": "https://github.com/Ask-Me-Anything-dot-work/agenticflow",
+  "install": "# git clone --depth 1 https://github.com/Ask-Me-Anything-dot-work/agenticflow\n# See source for mcpServers config block"
+}

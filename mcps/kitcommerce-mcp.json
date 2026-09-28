@@ -1,0 +1,7 @@
+{
+  "name": "kitcommerce-mcp",
+  "description": "A standalone MCP server that exposes the admin side of kitcommerce-api as tools, enabling AI assistants to manage products, categories, collections, coupons, orders, inventory, customers, and the dashboard.",
+  "source_repo": "itswadesh/kitcommerce-mcp",
+  "source_url": "https://github.com/itswadesh/kitcommerce-mcp",
+  "install": "npx -y kitcommerce-mcp"
+}

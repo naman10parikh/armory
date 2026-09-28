@@ -1,0 +1,7 @@
+{
+  "name": "clue2app-user-mcp",
+  "description": "Exposes user, membership, and role administration tools via MCP, acting as a thin passthrough to a coordinator API with RBAC enforced by the coordinator using caller bearer tokens.",
+  "source_repo": "clue2solve/clue2app-user-mcp",
+  "source_url": "https://github.com/clue2solve/clue2app-user-mcp",
+  "install": "npx -y clue2app-user-mcp"
+}

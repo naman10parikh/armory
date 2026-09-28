@@ -1,0 +1,7 @@
+{
+  "name": "orisha-data-mcp",
+  "description": "Client-side MCP wrapper for Orisha Data's public x402 endpoints, providing free preview tools and paid market data access via x402 payments.",
+  "source_repo": "OrishaAI/orisha-data-mcp",
+  "source_url": "https://github.com/OrishaAI/orisha-data-mcp",
+  "install": "npx -y orisha-data-mcp"
+}

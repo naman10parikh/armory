@@ -1,0 +1,7 @@
+{
+  "name": "cvm-mcp",
+  "description": "MCP server that fetches Brazilian financial data from the CVM open data portal and exposes tools for LLM clients to query companies and calculate financial indicators from published financial statements.",
+  "source_repo": "IgormCarvalho/cvm-mcp",
+  "source_url": "https://github.com/IgormCarvalho/cvm-mcp",
+  "install": "npx -y cvm-mcp"
+}

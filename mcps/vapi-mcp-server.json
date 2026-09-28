@@ -1,0 +1,7 @@
+{
+  "name": "vapi-mcp-server",
+  "description": "Enables AI agents to manage Vapi Voice AI platform resources such as assistants, calls, phone numbers, analytics, and workflows through natural language.",
+  "source_repo": "ageborn-dev/vapi-mcp-server",
+  "source_url": "https://github.com/ageborn-dev/vapi-mcp-server",
+  "install": "npx -y vapi-mcp-server"
+}

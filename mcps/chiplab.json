@@ -1,0 +1,7 @@
+{
+  "name": "chiplab",
+  "description": "MCP server for simulating firmware on virtual microcontroller instances, allowing AI agents to upload, run, and read UART output from supported boards such as STM32 and Nordic.",
+  "source_repo": "veecle/chiplab",
+  "source_url": "https://github.com/veecle/chiplab",
+  "install": "# git clone --depth 1 https://github.com/veecle/chiplab\n# See source for mcpServers config block"
+}

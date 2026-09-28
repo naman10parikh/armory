@@ -1,0 +1,7 @@
+{
+  "name": "bestuser-router-mcp",
+  "description": "Routes natural-language intent to SigRank's leaderboard with behavioral framing and competitive context, enabling AI assistants to answer queries like 'who is the best AI user?' with rank, percentile, and delta metrics.",
+  "source_repo": "SunrisesIllNeverSee/bestuser-router-mcp",
+  "source_url": "https://github.com/SunrisesIllNeverSee/bestuser-router-mcp",
+  "install": "npx -y bestuser-router-mcp"
+}

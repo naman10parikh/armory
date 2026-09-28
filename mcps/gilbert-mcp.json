@@ -1,0 +1,7 @@
+{
+  "name": "gilbert-mcp",
+  "description": "Read-only access to your Gilbert meetings, transcripts and summaries over MCP — list, search, and fetch transcripts and summaries.",
+  "source_repo": "HugoF1234/Gilbert-mcp",
+  "source_url": "https://github.com/HugoF1234/Gilbert-mcp",
+  "install": "npx -y Gilbert-mcp"
+}

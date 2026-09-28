@@ -1,0 +1,7 @@
+{
+  "name": "constructionclock-mcp",
+  "description": "Enables Claude Desktop to add and edit ConstructionClock time entries directly through the ConstructionClock REST API.",
+  "source_repo": "CBourgeois-design/constructionclock-mcp",
+  "source_url": "https://github.com/CBourgeois-design/constructionclock-mcp",
+  "install": "npx -y constructionclock-mcp"
+}

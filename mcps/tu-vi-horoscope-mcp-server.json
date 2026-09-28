@@ -1,0 +1,7 @@
+{
+  "name": "tu-vi-horoscope-mcp-server",
+  "description": "Calculates Vietnamese Tử Vi horoscope charts, generating structured JSON with Thiên Bàn and Địa Bàn, transit analysis, and local persistence via SQLite.",
+  "source_repo": "nmhaaa3218/TuViMCP",
+  "source_url": "https://github.com/nmhaaa3218/TuViMCP",
+  "install": "# git clone --depth 1 https://github.com/nmhaaa3218/TuViMCP\n# See source for mcpServers config block"
+}

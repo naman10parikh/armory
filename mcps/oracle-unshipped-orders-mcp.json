@@ -1,0 +1,7 @@
+{
+  "name": "oracle-unshipped-orders-mcp",
+  "description": "Enables retrieval of unshipped orders from an Oracle/Blue Yonder WMS database, filtering by customer and excluding shipped items.",
+  "source_repo": "RKumar1982-BFF/oracle-unshipped-orders-mcp",
+  "source_url": "https://github.com/RKumar1982-BFF/oracle-unshipped-orders-mcp",
+  "install": "npx -y oracle-unshipped-orders-mcp"
+}

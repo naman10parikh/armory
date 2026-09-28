@@ -1,0 +1,7 @@
+{
+  "name": "comsol-codex-mcp",
+  "description": "An MCP server that provides tools for reproducible COMSOL Multiphysics batch workflows, enabling AI agents to compile, run, and diagnose Java API model scripts with COMSOL.",
+  "source_repo": "XiaoSe532/comsol-codex-mcp",
+  "source_url": "https://github.com/XiaoSe532/comsol-codex-mcp",
+  "install": "npx -y comsol-codex-mcp"
+}

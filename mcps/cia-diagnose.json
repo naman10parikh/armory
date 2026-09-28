@@ -1,0 +1,7 @@
+{
+  "name": "cia-diagnose",
+  "description": "Expert business diagnosis engine that analyzes companies across 11 dimensions and returns a Revenue Leak Score with prioritized, triple-option recommendations.",
+  "source_repo": "davidscoreal/cia-diagnose",
+  "source_url": "https://github.com/davidscoreal/cia-diagnose",
+  "install": "# git clone --depth 1 https://github.com/davidscoreal/cia-diagnose\n# See source for mcpServers config block"
+}

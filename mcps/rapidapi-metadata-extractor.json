@@ -1,0 +1,7 @@
+{
+  "name": "rapidapi-metadata-extractor",
+  "description": "Turns any URL into structured web intelligence in one call: SEO/OpenGraph metadata, public contacts, tech-stack fingerprinting, Schema.org data, a security-headers audit, and clean AI-ready Markdown. Anti-SSRF hardened by design.",
+  "source_repo": "JosejuX/rapidapi-metadata-extractor",
+  "source_url": "https://github.com/JosejuX/rapidapi-metadata-extractor",
+  "install": "# git clone --depth 1 https://github.com/JosejuX/rapidapi-metadata-extractor\n# See source for mcpServers config block"
+}

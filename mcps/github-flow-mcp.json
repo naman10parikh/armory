@@ -1,0 +1,7 @@
+{
+  "name": "github-flow-mcp",
+  "description": "A policy-aware MCP server for GitHub and GitHub Actions that enables safe AI-assisted infrastructure workflows—inspecting repositories, preparing branches and pull requests, and constrained remote mutations behind explicit preview-bound approval tokens.",
+  "source_repo": "thiagorchaves/github-flow-mcp",
+  "source_url": "https://github.com/thiagorchaves/github-flow-mcp",
+  "install": "npx -y github-flow-mcp"
+}

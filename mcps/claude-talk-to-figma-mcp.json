@@ -1,0 +1,7 @@
+{
+  "name": "claude-talk-to-figma-mcp",
+  "description": "MCP server that enables AI agents to read, analyze, and modify Figma designs, including comment management via Figma's REST API. Works with any Figma account and supports parallel execution.",
+  "source_repo": "litoondev/claude-talk-to-figma-mcp-main",
+  "source_url": "https://github.com/litoondev/claude-talk-to-figma-mcp-main",
+  "install": "# git clone --depth 1 https://github.com/litoondev/claude-talk-to-figma-mcp-main\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hyprland-mcp",
+  "description": "An MCP server that lets Claude control Hyprland through hyprctl, providing tools for windows, workspaces, monitors, config, keybinds, notifications, screenshots, app launcher, tags, groups, cursor, blue light filter, wallpaper, and raw hyprctl access.",
+  "source_repo": "keanehatescoding/hyprland-mcp",
+  "source_url": "https://github.com/keanehatescoding/hyprland-mcp",
+  "install": "npx -y hyprland-mcp"
+}

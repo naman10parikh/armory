@@ -1,0 +1,7 @@
+{
+  "name": "mcp-realestate",
+  "description": "Provides access to actual residential and commercial real estate transaction prices in Japan.",
+  "source_repo": "pipeworx-io/mcp-realestate",
+  "source_url": "https://github.com/pipeworx-io/mcp-realestate",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-realestate\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tavily-mcp-key-pool",
+  "description": "A round-robin API key pool for Tavily with automatic health failover and usage tracking, enabling seamless multi-key usage with MCP clients.",
+  "source_repo": "Tom-Chencao/a-beginner-s-warehouse",
+  "source_url": "https://github.com/Tom-Chencao/a-beginner-s-warehouse",
+  "install": "# git clone --depth 1 https://github.com/Tom-Chencao/a-beginner-s-warehouse\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pydoll-mcp",
+  "description": "Enables browser automation with zero-webdriver, supporting tab management, element finding, navigation, and intelligent search via MCP, with captcha bypass and Windows compatibility.",
+  "source_repo": "JinsongRoh/pydoll-mcp",
+  "source_url": "https://github.com/JinsongRoh/pydoll-mcp",
+  "install": "npx -y pydoll-mcp"
+}

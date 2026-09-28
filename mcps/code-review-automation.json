@@ -1,0 +1,7 @@
+{
+  "name": "code-review-automation",
+  "description": "MCP server for automated code review using AI agents. It analyzes code diffs or file paths for bugs, security issues, and style violations.",
+  "source_repo": "KennyWayn3/code-review-automation",
+  "source_url": "https://github.com/KennyWayn3/code-review-automation",
+  "install": "# git clone --depth 1 https://github.com/KennyWayn3/code-review-automation\n# See source for mcpServers config block"
+}

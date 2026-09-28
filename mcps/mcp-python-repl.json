@@ -1,0 +1,7 @@
+{
+  "name": "mcp-python-repl",
+  "description": "A production-grade MCP server providing a persistent Python REPL with multi-session support, sandboxing, and timeout protection, enabling LLM agents to execute Python code across multiple turns with variables that persist between calls.",
+  "source_repo": "aazizisoufiane/mcp-python-repl",
+  "source_url": "https://github.com/aazizisoufiane/mcp-python-repl",
+  "install": "# git clone --depth 1 https://github.com/aazizisoufiane/mcp-python-repl\n# See source for mcpServers config block"
+}

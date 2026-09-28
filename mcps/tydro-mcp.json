@@ -1,0 +1,7 @@
+{
+  "name": "tydro-mcp",
+  "description": "MCP server for the Tydro lending protocol on Ink blockchain, enabling AI agents to interact with lending reserves including supply, borrow, repay, and withdraw operations.",
+  "source_repo": "mavrkofficial/tydro-mcp",
+  "source_url": "https://github.com/mavrkofficial/tydro-mcp",
+  "install": "npx -y tydro-mcp"
+}

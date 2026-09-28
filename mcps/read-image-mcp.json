@@ -1,0 +1,7 @@
+{
+  "name": "read-image-mcp",
+  "description": "A stdio MCP server that enables agents without native vision to ask an OpenAI-compatible vision model to describe, OCR, or extract structured data from images via a single tool.",
+  "source_repo": "xiayangqun/Read-Image-MCP",
+  "source_url": "https://github.com/xiayangqun/Read-Image-MCP",
+  "install": "npx -y Read-Image-MCP"
+}

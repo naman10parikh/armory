@@ -1,0 +1,7 @@
+{
+  "name": "sostenuto",
+  "description": "Provides a selective persistent memory layer for AI companions, enabling structured recall, reinforcement, and time-decayed retrieval through an MCP interface.",
+  "source_repo": "llu929/sostenuto",
+  "source_url": "https://github.com/llu929/sostenuto",
+  "install": "# git clone --depth 1 https://github.com/llu929/sostenuto\n# See source for mcpServers config block"
+}

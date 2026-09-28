@@ -1,0 +1,7 @@
+{
+  "name": "cafe-mcp",
+  "description": "Korean Saju (Four Pillars / 사주명리) birth-chart analysis — 5 free tools: chart, five elements, gyeokguk, yin-yang/climate balance, and classical yongshin candidates. Local stdio server via npx, no API key required.",
+  "source_repo": "dangamsoft/cafe-mcp",
+  "source_url": "https://github.com/dangamsoft/cafe-mcp",
+  "install": "npx -y cafe-mcp"
+}

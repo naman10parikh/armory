@@ -1,0 +1,7 @@
+{
+  "name": "spaceship-mcp-server",
+  "description": "Enables AI agents to manage DNS records through the Spaceship API, with specialized tools for common record types like A, AAAA, CNAME, MX, SRV, and TXT.",
+  "source_repo": "mattcollins/spaceship-mcp",
+  "source_url": "https://github.com/mattcollins/spaceship-mcp",
+  "install": "npx -y spaceship-mcp"
+}

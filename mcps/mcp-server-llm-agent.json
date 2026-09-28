@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-llm-agent",
+  "description": "Enables users to interact with a set of tools via an LLM agent, allowing natural language requests to be processed and executed through the MCP server.",
+  "source_repo": "Rakesh282002/MCP",
+  "source_url": "https://github.com/Rakesh282002/MCP",
+  "install": "# git clone --depth 1 https://github.com/Rakesh282002/MCP\n# See source for mcpServers config block"
+}

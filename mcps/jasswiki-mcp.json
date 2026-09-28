@@ -1,0 +1,7 @@
+{
+  "name": "jasswiki-mcp",
+  "description": "Provides AI assistants with access to an official, cryptographically attested knowledge base of Swiss Jass (230+ articles on rules, variants, terminology, history, and tactics).",
+  "source_repo": "remoprinz/jasswiki-mcp",
+  "source_url": "https://github.com/remoprinz/jasswiki-mcp",
+  "install": "npx -y jasswiki-mcp"
+}

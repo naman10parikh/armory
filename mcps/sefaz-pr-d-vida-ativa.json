@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-pr-d-vida-ativa",
+  "description": "MCP server for querying official Paraná state tax debt data, offering a single read-only tool with prepaid per-use pricing.",
+  "source_repo": "mcp-dir/sefaz_pr_divida_ativa-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_pr_divida_ativa-mcp",
+  "install": "npx -y sefaz_pr_divida_ativa-mcp"
+}

@@ -1,6 +1,6 @@
 {
   "name": "dynamic-shell-server",
-  "description": "Dynamic Shell Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "codelion/Dynamic Shell Server",
   "source_url": "https://mcp.so/server/Dynamic Shell Server/codelion",
   "install": "# git clone --depth 1 https://mcp.so/server/Dynamic Shell Server/codelion\n# See source for mcpServers config block"

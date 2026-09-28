@@ -1,0 +1,7 @@
+{
+  "name": "gconnect-mcp-all-v1",
+  "description": "Enables connecting Claude.ai to Google Analytics and Google Ads through a unified MCP server, with per-operator Google account connections, read-only Ads REST v25 access, and a shared resolver for multiple Google product APIs.",
+  "source_repo": "devopsbrandmirchi/GMcpAllv1",
+  "source_url": "https://github.com/devopsbrandmirchi/GMcpAllv1",
+  "install": "# git clone --depth 1 https://github.com/devopsbrandmirchi/GMcpAllv1\n# See source for mcpServers config block"
+}

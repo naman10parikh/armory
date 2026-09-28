@@ -1,0 +1,7 @@
+{
+  "name": "switcher-mcp-server",
+  "description": "Enables discovery and control of Switcher KIS devices locally via MCP, including turning on/off and retrieving device state without cloud dependency.",
+  "source_repo": "liebstein/switcher-mcp",
+  "source_url": "https://github.com/liebstein/switcher-mcp",
+  "install": "npx -y switcher-mcp"
+}

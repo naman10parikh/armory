@@ -1,0 +1,7 @@
+{
+  "name": "website-autonomous-mcp",
+  "description": "A production-minded MCP server that enables autonomous website design and management, with resources, safe Git operations, validation, Playwright inspection, Vercel previews, and JSONL audit logging. It also provides specialized audit agents for design, SEO, performance, accessibility, conversion, d",
+  "source_repo": "rootellectecomm/rootellectmcp",
+  "source_url": "https://github.com/rootellectecomm/rootellectmcp",
+  "install": "# git clone --depth 1 https://github.com/rootellectecomm/rootellectmcp\n# See source for mcpServers config block"
+}

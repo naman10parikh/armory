@@ -1,0 +1,7 @@
+{
+  "name": "aviation-weather-mcp",
+  "description": "Provides aviation weather briefings including METARs, TAFs, PIREPs, SIGMETs, and NWP forecasts, enabling Claude to fetch and display real-time and forecast weather data for airports and routes worldwide.",
+  "source_repo": "mariow/aviation-weather-mcp",
+  "source_url": "https://github.com/mariow/aviation-weather-mcp",
+  "install": "npx -y aviation-weather-mcp"
+}

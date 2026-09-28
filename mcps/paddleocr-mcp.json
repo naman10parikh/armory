@@ -1,0 +1,7 @@
+{
+  "name": "paddleocr-mcp",
+  "description": "A local OCR MCP server that extracts text from images using PP-OCRv6 for fast text extraction and VL-1.6 for document structure analysis, with automatic model routing and GPU detection.",
+  "source_repo": "Nicvank/paddleocr-mcp",
+  "source_url": "https://github.com/Nicvank/paddleocr-mcp",
+  "install": "npx -y paddleocr-mcp"
+}

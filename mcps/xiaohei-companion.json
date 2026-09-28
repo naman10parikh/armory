@@ -1,0 +1,7 @@
+{
+  "name": "xiaohei-companion",
+  "description": "MCP server that provides a tool to query the status of an electronic pet named Xiaohei, including mood, hunger level, and time since last played.",
+  "source_repo": "Nuo-chen-287/MCP-Basis",
+  "source_url": "https://github.com/Nuo-chen-287/MCP-Basis",
+  "install": "# git clone --depth 1 https://github.com/Nuo-chen-287/MCP-Basis\n# See source for mcpServers config block"
+}

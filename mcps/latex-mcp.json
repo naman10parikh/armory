@@ -1,0 +1,7 @@
+{
+  "name": "latex-mcp",
+  "description": "An MCP server that enables LLMs to compile LaTeX documents and inspect the resulting PDF, supporting an autonomous write-compile-check-revise loop via a self-hosted Overleaf CLSI instance.",
+  "source_repo": "san-rat/latex-mcp",
+  "source_url": "https://github.com/san-rat/latex-mcp",
+  "install": "npx -y latex-mcp"
+}

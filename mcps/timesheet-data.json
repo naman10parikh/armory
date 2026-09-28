@@ -1,0 +1,7 @@
+{
+  "name": "timesheet-data",
+  "description": "MCP server for querying work checkpoints and storing finalized timesheet reports in SQLite.",
+  "source_repo": "rodrigo-arias/timesheet-data-mcp",
+  "source_url": "https://github.com/rodrigo-arias/timesheet-data-mcp",
+  "install": "npx -y timesheet-data-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pncore",
+  "description": "Enables software delivery as a sequence of named, gated workflow steps, from discovery and planning through build, review, and handoff, with verifiable gates and resumable state outside the chat.",
+  "source_repo": "perniemann/pnCore",
+  "source_url": "https://github.com/perniemann/pnCore",
+  "install": "# git clone --depth 1 https://github.com/perniemann/pnCore\n# See source for mcpServers config block"
+}

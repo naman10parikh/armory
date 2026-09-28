@@ -1,0 +1,7 @@
+{
+  "name": "ailab-rip-mcp-app",
+  "description": "A demo MCP server that exposes stock-quote tools to LLMs via FastMCP over streamable HTTP. It can be deployed to AWS ECS and integrated with ChatGPT as a custom connector.",
+  "source_repo": "gonzalogarcia-ai/start-with-mcp-apps",
+  "source_url": "https://github.com/gonzalogarcia-ai/start-with-mcp-apps",
+  "install": "# git clone --depth 1 https://github.com/gonzalogarcia-ai/start-with-mcp-apps\n# See source for mcpServers config block"
+}

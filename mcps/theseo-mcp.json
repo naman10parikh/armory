@@ -1,0 +1,7 @@
+{
+  "name": "theseo-mcp",
+  "description": "MCP server offering SEO scans, local Google Maps visibility checks, Dutch Claude skill search, and a business brain template.",
+  "source_repo": "GianlucaNaarden/theseo-mcp",
+  "source_url": "https://github.com/GianlucaNaarden/theseo-mcp",
+  "install": "npx -y theseo-mcp"
+}

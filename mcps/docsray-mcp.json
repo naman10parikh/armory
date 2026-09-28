@@ -1,0 +1,7 @@
+{
+  "name": "docsray-mcp",
+  "description": "An MCP server that provides AI assistants with advanced document perception capabilities including text extraction, structure analysis, and deep content understanding through multiple tools and providers.",
+  "source_repo": "johnfkraus/docsray-mcp",
+  "source_url": "https://github.com/johnfkraus/docsray-mcp",
+  "install": "npx -y docsray-mcp"
+}

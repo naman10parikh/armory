@@ -1,0 +1,7 @@
+{
+  "name": "spurs-analytics-mcp",
+  "description": "Governed data pipeline for NBA ticketing and attendance data, exposing typed tools for AI agents to query game performance and seat-tier sales without direct database access.",
+  "source_repo": "sirilahari10/spurs-analytics-mcp",
+  "source_url": "https://github.com/sirilahari10/spurs-analytics-mcp",
+  "install": "npx -y spurs-analytics-mcp"
+}

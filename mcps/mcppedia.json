@@ -1,0 +1,7 @@
+{
+  "name": "mcppedia",
+  "description": "Search, evaluate, and compare 17,000+ MCP servers from the [MCPpedia](https://mcppedia.org) catalog. Every server is scored on **security, maintenance, efficiency, documentation, and compatibility** — with real CVE scanning and tool-poisoning detection. ## Tools - **search_servers** — keyword / cate",
+  "source_repo": "",
+  "source_url": "https://mcppedia.org",
+  "install": "# git clone --depth 1 https://mcppedia.org\n# See source for mcpServers config block"
+}

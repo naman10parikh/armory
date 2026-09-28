@@ -1,0 +1,7 @@
+{
+  "name": "mnemosure",
+  "description": "A source-grounded memory layer for AI agents that stores, links, and recalls factual memories with confidence levels and citations, enabling honest answers when information is not in the record.",
+  "source_repo": "jsiksn/mnemosure",
+  "source_url": "https://github.com/jsiksn/mnemosure",
+  "install": "# git clone --depth 1 https://github.com/jsiksn/mnemosure\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cimd-server",
+  "description": "MCP server that provides a hello world tool and implements server-side CIMD (Client ID Metadata Documents) processing, enabling OAuth authorization servers to fetch and validate client metadata documents with SSRF protections.",
+  "source_repo": "kepungnzai/mcp_cimd_server",
+  "source_url": "https://github.com/kepungnzai/mcp_cimd_server",
+  "install": "# git clone --depth 1 https://github.com/kepungnzai/mcp_cimd_server\n# See source for mcpServers config block"
+}

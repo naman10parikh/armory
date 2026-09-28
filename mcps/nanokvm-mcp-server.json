@@ -1,0 +1,7 @@
+{
+  "name": "nanokvm-mcp-server",
+  "description": "MCP server for controlling Sipeed NanoKVM devices, enabling remote hardware control via keyboard, mouse, power, and screenshots. It allows AI assistants like Claude to manage headless machines at the BIOS level.",
+  "source_repo": "raymatos/nanokvm-mcp",
+  "source_url": "https://github.com/raymatos/nanokvm-mcp",
+  "install": "npx -y nanokvm-mcp"
+}

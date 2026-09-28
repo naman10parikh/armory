@@ -1,0 +1,7 @@
+{
+  "name": "tibet-voice-cache-mcp",
+  "description": "Enables MCP-compatible AI clients to store and recall voice conversation context by caching user and AI utterances, supporting formatted context summaries for multi-turn voice interactions.",
+  "source_repo": "jaspertvdm/tibet-voice-cache-mcp",
+  "source_url": "https://github.com/jaspertvdm/tibet-voice-cache-mcp",
+  "install": "npx -y tibet-voice-cache-mcp"
+}

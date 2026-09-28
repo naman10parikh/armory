@@ -1,0 +1,7 @@
+{
+  "name": "openttd-directorate-mcp",
+  "description": "Clean-room MCP and OpenTTD GameScript integration for deterministic transport planning and route commissioning.",
+  "source_repo": "OVER99K/openttd-directorate-mcp",
+  "source_url": "https://github.com/OVER99K/openttd-directorate-mcp",
+  "install": "npx -y openttd-directorate-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "personalleetcodemcp",
+  "description": "Enables Claude to fetch and analyze your public LeetCode submission history, weak areas, and daily challenge via a remote MCP server.",
+  "source_repo": "RishiSarraff/PersonalLeetcodeMCP",
+  "source_url": "https://github.com/RishiSarraff/PersonalLeetcodeMCP",
+  "install": "# git clone --depth 1 https://github.com/RishiSarraff/PersonalLeetcodeMCP\n# See source for mcpServers config block"
+}

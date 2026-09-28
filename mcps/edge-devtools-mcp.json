@@ -1,0 +1,7 @@
+{
+  "name": "edge-devtools-mcp",
+  "description": "Enables control of Microsoft Edge browser via the DevTools protocol, supporting page navigation, screenshots, DOM manipulation, JavaScript execution, and network monitoring.",
+  "source_repo": "syunnrai123/Edge-DevTools-MCP",
+  "source_url": "https://github.com/syunnrai123/Edge-DevTools-MCP",
+  "install": "npx -y Edge-DevTools-MCP"
+}

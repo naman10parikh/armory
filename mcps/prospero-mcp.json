@@ -1,0 +1,7 @@
+{
+  "name": "prospero-mcp",
+  "description": "MCP server for querying PROSPERO registered protocols, enabling search, retrieval, and registration workflow management.",
+  "source_repo": "erichuang777777/PROSPERO-MCP",
+  "source_url": "https://github.com/erichuang777777/PROSPERO-MCP",
+  "install": "npx -y PROSPERO-MCP"
+}

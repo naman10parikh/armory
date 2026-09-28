@@ -1,0 +1,7 @@
+{
+  "name": "sophos-central-mcp-server",
+  "description": "Enables AI-powered security operations through natural language, managing endpoint security, email threats, firewall policy, and more across multiple Sophos tenants with 334 tools, designed for MSP/MSSP teams.",
+  "source_repo": "rijul170/sophos-central-mcp",
+  "source_url": "https://github.com/rijul170/sophos-central-mcp",
+  "install": "npx -y sophos-central-mcp"
+}

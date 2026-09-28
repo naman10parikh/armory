@@ -1,0 +1,7 @@
+{
+  "name": "trabalho-for-ado-lista-suja",
+  "description": "Checks if an employer is on Brazil's forced labor list ('Lista Suja') using CPF or CNPJ. This read-only MCP server works over HTTP with any MCP client.",
+  "source_repo": "mcp-dir/trabalho_forcado-mcp",
+  "source_url": "https://github.com/mcp-dir/trabalho_forcado-mcp",
+  "install": "npx -y trabalho_forcado-mcp"
+}

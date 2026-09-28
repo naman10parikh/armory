@@ -1,0 +1,7 @@
+{
+  "name": "ips-automation-mcp",
+  "description": "Enables Claude to read, analyze, optimize, and execute IP-Symcon PHP scripts via JSON-RPC API, turning automation development into a dialogue.",
+  "source_repo": "badfrog18/ips-automation-mcp",
+  "source_url": "https://github.com/badfrog18/ips-automation-mcp",
+  "install": "npx -y ips-automation-mcp"
+}

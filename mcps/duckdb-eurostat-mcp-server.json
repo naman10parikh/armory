@@ -1,0 +1,7 @@
+{
+  "name": "duckdb-eurostat-mcp-server",
+  "description": "Enables querying Eurostat data using natural language, powered by DuckDB for optimized performance.",
+  "source_repo": "dar4datascience/duckdb-eurostat-mcp",
+  "source_url": "https://github.com/dar4datascience/duckdb-eurostat-mcp",
+  "install": "npx -y duckdb-eurostat-mcp"
+}

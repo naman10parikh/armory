@@ -1,0 +1,7 @@
+{
+  "name": "status-aggregator-mcp",
+  "description": "Aggregates status of multiple SaaS providers into a single MCP server, enabling AI agents to check service health and incidents via tools like list_services, get_status, and check_all.",
+  "source_repo": "weiseer/status-aggregator-mcp",
+  "source_url": "https://github.com/weiseer/status-aggregator-mcp",
+  "install": "npx -y status-aggregator-mcp"
+}

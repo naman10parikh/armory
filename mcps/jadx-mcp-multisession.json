@@ -1,0 +1,7 @@
+{
+  "name": "jadx-mcp-multisession",
+  "description": "Enables AI clients to autonomously manage multiple jadx-gui sessions, opening, switching, and closing windows, with automatic startup and plugin compatibility.",
+  "source_repo": "NitrogenT7/jadx-mcp-multisession",
+  "source_url": "https://github.com/NitrogenT7/jadx-mcp-multisession",
+  "install": "# git clone --depth 1 https://github.com/NitrogenT7/jadx-mcp-multisession\n# See source for mcpServers config block"
+}

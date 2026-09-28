@@ -1,0 +1,7 @@
+{
+  "name": "gymcam-analytics",
+  "description": "Enables AI agents to query gym analytics—class attendance, trainer performance, and revenue insights—from existing CCTV camera feeds without new hardware.",
+  "source_repo": "axelfreeman/gymcamanalytics",
+  "source_url": "https://github.com/axelfreeman/gymcamanalytics",
+  "install": "# git clone --depth 1 https://github.com/axelfreeman/gymcamanalytics\n# See source for mcpServers config block"
+}

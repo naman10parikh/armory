@@ -1,0 +1,7 @@
+{
+  "name": "pymdu",
+  "description": "Enables Claude Desktop or Gemini CLI to communicate with PyMDU, allowing analysis and processing of urban data using PyMDU tools through natural language commands.",
+  "source_repo": "rupeelab17/mcp_pymdu",
+  "source_url": "https://github.com/rupeelab17/mcp_pymdu",
+  "install": "# git clone --depth 1 https://github.com/rupeelab17/mcp_pymdu\n# See source for mcpServers config block"
+}

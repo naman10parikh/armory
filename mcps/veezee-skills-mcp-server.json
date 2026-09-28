@@ -1,0 +1,7 @@
+{
+  "name": "veezee-skills-mcp-server",
+  "description": "Enables AI agents to enrich LinkedIn prospect data with current role, company, and experience through MCP or REST, with credit-metered access and free credits.",
+  "source_repo": "veezeehq/veezee-skills",
+  "source_url": "https://github.com/veezeehq/veezee-skills",
+  "install": "# git clone --depth 1 https://github.com/veezeehq/veezee-skills\n# See source for mcpServers config block"
+}

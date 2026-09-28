@@ -1,0 +1,7 @@
+{
+  "name": "meshlab-mcp",
+  "description": "MCP bridge for MeshLab enabling mesh operations via HTTP and TCP backends using pymeshlab. Allows MCP clients to perform 3D mesh processing tasks through natural language.",
+  "source_repo": "Georges999/MeshLab-mcp",
+  "source_url": "https://github.com/Georges999/MeshLab-mcp",
+  "install": "npx -y MeshLab-mcp"
+}

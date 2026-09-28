@@ -1,0 +1,7 @@
+{
+  "name": "patch-file-mcp",
+  "description": "Enables precise file patching using SEARCH/REPLACE blocks, with mandatory directory sandboxing, automatic Python QA (Ruff/Black/MyPy), and git versioning for rollback.",
+  "source_repo": "matdev83/patch-file-mcp-fork",
+  "source_url": "https://github.com/matdev83/patch-file-mcp-fork",
+  "install": "# git clone --depth 1 https://github.com/matdev83/patch-file-mcp-fork\n# See source for mcpServers config block"
+}

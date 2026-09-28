@@ -1,0 +1,7 @@
+{
+  "name": "tabula-mcp-server",
+  "description": "A shared memory layer for AIs that lets users save durable facts and recall them across different AI clients, eliminating repetition.",
+  "source_repo": "nikhilbhima/tabula-mcp",
+  "source_url": "https://github.com/nikhilbhima/tabula-mcp",
+  "install": "npx -y tabula-mcp"
+}

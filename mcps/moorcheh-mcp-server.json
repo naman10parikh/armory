@@ -1,0 +1,7 @@
+{
+  "name": "moorcheh-mcp-server",
+  "description": "Enables interaction with Moorcheh AI services including namespace management, document embedding, vector search, and AI-powered answers through the Model Context Protocol.",
+  "source_repo": "moorcheh-ai/moorcheh-mcp",
+  "source_url": "https://github.com/moorcheh-ai/moorcheh-mcp",
+  "install": "npx -y moorcheh-mcp"
+}

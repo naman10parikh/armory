@@ -1,0 +1,7 @@
+{
+  "name": "ucp-mcp-server",
+  "description": "Lets AI assistants shop at UCP-enabled merchants through tools for discovery, checkout, discounts, fulfillment, and payment.",
+  "source_repo": "nguthrie/ucp-mcp-server",
+  "source_url": "https://github.com/nguthrie/ucp-mcp-server",
+  "install": "npx -y ucp-mcp-server"
+}

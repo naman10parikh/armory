@@ -1,0 +1,7 @@
+{
+  "name": "japan-corporate-mcp",
+  "description": "MCP server for searching Japanese corporate data including companies, financials, patents, subsidies, and government statistics via official government APIs.",
+  "source_repo": "yamariki-hub/japan-corporate-mcp",
+  "source_url": "https://github.com/yamariki-hub/japan-corporate-mcp",
+  "install": "npx -y japan-corporate-mcp"
+}

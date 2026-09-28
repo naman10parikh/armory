@@ -1,0 +1,7 @@
+{
+  "name": "kysigned-mcp",
+  "description": "Enables management of e-signature envelopes — create, check status, list, send reminders, and void — through natural language.",
+  "source_repo": "kychee-com/kysigned",
+  "source_url": "https://github.com/kychee-com/kysigned",
+  "install": "# git clone --depth 1 https://github.com/kychee-com/kysigned\n# See source for mcpServers config block"
+}

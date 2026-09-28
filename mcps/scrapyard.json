@@ -1,0 +1,7 @@
+{
+  "name": "scrapyard",
+  "description": "Local MCP server for web search and page extraction, providing clean markdown from URLs, search results, site mapping, and research endpoints without API keys or accounts.",
+  "source_repo": "artboarding-hash/scrapyard",
+  "source_url": "https://github.com/artboarding-hash/scrapyard",
+  "install": "# git clone --depth 1 https://github.com/artboarding-hash/scrapyard\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "oracle-eim-dq",
+  "description": "Enables governed, read-only EIM data-quality checks against Oracle On-Prem and ATP by loading ACTIVE rules and running approved aggregate SQL to produce Markdown reports.",
+  "source_repo": "vdobhal/oracle-eim-dq",
+  "source_url": "https://github.com/vdobhal/oracle-eim-dq",
+  "install": "# git clone --depth 1 https://github.com/vdobhal/oracle-eim-dq\n# See source for mcpServers config block"
+}

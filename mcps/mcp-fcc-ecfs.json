@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fcc-ecfs",
+  "description": "MCP server for searching and retrieving FCC ECFS filings, dockets, and proceedings via the public API.",
+  "source_repo": "pipeworx-io/mcp-fcc-ecfs",
+  "source_url": "https://github.com/pipeworx-io/mcp-fcc-ecfs",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-fcc-ecfs\n# See source for mcpServers config block"
+}

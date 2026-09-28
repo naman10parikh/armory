@@ -1,0 +1,7 @@
+{
+  "name": "wanadev-mcp-gitlab",
+  "description": "Provides full control over GitLab epics, issues, merge requests, pipelines, and more via a conversational interface, with dry-run safety.",
+  "source_repo": "wanadev/gitlab-mcp",
+  "source_url": "https://github.com/wanadev/gitlab-mcp",
+  "install": "npx -y gitlab-mcp"
+}

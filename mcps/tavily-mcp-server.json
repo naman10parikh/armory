@@ -1,0 +1,7 @@
+{
+  "name": "tavily-mcp-server",
+  "description": "Provides web search, extraction, mapping, and crawling tools through Tavily API, enabling real-time web data retrieval.",
+  "source_repo": "ai-integr8tor/tavily-mcp",
+  "source_url": "https://github.com/ai-integr8tor/tavily-mcp",
+  "install": "npx -y tavily-mcp"
+}

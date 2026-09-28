@@ -1,0 +1,7 @@
+{
+  "name": "mcp-openai-images-audio",
+  "description": "Exposes OpenAI's gpt-image-2 and gpt-image-1.5 to Claude Code as a single tool for generating, editing, or composing images with automatic model selection.",
+  "source_repo": "eduard256/mcp-openai-images-audio",
+  "source_url": "https://github.com/eduard256/mcp-openai-images-audio",
+  "install": "# git clone --depth 1 https://github.com/eduard256/mcp-openai-images-audio\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "servicenow-platform-mcp",
+  "description": "Enables AI agents to interact with ServiceNow through MCP, providing schema inspection, record CRUD, attachments, audit, Flow Designer, and platform investigations with policy-guarded access.",
+  "source_repo": "Xerrion/servicenow-platform-mcp",
+  "source_url": "https://github.com/Xerrion/servicenow-platform-mcp",
+  "install": "npx -y servicenow-platform-mcp"
+}

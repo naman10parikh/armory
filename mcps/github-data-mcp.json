@@ -1,0 +1,7 @@
+{
+  "name": "github-data-mcp",
+  "description": "A single-user MCP server that exposes your GitHub activity to Claude via three read-only tools: recent commits, open pull requests, and repository summaries. Deployed as a Vercel function using Streamable HTTP.",
+  "source_repo": "ElOleksii/github-mcp",
+  "source_url": "https://github.com/ElOleksii/github-mcp",
+  "install": "npx -y github-mcp"
+}

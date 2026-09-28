@@ -1,0 +1,7 @@
+{
+  "name": "sentinel-core-agent",
+  "description": "Enables file system operations, web scraping, and AI-powered search through MCP tools for use by LLM agents.",
+  "source_repo": "bhuvanmdev/Sentinel-Core-Agent",
+  "source_url": "https://github.com/bhuvanmdev/Sentinel-Core-Agent",
+  "install": "# git clone --depth 1 https://github.com/bhuvanmdev/Sentinel-Core-Agent\n# See source for mcpServers config block"
+}

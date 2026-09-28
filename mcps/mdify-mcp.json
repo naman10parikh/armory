@@ -1,0 +1,7 @@
+{
+  "name": "mdify-mcp",
+  "description": "MCP server that gives LLMs the power to convert PDFs to Markdown on the fly using a local Ollama vision model.",
+  "source_repo": "JuliusPinsker/mdify-mcp",
+  "source_url": "https://github.com/JuliusPinsker/mdify-mcp",
+  "install": "npx -y mdify-mcp"
+}

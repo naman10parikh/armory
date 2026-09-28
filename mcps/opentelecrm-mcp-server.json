@@ -1,0 +1,7 @@
+{
+  "name": "opentelecrm-mcp-server",
+  "description": "Enables interaction with a telecalling-first sales CRM, providing 13 JSON-RPC MCP tools for lead management, actions, WhatsApp, and telephony, with multi-tenant RLS.",
+  "source_repo": "iamsrishanth/OpenTeleCRM",
+  "source_url": "https://github.com/iamsrishanth/OpenTeleCRM",
+  "install": "# git clone --depth 1 https://github.com/iamsrishanth/OpenTeleCRM\n# See source for mcpServers config block"
+}

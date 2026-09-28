@@ -1,0 +1,7 @@
+{
+  "name": "phoenix-mcp",
+  "description": "Gives AI agents scoped, least-privilege access to Home Assistant, with per-token permissions, auditing, and 131 tools for managing smart home devices.",
+  "source_repo": "leecaochang/phoenix-mcp",
+  "source_url": "https://github.com/leecaochang/phoenix-mcp",
+  "install": "npx -y phoenix-mcp"
+}

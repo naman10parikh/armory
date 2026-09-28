@@ -1,0 +1,7 @@
+{
+  "name": "wcag-accessibility-mcp",
+  "description": "A WCAG accessibility testing MCP for AI agents, Codex, Claude Code, and automated UI audits.",
+  "source_repo": "aditya-ariosity/wcag-accessibility-mcp",
+  "source_url": "https://github.com/aditya-ariosity/wcag-accessibility-mcp",
+  "install": "npx -y wcag-accessibility-mcp"
+}

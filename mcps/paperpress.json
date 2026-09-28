@@ -1,0 +1,7 @@
+{
+  "name": "paperpress",
+  "description": "Provides an MCP interface to detect a company's brand from a URL and render markdown into a branded PDF, including management of saved brand kits.",
+  "source_repo": "rozetyp/paperpress",
+  "source_url": "https://github.com/rozetyp/paperpress",
+  "install": "# git clone --depth 1 https://github.com/rozetyp/paperpress\n# See source for mcpServers config block"
+}

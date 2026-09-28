@@ -1,0 +1,7 @@
+{
+  "name": "mcp-file-organizer",
+  "description": "Enables AI-driven file organization by listing and moving files into structured folders by extension and modification date, based on natural language requests, without reading file contents.",
+  "source_repo": "BWV-Personal-Act/thaipq-mcp",
+  "source_url": "https://github.com/BWV-Personal-Act/thaipq-mcp",
+  "install": "npx -y thaipq-mcp"
+}

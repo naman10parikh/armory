@@ -1,0 +1,7 @@
+{
+  "name": "legal-mcp-server",
+  "description": "A production-ready template for developing Model Context Protocol (MCP) servers using Python and FastMCP.",
+  "source_repo": "bsahane/legal-mcp-server",
+  "source_url": "https://github.com/bsahane/legal-mcp-server",
+  "install": "npx -y legal-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "opencrater-mcp",
+  "description": "Provides live network stats, supported AI tools, and guidance for earning USDC from your own MCP server or CLI tool via OpenCrater's monetization network.",
+  "source_repo": "open-crater/opencrater-mcp",
+  "source_url": "https://github.com/open-crater/opencrater-mcp",
+  "install": "npx -y opencrater-mcp"
+}

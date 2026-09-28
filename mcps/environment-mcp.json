@@ -1,0 +1,7 @@
+{
+  "name": "environment-mcp",
+  "description": "MCP server that provides tools to access Google Maps Environment APIs for air quality, pollen, and weather data, enabling queries like current conditions, forecasts, and history.",
+  "source_repo": "w00dbury/environment-mcp",
+  "source_url": "https://github.com/w00dbury/environment-mcp",
+  "install": "npx -y environment-mcp"
+}

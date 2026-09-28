@@ -1,0 +1,7 @@
+{
+  "name": "phone-a-friend-mcp-server",
+  "description": "Enables AI-to-AI consultation for critical thinking and complex reasoning via OpenRouter, allowing one AI to delegate tasks to another AI model.",
+  "source_repo": "abhishekbhakat/phone-a-friend-mcp-server",
+  "source_url": "https://github.com/abhishekbhakat/phone-a-friend-mcp-server",
+  "install": "npx -y phone-a-friend-mcp-server"
+}

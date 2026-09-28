@@ -1,0 +1,7 @@
+{
+  "name": "wingate-seo-mcp",
+  "description": "Enables natural-language, read-only analysis of your own Google Search Console and Google Analytics 4 data, including search performance, engagement, sitemap health, ranking opportunities, and deterministic SEO audits through MCP clients like ChatGPT.",
+  "source_repo": "aitradesniper-blip/wingate-seo-mcp-public",
+  "source_url": "https://github.com/aitradesniper-blip/wingate-seo-mcp-public",
+  "install": "# git clone --depth 1 https://github.com/aitradesniper-blip/wingate-seo-mcp-public\n# See source for mcpServers config block"
+}

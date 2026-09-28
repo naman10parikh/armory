@@ -1,0 +1,7 @@
+{
+  "name": "jazz-mcp-server",
+  "description": "Enables AI assistants to create, read, update, and delete data in local-first apps built with the Jazz framework, with support for sync, auth, and rich data types.",
+  "source_repo": "bensleveritt/jazz-mcp-server",
+  "source_url": "https://github.com/bensleveritt/jazz-mcp-server",
+  "install": "npx -y jazz-mcp-server"
+}

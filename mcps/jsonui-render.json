@@ -1,0 +1,7 @@
+{
+  "name": "jsonui-render",
+  "description": "Enables viewing Minecraft Bedrock JSON UI screens without a device, by reading resource packs and rendering the layout.",
+  "source_repo": "Deichor/jsonui-render-mcp",
+  "source_url": "https://github.com/Deichor/jsonui-render-mcp",
+  "install": "npx -y jsonui-render-mcp"
+}

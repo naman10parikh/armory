@@ -1,0 +1,7 @@
+{
+  "name": "mcp-test-automation-framework",
+  "description": "Enables AI-powered web test automation with self-healing locators and automatic GitHub checkin.",
+  "source_repo": "rabbiyamehmood/mcp-test",
+  "source_url": "https://github.com/rabbiyamehmood/mcp-test",
+  "install": "# git clone --depth 1 https://github.com/rabbiyamehmood/mcp-test\n# See source for mcpServers config block"
+}

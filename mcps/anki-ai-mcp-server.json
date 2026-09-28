@@ -1,0 +1,7 @@
+{
+  "name": "anki-ai-mcp-server",
+  "description": "Bridge between AI assistants and Anki Desktop, enabling automated flashcard management and study document processing.",
+  "source_repo": "Kyura77/Anki-IA-MCP",
+  "source_url": "https://github.com/Kyura77/Anki-IA-MCP",
+  "install": "npx -y Anki-IA-MCP"
+}

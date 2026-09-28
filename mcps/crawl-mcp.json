@@ -1,0 +1,7 @@
+{
+  "name": "crawl-mcp",
+  "description": "MCP server for web crawling, searching, and AI-powered content extraction, supporting single-page, batch, and full-site crawling along with text, news, image, book, and video search.",
+  "source_repo": "gqy20/crawl-mcp",
+  "source_url": "https://github.com/gqy20/crawl-mcp",
+  "install": "npx -y crawl-mcp"
+}

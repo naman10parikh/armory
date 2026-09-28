@@ -1,0 +1,7 @@
+{
+  "name": "upgates-mcp-server",
+  "description": "MCP server for automating Upgates e-commerce shops via the Upgates API v2. Provides 34 tools for managing orders, products, customers, invoices, carts, coupons, webhooks, and configuration, with built-in GDPR anonymization and readonly mode.",
+  "source_repo": "mcp-open/upgates-com-mcp",
+  "source_url": "https://github.com/mcp-open/upgates-com-mcp",
+  "install": "npx -y upgates-com-mcp"
+}

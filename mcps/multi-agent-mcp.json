@@ -1,0 +1,7 @@
+{
+  "name": "multi-agent-mcp",
+  "description": "Transforms your IDE into an autonomous multi-agent coding assistant that orchestrates complex codebase refactoring using LangGraph and LiteLLM.",
+  "source_repo": "R-Mabasha/Multi-Agent-Mcp",
+  "source_url": "https://github.com/R-Mabasha/Multi-Agent-Mcp",
+  "install": "npx -y Multi-Agent-Mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ohada-mcp",
+  "description": "A public MCP server for OHADA legal research, enabling search of relevant provisions, retrieval of full articles with hierarchical context, and citation verification.",
+  "source_repo": "ChristChad-mv/ohada-mcp-server",
+  "source_url": "https://github.com/ChristChad-mv/ohada-mcp-server",
+  "install": "npx -y ohada-mcp-server"
+}

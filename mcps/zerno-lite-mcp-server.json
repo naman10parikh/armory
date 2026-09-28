@@ -1,0 +1,7 @@
+{
+  "name": "zerno-lite-mcp-server",
+  "description": "Secure remote MCP server for giving AI agents access to ZERNO project briefs, tasks, and execution context.",
+  "source_repo": "zernozerno/zerno-mcp",
+  "source_url": "https://github.com/zernozerno/zerno-mcp",
+  "install": "npx -y zerno-mcp"
+}

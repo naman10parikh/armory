@@ -1,0 +1,7 @@
+{
+  "name": "xeve-mcp-server",
+  "description": "MCP server for xeve.io that enables AI assistants to query personal analytics including productivity, coding, health, music, and GitHub activity.",
+  "source_repo": "xeveio/xeve-mcp-server",
+  "source_url": "https://github.com/xeveio/xeve-mcp-server",
+  "install": "npx -y xeve-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "padlet-mcp",
+  "description": "An MCP server that lets AI agents directly manage Padlet boards, including creating boards with sections, posting cards with attachments and polls, adding comments, reactions, and more.",
+  "source_repo": "samcct-bit/padlet-mcp",
+  "source_url": "https://github.com/samcct-bit/padlet-mcp",
+  "install": "npx -y padlet-mcp"
+}

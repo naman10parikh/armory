@@ -1,0 +1,7 @@
+{
+  "name": "brave-browser-mcp-server",
+  "description": "Gives AI agents full control over Brave Browser, optimized for local LLMs to ensure low latency and high reliability.",
+  "source_repo": "SlaveOfGod1/Brave-Browser-MCP",
+  "source_url": "https://github.com/SlaveOfGod1/Brave-Browser-MCP",
+  "install": "npx -y Brave-Browser-MCP"
+}

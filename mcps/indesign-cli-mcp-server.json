@@ -1,0 +1,7 @@
+{
+  "name": "indesign-cli-mcp-server",
+  "description": "Enables AI agents to directly control Adobe InDesign through CLI commands, providing 148 discoverable capabilities for document creation, editing, and export automation.",
+  "source_repo": "zhanglongxiao111/indesign-cli",
+  "source_url": "https://github.com/zhanglongxiao111/indesign-cli",
+  "install": "# git clone --depth 1 https://github.com/zhanglongxiao111/indesign-cli\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "carrot-ai-pm",
+  "description": "Spec-driven development tool for AI coding assistants that generates specs, validates code compliance, and provides actionable feedback.",
+  "source_repo": "talvinder/carrot-ai-pm",
+  "source_url": "https://github.com/talvinder/carrot-ai-pm",
+  "install": "# git clone --depth 1 https://github.com/talvinder/carrot-ai-pm\n# See source for mcpServers config block"
+}

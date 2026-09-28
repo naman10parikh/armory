@@ -1,0 +1,7 @@
+{
+  "name": "crcp-central-de-registros-de-certificados-profissionais",
+  "description": "MCP server for querying professional certificate registrations from an official source, supporting read-only operations via HTTP across various MCP clients.",
+  "source_repo": "mcp-dir/crcp_certificado-mcp",
+  "source_url": "https://github.com/mcp-dir/crcp_certificado-mcp",
+  "install": "npx -y crcp_certificado-mcp"
+}

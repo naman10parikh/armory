@@ -1,0 +1,7 @@
+{
+  "name": "barrierfreeseoul",
+  "description": "Evaluates Seoul public transit accessibility for people with disabilities, providing real-time elevator status, low-floor bus arrivals, route verification, and call taxi fallback.",
+  "source_repo": "whtjdgns2121-dot/seoul-accessible-transit-mcp",
+  "source_url": "https://github.com/whtjdgns2121-dot/seoul-accessible-transit-mcp",
+  "install": "npx -y seoul-accessible-transit-mcp"
+}

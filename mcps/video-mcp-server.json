@@ -1,0 +1,7 @@
+{
+  "name": "video-mcp-server",
+  "description": "Bridges Claude and video content by extracting keyframes and transcribing audio, enabling Claude to analyze video files.",
+  "source_repo": "ethnn-b/vidmcp",
+  "source_url": "https://github.com/ethnn-b/vidmcp",
+  "install": "# git clone --depth 1 https://github.com/ethnn-b/vidmcp\n# See source for mcpServers config block"
+}

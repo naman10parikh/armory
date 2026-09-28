@@ -1,0 +1,7 @@
+{
+  "name": "skrishnak7-mcp",
+  "description": "MCP server for flight schedule finding via Skyscanner API. Enables querying flight quotes and schedules using natural language.",
+  "source_repo": "skrishnak7/skrishnak7-mcp",
+  "source_url": "https://github.com/skrishnak7/skrishnak7-mcp",
+  "install": "npx -y skrishnak7-mcp"
+}

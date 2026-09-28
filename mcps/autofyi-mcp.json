@@ -1,0 +1,7 @@
+{
+  "name": "autofyi-mcp",
+  "description": "Enables safe financial operations on the AutoFYI platform through natural language, including client search, allocation preparation, and invoice management with two-stage confirmation.",
+  "source_repo": "saiganeshreddy7/auto-fyi-playwright-mcp-server",
+  "source_url": "https://github.com/saiganeshreddy7/auto-fyi-playwright-mcp-server",
+  "install": "npx -y auto-fyi-playwright-mcp-server"
+}

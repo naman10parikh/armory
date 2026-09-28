@@ -1,0 +1,7 @@
+{
+  "name": "redmine-mcp-workflows",
+  "description": "A schema-aware MCP server for Redmine that validates issue writes against workflow graphs and custom field schemas to prevent errors, with tools for issue lifecycle, time tracking, wiki pages, and more.",
+  "source_repo": "Avicennasis/redmine-mcp-workflows",
+  "source_url": "https://github.com/Avicennasis/redmine-mcp-workflows",
+  "install": "# git clone --depth 1 https://github.com/Avicennasis/redmine-mcp-workflows\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "geoanalisis-mcp",
+  "description": "Enables reading and analysis of vector spatial data through Claude Desktop, supporting formats like FileGDB, Shapefile, GeoJSON, and GeoPackage with tools for layer listing, schema inspection, field statistics, feature extraction, and interactive map rendering.",
+  "source_repo": "alexrobl/geoanalisis-mcp",
+  "source_url": "https://github.com/alexrobl/geoanalisis-mcp",
+  "install": "npx -y geoanalisis-mcp"
+}

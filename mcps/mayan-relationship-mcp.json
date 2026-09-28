@@ -1,0 +1,7 @@
+{
+  "name": "mayan-relationship-mcp",
+  "description": "Fetches Mayan zodiac signs from mymayansign.com and generates relationship compatibility analyses.",
+  "source_repo": "mariodian/mayan-relationship-mcp",
+  "source_url": "https://github.com/mariodian/mayan-relationship-mcp",
+  "install": "npx -y mayan-relationship-mcp"
+}

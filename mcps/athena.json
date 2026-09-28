@@ -1,0 +1,7 @@
+{
+  "name": "athena",
+  "description": "A local academic research assistant that indexes PDFs into a searchable vector library and exposes MCP tools for semantic search, claim extraction, contradiction detection, and multi-step research synthesis.",
+  "source_repo": "Vis-3/Athena",
+  "source_url": "https://github.com/Vis-3/Athena",
+  "install": "# git clone --depth 1 https://github.com/Vis-3/Athena\n# See source for mcpServers config block"
+}

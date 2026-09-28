@@ -1,0 +1,7 @@
+{
+  "name": "my-server",
+  "description": "An MCP server that provides a weather tool to fetch temperature data from Open-Meteo, with a bundled React widget for interaction.",
+  "source_repo": "vmridul/sample-mcp",
+  "source_url": "https://github.com/vmridul/sample-mcp",
+  "install": "npx -y sample-mcp"
+}

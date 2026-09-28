@@ -1,0 +1,7 @@
+{
+  "name": "runbooks",
+  "description": "Exposes a folder of Markdown runbooks to an AI assistant via three tools (list_notes, search_notes, read_note) over MCP's streamable-http transport.",
+  "source_repo": "gopanair/launchpad-example-mcp-server",
+  "source_url": "https://github.com/gopanair/launchpad-example-mcp-server",
+  "install": "npx -y launchpad-example-mcp-server"
+}

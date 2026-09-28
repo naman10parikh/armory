@@ -1,0 +1,7 @@
+{
+  "name": "nubra-mcp-server",
+  "description": "Enables interaction with the Nubra trading platform for authentication, instrument lookup, quotes, historical data, options analytics, portfolio management, report generation, screening, backtesting, and order placement via UAT environment.",
+  "source_repo": "socials-zanskar/nubra-mcp-server",
+  "source_url": "https://github.com/socials-zanskar/nubra-mcp-server",
+  "install": "npx -y nubra-mcp-server"
+}

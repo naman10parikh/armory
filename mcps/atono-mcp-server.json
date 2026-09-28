@@ -1,0 +1,7 @@
+{
+  "name": "atono-mcp-server",
+  "description": "Connects AI coding tools to an Atono workspace, offering 41 tools to read and write stories, bugs, epics, subtasks, acceptance criteria, timeboxes, glossary, and AI context so agents work with real product knowledge.",
+  "source_repo": "atono-io/atono-mcp-server",
+  "source_url": "https://github.com/atono-io/atono-mcp-server",
+  "install": "npx -y atono-mcp-server"
+}

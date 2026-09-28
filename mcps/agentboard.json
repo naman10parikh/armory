@@ -1,0 +1,7 @@
+{
+  "name": "agentboard",
+  "description": "A local task tracker with Kanban board and MCP server for AI agents, enabling task management via markdown files and providing tools for agents to query and update tasks.",
+  "source_repo": "Vladev0/agentboard",
+  "source_url": "https://github.com/Vladev0/agentboard",
+  "install": "# git clone --depth 1 https://github.com/Vladev0/agentboard\n# See source for mcpServers config block"
+}

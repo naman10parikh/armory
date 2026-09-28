@@ -1,0 +1,7 @@
+{
+  "name": "namecheap-api-mcp",
+  "description": "Enables AI assistants to manage Namecheap domains, DNS, contacts, registrar locks, and view SSL certificates and pricing through safe read and configuration tools.",
+  "source_repo": "lanternrow/namecheap-api-mcp",
+  "source_url": "https://github.com/lanternrow/namecheap-api-mcp",
+  "install": "npx -y namecheap-api-mcp"
+}

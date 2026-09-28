@@ -1,0 +1,7 @@
+{
+  "name": "peoplesoft-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that enables AI assistants to query and understand PeopleSoft HCM databases. It provides semantic tools for HR, Payroll, Benefits, Performance, and PeopleTools metadata, allowing natural language questions to be answered with accurate SQL queries.",
+  "source_repo": "rgrz/peoplesoft-mcp",
+  "source_url": "https://github.com/rgrz/peoplesoft-mcp",
+  "install": "npx -y peoplesoft-mcp"
+}

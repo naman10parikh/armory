@@ -1,0 +1,7 @@
+{
+  "name": "suzuri-mcp",
+  "description": "Enables AI assistants to create custom merchandise on SUZURI, including uploading images, generating text designs, and placing them on 450+ items, as well as searching and managing products.",
+  "source_repo": "pepabo/suzuri-mcp",
+  "source_url": "https://github.com/pepabo/suzuri-mcp",
+  "install": "npx -y suzuri-mcp"
+}

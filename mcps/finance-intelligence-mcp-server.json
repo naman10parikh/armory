@@ -1,0 +1,7 @@
+{
+  "name": "finance-intelligence-mcp-server",
+  "description": "A production-grade MCP server that provides AI assistants with real-time financial market data, company metrics, and historical prices using yfinance and FastMCP.",
+  "source_repo": "menlopy/finance-intelligence-mcp",
+  "source_url": "https://github.com/menlopy/finance-intelligence-mcp",
+  "install": "npx -y finance-intelligence-mcp"
+}

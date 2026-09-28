@@ -1,0 +1,7 @@
+{
+  "name": "gud-api-mcp-server",
+  "description": "Enables AI agents to create, run, and save API requests and collections as local Gud API files, which are git-committable and viewable in VS Code-compatible editors.",
+  "source_repo": "gudlab/gud-api-mcp",
+  "source_url": "https://github.com/gudlab/gud-api-mcp",
+  "install": "npx -y gud-api-mcp"
+}

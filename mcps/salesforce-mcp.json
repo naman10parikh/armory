@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-mcp",
+  "description": "A focused MCP server for Salesforce CRM that exposes read/write access to standard CRM objects via six tools, designed for multi-tenant gateway deployments.",
+  "source_repo": "wyre-technology/salesforce-mcp",
+  "source_url": "https://github.com/wyre-technology/salesforce-mcp",
+  "install": "npx -y salesforce-mcp"
+}

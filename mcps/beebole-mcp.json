@@ -1,0 +1,7 @@
+{
+  "name": "beebole-mcp",
+  "description": "MCP server to connect Claude with Beebole for time tracking, enabling project and task listing, time entry retrieval, and time logging.",
+  "source_repo": "NeoNexAI/beebole-mcp",
+  "source_url": "https://github.com/NeoNexAI/beebole-mcp",
+  "install": "npx -y beebole-mcp"
+}

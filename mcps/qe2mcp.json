@@ -1,0 +1,7 @@
+{
+  "name": "qe2mcp",
+  "description": "Converts Quantum ESPRESSO output files to structured JSON and serves them via an HTTP API for use with MCP clients.",
+  "source_repo": "mitsuaki1987/qe2mcp",
+  "source_url": "https://github.com/mitsuaki1987/qe2mcp",
+  "install": "# git clone --depth 1 https://github.com/mitsuaki1987/qe2mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uml-search-mcp",
+  "description": "Enables searching across UMass Lowell domain for people, website content, places, news, and parsing URLs into markdown.",
+  "source_repo": "UMLCloudComputing/uml-search-mcp",
+  "source_url": "https://github.com/UMLCloudComputing/uml-search-mcp",
+  "install": "npx -y uml-search-mcp"
+}

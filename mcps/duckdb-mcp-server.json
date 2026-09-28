@@ -1,0 +1,7 @@
+{
+  "name": "duckdb-mcp-server",
+  "description": "A local MCP server enabling AI assistants to query and analyze data via DuckDB SQL engine, supporting local files, memory, S3, and MotherDuck.",
+  "source_repo": "MMHK/duckdb-mcp",
+  "source_url": "https://github.com/MMHK/duckdb-mcp",
+  "install": "npx -y duckdb-mcp"
+}

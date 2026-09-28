@@ -1,0 +1,7 @@
+{
+  "name": "reasoning-traces",
+  "description": "Adds a deep_reasoning tool that consults stronger reasoning models (e.g., DeepSeek R1) to produce full reasoning traces for complex problems, helping the agent shape and cross-check its answers.",
+  "source_repo": "dhruv-corethink/reasoning-traces",
+  "source_url": "https://github.com/dhruv-corethink/reasoning-traces",
+  "install": "# git clone --depth 1 https://github.com/dhruv-corethink/reasoning-traces\n# See source for mcpServers config block"
+}

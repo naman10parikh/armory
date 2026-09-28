@@ -1,0 +1,7 @@
+{
+  "name": "plantos-mcp-server",
+  "description": "Enables AI assistants to analyze farm locations, retrieve soil and weather data, access commodity market prices, and chat with an agricultural advisor for farming recommendations.",
+  "source_repo": "Plantos-Sensor/mcp-server",
+  "source_url": "https://github.com/Plantos-Sensor/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Plantos-Sensor/mcp-server\n# See source for mcpServers config block"
+}

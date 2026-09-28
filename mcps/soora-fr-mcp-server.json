@@ -1,0 +1,7 @@
+{
+  "name": "soora-fr-mcp-server",
+  "description": "Enables AI clients to access Soora FR's image generation workflows, styles, pricing, FAQ, and official links.",
+  "source_repo": "rocnubie/soorafr-mcp",
+  "source_url": "https://github.com/rocnubie/soorafr-mcp",
+  "install": "npx -y soorafr-mcp"
+}

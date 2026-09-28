@@ -1,0 +1,7 @@
+{
+  "name": "patent-intelligence-mcp-server",
+  "description": "Provides AI agents with access to US patent data through 16 tools for search, citation analysis, technology trends, and portfolio comparisons via the free USPTO PatentsView API.",
+  "source_repo": "AiAgentKarl/patent-intelligence-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/patent-intelligence-mcp-server",
+  "install": "npx -y patent-intelligence-mcp-server"
+}

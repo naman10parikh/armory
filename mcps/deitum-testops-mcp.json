@@ -1,0 +1,7 @@
+{
+  "name": "deitum-testops-mcp",
+  "description": "MCP server for Allure TestOps that enables searching, reading, and writing test cases, authoring and importing test suites in Markdown, managing launches, and retrieving project statistics, all scoped to a single configured project.",
+  "source_repo": "deitum/testops-mcp",
+  "source_url": "https://github.com/deitum/testops-mcp",
+  "install": "npx -y testops-mcp"
+}

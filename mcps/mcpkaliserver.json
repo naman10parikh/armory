@@ -1,0 +1,7 @@
+{
+  "name": "mcpkaliserver",
+  "description": "Connects LLMs to a Kali Linux host over SSH for authorized penetration testing, exposing tools organized by pentest phases (recon, enumeration, exploitation) with scope guardrails.",
+  "source_repo": "ElusiveHacker/MCPKaliServer",
+  "source_url": "https://github.com/ElusiveHacker/MCPKaliServer",
+  "install": "# git clone --depth 1 https://github.com/ElusiveHacker/MCPKaliServer\n# See source for mcpServers config block"
+}

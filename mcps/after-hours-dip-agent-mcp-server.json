@@ -1,0 +1,7 @@
+{
+  "name": "after-hours-dip-agent-mcp-server",
+  "description": "Enables scanning live after-hours stock prices on Robinhood Chain, paying for quotes via x402, and buying dips below the NYSE close.",
+  "source_repo": "glabun002/after-hours-dip-agent",
+  "source_url": "https://github.com/glabun002/after-hours-dip-agent",
+  "install": "# git clone --depth 1 https://github.com/glabun002/after-hours-dip-agent\n# See source for mcpServers config block"
+}

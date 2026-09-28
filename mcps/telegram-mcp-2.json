@@ -1,0 +1,7 @@
+{
+  "name": "telegram-mcp-2",
+  "description": "Enables LLMs to send notifications and receive responses via Telegram.",
+  "source_repo": "MobileVibe/telegram-mcp",
+  "source_url": "https://github.com/MobileVibe/telegram-mcp",
+  "install": "npx -y telegram-mcp"
+}

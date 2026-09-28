@@ -1,0 +1,7 @@
+{
+  "name": "voxcpm-mcp",
+  "description": "Enables text-to-speech synthesis and voice cloning using VoxCPM2 diffusion model from within Claude Code.",
+  "source_repo": "OLGTX303/voxcpm-mcp",
+  "source_url": "https://github.com/OLGTX303/voxcpm-mcp",
+  "install": "npx -y voxcpm-mcp"
+}

@@ -1,6 +1,6 @@
 {
   "name": "zoomrx-ap-mcp-server",
-  "description": "Zoomrx Ap Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "aishwaryaeaswar/zoomrx-ap-mcp-server",
   "source_url": "https://mcp.so/server/zoomrx-ap-mcp-server/aishwaryaeaswar",
   "install": "npx -y zoomrx-ap-mcp-server"

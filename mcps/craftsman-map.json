@@ -1,0 +1,7 @@
+{
+  "name": "craftsman-map",
+  "description": "Compiles codebases into a layered knowledge graph, providing an MCP server with 16 tools for AI to navigate, understand, and analyze code before making changes.",
+  "source_repo": "EthanXue666/craftsman-map",
+  "source_url": "https://github.com/EthanXue666/craftsman-map",
+  "install": "# git clone --depth 1 https://github.com/EthanXue666/craftsman-map\n# See source for mcpServers config block"
+}

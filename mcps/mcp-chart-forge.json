@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chart-forge",
+  "description": "A professional chart generation MCP server for Claude Code. Drop a charts-theme.json into any project and Claude can generate beautiful, on-brand charts output as slide-ready PNG and SVG files — fully local, no API keys required.",
+  "source_repo": "joconnell19/mcp-chart-forge",
+  "source_url": "https://github.com/joconnell19/mcp-chart-forge",
+  "install": "# git clone --depth 1 https://github.com/joconnell19/mcp-chart-forge\n# See source for mcpServers config block"
+}

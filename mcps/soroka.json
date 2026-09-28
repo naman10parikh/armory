@@ -1,0 +1,7 @@
+{
+  "name": "soroka",
+  "description": "Telegram bot that turns saved messages into a personal knowledge base with AI-powered search, supporting MCP server for Claude Desktop.",
+  "source_repo": "AndyShaman/Soroka",
+  "source_url": "https://github.com/AndyShaman/Soroka",
+  "install": "# git clone --depth 1 https://github.com/AndyShaman/Soroka\n# See source for mcpServers config block"
+}

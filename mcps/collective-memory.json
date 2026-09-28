@@ -1,0 +1,7 @@
+{
+  "name": "collective-memory",
+  "description": "MCP server for persistent, semantic memory across AI sessions; store context, decisions, and learnings and recall them with natural language search.",
+  "source_repo": "Hustada/collective-memory",
+  "source_url": "https://github.com/Hustada/collective-memory",
+  "install": "# git clone --depth 1 https://github.com/Hustada/collective-memory\n# See source for mcpServers config block"
+}

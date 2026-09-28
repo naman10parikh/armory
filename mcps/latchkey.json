@@ -1,0 +1,7 @@
+{
+  "name": "latchkey",
+  "description": "Capability-token gate for AI agents. Mint time-boxed, scope-limited grants that authorize specific tool calls.",
+  "source_repo": "SanjoyDat1/latchkey",
+  "source_url": "https://github.com/SanjoyDat1/latchkey",
+  "install": "# git clone --depth 1 https://github.com/SanjoyDat1/latchkey\n# See source for mcpServers config block"
+}

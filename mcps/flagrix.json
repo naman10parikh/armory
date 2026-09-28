@@ -1,0 +1,7 @@
+{
+  "name": "flagrix",
+  "description": "Enables AI agents to scan GitHub repositories and user profiles for malware signals before cloning, providing risk verdicts pinned to specific commits.",
+  "source_repo": "flagrix-io/flagrix-cli",
+  "source_url": "https://github.com/flagrix-io/flagrix-cli",
+  "install": "# git clone --depth 1 https://github.com/flagrix-io/flagrix-cli\n# See source for mcpServers config block"
+}

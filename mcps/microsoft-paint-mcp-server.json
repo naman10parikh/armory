@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-paint-mcp-server",
+  "description": "MCP server that automates Microsoft Paint on Windows, offering tools to draw freehand strokes, polylines, and logarithmic spirals through Win32 API calls.",
+  "source_repo": "miguelcespedes/mcp-server-microsoft-paint-nodejs",
+  "source_url": "https://github.com/miguelcespedes/mcp-server-microsoft-paint-nodejs",
+  "install": "# git clone --depth 1 https://github.com/miguelcespedes/mcp-server-microsoft-paint-nodejs\n# See source for mcpServers config block"
+}

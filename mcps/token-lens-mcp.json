@@ -1,0 +1,7 @@
+{
+  "name": "token-lens-mcp",
+  "description": "Enables analyzing and optimizing context window token usage by measuring, compressing, and eliminating waste from MCP tool definitions.",
+  "source_repo": "mdfifty50-boop/token-lens-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/token-lens-mcp",
+  "install": "npx -y token-lens-mcp"
+}

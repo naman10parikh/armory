@@ -1,0 +1,7 @@
+{
+  "name": "lark-mcp",
+  "description": "Enables AI assistants to interact with Feishu/Lark Open Platform APIs for tasks like document processing, chat management, and calendar scheduling.",
+  "source_repo": "dremaker/lark-mcp",
+  "source_url": "https://github.com/dremaker/lark-mcp",
+  "install": "npx -y lark-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "viralnote-mcp",
+  "description": "Gives Claude, Cursor, and any MCP client 15 tools to create, schedule, and publish social posts to TikTok, Instagram Reels, YouTube Shorts, X, Threads, and LinkedIn. Also handles media import by URL or base64, webhooks, and per-platform analytics from the ViralNote API.",
+  "source_repo": "viralnote/mcp-server",
+  "source_url": "https://github.com/viralnote/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/viralnote/mcp-server\n# See source for mcpServers config block"
+}

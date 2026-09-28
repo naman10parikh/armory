@@ -1,0 +1,7 @@
+{
+  "name": "tinyfish-search-fetch-mcp",
+  "description": "A lightweight MCP server enabling web search and content fetching via TinyFish Free Access API with support for single and burst URL fetch.",
+  "source_repo": "dummie21/tinyfish-search-fetch-mcp",
+  "source_url": "https://github.com/dummie21/tinyfish-search-fetch-mcp",
+  "install": "npx -y tinyfish-search-fetch-mcp"
+}

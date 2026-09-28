@@ -1,0 +1,7 @@
+{
+  "name": "guardrailai",
+  "description": "An MCP server that evaluates file write requests for sensitive data and compliance using deterministic policies and Google Gemini reasoning, providing auditable governance and risk scoring.",
+  "source_repo": "Sreya2911/GuardrailAI",
+  "source_url": "https://github.com/Sreya2911/GuardrailAI",
+  "install": "# git clone --depth 1 https://github.com/Sreya2911/GuardrailAI\n# See source for mcpServers config block"
+}

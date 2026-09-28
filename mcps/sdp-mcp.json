@@ -1,0 +1,7 @@
+{
+  "name": "sdp-mcp",
+  "description": "Provides 76 tools for enterprise Solana development, enabling stablecoin issuance, payments, trading, wallet management, and compliance screening via natural language.",
+  "source_repo": "ExpertVagabond/sdp-mcp",
+  "source_url": "https://github.com/ExpertVagabond/sdp-mcp",
+  "install": "npx -y sdp-mcp"
+}

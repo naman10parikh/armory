@@ -1,0 +1,7 @@
+{
+  "name": "ai-news-mcp-server",
+  "description": "Fetches recent AI news from curated RSS feeds, summarizes them with OpenAI, and caches results in AWS DynamoDB for efficient access.",
+  "source_repo": "sp716/news-mcp",
+  "source_url": "https://github.com/sp716/news-mcp",
+  "install": "npx -y news-mcp"
+}

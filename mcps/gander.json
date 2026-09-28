@@ -1,0 +1,7 @@
+{
+  "name": "gander",
+  "description": "Enables AI agents to fetch and extract clean, readable content from web pages, and search within pages for specific queries, without needing a full browser.",
+  "source_repo": "abdulkhaliqfarah/gander",
+  "source_url": "https://github.com/abdulkhaliqfarah/gander",
+  "install": "# git clone --depth 1 https://github.com/abdulkhaliqfarah/gander\n# See source for mcpServers config block"
+}

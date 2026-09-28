@@ -1,0 +1,7 @@
+{
+  "name": "nbdpsy-mcp",
+  "description": "MCP server for managing Xiaohongshu (Little Red Book) account matrix operations, including account management, cookie sharing, and note publishing via MCP tools.",
+  "source_repo": "Buxiulei/nbdpsy-mcp",
+  "source_url": "https://github.com/Buxiulei/nbdpsy-mcp",
+  "install": "npx -y nbdpsy-mcp"
+}

@@ -1,6 +1,6 @@
 {
   "name": "docker-container-mcp",
-  "description": "Docker Container Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "emresahna/docker-container-mcp",
   "source_url": "https://mcp.so/server/docker-container-mcp/emresahna",
   "install": "npx -y docker-container-mcp"

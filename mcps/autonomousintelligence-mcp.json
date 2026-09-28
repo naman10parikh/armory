@@ -1,0 +1,7 @@
+{
+  "name": "autonomousintelligence-mcp",
+  "description": "MCP server for Autonomous Intelligence, enabling AI agents to perform non-custodial, rug-gated multi-chain token swaps including safety checks, quotes, and execution.",
+  "source_repo": "mmahdiahamed92-png/autonomous-intelligence-mcp",
+  "source_url": "https://github.com/mmahdiahamed92-png/autonomous-intelligence-mcp",
+  "install": "npx -y autonomous-intelligence-mcp"
+}

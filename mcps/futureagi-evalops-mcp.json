@@ -1,0 +1,7 @@
+{
+  "name": "futureagi-evalops-mcp",
+  "description": "A paid remote MCP server for AI SDK eval dashboards, offering structured tools for evaluation gates, trace failure summaries, version comparisons, and audit receipts with token-based access.",
+  "source_repo": "clauxel/futureagi-evalops-mcp-mcp",
+  "source_url": "https://github.com/clauxel/futureagi-evalops-mcp-mcp",
+  "install": "npx -y futureagi-evalops-mcp-mcp"
+}

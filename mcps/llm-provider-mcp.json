@@ -1,0 +1,7 @@
+{
+  "name": "llm-provider-mcp",
+  "description": "Local MCP server for asynchronous coding-agent delegation, enabling Claude Code or Codex to delegate tasks to Cursor, Pi, Codex, or Claude Code and collect results later.",
+  "source_repo": "manishiitg/llm-provider-mcp",
+  "source_url": "https://github.com/manishiitg/llm-provider-mcp",
+  "install": "npx -y llm-provider-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zulip-mcp",
+  "description": "MCP server that exposes Zulip REST API tools via SSE, enabling message retrieval, stream/topic listing, draft management, and notifications.",
+  "source_repo": "VanBarbascu/zulip-mcp",
+  "source_url": "https://github.com/VanBarbascu/zulip-mcp",
+  "install": "npx -y zulip-mcp"
+}

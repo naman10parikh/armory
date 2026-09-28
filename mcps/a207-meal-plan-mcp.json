@@ -1,0 +1,7 @@
+{
+  "name": "a207-meal-plan-mcp",
+  "description": "Generates multi-day CKD meal plans for children based on PRNT targets (energy, protein, potassium, phosphorus, sodium), providing nutrient summaries and target achievement rates for dietitians.",
+  "source_repo": "ayeyouok/a207-meal-plan-mcp",
+  "source_url": "https://github.com/ayeyouok/a207-meal-plan-mcp",
+  "install": "npx -y a207-meal-plan-mcp"
+}

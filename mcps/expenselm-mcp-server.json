@@ -1,0 +1,7 @@
+{
+  "name": "expenselm-mcp-server",
+  "description": "MCP server for ExpenseLM, a GenAI powered expense management application. Enables AI agents to access expense data for recording, insights, and advice.",
+  "source_repo": "expenselm/expenselm-mcp-server",
+  "source_url": "https://github.com/expenselm/expenselm-mcp-server",
+  "install": "npx -y expenselm-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "flowstate-mcp",
+  "description": "An MCP server that preserves and recalls work context, enabling users to log sessions, decisions, blockers, and ideas, and automatically generate resumes and standups.",
+  "source_repo": "attaelahi/flowstate-mcp",
+  "source_url": "https://github.com/attaelahi/flowstate-mcp",
+  "install": "npx -y flowstate-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lr-labs",
+  "description": "Provides deterministic cross-border tax analysis by compiling law into machine-evaluable conditions, enabling assessments of permanent establishment, transfer pricing, and verification of tax research.",
+  "source_repo": "abhinandansethi/lr-labs-mcp",
+  "source_url": "https://github.com/abhinandansethi/lr-labs-mcp",
+  "install": "npx -y lr-labs-mcp"
+}

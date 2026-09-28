@@ -1,0 +1,7 @@
+{
+  "name": "agent-token-budget-mcp",
+  "description": "Manages token budgets for AI agents, enabling tracking and enforcement of usage limits with built-in EU AI Act compliance.",
+  "source_repo": "CSOAI-ORG/agent-token-budget-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/agent-token-budget-mcp",
+  "install": "npx -y agent-token-budget-mcp"
+}

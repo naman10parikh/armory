@@ -1,0 +1,7 @@
+{
+  "name": "faim-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that integrates the FAIM time series forecasting SDK with any MCP-compatible AI assistant, enabling AI-powered forecasting capabilities.",
+  "source_repo": "S-FM/faim-mcp",
+  "source_url": "https://github.com/S-FM/faim-mcp",
+  "install": "npx -y faim-mcp"
+}

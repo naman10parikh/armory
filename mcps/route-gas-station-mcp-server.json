@@ -1,0 +1,7 @@
+{
+  "name": "route-gas-station-mcp-server",
+  "description": "Enables users to query driving distances and find gas stations along routes using Google Maps APIs through natural language, powered by FastMCP and Google ADK.",
+  "source_repo": "selvatest/mcp-practice",
+  "source_url": "https://github.com/selvatest/mcp-practice",
+  "install": "# git clone --depth 1 https://github.com/selvatest/mcp-practice\n# See source for mcpServers config block"
+}

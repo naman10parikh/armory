@@ -1,0 +1,7 @@
+{
+  "name": "swmf-mcp-server",
+  "description": "SWMF MCP Server enables AI agents to work with the Space Weather Modeling Framework (SWMF) through tools for context, evidence, artifact inspection, and comparison. It includes task-specific skills for explanation, configuration, building, running, debugging, and analysis.",
+  "source_repo": "KehengZhu/SWMF-MCP-Server",
+  "source_url": "https://github.com/KehengZhu/SWMF-MCP-Server",
+  "install": "npx -y SWMF-MCP-Server"
+}

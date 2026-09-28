@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-readonly-mcp",
+  "description": "Read-only MCP server for querying a running Obsidian vault from agentic runtimes, exposing safe Obsidian CLI commands.",
+  "source_repo": "eothL/obsidian-readonly-mcp",
+  "source_url": "https://github.com/eothL/obsidian-readonly-mcp",
+  "install": "npx -y obsidian-readonly-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "korean-patent-mcp-kipris",
+  "description": "MCP server that enables searching Korean patents, trademarks, and designs via KIPRIS Plus open APIs. Supports keyword, advanced, applicant, and rightholder searches with detailed bibliographic lookup.",
+  "source_repo": "chrisryugj/korean-patent-mcp",
+  "source_url": "https://github.com/chrisryugj/korean-patent-mcp",
+  "install": "npx -y korean-patent-mcp"
+}

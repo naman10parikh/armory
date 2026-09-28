@@ -1,0 +1,7 @@
+{
+  "name": "dxn1-audio-ai-tool",
+  "description": "AI-powered music production toolkit enabling AI agents to generate, remix, separate stems, master tracks, and control DAWs via MCP.",
+  "source_repo": "DXN1-termux/DXN1-DAW-AI-TOOL",
+  "source_url": "https://github.com/DXN1-termux/DXN1-DAW-AI-TOOL",
+  "install": "# git clone --depth 1 https://github.com/DXN1-termux/DXN1-DAW-AI-TOOL\n# See source for mcpServers config block"
+}

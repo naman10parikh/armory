@@ -1,0 +1,7 @@
+{
+  "name": "dongnesos-mcp",
+  "description": "Helps users prepare Korean neighborhood inconvenience reports by classifying issues, explaining evidence, and drafting neutral reports without submitting them.",
+  "source_repo": "kjessie00/dongnesos-mcp",
+  "source_url": "https://github.com/kjessie00/dongnesos-mcp",
+  "install": "npx -y dongnesos-mcp"
+}

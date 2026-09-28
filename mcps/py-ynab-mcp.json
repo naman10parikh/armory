@@ -1,0 +1,7 @@
+{
+  "name": "py-ynab-mcp",
+  "description": "A Model Context Protocol server for YNAB (You Need A Budget). Enables users to query budgets, accounts, categories, transactions, and more, as well as create, update, and delete transactions and manage scheduled transactions from any MCP client.",
+  "source_repo": "duganth/py-ynab-mcp",
+  "source_url": "https://github.com/duganth/py-ynab-mcp",
+  "install": "npx -y py-ynab-mcp"
+}

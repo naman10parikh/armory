@@ -1,0 +1,7 @@
+{
+  "name": "samantha",
+  "description": "MCP server that dynamically extracts and manages user memory from LLM conversations, enabling consistent personalization across different models.",
+  "source_repo": "arcAman07/samantha_mcp",
+  "source_url": "https://github.com/arcAman07/samantha_mcp",
+  "install": "npx -y samantha_mcp"
+}

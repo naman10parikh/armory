@@ -1,0 +1,7 @@
+{
+  "name": "mcp-jira-confluence-corp",
+  "description": "A Model Context Protocol server for Atlassian Jira and Confluence that bypasses corporate proxies and self-signed certificates, enabling read/write operations on issues, projects, pages, and spaces using Personal Access Tokens.",
+  "source_repo": "mshegolev/mcp-jira-confluence-corp",
+  "source_url": "https://github.com/mshegolev/mcp-jira-confluence-corp",
+  "install": "# git clone --depth 1 https://github.com/mshegolev/mcp-jira-confluence-corp\n# See source for mcpServers config block"
+}

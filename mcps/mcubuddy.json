@@ -1,0 +1,7 @@
+{
+  "name": "mcubuddy",
+  "description": "MCP server for AI-assisted MCU and embedded firmware debugging. It connects to real hardware via debug probes, inspects CPU/memory/peripherals, manages Keil builds, and provides structured evidence for fault diagnosis.",
+  "source_repo": "cunjun/McuBuddy",
+  "source_url": "https://github.com/cunjun/McuBuddy",
+  "install": "# git clone --depth 1 https://github.com/cunjun/McuBuddy\n# See source for mcpServers config block"
+}

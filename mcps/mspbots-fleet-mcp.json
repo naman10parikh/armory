@@ -1,0 +1,7 @@
+{
+  "name": "mspbots-fleet-mcp",
+  "description": "MCP server that wraps the MSPbots Fleet Platform API, enabling host inventory management, on-demand script execution, and saved osquery queries over the Model Context Protocol.",
+  "source_repo": "MSPbotsAI/mspbots-fleet-mcp",
+  "source_url": "https://github.com/MSPbotsAI/mspbots-fleet-mcp",
+  "install": "npx -y mspbots-fleet-mcp"
+}

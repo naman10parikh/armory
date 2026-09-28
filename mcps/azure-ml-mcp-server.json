@@ -1,0 +1,7 @@
+{
+  "name": "azure-ml-mcp-server",
+  "description": "Deploys an MCP server on Azure Container Apps that exposes Azure ML managed online endpoints as tools, enabling AI agents like Azure AI Foundry to invoke machine learning models via natural language.",
+  "source_repo": "ejones18/azureml-mcp-fun",
+  "source_url": "https://github.com/ejones18/azureml-mcp-fun",
+  "install": "# git clone --depth 1 https://github.com/ejones18/azureml-mcp-fun\n# See source for mcpServers config block"
+}

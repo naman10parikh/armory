@@ -1,0 +1,7 @@
+{
+  "name": "msprof-mcp",
+  "description": "MCP server for analyzing Ascend PyTorch Profiler performance data. Enables users to identify performance bottlenecks, analyze operator time, view communication overhead, and query trace data via natural language.",
+  "source_repo": "Krusty84/msprof_mcp",
+  "source_url": "https://github.com/Krusty84/msprof_mcp",
+  "install": "npx -y msprof_mcp"
+}

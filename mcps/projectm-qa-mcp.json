@@ -1,0 +1,7 @@
+{
+  "name": "projectm-qa-mcp",
+  "description": "A Unity Editor command bridge that uses JSON files under .codex/unity-commands for request/response, enabling tools to check Unity status, execute editor commands, parse test results, and capture screenshots.",
+  "source_repo": "chdnl0420-svg/UnityMCP",
+  "source_url": "https://github.com/chdnl0420-svg/UnityMCP",
+  "install": "# git clone --depth 1 https://github.com/chdnl0420-svg/UnityMCP\n# See source for mcpServers config block"
+}

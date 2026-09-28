@@ -1,0 +1,7 @@
+{
+  "name": "browserspend-guard-mcp",
+  "description": "Approval receipts for AI browser purchases. Enables purchase evaluation, approval recording, budget alerts, and receipt export.",
+  "source_repo": "clauxel/browser-spend-guard-mcp",
+  "source_url": "https://github.com/clauxel/browser-spend-guard-mcp",
+  "install": "npx -y browser-spend-guard-mcp"
+}

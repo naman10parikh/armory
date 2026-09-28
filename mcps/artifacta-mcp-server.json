@@ -1,0 +1,7 @@
+{
+  "name": "artifacta-mcp-server",
+  "description": "The artifact store for AI agents. Every output your agents produce — persisted, retrievable, shareable. Across runs, sessions, and tools. Session/agent metadata, content-hash dedup, and expiring share links; available on npm (@artifacta-mcp/mcp) and PyPI (artifacta-mcp).",
+  "source_repo": "SagaPeak/artifacta-mcp",
+  "source_url": "https://github.com/SagaPeak/artifacta-mcp",
+  "install": "npx -y artifacta-mcp"
+}

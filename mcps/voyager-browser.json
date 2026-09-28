@@ -1,0 +1,7 @@
+{
+  "name": "voyager-browser",
+  "description": "Read-only observation of a single live URL: parses static HTML to report security posture, forms, links, accessibility signals, and leaks, with described fixes. SSRF-gated and safe, never executes JavaScript.",
+  "source_repo": "dir-ai/voyager-browser",
+  "source_url": "https://github.com/dir-ai/voyager-browser",
+  "install": "# git clone --depth 1 https://github.com/dir-ai/voyager-browser\n# See source for mcpServers config block"
+}

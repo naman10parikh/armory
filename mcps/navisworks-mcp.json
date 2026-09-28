@@ -1,0 +1,7 @@
+{
+  "name": "navisworks-mcp",
+  "description": "Enables Navisworks coordination and clash detection via APS, allowing upload of NWD files, extraction of clashes, report generation, and retrieval of viewpoints.",
+  "source_repo": "ScanBIM-Labs/navisworks-mcp",
+  "source_url": "https://github.com/ScanBIM-Labs/navisworks-mcp",
+  "install": "npx -y navisworks-mcp"
+}

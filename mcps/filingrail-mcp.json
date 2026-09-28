@@ -1,0 +1,7 @@
+{
+  "name": "filingrail-mcp",
+  "description": "Give your AI agent live SEC EDGAR data: company financials, insider trades, 8-K events, 13F holdings, and the raw filings stream — all normalized to clean JSON, every number traceable back to its sec.gov source filing.",
+  "source_repo": "adamhudson777/filingrail-mcp",
+  "source_url": "https://github.com/adamhudson777/filingrail-mcp",
+  "install": "npx -y filingrail-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "patchright-mcp",
+  "description": "Provides browser automation capabilities using Patchright, enabling LLMs to interact with web pages through structured accessibility snapshots without needing vision models.",
+  "source_repo": "Ikaleio/patchright-mcp",
+  "source_url": "https://github.com/Ikaleio/patchright-mcp",
+  "install": "npx -y patchright-mcp"
+}

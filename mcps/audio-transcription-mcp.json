@@ -1,0 +1,7 @@
+{
+  "name": "audio-transcription-mcp",
+  "description": "MCP server for audio transcription with speaker diarization. Transcribes MP3/WAV files using Faster-Whisper and pyannote.audio, outputs markdown with speaker labels, timestamps, summaries, and action items.",
+  "source_repo": "ebmarquez/audio-transcription-mcp",
+  "source_url": "https://github.com/ebmarquez/audio-transcription-mcp",
+  "install": "npx -y audio-transcription-mcp"
+}

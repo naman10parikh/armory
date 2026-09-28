@@ -1,0 +1,7 @@
+{
+  "name": "ohos-playwright-mcp",
+  "description": "MCP server for HarmonyOS/OpenHarmony ArkWeb that enables browser automation using playwright-core over CDP, providing tools for navigation, input, network, cookies, and more.",
+  "source_repo": "social4hyq/ohos-playwright-mcp",
+  "source_url": "https://github.com/social4hyq/ohos-playwright-mcp",
+  "install": "npx -y ohos-playwright-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "euenergy-mcp",
+  "description": "A read-only MCP server that exposes European day-ahead electricity prices for ~41 bidding zones via tools like hourly prices, cheapest hours, current price, and cross-zone summary, enabling AI agents to query energy market data.",
+  "source_repo": "adambenhassen/euenergy-mcp",
+  "source_url": "https://github.com/adambenhassen/euenergy-mcp",
+  "install": "npx -y euenergy-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "betrieb-mcp",
+  "description": "MCP server that gives AI agents controlled access to a building services company's daily operations, including customer records, scheduling, and offer calculations. All write operations are protected by a two-stage approval mechanism with time-limited tokens to prevent unauthorized changes.",
+  "source_repo": "LucaT02/betrieb-mcp",
+  "source_url": "https://github.com/LucaT02/betrieb-mcp",
+  "install": "npx -y betrieb-mcp"
+}

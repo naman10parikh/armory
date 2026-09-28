@@ -1,0 +1,7 @@
+{
+  "name": "bigquery-mcp",
+  "description": "Enables AI agents to interact with Google BigQuery databases through natural language queries and schema exploration.",
+  "source_repo": "SnowLeopard-AI/bigquery-mcp",
+  "source_url": "https://github.com/SnowLeopard-AI/bigquery-mcp",
+  "install": "npx -y bigquery-mcp"
+}

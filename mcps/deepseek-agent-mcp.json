@@ -1,0 +1,7 @@
+{
+  "name": "deepseek-agent-mcp",
+  "description": "MCP server that packages DeepSeek agents as callable tools, offering a bare model for quick Q&A and a full agent capable of executing real coding and file-modifying tasks in a workspace.",
+  "source_repo": "mbj733/deepseek-agent-mcp",
+  "source_url": "https://github.com/mbj733/deepseek-agent-mcp",
+  "install": "npx -y deepseek-agent-mcp"
+}

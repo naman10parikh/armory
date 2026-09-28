@@ -1,0 +1,7 @@
+{
+  "name": "ytt-mcp",
+  "description": "MCP server to fetch transcripts for YouTube videos, enabling users to retrieve and summarize video content via natural language.",
+  "source_repo": "cottongeeks/ytt-mcp",
+  "source_url": "https://github.com/cottongeeks/ytt-mcp",
+  "install": "npx -y ytt-mcp"
+}

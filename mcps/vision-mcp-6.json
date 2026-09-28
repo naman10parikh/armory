@@ -1,0 +1,7 @@
+{
+  "name": "vision-mcp-6",
+  "description": "A lightweight MCP server that provides vision capabilities to text-only models like Claude Code and Codex by forwarding images to an OpenAI-compatible multimodal model, offering tools for image analysis and OCR.",
+  "source_repo": "Peter-Lpt/vision-mcp",
+  "source_url": "https://github.com/Peter-Lpt/vision-mcp",
+  "install": "npx -y vision-mcp"
+}

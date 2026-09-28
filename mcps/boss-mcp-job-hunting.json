@@ -1,0 +1,7 @@
+{
+  "name": "boss-mcp-job-hunting",
+  "description": "Uses FastMCP and Playwright to search and filter jobs on Boss Zhipin, with login via QR code and filtering by keywords and publish date.",
+  "source_repo": "lemonskiller/boss-mcp-job-hunting",
+  "source_url": "https://github.com/lemonskiller/boss-mcp-job-hunting",
+  "install": "# git clone --depth 1 https://github.com/lemonskiller/boss-mcp-job-hunting\n# See source for mcpServers config block"
+}

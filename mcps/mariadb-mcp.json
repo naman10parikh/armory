@@ -1,0 +1,7 @@
+{
+  "name": "mariadb-mcp",
+  "description": "MCP server for interacting with MariaDB databases, supporting standard SQL operations and optional vector/embedding search.",
+  "source_repo": "uncleg-dev/mariadb-mcp",
+  "source_url": "https://github.com/uncleg-dev/mariadb-mcp",
+  "install": "npx -y mariadb-mcp"
+}

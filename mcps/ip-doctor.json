@@ -1,0 +1,7 @@
+{
+  "name": "ip-doctor",
+  "description": "MCP server for live IP and domain reputation checks via DNS lookups, providing abuse scores and network type without requiring an API key.",
+  "source_repo": "Baneado98/ip-doctor",
+  "source_url": "https://github.com/Baneado98/ip-doctor",
+  "install": "# git clone --depth 1 https://github.com/Baneado98/ip-doctor\n# See source for mcpServers config block"
+}

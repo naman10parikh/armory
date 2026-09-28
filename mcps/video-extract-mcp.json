@@ -1,0 +1,7 @@
+{
+  "name": "video-extract-mcp",
+  "description": "MCP server that turns video URLs into transcripts and important keyframes locally, with no cloud or API keys.",
+  "source_repo": "yanlingLabs/video-extract-mcp",
+  "source_url": "https://github.com/yanlingLabs/video-extract-mcp",
+  "install": "npx -y video-extract-mcp"
+}

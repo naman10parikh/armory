@@ -1,0 +1,7 @@
+{
+  "name": "capsid",
+  "description": "A Cloudflare-native MCP server for a consolidated knowledge base, enabling CRUD operations, search, and namespace management with versioning and audit logs.",
+  "source_repo": "DrDustinEdwards/capsid-mcp",
+  "source_url": "https://github.com/DrDustinEdwards/capsid-mcp",
+  "install": "npx -y capsid-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "k8s-readonly-mcp",
+  "description": "A read-only MCP server for inspecting Kubernetes clusters, allowing LLMs to list resources, describe pods, and read logs without mutation.",
+  "source_repo": "ziyuyu23/k8s-readonly-mcp",
+  "source_url": "https://github.com/ziyuyu23/k8s-readonly-mcp",
+  "install": "npx -y k8s-readonly-mcp"
+}

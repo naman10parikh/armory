@@ -1,0 +1,7 @@
+{
+  "name": "google-analytics-mcp-server",
+  "description": "Enables LLMs to interact with Google Analytics via Admin and Data APIs, allowing users to retrieve account summaries, run reports, and analyze realtime data.",
+  "source_repo": "iclaudiumihaila/google-analytics-mcp",
+  "source_url": "https://github.com/iclaudiumihaila/google-analytics-mcp",
+  "install": "npx -y google-analytics-mcp"
+}

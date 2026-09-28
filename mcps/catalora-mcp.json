@@ -1,0 +1,7 @@
+{
+  "name": "catalora-mcp",
+  "description": "An MCP server for trading agents that provides eight tools to trade under enforceable limits, local paper trading, and comprehensive risk management.",
+  "source_repo": "cataloraxyz/catalora-mcp",
+  "source_url": "https://github.com/cataloraxyz/catalora-mcp",
+  "install": "npx -y catalora-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lightning-fm-mcp",
+  "description": "Provides access to Lightning FM's music catalog, allowing agents to search tracks, look up artists, and check the currently playing track and stream URL via public Nostr and Blossom infrastructure.",
+  "source_repo": "Lightning-FM/lightning-fm-mcp",
+  "source_url": "https://github.com/Lightning-FM/lightning-fm-mcp",
+  "install": "npx -y lightning-fm-mcp"
+}

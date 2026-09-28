@@ -1,0 +1,7 @@
+{
+  "name": "seodesk-mcp-server",
+  "description": "Exposes SEODesk SEO tools (analyze_website, keyword_research, backlink overview, etc.) to MCP clients like ChatGPT via Streamable HTTP and OAuth 2.1.",
+  "source_repo": "apurv00001/seodesk-mcp-server",
+  "source_url": "https://github.com/apurv00001/seodesk-mcp-server",
+  "install": "npx -y seodesk-mcp-server"
+}

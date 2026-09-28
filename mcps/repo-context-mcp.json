@@ -1,0 +1,7 @@
+{
+  "name": "repo-context-mcp",
+  "description": "MCP server that helps AI coding agents understand a repository by providing lightweight tree/map, code search, and token-budgeted context packing tools without dumping the entire monorepo into the prompt.",
+  "source_repo": "nduc99911/repo-context-mcp",
+  "source_url": "https://github.com/nduc99911/repo-context-mcp",
+  "install": "npx -y repo-context-mcp"
+}

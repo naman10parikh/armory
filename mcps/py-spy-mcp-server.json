@@ -1,0 +1,7 @@
+{
+  "name": "py-spy-mcp-server",
+  "description": "MCP server for profiling Python processes using py-spy, supporting flamegraphs, stack dumps, and performance comparisons.",
+  "source_repo": "LBurny/pyspy-mcp",
+  "source_url": "https://github.com/LBurny/pyspy-mcp",
+  "install": "npx -y pyspy-mcp"
+}

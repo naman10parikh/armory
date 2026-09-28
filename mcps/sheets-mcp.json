@@ -1,0 +1,7 @@
+{
+  "name": "sheets-mcp",
+  "description": "Enables Claude Desktop to read, write, and manage Google Sheets through natural language conversation using the Model Context Protocol.",
+  "source_repo": "Luchitha7/sheets-mcp",
+  "source_url": "https://github.com/Luchitha7/sheets-mcp",
+  "install": "npx -y sheets-mcp"
+}

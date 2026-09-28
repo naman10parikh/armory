@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ui-research",
+  "description": "MCP server for UI research that helps agents discover visual patterns, generate original HTML/CSS components, and track deliverables without copying third-party code.",
+  "source_repo": "wanbnn/MCPUIResearch",
+  "source_url": "https://github.com/wanbnn/MCPUIResearch",
+  "install": "# git clone --depth 1 https://github.com/wanbnn/MCPUIResearch\n# See source for mcpServers config block"
+}

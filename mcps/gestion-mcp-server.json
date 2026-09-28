@@ -1,0 +1,7 @@
+{
+  "name": "gestion-mcp-server",
+  "description": "MCP server that exposes the GestionIntegrantes REST API as tools, enabling authentication, management of personas, and user queries via natural language.",
+  "source_repo": "ErnestoZeferinoDiaz/HumanResourcesManagement-MCP",
+  "source_url": "https://github.com/ErnestoZeferinoDiaz/HumanResourcesManagement-MCP",
+  "install": "npx -y HumanResourcesManagement-MCP"
+}

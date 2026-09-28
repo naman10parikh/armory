@@ -1,0 +1,7 @@
+{
+  "name": "nchan-mcp-transport",
+  "description": "A high-performance WebSocket/SSE transport layer and gateway for Anthropic's MCP, enabling real-time, scalable AI integrations with LLM agents like Claude.",
+  "source_repo": "ConechoAI/nchan-mcp-transport",
+  "source_url": "https://github.com/ConechoAI/nchan-mcp-transport",
+  "install": "# git clone --depth 1 https://github.com/ConechoAI/nchan-mcp-transport\n# See source for mcpServers config block"
+}

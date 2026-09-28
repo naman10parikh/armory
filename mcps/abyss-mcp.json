@@ -1,0 +1,7 @@
+{
+  "name": "abyss-mcp",
+  "description": "Official MCP server to integrate Abyss project context into AI apps and terminals, enabling seamless login and project access.",
+  "source_repo": "my-abyss-project/abyss-mcp",
+  "source_url": "https://github.com/my-abyss-project/abyss-mcp",
+  "install": "npx -y abyss-mcp"
+}

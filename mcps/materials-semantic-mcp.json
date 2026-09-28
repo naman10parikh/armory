@@ -1,0 +1,7 @@
+{
+  "name": "materials-semantic-mcp",
+  "description": "An MCP server that provides governed metric definitions and provenance-labeled memory for materials test labs, enforcing quality system discipline on agent interactions.",
+  "source_repo": "Tehscientist/materials-semantic-mcp",
+  "source_url": "https://github.com/Tehscientist/materials-semantic-mcp",
+  "install": "npx -y materials-semantic-mcp"
+}

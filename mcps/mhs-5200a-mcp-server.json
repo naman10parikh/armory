@@ -1,0 +1,7 @@
+{
+  "name": "mhs-5200a-mcp-server",
+  "description": "Enables control of MHS-5200A series signal generators via serial connection, including frequency, amplitude, waveform, and sweep settings.",
+  "source_repo": "NaoNaoMe/mhs5200a-mcp",
+  "source_url": "https://github.com/NaoNaoMe/mhs5200a-mcp",
+  "install": "npx -y mhs5200a-mcp"
+}

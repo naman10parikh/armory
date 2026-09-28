@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stepik",
+  "description": "MCP server for authoring courses on Stepik. Provides tools for session management, project creation, course synchronization, video upload, and publishing via the Stepik API.",
+  "source_repo": "hewimetall/mcp-stepik",
+  "source_url": "https://github.com/hewimetall/mcp-stepik",
+  "install": "# git clone --depth 1 https://github.com/hewimetall/mcp-stepik\n# See source for mcpServers config block"
+}

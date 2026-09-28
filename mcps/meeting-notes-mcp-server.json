@@ -1,0 +1,7 @@
+{
+  "name": "meeting-notes-mcp-server",
+  "description": "A self-hosted MCP server for storing, searching, and querying meeting notes with semantic search and RAG capabilities using SQLite + OpenRouter.",
+  "source_repo": "gianevag/meeting-notes-mcp",
+  "source_url": "https://github.com/gianevag/meeting-notes-mcp",
+  "install": "npx -y meeting-notes-mcp"
+}

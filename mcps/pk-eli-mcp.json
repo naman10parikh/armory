@@ -1,0 +1,7 @@
+{
+  "name": "pk-eli-mcp",
+  "description": "MCP server for searching and retrieving Pakistani federal statutes and Supreme Court judgments with structured citations, using static HuggingFace datasets.",
+  "source_repo": "matematicsolutions/pk-eli-mcp",
+  "source_url": "https://github.com/matematicsolutions/pk-eli-mcp",
+  "install": "npx -y pk-eli-mcp"
+}

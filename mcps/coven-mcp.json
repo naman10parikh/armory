@@ -1,0 +1,7 @@
+{
+  "name": "coven-mcp",
+  "description": "MCP server for website auditing and AI visibility measurement using the COVEN v2.0.1 methodology, offering tools to scan, score, and optimize sites for agent traffic.",
+  "source_repo": "covenai-dev/coven-mcp",
+  "source_url": "https://github.com/covenai-dev/coven-mcp",
+  "install": "npx -y coven-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "frontdesk-review",
+  "description": "Sourced product prices, dated price history, specs and independent-test coverage across 4,764 hardware products and 2,064 software vendors — every figure returned with its source URL and the date it was captured. Unknown values come back as null rather than a guess, so an agent can cite what it surf",
+  "source_repo": "AlexandDunk/frontdesk-data",
+  "source_url": "https://github.com/AlexandDunk/frontdesk-data",
+  "install": "# git clone --depth 1 https://github.com/AlexandDunk/frontdesk-data\n# See source for mcpServers config block"
+}

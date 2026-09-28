@@ -1,0 +1,7 @@
+{
+  "name": "lease-safe-mcp",
+  "description": "A server for Korean lease and moving safety guidance using official public data. It helps users convert region names, compare deposits, detect contract red flags, and plan move-in protection steps.",
+  "source_repo": "hjongc/lease-safe-mcp",
+  "source_url": "https://github.com/hjongc/lease-safe-mcp",
+  "install": "npx -y lease-safe-mcp"
+}

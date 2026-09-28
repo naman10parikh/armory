@@ -1,0 +1,7 @@
+{
+  "name": "kelivo-file-maker-mcp",
+  "description": "Enables Kelivo to generate text files (TXT, HTML, etc.) from code and return HTTPS download links, with files stored temporarily for 24 hours.",
+  "source_repo": "myra-1106/kelivo-file-mcp",
+  "source_url": "https://github.com/myra-1106/kelivo-file-mcp",
+  "install": "npx -y kelivo-file-mcp"
+}

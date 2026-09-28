@@ -1,0 +1,7 @@
+{
+  "name": "rest-to-mcp",
+  "description": "A bridge that enables any LLM to access and interact with documented REST APIs through the Model Context Protocol (MCP).",
+  "source_repo": "viktormarinho/rest-to-mcp",
+  "source_url": "https://github.com/viktormarinho/rest-to-mcp",
+  "install": "npx -y rest-to-mcp"
+}

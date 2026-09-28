@@ -1,0 +1,7 @@
+{
+  "name": "unityxclaude",
+  "description": "A local MCP server for Unity Editor that provides 20 editor tools to control scripts, scenes, components, assets, and builds.",
+  "source_repo": "agustedire542/unityxclaude",
+  "source_url": "https://github.com/agustedire542/unityxclaude",
+  "install": "# git clone --depth 1 https://github.com/agustedire542/unityxclaude\n# See source for mcpServers config block"
+}

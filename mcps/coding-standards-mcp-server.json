@@ -1,0 +1,7 @@
+{
+  "name": "coding-standards-mcp-server",
+  "description": "Automatically enforces team coding standards in AI-assisted development by providing an MCP server that AI assistants can query for language-specific standards, style guides, and best practices.",
+  "source_repo": "manasvi-turing/coding-standards-mcp",
+  "source_url": "https://github.com/manasvi-turing/coding-standards-mcp",
+  "install": "npx -y coding-standards-mcp"
+}

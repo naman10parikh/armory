@@ -1,0 +1,7 @@
+{
+  "name": "mcp-geodistance",
+  "description": "Geographic coordinate math MCP server providing great-circle distance, destination bearing, and coordinate conversion tools.",
+  "source_repo": "pipeworx-io/mcp-geodistance",
+  "source_url": "https://github.com/pipeworx-io/mcp-geodistance",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-geodistance\n# See source for mcpServers config block"
+}

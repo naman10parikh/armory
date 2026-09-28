@@ -1,0 +1,7 @@
+{
+  "name": "brain-fight-mcp",
+  "description": "An MCP server that stages Angel vs Devil inner conflict debates with deterministic relationship, memory, and turn management, letting client LLMs perform the dialogue.",
+  "source_repo": "rkny6/brain-fight-mcp",
+  "source_url": "https://github.com/rkny6/brain-fight-mcp",
+  "install": "npx -y brain-fight-mcp"
+}

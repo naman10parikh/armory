@@ -1,0 +1,7 @@
+{
+  "name": "sheepit-mcp",
+  "description": "MCP server that lets Claude, Cursor, or any MCP-compatible client drive Sheepit projects — enabling campaign management, destination configuration, dashboard creation, and insights queries directly from a chat interface.",
+  "source_repo": "sheepit-ai/sheepit-mcp",
+  "source_url": "https://github.com/sheepit-ai/sheepit-mcp",
+  "install": "npx -y sheepit-mcp"
+}

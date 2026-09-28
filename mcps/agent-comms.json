@@ -1,0 +1,7 @@
+{
+  "name": "agent-comms",
+  "description": "Cross-harness communication mesh for LLM agents enabling rooms, DMs, presence, and visibility over TCP.",
+  "source_repo": "ExaDev/agent-comms",
+  "source_url": "https://github.com/ExaDev/agent-comms",
+  "install": "# git clone --depth 1 https://github.com/ExaDev/agent-comms\n# See source for mcpServers config block"
+}

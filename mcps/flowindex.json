@@ -1,0 +1,7 @@
+{
+  "name": "flowindex",
+  "description": "Enables AI coding agents to analyze codebase behavior through entrypoints, call paths, and tests, providing impact analysis and context packs for code changes.",
+  "source_repo": "adu3110/flowIndex",
+  "source_url": "https://github.com/adu3110/flowIndex",
+  "install": "# git clone --depth 1 https://github.com/adu3110/flowIndex\n# See source for mcpServers config block"
+}

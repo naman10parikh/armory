@@ -1,0 +1,7 @@
+{
+  "name": "openai-image-gen",
+  "description": "Exposes multiple image generation backends as independent MCP tools for generating images with configurable models and parameters.",
+  "source_repo": "bookandmusic/mcp-openai-image-gen",
+  "source_url": "https://github.com/bookandmusic/mcp-openai-image-gen",
+  "install": "# git clone --depth 1 https://github.com/bookandmusic/mcp-openai-image-gen\n# See source for mcpServers config block"
+}

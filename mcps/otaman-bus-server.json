@@ -1,0 +1,7 @@
+{
+  "name": "otaman-bus-server",
+  "description": "Provides a stdio MCP server for single-user local operation of the otaman platform, enabling agent orchestration, slash commands, and skill management within Claude Code without a remote bridge daemon.",
+  "source_repo": "inprimex/otaman-plugin",
+  "source_url": "https://github.com/inprimex/otaman-plugin",
+  "install": "# git clone --depth 1 https://github.com/inprimex/otaman-plugin\n# See source for mcpServers config block"
+}

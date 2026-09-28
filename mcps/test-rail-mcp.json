@@ -1,0 +1,7 @@
+{
+  "name": "test-rail-mcp",
+  "description": "Lightweight MCP server bridging Cursor to TestRail, exposing get_case_by_id tool to fetch TestRail cases.",
+  "source_repo": "kluchick/test-rail-mcp",
+  "source_url": "https://github.com/kluchick/test-rail-mcp",
+  "install": "npx -y test-rail-mcp"
+}

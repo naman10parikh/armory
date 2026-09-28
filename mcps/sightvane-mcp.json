@@ -1,0 +1,7 @@
+{
+  "name": "sightvane-mcp",
+  "description": "Enables AI assistants to perform comprehensive SEO and GEO measurements, including site audits, keyword research, ranking tracking, and brand visibility analysis across search engines and generative AI platforms.",
+  "source_repo": "BaseHoss/sightvane-mcp",
+  "source_url": "https://github.com/BaseHoss/sightvane-mcp",
+  "install": "npx -y sightvane-mcp"
+}

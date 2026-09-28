@@ -1,0 +1,7 @@
+{
+  "name": "doorknock",
+  "description": "A remote MCP server that researches a company from its own domain and DNS, scores it against a lead profile, and writes the result into HubSpot.",
+  "source_repo": "Aa-ronJS/doorknock",
+  "source_url": "https://github.com/Aa-ronJS/doorknock",
+  "install": "# git clone --depth 1 https://github.com/Aa-ronJS/doorknock\n# See source for mcpServers config block"
+}

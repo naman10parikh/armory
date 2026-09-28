@@ -1,0 +1,7 @@
+{
+  "name": "localterminal-lite",
+  "description": "Bridges ChatGPT with local computer for controlled file and project management, featuring session-based collaboration and diff tracking.",
+  "source_repo": "wyj-IIRtyj/localterminal-lite",
+  "source_url": "https://github.com/wyj-IIRtyj/localterminal-lite",
+  "install": "# git clone --depth 1 https://github.com/wyj-IIRtyj/localterminal-lite\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "camelmailer-mcp-server",
+  "description": "Lets AI assistants send and inspect transactional email via the CamelMailer platform.",
+  "source_repo": "camelmailer/camelmailer-mcp",
+  "source_url": "https://github.com/camelmailer/camelmailer-mcp",
+  "install": "npx -y camelmailer-mcp"
+}

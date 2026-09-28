@@ -1,0 +1,7 @@
+{
+  "name": "arcgis-pittsburgh",
+  "description": "Enables searching and querying City of Pittsburgh GIS open geospatial data (parcels, zoning, public works) through ArcGIS feature services via MCP tools.",
+  "source_repo": "pipeworx-io/mcp-arcgis-pittsburgh",
+  "source_url": "https://github.com/pipeworx-io/mcp-arcgis-pittsburgh",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-arcgis-pittsburgh\n# See source for mcpServers config block"
+}

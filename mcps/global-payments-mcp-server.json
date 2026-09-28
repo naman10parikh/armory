@@ -1,0 +1,7 @@
+{
+  "name": "global-payments-mcp-server",
+  "description": "Enables AI agents to create and manage payment links programmatically via the Global Payments API, supporting single-use and multi-use links, retrieval, and API documentation retrieval.",
+  "source_repo": "globalpayments/mcp-server",
+  "source_url": "https://github.com/globalpayments/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/globalpayments/mcp-server\n# See source for mcpServers config block"
+}

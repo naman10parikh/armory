@@ -1,0 +1,7 @@
+{
+  "name": "crypto-signals-mcp",
+  "description": "MCP server that provides crypto market intelligence signals, risk assessments, and forecasts via the ForgeMesh Crypto Signals API, with paid access through x402 microtransactions on Base.",
+  "source_repo": "forgemeshlabs/crypto-signals-mcp",
+  "source_url": "https://github.com/forgemeshlabs/crypto-signals-mcp",
+  "install": "npx -y crypto-signals-mcp"
+}

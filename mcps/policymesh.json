@@ -1,0 +1,7 @@
+{
+  "name": "policymesh",
+  "description": "PolicyMesh is a governed agentic data API that enforces SQL validation, role-based access control, PII masking, and audit logging at the MCP tool boundary, letting users query governed data through natural language with three MCP tools: query_sql, search_docs (pgvector semantic search), and lookup_m",
+  "source_repo": "deepakmeena61/policymesh",
+  "source_url": "https://github.com/deepakmeena61/policymesh",
+  "install": "# git clone --depth 1 https://github.com/deepakmeena61/policymesh\n# See source for mcpServers config block"
+}

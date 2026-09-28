@@ -1,0 +1,7 @@
+{
+  "name": "shutter-mcp",
+  "description": "A local, read-only MCP server that lets AI agents inspect and analyze photo libraries by scanning files, aggregating EXIF stats, finding duplicates, scoring blur, and generating cull reports without uploading any data.",
+  "source_repo": "keivanmalhani/shutter-mcp",
+  "source_url": "https://github.com/keivanmalhani/shutter-mcp",
+  "install": "npx -y shutter-mcp"
+}

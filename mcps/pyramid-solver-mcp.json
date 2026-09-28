@@ -1,0 +1,7 @@
+{
+  "name": "pyramid-solver-mcp",
+  "description": "Interactive 4x4 sliding puzzle solver with MCP tools to open the widget and solve puzzles via A* or IDA*, plus a browser mode.",
+  "source_repo": "finnestprogrammer111/pyramid-solver-mcp",
+  "source_url": "https://github.com/finnestprogrammer111/pyramid-solver-mcp",
+  "install": "npx -y pyramid-solver-mcp"
+}

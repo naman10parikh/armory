@@ -1,0 +1,7 @@
+{
+  "name": "sensor-bio-mcp-server",
+  "description": "Connects Sensor Bio wearable data to AI assistants via the Model Context Protocol, enabling queries about sleep, heart rate, activity, and other biometrics.",
+  "source_repo": "GetSensr-io/sensorbio-mcp-server",
+  "source_url": "https://github.com/GetSensr-io/sensorbio-mcp-server",
+  "install": "npx -y sensorbio-mcp-server"
+}

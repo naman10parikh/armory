@@ -1,0 +1,7 @@
+{
+  "name": "dotlab-hq-vector-store-mcp",
+  "description": "MCP server for OpenAI Vector Store API, managing vector stores, files, file batches, and semantic search.",
+  "source_repo": "dotlab-hq/vector-store-mcp",
+  "source_url": "https://github.com/dotlab-hq/vector-store-mcp",
+  "install": "npx -y vector-store-mcp"
+}

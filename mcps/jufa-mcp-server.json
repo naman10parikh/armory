@@ -1,0 +1,7 @@
+{
+  "name": "jufa-mcp-server",
+  "description": "Aggregates 12 types of legal data services (judicial cases, laws, contracts, etc.) from Jufa platform into a single MCP server for AI clients.",
+  "source_repo": "jufaai/jufa-mcp-server",
+  "source_url": "https://github.com/jufaai/jufa-mcp-server",
+  "install": "npx -y jufa-mcp-server"
+}

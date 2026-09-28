@@ -1,0 +1,7 @@
+{
+  "name": "uganda-payments-mcp",
+  "description": "Enables AI agents to accept payments in Uganda via MTN Mobile Money, Airtel Money, and cards through Flutterwave's hosted checkout.",
+  "source_repo": "junter1989k-ai/uganda-payments-mcp",
+  "source_url": "https://github.com/junter1989k-ai/uganda-payments-mcp",
+  "install": "npx -y uganda-payments-mcp"
+}

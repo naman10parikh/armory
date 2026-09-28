@@ -1,0 +1,7 @@
+{
+  "name": "moleculer-mcp-bridge",
+  "description": "MCP server that exposes Moleculer.js microservice actions as AI tools, enabling AI agents to interact with Moleculer services.",
+  "source_repo": "alvaroinckot/moleculer-mcp",
+  "source_url": "https://github.com/alvaroinckot/moleculer-mcp",
+  "install": "npx -y moleculer-mcp"
+}

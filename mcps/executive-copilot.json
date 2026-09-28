@@ -1,0 +1,7 @@
+{
+  "name": "executive-copilot",
+  "description": "Aggregates data from email, calendar, tasks, and documents to enable intelligent assistance for AI assistants.",
+  "source_repo": "gppsys/personalcopilot",
+  "source_url": "https://github.com/gppsys/personalcopilot",
+  "install": "# git clone --depth 1 https://github.com/gppsys/personalcopilot\n# See source for mcpServers config block"
+}

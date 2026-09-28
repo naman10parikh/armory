@@ -1,0 +1,7 @@
+{
+  "name": "i18n-tools-mcp",
+  "description": "Enables AI agents to read and write JSON translation files (i18n, i18next, react-i18next) via the Model Context Protocol.",
+  "source_repo": "Trivle/i18n-tools-mcp",
+  "source_url": "https://github.com/Trivle/i18n-tools-mcp",
+  "install": "npx -y i18n-tools-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "investor-lens-mcp",
+  "description": "Provides educational US market analysis by combining exchange rates, stock snapshots, and five famous investor perspectives (Buffett, Graham, Lynch, Dalio, Wood) to generate watchlist ideas, reasoning, risks, and follow-up checks.",
+  "source_repo": "cskwork/investor-lens-mcp",
+  "source_url": "https://github.com/cskwork/investor-lens-mcp",
+  "install": "npx -y investor-lens-mcp"
+}

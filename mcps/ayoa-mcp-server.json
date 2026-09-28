@@ -1,0 +1,7 @@
+{
+  "name": "ayoa-mcp-server",
+  "description": "Exposes Ayoa mindmapping services as MCP tools, enabling mindmap creation, listing, OPML import, and presenter slide capture.",
+  "source_repo": "viniciusfs76/ayoa-mcp-server",
+  "source_url": "https://github.com/viniciusfs76/ayoa-mcp-server",
+  "install": "npx -y ayoa-mcp-server"
+}

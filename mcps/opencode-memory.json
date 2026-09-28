@@ -1,0 +1,7 @@
+{
+  "name": "opencode-memory",
+  "description": "An MCP server providing semantic vector search, dual memory engines, and Git version control for AI clients, enabling persistent memory with recall, forget, and rollback capabilities.",
+  "source_repo": "Shine8592/opencode-memory",
+  "source_url": "https://github.com/Shine8592/opencode-memory",
+  "install": "# git clone --depth 1 https://github.com/Shine8592/opencode-memory\n# See source for mcpServers config block"
+}

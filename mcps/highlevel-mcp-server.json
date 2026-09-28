@@ -1,0 +1,7 @@
+{
+  "name": "highlevel-mcp-server",
+  "description": "Enables AI agents to manage multiple HighLevel CRM sub-accounts through a single OAuth-based MCP server, providing read-only access to contacts, conversations, opportunities, calendars, payments, blogs, emails, and social media.",
+  "source_repo": "isaganiesteron/-brain2-highlevel-mcp-server",
+  "source_url": "https://github.com/isaganiesteron/-brain2-highlevel-mcp-server",
+  "install": "npx -y -brain2-highlevel-mcp-server"
+}

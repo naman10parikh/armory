@@ -1,0 +1,7 @@
+{
+  "name": "ookcite-mcp-server",
+  "description": "An MCP server that validates DOIs, formats citations, manages bibliography collections, and catches fabricated references, returning citation metadata only. It works with MCP clients over stdio and supports both basic and API-key-based usage.",
+  "source_repo": "TurtleTech-ehf/ookcite-mcp",
+  "source_url": "https://github.com/TurtleTech-ehf/ookcite-mcp",
+  "install": "npx -y ookcite-mcp"
+}

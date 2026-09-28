@@ -1,0 +1,7 @@
+{
+  "name": "website-reader-mcp",
+  "description": "Enables AI chat backends to fetch public webpages and return cleaned, readable text, with tools for simple fetching and article extraction.",
+  "source_repo": "nipuman/website-reader-mcp",
+  "source_url": "https://github.com/nipuman/website-reader-mcp",
+  "install": "npx -y website-reader-mcp"
+}

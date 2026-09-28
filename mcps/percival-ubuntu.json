@@ -1,0 +1,7 @@
+{
+  "name": "percival-ubuntu",
+  "description": "Percival Ubuntu is a security-focused MCP server for safe Ubuntu operations, optimized for the Nanobot agent. It enables file management and command execution under strict security policies.",
+  "source_repo": "bill-kopp-ai-dev/percival-ubuntu-mcp",
+  "source_url": "https://github.com/bill-kopp-ai-dev/percival-ubuntu-mcp",
+  "install": "npx -y percival-ubuntu-mcp"
+}

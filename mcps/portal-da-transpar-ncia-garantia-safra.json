@@ -1,0 +1,7 @@
+{
+  "name": "portal-da-transpar-ncia-garantia-safra",
+  "description": "MCP server for consulting official Brazilian Garantia-Safra data from the Portal da Transparência, enabling read-only queries through natural language via any MCP-compatible client.",
+  "source_repo": "mcp-dir/portal_transparencia_safra-mcp",
+  "source_url": "https://github.com/mcp-dir/portal_transparencia_safra-mcp",
+  "install": "npx -y portal_transparencia_safra-mcp"
+}

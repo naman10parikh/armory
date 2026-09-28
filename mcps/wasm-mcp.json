@@ -1,0 +1,7 @@
+{
+  "name": "wasm-mcp",
+  "description": "Read-only, deterministic MCP server for the WebAssembly core specification, enabling querying of instructions, types, sections, proposals, and spec text via tools like instruction_get, section_get, and spec_search.",
+  "source_repo": "xyzzylabs/wasm-mcp",
+  "source_url": "https://github.com/xyzzylabs/wasm-mcp",
+  "install": "npx -y wasm-mcp"
+}

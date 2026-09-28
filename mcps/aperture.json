@@ -1,0 +1,7 @@
+{
+  "name": "aperture",
+  "description": "Enables AI agents to drive a privacy-first browser via MCP, using diff-based page observation to reduce token consumption, and offering secure autofill from a local vault.",
+  "source_repo": "cunninghambe/aperture",
+  "source_url": "https://github.com/cunninghambe/aperture",
+  "install": "# git clone --depth 1 https://github.com/cunninghambe/aperture\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "whats-loaded-mcp",
+  "description": "Shows what is consuming your agent context window before a session starts: always-loaded skill descriptions ranked by token cost, skills installed more than once under different names, CLAUDE.md/AGENTS.md sizes including what their @import lines pull in, and MCP servers configured across clients. Re",
+  "source_repo": "stcmain/whats-loaded-mcp",
+  "source_url": "https://github.com/stcmain/whats-loaded-mcp",
+  "install": "npx -y whats-loaded-mcp"
+}

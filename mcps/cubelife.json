@@ -1,0 +1,7 @@
+{
+  "name": "cubelife",
+  "description": "Give your AI agent a persistent pixel-art character that reflects its state in real time.",
+  "source_repo": "Ivy-Innovation/cubelife",
+  "source_url": "https://github.com/Ivy-Innovation/cubelife",
+  "install": "# git clone --depth 1 https://github.com/Ivy-Innovation/cubelife\n# See source for mcpServers config block"
+}

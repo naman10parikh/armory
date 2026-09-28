@@ -1,0 +1,7 @@
+{
+  "name": "vim-mcp",
+  "description": "Enables Claude Code to connect to and control Vim instances, allowing natural language commands for editing, macros, help searches, and more.",
+  "source_repo": "iggredible/vim-mcp",
+  "source_url": "https://github.com/iggredible/vim-mcp",
+  "install": "npx -y vim-mcp"
+}

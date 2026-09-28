@@ -1,0 +1,7 @@
+{
+  "name": "mcp-blanko-3",
+  "description": "A TypeScript template for building MCP servers with placeholder tools and dual transport support (stdio + SSE).",
+  "source_repo": "StenSeegel/mcp-template",
+  "source_url": "https://github.com/StenSeegel/mcp-template",
+  "install": "# git clone --depth 1 https://github.com/StenSeegel/mcp-template\n# See source for mcpServers config block"
+}

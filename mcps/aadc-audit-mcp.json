@@ -1,0 +1,7 @@
+{
+  "name": "aadc-audit-mcp",
+  "description": "A local MCP server that audits software projects against the UK ICO Age Appropriate Design Code (Children's Code) entirely on the user's machine.",
+  "source_repo": "Paul-PSDigital/aadc-audit-mcp",
+  "source_url": "https://github.com/Paul-PSDigital/aadc-audit-mcp",
+  "install": "npx -y aadc-audit-mcp"
+}

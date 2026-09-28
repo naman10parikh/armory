@@ -1,0 +1,7 @@
+{
+  "name": "sophia-stack-mcp",
+  "description": "Enables external AI agents to edit and manage a self-hosted website via a token-gated MCP server, including page content, data, media, and sandboxed functions with validation and rollback.",
+  "source_repo": "Chorozion/Sophia-Stack",
+  "source_url": "https://github.com/Chorozion/Sophia-Stack",
+  "install": "# git clone --depth 1 https://github.com/Chorozion/Sophia-Stack\n# See source for mcpServers config block"
+}

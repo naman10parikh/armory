@@ -1,0 +1,7 @@
+{
+  "name": "vehicle-mcp-server",
+  "description": "Enables discovery and analysis of automotive brand regional sales data, including brand details, regional store layouts, model sales rankings, and dealer information.",
+  "source_repo": "handaas/vehicle-mcp-server",
+  "source_url": "https://github.com/handaas/vehicle-mcp-server",
+  "install": "npx -y vehicle-mcp-server"
+}

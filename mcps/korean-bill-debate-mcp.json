@@ -1,0 +1,7 @@
+{
+  "name": "korean-bill-debate-mcp",
+  "description": "Enables exploration of Korean National Assembly data by connecting bills, committee reviews, and official records. Allows users to ask natural language questions and receive structured answers with citations to original documents.",
+  "source_repo": "epoko77-ai/korean-bill-debate-mcp",
+  "source_url": "https://github.com/epoko77-ai/korean-bill-debate-mcp",
+  "install": "npx -y korean-bill-debate-mcp"
+}

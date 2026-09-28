@@ -1,0 +1,7 @@
+{
+  "name": "yaml-to-json-converter-mcp-server",
+  "description": "Provides deterministic conversion between YAML and JSON formats, enabling autonomous agents to flawlessly translate complex configurations without LLM formatting errors.",
+  "source_repo": "vinkius-labs/yaml-json-converter-mcp",
+  "source_url": "https://github.com/vinkius-labs/yaml-json-converter-mcp",
+  "install": "npx -y yaml-json-converter-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cinii-mcp",
+  "description": "Enables querying Japan's national academic database, CiNii Research, for articles, books, dissertations, KAKEN projects, and researcher profiles via seven MCP tools.",
+  "source_repo": "ckgerteis/cinii-mcp",
+  "source_url": "https://github.com/ckgerteis/cinii-mcp",
+  "install": "npx -y cinii-mcp"
+}

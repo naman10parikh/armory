@@ -1,0 +1,7 @@
+{
+  "name": "odin-print-farm-mcp",
+  "description": "Enables AI agents to operate a 3D print farm via O.D.I.N. backend, including job queuing, printer control, inventory management, and standalone cost calculators.",
+  "source_repo": "HughKantsime/odin-mcp",
+  "source_url": "https://github.com/HughKantsime/odin-mcp",
+  "install": "npx -y odin-mcp"
+}

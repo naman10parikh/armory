@@ -1,0 +1,7 @@
+{
+  "name": "redpanal-mcp-server",
+  "description": "Enables interaction with the RedPanal audio platform to list, detail, download, and upload audio files.",
+  "source_repo": "audio-research-projects/redpanal-mcp-server",
+  "source_url": "https://github.com/audio-research-projects/redpanal-mcp-server",
+  "install": "npx -y redpanal-mcp-server"
+}

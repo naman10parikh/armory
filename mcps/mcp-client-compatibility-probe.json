@@ -1,0 +1,7 @@
+{
+  "name": "mcp-client-compatibility-probe",
+  "description": "Small diagnostic MCP server for checking what MCP clients actually support, including tools, resources, prompts, and transport behavior.",
+  "source_repo": "kascada/mcp-client-compat-probe",
+  "source_url": "https://github.com/kascada/mcp-client-compat-probe",
+  "install": "# git clone --depth 1 https://github.com/kascada/mcp-client-compat-probe\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "memai",
+  "description": "A long-term memory MCP server for AI agents that stores memories (facts, decisions, etc.) in a single SQLite database with hybrid search and full edit history, ensuring consistency across sessions.",
+  "source_repo": "Filipe-Soares-de-Almeida/MemAI",
+  "source_url": "https://github.com/Filipe-Soares-de-Almeida/MemAI",
+  "install": "# git clone --depth 1 https://github.com/Filipe-Soares-de-Almeida/MemAI\n# See source for mcpServers config block"
+}

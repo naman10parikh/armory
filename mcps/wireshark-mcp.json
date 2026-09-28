@@ -1,0 +1,7 @@
+{
+  "name": "wireshark-mcp",
+  "description": "Enables LLMs to perform automated network forensics, threat hunting, and traffic analysis using Wireshark/TShark.",
+  "source_repo": "Gentle-bae/mcp-wireshark",
+  "source_url": "https://github.com/Gentle-bae/mcp-wireshark",
+  "install": "# git clone --depth 1 https://github.com/Gentle-bae/mcp-wireshark\n# See source for mcpServers config block"
+}

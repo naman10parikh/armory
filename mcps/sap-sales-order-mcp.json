@@ -1,0 +1,7 @@
+{
+  "name": "sap-sales-order-mcp",
+  "description": "MCP server for SAP S/4HANA Sales Order Management that enables natural language queries for sales orders, order details, and line items using SAP's public sandbox API. Built with offline testing, structured errors, and retry policies.",
+  "source_repo": "coding-with-abbi/sap-sales-order-mcp",
+  "source_url": "https://github.com/coding-with-abbi/sap-sales-order-mcp",
+  "install": "npx -y sap-sales-order-mcp"
+}

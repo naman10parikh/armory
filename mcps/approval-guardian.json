@@ -1,0 +1,7 @@
+{
+  "name": "approval-guardian",
+  "description": "Analyzes a wallet's active ERC-20 token approvals and provides prioritized risk assessment along with revoke calldata.",
+  "source_repo": "Baneado98/approval-guardian",
+  "source_url": "https://github.com/Baneado98/approval-guardian",
+  "install": "# git clone --depth 1 https://github.com/Baneado98/approval-guardian\n# See source for mcpServers config block"
+}

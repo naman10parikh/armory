@@ -1,0 +1,7 @@
+{
+  "name": "codehelper",
+  "description": "Local-first code intelligence for AI coding assistants: MCP tools, symbol graph search, impact analysis, and auto-index watch for Cursor, Claude Code, and Codex.",
+  "source_repo": "VeyrForge/codehelper",
+  "source_url": "https://github.com/VeyrForge/codehelper",
+  "install": "# git clone --depth 1 https://github.com/VeyrForge/codehelper\n# See source for mcpServers config block"
+}

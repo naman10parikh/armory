@@ -1,0 +1,7 @@
+{
+  "name": "ghost-in-the-droid",
+  "description": "Give any LLM agent a real Android or iPhone. 62 MCP tools: tap, swipe, type, screenshot, screen-tree reading, app launch, camera, TTS, crash reports, batched execution. Android via ADB, iPhone via WebDriverAgent, on-device inference, Docker+KVM emulators. Works with Claude Code, Cursor, LangChain, L",
+  "source_repo": "ghost-in-the-droid/android-agent",
+  "source_url": "https://github.com/ghost-in-the-droid/android-agent",
+  "install": "# git clone --depth 1 https://github.com/ghost-in-the-droid/android-agent\n# See source for mcpServers config block"
+}

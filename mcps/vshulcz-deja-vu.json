@@ -1,0 +1,7 @@
+{
+  "name": "vshulcz-deja-vu",
+  "description": "Indexes the session histories Claude Code, Codex CLI and opencode already write into a local searchable memory. MCP recall tools, session-start auto-recall, secret redaction at index time, cross-machine sync over SSH.",
+  "source_repo": "vshulcz/deja-vu",
+  "source_url": "https://github.com/vshulcz/deja-vu",
+  "install": "# git clone --depth 1 https://github.com/vshulcz/deja-vu\n# See source for mcpServers config block"
+}

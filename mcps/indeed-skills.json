@@ -1,0 +1,7 @@
+{
+  "name": "indeed-skills",
+  "description": "Live Indeed job-postings data for AI agents via the RolesAPI REST API: search listings by keyword and location, and fetch role details, salary, description, company, and benefits. Available as drop-in agent skills or a hosted remote MCP server.",
+  "source_repo": "nikhonit/indeed-skills",
+  "source_url": "https://github.com/nikhonit/indeed-skills",
+  "install": "# git clone --depth 1 https://github.com/nikhonit/indeed-skills\n# See source for mcpServers config block"
+}

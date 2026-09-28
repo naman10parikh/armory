@@ -1,0 +1,7 @@
+{
+  "name": "claude-codex-computer-use",
+  "description": "An unofficial bridge that lets Claude Code control local macOS applications through an existing OpenAI Computer Use installation by launching the signed Codex client and translating MCP compatibility.",
+  "source_repo": "songkeys/claude-codex-computer-use",
+  "source_url": "https://github.com/songkeys/claude-codex-computer-use",
+  "install": "# git clone --depth 1 https://github.com/songkeys/claude-codex-computer-use\n# See source for mcpServers config block"
+}

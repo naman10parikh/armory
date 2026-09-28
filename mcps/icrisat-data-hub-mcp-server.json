@@ -1,0 +1,7 @@
+{
+  "name": "icrisat-data-hub-mcp-server",
+  "description": "Enables LLMs to search, preview, and query data assets from ICRISAT's federation-first data hub, supporting CSV, Excel, and Word files with SQL access via DuckDB.",
+  "source_repo": "HenokD11/icrisat-data-hub",
+  "source_url": "https://github.com/HenokD11/icrisat-data-hub",
+  "install": "# git clone --depth 1 https://github.com/HenokD11/icrisat-data-hub\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cru-mcp-server",
+  "description": "MCP server for searching and retrieving contracts from the Polish Central Register of Contracts (CRU) via its API.",
+  "source_repo": "przemonides/CRU_MCP",
+  "source_url": "https://github.com/przemonides/CRU_MCP",
+  "install": "npx -y CRU_MCP"
+}

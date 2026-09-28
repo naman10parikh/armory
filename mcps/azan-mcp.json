@@ -1,0 +1,7 @@
+{
+  "name": "azan-mcp",
+  "description": "Azan-MCP is an open-source Model Context Protocol (MCP) server that brings a comprehensive suite of Islamic utilities directly into AI assistants such as Claude Desktop.",
+  "source_repo": "ahmedeltaher/azan-mcp",
+  "source_url": "https://github.com/ahmedeltaher/azan-mcp",
+  "install": "npx -y azan-mcp"
+}

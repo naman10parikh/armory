@@ -1,0 +1,7 @@
+{
+  "name": "two-tower-recsys-mcp",
+  "description": "Provides four MCP tools for neural retrieval: personalized user recommendations, item-to-item similarity, cold-start text search, and explainable recommendation scores, enabling LLM agents to query a trained two-tower recommender over Amazon Reviews data.",
+  "source_repo": "shreyaschhabra/two-tower-recsys-mcp",
+  "source_url": "https://github.com/shreyaschhabra/two-tower-recsys-mcp",
+  "install": "npx -y two-tower-recsys-mcp"
+}

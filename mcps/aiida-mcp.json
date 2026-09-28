@@ -1,0 +1,7 @@
+{
+  "name": "aiida-mcp",
+  "description": "Control plane for AiiDA projects, managing project bindings and worker lifecycles, and exposing an MCP endpoint for the AiiDA ChatGPT plugin.",
+  "source_repo": "ymzhang0/aiida-mcp",
+  "source_url": "https://github.com/ymzhang0/aiida-mcp",
+  "install": "npx -y aiida-mcp"
+}

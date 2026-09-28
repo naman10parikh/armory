@@ -1,0 +1,7 @@
+{
+  "name": "ulink-mcp-server",
+  "description": "Enables AI assistants to manage ULink deep linking projects, including creating smart links, configuring domains, and viewing analytics.",
+  "source_repo": "FlywheelStudio/ulink-mcp-server",
+  "source_url": "https://github.com/FlywheelStudio/ulink-mcp-server",
+  "install": "npx -y ulink-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "premiere-pro-full-mcp",
+  "description": "Enables AI assistants to inspect and control Adobe Premiere Pro 26.3+ on Windows through a fail-closed, capability-gated bridge combining UXP, CEP, experimental QE discovery, and Windows UI Automation.",
+  "source_repo": "muhwagwa0112/premiere-pro-full-mcp",
+  "source_url": "https://github.com/muhwagwa0112/premiere-pro-full-mcp",
+  "install": "npx -y premiere-pro-full-mcp"
+}

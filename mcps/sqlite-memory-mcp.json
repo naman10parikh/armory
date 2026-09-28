@@ -1,0 +1,7 @@
+{
+  "name": "sqlite-memory-mcp",
+  "description": "Governed cross-agent memory for coding agents with hybrid retrieval, provenance tracking, and cross-machine sync.",
+  "source_repo": "RMANOV/sqlite-memory-mcp",
+  "source_url": "https://github.com/RMANOV/sqlite-memory-mcp",
+  "install": "npx -y sqlite-memory-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gamedrop-mcp-server",
+  "description": "Enables AI agents to search, compare prices, and get details on discounted and free games across Steam, Epic, GOG, and Humble Bundle.",
+  "source_repo": "lbeyonl/gameDrop",
+  "source_url": "https://github.com/lbeyonl/gameDrop",
+  "install": "# git clone --depth 1 https://github.com/lbeyonl/gameDrop\n# See source for mcpServers config block"
+}

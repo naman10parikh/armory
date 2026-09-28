@@ -1,0 +1,7 @@
+{
+  "name": "archery-mcp",
+  "description": "A read-only MCP server for Archery that enables secure instance query, ticket management, and restricted SQL execution through AI clients.",
+  "source_repo": "lyj5812/archery-mcp",
+  "source_url": "https://github.com/lyj5812/archery-mcp",
+  "install": "npx -y archery-mcp"
+}

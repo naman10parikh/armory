@@ -1,0 +1,7 @@
+{
+  "name": "listonic-mcp",
+  "description": "Add, edit, and check off items on your Listonic shopping list.",
+  "source_repo": "ArturLys/listonic-mcp",
+  "source_url": "https://github.com/ArturLys/listonic-mcp",
+  "install": "npx -y listonic-mcp"
+}

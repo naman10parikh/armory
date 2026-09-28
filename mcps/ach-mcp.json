@@ -1,0 +1,7 @@
+{
+  "name": "ach-mcp",
+  "description": "An in-editor MCP server that exposes Unity convenience tools to AI assistants, allowing them to read console logs, execute menu items, dump scene hierarchies, and take screenshots.",
+  "source_repo": "achieveonepark/ach-mcp",
+  "source_url": "https://github.com/achieveonepark/ach-mcp",
+  "install": "npx -y ach-mcp"
+}

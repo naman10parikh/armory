@@ -1,0 +1,7 @@
+{
+  "name": "lanhu-mcp-server",
+  "description": "Enables AI coding tools to read Lanhu design data and automate Design to Code, including project browsing, layer tree extraction, DDS semantic components, and code generation.",
+  "source_repo": "DC911360/lanhu-mcp-server",
+  "source_url": "https://github.com/DC911360/lanhu-mcp-server",
+  "install": "npx -y lanhu-mcp-server"
+}

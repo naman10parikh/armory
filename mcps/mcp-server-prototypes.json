@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-prototypes",
+  "description": "Provides three MCP servers for interacting with Excel files, PDF documents, and SQLite databases, enabling AI assistants to read, create, update, and analyze local resources.",
+  "source_repo": "vp2437/mcp-prototypes",
+  "source_url": "https://github.com/vp2437/mcp-prototypes",
+  "install": "# git clone --depth 1 https://github.com/vp2437/mcp-prototypes\n# See source for mcpServers config block"
+}

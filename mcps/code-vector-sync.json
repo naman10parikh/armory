@@ -1,0 +1,7 @@
+{
+  "name": "code-vector-sync",
+  "description": "Enables semantic code search over a local codebase using Qdrant vector embeddings and OpenAI embeddings, allowing natural language queries from MCP-compatible clients like Claude Desktop.",
+  "source_repo": "Abernaughty/code-vector-sync",
+  "source_url": "https://github.com/Abernaughty/code-vector-sync",
+  "install": "# git clone --depth 1 https://github.com/Abernaughty/code-vector-sync\n# See source for mcpServers config block"
+}

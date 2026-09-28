@@ -1,0 +1,7 @@
+{
+  "name": "1c-formsserver",
+  "description": "MCP server for generating, validating, converting, and searching managed 1C:Enterprise forms in three formats: Configurator, Managed, and EDT.",
+  "source_repo": "Desko77/1c-formsserver",
+  "source_url": "https://github.com/Desko77/1c-formsserver",
+  "install": "# git clone --depth 1 https://github.com/Desko77/1c-formsserver\n# See source for mcpServers config block"
+}

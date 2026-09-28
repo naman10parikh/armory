@@ -1,0 +1,7 @@
+{
+  "name": "mcp-coursera-learning-server",
+  "description": "Enables searching, enrolling, and tracking Coursera courses and certificates through LibreChat, with multi-user secure authentication and caching.",
+  "source_repo": "nguyen1oc/mcp-librechat-coursera-via-OP",
+  "source_url": "https://github.com/nguyen1oc/mcp-librechat-coursera-via-OP",
+  "install": "# git clone --depth 1 https://github.com/nguyen1oc/mcp-librechat-coursera-via-OP\n# See source for mcpServers config block"
+}

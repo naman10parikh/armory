@@ -1,0 +1,7 @@
+{
+  "name": "qmd-mcp",
+  "description": "A Streamable HTTP MCP server that packages QMD search and document retrieval with bounded index-maintenance operations, without exposing arbitrary shell execution.",
+  "source_repo": "X1pheR/qmd-mcp",
+  "source_url": "https://github.com/X1pheR/qmd-mcp",
+  "install": "npx -y qmd-mcp"
+}

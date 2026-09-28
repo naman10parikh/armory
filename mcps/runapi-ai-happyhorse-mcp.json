@@ -1,0 +1,7 @@
+{
+  "name": "runapi-ai-happyhorse-mcp",
+  "description": "Enables creating and managing HappyHorse video generation tasks (edit, image-to-video, text-to-video) via RunAPI, with optional polling for completion and pricing lookup.",
+  "source_repo": "runapi-ai/happyhorse-mcp",
+  "source_url": "https://github.com/runapi-ai/happyhorse-mcp",
+  "install": "npx -y happyhorse-mcp"
+}

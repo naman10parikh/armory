@@ -1,0 +1,7 @@
+{
+  "name": "adaptive-agent-harness",
+  "description": "MCP server giving agents a persistent IPython workbench and a brokered RLM engine for durable, stateful computation. Offers 30 tools for bounded model calls, artifacts, and receipts with host-owned authority.",
+  "source_repo": "phenomenoner/adaptive-agent-harness",
+  "source_url": "https://github.com/phenomenoner/adaptive-agent-harness",
+  "install": "# git clone --depth 1 https://github.com/phenomenoner/adaptive-agent-harness\n# See source for mcpServers config block"
+}

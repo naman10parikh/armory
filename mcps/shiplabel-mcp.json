@@ -1,0 +1,7 @@
+{
+  "name": "shiplabel-mcp",
+  "description": "Carrier-agnostic shipping labels as a self-hostable MCP server. Build one shipment request, get a tracking number and a print-ready label back for DHL, DPD, UPS, FedEx, GLS, Sendcloud, and Shipcloud.",
+  "source_repo": "xentral/shiplabel-mcp",
+  "source_url": "https://github.com/xentral/shiplabel-mcp",
+  "install": "npx -y shiplabel-mcp"
+}

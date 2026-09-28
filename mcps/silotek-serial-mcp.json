@@ -1,0 +1,7 @@
+{
+  "name": "silotek-serial-mcp",
+  "description": "A headless MCP server that enables AI tools (like Claude Code) to read and analyze serial logs from embedded boards (ESP32, STM32) for firmware debugging, with read-only tools for log retrieval and a built-in web viewer.",
+  "source_repo": "JOCOIN94/silotek-serial-mcp",
+  "source_url": "https://github.com/JOCOIN94/silotek-serial-mcp",
+  "install": "npx -y silotek-serial-mcp"
+}

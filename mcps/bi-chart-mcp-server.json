@@ -1,6 +1,6 @@
 {
   "name": "bi-chart-mcp-server",
-  "description": "BI Chart MCP Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "c-cf/BI-Chart-MCP-Server",
   "source_url": "https://mcp.so/server/BI-Chart-MCP-Server/c-cf",
   "install": "npx -y BI-Chart-MCP-Server"

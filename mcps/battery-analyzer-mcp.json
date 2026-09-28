@@ -1,0 +1,7 @@
+{
+  "name": "battery-analyzer-mcp",
+  "description": "MCP server for Dunn and GITT battery analysis, enabling calculation of kinetic parameters and diffusion coefficients from cyclic voltammetry and titration data.",
+  "source_repo": "Pankaj-Deswal/battery-analyzer-mcp",
+  "source_url": "https://github.com/Pankaj-Deswal/battery-analyzer-mcp",
+  "install": "npx -y battery-analyzer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "akhq-mcp-server",
+  "description": "Enables AI assistants to interact with Apache Kafka clusters through AKHQ's REST API. Supports multi-environment configuration, flexible authentication, and comprehensive coverage of topics, consumer groups, schema registry, Kafka Connect, ksqlDB, and ACLs.",
+  "source_repo": "seb-noirot/akhq-mcp-server",
+  "source_url": "https://github.com/seb-noirot/akhq-mcp-server",
+  "install": "npx -y akhq-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "simplisafe-mcp",
+  "description": "MCP server for SimpliSafe home security. Enables checking system status, sensors, events, arming/disarming, and controlling smart locks.",
+  "source_repo": "chrischall/simplisafe-mcp",
+  "source_url": "https://github.com/chrischall/simplisafe-mcp",
+  "install": "npx -y simplisafe-mcp"
+}

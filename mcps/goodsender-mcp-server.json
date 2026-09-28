@@ -1,0 +1,7 @@
+{
+  "name": "goodsender-mcp-server",
+  "description": "A local email server for AI assistants that enables sending transactional and marketing emails with template management, recipient groups, and automatic consent flow handling.",
+  "source_repo": "good-sender/mcp",
+  "source_url": "https://github.com/good-sender/mcp",
+  "install": "# git clone --depth 1 https://github.com/good-sender/mcp\n# See source for mcpServers config block"
+}

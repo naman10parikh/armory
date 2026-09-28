@@ -1,0 +1,7 @@
+{
+  "name": "living-atlas-mcp",
+  "description": "Enables local tools to interact with a private-first knowledge graph, with full CRUD access to authorized data while remote AI providers only see approved plaintext through policy-scoped MCP surfaces.",
+  "source_repo": "ProvisioInsights/LivingAtlas",
+  "source_url": "https://github.com/ProvisioInsights/LivingAtlas",
+  "install": "# git clone --depth 1 https://github.com/ProvisioInsights/LivingAtlas\n# See source for mcpServers config block"
+}

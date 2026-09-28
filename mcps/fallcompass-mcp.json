@@ -1,0 +1,7 @@
+{
+  "name": "fallcompass-mcp",
+  "description": "Exposes the 7-prime spine, 7 κ-bands, and 6 fold operations from foldkit as MCP tools and resources for integration with AI assistants.",
+  "source_repo": "sjgant80-hub/fallcompass-mcp",
+  "source_url": "https://github.com/sjgant80-hub/fallcompass-mcp",
+  "install": "npx -y fallcompass-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "appium-mcp-auth",
+  "description": "Authentication and authorization plugin for appium-mcp, adding bearer API keys, OAuth JWT, session tokens, scope-based authorization, rate limiting, and per-session ownership when running over SSE/HTTP Stream.",
+  "source_repo": "appclawhq/appium-mcp-auth",
+  "source_url": "https://github.com/appclawhq/appium-mcp-auth",
+  "install": "# git clone --depth 1 https://github.com/appclawhq/appium-mcp-auth\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "simple-slack-mcp-server",
+  "description": "A simplified MCP server for accessing Slack API, enabling AI assistants to list channels, post messages, reply to threads, add reactions, and get channel history.",
+  "source_repo": "bugzy-ai/slack-mcp-server",
+  "source_url": "https://github.com/bugzy-ai/slack-mcp-server",
+  "install": "npx -y slack-mcp-server"
+}

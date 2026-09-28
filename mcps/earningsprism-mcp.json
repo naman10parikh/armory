@@ -1,0 +1,7 @@
+{
+  "name": "earningsprism-mcp",
+  "description": "Real-time AI-summarised SEC filing intelligence for Claude, Cursor, and any MCP-compatible AI client.",
+  "source_repo": "investmentchacha-wq/earningsprism-mcp",
+  "source_url": "https://github.com/investmentchacha-wq/earningsprism-mcp",
+  "install": "npx -y earningsprism-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vista-api-mcp-server",
+  "description": "Provides secure access to VA's VistA electronic health record system, enabling AI applications to retrieve and summarize patient medical records for clinical staff.",
+  "source_repo": "department-of-veterans-affairs/octo-vista-api-x-mcp-server-example",
+  "source_url": "https://github.com/department-of-veterans-affairs/octo-vista-api-x-mcp-server-example",
+  "install": "# git clone --depth 1 https://github.com/department-of-veterans-affairs/octo-vista-api-x-mcp-server-example\n# See source for mcpServers config block"
+}

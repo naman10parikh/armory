@@ -1,0 +1,7 @@
+{
+  "name": "openrouter-custom-image-generation-mcp-server",
+  "description": "Generates images using OpenRouter models and retrieves user-uploaded images from LibreChat database, enabling image generation and editing with reference images.",
+  "source_repo": "nguyen1oc/mcp-librechat-image-generation-via-OP",
+  "source_url": "https://github.com/nguyen1oc/mcp-librechat-image-generation-via-OP",
+  "install": "# git clone --depth 1 https://github.com/nguyen1oc/mcp-librechat-image-generation-via-OP\n# See source for mcpServers config block"
+}

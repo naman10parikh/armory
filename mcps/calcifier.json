@@ -1,0 +1,7 @@
+{
+  "name": "calcifier",
+  "description": "MCP server for the Calcifier smart camping lamp, enabling control of lamp state, brightness, color temperature, mode, and battery charging via natural language with Claude.",
+  "source_repo": "caffeineworks-ai/calcifier",
+  "source_url": "https://github.com/caffeineworks-ai/calcifier",
+  "install": "# git clone --depth 1 https://github.com/caffeineworks-ai/calcifier\n# See source for mcpServers config block"
+}

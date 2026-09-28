@@ -1,0 +1,7 @@
+{
+  "name": "kuma",
+  "description": "Zero-setup safety toolkit for AI coding agents with 16 built-in tools for context gathering, safe file editing, validation, and session memory. Features rollback, circuit breaker, sandbox, timeout, and dangerous pattern blocking — no config, no API key, no database required.",
+  "source_repo": "plumpslabs/kuma",
+  "source_url": "https://github.com/plumpslabs/kuma",
+  "install": "# git clone --depth 1 https://github.com/plumpslabs/kuma\n# See source for mcpServers config block"
+}

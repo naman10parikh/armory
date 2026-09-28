@@ -1,0 +1,7 @@
+{
+  "name": "fieldroutes-mcp-server",
+  "description": "Enables Claude to look up customers, check routes, view appointments, pull service history, and access FieldRoutes data directly in conversation.",
+  "source_repo": "glbryce7795/fieldroutes-mcp",
+  "source_url": "https://github.com/glbryce7795/fieldroutes-mcp",
+  "install": "npx -y fieldroutes-mcp"
+}

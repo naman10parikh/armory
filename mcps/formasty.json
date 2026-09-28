@@ -1,0 +1,7 @@
+{
+  "name": "formasty",
+  "description": "Enables AI agents to build and operate production-ready forms, quizzes, surveys, and workflows, including creation, publishing, submission management, and integration with webhooks and analytics.",
+  "source_repo": "QuantumCoderSys/formasty-mcp",
+  "source_url": "https://github.com/QuantumCoderSys/formasty-mcp",
+  "install": "npx -y formasty-mcp"
+}

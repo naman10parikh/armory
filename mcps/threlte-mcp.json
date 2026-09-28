@@ -1,0 +1,7 @@
+{
+  "name": "threlte-mcp",
+  "description": "An MCP server for inspecting and manipulating Three.js/Threlte scenes in real-time.",
+  "source_repo": "SerifeusStudio/threlte-mcp",
+  "source_url": "https://github.com/SerifeusStudio/threlte-mcp",
+  "install": "npx -y threlte-mcp"
+}

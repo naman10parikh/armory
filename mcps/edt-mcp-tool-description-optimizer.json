@@ -1,0 +1,7 @@
+{
+  "name": "edt-mcp-tool-description-optimizer",
+  "description": "Optimizes EDT MCP tool descriptions by replacing verbose documentation with concise summaries stored in SQLite, reducing context usage while allowing on-demand retrieval of full tool guides.",
+  "source_repo": "VVi3ard/edt-mcp-tool-description-optimizer",
+  "source_url": "https://github.com/VVi3ard/edt-mcp-tool-description-optimizer",
+  "install": "# git clone --depth 1 https://github.com/VVi3ard/edt-mcp-tool-description-optimizer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kiwi-tcms-mcp",
+  "description": "An MCP server that exposes Kiwi TCMS as a set of AI-callable tools, enabling assistants to create and manage test plans, test cases, test runs, and executions directly from a conversation.",
+  "source_repo": "danish54/kiwi-tcms-mcp-server",
+  "source_url": "https://github.com/danish54/kiwi-tcms-mcp-server",
+  "install": "npx -y kiwi-tcms-mcp-server"
+}

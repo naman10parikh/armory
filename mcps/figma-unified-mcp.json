@@ -1,0 +1,7 @@
+{
+  "name": "figma-unified-mcp",
+  "description": "A comprehensive MCP server that enables Claude to read, create, edit, and generate code from Figma designs. Supports design tokens, code generation to multiple frameworks, and accessibility checks.",
+  "source_repo": "sso-ss/figma-unified-mcp",
+  "source_url": "https://github.com/sso-ss/figma-unified-mcp",
+  "install": "npx -y figma-unified-mcp"
+}

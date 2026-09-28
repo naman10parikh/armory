@@ -1,0 +1,7 @@
+{
+  "name": "local-memory-mcp",
+  "description": "A local MCP server that provides semantic memory storage and retrieval for coding and AI agents, enabling durable context across chat sessions.",
+  "source_repo": "basst85/local-memory-mcp",
+  "source_url": "https://github.com/basst85/local-memory-mcp",
+  "install": "npx -y local-memory-mcp"
+}

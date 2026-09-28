@@ -1,0 +1,7 @@
+{
+  "name": "pax8-mcp",
+  "description": "Stateless HTTP MCP service that exposes the Pax8 Partner API as tools for AI assistants to query companies, subscriptions, invoices, orders, products, and usage data.",
+  "source_repo": "MSPbotsAI/pax8-mcp",
+  "source_url": "https://github.com/MSPbotsAI/pax8-mcp",
+  "install": "npx -y pax8-mcp"
+}

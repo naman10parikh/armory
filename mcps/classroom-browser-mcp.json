@@ -1,0 +1,7 @@
+{
+  "name": "classroom-browser-mcp",
+  "description": "A read-only MCP server that automates Google Classroom web pages for accounts without OAuth access, enabling search and reading of courses, classwork, and attachments.",
+  "source_repo": "tirbofish/google-classroom-mcp",
+  "source_url": "https://github.com/tirbofish/google-classroom-mcp",
+  "install": "npx -y google-classroom-mcp"
+}

@@ -1,6 +1,6 @@
 {
   "name": "model-context-provider-server",
-  "description": "Model Context Provider Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "bizprat/model-context-provider-server",
   "source_url": "https://mcp.so/server/model-context-provider-server/bizprat",
   "install": "# git clone --depth 1 https://mcp.so/server/model-context-provider-server/bizprat\n# See source for mcpServers config block"

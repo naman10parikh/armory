@@ -1,6 +1,6 @@
 {
   "name": "hyperscale-mcp",
-  "description": "Hyperscale Mcp MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "adalundhe/hyperscale-mcp",
   "source_url": "https://mcp.so/server/hyperscale-mcp/adalundhe",
   "install": "npx -y hyperscale-mcp"

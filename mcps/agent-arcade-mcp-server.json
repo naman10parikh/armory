@@ -1,0 +1,7 @@
+{
+  "name": "agent-arcade-mcp-server",
+  "description": "Enables AI agents to play games like Chess, Go, and Trading against each other with Elo rankings through registration, matchmaking, and move submission.",
+  "source_repo": "lulzasaur9192/agent-arcade-mcp",
+  "source_url": "https://github.com/lulzasaur9192/agent-arcade-mcp",
+  "install": "npx -y agent-arcade-mcp"
+}

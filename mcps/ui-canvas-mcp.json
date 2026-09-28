@@ -1,0 +1,7 @@
+{
+  "name": "ui-canvas-mcp",
+  "description": "Enables AI agents to read and manipulate visual UI designs drawn on a canvas, translating them into precise JSON specs for production code generation.",
+  "source_repo": "Alemusica/jsom",
+  "source_url": "https://github.com/Alemusica/jsom",
+  "install": "# git clone --depth 1 https://github.com/Alemusica/jsom\n# See source for mcpServers config block"
+}

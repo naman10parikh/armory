@@ -1,0 +1,7 @@
+{
+  "name": "dsh-antibrow",
+  "description": "An MCP server that provides an antidetect browser with persistent profiles, proxy support, and page control tools (16 tools) for agents, enabling identity-stable browsing sessions across runs.",
+  "source_repo": "antibrow/dsh-antibrow",
+  "source_url": "https://github.com/antibrow/dsh-antibrow",
+  "install": "# git clone --depth 1 https://github.com/antibrow/dsh-antibrow\n# See source for mcpServers config block"
+}

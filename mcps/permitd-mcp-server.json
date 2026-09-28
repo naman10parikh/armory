@@ -1,0 +1,7 @@
+{
+  "name": "permitd-mcp-server",
+  "description": "Gates agent tool execution with human approval, audit trails, and replay-resistant permits, enabling safe use of tools in agent loops.",
+  "source_repo": "hbar-systems/permitd",
+  "source_url": "https://github.com/hbar-systems/permitd",
+  "install": "# git clone --depth 1 https://github.com/hbar-systems/permitd\n# See source for mcpServers config block"
+}

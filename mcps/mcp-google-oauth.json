@@ -1,0 +1,7 @@
+{
+  "name": "mcp-google-oauth",
+  "description": "MCP server with built-in Google OAuth 2.0 authentication, enabling secure tool access via Google sign-in with automatic token lifecycle management and optional domain restriction for Google Workspace organizations.",
+  "source_repo": "hungvietdo/mcp-google-oauth",
+  "source_url": "https://github.com/hungvietdo/mcp-google-oauth",
+  "install": "# git clone --depth 1 https://github.com/hungvietdo/mcp-google-oauth\n# See source for mcpServers config block"
+}

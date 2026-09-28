@@ -1,0 +1,7 @@
+{
+  "name": "schemabrain",
+  "description": "SchemaBrain is an MCP server that sits between AI agents (Claude, Cursor, Windsurf) and your SQL database as a read-only trust + intelligence layer. The agent never writes SQL — 12 tools compile it from definitions you control, PII and secret categories are refused before the query runs, and every c",
+  "source_repo": "Arun-kc/schemabrain",
+  "source_url": "https://github.com/Arun-kc/schemabrain",
+  "install": "# git clone --depth 1 https://github.com/Arun-kc/schemabrain\n# See source for mcpServers config block"
+}

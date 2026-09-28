@@ -1,0 +1,7 @@
+{
+  "name": "entrapulse-polyarchy",
+  "description": "Interactive visualization of Microsoft Entra ID identity relationships, enabling exploration of org charts, groups, attributes, and access assignments through a D3 force-directed graph within MCP clients.",
+  "source_repo": "darrenjrobinson/entrapulse-polyarchy",
+  "source_url": "https://github.com/darrenjrobinson/entrapulse-polyarchy",
+  "install": "# git clone --depth 1 https://github.com/darrenjrobinson/entrapulse-polyarchy\n# See source for mcpServers config block"
+}

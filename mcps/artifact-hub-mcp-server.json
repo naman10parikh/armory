@@ -1,0 +1,7 @@
+{
+  "name": "artifact-hub-mcp-server",
+  "description": "A centralized, Git-backed knowledge base and MCP server for teams to store, search, and reuse agent-generated artifacts like skills, specs, plans, reviews, and ADRs, with IDE/Agent integration and a Dashboard for governance.",
+  "source_repo": "123XiaoYi321/artifact-hub",
+  "source_url": "https://github.com/123XiaoYi321/artifact-hub",
+  "install": "# git clone --depth 1 https://github.com/123XiaoYi321/artifact-hub\n# See source for mcpServers config block"
+}

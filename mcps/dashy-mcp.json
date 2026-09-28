@@ -1,0 +1,7 @@
+{
+  "name": "dashy-mcp",
+  "description": "MCP server exposing Dashy's REST API as tools, enabling an LLM to read and edit dashboard config, including sections, items, and top-level config keys.",
+  "source_repo": "SavageCore/dashy-mcp",
+  "source_url": "https://github.com/SavageCore/dashy-mcp",
+  "install": "npx -y dashy-mcp"
+}

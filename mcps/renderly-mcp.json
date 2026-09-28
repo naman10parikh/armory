@@ -1,0 +1,7 @@
+{
+  "name": "renderly-mcp",
+  "description": "Enables AI agents to capture clean web screenshots and extract main article content from any web page, with automatic removal of cookie banners, ads, and boilerplate.",
+  "source_repo": "xufei547/renderly-mcp",
+  "source_url": "https://github.com/xufei547/renderly-mcp",
+  "install": "npx -y renderly-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "l6e-mcp",
+  "description": "Enables AI coding agents to set budgets per task, check costs before expensive operations, and halt when budget is exhausted, with support for calibration and cloud sync.",
+  "source_repo": "l6e-ai/l6e-mcp",
+  "source_url": "https://github.com/l6e-ai/l6e-mcp",
+  "install": "npx -y l6e-mcp"
+}

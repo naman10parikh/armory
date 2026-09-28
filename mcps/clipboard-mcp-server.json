@@ -1,0 +1,7 @@
+{
+  "name": "clipboard-mcp-server",
+  "description": "Read, write, and inspect the system clipboard across macOS, Linux (X11/Wayland), and Windows via MCP.",
+  "source_repo": "cyanheads/clipboard-mcp-server",
+  "source_url": "https://github.com/cyanheads/clipboard-mcp-server",
+  "install": "npx -y clipboard-mcp-server"
+}

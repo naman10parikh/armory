@@ -1,0 +1,7 @@
+{
+  "name": "annolux-mcp",
+  "description": "Enables AI agents to run curated English and Chinese web searches through a single search_web MCP tool, returning each result with explicit fetched_at timestamps for grounded, provenance-aware answers.",
+  "source_repo": "eason4kim-rocket/annolux",
+  "source_url": "https://github.com/eason4kim-rocket/annolux",
+  "install": "# git clone --depth 1 https://github.com/eason4kim-rocket/annolux\n# See source for mcpServers config block"
+}

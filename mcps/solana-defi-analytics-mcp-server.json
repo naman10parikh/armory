@@ -1,0 +1,7 @@
+{
+  "name": "solana-defi-analytics-mcp-server",
+  "description": "Provides comprehensive analytics and insights for Solana wallets and their DeFi activities, including transaction tracking, DeFi position monitoring, risk profiling, and strategy recommendations.",
+  "source_repo": "kirtiraj22/Solana-DeFi-Analytics-MCP-Server",
+  "source_url": "https://github.com/kirtiraj22/Solana-DeFi-Analytics-MCP-Server",
+  "install": "npx -y Solana-DeFi-Analytics-MCP-Server"
+}

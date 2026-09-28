@@ -1,0 +1,7 @@
+{
+  "name": "esp-rainmaker-mcp-server",
+  "description": "Enables MCP-compatible clients to interact with ESP RainMaker devices for node management, parameter control, scheduling, and group management via the official CLI.",
+  "source_repo": "espressif/esp-rainmaker-mcp",
+  "source_url": "https://github.com/espressif/esp-rainmaker-mcp",
+  "install": "npx -y esp-rainmaker-mcp"
+}

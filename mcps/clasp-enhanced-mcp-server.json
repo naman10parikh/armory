@@ -1,0 +1,7 @@
+{
+  "name": "clasp-enhanced-mcp-server",
+  "description": "Provides comprehensive management of Google Apps Script projects via clasp CLI, enabling AI assistants to create, clone, deploy, and run scripts with full version control and deployment management.",
+  "source_repo": "redmorestudio/clasp-enhanced-mcp",
+  "source_url": "https://github.com/redmorestudio/clasp-enhanced-mcp",
+  "install": "npx -y clasp-enhanced-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "companion-mcp",
+  "description": "An MCP server for Bitfocus Companion that enables AI assistants to program and control Stream Deck surfaces and other Companion-connected devices. It provides 53 tools for button control, styling, page management, variable handling, and batch operations with verification and rollback.",
+  "source_repo": "drohi-r/companion-mcp",
+  "source_url": "https://github.com/drohi-r/companion-mcp",
+  "install": "npx -y companion-mcp"
+}

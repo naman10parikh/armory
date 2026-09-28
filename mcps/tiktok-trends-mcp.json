@@ -1,0 +1,7 @@
+{
+  "name": "tiktok-trends-mcp",
+  "description": "Provides TikTok hashtag trend data including volume growth, viral spikes, and historical time series, enabling AI assistants to spot emerging trends before they go mainstream.",
+  "source_repo": "trendsmcp/tiktok-trends-mcp",
+  "source_url": "https://github.com/trendsmcp/tiktok-trends-mcp",
+  "install": "npx -y tiktok-trends-mcp"
+}

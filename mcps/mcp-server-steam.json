@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-steam",
+  "description": "Integrates with Steam Web API to enable querying user profiles, game libraries, store data, and community features like reviews and workshop items.",
+  "source_repo": "deuxksy/mcp-server-steam",
+  "source_url": "https://github.com/deuxksy/mcp-server-steam",
+  "install": "# git clone --depth 1 https://github.com/deuxksy/mcp-server-steam\n# See source for mcpServers config block"
+}

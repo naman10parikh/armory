@@ -1,0 +1,7 @@
+{
+  "name": "tello-mcp",
+  "description": "MCP server that connects a local LLM to a DJI Tello drone via UDP, enabling natural language flight planning and execution with safety-focused separation of plan and execution, plus a full simulator for development.",
+  "source_repo": "Denisijcu/mcp-tello",
+  "source_url": "https://github.com/Denisijcu/mcp-tello",
+  "install": "# git clone --depth 1 https://github.com/Denisijcu/mcp-tello\n# See source for mcpServers config block"
+}

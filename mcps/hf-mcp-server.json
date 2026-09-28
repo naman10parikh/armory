@@ -1,0 +1,7 @@
+{
+  "name": "hf-mcp-server",
+  "description": "Provides direct access to the Hugging Face Hub for searching models and datasets, fetching metadata, and running inference on text, images, and audio.",
+  "source_repo": "javica98/hf-mcp-server",
+  "source_url": "https://github.com/javica98/hf-mcp-server",
+  "install": "npx -y hf-mcp-server"
+}

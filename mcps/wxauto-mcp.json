@@ -1,0 +1,7 @@
+{
+  "name": "wxauto-mcp",
+  "description": "Windows微信自动化MCP服务，提供UIA探测、加好友、发送消息、读取消息、发布朋友圈等工具，通过单消费者队列串行执行真实动作。",
+  "source_repo": "YangChengTeam/wxauto",
+  "source_url": "https://github.com/YangChengTeam/wxauto",
+  "install": "# git clone --depth 1 https://github.com/YangChengTeam/wxauto\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lumu-mcp-server",
+  "description": "An MCP server that integrates Claude Desktop with the Lumu Defender API for AI-powered security incident analysis and management.",
+  "source_repo": "lumutech/lumu-mcp",
+  "source_url": "https://github.com/lumutech/lumu-mcp",
+  "install": "npx -y lumu-mcp"
+}

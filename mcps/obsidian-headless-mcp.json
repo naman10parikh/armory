@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-headless-mcp",
+  "description": "MCP server that provides tools and resources for AI models to interact with an Obsidian vault, enabling file operations, search, and management via the Model Context Protocol.",
+  "source_repo": "seb7152/obsidian-headless-mcp",
+  "source_url": "https://github.com/seb7152/obsidian-headless-mcp",
+  "install": "npx -y obsidian-headless-mcp"
+}

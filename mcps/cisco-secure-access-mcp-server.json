@@ -1,0 +1,7 @@
+{
+  "name": "cisco-secure-access-mcp-server",
+  "description": "Enables AI agents to investigate threats, pull reports, manage security policies, and administer deployment infrastructure through the Cisco Secure Access REST API.",
+  "source_repo": "ACSmith1337/cisco-secure-access-mcp",
+  "source_url": "https://github.com/ACSmith1337/cisco-secure-access-mcp",
+  "install": "npx -y cisco-secure-access-mcp"
+}

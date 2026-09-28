@@ -1,0 +1,7 @@
+{
+  "name": "mcp-security-toolkit",
+  "description": "An MCP server that wraps Trivy and Gitleaks to provide file system vulnerability and secret scanning as tools for AI agents, enabling local, free security analysis.",
+  "source_repo": "teodorio95-portofolio/mcp-security-toolkit",
+  "source_url": "https://github.com/teodorio95-portofolio/mcp-security-toolkit",
+  "install": "# git clone --depth 1 https://github.com/teodorio95-portofolio/mcp-security-toolkit\n# See source for mcpServers config block"
+}

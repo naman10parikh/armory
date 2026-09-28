@@ -1,0 +1,7 @@
+{
+  "name": "fetchcraft-mcp",
+  "description": "Enables B2B research by finding verified work emails, extracting contacts, detecting tech stacks, and profiling DNS and SaaS, all through a suite of MCP tools.",
+  "source_repo": "emily397/fetchcraft-mcp",
+  "source_url": "https://github.com/emily397/fetchcraft-mcp",
+  "install": "npx -y fetchcraft-mcp"
+}

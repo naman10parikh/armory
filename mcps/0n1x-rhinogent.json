@@ -1,0 +1,7 @@
+{
+  "name": "0n1x-rhinogent",
+  "description": "Provides AI agents with a self-custody identity and MCP server for verifying counterparties, signing facts, and carrying portable reputation within the 0n1x trust ecosystem.",
+  "source_repo": "dimitrilaouanis-tech/rhinogent-mcp",
+  "source_url": "https://github.com/dimitrilaouanis-tech/rhinogent-mcp",
+  "install": "npx -y rhinogent-mcp"
+}

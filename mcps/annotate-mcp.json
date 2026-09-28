@@ -1,0 +1,7 @@
+{
+  "name": "annotate-mcp",
+  "description": "MCP server that opens a browser and adds a comment/pencil overlay to every page, letting you annotate live sites and send the marks to your coding agent.",
+  "source_repo": "ElaineMHr/annotate-mcp",
+  "source_url": "https://github.com/ElaineMHr/annotate-mcp",
+  "install": "npx -y annotate-mcp"
+}

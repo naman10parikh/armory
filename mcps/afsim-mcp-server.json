@@ -1,0 +1,7 @@
+{
+  "name": "afsim-mcp-server",
+  "description": "Enables LLMs and AI agents to interact with AFSIM through standardized MCP tools for scenario management, entity/component control, simulation execution, and results analysis.",
+  "source_repo": "Yookio-Z/AFSIM_MCP",
+  "source_url": "https://github.com/Yookio-Z/AFSIM_MCP",
+  "install": "npx -y AFSIM_MCP"
+}

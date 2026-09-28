@@ -1,0 +1,7 @@
+{
+  "name": "meetbot",
+  "description": "Meet.bot is AI-native scheduling for people and agents. Check real calendar availability and book meetings on Google and Microsoft calendars through scheduling pages — and pay per meeting booked, not per user or seat. Actions: Book Meeting, Find Slots, Get Scheduling Page Info.",
+  "source_repo": "poolside-ventures/meetbot-mcp",
+  "source_url": "https://github.com/poolside-ventures/meetbot-mcp",
+  "install": "npx -y meetbot-mcp"
+}

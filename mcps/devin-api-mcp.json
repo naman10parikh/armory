@@ -1,0 +1,7 @@
+{
+  "name": "devin-api-mcp",
+  "description": "Provides full Devin API coverage via MCP servers, enabling programmatic management of sessions, knowledge, playbooks, secrets, schedules, and attachments, plus a documentation-only DeepWiki proxy.",
+  "source_repo": "jsklan/devin-api-mcp",
+  "source_url": "https://github.com/jsklan/devin-api-mcp",
+  "install": "npx -y devin-api-mcp"
+}

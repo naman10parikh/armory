@@ -1,0 +1,7 @@
+{
+  "name": "shadow-monitor-mcp",
+  "description": "Enables AI agents to inspect Shadow Monitor capture files locally, with tools to load bundles, find errors, search network requests, and replay user actions.",
+  "source_repo": "yurii-mandzii/shadow-monitor-mcp",
+  "source_url": "https://github.com/yurii-mandzii/shadow-monitor-mcp",
+  "install": "npx -y shadow-monitor-mcp"
+}

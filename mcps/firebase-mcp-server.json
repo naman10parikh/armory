@@ -1,0 +1,7 @@
+{
+  "name": "firebase-mcp-server",
+  "description": "A general-purpose MCP server for Firebase that enables natural language interaction with Firestore, Auth, Storage, and Cloud Functions logs through schema-driven validation and context-efficient tools.",
+  "source_repo": "dasasian/firebase-mcp-server",
+  "source_url": "https://github.com/dasasian/firebase-mcp-server",
+  "install": "npx -y firebase-mcp-server"
+}

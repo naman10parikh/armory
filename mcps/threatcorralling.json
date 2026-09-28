@@ -1,0 +1,7 @@
+{
+  "name": "threatcorralling",
+  "description": "An MCP server that automates vulnerability correlation across security tools like Checkmarx and Tenable, using LLMs to determine reachability, map compliance controls (SOC2, ISO27001), and generate remediation and regression testing patterns.",
+  "source_repo": "giraldomauricio/threatcorraling",
+  "source_url": "https://github.com/giraldomauricio/threatcorraling",
+  "install": "# git clone --depth 1 https://github.com/giraldomauricio/threatcorraling\n# See source for mcpServers config block"
+}

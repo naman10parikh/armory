@@ -1,0 +1,7 @@
+{
+  "name": "presonus-studiolive-mcp",
+  "description": "Connects AI coding agents to PreSonus StudioLive III mixers over the local network, exposing live mixer context such as channel names, mute/solo/fader state, Fat Channel compressor/EQ models, and meter activity as MCP resources and tools for reading and reasoning about live sound engineering.",
+  "source_repo": "zarfld/presonus-studiolive-mcp",
+  "source_url": "https://github.com/zarfld/presonus-studiolive-mcp",
+  "install": "npx -y presonus-studiolive-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt-consulta-processual-unificada",
+  "description": "MCP server for querying Brazilian Labor Court (TRT) legal proceedings from official sources, offering a read-only tool for unified procedural consultation.",
+  "source_repo": "mcp-dir/tribunal_trt_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt_processo-mcp",
+  "install": "npx -y tribunal_trt_processo-mcp"
+}

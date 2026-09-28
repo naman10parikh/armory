@@ -1,0 +1,7 @@
+{
+  "name": "falldental-mcp",
+  "description": "Enables sovereign, offline-capable dental practice management with Ed25519-signed transactions, running on your own infrastructure.",
+  "source_repo": "sjgant80-hub/falldental-mcp",
+  "source_url": "https://github.com/sjgant80-hub/falldental-mcp",
+  "install": "npx -y falldental-mcp"
+}

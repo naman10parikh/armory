@@ -1,0 +1,7 @@
+{
+  "name": "surge-mcp-server",
+  "description": "Enables natural language control of Surge proxy, including toggling features, managing policies, requests, DNS, and device settings via the Surge HTTP API.",
+  "source_repo": "DLYZZT/surge-mcp-server",
+  "source_url": "https://github.com/DLYZZT/surge-mcp-server",
+  "install": "npx -y surge-mcp-server"
+}

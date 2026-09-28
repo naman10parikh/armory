@@ -1,0 +1,7 @@
+{
+  "name": "myfitnesspal-mcp-server",
+  "description": "Enables Claude to manage MyFitnessPal food diaries, nutrition goals, exercises, body measurements, and water intake via a remote MCP server using session cookie authentication.",
+  "source_repo": "delize/myfitness-mcp",
+  "source_url": "https://github.com/delize/myfitness-mcp",
+  "install": "npx -y myfitness-mcp"
+}

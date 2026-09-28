@@ -1,0 +1,7 @@
+{
+  "name": "ix64mcp",
+  "description": "Connects AI agents to IDA Pro and x64dbg for unified static and dynamic reverse engineering, enabling coordinated analysis, debugging, and patch planning through a local MCP daemon.",
+  "source_repo": "lowcort1sol/ida-x64dbg-mcp",
+  "source_url": "https://github.com/lowcort1sol/ida-x64dbg-mcp",
+  "install": "npx -y ida-x64dbg-mcp"
+}

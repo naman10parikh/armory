@@ -1,0 +1,7 @@
+{
+  "name": "legal-research-mcp",
+  "description": "Provides tools to search, retrieve, and trace German tax law statutes (KStG, EStG, AO, GewSt) from gesetze-im-internet.de, including amendment tracking.",
+  "source_repo": "kheidkamp/legal-research-mcp",
+  "source_url": "https://github.com/kheidkamp/legal-research-mcp",
+  "install": "npx -y legal-research-mcp"
+}

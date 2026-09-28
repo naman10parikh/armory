@@ -1,0 +1,7 @@
+{
+  "name": "devtools-lens-mcp",
+  "description": "Enables AI agents to inspect and control a live Chromium browser for frontend debugging, providing console logs, network requests, DOM snapshots, and accessibility analysis.",
+  "source_repo": "aakcay5656/devtools-lens-mcp",
+  "source_url": "https://github.com/aakcay5656/devtools-lens-mcp",
+  "install": "npx -y devtools-lens-mcp"
+}

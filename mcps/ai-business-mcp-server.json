@@ -1,0 +1,7 @@
+{
+  "name": "ai-business-mcp-server",
+  "description": "A production-style MCP server exposing six business tools (web search, database, CRM, email, calendar, analytics) to AI clients via a secure, authenticated interface, with mock mode and a reference agent client.",
+  "source_repo": "sohaggain/ai-business-mcp-server",
+  "source_url": "https://github.com/sohaggain/ai-business-mcp-server",
+  "install": "npx -y ai-business-mcp-server"
+}

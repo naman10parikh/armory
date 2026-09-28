@@ -1,0 +1,7 @@
+{
+  "name": "soporte-ti-mcp",
+  "description": "MCP server that provides IT support tools to search known incidents, check ticket status, and create ticket drafts, enabling an AI assistant to help users with IT support queries.",
+  "source_repo": "raulperez0798/soporte-ti-mcp",
+  "source_url": "https://github.com/raulperez0798/soporte-ti-mcp",
+  "install": "npx -y soporte-ti-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wp-seo-mcp",
+  "description": "This MCP server automates WordPress SEO blog creation from content generation to publishing using GPT-4o, DALL-E 3, and WordPress REST API, with email approval workflow.",
+  "source_repo": "RouxFurkan/wp-seo-mcp",
+  "source_url": "https://github.com/RouxFurkan/wp-seo-mcp",
+  "install": "npx -y wp-seo-mcp"
+}

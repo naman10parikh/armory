@@ -1,0 +1,7 @@
+{
+  "name": "cli-mcp",
+  "description": "Enables adding and running arbitrary CLI commands through natural language, with recursive help parsing.",
+  "source_repo": "mlaugharn/cli-mcp",
+  "source_url": "https://github.com/mlaugharn/cli-mcp",
+  "install": "npx -y cli-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apiforge-mcp-server",
+  "description": "Automatically generates MCP tools from JSON API configs, manages authentication (API Key, OAuth 2.0), and controls access for AI agents like Hermes.",
+  "source_repo": "mlenkov/apiforge-mcp",
+  "source_url": "https://github.com/mlenkov/apiforge-mcp",
+  "install": "npx -y apiforge-mcp"
+}

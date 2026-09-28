@@ -1,0 +1,7 @@
+{
+  "name": "fuel-prices-mcp",
+  "description": "MCP server for UK fuel prices, enabling queries for cheapest stations, nearby forecourts, and area price summaries using official government open data.",
+  "source_repo": "dwain-barnes/fuel-prices-mcp",
+  "source_url": "https://github.com/dwain-barnes/fuel-prices-mcp",
+  "install": "npx -y fuel-prices-mcp"
+}

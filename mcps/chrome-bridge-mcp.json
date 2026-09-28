@@ -1,0 +1,7 @@
+{
+  "name": "chrome-bridge-mcp",
+  "description": "Bridges AI agents (Codex, Claude Code) with a real Chrome session via CDP, enabling Google Search and Google AI interactions through the browser.",
+  "source_repo": "deng1986/chrome-bridge-mcp",
+  "source_url": "https://github.com/deng1986/chrome-bridge-mcp",
+  "install": "npx -y chrome-bridge-mcp"
+}

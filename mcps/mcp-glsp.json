@@ -1,0 +1,7 @@
+{
+  "name": "mcp-glsp",
+  "description": "Enables AI-driven graphical diagram creation and manipulation using natural language, with support for BPMN workflows, analysis, and manual editing via the Model Context Protocol.",
+  "source_repo": "pulseengine/glsp-mcp",
+  "source_url": "https://github.com/pulseengine/glsp-mcp",
+  "install": "npx -y glsp-mcp"
+}

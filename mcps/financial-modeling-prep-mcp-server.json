@@ -1,0 +1,7 @@
+{
+  "name": "financial-modeling-prep-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides tools, resources, and prompts for financial analysis using the Financial Modeling Prep API.",
+  "source_repo": "cdtait/fmp-mcp-server",
+  "source_url": "https://github.com/cdtait/fmp-mcp-server",
+  "install": "npx -y fmp-mcp-server"
+}

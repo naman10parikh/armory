@@ -1,0 +1,7 @@
+{
+  "name": "mcp-file-system-server",
+  "description": "A secure, sandboxed file system server that enables reading, writing, searching, and managing files through MCP-compatible AI clients with path traversal protection and size limits.",
+  "source_repo": "moaaz01/mcp-file-system-server",
+  "source_url": "https://github.com/moaaz01/mcp-file-system-server",
+  "install": "# git clone --depth 1 https://github.com/moaaz01/mcp-file-system-server\n# See source for mcpServers config block"
+}

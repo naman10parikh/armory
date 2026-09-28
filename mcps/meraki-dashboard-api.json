@@ -1,0 +1,7 @@
+{
+  "name": "meraki-dashboard-api",
+  "description": "A read-only MCP server for the Cisco Meraki Dashboard API that exposes 50 GET endpoints for understanding network topology from organization down to individual devices and ports.",
+  "source_repo": "Flagler-County-BoCC/mcp-meraki",
+  "source_url": "https://github.com/Flagler-County-BoCC/mcp-meraki",
+  "install": "# git clone --depth 1 https://github.com/Flagler-County-BoCC/mcp-meraki\n# See source for mcpServers config block"
+}

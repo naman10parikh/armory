@@ -1,0 +1,7 @@
+{
+  "name": "agent-3md",
+  "description": "Exposes an agent's skills as MCP tools, allowing any MCP client to route requests and load skills on demand from a single .3md file.",
+  "source_repo": "CorvidLabs/agent-3md",
+  "source_url": "https://github.com/CorvidLabs/agent-3md",
+  "install": "# git clone --depth 1 https://github.com/CorvidLabs/agent-3md\n# See source for mcpServers config block"
+}

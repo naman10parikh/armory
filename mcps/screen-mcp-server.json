@@ -1,0 +1,7 @@
+{
+  "name": "screen-mcp-server",
+  "description": "Gives AI coding assistants real-time screen capture capabilities with multi-monitor support, PDF text extraction, and answer logging.",
+  "source_repo": "aga134/screen-mcp-server",
+  "source_url": "https://github.com/aga134/screen-mcp-server",
+  "install": "npx -y screen-mcp-server"
+}

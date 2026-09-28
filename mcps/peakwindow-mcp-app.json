@@ -1,0 +1,7 @@
+{
+  "name": "peakwindow-mcp-app",
+  "description": "An MCP server that analyzes upcoming weather at alpine peaks and trailheads worldwide, ranking the best windows for climbing and ascent using high-resolution forecast models.",
+  "source_repo": "ByteOverDev/peak-window-mcp-app",
+  "source_url": "https://github.com/ByteOverDev/peak-window-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/ByteOverDev/peak-window-mcp-app\n# See source for mcpServers config block"
+}

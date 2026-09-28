@@ -1,0 +1,7 @@
+{
+  "name": "nyc-restaurant-week",
+  "description": "MCP server for NYC Restaurant Week, enabling search and lookup of participating restaurants, date checks, and filter options.",
+  "source_repo": "chadnewbry/nyc-restaurant-week-mcp",
+  "source_url": "https://github.com/chadnewbry/nyc-restaurant-week-mcp",
+  "install": "npx -y nyc-restaurant-week-mcp"
+}

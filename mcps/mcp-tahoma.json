@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tahoma",
+  "description": "MCP server for controlling Somfy TaHoma devices locally via the box's API, without cloud dependency.",
+  "source_repo": "pierresouchay/mcp-tahoma",
+  "source_url": "https://github.com/pierresouchay/mcp-tahoma",
+  "install": "# git clone --depth 1 https://github.com/pierresouchay/mcp-tahoma\n# See source for mcpServers config block"
+}

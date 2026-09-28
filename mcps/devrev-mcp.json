@@ -1,0 +1,7 @@
+{
+  "name": "devrev-mcp",
+  "description": "An unofficial MCP server for DevRev integration, enabling AI assistants to search, manage works, explore product hierarchies, and retrieve object details seamlessly.",
+  "source_repo": "KalshuCodes/devrev-mcp-server",
+  "source_url": "https://github.com/KalshuCodes/devrev-mcp-server",
+  "install": "npx -y devrev-mcp-server"
+}

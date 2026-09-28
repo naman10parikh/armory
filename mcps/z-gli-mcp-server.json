@@ -1,0 +1,7 @@
+{
+  "name": "z-gli-mcp-server",
+  "description": "Provides real-time Swiss railway information including departures, connections, train composition, occupancy forecasts, disruptions, and pricing, accessible via natural language in over 100 languages.",
+  "source_repo": "BrainMode/zuegli",
+  "source_url": "https://github.com/BrainMode/zuegli",
+  "install": "# git clone --depth 1 https://github.com/BrainMode/zuegli\n# See source for mcpServers config block"
+}

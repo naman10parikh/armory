@@ -1,0 +1,7 @@
+{
+  "name": "silicon-army-mcp",
+  "description": "AI agent toolset for cross-border e-commerce and foreign trade, enabling customer discovery, communication, data analysis, and supplier search via MCP protocol.",
+  "source_repo": "WangM-A3/silicon-army-mcp",
+  "source_url": "https://github.com/WangM-A3/silicon-army-mcp",
+  "install": "npx -y silicon-army-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seetuu",
+  "description": "Local image manager MCP server for Windows, enabling AI assistants to search, preview, tag, favorite, and sync local images while keeping originals read-only.",
+  "source_repo": "mama2222222/seetuu",
+  "source_url": "https://github.com/mama2222222/seetuu",
+  "install": "# git clone --depth 1 https://github.com/mama2222222/seetuu\n# See source for mcpServers config block"
+}

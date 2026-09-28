@@ -1,0 +1,7 @@
+{
+  "name": "spaceweather-mcp",
+  "description": "A Model Context Protocol server for space weather and geomagnetic conditions, enabling AI agents to answer queries about solar flares, solar wind, geomagnetic storms, aurora forecasts, and more from authoritative data.",
+  "source_repo": "hoon1983/spaceweather-mcp",
+  "source_url": "https://github.com/hoon1983/spaceweather-mcp",
+  "install": "npx -y spaceweather-mcp"
+}

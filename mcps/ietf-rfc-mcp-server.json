@@ -1,0 +1,7 @@
+{
+  "name": "ietf-rfc-mcp-server",
+  "description": "Provides LLM-based access to IETF documents such as RFCs, Internet-Drafts, STD/BCP/FYI series, and errata through a Model Context Protocol server.",
+  "source_repo": "acquo/ietf-rfc-mcp",
+  "source_url": "https://github.com/acquo/ietf-rfc-mcp",
+  "install": "npx -y ietf-rfc-mcp"
+}

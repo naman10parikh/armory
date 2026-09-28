@@ -1,0 +1,7 @@
+{
+  "name": "biome-mcp",
+  "description": "Enables LLMs to run Biome formatting, linting, and assist checks on TypeScript/web projects with token-efficient, structured output, plus searchable cached Biome documentation.",
+  "source_repo": "yriveiro/biome-mcp",
+  "source_url": "https://github.com/yriveiro/biome-mcp",
+  "install": "npx -y biome-mcp"
+}

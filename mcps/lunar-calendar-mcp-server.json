@@ -1,0 +1,7 @@
+{
+  "name": "lunar-calendar-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for Chinese traditional calendar functions, including BaZi calculation, calendar conversion, Huangli query, daily fortune, solar terms, and Wu Xing analysis.",
+  "source_repo": "AlbertHuangKSFO/lunar_mcp_server",
+  "source_url": "https://github.com/AlbertHuangKSFO/lunar_mcp_server",
+  "install": "npx -y lunar_mcp_server"
+}

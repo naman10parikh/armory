@@ -1,0 +1,7 @@
+{
+  "name": "caveman-core-mcp",
+  "description": "MCP server that compresses LLM responses into caveman-style prose, reducing token usage by ~65% while maintaining technical accuracy.",
+  "source_repo": "MatheusPCardoso/caveman-mcp",
+  "source_url": "https://github.com/MatheusPCardoso/caveman-mcp",
+  "install": "npx -y caveman-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ollama-mcp-wrapper",
+  "description": "Enables AI agents to interact with local Ollama models for text generation and tool calling with prompt injection protection.",
+  "source_repo": "PieterVDMerwe/ollama-wrapper-mcp",
+  "source_url": "https://github.com/PieterVDMerwe/ollama-wrapper-mcp",
+  "install": "npx -y ollama-wrapper-mcp"
+}

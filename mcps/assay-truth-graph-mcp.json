@@ -1,0 +1,7 @@
+{
+  "name": "assay-truth-graph-mcp",
+  "description": "Remote MCP server grounding GTM agents in governed, cited company truth, enabling AI agents to use verified context, search, validate content, and generate grounded drafts.",
+  "source_repo": "Assay-Org/assay-truth-graph-mcp",
+  "source_url": "https://github.com/Assay-Org/assay-truth-graph-mcp",
+  "install": "npx -y assay-truth-graph-mcp"
+}

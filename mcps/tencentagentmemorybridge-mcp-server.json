@@ -1,0 +1,7 @@
+{
+  "name": "tencentagentmemorybridge-mcp-server",
+  "description": "Provides CodeBuddy, Claude Code, and other MCP-compatible tools with a 4-layer long-term memory system (conversations, atomic facts, scenes, profiles) powered by TencentDB Agent Memory.",
+  "source_repo": "kuaizhongqiang/TencentAgentMemoryBridge",
+  "source_url": "https://github.com/kuaizhongqiang/TencentAgentMemoryBridge",
+  "install": "# git clone --depth 1 https://github.com/kuaizhongqiang/TencentAgentMemoryBridge\n# See source for mcpServers config block"
+}

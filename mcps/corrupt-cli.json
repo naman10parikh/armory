@@ -1,0 +1,7 @@
+{
+  "name": "corrupt-cli",
+  "description": "Generates production-ready, white-labeled web architectures (Next.js + Supabase or static) from vertical packs and blueprints. Enables AI agents to scaffold inventory sites, SaaS platforms, and custom verticals, including Supabase provisioning, edge functions, and deployment.",
+  "source_repo": "CorruptFun/corrupt-mcp",
+  "source_url": "https://github.com/CorruptFun/corrupt-mcp",
+  "install": "npx -y corrupt-mcp"
+}

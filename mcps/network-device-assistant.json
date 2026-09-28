@@ -1,0 +1,7 @@
+{
+  "name": "network-device-assistant",
+  "description": "Enables Claude Code to interact with network devices over serial and SSH with command safety classification and a persistent knowledge base.",
+  "source_repo": "mgarabito/network-device-mcp",
+  "source_url": "https://github.com/mgarabito/network-device-mcp",
+  "install": "npx -y network-device-mcp"
+}

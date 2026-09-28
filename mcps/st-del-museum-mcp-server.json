@@ -1,0 +1,7 @@
+{
+  "name": "st-del-museum-mcp-server",
+  "description": "This server enables AI models to access the Städel Museum's digital collection via OAI-PMH, allowing harvesting of records, retrieval of multilingual metadata, and fetching of high-resolution images.",
+  "source_repo": "topoftheblock/staedel-mcp",
+  "source_url": "https://github.com/topoftheblock/staedel-mcp",
+  "install": "npx -y staedel-mcp"
+}

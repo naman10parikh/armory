@@ -1,0 +1,7 @@
+{
+  "name": "customer-service-mcp-server",
+  "description": "A FastMCP server for e-commerce customer service, providing secure read/write access to customers, orders, and support tickets with audit logging and monitoring.",
+  "source_repo": "punyprogrammer/customer-support-mcp-server",
+  "source_url": "https://github.com/punyprogrammer/customer-support-mcp-server",
+  "install": "npx -y customer-support-mcp-server"
+}

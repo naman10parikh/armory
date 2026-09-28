@@ -1,0 +1,7 @@
+{
+  "name": "mlnops",
+  "description": "MLNops is a local-first MCP server for authorized infrastructure reconnaissance and security posture analysis. It provides DNS, WHOIS, SSL/TLS, subdomain, ASN, cloud exposure, and full-recon tools for MCP clients.",
+  "source_repo": "Milindu-Weerawarna/MLNops",
+  "source_url": "https://github.com/Milindu-Weerawarna/MLNops",
+  "install": "# git clone --depth 1 https://github.com/Milindu-Weerawarna/MLNops\n# See source for mcpServers config block"
+}

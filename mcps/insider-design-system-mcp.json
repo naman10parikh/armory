@@ -1,0 +1,7 @@
+{
+  "name": "insider-design-system-mcp",
+  "description": "Automated MCP server for the Insider Design System. Enables AI assistants to discover, understand, and generate code for over 60 Design System components with automated extraction from source code.",
+  "source_repo": "denizzeybek-fe/design-system-mcp",
+  "source_url": "https://github.com/denizzeybek-fe/design-system-mcp",
+  "install": "npx -y design-system-mcp"
+}

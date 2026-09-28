@@ -1,0 +1,29 @@
+---
+name: sentinel-signal
+type: mcps
+description: >
+  Healthcare claims scoring for denial risk, prior authorization, reimbursement prediction, and workflow validation.
+source_repo: sentinelsignal/sentinel-signal-mcp
+source_url: https://github.com/sentinelsignal/sentinel-signal-mcp
+license: unknown
+cli_compat: [claude, codex, cursor, gemini, opencode]
+maturity: beta
+stars: 0
+verified_at: 2026-05-26
+related: []
+tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-10T14:39:49Z"
+folded_into: mcps/sentinel-signal-mcp
+---
+## What it is
+MCP server `Sentinel Signal`, catalogued on PulseMCP. Healthcare claims scoring for denial risk, prior authorization, reimbursement prediction, and workflow validation.
+
+## When to use it
+Healthcare claims scoring for denial risk, prior authorization, reimbursement prediction, and workflow validation.
+
+## How to install / invoke
+See the source for the `mcpServers` config block (command + args). Source: https://github.com/sentinelsignal/sentinel-signal-mcp
+
+## Notes
+Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/sentinel-signal). License not declared in registry metadata — confirm before production use. Pending verify -> promote.

@@ -1,0 +1,7 @@
+{
+  "name": "urlscan-mcp",
+  "description": "MCP server for urlscan.io that scans URLs, searches historical scan data, and assesses indicators with compact, context-efficient summaries instead of raw API responses.",
+  "source_repo": "blackhole8080-darkmatter/urlscan-mcp",
+  "source_url": "https://github.com/blackhole8080-darkmatter/urlscan-mcp",
+  "install": "npx -y urlscan-mcp"
+}

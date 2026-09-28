@@ -1,0 +1,7 @@
+{
+  "name": "google-workspace-mcp-server-7",
+  "description": "Enables AI agents to compose and send Gmail emails and append text to Google Docs using the Model Context Protocol.",
+  "source_repo": "Shubham-vvn/MCP-server-01.",
+  "source_url": "https://github.com/Shubham-vvn/MCP-server-01.",
+  "install": "# git clone --depth 1 https://github.com/Shubham-vvn/MCP-server-01.\n# See source for mcpServers config block"
+}

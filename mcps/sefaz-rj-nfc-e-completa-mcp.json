@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-rj-nfc-e-completa-mcp",
+  "description": "Read-only MCP server that enables AI agents to query official SEFAZ RJ NFC-e (electronic invoice) data via a hosted HTTP endpoint with prepaid credits, supporting multiple MCP-compatible clients.",
+  "source_repo": "mcp-dir/sefaz_rj_nfce_completa-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_rj_nfce_completa-mcp",
+  "install": "npx -y sefaz_rj_nfce_completa-mcp"
+}

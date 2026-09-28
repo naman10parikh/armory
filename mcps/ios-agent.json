@@ -1,0 +1,7 @@
+{
+  "name": "ios-agent",
+  "description": "Exposes native iPhone device services and UI automation through MCP, enabling agents to inspect and control trusted iPhones via a unified interface.",
+  "source_repo": "Joe15935/ios-agent-bridge",
+  "source_url": "https://github.com/Joe15935/ios-agent-bridge",
+  "install": "# git clone --depth 1 https://github.com/Joe15935/ios-agent-bridge\n# See source for mcpServers config block"
+}

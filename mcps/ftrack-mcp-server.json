@@ -1,0 +1,7 @@
+{
+  "name": "ftrack-mcp-server",
+  "description": "Provides broad, typed access to the ftrack Studio production-tracking API for LLM agents via 28 tools, including generic CRUD and convenience operations for projects, tasks, notes, and more.",
+  "source_repo": "huikku/ftrack-mcp",
+  "source_url": "https://github.com/huikku/ftrack-mcp",
+  "install": "npx -y ftrack-mcp"
+}

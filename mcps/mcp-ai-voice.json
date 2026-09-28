@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ai-voice",
+  "description": "Enables AI agents to synthesize natural speech using either platform system voices or premium OpenAI TTS, with automatic engine selection and graceful fallback.",
+  "source_repo": "sylweriusz/mcp-ai-voice",
+  "source_url": "https://github.com/sylweriusz/mcp-ai-voice",
+  "install": "# git clone --depth 1 https://github.com/sylweriusz/mcp-ai-voice\n# See source for mcpServers config block"
+}

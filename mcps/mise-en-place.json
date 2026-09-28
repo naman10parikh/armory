@@ -1,0 +1,7 @@
+{
+  "name": "mise-en-place",
+  "description": "Enables LLMs to retrieve verified macronutrient data (calories, protein, carbs, fat) for real ingredients and quantities from USDA FoodData Central, with structured caveats for uncertain matches.",
+  "source_repo": "edgargalvan/mise-en-place",
+  "source_url": "https://github.com/edgargalvan/mise-en-place",
+  "install": "# git clone --depth 1 https://github.com/edgargalvan/mise-en-place\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mnemozine",
+  "description": "Mnemozine is a self-hosted unified conversational memory layer that ingests conversations from AI tools, distills them into a temporal knowledge graph, and serves that memory to agents via a single MCP server.",
+  "source_repo": "DiverOfDark/Mnemozine",
+  "source_url": "https://github.com/DiverOfDark/Mnemozine",
+  "install": "# git clone --depth 1 https://github.com/DiverOfDark/Mnemozine\n# See source for mcpServers config block"
+}

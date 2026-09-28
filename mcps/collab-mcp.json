@@ -1,0 +1,7 @@
+{
+  "name": "collab-mcp",
+  "description": "Multi-AI collaboration MCP server enabling message passing, code review workflows, shared todo lists, and agent management with authentication and role-based access.",
+  "source_repo": "oxiaom/collab-mcp",
+  "source_url": "https://github.com/oxiaom/collab-mcp",
+  "install": "npx -y collab-mcp"
+}

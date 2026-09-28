@@ -1,0 +1,7 @@
+{
+  "name": "browseros-mcp-server",
+  "description": "Embeds an MCP server in a Chromium browser to drive real authenticated browsing sessions, with 23 unified automation tools and 40+ SaaS integrations.",
+  "source_repo": "psthi/browseros-skill",
+  "source_url": "https://github.com/psthi/browseros-skill",
+  "install": "# git clone --depth 1 https://github.com/psthi/browseros-skill\n# See source for mcpServers config block"
+}

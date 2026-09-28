@@ -1,0 +1,7 @@
+{
+  "name": "scrapecheck-mcp",
+  "description": "MCP server that verifies scraped web data by re-fetching source pages and returning ed25519-signed pass, fail, or unverifiable verdicts, with x402 in-band payment.",
+  "source_repo": "FieldmodeLLC/scrapecheck-mcp",
+  "source_url": "https://github.com/FieldmodeLLC/scrapecheck-mcp",
+  "install": "npx -y scrapecheck-mcp"
+}

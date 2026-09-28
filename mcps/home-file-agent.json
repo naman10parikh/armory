@@ -1,0 +1,7 @@
+{
+  "name": "home-file-agent",
+  "description": "MCP server that provides secure read-only access to a local folder, enabling file listing, reading, semantic search (RAG), and indexing status via natural language, integrated with Claude Desktop and a custom agent loop.",
+  "source_repo": "nfedunwork-code/home_mcp",
+  "source_url": "https://github.com/nfedunwork-code/home_mcp",
+  "install": "npx -y home_mcp"
+}

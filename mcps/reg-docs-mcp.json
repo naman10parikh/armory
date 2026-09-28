@@ -1,0 +1,7 @@
+{
+  "name": "reg-docs-mcp",
+  "description": "An MCP server that answers questions over insurance and regulatory documents using retrieval-augmented generation, returning grounded, cited passages via local embeddings and OpenSearch.",
+  "source_repo": "abiz95/reg-docs-mcp",
+  "source_url": "https://github.com/abiz95/reg-docs-mcp",
+  "install": "npx -y reg-docs-mcp"
+}

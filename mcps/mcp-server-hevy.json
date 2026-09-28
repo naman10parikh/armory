@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-hevy",
+  "description": "Enables access to Hevy strength-training data—workouts, routines, exercise history, and progression—via an MCP server with per-user credential encryption and optional write support.",
+  "source_repo": "borgels/mcp-server-hevy",
+  "source_url": "https://github.com/borgels/mcp-server-hevy",
+  "install": "# git clone --depth 1 https://github.com/borgels/mcp-server-hevy\n# See source for mcpServers config block"
+}

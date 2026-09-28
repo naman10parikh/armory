@@ -1,0 +1,7 @@
+{
+  "name": "acf-mcp",
+  "description": "Enables AI agents to reason about the ACF governance standard for autonomous AI agents, providing structured assessments, regulatory compliance checks, and doctrine-based tools via MCP.",
+  "source_repo": "aiconsulting06000-tech/acf-mcp",
+  "source_url": "https://github.com/aiconsulting06000-tech/acf-mcp",
+  "install": "npx -y acf-mcp"
+}

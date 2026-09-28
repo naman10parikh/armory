@@ -1,0 +1,7 @@
+{
+  "name": "stockprice-mcp",
+  "description": "MCP server for stock prices, historical data, FX rates, and ticker search, powered by yfinance with no API key required. Designed for Claude Desktop.",
+  "source_repo": "ajtgjmdjp/stockprice-mcp",
+  "source_url": "https://github.com/ajtgjmdjp/stockprice-mcp",
+  "install": "npx -y stockprice-mcp"
+}

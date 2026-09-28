@@ -1,0 +1,7 @@
+{
+  "name": "winrdp-mcp",
+  "description": "A zero-config MCP server that provisions and fully administers Windows RDP boxes (Windows 10/11 and Server 2016–2025), exposing 144 tools for shell, files, registry, GUI automation, UAC elevation, health reports, and more, plus guided workflows.",
+  "source_repo": "emog33k/winrdp-mcp",
+  "source_url": "https://github.com/emog33k/winrdp-mcp",
+  "install": "npx -y winrdp-mcp"
+}

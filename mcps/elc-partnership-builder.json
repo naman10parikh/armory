@@ -1,0 +1,7 @@
+{
+  "name": "elc-partnership-builder",
+  "description": "Enables users to build tailored company partnerships with the Engineering Leaders Community directly from their AI assistant, including qualifying goals, matching packages, customizing priced line items, and laying out 12-month journeys with an automatically applied 16% discount.",
+  "source_repo": "marian-kamenistak/elc-partnership-builder",
+  "source_url": "https://github.com/marian-kamenistak/elc-partnership-builder",
+  "install": "# git clone --depth 1 https://github.com/marian-kamenistak/elc-partnership-builder\n# See source for mcpServers config block"
+}

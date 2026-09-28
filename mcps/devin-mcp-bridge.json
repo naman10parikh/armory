@@ -1,0 +1,7 @@
+{
+  "name": "devin-mcp-bridge",
+  "description": "Bridges MCP (Claude Code) to ACP (Devin), enabling Claude Code to delegate autonomous tasks to Devin with permission and filesystem sandbox controls.",
+  "source_repo": "phenasdev/devin-mcp-bridge",
+  "source_url": "https://github.com/phenasdev/devin-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/phenasdev/devin-mcp-bridge\n# See source for mcpServers config block"
+}

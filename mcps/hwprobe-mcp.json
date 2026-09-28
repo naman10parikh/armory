@@ -1,0 +1,7 @@
+{
+  "name": "hwprobe-mcp",
+  "description": "Hardware probe MCP server that provides deep hardware inventory and live sensor telemetry for AI agents, including CPU, memory, disk, GPU, and sensor data across platforms.",
+  "source_repo": "notreallycheeks/hwprobe-mcp",
+  "source_url": "https://github.com/notreallycheeks/hwprobe-mcp",
+  "install": "npx -y hwprobe-mcp"
+}

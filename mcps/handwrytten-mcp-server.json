@@ -1,0 +1,7 @@
+{
+  "name": "handwrytten-mcp-server",
+  "description": "Enables AI assistants to send real handwritten notes via physical cards using Handwrytten's robotic pen service, along with managing cards, addresses, and orders.",
+  "source_repo": "handwrytten/mcp-server",
+  "source_url": "https://github.com/handwrytten/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/handwrytten/mcp-server\n# See source for mcpServers config block"
+}

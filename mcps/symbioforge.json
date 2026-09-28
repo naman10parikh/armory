@@ -1,0 +1,7 @@
+{
+  "name": "symbioforge",
+  "description": "An AI-powered industrial symbiosis platform that autonomously discovers waste-to-resource connections between factories, creates new products from waste streams, and generates regulatory compliance reports.",
+  "source_repo": "yokshith09/SymBioforge-NitroStack-MCP",
+  "source_url": "https://github.com/yokshith09/SymBioforge-NitroStack-MCP",
+  "install": "npx -y SymBioforge-NitroStack-MCP"
+}

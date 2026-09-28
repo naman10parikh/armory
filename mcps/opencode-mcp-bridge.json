@@ -1,0 +1,7 @@
+{
+  "name": "opencode-mcp-bridge",
+  "description": "An MCP server that lets any AI tool delegate tasks to the OpenCode CLI as a subagent, with multi-session orchestration, event tracking, and task contracts.",
+  "source_repo": "Dheerax/opencode_mcp",
+  "source_url": "https://github.com/Dheerax/opencode_mcp",
+  "install": "npx -y opencode_mcp"
+}

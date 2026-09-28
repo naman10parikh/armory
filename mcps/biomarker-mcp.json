@@ -1,0 +1,7 @@
+{
+  "name": "biomarker-mcp",
+  "description": "Enables querying celltype markers from CellMarker database using natural language.",
+  "source_repo": "scmcphub/biomarker-mcp",
+  "source_url": "https://github.com/scmcphub/biomarker-mcp",
+  "install": "npx -y biomarker-mcp"
+}

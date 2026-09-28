@@ -1,0 +1,7 @@
+{
+  "name": "unity-manual-mcp",
+  "description": "Local MCP server that serves a local Unity documentation install to AI assistants, enabling full-text search and retrieval of Unity Manual and Script Reference pages through tools like search_unity_docs and get_page.",
+  "source_repo": "Noctree/unity-manual-mcp",
+  "source_url": "https://github.com/Noctree/unity-manual-mcp",
+  "install": "npx -y unity-manual-mcp"
+}

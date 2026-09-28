@@ -1,0 +1,7 @@
+{
+  "name": "hs-stoneos-mcp-server",
+  "description": "Provides 129 MCP tools for querying and managing Hillstone StoneOS firewalls, enabling AI assistants to perform network operations through natural language.",
+  "source_repo": "zhongtao1hao/hillstone_fw_mcp_server",
+  "source_url": "https://github.com/zhongtao1hao/hillstone_fw_mcp_server",
+  "install": "npx -y hillstone_fw_mcp_server"
+}

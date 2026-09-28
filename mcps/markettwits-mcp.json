@@ -1,0 +1,7 @@
+{
+  "name": "markettwits-mcp",
+  "description": "Local SQLite archive and MCP search service for the Telegram channel @markettwits, enabling users to query asset-specific twits by instrument and time range.",
+  "source_repo": "yar822/twits_mcp",
+  "source_url": "https://github.com/yar822/twits_mcp",
+  "install": "npx -y twits_mcp"
+}

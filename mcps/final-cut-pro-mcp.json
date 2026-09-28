@@ -1,0 +1,7 @@
+{
+  "name": "final-cut-pro-mcp",
+  "description": "MCP server that enables AI to control Final Cut Pro on macOS, including reading libraries/projects, importing FCPXML, and creating title or storyboard projects.",
+  "source_repo": "rlaalsdn4564/final-cut-pro-mcp",
+  "source_url": "https://github.com/rlaalsdn4564/final-cut-pro-mcp",
+  "install": "npx -y final-cut-pro-mcp"
+}

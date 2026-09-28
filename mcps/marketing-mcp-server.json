@@ -1,0 +1,7 @@
+{
+  "name": "marketing-mcp-server",
+  "description": "Centralizes 10 marketing APIs into 14 MCP tools for AI assistants to pull data, audit sites, research trends, and manage Google Drive without switching tabs.",
+  "source_repo": "elmandalorian-thx/MCP-Marketing",
+  "source_url": "https://github.com/elmandalorian-thx/MCP-Marketing",
+  "install": "# git clone --depth 1 https://github.com/elmandalorian-thx/MCP-Marketing\n# See source for mcpServers config block"
+}

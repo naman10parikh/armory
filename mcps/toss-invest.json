@@ -1,0 +1,7 @@
+{
+  "name": "toss-invest",
+  "description": "Enables interaction with Toss Securities API for market data, stock information, account details, and order management.",
+  "source_repo": "nangchang/stock-toss-mcp",
+  "source_url": "https://github.com/nangchang/stock-toss-mcp",
+  "install": "npx -y stock-toss-mcp"
+}

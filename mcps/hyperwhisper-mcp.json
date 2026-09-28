@@ -1,0 +1,7 @@
+{
+  "name": "hyperwhisper-mcp",
+  "description": "Enables Cursor, Claude, and other MCP agents to interact with the HyperWhisper app for voice transcription, model management, and recording search.",
+  "source_repo": "hyperwhisper-app/hyperwhisper-mcp",
+  "source_url": "https://github.com/hyperwhisper-app/hyperwhisper-mcp",
+  "install": "npx -y hyperwhisper-mcp"
+}

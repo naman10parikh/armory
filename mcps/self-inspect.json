@@ -1,0 +1,7 @@
+{
+  "name": "self-inspect",
+  "description": "Enables agents to reflect on their own thinking by returning a metathought question based on a deterministic selection from curated cognitive lenses.",
+  "source_repo": "ejentum/self-inspect-mcp",
+  "source_url": "https://github.com/ejentum/self-inspect-mcp",
+  "install": "npx -y self-inspect-mcp"
+}

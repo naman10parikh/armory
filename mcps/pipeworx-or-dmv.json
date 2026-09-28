@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-or-dmv",
+  "description": "Provides live wait times and office details for all 60 Oregon DMV field offices by scraping the ODOT website, with no authentication required.",
+  "source_repo": "pipeworx-io/mcp-or-dmv",
+  "source_url": "https://github.com/pipeworx-io/mcp-or-dmv",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-or-dmv\n# See source for mcpServers config block"
+}

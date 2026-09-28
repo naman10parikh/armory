@@ -1,0 +1,7 @@
+{
+  "name": "ikuai-mcp",
+  "description": "MCP server for interacting with iKuai routers, enabling Claude to query system status, manage devices, and configure router settings via natural language.",
+  "source_repo": "beck-8/ikuai-mcp",
+  "source_url": "https://github.com/beck-8/ikuai-mcp",
+  "install": "npx -y ikuai-mcp"
+}

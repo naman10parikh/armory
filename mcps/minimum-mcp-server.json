@@ -1,6 +1,6 @@
 {
   "name": "minimum-mcp-server",
-  "description": "Minimum Mcp Server MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "a1740942002/minimum-mcp-server",
   "source_url": "https://mcp.so/server/minimum-mcp-server/a1740942002",
   "install": "npx -y minimum-mcp-server"

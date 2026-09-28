@@ -1,0 +1,7 @@
+{
+  "name": "mcp-oci",
+  "description": "MCP server for Oracle Cloud Infrastructure (OCI) that exposes Compute, Networking, and Object Storage operations to MCP clients, with support for multiple authentication modes, read-only enforcement, and per-call region overrides.",
+  "source_repo": "ferronicardoso/mcp-oci",
+  "source_url": "https://github.com/ferronicardoso/mcp-oci",
+  "install": "# git clone --depth 1 https://github.com/ferronicardoso/mcp-oci\n# See source for mcpServers config block"
+}

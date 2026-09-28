@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pulse",
+  "description": "Enables sharing MCP servers with clients, storing tool calls in PostgreSQL, and providing usage analytics via an admin dashboard and API.",
+  "source_repo": "infoshihab/mcp-structure",
+  "source_url": "https://github.com/infoshihab/mcp-structure",
+  "install": "# git clone --depth 1 https://github.com/infoshihab/mcp-structure\n# See source for mcpServers config block"
+}

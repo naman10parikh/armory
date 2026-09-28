@@ -1,0 +1,7 @@
+{
+  "name": "omega-api-mcp",
+  "description": "It gives AI agents one tool to access the Omega-API judge, which evaluates conversational turns and returns a decision and gate action (release, clarify, suppress, or none) to guide the agent's response.",
+  "source_repo": "DaiLui/omega-api-mcp",
+  "source_url": "https://github.com/DaiLui/omega-api-mcp",
+  "install": "npx -y omega-api-mcp"
+}

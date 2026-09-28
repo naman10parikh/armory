@@ -1,0 +1,7 @@
+{
+  "name": "competitive-programming-mentor-mcp-server",
+  "description": "Provides 23 modular tools for competitive programming, including problem analysis, algorithm planning, code generation, verification, testing, code review, and learning assistance.",
+  "source_repo": "SAMI-CODEAI/MCP-Server-For-Competitive-Programming",
+  "source_url": "https://github.com/SAMI-CODEAI/MCP-Server-For-Competitive-Programming",
+  "install": "# git clone --depth 1 https://github.com/SAMI-CODEAI/MCP-Server-For-Competitive-Programming\n# See source for mcpServers config block"
+}

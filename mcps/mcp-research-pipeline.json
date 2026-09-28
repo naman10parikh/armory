@@ -1,0 +1,7 @@
+{
+  "name": "mcp-research-pipeline",
+  "description": "Unifies YouTube transcripts, YouTube search, and Google NotebookLM into a research pipeline for Claude Desktop and MCP clients.",
+  "source_repo": "rubayatkhan/mcp-research-pipeline",
+  "source_url": "https://github.com/rubayatkhan/mcp-research-pipeline",
+  "install": "# git clone --depth 1 https://github.com/rubayatkhan/mcp-research-pipeline\n# See source for mcpServers config block"
+}

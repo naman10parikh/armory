@@ -1,0 +1,7 @@
+{
+  "name": "postgresql-mcp-server-read-write",
+  "description": "Supports CRUD and DDL operations on PostgreSQL databases via MCP, enabling query, insert, update, delete, and schema changes through natural language.",
+  "source_repo": "yanxxcloud/mcp-server-postgresql-rw",
+  "source_url": "https://github.com/yanxxcloud/mcp-server-postgresql-rw",
+  "install": "# git clone --depth 1 https://github.com/yanxxcloud/mcp-server-postgresql-rw\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yandex-audience-mcp",
+  "description": "MCP server for managing Yandex Audiences (segments, pixels, lookalikes) from AI clients via natural language.",
+  "source_repo": "A1-x-Tech/mcp-yandex-audience",
+  "source_url": "https://github.com/A1-x-Tech/mcp-yandex-audience",
+  "install": "# git clone --depth 1 https://github.com/A1-x-Tech/mcp-yandex-audience\n# See source for mcpServers config block"
+}

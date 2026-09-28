@@ -1,0 +1,7 @@
+{
+  "name": "admission-mcp-server",
+  "description": "Enables searching 2027 Korean university early admissions information (types, quotas, methods, minimum SAT scores) and checking if given SAT grades meet the minimum requirements.",
+  "source_repo": "ugori2/admission-mcp-server",
+  "source_url": "https://github.com/ugori2/admission-mcp-server",
+  "install": "npx -y admission-mcp-server"
+}

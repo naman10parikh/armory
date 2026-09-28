@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-mcp-for-openworker",
+  "description": "Enables LinkedIn profile reads and post operations through a local-first MCP server, with OAuth token management and approval-friendly tools for OpenWorker.",
+  "source_repo": "Mohamed-Godaa/linkedin-mcp-openworker",
+  "source_url": "https://github.com/Mohamed-Godaa/linkedin-mcp-openworker",
+  "install": "# git clone --depth 1 https://github.com/Mohamed-Godaa/linkedin-mcp-openworker\n# See source for mcpServers config block"
+}

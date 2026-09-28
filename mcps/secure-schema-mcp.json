@@ -1,0 +1,7 @@
+{
+  "name": "secure-schema-mcp",
+  "description": "A read-only MCP server that provides AI coding tools with database schema structure (tables, columns, keys, relationships) without exposing row data.",
+  "source_repo": "Siddharth-coder13/secure_schema_mcp",
+  "source_url": "https://github.com/Siddharth-coder13/secure_schema_mcp",
+  "install": "npx -y secure_schema_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "timetopost-mcp-server",
+  "description": "MCP server for TimeToPost that lets AI agents list accounts, schedule/publish/cancel posts, manage drafts and approvals, run AutoSEO, and read analytics via 32 tools.",
+  "source_repo": "MelMayssonOwen/timetopost-mcp",
+  "source_url": "https://github.com/MelMayssonOwen/timetopost-mcp",
+  "install": "npx -y timetopost-mcp"
+}

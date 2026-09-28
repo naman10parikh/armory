@@ -1,0 +1,7 @@
+{
+  "name": "mcp-markdown-rag",
+  "description": "A Model Context Protocol (MCP) server that provides a local-first RAG engine for your markdown documents. It uses a file-based Milvus vector database to index your notes, enabling LLMs to perform semantic search and retrieve relevant content from your local files.",
+  "source_repo": "Zackriya-Solutions/MCP-Markdown-RAG",
+  "source_url": "https://github.com/Zackriya-Solutions/MCP-Markdown-RAG",
+  "install": "# git clone --depth 1 https://github.com/Zackriya-Solutions/MCP-Markdown-RAG\n# See source for mcpServers config block"
+}

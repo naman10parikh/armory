@@ -1,0 +1,7 @@
+{
+  "name": "confirmation-outlook-mcp",
+  "description": "Predictive supply-chain MCP server that forecasts material confirmation risks and enables AI clients to interact with the system via natural language.",
+  "source_repo": "AceP2317/confirmation-outlook",
+  "source_url": "https://github.com/AceP2317/confirmation-outlook",
+  "install": "# git clone --depth 1 https://github.com/AceP2317/confirmation-outlook\n# See source for mcpServers config block"
+}

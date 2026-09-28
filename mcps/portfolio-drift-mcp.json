@@ -1,0 +1,7 @@
+{
+  "name": "portfolio-drift-mcp",
+  "description": "Wraps portfolio-drift-agent as MCP tools, letting LLM clients audit a portfolio of projects against GitHub conversationally.",
+  "source_repo": "odanree/portfolio-drift-mcp",
+  "source_url": "https://github.com/odanree/portfolio-drift-mcp",
+  "install": "npx -y portfolio-drift-mcp"
+}

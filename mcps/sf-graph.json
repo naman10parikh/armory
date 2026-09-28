@@ -1,0 +1,7 @@
+{
+  "name": "sf-graph",
+  "description": "Maps Salesforce metadata into a Neo4j graph database, enabling AI agents to reason about schema and generate accurate SOQL queries.",
+  "source_repo": "nwant/sf-graph",
+  "source_url": "https://github.com/nwant/sf-graph",
+  "install": "# git clone --depth 1 https://github.com/nwant/sf-graph\n# See source for mcpServers config block"
+}

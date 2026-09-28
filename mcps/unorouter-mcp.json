@@ -1,0 +1,7 @@
+{
+  "name": "unorouter-mcp",
+  "description": "MCP server for UnoRouter, an OpenAI-compatible gateway with 200+ models, providing search_models, get_pricing, and chat tools to interact with various AI models through natural language.",
+  "source_repo": "0-don/unorouter-mcp",
+  "source_url": "https://github.com/0-don/unorouter-mcp",
+  "install": "npx -y unorouter-mcp"
+}

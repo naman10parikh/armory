@@ -1,0 +1,7 @@
+{
+  "name": "redfin-mcp",
+  "description": "Enables natural language access to Redfin real estate data, including property search, details, photos, market reports, price history, climate risk, and saved homes/searches, by routing requests through your own signed-in browser session.",
+  "source_repo": "chrischall/redfin-mcp",
+  "source_url": "https://github.com/chrischall/redfin-mcp",
+  "install": "npx -y redfin-mcp"
+}

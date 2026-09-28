@@ -1,6 +1,6 @@
 {
   "name": "the-pensieve",
-  "description": "The Pensieve MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "seanivore/the-pensieve",
   "source_url": "https://mcp.so/server/the-pensieve/seanivore",
   "install": "# git clone --depth 1 https://mcp.so/server/the-pensieve/seanivore\n# See source for mcpServers config block"

@@ -1,0 +1,7 @@
+{
+  "name": "librus-mcp",
+  "description": "Enables read-only access to a Librus Portal account, letting users list linked Synergia accounts and retrieve grades, attendance, timetable, homework, notices, and school information.",
+  "source_repo": "TechAdrianPro/librus-mcp",
+  "source_url": "https://github.com/TechAdrianPro/librus-mcp",
+  "install": "npx -y librus-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-certificate-monitor",
+  "description": "Monitor SSL/TLS certificate expiry across your domains by asking Claude, with no dashboards or command-line tools needed.",
+  "source_repo": "natesilva/mcp-certificate-monitor",
+  "source_url": "https://github.com/natesilva/mcp-certificate-monitor",
+  "install": "# git clone --depth 1 https://github.com/natesilva/mcp-certificate-monitor\n# See source for mcpServers config block"
+}

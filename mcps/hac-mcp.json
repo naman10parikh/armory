@@ -1,0 +1,7 @@
+{
+  "name": "hac-mcp",
+  "description": "Provides AI assistants with programmatic access to SAP Commerce Cloud's Hybris Administration Console (HAC), enabling automated FlexibleSearch queries, ImpEx imports, Groovy script execution, and system administration across multiple environments with fine-grained permissions.",
+  "source_repo": "yunusemregul/hac-mcp",
+  "source_url": "https://github.com/yunusemregul/hac-mcp",
+  "install": "npx -y hac-mcp"
+}

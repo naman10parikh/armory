@@ -1,0 +1,7 @@
+{
+  "name": "boe-mcp",
+  "description": "Enables querying Spanish BOE consolidated legislation, daily summaries, and legal reference data through natural language using the Model Context Protocol.",
+  "source_repo": "AnCode666/boe-mcp",
+  "source_url": "https://github.com/AnCode666/boe-mcp",
+  "install": "npx -y boe-mcp"
+}

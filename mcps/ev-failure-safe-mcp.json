@@ -1,0 +1,7 @@
+{
+  "name": "ev-failure-safe-mcp",
+  "description": "Recommends EV charging stations with low failure risk by considering vehicle type, connector, remaining range, and real-time public data.",
+  "source_repo": "kinorossiuk/ev-failure-safe-mcp",
+  "source_url": "https://github.com/kinorossiuk/ev-failure-safe-mcp",
+  "install": "npx -y ev-failure-safe-mcp"
+}

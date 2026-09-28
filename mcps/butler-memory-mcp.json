@@ -1,0 +1,7 @@
+{
+  "name": "butler-memory-mcp",
+  "description": "MCP server providing layered, PostgreSQL-backed long-term memory for AI agents with versioned, audited writes and sensitive candidate filtering. Agents persist only explicitly requested facts, preferences, and project context via MCP tools.",
+  "source_repo": "AndyYang12345/butler-memory-mcp",
+  "source_url": "https://github.com/AndyYang12345/butler-memory-mcp",
+  "install": "npx -y butler-memory-mcp"
+}

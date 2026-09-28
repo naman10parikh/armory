@@ -1,0 +1,7 @@
+{
+  "name": "npmlens-mcp",
+  "description": "Enables AI coding agents to search the npm registry and retrieve package metadata, READMEs, download stats, GitHub details, and usage snippets via the Model Context Protocol.",
+  "source_repo": "rakeshmenon/npmlens-mcp",
+  "source_url": "https://github.com/rakeshmenon/npmlens-mcp",
+  "install": "npx -y npmlens-mcp"
+}

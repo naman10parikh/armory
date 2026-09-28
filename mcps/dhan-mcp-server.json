@@ -1,0 +1,7 @@
+{
+  "name": "dhan-mcp-server",
+  "description": "A production-ready MCP server for algorithmic trading with Dhan broker API, providing market data, order management, portfolio tracking, and real-time trading capabilities.",
+  "source_repo": "vikkysarswat/dhan-mcp-server",
+  "source_url": "https://github.com/vikkysarswat/dhan-mcp-server",
+  "install": "npx -y dhan-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qradar-mcp-server",
+  "description": "MCP server for IBM QRadar SIEM that consolidates 728 REST API endpoints into 4 intelligent tools, enabling natural language interaction for security tasks like managing offenses, assets, rules, and reference data.",
+  "source_repo": "caohonghoa98/qradar-mcp-server-docker",
+  "source_url": "https://github.com/caohonghoa98/qradar-mcp-server-docker",
+  "install": "# git clone --depth 1 https://github.com/caohonghoa98/qradar-mcp-server-docker\n# See source for mcpServers config block"
+}

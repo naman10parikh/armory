@@ -1,0 +1,7 @@
+{
+  "name": "docusaurus-plugin-mcp",
+  "description": "Exposes Docusaurus documentation and OpenAPI specs as an MCP server, enabling AI agents to search docs and inspect API endpoints.",
+  "source_repo": "mcclowes/docusaurus-plugin-mcp",
+  "source_url": "https://github.com/mcclowes/docusaurus-plugin-mcp",
+  "install": "npx -y docusaurus-plugin-mcp"
+}

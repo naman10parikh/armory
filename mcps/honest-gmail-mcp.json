@@ -1,0 +1,7 @@
+{
+  "name": "honest-gmail-mcp",
+  "description": "A local MCP server that provides Gmail tools (search, read, send, draft, label management) while keeping your emails only between your machine and Google, with no third-party access.",
+  "source_repo": "bartosz-kuc/honest-gmail-mcp",
+  "source_url": "https://github.com/bartosz-kuc/honest-gmail-mcp",
+  "install": "npx -y honest-gmail-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hippocampus-mcp",
+  "description": "A personal memory MCP server that ingests AI agent conversation logs from multiple platforms into a searchable PostgreSQL+pgvector database, enabling cross-session recall of past reasoning and decisions.",
+  "source_repo": "hrmtz/hippocampus",
+  "source_url": "https://github.com/hrmtz/hippocampus",
+  "install": "# git clone --depth 1 https://github.com/hrmtz/hippocampus\n# See source for mcpServers config block"
+}

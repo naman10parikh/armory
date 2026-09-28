@@ -1,0 +1,7 @@
+{
+  "name": "rlaif",
+  "description": "MCP server enabling AI agents to provide real-time positive and negative feedback to users through connected devices, with configurable channels for PiShock/OpenShock (negative) and Intiface (positive).",
+  "source_repo": "a9lim/rlaif",
+  "source_url": "https://github.com/a9lim/rlaif",
+  "install": "# git clone --depth 1 https://github.com/a9lim/rlaif\n# See source for mcpServers config block"
+}

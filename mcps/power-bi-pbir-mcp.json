@@ -1,0 +1,7 @@
+{
+  "name": "power-bi-pbir-mcp",
+  "description": "Local MCP server for editing Power BI Project reports saved in PBIR format.",
+  "source_repo": "bobzhou-source/powerbi-pbir-mcp",
+  "source_url": "https://github.com/bobzhou-source/powerbi-pbir-mcp",
+  "install": "npx -y powerbi-pbir-mcp"
+}

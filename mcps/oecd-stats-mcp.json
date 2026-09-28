@@ -1,0 +1,7 @@
+{
+  "name": "oecd-stats-mcp",
+  "description": "Provides OECD statistical data (employment, wages, etc.) through SDMX API, supporting Korean-language queries. Enables listing indicators, retrieving stats, trends, comparisons, and rankings among OECD countries.",
+  "source_repo": "seongapark/oecd_mcp",
+  "source_url": "https://github.com/seongapark/oecd_mcp",
+  "install": "npx -y oecd_mcp"
+}

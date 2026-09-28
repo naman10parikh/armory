@@ -1,0 +1,7 @@
+{
+  "name": "mcp-github-tool-eval",
+  "description": "Enables users to read and manage GitHub repositories through MCP, with destructive operations gated behind explicit confirmation and dry-run previews.",
+  "source_repo": "vishalmurugan1986/mcp-github-tool-eval",
+  "source_url": "https://github.com/vishalmurugan1986/mcp-github-tool-eval",
+  "install": "# git clone --depth 1 https://github.com/vishalmurugan1986/mcp-github-tool-eval\n# See source for mcpServers config block"
+}

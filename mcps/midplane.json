@@ -1,0 +1,7 @@
+{
+  "name": "midplane",
+  "description": "SQL guardrails for AI agents, sitting between the agent and Postgres to enforce policies, block destructive queries, and audit all access.",
+  "source_repo": "midplaneai/midplane",
+  "source_url": "https://github.com/midplaneai/midplane",
+  "install": "# git clone --depth 1 https://github.com/midplaneai/midplane\n# See source for mcpServers config block"
+}

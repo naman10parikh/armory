@@ -1,0 +1,7 @@
+{
+  "name": "macfax-mcp",
+  "description": "MCP server for the used-Mac market, enabling AI assistants to search live listings across multiple marketplaces, get price statistics, check listing trust, lookup serial numbers, retrieve condition reports, and create email alerts.",
+  "source_repo": "macfax/macfax-mcp",
+  "source_url": "https://github.com/macfax/macfax-mcp",
+  "install": "npx -y macfax-mcp"
+}

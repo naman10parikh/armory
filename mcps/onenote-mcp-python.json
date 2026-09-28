@@ -1,0 +1,7 @@
+{
+  "name": "onenote-mcp-python",
+  "description": "A standalone Model Context Protocol server for Microsoft OneNote desktop, connecting via the Windows COM API through a PowerShell bridge to enable page CRUD, search, export, and organization tools without an API key.",
+  "source_repo": "eddyficial/onenote-mcp-python",
+  "source_url": "https://github.com/eddyficial/onenote-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/eddyficial/onenote-mcp-python\n# See source for mcpServers config block"
+}

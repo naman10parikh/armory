@@ -1,0 +1,7 @@
+{
+  "name": "mcp-thesportsdb",
+  "description": "Enables AI agents to query sports data including teams, players, events, and standings from TheSportsDB through natural language or direct tool calls.",
+  "source_repo": "pipeworx-io/mcp-thesportsdb",
+  "source_url": "https://github.com/pipeworx-io/mcp-thesportsdb",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-thesportsdb\n# See source for mcpServers config block"
+}

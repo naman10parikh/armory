@@ -1,0 +1,7 @@
+{
+  "name": "rize-mcp",
+  "description": "Enables natural language interaction with Rize workspace data, including time entry management, AI suggestions, time analysis, team administration, and profitability reporting.",
+  "source_repo": "rize-io/mcp",
+  "source_url": "https://github.com/rize-io/mcp",
+  "install": "# git clone --depth 1 https://github.com/rize-io/mcp\n# See source for mcpServers config block"
+}

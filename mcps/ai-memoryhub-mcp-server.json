@@ -1,0 +1,7 @@
+{
+  "name": "ai-memoryhub-mcp-server",
+  "description": "Provides a hybrid memory architecture with a thin SQLite index and Markdown cold storage, enabling AI agents to write, query, link, and rebuild long-term memories via MCP tools, model-agnostic and zero third-party dependencies.",
+  "source_repo": "Traceless-zero/AI-MemoryHub",
+  "source_url": "https://github.com/Traceless-zero/AI-MemoryHub",
+  "install": "# git clone --depth 1 https://github.com/Traceless-zero/AI-MemoryHub\n# See source for mcpServers config block"
+}

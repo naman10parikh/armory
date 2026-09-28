@@ -1,0 +1,7 @@
+{
+  "name": "claude-imessage-mcp",
+  "description": "Enables Claude to send and receive iMessage/SMS messages through macOS, with support for attachments, chat history, and real-time message monitoring.",
+  "source_repo": "P-bit-display/claude-imessage-mcp",
+  "source_url": "https://github.com/P-bit-display/claude-imessage-mcp",
+  "install": "npx -y claude-imessage-mcp"
+}

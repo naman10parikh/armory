@@ -1,0 +1,7 @@
+{
+  "name": "ya-frida-mcp",
+  "description": "A comprehensive MCP server for Frida dynamic instrumentation, enabling AI agents to manage devices, processes, scripts, memory, and ADB operations.",
+  "source_repo": "1shin-7/ya-frida-mcp",
+  "source_url": "https://github.com/1shin-7/ya-frida-mcp",
+  "install": "npx -y ya-frida-mcp"
+}

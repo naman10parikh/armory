@@ -1,0 +1,7 @@
+{
+  "name": "verified-burst",
+  "description": "MCP stdio server, one tool buy_verified_burst — x402 pay-only-if-verified inference.",
+  "source_repo": "ericutility-prog/verified-burst-broker",
+  "source_url": "https://github.com/ericutility-prog/verified-burst-broker",
+  "install": "# git clone --depth 1 https://github.com/ericutility-prog/verified-burst-broker\n# See source for mcpServers config block"
+}

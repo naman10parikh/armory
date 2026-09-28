@@ -1,0 +1,7 @@
+{
+  "name": "certid-o-trf",
+  "description": "Issues civil, electoral, or criminal certificates from Brazilian Federal Regional Courts (TRF) using CPF/CNPJ and region, via a hosted, read-only MCP server.",
+  "source_repo": "mcp-dir/trf_certidao-mcp",
+  "source_url": "https://github.com/mcp-dir/trf_certidao-mcp",
+  "install": "npx -y trf_certidao-mcp"
+}

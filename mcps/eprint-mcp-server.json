@@ -1,0 +1,7 @@
+{
+  "name": "eprint-mcp-server",
+  "description": "Enables AI assistants to search and retrieve cryptographic research papers from the IACR Cryptology ePrint Archive. Supports smart search by title, author, or keywords, paper details, and recent papers.",
+  "source_repo": "heewon-chung/eprint-mcp-server",
+  "source_url": "https://github.com/heewon-chung/eprint-mcp-server",
+  "install": "npx -y eprint-mcp-server"
+}

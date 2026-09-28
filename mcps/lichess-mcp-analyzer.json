@@ -1,0 +1,7 @@
+{
+  "name": "lichess-mcp-analyzer",
+  "description": "A chess training MCP server that downloads games from Lichess, analyzes moves with Stockfish, detects pattern errors using a compression model, and provides spaced repetition training to improve weaknesses.",
+  "source_repo": "outpost2026/lichess-mcp-analyzer",
+  "source_url": "https://github.com/outpost2026/lichess-mcp-analyzer",
+  "install": "# git clone --depth 1 https://github.com/outpost2026/lichess-mcp-analyzer\n# See source for mcpServers config block"
+}

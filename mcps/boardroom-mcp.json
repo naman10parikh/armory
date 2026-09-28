@@ -1,0 +1,7 @@
+{
+  "name": "boardroom-mcp",
+  "description": "Multi-advisor debate, institutional memory, trust scoring, and cognitive governance for AI agents, all running locally.",
+  "source_repo": "randysalars/boardroom-mcp",
+  "source_url": "https://github.com/randysalars/boardroom-mcp",
+  "install": "npx -y boardroom-mcp"
+}

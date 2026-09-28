@@ -1,0 +1,7 @@
+{
+  "name": "faida-mcp",
+  "description": "Enables access to Kenya capital markets data and guidance, including treasury bonds, NSE equities, unit trusts, and diaspora investment tools.",
+  "source_repo": "gabrielmahia/faida-mcp",
+  "source_url": "https://github.com/gabrielmahia/faida-mcp",
+  "install": "npx -y faida-mcp"
+}

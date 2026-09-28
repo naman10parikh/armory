@@ -1,0 +1,7 @@
+{
+  "name": "smriti-mcp",
+  "description": "A portable memory server for AI agents, built for the Model Context Protocol (MCP). It stores durable memories as plain markdown files with YAML frontmatter.",
+  "source_repo": "deepak-bhardwaj-ps/smriti-mcp",
+  "source_url": "https://github.com/deepak-bhardwaj-ps/smriti-mcp",
+  "install": "npx -y smriti-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "precis-mcp",
+  "description": "A uniform API for agents to read, write, and search across papers, documents, code, and personal state, using PostgreSQL with pgvector for hybrid retrieval.",
+  "source_repo": "retospect/precis-mcp",
+  "source_url": "https://github.com/retospect/precis-mcp",
+  "install": "npx -y precis-mcp"
+}

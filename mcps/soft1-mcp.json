@@ -1,0 +1,7 @@
+{
+  "name": "soft1-mcp",
+  "description": "Enables read-only analysis of Soft1 ERP databases through guarded T-SQL queries, schema discovery, knowledge search, and CSV/XLSX exports.",
+  "source_repo": "cpouldev/soft1-mcp",
+  "source_url": "https://github.com/cpouldev/soft1-mcp",
+  "install": "npx -y soft1-mcp"
+}

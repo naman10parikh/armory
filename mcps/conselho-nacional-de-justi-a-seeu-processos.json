@@ -1,0 +1,7 @@
+{
+  "name": "conselho-nacional-de-justi-a-seeu-processos",
+  "description": "MCP server for read-only consultation of Brazilian National Council of Justice SEEU court proceedings from official sources, using prepaid credit.",
+  "source_repo": "mcp-dir/cnj_seeu_processos-mcp",
+  "source_url": "https://github.com/mcp-dir/cnj_seeu_processos-mcp",
+  "install": "npx -y cnj_seeu_processos-mcp"
+}

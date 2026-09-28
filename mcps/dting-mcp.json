@@ -1,0 +1,7 @@
+{
+  "name": "dting-mcp",
+  "description": "Enables AI clients to access DTing business functions including company briefs, MCP tool suggestions, support replies, profile prompts, match context analysis, and safety checklists.",
+  "source_repo": "rifatsoftdev/DTing-MCP",
+  "source_url": "https://github.com/rifatsoftdev/DTing-MCP",
+  "install": "npx -y DTing-MCP"
+}

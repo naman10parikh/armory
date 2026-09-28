@@ -1,0 +1,7 @@
+{
+  "name": "cro-rr-cadastro",
+  "description": "Consulta dados de cadastro no Conselho Regional de Odontologia de Roraima (CRO-RR) a partir de fonte oficial, oferecendo uma ferramenta de leitura para verificação de profissionais.",
+  "source_repo": "mcp-dir/cro_rr_cadastro-mcp",
+  "source_url": "https://github.com/mcp-dir/cro_rr_cadastro-mcp",
+  "install": "npx -y cro_rr_cadastro-mcp"
+}

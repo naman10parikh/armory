@@ -1,0 +1,7 @@
+{
+  "name": "wordpress-block-catalog-mcp",
+  "description": "A read-only MCP server that provides verified WordPress block definitions and markup across product environments, enabling search, comparison, generation, and validation of blocks.",
+  "source_repo": "danielk-am/wp-block-catalog-mcp",
+  "source_url": "https://github.com/danielk-am/wp-block-catalog-mcp",
+  "install": "npx -y wp-block-catalog-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tenable-identity-exposure-mcp-server",
+  "description": "Exposes the Tenable Identity Exposure (TIE) REST API as tools for LLM clients, enabling queries on security profiles, activity timelines, AD objects, and more.",
+  "source_repo": "knethteo/tenable-identity-exposure-mcp",
+  "source_url": "https://github.com/knethteo/tenable-identity-exposure-mcp",
+  "install": "npx -y tenable-identity-exposure-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ipython2-mcp",
+  "description": "Enables running Python 2 IPython sessions via MCP, with tools to install dependencies, start/stop sessions, execute code, and get tab completion.",
+  "source_repo": "ledror/ipython2-mcp",
+  "source_url": "https://github.com/ledror/ipython2-mcp",
+  "install": "npx -y ipython2-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hermes-memory-mcp",
+  "description": "A local enhanced memory system with self-evolution capabilities, enabling automatic skill creation, periodic memory maintenance, and trajectory training for reinforcement learning.",
+  "source_repo": "wcy88/hermes-mcp",
+  "source_url": "https://github.com/wcy88/hermes-mcp",
+  "install": "npx -y hermes-mcp"
+}

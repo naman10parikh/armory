@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pdf-tokensaver",
+  "description": "A layout-aware local MCP server that analyzes PDF structures (multi-columns, tables, LaTeX equations) to save up to 90% context tokens for LLMs in Cursor and Claude Desktop. Powered by https://golocalpdf.com",
+  "source_repo": "xiongxingzhe/mcp-pdf-tokensaver",
+  "source_url": "https://github.com/xiongxingzhe/mcp-pdf-tokensaver",
+  "install": "# git clone --depth 1 https://github.com/xiongxingzhe/mcp-pdf-tokensaver\n# See source for mcpServers config block"
+}

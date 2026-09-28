@@ -1,0 +1,7 @@
+{
+  "name": "powerbi-agent",
+  "description": "MCP server enabling AI agents to directly query and manage Power BI datasets, reports, and workspaces via DAX, with built-in data security policies and support for both Power BI Desktop and Service.",
+  "source_repo": "ducnguyen221/powerbi-agent",
+  "source_url": "https://github.com/ducnguyen221/powerbi-agent",
+  "install": "# git clone --depth 1 https://github.com/ducnguyen221/powerbi-agent\n# See source for mcpServers config block"
+}

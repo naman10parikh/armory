@@ -1,0 +1,7 @@
+{
+  "name": "smart-retail-mcp",
+  "description": "MCP server that provides predictive inventory analysis tools to AI agents, including current stock, sales velocity, and replenishment alerts.",
+  "source_repo": "eneidyscastellano/smart-retail-mcp",
+  "source_url": "https://github.com/eneidyscastellano/smart-retail-mcp",
+  "install": "npx -y smart-retail-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "postgrid-mcp-server",
+  "description": "Enables sending letters and MICR-encoded checks, managing contacts and templates, and verifying US/Canadian addresses via the PostGrid Print & Mail and Address Verification APIs from Claude.",
+  "source_repo": "natejonesbaby/postgrid-mcp-server",
+  "source_url": "https://github.com/natejonesbaby/postgrid-mcp-server",
+  "install": "npx -y postgrid-mcp-server"
+}

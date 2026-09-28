@@ -1,0 +1,7 @@
+{
+  "name": "tradingwizard-no-chase-mcp",
+  "description": "Enforces pre-trade planning discipline by checking entry, stop, target, and risk/reward via a gate tool, and provides proof receipts, terminal links, and risk prompts for AI assistants.",
+  "source_repo": "HugoRS00/tw-no-chase-mcp",
+  "source_url": "https://github.com/HugoRS00/tw-no-chase-mcp",
+  "install": "npx -y tw-no-chase-mcp"
+}

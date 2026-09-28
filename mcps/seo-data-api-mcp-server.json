@@ -1,0 +1,7 @@
+{
+  "name": "seo-data-api-mcp-server",
+  "description": "Enables to access SE Ranking SEO data through natural language queries, providing keyword analysis, competitor research, and performance tracking.",
+  "source_repo": "Teake1404/seo-data-api-mcp-server",
+  "source_url": "https://github.com/Teake1404/seo-data-api-mcp-server",
+  "install": "npx -y seo-data-api-mcp-server"
+}

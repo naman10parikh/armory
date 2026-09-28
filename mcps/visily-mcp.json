@@ -1,0 +1,7 @@
+{
+  "name": "visily-mcp",
+  "description": "Brings Visily designs into AI coding agents, enabling design-to-code generation, board discovery, and theme token application.",
+  "source_repo": "visily-app/mcp-plugins",
+  "source_url": "https://github.com/visily-app/mcp-plugins",
+  "install": "# git clone --depth 1 https://github.com/visily-app/mcp-plugins\n# See source for mcpServers config block"
+}

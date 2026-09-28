@@ -1,0 +1,7 @@
+{
+  "name": "reactome-mcp",
+  "description": "Enables coding agents to interact with the Reactome pathway database, including search, lookup, hierarchy traversal, SBML/SBGN export, and gene-set enrichment analysis.",
+  "source_repo": "tc2fh/reactome-mcp",
+  "source_url": "https://github.com/tc2fh/reactome-mcp",
+  "install": "npx -y reactome-mcp"
+}

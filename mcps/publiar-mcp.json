@@ -1,0 +1,7 @@
+{
+  "name": "publiar-mcp",
+  "description": "MCP server for Publiar that writes LinkedIn lead magnets without fabricating facts, renders matching visuals, publishes to LinkedIn, and tracks engagement, with 19 tools over stdio.",
+  "source_repo": "TokDar2410621/publiar-mcp",
+  "source_url": "https://github.com/TokDar2410621/publiar-mcp",
+  "install": "npx -y publiar-mcp"
+}

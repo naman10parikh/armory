@@ -1,0 +1,7 @@
+{
+  "name": "planfix-mcp-server",
+  "description": "Enables integration with Planfix CRM and task management system, allowing lead management, contact/company management, task creation/search/commenting, and report generation via the Planfix REST API v2.0.",
+  "source_repo": "popstas/planfix-mcp-server",
+  "source_url": "https://github.com/popstas/planfix-mcp-server",
+  "install": "npx -y planfix-mcp-server"
+}

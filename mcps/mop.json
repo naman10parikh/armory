@@ -1,0 +1,7 @@
+{
+  "name": "mop",
+  "description": "A multi-agent orchestrator MCP server that enables LLM agents to collaborate on complex tasks by automating role assignment, inter-agent communication, and artifact integration. It provides tools for task decomposition, agent assignment, status tracking, code review, and result merging.",
+  "source_repo": "sirasaki-konoha/mop",
+  "source_url": "https://github.com/sirasaki-konoha/mop",
+  "install": "# git clone --depth 1 https://github.com/sirasaki-konoha/mop\n# See source for mcpServers config block"
+}

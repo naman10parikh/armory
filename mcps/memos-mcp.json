@@ -1,0 +1,7 @@
+{
+  "name": "memos-mcp",
+  "description": "Connects to Memos note-taking service to read, write, search, filter, and manage memos, including creating comments and managing users.",
+  "source_repo": "yuzhi-jiang/memos-mcp",
+  "source_url": "https://github.com/yuzhi-jiang/memos-mcp",
+  "install": "npx -y memos-mcp"
+}

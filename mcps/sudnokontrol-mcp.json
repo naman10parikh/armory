@@ -1,0 +1,7 @@
+{
+  "name": "sudnokontrol-mcp",
+  "description": "Enables searching Ukrainian national vessel registries by registration number, name, or owner, retrieving full vessel records, and querying registry statistics, all without an API key.",
+  "source_repo": "ailubes/sudnokontrol-mcp",
+  "source_url": "https://github.com/ailubes/sudnokontrol-mcp",
+  "install": "npx -y sudnokontrol-mcp"
+}

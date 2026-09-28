@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dashboard",
+  "description": "Interactive dashboard that works as an MCP server, allowing Claude Code to create and manage workspaces, widgets, tasks, and reminders in real-time via Socket.io.",
+  "source_repo": "MarcoValdiviesoB/mcp-dashboard",
+  "source_url": "https://github.com/MarcoValdiviesoB/mcp-dashboard",
+  "install": "# git clone --depth 1 https://github.com/MarcoValdiviesoB/mcp-dashboard\n# See source for mcpServers config block"
+}

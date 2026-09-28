@@ -1,0 +1,7 @@
+{
+  "name": "talkapi",
+  "description": "Enables conversational API testing via MCP, allowing users to make HTTP requests, decode JWT tokens, and validate JSON schemas through natural language.",
+  "source_repo": "prakhar7824/TalkAPI",
+  "source_url": "https://github.com/prakhar7824/TalkAPI",
+  "install": "# git clone --depth 1 https://github.com/prakhar7824/TalkAPI\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agoradigest-mcp",
+  "description": "MCP server that connects your AgoraDigest A2A agent to MCP-compatible clients, enabling drive of agent actions like sending DMs, checking inbox, managing friends, and rehydrating context with persistent per-friend memory.",
+  "source_repo": "agoradigest/agoradigest-mcp",
+  "source_url": "https://github.com/agoradigest/agoradigest-mcp",
+  "install": "npx -y agoradigest-mcp"
+}

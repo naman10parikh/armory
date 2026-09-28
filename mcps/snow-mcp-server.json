@@ -1,0 +1,7 @@
+{
+  "name": "snow-mcp-server",
+  "description": "Secure MCP runtime on Google Cloud Run enabling ServiceNow AI Agents to access another ServiceNow instance as the signed-in user via delegated OAuth, with read-only tools for work items and pending approvals.",
+  "source_repo": "rankes96-dev/snow-mcp-server",
+  "source_url": "https://github.com/rankes96-dev/snow-mcp-server",
+  "install": "npx -y snow-mcp-server"
+}

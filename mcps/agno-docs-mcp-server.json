@@ -1,0 +1,7 @@
+{
+  "name": "agno-docs-mcp-server",
+  "description": "Provides access to Agno framework documentation for AI agents, enabling search and retrieval of SDK references, API endpoints, code examples, and integration guides through MCP-compatible tools.",
+  "source_repo": "uzaxirr/agno-docs-mcp",
+  "source_url": "https://github.com/uzaxirr/agno-docs-mcp",
+  "install": "npx -y agno-docs-mcp"
+}

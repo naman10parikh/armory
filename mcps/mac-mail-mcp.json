@@ -1,0 +1,7 @@
+{
+  "name": "mac-mail-mcp",
+  "description": "Provides read-only access to Apple Mail.app emails, accounts, and folders by directly reading the local SQLite database.",
+  "source_repo": "IsakRein/Projects.Email-CLI",
+  "source_url": "https://github.com/IsakRein/Projects.Email-CLI",
+  "install": "# git clone --depth 1 https://github.com/IsakRein/Projects.Email-CLI\n# See source for mcpServers config block"
+}

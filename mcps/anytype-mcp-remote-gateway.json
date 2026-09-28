@@ -1,0 +1,7 @@
+{
+  "name": "anytype-mcp-remote-gateway",
+  "description": "Exposes the official Anytype MCP server (which only speaks stdio) as a remote Streamable HTTP endpoint, enabling Claude mobile/web to connect securely via bearer-token auth and Tailscale Funnel.",
+  "source_repo": "ivantacca/anytype-mcp-remote-gateway",
+  "source_url": "https://github.com/ivantacca/anytype-mcp-remote-gateway",
+  "install": "# git clone --depth 1 https://github.com/ivantacca/anytype-mcp-remote-gateway\n# See source for mcpServers config block"
+}

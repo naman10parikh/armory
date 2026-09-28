@@ -1,0 +1,7 @@
+{
+  "name": "bodybridge",
+  "description": "Connects embodied devices (like StackChan, Raspberry Pi, ESP32) to AI via MCP protocol, enabling motion control with zero API cost, no PC required, and fully self-hosted.",
+  "source_repo": "alice-jin-dev/bodybridge",
+  "source_url": "https://github.com/alice-jin-dev/bodybridge",
+  "install": "# git clone --depth 1 https://github.com/alice-jin-dev/bodybridge\n# See source for mcpServers config block"
+}

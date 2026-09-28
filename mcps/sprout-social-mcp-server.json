@@ -1,0 +1,7 @@
+{
+  "name": "sprout-social-mcp-server",
+  "description": "Provides full Sprout Social API coverage for AI-powered social media management, enabling analytics, inbox messages, listening, publishing, media uploads, and support cases through natural language.",
+  "source_repo": "oliverames/sprout-mcp-server",
+  "source_url": "https://github.com/oliverames/sprout-mcp-server",
+  "install": "npx -y sprout-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bolsai",
+  "description": "Provides Brazilian financial market data including stock prices, fundamentals, dividends, FIIs, and macro indicators to AI assistants.",
+  "source_repo": "viniciuslazzari/bolsai-mcp",
+  "source_url": "https://github.com/viniciuslazzari/bolsai-mcp",
+  "install": "npx -y bolsai-mcp"
+}

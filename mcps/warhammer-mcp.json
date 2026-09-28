@@ -1,0 +1,7 @@
+{
+  "name": "warhammer-mcp",
+  "description": "MCP server + Foundry VTT module for WFRP4e that lets AI clients interact with a Foundry world via tools for managing characters, journals, rolltables, and more.",
+  "source_repo": "IT-Learning-Consulting/warhammer-mcp",
+  "source_url": "https://github.com/IT-Learning-Consulting/warhammer-mcp",
+  "install": "npx -y warhammer-mcp"
+}

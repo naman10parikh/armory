@@ -1,0 +1,7 @@
+{
+  "name": "strata-mcp-server",
+  "description": "Enables LLMs to model, validate, and analyze multi-cloud infrastructure as a typed graph, with tools for IaC import/export, cost estimation, and architecture review.",
+  "source_repo": "makedirectory/strata",
+  "source_url": "https://github.com/makedirectory/strata",
+  "install": "# git clone --depth 1 https://github.com/makedirectory/strata\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "amplify-mcp-proxy",
+  "description": "Exposes tools to query Salesforce for candidates by name and send them to a BHA screening API. Designed for deployment on AWS Lambda with API Gateway.",
+  "source_repo": "AinsleyG5/Amplify-mcp-proxy-live",
+  "source_url": "https://github.com/AinsleyG5/Amplify-mcp-proxy-live",
+  "install": "# git clone --depth 1 https://github.com/AinsleyG5/Amplify-mcp-proxy-live\n# See source for mcpServers config block"
+}

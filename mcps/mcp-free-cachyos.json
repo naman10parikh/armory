@@ -1,0 +1,7 @@
+{
+  "name": "mcp-free-cachyos",
+  "description": "MCP server for CachyOS connecting ChatGPT in developer mode to inspect and operate files, terminal, processes, apps, clipboard, and KDE/Wayland desktop.",
+  "source_repo": "riquelmechile/mcp_free",
+  "source_url": "https://github.com/riquelmechile/mcp_free",
+  "install": "# git clone --depth 1 https://github.com/riquelmechile/mcp_free\n# See source for mcpServers config block"
+}

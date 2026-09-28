@@ -1,0 +1,7 @@
+{
+  "name": "nav-2015-fastmcp-server",
+  "description": "Provides read-only analytics and metadata exploration for Dynamics NAV 2015 databases, enabling user details, permissions, table schemas, and autonomous SQL queries.",
+  "source_repo": "ayabenz/nav_2015_mcp",
+  "source_url": "https://github.com/ayabenz/nav_2015_mcp",
+  "install": "npx -y nav_2015_mcp"
+}

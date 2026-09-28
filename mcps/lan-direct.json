@@ -1,0 +1,7 @@
+{
+  "name": "lan-direct",
+  "description": "Playwright browser MCP for coding agents working behind a full-tunnel VPN. The tunnel stays up so the agent keeps reaching its API, while the browser's own traffic egresses through your real ISP — for services that reject the tunnel's exit IP: domestic APIs, payment and SMS gateways, bank endpoints.",
+  "source_repo": "farshadmomo/lan-direct",
+  "source_url": "https://github.com/farshadmomo/lan-direct",
+  "install": "# git clone --depth 1 https://github.com/farshadmomo/lan-direct\n# See source for mcpServers config block"
+}

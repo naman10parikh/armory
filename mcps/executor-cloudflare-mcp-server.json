@@ -1,0 +1,7 @@
+{
+  "name": "executor-cloudflare-mcp-server",
+  "description": "Deploys an open-source integration layer for AI agents (Executor) to Cloudflare, providing a private MCP endpoint secured by Cloudflare Access, with D1 database, R2 storage, and Durable Objects for session management.",
+  "source_repo": "acoyfellow/executor-cloudflare",
+  "source_url": "https://github.com/acoyfellow/executor-cloudflare",
+  "install": "# git clone --depth 1 https://github.com/acoyfellow/executor-cloudflare\n# See source for mcpServers config block"
+}

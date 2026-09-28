@@ -1,0 +1,7 @@
+{
+  "name": "ens-resolver",
+  "description": "Enables agents to resolve ENS names to Ethereum addresses and reverse-resolve addresses to ENS names, including avatar URLs, through a pay-per-call x402 micropayment API.",
+  "source_repo": "Br0ski777/ens-resolver-x402",
+  "source_url": "https://github.com/Br0ski777/ens-resolver-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/ens-resolver-x402\n# See source for mcpServers config block"
+}

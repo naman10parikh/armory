@@ -1,0 +1,7 @@
+{
+  "name": "vaultforge",
+  "description": "An MCP server for Obsidian that enables canvas creation with auto-layout, BM25-ranked search, vault theme mapping, and 27 tools for managing notes, files, and links.",
+  "source_repo": "blacksmithers/vaultforge",
+  "source_url": "https://github.com/blacksmithers/vaultforge",
+  "install": "# git clone --depth 1 https://github.com/blacksmithers/vaultforge\n# See source for mcpServers config block"
+}

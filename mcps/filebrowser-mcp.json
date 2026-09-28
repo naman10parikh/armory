@@ -1,0 +1,7 @@
+{
+  "name": "filebrowser-mcp",
+  "description": "MCP server enabling file operations and user management on FileBrowser Quantum via its REST API, with automatic authentication and multi-user support.",
+  "source_repo": "FrancoMeneses/filebrowser-mcp",
+  "source_url": "https://github.com/FrancoMeneses/filebrowser-mcp",
+  "install": "npx -y filebrowser-mcp"
+}

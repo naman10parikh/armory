@@ -1,0 +1,7 @@
+{
+  "name": "supliichain-mcp-sandbox",
+  "description": "A lightweight, local inventory-intelligence MCP server that enables querying structured inventory schemas with read-only, zero-config tools for stock levels, velocity metrics, and purchase orders.",
+  "source_repo": "AMinerSolution/supliichain-mcp-sandbox",
+  "source_url": "https://github.com/AMinerSolution/supliichain-mcp-sandbox",
+  "install": "# git clone --depth 1 https://github.com/AMinerSolution/supliichain-mcp-sandbox\n# See source for mcpServers config block"
+}

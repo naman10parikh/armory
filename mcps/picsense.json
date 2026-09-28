@@ -1,0 +1,7 @@
+{
+  "name": "picsense",
+  "description": "Local MCP server that provides multi-modal vision capabilities to single-modal base models via API, supporting multi-turn iterative image recognition and document image parsing.",
+  "source_repo": "honlnk/picsense",
+  "source_url": "https://github.com/honlnk/picsense",
+  "install": "# git clone --depth 1 https://github.com/honlnk/picsense\n# See source for mcpServers config block"
+}

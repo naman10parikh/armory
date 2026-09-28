@@ -1,0 +1,7 @@
+{
+  "name": "evomi-mcp-server",
+  "description": "MCP server for Evomi's proxy and web scraping APIs, providing tools for managing proxy credentials, geo targeting, usage, sessions, browser profiles, and a full scraping toolkit including crawling, URL discovery, AI-powered extraction, and scheduled jobs.",
+  "source_repo": "evomi/evomi-mcp",
+  "source_url": "https://github.com/evomi/evomi-mcp",
+  "install": "npx -y evomi-mcp"
+}

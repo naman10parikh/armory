@@ -1,0 +1,7 @@
+{
+  "name": "quaderno-mcp-server",
+  "description": "Connects AI assistants to Quaderno's tax compliance engine, enabling tax calculation, tax ID validation, and invoice creation via natural language.",
+  "source_repo": "AnderRahe/quaderno-api-mcp",
+  "source_url": "https://github.com/AnderRahe/quaderno-api-mcp",
+  "install": "npx -y quaderno-api-mcp"
+}

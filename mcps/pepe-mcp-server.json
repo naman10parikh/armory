@@ -1,0 +1,7 @@
+{
+  "name": "pepe-mcp-server",
+  "description": "Provides AI-powered research capabilities through Perplexity's web interface, enabling web search, deep research, chat, and documentation retrieval without API keys.",
+  "source_repo": "AldereteSergio/Pepe-MCP-Server",
+  "source_url": "https://github.com/AldereteSergio/Pepe-MCP-Server",
+  "install": "npx -y Pepe-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ecos-mcp-server",
+  "description": "Enables querying Korean economic statistics via Bank of Korea's ECOS API, including time series data, statistical tables, items, key indicators, and terminology, with raw responses and error fidelity.",
+  "source_repo": "josiah2050/ecos-mcp-server",
+  "source_url": "https://github.com/josiah2050/ecos-mcp-server",
+  "install": "npx -y ecos-mcp-server"
+}

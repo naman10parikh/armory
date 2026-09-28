@@ -1,0 +1,7 @@
+{
+  "name": "agent-mail-rooms",
+  "description": "Hosted MCP endpoint (paid) for OpenAI Codex agent coordination, providing structured JSON tools for mail threads, updates, file leasing, and room status receipts.",
+  "source_repo": "clauxel/agent-mail-rooms-mcp",
+  "source_url": "https://github.com/clauxel/agent-mail-rooms-mcp",
+  "install": "npx -y agent-mail-rooms-mcp"
+}

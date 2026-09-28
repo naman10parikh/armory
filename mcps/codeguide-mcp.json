@@ -1,0 +1,7 @@
+{
+  "name": "codeguide-mcp",
+  "description": "An MCP server that exposes coding guides and best practices as resources for AI assistants, with GitHub integration, caching, and local file support.",
+  "source_repo": "delian/codeguide-mcp",
+  "source_url": "https://github.com/delian/codeguide-mcp",
+  "install": "npx -y codeguide-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "caddie-mcp",
+  "description": "MCP server that connects Claude or any MCP-capable LLM to your Garmin golf data, enabling natural-language queries on rounds, shots, strokes gained, club distances, course intel, and health-performance correlations from a private local DuckDB cache.",
+  "source_repo": "mbrionesalvarez/caddie-mcp",
+  "source_url": "https://github.com/mbrionesalvarez/caddie-mcp",
+  "install": "npx -y caddie-mcp"
+}

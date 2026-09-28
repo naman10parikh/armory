@@ -1,0 +1,7 @@
+{
+  "name": "playwriter-session-cloud",
+  "description": "Paid remote MCP for browser session management, enabling AI agents to open sessions, run stateful snippets, read page state, and export session logs.",
+  "source_repo": "clauxel/playwriter-session-cloud-mcp",
+  "source_url": "https://github.com/clauxel/playwriter-session-cloud-mcp",
+  "install": "npx -y playwriter-session-cloud-mcp"
+}

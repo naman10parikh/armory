@@ -1,0 +1,7 @@
+{
+  "name": "hicar-mcp",
+  "description": "Provides AI assistants with structured, authoritative knowledge of the HICAR atmospheric model, including namelist options, physics schemes, output variables, documentation, and source code.",
+  "source_repo": "HICAR-Model/hicar-mcp",
+  "source_url": "https://github.com/HICAR-Model/hicar-mcp",
+  "install": "npx -y hicar-mcp"
+}

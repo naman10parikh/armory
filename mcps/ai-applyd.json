@@ -1,0 +1,7 @@
+{
+  "name": "ai-applyd",
+  "description": "ATS resume scoring, job-description analysis, interview prep, cover letters, resume building and auto-apply that submits on the employer's own hiring system. Hosted remote server over Streamable HTTP with OAuth 2.1.",
+  "source_repo": "whateverneveranywhere/aiapplyd-mcp",
+  "source_url": "https://github.com/whateverneveranywhere/aiapplyd-mcp",
+  "install": "npx -y aiapplyd-mcp"
+}

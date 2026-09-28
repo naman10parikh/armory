@@ -1,0 +1,7 @@
+{
+  "name": "openai-gpt-mcp-server",
+  "description": "A local MCP server that provides OpenAI GPT text generation and image generation over standard input/output.",
+  "source_repo": "boghyjunior-dot/openai-image-mcp",
+  "source_url": "https://github.com/boghyjunior-dot/openai-image-mcp",
+  "install": "npx -y openai-image-mcp"
+}

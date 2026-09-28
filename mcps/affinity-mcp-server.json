@@ -1,0 +1,7 @@
+{
+  "name": "affinity-mcp-server",
+  "description": "Enables LLMs to read and manage Affinity CRM data including companies, persons, lists, opportunities, pipeline stages, notes, custom field details, change history, and network intelligence for warm introductions.",
+  "source_repo": "alludium/affinity-mcp-server",
+  "source_url": "https://github.com/alludium/affinity-mcp-server",
+  "install": "npx -y affinity-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "quantum-ads-mcp",
+  "description": "A sovereign Google marketing-agency control plane over the Model Context Protocol, enabling an AI agent to safely operate 20 Google marketing products with read and guarded write capabilities.",
+  "source_repo": "Casius999/quantum-ads-mcp",
+  "source_url": "https://github.com/Casius999/quantum-ads-mcp",
+  "install": "npx -y quantum-ads-mcp"
+}

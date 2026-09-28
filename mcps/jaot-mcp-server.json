@@ -1,0 +1,7 @@
+{
+  "name": "jaot-mcp-server",
+  "description": "Exposes optimization solver tools to AI agents via the Model Context Protocol, enabling natural language problem solving.",
+  "source_repo": "avallavall/jaot",
+  "source_url": "https://github.com/avallavall/jaot",
+  "install": "# git clone --depth 1 https://github.com/avallavall/jaot\n# See source for mcpServers config block"
+}

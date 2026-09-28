@@ -1,0 +1,7 @@
+{
+  "name": "dsh-kankan-mail",
+  "description": "Enables AI agents to create and manage kankan.email mailboxes, send and receive emails, renew mailboxes, and handle order payments and status queries through MCP tools.",
+  "source_repo": "zhulianxing/dsh-kankan-mail",
+  "source_url": "https://github.com/zhulianxing/dsh-kankan-mail",
+  "install": "# git clone --depth 1 https://github.com/zhulianxing/dsh-kankan-mail\n# See source for mcpServers config block"
+}

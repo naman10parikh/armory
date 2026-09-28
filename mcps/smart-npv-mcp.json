@@ -1,0 +1,7 @@
+{
+  "name": "smart-npv-mcp",
+  "description": "Enables AI agents to interact with the Smart NPV CRM for Israeli mortgage advisors, allowing natural language management of client files, statuses, documents, and simulations.",
+  "source_repo": "binyaminboukaya/smart-npv-mcp",
+  "source_url": "https://github.com/binyaminboukaya/smart-npv-mcp",
+  "install": "npx -y smart-npv-mcp"
+}

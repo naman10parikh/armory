@@ -1,0 +1,7 @@
+{
+  "name": "portal",
+  "description": "Enables interaction with long-running interactive programs such as SSH, GDB, and REPLs. Provides tools to start, monitor, control, read/write I/O for these processes.",
+  "source_repo": "tiefeiyu/Portal",
+  "source_url": "https://github.com/tiefeiyu/Portal",
+  "install": "# git clone --depth 1 https://github.com/tiefeiyu/Portal\n# See source for mcpServers config block"
+}

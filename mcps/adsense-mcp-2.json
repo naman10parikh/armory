@@ -1,0 +1,7 @@
+{
+  "name": "adsense-mcp-2",
+  "description": "A Model Context Protocol (MCP) server that gives Claude Desktop direct access to your Google AdSense account. Ask plain English questions about your revenue — no dashboard required.",
+  "source_repo": "vishmathpati/adsense-mcp",
+  "source_url": "https://github.com/vishmathpati/adsense-mcp",
+  "install": "npx -y adsense-mcp"
+}

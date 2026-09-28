@@ -1,0 +1,7 @@
+{
+  "name": "ragmcp",
+  "description": "Retrieval augmented generation server for policy documents, exposing search, grounded Q&A with verified citations, and source management as MCP tools. Runs with local Ollama models for free or managed AWS backends, with an evaluation harness for retrieval and grounding metrics.",
+  "source_repo": "hanieljacob/policy-rag-mcp",
+  "source_url": "https://github.com/hanieljacob/policy-rag-mcp",
+  "install": "npx -y policy-rag-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "booru-pictag-get-mcp",
+  "description": "An MCP server that searches booru image boards and cleans their tags into ready-to-use AI-art prompts for Stable Diffusion and similar models.",
+  "source_repo": "echo-xianyu/Booru-Pictag-Get-MCP",
+  "source_url": "https://github.com/echo-xianyu/Booru-Pictag-Get-MCP",
+  "install": "npx -y Booru-Pictag-Get-MCP"
+}

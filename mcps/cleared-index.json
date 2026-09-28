@@ -1,0 +1,7 @@
+{
+  "name": "cleared-index",
+  "description": "Cleared Check before pay for x402 agents — look up merchants, run a trust check, and route through the Gateway without burning catalog. Tools: lookup_merchant, cleared_check, route_gateway.",
+  "source_repo": "N747AI/clearedindex-mcp",
+  "source_url": "https://github.com/N747AI/clearedindex-mcp",
+  "install": "npx -y clearedindex-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "antigravity-claude-mcp-2",
+  "description": "Enables Claude Code to request independent code reviews and second opinions from other AI models (like Gemini, GPT-OSS) via the Antigravity CLI, directly from the chat.",
+  "source_repo": "arjunthilakeros/antigravity-claude-mcp",
+  "source_url": "https://github.com/arjunthilakeros/antigravity-claude-mcp",
+  "install": "npx -y antigravity-claude-mcp"
+}

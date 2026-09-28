@@ -1,0 +1,7 @@
+{
+  "name": "geoscholar",
+  "description": "A multi-source MCP literature search server for geoscience and well-logging workflows, supporting unified search across CNKI, GEOPHYSICS, Petrophysics, OnePetro, SPE, SPWLA, EAGE, AAPG, Wanfang, and CQVIP with metadata enrichment and compliance-first downloading.",
+  "source_repo": "luskB/GeoSchlor-MCP",
+  "source_url": "https://github.com/luskB/GeoSchlor-MCP",
+  "install": "npx -y GeoSchlor-MCP"
+}

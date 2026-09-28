@@ -1,0 +1,7 @@
+{
+  "name": "cisco-pt-mcp",
+  "description": "Enables AI clients like Claude Desktop and Cursor to control Cisco Packet Tracer through natural language, including generating network topologies, running device configurations, and managing simulations.",
+  "source_repo": "2001sithum/cisco-pt-mcp",
+  "source_url": "https://github.com/2001sithum/cisco-pt-mcp",
+  "install": "npx -y cisco-pt-mcp"
+}

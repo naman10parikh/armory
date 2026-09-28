@@ -1,0 +1,7 @@
+{
+  "name": "crawlberg-mcp-server",
+  "description": "Enables AI agents to crawl and scrape websites, converting HTML to clean Markdown and structured metadata with support for JavaScript rendering, bot evasion, and SSRF protection.",
+  "source_repo": "xberg-io/crawlberg",
+  "source_url": "https://github.com/xberg-io/crawlberg",
+  "install": "# git clone --depth 1 https://github.com/xberg-io/crawlberg\n# See source for mcpServers config block"
+}

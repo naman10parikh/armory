@@ -1,0 +1,7 @@
+{
+  "name": "mcp-health-server",
+  "description": "A Claude-compatible MCP server that exposes health-domain tools over 100% synthetic data, built with security and compliance in mind.",
+  "source_repo": "DetonaRapha/mcp-health-server-",
+  "source_url": "https://github.com/DetonaRapha/mcp-health-server-",
+  "install": "# git clone --depth 1 https://github.com/DetonaRapha/mcp-health-server-\n# See source for mcpServers config block"
+}

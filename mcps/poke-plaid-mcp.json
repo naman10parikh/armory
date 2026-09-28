@@ -1,0 +1,7 @@
+{
+  "name": "poke-plaid-mcp",
+  "description": "A custom MCP server that connects your investment portfolio to Poke via Plaid, enabling queries about portfolio value, holdings, and transactions.",
+  "source_repo": "zayedu/poke-plaid-mcp",
+  "source_url": "https://github.com/zayedu/poke-plaid-mcp",
+  "install": "npx -y poke-plaid-mcp"
+}

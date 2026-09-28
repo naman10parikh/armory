@@ -1,0 +1,7 @@
+{
+  "name": "crypto-market-sentinel",
+  "description": "Monitors BTC, ETH, and RENDER for volatility-driven anomalies, emitting tiered P0/P1/P2 alerts with cooldown and hysteresis, and produces Feishu-ready events for immediate or digest delivery.",
+  "source_repo": "roclee2692/crypto-market-sentinel",
+  "source_url": "https://github.com/roclee2692/crypto-market-sentinel",
+  "install": "# git clone --depth 1 https://github.com/roclee2692/crypto-market-sentinel\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-play-console-mcp",
+  "description": "Enables managing releases, monitoring Android vitals, analyzing earnings and search terms, optimizing ASO, and preflighting store assets through natural language, with a confirmation gate before destructive writes.",
+  "source_repo": "abd3lraouf-studios/google-play-console-mcp",
+  "source_url": "https://github.com/abd3lraouf-studios/google-play-console-mcp",
+  "install": "npx -y google-play-console-mcp"
+}

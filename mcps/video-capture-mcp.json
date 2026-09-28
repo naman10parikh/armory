@@ -1,0 +1,7 @@
+{
+  "name": "video-capture-mcp",
+  "description": "MCP server for screen recording on macOS, iOS Simulator, and Android, with key-frame extraction via ffmpeg, enabling AI agents to capture UI motion and transient visual states.",
+  "source_repo": "Corvus400/video-capture-mcp",
+  "source_url": "https://github.com/Corvus400/video-capture-mcp",
+  "install": "npx -y video-capture-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hackmyip-mcp",
+  "description": "Provides a no-key IP intelligence API for MCP clients, enabling IP geolocation, VPN/datacenter detection, DNS, WHOIS, blacklist checks, security headers, port scanning, and more.",
+  "source_repo": "0xvibly/hackmyip-mcp",
+  "source_url": "https://github.com/0xvibly/hackmyip-mcp",
+  "install": "npx -y hackmyip-mcp"
+}

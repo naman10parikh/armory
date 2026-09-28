@@ -1,0 +1,7 @@
+{
+  "name": "falc-hatun-mcp-server",
+  "description": "Provides real astrology and tarot computations using actual ephemeris and a 78-card deck, returning structured data such as natal charts, synastry, transits, and tarot draws without relying on an LLM for astrological facts.",
+  "source_repo": "izmiradami/falci-hatun-mcp",
+  "source_url": "https://github.com/izmiradami/falci-hatun-mcp",
+  "install": "npx -y falci-hatun-mcp"
+}

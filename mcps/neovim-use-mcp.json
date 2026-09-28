@@ -1,0 +1,7 @@
+{
+  "name": "neovim-use-mcp",
+  "description": "An MCP server that edits files through a real Neovim instance, giving agents access to LSP diagnostics, formatting, code actions, and plugin commands.",
+  "source_repo": "santanusinha/neovim-use-mcp",
+  "source_url": "https://github.com/santanusinha/neovim-use-mcp",
+  "install": "npx -y neovim-use-mcp"
+}

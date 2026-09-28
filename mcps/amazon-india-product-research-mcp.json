@@ -1,0 +1,7 @@
+{
+  "name": "amazon-india-product-research-mcp",
+  "description": "Enables beginner Amazon India sellers to research product opportunities, estimate demand, analyze competition, calculate profitability, find suppliers, mine reviews, research keywords, and generate listings through Claude Desktop.",
+  "source_repo": "Suriya-Ravichandran/amazon-india-seller-mcp",
+  "source_url": "https://github.com/Suriya-Ravichandran/amazon-india-seller-mcp",
+  "install": "npx -y amazon-india-seller-mcp"
+}

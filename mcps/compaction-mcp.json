@@ -1,0 +1,7 @@
+{
+  "name": "compaction-mcp",
+  "description": "Brings Claude Code's context compaction to any MCP host, enabling agents to gauge context pressure, summarize history, re-hydrate files, and persist rules across session boundaries.",
+  "source_repo": "Ink01101011/compaction-mcp",
+  "source_url": "https://github.com/Ink01101011/compaction-mcp",
+  "install": "npx -y compaction-mcp"
+}

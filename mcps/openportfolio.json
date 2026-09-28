@@ -1,0 +1,7 @@
+{
+  "name": "openportfolio",
+  "description": "Enables AI agents to read and write a self-hosted portfolio tracker through 25 MCP tools, covering net worth, flows, forecasts, decisions, and audit.",
+  "source_repo": "seonglae/openportfolio",
+  "source_url": "https://github.com/seonglae/openportfolio",
+  "install": "# git clone --depth 1 https://github.com/seonglae/openportfolio\n# See source for mcpServers config block"
+}

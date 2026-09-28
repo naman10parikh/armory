@@ -1,0 +1,7 @@
+{
+  "name": "qimen-mcp",
+  "description": "A deterministic Qi Men Dun Jia facts engine, exposed as Model Context Protocol (MCP) tools for AI agents.",
+  "source_repo": "cka4913/qimen-mcp",
+  "source_url": "https://github.com/cka4913/qimen-mcp",
+  "install": "npx -y qimen-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-staking-mcp-server",
+  "description": "MCP server for agent reputation staking — trust through skin-in-the-game. Agents deposit stakes as trust collateral, with slashing for bad behavior and reputation building over time.",
+  "source_repo": "AiAgentKarl/agent-staking-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/agent-staking-mcp-server",
+  "install": "npx -y agent-staking-mcp-server"
+}

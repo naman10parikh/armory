@@ -1,0 +1,7 @@
+{
+  "name": "altronis-sgdata-mcp",
+  "description": "Comprehensive Singapore government data MCP server - typed tools for SG datasets (data.gov.sg and more) for any AI agent. NPM: https://www.npmjs.com/package/@altronis/sgdata-mcp HOMEPAGE: https://altronis.sg",
+  "source_repo": "sypherin/sgdata-mcp",
+  "source_url": "https://github.com/sypherin/sgdata-mcp",
+  "install": "npx -y sgdata-mcp"
+}

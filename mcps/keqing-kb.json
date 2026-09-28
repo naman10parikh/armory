@@ -1,0 +1,7 @@
+{
+  "name": "keqing-kb",
+  "description": "MCP server for querying the Keqing customer service knowledge base, enabling AI agents to search structured knowledge entries and retrieve authoritative, citable answers.",
+  "source_repo": "Didione110/kb",
+  "source_url": "https://github.com/Didione110/kb",
+  "install": "# git clone --depth 1 https://github.com/Didione110/kb\n# See source for mcpServers config block"
+}

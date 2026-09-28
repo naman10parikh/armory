@@ -1,0 +1,7 @@
+{
+  "name": "mcp-windows-server",
+  "description": "Enables AI assistants to control Windows systems through natural language commands, providing 200+ automation tools for system control, file operations, web automation, and more.",
+  "source_repo": "mukul975/mcp-windows-automation",
+  "source_url": "https://github.com/mukul975/mcp-windows-automation",
+  "install": "# git clone --depth 1 https://github.com/mukul975/mcp-windows-automation\n# See source for mcpServers config block"
+}

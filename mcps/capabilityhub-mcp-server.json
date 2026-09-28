@@ -1,0 +1,7 @@
+{
+  "name": "capabilityhub-mcp-server",
+  "description": "Provides deterministic search, load, and execution operations for progressively disclosing agent capabilities (skills, MCP, CLI, HTTP/API, RAG). Enables scope-bound reference access with budgets and audit.",
+  "source_repo": "1Milkdeliver/capabilityhub",
+  "source_url": "https://github.com/1Milkdeliver/capabilityhub",
+  "install": "# git clone --depth 1 https://github.com/1Milkdeliver/capabilityhub\n# See source for mcpServers config block"
+}

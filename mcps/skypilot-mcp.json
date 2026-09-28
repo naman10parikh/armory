@@ -1,0 +1,7 @@
+{
+  "name": "skypilot-mcp",
+  "description": "MCP server for SkyPilot that lets LLMs manage cloud clusters, jobs, and storage through the Model Context Protocol.",
+  "source_repo": "alex000kim/skypilot-mcp",
+  "source_url": "https://github.com/alex000kim/skypilot-mcp",
+  "install": "npx -y skypilot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "multimodal-mcp",
+  "description": "Gives any MCP client (OpenCode, Claude Code, Claude Desktop, Cursor, etc.) the ability to process images by automatically converting them to text descriptions using a vision model, so that text-only LLMs can handle image-based queries.",
+  "source_repo": "believe3344/multimodal-mcp",
+  "source_url": "https://github.com/believe3344/multimodal-mcp",
+  "install": "npx -y multimodal-mcp"
+}

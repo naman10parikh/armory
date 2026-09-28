@@ -1,0 +1,7 @@
+{
+  "name": "robinhood-chain-mcp",
+  "description": "Enables agents to query live Robinhood Chain data including tokens, wallets, Chainlink feeds, heat scores, and tracking error on tokenized equities, all read-only without API keys.",
+  "source_repo": "arambarnett/robinhood-chain-mcp",
+  "source_url": "https://github.com/arambarnett/robinhood-chain-mcp",
+  "install": "npx -y robinhood-chain-mcp"
+}

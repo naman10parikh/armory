@@ -1,0 +1,7 @@
+{
+  "name": "anyrouter-spawn-agent",
+  "description": "MCP fallback that launches and monitors local codex exec agents when native sub agents are unavailable.",
+  "source_repo": "wendou-chen/anyrouter-spawn-agent",
+  "source_url": "https://github.com/wendou-chen/anyrouter-spawn-agent",
+  "install": "# git clone --depth 1 https://github.com/wendou-chen/anyrouter-spawn-agent\n# See source for mcpServers config block"
+}

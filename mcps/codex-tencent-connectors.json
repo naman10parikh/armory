@@ -1,0 +1,7 @@
+{
+  "name": "codex-tencent-connectors",
+  "description": "A MCP server plugin that integrates WeCom, QQ Mail, and Tencent Docs with OpenAI Codex, enabling operations like messaging, email management, and document editing through natural language.",
+  "source_repo": "Fortytwoo/codex-tencent-connectors",
+  "source_url": "https://github.com/Fortytwoo/codex-tencent-connectors",
+  "install": "# git clone --depth 1 https://github.com/Fortytwoo/codex-tencent-connectors\n# See source for mcpServers config block"
+}

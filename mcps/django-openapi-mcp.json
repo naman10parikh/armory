@@ -1,0 +1,7 @@
+{
+  "name": "django-openapi-mcp",
+  "description": "Introspects a Django REST API's OpenAPI schema and exposes each endpoint as an MCP tool, enabling Claude or any MCP client to interact with the API via natural language.",
+  "source_repo": "Shanahan-Suresh/django-openapi-mcp",
+  "source_url": "https://github.com/Shanahan-Suresh/django-openapi-mcp",
+  "install": "npx -y django-openapi-mcp"
+}

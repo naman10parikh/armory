@@ -1,0 +1,7 @@
+{
+  "name": "simple-prompts-mcp",
+  "description": "A simple MCP server for utilizing prompts defined in YAML files.",
+  "source_repo": "sinofseven/simple-prompts-mcp",
+  "source_url": "https://github.com/sinofseven/simple-prompts-mcp",
+  "install": "npx -y simple-prompts-mcp"
+}

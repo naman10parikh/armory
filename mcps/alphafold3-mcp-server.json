@@ -1,0 +1,7 @@
+{
+  "name": "alphafold3-mcp-server",
+  "description": "Enables AI-powered protein structure prediction and variant analysis via Docker, with tools for submitting predictions, batch processing variants, and monitoring jobs.",
+  "source_repo": "MacromNex/alphafold3_mcp",
+  "source_url": "https://github.com/MacromNex/alphafold3_mcp",
+  "install": "npx -y alphafold3_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eset-mcp",
+  "description": "A Model Context Protocol server for managing ESET security products (cloud and on-prem) from any MCP host, providing tools, resources, and prompts for comprehensive ESET management.",
+  "source_repo": "maciekaz/ESET-MCP",
+  "source_url": "https://github.com/maciekaz/ESET-MCP",
+  "install": "npx -y ESET-MCP"
+}

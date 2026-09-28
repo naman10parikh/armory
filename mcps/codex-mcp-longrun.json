@@ -1,0 +1,7 @@
+{
+  "name": "codex-mcp-longrun",
+  "description": "A local STDIO MCP server for running one bounded command and waiting for its final result, eliminating model-driven polling. Designed for builds, test suites, and other trusted foreground commands.",
+  "source_repo": "woffko/codex-mcp-longrun",
+  "source_url": "https://github.com/woffko/codex-mcp-longrun",
+  "install": "# git clone --depth 1 https://github.com/woffko/codex-mcp-longrun\n# See source for mcpServers config block"
+}

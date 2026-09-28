@@ -1,0 +1,7 @@
+{
+  "name": "triberef-mcp-server",
+  "description": "Provides persistent tribal memory for Claude Code sessions, enabling querying of decisions and entities, logging artifacts, and managing tasks with Supabase.",
+  "source_repo": "tribecast-org/triberef-mcp",
+  "source_url": "https://github.com/tribecast-org/triberef-mcp",
+  "install": "npx -y triberef-mcp"
+}

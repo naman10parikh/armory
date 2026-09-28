@@ -1,0 +1,7 @@
+{
+  "name": "reaper-mcp-server",
+  "description": "An MCP server that lets language models interact with the Reaper DAW",
+  "source_repo": "yeeking/reaper-mcp-server",
+  "source_url": "https://github.com/yeeking/reaper-mcp-server",
+  "install": "npx -y reaper-mcp-server"
+}

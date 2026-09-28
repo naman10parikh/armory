@@ -1,0 +1,7 @@
+{
+  "name": "kedro-mcp-server",
+  "description": "Provides AI assistants with versioned guidance for Kedro projects, including notebook conversion and project migration.",
+  "source_repo": "kedro-org/kedro-mcp",
+  "source_url": "https://github.com/kedro-org/kedro-mcp",
+  "install": "npx -y kedro-mcp"
+}

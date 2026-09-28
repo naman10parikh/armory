@@ -1,0 +1,7 @@
+{
+  "name": "korral-storelink-mcp",
+  "description": "Enables stock assessment and replenishment by exposing three deterministic tools: inspect stock positions, raise replenishment orders, and check order status. Includes an auditable local client and follows a security-first design with limited API surface.",
+  "source_repo": "HillmaDa/korral-storelink-mcp",
+  "source_url": "https://github.com/HillmaDa/korral-storelink-mcp",
+  "install": "npx -y korral-storelink-mcp"
+}

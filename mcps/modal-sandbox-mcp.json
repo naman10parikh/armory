@@ -1,0 +1,7 @@
+{
+  "name": "modal-sandbox-mcp",
+  "description": "Enables AI agents to run arbitrary Python scripts on Modal's serverless infrastructure with on-demand CPU, memory, and GPU resources, providing scalable compute without maintaining always-on servers.",
+  "source_repo": "amichae2/modal-sandbox-mcp",
+  "source_url": "https://github.com/amichae2/modal-sandbox-mcp",
+  "install": "npx -y modal-sandbox-mcp"
+}

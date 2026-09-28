@@ -1,0 +1,7 @@
+{
+  "name": "text-translator-api",
+  "description": "Enables text translation between 50+ languages with automatic source language detection. Uses x402 micropayments for pay-per-call without API keys or signup.",
+  "source_repo": "Br0ski777/text-translator-x402",
+  "source_url": "https://github.com/Br0ski777/text-translator-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/text-translator-x402\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pic-nicked-mcp",
+  "description": "Enables searching Google Custom Search Engine for images and saving them directly to the user's project directory.",
+  "source_repo": "micfogas/mcp-picnick",
+  "source_url": "https://github.com/micfogas/mcp-picnick",
+  "install": "# git clone --depth 1 https://github.com/micfogas/mcp-picnick\n# See source for mcpServers config block"
+}

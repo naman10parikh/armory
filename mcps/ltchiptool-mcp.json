@@ -1,0 +1,7 @@
+{
+  "name": "ltchiptool-mcp",
+  "description": "Enables chip-level firmware extraction and analysis for BK7231 family IoT devices via UART, supporting flash dumping, decryption, and partition extraction.",
+  "source_repo": "mplogas/ltchiptool-mcp",
+  "source_url": "https://github.com/mplogas/ltchiptool-mcp",
+  "install": "npx -y ltchiptool-mcp"
+}

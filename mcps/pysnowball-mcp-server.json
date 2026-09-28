@@ -1,0 +1,7 @@
+{
+  "name": "pysnowball-mcp-server",
+  "description": "MCP server that provides 56 API interfaces covering real-time quotes, financial data, funds, indices, and more from Xueqiu stock data, supporting both MCP and REST protocols.",
+  "source_repo": "pdone/xqmcp",
+  "source_url": "https://github.com/pdone/xqmcp",
+  "install": "# git clone --depth 1 https://github.com/pdone/xqmcp\n# See source for mcpServers config block"
+}

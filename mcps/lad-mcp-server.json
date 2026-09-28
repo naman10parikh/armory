@@ -1,0 +1,7 @@
+{
+  "name": "lad-mcp-server",
+  "description": "A project-aware AI design and code review server that uses dual reviewers via OpenRouter to catch context-blind errors in AI-generated code, optionally integrating with Serena for long-term project memory.",
+  "source_repo": "Shelpuk-AI-Technology-Consulting/lad_mcp_server",
+  "source_url": "https://github.com/Shelpuk-AI-Technology-Consulting/lad_mcp_server",
+  "install": "npx -y lad_mcp_server"
+}

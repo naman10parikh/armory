@@ -1,0 +1,7 @@
+{
+  "name": "fabric-workspace-reader-mcp",
+  "description": "MCP server for exploring Microsoft Fabric and Power BI workspaces. It provides tools to list workspaces and get detailed contents of a workspace.",
+  "source_repo": "data-goblin/fabric-workspace-reader-mcp",
+  "source_url": "https://github.com/data-goblin/fabric-workspace-reader-mcp",
+  "install": "npx -y fabric-workspace-reader-mcp"
+}

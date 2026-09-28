@@ -1,0 +1,7 @@
+{
+  "name": "euacc-eu-funding-mcp-connector",
+  "description": "Provides AI assistants with real-time, verified European funding data including open grant calls, programmes, consortium partners, VCs, and incubators, enabling natural language queries about EU funding.",
+  "source_repo": "caraulani/euacc-mcp",
+  "source_url": "https://github.com/caraulani/euacc-mcp",
+  "install": "npx -y euacc-mcp"
+}

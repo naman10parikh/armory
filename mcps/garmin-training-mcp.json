@@ -1,0 +1,7 @@
+{
+  "name": "garmin-training-mcp",
+  "description": "Connects Claude to Garmin Connect to view fitness data and create adaptive training plans for running, swimming, cycling, and strength. Supports both local and VPS deployment with optional Supabase storage.",
+  "source_repo": "javipaur/MCP-Garmin",
+  "source_url": "https://github.com/javipaur/MCP-Garmin",
+  "install": "# git clone --depth 1 https://github.com/javipaur/MCP-Garmin\n# See source for mcpServers config block"
+}

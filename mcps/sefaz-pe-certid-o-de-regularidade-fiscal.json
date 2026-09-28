@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-pe-certid-o-de-regularidade-fiscal",
+  "description": "MCP server for consulting official SEFAZ PE tax regularity certificates (Certidão de Regularidade Fiscal) via a read-only tool.",
+  "source_repo": "mcp-dir/sefaz_pe_crf-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_pe_crf-mcp",
+  "install": "npx -y sefaz_pe_crf-mcp"
+}

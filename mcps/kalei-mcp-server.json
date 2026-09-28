@@ -1,0 +1,7 @@
+{
+  "name": "kalei-mcp-server",
+  "description": "Exposes KALEI's AI cognitive profiling tools, including leaderboards, model comparisons, dimensions, and BYOK model profiling, to MCP-compatible assistants.",
+  "source_repo": "Venelin-Videnov/kalei-mcp-server",
+  "source_url": "https://github.com/Venelin-Videnov/kalei-mcp-server",
+  "install": "npx -y kalei-mcp-server"
+}

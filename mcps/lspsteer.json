@@ -1,0 +1,7 @@
+{
+  "name": "lspsteer",
+  "description": "Compiler-in-the-loop steering for coding agents - Cursor and Claude Code. It runs your workspace's real language server on each edit, extracts diagnostics scoped to the changed lines and type signatures, and feeds that back to the coding agent.",
+  "source_repo": "haristariq/lspsteer",
+  "source_url": "https://github.com/haristariq/lspsteer",
+  "install": "# git clone --depth 1 https://github.com/haristariq/lspsteer\n# See source for mcpServers config block"
+}

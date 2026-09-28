@@ -1,0 +1,7 @@
+{
+  "name": "psychopy-mcp",
+  "description": "An MCP server that enables Claude Code/Codex to directly control PsychoPy for designing, running, and analyzing psychology experiments with literature-calibrated paradigms.",
+  "source_repo": "hackerunner/psychopy-mcp",
+  "source_url": "https://github.com/hackerunner/psychopy-mcp",
+  "install": "npx -y psychopy-mcp"
+}

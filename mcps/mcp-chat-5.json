@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chat-5",
+  "description": "This MCP server enables interactive chat with AI models via the Anthropic API, supporting document retrieval and command-based prompts.",
+  "source_repo": "TejaswiniChalla-07/MCP-CHAT",
+  "source_url": "https://github.com/TejaswiniChalla-07/MCP-CHAT",
+  "install": "# git clone --depth 1 https://github.com/TejaswiniChalla-07/MCP-CHAT\n# See source for mcpServers config block"
+}

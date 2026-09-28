@@ -1,0 +1,7 @@
+{
+  "name": "brainerce-mcp-server",
+  "description": "Provides AI coding assistants with domain knowledge about the Brainerce headless commerce platform, including SDK reference, type definitions, business flows, critical rules, and live store capabilities.",
+  "source_repo": "brainerce/mcp-server",
+  "source_url": "https://github.com/brainerce/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/brainerce/mcp-server\n# See source for mcpServers config block"
+}

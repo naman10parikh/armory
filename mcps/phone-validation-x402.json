@@ -1,0 +1,7 @@
+{
+  "name": "phone-validation-x402",
+  "description": "Validates phone numbers worldwide (carrier, line type, country) via single or batch requests, with pay-per-call using x402 micropayments (USDC on Base) — no API key required.",
+  "source_repo": "Br0ski777/phone-validation-x402",
+  "source_url": "https://github.com/Br0ski777/phone-validation-x402",
+  "install": "# git clone --depth 1 https://github.com/Br0ski777/phone-validation-x402\n# See source for mcpServers config block"
+}

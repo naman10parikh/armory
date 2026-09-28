@@ -1,0 +1,7 @@
+{
+  "name": "ghostinspector-mcp-server",
+  "description": "Enables natural language interaction with Ghost Inspector for managing automated browser tests, suites, folders, and execution results.",
+  "source_repo": "tempestim/ghostinspector-mcp-server",
+  "source_url": "https://github.com/tempestim/ghostinspector-mcp-server",
+  "install": "npx -y ghostinspector-mcp-server"
+}

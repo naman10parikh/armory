@@ -1,0 +1,7 @@
+{
+  "name": "arch-expert-mcp",
+  "description": "Automates project scaffolding for Domain-Driven Design and Clean Architecture, providing professional naming, structure verification, and bilingual documentation generation.",
+  "source_repo": "jl681/arch-expert-mcp",
+  "source_url": "https://github.com/jl681/arch-expert-mcp",
+  "install": "npx -y arch-expert-mcp"
+}

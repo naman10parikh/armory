@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-base-server",
+  "description": "A persistent memory system that captures, classifies, synthesizes, and retrieves knowledge for AI agents, turning raw information into refined, retrievable knowledge that compounds intelligence over time.",
+  "source_repo": "willynikes2/knowledge-base-server",
+  "source_url": "https://github.com/willynikes2/knowledge-base-server",
+  "install": "# git clone --depth 1 https://github.com/willynikes2/knowledge-base-server\n# See source for mcpServers config block"
+}

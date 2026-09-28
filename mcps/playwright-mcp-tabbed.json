@@ -1,0 +1,7 @@
+{
+  "name": "playwright-mcp-tabbed",
+  "description": "A tab-aware Playwright MCP server that enables multiple agents to operate on different tabs concurrently while sharing a single browser context and login session.",
+  "source_repo": "songofhawk/playwright-mcp-tabbed",
+  "source_url": "https://github.com/songofhawk/playwright-mcp-tabbed",
+  "install": "# git clone --depth 1 https://github.com/songofhawk/playwright-mcp-tabbed\n# See source for mcpServers config block"
+}

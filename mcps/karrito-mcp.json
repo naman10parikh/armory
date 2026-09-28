@@ -1,0 +1,7 @@
+{
+  "name": "karrito-mcp",
+  "description": "MCP server for Karrito - the digital catalog builder for WhatsApp sellers in LATAM, enabling AI assistants to manage store operations like products, orders, discounts, reviews, shipping, and analytics.",
+  "source_repo": "curetcore/karrito-mcp",
+  "source_url": "https://github.com/curetcore/karrito-mcp",
+  "install": "npx -y karrito-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "devpilot-2",
+  "description": "Dev server supervisor for AI coders. Manages dev server lifecycles, detects reloads, checks health, and recovers from crashes. 10 MCP tools for full lifecycle management. Best used as a local stdio server (pip install devpilot-ai[mcp]) since it needs access to your machine processes and ports.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/benzsevern/devpilot",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/benzsevern/devpilot\n# See source for mcpServers config block"
+}

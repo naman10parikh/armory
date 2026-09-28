@@ -1,0 +1,7 @@
+{
+  "name": "officeagent-net",
+  "description": "MCP server that lets agents edit real Microsoft Word (.docx) documents - tracked changes, tables, styles, comments, content controls, and document properties - with every edit validated and previewed before saving. Built on the Open XML SDK (no Word automation); reads and writes documents in place t",
+  "source_repo": "ilia-sokolov/OfficeAgent.NET",
+  "source_url": "https://github.com/ilia-sokolov/OfficeAgent.NET",
+  "install": "# git clone --depth 1 https://github.com/ilia-sokolov/OfficeAgent.NET\n# See source for mcpServers config block"
+}

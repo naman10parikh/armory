@@ -1,0 +1,7 @@
+{
+  "name": "noteplan-mcp-server",
+  "description": "Enables AI assistants to manage NotePlan notes, tasks, calendar events, reminders, and plugins through natural language.",
+  "source_repo": "NotePlan/noteplan-mcp",
+  "source_url": "https://github.com/NotePlan/noteplan-mcp",
+  "install": "npx -y noteplan-mcp"
+}

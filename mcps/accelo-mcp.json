@@ -1,0 +1,7 @@
+{
+  "name": "accelo-mcp",
+  "description": "MCP server exposing Accelo quote tools (list, get, create, update) with per-user OAuth authentication for natural language interaction.",
+  "source_repo": "andrewgl504/accelo-mcp",
+  "source_url": "https://github.com/andrewgl504/accelo-mcp",
+  "install": "npx -y accelo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vector-index-mcp",
+  "description": "Enables indexing and semantic search of software project files via MCP, with automatic file watching for updates.",
+  "source_repo": "synonymouse/vector-index-mcp",
+  "source_url": "https://github.com/synonymouse/vector-index-mcp",
+  "install": "npx -y vector-index-mcp"
+}

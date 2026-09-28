@@ -1,0 +1,7 @@
+{
+  "name": "photo-marketplace-listing-assistant",
+  "description": "This MCP server analyzes product photos using AI to generate listing drafts, publishes to Mercari Shops via GraphQL API, and exports drafts for other marketplaces.",
+  "source_repo": "univcorp2-ctrl/photo-marketplace-listing-assistant",
+  "source_url": "https://github.com/univcorp2-ctrl/photo-marketplace-listing-assistant",
+  "install": "# git clone --depth 1 https://github.com/univcorp2-ctrl/photo-marketplace-listing-assistant\n# See source for mcpServers config block"
+}

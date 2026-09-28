@@ -1,0 +1,7 @@
+{
+  "name": "priya-gautam-mcp-server",
+  "description": "Exposes Priya Gautam's professional profile (skills, projects, experience, education) via MCP tools and dynamic context retrieval.",
+  "source_repo": "priya2001/priya-gautam-mcp-server",
+  "source_url": "https://github.com/priya2001/priya-gautam-mcp-server",
+  "install": "npx -y priya-gautam-mcp-server"
+}

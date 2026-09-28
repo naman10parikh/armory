@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agentchat",
+  "description": "An MCP server enabling AI agents to interact with users via Telegram, supporting message and image sending, inline quick replies, and waiting for user responses.",
+  "source_repo": "Lynricsy/AgentChatMCP",
+  "source_url": "https://github.com/Lynricsy/AgentChatMCP",
+  "install": "# git clone --depth 1 https://github.com/Lynricsy/AgentChatMCP\n# See source for mcpServers config block"
+}

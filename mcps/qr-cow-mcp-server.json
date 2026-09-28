@@ -1,0 +1,7 @@
+{
+  "name": "qr-cow-mcp-server",
+  "description": "MCP server that exposes the qr-cow.com API, enabling AI clients to create, style, manage, and analyze QR codes through natural language.",
+  "source_repo": "qrcow/qr_cow_mcp",
+  "source_url": "https://github.com/qrcow/qr_cow_mcp",
+  "install": "npx -y qr_cow_mcp"
+}

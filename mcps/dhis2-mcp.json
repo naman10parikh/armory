@@ -1,0 +1,7 @@
+{
+  "name": "dhis2-mcp",
+  "description": "Enables read-only interaction with DHIS2 health data by searching indicators and querying compact analytics results, designed for small local models.",
+  "source_repo": "brianmituka/dhis2-mcp",
+  "source_url": "https://github.com/brianmituka/dhis2-mcp",
+  "install": "npx -y dhis2-mcp"
+}

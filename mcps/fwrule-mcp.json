@@ -1,0 +1,7 @@
+{
+  "name": "fwrule-mcp",
+  "description": "An MCP server that analyzes firewall rule overlap, duplication, shadowing, and conflicts across multi-vendor firewall policies.",
+  "source_repo": "AutomateIP/fwrule-mcp",
+  "source_url": "https://github.com/AutomateIP/fwrule-mcp",
+  "install": "npx -y fwrule-mcp"
+}

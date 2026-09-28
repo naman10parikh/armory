@@ -1,0 +1,7 @@
+{
+  "name": "readyorai",
+  "description": "Enables local code inspection and analysis for clean code practices, best practices, and actionable recommendations without external API calls or modifying the code.",
+  "source_repo": "TedoNeObichaJavaScript/ReadyOrAI",
+  "source_url": "https://github.com/TedoNeObichaJavaScript/ReadyOrAI",
+  "install": "# git clone --depth 1 https://github.com/TedoNeObichaJavaScript/ReadyOrAI\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-latex",
+  "description": "An MCP server for LaTeX that enables AI assistants to check documents for errors, parse compiler logs, and compile LaTeX files, helping them fix documents instead of guessing.",
+  "source_repo": "marcelogdomingues/mcp-latex",
+  "source_url": "https://github.com/marcelogdomingues/mcp-latex",
+  "install": "# git clone --depth 1 https://github.com/marcelogdomingues/mcp-latex\n# See source for mcpServers config block"
+}

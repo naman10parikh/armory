@@ -1,0 +1,7 @@
+{
+  "name": "shadowgate-mcp",
+  "description": "A defensive gateway and firewall for AI agents using MCP servers, scanning tool calls, responses, and manifests for prompt injection, secrets, dangerous commands, and drift before allowing execution.",
+  "source_repo": "josephibra/shadowgate-mcp",
+  "source_url": "https://github.com/josephibra/shadowgate-mcp",
+  "install": "npx -y shadowgate-mcp"
+}

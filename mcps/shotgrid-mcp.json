@@ -1,0 +1,7 @@
+{
+  "name": "shotgrid-mcp",
+  "description": "A lean MCP server giving LLM agents full access to the ShotGrid / Autodesk Flow Production Tracking API through 15 curated tools, including generic CRUD, schema discovery, and safe writes with a dry_run flag.",
+  "source_repo": "huikku/shotgrid-mcp",
+  "source_url": "https://github.com/huikku/shotgrid-mcp",
+  "install": "npx -y shotgrid-mcp"
+}

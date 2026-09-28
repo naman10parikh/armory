@@ -1,0 +1,7 @@
+{
+  "name": "falllegalonboard-mcp",
+  "description": "MCP server for the foldkit SDK that exposes 7-prime spine, 7 κ-bands, and 6 fold operations as tools and resources, enabling state folding, band classification, and operation application via natural language in any MCP client.",
+  "source_repo": "sjgant80-hub/falllegalonboard-mcp",
+  "source_url": "https://github.com/sjgant80-hub/falllegalonboard-mcp",
+  "install": "npx -y falllegalonboard-mcp"
+}

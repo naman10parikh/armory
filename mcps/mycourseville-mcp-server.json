@@ -1,0 +1,7 @@
+{
+  "name": "mycourseville-mcp-server",
+  "description": "Enables an AI agent to access a user's MyCourseVille account to retrieve assignments with deadlines, course materials, released grades, and a feed of what has changed since the last sync.",
+  "source_repo": "aongzera/mcv-mcp",
+  "source_url": "https://github.com/aongzera/mcv-mcp",
+  "install": "npx -y mcv-mcp"
+}

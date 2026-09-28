@@ -1,0 +1,7 @@
+{
+  "name": "zoom-search",
+  "description": "MCP search and evidence tool for AI agents. Rewrites queries, zooms into source domains, and returns sourced answers with metrics.",
+  "source_repo": "goofrey/zoom-search",
+  "source_url": "https://github.com/goofrey/zoom-search",
+  "install": "# git clone --depth 1 https://github.com/goofrey/zoom-search\n# See source for mcpServers config block"
+}

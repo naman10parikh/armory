@@ -1,0 +1,7 @@
+{
+  "name": "licensing-hardening-mcp-server",
+  "description": "A deliberately vulnerable MCP server for local authority licensing, designed to demonstrate and fix native MCP weaknesses such as SQL injection and tool poisoning.",
+  "source_repo": "iNileshW/mcp-licensing-hardening",
+  "source_url": "https://github.com/iNileshW/mcp-licensing-hardening",
+  "install": "# git clone --depth 1 https://github.com/iNileshW/mcp-licensing-hardening\n# See source for mcpServers config block"
+}

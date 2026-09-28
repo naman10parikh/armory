@@ -1,0 +1,7 @@
+{
+  "name": "smart-gym-mcp",
+  "description": "Connects AI assistants to SmartGym on Mac, enabling users to review workouts, tweak routines, and build training programs in plain English, with changes syncing to iPhone and Apple Watch.",
+  "source_repo": "sla1k/smart-gym-mcp",
+  "source_url": "https://github.com/sla1k/smart-gym-mcp",
+  "install": "npx -y smart-gym-mcp"
+}

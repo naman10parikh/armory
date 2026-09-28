@@ -1,0 +1,7 @@
+{
+  "name": "ispconfig-mcp",
+  "description": "MCP server for managing ISPConfig 3 hosting platform - enables DNS, mail, websites, databases, FTP, cron jobs, and client management through AI assistants. Supports server migration with export/import of configurations.",
+  "source_repo": "DayZAnder/ispconfig-mcp",
+  "source_url": "https://github.com/DayZAnder/ispconfig-mcp",
+  "install": "npx -y ispconfig-mcp"
+}

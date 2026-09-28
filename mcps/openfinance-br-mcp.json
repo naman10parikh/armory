@@ -1,0 +1,7 @@
+{
+  "name": "openfinance-br-mcp",
+  "description": "Enables Claude to interact with the Open Finance Brasil APIs, allowing users to query accounts, balances, transactions, credit cards, PIX keys, initiate PIX payments, and view investments across supported Brazilian banks using natural language.",
+  "source_repo": "brunovicco/openfinance-br-mcp",
+  "source_url": "https://github.com/brunovicco/openfinance-br-mcp",
+  "install": "npx -y openfinance-br-mcp"
+}

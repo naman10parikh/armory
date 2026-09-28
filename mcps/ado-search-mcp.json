@@ -1,0 +1,7 @@
+{
+  "name": "ado-search-mcp",
+  "description": "Enables search and management of Azure DevOps work items and wiki pages via MCP, wrapping the ado-search CLI.",
+  "source_repo": "HurleySk/ado-search-mcp",
+  "source_url": "https://github.com/HurleySk/ado-search-mcp",
+  "install": "npx -y ado-search-mcp"
+}

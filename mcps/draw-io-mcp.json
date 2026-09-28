@@ -1,0 +1,7 @@
+{
+  "name": "draw-io-mcp",
+  "description": "Enables local Draw.io diagram creation, editing, and export via MCP tools, using the desktop app.",
+  "source_repo": "CycSpring/draw.io-use",
+  "source_url": "https://github.com/CycSpring/draw.io-use",
+  "install": "# git clone --depth 1 https://github.com/CycSpring/draw.io-use\n# See source for mcpServers config block"
+}

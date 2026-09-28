@@ -1,0 +1,7 @@
+{
+  "name": "office-mcp-2",
+  "description": "Automates Windows Office applications (WPS Office and Outlook) via COM automation, enabling AI assistants to perform spreadsheet, document, and email tasks.",
+  "source_repo": "hinora/office-mcp",
+  "source_url": "https://github.com/hinora/office-mcp",
+  "install": "npx -y office-mcp"
+}

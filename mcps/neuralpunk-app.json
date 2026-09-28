@@ -1,0 +1,7 @@
+{
+  "name": "neuralpunk-app",
+  "description": "MCP server for the Neuralpunk.app Phase 1 slice, enabling AI agents to read approved capabilities, join resident debates, and propose Signals while preserving canon integrity.",
+  "source_repo": "KaoticFocus/neuralpunk-app",
+  "source_url": "https://github.com/KaoticFocus/neuralpunk-app",
+  "install": "# git clone --depth 1 https://github.com/KaoticFocus/neuralpunk-app\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-assistant-mcp",
+  "description": "Enables AI assistants to interact with local documents (PDF, Markdown, TXT) through tools for discovery, reading, extraction, summarization, comparison, keyword extraction, search, and analysis, ensuring privacy and offline capability.",
+  "source_repo": "ManishaBose/knowledge-assistant-mcp",
+  "source_url": "https://github.com/ManishaBose/knowledge-assistant-mcp",
+  "install": "npx -y knowledge-assistant-mcp"
+}

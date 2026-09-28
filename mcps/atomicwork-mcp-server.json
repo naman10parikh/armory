@@ -1,0 +1,7 @@
+{
+  "name": "atomicwork-mcp-server",
+  "description": "Enables AI assistants like Claude to interact with Atomicwork tickets, requests, and workflows through natural language, providing tools for listing, searching, and managing tickets.",
+  "source_repo": "keller-a16z/public-atomicwork-mcp",
+  "source_url": "https://github.com/keller-a16z/public-atomicwork-mcp",
+  "install": "npx -y public-atomicwork-mcp"
+}

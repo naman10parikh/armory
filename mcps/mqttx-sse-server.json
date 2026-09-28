@@ -1,0 +1,7 @@
+{
+  "name": "mqttx-sse-server",
+  "description": "Enables MQTT broker operations like connect, subscribe, and publish through MCP over SSE transport.",
+  "source_repo": "ysfscream/mqttx-mcp-sse-server",
+  "source_url": "https://github.com/ysfscream/mqttx-mcp-sse-server",
+  "install": "# git clone --depth 1 https://github.com/ysfscream/mqttx-mcp-sse-server\n# See source for mcpServers config block"
+}

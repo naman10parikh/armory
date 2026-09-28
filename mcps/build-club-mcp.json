@@ -1,0 +1,7 @@
+{
+  "name": "build-club-mcp",
+  "description": "MCP server with example tools for arithmetic and greeting, designed for deployment on Amazon Bedrock AgentCore Runtime with OAuth authentication.",
+  "source_repo": "mkingopng/build_club_mcp",
+  "source_url": "https://github.com/mkingopng/build_club_mcp",
+  "install": "npx -y build_club_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trf4-certid-o-negativa-c-vel-e-criminal",
+  "description": "MCP server to consult official negative civil and criminal certificates from TRF4 (Brazilian Federal Regional Court). It provides a single read-only tool for querying certificates, with pay-per-use credits.",
+  "source_repo": "mcp-dir/tribunal_trf4_certidao-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trf4_certidao-mcp",
+  "install": "npx -y tribunal_trf4_certidao-mcp"
+}

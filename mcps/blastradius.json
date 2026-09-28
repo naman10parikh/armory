@@ -1,0 +1,7 @@
+{
+  "name": "blastradius",
+  "description": "Analyzes npm dependency upgrades to reveal which files and functions in your codebase break, with confidence tiers and transitive call chain tracing.",
+  "source_repo": "justfeltlikerunning/blastradius",
+  "source_url": "https://github.com/justfeltlikerunning/blastradius",
+  "install": "# git clone --depth 1 https://github.com/justfeltlikerunning/blastradius\n# See source for mcpServers config block"
+}

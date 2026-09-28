@@ -1,0 +1,7 @@
+{
+  "name": "entra-identity-posture-mcp",
+  "description": "Enables auditing and monitoring of Microsoft Entra ID security posture, Conditional Access policies, and Zero Trust alignment via Microsoft Graph API.",
+  "source_repo": "henrymbuguakiarie/entra-identity-posture-mcp",
+  "source_url": "https://github.com/henrymbuguakiarie/entra-identity-posture-mcp",
+  "install": "npx -y entra-identity-posture-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rustok-mcp",
+  "description": "MCP server that connects LLM agents to the Rustok self-custody crypto wallet via Gateway, enabling human-approved transaction execution and wallet management.",
+  "source_repo": "rustok-org/mcp",
+  "source_url": "https://github.com/rustok-org/mcp",
+  "install": "# git clone --depth 1 https://github.com/rustok-org/mcp\n# See source for mcpServers config block"
+}

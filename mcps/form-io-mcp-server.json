@@ -1,0 +1,7 @@
+{
+  "name": "form-io-mcp-server",
+  "description": "Enables AI agents to manage forms, roles, actions, and projects on a Form.io Enterprise Server via MCP tools, turning it into a composable backend for agentically coded applications.",
+  "source_repo": "formio/ai",
+  "source_url": "https://github.com/formio/ai",
+  "install": "# git clone --depth 1 https://github.com/formio/ai\n# See source for mcpServers config block"
+}

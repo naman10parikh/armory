@@ -1,0 +1,7 @@
+{
+  "name": "v8unpack-mcp",
+  "description": "MCP server for full lifecycle of 1C binary files (CF/CFE/EPF/ERF) without EDT import: unpack to a temporary directory, read and edit code/forms/help, search, diff, repack, and cleanup. Enables code analysis, patching, and bytecode decompilation of protected modules via natural language.",
+  "source_repo": "sergeyfedyakov/v8unpack-mcp",
+  "source_url": "https://github.com/sergeyfedyakov/v8unpack-mcp",
+  "install": "npx -y v8unpack-mcp"
+}

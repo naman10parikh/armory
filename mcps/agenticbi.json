@@ -1,0 +1,7 @@
+{
+  "name": "agenticbi",
+  "description": "Connect your business data to any MCP client. AgenticBI agents find the right data, join across systems, run queries, build dashboards, generate reports, and automate analytics workflows. No SQL required.",
+  "source_repo": "AgenticBIHQ/agenticbi-mcp-server",
+  "source_url": "https://github.com/AgenticBIHQ/agenticbi-mcp-server",
+  "install": "npx -y agenticbi-mcp-server"
+}

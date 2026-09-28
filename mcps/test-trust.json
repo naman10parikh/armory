@@ -1,0 +1,7 @@
+{
+  "name": "test-trust",
+  "description": "MCP server that performs mutation testing and diff scoping to score how trustworthy tests are for detecting regressions in changed code.",
+  "source_repo": "rrudy9/test-trust",
+  "source_url": "https://github.com/rrudy9/test-trust",
+  "install": "# git clone --depth 1 https://github.com/rrudy9/test-trust\n# See source for mcpServers config block"
+}

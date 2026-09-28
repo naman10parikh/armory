@@ -1,0 +1,7 @@
+{
+  "name": "yancelint-mcp-server",
+  "description": "Enables AI coding assistants like Claude Code to perform real-time code linting and get violation summaries from tools such as ESLint, Stylelint, P3C, and Checkstyle via a local server.",
+  "source_repo": "xihe-lab/yance-mcp-server",
+  "source_url": "https://github.com/xihe-lab/yance-mcp-server",
+  "install": "npx -y yance-mcp-server"
+}

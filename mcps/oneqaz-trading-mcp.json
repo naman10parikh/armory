@@ -1,0 +1,7 @@
+{
+  "name": "oneqaz-trading-mcp",
+  "description": "Provides AI agents with real-time financial market intelligence including regime detection, adaptive signals, macro context chains, and cross-market analysis for crypto, US, and Korean stocks.",
+  "source_repo": "oneqaz-trading/oneqaz-trading-mcp",
+  "source_url": "https://github.com/oneqaz-trading/oneqaz-trading-mcp",
+  "install": "npx -y oneqaz-trading-mcp"
+}

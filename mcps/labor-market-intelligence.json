@@ -1,0 +1,7 @@
+{
+  "name": "labor-market-intelligence",
+  "description": "Enables Claude users to research U.S. labor-market trends through live BLS and FRED data, covering employment, unemployment, wages, job openings, occupational outlook, and industry comparisons.",
+  "source_repo": "harperbrian/labor-market-intelligence-mcp",
+  "source_url": "https://github.com/harperbrian/labor-market-intelligence-mcp",
+  "install": "npx -y labor-market-intelligence-mcp"
+}

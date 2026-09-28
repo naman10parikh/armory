@@ -1,0 +1,7 @@
+{
+  "name": "experiment-audit-mcp",
+  "description": "An MCP server that audits W&B experiments to catch confounded ablations, training pathologies, and misleading sweep conclusions across many runs.",
+  "source_repo": "SreeDharshan-GJ/experiment-audit-mcp",
+  "source_url": "https://github.com/SreeDharshan-GJ/experiment-audit-mcp",
+  "install": "npx -y experiment-audit-mcp"
+}

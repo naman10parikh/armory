@@ -1,0 +1,7 @@
+{
+  "name": "hubspot-mcp-server",
+  "description": "Integrates with HubSpot CRM APIs via the Model Context Protocol, enabling management of contacts, companies, deals, tickets, notes, engagements, workflows, and more through natural language.",
+  "source_repo": "adeel0x01/hubspot-mcp-tools",
+  "source_url": "https://github.com/adeel0x01/hubspot-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/adeel0x01/hubspot-mcp-tools\n# See source for mcpServers config block"
+}

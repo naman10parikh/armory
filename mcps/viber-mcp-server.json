@@ -1,0 +1,7 @@
+{
+  "name": "viber-mcp-server",
+  "description": "Enables an AI assistant to send and read Viber messages by automating the Viber Desktop app on macOS through UI automation and OCR.",
+  "source_repo": "wawimundo/viber-mcp",
+  "source_url": "https://github.com/wawimundo/viber-mcp",
+  "install": "npx -y viber-mcp"
+}

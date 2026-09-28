@@ -1,0 +1,7 @@
+{
+  "name": "testmaze-mcp",
+  "description": "Connects MCP-compatible coding agents to a hosted Test Maze instance for verifying test scenarios via a stdio-to-HTTP proxy.",
+  "source_repo": "zcalo/testmaze-mcp",
+  "source_url": "https://github.com/zcalo/testmaze-mcp",
+  "install": "npx -y testmaze-mcp"
+}

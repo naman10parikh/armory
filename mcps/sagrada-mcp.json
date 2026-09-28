@@ -1,0 +1,7 @@
+{
+  "name": "sagrada-mcp",
+  "description": "MCP server for tracking and verifying AI reasoning state, with signed action receipts, repo-history records, and preflight gating for tool calls.",
+  "source_repo": "Cruxia-Labs/sagrada-mcp",
+  "source_url": "https://github.com/Cruxia-Labs/sagrada-mcp",
+  "install": "npx -y sagrada-mcp"
+}

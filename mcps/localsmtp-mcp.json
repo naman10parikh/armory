@@ -1,0 +1,7 @@
+{
+  "name": "localsmtp-mcp",
+  "description": "Provides a dummy SMTP server for catching emails during development, with MCP tools to list, retrieve, and manage received messages.",
+  "source_repo": "fclef819/localSMTP-mcp",
+  "source_url": "https://github.com/fclef819/localSMTP-mcp",
+  "install": "npx -y localSMTP-mcp"
+}

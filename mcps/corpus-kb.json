@@ -1,0 +1,7 @@
+{
+  "name": "corpus-kb",
+  "description": "Local end-to-end RAG system for agentic code editors, exposing retrieval-augmented generation via MCP to any compatible client.",
+  "source_repo": "moliver28/corpus-kb",
+  "source_url": "https://github.com/moliver28/corpus-kb",
+  "install": "# git clone --depth 1 https://github.com/moliver28/corpus-kb\n# See source for mcpServers config block"
+}

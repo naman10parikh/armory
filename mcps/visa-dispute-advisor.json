@@ -1,0 +1,7 @@
+{
+  "name": "visa-dispute-advisor",
+  "description": "Helps merchants resolve credit card disputes by searching VISA guidelines and checking dispute history to generate structured recommendations.",
+  "source_repo": "alejamorenovallejo/visa-dispute-advisor",
+  "source_url": "https://github.com/alejamorenovallejo/visa-dispute-advisor",
+  "install": "# git clone --depth 1 https://github.com/alejamorenovallejo/visa-dispute-advisor\n# See source for mcpServers config block"
+}

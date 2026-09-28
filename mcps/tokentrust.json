@@ -1,0 +1,7 @@
+{
+  "name": "tokentrust",
+  "description": "Vendor-neutral CLI and MCP server that verifies the token and cost savings AI-coding-agent context-reduction proxies actually deliver, measured against a real labeled corpus.",
+  "source_repo": "RudrenduPaul/TokenTrust-CLI",
+  "source_url": "https://github.com/RudrenduPaul/TokenTrust-CLI",
+  "install": "# git clone --depth 1 https://github.com/RudrenduPaul/TokenTrust-CLI\n# See source for mcpServers config block"
+}

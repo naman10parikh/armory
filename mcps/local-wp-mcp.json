@@ -1,0 +1,7 @@
+{
+  "name": "local-wp-mcp",
+  "description": "MCP server providing WP-CLI, MySQL, and filesystem access for Local by Flywheel WordPress sites, enabling direct management without HTTP endpoints.",
+  "source_repo": "teamchrisfromthelc/local-wp-mcp",
+  "source_url": "https://github.com/teamchrisfromthelc/local-wp-mcp",
+  "install": "npx -y local-wp-mcp"
+}

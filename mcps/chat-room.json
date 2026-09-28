@@ -1,0 +1,7 @@
+{
+  "name": "chat-room",
+  "description": "Provides a local chat room for coordinating work across Git worktrees, coding agents (Claude, Codex), and humans, with tools to start, wake, stop, message, and search agent sessions.",
+  "source_repo": "TallyUp-Engineering/chat-room",
+  "source_url": "https://github.com/TallyUp-Engineering/chat-room",
+  "install": "# git clone --depth 1 https://github.com/TallyUp-Engineering/chat-room\n# See source for mcpServers config block"
+}

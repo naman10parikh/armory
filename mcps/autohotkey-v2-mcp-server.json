@@ -1,0 +1,7 @@
+{
+  "name": "autohotkey-v2-mcp-server",
+  "description": "Enables AI assistants to write, validate, debug, and execute AutoHotkey v2 scripts on Windows, with tools for syntax checking, script execution, active window inspection, library search, and live debugging via DBGp protocol.",
+  "source_repo": "Xeo786/AutohotkeyV2_MCPServer",
+  "source_url": "https://github.com/Xeo786/AutohotkeyV2_MCPServer",
+  "install": "# git clone --depth 1 https://github.com/Xeo786/AutohotkeyV2_MCPServer\n# See source for mcpServers config block"
+}

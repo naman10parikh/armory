@@ -1,0 +1,7 @@
+{
+  "name": "codesentry-mcp",
+  "description": "AI-powered code review assistant that analyzes repositories for security vulnerabilities, performance bottlenecks, and code quality issues through natural language interactions.",
+  "source_repo": "ayushgundecha/codesentry-mcp",
+  "source_url": "https://github.com/ayushgundecha/codesentry-mcp",
+  "install": "npx -y codesentry-mcp"
+}

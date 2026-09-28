@@ -1,0 +1,7 @@
+{
+  "name": "mcp-time-tools",
+  "description": "Provides date, time, and timezone tools for AI agents via MCP, including timezone conversion, date calculation, cron parsing, timestamp conversion, and duration formatting.",
+  "source_repo": "rog0x/mcp-time-tools",
+  "source_url": "https://github.com/rog0x/mcp-time-tools",
+  "install": "# git clone --depth 1 https://github.com/rog0x/mcp-time-tools\n# See source for mcpServers config block"
+}

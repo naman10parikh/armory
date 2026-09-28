@@ -1,0 +1,7 @@
+{
+  "name": "perplexity-sonar-mcp",
+  "description": "An MCP server that brings Perplexity's Sonar models with real-time web search capabilities to Claude Desktop and other MCP clients.",
+  "source_repo": "felores/perplexity-sonar-mcp",
+  "source_url": "https://github.com/felores/perplexity-sonar-mcp",
+  "install": "npx -y perplexity-sonar-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "firestarter-mcp-server",
+  "description": "Enables AI assistants to search real products, purchase with user approval, track deliveries, and run a seller business end to end via the Firestarter commerce platform.",
+  "source_repo": "Analog-Labs/firestarter-mcp",
+  "source_url": "https://github.com/Analog-Labs/firestarter-mcp",
+  "install": "npx -y firestarter-mcp"
+}

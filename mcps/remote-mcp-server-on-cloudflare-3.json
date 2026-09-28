@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-server-on-cloudflare-3",
+  "description": "Enables deploying a remote MCP server on Cloudflare Workers with OAuth authentication and SSE transport, allowing remote connections from MCP clients like Claude Desktop.",
+  "source_repo": "Konfuzian/remote-mcp-server",
+  "source_url": "https://github.com/Konfuzian/remote-mcp-server",
+  "install": "npx -y remote-mcp-server"
+}

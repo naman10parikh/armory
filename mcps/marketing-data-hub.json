@@ -1,0 +1,7 @@
+{
+  "name": "marketing-data-hub",
+  "description": "Enables querying and analyzing marketing data from Google Analytics 4, Search Console, YouTube, and optionally Google Ads and Meta Ads, stored in a unified DuckDB database, via natural language in Claude.",
+  "source_repo": "rallabandibhargava-dev/marketing-data-hub",
+  "source_url": "https://github.com/rallabandibhargava-dev/marketing-data-hub",
+  "install": "# git clone --depth 1 https://github.com/rallabandibhargava-dev/marketing-data-hub\n# See source for mcpServers config block"
+}

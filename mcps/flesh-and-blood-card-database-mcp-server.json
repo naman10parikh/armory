@@ -1,0 +1,7 @@
+{
+  "name": "flesh-and-blood-card-database-mcp-server",
+  "description": "MCP server for searching Flesh and Blood TCG cards, retrieving print variations, and browsing product catalogs via the CardVault API.",
+  "source_repo": "japan4415/fab-card-db-mcp",
+  "source_url": "https://github.com/japan4415/fab-card-db-mcp",
+  "install": "npx -y fab-card-db-mcp"
+}

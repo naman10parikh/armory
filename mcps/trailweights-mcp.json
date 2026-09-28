@@ -1,0 +1,7 @@
+{
+  "name": "trailweights-mcp",
+  "description": "Read-only access to TrailWeights' ultralight gear corpus — verified weights, creator video reviews, pack templates, and semantic gear search. Auth: none.",
+  "source_repo": "RustFreeOne/trailweights-mcp",
+  "source_url": "https://github.com/RustFreeOne/trailweights-mcp",
+  "install": "npx -y trailweights-mcp"
+}

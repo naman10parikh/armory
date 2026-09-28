@@ -1,0 +1,7 @@
+{
+  "name": "erstan-agent-tools-beta",
+  "description": "Enables building, optimizing, reviewing, and running AI agents and skills, plus managing authorized work items, in Erstan's QA environment via OAuth-authenticated MCP.",
+  "source_repo": "erstanai/erstan-agent-tools-beta",
+  "source_url": "https://github.com/erstanai/erstan-agent-tools-beta",
+  "install": "# git clone --depth 1 https://github.com/erstanai/erstan-agent-tools-beta\n# See source for mcpServers config block"
+}

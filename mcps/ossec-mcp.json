@@ -1,0 +1,7 @@
+{
+  "name": "ossec-mcp",
+  "description": "MCP server that exposes OSSEC HIDS security monitoring capabilities as tools, resources, and prompts for AI assistants.",
+  "source_repo": "president-xd/ossec-mcp",
+  "source_url": "https://github.com/president-xd/ossec-mcp",
+  "install": "npx -y ossec-mcp"
+}

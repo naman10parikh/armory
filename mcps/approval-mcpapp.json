@@ -1,0 +1,7 @@
+{
+  "name": "approval-mcpapp",
+  "description": "An MCP server that implements a multi-stage employee access request and approval workflow, enabling employees to request system access and managers/IT admins to approve or reject requests through an interactive UI.",
+  "source_repo": "groveale/approval-mcpapp",
+  "source_url": "https://github.com/groveale/approval-mcpapp",
+  "install": "# git clone --depth 1 https://github.com/groveale/approval-mcpapp\n# See source for mcpServers config block"
+}

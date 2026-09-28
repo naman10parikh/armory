@@ -1,0 +1,7 @@
+{
+  "name": "zonemender",
+  "description": "MCP server for AI agents to safely manage Cloudflare DNS, DMARC, SPF, BIMI, and Email Routing with dry-run-first and approval-based writes.",
+  "source_repo": "pain2hustle/zonemender",
+  "source_url": "https://github.com/pain2hustle/zonemender",
+  "install": "# git clone --depth 1 https://github.com/pain2hustle/zonemender\n# See source for mcpServers config block"
+}

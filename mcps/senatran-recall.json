@@ -1,0 +1,7 @@
+{
+  "name": "senatran-recall",
+  "description": "A read-only MCP server that provides official SENATRAN vehicle recall consultations in Portuguese, hosted with prepaid credits and no credentials, compatible with any MCP client over HTTP.",
+  "source_repo": "mcp-dir/senatran_recall-mcp",
+  "source_url": "https://github.com/mcp-dir/senatran_recall-mcp",
+  "install": "npx -y senatran_recall-mcp"
+}

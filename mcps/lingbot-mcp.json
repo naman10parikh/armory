@@ -1,0 +1,7 @@
+{
+  "name": "lingbot-mcp",
+  "description": "MCP server exposing Lingbot's creation tools, public links, and model availability through three simple tools.",
+  "source_repo": "annwo2025-a11y/lingbot-mcp",
+  "source_url": "https://github.com/annwo2025-a11y/lingbot-mcp",
+  "install": "npx -y lingbot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "python-sandbox-mcp-server",
+  "description": "This is a secure Python code execution server that enables LLMs to run Python code safely in isolated Docker containers, supporting stdout capture and Matplotlib PNG generation.",
+  "source_repo": "cloudywu0410/python_sandbox_mcp_server",
+  "source_url": "https://github.com/cloudywu0410/python_sandbox_mcp_server",
+  "install": "npx -y python_sandbox_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "linguamcp",
+  "description": "Serves daily language lessons from a structured curriculum, enabling natural practice through conversation with AI tutors that track progress.",
+  "source_repo": "Marsmanleo/LinguaMCP",
+  "source_url": "https://github.com/Marsmanleo/LinguaMCP",
+  "install": "# git clone --depth 1 https://github.com/Marsmanleo/LinguaMCP\n# See source for mcpServers config block"
+}

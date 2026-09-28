@@ -1,0 +1,7 @@
+{
+  "name": "abap-mcp-server",
+  "description": "Provides ABAP developers with unified search, document retrieval, feature matrix lookup, SAP Community search, and local ABAP linting capabilities via MCP.",
+  "source_repo": "marianfoo/abap-mcp-server",
+  "source_url": "https://github.com/marianfoo/abap-mcp-server",
+  "install": "npx -y abap-mcp-server"
+}

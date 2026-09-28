@@ -1,0 +1,7 @@
+{
+  "name": "brainmem-mcp",
+  "description": "MCP server for brainmem, providing memory search, write, outcome, explain, and status tools to give LLM agents auditable long-term memory. It prioritizes failures, gates writes on surprise, and supports validity intervals for beliefs.",
+  "source_repo": "Jimmycarroll2021/Brainmem",
+  "source_url": "https://github.com/Jimmycarroll2021/Brainmem",
+  "install": "# git clone --depth 1 https://github.com/Jimmycarroll2021/Brainmem\n# See source for mcpServers config block"
+}

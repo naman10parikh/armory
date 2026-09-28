@@ -1,0 +1,7 @@
+{
+  "name": "excel-vision-mcp",
+  "description": "Enables AI agents to read Excel files with full content extraction, including embedded images, cell data, formulas, and merged cells, returning multimodal content for vision-capable models.",
+  "source_repo": "VOYAGER-Inc/excel-vision-mcp",
+  "source_url": "https://github.com/VOYAGER-Inc/excel-vision-mcp",
+  "install": "npx -y excel-vision-mcp"
+}

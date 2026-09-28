@@ -1,0 +1,7 @@
+{
+  "name": "espanso-mcp",
+  "description": "An MCP server for managing Espanso text expansion configurations, enabling AI assistants to create, update, delete, and list shortcuts with cross-platform support.",
+  "source_repo": "bkaes/espanso-mcp",
+  "source_url": "https://github.com/bkaes/espanso-mcp",
+  "install": "npx -y espanso-mcp"
+}

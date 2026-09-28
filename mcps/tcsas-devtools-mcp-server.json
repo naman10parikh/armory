@@ -1,0 +1,7 @@
+{
+  "name": "tcsas-devtools-mcp-server",
+  "description": "Enables AI assistants to manage TCSAS miniprogram development tasks such as launching the IDE, previewing, and uploading miniprograms via natural language.",
+  "source_repo": "TCMPP-Team/tcsas-devtools-mcp-server",
+  "source_url": "https://github.com/TCMPP-Team/tcsas-devtools-mcp-server",
+  "install": "npx -y tcsas-devtools-mcp-server"
+}

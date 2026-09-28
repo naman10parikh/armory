@@ -1,0 +1,7 @@
+{
+  "name": "databricksmcp",
+  "description": "A production-ready MCP server template with example tools for health check and user information, designed for Databricks Apps deployment.",
+  "source_repo": "Invaliduser1330/DatabricksMCP",
+  "source_url": "https://github.com/Invaliduser1330/DatabricksMCP",
+  "install": "# git clone --depth 1 https://github.com/Invaliduser1330/DatabricksMCP\n# See source for mcpServers config block"
+}

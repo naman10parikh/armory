@@ -1,0 +1,7 @@
+{
+  "name": "mcp-waqi",
+  "description": "Provides real-time Air Quality Index data from the World Air Quality Index service, enabling queries by location, station, or keyword search.",
+  "source_repo": "pipeworx-io/mcp-waqi",
+  "source_url": "https://github.com/pipeworx-io/mcp-waqi",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-waqi\n# See source for mcpServers config block"
+}

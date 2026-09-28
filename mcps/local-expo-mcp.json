@@ -1,0 +1,7 @@
+{
+  "name": "local-expo-mcp",
+  "description": "A single MCP server that orchestrates Expo CLI, Metro, and adb for local Expo project management, including device interaction and session summaries.",
+  "source_repo": "salafidurus/local-expo-mcp",
+  "source_url": "https://github.com/salafidurus/local-expo-mcp",
+  "install": "npx -y local-expo-mcp"
+}

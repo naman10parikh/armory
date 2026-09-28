@@ -1,0 +1,7 @@
+{
+  "name": "mcp-practice",
+  "description": "MCP server for Cursor that automates HR tasks such as employee onboarding, intranet guidance, time-off and leave requests, and meeting room booking.",
+  "source_repo": "lenhatquynh/mcp-practice",
+  "source_url": "https://github.com/lenhatquynh/mcp-practice",
+  "install": "# git clone --depth 1 https://github.com/lenhatquynh/mcp-practice\n# See source for mcpServers config block"
+}

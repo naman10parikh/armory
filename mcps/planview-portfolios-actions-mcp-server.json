@@ -1,0 +1,7 @@
+{
+  "name": "planview-portfolios-actions-mcp-server",
+  "description": "Enables creating, updating, deleting, and managing projects, tasks, financial plans, OKRs, and work hierarchy nodes in Planview Portfolios through natural language. Designed as the write-action companion to the read-only Planview Portfolios Beta MCP.",
+  "source_repo": "norman2112/portfoliosMCP",
+  "source_url": "https://github.com/norman2112/portfoliosMCP",
+  "install": "# git clone --depth 1 https://github.com/norman2112/portfoliosMCP\n# See source for mcpServers config block"
+}

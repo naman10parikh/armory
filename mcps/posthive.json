@@ -1,0 +1,7 @@
+{
+  "name": "posthive",
+  "description": "Schedule and manage social media posts across 13 platforms (Bluesky, Threads, Instagram, LinkedIn, Mastodon, YouTube, Facebook, Pinterest, Telegram, Nostr, X/Twitter, Discord, Tumblr and more). OAuth 2.0 + PKCE, 10 tools, draft-first workflow for AI agents.",
+  "source_repo": "AstaBlackClove/posthive",
+  "source_url": "https://github.com/AstaBlackClove/posthive",
+  "install": "# git clone --depth 1 https://github.com/AstaBlackClove/posthive\n# See source for mcpServers config block"
+}

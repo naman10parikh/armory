@@ -1,0 +1,7 @@
+{
+  "name": "ga4-analytics-mcp",
+  "description": "Enables querying Google Analytics 4 properties through natural language, supporting historical and real-time reports, metadata discovery, and property listing via a Vercel-deployed MCP server.",
+  "source_repo": "devopsbrandmirchi/Ga4McpServer",
+  "source_url": "https://github.com/devopsbrandmirchi/Ga4McpServer",
+  "install": "# git clone --depth 1 https://github.com/devopsbrandmirchi/Ga4McpServer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-authority-boundary",
+  "description": "MCP server that mediates AI agent tool calls with Cedar authorization, enforcing complete mediation and binding execution to validated operations. It demonstrates that policy enforcement and policy adequacy are independent properties, with a hash-chained ledger for verification.",
+  "source_repo": "repowazdogz-droid/mcp-authority-boundary",
+  "source_url": "https://github.com/repowazdogz-droid/mcp-authority-boundary",
+  "install": "# git clone --depth 1 https://github.com/repowazdogz-droid/mcp-authority-boundary\n# See source for mcpServers config block"
+}

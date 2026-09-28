@@ -1,0 +1,7 @@
+{
+  "name": "icloud-caldav-mcp",
+  "description": "Provides AI calendar operators full iCloud Calendar access through CalDAV, with two-factor authentication and app-specific passwords.",
+  "source_repo": "simonfalke-01/caldav-mcp",
+  "source_url": "https://github.com/simonfalke-01/caldav-mcp",
+  "install": "npx -y caldav-mcp"
+}

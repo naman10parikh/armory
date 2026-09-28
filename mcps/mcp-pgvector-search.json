@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pgvector-search",
+  "description": "An MCP server that enables hybrid semantic and keyword retrieval over your documents, using PostgreSQL and pgvector as the backend. It fuses rankings from both methods to provide high-quality search results to the language model.",
+  "source_repo": "JuanPinilla198/mcp-pgvector-search",
+  "source_url": "https://github.com/JuanPinilla198/mcp-pgvector-search",
+  "install": "# git clone --depth 1 https://github.com/JuanPinilla198/mcp-pgvector-search\n# See source for mcpServers config block"
+}

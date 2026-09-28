@@ -1,0 +1,7 @@
+{
+  "name": "drand-mcp-server",
+  "description": "Enables AI applications to fetch verifiable randomness from the drand network, supporting latest, time-based, and round-based beacon retrieval.",
+  "source_repo": "randa-mu/drand-mcp-server",
+  "source_url": "https://github.com/randa-mu/drand-mcp-server",
+  "install": "npx -y drand-mcp-server"
+}

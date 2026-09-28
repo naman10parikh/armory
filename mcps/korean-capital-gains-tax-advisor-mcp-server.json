@@ -1,0 +1,7 @@
+{
+  "name": "korean-capital-gains-tax-advisor-mcp-server",
+  "description": "Validates and calculates Korean capital gains tax on real estate transactions with explanation. Supports multiple ownership types, exemptions, and detailed tax breakdowns.",
+  "source_repo": "quickquickTax/yangdoAngel",
+  "source_url": "https://github.com/quickquickTax/yangdoAngel",
+  "install": "# git clone --depth 1 https://github.com/quickquickTax/yangdoAngel\n# See source for mcpServers config block"
+}

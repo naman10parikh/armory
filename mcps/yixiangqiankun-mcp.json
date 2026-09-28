@@ -1,0 +1,7 @@
+{
+  "name": "yixiangqiankun-mcp",
+  "description": "基于火珠林法六爻理论和《增删卜易》体系的智能排盘工具，为AI助手提供自动起卦、完整排盘、格局分析和专业解读等六爻占卜功能。",
+  "source_repo": "leleshen2009/yixiangqiankun-mcp",
+  "source_url": "https://github.com/leleshen2009/yixiangqiankun-mcp",
+  "install": "npx -y yixiangqiankun-mcp"
+}

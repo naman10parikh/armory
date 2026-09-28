@@ -1,0 +1,7 @@
+{
+  "name": "twinmotion-mcp",
+  "description": "Enables importing Revit models, setting environments, rendering images, and exporting walkthrough videos via the Twinmotion rendering pipeline through APS.",
+  "source_repo": "ScanBIM-Labs/twinmotion-mcp",
+  "source_url": "https://github.com/ScanBIM-Labs/twinmotion-mcp",
+  "install": "npx -y twinmotion-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "timesheet-mcp",
+  "description": "A local, UI-less timesheet application served via MCP, letting AI assistants log hours, correct entries, generate monthly reports, and compute Finnish-holiday-aware working-time math for invoicing.",
+  "source_repo": "erkkiat/timesheet-mcp",
+  "source_url": "https://github.com/erkkiat/timesheet-mcp",
+  "install": "npx -y timesheet-mcp"
+}

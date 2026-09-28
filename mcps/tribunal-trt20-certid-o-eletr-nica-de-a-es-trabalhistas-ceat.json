@@ -1,0 +1,7 @@
+{
+  "name": "tribunal-trt20-certid-o-eletr-nica-de-a-es-trabalhistas-ceat",
+  "description": "Enables consultation of Electronic Labor Lawsuit Certificates (CEAT) from the Regional Labor Court of the 20th Region (TRT20) via an official source, with a single read-only tool and prepaid pay-per-use.",
+  "source_repo": "mcp-dir/tribunal_trt20_ceat-mcp",
+  "source_url": "https://github.com/mcp-dir/tribunal_trt20_ceat-mcp",
+  "install": "npx -y tribunal_trt20_ceat-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yandex-eats-mcp",
+  "description": "MCP server for Yandex Eats Vendor Management API, enabling AI agents to manage partner operations like orders, busy mode, menu import, and feedback.",
+  "source_repo": "yasmanmesa/yandex-eats-mcp",
+  "source_url": "https://github.com/yasmanmesa/yandex-eats-mcp",
+  "install": "npx -y yandex-eats-mcp"
+}

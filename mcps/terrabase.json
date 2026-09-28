@@ -1,0 +1,7 @@
+{
+  "name": "terrabase",
+  "description": "LLM-assisted, safety-gated Postgres migrations exposed as an MCP server, using a deterministic rule engine over Postgres's own parser AST for safety enforcement, with two-phase approval and append-only audit ledger.",
+  "source_repo": "Terrabase-in/terrabase",
+  "source_url": "https://github.com/Terrabase-in/terrabase",
+  "install": "# git clone --depth 1 https://github.com/Terrabase-in/terrabase\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "job-mcp-server",
+  "description": "Enables searching and filtering public institution job postings from the Korean government's ALIO system via MCP.",
+  "source_repo": "iapke486-arch/job-mcp-server",
+  "source_url": "https://github.com/iapke486-arch/job-mcp-server",
+  "install": "npx -y job-mcp-server"
+}

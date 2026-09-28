@@ -1,0 +1,7 @@
+{
+  "name": "glp1forum-mcp",
+  "description": "MCP server that searches and reads https://glp1forum.com (a XenForo forum) via system curl, providing tools for full-text search, thread reading, image downloads, and forum browsing without any API keys.",
+  "source_repo": "Sedation6612/glp1forum-mcp",
+  "source_url": "https://github.com/Sedation6612/glp1forum-mcp",
+  "install": "npx -y glp1forum-mcp"
+}

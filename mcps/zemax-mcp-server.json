@@ -1,0 +1,7 @@
+{
+  "name": "zemax-mcp-server",
+  "description": "Enables AI agents to control Ansys Zemax OpticStudio via ZOS-API, allowing optical design tasks like aperture settings, optimization, and analysis through natural language.",
+  "source_repo": "webworn/zemax-mcp-server",
+  "source_url": "https://github.com/webworn/zemax-mcp-server",
+  "install": "npx -y zemax-mcp-server"
+}

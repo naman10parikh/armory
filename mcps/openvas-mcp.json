@@ -1,0 +1,7 @@
+{
+  "name": "openvas-mcp",
+  "description": "Self-hosted MCP server that gives AI agents structured access to OpenVAS vulnerability scanning without sending data externally.",
+  "source_repo": "CyberSecAuto-Labs/OpenVAS-MCP",
+  "source_url": "https://github.com/CyberSecAuto-Labs/OpenVAS-MCP",
+  "install": "npx -y OpenVAS-MCP"
+}

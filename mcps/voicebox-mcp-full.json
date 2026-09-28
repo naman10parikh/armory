@@ -1,0 +1,7 @@
+{
+  "name": "voicebox-mcp-full",
+  "description": "Provides full control over the locally-hosted Voicebox TTS/voice-cloning app, exposing 102 tools for speech generation, voice cloning, audio project management, and system operations.",
+  "source_repo": "valentinlutun-cmd/voicebox-mcp-full",
+  "source_url": "https://github.com/valentinlutun-cmd/voicebox-mcp-full",
+  "install": "# git clone --depth 1 https://github.com/valentinlutun-cmd/voicebox-mcp-full\n# See source for mcpServers config block"
+}

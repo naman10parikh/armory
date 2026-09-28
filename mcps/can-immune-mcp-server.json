@@ -1,0 +1,7 @@
+{
+  "name": "can-immune-mcp-server",
+  "description": "A remote, read-only MCP server for the CAN-IMMUNE cancer neoantigen platform, enabling AI agents to query the database in plain language. It provides tools for searching genes, cell lines, mutations, and MHC binding data.",
+  "source_repo": "sanjaysgk/can-immune-mcp",
+  "source_url": "https://github.com/sanjaysgk/can-immune-mcp",
+  "install": "npx -y can-immune-mcp"
+}

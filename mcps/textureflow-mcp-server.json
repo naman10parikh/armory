@@ -1,0 +1,7 @@
+{
+  "name": "textureflow-mcp-server",
+  "description": "Enables voice-controlled, confirmed actions on Android notifications via a bridge to Convex. Exposes eleven tools with no immediate-send operation, requiring explicit confirmation for reply, dismiss, and snooze.",
+  "source_repo": "Stepodkelly/TextureFlow",
+  "source_url": "https://github.com/Stepodkelly/TextureFlow",
+  "install": "# git clone --depth 1 https://github.com/Stepodkelly/TextureFlow\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-search-mcp-v2",
+  "description": "MCP server for Claude Code that provides Google text search, web content extraction, and image search with dual-platform (Google Images + Pinterest) and AI visual analysis with quality scoring.",
+  "source_repo": "ye4wzp/google-search-mcp-v2",
+  "source_url": "https://github.com/ye4wzp/google-search-mcp-v2",
+  "install": "# git clone --depth 1 https://github.com/ye4wzp/google-search-mcp-v2\n# See source for mcpServers config block"
+}

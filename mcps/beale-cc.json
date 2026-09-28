@@ -1,0 +1,7 @@
+{
+  "name": "beale-cc",
+  "description": "Local MCP server that bridges Beale research workspaces to Claude Code, providing typed memory, workspace search, revisioned runbooks, and research profile context via a stdio plugin.",
+  "source_repo": "philo-groves/Beale-CC",
+  "source_url": "https://github.com/philo-groves/Beale-CC",
+  "install": "# git clone --depth 1 https://github.com/philo-groves/Beale-CC\n# See source for mcpServers config block"
+}

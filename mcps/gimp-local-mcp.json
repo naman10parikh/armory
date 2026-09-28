@@ -1,0 +1,7 @@
+{
+  "name": "gimp-local-mcp",
+  "description": "Enables controlling GIMP 3 locally through natural language, providing tools for image editing, layer management, selections, and PDB procedure invocation. Keeps all images and files on the user's machine with a local-first, secure design.",
+  "source_repo": "epi13/gimp-local-mcp",
+  "source_url": "https://github.com/epi13/gimp-local-mcp",
+  "install": "npx -y gimp-local-mcp"
+}

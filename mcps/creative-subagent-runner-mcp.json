@@ -1,0 +1,7 @@
+{
+  "name": "creative-subagent-runner-mcp",
+  "description": "A universal MCP server that runs creative sub-agents (chapter writer, auditor, reviser) by calling GPT/Gemini APIs via juxinapi, enabling structured writing and auditing workflows.",
+  "source_repo": "leonluo2008-ops/creative-subagent-runner-mcp",
+  "source_url": "https://github.com/leonluo2008-ops/creative-subagent-runner-mcp",
+  "install": "npx -y creative-subagent-runner-mcp"
+}

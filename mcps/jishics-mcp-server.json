@@ -1,0 +1,7 @@
+{
+  "name": "jishics-mcp-server",
+  "description": "Enables AI assistants to search, compare, and order corporate financial and tax service providers via natural language.",
+  "source_repo": "lpxuesir5555/jishics-mcp-server",
+  "source_url": "https://github.com/lpxuesir5555/jishics-mcp-server",
+  "install": "npx -y jishics-mcp-server"
+}

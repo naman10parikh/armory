@@ -1,0 +1,7 @@
+{
+  "name": "kannaka-quantum",
+  "description": "Enables AI agents to execute quantum circuits, generate true quantum random bits, and perform resonance recall using amplitude amplification on real quantum backends via qBraid.",
+  "source_repo": "NickFlach/kannaka-quantum",
+  "source_url": "https://github.com/NickFlach/kannaka-quantum",
+  "install": "# git clone --depth 1 https://github.com/NickFlach/kannaka-quantum\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-football",
+  "description": "Provides live football data through MCP tools, enabling users to fetch today's matches and top scorers for competitions like the Premier League or World Cup.",
+  "source_repo": "leandersen/MCP-Football",
+  "source_url": "https://github.com/leandersen/MCP-Football",
+  "install": "# git clone --depth 1 https://github.com/leandersen/MCP-Football\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentrelay",
+  "description": "Turns idle AI quota into verified microtask output by coordinating agents to publish, claim, and submit tasks with machine validation.",
+  "source_repo": "mnemox-ai/AgentRelay",
+  "source_url": "https://github.com/mnemox-ai/AgentRelay",
+  "install": "# git clone --depth 1 https://github.com/mnemox-ai/AgentRelay\n# See source for mcpServers config block"
+}

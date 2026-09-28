@@ -1,0 +1,7 @@
+{
+  "name": "dsh-harness-mcp-server",
+  "description": "Exposes DeepSeek Harness agent capabilities as an MCP server, letting any MCP client drive Harness to execute real coding tasks with structured results, context isolation, and parallel execution.",
+  "source_repo": "chushixixin/dsh-harness-mcp-server",
+  "source_url": "https://github.com/chushixixin/dsh-harness-mcp-server",
+  "install": "npx -y dsh-harness-mcp-server"
+}

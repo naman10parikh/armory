@@ -1,0 +1,7 @@
+{
+  "name": "mcp-whatsapp",
+  "description": "Enables sending messages, images, documents and more on WhatsApp directly from any MCP-compatible AI, with tools for chat management, groups, and webhooks.",
+  "source_repo": "gabriellopesdesouza2002/mcp-whatsapp",
+  "source_url": "https://github.com/gabriellopesdesouza2002/mcp-whatsapp",
+  "install": "# git clone --depth 1 https://github.com/gabriellopesdesouza2002/mcp-whatsapp\n# See source for mcpServers config block"
+}

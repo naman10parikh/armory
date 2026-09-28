@@ -1,0 +1,7 @@
+{
+  "name": "shiprocket-mcp",
+  "description": "Enables courier rate checks, order management, shipping, and tracking via Shiprocket's API through natural language.",
+  "source_repo": "QalaLabs/shiprocket-mcp",
+  "source_url": "https://github.com/QalaLabs/shiprocket-mcp",
+  "install": "npx -y shiprocket-mcp"
+}

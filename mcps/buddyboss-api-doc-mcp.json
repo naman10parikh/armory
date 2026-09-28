@@ -1,0 +1,7 @@
+{
+  "name": "buddyboss-api-doc-mcp",
+  "description": "MCP server exposing BuddyBoss REST API contracts grouped by category for activity, members, groups, messages, and more. Enables listing, searching, and exploring endpoints via natural language.",
+  "source_repo": "blocklienterprise/buddyboss-api-doc-mcp",
+  "source_url": "https://github.com/blocklienterprise/buddyboss-api-doc-mcp",
+  "install": "npx -y buddyboss-api-doc-mcp"
+}

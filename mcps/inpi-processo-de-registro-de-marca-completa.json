@@ -1,0 +1,7 @@
+{
+  "name": "inpi-processo-de-registro-de-marca-completa",
+  "description": "MCP server for consulting Brazilian trademark registration processes from official INPI sources, offering read-only queries via a hosted HTTP API.",
+  "source_repo": "mcp-dir/inpi_marcas_processo-mcp",
+  "source_url": "https://github.com/mcp-dir/inpi_marcas_processo-mcp",
+  "install": "npx -y inpi_marcas_processo-mcp"
+}

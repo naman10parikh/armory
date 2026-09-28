@@ -1,0 +1,7 @@
+{
+  "name": "finance-mcp-2",
+  "description": "Personal finance MCP server providing loan simulation, budgeting, investment comparison, retirement planning, French tax optimization, and inflation calculation through natural language.",
+  "source_repo": "joohyukjung/finance-mcp",
+  "source_url": "https://github.com/joohyukjung/finance-mcp",
+  "install": "npx -y finance-mcp"
+}

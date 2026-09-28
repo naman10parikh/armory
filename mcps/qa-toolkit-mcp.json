@@ -1,0 +1,7 @@
+{
+  "name": "qa-toolkit-mcp",
+  "description": "An MCP server that reads test reports and provides regression analysis tools for comparing runs, identifying regressions, fixes, and persistent failures.",
+  "source_repo": "gabriel-tbc/qa-toolkit-mcp",
+  "source_url": "https://github.com/gabriel-tbc/qa-toolkit-mcp",
+  "install": "npx -y qa-toolkit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agy-mcp",
+  "description": "Wraps Google Antigravity CLI into 11 typed MCP tools, enabling any MCP client to invoke agy for code review, prototyping, execution, and long-running tasks.",
+  "source_repo": "Boulea7/agy-mcp",
+  "source_url": "https://github.com/Boulea7/agy-mcp",
+  "install": "npx -y agy-mcp"
+}

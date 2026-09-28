@@ -1,0 +1,7 @@
+{
+  "name": "voice-dialog",
+  "description": "Adds voice conversation capabilities to AI agents via MCP, enabling local speech recognition and synthesis with tools like speak, listen, and ask_by_voice for interactive voice interactions.",
+  "source_repo": "VictorHuang0843/voice-dialog",
+  "source_url": "https://github.com/VictorHuang0843/voice-dialog",
+  "install": "# git clone --depth 1 https://github.com/VictorHuang0843/voice-dialog\n# See source for mcpServers config block"
+}

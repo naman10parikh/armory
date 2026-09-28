@@ -1,0 +1,7 @@
+{
+  "name": "warehouse-mcp-server",
+  "description": "An MCP server that provides safe, read-only access to a PostgreSQL warehouse, enabling schema introspection, guarded SQL queries, and truncated result reporting for LLMs.",
+  "source_repo": "fabianguiliani/warehouse-mcp-server",
+  "source_url": "https://github.com/fabianguiliani/warehouse-mcp-server",
+  "install": "npx -y warehouse-mcp-server"
+}

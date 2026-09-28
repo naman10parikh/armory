@@ -1,0 +1,7 @@
+{
+  "name": "docimprint",
+  "description": "Verifiable document intelligence for AI agents. Extract, summarize, claim-check, and notarize PDFs & URLs with cryptographic proofs, cross-document search, and on-chain attestation via Base L2.",
+  "source_repo": "sawftware-labs/docimprint",
+  "source_url": "https://github.com/sawftware-labs/docimprint",
+  "install": "# git clone --depth 1 https://github.com/sawftware-labs/docimprint\n# See source for mcpServers config block"
+}

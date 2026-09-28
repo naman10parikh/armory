@@ -1,0 +1,7 @@
+{
+  "name": "opencritic-mcp",
+  "description": "Enables AI assistants to search for games and retrieve aggregated critic scores, review tiers, and individual reviews from OpenCritic. Provides tools for game search, score retrieval, and review lookup via the OpenCritic API.",
+  "source_repo": "brandikun/opencritic-mcp",
+  "source_url": "https://github.com/brandikun/opencritic-mcp",
+  "install": "npx -y opencritic-mcp"
+}

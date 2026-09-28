@@ -1,0 +1,7 @@
+{
+  "name": "beat-twin",
+  "description": "A local MCP server bridging Bitwig Studio for agent-assisted music workflows, read-only by default with configurable write-policy gates.",
+  "source_repo": "LaurentHuzard/beat-twin",
+  "source_url": "https://github.com/LaurentHuzard/beat-twin",
+  "install": "# git clone --depth 1 https://github.com/LaurentHuzard/beat-twin\n# See source for mcpServers config block"
+}

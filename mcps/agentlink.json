@@ -1,0 +1,7 @@
+{
+  "name": "agentlink",
+  "description": "Encrypted conversation bridge between two local coding agents, enabling goal negotiation and read-only findings exchange via MCP.",
+  "source_repo": "Oryntai/AgentLink",
+  "source_url": "https://github.com/Oryntai/AgentLink",
+  "install": "# git clone --depth 1 https://github.com/Oryntai/AgentLink\n# See source for mcpServers config block"
+}

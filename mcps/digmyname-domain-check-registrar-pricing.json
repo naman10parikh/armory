@@ -1,0 +1,7 @@
+{
+  "name": "digmyname-domain-check-registrar-pricing",
+  "description": "Domain availability + registrar price comparison across 52 TLDs — see not just if a domain is free, but where it's cheapest (7 registrars, renewal traps exposed). Honest: shows an Unverified state instead of guessing. Free, no API key. For Claude, ChatGPT, Cursor & any MCP client.",
+  "source_repo": "seomarlboro/digmyname",
+  "source_url": "https://github.com/seomarlboro/digmyname",
+  "install": "# git clone --depth 1 https://github.com/seomarlboro/digmyname\n# See source for mcpServers config block"
+}

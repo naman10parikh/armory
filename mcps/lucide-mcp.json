@@ -1,0 +1,7 @@
+{
+  "name": "lucide-mcp",
+  "description": "Enables searching Lucide icons by keyword tags, returning best-matching icon names.",
+  "source_repo": "ViGi-P/lucide-mcp",
+  "source_url": "https://github.com/ViGi-P/lucide-mcp",
+  "install": "npx -y lucide-mcp"
+}

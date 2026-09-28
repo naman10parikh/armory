@@ -1,0 +1,7 @@
+{
+  "name": "bag-health-mcp",
+  "description": "MCP server for the Swiss Federal Office of Public Health Infectious Disease Dashboard, providing access to epidemiological surveillance data for 51 pathogens across Switzerland, including influenza, COVID-19, measles, and wastewater surveillance.",
+  "source_repo": "malkreide/bag-health-mcp",
+  "source_url": "https://github.com/malkreide/bag-health-mcp",
+  "install": "npx -y bag-health-mcp"
+}

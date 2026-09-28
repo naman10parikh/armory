@@ -1,0 +1,7 @@
+{
+  "name": "session-based-authenticated-mcp-server",
+  "description": "MCP server with session-based authentication for AI assistants, providing secure access to a books database and currency conversion tools.",
+  "source_repo": "omiderfanmanesh/MCP-server",
+  "source_url": "https://github.com/omiderfanmanesh/MCP-server",
+  "install": "# git clone --depth 1 https://github.com/omiderfanmanesh/MCP-server\n# See source for mcpServers config block"
+}

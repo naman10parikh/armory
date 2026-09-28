@@ -1,0 +1,7 @@
+{
+  "name": "fakao-mcp",
+  "description": "MCP server for Chinese bar exam (法考) preparation with 2,027 past questions, chapter exercises, and spaced repetition. Enables AI agents to search, practice, and review legal exam questions.",
+  "source_repo": "mleen/fakao-mcp",
+  "source_url": "https://github.com/mleen/fakao-mcp",
+  "install": "npx -y fakao-mcp"
+}

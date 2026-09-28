@@ -1,0 +1,7 @@
+{
+  "name": "zoho-books-mcp-server",
+  "description": "Enables AI assistants to manage Zoho Books accounting tasks such as invoices, contacts, expenses, and sales orders through natural language.",
+  "source_repo": "kkeeling/zoho-mcp",
+  "source_url": "https://github.com/kkeeling/zoho-mcp",
+  "install": "npx -y zoho-mcp"
+}

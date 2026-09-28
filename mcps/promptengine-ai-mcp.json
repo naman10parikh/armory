@@ -1,0 +1,7 @@
+{
+  "name": "promptengine-ai-mcp",
+  "description": "Enables prompt evaluation and refactoring via MCP protocol, allowing clients like OpenWebUI, Claude Desktop, and Cursor to access the Eliezer prompt engineer's 5-dimension scoring, ambiguity detection, and XML prompt generation.",
+  "source_repo": "KalyelNLaurindo/PromptEngine-AI",
+  "source_url": "https://github.com/KalyelNLaurindo/PromptEngine-AI",
+  "install": "# git clone --depth 1 https://github.com/KalyelNLaurindo/PromptEngine-AI\n# See source for mcpServers config block"
+}

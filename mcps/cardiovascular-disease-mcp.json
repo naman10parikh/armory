@@ -1,0 +1,7 @@
+{
+  "name": "cardiovascular-disease-mcp",
+  "description": "MCP server for calculating a patient's 10-year ASCVD risk using the Pooled Cohort Equations. Enables LLMs to compute cardiovascular risk scores based on patient demographics and clinical factors.",
+  "source_repo": "jamesvdinh/cardiovascular-disease-mcp",
+  "source_url": "https://github.com/jamesvdinh/cardiovascular-disease-mcp",
+  "install": "npx -y cardiovascular-disease-mcp"
+}

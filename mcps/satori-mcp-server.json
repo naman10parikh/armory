@@ -1,0 +1,7 @@
+{
+  "name": "satori-mcp-server",
+  "description": "An MCP server that generates beautiful images from React components using Satori. Create social cards, blog headers, quotes, and custom images directly through AI assistants like Claude.",
+  "source_repo": "Jellypod-Inc/satori-mcp-server",
+  "source_url": "https://github.com/Jellypod-Inc/satori-mcp-server",
+  "install": "npx -y satori-mcp-server"
+}

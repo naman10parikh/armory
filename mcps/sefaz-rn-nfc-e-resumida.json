@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-rn-nfc-e-resumida",
+  "description": "Consulta em fonte oficial a NFC-e Resumida do SEFAZ RN, com leitura somente e pagamento por uso via crédito pré-pago.",
+  "source_repo": "mcp-dir/sefaz_rn_nfce_resumida-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_rn_nfce_resumida-mcp",
+  "install": "npx -y sefaz_rn_nfce_resumida-mcp"
+}

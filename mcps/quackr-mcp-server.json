@@ -1,0 +1,7 @@
+{
+  "name": "quackr-mcp-server",
+  "description": "MCP server for Quackr, enabling virtual phone number management including balance checking, pricing, inventory, purchasing numbers, and reading SMS via Claude or any MCP-compatible client.",
+  "source_repo": "quackr-mcp/quackr-mcp",
+  "source_url": "https://github.com/quackr-mcp/quackr-mcp",
+  "install": "npx -y quackr-mcp"
+}

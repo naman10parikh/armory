@@ -1,0 +1,7 @@
+{
+  "name": "echo",
+  "description": "A simple MCP server that echoes back any input message. Useful for testing MCP connections and configurations.",
+  "source_repo": "BACH-AI-Tools/mcp-echo",
+  "source_url": "https://github.com/BACH-AI-Tools/mcp-echo",
+  "install": "# git clone --depth 1 https://github.com/BACH-AI-Tools/mcp-echo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-governance-controls",
+  "description": "AI governance controls as MCP tools for safety screening, risk classification, and red teaming.",
+  "source_repo": "cody-aigov/ai-governance-mcp",
+  "source_url": "https://github.com/cody-aigov/ai-governance-mcp",
+  "install": "npx -y ai-governance-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vela-mcp",
+  "description": "MCP server that exposes Vela RemotePC endpoints as tools, allowing AI clients to control the host system.",
+  "source_repo": "mikesplore/vela-mcp",
+  "source_url": "https://github.com/mikesplore/vela-mcp",
+  "install": "npx -y vela-mcp"
+}

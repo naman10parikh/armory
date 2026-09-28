@@ -1,0 +1,7 @@
+{
+  "name": "mautic-mcp",
+  "description": "A lightweight MCP server that connects Claude AI to Mautic marketing automation, enabling contact management, email sending, campaign operations, and analytics via natural language.",
+  "source_repo": "abdulhadi-98/mautic-mcp",
+  "source_url": "https://github.com/abdulhadi-98/mautic-mcp",
+  "install": "npx -y mautic-mcp"
+}

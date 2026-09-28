@@ -1,0 +1,7 @@
+{
+  "name": "razor-dvara-mcp-server",
+  "description": "Enables COD commerce checkout agents to enforce merchant-defined cash-on-delivery rules, partial prepayment, offers, delivery risk scoring, and serviceability checks, with audit-trail logging and fail-closed degraded behavior.",
+  "source_repo": "Utkarsh-Sinha0/razor-dvara",
+  "source_url": "https://github.com/Utkarsh-Sinha0/razor-dvara",
+  "install": "# git clone --depth 1 https://github.com/Utkarsh-Sinha0/razor-dvara\n# See source for mcpServers config block"
+}

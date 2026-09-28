@@ -1,0 +1,7 @@
+{
+  "name": "mursa-mcp",
+  "description": "Enables Claude Code, Claude Desktop, Cursor, or any MCP-compatible client to interact with Mursa tasks, calendar, goals, notes, habits, projects, and Gmail via natural language.",
+  "source_repo": "Murali1889/MCP-mursa",
+  "source_url": "https://github.com/Murali1889/MCP-mursa",
+  "install": "# git clone --depth 1 https://github.com/Murali1889/MCP-mursa\n# See source for mcpServers config block"
+}

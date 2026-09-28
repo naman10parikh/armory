@@ -1,0 +1,7 @@
+{
+  "name": "mcp-o11y",
+  "description": "An MCP server that demonstrates comprehensive observability with Sentry, OpenTelemetry, and Braintrust, providing tools for file, data, and HTTP operations along with real-time status and configuration resources.",
+  "source_repo": "argotdev/mcp-o11y",
+  "source_url": "https://github.com/argotdev/mcp-o11y",
+  "install": "# git clone --depth 1 https://github.com/argotdev/mcp-o11y\n# See source for mcpServers config block"
+}

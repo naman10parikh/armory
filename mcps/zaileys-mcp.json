@@ -1,0 +1,7 @@
+{
+  "name": "zaileys-mcp",
+  "description": "Enables AI agents to control WhatsApp, including sending messages and media, reading chats, managing groups and communities, with QR/pairing auth and session persistence.",
+  "source_repo": "zeative/zaileys-mcp",
+  "source_url": "https://github.com/zeative/zaileys-mcp",
+  "install": "npx -y zaileys-mcp"
+}

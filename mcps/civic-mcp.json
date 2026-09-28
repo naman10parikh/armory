@@ -1,0 +1,7 @@
+{
+  "name": "civic-mcp",
+  "description": "A minimal MCP server that exposes U.S. election dates via the get_election_dates tool, supporting all 50 states and DC with fuzzy state name matching.",
+  "source_repo": "ky1emayers/civic-mcp",
+  "source_url": "https://github.com/ky1emayers/civic-mcp",
+  "install": "npx -y civic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "saperly-mcp",
+  "description": "MCP server for Saperly that enables AI agents to provision phone numbers, place calls, send SMS, and manage credentials via 36 tools backed by the Saperly API.",
+  "source_repo": "Saperly/saperly-mcp",
+  "source_url": "https://github.com/Saperly/saperly-mcp",
+  "install": "npx -y saperly-mcp"
+}

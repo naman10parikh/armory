@@ -1,0 +1,7 @@
+{
+  "name": "anvisa-funcionamento-de-empresa-nacional",
+  "description": "Consulta dados oficiais da ANVISA sobre funcionamento de empresas nacionais via MCP, com uma ferramenta de leitura, hospedado e pré-pago.",
+  "source_repo": "mcp-dir/anvisa_empresas-mcp",
+  "source_url": "https://github.com/mcp-dir/anvisa_empresas-mcp",
+  "install": "npx -y anvisa_empresas-mcp"
+}

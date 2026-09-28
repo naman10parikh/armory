@@ -1,0 +1,7 @@
+{
+  "name": "gitl",
+  "description": "AI code reviews and git activity digests with machine-readable risk scoring, available as an MCP server for use within an agent session.",
+  "source_repo": "akomyagin/gitl",
+  "source_url": "https://github.com/akomyagin/gitl",
+  "install": "# git clone --depth 1 https://github.com/akomyagin/gitl\n# See source for mcpServers config block"
+}

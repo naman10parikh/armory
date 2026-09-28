@@ -1,0 +1,7 @@
+{
+  "name": "ableton-agent-mcp",
+  "description": "An MCP server that exposes Ableton Live control (session state, transport, tracks, devices, clips, MIDI note editing) as tools for LLM agents, enabling natural language manipulation of a Live session.",
+  "source_repo": "ju5tinz/ableton-agent",
+  "source_url": "https://github.com/ju5tinz/ableton-agent",
+  "install": "# git clone --depth 1 https://github.com/ju5tinz/ableton-agent\n# See source for mcpServers config block"
+}

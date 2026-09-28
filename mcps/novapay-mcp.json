@@ -1,0 +1,7 @@
+{
+  "name": "novapay-mcp",
+  "description": "MCP server for NovaPay that enables AI agents to create payment links, poll payment status, manage session lifecycle, and generate merchant keys.",
+  "source_repo": "NovaPay/novapay-mcp",
+  "source_url": "https://github.com/NovaPay/novapay-mcp",
+  "install": "npx -y novapay-mcp"
+}

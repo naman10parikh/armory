@@ -1,0 +1,7 @@
+{
+  "name": "akka-finance-mcp-server",
+  "description": "MCP server for the AKKA Finance DEX aggregator — swap quotes, routes, and execution across EVM chains.",
+  "source_repo": "Akka-Finance/akka-mcp-server",
+  "source_url": "https://github.com/Akka-Finance/akka-mcp-server",
+  "install": "npx -y akka-mcp-server"
+}

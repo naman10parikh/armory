@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cloudwatch-explorer",
+  "description": "Enables AI agents to query AWS CloudWatch metrics, alarms, and logs read-only via MCP, providing rapid health snapshots and triage without console navigation.",
+  "source_repo": "sarteta/mcp-cloudwatch-explorer",
+  "source_url": "https://github.com/sarteta/mcp-cloudwatch-explorer",
+  "install": "# git clone --depth 1 https://github.com/sarteta/mcp-cloudwatch-explorer\n# See source for mcpServers config block"
+}

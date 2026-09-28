@@ -1,0 +1,7 @@
+{
+  "name": "kriteriusmx",
+  "description": "Enables Claude to search and retrieve legal sources from Mexican and inter-American courts (SCJN, TFJA, DOF, Corte IDH) with complete citations and official links.",
+  "source_repo": "G8olio/kriterius-mx",
+  "source_url": "https://github.com/G8olio/kriterius-mx",
+  "install": "# git clone --depth 1 https://github.com/G8olio/kriterius-mx\n# See source for mcpServers config block"
+}

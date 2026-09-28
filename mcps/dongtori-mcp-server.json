@@ -1,0 +1,7 @@
+{
+  "name": "dongtori-mcp-server",
+  "description": "Searches for children's programs at public facilities like libraries and cultural centers in South Korea, answering natural language queries about schedules, fees, and registration.",
+  "source_repo": "websfactory/dongtori-mcp",
+  "source_url": "https://github.com/websfactory/dongtori-mcp",
+  "install": "npx -y dongtori-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vietnam-invoice-mcp",
+  "description": "A remote MCP server that lets AI agents create, publish, and query Vietnamese e-invoices through MISA meInvoice.",
+  "source_repo": "junter1989k-ai/vietnam-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/vietnam-invoice-mcp",
+  "install": "npx -y vietnam-invoice-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "simple-browser-use-mcp",
+  "description": "An MCP server for automating browser tasks using the Browser Use API. Provides tools to run, monitor, and manage browser automation tasks.",
+  "source_repo": "hadiazarabad/browser-use-mcp",
+  "source_url": "https://github.com/hadiazarabad/browser-use-mcp",
+  "install": "npx -y browser-use-mcp"
+}

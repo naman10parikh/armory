@@ -1,0 +1,7 @@
+{
+  "name": "simple-mcp-server-with-streamable-http-example",
+  "description": "Demonstrates how to create a simple MCP server with streamable HTTP transport, featuring tools, prompts, and resources.",
+  "source_repo": "jonigl/mcp-server-with-streamable-http-example",
+  "source_url": "https://github.com/jonigl/mcp-server-with-streamable-http-example",
+  "install": "# git clone --depth 1 https://github.com/jonigl/mcp-server-with-streamable-http-example\n# See source for mcpServers config block"
+}

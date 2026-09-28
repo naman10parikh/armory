@@ -1,0 +1,7 @@
+{
+  "name": "superpowers-mcp",
+  "description": "An MCP server that makes superpowers skills available to any LLM that supports the Model Context Protocol.",
+  "source_repo": "erophames/superpowers-mcp",
+  "source_url": "https://github.com/erophames/superpowers-mcp",
+  "install": "npx -y superpowers-mcp"
+}

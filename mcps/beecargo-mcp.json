@@ -1,0 +1,7 @@
+{
+  "name": "beecargo-mcp",
+  "description": "Model Context Protocol server for the Beecargo file hosting API, enabling agents to upload files, create share links, manage folders, and control share settings.",
+  "source_repo": "Beecargo/mcp",
+  "source_url": "https://github.com/Beecargo/mcp",
+  "install": "# git clone --depth 1 https://github.com/Beecargo/mcp\n# See source for mcpServers config block"
+}

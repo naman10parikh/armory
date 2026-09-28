@@ -1,0 +1,7 @@
+{
+  "name": "minimax-image-mcp",
+  "description": "Enables image generation via MiniMax's API through MCP, supporting text-to-image, batch generation, aspect ratios, seed reproducibility, and image-to-image with character references.",
+  "source_repo": "alexlivre/minimax-image-mcp",
+  "source_url": "https://github.com/alexlivre/minimax-image-mcp",
+  "install": "npx -y minimax-image-mcp"
+}

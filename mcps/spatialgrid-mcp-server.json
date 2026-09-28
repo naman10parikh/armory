@@ -1,0 +1,7 @@
+{
+  "name": "spatialgrid-mcp-server",
+  "description": "MCP server providing tools for spatial grid applications including calculations, MongoDB management, asset management, project creation, and experience publishing.",
+  "source_repo": "imabhi123/mcp-server",
+  "source_url": "https://github.com/imabhi123/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/imabhi123/mcp-server\n# See source for mcpServers config block"
+}

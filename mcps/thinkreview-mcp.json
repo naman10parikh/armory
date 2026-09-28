@@ -1,0 +1,7 @@
+{
+  "name": "thinkreview-mcp",
+  "description": "Hosted MCP server that enables AI code reviews on GitHub, GitLab, Azure DevOps, and Bitbucket PR/MR URLs via a single tool (review_url_code), integrating with Cursor, Claude Code, Claude Desktop, and GitHub Copilot through OAuth or Bearer token authentication.",
+  "source_repo": "Thinkode/thinkreview-mcp",
+  "source_url": "https://github.com/Thinkode/thinkreview-mcp",
+  "install": "npx -y thinkreview-mcp"
+}

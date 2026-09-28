@@ -1,0 +1,7 @@
+{
+  "name": "rgo-trading-api",
+  "description": "Enables AI assistants to read positions, deals, and orders from the RGO trading platform via natural language, with optional trading capabilities when explicitly enabled.",
+  "source_repo": "bhdhiman/rgo-trading-api",
+  "source_url": "https://github.com/bhdhiman/rgo-trading-api",
+  "install": "# git clone --depth 1 https://github.com/bhdhiman/rgo-trading-api\n# See source for mcpServers config block"
+}

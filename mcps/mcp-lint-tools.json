@@ -1,0 +1,7 @@
+{
+  "name": "mcp-lint-tools",
+  "description": "Code linting and style checking tools for AI agents, exposed as an MCP server. Supports style checks, naming conventions, complexity analysis, dead code detection, and import analysis.",
+  "source_repo": "rog0x/mcp-lint-tools",
+  "source_url": "https://github.com/rog0x/mcp-lint-tools",
+  "install": "# git clone --depth 1 https://github.com/rog0x/mcp-lint-tools\n# See source for mcpServers config block"
+}

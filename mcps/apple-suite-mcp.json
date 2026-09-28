@@ -1,0 +1,7 @@
+{
+  "name": "apple-suite-mcp",
+  "description": "A minimal Python MCP server that gives Claude access to built-in Apple apps (Mail, Contacts, Calendar, Notes, Reminders) on macOS, leveraging native APIs and local databases for speed with no OAuth setup.",
+  "source_repo": "travisthetrashpanda/apple-suite-mcp",
+  "source_url": "https://github.com/travisthetrashpanda/apple-suite-mcp",
+  "install": "npx -y apple-suite-mcp"
+}

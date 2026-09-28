@@ -1,0 +1,7 @@
+{
+  "name": "esolat-mcp",
+  "description": "MCP server providing Malaysian/global prayer times (JAKIM + Aladhan fallback), nearest mosque/surau finder, and Islamic calendar events.",
+  "source_repo": "zubir2k/esolat-mcp",
+  "source_url": "https://github.com/zubir2k/esolat-mcp",
+  "install": "npx -y esolat-mcp"
+}

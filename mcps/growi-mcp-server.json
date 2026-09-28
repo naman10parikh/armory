@@ -1,0 +1,7 @@
+{
+  "name": "growi-mcp-server",
+  "description": "Connects AI models to GROWI wikis for search and retrieval, enabling context-aware responses from an organization's knowledge base.",
+  "source_repo": "growilabs/growi-mcp-server",
+  "source_url": "https://github.com/growilabs/growi-mcp-server",
+  "install": "npx -y growi-mcp-server"
+}

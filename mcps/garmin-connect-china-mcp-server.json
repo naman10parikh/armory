@@ -1,0 +1,7 @@
+{
+  "name": "garmin-connect-china-mcp-server",
+  "description": "Enables AI assistants to read Garmin health and fitness data from the Chinese version (garmin.cn) via MCP protocol.",
+  "source_repo": "xinyuxinyuxintaihaohao/garmin-cn-mcp",
+  "source_url": "https://github.com/xinyuxinyuxintaihaohao/garmin-cn-mcp",
+  "install": "npx -y garmin-cn-mcp"
+}

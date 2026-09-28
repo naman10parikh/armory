@@ -1,0 +1,7 @@
+{
+  "name": "mailindex-mcp",
+  "description": "A self-hosted mail client MCP server that indexes email in PostgreSQL, enabling AI agents to search, move, mark, delete, and draft messages with bulk operations and attachment text extraction via OCR.",
+  "source_repo": "alexanderkrauck/mailindex-mcp",
+  "source_url": "https://github.com/alexanderkrauck/mailindex-mcp",
+  "install": "npx -y mailindex-mcp"
+}

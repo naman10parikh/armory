@@ -1,0 +1,7 @@
+{
+  "name": "yuque-mcp-server",
+  "description": "MCP server for Yuque (语雀) that exposes your knowledge base to AI assistants through the Model Context Protocol.",
+  "source_repo": "yuque/yuque-mcp-server",
+  "source_url": "https://github.com/yuque/yuque-mcp-server",
+  "install": "npx -y yuque-mcp-server"
+}

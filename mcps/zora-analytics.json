@@ -1,0 +1,7 @@
+{
+  "name": "zora-analytics",
+  "description": "Enables querying live Zora token data and analytics methodology through SQL and document retrieval tools, providing guarded access to on-chain holder, transfer, and token information.",
+  "source_repo": "marblerace/zoraHoldersAI",
+  "source_url": "https://github.com/marblerace/zoraHoldersAI",
+  "install": "# git clone --depth 1 https://github.com/marblerace/zoraHoldersAI\n# See source for mcpServers config block"
+}

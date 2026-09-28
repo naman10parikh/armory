@@ -1,0 +1,7 @@
+{
+  "name": "a2a-mcp-bridge",
+  "description": "A stdio MCP server that allows MCP-capable agents to call an A2A endpoint, enabling agent-to-agent messaging through the A2A protocol.",
+  "source_repo": "clawd-ops/a2a-agent-bridge",
+  "source_url": "https://github.com/clawd-ops/a2a-agent-bridge",
+  "install": "# git clone --depth 1 https://github.com/clawd-ops/a2a-agent-bridge\n# See source for mcpServers config block"
+}

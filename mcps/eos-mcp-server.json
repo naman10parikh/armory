@@ -1,0 +1,7 @@
+{
+  "name": "eos-mcp-server",
+  "description": "MCP server that enables control of an ETC Eos lighting console over OSC, supporting cues, channel levels, faders, and macros, with safety guards for destructive actions.",
+  "source_repo": "ReynoldsProductions/ETC-EOS-MCP",
+  "source_url": "https://github.com/ReynoldsProductions/ETC-EOS-MCP",
+  "install": "npx -y ETC-EOS-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nosana-agentic-mcp",
+  "description": "This MCP server enables AI agents to manage Nosana compute network deployments, jobs, scaling, and secrets through natural language.",
+  "source_repo": "naveendhaterwal/Nosana-Agentic-Mcp",
+  "source_url": "https://github.com/naveendhaterwal/Nosana-Agentic-Mcp",
+  "install": "npx -y Nosana-Agentic-Mcp"
+}

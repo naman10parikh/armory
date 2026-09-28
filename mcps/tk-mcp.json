@@ -1,0 +1,7 @@
+{
+  "name": "tk-mcp",
+  "description": "多多进定全平台 MCP 服务是一个基于 Model Context Protocol (MCP) 的服务，支持拼多多大电商平台的链接转换和商品推广功能，商品搜索等等一系列工具",
+  "source_repo": "bz-bntyh-w/taoke_mcp_new",
+  "source_url": "https://github.com/bz-bntyh-w/taoke_mcp_new",
+  "install": "# git clone --depth 1 https://github.com/bz-bntyh-w/taoke_mcp_new\n# See source for mcpServers config block"
+}

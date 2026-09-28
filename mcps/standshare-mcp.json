@@ -1,0 +1,7 @@
+{
+  "name": "standshare-mcp",
+  "description": "MCP server for the StandShare API, enabling Claude and other MCP clients to manage fundraising events, families, workers, finances, notifications, and reports within a StandShare organization.",
+  "source_repo": "GraditiPro/standshare-mcp",
+  "source_url": "https://github.com/GraditiPro/standshare-mcp",
+  "install": "npx -y standshare-mcp"
+}

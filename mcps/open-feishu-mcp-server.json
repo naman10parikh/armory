@@ -1,0 +1,7 @@
+{
+  "name": "open-feishu-mcp-server",
+  "description": "Enables natural language interaction with Feishu (Lark) services, including documents, spreadsheets, and more, with zero configuration and OAuth authentication.",
+  "source_repo": "Hahaxiong838383/open-feishu-mcp-server",
+  "source_url": "https://github.com/Hahaxiong838383/open-feishu-mcp-server",
+  "install": "npx -y open-feishu-mcp-server"
+}

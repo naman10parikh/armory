@@ -1,0 +1,7 @@
+{
+  "name": "fathom-mcp-adapter",
+  "description": "Read-only MCP server that exposes Fathom meetings and transcripts as tools for use by skills in the TICKETS workspace.",
+  "source_repo": "enrique-pastrana/fathom-mcp-adapter",
+  "source_url": "https://github.com/enrique-pastrana/fathom-mcp-adapter",
+  "install": "# git clone --depth 1 https://github.com/enrique-pastrana/fathom-mcp-adapter\n# See source for mcpServers config block"
+}

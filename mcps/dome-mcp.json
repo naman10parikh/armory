@@ -1,0 +1,7 @@
+{
+  "name": "dome-mcp",
+  "description": "Unified FastAPI server exposing 18 tools across 7 domains for the DOME-HUB sovereign stack, including E8 lattice, AMMA monitor, Akashic Records, and more.",
+  "source_repo": "garochee33/dome-mcp",
+  "source_url": "https://github.com/garochee33/dome-mcp",
+  "install": "npx -y dome-mcp"
+}

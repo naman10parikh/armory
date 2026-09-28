@@ -1,0 +1,7 @@
+{
+  "name": "marrow",
+  "description": "Marrow is a persistent multi-project memory backend that provides AI agents with MCP tools for semantic code navigation, task backlog management, and versioned artifact storage. It enables seamless, token-optimized context sharing and asynchronous handoffs between different AI models working on the",
+  "source_repo": "desikai-lab/Marrow",
+  "source_url": "https://github.com/desikai-lab/Marrow",
+  "install": "# git clone --depth 1 https://github.com/desikai-lab/Marrow\n# See source for mcpServers config block"
+}

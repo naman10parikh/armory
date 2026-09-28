@@ -1,0 +1,7 @@
+{
+  "name": "ielts-speaking-coach-mcp-server",
+  "description": "A local MCP server that enables IELTS speaking practice by managing training selections, session reviews, practice history, and dashboard data through tools like initialize_ielts_workspace, set_training_selection, save_session_review, and get_dashboard_data, all stored locally on the learner's compu",
+  "source_repo": "lindsey-labs/ielts-speaking-coach",
+  "source_url": "https://github.com/lindsey-labs/ielts-speaking-coach",
+  "install": "# git clone --depth 1 https://github.com/lindsey-labs/ielts-speaking-coach\n# See source for mcpServers config block"
+}

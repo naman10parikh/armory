@@ -1,0 +1,7 @@
+{
+  "name": "sinta-mcp-server",
+  "description": "Enables AI assistants to search and access data from Indonesia's Science and Technology Index (SINTA), including lecturer profiles, journal accreditation, and scientific publications.",
+  "source_repo": "lightnet19/sinta-mcp-server",
+  "source_url": "https://github.com/lightnet19/sinta-mcp-server",
+  "install": "npx -y sinta-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "distributed-mcp-server",
+  "description": "Provides tools for querying Chinese criminal law, US weather alerts, Azure pricing, and counting Chinese characters via the Model Context Protocol.",
+  "source_repo": "haxudev/mcp-server",
+  "source_url": "https://github.com/haxudev/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/haxudev/mcp-server\n# See source for mcpServers config block"
+}

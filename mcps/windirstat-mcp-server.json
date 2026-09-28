@@ -1,0 +1,7 @@
+{
+  "name": "windirstat-mcp-server",
+  "description": "Enables real-time Windows storage analysis, deep folder scanning, safety tiering, and protected cleanup operations through natural language.",
+  "source_repo": "harezadmm/windirstat-mcp",
+  "source_url": "https://github.com/harezadmm/windirstat-mcp",
+  "install": "npx -y windirstat-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ghosthand",
+  "description": "Enables MCP-capable coding agents to read and drive the user's browser page with a visible, human-like cursor that evades bot detection.",
+  "source_repo": "kumard3/ghosthand",
+  "source_url": "https://github.com/kumard3/ghosthand",
+  "install": "# git clone --depth 1 https://github.com/kumard3/ghosthand\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rain-avoid-map",
+  "description": "Provides flood-risk reporting and avoidance guidance for rainy days, including parking risk, community reports, and weather-based alerts.",
+  "source_repo": "wjd0ha/rain-avoid-map-mcp",
+  "source_url": "https://github.com/wjd0ha/rain-avoid-map-mcp",
+  "install": "npx -y rain-avoid-map-mcp"
+}

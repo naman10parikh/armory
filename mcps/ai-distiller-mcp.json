@@ -1,0 +1,7 @@
+{
+  "name": "ai-distiller-mcp",
+  "description": "Provides filesystem access to Claude via the MCP protocol, enabling local file operations through natural language.",
+  "source_repo": "axonempire/ai-distiller-mcp",
+  "source_url": "https://github.com/axonempire/ai-distiller-mcp",
+  "install": "npx -y ai-distiller-mcp"
+}

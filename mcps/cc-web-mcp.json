@@ -1,0 +1,7 @@
+{
+  "name": "cc-web-mcp",
+  "description": "Provides web search and page fetching tools for third-party models (e.g., DeepSeek, Qwen, Kimi) in Claude Code, with configurable search backends, Markdown output, and safety boundaries.",
+  "source_repo": "JcDizzy/CC-Web-MCP",
+  "source_url": "https://github.com/JcDizzy/CC-Web-MCP",
+  "install": "npx -y CC-Web-MCP"
+}

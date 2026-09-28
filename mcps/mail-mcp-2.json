@@ -1,0 +1,7 @@
+{
+  "name": "mail-mcp-2",
+  "description": "Enables secure mailbox access and email management via IMAP/SMTP, with tools for reading, searching, organizing, sending, and deleting emails, designed for local use and compatible with MCP clients like ChatGPT.",
+  "source_repo": "rafaelreverberi/Mail-MCP",
+  "source_url": "https://github.com/rafaelreverberi/Mail-MCP",
+  "install": "npx -y Mail-MCP"
+}

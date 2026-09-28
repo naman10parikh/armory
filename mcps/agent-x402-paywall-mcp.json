@@ -1,0 +1,7 @@
+{
+  "name": "agent-x402-paywall-mcp",
+  "description": "Enables pay-per-call access control for AI agents using HTTP 402 and on-chain settlement, allowing microtransactions for API usage.",
+  "source_repo": "CSOAI-ORG/agent-x402-paywall-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/agent-x402-paywall-mcp",
+  "install": "npx -y agent-x402-paywall-mcp"
+}

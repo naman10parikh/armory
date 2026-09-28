@@ -1,0 +1,7 @@
+{
+  "name": "imap-2-mcp",
+  "description": "Enables AI clients to search IMAP mailboxes with live access and a full-text index covering email bodies and attachments (PDF, DOCX, XLSX, text).",
+  "source_repo": "hugoheinzson/imap-2-mcp",
+  "source_url": "https://github.com/hugoheinzson/imap-2-mcp",
+  "install": "npx -y imap-2-mcp"
+}

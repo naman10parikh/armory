@@ -1,0 +1,7 @@
+{
+  "name": "mcp-network-tools-2",
+  "description": "Network diagnostics tool for AI agents that provides DNS lookup, IP geolocation, SSL certificate inspection, WHOIS queries, and HTTP latency testing.",
+  "source_repo": "rog0x/mcp-network-tools",
+  "source_url": "https://github.com/rog0x/mcp-network-tools",
+  "install": "# git clone --depth 1 https://github.com/rog0x/mcp-network-tools\n# See source for mcpServers config block"
+}

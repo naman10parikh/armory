@@ -1,0 +1,7 @@
+{
+  "name": "memoryiq",
+  "description": "Enables AI tools to access and contribute to shared semantic memory, supporting search, capture, and curation of knowledge across multiple brains via the MCP protocol.",
+  "source_repo": "simsketch/memoryiq",
+  "source_url": "https://github.com/simsketch/memoryiq",
+  "install": "# git clone --depth 1 https://github.com/simsketch/memoryiq\n# See source for mcpServers config block"
+}

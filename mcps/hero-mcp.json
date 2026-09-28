@@ -1,0 +1,7 @@
+{
+  "name": "hero-mcp",
+  "description": "MCP server for HERO handyman software, providing 34 OAuth-secured read/write tools with multi-tenant support and built-in API correctness checks.",
+  "source_repo": "ksqsebastian-spec/mcpees",
+  "source_url": "https://github.com/ksqsebastian-spec/mcpees",
+  "install": "# git clone --depth 1 https://github.com/ksqsebastian-spec/mcpees\n# See source for mcpServers config block"
+}

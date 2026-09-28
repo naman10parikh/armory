@@ -1,0 +1,7 @@
+{
+  "name": "fomu-mcp",
+  "description": "Enables interaction with Kenya's government processes by providing form checklists, draft letters, requirements checks, eCitizen guides, Huduma Centre locations, and timeline planning.",
+  "source_repo": "gabrielmahia/fomu-mcp",
+  "source_url": "https://github.com/gabrielmahia/fomu-mcp",
+  "install": "npx -y fomu-mcp"
+}

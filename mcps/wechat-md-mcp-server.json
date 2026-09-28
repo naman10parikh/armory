@@ -1,0 +1,7 @@
+{
+  "name": "wechat-md-mcp-server",
+  "description": "Converts Markdown to inline-styled HTML for WeChat official accounts, with theme selection and browser preview for easy copying.",
+  "source_repo": "huxuanming/wechat-md-mcp-server",
+  "source_url": "https://github.com/huxuanming/wechat-md-mcp-server",
+  "install": "npx -y wechat-md-mcp-server"
+}

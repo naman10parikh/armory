@@ -1,0 +1,7 @@
+{
+  "name": "pekao-mcp-server",
+  "description": "Enables AI assistants to interact with the Pekao banking API for account information, payment initiation, and confirmation of funds via MCP tools.",
+  "source_repo": "xnetcat/pekao-mcp",
+  "source_url": "https://github.com/xnetcat/pekao-mcp",
+  "install": "npx -y pekao-mcp"
+}

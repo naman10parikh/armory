@@ -1,0 +1,7 @@
+{
+  "name": "claude-replay",
+  "description": "Enables search, analytics, and visualization of Claude Code sessions with MCP tools for session management, recovery, and insights.",
+  "source_repo": "constripacity/Claude-Replay",
+  "source_url": "https://github.com/constripacity/Claude-Replay",
+  "install": "# git clone --depth 1 https://github.com/constripacity/Claude-Replay\n# See source for mcpServers config block"
+}

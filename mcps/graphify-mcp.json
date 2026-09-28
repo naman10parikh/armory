@@ -1,0 +1,7 @@
+{
+  "name": "graphify-mcp",
+  "description": "A Python MCP server that exposes the Graphify knowledge graph as MCP tools, prompts, and resources, enabling AI assistants to explore codebases through a token-budgeted, structural graph during development.",
+  "source_repo": "yasinyaman/graphify-mcp",
+  "source_url": "https://github.com/yasinyaman/graphify-mcp",
+  "install": "npx -y graphify-mcp"
+}

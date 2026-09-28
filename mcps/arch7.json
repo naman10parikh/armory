@@ -1,0 +1,7 @@
+{
+  "name": "arch7",
+  "description": "Generates Excalidraw architecture diagrams with support for 60+ components including GCP, Kafka, and AI/Agentic shapes. Provides MCP tools for creating, modifying, and converting diagrams from structured input or Mermaid syntax.",
+  "source_repo": "KTCrisis/arch7",
+  "source_url": "https://github.com/KTCrisis/arch7",
+  "install": "# git clone --depth 1 https://github.com/KTCrisis/arch7\n# See source for mcpServers config block"
+}

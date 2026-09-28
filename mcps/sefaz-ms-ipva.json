@@ -1,0 +1,7 @@
+{
+  "name": "sefaz-ms-ipva",
+  "description": "Consulta IPVA do Mato Grosso do Sul em fonte oficial, via servidor MCP hospedado com pagamento por uso (pré-pago) e integração com clientes como Claude, ChatGPT e Cursor.",
+  "source_repo": "mcp-dir/sefaz_ms_ipva-mcp",
+  "source_url": "https://github.com/mcp-dir/sefaz_ms_ipva-mcp",
+  "install": "npx -y sefaz_ms_ipva-mcp"
+}

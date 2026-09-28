@@ -1,0 +1,7 @@
+{
+  "name": "serbia-invoice-mcp",
+  "description": "Enables AI agents to issue, query, and cancel Serbia SEF eFaktura electronic invoices (UBL 2.1 SRB-CIUS) into the national Ministry of Finance system, using the merchant's own API key.",
+  "source_repo": "junter1989k-ai/serbia-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/serbia-invoice-mcp",
+  "install": "npx -y serbia-invoice-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "quant-research-mcp",
+  "description": "An MCP server exposing a registry of paper-backed quantitative trading methods plus a deterministic, no-LLM decision helper for reproducible trading research.",
+  "source_repo": "FlawlessByte/quant-research-mcp",
+  "source_url": "https://github.com/FlawlessByte/quant-research-mcp",
+  "install": "npx -y quant-research-mcp"
+}

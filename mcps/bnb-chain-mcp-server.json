@@ -1,0 +1,7 @@
+{
+  "name": "bnb-chain-mcp-server",
+  "description": "Enables AI assistants to interact with BNB Chain, including wallet creation, balance queries, token transfers, swaps via PancakeSwap V3, and price data from Binance Oracle.",
+  "source_repo": "Tairon-ai/bnb-mcp",
+  "source_url": "https://github.com/Tairon-ai/bnb-mcp",
+  "install": "npx -y bnb-mcp"
+}

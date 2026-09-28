@@ -1,0 +1,7 @@
+{
+  "name": "doctor-appointment-mcp-server",
+  "description": "Enables AI agents to manage doctor appointments by creating, finding, checking status, canceling, and rescheduling appointments through an MCP server that connects to an external appointment REST API.",
+  "source_repo": "josh747jr/doctor-appointment-mcp",
+  "source_url": "https://github.com/josh747jr/doctor-appointment-mcp",
+  "install": "npx -y doctor-appointment-mcp"
+}

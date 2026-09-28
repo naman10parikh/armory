@@ -1,6 +1,6 @@
 {
   "name": "noaa",
-  "description": "NOAA MCP server listed on mcp.so.",
+  "description": "Listed on mcp.so; Armory has only its name so far.",
   "source_repo": "RyanCardin15/NOAA",
   "source_url": "https://mcp.so/server/NOAA/RyanCardin15",
   "install": "# git clone --depth 1 https://mcp.so/server/NOAA/RyanCardin15\n# See source for mcpServers config block"

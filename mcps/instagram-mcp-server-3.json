@@ -1,0 +1,7 @@
+{
+  "name": "instagram-mcp-server-3",
+  "description": "Exposes Instagram actions (posts, media, comments, DMs, insights, Messenger profile) to Claude and ChatGPT via MCP.",
+  "source_repo": "selvin-paul-raj/Instagram-Alpic-mcp",
+  "source_url": "https://github.com/selvin-paul-raj/Instagram-Alpic-mcp",
+  "install": "npx -y Instagram-Alpic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tldraw-mcp",
+  "description": "Enables reading, writing, and validating .tldr files for tldraw, a headless implementation without browser dependencies.",
+  "source_repo": "jinsoo/tldraw-mcp",
+  "source_url": "https://github.com/jinsoo/tldraw-mcp",
+  "install": "npx -y tldraw-mcp"
+}

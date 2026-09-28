@@ -1,0 +1,7 @@
+{
+  "name": "trendyol-mcp",
+  "description": "MCP server for Trendyol Seller API providing tools to manage products, orders, claims, finances, invoices, customer questions, and webhooks.",
+  "source_repo": "bevren/trendyol-market-mcp",
+  "source_url": "https://github.com/bevren/trendyol-market-mcp",
+  "install": "npx -y trendyol-market-mcp"
+}

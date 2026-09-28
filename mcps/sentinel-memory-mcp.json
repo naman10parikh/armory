@@ -1,0 +1,7 @@
+{
+  "name": "sentinel-memory-mcp",
+  "description": "A lightweight MCP server that records and reuses prompt gaps — essential context missing from initial instructions — so your AI assistant learns from every session using a plain JSONL file tracked by Git.",
+  "source_repo": "Vince-Yi/-vncy-sentinel-memory-mcp",
+  "source_url": "https://github.com/Vince-Yi/-vncy-sentinel-memory-mcp",
+  "install": "npx -y -vncy-sentinel-memory-mcp"
+}

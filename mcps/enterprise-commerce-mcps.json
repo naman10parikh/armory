@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-commerce-mcps",
+  "description": "MCP servers for enterprise commerce that expose Spring Boot services and React portals through FastMCP servers, enabling natural language interactions with the underlying HTTP APIs.",
+  "source_repo": "Pawangunjkar/enterprise-commerce-mcps",
+  "source_url": "https://github.com/Pawangunjkar/enterprise-commerce-mcps",
+  "install": "# git clone --depth 1 https://github.com/Pawangunjkar/enterprise-commerce-mcps\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "influx-timeseries-mcp",
+  "description": "A selective, aggregation-first MCP server for InfluxDB v2 that bounds output and pushes reduction to the database, avoiding context flooding from raw time-series data.",
+  "source_repo": "rmaher001/influx-timeseries-mcp",
+  "source_url": "https://github.com/rmaher001/influx-timeseries-mcp",
+  "install": "npx -y influx-timeseries-mcp"
+}

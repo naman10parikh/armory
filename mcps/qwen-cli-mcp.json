@@ -1,0 +1,7 @@
+{
+  "name": "qwen-cli-mcp",
+  "description": "This server lets MCP clients delegate coding tasks to a locally installed Qwen Code CLI, enabling second opinions, parallel work, and clean separation from the main context.",
+  "source_repo": "minmax/qwen-cli-mcp",
+  "source_url": "https://github.com/minmax/qwen-cli-mcp",
+  "install": "npx -y qwen-cli-mcp"
+}

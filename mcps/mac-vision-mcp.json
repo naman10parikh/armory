@@ -1,0 +1,7 @@
+{
+  "name": "mac-vision-mcp",
+  "description": "An MCP server that enables AI coding agents to capture screenshots of macOS windows and displays on demand, providing tools for window discovery and screen capture.",
+  "source_repo": "jasich/mac-vision-mcp",
+  "source_url": "https://github.com/jasich/mac-vision-mcp",
+  "install": "npx -y mac-vision-mcp"
+}

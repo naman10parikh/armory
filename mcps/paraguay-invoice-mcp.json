@@ -1,0 +1,7 @@
+{
+  "name": "paraguay-invoice-mcp",
+  "description": "Enables AI agents to issue and query Paraguay SIFEN e-Kuatia electronic invoices through FacturaSend, handling IVA math and stateless forwarding.",
+  "source_repo": "junter1989k-ai/paraguay-invoice-mcp",
+  "source_url": "https://github.com/junter1989k-ai/paraguay-invoice-mcp",
+  "install": "npx -y paraguay-invoice-mcp"
+}

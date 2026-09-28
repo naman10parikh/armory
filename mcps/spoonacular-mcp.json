@@ -1,0 +1,7 @@
+{
+  "name": "spoonacular-mcp",
+  "description": "Enables AI assistants to search for recipes, get nutritional information, find ingredients, and more through the Spoonacular Food API using natural language.",
+  "source_repo": "ddsky/spoonacular-mcp",
+  "source_url": "https://github.com/ddsky/spoonacular-mcp",
+  "install": "npx -y spoonacular-mcp"
+}

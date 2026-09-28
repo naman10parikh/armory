@@ -1,0 +1,7 @@
+{
+  "name": "bitrix-mcp",
+  "description": "MCP server for Bitrix integration, enabling OAuth 2.1 authorization and tool calls to retrieve Bitrix usernames.",
+  "source_repo": "i1i1i1i1i1i11/mcp-bitrix",
+  "source_url": "https://github.com/i1i1i1i1i1i11/mcp-bitrix",
+  "install": "# git clone --depth 1 https://github.com/i1i1i1i1i1i11/mcp-bitrix\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arcgis-portal-mcp",
+  "description": "Enables AI assistants to search, query, and manage ArcGIS Portal and Online content, feature layers, users, and groups via the Model Context Protocol.",
+  "source_repo": "Asem-D/arcgis-portal-mcp",
+  "source_url": "https://github.com/Asem-D/arcgis-portal-mcp",
+  "install": "npx -y arcgis-portal-mcp"
+}

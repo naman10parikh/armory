@@ -1,0 +1,7 @@
+{
+  "name": "crefisa-mcp",
+  "description": "Conecta sua conta Crefisa a assistentes de IA via Open Finance Brasil, permitindo consultas em linguagem natural sobre saldos, extratos, faturas e investimentos, apenas leitura.",
+  "source_repo": "mcp-dir/crefisa-mcp",
+  "source_url": "https://github.com/mcp-dir/crefisa-mcp",
+  "install": "npx -y crefisa-mcp"
+}

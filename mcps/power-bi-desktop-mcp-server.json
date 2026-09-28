@@ -1,0 +1,7 @@
+{
+  "name": "power-bi-desktop-mcp-server",
+  "description": "Bridges the Model Context Protocol to the Tabular Object Model, enabling natural language inspection, optimization, and authoring of DAX in Power BI Desktop.",
+  "source_repo": "enelyse/powerbi-mcp-server",
+  "source_url": "https://github.com/enelyse/powerbi-mcp-server",
+  "install": "npx -y powerbi-mcp-server"
+}

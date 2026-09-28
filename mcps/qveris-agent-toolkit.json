@@ -1,0 +1,7 @@
+{
+  "name": "qveris-agent-toolkit",
+  "description": "Capability routing network for AI agents to discover, inspect, and call 10,000+ real-world financial capabilities through one unified MCP protocol.",
+  "source_repo": "QVerisAI/qveris-agent-toolkit",
+  "source_url": "https://github.com/QVerisAI/qveris-agent-toolkit",
+  "install": "# git clone --depth 1 https://github.com/QVerisAI/qveris-agent-toolkit\n# See source for mcpServers config block"
+}

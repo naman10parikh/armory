@@ -1,0 +1,7 @@
+{
+  "name": "rn-upgrade-helper-mcp",
+  "description": "An MCP server for React Native Upgrade Helper diffs. It fetches the same generated template diffs used by React Native Upgrade Helper, backed by react-native-community/rn-diff-purge, and exposes them as MCP tools that agents can call directly.",
+  "source_repo": "tanmay-girdhar/rn-upgrade-helper-mcp",
+  "source_url": "https://github.com/tanmay-girdhar/rn-upgrade-helper-mcp",
+  "install": "npx -y rn-upgrade-helper-mcp"
+}

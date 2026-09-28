@@ -1,0 +1,7 @@
+{
+  "name": "publicfinance",
+  "description": "Enables AI agents to access SEC EDGAR filings, US Treasury rates, BLS labor statistics, and economic indicators without API keys.",
+  "source_repo": "Leviai-ai/publicfinance-mcp",
+  "source_url": "https://github.com/Leviai-ai/publicfinance-mcp",
+  "install": "npx -y publicfinance-mcp"
+}

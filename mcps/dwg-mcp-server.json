@@ -1,0 +1,7 @@
+{
+  "name": "dwg-mcp-server",
+  "description": "An MCP server for read-only inspection of AutoCAD DWG files, enabling AI agents to open drawings, query objects by handle or filter, and explore properties and references.",
+  "source_repo": "dimitrovakulenko/dwg-mcp-server",
+  "source_url": "https://github.com/dimitrovakulenko/dwg-mcp-server",
+  "install": "npx -y dwg-mcp-server"
+}

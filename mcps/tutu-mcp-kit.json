@@ -1,0 +1,7 @@
+{
+  "name": "tutu-mcp-kit",
+  "description": "MCP server for searching multi-transport routes and hotels, enabling trip planning with combined ticket and hotel options and deep links to purchase on Tutu.ru.",
+  "source_repo": "chemisttt/tutu-mcp-kit",
+  "source_url": "https://github.com/chemisttt/tutu-mcp-kit",
+  "install": "# git clone --depth 1 https://github.com/chemisttt/tutu-mcp-kit\n# See source for mcpServers config block"
+}

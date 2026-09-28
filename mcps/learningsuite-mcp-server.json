@@ -1,0 +1,7 @@
+{
+  "name": "learningsuite-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides tools for interacting with the LearningSuite API, enabling AI assistants to manage members, courses, groups, bundles, hubs, and community features.",
+  "source_repo": "fabienbutz/learningsuite-mcp",
+  "source_url": "https://github.com/fabienbutz/learningsuite-mcp",
+  "install": "npx -y learningsuite-mcp"
+}

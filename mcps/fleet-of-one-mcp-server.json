@@ -1,0 +1,7 @@
+{
+  "name": "fleet-of-one-mcp-server",
+  "description": "MCP server providing tools to verify task completion (tests pass and changes match claim) and confirm bug reproduction before fixing.",
+  "source_repo": "Johnny-Martinez/fleet-of-one-mcp",
+  "source_url": "https://github.com/Johnny-Martinez/fleet-of-one-mcp",
+  "install": "npx -y fleet-of-one-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ssh-session",
+  "description": "An MCP server that enables AI agents to establish and manage persistent SSH sessions with smart command execution, async support, and file operations.",
+  "source_repo": "AmritaBot/MCPSSHSession-Reloaded",
+  "source_url": "https://github.com/AmritaBot/MCPSSHSession-Reloaded",
+  "install": "# git clone --depth 1 https://github.com/AmritaBot/MCPSSHSession-Reloaded\n# See source for mcpServers config block"
+}

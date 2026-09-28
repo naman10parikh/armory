@@ -1,0 +1,7 @@
+{
+  "name": "productive-mcp-rb2",
+  "description": "Enables interaction with Productive.io for task management, time tracking, budget monitoring, and project overview through natural language.",
+  "source_repo": "rubenlangeweg/productive-mcp",
+  "source_url": "https://github.com/rubenlangeweg/productive-mcp",
+  "install": "npx -y productive-mcp"
+}

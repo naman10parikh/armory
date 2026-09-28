@@ -1,0 +1,7 @@
+{
+  "name": "motus",
+  "description": "Enables agents to search airports and find group meetup flights for multiple travelers with optimal pricing and arrival windows.",
+  "source_repo": "aperswal/motus",
+  "source_url": "https://github.com/aperswal/motus",
+  "install": "# git clone --depth 1 https://github.com/aperswal/motus\n# See source for mcpServers config block"
+}

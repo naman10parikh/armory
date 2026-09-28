@@ -1,0 +1,7 @@
+{
+  "name": "n2n-nexus",
+  "description": "A local digital asset hub for multi-AI assistant collaboration, offering real-time meeting rooms and structured project vaults with zero-configuration setup.",
+  "source_repo": "n2ns/n2n-nexus",
+  "source_url": "https://github.com/n2ns/n2n-nexus",
+  "install": "# git clone --depth 1 https://github.com/n2ns/n2n-nexus\n# See source for mcpServers config block"
+}

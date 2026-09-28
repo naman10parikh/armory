@@ -1,0 +1,7 @@
+{
+  "name": "task-mcp-node",
+  "description": "A simple MCP server demonstrating resources, tools, and prompts using a local task list. It enables reading, creating, and analyzing tasks through MCP.",
+  "source_repo": "krollchristensen/mcp-node-tasks-client",
+  "source_url": "https://github.com/krollchristensen/mcp-node-tasks-client",
+  "install": "# git clone --depth 1 https://github.com/krollchristensen/mcp-node-tasks-client\n# See source for mcpServers config block"
+}

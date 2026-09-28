@@ -1,0 +1,7 @@
+{
+  "name": "agent-escalation-harness",
+  "description": "An MCP server that lets an AI coding agent pause on human-only tasks, request structured input via a form, and resume with the answer, all locally without cloud dependencies.",
+  "source_repo": "wujinhanjohn/agent-escalation-harness",
+  "source_url": "https://github.com/wujinhanjohn/agent-escalation-harness",
+  "install": "# git clone --depth 1 https://github.com/wujinhanjohn/agent-escalation-harness\n# See source for mcpServers config block"
+}
