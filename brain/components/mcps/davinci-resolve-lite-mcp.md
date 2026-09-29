@@ -8,13 +8,13 @@ source_url: https://github.com/2sem/davinci-resolve-lite-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:40:02Z"
+pushed_at: "2026-09-16T06:44:21Z"
 ---
 ## What it is
 Enables AI clients such as Claude Code to control DaVinci Resolve, including the free Lite edition, through a local HTTP server that runs inside Resolve's Scripts menu. It exposes 163 tools for editing, color, rendering, media pool, and Fusion title styling.

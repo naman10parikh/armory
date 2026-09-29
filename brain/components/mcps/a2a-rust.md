@@ -8,7 +8,7 @@ source_url: https://github.com/robert-at-pretension-io/A2A
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 24
 eval_score: null
 verified_at: 2026-05-28
 related: []

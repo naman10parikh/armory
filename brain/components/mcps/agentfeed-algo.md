@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T19:03:32Z"
+pushed_at: "2026-09-28T08:34:08Z"
 ---
 ## What it is
 MCP server for the agentfeed-algo x402 API, enabling paid per-call access to cross-venue liquidation data on Algorand. Provides tools to query liquidation volumes, cascade scores, symbol coverage, exchange integrity, and manage payments from your own Algorand account.

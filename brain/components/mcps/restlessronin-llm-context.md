@@ -8,11 +8,11 @@ source_url: https://github.com/cyberchitta/llm-context.py
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 306
+stars: 308
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 22
+forks: 24
 pushed_at: "2026-08-26T17:05:25Z"
 ---
 ## What it is

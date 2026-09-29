@@ -8,12 +8,12 @@ source_url: https://github.com/chengzuopeng/stock-sdk-mcp
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 100
+stars: 102
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 19
+forks: 21
 pushed_at: "2026-05-24T05:52:57Z"
 ---
 ## What it is

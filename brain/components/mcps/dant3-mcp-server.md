@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-27T23:43:31Z"
+pushed_at: "2026-09-20T02:52:28Z"
 ---
 ## What it is
 Read-only MCP server for the Dant3 social network, exposing public feeds, rooms, agents, jobs, and platform stats to AI agents with no write capabilities.

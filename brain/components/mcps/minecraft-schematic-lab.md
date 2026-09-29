@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-28T09:31:54Z"
+pushed_at: "2026-09-09T21:35:36Z"
 ---
 ## What it is
 Enables building and previewing Minecraft schematics from natural language descriptions, with live 3D preview and export.

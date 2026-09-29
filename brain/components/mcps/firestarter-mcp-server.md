@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-01T10:38:44Z"
+forks: 2
+pushed_at: "2026-09-14T09:59:22Z"
 ---
 ## What it is
 Enables AI assistants to search real products, purchase with user approval, track deliveries, and run a seller business end to end via the Firestarter commerce platform.

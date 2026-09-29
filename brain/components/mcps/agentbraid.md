@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T00:44:20Z"
+pushed_at: "2026-09-17T00:44:23Z"
 ---
 ## What it is
 A local-first MCP orchestration server that uses Codex as lead planner and Antigravity as host to delegate and review bounded tasks with Git integration and persistent SQLite state.

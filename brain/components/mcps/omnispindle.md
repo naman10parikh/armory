@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-21T17:47:39Z"
+pushed_at: "2026-09-26T18:07:37Z"
 ---
 ## What it is
 A Python FastMCP server with 33 tools that lets AI agents manage tasks, capture knowledge, and coordinate sessions across projects via a unified interface.

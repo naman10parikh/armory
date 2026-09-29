@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:17:19Z"
+pushed_at: "2026-09-26T19:20:58Z"
 ---
 ## What it is
 Translate between corporate jargon and plain English with customizable direction and tone (passive-aggressive, enthusiastic, defeated). Also provides interpretation tips.

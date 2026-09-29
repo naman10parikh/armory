@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T11:48:34Z"
+pushed_at: "2026-09-18T16:10:10Z"
 ---
 ## What it is
 Read-only public Telegram group statistics from Limzo: search tracked communities and pull leaderboards, activity trends, member levels, and network-wide totals. No API key or account needed.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-17T07:58:06Z"
+pushed_at: "2026-09-17T01:45:28Z"
 ---
 ## What it is
 An MCP server that gives AI assistants tools to generate AccelByte AGS uGUI prefabs in Unity projects, look up AccelByte Unity SDK best practices, search Bytewars C# example components, and configure SDK credentials from a Claude Code or Cursor session.

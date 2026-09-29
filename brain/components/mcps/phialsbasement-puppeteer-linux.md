@@ -8,7 +8,7 @@ source_url: https://github.com/phialsbasement/mcp-puppeteer-linux
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

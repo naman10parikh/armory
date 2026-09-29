@@ -8,13 +8,13 @@ source_url: https://github.com/aoreshkov/kotlin-lib-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T20:50:07Z"
+pushed_at: "2026-09-26T09:55:56Z"
 ---
 ## What it is
 MCP server that downloads and analyzes sources of Maven-published Kotlin/Java libraries, exposing structured API information, KDoc, and raw source to AI agents.

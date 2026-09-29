@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-03T11:59:33Z"
+pushed_at: "2026-09-28T12:28:27Z"
 ---
 ## What it is
 A Model Context Protocol server for Plunk, the open-source self-hosted email platform. Provides 84 tools for transactional email, contacts, campaigns, segments, templates, workflows, events, and analytics through the Plunk API.

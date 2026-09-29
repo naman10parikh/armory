@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T03:41:39Z"
+pushed_at: "2026-09-08T01:40:07Z"
 ---
 ## What it is
 건설알림이 MCP server that lets users search Seoul city construction project lists and retrieve onsite photos via the Seoul Open Data API, with per-user API key isolation.

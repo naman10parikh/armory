@@ -12,7 +12,7 @@ stars: 133
 verified_at: 2026-05-26
 related: []
 tags: [devops, knowledge, mcp]
-forks: 18
+forks: 20
 pushed_at: "2026-01-06T12:33:46Z"
 ---
 

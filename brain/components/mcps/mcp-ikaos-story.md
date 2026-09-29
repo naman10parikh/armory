@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T05:49:19Z"
+pushed_at: "2026-09-03T13:23:04Z"
 ---
 ## What it is
 Enables creating and modifying iKAOS Story prototype content, including reading context, saving content with optimistic revision control, and managing images, through a stdio MCP server that talks to the authenticated iKAOS Story API.

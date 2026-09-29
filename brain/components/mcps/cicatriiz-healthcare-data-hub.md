@@ -8,11 +8,11 @@ source_url: https://github.com/cicatriiz/healthcare-mcp-public
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 127
+stars: 128
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
+forks: 38
 pushed_at: "2025-08-16T18:14:06Z"
 ---
 ## What it is

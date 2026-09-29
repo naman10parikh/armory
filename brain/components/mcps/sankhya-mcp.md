@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-06-30T18:25:17Z"
+forks: 1
+pushed_at: "2026-09-29T01:50:24Z"
 ---
 ## What it is
 Conjunto de servidores MCP que conectam agentes de IA ao ERP Sankhya através da sua API pública, permitindo consultas e operações em diversos domínios funcionais como vendas, financeiro, suprimentos e RH.

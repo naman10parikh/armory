@@ -8,13 +8,13 @@ source_url: https://github.com/dongsheng123132/dsh-narrative-ledger
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-21T01:10:58Z"
+pushed_at: "2026-09-07T13:35:17Z"
 ---
 ## What it is
 MCP server for verifying narrative consistency and querying story-state facts in DeepSeek Harness, exposing read-only ledger tools for canonical evidence and continuity checks.

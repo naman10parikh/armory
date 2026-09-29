@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-05-30T15:47:19Z"
+pushed_at: "2026-09-18T14:00:18Z"
 ---
 ## What it is
 MCP server `Memwright`, catalogued on PulseMCP. Embedded memory for AI agents with SQLite, pgvector semantic search, and Neo4j graph traversal fused via Reciprocal Rank Fusion.

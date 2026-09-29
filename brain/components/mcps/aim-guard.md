@@ -8,11 +8,11 @@ source_url: https://github.com/aim-intelligence/aim-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 18
 pushed_at: "2025-10-13T09:38:19Z"
 ---
 ## What it is

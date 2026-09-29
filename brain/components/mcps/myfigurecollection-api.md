@@ -8,13 +8,13 @@ source_url: https://github.com/ssskay/myfigurecollection-api
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T05:53:35Z"
+pushed_at: "2026-09-04T16:16:16Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to search and retrieve anime figure data, collections, lists, and clubs from MyFigureCollection.net, including partner listings and barcode lookup.

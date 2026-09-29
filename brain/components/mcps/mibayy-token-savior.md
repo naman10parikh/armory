@@ -8,11 +8,11 @@ source_url: https://github.com/mibayy/token-savior
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1137
+stars: 1160
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 96
+forks: 101
 pushed_at: "2026-08-10T08:19:00Z"
 ---
 ## What it is

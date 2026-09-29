@@ -8,13 +8,13 @@ source_url: https://github.com/c47-inc/mcp-film
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-01T06:58:14Z"
+forks: 5
+pushed_at: "2026-09-29T06:48:22Z"
 ---
 ## What it is
 The mcp.film directory as an MCP server — search a curated, continuously re-verified catalog of MCP servers for AI filmmaking, get install configs for any client, and plan a full production stack.

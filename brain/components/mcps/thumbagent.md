@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T04:03:52Z"
+pushed_at: "2026-09-23T06:24:36Z"
 ---
 ## What it is
 Local-first MCP server that enables AI agents to safely control and observe Android mobile devices, supporting device diagnostics, app lifecycle management, async task execution, and performance monitoring through a policy-constrained interface with explicit confirmations.

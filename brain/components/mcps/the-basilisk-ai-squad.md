@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-01T21:16:29Z"
+pushed_at: "2026-09-29T11:36:18Z"
 ---
 ## What it is
 MCP server `Squad`, catalogued on PulseMCP. Integrates with Squad's product management platform to enable feedback management, knowledge organization, and workspace operations for product teams streamlining their workflows.

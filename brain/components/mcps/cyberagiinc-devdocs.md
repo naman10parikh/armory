@@ -8,11 +8,11 @@ source_url: https://github.com/cyberagiinc/devdocs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2105
+stars: 2108
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 193
+forks: 197
 pushed_at: "2026-02-04T16:24:24Z"
 ---
 ## What it is

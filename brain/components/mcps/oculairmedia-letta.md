@@ -8,12 +8,12 @@ source_url: https://github.com/oculairmedia/letta-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 78
+stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 20
-pushed_at: "2026-08-03T04:15:06Z"
+pushed_at: "2026-09-07T04:13:45Z"
 ---
 ## What it is
 MCP server `Letta`, catalogued on PulseMCP. Integrates with the Letta API to enable creation and management of agents, memory blocks, and tools for advanced AI-based interactions and memory management

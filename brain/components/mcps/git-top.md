@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T10:55:17Z"
+pushed_at: "2026-09-20T05:20:11Z"
 ---
 ## What it is
 Provides MCP tools to search, compare, and get recommendations for open-source projects from a structured knowledge graph of GitHub data.

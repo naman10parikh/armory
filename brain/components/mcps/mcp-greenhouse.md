@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:11:32Z"
+pushed_at: "2026-09-26T19:00:15Z"
 ---
 ## What it is
 Enables AI agents to search candidates, view job postings, and manage applications in Greenhouse ATS via natural language queries.

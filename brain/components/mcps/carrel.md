@@ -8,13 +8,13 @@ source_url: https://github.com/FirstCastSolutions423/carrel
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T00:45:56Z"
+pushed_at: "2026-09-28T11:13:00Z"
 ---
 ## What it is
 Enables local file search, packing into LLM-ready context, and inspection via an MCP server on stdio.

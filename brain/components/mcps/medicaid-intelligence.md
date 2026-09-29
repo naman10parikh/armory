@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:21:38Z"
+pushed_at: "2026-09-26T19:40:52Z"
 ---
 ## What it is
 This MCP server enables querying Medicaid drug utilization, managed-care enrollment, and state enrollment data from CMS's public Medicaid Open Data API, with tools for trends, market analysis, and program mix without authentication.

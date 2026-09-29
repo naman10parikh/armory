@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:04:54Z"
+pushed_at: "2026-09-25T23:50:50Z"
 ---
 ## What it is
 Enables searching and retrieving detailed information on EU grant calls and tenders from the EU Funding & Tenders Portal, including deadlines, budgets, and topic details.

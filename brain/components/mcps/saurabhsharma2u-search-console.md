@@ -8,12 +8,12 @@ source_url: https://github.com/saurabhsharma2u/search-console-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 285
+stars: 297
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
-pushed_at: "2026-08-27T19:01:41Z"
+forks: 29
+pushed_at: "2026-09-02T12:20:13Z"
 ---
 ## What it is
 MCP server `Google Search Console`, catalogued on PulseMCP. Integrates with Google Search Console to provide search analytics, SEO opportunity detection, keyword cannibalization analysis, URL inspection, and sitemap management.

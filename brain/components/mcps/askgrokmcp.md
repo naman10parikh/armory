@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T16:28:33Z"
+pushed_at: "2026-09-29T02:07:18Z"
 ---
 ## What it is
 Brings xAI's Grok API into Claude Code as native tools, enabling chat, image generation, model listing, and multi-round consensus/validation analysis.

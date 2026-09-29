@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T22:45:27Z"
+pushed_at: "2026-09-07T22:05:47Z"
 ---
 ## What it is
 Gives Claude, Cursor, and any MCP client 15 tools to create, schedule, and publish social posts to TikTok, Instagram Reels, YouTube Shorts, X, Threads, and LinkedIn. Also handles media import by URL or base64, webhooks, and per-platform analytics from the ViralNote API.

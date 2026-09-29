@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-29T13:23:18Z"
+pushed_at: "2026-09-29T10:02:45Z"
 ---
 ## What it is
 Read-only MCP server for WooCommerce that enables answering questions about products, orders, sales, and blog posts via the WordPress REST API without needing plugins or write access.

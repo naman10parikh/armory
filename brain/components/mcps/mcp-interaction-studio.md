@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T20:58:44Z"
+pushed_at: "2026-09-29T13:42:37Z"
 ---
 ## What it is
 MCP server for Salesforce Interaction Studio that enables listing and managing datasets, campaigns, segments, and performance stats via natural language.

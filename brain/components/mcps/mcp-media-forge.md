@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-11T23:47:17Z"
+pushed_at: "2026-09-12T22:28:26Z"
 ---
 ## What it is
 Generates diagrams, charts, HTML pages, and slide decks from text DSLs, enabling AI agents to embed visual assets into Markdown.

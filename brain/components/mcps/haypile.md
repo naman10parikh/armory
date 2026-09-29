@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T11:49:06Z"
+pushed_at: "2026-09-28T07:30:04Z"
 ---
 ## What it is
 Hybrid search over your local documents, with file and page citations. One binary, fully local.

@@ -8,13 +8,13 @@ source_url: https://github.com/clarilayer/clarilayer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 92
+stars: 82
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-08-10T07:36:43Z"
+pushed_at: "2026-09-17T17:13:03Z"
 ---
 ## What it is
 The individual-analyst context layer, delivered over MCP, that gives your AI coding agent durable, reconciled memory of your data context to stop re-explaining data every session.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T14:07:03Z"
+pushed_at: "2026-09-07T13:48:35Z"
 ---
 ## What it is
 An agent-native teaching OS that gives AI assistants a persistent classroom with courses, lessons, flashcards, and graded exercises via MCP tools.

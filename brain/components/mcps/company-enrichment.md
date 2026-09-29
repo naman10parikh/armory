@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:32:52Z"
+pushed_at: "2026-09-02T19:55:26Z"
 ---
 ## What it is
 Enriches company data from a domain name, providing firmographics, socials, tech stack, and contact info via a pay-per-call x402 micropayment API.

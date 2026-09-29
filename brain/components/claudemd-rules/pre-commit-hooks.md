@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: [avs-vibe-developer-guide, claude-code-mcp-enhanced]
 tags: [claude-code, claude-md-files]
 stars: 5
-forks: 3
+forks: 2
 pushed_at: "2025-12-24T06:43:05Z"
 ---
 ## What it is

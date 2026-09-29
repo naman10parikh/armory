@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-23T13:35:02Z"
+pushed_at: "2026-09-24T16:44:31Z"
 ---
 ## What it is
 MCP server that scrapes app data from Google Play and Apple App Store, providing tools for search, details, reviews, and similar apps.

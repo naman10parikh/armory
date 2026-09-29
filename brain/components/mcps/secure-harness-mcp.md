@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T20:09:05Z"
+pushed_at: "2026-09-07T03:51:28Z"
 ---
 ## What it is
 Verify-and-repair secure-coding harness that generates, hardens, audits, and scores Go code with a build and security scan feedback loop, and includes a transparent proxy to harden any client automatically.

@@ -8,11 +8,11 @@ source_url: https://github.com/rakeshgangwar/erpnext-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 118
+stars: 120
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 42
+forks: 43
 pushed_at: "2026-04-25T06:23:30Z"
 ---
 ## What it is

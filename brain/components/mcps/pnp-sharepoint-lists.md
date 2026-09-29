@@ -8,12 +8,12 @@ source_url: https://github.com/pnp/cli-microsoft365-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 129
+stars: 132
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
-pushed_at: "2026-08-31T17:14:10Z"
+forks: 28
+pushed_at: "2026-09-28T17:14:06Z"
 ---
 ## What it is
 MCP server `SharePoint Lists`, catalogued on PulseMCP. Enables AI to interact with SharePoint lists through the CLI for Microsoft 365, allowing natural language management of content without requiring SharePoint structure knowledge.

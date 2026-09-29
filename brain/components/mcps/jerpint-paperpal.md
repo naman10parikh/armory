@@ -8,12 +8,12 @@ source_url: https://github.com/jerpint/paperpal
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2025-05-08T22:40:52Z"
+pushed_at: "2026-09-25T19:02:48Z"
 ---
 ## What it is
 MCP server `PaperPal`, catalogued on PulseMCP. Connects LLMs to academic research sources for semantic paper searches and detailed information retrieval from arXiv and Hugging Face, enabling literature reviews and research exploration

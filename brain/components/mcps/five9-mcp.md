@@ -8,13 +8,13 @@ source_url: https://github.com/ryanshatz/five9-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-07-31T22:31:09Z"
+pushed_at: "2026-09-10T16:31:59Z"
 ---
 ## What it is
 MCP server that connects AI assistants to Five9 contact center, allowing management of campaigns, agents, lists, and statistics via natural language commands.

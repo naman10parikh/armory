@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T18:45:49Z"
+pushed_at: "2026-09-28T18:46:45Z"
 ---
 ## What it is
 Provides AI assistants with structured access to the Freshdesk customer support platform, including tickets, contacts, companies, agents, groups, knowledge base, and SLA configuration. Features decision-tree navigation and destructive-action guardrails.

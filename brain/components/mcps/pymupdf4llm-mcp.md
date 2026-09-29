@@ -8,12 +8,12 @@ source_url: https://github.com/pymupdf/pymupdf4llm-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 72
+stars: 71
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 11
 pushed_at: "2026-07-02T13:12:47Z"
 ---
 ## What it is

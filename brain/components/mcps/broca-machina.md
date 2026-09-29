@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T23:30:28Z"
+pushed_at: "2026-09-04T01:34:06Z"
 ---
 ## What it is
 Gives any text-based AI a voice and ears inside a Discord voice channel by transcribing speech, relaying to an LLM/agent, and speaking replies back.

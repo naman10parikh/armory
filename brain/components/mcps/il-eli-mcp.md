@@ -8,13 +8,13 @@ source_url: https://github.com/matematicsolutions/il-eli-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-24T13:56:27Z"
+forks: 1
+pushed_at: "2026-09-24T13:29:15Z"
 ---
 ## What it is
 Enables searching and retrieving metadata of Israeli primary legislation via the Knesset's official OData API, including law names, status, and Basic Law classification.

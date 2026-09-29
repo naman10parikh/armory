@@ -8,13 +8,13 @@ source_url: https://github.com/Ahad690/open-app-intel
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-07T22:19:41Z"
+pushed_at: "2026-09-03T13:32:32Z"
 ---
 ## What it is
 Self-hosted MCP server for app market intelligence, enabling tools to query app download/revenue estimates, ad intensity proxies, creator mentions, and rank history from local collected data.

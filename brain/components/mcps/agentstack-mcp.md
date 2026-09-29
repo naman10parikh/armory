@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T09:36:29Z"
+pushed_at: "2026-09-26T12:22:57Z"
 ---
 ## What it is
 One deterministic reasoning stack behind a single MCP endpoint, chaining scenario simulation, decision analysis, and precision computation with 40-digit decimal math.

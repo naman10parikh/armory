@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T20:27:23Z"
+pushed_at: "2026-09-10T23:20:40Z"
 ---
 ## What it is
 Local-first dev memory: indexes Git commits, PRs, Jira/Linear tickets, Confluence docs, Slack threads, and Calendar events into a local SQLite/FTS5/ONNX index, and exposes them as MCP tools so Claude Code, Cursor, and Codex can search and cite your past work.

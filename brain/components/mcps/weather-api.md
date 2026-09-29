@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:34:35Z"
+pushed_at: "2026-09-02T19:58:03Z"
 ---
 ## What it is
 Provides current weather conditions and 7-day forecasts for any location worldwide, covering temperature, humidity, wind, and precipitation, with pay-per-call micropayments via x402.

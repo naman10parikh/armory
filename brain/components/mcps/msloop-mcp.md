@@ -8,12 +8,12 @@ source_url: https://github.com/shayanline/msloop-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 4
 pushed_at: "2026-06-12T17:17:16Z"
 ---
 ## What it is

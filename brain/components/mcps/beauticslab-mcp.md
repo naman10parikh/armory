@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-05T03:30:53Z"
+pushed_at: "2026-09-02T13:09:42Z"
 ---
 ## What it is
 Enables AI assistants to search beauty products from Korean catalogs (Olive Young, Daiso, e-commerce) and analyze personal skincare routines and ingredient compositions via BeauticsLab.

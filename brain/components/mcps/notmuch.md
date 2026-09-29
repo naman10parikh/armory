@@ -8,12 +8,12 @@ source_url: https://github.com/hgn/mcp-server-notmuch
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-07-31T06:46:44Z"
 ---
 ## What it is

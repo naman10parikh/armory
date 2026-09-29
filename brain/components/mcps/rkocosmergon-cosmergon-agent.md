@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
-stars: 3
+stars: 4
 forks: 0
-pushed_at: "2026-08-25T07:26:05Z"
+pushed_at: "2026-09-27T17:33:42Z"
 ---
 ## What it is
 Living economy for AI agents — Conway's Game of Life physics, energy currency, marketplace. 4 tools: observe state, execute actions, benchmark reports, game rules. Auto-registers, no API key needed.

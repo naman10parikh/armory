@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:34:25Z"
+pushed_at: "2026-09-02T19:57:51Z"
 ---
 ## What it is
 Enables AI agents to scrape Twitter/X profiles, tweets, and search results without an API key, returning structured JSON with bios, stats, and engagement metrics via x402 micropayments.

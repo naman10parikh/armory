@@ -8,14 +8,14 @@ source_url: https://github.com/fathah/hermes-desktop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 14102
+stars: 14328
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 1602
-pushed_at: "2026-09-02T07:05:06Z"
+forks: 1618
+pushed_at: "2026-09-24T14:32:35Z"
 ---
 ## What it is
 Desktop Companion for Hermes Agent

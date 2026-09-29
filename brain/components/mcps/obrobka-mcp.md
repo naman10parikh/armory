@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T21:52:55Z"
+pushed_at: "2026-09-25T09:36:43Z"
 ---
 ## What it is
 Enables AI agents to process images locally via file paths—converting, resizing, removing backgrounds, smart cropping, upscaling, reading or stripping metadata, and batch processing—without files ever leaving the device.

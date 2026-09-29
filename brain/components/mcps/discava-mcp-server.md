@@ -13,7 +13,7 @@ related: []
 tags: [mcp, location-services]
 stars: 1
 forks: 0
-pushed_at: "2026-03-23T22:38:42Z"
+pushed_at: "2026-09-24T15:02:22Z"
 ---
 ## What it is
 Search Millions of local businesses worldwide (Europe, Northamerica, Southamerica, Asia, Oceania), confidence scores, and agent trust rankings. No API key required.

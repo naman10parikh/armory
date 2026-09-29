@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-19T14:31:01Z"
+pushed_at: "2026-09-22T08:03:48Z"
 ---
 ## What it is
 Exposes FirstReply customer support operations as MCP tools, enabling AI assistants to browse conversations, draft replies, manage API keys, and access support statistics.

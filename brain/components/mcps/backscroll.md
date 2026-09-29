@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-24T04:41:36Z"
+pushed_at: "2026-09-14T04:24:04Z"
 ---
 ## What it is
 Records your terminal sessions per command (PTY + OSC 133) into local SQLite, so AI agents can search, retrieve, and diff what commands actually printed. Secret redaction is applied by default to everything served over MCP.

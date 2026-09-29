@@ -8,12 +8,12 @@ source_url: https://github.com/sourknives/sleeper-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
+forks: 15
 pushed_at: "2026-08-11T11:10:01Z"
 ---
 ## What it is

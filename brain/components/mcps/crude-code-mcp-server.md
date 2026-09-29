@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T22:04:50Z"
+pushed_at: "2026-09-07T15:47:30Z"
 ---
 ## What it is
 An oil & gas data-analytics MCP server that enables guarded SQL queries, well valuation, and map rendering within chat apps.

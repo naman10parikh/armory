@@ -8,13 +8,13 @@ source_url: https://github.com/chuofringer/placeroot
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T06:51:18Z"
+pushed_at: "2026-09-20T05:23:15Z"
 ---
 ## What it is
 PlaceRoot is an MCP server that answers spatial questions using open map data from Overture Maps, without requiring API keys or signup. It provides tools for place search, area analysis, routing, and geometry operations.

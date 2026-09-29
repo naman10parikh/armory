@@ -8,13 +8,13 @@ source_url: https://github.com/yutori-ai/yutori-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-02T01:00:48Z"
+pushed_at: "2026-09-29T04:41:54Z"
 ---
 ## What it is
 MCP server enabling web monitoring, deep research, and browser automation through Yutori's web agentic technology.

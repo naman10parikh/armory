@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T10:09:08Z"
+pushed_at: "2026-09-03T04:11:35Z"
 ---
 ## What it is
 A minimal MCP server that exposes Gemini's web and multimodal understanding (video, audio, document, image) through five dedicated tools.

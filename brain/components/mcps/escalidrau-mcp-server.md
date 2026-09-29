@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T23:08:17Z"
+pushed_at: "2026-09-04T19:00:23Z"
 ---
 ## What it is
 MCP server for Escalidrau, a collaborative macOS whiteboard. Lets AI agents read, draw, edit, rearrange, and export diagrams on a shared canvas in real time.

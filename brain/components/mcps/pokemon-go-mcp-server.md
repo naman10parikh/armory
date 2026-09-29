@@ -8,13 +8,13 @@ source_url: https://github.com/GhostTypes/pokemon-go-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-09-02T00:41:53Z"
+forks: 6
+pushed_at: "2026-09-29T13:34:34Z"
 ---
 ## What it is
 A comprehensive MCP server providing real-time Pokemon Go data including events, raids, research tasks, egg hatches, and Team Rocket lineups.

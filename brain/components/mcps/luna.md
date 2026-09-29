@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-04T04:34:20Z"
+pushed_at: "2026-09-23T07:39:14Z"
 ---
 ## What it is
 ESP32-based Streamable HTTP MCP server with embedded Lua scripting engine. Bridges Claude AI to physical devices — telescopes (INDI protocol), sensors, BLE peripherals, and TCP devices. Flash-and-run binary distribution, no build required.

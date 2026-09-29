@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T11:06:20Z"
+pushed_at: "2026-09-25T01:42:20Z"
 ---
 ## What it is
 MCP server providing parser-backed validation, parsing, documentation, and editor assistance for AI agents working with _hyperscript.

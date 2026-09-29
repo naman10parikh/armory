@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-28T16:38:14Z"
+pushed_at: "2026-09-28T12:06:17Z"
 ---
 ## What it is
 MCP server `Emailens`, catalogued on PulseMCP. Email compatibility analysis across 15 clients with preview, audit, fix, diff, and deliverability tools.

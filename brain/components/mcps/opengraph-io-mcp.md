@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-07-01T18:41:54Z"
+pushed_at: "2026-09-24T19:44:18Z"
 ---
 ## What it is
 MCP server `OpenGraph.io`, catalogued on PulseMCP. MCP server for OpenGraph.io API providing link unfurling, screenshots, HTML scraping, and Open Graph metadata extraction.

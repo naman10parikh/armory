@@ -8,13 +8,13 @@ source_url: https://github.com/E-R-Butch/Goofish-Z
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T08:11:21Z"
+pushed_at: "2026-09-28T06:17:23Z"
 ---
 ## What it is
 Provides MCP interface to Xianyu (Goofish) for searching items, managing price watches, and monitoring prices via CLI, HTTP API, or MCP.

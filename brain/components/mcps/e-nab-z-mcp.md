@@ -8,13 +8,13 @@ source_url: https://github.com/UmutKDev/e-nabiz-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T07:34:27Z"
+pushed_at: "2026-09-19T11:48:07Z"
 ---
 ## What it is
 Local MCP server to access your personal health data from E-Nabız (Turkish Ministry of Health) via an LLM. Read-only, secure, and respects privacy.

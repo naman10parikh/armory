@@ -8,12 +8,12 @@ source_url: https://github.com/mapbox/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 353
+stars: 357
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 41
-pushed_at: "2026-08-27T17:50:06Z"
+forks: 44
+pushed_at: "2026-09-24T15:27:24Z"
 ---
 ## What it is
 MCP server `Mapbox`, catalogued on PulseMCP. Geospatial intelligence with geocoding, POI search, routing, and isochrones

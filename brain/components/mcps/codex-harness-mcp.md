@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T04:56:15Z"
+pushed_at: "2026-09-13T11:15:52Z"
 ---
 ## What it is
 Enables MCP-compatible AI clients to invoke CLI-driven agent tools over Streamable HTTP, including shell execution, file operations, patching, image viewing, web search, and nested agent tasks, with permission modes and real-time progress streaming.

@@ -8,12 +8,12 @@ source_url: https://github.com/DalahmasDev/odoo-sh-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-07-11T22:05:54Z"
 ---
 ## What it is

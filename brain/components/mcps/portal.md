@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T08:17:33Z"
+pushed_at: "2026-09-07T05:58:14Z"
 ---
 ## What it is
 Enables interaction with long-running interactive programs such as SSH, GDB, and REPLs. Provides tools to start, monitor, control, read/write I/O for these processes.

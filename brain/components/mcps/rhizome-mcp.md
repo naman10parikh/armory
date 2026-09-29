@@ -8,13 +8,13 @@ source_url: https://github.com/Odrin/rhizome-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T14:36:04Z"
+pushed_at: "2026-09-28T10:20:37Z"
 ---
 ## What it is
 rhizome-mcp is a local-first MCP server for task tracking and coordination of autonomous AI coding agents, providing crash-safe issue claiming, durable project memory, and dependency graphs using SQLite. It enables agents from different MCP-compatible clients to share a consistent view of project wo

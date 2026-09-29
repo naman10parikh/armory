@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T03:01:25Z"
+pushed_at: "2026-09-26T19:14:39Z"
 ---
 ## What it is
 Provides read-only hybrid RAG search and discovery over a local-first AI knowledge corpus, enabling semantic and keyword search, browse, digest, and status tools.

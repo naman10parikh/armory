@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T23:35:31Z"
+pushed_at: "2026-09-26T23:07:14Z"
 ---
 ## What it is
 Unified MCP server for graphics manipulation with multiple backends.

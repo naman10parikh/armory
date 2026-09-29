@@ -8,12 +8,12 @@ source_url: https://github.com/lucdesign/indesign-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 45
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
+forks: 15
 pushed_at: "2026-09-01T12:06:46Z"
 ---
 ## What it is

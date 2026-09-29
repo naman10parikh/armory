@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T13:08:58Z"
+pushed_at: "2026-09-27T16:46:44Z"
 ---
 ## What it is
 MCP server that connects AI agents to your Paragraph publication, enabling post management, subscriber analytics, and search across posts and publications.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-01T20:46:23Z"
+pushed_at: "2026-09-29T12:44:54Z"
 ---
 ## What it is
 MCP server `Yaver`, catalogued on PulseMCP. P2P dev-machine MCP connecting phone-driven coding agents to local builds, hot reload, and deployments.

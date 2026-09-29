@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:46:19Z"
+pushed_at: "2026-09-25T22:18:44Z"
 ---
 ## What it is
 Wraps the Calendly API v2 for scheduling data, enabling AI agents to query and manage Calendly events and availability.

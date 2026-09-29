@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-29T21:22:24Z"
+pushed_at: "2026-09-18T11:16:28Z"
 ---
 ## What it is
 MCP server providing 25 tools to query Steam store data, player statistics, achievements, reviews, pricing, workshop items, leaderboards, inventory, and player profiles for AI-powered IDEs like Cursor.

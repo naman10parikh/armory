@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T00:51:05Z"
+pushed_at: "2026-09-08T18:31:17Z"
 ---
 ## What it is
 A lightweight MCP server for semantic search over markdown knowledge bases, enabling AI coding agents to index, search, and answer questions from local markdown documents.

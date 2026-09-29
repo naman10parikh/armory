@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:13:06Z"
+pushed_at: "2026-09-25T00:08:01Z"
 ---
 ## What it is
 Provides Hawaii cumulative hybrid and electric vehicle registration data from 1999 to present, enabling queries about EV adoption trends and counts per year.

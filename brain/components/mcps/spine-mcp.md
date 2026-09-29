@@ -8,12 +8,12 @@ source_url: https://github.com/1425sd/spine-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 6
 pushed_at: "2026-05-03T15:15:45Z"
 ---
 ## What it is

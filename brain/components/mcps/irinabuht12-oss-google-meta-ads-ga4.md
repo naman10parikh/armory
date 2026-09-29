@@ -8,12 +8,12 @@ source_url: https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1294
+stars: 3186
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 58
-pushed_at: "2026-08-31T00:03:13Z"
+forks: 366
+pushed_at: "2026-09-25T23:37:23Z"
 ---
 ## What it is
 MCP server `Google Meta Ads & GA4`, catalogued on PulseMCP. Manage Google Ads, Meta Ads, and Google Analytics 4 from AI assistants with 250+ tools and OAuth 2.1 authentication.

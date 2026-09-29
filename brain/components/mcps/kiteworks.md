@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-06-29T18:13:05Z"
+pushed_at: "2026-09-11T18:04:51Z"
 ---
 ## What it is
 MCP server `Kiteworks`, catalogued on PulseMCP. Integrates with Kiteworks enterprise file sharing platforms through OAuth 2.0 authentication to provide secure file and folder management capabilities including upload/download operations, metadata retrieval, and user information access with enterprise-grade security controls.

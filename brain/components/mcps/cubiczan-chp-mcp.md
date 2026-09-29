@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T16:54:01Z"
+pushed_at: "2026-09-13T12:10:21Z"
 ---
 ## What it is
 Enables MCP clients to evaluate spend gates and manage human-in-the-loop approvals for CHP Profile B.

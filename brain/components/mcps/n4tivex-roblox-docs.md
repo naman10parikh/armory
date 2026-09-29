@@ -8,12 +8,12 @@ source_url: https://github.com/n4tivex/mcp-roblox-docs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-04-18T19:33:07Z"
+forks: 4
+pushed_at: "2026-09-15T07:01:47Z"
 ---
 ## What it is
 MCP server `Roblox Docs`, catalogued on PulseMCP. Provides access to Roblox's development ecosystem including API documentation, FastFlags, Open Cloud REST API, Luau language docs, and DevForum discussions with automatic syncing from official sources and multi-language support.

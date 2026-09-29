@@ -12,8 +12,8 @@ stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
-pushed_at: "2025-12-08T04:43:02Z"
+forks: 17
+pushed_at: "2026-09-20T23:27:59Z"
 ---
 ## What it is
 MCP server `AppInsight (App Store / Play Store)`, catalogued on PulseMCP. Analyze data from both the Apple App Store and Google Play Store

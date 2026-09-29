@@ -8,11 +8,11 @@ source_url: https://github.com/initechsoftware/whatsapp-mcp-by-timelinesai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 1
 pushed_at: "2026-05-29T10:13:59Z"
 ---
 ## What it is

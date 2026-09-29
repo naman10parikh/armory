@@ -8,13 +8,13 @@ source_url: https://github.com/RFingAdam/mcp-openems
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T03:08:11Z"
+forks: 1
+pushed_at: "2026-09-10T04:41:22Z"
 ---
 ## What it is
 Enables AI-assisted design of antennas and electromagnetic structures using openEMS FDTD simulation, with analytical dimension calculators and full-wave script generation.

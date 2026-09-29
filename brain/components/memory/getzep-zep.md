@@ -10,14 +10,14 @@ source_url: https://github.com/getzep/zep
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4882
+stars: 4939
 eval_score: null
 mentions: 7
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, memory]
-forks: 651
-pushed_at: "2026-09-01T22:18:14Z"
+forks: 653
+pushed_at: "2026-09-18T01:35:08Z"
 ---
 ## What it is
 Example code, framework integrations and tools for building agent memory with Zep Cloud, Zep's hosted

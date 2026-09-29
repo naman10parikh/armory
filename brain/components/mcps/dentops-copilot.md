@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-25T00:13:44Z"
+pushed_at: "2026-09-25T22:55:27Z"
 ---
 ## What it is
 An MCP-native agentic copilot for dental practices that orchestrates multiple MCP tools to analyze X-rays, pull patient history, generate drafts, and propose recalls, streaming results live to a React dashboard.

@@ -8,11 +8,11 @@ source_url: https://github.com/gimmedg/unrealengine5-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 8
 pushed_at: "2026-01-16T03:00:36Z"
 ---
 ## What it is

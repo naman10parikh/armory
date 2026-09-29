@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T20:39:35Z"
+pushed_at: "2026-09-29T06:23:04Z"
 ---
 ## What it is
 Verifies factual claims against live sources and returns a verdict, confidence score, and citations for any agent to use before stating uncertain facts.

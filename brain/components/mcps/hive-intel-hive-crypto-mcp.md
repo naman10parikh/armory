@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
-stars: 18
-forks: 6
-pushed_at: "2026-08-30T19:03:49Z"
+stars: 20
+forks: 7
+pushed_at: "2026-09-24T15:00:58Z"
 ---
 ## What it is
 Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics

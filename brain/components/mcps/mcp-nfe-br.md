@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-31T09:36:50Z"
+forks: 1
+pushed_at: "2026-09-12T09:16:53Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for Brazilian Electronic Invoicing (NF-e / NFC-e, modelo 55/65, schema 4.00). Provides CPF/CNPJ validation tools, with NF-e/NFC-e generation and SEFAZ integration planned.

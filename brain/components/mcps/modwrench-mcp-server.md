@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T08:36:23Z"
+pushed_at: "2026-09-19T10:31:56Z"
 ---
 ## What it is
 Enables AI assistants to search, browse, and manage mods across Nexus Mods, mod.io, Thunderstore, and Modrinth, as well as perform local diagnostics like detecting games and parsing crash logs.

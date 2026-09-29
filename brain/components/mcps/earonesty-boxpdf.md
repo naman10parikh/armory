@@ -8,12 +8,12 @@ source_url: https://github.com/earonesty/boxpdf
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-29T07:08:13Z"
+pushed_at: "2026-09-21T17:28:01Z"
 ---
 ## What it is
 MCP server `BoxPDF`, catalogued on PulseMCP. Resource server exposing BoxPDF library documentation and PDF layout templates to AI agents.

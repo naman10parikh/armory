@@ -8,13 +8,13 @@ source_url: https://github.com/debugbundle/debugbundle
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T00:00:08Z"
+pushed_at: "2026-09-26T13:48:00Z"
 ---
 ## What it is
 DebugBundle helps AI agents investigate production incidents with deterministic debug bundles, reproductions, health checks, and diagnostics. It exposes incident inspection, bundle retrieval, and ops management tools over MCP.

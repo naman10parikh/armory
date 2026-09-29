@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T15:38:15Z"
+pushed_at: "2026-09-06T21:52:23Z"
 ---
 ## What it is
 MCP server that connects an AI assistant to a running ComfyUI instance, allowing it to fetch saved workflows, inject a prompt and seed, run generation, and return the image inline in chat.

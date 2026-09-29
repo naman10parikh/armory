@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T08:54:37Z"
+pushed_at: "2026-09-07T09:26:26Z"
 ---
 ## What it is
 An MCP server for multi-agent collaboration, providing team messaging and long-term semantic memory with trust-based access control and single-writer consistency.

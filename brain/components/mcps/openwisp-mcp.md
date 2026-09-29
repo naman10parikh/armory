@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T11:40:36Z"
+pushed_at: "2026-09-26T19:59:32Z"
 ---
 ## What it is
 MCP server for managing OpenWISP network infrastructure, enabling AI assistants to control devices, templates, topologies, and RADIUS sessions via the OpenWISP REST API.

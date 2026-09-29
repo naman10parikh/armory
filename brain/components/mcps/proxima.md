@@ -8,12 +8,12 @@ source_url: https://github.com/Zen4-bit/Proxima
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1170
+stars: 1195
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 163
+forks: 165
 pushed_at: "2026-08-17T17:16:06Z"
 ---
 ## What it is

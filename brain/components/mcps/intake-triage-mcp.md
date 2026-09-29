@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T09:23:11Z"
+pushed_at: "2026-09-28T19:07:41Z"
 ---
 ## What it is
 A deterministic MCP server for legal intake triage that provides practice-area lookup, conflict screening, matter validation, follow-up drafting, and triage logging with a hard conflicts gate.

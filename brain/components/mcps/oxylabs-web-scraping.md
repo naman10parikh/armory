@@ -8,12 +8,12 @@ source_url: https://github.com/oxylabs/oxylabs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 104
+stars: 106
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 25
-pushed_at: "2026-08-26T08:41:46Z"
+pushed_at: "2026-09-07T06:57:02Z"
 ---
 ## What it is
 MCP server `Oxylabs Web Scraping`, catalogued on PulseMCP. Integrates with Oxylabs web scraping services to extract, clean, and structure web content for real-time data analysis and monitoring workflows.

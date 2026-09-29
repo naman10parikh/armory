@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T12:17:33Z"
+pushed_at: "2026-09-19T10:56:11Z"
 ---
 ## What it is
 Enables AI assistants to read, create, edit Word/Excel/PPT files and manage the filesystem on the user's computer via natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T23:20:51Z"
+pushed_at: "2026-09-24T05:44:51Z"
 ---
 ## What it is
 Enables AI agents to launch, monitor, and manage background shell jobs with durable event tracking, live progress dashboards, and wake-on-attention for interactive sessions.

@@ -8,13 +8,13 @@ source_url: https://github.com/gondola-ai/gondola-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-25T20:41:03Z"
+pushed_at: "2026-09-16T13:19:39Z"
 ---
 ## What it is
 Travel award search: compare cash vs points on hotels, flights & cars, cents-per-point, and book

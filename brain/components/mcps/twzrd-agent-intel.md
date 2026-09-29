@@ -8,13 +8,13 @@ source_url: https://github.com/twzrd-sol/twzrd-trust
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T12:31:53Z"
+forks: 1
+pushed_at: "2026-09-29T00:16:49Z"
 ---
 ## What it is
 Pre-spend trust layer for agents paying over x402 on Solana, providing seller vetting and readiness checks before USDC leaves the wallet.

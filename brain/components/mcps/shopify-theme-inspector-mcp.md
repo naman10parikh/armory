@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T20:23:23Z"
+pushed_at: "2026-09-29T09:32:47Z"
 ---
 ## What it is
 Connects Shopify's Liquid profiler to AI assistants to diagnose slow themes, providing performance reports and recommendations without editing the live theme.

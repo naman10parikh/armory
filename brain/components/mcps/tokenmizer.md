@@ -8,13 +8,13 @@ source_url: https://github.com/Shweta-Mishra-ai/tokenmizer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-08-18T20:15:05Z"
+forks: 7
+pushed_at: "2026-09-29T12:37:18Z"
 ---
 ## What it is
 Graph-based MCP server for persistent AI memory, session checkpointing, context compression, and cross-session context management for LLM applications.

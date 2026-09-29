@@ -13,7 +13,7 @@ related: []
 tags: [mcp, security]
 stars: 1
 forks: 0
-pushed_at: "2026-04-15T19:06:48Z"
+pushed_at: "2026-09-16T21:35:33Z"
 ---
 ## What it is
 Runtime policy enforcement for AI agents. Evaluate actions against organization policies before execution, with observe and enforce modes.

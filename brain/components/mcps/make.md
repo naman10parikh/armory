@@ -8,12 +8,12 @@ source_url: https://github.com/integromat/make-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 170
+stars: 173
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 42
+forks: 43
 pushed_at: "2026-06-10T13:56:59Z"
 ---
 ## What it is

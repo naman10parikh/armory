@@ -8,11 +8,11 @@ source_url: https://github.com/gitmotion/ntfy-me-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 74
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 14
 pushed_at: "2026-04-11T22:31:28Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-01T22:51:47Z"
+pushed_at: "2026-09-29T05:36:51Z"
 ---
 ## What it is
 A structure-aware MCP server for querying the SPOKE biomedical knowledge graph, enabling entity resolution, schema introspection, path finding, and safe Cypher queries for biomedical knowledge inference.

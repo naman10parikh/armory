@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-31T08:07:00Z"
+pushed_at: "2026-09-17T22:26:14Z"
 ---
 ## What it is
 Enables reading, searching, sending, and managing AOL Mail emails and folders via natural language, compatible with VS Code Copilot and Claude Desktop.

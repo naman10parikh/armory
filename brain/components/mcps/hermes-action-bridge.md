@@ -8,13 +8,13 @@ source_url: https://github.com/TheBlueHouse75/hermes-action-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T20:29:23Z"
+pushed_at: "2026-09-29T07:31:17Z"
 ---
 ## What it is
 Enables external agents to delegate real-world actions to Hermes Agent via MCP tools such as hermes_run and hermes_plan.

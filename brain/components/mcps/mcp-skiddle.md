@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:41:44Z"
+pushed_at: "2026-09-26T21:39:16Z"
 ---
 ## What it is
 Enables searching and retrieving Skiddle events by ID and listing event categories. Part of Pipeworx MCP gateway.

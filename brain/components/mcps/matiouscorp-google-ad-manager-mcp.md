@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, marketing]
 stars: 18
-forks: 10
+forks: 11
 pushed_at: "2026-05-29T10:30:31Z"
 ---
 ## What it is

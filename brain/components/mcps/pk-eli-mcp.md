@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:57:30Z"
+pushed_at: "2026-09-24T13:30:54Z"
 ---
 ## What it is
 MCP server for searching and retrieving Pakistani federal statutes and Supreme Court judgments with structured citations, using static HuggingFace datasets.

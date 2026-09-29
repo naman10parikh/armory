@@ -8,12 +8,12 @@ source_url: https://github.com/aydincan/turk-hukuku-mevzuat-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 3
 pushed_at: "2026-09-01T09:32:32Z"
 ---
 ## What it is

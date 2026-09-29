@@ -8,13 +8,13 @@ source_url: https://github.com/dagonet/mcp-dev-servers
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T09:37:18Z"
+pushed_at: "2026-09-19T15:42:55Z"
 ---
 ## What it is
 Provides 7 MCP servers with 95 tools for git, GitHub, .NET, Ollama, Rust, template sync, and Python, enabling natural-language commands to perform real development operations.

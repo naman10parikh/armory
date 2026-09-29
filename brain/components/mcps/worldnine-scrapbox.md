@@ -8,12 +8,12 @@ source_url: https://github.com/worldnine/scrapbox-cosense-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
-pushed_at: "2026-08-18T13:53:11Z"
+forks: 19
+pushed_at: "2026-09-15T14:28:48Z"
 ---
 ## What it is
 MCP server `Scrapbox`, catalogued on PulseMCP. Integrates with Scrapbox to enable reading and writing pages for knowledge management, collaborative note-taking, and chatbot applications.

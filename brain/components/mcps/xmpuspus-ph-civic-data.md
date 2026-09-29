@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-07T00:31:18Z"
+pushed_at: "2026-09-10T12:56:46Z"
 ---
 ## What it is
 MCP server `Philippines Civic Data`, catalogued on PulseMCP. Real-time Philippine government data from PHIVOLCS, PAGASA, PhilGEPS, PSA, and AQICN as 12 MCP tools.

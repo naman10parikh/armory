@@ -8,12 +8,12 @@ source_url: https://github.com/aeoess/agent-passport-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-09-01T05:08:07Z"
+forks: 5
+pushed_at: "2026-09-22T23:04:36Z"
 ---
 ## What it is
 MCP server `Agent Passport`, catalogued on PulseMCP. Ed25519 identity, delegation, governance, and commerce infrastructure for autonomous agents.

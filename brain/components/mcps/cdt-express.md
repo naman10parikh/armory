@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-19T18:02:52Z"
+pushed_at: "2026-09-29T08:29:16Z"
 ---
 ## What it is
 MCP server `CDT Express`, catalogued on PulseMCP. Access RiskThinking's climate risk and transition metrics via the CDT Express API.

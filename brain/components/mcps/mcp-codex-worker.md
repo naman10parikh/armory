@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T07:34:20Z"
+pushed_at: "2026-09-02T07:34:19Z"
 ---
 ## What it is
 Enables Codex to delegate bulk code reading, patching, and testing to an async worker using cheaper AI models, while receiving compact results.

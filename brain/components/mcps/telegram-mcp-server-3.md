@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T11:53:54Z"
+pushed_at: "2026-09-16T07:48:55Z"
 ---
 ## What it is
 A Telegram integration for Claude, Cursor, and other MCP-compatible clients. It exposes Telegram account, chat, message, contact, media, folder, and admin operations through the Model Context Protocol using Telethon.

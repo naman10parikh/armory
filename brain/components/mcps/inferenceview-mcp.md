@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T04:27:42Z"
+pushed_at: "2026-09-13T19:39:44Z"
 ---
 ## What it is
 Provides tools to verify x402/MCP transactions before payment and fact-check claims, with verdicts and sources.

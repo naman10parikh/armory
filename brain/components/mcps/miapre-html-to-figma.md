@@ -12,8 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-07-15T13:38:27Z"
+forks: 6
+pushed_at: "2026-09-18T14:42:32Z"
 ---
 ## What it is
 MCP server `HTML to Figma Design System`, catalogued on PulseMCP. Translate HTML prototypes into Figma using real design system components and tokens.

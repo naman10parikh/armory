@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:48:05Z"
+pushed_at: "2026-09-25T22:26:21Z"
 ---
 ## What it is
 MCP server `CISA Known Exploited Vulnerabilities`, catalogued on PulseMCP. Query the CISA Known Exploited Vulnerabilities catalog for CVE tracking and patch-deadline data.

@@ -8,12 +8,12 @@ source_url: https://github.com/seldonframe/seldonframe
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-09-01T18:45:14Z"
+forks: 14
+pushed_at: "2026-09-25T09:25:15Z"
 ---
 ## What it is
 MCP server `SeldonFrame`, catalogued on PulseMCP. Open-source agency CRM platform with MCP-native client management, booking, intake forms, and AI chatbots.

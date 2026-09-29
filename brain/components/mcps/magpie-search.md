@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-10T00:33:25Z"
+forks: 3
+pushed_at: "2026-09-09T23:22:58Z"
 ---
 ## What it is
 Federated, local-first search for AI agents: one query fans across transcripts, files, a knowledge graph, a vector store, the live web, and YouTube, fused by trust-weighted RRF into one ranked answer. Five modes (grep/lexical/semantic/hybrid/rerank), runs entirely on your machine over MCP.

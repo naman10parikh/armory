@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T11:00:56Z"
+pushed_at: "2026-09-26T13:56:44Z"
 ---
 ## What it is
 Enables querying Swiss labor market statistics (unemployment, job seekers, open positions, youth unemployment) from SECO and AMSTAT via opendata.swiss without requiring an API key.

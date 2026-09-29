@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T14:33:13Z"
+pushed_at: "2026-09-06T09:47:36Z"
 ---
 ## What it is
 Real-time financial narrative tracking for AI agents — clustering news into structured narratives, measuring sentiment momentum, and mapping portfolio risk across 109 US equities.

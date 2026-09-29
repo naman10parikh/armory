@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-23T13:33:57Z"
+pushed_at: "2026-09-04T08:02:36Z"
 ---
 ## What it is
 Enables natural language interaction with Xero accounting data, managing contacts, invoices, and accounts across multiple organisations via OAuth2.

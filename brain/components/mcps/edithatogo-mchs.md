@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T23:00:10Z"
+pushed_at: "2026-09-18T01:24:16Z"
 ---
 ## What it is
 MCP server `MCHS`, catalogued on PulseMCP. Australian healthcare funding calculator for NWAU microcosting and hospital service reimbursement.

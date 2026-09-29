@@ -8,12 +8,12 @@ source_url: https://github.com/fetchsandbox/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-26T04:29:03Z"
+pushed_at: "2026-09-25T04:33:14Z"
 ---
 ## What it is
 MCP server `FetchSandbox`, catalogued on PulseMCP. Stateful OpenAPI sandbox for testing AI agent API integrations with schema validation.

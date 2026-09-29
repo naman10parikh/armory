@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T16:08:24Z"
+pushed_at: "2026-09-25T16:22:00Z"
 ---
 ## What it is
 Harnios is a self-hosted, MCP-based storage system that gives every AI assistant you use — Claude, ChatGPT, Cursor, or anything else — a shared, persistent memory of your business: knowledge base, skills, projects, operational tables, and reports, all in one place. Connect a new tool once, and it re

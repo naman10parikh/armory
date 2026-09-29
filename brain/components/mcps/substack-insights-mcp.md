@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T08:54:35Z"
+pushed_at: "2026-09-25T08:55:30Z"
 ---
 ## What it is
 A credential-free MCP server that turns a Substack publication's public RSS archive and official analytics snapshots into a durable, queryable local SQLite ledger. It provides 12 MCP tools for browsing posts, tracking versions, recording metric snapshots, and analyzing content patterns.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:55:02Z"
+pushed_at: "2026-09-25T23:16:09Z"
 ---
 ## What it is
 Enables querying and searching King County Open Data datasets via Socrata SoQL, including metadata retrieval and data querying by resource ID.

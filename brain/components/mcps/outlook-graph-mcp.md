@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T06:14:55Z"
+pushed_at: "2026-09-18T18:01:33Z"
 ---
 ## What it is
 Enables to manage your Outlook mailbox via Microsoft Graph (write access) with delegated permissions, providing MCP tools to create, modify, and send emails, folders, categories, rules, and automatic replies.

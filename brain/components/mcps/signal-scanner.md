@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-12T21:50:27Z"
+pushed_at: "2026-09-25T09:29:09Z"
 ---
 ## What it is
 YAML-rule stock/crypto screener: define a watchlist + plain rules (RSI, SMA cross, volume, 52-week) and get matches via console, Telegram, or MCP. Keyless (yfinance).

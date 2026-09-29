@@ -8,11 +8,11 @@ source_url: https://github.com/imbenrabi/financial-modeling-prep-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 142
+stars: 149
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 51
+forks: 53
 pushed_at: "2026-07-02T17:24:51Z"
 ---
 ## What it is

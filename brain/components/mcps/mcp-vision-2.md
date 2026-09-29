@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T02:16:32Z"
+pushed_at: "2026-09-28T14:02:39Z"
 ---
 ## What it is
 A local autonomous AI agent that watches your screen, understands the visual layout, and executes native OS commands (clicking, typing) without cloud APIs.

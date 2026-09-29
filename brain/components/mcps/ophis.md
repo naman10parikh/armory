@@ -8,13 +8,13 @@ source_url: https://github.com/ophis-fi/ophis
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-02T02:51:47Z"
+pushed_at: "2026-09-29T10:43:28Z"
 ---
 ## What it is
 Agent tools for the Ophis intent-based DEX: parse, quote, build, relay orders, look up fee tiers.

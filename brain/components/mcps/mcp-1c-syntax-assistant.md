@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T07:25:56Z"
+pushed_at: "2026-09-24T06:51:04Z"
 ---
 ## What it is
 MCP server for 1C:Enterprise that provides precise syntax reference cards (call signatures, parameters, return types, examples) by element name and lists object members. It helps AI agents answer 1C development questions using the official Russian help book.

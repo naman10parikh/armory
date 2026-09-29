@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-02T03:05:44Z"
+forks: 1
+pushed_at: "2026-09-06T07:56:00Z"
 ---
 ## What it is
 Deterministic MCP control plane for native Codex subagents, providing durable state, policy gates, budgets, artifacts, evidence workflow, and recovery for Sol/Terra/Luna hierarchical agent threads.

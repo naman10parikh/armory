@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:28:16Z"
+pushed_at: "2026-09-25T02:33:02Z"
 ---
 ## What it is
 MCP server that answers service status and uptime questions by reading Atlassian Statuspage feeds from hundreds of vendors, with keyless access and tools for checking status, incidents, and vendor listings.

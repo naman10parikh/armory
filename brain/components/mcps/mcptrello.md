@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T21:57:31Z"
+pushed_at: "2026-09-05T12:01:18Z"
 ---
 ## What it is
 Enables AI agents to read Trello boards and cards and perform light updates, such as creating, moving, editing cards and adding checklist items, through MCP.

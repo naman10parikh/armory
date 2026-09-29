@@ -8,13 +8,13 @@ source_url: https://github.com/tedorigawa001/ServiceNow-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-26T09:54:15Z"
+forks: 2
+pushed_at: "2026-09-29T00:11:21Z"
 ---
 ## What it is
 Enables natural language control of ServiceNow from AI clients like Claude and Cursor. Provides 400+ tools for incidents, changes, CMDB, and scripts via MCP protocol.

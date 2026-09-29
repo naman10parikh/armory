@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, multimedia-process]
-stars: 54
-forks: 13
-pushed_at: "2026-08-31T12:48:01Z"
+stars: 80
+forks: 15
+pushed_at: "2026-09-29T08:46:16Z"
 ---
 ## What it is
 MCP server for video analysis — extracts transcripts, key frames, OCR text, and annotated timelines from video URLs. Supports Loom and direct video files (.mp4, .webm). Zero auth required.

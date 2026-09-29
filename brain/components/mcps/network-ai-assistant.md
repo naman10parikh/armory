@@ -8,12 +8,12 @@ source_url: https://github.com/angoran/git-netai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-04-11T12:56:57Z"
 ---
 ## What it is

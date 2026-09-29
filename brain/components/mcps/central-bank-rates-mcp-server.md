@@ -8,13 +8,13 @@ source_url: https://github.com/AllRates-Today/central-bank-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T09:21:06Z"
+pushed_at: "2026-09-13T18:35:53Z"
 ---
 ## What it is
 Enables MCP clients to fetch official published exchange rates from 60+ central banks and tax authorities, with point-in-time lookup, history, and cross-bank comparison.

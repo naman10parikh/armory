@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:28:01Z"
+pushed_at: "2026-09-12T22:41:44Z"
 ---
 ## What it is
 Enables programmatic WhatsApp automation through MCP, including sending messages, managing chats and contacts, searching conversation history, and exchanging media files.

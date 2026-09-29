@@ -8,7 +8,7 @@ source_url: https://github.com/scanadi/mcp-ai-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [database, mcp, memory, search]

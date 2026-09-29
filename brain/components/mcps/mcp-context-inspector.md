@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T01:29:22Z"
+pushed_at: "2026-09-14T08:49:41Z"
 ---
 ## What it is
 An MCP server that records agent execution metrics and exposes a Context Window Explorer to visualize exactly what entered the model's context window across sessions, tokens, and tool calls.

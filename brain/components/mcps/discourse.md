@@ -8,11 +8,11 @@ source_url: https://github.com/discourse/discourse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 76
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 41
+forks: 43
 pushed_at: "2026-08-25T07:43:39Z"
 ---
 ## What it is

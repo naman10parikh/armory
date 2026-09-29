@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:37:21Z"
+pushed_at: "2026-09-26T21:21:21Z"
 ---
 ## What it is
 Provides IP, ASN, and BGP routing data from RIPE Stat API, enabling whois lookups, network info, AS overview, BGP state, abuse contacts, and geolocation queries.

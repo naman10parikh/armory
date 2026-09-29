@@ -8,13 +8,13 @@ source_url: https://github.com/noisy/noisy-coding
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-31T17:47:50Z"
+forks: 2
+pushed_at: "2026-09-27T21:45:25Z"
 ---
 ## What it is
 Voice interface for Claude Code: you talk, the agent listens, codes, and talks back while it works. Live speech-to-text with turn-taking, Grok/xAI voices with per-subagent personas, and a real-time HUD dashboard.

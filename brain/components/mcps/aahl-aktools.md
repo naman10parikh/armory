@@ -8,11 +8,11 @@ source_url: https://github.com/aahl/mcp-aktools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 393
+stars: 391
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 64
+forks: 65
 pushed_at: "2026-03-26T03:14:59Z"
 ---
 ## What it is

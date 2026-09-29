@@ -8,13 +8,13 @@ source_url: https://github.com/philtzjp/live-connector
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-07-03T09:42:03Z"
+forks: 1
+pushed_at: "2026-09-27T13:17:25Z"
 ---
 ## What it is
 A Cypher-style MCP server that enables AI agents to query and edit an Ableton Live Set via a property graph query language.

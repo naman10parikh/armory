@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T15:57:31Z"
+pushed_at: "2026-09-29T01:03:19Z"
 ---
 ## What it is
 This MCP server provides Korean legal search tools for finding judgments, statutes, and sentencing statistics, and computing sentencing ranges.

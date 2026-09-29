@@ -8,12 +8,12 @@ source_url: https://github.com/yuunnn-w/rust-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-05-11T08:06:27Z"
+pushed_at: "2026-09-14T12:01:01Z"
 ---
 ## What it is
 MCP server `Rust Tools`, catalogued on PulseMCP. High-performance MCP server with WebUI, 18 built-in tools, and security controls.

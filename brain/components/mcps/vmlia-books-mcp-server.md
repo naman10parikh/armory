@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
 stars: 6
-forks: 5
+forks: 6
 pushed_at: "2025-04-09T17:45:46Z"
 ---
 ## What it is

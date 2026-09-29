@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:34:27Z"
+pushed_at: "2026-09-02T19:57:52Z"
 ---
 ## What it is
 Enables AI agents to convert between measurement units across length, weight, temperature, volume, speed, and data storage, with formulas included. Supports pay-per-call access via x402 micropayments without API keys or signup.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-06-29T06:54:22Z"
+pushed_at: "2026-09-17T18:47:39Z"
 ---
 ## What it is
 Enables AI-powered ticket analysis and comprehensive Zendesk API integration via the Model Context Protocol, supporting both API token (CLI) and OAuth 2.1 (web) authentication modes.

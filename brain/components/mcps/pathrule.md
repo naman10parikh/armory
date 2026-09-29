@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T01:11:20Z"
+pushed_at: "2026-09-05T00:06:50Z"
 ---
 ## What it is
 Path-scoped team memories, rules and skills for AI coding agents.

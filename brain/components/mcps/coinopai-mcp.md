@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-01T18:41:19Z"
+pushed_at: "2026-09-25T20:49:13Z"
 ---
 ## What it is
 Kronos crypto signals + trade decisions + 819 automation prompts. x402 micropayments, USDC/Base.

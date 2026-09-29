@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T15:56:59Z"
+pushed_at: "2026-09-15T05:57:51Z"
 ---
 ## What it is
 Bridges Claude Desktop/Code MCP servers into Buzz agents with a per-agent allowlist, exposing allowed tools as a namespaced stdio MCP server.

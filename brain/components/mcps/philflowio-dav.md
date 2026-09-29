@@ -8,12 +8,12 @@ source_url: https://github.com/philflowio/dav-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-08-15T06:39:15Z"
+pushed_at: "2026-09-10T21:11:55Z"
 ---
 ## What it is
 MCP server `DAV`, catalogued on PulseMCP. AI-orchestrated calendars, contacts, and tasks across any CalDAV/CardDAV platform — 26 field-agnostic tools.

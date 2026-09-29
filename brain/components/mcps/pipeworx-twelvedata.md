@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:30:46Z"
+pushed_at: "2026-09-26T22:03:20Z"
 ---
 ## What it is
 MCP server `Twelve Data`, catalogued on PulseMCP. Twelve Data financial market API: stocks, ETFs, forex, and crypto time series, quotes, dividends, splits, and earnings.

@@ -8,13 +8,13 @@ source_url: https://github.com/Fino-wind/tether-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T06:41:18Z"
+pushed_at: "2026-09-28T17:37:11Z"
 ---
 ## What it is
 Enables AI agents to securely access Apple Health data (sleep, heart rate, menstrual cycle, etc.) via end-to-end encrypted local decryption from the Tether iOS app.

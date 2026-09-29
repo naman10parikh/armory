@@ -8,12 +8,12 @@ source_url: https://github.com/ilovedurianhhh/ansa-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-06-30T03:05:22Z"
 ---
 ## What it is

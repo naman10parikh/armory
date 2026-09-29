@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-28T02:25:44Z"
+pushed_at: "2026-09-25T02:24:24Z"
 ---
 ## What it is
 Enables troubleshooting of LDAP directory services through natural language queries, providing health diagnostics, replication status, performance metrics, log analysis, and configuration comparisons across multiple servers.

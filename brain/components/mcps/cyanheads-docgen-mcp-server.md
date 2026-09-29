@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/docgen-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T23:21:55Z"
+pushed_at: "2026-09-22T04:20:06Z"
 ---
 ## What it is
 Render HTML/markdown to PDF, export rows to xlsx, and fill AcroForm PDFs via MCP. STDIO or Streamable HTTP.

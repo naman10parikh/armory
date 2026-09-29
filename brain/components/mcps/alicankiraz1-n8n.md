@@ -8,11 +8,11 @@ source_url: https://github.com/alicankiraz1/cursor-n8n-builder
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 59
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2025-12-01T16:51:33Z"
 ---
 ## What it is

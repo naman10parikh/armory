@@ -8,7 +8,7 @@ source_url: https://github.com/kevinwatt/mcp-server-searxng
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

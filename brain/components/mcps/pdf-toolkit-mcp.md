@@ -8,13 +8,13 @@ source_url: https://github.com/beepboop2025/pdf-toolkit-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T20:32:44Z"
+pushed_at: "2026-09-10T06:46:52Z"
 ---
 ## What it is
 A comprehensive MCP server with 37 tools for PDF operations including reading, searching, creating, merging, splitting, watermarking, form filling, and more, built on open-source libraries.

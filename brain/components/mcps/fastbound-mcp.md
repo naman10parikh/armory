@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T03:55:37Z"
+pushed_at: "2026-09-24T16:32:09Z"
 ---
 ## What it is
 Enables natural language interaction with FastBound's firearms Acquisition & Disposition API for inventory search, acquisition/disposition recording, contact management, and report generation, with safety guards for write operations.

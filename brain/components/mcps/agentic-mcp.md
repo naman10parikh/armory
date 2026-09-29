@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T16:48:21Z"
+pushed_at: "2026-09-25T17:49:46Z"
 ---
 ## What it is
 Enables ChatGPT Web Developer Mode to interact with local repositories through MCP, providing tools for file editing, shell execution, Git worktrees, semantic navigation, and checkpoints.

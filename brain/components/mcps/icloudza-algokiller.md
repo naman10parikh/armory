@@ -8,11 +8,11 @@ source_url: https://github.com/icloudza/algokiller-plugin
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 77
+stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
+forks: 24
 pushed_at: "2026-05-14T06:56:12Z"
 ---
 ## What it is

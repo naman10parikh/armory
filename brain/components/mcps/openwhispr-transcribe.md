@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T15:38:14Z"
+pushed_at: "2026-09-19T16:29:47Z"
 ---
 ## What it is
 Provides tools for local meeting speaker analysis and hybrid cloud transcription, supporting resumable transcription and alignment.

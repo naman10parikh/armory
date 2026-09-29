@@ -8,11 +8,11 @@ source_url: https://github.com/kleneway/awesome-cursor-mpc-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 337
+stars: 338
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 97
+forks: 95
 pushed_at: "2025-02-05T21:41:57Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/krVatsal/illustrator-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 143
+stars: 156
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
+forks: 18
 pushed_at: "2026-07-04T08:46:45Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-12T02:25:38Z"
+pushed_at: "2026-09-05T09:49:50Z"
 ---
 ## What it is
 Enables issuing and managing validated Malaysian e-invoices via MyInvois (LHDN) directly from MCP clients, with tools for TIN validation, invoice drafting, submission, and document management.

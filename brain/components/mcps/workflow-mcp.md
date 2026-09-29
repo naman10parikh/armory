@@ -8,13 +8,13 @@ source_url: https://github.com/Juliusolsson05/workflow-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T06:08:04Z"
+pushed_at: "2026-09-27T23:50:41Z"
 ---
 ## What it is
 A standalone runtime and MCP server that executes Claude Code dynamic workflow files through interchangeable agent providers, ensuring compatibility with Claude Code's workflow format.

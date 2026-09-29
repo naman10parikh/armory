@@ -8,12 +8,12 @@ source_url: https://github.com/codeabra/iai-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 832
+stars: 895
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 98
-pushed_at: "2026-08-27T21:46:26Z"
+forks: 111
+pushed_at: "2026-09-29T01:47:26Z"
 ---
 ## What it is
 MCP server `IAI`, catalogued on PulseMCP. Local long-term memory MCP server for AI coding assistants with three-tier episodic, semantic, and procedural memory storage.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:12:50Z"
+pushed_at: "2026-09-15T12:54:52Z"
 ---
 ## What it is
 An MCP server that captures rendered UI, diagnoses design tells and consistency drift, and generates redesign diffs from natural language art direction, all within Cursor.

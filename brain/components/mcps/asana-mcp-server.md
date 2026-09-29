@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T19:07:15Z"
+pushed_at: "2026-09-28T19:06:35Z"
 ---
 ## What it is
 Enables AI assistants to fully interact with Asana, including creating and managing tasks, projects, time tracking, and search, all through natural language.

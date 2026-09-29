@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-24T10:18:40Z"
+pushed_at: "2026-09-23T08:01:35Z"
 ---
 ## What it is
 Enables AI to query live weather, domains, IPs, DNS, SSL, currency rates, and more via the APIFreaks API.

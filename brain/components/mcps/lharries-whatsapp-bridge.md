@@ -8,11 +8,11 @@ source_url: https://github.com/lharries/whatsapp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6218
+stars: 6327
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1284
+forks: 1342
 pushed_at: "2025-07-13T17:22:00Z"
 ---
 ## What it is

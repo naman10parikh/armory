@@ -8,13 +8,13 @@ source_url: https://github.com/mambalabsdev/mcp-icp-fit-scorer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T07:02:17Z"
+pushed_at: "2026-09-29T11:53:57Z"
 ---
 ## What it is
 Scores companies against a configurable Ideal Customer Profile using firmographic and signal data. Returns a weighted fit score with per-criterion breakdowns.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, search-data-extraction]
 stars: 9
 forks: 8
-pushed_at: "2026-08-27T15:42:56Z"
+pushed_at: "2026-09-15T09:51:17Z"
 ---
 ## What it is
 Best people search engine that reduces the time spent on talent discovery

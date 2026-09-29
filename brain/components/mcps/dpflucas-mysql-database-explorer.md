@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2025-04-22T10:22:44Z"
+pushed_at: "2026-09-22T14:38:49Z"
 ---
 ## What it is
 MCP server `MySQL Database Explorer`, catalogued on PulseMCP. Provides secure, read-only access to MySQL databases for exploring schemas and executing SELECT queries with built-in safeguards against SQL injection, query timeouts, and row limits.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:58:15Z"
+pushed_at: "2026-09-25T23:25:03Z"
 ---
 ## What it is
 Enables AI agents to query U.S. government datasets via the Data.gov CKAN API, wrapped as an MCP server.

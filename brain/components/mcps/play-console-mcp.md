@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-15T15:11:27Z"
+pushed_at: "2026-09-03T03:45:42Z"
 ---
 ## What it is
 Enables AI agents to manage Google Play Console reviews and Android app releases, including replying to reviews, promoting releases, managing staged rollouts, and checking crash/ANR vitals.

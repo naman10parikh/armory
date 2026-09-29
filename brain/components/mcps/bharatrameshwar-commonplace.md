@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-05-06T10:50:41Z"
+pushed_at: "2026-09-25T10:03:07Z"
 ---
 ## What it is
 MCP server `Commonplace`, catalogued on PulseMCP. Local macOS activity tracker that captures app usage, screenshots, and browser URLs to build a searchable daily commonplace book.

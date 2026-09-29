@@ -8,13 +8,13 @@ source_url: https://github.com/cloudQuant/backtrader-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T09:07:38Z"
+pushed_at: "2026-09-20T16:07:03Z"
 ---
 ## What it is
 Local-first MCP server for building and running reproducible Backtrader strategies offline, with tools to inspect datasets, manage drafts, and execute backtests via controlled subprocess runs. It supports multiple hosts including Claude, Codex, OpenCode, and OpenClaw through stdio.

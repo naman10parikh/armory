@@ -8,11 +8,11 @@ source_url: https://github.com/idoru/influxdb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
+forks: 19
 pushed_at: "2026-01-14T16:24:11Z"
 ---
 ## What it is

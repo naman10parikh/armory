@@ -8,7 +8,7 @@ source_url: https://github.com/foreveryh/mentis
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 296
+stars: 295
 eval_score: null
 verified_at: 2026-05-28
 related: []

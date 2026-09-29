@@ -8,11 +8,11 @@ source_url: https://github.com/regismesquita/mcp_a2a
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 10
 pushed_at: "2025-05-04T17:14:30Z"
 ---
 ## What it is

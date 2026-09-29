@@ -8,12 +8,12 @@ source_url: https://github.com/brightlikethelight/music21-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 9
 pushed_at: "2026-06-23T20:44:56Z"
 ---
 ## What it is

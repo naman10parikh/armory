@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-01T22:31:34Z"
+forks: 2
+pushed_at: "2026-09-28T16:15:06Z"
 ---
 ## What it is
 Anti-firehose options-flow data for AI agents: curated daily pool, features, realized outcomes.

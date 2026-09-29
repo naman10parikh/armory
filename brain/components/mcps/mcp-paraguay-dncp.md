@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:31:36Z"
+pushed_at: "2026-09-26T20:56:56Z"
 ---
 ## What it is
 Enables access to Paraguay's government procurement and public contracts data, keyless.

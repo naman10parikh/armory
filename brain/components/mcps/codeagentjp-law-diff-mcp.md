@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-25T08:00:09Z"
+pushed_at: "2026-09-24T02:41:33Z"
 ---
 ## What it is
 Enables finding Japanese e-Gov law revisions and diffing law text by law history ID.

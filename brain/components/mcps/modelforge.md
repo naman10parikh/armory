@@ -8,13 +8,13 @@ source_url: https://github.com/Whatsonyourmind/modelforge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-26T07:55:29Z"
+forks: 1
+pushed_at: "2026-09-11T03:41:31Z"
 ---
 ## What it is
 Financial model factory MCP server: turns a spec into a live-formula Excel workbook. 14 templates (LBO, DCF, M\&A, IPO, restructuring, project finance, NPL, structured credit, 3-statement) with every cell formulated and every number source-traced to its document page.

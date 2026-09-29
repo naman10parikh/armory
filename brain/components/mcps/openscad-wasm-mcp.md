@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T14:31:44Z"
+pushed_at: "2026-09-16T10:57:35Z"
 ---
 ## What it is
 An MCP server that enables validating, exporting, previewing, and analyzing OpenSCAD models via a WASM-based OpenSCAD runtime, with secure file management and Docker Compose deployment.

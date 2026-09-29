@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-16T21:08:03Z"
+pushed_at: "2026-09-07T08:29:31Z"
 ---
 ## What it is
 Gives Claude access to OpenRouter's image, video, TTS, transcription, embeddings, and rerank APIs via a Streamable HTTP MCP server, with OIDC auth, file management, and per-request cost tracking.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-08-11T21:44:07Z"
+pushed_at: "2026-09-09T17:00:04Z"
 ---
 ## What it is
 MCP server for Google Sheets - read, write, and query spreadsheet data.

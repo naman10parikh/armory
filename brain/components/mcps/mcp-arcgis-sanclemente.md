@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:40:39Z"
+pushed_at: "2026-09-25T21:56:18Z"
 ---
 ## What it is
 Provides access to City of San Clemente GIS open geospatial data (ArcGIS), enabling search and query of datasets like parcels, zoning, and public works.

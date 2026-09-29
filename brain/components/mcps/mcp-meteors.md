@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:22:17Z"
+pushed_at: "2026-09-26T19:43:15Z"
 ---
 ## What it is
 Provides NASA fireball, near-Earth asteroid, and close approach data via MCP, enabling users to query space object information using natural language.

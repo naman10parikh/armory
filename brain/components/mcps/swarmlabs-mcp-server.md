@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T08:15:32Z"
+pushed_at: "2026-09-17T08:52:24Z"
 ---
 ## What it is
 Exposes SwarmLabs physics-informed scientific experiment predictions as MCP tools, enabling agents to run predictions, list engines, and perform parameter sweeps with honesty-first uncertainty reporting.

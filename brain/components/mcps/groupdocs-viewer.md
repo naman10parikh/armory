@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-25T21:19:49Z"
+pushed_at: "2026-09-06T02:23:35Z"
 ---
 ## What it is
 MCP server `GroupDocs Viewer`, catalogued on PulseMCP. Renders document pages as PNG images and inspects view metadata using GroupDocs.Viewer.

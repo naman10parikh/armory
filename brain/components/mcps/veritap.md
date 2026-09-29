@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T22:24:55Z"
+pushed_at: "2026-09-02T11:47:37Z"
 ---
 ## What it is
 Provides an MCP endpoint for agents to check whether a real-world fact can be verified, covering businesses, listings, objects, and places, while refusing claims about individuals. It acts as a demand sensor that logs verification attempts, even for unfulfillable requests.

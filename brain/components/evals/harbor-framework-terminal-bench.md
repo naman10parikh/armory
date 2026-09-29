@@ -8,14 +8,14 @@ source_url: https://github.com/harbor-framework/terminal-bench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 588
+stars: 807
 eval_score: null
 mentions: 13
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 434
-pushed_at: "2026-09-01T23:36:56Z"
+forks: 543
+pushed_at: "2026-09-29T05:53:44Z"
 ---
 ## What it is
 Measuring and evolving with the frontier of agent work

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T02:09:43Z"
+pushed_at: "2026-09-03T00:45:23Z"
 ---
 ## What it is
 Aggregator MCP proxy that collapses N downstream MCP servers into 4 meta-tools with progressive tool discovery, and compresses large tool outputs (HTML→Markdown, JSON summarization) with full-output retrieval via read_more and a per-session token-savings report.

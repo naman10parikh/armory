@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:55:51Z"
+pushed_at: "2026-09-25T23:18:13Z"
 ---
 ## What it is
 Enables searching, querying, and retrieving metadata for datasets from New Caledonia Open Data (data.gouv.nc) using ODSQL.

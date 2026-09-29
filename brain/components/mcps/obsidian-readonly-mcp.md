@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-20T07:58:24Z"
+pushed_at: "2026-09-22T02:28:42Z"
 ---
 ## What it is
 Read-only MCP server for querying a running Obsidian vault from agentic runtimes, exposing safe Obsidian CLI commands.

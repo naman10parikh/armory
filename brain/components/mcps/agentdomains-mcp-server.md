@@ -8,13 +8,13 @@ source_url: https://github.com/tashfeenahmed/AgentDomains-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-26T10:22:36Z"
+forks: 1
+pushed_at: "2026-09-27T17:08:24Z"
 ---
 ## What it is
 Enables MCP-speaking agents to claim and manage free subdomains under makes.fyi or agentdomains.co, including DNS records, HTTPS, URL forwarding, reverse proxying, and account management.

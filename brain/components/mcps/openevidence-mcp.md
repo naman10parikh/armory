@@ -8,13 +8,13 @@ source_url: https://github.com/bakhtiersizhaev/openevidence-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 41
+stars: 43
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-07-17T19:06:54Z"
+forks: 10
+pushed_at: "2026-09-25T06:51:10Z"
 ---
 ## What it is
 Connects OpenEvidence to MCP clients for authenticated research queries using your browser session.

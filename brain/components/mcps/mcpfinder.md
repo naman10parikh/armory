@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-27T17:03:41Z"
+pushed_at: "2026-09-09T15:29:44Z"
 ---
 ## What it is
 AI-first MCP server discovery tool that enables agents to search, inspect, and install MCP servers from multiple registries.

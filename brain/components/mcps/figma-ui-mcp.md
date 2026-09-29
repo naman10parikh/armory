@@ -8,13 +8,13 @@ source_url: https://github.com/TranHoaiHung/figma-ui-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 234
+stars: 256
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 46
-pushed_at: "2026-05-26T09:44:47Z"
+forks: 47
+pushed_at: "2026-09-21T02:51:24Z"
 ---
 ## What it is
 Bidirectional MCP bridge enabling AI assistants to draw UI on Figma canvas and read designs back as structured data or code tokens via localhost, requiring Figma Desktop.

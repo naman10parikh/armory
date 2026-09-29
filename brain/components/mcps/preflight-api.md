@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T18:27:19Z"
+pushed_at: "2026-09-13T15:15:26Z"
 ---
 ## What it is
 Provides pre-fetch routing intelligence for AI agents by recommending the cheapest reliable route (HTTP, browser, machine endpoint, or avoid) before visiting a URL.

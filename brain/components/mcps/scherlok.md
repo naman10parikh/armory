@@ -8,13 +8,13 @@ source_url: https://github.com/rbmuller/scherlok
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-09-01T14:52:43Z"
+forks: 6
+pushed_at: "2026-09-28T20:47:27Z"
 ---
 ## What it is
 Zero-config data quality monitoring as MCP tools. Profiles a warehouse (Postgres, BigQuery, Snowflake, MySQL, DuckDB), detects anomalies, and gates CI — read-only with the connection resolved server-side, never via the model.

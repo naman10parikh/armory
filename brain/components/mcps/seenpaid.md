@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T14:21:57Z"
+pushed_at: "2026-09-21T12:28:46Z"
 ---
 ## What it is
 Enables AI agents to schedule and manage social media posts across 25 platforms via a simple 3-tool MCP interface, including listing connected accounts and recent posts.

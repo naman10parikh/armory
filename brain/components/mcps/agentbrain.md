@@ -8,13 +8,13 @@ source_url: https://github.com/2672243194/agentbrain
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-30T09:03:20Z"
+pushed_at: "2026-09-27T18:01:30Z"
 ---
 ## What it is
 Local-first long-term memory for AI agents via a Markdown vault, offering MCP tools to query, ingest, lint, distill, and manage agent lessons and profile suggestions.

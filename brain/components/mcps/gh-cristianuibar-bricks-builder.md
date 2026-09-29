@@ -8,11 +8,11 @@ source_url: https://github.com/cristianuibar/bricks-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 121
+stars: 124
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
+forks: 25
 pushed_at: "2026-06-18T22:38:22Z"
 ---
 ## What it is

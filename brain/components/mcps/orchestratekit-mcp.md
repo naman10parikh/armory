@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T15:26:07Z"
+pushed_at: "2026-09-13T06:05:25Z"
 ---
 ## What it is
 Enables Cursor and Claude Desktop to design production-ready AI workflows by exposing a structured registry of components, edges, stacks, routes, and playbooks, with capabilities for goal matching, route composition, and confidence scoring.

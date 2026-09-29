@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-27T13:37:34Z"
+pushed_at: "2026-09-24T16:57:10Z"
 ---
 ## What it is
 Enables AI assistants to search flights and hotels, manage bookings, check flight status, and access delay statistics through the TravelCode corporate travel API, all via natural language conversations.

@@ -8,12 +8,12 @@ source_url: https://github.com/8b-is/smart-tree
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 265
+stars: 269
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
-pushed_at: "2026-07-11T05:18:22Z"
+forks: 28
+pushed_at: "2026-09-11T17:20:41Z"
 ---
 ## What it is
 MCP server `Smart Tree`, catalogued on PulseMCP. Rust-based directory visualization and analysis tool that provides quantum compression, semantic analysis, and streaming modes with over 20 specialized tools for file system exploration, content discovery, and project understanding optimized for large codebase analysis.

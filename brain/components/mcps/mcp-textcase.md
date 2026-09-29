@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:28:27Z"
+pushed_at: "2026-09-25T02:38:52Z"
 ---
 ## What it is
 Converts text between multiple cases (camel, pascal, snake, etc.) and supports bulk conversion to all cases.

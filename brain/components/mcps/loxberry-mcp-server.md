@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T22:08:35Z"
+pushed_at: "2026-09-28T20:23:16Z"
 ---
 ## What it is
 Enables AI assistants and agents to query and control a Loxone Miniserver installation via MCP, using existing room and control names without cloud services. Also provides selected LoxBerry information, secured by Loxone login.

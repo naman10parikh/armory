@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T15:47:00Z"
+pushed_at: "2026-09-22T13:01:21Z"
 ---
 ## What it is
 Enables AI assistants to generate real images via multiple models (OpenAI, Gemini, Recraft, Seedream, Grok, Arrow) and returns usable file paths instead of base64 data.

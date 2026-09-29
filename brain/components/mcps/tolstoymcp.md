@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-14T20:51:32Z"
+pushed_at: "2026-09-17T14:40:59Z"
 ---
 ## What it is
 Tolstoy MCP for AI-native ecommerce brands: Studio generates marketing videos and images, Library manages your media library, shoppable widgets, and ads, and Shopper searches products across brand stores with virtual try-on.

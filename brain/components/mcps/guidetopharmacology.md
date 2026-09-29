@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:11:49Z"
+pushed_at: "2026-09-26T19:01:33Z"
 ---
 ## What it is
 Enables access to the IUPHAR/BPS Guide to PHARMACOLOGY database for querying drug targets, ligands, and pharmacological data without API keys.

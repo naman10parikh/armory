@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:43:41Z"
+pushed_at: "2026-09-26T21:45:22Z"
 ---
 ## What it is
 Access Statbel Belgium open data via natural language queries. Provides tools to query bestat datasets through an MCP gateway.

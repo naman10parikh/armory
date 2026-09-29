@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-08T03:24:06Z"
+pushed_at: "2026-09-24T05:39:48Z"
 ---
 ## What it is
 Enables AI agents to access audited SEC intelligence, including scored catalyst picks and track record data, via the Model Context Protocol.

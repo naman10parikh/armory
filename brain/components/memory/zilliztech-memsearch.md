@@ -8,14 +8,14 @@ source_url: https://github.com/zilliztech/memsearch
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2571
+stars: 2681
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 238
-pushed_at: "2026-09-07T07:43:27Z"
+forks: 261
+pushed_at: "2026-09-24T08:08:09Z"
 ---
 ## What it is
 Use when several coding agents should share one memory store instead of each keeping its own notes.

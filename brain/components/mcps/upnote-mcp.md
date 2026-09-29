@@ -8,12 +8,12 @@ source_url: https://github.com/chadthornton/upnote-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2025-12-21T23:31:07Z"
 ---
 ## What it is

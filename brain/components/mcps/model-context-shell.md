@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T13:44:33Z"
+pushed_at: "2026-09-21T21:13:21Z"
 ---
 ## What it is
 Enables AI agents to compose MCP tool calls into Unix-style pipelines, executing complex workflows server-side and returning only the final result.

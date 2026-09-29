@@ -8,13 +8,13 @@ source_url: https://github.com/Casperjuel/aula-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 44
+stars: 61
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
-pushed_at: "2026-09-01T06:47:58Z"
+forks: 26
+pushed_at: "2026-09-29T07:16:03Z"
 ---
 ## What it is
 This server enables MCP clients (LLMs) to access data from the Danish school platform Aula, such as messages, schedules, and child profiles, by authenticating via MitID and running locally.

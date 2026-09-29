@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-14T13:53:43Z"
+pushed_at: "2026-09-28T20:40:17Z"
 ---
 ## What it is
 Provides atomic music-theory and MIDI tools for composing, enabling LLMs to chain deterministic steps like scale/chord lookups, degree resolution, rhythm generation, and MIDI rendering.

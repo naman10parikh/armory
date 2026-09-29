@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T14:31:45Z"
+pushed_at: "2026-09-24T00:31:39Z"
 ---
 ## What it is
 Official YoAuto MCP gateway for vehicle search and marketplace workflows in Moldova

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T08:00:44Z"
+pushed_at: "2026-09-27T01:12:24Z"
 ---
 ## What it is
 MCP server that provides tools for architecture analysis, risk diagnosis, quality metrics, and regression guarding to support AI-driven code review and incremental refactoring workflows.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-20T02:23:57Z"
+pushed_at: "2026-09-10T02:23:47Z"
 ---
 ## What it is
 Browser automation for AI agents via the Model Context Protocol, enabling web navigation, form filling, screenshots, and more using Chromium.

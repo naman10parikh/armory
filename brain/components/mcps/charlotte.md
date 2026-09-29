@@ -8,13 +8,13 @@ source_url: https://github.com/TickTockBent/charlotte
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 176
+stars: 179
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 19
-pushed_at: "2026-08-21T20:17:11Z"
+forks: 22
+pushed_at: "2026-09-11T22:11:45Z"
 ---
 ## What it is
 A token-efficient MCP server that gives AI agents structured access to the web, returning compact page summaries and targeted queries instead of full accessibility dumps.

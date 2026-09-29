@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T11:49:40Z"
+pushed_at: "2026-09-29T07:47:12Z"
 ---
 ## What it is
 MCP server for Kagi Search that uses your session token for web and news search without a separate API subscription.

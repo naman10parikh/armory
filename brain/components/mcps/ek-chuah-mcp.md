@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-02T20:07:23Z"
+pushed_at: "2026-09-18T00:45:33Z"
 ---
 ## What it is
 Read-only MCP server that serves the Archivo Epistemico (epistemic graph), enabling AI to read and query the epistemic path autonomously via tools like search, get_via, resolve, and get_necesidad.

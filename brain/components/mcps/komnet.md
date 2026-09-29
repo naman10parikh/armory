@@ -8,13 +8,13 @@ source_url: https://github.com/Komdosh/komnet
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T04:45:08Z"
+pushed_at: "2026-09-29T13:37:23Z"
 ---
 ## What it is
 Git-backed message bus for AI coding agents — Claude Code, Cursor and Codex coordinate asynchronously, with no server

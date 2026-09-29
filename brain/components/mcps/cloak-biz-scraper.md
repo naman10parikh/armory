@@ -8,13 +8,13 @@ source_url: https://github.com/thisnick/cloak-biz-scraper
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T22:17:49Z"
+pushed_at: "2026-09-26T17:00:12Z"
 ---
 ## What it is
 A self-hosted MCP server enabling AI assistants to scrape business-for-sale listings from websites like BizBuySell using stealth browsers and store results in Notion.

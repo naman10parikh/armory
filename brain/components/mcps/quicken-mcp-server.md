@@ -8,13 +8,13 @@ source_url: https://github.com/sgoley/quicken-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-04-29T20:31:12Z"
+pushed_at: "2026-09-14T15:03:53Z"
 ---
 ## What it is
 Converts Quicken QIF files into a queryable DuckDB database and exposes financial data through MCP tools, enabling LLMs to query transactions, accounts, and summaries.

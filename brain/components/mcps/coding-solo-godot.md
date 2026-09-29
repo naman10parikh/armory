@@ -8,11 +8,11 @@ source_url: https://github.com/coding-solo/godot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5461
+stars: 5874
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 464
+forks: 476
 pushed_at: "2026-04-16T23:37:00Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T10:54:42Z"
+pushed_at: "2026-09-12T10:26:12Z"
 ---
 ## What it is
 Provides local static-analysis tools for Python that let coding agents trace call paths, branch guards, side effects, and change impact, producing citation-ready answers with explicit uncertainty signals.

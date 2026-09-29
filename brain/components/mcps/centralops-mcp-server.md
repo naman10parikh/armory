@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T20:41:03Z"
+pushed_at: "2026-09-07T19:01:50Z"
 ---
 ## What it is
 Exposes a curated subset of the CentralOps HTTP API as typed tools for Claude Code, enabling drift triage, mapping edits, backfill jobs, and quarantine reprocess without raw HTTP calls.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T13:18:40Z"
+pushed_at: "2026-09-28T16:48:30Z"
 ---
 ## What it is
 A chaos-engineering and resilience-testing toolkit for Model Context Protocol servers, enabling deterministic fault injection and testing of reliability scenarios.

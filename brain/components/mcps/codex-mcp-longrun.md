@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T03:09:45Z"
+pushed_at: "2026-09-12T16:01:30Z"
 ---
 ## What it is
 A local STDIO MCP server for running one bounded command and waiting for its final result, eliminating model-driven polling. Designed for builds, test suites, and other trusted foreground commands.

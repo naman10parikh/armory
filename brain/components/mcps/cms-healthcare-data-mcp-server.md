@@ -8,13 +8,13 @@ source_url: https://github.com/SaeMind/mcp-server-for-cms-healthcare-data-tools
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-01T03:06:42Z"
+pushed_at: "2026-09-03T00:46:46Z"
 ---
 ## What it is
 Exposes four CMS public datasets as callable tools in Claude conversations, enabling natural-language real-world evidence analytics without SQL expertise.

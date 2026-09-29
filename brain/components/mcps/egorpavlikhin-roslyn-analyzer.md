@@ -8,11 +8,11 @@ source_url: https://github.com/egorpavlikhin/roslyn-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2025-05-15T11:08:02Z"
 ---
 ## What it is

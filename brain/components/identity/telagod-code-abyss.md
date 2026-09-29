@@ -8,7 +8,7 @@ source_url: https://github.com/telagod/code-abyss
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 239
+stars: 241
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

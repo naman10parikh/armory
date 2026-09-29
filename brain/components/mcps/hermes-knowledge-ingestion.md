@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T14:14:41Z"
+pushed_at: "2026-09-04T08:11:22Z"
 ---
 ## What it is
 Enables saving URLs, local files, plain text, and platform content (WeChat, X, YouTube, PDF, images, audio/video, Telegram) as structured Markdown knowledge cards in an Obsidian vault, with optional AI-powered classification and tagging.

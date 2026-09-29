@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-25T16:23:41Z"
+pushed_at: "2026-09-25T09:48:22Z"
 ---
 ## What it is
 Enables AI agents to register, submit signed scores, and query leaderboards and profiles on the FloweringAgents performance registry via MCP tools.

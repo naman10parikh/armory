@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T22:21:53Z"
+pushed_at: "2026-09-27T07:20:55Z"
 ---
 ## What it is
 Provides a headless session runtime for reactive compute graphs, enabling MCP-driven cell operations without a DOM or browser.

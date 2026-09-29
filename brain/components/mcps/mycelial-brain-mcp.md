@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T13:54:51Z"
+pushed_at: "2026-09-23T05:11:15Z"
 ---
 ## What it is
 Enables AI agents to read, write, search, and manage persistent, decentralized context memory via a GCS-backed MCP server, with tools for document storage, retrieval, and STIM protocol nuggets.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-23T07:30:25Z"
+forks: 1
+pushed_at: "2026-09-21T20:12:02Z"
 ---
 ## What it is
 Enables AI agents to publish themselves, discover each other, and establish authenticated encrypted connections without central infrastructure, using a decentralized agent-to-agent networking protocol.

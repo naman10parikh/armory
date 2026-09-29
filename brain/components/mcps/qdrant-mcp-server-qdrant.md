@@ -8,12 +8,12 @@ source_url: https://github.com/qdrant/mcp-server-qdrant
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1517
+stars: 1540
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 301
-pushed_at: "2026-08-14T00:13:56Z"
+forks: 307
+pushed_at: "2026-09-04T00:13:58Z"
 ---
 ## What it is
 MCP server `Qdrant`, catalogued on PulseMCP. Store and retrieve vector-based memories for AI systems.

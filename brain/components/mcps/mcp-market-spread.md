@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:20:58Z"
+pushed_at: "2026-09-25T00:55:39Z"
 ---
 ## What it is
 market-spread MCP — cross-venue prediction-market landscape scanner.

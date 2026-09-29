@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T04:15:59Z"
+pushed_at: "2026-09-18T06:08:20Z"
 ---
 ## What it is
 FastMCP wrapper around a Rust movie recommendation API, providing tools to fetch movie recommendations and check service health.

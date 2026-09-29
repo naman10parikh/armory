@@ -8,13 +8,13 @@ source_url: https://github.com/mldsveda/PyScrappy
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 194
+stars: 260
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 76
-pushed_at: "2026-08-27T18:51:23Z"
+forks: 82
+pushed_at: "2026-09-25T10:50:04Z"
 ---
 ## What it is
 A Python web-scraping toolkit that exposes 22 tools for fetching structured web data (from any URL to search, finance, e-commerce, and reference sources) as validated JSON for AI agents.

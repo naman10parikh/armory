@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-24T04:34:00Z"
+pushed_at: "2026-09-04T04:34:27Z"
 ---
 ## What it is
 Allows agents to lookup code snippets in your project. Uses a remote MCP server with a collection of code snippets, with support for automatic project language detection.

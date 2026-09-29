@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-15T05:23:33Z"
+pushed_at: "2026-09-29T11:07:12Z"
 ---
 ## What it is
 Enables container, image, pod, network, volume, and system management via Podman REST API. Supports rootful and rootless Podman operations.

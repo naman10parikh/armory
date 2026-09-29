@@ -8,13 +8,13 @@ source_url: https://github.com/ukolov-dev/mcp-project-context-router
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T07:39:45Z"
+pushed_at: "2026-09-28T11:28:40Z"
 ---
 ## What it is
 A local-first MCP server and CLI that gives coding agents structured project memory, task contracts, context packs, backlog workflows, and verification evidence, storing data in reviewable Markdown/YAML with a fast SQLite index.

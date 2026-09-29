@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-11T03:38:33Z"
+pushed_at: "2026-09-15T20:20:29Z"
 ---
 ## What it is
 Provides free EagleView-style satellite roof measurements and modular Xactimate-style estimating from Google Solar API data, enabling contractors to generate reports and estimates from any address.

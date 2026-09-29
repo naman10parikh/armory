@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T01:06:58Z"
+pushed_at: "2026-09-19T20:18:24Z"
 ---
 ## What it is
 Enables deterministic bilingual website intelligence audits by URL, returning fixed English or Spanish findings without ever contacting the submitted site.

@@ -8,12 +8,12 @@ source_url: https://github.com/wynandw87/claude-code-youtube-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
+forks: 12
 pushed_at: "2026-03-28T14:21:43Z"
 ---
 ## What it is

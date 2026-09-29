@@ -8,11 +8,11 @@ source_url: https://github.com/cmd0s/esp32-ai-loop-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 1
 pushed_at: "2026-04-30T08:50:32Z"
 ---
 ## What it is

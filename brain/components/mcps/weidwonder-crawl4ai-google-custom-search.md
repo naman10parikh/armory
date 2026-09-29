@@ -8,7 +8,7 @@ source_url: https://github.com/weidwonder/crawl4ai-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 152
+stars: 155
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

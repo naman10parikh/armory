@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T00:16:49Z"
+pushed_at: "2026-09-09T00:14:14Z"
 ---
 ## What it is
 MCP server exposing Dashbrr's REST API as tools, so an LLM can read and manage a dashbrr instance: configured services, per-service health, and summary panels for many apps. Write tools cover settings management, download-queue deletes, Overseerr approvals, UI preferences, and the Plex auth PIN flow

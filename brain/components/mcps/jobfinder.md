@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T22:29:31Z"
+pushed_at: "2026-09-10T19:03:59Z"
 ---
 ## What it is
 Enables AI-powered job searching across multiple platforms using natural language or CV uploads, ranking results by shortlisting likelihood and generating detailed spreadsheets. Integrates with Claude to perform full job searches, preview query interpretation, and manage platform configurations.

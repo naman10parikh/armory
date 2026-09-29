@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-07T18:39:18Z"
+pushed_at: "2026-09-16T00:52:31Z"
 ---
 ## What it is
 MCP server for controlling Figma Slides — create, edit, and screenshot slides from any AI assistant that supports MCP.

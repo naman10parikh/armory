@@ -8,11 +8,11 @@ source_url: https://github.com/greirson/mcp-todoist
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 243
+stars: 247
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 35
+forks: 34
 pushed_at: "2026-05-01T10:23:20Z"
 ---
 ## What it is

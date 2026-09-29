@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-04T17:20:30Z"
+pushed_at: "2026-09-22T09:29:59Z"
 ---
 ## What it is
 MCP server that connects Claude to Edupage, a school information system used across Europe. Provides access to timetables, grades, homework, messages, students, teachers, and more.

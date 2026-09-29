@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T12:13:57Z"
+pushed_at: "2026-09-09T14:43:44Z"
 ---
 ## What it is
 MCP server for the Jaringan protocol that allows AI agents to fetch, inspect, search, and manage Jaringan pages through structured tool calls.

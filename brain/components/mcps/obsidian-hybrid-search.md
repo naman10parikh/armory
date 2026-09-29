@@ -8,13 +8,13 @@ source_url: https://github.com/flowing-abyss/obsidian-hybrid-search
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 101
+stars: 107
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 17
-pushed_at: "2026-08-31T13:35:42Z"
+pushed_at: "2026-09-29T06:56:27Z"
 ---
 ## What it is
 MCP server that indexes Obsidian notes and enables hybrid search (full-text, fuzzy, semantic) for AI assistants to find and read notes.

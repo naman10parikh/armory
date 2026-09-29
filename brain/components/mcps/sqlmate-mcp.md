@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-19T18:16:07Z"
+pushed_at: "2026-09-23T12:49:40Z"
 ---
 ## What it is
 Zero-config SQL database MCP server with a browser GUI that connects Claude to MySQL, MariaDB, SQLite, and MSSQL databases.

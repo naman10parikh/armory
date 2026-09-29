@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T16:09:36Z"
+pushed_at: "2026-09-27T01:59:22Z"
 ---
 ## What it is
 An open-source MCP server for offline, uncertainty-aware practice-exam score conversion across NBME, UWSA, Free 120, AMBOSS, and CMS inputs.

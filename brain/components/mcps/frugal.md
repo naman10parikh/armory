@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-29T13:13:46Z"
+pushed_at: "2026-09-28T13:20:38Z"
 ---
 ## What it is
 Intelligently routes AI tool calls (search, extract, browse) to the cheapest capable provider by default with automatic failover and audit receipts, enabling cost-effective agent workflows.

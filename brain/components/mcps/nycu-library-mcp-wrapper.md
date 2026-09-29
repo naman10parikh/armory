@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T07:48:06Z"
+pushed_at: "2026-09-03T06:25:19Z"
 ---
 ## What it is
 A Cloudflare Workers-based wrapper that normalizes NYCU Library MCP server responses into Markdown and structured content, ensuring any MCP-compatible AI workspace receives complete item-level data for catalog searches and account queries.

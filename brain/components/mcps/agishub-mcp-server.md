@@ -8,13 +8,13 @@ source_url: https://github.com/agishub/agishub-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T20:33:00Z"
+pushed_at: "2026-09-11T07:30:22Z"
 ---
 ## What it is
 AgisHub provides a diverse set of pay-per-call tools for AI agents—covering timezones, web extraction, AI, memory, webhooks, finance, and utilities—accessible via a free MCP tier or x402 HTTP micropayments in USDC on Base, with no signup or API keys required.

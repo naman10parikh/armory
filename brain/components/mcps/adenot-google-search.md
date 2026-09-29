@@ -8,11 +8,11 @@ source_url: https://github.com/adenot/mcp-google-search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
+forks: 23
 pushed_at: "2025-09-24T08:06:11Z"
 ---
 ## What it is

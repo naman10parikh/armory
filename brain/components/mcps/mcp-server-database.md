@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-11T22:18:26Z"
+pushed_at: "2026-09-20T00:37:32Z"
 ---
 ## What it is
 Provides tools for interacting with relational databases (PostgreSQL, MySQL, SQLite), enabling SQL queries, schema inspection, and migration execution.

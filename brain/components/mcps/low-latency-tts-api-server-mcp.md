@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-27T12:44:23Z"
+pushed_at: "2026-09-23T20:28:25Z"
 ---
 ## What it is
 A low-latency text-to-speech MCP server that uses local Kokoro GGUF inference via TTS.cpp, providing say, get_voices, and get_status tools for AI agents to synthesize speech and manage playback queues.

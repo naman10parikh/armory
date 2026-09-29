@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-14T04:14:48Z"
+pushed_at: "2026-09-21T15:47:41Z"
 ---
 ## What it is
 A Python MCP server wrapping KB Securities' OpenAPI, providing 75 tools for market data, stock orders, account management, and investment insights for Korean and overseas equities via natural language. It includes safety measures like blocking real trades unless explicitly enabled.

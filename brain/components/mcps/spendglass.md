@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T03:52:46Z"
+pushed_at: "2026-09-28T11:01:18Z"
 ---
 ## What it is
 Read-only MCP server that lets local AI agents query bank transactions stored in a local SQLite database, with tools for accounts, transaction search, spending summaries, recurring charges, trends, themes, subscriptions, and store health.

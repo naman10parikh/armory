@@ -8,13 +8,13 @@ source_url: https://github.com/RedPlanetHQ/core
 license: NOASSERTION
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1963
+stars: 1985
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 189
+forks: 196
 pushed_at: "2026-09-07T10:52:17Z"
 ---
 ## What it is

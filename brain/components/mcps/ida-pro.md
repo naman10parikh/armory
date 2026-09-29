@@ -8,11 +8,11 @@ source_url: https://github.com/fdrechsler/mcp-server-idapro
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 100
+stars: 102
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 26
+forks: 27
 pushed_at: "2025-03-26T19:57:30Z"
 ---
 ## What it is

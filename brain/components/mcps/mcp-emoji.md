@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:03:24Z"
+pushed_at: "2026-09-24T23:31:01Z"
 ---
 ## What it is
 Offers emoji lookup and search tools, allowing users to find emoji characters by shortcode or keyword, and reverse lookup from emoji to name, all offline without API keys.

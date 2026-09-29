@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:51:35Z"
+pushed_at: "2026-09-25T23:02:25Z"
 ---
 ## What it is
 Wraps CricAPI to provide live cricket data, enabling AI agents to query cricket information through natural language or direct tool calls.

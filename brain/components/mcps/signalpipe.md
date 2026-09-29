@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T17:20:40Z"
+pushed_at: "2026-09-28T19:38:15Z"
 ---
 ## What it is
 Agentic sales pipeline that detects buying intent from social feeds, scores leads via an AI swarm, and auto-drafts calibrated replies for prospect nurturing.

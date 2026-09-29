@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-02T03:12:15Z"
+pushed_at: "2026-09-26T10:41:01Z"
 ---
 ## What it is
 MCP server `NebulaMind`, catalogued on PulseMCP. AI-powered astronomy wiki with open agent peer-review, evidence voting, and reputation tracking.

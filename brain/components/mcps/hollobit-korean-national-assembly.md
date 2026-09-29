@@ -8,11 +8,11 @@ source_url: https://github.com/hollobit/assembly-api-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 89
+stars: 91
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 33
+forks: 34
 pushed_at: "2026-05-02T05:09:35Z"
 ---
 ## What it is

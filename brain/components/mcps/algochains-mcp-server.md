@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T23:42:52Z"
+pushed_at: "2026-09-15T18:50:56Z"
 ---
 ## What it is
 Enables AI assistants to interact with a complete trading infrastructure, including live futures bots, real market data, backtesting, and copy-trading signals. Supports 503 tools across 20 domains, from market data to order execution, with zero synthetic data.

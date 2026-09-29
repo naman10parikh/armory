@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-01T17:46:22Z"
+pushed_at: "2026-09-27T04:26:23Z"
 ---
 ## What it is
 A TypeScript ESM MCP server exposing 20 public instruction tools and 7 utility tools, backed by 102 internal skills across 18 domain families — from requirements discovery and code quality through governance, resilience, and physics-inspired analysis.

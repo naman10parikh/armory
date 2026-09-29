@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T18:56:59Z"
+pushed_at: "2026-09-18T14:07:11Z"
 ---
 ## What it is
 Safe, reversible tool execution for AI agents. It sits between an agent and its tool servers, adding contracts, dry-run planning, policy, approvals, saga execution, and rewind.

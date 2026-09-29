@@ -8,13 +8,13 @@ source_url: https://github.com/Eurobertics/mcp_rpg_worldstate
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T18:53:37Z"
+pushed_at: "2026-09-10T22:16:01Z"
 ---
 ## What it is
 Gives an AI game master a persistent memory for tabletop roleplaying games by storing worlds, characters, plots, and scenes. It enables saving, searching, and loading game state (via MCP tools) so the GM doesn't have to recall plot and details only from the context window.

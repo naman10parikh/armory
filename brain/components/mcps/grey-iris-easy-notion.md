@@ -12,8 +12,8 @@ stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
-pushed_at: "2026-09-01T16:34:40Z"
+forks: 11
+pushed_at: "2026-09-11T20:03:13Z"
 ---
 ## What it is
 MCP server `Easy Notion`, catalogued on PulseMCP. Markdown-first Notion integration with 92% fewer tokens than the official Notion MCP server.

@@ -8,11 +8,11 @@ source_url: https://github.com/dillip285/mcp-terminal
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2025-01-13T09:51:06Z"
 ---
 ## What it is

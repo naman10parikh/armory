@@ -8,11 +8,11 @@ source_url: https://github.com/birdseyevue/daisyui-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 18
 pushed_at: "2026-07-12T13:24:15Z"
 ---
 ## What it is

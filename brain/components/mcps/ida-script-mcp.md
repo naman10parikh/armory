@@ -8,13 +8,13 @@ source_url: https://github.com/SuZiXunYue/ida-script-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 51
+stars: 53
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-05-08T03:47:15Z"
+pushed_at: "2026-09-28T11:34:37Z"
 ---
 ## What it is
 Executes IDAPython scripts in IDA Pro through any MCP-compatible AI assistant, enabling AI-powered binary analysis with full access to IDA's API.

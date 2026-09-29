@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T23:04:55Z"
+pushed_at: "2026-09-26T20:54:24Z"
 ---
 ## What it is
 Enables AI agents to interact with Microsoft 365 Outlook Mail, allowing email operations via natural language.

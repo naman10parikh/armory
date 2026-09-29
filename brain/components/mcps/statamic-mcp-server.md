@@ -8,13 +8,13 @@ source_url: https://github.com/cboxdk/statamic-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 36
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-08-27T11:44:42Z"
+forks: 10
+pushed_at: "2026-09-19T21:03:12Z"
 ---
 ## What it is
 Enables AI assistants to manage Statamic CMS content, including blueprints, entries, assets, users, and system operations, through a secure, router-based MCP endpoint.

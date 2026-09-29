@@ -8,13 +8,13 @@ source_url: https://github.com/PranavNagrecha/AwesomeSalesforceSkills
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-17T18:10:23Z"
+pushed_at: "2026-09-03T21:46:55Z"
 ---
 ## What it is
 Provides live-org context for AI assistants with tools to search skills, agents, templates, decision trees, and query Salesforce metadata (Apex, LWC, objects, fields, etc.) via MCP.

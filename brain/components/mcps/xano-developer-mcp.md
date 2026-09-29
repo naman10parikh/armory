@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-03T21:20:32Z"
+pushed_at: "2026-09-28T20:08:47Z"
 ---
 ## What it is
 An MCP server and standalone library that gives AI assistants superpowers for developing on Xano — complete with documentation, code validation, and workflow guides.

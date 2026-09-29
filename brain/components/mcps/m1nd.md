@@ -8,13 +8,13 @@ source_url: https://github.com/maxkle1nz/m1nd
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-08-22T05:04:35Z"
+forks: 7
+pushed_at: "2026-09-28T17:12:04Z"
 ---
 ## What it is
 m1nd is a local MCP runtime that gives coding agents graph-native memory of a codebase: structure, docs, decisions, change impact, recovery state, and investigation continuity.

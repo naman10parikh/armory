@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-03T07:07:04Z"
+pushed_at: "2026-09-22T12:17:46Z"
 ---
 ## What it is
 Drive open-source Gearotons M17 servomotors from natural language via an MCP server with safety rails and a mock backend.

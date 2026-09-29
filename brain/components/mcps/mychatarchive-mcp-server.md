@@ -8,12 +8,12 @@ source_url: https://github.com/1ch1n/mychatarchive
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 62
+stars: 66
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
+forks: 16
 pushed_at: "2026-08-05T03:51:51Z"
 ---
 ## What it is

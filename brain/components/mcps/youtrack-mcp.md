@@ -8,12 +8,12 @@ source_url: https://github.com/tonyzorin/youtrack-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 95
+stars: 97
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 45
+forks: 47
 pushed_at: "2026-08-26T23:52:57Z"
 ---
 ## What it is

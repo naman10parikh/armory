@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-13T18:57:08Z"
+pushed_at: "2026-09-06T17:41:49Z"
 ---
 ## What it is
 Exposes Nima Karami's curated, public-safe career history. Allows AI to select and tailor pre-approved material for queries.

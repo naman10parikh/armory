@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-21T06:09:43Z"
+pushed_at: "2026-09-26T16:57:21Z"
 ---
 ## What it is
 AdoMcp is a Model Context Protocol (MCP) server that helps large language models (LLMs) understand database structure, read table comments, and execute SQL queries.

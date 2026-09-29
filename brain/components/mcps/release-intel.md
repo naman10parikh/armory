@@ -8,13 +8,13 @@ source_url: https://github.com/barissozudogru/release-intel-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T12:11:05Z"
+pushed_at: "2026-09-28T02:08:23Z"
 ---
 ## What it is
 An MCP server that generates release intelligence from GitHub repository data, correlating commits, pull requests, issues, and contributors between two git refs to produce structured context for release notes, changelogs, and summaries.

@@ -8,13 +8,13 @@ source_url: https://github.com/ddevetak/footballcharts-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T16:59:00Z"
+pushed_at: "2026-09-06T08:37:07Z"
 ---
 ## What it is
 Provides AI assistants with live football data for 90+ leagues including tables, results, fixtures, model probabilities, and Monte Carlo season projections from football-charts.com.

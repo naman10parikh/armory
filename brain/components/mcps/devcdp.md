@@ -8,13 +8,13 @@ source_url: https://github.com/Dayananda-D/Devcdp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T13:46:32Z"
+pushed_at: "2026-09-25T21:09:01Z"
 ---
 ## What it is
 Provides AI assistants with full browser DevTools access for debugging, including console, network, DOM, breakpoints, and step-through debugging, with a collaborative manual fallback when automation fails.

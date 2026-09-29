@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T14:02:35Z"
+pushed_at: "2026-09-12T01:04:06Z"
 ---
 ## What it is
 MCP server for haraj.com.sa, the Saudi classifieds marketplace, exposing 21 tools to search, fetch feeds, and retrieve post details via real GraphQL endpoints.

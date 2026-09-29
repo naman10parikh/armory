@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T12:44:41Z"
+pushed_at: "2026-09-11T16:33:46Z"
 ---
 ## What it is
 High-performance MCP data plane server for Nextcloud integration, enabling AI agents to read, write, organize, and manage files and CRM assets over WebDAV and OCS APIs.

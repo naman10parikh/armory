@@ -8,11 +8,11 @@ source_url: https://github.com/drjforrest/mcp-things3
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 73
+stars: 74
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2025-12-11T04:21:01Z"
 ---
 ## What it is

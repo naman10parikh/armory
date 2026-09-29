@@ -8,13 +8,13 @@ source_url: https://github.com/karbassi/mcp-loom
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-03-18T14:40:37Z"
+forks: 10
+pushed_at: "2026-09-25T13:00:08Z"
 ---
 ## What it is
 MCP server that exposes 59 tools for Loom's internal GraphQL API, enabling listing, searching, and managing Loom videos, transcripts, comments, tasks, and more.

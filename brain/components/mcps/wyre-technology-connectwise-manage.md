@@ -8,12 +8,12 @@ source_url: https://github.com/wyre-technology/connectwise-manage-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 32
-pushed_at: "2026-08-31T16:15:13Z"
+forks: 37
+pushed_at: "2026-09-28T16:16:31Z"
 ---
 ## What it is
 MCP server `ConnectWise Manage`, catalogued on PulseMCP. Enables AI assistants to manage ConnectWise Manage tickets, companies, contacts, projects, time entries, and configurations.

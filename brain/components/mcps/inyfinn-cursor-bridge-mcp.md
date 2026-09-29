@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T07:12:46Z"
+pushed_at: "2026-09-23T15:22:48Z"
 ---
 ## What it is
 Enables WordPress site management through Cursor IDE, providing abilities for content operations, plugin/theme management, WooCommerce, and hosting configuration guides.

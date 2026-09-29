@@ -8,12 +8,12 @@ source_url: https://github.com/Jcorderop02/packet-tracer-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-07-13T06:13:09Z"
 ---
 ## What it is

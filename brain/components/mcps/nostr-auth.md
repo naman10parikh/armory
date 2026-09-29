@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T20:04:20Z"
+pushed_at: "2026-09-04T23:44:02Z"
 ---
 ## What it is
 Enables LLM coding agents to sign in with Nostr by generating NIP-07 signatures and exposing public keys, without requiring a wallet or browser extension.

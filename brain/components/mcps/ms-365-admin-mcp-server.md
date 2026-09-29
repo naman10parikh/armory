@@ -8,13 +8,13 @@ source_url: https://github.com/okapi-ca/ms-365-admin-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-31T18:05:42Z"
+forks: 3
+pushed_at: "2026-09-29T01:19:32Z"
 ---
 ## What it is
 A Model Context Protocol server for Microsoft 365 administration using Graph API application permissions, enabling security monitoring, identity audits, incident response, and service health management.

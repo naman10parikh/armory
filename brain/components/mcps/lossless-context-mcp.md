@@ -8,13 +8,13 @@ source_url: https://github.com/NORTHTEKDevs/lossless-context-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-26T01:37:34Z"
+forks: 2
+pushed_at: "2026-09-05T03:26:07Z"
 ---
 ## What it is
 MCP server providing lossless file reads with deduplication, per-repo token metering, and HMAC-signed context receipts. Enables auditable, vendor-neutral measurement of what an AI agent saw.

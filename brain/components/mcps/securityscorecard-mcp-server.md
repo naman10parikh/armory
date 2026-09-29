@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T09:10:54Z"
+pushed_at: "2026-09-29T06:56:03Z"
 ---
 ## What it is
 Integrates with the SecurityScorecard API to provide security metrics, risk analysis, asset discovery, and remediation planning through natural language.

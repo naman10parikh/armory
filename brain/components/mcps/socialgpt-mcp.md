@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-03T22:56:58Z"
+pushed_at: "2026-09-28T17:31:08Z"
 ---
 ## What it is
 Brings social media analytics and content intelligence into any MCP-compatible AI agent, enabling analysis of your own videos, competitor research, and creator discovery via a hosted OAuth-authenticated server.

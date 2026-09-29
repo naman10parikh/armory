@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T11:20:01Z"
+pushed_at: "2026-09-03T03:23:17Z"
 ---
 ## What it is
 MCP server for WuxianPi Hub, enabling search and retrieval of rescue plugin information, versions, documentation, and comments through natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T09:54:04Z"
+pushed_at: "2026-09-28T10:36:11Z"
 ---
 ## What it is
 Provides live crypto liquidation data, cascade detection, positioning, and market data for AI agents via MCP. Pay per call in USDC.

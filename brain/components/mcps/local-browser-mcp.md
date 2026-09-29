@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T12:46:31Z"
+pushed_at: "2026-09-29T13:06:42Z"
 ---
 ## What it is
 A headless, agent-controllable real browser as an MCP server that enables AI agents to navigate, click, fill, eval JavaScript, and take screenshots on localhost and allowed hosts, with no GUI required.

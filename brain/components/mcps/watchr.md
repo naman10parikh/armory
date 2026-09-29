@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-17T10:46:31Z"
+pushed_at: "2026-09-14T22:28:51Z"
 ---
 ## What it is
 MCP server `Watchr`, catalogued on PulseMCP. Official MCP server for Watchr competitive intelligence platform, providing read-only access to monitoring groups, brands, insights, and reports.

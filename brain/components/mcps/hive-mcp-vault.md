@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T10:34:58Z"
+pushed_at: "2026-09-03T11:41:24Z"
 ---
 ## What it is
 Provides TSS-MPC key splitting and ZK biometric commitments for secure key custody, now suspended per partner doctrine.

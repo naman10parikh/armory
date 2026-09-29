@@ -8,7 +8,7 @@ source_url: https://github.com/marchev/claudit
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 157
+stars: 158
 eval_score: null
 verified_at: 2026-05-27
 related: []

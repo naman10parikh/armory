@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-19T00:48:14Z"
+pushed_at: "2026-09-07T09:26:56Z"
 ---
 ## What it is
 MCP server for long-term agent memory, providing persistent memory, searchable knowledge, and evolving identity for AI agents.

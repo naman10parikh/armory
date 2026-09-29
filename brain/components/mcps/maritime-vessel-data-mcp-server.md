@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T08:01:14Z"
+pushed_at: "2026-09-18T14:42:14Z"
 ---
 ## What it is
 Enables querying maritime vessel data via MCP tools and resources, including vessel search, port proximity, and vessel details lookups.

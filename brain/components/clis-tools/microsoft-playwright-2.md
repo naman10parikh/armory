@@ -9,14 +9,14 @@ source_url: https://github.com/microsoft/playwright
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 96700
+stars: 96865
 eval_score: 1
 mentions: 21
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 6504
-pushed_at: "2026-09-26T05:40:18Z"
+forks: 6519
+pushed_at: "2026-09-29T02:54:36Z"
 ---
 ## What it is
 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.

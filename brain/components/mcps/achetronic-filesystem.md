@@ -8,11 +8,11 @@ source_url: https://github.com/achetronic/filesystem-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-06-30T20:35:49Z"
 ---
 ## What it is

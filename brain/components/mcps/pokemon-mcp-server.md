@@ -8,12 +8,12 @@ source_url: https://github.com/Sachin-crypto/Pokemon-MCP-Server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 30
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
+forks: 16
 pushed_at: "2025-04-13T18:35:20Z"
 ---
 ## What it is

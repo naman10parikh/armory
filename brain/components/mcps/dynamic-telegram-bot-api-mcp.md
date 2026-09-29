@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T10:59:45Z"
+pushed_at: "2026-09-29T10:54:39Z"
 ---
 ## What it is
 Enables searching, inspecting, and calling Telegram Bot API methods via five stable MCP tools, with automatic schema updates from official documentation.

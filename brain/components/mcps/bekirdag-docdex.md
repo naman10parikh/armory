@@ -8,12 +8,12 @@ source_url: https://github.com/bekirdag/docdex
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-27T12:36:36Z"
+pushed_at: "2026-09-21T06:35:24Z"
 ---
 ## What it is
 MCP server `Docdex`, catalogued on PulseMCP. Lightweight per-repository documentation indexer providing fast full-text search over local markdown and text files with automatic file change detection.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T20:19:15Z"
+pushed_at: "2026-09-06T15:08:05Z"
 ---
 ## What it is
 Official Model Context Protocol (MCP) Server for QuickerSpot — AI-powered commercial radio and retail sound automation. Connect your AI Assistants (Cursor IDE, Claude Desktop, Antigravity, Hermes Agent, OpenClaw) directly to QuickerSpot's ElevenLabs V3 voice engine, AI script generator, and indoor r

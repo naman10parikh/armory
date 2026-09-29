@@ -8,13 +8,13 @@ source_url: https://github.com/ylz201/keyvault
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-04T03:04:41Z"
+pushed_at: "2026-09-24T12:05:39Z"
 ---
 ## What it is
 Enables AI agents to securely manage API keys and secrets via the MCP protocol, with encrypted storage at rest and a simple CLI and Python SDK.

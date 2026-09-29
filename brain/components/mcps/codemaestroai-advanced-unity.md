@@ -8,11 +8,11 @@ source_url: https://github.com/codemaestroai/advanced-unity-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 93
+stars: 94
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
+forks: 11
 pushed_at: "2026-03-30T20:37:35Z"
 ---
 ## What it is

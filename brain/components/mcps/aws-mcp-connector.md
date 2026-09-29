@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T12:53:31Z"
+pushed_at: "2026-09-27T12:52:52Z"
 ---
 ## What it is
 Talk to AWS CLI from an MCP-speaking agent. Run any aws <service> <operation> command through the Model Context Protocol, with read-only defaults and gated write access.

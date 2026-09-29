@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 23
-pushed_at: "2026-07-09T04:09:25Z"
+pushed_at: "2026-09-20T00:45:27Z"
 ---
 ## What it is
 MCP server `Gong`, catalogued on PulseMCP. Integrates with Gong's API to access call recordings and transcripts, enabling analysis of sales conversations and customer interactions with date filtering and speaker identification capabilities.

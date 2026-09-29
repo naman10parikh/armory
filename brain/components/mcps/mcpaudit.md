@@ -8,13 +8,13 @@ source_url: https://github.com/AndrewXuTurtle/mcpaudit
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T10:30:03Z"
+pushed_at: "2026-09-29T11:37:34Z"
 ---
 ## What it is
 Audits MCP server configurations and packages for security risks such as typosquats, credential exposure, and malicious code, with zero dependencies and no execution.

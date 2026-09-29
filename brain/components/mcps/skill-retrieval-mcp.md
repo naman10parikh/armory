@@ -8,12 +8,12 @@ source_url: https://github.com/JayCheng113/skill-retrieval-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 116
+stars: 130
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 18
+forks: 22
 pushed_at: "2026-08-27T06:39:50Z"
 ---
 ## What it is

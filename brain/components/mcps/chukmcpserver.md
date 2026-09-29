@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-08-14T19:35:41Z"
+pushed_at: "2026-09-21T21:32:53Z"
 ---
 ## What it is
 A Python framework for building Model Context Protocol servers with decorator-based tools, zero-config deployment, and high performance.

@@ -8,7 +8,7 @@ source_url: https://github.com/scenic-contrib/scenic_mcp_experimental
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

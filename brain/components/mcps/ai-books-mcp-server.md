@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-31T02:09:25Z"
+forks: 1
+pushed_at: "2026-09-29T13:18:33Z"
 ---
 ## What it is
 Extends large language model context length up to 60 times using gravitational memory, designed for Claude Code and Anthropic AI models.

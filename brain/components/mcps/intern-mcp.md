@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-29T22:28:20Z"
+pushed_at: "2026-09-10T15:25:03Z"
 ---
 ## What it is
 Local stdio MCP server for working on Intern-hosted sites through guarded Git checkouts. It enables authentication, site preparation, testing, validation, and publishing via coding harnesses like Codex and Claude Code.

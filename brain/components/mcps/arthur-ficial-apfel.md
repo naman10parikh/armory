@@ -8,11 +8,11 @@ source_url: https://github.com/arthur-ficial/apfel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-07-09T15:17:51Z"
 ---
 ## What it is

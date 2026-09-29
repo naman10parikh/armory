@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T23:42:12Z"
+pushed_at: "2026-09-29T09:46:00Z"
 ---
 ## What it is
 Personal investment management advisor that exposes tools for accounts, portfolios, trades, market data, strategies, risk control, and advice, enabling AI agents to analyze and provide structured investment recommendations.

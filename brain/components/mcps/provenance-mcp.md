@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-06T02:18:29Z"
+pushed_at: "2026-09-18T13:36:36Z"
 ---
 ## What it is
 Checks wash-traffic risk of Algorand x402 endpoints using on-chain analysis, helping agents decide whether to pay USDC.

@@ -8,13 +8,13 @@ source_url: https://github.com/tallyfy/mcp-public
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T22:40:53Z"
+pushed_at: "2026-09-28T22:37:15Z"
 ---
 ## What it is
 Run your Tallyfy workflows from any AI assistant in plain English. 107 tools across processes, tasks, templates, form fields, automation rules, users, and search, each scoped to the signed-in user's Tallyfy permissions.

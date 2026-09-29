@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T05:07:54Z"
+pushed_at: "2026-09-24T18:07:41Z"
 ---
 ## What it is
 Extracts Glassdoor employer reviews and returns them as structured JSON, usable as an MCP tool in AI agents.

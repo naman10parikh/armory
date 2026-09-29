@@ -8,13 +8,13 @@ source_url: https://github.com/scarletkc/vexor
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 239
+stars: 241
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
-pushed_at: "2026-08-29T09:39:53Z"
+forks: 16
+pushed_at: "2026-09-27T04:23:55Z"
 ---
 ## What it is
 A semantic search engine for files and code.

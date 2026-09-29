@@ -8,12 +8,12 @@ source_url: https://github.com/samihalawa/visual-ui-debug-agent-mcp
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 81
+stars: 83
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
+forks: 9
 pushed_at: "2026-08-11T00:44:23Z"
 ---
 ## What it is

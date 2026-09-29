@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-23T14:15:30Z"
+pushed_at: "2026-09-11T17:32:36Z"
 ---
 ## What it is
 Provides AI agents full access to Bing Webmaster Tools API for site management, URL submission, sitemaps, traffic stats, keyword research, and URL blocking.

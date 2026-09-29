@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:34:01Z"
+pushed_at: "2026-09-02T19:57:16Z"
 ---
 ## What it is
 Enables AI agents to run full on-page SEO audits for any URL or up to 10 URLs at once, returning 0-100 scores, meta tag and heading checks, schema/image/link analysis, load time, and prioritized fixes via pay-per-call x402 micropayments.

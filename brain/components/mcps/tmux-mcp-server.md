@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T18:23:35Z"
+pushed_at: "2026-09-27T11:30:36Z"
 ---
 ## What it is
 MCP server for tmux enabling AI assistants to manage tmux sessions, windows, panes, layouts, and execute commands securely through natural language. Supports multiple profiles including read-only and full tool sets.

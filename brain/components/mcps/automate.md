@@ -8,13 +8,13 @@ source_url: https://github.com/yuruotong1/autoMate
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3952
+stars: 3968
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 492
-pushed_at: "2026-08-25T23:14:46Z"
+forks: 489
+pushed_at: "2026-09-18T00:02:05Z"
 ---
 ## What it is
 A personal AI assistant server that provides MCP tools for notes, files, reminders, memory, shell, browser, and 30+ SaaS integrations, enabling AI clients to access and manage your data across sessions.

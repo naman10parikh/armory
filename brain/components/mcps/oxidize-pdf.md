@@ -8,13 +8,13 @@ source_url: https://github.com/bzsanti/oxidize-python
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T12:49:08Z"
+pushed_at: "2026-09-27T16:24:46Z"
 ---
 ## What it is
 Rust-powered PDF toolkit over MCP: create, read, and analyze PDFs; extract text and entities for RAG; convert to Markdown; split/merge/rotate/reorder pages; manage form fields and annotations; encrypt documents. Runs locally via uvx oxidize-mcp.

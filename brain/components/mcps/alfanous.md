@@ -8,11 +8,11 @@ source_url: https://github.com/alfanous-team/alfanous
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 288
+stars: 289
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 89
+forks: 90
 pushed_at: "2026-06-14T00:57:27Z"
 ---
 ## What it is

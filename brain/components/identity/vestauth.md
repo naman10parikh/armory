@@ -8,7 +8,7 @@ source_url: https://github.com/vestauth/vestauth
 license: BSD-3-Clause
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 166
+stars: 171
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

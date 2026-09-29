@@ -8,13 +8,13 @@ source_url: https://github.com/ceeyang/zentao_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-07-06T06:02:15Z"
+forks: 3
+pushed_at: "2026-09-07T17:26:13Z"
 ---
 ## What it is
 MCP server for Zentao that reads bugs, extracts reproduction steps, and allows AI to update bug status after fixing.

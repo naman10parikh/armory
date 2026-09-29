@@ -8,13 +8,13 @@ source_url: https://github.com/mlflow/mlflow
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 27768
+stars: 28182
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, tracing, experiment-tracking]
-forks: 6246
-pushed_at: "2026-09-02T03:05:05Z"
+forks: 6388
+pushed_at: "2026-09-29T13:06:57Z"
 ---
 ## What it is
 MLflow's LLM tracing module instruments model calls, agent steps, and tool invocations, storing them alongside experiment runs for reproducibility.

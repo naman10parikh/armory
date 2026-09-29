@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T22:38:08Z"
+pushed_at: "2026-09-04T07:22:02Z"
 ---
 ## What it is
 Provides a feed of x402/L402 services newly listed on 402index.io within a caller-specified recency window, with filtering by protocol, category, and payment network.

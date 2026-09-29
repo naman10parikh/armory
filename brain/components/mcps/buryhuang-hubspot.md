@@ -8,11 +8,11 @@ source_url: https://github.com/baryhuang/mcp-hubspot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 128
+stars: 129
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 60
+forks: 62
 pushed_at: "2025-11-11T18:22:30Z"
 ---
 ## What it is

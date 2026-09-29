@@ -8,13 +8,13 @@ source_url: https://github.com/OTSkit/OTSkit-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-27T17:44:37Z"
+forks: 1
+pushed_at: "2026-09-24T17:44:32Z"
 ---
 ## What it is
 Stamp, upgrade, and verify Bitcoin timestamps via AI agents using the OpenTimestamps protocol. No API keys required.

@@ -8,11 +8,11 @@ source_url: https://github.com/willtheodore/intervals-icu-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 3
 pushed_at: "2026-05-11T22:19:13Z"
 ---
 ## What it is

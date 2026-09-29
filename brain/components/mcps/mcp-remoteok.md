@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:36:32Z"
+pushed_at: "2026-09-26T21:18:14Z"
 ---
 ## What it is
 Enables users to search and browse remote tech jobs from RemoteOK job board through natural language queries, with no API key required.

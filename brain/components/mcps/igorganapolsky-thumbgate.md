@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 26
-forks: 7
-pushed_at: "2026-09-01T22:34:21Z"
+stars: 27
+forks: 8
+pushed_at: "2026-09-28T22:01:06Z"
 ---
 ## What it is
 MCP server that blocks AI coding agents from repeating mistakes — turns thumbs-up/down feedback into enforced pre-action gates via PreToolUse hooks. Install: `npx thumbgate`.

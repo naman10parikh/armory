@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T23:08:57Z"
+pushed_at: "2026-09-26T02:00:57Z"
 ---
 ## What it is
 Provides MCP tools to verify logical expressions and retrieve decision statistics, with verdicts VALID, INVALID, or UNDECIDED.

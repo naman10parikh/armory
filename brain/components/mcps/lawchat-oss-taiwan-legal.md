@@ -8,12 +8,12 @@ source_url: https://github.com/lawchat-oss/mcp-taiwan-legal-db
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 183
+stars: 195
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 45
-pushed_at: "2026-08-24T16:25:46Z"
+forks: 48
+pushed_at: "2026-09-17T14:20:06Z"
 ---
 ## What it is
 MCP server `Taiwan Legal DB`, catalogued on PulseMCP. Searches Taiwan judicial decisions and laws across 11,700+ statutes.

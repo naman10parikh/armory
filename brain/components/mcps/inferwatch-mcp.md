@@ -8,13 +8,13 @@ source_url: https://github.com/floatsmyboat/inferwatch
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T14:24:27Z"
+pushed_at: "2026-09-24T17:20:54Z"
 ---
 ## What it is
 Enables agents to query real-time and historical metrics for locally served Ollama and vLLM instances, including request rates, latency, token counts, and GPU utilization, over stdio.

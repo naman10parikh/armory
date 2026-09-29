@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T08:17:54Z"
+pushed_at: "2026-09-29T08:18:08Z"
 ---
 ## What it is
 Provides stateless MCP discovery and health tools, and supports current and legacy protocol metadata.

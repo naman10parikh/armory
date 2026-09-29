@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T15:08:03Z"
+pushed_at: "2026-09-26T04:20:40Z"
 ---
 ## What it is
 MCP server for a Markdown-backed knowledge repository, offering tools for searching, retrieving, validating, and authoring records, plus MCP Apps that render dashboards and inline tables in compatible clients.

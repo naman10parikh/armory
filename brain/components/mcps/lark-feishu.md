@@ -8,11 +8,11 @@ source_url: https://github.com/larksuite/lark-openapi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 814
+stars: 839
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 115
+forks: 121
 pushed_at: "2025-08-14T05:39:18Z"
 ---
 ## What it is

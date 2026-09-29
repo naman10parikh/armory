@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-27T21:24:03Z"
+pushed_at: "2026-09-22T19:02:15Z"
 ---
 ## What it is
 MCP-compatible interface for discovering, loading, solving, validating, and inspecting JCGE computable general equilibrium models.

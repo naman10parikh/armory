@@ -8,13 +8,13 @@ source_url: https://github.com/ragmha/apple-books-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-05-13T09:45:15Z"
+pushed_at: "2026-09-13T12:10:27Z"
 ---
 ## What it is
 Enables AI clients to read and write local Apple Books library, collections, and annotations. Supports searching, exporting, and modifying books and highlights via MCP tools.

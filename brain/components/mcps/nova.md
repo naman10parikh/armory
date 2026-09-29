@@ -8,13 +8,13 @@ source_url: https://github.com/bigduu/Nova
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T18:19:21Z"
+pushed_at: "2026-09-22T14:08:00Z"
 ---
 ## What it is
 Gives an LLM agent control of the macOS desktop from a single self-contained Rust binary: Set-of-Mark numbered screenshots, Accessibility-tree clicks with browser-JS fallback for web content, Apple Vision OCR, mouse, keyboard, and clipboard.

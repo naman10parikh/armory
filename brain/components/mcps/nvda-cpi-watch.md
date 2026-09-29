@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-23T13:31:22Z"
+pushed_at: "2026-09-28T22:10:40Z"
 ---
 ## What it is
 MCP server for fetching NVDA earnings and US CPI data, including historical values, market forecasts, and an aggregated trade brief for the next CPI release.

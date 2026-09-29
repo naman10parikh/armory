@@ -8,11 +8,11 @@ source_url: https://github.com/mrgoonie/vnstock-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 102
+stars: 103
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 45
+forks: 44
 pushed_at: "2026-04-01T10:59:13Z"
 ---
 ## What it is

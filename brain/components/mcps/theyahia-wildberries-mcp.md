@@ -8,13 +8,13 @@ source_url: https://github.com/theYahia/wildberries-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-08-18T13:03:38Z"
+forks: 8
+pushed_at: "2026-09-06T08:41:51Z"
 ---
 ## What it is
 Wildberries Seller API MCP server providing 15 tools for managing products, prices, stocks, orders, sales, warehouses, supplies, statistics, feedbacks, and ABC analysis with built-in rate limiting and 409 penalty protection.

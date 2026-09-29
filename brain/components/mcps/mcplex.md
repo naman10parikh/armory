@@ -8,13 +8,13 @@ source_url: https://github.com/ModernOps888/mcplex
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-07-22T12:56:39Z"
+forks: 2
+pushed_at: "2026-09-27T14:47:05Z"
 ---
 ## What it is
 Semantic tool-routing gateway for MCP servers that cuts 70-90% of context tokens, with RBAC, API-key auth, response caching, hot-reload config, and a real-time observability dashboard.

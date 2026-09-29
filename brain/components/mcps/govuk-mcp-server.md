@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-01-20T15:48:38Z"
+pushed_at: "2026-09-19T02:43:56Z"
 ---
 ## What it is
 Provides access to 27 UK government data sources and services, enabling queries about transport, business, healthcare, and more via natural language.

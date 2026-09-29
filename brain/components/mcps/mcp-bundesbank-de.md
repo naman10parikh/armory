@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:45:43Z"
+pushed_at: "2026-09-28T22:28:54Z"
 ---
 ## What it is
 Provides access to Deutsche Bundesbank (Germany's central bank) statistics via the MCP protocol. Enables querying economic data through natural language using ask_pipeworx.

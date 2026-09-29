@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-16T13:05:23Z"
+pushed_at: "2026-09-08T21:24:35Z"
 ---
 ## What it is
 An autonomous multi-agent orchestration layer that generates a bespoke software engineering organization for a given objective, runs parallel OpenCode workers in isolated git worktrees, and integrates reviewed code through a replan loop.

@@ -8,12 +8,12 @@ source_url: https://github.com/khamel83/argus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-09-02T01:57:01Z"
+forks: 2
+pushed_at: "2026-09-29T10:53:46Z"
 ---
 ## What it is
 MCP server `Argus Search`, catalogued on PulseMCP. Multi-provider web search broker with budget-aware routing, RRF ranking, and content extraction across 11 search providers.

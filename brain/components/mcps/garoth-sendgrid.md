@@ -8,11 +8,11 @@ source_url: https://github.com/garoth/sendgrid-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
+forks: 20
 pushed_at: "2025-02-25T23:45:28Z"
 ---
 ## What it is

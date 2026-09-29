@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T10:15:34Z"
+pushed_at: "2026-09-18T10:14:54Z"
 ---
 ## What it is
 Kāhea is a local-first MCP server that enables coding agents to inspect API descriptions, plan exact requests, grant precise capabilities, and invoke operations with sealed evidence.

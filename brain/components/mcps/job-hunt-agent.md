@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T11:45:22Z"
+pushed_at: "2026-09-11T02:27:06Z"
 ---
 ## What it is
 Private Notion-backed recruitment tracker for AI/LLM engineer job hunting, exposed as an MCP server to manage applications, interviews, and contacts securely.

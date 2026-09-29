@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-28T13:38:38Z"
+pushed_at: "2026-09-16T13:13:26Z"
 ---
 ## What it is
 Connects AI assistants to IT Glue, the MSP documentation platform. Browse organizations, read and write documents and flexible assets, and answer natural-language questions via semantic vector search (OpenAI/Azure embeddings). Viewer/editor/admin roles gate tool access; bring-your-own-key applies IT

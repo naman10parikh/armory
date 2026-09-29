@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-08-31T21:45:37Z"
+pushed_at: "2026-09-29T10:50:33Z"
 ---
 ## What it is
 MCP server `OpenAPI Schema Explorer`, catalogued on PulseMCP. Provides token-efficient access to OpenAPI and Swagger specifications through URI-based references, allowing exploration of API structures without loading entire specs into context windows.

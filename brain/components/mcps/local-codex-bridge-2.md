@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T12:58:24Z"
+pushed_at: "2026-09-05T17:27:37Z"
 ---
 ## What it is
 A Windows proof-of-concept MCP server that connects ChatGPT developer-mode to a local Codex CLI via Secure MCP Tunnel, exposing a small set of read-only, allowlisted tools in an isolated workspace.

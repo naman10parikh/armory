@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-10T07:21:32Z"
+pushed_at: "2026-09-14T15:01:44Z"
 ---
 ## What it is
 A local, file-based bridge that lets an AI client read, draft, validate, and safely write content into an RPG Maker MV project.

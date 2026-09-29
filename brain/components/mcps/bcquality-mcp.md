@@ -8,13 +8,13 @@ source_url: https://github.com/glachana/bcquality-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-18T21:19:26Z"
+pushed_at: "2026-09-08T09:43:32Z"
 ---
 ## What it is
 Exposes Microsoft BCQuality repository (Business Central development best practices) as structured tools for AI agents, enabling rule discovery, search, and application via MCP protocol.

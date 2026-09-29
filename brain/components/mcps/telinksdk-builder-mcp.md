@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T03:30:02Z"
+pushed_at: "2026-09-14T05:29:09Z"
 ---
 ## What it is
 Build/flash/debug any Telink embedded SDK via natural language. MCP server with 8 tools for build, serial capture, and firmware flashing via bdt.exe.

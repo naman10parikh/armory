@@ -8,13 +8,13 @@ source_url: https://github.com/alyiox/mcp-mssql
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T03:38:51Z"
+forks: 1
+pushed_at: "2026-09-23T00:52:55Z"
 ---
 ## What it is
 A read-only MCP server for Microsoft SQL Server that enables metadata discovery, parameterized queries, and query analysis with profile-based configuration and strict no-DML/DDL enforcement.

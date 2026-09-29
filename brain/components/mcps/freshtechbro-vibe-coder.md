@@ -8,11 +8,11 @@ source_url: https://github.com/freshtechbro/vibe-coder-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 101
+stars: 103
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 30
+forks: 31
 pushed_at: "2025-08-21T03:06:59Z"
 ---
 ## What it is

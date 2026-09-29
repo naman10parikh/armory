@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-22T02:21:38Z"
+pushed_at: "2026-09-26T01:36:18Z"
 ---
 ## What it is
 Enables voice captures from a smart ring to search and append notes in a local Obsidian vault and query an OpenAI-compatible AI agent, returning answers as phone notifications.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-24T07:57:42Z"
+pushed_at: "2026-09-07T09:42:33Z"
 ---
 ## What it is
 A local MCP server for grocery shopping, enabling product search, specials, and browsing across NZ supermarkets, with cart and order history for Countdown/Woolworths via browser-assisted login.

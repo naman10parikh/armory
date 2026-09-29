@@ -8,13 +8,13 @@ source_url: https://github.com/andresolbach/nodriver-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T10:17:25Z"
+pushed_at: "2026-09-25T17:41:41Z"
 ---
 ## What it is
 An undetected browser automation MCP server powered by nodriver, enabling AI agents to browse, scrape, and automate Chrome while evading anti-bot detection like Cloudflare. It offers 57 tools for navigation, snapshots, screenshots, session management, and more, with one-command setup for major MCP c

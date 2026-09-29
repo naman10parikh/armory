@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T12:14:52Z"
+pushed_at: "2026-09-06T17:49:05Z"
 ---
 ## What it is
 Enables safe, read-only interaction with Redis databases via cursor-based tools for retrieving keys, hashes, lists, sets, and sorted sets, backed by ACL DRYRUN-verified privilege checks.

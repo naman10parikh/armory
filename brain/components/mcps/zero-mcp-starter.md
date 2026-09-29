@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T14:41:33Z"
+pushed_at: "2026-09-17T12:13:13Z"
 ---
 ## What it is
 A Cloudflare-deployed MCP server providing web search and webpage reading via Jina, plus current weather and forecasts via WeatherAPI, with keys stored securely on the user's account.

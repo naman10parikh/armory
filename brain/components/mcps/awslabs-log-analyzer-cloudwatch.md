@@ -8,7 +8,7 @@ source_url: https://github.com/awslabs/log-analyzer-with-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 167
+stars: 169
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

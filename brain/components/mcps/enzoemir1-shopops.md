@@ -12,8 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-08-20T21:50:54Z"
+forks: 1
+pushed_at: "2026-09-13T14:41:13Z"
 ---
 ## What it is
 MCP server `ShopOps`, catalogued on PulseMCP. AI e-commerce operations for inventory management, pricing, segmentation, and analytics.

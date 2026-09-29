@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-01-30T09:36:21Z"
+pushed_at: "2026-09-21T15:26:43Z"
 ---
 ## What it is
 MCP server `Plainly Videos`, catalogued on PulseMCP. Integrates with Plainly Videos API to browse video templates, customize parameters with type validation, and render videos using After Effects templates for automated video generation workflows.

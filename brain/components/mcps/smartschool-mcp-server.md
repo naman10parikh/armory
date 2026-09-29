@@ -8,13 +8,13 @@ source_url: https://github.com/MauroDruwel/Smartschool-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-06-29T06:54:37Z"
+forks: 5
+pushed_at: "2026-09-28T16:17:06Z"
 ---
 ## What it is
 Connect Claude and other MCP clients to your Smartschool account to ask about grades, assignments, messages, and your schedule in plain language.

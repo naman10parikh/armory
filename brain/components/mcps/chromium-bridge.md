@@ -8,13 +8,13 @@ source_url: https://github.com/dashi96/chromium-bridge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T08:28:39Z"
+pushed_at: "2026-09-25T12:33:18Z"
 ---
 ## What it is
 MCP bridge between Chromium browsers (Arc, Vivaldi, Brave) and Claude Code. 18 browser automation tools (navigate, click, forms, screenshots, GIF recording, console, network) plus a popup chat panel powered by the Claude Agent SDK.

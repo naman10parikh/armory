@@ -8,11 +8,11 @@ source_url: https://github.com/atxp-dev/atxp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 9
 pushed_at: "2026-03-03T20:25:44Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/steel-dev/steel-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 56
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
-pushed_at: "2026-08-27T08:12:06Z"
+forks: 21
+pushed_at: "2026-09-09T10:04:33Z"
 ---
 ## What it is
 MCP server `Steel Puppeteer`, catalogued on PulseMCP. Integrates Puppeteer with Steel SDK for browser automation, enabling complex web interactions and data extraction.

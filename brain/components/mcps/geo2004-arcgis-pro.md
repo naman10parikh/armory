@@ -8,12 +8,12 @@ source_url: https://github.com/geo2004/mcp-arcgispro
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-08-29T07:09:46Z"
+forks: 5
+pushed_at: "2026-09-13T13:23:46Z"
 ---
 ## What it is
 MCP server `ArcGIS Pro`, catalogued on PulseMCP. Bridges Claude Desktop to ArcGIS Pro using natural language for spatial analysis, geoprocessing, and map creation via file-based IPC.

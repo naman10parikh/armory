@@ -8,12 +8,12 @@ source_url: https://github.com/vassiliylakhonin/agenda-intelligence-md
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-01T03:52:59Z"
+pushed_at: "2026-09-28T11:27:01Z"
 ---
 ## What it is
 MCP server `Agenda Intelligence`, catalogued on PulseMCP. Generate auditable strategic-risk memos covering sanctions, regulatory, geopolitical, and trade intelligence.

@@ -8,13 +8,13 @@ source_url: https://github.com/inprimex/otaman-plugin
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T21:00:32Z"
+pushed_at: "2026-09-29T13:19:35Z"
 ---
 ## What it is
 Provides a stdio MCP server for single-user local operation of the otaman platform, enabling agent orchestration, slash commands, and skill management within Claude Code without a remote bridge daemon.

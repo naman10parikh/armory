@@ -8,13 +8,13 @@ source_url: https://github.com/tengolabs/killbottleneck
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T22:21:30Z"
+pushed_at: "2026-09-29T11:43:53Z"
 ---
 ## What it is
 Goal and process maps for humans and AI agents on your own server: agents create and update nodes, manage tasks and automation rules and read the org structure, while people watch the same map live. Connects to your self-hosted killBottleneck instance.

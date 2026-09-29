@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T07:26:19Z"
+pushed_at: "2026-09-19T21:06:25Z"
 ---
 ## What it is
 Query IMF SDMX 3.0 macroeconomic data — hundreds of dataflows across 190 countries, including WEO projections, BOP, CPI, exchange rates, and national accounts — via MCP tools and resources.

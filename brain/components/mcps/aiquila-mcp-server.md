@@ -8,13 +8,13 @@ source_url: https://github.com/elgorro/aiquila
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 34
+stars: 38
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-09-01T21:40:53Z"
+forks: 13
+pushed_at: "2026-09-27T10:05:47Z"
 ---
 ## What it is
 Enables AI assistants to securely read and write files, notes, tasks, bookmarks, projects, and recipes in a self-hosted Nextcloud instance.

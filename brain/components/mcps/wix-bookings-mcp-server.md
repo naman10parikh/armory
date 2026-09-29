@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-27T09:26:51Z"
+pushed_at: "2026-09-09T19:00:12Z"
 ---
 ## What it is
 Enables managing Wix Bookings courses and searching participants through the Wix Bookings API with tools to list services, list formations with participants, get formation participants, and search bookings by name, email, or phone.

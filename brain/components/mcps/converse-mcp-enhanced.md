@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2025-09-25T08:25:14Z"
+pushed_at: "2026-09-23T13:00:51Z"
 ---
 ## What it is
 Multi-model AI conversation MCP for Claude Desktop. Seamlessly integrate with GPT-4, Gemini, xAI, Perplexity, and local models via Ollama.

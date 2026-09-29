@@ -8,11 +8,11 @@ source_url: https://github.com/babelcloud/gbox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 180
+stars: 181
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 50
+forks: 49
 pushed_at: "2026-07-16T01:55:05Z"
 ---
 ## What it is

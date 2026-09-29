@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:30:03Z"
+pushed_at: "2026-09-13T13:03:30Z"
 ---
 ## What it is
 Enables AI agents to query TV and movie metadata from Trakt, including details, trending, popular content, and watch tracking signals through MCP tools.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T13:49:59Z"
+pushed_at: "2026-09-21T07:09:34Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Bit2Me cryptocurrency ecosystem, including real-time market data, wallet management, trading, and products like Earn and Loans.

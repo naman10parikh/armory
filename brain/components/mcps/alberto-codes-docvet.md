@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-14T17:36:02Z"
+pushed_at: "2026-09-13T22:34:27Z"
 ---
 ## What it is
 MCP server `DocVet`, catalogued on PulseMCP. Docstring quality vetting for Python with enrichment, freshness, coverage, and presence checks.

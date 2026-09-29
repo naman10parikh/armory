@@ -15,7 +15,7 @@ related: []
 tags: [glama, mcp]
 mentions: null
 forks: 0
-pushed_at: "2026-08-21T08:08:53Z"
+pushed_at: "2026-09-17T11:34:43Z"
 ---
 ## What it is
 Provides each user in a shared channel with their own authenticated tools (e.g., Gmail, Outlook, GitHub) via Composio's Tool Router, handling per-user OAuth entirely within the chat.

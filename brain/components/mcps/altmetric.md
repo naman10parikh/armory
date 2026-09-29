@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-28T11:11:10Z"
+pushed_at: "2026-09-28T16:12:15Z"
 ---
 ## What it is
 MCP server `Altmetric`, catalogued on PulseMCP. Track research attention across news, policy documents, social media, and online platforms

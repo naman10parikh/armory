@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T20:08:36Z"
+pushed_at: "2026-09-15T19:33:42Z"
 ---
 ## What it is
 MCP server that enables AI assistants to generate images, video, and audio via the FATTLY API.

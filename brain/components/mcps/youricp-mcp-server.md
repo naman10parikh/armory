@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T13:55:12Z"
+pushed_at: "2026-09-16T13:23:00Z"
 ---
 ## What it is
 Enables AI assistants to enrich contacts and build audiences via the YourICP API. Provides tools to set an API token, submit contact lookups by email or LinkedIn URL, and poll for enrichment results.

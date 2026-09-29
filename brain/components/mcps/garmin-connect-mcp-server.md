@@ -8,12 +8,12 @@ source_url: https://github.com/eddmann/garmin-connect-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 61
+stars: 65
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 27
+forks: 31
 pushed_at: "2026-05-20T09:25:23Z"
 ---
 ## What it is

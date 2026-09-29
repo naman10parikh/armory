@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T10:57:08Z"
+pushed_at: "2026-09-22T21:18:54Z"
 ---
 ## What it is
 Enables users to connect to Salesforce and perform CRUD operations, run SOQL/SOSL queries, and manage records through a lightweight MCP server with built-in safety gates for writes.

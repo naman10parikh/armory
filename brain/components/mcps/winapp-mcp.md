@@ -8,7 +8,7 @@ source_url: https://github.com/floatingbrij/desktop-pilot-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 39
+stars: 40
 eval_score: null
 verified_at: 2026-05-27
 related: []

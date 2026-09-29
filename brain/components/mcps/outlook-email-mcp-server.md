@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-16T15:59:02Z"
+pushed_at: "2026-09-24T14:28:32Z"
 ---
 ## What it is
 An MCP server that enables reading and managing Microsoft 365 / Outlook emails through Microsoft Graph API, allowing users to list, search, send, draft, and authenticate using device code flow.

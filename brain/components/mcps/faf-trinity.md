@@ -8,13 +8,13 @@ source_url: https://github.com/Wolfe-Jam/faf-trinity
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T19:20:45Z"
+pushed_at: "2026-09-28T19:42:40Z"
 ---
 ## What it is
 MCP server that exposes project context, persistent memory, and agent identity via FAF formats, providing tools like context-aware callTool, remember/recall, and whoami through file-backed storage.

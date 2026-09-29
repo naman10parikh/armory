@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-24T09:31:30Z"
+pushed_at: "2026-09-08T14:38:12Z"
 ---
 ## What it is
 Enables reading and editing Avo tracking plans through natural language, with skills for designing new plans and working with existing ones.

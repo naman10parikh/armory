@@ -8,13 +8,13 @@ source_url: https://github.com/chrischall/vibo-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T23:36:00Z"
+pushed_at: "2026-09-28T05:08:12Z"
 ---
 ## What it is
 Enables hosts and couples to plan event music using Vibo by browsing events, managing song requests, and exporting selections to Spotify/Apple Music via natural language.

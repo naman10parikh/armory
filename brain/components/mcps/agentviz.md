@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T12:19:55Z"
+pushed_at: "2026-09-08T06:46:17Z"
 ---
 ## What it is
 Enables agents to read and resolve layered feedback, propose and make decisions with evidence, and access trial ledgers and judgment views for experiment-driven work.

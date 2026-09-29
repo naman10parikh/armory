@@ -8,12 +8,12 @@ source_url: https://github.com/tradesdontlie/tradingview-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5956
+stars: 6697
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2597
+forks: 2782
 pushed_at: "2026-07-28T17:28:37Z"
 ---
 ## What it is

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 462
-forks: 59
-pushed_at: "2026-08-30T21:18:43Z"
+stars: 543
+forks: 72
+pushed_at: "2026-09-28T16:01:28Z"
 ---
 ## What it is
 AI-native ontology engineering with 39 tools and 5 prompts for OWL/RDF/SPARQL. Validate, query, diff, lint, version, and govern knowledge graphs via Oxigraph triple store.

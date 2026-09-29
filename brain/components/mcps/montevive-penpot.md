@@ -8,11 +8,11 @@ source_url: https://github.com/montevive/penpot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 237
+stars: 241
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
+forks: 29
 pushed_at: "2025-11-01T09:19:10Z"
 ---
 ## What it is

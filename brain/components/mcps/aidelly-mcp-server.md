@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T18:19:10Z"
+pushed_at: "2026-09-02T13:52:39Z"
 ---
 ## What it is
 Automate Aidelly social media management directly from Claude Code. Create, schedule, and manage posts across all connected platforms with AI-powered MCP tools.

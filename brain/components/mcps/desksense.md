@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T13:53:39Z"
+pushed_at: "2026-09-29T07:14:38Z"
 ---
 ## What it is
 A read-only Windows MCP server that gives AI assistants awareness of the current PC state, including open applications, focus, idle status, and system metrics.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-23T02:07:06Z"
+pushed_at: "2026-09-23T17:58:02Z"
 ---
 ## What it is
 An MCP server that lets an agent inspect and operate a Kubernetes / k3s cluster safely, with read-only and namespace allowlist controls.

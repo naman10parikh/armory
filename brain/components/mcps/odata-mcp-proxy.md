@@ -8,12 +8,12 @@ source_url: https://github.com/lemaiwo/odata-mcp-proxy
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 31
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
+forks: 16
 pushed_at: "2026-08-12T05:31:59Z"
 ---
 ## What it is

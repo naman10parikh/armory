@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T18:33:34Z"
+pushed_at: "2026-09-23T11:53:22Z"
 ---
 ## What it is
 Enables AI assistants to interact with conda CLI commands through the Model Context Protocol, providing structured tools for built-in and plugin commands while enforcing configurable read-only, write, and exec policies.

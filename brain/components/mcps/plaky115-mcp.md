@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T23:53:14Z"
+pushed_at: "2026-09-28T03:24:35Z"
 ---
 ## What it is
 MCP server for the Plaky project management API. Provides 32 generated and 7 curated tools for spaces, boards, items, comments, and more, with safe defaults and dry-run mutations.

@@ -8,12 +8,12 @@ source_url: https://github.com/freema/mcp-gsheets
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 97
+stars: 100
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 22
-pushed_at: "2026-08-17T05:54:58Z"
+forks: 23
+pushed_at: "2026-09-20T05:53:16Z"
 ---
 ## What it is
 MCP server `Google Sheets`, catalogued on PulseMCP. Reads and writes Google Sheets data via the Google Sheets API.

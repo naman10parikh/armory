@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T16:34:05Z"
+pushed_at: "2026-09-12T15:12:25Z"
 ---
 ## What it is
 Enables natural language queries about financial accounts, net worth, transactions, and asset allocation via the Empower/Personal Capital API.

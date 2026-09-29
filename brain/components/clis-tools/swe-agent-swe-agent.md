@@ -8,14 +8,14 @@ source_url: https://github.com/SWE-agent/SWE-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 20190
+stars: 20446
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 2209
-pushed_at: "2026-08-31T22:23:17Z"
+forks: 2239
+pushed_at: "2026-09-28T22:56:26Z"
 ---
 ## What it is
 SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T18:12:05Z"
+pushed_at: "2026-09-12T07:52:53Z"
 ---
 ## What it is
 MCP server that connects AI coding assistants to a live Godot editor, enabling scene, node, script, resource, runtime, debugger, and test workflows through natural language.

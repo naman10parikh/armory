@@ -8,13 +8,13 @@ source_url: https://github.com/Luo-Lotus/ComfyUI-APP-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-08-28T18:07:49Z"
+forks: 4
+pushed_at: "2026-09-27T11:59:37Z"
 ---
 ## What it is
 A custom node plugin for ComfyUI that encapsulates workflows as templates, enabling AI assistants (Claude, Cursor) to invoke ComfyUI for multimedia generation via the MCP protocol.

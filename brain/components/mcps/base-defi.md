@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-19T00:53:08Z"
+pushed_at: "2026-09-02T19:55:19Z"
 ---
 ## What it is
 MCP server to fetch DeFi yield opportunities on Base chain, including Aerodrome LP and Moonwell lending, with pay-per-call via x402 micropayments.

@@ -8,12 +8,12 @@ source_url: https://github.com/AuthBits/webmcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 139
+stars: 140
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 19
+forks: 21
 pushed_at: "2026-04-10T20:28:06Z"
 mentions: null
 ---

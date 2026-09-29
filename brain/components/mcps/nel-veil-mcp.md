@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T02:26:33Z"
+pushed_at: "2026-09-04T00:53:28Z"
 ---
 ## What it is
 Enables AI agents to perform passive security scans on domains, checking email spoofing (DMARC/SPF/DKIM), TLS weaknesses, security headers, exposed files, and subdomain-takeover risk without needing an API key.

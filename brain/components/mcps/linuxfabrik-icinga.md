@@ -8,12 +8,12 @@ source_url: https://github.com/linuxfabrik/mcp-server-icinga
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-28T17:18:21Z"
+pushed_at: "2026-09-25T10:07:59Z"
 ---
 ## What it is
 MCP server `Icinga`, catalogued on PulseMCP. Bridge AI assistants to Icinga monitoring infrastructure for live host checks, acknowledgements, and downtimes.

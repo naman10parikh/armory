@@ -8,12 +8,12 @@ source_url: https://github.com/ykarapazar/word-mcp-live
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 201
+stars: 226
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 38
+forks: 43
 pushed_at: "2026-05-29T08:11:14Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/n24q02m/mnemo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-09-02T00:50:04Z"
+forks: 6
+pushed_at: "2026-09-29T01:18:05Z"
 ---
 ## What it is
 MCP server `Mnemo`, catalogued on PulseMCP. Persistent AI memory with hybrid search (FTS5 + semantic) and cross-machine sync.

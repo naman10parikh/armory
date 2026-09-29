@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T19:35:52Z"
+pushed_at: "2026-09-07T20:14:46Z"
 ---
 ## What it is
 Exact French real-estate legal calculations for AI agents: IRL rent revision, service-charge reconciliation, compliant rent receipts — legal basis included in every answer.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T21:01:42Z"
+pushed_at: "2026-09-29T04:44:01Z"
 ---
 ## What it is
 Exposes Docusaurus documentation and OpenAPI specs as an MCP server, enabling AI agents to search docs and inspect API endpoints.

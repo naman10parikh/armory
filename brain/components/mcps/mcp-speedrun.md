@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:42:44Z"
+pushed_at: "2026-09-26T21:42:21Z"
 ---
 ## What it is
 Enables AI agents to query Speedrun.com data through the official API, supporting tools for retrieving game, run, and leaderboard information.

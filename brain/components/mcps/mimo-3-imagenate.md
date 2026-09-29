@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-09T13:50:00Z"
+pushed_at: "2026-09-29T07:04:49Z"
 ---
 ## What it is
 MCP server `Imagenate`, catalogued on PulseMCP. Multi-provider image generation supporting Google Gemini, OpenAI gpt-image, and BFL FLUX models with configurable resolution and aspect ratios.

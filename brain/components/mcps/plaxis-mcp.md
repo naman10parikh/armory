@@ -8,12 +8,12 @@ source_url: https://github.com/yixuanzhong/PLAXIS-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 3
 pushed_at: "2026-08-06T02:04:00Z"
 ---
 ## What it is

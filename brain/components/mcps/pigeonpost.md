@@ -8,13 +8,13 @@ source_url: https://github.com/bekirdag/pigeonpost
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T19:11:45Z"
+pushed_at: "2026-09-29T10:19:31Z"
 ---
 ## What it is
 Provides asynchronous messaging infrastructure for AI agents, enabling them to get permanent addresses and send/receive encrypted messages via MCP tools.

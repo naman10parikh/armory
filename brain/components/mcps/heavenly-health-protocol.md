@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T22:26:53Z"
+pushed_at: "2026-09-29T12:05:43Z"
 ---
 ## What it is
 Enables AI clients to securely access, query, and mutate normalized user-controlled health data (e.g., from Apple Health or Supabase) through a bounded set of MCP tools, with optional OAuth and sandboxed deployment.

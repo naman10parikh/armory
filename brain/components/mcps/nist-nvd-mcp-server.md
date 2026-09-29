@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2025-06-08T15:03:39Z"
+pushed_at: "2026-09-20T12:01:36Z"
 ---
 ## What it is
 Enables AI agents to search, retrieve, and analyze vulnerability data from the NIST National Vulnerability Database through a comprehensive Model Context Protocol server.

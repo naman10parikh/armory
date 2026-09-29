@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-17T10:54:10Z"
+pushed_at: "2026-09-07T12:32:22Z"
 ---
 ## What it is
 Runs an entire shared-expense split from an assistant: create one, add what each person paid (equally, by weighted shares or exact amounts), record paybacks, and read back who owes whom as the fewest transfers. Eleven tools covering the whole lifecycle, with no account and no API key — people are re

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:30:16Z"
+pushed_at: "2026-09-26T22:00:58Z"
 ---
 ## What it is
 Provides current US travel advisories for countries by name or State Department code.

@@ -8,12 +8,12 @@ source_url: https://github.com/openai/simple-evals
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 4621
+stars: 4645
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, benchmark, mmlu, simple]
-forks: 509
+forks: 513
 pushed_at: "2026-04-22T22:16:18Z"
 ---
 ## What it is

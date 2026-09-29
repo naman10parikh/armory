@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T07:36:35Z"
+pushed_at: "2026-09-07T12:34:53Z"
 ---
 ## What it is
 Classifies product descriptions to official HS codes and validates supplier-provided codes using government tariff schedules via the HSPing API.

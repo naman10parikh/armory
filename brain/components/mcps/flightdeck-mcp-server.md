@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T20:57:04Z"
+pushed_at: "2026-09-29T03:52:25Z"
 ---
 ## What it is
 Enables AI clients to manage Flightdeck projects, work items, cycles, modules, and comments via the Flightdeck REST API.

@@ -8,11 +8,11 @@ source_url: https://github.com/rootnix/oh-my-stock-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-05-18T14:59:51Z"
 ---
 ## What it is

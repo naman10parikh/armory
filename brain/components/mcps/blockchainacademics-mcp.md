@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T06:10:58Z"
+pushed_at: "2026-09-29T13:07:02Z"
 ---
 ## What it is
 An MCP server offering 99 tools for AI agents to access crypto editorial content, market data, on-chain analytics, sentiment, and proprietary indicators, with citations and time-stamped responses.

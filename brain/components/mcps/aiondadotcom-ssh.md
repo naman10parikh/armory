@@ -8,11 +8,11 @@ source_url: https://github.com/aiondadotcom/mcp-ssh
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 96
+stars: 100
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
+forks: 19
 pushed_at: "2026-08-10T14:34:30Z"
 ---
 ## What it is

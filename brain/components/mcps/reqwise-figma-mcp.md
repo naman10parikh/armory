@@ -8,13 +8,13 @@ source_url: https://github.com/hoangpm96/reqwise-figma-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 26
+stars: 86
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
-pushed_at: "2026-07-20T16:18:18Z"
+forks: 37
+pushed_at: "2026-09-18T08:56:23Z"
 ---
 ## What it is
 Enables AI agents to read and draw on Figma canvas safely, with built-in safeguards for layout, overlays, and verification.

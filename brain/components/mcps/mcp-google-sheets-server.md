@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2025-08-25T08:47:34Z"
+pushed_at: "2026-09-02T17:03:18Z"
 ---
 ## What it is
 Enables professional Google Sheets management with 40+ tools for sheet operations, formatting, charts, and enterprise features.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-02-17T02:14:04Z"
+pushed_at: "2026-09-21T11:31:03Z"
 ---
 ## What it is
 Enables AI assistants to programmatically create and manage information flow diagrams — information items and information flows in StarUML.

@@ -8,13 +8,13 @@ source_url: https://github.com/sena-labs/OzBridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T13:37:27Z"
+pushed_at: "2026-09-21T04:17:05Z"
 ---
 ## What it is
 Bridges Warp's Oz coding agent to any IDE or MCP client (Claude Code, Cursor, Codex), plus native @oz in VS Code Copilot Chat. Cross-platform (macOS/Linux/Windows), independent project using only Warp's documented public oz CLI + MCP interfaces.

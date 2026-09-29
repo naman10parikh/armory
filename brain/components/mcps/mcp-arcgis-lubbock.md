@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:38:49Z"
+pushed_at: "2026-09-25T21:51:17Z"
 ---
 ## What it is
 Enables querying City of Lubbock open geospatial data (parcels, zoning, public works) through ArcGIS Feature Services, including searching datasets, querying layers with SQL-like filters, and retrieving schema info.

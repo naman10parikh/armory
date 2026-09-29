@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T12:16:44Z"
+pushed_at: "2026-09-28T12:28:59Z"
 ---
 ## What it is
 Enables AI agents to configure audio hosting on AudioDN through MCP tools, including knowledge tools for accurate API usage.

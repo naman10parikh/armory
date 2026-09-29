@@ -8,13 +8,13 @@ source_url: https://github.com/renefichtmueller/PaperCortex
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-07-19T06:19:02Z"
+pushed_at: "2026-09-24T05:25:57Z"
 ---
 ## What it is
 An MCP server that adds AI-powered document intelligence to Paperless-ngx, enabling semantic search, automatic classification, receipt data extraction, bank statement matching, and accounting export — all running locally via Ollama.

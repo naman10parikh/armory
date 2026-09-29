@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T15:45:07Z"
+pushed_at: "2026-09-28T05:13:40Z"
 ---
 ## What it is
 Enables users to retrieve live job postings from any iCIMS career site, providing structured data including title, requisition ID, employer, locations, employment type, dates, salary, and apply links.

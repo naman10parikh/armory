@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-05-08T14:15:15Z"
+pushed_at: "2026-09-06T18:55:54Z"
 ---
 ## What it is
 MCP server `HashNet`, catalogued on PulseMCP. Universal AI agent discovery - search agents across MCP, NANDA, A2A, and OpenRouter protocols

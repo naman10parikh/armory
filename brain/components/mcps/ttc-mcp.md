@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T21:45:00Z"
+pushed_at: "2026-09-20T12:59:52Z"
 ---
 ## What it is
 A Model Context Protocol server for Toronto Transit Commission (TTC) that exposes subway, streetcar, and bus schedules, real-time arrivals, vehicle positions, and service alerts, plus multi-modal trip planning.

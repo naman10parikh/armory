@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T17:07:21Z"
+pushed_at: "2026-09-27T17:47:44Z"
 ---
 ## What it is
 Connects AI clients like VS Code Copilot and Claude Desktop to Microsoft Dynamics 365 Business Central via the Cloud Events API.

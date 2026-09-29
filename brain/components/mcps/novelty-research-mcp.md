@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T08:34:04Z"
+pushed_at: "2026-09-22T09:56:49Z"
 ---
 ## What it is
 Enables source-grounded prior-art and novelty research by searching patents, publications, and the web in one run, verifying evidence levels, and returning a structured report.

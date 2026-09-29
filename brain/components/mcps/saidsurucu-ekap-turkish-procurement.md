@@ -8,12 +8,12 @@ source_url: https://github.com/saidsurucu/ihale-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 98
+stars: 102
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
-pushed_at: "2026-08-26T18:56:36Z"
+forks: 14
+pushed_at: "2026-09-18T15:51:06Z"
 ---
 ## What it is
 MCP server `EKAP v2 (Turkish Government Procurement)`, catalogued on PulseMCP. Integrates with Turkey's EKAP v2 government procurement API to search public tenders, announcements, and procurement classifications with filtering for tender characteristics and geographic regions.

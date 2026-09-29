@@ -8,13 +8,13 @@ source_url: https://github.com/SerifeusStudio/rpgmaker-xp-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-12T22:13:50Z"
+forks: 2
+pushed_at: "2026-09-16T00:08:10Z"
 ---
 ## What it is
 MCP server that reads and writes RPG Maker XP project .rxdata files, enabling AI assistants to create and edit actors, items, skills, maps, events, and scripts, and render map previews, by describing what you want.

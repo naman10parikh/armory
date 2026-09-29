@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T11:56:59Z"
+pushed_at: "2026-09-29T04:18:29Z"
 ---
 ## What it is
 Provides a read-only MCP server to access ChatGPT conversation history via a local browser process. Allows AI clients to list, get, and search conversations from the authenticated user's ChatGPT account.

@@ -8,13 +8,13 @@ source_url: https://github.com/ruvnet/dynamo-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 52
+stars: 53
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 15
-pushed_at: "2025-04-26T15:17:36Z"
+pushed_at: "2026-09-11T01:37:04Z"
 ---
 ## What it is
 Exposes cookiecutter templates through MCP, enabling discovery, registration, management, and project generation from templates.

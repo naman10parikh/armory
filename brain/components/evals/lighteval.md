@@ -8,13 +8,13 @@ source_url: https://github.com/huggingface/lighteval
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 2533
+stars: 2549
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, huggingface, benchmark, lightweight]
-forks: 553
-pushed_at: "2026-08-11T13:10:37Z"
+forks: 560
+pushed_at: "2026-09-29T13:20:47Z"
 ---
 ## What it is
 Hugging Face lightweight evaluation library for LLMs across academic benchmarks, with fast local and remote inference support.

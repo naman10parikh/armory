@@ -8,11 +8,11 @@ source_url: https://github.com/marco-looy/pega-dx-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2026-03-24T15:20:56Z"
 ---
 ## What it is

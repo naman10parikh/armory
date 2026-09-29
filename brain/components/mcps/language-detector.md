@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:35Z"
+pushed_at: "2026-09-02T19:56:37Z"
 ---
 ## What it is
 Enables AI agents to identify what language text is written in, returning top matches, confidence scores, script detection, and character statistics via a pay-per-call x402 API without requiring an API key.

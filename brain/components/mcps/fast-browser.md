@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T14:09:19Z"
+pushed_at: "2026-09-29T01:57:16Z"
 ---
 ## What it is
 Fast Browser is an MCP server that lets Claude Code and Codex drive an existing Chrome browser with your real profile, logins, and tabs, using a macro library for multi-step flows in single tool calls and supporting concurrent agents with isolated tab groups.

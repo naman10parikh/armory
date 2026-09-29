@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-06-18T08:51:23Z"
+forks: 1
+pushed_at: "2026-09-21T21:09:22Z"
 ---
 ## What it is
 Provides AI assistants with verified regulatory data from 850+ official sources across 50+ jurisdictions, enabling accurate compliance research.

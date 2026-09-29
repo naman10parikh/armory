@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T16:42:57Z"
+pushed_at: "2026-09-25T20:31:53Z"
 ---
 ## What it is
 MCP server and CLI for Gotify that lets agents send push notifications, check server health, list messages, and manage Gotify apps and clients over stdio or streamable HTTP, with authentication support.

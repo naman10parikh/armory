@@ -8,11 +8,11 @@ source_url: https://github.com/jasonjmcghee/webmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 789
+stars: 874
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 52
+forks: 53
 pushed_at: "2026-02-15T21:48:57Z"
 ---
 ## What it is

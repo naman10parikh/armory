@@ -8,13 +8,13 @@ source_url: https://github.com/egm7126/simpleMemo-releases
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T04:46:06Z"
+pushed_at: "2026-09-20T19:01:07Z"
 ---
 ## What it is
 A local MCP server that enables AI tools to find and propose changes to Jelly Memo notes, running only on 127.0.0.1:8765 with optional pairing token for security.

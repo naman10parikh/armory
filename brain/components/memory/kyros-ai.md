@@ -8,14 +8,14 @@ source_url: https://github.com/Kyros-494/kyros-ai
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 96
+stars: 94
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
 forks: 2
-pushed_at: "2026-09-02T15:03:47Z"
+pushed_at: "2026-09-08T21:56:55Z"
 ---
 ## What it is
 Use when the agent's memory needs to resolve its own contradictions and forget on a schedule.

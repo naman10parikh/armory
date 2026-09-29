@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:51:18Z"
+pushed_at: "2026-09-26T22:33:06Z"
 ---
 ## What it is
 MCP server `ZenQuotes`, catalogued on PulseMCP. Inspirational quotes via the ZenQuotes API — fetch random quotes, quotes by author, and today's featured quote.

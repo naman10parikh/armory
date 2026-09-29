@@ -8,11 +8,11 @@ source_url: https://github.com/philschmid/gemini-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
+forks: 11
 pushed_at: "2025-06-13T13:47:54Z"
 ---
 ## What it is

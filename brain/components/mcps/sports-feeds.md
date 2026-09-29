@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:42:56Z"
+pushed_at: "2026-09-26T21:42:52Z"
 ---
 ## What it is
 Enables AI agents to browse curated sports news feeds, read feed items, and fetch any RSS/Atom/RDF feed with normalization.

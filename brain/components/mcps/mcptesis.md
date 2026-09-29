@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T23:20:35Z"
+pushed_at: "2026-09-04T20:17:26Z"
 ---
 ## What it is
 Read-only MCP server exposing a fleet management PostgreSQL database via schema introspection and safe SELECT query tools, enabling natural language question answering about fleet data.

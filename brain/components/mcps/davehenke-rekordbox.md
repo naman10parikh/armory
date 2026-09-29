@@ -8,11 +8,11 @@ source_url: https://github.com/davehenke/rekordbox-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 94
+stars: 108
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 17
 pushed_at: "2026-04-15T10:56:13Z"
 ---
 ## What it is

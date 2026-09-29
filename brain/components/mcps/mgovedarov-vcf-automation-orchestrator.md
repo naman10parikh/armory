@@ -8,12 +8,12 @@ source_url: https://github.com/mgovedarov/mcp-vcf-orchestrator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-01T02:39:15Z"
+pushed_at: "2026-09-17T13:27:52Z"
 ---
 ## What it is
 MCP server `VCF Automation Orchestrator`, catalogued on PulseMCP. MCP server exposing VMware VCF Automation Orchestrator REST API operations for managing workflows, actions, and subscriptions via AI assistants.

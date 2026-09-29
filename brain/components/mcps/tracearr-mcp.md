@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T07:44:15Z"
+pushed_at: "2026-09-08T07:45:53Z"
 ---
 ## What it is
 MCP server exposing Tracearr's Public API v2 as read-only tools to query Plex, Jellyfin, and Emby monitoring data such as watch history, active streams, media, users, libraries, and recently added items.

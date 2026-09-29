@@ -8,13 +8,13 @@ source_url: https://github.com/lizard-build/lizard-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T13:05:43Z"
+pushed_at: "2026-09-24T13:50:52Z"
 ---
 ## What it is
 Enables deploying and managing apps on Lizard via natural language, covering services, deploys, logs, secrets, domains, and configuration as code.

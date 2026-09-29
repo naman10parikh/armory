@@ -8,11 +8,11 @@ source_url: https://github.com/talosdeus/wiki-js-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 29
+forks: 30
 pushed_at: "2025-06-01T09:34:07Z"
 ---
 ## What it is

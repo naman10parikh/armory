@@ -8,7 +8,7 @@ source_url: https://github.com/harshkedia177/axon
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 807
+stars: 814
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

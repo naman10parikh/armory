@@ -8,12 +8,12 @@ source_url: https://github.com/cyanheads/arxiv-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-22T14:11:05Z"
+pushed_at: "2026-09-19T15:45:34Z"
 ---
 ## What it is
 MCP server `arXiv by cyanheads`, catalogued on PulseMCP. Search arXiv papers, fetch metadata in batch, read full HTML content, and browse the category taxonomy.

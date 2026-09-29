@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T21:07:01Z"
+pushed_at: "2026-09-29T04:28:52Z"
 ---
 ## What it is
 Read-only MCP server for CareMan Dienstplan that exposes REST API as tools for LLMs to query duty rosters, shift requests, vacant duties, and shift swaps.

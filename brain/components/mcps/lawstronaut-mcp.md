@@ -8,13 +8,13 @@ source_url: https://github.com/Lawstronaut-FZCO/lawstronaut-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-15T12:03:52Z"
+pushed_at: "2026-09-04T10:28:07Z"
 ---
 ## What it is
 Connects AI agents to 50+ million laws and court cases across 150+ jurisdictions via the Model Context Protocol.

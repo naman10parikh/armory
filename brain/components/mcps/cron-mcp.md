@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T16:53:18Z"
+pushed_at: "2026-09-29T03:50:44Z"
 ---
 ## What it is
 Enables AI agents to parse, validate, explain, and preview cron expressions, surfacing common silent bugs before deployment.

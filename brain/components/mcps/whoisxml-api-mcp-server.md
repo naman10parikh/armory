@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T19:29:54Z"
+pushed_at: "2026-09-08T06:49:22Z"
 ---
 ## What it is
 The official WhoisXML API MCP server providing 32 first-party tools for WHOIS, DNS, IP geolocation, threat intelligence, typosquatting, email verification, and native bulk lookups.

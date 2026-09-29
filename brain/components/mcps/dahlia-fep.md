@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-03-23T13:50:02Z"
+pushed_at: "2026-09-06T07:17:36Z"
 ---
 ## What it is
 MCP server `FEP (Fediverse Enhancement Proposals)`, catalogued on PulseMCP. Access and search Fediverse Enhancement Proposals standardization documents

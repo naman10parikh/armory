@@ -8,12 +8,12 @@ source_url: https://github.com/spranab/brainstorm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 69
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
-pushed_at: "2026-09-01T14:21:29Z"
+forks: 8
+pushed_at: "2026-09-25T19:20:37Z"
 ---
 ## What it is
 MCP server `Brainstorm`, catalogued on PulseMCP. Multi-model orchestration for debates and code reviews across GPT, Gemini, DeepSeek, and Claude with synthesis.

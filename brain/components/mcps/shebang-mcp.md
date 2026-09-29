@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T08:48:55Z"
+pushed_at: "2026-09-08T07:30:30Z"
 ---
 ## What it is
 An MCP server and CLI for hosting pages, sharing files, creating short links, running Postgres databases, and managing API keys through a single shebang.pro account key.

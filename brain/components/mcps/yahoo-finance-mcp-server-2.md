@@ -8,13 +8,13 @@ source_url: https://github.com/danishashko/yahoo-finance-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-08-06T15:44:58Z"
+forks: 5
+pushed_at: "2026-09-04T11:50:06Z"
 ---
 ## What it is
 Provides real-time stock market data for Claude Desktop and MCP-compatible clients, enabling natural language queries for quotes, historical prices, company profiles, financial statements, analyst ratings, comparisons, news, options, holdings, dividends, estimates, symbol search, and market status.

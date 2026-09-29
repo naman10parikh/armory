@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:32:49Z"
+pushed_at: "2026-09-26T22:10:50Z"
 ---
 ## What it is
 Provides access to the USGS Earthquake Catalog for querying earthquake events via the FDSNWS API, enabling natural language questions about earthquake data.

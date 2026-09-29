@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T14:40:45Z"
+pushed_at: "2026-09-10T13:51:25Z"
 ---
 ## What it is
 Connects MCP-compatible AI assistants to NetSuite ERP with easy OAuth setup. Provides tools for records, SuiteQL, saved searches, reports, and metadata.

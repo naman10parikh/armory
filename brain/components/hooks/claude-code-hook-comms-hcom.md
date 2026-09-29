@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [britfix, cc-notify]
 tags: [claude-code, hooks]
-stars: 470
-forks: 70
-pushed_at: "2026-08-09T16:52:44Z"
+stars: 529
+forks: 82
+pushed_at: "2026-09-29T12:46:37Z"
 ---
 ## What it is
 A lightweight CLI tool for real-time communication between Claude Code sub-agents through hooks, with @-mention targeting, a live monitoring dashboard and no dependencies. It was described as unstable when it was listed.

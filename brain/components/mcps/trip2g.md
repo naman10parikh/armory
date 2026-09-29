@@ -8,13 +8,13 @@ source_url: https://github.com/trip2g/trip2g
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 37
+stars: 39
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-02T02:07:19Z"
+pushed_at: "2026-09-29T12:18:29Z"
 ---
 ## What it is
 Self-hosted knowledge mesh with built-in MCP server enabling AI agents to search and retrieve notes across federated hubs.

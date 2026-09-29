@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T03:22:34Z"
+pushed_at: "2026-09-10T04:24:19Z"
 ---
 ## What it is
 Enables AI assistants to control the Unity Editor via MCP, allowing scene manipulation, asset management, compilation, and testing through natural language.

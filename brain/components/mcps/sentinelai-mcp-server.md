@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T18:34:54Z"
+pushed_at: "2026-09-16T13:46:37Z"
 ---
 ## What it is
 Enables secure enterprise AI agents to access internal tools like GitHub, Gmail, Calendar, file systems, databases, and knowledge bases through the Model Context Protocol, with built-in security, audit, and observability.

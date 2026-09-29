@@ -8,12 +8,12 @@ source_url: https://github.com/omichelbraga/pnetlab-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-07-10T20:29:40Z"
 ---
 ## What it is

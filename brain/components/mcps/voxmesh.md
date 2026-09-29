@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T06:16:57Z"
+pushed_at: "2026-09-10T18:39:52Z"
 ---
 ## What it is
 Enables voice-first interactions with AI agents and MCP tools, supporting speech input/output, STT/TTS, and a provider-independent agent core.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T10:57:36Z"
+pushed_at: "2026-09-27T14:54:49Z"
 ---
 ## What it is
 Official MCP server connecting hosts to a June knowledge graph for agent memory, search, and cited answers.

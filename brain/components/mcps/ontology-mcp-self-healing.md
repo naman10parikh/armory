@@ -8,7 +8,7 @@ source_url: https://github.com/cloudbadal007/ontology-mcp-self-healing
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T07:54:09Z"
+pushed_at: "2026-09-16T07:53:27Z"
 ---
 ## What it is
 Enables AI agents to query and manage campground reservations, sites, and rate plans via the Campspot Online Booking API.

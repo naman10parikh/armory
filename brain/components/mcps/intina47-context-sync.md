@@ -8,11 +8,11 @@ source_url: https://github.com/intina47/context-sync
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 191
+stars: 190
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
+forks: 19
 pushed_at: "2026-04-11T12:48:15Z"
 ---
 ## What it is

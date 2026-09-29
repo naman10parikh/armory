@@ -8,12 +8,12 @@ source_url: https://github.com/cyanheads/wikipedia-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-25T07:29:47Z"
+pushed_at: "2026-09-23T00:55:07Z"
 ---
 ## What it is
 MCP server `Wikipedia`, catalogued on PulseMCP. Search Wikipedia, read summaries and full text, target sections, find nearby pages, list languages.

@@ -8,11 +8,11 @@ source_url: https://github.com/mufeng05/ida-auto-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2026-07-24T13:55:24Z"
 ---
 ## What it is

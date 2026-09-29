@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:36:12Z"
+pushed_at: "2026-09-26T21:16:07Z"
 ---
 ## What it is
 Enables searching LEGO sets and parts via the Rebrickable API.

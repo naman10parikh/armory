@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:51:03Z"
+pushed_at: "2026-09-24T22:27:54Z"
 ---
 ## What it is
 MCP server `Countries`, catalogued on PulseMCP. Retrieves comprehensive country data including demographics, geography, currencies, and flags from the REST Countries API.

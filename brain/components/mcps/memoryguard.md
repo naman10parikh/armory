@@ -8,13 +8,13 @@ source_url: https://github.com/irisxc4/memoryguard
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T03:52:51Z"
+pushed_at: "2026-09-28T07:06:27Z"
 ---
 ## What it is
 A local-first MCP memory layer for coding agents that automatically organizes shared memory writes and provides a governance console for inspection, correction, and rollback.
