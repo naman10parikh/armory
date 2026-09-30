@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T07:08:04Z"
+pushed_at: "2026-09-30T02:10:19Z"
 ---
 ## What it is
 Provides tools for named entity extraction, Wikidata disambiguation, sameAs schema linking, and knowledge graph triple construction, enabling structured semantic data processing.

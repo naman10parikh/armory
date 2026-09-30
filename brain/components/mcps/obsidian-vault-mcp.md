@@ -8,12 +8,12 @@ source_url: https://github.com/luffysolution-svg/obsidian-vault-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 80
+stars: 90
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 7
 pushed_at: "2026-08-11T06:56:17Z"
 ---
 ## What it is

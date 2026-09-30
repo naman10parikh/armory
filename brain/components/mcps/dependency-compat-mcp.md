@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T17:45:57Z"
+pushed_at: "2026-09-06T14:54:24Z"
 ---
 ## What it is
 MCP server that evaluates compatibility between exact versions of packages and runtimes using official evidence, returning structured verdicts (supported/unsupported/unknown) with sources and limitations.

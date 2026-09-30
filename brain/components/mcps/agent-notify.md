@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-18T03:35:26Z"
+pushed_at: "2026-09-05T03:33:44Z"
 ---
 ## What it is
 Enables AI agents and applications to send audio notifications with text-to-speech, message streaming, agent-to-agent conversations, and web push notifications through a persistent message store and MCP integration.

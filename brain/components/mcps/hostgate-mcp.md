@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T07:43:38Z"
+pushed_at: "2026-09-27T02:22:33Z"
 ---
 ## What it is
 Enables an MCP client to safely access selected local files and trusted executables with policy control, audit, and rollback via a Windows control center.

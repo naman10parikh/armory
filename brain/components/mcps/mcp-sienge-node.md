@@ -8,13 +8,13 @@ source_url: https://github.com/frlorenzon/MCP-Sienge-Node
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T20:18:07Z"
+pushed_at: "2026-09-14T17:38:54Z"
 ---
 ## What it is
 A Node.js MCP server that provides tools for interacting with the Sienge API, covering modules like nucleus, cadastros, and compras with parity validation against the Python version.

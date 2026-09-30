@@ -8,12 +8,12 @@ source_url: https://github.com/shiyi-0x7f/zlib-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 3
 pushed_at: "2026-08-19T14:11:53Z"
 ---
 ## What it is

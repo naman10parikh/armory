@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-19T13:34:45Z"
+pushed_at: "2026-09-03T05:05:07Z"
 ---
 ## What it is
 Real-time credit usage and session tracking for Kiro IDE, reading from local state without auth or network.

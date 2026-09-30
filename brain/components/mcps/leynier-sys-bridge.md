@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-31T01:48:44Z"
+pushed_at: "2026-09-03T06:11:07Z"
 ---
 ## What it is
 MCP server `System Bridge`, catalogued on PulseMCP. Provides native OS functionality for opening URLs in the default browser, copying text to the clipboard, and retrieving detailed current date/time information including timestamps, day/month names, leap year status, and quarter calculations.

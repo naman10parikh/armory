@@ -8,11 +8,11 @@ source_url: https://github.com/jackwrichards/unitymcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 523
+stars: 526
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 57
+forks: 58
 pushed_at: "2025-03-18T18:47:38Z"
 ---
 ## What it is

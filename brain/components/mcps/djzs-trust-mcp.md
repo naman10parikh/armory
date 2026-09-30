@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T02:30:24Z"
+pushed_at: "2026-09-29T21:00:33Z"
 ---
 ## What it is
 Deterministic pre-execution audit for trading agents. PASS/WAIT/FAIL, reproducible verdict_hash.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T22:01:35Z"
+pushed_at: "2026-09-29T07:41:54Z"
 ---
 ## What it is
 Provides a Model Context Protocol interface to NTT Docomo's rokadoc RAG service, enabling document conversion and semantic search from MCP-compatible clients.

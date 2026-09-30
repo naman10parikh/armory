@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:48:52Z"
+pushed_at: "2026-09-09T17:10:00Z"
 ---
 ## What it is
 Read-only MCP server for Telegram chats and channels that provides digest summaries, message search, and action items.

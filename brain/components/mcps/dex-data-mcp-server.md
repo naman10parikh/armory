@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T15:58:15Z"
+pushed_at: "2026-09-17T20:03:03Z"
 ---
 ## What it is
 Provides live multi-chain DEX market data as MCP tools, including token prices, liquidity depth, best execution venue, slippage, and liquidity risk across BNB Chain, Polygon, Arbitrum, Base, and Avalanche. It offers a free tier with daily allowances and falls back to x402 micropayments.

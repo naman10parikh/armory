@@ -8,11 +8,11 @@ source_url: https://github.com/markpitt/freeagent-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2025-03-04T23:48:53Z"
 ---
 ## What it is

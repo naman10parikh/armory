@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T10:27:38Z"
+pushed_at: "2026-09-28T03:53:42Z"
 ---
 ## What it is
 MCP server for Tracetify — trace how any product actually grew, without leaving Claude Code or Cursor.

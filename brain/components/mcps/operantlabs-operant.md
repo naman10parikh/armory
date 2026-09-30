@@ -8,11 +8,11 @@ source_url: https://github.com/operantlabs/operant-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 7
 pushed_at: "2026-04-01T03:09:17Z"
 ---
 ## What it is

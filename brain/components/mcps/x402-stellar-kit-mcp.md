@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T13:17:14Z"
+pushed_at: "2026-09-28T13:18:26Z"
 ---
 ## What it is
 Enables HTTP 402 payment protocol interactions on Stellar, allowing payment intent probing, guarded paid fetches, and budget status queries.

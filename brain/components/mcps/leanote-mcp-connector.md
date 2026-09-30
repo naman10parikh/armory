@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T17:02:58Z"
+pushed_at: "2026-09-26T11:24:16Z"
 ---
 ## What it is
 Provides MCP tools to interact with any Leanote server, enabling authentication, notebook management, note creation, and image uploads through the Leanote web-clipper API, along with a simulated server for testing.

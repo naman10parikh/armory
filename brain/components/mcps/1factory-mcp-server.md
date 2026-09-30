@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T21:11:41Z"
+pushed_at: "2026-09-29T04:23:24Z"
 ---
 ## What it is
 An open-source MCP bridge for the 1Factory API, providing read-only tools for searching and retrieving part masters, plans, inspections, FAIs, suppliers, and QMS records, with a strong security focus and local deployment.

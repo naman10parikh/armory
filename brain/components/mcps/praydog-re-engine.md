@@ -8,11 +8,11 @@ source_url: https://github.com/praydog/re-engine-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 7
 pushed_at: "2026-03-11T03:26:43Z"
 ---
 ## What it is

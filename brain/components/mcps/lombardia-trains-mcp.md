@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T15:31:22Z"
+pushed_at: "2026-09-06T11:52:24Z"
 ---
 ## What it is
 Enables querying live departure and arrival boards, delays, platforms, cancellations, crowding, stop-by-stop progress, and journey planning with up to one change for Lombardy's regional rail network, using public open data without an API key.

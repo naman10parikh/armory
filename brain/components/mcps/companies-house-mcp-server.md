@@ -8,12 +8,12 @@ source_url: https://github.com/stefanoamorelli/companies-house-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 27
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-06-21T18:22:14Z"
 ---
 ## What it is

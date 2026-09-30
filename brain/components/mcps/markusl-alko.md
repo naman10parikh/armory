@@ -8,11 +8,11 @@ source_url: https://github.com/markusl/alko-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2026-03-09T07:41:57Z"
 ---
 ## What it is

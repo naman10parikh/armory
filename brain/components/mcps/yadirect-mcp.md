@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T17:31:53Z"
+pushed_at: "2026-09-18T17:52:47Z"
 ---
 ## What it is
 A local MCP server that connects Yandex Direct advertising reports and safe campaign creation to AI agents, enabling natural-language analytics and protected campaign setup.

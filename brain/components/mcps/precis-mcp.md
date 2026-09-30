@@ -8,13 +8,13 @@ source_url: https://github.com/retospect/precis-mcp
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T19:17:47Z"
+forks: 2
+pushed_at: "2026-09-30T13:25:20Z"
 ---
 ## What it is
 A uniform API for agents to read, write, and search across papers, documents, code, and personal state, using PostgreSQL with pgvector for hybrid retrieval.

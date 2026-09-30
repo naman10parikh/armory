@@ -8,12 +8,12 @@ source_url: https://github.com/mcneel/rhinomcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-31T14:21:23Z"
+pushed_at: "2026-09-06T14:45:32Z"
 ---
 ## What it is
 MCP server `Rhino MCP`, catalogued on PulseMCP. C# MCP server enabling AI agents to create and edit 3D models in Rhino via natural language commands.

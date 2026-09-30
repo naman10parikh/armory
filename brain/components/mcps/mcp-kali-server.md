@@ -8,12 +8,12 @@ source_url: https://github.com/Wh0am123/MCP-Kali-Server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 808
+stars: 829
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 160
+forks: 169
 pushed_at: "2026-03-17T21:13:13Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T13:44:19Z"
+pushed_at: "2026-09-28T13:49:22Z"
 ---
 ## What it is
 Enables AI agents to execute quantum circuits, generate true quantum random bits, and perform resonance recall using amplitude amplification on real quantum backends via qBraid.

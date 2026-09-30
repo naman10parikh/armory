@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-19T01:10:18Z"
+pushed_at: "2026-09-10T22:26:59Z"
 ---
 ## What it is
 Enables an AI assistant to interact with a Notory inventory instance through its REST API, allowing lookups and modifications based on token scope. It automatically discovers available endpoints from the live OpenAPI spec, covering over 200 endpoints beyond just assets.

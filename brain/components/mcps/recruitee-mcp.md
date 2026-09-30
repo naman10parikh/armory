@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T19:36:55Z"
+pushed_at: "2026-09-03T10:54:49Z"
 ---
 ## What it is
 Enables managing Recruitee/Tellent recruiting pipelines from Claude, including reading roles and candidates, creating candidates, and writing evaluations and notes with previews and safe write operations.

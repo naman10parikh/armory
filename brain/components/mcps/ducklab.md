@@ -8,13 +8,13 @@ source_url: https://github.com/jrullan/ducklab
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-30T18:10:14Z"
+pushed_at: "2026-09-29T06:40:33Z"
 ---
 ## What it is
 self-hosted development harness (Go engine + CLI + desktop, Linux first) · brief → requirements → spec → plan → build → review → release · verdicts are exit codes, never model opinions · local models first (llama.cpp, vLLM) beside any OpenAI-compatible or Anthropic endpoint · operable by humans or b

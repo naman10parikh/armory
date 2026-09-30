@@ -8,13 +8,13 @@ source_url: https://github.com/royalpinto007/casebook-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-05T20:51:33Z"
+forks: 5
+pushed_at: "2026-09-12T14:11:45Z"
 ---
 ## What it is
 Enables agents to query a registry of documented AI-agent failures for debugging incidents, deployable on Cloudflare Workers.

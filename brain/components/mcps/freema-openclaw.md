@@ -8,12 +8,12 @@ source_url: https://github.com/freema/openclaw-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 183
+stars: 185
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
-pushed_at: "2026-08-16T10:34:13Z"
+forks: 25
+pushed_at: "2026-09-19T11:39:28Z"
 ---
 ## What it is
 MCP server `OpenClaw`, catalogued on PulseMCP. Provides tools for interacting with the OpenClaw open-source game engine.

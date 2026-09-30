@@ -8,13 +8,13 @@ source_url: https://github.com/yagyeshVyas/VibeGuard
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-29T10:13:28Z"
+pushed_at: "2026-09-26T10:12:51Z"
 ---
 ## What it is
 Enables AI coding tools to scan projects for security vulnerabilities, hardcoded secrets, injection flaws, and privacy violations with 699 rules and 76 MCP tools, all running locally with zero telemetry.

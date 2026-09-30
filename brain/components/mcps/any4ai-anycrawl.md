@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-03-19T20:49:36Z"
+pushed_at: "2026-09-10T08:31:40Z"
 ---
 ## What it is
 MCP server `AnyCrawl`, catalogued on PulseMCP. Integrates with the AnyCrawl API to provide web scraping and crawling capabilities with configurable depth limits, multiple scraping engines, and structured data extraction in various formats including markdown and JSON.

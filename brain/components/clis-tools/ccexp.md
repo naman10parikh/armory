@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 271
+stars: 270
 forks: 9
-pushed_at: "2026-08-30T22:38:25Z"
+pushed_at: "2026-09-19T10:16:19Z"
 ---
 ## What it is
 An interactive terminal tool for finding and managing Claude Code configuration files and slash commands.

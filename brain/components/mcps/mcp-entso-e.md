@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:04:05Z"
+pushed_at: "2026-09-25T23:47:10Z"
 ---
 ## What it is
 MCP server for querying ENTSO-E Transparency Platform data including actual load, generation per type, cross-border flows, and installed capacity.

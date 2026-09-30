@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T07:16:26Z"
+pushed_at: "2026-09-09T14:07:28Z"
 ---
 ## What it is
 Enables management of Kanban-backed task checkpoint documents in Obsidian, supporting task creation, querying, checkpoint commits, and rich block storage via MCP tools.

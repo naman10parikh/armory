@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T16:18:16Z"
+pushed_at: "2026-09-16T13:37:04Z"
 ---
 ## What it is
 Enables AI agents to analyze stocks, screen markets, compare peers, read earnings calls, and track sector rotations using live financial data from Financial Modeling Prep.

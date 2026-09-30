@@ -8,14 +8,14 @@ source_url: https://github.com/VoltAgent/awesome-claude-code-subagents
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 24793
+stars: 25414
 eval_score: null
 mentions: 0
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, subagent]
-forks: 2870
-pushed_at: "2026-09-01T08:50:50Z"
+forks: 2936
+pushed_at: "2026-09-21T08:24:27Z"
 ---
 ## What it is
 A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases

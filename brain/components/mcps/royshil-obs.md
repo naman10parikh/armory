@@ -8,11 +8,11 @@ source_url: https://github.com/royshil/obs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 122
+stars: 136
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
+forks: 25
 pushed_at: "2025-08-26T17:22:05Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/clivejefferies/mobile-debug-tools
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-07-20T21:27:30Z"
+forks: 6
+pushed_at: "2026-09-29T18:54:10Z"
 ---
 ## What it is
 A minimal, secure MCP server for AI-assisted mobile development, enabling build, install, interact, and inspect Android/iOS apps.

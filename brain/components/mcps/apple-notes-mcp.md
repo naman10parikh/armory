@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-02-07T15:24:42Z"
+pushed_at: "2026-09-08T11:12:07Z"
 ---
 ## What it is
 An MCP server for Apple Notes that enables semantic search and full CRUD operations through natural language.

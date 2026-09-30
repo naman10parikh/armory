@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T05:14:40Z"
+pushed_at: "2026-09-30T02:03:48Z"
 ---
 ## What it is
 Enables AI agents to create persistent, shareable travel trip links by turning a list of legs into a URL that displays the trip on a private map. Supports detailed leg information such as mode, date, note, travelers, and lodging.

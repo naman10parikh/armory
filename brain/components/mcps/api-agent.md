@@ -8,12 +8,12 @@ source_url: https://github.com/agoda-com/api-agent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 285
+stars: 292
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 44
+forks: 43
 pushed_at: "2026-06-19T05:50:08Z"
 ---
 ## What it is

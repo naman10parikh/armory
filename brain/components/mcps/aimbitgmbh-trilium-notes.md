@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-01-08T17:37:14Z"
+pushed_at: "2026-09-30T02:14:56Z"
 ---
 ## What it is
 MCP server `Trilium Notes`, catalogued on PulseMCP. Connects to Trilium Notes through its ETAPI for creating, editing, and searching notes, managing hierarchical relationships, adding metadata, and organizing content with calendar-based structures.

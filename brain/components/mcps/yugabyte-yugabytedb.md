@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-09-01T13:30:54Z"
+pushed_at: "2026-09-22T12:56:00Z"
 ---
 ## What it is
 MCP server `YugabyteDB`, catalogued on PulseMCP. Enables read-only database exploration and analysis through secure query execution and schema summarization for YugabyteDB instances

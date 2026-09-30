@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
-stars: 16
-forks: 12
-pushed_at: "2026-08-21T17:49:10Z"
+stars: 17
+forks: 13
+pushed_at: "2026-09-07T18:25:23Z"
 ---
 ## What it is
 Deterministic AI safety policy engine with Z3 formal verification. Write, verify, and enforce machine-verifiable constraints for AI agents via MCP.

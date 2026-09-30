@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:40:17Z"
+pushed_at: "2026-09-25T21:55:14Z"
 ---
 ## What it is
 Enables searching and querying City of Richmond GIS open geospatial datasets such as parcels, zoning, and public works via ArcGIS services.

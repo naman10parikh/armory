@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:34:30Z"
+pushed_at: "2026-09-02T19:57:56Z"
 ---
 ## What it is
 It enables AI agents to parse user agent strings into structured data such as browser, OS, device type, engine, and bot status, with pay-per-call micropayments via x402 and no API key or signup required.

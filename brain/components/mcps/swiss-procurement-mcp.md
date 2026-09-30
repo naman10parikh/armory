@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-30T14:23:09Z"
+pushed_at: "2026-09-27T07:34:42Z"
 ---
 ## What it is
 MCP server providing read access to Swiss public procurement data via the official simap.ch API, covering all cantons and the Confederation with intraday updates. It enables searching tenders, awards, construction codes, and procurement offices through natural language queries.

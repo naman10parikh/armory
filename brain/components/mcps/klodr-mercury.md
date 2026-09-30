@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-31T06:06:29Z"
+pushed_at: "2026-09-28T06:07:13Z"
 ---
 ## What it is
 MCP server `Mercury`, catalogued on PulseMCP. Mercury business banking MCP server with 34 tools for accounts, transactions, invoicing, and transfers.

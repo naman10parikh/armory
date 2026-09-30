@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:52:41Z"
+pushed_at: "2026-09-25T23:05:30Z"
 ---
 ## What it is
 Enables searching and querying datasets from Aix-Marseille-Provence Open Data portal. Supports filtering, aggregation, and pagination via ODSQL.

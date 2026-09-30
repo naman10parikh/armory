@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T19:16:43Z"
+pushed_at: "2026-09-28T19:16:27Z"
 ---
 ## What it is
 Enables AI coding agents to orchestrate the full software development lifecycle on GitHub, including planning, issue creation, code review, security triage, and release readiness checks.

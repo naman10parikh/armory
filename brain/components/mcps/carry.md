@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T01:40:39Z"
+pushed_at: "2026-09-11T20:40:09Z"
 ---
 ## What it is
 Enables syncing a context pack between Claude Code and Claude mobile via a remote MCP server, allowing users to push instructions from their repo and read them on mobile.

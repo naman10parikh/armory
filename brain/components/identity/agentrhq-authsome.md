@@ -8,13 +8,13 @@ source_url: https://github.com/agentrhq/authsome
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 87
+stars: 91
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
-forks: 9
+forks: 11
 pushed_at: "2026-07-24T23:13:46Z"
 ---
 ## What it is

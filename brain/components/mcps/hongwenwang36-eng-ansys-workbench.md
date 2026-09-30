@@ -8,11 +8,11 @@ source_url: https://github.com/hongwenwang36-eng/ansys-workbench-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 66
+stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-08-06T10:14:28Z"
 ---
 ## What it is

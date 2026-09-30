@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T18:33:00Z"
+pushed_at: "2026-09-26T19:14:32Z"
 ---
 ## What it is
 A local, self-custody MCP server that lets an AI agent trade the Cessio RFQ desk as both maker and taker, holding its own key and signing trades with operator-set limits.

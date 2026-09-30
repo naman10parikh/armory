@@ -13,7 +13,7 @@ related: []
 tags: [mcp, search-data-extraction]
 stars: 12
 forks: 5
-pushed_at: "2026-09-01T21:29:15Z"
+pushed_at: "2026-09-28T09:07:17Z"
 ---
 ## What it is
 Modern, cross-platform MCP server enabling AI assistants to browse and interact with both Gopher protocol and Gemini protocol resources safely and efficiently. Features dual protocol support, TLS security, and structured content extraction.

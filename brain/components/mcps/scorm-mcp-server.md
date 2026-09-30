@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T14:18:39Z"
+pushed_at: "2026-09-03T21:50:34Z"
 ---
 ## What it is
 Packages self-contained HTML or Claude Design bundles into SCORM 2004 courses any LMS can import, with offline asset inlining, milestone-based completion/progress and score tracking. Fully local, no telemetry; validated end-to-end on SCORM Cloud.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:32:32Z"
+pushed_at: "2026-09-25T21:18:59Z"
 ---
 ## What it is
 Enables access to EPA AirNow real-time AQI and forecast data for US locations through a single tool, with a free API key.

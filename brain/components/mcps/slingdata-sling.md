@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-09-01T01:29:23Z"
+pushed_at: "2026-09-30T11:03:42Z"
 ---
 ## What it is
 MCP server `Sling`, catalogued on PulseMCP. Data integration tool for querying databases, running data pipelines, and managing replications across 30+ systems

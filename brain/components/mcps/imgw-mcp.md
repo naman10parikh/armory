@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T09:01:09Z"
+pushed_at: "2026-09-26T10:45:55Z"
 ---
 ## What it is
 Provides real-time access to Polish meteorological and hydrological data from IMGW-PIB, including weather observations, river levels, and weather warnings, without requiring an API key.

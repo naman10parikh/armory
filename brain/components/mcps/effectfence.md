@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T19:32:30Z"
+pushed_at: "2026-09-08T07:02:37Z"
 ---
 ## What it is
 Stops agents double-firing side effects like double-charges or duplicate sends: same-instant races elect exactly one winner, and late duplicates get a sealed, content-addressed receipt replayed instead of a second execution. Tools: fence_prepare, fence_commit, fence_abort.

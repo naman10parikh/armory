@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T03:43:55Z"
+pushed_at: "2026-09-24T14:15:34Z"
 ---
 ## What it is
 Enables agents to read, restructure, validate, and braid plan graphs of plain-text files, allowing them to maintain and execute the plan interactively.

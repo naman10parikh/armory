@@ -8,11 +8,11 @@ source_url: https://github.com/alioshr/memory-bank-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 919
+stars: 920
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 86
+forks: 87
 pushed_at: "2025-08-20T10:23:06Z"
 ---
 ## What it is

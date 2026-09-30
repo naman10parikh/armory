@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T11:44:56Z"
+pushed_at: "2026-09-29T16:21:26Z"
 ---
 ## What it is
 An MCP server that provides shared memory and state projection for multi-agent collaboration, enabling agents to read/write an append-only task log and derive workflow state automatically.

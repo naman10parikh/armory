@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T13:05:57Z"
+pushed_at: "2026-09-29T06:34:51Z"
 ---
 ## What it is
 Resolves a company domain to its Pinterest business account, returning exact follower, following, pin, and board counts along with claimed website, verified merchant status, and per-platform status indicators for identity mismatches and other outcomes.

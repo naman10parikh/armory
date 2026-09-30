@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T09:19:11Z"
+pushed_at: "2026-09-10T00:56:43Z"
 ---
 ## What it is
 Enables MCP clients like Claude Code and Codex to delegate coding tasks to Cursor's CLI agent, which implements changes in the workspace and returns clean, structured results for review.

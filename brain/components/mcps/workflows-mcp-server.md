@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-08-21T23:09:07Z"
+forks: 8
+pushed_at: "2026-09-24T03:09:23Z"
 ---
 ## What it is
 Enables AI agents to discover, understand, and execute complex multi-step workflows defined in YAML files through the Model Context Protocol.

@@ -8,12 +8,12 @@ source_url: https://github.com/JochenYang/luma-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 113
+stars: 115
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
+forks: 12
 pushed_at: "2026-08-09T06:39:44Z"
 ---
 ## What it is

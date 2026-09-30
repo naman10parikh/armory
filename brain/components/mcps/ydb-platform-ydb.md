@@ -12,8 +12,8 @@ stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
-pushed_at: "2026-09-01T07:58:41Z"
+forks: 8
+pushed_at: "2026-09-21T15:19:34Z"
 ---
 ## What it is
 MCP server `YDB`, catalogued on PulseMCP. Provides a bridge between AI and YDB databases, enabling natural language interactions for executing SQL queries, exploring schema information, and retrieving connection status.

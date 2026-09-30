@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-01T16:38:22Z"
+pushed_at: "2026-09-05T11:26:12Z"
 ---
 ## What it is
 MCP server `SMS.RU`, catalogued on PulseMCP. Integrates with SMS.RU API for sending SMS messages, checking delivery status, and managing account balance.

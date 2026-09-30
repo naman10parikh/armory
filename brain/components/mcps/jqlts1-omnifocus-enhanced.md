@@ -8,11 +8,11 @@ source_url: https://github.com/jqlts1/omnifocus-mcp-enhanced
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 32
+forks: 31
 pushed_at: "2026-08-16T16:38:57Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-27T04:06:55Z"
+pushed_at: "2026-09-18T16:48:11Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for UniFi Network Controllers that enables LLMs to interact with UniFi infrastructure for monitoring and control.

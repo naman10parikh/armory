@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T16:19:02Z"
+pushed_at: "2026-09-30T02:41:11Z"
 ---
 ## What it is
 MCP server for screening UK companies against the Companies House register, offering batch supplier screening, company snapshots, and factual signals rather than risk scores, with tools that never guess company numbers and documentation generated from the running server.

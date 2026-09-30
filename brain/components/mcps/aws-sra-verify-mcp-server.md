@@ -8,13 +8,13 @@ source_url: https://github.com/awslabs/sra-verify-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-04T17:25:58Z"
+pushed_at: "2026-09-07T16:50:53Z"
 ---
 ## What it is
 Enables AI agents to assess AWS environments against the AWS Security Reference Architecture (SRA) by providing tools to discover, describe, and run security checks across AWS services and accounts.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T08:03:05Z"
+pushed_at: "2026-09-21T14:42:18Z"
 ---
 ## What it is
 Exposes SAP BW/4HANA ADT operations as MCP tools for LLM clients, with a local-file buffering layer to handle large XML payloads and table data efficiently.

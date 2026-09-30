@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T23:03:28Z"
+pushed_at: "2026-09-29T11:07:16Z"
 ---
 ## What it is
 Conformance test harness for Model Context Protocol servers, validating JSON-RPC, transport, capability, schema, and more across multiple spec versions.

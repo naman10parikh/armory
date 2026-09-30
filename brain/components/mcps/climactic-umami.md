@@ -8,11 +8,11 @@ source_url: https://github.com/climactic/umami-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2026-04-12T01:12:34Z"
 ---
 ## What it is

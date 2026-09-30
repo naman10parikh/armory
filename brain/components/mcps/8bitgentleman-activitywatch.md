@@ -8,11 +8,11 @@ source_url: https://github.com/8bitgentleman/activitywatch-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
+forks: 21
 pushed_at: "2026-04-15T11:11:11Z"
 ---
 ## What it is

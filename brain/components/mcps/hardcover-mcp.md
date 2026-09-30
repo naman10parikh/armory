@@ -8,13 +8,13 @@ source_url: https://github.com/kristianedlund/hardcover-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-07-06T13:01:44Z"
+forks: 1
+pushed_at: "2026-09-22T06:54:36Z"
 ---
 ## What it is
 Connects AI assistants to the Hardcover book library, enabling natural language book searches, reading status updates, list management, and library exploration.

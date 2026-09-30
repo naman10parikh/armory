@@ -8,13 +8,13 @@ source_url: https://github.com/ggui-ai/ggui
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 38
+stars: 42
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-02T03:11:37Z"
+pushed_at: "2026-09-30T11:56:44Z"
 ---
 ## What it is
 Enables AI agents to generate and serve ephemeral, interactive user interfaces over MCP through natural language descriptions.

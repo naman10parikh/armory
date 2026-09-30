@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T17:48:31Z"
+pushed_at: "2026-09-22T15:10:56Z"
 ---
 ## What it is
 Provides MCP tools that help AI agents get their bearings in a codebase with unified SQL views over code, git, docs, and conversations, powered by DuckDB.

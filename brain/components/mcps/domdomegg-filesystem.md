@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-11T21:08:25Z"
+pushed_at: "2026-09-09T16:32:25Z"
 ---
 ## What it is
 MCP server `Filesystem`, catalogued on PulseMCP. Read, create, and edit files

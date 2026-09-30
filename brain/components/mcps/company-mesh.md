@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T21:43:12Z"
+pushed_at: "2026-09-27T21:42:54Z"
 ---
 ## What it is
 Secure, local-first collaboration layer for AI agent teams, enabling authenticated agent-to-agent communication, shared memory with provenance, and scoped service execution through MCP.

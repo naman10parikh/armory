@@ -8,12 +8,12 @@ source_url: https://github.com/Code-MonkeyZhang/cloud-music-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 37
+stars: 41
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-07-02T12:27:07Z"
 ---
 ## What it is

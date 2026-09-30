@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:18:22Z"
+pushed_at: "2026-09-26T19:25:45Z"
 ---
 ## What it is
 MCP server `Kraken`, catalogued on PulseMCP. Kraken cryptocurrency exchange public market data: assets, trading pairs, ticker, OHLC, order depth, and trades.

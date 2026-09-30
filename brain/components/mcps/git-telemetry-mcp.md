@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T13:28:18Z"
+pushed_at: "2026-09-27T15:05:34Z"
 ---
 ## What it is
 Provides AI assistants with a Development Time Machine by analyzing git reflogs, commit history, working directory deltas, and shell history for temporal context, including safe git operations and smart commit generation.

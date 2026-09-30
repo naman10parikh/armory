@@ -8,13 +8,13 @@ source_url: https://github.com/ayush-singh-0601/commit-discipline-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T15:19:22Z"
+pushed_at: "2026-09-29T02:44:13Z"
 ---
 ## What it is
 An MCP server that enforces disciplined Git workflows by planning coding tasks into small, test-gated commits, ensuring tests pass before staging and preventing out-of-scope or oversized changes.

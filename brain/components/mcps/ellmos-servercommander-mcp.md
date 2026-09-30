@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T16:47:34Z"
+pushed_at: "2026-09-29T10:58:39Z"
 ---
 ## What it is
 Alpha MCP server for server operations enabling deployment dry-runs, mail readiness diagnostics, access-log analysis, and HTTP health checks.

@@ -8,13 +8,13 @@ source_url: https://github.com/antibrow/dsh-antibrow
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 577
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T02:03:23Z"
+pushed_at: "2026-09-12T07:39:10Z"
 ---
 ## What it is
 An MCP server that provides an antidetect browser with persistent profiles, proxy support, and page control tools (16 tools) for agents, enabling identity-stable browsing sessions across runs.

@@ -8,11 +8,11 @@ source_url: https://github.com/jagan-shanmugam/open-streetmap-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 222
+stars: 226
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 48
+forks: 52
 pushed_at: "2025-07-12T21:55:20Z"
 ---
 ## What it is

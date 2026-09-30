@@ -8,12 +8,12 @@ source_url: https://github.com/nazarlysyi/brickscope
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-04-07T22:13:26Z"
+pushed_at: "2026-09-29T00:40:41Z"
 ---
 ## What it is
 MCP server `Brickognize`, catalogued on PulseMCP. Identifies LEGO parts, sets, and minifigures from images using the Brickognize API.

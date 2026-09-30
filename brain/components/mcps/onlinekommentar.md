@@ -8,11 +8,11 @@ source_url: https://github.com/self-tech-labs/onlinekommentar-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 1
 pushed_at: "2025-08-02T11:38:21Z"
 ---
 ## What it is

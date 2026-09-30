@@ -8,11 +8,11 @@ source_url: https://github.com/i2y/d2mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 8
 pushed_at: "2025-07-02T14:09:05Z"
 ---
 ## What it is

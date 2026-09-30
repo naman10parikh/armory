@@ -8,12 +8,12 @@ source_url: https://github.com/nayakwadis/mftool-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-05-09T01:19:36Z"
+forks: 3
+pushed_at: "2026-09-22T09:00:27Z"
 ---
 ## What it is
 MCP server `mftool`, catalogued on PulseMCP. Publicly available Indian mutual funds data via the mftool Python library.

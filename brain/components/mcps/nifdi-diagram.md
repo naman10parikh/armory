@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T15:03:25Z"
+pushed_at: "2026-09-10T17:18:05Z"
 ---
 ## What it is
 An MCP server that generates and manages nifdi diagrams as SVG files, bundled with skills that teach models in depth, placement grammar, and build workflow through natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T19:40:54Z"
+pushed_at: "2026-09-07T04:36:26Z"
 ---
 ## What it is
 Enables creating Minecraft modpack structures, searching Modrinth mods, resolving dependencies, and checking compatibility.

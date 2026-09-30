@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-21T05:56:16Z"
+pushed_at: "2026-09-15T07:24:46Z"
 ---
 ## What it is
 Enables AI assistants to access real-time Vedic astrology data and perform calculations like horoscopes, panchang, matchmaking, and planetary positions via the AstroChalit API.

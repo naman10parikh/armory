@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-06-30T07:22:21Z"
+pushed_at: "2026-09-28T12:01:02Z"
 ---
 ## What it is
 MCP server `UI Ticket`, catalogued on PulseMCP. Human-to-AI code review bridge for UI prototypes with browser annotations.

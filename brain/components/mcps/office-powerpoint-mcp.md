@@ -8,7 +8,7 @@ source_url: https://github.com/ihatesea69/office-powerpoint-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []

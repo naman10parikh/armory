@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-27T17:20:47Z"
+pushed_at: "2026-09-17T16:52:53Z"
 ---
 ## What it is
 Exposes read-only GoCanvas API v3 endpoints as MCP tools, enabling listing and retrieval of forms, submissions, reports, and reference data.

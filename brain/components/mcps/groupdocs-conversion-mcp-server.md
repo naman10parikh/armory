@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-25T21:19:46Z"
+pushed_at: "2026-09-04T18:17:27Z"
 ---
 ## What it is
 Enables local document conversion between 70+ formats (PDF, Word, Excel, etc.) via MCP, keeping files private.

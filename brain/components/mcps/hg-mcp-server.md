@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T04:29:08Z"
+pushed_at: "2026-09-29T07:40:10Z"
 ---
 ## What it is
 Enables AI assistants to interact with Mercurial repositories, supporting version control operations like cloning, committing, branching, merging, and remote synchronization through natural language.

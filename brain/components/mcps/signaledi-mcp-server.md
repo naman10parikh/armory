@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T19:12:58Z"
+pushed_at: "2026-09-14T01:27:14Z"
 ---
 ## What it is
 Enables AI assistants to parse, validate, send, and inspect X12 EDI documents via the SignalEDI Core API, with optional QuickBooks integration and a demo mode for keyless local testing.

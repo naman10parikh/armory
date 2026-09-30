@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T22:24:08Z"
+pushed_at: "2026-09-12T14:53:19Z"
 ---
 ## What it is
 An MCP server for macOS that shares selected folders with NeuralNexus, enabling AI avatars to read local files and analyze Apple Health data via a secure outbound relay.

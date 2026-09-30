@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/uniprot-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T22:09:25Z"
+pushed_at: "2026-09-20T15:32:17Z"
 ---
 ## What it is
 Search UniProtKB by protein function, fetch curated records, map IDs across databases, and pull reference proteomes, taxonomy, and sequences via MCP. Supports both STDIO and Streamable HTTP transports.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T02:51:09Z"
+pushed_at: "2026-09-25T23:08:52Z"
 ---
 ## What it is
 Provides internationalization MCP tools enabling AI agents to perform translations, locale management, and i18n operations.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T16:19:28Z"
+pushed_at: "2026-09-29T17:47:52Z"
 ---
 ## What it is
 Enables AI clients to search IMAP mailboxes with live access and a full-text index covering email bodies and attachments (PDF, DOCX, XLSX, text).

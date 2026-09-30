@@ -8,13 +8,13 @@ source_url: https://github.com/PlatonKing/yandex-calendar-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T17:29:09Z"
+pushed_at: "2026-09-03T21:30:18Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to access Yandex Calendar over CalDAV, with the ability to read, create, move, update, and delete events, including recurring events and attendee invitations.

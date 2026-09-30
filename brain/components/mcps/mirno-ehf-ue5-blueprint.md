@@ -8,11 +8,11 @@ source_url: https://github.com/mirno-ehf/ue5-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 73
+stars: 75
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
+forks: 20
 pushed_at: "2026-05-27T10:09:57Z"
 ---
 ## What it is

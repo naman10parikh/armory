@@ -8,12 +8,12 @@ source_url: https://github.com/neo4j-contrib/mcp-neo4j
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 981
+stars: 986
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 256
-pushed_at: "2026-04-10T18:53:37Z"
+forks: 260
+pushed_at: "2026-09-09T16:31:34Z"
 ---
 ## What it is
 MCP server `Neo4j Graph`, catalogued on PulseMCP. Interact with Neo4j graph databases to query, analyze, and manipulate data.

@@ -8,13 +8,13 @@ source_url: https://github.com/mastyf-ai/mastyf.ai
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-08-29T09:53:15Z"
+forks: 5
+pushed_at: "2026-09-29T10:01:31Z"
 ---
 ## What it is
 Perimeter security for your AI Infrastructure.

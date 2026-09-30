@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T15:35:12Z"
+pushed_at: "2026-09-14T15:35:39Z"
 ---
 ## What it is
 An MCP server for Password Pusher that allows creating, previewing, and managing self-destructing secret links without retrieving the secret payload.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:47:58Z"
+pushed_at: "2026-09-26T22:10:39Z"
 ---
 ## What it is
 Enables fetching random useless facts and today's useless fact of the day via the uselessfacts.jsph.pl API.

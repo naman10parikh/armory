@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-26T15:30:39Z"
+pushed_at: "2026-09-28T20:26:52Z"
 ---
 ## What it is
 Enables Claude to access and update a team's design knowledge stored in a local Markdown folder, including searching decisions and recording new conventions.

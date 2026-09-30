@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T04:22:42Z"
+pushed_at: "2026-09-27T01:58:46Z"
 ---
 ## What it is
 A threaded message relay for ChatGPT and local coding agents, enabling message exchange and file sharing via MCP and REST APIs.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T08:10:41Z"
+pushed_at: "2026-09-27T08:03:53Z"
 ---
 ## What it is
 MCP-native release confidence control plane that turns browser execution into auditable go/no-go decisions by combining business-critical journey context, evidence-heavy QA runs, and risk governance.

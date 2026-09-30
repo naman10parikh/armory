@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:58:11Z"
+pushed_at: "2026-09-25T23:24:53Z"
 ---
 ## What it is
 MCP server for the French open-data catalogue data.gouv.fr, enabling dataset search and retrieval, organization lookup, and reuse discovery via natural language queries.

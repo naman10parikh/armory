@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T05:35:58Z"
+pushed_at: "2026-09-10T23:00:43Z"
 ---
 ## What it is
 An MCP server that feeds AI agents your brand's real logos, colors, fonts, and approved slide layouts, so every deck and document comes out on brand the first time.

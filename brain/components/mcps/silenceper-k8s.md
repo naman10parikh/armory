@@ -8,12 +8,12 @@ source_url: https://github.com/silenceper/mcp-k8s
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 150
+stars: 151
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
-pushed_at: "2026-07-27T02:52:48Z"
+forks: 28
+pushed_at: "2026-09-26T00:55:45Z"
 ---
 ## What it is
 MCP server `Kubernetes`, catalogued on PulseMCP. Enables natural language interaction with Kubernetes clusters for resource querying and CRUD operations with configurable write permissions.

@@ -8,13 +8,13 @@ source_url: https://github.com/BrightbeamAI/chap
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 80
+stars: 104
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-08-31T13:55:29Z"
+forks: 13
+pushed_at: "2026-09-30T08:43:04Z"
 ---
 ## What it is
 Auditable records of human decisions over AI agent work. Approvals, edits, overrides, escalations.

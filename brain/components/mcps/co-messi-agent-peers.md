@@ -8,11 +8,11 @@ source_url: https://github.com/co-messi/agent-peers-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-07-13T04:02:03Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T08:59:30Z"
+pushed_at: "2026-09-11T01:44:30Z"
 ---
 ## What it is
 Authenticates users via Google OAuth and returns the authenticated user's display name through the get_current_user tool. Supports deployment on Node.js and Cloudflare Workers.

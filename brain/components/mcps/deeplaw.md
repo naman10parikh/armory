@@ -8,13 +8,13 @@ source_url: https://github.com/Eysn0130/DeepLaw
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T21:20:24Z"
+forks: 1
+pushed_at: "2026-09-16T16:09:24Z"
 ---
 ## What it is
 A read-only Chinese legal evidence MCP server that provides deterministic retrieval of authentic legal sources with chain-of-custody receipts, designed for Codex, Claude Code, and OpenCode.

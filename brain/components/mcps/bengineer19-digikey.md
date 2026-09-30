@@ -8,11 +8,11 @@ source_url: https://github.com/bengineer19/digikey_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 18
 pushed_at: "2025-06-28T16:54:18Z"
 ---
 ## What it is

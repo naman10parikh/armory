@@ -8,11 +8,11 @@ source_url: https://github.com/yokingma/time-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 14
 pushed_at: "2026-01-31T05:24:45Z"
 ---
 ## What it is

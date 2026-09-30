@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-25T18:59:58Z"
+pushed_at: "2026-09-03T08:45:34Z"
 ---
 ## What it is
 Real-time crypto whale intelligence MCP server with 55 tools across 14 blockchains. Free, no auth required.

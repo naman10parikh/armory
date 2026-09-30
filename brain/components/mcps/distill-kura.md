@@ -8,13 +8,13 @@ source_url: https://github.com/lna-lab/distill-kura
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 53
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-02T03:21:35Z"
+forks: 7
+pushed_at: "2026-09-30T10:40:10Z"
 ---
 ## What it is
 Enables agents to store and recall long-term memories by semantic relevance rather than exact keywords, with writes gated by verbatim evidence and separate memory stores per agent mode.

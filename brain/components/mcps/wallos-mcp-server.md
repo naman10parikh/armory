@@ -8,12 +8,12 @@ source_url: https://github.com/ilyannn/wallos-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2025-08-24T12:40:55Z"
 ---
 ## What it is

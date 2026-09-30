@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-25T10:55:07Z"
+pushed_at: "2026-09-04T15:25:39Z"
 ---
 ## What it is
 MCP server exposing the yellow_pro exchange to AI agents, providing market data, account state, and optional trading with read-only by default and rate limiting.

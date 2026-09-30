@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:18:11Z"
+pushed_at: "2026-09-26T19:24:39Z"
 ---
 ## What it is
 Enables searching and retrieving anime and manga data from Kitsu's catalogue, including top lists and categories, through natural language queries via Pipeworx gateway.

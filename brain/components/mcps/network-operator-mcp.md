@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T08:03:12Z"
+pushed_at: "2026-09-29T13:22:39Z"
 ---
 ## What it is
 Enables agents to access network device management interfaces via SSH, keeping credentials on the server side. Supports both interactive terminal sessions and command execution on devices like Huawei VRP, MikroTik, and OpenWrt.

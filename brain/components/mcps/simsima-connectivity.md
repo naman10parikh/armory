@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T22:14:22Z"
+pushed_at: "2026-09-22T06:36:16Z"
 ---
 ## What it is
 Public MCP server for a travel-eSIM marketplace: search, recommend and buy data plans for 190+ destinations, returning an attributed checkout link back to simsima.io. Remote Streamable HTTP, no auth.

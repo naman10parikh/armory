@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T00:03:52Z"
+pushed_at: "2026-09-24T18:08:03Z"
 ---
 ## What it is
 Enables finding the cheapest flight destinations from an airport as structured JSON, with bargain detection via typical price comparisons and booking links.

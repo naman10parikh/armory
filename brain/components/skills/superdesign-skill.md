@@ -8,8 +8,8 @@ source_url: https://github.com/superdesigndev/superdesign-skill
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 520
-forks: 38
+stars: 619
+forks: 49
 eval_score: null
 mentions: null
 pushed_at: "2026-08-21T05:23:23Z"

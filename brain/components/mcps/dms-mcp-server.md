@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T15:06:51Z"
+pushed_at: "2026-09-05T21:39:05Z"
 ---
 ## What it is
 Read-only MCP server that lets AI clients query DMS repositories through a local bridge, supporting tools for health checks, listing connections and items, retrieving item info, and reading documents. Credentials are handled securely via a separate broker.

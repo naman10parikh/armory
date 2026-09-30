@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T10:13:12Z"
+pushed_at: "2026-09-22T03:33:29Z"
 ---
 ## What it is
 Builds a semantic knowledge graph of C++ code and exposes 9 MCP tools for AI assistants to search classes, functions, inheritance, callers, callees, overrides, and more.

@@ -8,13 +8,13 @@ source_url: https://github.com/Darling209/wsl-bridge-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T09:03:05Z"
+pushed_at: "2026-09-26T18:02:44Z"
 ---
 ## What it is
 A Model Context Protocol server that lets Windows-side AI agents operate on WSL distributions like a local environment, providing file read/write/edit, command execution, process management, log streaming, and content search via UNC paths and persistent shells.

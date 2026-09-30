@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-24T14:46:09Z"
+pushed_at: "2026-09-17T18:20:26Z"
 ---
 ## What it is
 An MCP server that gives AI agents a private, durable memory of people, providing a personal people graph in PostgreSQL with tools to search, remember, and connect people, plus imports from LinkedIn, Google Contacts, and WhatsApp, and a browser UI.

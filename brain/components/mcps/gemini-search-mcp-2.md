@@ -8,12 +8,12 @@ source_url: https://github.com/Sophomoresty/gemini-search-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 174
+stars: 182
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 29
+forks: 31
 pushed_at: "2026-06-30T08:59:54Z"
 ---
 ## What it is

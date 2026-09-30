@@ -8,12 +8,12 @@ source_url: https://github.com/omega-memory/omega-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 212
+stars: 218
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 26
-pushed_at: "2026-08-26T06:06:36Z"
+forks: 31
+pushed_at: "2026-09-30T00:44:46Z"
 ---
 ## What it is
 MCP server `OMEGA`, catalogued on PulseMCP. Persistent memory system for coding agents with semantic search, entity extraction, relationship mapping, and cross-session learning.

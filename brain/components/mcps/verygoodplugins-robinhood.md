@@ -8,11 +8,11 @@ source_url: https://github.com/verygoodplugins/robinhood-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 11
 pushed_at: "2026-07-29T15:44:26Z"
 ---
 ## What it is

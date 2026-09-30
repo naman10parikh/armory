@@ -8,12 +8,12 @@ source_url: https://github.com/jeff-nasseri/revolut-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 8
 pushed_at: "2026-06-06T20:36:52Z"
 ---
 ## What it is

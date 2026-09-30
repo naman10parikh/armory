@@ -8,14 +8,14 @@ source_url: https://github.com/CopilotKit/CopilotKit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 37158
+stars: 37612
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 4594
-pushed_at: "2026-09-02T07:06:26Z"
+forks: 4671
+pushed_at: "2026-09-30T13:14:03Z"
 ---
 ## What it is
 The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol

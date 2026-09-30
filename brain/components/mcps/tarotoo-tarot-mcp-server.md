@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-23T18:24:02Z"
+pushed_at: "2026-09-19T12:24:22Z"
 ---
 ## What it is
 Enables AI assistants to look up tarot card meanings, search cards by keyword, draw random cards, and get yes/no answers for all 78 Rider-Waite-Smith cards with upright and reversed interpretations.

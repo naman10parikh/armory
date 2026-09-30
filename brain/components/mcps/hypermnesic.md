@@ -8,13 +8,13 @@ source_url: https://github.com/leonardsellem/hypermnesic
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-28T09:35:46Z"
+pushed_at: "2026-09-27T19:26:59Z"
 ---
 ## What it is
 Git-native long-term memory for AI agents: your markdown files are the source of truth, the search index is a disposable projection rebuilt from git, and every memory the agent writes is a reviewable git commit. Served over one OAuth-secured MCP endpoint with hybrid lexical+semantic recall and a gat

@@ -8,12 +8,12 @@ source_url: https://github.com/jhacksman/openscad-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 186
+stars: 199
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 31
-pushed_at: "2025-03-21T18:48:11Z"
+forks: 32
+pushed_at: "2026-09-07T12:38:57Z"
 ---
 ## What it is
 MCP server `OpenSCAD 3D Model Generator`, catalogued on PulseMCP. Transforms natural language descriptions into parametric 3D models through a pipeline of image generation, object segmentation, 3D modeling, and OpenSCAD code conversion for customizable 3D printing.

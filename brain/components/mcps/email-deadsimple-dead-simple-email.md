@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T23:16:13Z"
+pushed_at: "2026-09-17T19:47:09Z"
 ---
 ## What it is
 Provides AI agents with real email infrastructure, enabling them to create inboxes, send/receive messages, and extract verification codes from incoming mail.

@@ -8,13 +8,13 @@ source_url: https://github.com/AKzar1el/mcp-geo
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 44
+stars: 46
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-31T20:02:38Z"
+forks: 2
+pushed_at: "2026-09-24T16:51:45Z"
 ---
 ## What it is
 AI visibility tracker MCP server. Track brand citations across ChatGPT, Claude, Perplexity, Gemini & Google AI Overviews. Self-host on Cloudflare Workers. GEO/AEO.

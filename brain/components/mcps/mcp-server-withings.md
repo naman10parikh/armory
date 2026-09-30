@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T22:35:13Z"
+pushed_at: "2026-09-23T16:19:52Z"
 ---
 ## What it is
 MCP server for the Withings Health API with per-user OAuth2, enabling users to securely access their own health data (measures, activity, sleep, workouts, heart rate, devices, and goals) and optionally add measurements.

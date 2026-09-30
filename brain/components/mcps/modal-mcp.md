@@ -8,13 +8,13 @@ source_url: https://github.com/george-bobby/mcp-modal
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-06-11T17:03:19Z"
+forks: 1
+pushed_at: "2026-09-09T10:08:24Z"
 ---
 ## What it is
 An MCP server for managing Modal — apps, containers, volumes, and secrets — and for deploying & running Modal apps directly from Claude Code and other MCP clients.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T12:51:57Z"
+pushed_at: "2026-09-29T19:39:30Z"
 ---
 ## What it is
 An MCP server that lets an AI agent scan a web page for WCAG accessibility issues and get back findings it can act on.

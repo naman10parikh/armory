@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-02-22T15:24:59Z"
+pushed_at: "2026-09-27T07:58:33Z"
 ---
 ## What it is
 Enables protein structure prediction using the Chai-1 model via Docker, with tools for small peptides, FASTA-based predictions, MSA-enhanced predictions, batch processing, and job management.

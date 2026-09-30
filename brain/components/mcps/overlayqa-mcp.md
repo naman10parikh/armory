@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-02T18:20:33Z"
+pushed_at: "2026-09-16T21:58:37Z"
 ---
 ## What it is
 Enables AI coding agents to audit web pages for WCAG accessibility and color-contrast issues, and file dev-ready issues directly into OverlayQA projects.

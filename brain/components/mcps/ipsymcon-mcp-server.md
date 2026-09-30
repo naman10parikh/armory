@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-29T10:06:30Z"
+forks: 1
+pushed_at: "2026-09-29T09:52:23Z"
 ---
 ## What it is
 Enables Claude/agents to read, control, and develop IP-Symcon home automation systems via JSON-RPC, including object tree navigation, variable reading, device switching, and PHP script management.

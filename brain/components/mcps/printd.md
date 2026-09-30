@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T14:41:11Z"
+pushed_at: "2026-09-06T04:53:55Z"
 ---
 ## What it is
 Enables MCP clients to submit, slice, and start 3D prints with configurable gates, preview approval, and monitoring, via a self-hosted print daemon.

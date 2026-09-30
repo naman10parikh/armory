@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 16
-pushed_at: "2026-08-27T19:34:11Z"
+pushed_at: "2026-09-03T11:25:40Z"
 ---
 ## What it is
 MCP server `Cross-Claude`, catalogued on PulseMCP. Message bus enabling communication between AI instances across platforms through shared channels, threaded conversations, and data exchange with both local SQLite and cloud PostgreSQL modes.

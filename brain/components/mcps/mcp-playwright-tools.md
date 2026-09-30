@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-17T04:47:03Z"
+pushed_at: "2026-09-14T15:47:52Z"
 ---
 ## What it is
 Playwright browser automation tools for MCP enabling navigation, interaction, content extraction, and semantic locators.

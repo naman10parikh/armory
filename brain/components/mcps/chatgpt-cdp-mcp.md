@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T22:07:21Z"
+pushed_at: "2026-09-14T21:09:25Z"
 ---
 ## What it is
 MCP server that turns one authenticated ChatGPT browser page into a bounded MCP server, exposing tools for creating, listing, searching, exporting, sending, editing chats and downloading media via a CDP driver.

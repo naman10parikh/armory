@@ -8,13 +8,13 @@ source_url: https://github.com/lemon-io/lemon-io-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 58
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-04T08:39:35Z"
+forks: 48
+pushed_at: "2026-09-10T15:06:34Z"
 ---
 ## What it is
 Generate tailored job descriptions, hire senior developers and pull technical interview questions without leaving the conversation.

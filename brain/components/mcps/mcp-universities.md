@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:31:58Z"
+pushed_at: "2026-09-26T22:07:46Z"
 ---
 ## What it is
 Enables querying university data from the Hipolabs Universities API without authentication.

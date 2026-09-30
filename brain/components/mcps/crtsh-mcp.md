@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T16:43:18Z"
+pushed_at: "2026-09-27T09:01:47Z"
 ---
 ## What it is
 Enables certificate transparency log search via crt.sh, allowing users to query SSL/TLS certificates, enumerate subdomains, and retrieve certificate details with no API key required.

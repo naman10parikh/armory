@@ -8,12 +8,12 @@ source_url: https://github.com/frumu-ai/tandem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 118
+stars: 121
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-08-05T17:53:47Z"
+pushed_at: "2026-09-30T13:22:32Z"
 ---
 ## What it is
 MCP server `Tandem`, catalogued on PulseMCP. Documentation and setup guides for Tandem's AI agent platform, SDKs, and workflows.

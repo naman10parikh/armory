@@ -8,11 +8,11 @@ source_url: https://github.com/henkdz/selfhosted-supabase-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 139
+stars: 138
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 49
+forks: 48
 pushed_at: "2026-02-19T21:16:02Z"
 ---
 ## What it is

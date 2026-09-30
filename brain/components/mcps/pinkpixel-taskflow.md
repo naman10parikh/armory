@@ -8,11 +8,11 @@ source_url: https://github.com/pinkpixel-dev/taskflow-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 10
 pushed_at: "2026-03-13T12:27:19Z"
 ---
 ## What it is

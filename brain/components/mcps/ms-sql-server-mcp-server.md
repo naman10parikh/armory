@@ -8,13 +8,13 @@ source_url: https://github.com/PiyapatRag/mssql-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T07:56:46Z"
+pushed_at: "2026-09-28T07:56:13Z"
 ---
 ## What it is
 A secure, read-only MCP server for Microsoft SQL Server with built-in performance monitoring and lock detection.

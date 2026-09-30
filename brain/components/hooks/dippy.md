@@ -14,7 +14,7 @@ verified_at: 2026-05-26
 related: []
 tags: [hook]
 stars: 243
-forks: 21
+forks: 22
 pushed_at: "2026-06-12T10:38:05Z"
 ---
 ## What it is

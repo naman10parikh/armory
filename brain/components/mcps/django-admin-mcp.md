@@ -8,13 +8,13 @@ source_url: https://github.com/7tg/django-admin-mcp
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-07-09T14:44:03Z"
+pushed_at: "2026-09-29T12:31:31Z"
 ---
 ## What it is
 Expose Django admin models to MCP clients for CRUD, admin actions, model introspection, and more via HTTP with token authentication.

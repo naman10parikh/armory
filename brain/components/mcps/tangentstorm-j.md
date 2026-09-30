@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-26T15:24:10Z"
+pushed_at: "2026-09-16T18:42:14Z"
 ---
 ## What it is
 MCP server `J Language Interpreter`, catalogued on PulseMCP. MCP server embedding the J programming language interpreter for executing J code from AI assistants.

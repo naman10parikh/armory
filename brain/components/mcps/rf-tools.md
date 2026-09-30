@@ -8,13 +8,13 @@ source_url: https://github.com/antonpogrebenko-public/rftools-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-29T21:33:36Z"
+pushed_at: "2026-09-29T12:37:56Z"
 ---
 ## What it is
 MCP server for rftools.io — 213 RF & electronics calculators + 13 server-side simulation tools for AI agents. Give Claude, Cursor, or any MCP-compatible AI assistant access to validated engineering calculators and heavy server-side simulations. Microstrip impedance, link budgets, filter design, conv

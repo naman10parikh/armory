@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T17:39:54Z"
+pushed_at: "2026-09-27T05:42:41Z"
 ---
 ## What it is
 Honeypot threat intelligence for AI agents. Query 90 days of probe data from our sensor network: IP reputation, scanner classification, CVE probing trends, TLS/SSH/JA4 fingerprints. Free tier 500 credits/day, OAuth + bearer auth, streamable HTTP at https://mcp.honeylabs.net/mcp.

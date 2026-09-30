@@ -8,13 +8,13 @@ source_url: https://github.com/sinewaveai/agent-security-scanner-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 121
+stars: 122
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
-pushed_at: "2026-08-12T20:01:35Z"
+forks: 12
+pushed_at: "2026-09-29T23:44:25Z"
 ---
 ## What it is
 A security scanner for AI coding agents and autonomous assistants that scans code for vulnerabilities, detects hallucinated packages, blocks prompt injection, and provides LLM-powered semantic code review via MCP or CLI.

@@ -8,13 +8,13 @@ source_url: https://github.com/brooswit/butchr
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T03:33:10Z"
+pushed_at: "2026-09-30T12:22:28Z"
 ---
 ## What it is
 Enables orchestrating Jira-driven software workflows by watching tickets, running herdr agents on active issues, and pushing updates to those agents over MCP.

@@ -8,13 +8,13 @@ source_url: https://github.com/zwitbaum/mcp-devops-on-prem
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-21T22:01:19Z"
+pushed_at: "2026-09-07T14:19:55Z"
 ---
 ## What it is
 MCP server for on-premises Azure DevOps that lets AI assistants browse repositories, review pull requests, manage work items, and interact with wikis, with NTLM authentication support.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:56:47Z"
+pushed_at: "2026-09-25T23:21:05Z"
 ---
 ## What it is
 Enables searching and querying datasets from Rennes Métropole Open Data portal through natural language or structured queries using ODSQL.

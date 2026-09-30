@@ -8,11 +8,11 @@ source_url: https://github.com/zym9863/pixabay-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 3
 pushed_at: "2026-03-22T04:02:35Z"
 ---
 ## What it is

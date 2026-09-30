@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T05:16:48Z"
+pushed_at: "2026-09-20T13:21:24Z"
 ---
 ## What it is
 Give your AI agent its own cloud computer: create and drive hosted plori agents over MCP (invoke agents, read replies, human-in-the-loop, scheduled runs). This repo is the integration front door and ships the npx plori-mcp stdio bridge to the hosted endpoint.

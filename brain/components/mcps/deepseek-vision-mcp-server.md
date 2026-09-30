@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T13:12:39Z"
+pushed_at: "2026-09-22T11:37:20Z"
 ---
 ## What it is
 Enables MCP clients to analyze images through DeepSeek's vision model using three input methods: local image files, external image URLs, and uploaded file IDs.

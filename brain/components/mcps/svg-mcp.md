@@ -8,13 +8,13 @@ source_url: https://github.com/georgeharker/svg-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T18:26:12Z"
+pushed_at: "2026-09-20T21:11:38Z"
 ---
 ## What it is
 A FastMCP server providing structured SVG authoring tools for LLMs, enabling create, edit, and render SVG graphics through hierarchical primitives, gradients, paths, and reusable resources.

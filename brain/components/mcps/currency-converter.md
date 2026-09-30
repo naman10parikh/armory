@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:00Z"
+pushed_at: "2026-09-02T19:55:35Z"
 ---
 ## What it is
 Converts between fiat and crypto currencies using ECB and CoinGecko rates, with pay-per-call via x402 micropayments.

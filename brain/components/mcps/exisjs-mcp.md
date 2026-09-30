@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T10:54:09Z"
+pushed_at: "2026-09-09T18:00:31Z"
 ---
 ## What it is
 MCP server that connects AI coding agents to ExisJS projects, enabling them to read local ExisJS documentation and scaffold idiomatic ExisJS boilerplate code (routes, plugins, gateways, configs).

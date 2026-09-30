@@ -8,13 +8,13 @@ source_url: https://github.com/yangfeng20/dmc-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T08:37:58Z"
+pushed_at: "2026-09-04T06:24:00Z"
 ---
 ## What it is
 An MCP server that executes SQL queries on TDSQL-C and TDSQL database instances via Tencent Cloud DMC (Data Management Console), leveraging browser cookies for authentication.

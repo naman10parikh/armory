@@ -8,11 +8,11 @@ source_url: https://github.com/the-momentum/fhir-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 98
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 18
 pushed_at: "2025-10-23T13:06:54Z"
 ---
 ## What it is

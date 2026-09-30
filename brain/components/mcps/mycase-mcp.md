@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T19:12:43Z"
+pushed_at: "2026-09-27T23:23:35Z"
 ---
 ## What it is
 Enables Claude to access and manage your law firm's MyCase account, including cases, clients, tasks, invoices, and more.

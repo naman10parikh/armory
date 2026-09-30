@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:36:29Z"
+pushed_at: "2026-09-25T21:28:48Z"
 ---
 ## What it is
 Enables querying and searching open geospatial datasets from the City of Dublin, Ohio via ArcGIS feature services.

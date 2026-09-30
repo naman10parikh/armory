@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2025-07-10T21:03:21Z"
+pushed_at: "2026-09-18T08:43:47Z"
 ---
 ## What it is
 MCP server `Notmuch Sendmail`, catalogued on PulseMCP. Integrates Notmuch email management with sendmail functionality to enable email composition, searching, and sending capabilities.

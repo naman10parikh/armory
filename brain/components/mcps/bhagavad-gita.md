@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:43:42Z"
+pushed_at: "2026-09-25T22:05:20Z"
 ---
 ## What it is
 Enables access to the Bhagavad Gita, a Hindu scripture, through natural language queries and integration with the Pipeworx MCP gateway.

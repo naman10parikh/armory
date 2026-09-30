@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-08-24T10:28:51Z"
+pushed_at: "2026-09-15T16:01:07Z"
 ---
 ## What it is
 MCP server `Jira by mmatczuk`, catalogued on PulseMCP. Integrates with Jira using 3 focused tools designed for minimal context overhead in issue management.

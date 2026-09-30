@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T15:41:45Z"
+pushed_at: "2026-09-14T12:54:51Z"
 ---
 ## What it is
 Enables external AI applications to access MCP tools by providing a user-hosted HTTPS endpoint that forwards requests to a paired desktop client.

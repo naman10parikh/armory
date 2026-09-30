@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T16:35:09Z"
+pushed_at: "2026-09-20T19:04:05Z"
 ---
 ## What it is
 AGENTS.md + skills orchestration with CHP Profile A R0/adversary gates. @cubiczan/agent-conductor

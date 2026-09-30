@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T01:46:08Z"
+pushed_at: "2026-09-30T03:14:54Z"
 ---
 ## What it is
 MCP server that lets ChatGPT search and read iMessage/SMS history, send one-at-a-time messages, and manage Contacts on your own Mac, with confirmations for any writes.

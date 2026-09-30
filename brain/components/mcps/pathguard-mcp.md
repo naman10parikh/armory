@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T15:56:57Z"
+pushed_at: "2026-09-30T12:36:15Z"
 ---
 ## What it is
 Enables MCP-compatible AI agents to scan crypto transactions for scam addresses, clipboard-hijack patterns, and typos, as well as report scam addresses and check usage, directly in conversation.

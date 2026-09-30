@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-31T02:46:27Z"
+pushed_at: "2026-09-25T06:00:47Z"
 ---
 ## What it is
 MCP server `OpenFEC Campaign Finance`, catalogued on PulseMCP. Query U.S. Federal Election Commission campaign finance data.

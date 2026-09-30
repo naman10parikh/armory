@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/devops-status-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-25T05:58:04Z"
+pushed_at: "2026-09-25T08:49:05Z"
 ---
 ## What it is
 Checks vendor status pages, inspects SSL/TLS certificates, verifies DNS propagation, and provides incident-response playbooks. Includes 7 tools for DevOps health monitoring.

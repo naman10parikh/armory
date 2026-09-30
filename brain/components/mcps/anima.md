@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-28T15:35:29Z"
+pushed_at: "2026-09-28T15:26:23Z"
 ---
 ## What it is
 MCP server `Anima`, catalogued on PulseMCP. Connect AI agents to Anima Playground, Figma, and design systems.

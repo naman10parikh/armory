@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:24:34Z"
+pushed_at: "2026-09-25T01:08:52Z"
 ---
 ## What it is
 Provides live wait times and office directory for North Carolina DMV driver license and license plate agencies, sourced from the state's machine-readable feed.

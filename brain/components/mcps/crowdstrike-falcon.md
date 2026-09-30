@@ -8,12 +8,12 @@ source_url: https://github.com/crowdstrike/falcon-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 243
+stars: 258
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 80
-pushed_at: "2026-09-01T17:27:19Z"
+forks: 88
+pushed_at: "2026-09-17T21:55:09Z"
 ---
 ## What it is
 MCP server `CrowdStrike Falcon`, catalogued on PulseMCP. Connect with the CrowdStrike Falcon platform for intelligent security analysis, providing programmatic access to detections, incidents, behaviors, threat intelligence, hosts, vulnerabilities, and identity protection capabilities.

@@ -8,13 +8,13 @@ source_url: https://github.com/oakplank/RevitMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 55
+stars: 59
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
-pushed_at: "2026-07-02T18:57:37Z"
+forks: 12
+pushed_at: "2026-09-30T06:44:54Z"
 ---
 ## What it is
 A pyRevit extension and Python server that enables AI clients to interact with a live Autodesk Revit session through tools for project info, view management, element operations, and schedule management.

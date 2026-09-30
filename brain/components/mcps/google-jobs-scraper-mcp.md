@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T05:00:15Z"
+pushed_at: "2026-09-24T18:08:23Z"
 ---
 ## What it is
 Enables AI assistants to search Google Jobs and retrieve structured job listings, including titles, companies, locations, descriptions, and direct apply links, through natural language queries. Supports location targeting, country/language filters, and pagination.

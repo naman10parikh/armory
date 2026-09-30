@@ -8,13 +8,13 @@ source_url: https://github.com/armoriq/armorCodex
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-01T16:50:14Z"
+forks: 2
+pushed_at: "2026-09-29T16:44:29Z"
 ---
 ## What it is
 Intent-based security governance for OpenAI Codex and ChatGPT. Register intent plans before tool calls, apply natural-language policy rules, and get per-request audit logs across all your AI agents.

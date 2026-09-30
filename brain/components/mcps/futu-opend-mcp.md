@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-14T13:45:18Z"
+pushed_at: "2026-09-12T12:58:53Z"
 ---
 ## What it is
 Read-only MCP server that exposes Futu OpenD's investment-research quote APIs (stocks, options, futures, financials, news, etc.) as MCP tools, leveraging an already-running OpenD gateway with no separate authentication.

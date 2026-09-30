@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-08T06:15:59Z"
+pushed_at: "2026-09-19T04:30:42Z"
 ---
 ## What it is
 MCP server `UniRate`, catalogued on PulseMCP. Currency conversion and exchange rates for AI agents covering 170+ currencies with historical data since 1999.

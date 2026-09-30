@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-11T03:20:57Z"
+pushed_at: "2026-09-14T03:37:36Z"
 ---
 ## What it is
 Enables AI agents to communicate with UART/serial devices, offering tools for port management, data read/write, and protocol handling.

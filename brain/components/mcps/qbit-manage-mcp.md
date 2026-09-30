@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T17:54:08Z"
+pushed_at: "2026-09-04T17:54:43Z"
 ---
 ## What it is
 MCP server exposing qbit_manage's Web API as tools, so an LLM can read and manage a qbit_manage instance: run maintenance commands on qBittorrent torrents, manage config files, scheduler, logs, security settings, and system state.

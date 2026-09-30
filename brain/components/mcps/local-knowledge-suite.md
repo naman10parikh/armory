@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T21:18:38Z"
+pushed_at: "2026-09-06T21:04:41Z"
 ---
 ## What it is
 Provides MCP tools for workspace initialization, health checks, context recall, and durable memory capture, enabling project-specific memory and shared company knowledge with citations.

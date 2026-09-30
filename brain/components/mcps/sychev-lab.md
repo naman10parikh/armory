@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-04-27T20:43:40Z"
+pushed_at: "2026-09-20T05:41:53Z"
 ---
 ## What it is
 MCP server `Sychev Lab`, catalogued on PulseMCP. Exposes Sychev Lab's e-commerce platform including products, articles, tutorials, and checkout tools.

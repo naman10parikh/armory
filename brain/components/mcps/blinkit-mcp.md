@@ -8,13 +8,13 @@ source_url: https://github.com/hereisSwapnil/blinkit-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 43
+stars: 46
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-03-10T17:23:19Z"
+forks: 10
+pushed_at: "2026-09-24T19:57:28Z"
 ---
 ## What it is
 Enables Claude to automate grocery shopping on Blinkit, including product search, cart management, location setup, and payment via UPI.

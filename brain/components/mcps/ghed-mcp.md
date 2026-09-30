@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-06T06:14:19Z"
+pushed_at: "2026-09-15T06:20:24Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that gives AI assistants like Claude direct access to the World Health Organization's Global Health Expenditure Database (GHED) — purpose-built for comparative health-financing research.

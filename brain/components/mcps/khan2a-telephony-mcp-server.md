@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
-stars: 13
+stars: 14
 forks: 5
 pushed_at: "2026-06-07T14:00:23Z"
 ---

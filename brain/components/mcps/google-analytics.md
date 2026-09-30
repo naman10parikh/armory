@@ -8,11 +8,11 @@ source_url: https://github.com/googleanalytics/google-analytics-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3100
+stars: 3336
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 673
+forks: 711
 pushed_at: "2026-08-07T19:23:35Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T13:50:01Z"
+pushed_at: "2026-09-04T16:00:05Z"
 ---
 ## What it is
 Enables AI agents to share persistent, conflict-safe memory by providing tools to recall, learn, reinforce, and retire lessons, using CockroachDB for storage and AWS Bedrock for embeddings.

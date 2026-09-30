@@ -8,12 +8,12 @@ source_url: https://github.com/megberts/mcp-websitepublisher-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-17T06:20:49Z"
+pushed_at: "2026-09-25T04:43:14Z"
 ---
 ## What it is
 MCP server `WebsitePublisher`, catalogued on PulseMCP. Build and publish websites through AI conversation.

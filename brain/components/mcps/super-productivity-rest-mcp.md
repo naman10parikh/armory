@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T08:09:47Z"
+pushed_at: "2026-09-03T10:31:29Z"
 ---
 ## What it is
 Enables natural-language control of Super Productivity tasks, projects, and tags via MCP tools that bridge to the app's local REST API.

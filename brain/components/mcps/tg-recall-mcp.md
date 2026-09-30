@@ -8,13 +8,13 @@ source_url: https://github.com/Rerowros/tg-recall
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-21T19:48:29Z"
+pushed_at: "2026-09-26T21:52:18Z"
 ---
 ## What it is
 Local-first, read-only MCP server for searching and retrieving cited evidence from archived Telegram chats, including transcripts and media metadata.

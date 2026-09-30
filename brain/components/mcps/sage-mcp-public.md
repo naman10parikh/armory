@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-28T17:04:06Z"
+pushed_at: "2026-09-27T18:03:37Z"
 ---
 ## What it is
 Query Sage Veterinary Imaging's public data including website content, provider directory, pricing, and location details.

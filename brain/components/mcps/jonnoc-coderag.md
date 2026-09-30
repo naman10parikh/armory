@@ -8,11 +8,11 @@ source_url: https://github.com/jonnoc/coderag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 14
 pushed_at: "2025-06-16T08:34:18Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/zaplitny/atimelogger-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-08-20T19:52:50Z"
 ---
 ## What it is

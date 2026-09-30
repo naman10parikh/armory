@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T18:01:29Z"
+pushed_at: "2026-09-27T20:41:46Z"
 ---
 ## What it is
 MCP server `Pipeworx GitHub`, catalogued on PulseMCP. Queries public GitHub repositories, users, issues, and pull requests via the GitHub public REST API without authentication.

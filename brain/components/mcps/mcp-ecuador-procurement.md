@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:02:39Z"
+pushed_at: "2026-09-25T23:41:54Z"
 ---
 ## What it is
 Enables AI agents to query Ecuador government procurement (SERCOP/Compras Públicas) data without API keys, via natural language or direct tools.

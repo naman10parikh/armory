@@ -8,12 +8,12 @@ source_url: https://github.com/ptbsare/mcp-proxy-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 193
+stars: 196
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
+forks: 17
 pushed_at: "2025-07-27T04:40:12Z"
 ---
 ## What it is

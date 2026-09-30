@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T07:36:39Z"
+pushed_at: "2026-09-28T03:37:18Z"
 ---
 ## What it is
 A read-only MCP server for Slack that reads messages from channels the bot is invited to, without storing data. It provides tools to fetch channel history, thread replies, and resolve user IDs, with access controlled solely by channel invitations.

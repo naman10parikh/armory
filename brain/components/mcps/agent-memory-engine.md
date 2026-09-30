@@ -8,12 +8,12 @@ source_url: https://github.com/uudam42/agent-memory-engine
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 123
+stars: 125
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-07-30T14:27:41Z"
 ---
 ## What it is

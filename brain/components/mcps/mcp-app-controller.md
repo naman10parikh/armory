@@ -8,13 +8,13 @@ source_url: https://github.com/se/mcp-app-controller
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T15:19:40Z"
+pushed_at: "2026-09-28T15:15:06Z"
 ---
 ## What it is
 Central daemon for managing local app processes, enabling multiple Claude Code sessions to coordinate starts, stops, and restarts with conflict resolution and a web dashboard.

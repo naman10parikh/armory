@@ -8,12 +8,12 @@ source_url: https://github.com/nirholas/lyra-intel
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-08-17T03:02:33Z"
+pushed_at: "2026-09-15T08:00:08Z"
 ---
 ## What it is
 MCP server `Repo Intel`, catalogued on PulseMCP. Analyze repositories of any size with deep code analysis, security scanning, complexity metrics, and AI-powered semantic search.

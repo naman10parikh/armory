@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T00:42:36Z"
+pushed_at: "2026-09-27T12:13:28Z"
 ---
 ## What it is
 A remote MCP server for Korean AEC standards (KDS, KCS, KS, building law) that answers with exact clause numbers and confidence scores, and refuses to guess when no grounds are found. It also preserves privacy by never storing query text on disk.

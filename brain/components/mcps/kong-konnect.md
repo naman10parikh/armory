@@ -8,11 +8,11 @@ source_url: https://github.com/kong/mcp-konnect
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 17
 pushed_at: "2026-05-19T13:55:30Z"
 ---
 ## What it is

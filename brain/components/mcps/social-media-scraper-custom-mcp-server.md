@@ -8,12 +8,12 @@ source_url: https://github.com/Sharan-Kumar-R/Custom-MCP-Server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 95
+stars: 98
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 75
+forks: 76
 pushed_at: "2025-06-27T13:57:02Z"
 ---
 ## What it is

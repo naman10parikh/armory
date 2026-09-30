@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-22T06:32:19Z"
+pushed_at: "2026-09-07T06:48:17Z"
 ---
 ## What it is
 MCP server `Agent Ready`, catalogued on PulseMCP. Scans websites for AI agent readability against 59 checks covering Vercel Agent Readability Spec, llmstxt.org, and agent-protocol manifests.

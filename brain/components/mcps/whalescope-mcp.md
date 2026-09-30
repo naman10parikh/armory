@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T07:53:14Z"
+pushed_at: "2026-09-03T03:19:04Z"
 ---
 ## What it is
 MCP server providing Binance Futures market intelligence, including funding rates, open interest, long/short ratios, order book, and volatility, with a focus on retail vs whale positioning. It offers read-only access to public data and a composite analysis tool.

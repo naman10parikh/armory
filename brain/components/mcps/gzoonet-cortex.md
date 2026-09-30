@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 21
+stars: 23
 forks: 3
-pushed_at: "2026-08-28T19:06:23Z"
+pushed_at: "2026-09-05T16:10:24Z"
 ---
 ## What it is
 Local-first knowledge graph for developers. Watches project files, extracts entities and relationships via LLMs, builds a queryable knowledge graph with web dashboard and CLI. Provides 4 MCP tools: get_status, list_projects, find_entity, query_cortex.

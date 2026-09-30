@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-07-21T19:31:37Z"
+forks: 1
+pushed_at: "2026-09-29T07:28:22Z"
 ---
 ## What it is
 Enables AI assistants to manage remote servers via SSH with 43 specialized tools for command execution, file editing, directory operations, and background tasks across Linux, macOS, and Windows.

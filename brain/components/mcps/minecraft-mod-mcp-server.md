@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T09:29:20Z"
+pushed_at: "2026-09-07T04:36:36Z"
 ---
 ## What it is
 Enables Minecraft modpack development by generating FTB Quests chapters and tasks, KubeJS scripts (weapons, armor, recipes), validating SNBT/config files, and providing diagnostic checks.

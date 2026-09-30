@@ -8,11 +8,11 @@ source_url: https://github.com/hopx-ai/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 155
+stars: 156
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 7
 pushed_at: "2025-12-03T19:10:37Z"
 ---
 ## What it is

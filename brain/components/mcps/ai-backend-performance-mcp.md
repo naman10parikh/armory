@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T03:35:16Z"
+pushed_at: "2026-09-06T11:22:32Z"
 ---
 ## What it is
 Enables AI agents to perform read-only static analysis of Node.js backend projects, detecting database query anti-patterns, async bottlenecks, connection pooling mistakes, and dependency hygiene issues while returning structured evidence-backed findings.

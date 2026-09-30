@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:14:05Z"
+pushed_at: "2026-09-25T00:15:37Z"
 ---
 ## What it is
 MCP server `HTTP Cat`, catalogued on PulseMCP. Retrieve cat images corresponding to HTTP status codes from the HTTP.cat API.

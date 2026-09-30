@@ -8,11 +8,11 @@ source_url: https://github.com/vanderheijden86/moneybird-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2026-03-01T13:52:40Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/JohnXu22786/docs-retriever
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T05:03:13Z"
+pushed_at: "2026-09-29T22:12:38Z"
 ---
 ## What it is
 Versioned library documentation retrieval MCP server for coding agents, providing accurate, versioned, and traceable API documentation snippets with scoring, caching, and offline support.

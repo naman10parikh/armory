@@ -8,13 +8,13 @@ source_url: https://github.com/jiezeng2004-design/dsh-chatgpt-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-29T13:09:55Z"
+forks: 5
+pushed_at: "2026-09-29T14:24:54Z"
 ---
 ## What it is
 MCP bridge enabling ChatGPT to create, view, and control DeepSeek Harness agent sessions, with session management, messaging, and approval tools.

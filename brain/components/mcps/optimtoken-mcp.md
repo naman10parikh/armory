@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T17:00:49Z"
+pushed_at: "2026-09-29T08:05:16Z"
 ---
 ## What it is
 Enables AI assistants to fetch live, dated prices for LLM models and cloud compute instances across providers, compare and recommend models, and estimate monthly costs based on workload-specific token shapes and constraints.

@@ -8,13 +8,13 @@ source_url: https://github.com/jghiringhelli/codeseeker
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-12T13:59:30Z"
+pushed_at: "2026-09-22T19:41:54Z"
 ---
 ## What it is
 Four-layer hybrid search and knowledge graph for AI coding assistants: BM25 + vector embeddings + RAPTOR directory summaries + graph expansion fused into a single MCP tool.

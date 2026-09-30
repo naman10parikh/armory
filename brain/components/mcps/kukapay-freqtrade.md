@@ -8,11 +8,11 @@ source_url: https://github.com/kukapay/freqtrade-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 139
+stars: 146
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 39
+forks: 40
 pushed_at: "2025-12-06T01:04:13Z"
 ---
 ## What it is

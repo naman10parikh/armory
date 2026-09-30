@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T14:19:20Z"
+pushed_at: "2026-09-17T17:28:19Z"
 ---
 ## What it is
 Unofficial MCP server for RØDECaster Pro II, providing tools to read and write audio processing parameters like noise gate, compressor, and routing, enabling AI agents to control the mixer.

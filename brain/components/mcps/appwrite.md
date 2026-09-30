@@ -12,8 +12,8 @@ stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
-pushed_at: "2026-09-02T00:33:05Z"
+forks: 19
+pushed_at: "2026-09-30T00:33:46Z"
 ---
 ## What it is
 MCP server `Appwrite`, catalogued on PulseMCP. Backend-as-a-service platform integration for database, user, storage, and function management

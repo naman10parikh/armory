@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T04:29:24Z"
+pushed_at: "2026-09-28T04:26:49Z"
 ---
 ## What it is
 Enables MCP clients to search for locations, fetch weather forecasts, and retrieve forecast meteogram images through the meteoblue Weather API.

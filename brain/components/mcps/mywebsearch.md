@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T09:02:20Z"
+pushed_at: "2026-09-30T11:51:24Z"
 ---
 ## What it is
 Name: MyWebSearch Type: MCP Server (stdio + streamable-http/SSE) Repository: https://github.com/wtznicy/my-websearch npm: my-websearch (npx -y my-websearch@latest) Description: Multi-engine web search MCP server, CLI and local daemon — no API keys or registration required. Searches bing/baidu/csdn/j

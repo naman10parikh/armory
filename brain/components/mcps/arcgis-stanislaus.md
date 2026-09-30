@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:41:07Z"
+pushed_at: "2026-09-25T21:57:39Z"
 ---
 ## What it is
 Enables searching and querying Stanislaus County GIS open geospatial datasets (parcels, addresses, zoning, public works) via ArcGIS Feature Services. Supports natural language access through Pipeworx gateway.

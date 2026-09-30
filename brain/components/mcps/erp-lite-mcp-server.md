@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-08-14T12:38:24Z"
+pushed_at: "2026-09-15T10:21:59Z"
 ---
 ## What it is
 MCP server that exposes ERP functionalities to AI agents, enabling read-only queries for sales orders and inventory, and human-in-the-loop purchase requisition creation and approval.

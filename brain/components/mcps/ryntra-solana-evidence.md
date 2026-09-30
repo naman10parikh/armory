@@ -8,13 +8,13 @@ source_url: https://github.com/ryntra-io/ryntra-solana-evidence
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T00:38:04Z"
+pushed_at: "2026-09-29T22:10:21Z"
 ---
 ## What it is
 Enables users to inspect Solana token mint accounts, preflight transfer actions, and verify outcome receipts without holding any keys or signing transactions.

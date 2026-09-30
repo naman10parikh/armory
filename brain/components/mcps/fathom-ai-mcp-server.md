@@ -8,7 +8,7 @@ source_url: https://github.com/Dot-Fun/fathom-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []

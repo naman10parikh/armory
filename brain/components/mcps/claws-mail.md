@@ -8,13 +8,13 @@ source_url: https://github.com/it-atelier-gn/claws-mail-mcp-plugin
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T19:51:22Z"
+pushed_at: "2026-09-04T21:13:34Z"
 ---
 ## What it is
 Enables AI tools to read, search, compose, reply, forward, and manage Claws Mail folders and messages through the user's already-configured email accounts via a local MCP server.

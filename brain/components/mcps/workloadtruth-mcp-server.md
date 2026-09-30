@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T15:46:02Z"
+pushed_at: "2026-09-25T04:24:41Z"
 ---
 ## What it is
 Enables classification of GPU workloads as training, inference, or idle from telemetry data, with tools for one-shot classification, benchmarking, and audit log verification.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T17:43:50Z"
+pushed_at: "2026-09-08T20:27:25Z"
 ---
 ## What it is
 Enables users to define JavaScript extraction scripts for specific domains and execute them against any matching URL to extract structured data from web pages.

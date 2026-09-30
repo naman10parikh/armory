@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T10:55:11Z"
+pushed_at: "2026-09-17T08:16:48Z"
 ---
 ## What it is
 MCP server for LIMU Portal that provides read-only and controlled write access to operational and finance data, including clients, cargo, shipments, budgets, requisitions, payment vouchers, and reports.

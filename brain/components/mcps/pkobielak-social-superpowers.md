@@ -8,12 +8,12 @@ source_url: https://github.com/pkobielak/social-superpowers-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-07-29T23:29:00Z"
+forks: 1
+pushed_at: "2026-09-16T21:25:40Z"
 ---
 ## What it is
 MCP server `Social Superpowers`, catalogued on PulseMCP. Hosted gateway giving AI agents live read access to X/Twitter and Reddit through twelve social media tools with no API keys required.

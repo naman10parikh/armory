@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T17:15:12Z"
+pushed_at: "2026-09-24T17:15:20Z"
 ---
 ## What it is
 Enables AI agents to safely work on GitHub PR reviews behind a safety boundary, creating draft reviews and optionally submitting them with fixed guardrails, without exposing write tokens.

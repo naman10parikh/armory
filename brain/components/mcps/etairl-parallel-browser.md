@@ -12,8 +12,8 @@ stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-05-31T08:43:53Z"
+forks: 6
+pushed_at: "2026-09-10T07:45:31Z"
 ---
 ## What it is
 MCP server `Parallel Browser`, catalogued on PulseMCP. Parallel browser automation across Browserbase, Anchor Browser, and Cloudflare providers.

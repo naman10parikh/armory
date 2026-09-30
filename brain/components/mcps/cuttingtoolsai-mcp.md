@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T21:18:33Z"
+pushed_at: "2026-09-22T18:43:55Z"
 ---
 ## What it is
 Brand-neutral carbide grade cross-reference for machining. One tool, grade_xref, returns catalog-verified comparable grades across manufacturers at the same ISO application position, with provenance. Never invents a grade.

@@ -8,13 +8,13 @@ source_url: https://github.com/tmustier/codex-computer-use-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-22T15:30:26Z"
+forks: 8
+pushed_at: "2026-09-28T15:55:00Z"
 ---
 ## What it is
 A local MCP server that lets compatible agents use the official, signed Computer Use broker bundled with the OpenAI ChatGPT macOS app.

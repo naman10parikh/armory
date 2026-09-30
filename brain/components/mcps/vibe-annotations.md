@@ -8,12 +8,12 @@ source_url: https://github.com/RaphaelRegnier/vibe-annotations
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 149
+stars: 173
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 21
+forks: 24
 pushed_at: "2026-08-17T17:37:45Z"
 ---
 ## What it is

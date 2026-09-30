@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T00:15:20Z"
+pushed_at: "2026-09-29T00:16:30Z"
 ---
 ## What it is
 First-line incident triage you can trust: ranked root-cause hypotheses where every claim cites a real evidence handle — and the agent abstains rather than guess.

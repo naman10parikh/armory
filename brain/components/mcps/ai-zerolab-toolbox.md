@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-08-31T18:32:33Z"
+pushed_at: "2026-09-28T18:41:46Z"
 ---
 ## What it is
 MCP server `Toolbox`, catalogued on PulseMCP. Integrates with external APIs and services to provide command execution, Figma file interaction, and file operations, enhancing LLM capabilities for UI/UX design, file management, and service interactions.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-29T09:32:30Z"
+pushed_at: "2026-09-03T10:07:30Z"
 ---
 ## What it is
 A review handoff tool for agent-driven coding sessions that captures worktree diffs, creates shareable review URLs, and streams reviewer feedback back to the agent.

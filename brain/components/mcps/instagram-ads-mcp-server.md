@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T02:00:03Z"
+pushed_at: "2026-09-23T04:23:01Z"
 ---
 ## What it is
 Wraps the Meta Marketing API to enable creating, modifying, viewing, and deleting Instagram ads via natural language.

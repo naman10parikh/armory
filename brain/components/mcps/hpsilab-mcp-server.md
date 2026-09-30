@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T01:09:25Z"
+pushed_at: "2026-09-30T12:16:37Z"
 ---
 ## What it is
 Institutional-grade quantitative stock analysis and research signals for AI agents via the Model Context Protocol (MCP).

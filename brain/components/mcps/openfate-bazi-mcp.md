@@ -8,13 +8,13 @@ source_url: https://github.com/openfate-ai/bazi-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 142
+stars: 156
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 21
-pushed_at: "2026-07-02T06:06:45Z"
+forks: 22
+pushed_at: "2026-09-20T21:41:19Z"
 ---
 ## What it is
 Enables AI agents to calculate deterministic Bazi (Four Pillars) charts with True Solar Time and Earthly Branch interactions, avoiding LLM hallucination of calendrical math.

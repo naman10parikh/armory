@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T14:22:20Z"
+pushed_at: "2026-09-16T23:27:22Z"
 ---
 ## What it is
 Governed AI-ops MCP server for Nutanix Prism Central v4 REST API, offering 47 read/write tools for clusters, VMs, storage, network, catalog, data protection, alerts, and LCM upgrades with built-in audit, budget, and risk-tier governance.

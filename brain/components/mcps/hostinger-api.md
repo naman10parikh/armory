@@ -8,12 +8,12 @@ source_url: https://github.com/hostinger/api-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 148
+stars: 156
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 56
-pushed_at: "2026-09-01T11:33:29Z"
+forks: 58
+pushed_at: "2026-09-30T13:02:59Z"
 ---
 ## What it is
 MCP server `Hostinger API`, catalogued on PulseMCP. Integrates with Hostinger's hosting platform to enable domain registration and DNS management, VPS creation and configuration, firewall setup, backup operations, and billing subscription handling through over 100 specialized tools organized by service category.

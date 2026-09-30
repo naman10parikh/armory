@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-27T15:43:35Z"
+pushed_at: "2026-09-25T18:58:42Z"
 ---
 ## What it is
 Queries Claude Sonnet 4.6 and OpenAI GPT-5.5 in parallel via OpenRouter, returning structured multi-perspective responses for comparison and cross-checking.

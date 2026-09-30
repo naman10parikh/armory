@@ -8,13 +8,13 @@ source_url: https://github.com/nokia/mcp-redfish
 license: BSD 3-Clause
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-08-31T16:53:08Z"
+pushed_at: "2026-09-29T06:22:39Z"
 ---
 ## What it is
 Enables AI agents to manage infrastructure through natural language queries to Redfish API endpoints, supporting listing endpoints and retrieving resource data.

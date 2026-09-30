@@ -8,11 +8,11 @@ source_url: https://github.com/aliyun/alibabacloud-dms-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 17
 pushed_at: "2026-07-29T04:22:13Z"
 ---
 ## What it is

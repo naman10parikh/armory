@@ -8,11 +8,11 @@ source_url: https://github.com/ukenn2112/bangumimcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 15
 pushed_at: "2026-04-22T13:58:25Z"
 ---
 ## What it is

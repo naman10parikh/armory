@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T21:01:26Z"
+pushed_at: "2026-09-10T06:55:06Z"
 ---
 ## What it is
 Automates the AWS Foundational Technical Review (FTR) partner self-assessment by evaluating SOC 2 and WAFR reports against defined controls, returning structured PASS/FAIL decisions with reasoning.

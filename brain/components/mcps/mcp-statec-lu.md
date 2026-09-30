@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:43:51Z"
+pushed_at: "2026-09-28T22:30:47Z"
 ---
 ## What it is
 Enables querying of STATEC Luxembourg economic and statistical data through natural language using MCP tools and the Pipeworx gateway.

@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [cc-notify, claude-hooks]
 tags: [claude-code, hooks]
-stars: 178
+stars: 179
 forks: 14
 pushed_at: "2025-08-26T17:11:20Z"
 ---

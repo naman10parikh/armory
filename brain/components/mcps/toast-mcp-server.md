@@ -8,12 +8,12 @@ source_url: https://github.com/BusyBee3333/toast-mcp-2026-complete
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-08-28T12:05:19Z"
 ---
 ## What it is

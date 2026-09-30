@@ -8,12 +8,12 @@ source_url: https://github.com/felimet/mathtype-for-word
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 4
 pushed_at: "2026-07-21T20:53:20Z"
 ---
 ## What it is

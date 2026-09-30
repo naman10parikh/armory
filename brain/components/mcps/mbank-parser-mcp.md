@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T09:01:12Z"
+pushed_at: "2026-09-26T10:46:00Z"
 ---
 ## What it is
 Enables parsing and filtering of mBank CSV operation exports locally. Supports data aggregation and querying through natural language, running entirely offline with no network calls.

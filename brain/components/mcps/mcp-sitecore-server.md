@@ -8,13 +8,13 @@ source_url: https://github.com/Antonytm/mcp-sitecore-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 48
+stars: 53
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 18
-pushed_at: "2026-09-01T20:01:37Z"
+forks: 19
+pushed_at: "2026-09-17T08:13:07Z"
 ---
 ## What it is
 MCP server for Sitecore that provides tools to interact with Sitecore via GraphQL, Item Service API, and Sitecore PowerShell Extensions, enabling content and security management.

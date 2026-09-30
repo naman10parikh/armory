@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-30T16:39:41Z"
+pushed_at: "2026-09-16T08:05:35Z"
 ---
 ## What it is
 { "mcpServers": { "loomem": { "command": "loomem-cli", "args": ["mcp-stdio", "--url", "http://127.0.0.1:3030"] } } }

@@ -8,12 +8,12 @@ source_url: https://github.com/stippi/code-assistant
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 180
+stars: 182
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 32
-pushed_at: "2026-09-01T14:31:31Z"
+forks: 34
+pushed_at: "2026-09-24T09:27:24Z"
 ---
 ## What it is
 MCP server `Code Assistant`, catalogued on PulseMCP. Rust-based code exploration server that enables reading, writing, and understanding codebases through autonomous navigation, file summarization, and multi-provider LLM support.

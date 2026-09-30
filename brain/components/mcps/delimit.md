@@ -8,12 +8,12 @@ source_url: https://github.com/delimit-ai/delimit-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-09-02T03:02:22Z"
+forks: 5
+pushed_at: "2026-09-30T02:07:07Z"
 ---
 ## What it is
 MCP server `Delimit`, catalogued on PulseMCP. API governance toolkit with breaking change detection, security audit, persistent task ledger, and multi-model consensus for AI coding assistants.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-21T07:54:41Z"
+forks: 1
+pushed_at: "2026-09-06T02:45:23Z"
 ---
 ## What it is
 Enables coding agents to explore a repository map via MCP, with tools for briefs, scoping, symbol lookup, module details, and freshness checks.

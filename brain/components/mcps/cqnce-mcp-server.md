@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T18:54:14Z"
+pushed_at: "2026-09-28T09:56:01Z"
 ---
 ## What it is
 Exposes cQnce human-in-the-loop authorization as MCP tools, letting AI agents request and await human approval for risky actions. Includes request submission, monitoring, and project/team management capabilities.

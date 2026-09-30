@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:12:15Z"
+pushed_at: "2026-09-26T19:03:04Z"
 ---
 ## What it is
 Enables access to Statistics Iceland data through the PxWeb API for querying tables and navigating subject trees.

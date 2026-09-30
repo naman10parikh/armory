@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:17:06Z"
+pushed_at: "2026-09-28T22:30:13Z"
 ---
 ## What it is
 Enables querying Italian national statistics (ISTAT) data through natural language questions, with tools for accessing demographic, economic, and social indicators.

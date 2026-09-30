@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T18:16:05Z"
+pushed_at: "2026-09-03T22:18:21Z"
 ---
 ## What it is
 Self-hosted MCP server for Lidl Plus (NL + DE) that reads receipts and manages coupons via the lidl-plus library, using refresh tokens for authentication.

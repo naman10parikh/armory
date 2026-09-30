@@ -8,12 +8,12 @@ source_url: https://github.com/kubulashvili/zepp-life-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-08-05T12:04:59Z"
 ---
 ## What it is

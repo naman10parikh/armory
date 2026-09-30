@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-08-31T08:32:50Z"
+pushed_at: "2026-09-15T08:12:41Z"
 ---
 ## What it is
 MCP server for browser debugging, inspection, and verification that streams console logs, network errors, and user actions into AI coding assistants.

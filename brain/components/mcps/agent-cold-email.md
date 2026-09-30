@@ -8,13 +8,13 @@ source_url: https://github.com/YS-projectcalc/agent-cold-email
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T17:30:46Z"
+pushed_at: "2026-09-25T04:05:42Z"
 ---
 ## What it is
 Agent-native cold-email infrastructure providing ~12 high-level tools for domain setup, mailbox provisioning, campaign launch, inbox management, and metrics, all operated via MCP or CLI.

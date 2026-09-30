@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-17T00:35:16Z"
+pushed_at: "2026-09-07T09:25:25Z"
 ---
 ## What it is
 MCP server `Roamzy`, catalogued on PulseMCP. Purchase global eSIMs through chat with per-MB USDT/USDC billing across 192 countries.

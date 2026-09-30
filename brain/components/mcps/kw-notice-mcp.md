@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T03:55:54Z"
+pushed_at: "2026-09-29T03:55:03Z"
 ---
 ## What it is
 Local read-only MCP server for Kwangwoon University notices, providing metadata-only crawling and cached notice access through a local STDIO server.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-02T02:12:46Z"
+pushed_at: "2026-09-08T13:05:09Z"
 ---
 ## What it is
 MCP server `Rustok Wallet`, catalogued on PulseMCP. Self-custody Ethereum agent wallet supporting all EVM-compatible chains.

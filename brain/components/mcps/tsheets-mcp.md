@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T03:45:22Z"
+pushed_at: "2026-09-04T02:55:53Z"
 ---
 ## What it is
 Exposes the full public TSheets REST API v1 as MCP tools, enabling time tracking, scheduling, and PTO management operations via natural language.

@@ -8,11 +8,11 @@ source_url: https://github.com/gerkensm/callcenter.js-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 10
 pushed_at: "2025-10-30T17:59:29Z"
 ---
 ## What it is

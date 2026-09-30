@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T20:26:44Z"
+pushed_at: "2026-09-25T10:49:10Z"
 ---
 ## What it is
 MCP server for agent-first double-entry bookkeeping for Dutch SMEs, supporting VAT, Peppol BIS 3.0 e-invoicing, and local-first SQLite storage with full audit logging and deterministic JSON output.

@@ -8,11 +8,11 @@ source_url: https://github.com/conechoai/nano-banana-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 228
+stars: 231
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 93
+forks: 94
 pushed_at: "2025-11-04T09:50:10Z"
 ---
 ## What it is

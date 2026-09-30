@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:16:41Z"
+pushed_at: "2026-09-25T00:26:39Z"
 ---
 ## What it is
 Validates and converts ISBN-10 and ISBN-13 numbers offline, checking check digits and supporting conversion between formats.

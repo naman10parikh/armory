@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T09:24:50Z"
+pushed_at: "2026-09-30T10:42:18Z"
 ---
 ## What it is
 Enables text-first agents to inspect images via focused questions, returning compact, checked evidence packets. Reduces visual context by ~90% while preserving expected fields.

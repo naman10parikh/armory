@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T16:02:01Z"
+pushed_at: "2026-09-27T18:24:29Z"
 ---
 ## What it is
 MCP server `Architector`, catalogued on PulseMCP. Local-first project architecture storage for modules, data flows, scripts, and design documentation.

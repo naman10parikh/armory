@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T10:11:08Z"
+pushed_at: "2026-09-03T12:43:47Z"
 ---
 ## What it is
 Custom MCP server for NotebookLM that adds audio source upload, YouTube source ingestion, source readiness polling, and transcript export, complementing standard Q&A and audio overview tools.

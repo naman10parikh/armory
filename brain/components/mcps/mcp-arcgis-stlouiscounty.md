@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:41:11Z"
+pushed_at: "2026-09-25T21:57:49Z"
 ---
 ## What it is
 St. Louis County GIS — St. Louis County, Missouri open geospatial data (ArcGIS). Enables searching and querying datasets like parcels, addresses, zoning and public works.

@@ -8,12 +8,12 @@ source_url: https://github.com/es617/serial-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 5
 pushed_at: "2026-03-07T22:09:22Z"
 ---
 ## What it is

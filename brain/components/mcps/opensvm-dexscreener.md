@@ -8,11 +8,11 @@ source_url: https://github.com/opensvm/dexscreener-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2025-01-06T14:59:12Z"
 ---
 ## What it is

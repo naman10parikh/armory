@@ -8,13 +8,13 @@ source_url: https://github.com/inity13/scenariosim-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T09:36:31Z"
+pushed_at: "2026-09-26T12:23:02Z"
 ---
 ## What it is
 A deterministic what-if scenario simulation MCP server that projects business metrics over time with exact decimal arithmetic, offering sensitivity analysis and break-even solving.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T16:49:17Z"
+pushed_at: "2026-09-21T13:43:52Z"
 ---
 ## What it is
 Enables natural language management of Naver Cloud Platform infrastructure, covering over 60 services and 1,000+ API tools.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T08:30:38Z"
+pushed_at: "2026-09-15T12:54:09Z"
 ---
 ## What it is
 A self-hosted MCP server for Linear that reduces response sizes by field-selecting minimal data, saving tokens and costs in LLM agent sessions.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-18T12:14:07Z"
+pushed_at: "2026-09-20T13:47:00Z"
 ---
 ## What it is
 Enables management and interaction with the Ultralytics Platform, including browsing projects/datasets/models, starting training, running predictions, and creating exports.

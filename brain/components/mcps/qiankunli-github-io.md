@@ -14,7 +14,7 @@ verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, blogging-content]
 forks: 50
-pushed_at: "2026-08-26T06:40:22Z"
+pushed_at: "2026-09-15T13:53:23Z"
 ---
 ## What it is
 Personal blog

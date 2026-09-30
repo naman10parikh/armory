@@ -8,14 +8,14 @@ source_url: https://github.com/duckdb/duckdb
 license: unknown
 cli_compat: []
 maturity: stable
-stars: 40916
+stars: 41824
 eval_score: 1
 mentions: null
 verified_at: 
 related: []
 tags: [data-db]
-forks: 3695
-pushed_at: "2026-09-01T18:57:34Z"
+forks: 3844
+pushed_at: "2026-09-30T12:42:35Z"
 ---
 
 # duckdb

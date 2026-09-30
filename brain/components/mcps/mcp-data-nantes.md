@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:55:43Z"
+pushed_at: "2026-09-25T23:17:53Z"
 ---
 ## What it is
 Enables AI agents to search and query Nantes Métropole open data datasets (mobility, urban services, environment, geography) using natural language and SQL-like filters.

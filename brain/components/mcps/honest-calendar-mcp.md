@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T05:15:05Z"
+pushed_at: "2026-09-26T10:49:33Z"
 ---
 ## What it is
 A local MCP server that provides read/write access to Google Calendar without data passing through third parties, enabling AI assistants to manage events directly via the Google Calendar API.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T03:30:32Z"
+pushed_at: "2026-09-23T10:39:24Z"
 ---
 ## What it is
 MCP server that wraps the MSPbots Fleet Platform API, enabling host inventory management, on-demand script execution, and saved osquery queries over the Model Context Protocol.

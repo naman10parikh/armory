@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-23T11:44:12Z"
+pushed_at: "2026-09-08T08:12:30Z"
 ---
 ## What it is
 Free App Store competitive intelligence for Claude — rival downloads, revenue, and ASO keywords. MCP server, no subscription.

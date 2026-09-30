@@ -8,11 +8,11 @@ source_url: https://github.com/cyanheads/atlas-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 477
+stars: 478
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 65
+forks: 67
 pushed_at: "2025-07-22T05:17:41Z"
 ---
 ## What it is

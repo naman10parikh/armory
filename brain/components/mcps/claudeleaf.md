@@ -8,12 +8,12 @@ source_url: https://github.com/lonetis/claudeleaf
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 4
 pushed_at: "2026-06-29T19:16:22Z"
 ---
 ## What it is

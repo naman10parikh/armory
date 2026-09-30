@@ -8,7 +8,7 @@ source_url: https://github.com/dschuler36/reaper-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 118
+stars: 124
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

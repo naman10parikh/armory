@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:08:40Z"
+pushed_at: "2026-09-26T12:34:21Z"
 ---
 ## What it is
 MCP server `GDACS`, catalogued on PulseMCP. Access GDACS real-time global disaster alerts for earthquakes, cyclones, floods, and volcanoes.

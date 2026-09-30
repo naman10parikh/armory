@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T19:08:38Z"
+pushed_at: "2026-09-26T17:09:05Z"
 ---
 ## What it is
 Enables LLMs to query IP addresses against free MaxMind GeoLite2 geolocation databases.

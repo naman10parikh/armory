@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T02:33:40Z"
+pushed_at: "2026-09-20T14:30:01Z"
 ---
 ## What it is
 Enables searching 14.5M Smithsonian Open Access objects, retrieving CC0 images, and exploring museum collections via MCP with 6 tools.

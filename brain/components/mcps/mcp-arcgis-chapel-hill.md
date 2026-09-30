@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:34:20Z"
+pushed_at: "2026-09-25T21:26:11Z"
 ---
 ## What it is
 Enables querying and searching open geospatial datasets from the Town of Chapel Hill GIS, including parcels, zoning, transit, and town services, via ArcGIS Feature Services.

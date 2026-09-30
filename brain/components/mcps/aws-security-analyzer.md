@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T13:49:28Z"
+pushed_at: "2026-09-20T07:42:54Z"
 ---
 ## What it is
 An MCP server for automated AWS security scanning. It detects over-privileged IAM roles and S3 Public Access Block misconfigurations, enabling least-privilege enforcement through tools like list_iam_roles, analyze_iam_policy, and analyze_s3_security.

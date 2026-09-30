@@ -8,12 +8,12 @@ source_url: https://github.com/dorukardahan/domain-search-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-08-09T07:35:55Z"
+pushed_at: "2026-09-30T00:28:39Z"
 ---
 ## What it is
 MCP server `Domain Search`, catalogued on PulseMCP. Check domain availability and pricing across multiple registrars

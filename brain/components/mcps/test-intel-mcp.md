@@ -8,13 +8,13 @@ source_url: https://github.com/barissozudogru/test-intel-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T11:54:10Z"
+pushed_at: "2026-09-25T09:41:25Z"
 ---
 ## What it is
 Test coverage intelligence MCP server for TypeScript and JavaScript projects. Analyzes coverage reports to find untested functions, computes cyclomatic complexity, and suggests test cases locally.

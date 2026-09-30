@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T02:04:47Z"
+pushed_at: "2026-09-22T18:31:27Z"
 ---
 ## What it is
 A self-contained stdio JSON-RPC 2.0 server that brings AI capabilities to any MCP client, primarily for Pentool, enabling tasks like picking checks, bypassing WAF, and finding non-obvious endpoints.

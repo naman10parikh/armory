@@ -8,13 +8,13 @@ source_url: https://github.com/vectora-foundry/native-devtools-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 128
+stars: 133
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
-pushed_at: "2026-05-31T10:41:20Z"
+forks: 16
+pushed_at: "2026-09-24T11:36:55Z"
 ---
 ## What it is
 Gives AI agents and MCP clients direct control over native desktop apps, Chrome/Electron browsers, and Android devices with screenshots, OCR, accessibility-based element lookup, input simulation, window management, CDP, and ADB in one local server.

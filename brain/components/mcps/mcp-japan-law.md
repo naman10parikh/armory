@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:17:16Z"
+pushed_at: "2026-09-26T19:20:37Z"
 ---
 ## What it is
 Enables querying Japanese national laws and ordinances via the e-Gov Law API, allowing AI agents to access legal data through natural language questions.

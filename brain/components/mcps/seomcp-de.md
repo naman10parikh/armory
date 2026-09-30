@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T21:31:09Z"
+pushed_at: "2026-09-04T10:40:17Z"
 ---
 ## What it is
 Serves as a reserved placeholder for a future SEO-MCP service, currently offering no public endpoint or functionality. It is intended to provide endpoint discovery, authorization, security contact, and status once launched.

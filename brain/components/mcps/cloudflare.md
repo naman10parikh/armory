@@ -8,13 +8,13 @@ source_url: https://github.com/cloudflare/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 782
+stars: 899
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 108
-pushed_at: "2026-08-25T11:42:10Z"
+forks: 123
+pushed_at: "2026-09-28T22:25:58Z"
 ---
 ## What it is
 MCP server `Cloudflare`, catalogued on PulseMCP. Integrates with the entire Cloudflare API, covering 2,500+ endpoints across DNS, Workers, R2, Zero Trust, and all other Cloudflare products.

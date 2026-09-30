@@ -8,12 +8,12 @@ source_url: https://github.com/alondmnt/joplin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 168
+stars: 173
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
-pushed_at: "2026-08-19T09:53:42Z"
+forks: 18
+pushed_at: "2026-09-12T08:34:20Z"
 ---
 ## What it is
 MCP server `Joplin`, catalogued on PulseMCP. Integrates with Joplin note-taking application via the joppy Python API

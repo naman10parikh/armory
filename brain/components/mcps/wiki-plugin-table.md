@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T19:17:05Z"
+pushed_at: "2026-09-27T13:33:40Z"
 ---
 ## What it is
 Enables interaction with table data in a Federated Wiki, supporting CSV, TSV, JSON, and markdown pipe tables, with CRUD operations via REST and MCP tools.

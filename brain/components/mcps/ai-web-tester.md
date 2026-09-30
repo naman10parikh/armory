@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T14:03:07Z"
+pushed_at: "2026-09-24T16:45:01Z"
 ---
 ## What it is
 Enables AI coding agents to autonomously interact with and test web applications in a real browser, providing DOM/Accessibility tree extraction, runtime telemetry, screenshot capture, and Markdown test reports.

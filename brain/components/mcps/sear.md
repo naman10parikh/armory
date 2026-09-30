@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T21:03:21Z"
+pushed_at: "2026-09-24T08:32:40Z"
 ---
 ## What it is
 A read-only MCP server for operator-grade release inspection and benchmark browsing.

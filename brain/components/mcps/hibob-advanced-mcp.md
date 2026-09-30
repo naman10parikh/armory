@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T14:35:56Z"
+pushed_at: "2026-09-30T09:26:47Z"
 ---
 ## What it is
 An MCP server for HiBob's Workforce Planning API, enabling management of planned positions, openings, and budgets. It exposes read and write tools for workforce planning data, complementing standard HRIS integrations.

@@ -8,11 +8,11 @@ source_url: https://github.com/easecloudio/mcp-metabase-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 81
+stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
+forks: 25
 pushed_at: "2026-05-14T12:56:21Z"
 ---
 ## What it is

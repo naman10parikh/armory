@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-29T13:00:35Z"
+pushed_at: "2026-09-05T23:21:07Z"
 ---
 ## What it is
 An open-source AI agent powered by a local LLM (Qwen3.5 9B) running on decentralized GPUs via Nosana, providing MCP and HTTP interfaces to connect with external tools without API keys.

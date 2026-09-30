@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T20:03:09Z"
+pushed_at: "2026-09-22T04:41:24Z"
 ---
 ## What it is
 MCP server that provides access to the municipal financial data of Mesquita/RJ, aggregating SICONFI, PNCP, and the transparency portal. Enables querying expenditures, assets, contracts, and reconciling discrepancies across sources.

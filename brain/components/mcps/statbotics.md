@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-28T06:08:21Z"
+pushed_at: "2026-09-30T06:09:36Z"
 ---
 ## What it is
 MCP server `Statbotics`, catalogued on PulseMCP. Provides access to FIRST Robotics Competition statistical data including team EPA ratings, event predictions, and match analytics.

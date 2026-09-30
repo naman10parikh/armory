@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-15T16:43:26Z"
+pushed_at: "2026-09-23T01:13:49Z"
 ---
 ## What it is
 Workspace-aware MCP server for the yudao/ruoyi-vue-pro ecosystem that helps AI coding tools identify backend, frontend, and database configurations so generated code lands in the right project structure.

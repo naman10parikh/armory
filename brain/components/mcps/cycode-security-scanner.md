@@ -12,8 +12,8 @@ stars: 100
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 66
-pushed_at: "2026-09-01T18:41:44Z"
+forks: 68
+pushed_at: "2026-09-30T07:32:45Z"
 ---
 ## What it is
 MCP server `Cycode Security Scanner`, catalogued on PulseMCP. Integrates with Cycode's security platform to perform automated SAST, SCA, IaC, and secrets scanning on local files, Git repositories, and commit ranges with detailed vulnerability reports and remediation guidance.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T07:22:10Z"
+pushed_at: "2026-09-14T07:48:53Z"
 ---
 ## What it is
 An MCP server wrapping AutoGluon's AutoML capabilities, enabling data loading, model training, prediction, evaluation, and model management.

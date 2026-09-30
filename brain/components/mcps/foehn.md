@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T20:36:38Z"
+pushed_at: "2026-09-28T07:38:43Z"
 ---
 ## What it is
 MCP server for querying MeteoSwiss open weather data, providing access to station data, forecasts, radar composites, and more via natural language.

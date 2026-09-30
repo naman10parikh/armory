@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T07:13:42Z"
+pushed_at: "2026-09-25T16:24:35Z"
 ---
 ## What it is
 Sign in, create API keys, print OpenAI-compatible env vars, and check credits from the terminal. Optional MCP mode for AI coding agents with tools for credits, models, and environment.

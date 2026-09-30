@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T18:27:21Z"
+pushed_at: "2026-09-04T21:10:34Z"
 ---
 ## What it is
 Gives AI coding assistants persistent project memory and semantic code search, running fully locally with no API keys required.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T19:13:55Z"
+pushed_at: "2026-09-13T18:28:39Z"
 ---
 ## What it is
 MCP server for regulated financial reporting on Workiva, enabling agents to search, read, and write to Workiva workbooks with policy-gated mutations, readback verification, and immutable receipts. Supports both a compact 3-tool facade and a full 117-tool catalog, plus a credential-free mock mode.

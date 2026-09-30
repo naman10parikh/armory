@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T19:51:58Z"
+pushed_at: "2026-09-10T10:11:13Z"
 ---
 ## What it is
 Let ChatGPT or Codex research X (Twitter) through an existing account: search Top and Latest, follow threads, compare feeds, find accounts, and link posts. Read-only, local Docker service.

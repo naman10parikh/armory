@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-06-12T22:51:58Z"
+pushed_at: "2026-09-10T00:30:51Z"
 ---
 ## What it is
 Enables AI agents to discover, install, and manage SKILL.md skills from a Git-backed registry via MCP tools for search, install, and list operations.

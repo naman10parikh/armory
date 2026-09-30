@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T20:38:39Z"
+pushed_at: "2026-09-15T15:12:53Z"
 ---
 ## What it is
 MCP server that provides a portable personal knowledge layer for AI tools, enabling cross-LLM continuity and personalized context across clients like Claude, ChatGPT, and Cursor.

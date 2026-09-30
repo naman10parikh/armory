@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T18:15:28Z"
+pushed_at: "2026-09-08T19:36:42Z"
 ---
 ## What it is
 Thin HTTP wrapper for the Generate-Data.com API, enabling data generation, schema proposal, and field type listing through MCP tools.

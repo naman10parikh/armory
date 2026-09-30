@@ -12,8 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, version-control]
 stars: 94
-forks: 30
-pushed_at: "2026-08-31T23:44:18Z"
+forks: 31
+pushed_at: "2026-09-28T23:43:49Z"
 ---
 ## What it is
 Interact seamlessly with issues and merge requests of your GitLab projects.

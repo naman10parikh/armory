@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-18T10:20:23Z"
+pushed_at: "2026-09-06T14:17:13Z"
 ---
 ## What it is
 MCP server `CogniRelay`, catalogued on PulseMCP. Self-hosted infrastructure for AI agent continuity with git-backed state storage, multi-agent coordination, context retrieval, and session snapshots across context resets.

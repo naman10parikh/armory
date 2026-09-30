@@ -8,13 +8,13 @@ source_url: https://github.com/oisee/vibing-steampunk
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 452
+stars: 493
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 111
-pushed_at: "2026-09-02T03:53:06Z"
+forks: 119
+pushed_at: "2026-09-22T21:20:32Z"
 ---
 ## What it is
 Enables AI assistants to access SAP ADT APIs for reading, writing, debugging, deploying, and testing ABAP code through natural language or DSL automation.

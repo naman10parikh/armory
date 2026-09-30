@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T17:42:22Z"
+pushed_at: "2026-09-12T18:12:22Z"
 ---
 ## What it is
 A beginner-friendly MCP server that exposes a local Ollama model as an MCP tool, enabling users to ask questions via VS Code.

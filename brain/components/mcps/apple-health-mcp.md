@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T10:30:15Z"
+pushed_at: "2026-09-07T12:18:00Z"
 ---
 ## What it is
 Local-first MCP server that reads Apple Health export files (export.xml/zip) and exposes activity, sleep, HRV, and workout data to AI agents, keeping all data on your machine.

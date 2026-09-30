@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:34:28Z"
+pushed_at: "2026-09-26T21:06:16Z"
 ---
 ## What it is
 MCP server for querying the EBI PRIDE Archive, a proteomics (mass-spectrometry) data repository, through natural language or direct tool calls.

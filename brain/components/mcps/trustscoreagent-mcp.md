@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T13:26:32Z"
+pushed_at: "2026-09-27T20:45:54Z"
 ---
 ## What it is
 A free, open reputation registry for AI microservices: check a service's trust score before calling it and submit a rating afterward. Ratings can be backed by cryptographic receipts signed by the service and are recorded in a verifiable Merkle audit log.

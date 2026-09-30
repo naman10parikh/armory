@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T23:56:41Z"
+pushed_at: "2026-09-29T13:58:57Z"
 ---
 ## What it is
 An MCP server that lints, validates, and renders your Obsidian vault markdown — all inside Docker.

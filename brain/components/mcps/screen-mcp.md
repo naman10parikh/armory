@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T13:35:26Z"
+pushed_at: "2026-09-24T23:45:37Z"
 ---
 ## What it is
 An MCP server that gives a model eyes and hands on a Linux Wayland desktop, enabling screenshot capture, mouse/keyboard control, OCR, and icon detection via OmniParser.

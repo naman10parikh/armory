@@ -8,13 +8,13 @@ source_url: https://github.com/venikman/fpf-memory
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-01T20:07:00Z"
+forks: 3
+pushed_at: "2026-09-11T09:50:57Z"
 ---
 ## What it is
 This MCP server provides a deterministic index of the First Principles Framework (FPF) spec, enabling agents to query patterns, routes, and relations without vector databases.

@@ -8,12 +8,12 @@ source_url: https://github.com/yunfeizhu/mcp-mail-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
-pushed_at: "2026-08-19T05:55:18Z"
+forks: 27
+pushed_at: "2026-09-27T11:30:53Z"
 ---
 ## What it is
 MCP server `Email (IMAP/SMTP)`, catalogued on PulseMCP. Provides IMAP/SMTP email access for reading messages and sending emails with secure connection support and environment-based credential management.

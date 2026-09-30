@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:37:53Z"
+pushed_at: "2026-09-25T21:48:44Z"
 ---
 ## What it is
 Search and query City of Kamloops GIS open geospatial datasets (parcels, zoning, public works, city services) via ArcGIS Feature Services.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:01:56Z"
+pushed_at: "2026-09-24T23:26:07Z"
 ---
 ## What it is
 Enables parsing of ISO 8601 duration strings into components and seconds, and formatting seconds into ISO 8601 and human-readable forms.

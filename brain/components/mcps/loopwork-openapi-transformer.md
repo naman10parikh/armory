@@ -8,11 +8,11 @@ source_url: https://github.com/mattt/emcee
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 331
+stars: 333
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 26
+forks: 27
 pushed_at: "2026-07-04T11:41:37Z"
 ---
 ## What it is

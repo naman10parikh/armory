@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-29T11:00:08Z"
+pushed_at: "2026-09-29T12:32:32Z"
 ---
 ## What it is
 MCP server `Mistral`, catalogued on PulseMCP. Access Mistral AI models for chat, embeddings, vision, audio, and OCR via MCP.

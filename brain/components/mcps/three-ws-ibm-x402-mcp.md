@@ -8,13 +8,13 @@ source_url: https://github.com/nirholas/ibm-x402-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T02:56:44Z"
+pushed_at: "2026-09-15T07:57:21Z"
 ---
 ## What it is
 Pay-per-use IBM Granite AI over MCP — chat, code, embeddings, analysis, and forecasting, billed in USDC on Solana. No IBM account required.

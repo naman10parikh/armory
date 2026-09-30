@@ -8,12 +8,12 @@ source_url: https://github.com/AgentPhone-AI/agentphone-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 121
+stars: 124
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 18
+forks: 17
 pushed_at: "2026-08-29T03:14:20Z"
 ---
 ## What it is

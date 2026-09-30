@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T19:19:14Z"
+pushed_at: "2026-09-11T14:58:52Z"
 ---
 ## What it is
 Bridge that connects AI assistants to a Netmon appliance, enabling read-only access to devices, interfaces, logs, alerts, and Windows-agent data via MCP tools.

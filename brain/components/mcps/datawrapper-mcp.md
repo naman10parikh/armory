@@ -8,13 +8,13 @@ source_url: https://github.com/palewire/datawrapper-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 49
+stars: 57
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
-pushed_at: "2026-07-01T02:54:16Z"
+forks: 12
+pushed_at: "2026-09-24T10:43:40Z"
 ---
 ## What it is
 Enables AI assistants to create, update, publish, and manage Datawrapper charts via the Model Context Protocol.

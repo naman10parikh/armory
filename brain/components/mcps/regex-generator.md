@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:57Z"
+pushed_at: "2026-09-02T19:57:08Z"
 ---
 ## What it is
 Enables testing regular expressions against strings to retrieve matches, capture groups, positions, and human-readable pattern explanations via an x402 micropayment MCP server.

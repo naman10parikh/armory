@@ -8,12 +8,12 @@ source_url: https://github.com/icons8/icons8-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-08-12T08:57:19Z"
+forks: 1
+pushed_at: "2026-09-03T13:19:03Z"
 ---
 ## What it is
 MCP server `Icons8`, catalogued on PulseMCP. Get access to MCP server SVG and MCP server PNG icons in your vibe-coding projects

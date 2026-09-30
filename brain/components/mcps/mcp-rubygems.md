@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:37:37Z"
+pushed_at: "2026-09-26T21:22:08Z"
 ---
 ## What it is
 Wraps the RubyGems.org public API to enable querying Ruby gem information, such as details, versions, and dependencies, through natural language.

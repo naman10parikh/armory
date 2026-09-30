@@ -8,13 +8,13 @@ source_url: https://github.com/FlowElement-xinliuyuansu/m_flow
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4497
+stars: 4511
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 255
+forks: 260
 pushed_at: "2026-09-01T22:13:08Z"
 ---
 ## What it is

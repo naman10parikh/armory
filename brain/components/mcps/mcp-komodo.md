@@ -8,13 +8,13 @@ source_url: https://github.com/Samik081/mcp-komodo
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-13T09:08:23Z"
+pushed_at: "2026-09-29T16:19:20Z"
 ---
 ## What it is
 MCP server for the Komodo DevOps platform that enables managing servers, stacks, deployments, builds, and more through natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T20:30:44Z"
+pushed_at: "2026-09-22T20:13:56Z"
 ---
 ## What it is
 Enables AI agents to access Planning Center Online data including worship plans, song library, teams, and volunteer information through natural language queries and direct tools.

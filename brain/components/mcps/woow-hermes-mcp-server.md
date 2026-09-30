@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-28T06:11:51Z"
+pushed_at: "2026-09-12T18:29:11Z"
 ---
 ## What it is
 FastMCP wrapper that lets Claude app fully control a Hermes Agent instance via remote connector.

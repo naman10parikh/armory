@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T07:29:43Z"
+pushed_at: "2026-09-28T00:01:48Z"
 ---
 ## What it is
 Enables AI assistants to manage Kanban Zone workspaces via 23 tools for boards, cards, comments, checklists, and tasks.

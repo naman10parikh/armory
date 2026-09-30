@@ -8,13 +8,13 @@ source_url: https://github.com/stan-default/liam
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-04T19:02:55Z"
+pushed_at: "2026-09-19T03:46:27Z"
 ---
 ## What it is
 Create and manage LinkedIn ad campaigns as drafts via natural language, supporting campaign groups, targeting, creatives, and audience uploads through MCP tools.

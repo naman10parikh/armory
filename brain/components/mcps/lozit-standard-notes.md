@@ -8,12 +8,12 @@ source_url: https://github.com/lozit/mcp-standardnotes
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-09-01T08:17:00Z"
+forks: 3
+pushed_at: "2026-09-08T08:07:49Z"
 ---
 ## What it is
 MCP server `Standard Notes`, catalogued on PulseMCP. Encrypted read/write access to Standard Notes vaults with local-only decryption via stdio.

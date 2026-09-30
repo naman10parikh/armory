@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 21
-pushed_at: "2026-09-01T17:16:59Z"
+forks: 24
+pushed_at: "2026-09-26T07:57:39Z"
 ---
 ## What it is
 An MCP server that enables AI agents to interact with Red Hat OpenShift AI environments, providing tools for project management, workbench operations, model serving, and more.

@@ -8,13 +8,13 @@ source_url: https://github.com/PierfrancescoLijoi/mcp-brain
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-27T09:55:59Z"
+pushed_at: "2026-09-29T04:08:32Z"
 ---
 ## What it is
 A Model Context Protocol server that gives Claude Code persistent, structured awareness of your project — without burning tokens on context rebuilding.

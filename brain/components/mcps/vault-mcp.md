@@ -8,13 +8,13 @@ source_url: https://github.com/Zerocreds-com/zerocreds-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-02-28T23:56:59Z"
+pushed_at: "2026-09-05T23:39:50Z"
 ---
 ## What it is
 Enables LLM agents to securely use credentials like passwords and API keys without exposing them in the context window, through encrypted storage and proxy-based injection.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-24T11:45:37Z"
+forks: 1
+pushed_at: "2026-09-09T07:20:15Z"
 ---
 ## What it is
 Enables MCP clients to control ZWCAD on Windows, providing 26 automation tools for 2D/3D drawing, annotation, entity editing, document management, and more.

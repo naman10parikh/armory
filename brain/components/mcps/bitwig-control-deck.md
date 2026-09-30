@@ -8,13 +8,13 @@ source_url: https://github.com/remymazmanian/bitwig-control-deck
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-26T15:58:06Z"
+pushed_at: "2026-09-16T20:40:30Z"
 ---
 ## What it is
 Local MCP bridge for Bitwig Studio, enabling read-back-verified control of tracks, devices, transport, and plug-in parameters via any MCP client.

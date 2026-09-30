@@ -8,13 +8,13 @@ source_url: https://github.com/kitepon-rgb/aiterm-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T11:49:05Z"
+pushed_at: "2026-09-30T10:41:01Z"
 ---
 ## What it is
 Persistent tmux-backed MCP server that lets Claude Code control Codex CLI's interactive TUI, including slash commands and $imagegen. Run local shells, SSH, Docker, WSL, REPLs, and supported coding agents through durable PTY sessions.

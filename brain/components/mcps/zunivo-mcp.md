@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T01:06:48Z"
+pushed_at: "2026-09-17T01:39:15Z"
 ---
 ## What it is
 MCP server that lets AI agents discover and pay for .agent services using USDC over x402, with daily budget controls and payment link creation.

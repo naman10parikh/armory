@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T20:34:54Z"
+pushed_at: "2026-09-21T11:51:29Z"
 ---
 ## What it is
 A CDP-native MCP server that lets AI agents drive a real Chrome browser with deep network/console inspection, robust page interaction, and the ability to reverse-engineer a site's API flow into runnable code with dependency chaining and replay verification.

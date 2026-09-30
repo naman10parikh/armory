@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-25T14:59:54Z"
+pushed_at: "2026-09-19T07:23:40Z"
 ---
 ## What it is
 A native MCP server for real-time B2B contact finding and SMTP email validation, scraping company websites, Discord, and Telegram to deliver live, verified contacts that AI agents like Claude and Cursor can query directly.

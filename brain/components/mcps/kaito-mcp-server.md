@@ -8,13 +8,13 @@ source_url: https://github.com/MetaSearch-IO/kaito-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-06T12:50:27Z"
+pushed_at: "2026-09-28T03:05:07Z"
 ---
 ## What it is
 Provides crypto market intelligence tools, reference resources, and prompt templates for sentiment analysis, mindshare tracking, social intelligence, and more.

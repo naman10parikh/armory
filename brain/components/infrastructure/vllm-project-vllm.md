@@ -8,14 +8,14 @@ source_url: https://github.com/vllm-project/vllm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 90743
+stars: 92984
 eval_score: null
 mentions: 15
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 21577
-pushed_at: "2026-09-02T07:16:29Z"
+forks: 22847
+pushed_at: "2026-09-30T13:14:32Z"
 ---
 ## What it is
 A high-throughput and memory-efficient inference and serving engine for LLMs

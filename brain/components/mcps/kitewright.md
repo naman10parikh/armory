@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-07-27T03:02:02Z"
+forks: 5
+pushed_at: "2026-09-28T03:10:39Z"
 ---
 ## What it is
 A lightweight MCP server for browser automation that gives AI agents navigate, screenshot, and extract tools via a single small binary, without needing Node.js or Playwright. It provides CDP-based browser control with efficient startup and resource usage.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T18:56:40Z"
+pushed_at: "2026-09-28T18:55:00Z"
 ---
 ## What it is
 Fast pre-commit dependency gate for AI-assisted code changes. Answers "is this safe to commit?" with a PASS/WARN/BLOCK verdict in seconds, so you can catch risky blast radius before a bad commit, not after it. No database, no heavy setup.

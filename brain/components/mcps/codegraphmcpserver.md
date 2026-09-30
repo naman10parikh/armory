@@ -8,12 +8,12 @@ source_url: https://github.com/nahisaho/CodeGraphMCPServer
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2025-12-11T12:55:27Z"
 ---
 ## What it is

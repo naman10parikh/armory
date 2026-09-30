@@ -8,13 +8,13 @@ source_url: https://github.com/nhatvu148/video-transcriber-mcp-rs
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-08-23T13:24:53Z"
+pushed_at: "2026-09-29T20:23:43Z"
 ---
 ## What it is
 Enables high-performance, offline transcription of videos from 1000+ platforms and local files using whisper.cpp, with support for multiple model sizes, languages, and output formats over stdio or HTTP.

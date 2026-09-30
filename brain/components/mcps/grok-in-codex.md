@@ -8,12 +8,12 @@ source_url: https://github.com/stdevMac/grok-in-codex
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 5
 pushed_at: "2026-08-04T13:15:32Z"
 ---
 ## What it is

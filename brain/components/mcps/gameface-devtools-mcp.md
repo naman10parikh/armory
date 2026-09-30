@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-01T11:58:10Z"
+pushed_at: "2026-09-29T15:10:55Z"
 ---
 ## What it is
 An MCP server that lets AI models drive any Coherent Gameface UI over Chrome DevTools Protocol, enabling JavaScript evaluation, screenshots, DOM inspection, console capture, and breakpoint debugging.

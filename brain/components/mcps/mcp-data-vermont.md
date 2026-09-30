@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:57:48Z"
+pushed_at: "2026-09-25T23:23:41Z"
 ---
 ## What it is
 Enables searching, querying, and retrieving metadata from Vermont Open Data (data.vermont.gov) datasets using Socrata SoQL, all via natural language.

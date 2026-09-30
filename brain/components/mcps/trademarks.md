@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:29:53Z"
+pushed_at: "2026-09-26T21:59:41Z"
 ---
 ## What it is
 Enables USPTO trademark lookup by serial or registration number, retrieving status, owner, dates, and prosecution history.

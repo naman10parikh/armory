@@ -8,13 +8,13 @@ source_url: https://github.com/dcc-mcp/dcc-mcp-marmoset
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T09:56:57Z"
+pushed_at: "2026-09-25T18:57:59Z"
 ---
 ## What it is
 Typed DCC-MCP control for Marmoset Toolbag 4.03+ and 5.x, enabling shell-capable agents to interact with Toolbag scenes via a shared CLI and MCP gateway.

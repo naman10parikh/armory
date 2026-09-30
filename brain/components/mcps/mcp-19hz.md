@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:31:41Z"
+pushed_at: "2026-09-25T21:15:00Z"
 ---
 ## What it is
 Enables querying electronic/dance music events from 19hz.info by region, with tools to list available regions and retrieve events data.

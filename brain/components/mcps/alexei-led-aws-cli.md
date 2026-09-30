@@ -8,11 +8,11 @@ source_url: https://github.com/alexei-led/aws-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 185
+stars: 186
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 33
+forks: 34
 pushed_at: "2026-02-27T14:42:40Z"
 ---
 ## What it is

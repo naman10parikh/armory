@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T02:01:22Z"
+pushed_at: "2026-09-22T03:21:19Z"
 ---
 ## What it is
 An MCP server that enables AI agents to perform SM2-based identity binding, generate and verify SD-JWT verifiable presentations, and use SM2 cryptographic operations with local communication and national cryptography encryption.

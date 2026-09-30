@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T20:58:04Z"
+pushed_at: "2026-09-06T09:22:22Z"
 ---
 ## What it is
 Semantic codebase search + persistent working memory for AI code editors. Local, zero-config, MCP. No API key.

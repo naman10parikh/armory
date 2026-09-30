@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 18
 forks: 3
-pushed_at: "2026-08-03T12:44:56Z"
+pushed_at: "2026-09-07T12:45:26Z"
 ---
 ## What it is
 SSE-enabled MCP server for remote Obsidian vault management with 29 tools for notes, directories, frontmatter, tags, search, and link operations. Docker-ready with health monitoring.

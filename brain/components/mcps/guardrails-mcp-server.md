@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T17:38:19Z"
+pushed_at: "2026-09-08T02:24:06Z"
 ---
 ## What it is
 MCP server for AI agent security guardrails. Provides input validation, prompt injection detection, PII redaction, output filtering, policy enforcement, rate limiting, and comprehensive audit logging.

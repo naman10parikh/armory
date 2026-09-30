@@ -8,12 +8,12 @@ source_url: https://github.com/fidgetcoding/morgen-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-17T21:21:41Z"
+pushed_at: "2026-09-29T09:15:54Z"
 ---
 ## What it is
 MCP server `Morgen`, catalogued on PulseMCP. Manage Morgen Calendar events and tasks through natural language.

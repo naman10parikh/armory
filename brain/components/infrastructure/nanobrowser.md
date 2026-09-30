@@ -8,12 +8,12 @@ source_url: https://github.com/nanobrowser/nanobrowser
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 13713
+stars: 13848
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, multi-agent]
-forks: 1451
+forks: 1467
 pushed_at: "2026-08-18T00:42:48Z"
 ---
 ## What it is

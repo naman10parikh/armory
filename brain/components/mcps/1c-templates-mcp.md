@@ -8,12 +8,12 @@ source_url: https://github.com/Desko77/1c-templates-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-04-18T10:20:47Z"
 ---
 ## What it is

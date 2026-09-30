@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T10:52:32Z"
+pushed_at: "2026-09-02T09:09:47Z"
 ---
 ## What it is
 Official MCP server for 1acre.in, enabling lookup of survey numbers, browsing cadastral data, and generating land-intelligence reports for India's verified land marketplace through MCP-compatible clients.

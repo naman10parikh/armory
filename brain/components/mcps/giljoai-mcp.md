@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T19:07:58Z"
+pushed_at: "2026-09-29T06:56:44Z"
 ---
 ## What it is
 A passive context server that stores product knowledge, generates structured prompts, and coordinates multi-agent workflows via the Model Context Protocol, enabling AI coding tools to share a full picture of the product.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-09T05:42:23Z"
+pushed_at: "2026-09-25T08:51:54Z"
 ---
 ## What it is
 MCP server for Perplexity AI Pro that enables deep web search, thread management, and export of answers using an existing Perplexity Pro subscription and browser session cookie.

@@ -8,13 +8,13 @@ source_url: https://github.com/HasData/booking-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T08:06:05Z"
+pushed_at: "2026-09-24T14:14:54Z"
 ---
 ## What it is
 Enables MCP clients to search stays by destination and dates with rich filters and read full property details as structured JSON, without needing a Booking.com account or self-hosting.

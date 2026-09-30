@@ -8,13 +8,13 @@ source_url: https://github.com/ymzhang0/aiida-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-17T16:12:06Z"
+forks: 1
+pushed_at: "2026-09-24T20:40:37Z"
 ---
 ## What it is
 Control plane for AiiDA projects, managing project bindings and worker lifecycles, and exposing an MCP endpoint for the AiiDA ChatGPT plugin.

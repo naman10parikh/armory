@@ -8,13 +8,13 @@ source_url: https://github.com/Bjern/jw-org-mcp
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-08-14T13:22:46Z"
+pushed_at: "2026-09-21T10:30:00Z"
 ---
 ## What it is
 An MCP server that provides controlled, verifiable access to official jw.org content, enabling AI applications to search articles, retrieve full articles, and lookup scriptures without hallucinations.

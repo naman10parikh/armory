@@ -8,11 +8,11 @@ source_url: https://github.com/rugvedp/linkedin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2025-05-25T16:28:47Z"
 ---
 ## What it is

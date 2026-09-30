@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-01T15:18:21Z"
+forks: 2
+pushed_at: "2026-09-30T06:30:58Z"
 ---
 ## What it is
 Integrates with Aha.io product management platform, enabling offline data synchronization, semantic search, and workflow automation via natural language.

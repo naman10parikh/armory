@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T16:08:53Z"
+pushed_at: "2026-09-08T23:23:19Z"
 ---
 ## What it is
 Enables AI agents to upload, list, read, and delete static web pages via the Model Context Protocol, with REST API and optional authentication and TTL.

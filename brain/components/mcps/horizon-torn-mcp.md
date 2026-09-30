@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-11T19:11:29Z"
+pushed_at: "2026-09-15T11:59:55Z"
 ---
 ## What it is
 A TypeScript MCP server that exposes Torn API v2 operations as MCP tools, with tool definitions generated from Torn's OpenAPI schema.

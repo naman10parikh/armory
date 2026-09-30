@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T15:31:17Z"
+pushed_at: "2026-09-29T14:49:48Z"
 ---
 ## What it is
 Agentic AI scheduling infrastructure for field service teams. Match crews to jobs by location, skills, and availability — with sub-3-second cascade rescheduling.

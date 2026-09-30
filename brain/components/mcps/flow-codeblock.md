@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T06:09:41Z"
+pushed_at: "2026-09-07T07:46:42Z"
 ---
 ## What it is
 Enables safe, remote execution and management of user JavaScript scripts through a Rust-based backend, with change preview and confirmation before applying updates.

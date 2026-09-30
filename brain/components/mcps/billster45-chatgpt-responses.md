@@ -8,11 +8,11 @@ source_url: https://github.com/billster45/mcp-chatgpt-responses
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 13
 pushed_at: "2025-07-26T12:33:55Z"
 ---
 ## What it is

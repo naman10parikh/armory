@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-07-14T22:04:09Z"
+pushed_at: "2026-09-15T10:35:36Z"
 ---
 ## What it is
 Enables querying real-time stock data for A-shares, Hong Kong, and US markets, including search, price details, and market indices via natural language.

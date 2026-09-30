@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T17:56:10Z"
+pushed_at: "2026-09-26T23:01:02Z"
 ---
 ## What it is
 Enables access to live precious metals prices, historical data, market intelligence, and portfolio management with AI/LLM integration.

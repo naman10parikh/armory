@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:57:18Z"
+pushed_at: "2026-09-24T13:30:23Z"
 ---
 ## What it is
 MCP server for the Laws of Malaysia Online portal, fetching and citing Malaysian principal Acts with verifiable citations.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-28T03:18:25Z"
+pushed_at: "2026-09-26T13:03:52Z"
 ---
 ## What it is
 A read-only MCP server that provides conversational querying of quotations data (counts, values, lookups) via tools like quotation_stats, search_quotations, and find_by_number.

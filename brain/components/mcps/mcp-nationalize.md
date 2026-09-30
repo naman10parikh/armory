@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:24:17Z"
+pushed_at: "2026-09-26T19:52:19Z"
 ---
 ## What it is
 Predicts nationality from a first name using the nationalize.io API. Requires no authentication.

@@ -8,7 +8,7 @@ source_url: https://github.com/google/BIG-bench
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 3247
+stars: 3245
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 91
-pushed_at: "2026-08-20T09:00:22Z"
+forks: 87
+pushed_at: "2026-09-04T03:33:49Z"
 ---
 ## What it is
 A universal MCP server enabling AI assistants to query and manage six database engines (Postgres, Redis, Elasticsearch, MySQL, MongoDB, LDAP) through 113+ tools with read-only safety and fault tolerance.

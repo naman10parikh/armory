@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T15:56:32Z"
+pushed_at: "2026-09-28T14:21:02Z"
 ---
 ## What it is
 MCP server for the Tecof Developer API that reads theme components from disk, converts agent-written sections into editor documents, and manages draft pages (create, update, delete, preview) with validation and multi-language support.

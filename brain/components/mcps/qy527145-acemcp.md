@@ -8,7 +8,7 @@ source_url: https://github.com/qy527145/acemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 806
+stars: 802
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

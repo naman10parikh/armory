@@ -8,12 +8,12 @@ source_url: https://github.com/easytocloud/mac-letterhead
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-31T13:49:00Z"
+pushed_at: "2026-09-28T13:47:17Z"
 ---
 ## What it is
 MCP server `Mac Letterhead`, catalogued on PulseMCP. Professional letterhead PDF generator for macOS with Markdown support and smart margin detection

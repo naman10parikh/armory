@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T16:29:21Z"
+pushed_at: "2026-09-22T17:00:43Z"
 ---
 ## What it is
 Enables LLM agents to search Wikipedia and retrieve page content via Model Context Protocol tools, supporting natural language research.

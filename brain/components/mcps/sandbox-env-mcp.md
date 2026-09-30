@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T08:35:59Z"
+pushed_at: "2026-09-24T00:11:21Z"
 ---
 ## What it is
 MCP server providing AI agents with persistent shells, filesystem access, and multi-machine management backed by Docker containers or remote SSH hosts.

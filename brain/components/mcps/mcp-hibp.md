@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:13:11Z"
+pushed_at: "2026-09-26T19:06:06Z"
 ---
 ## What it is
 Enables users to query Have I Been Pwned data classes and check breaches via Pipeworx MCP gateway, allowing natural language interaction.

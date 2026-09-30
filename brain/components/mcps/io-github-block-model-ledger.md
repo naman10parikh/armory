@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-07-25T19:29:51Z"
+forks: 7
+pushed_at: "2026-09-17T15:31:48Z"
 ---
 ## What it is
 Provides AI agents with a toolset to query model inventories, trace dependencies, and analyze the impact of changes across machine learning models and data pipelines.

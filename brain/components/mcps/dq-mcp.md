@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T21:48:09Z"
+pushed_at: "2026-09-12T21:36:14Z"
 ---
 ## What it is
 Enables language models to run data-quality checks and profiling on local files, using dbt-style assertions like not_null, unique, relationships, and accepted_values.

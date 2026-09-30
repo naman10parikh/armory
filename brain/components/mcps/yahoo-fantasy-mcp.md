@@ -8,12 +8,12 @@ source_url: https://github.com/spilchen/yahoo_fantasy_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 3
 pushed_at: "2026-03-15T20:26:36Z"
 ---
 ## What it is

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-06-30T10:12:38Z"
+forks: 8
+pushed_at: "2026-09-21T13:54:41Z"
 ---
 ## What it is
 Enables AI assistants to manage Canvas LMS courses, announcements, rubrics, assignments, modules, pages, and student data via the Canvas API.

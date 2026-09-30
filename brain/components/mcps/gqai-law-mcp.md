@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T06:56:56Z"
+pushed_at: "2026-09-22T08:18:28Z"
 ---
 ## What it is
 Remote MCP server for querying Korean statutes, precedents, administrative rules, and local ordinances via the National Law Information Center API without requiring user API keys. It includes caching, global rate limiting, and deployment on Vercel.

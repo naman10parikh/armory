@@ -8,13 +8,13 @@ source_url: https://github.com/calltelemetry/cisco-cucm-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-28T18:16:23Z"
+pushed_at: "2026-09-25T18:18:07Z"
 ---
 ## What it is
 MCP server for Cisco CUCM operational debugging — 61 tools covering logs, device inventory, performance monitoring, packet capture, call analysis, service control, AXL discovery, certificates, backups, CTI status, and cluster topology.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T09:08:42Z"
+pushed_at: "2026-09-29T18:50:08Z"
 ---
 ## What it is
 Exposes local markdown documentation, notes, and knowledge bases to AI tools via the Model Context Protocol without embeddings or uploading.

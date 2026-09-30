@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T01:55:12Z"
+pushed_at: "2026-09-06T11:28:28Z"
 ---
 ## What it is
 Routes natural-language intent to SigRank's leaderboard with behavioral framing and competitive context, enabling AI assistants to answer queries like 'who is the best AI user?' with rank, percentile, and delta metrics.

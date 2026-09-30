@@ -8,11 +8,11 @@ source_url: https://github.com/themeselection/flyonui-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 7
 pushed_at: "2025-11-12T10:01:43Z"
 ---
 ## What it is

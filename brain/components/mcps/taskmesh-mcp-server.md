@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-15T15:44:53Z"
+pushed_at: "2026-09-30T07:36:13Z"
 ---
 ## What it is
 Enables AI IDEs to interact with TaskMesh task management and time tracking APIs through secure, scoped access tokens.

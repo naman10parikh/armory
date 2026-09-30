@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-07-12T23:12:08Z"
+pushed_at: "2026-09-18T10:31:26Z"
 ---
 ## What it is
 MCP server for responsive web app preview and inspection. It allows previewing URLs on multiple device profiles, capturing screenshots, recording walkthroughs, and inspecting local pages with MCP clients.

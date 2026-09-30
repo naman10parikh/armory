@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-28T08:50:23Z"
+pushed_at: "2026-09-14T12:00:13Z"
 ---
 ## What it is
 A graph-based codebase capability discovery engine for LLM agents, exposing indexed code symbols, signatures, and relationships over MCP to enable agents to find and use tools without guessing names.

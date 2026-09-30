@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-01-19T16:48:08Z"
+pushed_at: "2026-09-22T12:10:29Z"
 ---
 ## What it is
 Provides full access to the Make.com API, enabling creation, modification, deletion, and execution of scenarios, as well as management of connections, webhooks, data stores, and organizations.

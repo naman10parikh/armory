@@ -8,13 +8,13 @@ source_url: https://github.com/312-dev/rocketmoney-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T16:50:00Z"
+pushed_at: "2026-09-29T04:17:03Z"
 ---
 ## What it is
 Read-only MCP server for Rocket Money that lets you browse your accounts, transactions, spending, budgets, net worth, and subscriptions through natural language.

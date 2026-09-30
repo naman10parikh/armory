@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T08:05:47Z"
+pushed_at: "2026-09-29T11:18:49Z"
 ---
 ## What it is
 SkyGlance is an MCP server that enables natural language queries about live aircraft overhead, flight tracking, aircraft identification, and personal sighting history using free ADS-B data.

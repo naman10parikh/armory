@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-12T20:01:43Z"
+pushed_at: "2026-09-05T19:10:51Z"
 ---
 ## What it is
 Use Phrase APIs from any MCP client (Claude, Cursor, etc.) with ready-to-use tools for Phrase Strings, Phrase TMS, and Connectors.

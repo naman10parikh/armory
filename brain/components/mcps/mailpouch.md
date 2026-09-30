@@ -8,13 +8,13 @@ source_url: https://github.com/chandshy/mailpouch
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-01T00:36:38Z"
+pushed_at: "2026-09-28T22:35:16Z"
 ---
 ## What it is
 An MCP server that gives AI agents permission-gated, audit-logged access to private email providers (Proton Mail via Bridge and plain IMAP), running locally with OAuth-based authentication and human-controlled escalation for destructive operations.

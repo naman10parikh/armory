@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-31T06:10:33Z"
+pushed_at: "2026-09-08T08:20:36Z"
 ---
 ## What it is
 MCP server `Linkly`, catalogued on PulseMCP. URL shortening and link management platform with click tracking and analytics

@@ -8,11 +8,13 @@ source_url: https://github.com/ellyj3rain/mousecat
 license: Mozilla Public License 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-30T11:20:01Z"
 ---
 ## What it is
 An MCP server for AI coding hosts that provides structured operator interaction, workflow chains, live multi-agent visualization, and routed access to an AI tool ecosystem.

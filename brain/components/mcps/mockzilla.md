@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-23T17:47:19Z"
+pushed_at: "2026-09-25T22:33:05Z"
 ---
 ## What it is
 MCP server `Mockzilla`, catalogued on PulseMCP. Deploy AI-managed API mocks from an OpenAPI spec or one endpoint at a time.

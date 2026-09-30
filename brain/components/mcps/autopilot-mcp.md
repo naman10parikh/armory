@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T05:35:45Z"
+pushed_at: "2026-09-20T19:11:09Z"
 ---
 ## What it is
 A browser-automation MCP server providing persistent browser profiles per domain, Bitwarden credential injection without exposing passwords, and playbook recording/replay for repeatable tasks.

@@ -8,13 +8,13 @@ source_url: https://github.com/advancedcommunities/salesforce-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-05-27T15:18:55Z"
+forks: 9
+pushed_at: "2026-09-29T13:47:26Z"
 ---
 ## What it is
 Enables AI assistants to interact with Salesforce organizations, allowing them to execute Apex code, query data, describe objects, and manage org connections through natural language.

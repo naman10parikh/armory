@@ -8,11 +8,11 @@ source_url: https://github.com/airweave-ai/airweave
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6563
+stars: 6560
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 818
+forks: 824
 pushed_at: "2026-06-05T09:52:19Z"
 ---
 ## What it is

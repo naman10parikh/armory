@@ -8,12 +8,12 @@ source_url: https://github.com/pdogra1299/bitbucket-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
-pushed_at: "2026-07-09T10:21:53Z"
+forks: 26
+pushed_at: "2026-09-26T13:25:42Z"
 ---
 ## What it is
 MCP server `Bitbucket`, catalogued on PulseMCP. Integrates with Bitbucket Cloud and Server APIs to manage pull request workflows including creation, updates, merging, branch management, code review operations, and diff retrieval with configurable context lines.

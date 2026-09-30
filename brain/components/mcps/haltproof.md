@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T15:44:51Z"
+pushed_at: "2026-09-25T04:47:10Z"
 ---
 ## What it is
 MCP server for HaltProof's emergency-shutdown orchestration and cryptographic audit-proof layer, enabling AI agents to dry-run or execute cluster halt operations across Slurm, Kubernetes, and IPMI, and verify signed, hash-chained attestation logs.

@@ -8,13 +8,13 @@ source_url: https://github.com/conarti/mattermost-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2025-12-20T09:29:32Z"
+pushed_at: "2026-09-14T19:03:00Z"
 ---
 ## What it is
 MCP Server for the Mattermost API, enabling Claude and other MCP clients to interact with Mattermost workspaces.

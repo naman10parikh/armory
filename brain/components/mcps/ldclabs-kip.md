@@ -8,12 +8,12 @@ source_url: https://github.com/ldclabs/kip
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 81
+stars: 84
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-08-31T13:49:48Z"
+pushed_at: "2026-09-27T09:15:10Z"
 ---
 ## What it is
 MCP server `KIP`, catalogued on PulseMCP. Knowledge graphs for memory persistence, knowledge evolution, and explainable AI agent interactions.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:34:46Z"
+pushed_at: "2026-09-26T22:28:32Z"
 ---
 ## What it is
 MCP server `Pipeworx Zenodo`, catalogued on PulseMCP. Zenodo open research data repository search and retrieval via the Pipeworx MCP gateway.

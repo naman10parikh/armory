@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T20:47:59Z"
+pushed_at: "2026-09-16T20:47:22Z"
 ---
 ## What it is
 Control-plane proxy that sits in front of MCP servers, enforcing per-identity policy (YAML/OPA/Cedar), budget limits, and an audit trail on every call. Includes real-time anomaly detection that auto-blocks a compromised agent without a human in the loop.

@@ -8,12 +8,12 @@ source_url: https://github.com/browserbase/open-operator
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1953
+stars: 1950
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, stagehand]
-forks: 325
+forks: 324
 pushed_at: "2026-05-04T21:23:14Z"
 mentions: 1
 ---

@@ -8,13 +8,13 @@ source_url: https://github.com/agntcy/dir-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-02T00:32:52Z"
+pushed_at: "2026-09-30T06:22:11Z"
 ---
 ## What it is
 Enables AI assistants and IDEs to work with the AGNTCY Agent Directory, providing tools for validating, publishing, searching agent records, and navigating OASF taxonomies.

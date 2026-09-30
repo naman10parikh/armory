@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:07:37Z"
+pushed_at: "2026-09-26T12:29:54Z"
 ---
 ## What it is
 Enables querying Danish Parliament (Folketinget) open data via OData v3 API using natural language.

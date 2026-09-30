@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-30T18:54:35Z"
+pushed_at: "2026-09-05T10:17:28Z"
 ---
 ## What it is
 Provides engineering leadership benchmarks, developer value calculation, and mentoring playbooks based on real 1:1 sessions with 300+ engineering leaders.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-21T17:32:42Z"
+pushed_at: "2026-09-08T15:36:59Z"
 ---
 ## What it is
 Enables interaction with public NowCoder ACM problem pages. Supports fetching problem data and checking health status.

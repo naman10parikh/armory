@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-09-01T14:01:33Z"
+pushed_at: "2026-09-29T15:32:02Z"
 ---
 ## What it is
 Provides access to Unusual Whales market data including options flow, dark pool activity, congressional trades, and more via natural language queries.

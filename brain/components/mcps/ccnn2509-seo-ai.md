@@ -8,11 +8,11 @@ source_url: https://github.com/ccnn2509/app-seo-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 51
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2025-08-25T13:36:05Z"
 ---
 ## What it is

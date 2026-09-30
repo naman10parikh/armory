@@ -8,13 +8,13 @@ source_url: https://github.com/longbridge/longbridge-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 2
-pushed_at: "2026-09-02T03:08:16Z"
+forks: 4
+pushed_at: "2026-09-30T11:06:54Z"
 ---
 ## What it is
 MCP server `Longbridge`, catalogued on PulseMCP. Official Longbridge brokerage MCP for US and HK market data, trading, and portfolio analytics.

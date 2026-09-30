@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T19:51:22Z"
+pushed_at: "2026-09-29T11:07:44Z"
 ---
 ## What it is
 MCP server `GBLIN Protocol`, catalogued on PulseMCP. Hold GBLIN tokens on Base and JIT-swap to USDC for x402 micropayments from AI agents.

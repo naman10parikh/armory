@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T13:44:12Z"
+pushed_at: "2026-09-23T13:43:42Z"
 ---
 ## What it is
 An MCP server and Go library that connects AI assistants to DataHub metadata catalogs, enabling dataset search, schema exploration, lineage tracing, and glossary access.

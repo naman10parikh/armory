@@ -8,11 +8,11 @@ source_url: https://github.com/sparfenyuk/mcp-telegram
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 187
+stars: 189
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 37
+forks: 38
 pushed_at: "2025-03-14T11:27:58Z"
 ---
 ## What it is

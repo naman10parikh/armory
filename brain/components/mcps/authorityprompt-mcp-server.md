@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T19:21:36Z"
+pushed_at: "2026-09-28T21:00:15Z"
 ---
 ## What it is
 Enables Gemini to read verified company facts, sources, provenance, and confidence from AuthorityPrompt for any published company domain.

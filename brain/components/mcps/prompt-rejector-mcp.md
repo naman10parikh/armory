@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-05-18T16:32:10Z"
+forks: 3
+pushed_at: "2026-09-21T18:30:25Z"
 ---
 ## What it is
 Protects AI agents from prompt injection attacks, jailbreak attempts, and common web vulnerabilities by screening untrusted input through semantic LLM analysis and static pattern matching.

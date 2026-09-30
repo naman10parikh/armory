@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:18:44Z"
+pushed_at: "2026-09-26T19:27:01Z"
 ---
 ## What it is
 Validates LatAm banking and tax IDs (Mexican CLABE, Brazilian CNPJ/CPF checksums) and performs BrasilAPI company, CEP, and bank lookups, enabling AI agents to verify financial and tax information in Latin America.

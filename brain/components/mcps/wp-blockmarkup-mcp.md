@@ -8,12 +8,12 @@ source_url: https://github.com/pluginslab/wp-blockmarkup-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 38
+stars: 39
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-05-13T10:34:59Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:49:16Z"
+pushed_at: "2026-09-25T22:55:34Z"
 ---
 ## What it is
 Enables fetching public Code::Stats user XP and activity data, including total XP, per-language breakdowns, and recent coding activity.

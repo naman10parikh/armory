@@ -8,13 +8,13 @@ source_url: https://github.com/matematicsolutions/fi-eli-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:55:55Z"
+pushed_at: "2026-09-24T13:28:07Z"
 ---
 ## What it is
 Enables accessing Finnish legislation from the Finlex open-data API, listing statutes by year and retrieving their full texts with ELI identifiers and Finnish citations.

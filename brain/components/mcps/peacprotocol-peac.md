@@ -12,8 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-08-22T23:52:04Z"
+forks: 7
+pushed_at: "2026-09-28T17:37:01Z"
 ---
 ## What it is
 MCP server `PEAC Protocol`, catalogued on PulseMCP. Privacy-enhanced authentication and credential management protocol.

@@ -8,7 +8,7 @@ source_url: https://github.com/umbra2728/ctfd-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

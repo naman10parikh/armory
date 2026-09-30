@@ -8,13 +8,13 @@ source_url: https://github.com/imMamdouhaboammar/pymc-marketing-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T03:56:50Z"
+pushed_at: "2026-09-25T06:03:06Z"
 ---
 ## What it is
 Provides a controlled interface for Bayesian Marketing Mix Modeling, letting AI agents validate datasets, fit and diagnose MMMs, analyze channel contributions and ROI, simulate and optimize budgets, calibrate with lift tests, and cross-validate models—all with statistical verification, uncertainty r

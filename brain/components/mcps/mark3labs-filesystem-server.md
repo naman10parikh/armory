@@ -8,11 +8,11 @@ source_url: https://github.com/mark3labs/mcp-filesystem-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 679
+stars: 694
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 112
+forks: 118
 pushed_at: "2025-11-24T15:46:55Z"
 ---
 ## What it is

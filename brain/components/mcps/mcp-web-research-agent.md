@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T14:00:42Z"
+pushed_at: "2026-09-19T23:55:02Z"
 ---
 ## What it is
 Enables a local AI assistant to search the web via DuckDuckGo, fetch and extract readable text from web pages, and save research notes as Markdown files to a chosen directory.

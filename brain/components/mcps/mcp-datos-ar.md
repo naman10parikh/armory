@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:58:46Z"
+pushed_at: "2026-09-25T23:26:26Z"
 ---
 ## What it is
 Enables querying Argentina's national time-series data from apis.datos.gob.ar through natural language, as part of the Pipeworx MCP gateway.

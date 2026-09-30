@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-09T03:52:39Z"
+pushed_at: "2026-09-03T07:25:45Z"
 ---
 ## What it is
 Provides a remote HTTP MCP layer for TestClaw, enabling MCP clients to interact with a Sonic server for test management, device control, and automated testing workflows.

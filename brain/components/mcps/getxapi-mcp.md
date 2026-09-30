@@ -8,13 +8,13 @@ source_url: https://github.com/getxapi/getxapi-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-10T05:23:12Z"
+pushed_at: "2026-09-06T12:53:26Z"
 ---
 ## What it is
 The official GetXAPI MCP server. Give your AI assistant direct access to the Twitter/X API - search tweets, look up users, read replies and followers, and post tweets, send DMs, manage articles, and more - through one Model Context Protocol server. Unlike read-only Twitter MCP servers, GetXAPI MCP c

@@ -8,11 +8,11 @@ source_url: https://github.com/soycanopa/supathings-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-03-31T00:03:26Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/semantic-rails/semantic-rails
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T11:12:49Z"
+pushed_at: "2026-09-29T12:23:30Z"
 ---
 ## What it is
 Enables agents to interact with a governed semantic layer for querying and authoring metrics, providing tools for discovery, planning, validation, and execution of analytics queries.

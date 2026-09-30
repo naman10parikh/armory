@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T05:53:35Z"
+pushed_at: "2026-09-07T00:23:01Z"
 ---
 ## What it is
 Enables scanning, fixing, and providing feedback on text for inclusive language, offering clearer alternatives and tunable rules.

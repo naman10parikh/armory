@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T22:36:38Z"
+pushed_at: "2026-09-21T20:21:44Z"
 ---
 ## What it is
 MCP server that scores merchant risk and reputation via a paid check_merchant tool, returning trust tiers and price-fairness readings for shopping agents.

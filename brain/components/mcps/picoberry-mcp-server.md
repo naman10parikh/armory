@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T14:08:02Z"
+pushed_at: "2026-09-14T04:03:09Z"
 ---
 ## What it is
 Enables generating game-ready 3D models, images, and animations from any MCP client via PicoBerry's multi-engine API.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-25T11:49:09Z"
+pushed_at: "2026-09-05T09:53:09Z"
 ---
 ## What it is
 Converts dense PDFs into soft, minimal, card-based HTML readers with preserved source text, rendered pages, and cropped tables/figures as images, all processed locally.

@@ -8,13 +8,13 @@ source_url: https://github.com/ScottRBK/forgetful
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 296
+stars: 301
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 25
-pushed_at: "2026-09-01T20:48:42Z"
+forks: 28
+pushed_at: "2026-09-29T20:20:59Z"
 ---
 ## What it is
 A storage and retrieval MCP server for AI agents using FastMCP, enabling persistent knowledge base with semantic search and automatic linking.

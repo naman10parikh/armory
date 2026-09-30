@@ -8,14 +8,14 @@ source_url: https://github.com/warpdotdev/warp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 64716
+stars: 65295
 eval_score: null
 mentions: 22
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 5497
-pushed_at: "2026-09-02T06:53:19Z"
+forks: 5595
+pushed_at: "2026-09-30T04:01:44Z"
 ---
 ## What it is
 Warp is an agentic development environment, born out of the terminal.

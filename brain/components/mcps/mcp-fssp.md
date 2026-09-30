@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T18:29:44Z"
+pushed_at: "2026-09-02T10:35:27Z"
 ---
 ## What it is
 MCP server for checking Russian FSSP (Federal Bailiff Service) debts, enabling AI agents to look up enforcement proceedings for individuals and legal entities through MCP clients like Cursor and Claude Desktop.

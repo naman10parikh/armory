@@ -8,11 +8,11 @@ source_url: https://github.com/dkruyt/mcp-hetzner
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 135
+stars: 145
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
+forks: 24
 pushed_at: "2025-04-10T07:58:13Z"
 ---
 ## What it is

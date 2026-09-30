@@ -8,11 +8,11 @@ source_url: https://github.com/reminia/zendesk-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 116
+stars: 122
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 82
+forks: 85
 pushed_at: "2026-08-27T18:12:09Z"
 ---
 ## What it is

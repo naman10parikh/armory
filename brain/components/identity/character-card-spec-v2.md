@@ -8,7 +8,7 @@ source_url: https://github.com/malfoyslastname/character-card-spec-v2
 license: NOASSERTION
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 188
+stars: 195
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

@@ -8,12 +8,12 @@ source_url: https://github.com/cs50victor/claude-code-teams-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 281
+stars: 282
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 41
+forks: 42
 pushed_at: "2026-02-21T13:21:31Z"
 ---
 ## What it is

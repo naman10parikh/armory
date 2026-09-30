@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T20:54:49Z"
+pushed_at: "2026-09-08T20:55:27Z"
 ---
 ## What it is
 MCP server exposing Profilarr's v1 REST API as tools, enabling an LLM to inspect and manage linked databases, connected Radarr/Sonarr instances, backups, jobs, announcements, and system status.

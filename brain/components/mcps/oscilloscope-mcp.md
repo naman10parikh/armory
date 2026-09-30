@@ -8,13 +8,13 @@ source_url: https://github.com/sandraschi/oscilloscope-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T16:56:04Z"
+pushed_at: "2026-09-28T20:39:38Z"
 ---
 ## What it is
 AI-driven USB oscilloscope control via FastMCP, enabling waveform capture, CSV export, and frequency measurements on PicoScope, Hantek, or a built-in simulator.

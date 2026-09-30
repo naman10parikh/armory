@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T02:15:20Z"
+pushed_at: "2026-09-09T20:40:04Z"
 ---
 ## What it is
 Enables generating print-ready PDFs from Markdown and submitting them to CUPS printers. Supports local, Tailscale, and Cloudflare Tunnel access.

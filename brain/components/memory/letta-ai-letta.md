@@ -8,14 +8,14 @@ source_url: https://github.com/letta-ai/letta
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 24552
+stars: 24981
 eval_score: null
 mentions: 19
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, memory]
-forks: 2609
-pushed_at: "2026-08-23T19:05:43Z"
+forks: 2637
+pushed_at: "2026-09-10T17:59:08Z"
 ---
 ## What it is
 Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.

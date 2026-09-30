@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/clipboard-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T02:33:22Z"
+pushed_at: "2026-09-24T23:54:00Z"
 ---
 ## What it is
 Read, write, and inspect the system clipboard across macOS, Linux (X11/Wayland), and Windows via MCP.

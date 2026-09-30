@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T20:36:27Z"
+pushed_at: "2026-09-04T18:27:04Z"
 ---
 ## What it is
 A high-performance MCP server that connects AI agents to premium computational tools for genetic algorithm optimization and data visualization, with automated USDC microtransactions via the x402 protocol.

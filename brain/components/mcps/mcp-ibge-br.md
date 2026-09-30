@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:14:37Z"
+pushed_at: "2026-09-26T19:10:25Z"
 ---
 ## What it is
 MCP server for accessing IBGE (Brazilian Institute of Geography and Statistics) data, enabling natural language queries via the Pipeworx gateway.

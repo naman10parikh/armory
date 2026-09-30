@@ -8,11 +8,11 @@ source_url: https://github.com/vivekvells/mcp-pandoc
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 579
+stars: 582
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 60
+forks: 62
 pushed_at: "2026-08-15T21:24:55Z"
 ---
 ## What it is

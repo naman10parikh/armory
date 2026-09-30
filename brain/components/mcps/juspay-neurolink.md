@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 129
-forks: 125
-pushed_at: "2026-09-02T03:11:58Z"
+stars: 143
+forks: 127
+pushed_at: "2026-09-30T07:51:13Z"
 ---
 ## What it is
 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails middleware, and context summarization.

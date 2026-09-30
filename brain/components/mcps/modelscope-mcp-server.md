@@ -8,12 +8,12 @@ source_url: https://github.com/modelscope/modelscope-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
+forks: 8
 pushed_at: "2025-12-15T00:18:11Z"
 ---
 ## What it is

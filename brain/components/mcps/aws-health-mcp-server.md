@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-05-13T07:16:58Z"
+pushed_at: "2026-09-06T11:48:01Z"
 ---
 ## What it is
 MCP server that exposes AWS Health API as tools for checking service health, events, and scheduled maintenance at account or organization level.

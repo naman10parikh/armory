@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T18:34:06Z"
+pushed_at: "2026-09-27T18:33:09Z"
 ---
 ## What it is
 Enables pushing enriched leads into Instantly or Smartlead campaigns with ICP score gating, deduplication, and dry-run previews via an Apify actor.

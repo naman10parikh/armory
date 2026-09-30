@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T19:35:20Z"
+pushed_at: "2026-09-05T01:16:18Z"
 ---
 ## What it is
 Enables controlling and interacting with a Commodore 64 emulator running in the browser via MCP.

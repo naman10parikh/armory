@@ -8,13 +8,13 @@ source_url: https://github.com/musharna/plant-genomics-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T02:45:59Z"
+pushed_at: "2026-09-30T13:24:01Z"
 ---
 ## What it is
 ▎ Provides 32 tools for plant-genomics locus lookup across 11 free public backends (Ensembl Plants, Phytozome, UniProtKB, Europe PMC, QuickGO, NCBI BLAST, Gramene, KEGG, STRING-DB, ATTED-II, BAR). Takes a TAIR-style locus plus optional organism and returns gene metadata, functional/pathway annotatio

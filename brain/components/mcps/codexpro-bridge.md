@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T09:28:15Z"
+pushed_at: "2026-09-10T10:51:11Z"
 ---
 ## What it is
 A companion MCP server that exposes live Hermes Skills, filtered native MCP tools, and conditional Memos recall to ChatGPT while isolating Bridge failures from CodexPro VPS operations.

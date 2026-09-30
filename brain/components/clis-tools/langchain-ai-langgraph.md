@@ -8,14 +8,14 @@ source_url: https://github.com/langchain-ai/langgraph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 40899
+stars: 42511
 eval_score: 1
 mentions: 25
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed]
-forks: 6899
-pushed_at: "2026-09-01T21:30:25Z"
+forks: 7201
+pushed_at: "2026-09-29T16:44:15Z"
 ---
 ## What it is
 Build resilient agents.

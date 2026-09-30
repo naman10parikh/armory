@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T05:49:51Z"
+pushed_at: "2026-09-28T11:47:56Z"
 ---
 ## What it is
 Submit locally signed transactions to any supported blockchain (EVM and UTXO) via Crypto APIs. Allows broadcasting signed transaction hex to networks like Ethereum, Bitcoin, BSC, and more.

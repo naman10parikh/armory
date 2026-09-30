@@ -8,13 +8,13 @@ source_url: https://github.com/razvangirgiz/wazap
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T12:35:21Z"
+pushed_at: "2026-09-29T18:34:12Z"
 ---
 ## What it is
 An MCP server that lets AI agents access and manage a WhatsApp account, offering 22 tools for chats, messages, media, contacts, groups, and more, with pairing-code login and optional read-only or HTTP modes.

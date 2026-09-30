@@ -8,12 +8,12 @@ source_url: https://github.com/theailanguage/a2a_samples
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 107
+stars: 108
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, tutorials-learning-resources]
-forks: 70
+forks: 71
 pushed_at: "2025-11-17T12:10:49Z"
 ---
 ## What it is

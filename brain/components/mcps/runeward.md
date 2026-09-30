@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T08:08:47Z"
+pushed_at: "2026-09-30T08:07:51Z"
 ---
 ## What it is
 Governed execution cells for AI agents via MCP; provides shell, code, file, and browser tools inside isolated, policy-enforced Citadels with deny-by-default security, human-in-the-loop approvals, and tamper-evident audit trails.

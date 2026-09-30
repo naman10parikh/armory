@@ -8,12 +8,12 @@ source_url: https://github.com/Zaloog/kanban-tui
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 279
+stars: 285
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
+forks: 20
 pushed_at: "2026-08-28T15:46:54Z"
 ---
 ## What it is

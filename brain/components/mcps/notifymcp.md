@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-29T19:50:42Z"
+pushed_at: "2026-09-28T15:00:10Z"
 ---
 ## What it is
 Enables agents to publish messages to MQTT topics, which can be turned into phone notifications via the NotifyMQTT Android app.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:28:39Z"
+pushed_at: "2026-09-26T20:11:59Z"
 ---
 ## What it is
 Enables querying Switzerland's federal open-data portal (opendata.swiss) via a CKAN-based interface, allowing users to list tags and explore the catalogue through natural language via Pipeworx gateway.

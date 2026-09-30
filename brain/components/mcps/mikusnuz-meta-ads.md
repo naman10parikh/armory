@@ -8,11 +8,11 @@ source_url: https://github.com/mikusnuz/meta-ads-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 19
 pushed_at: "2026-08-28T09:43:47Z"
 ---
 ## What it is

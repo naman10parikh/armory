@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:25:52Z"
+pushed_at: "2026-09-26T20:02:35Z"
 ---
 ## What it is
 Enables AI agents to search, read, and query Notion workspaces, databases, and pages through an MCP gateway.

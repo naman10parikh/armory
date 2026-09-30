@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:53:55Z"
+pushed_at: "2026-09-25T23:13:06Z"
 ---
 ## What it is
 Access and query Denver open geospatial data via the ArcGIS REST API, enabling natural language questions about Denver's datasets.

@@ -8,13 +8,13 @@ source_url: https://github.com/siavashdelkhosh81/telegram-bot-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-08-18T20:24:08Z"
+pushed_at: "2026-09-12T09:50:47Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Telegram Bot API, supporting messaging, user management, and bot configuration with intelligent message splitting and error handling.

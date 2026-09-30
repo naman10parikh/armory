@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T10:01:06Z"
+pushed_at: "2026-09-29T14:09:28Z"
 ---
 ## What it is
 Foldcase MCP server exposes three read-only tools over stdio that serve a coding agent the full catalog of Foldkit component Showcases — enumerating components and their states, describing Message payload schemas as JSON Schema documents, and documenting Model schemas — all derived from a single Sho

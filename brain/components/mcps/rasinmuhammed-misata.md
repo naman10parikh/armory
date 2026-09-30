@@ -8,12 +8,12 @@ source_url: https://github.com/rasinmuhammed/misata
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-08-31T06:55:32Z"
+forks: 3
+pushed_at: "2026-09-28T09:03:03Z"
 ---
 ## What it is
 MCP server `Misata`, catalogued on PulseMCP. Generates realistic, multi-table synthetic datasets from natural language descriptions, YAML schemas, or existing databases with referential integrity.

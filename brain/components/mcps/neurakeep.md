@@ -8,12 +8,12 @@ source_url: https://github.com/dominiclachance/neurakeep
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-08-23T16:03:19Z"
 ---
 ## What it is

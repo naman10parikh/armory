@@ -8,7 +8,7 @@ source_url: https://github.com/healthchainai/HealthChain
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 222
+stars: 228
 eval_score: null
 verified_at: 2026-05-27
 related: []

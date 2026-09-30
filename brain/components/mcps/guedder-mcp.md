@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T09:37:15Z"
+pushed_at: "2026-09-17T16:49:53Z"
 ---
 ## What it is
 Readonly MCP server for the Guedder API v3, enabling operational tasks like listing events, searching tickets, and managing purchases via Streamable HTTP or stdio.

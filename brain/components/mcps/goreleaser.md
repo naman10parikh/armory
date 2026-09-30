@@ -12,8 +12,8 @@ stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-08-31T09:16:56Z"
+forks: 5
+pushed_at: "2026-09-21T09:13:41Z"
 ---
 ## What it is
 MCP server `GoReleaser`, catalogued on PulseMCP. Integrates with GoReleaser's configuration engine to provide validation, deprecation fixes, and documentation access for maintaining and modernizing release pipeline configurations.

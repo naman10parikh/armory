@@ -12,8 +12,8 @@ stars: 164
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
-pushed_at: "2026-09-01T04:46:00Z"
+forks: 30
+pushed_at: "2026-09-28T11:00:45Z"
 ---
 ## What it is
 MCP server `PMAT Agent`, catalogued on PulseMCP. Zero-config AI context generation and code quality toolkit

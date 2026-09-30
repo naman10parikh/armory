@@ -8,12 +8,12 @@ source_url: https://github.com/motozero/repofinder.io
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-08-06T08:28:03Z"
 ---
 ## What it is

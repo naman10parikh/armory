@@ -8,13 +8,13 @@ source_url: https://github.com/yamantaka520/Agent-Memory-OS
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-19T15:12:27Z"
+forks: 3
+pushed_at: "2026-09-22T08:50:10Z"
 ---
 ## What it is
 Local-first memory engine for AI-agent teams: private/team/project ACL, associative recall, and federated sync across nodes. One SQLite file, no LLM required.

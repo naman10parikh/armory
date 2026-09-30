@@ -8,12 +8,12 @@ source_url: https://github.com/ihuzaifashoukat/x-use
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 159
+stars: 170
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 29
+forks: 31
 pushed_at: "2026-08-18T10:20:21Z"
 ---
 ## What it is

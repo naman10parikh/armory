@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T15:18:58Z"
+pushed_at: "2026-09-21T08:23:02Z"
 ---
 ## What it is
 MCP server for gasless USDC, USDT, RLUSD, and USDG payments across 12 EVM chains via EIP-7702, enabling quote, route, and settle stablecoin payments from any MCP client.

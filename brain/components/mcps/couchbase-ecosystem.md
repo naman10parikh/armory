@@ -8,12 +8,12 @@ source_url: https://github.com/Couchbase-Ecosystem/mcp-server-couchbase
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 33
-pushed_at: "2026-09-01T11:11:53Z"
+forks: 35
+pushed_at: "2026-09-30T11:14:05Z"
 ---
 ## What it is
 MCP server `Couchbase`, catalogued on PulseMCP. Connect to Couchbase clusters for document management, SQL++ queries, and performance analytics

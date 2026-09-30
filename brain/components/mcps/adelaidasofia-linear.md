@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-23T03:16:44Z"
+pushed_at: "2026-09-19T15:39:01Z"
 ---
 ## What it is
 MCP server `Linear`, catalogued on PulseMCP. Multi-workspace Linear project management integration with PAT authentication, 57 tools, and prompt support.

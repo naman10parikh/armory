@@ -8,13 +8,13 @@ source_url: https://github.com/keshrath/agent-tasks
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-04-15T17:30:39Z"
+forks: 6
+pushed_at: "2026-09-19T14:18:25Z"
 ---
 ## What it is
 Enables pipeline-driven task management for AI coding agents, with stage-gated workflows, dependency tracking, artifact versioning, and multi-agent collaboration.

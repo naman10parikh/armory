@@ -8,12 +8,12 @@ source_url: https://github.com/alexgoller/illumio-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-08-26T15:48:59Z"
+pushed_at: "2026-09-28T06:54:52Z"
 ---
 ## What it is
 MCP server `Illumio`, catalogued on PulseMCP. Integrates with Illumio's Policy Compute Engine API to enable workload management, label operations, and traffic analysis for zero trust security environments.

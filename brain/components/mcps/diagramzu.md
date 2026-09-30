@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-18T15:43:08Z"
+pushed_at: "2026-09-27T15:14:07Z"
 ---
 ## What it is
 diagramzu-mcp lets an AI client (Claude, Cursor, ChatGPT, etc.) author Mermaid diagrams in a shared workspace that a team can read, comment on, embed, and present at a clean URL — rather than just generating a one-off diagram. Hosted endpoint https://mcp.diagramzu.ai/mcp or local npx -y @diagramzu/m

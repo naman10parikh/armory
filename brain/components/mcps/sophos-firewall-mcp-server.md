@@ -8,13 +8,13 @@ source_url: https://github.com/jelmervdm/sophos-firewall-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T05:47:42Z"
+pushed_at: "2026-09-28T05:45:15Z"
 ---
 ## What it is
 An asynchronous MCP server for Sophos Firewall, enabling AI assistants to manage, audit, and troubleshoot network security infrastructure.

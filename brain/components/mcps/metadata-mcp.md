@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-27T02:50:57Z"
+pushed_at: "2026-09-22T02:24:22Z"
 ---
 ## What it is
 Reads and writes metadata across images, audio, video, documents, and text files using ExifTool, mutagen, and inline handlers, supporting bulk operations with glob patterns.

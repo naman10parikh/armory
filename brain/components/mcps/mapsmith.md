@@ -8,13 +8,13 @@ source_url: https://github.com/mapsmith-ai/MapSmith
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T18:50:55Z"
+pushed_at: "2026-09-29T11:37:24Z"
 ---
 ## What it is
 Enables AI agents to perform professional-grade geoprocessing tasks such as buffers, overlays, reprojections, and terrain analysis with deterministic tools and verifiable provenance.

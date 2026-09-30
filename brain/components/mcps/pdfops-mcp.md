@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T21:14:10Z"
+pushed_at: "2026-09-30T11:30:48Z"
 ---
 ## What it is
 AI agents can inspect, fill, merge PDFs, and generate invoices deterministically using local file paths, without PDF bytes passing through the model context.

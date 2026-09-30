@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:34:20Z"
+pushed_at: "2026-09-02T19:57:45Z"
 ---
 ## What it is
 Enables real-time cryptocurrency price lookups for 10,000+ tokens, returning 24h change, market cap, and volume via CoinGecko with x402 micropayment-based pay-per-call access.

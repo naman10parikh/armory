@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-07-31T16:46:56Z"
+pushed_at: "2026-09-27T20:09:09Z"
 ---
 ## What it is
 MCP server `Packrift`, catalogued on PulseMCP. Enables AI agents to search packaging inventory, check pricing, recommend boxes, estimate shipping, and generate checkout links for Packrift.

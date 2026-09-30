@@ -8,13 +8,13 @@ source_url: https://github.com/SzamosiMate/tapir-archicad-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 97
+stars: 109
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 22
-pushed_at: "2026-08-31T13:22:16Z"
+forks: 24
+pushed_at: "2026-09-17T11:59:24Z"
 ---
 ## What it is
 A bridge allowing AI agents to control Archicad projects via dynamically generated tools from the Tapir and official Archicad JSON APIs.

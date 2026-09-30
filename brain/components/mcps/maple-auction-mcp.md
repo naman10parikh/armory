@@ -8,12 +8,12 @@ source_url: https://github.com/oyc0401/maple-auction-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
+forks: 8
 pushed_at: "2026-07-18T17:34:34Z"
 ---
 ## What it is

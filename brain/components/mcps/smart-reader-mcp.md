@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T01:22:11Z"
+pushed_at: "2026-09-23T22:51:46Z"
 ---
 ## What it is
 Reads PDF, image, or video files by sniffing format and delegating to specialized sibling MCP servers, extracting facts and metadata without LLMs.

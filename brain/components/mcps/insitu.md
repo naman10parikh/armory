@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T15:16:11Z"
+pushed_at: "2026-09-22T04:11:40Z"
 ---
 ## What it is
 MCP server that provides situated identity for agents by storing reusable stanzas and composing them into project protocols, enabling agents to resolve and materialize standing guidance.

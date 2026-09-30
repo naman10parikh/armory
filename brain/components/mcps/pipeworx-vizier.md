@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:33:56Z"
+pushed_at: "2026-09-26T22:18:48Z"
 ---
 ## What it is
 MCP server `VizieR`, catalogued on PulseMCP. Queries the CDS VizieR astronomical catalogue database with tens of thousands of catalogues.

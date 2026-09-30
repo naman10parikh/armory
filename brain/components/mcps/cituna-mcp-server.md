@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T12:19:56Z"
+pushed_at: "2026-09-23T09:08:34Z"
 ---
 ## What it is
 Brings Cituna's AI visibility tracking, audits, and Google Search Console data into Claude via MCP.

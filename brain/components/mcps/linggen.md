@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-31T16:50:40Z"
+pushed_at: "2026-09-10T12:11:48Z"
 ---
 ## What it is
 MCP server `Linggen`, catalogued on PulseMCP. Local-first memory layer for AI assistants with semantic codebase search

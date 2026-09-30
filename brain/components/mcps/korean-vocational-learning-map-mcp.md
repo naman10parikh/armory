@@ -8,12 +8,12 @@ source_url: https://github.com/raphysicst-create/korean-vocational-learning-map-
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-08-25T02:16:50Z"
 ---
 ## What it is

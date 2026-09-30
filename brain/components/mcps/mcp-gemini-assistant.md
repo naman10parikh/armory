@@ -8,12 +8,12 @@ source_url: https://github.com/peterkrueck/mcp-gemini-assistant
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 105
+stars: 106
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
+forks: 15
 pushed_at: "2026-07-22T15:08:37Z"
 ---
 ## What it is

@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, slash-commands]
-stars: 52
+stars: 54
 forks: 8
 pushed_at: "2026-01-14T10:29:46Z"
 ---

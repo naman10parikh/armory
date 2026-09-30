@@ -8,13 +8,13 @@ source_url: https://github.com/WebisityStudio/claude-codex-mcp-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T20:43:53Z"
+pushed_at: "2026-09-23T04:46:36Z"
 ---
 ## What it is
 A local MCP bridge that connects Claude Code and OpenAI Codex via a durable SQLite mailbox, with support for orchestrating and resuming Codex sessions.

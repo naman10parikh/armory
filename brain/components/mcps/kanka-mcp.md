@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-23T15:08:09Z"
+pushed_at: "2026-09-25T03:20:19Z"
 ---
 ## What it is
 Enables MCP-compatible agents to authenticate to a Kanka account and interact with campaigns, entities (CRUD on all 18 entity types, posts, relations), and full-text search.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T12:20:37Z"
+pushed_at: "2026-09-03T07:50:20Z"
 ---
 ## What it is
 MCP server for need coordination, enabling agents to discover, fund, claim, and complete Needs with x402 payments and provenance tracking.

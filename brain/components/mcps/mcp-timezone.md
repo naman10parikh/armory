@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:29:20Z"
+pushed_at: "2026-09-26T21:58:02Z"
 ---
 ## What it is
 Provides timezone information via timeapi.io, enabling listing of 590+ IANA timezone strings.

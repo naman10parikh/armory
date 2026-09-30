@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-04T09:16:46Z"
+pushed_at: "2026-09-14T11:49:14Z"
 ---
 ## What it is
 Provides read-only SQL access to Apache Iceberg tables via HiveServer2, enabling querying, schema discovery, and database listing on Cloudera Data Platform.

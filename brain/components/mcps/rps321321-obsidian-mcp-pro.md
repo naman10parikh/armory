@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 30
 forks: 5
-pushed_at: "2026-08-13T06:00:38Z"
+pushed_at: "2026-09-13T05:53:40Z"
 ---
 ## What it is
 Feature-complete Obsidian vault MCP server with 23 tools and 3 resources. Full-text search, note CRUD, frontmatter queries, tag management, backlinks, graph traversal (BFS up to 5 hops), orphan/broken link detection, and canvas support. Auto-detects vault, path traversal protection, MIT licensed.

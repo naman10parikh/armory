@@ -8,12 +8,12 @@ source_url: https://github.com/chexma/vibeMK
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
+forks: 11
 pushed_at: "2025-08-29T04:48:16Z"
 ---
 ## What it is

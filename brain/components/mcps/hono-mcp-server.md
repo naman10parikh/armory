@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-31T02:05:33Z"
+forks: 2
+pushed_at: "2026-09-30T05:58:35Z"
 ---
 ## What it is
 Easily expose your Hono API endpoints as MCP tools with minimal configuration, supporting type-safe input handling and tool registration.

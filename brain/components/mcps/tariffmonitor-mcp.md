@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-22T20:38:22Z"
+pushed_at: "2026-09-19T16:59:12Z"
 ---
 ## What it is
 Live US import tariff calculator covering 19,856 HTS codes, allowing AI to look up stacked tariff rates and project the November 10, 2026 cliff impact on any product.

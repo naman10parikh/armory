@@ -8,13 +8,13 @@ source_url: https://github.com/SpikedPunchVictim/mast
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T23:45:22Z"
+pushed_at: "2026-09-04T22:59:47Z"
 ---
 ## What it is
 Code-search engine that parses TypeScript and JavaScript with a real AST, stores the symbol graph in SQLite, and serves AI assistants exact matching declarations (functions, classes, types) via BM25 fused with declaration-exact ranking — saving tokens by returning only the relevant code instead of w

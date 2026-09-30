@@ -8,13 +8,13 @@ source_url: https://github.com/opus-pro/opusclip-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-14T22:30:55Z"
+forks: 2
+pushed_at: "2026-09-20T07:10:06Z"
 ---
 ## What it is
 Turn long videos into AI-curated short clips. Submit a video file or URL and OpusClip finds the best moments, adds captions, reframes to vertical, and returns ready-to-post clips.

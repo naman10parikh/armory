@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T02:24:46Z"
+pushed_at: "2026-09-25T04:28:59Z"
 ---
 ## What it is
 Zero-config PostgreSQL MCP server with auto-provisioning. Drop-in replacement for @modelcontextprotocol/server-postgres — no DATABASE_URL needed.

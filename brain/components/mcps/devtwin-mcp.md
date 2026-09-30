@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T12:59:25Z"
+pushed_at: "2026-09-16T13:10:01Z"
 ---
 ## What it is
 Provides AI coding agents with structured, evidence-based diagnostics about the local development environment, detecting tech stack, runtime mismatches, dependency state, services, ports, and Git status without exposing secrets or using network calls.

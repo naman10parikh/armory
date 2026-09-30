@@ -8,11 +8,11 @@ source_url: https://github.com/jem-computer/capacities-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2026-04-21T17:42:48Z"
 ---
 ## What it is

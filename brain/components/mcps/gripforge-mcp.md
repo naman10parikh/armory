@@ -8,13 +8,13 @@ source_url: https://github.com/gripforgeai/mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T12:41:04Z"
+pushed_at: "2026-09-20T09:40:03Z"
 ---
 ## What it is
 MCP server for attaching weapons and props to rigged characters via the GripForge API, supporting multiple styles and output formats for game engines.

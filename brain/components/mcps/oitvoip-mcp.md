@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T03:01:28Z"
+pushed_at: "2026-09-04T02:53:59Z"
 ---
 ## What it is
 MCP server for Oitvoip (NetSapiens) that exposes domain, reseller, device, subscriber, and CDR tools via the ns-api.

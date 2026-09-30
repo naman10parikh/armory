@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 123
+stars: 122
 forks: 14
-pushed_at: "2026-08-17T08:48:15Z"
+pushed_at: "2026-09-30T12:25:18Z"
 ---
 ## What it is
 Desktop app that captures screen activity via event-driven screenshots, stores AI-generated summaries and OCR text locally in SQLite, and exposes your activity history to AI assistants via MCP with semantic search, timeline browsing, and event detail retrieval.

@@ -8,13 +8,13 @@ source_url: https://github.com/itallstartedwithaidea/ContextOS
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 27
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-01T06:24:11Z"
+pushed_at: "2026-09-30T12:04:40Z"
 ---
 ## What it is
 Unified context intelligence layer for AI agents, enabling orchestration of memory, reasoning, and self-healing indexes with cognition primitives and churn-aware retrieval routing.

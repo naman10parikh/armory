@@ -8,11 +8,11 @@ source_url: https://github.com/alexander-zuev/supabase-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 830
+stars: 831
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 104
+forks: 102
 pushed_at: "2026-08-21T20:27:19Z"
 ---
 ## What it is

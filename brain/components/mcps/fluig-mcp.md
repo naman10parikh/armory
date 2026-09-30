@@ -8,13 +8,13 @@ source_url: https://github.com/alucardigo/fluig-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-07-29T20:22:06Z"
+forks: 1
+pushed_at: "2026-09-24T16:11:31Z"
 ---
 ## What it is
 Operates a TOTVS Fluig environment via AI agents or terminal, managing datasets, forms, global events, and BPM process definitions without Fluig Studio.

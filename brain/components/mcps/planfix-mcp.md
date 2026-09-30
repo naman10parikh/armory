@@ -8,13 +8,13 @@ source_url: https://github.com/theYahia/planfix-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-06-23T12:23:03Z"
+pushed_at: "2026-09-06T08:43:17Z"
 ---
 ## What it is
 MCP server for Planfix API enabling task, project, contact, and comment management with 10 tools and 2 skills.

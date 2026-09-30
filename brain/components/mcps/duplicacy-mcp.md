@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T14:05:16Z"
+pushed_at: "2026-09-08T22:23:17Z"
 ---
 ## What it is
 MCP server for administering Duplicacy backups via the duplicacy-web API, enabling AI clients to inspect and manage storages, repositories, schedules, and jobs.

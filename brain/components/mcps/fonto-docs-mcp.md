@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T07:51:20Z"
+pushed_at: "2026-09-28T14:53:26Z"
 ---
 ## What it is
 Makes Fonto XML documentation accessible to AI tools by fetching underlying XML and converting it to clean Markdown on demand, enabling search and retrieval of docs pages.

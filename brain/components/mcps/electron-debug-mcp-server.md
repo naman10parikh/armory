@@ -8,13 +8,13 @@ source_url: https://github.com/amafjarkasi/electron-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 83
+stars: 85
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 23
-pushed_at: "2026-07-26T03:23:34Z"
+pushed_at: "2026-09-12T17:53:40Z"
 ---
 ## What it is
 Enables debugging of Electron applications through the Model Context Protocol, with deep integration of Chrome DevTools Protocol for process management and advanced debugging capabilities.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:40:09Z"
+pushed_at: "2026-09-25T21:54:52Z"
 ---
 ## What it is
 Enables querying and searching City of Puyallup GIS open geospatial datasets (parcels, zoning, public works) using natural language or direct tool calls.

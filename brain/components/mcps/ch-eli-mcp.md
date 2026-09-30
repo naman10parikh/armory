@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:55:15Z"
+pushed_at: "2026-09-24T13:26:53Z"
 ---
 ## What it is
 MCP server for Swiss federal legislation metadata via Fedlex, enabling search and retrieval of act details with ELI URIs, SR numbers, and multilingual support.

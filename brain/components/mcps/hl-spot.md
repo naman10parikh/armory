@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:20Z"
+pushed_at: "2026-09-02T19:56:14Z"
 ---
 ## What it is
 Enables AI agents to query Hyperliquid spot market data, including token listings, live prices, 24h volumes, and wallet balances, via pay-per-call x402 micropayments.

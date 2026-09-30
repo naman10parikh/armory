@@ -8,12 +8,12 @@ source_url: https://github.com/grahammccain/chart-library-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-06-10T03:00:21Z"
+forks: 2
+pushed_at: "2026-09-10T20:43:49Z"
 ---
 ## What it is
 MCP server `Chart Library`, catalogued on PulseMCP. Pattern intelligence API for searching 24 million historical chart patterns with forward returns and regime analysis.

@@ -8,11 +8,11 @@ source_url: https://github.com/shinzo-labs/gmail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 50
+forks: 51
 pushed_at: "2025-11-25T09:52:52Z"
 ---
 ## What it is

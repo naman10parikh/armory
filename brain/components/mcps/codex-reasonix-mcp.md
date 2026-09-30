@@ -8,13 +8,13 @@ source_url: https://github.com/rixzkiye/codex-reasonix-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-31T02:36:55Z"
+forks: 3
+pushed_at: "2026-09-28T02:36:00Z"
 ---
 ## What it is
 An MCP bridge that lets Codex supervise Reasonix as an implementation worker in an isolated Git worktree, ensuring safe delegation with scoped writes and sandboxed execution.

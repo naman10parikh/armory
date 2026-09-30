@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-11T14:15:23Z"
+pushed_at: "2026-09-23T15:37:17Z"
 ---
 ## What it is
 Enables AI agents to access academic citations, fetch metadata, and generate BibTeX entries directly from Google Scholar via MCP tools.

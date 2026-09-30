@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:12:19Z"
+pushed_at: "2026-09-26T19:03:14Z"
 ---
 ## What it is
 MCP server for querying statistical data from Hagstova Føroya (Statistics Faroe Islands) via PxWeb.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T15:15:52Z"
+pushed_at: "2026-09-13T15:16:29Z"
 ---
 ## What it is
 Auto-discovers llms.txt documentation from project dependencies and exposes it to AI coding agents via MCP, enabling agents to read first-party docs without scraping or guessing.

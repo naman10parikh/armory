@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-27T20:45:01Z"
+pushed_at: "2026-09-10T21:12:13Z"
 ---
 ## What it is
 MCP server `Whoop`, catalogued on PulseMCP. MCP server for accessing Whoop biometric data including recovery, sleep, and workout metrics.

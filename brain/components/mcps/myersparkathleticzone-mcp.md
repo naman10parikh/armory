@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T23:37:05Z"
+pushed_at: "2026-09-26T10:53:37Z"
 ---
 ## What it is
 MCP server for Myers Park High School athletics, providing public access to schedules, teams, rosters, coaches, news, and game broadcast links.

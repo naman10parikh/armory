@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T17:30:21Z"
+pushed_at: "2026-09-30T09:14:22Z"
 ---
 ## What it is
 This MCP server enables querying Taiwan interior decoration regulations and procedures, providing deterministic and source-bound answers for permit document assistance.

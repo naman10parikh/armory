@@ -8,11 +8,11 @@ source_url: https://github.com/alosies/gitlab-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 9
 pushed_at: "2026-02-19T11:54:35Z"
 ---
 ## What it is

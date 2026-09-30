@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-25T09:13:36Z"
+pushed_at: "2026-09-23T11:40:17Z"
 ---
 ## What it is
 Persistent memory MCP server for AI agents that stores, recalls, and searches conversation history, key-value context, and long-term entries across sessions with semantic search and FIFO queues.

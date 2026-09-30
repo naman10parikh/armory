@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T01:30:09Z"
+pushed_at: "2026-09-11T10:56:39Z"
 ---
 ## What it is
 Provides 46 no-authentication A-share (Chinese stock market) data tools covering quotes, financials, capital flows, sectors, announcements, macro data, and more, callable from any MCP client without API keys.

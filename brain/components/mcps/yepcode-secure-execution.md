@@ -8,11 +8,11 @@ source_url: https://github.com/yepcode/mcp-server-js
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
+forks: 22
 pushed_at: "2026-03-17T09:19:23Z"
 ---
 ## What it is

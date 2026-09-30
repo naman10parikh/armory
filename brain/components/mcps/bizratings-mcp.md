@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T04:25:00Z"
+pushed_at: "2026-09-04T03:21:05Z"
 ---
 ## What it is
 Exposes the BizRatings CSAT/NPS customer-survey API for ConnectWise partners as MCP tools.

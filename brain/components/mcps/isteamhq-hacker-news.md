@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-17T08:58:24Z"
+pushed_at: "2026-09-14T08:02:05Z"
 ---
 ## What it is
 MCP server `Hacker News`, catalogued on PulseMCP. Searches and retrieves Hacker News stories, threads, and user data via the Algolia HN Search API.

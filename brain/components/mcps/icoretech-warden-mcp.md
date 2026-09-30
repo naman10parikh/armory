@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
-stars: 14
-forks: 3
-pushed_at: "2026-09-02T01:07:07Z"
+stars: 17
+forks: 6
+pushed_at: "2026-09-29T04:17:24Z"
 ---
 ## What it is
 MCP server for Bitwarden and Vaultwarden vault management. Search, create, edit, and organize logins, notes, cards, identities, SSH keys, folders, collections, attachments, and Sends via the official `bw` CLI.

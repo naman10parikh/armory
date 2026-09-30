@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-02-17T02:11:38Z"
+pushed_at: "2026-09-21T11:24:12Z"
 ---
 ## What it is
 An MCP server for AI assistants to programmatically create and manage Entity-Relationship Diagrams in StarUML, including full CRUD operations and PostgreSQL DDL generation.

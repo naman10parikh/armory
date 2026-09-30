@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:34:02Z"
+pushed_at: "2026-09-25T03:11:13Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve detailed information about W3C and web standards specifications, including HTML, CSS, accessibility, and more. Provides tools for keyword search and fetching spec details by shortname or title.

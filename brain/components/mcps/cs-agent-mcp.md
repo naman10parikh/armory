@@ -8,13 +8,13 @@ source_url: https://github.com/codestable/cs-agent-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T06:07:51Z"
+pushed_at: "2026-09-04T04:29:42Z"
 ---
 ## What it is
 A local stdio MCP service that unifies coding agents like Codex and Claude into cs_agent_* tools, enabling the root agent to create, invoke, and manage child agents with recursive delegation.

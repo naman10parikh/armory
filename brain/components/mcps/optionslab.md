@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-25T20:49:12Z"
+pushed_at: "2026-09-21T22:30:02Z"
 ---
 ## What it is
 Options analytics MCP server providing 40+ tools for options chain data, position valuation, Greeks, charts, and volatility analysis.

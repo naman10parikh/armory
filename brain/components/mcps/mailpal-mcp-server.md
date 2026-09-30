@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-26T15:43:47Z"
+pushed_at: "2026-09-25T09:21:56Z"
 ---
 ## What it is
 Free email server for AI agents with hardware attestation, enabling agents to send, receive, and manage emails via MCP tools.

@@ -8,13 +8,13 @@ source_url: https://github.com/badchars/fingerprint-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T10:15:15Z"
+pushed_at: "2026-09-23T10:14:18Z"
 ---
 ## What it is
 A universal digital fingerprinting MCP server that combines 103 techniques across TCP, TLS, SSH, HTTP, DNS, and more into a single interface for AI agents, enabling full-spectrum fingerprinting on demand.

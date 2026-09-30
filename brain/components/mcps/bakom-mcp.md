@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T05:57:07Z"
+pushed_at: "2026-09-27T16:57:03Z"
 ---
 ## What it is
 MCP server for Swiss BAKOM open data, enabling natural-language queries about broadband availability, 5G/4G coverage, mobile antennas, licensed broadcasters, and telecom statistics.

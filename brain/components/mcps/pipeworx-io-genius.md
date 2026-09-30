@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:09:00Z"
+pushed_at: "2026-09-26T12:35:16Z"
 ---
 ## What it is
 MCP server `Genius`, catalogued on PulseMCP. Genius music metadata — songs, artist biographies, and community annotations — via the Pipeworx gateway.

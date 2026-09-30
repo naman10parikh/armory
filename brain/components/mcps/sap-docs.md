@@ -8,12 +8,12 @@ source_url: https://github.com/marianfoo/mcp-sap-docs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 217
+stars: 234
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 45
-pushed_at: "2026-08-18T19:23:52Z"
+forks: 48
+pushed_at: "2026-09-23T10:23:29Z"
 ---
 ## What it is
 MCP server `SAP Docs`, catalogued on PulseMCP. Provides offline access to SAP documentation and community content with searchable indexes across SAPUI5, CAP, OpenUI5 API documentation, and real-time SAP Community integration for fast technical reference without web-based searches.

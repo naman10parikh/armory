@@ -8,12 +8,12 @@ source_url: https://github.com/AbhiRawat4841/mathematica-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 48
+stars: 51
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 8
 pushed_at: "2026-07-06T11:07:56Z"
 ---
 ## What it is

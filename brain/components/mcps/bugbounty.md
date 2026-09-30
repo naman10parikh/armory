@@ -8,11 +8,11 @@ source_url: https://github.com/gokulapap/bugbounty-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2026-08-24T11:06:01Z"
 ---
 ## What it is

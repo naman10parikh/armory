@@ -8,11 +8,11 @@ source_url: https://github.com/fosdickio/binary_ninja_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 428
+stars: 443
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 87
+forks: 88
 pushed_at: "2026-04-05T19:38:07Z"
 ---
 ## What it is

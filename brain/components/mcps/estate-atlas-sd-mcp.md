@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-22T03:49:28Z"
+pushed_at: "2026-09-08T21:27:36Z"
 ---
 ## What it is
 MCP server for querying the San Diego Municipal Code, bulletins, permits, parcels, and zoning data with citations and freshness guarantees.

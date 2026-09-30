@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T15:01:06Z"
+pushed_at: "2026-09-16T15:53:44Z"
 ---
 ## What it is
 Enables users to create and revise strategy graphs, modules, and custom nodes; run exact-revision backtests; and maintain project knowledge and artifact documentation.

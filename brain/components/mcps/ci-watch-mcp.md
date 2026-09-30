@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T06:52:58Z"
+pushed_at: "2026-09-22T11:45:44Z"
 ---
 ## What it is
 MCP server with the watch_ci tool that polls GitHub Actions until a commit's CI run finishes, then returns the outcome and failed log tail in one call.

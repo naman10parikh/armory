@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-17T07:35:28Z"
+pushed_at: "2026-09-07T07:36:50Z"
 ---
 ## What it is
 MCP server `Ocultar`, catalogued on PulseMCP. Redact PII from text and documents without sending data to external services.

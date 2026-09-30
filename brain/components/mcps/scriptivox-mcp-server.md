@@ -8,13 +8,13 @@ source_url: https://github.com/SparkleOfficial/scriptivox-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T17:29:06Z"
+pushed_at: "2026-09-30T09:50:25Z"
 ---
 ## What it is
 Enables AI assistants to transcribe audio and video from URLs or local files with high accuracy, speaker diarization, 119 languages, and word-level timestamps, while also supporting transcription management and caption export in SRT, WebVTT, or plain text.

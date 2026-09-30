@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:23:27Z"
+pushed_at: "2026-09-26T19:49:08Z"
 ---
 ## What it is
 Provides access to dataset statistics and metadata for MyChem.info, a chemical database.

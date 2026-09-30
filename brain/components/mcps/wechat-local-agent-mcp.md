@@ -8,13 +8,13 @@ source_url: https://github.com/hetiankong/wechat-local-agent-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T14:45:38Z"
+pushed_at: "2026-09-03T11:11:18Z"
 ---
 ## What it is
 A local-first MCP server that lets agents search and summarize a user's own WeChat history, with stable pagination, bulk chat workflows, unread/event queries, and gated enrichment tools.

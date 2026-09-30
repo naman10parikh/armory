@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T08:18:48Z"
+pushed_at: "2026-09-23T08:41:24Z"
 ---
 ## What it is
 A local MCP server that exposes your UPV academic calendar and PoliformaT data to MCP clients, enabling natural language queries for classes, deadlines, announcements, and materials.

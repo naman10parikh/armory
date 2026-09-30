@@ -8,13 +8,13 @@ source_url: https://github.com/SEI-Pro/mcp-seipro
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-07-31T01:25:27Z"
+forks: 5
+pushed_at: "2026-09-28T14:11:40Z"
 ---
 ## What it is
 MCP Server do SEI Pro para o SEI (Sistema Eletrônico de Informações) via API REST mod-wssei v2 + scraper do frontend web (modo híbrido).

@@ -8,13 +8,13 @@ source_url: https://github.com/SWATGenX/swatgenx-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-23T00:32:25Z"
+pushed_at: "2026-09-28T01:49:17Z"
 ---
 ## What it is
 Enables search and retrieval of calibrated SWAT+ watershed models, national groundwater lithology and PFAS inventories, plus API-key-secured ordering and downloading of custom watershed models.

@@ -8,14 +8,14 @@ source_url: https://github.com/microsoft/SkillOpt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 16613
+stars: 17893
 eval_score: null
 mentions: 5
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 1561
-pushed_at: "2026-08-29T18:49:23Z"
+forks: 1683
+pushed_at: "2026-09-30T11:22:44Z"
 ---
 ## What it is
 SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.

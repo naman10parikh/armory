@@ -8,13 +8,13 @@ source_url: https://github.com/ry-ops/proxmox-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-31T09:11:01Z"
+forks: 6
+pushed_at: "2026-09-14T09:10:33Z"
 ---
 ## What it is
 Enables interaction with Proxmox VE for managing VMs, containers, storage, and cluster resources via natural language through the Model Context Protocol.

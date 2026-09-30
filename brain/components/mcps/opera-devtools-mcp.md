@@ -8,13 +8,13 @@ source_url: https://github.com/operasoftware/opera-devtools-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-01T12:43:45Z"
+forks: 2
+pushed_at: "2026-09-30T04:13:35Z"
 ---
 ## What it is
 Enables AI coding assistants to control and inspect a browser via DevTools, with additional Opera Neon AI tools for chat, page actions, content generation, and research.

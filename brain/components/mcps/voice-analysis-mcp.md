@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T09:52:56Z"
+pushed_at: "2026-09-28T08:22:48Z"
 ---
 ## What it is
 Provides local audio analysis tools for LLMs, enabling transcription, conversation dynamics, prosody analysis, and visual inspection without API keys.

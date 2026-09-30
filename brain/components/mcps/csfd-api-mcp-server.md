@@ -8,12 +8,12 @@ source_url: https://github.com/bartholomej/node-csfd-api
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 60
+stars: 63
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
+forks: 14
 pushed_at: "2026-08-31T16:40:02Z"
 ---
 ## What it is

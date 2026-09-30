@@ -8,13 +8,13 @@ source_url: https://github.com/christianclaudio/mcp-server-sigma
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T16:16:37Z"
+pushed_at: "2026-09-28T01:55:06Z"
 ---
 ## What it is
 Enterprise-grade MCP server for Sigma Computing, providing 155 tools for managing workbooks, data models, members, teams, deployments, webhooks, and multi-tenant operations. Enables AI assistants to interact with Sigma via natural language.

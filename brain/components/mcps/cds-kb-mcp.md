@@ -8,7 +8,7 @@ source_url: https://github.com/truongdva2/cds-kb-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []

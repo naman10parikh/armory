@@ -8,11 +8,11 @@ source_url: https://github.com/adancurusul/serial-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 89
+stars: 93
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
+forks: 25
 pushed_at: "2026-07-07T08:10:23Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-13T11:29:12Z"
+pushed_at: "2026-09-28T13:40:50Z"
 ---
 ## What it is
 A dockerised, self-hostable host that runs an Obsidian vault headlessly and serves it to MCP clients, with pluggable sync (git first).

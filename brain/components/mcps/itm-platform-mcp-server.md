@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-07T15:11:25Z"
+forks: 1
+pushed_at: "2026-09-21T18:02:50Z"
 ---
 ## What it is
 Connects AI assistants to ITM Platform for searching projects, inspecting budgets, creating tasks, logging risks and issues, and updating project details via natural language.

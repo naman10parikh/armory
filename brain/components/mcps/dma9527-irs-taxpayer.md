@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-02-24T19:50:09Z"
+pushed_at: "2026-09-18T14:39:24Z"
 ---
 ## What it is
 MCP server `IRS Taxpayer`, catalogued on PulseMCP. 39 US tax calculation tools covering federal, state, credits, deductions, and retirement planning.

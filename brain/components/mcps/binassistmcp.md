@@ -8,13 +8,13 @@ source_url: https://github.com/symgraph/BinAssistMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 49
+stars: 51
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-08-31T18:11:20Z"
+forks: 12
+pushed_at: "2026-09-20T15:23:45Z"
 ---
 ## What it is
 A bridge between Binary Ninja and LLMs for AI-powered reverse engineering, exposing binary analysis tools through the Model Context Protocol.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T16:22:35Z"
+pushed_at: "2026-09-25T10:44:48Z"
 ---
 ## What it is
 MCP server for Malcolm (Zeek/Suricata/Arkime/OpenSearch/NetBox): full read surface plus opt-in, audited write tools.

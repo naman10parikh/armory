@@ -8,7 +8,7 @@ source_url: https://github.com/lofifren/picocalc
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 77
+stars: 78
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

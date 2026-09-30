@@ -8,13 +8,13 @@ source_url: https://github.com/sourabhfb/mongodb-mcp-that-works
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2025-06-19T07:02:30Z"
+pushed_at: "2026-09-06T12:05:02Z"
 ---
 ## What it is
 Enables interaction with MongoDB databases through CRUD operations, aggregation, and schema discovery, with automatic field validation and ObjectId conversion.

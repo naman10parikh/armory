@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:01:24Z"
+pushed_at: "2026-09-25T23:36:59Z"
 ---
 ## What it is
 MCP server `Dogs API`, catalogued on PulseMCP. Retrieve dog breed information and images from the Dog API.

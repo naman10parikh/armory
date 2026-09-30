@@ -8,12 +8,12 @@ source_url: https://github.com/ascii766164696D/log-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 99
+stars: 100
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-02-28T20:40:52Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T01:29:10Z"
+pushed_at: "2026-09-15T20:50:33Z"
 ---
 ## What it is
 MCP server that provides fantasy football draft tools including ranked boards, best available, player comparisons, sleeper/bust flags, and ADP market gaps using a calibrated projection model.

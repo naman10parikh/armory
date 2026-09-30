@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:41:36Z"
+pushed_at: "2026-09-25T21:58:59Z"
 ---
 ## What it is
 Enables users to search and query City of Tucson GIS open geospatial datasets (zoning, parcels, public safety, transport, city services) through natural language.

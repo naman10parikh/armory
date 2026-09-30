@@ -8,13 +8,13 @@ source_url: https://github.com/loonghao/dcc-mcp-blender
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 26
+stars: 42
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-08-25T17:58:39Z"
+forks: 8
+pushed_at: "2026-09-29T01:19:39Z"
 ---
 ## What it is
 Enables AI clients to control Blender's 3D workflow via an embedded MCP server.

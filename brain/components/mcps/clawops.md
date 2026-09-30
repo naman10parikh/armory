@@ -8,13 +8,13 @@ source_url: https://github.com/dfridkin/clawops
 license: Mozilla Public License 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-28T13:59:15Z"
+pushed_at: "2026-09-26T00:35:49Z"
 ---
 ## What it is
 MCP-native infrastructure ops for deploying and managing self-hosted OpenClaw instances across cloud providers or local VMs, with read-only mode, destructive-action confirmation, and audit logs.

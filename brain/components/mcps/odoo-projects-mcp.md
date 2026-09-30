@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T16:20:25Z"
+pushed_at: "2026-09-29T17:40:59Z"
 ---
 ## What it is
 Enables authenticated team members to manage Odoo projects, tasks, timesheets, and milestones through Claude, with per-user token-based authentication.

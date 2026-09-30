@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:37:45Z"
+pushed_at: "2026-09-25T21:32:32Z"
 ---
 ## What it is
 Enables querying City of Irvine GIS open geospatial data (parcels, zoning, parks) via ArcGIS Feature Services, with tools to search datasets, query layers, and retrieve schema information.

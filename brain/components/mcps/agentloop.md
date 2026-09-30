@@ -8,7 +8,7 @@ source_url: https://github.com/luckeyfaraday/athena-loops
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 57
+stars: 61
 eval_score: null
 verified_at: 2026-05-27
 related: []

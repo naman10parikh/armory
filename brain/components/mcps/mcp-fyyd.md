@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:08:24Z"
+pushed_at: "2026-09-26T12:32:57Z"
 ---
 ## What it is
 Search and retrieve podcast metadata, episodes, and categories from the fyyd open podcast directory.

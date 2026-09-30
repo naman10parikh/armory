@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T19:48:28Z"
+pushed_at: "2026-09-08T12:10:13Z"
 ---
 ## What it is
 MCP server for Notepad++ on Windows that allows opening files, checking editor status, and saving/loading session snapshots.

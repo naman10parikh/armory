@@ -8,13 +8,13 @@ source_url: https://github.com/shibing624/weather-forecast-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2025-10-21T11:30:06Z"
+pushed_at: "2026-09-14T12:41:35Z"
 ---
 ## What it is
 Provides current weather and multi-day forecasts for any location worldwide, integrable with MCP clients like Claude.

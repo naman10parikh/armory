@@ -8,12 +8,12 @@ source_url: https://github.com/TickDB/tickdb-unified-realtime-marketdata-api
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 741
+stars: 836
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
+forks: 16
 pushed_at: "2026-06-20T15:31:17Z"
 ---
 ## What it is

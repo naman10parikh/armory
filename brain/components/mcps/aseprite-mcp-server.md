@@ -8,13 +8,13 @@ source_url: https://github.com/ZhangDongyang800/Aseprite_MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-14T02:37:16Z"
+forks: 2
+pushed_at: "2026-09-21T09:49:25Z"
 ---
 ## What it is
 Enables AI to create pixel art in Aseprite through pixel-level drawing primitives, read canvas screenshots, and iterate until satisfied.

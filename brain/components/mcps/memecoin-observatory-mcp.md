@@ -8,12 +8,12 @@ source_url: https://github.com/tony-42069/solana-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
+forks: 15
 pushed_at: "2026-01-26T15:39:47Z"
 ---
 ## What it is

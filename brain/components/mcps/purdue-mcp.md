@@ -8,13 +8,13 @@ source_url: https://github.com/sharziki/purdue-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-28T02:01:34Z"
+forks: 1
+pushed_at: "2026-09-26T19:44:15Z"
 ---
 ## What it is
 MCP server providing 24 tools to access public, real-time Purdue University data including dining menus, gym occupancy, course catalogs, bus times, events, and more.

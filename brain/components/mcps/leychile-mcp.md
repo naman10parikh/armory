@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T16:38:15Z"
+pushed_at: "2026-09-08T14:36:12Z"
 ---
 ## What it is
 MCP server that connects AI to the Chilean legislation system (Ley Chile) for retrieving legal norms, citations, and intertemporal analysis.

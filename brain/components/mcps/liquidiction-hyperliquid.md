@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-24T20:34:57Z"
+pushed_at: "2026-09-11T18:46:50Z"
 ---
 ## What it is
 MCP server `Liquidiction`, catalogued on PulseMCP. MCP server for Hyperliquid HIP-4 prediction market data with 10 tools requiring no API keys.

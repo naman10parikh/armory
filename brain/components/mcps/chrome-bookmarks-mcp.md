@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T03:29:46Z"
+pushed_at: "2026-09-30T01:32:42Z"
 ---
 ## What it is
 Manages Chrome's synced bookmarks through an MCP server and Chrome extension, enabling operations like listing, searching, adding, moving, and deduplicating bookmarks.

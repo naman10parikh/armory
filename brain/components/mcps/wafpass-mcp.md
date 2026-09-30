@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T13:13:10Z"
+pushed_at: "2026-09-16T16:26:10Z"
 ---
 ## What it is
 Secure MCP server that exposes WAFpass REST endpoints as tools for AI assistants, with role-based filtering and token validation.

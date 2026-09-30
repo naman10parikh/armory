@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-01T17:43:28Z"
+pushed_at: "2026-09-09T17:27:35Z"
 ---
 ## What it is
 Local MCP adapter for private, browser-based QuokkaPix image workflows.

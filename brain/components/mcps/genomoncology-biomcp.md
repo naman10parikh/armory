@@ -8,12 +8,12 @@ source_url: https://github.com/genomoncology/biomcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 622
+stars: 646
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 113
-pushed_at: "2026-09-02T03:39:40Z"
+forks: 116
+pushed_at: "2026-09-30T13:10:51Z"
 ---
 ## What it is
 MCP server `BioMCP (Biomedical Database Integration)`, catalogued on PulseMCP. Integrates with biomedical databases including ClinicalTrials.gov, PubMed, and MyVariant.info to provide structured access to clinical trials, research articles, and genetic variants with intelligent data rendering and source attribution.

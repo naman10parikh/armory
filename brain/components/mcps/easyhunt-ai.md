@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T21:31:49Z"
+pushed_at: "2026-09-04T01:09:41Z"
 ---
 ## What it is
 MCP server for AI-driven VAPT orchestration, enabling agents to plan and execute authorized security scans through a control plane that enforces scope, sanitization, budget, rate limits, human approval, and audit logging.

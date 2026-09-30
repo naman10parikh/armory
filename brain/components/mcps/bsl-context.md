@@ -8,13 +8,13 @@ source_url: https://github.com/Regsorm/bsl-context
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-08-30T20:25:07Z"
+forks: 5
+pushed_at: "2026-09-30T12:02:36Z"
 ---
 ## What it is
 MCP server that validates AI-generated 1C:Enterprise (BSL) code against the real platform API. Catches unknown enum values, wrong argument counts, and missing type members by parsing the platform syntax-helper (shcntx_ru.hbk) — independent Rust implementation with built-in expression validator.

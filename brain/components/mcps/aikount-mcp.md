@@ -8,13 +8,13 @@ source_url: https://github.com/mutonby/aikount-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-28T17:52:18Z"
+pushed_at: "2026-09-27T19:29:03Z"
 ---
 ## What it is
 MCP server for Spanish accounting for freelancers and SMEs, enabling AI agents to issue invoices, OCR expense PDFs, reconcile bank transactions, and prepare quarterly VAT (Modelo 303).

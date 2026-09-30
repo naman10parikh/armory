@@ -12,8 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
-pushed_at: "2026-07-02T15:37:36Z"
+forks: 9
+pushed_at: "2026-09-22T21:36:25Z"
 ---
 ## What it is
 MCP server `Lightning Wallet`, catalogued on PulseMCP. Provides Bitcoin Lightning Network wallet capabilities with L402 protocol support for payments, invoicing, and agent budget management.

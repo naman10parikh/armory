@@ -8,12 +8,12 @@ source_url: https://github.com/dsphper/lanhu-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2283
+stars: 2436
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 256
-pushed_at: "2026-09-02T02:51:39Z"
+forks: 272
+pushed_at: "2026-09-24T08:36:11Z"
 ---
 ## What it is
 MCP server `Lanhu`, catalogued on PulseMCP. Extracts design specifications and requirements from Lanhu design collaboration platform

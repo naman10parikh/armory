@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T01:56:57Z"
+pushed_at: "2026-09-25T10:14:13Z"
 ---
 ## What it is
 Enables natural-language retrieval from enterprise policy documents via RAG, exposing search_enterprise_knowledge and get_document_sources tools.

@@ -8,12 +8,12 @@ source_url: https://github.com/billy-enrizky/openbrowser-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 241
+stars: 269
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
-pushed_at: "2026-07-07T02:55:55Z"
+forks: 28
+pushed_at: "2026-09-28T05:43:28Z"
 ---
 ## What it is
 MCP server `OpenBrowser`, catalogued on PulseMCP. AI-powered browser automation using CodeAgent and Chrome DevTools Protocol.

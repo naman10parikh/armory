@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T18:30:43Z"
+pushed_at: "2026-09-02T14:24:01Z"
 ---
 ## What it is
 Connects any MCP-compatible AI assistant to the MojaWave SMS Gateway, enabling sending SMS, checking credit balances, and managing bulk SMS jobs.

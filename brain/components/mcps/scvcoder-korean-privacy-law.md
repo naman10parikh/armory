@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-10T11:23:37Z"
+pushed_at: "2026-09-13T09:43:17Z"
 ---
 ## What it is
 MCP server `Korean Privacy Law`, catalogued on PulseMCP. MCP server for South Korean Personal Information Protection Act (PIPA) research with 37 tools and hallucination detection for legal citations.

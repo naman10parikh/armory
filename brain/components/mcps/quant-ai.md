@@ -8,13 +8,13 @@ source_url: https://github.com/TingdeLiu/quant.ai
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T08:09:09Z"
+pushed_at: "2026-09-03T15:52:54Z"
 ---
 ## What it is
 MCP server for US stock quant research that provides explainable ratings, support/stop levels, and reasoning for any ticker. It enables AI assistants to analyze and discuss stocks inline within the same chat.

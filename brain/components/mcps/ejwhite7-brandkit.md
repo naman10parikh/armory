@@ -8,11 +8,11 @@ source_url: https://github.com/ejwhite7/brandkit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 1
 pushed_at: "2026-08-29T15:05:28Z"
 ---
 ## What it is

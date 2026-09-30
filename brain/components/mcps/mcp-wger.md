@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:34:55Z"
+pushed_at: "2026-09-26T22:21:32Z"
 ---
 ## What it is
 Enables interaction with the wger Workout Manager database to retrieve exercises, muscles, and equipment information.

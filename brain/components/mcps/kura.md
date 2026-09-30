@@ -8,13 +8,13 @@ source_url: https://github.com/dinggi5/kura
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T18:48:13Z"
+pushed_at: "2026-09-28T23:33:55Z"
 ---
 ## What it is
 Local Ethereum wallet for AI agents — read balances and history, request payments that a human approves by password in the app popup, and fetch x402-paywalled resources with USDC on Base. Keys are encrypted on-device and never leave your Mac.

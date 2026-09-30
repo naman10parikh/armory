@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-02-12T12:23:30Z"
+pushed_at: "2026-09-27T19:53:20Z"
 ---
 ## What it is
 MCP server that enables interaction with Talos Linux clusters via gRPC API, supporting cluster management, monitoring, configuration, and resource inspection.

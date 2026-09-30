@@ -8,11 +8,11 @@ source_url: https://github.com/nyaoouo/idalib-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-06-04T06:40:50Z"
 ---
 ## What it is

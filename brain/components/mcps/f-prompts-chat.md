@@ -8,11 +8,11 @@ source_url: https://github.com/f/prompts.chat-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 10
 pushed_at: "2026-03-28T21:22:49Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:11:25Z"
+pushed_at: "2026-09-26T18:59:52Z"
 ---
 ## What it is
 Enables searching and analyzing Australian Commonwealth grant opportunities and awarded grants from grants.gov.au, including recipient lookups and coverage checks.

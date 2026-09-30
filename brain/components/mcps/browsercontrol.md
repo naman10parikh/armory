@@ -8,13 +8,13 @@ source_url: https://github.com/adityasasidhar/browsercontrol
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-05T13:19:52Z"
+pushed_at: "2026-09-18T02:05:23Z"
 ---
 ## What it is
 MCP server for vision-first browser automation that annotates interactive elements with numbered markers, allowing AI agents to control any webpage by simply referencing element numbers.

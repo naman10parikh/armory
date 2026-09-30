@@ -8,13 +8,13 @@ source_url: https://github.com/chrisryugj/korean-patent-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 52
+stars: 54
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
-pushed_at: "2026-08-17T06:07:38Z"
+forks: 15
+pushed_at: "2026-09-12T13:17:30Z"
 ---
 ## What it is
 MCP server that enables searching Korean patents, trademarks, and designs via KIPRIS Plus open APIs. Supports keyword, advanced, applicant, and rightholder searches with detailed bibliographic lookup.

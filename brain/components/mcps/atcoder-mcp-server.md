@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-21T17:32:40Z"
+pushed_at: "2026-09-08T15:36:53Z"
 ---
 ## What it is
 Read-only MCP server for accessing AtCoder problem statements and samples, enabling problem retrieval and search without contest interference.

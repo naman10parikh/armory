@@ -12,8 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
-pushed_at: "2026-04-27T17:34:34Z"
+forks: 14
+pushed_at: "2026-09-30T06:59:27Z"
 ---
 ## What it is
 MCP server `Fathom`, catalogued on PulseMCP. Provides AI-driven meeting analysis and summarization through the Fathom platform.

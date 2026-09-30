@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T00:32:53Z"
+pushed_at: "2026-09-22T01:42:03Z"
 ---
 ## What it is
 Drives SolidWorks 2022 on Windows via COM to perform CAD operations like sketching, features, dimensioning, and mass property inspection from AI assistants.

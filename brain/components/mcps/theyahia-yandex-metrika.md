@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-18T10:20:08Z"
+pushed_at: "2026-09-06T08:42:01Z"
 ---
 ## What it is
 MCP server `Yandex Metrika`, catalogued on PulseMCP. Integrates with Yandex.Metrika analytics API for counters, reports, visitor stats, and traffic source analysis.

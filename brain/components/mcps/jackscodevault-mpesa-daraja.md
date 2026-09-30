@@ -8,11 +8,11 @@ source_url: https://github.com/jackscodevault/mpesa-daraja-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2025-12-28T18:45:18Z"
 ---
 ## What it is

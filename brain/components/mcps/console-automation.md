@@ -8,12 +8,12 @@ source_url: https://github.com/ooples/mcp-console-automation
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
-pushed_at: "2026-08-11T03:53:58Z"
+forks: 16
+pushed_at: "2026-09-29T07:08:37Z"
 ---
 ## What it is
 MCP server `Console Automation`, catalogued on PulseMCP. Enables interactive console sessions across multiple shell types (cmd, PowerShell, bash, zsh) with real-time output streaming, automatic error detection, and cross-platform process management for development workflows, system administration, and command-line automation.

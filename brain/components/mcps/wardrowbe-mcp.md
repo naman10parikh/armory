@@ -8,12 +8,12 @@ source_url: https://github.com/saya6k/mcp-wardrowbe
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-05-27T02:26:39Z"
 ---
 ## What it is

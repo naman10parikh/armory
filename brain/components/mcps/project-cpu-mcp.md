@@ -8,13 +8,13 @@ source_url: https://github.com/projectcpu/project-cpu-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T14:28:58Z"
+forks: 1
+pushed_at: "2026-09-16T11:31:51Z"
 ---
 ## What it is
 MCP server for Project CPU, a blockchain game on EVM. It lets an AI agent play on your behalf: read the world map, reveal cells, build and mine, craft, move resources, trade at marketplaces, and cash out to on-chain $CPU.

@@ -8,11 +8,11 @@ source_url: https://github.com/berlinbra/polymarket-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 142
+stars: 143
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
+forks: 22
 pushed_at: "2025-06-06T15:26:56Z"
 ---
 ## What it is

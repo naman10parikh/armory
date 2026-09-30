@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-25T08:13:25Z"
+pushed_at: "2026-09-22T21:04:56Z"
 ---
 ## What it is
 MCP server `OpenFDA`, catalogued on PulseMCP. Query FDA data on drugs, food, devices, and recalls via the openFDA API — STDIO or Streamable HTTP.

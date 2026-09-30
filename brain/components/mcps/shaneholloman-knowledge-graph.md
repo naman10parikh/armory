@@ -8,7 +8,7 @@ source_url: https://github.com/shaneholloman/mcp-knowledge-graph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 888
+stars: 890
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

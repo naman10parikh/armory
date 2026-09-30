@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-06T19:34:15Z"
+pushed_at: "2026-09-02T19:57:36Z"
 ---
 ## What it is
 MCP server `Text to Speech`, catalogued on PulseMCP. Convert text to MP3 speech audio in 50+ languages.

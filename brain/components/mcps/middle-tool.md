@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T05:32:25Z"
+pushed_at: "2026-09-11T07:21:20Z"
 ---
 ## What it is
 Provides a unified MCP server to interact with multiple middleware (Loki, MySQL, Redis, RocketMQ, Elasticsearch, MongoDB) through a desktop application for connection management and configuration export.

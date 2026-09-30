@@ -8,7 +8,7 @@ source_url: https://github.com/caiyunapp/mcp-caiyun-weather
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 46
+stars: 47
 eval_score: null
 verified_at: 2026-05-27
 related: []

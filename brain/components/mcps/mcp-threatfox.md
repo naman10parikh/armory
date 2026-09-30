@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:29:02Z"
+pushed_at: "2026-09-26T21:57:19Z"
 ---
 ## What it is
 Enables searching for indicators of compromise from ThreatFox by file hash (MD5/SHA1/SHA256) or malware family name.

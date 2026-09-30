@@ -8,13 +8,13 @@ source_url: https://github.com/BackTrackCo/tenjin-agent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-01T23:26:07Z"
+forks: 3
+pushed_at: "2026-09-29T19:15:55Z"
 ---
 ## What it is
 Enables agents to discover, read, buy, and publish knowledge using USDC on Base, with search and free essays at no cost.

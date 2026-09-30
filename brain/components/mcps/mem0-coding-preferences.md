@@ -8,11 +8,11 @@ source_url: https://github.com/mem0ai/mem0-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 658
+stars: 662
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 150
+forks: 148
 pushed_at: "2026-03-24T23:36:56Z"
 ---
 ## What it is

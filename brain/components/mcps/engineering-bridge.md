@@ -8,13 +8,13 @@ source_url: https://github.com/wudy29/engineering-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 99
+stars: 133
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
-pushed_at: "2026-08-30T12:12:35Z"
+forks: 22
+pushed_at: "2026-09-18T05:45:48Z"
 ---
 ## What it is
 A local STDIO MCP server that bridges MCP clients to the Codex CLI by sending instructions to a configured workspace, exposing task run, status, and result tools with a read-only sandbox and no remote transport.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T08:36:10Z"
+pushed_at: "2026-09-09T04:58:52Z"
 ---
 ## What it is
 Provides AI-driven web search, page fetching, and site mapping with real xAI citations, enabling LLM clients to access up-to-date external information.

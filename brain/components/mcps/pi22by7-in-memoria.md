@@ -8,11 +8,11 @@ source_url: https://github.com/pi22by7/in-memoria
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 172
+stars: 174
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 30
+forks: 33
 pushed_at: "2025-12-23T15:59:37Z"
 ---
 ## What it is

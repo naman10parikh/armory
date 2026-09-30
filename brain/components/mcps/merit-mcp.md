@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-15T13:56:10Z"
+pushed_at: "2026-09-10T18:34:25Z"
 ---
 ## What it is
 Connects to Merit bookkeeping software

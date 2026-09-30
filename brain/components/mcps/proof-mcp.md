@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T10:17:12Z"
+pushed_at: "2026-09-04T06:59:05Z"
 ---
 ## What it is
 An MCP server that exposes a Proof workspace to MCP clients, enabling tools for reading/writing concepts, managing ideas and projects, running ideation operators, and more, with live sync and headless authentication.

@@ -8,12 +8,12 @@ source_url: https://github.com/evref-bl/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-08-31T15:32:44Z"
+pushed_at: "2026-09-16T11:31:22Z"
 ---
 ## What it is
 MCP server `Pharo`, catalogued on PulseMCP. Enables MCP clients to interact with a Pharo Smalltalk programming environment.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-17T23:55:32Z"
+pushed_at: "2026-09-25T04:40:40Z"
 ---
 ## What it is
 MCP server `BTCFi API`, catalogued on PulseMCP. Bitcoin data for AI agents with x402 micropayments.

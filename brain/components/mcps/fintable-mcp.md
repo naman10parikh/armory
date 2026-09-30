@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-08T13:22:33Z"
+pushed_at: "2026-09-06T15:36:07Z"
 ---
 ## What it is
 An unofficial MCP server for fintable.io that enables AI assistants to manage financial categories, rules, and transactions directly through your browser session.

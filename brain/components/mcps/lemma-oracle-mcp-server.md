@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-01T20:01:28Z"
+forks: 2
+pushed_at: "2026-09-29T20:31:17Z"
 ---
 ## What it is
 Enables AI agents to query cryptographically verified facts with zero-knowledge proofs, selective disclosure, and tamper-evident provenance.

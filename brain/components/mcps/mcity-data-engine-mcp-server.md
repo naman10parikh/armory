@@ -8,13 +8,13 @@ source_url: https://github.com/mcity/mcity_data_agent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-28T17:00:39Z"
+pushed_at: "2026-09-23T13:24:46Z"
 ---
 ## What it is
 Enables natural language interaction with complex computer vision workflows such as auto-labeling, class mapping, and embedding selection through an LLM-agnostic MCP orchestration layer.

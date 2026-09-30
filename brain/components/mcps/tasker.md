@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T13:40:59Z"
+pushed_at: "2026-09-04T09:25:29Z"
 ---
 ## What it is
 Enables AI agents to manage hierarchical tasks and stories stored as Markdown files, providing tools for creating, listing, editing, and updating task status through the Model Context Protocol.

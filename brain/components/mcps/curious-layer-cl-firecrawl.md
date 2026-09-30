@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-27T14:01:18Z"
+pushed_at: "2026-09-18T19:04:49Z"
 ---
 ## What it is
 MCP server `CL Firecrawl`, catalogued on PulseMCP. Exposes Firecrawl web scraping and crawling capabilities via MCP with approximately 9 tools.

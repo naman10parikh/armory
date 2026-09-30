@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T20:35:31Z"
+pushed_at: "2026-09-04T20:02:25Z"
 ---
 ## What it is
 An attribution-first MCP server that provides tools to search and cite news and research metadata from free APIs and news platforms, without storing or republishing content.
