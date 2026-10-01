@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T14:06:50Z"
+pushed_at: "2026-09-30T00:44:37Z"
 ---
 ## What it is
 Enables Claude Code to directly operate 嘉立创EDA Professional for reading PCB/schematic designs, moving components, routing tracks, placing vias, pouring copper, running DRC, and managing silkscreens via natural language.

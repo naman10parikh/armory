@@ -8,11 +8,11 @@ source_url: https://github.com/huweihua123/stock-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 173
+stars: 177
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 45
+forks: 47
 pushed_at: "2026-03-25T16:33:22Z"
 ---
 ## What it is

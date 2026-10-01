@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T18:01:59Z"
+pushed_at: "2026-09-11T13:25:15Z"
 ---
 ## What it is
 A lightweight RAG server deployed on Azure Container Apps that ingests PDFs, creates embeddings, and exposes a search_documents tool over MCP for retrieving relevant document chunks.

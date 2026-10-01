@@ -8,13 +8,13 @@ source_url: https://github.com/draugr-dev/draugr
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-02T03:32:06Z"
+pushed_at: "2026-10-01T14:12:53Z"
 ---
 ## What it is
 Security scanning for AI agents: SAST, SCA, secrets, IaC, DAST, ranked by real risk.

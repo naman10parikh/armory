@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-15T21:32:46Z"
+pushed_at: "2026-09-16T13:18:08Z"
 ---
 ## What it is
 MCP server for the SheetsFinance formula catalog, enabling search and construction of financial formulas for Google Sheets.

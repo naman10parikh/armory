@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T00:07:31Z"
+pushed_at: "2026-09-06T13:47:22Z"
 ---
 ## What it is
 Enables Claude Code to access a team's handbook (markdown repository) through listing, reading, and searching documents, helping standardize processes and troubleshooting.

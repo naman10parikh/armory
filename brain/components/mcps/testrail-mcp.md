@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-18T17:24:36Z"
+pushed_at: "2026-09-03T10:17:29Z"
 ---
 ## What it is
 An MCP server for TestRail that prepares everything needed to generate test cases from Jira tickets, Confluence pages, or free-form specs and pushes them back to TestRail.

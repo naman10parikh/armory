@@ -8,13 +8,13 @@ source_url: https://github.com/fumiyoshi-shoji/fugaku-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-24T09:15:57Z"
+pushed_at: "2026-09-25T03:39:07Z"
 ---
 ## What it is
 MCP server for the Fugaku supercomputer that enables natural language job submission, monitoring, file transfer, and command execution via AI agents like Claude Code.

@@ -8,11 +8,11 @@ source_url: https://github.com/tevonsb/homeassistant-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 575
+stars: 576
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 54
+forks: 57
 pushed_at: "2026-01-25T20:52:22Z"
 ---
 ## What it is

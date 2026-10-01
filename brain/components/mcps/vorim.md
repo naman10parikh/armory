@@ -3,8 +3,8 @@ name: vorim
 type: mcps
 description: >
   Identity and trust layer for autonomous AI agents — cryptographic identity, permission management, audit trails, and behavioral trust scoring.
-source_repo: kzino/vorim-mcp-server
-source_url: https://github.com/kzino/vorim-mcp-server
+source_repo: Vorim-AI-Labs/vorim-mcp-server
+source_url: https://github.com/Vorim-AI-Labs/vorim-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta

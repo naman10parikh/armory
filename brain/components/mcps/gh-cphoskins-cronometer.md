@@ -8,11 +8,11 @@ source_url: https://github.com/cphoskins/cronometer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 14
 pushed_at: "2026-08-20T01:49:01Z"
 ---
 ## What it is

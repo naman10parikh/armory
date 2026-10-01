@@ -8,12 +8,12 @@ source_url: https://github.com/acunningham-ship-it/veilbrowser
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 41
+stars: 43
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-08-31T21:47:51Z"
 ---
 ## What it is

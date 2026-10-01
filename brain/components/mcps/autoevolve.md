@@ -8,13 +8,13 @@ source_url: https://github.com/RightNow-AI/autoevolve
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T22:51:38Z"
+pushed_at: "2026-09-18T00:01:21Z"
 ---
 ## What it is
 MCP server for agent-native evolutionary optimization. Enables agents to join runs, submit gate-checked mutations, and collaborate on evolving code toward a stated goal.

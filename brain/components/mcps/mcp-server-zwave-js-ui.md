@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T07:27:30Z"
+pushed_at: "2026-09-18T18:25:30Z"
 ---
 ## What it is
 An MCP server that connects to Z-Wave JS UI's WebSocket to expose controller, node, and configuration information as tools for AI assistants to manage Z-Wave networks.

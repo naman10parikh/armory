@@ -8,12 +8,12 @@ source_url: https://github.com/Youxuuuuu/co-reading-kit
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 63
+stars: 75
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 6
 pushed_at: "2026-06-14T00:23:11Z"
 ---
 ## What it is

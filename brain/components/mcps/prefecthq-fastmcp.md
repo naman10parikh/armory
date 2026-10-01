@@ -8,14 +8,14 @@ source_url: https://github.com/PrefectHQ/fastmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 27483
+stars: 27948
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, mcp]
-forks: 2288
-pushed_at: "2026-09-02T07:17:34Z"
+forks: 2415
+pushed_at: "2026-10-01T13:15:49Z"
 ---
 ## What it is
 🚀 The fast, Pythonic way to build MCP servers and clients.

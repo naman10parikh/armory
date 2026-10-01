@@ -8,13 +8,13 @@ source_url: https://github.com/zai-one/codex-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-06T14:58:28Z"
+forks: 1
+pushed_at: "2026-09-26T19:59:27Z"
 ---
 ## What it is
 Production-oriented MCP gateway for managing Codex through a persistent codex app-server process, supporting threads, autonomous goals, approvals, and HTTP/stdio transports.

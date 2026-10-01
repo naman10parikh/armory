@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T17:37:52Z"
+pushed_at: "2026-09-30T16:07:15Z"
 ---
 ## What it is
 Enables AI agents to analyze synthetic biomarker panels via Phi Longevity's PRISM clinical recommendation engine, providing tiered, guideline-cited recommendations. Also offers tools to list supported biomarkers and retrieve methodology.

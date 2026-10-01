@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:46:40Z"
+pushed_at: "2026-09-25T22:20:09Z"
 ---
 ## What it is
 MCP server `Cat as a Service`, catalogued on PulseMCP. Cat images and content from the CATAAS (Cat as a Service) API, free with no authentication.

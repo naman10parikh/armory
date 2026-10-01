@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T09:32:24Z"
+pushed_at: "2026-09-30T11:30:46Z"
 ---
 ## What it is
 Enables interaction with Kling AI models for video generation and avatar tasks via RunAPI, including task creation, status polling, and pricing checks.

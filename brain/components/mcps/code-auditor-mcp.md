@@ -8,13 +8,13 @@ source_url: https://github.com/BenAHammond/code-auditor-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-31T23:30:11Z"
+forks: 2
+pushed_at: "2026-09-29T19:59:49Z"
 ---
 ## What it is
 Enables AI assistants to search, analyze, and understand multi-language codebases by providing indexed code intelligence via MCP.

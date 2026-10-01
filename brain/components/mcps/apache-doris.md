@@ -8,12 +8,12 @@ source_url: https://github.com/apache/doris-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 344
+stars: 348
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 97
-pushed_at: "2026-09-01T21:47:24Z"
+forks: 102
+pushed_at: "2026-09-19T02:30:10Z"
 ---
 ## What it is
 MCP server `Apache Doris`, catalogued on PulseMCP. Enables direct SQL query execution and metadata retrieval from Apache Doris databases without switching contexts.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T16:40:53Z"
+pushed_at: "2026-09-25T13:20:55Z"
 ---
 ## What it is
 MCP server providing seven tools for parsing, grammar validation, error explanation, fixture testing, plugin inspection, and grammar compatibility comparison, with byte-identical CLI and MCP outputs.

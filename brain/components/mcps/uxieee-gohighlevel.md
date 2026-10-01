@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-29T04:16:06Z"
+pushed_at: "2026-09-28T11:09:42Z"
 ---
 ## What it is
 MCP server `GoHighLevel`, catalogued on PulseMCP. Exposes all 413 GoHighLevel CRM API endpoints for contacts, pipelines, conversations, and marketing automation.

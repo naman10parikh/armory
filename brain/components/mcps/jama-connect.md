@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T09:45:25Z"
+pushed_at: "2026-09-18T10:19:58Z"
 ---
 ## What it is
 MCP server for Jama Connect that enables AI assistants to interact with Jama requirements and test management through MCP tools, a REST API, and a built-in viewer.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T20:51:19Z"
+pushed_at: "2026-09-26T17:09:27Z"
 ---
 ## What it is
 A read-only MCP server for Pinkbee that lets an AI assistant answer questions about rosters, shifts, and groups without making any changes.

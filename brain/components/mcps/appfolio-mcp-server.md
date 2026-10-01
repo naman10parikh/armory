@@ -8,13 +8,13 @@ source_url: https://github.com/CryptoCultCurt/appfolio-mcp-server
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-01-12T19:29:59Z"
+forks: 6
+pushed_at: "2026-09-13T17:33:49Z"
 ---
 ## What it is
 Enables interaction with Appfolio Property Manager through the Reporting API, allowing property management tasks and data retrieval via natural language commands.

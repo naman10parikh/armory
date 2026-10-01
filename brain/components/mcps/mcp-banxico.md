@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:43:14Z"
+pushed_at: "2026-09-25T22:03:42Z"
 ---
 ## What it is
 Enables querying economic data from Banco de México (Mexico's central bank) via the SIE API.

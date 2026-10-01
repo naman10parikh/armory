@@ -8,11 +8,11 @@ source_url: https://github.com/bivex/kanboard-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 14
 pushed_at: "2026-06-12T13:39:28Z"
 ---
 ## What it is

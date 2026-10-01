@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T16:49:12Z"
+pushed_at: "2026-09-26T16:53:50Z"
 ---
 ## What it is
 An MCP server providing access to Swiss direct democracy data, covering all federal popular votes since 1848 and elections since 1900.

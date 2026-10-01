@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T17:43:17Z"
+pushed_at: "2026-09-28T18:34:58Z"
 ---
 ## What it is
 Enables natural-language search, booking, and management of simulated flights using a local SQLite database through Claude Desktop.

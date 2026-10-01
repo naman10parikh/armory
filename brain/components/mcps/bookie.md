@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T09:29:36Z"
+pushed_at: "2026-09-28T10:22:10Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that keeps the books for your personal and business finances using double-entry accounting — driven entirely from an LLM.

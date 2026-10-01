@@ -8,13 +8,13 @@ source_url: https://github.com/gannonh/memento-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 424
+stars: 425
 eval_score: null
 mentions: 0
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, mcp]
-forks: 63
+forks: 65
 pushed_at: "2025-10-27T15:04:50Z"
 ---
 ## What it is

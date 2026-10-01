@@ -8,13 +8,13 @@ source_url: https://github.com/theodor90/form4api-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T13:30:53Z"
+pushed_at: "2026-09-25T19:54:12Z"
 ---
 ## What it is
 Real-time SEC Form 4 insider trading data — transactions with post-trade returns, cluster-buy signals, Form 144 early warnings, and 13F institutional holdings. 27 tools + 6 research prompts; free tier available.

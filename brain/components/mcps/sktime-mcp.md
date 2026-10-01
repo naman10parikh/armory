@@ -8,13 +8,13 @@ source_url: https://github.com/sktime/sktime-mcp
 license: BSD 3-Clause
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 27
+stars: 31
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 110
-pushed_at: "2026-08-08T22:23:10Z"
+forks: 112
+pushed_at: "2026-09-27T20:05:04Z"
 ---
 ## What it is
 An MCP server that enables LLMs to discover, reason about, compose, and execute sktime estimator workflows via a registry-driven semantic engine.

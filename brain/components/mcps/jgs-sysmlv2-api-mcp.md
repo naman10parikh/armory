@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-07-05T20:53:40Z"
+forks: 2
+pushed_at: "2026-09-27T12:06:28Z"
 ---
 ## What it is
 An MCP server that gives an AI agent read and write access to a live SysML v2 model through the vendor-neutral OMG SysML v2 REST API.

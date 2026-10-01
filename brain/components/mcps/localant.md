@@ -8,12 +8,12 @@ source_url: https://github.com/yuga-hashimoto/localant
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 4
 pushed_at: "2026-08-26T11:36:40Z"
 ---
 ## What it is

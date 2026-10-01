@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:27:15Z"
+pushed_at: "2026-09-26T20:07:51Z"
 ---
 ## What it is
 Provides IMDB-derived movie, TV, and episode data via OMDb API, allowing users to fetch full records by IMDB ID.

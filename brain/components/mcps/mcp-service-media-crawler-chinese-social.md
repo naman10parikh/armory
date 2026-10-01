@@ -8,7 +8,7 @@ source_url: https://github.com/mcp-service/media-crawler-mcp-service
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 77
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

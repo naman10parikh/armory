@@ -8,11 +8,11 @@ source_url: https://github.com/pinkpixel-dev/mindbridge-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 8
 pushed_at: "2026-03-13T12:28:04Z"
 ---
 ## What it is

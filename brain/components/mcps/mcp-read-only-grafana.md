@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-03T21:13:45Z"
+pushed_at: "2026-09-25T18:34:18Z"
 ---
 ## What it is
 A secure MCP server for Grafana that provides read-only access by default, with a separate write-capable command for mutations.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T20:43:35Z"
+pushed_at: "2026-09-19T22:42:58Z"
 ---
 ## What it is
 Enables AI agents to query Gyeongbuk public data such as hospitals, bus stops, traditional markets, population demographics, and regional safety grades through FastMCP.

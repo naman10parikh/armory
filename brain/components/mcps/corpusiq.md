@@ -8,13 +8,13 @@ source_url: https://github.com/CorpusIQ/corpusiq-docs
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-09-02T03:13:57Z"
+forks: 8
+pushed_at: "2026-10-01T14:01:45Z"
 ---
 ## What it is
 Cross-source attribution across 37+ business tools. True ROAS in 14 seconds. Not a dashboard. A decision.

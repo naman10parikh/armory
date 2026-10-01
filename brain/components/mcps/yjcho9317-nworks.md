@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
-stars: 24
-forks: 5
-pushed_at: "2026-08-22T18:15:13Z"
+stars: 25
+forks: 6
+pushed_at: "2026-09-19T13:33:37Z"
 ---
 ## What it is
 NAVER WORKS CLI + MCP server. 26 tools for messages, calendar, drive, mail, tasks, and boards. AI agents can manage NAVER WORKS directly.

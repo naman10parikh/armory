@@ -8,13 +8,13 @@ source_url: https://github.com/NetApp/gcnv-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-08-25T08:49:21Z"
+pushed_at: "2026-10-01T08:59:18Z"
 ---
 ## What it is
 Enables AI assistants to manage Google Cloud NetApp Volumes resources including storage pools, volumes, snapshots, backups, and more through natural language.

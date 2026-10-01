@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T21:53:16Z"
+pushed_at: "2026-09-22T12:21:53Z"
 ---
 ## What it is
 A self-hostable MCP server that routes prompts to multiple LLM providers using declarative policies, with multi-role orchestration for independence and verification.

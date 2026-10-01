@@ -8,11 +8,11 @@ source_url: https://github.com/pab1it0/adx-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 23
+forks: 24
 pushed_at: "2026-03-25T20:37:34Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T18:58:08Z"
+pushed_at: "2026-09-07T02:58:00Z"
 ---
 ## What it is
 Enables remote control of audio playback and system volume on a Raspberry Pi via the Model Context Protocol (MCP).

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-05-23T23:06:21Z"
+pushed_at: "2026-09-05T15:19:24Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for Joplin note-taking app, enabling AI to read, search, and modify notes via sandboxed scripts.

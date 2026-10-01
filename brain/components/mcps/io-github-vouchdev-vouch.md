@@ -8,12 +8,12 @@ source_url: https://github.com/vouchdev/vouch
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 91
+stars: 82
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 62
+forks: 58
 pushed_at: "2026-08-23T03:53:32Z"
 ---
 ## What it is

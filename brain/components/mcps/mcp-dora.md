@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-09T07:42:31Z"
+pushed_at: "2026-09-25T09:12:53Z"
 ---
 ## What it is
 DORA compliance scanner MCP server that scans projects for regulatory gaps, classifies entities, generates reports, and optionally produces ICT registers and incident templates with cryptographic certification.

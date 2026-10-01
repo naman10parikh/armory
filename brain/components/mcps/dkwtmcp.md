@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T12:43:35Z"
+pushed_at: "2026-09-06T11:56:09Z"
 ---
 ## What it is
 Local MCP server that connects Claude Desktop with Garmin and Apple Health data to read training and recovery, estimate heart rate and pace zones, analyze performance, and create structured workouts.

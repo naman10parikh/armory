@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 3
 forks: 2
-pushed_at: "2026-08-03T16:42:05Z"
+pushed_at: "2026-09-27T08:06:24Z"
 ---
 ## What it is
 Project-scoped semantic workspace memory for AI coding assistants. Watches your project files, auto-indexes code and docs into Qdrant with tree-sitter semantic chunking, LSP integration, and hybrid search (dense + sparse + RRF). 6 MCP tools: store, search, retrieve, grep, list, rules. **Alpha** — testers and feedback welcome.

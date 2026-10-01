@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:32:58Z"
+pushed_at: "2026-09-02T19:55:34Z"
 ---
 ## What it is
 Enables AI agents to convert CSV text into JSON arrays with automatic delimiter detection and optional header-row handling, accessed through a pay-per-call x402 micropayment API.

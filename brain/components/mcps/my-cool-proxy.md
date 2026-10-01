@@ -8,12 +8,12 @@ source_url: https://github.com/karashiiro/my-cool-proxy
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-04-30T01:15:17Z"
 ---
 ## What it is

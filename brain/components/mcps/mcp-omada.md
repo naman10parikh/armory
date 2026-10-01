@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-13T11:57:49Z"
+pushed_at: "2026-09-11T01:15:19Z"
 ---
 ## What it is
 Read-only MCP server for TP-Link Omada SDN controllers, enabling querying controller, site, device, and WiFi state.

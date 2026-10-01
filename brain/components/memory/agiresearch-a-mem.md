@@ -8,13 +8,13 @@ source_url: https://github.com/agiresearch/A-mem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1164
+stars: 1188
 eval_score: null
 mentions: 0
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, memory]
-forks: 121
+forks: 122
 pushed_at: "2025-12-12T21:15:29Z"
 ---
 ## What it is

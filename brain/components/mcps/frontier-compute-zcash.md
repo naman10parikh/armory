@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-23T09:53:54Z"
+pushed_at: "2026-09-03T20:40:31Z"
 ---
 ## What it is
 MCP server `Zcash`, catalogued on PulseMCP. Zcash shielded operations for AI agents — memo decoding, attestation, and proof verification.

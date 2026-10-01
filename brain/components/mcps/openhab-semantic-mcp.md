@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-13T18:44:35Z"
+pushed_at: "2026-09-05T15:40:27Z"
 ---
 ## What it is
 Enables semantic control and monitoring of openHAB smart home items through natural language, supporting commands, queries, and time-based monitoring tasks.

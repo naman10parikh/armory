@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:50Z"
+pushed_at: "2026-09-02T19:57:01Z"
 ---
 ## What it is
 Detect PII in text: emails, phones, SSNs, credit cards, IPs, addresses. Pay-per-call via x402 micropayments without API keys or signup.

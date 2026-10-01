@@ -8,12 +8,12 @@ source_url: https://github.com/mhiqrambg/mcp-media-9router
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-07-29T07:33:19Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:05Z"
+pushed_at: "2026-09-02T19:55:50Z"
 ---
 ## What it is
 Enables sending transactional emails with text or HTML body, delivery status, and message ID via Resend. Pay-per-call using x402 micropayments (USDC on Base L2), no API key or signup required.

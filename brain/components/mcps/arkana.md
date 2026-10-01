@@ -8,13 +8,13 @@ source_url: https://github.com/JameZUK/Arkana
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 211
+stars: 239
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 18
-pushed_at: "2026-08-24T09:25:02Z"
+forks: 19
+pushed_at: "2026-09-12T13:31:15Z"
 ---
 ## What it is
 An MCP server that provides 294 malware analysis tools behind an AI-driven interface, enabling natural language investigation of binaries.

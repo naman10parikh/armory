@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T15:10:19Z"
+pushed_at: "2026-09-30T19:52:20Z"
 ---
 ## What it is
 Enables searching across UMass Lowell domain for people, website content, places, news, and parsing URLs into markdown.

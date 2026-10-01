@@ -8,12 +8,12 @@ source_url: https://github.com/chopmob-cloud/algovoi-platform-adapters
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-08-26T05:06:59Z"
+forks: 1
+pushed_at: "2026-09-20T21:18:20Z"
 ---
 ## What it is
 MCP server `AlgoVoi`, catalogued on PulseMCP. MCP server for AlgoVoi stablecoin payment infrastructure, enabling crypto payment links, on-chain verification, and MPP/x402 protocol support.

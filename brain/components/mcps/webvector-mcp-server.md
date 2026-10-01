@@ -8,13 +8,13 @@ source_url: https://github.com/rthomas24/web-vector
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T03:10:26Z"
+pushed_at: "2026-09-14T14:29:00Z"
 ---
 ## What it is
 Enables AI agents to perform web research in one tool call by searching, fetching and cleaning full pages, and ranking cited passages. Provides web_research, web_fetch, web_search, and status tools for MCP clients.

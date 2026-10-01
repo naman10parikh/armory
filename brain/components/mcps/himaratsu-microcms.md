@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-08-24T08:01:36Z"
+pushed_at: "2026-09-15T00:51:16Z"
 ---
 ## What it is
 MCP server `microCMS`, catalogued on PulseMCP. Integrates with microCMS headless CMS to enable complete content and media management through CRUD operations, draft previews, field filtering, and file uploads for automated publishing workflows.

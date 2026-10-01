@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T23:55:19Z"
+pushed_at: "2026-10-01T06:53:30Z"
 ---
 ## What it is
 An MCP server that exposes macOS-native device trust signals — the facts about a Mac that cannot be gathered from a Linux container or a cloud runner. All tools are strictly read-only.

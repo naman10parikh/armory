@@ -8,13 +8,13 @@ source_url: https://github.com/ironlam/poligraph-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T09:34:30Z"
+pushed_at: "2026-09-08T13:22:08Z"
 ---
 ## What it is
 Exposes French political data from Poligraph as MCP tools, allowing journalists and citizens to query politicians, votes, fact-checks, elections, and more via natural language.

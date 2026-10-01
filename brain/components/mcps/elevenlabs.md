@@ -8,12 +8,12 @@ source_url: https://github.com/elevenlabs/elevenlabs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1534
+stars: 1536
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 251
+forks: 256
 pushed_at: "2026-08-20T17:12:11Z"
 ---
 ## What it is

@@ -8,11 +8,11 @@ source_url: https://github.com/ozmnf4/ninjatrader-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 16
 pushed_at: "2026-04-05T21:01:08Z"
 ---
 ## What it is

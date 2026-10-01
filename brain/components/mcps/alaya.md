@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-05T23:30:43Z"
+pushed_at: "2026-09-06T22:20:21Z"
 ---
 ## What it is
 Enables Claude Code to serve as the primary interface for a personal knowledge vault (zk or Obsidian), allowing full read, write, search, and synthesis operations on notes.

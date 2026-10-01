@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-08-31T10:35:12Z"
+forks: 4
+pushed_at: "2026-09-28T10:36:36Z"
 ---
 ## What it is
 MCP server for ThreatLocker — zero-trust application allowlisting, approval requests, audit logs

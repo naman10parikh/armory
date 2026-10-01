@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-08-12T01:26:21Z"
+pushed_at: "2026-09-29T05:51:59Z"
 ---
 ## What it is
 MCP server `Playwright CDP`, catalogued on PulseMCP. Integrates Playwright and Chrome DevTools Protocol to enable advanced web automation, testing, and analysis through browser control and interaction.

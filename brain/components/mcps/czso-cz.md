@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:52:22Z"
+pushed_at: "2026-09-28T22:29:17Z"
 ---
 ## What it is
 Enables querying Czech Statistical Office open data through MCP tools and natural language questions.

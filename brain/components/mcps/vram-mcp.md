@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-07-29T18:25:32Z"
+forks: 1
+pushed_at: "2026-09-19T21:57:49Z"
 ---
 ## What it is
 Enables AI agents to inspect and free NVIDIA GPU VRAM by managing Ollama models, helping make room for loading new models.

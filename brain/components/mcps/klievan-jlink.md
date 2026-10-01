@@ -8,12 +8,12 @@ source_url: https://github.com/klievan/jlink-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-08-28T13:45:48Z"
+forks: 5
+pushed_at: "2026-09-15T14:49:29Z"
 ---
 ## What it is
 MCP server `J-Link`, catalogued on PulseMCP. Debug embedded devices through SEGGER J-Link probes with tools for memory operations, flash management, breakpoints, RTT logging, and GDB server control.

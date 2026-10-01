@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T14:26:22Z"
+pushed_at: "2026-09-02T23:38:47Z"
 ---
 ## What it is
 Exposes Dynamics 365 Business Central data to MCP clients via standard v2.0 API or custom AL APIs, supporting read, write, and destructive operations with multiple authentication modes.

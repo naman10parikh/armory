@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-16T08:47:46Z"
+pushed_at: "2026-09-30T16:58:02Z"
 ---
 ## What it is
 MCP server `Fast HTML`, catalogued on PulseMCP. Generate HTML from AI agents with 15 tools, 22 components, and 25 templates for rapid web output.

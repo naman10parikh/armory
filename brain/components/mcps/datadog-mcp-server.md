@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-01T22:58:47Z"
+forks: 2
+pushed_at: "2026-09-18T22:59:16Z"
 ---
 ## What it is
 A comprehensive read-only MCP server for Datadog, providing 117 tools to query logs, APM, metrics, monitors, dashboards, SLOs, and more, with zero write capabilities for safe AI integration.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:34:44Z"
+pushed_at: "2026-09-25T21:27:03Z"
 ---
 ## What it is
 Enables searching and querying City of Coquitlam, BC open geospatial data via ArcGIS feature services, including parcels, zoning, parks, and city services.

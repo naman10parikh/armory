@@ -8,13 +8,13 @@ source_url: https://github.com/juliusgerman/entyrix-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T13:28:21Z"
+pushed_at: "2026-10-01T13:30:54Z"
 ---
 ## What it is
 MCP server for the Entyrix European business-registry (KYB) API, exposing 10 stdio tools for searching, looking up, and analyzing companies across multiple jurisdictions. Enables LLM clients to perform company registry searches, financial lookups, compliance checks, and more.

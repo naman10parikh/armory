@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T22:55:35Z"
+pushed_at: "2026-09-13T15:28:33Z"
 ---
 ## What it is
 Crawls and grades MCP servers deterministically, providing a registry, leaderboard, and API to query server grades and submit feedback.

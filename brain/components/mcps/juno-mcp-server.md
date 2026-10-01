@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T12:19:25Z"
+pushed_at: "2026-09-08T22:40:22Z"
 ---
 ## What it is
 Enables AI-powered security investigation and threat analysis by connecting MCP-compatible clients to Uptycs Juno.

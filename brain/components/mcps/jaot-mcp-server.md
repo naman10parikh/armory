@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T19:25:32Z"
+pushed_at: "2026-09-25T13:25:44Z"
 ---
 ## What it is
 Exposes optimization solver tools to AI agents via the Model Context Protocol, enabling natural language problem solving.

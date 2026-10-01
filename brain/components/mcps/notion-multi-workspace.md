@@ -8,13 +8,13 @@ source_url: https://github.com/psh4607/notion-multi-workspace
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T04:47:00Z"
+pushed_at: "2026-09-11T05:38:28Z"
 ---
 ## What it is
 Connects any number of Notion workspaces through a single MCP server, exposing four tools for connecting, listing, searching, and fetching Notion content. Ensures constant tool surface regardless of workspace count, with OAuth-based security.

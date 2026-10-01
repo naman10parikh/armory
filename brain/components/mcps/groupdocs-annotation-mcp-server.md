@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-25T21:20:09Z"
+pushed_at: "2026-09-04T17:21:15Z"
 ---
 ## What it is
 MCP server that exposes GroupDocs.Annotation as AI-callable tools for Claude, Cursor, GitHub Copilot, and other MCP agents.

@@ -8,12 +8,12 @@ source_url: https://github.com/tkmawarire/sql-sentinel
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-03-10T08:34:53Z"
+pushed_at: "2026-09-30T09:01:33Z"
 ---
 ## What it is
 MCP server `SQL Sentinel`, catalogued on PulseMCP. Database monitoring and SQL query analysis with performance insights and anomaly detection.

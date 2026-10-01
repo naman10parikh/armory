@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T18:31:09Z"
+pushed_at: "2026-09-29T16:06:02Z"
 ---
 ## What it is
 Read-only MCP server exposing a filtered copy of your personal context record as one SQL surface, so assistants can query your data without the vendor owning it.

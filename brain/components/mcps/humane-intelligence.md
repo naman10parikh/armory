@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T15:30:03Z"
+pushed_at: "2026-09-23T23:56:14Z"
 ---
 ## What it is
 humane INTELLIGENCE IS A MEMORY AND GOVERNANCE mcp THAT KEEPS YOUR AI ACCOUNTABLE.

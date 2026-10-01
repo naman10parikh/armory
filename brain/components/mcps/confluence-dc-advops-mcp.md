@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T15:16:23Z"
+pushed_at: "2026-09-25T13:31:06Z"
 ---
 ## What it is
 MCP server providing advanced operations for Confluence Data Center, including page moving, storage file management, and space template syncing.

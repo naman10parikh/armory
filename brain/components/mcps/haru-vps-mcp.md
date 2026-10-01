@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-30T12:44:14Z"
+pushed_at: "2026-09-08T16:53:34Z"
 ---
 ## What it is
 A self-hosted MCP gateway that provides filesystem and shell capabilities for an isolated VPS workspace, with strict loopback security and optional authenticated remote access.

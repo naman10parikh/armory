@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-12T14:42:11Z"
+pushed_at: "2026-09-08T22:57:43Z"
 ---
 ## What it is
 Enables AI photo generation, editing, and video creation from MCP-compatible clients like Claude Desktop, Cursor, and Windsurf.

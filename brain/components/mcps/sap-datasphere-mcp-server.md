@@ -8,13 +8,13 @@ source_url: https://github.com/MarioDeFelipe/sap-datasphere-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 44
+stars: 48
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
-pushed_at: "2026-08-24T04:47:35Z"
+forks: 15
+pushed_at: "2026-09-21T04:34:37Z"
 ---
 ## What it is
 Production-ready MCP server that enables AI assistants to seamlessly interact with SAP Datasphere environments for real tenant data discovery, metadata exploration, analytics operations, ETL data extraction, database user management, data lineage analysis, and column-level data profiling.

@@ -8,11 +8,11 @@ source_url: https://github.com/rjhalvorson/skylight-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 10
 pushed_at: "2026-04-20T00:53:34Z"
 ---
 ## What it is

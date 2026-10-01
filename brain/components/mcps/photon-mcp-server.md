@@ -8,13 +8,13 @@ source_url: https://github.com/portel-dev/photon
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 98
+stars: 100
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-08-12T13:40:39Z"
+pushed_at: "2026-09-14T01:21:35Z"
 ---
 ## What it is
 Automatically generates MCP tools, CLI, and web UI from TypeScript methods, enabling AI agents and chat clients to interact with custom capabilities defined once.

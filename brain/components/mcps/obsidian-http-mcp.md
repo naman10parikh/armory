@@ -8,12 +8,12 @@ source_url: https://github.com/NasAndNora/obsidian-http-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 5
 pushed_at: "2025-11-19T23:40:59Z"
 ---
 ## What it is

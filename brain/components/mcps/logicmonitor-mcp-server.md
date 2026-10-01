@@ -8,12 +8,12 @@ source_url: https://github.com/monitoringartist/logicmonitor-mcp-server
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
+forks: 8
 pushed_at: "2026-06-10T20:31:22Z"
 ---
 ## What it is

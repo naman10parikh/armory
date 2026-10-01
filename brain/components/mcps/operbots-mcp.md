@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T18:29:31Z"
+pushed_at: "2026-09-30T17:37:35Z"
 ---
 ## What it is
 MCP server for the operbots panel, enabling AI assistants to manage tasks, Telegram bots, flow scenarios, conversations, knowledge base, and AI connections with the user's permissions.

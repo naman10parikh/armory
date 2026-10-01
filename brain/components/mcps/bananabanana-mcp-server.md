@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T06:19:56Z"
+pushed_at: "2026-09-30T09:01:53Z"
 ---
 ## What it is
 Generates images, videos, and speech via Google Nano Banana, Veo, Omni, and Gemini TTS models with pay-as-you-go crypto payments, no subscription required.

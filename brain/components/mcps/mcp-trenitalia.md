@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-18T09:25:02Z"
+pushed_at: "2026-09-27T13:50:28Z"
 ---
 ## What it is
 An MCP server for real-time Italian railway data, enabling natural language queries about train schedules, delays, departures, arrivals, and live tracking via the Viaggiatreno API.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T23:11:48Z"
+pushed_at: "2026-09-24T02:14:34Z"
 ---
 ## What it is
 Enables tracking worked hours by client, project, and task, with monthly/daily reports and natural language interaction through Claude.

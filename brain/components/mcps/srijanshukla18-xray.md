@@ -8,11 +8,11 @@ source_url: https://github.com/srijanshukla18/xray
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 10
 pushed_at: "2025-12-11T12:41:14Z"
 ---
 ## What it is

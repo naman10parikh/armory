@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T22:27:43Z"
+pushed_at: "2026-09-25T04:32:02Z"
 ---
 ## What it is
 Enables AI agents to manage software licenses on KeyPro.hu via natural language, including placing orders, canceling, checking balances, and retrieving license keys, invoices, and profile data.

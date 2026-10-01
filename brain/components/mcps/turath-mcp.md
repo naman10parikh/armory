@@ -8,12 +8,12 @@ source_url: https://github.com/opin22/turath-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 3
 pushed_at: "2026-07-10T08:03:20Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T18:05:06Z"
+pushed_at: "2026-10-01T11:40:01Z"
 ---
 ## What it is
 Integrates Diabetes:M data with Claude Desktop to access glucose readings, insulin data, food diary, and health metrics through natural language conversations.

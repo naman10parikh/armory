@@ -8,13 +8,13 @@ source_url: https://github.com/Edison-Watch/sealgate-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T22:05:45Z"
+pushed_at: "2026-09-05T13:37:25Z"
 ---
 ## What it is
 An MCP proxy that forwards tool calls to your organisation's Sealgate gateway, enabling AI agents to list governed MCP servers and review agent sessions/audit events for AI data-leak prevention.

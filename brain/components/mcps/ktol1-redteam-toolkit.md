@@ -8,11 +8,11 @@ source_url: https://github.com/ktol1/redteam-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 74
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 10
 pushed_at: "2026-04-24T02:38:36Z"
 ---
 ## What it is

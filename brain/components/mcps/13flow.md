@@ -8,13 +8,13 @@ source_url: https://github.com/bluetouff/13flow
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T11:13:29Z"
+pushed_at: "2026-09-16T12:36:00Z"
 ---
 ## What it is
 MCP server that reconstructs hedge-fund/superinvestor portfolios from SEC EDGAR 13F filings, offering tools to query fund holdings, consensus activity, and quarter-over-quarter changes through a read-only API.

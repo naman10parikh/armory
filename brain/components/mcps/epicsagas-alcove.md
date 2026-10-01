@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 15
 forks: 4
-pushed_at: "2026-08-19T03:49:02Z"
+pushed_at: "2026-09-20T16:02:09Z"
 ---
 ## What it is
 MCP server that gives AI coding agents on-demand access to private project docs via BM25 ranked search. One setup for Claude Code, Cursor, Codex, Gemini CLI, and more. Docs stay private, never in public repos.

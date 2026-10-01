@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-08-27T17:48:57Z"
+pushed_at: "2026-09-25T04:38:14Z"
 ---
 ## What it is
 MCP server `Dev Kit`, catalogued on PulseMCP. Transforms any codebase into a secure development environment with scoped file operations, Git repository management, Makefile execution, and code exploration tools while enforcing strict path validation to prevent unauthorized access outside the project directory.

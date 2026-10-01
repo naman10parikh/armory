@@ -8,13 +8,13 @@ source_url: https://github.com/hjqcan/GoodMemory
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-22T17:09:13Z"
+forks: 2
+pushed_at: "2026-10-01T14:10:47Z"
 ---
 ## What it is
 Local-first, auditable memory for Codex, Claude Code, and MCP clients. It stores scoped user/project memory in SQLite or Postgres, serves read-only recall and inspection tools by default, and supports opt-in governed writeback with review and forget controls.

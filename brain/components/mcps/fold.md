@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T06:29:04Z"
+pushed_at: "2026-09-21T03:26:04Z"
 ---
 ## What it is
 Enterprise MCP gateway that unifies multiple MCP servers behind one governed endpoint, providing federation, authentication, policy enforcement, caching, rate limiting, and audit.

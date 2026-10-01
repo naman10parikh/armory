@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T11:41:31Z"
+pushed_at: "2026-09-06T16:55:24Z"
 ---
 ## What it is
 Allows Claude Code agents to pull tasks from an EasyTopic Kanban board, automate planning, commenting, approval, implementation, and closing of topics.

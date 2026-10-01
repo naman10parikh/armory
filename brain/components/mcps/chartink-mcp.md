@@ -8,12 +8,12 @@ source_url: https://github.com/shahparthiv/chartink-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 3
 pushed_at: "2026-06-30T19:25:43Z"
 ---
 ## What it is

@@ -8,14 +8,14 @@ source_url: https://github.com/crewAIInc/crewAI
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 57982
+stars: 59258
 eval_score: null
 mentions: 21
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 8309
-pushed_at: "2026-09-02T05:45:29Z"
+forks: 8619
+pushed_at: "2026-10-01T06:37:44Z"
 ---
 ## What it is
 Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.

@@ -8,13 +8,13 @@ source_url: https://github.com/kotyzap/AXIS-MCP-Server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-12T14:48:21Z"
+pushed_at: "2026-09-07T21:52:57Z"
 ---
 ## What it is
 Runs a Model Context Protocol server directly on Axis cameras, enabling any MCP-capable AI to inspect and control the camera without cloud or middleware.

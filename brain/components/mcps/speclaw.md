@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T21:06:38Z"
+pushed_at: "2026-09-08T16:37:37Z"
 ---
 ## What it is
 Local MCP server that gives AI agents a project constitution (LAWS.md), a code graph (Compass), and a spec-driven workflow — all 100% local with no LLM or cloud.

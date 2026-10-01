@@ -8,12 +8,12 @@ source_url: https://github.com/r3-yamauchi/kintone-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-07-27T23:05:17Z"
+pushed_at: "2026-09-28T23:35:54Z"
 ---
 ## What it is
 MCP server `Kintone`, catalogued on PulseMCP. Integrates with Kintone's low-code platform API, enabling data retrieval, record creation, and workflow automation in Kintone applications.

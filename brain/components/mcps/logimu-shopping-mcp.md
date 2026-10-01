@@ -8,13 +8,13 @@ source_url: https://github.com/ncosic/logimu-shopping-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T20:04:04Z"
+pushed_at: "2026-09-29T16:52:12Z"
 ---
 ## What it is
 Real Amazon (US, UK, DE, CA, AU) & Walmart shopping data for AI assistants: ranked product shortlists, current prices, live stock, real ratings, and price/BSR history from a 17M+ product warehouse. Free hosted endpoint, no signup — 30 queries a day.

@@ -8,13 +8,13 @@ source_url: https://github.com/krshforever/bwb-browser
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-06T18:22:29Z"
+pushed_at: "2026-09-28T05:19:31Z"
 ---
 ## What it is
 A lightweight 30KB MCP browser automation server that uses raw Chrome DevTools Protocol to enable AI agents to browse the web, take screenshots, interact with elements, and capture live page events like console logs and network requests.

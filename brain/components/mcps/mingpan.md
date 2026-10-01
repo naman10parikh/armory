@@ -8,13 +8,13 @@ source_url: https://github.com/ChesterRa/mingpan
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 106
+stars: 116
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 39
-pushed_at: "2026-09-01T07:20:20Z"
+forks: 38
+pushed_at: "2026-09-29T16:03:29Z"
 ---
 ## What it is
 Provides traditional Chinese astrology (Bazi, Ziwei) and divination (Liuyao, Meihua, Qimen, etc.) calculations as MCP tools for AI assistants.

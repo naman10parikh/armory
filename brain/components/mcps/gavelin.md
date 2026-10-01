@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-15T22:26:48Z"
+pushed_at: "2026-09-27T04:37:08Z"
 ---
 ## What it is
 MCP server `Gavelin`, catalogued on PulseMCP. Search bills and speaker-attributed hearing transcripts across all 50 US state legislatures.

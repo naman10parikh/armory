@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-02-13T10:04:33Z"
+pushed_at: "2026-10-01T14:18:35Z"
 ---
 ## What it is
 Aggregates quick commerce platforms like Zepto, Swiggy Instamart, and BigBasket for searching, comparing prices, and ordering through a single MCP interface.

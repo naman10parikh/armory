@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T18:16:50Z"
+pushed_at: "2026-09-24T18:13:59Z"
 ---
 ## What it is
 A deterministic Mastermind-style cipher lock exposed as MCP tools for benchmarking LLM reasoning and tool-use through a legible duel.

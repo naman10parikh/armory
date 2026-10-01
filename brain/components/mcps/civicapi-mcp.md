@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T10:08:27Z"
+pushed_at: "2026-09-24T18:33:35Z"
 ---
 ## What it is
 MCP server for civicAPI that provides live and historical election results worldwide with tools for searching races, retrieving race details and history, and accessing election dates and API status.

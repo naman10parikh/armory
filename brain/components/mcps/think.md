@@ -8,11 +8,11 @@ source_url: https://github.com/rai220/think-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 106
+stars: 107
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 16
 pushed_at: "2026-03-07T07:21:01Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T16:41:56Z"
+pushed_at: "2026-10-01T05:56:52Z"
 ---
 ## What it is
 MCP server for managing Docker containers, images, networks, volumes, and Compose projects via Arcane, exposing a single 'arcane' tool for read/write operations over stdio or HTTP.

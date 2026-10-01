@@ -8,12 +8,12 @@ source_url: https://github.com/curzer1995-777/line-local-mcp-user-key
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-08-12T08:35:42Z"
 ---
 ## What it is

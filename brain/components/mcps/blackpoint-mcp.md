@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T00:56:27Z"
+pushed_at: "2026-09-28T23:16:40Z"
 ---
 ## What it is
 An MCP server for Blackpoint Cyber MDR platform, enabling management of security monitoring, threat detection, and incident response through Blackpoint's API.

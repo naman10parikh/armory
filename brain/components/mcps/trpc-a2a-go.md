@@ -8,13 +8,13 @@ source_url: https://github.com/trpc-group/trpc-a2a-go
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 242
+stars: 243
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, general-purpose-implementations]
 forks: 38
-pushed_at: "2026-08-13T11:20:30Z"
+pushed_at: "2026-09-03T08:31:42Z"
 ---
 ## What it is
 Go implementation for A2A (Agent2Agent) protocol

@@ -8,13 +8,13 @@ source_url: https://github.com/erekola/turva-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T11:33:34Z"
+pushed_at: "2026-10-01T13:45:08Z"
 ---
 ## What it is
 Public read-only MCP server for turva.dev's agent-readiness audit, enabling AI agents to query service catalog, security evidence, and engagement principles via structured JSON.

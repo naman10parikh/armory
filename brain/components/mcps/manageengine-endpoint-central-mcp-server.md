@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-26T12:26:31Z"
+pushed_at: "2026-09-15T10:40:27Z"
 ---
 ## What it is
 Exposes 106 ManageEngine Endpoint Central REST API endpoints as MCP tools for patch management, vulnerability management, inventory, and more, integrated with Gemini Enterprise via Zoho OAuth 2.0.

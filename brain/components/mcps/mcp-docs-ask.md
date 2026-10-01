@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T06:21:37Z"
+pushed_at: "2026-09-23T00:52:24Z"
 ---
 ## What it is
 Local RAG MCP server for documentation that indexes markdown repos (local paths or git URLs) and provides retrieval-only tools (ask_docs, list_docs, reindex) returning grounded passages and citations for the MCP host to synthesize answers.

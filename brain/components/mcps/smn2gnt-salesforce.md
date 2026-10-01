@@ -8,11 +8,11 @@ source_url: https://github.com/smn2gnt/mcp-salesforce
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 178
+stars: 177
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 54
+forks: 53
 pushed_at: "2026-07-29T02:36:58Z"
 ---
 ## What it is

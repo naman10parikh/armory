@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-29T14:15:05Z"
+pushed_at: "2026-09-05T15:56:54Z"
 ---
 ## What it is
 MCP server `Koko Finance`, catalogued on PulseMCP. AI-powered credit card advisor for searching, comparing, and optimizing rewards across 100+ US cards.

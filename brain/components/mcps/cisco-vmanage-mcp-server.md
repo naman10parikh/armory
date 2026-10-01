@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T23:07:34Z"
+pushed_at: "2026-09-24T02:10:08Z"
 ---
 ## What it is
 Enables AI clients to query SD-WAN fabric health, devices, tunnels, BFD sessions, OMP peers, alarms, policies, and configuration state via natural language, with deterministic correlation and diagnostics for incident assessment.

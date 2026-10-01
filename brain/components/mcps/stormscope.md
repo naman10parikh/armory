@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-15T21:53:51Z"
+pushed_at: "2026-09-20T22:56:52Z"
 ---
 ## What it is
 Provides real-time US weather data for AI assistants via MCP, including current conditions, forecasts, alerts, severe weather outlooks, radar, upper-air analysis, and surface analysis. Supports optional personal weather station integration.

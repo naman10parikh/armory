@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T12:49:56Z"
+pushed_at: "2026-09-17T13:22:48Z"
 ---
 ## What it is
 Enables AI assistants to manage tasks, projects, sections, labels, comments, and reminders in a self-hosted Conatus task manager via the Model Context Protocol.

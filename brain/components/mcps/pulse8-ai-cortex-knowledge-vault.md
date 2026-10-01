@@ -8,12 +8,12 @@ source_url: https://github.com/synpulse8-opensource/pulse8-ai-cortex-knowledge-v
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-07-27T16:19:10Z"
 ---
 ## What it is

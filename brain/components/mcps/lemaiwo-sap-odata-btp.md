@@ -8,11 +8,11 @@ source_url: https://github.com/lemaiwo/btp-sap-odata-to-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 130
+stars: 135
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 65
+forks: 66
 pushed_at: "2026-05-22T22:17:20Z"
 ---
 ## What it is

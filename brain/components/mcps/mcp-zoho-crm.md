@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:51:26Z"
+pushed_at: "2026-09-26T22:33:16Z"
 ---
 ## What it is
 Wraps the Zoho CRM API v6 to enable listing, retrieving, searching, and creating records in Zoho CRM modules.

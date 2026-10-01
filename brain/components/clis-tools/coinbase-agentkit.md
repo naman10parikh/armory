@@ -7,14 +7,14 @@ source_url: https://github.com/coinbase/agentkit
 license: unknown
 cli_compat: []
 maturity: stable
-stars: 1294
+stars: 1322
 eval_score: 1
 mentions: null
 verified_at: 
 related: []
 tags: [identity]
-forks: 799
-pushed_at: "2026-09-02T03:21:02Z"
+forks: 837
+pushed_at: "2026-09-03T17:58:06Z"
 ---
 
 # coinbase-agentkit

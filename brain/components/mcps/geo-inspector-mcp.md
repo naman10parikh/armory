@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-06T20:07:05Z"
+pushed_at: "2026-09-13T18:39:31Z"
 ---
 ## What it is
 Enables inspection of any website's AI-search readiness, checking AI crawler blocks, llms.txt, schema markup, and indexing directives from MCP clients like Claude.

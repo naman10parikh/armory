@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:23:44Z"
+pushed_at: "2026-09-26T19:49:56Z"
 ---
 ## What it is
 Enables querying metadata from MyVariant.info, a comprehensive variant annotation database, providing dataset statistics, source information, and build versions.

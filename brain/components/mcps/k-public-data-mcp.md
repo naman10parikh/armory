@@ -8,13 +8,13 @@ source_url: https://github.com/hjsh200219/korea-public-data-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-08-12T05:51:11Z"
+forks: 7
+pushed_at: "2026-09-27T23:35:53Z"
 ---
 ## What it is
 Integrates Korean public data sources including law, court cases, corporate disclosures, and public data portal, with comparative US and German case law support.

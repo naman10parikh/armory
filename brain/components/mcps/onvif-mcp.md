@@ -8,13 +8,13 @@ source_url: https://github.com/oneshot2001/onvif-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T14:11:16Z"
+pushed_at: "2026-09-30T20:02:01Z"
 ---
 ## What it is
 MCP server that lets AI agents interact with IP cameras via ONVIF/VAPIX, with fail-closed per-agent policy gates and hash-chained signed audit receipts.

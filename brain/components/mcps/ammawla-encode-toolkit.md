@@ -8,12 +8,12 @@ source_url: https://github.com/ammawla/encode-toolkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-07-26T01:22:15Z"
+pushed_at: "2026-09-27T01:22:42Z"
 ---
 ## What it is
 MCP server `ENCODE Toolkit`, catalogued on PulseMCP. Search ENCODE genomics data and cross-reference biomedical databases.

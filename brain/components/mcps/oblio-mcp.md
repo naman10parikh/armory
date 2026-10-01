@@ -8,13 +8,13 @@ source_url: https://github.com/valentinludu/oblio-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-22T20:53:29Z"
+forks: 3
+pushed_at: "2026-09-26T09:25:40Z"
 ---
 ## What it is
 Unofficial MCP server for Oblio.eu accounting software enabling natural language interaction to create invoices, manage documents, collect payments, query nomenclatures, and submit e-Factura to Romania's SPV system.

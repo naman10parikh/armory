@@ -8,12 +8,12 @@ source_url: https://github.com/htlin222/openevidence-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 77
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
-pushed_at: "2026-07-23T04:12:59Z"
+forks: 17
+pushed_at: "2026-09-14T16:51:02Z"
 ---
 ## What it is
 MCP server `OpenEvidence`, catalogued on PulseMCP. Queries the OpenEvidence medical evidence platform using browser cookie authentication.

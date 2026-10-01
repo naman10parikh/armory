@@ -8,13 +8,13 @@ source_url: https://github.com/Trivle/i18n-tools-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-05T18:23:46Z"
+pushed_at: "2026-09-16T07:28:57Z"
 ---
 ## What it is
 Enables AI agents to read and write JSON translation files (i18n, i18next, react-i18next) via the Model Context Protocol.

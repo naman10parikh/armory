@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-08-18T09:19:28Z"
+pushed_at: "2026-09-20T22:21:56Z"
 ---
 ## What it is
 MCP server `Criterion`, catalogued on PulseMCP. Provides semantic search across Quran verses and authentic Hadiths for Islamic guidance.

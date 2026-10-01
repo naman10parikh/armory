@@ -8,13 +8,13 @@ source_url: https://github.com/wyattpalm2-eng/x402-seller
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-02T02:48:14Z"
+pushed_at: "2026-10-01T13:42:43Z"
 ---
 ## What it is
 MCP server for autonomous agents to rug-check tokens, monitor liquidity drains, and get market briefs, with pay-per-call via x402.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-08-25T15:40:02Z"
+pushed_at: "2026-09-05T21:45:08Z"
 ---
 ## What it is
 Self-learning memory for AI tools. Remembers user preferences and context across Claude, Cursor, and Codex with multi-parameter forgetting and cross-tool identity.

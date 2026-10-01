@@ -8,13 +8,13 @@ source_url: https://github.com/caspercrause/dv360-ads-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2025-12-09T16:15:11Z"
+pushed_at: "2026-09-18T19:59:43Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Display & Video 360 that provides entity management and performance reporting capabilities.

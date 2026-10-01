@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-esp, omnara]
 tags: [claude-code, alternative-clients]
-stars: 204
+stars: 206
 forks: 27
 pushed_at: "2026-04-17T20:14:31Z"
 ---

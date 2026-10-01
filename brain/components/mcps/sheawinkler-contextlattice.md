@@ -8,12 +8,12 @@ source_url: https://github.com/sheawinkler/contextlattice
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 153
+stars: 152
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-08-26T23:28:27Z"
+pushed_at: "2026-09-10T22:15:20Z"
 ---
 ## What it is
 MCP server `ContextLattice`, catalogued on PulseMCP. Structured context management for LLMs with hierarchical organization and retrieval.

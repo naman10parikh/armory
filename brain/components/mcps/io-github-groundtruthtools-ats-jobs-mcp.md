@@ -8,13 +8,13 @@ source_url: https://github.com/groundtruthtools/ats-jobs-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T23:06:50Z"
+pushed_at: "2026-09-13T07:31:31Z"
 ---
 ## What it is
 Enables querying open job postings directly from company applicant-tracking systems (Greenhouse, Ashby, Lever), finding a company's job board, listing and comparing roles, and accessing salary data, all without scraping or API keys.

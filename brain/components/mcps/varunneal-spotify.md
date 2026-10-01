@@ -8,12 +8,12 @@ source_url: https://github.com/jamiew/spotify-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-07-30T18:11:09Z"
+pushed_at: "2026-09-20T18:51:06Z"
 ---
 ## What it is
 MCP server `Spotify`, catalogued on PulseMCP. Integrates with Spotify to enable music playback control, search, and queue management directly within conversations

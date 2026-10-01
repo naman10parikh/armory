@@ -8,12 +8,12 @@ source_url: https://github.com/thatcreativetayo/kromamcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 4
 pushed_at: "2026-08-17T03:21:15Z"
 ---
 ## What it is

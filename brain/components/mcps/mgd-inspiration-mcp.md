@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T04:15:44Z"
+pushed_at: "2026-09-07T17:29:22Z"
 ---
 ## What it is
 An MCP server that lets AI assistants search Made Good Designs' curated library of typography and brand-design inspiration — returning descriptions, tags, colour palettes (HEX), source attribution and image URLs. Endpoint: https://madegooddesigns.com/inspiration/mcp

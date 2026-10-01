@@ -8,13 +8,13 @@ source_url: https://github.com/0xfreak0/sui-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-10T03:30:43Z"
+forks: 2
+pushed_at: "2026-10-01T12:51:46Z"
 ---
 ## What it is
 Read-only MCP server for Sui blockchain analytics with 44 tools covering wallets, DeFi, NFTs, token prices, transactions, fund tracing, pools, staking, Move decompilation, and MVR name resolution.

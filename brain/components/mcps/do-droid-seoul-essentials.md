@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-04T15:23:44Z"
+pushed_at: "2026-09-27T15:40:28Z"
 ---
 ## What it is
 MCP server `Seoul Essentials`, catalogued on PulseMCP. 22,000+ Seoul public facility locations for tourists including restrooms, pharmacies, WiFi, AEDs, and subway stations.

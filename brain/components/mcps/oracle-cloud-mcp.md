@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-17T12:23:47Z"
+pushed_at: "2026-09-08T01:43:30Z"
 ---
 ## What it is
 MCP server for Oracle Cloud Infrastructure (OCI) that provides tools to manage Compute, Object Storage, Block Storage, Networking, Autonomous Database, and IAM via the official OCI SDK.

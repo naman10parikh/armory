@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T00:14:59Z"
+pushed_at: "2026-09-08T19:30:34Z"
 ---
 ## What it is
 Enables AI agents to cull photo shoots by evaluating sharpness, eye-openness, and aesthetics, and writing reversible XMP sidecars for Lightroom, with strict safety gates to prevent unauthorized writes.

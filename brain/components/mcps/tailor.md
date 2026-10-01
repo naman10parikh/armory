@@ -8,13 +8,13 @@ source_url: https://github.com/AmanKtyr/Tailor
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T17:10:50Z"
+pushed_at: "2026-09-06T18:12:07Z"
 ---
 ## What it is
 Unified AI coding-agent framework combining Spec-Driven Development (SDD), AST semantic code reuse, and progressive project memory (.ai/) for Claude Code, Cursor, Windsurf, and Zed.

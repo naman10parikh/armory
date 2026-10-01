@@ -8,11 +8,11 @@ source_url: https://github.com/block/xcode-index-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2026-01-07T02:48:58Z"
 ---
 ## What it is

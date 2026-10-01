@@ -8,11 +8,11 @@ source_url: https://github.com/formulahendry/mcp-server-spec-driven-development
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 437
+stars: 438
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 39
+forks: 41
 pushed_at: "2025-09-26T06:50:18Z"
 ---
 ## What it is

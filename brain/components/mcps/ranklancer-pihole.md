@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-01T07:31:01Z"
+pushed_at: "2026-09-29T08:15:14Z"
 ---
 ## What it is
 MCP server `Pi-hole`, catalogued on PulseMCP. Manage Pi-hole v6 instances — queries, blocklists, groups, and statistics.

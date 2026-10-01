@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
-stars: 133
-forks: 49
-pushed_at: "2026-08-31T14:57:54Z"
+stars: 134
+forks: 55
+pushed_at: "2026-10-01T13:47:34Z"
 ---
 ## What it is
 ☁️ 🏠 The Wanaku MCP Router is a SSE-based MCP server that provides an extensible routing engine that allows integrating your enterprise systems with AI agents.

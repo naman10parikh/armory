@@ -8,13 +8,13 @@ source_url: https://github.com/UI5/mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 99
+stars: 102
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 20
-pushed_at: "2026-09-01T14:42:42Z"
+forks: 21
+pushed_at: "2026-09-30T09:26:26Z"
 ---
 ## What it is
 Enables AI agents to assist with UI5 application development by providing tools for project scaffolding, API reference lookup, code analysis, and validation.

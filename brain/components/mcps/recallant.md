@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T05:25:38Z"
+pushed_at: "2026-09-29T20:30:58Z"
 ---
 ## What it is
 Self-hosted governed project memory for coding agents, recording decisions, checkpoints, evidence, review state, and agent activity in PostgreSQL with pgvector while keeping maintainer control over what becomes reusable memory or instruction-grade guidance.

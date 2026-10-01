@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T07:34:47Z"
+pushed_at: "2026-09-10T13:58:17Z"
 ---
 ## What it is
 Enables chatting with an AI waifu character through MCP tools, with user management and dialog history.

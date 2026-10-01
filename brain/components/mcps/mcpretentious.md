@@ -8,12 +8,12 @@ source_url: https://github.com/oetiker/MCPretentious
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-02-14T11:59:25Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/markusvankempen/maximo-mcp-ai-integration-options
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-02-08T14:33:29Z"
+pushed_at: "2026-09-17T00:00:21Z"
 ---
 ## What it is
 MCP server `IBM Maximo`, catalogued on PulseMCP. IBM Maximo integration for API discovery, OSLC querying, and UI generation.

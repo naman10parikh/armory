@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T11:05:16Z"
+pushed_at: "2026-09-05T02:02:00Z"
 ---
 ## What it is
 Enables AI agents to perform local-first manga/comic scanlation by inspecting raw pages, translating text, cleaning speech bubbles, and typesetting localized content through MCP tools.

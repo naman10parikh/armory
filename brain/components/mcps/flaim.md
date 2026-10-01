@@ -8,12 +8,12 @@ source_url: https://github.com/jdguggs10/flaim
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-09-01T02:47:41Z"
+forks: 5
+pushed_at: "2026-09-30T12:35:35Z"
 ---
 ## What it is
 MCP server `Flaim`, catalogued on PulseMCP. Connect ESPN, Yahoo, and Sleeper fantasy sports leagues for read-only analysis of rosters, matchups, standings, and free agents.

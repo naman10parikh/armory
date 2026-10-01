@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 19
-pushed_at: "2026-06-10T03:58:36Z"
+pushed_at: "2026-09-23T08:48:21Z"
 ---
 ## What it is
 Enables AI assistants to manage eSignature workflows, including creating signing tasks, tracking document status, and managing templates via natural language.

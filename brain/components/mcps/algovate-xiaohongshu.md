@@ -8,11 +8,11 @@ source_url: https://github.com/algovate/xhs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 13
 pushed_at: "2026-05-17T02:31:38Z"
 ---
 ## What it is

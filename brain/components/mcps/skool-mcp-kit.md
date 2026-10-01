@@ -8,13 +8,13 @@ source_url: https://github.com/elchamoluso/skool-mcp-kit
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T14:34:32Z"
+pushed_at: "2026-09-04T16:08:36Z"
 ---
 ## What it is
 MCP server to read and operate your Skool community (calendar, feed, posts, members) and publish posts/comments with confirmation, using your own authenticated session.

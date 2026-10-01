@@ -8,13 +8,13 @@ source_url: https://github.com/kfuras/notipo-app
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T01:10:42Z"
+pushed_at: "2026-10-01T03:23:36Z"
 ---
 ## What it is
 MCP server for publishing to WordPress. 13 tools cover posts, categories, tags, image hosting, featured images, and SEO metadata (Rank Math, etc.) One call runs the full markdown-to-live-URL pipeline.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T11:54:47Z"
+pushed_at: "2026-09-23T13:03:25Z"
 ---
 ## What it is
 An MCP server that lets Claude read and push Google Apps Script code directly into a script project.

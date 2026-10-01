@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:33:14Z"
+pushed_at: "2026-09-25T21:21:28Z"
 ---
 ## What it is
 Enables AI agents to query data from the An API of Ice and Fire, a comprehensive source for Game of Thrones and A Song of Ice and Fire information, through natural language.

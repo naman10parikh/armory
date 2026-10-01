@@ -8,13 +8,13 @@ source_url: https://github.com/AraneaDev/Chaos-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T17:45:34Z"
+pushed_at: "2026-09-25T15:32:35Z"
 ---
 ## What it is
 On-demand micro-mutation sandbox for AI test verification that maps weaknesses in unit tests by running isolated mutation testing via the Model Context Protocol.

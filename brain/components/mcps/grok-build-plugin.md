@@ -8,13 +8,13 @@ source_url: https://github.com/VasiHemanth/grok-build-plugin
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-07-22T15:43:34Z"
+forks: 6
+pushed_at: "2026-09-19T18:22:29Z"
 ---
 ## What it is
 Live X (Twitter) and web search for any coding agent through your existing Grok subscription. Exposes a grok_search MCP tool, so no X API key or X developer account is needed.

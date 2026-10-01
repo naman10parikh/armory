@@ -8,12 +8,12 @@ source_url: https://github.com/ludo-ai/ludo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-31T10:39:34Z"
+pushed_at: "2026-09-28T12:28:09Z"
 ---
 ## What it is
 MCP server `Ludo Game Assets`, catalogued on PulseMCP. Generate game assets with AI including sprites, 3D models, animations, sound effects, music, and voices.

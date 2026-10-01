@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T13:52:21Z"
+forks: 1
+pushed_at: "2026-10-01T12:53:49Z"
 ---
 ## What it is
 An MCP server that scans local codebases for quantum-vulnerable cryptography (secp256k1, Ed25519, RSA, etc.) and CI signing commands, classifying each finding as quantum-broken, post-quantum, or neither. It runs entirely locally with no network calls, providing a deterministic inventory for AI agent

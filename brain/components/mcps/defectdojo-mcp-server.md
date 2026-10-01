@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T12:35:04Z"
+pushed_at: "2026-09-04T15:45:32Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides comprehensive access to DefectDojo vulnerability management platform.

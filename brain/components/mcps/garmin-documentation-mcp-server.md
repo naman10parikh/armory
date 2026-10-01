@@ -8,7 +8,7 @@ source_url: https://github.com/ztuskes/garmin-documentation-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []

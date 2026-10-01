@@ -8,13 +8,13 @@ source_url: https://github.com/juanquy/AI-data-refinery
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T23:46:17Z"
+pushed_at: "2026-09-08T16:23:17Z"
 ---
 ## What it is
 Enables AI agents to query structured data refined from unstructured web sources, including developer breaking changes, B2B pricing matrices, regulatory compliance, semantic search, and on-demand URL refinement.

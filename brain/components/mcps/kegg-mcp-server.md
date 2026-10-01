@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-13T18:59:41Z"
+pushed_at: "2026-09-22T06:23:36Z"
 ---
 ## What it is
 An MCP server for querying the KEGG bioinformatics database, providing tools, resource templates, and guided prompts for pathways, genes, compounds, and more.

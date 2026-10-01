@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-31T23:06:55Z"
+pushed_at: "2026-09-28T23:07:43Z"
 ---
 ## What it is
 MCP server `Blumira`, catalogued on PulseMCP. Blumira SIEM integration for querying findings, evidence, and detection data.

@@ -8,13 +8,13 @@ source_url: https://github.com/taygunsavas/patina-unity-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T14:45:33Z"
+forks: 1
+pushed_at: "2026-09-26T18:17:19Z"
 ---
 ## What it is
 Control the Unity Editor from any MCP host. One package install, one click, and your AI assistant can see your scene, create objects, and talk to the console. Patina is a Rust MCP server paired with a C# Unity bridge. It connects your favorite AI coding tool directly to the Unity Editor over a local

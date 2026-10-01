@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:48:57Z"
+pushed_at: "2026-09-25T22:54:23Z"
 ---
 ## What it is
 Enables searching the CMS Open Payments dataset for physician, company, product, and research payments using structured filters, with annual dataset discovery through the official DKAN API.

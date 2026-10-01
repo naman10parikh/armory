@@ -8,11 +8,11 @@ source_url: https://github.com/chatmcp/mcp-server-chatsum
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1029
+stars: 1026
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 98
+forks: 101
 pushed_at: "2024-12-04T02:58:20Z"
 ---
 ## What it is

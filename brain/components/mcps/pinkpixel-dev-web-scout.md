@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 17
-pushed_at: "2026-09-19T21:33:17Z"
+pushed_at: "2026-09-29T01:10:03Z"
 ---
 ## What it is
 Search the web and extract clean, readable text from webpages. Process multiple URLs at once to speed up research with reliable throttling and error handling. Quickly compile sources and summaries for briefs, reports, or competitive analysis.

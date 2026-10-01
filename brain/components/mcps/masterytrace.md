@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-25T15:44:59Z"
+pushed_at: "2026-09-25T04:29:03Z"
 ---
 ## What it is
 MCP server wrapping the MasteryTrace CLI as a single generic run tool for skill-mastery tracking.

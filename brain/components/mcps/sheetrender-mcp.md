@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T06:54:12Z"
+pushed_at: "2026-09-22T17:08:53Z"
 ---
 ## What it is
 Renders PDFs from HTML templates or saved templates and spreadsheet data, with batch job support and document retrieval.

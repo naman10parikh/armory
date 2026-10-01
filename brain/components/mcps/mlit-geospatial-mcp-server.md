@@ -8,12 +8,12 @@ source_url: https://github.com/chirikuuka/mlit-geospatial-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 185
+stars: 189
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 23
+forks: 26
 pushed_at: "2026-03-16T03:21:08Z"
 ---
 ## What it is

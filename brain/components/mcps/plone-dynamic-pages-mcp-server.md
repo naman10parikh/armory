@@ -8,13 +8,13 @@ source_url: https://github.com/codesyntax/cs-dynamicpages-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T13:55:35Z"
+pushed_at: "2026-10-01T14:06:06Z"
 ---
 ## What it is
 Enables LLMs to manage Plone sites with dynamic page layouts, supporting CRUD operations on content and layout components via the cs_dynamicpages architecture.

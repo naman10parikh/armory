@@ -8,12 +8,12 @@ source_url: https://github.com/lumalabs/luma-api-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
+forks: 11
 pushed_at: "2025-04-18T02:27:08Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:41:36Z"
+pushed_at: "2026-09-26T21:38:53Z"
 ---
 ## What it is
 Enables querying statistical data from the Statistical Office of the Republic of Slovenia (SURS) via SiStat PxWeb, including navigating table trees, retrieving table metadata, and querying table data.

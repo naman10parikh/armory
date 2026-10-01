@@ -8,12 +8,12 @@ source_url: https://github.com/aikts/yandex-tracker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 113
+stars: 121
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
-pushed_at: "2026-09-01T12:17:20Z"
+forks: 39
+pushed_at: "2026-09-06T16:51:52Z"
 ---
 ## What it is
 MCP server `Yandex Tracker`, catalogued on PulseMCP. Integrates with Yandex Tracker for comprehensive issue management, queue operations, user management, and project data access with OAuth 2.0 authentication and Redis caching support.

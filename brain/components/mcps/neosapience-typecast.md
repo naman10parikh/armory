@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-02T00:11:00Z"
+pushed_at: "2026-10-01T09:43:23Z"
 ---
 ## What it is
 MCP server `Typecast AI`, catalogued on PulseMCP. Bridges to Typecast AI text-to-speech service, enabling high-quality voice synthesis with customizable emotional expression, volume, and playback speed for content creation and interactive voice applications.

@@ -8,13 +8,13 @@ source_url: https://github.com/MetapriseAI/OrgKernel
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2699
+stars: 2695
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
-forks: 247
+forks: 249
 pushed_at: "2026-07-06T19:46:41Z"
 ---
 ## What it is

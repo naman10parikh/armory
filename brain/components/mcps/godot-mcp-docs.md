@@ -8,12 +8,12 @@ source_url: https://github.com/Nihilantropy/godot-mcp-docs
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 71
+stars: 74
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
+forks: 15
 pushed_at: "2025-07-25T20:23:03Z"
 ---
 ## What it is

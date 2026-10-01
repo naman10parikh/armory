@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-24T07:11:51Z"
+pushed_at: "2026-09-04T02:54:09Z"
 ---
 ## What it is
 A stateless HTTP MCP service that exposes GitHub organization member management tools (list, view, add, update role, remove members, and manage invitations) as MCP tools consumable by Claude and other MCP clients.

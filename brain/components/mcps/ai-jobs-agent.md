@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T01:23:37Z"
+pushed_at: "2026-10-01T07:36:14Z"
 ---
 ## What it is
 ai-jobs-agent MCP server: Exposes an autonomous job-detection agent's data to MCP clients, offering tools to search jobs, retrieve job details, view detection-latency statistics, and trigger on-demand sweeps

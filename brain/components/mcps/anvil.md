@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T17:25:51Z"
+pushed_at: "2026-09-27T08:59:44Z"
 ---
 ## What it is
 A throwaway Docker sandbox for agents to run code and shell commands safely.

@@ -8,13 +8,13 @@ source_url: https://github.com/malkreide/swisstopo-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T21:29:07Z"
+pushed_at: "2026-09-26T17:44:49Z"
 ---
 ## What it is
 MCP server for Swiss federal geodata -- maps, elevation, geocoding, cadastral extracts, and downloadable datasets via Swisstopo APIs.

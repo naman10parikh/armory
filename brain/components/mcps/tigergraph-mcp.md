@@ -8,13 +8,13 @@ source_url: https://github.com/tigergraph/tigergraph-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-01T22:39:09Z"
+pushed_at: "2026-09-28T20:51:27Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for TigerGraph that lets AI agents interact with TigerGraph through the MCP standard using pyTigerGraph's async APIs.

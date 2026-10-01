@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-28T19:02:02Z"
+pushed_at: "2026-09-05T08:47:55Z"
 ---
 ## What it is
 MCP server `ExergyNet`, catalogued on PulseMCP. Thermodynamic compute settlement for autonomous agents enabling energy-based transaction coordination.

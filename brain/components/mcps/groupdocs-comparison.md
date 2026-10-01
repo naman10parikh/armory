@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T06:20:14Z"
+pushed_at: "2026-09-18T13:06:43Z"
 ---
 ## What it is
 MCP server `GroupDocs Comparison`, catalogued on PulseMCP. Compares documents and inspects source metadata using GroupDocs.Comparison via AI agents.

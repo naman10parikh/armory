@@ -8,12 +8,12 @@ source_url: https://github.com/googlemaps-samples/grounding-lite-mcp-sample-app
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 64
+stars: 67
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 24
+forks: 27
 pushed_at: "2026-06-21T23:31:57Z"
 ---
 ## What it is

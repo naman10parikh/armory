@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T17:29:27Z"
+pushed_at: "2026-09-15T12:51:51Z"
 ---
 ## What it is
 MCP tool server for MLS saved searches that enables listing, proposing, saving, updating, and deleting a user's saved property searches.

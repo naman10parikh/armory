@@ -8,14 +8,15 @@ source_url: https://github.com/Vorim-AI-Labs/vorim-mcp-server
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 73
+stars: 66
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
-forks: 8
+forks: 6
 pushed_at: "2026-08-13T13:37:17Z"
+folded_into: mcps/vorim
 ---
 ## What it is
 Use when you want agent identity, scoped permissions and an audit trail exposed to the agent as tools it can call.

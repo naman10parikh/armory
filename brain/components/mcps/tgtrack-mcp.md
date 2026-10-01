@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-08T20:57:01Z"
+pushed_at: "2026-09-09T16:27:26Z"
 ---
 ## What it is
 Manage a tgtrack (Откуда Подписки) account from an AI agent — channels, ad-system integrations, tracking-script settings, goals and links — with no official API.

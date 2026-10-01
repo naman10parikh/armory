@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T04:28:49Z"
+pushed_at: "2026-09-07T07:41:11Z"
 ---
 ## What it is
 Enables AI agents to perform deterministic Windows desktop and browser automation through MCP, using pre-validated UI Automation and DOM locators for fast, stable execution of ERP and business workflows.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T15:42:42Z"
+pushed_at: "2026-09-12T09:56:57Z"
 ---
 ## What it is
 The MCP server for SEO. Find prospects, draft outreach, and monitor backlinks from your AI agent.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:14:59Z"
+pushed_at: "2026-09-26T19:11:25Z"
 ---
 ## What it is
 Enables Indian bank branch IFSC code lookup via Razorpay's open API, allowing AI agents to retrieve branch details using IFSC codes.

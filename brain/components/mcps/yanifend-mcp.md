@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-12T09:41:30Z"
+pushed_at: "2026-09-27T13:31:03Z"
 ---
 ## What it is
 Hosted MCP server for YaniFend, a WordPress feedback widget. Manage your questionary (list/create/update/delete questions and options) and read collected answers via natural language.

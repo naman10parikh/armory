@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-07T16:17:21Z"
+pushed_at: "2026-09-03T18:20:26Z"
 ---
 ## What it is
 A Model Context Protocol server that lets Claude Desktop or Claude Code drive a 3DStreet scene running in your browser, enabling scene creation, editing, and geospatial features.

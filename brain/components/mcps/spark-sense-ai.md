@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T06:23:53Z"
+pushed_at: "2026-09-05T05:07:00Z"
 ---
 ## What it is
 MCP server that diagnoses Apache Spark job failures and optimizes performance using stack-trace analysis and LLM providers, supporting EMR and local sources.

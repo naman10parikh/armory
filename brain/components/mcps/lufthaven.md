@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-03T18:28:50Z"
+pushed_at: "2026-09-25T19:47:24Z"
 ---
 ## What it is
 Provides real-time flight status, airport weather, delays, cheap flight deals, and TSA wait times without requiring an API key.

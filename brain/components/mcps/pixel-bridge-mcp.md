@@ -8,13 +8,13 @@ source_url: https://github.com/Mrshahidali420/pixel-bridge-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-07-24T19:13:10Z"
+forks: 1
+pushed_at: "2026-09-13T09:09:56Z"
 ---
 ## What it is
 Bridges Claude Code to ChatGPT and Gemini web interfaces for free AI image generation, using Playwright to automate browser logins without API keys.

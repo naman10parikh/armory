@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T12:56:17Z"
+pushed_at: "2026-09-06T11:54:41Z"
 ---
 ## What it is
 Anonymizes documents via the Stript desktop app locally, ensuring personal data never enters the conversation. Provides tools to anonymize files and clipboard content, fetch results, and restore original values to local files.

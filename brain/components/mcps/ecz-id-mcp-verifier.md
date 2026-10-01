@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-02T01:10:27Z"
+pushed_at: "2026-09-23T23:53:10Z"
 ---
 ## What it is
 A local-first tool to check public ECZ-ID Resolver posture, classify targets, and report deterministic results with routing.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T20:54:58Z"
+pushed_at: "2026-09-30T11:17:26Z"
 ---
 ## What it is
 Enables MCP clients to control Bosch Smart Home Cameras via natural language, including snapshots, motion events, privacy mode, and pan/tilt, using a reverse-engineered cloud API.

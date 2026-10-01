@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T11:19:14Z"
+pushed_at: "2026-09-05T21:56:43Z"
 ---
 ## What it is
 Minimal Zotero MCP server that enables searching your Zotero library, discovering papers across eight sources, downloading PDFs via a multi-level cascade, and importing them into Zotero.

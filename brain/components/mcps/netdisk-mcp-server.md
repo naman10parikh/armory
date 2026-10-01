@@ -8,13 +8,13 @@ source_url: https://github.com/ptbsare/netdisk-mcp-server
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-29T12:31:29Z"
+pushed_at: "2026-09-11T14:13:41Z"
 ---
 ## What it is
 MCP server for cloud storage operations enabling browsing, file transfer, offline download, and multi-platform resource search for Quark and 115 drives.

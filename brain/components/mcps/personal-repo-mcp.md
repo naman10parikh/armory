@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T09:44:06Z"
+pushed_at: "2026-09-29T19:52:49Z"
 ---
 ## What it is
 Enables AI agents to work with administrator-approved Git repositories on a self-hosted VPS, supporting cloning, file edits, and full Git operations within persistent workspaces.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-27T11:04:27Z"
+forks: 1
+pushed_at: "2026-09-21T09:37:55Z"
 ---
 ## What it is
 An MCP server exposing the Czech ISDS Data Box system (Datové schránky) as tools, built on fastmcp and python3-datovka.

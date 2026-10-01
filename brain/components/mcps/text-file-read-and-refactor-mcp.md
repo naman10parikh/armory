@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T21:29:43Z"
+pushed_at: "2026-09-13T16:16:23Z"
 ---
 ## What it is
 Token-efficient Python stdio MCP server exposing safe text-file search, reading, and refactoring tools.

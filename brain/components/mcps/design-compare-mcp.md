@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-12T18:23:41Z"
+forks: 1
+pushed_at: "2026-09-12T08:28:18Z"
 ---
 ## What it is
 An MCP server that measures how faithfully one UI reproduces another, returning a score and actionable findings for improvement.

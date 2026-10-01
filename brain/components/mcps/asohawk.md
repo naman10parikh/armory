@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-27T15:00:00Z"
+pushed_at: "2026-09-24T07:12:06Z"
 ---
 ## What it is
 MCP server for App Store Optimization, enabling AI agents to read rankings, keywords, competitors, reviews, and revenue, and manage metadata with human approval.

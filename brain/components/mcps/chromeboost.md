@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T15:19:35Z"
+pushed_at: "2026-09-13T21:26:23Z"
 ---
 ## What it is
 Lets Claude Code drive your own Chrome browser with human-like clicks, drags, and typing. It uses your real sessions and logins, and pauses for your confirmation on anything irreversible.

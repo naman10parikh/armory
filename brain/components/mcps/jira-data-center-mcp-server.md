@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-26T11:32:16Z"
+pushed_at: "2026-09-25T13:49:00Z"
 ---
 ## What it is
 Enables AI assistants to deeply introspect Jira Data Center configurations — including workflows, schemes, automation, and Assets — through 76 read-only tools, without any modification capability.

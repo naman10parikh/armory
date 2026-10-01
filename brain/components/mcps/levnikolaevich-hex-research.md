@@ -8,12 +8,12 @@ source_url: https://github.com/levnikolaevich/claude-code-skills
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 556
+stars: 567
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 83
-pushed_at: "2026-08-29T14:21:50Z"
+forks: 86
+pushed_at: "2026-09-16T09:45:16Z"
 ---
 ## What it is
 MCP server `Hex Research`, catalogued on PulseMCP. Research graph tools for hypotheses, goals, experiment runs, source quality audits, and generated maps.

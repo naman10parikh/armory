@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T09:52:13Z"
+pushed_at: "2026-09-10T01:14:10Z"
 ---
 ## What it is
 Shelfmark is an MCP server that builds a local metadata catalogue of your documents, enabling AI agents to discover, search, and select relevant files without opening or indexing their contents. It provides governed access with ownership and confidentiality controls, ensuring agents only see what th

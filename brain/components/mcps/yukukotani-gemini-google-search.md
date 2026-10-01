@@ -8,11 +8,11 @@ source_url: https://github.com/yukukotani/mcp-gemini-google-search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 82
+stars: 83
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2025-07-20T02:00:22Z"
 ---
 ## What it is

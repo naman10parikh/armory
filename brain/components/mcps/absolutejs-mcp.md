@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T01:09:05Z"
+pushed_at: "2026-09-28T10:49:36Z"
 ---
 ## What it is
 Enables serving a remote Model Context Protocol endpoint by exposing tools, prompts, and resources with customizable authorization and hooks, allowing AI models to interact with your application through a standardized JSON-RPC interface.

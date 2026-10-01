@@ -12,8 +12,8 @@ stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 44
-pushed_at: "2026-09-01T15:09:44Z"
+forks: 50
+pushed_at: "2026-10-01T12:43:54Z"
 ---
 ## What it is
 MCP server `SmartBear`, catalogued on PulseMCP. Integrates SmartBear's testing and monitoring tools

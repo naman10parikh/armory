@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-23T12:13:37Z"
+pushed_at: "2026-09-23T14:48:21Z"
 ---
 ## What it is
 Analyze LinkedIn & email outreach campaigns, track pipeline performance, and review lead conversations for RevOps, Sales Managers, and SDR teams.

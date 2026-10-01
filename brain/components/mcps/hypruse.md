@@ -8,13 +8,13 @@ source_url: https://github.com/IlyasKhallouki/hypruse
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-31T18:49:12Z"
+forks: 3
+pushed_at: "2026-09-28T20:09:30Z"
 ---
 ## What it is
 An MCP server for Hyprland that enables AI agents to control workspaces, windows, mouse, keyboard, and take screenshots on a Wayland desktop.

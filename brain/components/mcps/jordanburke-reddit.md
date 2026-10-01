@@ -8,12 +8,12 @@ source_url: https://github.com/jordanburke/reddit-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 239
+stars: 280
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 41
-pushed_at: "2026-08-08T21:42:17Z"
+forks: 47
+pushed_at: "2026-09-27T22:15:36Z"
 ---
 ## What it is
 MCP server `Reddit`, catalogued on PulseMCP. Integrates with Reddit's API to provide read and write access for fetching posts, comments, user profiles, subreddit information, searching content, creating posts and replies, with OAuth authentication, rate limiting, and engagement analytics.

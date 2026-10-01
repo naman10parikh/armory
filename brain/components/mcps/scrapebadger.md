@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-05-30T23:38:34Z"
+pushed_at: "2026-09-30T09:33:38Z"
 ---
 ## What it is
 MCP server `ScrapeBadger`, catalogued on PulseMCP. Access Twitter/X data including profiles, tweets, trends, and communities via the ScrapeBadger API.

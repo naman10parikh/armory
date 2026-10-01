@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-26T06:27:29Z"
+pushed_at: "2026-10-01T04:41:29Z"
 ---
 ## What it is
 MCP server `Agent Tasker`, catalogued on PulseMCP. Minimal stdio MCP server for parallel task execution by AI agents across Python, HTTP, shell, and file operations.

@@ -8,13 +8,13 @@ source_url: https://github.com/ArtyMcLabin/Gmail-MCP-Server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 231
+stars: 245
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 55
-pushed_at: "2026-08-12T09:25:46Z"
+forks: 60
+pushed_at: "2026-09-11T12:59:59Z"
 ---
 ## What it is
 Lean Gmail MCP server with auto authentication, attachments, thread operations, filter management, and configurable OAuth scopes. Actively maintained fork of GongRzhe/Gmail-MCP-Server.

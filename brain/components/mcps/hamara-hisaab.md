@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T08:44:40Z"
+pushed_at: "2026-09-23T18:43:51Z"
 ---
 ## What it is
 Self-hosted household finance app for shared expenses, budgets, investments, loans, and zakat, exposing MCP tools for AI agents to manage finances via natural language.

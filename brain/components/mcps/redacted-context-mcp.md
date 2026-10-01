@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T11:01:52Z"
+pushed_at: "2026-09-12T06:58:22Z"
 ---
 ## What it is
 Provides redacted access to a private local knowledgebase for coding agents, allowing them to inspect files while hiding sensitive names and identifiers.

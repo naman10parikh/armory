@@ -12,8 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-08-25T12:33:53Z"
+forks: 4
+pushed_at: "2026-09-09T22:50:44Z"
 ---
 ## What it is
 MCP server `Sevalla`, catalogued on PulseMCP. Full PaaS hosting API access for managing applications, databases, and deployments.

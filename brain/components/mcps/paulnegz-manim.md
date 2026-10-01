@@ -8,11 +8,11 @@ source_url: https://github.com/paulnegz/manim-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-02-25T06:22:59Z"
 ---
 ## What it is

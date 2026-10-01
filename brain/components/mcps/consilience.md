@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-15T03:47:17Z"
+pushed_at: "2026-09-18T17:19:35Z"
 ---
 ## What it is
 Finds missing links between notes in an Obsidian vault by analyzing embeddings locally. Exposes tools to suggest missing links across the vault or for a specific note.

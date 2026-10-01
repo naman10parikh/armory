@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T23:54:37Z"
+pushed_at: "2026-09-24T23:53:44Z"
 ---
 ## What it is
 Enables safe Sezzle merchant operations with mutation previews, explicit approval gates, settlement reconciliation, webhook verification, and integration diagnostics.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T06:40:31Z"
+pushed_at: "2026-09-07T19:07:18Z"
 ---
 ## What it is
 A playful, educational MCP server with tools like dice rolling, a cookie jar, and secret codes, built to teach the Model Context Protocol to beginners.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, finance-fintech]
 stars: 1
 forks: 1
-pushed_at: "2026-07-03T11:18:28Z"
+pushed_at: "2026-10-01T07:11:58Z"
 ---
 ## What it is
 The most comprehensive everyday calculator MCP server — 501 tools, 22 categories, 8 countries' tax systems (FR, BE, CH, CA, US, UK, MA, SN). Finance, health, math, science, construction, conversions, education, sport, cooking, travel & more. Free, no API key.

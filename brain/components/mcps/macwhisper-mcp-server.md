@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T16:56:49Z"
+pushed_at: "2026-09-29T16:06:44Z"
 ---
 ## What it is
 Enables transcription, summarization, and action item extraction from audio files on your Mac using MacWhisper and Claude Desktop, all locally without any cloud APIs.

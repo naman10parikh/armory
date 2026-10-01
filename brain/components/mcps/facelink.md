@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T16:46:39Z"
+pushed_at: "2026-09-24T22:15:37Z"
 ---
 ## What it is
 Enables LLMs to plan and stage editable Blender scene animations via a typed ShotSpec, with a safe stage/review/apply workflow, scene scanning, locomotion planning, and MCP integration for Codex/ChatGPT clients.

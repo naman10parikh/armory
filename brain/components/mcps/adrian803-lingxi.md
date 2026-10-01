@@ -8,11 +8,11 @@ source_url: https://github.com/adrian803/lingxi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-04-30T01:45:18Z"
 ---
 ## What it is

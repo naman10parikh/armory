@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T09:50:55Z"
+pushed_at: "2026-09-05T07:45:28Z"
 ---
 ## What it is
 MCP server that lets AI assistants create and edit Ridvay Studio posters, flyers, and social designs directly from chat conversations, returning shareable links.

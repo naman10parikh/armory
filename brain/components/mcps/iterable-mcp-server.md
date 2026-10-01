@@ -8,13 +8,13 @@ source_url: https://github.com/Iterable/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-07-09T18:44:06Z"
+pushed_at: "2026-09-30T13:22:52Z"
 ---
 ## What it is
 Enables natural language interaction with Iterable marketing platform data, allowing users to query campaigns, templates, and perform actions via AI assistants.

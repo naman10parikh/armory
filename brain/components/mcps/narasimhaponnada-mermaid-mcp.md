@@ -11,8 +11,8 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, architecture-design]
-stars: 51
-forks: 9
+stars: 53
+forks: 10
 pushed_at: "2025-11-05T07:46:51Z"
 ---
 ## What it is

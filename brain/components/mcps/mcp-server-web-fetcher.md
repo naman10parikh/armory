@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T09:54:44Z"
+pushed_at: "2026-10-01T10:00:28Z"
 ---
 ## What it is
 A fast, dependency-light MCP server that converts web pages into clean Markdown, structured metadata, and classified links for language models.

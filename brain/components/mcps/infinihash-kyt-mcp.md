@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T18:45:25Z"
+pushed_at: "2026-09-28T21:28:52Z"
 ---
 ## What it is
 MCP server for Infinihash KYT providing real-time blockchain transaction monitoring, sanctions screening, and SAR generation. It enables MCP-compatible agents to screen wallets against OFAC SDN and generate compliance cases.

@@ -8,12 +8,12 @@ source_url: https://github.com/ashfordeou/grasp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-07-17T13:40:59Z"
+forks: 3
+pushed_at: "2026-09-07T15:47:32Z"
 ---
 ## What it is
 MCP server `GRASP`, catalogued on PulseMCP. Codebase dependency analysis, architecture mapping, and security scanning for AI agents.

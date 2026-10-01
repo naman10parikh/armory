@@ -8,13 +8,13 @@ source_url: https://github.com/NspxMiguel/NanoBridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T03:43:56Z"
+pushed_at: "2026-09-06T16:13:40Z"
 ---
 ## What it is
 Enables agents to generate and edit images, sprites, icons, and animated sprite sheets via Gemini's Nano Banana model. It uses the existing Gemini plan's quota without per-image costs.

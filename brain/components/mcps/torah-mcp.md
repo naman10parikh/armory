@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T18:02:48Z"
+pushed_at: "2026-09-11T12:45:51Z"
 ---
 ## What it is
 MCP server that provides access to the Sefaria library (Tanakh, Talmud, Mishneh Torah, etc.) with tools for text, links, search, and calendars. It enables grounded, source-cited answers to religious questions and daily study resources.

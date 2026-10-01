@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T04:46:49Z"
+pushed_at: "2026-09-04T10:54:14Z"
 ---
 ## What it is
 Enables AI agents to call LLM APIs via x402 micropayments in USDC on Base network, manage a local wallet, and query consumption records.

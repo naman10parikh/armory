@@ -8,12 +8,12 @@ source_url: https://github.com/aytzey/paper-pilot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-07-23T13:43:41Z"
+forks: 7
+pushed_at: "2026-09-27T21:22:32Z"
 ---
 ## What it is
 MCP server `Paper Pilot`, catalogued on PulseMCP. Academic research assistant searching 6 databases, downloading PDFs, extracting evidence, and integrating with Zotero.

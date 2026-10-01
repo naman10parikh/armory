@@ -8,7 +8,7 @@ source_url: https://github.com/ananddtyagi/webpage-screenshot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [browser, mcp, observability]

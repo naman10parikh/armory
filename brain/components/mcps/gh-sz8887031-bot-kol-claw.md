@@ -8,11 +8,11 @@ source_url: https://github.com/sz8887031-bot/kol-claw-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
+forks: 18
 pushed_at: "2026-03-12T06:54:59Z"
 ---
 ## What it is

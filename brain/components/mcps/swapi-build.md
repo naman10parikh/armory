@@ -8,13 +8,13 @@ source_url: https://github.com/eldermoraes/swapi.build
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T20:01:58Z"
+pushed_at: "2026-09-21T10:42:18Z"
 ---
 ## What it is
 MCP server that provides access to Star Wars data (people, films, planets, species, starships, vehicles) through tools like list, get, random, and search.

@@ -8,13 +8,13 @@ source_url: https://github.com/Va1bhav512/kdenlive-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T14:31:24Z"
+pushed_at: "2026-09-03T13:18:39Z"
 ---
 ## What it is
 Enables AI models to perform complex video editing tasks on Kdenlive projects through 36 tools for project management, timeline editing, effects, transitions, and export.

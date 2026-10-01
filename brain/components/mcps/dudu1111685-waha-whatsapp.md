@@ -8,12 +8,12 @@ source_url: https://github.com/dudu1111685/waha-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-08-30T19:37:57Z"
+forks: 2
+pushed_at: "2026-09-04T09:27:07Z"
 ---
 ## What it is
 MCP server `WAHA (WhatsApp HTTP API)`, catalogued on PulseMCP. Integrates with WhatsApp through WAHA platform to enable complete messaging automation including sending and receiving media files, managing contacts and groups, handling QR code authentication, and controlling chat operations like archiving and reactions.

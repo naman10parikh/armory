@@ -8,13 +8,13 @@ source_url: https://github.com/Sefaria/sefaria-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-08-17T12:08:42Z"
+pushed_at: "2026-10-01T07:19:35Z"
 ---
 ## What it is
 Enables LLMs to access and search Jewish texts from the Sefaria library through 15 MCP tools, including text retrieval, search, and manuscript access.

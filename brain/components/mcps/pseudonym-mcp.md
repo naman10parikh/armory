@@ -8,13 +8,13 @@ source_url: https://github.com/woladi/pseudonym-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-25T12:01:33Z"
+pushed_at: "2026-09-04T13:09:09Z"
 ---
 ## What it is
 Local pseudonymisation MCP server that detects PII in text, replaces it with opaque tokens before sending to cloud LLMs, and restores tokens afterward.

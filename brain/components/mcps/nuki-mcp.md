@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T10:43:25Z"
+pushed_at: "2026-09-28T20:35:23Z"
 ---
 ## What it is
 MCP server for controlling Nuki Smart Locks via Home Assistant, enabling lock/unlock, intercom buzzing, and battery checks.

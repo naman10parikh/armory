@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T12:26:43Z"
+pushed_at: "2026-09-21T09:12:51Z"
 ---
 ## What it is
 Lets a Claude Code agent read and post in a fixed allowlist of Microsoft Teams group chats using an ordinary user account, with tools for messaging, replying, editing, deleting, and polling.

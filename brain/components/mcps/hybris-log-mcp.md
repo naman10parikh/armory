@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T21:11:27Z"
+pushed_at: "2026-09-14T18:37:12Z"
 ---
 ## What it is
 MCP server for reading and searching SAP Commerce Cloud (CCV2) logs stored in Azure Blob Storage, enabling log listing, retrieval, and regex search via MCP tools.

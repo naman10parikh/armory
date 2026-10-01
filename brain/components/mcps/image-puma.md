@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T09:43:34Z"
+pushed_at: "2026-09-23T16:02:32Z"
 ---
 ## What it is
 Enables local batch image preparation for the web via MCP, including compression, resizing, metadata stripping, thumbnails, and favicon generation.

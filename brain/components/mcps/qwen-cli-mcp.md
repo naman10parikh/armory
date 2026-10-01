@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T02:06:13Z"
+pushed_at: "2026-09-10T16:14:41Z"
 ---
 ## What it is
 This server lets MCP clients delegate coding tasks to a locally installed Qwen Code CLI, enabling second opinions, parallel work, and clean separation from the main context.

@@ -8,7 +8,7 @@ source_url: https://github.com/ckreiling/mcp-server-docker
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 742
+stars: 746
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

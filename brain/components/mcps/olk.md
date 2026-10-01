@@ -8,13 +8,13 @@ source_url: https://github.com/rlrghb/olkcli
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-08-29T18:35:16Z"
+forks: 8
+pushed_at: "2026-09-28T04:04:19Z"
 ---
 ## What it is
 A CLI and MCP server for Microsoft Outlook and OneDrive via the Microsoft Graph API, enabling AI agents to manage email, calendar, contacts, tasks, and files through the Model Context Protocol.

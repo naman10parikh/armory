@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-16T13:38:24Z"
+pushed_at: "2026-09-11T08:55:54Z"
 ---
 ## What it is
 MCP server `Software as Content`, catalogued on PulseMCP. Agent SDK for generating live, interactive apps as responses instead of static text.

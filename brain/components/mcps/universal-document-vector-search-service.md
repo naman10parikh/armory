@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T09:57:44Z"
+pushed_at: "2026-09-15T14:49:22Z"
 ---
 ## What it is
 This MCP server provides semantic document search and retrieval, enabling AI assistants to search documents, search categories, and retrieve category hierarchies using the Model Context Protocol.

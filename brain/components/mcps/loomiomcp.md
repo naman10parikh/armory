@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T10:02:18Z"
+pushed_at: "2026-09-21T06:53:58Z"
 ---
 ## What it is
 Loomio tools for Claude. Local install via npx, org-wide via Custom Connectors. Read-only mode supported.

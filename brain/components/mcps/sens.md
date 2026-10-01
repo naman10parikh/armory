@@ -8,13 +8,13 @@ source_url: https://github.com/iiTzSenn/Sens
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-09T17:17:11Z"
+pushed_at: "2026-10-01T07:31:19Z"
 ---
 ## What it is
 Provides MCP tools for Claude Code to query a project's codebase via a compact index, reducing token usage and context bloat by enabling symbol lookup, usage tracking, and dead-code detection.

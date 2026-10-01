@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T11:02:50Z"
+pushed_at: "2026-09-04T03:01:54Z"
 ---
 ## What it is
 Provides MCP tools to interact with the Backup Radar v2 Backups API, enabling queries on backups, scheduled backups, inactive backups, and backup results.

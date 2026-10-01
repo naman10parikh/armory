@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T04:03:59Z"
+pushed_at: "2026-09-23T15:23:55Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve academic literature from Web of Science and CNKI, with support for institutional login/SSO. Can be deployed locally on Windows or as a remote Linux server.

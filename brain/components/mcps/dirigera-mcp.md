@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T08:03:48Z"
+pushed_at: "2026-09-04T11:35:42Z"
 ---
 ## What it is
 An MCP server that lets an MCP client control IKEA TRÅDFRI smart plugs paired to a DIRIGERA hub via its local REST API.

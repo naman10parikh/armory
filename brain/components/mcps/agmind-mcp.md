@@ -8,13 +8,13 @@ source_url: https://github.com/botAGI/agmind-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T16:19:05Z"
+pushed_at: "2026-09-02T10:26:11Z"
 ---
 ## What it is
 Read-only MCP server exposing AGmind Systems Lab's measured local-LLM benchmark claims (TTFT, inter-token latency, task success, etc.) on AMD Strix Halo and DGX Spark hardware via search, claim lookup, and measured-combination listing tools.

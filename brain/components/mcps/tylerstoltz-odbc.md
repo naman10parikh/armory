@@ -8,11 +8,11 @@ source_url: https://github.com/tylerstoltz/mcp-odbc
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2025-03-20T20:59:27Z"
 ---
 ## What it is

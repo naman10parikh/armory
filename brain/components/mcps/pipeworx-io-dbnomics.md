@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:59:04Z"
+pushed_at: "2026-09-25T23:27:28Z"
 ---
 ## What it is
 MCP server `DBnomics`, catalogued on PulseMCP. Query economic and financial data from 80+ statistical providers worldwide through DBnomics, a unified meta-aggregator for macroeconomic datasets.

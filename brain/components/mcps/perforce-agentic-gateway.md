@@ -8,13 +8,13 @@ source_url: https://github.com/perforce/perforce-agentic-gateway
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-14T23:41:10Z"
+pushed_at: "2026-09-21T23:59:56Z"
 ---
 ## What it is
 A local MCP gateway that allows AI clients to manage and interact with multiple MCP servers through a single connection, providing token-efficient access to tools and resources.

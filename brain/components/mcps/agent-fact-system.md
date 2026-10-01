@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T19:39:30Z"
+pushed_at: "2026-09-13T13:54:27Z"
 ---
 ## What it is
 Local-first knowledge system for reasoning agents, exposing facts, evidence, documents, retrieval, and audit history through a thin stdio MCP server.

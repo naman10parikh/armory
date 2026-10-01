@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T08:14:20Z"
+pushed_at: "2026-09-24T07:28:24Z"
 ---
 ## What it is
 Makes AI research agents accountable by giving every conclusion a traceable argument graph. Provides a persistent argument graph where claims require grounds and warrants for auditable, verifiable reasoning.

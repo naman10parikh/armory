@@ -8,12 +8,12 @@ source_url: https://github.com/XenoCoreGiger31/GEMMA-by-GOOGLE
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-08-18T20:22:03Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T03:35:55Z"
+pushed_at: "2026-09-18T02:09:02Z"
 ---
 ## What it is
 Enables publishing sanitized static HTML pages from an MCP agent and receiving shareable URLs, with tools for updating, listing, publishing, and deleting pages.

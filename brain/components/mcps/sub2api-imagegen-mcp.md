@@ -8,13 +8,13 @@ source_url: https://github.com/BillSJC/sub2api-imagegen-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-28T13:54:52Z"
+pushed_at: "2026-09-11T10:35:46Z"
 ---
 ## What it is
 Enables AI assistants to generate and edit images using a Sub2API API key, with local file saving and support for reference images.

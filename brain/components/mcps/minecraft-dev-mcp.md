@@ -8,12 +8,12 @@ source_url: https://github.com/MCDxAI/minecraft-dev-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 41
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
+forks: 10
 pushed_at: "2026-08-07T00:09:52Z"
 ---
 ## What it is

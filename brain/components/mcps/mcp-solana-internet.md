@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T07:34:44Z"
+pushed_at: "2026-09-10T13:58:14Z"
 ---
 ## What it is
 Enables direct SOL payments for content access by integrating MCP with the Solana blockchain for decentralized, permissionless access control.

@@ -8,12 +8,12 @@ source_url: https://github.com/shigechika/junos-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T03:40:08Z"
+pushed_at: "2026-09-29T05:33:09Z"
 ---
 ## What it is
 MCP server `Junos`, catalogued on PulseMCP. Manages and monitors Juniper Networks JunOS devices programmatically.

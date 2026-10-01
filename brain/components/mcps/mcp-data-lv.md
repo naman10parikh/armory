@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:55:13Z"
+pushed_at: "2026-09-25T23:16:41Z"
 ---
 ## What it is
 Enables AI agents to search, retrieve metadata, and query tabular resources from Latvia's Open Data portal (data.gov.lv) via CKAN.

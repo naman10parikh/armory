@@ -8,12 +8,12 @@ source_url: https://github.com/mario-andreschak/mcp-windows-desktop-automation
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 114
+stars: 118
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
-pushed_at: "2025-03-24T01:59:17Z"
+forks: 26
+pushed_at: "2026-09-27T11:56:03Z"
 ---
 ## What it is
 MCP server `Windows Desktop Automation`, catalogued on PulseMCP. Enables Windows desktop automation through TypeScript-wrapped AutoIt functions for controlling mouse movements, keyboard input, window management, and UI elements via natural language instructions.

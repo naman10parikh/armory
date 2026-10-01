@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-10T06:27:56Z"
+pushed_at: "2026-09-16T13:09:07Z"
 ---
 ## What it is
 MCP server `Catalog`, catalogued on PulseMCP. Integrates with Catalog's data management platform at studio.igot.ai for natural language operations across data catalog discovery, master data management, and automated transformation workflows.

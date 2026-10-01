@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T23:33:48Z"
+pushed_at: "2026-09-19T23:35:57Z"
 ---
 ## What it is
 Compiles OpenAPI 3.x documents and HTTP manifests into verified MCP tools, serving only operator-approved HTTP operations over Model Context Protocol stdio.

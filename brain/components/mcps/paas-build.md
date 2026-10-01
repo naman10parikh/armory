@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-25T22:34:46Z"
+pushed_at: "2026-09-07T12:15:13Z"
 ---
 ## What it is
 Your agent takes a business live on payments: go_live creates a real merchant account (sandbox + production) the same day; create_checkout returns a payable link. Payments for AI builders, 3.9% flat.

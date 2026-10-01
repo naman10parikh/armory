@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:06:56Z"
+pushed_at: "2026-09-26T12:26:51Z"
 ---
 ## What it is
 Provides tools to list and read curated finance & markets feeds, and fetch any RSS/Atom/RDF feed by URL. Enables AI agents to query financial news and market data through natural language or direct tool calls.

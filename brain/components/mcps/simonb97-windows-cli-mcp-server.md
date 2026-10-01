@@ -8,11 +8,11 @@ source_url: https://github.com/simon-ami/win-cli-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 269
+stars: 268
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 45
+forks: 46
 pushed_at: "2025-08-07T14:47:58Z"
 ---
 ## What it is

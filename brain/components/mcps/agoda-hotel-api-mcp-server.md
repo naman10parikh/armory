@@ -8,13 +8,13 @@ source_url: https://github.com/johnisanerd/Apify-Agoda-Hotel-API
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T05:10:54Z"
+pushed_at: "2026-10-01T05:10:52Z"
 ---
 ## What it is
 Provides live hotel room rates, availability, and guest reviews from Agoda, enabling searches by destination and dates, property details, and structured review data.

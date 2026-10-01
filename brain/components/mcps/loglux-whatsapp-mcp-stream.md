@@ -12,8 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 5
-forks: 5
-pushed_at: "2026-08-11T20:46:40Z"
+forks: 6
+pushed_at: "2026-09-13T00:15:20Z"
 ---
 ## What it is
 WhatsApp MCP server over Streamable HTTP with web admin UI (QR/status/settings), bidirectional media upload/download, and SQLite persistence.

@@ -8,11 +8,11 @@ source_url: https://github.com/sparesparrow/mcp-prompts
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 117
+stars: 118
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
+forks: 20
 pushed_at: "2026-07-13T07:00:58Z"
 ---
 ## What it is

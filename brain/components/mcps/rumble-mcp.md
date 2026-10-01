@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-04-28T11:25:22Z"
+pushed_at: "2026-09-03T20:39:12Z"
 ---
 ## What it is
 Provides AI assistants with access to TheRumble.app investment research data for the Egyptian stock market (EGX), including fundamental calls, technical calls, track records, and portfolios.

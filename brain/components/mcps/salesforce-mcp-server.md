@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-10T22:14:10Z"
+pushed_at: "2026-09-20T18:21:09Z"
 ---
 ## What it is
 A Model Context Protocol server for Salesforce that enables managing contacts, leads, opportunities, accounts, and cases, along with SOQL queries and direct links.

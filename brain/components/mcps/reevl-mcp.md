@@ -8,13 +8,13 @@ source_url: https://github.com/exclusiveyon-a11y/reevl-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T10:21:49Z"
+pushed_at: "2026-09-05T05:25:21Z"
 ---
 ## What it is
 Enables AI assistants to query Korean apartment real-estate data, including official transaction prices, jeonse ratios, and AI price forecasts for 45,000+ complexes.

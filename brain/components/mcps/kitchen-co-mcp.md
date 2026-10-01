@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T10:48:59Z"
+pushed_at: "2026-09-24T14:33:56Z"
 ---
 ## What it is
 Enables AI agents to interact with Kitchen.co via the Model Context Protocol, supporting tasks, boards, conversations, files, and more through secure profile-based authentication.

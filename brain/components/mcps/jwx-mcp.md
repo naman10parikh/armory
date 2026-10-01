@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T23:12:53Z"
+pushed_at: "2026-09-29T12:00:36Z"
 ---
 ## What it is
 Exposes Justworx devices to AI agents as MCP tools and resources, backed by the public Developer API. Supports local stdio and hosted remote OAuth operation for controlling device IO, rules, and viewing live state.

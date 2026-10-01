@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-08-30T20:24:57Z"
+pushed_at: "2026-09-13T21:10:54Z"
 ---
 ## What it is
 MCP server `NEUS`, catalogued on PulseMCP. Hosted MCP for NEUS verifiable proof receipts, agent verification flows, and identity proofs.

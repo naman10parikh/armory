@@ -8,13 +8,13 @@ source_url: https://github.com/badchars/darknet-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 319
+stars: 465
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 39
-pushed_at: "2026-09-01T21:58:10Z"
+forks: 53
+pushed_at: "2026-09-22T21:54:34Z"
 ---
 ## What it is
 Dark web & threat intelligence for AI agents. HIBP, ThreatFox, ransomware tracking, Tor .onion access, blockchain intel, exploit search, stealer logs, malware analysis — unified into a single MCP server.

@@ -8,13 +8,13 @@ source_url: https://github.com/thereal-baitjet/santos-audit-api
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-31T16:32:03Z"
+pushed_at: "2026-09-11T00:54:56Z"
 ---
 ## What it is
 Website intelligence tools for AI agents. Ten pay-per-call tools via x402 micropayments (USDC on Base) — no accounts, no API keys.

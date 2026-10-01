@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T07:05:42Z"
+pushed_at: "2026-09-30T06:24:27Z"
 ---
 ## What it is
 Enables natural language management of files on CloudSee Drive (Amazon S3) including browsing, searching, uploading, downloading, sharing, and organizing, with confirmation for destructive actions.

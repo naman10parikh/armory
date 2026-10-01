@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T00:50:10Z"
+pushed_at: "2026-10-01T06:11:25Z"
 ---
 ## What it is
 Generates Chinese mining rights daily briefs with data status and citation sources, integrating MCP tools for mining news, PDF resource extraction, and LME price queries.

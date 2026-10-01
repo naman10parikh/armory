@@ -8,12 +8,12 @@ source_url: https://github.com/okta/okta-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 67
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 59
-pushed_at: "2026-08-27T07:04:49Z"
+forks: 62
+pushed_at: "2026-10-01T11:41:09Z"
 ---
 ## What it is
 MCP server `Okta`, catalogued on PulseMCP. Identity and access management automation for Okta systems

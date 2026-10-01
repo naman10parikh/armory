@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-02T01:19:42Z"
+pushed_at: "2026-10-01T05:08:33Z"
 ---
 ## What it is
 An MCP gateway that unifies multiple MCP servers and OpenAPI/Swagger REST APIs behind a single MCP interface, with protocol conversion, authentication, and automatic tool generation.

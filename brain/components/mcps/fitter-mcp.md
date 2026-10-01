@@ -8,7 +8,7 @@ source_url: https://github.com/PxyUp/fitter
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 132
+stars: 133
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,11 +8,11 @@ source_url: https://github.com/takumi0706/google-calendar-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
+forks: 11
 pushed_at: "2026-08-18T03:51:59Z"
 ---
 ## What it is

@@ -8,11 +8,11 @@ source_url: https://github.com/chaindead/telegram-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 345
+stars: 349
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 57
+forks: 58
 pushed_at: "2026-05-28T17:44:53Z"
 ---
 ## What it is

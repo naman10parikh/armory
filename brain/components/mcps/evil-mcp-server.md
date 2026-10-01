@@ -8,13 +8,13 @@ source_url: https://github.com/promptfoo/evil-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
-pushed_at: "2026-08-26T19:51:06Z"
+forks: 15
+pushed_at: "2026-10-01T03:23:35Z"
 ---
 ## What it is
 Simulates malicious behaviors and attack vectors for security testing and educational demonstrations.

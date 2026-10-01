@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T19:51:34Z"
+pushed_at: "2026-09-10T08:15:16Z"
 ---
 ## What it is
 Enables AI agents to discover, query, and pay for HTTP endpoints and MCP tools using Stellar USDC/SEP-41 stablecoins through a federated P2P bazaar catalog and x402 payment facilitator.

@@ -8,12 +8,12 @@ source_url: https://github.com/CCCpan/data-verify-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 165
+stars: 166
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 22
+forks: 23
 pushed_at: "2026-07-03T07:46:51Z"
 ---
 ## What it is

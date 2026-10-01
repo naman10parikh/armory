@@ -8,12 +8,12 @@ source_url: https://github.com/hybirdss/smartest-tv
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-08-16T16:27:13Z"
+forks: 4
+pushed_at: "2026-10-01T12:15:48Z"
 ---
 ## What it is
 MCP server `Smartest TV`, catalogued on PulseMCP. Control smart TVs with natural language, with deep-link support for Netflix, YouTube, and Spotify.

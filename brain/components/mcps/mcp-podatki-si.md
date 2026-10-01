@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:33:11Z"
+pushed_at: "2026-09-26T21:02:36Z"
 ---
 ## What it is
 Enables AI agents to search and query datasets from Slovenia Open Data (podatki.gov.si) via its CKAN API, including searching datasets, retrieving metadata, and querying tabular resources.

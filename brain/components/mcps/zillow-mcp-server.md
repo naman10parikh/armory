@@ -8,12 +8,12 @@ source_url: https://github.com/sap156/zillow-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 48
+stars: 50
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 11
 pushed_at: "2025-05-08T19:33:21Z"
 ---
 ## What it is

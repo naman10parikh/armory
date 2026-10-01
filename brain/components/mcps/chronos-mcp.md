@@ -8,12 +8,12 @@ source_url: https://github.com/democratize-technology/chronos-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
+forks: 10
 pushed_at: "2026-07-27T03:05:04Z"
 ---
 ## What it is

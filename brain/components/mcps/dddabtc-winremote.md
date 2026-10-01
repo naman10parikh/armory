@@ -8,12 +8,12 @@ source_url: https://github.com/dddabtc/winremote-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 187
+stars: 206
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 39
-pushed_at: "2026-08-07T07:24:30Z"
+forks: 42
+pushed_at: "2026-09-30T03:16:59Z"
 ---
 ## What it is
 MCP server `Windows Remote Control`, catalogued on PulseMCP. Remote control and automation for Windows desktops with tiered security, supporting screenshots, input control, file operations, PowerShell, OCR, and screen recording.

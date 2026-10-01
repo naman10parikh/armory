@@ -8,7 +8,7 @@ source_url: https://github.com/dannguyen9x/tiktok-live-studio-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 48
+stars: 42
 eval_score: null
 verified_at: 2026-05-27
 related: []

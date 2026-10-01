@@ -8,11 +8,11 @@ source_url: https://github.com/yafeiaa/piskel-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 7
 pushed_at: "2026-07-29T03:25:39Z"
 ---
 ## What it is

@@ -8,11 +8,11 @@ source_url: https://github.com/yoelbassin/gr-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2026-08-15T11:31:03Z"
 ---
 ## What it is

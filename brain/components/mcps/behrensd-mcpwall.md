@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-07-13T18:34:11Z"
+pushed_at: "2026-09-19T17:59:12Z"
 ---
 ## What it is
 MCP server `MCPWall`, catalogued on PulseMCP. Transparent stdio proxy that blocks dangerous tool calls, scans for secret leakage, and logs all JSON-RPC messages using YAML-defined policies.

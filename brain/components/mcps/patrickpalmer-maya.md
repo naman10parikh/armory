@@ -8,11 +8,11 @@ source_url: https://github.com/patrickpalmer/mayamcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 99
+stars: 105
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 29
+forks: 34
 pushed_at: "2025-05-12T12:38:25Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/Solitario119/iccap-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T01:52:50Z"
+pushed_at: "2026-09-10T07:31:48Z"
 ---
 ## What it is
 Enables MCP-compatible agents to interact with Keysight IC-CAP through its Python API, providing tools to inspect and modify projects, run simulations and transforms, extract parameters, and retrieve plots and data.

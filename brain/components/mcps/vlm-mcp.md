@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T17:07:36Z"
+pushed_at: "2026-09-16T16:33:54Z"
 ---
 ## What it is
 Enables VLM-based image understanding through a unified API, supporting local llama.cpp and online Qwen3-VL backends, with tools for image analysis, OCR, chart analysis, translation, and multi-turn Q&A sessions.

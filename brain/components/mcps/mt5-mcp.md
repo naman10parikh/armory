@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-05T04:28:15Z"
+pushed_at: "2026-10-01T02:45:34Z"
 ---
 ## What it is
 An MCP server that lets an AI agent read your MetaTrader 5 account and place trades over the Model Context Protocol, with a configurable human approval gate.

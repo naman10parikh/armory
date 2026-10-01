@@ -8,12 +8,12 @@ source_url: https://github.com/receptron/mulmocast-vision
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-09T17:38:56Z"
+pushed_at: "2026-09-29T06:48:02Z"
 ---
 ## What it is
 MCP server `Mulmocast Vision`, catalogued on PulseMCP. AI-powered presentation slide generator with 80+ business templates

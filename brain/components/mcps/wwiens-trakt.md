@@ -8,12 +8,12 @@ source_url: https://github.com/wwiens/trakt_mcpserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-07-19T23:53:27Z"
+pushed_at: "2026-09-06T21:27:41Z"
 ---
 ## What it is
 MCP server `Trakt`, catalogued on PulseMCP. Bridge to the Trakt.tv API, allowing LLMs to access real-time entertainment data and personal Trakt viewing history.

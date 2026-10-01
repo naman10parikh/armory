@@ -8,12 +8,12 @@ source_url: https://github.com/Ansvar-Systems/Dutch-law-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-07-07T03:56:23Z"
 ---
 ## What it is

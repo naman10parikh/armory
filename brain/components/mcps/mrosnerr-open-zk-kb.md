@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-28T08:44:32Z"
+pushed_at: "2026-09-18T08:44:14Z"
 ---
 ## What it is
 MCP server `Open ZK KB`, catalogued on PulseMCP. Zettelkasten knowledge base for AI assistants with full-text and semantic search.

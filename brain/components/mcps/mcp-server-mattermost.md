@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
-pushed_at: "2026-09-01T09:46:18Z"
+forks: 12
+pushed_at: "2026-10-01T10:12:32Z"
 ---
 ## What it is
 Lets AI assistants read, search, and post messages in Mattermost channels, manage threads, reactions, files, and users with 38 tools.

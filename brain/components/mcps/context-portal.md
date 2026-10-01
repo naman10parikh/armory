@@ -8,7 +8,7 @@ source_url: https://github.com/greatscottymac/context-portal
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 765
+stars: 767
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

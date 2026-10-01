@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T02:20:15Z"
+pushed_at: "2026-09-29T06:55:29Z"
 ---
 ## What it is
 Enables users to convert recorded birth times into true solar time for BaZi / Four Pillars charting, applying historical DST, longitude, and equation-of-time corrections. It also detects nonexistent local times and warns when a corrected time is near an hour-branch boundary.

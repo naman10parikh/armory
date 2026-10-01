@@ -8,12 +8,12 @@ source_url: https://github.com/vmoranv/jshookmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1970
+stars: 2021
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 457
-pushed_at: "2026-08-30T12:36:15Z"
+forks: 459
+pushed_at: "2026-10-01T02:57:38Z"
 ---
 ## What it is
 MCP server `JSHook`, catalogued on PulseMCP. JavaScript analysis, security auditing, browser automation, and hook injection via MCP.

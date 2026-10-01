@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T08:55:26Z"
+pushed_at: "2026-09-07T13:25:50Z"
 ---
 ## What it is
 Exposes tools to list and save prompts from the Pretty Prompt library, enabling integration with AI editors like Cursor and Claude Desktop.

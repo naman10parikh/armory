@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T14:22:23Z"
+pushed_at: "2026-09-16T23:27:24Z"
 ---
 ## What it is
 Governed Prometheus + Grafana operations — firing-alert and scrape-target RCA, alert noise/flapping analysis, silences, and dashboards, with unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.

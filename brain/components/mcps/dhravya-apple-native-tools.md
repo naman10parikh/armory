@@ -8,11 +8,11 @@ source_url: https://github.com/supermemoryai/apple-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3130
+stars: 3125
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 287
+forks: 290
 pushed_at: "2025-08-11T03:13:27Z"
 ---
 ## What it is

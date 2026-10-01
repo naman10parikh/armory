@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:34:11Z"
+pushed_at: "2026-09-02T19:57:31Z"
 ---
 ## What it is
 Provides real-time stock quotes including price, change, volume, market cap, and company name for major US and international exchanges, with pay-per-call access via x402 micropayments and no API key or signup required.

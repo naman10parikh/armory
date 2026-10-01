@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-04-08T15:48:00Z"
+pushed_at: "2026-09-03T13:33:19Z"
 ---
 ## What it is
 MCP server `Webcomic Site`, catalogued on PulseMCP. Template framework for building MCP-enabled webcomic archives deployable as static sites and Netlify Functions.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-13T17:14:21Z"
+pushed_at: "2026-09-06T04:46:32Z"
 ---
 ## What it is
 MCP server `ReftrixMCP by TKMD`, catalogued on PulseMCP. Web design analysis with 26 tools for layout, motion, quality assessment, and semantic search via pgvector.

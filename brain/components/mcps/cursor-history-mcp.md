@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-03-08T09:13:04Z"
+pushed_at: "2026-09-08T23:01:33Z"
 ---
 ## What it is
 MCP server for browsing, searching, exporting, and backing up your Cursor AI chat history directly into Claude via natural language.

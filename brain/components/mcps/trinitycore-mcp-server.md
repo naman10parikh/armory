@@ -8,12 +8,12 @@ source_url: https://github.com/agatho/trinitycore-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-08-31T03:30:47Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/gaspareduard/Omada-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
+forks: 8
 pushed_at: "2026-04-05T12:55:10Z"
 ---
 ## What it is

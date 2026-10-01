@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:44:24Z"
+pushed_at: "2026-09-26T21:47:18Z"
 ---
 ## What it is
 MCP server `Studio Ghibli Fan API`, catalogued on PulseMCP. Browse Studio Ghibli film catalog via the unofficial fan API.

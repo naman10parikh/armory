@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T06:40:40Z"
+pushed_at: "2026-09-07T19:08:37Z"
 ---
 ## What it is
 MCP server that enables an agent to spawn sub-agents (a crew) via a local tool, allowing delegation of large tasks to parallel workers with a human approval gate and efficient token usage.

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
-stars: 3355
-forks: 364
-pushed_at: "2026-09-01T12:52:48Z"
+stars: 3362
+forks: 367
+pushed_at: "2026-10-01T09:54:18Z"
 ---
 ## What it is
 🎖️ 📇 ☁️ Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included

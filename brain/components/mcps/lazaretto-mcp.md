@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T00:01:52Z"
+pushed_at: "2026-09-22T17:55:26Z"
 ---
 ## What it is
 An MCP server that lets an agent verify a skill, tool, or package before it installs it.

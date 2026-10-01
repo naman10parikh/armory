@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T04:10:57Z"
+pushed_at: "2026-09-18T06:06:51Z"
 ---
 ## What it is
 MCP server that wraps the movie reservation GraphQL API, providing tools to get catalog, request seats, and check reservation status.

@@ -8,12 +8,12 @@ source_url: https://github.com/opentofu/opentofu-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 108
+stars: 110
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-07-15T12:43:06Z"
+forks: 7
+pushed_at: "2026-09-21T08:45:27Z"
 ---
 ## What it is
 MCP server `OpenTofu Registry`, catalogued on PulseMCP. Enables AI systems to search for and retrieve detailed information about OpenTofu Registry components including providers, modules, resources, and documentation for infrastructure-as-code tasks.

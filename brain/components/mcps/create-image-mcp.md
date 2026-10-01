@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-10T10:08:13Z"
+pushed_at: "2026-09-26T12:07:51Z"
 ---
 ## What it is
 An MCP server that generates and edits images using OpenAI's GPT Image model, allowing users to create images from text descriptions and edit existing images through natural language.

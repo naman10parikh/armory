@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-25T08:32:26Z"
+pushed_at: "2026-09-20T15:40:20Z"
 ---
 ## What it is
 MCP server `WHO Global Health Observatory`, catalogued on PulseMCP. WHO Global Health Observatory — 3,059 indicators across 194 member states.

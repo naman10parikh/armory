@@ -8,11 +8,11 @@ source_url: https://github.com/dkmaker/mcp-rest-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 101
+stars: 102
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
+forks: 20
 pushed_at: "2026-04-06T22:25:43Z"
 ---
 ## What it is

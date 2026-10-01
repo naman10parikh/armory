@@ -8,12 +8,12 @@ source_url: https://github.com/jldb-xyz/odoo-assistant-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-01T04:18:37Z"
+pushed_at: "2026-09-27T03:55:22Z"
 ---
 ## What it is
 MCP server `Odoo Assistant`, catalogued on PulseMCP. Integrates with Odoo ERP systems via XML-RPC to provide model discovery, CRUD operations, workflow automation, and reusable procedure storage.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T11:56:15Z"
+pushed_at: "2026-09-07T16:16:59Z"
 ---
 ## What it is
 Enables AI agents to scan real-time search data for brand threats, security vulnerabilities, and DeFi risks via MCP-compatible tools.

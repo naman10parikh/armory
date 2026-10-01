@@ -8,13 +8,13 @@ source_url: https://github.com/ikraamg/better_css
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-19T16:50:34Z"
+pushed_at: "2026-09-04T17:41:02Z"
 ---
 ## What it is
 Enables CSS layout verification and debugging by extracting deterministic, diffable rendered layout from a browser, allowing agents to inspect, explain, and diff CSS changes.

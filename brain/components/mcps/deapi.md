@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-05-04T10:13:46Z"
+pushed_at: "2026-09-16T05:11:30Z"
 ---
 ## What it is
 MCP server `DeAPI`, catalogued on PulseMCP. AI inference API for audio transcription, image generation, video creation, TTS, OCR, and embeddings.

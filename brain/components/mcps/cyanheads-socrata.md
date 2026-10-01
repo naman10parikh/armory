@@ -8,12 +8,12 @@ source_url: https://github.com/cyanheads/socrata-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-22T21:40:50Z"
+pushed_at: "2026-09-22T20:48:47Z"
 ---
 ## What it is
 MCP server `Socrata`, catalogued on PulseMCP. Searches and queries government open-data portals powered by Socrata using SoQL, with DuckDB integration for large dataset analysis.

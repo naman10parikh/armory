@@ -8,13 +8,13 @@ source_url: https://github.com/neo4j-contrib/gds-agent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 96
+stars: 97
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 22
-pushed_at: "2026-08-28T14:46:19Z"
+pushed_at: "2026-09-21T13:09:20Z"
 ---
 ## What it is
 Enables LLMs to run complex graph algorithms on Neo4j databases, answering graph-related questions by selecting and executing appropriate parameterised graph algorithms.

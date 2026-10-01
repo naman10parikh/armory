@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:56:54Z"
+pushed_at: "2026-09-25T23:21:25Z"
 ---
 ## What it is
 MCP server for querying Santa Clara County open data via Socrata APIs, enabling dataset search, SoQL queries, and metadata retrieval.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-09T08:52:01Z"
+pushed_at: "2026-09-30T04:58:47Z"
 ---
 ## What it is
 Enables natural language queries to retrieve Korean real estate transaction data (land, commercial, apartments) from the public API, returning structured tables and summary statistics.

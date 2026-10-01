@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-17T10:03:42Z"
+pushed_at: "2026-09-27T09:28:00Z"
 ---
 ## What it is
 An MCP server that provides tools to fetch live, version-accurate documentation, changelogs, examples, and method signatures for npm and PyPI packages, preventing AI coding agents from hallucinating stale APIs.

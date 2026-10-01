@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T01:11:38Z"
+pushed_at: "2026-09-22T02:27:07Z"
 ---
 ## What it is
 A conversational MCP server that provides natural-language access to Phish's show history, setlists, and song statistics via live Phish.net data.

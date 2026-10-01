@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T22:16:18Z"
+pushed_at: "2026-09-04T22:59:34Z"
 ---
 ## What it is
 An MCP server that protects AI agents and RAG systems from adversarial poisoning attacks like prompt injection, steganography, and data anomalies through multi-layer sanitization, entropy-based detection, and consensus verification.

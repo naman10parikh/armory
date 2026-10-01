@@ -8,13 +8,13 @@ source_url: https://github.com/takashiishida/arxiv-latex-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 145
+stars: 146
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
-pushed_at: "2026-08-24T09:33:03Z"
+forks: 17
+pushed_at: "2026-09-19T07:30:22Z"
 ---
 ## What it is
 An MCP server that enables MCP clients to directly access and process arXiv papers by fetching the LaTeX source, improving mathematical content understanding.

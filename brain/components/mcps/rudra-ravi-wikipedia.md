@@ -8,11 +8,11 @@ source_url: https://github.com/rudra-ravi/wikipedia-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 291
+stars: 298
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 52
+forks: 58
 pushed_at: "2026-05-01T03:39:08Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/pouyahasanamreji/continuum
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 110
+stars: 111
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
+forks: 18
 pushed_at: "2026-05-14T07:37:02Z"
 ---
 ## What it is

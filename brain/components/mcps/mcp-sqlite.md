@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-28T14:31:33Z"
+pushed_at: "2026-09-09T12:06:17Z"
 ---
 ## What it is
 MCP tool server providing SQLite database access for AI agents.

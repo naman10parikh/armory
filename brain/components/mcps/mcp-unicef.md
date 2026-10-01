@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:31:48Z"
+pushed_at: "2026-09-28T22:31:09Z"
 ---
 ## What it is
 Provides access to UNICEF data on global statistics about child health, enabling AI agents to query child health indicators.

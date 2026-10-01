@@ -8,13 +8,13 @@ source_url: https://github.com/RaffaelFerro/synapse
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-02-24T16:14:14Z"
+pushed_at: "2026-09-02T18:54:52Z"
 ---
 ## What it is
 A lightweight MCP server that provides long-term memory for LLMs by storing and retrieving important facts, decisions, and preferences through smart semantic search and automatic organization.

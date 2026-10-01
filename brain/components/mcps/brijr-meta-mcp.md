@@ -8,13 +8,13 @@ source_url: https://github.com/brijr/meta-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 196
+stars: 200
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, mcp]
-forks: 71
+forks: 74
 pushed_at: "2026-05-28T19:22:29Z"
 ---
 ## What it is

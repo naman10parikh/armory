@@ -8,13 +8,13 @@ source_url: https://github.com/gabrielanhaia/remarkable-brain
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-12T21:08:19Z"
+forks: 4
+pushed_at: "2026-09-29T05:12:15Z"
 ---
 ## What it is
 Enables searching and exploring handwritten reMarkable notebooks through a natural conversation with Claude Desktop, with full-text search, classification, and source citations.

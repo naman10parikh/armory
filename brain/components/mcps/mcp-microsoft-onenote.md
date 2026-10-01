@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T23:04:38Z"
+pushed_at: "2026-09-26T19:45:15Z"
 ---
 ## What it is
 Enables AI agents to query and interact with Microsoft OneNote data via natural language, as part of the Pipeworx MCP gateway.

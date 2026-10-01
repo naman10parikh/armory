@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-21T12:03:05Z"
+pushed_at: "2026-09-04T09:43:28Z"
 ---
 ## What it is
 Provides advisory AI-governance checks for MCP hosts and coding agents, enabling policy verdicts, PII masking, and audit traces before executing tool calls.

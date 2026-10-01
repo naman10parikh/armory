@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T18:59:25Z"
+pushed_at: "2026-09-29T10:25:07Z"
 ---
 ## What it is
 MCP server for the Partiri Cloud PaaS platform. Enables AI agents to manage workspaces, projects, services, deployments, and metrics.

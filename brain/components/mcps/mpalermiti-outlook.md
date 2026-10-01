@@ -8,12 +8,12 @@ source_url: https://github.com/mpalermiti/outlook-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-07-19T01:02:13Z"
+forks: 9
+pushed_at: "2026-10-01T06:04:37Z"
 ---
 ## What it is
 MCP server `Outlook`, catalogued on PulseMCP. Microsoft Outlook personal account access — 51 tools for mail, calendar, contacts, tasks, and drafts via Microsoft Graph.

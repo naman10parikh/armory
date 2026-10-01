@@ -8,12 +8,12 @@ source_url: https://github.com/eduard256/ozon-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 55
+stars: 70
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
+forks: 13
 pushed_at: "2026-06-06T22:03:41Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-19T08:37:22Z"
+pushed_at: "2026-09-29T22:35:20Z"
 ---
 ## What it is
 MCP server `CashPilot`, catalogued on PulseMCP. Self-hosted passive income fleet management with earnings monitoring, service deployment, and Docker worker control.

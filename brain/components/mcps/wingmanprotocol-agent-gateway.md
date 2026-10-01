@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T02:50:24Z"
+pushed_at: "2026-10-01T07:08:07Z"
 ---
 ## What it is
 MCP server that gives AI agents a durable identity, persistent browser, memory, and coordination tools, enabling them to maintain state across sessions and act on the live web.

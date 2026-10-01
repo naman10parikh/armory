@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T06:47:16Z"
+pushed_at: "2026-09-02T14:27:16Z"
 ---
 ## What it is
 A local Model Context Protocol server that helps Codex turn requests into atomic tasks, manage plans, and rigorously verify completions without using any model API.

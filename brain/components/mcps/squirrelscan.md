@@ -8,13 +8,13 @@ source_url: https://github.com/squirrelscan/squirrelscan
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 265
+stars: 270
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
-pushed_at: "2026-09-02T03:39:56Z"
+forks: 16
+pushed_at: "2026-10-01T14:17:54Z"
 ---
 ## What it is
 MCP server for website QA auditing, covering SEO, performance, security, accessibility, and agent experience with 260+ rules and AI-optimized output for coding agents.

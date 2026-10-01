@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T20:52:37Z"
+pushed_at: "2026-09-22T17:13:05Z"
 ---
 ## What it is
 Exposes the Mundane agent-to-human marketplace as MCP tools, enabling agents to post tasks, search workers, and make offers.

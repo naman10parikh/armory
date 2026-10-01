@@ -8,13 +8,13 @@ source_url: https://github.com/pushplus/pushplus-MCP-Server-TypeScript
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-26T07:50:14Z"
+pushed_at: "2026-09-14T07:30:16Z"
 ---
 ## What it is
 Enables AI assistants to send push notifications to WeChat, email, and other channels via PushPlus, supporting multiple message formats and channels.

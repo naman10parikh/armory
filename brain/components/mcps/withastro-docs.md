@@ -8,11 +8,11 @@ source_url: https://github.com/withastro/docs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 13
 pushed_at: "2025-10-25T18:57:45Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T03:20:25Z"
+pushed_at: "2026-09-23T12:39:45Z"
 ---
 ## What it is
 Lifts local stdio MCP servers into remote Streamable HTTP endpoints for cloud-hosted AI clients, with bearer-token auth and tool policy filtering.

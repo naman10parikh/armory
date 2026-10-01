@@ -8,13 +8,13 @@ source_url: https://github.com/skiddgoddamn/yandex-marketing-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T17:06:20Z"
+pushed_at: "2026-09-11T17:14:46Z"
 ---
 ## What it is
 MCP server for managing Yandex Direct advertising, Yandex Metrica analytics, Wordstat keyword research, and Yandex Webmaster SEO tools, with self-configuring OAuth; provides 153 tools for complete ad and search workflows from AI assistants.

@@ -8,13 +8,13 @@ source_url: https://github.com/vedmaka/openwebui-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-03T23:30:01Z"
+forks: 2
+pushed_at: "2026-09-28T16:02:29Z"
 ---
 ## What it is
 Open WebUI MCP server that exposes ask and list_models tools, letting any MCP client query Open WebUI models through the full tool-calling loop (including server-side tools) via stdio, SSE, or streamable HTTP transports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-03T09:25:33Z"
 ---
 ## What it is
 Enables triathlon coaches and athletes to interact with Garmin Connect, including retrieving health/activity data, building and uploading structured workouts (cycling, running, swimming, brick), and accessing coaching analytics like readiness, load, and performance trends.

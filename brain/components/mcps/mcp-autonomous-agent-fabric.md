@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T19:13:21Z"
+pushed_at: "2026-09-06T22:03:01Z"
 ---
 ## What it is
 An MCP server that provides a secure, sandboxed tool execution fabric for AI agents, featuring JSON-RPC 2.0 protocol support, read-only constraints, and an observability inspector dashboard.

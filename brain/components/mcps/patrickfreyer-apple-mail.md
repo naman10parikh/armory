@@ -8,11 +8,11 @@ source_url: https://github.com/patrickfreyer/apple-mail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 201
+stars: 221
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 52
+forks: 56
 pushed_at: "2026-08-04T04:35:46Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/SylphxAI/lookout
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T02:39:14Z"
+pushed_at: "2026-09-25T08:10:02Z"
 ---
 ## What it is
 MCP server enabling local-first web search, fetch, extract, and caching with citeable excerpts, no API key required. Supports research workflows for agents and apps.

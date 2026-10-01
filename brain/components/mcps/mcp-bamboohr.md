@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:42:59Z"
+pushed_at: "2026-09-25T22:03:12Z"
 ---
 ## What it is
 MCP server that wraps the BambooHR API v1, allowing AI agents to list employees, retrieve employee details, directories, time-off requests, and employee files.

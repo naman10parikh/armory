@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T04:26:21Z"
+pushed_at: "2026-09-30T20:38:58Z"
 ---
 ## What it is
 Enables semantic search over personal markdown notes by indexing them into a vector database and exposing search, reindex, and status tools via MCP.

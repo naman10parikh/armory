@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T07:10:03Z"
+pushed_at: "2026-09-15T18:45:37Z"
 ---
 ## What it is
 MCP server that simplifies interaction with Wildberries API, providing unified access to analytics, promotion statistics, sales funnel data, search queries, stock reports, and EVIRMA PRO report imports.

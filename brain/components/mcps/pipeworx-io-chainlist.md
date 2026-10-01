@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:47:29Z"
+pushed_at: "2026-09-25T22:23:04Z"
 ---
 ## What it is
 MCP server `Chainlist`, catalogued on PulseMCP. Look up EVM-compatible blockchain networks by chain ID, including RPC endpoints, native currency, and network configuration from the Chainlist registry.

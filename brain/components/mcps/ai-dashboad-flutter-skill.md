@@ -8,11 +8,11 @@ source_url: https://github.com/ai-dashboad/flutter-skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 363
+stars: 383
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 54
+forks: 59
 pushed_at: "2026-09-01T11:56:02Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-25T02:09:50Z"
+pushed_at: "2026-09-11T17:32:39Z"
 ---
 ## What it is
 Provides AI agents with hands-on control of Google SEO and analytics tools including Search Console, GA4, Tag Manager, Indexing API, and PageSpeed Insights, with self-configuring OAuth2.

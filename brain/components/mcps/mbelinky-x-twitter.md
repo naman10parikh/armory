@@ -8,11 +8,11 @@ source_url: https://github.com/mbelinky/x-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
+forks: 9
 pushed_at: "2025-06-27T20:21:23Z"
 ---
 ## What it is

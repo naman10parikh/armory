@@ -8,13 +8,13 @@ source_url: https://github.com/pipeworx-io/mcp-opentopography
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:30:07Z"
+pushed_at: "2026-09-26T20:51:57Z"
 ---
 ## What it is
 Enables querying OpenTopography global DEM rasters and point elevations through tools like point_elevation, dem, and datasets.

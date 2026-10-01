@@ -8,11 +8,11 @@ source_url: https://github.com/mlt-oss/firstdata
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 182
+stars: 183
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 32
+forks: 33
 pushed_at: "2026-08-17T09:27:51Z"
 ---
 ## What it is

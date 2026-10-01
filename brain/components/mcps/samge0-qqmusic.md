@@ -8,12 +8,12 @@ source_url: https://github.com/samge0/mcp-qqmusic-test-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-08-13T17:03:16Z"
+pushed_at: "2026-09-02T21:42:15Z"
 ---
 ## What it is
 MCP server `QQ Music`, catalogued on PulseMCP. Provides a bridge to QQ Music API for searching, playing, and managing music playlists through natural language interactions without dealing with underlying API complexities.

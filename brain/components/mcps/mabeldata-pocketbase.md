@@ -8,12 +8,12 @@ source_url: https://github.com/mabeldata/pocketbase-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2025-04-22T17:01:37Z"
+pushed_at: "2026-09-10T19:41:39Z"
 ---
 ## What it is
 MCP server `PocketBase`, catalogued on PulseMCP. Interact with a PocketBase instance. Allows you to fetch, list, create, update, and manage records and files in your PocketBase collections.

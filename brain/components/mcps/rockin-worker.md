@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T18:36:04Z"
+pushed_at: "2026-10-01T08:33:30Z"
 ---
 ## What it is
 MCP server that exposes tools to search and list GitHub repositories synced to SQLite, enabling natural language queries for top repos by stars or by name.

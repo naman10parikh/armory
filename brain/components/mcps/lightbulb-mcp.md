@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-27T20:13:38Z"
+pushed_at: "2026-09-22T22:12:15Z"
 ---
 ## What it is
 MCP server to connect Claude Code, Codex, or Cursor to the Lightbulb Partners Agents platform, enabling domain agents, code workspaces, connectors, and more.

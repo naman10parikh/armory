@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T16:24:19Z"
+pushed_at: "2026-09-16T16:23:46Z"
 ---
 ## What it is
 MCP server for StorEdge self-storage management platform, enabling agents to manage tenants, units, leads, billing, insurance, tasks, and move-in/out pipelines via natural language.

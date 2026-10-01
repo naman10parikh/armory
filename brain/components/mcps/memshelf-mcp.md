@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T09:00:35Z"
+pushed_at: "2026-09-28T09:32:24Z"
 ---
 ## What it is
 Enables AI agents to offload and recall working memory as indexed episodes with LLM-written digests, reducing token usage and preserving detail across sessions.

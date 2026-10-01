@@ -8,13 +8,13 @@ source_url: https://github.com/domdomegg/starling-bank-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-05T17:47:06Z"
+forks: 3
+pushed_at: "2026-09-09T22:14:41Z"
 ---
 ## What it is
 MCP server for Starling Bank API integration, enabling AI agents to manage accounts, view transactions, and send payments via natural language.

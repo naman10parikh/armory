@@ -8,11 +8,11 @@ source_url: https://github.com/langchain-ai/mcpdoc
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1032
+stars: 1031
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 129
+forks: 130
 pushed_at: "2026-08-20T06:34:29Z"
 ---
 ## What it is

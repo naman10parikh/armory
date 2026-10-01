@@ -8,12 +8,12 @@ source_url: https://github.com/btopn/OpenInsider-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 99
+stars: 101
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
+forks: 10
 pushed_at: "2026-08-07T15:13:27Z"
 ---
 ## What it is

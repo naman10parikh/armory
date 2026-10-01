@@ -8,12 +8,12 @@ source_url: https://github.com/ravikiranvm/aws-finops-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 182
+stars: 183
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 54
+forks: 55
 pushed_at: "2025-06-11T13:53:12Z"
 ---
 ## What it is

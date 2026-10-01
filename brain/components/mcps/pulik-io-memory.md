@@ -8,11 +8,11 @@ source_url: https://github.com/puliczek/mcp-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 153
+stars: 160
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 16
 pushed_at: "2025-04-24T10:05:08Z"
 ---
 ## What it is

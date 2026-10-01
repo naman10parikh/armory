@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-30T01:21:58Z"
+pushed_at: "2026-09-26T01:44:41Z"
 ---
 ## What it is
 MCP server `Zerikai Memory`, catalogued on PulseMCP. Workspace-isolated persistent memory server combining ChromaDB vector search and tree-sitter code indexing, with cost-optimized routing between local Ollama and DeepSeek cloud synthesis.

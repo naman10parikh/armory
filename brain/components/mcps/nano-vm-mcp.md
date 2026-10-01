@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-29T09:46:32Z"
+pushed_at: "2026-09-12T01:46:57Z"
 ---
 ## What it is
 Governed agent execution gateway for LLM workflows, providing deterministic FSM-based execution, audit trails, and idempotency guarantees via MCP.

@@ -8,13 +8,13 @@ source_url: https://github.com/AceDataCloud/FaceTransformMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T17:26:47Z"
+pushed_at: "2026-09-30T06:24:26Z"
 ---
 ## What it is
 Enables face keypoint detection, beautification, age/gender transform, face swap, cartoonization, and liveness detection via AceDataCloud API.

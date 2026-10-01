@@ -8,13 +8,13 @@ source_url: https://github.com/qarnet/serial-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-01T19:04:22Z"
+forks: 0
+pushed_at: "2026-09-23T21:23:56Z"
 ---
 ## What it is
 MCP server for serial ports — non-blocking reads, DTR/RTS, streaming subscriptions, port allowlist.

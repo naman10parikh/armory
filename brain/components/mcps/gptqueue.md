@@ -8,13 +8,13 @@ source_url: https://github.com/rahulrajaram/gptqueue
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-28T00:02:56Z"
+pushed_at: "2026-09-30T03:09:15Z"
 ---
 ## What it is
 Enables AI agents to discover each other and exchange typed messages through a Redis-backed queue via MCP tool calls, with support for registration, heartbeat, and queue management.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-07T17:57:59Z"
+pushed_at: "2026-09-30T14:43:18Z"
 ---
 ## What it is
 MCP server `Symbols of Wealth Studio`, catalogued on PulseMCP. AI-powered creative social media content studio for generating themed visual content.

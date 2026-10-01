@@ -8,13 +8,13 @@ source_url: https://github.com/ellmos-ai/ellmos-blender-use-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T05:52:38Z"
+pushed_at: "2026-09-30T22:58:06Z"
 ---
 ## What it is
 Enables headless Blender asset QA and FBX reimport verification for game and 3D asset pipelines, checking mesh count, material count, and naming prefixes with deterministic JSON results.

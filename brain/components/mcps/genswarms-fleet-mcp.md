@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-05T20:43:27Z"
+pushed_at: "2026-09-05T18:04:31Z"
 ---
 ## What it is
 MCP server that connects any MCP harness (Claude Code, claude.ai, Cursor) to a fleet of GenSwarms swarms for observation, configuration, and optional operation.

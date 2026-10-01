@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T04:25:24Z"
+pushed_at: "2026-09-04T03:20:46Z"
 ---
 ## What it is
 Exposes the Bloom Growth REST API (EOS/Traction-style meetings, rocks, scorecards, to-dos, and org-chart management) as MCP tools.

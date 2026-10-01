@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:04:45Z"
+pushed_at: "2026-09-28T22:29:51Z"
 ---
 ## What it is
 Enables querying Japanese government statistics from e-Stat, including metadata, data observations, and catalog browsing.

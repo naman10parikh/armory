@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T21:21:09Z"
+pushed_at: "2026-09-30T16:25:46Z"
 ---
 ## What it is
 Runs a free Collimer AI-search visibility scan on any website via one tool (collimer_scan). Returns a 0–100 score, confidence interval, the biggest gap, and a branded report URL across ChatGPT, Claude, Gemini, Perplexity, and Google AI Overviews.

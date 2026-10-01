@@ -8,13 +8,13 @@ source_url: https://github.com/TommyBez/skillsboard
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T19:41:58Z"
+pushed_at: "2026-10-01T14:15:48Z"
 ---
 ## What it is
 Skills Board is a free, open-source (MIT) shared library for the AI skills a team recommends, with every skill kept connected to its original source. Agents connect through an authenticated remote MCP server (browser sign-in, no API key to copy) to search team skills and collections, retrieve instal

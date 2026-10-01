@@ -8,13 +8,13 @@ source_url: https://github.com/veeam-ai/veeam-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-04-01T07:55:45Z"
+forks: 10
+pushed_at: "2026-09-22T18:01:37Z"
 ---
 ## What it is
 Extends Veeam Intelligence to MCP-compatible clients, enabling secure, real-time operational insight across Veeam Backup & Replication, Veeam ONE, and VSPC via natural language or AI workflows.

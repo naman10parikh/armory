@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T12:31:53Z"
+pushed_at: "2026-09-24T11:31:08Z"
 ---
 ## What it is
 A remote MCP server for Zammad, enabling ticket management, search, and OAuth authentication.

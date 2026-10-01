@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T10:38:17Z"
+pushed_at: "2026-09-28T20:27:06Z"
 ---
 ## What it is
 A two-layer nested MCP server that acts as a telecom Revenue Assurance knowledge agent. It uses an orchestrator LLM (Llama 3.3 70B via Groq) to decompose questions, retrieve from a local vector store of RA documents, and synthesize answers, all running on free tiers.

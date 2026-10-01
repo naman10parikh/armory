@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T00:36:56Z"
+pushed_at: "2026-09-30T23:31:49Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Paxaver school lunch platform, allowing users to check menus, order lunch, manage wallet funds, register for events, donate, and perform administrative tasks like managing restaurants and menu items.

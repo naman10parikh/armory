@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-03-10T20:40:14Z"
+pushed_at: "2026-09-23T12:59:03Z"
 ---
 ## What it is
 MCP server `Google Ads & GA4`, catalogued on PulseMCP. Manages Google Ads campaigns and Google Analytics 4 reporting with a preview-confirm safety system for write operations.

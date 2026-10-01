@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T21:13:52Z"
+pushed_at: "2026-09-25T18:33:57Z"
 ---
 ## What it is
 Enables interaction with SonarCloud projects, issues, quality gates, and security hotspots through natural language.

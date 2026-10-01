@@ -12,8 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-08-12T03:41:16Z"
+forks: 2
+pushed_at: "2026-09-29T19:39:30Z"
 ---
 ## What it is
 MCP server `Safety Warden`, catalogued on PulseMCP. MCP proxy adding security scanning, behavioral profiling, risk gating, and safe tool call execution.

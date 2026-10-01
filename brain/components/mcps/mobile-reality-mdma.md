@@ -8,12 +8,12 @@ source_url: https://github.com/mobilereality/mdma
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 66
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-10T10:51:32Z"
+pushed_at: "2026-09-29T15:26:03Z"
 ---
 ## What it is
 MCP server `MDMA`, catalogued on PulseMCP. Extends Markdown with interactive components — forms, approval gates, tables, and webhooks — enabling AI assistants to produce structured, actionable documents instead of plain text.

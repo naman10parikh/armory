@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T18:09:10Z"
+pushed_at: "2026-09-24T06:53:27Z"
 ---
 ## What it is
 MCP server that scores dialogue transcripts for bridging quality, offering per-speaker indicator scores with evidence and tools for parsing, comparing, and analyzing conversations.

@@ -8,7 +8,7 @@ source_url: https://github.com/imphillip/SoulTavern
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 13
+stars: 15
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

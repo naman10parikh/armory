@@ -8,13 +8,13 @@ source_url: https://github.com/eeshsaxena/whatsapp-mcp-plus
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-22T02:43:40Z"
+forks: 1
+pushed_at: "2026-09-02T21:27:40Z"
 ---
 ## What it is
 A secure, zero-setup WhatsApp MCP server that lets AI assistants read, search, summarize, and (with user confirmation) act on personal WhatsApp chats via a safety-focused toolset, built as a maintained successor to the abandoned whatsapp-mcp.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T00:11:20Z"
+pushed_at: "2026-09-15T03:42:20Z"
 ---
 ## What it is
 Provides free SEC filing fundamentals for US public companies, including financial statements, 10-K/10-Q summaries, and 8-K event histories. No API key or signup required.

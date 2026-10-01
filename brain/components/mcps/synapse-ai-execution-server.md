@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T18:11:38Z"
+pushed_at: "2026-09-02T13:06:32Z"
 ---
 ## What it is
 Node.js + TypeScript server that runs Synapse AI agent graphs with Salesforce integration, performing all AI inference and MCP tool execution to keep Apex within governor limits.

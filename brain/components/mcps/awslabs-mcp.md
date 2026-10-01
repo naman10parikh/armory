@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
-stars: 9653
-forks: 1736
-pushed_at: "2026-09-01T23:59:32Z"
+stars: 9746
+forks: 1782
+pushed_at: "2026-10-01T02:10:33Z"
 ---
 ## What it is
 AWS MCP servers for seamless integration with AWS services and resources.

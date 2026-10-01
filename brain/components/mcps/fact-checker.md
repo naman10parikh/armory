@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:11Z"
+pushed_at: "2026-09-02T19:55:58Z"
 ---
 ## What it is
 Facilitates fact-checking claims by searching the web and returning evidence snippets, with pay-per-call via x402 micropayments on Base L2.

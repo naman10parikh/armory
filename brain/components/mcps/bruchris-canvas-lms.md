@@ -8,12 +8,12 @@ source_url: https://github.com/bruchris/canvas-lms-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-09-01T15:03:07Z"
+forks: 4
+pushed_at: "2026-09-29T00:24:20Z"
 ---
 ## What it is
 MCP server `Canvas LMS`, catalogued on PulseMCP. TypeScript MCP server for Canvas LMS with 115 tools across courses, assignments, gradebook, and more.

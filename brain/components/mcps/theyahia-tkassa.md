@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-06T12:36:33Z"
+pushed_at: "2026-09-05T14:03:15Z"
 ---
 ## What it is
 MCP server `T-Kassa`, catalogued on PulseMCP. T-Bank/Tinkoff payment processing via the T-Kassa API — manage payments, refunds, customers, SBP fast payments, and fiscal receipts.

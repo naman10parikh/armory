@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:55:49Z"
+pushed_at: "2026-09-24T13:27:57Z"
 ---
 ## What it is
 An MCP server for the Spanish BOE open-data API that retrieves metadata, structure, and full consolidated text of Spanish legislation using BOE IDs or dates, providing verifiable ELI identifiers and citations.

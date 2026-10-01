@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T11:25:47Z"
+pushed_at: "2026-09-02T19:58:01Z"
 ---
 ## What it is
 Enables AI agents to fetch crypto wallet holdings across chains, including ETH, ERC-20 tokens, and USD values, with pay-per-call access via x402 micropayments.

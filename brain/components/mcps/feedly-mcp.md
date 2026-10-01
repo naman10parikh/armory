@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T21:08:40Z"
+pushed_at: "2026-09-13T09:49:45Z"
 ---
 ## What it is
 Enables Claude to read your Feedly subscriptions via a local stdio server, listing folders and feeds, fetching recent articles, checking unread counts, searching for new feeds, and optionally marking items as read while keeping your API token on your machine.

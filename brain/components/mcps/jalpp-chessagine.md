@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-08-24T23:46:48Z"
+pushed_at: "2026-09-29T19:11:18Z"
 ---
 ## What it is
 MCP server `ChessAgine (Stockfish)`, catalogued on PulseMCP. Integrates with Stockfish chess engine to provide deep positional analysis, strategic theme evaluation across material/mobility/space/king safety dimensions, and natural language descriptions of chess positions for coaching and game analysis.

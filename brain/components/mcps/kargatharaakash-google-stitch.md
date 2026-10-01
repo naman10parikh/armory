@@ -8,11 +8,11 @@ source_url: https://github.com/kargatharaakash/stitch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 121
+stars: 122
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 28
 pushed_at: "2026-02-13T09:16:39Z"
 ---
 ## What it is

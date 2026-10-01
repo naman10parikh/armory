@@ -12,8 +12,8 @@ stars: 128
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
-pushed_at: "2026-08-24T20:46:06Z"
+forks: 27
+pushed_at: "2026-09-09T01:39:27Z"
 ---
 ## What it is
 MCP server `Dart Project Management`, catalogued on PulseMCP. Integrates with Dart's project management platform, enabling direct task and document management through a set of tools for creating, retrieving, updating, and filtering work items by various attributes.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-17T10:53:55Z"
+pushed_at: "2026-09-06T17:15:32Z"
 ---
 ## What it is
 Multi-jurisdictional legal AI MCP server for Spanish, Latin American, and European law. 11 tools: analyze, audit, draft, jurisprudencia search (CENDOJ ~141k + Colombian courts ~106k), cross-border comparison, Monte Carlo litigation simulation, doctrina, redteam, and more. ISO 31000 certainty locks. 

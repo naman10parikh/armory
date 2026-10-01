@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T18:13:48Z"
+pushed_at: "2026-09-12T00:44:46Z"
 ---
 ## What it is
 MCP server that connects AI assistants to the Statos football analytics platform, enabling natural language queries for match predictions, betting picks, league information, and admin market-suppression controls.

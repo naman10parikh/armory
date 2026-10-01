@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T18:01:37Z"
+pushed_at: "2026-09-26T22:23:44Z"
 ---
 ## What it is
 MCP server `Pipeworx Wikipedia`, catalogued on PulseMCP. Wraps the Wikipedia REST API for article search, summaries, and content retrieval without authentication.

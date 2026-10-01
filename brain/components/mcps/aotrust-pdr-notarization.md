@@ -8,13 +8,13 @@ source_url: https://github.com/GitSerge-crypto/aotrust-skills
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T04:52:42Z"
+pushed_at: "2026-09-30T15:34:59Z"
 ---
 ## What it is
 OTrust issues cryptographic PDRs (Provenance Data Records) — proving a digital artifact existed at a specific time. $0.01 per proof. Blockchain-anchored. Publicly verifiable.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-25T21:55:06Z"
+pushed_at: "2026-09-07T09:55:06Z"
 ---
 ## What it is
 MCP server `Lenses`, catalogued on PulseMCP. Explore, transform, and join data in Kafka topics across multiple clusters

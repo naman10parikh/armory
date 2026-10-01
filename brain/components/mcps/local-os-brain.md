@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T07:50:50Z"
+pushed_at: "2026-09-15T05:43:08Z"
 ---
 ## What it is
 Enables safe local system command execution, file operations, hardware diagnostics, and persistent cross-session memory storage via SQLite.

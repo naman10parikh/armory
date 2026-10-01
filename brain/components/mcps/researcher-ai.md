@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T21:12:44Z"
+pushed_at: "2026-09-29T04:53:10Z"
 ---
 ## What it is
 Enables AI-assisted scientific research workflow management through MCP, including project creation, ideation, experiment execution, and artifact handling, with integration for ChatGPT, Codex, and Claude Code.

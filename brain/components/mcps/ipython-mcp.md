@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T04:44:51Z"
+pushed_at: "2026-09-13T05:49:27Z"
 ---
 ## What it is
 Provides a persistent, stateful IPython execution environment for MCP clients, allowing agents to run Python code, define functions and classes, and maintain state across calls. It includes tools for execution, inspection, dynamic tool registration, and robust timeout/recovery handling.

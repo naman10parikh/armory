@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T23:59:54Z"
+pushed_at: "2026-09-03T13:49:57Z"
 ---
 ## What it is
 Enables job-search application tracking through a private application board, managing application facts, stage history, and interview prep documents while leaving summarization and decision-making to the connected agent.

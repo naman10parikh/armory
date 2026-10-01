@@ -8,13 +8,13 @@ source_url: https://github.com/Quality-Max/qmax-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T15:35:46Z"
+forks: 1
+pushed_at: "2026-09-14T12:38:07Z"
 ---
 ## What it is
 Enables coding agents to independently verify web changes by scanning pages, inspecting UI structure, generating Playwright reproductions, and executing tests with structured QA evidence.

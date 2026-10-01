@@ -8,12 +8,12 @@ source_url: https://github.com/Chenmo0414/tukey
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 0
 pushed_at: "2026-08-21T03:59:37Z"
 ---
 ## What it is

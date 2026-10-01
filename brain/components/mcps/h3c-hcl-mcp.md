@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-28T23:54:05Z"
+pushed_at: "2026-09-02T08:13:56Z"
 ---
 ## What it is
 Enables AI agents to interact with local H3C Cloud Lab network simulation environments, allowing discovery of projects, devices, and links, as well as execution of Comware CLI commands.

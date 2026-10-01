@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T10:11:29Z"
+pushed_at: "2026-09-20T20:28:33Z"
 ---
 ## What it is
 Drive the full Instavar Studio video workflow — create, render, approve, publish, and get metrics — from Claude Code or Codex without leaving your terminal.

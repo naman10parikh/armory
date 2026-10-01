@@ -8,12 +8,12 @@ source_url: https://github.com/mareurs/codescout
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-09-02T01:37:04Z"
+forks: 8
+pushed_at: "2026-10-01T07:53:37Z"
 ---
 ## What it is
 MCP server `CodeScout`, catalogued on PulseMCP. IDE-grade code intelligence with LSP integration, semantic search, and persistent project memory.

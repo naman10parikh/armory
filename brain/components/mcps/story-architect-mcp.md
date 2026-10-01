@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T04:06:10Z"
+pushed_at: "2026-09-13T17:00:41Z"
 ---
 ## What it is
 An MCP server for AI-assisted novel writing that manages project structure, tracks plot holes and foreshadowing, audits timeline continuity, and provides writing analytics and prompt generation.

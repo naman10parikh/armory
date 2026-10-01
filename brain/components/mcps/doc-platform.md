@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T20:39:38Z"
+pushed_at: "2026-10-01T10:43:01Z"
 ---
 ## What it is
 Enables MCP-based access to Adhoc documentation, providing search, content retrieval, and feedback issue creation with audience gating and leak protection.

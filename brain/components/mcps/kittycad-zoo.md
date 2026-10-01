@@ -8,12 +8,12 @@ source_url: https://github.com/kittycad/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-01T21:21:13Z"
+pushed_at: "2026-10-01T14:07:16Z"
 ---
 ## What it is
 MCP server `Zoo`, catalogued on PulseMCP. Provides access to Zoo's API for AI-powered CAD operations and text-to-CAD generation

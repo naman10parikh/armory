@@ -8,12 +8,12 @@ source_url: https://github.com/amittell/firewalla-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
-pushed_at: "2026-08-26T04:10:04Z"
+forks: 11
+pushed_at: "2026-10-01T02:04:06Z"
 ---
 ## What it is
 MCP server `Firewalla`, catalogued on PulseMCP. Integrates with Firewalla's MSP API v2 to provide real-time network monitoring, security analysis, and firewall management through 28 specialized tools for security alert monitoring, bandwidth tracking, device management, rule operations, and geographic threat analysis.

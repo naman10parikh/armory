@@ -8,12 +8,12 @@ source_url: https://github.com/D-Ogi/mcp-kdenlive
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 36
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-02-04T01:55:12Z"
 ---
 ## What it is

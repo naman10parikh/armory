@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-29T23:43:00Z"
+pushed_at: "2026-09-23T21:54:11Z"
 ---
 ## What it is
 MCP server `Lindo`, catalogued on PulseMCP. AI-powered website, page, and blog post creation from Claude, Cursor, and other MCP clients.

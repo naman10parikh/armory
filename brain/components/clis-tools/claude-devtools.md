@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 3893
-forks: 298
-pushed_at: "2026-05-13T21:40:54Z"
+stars: 3958
+forks: 301
+pushed_at: "2026-09-26T07:43:48Z"
 ---
 ## What it is
 A desktop app that shows your Claude Code sessions by reading their logs: context use per turn across categories, compaction, sub-agent execution trees and custom notification triggers.

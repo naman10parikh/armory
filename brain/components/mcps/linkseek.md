@@ -8,13 +8,13 @@ source_url: https://github.com/honlnk/linkseek
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T17:33:26Z"
+pushed_at: "2026-09-30T13:04:27Z"
 ---
 ## What it is
 自托管的远程 MCP 服务，为 AI 编程工具提供联网搜索和网页获取能力，并配有网页端管理后台进行密钥和用量管理。

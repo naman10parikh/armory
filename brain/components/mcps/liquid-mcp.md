@@ -8,12 +8,12 @@ source_url: https://github.com/ertad-family/liquid
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 2
 pushed_at: "2026-06-09T18:28:41Z"
 ---
 ## What it is

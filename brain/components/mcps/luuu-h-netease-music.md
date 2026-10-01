@@ -8,11 +8,11 @@ source_url: https://github.com/luuu-h/netease-music-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 73
+stars: 80
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 9
 pushed_at: "2026-05-06T22:13:10Z"
 ---
 ## What it is

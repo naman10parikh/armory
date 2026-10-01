@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-08T17:38:23Z"
+pushed_at: "2026-09-16T08:30:37Z"
 ---
 ## What it is
 MCP server `PrMaat`, catalogued on PulseMCP. Bridges AI tools with PrMaat agent identity management for confirming identities, listing rooms, sending messages, and retrieving cryptographic audit proofs.

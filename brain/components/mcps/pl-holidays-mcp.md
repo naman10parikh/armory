@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T09:01:17Z"
+pushed_at: "2026-09-26T10:46:02Z"
 ---
 ## What it is
 Enables Polish public holiday lookups and business-day arithmetic (e.g., adding business days, counting business days) using the Nager.Date API, defaulting to Poland but supporting 110+ countries.

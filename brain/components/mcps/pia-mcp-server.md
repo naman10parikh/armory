@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T22:21:48Z"
+pushed_at: "2026-09-19T02:37:04Z"
 ---
 ## What it is
 Enables AI to search and retrieve detailed information from U.S. government datasets, including GAO reports, oversight recommendations, congressional bills, and more, with OData filtering and faceted search.

@@ -8,13 +8,13 @@ source_url: https://github.com/dpc00/sublime-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T20:46:34Z"
+pushed_at: "2026-10-01T03:17:03Z"
 ---
 ## What it is
 Hooks AI to Sublime-Text

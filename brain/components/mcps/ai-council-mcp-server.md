@@ -8,12 +8,12 @@ source_url: https://github.com/0xAkuti/ai-council-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 30
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 7
 pushed_at: "2025-06-26T11:04:01Z"
 ---
 ## What it is

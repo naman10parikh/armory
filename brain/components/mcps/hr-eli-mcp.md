@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:56:12Z"
+pushed_at: "2026-09-24T13:28:38Z"
 ---
 ## What it is
 Fetches Croatian legislation from the Narodne novine official gazette with European ELI identifiers and verifiable citations. Provides tools to list issues, get act metadata, and fetch full text.

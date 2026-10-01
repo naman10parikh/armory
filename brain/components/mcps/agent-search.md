@@ -8,12 +8,12 @@ source_url: https://github.com/cedarsaam/agent-search
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-07-08T04:09:07Z"
 ---
 ## What it is

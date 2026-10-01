@@ -8,11 +8,11 @@ source_url: https://github.com/manushi4/screenhand
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2026-04-02T16:40:13Z"
 ---
 ## What it is

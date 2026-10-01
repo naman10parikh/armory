@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-04T07:58:52Z"
+forks: 2
+pushed_at: "2026-09-20T06:54:21Z"
 ---
 ## What it is
 MCP server for Tebra practice management that gives AI agents access to 45 tools for patients, appointments, billing, documents, and clinical data via SOAP and FHIR APIs.

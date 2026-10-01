@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 6
 forks: 3
-pushed_at: "2026-09-01T11:27:34Z"
+pushed_at: "2026-09-29T11:24:04Z"
 ---
 ## What it is
 Hand off conversation context between Claude Desktop projects and across MCP clients. Memory-based, no file clutter.

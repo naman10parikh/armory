@@ -8,13 +8,13 @@ source_url: https://github.com/keepit-official/keepit-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-14T08:43:59Z"
+pushed_at: "2026-09-10T11:27:46Z"
 ---
 ## What it is
 MCP server for interacting with Keepit backup and data protection services. Enables monitoring, management, and security operations through natural language.

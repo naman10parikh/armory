@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T17:54:16Z"
+pushed_at: "2026-09-07T11:49:43Z"
 ---
 ## What it is
 Read-only MCP server for the Perfume Picks fragrance database, enabling fragrance search, detailed note pyramids, curated dupes, similar scents, recommendations, comparisons, trending, and occasion-based scent suggestions.

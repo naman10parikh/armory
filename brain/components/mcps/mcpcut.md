@@ -8,13 +8,13 @@ source_url: https://github.com/musyta-labs/mcpCut
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T08:44:47Z"
+pushed_at: "2026-09-29T12:27:11Z"
 ---
 ## What it is
 A real video editor for AI agents, served over MCP, enabling journaled timeline editing, rendering via FFmpeg/MLT, and deterministic CLI operation.

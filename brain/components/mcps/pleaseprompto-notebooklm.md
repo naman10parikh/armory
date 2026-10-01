@@ -8,12 +8,12 @@ source_url: https://github.com/pleaseprompto/notebooklm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3381
+stars: 3431
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 492
-pushed_at: "2026-05-01T05:51:20Z"
+forks: 539
+pushed_at: "2026-09-10T07:43:58Z"
 ---
 ## What it is
 MCP server `NotebookLM`, catalogued on PulseMCP. Automates Google NotebookLM interactions through browser automation, enabling document querying and notebook library management with stealth capabilities to avoid detection.

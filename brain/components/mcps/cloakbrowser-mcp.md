@@ -8,13 +8,13 @@ source_url: https://github.com/swimmwatch/cloakbrowser-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 55
+stars: 66
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-08-27T23:45:15Z"
+forks: 9
+pushed_at: "2026-09-29T12:53:12Z"
 ---
 ## What it is
 CloakBrowser MCP server for AI agents: Playwright-powered browsing, clean tool forwarding, Docker support, and multi-session HTTP transport.

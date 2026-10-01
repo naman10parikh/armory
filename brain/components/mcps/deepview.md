@@ -8,11 +8,11 @@ source_url: https://github.com/ai-1st/deepview-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2025-08-07T09:49:24Z"
 ---
 ## What it is

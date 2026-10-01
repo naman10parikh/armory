@@ -8,13 +8,13 @@ source_url: https://github.com/dwgx/blender-copilot
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-07-06T23:33:46Z"
+forks: 2
+pushed_at: "2026-09-30T19:39:58Z"
 ---
 ## What it is
 Comprehensive MCP server for Blender with 308 tools across 25 modules, enabling AI-powered 3D creation and full VRChat avatar pipeline.

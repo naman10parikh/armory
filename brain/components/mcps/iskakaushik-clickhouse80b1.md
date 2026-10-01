@@ -8,13 +8,13 @@ source_url: https://github.com/clickhouse/mcp-clickhouse
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 862
+stars: 879
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
-forks: 201
-pushed_at: "2026-09-01T20:12:35Z"
+forks: 208
+pushed_at: "2026-10-01T12:36:26Z"
 ---
 ## What it is
 MCP server `ClickHouse`, catalogued on PulseMCP. Integrates with ClickHouse to enable natural language querying and exploration of large datasets while maintaining read-only safeguards.

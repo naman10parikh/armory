@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
-stars: 6
-forks: 0
-pushed_at: "2026-09-03T22:27:41Z"
+stars: 20
+forks: 2
+pushed_at: "2026-09-25T21:12:16Z"
 ---
 ## What it is
 🔎 - Highest Accuracy Web Search for AI

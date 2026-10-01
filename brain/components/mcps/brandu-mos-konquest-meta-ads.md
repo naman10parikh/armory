@@ -8,11 +8,11 @@ source_url: https://github.com/brandu-mos/konquest-meta-ads-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2026-04-23T04:04:28Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T11:03:58Z"
+pushed_at: "2026-09-29T11:58:35Z"
 ---
 ## What it is
 MCP server for encoding-aware file operations supporting 24 encodings, with secure directory-restricted tools and optional local execution for ChatGPT Web via OpenAI Secure MCP Tunnel.

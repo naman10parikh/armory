@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-12T19:57:58Z"
+pushed_at: "2026-09-15T20:55:46Z"
 ---
 ## What it is
 Enables LLMs to perform automated compliance scanning of AWS infrastructure against PCI-DSS, CIS, and Well-Architected frameworks. It provides tools for scanning, remediation, and audit report generation.

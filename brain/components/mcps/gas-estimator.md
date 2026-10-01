@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:14Z"
+pushed_at: "2026-09-02T19:56:03Z"
 ---
 ## What it is
 Lets AI agents fetch live gas prices across multiple EVM chains, compare USD transfer costs, and find the cheapest chain in a single call, with pay-per-call billing via x402.

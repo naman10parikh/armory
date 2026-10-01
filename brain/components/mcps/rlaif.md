@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T18:38:17Z"
+pushed_at: "2026-10-01T12:38:46Z"
 ---
 ## What it is
 MCP server enabling AI agents to provide real-time positive and negative feedback to users through connected devices, with configurable channels for PiShock/OpenShock (negative) and Intiface (positive).

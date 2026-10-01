@@ -8,13 +8,13 @@ source_url: https://github.com/developer2013/bricks-mcp-open
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 85
+stars: 90
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-08-21T22:15:07Z"
+pushed_at: "2026-09-09T12:39:54Z"
 ---
 ## What it is
 Comprehensive MCP server for Bricks Builder with 100+ tools to manage pages, templates, styles, SEO, and content directly from AI assistants like Claude Code.

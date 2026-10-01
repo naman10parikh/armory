@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T18:24:23Z"
+pushed_at: "2026-09-26T20:39:08Z"
 ---
 ## What it is
 MCP server for tinify.ai image optimization. AI-powered upscaling, resizing/cropping, compression, and SEO filename & alt text generation — all in one tool.

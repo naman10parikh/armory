@@ -8,12 +8,12 @@ source_url: https://github.com/sipyourdrink-ltd/bernstein
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1059
+stars: 1335
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 145
-pushed_at: "2026-09-02T03:26:12Z"
+forks: 177
+pushed_at: "2026-10-01T14:14:59Z"
 ---
 ## What it is
 MCP server `Bernstein`, catalogued on PulseMCP. Declarative agent orchestration for engineering teams.

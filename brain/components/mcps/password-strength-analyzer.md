@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:46Z"
+pushed_at: "2026-09-02T19:56:54Z"
 ---
 ## What it is
 Analyzes password strength with entropy calculation and crack time estimation. Supports pay-per-call payments via x402 (USDC on Base L2) without requiring API keys or signup.

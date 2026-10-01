@@ -8,13 +8,13 @@ source_url: https://github.com/nirholas/x402-mcp-commerce
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T02:53:22Z"
+pushed_at: "2026-09-16T20:20:17Z"
 ---
 ## What it is
 MCP server that gives Claude/GPT agents commerce tools — each tool call pays an upstream x402 endpoint and returns its artifact.

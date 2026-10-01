@@ -8,13 +8,13 @@ source_url: https://github.com/bykarantelicom/bykaranteli-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T22:57:37Z"
+pushed_at: "2026-09-30T18:17:22Z"
 ---
 ## What it is
 Provides live crypto derivatives data including funding rates, cross-exchange arbitrage, open interest pressure, Fear & Greed index, BTC dominance, and verified signal performance.

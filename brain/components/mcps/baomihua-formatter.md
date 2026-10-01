@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T16:24:03Z"
+pushed_at: "2026-09-07T15:12:50Z"
 ---
 ## What it is
 A Node.js MCP server for inspecting and operating on media files in OpenList and CloudDrive2, plus querying TMDB movie and TV metadata.

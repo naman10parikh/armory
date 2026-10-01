@@ -8,13 +8,13 @@ source_url: https://github.com/flujo-app/mcp-sandbox-computer-vm-for-ai
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T16:29:26Z"
+pushed_at: "2026-09-06T22:49:20Z"
 ---
 ## What it is
 MCP server that gives AI agents isolated, named Linux computers with stable IDs and lifecycle control. Supports multiple backends like Docker, Fly Machines, Modal, and E2B, with a dashboard for managing sandboxes.

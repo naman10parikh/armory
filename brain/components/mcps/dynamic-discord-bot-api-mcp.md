@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T00:07:47Z"
+pushed_at: "2026-09-06T00:04:38Z"
 ---
 ## What it is
 MCP server for Discord bot API that exposes five tools to search, inspect, and call stable Discord HTTP endpoints using bot-token authentication, with automatic schema refresh and strict safety filtering.

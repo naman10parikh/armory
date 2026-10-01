@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T04:56:05Z"
+pushed_at: "2026-09-16T04:47:12Z"
 ---
 ## What it is
 A vendor-neutral coordination hub that lets coding agents like Claude Code and Google Antigravity delegate tasks and share context via MCP, with a shared blackboard and dashboard.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T07:40:25Z"
+pushed_at: "2026-09-23T01:39:15Z"
 ---
 ## What it is
 A self-hosted mail client MCP server that indexes email in PostgreSQL, enabling AI agents to search, move, mark, delete, and draft messages with bulk operations and attachment text extraction via OCR.

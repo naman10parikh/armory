@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T10:30:46Z"
+pushed_at: "2026-09-03T10:00:36Z"
 ---
 ## What it is
 An MCP server that verifies npm and PyPI packages before installation, checking for existence, known vulnerabilities, OpenSSF scorecard, and typosquatting, returning an ALLOW/WARN/BLOCK verdict.

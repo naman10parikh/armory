@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T07:08:50Z"
+pushed_at: "2026-09-23T01:14:45Z"
 ---
 ## What it is
 A command execution MCP server supporting local execution, sandbox isolation via Docker/OpenSandbox, and SSH remote execution.

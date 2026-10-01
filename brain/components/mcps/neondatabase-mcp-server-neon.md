@@ -8,13 +8,13 @@ source_url: https://github.com/neondatabase/mcp-server-neon
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 626
+stars: 648
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
-forks: 119
-pushed_at: "2026-09-02T03:28:07Z"
+forks: 128
+pushed_at: "2026-09-30T23:56:09Z"
 ---
 ## What it is
 MCP server `Neon`, catalogued on PulseMCP. Manage Neon's serverless Postgres databases.

@@ -12,8 +12,8 @@ stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
-pushed_at: "2025-06-05T15:16:07Z"
+forks: 17
+pushed_at: "2026-09-04T16:00:13Z"
 ---
 ## What it is
 MCP server `AWS Athena`, catalogued on PulseMCP. Integrates with AWS SDK to execute SQL queries against Athena databases, enabling large-scale data analysis and business intelligence for AWS data lakes.

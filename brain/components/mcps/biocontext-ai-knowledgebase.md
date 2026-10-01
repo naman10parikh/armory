@@ -8,11 +8,11 @@ source_url: https://github.com/biocontext-ai/knowledgebase-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 8
 pushed_at: "2026-01-12T10:25:48Z"
 ---
 ## What it is

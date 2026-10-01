@@ -8,12 +8,12 @@ source_url: https://github.com/caravanglory/cocos-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 39
+stars: 44
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
+forks: 16
 pushed_at: "2026-02-26T15:26:36Z"
 ---
 ## What it is

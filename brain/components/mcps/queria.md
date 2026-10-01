@@ -8,13 +8,13 @@ source_url: https://github.com/queria-io/queria-cli
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T02:13:12Z"
+pushed_at: "2026-09-22T23:51:17Z"
 ---
 ## What it is
 Enables MCP clients to query Japanese open data (e-Stat, 国土数値情報, EDINET, 気象庁 etc.) from Queria using SQL.

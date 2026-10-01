@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-19T07:54:39Z"
+pushed_at: "2026-10-01T09:39:00Z"
 ---
 ## What it is
 Enables AI coding agents to execute formal, stateful workflows with typed contracts, postcondition enforcement, and structured retry logic.

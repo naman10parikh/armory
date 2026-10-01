@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-25T15:11:40Z"
+pushed_at: "2026-09-18T23:37:03Z"
 ---
 ## What it is
 Enables AI agents to query gym analytics—class attendance, trainer performance, and revenue insights—from existing CCTV camera feeds without new hardware.

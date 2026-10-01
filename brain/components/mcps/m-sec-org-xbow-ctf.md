@@ -8,11 +8,11 @@ source_url: https://github.com/m-sec-org/ez-xbow-platform-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 94
+stars: 93
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 8
 pushed_at: "2025-12-03T05:37:12Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T14:09:30Z"
+pushed_at: "2026-09-04T13:36:26Z"
 ---
 ## What it is
 Automates generation of QA artifacts such as API tests, E2E tests, and documentation exports. It supports REST Assured, Cypress, and Excel/Word document generation.

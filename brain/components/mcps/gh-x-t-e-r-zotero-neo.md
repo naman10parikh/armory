@@ -8,7 +8,7 @@ source_url: https://github.com/x-t-e-r/zotero-mcp-neo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

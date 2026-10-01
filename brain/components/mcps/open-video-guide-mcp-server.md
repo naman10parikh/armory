@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T11:55:00Z"
+pushed_at: "2026-09-11T11:54:45Z"
 ---
 ## What it is
 Exposes Open Video Guide functions to MCP clients, enabling conversion of tutorial videos into illustrated, verifiable guides with timestamps, evidence, and review states.

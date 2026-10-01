@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2025-12-01T05:21:33Z"
+pushed_at: "2026-09-11T13:44:53Z"
 ---
 ## What it is
 MCP server `TriageMCP (PE File Analysis)`, catalogued on PulseMCP. Integrates with multiple security tools to perform static analysis of PE files, extracting critical information like import tables, metadata, strings, and malware capabilities for rapid triage of suspicious Windows executables.

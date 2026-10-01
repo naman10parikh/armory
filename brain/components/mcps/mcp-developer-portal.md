@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T07:04:38Z"
+pushed_at: "2026-10-01T08:07:55Z"
 ---
 ## What it is
 MCP server wrapping Backstage — query service catalog, fetch TechDocs, and scaffold services via AI agents.

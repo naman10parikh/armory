@@ -8,11 +8,11 @@ source_url: https://github.com/alcova-ai/perplexity-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 6
 pushed_at: "2025-03-20T05:49:55Z"
 ---
 ## What it is

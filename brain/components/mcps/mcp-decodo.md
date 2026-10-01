@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:59:22Z"
+pushed_at: "2026-09-25T23:27:58Z"
 ---
 ## What it is
 Enables web scraping via the Decodo API, providing AI agents with access to data extraction through the Pipeworx MCP gateway.

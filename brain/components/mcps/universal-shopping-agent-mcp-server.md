@@ -8,12 +8,12 @@ source_url: https://github.com/kinjal-1007/shopping-assistant-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2025-08-31T11:22:30Z"
 ---
 ## What it is

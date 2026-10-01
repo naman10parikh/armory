@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-01T16:39:27Z"
+pushed_at: "2026-09-05T14:01:32Z"
 ---
 ## What it is
 MCP server `Boxberry`, catalogued on PulseMCP. Integrates with Boxberry for delivery cost calculation, pickup points, and tracking.

@@ -8,11 +8,11 @@ source_url: https://github.com/jkawamoto/mcp-bear
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 76
+stars: 77
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2026-07-14T08:36:14Z"
 ---
 ## What it is

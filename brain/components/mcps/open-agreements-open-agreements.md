@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, legal]
-stars: 53
-forks: 9
-pushed_at: "2026-09-01T23:55:59Z"
+stars: 59
+forks: 11
+pushed_at: "2026-10-01T08:53:02Z"
 ---
 ## What it is
 Fill standard legal agreement templates (NDAs, SAFEs, NVCA docs, employment, cloud terms) and produce signable DOCX files.

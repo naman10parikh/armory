@@ -8,12 +8,12 @@ source_url: https://github.com/HealthyApps/health-auto-export-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 63
+stars: 66
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
+forks: 8
 pushed_at: "2026-05-04T14:27:19Z"
 ---
 ## What it is

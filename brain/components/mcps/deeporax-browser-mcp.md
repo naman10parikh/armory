@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T11:04:34Z"
+pushed_at: "2026-09-02T15:44:18Z"
 ---
 ## What it is
 MCP server to control a real Chrome browser from Claude, enabling navigation, DOM snapshots, clicks, typing, screenshots, and JS execution via a Chrome extension bridge.

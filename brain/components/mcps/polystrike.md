@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T11:05:57Z"
+pushed_at: "2026-09-16T08:31:44Z"
 ---
 ## What it is
 Live Elon Musk & Ted Cruz tweet feed, real-time tweet counters, and market data for Polymarket's tweet-count markets. Hosted remote server (streamable-http at https://polystrike.xyz/mcp); free tier is keyless.

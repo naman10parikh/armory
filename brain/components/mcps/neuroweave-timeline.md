@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-28T09:25:31Z"
+pushed_at: "2026-09-19T19:04:36Z"
 ---
 ## What it is
 Process memory for AI agents and humans that remembers the evolution of a project. Provides MCP tools to create timeline events, search history, explain files, and visualize the evolution graph.

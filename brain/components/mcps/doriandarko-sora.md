@@ -8,7 +8,7 @@ source_url: https://github.com/doriandarko/sora-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 208
+stars: 209
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

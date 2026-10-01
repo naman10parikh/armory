@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-25T12:58:31Z"
+pushed_at: "2026-09-09T12:24:15Z"
 ---
 ## What it is
 MCP server with 12 tools for design, UX, conversion, and product knowledge from Frontend Masters courses by Paul Boag and Sarah Drasner, enabling audits, accessibility checks, layout recommendations, and more.

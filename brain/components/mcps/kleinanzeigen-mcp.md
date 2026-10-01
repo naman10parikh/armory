@@ -8,13 +8,13 @@ source_url: https://github.com/jnslmk/kleinanzeigen-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T11:41:56Z"
+pushed_at: "2026-09-30T14:57:14Z"
 ---
 ## What it is
 Search Kleinanzeigen.de, Germany's largest classifieds site, via MCP tools without API keys.

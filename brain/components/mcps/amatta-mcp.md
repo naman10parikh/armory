@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T22:35:53Z"
+pushed_at: "2026-09-18T03:56:25Z"
 ---
 ## What it is
 Provides infant health references including WHO growth percentiles, NIP vaccine schedules, and national checkup schedules as tools for LLMs.

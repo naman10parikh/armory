@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:12:07Z"
+pushed_at: "2026-09-30T22:53:36Z"
 ---
 ## What it is
 Provides US H-1B visa sponsorship, LCA wages, and top sponsors by role for recruiting and talent data.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T02:22:05Z"
+pushed_at: "2026-09-14T00:47:10Z"
 ---
 ## What it is
 MCP server for microservices.sh that enables planning, inspecting, composing, validating, and deploying microservices modules and templates with preview deployments.

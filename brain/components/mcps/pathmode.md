@@ -8,12 +8,12 @@ source_url: https://github.com/pathmodeio/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T20:01:03Z"
+pushed_at: "2026-09-25T18:22:31Z"
 ---
 ## What it is
 MCP server `Pathmode`, catalogued on PulseMCP. Build structured intent specs through Socratic AI conversation and connect to the Pathmode intent layer.

@@ -8,13 +8,13 @@ source_url: https://github.com/pipeworx-io/mcp-jersey-opendata
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:17:23Z"
+pushed_at: "2026-09-26T19:21:21Z"
 ---
 ## What it is
 Enables listing publishing organizations and thematic groups from Jersey's official open data portal (opendata.gov.je) using CKAN API.

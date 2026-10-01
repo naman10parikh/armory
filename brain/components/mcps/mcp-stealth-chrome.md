@@ -8,13 +8,13 @@ source_url: https://github.com/RobithYusuf/mcp-stealth-chrome
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-19T06:05:33Z"
+pushed_at: "2026-09-07T12:51:57Z"
 ---
 ## What it is
 Provides 133 stealth tools for AI agents to bypass Cloudflare, Turnstile, and reCAPTCHA, including LLM-optimized actions like describe_page and smart_fill.

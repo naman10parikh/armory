@@ -8,11 +8,11 @@ source_url: https://github.com/mikechambers/adb-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 691
+stars: 716
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 101
+forks: 102
 pushed_at: "2026-07-08T18:25:54Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T15:52:35Z"
+pushed_at: "2026-09-05T13:08:53Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that gives AI assistants direct access to live AVEVA PI System documentation, eliminating hallucination on PI-specific topics.

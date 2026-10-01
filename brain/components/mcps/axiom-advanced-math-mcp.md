@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T07:24:47Z"
+pushed_at: "2026-09-14T06:34:09Z"
 ---
 ## What it is
 Provides an MCP server exposing compute, verify, and plot tools backed by Giac/Xcas for exact symbolic and numerical mathematics, enabling LLMs to solve calculus, algebra, geometry, and more with verified results.

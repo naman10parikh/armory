@@ -8,13 +8,13 @@ source_url: https://github.com/pipeworx-io/mcp-discogs
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:00:44Z"
+pushed_at: "2026-09-25T23:34:45Z"
 ---
 ## What it is
 Enables querying music discography data from Discogs, including master releases, artist profiles, and label information.

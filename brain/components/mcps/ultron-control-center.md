@@ -8,13 +8,13 @@ source_url: https://github.com/SkiTemplar/ultron-control-center
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T19:03:42Z"
+pushed_at: "2026-09-27T10:31:40Z"
 ---
 ## What it is
 An MCP server that provides persistent, governed memory for Claude Code, enabling local storage and retrieval of decisions, architecture, and context across sessions with audit trails and hybrid semantic recall.

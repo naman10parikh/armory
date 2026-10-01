@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T20:32:56Z"
+pushed_at: "2026-09-02T16:57:04Z"
 ---
 ## What it is
 A self-hosted MCP server that maintains a registry of project rules, enabling chats to query which rules apply to them in one call. It manages rule lifecycle with scopes, expiry, approval batches, and immutable history.

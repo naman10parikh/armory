@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:55:24Z"
+pushed_at: "2026-09-02T19:56:07Z"
 ---
 ## What it is
 Provides GDPR compliance scanning for websites via the MCP protocol, with pay-per-call using x402 micropayments.

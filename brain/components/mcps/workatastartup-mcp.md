@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T05:45:38Z"
+pushed_at: "2026-09-24T03:33:51Z"
 ---
 ## What it is
 Enables AI assistants to query Y Combinator startup jobs and companies via the Work at a Startup platform, including advanced filters for skills, salary, equity, and visa sponsorship, plus tools to fetch detailed company and job information.

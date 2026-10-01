@@ -8,11 +8,11 @@ source_url: https://github.com/amsavarthan/android-tools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-07-29T09:34:27Z"
 ---
 ## What it is

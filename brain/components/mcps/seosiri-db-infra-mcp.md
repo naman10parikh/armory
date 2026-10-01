@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T12:37:13Z"
+pushed_at: "2026-09-30T02:10:29Z"
 ---
 ## What it is
 Provides secure live database querying, schema inspection, AWS S3 security audits, and Cloudflare infrastructure control through MCP tools.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T19:18:27Z"
+pushed_at: "2026-09-07T06:38:27Z"
 ---
 ## What it is
 Enables discovery and selection of ONS datasets using a frozen metadata bundle, providing bounded access to dataset descriptions, dimensions, and alternatives without making network calls or returning observation values.

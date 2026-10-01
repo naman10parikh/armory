@@ -8,13 +8,13 @@ source_url: https://github.com/musharna/ldraw-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T07:45:53Z"
+pushed_at: "2026-10-01T07:48:22Z"
 ---
 ## What it is
 Renders LEGO LDraw model files (.ldr, .mpd, .dat) to high-quality images using headless Blender, enabling MCP clients to visually inspect LEGO builds.

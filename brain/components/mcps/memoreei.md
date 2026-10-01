@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-04-01T05:11:03Z"
+pushed_at: "2026-10-01T01:13:29Z"
 ---
 ## What it is
 An open-source MCP server that gives AI assistants a searchable memory of your entire personal communication history by ingesting messages from multiple platforms and indexing them with hybrid search.

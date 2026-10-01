@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T01:41:42Z"
+pushed_at: "2026-09-18T17:29:35Z"
 ---
 ## What it is
 Enables secure GitHub App authenticated Git operations and GitHub API workflows through MCP, using ephemeral containers and a private key broker to protect credentials.

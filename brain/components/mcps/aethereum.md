@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T07:46:01Z"
+pushed_at: "2026-09-11T05:53:37Z"
 ---
 ## What it is
 Coordinates AI coding agents across machines by sharing interface contracts, intent, and breaking-change alerts, enabling agents to negotiate changes before they break each other.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T21:10:34Z"
+pushed_at: "2026-09-12T13:00:47Z"
 ---
 ## What it is
 An MCP server to query the leparrain.com referral directory and automatically inject the correct referral link.

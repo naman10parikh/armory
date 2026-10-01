@@ -8,11 +8,11 @@ source_url: https://github.com/taiste/harvest-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
+forks: 26
 pushed_at: "2026-07-23T04:52:43Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T15:06:46Z"
+pushed_at: "2026-09-04T15:14:45Z"
 ---
 ## What it is
 Provides hydrology data (river levels, streamflow, flood forecasts, water quality) from USGS, NOAA, and SWOT, preserving units, datums, timezones, and data quality for AI agents.

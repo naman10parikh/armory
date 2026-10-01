@@ -8,12 +8,12 @@ source_url: https://github.com/danielsogl/lighthouse-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-08-31T14:41:11Z"
+pushed_at: "2026-10-01T04:35:52Z"
 ---
 ## What it is
 MCP server `Lighthouse`, catalogued on PulseMCP. Integrates Google Lighthouse web performance auditing capabilities to provide automated website performance, accessibility, SEO, and best practices analysis with detailed metrics and optimization recommendations.

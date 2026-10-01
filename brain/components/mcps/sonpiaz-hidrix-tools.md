@@ -12,8 +12,8 @@ stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
-pushed_at: "2026-04-23T20:41:31Z"
+forks: 20
+pushed_at: "2026-09-12T18:37:58Z"
 ---
 ## What it is
 MCP server `Hidrix Tools`, catalogued on PulseMCP. Web search, social media scraping, and content analysis toolkit.

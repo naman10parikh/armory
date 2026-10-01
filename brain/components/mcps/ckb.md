@@ -8,13 +8,13 @@ source_url: https://github.com/SimplyLiz/ckb
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 108
+stars: 110
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
-pushed_at: "2026-07-28T08:55:51Z"
+forks: 12
+pushed_at: "2026-09-22T08:56:08Z"
 ---
 ## What it is
 Transforms a codebase into a queryable knowledge base for code understanding, impact analysis, ownership lookup, and more via CLI, HTTP API, or MCP.

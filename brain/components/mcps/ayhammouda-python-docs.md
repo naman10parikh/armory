@@ -8,12 +8,12 @@ source_url: https://github.com/ayhammouda/python-docs-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-08-31T06:13:11Z"
+forks: 3
+pushed_at: "2026-09-28T06:35:44Z"
 ---
 ## What it is
 MCP server `Python Docs`, catalogued on PulseMCP. Local, read-only MCP retrieval over official Python standard library documentation across versions 3.10–3.14.

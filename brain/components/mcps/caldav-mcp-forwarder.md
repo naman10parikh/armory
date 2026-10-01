@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T22:44:04Z"
+pushed_at: "2026-09-25T01:20:03Z"
 ---
 ## What it is
 A stateless MCP server that forwards calendar operations to a CalDAV server, enabling AI assistants to list, search, create, update, delete events, and query free/busy information via encrypted tokens.

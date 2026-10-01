@@ -8,13 +8,13 @@ source_url: https://github.com/ayushisingh51/PaperPilot-AI
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T14:28:29Z"
+pushed_at: "2026-09-09T14:15:08Z"
 ---
 ## What it is
 MCP server for semantic research: search arXiv, fetch papers, and answer questions grounded in the actual paper text via RAG tools, resources, and prompts.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T01:13:50Z"
+pushed_at: "2026-09-29T21:57:29Z"
 ---
 ## What it is
 Enables evidence-gated, multi-session AI coding runs with plan-build-ship state management, coordinating Claude Code and Codex native agents.

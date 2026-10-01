@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-23T13:13:18Z"
+pushed_at: "2026-09-06T13:13:23Z"
 ---
 ## What it is
 MCP server `Ultimate Brain`, catalogued on PulseMCP. Integrates with Notion's Ultimate Brain template for managing tasks, notes, projects, and areas with GTD-style productivity workflows.

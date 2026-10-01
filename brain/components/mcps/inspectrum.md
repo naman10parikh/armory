@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-10T12:26:12Z"
+forks: 1
+pushed_at: "2026-09-12T13:35:22Z"
 ---
 ## What it is
 Turn ad-hoc second opinions into a repeatable plan-review checkpoint. One local MCP tool returns attributed findings and one structured verdict on demand.

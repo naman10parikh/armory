@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T13:38:29Z"
+pushed_at: "2026-09-05T13:15:00Z"
 ---
 ## What it is
 Enables controlled AI-agent access to enterprise-shaped tools with a deny-by-default gated write path, human approval, dry-run execution, and append-only audit logging.

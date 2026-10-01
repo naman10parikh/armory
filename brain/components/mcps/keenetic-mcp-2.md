@@ -8,12 +8,12 @@ source_url: https://github.com/salatmaster/keenetic-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-08-09T13:17:45Z"
 ---
 ## What it is

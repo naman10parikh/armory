@@ -8,12 +8,12 @@ source_url: https://github.com/JieXi-11/SellerSprite
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-07-30T01:46:16Z"
 ---
 ## What it is

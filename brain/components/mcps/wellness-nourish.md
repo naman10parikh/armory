@@ -8,13 +8,13 @@ source_url: https://github.com/davidmosiah/wellness-nourish
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-29T10:35:53Z"
+pushed_at: "2026-09-29T07:40:02Z"
 ---
 ## What it is
 A local-first nutrition MCP server for food search, barcode lookup, meal estimation, intake logging, hydration, and nutrition coaching workflows.
