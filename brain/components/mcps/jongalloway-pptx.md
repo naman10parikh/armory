@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-24T19:37:59Z"
+pushed_at: "2026-09-21T19:37:44Z"
 ---
 ## What it is
 MCP server `PowerPoint PPTX`, catalogued on PulseMCP. Reads, creates, and updates PowerPoint presentations with slide content extraction, text updates, and image insertion.

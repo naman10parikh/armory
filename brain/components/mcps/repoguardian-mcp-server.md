@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T14:58:35Z"
+pushed_at: "2026-10-01T07:47:54Z"
 ---
 ## What it is
 Enables AI assistants to analyze GitHub repository health, issues, PRs, code, and engineering risks via RHD's agentic RAG, while keeping external actions human-approved and policy-gated.

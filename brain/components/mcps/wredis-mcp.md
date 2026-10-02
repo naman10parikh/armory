@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T08:28:50Z"
+pushed_at: "2026-09-28T04:45:54Z"
 ---
 ## What it is
 MCP server enabling AI agents to design and deploy WRedis/Redis-backed services using expert patterns, architecture scaffolding, and a unified CLI.

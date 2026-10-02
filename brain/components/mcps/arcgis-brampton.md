@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:33:56Z"
+pushed_at: "2026-09-25T21:24:59Z"
 ---
 ## What it is
 Provides access to City of Brampton GIS open geospatial data, enabling search, query, and schema inspection of datasets like parcels and zoning via natural language or tools.

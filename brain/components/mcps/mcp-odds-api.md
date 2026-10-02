@@ -8,13 +8,13 @@ source_url: https://github.com/pipeworx-io/mcp-odds-api
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:26:58Z"
+pushed_at: "2026-09-26T20:06:28Z"
 ---
 ## What it is
 Enables fetching sportsbook odds, live scores, and event information across 70+ books and 30+ leagues, with tools to list sports, get scores, and discover events.

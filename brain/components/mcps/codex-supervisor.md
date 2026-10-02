@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T11:51:01Z"
+pushed_at: "2026-09-16T05:55:07Z"
 ---
 ## What it is
 A local MCP bridge that lets a compatible host start, monitor, steer, interrupt, resume, and approve Codex app-server work while enforcing repository-root security.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:23:34Z"
+pushed_at: "2026-09-26T19:49:31Z"
 ---
 ## What it is
 MCP server for querying gene annotations, full-text gene search, and species taxonomy via MyGene.info. Enables AI agents to access gene data through natural language questions.

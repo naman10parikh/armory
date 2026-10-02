@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:33:03Z"
+pushed_at: "2026-09-26T21:01:30Z"
 ---
 ## What it is
 Enables querying Go module versions, metadata, and go.mod contents by wrapping proxy.golang.org, providing tools for version listing and dependency analysis.

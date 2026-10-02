@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/noaa-spaceweather-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T03:20:24Z"
+pushed_at: "2026-09-22T23:30:35Z"
 ---
 ## What it is
 Query NOAA SWPC space weather data including geomagnetic storm scales, Kp index, aurora forecasts, solar wind, solar activity, and alerts via MCP. Supports STDIO and Streamable HTTP transports.

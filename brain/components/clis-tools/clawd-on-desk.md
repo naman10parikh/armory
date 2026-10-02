@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 6093
-forks: 636
-pushed_at: "2026-09-01T14:32:35Z"
+stars: 6348
+forks: 668
+pushed_at: "2026-10-02T13:36:25Z"
 ---
 ## What it is
 A desktop pet that reacts to your Claude Code sessions in real time: thinking, typing, juggling, sleeping and more.

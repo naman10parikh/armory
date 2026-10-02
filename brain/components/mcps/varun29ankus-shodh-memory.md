@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 275
-forks: 39
-pushed_at: "2026-09-02T03:28:42Z"
+stars: 298
+forks: 41
+pushed_at: "2026-09-28T03:13:15Z"
 ---
 ## What it is
 Cognitive memory for AI agents with Hebbian learning, 3-tier architecture, and knowledge graphs. Single ~15MB binary, runs offline on edge devices.

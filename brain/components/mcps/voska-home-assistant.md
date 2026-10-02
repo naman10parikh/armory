@@ -8,11 +8,11 @@ source_url: https://github.com/voska/hass-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 338
+stars: 344
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 50
+forks: 54
 pushed_at: "2026-08-06T11:24:41Z"
 ---
 ## What it is

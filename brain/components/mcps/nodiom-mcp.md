@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-08T00:12:28Z"
+pushed_at: "2026-10-01T00:55:36Z"
 ---
 ## What it is
 Enables AI agents to read, write, append, and delete content in Markdown files using structural selectors, without regex or string hacking.

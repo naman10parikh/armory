@@ -8,12 +8,12 @@ source_url: https://github.com/alexgladkov/claude-in-mobile
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 359
+stars: 378
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 35
-pushed_at: "2026-08-31T10:12:03Z"
+forks: 36
+pushed_at: "2026-09-25T01:57:49Z"
 ---
 ## What it is
 MCP server `Claude Mobile`, catalogued on PulseMCP. Provides unified mobile device automation for Android devices via ADB and iOS simulators via simctl, enabling screenshots, UI interactions, touch gestures, text input, and app management.

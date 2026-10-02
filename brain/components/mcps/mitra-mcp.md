@@ -8,13 +8,13 @@ source_url: https://github.com/thegauravgiri/mitra-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T04:39:14Z"
+pushed_at: "2026-09-18T01:44:15Z"
 ---
 ## What it is
 A modular MCP server integrating Clockify, WakaTime, and Azure DevOps for time tracking, work item management, and time logging via a unified API.

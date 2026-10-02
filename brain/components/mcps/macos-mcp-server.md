@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/macos-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T21:33:38Z"
+pushed_at: "2026-09-24T17:18:27Z"
 ---
 ## What it is
 Control macOS system settings, apps, windows, audio, displays, screenshots, and Focus mode via MCP.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:23Z"
+pushed_at: "2026-09-02T19:56:17Z"
 ---
 ## What it is
 Enables AI agents to convert HTML content into clean Markdown, stripping scripts and styles while preserving headings, links, lists, and images, with pay-per-call x402 micropayments and no API keys.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-06T00:36:00Z"
+pushed_at: "2026-09-27T22:12:50Z"
 ---
 ## What it is
 A Python MCP server that gives LLMs persistent, searchable access to project context — documentation, architecture decisions, and session notes.

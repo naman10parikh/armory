@@ -8,12 +8,12 @@ source_url: https://github.com/dmmulroy/overseer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 247
+stars: 248
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-09-01T14:01:46Z"
+pushed_at: "2026-09-14T13:12:24Z"
 ---
 ## What it is
 MCP server `Overseer`, catalogued on PulseMCP. Task orchestration system that creates hierarchical milestone-task-subtask structures with inherited context and learnings, automatically managing version control bookmarks and commits throughout task lifecycle transitions for clean development history.

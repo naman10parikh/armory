@@ -8,12 +8,12 @@ source_url: https://github.com/domdomegg/shell-exec-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-12T00:51:45Z"
+pushed_at: "2026-09-09T16:03:30Z"
 ---
 ## What it is
 MCP server `Shell Exec`, catalogued on PulseMCP. Execute bash commands with background job support.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:57:52Z"
+pushed_at: "2026-09-25T23:23:51Z"
 ---
 ## What it is
 Enables querying and exploring Washington State open data via the Socrata SoQL API, including dataset search, SoQL queries, and metadata retrieval, without requiring an API key.

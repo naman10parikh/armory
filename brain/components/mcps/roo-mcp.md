@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T06:32:33Z"
+pushed_at: "2026-10-01T09:53:36Z"
 ---
 ## What it is
 Enables AI clients to create, manage, and configure Roo smart shortlinks and their add-ons, such as QR codes, scheduled redirects, and webhooks, through MCP tools.

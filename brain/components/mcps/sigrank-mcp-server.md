@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-01T13:47:49Z"
+forks: 4
+pushed_at: "2026-10-01T03:41:41Z"
 ---
 ## What it is
 Exposes the SigRank leaderboard as tools for agents, enabling token-only rank and submit operations with local privacy-first tokenpull reading.

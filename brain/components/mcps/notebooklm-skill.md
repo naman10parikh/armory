@@ -8,12 +8,12 @@ source_url: https://github.com/claude-world/notebooklm-skill
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 446
+stars: 463
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 54
+forks: 60
 pushed_at: "2026-07-18T11:29:16Z"
 ---
 ## What it is

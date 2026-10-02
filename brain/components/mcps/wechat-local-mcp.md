@@ -8,13 +8,13 @@ source_url: https://github.com/cocohahaha/wechat-local-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T10:33:43Z"
+pushed_at: "2026-09-11T06:30:01Z"
 ---
 ## What it is
 A read-only MCP server that enables searching and extracting to-dos from local macOS WeChat chat databases. It decrypts and queries local WeChat data without sending messages or modifying databases.

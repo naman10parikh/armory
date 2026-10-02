@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:42:41Z"
+pushed_at: "2026-09-25T22:02:13Z"
 ---
 ## What it is
 Enables querying Australian government tender data via the AusTender OCDS API without requiring an API key.

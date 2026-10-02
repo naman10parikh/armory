@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T21:03:39Z"
+pushed_at: "2026-09-29T04:09:36Z"
 ---
 ## What it is
 Enables Codex to interact with Gemini Web through browser automation, allowing it to ask scoped questions and analyze public URLs or YouTube videos without a Gemini API key.

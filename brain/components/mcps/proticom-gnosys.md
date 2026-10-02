@@ -12,8 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-08-17T05:56:23Z"
+forks: 1
+pushed_at: "2026-10-01T05:56:01Z"
 ---
 ## What it is
 MCP server `Gnosys`, catalogued on PulseMCP. Agent-first persistent memory and knowledge management using SQLite with Markdown safety net, dream consolidation, hybrid search, and Obsidian vault export.

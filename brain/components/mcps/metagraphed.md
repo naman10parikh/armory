@@ -8,13 +8,13 @@ source_url: https://github.com/JSONbored/metagraphed
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 93
-pushed_at: "2026-09-01T22:58:52Z"
+forks: 89
+pushed_at: "2026-10-02T13:39:35Z"
 ---
 ## What it is
 MCP server that enables AI agents to explore Bittensor subnets, check their health and economics, and discover their public APIs and schemas.

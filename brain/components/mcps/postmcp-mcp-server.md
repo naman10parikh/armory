@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T15:26:53Z"
+pushed_at: "2026-10-01T05:09:17Z"
 ---
 ## What it is
 Enables AI assistants to manage social media publishing across platforms like LinkedIn, Twitter, Facebook, Instagram, Threads, and Bluesky.

@@ -8,12 +8,12 @@ source_url: https://github.com/cyfrin/aderyn
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 794
+stars: 796
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 117
-pushed_at: "2026-08-30T13:03:48Z"
+forks: 118
+pushed_at: "2026-09-27T13:03:59Z"
 ---
 ## What it is
 MCP server `Aderyn`, catalogued on PulseMCP. Provides intelligent Solidity smart contract analysis through the Aderyn static analyzer, scanning codebases to identify security vulnerabilities, code quality issues, and potential exploits across multiple severity levels with support for Foundry and Hardhat projects.

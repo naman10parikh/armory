@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T00:57:39Z"
+pushed_at: "2026-09-29T02:24:36Z"
 ---
 ## What it is
 Real-time Amazon Sponsored Products (SP) ad placements, keyword tracking, and comprehensive review data for AI Agents. Enables LLMs to autonomously conduct competitor ad audits, consumer sentiment analysis (VOC), and product optimization.

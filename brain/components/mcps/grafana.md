@@ -8,13 +8,13 @@ source_url: https://github.com/grafana/mcp-grafana
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3407
+stars: 3523
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 432
-pushed_at: "2026-09-02T02:25:35Z"
+forks: 458
+pushed_at: "2026-10-02T13:05:59Z"
 ---
 ## What it is
 MCP server `Grafana`, catalogued on PulseMCP. Integrates with Grafana to enable searching dashboards, fetching datasource information, querying Prometheus metrics, and managing incidents through both stdio and SSE transport modes.

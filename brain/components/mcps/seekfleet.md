@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T12:12:00Z"
+pushed_at: "2026-09-18T12:08:54Z"
 ---
 ## What it is
 Cross-platform control plane for DeepSeek Harness agent fleets with MCP, durable sessions, adaptive routing, policy gates, token budgets, and a phone-friendly LAN dashboard.

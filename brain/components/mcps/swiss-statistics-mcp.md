@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T07:58:34Z"
+pushed_at: "2026-09-26T17:56:11Z"
 ---
 ## What it is
 Provides AI-native access to Swiss Federal Statistical Office datasets through 9 tools for querying education, population, and cross-cantonal comparisons without authentication.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T20:46:04Z"
+pushed_at: "2026-09-02T19:14:38Z"
 ---
 ## What it is
 Enables automated schema management for Baserow, including creating, updating, and deleting tables and fields, with built-in 2FA TOTP authentication.

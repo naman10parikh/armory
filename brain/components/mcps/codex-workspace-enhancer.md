@@ -8,13 +8,13 @@ source_url: https://github.com/papperrollinggery/codex-workspace-enhancer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-19T14:58:55Z"
+pushed_at: "2026-09-29T08:59:42Z"
 ---
 ## What it is
 Provides a visual workspace for OpenAI Codex, enabling users to arrange images, notes, and creative assets on an infinite canvas, with secure image browsing, annotation, and attachment to conversations.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T03:47:25Z"
+pushed_at: "2026-09-13T18:01:19Z"
 ---
 ## What it is
 MCP server for Jira Cloud enabling issue tracking, comments, transitions, and attachments management through natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:18:26Z"
+pushed_at: "2026-09-26T19:25:55Z"
 ---
 ## What it is
 Provides access to Kroger grocery products, prices, and store locations via the Kroger API.

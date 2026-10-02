@@ -8,12 +8,12 @@ source_url: https://github.com/ozanmutlu/gitlab-docs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-31T08:19:59Z"
+pushed_at: "2026-09-30T09:59:38Z"
 ---
 ## What it is
 MCP server `GitLab Docs`, catalogued on PulseMCP. Search GitLab's official documentation

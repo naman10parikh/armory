@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T18:07:45Z"
+pushed_at: "2026-09-28T17:13:05Z"
 ---
 ## What it is
 MCP server for defining, validating, deploying, and operating Shodai machine-readable agreements with EIP-712 permit preparation, signed participant inputs, state reads, and input history.

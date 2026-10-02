@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T15:01:36Z"
+pushed_at: "2026-10-02T01:32:12Z"
 ---
 ## What it is
 Provides agents with tools to score a page's AI readiness, check which AI crawlers robots.txt blocks, and assess passage citability—all performed locally.

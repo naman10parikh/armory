@@ -8,11 +8,11 @@ source_url: https://github.com/beehiveinnovations/pal-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11731
+stars: 11765
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1032
+forks: 1043
 pushed_at: "2025-12-15T17:07:31Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/verrysimatupang99/codex-dev-mcp-suite
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 96
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T08:41:39Z"
+forks: 1
+pushed_at: "2026-09-13T00:14:04Z"
 ---
 ## What it is
 A set of four local MCP servers that help solo developers maintain context across sessions by providing searchable memory, session journals, file checkpoints, and project overviews. All servers run locally with minimal dependencies and work with any MCP-capable client.

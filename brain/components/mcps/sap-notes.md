@@ -8,11 +8,11 @@ source_url: https://github.com/marianfoo/mcp-sap-notes
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 56
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
+forks: 22
 pushed_at: "2026-06-02T11:05:23Z"
 ---
 ## What it is

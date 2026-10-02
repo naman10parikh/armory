@@ -8,11 +8,11 @@ source_url: https://github.com/elleryfamilia/terminal-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 132
+stars: 141
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2026-08-21T13:56:23Z"
 ---
 ## What it is

@@ -12,8 +12,8 @@ stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
-pushed_at: "2026-09-01T16:37:13Z"
+forks: 18
+pushed_at: "2026-10-02T12:32:25Z"
 ---
 ## What it is
 MCP server `Dodo Payments`, catalogued on PulseMCP. Provides a bridge to the Dodo Payments API for processing payments, managing subscriptions, and handling licensing through over 40 specialized tools for customer and product management.

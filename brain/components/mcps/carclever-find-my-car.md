@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T10:06:07Z"
+pushed_at: "2026-09-26T03:19:09Z"
 ---
 ## What it is
 An MCP server for used-vehicle matching, offering tools to find matching vehicles, fetch photos, and resolve dealer URLs using Auto.dev endpoints. Currently a scaffold with stubs for search logic.

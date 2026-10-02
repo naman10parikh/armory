@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T00:44:20Z"
+pushed_at: "2026-09-28T13:20:01Z"
 ---
 ## What it is
 FastMCP server with read-only tools to monitor Redis — queue depths, Celery queue status, connected clients, server/memory info, and per-database key counts

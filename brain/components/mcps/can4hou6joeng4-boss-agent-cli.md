@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
-stars: 1638
-forks: 143
-pushed_at: "2026-09-02T03:14:20Z"
+stars: 2042
+forks: 172
+pushed_at: "2026-10-02T10:30:06Z"
 ---
 ## What it is
 BOSS Zhipin recruitment workflow for AI agents. 49 MCP tools for job search, welfare filtering, recruiter messaging, pipeline tracking, and resume optimization.

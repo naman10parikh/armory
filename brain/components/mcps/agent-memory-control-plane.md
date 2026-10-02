@@ -8,13 +8,13 @@ source_url: https://github.com/AlekseiUL/agent-memory-control-plane
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-08T17:17:21Z"
+forks: 2
+pushed_at: "2026-09-10T12:33:05Z"
 ---
 ## What it is
 Enables governance of AI-agent memory through deterministic routing, explicit ownership, review before promotion, scope-aware retrieval, conflict handling, and auditable receipts via seven MCP tools.

@@ -8,11 +8,11 @@ source_url: https://github.com/ancrz/penpot-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 9
 pushed_at: "2026-02-22T23:45:41Z"
 ---
 ## What it is

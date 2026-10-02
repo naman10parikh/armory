@@ -8,12 +8,12 @@ source_url: https://github.com/tiroshanm/facebook-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 75
+stars: 76
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 26
+forks: 27
 pushed_at: "2025-04-14T06:50:48Z"
 ---
 ## What it is

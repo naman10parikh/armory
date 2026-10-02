@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-07-28T13:22:15Z"
+forks: 1
+pushed_at: "2026-09-09T20:06:09Z"
 ---
 ## What it is
 Exposes science functions like generating random points and plotting sine waves as MCP tools.

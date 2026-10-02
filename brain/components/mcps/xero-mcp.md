@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T01:02:46Z"
+pushed_at: "2026-10-01T12:03:38Z"
 ---
 ## What it is
 A local MCP server for Xero that lets you search contacts, list and fetch invoices, and create draft invoices. It includes guardrails to prevent approving, sending, or deleting invoices.

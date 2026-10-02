@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-24T13:47:48Z"
+pushed_at: "2026-09-29T07:07:30Z"
 ---
 ## What it is
 MCP server `Rendezvous`, catalogued on PulseMCP. Finds fair meeting points for multiple participants using isochrone-based travel time calculations.

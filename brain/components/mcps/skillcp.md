@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T05:50:15Z"
+pushed_at: "2026-09-24T08:27:20Z"
 ---
 ## What it is
 Enables managing a canonical library of agent skills and MCP servers, syncing them across multiple development harnesses, and adding, importing, or configuring them through MCP tools.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-15T03:41:23Z"
+pushed_at: "2026-09-24T21:22:42Z"
 ---
 ## What it is
 Provides persistent, local-first AI memory across sessions via MCP tools for storing, searching, and retrieving context from past interactions.

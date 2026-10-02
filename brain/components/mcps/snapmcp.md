@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T08:17:57Z"
+pushed_at: "2026-09-28T08:17:13Z"
 ---
 ## What it is
 Visual documentation MCP server with 13 tools to capture terminal screenshots, syntax-highlighted code, visual diffs, PDFs, GIFs, and more for documentation workflows.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T08:25:48Z"
+pushed_at: "2026-09-26T19:57:35Z"
 ---
 ## What it is
 An MCP server that tells your coding agent which analytics events your Payghaam journeys are waiting for, so it can add them to your app.

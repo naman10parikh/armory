@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:34:04Z"
+pushed_at: "2026-09-02T19:57:20Z"
 ---
 ## What it is
 Validates SMS-capable phone numbers via x402 pay-per-call, detecting mobile vs landline, carrier type, and E.164 format.

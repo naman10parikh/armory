@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T12:59:03Z"
+pushed_at: "2026-09-24T14:45:12Z"
 ---
 ## What it is
 MCP server for Indian mutual fund NAV analytics. It provides tools to search funds, compute returns, and analyze categories using DuckDB over parquet data, supporting local files or Azure Blob.

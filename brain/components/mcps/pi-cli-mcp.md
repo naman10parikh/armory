@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-23T03:22:54Z"
+forks: 1
+pushed_at: "2026-09-08T20:54:50Z"
 ---
 ## What it is
 Delegates coding tasks to your locally installed pi CLI, inheriting providers, models, and extensions, with persistent sessions and cancellable calls.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T18:57:18Z"
+pushed_at: "2026-09-28T18:56:16Z"
 ---
 ## What it is
 MCP server for Ironscales — phishing incident management, email classification, and remediation

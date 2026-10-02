@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-26T05:40:53Z"
+pushed_at: "2026-09-04T12:42:43Z"
 ---
 ## What it is
 MCP server `Project Management AI`, catalogued on PulseMCP. Python MCP server for project management and task tracking tools.

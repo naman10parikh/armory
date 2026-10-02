@@ -8,13 +8,13 @@ source_url: https://github.com/haksanlulz/mcp-courtwatch
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T19:07:20Z"
+pushed_at: "2026-09-29T08:10:05Z"
 ---
 ## What it is
 MCP server for free U.S. case-law and court-docket search via CourtListener, providing tools for opinion search, docket lookup, citation verification, and more.

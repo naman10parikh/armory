@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T01:26:55Z"
+pushed_at: "2026-09-24T00:43:33Z"
 ---
 ## What it is
 Enables MCP clients to query an organization's Traceorb telemetry data through the same GETs the panel uses, using a read key for authentication.

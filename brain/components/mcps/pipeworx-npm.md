@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:26:00Z"
+pushed_at: "2026-09-26T20:03:07Z"
 ---
 ## What it is
 MCP server `npm`, catalogued on PulseMCP. Searches and retrieves package information from the npm registry.

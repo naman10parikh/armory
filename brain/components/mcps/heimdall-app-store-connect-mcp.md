@@ -8,13 +8,13 @@ source_url: https://github.com/erayendes/app-store-connect-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 47
+stars: 51
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-31T22:25:10Z"
+forks: 6
+pushed_at: "2026-10-01T09:22:35Z"
 ---
 ## What it is
 Heimdall — MCP server for the Apple App Store Connect API & App Store Server API (StoreKit 2). 982 tools generated from Apple's official OpenAPI spec. Client-agnostic: Claude, Codex, Cursor, and any MCP client.

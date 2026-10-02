@@ -8,14 +8,14 @@ source_url: https://github.com/plastic-labs/honcho
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6980
+stars: 7433
 eval_score: null
 mentions: 6
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, memory]
-forks: 865
-pushed_at: "2026-09-02T03:03:48Z"
+forks: 918
+pushed_at: "2026-10-01T20:41:08Z"
 ---
 ## What it is
 Memory library for building stateful agents

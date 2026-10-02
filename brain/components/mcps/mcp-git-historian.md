@@ -8,13 +8,13 @@ source_url: https://github.com/AleBrito124356/mcp-git-historian
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T00:24:00Z"
+pushed_at: "2026-09-23T18:32:35Z"
 ---
 ## What it is
 MCP server for git archaeology — churn hotspots, blame summaries, bus factor, commit forensics and file history over any local repository.

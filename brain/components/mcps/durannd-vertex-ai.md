@@ -8,7 +8,7 @@ source_url: https://github.com/durannd/vertex-ai-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

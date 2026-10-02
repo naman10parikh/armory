@@ -8,11 +8,11 @@ source_url: https://github.com/automation-ai-labs/mcp-link
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 623
+stars: 625
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 66
+forks: 69
 pushed_at: "2025-04-03T15:48:57Z"
 ---
 ## What it is

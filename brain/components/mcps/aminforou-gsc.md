@@ -8,12 +8,12 @@ source_url: https://github.com/aminforou/mcp-gsc
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1470
+stars: 1822
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 200
-pushed_at: "2026-07-29T05:28:03Z"
+forks: 238
+pushed_at: "2026-09-15T16:54:24Z"
 ---
 ## What it is
 MCP server `Google Search Console`, catalogued on PulseMCP. Integrates with Google Search Console API to provide website search performance analytics, indexing status monitoring, and sitemap management for SEO professionals

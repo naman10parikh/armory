@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:32:32Z"
+pushed_at: "2026-09-25T01:54:38Z"
 ---
 ## What it is
 Validates phone numbers and provides country calling codes, enabling AI agents to look up international dialing codes and filter by country name, ISO code, or calling code.

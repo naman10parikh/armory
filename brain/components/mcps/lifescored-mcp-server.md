@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-29T17:04:42Z"
+pushed_at: "2026-09-20T01:52:01Z"
 ---
 ## What it is
 Provides access to the rulebook, input schema, and methodology for the life scored system, enabling agents to compute scores locally without sending personal data to the server.

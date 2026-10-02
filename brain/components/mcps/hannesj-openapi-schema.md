@@ -8,7 +8,7 @@ source_url: https://github.com/hannesj/mcp-openapi-schema
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

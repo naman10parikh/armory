@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-09-01T04:00:57Z"
+forks: 4
+pushed_at: "2026-09-15T10:44:10Z"
 ---
 ## What it is
 Provides MCP server and CLI for querying Arknights game data, including operator skills, glossary, and resource updates.

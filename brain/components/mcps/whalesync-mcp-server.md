@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T02:51:36Z"
+pushed_at: "2026-09-11T00:44:32Z"
 ---
 ## What it is
 Enables AI agents to create, manage, and monitor two-way data syncs between platforms like Airtable, Webflow, HubSpot, Salesforce, Notion, and Postgres, including mapping fields, running syncs, and troubleshooting record-level issues.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T00:28:24Z"
+pushed_at: "2026-09-13T16:11:18Z"
 ---
 ## What it is
 Enables durable message passing between Codex project agents with MCP tools and automatic wake-up delivery, storing messages as JSON on disk.

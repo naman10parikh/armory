@@ -8,11 +8,11 @@ source_url: https://github.com/mikusnuz/app-publish-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 7
 pushed_at: "2026-08-29T19:05:04Z"
 ---
 ## What it is

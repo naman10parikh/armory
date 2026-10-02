@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T05:36:24Z"
+pushed_at: "2026-09-14T03:19:20Z"
 ---
 ## What it is
 美餐MCP服务器，支持查询餐次、餐厅、菜单和订单，以及下单和取消订单操作。

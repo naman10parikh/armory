@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:39:51Z"
+pushed_at: "2026-09-25T21:54:12Z"
 ---
 ## What it is
 Search, query, and explore City of Phoenix open geospatial data (parcels, zoning, public works) via ArcGIS Feature Services.

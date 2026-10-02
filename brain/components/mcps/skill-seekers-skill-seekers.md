@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 14879
-forks: 1516
-pushed_at: "2026-08-30T14:52:19Z"
+stars: 15090
+forks: 1543
+pushed_at: "2026-09-30T18:49:17Z"
 ---
 ## What it is
 Transform 17 source types (docs, GitHub repos, PDFs, videos, Jupyter, Confluence, Notion, Slack/Discord) into AI-ready skills and RAG knowledge. 35 MCP tools for scraping, packaging, enhancing, and exporting to vector databases (Weaviate, Chroma, FAISS, Qdrant). Supports 16+ target platforms.

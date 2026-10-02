@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T03:27:18Z"
+pushed_at: "2026-09-23T09:51:43Z"
 ---
 ## What it is
 Submit and inspect governed business-system actions through a BailingHub control plane, with tools for submitting, retrieving, and waiting on governed jobs.

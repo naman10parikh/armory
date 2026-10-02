@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-04-17T02:25:23Z"
+pushed_at: "2026-09-24T02:45:57Z"
 ---
 ## What it is
 MCP server `PlutoMCP.jl`, catalogued on PulseMCP. Exposes live Pluto.jl notebooks for real-time inspection and manipulation through MCP with SSE and stdio transports.

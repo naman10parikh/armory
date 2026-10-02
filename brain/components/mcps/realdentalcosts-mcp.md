@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T11:36:33Z"
+pushed_at: "2026-09-05T11:35:21Z"
 ---
 ## What it is
 Real US & Canada dental price data for AI assistants: average costs by procedure, state and city, insurance acceptance, and cheapest-state lookups — backed by open datasets (CC BY 4.0, permanent DOIs).

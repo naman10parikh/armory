@@ -8,12 +8,12 @@ source_url: https://github.com/pipeworx-io/mcp-ticketmaster
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:29:06Z"
+pushed_at: "2026-09-26T21:57:32Z"
 ---
 ## What it is
 MCP server `Ticketmaster`, catalogued on PulseMCP. Ticketmaster Discovery API for event search, venues, and attractions via a managed MCP endpoint.

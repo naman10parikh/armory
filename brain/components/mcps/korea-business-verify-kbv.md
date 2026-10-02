@@ -8,13 +8,13 @@ source_url: https://github.com/Wonderfulian/kbv-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-27T06:40:01Z"
+forks: 1
+pushed_at: "2026-10-01T00:12:24Z"
 ---
 ## What it is
 Enables real-time verification of Korean business registration status and KYB identity checks using official Korea National Tax Service data.

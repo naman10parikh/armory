@@ -8,12 +8,12 @@ source_url: https://github.com/pipeworx-io/mcp-coinpaprika
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:49:42Z"
+pushed_at: "2026-09-25T22:56:48Z"
 ---
 ## What it is
 MCP server `Coinpaprika`, catalogued on PulseMCP. Access cryptocurrency market data from Coinpaprika including prices, historical data, coin details, and exchange information.

@@ -8,12 +8,12 @@ source_url: https://github.com/chrischall/infinitecampus-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-09-01T23:31:43Z"
+forks: 1
+pushed_at: "2026-09-28T13:52:07Z"
 ---
 ## What it is
 MCP server `Infinite Campus`, catalogued on PulseMCP. Access Infinite Campus parent portal for grades, attendance, assignments, and messages.

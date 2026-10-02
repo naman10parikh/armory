@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-01T20:04:32Z"
+pushed_at: "2026-09-14T12:38:09Z"
 ---
 ## What it is
 MCP server `Exotel`, catalogued on PulseMCP. Exotel’s MCP Server empowers Agentic AI to make calls, send messages, and automate customer outreach without telephony complexity.

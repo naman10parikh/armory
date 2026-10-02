@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-07-24T17:54:43Z"
+pushed_at: "2026-09-04T21:58:16Z"
 ---
 ## What it is
 MCP server `GTM + GA4`, catalogued on PulseMCP. Manages Google Tag Manager and GA4 through MCP: tags, consent auditing, versioning, and reports.

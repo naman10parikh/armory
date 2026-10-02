@@ -8,12 +8,12 @@ source_url: https://github.com/ajtudela/nav2_mcp_server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 84
+stars: 85
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 24
+forks: 25
 pushed_at: "2026-05-22T16:59:55Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T18:34:18Z"
+pushed_at: "2026-09-27T18:33:41Z"
 ---
 ## What it is
 MCP server for generating memes via the Imgflip API. It allows AI assistants to browse meme templates, caption them, and return the resulting image directly in the conversation.

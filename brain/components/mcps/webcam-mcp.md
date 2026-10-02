@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T21:33:02Z"
+pushed_at: "2026-09-11T16:00:12Z"
 ---
 ## What it is
 Enables a coding agent to see and hear the host machine via webcam stills, microphone speech-to-text, and optional text-to-speech replies, all processed locally.

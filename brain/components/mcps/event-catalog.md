@@ -8,11 +8,11 @@ source_url: https://github.com/event-catalog/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-02-11T13:39:02Z"
 ---
 ## What it is

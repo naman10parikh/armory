@@ -8,13 +8,13 @@ source_url: https://github.com/essovius/mcp-everything-search
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2025-12-25T00:02:36Z"
+forks: 3
+pushed_at: "2026-09-13T22:39:25Z"
 ---
 ## What it is
 Integrates Everything file search with Claude Desktop, enabling instant Windows filesystem search via natural language queries.

@@ -8,13 +8,13 @@ source_url: https://github.com/labelgrid/labelgrid-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T17:02:54Z"
+pushed_at: "2026-10-02T08:40:14Z"
 ---
 ## What it is
 The official MCP server for LabelGrid's music distribution platform, enabling natural language management of music catalogs, releases, files, analytics, royalties, webhooks, and distribution via a thin wrapper over the LabelGrid public API.

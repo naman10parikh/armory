@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-23T12:10:52Z"
+pushed_at: "2026-09-07T14:23:18Z"
 ---
 ## What it is
 MCP server `Indigo Protocol`, catalogued on PulseMCP. Exposes Indigo Protocol iAsset prices, CDP analytics, stability pool data, staking positions, governance, and DEX operations on the Cardano blockchain.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:33:43Z"
+pushed_at: "2026-09-25T21:24:16Z"
 ---
 ## What it is
 Enables querying City of Asheville open geospatial data (parcels, zoning, etc.) through ArcGIS Feature Services. Supports searching datasets, querying layers with SQL-like filters, and retrieving layer schemas.

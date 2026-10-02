@@ -8,13 +8,13 @@ source_url: https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 67
+stars: 68
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 19
-pushed_at: "2026-05-20T02:26:49Z"
+forks: 21
+pushed_at: "2026-09-29T17:35:31Z"
 ---
 ## What it is
 Connects MCP clients to Gemini Cloud Assist APIs, enabling users to understand, manage, and troubleshoot their Google Cloud environment using natural language.

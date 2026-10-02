@@ -8,13 +8,13 @@ source_url: https://github.com/kitepon-rgb/aishell
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T04:48:07Z"
+pushed_at: "2026-09-21T13:29:46Z"
 ---
 ## What it is
 A macOS-native MCP server that provides AI hosts with fresh workspace state, bounded context, and retained execution evidence, avoiding collapsing operations into shell strings.

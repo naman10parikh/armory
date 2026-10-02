@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T18:15:36Z"
+pushed_at: "2026-09-26T19:02:54Z"
 ---
 ## What it is
 MCP server `HackerTarget`, catalogued on PulseMCP. HackerTarget network intelligence and security scanning tools via a Pipeworx-hosted MCP endpoint.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T12:45:29Z"
+pushed_at: "2026-09-11T12:06:08Z"
 ---
 ## What it is
 Enables AI agents to securely retrieve passwords, API keys, and other items from a Vaultwarden/Bitwarden vault using MCP tools with fuzzy search and caching.

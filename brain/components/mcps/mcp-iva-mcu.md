@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T07:04:47Z"
+pushed_at: "2026-09-03T10:48:53Z"
 ---
 ## What it is
 Enables AI agents to manage video conferencing through the IVA MCU platform, including conferences, chats, users, and integrations via Clients, Integration, and Bot APIs.

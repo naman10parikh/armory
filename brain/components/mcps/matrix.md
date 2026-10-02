@@ -15,7 +15,7 @@ related: []
 tags: [glama, mcp]
 mentions: null
 forks: 0
-pushed_at: "2026-09-01T13:51:55Z"
+pushed_at: "2026-10-01T15:55:05Z"
 ---
 ## What it is
 A local, project-scoped requirement management MCP server that enables AI agents to manage tasks and requirements via SQLite.

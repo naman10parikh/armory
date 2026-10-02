@@ -8,13 +8,13 @@ source_url: https://github.com/DataCovey/nornweave
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 27
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-31T17:37:04Z"
+pushed_at: "2026-10-02T13:21:14Z"
 ---
 ## What it is
 Open-source, self-hosted Inbox-as-a-Service API for AI agents. It enables agents to manage email inboxes, send/receive emails, search messages, and wait for replies via REST or MCP.

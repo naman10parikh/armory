@@ -8,11 +8,11 @@ source_url: https://github.com/shuotao/revit_mcp_study
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 102
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 110
+forks: 142
 pushed_at: "2026-08-31T08:38:28Z"
 ---
 ## What it is

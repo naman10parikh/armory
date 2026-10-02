@@ -8,13 +8,13 @@ source_url: https://github.com/f-tiger/verified-ai-free-tiers
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T01:12:29Z"
+pushed_at: "2026-10-02T02:25:31Z"
 ---
 ## What it is
 Verified AI free-tier limits, quota comparisons, commercial-use verdicts and zero-cost workflows. Every entry carries a human-checked verification date and is re-checked by a daily link patrol.

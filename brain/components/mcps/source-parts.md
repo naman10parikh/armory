@@ -8,11 +8,11 @@ source_url: https://github.com/sourceparts/parts-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 1
 pushed_at: "2026-08-16T09:38:32Z"
 ---
 ## What it is

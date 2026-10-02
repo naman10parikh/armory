@@ -8,12 +8,12 @@ source_url: https://github.com/basilalshukaili/agentbroker
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-09-02T02:42:03Z"
+forks: 1
+pushed_at: "2026-10-01T16:40:57Z"
 ---
 ## What it is
 MCP server `Agent Broker`, catalogued on PulseMCP. Connects AI agents with small businesses for discovery, messaging, and appointment booking.

@@ -8,13 +8,13 @@ source_url: https://github.com/matematicsolutions/ie-eli-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:56:22Z"
+pushed_at: "2026-09-24T13:29:00Z"
 ---
 ## What it is
 An MCP server that provides access to the Irish Statute Book, enabling retrieval of metadata and full enacted text for Irish acts and statutory instruments by year, number, and type, with verifiable ELI identifiers and citations.

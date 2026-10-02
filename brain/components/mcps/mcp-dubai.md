@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-14T10:13:13Z"
+pushed_at: "2026-09-29T10:07:25Z"
 ---
 ## What it is
 An MCP server that provides AI agents with access to Dubai and UAE public data (prayer times, exchange rates, school ratings, etc.) and curated business setup knowledge for entrepreneurs.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-17T12:38:42Z"
+pushed_at: "2026-09-22T17:33:27Z"
 ---
 ## What it is
 MCP server `Go Docs`, catalogued on PulseMCP. Reads and processes PDF, TXT, Markdown, DOCX, CSV, and image files through 12 tools delivered as a single dependency-free Go binary.

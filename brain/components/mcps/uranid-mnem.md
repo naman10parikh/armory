@@ -8,11 +8,11 @@ source_url: https://github.com/uranid/mnem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 144
+stars: 150
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 35
+forks: 36
 pushed_at: "2026-08-03T08:22:54Z"
 ---
 ## What it is

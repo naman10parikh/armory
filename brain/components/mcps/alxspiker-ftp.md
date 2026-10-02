@@ -8,12 +8,12 @@ source_url: https://github.com/alxspiker/mcp-server-ftp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
-pushed_at: "2026-08-22T20:41:53Z"
+forks: 15
+pushed_at: "2026-09-28T11:38:34Z"
 ---
 ## What it is
 MCP server `FTP Server Manager`, catalogued on PulseMCP. Enables direct FTP and FTPS server management through natural language commands for remote file operations including directory listing, file transfers, and folder creation.

@@ -8,13 +8,13 @@ source_url: https://github.com/a1c-ai-agent/sally-skills
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-18T01:52:28Z"
+pushed_at: "2026-09-26T00:55:18Z"
 ---
 ## What it is
 Plug Sally AI into your agent. The clinical-grade health intelligence behind A1C Insights, Sally AI, now exposed as an MCP endpoint and REST API to your agent — 64+ biomarkers across Western clinical and TCM preventive frameworks. Authenticate, call the skills you need, get billed per request. Built

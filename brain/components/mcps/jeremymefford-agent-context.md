@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T20:32:09Z"
+pushed_at: "2026-09-07T13:00:23Z"
 ---
 ## What it is
 MCP server `Agent Context`, catalogued on PulseMCP. Rust-native code search MCP server for semantic, symbol, and lexical search across local repositories.

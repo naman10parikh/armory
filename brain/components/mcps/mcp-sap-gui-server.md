@@ -8,13 +8,13 @@ source_url: https://github.com/kts982/mcp-sap-gui
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 26
+stars: 35
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-08-29T21:03:49Z"
+forks: 14
+pushed_at: "2026-09-20T15:15:41Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to interact with SAP GUI for Windows through the SAP GUI Scripting API.

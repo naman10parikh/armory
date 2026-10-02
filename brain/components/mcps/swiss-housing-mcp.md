@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T21:30:17Z"
+pushed_at: "2026-09-26T13:37:40Z"
 ---
 ## What it is
 Enables AI agents to query the Swiss Federal Register of Buildings and Dwellings (GWR/RegBL) — including building lookups, address geocoding, construction statistics, and housing pipeline analysis — through MCP tools.

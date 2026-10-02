@@ -8,13 +8,13 @@ source_url: https://github.com/mayflower/contextmine
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-09-01T20:36:54Z"
+forks: 8
+pushed_at: "2026-09-28T04:27:02Z"
 ---
 ## What it is
 Self-hosted documentation and code indexing with MCP integration.

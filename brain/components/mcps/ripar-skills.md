@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T10:27:50Z"
+pushed_at: "2026-09-18T07:53:32Z"
 ---
 ## What it is
 This MCP server enables AI agents to interact with Ripar's decentralized registries on Algorand, offering tools for searching agents, checking reputations, listing jobs, auditing settlements, and composing unsigned transactions for payments.

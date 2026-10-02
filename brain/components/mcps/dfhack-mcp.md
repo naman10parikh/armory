@@ -8,7 +8,7 @@ source_url: https://github.com/alexanderolvera/dfhack-mcp
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,13 +8,13 @@ source_url: https://github.com/artgas1/xmlriver-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-04T20:06:17Z"
+forks: 2
+pushed_at: "2026-09-23T22:45:08Z"
 ---
 ## What it is
 MCP server for XMLRiver enabling Google and Yandex SERP parsing, Yandex Wordstat keyword frequency, indexing checks, and account operations.

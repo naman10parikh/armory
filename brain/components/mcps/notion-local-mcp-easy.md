@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T12:36:34Z"
+pushed_at: "2026-09-28T12:36:16Z"
 ---
 ## What it is
 A Windows MCP server for personal Notion Agent integration, providing file read, search, and modification tools in a selected workspace, with an optional trusted developer mode for Python, Git, Node, etc.

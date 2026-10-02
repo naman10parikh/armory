@@ -8,7 +8,7 @@ source_url: https://github.com/fugle-dev/fugle-marketdata-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -8,13 +8,13 @@ source_url: https://github.com/Doucs91/hAIve
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T16:47:06Z"
+pushed_at: "2026-09-21T17:16:45Z"
 ---
 ## What it is
 Enforces team knowledge and workflow policies for AI coding agents by providing context, decisions, and gates before code changes are made.

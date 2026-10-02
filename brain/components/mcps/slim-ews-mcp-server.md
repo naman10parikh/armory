@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T11:23:24Z"
+pushed_at: "2026-09-04T15:23:14Z"
 ---
 ## What it is
 Enables Claude to safely interact with an on-premises Microsoft Exchange mailbox via EWS for email operations like list, read, reply, forward, move, delete (soft), and mark read/unread, with enforced two-step confirmation on destructive actions.

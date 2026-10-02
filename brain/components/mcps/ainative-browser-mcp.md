@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T02:36:53Z"
+pushed_at: "2026-09-25T04:31:57Z"
 ---
 ## What it is
 MCP server providing browser automation for AI agents, enabling actions like clicking and typing, structured data extraction, content validation, multi-step task execution, and memory enrichment from web pages.

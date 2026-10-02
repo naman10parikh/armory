@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-08T21:30:33Z"
+pushed_at: "2026-10-01T18:46:26Z"
 ---
 ## What it is
 Manages multiple WordPress sites through the Codex WP Admin Bridge plugin, offering site inspection, plugin/theme management, option reading/writing, file operations, read-only SQL, REST proxy, translation checks, and WooCommerce checkout field inspection. Supports automatic site registration via an

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-09-01T14:30:50Z"
+pushed_at: "2026-10-01T16:18:28Z"
 ---
 ## What it is
 MCP server `Ignite UI`, catalogued on PulseMCP. Official MCP server for Ignite UI providing documentation access, GitHub API integration, and CLI component scaffolding.

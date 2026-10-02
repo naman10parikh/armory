@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T20:55:45Z"
+pushed_at: "2026-09-03T08:35:26Z"
 ---
 ## What it is
 Enables querying deterministic risk ratings and explanations for tokenized assets on Mantle.

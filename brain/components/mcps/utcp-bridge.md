@@ -8,11 +8,11 @@ source_url: https://github.com/universal-tool-calling-protocol/utcp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 203
+stars: 205
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
+forks: 26
 pushed_at: "2026-05-03T19:52:26Z"
 ---
 ## What it is

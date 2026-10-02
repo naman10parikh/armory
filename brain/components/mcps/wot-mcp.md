@@ -8,12 +8,12 @@ source_url: https://github.com/macc-n/wot-mcp
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-02-04T19:39:56Z"
 ---
 ## What it is

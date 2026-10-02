@@ -8,13 +8,13 @@ source_url: https://github.com/datakoot/economy-intel-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T00:23:39Z"
+pushed_at: "2026-09-25T22:02:14Z"
 ---
 ## What it is
 Provides macroeconomic data (GDP, inflation, unemployment, trade) for any country via MCP tools, sourced from World Bank and US BLS, no API keys required.

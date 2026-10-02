@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, workflows-knowledge-guides]
-stars: 2063
-forks: 176
-pushed_at: "2026-09-01T06:53:29Z"
+stars: 2081
+forks: 179
+pushed_at: "2026-10-02T09:15:03Z"
 ---
 ## What it is
 A development environment for Claude Code with a spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks and modular rules. Large, with wide coverage.

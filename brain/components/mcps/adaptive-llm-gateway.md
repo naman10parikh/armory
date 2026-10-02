@@ -8,13 +8,13 @@ source_url: https://github.com/renefichtmueller/adaptive-llm-gateway
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T09:22:52Z"
+pushed_at: "2026-10-02T10:28:31Z"
 ---
 ## What it is
 Exposes an OpenAI- and Anthropic-compatible HTTP, SSE, and stdio gateway that wraps multiple subscription CLIs, adding prompt-injection defense, PII redaction, cost-aware routing, and reasoning-trace capture for MCP-compatible clients like Claude Desktop and Cursor.

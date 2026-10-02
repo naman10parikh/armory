@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T21:45:05Z"
+pushed_at: "2026-09-29T15:47:40Z"
 ---
 ## What it is
 Enables peer-to-peer AI inference donation by exposing MCP tools to check node status and request capacity, with local-first compute sharing, consent, and metering.

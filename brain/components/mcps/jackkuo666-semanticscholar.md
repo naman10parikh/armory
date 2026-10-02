@@ -8,7 +8,7 @@ source_url: https://github.com/jackkuo666/semanticscholar-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 86
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

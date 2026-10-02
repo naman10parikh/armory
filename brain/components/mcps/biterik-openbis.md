@@ -8,12 +8,12 @@ source_url: https://github.com/biterik/openbis-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-01T08:36:52Z"
+pushed_at: "2026-10-02T09:43:19Z"
 ---
 ## What it is
 MCP server `openBIS`, catalogued on PulseMCP. Exposes openBIS scientific data management to LLM agents with 30+ tools for browsing, searching, and managing research data.

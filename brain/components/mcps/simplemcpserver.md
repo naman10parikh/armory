@@ -8,13 +8,13 @@ source_url: https://github.com/redcool/SimpleMCPServer
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T10:15:43Z"
+pushed_at: "2026-09-21T11:44:38Z"
 ---
 ## What it is
 Enables AI agents (like Claude Code, Cursor) to directly operate Unity scenes via MCP protocol, with tools for scene hierarchy, object creation/deletion, and transform modification.

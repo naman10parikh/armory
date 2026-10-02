@@ -8,11 +8,11 @@ source_url: https://github.com/manfye/data-dosm-mcp-nodejs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2025-07-08T09:17:16Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: "https://github.com/microsoft/playwright-cli"
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 13015
+stars: 13732
 eval_score: 1
 verified_at: 2026-05-28
 related: []
 tags: [browser, playwright]
-forks: 704
-pushed_at: "2026-09-01T21:58:33Z"
+forks: 761
+pushed_at: "2026-09-28T23:23:12Z"
 mentions: 1
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T03:52:37Z"
+pushed_at: "2026-09-11T03:10:11Z"
 ---
 ## What it is
 Enables building and managing Cloudgate workflow-APIs, including controllers, actions, workflow graphs, and databases, from any MCP-compatible AI client.

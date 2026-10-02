@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T17:54:02Z"
+pushed_at: "2026-10-02T02:31:25Z"
 ---
 ## What it is
 LLM-optimized MCP server for Obsidian vaults with surgical edits, hash-based concurrency safety, and no whole-file rewrites.

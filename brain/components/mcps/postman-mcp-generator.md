@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-16T12:30:49Z"
+pushed_at: "2026-09-07T06:48:32Z"
 ---
 ## What it is
 An MCP server generated from Postman API requests, enabling natural language interaction with Postman collections via MCP-compatible clients like Claude.

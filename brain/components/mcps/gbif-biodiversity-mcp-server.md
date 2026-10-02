@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T08:14:38Z"
+pushed_at: "2026-09-20T15:26:47Z"
 ---
 ## What it is
 Search GBIF species taxonomy, occurrence records, datasets, and publishers via MCP.

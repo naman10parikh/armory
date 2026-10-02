@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-06-23T12:48:14Z"
+pushed_at: "2026-09-06T08:40:59Z"
 ---
 ## What it is
 MCP server `HeadHunter Jobs`, catalogued on PulseMCP. Job vacancy search, salary statistics, employer data, and regional information via the hh.ru public API.

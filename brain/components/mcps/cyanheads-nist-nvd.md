@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-25T05:56:36Z"
+pushed_at: "2026-09-20T20:00:54Z"
 ---
 ## What it is
 MCP server `NIST NVD`, catalogued on PulseMCP. Search and audit NIST National Vulnerability Database CVEs by keyword, severity, CWE, CISA KEV status, and CPE.

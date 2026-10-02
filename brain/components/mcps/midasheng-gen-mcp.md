@@ -8,13 +8,13 @@ source_url: https://github.com/sandraschi/midasheng-gen-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T16:53:12Z"
+pushed_at: "2026-10-02T12:42:17Z"
 ---
 ## What it is
 Generates coherent mixed audio scenes (speech, music, SFX, ambience) from text using an LLM-driven model, with speech in 9 languages and emotion control.

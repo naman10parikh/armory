@@ -8,11 +8,11 @@ source_url: https://github.com/getaegis/aegis
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2026-08-06T09:00:18Z"
 ---
 ## What it is

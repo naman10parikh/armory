@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
-pushed_at: "2026-08-30T09:13:12Z"
+forks: 12
+pushed_at: "2026-09-02T10:14:10Z"
 ---
 ## What it is
 Provides a tool to fetch npm package information via the Model Context Protocol.

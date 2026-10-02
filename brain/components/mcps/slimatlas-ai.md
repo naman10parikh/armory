@@ -8,13 +8,13 @@ source_url: https://github.com/hasindu-madushan/slim-atlas-ai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T09:45:33Z"
+pushed_at: "2026-09-10T15:26:55Z"
 ---
 ## What it is
 An MCP server for lightweight browser automation using Lightpanda with Chrome fallback, providing LLM-optimized accessibility tree snapshots for precise element targeting.

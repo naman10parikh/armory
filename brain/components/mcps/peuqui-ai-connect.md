@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-01T06:08:19Z"
+pushed_at: "2026-10-02T06:49:58Z"
 ---
 ## What it is
 MCP server `AI-Connect`, catalogued on PulseMCP. Creates a communication bridge between multiple Claude Code instances using WebSocket connections for multi-agent collaboration and consensus-based decision making.

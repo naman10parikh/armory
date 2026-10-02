@@ -8,7 +8,7 @@ source_url: https://github.com/PayRam/payram-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 155
+stars: 157
 eval_score: null
 verified_at: 2026-05-27
 related: []

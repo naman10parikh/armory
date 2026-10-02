@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T22:00:35Z"
+pushed_at: "2026-09-26T03:16:14Z"
 ---
 ## What it is
 Provides free, zero-marginal-cost MCP tools for structured small business teardown, competitor analysis, review intelligence, and market opportunity scanning, returning research methodology for AI models to execute.

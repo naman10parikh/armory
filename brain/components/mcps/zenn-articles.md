@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T07:10:22Z"
+pushed_at: "2026-10-01T01:01:57Z"
 ---
 ## What it is
 An MCP server for searching Zenn blog posts and generating frontend weekly content summaries.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-30T16:31:07Z"
+pushed_at: "2026-10-01T08:19:38Z"
 ---
 ## What it is
 MCP server `Peppol Network`, catalogued on PulseMCP. Look up Peppol network participants, document types, SMP endpoints, and validate e-procurement identifiers via AI assistants.

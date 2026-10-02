@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T22:35:31Z"
+pushed_at: "2026-10-02T07:40:56Z"
 ---
 ## What it is
 MCP server `Aliyun SLS`, catalogued on PulseMCP. Queries Alibaba Cloud Simple Log Service logs using natural language.

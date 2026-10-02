@@ -8,11 +8,11 @@ source_url: https://github.com/gongrzhe/office-powerpoint-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1852
+stars: 1854
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 246
+forks: 249
 pushed_at: "2025-12-31T13:23:39Z"
 ---
 ## What it is

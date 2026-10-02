@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T23:36:06Z"
+pushed_at: "2026-09-30T16:54:18Z"
 ---
 ## What it is
 A Model Context Protocol server that connects Claude to your own Kia vehicle through the Kia Owners API, enabling vehicle status, location, odometer, EV charge state, and confirm-gated commands for doors, climate, and charging.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T20:16:49Z"
+pushed_at: "2026-10-02T06:20:44Z"
 ---
 ## What it is
 Voice-driven CFD MCP server that enables natural language setup, execution, and analysis of OpenFOAM simulations, with results exportable to ParaView.

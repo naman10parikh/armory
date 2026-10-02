@@ -8,11 +8,11 @@ source_url: https://github.com/webita/blender-codex-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2026-04-26T09:29:06Z"
 ---
 ## What it is

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T23:29:22Z"
+forks: 1
+pushed_at: "2026-09-30T16:52:53Z"
 ---
 ## What it is
 MCP server for FreshBooks, providing tools to browse and manage invoices, clients, estimates, payments, expenses, projects, and time entries. Handles OAuth2 authorization and token rotation, enabling Claude to interact with FreshBooks accounting via natural language.

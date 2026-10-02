@@ -8,14 +8,14 @@ source_url: https://github.com/zed-industries/zed
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 89612
+stars: 91200
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 10392
-pushed_at: "2026-09-02T05:09:22Z"
+forks: 10872
+pushed_at: "2026-10-02T13:35:35Z"
 ---
 ## What it is
 Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.

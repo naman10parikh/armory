@@ -8,11 +8,11 @@ source_url: https://github.com/tritlo/lsp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 123
+stars: 125
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
+forks: 19
 pushed_at: "2025-07-21T16:43:01Z"
 ---
 ## What it is

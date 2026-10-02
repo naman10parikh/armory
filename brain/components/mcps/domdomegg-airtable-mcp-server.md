@@ -8,12 +8,12 @@ source_url: https://github.com/domdomegg/airtable-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 456
+stars: 457
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 132
-pushed_at: "2026-08-11T19:09:42Z"
+forks: 133
+pushed_at: "2026-09-09T22:19:23Z"
 ---
 ## What it is
 MCP server `Airtable`, catalogued on PulseMCP. Provides read and write access to Airtable databases.

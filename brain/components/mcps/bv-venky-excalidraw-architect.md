@@ -8,11 +8,11 @@ source_url: https://github.com/bv-venky/excalidraw-architect-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 147
+stars: 156
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 10
 pushed_at: "2026-08-25T19:10:17Z"
 ---
 ## What it is

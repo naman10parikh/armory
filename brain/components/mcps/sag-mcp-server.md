@@ -8,13 +8,13 @@ source_url: https://github.com/guazixiong/sag-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T08:19:15Z"
+pushed_at: "2026-09-25T00:21:37Z"
 ---
 ## What it is
 Enables full read/write management of SAG knowledge bases, including source and document CRUD, semantic search, knowledge graph queries, and model configuration through 18 MCP tools.

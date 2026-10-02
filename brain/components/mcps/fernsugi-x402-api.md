@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-03-12T10:45:15Z"
+pushed_at: "2026-09-30T07:09:02Z"
 ---
 ## What it is
 MCP server `x402 DeFi Data API`, catalogued on PulseMCP. Pay-per-call DeFi data API for AI agents using x402/USDC micropayments on Base.

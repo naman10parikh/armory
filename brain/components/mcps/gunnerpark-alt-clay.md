@@ -12,8 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-07-15T19:29:21Z"
+forks: 2
+pushed_at: "2026-09-04T18:57:46Z"
 ---
 ## What it is
 MCP server `Clay`, catalogued on PulseMCP. Connects to Clay's data enrichment platform for schema analysis, row lookup, error diagnostics, and subroutine tracing.

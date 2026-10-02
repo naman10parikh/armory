@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T02:02:01Z"
+pushed_at: "2026-09-23T12:35:30Z"
 ---
 ## What it is
 MCP server that connects AI assistants like Claude to your Nestr workspace, enabling task, project, role management, and organizational insights through natural language.

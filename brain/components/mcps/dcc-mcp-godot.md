@@ -8,13 +8,13 @@ source_url: https://github.com/dcc-mcp/dcc-mcp-godot
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T18:15:15Z"
+pushed_at: "2026-10-01T10:46:08Z"
 ---
 ## What it is
 Enables Godot 4 editor interaction through MCP, including project/scene inspection, script writing, and a 2D roguelike skill for AI agents.

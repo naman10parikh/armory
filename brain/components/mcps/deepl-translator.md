@@ -8,12 +8,12 @@ source_url: https://github.com/deeplcom/deepl-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 112
+stars: 117
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
-pushed_at: "2026-09-01T19:02:37Z"
+forks: 19
+pushed_at: "2026-10-01T20:04:53Z"
 ---
 ## What it is
 MCP server `DeepL Translator`, catalogued on PulseMCP. Integrates with DeepL to provide high-quality text translation and rephrasing between numerous languages with formality controls for supported language pairs.

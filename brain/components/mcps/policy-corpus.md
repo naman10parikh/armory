@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T13:36:21Z"
+pushed_at: "2026-09-25T16:17:07Z"
 ---
 ## What it is
 Read-only MCP server providing 5 tools for hybrid search, clause retrieval, policy versioning, code lookup, and plan rider override queries over a synthetic medical-policy corpus.

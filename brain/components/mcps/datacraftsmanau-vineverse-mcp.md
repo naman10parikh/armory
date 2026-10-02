@@ -8,13 +8,13 @@ source_url: https://github.com/DataCraftsmanAU/vineverse-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T06:15:21Z"
+pushed_at: "2026-09-05T14:49:41Z"
 ---
 ## What it is
 Bible knowledge graph: 31,102 verses, 341,289 cross references, people, places, themes.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T21:11:30Z"
+pushed_at: "2026-09-29T04:30:14Z"
 ---
 ## What it is
 A lightweight MCP server that acts as a secure proxy for AI assistants to run local Git operations and GitHub API macros simultaneously.

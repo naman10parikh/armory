@@ -8,13 +8,13 @@ source_url: https://github.com/ivan1911/eva-custom-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T14:38:58Z"
+pushed_at: "2026-09-26T09:33:55Z"
 ---
 ## What it is
 Custom MCP server for EvaTeam that enables interaction with glossary pages, project tasks, and wiki documents via tools for search, create, update, delete, and more.

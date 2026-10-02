@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-01T16:31:08Z"
+pushed_at: "2026-09-05T14:02:28Z"
 ---
 ## What it is
 MCP server `Kontur Focus`, catalogued on PulseMCP. Company search, brief reports, financial analytics, and counterparty risk via the Kontur.Focus API.

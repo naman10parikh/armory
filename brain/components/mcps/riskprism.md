@@ -8,13 +8,13 @@ source_url: https://github.com/wanxinwanxin/risk-prism
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-24T19:11:53Z"
+pushed_at: "2026-09-28T13:18:19Z"
 ---
 ## What it is
 MCP server for decomposing US equity portfolio risk into factor exposures, with tools for portfolio risk, factor exposures, stress tests, and coverage checks using Barra-style fundamental factor models.

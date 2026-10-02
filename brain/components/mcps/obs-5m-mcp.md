@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T01:32:06Z"
+pushed_at: "2026-09-22T14:27:24Z"
 ---
 ## What it is
 MCP server for Open Bible Stories + Theological Formation (Five Movements) content, providing tools like fetch_obs_study_manual to retrieve study manuals, story details, and PDF resources for translation workflows.

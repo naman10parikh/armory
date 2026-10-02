@@ -8,11 +8,11 @@ source_url: https://github.com/xgenerationlab/xiyan_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 242
+stars: 239
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 48
+forks: 49
 pushed_at: "2026-02-11T09:41:44Z"
 ---
 ## What it is

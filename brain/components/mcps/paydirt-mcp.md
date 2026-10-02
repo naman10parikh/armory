@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T20:14:41Z"
+pushed_at: "2026-10-01T20:19:58Z"
 ---
 ## What it is
 Enables coding agents to install and manage Paydirt's iOS SDK for user feedback, trial cancellation, and subscription cancellation, with Slack integration and app building.

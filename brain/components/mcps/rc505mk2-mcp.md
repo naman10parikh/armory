@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-21T15:59:08Z"
+pushed_at: "2026-09-20T23:35:56Z"
 ---
 ## What it is
 Enables controlling a Roland RC-505mk2 loop station via natural language, allowing creation and upload of FX rack presets to the device over USB.

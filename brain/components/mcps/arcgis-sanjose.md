@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:40:46Z"
+pushed_at: "2026-09-25T21:56:38Z"
 ---
 ## What it is
 Search and query City of San Jose GIS open geospatial datasets (parcels, zoning, public works) via ArcGIS Feature Services, enabling AI agents to access live geospatial data through natural language.

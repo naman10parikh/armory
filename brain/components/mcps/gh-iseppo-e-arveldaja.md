@@ -8,12 +8,12 @@ source_url: https://github.com/iseppo/e-arveldaja-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
-pushed_at: "2026-08-27T09:02:22Z"
+forks: 9
+pushed_at: "2026-09-25T18:48:07Z"
 ---
 ## What it is
 MCP server `e-Arveldaja`, catalogued on PulseMCP. Interfaces with Estonian RIK e-Financials accounting API.

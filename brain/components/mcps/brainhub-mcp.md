@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T08:04:22Z"
+pushed_at: "2026-09-11T10:01:31Z"
 ---
 ## What it is
 Reads top-level sessions from Claude Code, Codex CLI, and Grok Build, filters and anonymizes them, then writes snapshots to Google Drive for mixed semantic search, portrait retrieval, and status queries.

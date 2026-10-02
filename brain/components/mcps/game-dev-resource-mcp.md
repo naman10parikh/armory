@@ -8,13 +8,13 @@ source_url: https://github.com/dsaewkfiush03-debug/game-dev-resource-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T12:34:57Z"
+pushed_at: "2026-09-30T12:34:26Z"
 ---
 ## What it is
 License-aware game development resource discovery MCP server. Helps AI coding agents find reusable game assets with commercial-use filtering, license classification, and attribution generation.

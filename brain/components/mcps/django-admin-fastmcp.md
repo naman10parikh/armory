@@ -8,13 +8,13 @@ source_url: https://github.com/edelvalle/django-admin-fastmcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T11:08:32Z"
+pushed_at: "2026-09-30T10:43:09Z"
 ---
 ## What it is
 Exposes the Django admin as an MCP server, letting authorized staff interact with admin models via natural language while delegating all permissions to the existing ModelAdmin.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T19:27:23Z"
+pushed_at: "2026-10-02T08:12:38Z"
 ---
 ## What it is
 MCP server orchestrating API-first cross-review between Claude, ChatGPT Codex, Gemini, DeepSeek, Grok, and Perplexity with unanimous convergence gates.

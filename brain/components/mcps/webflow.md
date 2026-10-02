@@ -8,11 +8,11 @@ source_url: https://github.com/webflow/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 138
+stars: 140
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 34
+forks: 35
 pushed_at: "2026-06-09T05:00:48Z"
 mentions: null
 ---

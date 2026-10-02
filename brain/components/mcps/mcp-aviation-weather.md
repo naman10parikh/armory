@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:42:46Z"
+pushed_at: "2026-09-25T22:02:33Z"
 ---
 ## What it is
 Provides aviation weather data including METAR, TAF, PIREPs, AIRMET/SIGMET, station info, and winds aloft forecasts.

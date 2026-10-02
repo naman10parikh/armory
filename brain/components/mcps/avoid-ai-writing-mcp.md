@@ -8,13 +8,13 @@ source_url: https://github.com/conorbronsdon/avoid-ai-writing-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T08:01:25Z"
+pushed_at: "2026-09-29T08:23:49Z"
 ---
 ## What it is
 Provides local, deterministic scoring and detailed auditing of text for AI-writing patterns via two read-only tools, with no network calls or language models.

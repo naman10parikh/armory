@@ -8,12 +8,12 @@ source_url: https://github.com/borgius/jobspy-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 107
+stars: 116
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 44
+forks: 45
 pushed_at: "2026-03-13T14:56:08Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:51:42Z"
+pushed_at: "2026-09-25T23:02:35Z"
 ---
 ## What it is
 MCP server `Crossref Academic Papers`, catalogued on PulseMCP. Academic paper metadata and DOI lookups via the Crossref REST API, covering 130M+ scholarly records.

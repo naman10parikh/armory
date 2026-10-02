@@ -8,12 +8,12 @@ source_url: https://github.com/mphinance/momentum-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
-pushed_at: "2026-07-22T16:50:06Z"
+forks: 9
+pushed_at: "2026-09-13T22:41:06Z"
 ---
 ## What it is
 MCP server `Momentum Trading`, catalogued on PulseMCP. Quantitative trading analysis with stock screening, technicals, and candlestick charts.

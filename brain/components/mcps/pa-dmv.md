@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:31:12Z"
+pushed_at: "2026-09-25T01:49:49Z"
 ---
 ## What it is
 Query Pennsylvania DMV data for EV adoption and vehicle registrations by county and ZIP code.

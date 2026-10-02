@@ -8,13 +8,13 @@ source_url: https://github.com/Raunaksplanet/xcode-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-04T04:40:55Z"
+pushed_at: "2026-09-24T05:05:02Z"
 ---
 ## What it is
 Bridges AI assistants with Xcode to control projects, builds, simulators, testing, and debugging without manual interaction.

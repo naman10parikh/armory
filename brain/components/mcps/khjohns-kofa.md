@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-03-30T17:36:17Z"
+pushed_at: "2026-09-09T07:39:32Z"
 ---
 ## What it is
 MCP server `KOFA`, catalogued on PulseMCP. Norwegian public procurement decisions from KOFA with full-text search, semantic search, and case filtering.

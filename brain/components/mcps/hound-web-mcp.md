@@ -8,7 +8,7 @@ source_url: https://github.com/dondai1234/master-fetch
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 864
+stars: 883
 eval_score: null
 verified_at: 2026-05-27
 related: []

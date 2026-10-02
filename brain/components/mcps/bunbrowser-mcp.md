@@ -8,13 +8,13 @@ source_url: https://github.com/vintik100/bunbrowser
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-30T19:39:44Z"
+pushed_at: "2026-09-02T06:06:02Z"
 ---
 ## What it is
 Ultra-fast, zero-download MCP server for browser automation powered by Bun.WebView. Provides 24 tools for navigation, interaction, screenshots, performance audits, and more, as a drop-in replacement for @playwright/mcp.

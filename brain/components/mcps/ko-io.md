@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T12:18:54Z"
+pushed_at: "2026-09-28T23:08:18Z"
 ---
 ## What it is
 Wall Street data feed for AI agents, providing access to 100M+ source-traced SEC records, institutional holdings, insider trades, congress trading, and more via MCP tools.

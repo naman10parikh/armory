@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T21:20:04Z"
+pushed_at: "2026-09-02T19:54:28Z"
 ---
 ## What it is
 Enables AI-powered security scanning of code changes and files through coding assistants, detecting vulnerabilities and providing fixes.

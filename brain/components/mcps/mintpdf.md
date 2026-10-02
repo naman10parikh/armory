@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-23T09:49:34Z"
+pushed_at: "2026-10-02T07:40:42Z"
 ---
 ## What it is
 MCP server that converts HTML or Markdown to PDF and can generate PDFs from URLs, with tools generate_pdf and pdf_from_url.

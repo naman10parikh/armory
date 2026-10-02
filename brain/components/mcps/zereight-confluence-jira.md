@@ -8,11 +8,11 @@ source_url: https://github.com/zereight/confluence-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 8
 pushed_at: "2026-08-11T01:58:10Z"
 ---
 ## What it is

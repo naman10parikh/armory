@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-21T01:17:14Z"
+pushed_at: "2026-10-01T20:24:47Z"
 ---
 ## What it is
 A content exploration MCP server that helps LLMs surface high-signal, unsummarized web content through clean APIs and Markdown conversion, with intelligent frontmatter steering and citation tracking.

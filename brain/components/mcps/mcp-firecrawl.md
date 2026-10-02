@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:07:10Z"
+pushed_at: "2026-09-26T12:27:55Z"
 ---
 ## What it is
 Web scraping and search MCP server that wraps Firecrawl API for URL discovery and web search with optional content retrieval.

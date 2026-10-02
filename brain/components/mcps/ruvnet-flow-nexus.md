@@ -8,7 +8,7 @@ source_url: https://github.com/ruvnet/flow-nexus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 101
+stars: 105
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

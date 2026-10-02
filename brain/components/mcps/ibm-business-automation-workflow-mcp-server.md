@@ -8,13 +8,13 @@ source_url: https://github.com/ibmbpm/ibm-baw-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-06T12:57:40Z"
+pushed_at: "2026-09-29T06:29:05Z"
 ---
 ## What it is
 Enables AI agents to integrate with IBM Business Automation Workflow by exposing workflow REST services as MCP tools, allowing natural language interaction with business automation capabilities.

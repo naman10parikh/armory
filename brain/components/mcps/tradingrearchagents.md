@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T01:27:41Z"
+pushed_at: "2026-10-01T17:42:51Z"
 ---
 ## What it is
 MCP server that runs complete TradingAgents-compatible stock research workflows, producing evidence-first research dossiers with durable checkpoints, typed contracts, and a read-only UI.

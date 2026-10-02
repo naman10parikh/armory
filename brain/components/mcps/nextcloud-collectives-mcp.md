@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T07:47:32Z"
+pushed_at: "2026-09-30T14:00:46Z"
 ---
 ## What it is
 A MCP server for accessing Nextcloud Collectives, allowing MCP clients to list, read, and edit collectives, their pages, and tags.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T00:15:27Z"
+pushed_at: "2026-09-28T00:10:36Z"
 ---
 ## What it is
 A policy-aware MCP server for GitHub and GitHub Actions that enables safe AI-assisted infrastructure workflows—inspecting repositories, preparing branches and pull requests, and constrained remote mutations behind explicit preview-bound approval tokens.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T11:57:06Z"
+pushed_at: "2026-09-12T16:50:44Z"
 ---
 ## What it is
 Enables ChatGPT to control a Windows PC remotely via OpenAI Secure MCP Tunnel, executing file operations, PowerShell commands, and system actions through a local MCP server.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-05-13T15:29:56Z"
+pushed_at: "2026-09-11T05:32:11Z"
 ---
 ## What it is
 MCP server `AMP (Agent Memory Protocol)`, catalogued on PulseMCP. Provides local-first persistent memory with episodic and semantic storage, enabling context retention across sessions and knowledge graph building from conversations.

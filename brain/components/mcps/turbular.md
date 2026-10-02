@@ -8,12 +8,12 @@ source_url: https://github.com/raeudigerRaeffi/turbular
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 99
+stars: 98
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
+forks: 14
 pushed_at: "2025-08-01T09:34:44Z"
 ---
 ## What it is

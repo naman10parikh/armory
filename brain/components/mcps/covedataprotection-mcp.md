@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T02:25:48Z"
+pushed_at: "2026-09-04T02:52:15Z"
 ---
 ## What it is
 MCP server that exposes the Cove Data Protection (N-able Backup) Management Service JSON-RPC API as 247 tools for managing backup, recovery, and partner/account operations.

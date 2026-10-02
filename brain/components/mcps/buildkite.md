@@ -8,12 +8,12 @@ source_url: https://github.com/buildkite/buildkite-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 38
-pushed_at: "2026-09-02T03:29:57Z"
+pushed_at: "2026-10-02T10:29:23Z"
 ---
 ## What it is
 MCP server `Buildkite`, catalogued on PulseMCP. Integrates with Buildkite's CI/CD platform, enabling access to pipeline details, build information, job logs, artifacts, and user data for monitoring workflows and troubleshooting builds.

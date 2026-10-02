@@ -8,13 +8,13 @@ source_url: https://github.com/RedHatInsights/insights-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 38
-pushed_at: "2026-09-01T01:44:52Z"
+forks: 39
+pushed_at: "2026-10-02T10:29:03Z"
 ---
 ## What it is
 A lightweight, self-hosted MCP server that connects LLM-based agents to Red Hat Lightspeed services, enabling natural language querying of read-only (and optionally write) operations across Advisor, Image Builder, Inventory, Planning, Remediations, and Vulnerability services.

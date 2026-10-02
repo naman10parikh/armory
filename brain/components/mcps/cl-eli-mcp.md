@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:55:21Z"
+pushed_at: "2026-09-24T13:27:05Z"
 ---
 ## What it is
 MCP server for searching and fetching metadata of Chilean laws, decrees, and resolutions via the BCN Linked Open Data SPARQL endpoint.

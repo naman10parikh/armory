@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-03T23:27:58Z"
+pushed_at: "2026-09-22T10:45:13Z"
 ---
 ## What it is
 Enables Claude and Claude Code to manage AACWorkflow tasks, agents, projects, squads, autopilots, and analytics through natural language.

@@ -8,12 +8,12 @@ source_url: https://github.com/chrisryugj/kordoc
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1784
+stars: 2331
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 323
-pushed_at: "2026-08-29T19:56:46Z"
+forks: 429
+pushed_at: "2026-10-02T13:19:49Z"
 ---
 ## What it is
 MCP server `KorDoc`, catalogued on PulseMCP. Parses Korean government and legal documents with structured data extraction and metadata analysis.

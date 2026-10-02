@@ -8,13 +8,13 @@ source_url: https://github.com/AncientiCe/palace-rs
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T18:47:02Z"
+pushed_at: "2026-09-27T09:59:40Z"
 ---
 ## What it is
 A local-first memory retrieval engine for coding agents that stores project and conversation memory and retrieves source-grounded context through MCP.

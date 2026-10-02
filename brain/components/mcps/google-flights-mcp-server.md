@@ -8,12 +8,12 @@ source_url: https://github.com/smamidipaka6/flights-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
+forks: 8
 pushed_at: "2025-03-27T17:27:06Z"
 ---
 ## What it is

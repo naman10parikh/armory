@@ -8,12 +8,12 @@ source_url: https://github.com/alleybo55/gocode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
-pushed_at: "2026-04-28T03:53:02Z"
+forks: 18
+pushed_at: "2026-09-24T06:37:40Z"
 ---
 ## What it is
 MCP server `Gocode`, catalogued on PulseMCP. Claude Code reimplemented in Go as a fast AI coding agent runtime with MCP server support.

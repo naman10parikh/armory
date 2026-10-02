@@ -8,12 +8,12 @@ source_url: https://github.com/juliocesar/monkeysee
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 0
 pushed_at: "2026-07-01T21:24:35Z"
 ---
 ## What it is

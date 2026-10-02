@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-28T06:41:27Z"
+pushed_at: "2026-09-29T01:08:17Z"
 ---
 ## What it is
 MCP server `Database Access (Multi-Database)`, catalogued on PulseMCP. Provides secure database access across SQLite, PostgreSQL, MySQL, MongoDB, Redis, and SQL Server with OAuth 2.0 authentication and granular scope-based permissions for enterprise environments requiring authenticated multi-database operations.

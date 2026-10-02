@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-19T14:39:41Z"
+pushed_at: "2026-09-23T10:11:01Z"
 ---
 ## What it is
 MCP server for Google's Gemini 3.1 Flash Image that enables fast, high-resolution image generation with advanced reasoning, up to 14 reference images, Google Search grounding, and automatic thinking mode.

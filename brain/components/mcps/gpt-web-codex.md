@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-22T03:36:49Z"
+forks: 4
+pushed_at: "2026-09-04T03:49:37Z"
 ---
 ## What it is
 Enables local code execution via Codex (Luna) through MCP, using ChatGPT Web conversations as a planner. Provides file, terminal, and code execution tools while keeping long-running jobs manageable.

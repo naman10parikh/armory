@@ -8,13 +8,13 @@ source_url: https://github.com/DevinChen2014/douyin-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T10:02:50Z"
+pushed_at: "2026-09-20T06:56:42Z"
 ---
 ## What it is
 Read-only Douyin / 抖音 MCP by SocialDataX for hot search, work search/details, comments and replies, creator profiles, creator works, and creator series.

@@ -8,12 +8,12 @@ source_url: https://github.com/dearlordylord/huly-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 23
-pushed_at: "2026-09-01T14:55:58Z"
+forks: 24
+pushed_at: "2026-10-01T23:48:01Z"
 ---
 ## What it is
 MCP server `Huly`, catalogued on PulseMCP. Connects to the Huly project management platform for task and issue tracking.

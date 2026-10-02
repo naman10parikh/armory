@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T15:20:37Z"
+pushed_at: "2026-09-07T15:22:33Z"
 ---
 ## What it is
 Enables querying multiple LLM providers in a weighted quorum to obtain a consensus answer with a certainty score. Supports cost tiers, visible degradation, and provider-agnostic configurations.

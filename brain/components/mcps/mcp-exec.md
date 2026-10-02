@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T18:35:47Z"
+pushed_at: "2026-10-02T04:52:17Z"
 ---
 ## What it is
 A secure, context-aware MCP server for shell command execution with comprehensive logging and AI optimizations, enabling interactive sessions and safe system administration via Claude Desktop.

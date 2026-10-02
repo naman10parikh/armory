@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-14T14:34:46Z"
+pushed_at: "2026-10-02T12:58:15Z"
 ---
 ## What it is
 MCP server `P4 Plan`, catalogued on PulseMCP. Manage tasks, sprints, bugs, and comments in Perforce P4 Plan via its GraphQL API.

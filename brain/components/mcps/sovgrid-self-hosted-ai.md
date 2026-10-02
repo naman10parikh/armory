@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-20T16:03:35Z"
+pushed_at: "2026-09-21T16:47:30Z"
 ---
 ## What it is
 MCP server `Sovgrid Self-Hosted AI`, catalogued on PulseMCP. Engineering knowledge base of self-hosted AI articles, indexed from NVIDIA DGX Spark experiments.

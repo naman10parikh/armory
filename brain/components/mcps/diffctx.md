@@ -8,13 +8,13 @@ source_url: https://github.com/nikolay-e/diffctx
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-02T02:11:32Z"
+pushed_at: "2026-10-01T22:38:22Z"
 ---
 ## What it is
 Selects the minimum code context an LLM needs to understand a git diff: graph-based fragment selection under a token budget, deterministic output, 30+ tree-sitter languages.

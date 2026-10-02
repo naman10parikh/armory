@@ -8,13 +8,13 @@ source_url: https://github.com/GuenoleK/consilium
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T13:16:37Z"
+pushed_at: "2026-10-01T21:03:34Z"
 ---
 ## What it is
 Local round table enabling multiple agents and a user to share topics, history, and requests with @agent, with persistent conversations and task management.

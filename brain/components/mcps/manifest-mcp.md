@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T21:57:12Z"
+pushed_at: "2026-10-02T13:30:24Z"
 ---
 ## What it is
 A monorepo of MCP servers for Manifest Network and Cosmos SDK chains, enabling natural language interaction with on-chain queries, transactions, lease operations, and provider management.

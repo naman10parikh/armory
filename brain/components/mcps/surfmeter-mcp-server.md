@@ -8,13 +8,13 @@ source_url: https://github.com/aveq-research/surfmeter-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-24T19:03:54Z"
+pushed_at: "2026-09-16T08:59:16Z"
 ---
 ## What it is
 A Model Context Protocol server for the AVEQ Surfmeter management API. It exposes typed tools for clients, measurements, anomalies, groups, ISPs, users, keys, capabilities, settings, license usage, and the built-in AI assistant.

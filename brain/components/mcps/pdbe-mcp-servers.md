@@ -8,13 +8,13 @@ source_url: https://github.com/PDBeurope/PDBe-MCP-Servers
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 37
+stars: 40
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-29T15:08:59Z"
+pushed_at: "2026-09-29T20:35:58Z"
 ---
 ## What it is
 Provides seamless access to the Protein Data Bank in Europe (PDBe) API and search capabilities, enabling AI clients to query protein structures, perform advanced searches, and retrieve structural biology data.

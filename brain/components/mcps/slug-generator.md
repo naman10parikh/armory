@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:34:03Z"
+pushed_at: "2026-09-02T19:57:18Z"
 ---
 ## What it is
 Enables AI agents to generate URL-friendly slugs from text with custom separators and transliteration, paid per call via x402 micropayments.

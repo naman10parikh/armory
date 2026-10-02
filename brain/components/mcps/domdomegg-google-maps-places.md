@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-11T20:38:42Z"
+pushed_at: "2026-09-09T16:28:19Z"
 ---
 ## What it is
 MCP server `Google Maps Places`, catalogued on PulseMCP. Search for places and retrieve business information and photos via Google Maps Places API

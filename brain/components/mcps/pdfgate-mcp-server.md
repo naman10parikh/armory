@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T22:07:12Z"
+pushed_at: "2026-09-20T12:43:35Z"
 ---
 ## What it is
 Enables AI assistants to generate PDFs, manage documents, and handle e-signatures via the PDFGate API.

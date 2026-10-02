@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:32:21Z"
+pushed_at: "2026-09-25T21:18:17Z"
 ---
 ## What it is
 Provides AI agents with up-to-date briefings on AI tools, models, and industry developments, enabling them to stay current by querying recent releases, news, and timelines.

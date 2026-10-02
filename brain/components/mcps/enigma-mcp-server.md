@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T00:04:11Z"
+pushed_at: "2026-09-13T18:47:32Z"
 ---
 ## What it is
 Offers MCP tools for managing a local AI memory vault, including remembering, searching, context packing, deletion, and verification of receipts.

@@ -8,12 +8,12 @@ source_url: https://github.com/spartanlabsxyz/simmer-sdk
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
-pushed_at: "2026-08-29T06:27:45Z"
+forks: 17
+pushed_at: "2026-10-02T07:03:43Z"
 ---
 ## What it is
 MCP server `Simmer`, catalogued on PulseMCP. Trade prediction markets with AI agents — skill discovery, automated research, and order execution on Simmer.markets.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-07-31T11:36:29Z"
+pushed_at: "2026-09-30T11:07:34Z"
 ---
 ## What it is
 MCP server `Sema`, catalogued on PulseMCP. Local semantic code indexer that enables Claude Code to search codebases instead of exploring them, reducing token consumption by up to 10x.

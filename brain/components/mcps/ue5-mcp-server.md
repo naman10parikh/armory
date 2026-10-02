@@ -8,12 +8,12 @@ source_url: https://github.com/Natfii/ue5-mcp-bridge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 62
+stars: 63
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 21
+forks: 22
 pushed_at: "2026-06-26T16:38:00Z"
 ---
 ## What it is

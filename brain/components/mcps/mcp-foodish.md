@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:07:44Z"
+pushed_at: "2026-09-26T12:30:15Z"
 ---
 ## What it is
 Enables fetching random food images by category from the Foodish API.

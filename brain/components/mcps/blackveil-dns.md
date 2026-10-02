@@ -8,13 +8,13 @@ source_url: https://github.com/MadaBurns/bv-mcp
 license: Business Source License 1.1
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-09-02T00:04:08Z"
+forks: 6
+pushed_at: "2026-10-02T13:13:29Z"
 ---
 ## What it is
 A DNS and email security scanner with 77 MCP tools for assessing SPF, DMARC, DKIM, DNSSEC, SSL/TLS, and more, providing guided remediation and attack path simulation.

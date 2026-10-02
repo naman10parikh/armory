@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T10:59:46Z"
+pushed_at: "2026-10-01T22:16:46Z"
 ---
 ## What it is
 MCP server that lets AI agents access the user's Achi workspace (Drive files, Properties, Mail, Agent notes) with one token, enabling file operations, search, property management, and more.

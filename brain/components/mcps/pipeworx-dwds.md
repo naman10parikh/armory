@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:02:00Z"
+pushed_at: "2026-09-25T23:39:38Z"
 ---
 ## What it is
 MCP server `DWDS German Dictionary`, catalogued on PulseMCP. Access the DWDS German digital dictionary for lexicographical data, word history, and concordances.

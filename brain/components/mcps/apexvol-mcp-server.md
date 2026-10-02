@@ -8,13 +8,13 @@ source_url: https://github.com/ryansilk/apexvol-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T22:08:19Z"
+pushed_at: "2026-09-09T08:30:58Z"
 ---
 ## What it is
 Provides natural language access to ApexVol's options analytics platform, enabling queries on options chains, volatility metrics, Greeks, flow analysis, and strategy building via Claude Code or Claude Desktop.

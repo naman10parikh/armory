@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T10:27:15Z"
+pushed_at: "2026-09-04T02:55:00Z"
 ---
 ## What it is
 Enables interaction with N-able Passportal Documents API via MCP, allowing users to list and manage documents using natural language.

@@ -8,13 +8,13 @@ source_url: https://github.com/agigante80/actual-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 48
+stars: 62
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
-pushed_at: "2026-09-01T09:13:31Z"
+forks: 22
+pushed_at: "2026-10-02T09:05:19Z"
 ---
 ## What it is
 MCP server that connects AI assistants to Actual Budget for budget management, enabling natural language queries, transaction creation, and spending analysis.

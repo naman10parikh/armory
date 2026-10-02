@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-29T21:50:42Z"
+pushed_at: "2026-09-09T04:53:17Z"
 ---
 ## What it is
 MCP server `rustgraph`, catalogued on PulseMCP. AST-aware Rust codebase navigation with 5 tools for finding symbols, tracing callers, and analyzing code paths.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T20:55:18Z"
+pushed_at: "2026-09-12T13:42:43Z"
 ---
 ## What it is
 Enables MCP-compatible agents to access read-only financial context from a Shelter account, including forecasts, runway, alerts, opportunities, and affordability guidance.

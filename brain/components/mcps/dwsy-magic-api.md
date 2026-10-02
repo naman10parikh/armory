@@ -8,11 +8,11 @@ source_url: https://github.com/dwsy/magic-api-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2025-12-15T01:44:31Z"
 ---
 ## What it is

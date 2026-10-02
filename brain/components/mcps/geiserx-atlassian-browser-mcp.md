@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 3
 forks: 3
-pushed_at: "2026-08-19T11:44:34Z"
+pushed_at: "2026-09-29T22:42:42Z"
 ---
 ## What it is
 Browser-backed MCP wrapper for mcp-atlassian with Playwright SSO auth. Enables AI tools to access Atlassian Server/Data Center instances behind corporate SSO (Okta, SAML, ADFS) where API tokens are not available.

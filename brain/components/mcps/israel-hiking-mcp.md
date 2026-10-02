@@ -8,13 +8,13 @@ source_url: https://github.com/tisheldev/israel-hiking-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T17:05:12Z"
+pushed_at: "2026-09-30T11:07:07Z"
 ---
 ## What it is
 An unofficial, read-only MCP server exposing Israel Hiking Map data, currently in early scaffolding with only a placeholder ping tool.

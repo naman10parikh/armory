@@ -8,7 +8,7 @@ source_url: https://github.com/mwhesse/dataverse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

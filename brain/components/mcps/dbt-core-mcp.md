@@ -8,13 +8,13 @@ source_url: https://github.com/iamsocool24/dbt-core-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-01T06:43:53Z"
+forks: 2
+pushed_at: "2026-10-01T05:27:56Z"
 ---
 ## What it is
 Enables interaction with dbt projects via the Model Context Protocol for data analysis and insights.

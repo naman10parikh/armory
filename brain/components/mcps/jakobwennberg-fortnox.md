@@ -8,11 +8,11 @@ source_url: https://github.com/erp-mafia/fortnox-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 22
+forks: 29
 pushed_at: "2026-04-28T15:53:16Z"
 ---
 ## What it is

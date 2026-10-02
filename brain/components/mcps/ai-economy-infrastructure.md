@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-03T08:15:01Z"
+pushed_at: "2026-09-04T12:35:37Z"
 ---
 ## What it is
 An MCP server for AI economy infrastructure with built-in EU AI Act compliance, supporting risk management, transparency, and bias detection.

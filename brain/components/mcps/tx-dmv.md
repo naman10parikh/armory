@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:30:57Z"
+pushed_at: "2026-09-25T02:49:40Z"
 ---
 ## What it is
 Provides Texas DMV vehicle registration totals by fiscal year, for passenger cars, pickup trucks, and motorcycles, answering queries about statewide registrations and growth across years.

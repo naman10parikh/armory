@@ -8,13 +8,13 @@ source_url: https://github.com/SunnyLich/Wisp-AI-Assistant
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-24T20:16:19Z"
+pushed_at: "2026-09-30T11:00:02Z"
 ---
 ## What it is
 Wisp AI Assistant MCP Server is a local MCP server that gives trusted AI clients read-only desktop context through Wisp: selected text, clipboard contents, active-window details, visible browser-page text, and screen snippets.

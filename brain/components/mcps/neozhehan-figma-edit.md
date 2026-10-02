@@ -8,12 +8,12 @@ source_url: https://github.com/neozhehan/figma-edit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-26T19:02:53Z"
+pushed_at: "2026-09-24T06:42:13Z"
 ---
 ## What it is
 MCP server `Figma Edit`, catalogued on PulseMCP. Read, create, and modify Figma designs programmatically via the Figma API.

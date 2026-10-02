@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, legal]
-stars: 16
+stars: 18
 forks: 2
-pushed_at: "2026-08-07T09:37:26Z"
+pushed_at: "2026-09-08T12:27:37Z"
 ---
 ## What it is
 Access Austrian federal laws, state laws, court decisions, and legal documents via the RIS (Rechtsinformationssystem) API with 12 specialized tools.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:14:28Z"
+pushed_at: "2026-09-26T19:09:53Z"
 ---
 ## What it is
 Provides details on active tropical cyclones including storm details, advisories, forecasts, and cone/surge product links via a keyless API.

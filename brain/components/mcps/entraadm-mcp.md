@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T02:21:53Z"
+pushed_at: "2026-10-02T06:29:50Z"
 ---
 ## What it is
 Enables read-only triage of Microsoft Entra ID sign-in and audit logs through fixed tools for sign-in failure analysis, user lookup, directory audits, and daily briefs.

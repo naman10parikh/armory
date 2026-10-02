@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T16:28:03Z"
+pushed_at: "2026-09-30T10:12:58Z"
 ---
 ## What it is
 Fact-check claims against independent sources via a multi-model pipeline, providing verdicts and confidence levels from any MCP client.

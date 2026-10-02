@@ -8,12 +8,12 @@ source_url: https://github.com/psychquant/che-word-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-01T07:37:10Z"
+pushed_at: "2026-09-29T06:29:37Z"
 ---
 ## What it is
 MCP server `Che Word`, catalogued on PulseMCP. Microsoft Word document generation and template management.

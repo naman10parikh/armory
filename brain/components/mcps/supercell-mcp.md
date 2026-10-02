@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T16:31:14Z"
+pushed_at: "2026-09-29T15:52:52Z"
 ---
 ## What it is
 Read-only MCP server for Supercell game APIs (Clash of Clans, Clash Royale, Brawl Stars) with prefixed tool names to search players, clans, clubs, and more.

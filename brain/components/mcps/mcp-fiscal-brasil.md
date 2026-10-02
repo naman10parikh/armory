@@ -8,13 +8,13 @@ source_url: https://github.com/DeHor-Labs/mcp-fiscal-brasil
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 284
+stars: 313
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 55
-pushed_at: "2026-09-01T14:28:51Z"
+forks: 65
+pushed_at: "2026-10-01T02:12:00Z"
 ---
 ## What it is
 Connects AI agents to Brazilian tax compliance data (CNPJ, CPF, NFe, SPED, eSocial) and provides tools for due diligence, risk scoring, and tax regime comparison.

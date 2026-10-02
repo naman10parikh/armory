@@ -15,7 +15,7 @@ related: []
 tags: [glama, mcp]
 mentions: null
 forks: 0
-pushed_at: "2026-06-22T20:13:19Z"
+pushed_at: "2026-09-20T17:28:09Z"
 ---
 ## What it is
 Enables LLMs to perform analytical SQL queries on PostgreSQL/MySQL databases via DuckDB, with tools for querying, aggregation, and materialized views.

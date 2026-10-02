@@ -8,11 +8,11 @@ source_url: https://github.com/jamsusmaximus/trainingpeaks-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 150
+stars: 177
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 69
+forks: 81
 pushed_at: "2026-08-02T23:10:12Z"
 ---
 ## What it is

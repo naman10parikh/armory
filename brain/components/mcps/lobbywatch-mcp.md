@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T02:48:51Z"
+pushed_at: "2026-09-27T11:17:05Z"
 ---
 ## What it is
 An MCP server that connects AI models to the Lobbywatch.ch database, providing access to Swiss parliamentarians' conflicts of interest, lobby groups, access badges, and transparency scores.

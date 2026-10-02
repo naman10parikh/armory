@@ -8,11 +8,11 @@ source_url: https://github.com/funplayai/funplay-godot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 5
 pushed_at: "2026-07-31T04:00:09Z"
 ---
 ## What it is

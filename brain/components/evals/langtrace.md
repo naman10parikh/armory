@@ -8,12 +8,12 @@ source_url: https://github.com/Scale3-Labs/langtrace
 license: AGPL-3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1228
+stars: 1232
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, observability, opentelemetry, tracing]
-forks: 127
+forks: 128
 pushed_at: "2025-11-17T15:08:48Z"
 ---
 ## What it is

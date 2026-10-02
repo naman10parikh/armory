@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T07:25:54Z"
+pushed_at: "2026-09-26T05:43:50Z"
 ---
 ## What it is
 Enables conversational queries about a GitHub user's profile, using lazy indexing and tool calls to retrieve repository info and file contents, with cached results for efficiency.

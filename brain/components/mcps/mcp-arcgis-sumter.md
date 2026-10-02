@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:41:15Z"
+pushed_at: "2026-09-25T21:57:59Z"
 ---
 ## What it is
 Enables AI agents to search, query, and explore City of Sumter, South Carolina open geospatial data (parcels, zoning, public works) via ArcGIS services.

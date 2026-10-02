@@ -8,13 +8,13 @@ source_url: https://github.com/ExpertVagabond/raycast-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T22:14:54Z"
+pushed_at: "2026-09-28T22:15:04Z"
 ---
 ## What it is
 Provides 9 tools to integrate Raycast with AI assistants for workflow automation, extension management, authentication, search, clipboard, and system control.

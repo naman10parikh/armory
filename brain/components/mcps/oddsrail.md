@@ -8,13 +8,13 @@ source_url: https://github.com/hmesutozsoy/oddsrail
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T19:40:28Z"
+pushed_at: "2026-09-24T21:06:07Z"
 ---
 ## What it is
 Enables MCP-compatible AI agents to research and trade prediction markets on Polymarket and Kalshi, including market search, orderbooks, price history, positions, order routing, and on-chain builder-code attribution, plus overshoot and dispute-risk signals.

@@ -8,12 +8,12 @@ source_url: https://github.com/scvcoder/korean-law-alio-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-06-06T15:34:33Z"
+pushed_at: "2026-09-13T04:35:21Z"
 ---
 ## What it is
 MCP server `Korean Law ALIO`, catalogued on PulseMCP. MCP server for searching Korean laws, administrative rules, and public institution regulations via ALIO.

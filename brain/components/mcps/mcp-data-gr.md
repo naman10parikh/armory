@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:54:41Z"
+pushed_at: "2026-09-25T23:15:08Z"
 ---
 ## What it is
 Enables searching and querying Greek government open data (data.gov.gr) datasets through CKAN API, including full metadata retrieval and tabular data extraction.

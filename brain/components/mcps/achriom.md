@@ -8,12 +8,12 @@ source_url: https://github.com/achriom/achriom-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-09T19:39:50Z"
+pushed_at: "2026-09-02T18:15:33Z"
 ---
 ## What it is
 MCP server `Achriom`, catalogued on PulseMCP. Personal media library for tracking books, movies, music, shows, and anime.

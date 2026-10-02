@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-04-01T16:33:22Z"
+pushed_at: "2026-09-06T08:40:27Z"
 ---
 ## What it is
 MCP server `Kaspi`, catalogued on PulseMCP. Integrates with Kaspi.kz Marketplace API for order management and product catalog access.

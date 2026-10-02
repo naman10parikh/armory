@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T15:22:48Z"
+pushed_at: "2026-09-27T15:22:50Z"
 ---
 ## What it is
 Resolves any combination of company name, domain, or LinkedIn URL into the canonical company identity (name, domain, LinkedIn URL) with confidence scores and match method.

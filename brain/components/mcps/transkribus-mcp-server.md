@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T07:11:41Z"
+pushed_at: "2026-10-02T13:38:27Z"
 ---
 ## What it is
 MCP server for the Transkribus REST API. Manage collections, documents, HTR/OCR recognition, models, and more through the Model Context Protocol.

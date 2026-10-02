@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T14:16:49Z"
+pushed_at: "2026-09-28T14:17:02Z"
 ---
 ## What it is
 Enables AI assistants to interact with Anytype knowledge base via natural language, with Docker-based HTTP transport for always-on background operation.

@@ -8,13 +8,13 @@ source_url: https://github.com/awdr74100/figwright
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 653
+stars: 959
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 36
-pushed_at: "2026-09-01T23:41:06Z"
+forks: 52
+pushed_at: "2026-10-02T13:31:30Z"
 ---
 ## What it is
 Open-source, bidirectional Figma agent for MCP clients — a free alternative to Figma's Dev Mode MCP. Reads designs with high-fidelity grounding and writes back to the canvas: frames, text, auto-layout, styles, variables, and components. 92 tools, no API token, no paid Figma seat.

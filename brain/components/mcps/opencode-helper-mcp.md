@@ -8,13 +8,13 @@ source_url: https://github.com/segalz/openCodeHelperMcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T21:17:12Z"
+pushed_at: "2026-09-03T11:25:24Z"
 ---
 ## What it is
 Enables local, read-only code analysis through the OpenCode CLI, exposing fixed tools that call Cloudflare, MiMo, and Nemotron models in fallback order.

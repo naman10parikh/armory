@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-04T01:23:21Z"
+forks: 1
+pushed_at: "2026-09-30T21:02:26Z"
 ---
 ## What it is
 The context layer for GTM teams — one source of truth for brand and company context, so your whole team produces consistent, on-brand content in any AI tool.

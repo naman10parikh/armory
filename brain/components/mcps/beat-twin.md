@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-28T10:13:34Z"
+pushed_at: "2026-09-29T12:12:51Z"
 ---
 ## What it is
 A local MCP server bridging Bitwig Studio for agent-assisted music workflows, read-only by default with configurable write-policy gates.

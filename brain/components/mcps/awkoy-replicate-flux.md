@@ -8,12 +8,12 @@ source_url: https://github.com/awkoy/replicate-flux-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 107
+stars: 106
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
-pushed_at: "2026-06-14T13:12:11Z"
+forks: 19
+pushed_at: "2026-10-01T21:27:39Z"
 ---
 ## What it is
 MCP server `Replicate Flux`, catalogued on PulseMCP. Integrates with Replicate's Flux image generation model, enabling image creation capabilities within conversation interfaces through a simple API token setup and TypeScript implementation available as both an npm module and Docker container.

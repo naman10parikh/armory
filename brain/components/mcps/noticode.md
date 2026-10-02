@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-09T23:19:33Z"
+pushed_at: "2026-09-15T20:44:23Z"
 ---
 ## What it is
 Runs as an MCP server providing file system operations, shell execution, and system information tools, allowing Claude or any MCP client to edit files and control the machine.

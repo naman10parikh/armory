@@ -8,13 +8,13 @@ source_url: https://github.com/0x0L/ipykernel-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-04T17:08:10Z"
+pushed_at: "2026-10-02T01:39:21Z"
 ---
 ## What it is
 An MCP server that manages an IPython kernel, allowing LLMs to execute Python code in a project's virtual environment.

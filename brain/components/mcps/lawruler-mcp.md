@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T23:21:20Z"
+pushed_at: "2026-10-02T11:08:06Z"
 ---
 ## What it is
 MCP server for LawRuler Legal CRM. Provides 15 tools for lead/intake creation, retrieval, and management.

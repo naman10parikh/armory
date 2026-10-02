@@ -8,11 +8,11 @@ source_url: https://github.com/griches/apple-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 118
+stars: 125
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 14
 pushed_at: "2026-03-17T21:14:21Z"
 ---
 ## What it is

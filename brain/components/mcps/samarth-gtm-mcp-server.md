@@ -8,13 +8,13 @@ source_url: https://github.com/samarthanalytics-sj/samarth-analytics-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T14:05:40Z"
+pushed_at: "2026-09-22T12:39:24Z"
 ---
 ## What it is
 Production-grade MCP server for the Google Tag Manager API v2 with read-only GA4 (Admin + Data API) tooling. 107 tools covering the full GTM surface, including server-side containers. Ships read-only: writes, publishes, and deletes are each gated behind separate opt-in flags, every mutation requires

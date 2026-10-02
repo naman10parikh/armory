@@ -8,11 +8,11 @@ source_url: https://github.com/ynivin/waveform-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-08-11T08:47:19Z"
 ---
 ## What it is

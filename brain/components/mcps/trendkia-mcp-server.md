@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-15T01:15:49Z"
+pushed_at: "2026-09-09T01:47:11Z"
 ---
 ## What it is
 Enables AI assistants to access and search TrendKia articles, retrieving clean markdown content without HTML scraping.

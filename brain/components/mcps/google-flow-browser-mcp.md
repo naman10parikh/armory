@@ -8,12 +8,12 @@ source_url: https://github.com/TMSSS05/google-flow-browser-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 48
+stars: 85
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 17
 pushed_at: "2026-05-31T03:30:58Z"
 ---
 ## What it is

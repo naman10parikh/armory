@@ -8,13 +8,13 @@ source_url: https://github.com/jiangkoumo/toolfence
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 101
+stars: 100
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T12:29:56Z"
+pushed_at: "2026-09-07T15:31:42Z"
 ---
 ## What it is
 A local, fail-closed firewall for MCP tool calls that enforces least-privilege policies and human approval between AI agents and stdio MCP servers.

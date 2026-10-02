@@ -8,13 +8,13 @@ source_url: https://github.com/pipeworx-io/mcp-gamedeals
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:08:28Z"
+pushed_at: "2026-09-26T12:33:11Z"
 ---
 ## What it is
 Wraps the CheapShark API to enable game deal searches and price comparisons via MCP, no authentication required.

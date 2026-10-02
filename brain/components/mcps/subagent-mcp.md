@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T22:38:57Z"
+pushed_at: "2026-09-04T06:03:39Z"
 ---
 ## What it is
 MCP server that launches and supervises coding-CLI subagents (claude, opencode) in detached tmux windows, collapsing the ceremony of starting a TUI coding assistant into a single tool call.

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
-stars: 37
-forks: 9
-pushed_at: "2026-08-31T03:56:03Z"
+stars: 44
+forks: 15
+pushed_at: "2026-09-30T14:53:39Z"
 ---
 ## What it is
 Telegram MCP server via MTProto/GramJS — 20 tools for reading chats, searching messages, downloading media, managing contacts. QR code login, npx zero-install. Hosted version at mcp-telegram.com.

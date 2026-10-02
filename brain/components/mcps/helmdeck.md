@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-08-24T09:19:07Z"
+pushed_at: "2026-09-21T09:18:59Z"
 ---
 ## What it is
 A self-hosted MCP server that provides capability packs for AI agents to perform browser, desktop, git, and code actions via schema-validated JSON calls, enabling reliable agentic workflows even with small open-weight models.

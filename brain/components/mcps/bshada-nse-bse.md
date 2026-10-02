@@ -8,11 +8,11 @@ source_url: https://github.com/bshada/nse-bse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 9
 pushed_at: "2025-12-24T11:08:40Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/datakoot/domain-intel-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T00:30:08Z"
+pushed_at: "2026-09-25T22:02:21Z"
 ---
 ## What it is
 Domain and company intelligence for AI agents. Enables vetting companies, qualifying leads, and mapping targets from free public data without API keys.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:34:49Z"
+pushed_at: "2026-09-25T21:24:38Z"
 ---
 ## What it is
 Enables querying and exploring City of Austin open geospatial data (parcels, zoning, transport, parks) via ArcGIS, with tools to search datasets, query layers, and retrieve schema info.

@@ -8,12 +8,12 @@ source_url: https://github.com/kingpanther13/hubitat-local-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
-pushed_at: "2026-09-02T01:20:32Z"
+forks: 10
+pushed_at: "2026-10-02T13:06:32Z"
 ---
 ## What it is
 MCP server `Hubitat Elevation`, catalogued on PulseMCP. Native Hubitat Elevation smart home hub integration that provides device control, automation management, and comprehensive hub administration.

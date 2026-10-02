@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/mcp-ts-core
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 148
+stars: 153
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 27
-pushed_at: "2026-08-21T07:51:54Z"
+forks: 30
+pushed_at: "2026-09-27T01:51:36Z"
 ---
 ## What it is
 A TypeScript framework for building MCP servers with declarative tool, resource, and prompt definitions, built-in auth, multi-backend storage, and observability.

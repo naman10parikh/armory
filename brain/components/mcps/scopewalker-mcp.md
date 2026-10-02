@@ -8,13 +8,13 @@ source_url: https://github.com/timohaa/scopewalker-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T11:15:14Z"
+pushed_at: "2026-09-25T12:59:26Z"
 ---
 ## What it is
 MCP server providing codebase analysis tools for AI assistants, including line counts, function metrics, threshold checks, and code quality detection.

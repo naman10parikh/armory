@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-02-25T02:01:23Z"
+pushed_at: "2026-09-20T19:10:17Z"
 ---
 ## What it is
 MCP server `BankRegPulse`, catalogued on PulseMCP. Banking regulation tracking and compliance intelligence for financial institutions.

@@ -8,12 +8,12 @@ source_url: https://github.com/mishrasanjeev/agentic-org
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-09-01T14:10:47Z"
+forks: 6
+pushed_at: "2026-10-02T13:37:56Z"
 ---
 ## What it is
 MCP server `AgenticOrg`, catalogued on PulseMCP. Multi-agent platform with integrations for finance, HR, marketing, and operations workflows.

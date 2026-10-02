@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-03T10:30:04Z"
+pushed_at: "2026-09-26T13:16:44Z"
 ---
 ## What it is
 Publish the pages you build with AI - as a private, tracked, secure link.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-08-04T10:22:43Z"
+pushed_at: "2026-09-29T14:43:32Z"
 ---
 ## What it is
 MCP server `Unichat (TS)`, catalogued on PulseMCP. Integrates multiple language models via the unified Unichat tool, enabling seamless interaction across OpenAI, MistralAI, Anthropic, xAI, and Google AI platforms.

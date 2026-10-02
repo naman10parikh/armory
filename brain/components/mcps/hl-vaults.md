@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:22Z"
+pushed_at: "2026-09-02T19:56:16Z"
 ---
 ## What it is
 MCP server for Hyperliquid vault summaries (APR, TVL, PnL, followers) with pay-per-call via x402 micropayments (USDC on Base L2).

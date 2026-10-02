@@ -8,11 +8,11 @@ source_url: https://github.com/freestylefly/mcp-server-weread
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 574
+stars: 577
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 60
+forks: 61
 pushed_at: "2025-05-18T04:32:32Z"
 ---
 ## What it is

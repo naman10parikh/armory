@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
-stars: 34
+stars: 36
 forks: 9
-pushed_at: "2026-08-31T19:30:22Z"
+pushed_at: "2026-09-28T09:05:47Z"
 ---
 ## What it is
 A high-performance Rust reimplementation of WCGW for code agents, providing shell execution and advanced file management capabilities for LLMs via MCP.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T15:45:58Z"
+pushed_at: "2026-09-29T12:14:43Z"
 ---
 ## What it is
 Enables comparison of responses from multiple LLMs (OpenAI, Anthropic, Gemini) to the same prompt, returning a validated divergence score based on sentence embeddings.

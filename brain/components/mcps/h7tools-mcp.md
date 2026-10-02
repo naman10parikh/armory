@@ -8,12 +8,12 @@ source_url: https://github.com/zhe0523/h7tools-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-07-31T02:12:38Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/memory-graph/memory-graph
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 242
+stars: 249
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 81
-pushed_at: "2026-08-27T22:54:46Z"
+forks: 85
+pushed_at: "2026-09-16T14:46:40Z"
 ---
 ## What it is
 Graph-based MCP memory server for AI coding agents to store patterns, track relationships, and retrieve knowledge across sessions.

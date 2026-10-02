@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T08:23:13Z"
+pushed_at: "2026-09-27T08:23:40Z"
 ---
 ## What it is
 MCP server for the ezBookkeeping HTTP API, enabling read and write access to transactions, accounts, categories, tags, templates, analytics, and exchange rates via natural language.

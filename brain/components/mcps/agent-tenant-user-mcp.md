@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T11:06:29Z"
+pushed_at: "2026-09-23T14:42:05Z"
 ---
 ## What it is
 MCP server for the MSPbots Agent Platform tenant/user API, allowing an Agent to list all platform tenants via a single tool.

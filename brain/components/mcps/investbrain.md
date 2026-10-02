@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T07:15:14Z"
+pushed_at: "2026-09-10T05:16:19Z"
 ---
 ## What it is
 AI-powered investment discipline tool with investment RAG, behavior pattern mining, memory system, and multi-channel price/condition alerts

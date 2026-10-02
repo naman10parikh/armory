@@ -8,12 +8,12 @@ source_url: https://github.com/tocharianou/mcp-server-kibana
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 79
+stars: 83
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
-pushed_at: "2026-08-14T17:01:55Z"
+forks: 28
+pushed_at: "2026-09-16T10:26:20Z"
 ---
 ## What it is
 MCP server `Kibana`, catalogued on PulseMCP. Provides direct access to Kibana's API endpoints for querying server status, executing custom requests, and exploring available endpoints through a searchable interface for monitoring Elasticsearch clusters, managing visualizations, and troubleshooting deployments.

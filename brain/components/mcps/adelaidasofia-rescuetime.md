@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-17T17:59:30Z"
+pushed_at: "2026-10-01T05:22:30Z"
 ---
 ## What it is
 MCP server `RescueTime`, catalogued on PulseMCP. Query RescueTime productivity analytics — daily summaries, productivity scores, and time-usage reports.

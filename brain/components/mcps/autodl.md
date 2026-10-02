@@ -8,13 +8,13 @@ source_url: https://github.com/Minato-Aqukin/AutoDL-cli
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-24T11:59:42Z"
+pushed_at: "2026-09-29T16:49:11Z"
 ---
 ## What it is
 Enables AI agents and MCP clients to manage AutoDL GPU instances programmatically, including creating, listing, powering on/off, executing commands, transferring files, and enforcing automatic shutdown.

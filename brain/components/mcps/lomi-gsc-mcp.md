@@ -8,13 +8,13 @@ source_url: https://github.com/lomiafrica/gsc-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T13:48:35Z"
+pushed_at: "2026-09-29T21:36:40Z"
 ---
 ## What it is
 Enables Google Search Console data queries via MCP, including search analytics, performance comparisons, URL inspection, and sitemap management.

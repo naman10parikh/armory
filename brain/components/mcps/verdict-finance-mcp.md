@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T11:37:03Z"
+pushed_at: "2026-09-19T00:12:59Z"
 ---
 ## What it is
 Enables AI agents to query Verdict's institutional DeFi diligence layer, including letter grades and composite scores for protocols, chains, tokens, oracles, vaults, organizations, and bridges.

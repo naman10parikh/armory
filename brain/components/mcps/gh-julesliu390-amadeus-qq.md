@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-02T18:21:10Z"
+pushed_at: "2026-09-20T00:30:07Z"
 ---
 ## What it is
 MCP server `Amadeus QQ`, catalogued on PulseMCP. Bridges QQ messaging through NapCatQQ's OneBot v11 API, enabling real-time message monitoring, context buffering, and automated responses in QQ groups and private chats.

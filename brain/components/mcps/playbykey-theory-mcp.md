@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T06:02:56Z"
+pushed_at: "2026-09-14T21:14:57Z"
 ---
 ## What it is
 An MCP server exposing @playbykey/theory as AI-callable music theory tools. Compute chords, scales, progressions, transpositions, and MIDI/frequency conversions instead of having your AI assistant guess at music theory from training data.

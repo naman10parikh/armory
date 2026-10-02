@@ -8,12 +8,12 @@ source_url: https://github.com/easyweek/mcp-nightscout
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-07-10T15:40:04Z"
 ---
 ## What it is

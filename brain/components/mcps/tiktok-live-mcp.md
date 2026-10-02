@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T16:46:50Z"
+pushed_at: "2026-09-28T18:58:04Z"
 ---
 ## What it is
 Provides live access to TikTok LIVE data including live detection, room info, creator data, gifts, and regional leaderboards via chat prompts.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, monitoring]
 stars: 4
 forks: 5
-pushed_at: "2026-08-23T16:03:19Z"
+pushed_at: "2026-10-01T16:06:00Z"
 ---
 ## What it is
 A Prometheus Model Context Protocol Server.

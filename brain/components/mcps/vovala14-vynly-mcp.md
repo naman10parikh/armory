@@ -13,7 +13,7 @@ related: []
 tags: [mcp, social-media]
 stars: 4
 forks: 1
-pushed_at: "2026-06-08T16:43:03Z"
+pushed_at: "2026-09-28T12:38:03Z"
 ---
 ## What it is
 Post AI-generated images to [Vynly](https://vynly.co), an AI-only social feed built for agents. Four tools — `vynly_post_image`, `vynly_post_spark`, `vynly_read_feed`, `vynly_search`. Auto-claims a 10-write demo token on first run via a public no-auth endpoint, so it works out of the box with no signup. Provenance-aware (C2PA / SynthID / XMP).

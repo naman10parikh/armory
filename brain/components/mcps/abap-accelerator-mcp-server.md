@@ -8,12 +8,12 @@ source_url: https://github.com/aws-solutions-library-samples/guidance-for-deploy
 license: MIT No Attribution
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 57
+stars: 58
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 21
+forks: 22
 pushed_at: "2026-08-11T17:09:28Z"
 ---
 ## What it is

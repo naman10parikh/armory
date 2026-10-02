@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T19:05:54Z"
+pushed_at: "2026-09-23T15:50:30Z"
 ---
 ## What it is
 Exposes the product catalog of Bioquímica.cl as an MCP tool, enabling natural language queries for product compatibility, pricing, and stock availability.

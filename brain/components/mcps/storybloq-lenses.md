@@ -8,13 +8,13 @@ source_url: https://github.com/Storybloq/lenses
 license: PolyForm Noncommercial License 1.0.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:34:08Z"
+pushed_at: "2026-09-15T14:42:04Z"
 ---
 ## What it is
 Enables multi-lens code review by running 8 specialized reviewers in parallel, deduplicating findings, and producing a single verdict.

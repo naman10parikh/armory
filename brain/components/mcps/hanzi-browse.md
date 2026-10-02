@@ -8,12 +8,12 @@ source_url: https://github.com/hanzili/hanzi-browse
 license: PolyForm Noncommercial License 1.0.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 176
+stars: 177
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 51
+forks: 55
 pushed_at: "2026-04-25T15:25:23Z"
 ---
 ## What it is

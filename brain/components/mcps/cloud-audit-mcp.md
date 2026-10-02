@@ -8,12 +8,12 @@ source_url: https://github.com/badchars/cloud-audit-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 3
 pushed_at: "2026-03-14T21:37:16Z"
 ---
 ## What it is

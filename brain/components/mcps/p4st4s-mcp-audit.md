@@ -13,7 +13,7 @@ related: []
 tags: [mcp, security]
 stars: 7
 forks: 7
-pushed_at: "2026-08-24T07:17:44Z"
+pushed_at: "2026-09-07T14:06:20Z"
 ---
 ## What it is
 Transparent Go proxy that intercepts, signs, rate-limits, redacts, and audits all MCP JSON-RPC tool calls without modifying client or server.

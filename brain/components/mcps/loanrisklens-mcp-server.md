@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T20:03:20Z"
+pushed_at: "2026-09-20T13:05:44Z"
 ---
 ## What it is
 Enables creditworthiness analysis for non-traditional borrowers using rule-based scoring, financial behavior assessment, and underwriting report generation via MCP tools.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T20:06:48Z"
+forks: 1
+pushed_at: "2026-10-02T13:37:37Z"
 ---
 ## What it is
 Provides organizational memory for AI agents, enabling shared company memory, decision recall, artifact management, approval review, task delegation, and initiative tracking.

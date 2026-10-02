@@ -8,11 +8,13 @@ source_url: https://github.com/cokovali10-sketch/flashcard-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:35:05Z"
 ---
 ## What it is
 A lightweight MCP server that adds spaced-repetition flashcards (SM-2) to AI assistants, storing data locally in SQLite and enabling card creation, review, and scheduling.

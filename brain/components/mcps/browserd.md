@@ -8,13 +8,13 @@ source_url: https://github.com/Kawai-Senpai/Browsered
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T23:16:52Z"
+pushed_at: "2026-10-02T12:12:12Z"
 ---
 ## What it is
 A continuously-recording Chromium daemon exposed over MCP, enabling AI agents to query past network, console, and DOM activity and control a headed browser.

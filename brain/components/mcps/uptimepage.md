@@ -8,13 +8,13 @@ source_url: https://github.com/uptimepage/uptimepage
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 36
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-09-01T10:25:24Z"
+forks: 8
+pushed_at: "2026-10-02T09:02:50Z"
 ---
 ## What it is
 MCP server for Uptimepage uptime monitoring. An LLM client can read your monitors and incidents, run a check on demand, and post incident updates. Writes need an OAuth login and a scoped token, and each one is logged.

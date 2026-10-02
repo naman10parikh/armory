@@ -8,12 +8,12 @@ source_url: https://github.com/skwallace36/Pepper
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 103
+stars: 105
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 12
 pushed_at: "2026-04-29T22:48:10Z"
 ---
 ## What it is

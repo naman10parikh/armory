@@ -8,13 +8,13 @@ source_url: https://github.com/optimikelabs/optimike-obsidian-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 39
+stars: 40
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-31T22:13:28Z"
+pushed_at: "2026-09-30T00:08:52Z"
 ---
 ## What it is
 MCP server for Obsidian that exposes tools for reading/writing notes, managing frontmatter and tags, querying Tasks, semantic search, and interacting with Obsidian Bases, with shared local caching and support for various runtime modes.

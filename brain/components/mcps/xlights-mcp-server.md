@@ -8,12 +8,12 @@ source_url: https://github.com/JohnBreault/xlights-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 4
 pushed_at: "2026-04-06T20:02:06Z"
 ---
 ## What it is

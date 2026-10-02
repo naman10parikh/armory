@@ -8,13 +8,13 @@ source_url: https://github.com/OpenWeb-Ninja/openwebninja-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 37
+stars: 36
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-06-24T11:06:51Z"
+pushed_at: "2026-09-17T12:41:04Z"
 ---
 ## What it is
 Official MCP server for OpenWeb Ninja: 40+ real-time web data and SERP APIs (Google Maps, Amazon, jobs, Zillow, Trustpilot, web search, news, finance) exposed as MCP tools.

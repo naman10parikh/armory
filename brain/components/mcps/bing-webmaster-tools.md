@@ -12,8 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2025-04-11T17:16:20Z"
+forks: 8
+pushed_at: "2026-09-25T14:27:06Z"
 ---
 ## What it is
 MCP server `Bing Webmaster Tools`, catalogued on PulseMCP. Integrates with Bing Webmaster Tools API to enable complete site management, URL submission, traffic analysis, crawling, keyword research, and content management through natural language interactions.

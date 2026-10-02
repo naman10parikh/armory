@@ -8,12 +8,12 @@ source_url: https://github.com/linxule/mcp-music-studio
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 69
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
-pushed_at: "2026-07-06T08:14:04Z"
+forks: 9
+pushed_at: "2026-10-01T22:13:11Z"
 ---
 ## What it is
 MCP server `Music Studio`, catalogued on PulseMCP. Creative music composition tool with multi-instrument playback, style presets, visual sheet music, and ABC notation support.

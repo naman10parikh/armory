@@ -8,11 +8,11 @@ source_url: https://github.com/elonjask/reqable-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 238
+stars: 241
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 18
 pushed_at: "2026-05-10T13:39:06Z"
 ---
 ## What it is

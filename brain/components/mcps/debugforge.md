@@ -8,13 +8,13 @@ source_url: https://github.com/YangPan2020/debugforge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-07-29T02:13:05Z"
+forks: 2
+pushed_at: "2026-09-24T02:30:39Z"
 ---
 ## What it is
 MCP server bridging Lauterbach TRACE32 debuggers to AI agents for autonomous debugging, providing 47 tools for execution control, breakpoints, memory, registers, variables, and symbol inspection.

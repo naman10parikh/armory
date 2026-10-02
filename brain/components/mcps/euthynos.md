@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:51:11Z"
+pushed_at: "2026-09-03T18:53:38Z"
 ---
 ## What it is
 A local, read-only MCP server that provides AI coding agents with structural evidence about a repository, including dependency analysis and impact assessment, while naming the boundary of every answer without any LLM calls.

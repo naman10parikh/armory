@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T23:29:30Z"
+pushed_at: "2026-09-02T20:15:43Z"
 ---
 ## What it is
 Provides access to Kenya 47-county local government data, including demographics, budgets, services, and contact information for all counties.

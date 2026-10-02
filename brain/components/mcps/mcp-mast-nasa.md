@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:21:03Z"
+pushed_at: "2026-09-26T19:39:11Z"
 ---
 ## What it is
 Enables querying the NASA MAST archive of space telescopes for astronomical data, including cone searches, mission-specific queries, and target name resolution.

@@ -8,13 +8,13 @@ source_url: https://github.com/aliyun/rds-supabase-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-20T07:05:06Z"
+pushed_at: "2026-09-08T10:53:52Z"
 ---
 ## What it is
 MCP server for Supabase instances running on Aliyun RDS, enabling AI assistants to interact with your Supabase instance hosted on Aliyun cloud infrastructure.

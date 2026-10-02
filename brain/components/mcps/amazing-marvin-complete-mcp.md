@@ -8,13 +8,13 @@ source_url: https://github.com/andreasd083/amazing-marvin-complete-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-31T09:38:25Z"
+forks: 0
+pushed_at: "2026-09-18T18:40:58Z"
 ---
 ## What it is
 An MCP server that exposes the full Amazing Marvin public API (34 tools across ~31 endpoints) so assistants can manage tasks, habits, time blocks, reminders, and reward points through natural language.

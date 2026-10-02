@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-03T08:15:09Z"
+pushed_at: "2026-09-04T12:39:38Z"
 ---
 ## What it is
 Enables healthcare AI interactions via MCP protocol with built-in EU AI Act compliance. Provides quick installation, well-documented API, and enterprise support.

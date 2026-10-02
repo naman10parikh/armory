@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T15:31:39Z"
+pushed_at: "2026-09-09T04:25:08Z"
 ---
 ## What it is
 A stdio MCP server providing everyday tools and Markdown skills for the Sesha agent, enabling notes, web research, coding, docs, scheduling, and safety/governance.

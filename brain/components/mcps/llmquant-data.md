@@ -8,11 +8,11 @@ source_url: https://github.com/llmquant/data-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 11
 pushed_at: "2026-08-27T18:27:42Z"
 ---
 ## What it is

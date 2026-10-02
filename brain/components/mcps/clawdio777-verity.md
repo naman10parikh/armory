@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-02T23:06:53Z"
+pushed_at: "2026-09-28T05:39:15Z"
 ---
 ## What it is
 MCP server `Verity`, catalogued on PulseMCP. Real-time fact-checking MCP returning CURRENT, OUTDATED, DISPUTED, or UNVERIFIABLE verdicts with confidence scores and sources.

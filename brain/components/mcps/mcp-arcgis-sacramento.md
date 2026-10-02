@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:40:28Z"
+pushed_at: "2026-09-25T21:55:44Z"
 ---
 ## What it is
 Enables querying and exploring City of Sacramento GIS open geospatial datasets (parcels, zoning, public works) via ArcGIS Feature Services.

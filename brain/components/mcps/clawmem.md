@@ -8,13 +8,13 @@ source_url: https://github.com/yoloshii/ClawMem
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 206
+stars: 212
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 32
-pushed_at: "2026-08-18T19:28:18Z"
+forks: 37
+pushed_at: "2026-10-01T15:22:11Z"
 ---
 ## What it is
 On-device memory layer with retrieval-augmented search, hooks, and MCP server for AI agents to persist and recall context across sessions without cloud dependencies.

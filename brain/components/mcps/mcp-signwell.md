@@ -8,13 +8,13 @@ source_url: https://github.com/Bidsketch/signwell-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-07-14T01:04:33Z"
+forks: 2
+pushed_at: "2026-09-29T02:33:46Z"
 ---
 ## What it is
 Model Context Protocol server that orchestrates SignWell's e-signature workflows — create, send, track, and manage documents and templates.

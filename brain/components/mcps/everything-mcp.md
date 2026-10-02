@@ -8,13 +8,13 @@ source_url: https://github.com/elis132/everything-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-08-01T23:16:48Z"
+forks: 5
+pushed_at: "2026-10-01T23:16:59Z"
 ---
 ## What it is
 The definitive MCP server for voidtools Everything - lightning-fast file search for AI agents.

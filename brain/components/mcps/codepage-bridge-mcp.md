@@ -8,13 +8,13 @@ source_url: https://github.com/skyispainted/codepage-bridge-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T08:08:18Z"
+pushed_at: "2026-09-09T08:42:39Z"
 ---
 ## What it is
 Encoding-transparent file tools for Claude Code and other MCP clients, converting project files between legacy codepages and Unicode for LLM operations.

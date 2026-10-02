@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T22:32:24Z"
+pushed_at: "2026-09-29T14:16:40Z"
 ---
 ## What it is
 A read-only MCP server that gives AI coding agents structured access to a project's source code, architecture, documentation, and Git context through 16 tools for searching, reading, and comparing evidence without modifying files.

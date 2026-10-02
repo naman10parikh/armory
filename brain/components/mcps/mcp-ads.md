@@ -8,13 +8,13 @@ source_url: https://github.com/RoyAzran/mcp-ads
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T16:41:06Z"
+pushed_at: "2026-09-24T22:05:45Z"
 ---
 ## What it is
 Enables running marketing platforms like Google Ads, Meta Ads, GA4, Search Console, Tag Manager, and WordPress from any MCP client to read performance, audit wasted spend, build reports, and launch campaigns (created paused until you say otherwise).

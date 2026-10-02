@@ -8,13 +8,13 @@ source_url: https://github.com/Eklavya20/churn-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:59:34Z"
+pushed_at: "2026-09-03T14:26:42Z"
 ---
 ## What it is
 Enables MCP-aware clients to call the churn-prediction API's predict_churn and check_model_health tools directly, proxying to the existing churn-api service over HTTP.

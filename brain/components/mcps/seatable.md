@@ -8,12 +8,12 @@ source_url: https://github.com/seatable/seatable-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-09-01T15:02:23Z"
+forks: 2
+pushed_at: "2026-09-04T14:18:41Z"
 ---
 ## What it is
 MCP server `SeaTable`, catalogued on PulseMCP. Read, write, search, link, and query data in SeaTable bases.

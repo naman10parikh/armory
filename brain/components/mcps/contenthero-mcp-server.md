@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T13:39:16Z"
+pushed_at: "2026-10-02T03:37:02Z"
 ---
 ## What it is
 Enables programmatic image, video, and audio generation via ContentHero, with tools accessible from any MCP client like Claude or Cursor.

@@ -8,13 +8,13 @@ source_url: https://github.com/sdewell/code-quorum
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-31T06:01:32Z"
+forks: 1
+pushed_at: "2026-10-01T23:41:19Z"
 ---
 ## What it is
 Enables multi-agent council workflows for coding assistants, providing parallel independent reviews, plans, brainstorms, validation, and research with strict read-only boundaries.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T14:29:18Z"
+pushed_at: "2026-09-04T14:27:31Z"
 ---
 ## What it is
 Enables sending web push notifications and managing Pushpad resources (notifications, subscriptions, projects, and senders) through natural language, using the Pushpad API.

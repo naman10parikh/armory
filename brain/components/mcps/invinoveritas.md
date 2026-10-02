@@ -8,13 +8,13 @@ source_url: https://github.com/babyblueviper1/invinoveritas-sdk
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T12:19:05Z"
+forks: 1
+pushed_at: "2026-10-01T15:01:36Z"
 ---
 ## What it is
 A Lightning-paid tool stack for autonomous agents — capital-scale-aware second-opinion /review (Sentinel mode auto-injects live trading state), reasoning, structured decisions, sandboxed code execution, paid agent-to-agent messaging, persistent memory, and signed audit proofs. Built and used daily b

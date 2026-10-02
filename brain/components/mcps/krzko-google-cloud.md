@@ -8,11 +8,11 @@ source_url: https://github.com/krzko/google-cloud-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 82
+stars: 80
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
+forks: 21
 pushed_at: "2025-12-15T02:23:11Z"
 ---
 ## What it is

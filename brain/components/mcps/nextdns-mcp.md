@@ -8,13 +8,13 @@ source_url: https://github.com/dmeiser/nextdns-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-01T12:05:09Z"
+forks: 2
+pushed_at: "2026-09-30T17:27:09Z"
 ---
 ## What it is
 Enables AI assistants to manage NextDNS profiles, settings, logs, analytics, and security configurations through 70+ operations via the Model Context Protocol.

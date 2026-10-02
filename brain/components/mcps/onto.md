@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-28T18:45:32Z"
+pushed_at: "2026-09-04T21:14:33Z"
 ---
 ## What it is
 MCP server `Onto`, catalogued on PulseMCP. Converts web pages to clean Markdown with AI-readability scoring for AI agent consumption.

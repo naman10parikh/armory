@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-17T21:36:03Z"
+pushed_at: "2026-09-12T21:53:22Z"
 ---
 ## What it is
 MCP server deployed on Azure Functions that provides a LearnAgent tool to search and retrieve Microsoft Learn documentation.

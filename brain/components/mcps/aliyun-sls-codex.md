@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T08:59:17Z"
+pushed_at: "2026-09-30T06:47:50Z"
 ---
 ## What it is
 MCP server for read-only investigation of Aliyun SLS logs fixed to cn-beijing/taient-rpa/node-rpa. Exposes search_logs, get_context_logs, and check_connection tools with a guided investigation skill.

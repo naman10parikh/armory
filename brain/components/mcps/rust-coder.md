@@ -8,12 +8,12 @@ source_url: https://github.com/cardea-mcp/RustCoder
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 97
+stars: 96
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 20
+forks: 19
 pushed_at: "2025-08-28T08:05:04Z"
 ---
 ## What it is

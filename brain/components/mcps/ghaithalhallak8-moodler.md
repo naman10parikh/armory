@@ -12,8 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-07-18T20:12:25Z"
+forks: 1
+pushed_at: "2026-09-19T03:14:52Z"
 ---
 ## What it is
 MCP server `Moodler`, catalogued on PulseMCP. Interact with Moodle LMS through natural language to browse courses, track deadlines, and manage assignments.

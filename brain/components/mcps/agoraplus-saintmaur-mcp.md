@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T19:03:38Z"
+pushed_at: "2026-09-06T07:46:34Z"
 ---
 ## What it is
 Read-only MCP server for the Agora Plus family portal of Saint-Maur-des-Fossés, exposing portal info and peri-inscriptions.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T15:45:49Z"
+pushed_at: "2026-09-29T07:11:56Z"
 ---
 ## What it is
 Vendor-neutral CLI and MCP server that verifies the token and cost savings AI-coding-agent context-reduction proxies actually deliver, measured against a real labeled corpus.

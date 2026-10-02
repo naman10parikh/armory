@@ -8,12 +8,12 @@ source_url: https://github.com/nirholas/pump-fun-sdk
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 119
+stars: 132
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 37
-pushed_at: "2026-08-17T03:03:29Z"
+forks: 43
+pushed_at: "2026-09-18T19:42:24Z"
 ---
 ## What it is
 MCP server `Pump.fun SDK`, catalogued on PulseMCP. Solana token operations on Pump.fun including creation, buying, selling, and migration.

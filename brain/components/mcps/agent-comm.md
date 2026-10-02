@@ -8,13 +8,13 @@ source_url: https://github.com/keshrath/agent-comm
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-04-17T08:01:34Z"
+forks: 4
+pushed_at: "2026-10-01T18:01:36Z"
 ---
 ## What it is
 MCP server that enables AI coding agents to communicate, share state, and coordinate work in real time via MCP tools or REST API.

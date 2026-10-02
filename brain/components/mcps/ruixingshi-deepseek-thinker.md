@@ -8,11 +8,11 @@ source_url: https://github.com/ruixingshi/deepseek-thinker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 69
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 17
 pushed_at: "2025-03-25T13:55:34Z"
 ---
 ## What it is

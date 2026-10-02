@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:10:19Z"
+pushed_at: "2026-09-26T18:56:37Z"
 ---
 ## What it is
 Enables querying the gnomAD genome aggregation database for variant, gene, and region information.

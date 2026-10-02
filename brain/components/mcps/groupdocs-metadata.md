@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-25T21:20:12Z"
+pushed_at: "2026-09-05T23:31:13Z"
 ---
 ## What it is
 MCP server `GroupDocs Metadata`, catalogued on PulseMCP. Read and remove metadata from documents and media files using the GroupDocs.Metadata library.

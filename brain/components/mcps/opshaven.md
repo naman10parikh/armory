@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T00:53:17Z"
+pushed_at: "2026-09-08T20:55:33Z"
 ---
 ## What it is
 A local MCP server for inspecting and operating Linux VPS deployments through restricted SSH.

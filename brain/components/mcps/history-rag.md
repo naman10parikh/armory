@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-02T03:19:23Z"
+pushed_at: "2026-09-06T21:51:30Z"
 ---
 ## What it is
 Local semantic search over Claude Code sessions and shell command history, exposed to Claude Code as an MCP tool. Everything is indexed into one vector space and runs entirely on your machine.

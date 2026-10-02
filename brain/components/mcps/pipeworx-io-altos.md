@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:32:59Z"
+pushed_at: "2026-09-25T21:20:36Z"
 ---
 ## What it is
 MCP server `Altos Research`, catalogued on PulseMCP. Real estate market intelligence from Altos Research for housing market trends and pricing data.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T03:21:03Z"
+pushed_at: "2026-09-29T17:45:20Z"
 ---
 ## What it is
 Enables multi-user, network-reachable MCP interaction with Redmine, with per-user impersonation and identity-based access control.

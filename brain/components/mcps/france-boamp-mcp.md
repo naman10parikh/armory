@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:07:55Z"
+pushed_at: "2026-09-26T12:31:00Z"
 ---
 ## What it is
 Enables querying French government public procurement notices (BOAMP) without an API key.

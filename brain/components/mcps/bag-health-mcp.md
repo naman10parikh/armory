@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T17:03:20Z"
+pushed_at: "2026-09-27T16:43:33Z"
 ---
 ## What it is
 MCP server for the Swiss Federal Office of Public Health Infectious Disease Dashboard, providing access to epidemiological surveillance data for 51 pathogens across Switzerland, including influenza, COVID-19, measles, and wastewater surveillance.

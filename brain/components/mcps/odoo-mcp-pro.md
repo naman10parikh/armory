@@ -8,13 +8,13 @@ source_url: https://github.com/pantalytics/odoo-mcp-pro
 license: Elastic License 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 74
+stars: 83
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 33
-pushed_at: "2026-09-01T14:30:27Z"
+forks: 42
+pushed_at: "2026-09-30T14:27:19Z"
 ---
 ## What it is
 AI connector for Odoo ERP enabling natural language interaction to search, create, update, and manage business records.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T12:29:46Z"
+pushed_at: "2026-09-17T03:12:26Z"
 ---
 ## What it is
 Exposes local file system operations to AI assistants via Streamable HTTP with security features like auth, path whitelisting, and audit logging.

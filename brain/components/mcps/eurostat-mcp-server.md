@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/eurostat-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T06:02:28Z"
+pushed_at: "2026-09-25T14:38:32Z"
 ---
 ## What it is
 Search and query the Eurostat catalogue — EU economy, demography, trade, health, and NUTS regional data via MCP with 5 tools and 1 resource.

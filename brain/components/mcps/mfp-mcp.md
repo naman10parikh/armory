@@ -8,13 +8,13 @@ source_url: https://github.com/Mason-Levyy/myfitnesspal-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-07-27T01:28:17Z"
+forks: 10
+pushed_at: "2026-09-30T18:01:23Z"
 ---
 ## What it is
 Connect MyFitnessPal to Claude or any MCP client. Log meals, search food database with macros, track trends, and export nutrition history against your real MyFitnessPal diary.

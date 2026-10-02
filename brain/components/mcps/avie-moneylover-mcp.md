@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T18:51:20Z"
+pushed_at: "2026-10-01T18:48:31Z"
 ---
 ## What it is
 Provides tools to read Money Lover account data and add transactions, with features for previewing, duplicate detection, reconciliation, and safe batch import of bank/card statement JSON via an MCP client.

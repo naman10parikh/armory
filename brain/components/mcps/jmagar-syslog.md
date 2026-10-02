@@ -12,8 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-09-01T19:02:55Z"
+forks: 3
+pushed_at: "2026-10-01T12:56:10Z"
 ---
 ## What it is
 MCP server `Syslog`, catalogued on PulseMCP. Self-hosted syslog receiver and MCP server for homelab log intelligence and analysis.

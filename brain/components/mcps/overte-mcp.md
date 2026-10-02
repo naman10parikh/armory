@@ -8,13 +8,13 @@ source_url: https://github.com/sandraschi/overte-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T16:56:07Z"
+pushed_at: "2026-10-02T12:48:50Z"
 ---
 ## What it is
 An MCP server for the Overte social-VR platform, enabling real-time querying of domain status, spawning in-world entities, and injecting JavaScript scripts through a WebSocket bridge.

@@ -8,13 +8,13 @@ source_url: https://github.com/XBP-Europe/sagemath-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-24T07:03:27Z"
+forks: 1
+pushed_at: "2026-09-29T05:34:08Z"
 ---
 ## What it is
 A universal mathematics MCP server that gives LLM clients full access to SageMath for symbolic calculus, number theory, linear algebra, and more, with persistent state across tool calls.

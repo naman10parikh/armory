@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-25T21:20:03Z"
+pushed_at: "2026-09-06T00:48:56Z"
 ---
 ## What it is
 MCP server `GroupDocs Redaction`, catalogued on PulseMCP. Redacts sensitive text, metadata, annotations, and image regions from PDF, Word, Excel, PowerPoint, and image documents via AI agents.

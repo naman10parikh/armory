@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T18:24:35Z"
+pushed_at: "2026-10-01T13:54:27Z"
 ---
 ## What it is
 Provides curated real website design references with structured JSON data on type, spacing, palette, and layout. Enables AI agents to search, browse, and analyze over 1,000 sites and their sections.

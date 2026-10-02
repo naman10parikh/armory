@@ -8,12 +8,12 @@ source_url: https://github.com/gowtham0992/link
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 180
+stars: 190
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
-pushed_at: "2026-08-15T21:20:31Z"
+forks: 23
+pushed_at: "2026-09-28T21:28:17Z"
 ---
 ## What it is
 MCP server `Link`, catalogued on PulseMCP. Personal knowledge wiki maintained by LLMs with agent-optimized search and graph visualization.

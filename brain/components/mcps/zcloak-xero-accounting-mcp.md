@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T03:58:00Z"
+pushed_at: "2026-09-02T06:08:38Z"
 ---
 ## What it is
 Enables accountants to connect Xero, read accounting data, analyze, and execute controlled draft operations after explicit confirmation, with Xero as the source of truth.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-24T02:54:09Z"
+pushed_at: "2026-09-23T03:22:47Z"
 ---
 ## What it is
 Enables natural language search of local photo archives using AI-powered semantic understanding, with integration into Claude Desktop via the Model Context Protocol.

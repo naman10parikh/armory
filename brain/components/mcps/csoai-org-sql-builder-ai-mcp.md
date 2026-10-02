@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-26T05:44:58Z"
+pushed_at: "2026-09-04T12:43:57Z"
 ---
 ## What it is
 MCP server `SQL Builder AI`, catalogued on PulseMCP. Python MCP server for SQL query building and database interaction.

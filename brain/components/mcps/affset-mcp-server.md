@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T13:34:02Z"
+pushed_at: "2026-09-13T17:06:44Z"
 ---
 ## What it is
 Enables media buyers to manage affset campaigns, zones, stats, payouts, targeting, and team via natural language, pulling stats and cutting underperforming zones without the dashboard.

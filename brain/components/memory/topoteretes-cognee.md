@@ -8,14 +8,14 @@ source_url: https://github.com/topoteretes/cognee
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 30556
+stars: 31303
 eval_score: null
 mentions: 4
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 3010
-pushed_at: "2026-09-07T07:33:34Z"
+forks: 3151
+pushed_at: "2026-10-02T13:07:08Z"
 ---
 ## What it is
 Use when an agent needs long-term memory backed by a knowledge graph you can host yourself.

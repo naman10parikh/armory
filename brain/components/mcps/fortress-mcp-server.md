@@ -8,13 +8,13 @@ source_url: https://github.com/tiliondev/fortress
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 477
+stars: 707
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 33
-pushed_at: "2026-07-23T23:54:52Z"
+forks: 47
+pushed_at: "2026-09-30T10:29:00Z"
 ---
 ## What it is
 Provides 29 stealth-browsing tools for AI agents, enabling undetected web automation and scraping through a patched Chromium engine.

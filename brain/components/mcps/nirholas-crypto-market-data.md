@@ -8,12 +8,12 @@ source_url: https://github.com/nirholas/crypto-market-data
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-08-17T03:02:26Z"
+pushed_at: "2026-09-15T08:00:14Z"
 ---
 ## What it is
 MCP server `Crypto Market Data`, catalogued on PulseMCP. Access real-time cryptocurrency prices, OHLCV charts, DeFi protocol TVL, and yield farming data from CoinGecko and DeFiLlama.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:21:11Z"
+pushed_at: "2026-09-26T19:39:34Z"
 ---
 ## What it is
 Provides computed (DFT) materials structures and thermodynamic properties through the Pipeworx MCP gateway, enabling AI agents to query materials data via natural language or tool calls.

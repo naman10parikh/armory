@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:36:55Z"
+pushed_at: "2026-09-25T21:30:00Z"
 ---
 ## What it is
 Enables searching and querying of City of Falls Church GIS open geospatial data (parcels, zoning, public works) via ArcGIS feature services.

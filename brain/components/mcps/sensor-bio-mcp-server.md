@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T06:14:09Z"
+pushed_at: "2026-09-30T23:10:56Z"
 ---
 ## What it is
 Connects Sensor Bio wearable data to AI assistants via the Model Context Protocol, enabling queries about sleep, heart rate, activity, and other biometrics.

@@ -8,13 +8,13 @@ source_url: https://github.com/nicomathieu/docfill-agent
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T18:44:39Z"
+pushed_at: "2026-09-21T13:09:34Z"
 ---
 ## What it is
 An MCP server that enables LLM agents to read, understand, and fill DOCX templates while preserving formatting like bold labels and fonts. It exposes tools for document upload, AST inspection, editing, and validation.

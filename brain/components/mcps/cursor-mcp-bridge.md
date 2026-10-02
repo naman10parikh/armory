@@ -8,13 +8,13 @@ source_url: https://github.com/JaimeJunr/cursor-mcp-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T17:25:43Z"
+pushed_at: "2026-09-30T18:33:33Z"
 ---
 ## What it is
 MCP server that lets any agent or MCP host delegate tasks to the Cursor CLI agent for fast, headless execution. Supports task delegation, project discovery, file analysis, and follow-up sessions.

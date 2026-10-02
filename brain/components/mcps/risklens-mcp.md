@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-03T08:25:54Z"
+pushed_at: "2026-09-03T22:12:59Z"
 ---
 ## What it is
 Enables risk analysis of US public companies by analyzing 8-K filings and insider activity using live SEC EDGAR data.

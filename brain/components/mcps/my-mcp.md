@@ -8,13 +8,13 @@ source_url: https://github.com/jordanburke/microsoft-todo-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 99
+stars: 111
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 35
-pushed_at: "2026-06-15T13:54:09Z"
+forks: 39
+pushed_at: "2026-09-13T22:52:24Z"
 ---
 ## What it is
 TO DO microsoft

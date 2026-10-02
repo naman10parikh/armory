@@ -8,12 +8,12 @@ source_url: https://github.com/mausrundung/mcp-explorer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-12T13:16:13Z"
+pushed_at: "2026-09-16T16:41:54Z"
 ---
 ## What it is
 MCP server `Project Explorer`, catalogued on PulseMCP. Provides secure file system exploration and project analysis for TypeScript/JavaScript codebases with tools for project exploration, file search with regex support, file management operations, package dependency analysis, and directory access control through configurable allowed paths.

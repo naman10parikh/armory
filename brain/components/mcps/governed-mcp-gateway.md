@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T16:29:25Z"
+pushed_at: "2026-09-21T00:50:40Z"
 ---
 ## What it is
 This MCP server preserves a Bearer principal on every tool call and SSE frame, rotates vaulted credentials in place, and enforces per-tool allowlists for agents.

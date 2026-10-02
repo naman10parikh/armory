@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T23:16:27Z"
+pushed_at: "2026-09-17T03:57:24Z"
 ---
 ## What it is
 Provides CPG agent protocols, signals, and standards for agentic commerce, including tools to query protocol canon, signals, and header configurations.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T01:17:11Z"
+pushed_at: "2026-09-09T05:44:22Z"
 ---
 ## What it is
 This MCP server powers a chat CLI for Claude or Gemini, letting users reference local documents by ID and execute MCP prompts through natural language.

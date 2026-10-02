@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-29T09:04:38Z"
+pushed_at: "2026-09-03T03:56:29Z"
 ---
 ## What it is
 MCP server `MEOK NIS2 DE Register`, catalogued on PulseMCP. Automate Germany NIS2 (NIS2-UmsuCG) compliance with BSI registration packet generation, scope validation, and HMAC-signed proofs.

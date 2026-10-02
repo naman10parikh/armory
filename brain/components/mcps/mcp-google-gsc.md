@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T03:37:33Z"
+pushed_at: "2026-09-09T04:29:44Z"
 ---
 ## What it is
 Enables querying Google Search Console search analytics (clicks, impressions, CTR, position) with flexible dimensions, inspecting URL indexing and mobile usability, and listing verified properties, all via Claude.

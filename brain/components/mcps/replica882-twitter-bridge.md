@@ -8,7 +8,7 @@ source_url: https://github.com/replica882/twitter-bridge-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 130
+stars: 132
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

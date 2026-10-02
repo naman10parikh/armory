@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:09Z"
+pushed_at: "2026-09-02T21:18:59Z"
 ---
 ## What it is
 Resolves prediction market events with confidence scores by aggregating news, price feeds, and web data, using pay-per-call x402 micropayments.

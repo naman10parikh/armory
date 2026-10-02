@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-06T20:03:15Z"
+pushed_at: "2026-09-08T20:12:45Z"
 ---
 ## What it is
 Combines semantic search with AST-based code exploration for AI agents, enabling natural language code search, file structure browsing, symbol inspection, and dependency analysis through the Model Context Protocol.

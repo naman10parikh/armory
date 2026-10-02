@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-24T18:41:48Z"
+forks: 1
+pushed_at: "2026-09-25T13:42:30Z"
 ---
 ## What it is
 Enables natural language interaction with Nevent's live-event marketing platform, including campaigns, analytics, paid ads, segments, and short URLs, via 52 tools across 9 categories.

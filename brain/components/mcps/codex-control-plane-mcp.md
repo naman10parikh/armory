@@ -8,13 +8,13 @@ source_url: https://github.com/aresyn/codex-control-plane-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 121
+stars: 124
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-07-15T10:52:28Z"
+forks: 5
+pushed_at: "2026-09-09T07:48:51Z"
 ---
 ## What it is
 Reliable Codex Desktop automation for long tasks with durable async operations, Plan Mode workflows, and retry-safe task submission.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-23T04:41:56Z"
+pushed_at: "2026-09-28T10:56:56Z"
 ---
 ## What it is
 Enables Claude Code to delegate web research and image generation to ChatGPT via Playwright browser automation, allowing token-efficient search and visual design iteration without manual screenshots.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-11T02:14:45Z"
+pushed_at: "2026-09-29T17:40:17Z"
 ---
 ## What it is
 MCP server `pre.dev Architect`, catalogued on PulseMCP. Give your AI agents the architecture context they need to build complex systems correctly the first time

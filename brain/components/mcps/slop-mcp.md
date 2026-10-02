@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T02:43:30Z"
+pushed_at: "2026-09-25T22:42:04Z"
 ---
 ## What it is
 An MCP orchestration layer that aggregates multiple MCP servers while exposing only 8 meta-tools, dramatically reducing context window usage, and provides SLOP scripting, event monitoring, and tool customization.

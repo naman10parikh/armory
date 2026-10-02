@@ -8,13 +8,13 @@ source_url: https://github.com/chrischall/creditkarma-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T23:30:42Z"
+pushed_at: "2026-09-28T13:51:28Z"
 ---
 ## What it is
 Connects Claude to Credit Karma for natural-language access to transactions, spending patterns, and account summaries.

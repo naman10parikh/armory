@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:50:45Z"
+pushed_at: "2026-09-26T22:26:52Z"
 ---
 ## What it is
 MCP server `XKCD`, catalogued on PulseMCP. xkcd comic data via the xkcd.com JSON API — fetch current or specific comics with titles, images, transcripts, and alt text.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T15:34:24Z"
+pushed_at: "2026-09-09T03:32:19Z"
 ---
 ## What it is
 Enables LLMs and AI agents to perform defensive security posture assessments, privilege escalation surface audits, and post-quantum cryptography readiness checks through read-only diagnostic tools.

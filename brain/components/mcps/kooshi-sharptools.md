@@ -8,11 +8,11 @@ source_url: https://github.com/kooshi/sharptoolsmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 222
+stars: 225
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
+forks: 37
 pushed_at: "2026-06-02T01:56:51Z"
 ---
 ## What it is

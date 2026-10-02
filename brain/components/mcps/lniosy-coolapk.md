@@ -8,11 +8,11 @@ source_url: https://github.com/lniosy/coolapk-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-07-06T08:54:28Z"
 ---
 ## What it is

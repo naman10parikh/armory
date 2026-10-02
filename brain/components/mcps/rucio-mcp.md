@@ -8,13 +8,13 @@ source_url: https://github.com/kratsg/rucio-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-28T02:33:01Z"
+pushed_at: "2026-10-01T09:14:35Z"
 ---
 ## What it is
 An MCP server that exposes Rucio distributed data management operations as tools for LLMs. Designed for ATLAS physicists working with grid data on analysis facilities, but usable with any Rucio instance.

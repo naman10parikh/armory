@@ -8,13 +8,13 @@ source_url: https://github.com/globodai-group/mcp-linkedin-sales-navigator
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-02-05T08:30:37Z"
+forks: 4
+pushed_at: "2026-09-16T22:01:04Z"
 ---
 ## What it is
 Enables AI assistants to search leads, view profiles, manage lists, send InMails, and export data from LinkedIn Sales Navigator through browser automation.

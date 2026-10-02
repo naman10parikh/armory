@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T07:26:39Z"
+pushed_at: "2026-10-01T17:15:55Z"
 ---
 ## What it is
 Copy-paste MCP configs for Palim hosted cross-tool memory (Claude, Cursor, ChatGPT).

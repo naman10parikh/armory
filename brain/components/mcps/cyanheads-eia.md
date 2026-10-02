@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-25T07:15:24Z"
+pushed_at: "2026-09-19T19:09:43Z"
 ---
 ## What it is
 MCP server `EIA Energy Data`, catalogued on PulseMCP. Retrieves U.S. Energy Information Administration statistics on electricity, natural gas, petroleum, coal, and renewable energy.

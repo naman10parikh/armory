@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-01T20:49:46Z"
+forks: 3
+pushed_at: "2026-09-26T15:58:01Z"
 ---
 ## What it is
 MCP server that forecasts next-epoch demand for Aerodrome pools on Base and turns it into concrete incentive-allocation recommendations.

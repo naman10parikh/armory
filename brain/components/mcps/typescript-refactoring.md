@@ -8,11 +8,11 @@ source_url: https://github.com/mizchi/lsmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 453
+stars: 451
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
+forks: 20
 pushed_at: "2025-10-27T00:37:07Z"
 ---
 ## What it is

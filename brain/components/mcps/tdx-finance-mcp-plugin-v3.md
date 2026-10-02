@@ -8,12 +8,12 @@ source_url: https://github.com/adambbhe/TDX-finance-mcp-plugin-v3
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 33
+stars: 38
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-07-04T14:50:28Z"
 ---
 ## What it is

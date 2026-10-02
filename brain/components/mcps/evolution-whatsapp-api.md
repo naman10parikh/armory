@@ -8,11 +8,11 @@ source_url: https://github.com/aiteks-ltda/mcp-evolution-whatsapp-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
+forks: 21
 pushed_at: "2025-10-15T07:10:44Z"
 ---
 ## What it is

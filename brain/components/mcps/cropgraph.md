@@ -8,12 +8,12 @@ source_url: https://github.com/cropgraph/cropgraph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-06T21:59:43Z"
+pushed_at: "2026-09-23T18:03:24Z"
 ---
 ## What it is
 MCP server `CropGraph`, catalogued on PulseMCP. Garden planning MCP with a database of 1,000 crops, climate-aware planting schedules, and companion plant relationships.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T18:55:11Z"
+pushed_at: "2026-09-17T18:01:49Z"
 ---
 ## What it is
 Zero-trust encrypted email archiving and search MCP server with real-time IMAP IDLE ingestion, AES-256-GCM encryption, SQLite FTS5 full-text search, and Obsidian vault export, exposing tools for AI assistants to search, retrieve, and manage emails.

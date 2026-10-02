@@ -8,7 +8,7 @@ source_url: https://github.com/ComposioHQ/trustclaw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 886
+stars: 903
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02

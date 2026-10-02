@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T23:38:08Z"
+pushed_at: "2026-09-27T16:35:12Z"
 ---
 ## What it is
 An MCP server for accesso Passport mobile ticket links that reads orders, admissions, barcodes, and Google Wallet passes without login. It provides read-only tools to fetch ticket details, save barcode images, and resolve email tracking links.

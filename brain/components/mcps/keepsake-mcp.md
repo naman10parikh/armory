@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-22T08:20:17Z"
+pushed_at: "2026-09-29T14:28:43Z"
 ---
 ## What it is
 MCP server for Keepsake personal CRM that enables AI assistants to manage contacts, interactions, tasks, notes, daily journal, companies, and tags.

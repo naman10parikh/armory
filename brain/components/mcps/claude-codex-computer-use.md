@@ -8,12 +8,12 @@ source_url: https://github.com/songkeys/claude-codex-computer-use
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-08-18T10:08:44Z"
 ---
 ## What it is

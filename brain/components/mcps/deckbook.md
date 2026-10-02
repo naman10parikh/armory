@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T09:58:36Z"
+pushed_at: "2026-09-28T08:21:34Z"
 ---
 ## What it is
 MCP server for the Deckbook task tracker, allowing AI agents to create and manage tasks with project-scoped tokens.

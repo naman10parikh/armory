@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-13T20:51:52Z"
+pushed_at: "2026-09-09T17:42:23Z"
 ---
 ## What it is
 Middleware that uses Model Context Protocol and generative AI to automatically generate native Crestron Construct interfaces (.cuig/.cuib), enabling natural language creation of AV control UI components.

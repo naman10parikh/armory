@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-22T11:06:10Z"
+pushed_at: "2026-09-25T12:09:06Z"
 ---
 ## What it is
 MCP server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Desktop.

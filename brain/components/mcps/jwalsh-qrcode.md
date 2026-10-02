@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-05T19:08:58Z"
+pushed_at: "2026-09-29T08:46:51Z"
 ---
 ## What it is
 MCP server `QR Code Generator`, catalogued on PulseMCP. Integrates with the qrencode utility to generate QR codes dynamically, supporting various output formats and configuration options for flexible use in applications and workflows.

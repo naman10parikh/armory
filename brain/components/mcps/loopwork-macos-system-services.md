@@ -8,12 +8,12 @@ source_url: https://github.com/mattt/imcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1533
+stars: 1668
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 117
-pushed_at: "2026-05-07T13:04:55Z"
+forks: 122
+pushed_at: "2026-10-02T11:42:24Z"
 ---
 ## What it is
 MCP server `macOS System Services (iMCP)`, catalogued on PulseMCP. Access to macOS Messages, Contacts, Location, Reminders and other Apple services.

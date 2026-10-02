@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T05:11:09Z"
+pushed_at: "2026-09-09T05:39:59Z"
 ---
 ## What it is
 MCP server for transcribing audio and generating structured customer requirement meeting minutes (including flowcharts) using Whisper and AI backends, with export to md/html/pdf/docx and model/settings management.

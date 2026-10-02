@@ -8,7 +8,7 @@ source_url: https://github.com/tokidoo/mcp-obsidian-advanced
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

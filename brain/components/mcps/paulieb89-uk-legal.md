@@ -8,12 +8,12 @@ source_url: https://github.com/paulieb89/uk-legal-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-08-27T10:54:13Z"
+forks: 5
+pushed_at: "2026-09-14T00:33:45Z"
 ---
 ## What it is
 MCP server `UK Legal Research`, catalogued on PulseMCP. UK legal research covering case law, legislation, Hansard, bills, parliamentary votes, and HMRC guidance.

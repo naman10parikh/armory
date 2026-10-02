@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:11:56Z"
+pushed_at: "2026-09-26T19:01:53Z"
 ---
 ## What it is
 Enables AI agents to access the GunBroker firearms-marketplace API through natural language queries or direct tool calls, leveraging the Pipeworx MCP gateway.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:18:15Z"
+pushed_at: "2026-09-26T19:24:49Z"
 ---
 ## What it is
 MCP server `Klaviyo`, catalogued on PulseMCP. Klaviyo email and SMS marketing integration for campaigns, profiles, and customer segment data.

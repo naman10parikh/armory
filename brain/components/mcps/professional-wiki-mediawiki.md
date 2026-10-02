@@ -8,12 +8,12 @@ source_url: https://github.com/professionalwiki/mediawiki-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 125
+stars: 136
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 34
-pushed_at: "2026-08-31T22:45:40Z"
+forks: 38
+pushed_at: "2026-10-01T04:43:01Z"
 ---
 ## What it is
 MCP server `MediaWiki`, catalogued on PulseMCP. Integrates with MediaWiki instances through REST API to enable searching pages, retrieving content in multiple formats, accessing file information, viewing revision history, and performing authenticated operations like creating and updating pages with automatic wiki discovery and dynamic configuration management.

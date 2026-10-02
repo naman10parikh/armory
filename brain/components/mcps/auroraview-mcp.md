@@ -8,13 +8,13 @@ source_url: https://github.com/loonghao/auroraview
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 44
+stars: 47
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-07-22T01:42:13Z"
+pushed_at: "2026-10-01T01:35:40Z"
 ---
 ## What it is
 Enables AI agents to manage and interact with WebViews in DCC applications through tools like screenshot, load URL, eval JS, and event streaming via the Model Context Protocol.

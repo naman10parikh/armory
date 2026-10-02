@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-25T16:01:18Z"
+pushed_at: "2026-09-25T04:29:12Z"
 ---
 ## What it is
 Manage podcast guest pipeline, outreach drafts, and analytics via 5 MCP tools.

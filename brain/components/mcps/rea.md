@@ -8,13 +8,13 @@ source_url: https://github.com/morluto/rea
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 389
+stars: 422
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 31
-pushed_at: "2026-08-29T02:13:25Z"
+forks: 38
+pushed_at: "2026-10-01T22:34:49Z"
 ---
 ## What it is
 MCP server that enables agents to reverse engineer applications, from high-level behavior down to native binaries, using tools like Hopper and Ghidra.

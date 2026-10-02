@@ -8,11 +8,11 @@ source_url: https://github.com/ryancardin15/azuredevops-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
+forks: 29
 pushed_at: "2026-06-30T16:44:33Z"
 ---
 ## What it is

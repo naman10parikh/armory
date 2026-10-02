@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-28T09:42:28Z"
+pushed_at: "2026-09-30T08:45:30Z"
 ---
 ## What it is
 MCP server `Database Read-Only Access`, catalogued on PulseMCP. Read-only database access for MySQL, PostgreSQL, SQLite, SQL Server, TiDB, GaussDB, and ClickHouse with SQL validation.

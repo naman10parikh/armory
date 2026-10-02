@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T17:17:36Z"
+pushed_at: "2026-10-01T15:07:50Z"
 ---
 ## What it is
 Enables AI to verify KeyHalve-sealed documents from any platform. Verifies status, ciphertext integrity, rail attestation, time lock, and issuer trust without requiring decryption keys.

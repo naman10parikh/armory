@@ -8,13 +8,13 @@ source_url: https://github.com/X-Gunner/codeigniter-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-31T19:46:35Z"
+forks: 1
+pushed_at: "2026-09-28T19:46:46Z"
 ---
 ## What it is
 A Model Context Protocol server that accelerates CodeIgniter-inspired PHP framework development by generating, validating, and maintaining idiomatic MVC plus Services/Repository code via 7 tools and 4 resources.

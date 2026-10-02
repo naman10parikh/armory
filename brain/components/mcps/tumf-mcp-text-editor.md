@@ -8,12 +8,12 @@ source_url: https://github.com/tumf/mcp-text-editor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 199
+stars: 200
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
-pushed_at: "2026-03-17T22:06:05Z"
+forks: 25
+pushed_at: "2026-09-12T10:47:35Z"
 ---
 ## What it is
 MCP server `Text Editor`, catalogued on PulseMCP. Perform efficient line-oriented operations on text files.

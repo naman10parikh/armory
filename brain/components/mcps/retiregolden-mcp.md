@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T19:13:36Z"
+pushed_at: "2026-09-27T13:43:07Z"
 ---
 ## What it is
 Headless MCP server for the RetireGolden retirement-planning calculator, providing typed tools to build/validate plans, run projections, Monte Carlo simulations, and optimization via stdio.

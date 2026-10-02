@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T09:50:33Z"
+pushed_at: "2026-09-23T00:50:03Z"
 ---
 ## What it is
 Manage local/SSH/WinRM remote hosts via MCP, providing tools for exec, filesystem, screen, process, serial console, and configuration.

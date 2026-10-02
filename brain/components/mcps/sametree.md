@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T05:14:18Z"
+pushed_at: "2026-10-02T05:14:46Z"
 ---
 ## What it is
 Local coordination for coding agents that share a Git working tree.

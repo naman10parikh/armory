@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T06:16:13Z"
+pushed_at: "2026-10-02T05:43:22Z"
 ---
 ## What it is
 Exposes OpenWebUI's admin REST API as an MCP server, enabling administrative operations on OpenWebUI through natural language via MCP tools.

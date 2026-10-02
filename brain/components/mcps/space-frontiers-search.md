@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-07-29T08:17:04Z"
+pushed_at: "2026-09-29T18:58:52Z"
 ---
 ## What it is
 MCP server `Space Frontiers Search`, catalogued on PulseMCP. Enables semantic and keyword searches across Space Frontiers' library, telegram, and reddit databases through a FastAPI-based server with flexible authentication options.

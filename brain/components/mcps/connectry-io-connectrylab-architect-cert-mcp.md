@@ -11,8 +11,8 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, education]
-stars: 33
-forks: 14
+stars: 36
+forks: 16
 pushed_at: "2026-03-19T12:33:30Z"
 ---
 ## What it is

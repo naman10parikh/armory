@@ -8,13 +8,13 @@ source_url: https://github.com/romanstark/dorico-maestro
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T19:18:54Z"
+pushed_at: "2026-09-10T07:28:28Z"
 ---
 ## What it is
 An AI composition partner that remote-controls Steinberg Dorico through the Model Context Protocol, enabling composers to create, edit, play back, and refine musical scores using natural language.

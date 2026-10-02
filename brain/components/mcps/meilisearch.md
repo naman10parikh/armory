@@ -12,8 +12,8 @@ stars: 195
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 34
-pushed_at: "2026-08-24T09:17:08Z"
+forks: 33
+pushed_at: "2026-09-08T15:29:11Z"
 ---
 ## What it is
 MCP server `Meilisearch`, catalogued on PulseMCP. Integrates Meilisearch's search capabilities for fast, typo-tolerant indexing and querying of documents in AI-powered applications.

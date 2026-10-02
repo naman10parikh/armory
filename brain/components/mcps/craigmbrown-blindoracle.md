@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-30T00:35:21Z"
+pushed_at: "2026-09-26T04:00:53Z"
 ---
 ## What it is
 MCP server `BlindOracle`, catalogued on PulseMCP. Privacy-preserving decision engine using differential privacy and secure computation.

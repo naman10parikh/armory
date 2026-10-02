@@ -8,12 +8,12 @@ source_url: https://github.com/chainbase-labs/Agentkey
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 625
+stars: 654
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 65
+forks: 70
 pushed_at: "2026-08-24T16:55:44Z"
 ---
 ## What it is

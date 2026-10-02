@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-12T19:58:44Z"
+pushed_at: "2026-09-16T11:21:28Z"
 ---
 ## What it is
 MCP server `MCP Proxy`, catalogued on PulseMCP. TypeScript MCP gateway consolidating multiple upstream servers with schema deferral and response shielding.

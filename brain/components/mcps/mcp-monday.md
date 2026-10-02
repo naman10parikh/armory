@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:23:13Z"
+pushed_at: "2026-09-26T19:47:38Z"
 ---
 ## What it is
 MCP server wrapping Monday.com GraphQL API to enable AI agents to interact with Monday.com boards, items, and workspaces through natural language or tool calls.

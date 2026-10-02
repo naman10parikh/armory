@@ -8,13 +8,13 @@ source_url: https://github.com/Dwolla/dwolla-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-01T08:50:22Z"
+pushed_at: "2026-10-01T08:32:23Z"
 ---
 ## What it is
 Enables AI agents to retrieve and analyze Dwolla payment platform data using natural language, with read-only access to accounts, transfers, customers, and compliance information.

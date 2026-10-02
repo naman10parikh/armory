@@ -8,12 +8,12 @@ source_url: https://github.com/jkoelker/schwab-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 19
-pushed_at: "2026-08-26T14:44:00Z"
+pushed_at: "2026-10-02T12:44:43Z"
 ---
 ## What it is
 MCP server `Schwab`, catalogued on PulseMCP. Bridges Claude with Schwab API for accessing financial account information, stock quotes, and transaction history through OAuth authentication and nine specialized tools for retrieving financial data.

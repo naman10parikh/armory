@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T00:22:03Z"
+pushed_at: "2026-10-02T06:06:43Z"
 ---
 ## What it is
 A provider-neutral MCP human approval gateway that requires explicit confirmation before executing write operations, supporting adapters like Fastmail and WhatsApp.

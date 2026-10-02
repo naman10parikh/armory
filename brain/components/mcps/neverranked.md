@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T16:28:30Z"
+pushed_at: "2026-10-02T02:52:31Z"
 ---
 ## What it is
 MCP server `NeverRanked`, catalogued on PulseMCP. AEO scoring, llms.txt auditing, and agent-readiness checks for websites.

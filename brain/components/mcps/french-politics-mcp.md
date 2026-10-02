@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T03:13:45Z"
+pushed_at: "2026-09-28T03:10:22Z"
 ---
 ## What it is
 Provides access to official 2022 French presidential election programs for five parties, retrieving exact passages with full references and without synthesis.

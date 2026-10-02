@@ -8,13 +8,13 @@ source_url: https://github.com/Andrianagnostic63/markapatent-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-31T02:14:54Z"
+forks: 1
+pushed_at: "2026-10-02T11:54:06Z"
 ---
 ## What it is
 Enables searching Turkish patent, trademark, and industrial design data via the TÜRKPATENT database using the MCP protocol.

@@ -8,13 +8,13 @@ source_url: https://github.com/Aas-ee/open-webSearch
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1774
+stars: 1836
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
-forks: 186
-pushed_at: "2026-08-28T04:49:22Z"
+forks: 185
+pushed_at: "2026-09-30T04:08:42Z"
 ---
 ## What it is
 Web search using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, Github, Juejin, and CSDN.

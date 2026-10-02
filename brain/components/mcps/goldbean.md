@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 8
 pushed_at: "2026-07-30T11:33:06Z"
 ---
 ## What it is

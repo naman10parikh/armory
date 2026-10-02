@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-05T07:57:54Z"
+pushed_at: "2026-09-29T13:21:31Z"
 ---
 ## What it is
 Cloudflare DNS MCP server. Manage zones, DNS records, cache, and page rules from Claude, Cursor, Codex, or any MCP-compatible AI assistant.

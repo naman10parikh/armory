@@ -8,12 +8,12 @@ source_url: https://github.com/Wuesteon/lean-memory
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 47
+stars: 42
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 44
+forks: 40
 pushed_at: "2026-08-07T01:03:35Z"
 ---
 ## What it is

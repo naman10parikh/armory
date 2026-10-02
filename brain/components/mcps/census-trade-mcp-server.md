@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T01:15:23Z"
+pushed_at: "2026-09-03T07:31:48Z"
 ---
 ## What it is
 An MCP server for the U.S. Census Bureau's International Trade Data API, enabling queries of monthly export and import statistics by HS, NAICS, end-use, and other classifications, with tools for trade balance, top partners, and country code lookup.

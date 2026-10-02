@@ -8,13 +8,13 @@ source_url: https://github.com/Extelligence-ai/bagel
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 396
+stars: 397
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 30
-pushed_at: "2026-09-02T02:48:44Z"
+pushed_at: "2026-10-01T17:06:30Z"
 ---
 ## What it is
 MCP server for chatting with physical-world data from robotics, drones, automotive, and IoT sources using natural language. It generates auditable SQL queries over Apache Arrow/DuckDB to let you analyze, summarize, and build data pipelines.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T20:50:10Z"
+pushed_at: "2026-09-02T21:32:09Z"
 ---
 ## What it is
 Turns likes, bookmarks, and saved links into persistent project-aware memory, enabling AI agents to search, import, and process personal content through a local SQLite-backed MCP server.

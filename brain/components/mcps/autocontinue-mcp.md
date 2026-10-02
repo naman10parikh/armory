@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T09:52:49Z"
+pushed_at: "2026-10-01T14:39:11Z"
 ---
 ## What it is
 MCP server that automatically clicks 'Continue' buttons on AI web pages using OCR and pyautogui, enabling uninterrupted generation.

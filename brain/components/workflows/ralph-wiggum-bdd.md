@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, workflows-knowledge-guides]
-stars: 8
+stars: 9
 forks: 0
-pushed_at: "2026-06-10T13:06:54Z"
+pushed_at: "2026-09-24T15:24:24Z"
 ---
 ## What it is
 A standalone Bash script for Behavior-Driven Development with Ralph Wiggum Loop. In principle, while running unattended, the script can keep code and requirements in sync, but in practice it still requires interactive human supervision, so it supports both modes. The script is standalone and can be modified and committed into your project.

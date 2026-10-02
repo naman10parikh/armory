@@ -8,11 +8,11 @@ source_url: https://github.com/mythos-agent/mythos-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
+forks: 13
 pushed_at: "2026-05-23T09:18:11Z"
 ---
 ## What it is

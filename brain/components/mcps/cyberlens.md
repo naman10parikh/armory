@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-03-29T20:02:47Z"
+pushed_at: "2026-09-20T14:11:02Z"
 ---
 ## What it is
 MCP server `CyberLens`, catalogued on PulseMCP. Security scanning for websites, public repositories, and Open CLAW skills.

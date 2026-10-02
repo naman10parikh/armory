@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T14:03:06Z"
+pushed_at: "2026-09-27T14:03:03Z"
 ---
 ## What it is
 Given a company domain, finds specified page types (like pricing or careers) on the company's own website and returns the URL, discovery method, and confidence score, optionally extracting structured data from the page.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T03:52:01Z"
+pushed_at: "2026-09-21T07:45:48Z"
 ---
 ## What it is
 Integrates ODPT and JMA APIs to provide comprehensive transit information, route search, weather, and AI advice for the Tokyo metropolitan area.

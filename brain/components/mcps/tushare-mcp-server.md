@@ -8,13 +8,13 @@ source_url: https://github.com/erwanjun/tushare-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-12T07:30:13Z"
+pushed_at: "2026-09-11T11:59:48Z"
 ---
 ## What it is
 Provides AI assistants with access to Chinese financial market data via the Tushare Pro API, covering stocks, indices, funds, futures, options, bonds, forex, and macroeconomic indicators.

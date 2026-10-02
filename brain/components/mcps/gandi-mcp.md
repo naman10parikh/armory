@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T22:29:37Z"
+pushed_at: "2026-10-02T05:33:41Z"
 ---
 ## What it is
 Production-grade MCP server for the Gandi v5 API, enabling domain, DNS, email, billing, organization, and certificate management through natural language with a three-tier safety model.

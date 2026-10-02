@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:40:24Z"
+pushed_at: "2026-09-26T21:35:36Z"
 ---
 ## What it is
 Provides real-time SEPTA transit data via the keyless SEPTA API, enabling users to query schedules, routes, and arrivals for Philadelphia's public transit system.

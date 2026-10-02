@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T05:56:47Z"
+pushed_at: "2026-10-01T09:16:30Z"
 ---
 ## What it is
 Enables local Power BI project (.pbip) automation, including model (TMDL) and report (PBIR) layer manipulation, without cloud dependencies. Provides 56 tools for building, editing, and validating reports and measures through natural language prompts.

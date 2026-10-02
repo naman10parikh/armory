@@ -8,13 +8,13 @@ source_url: https://github.com/KazKozDev/footnote-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T03:33:20Z"
+pushed_at: "2026-09-07T05:21:30Z"
 ---
 ## What it is
 An MCP server for source-grounded web research that verifies claims against their sources, with 42 tools for search, extraction, and verification.

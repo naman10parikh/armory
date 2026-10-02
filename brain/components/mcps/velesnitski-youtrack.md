@@ -8,12 +8,12 @@ source_url: https://github.com/velesnitski/yt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-09-01T08:30:36Z"
+forks: 4
+pushed_at: "2026-10-02T07:31:49Z"
 ---
 ## What it is
 MCP server `YouTrack`, catalogued on PulseMCP. Provides comprehensive access to YouTrack for issue tracking, agile boards, time tracking, and knowledge base management.

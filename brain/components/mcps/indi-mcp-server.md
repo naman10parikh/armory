@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T09:49:57Z"
+pushed_at: "2026-09-04T14:40:08Z"
 ---
 ## What it is
 Controls astrophotography equipment via INDI, manages the INDI server, and handles frame storage and transfer over a local network.

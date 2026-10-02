@@ -8,13 +8,13 @@ source_url: https://github.com/maxgfr/codeindex
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T08:55:12Z"
+pushed_at: "2026-10-01T10:30:58Z"
 ---
 ## What it is
 Serves a repo-indexing engine over stdio with tools for scanning, graph analysis, symbol extraction, caller lookup, and grep.

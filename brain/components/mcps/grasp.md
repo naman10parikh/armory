@@ -8,12 +8,12 @@ source_url: https://github.com/aircodelabs/grasp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, browser-automation]
-forks: 1
+forks: 2
 pushed_at: "2025-06-20T12:57:49Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/keesan12/martin-loop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 409
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-09-02T01:16:28Z"
+forks: 68
+pushed_at: "2026-10-02T02:36:39Z"
 ---
 ## What it is
 MCP server `Martin Loop`, catalogued on PulseMCP. Governed MCP server with tool lifecycle management and permission controls for AI coding agents.

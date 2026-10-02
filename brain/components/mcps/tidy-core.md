@@ -8,13 +8,13 @@ source_url: https://github.com/rominak/tidy-core
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T11:55:05Z"
+pushed_at: "2026-09-03T19:40:37Z"
 ---
 ## What it is
 Enables design system governance over MCP, with tools to track component adoption, detect drift, assess change impact, and enforce recorded decisions.

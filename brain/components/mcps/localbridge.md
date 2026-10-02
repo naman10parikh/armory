@@ -8,13 +8,13 @@ source_url: https://github.com/zephyr7030/LocalBridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T13:59:41Z"
+pushed_at: "2026-09-10T11:16:19Z"
 ---
 ## What it is
 Windows 11 local MCP bridge enabling authorized access to development workspaces, command execution, and UAC-gated admin operations for ChatGPT-like clients.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, communication]
 stars: 2
 forks: 0
-pushed_at: "2026-07-05T06:01:47Z"
+pushed_at: "2026-09-03T17:24:38Z"
 ---
 ## What it is
 Send SMS, query delivery reports, manage senders / blacklists, register and check İYS (Turkish messaging consent registry) records through the [iletiMerkezi](https://www.iletimerkezi.com) BTK-licensed SMS API. 11 tools, runtime-fetched manifest stays in lock-step with the live API. Install: `npx -y @iletimerkezi/mcp-server`.

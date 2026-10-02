@@ -8,11 +8,11 @@ source_url: https://github.com/glifxyz/glif-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 204
+stars: 211
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 29
+forks: 31
 pushed_at: "2026-07-30T23:47:28Z"
 ---
 ## What it is

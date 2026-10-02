@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T10:04:33Z"
+pushed_at: "2026-10-01T10:03:00Z"
 ---
 ## What it is
 Enables AI agents to plan trips by searching flights, accommodations, and activities, and managing itineraries collaboratively with role-based permissions.

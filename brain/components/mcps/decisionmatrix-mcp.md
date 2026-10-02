@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T09:36:33Z"
+pushed_at: "2026-09-26T12:22:58Z"
 ---
 ## What it is
 Provides a transparent, deterministic multi-criteria decision analysis engine that ranks options against weighted criteria with exact, explainable results.

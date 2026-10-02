@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-24T18:11:22Z"
+forks: 1
+pushed_at: "2026-09-23T08:40:19Z"
 ---
 ## What it is
 Enables AI assistants to search LinkedIn Sales Navigator contacts and accounts by driving a real logged-in browser and capturing Sales Navigator's own search API responses.

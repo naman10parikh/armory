@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T15:52:44Z"
+pushed_at: "2026-09-29T07:21:40Z"
 ---
 ## What it is
 MCP server exposing a "run" tool that checks a live site's SEO and generative-engine optimization: 21 technical checks returned as structured JSON.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:51:22Z"
+pushed_at: "2026-09-26T22:29:11Z"
 ---
 ## What it is
 MCP server `Zippopotam`, catalogued on PulseMCP. ZIP and postal code lookup via the Zippopotam.us API — returns city, state, country, and coordinates for any postal code.

@@ -8,13 +8,13 @@ source_url: https://github.com/Silbercue/public-browser
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T09:24:40Z"
+pushed_at: "2026-09-24T21:22:19Z"
 ---
 ## What it is
 A token-efficient MCP server for Chrome browser automation that uses direct CDP and accessibility-tree-based references for stable element selection across DOM changes.

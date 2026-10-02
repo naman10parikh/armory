@@ -8,11 +8,11 @@ source_url: https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 79
+stars: 81
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 18
 pushed_at: "2026-02-03T23:54:27Z"
 ---
 ## What it is

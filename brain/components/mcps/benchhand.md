@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T02:12:51Z"
+pushed_at: "2026-09-07T02:12:07Z"
 ---
 ## What it is
 A durable, cross-platform development MCP server providing managed Git worktrees, bounded file operations, atomic writes, deterministic patches, and durable operation state. It gives MCP clients a reliable development control plane that survives restarts and enforces precise mutation contracts.

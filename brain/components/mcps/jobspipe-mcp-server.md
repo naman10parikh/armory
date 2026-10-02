@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-07-31T00:49:44Z"
+forks: 1
+pushed_at: "2026-09-29T03:53:52Z"
 ---
 ## What it is
 Enables searching live, normalized job postings from 30+ ATS feeds and job boards, with tools for job search, source listing, pricing plans, and Upwork jobs.

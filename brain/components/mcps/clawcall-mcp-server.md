@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-25T06:11:15Z"
+pushed_at: "2026-09-28T00:53:13Z"
 ---
 ## What it is
 Enables AI agents to make real outbound phone calls to US/Canada numbers, handle conversations, and return transcripts and recordings via the Model Context Protocol.

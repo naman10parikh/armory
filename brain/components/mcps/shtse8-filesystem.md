@@ -12,8 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
-pushed_at: "2026-07-31T21:38:59Z"
+forks: 9
+pushed_at: "2026-09-10T08:17:55Z"
 ---
 ## What it is
 MCP server `Filesystem`, catalogued on PulseMCP. Provides secure, controlled filesystem operations within a project's root directory, enabling safe file listing, reading, writing, and searching with robust path validation.

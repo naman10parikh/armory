@@ -8,11 +8,11 @@ source_url: https://github.com/runreal/unreal-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 115
+stars: 116
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 28
 pushed_at: "2025-06-06T16:14:10Z"
 ---
 ## What it is

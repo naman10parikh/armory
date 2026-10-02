@@ -8,14 +8,14 @@ source_url: https://github.com/mastra-ai/mastra
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 28344
+stars: 28502
 eval_score: null
 mentions: 5
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2861
-pushed_at: "2026-09-26T16:53:52Z"
+forks: 2909
+pushed_at: "2026-10-02T13:36:54Z"
 ---
 ## What it is
 Mastra is the modern TypeScript framework for AI-powered applications and agents.

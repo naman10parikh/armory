@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T10:11:19Z"
+pushed_at: "2026-09-18T04:03:34Z"
 ---
 ## What it is
 Fallout 4 crash log diagnosis tool for MCP clients. Analyzes crash logs, load order, and game environment to explain crashes and suggest fixes.

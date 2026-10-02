@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-26T14:57:26Z"
+pushed_at: "2026-09-28T08:29:43Z"
 ---
 ## What it is
 Enables AI agents to generate fake user profiles and companies using the Random Profiles API with automatic API key handling.

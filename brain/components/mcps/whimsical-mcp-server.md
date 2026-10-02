@@ -8,13 +8,13 @@ source_url: https://github.com/WhimsicalCode/mcp-server-guide
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-05-20T09:40:50Z"
+forks: 1
+pushed_at: "2026-09-09T11:10:25Z"
 ---
 ## What it is
 Enables AI agents to create and edit Whimsical diagrams and documents, including flowcharts, mind maps, sequence diagrams, and wireframes, and to search and read workspace content.

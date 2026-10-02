@@ -8,12 +8,12 @@ source_url: https://github.com/aimbitgmbh/vikunja-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-01-08T18:48:42Z"
+forks: 6
+pushed_at: "2026-09-30T11:34:35Z"
 ---
 ## What it is
 MCP server `Vikunja`, catalogued on PulseMCP. Integrates with Vikunja self-hosted task management to enable project and task operations including kanban boards, labels, comments, assignees, and bulk operations with safety controls for destructive actions.

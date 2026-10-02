@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T05:48:12Z"
+pushed_at: "2026-09-14T00:27:28Z"
 ---
 ## What it is
 Local stdio MCP server for Hyperstar headless workflows, providing tools for creator search, campaign management, bulk email, and inbox operations.

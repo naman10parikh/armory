@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-08-19T05:44:52Z"
+forks: 4
+pushed_at: "2026-09-15T22:15:46Z"
 ---
 ## What it is
 An MCP memory server that gives AI tools persistent memory across sessions, tools, and machines. It supports 11 AI coding tools, with features like sync, migrate, and consolidate.

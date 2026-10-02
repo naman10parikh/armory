@@ -8,12 +8,12 @@ source_url: https://github.com/snowbikemike/tascan-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:38:22Z"
+pushed_at: "2026-09-22T23:45:56Z"
 ---
 ## What it is
 MCP server `TaScan`, catalogued on PulseMCP. Universal task protocol for managing projects, tasks, workers, QR codes, and reports.

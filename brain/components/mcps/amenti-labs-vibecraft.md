@@ -8,11 +8,11 @@ source_url: https://github.com/amenti-labs/vibecraft
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 99
+stars: 100
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 9
 pushed_at: "2026-01-18T23:09:59Z"
 ---
 ## What it is

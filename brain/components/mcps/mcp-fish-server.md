@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T18:34:17Z"
+pushed_at: "2026-09-30T06:24:10Z"
 ---
 ## What it is
 Enables text-to-speech generation via Fish Audio models, including voice library browsing and task management.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T21:11:19Z"
+pushed_at: "2026-09-29T07:22:50Z"
 ---
 ## What it is
 Brings a real human expert into Codex or OpenCode by creating a hiveLLM room for message exchange, without using user's API quota or credentials.

@@ -8,12 +8,12 @@ source_url: https://github.com/cyanheads/openlibrary-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-25T02:36:10Z"
+pushed_at: "2026-09-24T22:07:56Z"
 ---
 ## What it is
 MCP server `Open Library`, catalogued on PulseMCP. Search books and authors, fetch editions, browse subjects, and resolve cover images from Open Library.

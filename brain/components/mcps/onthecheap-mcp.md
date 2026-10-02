@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T23:30:02Z"
+pushed_at: "2026-09-27T05:53:39Z"
 ---
 ## What it is
 MCP server for the On the Cheap network — local guides to free and cheap things to do across 14 US cities. Provides daily event listings with times, prices and venues, plus a searchable archive of deals and guides.

@@ -8,13 +8,13 @@ source_url: https://github.com/Sarks0/binary-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-01T21:08:35Z"
+forks: 1
+pushed_at: "2026-09-30T23:35:35Z"
 ---
 ## What it is
 Enables AI assistants to analyze binaries, debug processes, and inspect kernel state using Ghidra, x64dbg, WinDbg, and ILSpyCmd.

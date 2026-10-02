@@ -8,11 +8,11 @@ source_url: https://github.com/mcp-servers-for-revit/revit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 454
+stars: 468
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 147
+forks: 148
 pushed_at: "2026-02-25T21:11:11Z"
 ---
 ## What it is

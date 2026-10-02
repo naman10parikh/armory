@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T17:58:40Z"
+pushed_at: "2026-09-05T06:27:19Z"
 ---
 ## What it is
 An MCP server that automates the SSAP2010 slope stability analysis program, allowing AI assistants to create models, select calculation methods, run verifications, and read the factor of safety results.

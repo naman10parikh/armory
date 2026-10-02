@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-04-16T03:07:25Z"
+pushed_at: "2026-09-07T22:44:00Z"
 ---
 ## What it is
 MCP server `GuildBridge`, catalogued on PulseMCP. Remotely hosted Discord integration deployed on Cloudflare Workers providing authenticated access to Discord servers.

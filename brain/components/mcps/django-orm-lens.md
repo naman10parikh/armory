@@ -8,13 +8,13 @@ source_url: https://github.com/FROWNINGdev/django-orm-lens
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 73
+stars: 84
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
-pushed_at: "2026-08-31T08:13:49Z"
+forks: 13
+pushed_at: "2026-09-28T08:11:43Z"
 ---
 ## What it is
 Static-analysis MCP server for Django models. 5 read-only tools for AI coding agents.

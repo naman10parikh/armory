@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T06:00:32Z"
+pushed_at: "2026-10-01T06:00:01Z"
 ---
 ## What it is
 An MCP server that lets AI agents search and read documentation built with Verso, Lean's documentation authoring tool, by providing tools like search and fetch_page over configured documentation sites.

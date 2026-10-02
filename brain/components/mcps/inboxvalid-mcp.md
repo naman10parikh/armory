@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T06:23:01Z"
+pushed_at: "2026-09-30T17:44:15Z"
 ---
 ## What it is
 An MCP server that exposes a verify_email tool for checking email syntax, disposable domains, and MX records, returning a structured validity result.

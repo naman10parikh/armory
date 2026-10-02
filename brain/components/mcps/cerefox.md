@@ -8,13 +8,13 @@ source_url: https://github.com/fstamatelopoulos/cerefox
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-02T03:33:00Z"
+pushed_at: "2026-10-02T08:22:09Z"
 ---
 ## What it is
 User-owned shared memory for AI agents, providing a persistent, curated knowledge layer with hybrid search and cross-agent coordination via Postgres + pgvector.

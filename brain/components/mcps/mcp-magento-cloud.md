@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T12:24:55Z"
+pushed_at: "2026-09-26T15:14:16Z"
 ---
 ## What it is
 Enables AI agents to interact with Adobe Commerce Cloud projects via REST API and SSH for database queries, log reading, environment management, and more, with no PHP CLI required.

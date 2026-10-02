@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-28T14:10:16Z"
+pushed_at: "2026-09-19T13:45:09Z"
 ---
 ## What it is
 MCP turns vibe coding into a game. Steam-style achievements for Claude Code, Hermes and more.

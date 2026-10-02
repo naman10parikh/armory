@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T08:36:29Z"
+pushed_at: "2026-09-17T13:42:45Z"
 ---
 ## What it is
 Integrates Telegram user account with MCP, exposing operations like reading and sending messages, managing chats, and more via stdio or SSE transport.

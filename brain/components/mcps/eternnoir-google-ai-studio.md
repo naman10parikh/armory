@@ -8,11 +8,11 @@ source_url: https://github.com/eternnoir/aistudio-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 6
 pushed_at: "2025-07-15T15:27:45Z"
 ---
 ## What it is

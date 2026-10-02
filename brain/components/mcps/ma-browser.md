@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T00:57:01Z"
+pushed_at: "2026-09-13T01:36:38Z"
 ---
 ## What it is
 MCP server that lets AI agents use your real browser as an API, accessing any website with your login state, no keys or scrapers needed.

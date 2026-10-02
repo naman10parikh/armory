@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T11:25:48Z"
+pushed_at: "2026-09-02T19:58:10Z"
 ---
 ## What it is
 Enables AI agents to monitor large on-chain whale transactions on Ethereum and Base, returning sender, receiver, value, and USD estimates for market-moving alerts via pay-per-call x402 micropayments.

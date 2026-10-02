@@ -8,13 +8,13 @@ source_url: https://github.com/sirsjg/flux
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 99
+stars: 102
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 21
-pushed_at: "2026-08-27T12:04:09Z"
+pushed_at: "2026-09-09T09:18:22Z"
 ---
 ## What it is
 Enables AI agents to create, update, list, and delete tasks on a Kanban board via the Model Context Protocol, supporting multi-project management and real-time collaboration.

@@ -8,12 +8,12 @@ source_url: https://github.com/scottcjn/rustchain-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 108
+stars: 118
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 45
-pushed_at: "2026-08-30T05:42:38Z"
+forks: 52
+pushed_at: "2026-09-28T03:54:10Z"
 ---
 ## What it is
 MCP server `RustChain + BoTTube`, catalogued on PulseMCP. Interacts with RustChain's Proof-of-Antiquity blockchain and BoTTube video platform for mining, video content, and agent-to-agent communication.

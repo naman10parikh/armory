@@ -8,12 +8,12 @@ source_url: https://github.com/fancyboi999/goofish-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 143
+stars: 298
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
-pushed_at: "2026-09-02T01:56:29Z"
+forks: 60
+pushed_at: "2026-09-17T01:35:42Z"
 ---
 ## What it is
 MCP server `Xianyu`, catalogued on PulseMCP. Automate Xianyu secondhand marketplace workflows including listing items, messaging, and order management.

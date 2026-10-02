@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T14:34:02Z"
+pushed_at: "2026-09-04T13:48:10Z"
 ---
 ## What it is
 MCP server for Kenya community finance — SACCO finder, chama formation, cooperative benefits, loan guides, member rights.

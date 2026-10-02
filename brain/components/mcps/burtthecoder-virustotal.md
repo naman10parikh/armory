@@ -12,8 +12,8 @@ stars: 149
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
-pushed_at: "2026-05-24T03:00:04Z"
+forks: 23
+pushed_at: "2026-09-08T18:22:44Z"
 ---
 ## What it is
 MCP server `VirusTotal`, catalogued on PulseMCP. This VirusTotal MCP server enables AI assistants to programmatically access VirusTotal's threat intelligence for security analysis and threat detection.

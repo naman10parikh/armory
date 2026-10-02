@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-24T13:44:53Z"
+pushed_at: "2026-10-02T06:04:04Z"
 ---
 ## What it is
 Enables interactive Python execution with a persistent IPython kernel through MCP, retaining namespace state and providing structured output logs for agent and tool integrations.

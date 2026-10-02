@@ -8,14 +8,14 @@ source_url: https://github.com/xlang-ai/OSWorld
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3117
+stars: 3170
 eval_score: null
 mentions: 7
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 530
-pushed_at: "2026-08-30T09:41:51Z"
+forks: 537
+pushed_at: "2026-09-14T16:08:47Z"
 ---
 ## What it is
 [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments

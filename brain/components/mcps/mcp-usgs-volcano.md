@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:32:53Z"
+pushed_at: "2026-09-26T22:11:20Z"
 ---
 ## What it is
 USGS Volcano MCP server providing access to volcano hazards data from the HANS-public feed without authentication.

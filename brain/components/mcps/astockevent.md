@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T07:38:31Z"
+pushed_at: "2026-09-26T13:44:22Z"
 ---
 ## What it is
 Structured A-share announcement event feed. 16 MCP tools, 13 event types.

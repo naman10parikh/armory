@@ -8,12 +8,12 @@ source_url: https://github.com/ie3jp/illustrator-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 94
+stars: 141
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
-pushed_at: "2026-08-11T00:45:40Z"
+forks: 18
+pushed_at: "2026-09-29T15:45:12Z"
 ---
 ## What it is
 MCP server `Adobe Illustrator (ie3jp)`, catalogued on PulseMCP. Read, manipulate, and export Adobe Illustrator design data on macOS via ExtendScript.

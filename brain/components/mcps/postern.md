@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-10T23:24:53Z"
+pushed_at: "2026-09-29T20:22:36Z"
 ---
 ## What it is
 MCP server for the Postern personal context gateway, enabling agents to read and act on data from finance, health, mail, calendar, contacts, and home sources through a unified, cached interface.

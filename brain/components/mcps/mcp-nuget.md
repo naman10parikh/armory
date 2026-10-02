@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:26:16Z"
+pushed_at: "2026-09-26T20:03:48Z"
 ---
 ## What it is
 MCP server for querying the NuGet package registry. Enables searching packages and retrieving metadata, versions, and dependencies.

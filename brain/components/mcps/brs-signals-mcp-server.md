@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T18:13:12Z"
+pushed_at: "2026-09-16T22:28:23Z"
 ---
 ## What it is
 Provides real-time Bitcoin market regime detection by fusing on-chain, derivatives, and absence sensors into a convergence score, enabling AI agents to make informed trading decisions.

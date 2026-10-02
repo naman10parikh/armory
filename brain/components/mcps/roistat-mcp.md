@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-01T16:39:45Z"
+pushed_at: "2026-09-05T14:03:07Z"
 ---
 ## What it is
 MCP server for the Roistat API, enabling marketing analytics, lead tracking, channel performance, cost data, and integrations.

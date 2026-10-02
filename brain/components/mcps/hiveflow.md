@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2025-06-25T04:05:42Z"
+pushed_at: "2026-09-26T18:52:59Z"
 ---
 ## What it is
 MCP server `HiveFlow`, catalogued on PulseMCP. Integrates with HiveFlow's workflow automation platform to enable triggering automated workflows, managing business processes, and executing workflow operations directly through conversational interactions.

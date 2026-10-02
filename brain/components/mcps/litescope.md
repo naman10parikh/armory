@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-14T02:10:52Z"
+pushed_at: "2026-09-26T07:02:11Z"
 ---
 ## What it is
 Operations toolchain for SQLite, Cloudflare D1, and Turso. Every command is available as both a CLI and an MCP tool: inspect, diff, migrate, monitor, back up, and repair databases. 22 stdio tools, read-only by default.

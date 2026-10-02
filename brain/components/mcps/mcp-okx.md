@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:27:12Z"
+pushed_at: "2026-09-26T20:07:41Z"
 ---
 ## What it is
 Provides tools to query OKX cryptocurrency exchange data including instruments, tickers, candles, funding rates, and mark prices via MCP.

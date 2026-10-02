@@ -8,13 +8,13 @@ source_url: https://github.com/aartiq/nowaikit
 license: Unlicense - libtelnet variant
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-08-20T11:12:56Z"
+forks: 10
+pushed_at: "2026-09-23T08:27:30Z"
 ---
 ## What it is
 Enables AI to interact with ServiceNow instances via MCP, providing 400+ tools across all modules for automation, development, and management.

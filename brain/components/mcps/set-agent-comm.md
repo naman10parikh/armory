@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T10:18:26Z"
+pushed_at: "2026-09-23T11:53:27Z"
 ---
 ## What it is
 Enables local agent-to-agent messaging between Claude Code sessions via file-based channels, with a registry, MCP tools and CLI for sending, reading, and tracking messages.

@@ -8,13 +8,13 @@ source_url: https://github.com/nitrocloudofficial/nitrostack-python-sdk
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-08-27T07:12:25Z"
+forks: 7
+pushed_at: "2026-10-01T21:53:50Z"
 ---
 ## What it is
 A Python framework for building MCP servers with modular architecture, dependency injection, and built-in authentication. Enables creating scalable, testable MCP services with features like pipeline interceptors and background tasks.

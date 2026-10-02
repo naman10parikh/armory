@@ -8,13 +8,13 @@ source_url: https://github.com/b-open-io/bsv-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, financial-services]
-forks: 8
-pushed_at: "2026-07-30T19:29:27Z"
+forks: 9
+pushed_at: "2026-09-13T04:32:54Z"
 ---
 ## What it is
 An MCP Server for Bitcoin SV

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-27T08:48:12Z"
+pushed_at: "2026-10-01T20:27:06Z"
 ---
 ## What it is
 Enables deterministic verification for AI assistants by executing Python code that uses symbolic engines like SymPy and Z3 for math, logic, and code analysis.

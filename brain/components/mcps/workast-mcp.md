@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T00:38:12Z"
+pushed_at: "2026-09-28T05:50:25Z"
 ---
 ## What it is
 MCP host for Workast that exposes tools like task creation and health check over Streamable HTTP, authenticated via a workspace API key.

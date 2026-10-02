@@ -8,13 +8,13 @@ source_url: https://github.com/lveillard/factorio-ai-companion
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-01-17T18:11:55Z"
+forks: 7
+pushed_at: "2026-09-13T02:53:40Z"
 ---
 ## What it is
 Bidirectional chat bridge between Factorio and Claude Code via MCP protocol, enabling players to send /companion commands and receive AI responses.

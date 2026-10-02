@@ -8,12 +8,12 @@ source_url: https://github.com/nutanix/ntnx-api-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 7
 pushed_at: "2026-08-10T05:00:16Z"
 ---
 ## What it is

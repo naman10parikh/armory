@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:44:56Z"
+pushed_at: "2026-09-25T22:14:35Z"
 ---
 ## What it is
 Provides random activity suggestions to cure boredom, with filtering by type and number of participants.

@@ -8,11 +8,11 @@ source_url: https://github.com/yuna0x0/anilist-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 85
+stars: 89
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 19
 pushed_at: "2026-07-13T10:44:23Z"
 ---
 ## What it is

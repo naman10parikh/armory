@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:37:58Z"
+pushed_at: "2026-09-25T21:48:54Z"
 ---
 ## What it is
 Enables searching and querying Kansas State GIS open geospatial data (parcels, zoning, transport, statewide layers) via ArcGIS Feature/Map Services.

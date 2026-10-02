@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T12:31:17Z"
+pushed_at: "2026-09-13T06:28:18Z"
 ---
 ## What it is
 Provides read-only PostgreSQL search and diagnostics over Model Context Protocol, using PGroonga indexes for full-text search, normalization, and variant lookup.

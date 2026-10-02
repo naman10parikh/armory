@@ -8,13 +8,13 @@ source_url: https://github.com/RudrenduPaul/memtrust
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T15:45:04Z"
+pushed_at: "2026-09-25T04:35:49Z"
 ---
 ## What it is
 MCP server exposing a "run" tool that benchmarks agent-memory backends and returns a reproducible JSON report.

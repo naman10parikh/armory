@@ -8,11 +8,11 @@ source_url: https://github.com/ayeletstudioindia/unreal-analyzer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 158
+stars: 159
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 32
+forks: 33
 pushed_at: "2025-08-06T17:32:55Z"
 ---
 ## What it is

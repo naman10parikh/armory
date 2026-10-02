@@ -8,11 +8,11 @@ source_url: https://github.com/severity1/nz-akahu-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 3
 pushed_at: "2026-07-24T23:23:11Z"
 ---
 ## What it is

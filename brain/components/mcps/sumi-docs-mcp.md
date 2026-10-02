@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T08:24:07Z"
+pushed_at: "2026-09-09T10:43:53Z"
 ---
 ## What it is
 Read-only MCP server for Markdown, MDX, and OpenAPI docs, exposing list, search, fetch, and OpenAPI spec tools over stdio.

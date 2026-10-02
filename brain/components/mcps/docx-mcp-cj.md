@@ -8,7 +8,7 @@ source_url: https://github.com/rockcj/Docx_MCP_cj
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 69
+stars: 71
 eval_score: null
 verified_at: 2026-05-27
 related: []

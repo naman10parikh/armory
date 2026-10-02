@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:38:08Z"
+pushed_at: "2026-09-25T21:49:25Z"
 ---
 ## What it is
 Enables AI agents to search and query Los Angeles County open geospatial datasets (parcels, parks, etc.) via ArcGIS Feature Services.

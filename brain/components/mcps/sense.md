@@ -8,12 +8,12 @@ source_url: https://github.com/luuuc/sense
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-09-01T17:08:40Z"
+forks: 5
+pushed_at: "2026-10-01T18:41:17Z"
 ---
 ## What it is
 MCP server `Sense`, catalogued on PulseMCP. Codebase intelligence for AI coding agents: symbol graph, blast-radius analysis, and semantic search across large repositories.

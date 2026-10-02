@@ -8,13 +8,13 @@ source_url: https://github.com/djwmarcx/better-mealie-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-02T00:05:35Z"
+forks: 1
+pushed_at: "2026-09-28T06:35:48Z"
 ---
 ## What it is
 Provides complete access to Mealie's API for managing recipes, meal plans, shopping lists, households, and more via natural language from AI assistants.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-24T22:15:43Z"
+pushed_at: "2026-09-25T16:48:30Z"
 ---
 ## What it is
 Enables CLI coding agents to interact with your live browser tabs via MCP, using your real sessions and cookies without a sandbox.

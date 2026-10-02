@@ -8,11 +8,11 @@ source_url: https://github.com/allaboutai-yt/gpt5mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 83
+stars: 80
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 26
+forks: 24
 pushed_at: "2025-08-09T14:20:53Z"
 ---
 ## What it is

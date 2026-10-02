@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-19T01:39:04Z"
+pushed_at: "2026-10-02T01:56:55Z"
 ---
 ## What it is
 MCP server `QuantOracle`, catalogued on PulseMCP. Calculate options pricing, derivatives metrics, and risk management analytics.

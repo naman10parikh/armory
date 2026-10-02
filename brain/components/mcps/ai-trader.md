@@ -8,13 +8,13 @@ source_url: https://github.com/whchien/ai-trader
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1063
+stars: 1113
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: null
-forks: 146
+forks: 147
 pushed_at: "2026-03-28T11:16:18Z"
 ---
 ## What it is

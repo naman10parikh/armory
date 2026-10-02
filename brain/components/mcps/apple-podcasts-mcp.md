@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T21:18:49Z"
+pushed_at: "2026-09-24T08:08:34Z"
 ---
 ## What it is
 Owner-side Apple Podcasts analytics over the Podcasts Connect Reporter protocol: plays, unique and engaged listeners, followers, and per-episode listening for a show you own. Not the public iTunes catalog — this is the data Apple's hosting API does not expose.

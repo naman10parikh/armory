@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T09:26:24Z"
+pushed_at: "2026-09-29T07:24:43Z"
 ---
 ## What it is
 Batch-first MCP server for product search, product detail, and anonymous shipping quotes across public storefronts and marketplaces, exposing search, product, quote, and images commands with compact JSON output for AI agents.

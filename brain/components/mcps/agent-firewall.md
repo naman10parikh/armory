@@ -8,13 +8,13 @@ source_url: https://github.com/mlawsonking/MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T09:29:28Z"
+pushed_at: "2026-10-02T10:35:12Z"
 ---
 ## What it is
 Input/output safety gate for AI agents: detect prompt-injection/jailbreak, leaked secrets/PII, and URL/IP reputation. Deterministic, no LLM.

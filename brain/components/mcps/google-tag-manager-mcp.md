@@ -8,13 +8,13 @@ source_url: https://github.com/A1-x-Tech/mcp-google-tagmanager
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T13:36:11Z"
+pushed_at: "2026-09-20T22:36:26Z"
 ---
 ## What it is
 MCP server for the Google Tag Manager API v2, enabling natural-language management of containers, workspaces, tags, triggers, variables, and publishing. It handles OAuth authentication and built-in rate limiting for the strict GTM API quota.

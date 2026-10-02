@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T02:08:50Z"
+pushed_at: "2026-10-02T05:33:42Z"
 ---
 ## What it is
 Expense management and Gmail receipt capture for AI assistants and automation platforms.

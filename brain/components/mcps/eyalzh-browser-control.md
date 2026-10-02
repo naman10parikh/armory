@@ -8,11 +8,11 @@ source_url: https://github.com/eyalzh/browser-control-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 320
+stars: 327
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 75
+forks: 78
 pushed_at: "2026-08-23T18:44:48Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T02:42:02Z"
+pushed_at: "2026-09-04T03:02:06Z"
 ---
 ## What it is
 Enables management of Dynu services (DNS, email, compute, domain, monitor, ping) via 117 MCP tools that wrap the full Dynu REST API v2, requiring an API key per request.

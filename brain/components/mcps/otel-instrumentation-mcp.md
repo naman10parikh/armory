@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-09-02T01:11:00Z"
+pushed_at: "2026-10-02T02:12:35Z"
 ---
 ## What it is
 Bridges AI coding assistants with the OpenTelemetry ecosystem, providing real-time access to repositories, documentation, examples, semantic conventions, and instrumentation scoring for high-quality observability.

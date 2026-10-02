@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-04-06T17:40:29Z"
+pushed_at: "2026-09-22T03:28:47Z"
 ---
 ## What it is
 MCP server `OpenFDA`, catalogued on PulseMCP. Integrates with the FDA's OpenFDA API to provide access to drug information, safety data, adverse event reports, and manufacturer details through eight specialized search and retrieval tools with robust error handling and NDC format validation.

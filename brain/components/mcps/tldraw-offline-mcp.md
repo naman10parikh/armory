@@ -8,13 +8,13 @@ source_url: https://github.com/er1chi/tldraw-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-23T15:54:48Z"
+pushed_at: "2026-09-26T17:58:27Z"
 ---
 ## What it is
 Enables remote agents to control tldraw Desktop's Canvas API, manage documents, scripts, assets, and take screenshots.

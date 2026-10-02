@@ -8,13 +8,13 @@ source_url: https://github.com/jurimaxam-dotcom/chemdraw-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-15T12:31:50Z"
+pushed_at: "2026-10-02T10:54:26Z"
 ---
 ## What it is
 Enables generation of chemical structures, reactions, spectra, titration curves, 3D models, and more from natural language or SMILES, using RDKit for offline rendering and supporting formats like PNG, SVG, CDXML, and Anki decks.

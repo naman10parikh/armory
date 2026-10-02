@@ -8,7 +8,7 @@ source_url: https://github.com/taida957789/ida-mcp-server-plugin
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 188
+stars: 189
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

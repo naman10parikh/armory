@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T04:22:46Z"
+pushed_at: "2026-09-05T04:22:43Z"
 ---
 ## What it is
 An MCP server that lets AI agents discover Ansible Galaxy collection input/output contracts, including module arguments, return values, and role facts, to help generate accurate playbooks.

@@ -8,12 +8,12 @@ source_url: https://github.com/dklymentiev/screenbox
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 7
 pushed_at: "2026-08-30T21:23:53Z"
 ---
 ## What it is

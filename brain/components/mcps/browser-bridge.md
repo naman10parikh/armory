@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T20:05:59Z"
+pushed_at: "2026-09-17T22:40:22Z"
 ---
 ## What it is
 Bridges opencode into Firefox, letting you read pages, run JavaScript, and audit for security flaws from the terminal.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T05:24:36Z"
+pushed_at: "2026-10-01T10:07:06Z"
 ---
 ## What it is
 Consolidated MCP server exposing 161 tools across 9 groups to manage a layered data platform (financial, economic, statistical) backed by a single SQLite file, with data fetching delegated to an upstream semantic fetcher.

@@ -8,12 +8,12 @@ source_url: https://github.com/akougkas/zulipchat-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
-pushed_at: "2026-08-09T14:25:28Z"
+forks: 16
+pushed_at: "2026-09-17T10:47:11Z"
 ---
 ## What it is
 MCP server `Zulip Chat`, catalogued on PulseMCP. Connect AI to Zulip with 60+ tools for messaging, streams, events, and analytics.

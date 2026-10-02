@@ -8,12 +8,12 @@ source_url: https://github.com/wegitor/guitar-pro-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2025-05-25T19:40:45Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T11:29:38Z"
+pushed_at: "2026-09-13T20:54:04Z"
 ---
 ## What it is
 Enables querying Keypup engineering analytics (delivery, quality, team workload) using natural language through MCP-compatible AI assistants.

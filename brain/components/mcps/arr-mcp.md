@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T08:39:35Z"
+pushed_at: "2026-09-27T08:28:23Z"
 ---
 ## What it is
 MCP server to manage your *ARR media stack (Radarr, Sonarr, Lidarr, Readarr, Prowlarr) for searching, adding, and managing movies, TV shows, music, books, and indexers.

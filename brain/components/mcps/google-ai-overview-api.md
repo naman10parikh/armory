@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T05:03:20Z"
+pushed_at: "2026-09-24T18:07:44Z"
 ---
 ## What it is
 Enables fetching Google's AI Overview answers and cited sources as structured JSON, with support for batch queries and country/language targeting.

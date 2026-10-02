@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T14:16:08Z"
+pushed_at: "2026-09-29T05:55:36Z"
 ---
 ## What it is
 Enables AI agents to interact with the Casper blockchain through MCP tools for reading node state, inspecting blocks, querying global state, and evaluating treasury policies. Includes a Treasury Guard reference agent that autonomously enforces DeFi treasury policies on Casper Testnet.

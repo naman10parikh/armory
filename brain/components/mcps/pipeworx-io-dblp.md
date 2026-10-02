@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T16:59:01Z"
+pushed_at: "2026-09-25T23:27:19Z"
 ---
 ## What it is
 MCP server `DBLP`, catalogued on PulseMCP. Search the DBLP computer science bibliography for authors, publications, and venues across major conferences and journals.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T12:43:32Z"
+pushed_at: "2026-09-27T12:42:31Z"
 ---
 ## What it is
 Turns Claude Code agents into pixel creatures with personalities that you can watch work in your files, and includes a top-down brawler game called Clawland.

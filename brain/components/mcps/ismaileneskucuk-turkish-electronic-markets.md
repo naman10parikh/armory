@@ -8,12 +8,12 @@ source_url: https://github.com/ismaileneskucuk/mcp-electronicmarkets-tr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-03-18T22:50:29Z"
+forks: 1
+pushed_at: "2026-09-10T16:32:09Z"
 ---
 ## What it is
 MCP server `Turkish Electronic Markets`, catalogued on PulseMCP. Searches Turkish electronic component marketplaces for real-time pricing, stock availability, and product comparisons across four stores.

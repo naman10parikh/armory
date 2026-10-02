@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T02:14:19Z"
+pushed_at: "2026-09-28T02:13:26Z"
 ---
 ## What it is
 Exposes Enji Guard access and compact report metadata to local tools via an MCP server.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:28:48Z"
+pushed_at: "2026-09-26T21:56:39Z"
 ---
 ## What it is
 Provides access to music metadata from TheAudioDB community database through MCP.

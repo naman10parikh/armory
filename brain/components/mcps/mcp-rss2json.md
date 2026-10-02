@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:59:33Z"
+pushed_at: "2026-09-26T21:21:56Z"
 ---
 ## What it is
 Converts RSS/Atom feeds to JSON via a single tool, enabling fetch of feed data as structured JSON through MCP.

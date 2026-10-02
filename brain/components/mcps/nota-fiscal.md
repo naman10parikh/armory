@@ -8,13 +8,13 @@ source_url: https://github.com/mcp-dir/notafiscal-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:38:45Z"
+pushed_at: "2026-09-03T17:33:04Z"
 ---
 ## What it is
 Emita e gerencie notas fiscais de serviço (NFS-e) conversando com o agente, hospedado pela plataforma, sem precisar de conta na nfe.io.

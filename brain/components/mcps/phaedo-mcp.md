@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-26T05:30:05Z"
+pushed_at: "2026-09-20T19:09:16Z"
 ---
 ## What it is
 Enables AI agents to consult a user's cognitive fingerprint, returning calibrated proceed/clarify/escalate/decline signals with policy-based guardrails and real-time phone escalation.

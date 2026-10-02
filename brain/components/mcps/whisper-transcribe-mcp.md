@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-23T22:17:43Z"
+pushed_at: "2026-10-01T15:20:39Z"
 ---
 ## What it is
 MCP server for audio transcription using local faster-whisper or OpenAI Whisper API, enabling multilingual transcription with optional GPT post-processing.

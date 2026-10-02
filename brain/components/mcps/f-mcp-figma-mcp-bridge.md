@@ -8,13 +8,13 @@ source_url: https://github.com/atezer/FMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-31T09:14:56Z"
+pushed_at: "2026-09-27T10:41:46Z"
 ---
 ## What it is
 Enables AI assistants to read, analyze, and modify Figma designs, manage design tokens, and create prototype connections, all while keeping data local.

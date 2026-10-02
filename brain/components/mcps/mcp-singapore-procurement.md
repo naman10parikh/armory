@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:41:27Z"
+pushed_at: "2026-09-26T21:38:33Z"
 ---
 ## What it is
 Enables querying Singapore government procurement tender awards from GeBIZ without API keys.

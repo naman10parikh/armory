@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T09:16:25Z"
+pushed_at: "2026-09-29T05:15:05Z"
 ---
 ## What it is
 A drop-in proxy that guards MCP servers with policy enforcement, secret redaction, prompt-injection screening, rug-pull detection, rate limiting, and audit logging.

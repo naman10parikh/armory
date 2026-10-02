@@ -8,13 +8,13 @@ source_url: https://github.com/lineofflight/frankfurter-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T09:35:04Z"
+pushed_at: "2026-09-23T08:21:14Z"
 ---
 ## What it is
 MCP server for the Frankfurter exchange-rate API, enabling currency conversion and rate queries.

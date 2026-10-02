@@ -8,13 +8,13 @@ source_url: https://github.com/Deesmo/Arch-AI-Tools
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T05:04:33Z"
+pushed_at: "2026-10-02T05:08:40Z"
 ---
 ## What it is
 Provides 63 production-ready API tools for AI agents, including web scraping, AI generation, crypto data, OCR, image generation, audio transcription, text-to-speech, email, and domain lookup.

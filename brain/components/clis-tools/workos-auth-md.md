@@ -8,7 +8,7 @@ source_url: https://github.com/workos/auth.md
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 613
+stars: 617
 eval_score: 1
 mentions: 2
 verified_at: 2026-09-26

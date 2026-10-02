@@ -8,13 +8,13 @@ source_url: https://github.com/loumalouomega/Kratos-MCP-Server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T07:14:37Z"
+pushed_at: "2026-10-01T15:44:08Z"
 ---
 ## What it is
 Enables AI assistants to drive Kratos Multiphysics finite element simulations end to end, including introspection, scaffolding, execution, and post-processing.

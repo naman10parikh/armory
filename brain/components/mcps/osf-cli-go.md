@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T10:58:43Z"
+pushed_at: "2026-09-27T08:10:33Z"
 ---
 ## What it is
 Read-only MCP tools for authenticated Open Science Framework projects, components, files, and contributors.

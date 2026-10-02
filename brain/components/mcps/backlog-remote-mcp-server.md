@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T12:42:53Z"
+pushed_at: "2026-09-09T14:49:33Z"
 ---
 ## What it is
 Enables AI assistants to manage Backlog projects, issues, wikis, and pull requests via natural language, with multi-space support and secure OAuth authentication.

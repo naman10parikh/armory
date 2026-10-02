@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-30T03:23:57Z"
+pushed_at: "2026-09-29T08:27:24Z"
 ---
 ## What it is
 MCP server `Talonic`, catalogued on PulseMCP. Extracts structured, schema-validated data from PDFs, scans, images, spreadsheets, and forms.

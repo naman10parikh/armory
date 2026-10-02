@@ -8,14 +8,14 @@ source_url: https://github.com/ClaudioDrews/memory-os
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1355
+stars: 1372
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 128
-pushed_at: "2026-06-10T10:40:43Z"
+forks: 129
+pushed_at: "2026-09-20T20:16:06Z"
 ---
 ## What it is
 Use when you want layered memory — structured facts, recall and an auto-curated wiki — running locally against any model.

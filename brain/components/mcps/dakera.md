@@ -12,8 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-08-17T03:09:04Z"
+forks: 1
+pushed_at: "2026-10-01T19:23:31Z"
 ---
 ## What it is
 MCP server `Dakera`, catalogued on PulseMCP. Decay-weighted vector memory for AI agents — 83 MCP tools for storing, recalling, searching, and building knowledge graphs with self-hosted Rust backend.

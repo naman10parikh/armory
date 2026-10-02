@@ -8,13 +8,13 @@ source_url: https://github.com/airas-org/airas
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 32
+stars: 35
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-31T10:26:43Z"
+pushed_at: "2026-10-01T12:32:28Z"
 ---
 ## What it is
 MCP server for AIRAS, an open-source research automation platform. It provides tools for paper search, retrieval, hypothesis generation, experiment execution, and paper writing, enabling automated or interactive research directly from MCP clients.

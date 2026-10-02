@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:59:13Z"
+pushed_at: "2026-09-26T21:18:25Z"
 ---
 ## What it is
 Enables searching remote jobs by free-text, category, and company, listing job categories, and retrieving company profiles from the Remotive job board.

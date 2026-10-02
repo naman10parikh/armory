@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 40
-forks: 4
-pushed_at: "2026-09-01T05:48:18Z"
+stars: 47
+forks: 6
+pushed_at: "2026-09-29T07:33:29Z"
 ---
 ## What it is
 Design system MCP server. 20 tools: extract design tokens from any URL, pull from Figma (REST or WebSocket) and Penpot, generate React + shadcn/ui components from specs, run WCAG audits, sync tokens bidirectionally.

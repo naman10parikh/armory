@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-23T12:04:47Z"
+pushed_at: "2026-09-06T08:40:56Z"
 ---
 ## What it is
 MCP server `CDEK`, catalogued on PulseMCP. Integrates with CDEK for tariff calculation, order management, and shipment tracking.

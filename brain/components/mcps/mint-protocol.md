@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T06:22:58Z"
+pushed_at: "2026-09-27T09:15:50Z"
 ---
 ## What it is
 Universal work attestation for autonomous agents. Register any AI agent or machine with persistent cryptographic identity, attest completed work with tamper-evident on-chain records, and query trust scores. The reputation layer for the agent economy. 3 MCP tools over SSE. Settled on Solana.

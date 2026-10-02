@@ -8,13 +8,13 @@ source_url: https://github.com/swami8791/smart-fhir-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T03:06:27Z"
+pushed_at: "2026-09-24T12:21:23Z"
 ---
 ## What it is
 Enables read-only SMART on FHIR R4 discovery, search, and read operations against public synthetic sandboxes, returning actual empty results and 404s rather than inventing patient data.

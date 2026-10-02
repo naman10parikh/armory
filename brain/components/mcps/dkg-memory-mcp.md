@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T11:43:27Z"
+pushed_at: "2026-09-07T20:34:59Z"
 ---
 ## What it is
 Exposes OriginTrail DKG V10 working, shared, and verifiable memory as standard MCP tools, enabling users to read, write, share, and query DKG memory from any MCP-capable client without custom HTTP wiring.

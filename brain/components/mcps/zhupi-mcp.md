@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T22:46:58Z"
+pushed_at: "2026-09-21T18:58:00Z"
 ---
 ## What it is
 Agent-side MCP server for the zhupi review loop, enabling AI agents to submit documents, read annotations, and reply via GitHub.

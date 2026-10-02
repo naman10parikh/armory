@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:57:23Z"
+pushed_at: "2026-09-25T23:22:49Z"
 ---
 ## What it is
 Toulouse Métropole Open Data MCP server. Enables searching datasets, retrieving metadata, and querying records using ODSQL.

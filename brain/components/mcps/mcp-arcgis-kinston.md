@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:38:04Z"
+pushed_at: "2026-09-25T21:49:16Z"
 ---
 ## What it is
 Provides access to City of Kinston, North Carolina's open geospatial data (ArcGIS) through tools for searching datasets, querying layers, and retrieving layer schemas.

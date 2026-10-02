@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T20:58:50Z"
+pushed_at: "2026-09-10T02:45:11Z"
 ---
 ## What it is
 Provides 12 MCP tools to directly interact with DEM MDM backend API, enabling Cursor or AI agents to manage MDM data.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-07-13T10:20:06Z"
+pushed_at: "2026-09-20T03:42:59Z"
 ---
 ## What it is
 MCP server enabling AI assistants to explore schema.org types, generate JSON-LD examples, validate structured data, and navigate the complete ontology with fuzzy matching and caching.

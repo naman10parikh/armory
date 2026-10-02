@@ -8,7 +8,7 @@ source_url: https://github.com/shiquda/roadmap-skill
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 77
+stars: 81
 eval_score: null
 verified_at: 2026-05-27
 related: []

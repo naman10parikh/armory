@@ -8,11 +8,11 @@ source_url: https://github.com/tanigami/mcp-server-perplexity
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 94
+stars: 95
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 39
+forks: 41
 pushed_at: "2024-12-25T07:06:10Z"
 ---
 ## What it is

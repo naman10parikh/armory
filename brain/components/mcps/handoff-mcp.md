@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-29T20:34:49Z"
+forks: 1
+pushed_at: "2026-10-02T11:29:31Z"
 ---
 ## What it is
 Provides persistent memory for AI coding agents across sessions by saving and loading session context like tasks, decisions, and blockers.

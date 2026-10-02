@@ -8,11 +8,11 @@ source_url: https://github.com/erickwendel/erickwendel-contributions-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 339
+stars: 367
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 26
+forks: 29
 pushed_at: "2026-01-08T00:41:38Z"
 ---
 ## What it is

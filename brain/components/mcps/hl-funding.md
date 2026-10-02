@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:33:17Z"
+pushed_at: "2026-09-02T19:56:11Z"
 ---
 ## What it is
 Enables AI agents to retrieve real-time and historical Hyperliquid funding rates across 229 perp markets, sort them, and identify funding rate arbitrage opportunities via x402 micropayments.

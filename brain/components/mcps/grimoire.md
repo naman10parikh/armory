@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-29T18:14:16Z"
+pushed_at: "2026-09-13T02:16:32Z"
 ---
 ## What it is
 MCP server `Grimoire`, catalogued on PulseMCP. TTRPG campaign database for AI assistants: NPCs, locations, factions, quests, sessions, lore, and knowledge graphs.

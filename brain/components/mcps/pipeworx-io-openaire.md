@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:28:01Z"
+pushed_at: "2026-09-26T20:10:16Z"
 ---
 ## What it is
 MCP server `OpenAIRE`, catalogued on PulseMCP. OpenAIRE EU research outputs database for searching publications, datasets, software, and Horizon Europe projects via Pipeworx.

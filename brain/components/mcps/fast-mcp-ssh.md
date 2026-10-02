@@ -8,13 +8,13 @@ source_url: https://github.com/klNuno/fast-mcp-ssh
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T08:58:59Z"
+pushed_at: "2026-09-30T08:54:19Z"
 ---
 ## What it is
 Enables AI agents to securely execute commands on remote hosts via SSH and SFTP, with persistent shells, file transfers, screenshots, and an audit log.

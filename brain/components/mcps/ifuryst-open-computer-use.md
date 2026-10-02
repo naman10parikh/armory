@@ -8,12 +8,12 @@ source_url: https://github.com/ifuryst/open-codex-computer-use
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1880
+stars: 2303
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 168
-pushed_at: "2026-09-01T06:31:26Z"
+forks: 205
+pushed_at: "2026-09-29T03:48:31Z"
 ---
 ## What it is
 MCP server `Open Computer Use`, catalogued on PulseMCP. Cross-platform computer automation MCP server using accessibility APIs, supporting macOS, Linux, and Windows.

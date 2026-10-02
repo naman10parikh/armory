@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T03:34:11Z"
+pushed_at: "2026-09-03T03:35:09Z"
 ---
 ## What it is
 Exposes a curated allowlist of Home Assistant entities to external clients over MCP with read-only list and get_state tools, using an isolated guest credential that cannot access other Home Assistant APIs.

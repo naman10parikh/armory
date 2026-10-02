@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T17:29:40Z"
+pushed_at: "2026-09-27T12:18:07Z"
 ---
 ## What it is
 This MCP server autonomously introspects SQLite databases to auto-generate CRUD tools and join prompts, while enforcing zero-knowledge security through pre-validated SQL templates.

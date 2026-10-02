@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 13
-pushed_at: "2026-08-31T14:36:18Z"
+pushed_at: "2026-10-02T03:27:08Z"
 ---
 ## What it is
 Provides comprehensive access to Celo blockchain data, token operations, NFT management, smart contract interactions, transaction handling, governance, and staking operations.

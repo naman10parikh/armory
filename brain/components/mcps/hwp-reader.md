@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T08:28:00Z"
+pushed_at: "2026-09-24T04:52:52Z"
 ---
 ## What it is
 MCP server for reading HWP and HWPX documents without Hancom Office. Extracts text, tables with merged cells, and hidden memos, compatible with various MCP clients.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2025-12-31T00:31:03Z"
+pushed_at: "2026-09-22T14:49:25Z"
 ---
 ## What it is
 Bridges AI models with 24 years of Global Forest Watch data across 165+ countries, enabling natural language queries for deforestation and carbon emission insights.

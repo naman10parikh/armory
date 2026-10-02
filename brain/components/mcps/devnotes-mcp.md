@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T03:47:53Z"
+pushed_at: "2026-09-24T03:33:54Z"
 ---
 ## What it is
 A notes server that demonstrates advanced MCP features like sampling, elicitation, roots, pagination, and OAuth 2.1, enabling users to manage in-memory notes via natural language through a client.

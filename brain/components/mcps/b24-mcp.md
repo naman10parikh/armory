@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T08:45:20Z"
+pushed_at: "2026-09-06T15:55:11Z"
 ---
 ## What it is
 A local MCP server for Bitrix24 that provides read-only access to portal data including calendar, tasks, chats, projects, call analytics, and people information.

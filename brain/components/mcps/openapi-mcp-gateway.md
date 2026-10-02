@@ -8,13 +8,13 @@ source_url: https://github.com/mroops0111/openapi-mcp-gateway
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T05:50:51Z"
+pushed_at: "2026-10-01T03:06:46Z"
 ---
 ## What it is
 Mount any OpenAPI spec as an MCP server, supporting multiple APIs with authentication and resource auto-promotion.

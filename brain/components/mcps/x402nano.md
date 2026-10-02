@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-25T22:16:20Z"
+pushed_at: "2026-09-09T22:44:42Z"
 ---
 ## What it is
 Provides free Polymarket discovery data alongside paid deep-market intelligence tools via live x402 HTTP handshakes on Base mainnet. It allows AI agents to securely settle real, ultra-low-cost USDC micro-payments (0.05 USDC) directly over the Model Context Protocol.

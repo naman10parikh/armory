@@ -8,12 +8,12 @@ source_url: https://github.com/collactivelabs/pinterest-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
+forks: 14
 pushed_at: "2025-05-24T17:54:44Z"
 ---
 ## What it is

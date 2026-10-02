@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:33:35Z"
+pushed_at: "2026-09-25T21:23:45Z"
 ---
 ## What it is
 Enables searching and querying Adams County, Colorado open geospatial datasets (parcels, addresses, zoning) via ArcGIS Feature Services, with tools for dataset discovery, schema inspection, and SQL-like queries.

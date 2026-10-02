@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T12:43:27Z"
+pushed_at: "2026-09-24T12:01:01Z"
 ---
 ## What it is
 Enables creating and refining pencil-style drawings as layered HTML Canvas snippets through natural language descriptions, using classical construction methodology.

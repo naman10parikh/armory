@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T01:41:48Z"
+pushed_at: "2026-09-17T22:02:14Z"
 ---
 ## What it is
 Enables AI agents to generate, edit, and upscale videos and images using VicSee's API, with support for multiple models and asynchronous task polling.

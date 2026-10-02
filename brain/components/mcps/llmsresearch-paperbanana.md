@@ -8,12 +8,12 @@ source_url: https://github.com/llmsresearch/paperbanana
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2294
+stars: 2386
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 334
-pushed_at: "2026-08-17T18:00:05Z"
+forks: 338
+pushed_at: "2026-09-17T15:36:41Z"
 ---
 ## What it is
 MCP server `PaperBanana`, catalogued on PulseMCP. Generates publication-quality methodology diagrams and statistical plots from text descriptions using a multi-agent pipeline with specialized agents for retrieval, planning, styling, visualization, and iterative refinement.

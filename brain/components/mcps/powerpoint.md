@@ -8,7 +8,7 @@ source_url: https://github.com/ichigo3766/powerpoint-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

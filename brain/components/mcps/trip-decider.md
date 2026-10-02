@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T07:06:15Z"
+pushed_at: "2026-09-20T08:19:36Z"
 ---
 ## What it is
 This MCP server enables users to plan trips with precise transport details, verifying train schedules and local routes against real sources, and explicitly flags unverified or conflicting information instead of guessing.

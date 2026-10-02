@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-21T19:53:03Z"
+pushed_at: "2026-09-21T01:30:29Z"
 ---
 ## What it is
 Enables AI assistants to prepare, price, review, pay for, and send real physical letters and postcards via a hosted MCP server.

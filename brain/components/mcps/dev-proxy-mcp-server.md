@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-24T06:20:12Z"
+pushed_at: "2026-10-02T08:01:12Z"
 ---
 ## What it is
 Enables AI assistants to interact with Dev Proxy for creating configurations, finding documentation, and discovering best practices via the MCP standard.

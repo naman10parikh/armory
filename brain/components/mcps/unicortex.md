@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-11T14:33:22Z"
+pushed_at: "2026-10-01T14:50:51Z"
 ---
 ## What it is
 An MCP server that enables AI agents to control the Unity Editor externally, providing tools for scene, GameObject, component, and other editor operations.

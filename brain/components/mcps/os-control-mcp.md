@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-25T11:31:05Z"
+pushed_at: "2026-09-24T23:45:25Z"
 ---
 ## What it is
 Controls a Linux host through structured interfaces like systemd, journald, and D-Bus for service management, journal queries, power operations, and more, with safety guards to prevent accidental damage.

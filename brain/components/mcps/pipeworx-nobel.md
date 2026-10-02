@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T17:25:36Z"
+pushed_at: "2026-09-26T20:01:32Z"
 ---
 ## What it is
 MCP server `Nobel Prize`, catalogued on PulseMCP. Queries Nobel Prize laureates and award data via the Nobel Prize API v2.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-01T17:28:46Z"
+pushed_at: "2026-09-16T12:29:10Z"
 ---
 ## What it is
 Enables MCP-capable agents to control REAPER through safe, typed operations for game audio workflows such as creating variations and rendering WAV files.

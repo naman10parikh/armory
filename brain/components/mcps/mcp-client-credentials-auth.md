@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T07:34:38Z"
+pushed_at: "2026-09-22T07:11:50Z"
 ---
 ## What it is
 A local stdio MCP server that authenticates to remote OAuth-protected MCP servers using the client_credentials grant, handling token acquisition and request forwarding.

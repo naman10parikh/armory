@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:50:51Z"
+pushed_at: "2026-09-26T22:27:24Z"
 ---
 ## What it is
 Generates instant YC rejection for any startup idea with insincere encouragement.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T10:44:38Z"
+pushed_at: "2026-10-02T09:04:22Z"
 ---
 ## What it is
 Agent-first local SEO quality, intent and opportunity engine with CLI and optional MCP server.

@@ -8,11 +8,11 @@ source_url: https://github.com/docfork/docfork
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 488
+stars: 487
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 39
+forks: 38
 pushed_at: "2026-06-13T06:28:17Z"
 ---
 ## What it is

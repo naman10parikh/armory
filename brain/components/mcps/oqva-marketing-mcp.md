@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T16:23:44Z"
+pushed_at: "2026-09-24T14:01:01Z"
 ---
 ## What it is
 Connect Claude to your marketing data from Google and Meta, enabling read and write operations on Search Console, Analytics, Tag Manager, Business Profile, and Meta platforms.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-31T15:37:49Z"
+pushed_at: "2026-10-01T20:28:50Z"
 ---
 ## What it is
 MCP server `CogmemAI`, catalogued on PulseMCP. Persistent encrypted cloud memory for AI coding assistants.

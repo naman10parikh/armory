@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T23:53:41Z"
+pushed_at: "2026-09-16T04:02:40Z"
 ---
 ## What it is
 An MCP server that controls WSJT-X for amateur radio weak-signal modes (FT8/FT4, etc.) via UDP, enabling observation of status and decodes, and transmit operations like replying to CQs or sending free text.

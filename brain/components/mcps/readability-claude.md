@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T14:48:37Z"
+pushed_at: "2026-09-23T15:01:14Z"
 ---
 ## What it is
 Enables Claude to analyze and improve readability of text using local deterministic metrics like Flesch Reading Ease and lexical diversity, without sending data to external services.

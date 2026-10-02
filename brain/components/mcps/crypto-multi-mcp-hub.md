@@ -8,13 +8,13 @@ source_url: https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-01T21:22:51Z"
+forks: 4
+pushed_at: "2026-10-02T09:15:34Z"
 ---
 ## What it is
 AI-driven command center for local crypto operations, integrating over a dozen MCPs for real-time market data, technical analysis, on-chain data, and autonomous trading agent execution.

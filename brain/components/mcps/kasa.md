@@ -8,13 +8,13 @@ source_url: https://github.com/aikadimsoy/Kasa
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T22:02:03Z"
+pushed_at: "2026-09-26T18:20:08Z"
 ---
 ## What it is
 A local-first memory vault MCP server for Windows that exposes an encrypted user memory store to agents via a permission-brokered protocol, ensuring user ownership and control over browsing data.

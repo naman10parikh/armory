@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-30T21:34:39Z"
+pushed_at: "2026-10-01T04:30:20Z"
 ---
 ## What it is
 MCP server `Tickadoo`, catalogued on PulseMCP. Discover and book theatre, shows, events, and experiences in 700+ cities worldwide.

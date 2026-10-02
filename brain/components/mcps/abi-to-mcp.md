@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-08-17T03:03:07Z"
+pushed_at: "2026-09-15T08:00:25Z"
 ---
 ## What it is
 Generates MCP servers from smart contract ABIs, enabling Claude to interact with any Ethereum contract via natural language commands.

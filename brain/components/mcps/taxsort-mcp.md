@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T23:55:34Z"
+pushed_at: "2026-09-29T23:13:57Z"
 ---
 ## What it is
 Personal tax transaction classification (US Schedule A & C) MCP server that imports bank CSVs, classifies transactions with Claude AI, and provides tools for review, override, summaries, and cost tracking.

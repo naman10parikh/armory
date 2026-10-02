@@ -8,12 +8,12 @@ source_url: https://github.com/wegitor/reaper-reapy-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 82
+stars: 84
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
+forks: 15
 pushed_at: "2026-07-07T19:14:39Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/antinomie1/maimai-mcp
 license: BSD 2-Clause "Simplified" License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T16:34:03Z"
+pushed_at: "2026-09-03T15:03:57Z"
 ---
 ## What it is
 MCP server for MAIMAI DX arcade game, enabling song/score/statistics queries and image generation, accessible via command line or LLM agents.

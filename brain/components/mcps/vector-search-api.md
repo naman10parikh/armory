@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T19:34:34Z"
+pushed_at: "2026-09-02T19:57:59Z"
 ---
 ## What it is
 In-memory vector store with TF-IDF vectorization and cosine similarity search, paid per call via x402 micropayments.

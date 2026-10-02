@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-04T04:54:58Z"
+pushed_at: "2026-09-27T22:19:52Z"
 ---
 ## What it is
 Provides real-time crypto market data for AI agents, including derivatives, liquidations, options, macro, and market regime detection, with pay-per-call via x402 micropayments on Base.

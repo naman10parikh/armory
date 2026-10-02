@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T16:05:29Z"
+pushed_at: "2026-10-02T04:24:35Z"
 ---
 ## What it is
 Provides MCP tools for Sytadel identity and access management, enabling user listing, service account management, session anomaly queries, policy generation, and access reviews.

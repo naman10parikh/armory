@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T16:48:04Z"
+pushed_at: "2026-09-10T01:24:36Z"
 ---
 ## What it is
 Serves SANDAG/SanGIS regional GIS data from SANDAG's ArcGIS Enterprise portal, enabling natural-language queries for parcels, floodplains, address points, transit, land use, and hundreds of other layers.

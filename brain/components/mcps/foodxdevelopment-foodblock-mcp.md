@@ -13,7 +13,7 @@ related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 1
 forks: 2
-pushed_at: "2026-03-16T09:28:53Z"
+pushed_at: "2026-09-23T17:12:20Z"
 ---
 ## What it is
 17 MCP tools for the food industry. Describe food in plain English and get structured, content-addressed data blocks back. Covers actors, places, ingredients, products, transforms, transfers, and observations. Works standalone with zero config via `npx foodblock-mcp`.

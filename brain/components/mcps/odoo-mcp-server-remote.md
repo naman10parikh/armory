@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-19T03:32:55Z"
+pushed_at: "2026-09-19T23:18:44Z"
 ---
 ## What it is
 Remote MCP server for Odoo ERP — exposes Odoo operations over Streamable HTTP with bearer token authentication.

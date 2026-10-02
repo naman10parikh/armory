@@ -8,11 +8,11 @@ source_url: https://github.com/rapiercraft/perplexity-comet-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
+forks: 20
 pushed_at: "2026-06-22T05:37:23Z"
 ---
 ## What it is

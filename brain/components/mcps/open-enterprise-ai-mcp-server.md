@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T02:36:45Z"
+pushed_at: "2026-09-09T02:06:06Z"
 ---
 ## What it is
 Connects AI coding assistants like Claude Code, Cursor, and Windsurf to enterprise data sources (databases, files, APIs, etc.) via a single binary, with 45+ connector categories and built-in memory tools.

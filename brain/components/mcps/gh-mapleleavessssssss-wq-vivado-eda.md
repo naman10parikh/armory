@@ -8,12 +8,12 @@ source_url: https://github.com/mapleleavessssssss-wq/vivado-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 113
+stars: 145
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 30
-pushed_at: "2026-08-09T08:34:19Z"
+forks: 34
+pushed_at: "2026-09-22T07:59:26Z"
 ---
 ## What it is
 MCP server `Vivado EDA`, catalogued on PulseMCP. Controls Xilinx Vivado for FPGA development with synthesis, implementation, bitstream generation, and automated diagnostic tools.

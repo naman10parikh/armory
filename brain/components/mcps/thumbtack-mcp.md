@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T23:37:34Z"
+pushed_at: "2026-09-28T01:57:18Z"
 ---
 ## What it is
 Unofficial Thumbtack MCP server for searching local service professionals and reading their profiles, ratings, reviews, and credentials. Read-only and anonymous.

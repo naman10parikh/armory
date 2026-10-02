@@ -8,12 +8,12 @@ source_url: https://github.com/Yrobot/cloudflare-search
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 43
+stars: 44
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 37
+forks: 39
 pushed_at: "2026-03-13T14:43:18Z"
 ---
 ## What it is

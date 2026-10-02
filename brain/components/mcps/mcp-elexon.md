@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:03:08Z"
+pushed_at: "2026-09-25T23:43:50Z"
 ---
 ## What it is
 Enables access to Great Britain electricity grid and market data via the Elexon BMRS Insights API.

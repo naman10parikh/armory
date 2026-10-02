@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T20:19:48Z"
+pushed_at: "2026-09-28T11:55:32Z"
 ---
 ## What it is
 Read-only MCP server to list your SkyNode servers and check their status (IP, state, region, expiry). It does not modify or control servers.

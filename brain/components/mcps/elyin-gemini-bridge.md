@@ -8,12 +8,12 @@ source_url: https://github.com/elyin/gemini-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 94
+stars: 96
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-06-09T19:45:11Z"
+pushed_at: "2026-09-30T16:07:26Z"
 ---
 ## What it is
 MCP server `Gemini Bridge`, catalogued on PulseMCP. Bridges Claude with Google's Gemini AI through the official Gemini CLI, enabling direct queries and file-based context sharing between the two language models.

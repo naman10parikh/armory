@@ -12,8 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-09-01T01:14:08Z"
+forks: 2
+pushed_at: "2026-10-01T01:14:57Z"
 ---
 ## What it is
 MCP server `Pi-hole`, catalogued on PulseMCP. Production-grade MCP server for comprehensive Pi-hole v6 DNS filtering management with 55 tools.

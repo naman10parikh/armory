@@ -8,13 +8,13 @@ source_url: https://github.com/jean-baptiste-tiple/mcp-template
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T08:52:24Z"
+pushed_at: "2026-10-01T20:41:40Z"
 ---
 ## What it is
 Bootstraps an MCP-first SaaS with dual-host widgets for Claude and ChatGPT, Supabase OAuth 2.1 auth, and shared services pattern.

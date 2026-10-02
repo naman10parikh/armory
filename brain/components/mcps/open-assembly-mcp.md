@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-19T03:03:05Z"
+pushed_at: "2026-09-29T17:57:45Z"
 ---
 ## What it is
 MCP server for the Korean National Assembly Open API, enabling querying of bills, members, votes, committees, and more via natural language.

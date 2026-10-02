@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T21:06:30Z"
+pushed_at: "2026-09-29T04:24:08Z"
 ---
 ## What it is
 MCP server providing tools to verify task completion (tests pass and changes match claim) and confirm bug reproduction before fixing.

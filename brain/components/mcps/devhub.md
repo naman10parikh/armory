@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-21T09:45:39Z"
+pushed_at: "2026-09-29T08:39:17Z"
 ---
 ## What it is
 Self-hosted operational dashboard and MCP server that catalogs runnable services and their operational context, offering a read-only MCP endpoint to list projects, service status, runbooks, and reconciliation context.

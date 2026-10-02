@@ -8,11 +8,11 @@ source_url: https://github.com/lamaalrajih/kicad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 497
+stars: 524
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 78
+forks: 85
 pushed_at: "2025-10-17T16:30:09Z"
 ---
 ## What it is

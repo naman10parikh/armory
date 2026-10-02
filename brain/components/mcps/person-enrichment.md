@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-19T00:54:32Z"
+pushed_at: "2026-09-02T19:56:57Z"
 ---
 ## What it is
 Enriches person profiles from email addresses, returning full name, job title, company, social links, and location. Works as a drop-in replacement for Apollo person enrichment at lower cost.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:28:44Z"
+pushed_at: "2026-09-26T21:56:29Z"
 ---
 ## What it is
 Enables searching and retrieving articles, sections, and tags from The Guardian via the Guardian Open Platform API.

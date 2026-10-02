@@ -8,13 +8,13 @@ source_url: https://github.com/abluva/mcp-remote
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 53
+stars: 54
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
-pushed_at: "2026-09-01T11:02:13Z"
+forks: 14
+pushed_at: "2026-09-22T05:27:06Z"
 ---
 ## What it is
 Bridge that lets stdio-only MCP clients connect to remote MCP servers with OAuth and other auth support, enabling local clients to use remote, authorized MCP servers.

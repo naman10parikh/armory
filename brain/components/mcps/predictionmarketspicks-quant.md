@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T20:43:09Z"
+pushed_at: "2026-10-02T13:18:01Z"
 ---
 ## What it is
 Prediction-market quant tools — expected value, Kelly sizing, Bayesian updating, odds conversion, base-rate gaps, cross-platform arbitrage, and mispricing edge — for Kalshi and Polymarket contracts, exposed as a remote MCP server.

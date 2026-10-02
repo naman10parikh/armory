@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2025-07-05T15:47:47Z"
+pushed_at: "2026-10-02T00:40:43Z"
 ---
 ## What it is
 A comprehensive MCP server that bridges AI applications with FHIR healthcare data systems, enabling patient data access, clinical data retrieval, and data quality assessment.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T09:19:37Z"
+pushed_at: "2026-10-02T10:25:52Z"
 ---
 ## What it is
 A declarative framework for building MCP servers using YAML configuration, generating optimized Rust code.

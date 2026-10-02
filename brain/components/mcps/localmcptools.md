@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T03:47:55Z"
+pushed_at: "2026-09-24T03:58:37Z"
 ---
 ## What it is
 An MCP server that provides a workspace.inspect tool for VS Code agents such as codebuddy and GitHub Copilot, enabling them to inspect the workspace through the Model Context Protocol.

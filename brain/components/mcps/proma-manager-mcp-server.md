@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T17:06:31Z"
+pushed_at: "2026-09-18T18:57:10Z"
 ---
 ## What it is
 Enables to manage Proma skills across workspaces, audit MCP configurations, list and delete sessions with safety checks.

@@ -8,13 +8,13 @@ source_url: https://github.com/domdomegg/defuddle-fetch-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-08-22T01:06:36Z"
+forks: 6
+pushed_at: "2026-09-29T20:14:10Z"
 ---
 ## What it is
 An MCP server that fetches web content and converts it to clean markdown using the Defuddle library, enabling LLMs to read web pages with better extraction than the default fetch server.

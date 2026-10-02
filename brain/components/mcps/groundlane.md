@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T14:59:57Z"
+pushed_at: "2026-09-12T10:10:19Z"
 ---
 ## What it is
 An MCP server that gives AI agents controlled access to the web, offering unified tools for fetching pages as Markdown, searching across multiple providers, and extracting structured data via CSS selectors.

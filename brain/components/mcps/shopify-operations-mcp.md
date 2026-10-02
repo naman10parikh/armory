@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T01:23:08Z"
+pushed_at: "2026-09-04T21:16:44Z"
 ---
 ## What it is
 Safe-write Shopify operations MCP server with plan-before-execute writes, out-of-band approval, and tamper-evident audit trail.

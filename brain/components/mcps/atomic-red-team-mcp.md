@@ -8,13 +8,13 @@ source_url: https://github.com/cyberbuff/atomic-red-team-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 131
+stars: 132
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 21
-pushed_at: "2026-08-31T00:07:48Z"
+forks: 20
+pushed_at: "2026-10-01T19:00:23Z"
 ---
 ## What it is
 Provides access to Atomic Red Team tests, enabling search, validation, and execution of atomic tests via natural language.

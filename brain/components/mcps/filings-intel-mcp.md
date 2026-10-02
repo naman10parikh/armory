@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T00:38:18Z"
+pushed_at: "2026-09-25T22:02:12Z"
 ---
 ## What it is
 Enables AI agents to research US public company filings, financials, and insider transactions using SEC EDGAR data, with no API keys required. Provides tools for company lookup, recent filings, full-text search, financial facts, and insider activity.

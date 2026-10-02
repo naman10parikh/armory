@@ -8,12 +8,12 @@ source_url: https://github.com/mcpmux/mcp-mux
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
-pushed_at: "2026-08-11T22:03:17Z"
+forks: 10
+pushed_at: "2026-10-01T02:37:06Z"
 ---
 ## What it is
 MCP server `McpMux`, catalogued on PulseMCP. Local gateway that connects all AI clients to configured servers through one endpoint.

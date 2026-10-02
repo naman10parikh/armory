@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T19:57:50Z"
+pushed_at: "2026-09-24T19:50:42Z"
 ---
 ## What it is
 MCP server for predictalot, providing streamable HTTP tools for zero-shot time-series forecasting with multiple foundation models and per-type ensembles. Tabular ML endpoints are currently HTTP-only.

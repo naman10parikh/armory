@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T22:29:52Z"
+pushed_at: "2026-09-17T04:15:19Z"
 ---
 ## What it is
 MCP server for sealing and opening JSON with φ-split keyword shares and benefit checks.

@@ -8,13 +8,13 @@ source_url: https://github.com/satovarb16/runwayMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T23:23:19Z"
+pushed_at: "2026-09-24T21:23:30Z"
 ---
 ## What it is
 runwayMCP enables job seekers to evaluate US job postings by automatically checking a company's H-1B sponsorship history using real USCIS data, helping them avoid wasting time on roles that won't sponsor visas.

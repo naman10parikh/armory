@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-06T14:50:21Z"
+pushed_at: "2026-09-30T18:57:35Z"
 ---
 ## What it is
 MCP server `VaultPilot`, catalogued on PulseMCP. Self-custodial crypto portfolio management across EVM chains with Ledger signing via WalletConnect.

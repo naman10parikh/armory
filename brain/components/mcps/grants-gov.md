@@ -8,13 +8,13 @@ source_url: https://github.com/pipeworx-io/mcp-grants-gov
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:11:28Z"
+pushed_at: "2026-09-30T22:53:25Z"
 ---
 ## What it is
 Provides access to open federal grant opportunities from Grants.gov without authentication. Enables querying and exploring grant data through natural language via Pipeworx gateway.

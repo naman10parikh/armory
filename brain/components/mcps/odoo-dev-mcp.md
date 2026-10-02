@@ -8,13 +8,13 @@ source_url: https://github.com/mart337i/odoo-dev-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
-pushed_at: "2026-05-30T02:24:01Z"
+forks: 12
+pushed_at: "2026-10-01T21:05:34Z"
 ---
 ## What it is
 An MCP server for Odoo module development that provides version-aware documentation links, intelligent code generation, and development workflow automation for Odoo versions 17.0, 18.0, and 19.0.

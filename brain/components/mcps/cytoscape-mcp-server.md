@@ -8,12 +8,12 @@ source_url: https://github.com/cytoscape/cytoscape-desktop-mcp
 license: BSD 3-Clause
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 4
 pushed_at: "2026-09-01T16:11:17Z"
 ---
 ## What it is

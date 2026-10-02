@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-16T11:15:21Z"
+pushed_at: "2026-09-27T11:01:26Z"
 ---
 ## What it is
 Trust Graduation gate for AI agents: visible approval ceremonies and receipt-backed boundaries for consequential actions.

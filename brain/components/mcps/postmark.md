@@ -8,12 +8,12 @@ source_url: https://github.com/activecampaign/postmark-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
-pushed_at: "2026-08-26T15:01:05Z"
+forks: 19
+pushed_at: "2026-09-28T22:51:38Z"
 ---
 ## What it is
 MCP server `Postmark`, catalogued on PulseMCP. Integrates with Postmark's email delivery service to send transactional emails with template support, track delivery status, and manage bounces for reliable email operations.

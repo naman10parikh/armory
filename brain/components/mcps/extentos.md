@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T17:38:23Z"
+pushed_at: "2026-09-05T09:10:40Z"
 ---
 ## What it is
 Extentos is a multi-vendor development platform for adding smart-glasses capabilities to existing iOS and Android apps. The simplest analogy is Stripe for smart glasses:

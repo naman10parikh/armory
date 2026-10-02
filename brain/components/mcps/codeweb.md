@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T12:38:12Z"
+pushed_at: "2026-10-02T13:34:55Z"
 ---
 ## What it is
 An MCP server that maps code symbol relationships and provides tools for impact analysis, caller lookup, and duplicate detection to help coding agents understand codebases efficiently.

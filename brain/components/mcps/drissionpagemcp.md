@@ -8,12 +8,12 @@ source_url: https://github.com/wxhzhwxhzh/DrissionPageMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 241
+stars: 243
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 42
+forks: 43
 pushed_at: "2026-02-12T06:04:10Z"
 ---
 ## What it is

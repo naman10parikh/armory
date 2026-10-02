@@ -8,13 +8,13 @@ source_url: https://github.com/xyTom/coding-tools-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 956
+stars: 1168
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 164
-pushed_at: "2026-08-24T00:03:54Z"
+forks: 202
+pushed_at: "2026-09-30T23:22:56Z"
 ---
 ## What it is
 Empower any MCP-compatible AI Agent(MCP Client) with engineering-grade capabilities to understand, modify, run, and deliver real-world code repositories.

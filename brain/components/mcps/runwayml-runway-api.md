@@ -8,12 +8,12 @@ source_url: https://github.com/runwayml/runway-api-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-08-17T14:46:35Z"
+pushed_at: "2026-09-30T20:47:09Z"
 ---
 ## What it is
 MCP server `Runway`, catalogued on PulseMCP. Integrates with Runway's generative AI platform to create and edit videos and images through text-to-image generation, image-to-video conversion, video upscaling, and editing capabilities with automatic task polling and media URL delivery.

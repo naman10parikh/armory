@@ -8,13 +8,13 @@ source_url: https://github.com/pagerduty/pagerduty-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 77
+stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 40
-pushed_at: "2026-08-27T10:49:22Z"
+forks: 41
+pushed_at: "2026-09-04T13:56:14Z"
 ---
 ## What it is
 MCP server `PagerDuty`, catalogued on PulseMCP. Integrates with PagerDuty's incident management platform to provide tools for managing incidents, services, teams, users, schedules, escalation policies, on-call rotations, event orchestrations, status pages, and alert grouping settings for incident response automation and DevOps workflows.

@@ -8,12 +8,12 @@ source_url: https://github.com/savethepolarbears/jules-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
-pushed_at: "2026-07-27T20:39:03Z"
+forks: 11
+pushed_at: "2026-09-28T11:52:29Z"
 ---
 ## What it is
 MCP server `Jules`, catalogued on PulseMCP. Integrates with Google Jules API for code generation and modification with autonomous scheduling capabilities, featuring cron-based recurring tasks for maintenance workflows like dependency updates and security audits that run automatically with repository allowlists and approval gates for production environments.

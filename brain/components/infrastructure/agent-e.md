@@ -8,12 +8,12 @@ source_url: https://github.com/EmergenceAI/Agent-E
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1249
+stars: 1251
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, emergence]
-forks: 190
+forks: 192
 pushed_at: "2026-05-04T07:51:00Z"
 ---
 ## What it is

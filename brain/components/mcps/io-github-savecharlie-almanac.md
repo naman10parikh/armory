@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-05T03:09:23Z"
+pushed_at: "2026-09-12T07:19:45Z"
 ---
 ## What it is
 Provides deterministic computation of magnetic declination and sky positions (sun, moon, planets) for any location and time, enabling agents to get accurate ephemeris and geomagnetic data without hallucination.

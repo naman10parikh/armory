@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T23:04:16Z"
+pushed_at: "2026-09-25T23:04:47Z"
 ---
 ## What it is
 Enables querying Portugal's national open data portal (dados.gov.pt) through natural language.

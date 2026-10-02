@@ -8,13 +8,13 @@ source_url: https://github.com/lovecatisgood-sudo/Free-Opensource-SEO-Screaming-
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-27T16:34:10Z"
+pushed_at: "2026-09-24T16:34:00Z"
 ---
 ## What it is
 Provides 23 bounded MCP tools for AI agents to perform technical SEO audits, including crawl setup, page analysis, issue detection, and report exports, all while keeping data local.

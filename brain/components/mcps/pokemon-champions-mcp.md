@@ -8,13 +8,13 @@ source_url: https://github.com/joonhyungkimweb/pokemon-champions-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T06:19:31Z"
+pushed_at: "2026-09-10T05:50:47Z"
 ---
 ## What it is
 Calculates 1:1 Pokémon Champions singles matchups, returning structured JSON stats, speed, type, and damage analysis, with Korean/English input support.

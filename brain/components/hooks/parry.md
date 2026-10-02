@@ -14,8 +14,8 @@ verified_at: 2026-05-26
 related: []
 tags: [hook]
 stars: 45
-forks: 1
-pushed_at: "2026-07-28T05:52:32Z"
+forks: 2
+pushed_at: "2026-10-01T23:22:08Z"
 ---
 ## What it is
 A community hook, catalogued in awesome-claude-code. Prompt injection scanner for Claude Code hooks. Scans tool inputs and outputs for injection attacks, secrets, and data exfiltration attempts. In early development when it was listed.

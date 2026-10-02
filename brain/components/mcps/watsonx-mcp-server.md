@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T15:59:30Z"
+pushed_at: "2026-09-08T02:44:45Z"
 ---
 ## What it is
 Integrates with IBM watsonx.ai to enable Claude Code to delegate text generation, chat, embeddings, and model listing to IBM foundation models like Granite and Llama.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-05T05:11:04Z"
+pushed_at: "2026-09-29T07:58:09Z"
 ---
 ## What it is
 Enables AI agents to build and interact with mind maps on mindmap.io. Agents can create, read, update, and delete maps and nodes, run prompts on nodes, and auto-expand topics into follow-up questions.

@@ -8,13 +8,13 @@ source_url: https://github.com/samsebeingener/visbug-mcp-ru
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-07-31T07:25:06Z"
+pushed_at: "2026-09-13T16:59:43Z"
 ---
 ## What it is
 Bridge between VisBug and Cursor via MCP, enabling visual edits on localhost to be captured and applied as structured CSS diffs. Russian localization of mambari/visbug-mcp.

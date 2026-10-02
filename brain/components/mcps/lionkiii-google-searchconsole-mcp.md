@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, customer-data-platforms]
-stars: 6
+stars: 7
 forks: 3
 pushed_at: "2026-04-03T05:46:16Z"
 ---

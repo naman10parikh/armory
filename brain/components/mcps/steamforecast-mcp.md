@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-09T20:20:33Z"
+pushed_at: "2026-09-08T03:13:12Z"
 ---
 ## What it is
 Model Context Protocol server for Steam Launch Forecaster, exposing calibrated revenue cones (P10–P90) and other tools to AI agents for Steam game revenue forecasting and analysis.

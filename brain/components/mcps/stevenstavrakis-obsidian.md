@@ -8,12 +8,12 @@ source_url: https://github.com/stevenstavrakis/obsidian-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 731
+stars: 738
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 92
-pushed_at: "2026-08-27T10:07:19Z"
+forks: 93
+pushed_at: "2026-09-10T10:06:59Z"
 mentions: 1
 ---
 ## What it is

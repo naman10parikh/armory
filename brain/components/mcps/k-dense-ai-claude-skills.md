@@ -8,11 +8,11 @@ source_url: https://github.com/k-dense-ai/claude-skills-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 402
+stars: 407
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 73
+forks: 77
 pushed_at: "2026-07-20T18:02:06Z"
 ---
 ## What it is

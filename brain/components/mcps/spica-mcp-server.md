@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T14:33:25Z"
+pushed_at: "2026-09-30T08:50:03Z"
 ---
 ## What it is
 MCP server that enables AI agents to interact with Spica servers, managing databases, serverless functions, storage, authentication, auditing, debugging, and version control.

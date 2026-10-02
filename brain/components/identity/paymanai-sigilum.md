@@ -15,7 +15,7 @@ verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
 forks: 0
-pushed_at: "2026-02-27T00:18:20Z"
+pushed_at: "2026-09-22T13:47:49Z"
 ---
 ## What it is
 Use when an agent's identity has to leave an auditable trail rather than just gate a request.

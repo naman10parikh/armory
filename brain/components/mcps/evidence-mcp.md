@@ -8,13 +8,13 @@ source_url: https://github.com/zzkws/evidence-rag-pilot
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T18:00:41Z"
+pushed_at: "2026-10-01T17:57:59Z"
 ---
 ## What it is
 Provides an evidence-oriented MCP interface for Evidence RAG Pilot, enabling retrieval of evidence packages, chunks, and evidence images from PDF-based corpora.

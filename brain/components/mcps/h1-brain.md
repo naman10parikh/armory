@@ -8,12 +8,12 @@ source_url: https://github.com/PatrikFehrenbach/h1-brain
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 351
+stars: 355
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 46
+forks: 47
 pushed_at: "2026-04-07T14:36:30Z"
 ---
 ## What it is

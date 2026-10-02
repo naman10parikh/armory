@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-26T01:51:19Z"
+pushed_at: "2026-09-27T00:16:17Z"
 ---
 ## What it is
 MCP server for renting real GPUs from the terminal. Enables browsing, renting, chatting, managing, and pooling GPU instances with per-second billing, designed for AI agents.

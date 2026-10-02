@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-01T20:41:29Z"
+forks: 2
+pushed_at: "2026-10-01T19:42:27Z"
 ---
 ## What it is
 An MCP server that exposes authoritative, read-only Conda ecosystem metadata for AI agents, enabling package search, dependency resolution, and other packaging queries without side effects.

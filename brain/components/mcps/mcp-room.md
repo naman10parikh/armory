@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T14:16:34Z"
+pushed_at: "2026-09-04T07:56:15Z"
 ---
 ## What it is
 Enables Claude chats to communicate across machines or sessions via shared encrypted rooms, with tools to create, join, send, read, wait, search, and delete room messages.

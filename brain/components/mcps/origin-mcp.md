@@ -8,13 +8,13 @@ source_url: https://github.com/Ge-Shun/origin-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 85
+stars: 111
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-07-24T18:34:39Z"
+forks: 8
+pushed_at: "2026-09-12T14:23:25Z"
 ---
 ## What it is
 Enables AI assistants to control Origin/OriginPro on Windows, including data import, worksheet editing, graphing, analysis, and figure export.

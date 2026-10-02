@@ -8,11 +8,11 @@ source_url: https://github.com/devizor/macos-notification-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2025-05-09T17:51:48Z"
 ---
 ## What it is

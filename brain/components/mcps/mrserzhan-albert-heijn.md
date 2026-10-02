@@ -8,11 +8,11 @@ source_url: https://github.com/mrserzhan/ah-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 15
 pushed_at: "2026-03-21T18:31:16Z"
 ---
 ## What it is

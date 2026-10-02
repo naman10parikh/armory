@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T07:22:11Z"
+pushed_at: "2026-09-04T03:06:18Z"
 ---
 ## What it is
 Stateless HTTP MCP service that exposes the Pax8 Partner API as tools for AI assistants to query companies, subscriptions, invoices, orders, products, and usage data.

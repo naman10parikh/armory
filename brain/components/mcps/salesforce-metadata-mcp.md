@@ -8,13 +8,13 @@ source_url: https://github.com/semwalajay83-sem/salesforce-metadata-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T19:28:53Z"
+pushed_at: "2026-10-01T11:40:36Z"
 ---
 ## What it is
 Enables comprehensive Salesforce metadata management from MCP clients, providing 221 tools for creating objects, fields, Apex, flows, LWCs, Agentforce agents, and more.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-12T22:13:06Z"
+pushed_at: "2026-09-14T16:44:06Z"
 ---
 ## What it is
 Enables AI assistants to query NYC capital project data (schedule, budget, lifecycle) using 16 tools with domain rules like PID↔FMS many-to-many and role-aware agency attribution.

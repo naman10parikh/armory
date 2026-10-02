@@ -8,13 +8,13 @@ source_url: https://github.com/kushaim/practice-fusion-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T17:57:59Z"
+pushed_at: "2026-09-10T16:35:56Z"
 ---
 ## What it is
 Enables read-only FHIR access to Practice Fusion EHR to search patients, appointments, conditions, medications, and lab results.

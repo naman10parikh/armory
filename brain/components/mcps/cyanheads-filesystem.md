@@ -8,11 +8,11 @@ source_url: https://github.com/cyanheads/filesystem-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
+forks: 30
 pushed_at: "2025-07-22T08:38:17Z"
 ---
 ## What it is

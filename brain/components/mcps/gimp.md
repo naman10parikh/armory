@@ -8,11 +8,11 @@ source_url: https://github.com/maorcc/gimp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 193
+stars: 247
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 31
+forks: 41
 pushed_at: "2026-05-29T20:59:16Z"
 ---
 ## What it is

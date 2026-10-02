@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:06:08Z"
+pushed_at: "2026-10-01T08:44:15Z"
 ---
 ## What it is
 Wraps Xiaomi MiMo's web_search API into an MCP tool for Claude Code, enabling real-time web searches with location awareness, automatic retry, and timeout control.

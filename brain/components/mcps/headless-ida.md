@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2025-04-04T14:24:10Z"
+pushed_at: "2026-09-16T05:55:52Z"
 ---
 ## What it is
 MCP server `Headless IDA Pro`, catalogued on PulseMCP. Enables reverse engineering of binary files through IDA Pro's headless mode, providing tools for function analysis, disassembly, decompilation, and code annotation for security research workflows.

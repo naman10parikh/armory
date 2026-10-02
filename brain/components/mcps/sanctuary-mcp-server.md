@@ -8,13 +8,13 @@ source_url: https://github.com/eriknewton/sanctuary-framework
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T01:57:44Z"
+pushed_at: "2026-10-02T08:56:50Z"
 ---
 ## What it is
 Wraps any AI agent harness with kernel-level protection, cryptographic signing, and portable audit trails, ensuring your agents act within your sovereignty.

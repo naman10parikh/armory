@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T10:59:50Z"
+pushed_at: "2026-09-10T12:10:44Z"
 ---
 ## What it is
 Enables AI tools to research, write, and publish finished blog posts to Ghost and WordPress in the user's voice, supporting multiple author personas and destinations through natural language.

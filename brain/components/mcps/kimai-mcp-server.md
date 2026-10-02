@@ -8,13 +8,13 @@ source_url: https://github.com/glazperle/kimai_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 34
+stars: 43
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-08-14T10:31:46Z"
+forks: 9
+pushed_at: "2026-10-02T05:47:33Z"
 ---
 ## What it is
 Enables AI assistants to interact with Kimai time-tracking API for managing timesheets, projects, activities, customers, users, and more.

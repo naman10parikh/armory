@@ -8,13 +8,13 @@ source_url: https://github.com/CNQQC/xueqiu-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T14:18:03Z"
+pushed_at: "2026-09-18T03:10:46Z"
 ---
 ## What it is
 Enables AI clients to access Xueqiu's real-time quotes, financial statements, capital flows, and community discussions for A-shares, HK, and US stocks, with 22 tools requiring no setup.

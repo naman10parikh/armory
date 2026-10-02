@@ -8,13 +8,13 @@ source_url: https://github.com/kaivyy/garminsynapse
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-31T20:18:06Z"
+forks: 1
+pushed_at: "2026-09-29T08:27:09Z"
 ---
 ## What it is
 Enables AI assistants to retrieve and analyze Garmin Connect health data, including daily summaries, sleep, HRV, workouts, and raw FIT files, while also supporting SQL queries on the underlying database.

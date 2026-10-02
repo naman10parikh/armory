@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-13T23:39:01Z"
+pushed_at: "2026-09-14T19:38:19Z"
 ---
 ## What it is
 A production-ready admin bundle for Odoo MCP Server deployments, providing a web GUI to configure Odoo connections, manage MCP tools, rotate tokens, stream logs, and proxy MCP requests.

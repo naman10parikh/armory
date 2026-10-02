@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T18:17:46Z"
+pushed_at: "2026-09-27T04:17:22Z"
 ---
 ## What it is
 Enables MCP-compatible AI clients to generate and edit images via the DreamLayer Agent API, including text-to-image, image-to-image, background removal, and upscaling, with support for uploading images and managing execution streams.

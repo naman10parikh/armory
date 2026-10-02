@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T23:38:29Z"
+pushed_at: "2026-09-29T15:55:34Z"
 ---
 ## What it is
 MCP server for Pi Network that enables AI agents to query Pi chain data (balances, transactions) and verify user tokens, with optional payment sending that is off by default.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T09:21:44Z"
+pushed_at: "2026-10-01T12:32:19Z"
 ---
 ## What it is
 MCP server that provides summary-level Valeo Health member data to Claude, enabling users to ask about labs, programs, appointments, and supplements.

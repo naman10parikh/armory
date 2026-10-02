@@ -8,13 +8,13 @@ source_url: https://github.com/arturogarrido/claudinho
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-30T22:12:51Z"
+forks: 4
+pushed_at: "2026-10-02T13:01:06Z"
 ---
 ## What it is
 Claudinho gives any MCP client live 2026 World Cup scores, fixtures, group standings, read-only prediction-market signals (Polymarket, informational only), and ready-to-paste match cards. Key-free; the schedule is bundled offline — only live state hits ESPN. Independent fan project — not affiliated 

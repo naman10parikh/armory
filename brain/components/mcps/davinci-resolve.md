@@ -8,12 +8,12 @@ source_url: https://github.com/apvlv/davinci-resolve-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 77
+stars: 78
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 5
+forks: 6
 pushed_at: "2026-04-07T02:46:35Z"
 ---
 ## What it is

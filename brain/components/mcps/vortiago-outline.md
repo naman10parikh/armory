@@ -8,7 +8,7 @@ source_url: https://github.com/vortiago/mcp-outline
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 155
+stars: 156
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
