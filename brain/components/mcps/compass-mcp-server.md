@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-24T16:41:57Z"
+pushed_at: "2026-09-28T14:04:54Z"
 ---
 ## What it is
 Enables Claude to run SQL queries against Infor Compass (Data Fabric) directly from chat, with automatic export of large result sets to Excel.

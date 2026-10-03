@@ -8,13 +8,13 @@ source_url: https://github.com/cofin/litestar-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-18T22:17:10Z"
+pushed_at: "2026-09-28T19:28:19Z"
 ---
 ## What it is
 A Litestar plugin that automatically exposes marked routes as MCP tools and resources over Streamable HTTP.

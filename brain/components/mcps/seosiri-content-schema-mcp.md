@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T16:37:34Z"
+pushed_at: "2026-10-02T03:44:19Z"
 ---
 ## What it is
 An open-source, local-first MCP server for automated Schema.org JSON-LD generation, GA4 metric validation, /llm.txt auditing, and content stickiness analytics.

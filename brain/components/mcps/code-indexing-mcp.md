@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T16:50:11Z"
+pushed_at: "2026-10-01T12:26:34Z"
 ---
 ## What it is
 A local-only codebase indexer that extracts syntax-aware chunks, creates embeddings locally, and enables semantic code search and symbol lookup via MCP.

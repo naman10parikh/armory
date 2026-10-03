@@ -8,13 +8,13 @@ source_url: https://github.com/niels-emmer/dendrite-admin-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T08:46:21Z"
+pushed_at: "2026-09-29T07:02:54Z"
 ---
 ## What it is
 MCP server exposing Dendrite Matrix homeserver admin APIs as tools, enabling an LLM agent to manage users, rooms, registration tokens, send server notices, and more.

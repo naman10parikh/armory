@@ -8,13 +8,13 @@ source_url: https://github.com/MaxGhenis/openmessage
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 58
+stars: 62
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 31
-pushed_at: "2026-09-25T15:15:05Z"
+pushed_at: "2026-09-29T09:40:36Z"
 ---
 ## What it is
 MCP server for a local-first messaging workspace that integrates Google Messages, WhatsApp, and Signal. It enables reading, sending, searching messages, and managing conversations through MCP tools.

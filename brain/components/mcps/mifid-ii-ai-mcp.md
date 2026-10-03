@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:51:36Z"
+pushed_at: "2026-09-03T03:58:15Z"
 ---
 ## What it is
 Enables algorithmic trading compliance with MiFID II Article 17, providing tools for strategy classification, RTS 6 testing, and best execution audits. Also supports EU AI Act compliance.

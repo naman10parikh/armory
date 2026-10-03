@@ -8,11 +8,11 @@ source_url: https://github.com/wiseman/osm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 87
+stars: 88
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
+forks: 19
 pushed_at: "2025-03-13T23:01:24Z"
 ---
 ## What it is

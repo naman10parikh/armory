@@ -8,13 +8,13 @@ source_url: https://github.com/revanthrajeev/spendveto
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-26T15:19:35Z"
+forks: 0
+pushed_at: "2026-10-02T06:14:29Z"
 ---
 ## What it is
 Governs AI agents' spending by enforcing budgets, approvals, and kill switches before any payment, providing an MCP interface for tool calls with policy checks.

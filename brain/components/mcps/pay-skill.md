@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-21T02:10:50Z"
+pushed_at: "2026-09-28T02:09:39Z"
 ---
 ## What it is
 MCP server `Pay Skill`, catalogued on PulseMCP. USDC payment tools for AI agents including direct payments, tabs, and x402 paywalls on Base.

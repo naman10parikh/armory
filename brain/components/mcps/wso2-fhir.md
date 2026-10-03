@@ -12,8 +12,8 @@ stars: 137
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 55
-pushed_at: "2026-09-04T04:43:30Z"
+forks: 56
+pushed_at: "2026-09-30T06:01:55Z"
 ---
 ## What it is
 MCP server `FHIR`, catalogued on PulseMCP. Access FHIR-compliant healthcare APIs from AI tools and agent workflows.

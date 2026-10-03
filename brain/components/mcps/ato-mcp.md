@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-20T23:05:27Z"
+pushed_at: "2026-10-01T13:31:24Z"
 ---
 ## What it is
 MCP server that connects AI agents to 34,500+ Australian Taxation Office documents, providing cited answers, tax deduction discovery, depreciation scheduling, BAS checklists, and audit risk assessment through 13 specialized tools.

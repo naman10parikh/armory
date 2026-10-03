@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-25T18:21:30Z"
+pushed_at: "2026-09-28T19:07:22Z"
 ---
 ## What it is
 MCP server that enables AI agents to search, describe, and fetch x402 endpoints on Base or Solana, with automatic USDC micropayments.

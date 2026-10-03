@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-01T12:29:27Z"
+pushed_at: "2026-10-01T14:21:41Z"
 ---
 ## What it is
 MCP server `Astronomy Oracle`, catalogued on PulseMCP. Celestial object catalog and observing session planner.

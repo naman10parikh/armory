@@ -8,13 +8,13 @@ source_url: https://github.com/colbymchenry/codegraph
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 72120
+stars: 73086
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4628
-pushed_at: "2026-09-23T21:06:11Z"
+forks: 4688
+pushed_at: "2026-10-03T06:41:20Z"
 ---
 ## What it is
 Supercharges AI coding agents with a pre-indexed semantic code graph, enabling instant symbol relationships, impact analysis, and context retrieval across 20+ languages.

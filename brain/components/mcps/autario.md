@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-09T20:46:20Z"
+pushed_at: "2026-09-27T16:05:37Z"
 ---
 ## What it is
 Query 2,500+ verified public datasets (World Bank, IMF, Eurostat, OECD, WHO) from your AI agent. Search, analyze, and visualize data, and publish charts — with verified SEC + official source data.

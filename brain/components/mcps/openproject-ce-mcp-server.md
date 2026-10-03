@@ -8,13 +8,13 @@ source_url: https://github.com/kar-thik/openproject-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-24T16:28:42Z"
+pushed_at: "2026-10-02T02:05:35Z"
 ---
 ## What it is
 Open source MCP server for open project aimed at community edition users

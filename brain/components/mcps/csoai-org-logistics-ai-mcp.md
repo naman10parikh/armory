@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-15T14:41:33Z"
+pushed_at: "2026-09-04T12:40:38Z"
 ---
 ## What it is
 MCP server `Logistics AI`, catalogued on PulseMCP. Python MCP server for logistics planning and supply chain management.

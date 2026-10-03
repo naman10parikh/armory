@@ -8,11 +8,11 @@ source_url: https://github.com/antipaster/adobe-premiere-pro-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 16
 pushed_at: "2026-08-25T01:34:13Z"
 ---
 ## What it is

@@ -8,7 +8,7 @@ source_url: https://github.com/mlobo2012/claude_desktop_api_use_via_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

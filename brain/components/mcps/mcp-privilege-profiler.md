@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-14T01:17:37Z"
+pushed_at: "2026-10-02T06:18:50Z"
 ---
 ## What it is
 A task-scoped MCP stdio proxy that learns candidate least-privilege policies from labeled successful runs, requires human review, enforces exact decisions, detects tool-definition drift, and emits privacy-minimized JSONL events for Wazuh.

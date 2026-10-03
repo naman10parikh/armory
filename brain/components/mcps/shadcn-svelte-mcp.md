@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-13T05:16:45Z"
+pushed_at: "2026-10-02T09:01:41Z"
 ---
 ## What it is
 Provides real-time access to shadcn-svelte component documentation and developer utilities using web scraping.

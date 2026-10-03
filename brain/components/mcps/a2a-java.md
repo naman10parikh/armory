@@ -8,7 +8,7 @@ source_url: https://github.com/vishalmysore/a2ajava
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 109
+stars: 108
 eval_score: null
 verified_at: 2026-05-28
 related: []

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-15T21:11:46Z"
+pushed_at: "2026-10-02T20:09:49Z"
 ---
 ## What it is
 Enables LLMs to compose VCV Rack modular synth patches by generating plain JSON, with tools for patch creation, catalog search, and live OSC control.

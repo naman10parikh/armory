@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-02T10:58:02Z"
+pushed_at: "2026-09-29T19:41:03Z"
 ---
 ## What it is
 MCP server `Proxmox VE`, catalogued on PulseMCP. Manage Proxmox VE virtual machines, containers, storage, and clusters.

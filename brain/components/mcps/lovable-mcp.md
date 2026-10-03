@@ -8,13 +8,13 @@ source_url: https://github.com/lovablelabs/mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-07-13T06:26:00Z"
+forks: 6
+pushed_at: "2026-09-27T16:07:59Z"
 ---
 ## What it is
 Official MCP server for Lovable, enabling Claude and other clients to create, edit, deploy, and manage Lovable projects through natural language.

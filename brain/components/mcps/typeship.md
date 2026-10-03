@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T05:08:29Z"
+pushed_at: "2026-10-01T00:28:31Z"
 ---
 ## What it is
 Enables MCP clients to invoke every typeship API operation as a tool, with spec-derived input schemas, argument validation, read-only mode, and selective tool exposure.

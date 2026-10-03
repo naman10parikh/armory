@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2025-07-16T11:24:04Z"
+pushed_at: "2026-09-27T14:37:07Z"
 ---
 ## What it is
 MCP server `Key-Value Extractor`, catalogued on PulseMCP. Extracts structured key-value pairs from unstructured text using a multi-step pipeline that performs language detection, entity recognition, and type validation for applications requiring information extraction from messy sources like emails or receipts.

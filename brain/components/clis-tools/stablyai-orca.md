@@ -8,14 +8,14 @@ source_url: https://github.com/stablyai/orca
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 78783
+stars: 84138
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 5153
-pushed_at: "2026-09-26T10:59:38Z"
+forks: 5424
+pushed_at: "2026-10-03T12:11:26Z"
 ---
 ## What it is
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.

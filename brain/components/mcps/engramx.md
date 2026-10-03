@@ -8,12 +8,12 @@ source_url: https://github.com/NickCirv/engram
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 142
+stars: 141
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
+forks: 14
 pushed_at: "2026-09-22T13:18:37Z"
 ---
 ## What it is

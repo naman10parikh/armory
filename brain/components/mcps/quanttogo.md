@@ -12,8 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-09-21T15:26:25Z"
+forks: 3
+pushed_at: "2026-09-28T17:08:11Z"
 ---
 ## What it is
 MCP server `QuantToGo`, catalogued on PulseMCP. Macro-factor quantitative trading signal source with live strategy performance data and AI-native signal delivery.

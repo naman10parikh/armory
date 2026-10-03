@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-29T11:33:59Z"
+pushed_at: "2026-09-04T12:42:30Z"
 ---
 ## What it is
 MCP server `Plagiarism Checker AI`, catalogued on PulseMCP. Python MCP server for plagiarism detection and content originality analysis.

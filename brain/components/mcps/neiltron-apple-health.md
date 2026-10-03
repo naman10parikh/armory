@@ -8,12 +8,12 @@ source_url: https://github.com/neiltron/apple-health-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 568
+stars: 570
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 23
-pushed_at: "2026-09-20T04:53:36Z"
+forks: 24
+pushed_at: "2026-10-02T03:55:25Z"
 ---
 ## What it is
 MCP server `Apple Health`, catalogued on PulseMCP. Reads directly from Apple Health's SQLite database to provide access to personal health metrics including steps, heart rate, sleep patterns, and workout data for health trend analysis and fitness insights.

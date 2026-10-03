@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-16T21:46:46Z"
+pushed_at: "2026-10-01T21:52:15Z"
 ---
 ## What it is
 Exposes Burp Suite operations through a local authenticated HTTP server and an MCP stdio bridge, enabling tools like burp_proxy_history via MCP.

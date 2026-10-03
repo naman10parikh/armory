@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-25T03:23:58Z"
+pushed_at: "2026-09-29T21:27:30Z"
 ---
 ## What it is
 MCP server `AgentPay`, catalogued on PulseMCP. Portable payment, identity, approval, and execution control plane for AI agents.

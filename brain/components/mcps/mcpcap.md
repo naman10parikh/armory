@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-07-16T20:09:57Z"
+pushed_at: "2026-09-30T01:45:31Z"
 ---
 ## What it is
 A modular Python MCP server for analyzing PCAP files. It provides stateless tools for DNS, DHCP, ICMP, TCP, SIP, and capture info analysis, supporting local files and remote URLs.

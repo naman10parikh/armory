@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-12T11:00:20Z"
+pushed_at: "2026-09-29T04:27:38Z"
 ---
 ## What it is
 MCP server `OmniGlyph`, catalogued on PulseMCP. Local Unicode lookup and symbol linting for resolving and validating code symbols offline.

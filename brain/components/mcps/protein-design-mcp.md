@@ -8,13 +8,13 @@ source_url: https://github.com/jasonkim8652/protein-design-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-25T16:55:15Z"
+pushed_at: "2026-10-01T20:49:46Z"
 ---
 ## What it is
 An MCP server that gives LLM agents access to computational protein design tools.

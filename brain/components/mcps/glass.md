@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T22:00:00Z"
+pushed_at: "2026-09-29T18:56:45Z"
 ---
 ## What it is
 Build -> See -> Interact -> Debug over native GUI apps.

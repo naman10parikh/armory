@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-24T16:05:57Z"
+pushed_at: "2026-10-03T02:37:17Z"
 ---
 ## What it is
 An AI business analyst for your Odoo ERP. Ask one question, get one answer — numbers, highlights, risks, and a verdict (on-track / at-risk / off-track) — over the Model Context Protocol. CRUD bridges to Odoo already exist; this is the analytics layer that sits on top.

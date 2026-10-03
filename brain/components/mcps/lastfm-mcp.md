@@ -8,13 +8,13 @@ source_url: https://github.com/rianvdm/lastfm-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 48
+stars: 49
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-08-28T23:18:04Z"
+pushed_at: "2026-09-30T15:42:56Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Last.fm. Gives AI assistants access to your listening history, music discovery, and detailed track/artist/album information.

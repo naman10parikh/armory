@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-29T08:34:29Z"
+pushed_at: "2026-09-04T12:40:23Z"
 ---
 ## What it is
 MCP server `Lead Scoring AI`, catalogued on PulseMCP. Python MCP server for sales lead scoring and qualification.

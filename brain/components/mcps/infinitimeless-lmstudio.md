@@ -8,11 +8,11 @@ source_url: https://github.com/infinitimeless/lmstudio-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 169
+stars: 171
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 33
+forks: 32
 pushed_at: "2026-04-10T22:07:02Z"
 ---
 ## What it is

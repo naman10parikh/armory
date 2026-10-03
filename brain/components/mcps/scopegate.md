@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-14T08:58:10Z"
+pushed_at: "2026-10-01T02:53:46Z"
 ---
 ## What it is
 MCP server `ScopeGate`, catalogued on PulseMCP. Granular permission gateway for MCP agents with per-agent scopes for Google Drive, Gmail, and Calendar.

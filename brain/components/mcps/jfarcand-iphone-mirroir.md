@@ -8,12 +8,12 @@ source_url: https://github.com/jfarcand/mirroir-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 227
+stars: 242
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 33
-pushed_at: "2026-09-24T19:04:50Z"
+pushed_at: "2026-09-30T02:26:37Z"
 ---
 ## What it is
 MCP server `iPhone Mirroir`, catalogued on PulseMCP. Controls a real iPhone through macOS iPhone Mirroring with screenshot, tap, swipe, type, and OCR capabilities.

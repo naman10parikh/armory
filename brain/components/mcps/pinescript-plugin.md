@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T14:39:44Z"
+pushed_at: "2026-10-02T08:36:12Z"
 ---
 ## What it is
 Provides Pine Script v6 validation and reference lookup for coding agents, enabling them to write correct TradingView indicators with real-time diagnostics and function signatures.

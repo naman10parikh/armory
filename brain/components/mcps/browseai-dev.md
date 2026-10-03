@@ -12,8 +12,8 @@ stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-09-20T09:16:27Z"
+forks: 8
+pushed_at: "2026-09-27T09:25:18Z"
 ---
 ## What it is
 MCP server `BrowseAI Dev`, catalogued on PulseMCP. Research infrastructure for agents providing real-time web search, evidence extraction, and structured citations with confidence scoring.

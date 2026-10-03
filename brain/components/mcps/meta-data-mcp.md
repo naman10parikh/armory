@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-20T02:15:14Z"
+pushed_at: "2026-10-02T14:39:16Z"
 ---
 ## What it is
 A single MCP server that transparently routes user requests to 83 open-data sources with built-in discovery and autonomous plugin creation.

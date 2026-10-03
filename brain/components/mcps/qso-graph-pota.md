@@ -8,12 +8,12 @@ source_url: https://github.com/qso-graph/pota-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-15T21:32:07Z"
+pushed_at: "2026-09-28T22:14:54Z"
 ---
 ## What it is
 MCP server `Parks on the Air`, catalogued on PulseMCP. Live activator spots, park info, activator/hunter stats, and scheduled activations.

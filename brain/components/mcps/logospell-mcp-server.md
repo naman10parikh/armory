@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T23:47:30Z"
+pushed_at: "2026-10-02T22:15:23Z"
 ---
 ## What it is
 AI-agent image generation: cohesive image sets and single illustrations over MCP. PNG/WebP (optional transparency) or JPEG.

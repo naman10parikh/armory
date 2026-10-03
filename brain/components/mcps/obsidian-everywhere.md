@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-21T06:45:52Z"
+forks: 4
+pushed_at: "2026-09-28T06:45:57Z"
 ---
 ## What it is
 Enables Claude clients to interact with an Obsidian vault as a knowledge graph, supporting full-text search, backlink traversal, neighborhood exploration, and note creation/append.

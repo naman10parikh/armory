@@ -8,12 +8,12 @@ source_url: https://github.com/ibm/ibmi-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 82
+stars: 85
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 38
-pushed_at: "2026-09-22T19:08:41Z"
+forks: 39
+pushed_at: "2026-10-01T02:51:04Z"
 ---
 ## What it is
 MCP server `IBM i`, catalogued on PulseMCP. Provides direct access to IBM i (AS/400) systems through SQL-based tools and database operations with security validation, connection pooling, and specialized monitoring capabilities for system administration and performance analysis.

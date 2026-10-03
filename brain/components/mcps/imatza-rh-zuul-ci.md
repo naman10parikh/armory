@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-09-26T08:08:42Z"
+pushed_at: "2026-10-03T08:08:33Z"
 ---
 ## What it is
 MCP server `Zuul CI by imatza-rh`, catalogued on PulseMCP. Zuul CI build failure analysis, log search, pipeline status monitoring, and job configuration inspection.

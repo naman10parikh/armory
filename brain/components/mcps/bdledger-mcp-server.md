@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T00:35:20Z"
+pushed_at: "2026-09-30T04:58:44Z"
 ---
 ## What it is
 Enables querying of Korean building ledger information including property details, floor plans, and pricing via natural language.

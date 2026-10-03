@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T22:59:13Z"
+pushed_at: "2026-09-26T21:10:16Z"
 ---
 ## What it is
 Enables AI assistants to fully automate n8n instances via 34 MCP tools, covering workflow creation, execution debugging, credential management, environment variables, tags, and user administration through natural language.

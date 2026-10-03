@@ -8,13 +8,13 @@ source_url: https://github.com/NORTHTEKDevs/genome
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-04T05:55:30Z"
+forks: 4
+pushed_at: "2026-10-01T20:57:32Z"
 ---
 ## What it is
 A local, offline memory server for AI agents that stores and retrieves memories without LLM calls, enabling persistent cross-session memory with bi-temporal querying and auditable records.

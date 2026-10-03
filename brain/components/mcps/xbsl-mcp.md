@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-25T17:26:52Z"
+pushed_at: "2026-10-03T09:19:53Z"
 ---
 ## What it is
 Enables AI agents to lint, search documentation, and perform metadata scaffolding for 1C:Element projects.

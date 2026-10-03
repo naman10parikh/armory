@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T11:02:01Z"
+pushed_at: "2026-09-30T02:10:35Z"
 ---
 ## What it is
 An MCP server that exposes a single tool to retrieve Wikipedia articles from local multistream dump files, offering fast offline access with redirect following and fuzzy matching.

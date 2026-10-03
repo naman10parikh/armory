@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-24T13:31:14Z"
+pushed_at: "2026-10-02T21:11:13Z"
 ---
 ## What it is
 A read-only MCP server for exploratory data analysis across PostgreSQL, MySQL, and ClickHouse databases, providing safe, read-only access with comprehensive analysis capabilities.

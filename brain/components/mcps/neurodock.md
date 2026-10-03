@@ -8,7 +8,7 @@ source_url: https://github.com/tlennon-ie/neurodock
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []

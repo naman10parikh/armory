@@ -8,13 +8,13 @@ source_url: https://github.com/pipeworx-io/mcp-ygoprodeck
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T03:21:04Z"
+pushed_at: "2026-09-26T22:27:59Z"
 ---
 ## What it is
 Enables querying Yu-Gi-Oh! TCG card data, such as card information, sets, and prices, through natural language.

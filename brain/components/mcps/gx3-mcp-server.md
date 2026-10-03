@@ -8,13 +8,13 @@ source_url: https://github.com/purinzan/gx3-cli-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-19T16:45:40Z"
+pushed_at: "2026-09-26T20:39:53Z"
 ---
 ## What it is
 Provides read-only analysis of Mitsubishi GX Works3 PLC projects via MCP, enabling device tracing, cross-referencing, ladder inspection, linting, and report generation without modifying source projects.

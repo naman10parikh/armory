@@ -8,13 +8,13 @@ source_url: https://github.com/t4god/youtube-creator-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T23:53:25Z"
+pushed_at: "2026-09-29T07:15:15Z"
 ---
 ## What it is
 A local, privacy-first MCP server providing direct access to official YouTube Data, Analytics, Reporting, and Live Streaming APIs for creators, enabling channel analysis, research, and guarded management operations.

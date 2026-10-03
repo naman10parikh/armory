@@ -8,13 +8,13 @@ source_url: https://github.com/MiiKiyoshi/tex-mcp-web
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T12:47:18Z"
+pushed_at: "2026-10-03T01:49:14Z"
 ---
 ## What it is
 MCP server for agentic-first PDF review of LaTeX papers, enabling commenting, compiling, and visual inspection via Claude Code.

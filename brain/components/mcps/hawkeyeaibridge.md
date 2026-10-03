@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T18:37:18Z"
+pushed_at: "2026-09-28T13:46:46Z"
 ---
 ## What it is
 MCP server for fast local code & content search powered by Hawkeye. Enables AI assistants to search indexed codebases & assets with natural language queries.

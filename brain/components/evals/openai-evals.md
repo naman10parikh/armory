@@ -8,12 +8,12 @@ source_url: https://github.com/openai/evals
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 19509
+stars: 19548
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, registry, benchmark]
-forks: 3093
+forks: 3102
 pushed_at: "2026-04-14T15:29:57Z"
 ---
 ## What it is

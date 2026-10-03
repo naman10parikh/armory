@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T02:47:17Z"
+pushed_at: "2026-10-01T03:17:33Z"
 ---
 ## What it is
 MCP server `EDITION Japan Business`, catalogued on PulseMCP. MCP server providing AI agents access to a Japanese business intelligence platform with semantic memory, regulatory checking, and keigo analysis.

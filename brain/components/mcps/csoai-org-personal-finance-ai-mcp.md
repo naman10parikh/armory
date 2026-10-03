@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-26T05:40:00Z"
+pushed_at: "2026-09-04T12:42:25Z"
 ---
 ## What it is
 MCP server `Personal Finance AI`, catalogued on PulseMCP. Python MCP server for personal finance management and analysis tools.

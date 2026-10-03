@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-26T06:39:43Z"
+pushed_at: "2026-09-29T22:15:06Z"
 ---
 ## What it is
 MCP server `SkillNet`, catalogued on PulseMCP. Searches, downloads, and manages AI agent skills from the SkillNet community library.

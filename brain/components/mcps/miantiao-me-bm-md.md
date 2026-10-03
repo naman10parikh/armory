@@ -12,8 +12,8 @@ stars: 618
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 76
-pushed_at: "2026-09-15T05:38:34Z"
+forks: 75
+pushed_at: "2026-09-29T12:55:48Z"
 ---
 ## What it is
 MCP server `bm.md`, catalogued on PulseMCP. Markdown processing server with tools for rendering, linting, parsing, and text extraction, optimized for Chinese publishing platforms like WeChat, Zhihu, and Juejin.

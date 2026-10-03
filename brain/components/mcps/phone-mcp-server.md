@@ -8,13 +8,13 @@ source_url: https://github.com/Ctrl-Creeper/phone-mcp-server
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T11:44:52Z"
+pushed_at: "2026-09-30T02:38:13Z"
 ---
 ## What it is
 Enables AI agents to control Android phones via MCP and HTTP. Supports screen capture, taps, swipes, text input, and app management.

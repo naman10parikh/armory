@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T01:20:58Z"
+pushed_at: "2026-09-27T21:16:09Z"
 ---
 ## What it is
 Connects AI assistants to Odoo 19.0, enabling full CRUD operations and method calls on any Odoo model via API key or username/password authentication.

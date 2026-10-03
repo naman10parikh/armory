@@ -8,11 +8,11 @@ source_url: https://github.com/lispking/ferris-search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 17
 pushed_at: "2026-04-06T22:51:05Z"
 ---
 ## What it is

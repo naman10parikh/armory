@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T19:09:07Z"
+pushed_at: "2026-09-28T19:47:20Z"
 ---
 ## What it is
 Lets AI agents turn HTML into images, offering free live preview links and optional hosted PNG generation, reusable templates, and template management via the oJo API.

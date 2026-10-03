@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T11:24:16Z"
+pushed_at: "2026-10-01T13:23:38Z"
 ---
 ## What it is
 MCP server that searches Japanese addresses and returns their locations as polygons or points using the open 住所LOD dataset, enabling geocoding, reverse geocoding, batch GeoJSON export, and map visualization.

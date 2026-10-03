@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T09:04:59Z"
+pushed_at: "2026-09-29T07:48:00Z"
 ---
 ## What it is
 Gives AI assistants a read-only tool to match a user's task or buyer need to verified Lumi Studio iOS apps across 29 apps and all 50 Apple locales, returning localized context, purchase model, guide, and direct App Store links. Supports interactive localized cards via the MCP Apps extension and incl

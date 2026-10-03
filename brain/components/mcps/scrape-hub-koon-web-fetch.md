@@ -12,8 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-08-18T20:59:18Z"
+forks: 4
+pushed_at: "2026-09-30T12:33:44Z"
 ---
 ## What it is
 MCP server `Koon Web Fetch`, catalogued on PulseMCP. Browser-impersonating web fetch that bypasses bot detection using Rust and BoringSSL.

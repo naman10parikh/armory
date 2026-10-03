@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-03T21:56:43Z"
+pushed_at: "2026-09-29T08:17:21Z"
 ---
 ## What it is
 Enables managing self-hosted WordPress sites via AI assistants, providing 69 tools for content creation, SEO, media, comments, and site management through the MCP protocol.

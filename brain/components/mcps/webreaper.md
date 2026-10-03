@@ -8,13 +8,13 @@ source_url: https://github.com/alex-on-ai/WebReaper
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 148
+stars: 149
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 33
-pushed_at: "2026-09-26T09:28:28Z"
+pushed_at: "2026-09-30T05:49:58Z"
 ---
 ## What it is
 AI-native web scraper: scrape, crawl and map any site to clean markdown over stdio. MIT-licensed.

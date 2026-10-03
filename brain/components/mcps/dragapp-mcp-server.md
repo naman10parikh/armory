@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-17T22:18:38Z"
+pushed_at: "2026-10-01T17:41:49Z"
 ---
 ## What it is
 MCP server for Gmail shared inboxes and WhatsApp — read, reply, search, and organize your team's email from Claude, ChatGPT, or Cursor. 47 tools covering email threads, WhatsApp messaging, boards, contacts, knowledge base, analytics, and automations.

@@ -13,8 +13,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 176
-pushed_at: "2025-12-30T20:05:49Z"
+forks: 175
+pushed_at: "2026-10-02T18:38:46Z"
 ---
 ## What it is
 MCP server `Supermemory`, catalogued on PulseMCP. Personal knowledge platform that helps collect, organize, and recall information from various sources with end-to-end encryption and optional self-hosting.

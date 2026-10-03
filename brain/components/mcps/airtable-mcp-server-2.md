@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T15:06:55Z"
+pushed_at: "2026-10-01T16:22:02Z"
 ---
 ## What it is
 Enables AI-powered interaction with Airtable bases, supporting CRUD operations, schema management, webhooks, and natural language queries through the MCP protocol.

@@ -8,13 +8,13 @@ source_url: https://github.com/pipeworx-io/mcp-mediastack
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T00:57:51Z"
+pushed_at: "2026-09-26T19:40:41Z"
 ---
 ## What it is
 Provides access to live news and media data via the Mediastack API, enabling queries for articles, sources, and categories through natural language or direct tool calls.

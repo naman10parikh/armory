@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 57
 forks: 12
-pushed_at: "2026-09-25T23:16:34Z"
+pushed_at: "2026-09-30T22:38:04Z"
 ---
 ## What it is
 Deep code indexing MCP server with SQLite FTS5, tree-sitter, and embeddings. 29 tools for symbol search, call graphs, git intelligence, and hybrid semantic search.

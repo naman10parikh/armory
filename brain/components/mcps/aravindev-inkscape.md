@@ -8,11 +8,11 @@ source_url: https://github.com/aravindev/inkscape_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 10
 pushed_at: "2026-09-14T06:12:42Z"
 ---
 ## What it is

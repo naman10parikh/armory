@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-11T10:05:11Z"
+pushed_at: "2026-10-02T15:34:26Z"
 ---
 ## What it is
 An MCP server that gives agents safe, policy-scoped access to your database via structured queries (never raw SQL), with read and opt-in write support.

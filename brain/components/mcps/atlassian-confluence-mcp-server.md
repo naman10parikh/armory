@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-23T18:43:37Z"
+forks: 4
+pushed_at: "2026-09-29T11:48:35Z"
 ---
 ## What it is
 An open-source MCP server that lets AI assistants read, create, search, and manage Confluence wiki pages. Supports Cloud, Server, and Data Center deployments with 28 tools.

@@ -8,12 +8,12 @@ source_url: https://github.com/jameshenning/PlaudNotes
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
+forks: 15
 pushed_at: "2026-05-19T03:34:18Z"
 ---
 ## What it is

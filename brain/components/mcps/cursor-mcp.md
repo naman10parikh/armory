@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T20:38:37Z"
+pushed_at: "2026-10-02T12:33:32Z"
 ---
 ## What it is
 A FastMCP server for Cursor platform APIs enabling spend guardrails, cloud agent monitoring, and inter-agent inbox messaging.

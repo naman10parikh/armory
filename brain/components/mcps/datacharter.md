@@ -8,13 +8,13 @@ source_url: https://github.com/datacharter/datacharter
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-16T03:55:45Z"
+pushed_at: "2026-09-30T03:56:20Z"
 ---
 ## What it is
 Read-only, PII-masked MCP server for querying data federated through DuckDB — list sources/tables, inspect schemas, and run SQL across Postgres, MySQL, SQLite, Snowflake, BigQuery, Excel, and files, governed per source/table/column by a charter.yaml contract. Snowflake, BigQuery, Excel, and files, g

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 1
 forks: 0
-pushed_at: "2026-05-11T20:20:13Z"
+pushed_at: "2026-10-02T15:30:09Z"
 ---
 ## What it is
 Personal document vault on Azure Blob Storage with a built-in MCP server. Client-side AES-256-GCM zero-knowledge encryption: encrypted docs stay opaque to Claude, plaintext docs are fully readable, writable, and searchable from chat.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-09-24T08:46:18Z"
+pushed_at: "2026-10-01T11:44:06Z"
 ---
 ## What it is
 MCP server `Saleor Commerce`, catalogued on PulseMCP. Interact with the Saleor Commerce platform to fetch information about products, orders and customers.

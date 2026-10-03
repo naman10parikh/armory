@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T02:42:34Z"
+pushed_at: "2026-10-03T10:27:42Z"
 ---
 ## What it is
 A household knowledge base MCP server that stores family information like warranties and school letters, allowing Claude to search and register data through tools.

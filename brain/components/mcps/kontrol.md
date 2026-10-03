@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T22:14:54Z"
+pushed_at: "2026-10-02T03:45:27Z"
 ---
 ## What it is
 A self-hosted MCP server that enables AI coding agents to read, edit, search, and run code in local projects with human review loops and policy controls.

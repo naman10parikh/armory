@@ -8,11 +8,11 @@ source_url: https://github.com/nloui/paperless-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 236
+stars: 238
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 80
+forks: 82
 pushed_at: "2025-11-11T04:09:12Z"
 ---
 ## What it is

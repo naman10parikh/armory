@@ -8,12 +8,12 @@ source_url: https://github.com/HQBase/hqbase
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 330
+stars: 335
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 38
+forks: 37
 pushed_at: "2026-09-12T16:15:02Z"
 ---
 ## What it is

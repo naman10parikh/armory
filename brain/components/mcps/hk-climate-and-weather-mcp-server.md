@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-10T13:12:17Z"
+pushed_at: "2026-10-02T16:25:41Z"
 ---
 ## What it is
 Provides access to Hong Kong climate and weather data from the Hong Kong Observatory, including current conditions, forecasts, warnings, tides, and more.

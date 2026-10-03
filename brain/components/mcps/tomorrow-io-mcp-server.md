@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T02:45:42Z"
+pushed_at: "2026-09-26T21:59:19Z"
 ---
 ## What it is
 Wraps the Tomorrow.io Weather API to provide weather data, allowing AI agents to query forecasts and historical conditions via natural language.

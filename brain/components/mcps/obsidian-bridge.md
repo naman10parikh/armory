@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T12:13:38Z"
+pushed_at: "2026-10-01T12:13:36Z"
 ---
 ## What it is
 Connects Codex and compatible ChatGPT desktop plugin hosts to local Obsidian vaults for search, reading, and optional note creation/appending.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T03:32:46Z"
+pushed_at: "2026-09-30T15:06:32Z"
 ---
 ## What it is
 MCP server for PullPush.ai integration sync engine, providing 43 tools to manage connectors, flows, sync operations, diagnostics, and more through the Model Context Protocol.

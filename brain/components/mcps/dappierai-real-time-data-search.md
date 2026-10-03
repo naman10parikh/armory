@@ -8,11 +8,11 @@ source_url: https://github.com/dappierai/dappier-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 16
 pushed_at: "2025-06-27T08:49:05Z"
 ---
 ## What it is

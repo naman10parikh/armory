@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-26T16:05:06Z"
+pushed_at: "2026-09-29T16:34:55Z"
 ---
 ## What it is
 MCP server `PTXPrint`, catalogued on PulseMCP. Drives SIL Global's PTXPrint typesetting engine headlessly to generate publication-quality Bible PDFs via Cloudflare Workers.

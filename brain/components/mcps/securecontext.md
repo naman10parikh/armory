@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-19T01:35:39Z"
+pushed_at: "2026-10-02T19:29:50Z"
 ---
 ## What it is
 Provides persistent memory, cryptographic audit trail, and HMAC-verified skill admission for Claude Code, running locally on PostgreSQL with zero cloud sync.

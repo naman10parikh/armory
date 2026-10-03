@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-23T21:24:39Z"
+pushed_at: "2026-09-30T21:25:03Z"
 ---
 ## What it is
 Proxies MCP protocol to JSON-RPC for 1C:Enterprise IT management system, enabling AI agents to manage tasks, projects, knowledge base, and files.

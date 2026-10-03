@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-12T15:23:39Z"
+pushed_at: "2026-10-02T05:27:53Z"
 ---
 ## What it is
 Enables deploying static sites and dynamic applications with HTTPS URLs, supporting Node.js, Python, and any language via custom install and launch scripts.

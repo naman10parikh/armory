@@ -8,12 +8,12 @@ source_url: https://github.com/browserstack/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 152
+stars: 151
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 54
-pushed_at: "2026-09-25T15:12:00Z"
+forks: 55
+pushed_at: "2026-10-01T02:52:30Z"
 ---
 ## What it is
 MCP server `BrowserStack`, catalogued on PulseMCP. Integrates with BrowserStack's testing infrastructure to enable automated and manual testing across browsers, devices, and platforms for debugging cross-browser issues and verifying mobile app functionality.

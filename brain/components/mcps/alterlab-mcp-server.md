@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-04T07:13:46Z"
+pushed_at: "2026-09-30T11:11:41Z"
 ---
 ## What it is
 Enables web scraping, structured data extraction, and screenshot capture with automatic anti-bot bypass, supporting JavaScript rendering, proxy rotation, and tiered pricing.

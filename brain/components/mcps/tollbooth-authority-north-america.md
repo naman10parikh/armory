@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T23:30:46Z"
+pushed_at: "2026-09-29T23:13:44Z"
 ---
 ## What it is
 MCP server for the DPYC ecosystem that certifies North American operators using the Lightning network, enabling regional certification and audit trails with low latency.

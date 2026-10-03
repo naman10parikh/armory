@@ -8,12 +8,12 @@ source_url: https://github.com/stumason/coolify-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 603
+stars: 608
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 93
-pushed_at: "2026-09-25T05:08:14Z"
+forks: 94
+pushed_at: "2026-10-02T15:24:05Z"
 ---
 ## What it is
 MCP server `Coolify`, catalogued on PulseMCP. Integrates with Coolify to enable natural language management of servers, projects, applications, and databases through the Coolify API, allowing users to perform DevOps operations without leaving their conversation interface.

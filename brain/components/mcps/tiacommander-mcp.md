@@ -8,12 +8,12 @@ source_url: https://github.com/a4webdev/tiacommander-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 39
+stars: 41
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-09-07T12:38:50Z"
 ---
 ## What it is

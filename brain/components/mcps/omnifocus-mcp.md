@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-25T13:24:34Z"
+pushed_at: "2026-10-03T01:03:38Z"
 ---
 ## What it is
 Enables AI assistants to read and write to OmniFocus database, allowing natural language task management, project creation, and GTD workflows.

@@ -8,12 +8,12 @@ source_url: https://github.com/paddlehq/paddle-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 51
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-06-01T09:55:43Z"
+pushed_at: "2026-09-27T12:36:39Z"
 ---
 ## What it is
 MCP server `Paddle Billing`, catalogued on PulseMCP. Enables developers to manage billing operations using natural language commands, streamlining financial API interactions for SaaS businesses.

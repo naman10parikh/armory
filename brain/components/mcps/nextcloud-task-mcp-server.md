@@ -8,13 +8,13 @@ source_url: https://github.com/Vando-sketch/NextCloudTaskMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T13:17:33Z"
+pushed_at: "2026-10-02T06:00:28Z"
 ---
 ## What it is
 Enables managing Nextcloud tasks through natural language, including creating, updating, completing, and deleting tasks.

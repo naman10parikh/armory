@@ -13,7 +13,7 @@ related: []
 tags: [mcp, security]
 stars: 14
 forks: 8
-pushed_at: "2026-09-23T05:50:34Z"
+pushed_at: "2026-10-02T20:26:34Z"
 ---
 ## What it is
 Security-first MCP governance proxy (`sint-mcp`) with capability tokens, T0-T3 approval tiers, fail-closed execution, and tamper-evident audit receipts. Includes a separate `sint-scan` CLI for preflight MCP tool-risk audits.

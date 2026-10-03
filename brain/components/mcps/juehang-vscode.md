@@ -8,11 +8,11 @@ source_url: https://github.com/juehang/vscode-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 394
+stars: 395
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 81
+forks: 85
 pushed_at: "2026-01-07T15:40:49Z"
 ---
 ## What it is

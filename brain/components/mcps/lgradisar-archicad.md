@@ -8,12 +8,12 @@ source_url: https://github.com/lgradisar/archicad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2025-08-26T10:35:57Z"
+pushed_at: "2026-09-30T13:27:27Z"
 ---
 ## What it is
 MCP server `ArchiCAD`, catalogued on PulseMCP. Integrates with ArchiCAD's Tapir command system to enable architectural modeling operations, element manipulation, and project management tasks within CAD workflows.

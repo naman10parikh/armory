@@ -8,7 +8,7 @@ source_url: https://github.com/postrv/forgemax
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 151
+stars: 153
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

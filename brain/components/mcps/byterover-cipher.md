@@ -8,7 +8,7 @@ source_url: https://github.com/campfirein/byterover-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4966
+stars: 4959
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

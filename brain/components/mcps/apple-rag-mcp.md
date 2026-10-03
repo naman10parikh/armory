@@ -8,13 +8,13 @@ source_url: https://github.com/BingoWon/apple-rag-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 119
+stars: 120
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-09-15T07:48:12Z"
+pushed_at: "2026-10-03T04:29:54Z"
 ---
 ## What it is
 Provides access to Apple documentation and WWDC transcripts with semantic, keyword, and hybrid search capabilities, enabling developers to quickly find relevant code examples and technical information.

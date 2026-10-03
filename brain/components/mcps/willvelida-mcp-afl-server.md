@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, sports]
-stars: 17
+stars: 18
 forks: 6
 pushed_at: "2025-11-24T13:34:27Z"
 ---

@@ -8,12 +8,12 @@ source_url: https://github.com/frappe/mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 167
+stars: 168
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 54
+forks: 60
 pushed_at: "2026-05-29T08:46:55Z"
 ---
 ## What it is

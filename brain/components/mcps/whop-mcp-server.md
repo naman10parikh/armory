@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-21T23:26:33Z"
+pushed_at: "2026-09-30T18:13:21Z"
 ---
 ## What it is
 Official hosted MCP server for Whop, enabling AI clients to manage Whop businesses and resources via OAuth with prepare-and-confirm safeguards.

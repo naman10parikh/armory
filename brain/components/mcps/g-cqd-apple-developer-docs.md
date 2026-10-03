@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-21T06:36:00Z"
+pushed_at: "2026-10-01T10:32:31Z"
 ---
 ## What it is
 MCP server `Apple Developer Docs`, catalogued on PulseMCP. Full-text search and browsing across 330,000+ Apple developer documentation pages with BM25 ranking and incremental sync.

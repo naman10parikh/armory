@@ -8,12 +8,12 @@ source_url: https://github.com/mukul975/cve-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1587
+stars: 1610
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 261
-pushed_at: "2026-09-18T17:31:17Z"
+forks: 264
+pushed_at: "2026-10-01T07:11:17Z"
 ---
 ## What it is
 MCP server `CVE Security Intelligence`, catalogued on PulseMCP. Security intelligence with 27 tools across 21 sources including NVD, EPSS, VirusTotal, and Shodan.

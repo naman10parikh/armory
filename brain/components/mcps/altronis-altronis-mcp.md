@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T18:50:08Z"
+pushed_at: "2026-09-30T10:24:15Z"
 ---
 ## What it is
 MCP server and CLI for Altronis, providing read-only access to Singapore AI consulting tools including an AI consultant, grant-matched transformation plans, and curated Singapore AI events, news, and ecosystem data.

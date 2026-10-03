@@ -8,12 +8,12 @@ source_url: https://github.com/oraios/serena
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29823
+stars: 29955
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2031
-pushed_at: "2026-09-24T08:57:40Z"
+forks: 2041
+pushed_at: "2026-09-30T21:03:51Z"
 ---
 ## What it is
 MCP server `Serena`, catalogued on PulseMCP. Provides intelligent code analysis and manipulation across multiple programming languages through language server protocols, enabling developers to explore, understand, and refactor complex codebases.

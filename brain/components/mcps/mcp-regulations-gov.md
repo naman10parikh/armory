@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T02:07:00Z"
+pushed_at: "2026-09-26T21:17:49Z"
 ---
 ## What it is
 Enables access to federal regulatory dockets, documents, and public comments from Regulations.gov via tools like get_docket and get_comment.

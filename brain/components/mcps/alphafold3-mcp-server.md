@@ -8,13 +8,13 @@ source_url: https://github.com/MacromNex/alphafold3_mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-12T08:28:54Z"
+pushed_at: "2026-09-27T08:15:54Z"
 ---
 ## What it is
 Enables AI-powered protein structure prediction and variant analysis via Docker, with tools for submitting predictions, batch processing variants, and monitoring jobs.

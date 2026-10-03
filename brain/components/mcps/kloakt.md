@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T14:20:56Z"
+pushed_at: "2026-09-26T21:25:23Z"
 ---
 ## What it is
 A lightweight, stealthy headless browser for AI agents, providing MCP tools for web extraction, interaction, and snapshotting.

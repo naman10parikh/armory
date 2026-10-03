@@ -8,13 +8,13 @@ source_url: https://github.com/covalschi/dayz-agentic-modding-mcp
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-19T20:26:45Z"
+pushed_at: "2026-09-27T15:50:34Z"
 ---
 ## What it is
 MCP server that enables an agent to autonomously build, compile-check, test, and debug DayZ mods, integrating with the running game via a server bridge and providing structured verdicts, world manipulation, client control, and API knowledge indexing.

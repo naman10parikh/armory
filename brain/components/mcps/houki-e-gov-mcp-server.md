@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T01:02:30Z"
+pushed_at: "2026-10-03T04:14:07Z"
 ---
 ## What it is
 Enables LLMs to search and retrieve Japanese laws from the e-Gov API v2, including keyword search, article fetching, table of contents, and revision history.

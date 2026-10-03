@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T01:24:23Z"
+pushed_at: "2026-09-26T20:10:47Z"
 ---
 ## What it is
 Enables querying Open Beauty Facts product data through natural language, using the Pipeworx MCP gateway.

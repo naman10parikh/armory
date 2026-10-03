@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T00:07:43Z"
+pushed_at: "2026-09-30T05:17:52Z"
 ---
 ## What it is
 RiskModels decomposes any US stock or portfolio into market, sector, subsector, and residual risk components with executable ETF hedge ratios — enabling portfolio managers to understand risk exposure and construct precise hedges programmatically.

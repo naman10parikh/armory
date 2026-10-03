@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, biology-medicine-and-bioinformatics]
-stars: 31
+stars: 32
 forks: 9
 pushed_at: "2025-10-27T14:48:14Z"
 ---

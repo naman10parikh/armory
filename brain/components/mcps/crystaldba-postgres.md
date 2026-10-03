@@ -8,7 +8,7 @@ source_url: https://github.com/crystaldba/postgres-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3342
+stars: 3365
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

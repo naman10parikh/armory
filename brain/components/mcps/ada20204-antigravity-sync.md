@@ -12,8 +12,8 @@ stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-07-06T02:46:53Z"
+forks: 7
+pushed_at: "2026-09-28T03:58:52Z"
 ---
 ## What it is
 MCP server `Antigravity Sync`, catalogued on PulseMCP. Bridges external coding agents to the Antigravity IDE through Chrome DevTools Protocol for cross-environment AI-assisted development.

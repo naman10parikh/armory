@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-19T05:34:09Z"
+pushed_at: "2026-09-29T13:21:28Z"
 ---
 ## What it is
 Marketplace plugin enabling Claude Code to discover, hire, monitor, and retrieve results from remote agents via Agrenting, with scoped API keys and secure escrow payments.

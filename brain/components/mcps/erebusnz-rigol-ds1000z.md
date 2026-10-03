@@ -8,11 +8,11 @@ source_url: https://github.com/erebusnz/rigol-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 13
 pushed_at: "2026-07-19T03:06:08Z"
 ---
 ## What it is

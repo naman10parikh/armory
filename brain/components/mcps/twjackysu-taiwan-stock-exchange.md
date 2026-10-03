@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 47
-pushed_at: "2026-09-12T04:03:52Z"
+pushed_at: "2026-09-30T10:36:53Z"
 ---
 ## What it is
 MCP server `Taiwan Stock Exchange`, catalogued on PulseMCP. Integrates with Taiwan Stock Exchange OpenAPI to provide comprehensive stock market data including company fundamentals, trading patterns, market indices, and valuation metrics for financial analysis and investment research.

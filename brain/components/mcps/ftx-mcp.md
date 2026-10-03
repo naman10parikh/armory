@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-08-25T15:01:38Z"
+pushed_at: "2026-10-01T12:07:59Z"
 ---
 ## What it is
 Talk to your FactoryTalk Optix project. ftx-mcp connects AI tools to FactoryTalk Optix Studio on your Windows machine, so you can build and change HMI screens by describing what you want.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-10T06:33:05Z"
+pushed_at: "2026-10-01T06:42:10Z"
 ---
 ## What it is
 MCP server `Stochastic Thinking`, catalogued on PulseMCP. Implements five stochastic algorithms including Markov Decision Processes, Monte Carlo Tree Search, Multi-Armed Bandit models, Bayesian Optimization, and Hidden Markov Models to enable probabilistic decision-making that breaks out of deterministic patterns for strategic planning, exploration-exploitation balance, and uncertainty-aware optimization in game playing, A/B testing, hyperparameter tuning, and route optimization tasks.

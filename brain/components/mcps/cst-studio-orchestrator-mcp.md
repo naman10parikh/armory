@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-22T04:16:09Z"
+pushed_at: "2026-10-02T08:30:20Z"
 ---
 ## What it is
 Enables AI agents to control CST Studio Suite for 3D electromagnetic simulation, antenna design, and schematic-based field-circuit co-simulation through 177 MCP tools.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T00:59:24Z"
+pushed_at: "2026-09-26T19:42:20Z"
 ---
 ## What it is
 Enables querying Merriam-Webster's Collegiate Dictionary and thesaurus via natural language, providing definitions, synonyms, and related word data.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T19:05:35Z"
+pushed_at: "2026-10-03T11:28:47Z"
 ---
 ## What it is
 Pre-flight scoring for AI agents, returns Accelerate, Fix, or Stop with EUR value range, decision confidence, and pace-layer drag.

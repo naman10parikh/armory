@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T12:30:26Z"
+pushed_at: "2026-09-27T20:41:35Z"
 ---
 ## What it is
 Access football (soccer) data including competitions, matches, standings, and team details via the Football-Data.org API.

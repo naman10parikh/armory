@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T11:02:48Z"
+pushed_at: "2026-10-02T15:32:55Z"
 ---
 ## What it is
 MCP server for the Symbols.app platform, enabling AI coding assistants to search docs, generate components, audit code, manage projects, and deploy via the smbls stack.

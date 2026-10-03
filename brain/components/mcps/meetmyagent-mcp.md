@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T22:57:00Z"
+pushed_at: "2026-09-29T19:12:50Z"
 ---
 ## What it is
 Enables AI assistants to search, browse, and list businesses, services, and products on the MeetMyAgent marketplace.

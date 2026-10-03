@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T02:20:14Z"
+pushed_at: "2026-10-03T12:16:28Z"
 ---
 ## What it is
 Validates electronic invoices (XRechnung, ZUGFeRD, Factur-X, Peppol BIS, etc.) against authority-pinned rules and explains failures.

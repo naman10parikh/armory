@@ -8,12 +8,12 @@ source_url: https://github.com/ComputingVictor/MCP-CENDOJ
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-08-08T10:33:20Z"
 ---
 ## What it is

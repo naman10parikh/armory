@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-09-06T14:36:14Z"
+pushed_at: "2026-09-30T09:20:58Z"
 ---
 ## What it is
 MCP server connecting Claude/Cursor to Codex CLI, enabling code analysis via @ file references, multi-turn conversations, sandboxed edits, and structured change mode.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-26T02:00:13Z"
+pushed_at: "2026-09-28T19:11:59Z"
 ---
 ## What it is
 Time estimation MCP server for AI agents. It provides PERT, COCOMO II, Monte Carlo simulation, sprint forecasting, token-to-time and cost mapping, and schedule-risk tools.

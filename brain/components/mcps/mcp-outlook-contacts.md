@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T01:35:03Z"
+pushed_at: "2026-09-26T20:54:13Z"
 ---
 ## What it is
 MCP server for accessing and managing Microsoft 365 Outlook Contacts, enabling AI agents to retrieve and interact with contact data through natural language.

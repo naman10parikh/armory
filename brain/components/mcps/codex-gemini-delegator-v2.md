@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T01:28:35Z"
+pushed_at: "2026-10-02T06:21:29Z"
 ---
 ## What it is
 An MCP server that lets OpenAI Codex delegate tasks to Google Gemini agents as isolated background workers, with Git worktree isolation, loop detection, and security boundary enforcement.

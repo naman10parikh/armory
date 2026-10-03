@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T11:00:00Z"
+pushed_at: "2026-10-02T02:56:04Z"
 ---
 ## What it is
 MCP server for Anime News Network, enabling search of anime and manga encyclopedia entries, retrieval of details like cast, staff, and episodes, and access to news feeds. No API key or configuration required.

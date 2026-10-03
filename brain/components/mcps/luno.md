@@ -8,12 +8,12 @@ source_url: https://github.com/luno/luno-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-09-26T01:08:33Z"
+pushed_at: "2026-10-01T14:25:33Z"
 ---
 ## What it is
 MCP server `Luno`, catalogued on PulseMCP. Bridges AI systems with the Luno cryptocurrency exchange API for trading operations, market data retrieval, and account management with automatic currency code normalization

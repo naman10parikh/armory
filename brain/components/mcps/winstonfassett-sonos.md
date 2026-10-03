@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2025-05-21T23:22:25Z"
+pushed_at: "2026-09-29T15:04:55Z"
 ---
 ## What it is
 MCP server `Sonos`, catalogued on PulseMCP. Provides a bridge between Sonos audio devices and natural language control, enabling speaker discovery, playback management, volume adjustment, and system configuration through specialized tools for seamless home audio control.

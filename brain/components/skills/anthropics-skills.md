@@ -8,11 +8,11 @@ source_url: https://github.com/anthropics/skills
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 178534
-forks: 21125
+stars: 179479
+forks: 21215
 eval_score: null
 mentions: null
-pushed_at: "2026-09-24T16:20:39Z"
+pushed_at: "2026-09-29T02:20:07Z"
 verified_at: 2026-09-07
 related: []
 tags: [sentinel-feed, skills]

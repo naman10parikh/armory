@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T02:19:59Z"
+pushed_at: "2026-09-26T21:31:19Z"
 ---
 ## What it is
 Provides search volume and keyword difficulty data via DataForSEO Labs, enabling AI agents to perform SEO keyword research through natural language queries.

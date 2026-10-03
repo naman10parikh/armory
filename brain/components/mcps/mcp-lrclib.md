@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T09:44:00Z"
+pushed_at: "2026-10-02T00:29:05Z"
 ---
 ## What it is
 An MCP server that enables searching tracks and fetching lyrics, including time-synced LRC lyrics, from LRCLIB without requiring an API key.

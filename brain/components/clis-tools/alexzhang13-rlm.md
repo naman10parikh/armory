@@ -8,13 +8,13 @@ source_url: https://github.com/alexzhang13/rlm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 5644
+stars: 5657
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 905
+forks: 909
 pushed_at: "2026-09-24T18:34:55Z"
 ---
 ## What it is

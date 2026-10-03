@@ -8,12 +8,12 @@ source_url: https://github.com/kisaragi-mochi/stackchan-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 142
+stars: 149
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 61
-pushed_at: "2026-09-20T07:23:25Z"
+forks: 64
+pushed_at: "2026-10-03T12:13:10Z"
 ---
 ## What it is
 MCP server `StackChan`, catalogued on PulseMCP. Control StackChan ESP32 robot via MCP with 12 tools for head movement, photos, touch sensors, and avatar expressions.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-22T18:20:02Z"
+pushed_at: "2026-10-01T05:21:40Z"
 ---
 ## What it is
 MCP server `iMessage`, catalogued on PulseMCP. Reads macOS iMessage history from the local chat.db for conversation search and analysis.

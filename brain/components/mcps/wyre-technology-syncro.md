@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-21T23:45:34Z"
+pushed_at: "2026-09-28T23:45:06Z"
 ---
 ## What it is
 MCP server `Syncro`, catalogued on PulseMCP. Community MCP integration for Syncro MSP, enabling AI agents to manage customers, tickets, assets, and invoices.

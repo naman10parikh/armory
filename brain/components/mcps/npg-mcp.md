@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T01:04:23Z"
+pushed_at: "2026-10-02T06:20:00Z"
 ---
 ## What it is
 MCP server for NginxProxyGuard that manages proxy hosts, certificates, SSL, security rules, and nginx configuration through 108+ tools.

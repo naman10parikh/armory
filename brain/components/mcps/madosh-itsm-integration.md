@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-10T05:06:30Z"
+pushed_at: "2026-09-26T21:23:38Z"
 ---
 ## What it is
 MCP server `ITSM Integration`, catalogued on PulseMCP. Integrates with multiple IT Service Management systems (ServiceNow, Jira, Zendesk, Ivanti Neurons, and Cherwell) to enable ticket creation, retrieval, updates, assignment, and knowledge base searches through a unified interface.

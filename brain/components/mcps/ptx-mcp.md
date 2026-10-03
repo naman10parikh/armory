@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-22T16:41:26Z"
+pushed_at: "2026-10-01T15:07:46Z"
 ---
 ## What it is
 Provides tools to read and compare scripture text from local Paratext project folders, enabling natural-language queries for verses, chapters, books, and cross-project comparisons.

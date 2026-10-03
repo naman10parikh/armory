@@ -8,11 +8,11 @@ source_url: https://github.com/rkirkendall/medplum-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 7
 pushed_at: "2025-06-10T02:34:56Z"
 ---
 ## What it is

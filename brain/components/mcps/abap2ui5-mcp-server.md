@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T18:04:31Z"
+pushed_at: "2026-10-03T06:36:46Z"
 ---
 ## What it is
 Provides AI coding agents a full abap2UI5 development loop—writing ABAP classes, validating views, deploying, and running apps headless with screenshots—all locally without an SAP system.

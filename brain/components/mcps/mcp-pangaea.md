@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T01:50:52Z"
+pushed_at: "2026-09-26T20:56:34Z"
 ---
 ## What it is
 Connects AI agents to the PANGAEA earth and environmental science data repository, enabling full-text dataset search and facet aggregation via MCP tools.

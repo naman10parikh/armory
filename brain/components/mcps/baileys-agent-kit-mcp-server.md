@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-25T00:26:37Z"
+pushed_at: "2026-10-02T00:25:57Z"
 ---
 ## What it is
 Enables agents to send and manage WhatsApp messages, groups, and media using Baileys, with QR pairing and risk controls.

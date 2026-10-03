@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T10:27:00Z"
+pushed_at: "2026-10-02T01:47:31Z"
 ---
 ## What it is
 An MCP server for the Internet Archive that enables searching the full text of digitized books, browsing the catalogue, and reading Wayback Machine captures. No API key or configuration required.

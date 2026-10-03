@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-26T15:52:42Z"
+pushed_at: "2026-09-04T12:37:55Z"
 ---
 ## What it is
 MCP server `CSV Analytics`, catalogued on PulseMCP. Analytics and statistical analysis tools for CSV data files.

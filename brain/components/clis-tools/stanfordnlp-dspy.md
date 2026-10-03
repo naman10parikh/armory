@@ -8,14 +8,14 @@ source_url: https://github.com/stanfordnlp/dspy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 38336
+stars: 38481
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 3365
-pushed_at: "2026-09-26T15:58:07Z"
+forks: 3394
+pushed_at: "2026-10-02T05:17:56Z"
 ---
 ## What it is
 DSPy: The framework for programming—not prompting—language models

@@ -8,13 +8,13 @@ source_url: https://github.com/dfch/biz.dfch.SpecMgr
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T17:12:25Z"
+pushed_at: "2026-10-03T12:06:44Z"
 ---
 ## What it is
 An artifact manager MCP server for system specifications, providing tools and resources to create, read, update, list, validate, and manage MADR 4.0.0-derived Architecture Decision Records (ADRs) stored as markdown files.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T07:38:12Z"
+pushed_at: "2026-10-03T07:10:24Z"
 ---
 ## What it is
 The MCP server for Divine API's Indian Astrology services, allowing AI assistants to query Vedic astrology data such as Panchang, Kundli, and matchmaking through natural language.

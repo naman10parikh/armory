@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T19:35:27Z"
+pushed_at: "2026-10-01T16:12:56Z"
 ---
 ## What it is
 Read-only MCP server that provides AI agents with context about Unity project relationships, including scenes, prefabs, scripts, GUIDs, and code impact analysis.

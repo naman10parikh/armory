@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T07:21:52Z"
+pushed_at: "2026-10-01T16:48:22Z"
 ---
 ## What it is
 Enables ChatGPT to operate a DreamAgent account via MCP, allowing creation and management of projects (Telegram/Discord bots, websites, schedulers) and conversational build/edit/debug through DreamAgent's AI agent.

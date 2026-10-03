@@ -8,13 +8,13 @@ source_url: https://github.com/scottmills306/apc-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T03:05:21Z"
+pushed_at: "2026-09-30T19:23:32Z"
 ---
 ## What it is
 apc-mcp is a Model Context Protocol server that brings audio plugin development workflows into any MCP-compatible client by wrapping CMake, ctest, clang-format, pluginval, and clap-validator into a clean tool interface for building, testing, linting, validating, and scaffolding JUCE, CLAP, VST3, and

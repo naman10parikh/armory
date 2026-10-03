@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-02-27T11:53:08Z"
+pushed_at: "2026-10-01T21:13:59Z"
 ---
 ## What it is
 Multi-advisor debate, institutional memory, trust scoring, and cognitive governance for AI agents, all running locally.

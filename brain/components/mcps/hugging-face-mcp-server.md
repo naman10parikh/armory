@@ -8,13 +8,13 @@ source_url: https://github.com/huggingface/hf-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 299
+stars: 301
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 104
-pushed_at: "2026-09-23T14:11:02Z"
+forks: 103
+pushed_at: "2026-10-02T14:03:37Z"
 ---
 ## What it is
 Connects LLMs to the Hugging Face Hub and thousands of Gradio AI applications, enabling model interaction and search.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-13T03:55:58Z"
+pushed_at: "2026-09-27T03:56:30Z"
 ---
 ## What it is
 An MCP server that controls real Android devices via ADB, offering screen vision, input automation, and device management tools.

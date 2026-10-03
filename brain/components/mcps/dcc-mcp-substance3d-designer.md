@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-25T18:58:33Z"
+forks: 1
+pushed_at: "2026-10-01T11:52:43Z"
 ---
 ## What it is
 Adapter that runs an MCP server inside Substance 3D Designer, enabling tools to inspect and interact with the active designer session and its packages through natural language.

@@ -8,13 +8,13 @@ source_url: https://github.com/m0n0x41d/haft
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1392
+stars: 1393
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 102
-pushed_at: "2026-09-24T14:13:40Z"
+pushed_at: "2026-09-28T16:14:11Z"
 ---
 ## What it is
 Haft is an MCP server that enforces engineering discipline for AI-assisted software delivery, providing tools for problem framing, decision contracts, and commission-based execution harnesses.

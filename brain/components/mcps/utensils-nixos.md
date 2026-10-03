@@ -8,11 +8,11 @@ source_url: https://github.com/utensils/mcp-nixos
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 844
+stars: 849
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 45
+forks: 46
 pushed_at: "2026-09-05T02:31:09Z"
 ---
 ## What it is

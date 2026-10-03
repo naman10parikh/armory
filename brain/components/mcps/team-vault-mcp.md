@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T13:24:45Z"
+pushed_at: "2026-09-27T11:05:29Z"
 ---
 ## What it is
 Exposes Team Vault's REST API as MCP tools for AI agents, enabling programmatic reading and editing of notes without Obsidian.

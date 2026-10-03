@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-17T16:43:46Z"
+forks: 4
+pushed_at: "2026-09-30T00:47:49Z"
 ---
 ## What it is
 Enables AI coding tools to securely manage secrets via MCP tools for vault operations, diagnostics, and cloud sync, ensuring real keys never enter the LLM context.

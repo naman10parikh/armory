@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T18:26:36Z"
+pushed_at: "2026-09-29T20:19:19Z"
 ---
 ## What it is
 Lets AI coding agents generate and manage threat models, controls, assumptions, compliance mapping, and evidence programmatically via the Mipiti security posture platform.

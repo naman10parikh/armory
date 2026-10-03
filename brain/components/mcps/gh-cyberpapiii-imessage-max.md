@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-03T19:27:33Z"
+pushed_at: "2026-09-29T20:28:45Z"
 ---
 ## What it is
 MCP server `iMessage Max`, catalogued on PulseMCP. Read, search, and send iMessage messages on macOS through AI assistants.

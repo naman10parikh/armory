@@ -8,13 +8,13 @@ source_url: https://github.com/DocStream-Oficial/vitals
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-08T17:58:21Z"
+forks: 1
+pushed_at: "2026-09-28T05:45:54Z"
 ---
 ## What it is
 Exposes personal health data (recovery, sleep, strain, etc.) as MCP tools for AI agents to query and analyze.

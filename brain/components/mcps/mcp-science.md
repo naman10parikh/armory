@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T02:13:15Z"
+pushed_at: "2026-09-26T21:24:29Z"
 ---
 ## What it is
 MCP server providing free science data APIs including ISS location, earthquakes, air quality, and NASA's Astronomy Picture of the Day.

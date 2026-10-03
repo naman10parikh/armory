@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-10T00:41:18Z"
+pushed_at: "2026-10-01T19:21:05Z"
 ---
 ## What it is
 A local guardrail MCP server that checks agent-written code against a repo's own patterns — learned statistically from its git history, no LLM.

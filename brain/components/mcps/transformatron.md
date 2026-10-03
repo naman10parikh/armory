@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T15:15:18Z"
+pushed_at: "2026-09-28T19:57:45Z"
 ---
 ## What it is
 An MCP server that lets coding agents scaffold, run, and iterate on Maltego transforms against a live local server, reading back entity results to validate and improve mappings.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T02:50:53Z"
+pushed_at: "2026-09-26T22:05:11Z"
 ---
 ## What it is
 Enables querying official UK public records from The Gazette, including insolvencies, winding-up petitions, and deceased estates.

@@ -8,11 +8,11 @@ source_url: https://github.com/matlab/matlab-mcp-core-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1578
+stars: 1607
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 129
+forks: 130
 pushed_at: "2026-09-25T15:41:05Z"
 ---
 ## What it is

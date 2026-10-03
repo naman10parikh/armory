@@ -8,12 +8,12 @@ source_url: https://github.com/spranab/saga-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-09-25T19:20:34Z"
+pushed_at: "2026-09-29T18:15:20Z"
 ---
 ## What it is
 MCP server `Saga`, catalogued on PulseMCP. SQLite-based project management with hierarchical projects, epics, tasks, subtasks, activity logging, and dashboard analytics.

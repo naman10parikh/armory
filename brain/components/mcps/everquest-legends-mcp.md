@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T07:24:09Z"
+pushed_at: "2026-10-02T07:49:19Z"
 ---
 ## What it is
 Read-only Model Context Protocol server for EverQuest Legends public sources, enabling wiki search, news retrieval, and media access without authentication.

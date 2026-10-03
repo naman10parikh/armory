@@ -8,7 +8,7 @@ source_url: https://github.com/shadowcz007/mcp_server_exe
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 165
+stars: 166
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

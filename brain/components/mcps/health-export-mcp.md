@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T22:48:18Z"
+pushed_at: "2026-10-02T01:31:02Z"
 ---
 ## What it is
 An MCP server that enables AI agents to query Apple Health data (190+ metrics) in natural language, including trends, comparisons, and structured exports.

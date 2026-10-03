@@ -8,12 +8,12 @@ source_url: https://github.com/jtalk22/slack-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 25
-pushed_at: "2026-09-25T10:34:35Z"
+pushed_at: "2026-10-02T10:48:44Z"
 ---
 ## What it is
 MCP server `Slack`, catalogued on PulseMCP. Extracts browser session tokens from Chrome to enable full Slack workspace access including DMs, channels, message history, and search without requiring OAuth API keys.

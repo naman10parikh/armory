@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-09-24T23:35:15Z"
+pushed_at: "2026-10-03T11:44:10Z"
 ---
 ## What it is
 MCP server `Safari (MCPSafari)`, catalogued on PulseMCP. Native Safari browser automation on macOS with 24 tools via Swift and Manifest V3 extension.

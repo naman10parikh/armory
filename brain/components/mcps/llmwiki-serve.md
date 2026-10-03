@@ -8,13 +8,13 @@ source_url: https://github.com/knowledge-bridge-labs/llmwiki-serve
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T16:47:48Z"
+pushed_at: "2026-10-02T06:01:18Z"
 ---
 ## What it is
 Serves local Markdown wikis as a read-only knowledge source with MCP tools for agent context retrieval.

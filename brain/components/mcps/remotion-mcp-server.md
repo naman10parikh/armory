@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T23:25:58Z"
+pushed_at: "2026-09-29T05:15:59Z"
 ---
 ## What it is
 Enables AI agents to analyze audio beats, synthesize voices with Google Gemini TTS, and programmatically construct and render professional videos using Remotion and React.

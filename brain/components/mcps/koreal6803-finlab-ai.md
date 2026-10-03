@@ -8,7 +8,7 @@ source_url: https://github.com/koreal6803/finlab-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 413
+stars: 414
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

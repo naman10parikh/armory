@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T09:22:39Z"
+pushed_at: "2026-10-02T11:07:46Z"
 ---
 ## What it is
 Feynman's twelve-problems method as an MCP server — a persistent set of long-running problems plus an evoke loop that tests each new trick against all of them. Local, TypeScript, no LLM inside, no API key.

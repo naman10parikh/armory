@@ -8,7 +8,7 @@ source_url: https://github.com/omar-haris/smart-coding-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 200
+stars: 199
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

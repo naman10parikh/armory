@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-06-11T16:35:40Z"
+pushed_at: "2026-10-01T01:00:12Z"
 ---
 ## What it is
 Enables LLMs to interact with Sisense data models and create charts programmatically via natural language, supporting tools for data sources, fields, and chart building.

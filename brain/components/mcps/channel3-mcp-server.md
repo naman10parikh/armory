@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T02:02:01Z"
+pushed_at: "2026-10-02T02:51:09Z"
 ---
 ## What it is
 Enables product search and shopping assistance through natural language, with a free tier available without API key.

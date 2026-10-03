@@ -8,11 +8,11 @@ source_url: https://github.com/delorenj/mcp-server-trello
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 445
+stars: 446
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 146
+forks: 147
 pushed_at: "2026-09-23T19:51:44Z"
 ---
 ## What it is

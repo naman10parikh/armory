@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T01:57:03Z"
+pushed_at: "2026-09-26T21:02:58Z"
 ---
 ## What it is
 Wraps the Podcast Index API (podcastindex.org) to enable AI agents to search and retrieve podcast episodes and metadata.

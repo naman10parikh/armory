@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-15T14:40:16Z"
+pushed_at: "2026-09-04T12:38:20Z"
 ---
 ## What it is
 Docker Helper MCP server that provides tools for automating Docker tasks such as generating Dockerfiles, parsing docker-compose files, and optimizing images.

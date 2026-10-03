@@ -8,13 +8,13 @@ source_url: https://github.com/VibeTensor/vibemcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T03:34:26Z"
+pushed_at: "2026-09-29T09:08:18Z"
 ---
 ## What it is
 Token-optimized unified MCP server for Gmail and Microsoft 365, enabling email, calendar, and contact management with up to 70% token savings via TOON format.

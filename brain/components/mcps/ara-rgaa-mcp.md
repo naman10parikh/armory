@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T14:13:06Z"
+pushed_at: "2026-10-02T05:17:52Z"
 ---
 ## What it is
 Enables to manage RGAA accessibility audits on the Ara platform via MCP-compatible clients like Claude Code or Codex, supporting full CRUD operations and audit lifecycle without manual login.

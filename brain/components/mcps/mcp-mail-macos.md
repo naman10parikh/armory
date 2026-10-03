@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-18T06:02:18Z"
+pushed_at: "2026-10-02T04:01:24Z"
 ---
 ## What it is
 An MCP server that drives macOS Mail: read, search, send, organise.

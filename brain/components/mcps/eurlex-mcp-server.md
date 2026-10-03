@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-25T12:39:47Z"
+pushed_at: "2026-10-01T21:25:19Z"
 ---
 ## What it is
 Enables searching and retrieving EU legal documents (regulations, directives, court decisions) via the EUR-Lex Cellar API, supporting full-text search, metadata, citations, and consolidated versions without requiring an API key.

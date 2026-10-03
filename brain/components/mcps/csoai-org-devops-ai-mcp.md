@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-15T14:40:13Z"
+pushed_at: "2026-09-04T12:38:13Z"
 ---
 ## What it is
 MCP server `DevOps AI`, catalogued on PulseMCP. AI-powered DevOps workflow automation and infrastructure management tools.

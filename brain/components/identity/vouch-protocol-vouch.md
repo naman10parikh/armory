@@ -8,14 +8,14 @@ source_url: https://github.com/vouch-protocol/vouch
 license: NOASSERTION
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 27
+stars: 28
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
 forks: 13
-pushed_at: "2026-09-21T13:28:40Z"
+pushed_at: "2026-09-28T14:35:53Z"
 ---
 ## What it is
 Use when agents acting in the world need identities that can be vouched for and held accountable afterwards.
