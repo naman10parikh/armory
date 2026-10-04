@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T06:20:35Z"
+pushed_at: "2026-09-28T12:00:39Z"
 ---
 ## What it is
 Self-hosted MCP server for D&D 5e rules reference, answering rule questions, providing character summaries, and assisting with character creation, based on imported sources with proper attribution.

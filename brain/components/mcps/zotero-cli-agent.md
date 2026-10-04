@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-19T03:36:25Z"
+pushed_at: "2026-10-01T19:06:40Z"
 ---
 ## What it is
 A lightweight, context-efficient CLI and optional stdio MCP server for semantic search, browsing, and writing to your Zotero library.

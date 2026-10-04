@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-09-24T17:24:01Z"
+pushed_at: "2026-09-30T18:58:41Z"
 ---
 ## What it is
 MCP server `Weights & Biases`, catalogued on PulseMCP. Integrates with Weights & Biases machine learning platform for querying Weave traces and evaluations, retrieving experiment data, creating reports with visualizations, and accessing wandbot support

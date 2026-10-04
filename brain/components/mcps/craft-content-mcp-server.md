@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T15:33:53Z"
+pushed_at: "2026-10-03T21:37:08Z"
 ---
 ## What it is
 An MCP server providing 8 content creation tools for case studies, newsletters, webinars, and more, based on the CRAFT Framework.

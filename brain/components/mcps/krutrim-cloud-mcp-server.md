@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T10:10:10Z"
+pushed_at: "2026-09-28T04:49:45Z"
 ---
 ## What it is
 Enables AI assistants like Cursor, Claude, and Codex to interact with Krutrim Cloud, providing discovery and controlled operations for VPCs, compute, storage, networking, Kubernetes, KPods, and IAM, with safety controls such as confirmation and read-only mode.

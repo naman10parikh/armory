@@ -8,12 +8,12 @@ source_url: https://github.com/xdevplatform/xmcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 857
+stars: 858
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 125
+forks: 124
 pushed_at: "2026-04-09T19:59:20Z"
 ---
 ## What it is

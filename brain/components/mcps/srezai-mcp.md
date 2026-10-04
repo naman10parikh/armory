@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T07:37:21Z"
+pushed_at: "2026-09-28T09:13:51Z"
 ---
 ## What it is
 MCP server for SrezAI providing web search, page reading, screenshots, and schema-based extraction as native agent tools.

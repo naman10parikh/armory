@@ -8,12 +8,12 @@ source_url: https://github.com/Kaelio/ktx
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1603
+stars: 1607
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 107
+forks: 105
 pushed_at: "2026-09-11T04:03:45Z"
 ---
 ## What it is

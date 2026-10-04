@@ -8,12 +8,12 @@ source_url: https://github.com/jtokib/yahoo-mail-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 71
+forks: 74
 pushed_at: "2026-03-28T19:49:09Z"
 ---
 ## What it is

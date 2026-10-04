@@ -8,12 +8,12 @@ source_url: https://github.com/sidclawhq/platform
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-25T13:15:01Z"
+pushed_at: "2026-09-28T13:51:02Z"
 ---
 ## What it is
 MCP server `SidClaw`, catalogued on PulseMCP. Provides access to the SidClaw platform APIs for AI-driven workflows.

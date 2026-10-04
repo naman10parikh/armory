@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T19:41:41Z"
+pushed_at: "2026-10-01T18:46:53Z"
 ---
 ## What it is
 Ephemeral MCP server that loads Salesforce leads into RAM for natural-language querying via Claude, with PII masking and session purging.

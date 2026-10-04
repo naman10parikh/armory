@@ -8,7 +8,7 @@ source_url: https://github.com/xiguawang/wechat-reader
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-27T01:40:26Z"
+pushed_at: "2026-10-02T10:31:18Z"
 ---
 ## What it is
 Local-first persistent memory for Claude Code and OpenAI Codex CLI. A single Rust binary captures, distills, searches, and injects project memory across sessions via hooks, MCP, CLI, and localhost REST.

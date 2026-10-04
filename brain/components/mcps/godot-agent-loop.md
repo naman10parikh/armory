@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-15T06:24:44Z"
+pushed_at: "2026-10-03T19:10:44Z"
 ---
 ## What it is
 Enables AI agents to autonomously develop and test Godot 4 games through an MCP-based feedback loop, providing tools for authoring, running, observing, playtesting, and verifying game projects.

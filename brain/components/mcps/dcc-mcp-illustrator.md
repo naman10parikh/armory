@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-12T05:25:12Z"
+pushed_at: "2026-10-03T15:49:50Z"
 ---
 ## What it is
 MCP adapter for Adobe Illustrator enabling structured DOM inspection and editing of documents, artwork, and exports via DCC-MCP CLI.

@@ -8,11 +8,11 @@ source_url: https://github.com/qwe4559999/scopus-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 13
 pushed_at: "2026-05-17T06:36:58Z"
 ---
 ## What it is

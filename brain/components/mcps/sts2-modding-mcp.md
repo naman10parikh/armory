@@ -8,12 +8,12 @@ source_url: https://github.com/elliotttate/sts2-modding-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
+forks: 13
 pushed_at: "2026-03-31T20:07:50Z"
 ---
 ## What it is

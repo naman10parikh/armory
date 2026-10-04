@@ -8,13 +8,13 @@ source_url: https://github.com/open-and-async/mcp
 license: Inno Setup License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 48
+stars: 49
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-18T01:23:51Z"
+pushed_at: "2026-10-03T19:45:19Z"
 ---
 ## What it is
 Enables async-first working practices by providing tools to draft decision docs, convert meetings to async artifacts, score status updates, and triage sync vs async tasks. It also offers reference tools for the Open and Async book's principles and coaching prompts.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T02:13:27Z"
+pushed_at: "2026-09-29T08:57:55Z"
 ---
 ## What it is
 Provides asynchronous file system operations (ls, cp, mv, etc.) with structured JSON output and optional jail restriction for AI agents.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T18:51:04Z"
+pushed_at: "2026-10-04T12:39:59Z"
 ---
 ## What it is
 MCP server for lossless YAML 1.2 editing by AI agents. Two tools — noyalib_get (read a value at a dotted/indexed path) and noyalib_set (write a value, preserving comments/formatting byte-for-byte). Pure Rust, streaming-first serde, JSON Schema validation. MIT OR Apache-2.0.

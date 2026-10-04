@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T12:56:42Z"
+pushed_at: "2026-09-28T00:37:58Z"
 ---
 ## What it is
 Read-only MCP server for querying Creatio support cases and related entities via OData API, with entity allowlist and row limits for safe access.

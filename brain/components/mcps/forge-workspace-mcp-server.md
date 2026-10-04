@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T15:45:24Z"
+pushed_at: "2026-09-28T15:45:19Z"
 ---
 ## What it is
 A deliberately narrow, approval-gated workspace server that safely reads and writes files and runs allowlisted commands only inside one configured workspace, requiring visible approval for every write, process execution, and file read, with stale-overwrite protection and symlink-escape rejection.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-12T18:45:06Z"
+pushed_at: "2026-10-02T00:02:54Z"
 ---
 ## What it is
 An MCP server for the Garu payment platform. Create charges, manage customers, and discover products directly from any MCP client.

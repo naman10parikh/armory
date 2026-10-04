@@ -8,13 +8,13 @@ source_url: https://github.com/jmrplens/libgen-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-25T10:33:52Z"
+pushed_at: "2026-10-04T12:15:07Z"
 ---
 ## What it is
 MCP server in Go to search and download books, papers, comics and more from Library Genesis — three focused tools, one static binary, no account required.

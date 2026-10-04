@@ -8,12 +8,12 @@ source_url: https://github.com/shashankswe2020-ux/whoop-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 158
+stars: 164
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 64
-pushed_at: "2026-09-25T14:15:32Z"
+forks: 67
+pushed_at: "2026-10-02T14:15:20Z"
 ---
 ## What it is
 MCP server `WHOOP`, catalogued on PulseMCP. Accesses WHOOP fitness device data including recovery scores, sleep analysis, and workout history.

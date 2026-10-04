@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-15T12:39:55Z"
+pushed_at: "2026-09-29T03:20:01Z"
 ---
 ## What it is
 MCP server `Octen`, catalogued on PulseMCP. Converts URLs into clean, LLM-ready markdown using Octen's Extract API with batch processing and query-focused highlights.

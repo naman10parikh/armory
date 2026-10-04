@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T08:32:06Z"
+pushed_at: "2026-10-01T04:11:47Z"
 ---
 ## What it is
 An MCP server that records consented, attributed, paid-for receipts for open-source dependencies, settling per-call USDC payments on Algorand with on-chain attribution.

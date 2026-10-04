@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-16T05:44:31Z"
+pushed_at: "2026-09-04T12:39:24Z"
 ---
 ## What it is
 Provides sovereign geospatial awareness by wrapping open, non-US-dependent geospatial APIs for AI-agent situational awareness, environmental compliance, and disaster response.

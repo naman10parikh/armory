@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T09:43:27Z"
+pushed_at: "2026-10-01T12:33:34Z"
 ---
 ## What it is
 Exposes ShortPixel SPIO image optimization to AI agents, allowing them to optimize image URLs via tools like optimize_image_urls.

@@ -8,13 +8,13 @@ source_url: https://github.com/Gindhar2112/frida-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-09-26T07:14:42Z"
+pushed_at: "2026-10-04T12:21:27Z"
 ---
 ## What it is
 Automates Android app analysis using Frida via AI commands, connecting a rooted Android phone to a computer and running dynamic analysis scripts without manual command execution.

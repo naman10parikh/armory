@@ -8,11 +8,11 @@ source_url: https://github.com/trackline/mcp-remnawave
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 97
+stars: 98
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
+forks: 22
 pushed_at: "2026-07-30T19:31:55Z"
 ---
 ## What it is

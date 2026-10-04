@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-09-14T07:19:22Z"
+forks: 10
+pushed_at: "2026-09-28T08:37:13Z"
 ---
 ## What it is
 An MCP server that gives AI agents full visibility and control over your Dagster instance, enabling autonomous monitoring, diagnosis, and remediation of data pipelines.

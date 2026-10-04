@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T20:24:58Z"
+pushed_at: "2026-10-04T07:17:40Z"
 ---
 ## What it is
 Enables AI agents to verify proposed actions through federated adversarial consensus among multiple LLMs, providing Ed25519-signed attestations to prevent hallucinations, unverified counterparties, and compliance risks before execution.

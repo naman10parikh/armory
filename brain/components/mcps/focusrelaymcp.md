@@ -8,13 +8,13 @@ source_url: https://github.com/deverman/FocusRelayMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 52
+stars: 53
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-08-17T04:53:53Z"
+pushed_at: "2026-10-04T13:05:03Z"
 ---
 ## What it is
 Fast native Swift OmniFocus MCP server and CLI for macOS. Let AI assistants safely read, update, complete, and organize tasks and projects through documented Omni Automation APIs.

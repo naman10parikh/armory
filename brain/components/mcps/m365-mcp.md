@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T05:08:23Z"
+pushed_at: "2026-09-30T05:10:03Z"
 ---
 ## What it is
 MCP server for Microsoft 365 via the Microsoft Graph API, providing read-only access to profile, calendar, email, Teams chats, OneDrive files, and meeting transcripts from any MCP client.

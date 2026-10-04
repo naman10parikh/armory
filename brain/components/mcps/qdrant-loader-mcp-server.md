@@ -8,13 +8,13 @@ source_url: https://github.com/martin-papy/qdrant-loader
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 54
+stars: 55
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 30
-pushed_at: "2026-09-18T18:10:51Z"
+pushed_at: "2026-10-01T19:00:48Z"
 ---
 ## What it is
 Enables AI development tools to perform semantic search and document relationship analysis on vectorized content stored in Qdrant databases.

@@ -8,12 +8,12 @@ source_url: https://github.com/letsfg/letsfg
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2068
+stars: 2109
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 138
-pushed_at: "2026-09-27T07:32:40Z"
+forks: 142
+pushed_at: "2026-10-04T07:32:41Z"
 ---
 ## What it is
 MCP server `BoostedTravel`, catalogued on PulseMCP. Flight search and booking for AI agents across 400+ airlines.

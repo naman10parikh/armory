@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T01:41:00Z"
+pushed_at: "2026-09-29T22:00:15Z"
 ---
 ## What it is
 MCP server that wraps the GitHub REST API into tools for repo queries, issue/PR management, code review, search, and authentication, letting coding agents operate GitHub directly in conversations.

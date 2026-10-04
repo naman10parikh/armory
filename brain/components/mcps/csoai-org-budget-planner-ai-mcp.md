@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-29T01:43:52Z"
+pushed_at: "2026-09-04T12:36:20Z"
 ---
 ## What it is
 MCP server `Budget Planner AI`, catalogued on PulseMCP. AI-assisted budget planning and financial forecasting tools.

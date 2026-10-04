@@ -8,12 +8,12 @@ source_url: https://github.com/modelcontextprotocol/registry
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7288
+stars: 7314
 verified_at: 2026-09-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1007
-pushed_at: "2026-09-23T23:33:30Z"
+forks: 1021
+pushed_at: "2026-09-30T23:35:30Z"
 mentions: 2
 eval_score: 1
 ---

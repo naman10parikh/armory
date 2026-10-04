@@ -8,13 +8,13 @@ source_url: https://github.com/MasihMoafi/A-Modular-Kingdom
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 44
+stars: 46
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-24T16:51:49Z"
+pushed_at: "2026-10-04T08:20:04Z"
 ---
 ## What it is
 Production-ready MCP server providing RAG, hierarchical memory, and 8+ tools for AI agents via the Model Context Protocol.

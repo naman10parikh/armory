@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-10T13:13:46Z"
+pushed_at: "2026-10-02T14:56:19Z"
 ---
 ## What it is
 Provides access to Hong Kong government environment data, including the current Air Quality Health Index (AQHI) from monitoring stations across Hong Kong.

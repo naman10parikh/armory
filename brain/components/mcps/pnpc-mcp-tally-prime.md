@@ -8,13 +8,13 @@ source_url: https://github.com/lokesh-sparrow/PNPC-MCP-Tally-Prime
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-24T11:19:15Z"
+forks: 1
+pushed_at: "2026-10-02T08:26:12Z"
 ---
 ## What it is
 This MCP server enables users to read from and write to TallyPrime via its XML/HTTP gateway, supporting operations like ledger management, voucher creation, and financial report retrieval through natural language.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-02T10:07:56Z"
+pushed_at: "2026-10-02T11:32:01Z"
 ---
 ## What it is
 MCP server `OERadio`, catalogued on PulseMCP. Amateur radio tools with band plans, EIRP calculations, cable loss, antenna gains, and Austrian callsign lookup.

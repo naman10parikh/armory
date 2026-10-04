@@ -8,11 +8,11 @@ source_url: https://github.com/johannespettersson80/codesys-mcp-toolkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 123
+stars: 124
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 34
+forks: 35
 pushed_at: "2025-05-24T19:04:54Z"
 ---
 ## What it is

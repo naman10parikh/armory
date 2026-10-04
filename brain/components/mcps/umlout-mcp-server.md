@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T03:54:36Z"
+pushed_at: "2026-09-29T16:18:42Z"
 ---
 ## What it is
 Hosted MCP server that lets AI assistants create and edit diagrams (UML, flowcharts, wireframes, domain models) in a Umlout workspace via natural language.

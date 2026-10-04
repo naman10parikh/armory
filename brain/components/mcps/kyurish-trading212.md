@@ -8,11 +8,11 @@ source_url: https://github.com/kyurish/trading212-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-08-20T07:45:33Z"
 ---
 ## What it is

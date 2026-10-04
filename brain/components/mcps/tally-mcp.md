@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T12:11:39Z"
+pushed_at: "2026-09-27T18:27:41Z"
 ---
 ## What it is
 A read-only MCP server that connects Claude Desktop to TallyPrime, enabling natural-language auditing and analysis of accounting data directly from the local Tally installation.

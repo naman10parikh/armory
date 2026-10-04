@@ -8,11 +8,11 @@ source_url: https://github.com/tuna1999/dnspy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 56
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 16
 pushed_at: "2026-09-15T19:12:17Z"
 ---
 ## What it is

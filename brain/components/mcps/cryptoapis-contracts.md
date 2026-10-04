@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-24T09:59:19Z"
+pushed_at: "2026-09-28T11:48:02Z"
 ---
 ## What it is
 MCP server `Crypto APIs Contracts`, catalogued on PulseMCP. Smart contract ABIs and on-chain data from EVM and Solana blockchains via Crypto APIs.

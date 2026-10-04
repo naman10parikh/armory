@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T06:38:23Z"
+pushed_at: "2026-10-03T10:54:00Z"
 ---
 ## What it is
 Secure, read-only Google Search Console MCP server with exact property allowlists and a hardened TypeScript runtime.

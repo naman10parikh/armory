@@ -8,12 +8,12 @@ source_url: https://github.com/PatrykIti/blender-ai-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 59
+stars: 63
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
+forks: 16
 pushed_at: "2026-06-27T17:00:32Z"
 ---
 ## What it is

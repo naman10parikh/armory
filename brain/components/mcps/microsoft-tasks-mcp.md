@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T07:58:21Z"
+pushed_at: "2026-10-02T08:09:20Z"
 ---
 ## What it is
 Enables AI coding agents to read Microsoft Planner and To Do tasks across multiple M365 tenants with proper authentication, and supports optional write operations limited to tasks the agent created.

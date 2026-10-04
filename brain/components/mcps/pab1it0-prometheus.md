@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 103
-pushed_at: "2026-09-21T14:10:52Z"
+pushed_at: "2026-10-02T07:02:01Z"
 ---
 ## What it is
 MCP server `Prometheus`, catalogued on PulseMCP. Connects AI systems to Prometheus monitoring infrastructure for executing PromQL queries, discovering metrics, and retrieving target metadata to enable real-time operational analytics and performance monitoring.

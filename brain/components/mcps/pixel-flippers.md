@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T11:46:11Z"
+pushed_at: "2026-10-04T08:10:12Z"
 ---
 ## What it is
 Enables Claude and other MCP clients to play Pokémon games on emulated Game Boy/GBA or real Switch hardware by exposing tools for button input, reading RAM-decoded game state, screenshots, save states, and persistent markdown notes.

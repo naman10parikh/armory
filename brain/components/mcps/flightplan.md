@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-07T13:08:04Z"
+pushed_at: "2026-10-04T03:16:51Z"
 ---
 ## What it is
 YOUR AGENTS COLLIDE. File a FlightPlan. Run multiple coding agents without them stepping on each other. FlightPlan gives each agent the same preflight picture, lets them coordinate while plans are still cheap to change, and leaves behind what changed and why for whichever agent comes next. Across se

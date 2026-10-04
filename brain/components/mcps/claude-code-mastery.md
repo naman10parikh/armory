@@ -8,13 +8,13 @@ source_url: https://github.com/mgalbakri/claude-code-mastery
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-13T14:10:37Z"
+pushed_at: "2026-09-29T18:22:04Z"
 ---
 ## What it is
 Monitors 7+ sources for Claude Code updates, analyzes curriculum gaps, and auto-applies changes to keep the curriculum current.

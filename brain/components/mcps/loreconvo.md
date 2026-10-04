@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T04:10:26Z"
+pushed_at: "2026-10-03T03:32:41Z"
 ---
 ## What it is
 Persistent memory layer for MCP-compatible AI agents. Implements save/recall/search over a local SQLite session store via 14 MCP tools. Auto-loads relevant context at session start. No cloud dependency. Works with Claude, Cursor, Codex, Hermes Agent. Free (50 sessions) / Pro ($8/mo).

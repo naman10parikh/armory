@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T04:29:52Z"
+pushed_at: "2026-10-04T13:03:45Z"
 ---
 ## What it is
 Read-only MCP server that exposes Apple Health data (steps, workouts, sleep, etc.) from a local SQLite store, allowing AI agents to query health metrics without sending data to hosted services.

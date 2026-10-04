@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-02T06:05:33Z"
+pushed_at: "2026-10-01T21:25:49Z"
 ---
 ## What it is
 MCP server `Envault`, catalogued on PulseMCP. Secure secrets management with Human-In-The-Loop interception for agent mutations via the Envault platform.

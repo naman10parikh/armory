@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T02:10:30Z"
+pushed_at: "2026-09-29T14:14:12Z"
 ---
 ## What it is
 Enables managing events and subcalendars from kalender.digital through MCP tools for listing, creating, updating, and deleting events and subcalendars.

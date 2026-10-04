@@ -8,11 +8,11 @@ source_url: https://github.com/elusznik/mcp-server-code-execution-mode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 340
+stars: 339
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 32
+forks: 33
 pushed_at: "2025-12-05T11:39:38Z"
 ---
 ## What it is

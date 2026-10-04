@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T20:51:58Z"
+pushed_at: "2026-10-04T04:04:22Z"
 ---
 ## What it is
 An MCP server for SideFX Houdini that enables AI assistants to interactively control, construct, inspect, and visually verify 3D procedural scenes through tools like node creation, parameter editing, viewport capture, and rendering.

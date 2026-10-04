@@ -8,11 +8,11 @@ source_url: https://github.com/vercel/next-devtools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 823
+stars: 822
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 65
+forks: 64
 pushed_at: "2026-09-15T00:32:28Z"
 ---
 ## What it is

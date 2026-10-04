@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-09-21T02:45:15Z"
+pushed_at: "2026-09-29T07:41:56Z"
 ---
 ## What it is
 MCP server `Deep Code Reasoning`, catalogued on PulseMCP. Enables intelligent routing between Claude and Google's Gemini AI for complementary code analysis, leveraging Gemini's 1M token context window for large codebase analysis while Claude handles local operations, with conversational AI-to-AI dialogue capabilities for multi-turn problem-solving sessions.

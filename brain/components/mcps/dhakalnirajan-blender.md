@@ -8,11 +8,11 @@ source_url: https://github.com/dhakalnirajan/blender-open-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 120
+stars: 119
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 35
+forks: 36
 pushed_at: "2026-09-04T12:23:15Z"
 ---
 ## What it is

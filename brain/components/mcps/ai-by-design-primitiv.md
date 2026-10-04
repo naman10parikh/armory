@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 19
 forks: 1
-pushed_at: "2026-09-09T16:08:50Z"
+pushed_at: "2026-10-03T16:08:34Z"
 ---
 ## What it is
 Design contract layer for your codebase. Scans Figma, code, Storybook, and token files, reconciles conflicts, and serves a single machine-readable source of truth over MCP so every agent gets the same authoritative design rules before it builds. Local-first — your code never leaves your machine.

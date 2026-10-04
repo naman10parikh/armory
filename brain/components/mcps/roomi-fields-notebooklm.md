@@ -8,11 +8,11 @@ source_url: https://github.com/roomi-fields/notebooklm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 183
+stars: 188
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 55
+forks: 56
 pushed_at: "2026-09-04T07:27:47Z"
 ---
 ## What it is

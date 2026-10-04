@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
-pushed_at: "2026-07-22T17:16:24Z"
+forks: 12
+pushed_at: "2026-09-30T15:08:16Z"
 ---
 ## What it is
 Enables AI agents to access prebuilt actions for 130+ SaaS integrations via Paragon's ActionKit, with automatic OAuth and API key flows.

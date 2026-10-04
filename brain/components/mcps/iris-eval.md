@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-27T07:56:20Z"
+pushed_at: "2026-10-04T12:47:06Z"
 ---
 ## What it is
 MCP server `Iris Eval`, catalogued on PulseMCP. Agent evaluation and observability with trace logging, quality scoring, and cost tracking.

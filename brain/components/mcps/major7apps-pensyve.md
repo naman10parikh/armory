@@ -8,12 +8,12 @@ source_url: https://github.com/major7apps/pensyve
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 87
+stars: 89
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
-pushed_at: "2026-09-24T12:54:15Z"
+forks: 14
+pushed_at: "2026-10-01T19:14:31Z"
 ---
 ## What it is
 MCP server `Pensyve`, catalogued on PulseMCP. Universal memory runtime for AI agents with episodic, semantic, and procedural memory.

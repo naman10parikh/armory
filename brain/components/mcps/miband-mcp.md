@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T13:45:58Z"
+pushed_at: "2026-10-04T09:49:21Z"
 ---
 ## What it is
 Enables AI to query Xiaomi Mi Band health data (steps, sleep, heart rate) from Gadgetbridge SQLite exports via the MCP protocol, allowing natural language questions about daily activity.

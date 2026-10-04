@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-06T04:19:01Z"
+pushed_at: "2026-10-01T05:39:45Z"
 ---
 ## What it is
 MCP server `Subconscious AI`, catalogued on PulseMCP. Run conjoint experiments and causal research through AI-powered behavioral simulations

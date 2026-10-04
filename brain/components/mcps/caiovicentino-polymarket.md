@@ -8,11 +8,11 @@ source_url: https://github.com/caiovicentino/polymarket-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 679
+stars: 686
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 140
+forks: 143
 pushed_at: "2026-09-20T16:04:03Z"
 ---
 ## What it is

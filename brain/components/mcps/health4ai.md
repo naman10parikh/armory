@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-09-26T13:39:22Z"
+forks: 3
+pushed_at: "2026-10-03T01:34:04Z"
 ---
 ## What it is
 Apple HealthKit → PostgreSQL sync + MCP server for Claude Code, Cursor, and Ollama. Open-source iOS app with reliable background sync (HKObserverQuery). 11 tools covering health summary, sleep, HRV trends, workouts, daily snapshots, metric stats, period comparison, and coaching briefs. Supports Supa

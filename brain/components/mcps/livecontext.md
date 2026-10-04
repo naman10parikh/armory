@@ -8,13 +8,13 @@ source_url: https://github.com/livecontext-ai/livecontext-ce
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 591
+stars: 661
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 66
-pushed_at: "2026-09-26T22:55:47Z"
+pushed_at: "2026-10-03T08:28:32Z"
 ---
 ## What it is
 LiveContext is a self-hosted AI automation platform that exposes its whole surface over MCP: build and run workflows, manage agents and skills, read and write tables, browse workspace files, create web interfaces, and call 600+ third-party API integrations. Tools are unified per resource and driven 

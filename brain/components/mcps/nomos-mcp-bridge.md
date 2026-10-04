@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T06:15:04Z"
+pushed_at: "2026-09-29T06:48:29Z"
 ---
 ## What it is
 A local MCP proxy that connects AI clients to nomos system controllers, allowing registration and switching between them via natural language. Enables smart home control through MCP-compatible AI clients.

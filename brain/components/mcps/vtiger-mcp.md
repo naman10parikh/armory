@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T21:49:58Z"
+pushed_at: "2026-09-29T04:12:47Z"
 ---
 ## What it is
 MCP server for vtiger CRM that enables AI agents to log timesheets and create/update records in any module via natural language.

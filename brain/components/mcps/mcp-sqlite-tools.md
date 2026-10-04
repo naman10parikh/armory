@@ -8,13 +8,13 @@ source_url: https://github.com/spences10/mcp-sqlite-tools
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-26T21:21:28Z"
+pushed_at: "2026-10-04T01:42:40Z"
 ---
 ## What it is
 Provides comprehensive SQLite database operations for LLMs with security features, transaction support, and separation of read-only and destructive operations.

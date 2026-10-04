@@ -8,13 +8,13 @@ source_url: https://github.com/morluto/jacobian
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 194
+stars: 196
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-09-27T14:20:39Z"
+pushed_at: "2026-10-04T09:40:27Z"
 ---
 ## What it is
 An MCP server for executable mathematics that enables agents to construct objects, compute invariants, search for witnesses, and verify results with independently checkable evidence.

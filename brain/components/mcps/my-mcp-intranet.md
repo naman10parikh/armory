@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T00:44:50Z"
+pushed_at: "2026-10-04T09:56:50Z"
 ---
 ## What it is
 A cluster of 8 independent MCP servers for intranet automation, enabling file operations, browser automation, data query, and system monitoring through natural language.

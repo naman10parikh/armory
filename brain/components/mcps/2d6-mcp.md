@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-19T13:34:27Z"
+pushed_at: "2026-09-29T08:14:19Z"
 ---
 ## What it is
 An AI GM assistant for tabletop RPGs that provides dice rolling, rules queries, and AI-powered rulings across multiple game systems including sci-fi, fantasy, and d20.

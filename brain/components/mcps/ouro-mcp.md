@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-16T15:23:10Z"
+pushed_at: "2026-10-03T18:00:04Z"
 ---
 ## What it is
 MCP server for the Ouro platform, enabling AI agents to search, read, query datasets, create content, and execute API routes on Ouro through the Model Context Protocol.

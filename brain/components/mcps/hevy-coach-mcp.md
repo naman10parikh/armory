@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T05:38:16Z"
+pushed_at: "2026-10-01T05:40:03Z"
 ---
 ## What it is
 MCP server for Hevy that fetches live workout data and computes analytics like e1RM, PRs, volume, and consistency, while enabling writes for routines, folders, and body measurements without modifying workout history.

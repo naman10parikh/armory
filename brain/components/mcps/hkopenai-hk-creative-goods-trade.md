@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-10T13:12:59Z"
+pushed_at: "2026-10-02T14:56:52Z"
 ---
 ## What it is
 MCP server `Hong Kong Creative Goods Trade`, catalogued on PulseMCP. Provides access to Hong Kong's creative goods trade statistics from the Culture, Sports and Tourism Bureau, enabling analysis of domestic exports, re-exports, and imports across eight creative industry categories with optional year-range filtering and data cleaning.

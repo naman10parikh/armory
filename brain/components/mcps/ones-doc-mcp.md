@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T02:48:22Z"
+pushed_at: "2026-09-30T04:42:00Z"
 ---
 ## What it is
 MCP server for reading ONES documents in intranet environments, supporting authentication via account/password or browser session reuse.

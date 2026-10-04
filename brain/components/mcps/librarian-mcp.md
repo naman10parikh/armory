@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
-pushed_at: "2026-04-23T01:03:49Z"
+forks: 18
+pushed_at: "2026-10-01T05:24:34Z"
 ---
 ## What it is
 A Model Context Protocol server providing pre-curated canonical memory, prose/code provenance checking, and benchmark metrics to improve accuracy and reduce costs across AI tools.

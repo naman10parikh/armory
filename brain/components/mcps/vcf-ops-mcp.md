@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-15T23:14:17Z"
+pushed_at: "2026-10-02T06:29:32Z"
 ---
 ## What it is
 Provides authenticated read-only access to VMware Cloud Foundation Operations inventory, metrics, alerts, report definitions, targets, and skills via Streamable HTTP, with a durable audit trail and an admin UI.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T12:59:07Z"
+pushed_at: "2026-09-30T08:44:16Z"
 ---
 ## What it is
 Local MCP server that provides Italian legal assistance by querying a local corpus of Italian legislation, integrated with Claude Desktop.

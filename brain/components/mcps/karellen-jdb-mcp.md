@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-04-01T01:03:15Z"
+pushed_at: "2026-09-30T20:59:49Z"
 ---
 ## What it is
 Enables LLMs to debug Java applications using JDB, supporting breakpoints, stepping, expression evaluation, thread analysis, and more.

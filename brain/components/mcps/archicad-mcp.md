@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T16:34:29Z"
+pushed_at: "2026-10-04T00:52:47Z"
 ---
 ## What it is
 MCP server for Archicad automation, enabling AI assistants to run Python scripts against running Archicad instances via the Tapir JSON API for complex workflows.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T00:20:29Z"
+pushed_at: "2026-09-30T06:00:15Z"
 ---
 ## What it is
 An MCP memory server for coding agents that checks stored facts against the filesystem and git before relying on them, flagging stale memories.

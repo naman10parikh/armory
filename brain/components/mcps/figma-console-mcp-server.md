@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T14:28:37Z"
+pushed_at: "2026-10-03T04:46:41Z"
 ---
 ## What it is
 Bridges AI assistants with Figma for design system extraction, bidirectional token sync, visual debugging, and design creation.

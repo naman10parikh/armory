@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-06-01T23:44:53Z"
+pushed_at: "2026-10-01T07:52:42Z"
 ---
 ## What it is
 MCP server `gotoHuman`, catalogued on PulseMCP. Enables AI agents to request human reviews through the gotoHuman platform, creating asynchronous workflows for content approval and critical action validation with webhook-based responses.

@@ -8,13 +8,13 @@ source_url: https://github.com/maxrobdev/libreleaf
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T00:33:12Z"
+pushed_at: "2026-09-29T22:01:29Z"
 ---
 ## What it is
 Enables searching for lawful, free-to-read books across multiple open catalogues and resolving access routes (download, read, borrow, preview) via MCP tools like search_books and resolve_access.

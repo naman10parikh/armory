@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T23:00:29Z"
+pushed_at: "2026-10-03T13:29:25Z"
 ---
 ## What it is
 Publish, schedule and read analytics across every major social network from one MCP server. Hosted, OAuth, 15+ tools, one normalised response shape.

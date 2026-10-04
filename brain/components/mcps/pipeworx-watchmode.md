@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-26T22:20:00Z"
+pushed_at: "2026-10-01T23:04:22Z"
 ---
 ## What it is
 MCP server `Pipeworx Watchmode`, catalogued on PulseMCP. Streaming availability across 200+ services, including title search, streaming sources, and new releases via Watchmode API.

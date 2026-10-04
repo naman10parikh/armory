@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-09-21T04:26:44Z"
+pushed_at: "2026-10-01T10:57:48Z"
 ---
 ## What it is
 An intelligent research assistant MCP server for AI agents, providing task-oriented literature search and analysis across multiple academic databases.

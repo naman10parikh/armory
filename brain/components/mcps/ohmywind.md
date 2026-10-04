@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-23T07:16:44Z"
+pushed_at: "2026-09-29T06:10:04Z"
 ---
 ## What it is
 Enables any MCP-compatible assistant to plan sailing passages using wind and sea forecasts, with boat-specific polars, per-leg ETAs, complexity scores, and deep links to interactive plans. Works globally, with higher-resolution models over France, and supports multi-day departure window comparisons.

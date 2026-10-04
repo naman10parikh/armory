@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-01T10:14:52Z"
+pushed_at: "2026-10-01T17:34:46Z"
 ---
 ## What it is
 Emulates Claude Skills with any LLM via MCP, enabling agents to use modular skill packages for specialized workflows and tool integrations.

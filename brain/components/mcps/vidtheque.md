@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T09:27:32Z"
+pushed_at: "2026-10-04T13:01:15Z"
 ---
 ## What it is
 Enables search across videos you've watched via transcripts, on-screen text, and frames, citing exact timestamps. Point it at videos, channels, or playlists; it indexes everything locally and answers queries with deep links to the exact second.

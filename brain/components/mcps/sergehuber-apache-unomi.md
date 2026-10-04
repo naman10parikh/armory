@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2025-09-12T12:17:05Z"
+pushed_at: "2026-10-04T12:30:37Z"
 ---
 ## What it is
 MCP server `Apache Unomi`, catalogued on PulseMCP. Maintain persistent user profiles and context across conversations.

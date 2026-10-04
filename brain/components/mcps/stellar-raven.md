@@ -8,13 +8,13 @@ source_url: https://github.com/stellar-experimental/stellar-raven
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-09-21T17:23:53Z"
+forks: 7
+pushed_at: "2026-10-02T17:22:08Z"
 ---
 ## What it is
 Enables agents to discover and execute Stellar ecosystem services and skills via a search tool and a sandboxed JavaScript execution tool, deployed on Cloudflare Workers.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T12:56:04Z"
+pushed_at: "2026-10-01T17:02:18Z"
 ---
 ## What it is
 Enables querying Umphrey's McGee setlist data including shows, songs, jam charts, and guest appearances through natural language.

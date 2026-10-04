@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T08:36:46Z"
+pushed_at: "2026-10-02T08:37:56Z"
 ---
 ## What it is
 Enables remote MCP clients to access local filesystem and shell commands by deploying a Cloudflare Worker relay and a local daemon, providing tools like read/write files, exec commands, git status, etc.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, browser-automation]
 stars: 12
 forks: 3
-pushed_at: "2026-09-27T08:05:37Z"
+pushed_at: "2026-09-30T15:06:57Z"
 ---
 ## What it is
 Real-time web intelligence with freshness timestamps. GitHub, HN, Scholar, arXiv, YC, jobs, finance, package trends — every result stamped with how old it is.

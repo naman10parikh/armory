@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-15T07:44:59Z"
+pushed_at: "2026-10-01T21:42:03Z"
 ---
 ## What it is
 Repository-native protocol and MCP server for coordinating work items, documentation, changelogs, and project memory between humans and AI agents, using Markdown files in a Git repository as the canonical data source.

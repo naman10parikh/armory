@@ -8,13 +8,13 @@ source_url: https://github.com/fellowship-dev/navvi
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-25T00:26:19Z"
+forks: 3
+pushed_at: "2026-10-01T03:46:06Z"
 ---
 ## What it is
 Gives your AI agent a persistent browser identity with anti-detection, credential vault, and multi-persona support for automated web browsing, login, and signup.

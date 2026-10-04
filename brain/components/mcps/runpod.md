@@ -8,12 +8,12 @@ source_url: https://github.com/runpod/runpod-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 79
+stars: 81
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 21
-pushed_at: "2026-09-25T03:53:52Z"
+pushed_at: "2026-10-03T07:17:59Z"
 ---
 ## What it is
 MCP server `RunPod`, catalogued on PulseMCP. Enables programmatic control of RunPod cloud GPU resources and serverless deployments through a TypeScript interface to the RunPod REST API.

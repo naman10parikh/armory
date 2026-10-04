@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 63
 forks: 7
-pushed_at: "2026-08-25T13:52:21Z"
+pushed_at: "2026-10-02T00:26:49Z"
 ---
 ## What it is
 MCP server providing AI assistants with full control of Neovim instances via msgpack-RPC. Read/edit buffers, run commands, send keys, query LSP diagnostics, and annotate code with highlights. No plugin required.

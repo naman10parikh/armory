@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-23T10:54:30Z"
+pushed_at: "2026-09-30T10:55:46Z"
 ---
 ## What it is
 MCP server `Snowfakery`, catalogued on PulseMCP. Author, analyze, debug, and run Snowfakery data generation recipes for Salesforce testing workflows.

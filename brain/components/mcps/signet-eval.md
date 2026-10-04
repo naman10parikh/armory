@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-24T17:33:05Z"
+pushed_at: "2026-10-03T20:50:00Z"
 ---
 ## What it is
 Deterministic policy enforcement for AI agent tool calls. It evaluates every tool call against user-defined rules before execution, with no LLM in the authorization path.

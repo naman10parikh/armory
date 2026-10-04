@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-24T06:19:00Z"
+pushed_at: "2026-10-02T10:15:31Z"
 ---
 ## What it is
 MCP server for the Globalize localization platform: create translation projects, add languages, manage glossaries and style guides, connect repositories, and track translation jobs from any MCP client. Available as a hosted Streamable HTTP endpoint and as an open-source TypeScript package in the mcp

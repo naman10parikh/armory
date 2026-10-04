@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-27T11:38:48Z"
+forks: 1
+pushed_at: "2026-10-03T16:43:29Z"
 ---
 ## What it is
 An MCP server for TrueNAS SCALE that enables read-first management of storage, system, sharing, and virtualization resources with per-user API key authentication, and optional write operations.

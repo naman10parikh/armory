@@ -8,12 +8,12 @@ source_url: https://github.com/elsejj/mcp-cn-a-stock
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 459
+stars: 460
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 75
-pushed_at: "2026-09-23T06:42:35Z"
+pushed_at: "2026-09-30T09:14:15Z"
 ---
 ## What it is
 MCP server `A-Stock`, catalogued on PulseMCP. Provides specialized stock market data retrieval for Chinese markets, enabling detailed stock information access across brief, medium, and full depth levels through a custom data feed system.

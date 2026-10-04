@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-21T05:33:40Z"
+pushed_at: "2026-09-28T15:51:19Z"
 ---
 ## What it is
 MCP-native LLM observability. Query your Spanlens traces, stats, cost anomalies, and savings from Cursor, Claude Desktop, or any MCP client. Open source (MIT).

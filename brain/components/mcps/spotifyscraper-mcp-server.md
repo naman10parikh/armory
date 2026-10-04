@@ -8,12 +8,12 @@ source_url: https://github.com/AliAkhtari78/SpotifyScraper
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 332
+stars: 315
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 34
+forks: 33
 pushed_at: "2026-09-18T17:28:32Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/shinpr/mcp-image
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 167
+stars: 169
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 39
-pushed_at: "2026-09-10T06:26:07Z"
+pushed_at: "2026-09-29T20:40:10Z"
 ---
 ## What it is
 MCP server `Gemini Image Generator`, catalogued on PulseMCP. Integrates with Google's Gemini 2.5 Flash model to generate images with automatic prompt enhancement and file-based output, featuring character consistency maintenance and multi-image blending capabilities for content creators.

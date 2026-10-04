@@ -8,13 +8,13 @@ source_url: https://github.com/qdang46/livekit-agent-simulator
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-25T01:36:01Z"
+pushed_at: "2026-10-01T10:38:33Z"
 ---
 ## What it is
 Dials any LiveKit voice agent with an AI simulated caller and records a full forensic behavior log.

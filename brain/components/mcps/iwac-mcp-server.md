@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-26T21:44:53Z"
+pushed_at: "2026-10-02T07:40:13Z"
 ---
 ## What it is
 A read-only MCP server for the Islam West Africa Collection (IWAC) digital archive, providing 37 tools to search and analyze newspaper articles, publications, references, and more.

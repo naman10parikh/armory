@@ -8,13 +8,13 @@ source_url: https://github.com/ssanvi-builds/seahorse
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T20:11:01Z"
+pushed_at: "2026-10-01T11:13:39Z"
 ---
 ## What it is
 Open memory standard for AI agents. Local-first, MCP-native, lives in your Obsidian vault. Bi-temporal markdown, hybrid retrieval, reproducible benchmark.

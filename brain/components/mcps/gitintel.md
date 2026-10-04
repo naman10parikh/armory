@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-09-07T20:41:31Z"
+pushed_at: "2026-09-27T19:38:16Z"
 ---
 ## What it is
 A local Git intelligence MCP server that provides deep repository analytics including hotspots, temporal coupling, knowledge maps, churn analysis, and risk scoring for AI agents.

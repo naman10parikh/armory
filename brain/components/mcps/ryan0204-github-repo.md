@@ -8,11 +8,11 @@ source_url: https://github.com/ryan0204/github-repo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2026-09-17T09:15:55Z"
 ---
 ## What it is

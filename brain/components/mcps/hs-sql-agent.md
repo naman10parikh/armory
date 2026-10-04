@@ -8,13 +8,13 @@ source_url: https://github.com/tse-wei-chen/hs-sql-agent
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-14T17:11:13Z"
+pushed_at: "2026-09-30T05:19:23Z"
 ---
 ## What it is
 C# SQL Agent MCP server featuring raw SQL input, strict AST validation, and an embedded Admin UI. Eliminates LLM hallucinations and security risks across 6 major databases.

@@ -8,7 +8,7 @@ source_url: https://github.com/0xchamin/mcptube
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 159
+stars: 161
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,13 +8,13 @@ source_url: https://github.com/kamiazya/whiteboard
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-27T14:27:09Z"
+forks: 2
+pushed_at: "2026-10-04T12:50:39Z"
 ---
 ## What it is
 Enables AI agents to collaboratively draw and annotate Excalidraw diagrams in real-time via MCP tools, synced to a browser canvas.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-16T23:51:01Z"
+pushed_at: "2026-09-28T19:45:02Z"
 ---
 ## What it is
 Hosted MCP server that syncs health data from Apple Health, Fitbit, Oura, and Google Health Connect, enabling Claude and ChatGPT to query workouts, sleep, nutrition, and recovery in plain English with interactive charts.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-02-22T15:15:41Z"
+pushed_at: "2026-10-02T07:12:15Z"
 ---
 ## What it is
 MCP server `BrainBox`, catalogued on PulseMCP. Hebbian memory for AI agents that learns file patterns, predicts next tools, and saves tokens.

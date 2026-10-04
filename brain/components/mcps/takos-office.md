@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T15:31:59Z"
+pushed_at: "2026-09-28T03:28:32Z"
 ---
 ## What it is
 Self-hosted productivity suite with document, slide, and spreadsheet editors, all accessible via a single MCP endpoint for agent-native interaction.

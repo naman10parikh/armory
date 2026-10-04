@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:03:38Z"
+pushed_at: "2026-10-02T16:08:21Z"
 ---
 ## What it is
 An open-source, headless HubSpot alternative that exposes CRM, conversations, CMS, knowledge base, outreach, and analytics as MCP tools for AI agents to operate.

@@ -8,11 +8,11 @@ source_url: https://github.com/symgraph/ghidrassistmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 755
+stars: 760
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 70
+forks: 71
 pushed_at: "2026-08-03T12:39:26Z"
 ---
 ## What it is

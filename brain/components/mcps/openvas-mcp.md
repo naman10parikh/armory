@@ -8,13 +8,13 @@ source_url: https://github.com/CyberSecAuto-Labs/OpenVAS-MCP
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-01T15:16:41Z"
+pushed_at: "2026-10-03T05:21:37Z"
 ---
 ## What it is
 Self-hosted MCP server that gives AI agents structured access to OpenVAS vulnerability scanning without sending data externally.

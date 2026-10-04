@@ -8,12 +8,12 @@ source_url: https://github.com/microsoft/mcp-dotnet-samples
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 196
+stars: 198
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 64
-pushed_at: "2026-09-22T00:40:12Z"
+forks: 63
+pushed_at: "2026-09-30T01:33:20Z"
 ---
 ## What it is
 MCP server `Awesome Copilot`, catalogued on PulseMCP. Stores Copilot customizations from the Awesome Copilot repository.

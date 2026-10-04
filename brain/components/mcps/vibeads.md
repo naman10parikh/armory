@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T18:16:36Z"
+pushed_at: "2026-10-03T13:16:17Z"
 ---
 ## What it is
 MCP server `VibeAds`, catalogued on PulseMCP. Query and analyze Google Ads campaigns for local service businesses using natural language.

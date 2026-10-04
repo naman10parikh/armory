@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T09:32:40Z"
+pushed_at: "2026-09-30T17:17:30Z"
 ---
 ## What it is
 Gives Claude persistent, local context about how you work, your weekly agenda, and shipped work, with automatic work logging and git integration—all stored privately on your machine.

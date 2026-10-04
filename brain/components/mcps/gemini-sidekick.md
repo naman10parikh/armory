@@ -8,12 +8,12 @@ source_url: https://github.com/MiyaSHs/gemini-sidekick
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-06-21T00:14:08Z"
 ---
 ## What it is

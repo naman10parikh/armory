@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-19T20:54:36Z"
+pushed_at: "2026-09-28T13:16:42Z"
 ---
 ## What it is
 MCP server `LiveDataLink`, catalogued on PulseMCP. Unified MCP server providing AI agents access to government, market, regulatory, and risk data through a single endpoint.

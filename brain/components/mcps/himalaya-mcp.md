@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-08-31T19:16:23Z"
+pushed_at: "2026-09-28T19:15:44Z"
 ---
 ## What it is
 Privacy-first email MCP server wrapping the himalaya CLI, providing 22 tools, 6 prompts, and 3 resources for email management with multi-account support.

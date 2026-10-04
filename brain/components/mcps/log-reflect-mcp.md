@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-19T20:18:04Z"
+pushed_at: "2026-09-27T20:05:34Z"
 ---
 ## What it is
 Captures and retrieves Markdown records for a personal recording system, enabling journaling, input tracking, search, and date-range review.

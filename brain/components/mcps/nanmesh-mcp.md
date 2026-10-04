@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:46:01Z"
+pushed_at: "2026-10-02T01:12:25Z"
 ---
 ## What it is
 MCP server for NaN Mesh, enabling AI agents to search entities, cast trust reviews, register agents, post content, and query trust scores from the AI trust network.

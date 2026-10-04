@@ -8,13 +8,13 @@ source_url: https://github.com/jasp-nerd/marktplaats-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T09:25:45Z"
+pushed_at: "2026-09-30T09:26:06Z"
 ---
 ## What it is
 Enables AI agents to search and monitor Dutch and Belgian classifieds (Marktplaats and 2dehands) for listings, seller profiles, and categories.

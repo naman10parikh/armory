@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-25T23:19:26Z"
+pushed_at: "2026-10-03T15:01:04Z"
 ---
 ## What it is
 Provides official French and European company data (INSEE Sirene, INPI RNE) for AI agents via pay-per-call USDC on Base, including search, profiles, KYB, sanctions screening, financials, and more.

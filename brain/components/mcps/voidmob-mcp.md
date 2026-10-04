@@ -8,13 +8,13 @@ source_url: https://github.com/voidmobcom/voidmob-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-24T13:17:40Z"
+pushed_at: "2026-10-01T14:46:23Z"
 ---
 ## What it is
 Provides 28 tools for mobile proxies, non-VoIP SMS verifications, dedicated numbers, and global eSIMs, enabling AI agents to perform phone-related tasks.

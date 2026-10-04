@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2025-12-07T03:41:50Z"
+pushed_at: "2026-10-04T02:56:53Z"
 ---
 ## What it is
 An immersive Role-Playing Game server built on the Model Context Protocol for interactive storytelling with AI assistants like Claude.

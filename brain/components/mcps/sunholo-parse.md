@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-26T14:42:46Z"
+pushed_at: "2026-10-02T19:08:00Z"
 ---
 ## What it is
 MCP server `Sunholo Parse`, catalogued on PulseMCP. Deterministic DOCX, PPTX, XLSX, and PDF parser with track changes, comments, and structure.

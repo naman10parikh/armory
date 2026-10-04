@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-13T16:32:50Z"
+pushed_at: "2026-09-15T03:09:25Z"
 ---
 ## What it is
 Cross-game market intelligence and currency conversion across six MMOs, enabling unified searches, portfolio tracking, and farming optimization via MCP.

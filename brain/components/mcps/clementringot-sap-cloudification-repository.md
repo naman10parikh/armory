@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-21T16:45:54Z"
+pushed_at: "2026-09-28T16:46:06Z"
 ---
 ## What it is
 MCP server `SAP Cloudification Repository`, catalogued on PulseMCP. Searches SAP released objects, APIs, and migration successors with Clean Core Level filtering for ABAP Cloud migration planning.

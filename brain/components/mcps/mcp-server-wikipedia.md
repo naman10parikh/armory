@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T07:21:08Z"
+pushed_at: "2026-10-03T13:21:13Z"
 ---
 ## What it is
 Enables efficient Wikipedia access through a progressive retrieval strategy that minimizes token usage by searching, summarizing, and fetching only relevant sections.

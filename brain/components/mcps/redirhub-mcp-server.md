@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-13T13:48:49Z"
+pushed_at: "2026-10-04T04:22:29Z"
 ---
 ## What it is
 Control every redirect from your AI assistant. Create, update, test, and monitor URL redirects through a standardized protocol — compatible with Claude, Cursor, and any MCP client. RedirHub is redirect infrastructure. This MCP server gives your AI agents direct access to that infrastructure: manage 

@@ -8,7 +8,7 @@ source_url: https://github.com/Microck/discord.py-self-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 67
+stars: 70
 eval_score: null
 verified_at: 2026-05-27
 related: []

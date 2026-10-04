@@ -8,12 +8,12 @@ source_url: https://github.com/AndyShaman/gemini-webapi-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 56
+stars: 59
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 25
+forks: 27
 pushed_at: "2026-09-21T11:03:27Z"
 ---
 ## What it is

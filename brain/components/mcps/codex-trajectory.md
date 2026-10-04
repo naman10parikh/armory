@@ -8,13 +8,13 @@ source_url: https://github.com/icesixgod/codex-trajectory
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 247
+stars: 249
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 16
-pushed_at: "2026-09-20T15:55:24Z"
+pushed_at: "2026-10-04T10:03:37Z"
 ---
 ## What it is
 A read-only MCP server that turns Codex task logs into privacy-aware event ledgers and interactive timelines, providing tools to list sessions and retrieve trajectory data with summary or full detail levels.

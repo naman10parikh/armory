@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-17T18:53:21Z"
+pushed_at: "2026-10-01T16:53:57Z"
 ---
 ## What it is
 Indexes any TypeScript / React / Next.js repo into a queryable code graph and exposes 13 MCP tools — who-renders, who-calls, find-references, blast-radius, find-cycles, dead-code orphans, and local semantic search — so agents query structure instead of reading whole files. Built on ts-morph, so edge

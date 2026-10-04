@@ -8,11 +8,11 @@ source_url: https://github.com/raullenchai/vnsh
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 156
+stars: 157
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
+forks: 25
 pushed_at: "2026-09-06T14:38:01Z"
 ---
 ## What it is

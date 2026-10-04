@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 40
-forks: 15
-pushed_at: "2026-09-26T04:59:34Z"
+stars: 39
+forks: 17
+pushed_at: "2026-09-28T03:26:27Z"
 ---
 ## What it is
 MCP server for Mendeley reference manager. Search your library, browse folders, get document metadata, search the global catalog, and add papers to your collection.

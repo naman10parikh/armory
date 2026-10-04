@@ -8,13 +8,13 @@ source_url: https://github.com/slavins-co/cellartracker-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-26T04:12:52Z"
+pushed_at: "2026-10-03T04:13:20Z"
 ---
 ## What it is
 Connects Claude to your CellarTracker wine cellar, enabling natural language queries for inventory, drinking recommendations, purchase history, and tasting notes.

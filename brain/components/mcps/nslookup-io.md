@@ -8,11 +8,11 @@ source_url: https://github.com/nslookup-io/nslookup-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 3
 pushed_at: "2026-07-17T18:22:51Z"
 ---
 ## What it is

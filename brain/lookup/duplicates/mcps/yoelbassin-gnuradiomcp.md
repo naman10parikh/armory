@@ -12,8 +12,9 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, embedded-system]
 stars: 50
-forks: 11
+forks: 12
 pushed_at: "2026-08-15T11:31:03Z"
+renamed_to: yoelbassin/gr-mcp
 ---
 ## What it is
 An MCP server for GNU Radio that enables LLMs to autonomously create and modify RF `.grc` flowcharts.

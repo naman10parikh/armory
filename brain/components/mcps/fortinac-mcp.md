@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T09:36:35Z"
+pushed_at: "2026-09-29T08:10:57Z"
 ---
 ## What it is
 MCP server for diagnosing rogue hosts on FortiNAC 7.6 by querying the REST API, cross-referencing devices against profiling rules, and running nmap scans to identify classification blockers.

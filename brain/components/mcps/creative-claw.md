@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-26T20:15:28Z"
+pushed_at: "2026-09-30T15:42:25Z"
 ---
 ## What it is
 MCP server `Creative Claw`, catalogued on PulseMCP. AI creative studio for generating images, video, audio, and 3D models through natural language.

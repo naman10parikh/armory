@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
-stars: 86
+stars: 87
 forks: 26
-pushed_at: "2026-09-13T10:18:21Z"
+pushed_at: "2026-10-04T12:38:00Z"
 ---
 ## What it is
 Tastyworks API integration to handle trading activities on Tastytrade

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-22T09:47:33Z"
+pushed_at: "2026-10-01T09:49:08Z"
 ---
 ## What it is
 Web search API for comprehensive event retrieval: find every relevant event across the open web â not just top results.

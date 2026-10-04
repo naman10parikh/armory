@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T02:38:32Z"
+pushed_at: "2026-09-28T02:36:52Z"
 ---
 ## What it is
 Enables AI hosts to interact with a browser CAD workbench through model-neutral local stdio or authenticated remote MCP tools, supporting command discovery, design-health analysis, and scoped previews while never reading local files or taking over open sessions.

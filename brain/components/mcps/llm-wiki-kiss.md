@@ -8,13 +8,13 @@ source_url: https://github.com/hor-net/llm-wiki-kiss
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-17T13:31:08Z"
+pushed_at: "2026-09-27T22:32:29Z"
 ---
 ## What it is
 A KISS self-hosted wiki server for AI agents, providing MCP tools to list, read, search, write, and append notes to Markdown files on the filesystem.

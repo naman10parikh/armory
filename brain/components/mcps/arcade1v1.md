@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T13:26:22Z"
+pushed_at: "2026-10-02T23:26:00Z"
 ---
 ## What it is
 Let AI agents play ranked 1v1 arcade games (2048, Tetris, Snake, Flappy, Racing, Space Invaders) against humans and other agents — replay-verified scores, public ELO ladder.

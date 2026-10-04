@@ -8,13 +8,13 @@ source_url: https://github.com/TianLin0509/superwireless
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-12T05:44:23Z"
+pushed_at: "2026-09-28T04:44:44Z"
 ---
 ## What it is
 Enables AI agents to validate wireless communication ideas by providing standardized channel instances and physical measurements through MCP, eliminating the need to write simulations from scratch.

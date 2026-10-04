@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-09-07T21:12:26Z"
+forks: 3
+pushed_at: "2026-10-03T16:35:01Z"
 ---
 ## What it is
 MCP server for the Hetzner Cloud API. Manage servers, networks, volumes, firewalls, load balancers, and more through the Model Context Protocol.

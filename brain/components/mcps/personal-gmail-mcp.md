@@ -8,13 +8,13 @@ source_url: https://github.com/jaingxyz/personal-gmail-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T17:36:11Z"
+pushed_at: "2026-10-03T17:36:50Z"
 ---
 ## What it is
 Enables managing Gmail inbox and Google Calendar through MCP, with tools for email operations and calendar events.

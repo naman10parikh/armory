@@ -8,13 +8,13 @@ source_url: https://github.com/zsxh1990/pr-genius
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-23T10:54:25Z"
+pushed_at: "2026-10-04T05:27:12Z"
 ---
 ## What it is
 Evidence-backed PR contribution advisor MCP server. Analyzes PR contribution strategy using 550+ real case studies across 33 repos. Provides risk assessment, anti-pattern detection, and maintainer policy guidance.

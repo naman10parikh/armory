@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-27T10:52:49Z"
+pushed_at: "2026-10-04T10:52:54Z"
 ---
 ## What it is
 Give your AI agents the ability to listen. Microphone capture and speech-to-text tools for MCP-compatible agents.

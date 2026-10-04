@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-19T03:01:43Z"
+pushed_at: "2026-10-04T02:27:28Z"
 ---
 ## What it is
 A local-first, open-source memory system for Claude Code that eliminates cross-chat AI amnesia by storing decisions and facts verbatim in a SQLite database and retrieving them via MCP tools for persistent, context-aware conversations.

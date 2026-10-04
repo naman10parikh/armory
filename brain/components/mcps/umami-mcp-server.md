@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T17:57:40Z"
+pushed_at: "2026-10-03T20:18:07Z"
 ---
 ## What it is
 An MCP server that gives Claude read access to Umami web analytics, allowing natural language queries for stats, breakdowns, pageview trends, live visitors, and user journeys.

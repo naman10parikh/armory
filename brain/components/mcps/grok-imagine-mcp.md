@@ -8,13 +8,13 @@ source_url: https://github.com/runapi-ai/grok-imagine-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-04T10:59:52Z"
+forks: 1
+pushed_at: "2026-09-30T11:34:12Z"
 ---
 ## What it is
 Enables AI image and video generation tasks (text-to-image, image-to-video, edit, upscale, etc.) via RunAPI, with support for polling and pricing lookups.

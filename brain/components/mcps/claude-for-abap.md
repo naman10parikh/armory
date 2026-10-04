@@ -8,13 +8,13 @@ source_url: https://github.com/yzonur/claude-for-abap
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-22T13:40:49Z"
+pushed_at: "2026-09-28T12:46:03Z"
 ---
 ## What it is
 MCP server giving Claude (and any MCP-compatible client) live access to SAP systems via ADT for reading, searching, editing, and activating ABAP objects.

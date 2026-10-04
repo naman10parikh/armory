@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T14:25:25Z"
+pushed_at: "2026-09-28T14:26:45Z"
 ---
 ## What it is
 MCP server for the Mamba Labs People Finder & Email Verifier actor on Apify. Give it a company domain, name or LinkedIn URL and it returns the people at that company who match your role, seniority and department filters, each as a structured contact record with an optional verified business email.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, multimedia-process]
 stars: 9
 forks: 5
-pushed_at: "2026-04-15T10:15:45Z"
+pushed_at: "2026-09-30T11:57:53Z"
 ---
 ## What it is
 Unified Gemini media generation: Nano Banana (images, editing, multi-reference composition), Veo 3.1 (video, image-to-video, extend), TTS, and Lyria 3 (music with vocals). Single Go binary, 12 tools, supports Gemini API key and Vertex AI.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-23T11:45:52Z"
+pushed_at: "2026-09-28T21:46:05Z"
 ---
 ## What it is
 MCP server `Health Monitor`, catalogued on PulseMCP. Monitors MCP server health by probing the protocol directly via list_tools calls, with auto-discovery, latency tracking, and version drift detection.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-27T11:02:01Z"
+pushed_at: "2026-09-28T07:47:55Z"
 ---
 ## What it is
 Enables AI assistants to access official European business data across 15 EU countries, including company lookups, VAT validation, sanctions screening, and KYB reports.

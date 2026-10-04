@@ -8,13 +8,13 @@ source_url: https://github.com/lacs-project/sysknife
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 26
-pushed_at: "2026-09-23T19:22:24Z"
+forks: 28
+pushed_at: "2026-10-04T03:23:40Z"
 ---
 ## What it is
 Your sysadmin co-pilot — an AI that administers Linux through typed, approval-gated, Ed25519-audited actions instead of shell strings. Reference implementation of the LACS standard.

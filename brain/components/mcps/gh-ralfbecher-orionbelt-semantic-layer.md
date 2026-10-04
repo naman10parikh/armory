@@ -12,8 +12,8 @@ stars: 98
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
-pushed_at: "2026-09-26T15:20:39Z"
+forks: 10
+pushed_at: "2026-10-02T21:16:23Z"
 ---
 ## What it is
 MCP server `OrionBelt Semantic Layer`, catalogued on PulseMCP. API-first semantic layer compiling YAML models into dialect-specific SQL.

@@ -8,13 +8,13 @@ source_url: https://github.com/pminervini/deep-research-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 109
+stars: 111
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
-pushed_at: "2026-09-25T08:13:27Z"
+forks: 13
+pushed_at: "2026-09-28T08:22:06Z"
 ---
 ## What it is
 A Python-based agent that integrates research providers (OpenAI, Gemini, DR-Tulu, Open Deep Research) with Claude Code via the Model Context Protocol for automated deep research.

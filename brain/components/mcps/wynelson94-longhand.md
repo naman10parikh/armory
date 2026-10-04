@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-17T23:25:09Z"
+pushed_at: "2026-09-28T05:52:50Z"
 ---
 ## What it is
 MCP server `Longhand`, catalogued on PulseMCP. Persistent local memory for Claude Code sessions by indexing tool calls, file edits, and thinking blocks with semantic recall.

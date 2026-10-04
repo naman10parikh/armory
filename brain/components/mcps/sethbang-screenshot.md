@@ -8,12 +8,12 @@ source_url: https://github.com/sethbang/mcp-screenshot-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-09-21T11:14:49Z"
+pushed_at: "2026-09-28T11:15:04Z"
 ---
 ## What it is
 MCP server `Screenshot Server`, catalogued on PulseMCP. Captures web page screenshots using TypeScript and Puppeteer, enabling automated visual content processing for web testing, archiving, and data collection.

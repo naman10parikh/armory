@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-17T22:35:59Z"
+pushed_at: "2026-10-01T22:38:56Z"
 ---
 ## What it is
 A high-performance MCP server for the USPTO Patent File Wrapper API with context reduction, smart field mapping, and secure browser-accessible downloads.

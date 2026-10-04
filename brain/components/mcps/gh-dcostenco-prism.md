@@ -12,8 +12,8 @@ stars: 157
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
-pushed_at: "2026-09-25T14:47:31Z"
+forks: 26
+pushed_at: "2026-10-04T02:00:10Z"
 ---
 ## What it is
 MCP server `Prism`, catalogued on PulseMCP. AI agent persistent memory system with local-first storage, time travel, and multi-agent sync.

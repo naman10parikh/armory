@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 60
-pushed_at: "2026-09-21T14:25:02Z"
+pushed_at: "2026-09-27T21:57:19Z"
 ---
 ## What it is
 MCP server for persistent, compounding memory that automatically captures corrections and insights across AI sessions, enabling agents to learn and improve over time.

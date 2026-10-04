@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T10:11:06Z"
+pushed_at: "2026-09-28T10:12:47Z"
 ---
 ## What it is
 Enables querying Gyeongbuk-province and municipal population, local tax, policy, and council data through MCP tools, returning conclusions with sources and limitations.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-09-24T13:32:33Z"
+pushed_at: "2026-10-02T07:15:12Z"
 ---
 ## What it is
 MCP server `Mac Shell`, catalogued on PulseMCP. Enables secure execution of macOS terminal commands through a ZSH shell with a whitelist system that categorizes operations as safe, requiring approval, or forbidden.

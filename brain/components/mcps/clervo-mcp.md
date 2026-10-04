@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T06:19:20Z"
+pushed_at: "2026-09-29T22:16:53Z"
 ---
 ## What it is
 A stdio MCP server backed by the TypeScript SDK that exposes frozen Clervo operations for web search and answer functionality, enabling agents to find and understand information through a clean-room outcome infrastructure.

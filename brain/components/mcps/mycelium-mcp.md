@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T20:53:30Z"
+pushed_at: "2026-10-01T05:15:56Z"
 ---
 ## What it is
 The coordination layer for AI agent networks, providing persistent memory, task management, inter-agent messaging, and human oversight through native MCP tools.

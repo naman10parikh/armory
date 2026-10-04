@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T23:24:03Z"
+pushed_at: "2026-09-29T23:24:08Z"
 ---
 ## What it is
 Audits a domain to determine if AI agents and crawlers can access and read it, returning a flat row of 42 fields covering llms.txt, robots.txt AI policy, structured data, render mode, and machine-readable endpoint discovery.

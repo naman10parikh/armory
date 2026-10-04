@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-09T22:57:54Z"
+pushed_at: "2026-09-29T11:37:04Z"
 ---
 ## What it is
 An MCP server that wraps the local Grok Build CLI, enabling Codex to delegate code reviews, bounded coding tasks, and setup diagnostics to Grok for a second opinion or parallel processing.

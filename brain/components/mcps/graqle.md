@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-09-27T08:22:20Z"
+pushed_at: "2026-10-03T10:47:37Z"
 ---
 ## What it is
 MCP server `Graqle`, catalogued on PulseMCP. Architecture-aware knowledge graph that enables AI assistants to understand codebase structure and dependencies.

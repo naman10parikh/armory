@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T09:55:16Z"
+pushed_at: "2026-10-02T09:54:46Z"
 ---
 ## What it is
 A production-minded MCP server kit that provides OAuth 2.1/PKCE authentication, rate limiting, scope-gated tools, and two-phase confirmation for building secure MCP servers with custom tools, identity, and storage.

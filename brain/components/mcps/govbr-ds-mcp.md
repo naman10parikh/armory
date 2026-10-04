@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T16:39:31Z"
+pushed_at: "2026-10-01T15:15:42Z"
 ---
 ## What it is
 Enables AI agents to access and utilize GovBR Design System documentation, including component details, accessibility guidance, and search functionality via Model Context Protocol.

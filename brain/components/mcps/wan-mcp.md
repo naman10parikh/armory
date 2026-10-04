@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T09:40:01Z"
+pushed_at: "2026-09-30T11:40:42Z"
 ---
 ## What it is
 MCP server for the Wan model line enabling AI-driven animation, video editing, and image/video generation tasks via RunAPI with status polling and pricing.

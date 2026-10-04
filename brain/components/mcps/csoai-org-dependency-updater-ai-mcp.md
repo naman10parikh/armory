@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-29T20:43:54Z"
+pushed_at: "2026-09-04T12:38:11Z"
 ---
 ## What it is
 MCP server `Dependency Updater AI`, catalogued on PulseMCP. AI tools for identifying and updating outdated package dependencies.

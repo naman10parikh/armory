@@ -8,14 +8,14 @@ source_url: https://github.com/agntcy/oasf
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 334
+stars: 338
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
-forks: 46
-pushed_at: "2026-09-24T20:42:06Z"
+forks: 47
+pushed_at: "2026-09-29T21:10:51Z"
 ---
 ## What it is
 Use when agents must describe themselves to other systems in a common schema so they can be catalogued, discovered and verified.

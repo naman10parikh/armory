@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T10:22:36Z"
+pushed_at: "2026-10-01T23:52:42Z"
 ---
 ## What it is
 Enables LLM agents and automation tools to interact with Moodle through a permission-checked MCP endpoint, covering courses, activities, question banks, enrolments, and administrative operations via 240 external functions.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-27T11:39:15Z"
+pushed_at: "2026-10-04T06:37:56Z"
 ---
 ## What it is
 MCP server `Terminal Shell`, catalogued on PulseMCP. Enables AI to execute shell commands in containerized environments through a lightweight server with configurable authentication and SSE transport for seamless terminal interaction.

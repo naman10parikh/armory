@@ -14,8 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [evals, experiment-tracking, sdk]
 mentions: null
-forks: 14
-pushed_at: "2026-09-25T18:35:07Z"
+forks: 15
+pushed_at: "2026-10-03T22:30:21Z"
 ---
 ## What it is
 Developer platform for logging, evaluating, and comparing LLM experiments with dataset versioning and scoring functions.

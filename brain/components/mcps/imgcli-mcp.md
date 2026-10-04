@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-09-14T06:59:05Z"
+pushed_at: "2026-09-29T07:36:05Z"
 ---
 ## What it is
 Convert, resize, crop, rotate, filter, and composite images from the command line — a lightweight, dependency-free, ffmpeg-style alternative to ImageMagick for still images. Wraps the imgcli CLI and exposes convert_image, probe_image, and list_filters tools.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-27T04:57:53Z"
+pushed_at: "2026-10-02T21:08:23Z"
 ---
 ## What it is
 MCP server `Dice Roller`, catalogued on PulseMCP. Provides cryptographically secure dice rolling with standard notation and Fate/Fudge dice support for tabletop RPGs and games requiring reliable random number generation.

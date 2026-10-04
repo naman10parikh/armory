@@ -8,12 +8,12 @@ source_url: https://github.com/vapiai/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 27
+forks: 28
 pushed_at: "2026-09-24T00:34:16Z"
 ---
 ## What it is

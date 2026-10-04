@@ -8,13 +8,13 @@ source_url: https://github.com/mlennie/hermes-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 62
+stars: 64
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
-pushed_at: "2026-05-17T21:12:56Z"
+forks: 18
+pushed_at: "2026-09-29T19:33:22Z"
 ---
 ## What it is
 An MCP server that allows Claude Desktop and other MCP clients to delegate tasks to a local Hermes Agent for automation and persistent operations.

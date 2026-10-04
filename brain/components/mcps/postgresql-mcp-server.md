@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-02-02T12:02:59Z"
+pushed_at: "2026-09-28T11:24:35Z"
 ---
 ## What it is
 Exposes PostgreSQL database operations as tools for AI assistants, allowing SQL queries and schema inspection.

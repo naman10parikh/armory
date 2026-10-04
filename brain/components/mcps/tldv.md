@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2025-12-12T11:19:04Z"
+pushed_at: "2026-09-29T16:46:24Z"
 ---
 ## What it is
 MCP server `tl;dv`, catalogued on PulseMCP. Interact with your meeting data (to list, ask, summarize, extract - virtually anything about your meetings) across Zoom, Google Meet and MS Teams via tl;dv.

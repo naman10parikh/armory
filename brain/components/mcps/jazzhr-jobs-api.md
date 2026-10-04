@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T05:12:16Z"
+pushed_at: "2026-10-04T05:11:49Z"
 ---
 ## What it is
 Enables searching across all companies hiring on JazzHR to retrieve structured job postings, employer directories, and delta feeds of new openings without needing individual career page URLs.

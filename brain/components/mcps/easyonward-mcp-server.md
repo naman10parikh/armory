@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T02:54:38Z"
+pushed_at: "2026-10-01T12:11:11Z"
 ---
 ## What it is
 Enables AI assistants to check passport visa, entry, and transit requirements for a country pair using official government sources and a deep link to EasyOnward.

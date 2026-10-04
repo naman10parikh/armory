@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T09:18:30Z"
+pushed_at: "2026-09-29T10:00:34Z"
 ---
 ## What it is
 Serves the architectural graph of a hexagonal-architecture codebase to coding agents via stdio, providing tools to analyze dependencies, check violations, and inspect structural changes.

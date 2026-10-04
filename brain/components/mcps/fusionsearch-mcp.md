@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T08:14:47Z"
+pushed_at: "2026-09-29T16:48:35Z"
 ---
 ## What it is
 把五个搜索源熔进一个 MCP —— 一次调用，多源取证 · 交叉验证 · AI 汇总

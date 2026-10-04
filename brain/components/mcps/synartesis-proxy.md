@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T15:55:04Z"
+pushed_at: "2026-09-28T17:10:02Z"
 ---
 ## What it is
 An MCP proxy that records every tool call, restores prior state on undo, and blocks irreversible actions until a human approves them.

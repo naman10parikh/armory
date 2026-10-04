@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-20T21:06:19Z"
+pushed_at: "2026-10-04T06:26:41Z"
 ---
 ## What it is
 MCP server `FRED Economic Data`, catalogued on PulseMCP. Queries Federal Reserve Bank of St. Louis economic time series, releases, and category data via the FRED API.

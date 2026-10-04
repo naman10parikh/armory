@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T22:51:39Z"
+pushed_at: "2026-10-03T16:40:35Z"
 ---
 ## What it is
 This MCP server provides tools to search for songs, artists, and random records from the Bide & Musique catalogue. It offers read-only access to tens of thousands of French songs with no authentication needed.

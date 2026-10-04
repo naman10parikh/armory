@@ -8,14 +8,14 @@ source_url: https://github.com/exa-labs/exa-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5055
+stars: 5076
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
 mentions: null
-forks: 400
-pushed_at: "2026-09-23T00:29:21Z"
+forks: 401
+pushed_at: "2026-10-02T03:27:09Z"
 ---
 ## What it is
 MCP server `Exa Web Search`, catalogued on PulseMCP. Query Exa API to retrieve structured search results.

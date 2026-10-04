@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-26T23:42:45Z"
+pushed_at: "2026-09-04T12:41:03Z"
 ---
 ## What it is
 MCP server `Memory Search`, catalogued on PulseMCP. Python MCP server for persistent memory storage and semantic search.

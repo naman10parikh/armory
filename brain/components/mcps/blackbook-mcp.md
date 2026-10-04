@@ -8,13 +8,13 @@ source_url: https://github.com/Daniel-wambua/BlackBook
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T10:20:45Z"
+pushed_at: "2026-10-01T15:09:15Z"
 ---
 ## What it is
 A source-grounded cybersecurity knowledge & research MCP server that provides read-only search, exact citations, and a knowledge graph, designed to run alongside execution MCPs.

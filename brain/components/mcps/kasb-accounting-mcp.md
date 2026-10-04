@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T21:48:10Z"
+pushed_at: "2026-09-27T22:02:58Z"
 ---
 ## What it is
 Enables searching and retrieving Korean accounting standards (K-IFRS, general corporate accounting standards) and Q&A summaries from the Korea Accounting Standards Board (KASB) database directly in Claude.

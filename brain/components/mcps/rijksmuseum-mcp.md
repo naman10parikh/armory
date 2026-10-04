@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-11T15:34:18Z"
+pushed_at: "2026-10-03T17:41:13Z"
 ---
 ## What it is
 Lets you explore the Rijksmuseum's artwork collections through natural conversation with an AI assistant.

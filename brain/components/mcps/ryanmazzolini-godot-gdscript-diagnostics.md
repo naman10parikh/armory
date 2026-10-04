@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-09-01T03:45:55Z"
+pushed_at: "2026-09-27T16:44:04Z"
 ---
 ## What it is
 MCP server `Godot GDScript Diagnostics`, catalogued on PulseMCP. Connects directly to Godot's Language Server Protocol to provide real-time GDScript syntax validation and error detection without requiring a full Godot installation.

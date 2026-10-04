@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-08-19T08:01:05Z"
+pushed_at: "2026-10-01T07:25:46Z"
 ---
 ## What it is
 MCP server `Twitter`, catalogued on PulseMCP. Integrates with Twitter through OAuth 1.0a authentication to enable posting text and image tweets, searching for content, and managing threaded conversations with rate limiting protection

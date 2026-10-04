@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T09:34:26Z"
+pushed_at: "2026-09-30T11:34:04Z"
 ---
 ## What it is
 RunAPI MCP server for the Hailuo model line. Create tasks, poll their status, and check pricing through a single RunAPI API key.

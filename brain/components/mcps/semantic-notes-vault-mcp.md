@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 54
-pushed_at: "2026-09-21T09:10:19Z"
+pushed_at: "2026-09-28T23:50:10Z"
 ---
 ## What it is
 Connects AI assistants to an Obsidian vault as a semantic knowledge graph, enabling graph navigation, semantic search, and content operations through MCP.

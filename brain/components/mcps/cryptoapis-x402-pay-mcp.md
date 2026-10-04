@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-24T12:05:25Z"
+pushed_at: "2026-09-28T11:48:32Z"
 ---
 ## What it is
 Enables AI agents to discover and pay for x402-gated HTTP APIs, handling 402 Payment Required flows with local signing. Supports EVM and Solana with non-custodial wallet management.

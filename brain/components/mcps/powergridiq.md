@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-13T23:01:14Z"
+pushed_at: "2026-09-29T13:31:25Z"
 ---
 ## What it is
 The PGIQ Rating as agent tools: where to site or schedule a large electricity load across 67 global power markets. Wraps a read-only REST API returning reasoned, cited ratings across access, availability, cost, momentum, and carbon, plus live grid snapshots and cheapest-window scheduling.

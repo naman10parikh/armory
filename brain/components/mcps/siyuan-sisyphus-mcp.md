@@ -8,13 +8,13 @@ source_url: https://github.com/yangtaihong59/siyuan-plugins-mcp-sisyphus
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 112
+stars: 114
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 21
-pushed_at: "2026-09-10T16:35:29Z"
+forks: 22
+pushed_at: "2026-10-01T04:45:04Z"
 ---
 ## What it is
 Enables AI agents to safely read, search, edit, and organize SiYuan notes, with git-like document timeline and notebook-level permissions.

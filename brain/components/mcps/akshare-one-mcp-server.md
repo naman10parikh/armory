@@ -8,13 +8,13 @@ source_url: https://github.com/zwldarren/akshare-one-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 231
+stars: 232
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 52
-pushed_at: "2026-09-24T00:14:04Z"
+pushed_at: "2026-10-01T00:19:55Z"
 ---
 ## What it is
 Provide access to Chinese stock market data including historical prices, real-time data, news, and financial statements. Retrieve comprehensive financial information for stocks with flexible parameters. Enhance your financial analysis and decision-making with up-to-date market insights.

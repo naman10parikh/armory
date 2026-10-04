@@ -12,8 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-09-26T21:08:26Z"
+forks: 2
+pushed_at: "2026-10-04T09:51:09Z"
 ---
 ## What it is
 MCP server `mcpm`, catalogued on PulseMCP. Package manager with trust scoring for searching, installing, and auditing MCP servers.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T01:11:55Z"
+pushed_at: "2026-09-29T01:54:34Z"
 ---
 ## What it is
 教育資源導航 MCP，可透過 TWCampus 目錄路由至台灣官方教育平台，即時搜尋與讀取公開學習資源。

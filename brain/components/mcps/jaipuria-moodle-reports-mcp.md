@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-26T05:06:50Z"
+pushed_at: "2026-10-04T07:13:35Z"
 ---
 ## What it is
 Enables faculty to query student performance reports, cohort analytics, and report accuracy from Jaipuria student data using natural language, with read-only, campus-scoped access.

@@ -8,11 +8,11 @@ source_url: https://github.com/stefanoamorelli/fred-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 122
+stars: 123
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 39
+forks: 40
 pushed_at: "2026-08-22T18:34:49Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T16:20:25Z"
+pushed_at: "2026-10-02T09:45:14Z"
 ---
 ## What it is
 Enables management of endpoint inventory, patching, and vulnerabilities through the Action1 REST API, with read-only access by default and optional write support for update approvals.

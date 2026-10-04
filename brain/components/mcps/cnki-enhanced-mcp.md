@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-08T19:01:14Z"
+pushed_at: "2026-10-02T14:23:49Z"
 ---
 ## What it is
 Enables AI to search, filter, and process CNKI academic literature through natural language, including structured search, metadata retrieval, full-text reading, citation export, and PDF/CAJ download.

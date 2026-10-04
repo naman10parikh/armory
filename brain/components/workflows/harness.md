@@ -13,9 +13,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [workflow, guide, teams]
-stars: 9074
-forks: 1287
-pushed_at: "2026-09-26T09:01:25Z"
+stars: 9118
+forks: 1293
+pushed_at: "2026-09-28T05:19:20Z"
 ---
 ## What it is
 A community workflow/command, catalogued in awesome-claude-code. A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. Resources are in Korean but can produce high-quality English-language output.

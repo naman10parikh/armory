@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T01:05:12Z"
+pushed_at: "2026-10-02T01:06:30Z"
 ---
 ## What it is
 Enables querying and summarizing French association public data from RNA, JOAFE, subsidies, and dataset discovery sources.

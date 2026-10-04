@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-16T13:26:58Z"
+pushed_at: "2026-09-29T09:37:47Z"
 ---
 ## What it is
 MCP server `Linked API`, catalogued on PulseMCP. Lets AI assistants control LinkedIn accounts and retrieve real-time data.

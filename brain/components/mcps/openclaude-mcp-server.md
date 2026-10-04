@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-27T12:12:47Z"
+pushed_at: "2026-10-02T12:47:46Z"
 ---
 ## What it is
 A high-performance control plane for Ollama-based local LLM sessions with background memory consolidation, hybrid cloud planning, and real-time fleet monitoring.

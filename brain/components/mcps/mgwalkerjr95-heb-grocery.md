@@ -8,11 +8,11 @@ source_url: https://github.com/mgwalkerjr95/texas-grocery-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 62
+stars: 64
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 29
+forks: 30
 pushed_at: "2026-05-11T17:59:31Z"
 ---
 ## What it is

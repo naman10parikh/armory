@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-12T07:19:17Z"
+pushed_at: "2026-10-02T21:57:11Z"
 ---
 ## What it is
 Local dashboard and MCP server that maintains a live project registry and skill library, enabling coding agents to pull project context and automatically update status, stack, and next steps.

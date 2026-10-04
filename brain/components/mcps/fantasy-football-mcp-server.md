@@ -8,13 +8,13 @@ source_url: https://github.com/derekrbreese/fantasy-football-mcp-public
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 87
+stars: 88
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 43
-pushed_at: "2026-09-06T14:46:45Z"
+forks: 44
+pushed_at: "2026-10-03T23:20:08Z"
 ---
 ## What it is
 AI-powered Yahoo Fantasy Football assistant for lineup optimization, draft strategy, and league management with player enhancement and multi-league support.

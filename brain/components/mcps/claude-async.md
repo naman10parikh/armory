@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T07:52:03Z"
+pushed_at: "2026-09-28T19:53:04Z"
 ---
 ## What it is
 A fire-and-poll MCP server that lets Claude Code run long background jobs without hitting tool-call timeouts.

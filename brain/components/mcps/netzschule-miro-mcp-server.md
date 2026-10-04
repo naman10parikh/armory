@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T23:27:42Z"
+pushed_at: "2026-09-29T09:55:37Z"
 ---
 ## What it is
 Enables interaction with Miro whiteboards via MCP and REST API, including board manipulation, sticky notes, shapes, and bulk operations.

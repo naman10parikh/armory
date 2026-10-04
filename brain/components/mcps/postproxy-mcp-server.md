@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T09:16:50Z"
+pushed_at: "2026-09-30T08:27:41Z"
 ---
 ## What it is
 Integrates PostProxy API with Claude Code for publishing posts, checking statuses, and managing social media profiles across multiple platforms.

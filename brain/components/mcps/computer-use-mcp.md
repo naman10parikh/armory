@@ -8,12 +8,12 @@ source_url: https://github.com/domdomegg/computer-use-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 379
+stars: 383
 eval_score: 1
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 48
+forks: 51
 pushed_at: "2026-09-09T22:20:12Z"
 ---
 ## What it is

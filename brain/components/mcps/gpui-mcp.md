@@ -8,13 +8,13 @@ source_url: https://github.com/themixednuts/gpui-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-23T15:16:49Z"
+pushed_at: "2026-10-02T12:26:54Z"
 ---
 ## What it is
 An embedded, cross-platform Model Context Protocol bridge for testing and automating GPUI applications.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-07T22:19:46Z"
+forks: 2
+pushed_at: "2026-09-28T19:16:45Z"
 ---
 ## What it is
 Enables secure management of multiple Shopify Admin stores through separate aliases and access tokens, supporting GraphQL queries and mutations with per-store authorization.

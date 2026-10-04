@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T07:29:11Z"
+pushed_at: "2026-10-03T04:34:54Z"
 ---
 ## What it is
 Exposes rate-limit and usage data for AI coding agent CLIs as MCP tools, enabling querying of usage snapshots and reset times.

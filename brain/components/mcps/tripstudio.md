@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-11T02:16:10Z"
+pushed_at: "2026-10-01T15:27:05Z"
 ---
 ## What it is
 MCP server for travel-planning agents to create and manage concise Markdown briefs and validated structured trip documents, without booking or altering travel.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-09-22T04:42:03Z"
+forks: 1
+pushed_at: "2026-10-03T05:23:17Z"
 ---
 ## What it is
 Provides a self-tending knowledge base for AI agents, automatically harvesting session transcripts into facts and state notes, and injecting relevant context into new sessions via MCP hooks.

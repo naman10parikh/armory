@@ -8,11 +8,11 @@ source_url: https://github.com/l-margiela/olx-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 7
 pushed_at: "2026-08-26T16:03:14Z"
 ---
 ## What it is

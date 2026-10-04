@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T08:57:07Z"
+pushed_at: "2026-10-03T06:17:23Z"
 ---
 ## What it is
 A local MCP server using SQLite to unify context and memory across multiple AI agents, enabling persistent decisions and preferences without re-explanation.

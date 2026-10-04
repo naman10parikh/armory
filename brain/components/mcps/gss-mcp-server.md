@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T14:29:43Z"
+pushed_at: "2026-09-26T09:51:29Z"
 ---
 ## What it is
 Exposes Grey Swan Signals market stress intelligence as callable tools for AI agents, providing composite stress index, vector scores, and alert events.

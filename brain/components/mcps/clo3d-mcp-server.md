@@ -8,12 +8,12 @@ source_url: https://github.com/Ubani-Studio/clo3d-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 34
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 7
 pushed_at: "2026-07-29T19:12:18Z"
 ---
 ## What it is

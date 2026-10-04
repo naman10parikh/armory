@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-23T18:13:13Z"
+pushed_at: "2026-09-29T12:19:34Z"
 ---
 ## What it is
 MCP server `Axint`, catalogued on PulseMCP. Compile TypeScript or Python definitions to native Swift — App Intents, SwiftUI, WidgetKit, and full apps.

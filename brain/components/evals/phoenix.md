@@ -8,14 +8,14 @@ source_url: https://github.com/Arize-AI/phoenix
 license: Elastic-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 11632
+stars: 11703
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, observability, rag, agents]
 mentions: 2
-forks: 1163
-pushed_at: "2026-09-27T11:14:32Z"
+forks: 1181
+pushed_at: "2026-10-04T12:55:53Z"
 ---
 ## What it is
 Arize Phoenix: open-source LLM observability with built-in evals, span tracing, and dataset curation for RAG and agents.

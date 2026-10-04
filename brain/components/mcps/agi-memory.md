@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2025-06-21T20:39:22Z"
+pushed_at: "2026-09-29T19:59:48Z"
 ---
 ## What it is
 MCP server `AGI Memory`, catalogued on PulseMCP. Provides persistent memory capabilities across conversations through PostgreSQL database integration with four memory types (episodic, semantic, procedural, strategic), vector similarity search, memory clustering, identity persistence, and graph-based relationships for maintaining context and building genuine understanding over time.

@@ -12,8 +12,8 @@ stars: 618
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 30
-pushed_at: "2026-09-25T12:22:16Z"
+forks: 32
+pushed_at: "2026-09-30T23:11:57Z"
 ---
 ## What it is
 MCP server `Marmot Data Catalog`, catalogued on PulseMCP. Open-source data catalog with asset search, lineage exploration, and ownership tracking.

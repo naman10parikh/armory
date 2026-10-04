@@ -8,13 +8,13 @@ source_url: https://github.com/AdeiTamayo/WallpopMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-22T07:48:35Z"
+forks: 1
+pushed_at: "2026-09-29T13:44:05Z"
 ---
 ## What it is
 Unofficial MCP server for the Wallapop marketplace, enabling search, listing details, seller profiles, favorites, saved searches, chat, and offers through hybrid API and scraping fallbacks.

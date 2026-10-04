@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-11T07:52:01Z"
+pushed_at: "2026-09-29T04:40:29Z"
 ---
 ## What it is
 Lets one Codex instance send a task to another Codex instance on a different computer, enabling symmetric host-to-host collaboration including projectless tasks and local environment dependent work.

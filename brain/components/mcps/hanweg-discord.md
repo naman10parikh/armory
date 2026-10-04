@@ -8,7 +8,7 @@ source_url: https://github.com/hanweg/mcp-discord
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 167
+stars: 166
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

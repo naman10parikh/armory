@@ -8,12 +8,12 @@ source_url: https://github.com/dawncr0w/affine-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 291
+stars: 295
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 73
-pushed_at: "2026-09-25T01:43:24Z"
+forks: 74
+pushed_at: "2026-10-02T02:55:05Z"
 ---
 ## What it is
 MCP server `AFFiNE`, catalogued on PulseMCP. Integrates with AFFiNE workspaces through GraphQL and WebSocket connections to enable document operations, real-time collaboration, version control, user management, and blob storage with CRDT-based updates and workspace creation capabilities.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-15T14:41:44Z"
+pushed_at: "2026-09-04T12:40:58Z"
 ---
 ## What it is
 MCP server `Meeting Summarizer AI`, catalogued on PulseMCP. Python MCP server for meeting transcript summarization and action items.

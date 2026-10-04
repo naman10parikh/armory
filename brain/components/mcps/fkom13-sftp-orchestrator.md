@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-20T00:10:08Z"
+pushed_at: "2026-09-30T15:19:12Z"
 ---
 ## What it is
 MCP server `SFTP Orchestrator`, catalogued on PulseMCP. Remote task orchestration via SSH/SFTP with persistent queue and hybrid execution

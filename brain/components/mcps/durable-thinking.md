@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T20:12:20Z"
+pushed_at: "2026-09-28T11:56:02Z"
 ---
 ## What it is
 Persistent sequential thinking for MCP clients, stored durably on Cloudflare Workers with support for branching, revision, and history retrieval.

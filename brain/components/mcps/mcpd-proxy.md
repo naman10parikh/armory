@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-15T08:41:09Z"
+pushed_at: "2026-09-29T13:56:03Z"
 ---
 ## What it is
 An MCP server that acts as a proxy between IDEs and the mcpd daemon, exposing all mcpd-managed MCP servers through a unified interface.
