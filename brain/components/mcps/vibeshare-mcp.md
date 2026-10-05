@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T22:39:28Z"
+pushed_at: "2026-10-02T11:22:16Z"
 ---
 ## What it is
 Enables agents to share live terminal sessions, manage viewers and join requests, and stop active shares, with consent handled through tool-approval prompts.

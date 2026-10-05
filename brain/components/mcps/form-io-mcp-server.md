@@ -8,13 +8,13 @@ source_url: https://github.com/formio/ai
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-09T20:13:43Z"
+pushed_at: "2026-10-05T13:43:15Z"
 ---
 ## What it is
 Enables AI agents to manage forms, roles, actions, and projects on a Form.io Enterprise Server via MCP tools, turning it into a composable backend for agentically coded applications.

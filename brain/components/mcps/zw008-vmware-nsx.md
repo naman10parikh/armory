@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-20T14:47:18Z"
+pushed_at: "2026-10-01T01:27:32Z"
 ---
 ## What it is
 MCP server `VMware NSX`, catalogued on PulseMCP. VMware NSX networking management with segments, gateways, NAT, routing, and IPAM tools.

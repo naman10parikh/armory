@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T23:21:16Z"
+pushed_at: "2026-10-04T21:44:23Z"
 ---
 ## What it is
 MCP server for deploying files via FTP and running SQL via phpMyAdmin on cdmon shared hosting, with safety features like path traversal protection and rate limiting.

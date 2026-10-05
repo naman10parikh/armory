@@ -8,12 +8,12 @@ source_url: https://github.com/litmusautomation/litmus-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-23T22:34:17Z"
+pushed_at: "2026-10-01T05:19:26Z"
 ---
 ## What it is
 MCP server `Litmus Edge`, catalogued on PulseMCP. Integrates with Litmus Edge for industrial IoT device configuration, monitoring, and management, enabling real-time tag value retrieval, Docker container management, DeviceHub device creation across various protocols, NATS topic subscription for data streaming, and system property configuration for industrial automation workflows.

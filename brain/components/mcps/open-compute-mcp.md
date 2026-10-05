@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T11:08:43Z"
+pushed_at: "2026-10-03T10:32:39Z"
 ---
 ## What it is
 Model-agnostic computer-use tools over MCP, enabling screen capture and automated actions (click, type, scroll) via natural language tool calls.

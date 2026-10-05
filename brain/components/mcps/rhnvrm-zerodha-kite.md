@@ -8,11 +8,11 @@ source_url: https://github.com/zerodha/kite-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 318
+stars: 322
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 132
+forks: 134
 pushed_at: "2026-09-10T07:27:39Z"
 ---
 ## What it is

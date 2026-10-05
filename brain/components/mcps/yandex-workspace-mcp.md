@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-24T07:12:05Z"
+forks: 1
+pushed_at: "2026-10-02T10:48:38Z"
 ---
 ## What it is
 Production-ready MCP server integrating AI assistants with Yandex Disk and Yandex Wiki, offering unified search, file/page management, and security-first access controls.

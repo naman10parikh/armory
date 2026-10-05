@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T07:21:22Z"
+pushed_at: "2026-10-03T13:22:01Z"
 ---
 ## What it is
 Enables AI agents to directly access native macOS services, media, system health, and administration tools through a local MCP server.

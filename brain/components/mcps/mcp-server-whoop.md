@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T00:00:04Z"
+pushed_at: "2026-09-29T05:32:19Z"
 ---
 ## What it is
 A local-first, read-only MCP server that provides compact recovery, sleep, strain, HRV, heart-rate, workout, and body-measurement data from WHOOP without sending credentials to a third party.

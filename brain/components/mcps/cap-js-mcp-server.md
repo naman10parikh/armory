@@ -8,13 +8,13 @@ source_url: https://github.com/cap-js/mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 113
+stars: 112
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 18
-pushed_at: "2026-09-28T06:36:54Z"
+forks: 19
+pushed_at: "2026-10-05T14:37:12Z"
 ---
 ## What it is
 MCP server for SAP CAP that enables AI-assisted development by searching CDS model definitions and CAP documentation.

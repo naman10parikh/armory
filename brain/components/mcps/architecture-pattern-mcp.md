@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T06:40:44Z"
+pushed_at: "2026-10-01T18:40:16Z"
 ---
 ## What it is
 Provides architecture design expertise to AI coding agents, analyzing requirements, selecting architecture patterns, generating concrete designs, and evaluating quality attributes.

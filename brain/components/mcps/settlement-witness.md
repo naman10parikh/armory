@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-21T12:01:54Z"
+pushed_at: "2026-10-02T01:00:31Z"
 ---
 ## What it is
 MCP server `SettlementWitness`, catalogued on PulseMCP. Deterministic verification gate for agent execution and x402 settlement.

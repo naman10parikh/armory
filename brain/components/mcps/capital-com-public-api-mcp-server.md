@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-09-22T07:40:04Z"
+forks: 3
+pushed_at: "2026-10-02T12:04:46Z"
 ---
 ## What it is
 The Capital.com MCP Server lets your AI assistant talk to your trading account directly. Market data, position checks, trade previews – all in plain language, without leaving your AI tool.

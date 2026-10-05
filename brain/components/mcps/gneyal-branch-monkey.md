@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-14T09:28:25Z"
+pushed_at: "2026-09-30T09:38:22Z"
 ---
 ## What it is
 MCP server `Branch Monkey`, catalogued on PulseMCP. Integrates with Branch Monkey Cloud for task management, team collaboration, and project tracking with automatic prompt logging

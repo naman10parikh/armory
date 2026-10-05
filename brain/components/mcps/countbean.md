@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T19:12:34Z"
+pushed_at: "2026-10-05T13:45:21Z"
 ---
 ## What it is
 MCP server for Beancount plain-text accounting: turns plain English into double-entry transactions, runs bean-check, and commits each change to git so it can be diffed and reverted. Works on a local ledger file with no account, or on a hosted book.

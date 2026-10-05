@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T12:16:07Z"
+pushed_at: "2026-10-03T17:07:49Z"
 ---
 ## What it is
 Enables AI agents to manage task state through MCP, including creating, updating, and tracking tasks, with support for client-side encryption and secure local credential storage.

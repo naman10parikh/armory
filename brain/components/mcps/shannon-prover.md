@@ -8,13 +8,13 @@ source_url: https://github.com/SkyShannonProver/shannon-prover
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T16:43:42Z"
+pushed_at: "2026-10-01T16:10:28Z"
 ---
 ## What it is
 A server that connects LLM agents to the EasyCrypt proof assistant for writing machine-checked cryptographic proofs, providing a structured panel and managed sessions.

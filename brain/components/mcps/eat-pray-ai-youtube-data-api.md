@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 82
-pushed_at: "2026-09-25T12:22:22Z"
+pushed_at: "2026-10-05T09:05:36Z"
 ---
 ## What it is
 MCP server `YouTube Data API`, catalogued on PulseMCP. Integrates with YouTube Data API v3 to provide complete video management, channel operations, playlist control, analytics access, live streaming management, and content moderation capabilities for creators and social media managers.

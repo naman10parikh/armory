@@ -8,13 +8,13 @@ source_url: https://github.com/microsoft/autogen
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 61203
+stars: 61260
 eval_score: null
 mentions: 8
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 9258
+forks: 9274
 pushed_at: "2026-04-15T11:59:09Z"
 ---
 ## What it is

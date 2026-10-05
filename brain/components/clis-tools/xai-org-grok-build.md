@@ -8,14 +8,14 @@ source_url: https://github.com/xai-org/grok-build
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 27135
+stars: 27221
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, cli]
-forks: 5111
-pushed_at: "2026-09-23T16:52:48Z"
+forks: 5127
+pushed_at: "2026-09-29T16:57:13Z"
 ---
 ## What it is
 SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T15:59:06Z"
+pushed_at: "2026-10-03T20:08:40Z"
 ---
 ## What it is
 MCP server for accurately reading and writing Excel .xlsx files while preserving structure, styles, and formulas. Provides tools for inspecting, editing, and aggregating spreadsheet data, with optional LibreOffice recalculation.

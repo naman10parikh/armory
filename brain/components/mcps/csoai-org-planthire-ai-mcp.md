@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-28T03:21:57Z"
+pushed_at: "2026-09-04T12:42:31Z"
 ---
 ## What it is
 MCP server `Planthire AI`, catalogued on PulseMCP. Python MCP server for plant hire management and equipment rental tools.

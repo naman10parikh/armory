@@ -8,12 +8,12 @@ source_url: https://github.com/JeremyDong22/taobao_mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
+forks: 14
 pushed_at: "2025-11-17T16:22:21Z"
 ---
 ## What it is

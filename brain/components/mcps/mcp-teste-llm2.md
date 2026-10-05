@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T16:55:59Z"
+pushed_at: "2026-10-01T17:12:28Z"
 ---
 ## What it is
 MCP server that allows natural language queries in Portuguese to a PostgreSQL database using Ollama, ensuring read-only access with parameterized SQL and strict safety policies.

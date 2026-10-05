@@ -8,12 +8,12 @@ source_url: https://github.com/use-novamira/novamira
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 698
+stars: 706
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 109
-pushed_at: "2026-09-28T13:56:45Z"
+forks: 110
+pushed_at: "2026-10-05T08:35:35Z"
 ---
 ## What it is
 MCP server `Novamira`, catalogued on PulseMCP. WordPress plugin that gives AI agents full access to WordPress through PHP execution, filesystem operations, and crash-recoverable sandboxing.

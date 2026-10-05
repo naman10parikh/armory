@@ -8,11 +8,11 @@ source_url: https://github.com/caiovicentino/hyperliquid-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 8
 pushed_at: "2025-11-10T02:19:52Z"
 ---
 ## What it is

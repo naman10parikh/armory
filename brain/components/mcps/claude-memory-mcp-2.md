@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-16T18:52:03Z"
+pushed_at: "2026-10-05T00:11:29Z"
 ---
 ## What it is
 Persistent, searchable per-project memory for Claude Code using DuckDB and vector search, with rule enforcement and a management UI.

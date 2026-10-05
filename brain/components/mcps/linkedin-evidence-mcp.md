@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T01:26:51Z"
+pushed_at: "2026-10-02T01:26:24Z"
 ---
 ## What it is
 A local-first LinkedIn workspace that turns your own documents, CVs, repositories, and exports into a verifiable claim ledger and evidence-backed canonical profile, enabling evidence import, claim verification, profile patching, post drafting, content planning, analytics, and publication approvals t

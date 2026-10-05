@@ -8,13 +8,13 @@ source_url: https://github.com/memodb-io/memobase
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2919
+stars: 2924
 eval_score: null
 mentions: 0
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, memory]
-forks: 237
+forks: 239
 pushed_at: "2026-01-11T03:51:40Z"
 ---
 ## What it is

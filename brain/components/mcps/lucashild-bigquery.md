@@ -8,11 +8,11 @@ source_url: https://github.com/lucashild/mcp-server-bigquery
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 130
+stars: 131
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 40
+forks: 41
 pushed_at: "2026-03-26T13:57:09Z"
 ---
 ## What it is

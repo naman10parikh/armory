@@ -8,11 +8,11 @@ source_url: https://github.com/adhikasp/mcp-reddit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 425
+stars: 428
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 53
+forks: 54
 pushed_at: "2025-05-11T12:18:01Z"
 ---
 ## What it is

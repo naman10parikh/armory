@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-09-24T16:10:58Z"
+pushed_at: "2026-10-01T19:08:41Z"
 ---
 ## What it is
 Bridges IBM Operational Decision Manager with AI assistants, enabling decisions as tools for integration with platforms like Watson Orchestrate and Claude Desktop.

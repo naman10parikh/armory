@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:06:13Z"
+pushed_at: "2026-10-05T14:49:48Z"
 ---
 ## What it is
 Provides MCP tools to read and edit live Pen Editor documents, including structure, layout, variables, screenshots, and batch design DSL, plus static guidelines and style guides.

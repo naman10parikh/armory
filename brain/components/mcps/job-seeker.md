@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T13:33:20Z"
+pushed_at: "2026-10-01T21:34:40Z"
 ---
 ## What it is
 Profile-driven job search engine that aggregates postings, scores them against a user's profile, filters by eligibility (location, timezone, work authorization), and exposes find_jobs, list_sources, and describe_engine to local AI agents over MCP.

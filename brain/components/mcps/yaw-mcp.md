@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-25T20:49:27Z"
+pushed_at: "2026-10-04T12:06:26Z"
 ---
 ## What it is
 Manages and dispatches multiple MCP servers from a cloud dashboard, reducing tool-context bloat by loading only the most relevant servers for a given task.

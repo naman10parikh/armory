@@ -8,12 +8,12 @@ source_url: https://github.com/unmateria/MCP-Access
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 54
+stars: 55
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
+forks: 14
 pushed_at: "2026-09-24T16:14:24Z"
 ---
 ## What it is

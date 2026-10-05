@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 19
-pushed_at: "2026-09-17T04:34:40Z"
+pushed_at: "2026-10-04T04:07:10Z"
 ---
 ## What it is
 This MCP server integrates AI assistants with Unity Editor, allowing them to create scenes, generate scripts, simulate input, and automate workflows using 91 built-in tools.

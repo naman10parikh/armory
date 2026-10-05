@@ -13,7 +13,7 @@ related: [agnix, auto-claude]
 tags: [claude-code, tooling]
 stars: 51
 forks: 6
-pushed_at: "2026-09-11T23:47:43Z"
+pushed_at: "2026-09-28T19:38:03Z"
 ---
 ## What it is
 High-performance Go implementation of Claude Code hooks and utilities. Provides smart linting, testing, and statusline generation with minimal overhead.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-11T05:41:50Z"
+pushed_at: "2026-10-01T04:47:52Z"
 ---
 ## What it is
 Provides a read-only MCP interface to the Santismm Knowledge Platform, offering tools to retrieve curated content on engineering, AI patterns, architectures, governance, and agent taxonomy with structured output in English, Spanish, and Portuguese.

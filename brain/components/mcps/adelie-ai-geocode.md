@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-12T10:10:31Z"
+pushed_at: "2026-10-02T13:28:19Z"
 ---
 ## What it is
 MCP server `Geocode`, catalogued on PulseMCP. Converts addresses to coordinates using OpenStreetMap's Photon geocoding service.

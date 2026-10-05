@@ -8,13 +8,13 @@ source_url: https://github.com/ruslanlap/pagespeed-insights-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 66
+stars: 67
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-09-22T03:32:41Z"
+pushed_at: "2026-09-29T03:54:44Z"
 ---
 ## What it is
 16-tool MCP server for Google PageSpeed Insights & Chrome UX Report APIs. Analyze, compare, and optimize web performance directly through Claude, Cursor, or any MCP-compatible AI client.

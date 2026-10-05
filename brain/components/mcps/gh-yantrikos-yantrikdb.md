@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-09-19T23:19:19Z"
+pushed_at: "2026-10-03T15:42:06Z"
 ---
 ## What it is
 MCP server `YantrikDB`, catalogued on PulseMCP. Cognitive memory system providing semantic recall, knowledge graphs, and contradiction detection for agent context management.

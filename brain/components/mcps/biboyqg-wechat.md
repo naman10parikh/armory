@@ -8,11 +8,11 @@ source_url: https://github.com/biboyqg/wechat-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 265
+stars: 271
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 83
+forks: 87
 pushed_at: "2026-03-09T19:49:18Z"
 ---
 ## What it is

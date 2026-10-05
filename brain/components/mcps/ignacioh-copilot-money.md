@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 30
-pushed_at: "2026-09-28T07:54:34Z"
+pushed_at: "2026-10-05T07:55:18Z"
 ---
 ## What it is
 MCP server `Copilot Money`, catalogued on PulseMCP. Query and manage Copilot Money personal finance data including accounts, transactions, and budgets.

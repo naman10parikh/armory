@@ -8,13 +8,13 @@ source_url: https://github.com/zhaoyue722/llm-usage-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T12:50:13Z"
+pushed_at: "2026-10-05T13:31:36Z"
 ---
 ## What it is
 A local-first, multi-provider cost meter for LLM usage, exposed as MCP tools. Captures every call into a local SQLite ledger and lets any coding agent query spend, compare providers, and get recommendations — no cloud, no account. First-class support for Chinese providers (Qwen, DeepSeek) alongside 

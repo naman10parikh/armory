@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T00:29:08Z"
+pushed_at: "2026-09-29T07:09:09Z"
 ---
 ## What it is
 Provides full CRUD capabilities over Notion pages, databases, and content blocks, enabling natural language search, creation, and modification of Notion data.

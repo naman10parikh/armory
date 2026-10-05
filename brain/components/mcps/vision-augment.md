@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T20:33:45Z"
+pushed_at: "2026-09-30T20:34:11Z"
 ---
 ## What it is
 Enables non-vision LLMs to understand images, extract text via OCR, and parse documents through a unified MCP interface, with local-first processing and optional OpenAI-compatible channels.

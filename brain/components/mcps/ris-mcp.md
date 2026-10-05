@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T19:23:21Z"
+pushed_at: "2026-09-30T20:08:25Z"
 ---
 ## What it is
 MCP server that exposes Austrian federal law (Bundesrecht) to LLMs, enabling full-text search, paragraph retrieval, historical versions, statute lookup, BGBl lookups, amendment timelines, and citation searches via the public RIS OGD API.

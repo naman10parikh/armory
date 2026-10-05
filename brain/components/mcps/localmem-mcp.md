@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-09-01T15:57:14Z"
+pushed_at: "2026-10-01T01:58:16Z"
 ---
 ## What it is
 Gives AI agents persistent, local-first memory using SQLite and on-device embeddings, enabling semantic search and recall across sessions with no cloud calls.

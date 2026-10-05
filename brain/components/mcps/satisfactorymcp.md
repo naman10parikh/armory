@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-28T03:35:33Z"
+pushed_at: "2026-10-05T12:41:15Z"
 ---
 ## What it is
 An MCP server for Satisfactory that plans factories using your actual save files, reads game data, and runs LP/MILP optimization. It provides tools for game data lookup, factory planning, hard drive advice, and a local web map of your world.

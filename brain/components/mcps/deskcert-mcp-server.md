@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T04:28:51Z"
+pushed_at: "2026-09-29T07:33:30Z"
 ---
 ## What it is
 Exposes a run_suite tool to evaluate whether an AI agent is safe to operate internal web apps, scoring task completion and forbidden-action violations to gate CI/CD pipelines.

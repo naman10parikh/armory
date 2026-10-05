@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T00:28:07Z"
+pushed_at: "2026-10-05T14:46:46Z"
 ---
 ## What it is
 A trust-first repository copilot to audit signed commit provenance, preview editor configuration safety, and manage Git hook rollouts.

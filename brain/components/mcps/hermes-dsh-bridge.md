@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T07:39:33Z"
+pushed_at: "2026-10-05T13:34:08Z"
 ---
 ## What it is
 Enables external MCP clients to drive DeepSeek Harness agents for real coding tasks, providing tools for task execution and queueing, session management, sandboxed file access, preset switching, and usage statistics.

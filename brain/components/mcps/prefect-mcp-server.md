@@ -8,13 +8,13 @@ source_url: https://github.com/PrefectHQ/prefect-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 53
+stars: 54
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 40
-pushed_at: "2026-09-26T08:33:40Z"
+pushed_at: "2026-10-01T19:11:50Z"
 ---
 ## What it is
 An MCP server for interacting with Prefect resources, enabling AI assistants to monitor, manage, and debug workflows.

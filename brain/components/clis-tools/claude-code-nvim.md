@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-code-ide-el, claudix-claude-code-for-vscode]
 tags: [tooling, cli, ide-integrations]
-stars: 2095
+stars: 2098
 forks: 72
 pushed_at: "2026-02-04T14:44:51Z"
 ---

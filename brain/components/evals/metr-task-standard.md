@@ -8,12 +8,12 @@ source_url: https://github.com/METR/task-standard
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 197
+stars: 196
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, agents, task-standard, safety]
-forks: 38
+forks: 39
 pushed_at: "2025-02-03T21:50:42Z"
 ---
 ## What it is

@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 11
-forks: 0
+forks: 1
 pushed_at: "2026-08-31T19:30:04Z"
 ---
 ## What it is

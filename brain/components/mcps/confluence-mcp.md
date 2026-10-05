@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-10T09:33:38Z"
+pushed_at: "2026-09-30T15:14:40Z"
 ---
 ## What it is
 Provides read access to Confluence Server/Data Center pages, sections, tables, and search via the Confluence REST API v1.

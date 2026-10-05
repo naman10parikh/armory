@@ -8,7 +8,7 @@ source_url: https://github.com/jkf87/hwp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 267
+stars: 268
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

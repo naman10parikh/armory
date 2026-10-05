@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T12:44:05Z"
+pushed_at: "2026-10-02T12:44:42Z"
 ---
 ## What it is
 Enables querying and summarizing French commune information such as postal codes, departments, and regions, and discovering public datasets from sources like geo.api.gouv.fr and data.gouv.fr.

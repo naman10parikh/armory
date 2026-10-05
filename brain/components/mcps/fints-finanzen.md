@@ -8,13 +8,13 @@ source_url: https://github.com/NG-Bullseye/FinTS-Finanzen
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T12:54:05Z"
+pushed_at: "2026-09-28T22:09:06Z"
 ---
 ## What it is
 Read-only MCP server for FinTS/HBCI banking; enables account information retrieval such as balances and transactions via PIN-TAN.

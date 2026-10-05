@@ -8,13 +8,13 @@ source_url: https://github.com/dragonworx/alloy-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T03:45:37Z"
+pushed_at: "2026-10-04T11:45:12Z"
 ---
 ## What it is
 Bonds AI agents to your existing Chrome profile with 73 tools for tabs, DOM, input, screenshots, network, and more, leveraging live sessions and extensions for authenticated, no-setup browser automation.

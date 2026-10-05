@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-28T13:34:22Z"
+pushed_at: "2026-10-05T10:59:16Z"
 ---
 ## What it is
 MCP server `Sinch`, catalogued on PulseMCP. Integrates with Sinch's communication APIs to send messages across SMS, WhatsApp, RCS, and email channels, manage voice calls and conferences, and perform phone number verification and lookup operations with multi-region support and webhook event tracking.

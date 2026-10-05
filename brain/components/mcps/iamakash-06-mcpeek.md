@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-20T16:26:33Z"
+pushed_at: "2026-10-01T11:05:51Z"
 ---
 ## What it is
 MCP server `MCPeek`, catalogued on PulseMCP. Static AST-level security scanner for MCP server source code vulnerabilities.

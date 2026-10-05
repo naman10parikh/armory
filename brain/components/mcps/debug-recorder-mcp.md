@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-21T20:31:34Z"
+pushed_at: "2026-10-05T05:44:56Z"
 ---
 ## What it is
 Local-first debug memory for MCP clients. Record incidents, commands, failed attempts, successful fixes, diagnostics, and searchable debugging history in SQLite.

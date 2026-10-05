@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T09:54:18Z"
+pushed_at: "2026-10-01T10:00:18Z"
 ---
 ## What it is
 MCP server that experiments with cheaper LLM policies (model, prompt, reasoning, retry, escalation) against project tasks to recommend the lowest-cost policy that meets quality constraints.

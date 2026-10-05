@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-27T16:33:05Z"
+pushed_at: "2026-10-02T06:55:47Z"
 ---
 ## What it is
 MCP server for managing 1C:Enterprise.Element applications via Console API v2, enabling application listing, deployment with verification, build management, and more.

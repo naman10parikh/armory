@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 0
-pushed_at: "2026-05-05T12:31:07Z"
+pushed_at: "2026-10-05T13:22:19Z"
 ---
 ## What it is
 AI-powered repository management for Compoid - Search records, download artifacts, create entries, and manage communities with natural language.

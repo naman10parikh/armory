@@ -8,13 +8,13 @@ source_url: https://github.com/AjnasNB/cockroach-browser
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-10T00:52:40Z"
+pushed_at: "2026-09-30T16:06:23Z"
 ---
 ## What it is
 Observation-first MCP server for Cockroach Browser, enabling AI agents to snapshot, audit, and propose browser actions through a secure, policy-controlled daemon.

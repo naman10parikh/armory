@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T12:45:49Z"
+pushed_at: "2026-10-02T19:17:48Z"
 ---
 ## What it is
 x402-trust gives AI agents a "check before you pay" layer for the x402 ecosystem.

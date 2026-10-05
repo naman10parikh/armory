@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 30
-pushed_at: "2026-09-25T09:05:33Z"
+forks: 31
+pushed_at: "2026-09-30T12:41:41Z"
 ---
 ## What it is
 A local MCP server that gives Claude a durable reading room for EPUB and plain text books, enabling chunk-by-chunk navigation, annotations, progress tracking, and shared margin cards.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-28T06:10:56Z"
+pushed_at: "2026-10-02T06:07:10Z"
 ---
 ## What it is
 Enables AI coding assistants to access up-to-date, official Android documentation and APIs, reducing hallucinations from stale training data.

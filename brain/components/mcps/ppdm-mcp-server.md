@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-16T14:41:58Z"
+pushed_at: "2026-10-02T10:48:41Z"
 ---
 ## What it is
 Exposes Dell EMC PowerProtect Data Manager and NetWorker backup infrastructure as Claude Code tools for querying, monitoring, and controlling backup operations.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T21:17:49Z"
+pushed_at: "2026-10-02T16:58:26Z"
 ---
 ## What it is
 MCP server exposing IAMF conformance validation and packaging tools, enabling agents to validate IAMF files and compile/manage packaging plans through natural language, with read-only operation by default and optional execution.

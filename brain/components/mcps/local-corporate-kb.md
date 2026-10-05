@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T08:56:29Z"
+pushed_at: "2026-10-02T13:28:29Z"
 ---
 ## What it is
 Local RAG knowledge base for Qwen Code, enabling document indexing and semantic search via MCP tools. Supports metadata filtering and document retrieval without external dependencies.

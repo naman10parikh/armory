@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T16:47:40Z"
+pushed_at: "2026-09-28T16:47:38Z"
 ---
 ## What it is
 Provides read-only access to PostgreSQL databases via MCP, enforcing least-privilege roles, row-level security, masked views, and SQL AST guardrails to prevent data leakage and unauthorized operations, enabling AI agents to safely query sensitive production data.

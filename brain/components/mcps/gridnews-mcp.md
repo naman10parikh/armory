@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T00:39:08Z"
+pushed_at: "2026-09-29T13:11:18Z"
 ---
 ## What it is
 MCP server for GridNews that gives AI agents access to market news, press releases, sentiment analysis, and trending topics.

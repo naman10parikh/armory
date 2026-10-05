@@ -8,11 +8,11 @@ source_url: https://github.com/hidai25/eval-view
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 135
+stars: 137
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
+forks: 25
 pushed_at: "2026-09-05T03:28:43Z"
 ---
 ## What it is

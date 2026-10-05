@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-06-20T15:52:23Z"
+pushed_at: "2026-10-02T21:25:28Z"
 ---
 ## What it is
 MCP server `Scout APM`, catalogued on PulseMCP. Integrates with Scout APM to provide real-time application performance monitoring data including N+1 queries, memory bloat, slow queries, endpoint metrics, and detailed execution traces with line-of-code information for targeted performance debugging and automated issue detection.

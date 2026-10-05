@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:11:37Z"
+pushed_at: "2026-10-02T22:53:58Z"
 ---
 ## What it is
 Provides a self-hosted knowledge index with document-level permissions, enabling AI agents to retrieve exactly the documents they are authorized to see via MCP. Supports OAuth 2.1, custom embedding models, and runs inside your network.

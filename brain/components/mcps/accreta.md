@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T18:53:32Z"
+pushed_at: "2026-09-30T07:50:11Z"
 ---
 ## What it is
 MCP server that enables AI agents to search, fetch, and analyze a self-maintaining markdown knowledge base with provenance, drift detection, and canonical definitions.

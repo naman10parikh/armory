@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-24T09:06:20Z"
+pushed_at: "2026-09-29T16:45:22Z"
 ---
 ## What it is
 Provides read-only Arknights intelligence over MCP, enabling structured queries about stages, enemies, operators, and modules with region tagging and evidence-backed analysis. It uses versioned SQLite snapshots and never fetches upstream data at query time.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T16:13:39Z"
+pushed_at: "2026-10-02T12:00:46Z"
 ---
 ## What it is
 Simulates a multi-tenant customer support backend with tools for profile, order, ticket, and refund management, demonstrating security controls like tenant isolation, role-based access, and input validation.

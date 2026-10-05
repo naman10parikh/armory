@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T22:21:21Z"
+pushed_at: "2026-10-04T21:26:57Z"
 ---
 ## What it is
 Live iOS/Android simulator preview in Codex/Cursor/Claude Code. MCP App. Open source. Local-first.

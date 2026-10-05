@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T11:44:04Z"
+pushed_at: "2026-10-04T20:33:23Z"
 ---
 ## What it is
 An MCP server that builds structured research source packs for a topic, extracting verified facts, quotes, numbers, dates, and primary links with a coverage map of claims across sources.

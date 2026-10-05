@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-29T10:29:14Z"
+pushed_at: "2026-10-03T23:35:48Z"
 ---
 ## What it is
 Local-first MCP server that connects AI agents to your Withings body, sleep, activity and heart data.

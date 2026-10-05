@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-02-16T13:44:37Z"
+pushed_at: "2026-10-03T23:32:56Z"
 ---
 ## What it is
 Enables users to access and search Spring ecosystem documentation, guides, tutorials, and best practices through 12 tools, including Spring AI support and intelligent caching.

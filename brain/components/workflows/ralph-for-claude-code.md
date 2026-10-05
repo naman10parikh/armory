@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, workflows-knowledge-guides]
-stars: 9640
-forks: 722
-pushed_at: "2026-09-19T02:33:45Z"
+stars: 9653
+forks: 724
+pushed_at: "2026-10-03T05:19:56Z"
 ---
 ## What it is
 An autonomous AI development framework that enables Claude Code to work iteratively on projects until completion. Features intelligent exit detection, rate limiting, circuit breaker patterns, and comprehensive safety guardrails to prevent infinite loops and API overuse. Built with Bash, integrated with tmux for live monitoring, and includes 75+ comprehensive tests.

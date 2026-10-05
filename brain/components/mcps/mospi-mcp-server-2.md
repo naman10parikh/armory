@@ -8,13 +8,13 @@ source_url: https://github.com/nso-india/esankhyiki-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 142
+stars: 144
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 29
-pushed_at: "2026-09-28T09:49:23Z"
+forks: 28
+pushed_at: "2026-09-29T11:47:05Z"
 ---
 ## What it is
 Provides AI-ready access to Indian government statistics through MCP, enabling natural language queries for economic, demographic, and social indicators.

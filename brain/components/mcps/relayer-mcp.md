@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T10:40:31Z"
+pushed_at: "2026-10-03T19:48:40Z"
 ---
 ## What it is
 Install and manage a self-hosted XNS Relayer — S3-compatible distributed object storage — conversationally over stdio. 15 tools cover prerequisites, account registration, install, claim, health, VPD configuration, S3 verification, CLI credentials, settings, restart, and backups.

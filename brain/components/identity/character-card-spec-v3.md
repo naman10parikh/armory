@@ -8,13 +8,13 @@ source_url: https://github.com/kwaroran/character-card-spec-v3
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 112
+stars: 113
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
-forks: 11
+forks: 13
 pushed_at: "2024-07-20T14:36:12Z"
 ---
 ## What it is

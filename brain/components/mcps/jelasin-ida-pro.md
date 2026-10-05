@@ -8,7 +8,7 @@ source_url: https://github.com/captain-ai-hub/ida-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 247
+stars: 248
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

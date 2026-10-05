@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T13:08:11Z"
+pushed_at: "2026-10-01T13:36:25Z"
 ---
 ## What it is
 MCP server for NetCraze routers enabling management of static DNS hosts, system info, network interfaces, and other router features via Cursor and MCP clients.

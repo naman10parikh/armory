@@ -8,12 +8,12 @@ source_url: https://github.com/yan5236/bing-cn-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 70
+stars: 71
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 22
+forks: 23
 pushed_at: "2026-08-26T00:39:29Z"
 ---
 ## What it is

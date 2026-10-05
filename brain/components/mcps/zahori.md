@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-02T13:36:24Z"
+pushed_at: "2026-10-01T14:16:09Z"
 ---
 ## What it is
 Enables coding agents to discover and save media stream profiles from any webpage by probing the page, testing profiles, and validating stream URLs.

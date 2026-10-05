@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T19:41:58Z"
+pushed_at: "2026-09-28T15:42:46Z"
 ---
 ## What it is
 Provides a local stdio MCP server proxy enabling Codex to interact with a remote AAuth-protected eDocs Streamable HTTP MCP server, handling authentication, consent elicitation, and token exchange.

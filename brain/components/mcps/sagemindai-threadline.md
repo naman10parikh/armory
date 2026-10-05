@@ -8,12 +8,12 @@ source_url: https://github.com/jkheadley/instar
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 81
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 18
-pushed_at: "2026-09-28T07:05:24Z"
+pushed_at: "2026-10-05T10:29:28Z"
 ---
 ## What it is
 MCP server `Threadline`, catalogued on PulseMCP. Agent-to-agent messaging relay with zero-config discovery, message routing, and reply handling.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T17:38:31Z"
+pushed_at: "2026-10-01T08:14:20Z"
 ---
 ## What it is
 Enables managing applications, devices, profiles, multicast groups, and downlinks on a Milesight UG-series LoRaWAN gateway through natural language.

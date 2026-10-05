@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T09:49:47Z"
+pushed_at: "2026-09-30T08:02:15Z"
 ---
 ## What it is
 Enables AI agents to write TypeScript to create, render, verify, and export parametric 3D models using Replicad/OpenCascade CAD kernel, headlessly from terminal or MCP clients.

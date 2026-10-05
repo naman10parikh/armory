@@ -8,13 +8,13 @@ source_url: https://github.com/RubensZimbres/A2A_ADK_MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 58
+stars: 1
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, tutorials-learning-resources]
-forks: 16
-pushed_at: "2025-04-21T20:02:53Z"
+forks: 0
+pushed_at: "2026-09-11T14:51:57Z"
 ---
 ## What it is
 Multi-Agent Systems with Google's Agent Development Kit + A2A + MCP

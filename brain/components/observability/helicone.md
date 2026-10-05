@@ -8,12 +8,12 @@ source_url: https://github.com/Helicone/helicone
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 6183
+stars: 6199
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, proxy, logging]
-forks: 676
+forks: 681
 pushed_at: "2026-09-16T19:29:27Z"
 ---
 ## What it is

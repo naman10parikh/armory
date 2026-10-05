@@ -8,12 +8,12 @@ source_url: https://github.com/Abidit/eSewa-Khalti-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-09-04T05:48:29Z"
 ---
 ## What it is

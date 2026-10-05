@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-18T10:08:41Z"
+pushed_at: "2026-09-30T01:34:58Z"
 ---
 ## What it is
 Enables LLMs to control a Lyrion Music Server (LMS/Squeezebox) for playback, search, library browsing, and player management.

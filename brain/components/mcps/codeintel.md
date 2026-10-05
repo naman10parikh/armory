@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T08:54:08Z"
+pushed_at: "2026-10-04T15:35:16Z"
 ---
 ## What it is
 Local-first code intelligence for coding agents. Exposes precomputed SCIP navigation, Zoekt lexical search, cross-repo blast radius, and semantic search as MCP tools.

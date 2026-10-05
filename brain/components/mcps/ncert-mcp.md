@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T08:48:56Z"
+pushed_at: "2026-10-04T05:01:46Z"
 ---
 ## What it is
 An MCP server that turns the entire NCERT/CBSE curriculum into queryable infrastructure, enabling semantic search, RAG explanations, question generation, and curriculum mapping for grades 1–12.

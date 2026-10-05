@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T02:23:48Z"
+pushed_at: "2026-10-04T02:23:05Z"
 ---
 ## What it is
 MCP server for searching Korean public procurement bid notices (나라장터) using natural language.

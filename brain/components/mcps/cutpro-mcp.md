@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-01T06:23:31Z"
+pushed_at: "2026-10-02T12:03:03Z"
 ---
 ## What it is
 MCP server exposing the full CutPro v1 API as 34 tools for AI clients — analyze videos, submit clipping jobs, manage clips, render, and publish posts. Supports stdio, Streamable HTTP, and OAuth 2.1.

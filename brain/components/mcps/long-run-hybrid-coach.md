@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-26T11:13:13Z"
+pushed_at: "2026-10-05T09:38:32Z"
 ---
 ## What it is
 Provides a personal hybrid running and strength training coach that integrates with Intervals.icu, offering 28-day plans, activity reconciliation, and delivery of scheduled workouts to calendars via MCP.

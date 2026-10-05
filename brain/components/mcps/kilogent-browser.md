@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T12:27:42Z"
+pushed_at: "2026-10-04T16:16:10Z"
 ---
 ## What it is
 MCP server that lets agents drive your real Chrome browser with existing logins and sessions via an outbound-only WebSocket extension. It exposes Playwright-compatible browser tools for navigation, clicking, typing, and snapshots.

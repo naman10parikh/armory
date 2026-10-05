@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-15T20:05:45Z"
+pushed_at: "2026-09-29T03:03:46Z"
 ---
 ## What it is
 Thin Cloudflare Workers MCP server for navigating Bible Aquifer content, enabling Bible verse retrieval, content search, and entity profiling through MCP tools.

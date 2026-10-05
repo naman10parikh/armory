@@ -8,12 +8,12 @@ source_url: https://github.com/rosasynthesiz/flstudio-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 57
+stars: 69
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 11
 pushed_at: "2026-07-03T09:18:19Z"
 ---
 ## What it is

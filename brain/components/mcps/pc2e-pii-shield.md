@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T13:14:20Z"
+pushed_at: "2026-10-02T13:14:57Z"
 ---
 ## What it is
 MCP server for secure read-only PostgreSQL queries with automatic PII masking, pseudonymization, and strict SQL guards to enforce data privacy compliance.

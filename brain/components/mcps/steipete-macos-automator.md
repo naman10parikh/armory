@@ -8,7 +8,7 @@ source_url: https://github.com/steipete/macos-automator-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 885
+stars: 884
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

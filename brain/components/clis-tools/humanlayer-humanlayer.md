@@ -8,13 +8,13 @@ source_url: https://github.com/humanlayer/humanlayer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 11617
+stars: 11653
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 957
+forks: 961
 pushed_at: "2026-06-19T03:27:53Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-26T05:44:35Z"
+pushed_at: "2026-09-04T12:43:40Z"
 ---
 ## What it is
 MCP server `Slugify AI`, catalogued on PulseMCP. Python MCP server for text slugification and URL-safe string generation.

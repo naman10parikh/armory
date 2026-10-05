@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-26T05:32:47Z"
+pushed_at: "2026-09-04T12:40:41Z"
 ---
 ## What it is
 MCP server `Lorem Ipsum AI`, catalogued on PulseMCP. Python MCP server for generating placeholder and dummy text content.

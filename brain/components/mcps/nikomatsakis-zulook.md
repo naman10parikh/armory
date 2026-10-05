@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-07-28T01:09:30Z"
+pushed_at: "2026-09-28T15:17:51Z"
 ---
 ## What it is
 MCP server `Zulook`, catalogued on PulseMCP. Read-only access to Zulip conversations with CLI, MCP, and ACP proxy modes.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-28T07:18:32Z"
+pushed_at: "2026-09-30T07:18:22Z"
 ---
 ## What it is
 MCP server for Crewhu — customer feedback, employee engagement, and gamification for MSPs. Enables AI assistants to manage surveys, scores, and recognition.

@@ -8,7 +8,7 @@ source_url: https://github.com/mrmike/android-source-explorer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 100
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

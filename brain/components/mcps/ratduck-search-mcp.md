@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T17:34:09Z"
+pushed_at: "2026-10-02T17:35:10Z"
 ---
 ## What it is
 An MCP server that gives an agent the open web: searches DuckDuckGo via its no-JavaScript front end, scrapes any URL, and filters/re-ranks results to deliver the top few instead of a wall of links.

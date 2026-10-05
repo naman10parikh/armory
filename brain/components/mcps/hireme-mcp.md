@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T11:49:37Z"
+pushed_at: "2026-10-04T14:34:16Z"
 ---
 ## What it is
 Enables AI agents to vet a developer's shipped products, check fixed pricing and availability, and submit project briefs on behalf of users.

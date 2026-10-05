@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-17T05:04:17Z"
+pushed_at: "2026-09-30T05:47:57Z"
 ---
 ## What it is
 Enables interaction with the Mackerel monitoring platform, providing tools to manage alerts, hosts, dashboards, services, monitors, and traces.

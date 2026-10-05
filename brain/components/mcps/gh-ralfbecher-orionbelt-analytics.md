@@ -12,8 +12,8 @@ stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-09-28T07:15:36Z"
+forks: 7
+pushed_at: "2026-10-05T09:14:01Z"
 ---
 ## What it is
 MCP server `OrionBelt Analytics`, catalogued on PulseMCP. Ontology-based database schema analysis and RDF/OWL ontology generation.

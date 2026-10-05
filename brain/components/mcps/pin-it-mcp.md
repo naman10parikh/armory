@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-17T14:36:56Z"
+pushed_at: "2026-10-01T14:41:39Z"
 ---
 ## What it is
 Read-only stdio MCP server that allows AI clients to list, search, and retrieve pins and images from a local desktop pinboard.

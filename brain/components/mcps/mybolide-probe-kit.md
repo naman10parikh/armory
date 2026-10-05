@@ -8,11 +8,11 @@ source_url: https://github.com/mybolide/mcp-probe-kit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-09-23T03:50:36Z"
 ---
 ## What it is

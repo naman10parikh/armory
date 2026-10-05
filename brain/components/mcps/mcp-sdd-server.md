@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-28T14:56:43Z"
+pushed_at: "2026-10-04T15:55:46Z"
 ---
 ## What it is
 An MCP server implementing Spec-Driven Development workflows for AI-agent CLIs and IDEs like Claude Code and Cursor, enabling spec-first development with automated workflow guidance and quality checks.

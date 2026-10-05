@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 72
 forks: 15
-pushed_at: "2026-09-09T15:12:45Z"
+pushed_at: "2026-10-02T04:45:58Z"
 ---
 ## What it is
 A MCP server to interact with Neovim

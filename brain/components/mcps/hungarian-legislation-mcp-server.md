@@ -8,12 +8,12 @@ source_url: https://github.com/gergototh1/magyar-jogszabaly-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 2
 pushed_at: "2026-03-27T08:02:17Z"
 ---
 ## What it is

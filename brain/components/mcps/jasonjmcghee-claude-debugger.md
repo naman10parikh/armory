@@ -8,7 +8,7 @@ source_url: https://github.com/jasonjmcghee/claude-debugs-for-you
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 515
+stars: 516
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

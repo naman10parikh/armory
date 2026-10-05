@@ -8,12 +8,12 @@ source_url: https://github.com/nmeierpolys/mcp-structured-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-25T21:03:58Z"
+pushed_at: "2026-10-02T21:04:36Z"
 ---
 ## What it is
 MCP server `Structured Memory`, catalogued on PulseMCP. Maintains structured markdown documents as living memory for focused projects, enabling systematic organization, search, and updates of accumulated context across multiple conversations.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:47:09Z"
+pushed_at: "2026-09-03T03:58:43Z"
 ---
 ## What it is
 MCP server for UK AI Bill 2026 compliance, implementing a 5-principles framework (Safety, Transparency, Fairness, Accountability, Contestability) to help audit and classify AI systems.

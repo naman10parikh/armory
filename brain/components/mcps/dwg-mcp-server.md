@@ -8,13 +8,13 @@ source_url: https://github.com/dimitrovakulenko/dwg-mcp-server
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-08-28T21:05:55Z"
+forks: 6
+pushed_at: "2026-10-02T14:30:16Z"
 ---
 ## What it is
 An MCP server for read-only inspection of AutoCAD DWG files, enabling AI agents to open drawings, query objects by handle or filter, and explore properties and references.

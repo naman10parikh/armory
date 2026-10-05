@@ -8,12 +8,12 @@ source_url: https://github.com/pavlov-net/tripo3d-rs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-18T13:05:21Z"
+pushed_at: "2026-10-05T13:08:34Z"
 ---
 ## What it is
 MCP server `Tripo 3D`, catalogued on PulseMCP. Exposes Tripo 3D Generation API operations as MCP tools for generating 3D models from text, images, or multi-view photos.

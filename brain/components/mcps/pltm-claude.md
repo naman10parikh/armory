@@ -8,7 +8,7 @@ source_url: https://github.com/Alby2007/PLTM-Claude-repost-
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []

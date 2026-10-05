@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-28T12:21:15Z"
+pushed_at: "2026-10-05T08:56:40Z"
 ---
 ## What it is
 MCP server for Brazilian Federal Senate open data — 90 tools covering the legislative process, Senate administration, and citizen participation. Hosted on Cloudflare Workers (Streamable HTTP), no authentication required. Tool names and responses are in Portuguese (pt-BR), matching the official Senat

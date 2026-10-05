@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-05-02T14:18:06Z"
+pushed_at: "2026-09-29T10:38:47Z"
 ---
 ## What it is
 AI-driven MCP server that audits, profiles, detects schema drift, and auto-generates documentation for dbt projects, enabling natural language interaction with your dbt project's health.

@@ -8,14 +8,14 @@ source_url: https://github.com/manaflow-ai/cmux
 license: unknown
 cli_compat: []
 maturity: stable
-stars: 27466
+stars: 27627
 eval_score: 1
 mentions: null
 verified_at: 
 related: []
 tags: [terminal]
-forks: 2419
-pushed_at: "2026-09-28T15:00:18Z"
+forks: 2443
+pushed_at: "2026-10-05T15:35:31Z"
 ---
 
 # cmux

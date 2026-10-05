@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-14T14:56:41Z"
+pushed_at: "2026-10-03T05:13:20Z"
 ---
 ## What it is
 Exposes a deterministic IoT edge runtime — Modbus/CAN/J1939 acquisition, local rules, alarms, and history — to AI assistants as typed, governed MCP tools. Reads are safe by default; device control stays deny-by-default, explicitly confirmed, and audited.

@@ -8,13 +8,13 @@ source_url: https://github.com/oddbit/shrtnr
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-09-25T19:22:23Z"
+forks: 9
+pushed_at: "2026-10-02T19:19:30Z"
 ---
 ## What it is
 Enables AI assistants to create and manage short URLs via the MCP protocol, with OAuth authentication through Cloudflare Access.

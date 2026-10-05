@@ -8,13 +8,13 @@ source_url: https://github.com/rcarmo/python-office-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-28T05:04:10Z"
+pushed_at: "2026-09-30T05:44:07Z"
 ---
 ## What it is
 Provides tools to extract, convert, and generate Microsoft Office documents (Word, Excel, PowerPoint) via the Model Context Protocol, with support for reading, editing, and auditing document content.

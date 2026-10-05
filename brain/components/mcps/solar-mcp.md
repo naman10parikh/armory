@@ -8,13 +8,13 @@ source_url: https://github.com/qso-graph/solar-mcp
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-15T20:25:12Z"
+pushed_at: "2026-10-04T00:56:46Z"
 ---
 ## What it is
 MCP server for space weather and HF propagation conditions — live solar flux, Kp index, DSCOVR solar wind, X-ray flux, alerts, 27-day forecast, and band-by-band outlook through any MCP-compatible AI assistant.

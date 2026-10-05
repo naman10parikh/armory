@@ -8,14 +8,14 @@ source_url: https://github.com/cline/cline
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 69481
+stars: 69875
 eval_score: null
 mentions: 5
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 7538
-pushed_at: "2026-09-28T14:48:06Z"
+forks: 7606
+pushed_at: "2026-10-05T14:21:23Z"
 ---
 ## What it is
 Autonomous coding agent as an SDK, IDE extension, or CLI assistant.

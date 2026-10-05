@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-04-10T17:40:19Z"
+pushed_at: "2026-09-30T01:13:57Z"
 ---
 ## What it is
 Provides LLM clients with structured code intelligence through LSP servers, enabling queries for definitions, references, call hierarchies, and more.

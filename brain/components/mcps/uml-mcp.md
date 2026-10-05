@@ -8,13 +8,13 @@ source_url: https://github.com/antoinebou12/uml-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 104
+stars: 106
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 28
-pushed_at: "2026-09-27T12:48:27Z"
+pushed_at: "2026-10-03T15:48:08Z"
 ---
 ## What it is
 Generates UML and other diagrams (30+ types) via the Model Context Protocol, supporting multiple output formats and deployment options.

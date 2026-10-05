@@ -8,11 +8,11 @@ source_url: https://github.com/dmontgomery40/deepseek-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 352
+stars: 354
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 55
+forks: 56
 pushed_at: "2026-09-11T04:44:36Z"
 ---
 ## What it is

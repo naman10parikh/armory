@@ -8,12 +8,12 @@ source_url: https://github.com/blakeem/navidrome-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 91
+stars: 90
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
-pushed_at: "2026-09-22T04:16:35Z"
+forks: 9
+pushed_at: "2026-10-04T01:35:45Z"
 ---
 ## What it is
 MCP server `Navidrome`, catalogued on PulseMCP. Integrates with Navidrome music servers to provide complete music library management including playlist creation, playback control, search functionality, listening history tracking, Last.fm integration for recommendations, Radio Browser for internet radio discovery, and LRCLIB for synchronized lyrics retrieval.

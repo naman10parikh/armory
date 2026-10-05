@@ -8,7 +8,7 @@ source_url: https://github.com/softdaddy-o/soft-ue-cli
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 214
+stars: 215
 eval_score: null
 verified_at: 2026-05-27
 related: []

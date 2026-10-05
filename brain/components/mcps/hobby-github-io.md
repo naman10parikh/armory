@@ -8,13 +8,13 @@ source_url: https://github.com/hobbytp/hobbytp.github.io
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, blogging-content]
 forks: 1
-pushed_at: "2026-09-28T05:03:38Z"
+pushed_at: "2026-10-05T05:12:59Z"
 ---
 ## What it is
 Personal hobby blog

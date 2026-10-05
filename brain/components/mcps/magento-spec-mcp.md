@@ -8,11 +8,13 @@ source_url: https://github.com/thanhle74/magento-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T10:03:32Z"
 ---
 ## What it is
 Provides AI agents with Magento 2.4.8-p5 / PHP 8.3 technical standards, patterns, and review checklists via MCP tools, enabling them to reference the single source of truth when working on Magento projects.

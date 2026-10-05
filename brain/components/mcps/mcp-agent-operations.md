@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T23:21:07Z"
+pushed_at: "2026-10-03T10:42:09Z"
 ---
 ## What it is
 mcp-agent-ops is a local stdio MCP server for deterministic agent-development operations that otherwise cause repeated shell and generated Python calls.

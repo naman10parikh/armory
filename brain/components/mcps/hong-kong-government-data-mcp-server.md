@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2025-07-18T13:01:03Z"
+pushed_at: "2026-10-02T14:56:48Z"
 ---
 ## What it is
 MCP server that provides access to Hong Kong government city data, including ambulance service indicators, via a FastMCP interface.

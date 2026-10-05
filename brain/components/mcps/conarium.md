@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-24T07:16:23Z"
+pushed_at: "2026-10-01T07:22:29Z"
 ---
 ## What it is
 Self-hosted governance layer between an AI assistant and your data: allow/deny policy, deterministic PII masking, row caps, and a hash-chained audit log with an Ed25519-signed receipt for every access, verifiable offline.

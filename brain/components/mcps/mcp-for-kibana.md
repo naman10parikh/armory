@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T22:35:32Z"
+pushed_at: "2026-10-04T17:06:47Z"
 ---
 ## What it is
 Enables LLMs to interact with Kibana through composable toolboxes for building dashboards, managing data, and handling alerts, among other operations.

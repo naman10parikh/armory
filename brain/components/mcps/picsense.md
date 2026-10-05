@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T18:52:21Z"
+pushed_at: "2026-09-30T17:53:24Z"
 ---
 ## What it is
 Local MCP server that provides multi-modal vision capabilities to single-modal base models via API, supporting multi-turn iterative image recognition and document image parsing.

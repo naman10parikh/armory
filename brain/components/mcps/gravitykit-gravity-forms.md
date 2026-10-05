@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-09-18T00:04:02Z"
+pushed_at: "2026-10-01T17:00:06Z"
 ---
 ## What it is
 MCP server `Gravity Forms`, catalogued on PulseMCP. Integrates with Gravity Forms REST API v2 to provide comprehensive form, entry, submission, feed, and notification management with intelligent field operations, advanced search capabilities, file upload handling, and dual environment support for safe WordPress development workflows.

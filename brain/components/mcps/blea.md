@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T06:39:00Z"
+pushed_at: "2026-09-29T11:26:20Z"
 ---
 ## What it is
 Provides a local MCP server for Bluetooth Low Energy automation, enabling scanning, GATT inspection, characteristic reads and writes, and evidence capture, diff, and replay with safety guards.

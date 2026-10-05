@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-19T04:10:41Z"
+pushed_at: "2026-09-30T03:25:15Z"
 ---
 ## What it is
 A DataOps-focused Kafka MCP server with consumer lag diagnosis and broker health monitoring, featuring incident-based diagnosis logic derived from real CDC pipeline operational experience.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:55:53Z"
+pushed_at: "2026-10-05T12:30:57Z"
 ---
 ## What it is
 MCP server for LambdaMOO programming assistance. Provides semantic search over verbs and help topics, canonical symbol lookup, and a syntax primer to coding agents.

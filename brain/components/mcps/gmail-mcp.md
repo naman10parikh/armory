@@ -8,13 +8,13 @@ source_url: https://github.com/hahaha-saygex/gmail-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T05:48:57Z"
+pushed_at: "2026-10-05T13:44:53Z"
 ---
 ## What it is
 Enables AI assistants to manage Gmail emails, including sending, searching, and organizing with labels and attachments via OAuth2.

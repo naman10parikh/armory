@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-08-28T05:08:42Z"
+pushed_at: "2026-10-05T12:16:06Z"
 ---
 ## What it is
 MCP server `Eclipse JDT Language Server`, catalogued on PulseMCP. Wraps Eclipse JDT Language Server to provide Java code navigation, symbol search, reference finding, and project structure analysis.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-28T07:39:11Z"
+pushed_at: "2026-10-04T07:39:07Z"
 ---
 ## What it is
 MCP server `Norric`, catalogued on PulseMCP. Swedish B2B intelligence covering insolvency risk, BRF health, and procurement signals from government registries.

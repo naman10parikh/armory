@@ -8,12 +8,12 @@ source_url: https://github.com/aigen-protocol/aigen-protocol
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-06-16T08:10:27Z"
+pushed_at: "2026-10-03T22:25:06Z"
 ---
 ## What it is
 MCP server `AIGEN Protocol`, catalogued on PulseMCP. EVM token safety analysis with scam pattern detection across Ethereum, Base, Optimism, Arbitrum, BSC, and Polygon.

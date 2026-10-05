@@ -8,7 +8,7 @@ source_url: https://github.com/howardzhangdqs/mcp-wechat-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 110
+stars: 111
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

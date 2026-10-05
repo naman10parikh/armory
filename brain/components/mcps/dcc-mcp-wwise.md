@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T02:10:10Z"
+pushed_at: "2026-10-04T20:09:53Z"
 ---
 ## What it is
 Enables interaction with Audiokinetic Wwise Authoring through WAAPI, allowing project inspection, sound and music imports, event management, and audible previews.

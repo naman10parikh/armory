@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T06:39:35Z"
+pushed_at: "2026-10-05T06:32:53Z"
 ---
 ## What it is
 An MCP server that exposes the pacs008 ISO 20022 FI-to-FI Customer Credit Transfer library as tools for AI agents and assistants, enabling generation, validation, and parsing of pacs.008 credit transfer XML messages.

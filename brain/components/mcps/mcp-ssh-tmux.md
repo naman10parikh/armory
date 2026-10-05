@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-06-05T06:47:34Z"
+pushed_at: "2026-10-03T13:44:41Z"
 ---
 ## What it is
 A high-performance MCP server that manages persistent SSH sessions via a local tmux instance, enabling command execution, file transfer, and session monitoring for AI agents.

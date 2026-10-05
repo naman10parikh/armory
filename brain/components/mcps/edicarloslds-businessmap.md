@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-09-25T23:45:31Z"
+pushed_at: "2026-09-30T22:24:51Z"
 ---
 ## What it is
 MCP server `BusinessMap`, catalogued on PulseMCP. Integrates with BusinessMap's Kanban platform to enable complete project management operations including card creation, workflow tracking, custom fields, cycle time analysis, and user management across workspaces and boards.

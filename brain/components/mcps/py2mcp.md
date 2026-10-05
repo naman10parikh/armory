@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T14:39:31Z"
+pushed_at: "2026-10-05T14:19:33Z"
 ---
 ## What it is
 Create MCP servers from Python functions instantly, with support for input transformations and store-based CRUD operations.

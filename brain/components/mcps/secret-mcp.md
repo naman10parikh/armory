@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T05:45:43Z"
+pushed_at: "2026-10-05T05:45:34Z"
 ---
 ## What it is
 Enables evidence-grounded web design analysis by searching GDWEB references and generating isolated, per-reference DESIGN_INDEX specification documents for LLM-driven frontend development.

@@ -8,13 +8,13 @@ source_url: https://github.com/rexlManu/lol-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T23:37:06Z"
+pushed_at: "2026-09-30T23:38:34Z"
 ---
 ## What it is
 MCP server exposing 30 tools for League of Legends player analysis, match review, and training-plan generation.

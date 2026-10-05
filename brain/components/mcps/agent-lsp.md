@@ -8,12 +8,12 @@ source_url: https://github.com/blackwell-systems/agent-lsp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 154
+stars: 156
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 19
-pushed_at: "2026-09-28T14:15:45Z"
+pushed_at: "2026-10-05T04:38:56Z"
 ---
 ## What it is
 MCP server `Agent LSP`, catalogued on PulseMCP. Stateful LSP runtime for AI agents — 50+ tools across 30+ programming languages.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-14T19:16:24Z"
+pushed_at: "2026-10-05T15:36:25Z"
 ---
 ## What it is
 Exposes the Camptocamp.org API to LLMs, enabling querying of alpine routes, summit altitudes, and course descriptions with reliable data to avoid hallucinations.

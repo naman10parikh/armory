@@ -8,13 +8,13 @@ source_url: https://github.com/no-human-ai/no_human
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 324
+stars: 327
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 31
-pushed_at: "2026-09-24T21:34:23Z"
+forks: 33
+pushed_at: "2026-10-05T03:14:20Z"
 ---
 ## What it is
 From ticket to reviewed pull request, on your own machine

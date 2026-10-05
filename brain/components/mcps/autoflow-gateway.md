@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T13:16:09Z"
+pushed_at: "2026-09-30T04:29:11Z"
 ---
 ## What it is
 Central MCP gateway for smart home automation, enabling agents to safely control Home Assistant and Node-RED with identity-based access, human confirmation for writes, and a WebUI for governance.

@@ -8,12 +8,12 @@ source_url: https://github.com/nota/gyazo-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-09-24T22:28:34Z"
+pushed_at: "2026-10-05T15:19:43Z"
 ---
 ## What it is
 MCP server `Gyazo`, catalogued on PulseMCP. Integrates with Gyazo to retrieve Gyazo images and metadata, enabling image analysis and content processing.

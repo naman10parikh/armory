@@ -8,11 +8,11 @@ source_url: https://github.com/neka-nat/freecad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2529
+stars: 2688
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 311
+forks: 329
 pushed_at: "2026-09-24T23:02:55Z"
 ---
 ## What it is

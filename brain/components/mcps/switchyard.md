@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T15:04:30Z"
+pushed_at: "2026-10-05T10:35:40Z"
 ---
 ## What it is
 Routes coding tasks across multiple AI CLIs (Copilot, Claude Code, Gemini, etc.) with cost-aware tier routing and parallel wave orchestration.

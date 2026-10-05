@@ -8,13 +8,13 @@ source_url: https://github.com/Senzii-App/app
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T13:25:43Z"
+pushed_at: "2026-10-02T13:54:23Z"
 ---
 ## What it is
 Enables interaction with the Senzii scheduling app, allowing users to manage schedules, sessions, and related data through natural language.

@@ -8,12 +8,12 @@ source_url: https://github.com/mukul975/mcp-windows-automation
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 54
+stars: 58
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
+forks: 15
 pushed_at: "2026-06-03T22:11:54Z"
 ---
 ## What it is

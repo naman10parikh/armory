@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T12:09:44Z"
+pushed_at: "2026-10-02T11:52:34Z"
 ---
 ## What it is
 Enables AI assistants to perform operations on remote servers by reusing SSH sessions from a local desktop app, including command execution, file upload/download, and project document management with security controls.

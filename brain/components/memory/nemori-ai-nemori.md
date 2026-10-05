@@ -8,13 +8,13 @@ source_url: https://github.com/nemori-ai/nemori
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 211
+stars: 213
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 22
+forks: 23
 pushed_at: "2026-04-16T09:47:33Z"
 ---
 ## What it is

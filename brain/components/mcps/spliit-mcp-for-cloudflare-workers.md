@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T09:03:35Z"
+pushed_at: "2026-09-29T07:34:30Z"
 ---
 ## What it is
 An unofficial, security-focused MCP server for Spliit that runs on Cloudflare Workers. It enables remote management of multiple Spliit groups, including reading balances and expenses, and safely preparing and committing drafts.

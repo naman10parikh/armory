@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T14:49:05Z"
+pushed_at: "2026-09-28T15:23:10Z"
 ---
 ## What it is
 MCP server for the Ghost Inspector API that lets agents inspect and manage end-to-end browser tests, offering read-only tools for inventory, module usage, and stale test analysis, plus opt-in guarded write operations.

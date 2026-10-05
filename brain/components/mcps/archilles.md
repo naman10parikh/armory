@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T11:35:03Z"
+pushed_at: "2026-09-30T15:21:56Z"
 ---
 ## What it is
 Enables semantic search over local Calibre libraries via MCP, allowing AI assistants to query books, annotations, and export bibliographies while keeping data private.

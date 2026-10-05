@@ -8,12 +8,12 @@ source_url: https://github.com/fatwang2/search1api-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 174
+stars: 173
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 38
-pushed_at: "2026-09-28T12:50:49Z"
+pushed_at: "2026-09-29T03:08:54Z"
 ---
 ## What it is
 MCP server `Search1API`, catalogued on PulseMCP. Execute web searches, news queries, and content extraction.

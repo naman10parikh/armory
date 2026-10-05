@@ -8,12 +8,12 @@ source_url: https://github.com/eidetic-works/nucleus-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-05T03:30:37Z"
+pushed_at: "2026-10-02T10:25:10Z"
 ---
 ## What it is
 MCP server `Nucleus`, catalogued on PulseMCP. Cross-platform memory synchronization between dev environments using persistent knowledge stores called engrams.

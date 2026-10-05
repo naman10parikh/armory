@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-09-28T02:47:44Z"
+pushed_at: "2026-09-30T05:28:27Z"
 ---
 ## What it is
 MCP server `OSS Autopilot`, catalogued on PulseMCP. Tracks open source pull requests across GitHub, alerts on items needing attention, and helps respond to maintainer feedback.

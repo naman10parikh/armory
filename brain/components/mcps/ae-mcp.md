@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-09-23T02:55:48Z"
+forks: 6
+pushed_at: "2026-09-30T16:50:18Z"
 ---
 ## What it is
 Enables MCP clients to drive Adobe After Effects via a Python server and CEP panel, supporting inspection, mutation, preview, checkpoint/revert, skills, and basic rigging.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T20:55:42Z"
+pushed_at: "2026-09-28T20:55:36Z"
 ---
 ## What it is
 Read-only MCP server exposing Android phone timeline data, including events, hourly/daily features, data coverage, and gaps, so Claude can answer questions about observed phone activity.

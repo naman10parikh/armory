@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T13:42:13Z"
+pushed_at: "2026-10-02T03:43:47Z"
 ---
 ## What it is
 An MCP server for High-Throughput Screening (HTS) assay calculations across sub-cellular, cellular, tissue, and organism biological tiers, enabling local-first bioassay analysis.

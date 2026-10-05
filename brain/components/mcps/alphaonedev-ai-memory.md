@@ -12,8 +12,8 @@ stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-09-28T02:17:35Z"
+forks: 8
+pushed_at: "2026-10-05T14:21:56Z"
 ---
 ## What it is
 MCP server `AI Memory`, catalogued on PulseMCP. Persistent memory for AI agents with semantic, smart, and autonomous retrieval tiers.

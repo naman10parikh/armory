@@ -8,11 +8,11 @@ source_url: https://github.com/anaisbetts/mcp-computer-use
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-04-20T09:22:29Z"
 ---
 ## What it is

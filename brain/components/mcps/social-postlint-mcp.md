@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T22:41:37Z"
+pushed_at: "2026-10-03T06:00:18Z"
 ---
 ## What it is
 Checks a social post against a platform's real character limit before it ships — X bills every URL at 23 characters and weights non-Latin script at 2, while Bluesky and Mastodon count grapheme clusters. Covers X, X Premium, Bluesky, LinkedIn, Threads, Mastodon, and Discord, with no credentials and n

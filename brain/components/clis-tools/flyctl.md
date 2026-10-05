@@ -8,14 +8,14 @@ source_url: https://github.com/superfly/flyctl
 license: unknown
 cli_compat: []
 maturity: stable
-stars: 1714
+stars: 1717
 eval_score: 1
 mentions: null
 verified_at: 
 related: []
 tags: [deploy-infra]
-forks: 313
-pushed_at: "2026-09-28T13:44:01Z"
+forks: 317
+pushed_at: "2026-10-05T15:06:26Z"
 ---
 
 # flyctl

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T19:59:17Z"
+pushed_at: "2026-10-04T04:47:25Z"
 ---
 ## What it is
 Provides MCP servers for VPN control (NordVPN) and torrent lifecycle management via Jackett search and qBittorrent operations, plus a unified CLI.

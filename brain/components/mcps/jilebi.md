@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T06:09:57Z"
+pushed_at: "2026-10-01T14:06:31Z"
 ---
 ## What it is
 A plugin-based MCP server that enables AI assistants to interact with external systems through custom tools, resources, and prompts.

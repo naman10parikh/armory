@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T06:14:25Z"
+pushed_at: "2026-10-05T14:13:11Z"
 ---
 ## What it is
 Enables searching for scientific papers across OpenAlex, CrossRef, and Unpaywall, and downloading open-access PDFs directly through Claude Desktop.

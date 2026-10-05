@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-27T07:26:35Z"
+pushed_at: "2026-10-02T20:28:53Z"
 ---
 ## What it is
 Self-hosted MCP governance gateway that aggregates 150+ tools behind policy profiles (strict/balanced/dev) with a per-call audit trail. Python 3.12/FastAPI, Docker-deployable, built for regulated environments that need observability over agent tool calls.

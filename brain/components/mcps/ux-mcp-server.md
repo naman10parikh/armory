@@ -8,12 +8,12 @@ source_url: https://github.com/elsahafy/ux-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-04-01T21:35:54Z"
 ---
 ## What it is

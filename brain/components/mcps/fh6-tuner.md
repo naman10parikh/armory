@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-16T03:14:36Z"
+pushed_at: "2026-10-01T21:07:41Z"
 ---
 ## What it is
 An MCP server that analyzes Forza Horizon 6 telemetry to provide AI-driven tuning, build, and driving recommendations via Claude.

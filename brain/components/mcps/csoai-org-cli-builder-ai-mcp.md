@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-15T14:39:33Z"
+pushed_at: "2026-09-04T12:36:43Z"
 ---
 ## What it is
 MCP server `CLI Builder AI`, catalogued on PulseMCP. AI-powered tools for building and configuring command-line interfaces.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-07-22T07:29:48Z"
+pushed_at: "2026-10-01T19:03:52Z"
 ---
 ## What it is
 Multi-perspective code analysis using Claude Code, Codex, and Antigravity CLI agents to provide direct, honest technical feedback on code, architecture, and ideas.

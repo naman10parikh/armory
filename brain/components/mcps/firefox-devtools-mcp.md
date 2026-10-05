@@ -8,7 +8,7 @@ source_url: https://github.com/mozilla/firefox-devtools-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 449
+stars: 460
 eval_score: null
 verified_at: 2026-05-27
 related: []

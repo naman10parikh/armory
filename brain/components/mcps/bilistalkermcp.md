@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-09-25T05:53:58Z"
+forks: 7
+pushed_at: "2026-09-30T07:19:19Z"
 ---
 ## What it is
 BiliStalkerMCP is a Bilibili MCP server designed to analyze a specific Bilibili user by providing tools to retrieve user profiles, videos, dynamics, articles, and followings.

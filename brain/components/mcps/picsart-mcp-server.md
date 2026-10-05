@@ -8,13 +8,13 @@ source_url: https://github.com/PicsArt/picsart-mcp-cli-docs
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-19T18:39:50Z"
+pushed_at: "2026-10-02T13:20:41Z"
 ---
 ## What it is
 Enables AI agents and terminals to generate images, video, and audio using 141 models from 28 providers via the Picsart gen-ai API.

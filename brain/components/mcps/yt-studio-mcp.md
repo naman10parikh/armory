@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T12:58:29Z"
+pushed_at: "2026-10-01T17:37:06Z"
 ---
 ## What it is
 Manage a YouTube channel through official Google APIs — videos, comments, playlists, live broadcasts, captions, and analytics — plus an auditable giveaway suite for comment-entry giveaways with deterministic winner drawing.

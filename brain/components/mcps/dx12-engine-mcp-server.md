@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T16:06:42Z"
+pushed_at: "2026-10-04T17:10:00Z"
 ---
 ## What it is
 Enables AI agents to control the DX12 Engine editor for game development, including scene editing, entity manipulation, and playback testing via natural language commands.

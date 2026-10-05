@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T18:42:08Z"
+pushed_at: "2026-10-05T01:44:12Z"
 ---
 ## What it is
 Scans any website to generate an Agent Readiness Report based on the ASO framework, evaluating agent discoverability, trust, interoperability, and commerce readiness.

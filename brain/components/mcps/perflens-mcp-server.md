@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T19:03:59Z"
+pushed_at: "2026-10-04T17:21:55Z"
 ---
 ## What it is
 Provides typed, paginated tools for evidence-driven Linux performance analysis including profile analysis, comparison, and report generation with server-side authorization.

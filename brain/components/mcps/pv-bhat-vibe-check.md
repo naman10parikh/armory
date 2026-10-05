@@ -8,12 +8,12 @@ source_url: https://github.com/pv-bhat/vibe-check-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 503
+stars: 502
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 67
-pushed_at: "2026-09-11T02:44:21Z"
+pushed_at: "2026-09-29T20:38:23Z"
 ---
 ## What it is
 MCP server `Vibe Check`, catalogued on PulseMCP. The definitive Vibe Coder's sanity check MCP server: Upgrade your agent with self-aware oversight.

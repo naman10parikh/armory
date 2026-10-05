@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T19:14:33Z"
+pushed_at: "2026-09-29T19:16:06Z"
 ---
 ## What it is
 An MCP server wrapping the Websupport REST API to expose DNS, FTP, hosting, databases, mailboxes, VPS, and invoice operations as MCP tools with HMAC-SHA1 authentication.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T04:33:02Z"
+pushed_at: "2026-10-04T04:33:07Z"
 ---
 ## What it is
 MCP server for structured Australian macroeconomic and financial data from the Australian Bureau of Statistics (ABS), the Reserve Bank of Australia (RBA), and the Australian Prudential Regulation Authority (APRA).

@@ -8,13 +8,13 @@ source_url: https://github.com/baalimago/slivingdoc
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T14:17:03Z"
+pushed_at: "2026-10-04T11:07:59Z"
 ---
 ## What it is
 A distributed durable notebook MCP server for high-scale agents, providing git-like pull and commit tools with automatic conflict resolution.

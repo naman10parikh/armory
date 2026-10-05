@@ -8,11 +8,11 @@ source_url: https://github.com/nickclyde/duckduckgo-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1510
+stars: 1522
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 190
+forks: 191
 pushed_at: "2026-09-04T18:31:25Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-20T10:53:19Z"
+pushed_at: "2026-10-02T12:53:04Z"
 ---
 ## What it is
 MCP server `Darktable`, catalogued on PulseMCP. MCP server for darktable photo editing with library management, camera import, vision-based rating, and image export tools.

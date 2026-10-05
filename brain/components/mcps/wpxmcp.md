@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T05:56:27Z"
+pushed_at: "2026-10-05T05:56:15Z"
 ---
 ## What it is
 Enables managing self-hosted WordPress sites from any MCP client, covering content, themes, plugins, menus, users, and SQL with credentials in Cloudflare Worker Secrets or local stdio. It provides 117 tools and adds guardrails like drafts, trash, and dry-run operations.

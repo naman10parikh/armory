@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T15:38:09Z"
+pushed_at: "2026-10-04T18:19:38Z"
 ---
 ## What it is
 Enables AI agents to access US public library data from the federal IMLS Public Libraries Survey, including proximity searches, library system profiles, and statewide statistics.

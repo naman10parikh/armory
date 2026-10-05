@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T20:59:10Z"
+pushed_at: "2026-10-05T13:23:34Z"
 ---
 ## What it is
 Enables searching and scraping Subito.it classified ads via Apify, with support for categories, regions, price filters, and direct URL scraping.

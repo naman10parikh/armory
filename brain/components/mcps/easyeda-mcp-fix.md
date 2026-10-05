@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-07-23T02:21:53Z"
+forks: 0
+pushed_at: "2026-10-04T13:33:01Z"
 ---
 ## What it is
 A bug-fix fork of the EasyEDA Pro MCP bridge that resolves six upstream bugs including silent BOM wipes, dead copper to SMD pads, and five-minute netlist hangs, hardened on a real board taken to fab.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-26T05:42:51Z"
+pushed_at: "2026-09-04T12:43:17Z"
 ---
 ## What it is
 MCP server `Robotics Control`, catalogued on PulseMCP. Python MCP server for robotics control and automation tools.

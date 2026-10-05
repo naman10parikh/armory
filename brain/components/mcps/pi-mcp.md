@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T07:13:08Z"
+pushed_at: "2026-10-02T17:00:42Z"
 ---
 ## What it is
 MCP server for Raspberry Pi exposing tools for host health checks, shell execution, and Docker container restarts over authenticated HTTP.

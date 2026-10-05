@@ -8,12 +8,12 @@ source_url: https://github.com/yueyue95/ss-reading-nest-open
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 31
+forks: 32
 pushed_at: "2026-08-16T14:37:23Z"
 ---
 ## What it is

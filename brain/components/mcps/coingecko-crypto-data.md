@@ -8,12 +8,12 @@ source_url: https://github.com/coingecko/coingecko-typescript
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 59
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-09-28T07:02:59Z"
+pushed_at: "2026-10-02T06:43:12Z"
 ---
 ## What it is
 MCP server `CoinGecko`, catalogued on PulseMCP. Integrates with CoinGecko's cryptocurrency data API to provide real-time market data, pricing information, and financial metrics for crypto market analysis and portfolio tracking applications.

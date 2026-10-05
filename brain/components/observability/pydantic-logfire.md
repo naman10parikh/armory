@@ -8,13 +8,13 @@ source_url: https://github.com/pydantic/logfire
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 4494
+stars: 4508
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, opentelemetry, logging]
-forks: 297
-pushed_at: "2026-09-28T13:09:01Z"
+forks: 304
+pushed_at: "2026-10-05T01:13:52Z"
 ---
 ## What it is
 Logfire by Pydantic: OpenTelemetry-based structured logging and tracing for Python applications with built-in support for FastAPI, SQLAlchemy, and Anthropic.

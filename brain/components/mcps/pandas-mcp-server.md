@@ -8,7 +8,7 @@ source_url: https://github.com/marlonluo2018/pandas-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 45
+stars: 44
 eval_score: null
 verified_at: 2026-05-27
 related: []

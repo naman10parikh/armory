@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T23:29:46Z"
+pushed_at: "2026-10-05T14:44:40Z"
 ---
 ## What it is
 Enables querying Kenya labour rights including minimum wages, dismissal procedures, maternity/paternity leave, trade union directories, and labour court guidance.

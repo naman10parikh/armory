@@ -8,12 +8,12 @@ source_url: https://github.com/sdiehl/sympy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 84
+stars: 85
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
-pushed_at: "2026-03-18T10:29:13Z"
+forks: 16
+pushed_at: "2026-10-05T04:35:40Z"
 ---
 ## What it is
 MCP server `SymPy`, catalogued on PulseMCP. Provides a stateful symbolic mathematics engine for precise algebraic operations, calculus, vector analysis, tensor calculations, and differential equation solving without hallucinations.

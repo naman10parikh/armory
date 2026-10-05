@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T05:13:45Z"
+pushed_at: "2026-10-02T03:44:28Z"
 ---
 ## What it is
 MCP server for Technical SEO DNS record auditing, SOA expiry health checks, SSL/TLS inspection, and HTTP security header analysis. Enables comprehensive security audits and scoring via 10 tools.

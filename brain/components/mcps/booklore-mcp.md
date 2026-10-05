@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T02:13:42Z"
+pushed_at: "2026-10-02T01:05:07Z"
 ---
 ## What it is
 Enables AI assistants to interact with BookLore self-hosted libraries, allowing natural language queries to search books, manage reading status, ratings, series, authors, and highlights.

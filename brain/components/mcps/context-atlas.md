@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-28T04:39:32Z"
+pushed_at: "2026-10-05T04:42:39Z"
 ---
 ## What it is
 Enables coding agents to query a local, versioned knowledge graph of a software project, retrieving overviews, context packs, evidence, and explanations to make informed changes.

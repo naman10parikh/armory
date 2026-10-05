@@ -8,12 +8,12 @@ source_url: https://github.com/blackwell-systems/knowing
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-23T09:26:11Z"
+pushed_at: "2026-09-29T02:22:10Z"
 ---
 ## What it is
 MCP server `Knowing`, catalogued on PulseMCP. Content-addressed code graph for AI agents with tools for impact analysis, dependency tracing, and context generation.

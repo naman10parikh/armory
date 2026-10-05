@@ -8,13 +8,13 @@ source_url: https://github.com/solsentry/solsentry-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-12T03:27:46Z"
+pushed_at: "2026-10-01T06:24:05Z"
 ---
 ## What it is
 Provides post-deploy Solana threat intelligence, enabling AI agents to check operators, tokens, and network stats for detecting rug pulls and malicious activity.

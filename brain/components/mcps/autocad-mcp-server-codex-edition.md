@@ -8,12 +8,12 @@ source_url: https://github.com/beiming183-cloud/AutoCAD-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 27
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 5
 pushed_at: "2026-07-19T01:41:32Z"
 ---
 ## What it is

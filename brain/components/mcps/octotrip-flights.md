@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-07T20:44:53Z"
+pushed_at: "2026-10-04T15:55:28Z"
 ---
 ## What it is
 Free, no-login MCP server for searching and comparing flights with real-time pricing from multiple airlines and booking platforms worldwide.
