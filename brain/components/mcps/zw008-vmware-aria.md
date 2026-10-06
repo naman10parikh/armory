@@ -8,12 +8,12 @@ source_url: https://github.com/zw008/vmware-aria
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-09-20T14:47:07Z"
+forks: 3
+pushed_at: "2026-10-01T01:01:45Z"
 ---
 ## What it is
 MCP server `VMware Aria Operations`, catalogued on PulseMCP. VMware Aria Operations monitoring with metrics, alerts, capacity, and anomaly detection tools.

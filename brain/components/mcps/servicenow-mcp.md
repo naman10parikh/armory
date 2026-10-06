@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-29T00:11:21Z"
+pushed_at: "2026-10-04T13:23:44Z"
 ---
 ## What it is
 Enables natural language control of ServiceNow from AI clients like Claude and Cursor. Provides 400+ tools for incidents, changes, CMDB, and scripts via MCP protocol.

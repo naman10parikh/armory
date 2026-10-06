@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-26T02:17:00Z"
+pushed_at: "2026-10-05T04:48:18Z"
 ---
 ## What it is
 Give Claude access to your music library. MixCraft is a hosted MCP server that connects Claude to Apple Music, letting Claude search your library, build playlists, and learn your taste over time.

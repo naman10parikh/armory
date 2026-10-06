@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-25T21:47:43Z"
+pushed_at: "2026-10-04T17:24:26Z"
 ---
 ## What it is
 Local-first Garmin data warehouse with an analysis-grade MCP server. Sync once, analyze forever, even when the API is down.

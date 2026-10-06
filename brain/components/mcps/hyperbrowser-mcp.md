@@ -8,12 +8,12 @@ source_url: https://github.com/hyperbrowserai/mcp
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 791
+stars: 789
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, hyperbrowser]
-forks: 74
+forks: 75
 pushed_at: "2025-11-20T01:32:08Z"
 ---
 ## What it is

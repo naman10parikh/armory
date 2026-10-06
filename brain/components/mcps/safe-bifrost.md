@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T01:07:56Z"
+pushed_at: "2026-09-30T19:44:21Z"
 ---
 ## What it is
 A local MCP server that provides a safe plan-and-execute workflow for AI coding assistants, storing plans and tasks, and executing agent commands with an allow-list for security.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-11T12:44:36Z"
+pushed_at: "2026-09-30T08:54:49Z"
 ---
 ## What it is
 Enables interaction with LiteAPI's hotel booking and travel services through MCP tools, supporting search, booking, vouchers, analytics, and more.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-24T13:29:15Z"
+pushed_at: "2026-10-06T09:13:57Z"
 ---
 ## What it is
 Enables searching and retrieving metadata of Israeli primary legislation via the Knesset's official OData API, including law names, status, and Basic Law classification.

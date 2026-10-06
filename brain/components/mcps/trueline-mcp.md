@@ -8,13 +8,13 @@ source_url: https://github.com/rjkaes/trueline-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 36
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-28T18:51:44Z"
+pushed_at: "2026-10-01T22:09:02Z"
 ---
 ## What it is
 MCP server providing hash-verified file editing and targeted reads, reducing context consumption and preventing silent corruption by requiring content hashes for edits.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T05:08:12Z"
+pushed_at: "2026-10-05T02:47:22Z"
 ---
 ## What it is
 Enables hosts and couples to plan event music using Vibo by browsing events, managing song requests, and exporting selections to Spotify/Apple Music via natural language.

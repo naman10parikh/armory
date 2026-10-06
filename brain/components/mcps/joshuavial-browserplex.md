@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-28T11:01:13Z"
+pushed_at: "2026-10-02T16:29:17Z"
 ---
 ## What it is
 MCP server `Browserplex`, catalogued on PulseMCP. Manages multiple named browser instances with support for Chromium and stealth Camoufox browsers, providing session management, navigation, screenshot capture with automatic LLM-optimized resizing, content extraction with semantic structure preservation, and interactive operations for web automation, scraping, testing, and research.

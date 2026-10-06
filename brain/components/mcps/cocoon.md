@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T13:02:03Z"
+pushed_at: "2026-10-06T13:24:08Z"
 ---
 ## What it is
 An MCP server that provides a single tool for discovering, auto-installing, sandboxing, and calling any API from the printing-press corpus. It enables agents to seamlessly find and execute API operations without per-API setup.

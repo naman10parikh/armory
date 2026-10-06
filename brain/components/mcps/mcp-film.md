@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-29T06:48:22Z"
+pushed_at: "2026-10-05T07:04:24Z"
 ---
 ## What it is
 The mcp.film directory as an MCP server — search a curated, continuously re-verified catalog of MCP servers for AI filmmaking, get install configs for any client, and plan a full production stack.

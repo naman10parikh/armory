@@ -12,8 +12,8 @@ stars: 97
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 23
-pushed_at: "2026-09-14T04:53:22Z"
+forks: 24
+pushed_at: "2026-10-03T03:32:34Z"
 ---
 ## What it is
 MCP server `Japanese Tax Law`, catalogued on PulseMCP. Retrieves Japanese tax laws, administrative circulars, and tribunal rulings from e-Gov and National Tax Agency sources to prevent hallucination.

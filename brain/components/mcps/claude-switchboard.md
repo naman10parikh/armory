@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-19T13:10:15Z"
+pushed_at: "2026-10-03T09:09:22Z"
 ---
 ## What it is
 Enables teams to share context and messages between Claude Code sessions via a relay, allowing collaborative work on the same project.

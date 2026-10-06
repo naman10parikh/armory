@@ -8,12 +8,12 @@ source_url: https://github.com/partymola/monzo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-28T23:03:15Z"
+pushed_at: "2026-10-05T22:20:39Z"
 ---
 ## What it is
 MCP server `Monzo`, catalogued on PulseMCP. Provides read-only access to Monzo banking data including accounts, transactions, and spending analytics.

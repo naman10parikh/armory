@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T19:52:50Z"
+pushed_at: "2026-10-06T12:06:33Z"
 ---
 ## What it is
 Enables aggregating multiple MCP servers behind a single HTTP/SSE endpoint, with Code Mode to reduce token usage and support for OAuth and sandboxed execution.

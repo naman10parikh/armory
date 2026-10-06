@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T07:14:29Z"
+pushed_at: "2026-10-05T09:11:13Z"
 ---
 ## What it is
 Exposes the Toggle Brain knowledge base, prompt templates, and executable scripts to any MCP-compatible AI assistant.

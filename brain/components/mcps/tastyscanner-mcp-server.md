@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T07:22:46Z"
+pushed_at: "2026-10-05T13:49:00Z"
 ---
 ## What it is
 Enables AI agents to scan markets, build option strategies, track positions, and execute trades on TastyTrade via the Model Context Protocol.

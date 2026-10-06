@@ -8,13 +8,13 @@ source_url: https://github.com/TradeOS-AI/tradeos-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
-pushed_at: "2026-09-28T18:51:13Z"
+forks: 7
+pushed_at: "2026-10-06T13:15:05Z"
 ---
 ## What it is
 Connects TradeOS trading intelligence to MCP-compatible AI tools, enabling natural language-driven market analysis, ticker search, spread comparison, macro context, and custom trading agent management.

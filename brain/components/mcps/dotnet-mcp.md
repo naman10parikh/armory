@@ -8,7 +8,7 @@ source_url: https://github.com/jongalloway/dotnet-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 36
+stars: 35
 eval_score: null
 verified_at: 2026-05-27
 related: []

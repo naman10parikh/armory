@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-18T22:55:42Z"
+pushed_at: "2026-10-01T11:08:17Z"
 ---
 ## What it is
 An MCP server that retrieves Japanese stock market data via J-Quants API v2.

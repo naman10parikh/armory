@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-25T22:43:43Z"
+pushed_at: "2026-10-01T20:30:29Z"
 ---
 ## What it is
 An MCP server that integrates InspireHEP high-energy physics literature with LLMs. Search papers, explore citations, retrieve author metrics, and generate formatted references.

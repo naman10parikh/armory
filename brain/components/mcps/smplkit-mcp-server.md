@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T20:05:44Z"
+pushed_at: "2026-10-02T20:08:45Z"
 ---
 ## What it is
 Enables AI agents to create, run, and monitor scheduled HTTP jobs on the smplkit platform via natural language commands.

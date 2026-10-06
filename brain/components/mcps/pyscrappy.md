@@ -8,12 +8,12 @@ source_url: https://github.com/mldsveda/PyScrappy
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 260
+stars: 261
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 82
+forks: 81
 pushed_at: "2026-09-25T10:50:04Z"
 ---
 ## What it is

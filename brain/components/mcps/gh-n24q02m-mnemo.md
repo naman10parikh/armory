@@ -12,8 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-09-29T01:18:05Z"
+forks: 7
+pushed_at: "2026-10-06T12:32:55Z"
 ---
 ## What it is
 MCP server `Mnemo`, catalogued on PulseMCP. Persistent AI memory with hybrid search (FTS5 + semantic) and cross-machine sync.

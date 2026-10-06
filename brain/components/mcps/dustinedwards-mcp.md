@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T21:11:17Z"
+pushed_at: "2026-10-06T12:58:33Z"
 ---
 ## What it is
 MCP wrapper over the dustinedwards.info operator publish API, exposing five tools for managing blog posts (list, get, save, sync, delete) while containing no policy of its own.

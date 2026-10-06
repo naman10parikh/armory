@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-10-05T20:16:55Z"
 ---
 ## What it is
 Converts natural language specifications into working ladder logic and complete Studio 5000 projects, enabling AI-powered PLC programming with L5X and .ACD file generation, semantic search, and documentation access.

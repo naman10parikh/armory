@@ -8,12 +8,12 @@ source_url: https://github.com/vostride/agent-qa
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 891
+stars: 900
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 19
+forks: 20
 pushed_at: "2026-08-03T18:44:59Z"
 ---
 ## What it is

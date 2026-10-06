@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-28T20:47:53Z"
+pushed_at: "2026-10-04T15:08:36Z"
 ---
 ## What it is
 An MCP server that enables LLMs to search, fetch, and act on Google Workspace (Drive, Gmail, Docs, Sheets, etc.) with rich, one-call results and file deposits to disk, reducing context usage.

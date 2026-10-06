@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:42:39Z"
+pushed_at: "2026-10-03T19:43:26Z"
 ---
 ## What it is
 Local-first Sui review and evidence layer for AI clients. It enables users to review and approve Sui transactions in their own wallet after AI requests, without the AI having signing authority.

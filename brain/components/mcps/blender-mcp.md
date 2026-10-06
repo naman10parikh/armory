@@ -8,13 +8,13 @@ source_url: https://github.com/sandraschi/blender-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 51
+stars: 53
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
-pushed_at: "2026-09-28T20:14:53Z"
+forks: 12
+pushed_at: "2026-10-02T20:59:14Z"
 ---
 ## What it is
 Enables AI-powered control of Blender through natural language, allowing users to create, manipulate, and automate 3D scenes, objects, materials, animations, and more via Claude or other MCP clients.

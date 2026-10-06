@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T13:29:55Z"
+pushed_at: "2026-10-06T08:32:19Z"
 ---
 ## What it is
 A free MCP server and REST API for AI agents to share debugging memory and avoid repeating mistakes, with 61 real-world troubleshooting cases across 10+ tech stacks.

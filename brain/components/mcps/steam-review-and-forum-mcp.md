@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-02T03:46:17Z"
+pushed_at: "2026-10-03T06:15:17Z"
 ---
 ## What it is
 Enables exploring Steam store reviews and community discussion threads with server-side filtering, temporal analysis, and metadata context for understanding player sentiment and feedback beyond store page noise.

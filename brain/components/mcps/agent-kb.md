@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T14:40:52Z"
+pushed_at: "2026-10-04T18:37:42Z"
 ---
 ## What it is
 A local-first knowledge base for LLM coding agents that indexes repository documentation, concept ontology, and build targets into Qdrant and exposes retrieval as MCP tools (search, get, list sources, reindex).

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T01:20:09Z"
+pushed_at: "2026-10-06T02:27:36Z"
 ---
 ## What it is
 Exposes UniFi Protect's Integration REST API as tools for Claude Code and other MCP clients, providing 73 tools to manage cameras, lights, sensors, and more with safety features like read-only mode and dry-run support.

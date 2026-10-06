@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-16T17:00:26Z"
+pushed_at: "2026-10-05T08:41:17Z"
 ---
 ## What it is
 Domain availability + registrar price comparison across 52 TLDs — see not just if a domain is free, but where it's cheapest (7 registrars, renewal traps exposed). Honest: shows an Unverified state instead of guessing. Free, no API key. For Claude, ChatGPT, Cursor & any MCP client.

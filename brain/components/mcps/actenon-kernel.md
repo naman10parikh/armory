@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-26T20:00:25Z"
+pushed_at: "2026-10-05T10:07:19Z"
 ---
 ## What it is
 MCP server that verifies proof-bound consequential execution at the edge, acting as the open trust anchor for the Actenon ecosystem. It validates PCCB proofs without issuing grants or making policy decisions.

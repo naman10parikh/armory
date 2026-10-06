@@ -8,11 +8,11 @@ source_url: https://github.com/cyanheads/ntfy-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 9
 pushed_at: "2026-09-22T05:24:44Z"
 ---
 ## What it is

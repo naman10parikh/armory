@@ -8,7 +8,7 @@ source_url: https://github.com/frishtik/osint-tools-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 242
+stars: 241
 eval_score: null
 verified_at: 2026-05-27
 related: []

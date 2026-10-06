@@ -8,12 +8,12 @@ source_url: https://github.com/bestagentkits/cloud-harness-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 72
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 28
 pushed_at: "2026-09-29T10:03:09Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-07T13:35:17Z"
+pushed_at: "2026-10-05T15:58:38Z"
 ---
 ## What it is
 MCP server for verifying narrative consistency and querying story-state facts in DeepSeek Harness, exposing read-only ledger tools for canonical evidence and continuity checks.

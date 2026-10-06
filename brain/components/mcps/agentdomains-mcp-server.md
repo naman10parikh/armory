@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-27T17:08:24Z"
+pushed_at: "2026-09-30T13:17:04Z"
 ---
 ## What it is
 Enables MCP-speaking agents to claim and manage free subdomains under makes.fyi or agentdomains.co, including DNS records, HTTPS, URL forwarding, reverse proxying, and account management.

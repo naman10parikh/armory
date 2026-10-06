@@ -8,13 +8,13 @@ source_url: https://github.com/ohad6k/ditto
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 293
+stars: 292
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 31
-pushed_at: "2026-09-28T11:10:57Z"
+pushed_at: "2026-10-02T14:37:33Z"
 ---
 ## What it is
 An MCP server that loads your Ditto profile, mined from your local Claude Code, Codex, and OpenCode session logs, so your agent works like you. Exposes the load_ditto_profile tool over the Model Context Protocol.

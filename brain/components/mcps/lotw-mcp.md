@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T22:14:38Z"
+pushed_at: "2026-10-04T01:05:22Z"
 ---
 ## What it is
 MCP server for ARRL Logbook of The World (LoTW) that enables querying confirmations, uploaded QSOs, DXCC credits, and user activity through any MCP-compatible AI assistant. Part of the qso-graph project, it is read-only and requires LoTW credentials for authenticated tools.

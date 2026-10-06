@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 26
-pushed_at: "2026-09-29T12:56:17Z"
+pushed_at: "2026-10-03T23:19:45Z"
 ---
 ## What it is
 Enables natural language search and querying of your GitHub starred repositories.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T01:36:07Z"
+pushed_at: "2026-10-01T01:38:52Z"
 ---
 ## What it is
 Enables validating, simulating, and analyzing finite state machines via MCP tools for step execution, path finding, and schema inspection.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-17T16:29:39Z"
+pushed_at: "2026-10-05T22:31:35Z"
 ---
 ## What it is
 Enables discovery, inspection, and cross-referencing of Protein Data Bank structures through three RCSB APIs: search, data, and sequence coordinates.

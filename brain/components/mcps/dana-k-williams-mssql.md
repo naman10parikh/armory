@@ -8,11 +8,11 @@ source_url: https://github.com/richardhan/mssql_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 393
+stars: 394
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 121
+forks: 122
 pushed_at: "2025-11-02T12:51:25Z"
 ---
 ## What it is

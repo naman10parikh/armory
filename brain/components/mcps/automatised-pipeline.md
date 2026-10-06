@@ -8,13 +8,13 @@ source_url: https://github.com/cdeust/automatised-pipeline
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-09-29T12:52:47Z"
+forks: 1
+pushed_at: "2026-10-06T11:47:30Z"
 ---
 ## What it is
 A Rust MCP server that indexes codebases into a property graph and provides tools for code intelligence, such as searching, context, impact analysis, and change detection.

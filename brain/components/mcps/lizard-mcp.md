@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T13:50:52Z"
+pushed_at: "2026-10-06T10:01:19Z"
 ---
 ## What it is
 Enables deploying and managing apps on Lizard via natural language, covering services, deploys, logs, secrets, domains, and configuration as code.

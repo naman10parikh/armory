@@ -12,8 +12,8 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claudable, claude-esp]
 tags: [client, cli]
-stars: 3122
-forks: 197
+stars: 3125
+forks: 198
 pushed_at: "2026-02-26T21:48:10Z"
 ---
 ## What it is

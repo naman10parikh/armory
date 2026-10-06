@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-26T22:42:46Z"
+pushed_at: "2026-09-04T12:37:02Z"
 ---
 ## What it is
 MCP server `Compression AI`, catalogued on PulseMCP. AI-assisted data compression and archive management tools.

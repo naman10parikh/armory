@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T02:40:10Z"
+pushed_at: "2026-10-06T01:35:31Z"
 ---
 ## What it is
 Analyzes Korean DART (Financial Supervisory Service) public disclosures to detect unfair trading risk signals, enabling users to query and evaluate corporate risk through natural language.

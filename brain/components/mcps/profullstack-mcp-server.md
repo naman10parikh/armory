@@ -13,7 +13,7 @@ related: []
 tags: [mcp, aggregators]
 stars: 45
 forks: 6
-pushed_at: "2026-09-14T11:31:42Z"
+pushed_at: "2026-10-06T11:03:22Z"
 ---
 ## What it is
 A comprehensive MCP server aggregating 20+ tools including SEO optimization, document conversion, domain lookup, email validation, QR generation, weather data, social media posting, security scanning, and more developer utilities.

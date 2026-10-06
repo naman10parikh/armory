@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-17T03:46:09Z"
+pushed_at: "2026-10-01T03:49:50Z"
 ---
 ## What it is
 Provides access to USPTO enriched citation and office action citation APIs with smart context reduction and progressive disclosure workflows for patent citation analysis.

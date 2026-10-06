@@ -8,13 +8,13 @@ source_url: https://github.com/gistrec/mcp-yandex-direct
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-21T15:30:18Z"
+pushed_at: "2026-10-04T11:31:16Z"
 ---
 ## What it is
 Enables managing Yandex Direct PPC campaigns, ad groups, ads, and keywords, plus pulling performance statistics via the Yandex Direct API v5.

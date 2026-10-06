@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-29T07:48:16Z"
+pushed_at: "2026-10-04T13:43:06Z"
 ---
 ## What it is
 MCP server `GitHub PR & Issue Analyzer`, catalogued on PulseMCP. Integrates with GitHub's API to automate pull request analysis, issue management, and repository operations directly from desktop language models.

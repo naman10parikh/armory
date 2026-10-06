@@ -8,11 +8,11 @@ source_url: https://github.com/ofryl/esp-cyd-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2025-08-03T14:26:25Z"
 ---
 ## What it is

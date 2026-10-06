@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-06T22:25:36Z"
+pushed_at: "2026-09-30T00:29:54Z"
 ---
 ## What it is
 Shows your current Claude Desktop activity as Discord Rich Presence, including model, status, usage, and subscription info.

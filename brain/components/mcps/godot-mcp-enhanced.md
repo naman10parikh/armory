@@ -8,13 +8,13 @@ source_url: https://github.com/wgt19861219/godot-mcp-enhanced
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 97
+stars: 99
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-09-13T02:44:55Z"
+pushed_at: "2026-10-03T05:16:46Z"
 ---
 ## What it is
 An open-source MCP server that gives AI assistants comprehensive tools to read, write, run, and verify Godot projects, featuring a three-layer architecture (headless, editor, game bridge) with systematic security protections.

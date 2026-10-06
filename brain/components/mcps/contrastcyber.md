@@ -8,12 +8,12 @@ source_url: https://github.com/upinar/contrastapi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-21T02:08:07Z"
+pushed_at: "2026-10-05T02:07:13Z"
 ---
 ## What it is
 MCP server `ContrastCyber`, catalogued on PulseMCP. Free security intelligence tools for AI agents including CVE lookup, OSINT, threat intel, and code security.

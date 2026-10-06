@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T13:20:12Z"
+pushed_at: "2026-10-05T13:22:44Z"
 ---
 ## What it is
 Enables read-only querying of Grafana Loki logs through tools like label discovery, LogQL queries, and recent log retrieval, without requiring knowledge of the Loki API.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T21:39:55Z"
+pushed_at: "2026-10-05T01:44:01Z"
 ---
 ## What it is
 Cryptographic receipts for AI outputs — signed, chain-anchored, $0.001/call

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, data-science-tools]
 stars: 26
 forks: 6
-pushed_at: "2026-09-04T19:04:17Z"
+pushed_at: "2026-10-02T08:31:30Z"
 ---
 ## What it is
 Model Context Protocol for R: enables AI agents to participate in interactive live R sessions.

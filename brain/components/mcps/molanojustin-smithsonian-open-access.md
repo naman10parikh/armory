@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-21T15:29:21Z"
+pushed_at: "2026-10-02T19:32:52Z"
 ---
 ## What it is
 MCP server `Smithsonian Open Access`, catalogued on PulseMCP. Provides access to the Smithsonian Institution's Open Access collections through their API, enabling search across 3+ million cultural objects from museums like NMNH, NPG, and SAAM with filters for object type, creator, materials, and licensing status, plus detailed object retrieval with metadata, images, and 3D models.

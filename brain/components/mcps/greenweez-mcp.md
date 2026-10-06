@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-28T02:11:53Z"
+pushed_at: "2026-10-05T02:09:01Z"
 ---
 ## What it is
 Unofficial MCP server for Greenweez that enables searching the catalog, reading product details, and managing a real shopping cart with safe confirmations, without ever placing orders or handling payment.

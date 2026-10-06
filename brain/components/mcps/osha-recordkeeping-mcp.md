@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T07:14:17Z"
+pushed_at: "2026-10-02T07:15:46Z"
 ---
 ## What it is
 Enables deterministic evaluation of workplace injury recordability under 29 CFR Part 1904, using 11 typed triage tools to return cited determinations for OSHA log entries.

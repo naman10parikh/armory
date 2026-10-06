@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T18:55:23Z"
+pushed_at: "2026-09-30T22:53:14Z"
 ---
 ## What it is
 Provides access to Global Legal Entity Identifier (LEI) data from GLEIF, enabling queries about legal entities and their identifiers via natural language.

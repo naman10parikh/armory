@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T17:44:26Z"
+pushed_at: "2026-10-04T21:46:12Z"
 ---
 ## What it is
 MCP server that enables an AI to query the Se7e ERP via the plug-server API, supporting authentication and catalog reconciliation.

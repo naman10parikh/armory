@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-26T23:07:06Z"
+pushed_at: "2026-10-04T10:27:12Z"
 ---
 ## What it is
 Enables structured multi-perspective debates with Wind (explore), Wall (constrain), and Door (synthesize) roles, featuring deterministic state, hash chains, GitHub integration, and auto-orchestration for decision-making.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-10T05:54:05Z"
+pushed_at: "2026-10-01T15:26:38Z"
 ---
 ## What it is
 MCP server `BioModelling`, catalogued on PulseMCP. Integrates biological mechanistic modeling tools MaBoSS, NeKo, and PhysiCell with AI assistants for simulation workflows.

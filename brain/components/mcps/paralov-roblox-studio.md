@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-02-06T00:59:11Z"
+pushed_at: "2026-09-30T11:33:39Z"
 ---
 ## What it is
 MCP server `Roblox Studio`, catalogued on PulseMCP. Bridges Roblox Studio with external tools through HTTP polling architecture, enabling automated workspace manipulation, instance creation, script editing, and property management for game development workflows.

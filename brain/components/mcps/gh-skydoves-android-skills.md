@@ -8,7 +8,7 @@ source_url: https://github.com/skydoves/android-skills-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 224
+stars: 223
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

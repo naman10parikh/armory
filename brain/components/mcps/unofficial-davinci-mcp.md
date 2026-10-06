@@ -8,12 +8,12 @@ source_url: https://github.com/wassermanproductions/unofficial-davinci-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 36
+stars: 35
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-07-20T08:12:15Z"
 ---
 ## What it is

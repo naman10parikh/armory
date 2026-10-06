@@ -8,13 +8,13 @@ source_url: https://github.com/vestauth/vestauth
 license: BSD-3-Clause
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 171
+stars: 172
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
-forks: 4
+forks: 6
 pushed_at: "2026-04-16T21:33:23Z"
 ---
 ## What it is

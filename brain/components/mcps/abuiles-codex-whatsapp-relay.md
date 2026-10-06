@@ -8,11 +8,11 @@ source_url: https://github.com/abuiles/codex-whatsapp-relay
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 15
 pushed_at: "2026-03-31T13:08:49Z"
 ---
 ## What it is

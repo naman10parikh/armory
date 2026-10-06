@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T18:04:26Z"
+pushed_at: "2026-10-02T18:05:46Z"
 ---
 ## What it is
 Enables agents to inspect French public procurement sources, including DECP, BOAMP, buyers, suppliers, and SIRENE data, to discover and summarize public contracts and related context.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T14:36:54Z"
+pushed_at: "2026-10-02T07:40:14Z"
 ---
 ## What it is
 Deploy Python functions as authenticated MCP connectors for Claude.ai and other MCP hosts, with pluggable OAuth and support for separate venvs for heavy dependencies.

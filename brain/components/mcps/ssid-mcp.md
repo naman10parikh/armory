@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T13:39:37Z"
+pushed_at: "2026-10-05T05:39:54Z"
 ---
 ## What it is
 MAC-address (OUI) vendor lookup and router default-login directory for AI agents, backed by ssid.ai. Identify a device manufacturer from its MAC address, detect randomized/private addresses instead of reporting unknown, or fetch a router's default login IP and admin credentials — every field cited t

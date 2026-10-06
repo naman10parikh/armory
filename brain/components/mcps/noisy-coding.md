@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-27T21:45:25Z"
+pushed_at: "2026-10-06T05:26:15Z"
 ---
 ## What it is
 Voice interface for Claude Code: you talk, the agent listens, codes, and talks back while it works. Live speech-to-text with turn-taking, Grok/xAI voices with per-subagent personas, and a real-time HUD dashboard.

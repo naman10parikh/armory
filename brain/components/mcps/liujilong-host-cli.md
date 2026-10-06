@@ -8,11 +8,11 @@ source_url: https://github.com/liujilongobject/mcp-host-use
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 9
 pushed_at: "2025-06-15T08:57:39Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-12T23:40:50Z"
+pushed_at: "2026-10-02T12:14:24Z"
 ---
 ## What it is
 MCP server that authenticates via browser session cookies to access Zendesk's REST API without API tokens, supporting reads and writes with agent permissions.

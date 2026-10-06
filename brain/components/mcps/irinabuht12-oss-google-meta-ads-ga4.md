@@ -8,11 +8,11 @@ source_url: https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3186
+stars: 4035
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 366
+forks: 365
 pushed_at: "2026-09-25T23:37:23Z"
 ---
 ## What it is

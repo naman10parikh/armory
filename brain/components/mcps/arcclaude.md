@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T00:43:19Z"
+pushed_at: "2026-10-01T21:59:44Z"
 ---
 ## What it is
 Enables AI assistants to control ArcGIS Pro through natural language, executing geoprocessing tools, editing data, and automating GIS workflows via a persistent ArcPy session.

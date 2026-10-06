@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-10T10:31:23Z"
+pushed_at: "2026-09-30T11:12:17Z"
 ---
 ## What it is
 Enables IDE agents to delegate coding tasks to any LLM provider — cloud APIs like NVIDIA NIM, OpenRouter, Groq, DeepSeek or local Ollama models — through a unified MCP interface.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T04:12:35Z"
+pushed_at: "2026-10-05T13:01:52Z"
 ---
 ## What it is
 Enables AI assistants to perform over 80 Obsidian vault operations locally via the Obsidian CLI, with a single tool and no network dependencies.

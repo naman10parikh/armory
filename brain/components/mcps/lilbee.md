@@ -8,13 +8,13 @@ source_url: https://github.com/tobocop2/lilbee
 license: Elastic License 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 61
+stars: 62
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-09-29T03:41:29Z"
+pushed_at: "2026-10-05T23:04:32Z"
 ---
 ## What it is
 Find, run, and manage your local AI models, then talk to your files, your code, and the sites you crawl. Every answer cites the source, it all runs on your own machine, and it's one program with nothing else to set up.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-27T20:18:01Z"
+pushed_at: "2026-10-06T13:00:09Z"
 ---
 ## What it is
 MCP server `Memory`, catalogued on PulseMCP. SQLite-backed persistent memory server with FTS5 full-text search, entity relationship tracking, and project scoping for AI agents.

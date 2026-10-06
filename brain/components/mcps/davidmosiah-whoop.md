@@ -12,8 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-08-29T10:26:15Z"
+forks: 6
+pushed_at: "2026-10-03T23:38:20Z"
 ---
 ## What it is
 MCP server `WHOOP (Unofficial)`, catalogued on PulseMCP. Unofficial WHOOP integration for AI health, sleep, recovery, and performance data access.

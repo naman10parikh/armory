@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T15:37:34Z"
+pushed_at: "2026-10-02T19:26:07Z"
 ---
 ## What it is
 A persistent world your agents share across sessions and models. MCP memory server with semantic memory retrieval, cross-agent handoff, a hosted remote endpoint with OAuth, a free 24-hour room, and an open-source local stdio server.

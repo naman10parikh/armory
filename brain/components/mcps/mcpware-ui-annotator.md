@@ -8,11 +8,11 @@ source_url: https://github.com/mcpware/ui-annotator-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-03-24T20:55:33Z"
 ---
 ## What it is

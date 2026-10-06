@@ -8,12 +8,12 @@ source_url: https://github.com/choihyunsus/soul
 license: Sleepycat License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 68
+stars: 67
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 7
 pushed_at: "2026-04-02T00:59:30Z"
 ---
 ## What it is

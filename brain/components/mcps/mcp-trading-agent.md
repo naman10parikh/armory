@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T16:22:56Z"
+pushed_at: "2026-10-06T10:50:50Z"
 ---
 ## What it is
 Enables an AI agent to perform live demo trading analysis using market data, news, backtesting, breakout scanning, and persistent trading knowledge tools.

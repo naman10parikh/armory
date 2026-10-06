@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-09-03T13:17:33Z"
+pushed_at: "2026-10-05T19:33:15Z"
 ---
 ## What it is
 Give your AI tools access to your email. Search, read, send, and manage messages across multiple accounts without leaving your terminal.

@@ -8,13 +8,13 @@ source_url: https://github.com/lemaiwo/odata-mcp-proxy
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 16
-pushed_at: "2026-08-12T05:31:59Z"
+pushed_at: "2026-10-01T07:02:00Z"
 ---
 ## What it is
 A config-driven MCP server that exposes OData and REST APIs as MCP tools, enabling AI assistants to query, manage, and monitor SAP backends through natural language.

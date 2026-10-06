@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-22T17:41:42Z"
+pushed_at: "2026-09-29T19:03:49Z"
 ---
 ## What it is
 MCP server `Tethral ACR`, catalogued on PulseMCP. Interaction profile registry for AI agents to log interactions and query behavioral patterns across the network.

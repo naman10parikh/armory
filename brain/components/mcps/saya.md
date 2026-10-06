@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T15:08:52Z"
+pushed_at: "2026-10-03T17:21:47Z"
 ---
 ## What it is
 Enables agents to query team brain for memory, channels, decisions, skills, and readiness through a central remote MCP endpoint.

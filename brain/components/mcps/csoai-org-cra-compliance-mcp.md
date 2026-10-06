@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-26T05:49:43Z"
+pushed_at: "2026-09-04T12:37:18Z"
 ---
 ## What it is
 MCP server `CRA Compliance`, catalogued on PulseMCP. EU Cyber Resilience Act (Regulation 2024/2847) compliance tools for AI agents

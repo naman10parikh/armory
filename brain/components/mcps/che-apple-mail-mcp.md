@@ -8,13 +8,13 @@ source_url: https://github.com/PsychQuant/che-apple-mail-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-28T16:49:29Z"
+pushed_at: "2026-10-06T08:15:18Z"
 ---
 ## What it is
 Enables natural-language control of Apple Mail with 53 tools, including millisecond SQLite-powered search across large mailboxes, mailbox and message management, composing and batch operations.

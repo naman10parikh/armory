@@ -8,13 +8,13 @@ source_url: https://github.com/langchain-ai/langsmith-sdk
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1065
+stars: 1069
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, tracing, evals]
-forks: 304
-pushed_at: "2026-09-29T13:33:36Z"
+forks: 307
+pushed_at: "2026-10-06T11:02:40Z"
 mentions: null
 ---
 ## What it is

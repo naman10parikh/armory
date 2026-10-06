@@ -8,13 +8,13 @@ source_url: https://github.com/openagentemail/openagentemail
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 47
+stars: 49
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-09-29T12:45:37Z"
+pushed_at: "2026-10-04T11:23:49Z"
 ---
 ## What it is
 Self-hosted email for AI agents: unlimited mailboxes on your own domain, with OTP extraction. 7 MCP tools via npx -y @openagentemail/mcp. Apache-2.0.

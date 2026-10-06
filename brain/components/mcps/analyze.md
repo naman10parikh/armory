@@ -8,13 +8,13 @@ source_url: https://github.com/zc4578980-tech/local-gpu-imagegen
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T03:30:12Z"
+pushed_at: "2026-10-05T16:51:49Z"
 ---
 ## What it is
 Let me evaluate the README content.

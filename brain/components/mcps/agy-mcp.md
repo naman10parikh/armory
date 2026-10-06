@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-08-12T20:46:59Z"
+pushed_at: "2026-10-04T00:47:53Z"
 ---
 ## What it is
 Wraps Google Antigravity CLI into 11 typed MCP tools, enabling any MCP client to invoke agy for code review, prototyping, execution, and long-running tasks.

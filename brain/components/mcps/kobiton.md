@@ -8,13 +8,13 @@ source_url: https://github.com/kobiton/automate
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-09-29T12:04:53Z"
+forks: 5
+pushed_at: "2026-10-05T05:46:15Z"
 ---
 ## What it is
 Enables mobile device management, app upload, automation session execution, and test result viewing through the Kobiton platform, integrated with AI coding assistants.

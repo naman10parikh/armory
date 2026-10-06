@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T11:03:00Z"
+pushed_at: "2026-10-05T18:00:38Z"
 ---
 ## What it is
 Enables querying and searching the Japanese Address Base Registry (ABR) data definitions and official documentation, including field definitions, datasets, and policy documents through tools like list_datasets, get_dataset, search_field, and search_docs.

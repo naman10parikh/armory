@@ -8,11 +8,11 @@ source_url: https://github.com/citedy/citedy-seo-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-06-09T10:09:31Z"
 ---
 ## What it is

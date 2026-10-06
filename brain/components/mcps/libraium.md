@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-17T20:43:54Z"
+pushed_at: "2026-10-01T20:48:49Z"
 ---
 ## What it is
 MCP server for searching, retrieving details, suggesting, and adding curated GitHub repositories from a personal library.

@@ -8,13 +8,13 @@ source_url: https://github.com/LadybugDB/mcp-server-ladybug
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-23T16:53:13Z"
+pushed_at: "2026-09-29T17:50:34Z"
 ---
 ## What it is
 Enables AI Assistants and IDEs to interact with LadybugDB graph databases using Cypher queries.

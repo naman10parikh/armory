@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T18:33:01Z"
+pushed_at: "2026-10-06T13:40:18Z"
 ---
 ## What it is
 Personal digital memory: a desktop app that indexes your mail, chats, and documents into a local SQLite corpus on your machine — parsing and OCR run on-device via llama.cpp — and serves them to any MCP client. Local server on 127.0.0.1, plus an optional per-user remote endpoint (you.localkiagent.com

@@ -8,13 +8,13 @@ source_url: https://github.com/spokenmd/spoken
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T13:50:42Z"
+pushed_at: "2026-10-06T13:38:45Z"
 ---
 ## What it is
 Fetch published podcast transcripts as clean Markdown with real speaker names via the Spoken API. Tools: search_podcasts, get_transcript, get_balance.

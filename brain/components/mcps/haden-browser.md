@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T22:24:58Z"
+pushed_at: "2026-09-30T22:25:02Z"
 ---
 ## What it is
 Enables AI assistants to browse the web efficiently via compact goal-based views, lazy image loading, and low-latency interactions.

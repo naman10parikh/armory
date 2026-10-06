@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T02:08:01Z"
+pushed_at: "2026-09-30T02:13:03Z"
 ---
 ## What it is
 Scaffold and audit Starter Series projects — MCP server, Claude Code skill, and CLI in one package.

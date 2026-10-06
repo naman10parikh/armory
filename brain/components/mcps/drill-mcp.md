@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T21:36:56Z"
+pushed_at: "2026-10-06T13:53:22Z"
 ---
 ## What it is
 Official MCP server for Apache Drill, enabling read-only SQL queries and inspection of schemas, storage plugins, and cluster/query state.

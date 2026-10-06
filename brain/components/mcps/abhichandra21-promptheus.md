@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-03-17T19:47:07Z"
+pushed_at: "2026-10-02T04:02:31Z"
 ---
 ## What it is
 MCP server `Promptheus`, catalogued on PulseMCP. Prompt refinement with adaptive questioning and multi-provider LLM support

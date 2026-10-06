@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 18
-pushed_at: "2026-09-28T21:26:37Z"
+pushed_at: "2026-10-05T21:27:28Z"
 ---
 ## What it is
 MCP server `SMTP Email Manager`, catalogued on PulseMCP. Provides SMTP email functionality with tools for sending individual and bulk emails, managing configurations, and creating customizable templates with variable substitution for automated, personalized email campaigns.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T16:23:56Z"
+pushed_at: "2026-10-01T16:11:26Z"
 ---
 ## What it is
 MCP server for the Cisco ACI REST API, enabling LLM clients to query and modify fabric configurations via tools like get, post, diff, and merge using an existing logged-in session.

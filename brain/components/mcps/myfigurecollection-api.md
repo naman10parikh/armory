@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T16:16:16Z"
+pushed_at: "2026-09-29T19:41:02Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to search and retrieve anime figure data, collections, lists, and clubs from MyFigureCollection.net, including partner listings and barcode lookup.

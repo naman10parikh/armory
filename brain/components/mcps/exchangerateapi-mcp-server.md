@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T15:00:50Z"
+pushed_at: "2026-10-01T15:39:17Z"
 ---
 ## What it is
 Enables AI coding tools to access real-time and historical currency exchange rates for 160+ currencies, sourced from Reuters/Refinitiv.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T02:02:49Z"
+pushed_at: "2026-10-06T00:33:53Z"
 ---
 ## What it is
 Enables MCP clients to evaluate CHP Profile B capital gates, including spend/mandate decisions, human-approval workflows, canonical JSON hashing, and signed audit ledger records.

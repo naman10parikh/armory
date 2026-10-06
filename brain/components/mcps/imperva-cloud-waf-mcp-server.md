@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-22T12:10:28Z"
+pushed_at: "2026-10-01T00:25:05Z"
 ---
 ## What it is
 Enables AI assistants to query and analyze Imperva Cloud WAF configurations through natural language, supporting retrieval of sites, domains, policies, and rules.

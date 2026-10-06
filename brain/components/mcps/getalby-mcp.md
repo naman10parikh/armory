@@ -13,7 +13,7 @@ related: []
 tags: [mcp, finance-fintech]
 stars: 66
 forks: 19
-pushed_at: "2026-09-29T12:57:00Z"
+pushed_at: "2026-10-02T10:16:15Z"
 ---
 ## What it is
 Connect any bitcoin lightning wallet to your agent to send and receive instant payments globally.

@@ -8,11 +8,11 @@ source_url: https://github.com/oortonaut/mcacp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2026-02-01T05:08:18Z"
 ---
 ## What it is

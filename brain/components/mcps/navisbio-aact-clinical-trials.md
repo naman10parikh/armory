@@ -8,12 +8,12 @@ source_url: https://github.com/navisbio/aact_clinicaltrials_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 19
-pushed_at: "2026-03-11T15:08:07Z"
+pushed_at: "2026-10-06T13:51:16Z"
 ---
 ## What it is
 MCP server `AACT Clinical Trials`, catalogued on PulseMCP. Integrates with the AACT clinical trials database, enabling querying and analysis of large-scale trial data for research and healthcare applications.

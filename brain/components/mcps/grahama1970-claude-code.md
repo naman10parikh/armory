@@ -8,7 +8,7 @@ source_url: https://github.com/grahama1970/claude-code-mcp-enhanced
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 124
+stars: 125
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

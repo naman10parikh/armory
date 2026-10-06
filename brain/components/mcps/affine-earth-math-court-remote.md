@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-19T17:37:37Z"
+pushed_at: "2026-10-03T13:32:07Z"
 ---
 ## What it is
 Enables agent builders to run deterministic, integer-only mathematical operations while refusing floats, with sealed and verifiable integer-based results.

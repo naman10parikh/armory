@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-22T02:28:25Z"
+pushed_at: "2026-10-06T05:18:22Z"
 ---
 ## What it is
 Enables using the GDC (gdc-service) from Claude Code/Desktop through MCP tools, slash commands, and automatic progress synchronization hooks.

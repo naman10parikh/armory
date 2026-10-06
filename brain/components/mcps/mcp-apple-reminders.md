@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-27T06:55:36Z"
+pushed_at: "2026-10-04T01:37:12Z"
 ---
 ## What it is
 A macOS-only MCP server that exposes Apple Reminders to AI clients, enabling create, read, update, delete, search, and organization of reminders and lists through natural language.

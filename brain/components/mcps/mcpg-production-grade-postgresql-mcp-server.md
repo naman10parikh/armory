@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-28T06:24:39Z"
+pushed_at: "2026-10-05T06:12:44Z"
 ---
 ## What it is
 A production-grade Model Context Protocol server for PostgreSQL. Lets AI agents safely inspect, query, operate, and tune a Postgres database — over 100 tools spanning catalog introspection, query intelligence, natural-language SQL, structural diffs, hybrid search, graph queries, data movement, live 

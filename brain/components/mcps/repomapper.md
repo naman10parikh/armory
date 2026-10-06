@@ -8,7 +8,7 @@ source_url: https://github.com/pdavis68/repomapper
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 211
+stars: 217
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2025-10-16T22:10:38Z"
+pushed_at: "2026-10-06T06:09:44Z"
 ---
 ## What it is
 MCP server `Obsidian`, catalogued on PulseMCP. Integrates with Obsidian vaults to provide knowledge graph analysis, note creation and editing, template management, tag-based searching, and Canvas file manipulation with support for multiple vault configurations and real-time file watching.

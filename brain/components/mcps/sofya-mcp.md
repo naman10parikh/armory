@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-27T15:09:05Z"
+pushed_at: "2026-10-05T19:04:38Z"
 ---
 ## What it is
 Web tools for AI agents. Search the web for full page content, fetch URLs as clean markdown including PDFs, extract structured data from a page with a prompt, and run multi-source deep research that returns a cited report.

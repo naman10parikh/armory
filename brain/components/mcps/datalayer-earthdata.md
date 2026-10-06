@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-09-29T09:39:19Z"
+pushed_at: "2026-10-01T06:53:05Z"
 ---
 ## What it is
 MCP server `NASA Earthdata`, catalogued on PulseMCP. Provides a bridge to NASA's Earthdata platform for searching and retrieving Earth science datasets and data granules based on keywords, temporal ranges, and geographic boundaries.

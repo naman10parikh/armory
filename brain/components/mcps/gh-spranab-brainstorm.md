@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-09-25T19:20:37Z"
+pushed_at: "2026-09-29T23:47:01Z"
 ---
 ## What it is
 MCP server `Brainstorm`, catalogued on PulseMCP. Multi-model orchestration for debates and code reviews across GPT, Gemini, DeepSeek, and Claude with synthesis.

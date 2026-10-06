@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-24T13:05:25Z"
+pushed_at: "2026-10-04T12:57:40Z"
 ---
 ## What it is
 MCP server `VibeSEO`, catalogued on PulseMCP. SEO research, audits, backlinks, Google Search Console integration, and content workflow tools for AI agents.

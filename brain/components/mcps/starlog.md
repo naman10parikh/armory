@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-07T04:12:41Z"
+pushed_at: "2026-10-01T22:05:05Z"
 ---
 ## What it is
 Vet a package before your AI coding agent uses it — authoritative facts (CVEs, license, maintenance) via an MCP server + CLI. Local, no account.

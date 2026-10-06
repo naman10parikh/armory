@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-15T10:15:03Z"
+pushed_at: "2026-10-06T07:37:37Z"
 ---
 ## What it is
 MCP server that surfaces cited official Japanese government data on Nankai Trough earthquake hazards, building safety standards, and routes users to official hazard maps without inventing numbers.

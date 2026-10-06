@@ -8,7 +8,7 @@ source_url: https://github.com/newtype-ai/nit
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 128
+stars: 114
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

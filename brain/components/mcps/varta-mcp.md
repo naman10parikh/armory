@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T16:26:27Z"
+pushed_at: "2026-09-29T15:24:16Z"
 ---
 ## What it is
 Spam classification MCP server for AI agents that classifies messages as SPAM, SUSPICIOUS, or SAFE based on real Telegram moderation data and multi-layer detection.

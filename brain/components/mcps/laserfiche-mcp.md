@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T00:54:27Z"
+pushed_at: "2026-10-01T20:15:16Z"
 ---
 ## What it is
 Enables AI assistants to search, read, and manage documents in a Laserfiche repository via the MCP protocol, with optional write operations and safety controls.

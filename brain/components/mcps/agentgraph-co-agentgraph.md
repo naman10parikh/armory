@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
-stars: 4
+stars: 5
 forks: 7
-pushed_at: "2026-09-29T00:50:41Z"
+pushed_at: "2026-10-06T06:03:21Z"
 ---
 ## What it is
 Trust verification and security scanning for AI agents. Checks security posture of third-party MCP servers and tools with signed attestations (Ed25519/JWS) before interaction.

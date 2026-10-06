@@ -8,11 +8,11 @@ source_url: https://github.com/oxylabs/oxylabs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 106
+stars: 105
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
+forks: 26
 pushed_at: "2026-09-07T06:57:02Z"
 ---
 ## What it is

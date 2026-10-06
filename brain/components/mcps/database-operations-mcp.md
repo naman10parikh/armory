@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T02:36:14Z"
+pushed_at: "2026-10-02T12:34:20Z"
 ---
 ## What it is
 Enables database inspection, backup/restore, analysis, and querying, plus media library and Windows Registry management via MCP tools.

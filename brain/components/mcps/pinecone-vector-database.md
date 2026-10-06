@@ -8,7 +8,7 @@ source_url: https://github.com/pinecone-io/pinecone-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T14:24:52Z"
+pushed_at: "2026-10-03T23:27:40Z"
 ---
 ## What it is
 Enables querying the DPC Zettelkasten knowledge base with full-text search, note retrieval, and structural GraphQL queries, each answer backed by pinned GitHub source citations.

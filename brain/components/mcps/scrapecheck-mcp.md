@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T22:02:27Z"
+pushed_at: "2026-10-01T10:26:40Z"
 ---
 ## What it is
 MCP server that verifies scraped web data by re-fetching source pages and returning ed25519-signed pass, fail, or unverifiable verdicts, with x402 in-band payment.

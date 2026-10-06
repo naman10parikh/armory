@@ -8,7 +8,7 @@ source_url: https://github.com/zilliztech/mcp-server-milvus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 245
+stars: 244
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -8,12 +8,12 @@ source_url: https://github.com/veelenga/claude-mermaid
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 213
+stars: 215
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
-pushed_at: "2026-09-28T10:13:30Z"
+forks: 24
+pushed_at: "2026-10-05T09:36:54Z"
 ---
 ## What it is
 MCP server `Mermaid`, catalogued on PulseMCP. Renders Mermaid diagrams in real-time with live preview capabilities, automatic browser refresh, and WebSocket-based updates, supporting SVG, PNG, and PDF formats with pan/zoom functionality and collaborative editing integration.

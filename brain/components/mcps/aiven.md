@@ -12,8 +12,8 @@ stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
-pushed_at: "2026-09-29T13:24:04Z"
+forks: 22
+pushed_at: "2026-10-06T10:17:20Z"
 ---
 ## What it is
 MCP server `Aiven`, catalogued on PulseMCP. Provides direct access to Aiven's cloud database and messaging services, enabling management of PostgreSQL, Kafka, ClickHouse, Valkey, and OpenSearch infrastructure through the Aiven API.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-20T07:21:04Z"
+pushed_at: "2026-10-03T13:21:18Z"
 ---
 ## What it is
 MCP server for scientific grounding: search and discover open-access research papers across arXiv, OpenAlex, Crossref, PubMed, and Semantic Scholar, and retrieve references/citations from paywalled journals via public DOI/abstract metadata.

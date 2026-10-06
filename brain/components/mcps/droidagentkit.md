@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T18:55:51Z"
+pushed_at: "2026-10-06T05:42:26Z"
 ---
 ## What it is
 MCP server that provides AI coding agents real Android development tools—Gradle, adb, logcat, lint, crash triage—through a local, permissioned interface. Enables agents to inspect projects, run safe Gradle tasks, capture logs/screenshots, and triage crashes.

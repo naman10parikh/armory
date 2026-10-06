@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-09-29T05:53:28Z"
+pushed_at: "2026-10-06T05:53:31Z"
 ---
 ## What it is
 MCP server `Shannon Thinking (Problem Solving)`, catalogued on PulseMCP. Implements Claude Shannon's systematic problem-solving methodology to guide users through structured stages of complex problem breakdown and solution refinement.

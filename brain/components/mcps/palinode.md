@@ -8,12 +8,12 @@ source_url: https://github.com/phasespace-labs/palinode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 47
-pushed_at: "2026-09-26T15:07:49Z"
+forks: 48
+pushed_at: "2026-10-03T05:26:23Z"
 ---
 ## What it is
 MCP server `Palinode`, catalogued on PulseMCP. Git-versioned markdown memory for AI agents with search, save, compact, lint, and audit tools.

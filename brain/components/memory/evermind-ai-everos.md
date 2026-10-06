@@ -8,14 +8,14 @@ source_url: https://github.com/EverMind-AI/EverOS
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 13279
+stars: 13350
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 924
-pushed_at: "2026-09-29T01:35:59Z"
+forks: 926
+pushed_at: "2026-10-04T07:31:24Z"
 ---
 ## What it is
 Use when you want the agent's memory to be plain Markdown on your own disk rather than a hosted database.

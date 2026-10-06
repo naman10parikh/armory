@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T09:32:32Z"
+pushed_at: "2026-09-30T11:30:53Z"
 ---
 ## What it is
 An MCP server that enables AI image editing and generation using the GPT Image 2 model line via RunAPI, with task polling and pricing checks.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-25T15:59:14Z"
+pushed_at: "2026-09-04T12:35:03Z"
 ---
 ## What it is
 MCP server `A2A Governance Bridge`, catalogued on PulseMCP. Compliance verification and governance tools for agent-to-agent transactions.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-16T04:29:18Z"
+pushed_at: "2026-10-04T03:04:57Z"
 ---
 ## What it is
 MCP server `Rakuten`, catalogued on PulseMCP. Access Rakuten APIs for product search, books, hotel listings, and rankings.

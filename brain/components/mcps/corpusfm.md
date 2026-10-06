@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T09:08:44Z"
+pushed_at: "2026-10-06T08:21:48Z"
 ---
 ## What it is
 Enables AI assistants and automation to inspect, compare, and manage FileMaker schema artifacts via MCP, including exploring objects, tracing references, generating diffs between versions, and automating schema tasks through jobs.

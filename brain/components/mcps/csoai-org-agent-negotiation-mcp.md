@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-26T12:52:42Z"
+pushed_at: "2026-09-04T12:35:19Z"
 ---
 ## What it is
 MCP server `Agent Negotiation`, catalogued on PulseMCP. Negotiation protocol tools for autonomous agent-to-agent interactions.

@@ -8,12 +8,12 @@ source_url: https://github.com/CodeLogicIncEngineering/codelogic-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-08-12T15:43:21Z"
+pushed_at: "2026-10-05T21:38:11Z"
 ---
 ## What it is
 MCP server `CodeLogic`, catalogued on PulseMCP. Analyze software dependencies and assess impact of code changes

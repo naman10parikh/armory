@@ -8,7 +8,7 @@ source_url: https://github.com/gannonh/firebase-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 246
+stars: 247
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

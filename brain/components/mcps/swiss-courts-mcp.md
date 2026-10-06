@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T16:59:05Z"
+pushed_at: "2026-10-04T11:11:57Z"
 ---
 ## What it is
 MCP server for searching Swiss court decisions from federal and cantonal courts via entscheidsuche.ch. Enables full-text search, law reference lookup, and filtering by canton, court level, and date without API keys.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-09-28T18:05:31Z"
+pushed_at: "2026-09-30T14:05:06Z"
 ---
 ## What it is
 Enables AI tools to manage files, web apps, and scheduled tasks on PythonAnywhere through the Model Context Protocol.

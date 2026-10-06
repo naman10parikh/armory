@@ -8,12 +8,12 @@ source_url: https://github.com/yamadashy/repomix
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28564
+stars: 28724
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1547
-pushed_at: "2026-09-29T07:00:59Z"
+forks: 1568
+pushed_at: "2026-10-03T17:20:27Z"
 mentions: 1
 ---
 ## What it is

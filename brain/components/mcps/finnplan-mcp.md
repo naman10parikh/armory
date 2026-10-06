@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T14:15:28Z"
+pushed_at: "2026-10-05T22:13:06Z"
 ---
 ## What it is
 A stateless MCP server for personal finance management on Cloudflare Workers with D1, offering tools for registration, wallet/category/budget management, transactions, transfers, and financial summaries via JWT-secured APIs.

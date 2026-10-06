@@ -8,11 +8,11 @@ source_url: https://github.com/scriptedalchemy/devtools-debugger-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 349
+stars: 350
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
+forks: 24
 pushed_at: "2025-10-02T19:59:07Z"
 ---
 ## What it is

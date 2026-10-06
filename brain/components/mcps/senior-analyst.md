@@ -8,12 +8,12 @@ source_url: https://github.com/rrred0324/senior-analyst
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 62
+stars: 65
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
+forks: 12
 pushed_at: "2026-06-19T09:02:05Z"
 ---
 ## What it is

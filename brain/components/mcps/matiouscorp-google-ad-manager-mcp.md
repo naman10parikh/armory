@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, marketing]
-stars: 18
+stars: 20
 forks: 11
 pushed_at: "2026-05-29T10:30:31Z"
 ---

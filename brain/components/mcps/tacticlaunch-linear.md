@@ -12,8 +12,8 @@ stars: 146
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
-pushed_at: "2026-08-29T03:29:51Z"
+forks: 38
+pushed_at: "2026-10-04T13:41:54Z"
 ---
 ## What it is
 MCP server `Linear`, catalogued on PulseMCP. Bridges Linear project management system with natural language interaction, enabling issue tracking, project workflows, and team management without context switching.

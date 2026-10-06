@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T14:56:36Z"
+pushed_at: "2026-10-02T14:31:15Z"
 ---
 ## What it is
 MCP server for managing Naver Cloud Platform Government Cloud infrastructure via natural language. Provides ~877 tools across compute, network, database, storage, security, and other services.

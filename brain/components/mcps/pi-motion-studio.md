@@ -8,11 +8,13 @@ source_url: https://github.com/drvova/pi-motion-studio
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T02:22:01Z"
 ---
 ## What it is
 MCP server for CSS spring animations, bounce easing, cubic-bezier visualizations, and Motion code search.

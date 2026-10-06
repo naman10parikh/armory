@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-20T14:47:39Z"
+pushed_at: "2026-10-02T05:35:06Z"
 ---
 ## What it is
 MCP server `VMware Harden`, catalogued on PulseMCP. VMware vSphere compliance scanning against CIS, vSphere SCG, GB/T 22239, and PCI-DSS with drift detection.

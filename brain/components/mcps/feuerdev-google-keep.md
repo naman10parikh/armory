@@ -12,8 +12,8 @@ stars: 104
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 30
-pushed_at: "2026-09-15T15:14:34Z"
+forks: 31
+pushed_at: "2026-10-06T12:37:13Z"
 ---
 ## What it is
 MCP server `Google Keep`, catalogued on PulseMCP. Provides a bridge to Google Keep for searching, creating, updating, and deleting notes with safety features that restrict modifications to specifically labeled content.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-15T14:39:58Z"
+pushed_at: "2026-09-04T12:37:57Z"
 ---
 ## What it is
 MCP server `Currency Converter AI`, catalogued on PulseMCP. Real-time currency conversion and exchange rate data tools.

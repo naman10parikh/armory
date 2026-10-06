@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T11:53:57Z"
+pushed_at: "2026-10-06T12:06:51Z"
 ---
 ## What it is
 Scores companies against a configurable Ideal Customer Profile using firmographic and signal data. Returns a weighted fit score with per-criterion breakdowns.

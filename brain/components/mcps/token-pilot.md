@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-29T12:47:52Z"
+pushed_at: "2026-10-06T07:11:37Z"
 ---
 ## What it is
 MCP server that reduces token consumption in AI coding assistants by up to 90% via structural reads, PreToolUse hooks, and tp-\* subagents.

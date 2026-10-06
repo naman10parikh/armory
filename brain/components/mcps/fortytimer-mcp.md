@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T11:42:10Z"
+pushed_at: "2026-10-05T12:43:25Z"
 ---
 ## What it is
 A read-only MCP server for fortyTimer, exposing tools to fetch time balances, time entries, project times, and leave requests.

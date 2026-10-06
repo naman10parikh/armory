@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-29T07:33:56Z"
+pushed_at: "2026-09-04T12:39:52Z"
 ---
 ## What it is
 MCP server `Image Metadata AI`, catalogued on PulseMCP. Python MCP server for reading and writing image metadata.

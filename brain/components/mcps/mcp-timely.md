@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T08:23:54Z"
+pushed_at: "2026-10-06T13:56:31Z"
 ---
 ## What it is
 A read-only MCP server for querying Timely time tracking data, providing tools for project overviews, time spent summaries, and work log entries.

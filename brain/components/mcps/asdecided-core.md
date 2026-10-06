@@ -8,13 +8,13 @@ source_url: https://github.com/asdecided/core
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 294
+stars: 296
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-09-27T17:59:56Z"
+pushed_at: "2026-10-05T14:04:34Z"
 ---
 ## What it is
 Provides deterministic, read-only access to engineering decisions, requirements, and designs stored as Markdown in a repository, enabling agents to retrieve and follow decided context without embeddings or external services.

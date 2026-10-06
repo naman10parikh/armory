@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-12T15:01:14Z"
+pushed_at: "2026-10-01T13:29:24Z"
 ---
 ## What it is
 A controllable multi-source search MCP server for AI agents. Enables searching multiple sources like Reddit, X, YouTube, and more, with control over sources, time window, and optional synthesis.

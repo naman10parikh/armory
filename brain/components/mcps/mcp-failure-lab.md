@@ -8,13 +8,13 @@ source_url: https://github.com/anilloutombam/mcp-failure-lab
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T16:48:30Z"
+pushed_at: "2026-10-05T16:45:51Z"
 ---
 ## What it is
 A chaos-engineering and resilience-testing toolkit for Model Context Protocol servers, enabling deterministic fault injection and testing of reliability scenarios.

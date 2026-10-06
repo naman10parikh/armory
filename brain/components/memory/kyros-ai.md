@@ -8,7 +8,7 @@ source_url: https://github.com/Kyros-494/kyros-ai
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 94
+stars: 93
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

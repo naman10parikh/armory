@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T23:32:46Z"
+pushed_at: "2026-10-02T12:27:20Z"
 ---
 ## What it is
 MCP server for grounding verification (exact quotes, citations, code output, repo patterns, arithmetic) using no LLM in the verification path.

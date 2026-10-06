@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-09-29T07:24:41Z"
+pushed_at: "2026-10-05T23:43:39Z"
 ---
 ## What it is
 MCP server `InsForge`, catalogued on PulseMCP. Backend-as-a-service platform with database, storage, auth, edge functions, and deployment tools.

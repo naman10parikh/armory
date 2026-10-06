@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-19T03:22:48Z"
+pushed_at: "2026-10-03T03:22:52Z"
 ---
 ## What it is
 MCP server for creating owner-confirmed, isolated Telegram Managed Bots with built-in profiles and secure credential handling.

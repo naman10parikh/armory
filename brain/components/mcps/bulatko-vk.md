@@ -8,12 +8,12 @@ source_url: https://github.com/bulatko/vk-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-07-26T11:26:34Z"
+pushed_at: "2026-10-01T15:52:43Z"
 ---
 ## What it is
 MCP server `VK`, catalogued on PulseMCP. Integrates with VK (VKontakte) social network API for reading user profiles, wall posts, groups, friends, newsfeeds, and photos, plus creating posts and comments.

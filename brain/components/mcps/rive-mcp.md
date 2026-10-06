@@ -8,13 +8,13 @@ source_url: https://github.com/ODU33104/rive-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-14T11:47:57Z"
+pushed_at: "2026-10-06T01:09:49Z"
 ---
 ## What it is
 Enables creating, editing, inspecting, rendering, and live-previewing Rive (.riv) animations directly from Claude without needing the Rive editor or cloud subscription, including building .riv files from scratch and a local web studio for human-AI collaboration.

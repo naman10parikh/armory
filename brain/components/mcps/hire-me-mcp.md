@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T22:24:27Z"
+pushed_at: "2026-10-05T08:41:19Z"
 ---
 ## What it is
 Turns a developer's portfolio into a queryable MCP server, enabling AI assistants to interrogate career data (experience, projects, skills) with grounded citations.

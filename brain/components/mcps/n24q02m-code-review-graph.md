@@ -8,12 +8,12 @@ source_url: https://github.com/n24q02m/better-code-review-graph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 69
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
-pushed_at: "2026-09-28T22:27:14Z"
+forks: 11
+pushed_at: "2026-10-06T12:32:49Z"
 ---
 ## What it is
 MCP server `Better Code Review Graph`, catalogued on PulseMCP. Knowledge graph for token-efficient code reviews with fixed search, configurable embeddings, and qualified call resolution.

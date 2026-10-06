@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-09-09T17:35:37Z"
+forks: 8
+pushed_at: "2026-09-30T11:15:12Z"
 ---
 ## What it is
 An open-source deep research MCP server that provides multi-source web search and synthesis with citations, enabling agents to perform citation-backed research using Qwen3-30B-A3B-Thinking and other models.

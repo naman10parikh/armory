@@ -8,11 +8,11 @@ source_url: https://github.com/microsoft/sentinel-data-exploration-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 2
 pushed_at: "2026-01-14T06:09:26Z"
 ---
 ## What it is

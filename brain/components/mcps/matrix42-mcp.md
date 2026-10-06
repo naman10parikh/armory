@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T04:54:17Z"
+pushed_at: "2026-10-02T04:54:06Z"
 ---
 ## What it is
 Lets AI assistants safely explore a Matrix42 instance by discovering web services and the data model, running validated ASQL queries, searching the service desk, and previewing ticket actions — read-only by default and without exposing credentials.

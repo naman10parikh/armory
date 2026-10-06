@@ -8,12 +8,12 @@ source_url: https://github.com/firish/claude_code_vs
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 99
+stars: 100
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
+forks: 16
 pushed_at: "2026-09-08T18:29:26Z"
 ---
 ## What it is

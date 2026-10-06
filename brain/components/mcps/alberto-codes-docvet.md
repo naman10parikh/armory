@@ -12,8 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-09-13T22:34:27Z"
+forks: 1
+pushed_at: "2026-10-04T22:34:14Z"
 ---
 ## What it is
 MCP server `DocVet`, catalogued on PulseMCP. Docstring quality vetting for Python with enrichment, freshness, coverage, and presence checks.

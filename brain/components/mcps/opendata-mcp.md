@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T09:36:31Z"
+pushed_at: "2026-10-05T10:15:34Z"
 ---
 ## What it is
 Provides access to Taiwan open data including weather forecasts, earthquake reports, and air quality indices via natural language queries.

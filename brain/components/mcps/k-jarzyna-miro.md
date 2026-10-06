@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 23
-pushed_at: "2026-09-10T01:38:11Z"
+pushed_at: "2026-09-29T23:31:33Z"
 ---
 ## What it is
 MCP server `Miro`, catalogued on PulseMCP. Integrates with Miro's collaborative whiteboard platform, providing over 80 tools for managing boards, creating and manipulating various item types, and handling enterprise features for visual collaboration workflows.

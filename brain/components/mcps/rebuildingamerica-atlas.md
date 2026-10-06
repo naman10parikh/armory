@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-29T04:24:51Z"
+pushed_at: "2026-10-03T18:27:28Z"
 ---
 ## What it is
 MCP server `Atlas`, catalogued on PulseMCP. Searches a civic directory of people and organizations doing meaningful community work across America via natural language queries.

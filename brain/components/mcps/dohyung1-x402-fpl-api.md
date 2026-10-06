@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, sports]
 stars: 11
-forks: 1
+forks: 2
 pushed_at: "2026-03-23T23:38:29Z"
 ---
 ## What it is

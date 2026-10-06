@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T06:12:11Z"
+pushed_at: "2026-10-01T17:35:43Z"
 ---
 ## What it is
 Enables engineers to convert antenna papers/diagrams and natural language specs into auditable, versionable HFSS Python modeling code, with optional simulation and parametric optimization.

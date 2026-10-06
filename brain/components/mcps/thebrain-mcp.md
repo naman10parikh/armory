@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-12T13:15:18Z"
+pushed_at: "2026-09-30T14:17:34Z"
 ---
 ## What it is
 An MCP server for TheBrain 15 that enables semantic search, graph traversal, and structured writing to a personal knowledge base via its local API. It provides tools to read and write thoughts, notes, links, and tags, with optional local embeddings for meaning-based search.

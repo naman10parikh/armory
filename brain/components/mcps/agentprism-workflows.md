@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T11:07:29Z"
+pushed_at: "2026-10-06T11:48:53Z"
 ---
 ## What it is
 Run dynamic, multi-agent workflow scripts — agent(), parallel(), pipeline() — over real coding agents (Claude Code and OpenAI Codex), with deterministic journaling, resume, token budgets, and git-worktree isolation.

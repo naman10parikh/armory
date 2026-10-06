@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T01:27:10Z"
+pushed_at: "2026-09-30T11:45:11Z"
 ---
 ## What it is
 Automatically converts any apcore-based project into an MCP server and OpenAI tool provider with zero code changes.

@@ -8,12 +8,12 @@ source_url: https://github.com/icebird1998/drawio-scientific-illustrator
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1443
+stars: 1445
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 101
+forks: 100
 pushed_at: "2026-07-30T05:37:43Z"
 ---
 ## What it is

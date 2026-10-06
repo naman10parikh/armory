@@ -8,13 +8,13 @@ source_url: https://github.com/ykarapazar/word-mcp-live
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 226
+stars: 228
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 43
-pushed_at: "2026-05-29T08:11:14Z"
+forks: 44
+pushed_at: "2026-10-06T11:49:47Z"
 ---
 ## What it is
 Enables AI assistants to edit Microsoft Word documents live while they are open, with full support for tracked changes, comments, formatting, and 124 tools.

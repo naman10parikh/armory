@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-29T13:18:03Z"
+pushed_at: "2026-10-01T15:45:50Z"
 ---
 ## What it is
 A hybrid MCP server that proxies Pencil's native design tools and adds utilities for .pen file management, enabling design token extraction, layer trees, diffs, and batch export.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-12T18:20:30Z"
+pushed_at: "2026-10-01T10:50:10Z"
 ---
 ## What it is
 Enables AI agents to manage a local-first household inventory, recording receipt emails and maintaining a probabilistic estimate of stock levels. Provides tools to query stock, identify items to reorder, and correct ingestion errors, all without any cloud dependency.

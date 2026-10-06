@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T03:56:33Z"
+pushed_at: "2026-10-04T22:53:43Z"
 ---
 ## What it is
 AgentLink MCP server enables cross-repo contract negotiation for coding agents, exposing a stdio API to list agents, start conversations, send/read structured messages, update/accept contracts, and close coordination sessions across Claude Code, Codex, Copilot, and other MCP-capable harnesses.

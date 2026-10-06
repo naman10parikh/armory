@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-09-23T14:06:25Z"
+forks: 6
+pushed_at: "2026-10-06T12:11:35Z"
 ---
 ## What it is
 Technology-aware MCP server for Magento 2 and Adobe Commerce with intelligent indexing and search, enabling AI assistants to search, navigate, and understand codebases via semantic search and domain-specific pattern detection.

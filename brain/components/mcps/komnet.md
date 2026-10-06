@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T13:37:23Z"
+pushed_at: "2026-10-06T08:28:26Z"
 ---
 ## What it is
 Git-backed message bus for AI coding agents — Claude Code, Cursor and Codex coordinate asynchronously, with no server

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T08:39:55Z"
+pushed_at: "2026-10-05T04:26:07Z"
 ---
 ## What it is
 Enables AI agents to operate an isolated local Chromium browser through MCP, with semantic snapshots, ref-based actions, search, research, crawling, and CDP access.

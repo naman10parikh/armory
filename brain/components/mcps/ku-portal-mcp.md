@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-08-12T05:04:00Z"
+pushed_at: "2026-10-03T11:48:13Z"
 ---
 ## What it is
 Enables Korea University students to query their KUPID portal and Canvas LMS using natural language for notices, library seats, timetable, grades, courses, and assignments.

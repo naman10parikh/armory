@@ -8,13 +8,13 @@ source_url: https://github.com/ashishpatill/tell-ai-ui-critic
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-15T12:54:52Z"
+pushed_at: "2026-10-05T17:17:54Z"
 ---
 ## What it is
 An MCP server that captures rendered UI, diagnoses design tells and consistency drift, and generates redesign diffs from natural language art direction, all within Cursor.

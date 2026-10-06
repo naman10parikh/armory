@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-16T21:09:09Z"
+pushed_at: "2026-09-30T23:26:59Z"
 ---
 ## What it is
 MCP server `Unified Gateway`, catalogued on PulseMCP. Self-hosted aggregation and routing layer that connects multiple MCP backends behind a single managed endpoint.

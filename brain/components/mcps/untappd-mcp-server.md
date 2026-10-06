@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T11:15:41Z"
+pushed_at: "2026-10-05T11:13:35Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that exposes the Untappd API as tools for AI agents. Enables searching venues, breweries, and beers, checking what's on tap via recent check-in feeds, and looking up user activity.

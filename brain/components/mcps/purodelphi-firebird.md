@@ -8,12 +8,12 @@ source_url: https://github.com/purodelphi/mcpfirebird
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 26
-pushed_at: "2026-09-29T13:37:04Z"
+pushed_at: "2026-10-02T13:50:35Z"
 ---
 ## What it is
 MCP server `Firebird SQL`, catalogued on PulseMCP. Enables secure access to Firebird SQL databases through natural language, supporting table listing, schema descriptions, query execution, and field metadata retrieval with comprehensive security features like data masking and operation restrictions.

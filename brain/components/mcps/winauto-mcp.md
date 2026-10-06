@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-27T09:19:08Z"
+pushed_at: "2026-10-05T15:57:17Z"
 ---
 ## What it is
 MCP server that lets an LLM see and drive any running Windows app: attach a window, screenshot it, read its UI Automation tree, and send clicks, typed text, and key presses with pixel coordinates.

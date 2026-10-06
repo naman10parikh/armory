@@ -8,13 +8,13 @@ source_url: https://github.com/qa10devteam/behive
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 145
+stars: 146
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 15
-pushed_at: "2026-08-13T14:16:35Z"
+pushed_at: "2026-10-05T11:09:53Z"
 ---
 ## What it is
 Open-source research engine that extracts structured knowledge from any topic via MCP, enabling AI assistants to get verified, scored claims and entity graphs from live sources.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T11:45:29Z"
+pushed_at: "2026-09-30T03:46:30Z"
 ---
 ## What it is
 Enables browsing and searching a self-hosted LEMON/CHARM car-repair manual archive, with tools to list makes, search vehicles, and fetch manual pages as markdown.

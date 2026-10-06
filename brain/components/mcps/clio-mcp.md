@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
-pushed_at: "2026-09-10T08:11:29Z"
+forks: 14
+pushed_at: "2026-10-01T17:07:01Z"
 ---
 ## What it is
 Connects Claude to Clio practice management, enabling AI-assisted access to matters, contacts, documents, tasks, and billing with audit logging and encryption for law firm compliance.

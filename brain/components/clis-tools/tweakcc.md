@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 2527
-forks: 206
-pushed_at: "2026-09-28T19:07:45Z"
+stars: 2533
+forks: 207
+pushed_at: "2026-10-05T19:32:19Z"
 ---
 ## What it is
 Command-line tool to customize your Claude Code styling.

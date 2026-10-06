@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T03:57:13Z"
+pushed_at: "2026-10-03T00:25:55Z"
 ---
 ## What it is
 MCP server that gives AI assistants access to FEGA & Schmitt Elektrogroßhandel price and availability data via a single tool, enabling natural language queries for up to 999 articles per request.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T11:39:22Z"
+pushed_at: "2026-10-01T00:22:21Z"
 ---
 ## What it is
 Enables users to create, inspect, list, and delete per-user JupyterLab servers on the UChicago ATLAS Analysis Facility Kubernetes cluster, with GPU availability and supported image listing tools.

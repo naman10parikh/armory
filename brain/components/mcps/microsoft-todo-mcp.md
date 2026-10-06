@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T12:06:36Z"
+pushed_at: "2026-10-04T08:44:29Z"
 ---
 ## What it is
 A remote MCP server for Microsoft To Do that enables read/write access to tasks, lists, and checklists from ChatGPT or Claude, with multi-account support and Azure deployment.

@@ -8,13 +8,13 @@ source_url: https://github.com/byenzyme/enzyme
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 85
+stars: 86
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-28T17:43:32Z"
+pushed_at: "2026-09-30T20:16:38Z"
 ---
 ## What it is
 Enables interaction with a knowledge base via Enzyme's concept graph, exposing init, petri, catalyze, and status tools for MCP-compatible clients. Supports in-client exploration and search of vaults using pre-computed catalysts.

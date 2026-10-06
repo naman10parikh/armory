@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-28T14:48:24Z"
+pushed_at: "2026-10-03T18:28:26Z"
 ---
 ## What it is
 Local-first FinOps MCP server. Ask about your AWS, Azure, GCP, and SaaS costs in plain English. Anomaly detection, rightsizing, idle-resource cleanup, and Jira/Linear ticketing. Credentials never leave your machine.

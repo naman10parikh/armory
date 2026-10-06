@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T03:10:49Z"
+pushed_at: "2026-10-05T03:39:15Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides intelligent, context-aware access to development standards, enabling LLMs to automatically select and apply appropriate standards based on project requirements.

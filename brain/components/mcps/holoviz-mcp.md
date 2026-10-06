@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 13
-pushed_at: "2026-09-01T05:05:45Z"
+pushed_at: "2026-10-01T05:05:25Z"
 ---
 ## What it is
 A comprehensive MCP server that provides intelligent access to the HoloViz ecosystem, enabling AI assistants to help you build interactive dashboards and data visualizations with Panel, hvPlot, Lumen, Datashader, and your favorite Python libraries.

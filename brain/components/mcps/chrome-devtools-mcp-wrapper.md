@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T08:27:08Z"
+pushed_at: "2026-10-04T21:48:10Z"
 ---
 ## What it is
 A multi-browser wrapper for chrome-devtools-mcp that lets AI agents connect to and switch between multiple Chrome instances at runtime, proxying all upstream DevTools tools with optional per-call browser routing.

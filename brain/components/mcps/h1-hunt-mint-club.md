@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-14T06:12:11Z"
+pushed_at: "2026-10-04T10:19:27Z"
 ---
 ## What it is
 MCP server `Mint Club V2`, catalogued on PulseMCP. Trade bonding curve tokens on Base via Mint Club V2 with buy, sell, swap, and create tools.

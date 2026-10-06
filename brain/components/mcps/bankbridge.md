@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T19:44:59Z"
+pushed_at: "2026-10-03T07:24:07Z"
 ---
 ## What it is
 Enables financial data access from connected bank accounts via MCP tools, allowing natural language queries about balances, transactions, subscriptions, investments, and more, with a focus on privacy and read-only access.

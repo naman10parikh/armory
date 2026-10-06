@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-29T06:23:40Z"
+pushed_at: "2026-09-04T12:36:29Z"
 ---
 ## What it is
 MCP server `Care Membrane`, catalogued on PulseMCP. Healthcare data filtering and privacy protection tools for medical AI workflows.

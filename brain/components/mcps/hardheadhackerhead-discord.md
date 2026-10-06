@@ -8,11 +8,11 @@ source_url: https://github.com/hardheadhackerhead/discord-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-03-21T05:07:20Z"
 ---
 ## What it is

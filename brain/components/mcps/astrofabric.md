@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-15T02:47:40Z"
+pushed_at: "2026-09-30T16:06:54Z"
 ---
 ## What it is
 AstroFabric is an agentic AI operating system for growth, revenue and digital operations. Specialist AI agents plan and execute complete missions through metered tools, with enforced budgets, approval-gated writes and full run transcripts. Work runs from the console, REST API, hosted MCP server, sch

@@ -8,13 +8,13 @@ source_url: https://github.com/sandraschi/comfyops-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T20:53:23Z"
+pushed_at: "2026-10-02T20:09:30Z"
 ---
 ## What it is
 Wraps ComfyUI to generate images, video, and upscales from text prompts via MCP tools, providing a curated workflow interface without the node editor.

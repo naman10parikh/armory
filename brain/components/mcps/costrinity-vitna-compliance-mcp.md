@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T02:35:00Z"
+pushed_at: "2026-10-05T20:12:33Z"
 ---
 ## What it is
 Pre-action compliance server that lets AI agents check whether an action is allowed, blocked, or flagged before executing, with signed evidence records for auditability.

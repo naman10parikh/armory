@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T03:08:29Z"
+pushed_at: "2026-10-05T16:00:29Z"
 ---
 ## What it is
 Governed, least-privilege Oracle Database access for AI agents via the Model Context Protocol, enabling schema introspection, DDL, ad-hoc queries, and plan analysis in pure Rust.

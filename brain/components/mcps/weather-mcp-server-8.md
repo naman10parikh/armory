@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-02-07T20:55:24Z"
+pushed_at: "2026-10-04T00:44:12Z"
 ---
 ## What it is
 Enables Claude to query real-time weather data for any specified location using the OpenWeatherMap API.

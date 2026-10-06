@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T09:41:27Z"
+pushed_at: "2026-10-04T21:51:33Z"
 ---
 ## What it is
 Enables AI assistants to query, validate, and create vCluster YAML configurations directly from GitHub, supporting version-specific queries and automatic validation.

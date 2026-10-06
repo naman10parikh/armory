@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 19
-pushed_at: "2026-09-15T14:28:48Z"
+pushed_at: "2026-10-05T10:10:34Z"
 ---
 ## What it is
 MCP server `Scrapbox`, catalogued on PulseMCP. Integrates with Scrapbox to enable reading and writing pages for knowledge management, collaborative note-taking, and chatbot applications.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-19T03:53:24Z"
+pushed_at: "2026-10-02T05:54:23Z"
 ---
 ## What it is
 Enables systematic investigation of VMware errors and events by correlating event timelines, ranking root-cause hypotheses, and suggesting next diagnostic steps.

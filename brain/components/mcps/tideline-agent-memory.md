@@ -8,13 +8,13 @@ source_url: https://github.com/ennisaaaaaaaa-stack/tideline-memory
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 36
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-09-24T16:54:58Z"
+pushed_at: "2026-10-06T08:20:55Z"
 ---
 ## What it is
 A long-term memory system built for AI Agents. Agent wakes up already knowing who he is, not querying "who am I?" every session. Every turn calling back accurate memory context. Achieving accurate memory hits while also preventing memory from expanding at scale. No compression, no forgetting.

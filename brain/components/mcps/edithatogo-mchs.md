@@ -8,12 +8,12 @@ source_url: https://github.com/edithatogo/mchs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-18T01:24:16Z"
+pushed_at: "2026-10-05T19:04:54Z"
 ---
 ## What it is
 MCP server `MCHS`, catalogued on PulseMCP. Australian healthcare funding calculator for NWAU microcosting and hospital service reimbursement.

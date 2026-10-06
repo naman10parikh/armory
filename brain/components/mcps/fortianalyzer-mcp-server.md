@@ -8,12 +8,12 @@ source_url: https://github.com/rstierli/fortianalyzer-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 7
 pushed_at: "2026-09-02T08:28:11Z"
 ---
 ## What it is

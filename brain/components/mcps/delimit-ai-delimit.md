@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 24
 forks: 5
-pushed_at: "2026-09-29T01:52:35Z"
+pushed_at: "2026-10-05T22:22:26Z"
 ---
 ## What it is
 API governance server that detects breaking changes in OpenAPI specs. Diffs two spec versions, applies configurable policy rules (strict/default/relaxed), and returns structured pass/fail verdicts. 23 change types, 10 breaking. Supports OpenAPI 3.0, 3.1, and Swagger 2.0.

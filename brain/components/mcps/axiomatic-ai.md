@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-09-29T00:58:44Z"
+pushed_at: "2026-10-05T19:17:58Z"
 ---
 ## What it is
 MCP server `Axiomatic AI`, catalogued on PulseMCP. Provides six specialized servers for scientific and engineering workflows including photonic circuit design with gdsfactory integration, document processing with advanced OCR, plot data extraction from images, equation composition and analysis, PDF annotation with contextual analysis, and model fitting with optimization capabilities.

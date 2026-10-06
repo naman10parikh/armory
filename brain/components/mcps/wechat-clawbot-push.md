@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T12:02:03Z"
+pushed_at: "2026-09-30T02:35:21Z"
 ---
 ## What it is
 MCP server for pushing scheduled or triggered messages to personal WeChat via ClawBot, using WorkBuddy connector and WeChat iLink API.

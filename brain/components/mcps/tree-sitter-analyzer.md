@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-09-28T00:07:51Z"
+pushed_at: "2026-10-05T00:08:22Z"
 ---
 ## What it is
 An MCP code-intelligence server for AI agents with pre-indexed AST cache, 62 MCP tools, and TOON-compressed output, enabling token-efficient code analysis and project health grading entirely locally.

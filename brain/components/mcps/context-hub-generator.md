@@ -8,7 +8,7 @@ source_url: https://github.com/context-hub/generator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 345
+stars: 344
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

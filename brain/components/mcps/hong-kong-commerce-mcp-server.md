@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2025-07-18T13:01:30Z"
+pushed_at: "2026-10-02T14:56:43Z"
 ---
 ## What it is
 Provides access to hotel room occupancy rate data in Hong Kong through a FastMCP interface.

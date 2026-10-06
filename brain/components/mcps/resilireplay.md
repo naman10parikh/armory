@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-04T01:16:47Z"
+pushed_at: "2026-10-01T06:38:28Z"
 ---
 ## What it is
 Local-first MCP and coding-agent reliability harness that captures bounded, sanitized failure evidence and generates deterministic executable regression tests. Capture is opt-in; no API key or hosted service is required.

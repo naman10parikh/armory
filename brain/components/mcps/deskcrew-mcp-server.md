@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-15T11:49:55Z"
+pushed_at: "2026-10-05T23:53:34Z"
 ---
 ## What it is
 Enables AI agents to perform helpdesk tasks over MCP, including ticket management, knowledge base search, and reply drafting, with optional pay-per-action USDC settlement and human approval workflows.
