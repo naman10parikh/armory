@@ -8,13 +8,13 @@ source_url: https://github.com/DavidFuchs/mcp-uptime-kuma
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 51
+stars: 54
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 22
-pushed_at: "2026-09-13T15:06:57Z"
+forks: 23
+pushed_at: "2026-10-06T19:03:21Z"
 ---
 ## What it is
 MCP server for Uptime Kuma that enables monitoring and management of uptime monitors, heartbeats, notifications, tags, and maintenance windows via natural language.

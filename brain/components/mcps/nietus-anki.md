@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-09-28T22:09:00Z"
+pushed_at: "2026-10-05T16:18:42Z"
 ---
 ## What it is
 MCP server `Anki`, catalogued on PulseMCP. Provides a bridge between the Anki flashcard application and external tools for creating, updating, and retrieving flashcards without manually navigating the Anki interface.

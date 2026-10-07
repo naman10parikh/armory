@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-14T16:37:28Z"
+pushed_at: "2026-10-03T05:19:00Z"
 ---
 ## What it is
 The Nomad Stays MCP Server provides access to a curated database of remote-work-friendly accommodations around the world. This API supports both the Model Context Protocol (MCP) for AI assistants and standard REST endpoints for direct integration.

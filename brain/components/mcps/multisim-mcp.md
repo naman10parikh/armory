@@ -8,13 +8,13 @@ source_url: https://github.com/yxy050208/multisim-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-28T03:59:26Z"
+pushed_at: "2026-10-03T04:12:25Z"
 ---
 ## What it is
 Enables AI agents to automatically generate Multisim circuits, run simulations, extract experimental data, and export circuit diagrams, CSV, waveforms, and lab reports.

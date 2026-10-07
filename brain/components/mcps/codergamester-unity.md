@@ -8,11 +8,11 @@ source_url: https://github.com/codergamester/mcp-unity
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1917
+stars: 1920
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 245
+forks: 246
 pushed_at: "2026-09-03T08:11:29Z"
 ---
 ## What it is

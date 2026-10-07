@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-12T17:22:35Z"
+pushed_at: "2026-10-07T06:48:43Z"
 ---
 ## What it is
 Enables AI agents to check brand mentions across AI search surfaces like ChatGPT, Claude, Gemini, Perplexity, and Google AI Overviews using natural language queries.

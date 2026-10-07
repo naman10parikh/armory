@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T06:22:54Z"
+pushed_at: "2026-10-07T14:16:10Z"
 ---
 ## What it is
 MCP servers for controlling SciREPL from coding agents and MCP clients, offering an app-connected broker and a Playwright driver for browser automation.

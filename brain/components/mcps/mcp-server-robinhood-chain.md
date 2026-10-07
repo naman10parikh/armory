@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T05:20:18Z"
+pushed_at: "2026-10-03T13:42:11Z"
 ---
 ## What it is
 An MCP server providing EVM-native on-chain trading intelligence for Robinhood Chain (chain id 4663), including real-time KOL trades, DEX trade tape, token discovery, and deployer reputation.

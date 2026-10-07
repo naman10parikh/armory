@@ -13,7 +13,7 @@ related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 5
 forks: 3
-pushed_at: "2026-09-26T17:38:05Z"
+pushed_at: "2026-10-06T22:31:09Z"
 ---
 ## What it is
 A lightweight, configuration-driven MCP server that exposes curated GraphQL queries as modular tools, enabling intentional API interactions from your agents.

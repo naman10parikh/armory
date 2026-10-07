@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-02-12T23:38:52Z"
+pushed_at: "2026-10-06T03:11:09Z"
 ---
 ## What it is
 MCP server `GitScrum`, catalogued on PulseMCP. Manage tasks, sprints, time tracking, and client workflows in GitScrum project management.

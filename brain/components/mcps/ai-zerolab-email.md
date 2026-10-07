@@ -8,12 +8,12 @@ source_url: https://github.com/ai-zerolab/mcp-email-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 343
+stars: 349
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 129
-pushed_at: "2026-09-29T13:04:37Z"
+forks: 131
+pushed_at: "2026-10-06T15:04:42Z"
 ---
 ## What it is
 MCP server `Email Server`, catalogued on PulseMCP. Integrates with email providers to enable sending and receiving emails, automating workflows and managing communications via IMAP and SMTP functionality.

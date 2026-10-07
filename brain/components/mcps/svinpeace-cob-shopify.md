@@ -12,8 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-09-08T01:46:54Z"
+forks: 5
+pushed_at: "2026-09-30T21:00:01Z"
 ---
 ## What it is
 MCP server `COB Shopify`, catalogued on PulseMCP. Comprehensive Shopify store management with 64 tools covering products, orders, customers, and inventory.

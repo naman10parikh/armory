@@ -8,12 +8,12 @@ source_url: https://github.com/hkopenai/hk-transportation-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2025-07-18T13:02:57Z"
+pushed_at: "2026-10-02T16:25:45Z"
 ---
 ## What it is
 MCP server `Hong Kong Immigration Department`, catalogued on PulseMCP. Provides access to Hong Kong Immigration Department daily passenger traffic statistics since 2021, breaking down visitor flows by type and control point with flexible date filtering.

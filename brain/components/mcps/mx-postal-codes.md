@@ -8,13 +8,13 @@ source_url: https://github.com/alonsomaciasm/codigos-postales-api
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T19:57:03Z"
+pushed_at: "2026-10-06T17:51:32Z"
 ---
 ## What it is
 Enables AI agents to query Mexican postal codes, validate addresses, and search settlements using natural language from the official SEPOMEX catalog.

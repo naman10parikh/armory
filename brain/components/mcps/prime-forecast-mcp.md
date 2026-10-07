@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T07:32:55Z"
+pushed_at: "2026-10-02T03:50:55Z"
 ---
 ## What it is
 Enables read-only access to sales forecasts, team forecasts, and company forecasts from Prime Forecast V3. It provides role-based permissions for Sales, Team Admin, and Admin users.

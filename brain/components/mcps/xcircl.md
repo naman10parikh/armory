@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T11:34:53Z"
+pushed_at: "2026-10-07T11:36:06Z"
 ---
 ## What it is
 Enables querying US regulated-care providers (GLP-1 clinics) with tools for searching, retrieving details, and checking compliance, using natural language or function calls.

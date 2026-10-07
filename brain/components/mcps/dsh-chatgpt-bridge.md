@@ -8,12 +8,12 @@ source_url: https://github.com/jiezeng2004-design/dsh-chatgpt-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-09-29T14:24:54Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-28T17:14:38Z"
+pushed_at: "2026-10-05T18:59:31Z"
 ---
 ## What it is
 A comprehensive Model Context Protocol server for the kie.ai generation API, providing access to 47+ image models, 86+ video models, and 20+ audio tools with deep model intelligence.

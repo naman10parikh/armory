@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T07:47:16Z"
+pushed_at: "2026-10-01T05:50:41Z"
 ---
 ## What it is
 An MCP server for Snowflake that enables table discovery, metadata inspection, and SQL query execution through natural language, supporting password, key-pair, and OAuth authentication.

@@ -8,12 +8,12 @@ source_url: https://github.com/hallboys/MCP4Acumatica
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
+forks: 17
 pushed_at: "2026-09-29T23:08:04Z"
 ---
 ## What it is

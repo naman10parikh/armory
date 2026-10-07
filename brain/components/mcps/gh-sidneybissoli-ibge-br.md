@@ -8,12 +8,12 @@ source_url: https://github.com/sidneybissoli/ibge-br-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-29T12:37:41Z"
+pushed_at: "2026-10-07T13:10:38Z"
 ---
 ## What it is
 MCP server `IBGE Brazil`, catalogued on PulseMCP. Brazilian IBGE statistical data — locations, census, demographics, and geographic boundaries.

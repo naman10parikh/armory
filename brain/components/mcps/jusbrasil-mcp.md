@@ -8,11 +8,13 @@ source_url: https://github.com/fxbarros/mcp-jusbrasil
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T21:47:14Z"
 ---
 ## What it is
 Search Brazilian jurisprudence on JusBrasil in natural language and retrieve formatted citations for legal documents, including metadata extraction from court decisions.

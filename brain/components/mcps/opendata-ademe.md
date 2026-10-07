@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 0
-pushed_at: "2026-09-24T07:55:04Z"
+pushed_at: "2026-10-07T13:26:08Z"
 ---
 ## What it is
 Access to ADEME datasets (French ecological transition agency) - data on energy, environment, waste, transport, housing

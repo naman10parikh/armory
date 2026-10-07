@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-26T21:52:18Z"
+pushed_at: "2026-10-03T03:20:48Z"
 ---
 ## What it is
 Local-first, read-only MCP server for searching and retrieving cited evidence from archived Telegram chats, including transcripts and media metadata.

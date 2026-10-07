@@ -8,13 +8,13 @@ source_url: https://github.com/telleroutlook/agentkit-js
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-17T15:48:26Z"
+pushed_at: "2026-10-05T01:31:08Z"
 ---
 ## What it is
 Code-mode MCP server (docs_search + execute_code two-tool surface) backed by a unified capability manifest across three sandbox kernels (in-process node:vm, WASM via QuickJS / Pyodide / Wasmtime, and remote microVM via E2B / Cloudflare Sandbox). At N=30 tools the bootstrap-context cost drops to 13.6

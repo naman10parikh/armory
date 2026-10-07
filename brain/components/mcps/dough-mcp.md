@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T12:34:05Z"
+pushed_at: "2026-10-03T09:05:24Z"
 ---
 ## What it is
 A read-only MCP server for the Dough personal finance app, enabling assistants to query financial data like balances, transactions, and budgets through natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-15T06:05:54Z"
+pushed_at: "2026-10-07T04:10:19Z"
 ---
 ## What it is
 Enables AI assistants to search, query, and manage ocean/environmental datasets from the Oceanum platform, and to read, write, and delete files in Oceanum cloud storage.

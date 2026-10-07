@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T21:04:50Z"
+pushed_at: "2026-10-01T15:22:21Z"
 ---
 ## What it is
 A local email server for AI assistants that enables sending transactional and marketing emails with template management, recipient groups, and automatic consent flow handling.

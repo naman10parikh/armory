@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T16:10:48Z"
+pushed_at: "2026-10-04T00:37:10Z"
 ---
 ## What it is
 Enables safe querying and optional writing to MySQL databases via MCP tools, with support for schema inspection, connection management, and read-only mode.

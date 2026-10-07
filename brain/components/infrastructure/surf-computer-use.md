@@ -8,12 +8,12 @@ source_url: https://github.com/e2b-dev/surf
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 869
+stars: 872
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, e2b]
-forks: 145
+forks: 146
 pushed_at: "2026-09-09T12:36:52Z"
 ---
 ## What it is

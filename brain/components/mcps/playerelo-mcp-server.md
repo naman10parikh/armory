@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T18:29:30Z"
+pushed_at: "2026-10-05T08:48:21Z"
 ---
 ## What it is
 Provides MCP access to PlayerElo's football analytics, including player/coach Elo ratings, match predictions, value bets, and transfer fit scores.

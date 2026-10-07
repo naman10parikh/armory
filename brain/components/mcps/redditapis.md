@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T06:43:31Z"
+pushed_at: "2026-10-03T04:39:56Z"
 ---
 ## What it is
 Reddit API as native MCP tools for Claude, Cursor, and any MCP client. 22 reads-only tools over redditapis.com: search with advanced filters (score, comments, media, sort), subreddit listings and about, posts, comments, user profiles and history, community discovery, moderators, wiki, and deep comme

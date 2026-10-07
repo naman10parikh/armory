@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, os-automation]
 stars: 14
-forks: 3
+forks: 4
 pushed_at: "2026-04-15T08:32:32Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, aggregators]
 stars: 23
 forks: 3
-pushed_at: "2026-09-05T16:10:24Z"
+pushed_at: "2026-09-30T17:12:10Z"
 ---
 ## What it is
 Local-first knowledge graph for developers. Watches project files, extracts entities and relationships via LLMs, builds a queryable knowledge graph with web dashboard and CLI. Provides 4 MCP tools: get_status, list_projects, find_entity, query_cortex.

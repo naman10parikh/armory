@@ -8,11 +8,11 @@ source_url: https://github.com/omega-memory/omega-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 218
+stars: 219
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 31
+forks: 32
 pushed_at: "2026-09-30T00:44:46Z"
 ---
 ## What it is

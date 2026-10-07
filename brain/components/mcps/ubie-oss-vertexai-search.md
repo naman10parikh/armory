@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-09-01T00:06:29Z"
+pushed_at: "2026-10-01T00:06:43Z"
 ---
 ## What it is
 MCP server `Vertex AI Search`, catalogued on PulseMCP. Integrates with Google's Vertex AI and Discovery Engine APIs to enable advanced search and retrieval operations on large datasets, supporting semantic search and natural language understanding.

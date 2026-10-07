@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T12:37:56Z"
+pushed_at: "2026-10-07T05:04:31Z"
 ---
 ## What it is
 MCP server for rftools.io — 213 RF & electronics calculators + 13 server-side simulation tools for AI agents. Give Claude, Cursor, or any MCP-compatible AI assistant access to validated engineering calculators and heavy server-side simulations. Microstrip impedance, link budgets, filter design, conv

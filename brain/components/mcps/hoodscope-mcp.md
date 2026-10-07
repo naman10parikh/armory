@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T21:48:24Z"
+pushed_at: "2026-10-05T16:56:55Z"
 ---
 ## What it is
 MCP server that gives deployer reputation, insider detection, and token buy-risk verdicts for Robinhood Chain memecoins, with paid tools settling via x402.

@@ -8,13 +8,13 @@ source_url: https://github.com/UKGovernmentBEIS/inspect_ai
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 2895
+stars: 2951
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, safety, aisi, government]
-forks: 761
-pushed_at: "2026-09-30T08:31:46Z"
+forks: 786
+pushed_at: "2026-10-07T14:12:05Z"
 ---
 ## What it is
 UK AISI's framework for safety evaluations of large language models, with task-based scaffolding and solver pipelines.

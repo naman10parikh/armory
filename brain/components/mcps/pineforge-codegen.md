@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-30T06:16:24Z"
+pushed_at: "2026-10-06T04:59:27Z"
 ---
 ## What it is
 Backtest PineScript v6 strategies locally from your AI agent: transpiles Pine to C++ and runs it on the deterministic, TradingView-validated PineForge engine via Docker. Tools for single backtests, parameter-grid sweeps, and Binance OHLCV fetch — no API key, data never leaves your machine.

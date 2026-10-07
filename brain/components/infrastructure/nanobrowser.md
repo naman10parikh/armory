@@ -8,13 +8,13 @@ source_url: https://github.com/nanobrowser/nanobrowser
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 13848
+stars: 13991
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, multi-agent]
-forks: 1467
-pushed_at: "2026-08-18T00:42:48Z"
+forks: 1481
+pushed_at: "2026-10-02T14:46:19Z"
 ---
 ## What it is
 Open-source Chrome extension that runs a multi-agent browser automation system locally. Planner, Navigator, and Validator agents collaborate inside the browser with no external API calls for web tasks.

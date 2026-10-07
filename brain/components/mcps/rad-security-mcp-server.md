@@ -13,7 +13,7 @@ related: []
 tags: [mcp, security]
 stars: 6
 forks: 5
-pushed_at: "2026-09-30T12:44:00Z"
+pushed_at: "2026-09-30T13:39:00Z"
 ---
 ## What it is
 MCP server for RAD Security, providing AI-powered security insights for Kubernetes and cloud environments. This server provides tools for querying the Rad Security API and retrieving security findings, reports, runtime data and many more.

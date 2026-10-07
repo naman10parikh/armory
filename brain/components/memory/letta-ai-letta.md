@@ -8,13 +8,13 @@ source_url: https://github.com/letta-ai/letta
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 24981
+stars: 25066
 eval_score: null
 mentions: 19
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, memory]
-forks: 2637
+forks: 2644
 pushed_at: "2026-09-10T17:59:08Z"
 ---
 ## What it is

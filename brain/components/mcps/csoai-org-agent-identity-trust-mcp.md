@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-26T05:49:21Z"
+pushed_at: "2026-09-04T12:35:17Z"
 ---
 ## What it is
 MCP server `Agent Identity Trust`, catalogued on PulseMCP. Trust verification and identity management tools for multi-agent systems.

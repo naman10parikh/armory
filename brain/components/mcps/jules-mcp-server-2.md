@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T12:26:15Z"
+pushed_at: "2026-10-06T00:03:25Z"
 ---
 ## What it is
 Enables LLMs to create and manage Google Jules coding sessions programmatically.

@@ -8,13 +8,13 @@ source_url: https://github.com/chexma/vibeMK
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
-pushed_at: "2025-08-29T04:48:16Z"
+forks: 12
+pushed_at: "2026-10-03T00:20:40Z"
 ---
 ## What it is
 Enables complete management of CheckMK monitoring environments through natural language, including live monitoring, downtime scheduling, problem management, and configuration.

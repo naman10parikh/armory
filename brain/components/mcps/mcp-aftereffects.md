@@ -8,12 +8,12 @@ source_url: https://github.com/kumoproductions/mcp-aftereffects
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 78
+stars: 98
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-09-29T10:59:07Z"
 ---
 ## What it is

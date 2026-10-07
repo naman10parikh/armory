@@ -8,12 +8,12 @@ source_url: https://github.com/199-mcp/mcp-kling
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 20
+forks: 21
 pushed_at: "2025-06-14T20:23:56Z"
 ---
 ## What it is

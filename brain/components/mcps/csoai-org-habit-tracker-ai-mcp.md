@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-29T20:24:03Z"
+pushed_at: "2026-09-04T12:39:33Z"
 ---
 ## What it is
 MCP server `Habit Tracker AI`, catalogued on PulseMCP. Tools for tracking personal habits, building routines, and monitoring progress.

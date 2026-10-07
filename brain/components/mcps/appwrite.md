@@ -8,12 +8,12 @@ source_url: https://github.com/appwrite/mcp-for-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 19
-pushed_at: "2026-09-30T00:33:46Z"
+pushed_at: "2026-10-07T00:33:48Z"
 ---
 ## What it is
 MCP server `Appwrite`, catalogued on PulseMCP. Backend-as-a-service platform integration for database, user, storage, and function management

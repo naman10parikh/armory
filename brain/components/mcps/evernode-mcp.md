@@ -8,13 +8,13 @@ source_url: https://github.com/Hugegreencandle/evernode-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T08:57:47Z"
+pushed_at: "2026-10-01T01:32:38Z"
 ---
 ## What it is
 Enables AI agents to build, check, cost, and deploy HotPocket dApps on Evernode/Xahau by scaffolding deterministic contracts, checking determinism, estimating lease costs, ranking hosts, and generating deploy commands.

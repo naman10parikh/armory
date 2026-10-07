@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T22:25:01Z"
+pushed_at: "2026-10-07T12:40:42Z"
 ---
 ## What it is
 MCP server for managing project memory in AGENTS.md. Allows agents to record and remove durable facts using save/forget tools.

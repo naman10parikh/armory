@@ -12,8 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
 stars: 143
-forks: 127
-pushed_at: "2026-09-30T07:51:13Z"
+forks: 128
+pushed_at: "2026-10-07T11:48:15Z"
 ---
 ## What it is
 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails middleware, and context summarization.

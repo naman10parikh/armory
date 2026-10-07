@@ -8,13 +8,13 @@ source_url: https://github.com/ehs208/TimeTree-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-09-07T09:14:50Z"
+forks: 5
+pushed_at: "2026-10-07T11:24:28Z"
 ---
 ## What it is
 Unofficial MCP server for accessing and managing TimeTree calendar data, including events, memos, and comments, with secure email/password authentication.

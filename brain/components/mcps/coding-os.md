@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-30T04:56:43Z"
+pushed_at: "2026-10-05T05:00:20Z"
 ---
 ## What it is
 MCP server for coding-os, a cognitive operating system that gives AI agents memory, structure, and discipline. It exposes tools for project management, task tracking, knowledge graphs, and cognition traces to Claude Code and Codex.

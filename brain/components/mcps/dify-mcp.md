@@ -8,13 +8,13 @@ source_url: https://github.com/alexjiaguo/dify-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-09-27T08:52:46Z"
+pushed_at: "2026-10-05T22:52:17Z"
 ---
 ## What it is
 A comprehensive MCP server and CLI that exposes the entire Dify console API as 138 tools, enabling AI agents to programmatically build, test, and publish Dify workflows and manage all aspects of the Dify platform.

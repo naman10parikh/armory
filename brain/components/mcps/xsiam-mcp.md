@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T18:02:14Z"
+pushed_at: "2026-10-01T08:48:49Z"
 ---
 ## What it is
 Exposes the entire Palo Alto Cortex XSIAM REST API (129 operations across 26 categories) as MCP tools, plus composite tools like xql_query for AI agents to search and investigate security data.

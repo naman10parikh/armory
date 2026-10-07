@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T12:55:08Z"
+pushed_at: "2026-10-04T16:47:20Z"
 ---
 ## What it is
 Hand a human a rich interactive UI by URL from any MCP client and get structured data back: forms, approvals, surveys, pickers, editable lists. Round-trip human-in-the-loop for agents.

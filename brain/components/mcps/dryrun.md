@@ -8,13 +8,13 @@ source_url: https://github.com/boringSQL/dryrun
 license: BSD 2-Clause "Simplified" License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 36
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-30T07:40:10Z"
+pushed_at: "2026-10-06T05:35:47Z"
 ---
 ## What it is
 Gives AI coding assistants, IDEs, and CI full PostgreSQL schema intelligence from an offline snapshot, enabling linting, query validation, migration safety analysis, and foreign key graph exploration without ever exposing database credentials.

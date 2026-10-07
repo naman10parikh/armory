@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-28T15:45:33Z"
+pushed_at: "2026-10-01T18:05:22Z"
 ---
 ## What it is
 Provides 1C configuration metadata, platform syntax, and query language reference for BSL coding agents. Resolves natural language terms to exact object names, returning structures, relationships, and version-aware method details.

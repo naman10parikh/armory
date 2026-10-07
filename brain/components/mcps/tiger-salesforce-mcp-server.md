@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-02T21:52:52Z"
+pushed_at: "2026-10-01T17:29:48Z"
 ---
 ## What it is
 Enables semantic search of Salesforce case summaries using embeddings, accessible via MCP tools and REST API.

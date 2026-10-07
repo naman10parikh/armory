@@ -8,7 +8,7 @@ source_url: https://github.com/kapeli/dash-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 182
+stars: 185
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

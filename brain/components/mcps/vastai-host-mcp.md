@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-04-06T02:12:08Z"
+pushed_at: "2026-10-06T14:45:28Z"
 ---
 ## What it is
 Enables Vast.ai providers to manage hosted machines, update pricing, run self-tests, and automate host operations through natural language.

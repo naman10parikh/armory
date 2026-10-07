@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-24T07:43:40Z"
+pushed_at: "2026-10-01T05:02:10Z"
 ---
 ## What it is
 Enables scanning of Claude Code skills, plugins, or MCP servers for malware before installation via static analysis.

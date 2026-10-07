@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T19:11:05Z"
+pushed_at: "2026-10-04T17:05:59Z"
 ---
 ## What it is
 Enables AI assistants to have persistent, self-hosted memory across sessions and devices, storing context in a SQLite database you control.

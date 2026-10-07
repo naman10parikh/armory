@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T12:53:35Z"
+pushed_at: "2026-10-03T06:11:27Z"
 ---
 ## What it is
 MCP server for VoxFactura enabling AI assistants to query business data (invoices, expenses, project margins, clients, VAT) and create draft quotes or mark invoices paid via a scoped API, with no direct client sends.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T21:35:26Z"
+pushed_at: "2026-10-04T21:36:17Z"
 ---
 ## What it is
 CLI and MCP server for administering Microsoft Fabric Data Warehouses and SQL Analytics Endpoints.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T12:22:28Z"
+pushed_at: "2026-10-07T04:01:45Z"
 ---
 ## What it is
 Enables orchestrating Jira-driven software workflows by watching tickets, running herdr agents on active issues, and pushing updates to those agents over MCP.

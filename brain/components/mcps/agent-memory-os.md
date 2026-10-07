@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-22T08:50:10Z"
+pushed_at: "2026-10-01T16:33:33Z"
 ---
 ## What it is
 Local-first memory engine for AI-agent teams: private/team/project ACL, associative recall, and federated sync across nodes. One SQLite file, no LLM required.

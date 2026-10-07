@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T06:53:46Z"
+pushed_at: "2026-10-01T17:21:19Z"
 ---
 ## What it is
 Enables an AI agent to create a building from a photo, generate a facade design, and order a line-by-line cost estimate and documentation album, using country-specific materials and construction norms.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T23:06:53Z"
+pushed_at: "2026-10-06T00:51:52Z"
 ---
 ## What it is
 Enables AI agents to intelligently match tasks to skills through semantic embeddings, track skill effectiveness, detect skill gaps, and discover new skills from external sources.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-06-04T18:55:33Z"
+pushed_at: "2026-10-04T06:30:55Z"
 ---
 ## What it is
 MCP server `Coupler.io Analytics`, catalogued on PulseMCP. Integrates with Coupler.io data flows to provide direct access to analytics from hundreds of connected data sources through tools for discovering flows, retrieving metadata, examining schemas, and executing SQL queries.

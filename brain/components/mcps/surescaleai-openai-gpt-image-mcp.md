@@ -11,8 +11,8 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 113
-forks: 5
+stars: 115
+forks: 7
 pushed_at: "2025-05-31T21:07:31Z"
 ---
 ## What it is

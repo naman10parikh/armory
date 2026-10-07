@@ -8,7 +8,7 @@ source_url: https://github.com/regenrek/deepwiki-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1386
+stars: 1387
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

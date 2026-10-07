@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T20:23:00Z"
+pushed_at: "2026-10-06T01:33:39Z"
 ---
 ## What it is
 Persistent memory for AI coding agents, storing learned architecture decisions, patterns, and bug fixes in a local SQLite database with full-text search, enabling agents to recall information across sessions.

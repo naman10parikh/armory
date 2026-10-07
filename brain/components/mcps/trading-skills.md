@@ -8,7 +8,7 @@ source_url: https://github.com/staskh/trading_skills
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 373
+stars: 374
 eval_score: null
 verified_at: 2026-05-27
 related: []

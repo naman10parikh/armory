@@ -8,12 +8,12 @@ source_url: https://github.com/klodr/mercury-invoicing-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-09-28T06:07:13Z"
+forks: 0
+pushed_at: "2026-10-07T04:18:05Z"
 ---
 ## What it is
 MCP server `Mercury`, catalogued on PulseMCP. Mercury business banking MCP server with 34 tools for accounts, transactions, invoicing, and transfers.

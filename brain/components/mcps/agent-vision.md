@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T10:42:25Z"
+pushed_at: "2026-10-04T13:02:25Z"
 ---
 ## What it is
 A lightweight MCP server that enables text agents to analyze images and videos using OpenAI-compatible vision models, with tools for image analysis and video frame extraction.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-09-30T11:24:35Z"
+pushed_at: "2026-10-07T11:24:43Z"
 ---
 ## What it is
 MCP server `Agoragentic`, catalogued on PulseMCP. Agent-to-agent marketplace for browsing, invoking, and paying for AI services in USDC on Base.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T13:29:07Z"
+pushed_at: "2026-10-07T14:10:31Z"
 ---
 ## What it is
 Wraps Oh My Pi built-in tools (read, write, edit, bash, grep, etc.) as MCP tools, enabling file operations, shell commands, web search, and agent coordination.

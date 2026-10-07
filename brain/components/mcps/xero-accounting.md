@@ -8,11 +8,11 @@ source_url: https://github.com/xeroapi/xero-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 370
+stars: 372
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 198
+forks: 202
 pushed_at: "2026-06-05T06:52:56Z"
 ---
 ## What it is

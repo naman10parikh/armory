@@ -8,13 +8,13 @@ source_url: https://github.com/Avierovich/openpitch
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T11:51:57Z"
+pushed_at: "2026-10-07T12:31:30Z"
 ---
 ## What it is
 Enables natural-language queries about AI startup metrics like ARR and funding, with sourced, confidence-scored answers and contradiction detection.

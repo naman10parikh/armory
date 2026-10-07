@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-28T17:14:29Z"
+pushed_at: "2026-10-05T17:39:49Z"
 ---
 ## What it is
 Comprehensive Model Context Protocol server for advanced graph analysis using NetworkX, enabling graph creation, manipulation, and algorithm execution through natural language.

@@ -8,13 +8,13 @@ source_url: https://github.com/awkoy/notion-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 172
+stars: 173
 verified_at: 2026-05-26
 related: []
 tags: [knowledge, mcp]
 mentions: null
 forks: 38
-pushed_at: "2026-09-23T00:23:58Z"
+pushed_at: "2026-10-07T00:24:25Z"
 ---
 
 ## What it is

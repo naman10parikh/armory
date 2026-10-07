@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-27T15:22:28Z"
+pushed_at: "2026-10-01T19:13:13Z"
 ---
 ## What it is
 MCP server `AI Hub`, catalogued on PulseMCP. Provides unified access to 100+ AI providers through LiteLLM integration, enabling seamless switching between OpenAI, Anthropic, Google, Azure, AWS Bedrock, and other services through YAML-based configuration with tools for chatting, listing models, and retrieving model information.

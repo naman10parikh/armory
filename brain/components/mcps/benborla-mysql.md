@@ -8,11 +8,11 @@ source_url: https://github.com/benborla/mcp-server-mysql
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2139
+stars: 2145
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 253
+forks: 254
 pushed_at: "2026-07-27T13:36:52Z"
 ---
 ## What it is

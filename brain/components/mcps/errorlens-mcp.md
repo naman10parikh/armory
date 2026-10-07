@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-11T03:09:49Z"
+pushed_at: "2026-10-04T02:24:31Z"
 ---
 ## What it is
 Provides structured error classification and recovery guidance for MCP agents, turning opaque failures into actionable retry and state information.

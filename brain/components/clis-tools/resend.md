@@ -7,14 +7,14 @@ source_url: https://github.com/resend/resend-node
 license: unknown
 cli_compat: []
 maturity: stable
-stars: 963
+stars: 965
 eval_score: 1
 mentions: null
 verified_at: 
 related: []
 tags: [comms]
-forks: 90
-pushed_at: "2026-09-29T19:24:45Z"
+forks: 92
+pushed_at: "2026-10-07T14:14:36Z"
 ---
 
 # resend

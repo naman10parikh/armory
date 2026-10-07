@@ -8,12 +8,12 @@ source_url: https://github.com/jagoff/memo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-09-30T01:47:57Z"
+pushed_at: "2026-10-07T01:59:34Z"
 ---
 ## What it is
 MCP server `Memo`, catalogued on PulseMCP. Persistent local semantic memory for AI agents using MLX on Apple Silicon, with Obsidian-compatible markdown storage.

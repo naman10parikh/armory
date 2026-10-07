@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T15:18:43Z"
+pushed_at: "2026-09-30T14:39:17Z"
 ---
 ## What it is
 Scans suspicious messages, URLs, and text for scams inside any MCP-compatible AI assistant. No signup or API key needed for anonymous use.

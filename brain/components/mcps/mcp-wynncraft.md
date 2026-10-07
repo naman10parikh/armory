@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T22:26:31Z"
+pushed_at: "2026-10-06T22:59:46Z"
 ---
 ## What it is
 Enables querying Wynncraft MMORPG data including player stats, guilds, leaderboards, and item database lookups.

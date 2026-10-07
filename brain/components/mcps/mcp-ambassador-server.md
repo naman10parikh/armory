@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T16:22:27Z"
+pushed_at: "2026-10-05T09:16:25Z"
 ---
 ## What it is
 Centralized authentication, authorization, and audit for MCP tools. One server governs every downstream MCP your organization uses.

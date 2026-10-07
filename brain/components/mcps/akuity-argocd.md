@@ -8,11 +8,11 @@ source_url: https://github.com/argoproj-labs/mcp-for-argocd
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 577
+stars: 581
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 106
+forks: 108
 pushed_at: "2026-08-11T15:32:49Z"
 ---
 ## What it is

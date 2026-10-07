@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-15T07:11:49Z"
+pushed_at: "2026-10-05T07:04:09Z"
 ---
 ## What it is
 A proxy MCP server that wraps MCP-for-Unity, correcting transport inaccuracies and restricting tool usage for reliable Unity integration.

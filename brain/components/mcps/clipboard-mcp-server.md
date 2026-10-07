@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-24T23:54:00Z"
+forks: 1
+pushed_at: "2026-10-07T13:11:18Z"
 ---
 ## What it is
 Read, write, and inspect the system clipboard across macOS, Linux (X11/Wayland), and Windows via MCP.

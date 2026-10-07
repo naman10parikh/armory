@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T05:33:42Z"
+pushed_at: "2026-10-04T05:33:41Z"
 ---
 ## What it is
 Enables sending physical letters (including registered mail) from PDFs via the Pingen API, with tools to manage drafts, submit, track, and cancel letters.

@@ -8,13 +8,13 @@ source_url: https://github.com/trsdn/mcp-server-ppt
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 38
+stars: 40
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-13T17:53:25Z"
+pushed_at: "2026-10-03T07:04:06Z"
 ---
 ## What it is
 Enables AI assistants to automate Microsoft PowerPoint through natural language, supporting slide creation, text formatting, charts, animations, and export via the COM API.

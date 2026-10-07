@@ -8,11 +8,11 @@ source_url: https://github.com/yunfeizhu/mcp-mail-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 28
 pushed_at: "2026-09-27T11:30:53Z"
 ---
 ## What it is

@@ -8,11 +8,11 @@ source_url: https://github.com/haris-musa/excel-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4207
+stars: 4212
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 471
+forks: 470
 pushed_at: "2026-09-28T16:09:47Z"
 ---
 ## What it is

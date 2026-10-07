@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-16T16:09:24Z"
+pushed_at: "2026-10-05T00:43:34Z"
 ---
 ## What it is
 A read-only Chinese legal evidence MCP server that provides deterministic retrieval of authentic legal sources with chain-of-custody receipts, designed for Codex, Claude Code, and OpenCode.

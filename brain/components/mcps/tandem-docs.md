@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-09-30T13:22:32Z"
+pushed_at: "2026-10-06T06:26:14Z"
 ---
 ## What it is
 MCP server `Tandem`, catalogued on PulseMCP. Documentation and setup guides for Tandem's AI agent platform, SDKs, and workflows.

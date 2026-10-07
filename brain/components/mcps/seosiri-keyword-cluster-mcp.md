@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T02:10:10Z"
+pushed_at: "2026-10-02T03:44:34Z"
 ---
 ## What it is
 Enables semantic keyword clustering, search intent classification, cannibalization detection, and topical authority mapping for SEO workflows.

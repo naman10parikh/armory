@@ -8,11 +8,11 @@ source_url: https://github.com/zilliztech/claude-context
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12578
+stars: 12589
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 937
+forks: 942
 pushed_at: "2026-07-14T12:00:38Z"
 ---
 ## What it is

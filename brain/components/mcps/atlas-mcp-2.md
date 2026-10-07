@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-29T21:05:08Z"
+pushed_at: "2026-10-01T19:45:04Z"
 ---
 ## What it is
 Safe, reliable, and verifiable execution for the Model Context Protocol, enabling governed tasks with planning, capability approval, side-effect verification, and evidence receipts.

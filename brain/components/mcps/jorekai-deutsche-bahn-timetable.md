@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-09-28T23:05:37Z"
+pushed_at: "2026-10-06T00:43:54Z"
 ---
 ## What it is
 MCP server `Deutsche Bahn Timetable`, catalogued on PulseMCP. Connects to Deutsche Bahn timetable API for retrieving real-time railway information, planned schedules, recent changes, and station searches across Germany's rail network.

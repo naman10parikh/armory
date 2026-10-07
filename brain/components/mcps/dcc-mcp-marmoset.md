@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T18:57:59Z"
+pushed_at: "2026-10-06T09:49:21Z"
 ---
 ## What it is
 Typed DCC-MCP control for Marmoset Toolbag 4.03+ and 5.x, enabling shell-capable agents to interact with Toolbag scenes via a shared CLI and MCP gateway.

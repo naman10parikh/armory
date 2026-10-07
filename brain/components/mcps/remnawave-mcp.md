@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T08:49:07Z"
+pushed_at: "2026-10-04T05:23:05Z"
 ---
 ## What it is
 Enables MCP clients to manage a Remnawave panel through its full API, covering users, nodes, hosts, subscriptions, and more with configurable tool profiles and read/write token access.

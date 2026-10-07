@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-29T02:58:43Z"
+pushed_at: "2026-10-04T03:06:01Z"
 ---
 ## What it is
 MCP server `Obsidian Tasks`, catalogued on PulseMCP. Parses Obsidian task data directly from markdown files with support for status filters, due date comparisons, tag inclusion and exclusion, path filtering, and description matching.

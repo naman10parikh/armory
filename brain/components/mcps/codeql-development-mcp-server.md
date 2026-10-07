@@ -8,13 +8,13 @@ source_url: https://github.com/advanced-security/codeql-development-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 37
+stars: 38
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-29T18:58:14Z"
+pushed_at: "2026-10-07T13:54:19Z"
 ---
 ## What it is
 Enables AI-assisted development of CodeQL queries for security analysis through the Model Context Protocol. Provides tools for compiling, testing, and executing CodeQL queries across multiple programming languages.

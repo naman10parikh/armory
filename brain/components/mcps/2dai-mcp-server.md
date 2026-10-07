@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T16:35:04Z"
+pushed_at: "2026-10-06T22:15:03Z"
 ---
 ## What it is
 MCP server for 2DAI that enables AI assistants to generate images and videos, upload references, browse the public feed, and manage cloud drive on a 2DAI account.

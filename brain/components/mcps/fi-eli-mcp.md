@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T13:28:07Z"
+pushed_at: "2026-10-07T06:44:54Z"
 ---
 ## What it is
 Enables accessing Finnish legislation from the Finlex open-data API, listing statutes by year and retrieving their full texts with ELI identifiers and Finnish citations.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T15:57:03Z"
+pushed_at: "2026-10-07T03:57:28Z"
 ---
 ## What it is
 Signs up to SaaS platforms and vaults the credential so you can focus on coding

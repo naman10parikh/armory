@@ -8,11 +8,11 @@ source_url: https://github.com/alash3al/stash
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 768
+stars: 770
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 48
+forks: 47
 pushed_at: "2026-06-14T20:57:09Z"
 ---
 ## What it is

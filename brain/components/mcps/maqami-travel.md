@@ -8,13 +8,13 @@ source_url: https://github.com/negm17111995/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T21:13:38Z"
+pushed_at: "2026-10-07T14:01:46Z"
 ---
 ## What it is
 Book hotels worldwide — search, price, prebook & book across 249 countries. 65 tools for hotel search, flights, loyalty, analytics. Zero API keys needed. at best prices for hotels 3 M+ property

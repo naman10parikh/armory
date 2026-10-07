@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-17T07:10:07Z"
+pushed_at: "2026-10-02T21:56:49Z"
 ---
 ## What it is
 An MCP server enabling AI assistants to manage Gmail through natural language, including sending, reading, searching, labeling, and handling attachments with auto authentication.

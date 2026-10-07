@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T07:00:43Z"
+pushed_at: "2026-10-05T03:47:46Z"
 ---
 ## What it is
 An MCP server for agentic commerce, enabling AI agents to discover services, make x402 payments with USDC across multiple chains, and manage crypto wallets and token swaps.

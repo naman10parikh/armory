@@ -8,12 +8,12 @@ source_url: https://github.com/ignfab/geocontext
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-09-30T13:19:44Z"
+forks: 7
+pushed_at: "2026-10-07T09:07:47Z"
 ---
 ## What it is
 MCP server `Géoportail`, catalogued on PulseMCP. Integrates with French Géoportail services to provide geocoding, altitude lookup, administrative boundaries, cadastral data, and urban planning information for spatial analysis and geographic context within France.

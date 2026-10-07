@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T12:44:42Z"
+pushed_at: "2026-10-01T15:42:22Z"
 ---
 ## What it is
 Knownbase gives AI agents durable, structured project memory that persists across sessions, tools, and workflows. Through MCP, agents can store and retrieve Markdown-based knowledge such as architecture decisions, debugging discoveries, implementation details, handoffs, project facts, and ongoing wo

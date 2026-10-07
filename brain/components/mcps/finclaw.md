@@ -8,12 +8,12 @@ source_url: https://github.com/IlyasFardaouix/finclaw
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
+forks: 15
 pushed_at: "2026-03-17T08:11:28Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T12:18:58Z"
+pushed_at: "2026-10-06T19:24:47Z"
 ---
 ## What it is
 Search a YouTube video's transcript and get back only the moments that answer the question, each with a clickable timestamp deep link. Also reads the video's frames — slides, charts, demos and on-screen text — and verifies every citation against recorded evidence before returning it

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T15:38:07Z"
+pushed_at: "2026-10-04T18:44:59Z"
 ---
 ## What it is
 MCP server that exposes US public safety facility data (police, fire, EMS, hospitals) as tools for AI assistants, enabling lookups by address, coordinates, or filters.

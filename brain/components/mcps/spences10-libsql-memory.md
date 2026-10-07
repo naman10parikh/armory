@@ -8,12 +8,12 @@ source_url: https://github.com/spences10/mcp-memory-libsql
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 88
+stars: 87
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 18
-pushed_at: "2026-09-30T10:41:26Z"
+pushed_at: "2026-10-05T14:10:41Z"
 ---
 ## What it is
 MCP server `LibSQL Memory`, catalogued on PulseMCP. Provides a LibSQL-based persistent memory database for storing and retrieving knowledge graph entities and relations across conversations.

@@ -8,13 +8,13 @@ source_url: https://github.com/Open-Document-Alliance/PDF-Tools
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 158
+stars: 160
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 24
-pushed_at: "2026-09-28T13:36:52Z"
+forks: 25
+pushed_at: "2026-10-07T13:53:29Z"
 ---
 ## What it is
 The local PDF workflow for Claude Desktop and MCP hosts: fill, sign, merge, split, extract, and analyze PDFs without sending files to a web app.

@@ -8,12 +8,12 @@ source_url: https://github.com/goreleaser/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-21T09:13:41Z"
+pushed_at: "2026-10-05T09:10:41Z"
 ---
 ## What it is
 MCP server `GoReleaser`, catalogued on PulseMCP. Integrates with GoReleaser's configuration engine to provide validation, deprecation fixes, and documentation access for maintaining and modernizing release pipeline configurations.

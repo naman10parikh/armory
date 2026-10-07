@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T07:53:41Z"
+pushed_at: "2026-10-03T07:54:41Z"
 ---
 ## What it is
 Enables an MCP client to discover ABS datasets, inspect SDMX dimension order and codelists, and run bounded statistical-data queries against the Australian Bureau of Statistics Data API.

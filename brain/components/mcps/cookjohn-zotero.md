@@ -8,11 +8,11 @@ source_url: https://github.com/cookjohn/zotero-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1200
+stars: 1213
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 99
+forks: 101
 pushed_at: "2026-09-09T14:08:09Z"
 ---
 ## What it is

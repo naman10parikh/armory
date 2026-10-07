@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-28T23:23:17Z"
+pushed_at: "2026-09-30T20:07:49Z"
 ---
 ## What it is
 MCP server `Options Analysis Suite`, catalogued on PulseMCP. MCP server for options analytics including 17 pricing models, Greeks, GEX, IV surface, 23 screeners, dark pool, and max pain data.

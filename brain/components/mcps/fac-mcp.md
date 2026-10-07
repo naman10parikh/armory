@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T12:22:39Z"
+pushed_at: "2026-09-30T22:52:52Z"
 ---
 ## What it is
 Enables querying and analyzing US federal grant single-audit filings, including audits, findings, and federal awards, using data from the Federal Audit Clearinghouse.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T06:15:26Z"
+pushed_at: "2026-10-06T00:09:19Z"
 ---
 ## What it is
 An experimental MCP server for MNCS-native development and evidence control, enabling Codex to manage project authority, candidate lineage, evidence gaps, and evaluator-mode boundaries.

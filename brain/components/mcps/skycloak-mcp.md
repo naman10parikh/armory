@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T17:20:10Z"
+pushed_at: "2026-10-05T22:24:07Z"
 ---
 ## What it is
 Official MCP server for Skycloak (managed Keycloak) that enables managing clusters, realms, applications, identity providers, users, themes, exports, SIEM destinations, and webhooks through natural language, with OAuth or API key authentication.

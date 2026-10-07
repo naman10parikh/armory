@@ -8,11 +8,11 @@ source_url: https://github.com/amurshak/congressmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
+forks: 11
 pushed_at: "2026-08-27T01:21:11Z"
 ---
 ## What it is

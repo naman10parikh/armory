@@ -8,13 +8,13 @@ source_url: https://github.com/clay-good/OpenLore
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 314
+stars: 319
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 40
-pushed_at: "2026-09-29T05:53:55Z"
+pushed_at: "2026-10-05T13:11:59Z"
 ---
 ## What it is
 Provides persistent architectural memory and structural cognition for AI coding agents, enabling efficient orientation, graph-aware context, and drift detection across codebase evolution.

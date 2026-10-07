@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 16
-pushed_at: "2026-06-16T08:49:43Z"
+pushed_at: "2026-09-30T16:58:15Z"
 ---
 ## What it is
 Rust-native MCP server for Office document processing (Excel, Word, PowerPoint) enabling sub-millisecond, local-first document manipulation and export to PDF.

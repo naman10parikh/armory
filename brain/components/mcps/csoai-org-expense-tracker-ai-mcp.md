@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-15T14:40:38Z"
+pushed_at: "2026-09-04T12:38:49Z"
 ---
 ## What it is
 MCP server `Expense Tracker AI`, catalogued on PulseMCP. Tools for tracking, categorizing, and analyzing expenses and financial transactions.

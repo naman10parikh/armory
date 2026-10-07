@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-30T05:24:46Z"
+pushed_at: "2026-10-07T12:11:10Z"
 ---
 ## What it is
 MCP server `Forge Agent Workflow`, catalogued on PulseMCP. Local-first workflow engine for coding agents with isolated git worktrees, CI gates, and review processes, exposing an MCP JSON-RPC endpoint.

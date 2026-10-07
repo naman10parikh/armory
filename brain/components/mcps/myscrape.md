@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-23T18:33:35Z"
+pushed_at: "2026-09-30T18:33:52Z"
 ---
 ## What it is
 A self-contained web-research MCP server that lets local LLM agents search, fetch, and synthesize web content using tools like web_search, web_fetch, and web_research.

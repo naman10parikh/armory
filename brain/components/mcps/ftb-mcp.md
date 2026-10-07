@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T04:21:51Z"
+pushed_at: "2026-10-05T04:23:51Z"
 ---
 ## What it is
 Read-only MCP server for genealogy data from Family Tree Builder (.ftb) or GEDCOM files, exposing tools for person search, family relationships, and statistical analysis via HTTP or stdio.

@@ -8,13 +8,13 @@ source_url: https://github.com/Unagi-cq/cdp-bridge-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 303
+stars: 304
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 38
-pushed_at: "2026-08-09T16:39:28Z"
+pushed_at: "2026-10-07T06:38:08Z"
 ---
 ## What it is
 Connects MCP clients to real browser sessions via a Chromium plugin, enabling LLMs to read, scan, automate, and navigate web pages using the user's existing browser state.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-29T08:25:17Z"
+pushed_at: "2026-10-07T13:24:48Z"
 ---
 ## What it is
 MCP server `ZenRows`, catalogued on PulseMCP. Scrapes any webpage through the ZenRows Universal Scraper API, including JavaScript-rendered content and anti-bot protected sites.

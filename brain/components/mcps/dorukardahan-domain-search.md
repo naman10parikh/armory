@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-09-30T00:28:39Z"
+pushed_at: "2026-10-05T22:26:34Z"
 ---
 ## What it is
 MCP server `Domain Search`, catalogued on PulseMCP. Check domain availability and pricing across multiple registrars

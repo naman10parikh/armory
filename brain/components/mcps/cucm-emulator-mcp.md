@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T12:44:29Z"
+pushed_at: "2026-10-07T01:26:01Z"
 ---
 ## What it is
 Enables AI assistants and automation agents to interact with Cisco CUCM Emulator instances through dynamically generated tools for telephony operations, call simulation, routing policies, CDR buffers, and optional offline mock state.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-25T16:30:59Z"
+pushed_at: "2026-10-06T05:47:09Z"
 ---
 ## What it is
 A local MCP server for trusted NixOS automation that enables inspecting files, applying patch sets, and validating/switching NixOS or Home Manager configurations.

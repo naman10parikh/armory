@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T18:48:03Z"
+pushed_at: "2026-10-06T19:35:55Z"
 ---
 ## What it is
 Enables Claude on macOS to read, search, and send iMessage, SMS, and RCS messages, with tools for stats, chat history, attachments, and message composition.

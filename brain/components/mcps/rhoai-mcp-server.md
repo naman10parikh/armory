@@ -8,13 +8,13 @@ source_url: https://github.com/opendatahub-io/rhoai-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 24
-pushed_at: "2026-09-26T07:57:39Z"
+pushed_at: "2026-10-06T13:26:19Z"
 ---
 ## What it is
 An MCP server that enables AI agents to interact with Red Hat OpenShift AI environments, providing tools for project management, workbench operations, model serving, and more.

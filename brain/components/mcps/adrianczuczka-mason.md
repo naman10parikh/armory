@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-30T11:52:22Z"
+pushed_at: "2026-10-07T04:54:30Z"
 ---
 ## What it is
 MCP server `Mason`, catalogued on PulseMCP. MCP server that gives AI assistants a persistent codebase map — feature-to-file lookups, change impact analysis, and git history insights.

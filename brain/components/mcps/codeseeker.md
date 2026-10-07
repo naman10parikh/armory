@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-22T19:41:54Z"
+pushed_at: "2026-10-04T03:43:46Z"
 ---
 ## What it is
 Four-layer hybrid search and knowledge graph for AI coding assistants: BM25 + vector embeddings + RAPTOR directory summaries + graph expansion fused into a single MCP tool.

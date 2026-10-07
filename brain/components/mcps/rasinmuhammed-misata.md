@@ -12,8 +12,8 @@ stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-09-28T09:03:03Z"
+forks: 4
+pushed_at: "2026-10-07T04:33:25Z"
 ---
 ## What it is
 MCP server `Misata`, catalogued on PulseMCP. Generates realistic, multi-table synthetic datasets from natural language descriptions, YAML schemas, or existing databases with referential integrity.

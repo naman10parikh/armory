@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T12:28:07Z"
+pushed_at: "2026-10-02T20:14:39Z"
 ---
 ## What it is
 Enables MCP-capable clients to inventory and operate Azure resources via the Azure Resource Manager API, including resource groups, tags, and VM power, while enforcing governance controls like scoping, protected groups, location allowlists, delete gating, and confirmation.

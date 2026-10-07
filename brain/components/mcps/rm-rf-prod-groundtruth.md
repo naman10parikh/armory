@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-05T20:20:41Z"
+pushed_at: "2026-10-02T15:23:42Z"
 ---
 ## What it is
 MCP server `GroundTruth`, catalogued on PulseMCP. Live documentation fetcher and code auditor covering 363+ libraries with 100+ security and best-practice audit patterns.

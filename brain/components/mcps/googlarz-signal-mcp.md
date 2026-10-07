@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
-stars: 8
+stars: 9
 forks: 8
-pushed_at: "2026-09-28T11:51:24Z"
+pushed_at: "2026-10-05T16:05:10Z"
 ---
 ## What it is
 Full Signal messenger MCP server and CLI. Send/receive messages, manage groups and contacts, search history, handle attachments and reactions. Runs locally via signal-cli — no third-party servers.

@@ -8,13 +8,13 @@ source_url: https://github.com/MohamedElashri/root-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-25T02:54:46Z"
+pushed_at: "2026-09-30T21:19:39Z"
 ---
 ## What it is
 An MCP server and CLI tool that allow LLMs to interact with CERN ROOT files.

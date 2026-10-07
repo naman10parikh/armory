@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T19:44:17Z"
+pushed_at: "2026-10-06T23:32:50Z"
 ---
 ## What it is
 Connects Claude to Disney Lorcana card data to enrich collections, search cards, find song synergies, and analyze decks.

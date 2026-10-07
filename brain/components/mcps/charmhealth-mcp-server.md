@@ -8,13 +8,13 @@ source_url: https://github.com/CharmHealth/charm-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-09-30T08:57:07Z"
+forks: 10
+pushed_at: "2026-10-07T10:53:48Z"
 ---
 ## What it is
 An MCP server for CharmHealth EHR that allows LLMs and MCP clients to interact with patient records, encounters, and practice information.

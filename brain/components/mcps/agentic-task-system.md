@@ -8,13 +8,13 @@ source_url: https://github.com/renezander030/agentic-task-system
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-27T17:04:05Z"
+pushed_at: "2026-10-04T17:04:28Z"
 ---
 ## What it is
 About Your task manager is the best agent memory you're not using. An agent-native context layer over your existing task app.

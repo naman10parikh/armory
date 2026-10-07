@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 7
-pushed_at: "2026-09-29T09:02:54Z"
+pushed_at: "2026-10-01T21:49:06Z"
 ---
 ## What it is
 Provide enhanced problem-solving capabilities by leveraging systematic thinking, mental models, and debugging approaches. Enable structured reasoning and decision-making support for complex challenges. Facilitate integration with MCP-compatible clients for advanced cognitive workflows.

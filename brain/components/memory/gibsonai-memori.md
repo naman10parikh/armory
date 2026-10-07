@@ -8,14 +8,14 @@ source_url: https://github.com/GibsonAI/memori
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 17013
+stars: 17092
 eval_score: null
 mentions: 0
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, memory]
-forks: 3615
-pushed_at: "2026-09-18T00:03:15Z"
+forks: 3674
+pushed_at: "2026-10-03T01:33:14Z"
 ---
 ## What it is
 Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori works with the data infrastructure you already run, no rip-and-replace, and deploys across managed cloud, single-tenant cloud, VPC, and on-premises.

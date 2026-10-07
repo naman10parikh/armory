@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-21T03:07:02Z"
+pushed_at: "2026-10-05T03:07:22Z"
 ---
 ## What it is
 MCP server `Prismatic Prism`, catalogued on PulseMCP. Local MCP server that wraps Prismatic's Prism CLI tool for code-native integration and custom component development.

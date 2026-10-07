@@ -8,13 +8,13 @@ source_url: https://github.com/debian777/kairos-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T11:42:04Z"
+pushed_at: "2026-10-07T06:55:23Z"
 ---
 ## What it is
 Enables AI agents to store and execute reusable protocol chains with persistent memory and deterministic execution.

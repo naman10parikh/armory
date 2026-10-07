@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-25T01:53:58Z"
+pushed_at: "2026-10-07T02:09:59Z"
 ---
 ## What it is
 MCP server `Rust FAF`, catalogued on PulseMCP. Rust-native server for the FAF (Foundational AI-context Format), providing structured project context in IANA-registered YAML format.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T15:16:01Z"
+pushed_at: "2026-10-06T15:36:34Z"
 ---
 ## What it is
 The diagram-quality layer for AI agents — an opinionated Excalidraw methodology (isomorphism test, evidence artifacts, multi-zoom, container discipline) plus a render-view-fix loop. Accepts skeleton and Mermaid input, 5 publishable themes, dual Node/Python renderer. Proven on a 77-diagram published 

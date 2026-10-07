@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-15T19:06:05Z"
+pushed_at: "2026-10-01T19:02:32Z"
 ---
 ## What it is
 MCP server for managing devices via JAMF Pro and Microsoft Intune APIs, enabling AI assistants to query and control device management tasks.

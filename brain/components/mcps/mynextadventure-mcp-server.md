@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-17T10:17:06Z"
+pushed_at: "2026-10-05T14:37:35Z"
 ---
 ## What it is
 Enables AI assistants to plan trips in MyNextAdventure by creating trips, managing itineraries, adding flights, hotels, and activities, and sharing results through the MCP protocol.

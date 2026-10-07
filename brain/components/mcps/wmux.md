@@ -8,13 +8,13 @@ source_url: https://github.com/openwong2kim/wmux
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 408
+stars: 412
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 68
-pushed_at: "2026-09-30T13:24:19Z"
+forks: 70
+pushed_at: "2026-10-07T14:08:18Z"
 ---
 ## What it is
 A native Windows terminal multiplexer with MCP bridge for AI agents, enabling browser automation, multi-agent coordination, and terminal control.

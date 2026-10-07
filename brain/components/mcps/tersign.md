@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T22:08:00Z"
+pushed_at: "2026-10-07T07:47:19Z"
 ---
 ## What it is
 MCP server for Tersign, the evidence layer for agent commerce, enabling agents to issue, verify, and manage signed receipts, compliance records, refunds, and disputes on a counter-signed hash-chained ledger.

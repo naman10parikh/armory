@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [ccometixline-claude-code-statusline, claude-powerline]
 tags: [claude-code, status-lines]
-stars: 234
+stars: 235
 forks: 20
 pushed_at: "2026-09-24T18:51:54Z"
 ---

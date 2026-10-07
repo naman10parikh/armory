@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-08-06T15:52:01Z"
+pushed_at: "2026-10-02T13:01:28Z"
 ---
 ## What it is
 MCP server `BALLDONTLIE`, catalogued on PulseMCP. Comprehensive sports data and analytics API covering NBA, NFL, MLB, NHL, and 6+ other major leagues

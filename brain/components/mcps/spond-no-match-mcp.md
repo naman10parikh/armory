@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-05-08T22:12:10Z"
+pushed_at: "2026-10-04T11:08:42Z"
 ---
 ## What it is
 An MCP server for managing kids' sports activities on Spond. Built for parents who want to give AI assistants access to upcoming matches, training schedules, and attendance.

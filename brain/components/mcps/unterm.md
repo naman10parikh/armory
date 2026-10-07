@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-30T06:52:38Z"
+forks: 1
+pushed_at: "2026-10-04T01:59:09Z"
 ---
 ## What it is
 The terminal AI agents can drive: a cross-platform desktop terminal (macOS/Linux/Windows, MIT) that runs a local MCP server. Spawn tabs/panes, run commands with structured output, read screens and full scrollback, take scrolling screenshots, record sessions with secret redaction, switch identity pro

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, security]
 stars: 55
 forks: 16
-pushed_at: "2026-09-29T21:06:37Z"
+pushed_at: "2026-09-30T19:37:53Z"
 ---
 ## What it is
 Embeds Snyk's security engines into agentic workflows. Secures AI-generated code in real-time and accelerates the fixing vulnerability backlogs.

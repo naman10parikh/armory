@@ -8,13 +8,13 @@ source_url: https://github.com/Infomaniak/mcp-server-calendar
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-29T07:35:51Z"
+forks: 2
+pushed_at: "2026-10-06T07:41:25Z"
 ---
 ## What it is
 Enables calendar management via Infomaniak's API, allowing users to list calendars, search events, and create events.

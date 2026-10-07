@@ -8,12 +8,12 @@ source_url: https://github.com/cyanheads/obsidian-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 689
+stars: 693
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 104
-pushed_at: "2026-09-23T19:41:21Z"
+pushed_at: "2026-10-06T05:59:34Z"
 ---
 ## What it is
 MCP server `Obsidian Vault`, catalogued on PulseMCP. Enables interaction with Obsidian vaults for file operations, content search, and metadata management, facilitating note-taking and knowledge base organization.

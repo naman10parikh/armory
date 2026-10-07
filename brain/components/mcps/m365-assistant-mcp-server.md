@@ -8,12 +8,12 @@ source_url: https://github.com/ryaker/outlook-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 442
+stars: 443
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 161
+forks: 162
 pushed_at: "2026-03-30T19:25:20Z"
 ---
 ## What it is

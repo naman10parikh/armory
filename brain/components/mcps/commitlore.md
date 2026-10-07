@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-30T08:32:46Z"
+pushed_at: "2026-10-03T20:59:39Z"
 ---
 ## What it is
 Git-native decision memory for coding agents: stores constraints, ruled-out alternatives, and warnings as git trailers and refs/notes, returning only records still in force for the file path being edited.

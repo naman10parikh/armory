@@ -8,12 +8,12 @@ source_url: https://github.com/damms005/devdb-vscode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1439
+stars: 1451
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 39
-pushed_at: "2026-09-29T06:36:31Z"
+pushed_at: "2026-10-04T14:07:01Z"
 ---
 ## What it is
 MCP server `DevDB`, catalogued on PulseMCP. Exposes database tables and schemas via HTTP endpoints, allowing tools to query database structure without direct database access for security-conscious development.

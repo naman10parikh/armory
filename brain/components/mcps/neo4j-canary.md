@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-25T16:19:35Z"
+pushed_at: "2026-10-05T14:23:17Z"
 ---
 ## What it is
 MCP server `Neo4j Canary`, catalogued on PulseMCP. Experimental Neo4j graph database MCP integration with Cypher query support, providing early access to features ahead of the official release.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T19:34:52Z"
+pushed_at: "2026-10-07T11:13:12Z"
 ---
 ## What it is
 Connects a local Codex session to SMS so users can check and acknowledge inbound messages and send concise updates from a phone.

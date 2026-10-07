@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T14:52:42Z"
+pushed_at: "2026-10-04T15:18:26Z"
 ---
 ## What it is
 Local-first code intelligence and safety layer for AI coding agents. MCP server exposes dependency graph, impact analysis, and AST-compressed repo context, backed by typed local memory, patch-scope safety gates, and git-independent transaction rollback.

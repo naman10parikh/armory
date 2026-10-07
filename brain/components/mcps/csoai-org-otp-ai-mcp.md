@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-26T03:52:40Z"
+pushed_at: "2026-09-04T12:42:12Z"
 ---
 ## What it is
 MCP server `OTP AI`, catalogued on PulseMCP. Python MCP server for one-time password generation and verification tools.

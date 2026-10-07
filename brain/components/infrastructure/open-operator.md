@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, stagehand]
-forks: 324
+forks: 323
 pushed_at: "2026-05-04T21:23:14Z"
 mentions: 1
 ---

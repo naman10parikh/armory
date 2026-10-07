@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 13
-pushed_at: "2026-09-30T13:00:03Z"
+pushed_at: "2026-10-07T13:00:03Z"
 ---
 ## What it is
 Investment decision tools for AI agents: portfolio status, isolated multi-agent committee analysis, auditable verdict history, and lookahead-protected backtests. Advisory only, no auto-trading; negative research results published.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-07-10T10:50:29Z"
+pushed_at: "2026-10-01T17:31:41Z"
 ---
 ## What it is
 Provides focused tools for interacting with Linear via the Model Context Protocol, enabling LLMs to manage Linear issues, projects, and teams.

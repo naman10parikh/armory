@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T02:41:10Z"
+pushed_at: "2026-10-04T15:20:50Z"
 ---
 ## What it is
 An MCP server for domain-agnostic task orchestration, turning objectives into executed workflows with built-in validation, security, and multi-agent patterns.

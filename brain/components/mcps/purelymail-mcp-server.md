@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-01-09T21:01:07Z"
+pushed_at: "2026-10-06T16:40:52Z"
 ---
 ## What it is
 Provides AI assistants with access to PurelyMail's email management API, enabling user, domain, routing, and billing management through natural language.

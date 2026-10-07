@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 20
-pushed_at: "2026-09-28T23:04:04Z"
+forks: 19
+pushed_at: "2026-10-05T15:05:40Z"
 ---
 ## What it is
 A feature-complete MCP server template in TypeScript demonstrating tools, resources, prompts, and both stdio and HTTP transports.

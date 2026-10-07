@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-26T16:13:30Z"
+pushed_at: "2026-10-01T17:55:34Z"
 ---
 ## What it is
 Enables AI agents to discover, price, and purchase SaaS products, developer tools, and MCP servers with live Stripe checkout, affiliate program, and AgentTrust verification.

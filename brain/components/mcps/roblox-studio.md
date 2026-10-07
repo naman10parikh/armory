@@ -8,11 +8,11 @@ source_url: https://github.com/roblox/studio-rust-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 493
+stars: 494
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 85
+forks: 86
 pushed_at: "2026-04-03T17:36:12Z"
 ---
 ## What it is

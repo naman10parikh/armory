@@ -8,13 +8,13 @@ source_url: https://github.com/ChrisBrooksbank/uk-parliament-mcp-lab
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-21T13:17:44Z"
+pushed_at: "2026-10-01T21:02:36Z"
 ---
 ## What it is
 An MCP server that gives AI assistants access to UK Parliament data. Query MPs, Lords, bills, votes, committees, debates, and more through AI assistants like Claude Desktop and VS Code Copilot.

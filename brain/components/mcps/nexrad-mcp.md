@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T17:50:09Z"
+pushed_at: "2026-10-02T06:00:34Z"
 ---
 ## What it is
 Enables AI clients to query raw NEXRAD Level II dual-pol radar data at any point, decoding actual volume data for detailed analysis like reflectivity, velocity, and correlation coefficient.

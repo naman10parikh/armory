@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-15T16:59:38Z"
+pushed_at: "2026-10-02T14:55:14Z"
 ---
 ## What it is
 CodebaseAgent-MCP is an MCP server that uses a lightweight RAG pipeline to delegate repository analysis to a dedicated OpenAI-compatible LLM, reducing token consumption by having the primary assistant receive only the relevant findings instead of repeatedly scanning the entire codebase.

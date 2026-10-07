@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 28
-pushed_at: "2026-09-29T20:20:59Z"
+forks: 27
+pushed_at: "2026-10-07T12:16:51Z"
 ---
 ## What it is
 A storage and retrieval MCP server for AI agents using FastMCP, enabling persistent knowledge base with semantic search and automatic linking.

@@ -7,14 +7,14 @@ source_url: https://github.com/open-telemetry/opentelemetry-js
 license: unknown
 cli_compat: []
 maturity: stable
-stars: 3481
+stars: 3488
 eval_score: 1
 mentions: null
 verified_at: 
 related: []
 tags: [observability]
-forks: 1172
-pushed_at: "2026-09-30T05:20:12Z"
+forks: 1177
+pushed_at: "2026-10-07T09:12:57Z"
 ---
 
 # opentelemetry

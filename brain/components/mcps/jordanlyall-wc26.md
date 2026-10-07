@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-09-29T14:43:16Z"
+pushed_at: "2026-10-06T14:54:35Z"
 ---
 ## What it is
 MCP server `World Cup 2026`, catalogued on PulseMCP. FIFA World Cup 2026 data and information.

@@ -8,7 +8,7 @@ source_url: https://github.com/zh1754629545/dida365-mcp-servers
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

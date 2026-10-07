@@ -8,13 +8,13 @@ source_url: https://github.com/iwe-org/iwe
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1737
+stars: 1752
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 91
-pushed_at: "2026-09-26T12:16:06Z"
+forks: 92
+pushed_at: "2026-10-07T00:41:39Z"
 ---
 ## What it is
 iwec gives AI agents structured access to your Markdown notes as a knowledge graph instead of a pile of files. Agents search, retrieve, traverse, and refactor your notes by structure and links — not blind text similarity — working from the same plain .md files you edit by hand. No database, no cloud

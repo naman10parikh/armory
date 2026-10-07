@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-27T15:44:23Z"
+pushed_at: "2026-10-01T17:48:25Z"
 ---
 ## What it is
 MCP server `WPR Trace Analyzer`, catalogued on PulseMCP. Analyzes Windows WPR/ETW performance traces via xperf.exe, exposing CPU utilization, call stacks, DPC/ISR latency, spinlocks, and disk I/O through natural language queries.

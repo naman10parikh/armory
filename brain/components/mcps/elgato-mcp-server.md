@@ -8,13 +8,13 @@ source_url: https://github.com/elgatosf/elgato-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-03T19:56:48Z"
+pushed_at: "2026-10-01T10:44:49Z"
 ---
 ## What it is
 Bridges AI assistants with Elgato apps via IPC, enabling dynamic tool discovery and notification forwarding.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-08-20T13:22:46Z"
+pushed_at: "2026-10-05T11:53:14Z"
 ---
 ## What it is
 MCP server `BoardGameGeek`, catalogued on PulseMCP. Access BoardGameGeek game data, user collections, and profiles

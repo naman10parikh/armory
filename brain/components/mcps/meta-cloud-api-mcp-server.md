@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-25T06:47:40Z"
+pushed_at: "2026-10-01T17:28:55Z"
 ---
 ## What it is
 Enables Claude to manage WhatsApp templates, flows, and send messages through the WhatsApp Cloud API.

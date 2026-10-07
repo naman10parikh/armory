@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-18T09:44:50Z"
+pushed_at: "2026-10-03T13:34:19Z"
 ---
 ## What it is
 MCP server `Tripitaka`, catalogued on PulseMCP. Search and cite the full Pāli Canon across 444,000 segments with hybrid keyword and semantic search.

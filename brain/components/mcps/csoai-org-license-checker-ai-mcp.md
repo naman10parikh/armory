@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-15T14:41:30Z"
+pushed_at: "2026-09-04T12:40:30Z"
 ---
 ## What it is
 MCP server `License Checker AI`, catalogued on PulseMCP. Python MCP server for software license compliance checking.

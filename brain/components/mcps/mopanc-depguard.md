@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
-stars: 16
+stars: 15
 forks: 1
-pushed_at: "2026-09-30T11:48:56Z"
+pushed_at: "2026-10-07T12:32:06Z"
 ---
 ## What it is
 Pre-install guardian for npm packages with static code analysis, supply-chain attack detection, vulnerability audit (npm + GitHub Advisory Database), AI hallucination guard, and CycloneDX 1.6 SBOM generation with VEX. 12 MCP tools. Zero runtime dependencies — the SBOM serializer is implemented natively against the public CycloneDX schema.

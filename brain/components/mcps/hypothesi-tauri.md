@@ -8,11 +8,11 @@ source_url: https://github.com/hypothesi/mcp-server-tauri
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 312
+stars: 315
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 41
+forks: 44
 pushed_at: "2026-08-28T22:52:12Z"
 ---
 ## What it is

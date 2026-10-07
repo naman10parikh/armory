@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T16:50:53Z"
+pushed_at: "2026-10-02T01:42:32Z"
 ---
 ## What it is
 Enables AI agents to assess AWS environments against the AWS Security Reference Architecture (SRA) by providing tools to discover, describe, and run security checks across AWS services and accounts.

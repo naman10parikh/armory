@@ -8,13 +8,13 @@ source_url: https://github.com/brennhill/Kaboom-Browser-AI-Devtools-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 65
+stars: 66
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-15T08:12:41Z"
+pushed_at: "2026-10-05T14:54:42Z"
 ---
 ## What it is
 MCP server for browser debugging, inspection, and verification that streams console logs, network errors, and user actions into AI coding assistants.

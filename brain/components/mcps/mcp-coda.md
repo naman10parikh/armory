@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-28T02:38:59Z"
+pushed_at: "2026-10-06T03:23:25Z"
 ---
 ## What it is
 Enables AI assistants to interact with Coda docs, pages, tables, rows, formulas, and more via the Coda API, offering 54 tools, 12 resources, and 5 prompts for comprehensive document management.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T08:30:31Z"
+pushed_at: "2026-10-01T18:32:09Z"
 ---
 ## What it is
 Enables natural language management of Zuar Portal instances, including authoring HTML blocks, building pages, managing data sources, queries, themes, and users, with versioned and revertible changes.

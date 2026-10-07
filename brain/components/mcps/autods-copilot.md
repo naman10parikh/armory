@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T09:19:21Z"
+pushed_at: "2026-10-06T15:28:08Z"
 ---
 ## What it is
 Enables any MCP client to run a complete data-science pipeline on a CSV: exploration, cleaning, model comparison, training, tuning, and plain-language analysis. Exposes nine tools that turn raw data into trained models and reports.

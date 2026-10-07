@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-29T22:29:17Z"
+pushed_at: "2026-10-05T04:42:28Z"
 ---
 ## What it is
 This server enables decidable, hardware-attested semantic verification of AI outputs using on-chip ballistic walks, providing reproducible receipts that can be recomputed byte-for-byte.

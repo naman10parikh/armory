@@ -13,7 +13,7 @@ related: []
 tags: [mcp, security]
 stars: 27
 forks: 39
-pushed_at: "2026-09-23T13:52:36Z"
+pushed_at: "2026-10-05T04:45:55Z"
 ---
 ## What it is
 Cybersecurity reconnaissance server for Claude. WHOIS lookup, DNS enumeration with subdomain brute-forcing, Nmap port scanning with service detection, SSL/TLS certificate inspection, technology stack fingerprinting, CVE lookup, and IP reputation checking. Runs fully locally via FastMCP.

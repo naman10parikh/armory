@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-09-23T17:30:05Z"
+pushed_at: "2026-10-07T09:47:44Z"
 ---
 ## What it is
 MCP server `RTFM by roomi-fields`, catalogued on PulseMCP. Open retrieval layer for indexing code, documentation, and data with semantic search.

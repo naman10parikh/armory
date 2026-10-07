@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T07:31:24Z"
+pushed_at: "2026-09-30T14:49:47Z"
 ---
 ## What it is
 MCP server enabling AI agents to interact with OpenProject API v3 for project management, including creating and managing work packages, projects, comments, time entries, boards, and user dashboards.

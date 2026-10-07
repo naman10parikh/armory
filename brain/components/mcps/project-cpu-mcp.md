@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-16T11:31:51Z"
+pushed_at: "2026-10-05T09:54:05Z"
 ---
 ## What it is
 MCP server for Project CPU, a blockchain game on EVM. It lets an AI agent play on your behalf: read the world map, reveal cells, build and mine, craft, move resources, trade at marketplaces, and cash out to on-chain $CPU.

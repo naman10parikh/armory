@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T07:00:50Z"
+pushed_at: "2026-10-06T16:08:35Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve memories from your Mac, including screen captures, meeting transcripts, and browsing history, all locally and privately.

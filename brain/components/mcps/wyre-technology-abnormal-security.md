@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-28T18:55:49Z"
+pushed_at: "2026-10-05T19:05:17Z"
 ---
 ## What it is
 MCP server `Abnormal Security`, catalogued on PulseMCP. Community MCP integration for Abnormal Security, enabling AI agents to access email threat cases and trigger remediation.

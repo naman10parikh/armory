@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-29T16:57:38Z"
+pushed_at: "2026-10-07T09:33:11Z"
 ---
 ## What it is
 Self-hosted decision memory for AI coding agents. Captures decisions with the alternatives you rejected, and warns before an agent re-proposes a rejected approach.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T06:03:06Z"
+pushed_at: "2026-10-05T07:18:34Z"
 ---
 ## What it is
 Provides a controlled interface for Bayesian Marketing Mix Modeling, letting AI agents validate datasets, fit and diagnose MMMs, analyze channel contributions and ROI, simulate and optimize budgets, calibrate with lift tests, and cross-validate models—all with statistical verification, uncertainty r

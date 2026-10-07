@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T10:41:51Z"
+pushed_at: "2026-10-04T14:59:51Z"
 ---
 ## What it is
 MCP server that exposes intercom tools inside Codex sessions, enabling discovery and messaging with other local coding agents (Pi, Claude Code, OpenCode) through a shared broker.

@@ -8,13 +8,13 @@ source_url: https://github.com/Panniantong/Agent-Reach
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 86297
+stars: 93002
 eval_score: null
 mentions: 4
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 7579
+forks: 8146
 pushed_at: "2026-09-15T16:16:24Z"
 ---
 ## What it is

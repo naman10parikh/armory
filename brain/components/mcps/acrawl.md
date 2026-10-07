@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T21:47:05Z"
+pushed_at: "2026-10-07T01:41:50Z"
 ---
 ## What it is
 Autonomous LLM-powered web crawler with 17 browser tools and goal-driven agent. Single Rust binary with stealth browsing, provider-agnostic LLM support, and built-in MCP server.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T17:27:36Z"
+pushed_at: "2026-10-01T04:56:29Z"
 ---
 ## What it is
 Enables MCP clients to control a Nordic PPK2 for power profiling: configure source/measurement modes, set voltage, power DUT, measure current/power/energy, and capture logic channels.

@@ -8,14 +8,14 @@ source_url: https://github.com/anomalyco/opencode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 211063
+stars: 212149
 eval_score: 1
 mentions: 37
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed]
-forks: 27954
-pushed_at: "2026-09-30T13:20:30Z"
+forks: 28252
+pushed_at: "2026-10-07T14:09:57Z"
 ---
 ## What it is
 The open source coding agent.

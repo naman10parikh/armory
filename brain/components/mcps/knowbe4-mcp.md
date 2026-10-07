@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-30T07:21:03Z"
+pushed_at: "2026-10-06T22:08:16Z"
 ---
 ## What it is
 MCP server for KnowBe4 — security awareness training, phishing simulation, and user risk management API integration

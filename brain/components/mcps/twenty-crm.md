@@ -8,11 +8,11 @@ source_url: https://github.com/mhenry3164/twenty-crm-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 105
+stars: 107
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 38
+forks: 40
 pushed_at: "2026-07-30T19:48:13Z"
 ---
 ## What it is

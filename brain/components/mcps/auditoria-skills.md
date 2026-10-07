@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T16:35:57Z"
+pushed_at: "2026-10-01T13:13:20Z"
 ---
 ## What it is
 MCP server with 20 internal-audit SKILLs grounded in global standards (IIA, COSO, NIST, ISO, IFRS, COBIT, ACFE), written in Spanish. Enables audit planning, control evaluation, and specialty audits via natural language.

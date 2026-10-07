@@ -8,13 +8,13 @@ source_url: https://github.com/jeff-nasseri/revolut-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 32
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-06-06T20:36:52Z"
+pushed_at: "2026-10-04T23:10:53Z"
 ---
 ## What it is
 Bridges AI assistants with the Revolut Business API to enable banking operations such as listing accounts, checking balances, viewing transactions, managing counterparties, and initiating transfers through natural language.

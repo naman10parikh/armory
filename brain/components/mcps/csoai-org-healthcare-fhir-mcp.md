@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-15T14:41:05Z"
+pushed_at: "2026-09-04T12:39:41Z"
 ---
 ## What it is
 MCP server `Healthcare FHIR`, catalogued on PulseMCP. FHIR-based healthcare data integration and interoperability tools.

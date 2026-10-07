@@ -8,12 +8,12 @@ source_url: https://github.com/petabridge/memorizer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 213
+stars: 215
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 32
-pushed_at: "2026-09-16T11:22:58Z"
+pushed_at: "2026-10-07T11:23:21Z"
 ---
 ## What it is
 MCP server `Memorizer`, catalogued on PulseMCP. Provides persistent memory storage with semantic search capabilities through PostgreSQL and pgvector, enabling long-term context retention across sessions with vector-based storage, relationship tracking, and asynchronous metadata processing.

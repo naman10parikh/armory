@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T13:24:01Z"
+pushed_at: "2026-10-01T03:48:01Z"
 ---
 ## What it is
 ▎ Provides 32 tools for plant-genomics locus lookup across 11 free public backends (Ensembl Plants, Phytozome, UniProtKB, Europe PMC, QuickGO, NCBI BLAST, Gramene, KEGG, STRING-DB, ATTED-II, BAR). Takes a TAIR-style locus plus optional organism and returns gene metadata, functional/pathway annotatio

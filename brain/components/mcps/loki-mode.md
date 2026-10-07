@@ -8,13 +8,13 @@ source_url: https://github.com/asklokesh/loki-mode
 license: Business Source License 1.1
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1076
+stars: 1084
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 207
-pushed_at: "2026-09-28T23:11:17Z"
+forks: 208
+pushed_at: "2026-10-05T21:22:38Z"
 ---
 ## What it is
 Autonomous spec-to-product coding-agent CLI. Its MCP server exposes 34 tools over stdio: project state and task-queue ops, memory retrieve/store, code search, quality and verification reports, repo hotspots/co-changes, and structured findings/learnings.

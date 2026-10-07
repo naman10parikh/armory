@@ -8,7 +8,7 @@ source_url: https://github.com/marianfoo/mcp-sap-docs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 234
+stars: 236
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-07T02:01:20Z"
+pushed_at: "2026-10-07T07:23:22Z"
 ---
 ## What it is
 An MCP server that turns an AI agent into a slide author, enabling drafting decks in Pandoc Markdown, compiling to PDF or PowerPoint, validating with PNG exports, and pulling in research from the web, Wikipedia, and Semantic Scholar.

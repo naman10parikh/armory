@@ -8,11 +8,11 @@ source_url: https://github.com/browserbase/mcp-server-browserbase
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3411
+stars: 3405
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 372
+forks: 373
 pushed_at: "2026-07-20T21:48:14Z"
 ---
 ## What it is

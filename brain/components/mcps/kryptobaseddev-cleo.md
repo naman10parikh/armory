@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-09-30T13:04:39Z"
+pushed_at: "2026-10-07T14:11:34Z"
 ---
 ## What it is
 MCP server `Cleo`, catalogued on PulseMCP. Task management protocol for solo developers and AI coding agents with CQRS pattern.

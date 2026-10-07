@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T07:57:06Z"
+pushed_at: "2026-10-06T10:59:34Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that bridges MCP clients with AWS Lambda functions, enabling AI models to invoke Lambda functions as tools without code changes.

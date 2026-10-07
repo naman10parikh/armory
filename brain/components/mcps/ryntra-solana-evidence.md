@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T22:10:21Z"
+pushed_at: "2026-10-07T08:46:13Z"
 ---
 ## What it is
 Enables users to inspect Solana token mint accounts, preflight transfer actions, and verify outcome receipts without holding any keys or signing transactions.

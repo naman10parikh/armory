@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-19T11:34:19Z"
+pushed_at: "2026-10-03T13:18:00Z"
 ---
 ## What it is
 Enables ChatGPT to interact with multiple blockchain networks for reading balances and managing wallet operations through a non-custodial local vault and policy engine.

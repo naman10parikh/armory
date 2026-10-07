@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 18
-pushed_at: "2026-09-26T01:44:06Z"
+pushed_at: "2026-10-07T02:05:19Z"
 ---
 ## What it is
 MCP server `UK Parliament`, catalogued on PulseMCP. Integrates with UK Parliament's API and Hansard debates to provide constituency searches, member information, election results, government post listings, and semantic search through parliamentary debates and written questions using Azure OpenAI embeddings for political research and policy analysis.

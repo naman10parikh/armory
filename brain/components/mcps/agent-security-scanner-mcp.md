@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-09-29T23:44:25Z"
+pushed_at: "2026-10-05T23:13:21Z"
 ---
 ## What it is
 A security scanner for AI coding agents and autonomous assistants that scans code for vulnerabilities, detects hallucinated packages, blocks prompt injection, and provides LLM-powered semantic code review via MCP or CLI.

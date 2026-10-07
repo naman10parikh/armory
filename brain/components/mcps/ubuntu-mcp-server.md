@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T15:02:20Z"
+pushed_at: "2026-10-05T12:12:25Z"
 ---
 ## What it is
 MCP server for managing Ubuntu servers over SSH. Enables Claude to check system health, inspect services, tail logs, review updates, and run commands remotely.

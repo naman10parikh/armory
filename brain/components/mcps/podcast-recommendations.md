@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T07:06:55Z"
+pushed_at: "2026-10-03T13:21:48Z"
 ---
 ## What it is
 Enables AI agents to discover long-tail podcasts through randomized probe queries, trend lookups, and RSS feed peeks, providing cadence, episode length, and feed details without requiring API keys.

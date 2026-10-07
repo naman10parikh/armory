@@ -8,13 +8,13 @@ source_url: https://github.com/inite-ai/inite-brain-service
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 40
+stars: 41
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-29T04:02:36Z"
+pushed_at: "2026-10-06T03:59:46Z"
 ---
 ## What it is
 An open-source bitemporal knowledge graph that provides long-term memory for AI agents via a native MCP endpoint, enabling conflict-aware ingest and hybrid retrieval.

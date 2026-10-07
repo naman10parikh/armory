@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T06:49:09Z"
+pushed_at: "2026-10-07T02:36:44Z"
 ---
 ## What it is
 An MCP server for AI dialogue via the AceDataCloud platform, supporting multi-model conversations including GPT-4/5, DeepSeek, Grok, and GLM.

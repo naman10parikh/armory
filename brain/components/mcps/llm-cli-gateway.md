@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T10:09:54Z"
+pushed_at: "2026-10-05T10:09:28Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) gateway for running Claude Code, Codex, Gemini, Grok, and Mistral (Vibe) CLIs from one MCP endpoint, with durable async jobs, session continuity, cache-aware prompting, observability, and personal-appliance setup tooling. Why developers try it: one local MCP endpoint f

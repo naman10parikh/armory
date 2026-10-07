@@ -8,12 +8,12 @@ source_url: https://github.com/hotricenoodles/crosslink
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 517
+stars: 515
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 38
-pushed_at: "2026-09-27T05:31:25Z"
+pushed_at: "2026-10-07T13:24:54Z"
 ---
 ## What it is
 MCP server `Crosslink`, catalogued on PulseMCP. Open-source LLM proxy gateway with integrated MCP gateway, supporting multi-provider routing, load balancing, rate limiting, caching, and HTTP/SSE transport.

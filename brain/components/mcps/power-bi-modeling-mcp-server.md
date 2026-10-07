@@ -8,12 +8,12 @@ source_url: https://github.com/microsoft/powerbi-modeling-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1192
+stars: 1202
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 212
+forks: 216
 pushed_at: "2026-09-29T07:50:22Z"
 ---
 ## What it is

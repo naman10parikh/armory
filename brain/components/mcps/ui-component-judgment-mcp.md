@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T02:09:19Z"
+pushed_at: "2026-10-07T04:30:36Z"
 ---
 ## What it is
 Enables AI agents to receive a structured verdict on whether a UI component need can be satisfied by existing shadcn/ui or 21st.dev components or requires a custom build, with coverage scoring against real component evidence and a Mobbin reference when needed.

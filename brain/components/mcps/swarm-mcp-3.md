@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T20:41:05Z"
+pushed_at: "2026-10-01T23:34:45Z"
 ---
 ## What it is
 MCP server that lets multiple coding-agent sessions on the same machine discover each other and collaborate through a shared SQLite database.

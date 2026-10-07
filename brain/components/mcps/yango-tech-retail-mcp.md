@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T12:03:43Z"
+pushed_at: "2026-10-04T11:31:56Z"
 ---
 ## What it is
 Enables natural-language interaction with the Yango Tech Retail B2B API to create and track orders, browse product catalogs, and manage prices, discounts, and stock levels across darkstores.

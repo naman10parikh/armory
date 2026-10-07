@@ -8,12 +8,12 @@ source_url: https://github.com/gronnmann/fiken-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 4
 pushed_at: "2026-06-22T11:15:26Z"
 ---
 ## What it is

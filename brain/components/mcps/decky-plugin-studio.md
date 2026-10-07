@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T01:40:06Z"
+pushed_at: "2026-10-06T04:02:03Z"
 ---
 ## What it is
 MCP server for Decky Loader plugin development, providing tools to build, deploy, debug, and capture screenshots/recordings on a Steam Deck via commands like deck.deploy and deck.captureScreenshot.

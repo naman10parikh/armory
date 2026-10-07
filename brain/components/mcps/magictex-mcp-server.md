@@ -8,13 +8,13 @@ source_url: https://github.com/ZoeLinUTS/MagicTeX-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-27T20:04:29Z"
+pushed_at: "2026-10-06T15:51:28Z"
 ---
 ## What it is
 Enables AI agents to edit LaTeX documents with a live PDF preview, source editor, and PDF-anchored comments that become edit instructions. Requires no local TeX install, using a WASM TeX engine.

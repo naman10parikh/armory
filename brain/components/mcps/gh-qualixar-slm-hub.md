@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-21T05:44:56Z"
+pushed_at: "2026-10-02T11:46:14Z"
 ---
 ## What it is
 MCP server `SLM Hub`, catalogued on PulseMCP. Federated MCP gateway that consolidates multiple MCP servers into a single local HTTP endpoint with intelligent caching, cost tracking, and cross-session learning.

@@ -8,12 +8,12 @@ source_url: https://github.com/raine/consult-llm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 138
+stars: 139
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-09-22T17:16:05Z"
+pushed_at: "2026-10-07T05:52:05Z"
 ---
 ## What it is
 MCP server `Consult LLM`, catalogued on PulseMCP. Escalates complex reasoning tasks to more powerful language models (OpenAI o3, Google Gemini 2.5 Pro, DeepSeek Reasoner) by forwarding markdown prompts with code context and git diffs, returning responses with detailed cost tracking.

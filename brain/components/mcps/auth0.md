@@ -8,13 +8,13 @@ source_url: https://github.com/auth0/auth0-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 121
+stars: 122
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 48
-pushed_at: "2026-09-22T08:13:49Z"
+forks: 49
+pushed_at: "2026-10-06T08:14:07Z"
 ---
 ## What it is
 MCP server `Auth0`, catalogued on PulseMCP. Integrates with LLMs and AI agents, allowing you to perform various Auth0 management operations using natural language. For instance, you could simply ask Claude to create a new Auth0 app and get the domain and client ID.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-12T07:21:20Z"
+pushed_at: "2026-10-06T16:21:29Z"
 ---
 ## What it is
 Enables ChatGPT to securely operate a single Windows development workspace via a local MCP server, offering file editing, Git status, static analysis, approved test/build, and limited ADB operations with audit logging.

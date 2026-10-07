@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T01:32:12Z"
+pushed_at: "2026-10-03T05:10:30Z"
 ---
 ## What it is
 Enables secure inbox triage, safe drafting and sending, and management of contacts, devices, and compliance within a single workspace through a remote MCP endpoint.

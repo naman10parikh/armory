@@ -8,12 +8,12 @@ source_url: https://github.com/bcefghj/math-animation-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
+forks: 9
 pushed_at: "2026-04-05T23:01:27Z"
 ---
 ## What it is

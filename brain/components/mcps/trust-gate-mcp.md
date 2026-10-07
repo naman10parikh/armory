@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T15:38:20Z"
+pushed_at: "2026-10-02T04:40:35Z"
 ---
 ## What it is
 Post-quantum, tamper-evident receipts for consequential agent actions. Provides tools for auditing, gating decisions, and egress classification with quantum-hardened security.

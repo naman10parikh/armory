@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-27T13:56:32Z"
+pushed_at: "2026-10-04T11:47:34Z"
 ---
 ## What it is
 Enables web search, scraping, and live package version lookup for local LLMs, with no API keys required.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T00:05:43Z"
+pushed_at: "2026-10-07T13:28:14Z"
 ---
 ## What it is
 MCP server for local browser control via Chrome/Edge extension, enabling agents to open isolated tabs, observe pages, take screenshots, and interact with accessible controls using an existing browser profile. It is agent-agnostic, local-only, and supports safe session scoping with origin grants and 

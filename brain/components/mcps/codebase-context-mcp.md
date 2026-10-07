@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T13:35:21Z"
+pushed_at: "2026-10-06T13:36:01Z"
 ---
 ## What it is
 Static codebase analysis as MCP tools — give AI coding agents a map of your repo instead of letting them burn half their tokens rediscovering it file by file.

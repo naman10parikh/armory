@@ -8,13 +8,13 @@ source_url: https://github.com/remorses/playwriter
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3943
+stars: 3969
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 186
-pushed_at: "2026-09-24T17:19:07Z"
+forks: 188
+pushed_at: "2026-10-07T09:59:19Z"
 ---
 ## What it is
 Connects to your running Chrome browser, enabling AI agents to automate it via Playwright API with existing logins and extensions.

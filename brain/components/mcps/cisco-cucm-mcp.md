@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-25T18:18:07Z"
+pushed_at: "2026-10-02T18:16:03Z"
 ---
 ## What it is
 MCP server for Cisco CUCM operational debugging — 61 tools covering logs, device inventory, performance monitoring, packet capture, call analysis, service control, AXL discovery, certificates, backups, CTI status, and cluster topology.

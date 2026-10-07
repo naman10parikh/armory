@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T11:07:47Z"
+pushed_at: "2026-10-06T13:01:26Z"
 ---
 ## What it is
 A secure MCP server for interacting with GitHub issues, pull requests, repository files, and search, supporting both github.com and GitHub Enterprise Server.

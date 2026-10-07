@@ -8,12 +8,12 @@ source_url: https://github.com/sylphxai/pdf-reader-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 983
+stars: 1026
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 88
-pushed_at: "2026-09-30T13:23:07Z"
+forks: 90
+pushed_at: "2026-10-07T04:50:08Z"
 ---
 ## What it is
 MCP server `PDF Reader`, catalogued on PulseMCP. Securely extracts text, metadata, and page information from PDF files within a project directory using pdfjs-dist for both local files and remote URLs.

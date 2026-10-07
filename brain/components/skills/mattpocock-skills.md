@@ -8,14 +8,14 @@ source_url: https://github.com/mattpocock/skills
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 272605
+stars: 279012
 eval_score: null
 mentions: 5
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 22935
-pushed_at: "2026-09-29T12:38:37Z"
+forks: 23371
+pushed_at: "2026-10-07T10:23:10Z"
 ---
 ## What it is
 Skills for Real Engineers. Straight from my .agents directory.

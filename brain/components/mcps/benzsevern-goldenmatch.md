@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-09-30T07:15:23Z"
+pushed_at: "2026-10-07T07:13:29Z"
 ---
 ## What it is
 MCP server `GoldenMatch`, catalogued on PulseMCP. Entity resolution toolkit for deduplication, record matching, golden records, and PPRL.

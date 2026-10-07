@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-09-19T14:18:25Z"
+pushed_at: "2026-10-01T18:01:55Z"
 ---
 ## What it is
 Enables pipeline-driven task management for AI coding agents, with stage-gated workflows, dependency tracking, artifact versioning, and multi-agent collaboration.

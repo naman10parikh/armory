@@ -8,13 +8,13 @@ source_url: https://github.com/getsentry/sentry
 license: FSL-1.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 44887
+stars: 45496
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, errors, apm]
-forks: 4873
-pushed_at: "2026-09-30T13:18:05Z"
+forks: 4911
+pushed_at: "2026-10-07T14:19:03Z"
 mentions: 15
 ---
 ## What it is

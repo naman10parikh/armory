@@ -8,7 +8,7 @@ source_url: https://github.com/termix-official/bsc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 105
+stars: 104
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

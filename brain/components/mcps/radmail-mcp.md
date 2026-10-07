@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T02:35:39Z"
+pushed_at: "2026-10-06T03:15:01Z"
 ---
 ## What it is
 An MCP server that provides an email operating system for AI agents, enabling inbox triage and reply drafting while enforcing un-bypassable safety constraints on sensitive actions like money transfers and banking changes.

@@ -8,13 +8,13 @@ source_url: https://github.com/GuangminJu/mellos-mapping
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 92
+stars: 100
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-09-22T07:30:17Z"
+forks: 8
+pushed_at: "2026-09-30T17:42:39Z"
 ---
 ## What it is
 MCP server that provides a live, terminal-native layered dependency map for AI coding assistants, with tools to track and visualize development progress in real time.

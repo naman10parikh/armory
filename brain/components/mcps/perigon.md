@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-25T21:56:17Z"
+pushed_at: "2026-10-05T22:05:02Z"
 ---
 ## What it is
 MCP server `Perigon`, catalogued on PulseMCP. Integrates with Perigon's news API to search articles, stories, journalists, companies, people, sources, topics, and Wikipedia content with advanced filtering capabilities including geographic, temporal, and categorical constraints for news monitoring, research workflows, and content discovery.

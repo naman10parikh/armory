@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T05:57:16Z"
+pushed_at: "2026-10-05T11:15:29Z"
 ---
 ## What it is
 MCP server for Slack that reads permalinks, threads, and channel history, and replies to threads or adds reactions using private browser-session tokens.

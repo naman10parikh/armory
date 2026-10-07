@@ -8,12 +8,12 @@ source_url: https://github.com/hhopke/intervals-icu-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 85
+stars: 89
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 45
-pushed_at: "2026-09-27T10:32:34Z"
+forks: 50
+pushed_at: "2026-10-05T18:55:38Z"
 ---
 ## What it is
 MCP server `Intervals.icu`, catalogued on PulseMCP. Access Intervals.icu training, wellness, and performance data from AI assistants.

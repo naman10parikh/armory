@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T05:30:29Z"
+pushed_at: "2026-10-07T06:06:52Z"
 ---
 ## What it is
 An MCP server and TypeScript client SDK that gives AI assistants access to OOREP's homeopathic repertory and materia medica reference data, enabling natural language searches for symptoms, remedies, rubrics, and repertorization across 12+ repertories and 600+ remedies.

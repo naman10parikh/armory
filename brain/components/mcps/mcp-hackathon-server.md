@@ -8,13 +8,13 @@ source_url: https://github.com/GSA-TTS/mcp-hackathon-template
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-18T21:08:41Z"
+pushed_at: "2026-10-02T01:43:52Z"
 ---
 ## What it is
 Provides a template for building an MCP server with example tools, prompts, and resources, enabling developers to create a server that exposes data and actions to AI clients.

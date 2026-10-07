@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T11:19:54Z"
+pushed_at: "2026-10-07T11:58:25Z"
 ---
 ## What it is
 Serves academic conference and journal data via MCP and REST, including CFP deadlines, CCF/CORE/QUALIS rankings, acceptance rates, journal impact factors, and special issues.

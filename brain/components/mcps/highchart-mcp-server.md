@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T15:23:27Z"
+pushed_at: "2026-10-03T15:15:37Z"
 ---
 ## What it is
 Enables AI assistants and clients to generate Highcharts-based charts with schema validation, export to PNG/SVG/PDF, and natural language to chart conversion.

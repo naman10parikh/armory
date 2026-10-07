@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T23:29:35Z"
+pushed_at: "2026-10-07T05:07:21Z"
 ---
 ## What it is
 MCP server for Kenya education — school registry, KCSE/KCPE results, HELB student loans, TVET programs, literacy resources.

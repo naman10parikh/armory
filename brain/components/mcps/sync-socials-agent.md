@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T03:37:02Z"
+pushed_at: "2026-10-06T02:15:12Z"
 ---
 ## What it is
 A hosted MCP server that lets AI agents generate content, upload media, create drafts, schedule posts, and publish to TikTok, Instagram, Facebook, and YouTube.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-21T10:30:00Z"
+pushed_at: "2026-10-01T19:12:03Z"
 ---
 ## What it is
 An MCP server that provides controlled, verifiable access to official jw.org content, enabling AI applications to search articles, retrieve full articles, and lookup scriptures without hallucinations.

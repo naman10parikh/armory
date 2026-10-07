@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 395
-forks: 41
-pushed_at: "2026-09-29T14:19:39Z"
+stars: 392
+forks: 40
+pushed_at: "2026-10-07T09:56:19Z"
 ---
 ## What it is
 Access 30+ AI models (GPT-5, Claude, Gemini, Grok, DeepSeek) without API keys. Pay-per-use via x402 micropayments with USDC on Base.

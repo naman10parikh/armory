@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T12:57:59Z"
+pushed_at: "2026-10-03T00:25:09Z"
 ---
 ## What it is
 Enables browsing and generating AI photo and video effects via Kavel's generators, crafting model-tuned prompts and opening the appropriate tool, no API key required.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-06T07:16:04Z"
+pushed_at: "2026-09-30T22:12:41Z"
 ---
 ## What it is
 MCP server `PageBolt`, catalogued on PulseMCP. Take screenshots, generate PDFs, create OG images, inspect pages, and record demo videos via the PageBolt web capture API.

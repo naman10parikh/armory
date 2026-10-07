@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-16T23:09:22Z"
+pushed_at: "2026-10-04T22:07:30Z"
 ---
 ## What it is
 Enables compatible MCP clients to invoke Kimi Code for second opinions, code reviews, and delegated coding tasks with structured results.

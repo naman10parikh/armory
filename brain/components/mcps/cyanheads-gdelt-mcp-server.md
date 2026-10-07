@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T19:57:54Z"
+pushed_at: "2026-10-07T12:29:13Z"
 ---
 ## What it is
 Search and analyze global news coverage and US television transcripts via the GDELT Project's real-time APIs via MCP.

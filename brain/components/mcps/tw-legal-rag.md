@@ -8,13 +8,13 @@ source_url: https://github.com/aa0101181514/tw-legal-rag
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 325
+stars: 327
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 42
-pushed_at: "2026-09-23T13:38:46Z"
+pushed_at: "2026-10-04T08:00:26Z"
 ---
 ## What it is
 Semantic and exact retrieval over 22M Taiwan court judgments with built-in citation guardrails — bundles carry a read-whitelist so downstream models cannot cite judgments whose reasoning was never read. Also provides exact lookup of administrative interpretations with lifecycle status (repealed / su

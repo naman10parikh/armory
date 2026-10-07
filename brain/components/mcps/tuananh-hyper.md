@@ -8,12 +8,12 @@ source_url: https://github.com/hyper-mcp-rs/hyper-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 883
+stars: 881
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 66
-pushed_at: "2026-09-28T03:13:16Z"
+pushed_at: "2026-10-07T13:27:52Z"
 ---
 ## What it is
 MCP server `Hyper`, catalogued on PulseMCP. Enhance this server with plugins written in any WebAssembly-compatible programming language.

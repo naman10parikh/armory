@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-23T11:26:53Z"
+pushed_at: "2026-10-06T21:41:27Z"
 ---
 ## What it is
 MCP server `1Stay by Stayker`, catalogued on PulseMCP. Search and book hotels across 100k+ properties with real reservation capabilities.

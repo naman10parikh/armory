@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-07-20T16:44:44Z"
+pushed_at: "2026-10-05T03:32:13Z"
 ---
 ## What it is
 MCP server `Greenhouse ATS`, catalogued on PulseMCP. Manage recruiting pipelines, candidates, and jobs via the Greenhouse ATS API.

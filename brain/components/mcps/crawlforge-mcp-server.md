@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T09:17:35Z"
+pushed_at: "2026-10-06T22:43:24Z"
 ---
 ## What it is
 Provides 27 MCP-native tools for web scraping, crawling, deep research, and autonomous extraction, delivering clean Markdown and structured JSON from any website.

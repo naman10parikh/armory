@@ -8,13 +8,13 @@ source_url: https://github.com/BeckhamLabsLLC/kicad-jlcpcb
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-20T15:18:41Z"
+pushed_at: "2026-10-01T20:15:20Z"
 ---
 ## What it is
 Automates PCB design from idea to fabrication: sources JLCPCB parts, fetches pin maps from EasyEDA, places and wires footprints in KiCad, and hands off to EasyEDA for auto-routing and ordering — all via Claude Code.

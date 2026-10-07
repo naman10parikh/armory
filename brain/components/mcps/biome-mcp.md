@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T18:17:15Z"
+pushed_at: "2026-10-02T06:20:41Z"
 ---
 ## What it is
 Enables LLMs to run Biome formatting, linting, and assist checks on TypeScript/web projects with token-efficient, structured output, plus searchable cached Biome documentation.

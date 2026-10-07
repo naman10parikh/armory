@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-25T15:58:11Z"
+pushed_at: "2026-10-07T12:42:29Z"
 ---
 ## What it is
 An MCP compliance proxy that enforces deterministic knowledge governance for AI agents, routing tool calls through a 14-gate planner and generating audit logs, budget ledgers, and approval tickets.

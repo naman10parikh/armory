@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-22T14:34:32Z"
+pushed_at: "2026-10-04T01:57:58Z"
 ---
 ## What it is
 Local guardrail proxy for AI coding agents. Wraps any MCP server (stdio or HTTP/SSE) and blocks destructive tool calls before they execute, with TOFU catalog pinning against rug pulls and tool-poisoning/result-injection scanning. Single Rust binary, Apache-2.0.

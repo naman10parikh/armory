@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T00:24:46Z"
+pushed_at: "2026-10-06T09:03:22Z"
 ---
 ## What it is
 A local stdio MCP server that provides 69 tools for Cloudflare REST API v4, including DNS, Zones, Workers, KV, R2, D1, Pages, Queues, Tunnels, SSL, WAF, Email Routing, Logpush and Workers AI, authenticated by a single API token.

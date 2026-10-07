@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-09-05T23:29:29Z"
+pushed_at: "2026-10-04T16:33:57Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to interact with ServiceNow instances, allowing script execution, data querying, ATF tests, and log tailing through natural language commands.

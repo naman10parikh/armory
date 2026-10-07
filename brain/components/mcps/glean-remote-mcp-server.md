@@ -8,7 +8,7 @@ source_url: https://github.com/gleanwork/remote-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 166
+stars: 165
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,13 +8,13 @@ source_url: https://github.com/dazzle-blip/code-protonbound
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-26T18:04:16Z"
+pushed_at: "2026-10-03T18:03:48Z"
 ---
 ## What it is
 A security-first MCP server that provides AI agents with a scoped, read-and-draft-only view into Proton Mail via Proton Bridge, ensuring no emails can be sent and access is restricted to configured workspaces.

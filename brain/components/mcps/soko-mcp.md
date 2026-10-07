@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T23:30:22Z"
+pushed_at: "2026-10-07T05:07:22Z"
 ---
 ## What it is
 MCP server for East Africa commodity price intelligence — regional price comparison across 8 markets, trend analysis, and sell/hold decision support for smallholder farmers. 5 tools.

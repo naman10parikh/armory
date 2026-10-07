@@ -8,13 +8,13 @@ source_url: https://github.com/INo-xious/stockbit-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 47
+stars: 53
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
-pushed_at: "2026-09-28T14:57:50Z"
+forks: 16
+pushed_at: "2026-10-05T12:45:59Z"
 ---
 ## What it is
 Read-only MCP server for Stockbit (IDX market data) providing broker summary/bandarmology, quotes, top movers, orderbook, fundamentals, and sentiment using your own session. Unofficial and does not place orders.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-05T00:47:26Z"
+pushed_at: "2026-10-01T14:23:41Z"
 ---
 ## What it is
 An MCP server for searching Japanese tariff data by keywords, HS codes, and more, enabling AI agents to access tariff information.

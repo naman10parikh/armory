@@ -8,13 +8,13 @@ source_url: https://github.com/CitiesSkylinesModding/coherent-gameface-agent-plu
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-29T15:10:55Z"
+pushed_at: "2026-10-04T10:17:33Z"
 ---
 ## What it is
 An MCP server that lets AI models drive any Coherent Gameface UI over Chrome DevTools Protocol, enabling JavaScript evaluation, screenshots, DOM inspection, console capture, and breakpoint debugging.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-22T12:34:14Z"
+pushed_at: "2026-10-01T19:04:37Z"
 ---
 ## What it is
 Enables AI agents to crawl, scrape, search, and automate browsers with anti-bot bypass, providing fast web access via 22 tools.

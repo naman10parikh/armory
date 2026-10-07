@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-24T08:08:47Z"
+pushed_at: "2026-10-03T00:09:10Z"
 ---
 ## What it is
 MCP server for agentic task orchestration and management, enabling AI agents to create goals, plan tasks with acceptance criteria, track dependencies, request human input, and provide proof of completion.

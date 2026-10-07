@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T19:24:29Z"
+pushed_at: "2026-09-30T19:24:08Z"
 ---
 ## What it is
 Deterministically evaluates whether a proposed agent spend action matches a supplied policy, returning ELIGIBLE, DENY, or STEP_UP with stable reason codes. Provides local policy evidence only, not payment authorization.

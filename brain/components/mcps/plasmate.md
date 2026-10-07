@@ -8,12 +8,12 @@ source_url: https://github.com/plasmate-labs/plasmate
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-29T14:03:26Z"
+pushed_at: "2026-10-07T14:02:32Z"
 ---
 ## What it is
 MCP server `Plasmate`, catalogued on PulseMCP. Browser engine for agents that compiles HTML into a Semantic Object Model with 10-800x token compression and V8 JavaScript execution.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 48
-pushed_at: "2026-09-28T05:20:28Z"
+pushed_at: "2026-10-05T06:56:30Z"
 ---
 ## What it is
 A Bitcoin-native MCP server for AI agents that provides 150+ tools for BTC and Stacks operations. Supports wallets, DeFi yield, sBTC peg, NFTs, and x402 payments.

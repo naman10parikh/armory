@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-30T11:56:44Z"
+pushed_at: "2026-10-04T13:26:06Z"
 ---
 ## What it is
 Enables AI agents to generate and serve ephemeral, interactive user interfaces over MCP through natural language descriptions.

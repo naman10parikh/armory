@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-17T10:57:11Z"
+pushed_at: "2026-10-04T18:07:50Z"
 ---
 ## What it is
 A production-ready MCP server for inventory and interaction with Alterios/LIMS instances, enabling project listing, readonly data queries via REST and script-services, and controlled write operations.

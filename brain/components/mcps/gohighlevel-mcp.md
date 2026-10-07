@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T07:14:08Z"
+pushed_at: "2026-10-05T04:22:08Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for GoHighLevel API v2 — giving any AI agent full access to your GHL location.

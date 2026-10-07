@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-16T02:30:16Z"
+pushed_at: "2026-10-02T18:37:20Z"
 ---
 ## What it is
 MCP server `Agentic Terminal`, catalogued on PulseMCP. Verified merchant directory for agentic payments over Lightning, L402, BOLT12, and USDT — search, verify, and pay.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 1
 forks: 0
-pushed_at: "2026-09-30T06:24:21Z"
+pushed_at: "2026-10-07T02:37:33Z"
 ---
 ## What it is
 Free URL shortening with batch support (up to 10 URLs), permanent `surl.id` short links, zero credit consumption.
