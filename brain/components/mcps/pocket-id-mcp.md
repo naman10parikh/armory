@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T16:12:03Z"
+pushed_at: "2026-10-08T01:12:57Z"
 ---
 ## What it is
 Enables bounded administration of Pocket ID, focusing on OIDC client management and read-only identity inventory, with secure handling of API keys and client secrets.

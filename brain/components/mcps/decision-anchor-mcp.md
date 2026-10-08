@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T14:05:18Z"
+pushed_at: "2026-10-01T17:59:48Z"
 ---
 ## What it is
 External anchoring layer: records AI agent accountability boundaries on both sides. Content-blind. A thin MCP adapter over the Decision Anchor public HTTP API.

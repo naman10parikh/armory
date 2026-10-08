@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-01-12T01:13:00Z"
+pushed_at: "2026-10-06T20:06:12Z"
 ---
 ## What it is
 MCP server `Apple Voice Memo`, catalogued on PulseMCP. Access Apple Voice Memos on macOS with tools for listing, retrieving audio, and generating transcripts.

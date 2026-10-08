@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:28:19Z"
+pushed_at: "2026-10-08T00:59:51Z"
 ---
 ## What it is
 MCP server for preparing CHAS, SafeContractor, and Constructionline pre-qualification assessments, enabling readiness checks and policy audits.

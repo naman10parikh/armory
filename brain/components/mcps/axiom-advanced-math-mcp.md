@@ -8,13 +8,13 @@ source_url: https://github.com/tufantunc/axiom-advanced-math-mcp
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T06:34:09Z"
+pushed_at: "2026-10-03T11:32:04Z"
 ---
 ## What it is
 Provides an MCP server exposing compute, verify, and plot tools backed by Giac/Xcas for exact symbolic and numerical mathematics, enabling LLMs to solve calculus, algebra, geometry, and more with verified results.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T14:18:03Z"
+pushed_at: "2026-10-07T03:12:56Z"
 ---
 ## What it is
 VoiceLayer MCP server enables AI coding assistants to speak and hear via local, on-device speech-to-text and text-to-speech, with no cloud dependencies.

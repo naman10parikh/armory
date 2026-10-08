@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-20T02:44:21Z"
+pushed_at: "2026-10-03T07:15:47Z"
 ---
 ## What it is
 This MCP server provides access to Composer Kit React component documentation, examples, and Celo Composer templates for building web3 applications on the Celo blockchain.

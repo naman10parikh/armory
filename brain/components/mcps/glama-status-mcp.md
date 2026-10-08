@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T20:39:37Z"
+pushed_at: "2026-10-06T16:43:48Z"
 ---
 ## What it is
 Daily-refreshed Glama TDQS score tracker for any MCP fleet. Scrapes per-tool grades from glama.ai, stores in SQLite with snapshot history and delta tracking, surfaces via MCP tools, Prefab cards, a 6-page web dashboard, and an LLM-powered chat interface.

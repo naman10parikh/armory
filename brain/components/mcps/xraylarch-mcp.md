@@ -8,12 +8,12 @@ source_url: https://github.com/Joint-Photon-Sciences-Institute/xraylarch-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-02-27T14:56:05Z"
 ---
 ## What it is

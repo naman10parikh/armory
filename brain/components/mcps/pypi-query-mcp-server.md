@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-27T18:42:19Z"
+pushed_at: "2026-10-04T21:26:49Z"
 ---
 ## What it is
 A Model Context Protocol server for querying PyPI package information, dependencies, and compatibility checking. Supports advanced dependency analysis, download statistics, and trending analysis.

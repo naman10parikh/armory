@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T09:50:07Z"
+pushed_at: "2026-10-06T17:40:52Z"
 ---
 ## What it is
 Provides search and detail tools for YANG paths across network vendor models (Nokia, Cisco, Arista), enabling models to find correct gNMI paths without guessing. The server is offline and does not connect to any devices.

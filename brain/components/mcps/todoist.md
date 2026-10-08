@@ -8,13 +8,13 @@ source_url: https://github.com/doist/todoist-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 553
+stars: 554
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 56
-pushed_at: "2026-09-30T18:26:41Z"
+forks: 55
+pushed_at: "2026-10-05T02:53:55Z"
 ---
 ## What it is
 MCP server `Todoist`, catalogued on PulseMCP. Official task management integration for organizing work and life

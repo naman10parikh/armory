@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-01T05:33:12Z"
+pushed_at: "2026-10-07T04:45:17Z"
 ---
 ## What it is
 Unified MCP server for managing cloud resources across AWS, Google Cloud, Azure, and DigitalOcean by wrapping their CLI tools.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-26T05:38:12Z"
+pushed_at: "2026-10-08T03:51:50Z"
 ---
 ## What it is
 MCP server `Notification AI`, catalogued on PulseMCP. Python MCP server for notification management and delivery tools.

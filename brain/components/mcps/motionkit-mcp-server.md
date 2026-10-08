@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T07:59:07Z"
+pushed_at: "2026-10-06T21:40:00Z"
 ---
 ## What it is
 Enables AI agents to validate and render branded videos from structured Video Specifications via the Model Context Protocol. Provides tools for health checks, video validation, and deterministic Remotion rendering.

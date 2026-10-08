@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-01T14:17:45Z"
+pushed_at: "2026-10-08T12:30:46Z"
 ---
 ## What it is
 MCP server for Paprika recipe manager enabling search, CRUD operations, grocery lists, meal planning, and menus via natural language, with semantic search and background sync.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-31T12:59:37Z"
+pushed_at: "2026-10-08T02:45:41Z"
 ---
 ## What it is
 MCP server `MEOK FRIA Generator`, catalogued on PulseMCP. Python MCP server for Fundamental Rights Impact Assessment generation.

@@ -8,12 +8,12 @@ source_url: https://github.com/gregario/brewers-almanack
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-28T12:27:08Z"
+pushed_at: "2026-10-05T13:07:33Z"
 ---
 ## What it is
 MCP server `Brewers Almanack`, catalogued on PulseMCP. Brewing knowledge reference covering beer styles, ingredients, off-flavour diagnosis, water chemistry, and recipe guidance.

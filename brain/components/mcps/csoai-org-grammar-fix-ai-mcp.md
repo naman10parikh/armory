@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-15T14:41:00Z"
+pushed_at: "2026-10-08T03:16:04Z"
 ---
 ## What it is
 MCP server `Grammar Fix AI`, catalogued on PulseMCP. AI tools for grammar correction, style improvement, and text clarity enhancement.

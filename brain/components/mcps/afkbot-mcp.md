@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T07:21:37Z"
+pushed_at: "2026-10-05T18:43:58Z"
 ---
 ## What it is
 MCP server for AFKBot PTO management that allows users to file and manage time-off requests from any MCP-compatible client.

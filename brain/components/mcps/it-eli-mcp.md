@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T13:29:28Z"
+pushed_at: "2026-10-06T09:18:41Z"
 ---
 ## What it is
 An MCP server for Italian law, enabling live access to legislation via Normattiva and case law from the Constitutional Court, Supreme Court, and administrative courts, with citation verification.

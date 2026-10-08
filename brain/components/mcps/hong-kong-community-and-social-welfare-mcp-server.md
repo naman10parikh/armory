@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-10T05:43:52Z"
+pushed_at: "2026-10-02T14:56:37Z"
 ---
 ## What it is
 Enables querying of Hong Kong government data on elderly community care services, such as waiting times and applicant counts.

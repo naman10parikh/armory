@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T13:42:43Z"
+pushed_at: "2026-10-08T13:43:01Z"
 ---
 ## What it is
 MCP server for autonomous agents to rug-check tokens, monitor liquidity drains, and get market briefs, with pay-per-call via x402.

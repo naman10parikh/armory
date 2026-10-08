@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-30T07:32:02Z"
+pushed_at: "2026-10-08T04:53:53Z"
 ---
 ## What it is
 A client-side MCP server that enables AI assistants to interact with the LiteJira issue tracking system for creating, searching, and managing issues via natural language.

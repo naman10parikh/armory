@@ -9,13 +9,13 @@ source_url: https://github.com/browserbase/stagehand
 license: MIT
 cli_compat: [claude, codex]
 maturity: stable
-stars: 25503
+stars: 25575
 eval_score: null
 verified_at: 2026-05-26
 related: [e2b-sandbox, firecrawl-mcp, browser-agent-security]
 tags: [browser, web-automation, stagehand, browserbase, act-extract-observe]
 forks: 1752
-pushed_at: "2026-10-01T09:14:34Z"
+pushed_at: "2026-10-08T10:58:08Z"
 mentions: 3
 ---
 

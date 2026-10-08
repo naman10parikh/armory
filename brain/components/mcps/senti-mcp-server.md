@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T03:54:30Z"
+pushed_at: "2026-10-07T09:10:24Z"
 ---
 ## What it is
 A Model Context Protocol server that lets AI assistants read trading data from the Senti Quant Public API, currently supporting listing MT5 accounts.

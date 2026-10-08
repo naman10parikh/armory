@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T05:19:33Z"
+pushed_at: "2026-10-08T06:36:33Z"
 ---
 ## What it is
 MCP server for Reddit that fetches full comment threads and compresses them into compact tab-delimited format, reducing token usage by up to 94% vs JSON. Supports subreddit feeds, multi-subreddit search, user activity, and OAuth for higher rate limits.

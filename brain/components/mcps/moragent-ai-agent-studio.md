@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T01:36:25Z"
+pushed_at: "2026-10-05T01:28:16Z"
 ---
 ## What it is
 Turns Claude Code into an AI Agent Studio with a guided menu and 11 tools to design, create, and manage multi-agent projects without coding.

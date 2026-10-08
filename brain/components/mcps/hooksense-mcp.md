@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-06T20:17:38Z"
+pushed_at: "2026-10-06T17:07:14Z"
 ---
 ## What it is
 Enables AI agents to create callback endpoints, wait for async webhook results, and verify signatures, eliminating the need for polling.

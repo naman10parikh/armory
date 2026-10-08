@@ -8,13 +8,13 @@ source_url: https://github.com/kraenhansen/nemlig-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-20T20:03:37Z"
+forks: 1
+pushed_at: "2026-10-06T19:22:40Z"
 ---
 ## What it is
 Enables searching products, viewing product details, managing the basket, and accessing order history on nemlig.com through natural language. It does not support placing orders or accessing payment cards.

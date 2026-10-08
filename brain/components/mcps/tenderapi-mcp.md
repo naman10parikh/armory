@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-12T16:16:15Z"
+pushed_at: "2026-10-06T16:32:35Z"
 ---
 ## What it is
 Exposes French and EU public procurement data (BOAMP + TED) as MCP tools for AI agents, enabling search for tenders, awards, and winner intelligence via typed filters.

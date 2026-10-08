@@ -8,12 +8,12 @@ source_url: https://github.com/shiahonb777/turn-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 39
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 9
 pushed_at: "2026-05-02T08:31:52Z"
 ---
 ## What it is

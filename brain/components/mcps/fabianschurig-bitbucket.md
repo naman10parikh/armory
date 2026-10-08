@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-30T03:15:50Z"
+pushed_at: "2026-10-04T04:12:14Z"
 ---
 ## What it is
 MCP server `Bitbucket`, catalogued on PulseMCP. Bitbucket Cloud API for MCP: complete auto-generated spec coverage with customizable prompts.

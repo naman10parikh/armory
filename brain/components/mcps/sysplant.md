@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 15
-pushed_at: "2026-09-15T14:00:00Z"
+pushed_at: "2026-10-01T18:05:47Z"
 ---
 ## What it is
 Generates syscall code (C, C++, Rust, NIM) using various hooking methods, and includes an MCP server for AI assistants to produce syscall stubs.

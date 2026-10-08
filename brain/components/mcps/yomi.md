@@ -8,12 +8,12 @@ source_url: https://github.com/RikaiDev/yomi
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 0
 pushed_at: "2026-08-24T00:10:32Z"
 ---
 ## What it is

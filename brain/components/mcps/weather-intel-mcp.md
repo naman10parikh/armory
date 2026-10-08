@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T22:02:18Z"
+pushed_at: "2026-10-06T06:13:42Z"
 ---
 ## What it is
 Provides US weather forecasts, current conditions, alerts, earthquakes, elevation, and geocoding via keyless US-government data feeds. Enables AI agents to access real-time weather and geospatial data without API keys.

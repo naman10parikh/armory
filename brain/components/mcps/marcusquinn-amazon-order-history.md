@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-09-30T08:08:31Z"
+pushed_at: "2026-10-08T12:37:44Z"
 ---
 ## What it is
 MCP server `Amazon Order History`, catalogued on PulseMCP. Extracts Amazon order history data across 16 regional sites using browser automation to export orders, item details, shipment tracking, and payment transactions to CSV format for expense tracking, tax preparation, and financial reconciliation.

@@ -8,12 +8,12 @@ source_url: https://github.com/dmontgomery40/mcp-3d-printer-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 243
+stars: 249
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 48
-pushed_at: "2026-09-29T22:43:41Z"
+forks: 49
+pushed_at: "2026-10-06T15:56:07Z"
 ---
 ## What it is
 MCP server `3D Printer Manager`, catalogued on PulseMCP. Integrates with multiple 3D printer management systems to enable remote control, file handling, and advanced STL manipulation for automated print job management and custom model modifications.

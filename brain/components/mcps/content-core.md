@@ -12,8 +12,8 @@ stars: 174
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 41
-pushed_at: "2026-09-28T14:27:35Z"
+forks: 43
+pushed_at: "2026-10-03T19:55:37Z"
 ---
 ## What it is
 MCP server `Content Core`, catalogued on PulseMCP. Extracts content from diverse media sources including URLs, documents, videos, audio files, and images using intelligent auto-detection and multiple extraction engines for unified content processing and analysis.

@@ -8,12 +8,12 @@ source_url: https://github.com/runesleo/polymarket-toolkit
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 198
+stars: 194
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 29
+forks: 26
 pushed_at: "2026-09-09T02:42:18Z"
 ---
 ## What it is

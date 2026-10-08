@@ -13,7 +13,7 @@ related: []
 tags: [mcp, cloud-platforms]
 stars: 5
 forks: 0
-pushed_at: "2026-09-19T06:02:21Z"
+pushed_at: "2026-10-02T05:27:00Z"
 ---
 ## What it is
 The official NetLicensing MCP Server is a natural language interface that enables agentic applications to manage the full software licensing lifecycle in Labs64 NetLicensing without writing a single API call.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T07:31:19Z"
+pushed_at: "2026-10-07T14:14:05Z"
 ---
 ## What it is
 Provides MCP tools for Claude Code to query a project's codebase via a compact index, reducing token usage and context bloat by enabling symbol lookup, usage tracking, and dead-code detection.

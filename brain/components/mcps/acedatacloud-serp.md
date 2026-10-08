@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-30T06:24:25Z"
+pushed_at: "2026-10-08T01:36:03Z"
 ---
 ## What it is
 MCP server `AceDataCloud SERP`, catalogued on PulseMCP. Google search results via SERP API through the AceDataCloud API platform.

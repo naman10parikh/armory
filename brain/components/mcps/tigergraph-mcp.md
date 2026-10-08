@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-28T20:51:27Z"
+pushed_at: "2026-10-08T03:50:24Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for TigerGraph that lets AI agents interact with TigerGraph through the MCP standard using pyTigerGraph's async APIs.

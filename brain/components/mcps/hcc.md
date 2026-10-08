@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T12:54:15Z"
+pushed_at: "2026-10-04T23:48:44Z"
 ---
 ## What it is
 Local-first, cross-agent memory layer for Hermes, OpenClaw, and Claude Code (MCP) behind a single REST API. Hybrid BM25+pgvector+RRF retrieval with optional Qwen3 rerank, a three-stage "dream" consolidation cycle (Light → REM → Deep) that clusters and de-dupes daily memories into durable knowledge w

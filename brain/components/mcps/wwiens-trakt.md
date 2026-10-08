@@ -8,11 +8,11 @@ source_url: https://github.com/wwiens/trakt_mcpserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2026-09-06T21:27:41Z"
 ---
 ## What it is

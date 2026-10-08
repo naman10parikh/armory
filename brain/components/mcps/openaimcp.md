@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T06:22:11Z"
+pushed_at: "2026-10-08T01:35:18Z"
 ---
 ## What it is
 A Model Context Protocol server for OpenAI API access via AceDataCloud, enabling chat completions, image generation, text embeddings, and more from MCP-compatible clients.

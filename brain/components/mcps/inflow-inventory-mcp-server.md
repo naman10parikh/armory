@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T10:46:38Z"
+pushed_at: "2026-10-02T01:38:33Z"
 ---
 ## What it is
 Enables AI assistants to manage inFlow Inventory, including products, sales orders, purchase orders, customers, vendors, inventory operations, serial numbers, and webhooks through natural language.

@@ -8,12 +8,12 @@ source_url: https://github.com/ROCTUP/1c-buddy
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 102
+stars: 105
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 20
+forks: 22
 pushed_at: "2026-08-09T19:11:01Z"
 ---
 ## What it is

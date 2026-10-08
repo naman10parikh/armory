@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T11:42:57Z"
+pushed_at: "2026-10-06T13:14:02Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve context from GitHub issues, pull requests, releases, and documentation using hybrid semantic search and time-ordered activity scans.

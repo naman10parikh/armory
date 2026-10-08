@@ -8,13 +8,13 @@ source_url: https://github.com/TencentCloud/TencentDB-Agent-Memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 27614
+stars: 27818
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 2661
+forks: 2696
 pushed_at: "2026-09-29T08:48:49Z"
 ---
 ## What it is

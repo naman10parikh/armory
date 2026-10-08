@@ -8,7 +8,7 @@ source_url: https://github.com/gaspareduard/Omada-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T16:07:43Z"
+pushed_at: "2026-10-02T12:16:47Z"
 ---
 ## What it is
 An MCP server that brokers discovery and interaction with AAuth resources, providing a fixed set of tools for managing and invoking operations on registered resources.

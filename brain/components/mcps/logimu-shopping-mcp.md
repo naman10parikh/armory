@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T16:52:12Z"
+pushed_at: "2026-10-07T08:39:42Z"
 ---
 ## What it is
 Real Amazon (US, UK, DE, CA, AU) & Walmart shopping data for AI assistants: ranked product shortlists, current prices, live stock, real ratings, and price/BSR history from a 17M+ product warehouse. Free hosted endpoint, no signup — 30 queries a day.

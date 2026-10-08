@@ -1,0 +1,7 @@
+{
+  "name": "reliefweb-mcp-server",
+  "description": "Search ReliefWeb humanitarian reports, disasters, jobs, training, and country profiles via MCP.",
+  "source_repo": "",
+  "source_url": "https://reliefweb.caseyjhand.com/mcp",
+  "install": "# git clone --depth 1 https://reliefweb.caseyjhand.com/mcp\n# See source for mcpServers config block"
+}

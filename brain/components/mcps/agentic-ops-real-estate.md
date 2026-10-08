@@ -8,11 +8,11 @@ source_url: https://github.com/agentic-ops/real-estate-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 66
+stars: 67
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 23
+forks: 24
 pushed_at: "2026-08-26T08:02:55Z"
 ---
 ## What it is

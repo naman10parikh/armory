@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T04:40:00Z"
+pushed_at: "2026-10-05T04:44:49Z"
 ---
 ## What it is
 Read-only MCP server for the National Parliamentary Library of Georgia's Iverieli repository, enabling search, metadata retrieval, PDF downloads, and rendering of historical newspaper pages as JPEGs and tiles.

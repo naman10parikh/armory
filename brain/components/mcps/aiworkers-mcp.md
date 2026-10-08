@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T13:40:38Z"
+pushed_at: "2026-10-04T12:29:44Z"
 ---
 ## What it is
 An MCP server that lets coding agents like Cursor and Claude manage neural employees (AI assistants) across channels such as Telegram, WhatsApp, and web widgets. It provides tools for surveys, tasks, worker card management, Telegram bot control, and booking CRM.

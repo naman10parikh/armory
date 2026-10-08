@@ -8,13 +8,13 @@ source_url: https://github.com/plantuml/plantuml
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13350
+stars: 13356
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1239
-pushed_at: "2026-10-01T01:04:28Z"
+forks: 1235
+pushed_at: "2026-10-06T20:13:55Z"
 ---
 ## What it is
 Pure Node.js MCP server that renders and validates PlantUML diagrams with zero Java and zero external server, powered by TeaVM. Exposes render_diagram, check_syntax and diagram_explain — just run npx @plantuml/mcp-js.

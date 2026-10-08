@@ -8,13 +8,13 @@ source_url: https://github.com/RdyGaming/hated-wow-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-28T12:59:06Z"
+pushed_at: "2026-10-05T13:40:58Z"
 ---
 ## What it is
 MCP server for writing World of Warcraft addons, providing in-game Lua API references, Blizzard's UI source code, and game asset data to AI assistants.

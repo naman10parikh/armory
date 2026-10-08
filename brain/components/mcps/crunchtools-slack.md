@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-29T11:07:16Z"
+pushed_at: "2026-10-06T13:02:10Z"
 ---
 ## What it is
 MCP server `Slack by crunchtools`, catalogued on PulseMCP. Read-only Slack workspace integration for channels, messages, users, and files.

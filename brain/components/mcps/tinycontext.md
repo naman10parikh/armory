@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-05T15:30:24Z"
+pushed_at: "2026-10-08T11:10:20Z"
 ---
 ## What it is
 TinyContext provides a local, token-efficient memory layer for AI agents. It enables saving and recalling memories via MCP tools, using hybrid BM25 and dense retrieval to return only context that fits the requested token budget.

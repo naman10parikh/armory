@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T23:44:28Z"
+pushed_at: "2026-10-07T19:38:08Z"
 ---
 ## What it is
 Exposes GoProfiles as tools for AI assistants, allowing users to interact with GoProfiles via natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-25T05:51:55Z"
+pushed_at: "2026-10-08T07:28:08Z"
 ---
 ## What it is
 Control your Famulor AI voice agents — calls, leads, campaigns, knowledge bases, conversations, WhatsApp, SIP trunks — directly from Claude, Cursor, Windsurf, VS Code and any other MCP-compatible client.

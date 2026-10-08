@@ -8,13 +8,13 @@ source_url: https://github.com/prPMDev/jd-intel
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-28T03:57:01Z"
+pushed_at: "2026-10-05T02:52:16Z"
 ---
 ## What it is
 Enables AI assistants to fetch and structure job postings from major ATS platforms (Greenhouse, Lever, Ashby, etc.) directly, eliminating copy-paste and context loss.

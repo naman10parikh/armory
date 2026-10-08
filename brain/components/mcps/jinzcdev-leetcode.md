@@ -8,11 +8,11 @@ source_url: https://github.com/jinzcdev/leetcode-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 152
+stars: 154
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 28
 pushed_at: "2026-07-12T12:05:31Z"
 ---
 ## What it is

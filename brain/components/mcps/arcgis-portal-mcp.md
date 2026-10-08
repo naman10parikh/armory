@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-21T15:37:25Z"
+forks: 4
+pushed_at: "2026-10-02T15:57:08Z"
 ---
 ## What it is
 Enables AI assistants to search, query, and manage ArcGIS Portal and Online content, feature layers, users, and groups via the Model Context Protocol.

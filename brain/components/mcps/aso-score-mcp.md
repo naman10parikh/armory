@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T18:42:20Z"
+pushed_at: "2026-10-08T14:08:41Z"
 ---
 ## What it is
 Scans websites to evaluate agent-readiness and produce an ASO Score Report across 34 signals, helping improve discoverability, trust, and interoperability for AI agents.

@@ -8,12 +8,12 @@ source_url: https://github.com/socialcrawl/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-14T10:58:04Z"
+pushed_at: "2026-10-08T02:56:54Z"
 ---
 ## What it is
 MCP server `Socialcrawl`, catalogued on PulseMCP. MCP server for the SocialCrawl API providing unified access to social media data across 21 platforms and 108 endpoints.

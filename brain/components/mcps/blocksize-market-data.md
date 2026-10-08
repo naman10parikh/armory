@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T19:01:03Z"
+pushed_at: "2026-10-06T21:01:54Z"
 ---
 ## What it is
 Read-only MCP server for Blocksize market data discovery, pricing, documentation, and x402 endpoint lookup across crypto, equities, FX, and metals.

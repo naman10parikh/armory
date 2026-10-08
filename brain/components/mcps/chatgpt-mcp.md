@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-12T09:53:04Z"
+pushed_at: "2026-10-03T09:53:18Z"
 ---
 ## What it is
 Bridges Cursor IDE Agent with ChatGPT Web for external reasoning, research, and review.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-24T21:07:20Z"
+pushed_at: "2026-10-01T21:07:18Z"
 ---
 ## What it is
 Fast hybrid code search for agents. Pure Go, single static binary, BM25 lexical + Model2Vec semantic embeddings + RRF fusion + a code-aware reranker, with the retrieval algorithm ported verbatim from semble

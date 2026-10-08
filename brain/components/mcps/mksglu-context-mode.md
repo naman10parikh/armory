@@ -8,12 +8,12 @@ source_url: https://github.com/mksglu/context-mode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24677
+stars: 25683
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1777
-pushed_at: "2026-10-01T12:07:41Z"
+forks: 1854
+pushed_at: "2026-10-08T12:07:15Z"
 ---
 ## What it is
 MCP server `Context Mode`, catalogued on PulseMCP. Reduces context consumption by 98% through sandboxed code execution and SQLite-based session continuity with FTS5 search.

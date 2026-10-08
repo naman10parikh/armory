@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T00:21:13Z"
+pushed_at: "2026-10-05T04:17:06Z"
 ---
 ## What it is
 Manages multi-user tenancy for consumer MCP servers, enabling pair creation, invite flows, identity-separated state, and conflict resolution.

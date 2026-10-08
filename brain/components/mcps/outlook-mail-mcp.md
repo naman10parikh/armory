@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T08:48:14Z"
+pushed_at: "2026-10-07T02:27:48Z"
 ---
 ## What it is
 MCP server that connects an Outlook mailbox to view recent emails, read specific messages, and send replies using Microsoft Graph.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T15:36:52Z"
+pushed_at: "2026-10-07T13:32:45Z"
 ---
 ## What it is
 MCP server for SignUpGenius that enables users to manage their sign-ups, groups, and generate reports. It supports multiple authentication modes including session login, Pro API keys, and a fetchproxy fallback.

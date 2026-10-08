@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-21T21:35:07Z"
+pushed_at: "2026-10-04T07:03:28Z"
 ---
 ## What it is
 MCP server `MCP Local Hub`, catalogued on PulseMCP. Local workstation daemon that consolidates multiple MCP servers into shared processes for concurrent AI coding assistant clients.

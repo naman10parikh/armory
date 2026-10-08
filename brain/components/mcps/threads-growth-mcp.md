@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T11:27:16Z"
+pushed_at: "2026-10-06T08:14:37Z"
 ---
 ## What it is
 Custom MCP server for Threads (Meta) — post, reply, and read insights via the official free Threads API.

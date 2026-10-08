@@ -8,13 +8,13 @@ source_url: https://github.com/txn2/mcp-trino
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T02:16:16Z"
+pushed_at: "2026-10-06T05:47:50Z"
 ---
 ## What it is
 A Model Context Protocol server enabling AI assistants to query and explore data warehouses via Trino, with optional semantic context from metadata catalogs.

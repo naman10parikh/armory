@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-01T22:24:15Z"
+pushed_at: "2026-10-05T08:11:42Z"
 ---
 ## What it is
 A local-first, read-only MCP server for vehicle diagnostics that exposes structured OBD-II tools for reading PIDs, DTCs, and ECU snapshots without raw protocol access.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T22:58:06Z"
+pushed_at: "2026-10-02T21:27:40Z"
 ---
 ## What it is
 Enables headless Blender asset QA and FBX reimport verification for game and 3D asset pipelines, checking mesh count, material count, and naming prefixes with deterministic JSON results.

@@ -8,13 +8,13 @@ source_url: https://github.com/ViperJuice/pmcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-01T09:59:00Z"
+pushed_at: "2026-10-08T13:57:17Z"
 ---
 ## What it is
 A single MCP server gateway that reduces context bloat by providing progressive tool discovery and invocation, dynamically provisioning downstream servers on demand.

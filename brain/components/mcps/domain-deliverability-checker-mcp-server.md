@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T13:23:46Z"
+pushed_at: "2026-10-06T16:30:13Z"
 ---
 ## What it is
 Enables auditing any domain's email deliverability and DNS health, including SPF, DKIM, DMARC, MX, mail provider, DNS blacklist status, catch-all, domain age, and a deliverability score.

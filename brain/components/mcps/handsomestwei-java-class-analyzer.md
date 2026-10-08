@@ -8,11 +8,11 @@ source_url: https://github.com/handsomestwei/java-class-analyzer-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2026-06-28T15:58:53Z"
 ---
 ## What it is

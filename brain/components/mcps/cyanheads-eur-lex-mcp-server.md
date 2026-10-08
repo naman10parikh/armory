@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-26T07:22:24Z"
+forks: 2
+pushed_at: "2026-10-07T12:06:27Z"
 ---
 ## What it is
 Search EU legislation, CJEU case law, and treaties; traverse the CELLAR relationship graph; resolve EuroVoc concepts via MCP.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T08:10:24Z"
+pushed_at: "2026-10-08T14:16:32Z"
 ---
 ## What it is
 An outbound MCP server that exposes a squad of 98 advisory agents as five model-invocable tools for research, planning, review, architecture, and async pipeline runs.

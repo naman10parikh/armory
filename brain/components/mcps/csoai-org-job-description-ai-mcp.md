@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-15T14:41:22Z"
+pushed_at: "2026-10-08T03:45:21Z"
 ---
 ## What it is
 MCP server `Job Description AI`, catalogued on PulseMCP. Python MCP server for generating and analyzing job descriptions.

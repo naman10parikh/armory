@@ -8,13 +8,13 @@ source_url: https://github.com/caviraoss/openmemory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4513
+stars: 4523
 eval_score: null
 mentions: 0
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, memory]
-forks: 503
+forks: 506
 pushed_at: "2026-09-20T11:57:46Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/Justin3go/justin3go.com
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 175
+stars: 173
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, blogging-content]
-forks: 25
+forks: 24
 pushed_at: "2026-09-21T17:21:28Z"
 ---
 ## What it is

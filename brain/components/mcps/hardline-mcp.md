@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T10:45:37Z"
+pushed_at: "2026-10-08T11:07:50Z"
 ---
 ## What it is
 Enables local AI coding agents to message each other on one machine using a durable SQLite mailbox and live-ask tools.

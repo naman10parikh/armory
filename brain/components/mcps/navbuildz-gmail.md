@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 35
-pushed_at: "2026-09-24T04:59:44Z"
+pushed_at: "2026-10-02T22:17:28Z"
 ---
 ## What it is
 MCP server `Gmail`, catalogued on PulseMCP. MCP server for full Gmail access — reading, searching, archiving, labeling, unsubscribing, and batch processing across multiple accounts.

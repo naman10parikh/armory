@@ -8,13 +8,13 @@ source_url: https://github.com/editmamei/editmamei
 license: Inno Setup License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-01T08:36:39Z"
+pushed_at: "2026-10-08T13:35:49Z"
 ---
 ## What it is
 Editmamei provides a natural-language interface for Adobe Photoshop, running as a local MCP server. Rather than focusing on generative AI, it acts as an AI orchestration layer that plans edits and executes them with native Photoshop tools.

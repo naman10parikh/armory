@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T04:58:57Z"
+pushed_at: "2026-10-07T07:30:52Z"
 ---
 ## What it is
 Enables MCP clients to control a Linux/X11 desktop like a human: see the screen, move the mouse, click UI elements via the accessibility tree, type text, and manage windows.

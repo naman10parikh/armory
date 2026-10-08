@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
 stars: 85
-forks: 9
+forks: 7
 pushed_at: "2025-08-08T08:13:50Z"
 ---
 ## What it is

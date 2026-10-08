@@ -8,11 +8,11 @@ source_url: https://github.com/delano/postman-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 160
+stars: 158
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 30
+forks: 31
 pushed_at: "2026-02-11T11:33:23Z"
 ---
 ## What it is

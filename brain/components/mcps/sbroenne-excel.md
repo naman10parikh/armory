@@ -8,12 +8,12 @@ source_url: https://github.com/sbroenne/mcp-server-excel
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 796
+stars: 808
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 90
-pushed_at: "2026-10-01T14:14:13Z"
+forks: 92
+pushed_at: "2026-10-08T12:36:40Z"
 ---
 ## What it is
 MCP server `Excel`, catalogued on PulseMCP. Automates Microsoft Excel through Windows COM with comprehensive operations for Power Query, DAX, PivotTables, and VBA

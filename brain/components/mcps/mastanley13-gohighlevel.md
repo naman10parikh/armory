@@ -8,7 +8,7 @@ source_url: https://github.com/mastanley13/gohighlevel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 195
+stars: 194
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

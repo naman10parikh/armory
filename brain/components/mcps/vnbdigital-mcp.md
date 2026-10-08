@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T14:04:03Z"
+pushed_at: "2026-10-03T00:59:56Z"
 ---
 ## What it is
 Enables querying German distribution grid operator data from vnbdigital.de and BDEW register, including lookup by ID, postcode, coordinates, and free-text search.

@@ -8,13 +8,13 @@ source_url: https://github.com/FunplayAI/funplay-cocos-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 306
+stars: 320
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 39
-pushed_at: "2026-09-19T08:49:57Z"
+forks: 41
+pushed_at: "2026-10-07T13:16:34Z"
 ---
 ## What it is
 An embedded MCP server for Cocos Creator editor that enables AI assistants to inspect and automate Cocos projects.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-25T08:33:30Z"
+pushed_at: "2026-10-02T05:22:25Z"
 ---
 ## What it is
 Enables natural language queries about the technologies behind websites and the companies running them, using the StackScan Tech Lookup API. Includes tools for domain technology lookup, company details, technology usage stats, and batch company lookups.

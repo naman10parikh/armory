@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-25T22:18:51Z"
+pushed_at: "2026-10-07T00:29:16Z"
 ---
 ## What it is
 MCP server `Discovery Engine`, catalogued on PulseMCP. Hypothesis-free pattern discovery in tabular data with statistical validation.

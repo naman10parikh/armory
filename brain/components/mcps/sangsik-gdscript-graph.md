@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-08T10:23:04Z"
+pushed_at: "2026-10-06T03:18:24Z"
 ---
 ## What it is
 A function-level call-graph indexer for GDScript/Godot projects, exposed as an MCP server so AI coding assistants can answer questions like 'what calls this function?' or 'what would break if I change this signal?' without re-reading the whole codebase.

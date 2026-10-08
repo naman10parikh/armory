@@ -8,12 +8,12 @@ source_url: https://github.com/badchars/darknet-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 465
+stars: 470
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 53
+forks: 57
 pushed_at: "2026-09-22T21:54:34Z"
 ---
 ## What it is

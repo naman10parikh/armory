@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-04T14:00:15Z"
+pushed_at: "2026-10-04T12:41:12Z"
 ---
 ## What it is
 Enables AI assistants to securely manage and analyze personal finances through natural language, with full control over data via a private PostgreSQL database.

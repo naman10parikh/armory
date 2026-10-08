@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2025-11-19T14:35:27Z"
+pushed_at: "2026-10-06T13:58:43Z"
 ---
 ## What it is
 An MCP server that automates project task breakdown, dependency management, and smart task recommendations, integrating with LLMs like Gemini and OpenAI.

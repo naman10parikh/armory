@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-03T23:59:59Z"
+pushed_at: "2026-10-06T19:53:52Z"
 ---
 ## What it is
 Search API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia results with URL extraction (+image search and engine metadata tools)

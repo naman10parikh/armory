@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T18:17:22Z"
+pushed_at: "2026-10-08T08:33:49Z"
 ---
 ## What it is
 Provides live crypto derivatives data including funding rates, cross-exchange arbitrage, open interest pressure, Fear & Greed index, BTC dominance, and verified signal performance.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T04:22:09Z"
+pushed_at: "2026-10-08T14:22:09Z"
 ---
 ## What it is
 Connects agentic AI to Software AG ARIS platforms, enabling model and object operations via MCP tools.

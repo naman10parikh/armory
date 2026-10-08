@@ -8,14 +8,14 @@ source_url: https://github.com/garrytan/gbrain
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 30473
+stars: 30683
 eval_score: null
 mentions: 16
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 4576
-pushed_at: "2026-10-01T01:26:02Z"
+forks: 4596
+pushed_at: "2026-10-08T14:28:08Z"
 ---
 ## What it is
 Garry's Opinionated OpenClaw/Hermes Agent Brain

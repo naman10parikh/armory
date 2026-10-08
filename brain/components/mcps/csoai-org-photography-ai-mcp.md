@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-26T05:40:15Z"
+pushed_at: "2026-10-08T04:00:38Z"
 ---
 ## What it is
 MCP server `Photography AI`, catalogued on PulseMCP. Python MCP server for photography analysis and image processing tools.

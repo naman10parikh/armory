@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-28T17:08:43Z"
+pushed_at: "2026-10-07T06:06:19Z"
 ---
 ## What it is
 Provides AI assistants with up-to-date legal documents from official sources, enabling accurate legal information retrieval and analysis.

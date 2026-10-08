@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T19:54:12Z"
+pushed_at: "2026-10-06T10:43:03Z"
 ---
 ## What it is
 Real-time SEC Form 4 insider trading data — transactions with post-trade returns, cluster-buy signals, Form 144 early warnings, and 13F institutional holdings. 27 tools + 6 research prompts; free tier available.

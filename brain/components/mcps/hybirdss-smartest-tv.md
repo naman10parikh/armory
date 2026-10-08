@@ -12,8 +12,8 @@ stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-10-01T12:15:48Z"
+forks: 5
+pushed_at: "2026-10-02T00:56:02Z"
 ---
 ## What it is
 MCP server `Smartest TV`, catalogued on PulseMCP. Control smart TVs with natural language, with deep-link support for Netflix, YouTube, and Spotify.

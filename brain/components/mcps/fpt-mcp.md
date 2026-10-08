@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T14:12:51Z"
+pushed_at: "2026-10-02T10:57:11Z"
 ---
 ## What it is
 MCP server for Autodesk Flow Production Tracking (ShotGrid) enabling AI assistants to query, create, update, and delete entities via the ShotGrid API with built-in RAG anti-hallucination and safety layers.

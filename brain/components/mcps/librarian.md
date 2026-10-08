@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-07-28T12:51:41Z"
+pushed_at: "2026-10-01T17:44:16Z"
 ---
 ## What it is
 Provides AI agents with persistent knowledge storage, enabling them to store, search, and retrieve text, documents, and files using semantic and keyword search via MCP tools.

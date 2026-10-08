@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-01T08:41:24Z"
+pushed_at: "2026-10-05T03:25:27Z"
 ---
 ## What it is
 MCP server `Agent Cost`, catalogued on PulseMCP. Analyzes local Claude Code session logs to provide per-tool cost breakdowns, daily spending trends, and optimization suggestions.

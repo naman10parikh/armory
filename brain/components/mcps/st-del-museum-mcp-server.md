@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-05T16:59:02Z"
+pushed_at: "2026-10-05T10:11:31Z"
 ---
 ## What it is
 This server enables AI models to access the Städel Museum's digital collection via OAI-PMH, allowing harvesting of records, retrieval of multilingual metadata, and fetching of high-resolution images.

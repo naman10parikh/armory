@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T08:07:43Z"
+pushed_at: "2026-10-07T13:33:46Z"
 ---
 ## What it is
 Enables searching curated OneHome property listings, fetching property details and photos, comparing homes, and running mortgage calculations from within Claude.

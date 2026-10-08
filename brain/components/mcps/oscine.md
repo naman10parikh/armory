@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T20:06:29Z"
+pushed_at: "2026-10-01T19:24:25Z"
 ---
 ## What it is
 An MCP server that exposes a synthesizer composer's command catalog as tools, enabling Claude to compose, sound-design, and mix in a live browser session.

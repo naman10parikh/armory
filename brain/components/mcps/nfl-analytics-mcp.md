@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T04:15:13Z"
+pushed_at: "2026-10-06T04:16:50Z"
 ---
 ## What it is
 Enables natural-language querying of a local DuckDB warehouse of NFL play-by-play data, converting questions into SQL and returning results.

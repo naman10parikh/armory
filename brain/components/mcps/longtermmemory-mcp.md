@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T00:51:37Z"
+pushed_at: "2026-10-05T19:43:36Z"
 ---
 ## What it is
 A fully local MCP server that gives AI agents persistent, semantic long-term memory without any cloud dependencies.

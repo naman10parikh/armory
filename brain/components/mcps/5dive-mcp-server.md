@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T09:28:10Z"
+pushed_at: "2026-10-02T05:34:16Z"
 ---
 ## What it is
 Exposes the 5dive agent-fleet CLI (tasks, agents, digest) as stdio MCP tools. MIT.

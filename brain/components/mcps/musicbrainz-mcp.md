@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T16:53:15Z"
+pushed_at: "2026-10-07T13:32:37Z"
 ---
 ## What it is
 An MCP server that provides live access to MusicBrainz metadata and Cover Art Archive images, with optional OAuth-based submission of tags, ratings, and collection edits.

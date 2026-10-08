@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-12T14:03:57Z"
+pushed_at: "2026-10-08T08:04:51Z"
 ---
 ## What it is
 Exposes podcast ingestion operations (listing, downloading, transcribing, summarizing, and searching) as MCP tools, with both stdio and HTTP transport, supporting multiple podcasts via configuration.

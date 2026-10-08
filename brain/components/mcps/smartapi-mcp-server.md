@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T02:33:43Z"
+pushed_at: "2026-10-03T01:06:55Z"
 ---
 ## What it is
 Enables integration between MCP-compatible clients and APIs registered in the SmartAPI registry, allowing seamless discovery and interaction with bioinformatics and life sciences APIs through standardized MCP protocols.

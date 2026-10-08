@@ -8,13 +8,13 @@ source_url: https://github.com/seleniumboot/selenium-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-16T01:21:26Z"
+pushed_at: "2026-10-08T03:17:53Z"
 ---
 ## What it is
 Python MCP server for Selenium WebDriver — 84 tools for browser automation, element interactions, assertions, self-healing locators, and codegen for Java TestNG / JUnit 5 / Cucumber / pytest / C# NUnit / Playwright and CI pipelines (GitHub Actions / Jenkins / GitLab CI). No ChromeDriver setup needed

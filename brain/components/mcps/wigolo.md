@@ -8,13 +8,13 @@ source_url: https://github.com/KnockOutEZ/wigolo
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5435
+stars: 5450
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 446
-pushed_at: "2026-10-01T11:35:56Z"
+pushed_at: "2026-10-08T12:00:34Z"
 ---
 ## What it is
 Provides local-first web intelligence over MCP with tools for search, fetch, crawl, extract, cache, find-similar, research, and autonomous agent loops, requiring no API keys.

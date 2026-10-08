@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T17:00:53Z"
+pushed_at: "2026-10-06T19:49:19Z"
 ---
 ## What it is
 A lightweight MCP server that provides cross-project progress tracking tools (list, refresh, read, update, mark) for agents to query and manage work status across multiple tracked projects.

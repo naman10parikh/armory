@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T02:44:34Z"
+pushed_at: "2026-10-02T16:50:17Z"
 ---
 ## What it is
 Enables AI assistants to monitor and control Jandy iAqualink pool and spa equipment, including device status, power toggling, temperature settings, and lighting effects.

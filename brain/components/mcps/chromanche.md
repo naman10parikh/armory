@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-11T23:14:29Z"
+pushed_at: "2026-10-07T08:01:53Z"
 ---
 ## What it is
 Lets any MCP-capable coding agent drive your real, logged-in Chrome through a local MCP server and MV3 extension.

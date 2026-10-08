@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:26:06Z"
+pushed_at: "2026-10-08T02:36:58Z"
 ---
 ## What it is
 Per-agent-pair IAM for A2A, enabling policy definition and enforcement for agent-to-agent calls with EU AI Act compliance.

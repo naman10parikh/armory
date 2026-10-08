@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T03:42:41Z"
+pushed_at: "2026-10-06T16:30:09Z"
 ---
 ## What it is
 Maps a company domain to its official social media URLs and follower counts across LinkedIn, X, Instagram, Facebook, and YouTube.

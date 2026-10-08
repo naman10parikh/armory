@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:46:32Z"
+pushed_at: "2026-10-08T04:33:53Z"
 ---
 ## What it is
 Analyzes and rewrites text to match desired tones (professional, casual, formal, etc.) via MCP protocol, with EU AI Act compliance.

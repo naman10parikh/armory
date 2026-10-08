@@ -8,13 +8,13 @@ source_url: https://github.com/DeepCogNeural/codex-gpt-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-28T21:19:14Z"
+pushed_at: "2026-10-05T03:13:10Z"
 ---
 ## What it is
 Streamable HTTP MCP bridge that allows ChatGPT to delegate code execution requests to a local official Codex MCP server with configurable safety policies.

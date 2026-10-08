@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T20:24:02Z"
+pushed_at: "2026-10-06T01:49:01Z"
 ---
 ## What it is
 An open-source MCP server for sending physical mail (letters, postcards, certified mail) directly from AI agents, with per-piece payment and no account signup needed.

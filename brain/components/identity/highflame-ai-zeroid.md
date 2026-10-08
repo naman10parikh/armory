@@ -8,14 +8,14 @@ source_url: https://github.com/highflame-ai/zeroid
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 204
+stars: 202
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
-forks: 25
-pushed_at: "2026-09-29T13:10:22Z"
+forks: 24
+pushed_at: "2026-10-08T09:27:57Z"
 ---
 ## What it is
 Use when a fleet of autonomous agents needs issued identities with a lifecycle — created, rotated and revoked.

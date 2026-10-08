@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T14:54:54Z"
+pushed_at: "2026-10-07T14:54:44Z"
 ---
 ## What it is
 Captures commitments from LLM conversations into a persistent local task list shown on an edge strip, with tools to add, list, and complete tasks.

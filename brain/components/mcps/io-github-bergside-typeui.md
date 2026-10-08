@@ -8,12 +8,12 @@ source_url: https://github.com/bergside/typeui
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2006
+stars: 2021
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 142
+forks: 143
 pushed_at: "2026-07-04T10:11:58Z"
 ---
 ## What it is

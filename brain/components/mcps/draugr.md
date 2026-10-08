@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T14:12:53Z"
+pushed_at: "2026-10-08T13:50:53Z"
 ---
 ## What it is
 Security scanning for AI agents: SAST, SCA, secrets, IaC, DAST, ranked by real risk.

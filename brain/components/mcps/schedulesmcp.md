@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-13T20:05:17Z"
+pushed_at: "2026-10-04T22:15:39Z"
 ---
 ## What it is
 Enables comparing ocean carrier sailing schedules, transit times, and on-time reliability via AI clients like Claude, Cursor, and Windsurf.

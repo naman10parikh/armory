@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T23:17:45Z"
+pushed_at: "2026-10-06T20:44:20Z"
 ---
 ## What it is
 MCP server for Muovi, Argentina's local services marketplace. Enables discovery of verified service professionals, browsing services and cities, reading reviews, and generating deep-links for task creation.

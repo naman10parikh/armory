@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-29T03:18:16Z"
+pushed_at: "2026-10-08T00:15:24Z"
 ---
 ## What it is
 MCP server `CAN Bus Simulator`, catalogued on PulseMCP. Bridges CAN bus networks with virtual ECU simulation and DBC file decoding for automotive diagnostics, signal monitoring, and vehicle data analysis without physical hardware.

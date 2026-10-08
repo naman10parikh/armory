@@ -13,7 +13,7 @@ related: []
 tags: [mcp, databases]
 stars: 1
 forks: 0
-pushed_at: "2026-09-30T01:10:41Z"
+pushed_at: "2026-10-06T23:14:21Z"
 ---
 ## What it is
 Connect any AI to PostgreSQL, MySQL, or SQL Server — 24 dialect-aware tools for query, schema introspection, optimization, migrations, PII scan, and more. Hosted MCP server with OAuth 2.0 + Bearer auth, free trial available.

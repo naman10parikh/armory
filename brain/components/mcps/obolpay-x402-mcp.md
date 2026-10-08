@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T22:53:33Z"
+pushed_at: "2026-10-06T00:58:58Z"
 ---
 ## What it is
 MCP server for a live x402 payment gateway on Base (USDC). Lets AI agents discover, preview for free, then pay per call — with prepaid gasless payments, signed receipts, and delta delivery.

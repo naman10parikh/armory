@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T20:16:16Z"
+pushed_at: "2026-10-08T04:07:23Z"
 ---
 ## What it is
 MCP server providing access to Kenya and East Africa historical archives, including timelines, independence leaders, cultural heritage sites, ethnic groups guide, oral history resources, and historical documents.

@@ -8,12 +8,12 @@ source_url: https://github.com/quietnotion/barevalue-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-02-18T17:50:05Z"
+pushed_at: "2026-10-08T13:28:43Z"
 ---
 ## What it is
 MCP server `Barevalue`, catalogued on PulseMCP. Podcast order submission, status tracking, and webhook management via the Barevalue API.

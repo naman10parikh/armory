@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-22T04:52:27Z"
+pushed_at: "2026-10-06T05:29:48Z"
 ---
 ## What it is
 A paid MCP server that lets AI agents send SMS messages to US phone numbers via x402 micropayments, with automatic compliance and opt-out handling.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-09-28T23:35:54Z"
+pushed_at: "2026-10-05T17:43:32Z"
 ---
 ## What it is
 MCP server `Kintone`, catalogued on PulseMCP. Integrates with Kintone's low-code platform API, enabling data retrieval, record creation, and workflow automation in Kintone applications.

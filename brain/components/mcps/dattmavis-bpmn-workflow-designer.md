@@ -8,11 +8,11 @@ source_url: https://github.com/dattmavis/bpmn-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 9
 pushed_at: "2026-02-05T03:42:02Z"
 ---
 ## What it is

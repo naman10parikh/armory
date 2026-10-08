@@ -8,13 +8,13 @@ source_url: https://github.com/Cipher208/mcp-ariel-memory
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-24T20:53:48Z"
+pushed_at: "2026-10-08T11:58:18Z"
 ---
 ## What it is
 Enables AI agents to maintain persistent, searchable two-layer memory with 37 tools, hybrid search, knowledge graphs, and enterprise features like authentication and backups.

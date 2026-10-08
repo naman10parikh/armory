@@ -8,12 +8,12 @@ source_url: https://github.com/mustafacagri/ai-quality-gate
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-10-01T07:16:15Z"
+pushed_at: "2026-10-07T18:58:46Z"
 ---
 ## What it is
 MCP server `AI Quality Gate`, catalogued on PulseMCP. Automates code quality checks for AI-generated code through ESLint, Prettier, and optional SonarQube analysis.

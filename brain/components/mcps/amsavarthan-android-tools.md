@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-07-29T09:34:27Z"
+pushed_at: "2026-10-07T06:09:16Z"
 ---
 ## What it is
 MCP server `Android Tools`, catalogued on PulseMCP. Provides Android development tools including ADB device management, app installation, and logcat access.

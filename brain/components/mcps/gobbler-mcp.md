@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T16:06:48Z"
+pushed_at: "2026-10-05T16:06:31Z"
 ---
 ## What it is
 Converts YouTube videos, audio, documents, and web pages to clean markdown with YAML frontmatter, providing AI assistants with structured content via the MCP protocol.

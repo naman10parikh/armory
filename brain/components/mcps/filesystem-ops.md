@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-13T07:36:23Z"
+pushed_at: "2026-10-08T03:16:58Z"
 ---
 ## What it is
 MCP server for performing filesystem operations, enabling file management and manipulation through natural language.

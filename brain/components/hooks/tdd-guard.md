@@ -12,9 +12,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [hook]
-stars: 2355
+stars: 2360
 forks: 188
-pushed_at: "2026-09-14T08:46:39Z"
+pushed_at: "2026-10-05T09:29:32Z"
 ---
 ## What it is
 A community hook, catalogued in awesome-claude-code. A hooks-driven system that monitors file operations in real-time and blocks changes that violate TDD principles.

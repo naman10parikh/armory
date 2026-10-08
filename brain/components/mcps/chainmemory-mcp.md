@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T11:22:38Z"
+pushed_at: "2026-10-07T11:11:06Z"
 ---
 ## What it is
 Cross-model, cryptographically verifiable memory for AI agents, enabling portable, encrypted memory and project state management across different LLMs through the Model Context Protocol.

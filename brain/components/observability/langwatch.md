@@ -8,13 +8,13 @@ source_url: https://github.com/langwatch/langwatch
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 4894
+stars: 4924
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, tracing, guardrails]
-forks: 403
-pushed_at: "2026-10-01T13:56:44Z"
+forks: 408
+pushed_at: "2026-10-08T14:25:48Z"
 ---
 ## What it is
 LangWatch provides real-time LLM analytics, guardrails, and evaluation pipelines with a visual studio for monitoring multi-step agent conversations.

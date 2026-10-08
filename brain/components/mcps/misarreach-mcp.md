@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T17:02:38Z"
+pushed_at: "2026-10-08T07:35:59Z"
 ---
 ## What it is
 MCP server for MisarReach that enables finding, enriching, and scoring leads, running multi-channel outreach (WhatsApp, SMS, push) with AI autopilot, and managing the sales pipeline across 27 tools, 5 prompts, 4 resources, and 4 agent skills.

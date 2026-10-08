@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-12T09:03:00Z"
+pushed_at: "2026-10-07T13:18:06Z"
 ---
 ## What it is
 MCP server `WhatsApp (Electron)`, catalogued on PulseMCP. Connects AI assistants to WhatsApp via a local Electron app with multi-account support and SQLite message storage.

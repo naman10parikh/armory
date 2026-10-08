@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-29T10:23:20Z"
+pushed_at: "2026-10-07T12:42:55Z"
 ---
 ## What it is
 A comprehensive browser automation MCP server providing 149 tools across 13 capability tiers, enabling LLMs to control Chrome/Edge via CDP or BiDi protocols with features like navigation, screenshots, network interception, and more.

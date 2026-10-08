@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T08:39:41Z"
+pushed_at: "2026-10-06T01:08:31Z"
 ---
 ## What it is
 Enables to manage and analyze a Shlink URL-shortener instance with tools for short URLs, visits, tags, domains, redirect rules, QR codes, and Mercure integration.

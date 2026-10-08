@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T06:20:19Z"
+pushed_at: "2026-10-07T18:10:16Z"
 ---
 ## What it is
 Non-AI deterministic Japanese parser that extracts intents, constraints, references, and execution order into structured Task Packets for safe downstream processing.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-29T02:03:55Z"
+pushed_at: "2026-10-08T04:22:31Z"
 ---
 ## What it is
 MCP server `Self-Healing Infrastructure`, catalogued on PulseMCP. Python MCP server for self-healing infrastructure automation.

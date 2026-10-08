@@ -8,7 +8,7 @@ source_url: https://github.com/abhiz123/todoist-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 393
+stars: 392
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

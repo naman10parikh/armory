@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-14T11:44:14Z"
+pushed_at: "2026-10-07T06:42:50Z"
 ---
 ## What it is
 MCP server that helps AI assistants automatically find, filter, and rank the best AI models for a specific task using the OpenRouter API.

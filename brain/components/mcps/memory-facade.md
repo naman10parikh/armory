@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-19T01:27:23Z"
+pushed_at: "2026-10-05T12:36:17Z"
 ---
 ## What it is
 A stateless MCP server that gives coding agents a curated entry point to shared memory, orchestrating Hindsight (facts) and LightRAG (corpora) for automatic routing, URL ingestion, and consistency tooling.

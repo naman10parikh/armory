@@ -8,12 +8,12 @@ source_url: https://github.com/jpisnice/shadcn-ui-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3010
+stars: 3033
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 310
-pushed_at: "2026-05-16T13:09:07Z"
+forks: 313
+pushed_at: "2026-10-03T15:17:41Z"
 ---
 ## What it is
 MCP server `shadcn/ui`, catalogued on PulseMCP. Provides direct access to shadcn/ui v4 components, blocks, and demos through GitHub API integration with automatic framework detection for React, Svelte, and Vue, enabling rapid UI development with component source code, installation scripts, and complete block implementations.

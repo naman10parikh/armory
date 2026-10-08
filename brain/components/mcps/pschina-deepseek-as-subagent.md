@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
-stars: 37
-forks: 9
-pushed_at: "2026-09-28T16:37:03Z"
+stars: 39
+forks: 11
+pushed_at: "2026-10-02T04:40:43Z"
 ---
 ## What it is
 Run DeepSeek as a real sub-agent inside Claude Code / Codex CLI. DeepSeek gets its own 7-tool agent loop (Read/Write/Edit/Bash/Glob/Grep/NotebookEdit) in a sandboxed workspace, not just a single LLM call. Includes token-based command sandbox, pre-flight web-search pattern, and cross-platform installer.

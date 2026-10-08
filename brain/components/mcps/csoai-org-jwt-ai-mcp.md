@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-29T12:54:14Z"
+pushed_at: "2026-10-08T03:46:07Z"
 ---
 ## What it is
 MCP server `JWT AI`, catalogued on PulseMCP. Python MCP server for JSON Web Token generation and validation.

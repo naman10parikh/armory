@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T10:01:25Z"
+pushed_at: "2026-10-06T11:16:05Z"
 ---
 ## What it is
 A temporary placeholder MCP server that reserves the @bikefuchs namespace and exposes an informational tool about the upcoming Bikefuchs production server for bike price comparison.

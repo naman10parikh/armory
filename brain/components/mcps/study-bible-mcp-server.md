@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-09-29T22:49:01Z"
+pushed_at: "2026-10-03T10:50:20Z"
 ---
 ## What it is
 Enables deep Bible study through tools for original language lexicons, morphological analysis, cross-references, and contextual notes.

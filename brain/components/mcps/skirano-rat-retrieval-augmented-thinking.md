@@ -8,7 +8,7 @@ source_url: https://github.com/newideas99/deepseek-thinking-claude-3.5-sonnet-cl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 116
+stars: 115
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

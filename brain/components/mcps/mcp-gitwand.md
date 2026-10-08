@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-09-25T01:12:07Z"
+forks: 9
+pushed_at: "2026-10-08T14:24:34Z"
 ---
 ## What it is
 an MCP server that auto-resolves Git merge conflicts so agents only touch the complex hunks — deterministic pattern engine with confidence scores and a full decision trace, plus merge/rebase preview and hunk-level resolution tools

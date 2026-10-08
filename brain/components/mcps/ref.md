@@ -8,12 +8,12 @@ source_url: https://github.com/ref-tools/ref-tools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1175
+stars: 1179
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 71
-pushed_at: "2026-09-28T22:44:12Z"
+pushed_at: "2026-10-01T22:21:11Z"
 ---
 ## What it is
 MCP server `Ref`, catalogued on PulseMCP. Integrates with Ref.tools documentation search service to provide curated technical documentation access, web search fallback, and URL-to-markdown conversion for efficient developer reference during coding workflows.

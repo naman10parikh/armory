@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T14:21:28Z"
+pushed_at: "2026-10-04T20:44:23Z"
 ---
 ## What it is
 MCP servers for building and running Xident age and identity verification from AI agents. They provide documentation lookup, sandbox test verifications, webhook debugging, and a production runtime with OAuth 2.1 authorization.

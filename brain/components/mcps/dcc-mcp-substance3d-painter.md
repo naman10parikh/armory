@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T12:18:59Z"
+pushed_at: "2026-10-08T09:57:31Z"
 ---
 ## What it is
 Enables AI agents to control Substance 3D Painter, inspecting projects and exporting texture sets via a secure preset-based tool.

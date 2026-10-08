@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
-pushed_at: "2026-09-29T07:49:47Z"
+forks: 12
+pushed_at: "2026-10-05T09:07:30Z"
 ---
 ## What it is
 MCP server for Apollo.io B2B database enabling people and company search, enrichment, and insights through conversational interfaces.

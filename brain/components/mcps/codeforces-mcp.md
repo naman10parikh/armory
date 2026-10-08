@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T18:21:38Z"
+pushed_at: "2026-10-06T11:01:17Z"
 ---
 ## What it is
 Enables coding agents to discover unsolved Codeforces practice problems, analyze tag performance, and inspect submissions, profiles, rating history, and upcoming contests through MCP-compatible clients.

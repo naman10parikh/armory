@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-15T14:40:01Z"
+pushed_at: "2026-10-08T01:06:42Z"
 ---
 ## What it is
 MCP server `Cybersecurity AI`, catalogued on PulseMCP. AI-powered cybersecurity analysis and threat detection tools.

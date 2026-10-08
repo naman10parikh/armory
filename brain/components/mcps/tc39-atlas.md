@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T23:37:16Z"
+pushed_at: "2026-10-08T00:06:49Z"
 ---
 ## What it is
 Provides TC39 proposal indexing and querying capabilities via MCP, including proposal details, changes, and daily synchronized data from the official TC39 dataset.

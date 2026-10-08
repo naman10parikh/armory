@@ -8,13 +8,13 @@ source_url: https://github.com/atlassian/atlassian-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1078
+stars: 1086
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 137
-pushed_at: "2026-09-15T19:26:27Z"
+forks: 139
+pushed_at: "2026-10-07T18:28:41Z"
 ---
 ## What it is
 A cloud-hosted bridge that gives AI tools secure, real-time access to Jira, Confluence, Jira Service Management, Bitbucket, and Compass.

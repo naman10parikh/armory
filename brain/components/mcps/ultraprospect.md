@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T06:41:52Z"
+pushed_at: "2026-10-03T11:35:35Z"
 ---
 ## What it is
 MCP server to turn a place into a defendable prospect list by fusing OpenStreetMap and French company register data, with strict evidence checks and refusal to guess.

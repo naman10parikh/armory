@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-26T05:56:57Z"
+pushed_at: "2026-10-08T02:47:57Z"
 ---
 ## What it is
 MCP server `Bias Detection`, catalogued on PulseMCP. Tools for detecting and mitigating bias in AI model outputs and datasets.

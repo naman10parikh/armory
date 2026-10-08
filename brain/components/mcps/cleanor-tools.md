@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-14T19:58:35Z"
+pushed_at: "2026-10-07T09:28:03Z"
 ---
 ## What it is
 Zero-auth hosted MCP for AI builders: optimize/convert images (WebP/AVIF/JPEG), paste-ready SVG QR codes, plus cited Cleanor Labs data on device storage capacity and next-gen image-format savings. No API key or signup.

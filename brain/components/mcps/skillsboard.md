@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T14:15:48Z"
+pushed_at: "2026-10-08T02:23:15Z"
 ---
 ## What it is
 Skills Board is a free, open-source (MIT) shared library for the AI skills a team recommends, with every skill kept connected to its original source. Agents connect through an authenticated remote MCP server (browser sign-in, no API key to copy) to search team skills and collections, retrieve instal

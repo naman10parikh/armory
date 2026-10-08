@@ -8,7 +8,7 @@ source_url: https://github.com/zinin/sketchup-mcp2
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

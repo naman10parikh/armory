@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T16:55:39Z"
+pushed_at: "2026-10-03T09:05:22Z"
 ---
 ## What it is
 Enables reading and writing your Cronometer food diary from Claude.ai and Claude Code, including food entries, notes, biometrics, exercises, and fasts.

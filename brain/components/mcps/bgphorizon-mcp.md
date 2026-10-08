@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T00:36:26Z"
+pushed_at: "2026-10-02T12:21:47Z"
 ---
 ## What it is
 Enables AI assistants to query global BGP routing intelligence, including network investigation, origin history, reachability, and health checks, with 15 tools plus resources and prompts for incident triage and reporting.

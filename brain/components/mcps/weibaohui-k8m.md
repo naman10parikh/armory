@@ -12,8 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
 stars: 886
-forks: 159
-pushed_at: "2026-09-29T00:01:31Z"
+forks: 160
+pushed_at: "2026-10-03T05:56:03Z"
 ---
 ## What it is
 /🏠 - Provides MCP multi-cluster Kubernetes management and operations, featuring a management interface, logging, and nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.

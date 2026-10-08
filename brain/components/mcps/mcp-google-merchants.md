@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T22:36:16Z"
+pushed_at: "2026-10-04T11:30:24Z"
 ---
 ## What it is
 Enables AI assistants to manage Google Merchant Center accounts via the Merchant API, including product feeds, promotions, data sources, and MCQL reports with read and write operations.

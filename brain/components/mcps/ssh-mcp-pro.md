@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-11T01:34:34Z"
+pushed_at: "2026-10-07T17:32:56Z"
 ---
 ## What it is
 ssh-mcp-pro is a secure Model Context Protocol (MCP) server for SSH automation, enabling clients to open SSH sessions, run commands, manage files, transfer artifacts, create tunnels, and perform package/service operations under policy control.

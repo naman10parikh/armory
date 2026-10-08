@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-04T14:07:36Z"
+pushed_at: "2026-10-04T00:43:10Z"
 ---
 ## What it is
 MCP server for persistent SSH sessions with tmux integration, port forwarding, and SFTP file writes, built for AI agent workflows.

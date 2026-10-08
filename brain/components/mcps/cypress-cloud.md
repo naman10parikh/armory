@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-28T17:23:34Z"
+pushed_at: "2026-10-06T20:15:45Z"
 ---
 ## What it is
 MCP server `Cypress Cloud`, catalogued on PulseMCP. Access Cypress test results and accessibility reports directly in your AI workflow.

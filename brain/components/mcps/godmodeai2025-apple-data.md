@@ -8,12 +8,12 @@ source_url: https://github.com/godmodeai2025/applemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-09-19T19:10:49Z"
+forks: 1
+pushed_at: "2026-10-08T07:43:05Z"
 ---
 ## What it is
 MCP server `Apple Data`, catalogued on PulseMCP. Native macOS MCP server for read-only access to Apple platform data including mail, calendar, contacts, and notes.

@@ -8,11 +8,11 @@ source_url: https://github.com/yurineko73/godot-mcp-native
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 819
+stars: 836
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 73
+forks: 74
 pushed_at: "2026-08-03T07:00:08Z"
 ---
 ## What it is

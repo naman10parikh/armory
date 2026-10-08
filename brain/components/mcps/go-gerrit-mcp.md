@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T06:56:09Z"
+pushed_at: "2026-10-05T21:27:08Z"
 ---
 ## What it is
 An MCP server that exposes Gerrit code review operations as capability-gated tools, enabling AI agents to search and read changes, publish comments, vote, and manage change state, with write capabilities as explicit opt-in.

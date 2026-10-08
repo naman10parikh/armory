@@ -8,13 +8,13 @@ source_url: https://github.com/slettmayer/oebb-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T15:02:59Z"
+pushed_at: "2026-10-05T15:10:31Z"
 ---
 ## What it is
 MCP server for querying Austrian train data including stations, departures, connections, and service alerts via the OEBB API.

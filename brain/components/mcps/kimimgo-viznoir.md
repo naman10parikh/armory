@@ -13,7 +13,7 @@ related: []
 tags: [mcp, research]
 stars: 19
 forks: 5
-pushed_at: "2026-09-21T11:46:32Z"
+pushed_at: "2026-10-08T08:55:34Z"
 ---
 ## What it is
 Cinema-quality science visualization MCP server for CFD/FEA/SPH. 22 tools for rendering, slicing, contouring, volume rendering, and animating OpenFOAM/VTK/CGNS data. Headless EGL/OSMesa.

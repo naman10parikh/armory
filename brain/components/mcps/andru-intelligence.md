@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-15T22:40:59Z"
+pushed_at: "2026-10-07T23:11:35Z"
 ---
 ## What it is
 MCP server `Andru Revenue Intelligence`, catalogued on PulseMCP. Revenue intelligence for SaaS founders: ICP scoring, persona profiling, competitive positioning.

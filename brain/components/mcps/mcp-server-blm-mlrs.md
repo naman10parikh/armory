@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T20:52:30Z"
+pushed_at: "2026-10-02T06:13:41Z"
 ---
 ## What it is
 Enables querying and retrieving details of U.S. BLM geothermal leases from the MLRS database, including search and single-lease lookup.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-08T12:45:17Z"
+pushed_at: "2026-10-03T02:21:32Z"
 ---
 ## What it is
 MCP server `YouTube Intelligence`, catalogued on PulseMCP. Extracts YouTube video metadata, transcripts, and comments via yt-dlp with server-side LLM summarization, entity extraction, topic segmentation, and channel monitoring for content research workflows.

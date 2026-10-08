@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-01T12:51:46Z"
+pushed_at: "2026-10-06T18:56:07Z"
 ---
 ## What it is
 Read-only MCP server for Sui blockchain analytics with 44 tools covering wallets, DeFi, NFTs, token prices, transactions, fund tracing, pools, staking, Move decompilation, and MVR name resolution.

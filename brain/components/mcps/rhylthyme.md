@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-29T10:53:56Z"
+pushed_at: "2026-10-05T21:33:07Z"
 ---
 ## What it is
 MCP server `Rhylthyme`, catalogued on PulseMCP. Creates interactive schedule visualizations with parallel tracks, dependencies, and live timers.

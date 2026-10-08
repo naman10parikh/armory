@@ -12,8 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
-pushed_at: "2026-10-01T00:20:03Z"
+forks: 18
+pushed_at: "2026-10-08T00:19:12Z"
 ---
 ## What it is
 MCP server `LaunchDarkly`, catalogued on PulseMCP. Enables AI agents to manage LaunchDarkly feature flags, AI configs, targeting rules, and gradual rollouts across multiple environments.

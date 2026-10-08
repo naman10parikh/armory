@@ -8,12 +8,12 @@ source_url: https://github.com/tomtorggler/hevy-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 32
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
+forks: 13
 pushed_at: "2025-10-25T10:24:05Z"
 ---
 ## What it is

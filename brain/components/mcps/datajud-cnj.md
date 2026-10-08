@@ -8,13 +8,13 @@ source_url: https://github.com/mcp-dir/datajud-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-30T19:38:35Z"
+pushed_at: "2026-10-06T22:35:39Z"
 ---
 ## What it is
 Enables querying public Brazilian court proceedings metadata and movements via the CNJ/DataJud API, covering multiple courts.

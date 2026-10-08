@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:36:16Z"
+pushed_at: "2026-10-08T01:05:52Z"
 ---
 ## What it is
 An MCP server for issuing and scanning TDM reservation signals (HTTP, HTML, robots.txt, C2PA) and signing training-run liability shields to ensure EU AI Act compliance.

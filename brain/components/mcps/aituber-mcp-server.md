@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T11:50:23Z"
+pushed_at: "2026-10-08T02:32:29Z"
 ---
 ## What it is
 Create AI-powered videos from any MCP-compatible client. Generate videos with AI narration, visuals, and synced captions for short-form and long-form content.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-10-01T01:57:49Z"
+forks: 6
+pushed_at: "2026-10-07T17:21:24Z"
 ---
 ## What it is
 Schedule and manage social media posts across 13 platforms (Bluesky, Threads, Instagram, LinkedIn, Mastodon, YouTube, Facebook, Pinterest, Telegram, Nostr, X/Twitter, Discord, Tumblr and more). OAuth 2.0 + PKCE, 10 tools, draft-first workflow for AI agents.

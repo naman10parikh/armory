@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-13T07:36:21Z"
+pushed_at: "2026-10-08T03:16:27Z"
 ---
 ## What it is
 Enables fetching HTTP resources through the MCP protocol.

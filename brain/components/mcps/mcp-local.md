@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 44
-pushed_at: "2026-09-30T18:17:18Z"
+pushed_at: "2026-10-07T13:03:11Z"
 ---
 ## What it is
 Runs local MCP servers (filesystem, search, read-only shell) exposed via Tailscale Funnel with OAuth, enabling claude.ai to securely access local files and run shell commands through a custom connector.

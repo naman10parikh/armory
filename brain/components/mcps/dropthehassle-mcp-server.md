@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T19:05:03Z"
+pushed_at: "2026-10-08T13:48:37Z"
 ---
 ## What it is
 Enables AI to deploy static sites, search for available domains, and point domains to sites, all without spending money.

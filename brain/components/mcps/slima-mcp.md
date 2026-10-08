@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T21:37:31Z"
+pushed_at: "2026-10-06T00:07:14Z"
 ---
 ## What it is
 Connects Slima books to any MCP-compatible AI tool, enabling book management, file operations, and AI beta reader feedback via natural language.

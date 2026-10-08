@@ -8,13 +8,13 @@ source_url: https://github.com/rehan1020/MCP-India-Stack
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 59
+stars: 60
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-09-26T05:55:21Z"
+pushed_at: "2026-10-02T08:32:59Z"
 ---
 ## What it is
 An offline-first MCP server for Indian financial, tax, and government APIs, providing tools for identity validation (PAN, Aadhaar, GSTIN), tax calculations (Income Tax, TDS, GST), and master data lookups (IFSC, Pincode, HSN/SAC) with zero authentication required.

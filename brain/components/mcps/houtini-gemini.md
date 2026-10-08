@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-09-27T08:21:24Z"
+pushed_at: "2026-10-06T17:06:54Z"
 ---
 ## What it is
 MCP server `Gemini`, catalogued on PulseMCP. Professional integration with Google's Gemini AI models featuring Google Search grounding and deep research capabilities

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:00:32Z"
+pushed_at: "2026-10-06T13:31:39Z"
 ---
 ## What it is
 Open-source human-in-the-loop design review tool that enables AI agents to upload UI screenshots for human feedback, with MCP tools for creating reviews, pinning notes, and getting structured feedback.

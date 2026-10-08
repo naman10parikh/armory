@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T10:37:16Z"
+pushed_at: "2026-10-07T21:31:08Z"
 ---
 ## What it is
 Enables AI agents to access DDG's payable services including checkout/payment conformance, MCP/tool security audits, agent-discovery repair, and buyer-agent smoke probes, with structured payment challenges.

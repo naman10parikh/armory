@@ -8,14 +8,14 @@ source_url: https://github.com/livekit/livekit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 21229
+stars: 21333
 eval_score: 1
 mentions: 2
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2402
-pushed_at: "2026-09-30T15:11:49Z"
+forks: 2426
+pushed_at: "2026-10-08T03:01:11Z"
 ---
 ## What it is
 End-to-end realtime stack for connecting humans and AI

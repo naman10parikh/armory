@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-21T07:02:34Z"
+pushed_at: "2026-10-07T09:32:01Z"
 ---
 ## What it is
 Analyzes code to map behaviors, identify untested gaps, and generate grounded integration tests that actually run.

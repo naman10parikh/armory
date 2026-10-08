@@ -8,11 +8,11 @@ source_url: https://github.com/saileaxh/iida-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 282
+stars: 283
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
+forks: 37
 pushed_at: "2026-05-15T22:31:57Z"
 ---
 ## What it is

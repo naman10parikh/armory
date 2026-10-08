@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T15:06:28Z"
+pushed_at: "2026-10-06T18:48:09Z"
 ---
 ## What it is
 MCP server that gives coding agents content-aware visibility into git worktrees, detecting collisions, redundancy, and irreplaceable work. It provides tools to clean, rescue, and safely manage worktrees across all agents, with git itself refusing to delete the only copy of anything.

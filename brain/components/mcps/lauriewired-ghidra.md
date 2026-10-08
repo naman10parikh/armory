@@ -8,11 +8,11 @@ source_url: https://github.com/lauriewired/ghidramcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10237
+stars: 10699
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1053
+forks: 1105
 pushed_at: "2025-06-23T04:18:18Z"
 ---
 ## What it is

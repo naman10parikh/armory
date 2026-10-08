@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 55
-pushed_at: "2026-10-01T12:37:19Z"
+pushed_at: "2026-10-08T00:33:58Z"
 ---
 ## What it is
 MCP server `Nim Language Server`, catalogued on PulseMCP. Official Nim language server with MCP support for symbol navigation, diagnostics, and type resolution in Nim projects.

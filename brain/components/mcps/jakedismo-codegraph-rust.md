@@ -8,12 +8,12 @@ source_url: https://github.com/jakedismo/codegraph-rust
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 885
+stars: 891
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 93
-pushed_at: "2025-12-20T02:24:45Z"
+pushed_at: "2026-10-06T20:18:37Z"
 ---
 ## What it is
 MCP server `CodeGraph`, catalogued on PulseMCP. Provides high-performance code intelligence and semantic search capabilities through RocksDB graph storage, FAISS vector indexing, and tree-sitter AST parsing to enable real-time code analysis with incremental updates across multiple programming languages.

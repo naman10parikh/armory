@@ -8,12 +8,12 @@ source_url: https://github.com/us/crw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1094
+stars: 1112
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 88
-pushed_at: "2026-09-30T21:34:26Z"
+forks: 92
+pushed_at: "2026-10-07T00:12:26Z"
 ---
 ## What it is
 MCP server `CRW`, catalogued on PulseMCP. Lightweight web scraper and crawler built in Rust, designed as a Firecrawl alternative for AI agents.

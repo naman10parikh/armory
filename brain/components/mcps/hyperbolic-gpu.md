@@ -8,12 +8,12 @@ source_url: https://github.com/hyperboliclabs/hyperbolic-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2025-05-21T23:51:39Z"
+pushed_at: "2026-10-06T22:26:11Z"
 ---
 ## What it is
 MCP server `Hyperbolic GPU`, catalogued on PulseMCP. Integrates with Hyperbolic's decentralized GPU network to discover available instances, rent compute resources, establish SSH connections, and execute remote commands for on-demand machine learning workloads.

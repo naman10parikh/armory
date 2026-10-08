@@ -8,12 +8,12 @@ source_url: https://github.com/floriscornel/teams-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 139
+stars: 143
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 58
-pushed_at: "2026-10-01T02:54:54Z"
+forks: 59
+pushed_at: "2026-10-08T02:53:59Z"
 ---
 ## What it is
 MCP server `Microsoft Teams`, catalogued on PulseMCP. Integrates with Microsoft Teams through Graph API to search messages, manage chats and channels, send messages, create group chats, and handle user/team operations with device code authentication for secure access.

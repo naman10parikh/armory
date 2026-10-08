@@ -8,12 +8,12 @@ source_url: https://github.com/jamesanz/prediction-market-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
-pushed_at: "2026-10-01T13:47:18Z"
+forks: 14
+pushed_at: "2026-10-06T02:08:04Z"
 ---
 ## What it is
 MCP server `Prediction Markets (Polymarket, PredictIt, Kalshi)`, catalogued on PulseMCP. Integrates with Polymarket, PredictIt, and Kalshi to provide real-time prediction market data with calculated odds, contract pricing, and event filtering for market analysis and trading research applications.

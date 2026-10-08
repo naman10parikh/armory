@@ -8,7 +8,7 @@ source_url: https://github.com/pouyahasanamreji/continuum
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 111
+stars: 110
 eval_score: null
 verified_at: 2026-05-27
 related: []

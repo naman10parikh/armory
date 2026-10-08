@@ -8,13 +8,13 @@ source_url: https://github.com/Nauro-AI/nauro
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T13:10:34Z"
+pushed_at: "2026-10-08T07:07:03Z"
 ---
 ## What it is
 The decision system for agentic engineering: keeps your project's decisions, rationale, and rejected paths in plain files and surfaces them to AI coding agents before they plan or change code.

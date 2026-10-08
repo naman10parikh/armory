@@ -13,7 +13,7 @@ related: []
 tags: [mcp, search-data-extraction]
 stars: 20
 forks: 2
-pushed_at: "2026-09-25T21:12:16Z"
+pushed_at: "2026-10-05T23:15:49Z"
 ---
 ## What it is
 🔎 - Highest Accuracy Web Search for AI

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T12:19:16Z"
+pushed_at: "2026-10-08T10:10:16Z"
 ---
 ## What it is
 MCP server that acts as an email gateway for Gmail and Microsoft 365, enabling AI agents to send and read emails via MCP tools, with SMTP/IMAP and REST APIs for email sequencing and automation.

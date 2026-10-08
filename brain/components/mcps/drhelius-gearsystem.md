@@ -8,12 +8,12 @@ source_url: https://github.com/drhelius/gearsystem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 387
+stars: 392
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 65
-pushed_at: "2026-10-01T10:42:18Z"
+pushed_at: "2026-10-06T10:56:36Z"
 ---
 ## What it is
 MCP server `Gearsystem`, catalogued on PulseMCP. Cross-platform Sega Master System, Game Gear, and SG-1000 emulator with embedded MCP server for AI-assisted debugging and hardware inspection.

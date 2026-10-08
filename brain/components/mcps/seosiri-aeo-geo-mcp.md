@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T02:09:53Z"
+pushed_at: "2026-10-02T03:44:02Z"
 ---
 ## What it is
 Enables AI Engine Optimization (AEO) and Generative Engine Optimization (GEO) audits, including llm.txt compliance, content stickiness analysis, and schema validation through natural language.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-09-30T16:46:59Z"
+pushed_at: "2026-10-06T15:07:38Z"
 ---
 ## What it is
 MCP server `arifOS`, catalogued on PulseMCP. Constitutional AI governance kernel that enforces 13 safety rules between language models and tools.

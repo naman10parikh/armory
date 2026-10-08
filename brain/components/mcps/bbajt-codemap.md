@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-09-30T09:46:27Z"
+pushed_at: "2026-10-02T15:56:30Z"
 ---
 ## What it is
 MCP server `CodeMap`, catalogued on PulseMCP. Roslyn-powered C# and VB.NET code analysis with symbol queries, call graphs, and 90%+ token savings.

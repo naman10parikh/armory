@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T04:31:52Z"
+pushed_at: "2026-10-02T02:11:59Z"
 ---
 ## What it is
 Multi-key Gemini TTS MCP server with automatic API key rotation, model fallback, and 30 multilingual voices. Enables text-to-speech generation through MCP tools.

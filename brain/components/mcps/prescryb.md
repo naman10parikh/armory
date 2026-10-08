@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T19:31:42Z"
+pushed_at: "2026-10-07T16:44:50Z"
 ---
 ## What it is
 A remediation orchestrator exposed as an MCP server that provides primitives for SSH host inventory, CVE matching, live advisory lookups, compliance mapping, and Ansible playbook generation.

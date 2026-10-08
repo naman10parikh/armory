@@ -8,12 +8,12 @@ source_url: https://github.com/vgnshiyer/apple-books-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-10-01T14:08:50Z"
+pushed_at: "2026-10-01T16:11:40Z"
 ---
 ## What it is
 MCP server `Apple Books`, catalogued on PulseMCP. Provides access to Apple Books library data, enabling retrieval and search of book collections, highlights, notes, and reading activity for personalized book organization and recommendations.

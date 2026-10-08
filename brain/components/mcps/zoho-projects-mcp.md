@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-29T18:19:04Z"
+pushed_at: "2026-10-02T20:34:53Z"
 ---
 ## What it is
 Connects Zoho Projects with Claude AI to manage projects, tasks, time tracking, and comments through natural language conversations.

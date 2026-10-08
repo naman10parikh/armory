@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T01:32:49Z"
+pushed_at: "2026-10-08T05:15:06Z"
 ---
 ## What it is
 Enables AI agents to manage tasks through a structured lifecycle (todo, in_progress, ai_testing, manual_testing, deployment, completed) with human approval gates, providing a single-user task management system with CLI, REST API, and live updates.

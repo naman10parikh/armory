@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-28T07:50:31Z"
+pushed_at: "2026-10-04T19:54:24Z"
 ---
 ## What it is
 MCP server `Clude`, catalogued on PulseMCP. Cognitive memory system with typed memory categories, differential decay rates, and autonomous dream cycles for persistent AI agent memory.

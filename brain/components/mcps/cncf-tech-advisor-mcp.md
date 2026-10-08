@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T13:29:52Z"
+pushed_at: "2026-10-02T00:37:54Z"
 ---
 ## What it is
 Enables querying the CNCF landscape to search for projects, get detailed information, GitHub metrics, maturity status, and case studies for technology decision support.

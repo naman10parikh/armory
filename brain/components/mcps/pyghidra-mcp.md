@@ -8,13 +8,13 @@ source_url: https://github.com/clearbluejar/pyghidra-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 428
+stars: 436
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 61
-pushed_at: "2026-09-25T06:20:57Z"
+forks: 62
+pushed_at: "2026-10-08T07:39:29Z"
 ---
 ## What it is
 Exposes Ghidra reverse engineering capabilities via MCP, enabling LLMs and agents to analyze binaries, decompile, search, and edit programs headlessly or with GUI integration.

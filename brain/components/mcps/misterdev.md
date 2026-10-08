@@ -8,13 +8,13 @@ source_url: https://github.com/dcondrey/misterdev
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-27T11:33:21Z"
+pushed_at: "2026-10-07T01:59:12Z"
 ---
 ## What it is
 An autonomous, extensible LLM build orchestrator. Give it a repo and a goal; it decomposes the goal into tasks, edits code, and gates every change on build/tests/lint, reverting regressions. Polygot, cost-aware model selection, pluggable via entry points. Ships as an MCP server so any client can dri

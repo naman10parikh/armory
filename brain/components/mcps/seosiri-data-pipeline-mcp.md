@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T08:45:12Z"
+pushed_at: "2026-10-02T03:45:06Z"
 ---
 ## What it is
 A sovereign, high-speed, local-first Big Data Ingestion, Filtering, and Analytical Pipeline Orchestrator.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T09:37:08Z"
+pushed_at: "2026-10-06T06:40:55Z"
 ---
 ## What it is
 Unity Editor adapter for the DCC MCP ecosystem, providing tools to inspect and modify Unity projects, scenes, builds, and diagnostics through a WebSocket bridge.

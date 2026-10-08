@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-26T05:37:40Z"
+pushed_at: "2026-10-08T03:51:23Z"
 ---
 ## What it is
 MCP server `Music Production AI`, catalogued on PulseMCP. Python MCP server for music production assistance and audio tools.

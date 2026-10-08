@@ -8,13 +8,13 @@ source_url: https://github.com/Wawapi/wawapi-image-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T17:44:15Z"
+pushed_at: "2026-10-06T17:45:07Z"
 ---
 ## What it is
 An MCP server that lets Codex generate, edit, and display images via the Wawapi image API using only text content blocks, local file paths, and Markdown, without requiring native image support from the model API.

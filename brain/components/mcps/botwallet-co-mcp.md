@@ -13,7 +13,7 @@ related: []
 tags: [mcp, finance-fintech]
 stars: 4
 forks: 0
-pushed_at: "2026-09-14T16:24:30Z"
+pushed_at: "2026-10-05T17:19:08Z"
 ---
 ## What it is
 Wallet for AI agents. Earn via invoices, spend on other agents and paid APIs, manage USDC on Solana with human-set spending limits and FROST 2-of-2 threshold signing.

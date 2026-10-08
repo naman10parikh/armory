@@ -15,7 +15,7 @@ verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
 forks: 273
-pushed_at: "2026-09-12T02:55:29Z"
+pushed_at: "2026-10-08T06:37:09Z"
 ---
 ## What it is
 Use when what the agent should remember is what actually happened on screen, consolidated into structured memories.
