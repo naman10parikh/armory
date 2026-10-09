@@ -8,12 +8,12 @@ source_url: https://github.com/perplexityai/modelcontextprotocol
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2550
+stars: 2554
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 378
+forks: 381
 pushed_at: "2026-09-25T20:11:17Z"
 ---
 ## What it is

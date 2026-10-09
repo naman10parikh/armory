@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T01:01:03Z"
+pushed_at: "2026-10-07T17:52:20Z"
 ---
 ## What it is
 Drives a browser - or a native Expo/React Native app - and your dev server, putting both on one correlated timeline so a console error and the backend stack trace from the same moment line up. For Claude Code and AI agents.

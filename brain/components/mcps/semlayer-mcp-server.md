@@ -8,13 +8,13 @@ source_url: https://github.com/neocatalystlabs/semlayer
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T08:05:05Z"
+pushed_at: "2026-10-08T15:23:32Z"
 ---
 ## What it is
 Serves an automatically inferred semantic layer from your warehouse over MCP, enabling AI agents to query with correct business context, joins, and filters.

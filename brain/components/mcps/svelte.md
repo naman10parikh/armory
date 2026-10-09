@@ -8,12 +8,12 @@ source_url: https://github.com/sveltejs/ai-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 331
+stars: 332
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 40
-pushed_at: "2026-10-02T05:03:20Z"
+pushed_at: "2026-10-09T09:28:28Z"
 ---
 ## What it is
 MCP server `Svelte`, catalogued on PulseMCP. Official Svelte documentation access and code analysis server that provides up-to-date reference material, playground link generation, and intelligent autofixer capabilities for detecting common patterns, anti-patterns, and migration opportunities in Svelte 5 and SvelteKit projects.

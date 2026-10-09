@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-06T09:26:17Z"
+pushed_at: "2026-10-05T15:05:59Z"
 ---
 ## What it is
 Enables reading and updating relationship data (likes, dislikes, important info, feelings, closeness, notes) for characters in a multi-character system, supporting both private and public relations.

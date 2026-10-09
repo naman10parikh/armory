@@ -8,13 +8,13 @@ source_url: https://github.com/yinnho/aginxbrowser
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 38
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-02T10:39:12Z"
+pushed_at: "2026-10-09T14:00:38Z"
 ---
 ## What it is
 Server-side browser engine for agents.

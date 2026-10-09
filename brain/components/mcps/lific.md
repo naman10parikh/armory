@@ -8,13 +8,13 @@ source_url: https://github.com/VoidNullable/lific
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 65
+stars: 70
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 18
-pushed_at: "2026-09-30T18:18:55Z"
+forks: 17
+pushed_at: "2026-10-09T00:46:07Z"
 ---
 ## What it is
 Self-hosted issue tracker built for agent-driven development. One binary, SQLite storage, MCP-native, with a web UI, REST API, and CLI for the humans.

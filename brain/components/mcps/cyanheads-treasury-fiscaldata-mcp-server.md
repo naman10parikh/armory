@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T19:44:39Z"
+pushed_at: "2026-10-04T06:41:41Z"
 ---
 ## What it is
 Query US Treasury national debt, interest rates, exchange rates, and fiscal datasets via MCP with STDIO or Streamable HTTP.

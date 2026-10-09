@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-01T22:38:41Z"
+pushed_at: "2026-10-09T10:34:39Z"
 ---
 ## What it is
 Enables AI assistants to query, create, update, and propose changes to Infrahub infrastructure data through the Model Context Protocol, with branch isolation and human approval for changes.

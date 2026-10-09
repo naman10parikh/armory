@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T07:50:27Z"
+pushed_at: "2026-10-09T08:27:10Z"
 ---
 ## What it is
 Provides local MCP tools for checking what public crawlers can read from HTTP responses, including crawler readability, response comparison, and discovery file checks.

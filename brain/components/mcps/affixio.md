@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T11:43:16Z"
+pushed_at: "2026-09-17T16:53:05Z"
 ---
 ## What it is
 Enables zero-knowledge proof generation and verification, identity verification, and gate checks for privileged agent actions.

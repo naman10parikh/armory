@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-08-26T00:39:10Z"
+pushed_at: "2026-10-09T13:14:06Z"
 ---
 ## What it is
 MCP server `Stats Compass`, catalogued on PulseMCP. 50+ pandas-powered tools for data loading, cleaning, visualization, and ML workflows

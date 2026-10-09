@@ -8,12 +8,12 @@ source_url: https://github.com/zmolecristian/rustgraph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-09T04:53:17Z"
+pushed_at: "2026-10-06T12:57:06Z"
 ---
 ## What it is
 MCP server `rustgraph`, catalogued on PulseMCP. AST-aware Rust codebase navigation with 5 tools for finding symbols, tracing callers, and analyzing code paths.

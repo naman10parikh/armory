@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-08T16:28:41Z"
+pushed_at: "2026-10-08T20:23:44Z"
 ---
 ## What it is
 MCP server `Templated.io`, catalogued on PulseMCP. Integrates with Templated.io's API for generating images, videos, and PDFs from templates with customizable parameters, template management, and render operations supporting multiple output formats.

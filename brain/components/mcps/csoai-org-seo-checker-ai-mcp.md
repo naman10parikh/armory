@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:43:30Z"
+pushed_at: "2026-10-08T02:55:32Z"
 ---
 ## What it is
 MCP server `SEO Checker AI`, catalogued on PulseMCP. Python MCP server for SEO analysis and optimization recommendations.

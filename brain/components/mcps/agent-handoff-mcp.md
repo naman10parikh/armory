@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-01T21:14:04Z"
+forks: 1
+pushed_at: "2026-10-08T13:07:09Z"
 ---
 ## What it is
 Enables AI agents to exchange structured work items with an auditable lifecycle, supporting send, acknowledge, block, complete, and cancel operations via a shared SQLite-backed inbox.

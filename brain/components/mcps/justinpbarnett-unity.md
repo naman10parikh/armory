@@ -8,12 +8,12 @@ source_url: https://github.com/coplaydev/unity-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14653
+stars: 14789
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1532
-pushed_at: "2026-09-30T20:57:31Z"
+forks: 1537
+pushed_at: "2026-10-08T21:45:49Z"
 ---
 ## What it is
 MCP server `Unity`, catalogued on PulseMCP. Allow MCP clients to perform Unity Editor actions.

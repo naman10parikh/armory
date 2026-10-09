@@ -8,13 +8,13 @@ source_url: https://github.com/coffeenmusic/altium-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 177
+stars: 180
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 51
-pushed_at: "2026-10-02T02:24:40Z"
+forks: 54
+pushed_at: "2026-10-07T00:44:43Z"
 ---
 ## What it is
 Use Claude to control or ask questions about your Altium project.

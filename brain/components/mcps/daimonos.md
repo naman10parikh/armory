@@ -8,13 +8,13 @@ source_url: https://github.com/beardfaceguy/daimonos
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T19:09:19Z"
+pushed_at: "2026-10-08T07:12:15Z"
 ---
 ## What it is
 Agent-optimized MCP server that replaces built-in file, search, exec, and git tools with compact, structured JSON equivalents. Benchmarked 20–45% token savings for AI coding agents.

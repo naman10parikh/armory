@@ -13,7 +13,7 @@ related: []
 tags: [mcp, os-automation]
 stars: 5
 forks: 1
-pushed_at: "2026-09-28T19:56:10Z"
+pushed_at: "2026-10-07T14:25:21Z"
 ---
 ## What it is
 Hybrid computer-use runtime. Fuses accessibility tree + Chrome DevTools Protocol + vision into structured context with per-element confidence. 4 MCP tools (see/act/think/perceive). Continuous awareness engine (Cortex) with freshness + side-effect detection. Works offline with Ollama + local models.

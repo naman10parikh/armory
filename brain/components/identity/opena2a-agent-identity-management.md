@@ -15,7 +15,7 @@ verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
 forks: 23
-pushed_at: "2026-10-02T09:25:37Z"
+pushed_at: "2026-10-09T14:09:06Z"
 ---
 ## What it is
 Use when non-human identities need the same lifecycle a workforce IAM gives people — issue, authorize, audit, revoke.

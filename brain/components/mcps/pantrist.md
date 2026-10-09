@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T03:09:55Z"
+pushed_at: "2026-10-09T06:25:54Z"
 ---
 ## What it is
 Manage your Pantrist pantry, shopping list, recipes, and weekly meal plan from Claude. The server wraps the same public REST API that powers the iOS, Android, and web apps, so your changes show up in real time on every device. * "What's on my shopping list?" * "Add milk, eggs, and that brand of oliv

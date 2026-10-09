@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
-stars: 773
-forks: 119
-pushed_at: "2026-10-01T05:35:56Z"
+stars: 790
+forks: 125
+pushed_at: "2026-10-04T14:35:22Z"
 ---
 ## What it is
 MCP server exposing SSH control for Linux and Windows servers via Model Context Protocol. Securely execute remote shell commands with password or SSH key authentication.

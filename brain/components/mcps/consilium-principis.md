@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T18:02:12Z"
+pushed_at: "2026-10-08T10:35:09Z"
 ---
 ## What it is
 A personal board of AI advisors grounded in public-domain texts, with a fail-closed fidelity contour: every quote is checked word-for-word against its source by code, or the advisor abstains. Runs locally as a stdio MCP server.

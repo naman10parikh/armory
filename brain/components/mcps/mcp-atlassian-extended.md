@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T18:22:31Z"
+pushed_at: "2026-10-08T16:03:42Z"
 ---
 ## What it is
 An MCP server that extends Jira and Confluence with tools for issue management, agile boards, attachments, and calendars.

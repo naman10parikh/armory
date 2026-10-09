@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-02T08:22:09Z"
+pushed_at: "2026-10-08T19:17:50Z"
 ---
 ## What it is
 User-owned shared memory for AI agents, providing a persistent, curated knowledge layer with hybrid search and cross-agent coordination via Postgres + pgvector.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T10:49:35Z"
+pushed_at: "2026-10-09T11:22:30Z"
 ---
 ## What it is
 A local Google Drive MCP server with full permission management (share, list, remove permissions), enabling AI agents to manage file sharing and access beyond the official connector.

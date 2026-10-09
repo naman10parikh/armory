@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-10-02T06:59:08Z"
+forks: 1
+pushed_at: "2026-10-09T08:58:51Z"
 ---
 ## What it is
 The trust-and-settlement rails of the agent economy: identity, trust, escrow, metering, arbitration, compute-carbon ledger, covenant, provenance, offsets, ERC-8004 bridge, surety, notary, and discovery — plus sellable measurement/CAD services. Durable, machine-checkable invariants, free rails.

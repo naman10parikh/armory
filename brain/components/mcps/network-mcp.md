@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T02:28:04Z"
+pushed_at: "2026-10-04T19:16:36Z"
 ---
 ## What it is
 Enables supervised web form assistance with ChatGPT, opening pages visibly, discovering opportunities, and requiring user approval before any fill actions.

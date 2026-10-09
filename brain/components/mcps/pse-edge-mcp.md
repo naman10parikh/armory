@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T13:35:08Z"
+pushed_at: "2026-10-04T04:21:33Z"
 ---
 ## What it is
 Provides unofficial access to Philippine Stock Exchange data including quotes, price history, disclosures, financial reports, and market data via MCP.

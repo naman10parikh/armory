@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T16:23:21Z"
+pushed_at: "2026-10-07T20:55:33Z"
 ---
 ## What it is
 Searches UK electronics products across multiple retailers, compares prices, and provides purchase links.

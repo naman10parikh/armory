@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-17T06:20:22Z"
+pushed_at: "2026-10-07T16:29:32Z"
 ---
 ## What it is
 MCP server for VAST Data administration, enabling AI assistants to monitor, list, and manage VAST clusters.

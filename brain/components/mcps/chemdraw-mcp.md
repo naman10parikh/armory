@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-02T10:54:26Z"
+pushed_at: "2026-10-08T18:17:58Z"
 ---
 ## What it is
 Enables generation of chemical structures, reactions, spectra, titration curves, 3D models, and more from natural language or SMILES, using RDKit for offline rendering and supporting formats like PNG, SVG, CDXML, and Anki decks.

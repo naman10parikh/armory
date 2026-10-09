@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T18:55:02Z"
+pushed_at: "2026-10-06T18:54:18Z"
 ---
 ## What it is
 This MCP server enables Codex to generate images and videos using Ergouzi's self-developed media generation models.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T09:22:27Z"
+pushed_at: "2026-10-08T14:44:50Z"
 ---
 ## What it is
 A multi-tenant memory and reasoning substrate for AI agents that provides tenant-isolated, append-only, and auditable memory with vertical business engines for procurement, sales, project management, and more, exposed via MCP and REST.

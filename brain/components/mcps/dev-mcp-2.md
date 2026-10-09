@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T08:59:04Z"
+pushed_at: "2026-10-07T06:07:05Z"
 ---
 ## What it is
 A self-contained Docker Compose deployment that exposes MCP tools for files, shell commands, background processes, and Git operations, enabling ChatGPT to work with a host directory via OAuth authentication.

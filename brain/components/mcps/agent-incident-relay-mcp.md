@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:25:36Z"
+pushed_at: "2026-10-08T02:36:50Z"
 ---
 ## What it is
 Broadcasts Article 73 incident reports simultaneously to EU AI Act, DORA, NIS2, GDPR, and ISO 42001 regulators, with escalation workflows and audit trails.

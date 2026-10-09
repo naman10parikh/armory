@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T08:44:21Z"
+pushed_at: "2026-10-05T10:25:22Z"
 ---
 ## What it is
 Guck is a tiny, MCP-first telemetry store for agentic debugging. It provides token-efficient log analytics by capturing JSONL telemetry events and exposing a minimal MCP toolset for fast, filtered queries.

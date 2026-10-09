@@ -8,11 +8,11 @@ source_url: https://github.com/hunter-arton/google_search_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2025-10-06T11:45:59Z"
 ---
 ## What it is

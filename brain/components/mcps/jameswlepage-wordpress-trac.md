@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-09-29T13:06:49Z"
+pushed_at: "2026-10-06T13:05:49Z"
 ---
 ## What it is
 MCP server `WordPress Trac`, catalogued on PulseMCP. Provides access to WordPress.org Trac development data through public CSV and RSS endpoints, enabling searches across 60,000+ tickets, detailed ticket retrieval with metadata and comments, changeset information with diff content, and recent development activity monitoring for WordPress core contributors and plugin developers.

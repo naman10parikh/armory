@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T15:56:52Z"
+pushed_at: "2026-10-08T16:02:57Z"
 ---
 ## What it is
 MCP server delivering interactive MCP Apps UI for Megamarket shopping, enabling search, product details, cart, and checkout through native interfaces within the chat.

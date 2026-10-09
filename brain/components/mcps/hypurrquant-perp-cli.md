@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
-stars: 38
+stars: 39
 forks: 7
-pushed_at: "2026-09-04T03:15:32Z"
+pushed_at: "2026-10-05T06:03:31Z"
 ---
 ## What it is
 Multi-DEX perpetual futures trading MCP server for Pacifica (Solana), Hyperliquid (HyperEVM), and Lighter (Ethereum). 18 tools for market data, trade execution with dry-run safety, funding rate arbitrage scanning, portfolio analytics, and cross-exchange comparison.

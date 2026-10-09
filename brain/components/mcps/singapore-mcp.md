@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T12:06:31Z"
+pushed_at: "2026-10-09T12:11:46Z"
 ---
 ## What it is
 Enables interaction with Singapore public data including datasets, real-time traffic, weather, and geospatial services through MCP.

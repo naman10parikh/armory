@@ -8,7 +8,7 @@ source_url: https://github.com/brandonyoungdev/tldx
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1928
+stars: 1929
 eval_score: null
 verified_at: 2026-05-27
 related: []

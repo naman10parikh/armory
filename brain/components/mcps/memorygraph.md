@@ -8,7 +8,7 @@ source_url: https://github.com/memory-graph/memory-graph
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 249
+stars: 251
 eval_score: null
 verified_at: 2026-05-27
 related: []

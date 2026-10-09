@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T20:31:19Z"
+pushed_at: "2026-10-06T15:45:08Z"
 ---
 ## What it is
 Enables LLMs to answer Berserk observability questions by calling verified KQL tools instead of hand-authoring queries, with role-based tool filtering and automated query discovery.

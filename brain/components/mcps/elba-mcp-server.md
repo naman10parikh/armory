@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T00:03:10Z"
+pushed_at: "2026-10-07T08:44:14Z"
 ---
 ## What it is
 Manage voice AI agents from Claude Code, Cursor, VS Code, or any MCP-compatible assistant.

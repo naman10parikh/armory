@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T16:49:11Z"
+pushed_at: "2026-10-02T15:23:58Z"
 ---
 ## What it is
 Enables AI agents and MCP clients to manage AutoDL GPU instances programmatically, including creating, listing, powering on/off, executing commands, transferring files, and enforcing automatic shutdown.

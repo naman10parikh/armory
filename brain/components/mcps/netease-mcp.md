@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T16:32:14Z"
+pushed_at: "2026-10-05T16:37:16Z"
 ---
 ## What it is
 MCP server that enables AI assistants to search and retrieve music data (songs, lyrics, playlists, albums, artists) from Netease Cloud Music.

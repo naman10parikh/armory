@@ -8,12 +8,12 @@ source_url: https://github.com/elastic/mcp-server-elasticsearch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 720
+stars: 717
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 158
-pushed_at: "2026-10-02T07:47:40Z"
+pushed_at: "2026-10-09T11:47:42Z"
 ---
 ## What it is
 MCP server `Elasticsearch`, catalogued on PulseMCP. Enables natural language interaction with Elasticsearch clusters for listing indices, inspecting field mappings, and executing Query DSL searches with automatic text highlighting

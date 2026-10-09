@@ -8,13 +8,13 @@ source_url: https://github.com/mutonby/openshorts
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5893
+stars: 6350
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1341
-pushed_at: "2026-10-01T17:07:30Z"
+forks: 1421
+pushed_at: "2026-10-09T10:03:45Z"
 ---
 ## What it is
 OpenShorts turns long videos into vertical clips readys for Social Media posting

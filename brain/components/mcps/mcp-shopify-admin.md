@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T12:04:59Z"
+pushed_at: "2026-10-04T11:30:59Z"
 ---
 ## What it is
 Enables AI agents to manage Shopify store operations through the Admin GraphQL API, including products, orders, customers, inventory, and discounts via natural language, with safeguards for destructive actions and cost tracking.

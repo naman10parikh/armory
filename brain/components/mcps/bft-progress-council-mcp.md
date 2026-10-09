@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T05:47:13Z"
+pushed_at: "2026-10-08T04:18:15Z"
 ---
 ## What it is
 5-voter Byzantine council halts agentic loops when no real progress is happening, preventing token waste on infinite spins.

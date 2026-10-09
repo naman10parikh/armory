@@ -8,11 +8,11 @@ source_url: https://github.com/yuchenssr/mindmap-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 239
+stars: 240
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
+forks: 23
 pushed_at: "2025-05-20T12:49:06Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-02T12:12:37Z"
+pushed_at: "2026-10-09T10:40:23Z"
 ---
 ## What it is
 glama.json already carries one, so this may prefill

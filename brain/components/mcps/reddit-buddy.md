@@ -8,11 +8,11 @@ source_url: https://github.com/karanb192/reddit-mcp-buddy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 841
+stars: 845
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 104
+forks: 106
 pushed_at: "2026-08-17T09:42:37Z"
 ---
 ## What it is

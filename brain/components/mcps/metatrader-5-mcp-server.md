@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 80
-pushed_at: "2026-09-28T00:06:02Z"
+forks: 79
+pushed_at: "2026-10-05T00:06:29Z"
 ---
 ## What it is
 Enables AI assistants to connect to MetaTrader 5 for trading, market data access, and account management through the Model Context Protocol.

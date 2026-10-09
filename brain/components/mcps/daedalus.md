@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-10-02T13:12:03Z"
+forks: 6
+pushed_at: "2026-10-07T06:27:21Z"
 ---
 ## What it is
 Enables driving a real Chrome instance remotely through MCP, including per-tab control, JavaScript evaluation, screenshots, cookie and network capture, and CDP fallback with token-based authentication.

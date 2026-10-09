@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T18:17:22Z"
+pushed_at: "2026-10-05T09:20:42Z"
 ---
 ## What it is
 One config, one CLI that turns your databases (Postgres, MySQL, SQLite, MongoDB) into MCP servers for Claude, GPT, Cursor, and any MCP-compatible agent.

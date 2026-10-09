@@ -8,13 +8,13 @@ source_url: https://github.com/heroku/heroku-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 81
+stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
 forks: 30
-pushed_at: "2026-10-02T02:00:45Z"
+pushed_at: "2026-10-06T18:21:56Z"
 ---
 ## What it is
 MCP server `Heroku`, catalogued on PulseMCP. Facilitate seamless interaction between LLMs and the Heroku Platform.

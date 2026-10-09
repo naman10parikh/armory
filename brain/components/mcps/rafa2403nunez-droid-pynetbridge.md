@@ -8,12 +8,12 @@ source_url: https://github.com/rafa2403nunez-droid/pynetbridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-09-29T08:41:52Z"
+forks: 3
+pushed_at: "2026-10-06T07:59:09Z"
 ---
 ## What it is
 MCP server `PyNet Bridge`, catalogued on PulseMCP. Bridges AI agents with PyNet Platform for BIM and engineering automation in Autodesk tools.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T15:09:35Z"
+pushed_at: "2026-10-06T10:39:39Z"
 ---
 ## What it is
 MCP server `DataDoe`, catalogued on PulseMCP. Connects to Amazon Seller Central, Vendor Central, and Amazon Ads APIs with managed authentication and rate limiting.

@@ -8,14 +8,14 @@ source_url: https://github.com/microsoft/graphrag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 36193
+stars: 36276
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 3827
-pushed_at: "2026-09-28T07:34:36Z"
+forks: 3840
+pushed_at: "2026-10-08T18:30:29Z"
 ---
 ## What it is
 A modular graph-based Retrieval-Augmented Generation (RAG) system

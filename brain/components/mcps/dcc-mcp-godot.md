@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T10:46:08Z"
+pushed_at: "2026-10-09T08:49:39Z"
 ---
 ## What it is
 Enables Godot 4 editor interaction through MCP, including project/scene inspection, script writing, and a 2D roguelike skill for AI agents.

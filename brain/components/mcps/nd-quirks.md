@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T18:42:07Z"
+pushed_at: "2026-10-09T00:04:39Z"
 ---
 ## What it is
 An MCP Server that leverages notes written in Markdown, tailored for developing Cisco Nexus Dashboard applications using the REST API.

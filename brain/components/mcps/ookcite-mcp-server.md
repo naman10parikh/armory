@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T13:44:07Z"
+pushed_at: "2026-10-04T19:17:24Z"
 ---
 ## What it is
 An MCP server that validates DOIs, formats citations, manages bibliography collections, and catches fabricated references, returning citation metadata only. It works with MCP clients over stdio and supports both basic and API-key-based usage.

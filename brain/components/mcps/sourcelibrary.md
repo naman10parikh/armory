@@ -8,12 +8,12 @@ source_url: https://github.com/embassy-of-the-free-mind/sourcelibrary-v2
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-10-02T13:40:15Z"
+forks: 4
+pushed_at: "2026-10-09T10:34:23Z"
 ---
 ## What it is
 MCP server `Source Library`, catalogued on PulseMCP. Search thousands of rare pre-modern texts translated to English across philosophy, religion, and science.

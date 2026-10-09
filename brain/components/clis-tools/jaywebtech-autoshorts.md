@@ -8,13 +8,13 @@ source_url: https://github.com/JayWebtech/autoshorts
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1103
+stars: 1218
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 212
+forks: 228
 pushed_at: "2026-08-02T15:05:33Z"
 ---
 ## What it is

@@ -8,11 +8,11 @@ source_url: https://github.com/steipete/claude-code-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1313
+stars: 1312
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 174
+forks: 173
 pushed_at: "2026-05-15T08:26:29Z"
 ---
 ## What it is

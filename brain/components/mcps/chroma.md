@@ -8,11 +8,11 @@ source_url: https://github.com/chroma-core/chroma-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 598
+stars: 599
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 116
+forks: 117
 pushed_at: "2025-09-17T20:20:13Z"
 ---
 ## What it is

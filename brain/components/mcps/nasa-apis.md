@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 16
-pushed_at: "2026-09-30T20:24:12Z"
+pushed_at: "2026-10-09T01:53:01Z"
 ---
 ## What it is
 MCP server `NASA APIs`, catalogued on PulseMCP. Integrates with NASA and JPL APIs to provide access to astronomy images, satellite data, space weather information, Mars rover photos, and more through a unified interface built with TypeScript.

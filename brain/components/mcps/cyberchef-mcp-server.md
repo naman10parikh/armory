@@ -8,13 +8,13 @@ source_url: https://github.com/doublegate/CyberChef-MCP
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T05:21:49Z"
+pushed_at: "2026-10-04T18:28:11Z"
 ---
 ## What it is
 Enables AI assistants to execute 463 CyberChef data manipulation operations—including encryption, encoding, and forensic analysis—as MCP tools.

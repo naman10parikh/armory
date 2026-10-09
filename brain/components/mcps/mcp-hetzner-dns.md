@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T11:15:34Z"
+pushed_at: "2026-10-07T07:18:39Z"
 ---
 ## What it is
 An MCP server for managing Hetzner DNS zones and RRSets via the Hetzner Cloud API. It enables listing, creating, updating, deleting, importing/exporting zone files, and managing protection and TTLs from MCP clients.

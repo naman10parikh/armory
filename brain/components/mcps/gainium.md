@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T14:51:41Z"
+pushed_at: "2026-10-03T04:17:28Z"
 ---
 ## What it is
 Read and manage Gainium DCA/Combo/Grid bots, deals, balances, backtests, the crypto screener, and curated strategy presets via MCP.

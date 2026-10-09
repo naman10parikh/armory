@@ -8,13 +8,13 @@ source_url: https://github.com/leancoderkavy/premiere-pro-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 312
+stars: 343
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 56
-pushed_at: "2026-10-02T12:56:22Z"
+forks: 66
+pushed_at: "2026-10-09T11:14:00Z"
 ---
 ## What it is
 Enables AI assistants to fully control Adobe Premiere Pro through 269 tools across 28 modules for video editing tasks like importing media, editing timelines, applying effects, and exporting.

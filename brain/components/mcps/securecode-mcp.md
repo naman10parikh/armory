@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T12:09:47Z"
+pushed_at: "2026-10-04T20:20:29Z"
 ---
 ## What it is
 Standalone MCP server that provides security scanning, project mapping, and vulnerability fix generation to AI coding assistants.

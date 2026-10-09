@@ -12,8 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-10-02T13:04:44Z"
+forks: 0
+pushed_at: "2026-10-05T14:22:17Z"
 ---
 ## What it is
 MCP server `Sherlock`, catalogued on PulseMCP. .NET assembly introspection and reflection analysis

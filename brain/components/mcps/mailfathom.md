@@ -8,13 +8,13 @@ source_url: https://github.com/Krzysztof318/MailFathom
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T17:10:56Z"
+pushed_at: "2026-10-09T08:48:11Z"
 ---
 ## What it is
 A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service.

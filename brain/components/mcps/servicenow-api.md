@@ -8,13 +8,13 @@ source_url: https://github.com/Knuckles-Team/servicenow-api
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-30T16:13:36Z"
+pushed_at: "2026-10-09T08:52:39Z"
 ---
 ## What it is
 MCP server enabling interaction with ServiceNow API for managing incidents, CMDB, change management, and other ServiceNow operations via natural language.

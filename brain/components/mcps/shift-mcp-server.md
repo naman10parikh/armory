@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-20T21:13:10Z"
+pushed_at: "2026-10-07T12:45:42Z"
 ---
 ## What it is
 A lightweight coordination layer for multiple AI agents working on the same codebase, providing check-in and check-out tools via STDIO or Streamable HTTP.

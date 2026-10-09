@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T10:29:05Z"
+pushed_at: "2026-10-04T14:38:45Z"
 ---
 ## What it is
 MCP server for browser automation that drives Chrome via an extension, preserving login state and offering 45 tools for navigation, interaction, scraping, and screenshots.

@@ -12,8 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-10-02T12:02:07Z"
+forks: 7
+pushed_at: "2026-10-06T03:38:00Z"
 ---
 ## What it is
 MCP server `Gradescope`, catalogued on PulseMCP. Integrates with Gradescope for course management, grading workflows, regrade review, and AI-assisted grading.

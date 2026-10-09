@@ -12,8 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
-pushed_at: "2026-10-01T03:13:14Z"
+forks: 13
+pushed_at: "2026-10-09T12:31:57Z"
 ---
 ## What it is
 MCP server `Apache Pinot`, catalogued on PulseMCP. Integrates with Apache Pinot to enable real-time analytics queries through SQL execution, table schema inspection, segment analysis, and cluster metadata access for operational monitoring and business intelligence workflows.

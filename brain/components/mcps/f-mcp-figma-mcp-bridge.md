@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-27T10:41:46Z"
+pushed_at: "2026-10-08T13:35:02Z"
 ---
 ## What it is
 Enables AI assistants to read, analyze, and modify Figma designs, manage design tokens, and create prototype connections, all while keeping data local.

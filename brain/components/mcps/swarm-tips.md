@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-02T00:18:10Z"
+pushed_at: "2026-10-03T16:19:13Z"
 ---
 ## What it is
 MCP server `Swarm Tips`, catalogued on PulseMCP. AI agent platform for on-chain earnings — games, bounties, and video generation across Solana and Base.

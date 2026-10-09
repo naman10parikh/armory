@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 161
+stars: 162
 forks: 10
-pushed_at: "2026-10-02T05:00:13Z"
+pushed_at: "2026-10-09T02:13:55Z"
 ---
 ## What it is
 Organizational knowledge base for AI agents. Vault-scoped Markdown docs, structured PostgreSQL tables, and files unified by a URI graph. Hybrid semantic + BM25 search, Git-backed version history, multi-tenant ACL with public-share links. Works with Claude Code, Cursor, Windsurf via `npx akb-mcp`.

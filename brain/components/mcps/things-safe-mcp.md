@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T00:29:46Z"
+pushed_at: "2026-10-03T18:56:55Z"
 ---
 ## What it is
 Enables safe read and edit operations on Things 3 tasks, projects, and checklists using only documented AppleScript and URL scheme APIs, without accessing private databases.

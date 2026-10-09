@@ -8,13 +8,13 @@ source_url: https://github.com/ClawCall-Dev/ClawCall
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-28T00:53:13Z"
+pushed_at: "2026-10-06T00:37:51Z"
 ---
 ## What it is
 Enables AI agents to make real outbound phone calls to US/Canada numbers, handle conversations, and return transcripts and recordings via the Model Context Protocol.

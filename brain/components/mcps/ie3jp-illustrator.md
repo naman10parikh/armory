@@ -8,11 +8,11 @@ source_url: https://github.com/ie3jp/illustrator-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 141
+stars: 156
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
+forks: 20
 pushed_at: "2026-09-29T15:45:12Z"
 ---
 ## What it is

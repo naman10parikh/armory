@@ -8,12 +8,12 @@ source_url: https://github.com/mcpware/cross-code-organizer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 384
+stars: 382
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 33
-pushed_at: "2026-09-13T04:30:01Z"
+pushed_at: "2026-10-06T12:36:53Z"
 ---
 ## What it is
 MCP server `Claude Code Organizer`, catalogued on PulseMCP. Visual dashboard for managing Claude Code memories, skills, MCP servers, and hooks across scope hierarchies with drag-and-drop.

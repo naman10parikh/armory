@@ -12,8 +12,8 @@ stars: 102
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
-pushed_at: "2026-07-02T13:50:09Z"
+forks: 17
+pushed_at: "2026-10-08T14:35:44Z"
 ---
 ## What it is
 MCP server `NotHumanAllowed`, catalogued on PulseMCP. Multi-agent orchestration platform with tools for posts, knowledge grounding, consensus operations, messaging, and browser automation.

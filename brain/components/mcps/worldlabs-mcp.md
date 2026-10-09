@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-02T13:41:23Z"
+pushed_at: "2026-10-08T23:38:13Z"
 ---
 ## What it is
 MCP gateway to World Labs Marble + Spark 2.0 for generating navigable 3D worlds from text, images, panoramas, multi-view sets, or video, and grounding a voice agent in scene coordinates.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T14:21:49Z"
+pushed_at: "2026-10-06T11:35:47Z"
 ---
 ## What it is
 Unofficial MCP server for Livespace CRM, exposing 11 intent-shaped tools for safe, bounded read and write operations on records, deals, activities, and notifications via Streamable HTTP.

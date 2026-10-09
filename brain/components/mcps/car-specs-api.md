@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T10:13:39Z"
+pushed_at: "2026-10-08T22:02:31Z"
 ---
 ## What it is
 Search, localized specs (180 spec types across 19 categories), compare, and structured filters over 102k+ vehicle variants in 19 languages, from cars-data.com.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 44
-pushed_at: "2026-10-02T11:23:23Z"
+pushed_at: "2026-10-08T18:14:31Z"
 ---
 ## What it is
 MCP server `AgentQL`, catalogued on PulseMCP. Extracts structured data from web pages based on natural language descriptions, converting website content into JSON format without custom scraping code.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T03:38:55Z"
+pushed_at: "2026-10-04T00:51:25Z"
 ---
 ## What it is
 MCP server for interacting with local Power BI Desktop and .pbip projects, enabling DAX queries, model documentation, measure editing, and PBIR visual management via natural language.

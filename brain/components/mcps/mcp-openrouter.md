@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T13:59:07Z"
+pushed_at: "2026-10-08T08:42:00Z"
 ---
 ## What it is
 A Python MCP server that lets MCP hosts call OpenRouter models for chat, image generation, embeddings, and model search via FastMCP with .env support and retry handling.

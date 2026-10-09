@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-02T12:25:31Z"
+pushed_at: "2026-10-08T21:56:40Z"
 ---
 ## What it is
 Enables AI agents to maintain persistent memory across sessions by capturing conversations, extracting durable knowledge, and injecting relevant context, supporting various MCP-compatible platforms.

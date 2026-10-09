@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T17:40:23Z"
+pushed_at: "2026-10-03T21:45:18Z"
 ---
 ## What it is
 Enables users to ask questions about their Salesforce org in plain language, with answers grounded in offline metadata vault and read-only live org access.

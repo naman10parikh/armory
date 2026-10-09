@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T04:44:55Z"
+pushed_at: "2026-10-08T04:44:53Z"
 ---
 ## What it is
 MCP server providing typed, safety-gated access to UniFi Network consoles via the official API, enabling management of devices, clients, networks, WiFi, firewall policies, and more.

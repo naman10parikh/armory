@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T08:19:07Z"
+pushed_at: "2026-10-05T14:34:24Z"
 ---
 ## What it is
 A buyer-side HTTP 402 runtime and agent-commerce surface inspector for autonomous agents, enabling inspection of paid-action surfaces and execution of payment loops.

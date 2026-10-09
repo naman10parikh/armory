@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T17:50:37Z"
+pushed_at: "2026-10-06T00:37:23Z"
 ---
 ## What it is
 Local MCP server to index your codebase once and search it across AI sessions with keyword, semantic, or hybrid search, keeping all data on disk.

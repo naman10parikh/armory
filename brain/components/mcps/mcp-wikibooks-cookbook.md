@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T22:46:13Z"
+pushed_at: "2026-10-08T19:04:38Z"
 ---
 ## What it is
 Search and read recipes from the English Wikibooks Cookbook, with tools to rescale ingredient lists to a target number of servings.

@@ -8,13 +8,13 @@ source_url: https://github.com/dbcls/togomcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-10-01T11:41:34Z"
+forks: 9
+pushed_at: "2026-10-09T06:25:28Z"
 ---
 ## What it is
 An MCP server that gives AI assistants access to biological and biomedical RDF databases via SPARQL at the RDF Portal, as well as selected REST APIs (NCBI E-utilities, UniProt, ChEMBL, PDB, Reactome, Rhea, MeSH, and more).

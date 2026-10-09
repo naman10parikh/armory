@@ -8,14 +8,14 @@ source_url: https://github.com/openai/codex
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 127607
+stars: 128373
 eval_score: null
 mentions: 273
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 19974
-pushed_at: "2026-10-02T12:42:28Z"
+forks: 20131
+pushed_at: "2026-10-09T13:15:57Z"
 ---
 ## What it is
 Lightweight coding agent that runs in your terminal

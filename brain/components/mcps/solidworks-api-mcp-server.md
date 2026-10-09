@@ -8,13 +8,13 @@ source_url: https://github.com/kilwizac/solidworks-api-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-20T09:53:33Z"
+forks: 3
+pushed_at: "2026-10-05T20:53:33Z"
 ---
 ## What it is
 Enables search and lookup of SolidWorks API documentation, including methods, interfaces, enums, and examples, via natural language queries.

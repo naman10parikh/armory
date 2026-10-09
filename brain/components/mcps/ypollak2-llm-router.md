@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 92
+stars: 96
 forks: 12
-pushed_at: "2026-10-02T13:41:27Z"
+pushed_at: "2026-10-09T14:13:55Z"
 ---
 ## What it is
 Subscription-aware LLM router for Claude Code. Routes tasks to 20+ providers (OpenAI, Gemini, Groq, Ollama, Codex) based on complexity classification, Claude subscription pressure, and cost. Free tasks stay on Claude subscription; expensive tasks fall back to the cheapest capable model. Includes 30 MCP tools, 6 auto-routing hooks, semantic dedup cache, prompt caching, daily spend cap, and a live web dashboard.

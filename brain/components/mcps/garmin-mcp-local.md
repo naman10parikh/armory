@@ -8,13 +8,13 @@ source_url: https://github.com/the-mace/garmin-mcp-local
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T12:06:13Z"
+pushed_at: "2026-10-08T13:19:15Z"
 ---
 ## What it is
 A local MCP server that caches Garmin Connect data in SQLite for fast, read-only queries, with tools for bulk import, rate-limited sync, and failure alerts.

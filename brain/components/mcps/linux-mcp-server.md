@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T03:39:25Z"
+pushed_at: "2026-10-05T03:41:17Z"
 ---
 ## What it is
 Exposes full Linux system control to AI clients via MCP tools for bash execution, file operations, and search, with configurable permissions and audit logging.

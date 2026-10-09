@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-01T15:43:26Z"
+pushed_at: "2026-10-09T07:41:29Z"
 ---
 ## What it is
 MCP server that enables AI agents to discover and qualify B2B leads from Leadbay's knowledge base, with tools for lead research, enrichment, and outreach logging.

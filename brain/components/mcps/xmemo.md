@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T10:40:09Z"
+pushed_at: "2026-10-03T06:21:01Z"
 ---
 ## What it is
 XMemo is a secure, user-owned memory substrate and context engine for AI agents, CLIs, IDEs, and LLM workspaces. Exposed over Streamable HTTP MCP, it empowers agents with cross-session memory, task continuity, and personalized context. Key Features: * Personalized Context: Stores and recalls develop

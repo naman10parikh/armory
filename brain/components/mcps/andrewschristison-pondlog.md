@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-12T23:06:18Z"
+pushed_at: "2026-10-07T21:24:09Z"
 ---
 ## What it is
 MCP server `Pondlog`, catalogued on PulseMCP. Unified nature and garden data briefing from 8 public APIs — iNaturalist, eBird, USGS, NPN, Mushroom Observer, Trefle, astronomy, and garden planner.

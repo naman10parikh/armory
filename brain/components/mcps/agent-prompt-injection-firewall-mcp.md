@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T03:56:22Z"
+pushed_at: "2026-10-08T00:55:29Z"
 ---
 ## What it is
 WAF for AI agents — block prompt injection before it reaches the LLM.

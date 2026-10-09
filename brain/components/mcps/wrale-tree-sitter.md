@@ -8,11 +8,11 @@ source_url: https://github.com/wrale/mcp-server-tree-sitter
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 310
+stars: 309
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 40
+forks: 41
 pushed_at: "2026-05-21T01:35:36Z"
 ---
 ## What it is

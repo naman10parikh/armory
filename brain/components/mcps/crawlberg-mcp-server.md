@@ -8,13 +8,13 @@ source_url: https://github.com/xberg-io/crawlberg
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 180
+stars: 183
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 28
-pushed_at: "2026-10-02T11:14:52Z"
+pushed_at: "2026-10-09T11:08:54Z"
 ---
 ## What it is
 Enables AI agents to crawl and scrape websites, converting HTML to clean Markdown and structured metadata with support for JavaScript rendering, bot evasion, and SSRF protection.

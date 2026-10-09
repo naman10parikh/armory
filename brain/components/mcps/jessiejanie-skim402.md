@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-31T06:35:48Z"
+pushed_at: "2026-10-03T19:06:00Z"
 ---
 ## What it is
 MCP server `skim402`, catalogued on PulseMCP. MCP server that fetches and cleans web pages into Markdown for AI agents, with micropayment pricing via x402 on Base.

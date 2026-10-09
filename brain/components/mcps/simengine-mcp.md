@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T14:22:23Z"
+pushed_at: "2026-10-05T00:21:35Z"
 ---
 ## What it is
 Enables running Monte Carlo simulations, safety constraint evaluation, and optimization from JSON domain configs. Provides AI agents with a tool to simulate uncertain futures and obtain structured results.

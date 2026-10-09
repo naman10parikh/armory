@@ -8,13 +8,13 @@ source_url: https://github.com/BlackUppsss/Cx-Proggrammer-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-26T04:40:47Z"
+pushed_at: "2026-10-04T23:49:02Z"
 ---
 ## What it is
 MCP server for editing OMRON CX-Programmer ladder logic projects, supporting sections, rungs, symbols, and program validation via natural language.

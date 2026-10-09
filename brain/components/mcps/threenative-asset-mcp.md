@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T06:17:59Z"
+pushed_at: "2026-10-09T06:29:19Z"
 ---
 ## What it is
 An MCP server for discovering and downloading 3D assets, textures, HDRIs, animations, and game audio from multiple sources like Fab, Poly Haven, ambientCG, and others, with structured search, metadata, and guarded direct downloads.

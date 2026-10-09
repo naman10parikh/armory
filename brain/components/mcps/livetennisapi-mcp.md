@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 53
-pushed_at: "2026-09-28T22:37:39Z"
+pushed_at: "2026-10-07T02:45:32Z"
 ---
 ## What it is
 Real-time tennis data for ATP, WTA, Challenger and ITF: live scores, player rankings, match-winner odds, and model win-probability. 12 read-only tools; a tier-gated endpoint returns a plain-English explanation of which plan it needs rather than a bare 403. Requires a paid API key.

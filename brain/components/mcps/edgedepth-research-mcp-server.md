@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-30T22:51:38Z"
+forks: 2
+pushed_at: "2026-10-06T22:02:54Z"
 ---
 ## What it is
 A read-only MCP server for EdgeDepth's market microstructure search engine, enabling users to query recorded crypto and TradFi perpetuals for market conditions, outcomes, and reproducibility-keyed evidence directly from MCP clients.

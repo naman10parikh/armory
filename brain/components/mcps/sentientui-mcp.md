@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T22:47:52Z"
+pushed_at: "2026-10-06T16:36:53Z"
 ---
 ## What it is
 MCP server for SentientUI that gives AI agents in Claude Code, Cursor, and Copilot direct access to experiment data and management actions.

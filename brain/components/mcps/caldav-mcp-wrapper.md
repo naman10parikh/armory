@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T02:04:55Z"
+pushed_at: "2026-10-08T01:09:41Z"
 ---
 ## What it is
 Enables interacting with CalDAV calendars (like iCloud) through natural language, supporting reading and writing events.

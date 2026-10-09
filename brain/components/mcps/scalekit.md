@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-28T07:31:30Z"
+pushed_at: "2026-10-08T12:03:52Z"
 ---
 ## What it is
 MCP server `Scalekit`, catalogued on PulseMCP. Provides tools for managing Scalekit environments, organizations, users, connections, and workspace operations. Built for developers who want to connect their AI tools to Scalekit context and capabilities based on simple natural language queries.

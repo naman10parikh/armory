@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T23:07:19Z"
+pushed_at: "2026-10-05T23:06:17Z"
 ---
 ## What it is
 Provides live Helldivers 2 galactic war data including war status, major orders, planet details, dispatches, Steam news, and DSS status to LLMs.

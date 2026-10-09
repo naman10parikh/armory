@@ -11,10 +11,10 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, frameworks]
-stars: 27959
+stars: 28021
 mentions: null
-forks: 2424
-pushed_at: "2026-10-02T13:13:04Z"
+forks: 2453
+pushed_at: "2026-10-09T13:16:45Z"
 ---
 ## What it is
 A high-level framework for building MCP servers in Python

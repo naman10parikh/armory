@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T17:52:07Z"
+pushed_at: "2026-10-05T00:07:22Z"
 ---
 ## What it is
 Live sports betting player props MCP server covering NBA, MLB, NFL, NHL, NCAA, and soccer. Unified from real sportsbooks into one REST API and a real MCP server (Streamable HTTP). Free tier, no card required.

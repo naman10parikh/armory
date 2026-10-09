@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 23
-pushed_at: "2026-09-09T07:26:55Z"
+pushed_at: "2026-10-08T07:03:48Z"
 ---
 ## What it is
 MCP server `Scrapling Fetch`, catalogued on PulseMCP. Enables AI to access text content from websites protected by bot detection mechanisms through three protection levels (basic, stealth, max-stealth), retrieving complete pages or specific content patterns without manual copying.

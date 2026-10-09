@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T11:25:14Z"
+pushed_at: "2026-10-04T11:24:44Z"
 ---
 ## What it is
 Read-only MCP server for the Swiss eBill portal, enabling users to list bills and download invoice PDFs via an authenticated browser session. It cannot approve, release, or pay anything.

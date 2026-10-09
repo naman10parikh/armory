@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-28T22:15:26Z"
+pushed_at: "2026-10-07T05:28:42Z"
 ---
 ## What it is
 MCP server `QSP`, catalogued on PulseMCP. Relays MCP tools to any OpenAI-compatible local LLM endpoint for the qso-graph amateur radio ecosystem.

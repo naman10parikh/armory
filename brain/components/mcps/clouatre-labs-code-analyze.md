@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-01T16:11:34Z"
+pushed_at: "2026-10-05T18:54:54Z"
 ---
 ## What it is
 MCP server `Code Analyze`, catalogued on PulseMCP. Code structure analysis using tree-sitter with directory mapping and call graph tracing.

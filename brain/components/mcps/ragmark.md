@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T09:40:52Z"
+pushed_at: "2026-10-05T00:11:10Z"
 ---
 ## What it is
 Local-first MCP server for retrieval over markdown wikilink vaults, offering hybrid vector+lexical search, note reading, neighbor expansion, and recent activity tracking with fully local embeddings and no network egress.

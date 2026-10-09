@@ -8,7 +8,7 @@ source_url: https://github.com/coleam00/mcp-mem0
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 684
+stars: 685
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

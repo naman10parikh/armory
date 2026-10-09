@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-28T13:18:19Z"
+pushed_at: "2026-10-05T13:59:02Z"
 ---
 ## What it is
 MCP server for decomposing US equity portfolio risk into factor exposures, with tools for portfolio risk, factor exposures, stress tests, and coverage checks using Barra-style fundamental factor models.

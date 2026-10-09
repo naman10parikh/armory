@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T02:47:54Z"
+pushed_at: "2026-10-09T06:15:28Z"
 ---
 ## What it is
 Enables AI tools like Claude, Cursor, and Copilot to interact with your Rockhopper workspace, including enrolled files, version history, reviews, comments, and cell-level change tracking.

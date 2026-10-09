@@ -8,11 +8,11 @@ source_url: https://github.com/thatsrajan/vidlens-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 4
 pushed_at: "2026-08-22T03:36:08Z"
 ---
 ## What it is

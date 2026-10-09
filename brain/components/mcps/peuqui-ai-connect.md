@@ -8,12 +8,12 @@ source_url: https://github.com/peuqui/ai-connect
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-10-02T06:49:58Z"
+forks: 4
+pushed_at: "2026-10-09T07:13:59Z"
 ---
 ## What it is
 MCP server `AI-Connect`, catalogued on PulseMCP. Creates a communication bridge between multiple Claude Code instances using WebSocket connections for multi-agent collaboration and consensus-based decision making.

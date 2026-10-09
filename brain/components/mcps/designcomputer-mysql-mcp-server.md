@@ -8,11 +8,11 @@ source_url: https://github.com/designcomputer/mysql_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1396
+stars: 1398
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 260
+forks: 261
 pushed_at: "2026-08-02T13:36:20Z"
 ---
 ## What it is

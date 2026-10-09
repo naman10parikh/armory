@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-15T20:22:43Z"
+pushed_at: "2026-10-02T06:16:38Z"
 ---
 ## What it is
 A Model Context Protocol server for searching and downloading academic papers from multiple free and public sources, enabling LLM-driven academic research workflows.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:36:56Z"
+pushed_at: "2026-10-08T03:22:36Z"
 ---
 ## What it is
 Enables querying MITRE ATLAS adversarial AI threat intelligence, including techniques, tactics, and case studies, through natural language.

@@ -14,7 +14,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-code-ide-el, claude-code-nvim]
 tags: [tooling, cli, ide-integrations]
-stars: 1128
+stars: 1127
 forks: 79
 pushed_at: "2026-04-01T19:15:31Z"
 ---

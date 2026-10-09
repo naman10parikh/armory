@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T12:31:08Z"
+pushed_at: "2026-10-07T16:19:18Z"
 ---
 ## What it is
 MCP server for Benny the dog's health and care monitoring, allowing users to log care events like water refills, barks, movement, sausage deliveries, movie time, and wake calls, with automatic loneliness detection and Boomy robot integration.

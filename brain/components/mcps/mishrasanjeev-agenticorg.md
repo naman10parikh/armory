@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-10-02T13:37:56Z"
+pushed_at: "2026-10-09T06:25:49Z"
 ---
 ## What it is
 MCP server `AgenticOrg`, catalogued on PulseMCP. Multi-agent platform with integrations for finance, HR, marketing, and operations workflows.

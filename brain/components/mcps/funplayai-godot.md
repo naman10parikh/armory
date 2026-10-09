@@ -12,7 +12,7 @@ stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-07-31T04:00:09Z"
 ---
 ## What it is

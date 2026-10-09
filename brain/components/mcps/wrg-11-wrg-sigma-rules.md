@@ -13,7 +13,7 @@ related: []
 tags: [mcp, security]
 stars: 2
 forks: 0
-pushed_at: "2026-09-30T20:09:06Z"
+pushed_at: "2026-10-08T13:44:29Z"
 ---
 ## What it is
 Sigma detection rule writing, validation, and conversion (Splunk/Elastic/Kibana/Wazuh) via 3 MCP tools (`draft_rule`, `validate_rule`, `convert_rule`) backed by a 61-rule production corpus across 11 MITRE ATT&CK tactic categories. Standalone server + Claude Code plugin distribution.

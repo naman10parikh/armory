@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:25:44Z"
+pushed_at: "2026-10-08T00:55:06Z"
 ---
 ## What it is
 A router MCP server that provides access to 62 MCPs behind a single connection, with load balancing, health checking, and EU AI Act compliance.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-27T03:32:40Z"
+pushed_at: "2026-10-04T03:32:49Z"
 ---
 ## What it is
 MCP server `Toke`, catalogued on PulseMCP. Execute and analyze Toke programming language code with syntax checking and debugging.

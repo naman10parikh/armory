@@ -8,12 +8,12 @@ source_url: https://github.com/ghost-in-the-droid/android-agent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 373
+stars: 380
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 37
+forks: 39
 pushed_at: "2026-08-13T22:43:42Z"
 ---
 ## What it is

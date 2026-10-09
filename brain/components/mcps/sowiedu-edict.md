@@ -8,12 +8,12 @@ source_url: https://github.com/sowiedu/edict
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-27T09:48:58Z"
+pushed_at: "2026-10-03T07:33:39Z"
 ---
 ## What it is
 MCP server `Edict`, catalogued on PulseMCP. Programming language for AI agents with JSON AST input and WASM output.

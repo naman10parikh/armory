@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T08:16:58Z"
+pushed_at: "2026-10-07T12:54:39Z"
 ---
 ## What it is
 Enables monitoring and analysis of agent goal achievement and failures across sessions, repos, and tools, with detailed views and tracing.

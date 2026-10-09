@@ -8,12 +8,12 @@ source_url: https://github.com/ai-riksarkivet/ra-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-01T09:21:08Z"
+pushed_at: "2026-10-08T22:00:17Z"
 ---
 ## What it is
 MCP server `Riksarkivet`, catalogued on PulseMCP. Integrates with the Swedish National Archives (Riksarkivet) data platform to search transcribed historical documents, retrieve full page contexts with ALTO XML parsing, explore IIIF collections, and access OAI-PMH metadata records for document discovery and historical research.

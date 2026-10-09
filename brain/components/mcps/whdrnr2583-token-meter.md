@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-18T04:52:37Z"
+pushed_at: "2026-10-05T23:08:08Z"
 ---
 ## What it is
 MCP server `Token Meter`, catalogued on PulseMCP. Local-first token usage dashboard and MCP for Claude Code and Codex with per-tool breakdown and cost tracking.

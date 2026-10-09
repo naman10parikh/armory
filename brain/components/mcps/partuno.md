@@ -8,13 +8,13 @@ source_url: https://github.com/JPMarhefka/partuno
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-30T14:54:10Z"
+pushed_at: "2026-10-07T14:54:32Z"
 ---
 ## What it is
 Partuno is a local-first MCP server for electronic component research, BOM analysis, and sourcing comparisons across DigiKey and Mouser, with evidence-based recommendations and controlled distributor workflows.

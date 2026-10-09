@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-16T11:51:33Z"
+pushed_at: "2026-10-04T04:45:40Z"
 ---
 ## What it is
 MCP Server for Adversarial Co-Generation Engine Generates code and adversarial attacks from the same specification, at the same time — before a commit exists.

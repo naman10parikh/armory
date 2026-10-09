@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-10T11:25:09Z"
+pushed_at: "2026-10-09T07:17:20Z"
 ---
 ## What it is
 A local MCP server that connects Claude Code or any MCP-compatible AI assistant to a Robonine robot arm.

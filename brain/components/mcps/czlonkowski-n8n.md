@@ -8,12 +8,12 @@ source_url: https://github.com/czlonkowski/n8n-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23035
+stars: 23051
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3664
-pushed_at: "2026-10-01T18:50:18Z"
+forks: 3662
+pushed_at: "2026-10-06T13:22:38Z"
 ---
 ## What it is
 MCP server `n8n`, catalogued on PulseMCP. Integrates with n8n workflow automation platform to provide conversational access to 525+ nodes including AI-capable nodes and triggers, enabling natural language workflow creation, validation, and management without requiring direct platform knowledge.

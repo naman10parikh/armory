@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-20T17:40:49Z"
+pushed_at: "2026-10-06T21:12:48Z"
 ---
 ## What it is
 MCP server `Astro`, catalogued on PulseMCP. Astrological computation with natal charts, transits, aspects, composite and Davison charts via SQLite storage.

@@ -8,11 +8,11 @@ source_url: https://github.com/kirchuvakov/uefn-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 69
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 16
 pushed_at: "2026-10-02T13:32:08Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/vdineshk/dominion-observatory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-26T07:30:25Z"
+pushed_at: "2026-10-09T13:04:21Z"
 ---
 ## What it is
 MCP server `Dominion Observatory`, catalogued on PulseMCP. Behavioral trust layer for AI agents: trust scores, interaction reporting, and anomaly detection.

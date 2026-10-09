@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T14:38:32Z"
+pushed_at: "2026-10-04T07:06:48Z"
 ---
 ## What it is
 Search and query the Eurostat catalogue — EU economy, demography, trade, health, and NUTS regional data via MCP with 5 tools and 1 resource.

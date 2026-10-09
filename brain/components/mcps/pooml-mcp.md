@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T10:12:22Z"
+pushed_at: "2026-10-04T14:10:17Z"
 ---
 ## What it is
 Enables querying logs and metrics with plain SQL from any MCP client via pooml's read-only query API.

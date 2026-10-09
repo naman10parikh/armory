@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:40:47Z"
+pushed_at: "2026-10-08T03:48:33Z"
 ---
 ## What it is
 MCP server `Math Solver AI`, catalogued on PulseMCP. Python MCP server for mathematical problem solving and computation.

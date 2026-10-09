@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T13:51:44Z"
+pushed_at: "2026-10-09T14:06:52Z"
 ---
 ## What it is
 MCP server for Evite that lets you read and act on events as guest or host: list events, view guest lists, RSVP, send messages, and create/edit events.

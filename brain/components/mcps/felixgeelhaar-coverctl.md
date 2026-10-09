@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-28T13:54:43Z"
+pushed_at: "2026-10-05T14:36:55Z"
 ---
 ## What it is
 MCP server `Coverctl`, catalogued on PulseMCP. Provides domain-aware test coverage enforcement for Go projects.

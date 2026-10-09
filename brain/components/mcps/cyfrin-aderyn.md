@@ -12,8 +12,8 @@ stars: 796
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 118
-pushed_at: "2026-09-27T13:03:59Z"
+forks: 119
+pushed_at: "2026-10-04T14:49:16Z"
 ---
 ## What it is
 MCP server `Aderyn`, catalogued on PulseMCP. Provides intelligent Solidity smart contract analysis through the Aderyn static analyzer, scanning codebases to identify security vulnerabilities, code quality issues, and potential exploits across multiple severity levels with support for Foundry and Hardhat projects.

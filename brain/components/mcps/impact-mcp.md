@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T13:07:07Z"
+pushed_at: "2026-10-09T12:36:08Z"
 ---
 ## What it is
 A hypothesis-driven B2B positioning engine with 8 tools for strategic positioning, competitive analysis, and go-to-market messaging.

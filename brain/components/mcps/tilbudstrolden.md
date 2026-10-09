@@ -8,13 +8,13 @@ source_url: https://github.com/olgasafonova/tilbudstrolden-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 42
+stars: 44
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-09-28T18:06:48Z"
+pushed_at: "2026-10-05T18:09:38Z"
 ---
 ## What it is
 An MCP server for Nordic grocery shopping that finds deals across supermarkets in Denmark, Norway, Sweden, and Finland, plans weekly dinners around cheap ingredients, and generates shopping lists grouped by store.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T03:09:40Z"
+pushed_at: "2026-10-07T14:07:18Z"
 ---
 ## What it is
 MCP Server for Apache Iceberg, enabling users to read, query, and manipulate data within Iceberg catalogs.

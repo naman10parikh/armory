@@ -8,12 +8,12 @@ source_url: https://github.com/punitarani/fli
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3201
+stars: 3215
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 398
+forks: 400
 pushed_at: "2026-09-20T23:05:06Z"
 ---
 ## What it is

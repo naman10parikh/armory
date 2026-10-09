@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-10T13:10:18Z"
+pushed_at: "2026-10-08T14:30:41Z"
 ---
 ## What it is
 MCP server `Oura`, catalogued on PulseMCP. Privacy-first Oura Ring integration for sleep, activity, and heart rate data analysis.

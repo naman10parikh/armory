@@ -8,11 +8,11 @@ source_url: https://github.com/domdomegg/airtable-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 457
+stars: 456
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 133
+forks: 132
 pushed_at: "2026-09-09T22:19:23Z"
 ---
 ## What it is

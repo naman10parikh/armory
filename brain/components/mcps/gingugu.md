@@ -8,13 +8,13 @@ source_url: https://github.com/gingugu/gingugu
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T05:05:57Z"
+pushed_at: "2026-10-07T14:18:14Z"
 ---
 ## What it is
 Persistent long-term memory for AI coding assistants. Local SQLite, no cloud - 16 MCP tools to store, search, relate, and consolidate typed memories with a confidence lifecycle, hybrid BM25 + semantic search, namespaces, a knowledge graph, and a built-in OS keychain credential vault.

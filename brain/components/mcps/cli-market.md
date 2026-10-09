@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T18:02:20Z"
+pushed_at: "2026-10-08T21:49:27Z"
 ---
 ## What it is
 Servidor MCP para integrar la plataforma CLI MARKET con asistentes de IA. Permite gestionar productos, pedidos, clientes e inventario de tu tienda marketplace mediante lenguaje natural.

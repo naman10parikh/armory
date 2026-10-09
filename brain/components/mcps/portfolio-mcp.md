@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T08:55:24Z"
+pushed_at: "2026-10-06T07:02:27Z"
 ---
 ## What it is
 A Model Context Protocol server that enables AI agents to query Saagar Patel's writing, projects, and benchmark results from a static corpus, without scraping HTML.

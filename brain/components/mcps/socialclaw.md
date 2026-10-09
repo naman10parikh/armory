@@ -8,12 +8,12 @@ source_url: https://github.com/ndesv21/socialclaw
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 93
+stars: 95
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 25
+forks: 26
 pushed_at: "2026-08-24T10:56:01Z"
 ---
 ## What it is

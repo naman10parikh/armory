@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T08:40:14Z"
+pushed_at: "2026-10-03T07:30:27Z"
 ---
 ## What it is
 The official MCP server for LabelGrid's music distribution platform, enabling natural language management of music catalogs, releases, files, analytics, royalties, webhooks, and distribution via a thin wrapper over the LabelGrid public API.

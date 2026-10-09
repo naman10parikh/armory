@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-01T14:20:42Z"
+pushed_at: "2026-10-07T03:35:44Z"
 ---
 ## What it is
 Local MCP server that lets your AI coding agent query its own cross-tool project history - file/command freshness, past test failures, cost & token spend, cache status, and session handoff - over stdio, 100% local, no telemetry.

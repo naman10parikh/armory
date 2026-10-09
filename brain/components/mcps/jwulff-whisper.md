@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-01-12T01:13:09Z"
+pushed_at: "2026-10-06T20:05:21Z"
 ---
 ## What it is
 MCP server `Whisper`, catalogued on PulseMCP. Local audio transcription using whisper.cpp with support for multiple Whisper models.

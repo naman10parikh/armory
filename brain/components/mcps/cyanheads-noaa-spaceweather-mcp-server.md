@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T23:30:35Z"
+pushed_at: "2026-10-09T04:38:48Z"
 ---
 ## What it is
 Query NOAA SWPC space weather data including geomagnetic storm scales, Kp index, aurora forecasts, solar wind, solar activity, and alerts via MCP. Supports STDIO and Streamable HTTP transports.

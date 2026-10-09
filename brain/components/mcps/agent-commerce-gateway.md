@@ -8,13 +8,13 @@ source_url: https://github.com/devlab-group/agent-commerce
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 47
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T17:16:15Z"
+pushed_at: "2026-10-05T20:23:13Z"
 ---
 ## What it is
 Enables AI agents to discover, call, and pay for existing HTTP APIs over MCP with x402 paywalls, non-custodial settlement, and no code changes to the backend.

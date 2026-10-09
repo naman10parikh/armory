@@ -8,13 +8,13 @@ source_url: https://github.com/taisly/agent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 215
+stars: 217
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-07-06T08:18:09Z"
+pushed_at: "2026-10-03T06:05:50Z"
 ---
 ## What it is
 AI agent social media posting for short-form video. Taisly Agent Kit is a JSON-first SDK, CLI, Agent Skill, and MCP server that lets AI agents, developer tools, and automation workflows publish videos to TikTok, Instagram Reels, YouTube Shorts, X, Facebook, and other connected social platforms throu

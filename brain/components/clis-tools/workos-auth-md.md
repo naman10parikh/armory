@@ -8,13 +8,13 @@ source_url: https://github.com/workos/auth.md
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 617
+stars: 626
 eval_score: 1
 mentions: 2
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 52
+forks: 54
 pushed_at: "2026-09-24T17:16:33Z"
 ---
 ## What it is

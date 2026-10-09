@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-28T13:52:07Z"
+pushed_at: "2026-10-09T14:06:54Z"
 ---
 ## What it is
 MCP server `Infinite Campus`, catalogued on PulseMCP. Access Infinite Campus parent portal for grades, attendance, assignments, and messages.

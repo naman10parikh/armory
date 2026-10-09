@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T23:29:26Z"
+pushed_at: "2026-10-07T05:07:14Z"
 ---
 ## What it is
 MCP server for Kenya insurance intelligence, providing tools to query insurance products, NHIF coverage, and parametric crop risk scoring.

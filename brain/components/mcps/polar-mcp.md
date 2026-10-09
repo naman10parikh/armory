@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-02T09:21:21Z"
+pushed_at: "2026-10-08T10:13:53Z"
 ---
 ## What it is
 Local-first MCP server that connects AI agents to your Polar training, sleep, Nightly Recharge and continuous-sample data.

@@ -8,12 +8,12 @@ source_url: https://github.com/frihet-io/frihet-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-01T23:30:36Z"
+pushed_at: "2026-10-09T02:21:15Z"
 ---
 ## What it is
 MCP server `Frihet`, catalogued on PulseMCP. Manage invoices, expenses, clients, products, and quotes through Frihet ERP.

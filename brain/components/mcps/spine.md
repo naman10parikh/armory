@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-02T03:20:25Z"
+pushed_at: "2026-10-09T10:27:54Z"
 ---
 ## What it is
 Exposes a governed, provenance-grounded autonomous delivery pipeline as an MCP server, enabling AI coding assistants like Claude Code or Codex to initiate requirements-to-PR workflows with human approval gates and full audit.

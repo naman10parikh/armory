@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-02T07:23:53Z"
+pushed_at: "2026-10-08T06:12:06Z"
 ---
 ## What it is
 Enables AI agents to interact with Eclipse SUMO traffic simulations, automating tasks from data acquisition to signal optimization.

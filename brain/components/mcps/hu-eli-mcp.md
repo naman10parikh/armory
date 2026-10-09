@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T13:28:49Z"
+pushed_at: "2026-10-08T14:55:52Z"
 ---
 ## What it is
 Enables AI agents to query Hungary's official legislation database (NJT) using native ELI identifiers, retrieving metadata and full text with verifiable citations.

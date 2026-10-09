@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T11:26:40Z"
+pushed_at: "2026-10-08T10:31:30Z"
 ---
 ## What it is
 Local stdio Model Context Protocol server for OmniDimension. Drive voice agents, dispatch calls, and manage knowledge bases from Claude, Cursor, Windsurf, or any MCP-compatible client.

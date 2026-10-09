@@ -8,14 +8,14 @@ source_url: https://github.com/langchain-ai/deepagents
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 29904
+stars: 30070
 eval_score: null
 mentions: 6
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 4205
-pushed_at: "2026-10-02T10:04:21Z"
+forks: 4216
+pushed_at: "2026-10-09T11:41:40Z"
 ---
 ## What it is
 The batteries-included agent harness.

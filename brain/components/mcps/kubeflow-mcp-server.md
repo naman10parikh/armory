@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 60
-pushed_at: "2026-10-01T14:39:41Z"
+forks: 64
+pushed_at: "2026-10-06T19:24:33Z"
 ---
 ## What it is
 Enables AI agents to plan, submit, monitor, and manage Kubeflow training jobs through natural language, without needing to learn Kubernetes or the Kubeflow SDK.

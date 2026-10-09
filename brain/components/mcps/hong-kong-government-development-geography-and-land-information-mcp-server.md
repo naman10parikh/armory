@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T11:13:00Z"
+pushed_at: "2026-10-02T14:56:32Z"
 ---
 ## What it is
 Provides access to government development, geography and land information data through a FastMCP interface, including data on new building plans processed by the Building Authority.

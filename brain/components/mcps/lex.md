@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 33
-pushed_at: "2026-10-01T02:40:10Z"
+pushed_at: "2026-10-09T01:34:29Z"
 ---
 ## What it is
 Provides programmatic access to UK legal documents with hybrid semantic search and Model Context Protocol integration for AI assistants.

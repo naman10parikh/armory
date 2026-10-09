@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-30T13:45:17Z"
+pushed_at: "2026-10-08T06:26:55Z"
 ---
 ## What it is
 MCP server `Fetch`, catalogued on PulseMCP. HTTP fetch server with SSRF protection, HTML-to-markdown conversion, reader mode, and metadata extraction.

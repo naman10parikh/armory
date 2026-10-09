@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-08T14:50:38Z"
+forks: 4
+pushed_at: "2026-10-07T13:17:04Z"
 ---
 ## What it is
 Model Context Protocol server for RPG Maker MV project management. Provides 102 tools for actors, classes, skills, items, weapons, armors, enemies, states, troops, common events, maps, events, tilesets, animations, system settings, project management, AI vision analysis, offline ASCII map rendering,

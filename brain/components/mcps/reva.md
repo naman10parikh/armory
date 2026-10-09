@@ -8,13 +8,13 @@ source_url: https://github.com/cyberkaida/reverse-engineering-assistant
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 841
+stars: 857
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 74
-pushed_at: "2026-09-29T04:34:53Z"
+forks: 75
+pushed_at: "2026-10-07T10:36:08Z"
 ---
 ## What it is
 A Ghidra MCP server that enables AI language models to interact with Ghidra for reverse engineering tasks, providing small, context-efficient tools to reduce hallucination and handle large binaries.

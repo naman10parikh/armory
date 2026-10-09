@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T20:21:01Z"
+pushed_at: "2026-10-07T22:56:19Z"
 ---
 ## What it is
 Enables AI assistants to interact with 3DCityDB v5 through natural language, dynamically resolving object classes, properties, and codelists to answer spatial questions and execute SQL queries on CityGML data.

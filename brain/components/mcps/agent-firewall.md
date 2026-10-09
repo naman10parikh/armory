@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T10:35:12Z"
+pushed_at: "2026-10-09T11:24:03Z"
 ---
 ## What it is
 Input/output safety gate for AI agents: detect prompt-injection/jailbreak, leaked secrets/PII, and URL/IP reputation. Deterministic, no LLM.

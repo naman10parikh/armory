@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T07:45:00Z"
+pushed_at: "2026-10-07T07:44:30Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve transcripts from the Entra.Chat podcast about Microsoft Entra ID, with timestamped YouTube links and guest information.

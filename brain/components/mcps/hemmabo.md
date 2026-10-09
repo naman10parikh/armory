@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-01T17:22:25Z"
+pushed_at: "2026-10-08T09:50:42Z"
 ---
 ## What it is
 MCP server `HemmaBo`, catalogued on PulseMCP. Vacation rental booking infrastructure for independent hosts.

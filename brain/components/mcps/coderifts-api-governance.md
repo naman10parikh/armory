@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T06:10:41Z"
+pushed_at: "2026-10-08T20:18:31Z"
 ---
 ## What it is
 An MCP server providing risk-aware API governance tools for AI agents. Agents call preflight checks before tool calls or merges to verify API contracts are safe. Returns risk score, blast radius, agent impact, economic cost, and a deterministic ALLOW/WARN/REQUIRE_APPROVAL/BLOCK decision. MCP endpoin

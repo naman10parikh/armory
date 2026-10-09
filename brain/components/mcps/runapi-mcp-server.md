@@ -8,13 +8,13 @@ source_url: https://github.com/runapi-ai/mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 56
+stars: 55
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T12:00:45Z"
+pushed_at: "2026-10-06T14:44:26Z"
 ---
 ## What it is
 Connects MCP-compatible coding tools to RunAPI for AI image, video, music, text-to-speech, and LLM generation using 130+ models from leading providers.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:34:16Z"
+pushed_at: "2026-10-08T03:22:27Z"
 ---
 ## What it is
 Enables classification of medical devices, IVDs, and AI/ML SaMD under EU MDR and IVDR regulations.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T19:57:07Z"
+pushed_at: "2026-10-08T10:14:48Z"
 ---
 ## What it is
 MCP server for Lexware Office that enables querying and managing contacts, sales documents, vouchers, files, payments, and webhooks through a sandboxed two-tool interface (search/execute) with read-only-by-default write safety.

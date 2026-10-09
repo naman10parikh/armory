@@ -8,11 +8,11 @@ source_url: https://github.com/xing5/mcp-google-sheets
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1010
+stars: 1012
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 253
+forks: 252
 pushed_at: "2026-05-14T21:12:23Z"
 ---
 ## What it is

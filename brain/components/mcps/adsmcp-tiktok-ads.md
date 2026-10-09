@@ -8,12 +8,12 @@ source_url: https://github.com/adsmcp/tiktok-ads-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 17
-pushed_at: "2026-07-04T17:31:02Z"
+pushed_at: "2026-10-09T01:38:05Z"
 ---
 ## What it is
 MCP server `TikTok Ads`, catalogued on PulseMCP. Integrates with TikTok's Business API to provide campaign management, performance analytics, creative asset handling, audience targeting, and automated report generation for advertising workflow automation across multiple advertiser accounts.

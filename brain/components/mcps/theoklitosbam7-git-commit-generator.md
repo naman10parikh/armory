@@ -8,12 +8,12 @@ source_url: https://github.com/theoklitosbam7/mcp-git-commit-generator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-01-17T17:58:05Z"
+pushed_at: "2026-10-03T11:38:54Z"
 ---
 ## What it is
 MCP server `Git Commit Generator`, catalogued on PulseMCP. Generates conventional commit messages from staged git changes by analyzing diffs and file status to create properly formatted commits with optional type and scope parameters.

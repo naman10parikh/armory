@@ -8,12 +8,12 @@ source_url: https://github.com/spartanui-wow/wow-api-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 4
 pushed_at: "2026-02-06T05:48:01Z"
 ---
 ## What it is

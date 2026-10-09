@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-10-02T13:06:32Z"
+pushed_at: "2026-10-09T13:14:28Z"
 ---
 ## What it is
 MCP server `Hubitat Elevation`, catalogued on PulseMCP. Native Hubitat Elevation smart home hub integration that provides device control, automation management, and comprehensive hub administration.

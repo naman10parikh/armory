@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:36:59Z"
+pushed_at: "2026-10-08T01:01:22Z"
 ---
 ## What it is
 MCP server `Competitor Monitor AI`, catalogued on PulseMCP. Tools for monitoring competitor activity and market intelligence.

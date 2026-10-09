@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:42:42Z"
+pushed_at: "2026-10-08T04:02:50Z"
 ---
 ## What it is
 MCP server `Price Tracker AI`, catalogued on PulseMCP. Python MCP server for price tracking and product price monitoring tools.

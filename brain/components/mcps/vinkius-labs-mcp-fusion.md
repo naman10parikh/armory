@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, frameworks]
 stars: 256
-forks: 24
+forks: 25
 pushed_at: "2026-09-20T18:36:06Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-07-27T13:22:34Z"
+pushed_at: "2026-10-05T22:34:56Z"
 ---
 ## What it is
 MCP server `Linear`, catalogued on PulseMCP. Integrates with Linear project management platform using OAuth2 authentication to provide comprehensive issue, project, team, comment, and cycle management with filtering, pagination, and batch operations support.

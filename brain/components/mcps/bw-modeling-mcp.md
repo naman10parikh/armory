@@ -8,12 +8,12 @@ source_url: https://github.com/dnic-dev/bw-modeling-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 69
+stars: 72
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 20
+forks: 22
 pushed_at: "2026-10-01T13:25:04Z"
 ---
 ## What it is

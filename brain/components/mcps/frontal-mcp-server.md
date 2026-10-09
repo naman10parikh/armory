@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T09:28:17Z"
+pushed_at: "2026-10-05T09:28:03Z"
 ---
 ## What it is
 Enables management of GitHub workflows, issue templates, and repository configuration for the Frontal MCP Server project through CI/CD pipelines and security automation.

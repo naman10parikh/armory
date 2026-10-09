@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T18:25:46Z"
+pushed_at: "2026-10-05T18:26:45Z"
 ---
 ## What it is
 Enables intent-driven version control on top of Git, turning commits into auditable intents with prompts, AST deltas, and signatures, and providing tools for blame, context, replay, and verification.

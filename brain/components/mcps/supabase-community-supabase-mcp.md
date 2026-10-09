@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
-stars: 2927
-forks: 414
-pushed_at: "2026-10-02T13:15:55Z"
+stars: 2944
+forks: 416
+pushed_at: "2026-10-09T08:46:47Z"
 ---
 ## What it is
 Official Supabase MCP server to connect AI assistants directly with your Supabase project and allows them to perform tasks like managing tables, fetching config, and querying data.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T22:38:22Z"
+pushed_at: "2026-10-07T22:04:09Z"
 ---
 ## What it is
 Selects the minimum code context an LLM needs to understand a git diff: graph-based fragment selection under a token budget, deterministic output, 30+ tree-sitter languages.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T10:41:07Z"
+pushed_at: "2026-10-08T10:47:02Z"
 ---
 ## What it is
 Enables MCP clients to search Indeed job listings by keyword and location and retrieve full job postings as structured JSON, without requiring an Indeed developer account or partner approval.

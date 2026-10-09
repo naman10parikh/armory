@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T09:02:01Z"
+pushed_at: "2026-10-08T11:22:04Z"
 ---
 ## What it is
 Aggregates personal events from multiple sources into a unified timeline and exposes them via MCP for AI assistant retrieval.

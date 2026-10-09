@@ -8,13 +8,13 @@ source_url: https://github.com/ZSeven-W/dsh-crew
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 153
+stars: 157
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-09-24T21:40:08Z"
+pushed_at: "2026-10-08T11:14:30Z"
 ---
 ## What it is
 Enables dispatching work to DeepSeek Harness agents from Claude Code/Codex, with native progress UI, tier policy, and vision/image generation through MCP tools.

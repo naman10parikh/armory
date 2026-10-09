@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-04T21:35:55Z"
+forks: 1
+pushed_at: "2026-10-06T00:09:46Z"
 ---
 ## What it is
 MCP server that provides six verification tools (Lean proof checking, axiom audit, bound, gridlock check, certificate verification, residency check) with honest status reporting (ok/failed/unavailable) to prevent agents from claiming unchecked proofs passed.

@@ -8,13 +8,13 @@ source_url: https://github.com/PayRam/payram-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 157
+stars: 158
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-08-19T15:54:54Z"
+pushed_at: "2026-10-08T15:26:03Z"
 ---
 ## What it is
 Enables AI agents to deploy and operate a self-hosted, no-signup crypto payment gateway with multi-chain support, card-to-crypto checkout, and MCP tools for payment links and integration snippets.

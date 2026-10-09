@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T02:05:34Z"
+pushed_at: "2026-10-08T22:29:04Z"
 ---
 ## What it is
 Domain security reconnaissance for AI agents — 13 tools (DNS+DNSSEC, SSL/TLS, HTTP security headers, SPF/DKIM/DMARC email auth, port scan, ASN, RDAP/WHOIS) plus a one-shot security_scan returning a 0–100 Health Score (A–F). Free, no API key.

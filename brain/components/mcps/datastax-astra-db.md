@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 22
-pushed_at: "2026-10-02T04:14:36Z"
+pushed_at: "2026-10-03T02:37:05Z"
 ---
 ## What it is
 MCP server `Astra DB`, catalogued on PulseMCP. Integrates with Astra DB, enabling cloud-native database operations for scalable data storage and retrieval in AI applications.

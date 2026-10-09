@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T04:14:36Z"
+pushed_at: "2026-10-06T20:32:20Z"
 ---
 ## What it is
 MCP server for HortusFox self-hosted plant management system, exposing 38 tools to manage plants, locations, tasks, inventory, calendar, chat, and backups via natural language.

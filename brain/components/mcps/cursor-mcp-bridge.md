@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T18:33:33Z"
+pushed_at: "2026-10-08T00:37:57Z"
 ---
 ## What it is
 MCP server that lets any agent or MCP host delegate tasks to the Cursor CLI agent for fast, headless execution. Supports task delegation, project discovery, file analysis, and follow-up sessions.

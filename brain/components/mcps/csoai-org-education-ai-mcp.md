@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:38:32Z"
+pushed_at: "2026-10-08T03:12:15Z"
 ---
 ## What it is
 MCP server `Education AI`, catalogued on PulseMCP. AI tools for creating educational content, quizzes, and learning pathways.

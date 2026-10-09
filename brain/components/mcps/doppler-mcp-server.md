@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-28T23:35:51Z"
+pushed_at: "2026-10-06T00:02:18Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Doppler API for secrets management, including listing, retrieving, and updating secrets across projects and configs. Supports both read-only and full access modes with token-based authentication.

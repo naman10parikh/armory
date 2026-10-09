@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-08-04T11:39:29Z"
+pushed_at: "2026-10-05T15:08:07Z"
 ---
 ## What it is
 Connects AI models to GROWI wikis for search and retrieval, enabling context-aware responses from an organization's knowledge base.

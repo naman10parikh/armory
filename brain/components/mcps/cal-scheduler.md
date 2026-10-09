@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T00:49:17Z"
+pushed_at: "2026-10-05T21:36:55Z"
 ---
 ## What it is
 A thin, timezone-correct MCP server for scheduling against CalDAV calendars, providing tools for creating, updating, and managing events with proper timezone handling and recurrence support.

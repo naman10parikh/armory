@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-28T06:07:38Z"
+pushed_at: "2026-10-05T06:06:49Z"
 ---
 ## What it is
 Enables intelligent access to AL-Go documentation, workflows, and domain expertise for Business Central development automation through specialized personas and cross-source semantic search.

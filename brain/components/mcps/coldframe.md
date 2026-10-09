@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T11:28:36Z"
+pushed_at: "2026-10-09T08:07:46Z"
 ---
 ## What it is
 Local-first memory for your AI agent. One SQLite file you own — offline, no API key. Plugs straight into Claude Code.

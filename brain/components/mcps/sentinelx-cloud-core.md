@@ -8,13 +8,13 @@ source_url: https://github.com/pensados/sentinelx-cloud-core
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-10-01T02:05:50Z"
+pushed_at: "2026-10-09T03:18:03Z"
 ---
 ## What it is
 Installs an agent on Linux hosts to allow shell commands, file edits, and service management through Claude.ai or ChatGPT via a secure outbound WebSocket connection.

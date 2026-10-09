@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:39:47Z"
+pushed_at: "2026-10-08T03:18:06Z"
 ---
 ## What it is
 MCP server `HTML Parser AI`, catalogued on PulseMCP. Python MCP server for parsing and extracting data from HTML content.

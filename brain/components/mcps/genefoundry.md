@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T05:48:45Z"
+pushed_at: "2026-10-04T16:41:04Z"
 ---
 ## What it is
 Federates 13 gene-related MCP backends (gnomAD, GTEx, etc.) behind a single Streamable HTTP endpoint with collision-free namespacing and search-based tool discovery.

@@ -8,12 +8,12 @@ source_url: https://github.com/rwestergren/cronometer-api-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 29
-pushed_at: "2026-09-28T11:13:28Z"
+forks: 31
+pushed_at: "2026-10-08T11:19:23Z"
 ---
 ## What it is
 MCP server `Cronometer`, catalogued on PulseMCP. Access Cronometer nutrition data including diary entries, macros, food search, and fasting history via the mobile API.

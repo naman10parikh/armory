@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-09-16T15:36:47Z"
+pushed_at: "2026-10-07T19:26:42Z"
 ---
 ## What it is
 Give AI assistants direct access to Microsoft Dynamics 365 Business Central via native WebSocket protocol.

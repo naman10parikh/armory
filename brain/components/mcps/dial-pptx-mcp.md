@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T07:13:55Z"
+pushed_at: "2026-10-09T12:10:26Z"
 ---
 ## What it is
 Remote multi-tenant MCP server for generating PowerPoint presentations from corporate templates, preserving theme and branding. Integrates with EPAM AI DIAL file storage and Quick Apps for template input and deck export.

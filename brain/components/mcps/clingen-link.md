@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T05:48:25Z"
+pushed_at: "2026-10-03T16:16:46Z"
 ---
 ## What it is
 Enables querying ClinGen curated evidence for gene-disease validity, dosage, actionability, and variant pathogenicity via MCP tools.

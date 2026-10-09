@@ -8,12 +8,12 @@ source_url: https://github.com/confluentinc/mcp-confluent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 168
+stars: 167
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 62
-pushed_at: "2026-10-02T06:04:32Z"
+forks: 63
+pushed_at: "2026-10-09T06:04:27Z"
 ---
 ## What it is
 MCP server `Confluent Cloud`, catalogued on PulseMCP. Enables natural language management of Kafka topics, connectors, and Flink SQL statements through Confluent Cloud REST APIs for streamlined data streaming operations

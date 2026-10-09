@@ -9,13 +9,13 @@ source_url: https://github.com/cloudflare/cloudflared
 license: Apache-2.0
 cli_compat: [claude]
 maturity: stable
-stars: 15992
+stars: 16070
 eval_score: null
 verified_at: 2026-05-26
 related: [claude-managed-agents-selfhost, github-mcp, server-memory]
 tags: [tunnel, mcp, private-data, cloudflared, networking, oauth]
-forks: 1466
-pushed_at: "2026-09-29T16:52:05Z"
+forks: 1470
+pushed_at: "2026-10-08T19:45:46Z"
 ---
 
 ## What it is

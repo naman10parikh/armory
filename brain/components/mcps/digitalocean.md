@@ -8,13 +8,13 @@ source_url: https://github.com/digitalocean-labs/mcp-digitalocean
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 138
+stars: 137
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 88
-pushed_at: "2026-10-01T07:43:36Z"
+forks: 90
+pushed_at: "2026-10-09T14:04:13Z"
 ---
 ## What it is
 MCP server `DigitalOcean`, catalogued on PulseMCP. Enables AI to manage DigitalOcean cloud infrastructure by providing access to account information, droplets, domains, firewalls, and other services for monitoring and automation tasks.

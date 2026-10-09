@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T11:27:15Z"
+pushed_at: "2026-10-06T03:49:22Z"
 ---
 ## What it is
 Provides current headlines from 17 news outlets across the political spectrum with bias tags and blindspot detection for stories covered by only one side.

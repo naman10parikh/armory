@@ -8,7 +8,7 @@ source_url: https://github.com/elara-labs/code-context-engine
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 425
+stars: 428
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

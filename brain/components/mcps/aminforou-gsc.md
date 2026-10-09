@@ -8,11 +8,11 @@ source_url: https://github.com/aminforou/mcp-gsc
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1822
+stars: 1881
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 238
+forks: 249
 pushed_at: "2026-09-15T16:54:24Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T03:45:00Z"
+pushed_at: "2026-10-07T10:05:36Z"
 ---
 ## What it is
 Resolves company domains to their LinkedIn pages, providing exact follower counts and public firmographics such as industry, company size band, headquarters, founded year, and specialties.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-10T14:10:20Z"
+pushed_at: "2026-10-06T14:49:35Z"
 ---
 ## What it is
 Enables product search and basket management for Intermarché Drive through a visible Chromium browser, using the browser session to handle anti-bot measures. Provides tools to search products, view and modify the basket, and set substitutions, while checkout and payment remain on the website.

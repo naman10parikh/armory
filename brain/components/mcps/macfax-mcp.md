@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T23:03:07Z"
+pushed_at: "2026-10-08T19:25:23Z"
 ---
 ## What it is
 MCP server for the used-Mac market, enabling AI assistants to search live listings across multiple marketplaces, get price statistics, check listing trust, lookup serial numbers, retrieve condition reports, and create email alerts.

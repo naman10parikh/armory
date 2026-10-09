@@ -8,13 +8,13 @@ source_url: https://github.com/fastslack/kernl
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T16:32:20Z"
+pushed_at: "2026-10-08T18:20:15Z"
 ---
 ## What it is
 A self-hosted MCP server that provides any LLM with a graph-backed memory layer of your life—tasks, email, finance, contacts, calendar—plus autonomous agent offices that act on your behalf.

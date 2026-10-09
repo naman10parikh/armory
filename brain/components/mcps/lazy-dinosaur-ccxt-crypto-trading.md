@@ -8,11 +8,11 @@ source_url: https://github.com/lazy-dinosaur/ccxt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 94
+stars: 95
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 30
+forks: 31
 pushed_at: "2026-04-23T06:40:21Z"
 ---
 ## What it is

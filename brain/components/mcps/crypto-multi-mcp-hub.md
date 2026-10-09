@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-02T09:15:34Z"
+pushed_at: "2026-10-06T15:44:29Z"
 ---
 ## What it is
 AI-driven command center for local crypto operations, integrating over a dozen MCPs for real-time market data, technical analysis, on-chain data, and autonomous trading agent execution.

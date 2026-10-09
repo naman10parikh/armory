@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T06:09:26Z"
+pushed_at: "2026-10-09T12:29:10Z"
 ---
 ## What it is
 Sendmux is an email inbox API and email API for AI agents. Use this MCP server to let authorised agents work with Sendmux mailboxes, inbound email, clean JSON parsing, webhooks, outbound sending, provider routing, logs, billing, and team controls.

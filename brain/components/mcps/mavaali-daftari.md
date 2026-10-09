@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-29T20:53:12Z"
+pushed_at: "2026-10-05T01:06:09Z"
 ---
 ## What it is
 MCP server `Daftari`, catalogued on PulseMCP. Provides a curated markdown knowledge vault with hybrid search, RBAC, and git provenance tracking.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 3
 forks: 1
-pushed_at: "2026-10-01T13:54:53Z"
+pushed_at: "2026-10-02T15:46:52Z"
 ---
 ## What it is
 Give AI agents read/write access to your Obsidian vault via MCP

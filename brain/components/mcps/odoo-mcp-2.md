@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T13:53:20Z"
+pushed_at: "2026-10-08T08:26:22Z"
 ---
 ## What it is
 Enables Claude to interact with Odoo through 12 MCP tools covering discovery, CRUD operations, and bulk import/export via XML-RPC.

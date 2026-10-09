@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T07:14:06Z"
+pushed_at: "2026-10-07T08:42:17Z"
 ---
 ## What it is
 An MCP server that gives LLM clients reliable, deterministic knowledge of Guild Wars 1 builds: skill data lookup, official template code encoding/decoding, and build validation.

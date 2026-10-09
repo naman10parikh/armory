@@ -8,7 +8,7 @@ source_url: https://github.com/ttiimmaacc/cinema4d-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 129
+stars: 130
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

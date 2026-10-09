@@ -8,13 +8,13 @@ source_url: https://github.com/ForLegalAI/mcp-ms-office-documents
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 40
+stars: 41
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 30
-pushed_at: "2026-09-23T07:33:42Z"
+forks: 31
+pushed_at: "2026-10-07T20:31:15Z"
 ---
 ## What it is
 Let your AI assistant create professional Office documents — PowerPoint, Word, Excel, emails & XML — with a single prompt.

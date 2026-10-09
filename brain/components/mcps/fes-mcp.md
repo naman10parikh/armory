@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T02:03:44Z"
+pushed_at: "2026-09-02T19:52:34Z"
 ---
 ## What it is
 Enables AI clients to perform Sisense environment operations such as governance, asset and user/group management, lifecycle tasks, and health checks using the calling user's own credentials.

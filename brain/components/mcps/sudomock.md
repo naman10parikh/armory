@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-24T21:56:05Z"
+pushed_at: "2026-10-06T17:07:28Z"
 ---
 ## What it is
 MCP server `SudoMock`, catalogued on PulseMCP. Generates photorealistic product mockups from PSD templates via the SudoMock API.

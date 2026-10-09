@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2025-04-25T13:37:30Z"
+pushed_at: "2026-10-06T14:37:28Z"
 ---
 ## What it is
 MCP server `Intercom Support Tickets`, catalogued on PulseMCP. Integrates with Intercom's API to retrieve, filter, and analyze customer support tickets by date range, keywords, and status for efficient support monitoring and conversation history review.

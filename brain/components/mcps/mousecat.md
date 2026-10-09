@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T11:20:01Z"
+pushed_at: "2026-10-05T16:37:14Z"
 ---
 ## What it is
 An MCP server for AI coding hosts that provides structured operator interaction, workflow chains, live multi-agent visualization, and routed access to an AI tool ecosystem.

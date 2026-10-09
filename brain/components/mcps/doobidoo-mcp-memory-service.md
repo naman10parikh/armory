@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 1979
-forks: 338
-pushed_at: "2026-10-02T13:36:34Z"
+stars: 2006
+forks: 343
+pushed_at: "2026-10-09T08:53:05Z"
 ---
 ## What it is
 Universal memory service providing semantic search, persistent storage, and autonomous memory consolidation

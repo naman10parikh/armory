@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T10:30:58Z"
+pushed_at: "2026-10-09T10:58:18Z"
 ---
 ## What it is
 Serves a repo-indexing engine over stdio with tools for scanning, graph analysis, symbol extraction, caller lookup, and grep.

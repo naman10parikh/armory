@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T00:00:23Z"
+pushed_at: "2026-10-06T03:11:03Z"
 ---
 ## What it is
 MCP server for extracting structured intelligence from YouTube channels and videos — transcripts, topics, and competitive signals for AI-powered research workflows.

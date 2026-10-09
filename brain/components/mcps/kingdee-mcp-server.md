@@ -8,12 +8,12 @@ source_url: https://github.com/WaHaiLong/KingdeeMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 102
+stars: 105
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 35
+forks: 36
 pushed_at: "2026-08-11T13:12:42Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T12:15:19Z"
+pushed_at: "2026-10-06T11:42:32Z"
 ---
 ## What it is
 Coordination for parallel coding agents: TTL file claims stored in the git common dir (visible across all worktrees), enforcement hooks that block colliding edits, agent presence, handoff notes, and a git-committed lessons knowledge base with BM25 search. Single static Go binary — no server, no data

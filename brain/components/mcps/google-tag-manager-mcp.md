@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T22:36:26Z"
+pushed_at: "2026-10-04T11:30:47Z"
 ---
 ## What it is
 MCP server for the Google Tag Manager API v2, enabling natural-language management of containers, workspaces, tags, triggers, variables, and publishing. It handles OAuth authentication and built-in rate limiting for the strict GTM API quota.

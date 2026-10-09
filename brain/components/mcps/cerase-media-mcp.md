@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T10:20:46Z"
+pushed_at: "2026-10-03T21:46:04Z"
 ---
 ## What it is
 Provides multimodal understanding tools including OCR, image description, audio transcription, UI screenshot analysis, and screenshot comparison via async tools on a multimodal endpoint.

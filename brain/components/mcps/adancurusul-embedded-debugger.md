@@ -8,7 +8,7 @@ source_url: https://github.com/adancurusul/embedded-debugger-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 197
+stars: 202
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

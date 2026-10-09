@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-30T00:08:52Z"
+pushed_at: "2026-10-09T02:01:03Z"
 ---
 ## What it is
 MCP server for Obsidian that exposes tools for reading/writing notes, managing frontmatter and tags, querying Tasks, semantic search, and interacting with Obsidian Bases, with shared local caching and support for various runtime modes.

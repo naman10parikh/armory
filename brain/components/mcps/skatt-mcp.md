@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T00:04:07Z"
+pushed_at: "2026-10-03T11:32:59Z"
 ---
 ## What it is
 A local MCP server that enables Claude to answer Norwegian tax questions with actual calculations, covering income, wealth, stocks, funds, real estate, crypto, and more.

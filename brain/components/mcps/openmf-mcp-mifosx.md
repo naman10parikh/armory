@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
-stars: 25
-forks: 41
-pushed_at: "2026-10-01T15:40:41Z"
+stars: 26
+forks: 45
+pushed_at: "2026-10-09T12:49:30Z"
 ---
 ## What it is
 A core banking integration for managing clients, loans, savings, shares, financial transactions and generating financial reports.

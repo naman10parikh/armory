@@ -8,12 +8,12 @@ source_url: https://github.com/activepieces/activepieces
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24844
+stars: 24962
 verified_at: 2026-05-26
 related: []
 tags: [knowledge, mcp, search]
-forks: 4288
-pushed_at: "2026-10-02T13:36:16Z"
+forks: 4315
+pushed_at: "2026-10-09T13:38:52Z"
 ---
 
 ## What it is

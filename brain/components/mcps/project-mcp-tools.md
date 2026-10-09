@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T10:46:10Z"
+pushed_at: "2026-10-08T11:49:30Z"
 ---
 ## What it is
 A Python framework that exposes developer tools through MCP, REST API, and CLI from a single shared registry, enabling AI assistants, HTTP clients, and terminal users to access the same tools.

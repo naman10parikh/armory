@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, location-services]
-stars: 138
+stars: 140
 forks: 26
-pushed_at: "2026-10-02T11:18:24Z"
+pushed_at: "2026-10-09T03:39:39Z"
 ---
 ## What it is
 AI-powered 3D globe control via MCP. Connect any MCP-compatible AI agent to CesiumJS — camera flight, GeoJSON/3D Tiles layers, markers, spatial analysis, heatmaps, and more through 19 natural language tools.

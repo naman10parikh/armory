@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-28T08:04:22Z"
+pushed_at: "2026-10-03T20:54:28Z"
 ---
 ## What it is
 Groundlens is a proofreader for what your model writes. It marks the words your sources don't back — and shows you what each one should have said.

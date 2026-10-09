@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-10T08:41:52Z"
+pushed_at: "2026-10-09T13:49:15Z"
 ---
 ## What it is
 MCP server `Biel`, catalogued on PulseMCP. Provides access to documentation and knowledge bases through a remote proxy architecture, enabling conversational queries of product documentation, API specifications, and troubleshooting guides without direct API integration.

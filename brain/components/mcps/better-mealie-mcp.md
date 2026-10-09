@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-28T06:35:48Z"
+pushed_at: "2026-10-09T13:31:46Z"
 ---
 ## What it is
 Provides complete access to Mealie's API for managing recipes, meal plans, shopping lists, households, and more via natural language from AI assistants.

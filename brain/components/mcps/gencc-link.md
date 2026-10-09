@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T06:56:17Z"
+pushed_at: "2026-10-09T06:55:56Z"
 ---
 ## What it is
 MCP server that provides tools to query harmonized gene-disease validity data from the Gene Curation Coalition, supporting consensus and conflict detection for gene-disease assertions.

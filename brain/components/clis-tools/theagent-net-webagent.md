@@ -8,14 +8,14 @@ source_url: https://github.com/TheAgent-net/webagent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 565
+stars: 491
 eval_score: 1
 mentions: 1
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 16
-pushed_at: "2026-10-02T02:37:21Z"
+pushed_at: "2026-10-08T00:18:51Z"
 ---
 ## What it is
 A Go framework that stands up a web or business agent from a declarative spec: pick a provider for each slot (model, memory, guardrail, channel, actions over MCP) and get a running agent.

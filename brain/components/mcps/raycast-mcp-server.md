@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-28T22:15:04Z"
+pushed_at: "2026-10-06T07:10:13Z"
 ---
 ## What it is
 Provides 9 tools to integrate Raycast with AI assistants for workflow automation, extension management, authentication, search, clipboard, and system control.

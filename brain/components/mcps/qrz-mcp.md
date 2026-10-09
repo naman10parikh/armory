@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-28T22:14:14Z"
+pushed_at: "2026-10-07T05:28:07Z"
 ---
 ## What it is
 MCP server for QRZ.com — callsign lookups, DXCC entity resolution, and logbook queries through any MCP-compatible AI assistant.

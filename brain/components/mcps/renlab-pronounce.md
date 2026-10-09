@@ -8,7 +8,7 @@ source_url: https://github.com/anzy-renlab-ai/pronounce
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

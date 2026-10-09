@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-10-02T08:18:57Z"
+forks: 6
+pushed_at: "2026-10-02T14:08:14Z"
 ---
 ## What it is
 Provides access to Hong Kong financial data like business registrations, mortgage statistics, and HIBOR rates through a FastMCP interface.

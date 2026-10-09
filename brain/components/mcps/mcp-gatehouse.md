@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T00:33:31Z"
+pushed_at: "2026-10-06T14:58:29Z"
 ---
 ## What it is
 Permission tiers, approval gates, and audit logging for MCP servers.

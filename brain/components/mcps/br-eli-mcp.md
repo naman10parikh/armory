@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T13:26:32Z"
+pushed_at: "2026-10-08T14:55:06Z"
 ---
 ## What it is
 MCP server for the Brazilian Chamber of Deputies open-data API, enabling search and retrieval of federal legislative bills and their status.

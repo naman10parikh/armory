@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T05:24:43Z"
+pushed_at: "2026-10-09T06:14:09Z"
 ---
 ## What it is
 An MCP server for Keycloak Admin REST API, enabling user, group, event, and security management through service account authentication.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [evals, hallucination, observability, sdk]
 forks: 11
-pushed_at: "2026-08-18T23:16:00Z"
+pushed_at: "2026-10-08T22:37:39Z"
 ---
 ## What it is
 Galileo evaluation and observability SDK for detecting hallucinations, data errors, and model weaknesses in LLM pipelines.

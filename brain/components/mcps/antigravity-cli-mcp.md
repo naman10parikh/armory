@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-12T15:56:06Z"
+pushed_at: "2026-10-08T06:08:45Z"
 ---
 ## What it is
 MCP server wrapping the agy CLI, enabling querying, web search, and file writing through tools like ask-agy, search-web, and write-file.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-07T17:29:55Z"
+pushed_at: "2026-10-03T16:38:25Z"
 ---
 ## What it is
 Exposes Yocoolab design feedback threads, selections, and activity events as tools for AI coding assistants like Claude Code.

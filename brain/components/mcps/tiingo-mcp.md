@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-30T21:48:39Z"
+pushed_at: "2026-10-04T22:01:15Z"
 ---
 ## What it is
 An MCP server that wraps the Tiingo financial data API, enabling access to stocks, forex, crypto, news, fundamentals, and corporate actions through natural language.

@@ -8,12 +8,12 @@ source_url: https://github.com/hl9020/mcp-all-inkl
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-05-31T14:53:51Z"
 ---
 ## What it is

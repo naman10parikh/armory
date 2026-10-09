@@ -8,12 +8,12 @@ source_url: https://github.com/ggozad/haiku.rag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 616
+stars: 622
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 51
-pushed_at: "2026-10-02T12:49:00Z"
+forks: 52
+pushed_at: "2026-10-09T13:58:52Z"
 ---
 ## What it is
 MCP server `Haiku RAG`, catalogued on PulseMCP. Agentic RAG system powered by LanceDB, Pydantic AI, and Docling

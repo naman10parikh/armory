@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T07:51:47Z"
+pushed_at: "2026-10-09T12:09:17Z"
 ---
 ## What it is
 An MCP server that generates skill manifests from GitHub skills directories and provides tools to recommend and download AI agent skills.

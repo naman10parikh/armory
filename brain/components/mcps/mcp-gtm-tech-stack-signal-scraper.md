@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T20:05:38Z"
+pushed_at: "2026-10-07T10:05:18Z"
 ---
 ## What it is
 Detects a company's technology stack from its public web presence. Returns structured tech signals for sales targeting and competitive analysis.

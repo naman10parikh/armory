@@ -8,13 +8,13 @@ source_url: https://github.com/w1ne/kernelCAD-web
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-01T06:14:24Z"
+pushed_at: "2026-10-09T13:00:39Z"
 ---
 ## What it is
 Enables agent-driven CAD design through deterministic source files (.kcad.ts), including model evaluation, validation, and export to STEP/STL via MCP tools for review and introspection.

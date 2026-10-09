@@ -8,12 +8,12 @@ source_url: https://github.com/AnCode666/multiCAD-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 127
+stars: 128
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 28
+forks: 30
 pushed_at: "2026-06-27T17:46:08Z"
 ---
 ## What it is

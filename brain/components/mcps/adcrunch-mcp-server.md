@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-11T09:36:09Z"
+pushed_at: "2026-10-07T16:19:19Z"
 ---
 ## What it is
 Enables querying ad campaign performance and setup across Meta, TikTok, and Google Ads using natural language through AI agents.

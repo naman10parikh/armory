@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T00:25:16Z"
+pushed_at: "2026-10-08T10:37:42Z"
 ---
 ## What it is
 MCP server for psamvault — lets AI agents use your stored credentials without ever seeing their plaintext values.

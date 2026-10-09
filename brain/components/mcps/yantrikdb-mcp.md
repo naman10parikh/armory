@@ -8,13 +8,13 @@ source_url: https://github.com/yantrikos/yantrikdb-server
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 175
+stars: 176
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-09-19T20:58:39Z"
+pushed_at: "2026-10-07T14:31:44Z"
 ---
 ## What it is
 MCP server providing cognitive memory tools (remember, recall, think, etc.) for AI agents, enabling forgetting, consolidation, and contradiction detection.

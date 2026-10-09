@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-01T03:41:41Z"
+pushed_at: "2026-10-07T17:15:21Z"
 ---
 ## What it is
 Exposes the SigRank leaderboard as tools for agents, enabling token-only rank and submit operations with local privacy-first tokenpull reading.

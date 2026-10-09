@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T07:40:21Z"
+pushed_at: "2026-10-08T06:25:43Z"
 ---
 ## What it is
 Enables running interactive terminals inside Claude Code and Claude Desktop, supporting multiple sessions for different tasks.

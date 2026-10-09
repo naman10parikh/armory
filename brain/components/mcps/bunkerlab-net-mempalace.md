@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-09-26T08:53:40Z"
+pushed_at: "2026-10-03T08:41:20Z"
 ---
 ## What it is
 MCP server `Mempalace`, catalogued on PulseMCP. Local-first memory palace for AI assistants with structured memories, knowledge graphs, and diary entries.

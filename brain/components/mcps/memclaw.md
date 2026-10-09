@@ -8,13 +8,13 @@ source_url: https://github.com/caura-ai/caura-memclaw
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 544
+stars: 545
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 89
-pushed_at: "2026-10-02T13:32:26Z"
+forks: 92
+pushed_at: "2026-10-09T11:55:20Z"
 ---
 ## What it is
 Governed shared memory platform for AI agents and agent fleets. Provides persistent memory, cross-agent knowledge sharing, permissions, audit trails, and multi-tenant isolation through a Model Context Protocol (MCP) server.

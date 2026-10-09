@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T18:42:13Z"
+pushed_at: "2026-10-09T13:56:07Z"
 ---
 ## What it is
 Always free field math and reference for the trades.

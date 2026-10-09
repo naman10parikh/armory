@@ -13,9 +13,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [hook]
-stars: 9102
-forks: 682
-pushed_at: "2026-10-02T03:51:09Z"
+stars: 9254
+forks: 698
+pushed_at: "2026-10-09T12:45:53Z"
 ---
 ## What it is
 A community hook, catalogued in awesome-claude-code. Interactive plan review UI that intercepts ExitPlanMode via hooks, letting users visually annotate plans with comments, deletions, and replacements before approving or denying with detailed feedback.

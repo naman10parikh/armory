@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-04-05T14:07:37Z"
+pushed_at: "2026-10-09T07:45:35Z"
 ---
 ## What it is
 MCP server `Suppr`, catalogued on PulseMCP. AI-powered document translation and academic literature search with support for PDF, DOCX, and PPTX across 11 languages

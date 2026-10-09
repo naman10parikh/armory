@@ -8,13 +8,13 @@ source_url: https://github.com/WasmAgent/wasmagent-js
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T06:26:31Z"
+pushed_at: "2026-10-09T08:01:50Z"
 ---
 ## What it is
 Code-mode MCP server (docs_search + execute_code two-tool surface) backed by a unified capability manifest across three sandbox kernels (in-process node:vm, WASM via QuickJS / Pyodide / Wasmtime, and remote microVM via E2B / Cloudflare Sandbox). At N=30 tools the bootstrap-context cost drops to 13.6

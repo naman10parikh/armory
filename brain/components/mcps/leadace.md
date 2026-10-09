@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T13:11:45Z"
+pushed_at: "2026-10-07T13:11:25Z"
 ---
 ## What it is
 Outbound sales agent for Claude Code. MCP server handles prospect list building, dedup, quotas, and structured rejection feedback, while the plugin runs per-prospect research, email writing, Gmail sending, and reply tracking. Open source, self-hostable.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T07:09:44Z"
+pushed_at: "2026-10-07T14:13:55Z"
 ---
 ## What it is
 Offline-first MCP server for web search and content fetching. It requires no external API keys and uses local models for intent classification, optional cross-lingual search, semantic re-ranking, and direct-answer extraction.

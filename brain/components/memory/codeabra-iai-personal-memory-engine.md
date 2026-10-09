@@ -8,14 +8,14 @@ source_url: https://github.com/CodeAbra/iai-personal-memory-engine
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 900
+stars: 902
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 111
-pushed_at: "2026-09-29T01:47:26Z"
+forks: 112
+pushed_at: "2026-10-07T11:51:57Z"
 ---
 ## What it is
 Use when the agent should remember not just facts but how you like to work, locally and for free.

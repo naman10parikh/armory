@@ -8,14 +8,14 @@ source_url: https://github.com/letta-ai/letta-code
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3496
+stars: 3554
 eval_score: null
 mentions: 6
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 425
-pushed_at: "2026-10-02T07:15:10Z"
+forks: 431
+pushed_at: "2026-10-09T07:52:38Z"
 ---
 ## What it is
 Stateful agents that are like people, with memory, identity, and the ability to learn and adapt

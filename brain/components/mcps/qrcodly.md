@@ -8,12 +8,12 @@ source_url: https://github.com/flob95/qrcodly
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-22T06:45:52Z"
+pushed_at: "2026-10-05T20:15:57Z"
 ---
 ## What it is
 MCP server `QRcodly`, catalogued on PulseMCP. Creates, manages, and shares QR codes and short URLs via a hosted API.

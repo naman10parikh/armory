@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T09:54:37Z"
+pushed_at: "2026-10-05T13:15:02Z"
 ---
 ## What it is
 MCP server that writes items to a Bring! shopping list, enabling Claude to add recipe ingredients directly to your list via natural language.

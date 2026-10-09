@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
-stars: 36
+stars: 37
 forks: 9
 pushed_at: "2026-09-28T09:05:47Z"
 ---

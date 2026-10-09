@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T22:14:27Z"
+pushed_at: "2026-10-07T05:26:45Z"
 ---
 ## What it is
 MCP server for HamQTH.com — callsign lookup, DX cluster spots, Reverse Beacon Network, DXCC resolution, and more through any MCP-compatible AI assistant.

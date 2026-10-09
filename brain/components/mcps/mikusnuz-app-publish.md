@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-08-29T19:05:04Z"
+pushed_at: "2026-10-08T10:08:33Z"
 ---
 ## What it is
 MCP server `App Store & Google Play`, catalogued on PulseMCP. Manage iOS and Android app publishing across App Store Connect and Google Play Console.

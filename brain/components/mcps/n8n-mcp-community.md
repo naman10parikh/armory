@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T07:15:34Z"
+pushed_at: "2026-10-05T12:12:09Z"
 ---
 ## What it is
 A security-focused MCP server for self-hosted n8n Community Edition, providing 44 bounded tools to manage workflows, nodes, executions, credentials, tags, and more via the n8n Public API.

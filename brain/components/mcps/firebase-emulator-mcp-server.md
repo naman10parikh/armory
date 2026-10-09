@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-06T22:42:36Z"
+pushed_at: "2026-10-03T16:39:23Z"
 ---
 ## What it is
 Exposes Firebase emulator data (Firestore, Auth, Realtime Database, and logs) to AI coding assistants for local development inspection.

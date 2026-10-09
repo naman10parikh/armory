@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T12:42:17Z"
+pushed_at: "2026-10-02T20:08:35Z"
 ---
 ## What it is
 Generates coherent mixed audio scenes (speech, music, SFX, ambience) from text using an LLM-driven model, with speech in 9 languages and emotion control.

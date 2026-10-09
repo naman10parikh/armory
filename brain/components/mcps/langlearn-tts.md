@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T04:45:22Z"
+pushed_at: "2026-10-05T04:46:14Z"
 ---
 ## What it is
 Enables Claude to speak in 70+ languages, including pronunciation, audio flashcards, and full language lessons with tutor personas.

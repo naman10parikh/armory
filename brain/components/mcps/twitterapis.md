@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T23:39:20Z"
+pushed_at: "2026-10-03T20:11:47Z"
 ---
 ## What it is
 MCP server for the Twitter/X read API, enabling search, user profiles, tweets, followers, and more via natural language.

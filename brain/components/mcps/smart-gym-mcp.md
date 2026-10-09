@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-12T14:49:38Z"
+pushed_at: "2026-10-07T16:00:10Z"
 ---
 ## What it is
 Connects AI assistants to SmartGym on Mac, enabling users to review workouts, tweak routines, and build training programs in plain English, with changes syncing to iPhone and Apple Watch.

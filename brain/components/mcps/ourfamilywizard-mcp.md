@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T16:45:24Z"
+pushed_at: "2026-10-09T14:09:02Z"
 ---
 ## What it is
 Enables natural-language access to OurFamilyWizard for co-parenting messages, calendar, expenses, and journal.

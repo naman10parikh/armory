@@ -8,12 +8,12 @@ source_url: https://github.com/runekaagaard/mcp-alchemy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 419
+stars: 420
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 62
-pushed_at: "2026-09-18T07:10:35Z"
+pushed_at: "2026-10-06T08:31:19Z"
 ---
 ## What it is
 MCP server `SQL Alchemy`, catalogued on PulseMCP. Integrates Claude Desktop with SQL databases using SQLAlchemy to enable direct querying, analysis, and exploration of data across many database engines.

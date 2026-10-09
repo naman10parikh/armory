@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T17:28:00Z"
+pushed_at: "2026-10-09T12:26:17Z"
 ---
 ## What it is
 MCP server providing persistent engineering memory and spec-driven development workflows for AI coding agents, preserving learnings across sessions.

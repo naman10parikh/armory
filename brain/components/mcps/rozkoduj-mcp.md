@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T17:40:39Z"
+pushed_at: "2026-10-03T01:54:25Z"
 ---
 ## What it is
 Provides AI assistants with market screening, analysis, and scoring across stocks, crypto, and forex, enabling natural language queries for trading insights.

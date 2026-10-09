@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-10-02T06:19:42Z"
+pushed_at: "2026-10-08T05:22:53Z"
 ---
 ## What it is
 MCP server `SAP MDK`, catalogued on PulseMCP. MCP server for AI-assisted development of SAP Mobile Development Kit cross-platform mobile applications.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T08:28:30Z"
+pushed_at: "2026-10-08T20:35:09Z"
 ---
 ## What it is
 Local end-to-end RAG system for agentic code editors, exposing retrieval-augmented generation via MCP to any compatible client.

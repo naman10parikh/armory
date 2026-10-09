@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T19:51:16Z"
+pushed_at: "2026-10-05T12:15:07Z"
 ---
 ## What it is
 Connects Claude Code to SuperCollider for AI-driven music composition, supporting real-time playback and non-realtime audio rendering at 50-150x realtime speed.

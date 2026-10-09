@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-28T13:27:45Z"
+pushed_at: "2026-10-05T18:40:19Z"
 ---
 ## What it is
 MCP server `Action1`, catalogued on PulseMCP. Action1 endpoint management server for querying device inventory, missing patches, and automation policies via AI assistants.

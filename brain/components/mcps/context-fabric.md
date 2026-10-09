@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T04:21:29Z"
+pushed_at: "2026-10-09T04:50:58Z"
 ---
 ## What it is
 Automatically captures project state on git commits, detects context drift, and delivers structured token-budgeted briefings to AI agents, ensuring project continuity without manual effort.

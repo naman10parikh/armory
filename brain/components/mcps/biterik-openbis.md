@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-02T09:43:19Z"
+pushed_at: "2026-10-09T10:30:05Z"
 ---
 ## What it is
 MCP server `openBIS`, catalogued on PulseMCP. Exposes openBIS scientific data management to LLM agents with 30+ tools for browsing, searching, and managing research data.

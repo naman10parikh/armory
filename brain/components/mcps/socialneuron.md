@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-30T11:08:10Z"
+pushed_at: "2026-10-07T11:07:04Z"
 ---
 ## What it is
 MCP server `SocialNeuron`, catalogued on PulseMCP. Social media management suite with 52 tools for content creation, distribution, analysis, and optimization.

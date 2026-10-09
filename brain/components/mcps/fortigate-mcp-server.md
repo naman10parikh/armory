@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 25
-pushed_at: "2026-07-22T08:56:44Z"
+pushed_at: "2026-10-06T20:37:31Z"
 ---
 ## What it is
 A production-ready MCP server for managing FortiGate firewalls, enabling AI assistants to manage firewall policies, network objects, routing, and device configurations.

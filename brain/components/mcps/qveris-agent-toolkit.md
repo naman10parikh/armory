@@ -8,13 +8,13 @@ source_url: https://github.com/QVerisAI/qveris-agent-toolkit
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 262
+stars: 261
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 25
-pushed_at: "2026-10-02T02:35:18Z"
+pushed_at: "2026-10-09T02:36:54Z"
 ---
 ## What it is
 Capability routing network for AI agents to discover, inspect, and call 10,000+ real-world financial capabilities through one unified MCP protocol.

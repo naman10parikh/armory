@@ -8,13 +8,13 @@ source_url: https://github.com/Fmarzochi/EGC
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 60
+stars: 63
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 47
-pushed_at: "2026-10-02T13:30:42Z"
+forks: 48
+pushed_at: "2026-10-09T14:09:31Z"
 ---
 ## What it is
 Local MCP runtime that gives persistent cross-session memory to 12 AI coding agents (Claude Code, Cursor, Codex, Gemini CLI, Windsurf, Amp, and more). SQLite-backed state survives context resets. Install: npm install -g @egchq/egc

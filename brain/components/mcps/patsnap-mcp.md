@@ -8,7 +8,7 @@ source_url: https://github.com/patsnap/mcp-for-patent-literature
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 112
+stars: 113
 eval_score: null
 verified_at: 2026-05-27
 related: []

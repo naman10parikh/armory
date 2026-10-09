@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-02-07T20:55:17Z"
+pushed_at: "2026-10-04T00:44:06Z"
 ---
 ## What it is
 Enables Claude to fetch real-time weather data for any city using the OpenWeatherMap API.

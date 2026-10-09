@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T12:59:26Z"
+pushed_at: "2026-10-09T13:10:54Z"
 ---
 ## What it is
 MCP server providing codebase analysis tools for AI assistants, including line counts, function metrics, threshold checks, and code quality detection.

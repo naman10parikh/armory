@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T00:30:01Z"
+pushed_at: "2026-10-08T22:30:25Z"
 ---
 ## What it is
 Official MCP server for Rendobar. Lets AI agents run serverless media processing and upload local files.

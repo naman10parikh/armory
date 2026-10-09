@@ -8,12 +8,12 @@ source_url: https://github.com/destrayon/connapse
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-10-02T08:07:16Z"
+pushed_at: "2026-10-09T06:56:14Z"
 ---
 ## What it is
 MCP server `Connapse`, catalogued on PulseMCP. Self-hosted knowledge backend for AI agents with persistent memory, hybrid search, and document management.

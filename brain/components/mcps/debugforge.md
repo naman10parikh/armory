@@ -8,12 +8,12 @@ source_url: https://github.com/YangPan2020/debugforge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-09-24T02:30:39Z"
 ---
 ## What it is

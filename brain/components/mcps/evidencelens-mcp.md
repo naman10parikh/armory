@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T18:22:41Z"
+pushed_at: "2026-10-05T11:44:37Z"
 ---
 ## What it is
 Enables deterministic, read-only multimodal evidence review by normalizing text, tables, PDFs, images, and screenshots into provenance metadata, with optional controlled filesystem access and no provider calls.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-15T13:08:21Z"
+pushed_at: "2026-10-04T08:30:34Z"
 ---
 ## What it is
 Provides AI coding tools with queryable documentation for the AK (Active Kernel) event-driven MCU framework, including API signatures, guides, and guardrails.

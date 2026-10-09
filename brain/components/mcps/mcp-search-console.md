@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T05:43:57Z"
+pushed_at: "2026-10-06T02:10:12Z"
 ---
 ## What it is
 Multi-account Google Search Console MCP server enabling AI assistants to query multiple GSC accounts by name in a single session, with support for OAuth and service accounts.

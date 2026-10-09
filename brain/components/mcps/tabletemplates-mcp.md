@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T11:28:41Z"
+pushed_at: "2026-10-08T12:29:40Z"
 ---
 ## What it is
 MCP server for searching and browsing free Excel and Google Sheets templates from Tabletemplates.com, with access to 1,008 US search demand keywords across 16 categories.

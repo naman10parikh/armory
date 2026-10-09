@@ -8,11 +8,11 @@ source_url: https://github.com/adambdooley/foundry-vtt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 94
+forks: 95
 pushed_at: "2026-09-22T11:27:43Z"
 ---
 ## What it is

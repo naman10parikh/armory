@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T17:44:38Z"
+pushed_at: "2026-10-06T16:02:03Z"
 ---
 ## What it is
 Enables enriching company domains into structured firmographics including employee band, industry, HQ, founded year, revenue estimate, logo, and description, with source provenance and data completeness scoring.

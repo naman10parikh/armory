@@ -8,13 +8,13 @@ source_url: https://github.com/xlang-ai/OSWorld
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3170
+stars: 3190
 eval_score: null
 mentions: 7
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 537
+forks: 540
 pushed_at: "2026-09-14T16:08:47Z"
 ---
 ## What it is

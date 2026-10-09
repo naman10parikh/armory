@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-28T06:35:27Z"
+pushed_at: "2026-10-05T06:35:56Z"
 ---
 ## What it is
 MCP server `Eval Runner`, catalogued on PulseMCP. Standardized testing harness for running YAML-defined eval fixtures against live or simulated servers with composable assertions and regression reports.

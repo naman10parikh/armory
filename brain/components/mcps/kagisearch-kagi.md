@@ -8,7 +8,7 @@ source_url: https://github.com/kagisearch/kagimcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 528
+stars: 535
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

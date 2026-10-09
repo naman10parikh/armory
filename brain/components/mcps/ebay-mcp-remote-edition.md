@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-28T16:32:31Z"
+forks: 2
+pushed_at: "2026-10-05T16:53:31Z"
 ---
 ## What it is
 An MCP server providing AI assistants comprehensive access to eBay's Sell APIs for inventory management, order fulfillment, marketing, analytics, and more, with hosted multi-user and local modes.

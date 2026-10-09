@@ -8,12 +8,12 @@ source_url: https://github.com/rahilp/second-brain-cloudflare
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 800
+stars: 805
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 119
-pushed_at: "2026-09-30T04:44:07Z"
+pushed_at: "2026-10-03T13:13:58Z"
 ---
 ## What it is
 MCP server `Second Brain`, catalogued on PulseMCP. Self-hosted semantic memory MCP server on Cloudflare Workers with vector embeddings for intelligent recall and 4 tools for personal knowledge management.

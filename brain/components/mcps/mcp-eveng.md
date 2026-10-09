@@ -8,13 +8,13 @@ source_url: https://github.com/madmickstar/mcp_eveng
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T09:11:13Z"
+pushed_at: "2026-10-07T07:05:07Z"
 ---
 ## What it is
 MCP server for controlling EVE-NG network emulator instances via REST API, enabling lab/node/network management, topology editing, and device operations through natural language.

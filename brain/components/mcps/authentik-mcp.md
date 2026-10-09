@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T08:47:13Z"
+pushed_at: "2026-10-05T17:06:31Z"
 ---
 ## What it is
 MCP server for Authentik identity provider enabling management of users, groups, apps, tokens, flows, and policy bindings through natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T06:04:37Z"
+pushed_at: "2026-10-05T11:22:52Z"
 ---
 ## What it is
 Turns your intent and source facts into approval-ready Korean public-sector documents — reports, official letters, regulations, press releases, and slides — as HTML, PDF, HWPX, and PPTX. Everything runs locally so your documents never leave your machine; only formatting-rule fragments are fetched fr

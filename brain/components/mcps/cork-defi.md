@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T10:47:48Z"
+pushed_at: "2026-10-09T13:59:56Z"
 ---
 ## What it is
 Enables interaction with the Cork DeFi protocol for reading live chain state, computing bit-exact math, building unsigned bundles and orders, and managing markets, all without signing or broadcasting.

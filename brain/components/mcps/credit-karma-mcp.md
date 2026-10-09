@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-28T13:51:28Z"
+pushed_at: "2026-10-09T14:05:31Z"
 ---
 ## What it is
 Connects Claude to Credit Karma for natural-language access to transactions, spending patterns, and account summaries.

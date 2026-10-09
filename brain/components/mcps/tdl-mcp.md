@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T12:05:40Z"
+pushed_at: "2026-10-05T12:46:36Z"
 ---
 ## What it is
 Read-only Telegram access for Claude and other MCP hosts. Provides tools to list chats, read recent messages, and download media from your own Telegram account without needing an api_id/api_hash.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T00:51:46Z"
+pushed_at: "2026-10-09T13:47:49Z"
 ---
 ## What it is
 A Windows-ready MCP server to manage Meta Ads with Claude Code, providing ad creation, targeting checks, diagnostics, and safety gates for supervised ad operations.

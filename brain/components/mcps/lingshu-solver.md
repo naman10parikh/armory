@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T12:54:52Z"
+pushed_at: "2026-10-09T08:33:56Z"
 ---
 ## What it is
 Enables deterministic solving of real-valued equation systems with up to six variables, providing certified solutions via interval contraction and Krawczyk verification, and honestly marking truncation when exhaustive search is incomplete—all offline with zero dependencies.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T11:01:31Z"
+pushed_at: "2026-10-09T10:44:53Z"
 ---
 ## What it is
 when2meet-style scheduling polls — self-hostable, reverse-proxy-auth friendly, agent-first API (OpenAPI + llms.txt + MCP).

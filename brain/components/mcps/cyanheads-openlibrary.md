@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-24T22:07:56Z"
+pushed_at: "2026-10-08T20:47:35Z"
 ---
 ## What it is
 MCP server `Open Library`, catalogued on PulseMCP. Search books and authors, fetch editions, browse subjects, and resolve cover images from Open Library.

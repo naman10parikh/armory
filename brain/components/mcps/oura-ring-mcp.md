@@ -8,7 +8,7 @@ source_url: https://github.com/mitchhankins01/oura-ring-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []

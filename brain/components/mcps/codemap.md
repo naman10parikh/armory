@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T08:11:32Z"
+pushed_at: "2026-10-08T06:34:15Z"
 ---
 ## What it is
 MCP server for local-first code intelligence, providing structural code graph, semantic search, and impact analysis to AI agents.

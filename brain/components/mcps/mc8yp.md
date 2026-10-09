@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T02:24:47Z"
+pushed_at: "2026-10-08T07:17:58Z"
 ---
 ## What it is
 An MCP server that gives AI agents access to the full Cumulocity API surface through a compact code-mode interface.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-07-13T20:05:21Z"
+forks: 1
+pushed_at: "2026-10-04T22:13:34Z"
 ---
 ## What it is
 Plan optimal container & truck loads: 3D layouts, right-size the container mix, and check utilization, centre of gravity, crush protection and securing across 200+ equipment types.

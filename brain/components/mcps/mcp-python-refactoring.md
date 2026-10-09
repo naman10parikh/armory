@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-09-26T09:09:34Z"
+pushed_at: "2026-10-06T18:04:16Z"
 ---
 ## What it is
 Analyzes Python code and provides guided refactoring suggestions without automatically modifying code.

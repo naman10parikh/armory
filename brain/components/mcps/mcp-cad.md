@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-06T01:59:31Z"
+pushed_at: "2026-10-09T12:31:35Z"
 ---
 ## What it is
 MCP server for Autodesk Inventor that provides 32 tools for parametric control of CAD models via COM automation.

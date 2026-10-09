@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T04:33:16Z"
+pushed_at: "2026-10-05T17:36:48Z"
 ---
 ## What it is
 Provides Claude with a persistent, auditable memory stored as markdown and YAML files in a private GitHub repo. Enables reading, appending, organizing, and messaging between agent conversations through MCP tools.

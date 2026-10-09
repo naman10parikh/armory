@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-02-11T13:39:02Z"
+pushed_at: "2026-10-08T09:44:05Z"
 ---
 ## What it is
 MCP server `EventCatalog`, catalogued on PulseMCP. Provides a dynamic event catalog server for querying and retrieving architectural metadata, enabling developers to explore complex event-driven system components through predefined tools and resources.

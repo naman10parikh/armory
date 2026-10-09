@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T05:19:29Z"
+pushed_at: "2026-10-09T07:44:35Z"
 ---
 ## What it is
 Enables searching USDA foods, comparing nutrients, and accessing the full FoodData Central database via MCP tools and resources.

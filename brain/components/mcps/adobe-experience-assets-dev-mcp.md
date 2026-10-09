@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T12:43:53Z"
+pushed_at: "2026-10-09T09:39:22Z"
 ---
 ## What it is
 Helps design, validate, and generate Adobe Experience Manager Assets API request plans for integration work, including upload, folder management, and metadata sync.

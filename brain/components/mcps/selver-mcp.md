@@ -8,13 +8,13 @@ source_url: https://github.com/martparve/selver-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-04-24T21:03:26Z"
+pushed_at: "2026-10-06T14:32:04Z"
 ---
 ## What it is
 Enables Claude to search products, build a shopping cart on Selver.ee, and open it in the browser for checkout.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-09-28T14:15:59Z"
+pushed_at: "2026-10-06T12:11:09Z"
 ---
 ## What it is
 MCP server `HaloPSA`, catalogued on PulseMCP. Connects AI assistants to HaloPSA for managing tickets, clients, assets, agents, and invoices.

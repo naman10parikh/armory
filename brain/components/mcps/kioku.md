@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T14:54:45Z"
+pushed_at: "2026-10-03T14:55:12Z"
 ---
 ## What it is
 An MCP server that enables AI agents to read, search, and write to your Obsidian vault.

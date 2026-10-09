@@ -8,12 +8,12 @@ source_url: https://github.com/nikmaniatis/Pd-MCP-Server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-06-02T15:30:48Z"
 ---
 ## What it is

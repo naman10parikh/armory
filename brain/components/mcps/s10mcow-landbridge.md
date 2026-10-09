@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-01T16:37:55Z"
+pushed_at: "2026-10-05T21:41:37Z"
 ---
 ## What it is
 MCP server `LandBridge`, catalogued on PulseMCP. Land investment CRM integration for managing leads, properties, campaigns, and deal analytics.

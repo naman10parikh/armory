@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T02:09:33Z"
+pushed_at: "2026-10-07T16:25:52Z"
 ---
 ## What it is
 Multi-database management tool and MCP server supporting MySQL, PostgreSQL, SQLite, and Dameng DM8, enabling AI assistants to query and manage databases via stdio or HTTP.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-09-27T09:54:22Z"
+pushed_at: "2026-10-06T10:50:58Z"
 ---
 ## What it is
 MCP server for Sorify QA testing platform, enabling AI agents to manage test suites, generate and run tests, and receive notifications through natural language commands.

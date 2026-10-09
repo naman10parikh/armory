@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-24T16:34:00Z"
+pushed_at: "2026-10-08T16:34:11Z"
 ---
 ## What it is
 Provides 23 bounded MCP tools for AI agents to perform technical SEO audits, including crawl setup, page analysis, issue detection, and report exports, all while keeping data local.

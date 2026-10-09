@@ -8,13 +8,13 @@ source_url: https://github.com/umitkavala/mindpm
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-10T21:17:05Z"
+pushed_at: "2026-10-05T19:11:32Z"
 ---
 ## What it is
 MCP server providing persistent project memory via SQLite, tracking tasks, decisions, notes, sessions, and context. Includes a Kanban board and session briefs with git activity, enabling LLMs to resume work seamlessly.

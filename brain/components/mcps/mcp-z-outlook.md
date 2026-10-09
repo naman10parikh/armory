@@ -8,12 +8,12 @@ source_url: https://github.com/mcp-z/mcp-outlook
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-21T04:56:50Z"
+pushed_at: "2026-10-09T12:57:11Z"
 ---
 ## What it is
 MCP server `Outlook`, catalogued on PulseMCP. Integrates with Microsoft Outlook for email search, composition, and category management with OAuth authentication.

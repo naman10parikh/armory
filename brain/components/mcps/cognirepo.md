@@ -8,13 +8,13 @@ source_url: https://github.com/ashlesh-t/cognirepo
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-10-02T06:31:06Z"
+forks: 4
+pushed_at: "2026-10-09T13:30:19Z"
 ---
 ## What it is
 MCP server providing persistent memory and context for AI tools, including semantic memory, knowledge graph, and session history to avoid starting from scratch in every conversation.

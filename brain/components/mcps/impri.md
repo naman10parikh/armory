@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-30T23:00:18Z"
+pushed_at: "2026-10-08T23:41:13Z"
 ---
 ## What it is
 Human-in-the-loop approval inbox for AI agents: an agent proposes an action (send email, post comment, run a command), a human approves, rejects, or edits it from a web, mobile, or Slack/Discord/Telegram inbox, and the agent only runs on approval. Full audit trail, self-hostable (MIT).

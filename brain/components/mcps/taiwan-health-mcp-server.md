@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 24
-pushed_at: "2026-08-10T01:41:53Z"
+pushed_at: "2026-10-05T07:58:25Z"
 ---
 ## What it is
 Integrates Taiwan health data and international medical standards, providing 28 MCP tools for diagnostics, drugs, lab tests, and clinical guidelines via FHIR R4.

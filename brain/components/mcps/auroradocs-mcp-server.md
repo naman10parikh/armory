@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T00:36:41Z"
+pushed_at: "2026-10-06T09:45:07Z"
 ---
 ## What it is
 Enables local MCP clients to interact with an AuroraCloud workspace, supporting object listing, content reading, search, and task management through authenticated API calls.

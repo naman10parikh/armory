@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T03:52:16Z"
+pushed_at: "2026-10-02T15:10:24Z"
 ---
 ## What it is
 Read-only MCP server that connects LLMs to personal investment accounts (Toss Securities, KIS), market data, SEC filings, and Binance futures for context-aware investment responses.

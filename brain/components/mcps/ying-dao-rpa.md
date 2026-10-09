@@ -8,7 +8,7 @@ source_url: https://github.com/ying-dao/yingdao_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 107
+stars: 109
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

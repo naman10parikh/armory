@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T01:12:03Z"
+pushed_at: "2026-10-07T01:47:01Z"
 ---
 ## What it is
 A Model Context Protocol server that exposes Formlabs Local API to AI tools, enabling users to drive Formlabs printers from chat prompts.

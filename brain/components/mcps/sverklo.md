@@ -8,7 +8,7 @@ source_url: https://github.com/sverklo/sverklo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

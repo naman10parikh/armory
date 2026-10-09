@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-29T13:11:23Z"
+pushed_at: "2026-10-05T06:49:11Z"
 ---
 ## What it is
 A thin, deterministic MCP hub for SAP BTP that routes connections to multiple SAP systems behind one login, preserving per-user identity.

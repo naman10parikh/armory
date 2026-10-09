@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-20T15:50:54Z"
+pushed_at: "2026-10-02T21:49:43Z"
 ---
 ## What it is
 MCP server for the Elorus invoicing and accounting platform, enabling AI assistants to create invoices, manage contacts, and query financial data through natural language.

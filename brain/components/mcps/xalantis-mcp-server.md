@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-28T21:04:10Z"
+pushed_at: "2026-10-05T12:29:19Z"
 ---
 ## What it is
 Enables managing support tickets from Claude, Cursor, and other AI tools, including listing, creating, updating, and replying to tickets.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-10T17:55:18Z"
+pushed_at: "2026-10-05T07:04:44Z"
 ---
 ## What it is
 An MCP server that gives AI agents full admin control over Discord servers with 59 tools for messaging, moderation, roles, channels, forums, reactions, files, and more, deployed on Cloudflare Workers.

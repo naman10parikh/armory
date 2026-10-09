@@ -8,7 +8,7 @@ source_url: https://github.com/CronusL-1141/AI-company
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 367
+stars: 371
 eval_score: null
 verified_at: 2026-05-27
 related: []

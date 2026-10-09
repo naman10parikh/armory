@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T21:03:40Z"
+pushed_at: "2026-10-06T11:37:52Z"
 ---
 ## What it is
 AI-powered financial intelligence for autonomous trading agents. 9 MCP tools for real-time trading signals, risk index, market regime detection, stock analysis, commodity scoring, sector radar, and geopolitical intelligence briefings.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-25T05:53:02Z"
+pushed_at: "2026-10-06T08:01:04Z"
 ---
 ## What it is
 Chat with any brand's Meta (Facebook/Instagram) ads inside Claude — research a competitor's ad library, find their longest-running winners, extract hooks and formats, and clone winning ads for your own brand.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-02T03:23:58Z"
+pushed_at: "2026-10-09T11:49:09Z"
 ---
 ## What it is
 Multi-agent shared brain MCP server enabling cross-session memory, self-improving skill loops, and inter-agent signaling across Claude, Codex, Gemini, Copilot, and VS Code CLI agents.

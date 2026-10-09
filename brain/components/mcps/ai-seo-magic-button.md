@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-08T11:00:13Z"
+pushed_at: "2026-10-02T17:07:48Z"
 ---
 ## What it is
 Point it at your site, get a whole-site AEO/GEO audit plus a ready-to-run plan your agent can execute. Orchestrates the ai-seo and citation-intelligence MCPs. Ships as a Claude skill, Claude plugin, and MCP server. No API keys required.

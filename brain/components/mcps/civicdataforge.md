@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T05:26:29Z"
+pushed_at: "2026-10-08T10:25:46Z"
 ---
 ## What it is
 Provides MCP-compatible agents structured access to official government records, including short-term rental permits, healthcare exclusions, childcare licensing, and NYC film permits.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-09-24T18:15:34Z"
+pushed_at: "2026-10-08T18:15:38Z"
 ---
 ## What it is
 MCP server `Evernote`, catalogued on PulseMCP. Evernote note management with OAuth authentication and ENML format conversion.

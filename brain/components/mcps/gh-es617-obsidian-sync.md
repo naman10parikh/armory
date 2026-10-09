@@ -8,12 +8,12 @@ source_url: https://github.com/es617/obsidian-sync-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
-pushed_at: "2026-10-01T00:03:34Z"
+forks: 27
+pushed_at: "2026-10-09T00:46:29Z"
 ---
 ## What it is
 MCP server `Obsidian Sync`, catalogued on PulseMCP. Access Obsidian vaults via filesystem or CouchDB with Self-hosted LiveSync support.

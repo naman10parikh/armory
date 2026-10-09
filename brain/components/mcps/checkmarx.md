@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-01T08:08:00Z"
+pushed_at: "2026-10-09T12:02:59Z"
 ---
 ## What it is
 The Checkmarx Security MCP server bridges your AI assistant (Claude, Cursor, Copilot, etc.) with Checkmarx One's enterprise application security platform. It exposes security workflows as natural-language-accessible MCP tools, allowing developers to scan code, investigate findings, and receive conte

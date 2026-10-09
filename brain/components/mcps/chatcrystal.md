@@ -8,13 +8,13 @@ source_url: https://github.com/ZengLiangYi/ChatCrystal
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 58
+stars: 60
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-28T01:27:18Z"
+pushed_at: "2026-10-05T01:27:12Z"
 ---
 ## What it is
 Local-first AI PKM memory server for coding conversations. Imports Claude Code, Cursor, Codex CLI, Trae, and GitHub Copilot chats into notes, semantic search, tag graphs, Markdown exports, and MCP memory tools.

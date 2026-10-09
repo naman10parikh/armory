@@ -8,12 +8,12 @@ source_url: https://github.com/Show2Instruct/bonsai-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-08-20T13:15:38Z"
 ---
 ## What it is

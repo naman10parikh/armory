@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T12:43:40Z"
+pushed_at: "2026-10-08T11:58:28Z"
 ---
 ## What it is
 This MCP server lets GitHub Copilot fetch Azure Boards work items by URL or ID and generate QA test cases from the ticket content.

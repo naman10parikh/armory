@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:41:42Z"
+pushed_at: "2026-10-08T03:50:56Z"
 ---
 ## What it is
 MCP server `Mortgage Calculator AI`, catalogued on PulseMCP. Python MCP server for mortgage calculations and loan analysis.

@@ -8,13 +8,13 @@ source_url: https://github.com/liatrio-labs/otel-instrumentation-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-02T02:12:35Z"
+pushed_at: "2026-10-08T22:45:47Z"
 ---
 ## What it is
 Bridges AI coding assistants with the OpenTelemetry ecosystem, providing real-time access to repositories, documentation, examples, semantic conventions, and instrumentation scoring for high-quality observability.

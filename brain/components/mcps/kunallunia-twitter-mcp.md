@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
 stars: 60
-forks: 11
+forks: 10
 pushed_at: "2025-05-03T09:33:53Z"
 ---
 ## What it is

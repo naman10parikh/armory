@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-02T06:01:44Z"
+pushed_at: "2026-10-08T15:59:51Z"
 ---
 ## What it is
 Delegates mechanical text-to-text tasks to a local LLM to save Claude subscription quota, reading files server-side so large content never enters Claude's context.

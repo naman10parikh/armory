@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T21:27:03Z"
+pushed_at: "2026-10-05T21:27:40Z"
 ---
 ## What it is
 This MCP server lets you query Yandex Webmaster data in plain language, covering search queries, indexing, diagnostics, sitemaps, backlinks, and recrawl status. It is read-only by default (except recrawl submission) and uses OAuth without storing secrets.

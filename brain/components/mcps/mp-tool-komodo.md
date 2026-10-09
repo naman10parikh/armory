@@ -8,12 +8,12 @@ source_url: https://github.com/mp-tool/komodo-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-09-29T06:57:52Z"
+pushed_at: "2026-10-05T10:07:27Z"
 ---
 ## What it is
 MCP server `Komodo`, catalogued on PulseMCP. Manage Komodo container deployments, Docker stacks, servers, and infrastructure via AI.

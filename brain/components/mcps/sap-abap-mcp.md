@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-15T02:03:50Z"
+pushed_at: "2026-10-08T06:55:18Z"
 ---
 ## What it is
 A local MCP server that connects to SAP ABAP systems via ADT HTTP API, enabling AI assistants to search, read, and manage ABAP objects securely without SAP GUI.

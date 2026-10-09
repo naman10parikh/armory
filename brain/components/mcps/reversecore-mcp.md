@@ -8,13 +8,13 @@ source_url: https://github.com/sjkim1127/Reversecore_MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 205
+stars: 207
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 22
-pushed_at: "2026-10-02T10:14:07Z"
+pushed_at: "2026-10-08T11:38:01Z"
 ---
 ## What it is
 An enterprise-grade MCP server for AI-powered reverse engineering. Enables AI agents to perform comprehensive binary analysis through natural language commands.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T12:05:15Z"
+pushed_at: "2026-10-03T07:09:26Z"
 ---
 ## What it is
 Author rules from policy docs, then decide: a Rete engine gives the verdict, an LLM explains why.

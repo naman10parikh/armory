@@ -8,11 +8,11 @@ source_url: https://github.com/codejunkie99/brain
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 83
+stars: 84
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 14
 pushed_at: "2026-08-06T20:51:15Z"
 ---
 ## What it is

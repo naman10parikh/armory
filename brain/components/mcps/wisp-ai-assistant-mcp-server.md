@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-30T11:00:02Z"
+pushed_at: "2026-10-07T03:10:37Z"
 ---
 ## What it is
 Wisp AI Assistant MCP Server is a local MCP server that gives trusted AI clients read-only desktop context through Wisp: selected text, clipboard contents, active-window details, visible browser-page text, and screen snippets.

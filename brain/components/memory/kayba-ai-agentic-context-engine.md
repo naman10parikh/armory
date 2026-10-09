@@ -8,13 +8,13 @@ source_url: https://github.com/kayba-ai/agentic-context-engine
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2584
+stars: 2589
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 311
+forks: 313
 pushed_at: "2026-09-24T08:13:44Z"
 ---
 ## What it is

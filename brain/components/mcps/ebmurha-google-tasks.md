@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-21T17:50:37Z"
+pushed_at: "2026-10-07T06:05:48Z"
 ---
 ## What it is
 MCP server `Google Tasks`, catalogued on PulseMCP. Private, context-efficient MCP server for accessing and managing Google Tasks.

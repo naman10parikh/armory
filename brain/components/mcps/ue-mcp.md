@@ -8,13 +8,13 @@ source_url: https://github.com/db-lyon/ue-mcp
 license: Business Source License 1.1
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 377
+stars: 385
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 63
-pushed_at: "2026-09-29T23:40:05Z"
+forks: 64
+pushed_at: "2026-10-09T04:03:45Z"
 ---
 ## What it is
 Gives AI assistants deep read/write access to the Unreal Editor through 21 category tools covering 525+ actions, plus a YAML flow engine for multi-step workflows.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-08T10:53:52Z"
+pushed_at: "2026-10-04T10:38:08Z"
 ---
 ## What it is
 MCP server for Supabase instances running on Aliyun RDS, enabling AI assistants to interact with your Supabase instance hosted on Aliyun cloud infrastructure.

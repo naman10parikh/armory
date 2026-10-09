@@ -8,11 +8,11 @@ source_url: https://github.com/gabrielserrao/pyrestoolbox-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 18
 pushed_at: "2026-03-11T09:04:24Z"
 ---
 ## What it is

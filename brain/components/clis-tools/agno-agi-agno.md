@@ -8,14 +8,14 @@ source_url: https://github.com/agno-agi/agno
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 42502
+stars: 42637
 eval_score: null
 mentions: 10
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 6069
-pushed_at: "2026-10-02T12:38:19Z"
+forks: 6114
+pushed_at: "2026-10-09T13:38:43Z"
 ---
 ## What it is
 Build, run, and manage agent platforms.

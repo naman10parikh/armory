@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T12:44:14Z"
+pushed_at: "2026-10-08T04:26:45Z"
 ---
 ## What it is
 MCP server for telecom AI with built-in EU AI Act compliance, part of the MEOK AI Labs ecosystem.

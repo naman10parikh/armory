@@ -8,11 +8,11 @@ source_url: https://github.com/alexgladkov/claude-in-mobile
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 378
+stars: 379
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
+forks: 35
 pushed_at: "2026-09-25T01:57:49Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-19T06:36:33Z"
+pushed_at: "2026-10-03T06:08:32Z"
 ---
 ## What it is
 MCP proxy that bundles flat tool lists into hierarchical subcommand groups, reducing context token usage and improving tool discovery.

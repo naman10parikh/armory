@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T11:13:10Z"
+pushed_at: "2026-10-02T14:11:02Z"
 ---
 ## What it is
 Enables querying Hong Kong private storage statistics such as completions, stock, and vacancy data via a FastMCP interface, sourced from the Rating and Valuation Department.

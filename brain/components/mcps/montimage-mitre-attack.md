@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-30T06:25:13Z"
+pushed_at: "2026-10-02T18:45:01Z"
 ---
 ## What it is
 MCP server `MITRE ATT&CK`, catalogued on PulseMCP. Access the MITRE ATT&CK cybersecurity knowledge base

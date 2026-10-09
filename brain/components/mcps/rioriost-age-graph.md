@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-28T16:26:54Z"
+pushed_at: "2026-10-06T14:19:45Z"
 ---
 ## What it is
 MCP server `Apache AGE Graph`, catalogued on PulseMCP. Bridges Claude with PostgreSQL databases using Apache AGE graph extension, enabling natural language execution of Cypher queries for graph operations, relationship analysis, and data visualization without complex SQL.

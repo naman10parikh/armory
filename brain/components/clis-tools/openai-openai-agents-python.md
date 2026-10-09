@@ -8,14 +8,14 @@ source_url: https://github.com/openai/openai-agents-python
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 29799
+stars: 29935
 eval_score: null
 mentions: 5
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 4841
-pushed_at: "2026-10-02T06:13:27Z"
+forks: 4855
+pushed_at: "2026-10-08T19:41:57Z"
 ---
 ## What it is
 A lightweight, powerful framework for multi-agent workflows

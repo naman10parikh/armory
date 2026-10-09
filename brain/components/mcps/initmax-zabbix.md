@@ -8,12 +8,12 @@ source_url: https://github.com/initmax/zabbix-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 212
+stars: 227
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 44
-pushed_at: "2026-10-02T12:49:12Z"
+forks: 47
+pushed_at: "2026-10-06T20:19:48Z"
 ---
 ## What it is
 MCP server `Zabbix`, catalogued on PulseMCP. Exposes the complete Zabbix monitoring API as 220+ callable tools covering all 57 API groups.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T09:05:17Z"
+pushed_at: "2026-10-08T12:07:40Z"
 ---
 ## What it is
 Model Context Protocol (MCP) stdio server built with the official MCP Python SDK (FastMCP). Exposes 3 MCP tools: package_capability, generate_dockerfile, generate_claude_desktop_config — package AIMarket capabilities as Docker images + MCP manifest + Claude Desktop config. Entrypoint: mcp_stdio_serv

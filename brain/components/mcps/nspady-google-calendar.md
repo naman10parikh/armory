@@ -8,12 +8,12 @@ source_url: https://github.com/nspady/google-calendar-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1193
+stars: 1199
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 332
-pushed_at: "2026-10-01T05:00:01Z"
+forks: 333
+pushed_at: "2026-10-09T03:44:51Z"
 ---
 ## What it is
 MCP server `Google Calendar`, catalogued on PulseMCP. Integrates with Google Calendar to enable natural language querying, event creation, and calendar management using the Google Calendar API and OAuth 2.0 authentication.

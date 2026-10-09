@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T03:42:32Z"
+pushed_at: "2026-10-05T04:06:30Z"
 ---
 ## What it is
 Japanese SMB SaaS connectors for MCP. Includes an L-Step (LINE marketing automation) server exposing 19 tools for friends, tags, and messaging.

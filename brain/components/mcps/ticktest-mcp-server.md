@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-15T07:25:47Z"
+pushed_at: "2026-10-07T09:23:14Z"
 ---
 ## What it is
 Enables AI agents to perform A-share quantitative backtesting by calling TickTest API through MCP protocol.

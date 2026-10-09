@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T23:44:11Z"
+pushed_at: "2026-10-05T17:42:02Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve meeting notes, summaries, and transcripts from note1, with tools to export markdown, check recording status, and manage meeting recordings.

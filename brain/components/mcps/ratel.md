@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-02T10:56:09Z"
+pushed_at: "2026-10-09T08:56:15Z"
 ---
 ## What it is
 MCP server `Ratel`, catalogued on PulseMCP. Exposes a Ratel tool catalog as a unified MCP server, managing connections to multiple upstream MCP servers with OAuth 2.1 authentication.

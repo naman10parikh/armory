@@ -8,13 +8,13 @@ source_url: https://github.com/FETKlOkAn2/crypto-quant-platform
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-23T14:54:15Z"
+forks: 0
+pushed_at: "2026-10-06T12:01:59Z"
 ---
 ## What it is
 Provides tools to research crypto trading strategies via backtesting, walk-forward validation, and paper trading, with a deflated-Sharpe overfitting check. Enables natural-language-driven analysis and interpretation of strategy performance.

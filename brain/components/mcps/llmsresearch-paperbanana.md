@@ -8,11 +8,11 @@ source_url: https://github.com/llmsresearch/paperbanana
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2386
+stars: 2391
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 338
+forks: 341
 pushed_at: "2026-09-17T15:36:41Z"
 ---
 ## What it is

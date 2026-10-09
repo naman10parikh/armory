@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T22:21:46Z"
+pushed_at: "2026-10-05T21:38:35Z"
 ---
 ## What it is
 Provides token-efficient access to team policies and standards by allowing subagents to fetch specific sections using § notation, reducing context waste.

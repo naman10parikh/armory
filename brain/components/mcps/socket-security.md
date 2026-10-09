@@ -8,12 +8,12 @@ source_url: https://github.com/socketdev/socket-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 137
+stars: 138
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 47
-pushed_at: "2026-10-02T11:34:01Z"
+forks: 46
+pushed_at: "2026-10-08T17:17:34Z"
 ---
 ## What it is
 MCP server `Socket Security`, catalogued on PulseMCP. Integrates with Socket's dependency security API to analyze npm and PyPI packages, returning detailed security and quality metrics for vulnerability assessment and dependency management.

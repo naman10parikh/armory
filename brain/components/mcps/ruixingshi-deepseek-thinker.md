@@ -8,7 +8,7 @@ source_url: https://github.com/ruixingshi/deepseek-thinker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

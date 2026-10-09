@@ -8,13 +8,13 @@ source_url: https://github.com/ClaudioDrews/memory-os
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1372
+stars: 1373
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 129
+forks: 130
 pushed_at: "2026-09-20T20:16:06Z"
 ---
 ## What it is

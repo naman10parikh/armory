@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T10:48:48Z"
+pushed_at: "2026-10-08T10:01:16Z"
 ---
 ## What it is
 Agent-facing garment CAD control plane providing local stdio MCP servers, a shared Python SDK, preview/commit transactions, and GarmentCode-compatible serialization for designing garments programmatically.

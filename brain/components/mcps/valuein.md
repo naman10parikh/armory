@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-01T22:51:10Z"
+pushed_at: "2026-10-09T07:32:26Z"
 ---
 ## What it is
 MCP server `Valuein`, catalogued on PulseMCP. SEC EDGAR financial data including company filings, fundamentals, ratios, and DCF inputs via a production MCP endpoint.

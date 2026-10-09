@@ -8,7 +8,7 @@ source_url: https://github.com/6551team/opennews-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2419
+stars: 2425
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

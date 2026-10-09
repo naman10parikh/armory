@@ -13,7 +13,7 @@ related: []
 tags: [mcp, search-data-extraction]
 stars: 5
 forks: 2
-pushed_at: "2026-10-01T09:10:57Z"
+pushed_at: "2026-10-08T11:06:10Z"
 ---
 ## What it is
 Multi-provider web search with intelligent auto-routing (Serper, Tavily, Exa). Available via `uvx web-search-plus-mcp`.

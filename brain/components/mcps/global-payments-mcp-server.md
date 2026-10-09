@@ -8,13 +8,13 @@ source_url: https://github.com/globalpayments/mcp-server
 license: GPL 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T09:34:24Z"
+pushed_at: "2026-10-09T12:31:04Z"
 ---
 ## What it is
 Enables AI agents to create and manage payment links programmatically via the Global Payments API, supporting single-use and multi-use links, retrieval, and API documentation retrieval.

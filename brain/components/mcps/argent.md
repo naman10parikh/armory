@@ -8,13 +8,13 @@ source_url: https://github.com/software-mansion/argent
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2956
+stars: 3007
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 127
-pushed_at: "2026-10-02T13:32:10Z"
+forks: 129
+pushed_at: "2026-10-09T12:28:45Z"
 ---
 ## What it is
 Enables AI assistants to interact with iOS Simulators and Android Emulators, allowing autonomous app development, UI interaction, profiling, and debugging through natural language.

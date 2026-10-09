@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T12:16:12Z"
+pushed_at: "2026-10-09T08:33:49Z"
 ---
 ## What it is
 Local stdio MCP bridge that delegates coding work to the Grok CLI agent via isolated git worktrees and typed receipts. Provides MCP tools for interacting with the Grok CLI across stdio, WebSocket, and legacy transports.

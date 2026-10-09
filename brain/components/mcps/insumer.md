@@ -8,12 +8,12 @@ source_url: https://github.com/douglasborthwick-crypto/mcp-server-insumer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-01T17:42:50Z"
+pushed_at: "2026-10-08T20:41:13Z"
 ---
 ## What it is
 MCP server `Insumer`, catalogued on PulseMCP. Read-first blockchain verification returning ECDSA-signed booleans across 32 chains without exposing wallet balances.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T14:53:25Z"
+pushed_at: "2026-10-05T08:30:34Z"
 ---
 ## What it is
 Enables AI agents to prepare, preview, and get human approval before publishing Reddit posts and comments via a local authenticated browser session, without Reddit API credentials.

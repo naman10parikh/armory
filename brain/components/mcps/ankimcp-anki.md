@@ -8,12 +8,12 @@ source_url: https://github.com/ankimcp/anki-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 502
+stars: 509
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 37
-pushed_at: "2026-09-18T15:17:58Z"
+forks: 38
+pushed_at: "2026-10-04T19:07:43Z"
 ---
 ## What it is
 MCP server `Anki MCP Server`, catalogued on PulseMCP. Comprehensive Anki flashcard integration with card review, note management, deck operations, and media handling

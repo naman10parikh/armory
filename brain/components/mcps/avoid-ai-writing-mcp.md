@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T08:23:49Z"
+pushed_at: "2026-10-03T03:43:05Z"
 ---
 ## What it is
 Provides local, deterministic scoring and detailed auditing of text for AI-writing patterns via two read-only tools, with no network calls or language models.

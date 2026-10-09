@@ -8,12 +8,12 @@ source_url: https://github.com/kallistox/mcp-unifi-applications
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-28T12:21:40Z"
+pushed_at: "2026-10-05T12:56:48Z"
 ---
 ## What it is
 MCP server `UniFi Applications`, catalogued on PulseMCP. Exposes UniFi API documentation for Network, Protect, and Site Manager as queryable tools with endpoint search, schema inspection, and code examples.
