@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T11:21:47Z"
+pushed_at: "2026-10-09T09:21:20Z"
 ---
 ## What it is
 Enables natural language interaction with Connhex IoT platform APIs for managing devices, telemetry, rules, and resources via MCP tools.

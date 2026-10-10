@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-29T14:42:49Z"
+pushed_at: "2026-10-09T21:43:56Z"
 ---
 ## What it is
 Provides tools for interacting with PlanetScale databases via the Model Context Protocol, enabling database operations through natural language or API calls.

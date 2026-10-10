@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T19:28:12Z"
+pushed_at: "2026-10-09T14:26:57Z"
 ---
 ## What it is
 Enables AI assistants to guide users through hiring an engineering-leadership mentor, from getting options and matching focus to designing a program and booking an intro call. It computes prices server-side and sends a formal itemized offer after explicit price agreement.

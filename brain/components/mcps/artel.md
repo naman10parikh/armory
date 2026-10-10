@@ -8,12 +8,12 @@ source_url: https://github.com/nicolasprimeau/artel
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-02T18:51:38Z"
+pushed_at: "2026-10-10T13:15:40Z"
 ---
 ## What it is
 MCP server `Artel`, catalogued on PulseMCP. Self-hosted shared memory and coordination mesh for AI agent fleets, with semantic search, task management, and async messaging.

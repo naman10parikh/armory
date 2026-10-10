@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T21:39:57Z"
+pushed_at: "2026-10-08T17:48:26Z"
 ---
 ## What it is
 Give your AI agent a voice with x402 pay-per-call speech synthesis, offering 20 voices, 10 personas, 31 languages, and granular controls.

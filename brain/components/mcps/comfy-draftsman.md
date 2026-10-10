@@ -8,13 +8,13 @@ source_url: https://github.com/EnragedAntelope/comfy-draftsman
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-30T12:52:17Z"
+pushed_at: "2026-10-04T00:14:05Z"
 ---
 ## What it is
 The MCP server that drafts ComfyUI workflows a human can actually read. It lets coding agents build, repair, port, validate, and run ComfyUI workflows against your own ComfyUI instance, delivering clean, organized, fully-labeled workflows.

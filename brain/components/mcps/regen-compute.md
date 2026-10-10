@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-09-03T17:59:21Z"
+pushed_at: "2026-10-10T01:23:58Z"
 ---
 ## What it is
 Enables AI coding assistants to estimate session energy footprint and retire verified ecocredits on Regen Network, providing on-chain proof of regenerative contribution.

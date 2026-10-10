@@ -8,13 +8,13 @@ source_url: https://github.com/ohnotnow/devnotes
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T20:33:42Z"
+pushed_at: "2026-10-08T19:14:18Z"
 ---
 ## What it is
 An MCP server that lets coding agents search, retrieve, and add development notes as plain markdown, capturing and sharing knowledge during live coding sessions.

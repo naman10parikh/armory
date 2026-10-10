@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T10:44:53Z"
+pushed_at: "2026-10-10T07:43:34Z"
 ---
 ## What it is
 Enables AI agents to edit LaTeX documents with live PDF preview, commenting, and visual editing via the Model Context Protocol.

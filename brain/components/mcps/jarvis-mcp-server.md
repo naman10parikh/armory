@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T19:23:36Z"
+pushed_at: "2026-10-10T11:39:35Z"
 ---
 ## What it is
 Provides Claude with tools to read/write an Obsidian vault, query a local SQLite database, and manage files, accessible from any device via OAuth over Tailscale.

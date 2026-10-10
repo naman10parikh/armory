@@ -8,12 +8,12 @@ source_url: https://github.com/postrv/narsil-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 184
+stars: 183
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 27
-pushed_at: "2026-05-12T11:09:00Z"
+pushed_at: "2026-10-07T16:09:39Z"
 ---
 ## What it is
 MCP server `Narsil`, catalogued on PulseMCP. Deep code intelligence with tree-sitter parsing, call graphs, and security vulnerability scanning

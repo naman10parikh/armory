@@ -12,8 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
-pushed_at: "2026-09-29T20:25:34Z"
+forks: 13
+pushed_at: "2026-10-08T07:52:10Z"
 ---
 ## What it is
 MCP server `Gong.io`, catalogued on PulseMCP. Integrates with Gong conversation intelligence platform to query call recordings, retrieve transcripts with speaker attribution, access call summaries and action items, and list workspace users for sales analysis and revenue operations insights.

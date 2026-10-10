@@ -8,13 +8,13 @@ source_url: https://github.com/haiiibin/data-profiler-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T05:58:30Z"
+pushed_at: "2026-10-09T17:49:58Z"
 ---
 ## What it is
 Enables LLMs to profile and analyze tabular data files (CSV, Parquet, Excel, JSON) by extracting schema, statistics, data quality issues, and dtype suggestions, returning structured JSON.

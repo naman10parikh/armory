@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T03:34:27Z"
+pushed_at: "2026-10-06T15:29:54Z"
 ---
 ## What it is
 A lightweight, self-hosted MCP server that provides a small set of administration tools for a single Minecraft Java Edition server, including whitelist management, broadcasting, kicking, backups, and monitoring, with secure RCON-based operations and audit logging.

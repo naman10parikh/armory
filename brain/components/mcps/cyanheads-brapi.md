@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-24T06:18:26Z"
+pushed_at: "2026-10-04T06:23:12Z"
 ---
 ## What it is
 MCP server `BrAPI`, catalogued on PulseMCP. Provides AI agents access to agricultural breeding data across BrAPI-compliant platforms including Breedbase and T3.

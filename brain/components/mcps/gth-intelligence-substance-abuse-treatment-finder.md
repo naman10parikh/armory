@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T08:40:50Z"
+pushed_at: "2026-10-09T20:51:12Z"
 ---
 ## What it is
 Search 12,338 curated, SAMHSA-sourced addiction treatment facilities across all 50 US states.

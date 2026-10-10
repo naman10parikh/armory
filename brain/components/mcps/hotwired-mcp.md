@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-19T12:26:46Z"
+pushed_at: "2026-10-09T00:40:07Z"
 ---
 ## What it is
 MCP server for Hotwired multi-agent workflow orchestration, enabling AI agents to coordinate locally via Unix sockets with tools for protocol, messaging, and task management.

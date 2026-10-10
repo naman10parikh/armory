@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T03:04:51Z"
+pushed_at: "2026-10-06T05:40:18Z"
 ---
 ## What it is
 MCP server for managing personal notes with tools to save, list, get, search, and delete notes, persisting data in PostgreSQL.

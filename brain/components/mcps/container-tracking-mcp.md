@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-16T12:23:59Z"
+pushed_at: "2026-10-04T21:41:49Z"
 ---
 ## What it is
 Track ocean containers across 200+ shipping lines by container, bill of lading, or booking number — live milestones, vessel positions, ETAs, and demurrage & detention free time.

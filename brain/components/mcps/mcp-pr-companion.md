@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T18:24:31Z"
+pushed_at: "2026-10-09T07:02:21Z"
 ---
 ## What it is
 Automatically analyzes Git diffs and Bitbucket PR data to generate compact JSON payloads for AI-powered PR description generation, reducing token consumption.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:50:24Z"
+pushed_at: "2026-10-09T10:24:39Z"
 ---
 ## What it is
 Growth marketing, SEO and GEO as agent tools: 29 tools for AI answer visibility across ChatGPT, Gemini, Perplexity and Google AI Overviews, a ranked backlog of growth moves, drafted deliverables, and ship actions. Hosted remote server at https://afterlaunch.io/api/mcp.

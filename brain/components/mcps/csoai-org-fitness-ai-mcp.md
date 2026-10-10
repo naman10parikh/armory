@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:39:04Z"
+pushed_at: "2026-10-08T03:12:53Z"
 ---
 ## What it is
 MCP server `Fitness AI`, catalogued on PulseMCP. AI tools for creating workout plans, tracking fitness progress, and nutrition guidance.

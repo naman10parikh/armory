@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:40:36Z"
+pushed_at: "2026-10-08T03:49:06Z"
 ---
 ## What it is
 MCP server `LLM Compliance Comparison`, catalogued on PulseMCP. Python MCP server for comparing LLM compliance and policy adherence.

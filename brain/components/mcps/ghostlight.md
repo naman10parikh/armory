@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T01:43:26Z"
+pushed_at: "2026-10-06T03:33:55Z"
 ---
 ## What it is
 MCP server that lets AI agents drive your real Chromium browser with your existing signed-in sessions, providing visible, local, and inspectable automation for tasks like navigation, clicking, typing, and form filling.

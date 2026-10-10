@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T09:20:09Z"
+pushed_at: "2026-10-04T05:39:52Z"
 ---
 ## What it is
 Clones and inspects public GitHub repositories to extract evidence like manifests, dependencies, and version hints, and can run allow-listed repos in isolated Docker containers for reproducible verification.

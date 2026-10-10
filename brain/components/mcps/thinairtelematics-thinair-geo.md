@@ -13,7 +13,7 @@ related: []
 tags: [mcp, location-services]
 stars: 1
 forks: 0
-pushed_at: "2026-09-30T01:10:38Z"
+pushed_at: "2026-10-09T05:06:53Z"
 ---
 ## What it is
 Location & routing intelligence for AI agents — geocoding, truck routing with hazmat/dimension constraints, traffic, weather, isochrones, place search. Full planet coverage. Hosted MCP server with OAuth 2.0 + Bearer auth.

@@ -8,7 +8,7 @@ source_url: https://github.com/g0t4/mcp-server-commands
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 233
+stars: 235
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

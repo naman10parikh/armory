@@ -8,13 +8,13 @@ source_url: https://github.com/houtini-ai/google-knowledge-graph-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-02T09:56:47Z"
+pushed_at: "2026-10-10T10:30:09Z"
 ---
 ## What it is
 Enables searching Google's Knowledge Graph for real-world entities via two tools: search by query or lookup by Machine ID, returning structured data including entity types, descriptions, and URLs.

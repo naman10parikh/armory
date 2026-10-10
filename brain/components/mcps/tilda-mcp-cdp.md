@@ -8,12 +8,12 @@ source_url: https://github.com/skiddgoddamn/tilda-mcp-cdp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-07-23T14:14:36Z"
 ---
 ## What it is

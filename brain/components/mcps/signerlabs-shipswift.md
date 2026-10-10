@@ -8,11 +8,11 @@ source_url: https://github.com/signerlabs/shipswift
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3228
+stars: 3234
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 186
+forks: 185
 pushed_at: "2026-08-09T16:23:04Z"
 ---
 ## What it is

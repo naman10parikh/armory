@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-11T17:31:04Z"
+pushed_at: "2026-10-07T22:45:59Z"
 ---
 ## What it is
 MCP server `TrustAdd`, catalogued on PulseMCP. Queries the TrustAdd AI agent trust oracle for trust scoring, MPP ecosystem data, and cross-chain analytics across 9 EVM chains and Tempo via stdio.

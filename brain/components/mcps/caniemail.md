@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T11:49:24Z"
+pushed_at: "2026-10-07T22:58:28Z"
 ---
 ## What it is
 MCP server providing email client compatibility data from caniemail.com, enabling agents to lint HTML/CSS for email client support, check feature support across clients, and search for features by keyword, with verdicts including supported, unsupported, mitigated, and untested.

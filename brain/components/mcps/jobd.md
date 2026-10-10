@@ -8,13 +8,13 @@ source_url: https://github.com/musharna/jobd
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T03:56:30Z"
+pushed_at: "2026-10-04T19:34:37Z"
 ---
 ## What it is
 jobd is a self-hostable, GPU-aware job broker that queues and routes shell commands across your own machines — picking workers by available VRAM and tool tags, streaming logs back, and surviving across sessions. It ships native MCP integration, so agents can submit, monitor, and control long-running

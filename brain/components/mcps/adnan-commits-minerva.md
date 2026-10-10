@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-08T09:32:41Z"
+pushed_at: "2026-10-09T06:59:52Z"
 ---
 ## What it is
 MCP server `Minerva`, catalogued on PulseMCP. AI-powered research engine that searches the web, processes PDFs, and synthesizes structured reports via MCP.

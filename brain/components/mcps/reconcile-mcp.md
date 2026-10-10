@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T06:05:14Z"
+pushed_at: "2026-10-05T02:18:35Z"
 ---
 ## What it is
 Matches expected payments (pain.001) against observed booked entries (camt.053) for ISO 20022 cash reconciliation, providing explainable match results with scoring and classification.

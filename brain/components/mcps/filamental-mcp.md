@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T08:39:17Z"
+pushed_at: "2026-10-04T13:16:03Z"
 ---
 ## What it is
 Search, traverse and edit your Filamental knowledge graph from any MCP-compatible AI client. Local-first, no cloud, no auth required. 12 tools for reading and writing nodes and edges.

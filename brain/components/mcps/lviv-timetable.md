@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-01T09:50:27Z"
+pushed_at: "2026-10-09T20:58:09Z"
 ---
 ## What it is
 MCP server `Lviv Timetable`, catalogued on PulseMCP. Real-time Lviv public transport stops, routes, vehicle positions, and terminus timetables.

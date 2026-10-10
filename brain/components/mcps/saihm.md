@@ -8,12 +8,12 @@ source_url: https://github.com/saihm-admin/saihm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-02T00:28:52Z"
+pushed_at: "2026-10-06T01:36:04Z"
 ---
 ## What it is
 MCP server `SAIHM`, catalogued on PulseMCP. Sovereign encrypted persistent memory for AI agents with GDPR erasure and Filecoin-backed storage.

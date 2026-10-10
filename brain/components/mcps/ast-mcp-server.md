@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T20:11:10Z"
+pushed_at: "2026-10-05T20:36:54Z"
 ---
 ## What it is
 ast-mcp-server gives coding agents compact, type-aware access to TypeScript and JavaScript projects, providing structural code tools based on the real compiler project model through ts-morph for declarations, references, renames, and diagnostics, with safe prepare → review → apply mutation semantics

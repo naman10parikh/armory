@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T11:38:02Z"
+pushed_at: "2026-10-09T15:51:24Z"
 ---
 ## What it is
 An MCP server for running Playwright tests and reading structured results, failed test details, and attachment content, designed for AI agents doing test failure analysis.

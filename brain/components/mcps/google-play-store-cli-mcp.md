@@ -8,13 +8,13 @@ source_url: https://github.com/appeeky/google-play-console-cli
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 40
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-28T14:04:08Z"
+pushed_at: "2026-10-05T12:32:00Z"
 ---
 ## What it is
 MCP server for automating Google Play Android app management - releases, reviews, listings, and monetization via natural language or CLI.

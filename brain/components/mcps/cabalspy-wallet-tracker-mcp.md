@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T10:43:24Z"
+pushed_at: "2026-10-07T12:23:28Z"
 ---
 ## What it is
 KOL, smart money & whale wallets API on Solana, BNB, Base, ETH: Wallet tracker, Leaderboard

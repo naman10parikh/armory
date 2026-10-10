@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-09-09T14:20:16Z"
+forks: 7
+pushed_at: "2026-10-09T14:51:19Z"
 ---
 ## What it is
 Automate Open 3D Engine (O3DE) with AI — an MCP server for editor control, project & build management.

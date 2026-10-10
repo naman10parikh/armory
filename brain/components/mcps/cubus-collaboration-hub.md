@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T07:19:07Z"
+pushed_at: "2026-10-07T21:11:16Z"
 ---
 ## What it is
 Enables secure synchronization of ChatGPT, Claude, and Obsidian via Supabase as the source of truth, with OAuth protection and proposal-based AI changes.

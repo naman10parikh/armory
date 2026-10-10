@@ -8,12 +8,12 @@ source_url: https://github.com/yctimlin/mcp_excalidraw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2493
+stars: 2524
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 279
-pushed_at: "2026-10-03T11:46:36Z"
+forks: 283
+pushed_at: "2026-10-09T16:46:29Z"
 ---
 ## What it is
 MCP server `Excalidraw`, catalogued on PulseMCP. Enables LLMs to create and manipulate Excalidraw diagrams through a Node.js API that provides tools for element creation, modification, querying, and organization for AI-assisted diagramming and visual collaboration.

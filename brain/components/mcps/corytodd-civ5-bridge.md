@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-11T06:34:11Z"
+pushed_at: "2026-10-07T21:49:21Z"
 ---
 ## What it is
 MCP server `Civ5 Bridge`, catalogued on PulseMCP. Bridges Civilization V gameplay with real-time game state data export through a Lua mod and Python server, enabling strategic analysis of cities, units, technologies, diplomacy, and resources.

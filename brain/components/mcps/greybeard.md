@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-11T00:18:10Z"
+pushed_at: "2026-10-07T00:20:09Z"
 ---
 ## What it is
 An MCP server that provides AI-powered code review and architecture analysis, simulating the perspective of an experienced staff engineer. It integrates with IDEs to review diffs, design decisions, and tradeoffs through natural language.

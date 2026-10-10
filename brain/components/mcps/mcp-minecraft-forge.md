@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T10:35:06Z"
+pushed_at: "2026-10-10T06:48:20Z"
 ---
 ## What it is
 MCP server for Forge Minecraft modding documentation. Gives AI assistants direct access to Forge docs with structured search results.

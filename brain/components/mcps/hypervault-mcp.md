@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T04:45:56Z"
+pushed_at: "2026-10-10T12:20:50Z"
 ---
 ## What it is
 MCP server for HyperVault that lets any MCP-capable agent save artifacts to a user's vault and claim vanity subdomains.

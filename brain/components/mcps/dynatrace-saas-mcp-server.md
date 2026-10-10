@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T06:00:35Z"
+pushed_at: "2026-10-06T06:29:19Z"
 ---
 ## What it is
 Enables LLM agents to query Dynatrace SaaS for observability data (logs, metrics, traces, entities, problems, vulnerabilities) and manage configurations (dashboards, notebooks, SLOs, synthetic monitors, settings).

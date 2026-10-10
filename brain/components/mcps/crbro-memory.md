@@ -8,13 +8,13 @@ source_url: https://github.com/Octonove/crbro-memory
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-03T04:14:00Z"
+forks: 1
+pushed_at: "2026-10-04T15:28:29Z"
 ---
 ## What it is
 A local MCP server that gives AI assistants persistent long-term memory using a biological neural architecture with cortex, synapses, and hippocampus.

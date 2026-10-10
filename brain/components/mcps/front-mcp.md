@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-30T22:20:25Z"
+pushed_at: "2026-10-09T17:47:30Z"
 ---
 ## What it is
 Enables to use Front from any MCP-compatible client. Search conversations, manage contacts, send messages, tag, assign, and automate inbox workflows with 26 tools and 172 actions.

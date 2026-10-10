@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-03T03:36:29Z"
+pushed_at: "2026-10-09T22:04:13Z"
 ---
 ## What it is
 Provides 31 tools and 3 resources to access Venice's uncensored AI models for chat, image, video, audio, music, and more, enabling any MCP host to interact with the Venice API.

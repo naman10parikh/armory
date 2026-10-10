@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:38:36Z"
+pushed_at: "2026-10-08T03:13:01Z"
 ---
 ## What it is
 MCP server `Email Validator AI`, catalogued on PulseMCP. Tools for validating email addresses, checking formats, and verifying deliverability.

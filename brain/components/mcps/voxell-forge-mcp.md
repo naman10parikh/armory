@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T02:30:45Z"
+pushed_at: "2026-10-05T18:41:49Z"
 ---
 ## What it is
 MCP server for Forge's hosted text-embedding API, providing tools to embed text into vectors and list available models.

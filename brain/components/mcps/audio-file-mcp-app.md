@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-07-10T19:34:17Z"
+pushed_at: "2026-10-09T10:37:42Z"
 ---
 ## What it is
 Enables playing and inspecting local audio files in an MCP host with an in-conversation UI showing waveform, spectrogram, and loudness metrics, while exposing playback state and metadata to the model.

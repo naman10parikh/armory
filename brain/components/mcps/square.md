@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 26
+forks: 27
 pushed_at: "2026-04-09T18:13:35Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/langchain-ai/langmem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1692
+stars: 1700
 eval_score: null
 mentions: 0
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, memory]
-forks: 194
+forks: 195
 pushed_at: "2026-10-02T19:35:27Z"
 ---
 ## What it is

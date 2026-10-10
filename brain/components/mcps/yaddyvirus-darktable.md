@@ -8,11 +8,11 @@ source_url: https://github.com/yaddyvirus/darktable-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 8
 pushed_at: "2026-05-06T19:48:06Z"
 ---
 ## What it is

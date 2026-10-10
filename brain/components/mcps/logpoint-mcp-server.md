@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T15:45:22Z"
+pushed_at: "2026-10-08T04:40:16Z"
 ---
 ## What it is
 Logpoint MCP Server provides MCP endpoints for Logpoint SIEM, enabling search, incident management, alert rules, and integrations with n8n and Claude for SIEM operations.

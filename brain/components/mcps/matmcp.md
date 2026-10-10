@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T18:48:42Z"
+pushed_at: "2026-10-10T09:05:22Z"
 ---
 ## What it is
 Enables LLM agents to run verified DFT materials workflows (structure fetch, relaxation, band/DOS) with automated convergence gates and physics validation, ensuring every result is machine-verified with a complete evidence trail.

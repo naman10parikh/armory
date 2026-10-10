@@ -8,13 +8,13 @@ source_url: https://github.com/Michael-Obele/shadcn-svelte-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 58
+stars: 59
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-02T09:01:41Z"
+pushed_at: "2026-10-03T15:37:52Z"
 ---
 ## What it is
 Provides real-time access to shadcn-svelte component documentation and developer utilities using web scraping.

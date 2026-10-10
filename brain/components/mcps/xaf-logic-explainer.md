@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-13T21:00:52Z"
+pushed_at: "2026-10-08T17:22:14Z"
 ---
 ## What it is
 Gives an AI agent complete knowledge of a specific DevExpress XAF application: its entities, controllers, actions, business rules, Model Editor customizations, custom property editors and the version-gated data migrations that ran once on a production database. Reads the source with Roslyn without c

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-02T05:18:40Z"
+pushed_at: "2026-10-09T05:20:26Z"
 ---
 ## What it is
 Enables AI assistants to query Azure Data Explorer using natural language, eliminating the need to write KQL.

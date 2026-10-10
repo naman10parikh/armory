@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-09-14T00:22:12Z"
+forks: 3
+pushed_at: "2026-10-04T22:00:11Z"
 ---
 ## What it is
 MCP server for Pathfinder 2e Remastered character building and rules lookup, using a local SQLite database of official rules data to enable fast, token-efficient AI-assisted character creation.

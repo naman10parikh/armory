@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-06-23T17:40:34Z"
+forks: 3
+pushed_at: "2026-10-05T19:54:18Z"
 ---
 ## What it is
 MCP server to connect Conta Azul ERP to AI agents, enabling natural language management of clients, products, sales, contracts, finances, and NF-e via OAuth.

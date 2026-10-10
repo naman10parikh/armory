@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-09-24T15:00:58Z"
+pushed_at: "2026-10-09T17:14:01Z"
 ---
 ## What it is
 MCP server `Hive Crypto`, catalogued on PulseMCP. Unified access to crypto, DeFi, and Web3 analytics

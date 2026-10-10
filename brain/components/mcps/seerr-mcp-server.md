@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/seerr-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-20T20:57:19Z"
+pushed_at: "2026-10-07T13:06:46Z"
 ---
 ## What it is
 Search Jellyseerr/Overseerr, check availability, and create guarded media requests via MCP.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T17:52:31Z"
+pushed_at: "2026-10-10T03:53:56Z"
 ---
 ## What it is
 Exposes DeepSeek Harness dynamic Cordis plugin management to Claude Code via MCP, enabling plugin install, run, stop, inspect, and session handling through natural language.

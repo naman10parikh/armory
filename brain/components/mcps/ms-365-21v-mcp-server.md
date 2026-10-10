@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-29T15:58:55Z"
+pushed_at: "2026-10-09T23:56:26Z"
 ---
 ## What it is
 Enables MCP-enabled AI clients to access Microsoft 365 operated by 21Vianet (China) through Microsoft Graph, supporting email, calendar, OneDrive, SharePoint, Teams, contacts, search, and intelligent aggregation with delegated permissions and OAuth 2.1.

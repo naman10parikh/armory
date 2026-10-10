@@ -8,11 +8,11 @@ source_url: https://github.com/markuspfundstein/mcp-obsidian
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4455
+stars: 4468
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 507
+forks: 504
 pushed_at: "2026-08-31T11:49:01Z"
 mentions: 2
 ---

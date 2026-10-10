@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T12:14:55Z"
+pushed_at: "2026-10-04T17:07:27Z"
 ---
 ## What it is
 Fill any PDF form with AI agents — ML field detection on scans, visual review loop, reusable templates, and native AcroForm fill via justfill.app.

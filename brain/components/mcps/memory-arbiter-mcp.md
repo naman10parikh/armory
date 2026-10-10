@@ -8,13 +8,13 @@ source_url: https://github.com/billy12151/memory-arbiter-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T09:58:14Z"
+pushed_at: "2026-10-10T00:06:03Z"
 ---
 ## What it is
 A lightweight, fully local MCP server that provides AI coding tools with a shared SQLite memory store and built-in conflict arbitration, enabling structured memory sharing across tools like ZCode, Codex, Cursor, and Claude Code without external dependencies.

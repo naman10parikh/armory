@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T23:30:05Z"
+pushed_at: "2026-10-10T03:15:06Z"
 ---
 ## What it is
 MCP server for alternative credit scoring in Kenya — builds a 300–850 score from M-PESA behavioral signals for adults with no formal credit history. 5 tools.

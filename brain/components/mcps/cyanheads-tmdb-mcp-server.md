@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-09-20T21:28:17Z"
+forks: 3
+pushed_at: "2026-10-07T12:49:16Z"
 ---
 ## What it is
 Enables searching and retrieving detailed information about movies, TV shows, and people from The Movie Database (TMDB), including streaming availability, via the Model Context Protocol.

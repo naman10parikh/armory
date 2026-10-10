@@ -8,12 +8,12 @@ source_url: https://github.com/catlog22/maestro-flow
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 562
+stars: 565
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 68
-pushed_at: "2026-09-24T08:24:55Z"
+pushed_at: "2026-10-08T07:05:15Z"
 ---
 ## What it is
 MCP server `Maestro Flow`, catalogued on PulseMCP. Workflow orchestration CLI with MCP endpoint support, multi-agent dashboard, and extensible template system.

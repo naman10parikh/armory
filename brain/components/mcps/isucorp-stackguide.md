@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-30T18:50:44Z"
+pushed_at: "2026-10-06T22:06:05Z"
 ---
 ## What it is
 MCP server `StackGuide`, catalogued on PulseMCP. Dynamic context loading for AI assistants with TDD workflow and AST analysis.

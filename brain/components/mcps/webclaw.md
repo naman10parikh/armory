@@ -8,11 +8,11 @@ source_url: https://github.com/0xmassi/webclaw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2366
+stars: 2372
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 234
+forks: 236
 pushed_at: "2026-09-23T08:10:19Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:38:23Z"
+pushed_at: "2026-10-08T03:11:06Z"
 ---
 ## What it is
 MCP server `Document Comparison AI`, catalogued on PulseMCP. Tools for comparing documents and identifying changes between versions.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T22:55:41Z"
+pushed_at: "2026-10-07T22:00:36Z"
 ---
 ## What it is
 Provides ~200 auto-generated tools and resources for LLM agents to interact with Gitea and Forgejo instances via the Model Context Protocol.

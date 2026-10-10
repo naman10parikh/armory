@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-03T04:05:52Z"
+pushed_at: "2026-10-04T06:55:23Z"
 ---
 ## What it is
 MCP server for generating slides from natural language, with interactive preview and export to PDF, PPTX, and Markdown.

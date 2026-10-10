@@ -8,13 +8,13 @@ source_url: https://github.com/PhilipAD/health-export-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T01:31:02Z"
+pushed_at: "2026-10-06T01:54:03Z"
 ---
 ## What it is
 An MCP server that enables AI agents to query Apple Health data (190+ metrics) in natural language, including trends, comparisons, and structured exports.

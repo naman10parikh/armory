@@ -8,12 +8,12 @@ source_url: https://github.com/SwamiRama/solidtime-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-03-03T20:29:01Z"
 ---
 ## What it is

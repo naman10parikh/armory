@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-02T14:08:51Z"
+pushed_at: "2026-10-04T11:30:05Z"
 ---
 ## What it is
 MCP server `Levea`, catalogued on PulseMCP. AI video editor for autonomous clip generation, captioning, reframing, and export via cloud API.

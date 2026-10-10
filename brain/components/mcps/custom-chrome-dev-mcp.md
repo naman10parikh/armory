@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T11:33:26Z"
+pushed_at: "2026-10-07T12:04:26Z"
 ---
 ## What it is
 Enables MCP clients to drive your already-open Chrome browser like a human, using 45 tools for navigation, perception, capture, and trusted input that pages receive as genuinely user-generated.

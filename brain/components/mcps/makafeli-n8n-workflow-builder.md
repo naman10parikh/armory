@@ -8,11 +8,11 @@ source_url: https://github.com/makafeli/n8n-workflow-builder
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 545
+stars: 547
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 128
+forks: 127
 pushed_at: "2026-03-19T11:11:52Z"
 ---
 ## What it is

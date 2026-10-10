@@ -8,12 +8,12 @@ source_url: https://github.com/chigwell/telegram-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1746
+stars: 1802
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 447
-pushed_at: "2026-09-30T19:04:56Z"
+forks: 462
+pushed_at: "2026-10-10T10:54:33Z"
 ---
 ## What it is
 MCP server `Telegram`, catalogued on PulseMCP. Bridges Claude with Telegram messaging, enabling direct interaction with Telegram chats through tools for retrieving chat lists, fetching messages, and sending messages to contacts.

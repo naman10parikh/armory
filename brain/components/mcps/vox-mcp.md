@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T13:40:12Z"
+pushed_at: "2026-10-05T14:16:37Z"
 ---
 ## What it is
 Enables MCP clients like Claude Code and Cursor to use multiple AI models (Gemini, GPT, Grok, DeepSeek, Kimi, Ollama) via a unified chat tool with conversation memory.

@@ -8,12 +8,12 @@ source_url: https://github.com/pilat/mcp-datalink
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-03T01:13:45Z"
+pushed_at: "2026-10-07T01:49:32Z"
 ---
 ## What it is
 MCP server `DataLink`, catalogued on PulseMCP. Provides secure database access for PostgreSQL, MySQL, and SQLite with built-in safety features.

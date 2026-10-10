@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-01T10:47:23Z"
+pushed_at: "2026-10-08T10:44:00Z"
 ---
 ## What it is
 MCP server `Katana Markdown Linter`, catalogued on PulseMCP. Lint Markdown documents using 53 configurable rules via a Rust-based MCP server.

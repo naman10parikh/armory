@@ -8,7 +8,7 @@ source_url: https://github.com/skernelx/mysearch-proxy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 159
+stars: 160
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

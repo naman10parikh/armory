@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-03T19:49:58Z"
+pushed_at: "2026-10-08T12:35:09Z"
 ---
 ## What it is
 Read your Samsung Health CSV/ZIP exports — activity, sleep, heart, stress — locally. It is a local-first MCP server that keeps your tokens on your machine.

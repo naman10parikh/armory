@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T17:53:54Z"
+pushed_at: "2026-10-10T12:38:22Z"
 ---
 ## What it is
 48 AI-callable tools for FIFA World Cup 2026 football, Formula 1, and IPL cricket — Monte-Carlo bracket simulations, F1 pit-strategy modeling, and a Dream11 ILP optimizer, plus live odds and value-bet detection. Free, open-source, and works with any MCP client via uvx.

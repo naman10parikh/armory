@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-01T12:01:19Z"
+pushed_at: "2026-10-08T12:36:24Z"
 ---
 ## What it is
 MCP server `PreReason`, catalogued on PulseMCP. Delivers pre-reasoned financial market briefings with trend signals, regime classification, and cross-asset correlations.

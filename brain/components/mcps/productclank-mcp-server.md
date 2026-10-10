@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T14:49:28Z"
+pushed_at: "2026-10-07T11:59:32Z"
 ---
 ## What it is
 Enables AI assistants to launch community growth campaigns, boost posts with real engagement, and manage content campaigns via ProductClank, with OAuth and credit-based billing.

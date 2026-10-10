@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-07-13T06:28:43Z"
+pushed_at: "2026-10-09T23:02:58Z"
 ---
 ## What it is
 MCP server `ABP Framework`, catalogued on PulseMCP. Auto-generate MCP tools from ABP Framework application services with permission and multi-tenant support.

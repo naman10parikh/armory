@@ -8,13 +8,13 @@ source_url: https://github.com/Mr-remon219/search-boost
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 33
+stars: 54
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-03T11:08:05Z"
+forks: 2
+pushed_at: "2026-10-09T04:48:59Z"
 ---
 ## What it is
 A multi-engine web search MCP server that integrates with coding agents, offering parallel search, page fetching, X/Twitter search, deep research, and configurable free/API layers.

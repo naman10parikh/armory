@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T20:16:24Z"
+pushed_at: "2026-10-10T02:29:39Z"
 ---
 ## What it is
 Provides tools to access information about religious institutions and community services in Kenya, including Catholic dioceses, Protestant denominations, Muslim communities, and welfare programs.

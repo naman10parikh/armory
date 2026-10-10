@@ -8,13 +8,13 @@ source_url: https://github.com/whopio/whop-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-30T18:13:21Z"
+pushed_at: "2026-10-05T06:03:15Z"
 ---
 ## What it is
 Official hosted MCP server for Whop, enabling AI clients to manage Whop businesses and resources via OAuth with prepare-and-confirm safeguards.

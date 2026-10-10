@@ -12,9 +12,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-code-ide-el, claude-code-nvim]
 tags: [tooling, cli]
-stars: 4055
+stars: 4066
 eval_score: 1
-forks: 210
+forks: 211
 pushed_at: "2026-09-21T14:05:02Z"
 ---
 ## What it is

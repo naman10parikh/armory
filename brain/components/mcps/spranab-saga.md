@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-09-29T18:15:20Z"
+pushed_at: "2026-10-07T14:31:50Z"
 ---
 ## What it is
 MCP server `Saga`, catalogued on PulseMCP. SQLite-based project management with hierarchical projects, epics, tasks, subtasks, activity logging, and dashboard analytics.

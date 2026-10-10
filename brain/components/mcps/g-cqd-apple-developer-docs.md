@@ -8,12 +8,12 @@ source_url: https://github.com/g-cqd/apple-docs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-01T10:32:31Z"
+pushed_at: "2026-10-04T09:03:36Z"
 ---
 ## What it is
 MCP server `Apple Developer Docs`, catalogued on PulseMCP. Full-text search and browsing across 330,000+ Apple developer documentation pages with BM25 ranking and incremental sync.

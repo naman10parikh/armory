@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-08-03T04:11:13Z"
+pushed_at: "2026-10-05T04:12:19Z"
 ---
 ## What it is
 Enables AI assistants to interact with OSDU platform services including search, data management, and schema operations.

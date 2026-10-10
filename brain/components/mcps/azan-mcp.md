@@ -8,12 +8,12 @@ source_url: https://github.com/ahmedeltaher/azan-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 381
+stars: 380
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 107
+forks: 108
 pushed_at: "2026-06-02T09:38:24Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/safedep/vet
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1109
+stars: 1110
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 113
-pushed_at: "2026-10-03T11:12:30Z"
+forks: 114
+pushed_at: "2026-10-10T10:48:00Z"
 ---
 ## What it is
 MCP server `SafeDep Vet`, catalogued on PulseMCP. Protect against malicious open source packages

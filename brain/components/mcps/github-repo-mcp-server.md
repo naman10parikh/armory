@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T22:18:32Z"
+pushed_at: "2026-10-04T21:37:25Z"
 ---
 ## What it is
 Enables AI assistants to query GitHub repositories, issues, pull requests, CI status, and discover trending repos via natural language. Provides MCP tools, resources, and prompts for GitHub data access.

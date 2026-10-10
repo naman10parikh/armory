@@ -8,11 +8,11 @@ source_url: https://github.com/blockscout/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
+forks: 26
 pushed_at: "2026-09-08T03:19:30Z"
 ---
 ## What it is

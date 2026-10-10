@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T15:25:41Z"
+pushed_at: "2026-10-09T15:43:29Z"
 ---
 ## What it is
 Provides read-only access to StudyLife data including courses, notes, sessions, and learning goals, enabling MCP clients to query study information via natural language.

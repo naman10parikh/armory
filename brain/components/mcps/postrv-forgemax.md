@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-09-10T21:52:32Z"
+pushed_at: "2026-10-09T12:13:11Z"
 ---
 ## What it is
 MCP server `Forgemax`, catalogued on PulseMCP. Code Mode MCP Gateway that collapses N servers x M tools into 2 tools through sandboxed V8 JavaScript execution for cross-server orchestration.

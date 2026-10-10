@@ -8,12 +8,12 @@ source_url: https://github.com/promptadvisers/bench-studio-public
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 115
+stars: 119
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 46
+forks: 49
 pushed_at: "2026-08-14T13:59:56Z"
 ---
 ## What it is

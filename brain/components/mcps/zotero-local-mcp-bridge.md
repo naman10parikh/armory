@@ -8,13 +8,13 @@ source_url: https://github.com/PhoenixChenLu/zotero-local-mcp-bridge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T02:34:36Z"
+pushed_at: "2026-10-06T11:04:11Z"
 ---
 ## What it is
 Enables MCP-capable agents to securely manage a local Zotero library through a plugin-hosted MCP endpoint, supporting read, write, search, and import/export operations with safety workflows like dry-run and approval.

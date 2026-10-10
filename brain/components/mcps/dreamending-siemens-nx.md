@@ -8,12 +8,12 @@ source_url: https://github.com/dreamending/nx_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 101
+stars: 112
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
-pushed_at: "2026-10-03T10:38:18Z"
+forks: 21
+pushed_at: "2026-10-10T10:47:26Z"
 ---
 ## What it is
 MCP server `Siemens NX`, catalogued on PulseMCP. Controls Siemens NX CAD software through 47 tools covering 3D modeling, sketching, assembly, drawing creation, and measurement operations.

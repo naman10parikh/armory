@@ -8,13 +8,13 @@ source_url: https://github.com/datavilleorg/dataville-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T21:03:54Z"
+pushed_at: "2026-10-08T19:29:12Z"
 ---
 ## What it is
 Enables MCP clients to query Dataville's data sources using tools like list_dataville_sources and search_dataville.

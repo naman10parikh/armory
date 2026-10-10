@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-09-28T02:02:20Z"
+pushed_at: "2026-10-03T21:37:14Z"
 ---
 ## What it is
 Provides tools to interact with Odoo 19's External JSON-2 API, enabling CRUD operations and complex queries on Odoo databases with multi-company support.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T19:31:49Z"
+pushed_at: "2026-10-08T18:04:08Z"
 ---
 ## What it is
 MCP server for Infoset CRM that enables AI assistants to manage tickets, contacts, companies, SLA, and email threads with built-in rate limit handling and batch operations.

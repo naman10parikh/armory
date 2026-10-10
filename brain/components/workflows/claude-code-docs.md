@@ -14,9 +14,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [workflow, guide]
-stars: 53
+stars: 54
 forks: 5
-pushed_at: "2026-10-03T06:20:45Z"
+pushed_at: "2026-10-10T09:16:07Z"
 ---
 ## What it is
 A community workflow/command, catalogued in awesome-claude-code. A mirror of the Anthropic&copy; PBC documentation site for Claude/Code, but with bonus features like full-text search and query-time updates - a nice companion to `claude-code-docs` for up-to-the-minute, fully-indexed information so that Claude Code can read about itself.

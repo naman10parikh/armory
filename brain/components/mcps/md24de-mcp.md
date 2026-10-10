@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T18:04:59Z"
+pushed_at: "2026-10-04T20:07:58Z"
 ---
 ## What it is
 Unofficial MCP server for the messdienst24.de utility portal, providing tools to retrieve heating and hot-water consumption data, download PDF reports, and compare usage trends.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-24T23:56:11Z"
+pushed_at: "2026-10-09T06:58:42Z"
 ---
 ## What it is
 Look up US healthcare providers in the NPPES NPI registry and resolve NUCC specialty codes via MCP.

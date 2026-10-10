@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T11:39:09Z"
+pushed_at: "2026-10-08T14:28:27Z"
 ---
 ## What it is
 MCP server that integrates with multiple Google services, providing Claude with over 50 tools for managing tasks, contacts, calendar, Gmail, documents, spreadsheets, presentations, chat, and meetings.

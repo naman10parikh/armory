@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T12:40:56Z"
+pushed_at: "2026-10-09T13:12:25Z"
 ---
 ## What it is
 MCP server that indexes Markdown files into a local SQLite vector store and provides semantic search tools for Claude Code.

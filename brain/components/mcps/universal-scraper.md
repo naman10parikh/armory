@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T09:18:05Z"
+pushed_at: "2026-10-10T10:54:12Z"
 ---
 ## What it is
 MCP server for config-driven web scraping, offering tools to scrape, crawl, extract markdown, and check status.

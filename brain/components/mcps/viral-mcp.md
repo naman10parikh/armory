@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T11:36:55Z"
+pushed_at: "2026-10-07T11:46:57Z"
 ---
 ## What it is
 MCP server that wraps the last30days research engine, enabling agents to run topic research across social/web sources with a synthesis contract.

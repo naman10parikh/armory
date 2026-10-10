@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-03T05:04:36Z"
+pushed_at: "2026-10-09T04:17:36Z"
 ---
 ## What it is
 MCP server `Nexus`, catalogued on PulseMCP. Enables AI models to invoke AI CLI agents (Gemini CLI, Codex, Claude Code, OpenCode) as tools with parallel execution and automatic retries.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T06:19:30Z"
+pushed_at: "2026-10-05T19:03:46Z"
 ---
 ## What it is
 Stateless MCP server for Django, enabling Django applications to interact via the Model Context Protocol.

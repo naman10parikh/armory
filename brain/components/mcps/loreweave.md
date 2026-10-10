@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-25T16:46:14Z"
+pushed_at: "2026-10-09T09:50:58Z"
 ---
 ## What it is
 An MCP server that gives AI agents durable, temporal memory over local markdown vaults, with tools for searching, asserting facts, querying point-in-time state, and reinforcing useful knowledge.

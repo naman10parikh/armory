@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-03T11:48:18Z"
+pushed_at: "2026-10-07T16:16:29Z"
 ---
 ## What it is
 MCP server `Files.com`, catalogued on PulseMCP. Cloud-native file orchestration platform for automating secure file operations across multiple systems and protocols

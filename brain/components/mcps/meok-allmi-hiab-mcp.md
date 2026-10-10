@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-16T05:45:16Z"
+pushed_at: "2026-10-08T02:27:35Z"
 ---
 ## What it is
 Enables UK lorry-loader (HIAB) compliance management, including lift planning, operator/slinger card checks, thorough examinations, and delivery rejection risk scoring.

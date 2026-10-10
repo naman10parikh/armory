@@ -8,11 +8,11 @@ source_url: https://github.com/gongrzhe/office-word-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2108
+stars: 2107
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 289
+forks: 290
 pushed_at: "2025-12-31T13:23:05Z"
 ---
 ## What it is

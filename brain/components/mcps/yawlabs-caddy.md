@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-30T13:44:26Z"
+pushed_at: "2026-10-09T21:45:37Z"
 ---
 ## What it is
 MCP server `Caddy`, catalogued on PulseMCP. Manages Caddy web servers via the admin API with full coverage of config, routes, reverse proxies, TLS, PKI, metrics, and snapshots.

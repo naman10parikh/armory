@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T05:26:39Z"
+pushed_at: "2026-10-04T20:24:43Z"
 ---
 ## What it is
 A secure, local-first MCP server for read-only inspection and troubleshooting of development environments, exposing narrow, typed, auditable capabilities for repository inspection, log summarization, Docker review, and security scanning without granting unrestricted machine access.

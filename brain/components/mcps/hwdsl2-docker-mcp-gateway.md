@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-21T05:23:17Z"
+pushed_at: "2026-10-09T23:13:17Z"
 ---
 ## What it is
 MCP server `Docker MCP Gateway`, catalogued on PulseMCP. Self-hosted MCP gateway that aggregates multiple backend MCP servers behind a single authenticated HTTP endpoint using MCPHub and Caddy.

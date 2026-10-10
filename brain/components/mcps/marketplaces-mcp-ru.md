@@ -8,13 +8,13 @@ source_url: https://github.com/ilyautov/marketplaces-mcp-ru
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 38
+stars: 43
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-10-01T03:47:27Z"
+forks: 10
+pushed_at: "2026-10-07T09:36:43Z"
 ---
 ## What it is
 AI-доступ к кабинетам Wildberries и Ozon через MCP-сервера над Seller API. Обеспечивает 793 метода для управления продажами, остатками, ценами, финансами, отзывами и рекламой с safety-гейтом и авто-пагинацией.

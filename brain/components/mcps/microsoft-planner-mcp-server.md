@@ -8,13 +8,13 @@ source_url: https://github.com/aixolotl/microsoft-planner-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-07-03T08:24:35Z"
+pushed_at: "2026-10-06T09:37:22Z"
 ---
 ## What it is
 An unofficial MCP server that connects AI assistants to Microsoft Planner, enabling natural language task management such as creating tasks, organizing plans, and managing buckets.

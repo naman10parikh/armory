@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T09:17:27Z"
+pushed_at: "2026-10-08T22:46:05Z"
 ---
 ## What it is
 A secure MCP server providing controlled access to pixi tasks and commands, eliminating agent bash circumvention. It exposes 11 pixi tools through 4 meta-tools for ~95% context savings.

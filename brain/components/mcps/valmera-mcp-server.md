@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T12:08:29Z"
+pushed_at: "2026-10-06T15:50:52Z"
 ---
 ## What it is
 An agentic AI video editor for Claude. It enables editing real video through MCP: cutting, captioning, reframing, scoring, and exporting finished MP4s from actual footage.

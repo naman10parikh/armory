@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-27T01:03:08Z"
+pushed_at: "2026-10-06T03:43:01Z"
 ---
 ## What it is
 MCP server `Q-Ring by I4cTime`, catalogued on PulseMCP. Quantum-inspired keyring for AI coding agents with superposition, entanglement, and tunneling mechanics.

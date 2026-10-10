@@ -8,12 +8,12 @@ source_url: https://github.com/osanoai/multicli
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 74
+stars: 75
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 18
+forks: 19
 pushed_at: "2026-09-14T13:55:29Z"
 ---
 ## What it is

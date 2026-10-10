@@ -8,12 +8,12 @@ source_url: https://github.com/fannnnnnn5822/tavern-tanuki
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-09-16T20:07:32Z"
 ---
 ## What it is

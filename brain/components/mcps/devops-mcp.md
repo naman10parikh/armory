@@ -8,13 +8,13 @@ source_url: https://github.com/NotHarshhaa/devops-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-01T16:08:12Z"
+pushed_at: "2026-10-05T09:36:27Z"
 ---
 ## What it is
 Unified MCP server for DevOps engineers that provides real-time read and write access to Kubernetes, ArgoCD, Prometheus, and PagerDuty from any MCP-compatible AI agent.

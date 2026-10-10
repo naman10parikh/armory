@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T17:35:01Z"
+pushed_at: "2026-10-05T17:35:09Z"
 ---
 ## What it is
 Enables Claude Desktop and MCP clients to access Fathom meeting intelligence, including listing meetings, retrieving summaries and transcripts, and searching by title.

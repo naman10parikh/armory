@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T00:38:57Z"
+pushed_at: "2026-10-05T00:47:38Z"
 ---
 ## What it is
 Helps AI agents avoid repeating known failures by providing deterministic lookup of dead ends for coding errors and country-specific real-world rules.

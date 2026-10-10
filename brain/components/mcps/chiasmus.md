@@ -8,13 +8,13 @@ source_url: https://github.com/yogthos/chiasmus
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 213
+stars: 214
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-09-04T19:34:41Z"
+pushed_at: "2026-10-10T00:06:54Z"
 ---
 ## What it is
 MCP server that gives LLMs access to formal verification via Z3 and SWI-Prolog, plus tree-sitter-based source code analysis. Translates natural language problems into formal logic using a template-based pipeline, verifies results with mathematical certainty, and analyzes call graphs for reachability

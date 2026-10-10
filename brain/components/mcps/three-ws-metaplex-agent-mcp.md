@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-15T07:55:32Z"
+pushed_at: "2026-10-09T16:15:30Z"
 ---
 ## What it is
 Deploys AI agents on-chain into the Metaplex Agent Registry on Solana, minting Core assets with EIP-8004 identity. Supports self-custodial signing via server keypair or external wallets, with devnet support for free rehearsal.

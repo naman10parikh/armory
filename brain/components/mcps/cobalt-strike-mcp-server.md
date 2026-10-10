@@ -8,12 +8,12 @@ source_url: https://github.com/Cobalt-Strike/cobaltstrike-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 54
+stars: 55
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 9
 pushed_at: "2026-10-01T19:50:54Z"
 ---
 ## What it is

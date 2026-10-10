@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, frameworks]
-stars: 1348
-forks: 94
-pushed_at: "2026-10-03T10:04:00Z"
+stars: 1150
+forks: 88
+pushed_at: "2026-10-10T07:59:18Z"
 ---
 ## What it is
 Source-available, self-hosted AI workflow automation platform. Build multi-agent, RAG, and tool-using pipelines on a visual canvas, then expose any workflow as an MCP server (stdio/SSE/Streamable HTTP), or call external MCP servers from the agent node.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-02T21:45:57Z"
+pushed_at: "2026-10-05T10:02:01Z"
 ---
 ## What it is
 MCP server `Spinnaker`, catalogued on PulseMCP. Community MCP integration for the Spinnaker CD platform via Gate API.

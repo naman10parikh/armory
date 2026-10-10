@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/nhtsa-vehicle-safety-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T18:55:56Z"
+pushed_at: "2026-10-08T20:58:49Z"
 ---
 ## What it is
 Enables natural-language querying of NHTSA vehicle safety data, including VIN decoding, recall searches, consumer complaints, crash-test ratings, and defect investigations via MCP.

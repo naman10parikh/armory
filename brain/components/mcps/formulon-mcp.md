@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T03:13:41Z"
+pushed_at: "2026-10-07T01:27:20Z"
 ---
 ## What it is
 MCP server for Excel-compatible formula evaluation and workbook operations, enabling agents to open, inspect, mutate, recalculate, and save .xlsx files in-memory over stdio.

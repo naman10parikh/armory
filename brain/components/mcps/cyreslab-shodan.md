@@ -8,11 +8,11 @@ source_url: https://github.com/cyreslab-ai/shodan-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 12
 pushed_at: "2026-09-20T11:47:29Z"
 ---
 ## What it is

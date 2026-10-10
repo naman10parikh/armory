@@ -15,7 +15,7 @@ related: []
 tags: [glama, mcp]
 mentions: null
 forks: 3
-pushed_at: "2026-09-17T03:54:42Z"
+pushed_at: "2026-10-09T15:18:10Z"
 ---
 ## What it is
 An MCP server that connects AI assistants to university D2L Brightspace and Piazza, enabling query of courses, grades, assignments, deadlines, files, and Piazza posts.

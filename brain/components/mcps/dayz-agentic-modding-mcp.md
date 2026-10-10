@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-27T15:50:34Z"
+pushed_at: "2026-10-05T17:23:44Z"
 ---
 ## What it is
 MCP server that enables an agent to autonomously build, compile-check, test, and debug DayZ mods, integrating with the running game via a server bridge and providing structured verdicts, world manipulation, client control, and API knowledge indexing.

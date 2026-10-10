@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T22:15:05Z"
+pushed_at: "2026-10-07T05:28:08Z"
 ---
 ## What it is
 MCP server for Summits on the Air (SOTA) — live spots, activation alerts, summit info, and nearby summits through any MCP-compatible AI assistant.

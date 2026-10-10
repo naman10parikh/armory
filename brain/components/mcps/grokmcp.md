@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T06:23:58Z"
+pushed_at: "2026-10-08T01:36:02Z"
 ---
 ## What it is
 An MCP server for Grok (xAI) that enables chat, reasoning, vision, and video generation using the AceDataCloud API.

@@ -8,13 +8,13 @@ source_url: https://github.com/handong66/grok-plugin-codex
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T03:45:45Z"
+pushed_at: "2026-10-05T08:34:19Z"
 ---
 ## What it is
 An MCP server that exposes the local Grok CLI to Codex for bounded repo work, reviews, rescue analysis, adversarial checks, session listing/export, and background job management while keeping Codex hidden context out of scope.

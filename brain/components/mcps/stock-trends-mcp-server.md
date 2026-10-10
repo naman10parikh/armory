@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-23T20:22:20Z"
+pushed_at: "2026-10-10T11:19:21Z"
 ---
 ## What it is
 Local MCP adapter for public Stock Trends API resources, enabling credential-free access to public resources and a workflow cost estimation tool. It does not generate investment advice; it only translates published API responses for MCP clients.

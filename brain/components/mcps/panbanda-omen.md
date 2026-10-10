@@ -8,12 +8,12 @@ source_url: https://github.com/panbanda/omen
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-09-30T14:17:26Z"
+pushed_at: "2026-10-10T12:42:27Z"
 ---
 ## What it is
 MCP server `Omen`, catalogued on PulseMCP. Code analysis tool that helps identify complexity, technical debt, and defect risks

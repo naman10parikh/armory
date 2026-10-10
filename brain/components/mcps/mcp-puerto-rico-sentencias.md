@@ -8,13 +8,13 @@ source_url: https://github.com/ericalopezfebo/mcp-puerto-rico-sentencias
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T17:42:58Z"
+pushed_at: "2026-10-05T18:33:12Z"
 ---
 ## What it is
 Search, locate, and read Puerto Rico Supreme Court decisions and other public court documents directly from MCP clients, with strict source verification to prevent citation hallucinations.

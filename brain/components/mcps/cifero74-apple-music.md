@@ -8,12 +8,12 @@ source_url: https://github.com/cifero74/mcp-apple-music
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
-pushed_at: "2026-09-30T13:58:31Z"
+forks: 10
+pushed_at: "2026-10-09T15:35:12Z"
 ---
 ## What it is
 MCP server `Apple Music`, catalogued on PulseMCP. Integrates with Apple Music via MusicKit to search catalog, manage playlists, and access listening history.

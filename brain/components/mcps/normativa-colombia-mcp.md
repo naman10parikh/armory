@@ -8,13 +8,13 @@ source_url: https://github.com/Angelthebestone/Normativa-colombiana-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T04:58:32Z"
+pushed_at: "2026-10-04T22:12:55Z"
 ---
 ## What it is
 Consulta normativa y jurisprudencia colombiana desde Claude, conectando con el Gestor Normativo y la Relatoría de la Corte Constitucional.

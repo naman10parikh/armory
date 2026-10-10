@@ -8,13 +8,13 @@ source_url: https://github.com/theagenticguy/opencodehub
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-11T05:27:04Z"
+pushed_at: "2026-10-09T02:10:38Z"
 ---
 ## What it is
 Provides code intelligence for AI coding agents by indexing repositories into a hybrid knowledge graph, enabling agents to query dependencies, impact, and context through 28 MCP tools.

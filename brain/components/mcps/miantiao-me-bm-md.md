@@ -8,11 +8,11 @@ source_url: https://github.com/miantiao-me/bm.md
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 618
+stars: 617
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 75
+forks: 77
 pushed_at: "2026-09-29T12:55:48Z"
 ---
 ## What it is

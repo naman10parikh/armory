@@ -8,12 +8,12 @@ source_url: https://github.com/jinho-von-choi/parism
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-03T02:22:42Z"
+pushed_at: "2026-10-07T22:36:52Z"
 ---
 ## What it is
 MCP server `Parism`, catalogued on PulseMCP. Structured shell output parser for command execution.

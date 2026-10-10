@@ -8,13 +8,13 @@ source_url: https://github.com/ODATANO/NIGHTGATE-MCP
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-03T07:45:26Z"
+pushed_at: "2026-10-04T00:35:48Z"
 ---
 ## What it is
 MCP server that lets AI agents interact with NIGHTGATE, the Midnight blockchain attestation layer, to anchor documents, verify zero-knowledge predicates, manage disclosure grants, and poll async jobs.

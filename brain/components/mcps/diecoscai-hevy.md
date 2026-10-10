@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-07T09:55:09Z"
+pushed_at: "2026-10-05T12:00:19Z"
 ---
 ## What it is
 MCP server `Hevy`, catalogued on PulseMCP. Manages workouts, routines, exercises, and body measurements through the Hevy fitness app API.

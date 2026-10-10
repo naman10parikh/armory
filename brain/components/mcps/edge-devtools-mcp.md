@@ -8,12 +8,12 @@ source_url: https://github.com/syunnrai123/Edge-DevTools-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2025-10-24T15:06:31Z"
 ---
 ## What it is

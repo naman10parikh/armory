@@ -8,13 +8,13 @@ source_url: https://github.com/logospell/logospell-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T22:15:23Z"
+pushed_at: "2026-10-10T09:21:39Z"
 ---
 ## What it is
 AI-agent image generation: cohesive image sets and single illustrations over MCP. PNG/WebP (optional transparency) or JPEG.

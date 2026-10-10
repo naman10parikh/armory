@@ -8,12 +8,12 @@ source_url: https://github.com/m0n0x41d/haft
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1393
+stars: 1397
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 102
+forks: 101
 pushed_at: "2026-09-28T16:14:11Z"
 ---
 ## What it is

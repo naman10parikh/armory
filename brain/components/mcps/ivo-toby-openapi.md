@@ -8,11 +8,11 @@ source_url: https://github.com/ivo-toby/mcp-openapi-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 297
+stars: 298
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 61
+forks: 63
 pushed_at: "2026-06-15T14:57:25Z"
 ---
 ## What it is

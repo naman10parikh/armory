@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-03T12:09:59Z"
+pushed_at: "2026-10-03T12:25:54Z"
 ---
 ## What it is
 Enables interaction with TripIt travel planning service, allowing users to manage trips, hotel reservations, flights, transport, activities, and documents via natural language.

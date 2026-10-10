@@ -8,13 +8,13 @@ source_url: https://github.com/william-laverty/ato-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-10-01T13:31:24Z"
+forks: 3
+pushed_at: "2026-10-09T04:31:03Z"
 ---
 ## What it is
 MCP server that connects AI agents to 34,500+ Australian Taxation Office documents, providing cited answers, tax deduction discovery, depreciation scheduling, BAS checklists, and audit risk assessment through 13 specialized tools.

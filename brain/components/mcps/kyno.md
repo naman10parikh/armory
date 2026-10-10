@@ -8,13 +8,13 @@ source_url: https://github.com/cizambra/kyno
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-02T06:46:18Z"
+forks: 1
+pushed_at: "2026-10-04T03:53:48Z"
 ---
 ## What it is
 A coherence control plane that provides a versioned source of truth for an agent system's mission and principles over MCP, enabling agents to pull the current direction and receive change notifications.

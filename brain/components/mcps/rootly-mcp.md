@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T10:09:26Z"
+pushed_at: "2026-10-08T21:19:12Z"
 ---
 ## What it is
 MCP server for the Rootly incident management platform — alerts, incidents, on-call schedules

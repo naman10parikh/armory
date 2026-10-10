@@ -8,12 +8,12 @@ source_url: https://github.com/netdata/netdata
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80787
+stars: 80871
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6645
-pushed_at: "2026-10-03T11:22:48Z"
+forks: 6661
+pushed_at: "2026-10-10T09:01:13Z"
 ---
 ## What it is
 MCP server `Netdata`, catalogued on PulseMCP. Real-time infrastructure monitoring with metrics, logs, alerts, and ML anomaly detection

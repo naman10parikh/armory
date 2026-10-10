@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-05T05:02:07Z"
+pushed_at: "2026-10-06T08:23:02Z"
 ---
 ## What it is
 Enables MCP-compatible LLMs to interact with the MOCO ERP API, providing full read/write access to time tracking, projects, invoices, contacts, and other endpoints.

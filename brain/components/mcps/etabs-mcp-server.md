@@ -8,12 +8,12 @@ source_url: https://github.com/mdvaleed7/ETABS-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 3
 pushed_at: "2026-06-23T09:34:18Z"
 ---
 ## What it is

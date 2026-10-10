@@ -8,12 +8,12 @@ source_url: https://github.com/zoharbabin/web-researcher-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 63
+stars: 65
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-10-01T03:49:11Z"
+pushed_at: "2026-10-06T19:23:09Z"
 ---
 ## What it is
 MCP server `Web Researcher`, catalogued on PulseMCP. Web search, content extraction, and multi-source research MCP server with eight specialized tools and multiple search backend support.

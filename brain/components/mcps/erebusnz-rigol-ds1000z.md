@@ -8,12 +8,12 @@ source_url: https://github.com/erebusnz/rigol-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-07-19T03:06:08Z"
+pushed_at: "2026-10-10T10:50:31Z"
 ---
 ## What it is
 MCP server `Rigol DS1000Z Oscilloscope`, catalogued on PulseMCP. Controls Rigol DS1000Z series oscilloscopes over LAN for measurements, waveform capture, and instrument configuration.

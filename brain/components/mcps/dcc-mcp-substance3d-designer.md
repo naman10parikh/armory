@@ -8,13 +8,13 @@ source_url: https://github.com/dcc-mcp/dcc-mcp-substance3d-designer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-01T11:52:43Z"
+forks: 3
+pushed_at: "2026-10-08T02:16:15Z"
 ---
 ## What it is
 Adapter that runs an MCP server inside Substance 3D Designer, enabling tools to inspect and interact with the active designer session and its packages through natural language.

@@ -8,12 +8,12 @@ source_url: https://github.com/codeofaxel/kiln
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 89
+stars: 92
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 17
-pushed_at: "2026-10-03T00:16:20Z"
+pushed_at: "2026-10-09T22:08:05Z"
 ---
 ## What it is
 MCP server `Kiln`, catalogued on PulseMCP. AI agent control of 3D printers for OctoPrint, Moonraker, Bambu, Prusa, and Elegoo.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-10-02T14:07:57Z"
+forks: 3
+pushed_at: "2026-10-10T11:12:07Z"
 ---
 ## What it is
 Build and run a complete backend from your agent: relational data with row-/field-level security, full-text + semantic + geo search, RBAC and BYOK, a workflow/automation engine, a growth & retention engine (email, push, promotions, per-user referral codes, rewards and points), payments and marketpla

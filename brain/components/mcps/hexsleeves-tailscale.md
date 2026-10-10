@@ -8,12 +8,12 @@ source_url: https://github.com/hexsleeves/tailscale-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 138
+stars: 142
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-09-28T16:54:20Z"
+pushed_at: "2026-10-09T17:35:05Z"
 ---
 ## What it is
 MCP server `Tailscale`, catalogued on PulseMCP. Integrates with Tailscale's CLI and REST API to provide network management capabilities including device authorization, route configuration, ACL management, DNS settings, exit node setup, and user administration for distributed infrastructure operations.

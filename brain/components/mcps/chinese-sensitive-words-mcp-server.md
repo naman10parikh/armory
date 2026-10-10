@@ -8,12 +8,12 @@ source_url: https://github.com/CCCpan/chinese-sensitive-words-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 113
+stars: 105
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-03-15T03:32:20Z"
 ---
 ## What it is

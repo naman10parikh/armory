@@ -8,12 +8,12 @@ source_url: https://github.com/twjackysu/twsemcpserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 168
+stars: 173
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 47
-pushed_at: "2026-09-30T10:36:53Z"
+forks: 48
+pushed_at: "2026-10-08T09:10:37Z"
 ---
 ## What it is
 MCP server `Taiwan Stock Exchange`, catalogued on PulseMCP. Integrates with Taiwan Stock Exchange OpenAPI to provide comprehensive stock market data including company fundamentals, trading patterns, market indices, and valuation metrics for financial analysis and investment research.

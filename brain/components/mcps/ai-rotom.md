@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-02T18:15:09Z"
+pushed_at: "2026-10-09T17:41:34Z"
 ---
 ## What it is
 MCP server for Pokémon battle advising: provides type matchups, damage calculation, party analysis, and move/ability data for AI agents like Claude Code and Codex.

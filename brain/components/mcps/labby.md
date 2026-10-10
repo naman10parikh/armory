@@ -8,13 +8,13 @@ source_url: https://github.com/dinglebear-ai/labby
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-03T12:12:23Z"
+pushed_at: "2026-10-10T01:41:41Z"
 ---
 ## What it is
 Labby is a Rust-based MCP gateway that connects and aggregates multiple upstream MCP servers, with authentication, Code Mode (JavaScript snippets), and an operator web UI.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-03-07T06:31:15Z"
+pushed_at: "2026-10-10T07:09:33Z"
 ---
 ## What it is
 MCP server `MCP Advisor`, catalogued on PulseMCP. Discovery and recommendation service that helps find and understand available MCP services based on natural language queries, supporting multiple search backends for exploring servers by semantic similarity.

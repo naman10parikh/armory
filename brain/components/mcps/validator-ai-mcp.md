@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T12:44:41Z"
+pushed_at: "2026-10-08T04:15:40Z"
 ---
 ## What it is
 An MCP server for validating JSON against schemas, checking email deliverability, verifying URLs, assessing data quality, and validating API responses using RFC-compliant checks and heuristic analysis.

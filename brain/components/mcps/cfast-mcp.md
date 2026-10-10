@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T22:53:02Z"
+pushed_at: "2026-10-06T00:32:14Z"
 ---
 ## What it is
 Enables LLMs to build, inspect, run, and analyze CFAST fire models step by step via tools for compartments, materials, vents, fires, devices, and surface connections, with simulation and result summaries.

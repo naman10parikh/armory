@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T12:44:00Z"
+pushed_at: "2026-10-08T04:24:56Z"
 ---
 ## What it is
 Analyze stocks with financial ratios, comparisons, and sector performance data.

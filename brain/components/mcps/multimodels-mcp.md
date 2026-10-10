@@ -8,12 +8,12 @@ source_url: https://github.com/dpmadsen/multimodels-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-08-01T18:16:09Z"
 ---
 ## What it is

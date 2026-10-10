@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T21:06:22Z"
+pushed_at: "2026-10-07T00:23:33Z"
 ---
 ## What it is
 MCP server for accessing Vaultwarden servers with multi-account support.

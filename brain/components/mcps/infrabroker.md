@@ -8,13 +8,13 @@ source_url: https://github.com/luisgf/infrabroker
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T06:52:01Z"
+pushed_at: "2026-10-06T19:54:51Z"
 ---
 ## What it is
 Infrastructure access broker for AI agents — SSH & Kubernetes. Per-operation ephemeral credentials minted by a separate signer; the model never touches one. MCP stdio / HTTP+OIDC.

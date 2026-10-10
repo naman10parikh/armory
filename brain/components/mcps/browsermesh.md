@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T01:23:57Z"
+pushed_at: "2026-10-08T08:09:48Z"
 ---
 ## What it is
 A local, open-source MCP server that enables AI clients to control multiple isolated Chromium browser sessions concurrently, with explicit session and page addressing and independent state.

@@ -8,12 +8,12 @@ source_url: https://github.com/Atomic-Mail/atomic-mail-agentic
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 267
+stars: 266
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 66
+forks: 65
 pushed_at: "2026-09-27T19:39:14Z"
 ---
 ## What it is

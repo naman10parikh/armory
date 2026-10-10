@@ -8,11 +8,11 @@ source_url: https://github.com/loonghao/wecom-bot-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 103
+stars: 104
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
+forks: 19
 pushed_at: "2026-10-03T01:31:49Z"
 ---
 ## What it is

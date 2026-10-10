@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-22T17:40:07Z"
+pushed_at: "2026-10-07T08:38:58Z"
 ---
 ## What it is
 Enables explaining Linux incidents over SSH with baseline-aware MCP tooling, including live diagnostics, SQLite history, and review-first workflows.

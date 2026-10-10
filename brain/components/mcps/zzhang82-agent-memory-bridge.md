@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 6
-forks: 0
-pushed_at: "2026-09-30T13:08:19Z"
+stars: 7
+forks: 1
+pushed_at: "2026-10-07T23:35:33Z"
 ---
 ## What it is
 MCP-native, local-first memory for coding agents that turns coding sessions into reusable engineering memory: decisions, gotchas, and domain knowledge.

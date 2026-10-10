@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T19:18:18Z"
+pushed_at: "2026-10-06T18:25:45Z"
 ---
 ## What it is
 A read-only MCP server that synchronizes Garmin Connect summaries into a local SQLite cache and provides tools to query daily activity, recent activities, and recovery data.

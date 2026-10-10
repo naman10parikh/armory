@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T23:29:53Z"
+pushed_at: "2026-10-10T02:30:11Z"
 ---
 ## What it is
 MCP server for Kenya labor market coordination, providing tools for job matching, wage benchmarks, skills gap analysis, informal sector registration, contract templates, and labor rights queries based on the Kenya Employment Act.

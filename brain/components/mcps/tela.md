@@ -8,12 +8,12 @@ source_url: https://github.com/zcag/tela
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 73
+stars: 75
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 9
 pushed_at: "2026-09-29T20:23:46Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-17T02:48:00Z"
+pushed_at: "2026-10-10T05:35:02Z"
 ---
 ## What it is
 MCP server to debug Telegram bots by controlling your Telegram user session over MTProto. It enables sending messages, reading chats, handling updates, and invoking raw Telegram API methods.

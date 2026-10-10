@@ -8,13 +8,13 @@ source_url: https://github.com/TrueConf/trueconf-server-mcp
 license: BSD 3-Clause Clear License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T20:59:24Z"
+pushed_at: "2026-10-05T20:02:29Z"
 ---
 ## What it is
 Enables managing TrueConf Server conferences, recordings, invitations, participants, chats, and calendars from any MCP client. Supports OAuth authentication and exposes 32 tools for conference, recording, and invitation management.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-24T11:46:01Z"
+pushed_at: "2026-10-07T16:22:25Z"
 ---
 ## What it is
 MCP server `Generect`, catalogued on PulseMCP. B2B lead generation platform with real-time contact discovery and validation

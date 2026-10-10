@@ -8,13 +8,13 @@ source_url: https://github.com/r3dz4r/datapulse-my
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T11:54:37Z"
+pushed_at: "2026-10-10T13:19:50Z"
 ---
 ## What it is
 Trust layer for 375 Malaysian public datasets. Independent probes every 15 min, 10-status taxonomy, machine-readable licence metadata, read-only MCP. No API key.

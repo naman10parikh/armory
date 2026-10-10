@@ -8,13 +8,13 @@ source_url: https://github.com/piotr-agier/google-drive-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 222
+stars: 224
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 114
-pushed_at: "2026-10-01T12:01:27Z"
+forks: 115
+pushed_at: "2026-10-10T11:10:19Z"
 mentions: 1
 ---
 ## What it is

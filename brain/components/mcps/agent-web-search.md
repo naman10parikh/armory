@@ -8,12 +8,12 @@ source_url: https://github.com/JerryLiu369/agent-web-search
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 4
 pushed_at: "2026-10-02T15:05:07Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/dreamiurg/mountaineers-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-28T21:16:33Z"
+forks: 1
+pushed_at: "2026-10-05T23:07:25Z"
 ---
 ## What it is
 Enables AI assistants to search and browse mountaineers.org for activities, courses, trip reports, and routes, and optionally access authenticated user data such as upcoming activities, badges, and member profiles.

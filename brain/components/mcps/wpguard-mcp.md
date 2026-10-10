@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T01:15:23Z"
+pushed_at: "2026-10-10T12:33:28Z"
 ---
 ## What it is
 An MCP server that enables safe reconnaissance, mutation, and verification of WordPress sites through guarded, typed verbs with dry-run previews and change-packet audit records.

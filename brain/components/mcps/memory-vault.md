@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-09-30T15:21:23Z"
+pushed_at: "2026-10-10T12:39:26Z"
 ---
 ## What it is
 MCP server `Memory Vault`, catalogued on PulseMCP. Self-hosted AI memory layer with hybrid semantic and keyword search, backed by Postgres and pgvector.

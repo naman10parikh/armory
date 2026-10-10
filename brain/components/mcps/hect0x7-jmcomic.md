@@ -8,7 +8,7 @@ source_url: https://github.com/hect0x7/jmcomic-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 110
+stars: 113
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -8,12 +8,12 @@ source_url: https://github.com/goklab/guardvibe
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-03T06:10:32Z"
+pushed_at: "2026-10-10T10:27:29Z"
 ---
 ## What it is
 MCP server `GuardVibe`, catalogued on PulseMCP. Security scanner for AI-generated code with 330+ rules covering Next.js, Supabase, Stripe, Prisma, and the full vibe-coding stack.

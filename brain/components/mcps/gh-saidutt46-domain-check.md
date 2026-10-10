@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 21
-pushed_at: "2026-09-29T05:19:46Z"
+pushed_at: "2026-10-10T07:48:50Z"
 ---
 ## What it is
 MCP server `Domain Check`, catalogued on PulseMCP. Universal domain availability checker with RDAP/WHOIS, batch checks, TLD presets, and name generation.

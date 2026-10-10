@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-16T05:45:31Z"
+pushed_at: "2026-10-08T02:28:13Z"
 ---
 ## What it is
 Enables reporting of actively exploited vulnerabilities in compliance with EU CRA Article 14, generating ENISA and CSIRT payloads.

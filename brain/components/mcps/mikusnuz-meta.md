@@ -8,12 +8,12 @@ source_url: https://github.com/mikusnuz/meta-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
-pushed_at: "2026-08-29T19:05:06Z"
+forks: 11
+pushed_at: "2026-10-08T10:00:16Z"
 ---
 ## What it is
 MCP server `Instagram & Threads`, catalogued on PulseMCP. Manage Instagram and Threads content, analytics, and engagement through Meta's Graph API v25.0.

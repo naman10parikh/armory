@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-10-03T11:34:16Z"
+forks: 5
+pushed_at: "2026-10-09T06:58:56Z"
 ---
 ## What it is
 Verifies legal citations by fetching the exact, in-force wording of cited articles from official PL and EU legal sources, preventing hallucination by returning verbatim text.

@@ -8,13 +8,13 @@ source_url: https://github.com/DanceNitra/mnemo
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T05:53:53Z"
+pushed_at: "2026-10-10T10:48:38Z"
 ---
 ## What it is
 mnemo — an MCP server for agent memory with a first-class correction & erasure channel (revert, lineage-aware retraction, tamper-evident deletion receipts). Zero dependencies, 12 tools over stdio

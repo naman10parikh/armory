@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T18:18:54Z"
+pushed_at: "2026-10-10T10:57:43Z"
 ---
 ## What it is
 ATS resume scoring, job-description analysis, interview prep, cover letters, resume building and auto-apply that submits on the employer's own hiring system. Hosted remote server over Streamable HTTP with OAuth 2.1.

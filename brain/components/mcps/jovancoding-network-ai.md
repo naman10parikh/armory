@@ -13,7 +13,7 @@ related: []
 tags: [mcp, aggregators]
 stars: 78
 forks: 13
-pushed_at: "2026-09-29T16:02:07Z"
+pushed_at: "2026-10-05T23:10:03Z"
 ---
 ## What it is
 Multi-agent orchestration MCP server with race-condition-safe shared blackboard. 20+ MCP tools: blackboard read/write, agent spawn/stop, FSM transitions, budget tracking, token management, and audit log query. `npx network-ai-server --port 3001`.

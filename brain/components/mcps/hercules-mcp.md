@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T10:58:15Z"
+pushed_at: "2026-10-07T21:59:45Z"
 ---
 ## What it is
 Enables AI agents to perform professional penetration testing through a containerized Kali Linux environment, exposing industry-standard offensive security tools as structured MCP tools.

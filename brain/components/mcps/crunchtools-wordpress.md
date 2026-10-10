@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-02T13:41:03Z"
+pushed_at: "2026-10-10T12:12:58Z"
 ---
 ## What it is
 MCP server `WordPress by crunchtools`, catalogued on PulseMCP. Manages WordPress posts, pages, media, and comments via the WordPress REST API.

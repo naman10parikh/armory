@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-09-30T09:06:13Z"
+forks: 6
+pushed_at: "2026-10-08T08:58:19Z"
 ---
 ## What it is
 Enables AI assistants to fully interact with Odoo ERP instances over XML-RPC, supporting read and write operations on any model without requiring Odoo module installation.

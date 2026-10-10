@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T10:02:49Z"
+pushed_at: "2026-10-08T17:45:23Z"
 ---
 ## What it is
 Unofficial MCP server for the Apps API that enables managing customers, payments, plans, coupons, and Discord integration through natural language.

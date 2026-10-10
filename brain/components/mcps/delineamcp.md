@@ -8,13 +8,13 @@ source_url: https://github.com/DelineaXPM/delinea-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 46
+stars: 47
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-10-03T00:17:42Z"
+pushed_at: "2026-10-10T04:44:30Z"
 ---
 ## What it is
 MCP server for the Delinea Secret Server and Platform APIs, enabling AI agents to manage secrets, users, groups, folders, roles, and access requests through natural language commands.

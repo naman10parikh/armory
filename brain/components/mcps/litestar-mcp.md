@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-28T19:28:19Z"
+forks: 4
+pushed_at: "2026-10-09T20:15:06Z"
 ---
 ## What it is
 A Litestar plugin that automatically exposes marked routes as MCP tools and resources over Streamable HTTP.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-10-03T03:52:45Z"
+pushed_at: "2026-10-06T21:21:48Z"
 ---
 ## What it is
 MCP server `Vantage Cloud Cost Management`, catalogued on PulseMCP. Provides real-time cloud cost management data across multiple providers (AWS, Azure, etc.) for analyzing spending patterns, tracking budgets, detecting anomalies, and optimizing cloud infrastructure costs.

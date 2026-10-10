@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T01:48:51Z"
+pushed_at: "2026-10-08T16:34:47Z"
 ---
 ## What it is
 A generic MCP server for querying Emma-app transaction exports stored in Google Sheets, supporting filters, summaries, and metadata via CSV fetching.

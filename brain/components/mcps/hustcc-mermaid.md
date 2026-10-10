@@ -8,7 +8,7 @@ source_url: https://github.com/hustcc/mcp-mermaid
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 640
+stars: 642
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

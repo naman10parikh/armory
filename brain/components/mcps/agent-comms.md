@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-10-02T20:33:09Z"
+forks: 9
+pushed_at: "2026-10-10T09:52:35Z"
 ---
 ## What it is
 Cross-harness communication mesh for LLM agents enabling rooms, DMs, presence, and visibility over TCP.

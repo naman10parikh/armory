@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T20:22:21Z"
+pushed_at: "2026-10-07T19:49:11Z"
 ---
 ## What it is
 RoastPilot is a spec-driven MCP server for autonomous coffee roasting.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T09:15:23Z"
+pushed_at: "2026-10-09T23:02:48Z"
 ---
 ## What it is
 A local, keyless MCP server simulating Forge's industrial telemetry kernel, enabling agents to normalize vendor-specific machine data, forecast breaches, and test integrations against realistic equipment data without credentials or persistence.

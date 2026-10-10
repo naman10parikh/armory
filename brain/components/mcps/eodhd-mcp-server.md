@@ -8,13 +8,13 @@ source_url: https://github.com/EodHistoricalData/EODHD-MCP-Server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-17T13:14:05Z"
+pushed_at: "2026-10-10T01:11:17Z"
 ---
 ## What it is
 Enables interaction with EOD Historical Data APIs, providing access to 75 read-only tools for financial data including fundamentals, news, screeners, and options via MCP transports.

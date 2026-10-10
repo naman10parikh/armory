@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 39
-pushed_at: "2026-10-01T02:51:04Z"
+pushed_at: "2026-10-07T19:39:05Z"
 ---
 ## What it is
 MCP server `IBM i`, catalogued on PulseMCP. Provides direct access to IBM i (AS/400) systems through SQL-based tools and database operations with security validation, connection pooling, and specialized monitoring capabilities for system administration and performance analysis.

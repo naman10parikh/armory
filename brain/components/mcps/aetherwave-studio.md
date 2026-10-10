@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T06:15:56Z"
+pushed_at: "2026-10-05T14:33:11Z"
 ---
 ## What it is
 One MCP server for music, image, video, and audio generation across Suno, Grok Imagine, Seedance, Kling, Hailuo, Wan, VEO, Ideogram, and GPT Image 2. Generate, edit, upscale, reframe, and master through one API key and one credit pool.

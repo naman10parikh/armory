@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T06:06:52Z"
+pushed_at: "2026-10-07T13:37:00Z"
 ---
 ## What it is
 MCP server for searching, browsing, and analyzing decompiled Minecraft source code locally. Supports symbol lookup, text search, reference lookup, and lightweight RAG.

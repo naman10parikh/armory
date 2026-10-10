@@ -8,13 +8,13 @@ source_url: https://github.com/harshi79/telebotstudio-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
-pushed_at: "2026-09-30T01:53:54Z"
+forks: 2
+pushed_at: "2026-10-07T01:34:11Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve official TeleBot Studio documentation via BM25, eliminating hallucinations by grounding responses in verified markdown files.

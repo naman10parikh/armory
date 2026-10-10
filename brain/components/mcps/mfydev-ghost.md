@@ -8,11 +8,11 @@ source_url: https://github.com/mfydev/ghost-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 236
+stars: 235
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 65
+forks: 66
 pushed_at: "2026-04-27T03:50:34Z"
 ---
 ## What it is

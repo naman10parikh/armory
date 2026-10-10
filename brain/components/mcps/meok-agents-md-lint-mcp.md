@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:34:31Z"
+pushed_at: "2026-10-08T01:03:29Z"
 ---
 ## What it is
 Validates AGENTS.md files against the cross-vendor coding-agent spec, detecting security smells and consistency issues.

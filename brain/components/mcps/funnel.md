@@ -8,7 +8,7 @@ source_url: https://github.com/chris-schra/mcp-funnel
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 156
+stars: 158
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

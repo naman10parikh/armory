@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-29T21:11:44Z"
+pushed_at: "2026-10-09T22:00:38Z"
 ---
 ## What it is
 MCP server `Froglet`, catalogued on PulseMCP. Protocol and node implementation for a bot economy enabling bots to create, publish, discover, and transact remote resources.

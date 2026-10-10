@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T00:01:30Z"
+pushed_at: "2026-10-08T18:30:28Z"
 ---
 ## What it is
 Provides coding agents with governed semantic memory and code-graph context via MCP, enabling code-linked recall, blast-radius impact analysis, and lifecycle-aware memory management.

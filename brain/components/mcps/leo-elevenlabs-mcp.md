@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T20:50:00Z"
+pushed_at: "2026-10-09T22:23:16Z"
 ---
 ## What it is
 An MCP server that provides ElevenLabs text-to-speech as a Leo provider package, enabling text synthesis to base64 audio and voice listing through the Leo speech pipeline.

@@ -8,12 +8,12 @@ source_url: https://github.com/Seann0824/deepseek-harness-for-codex
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-08-16T17:43:10Z"
 ---
 ## What it is

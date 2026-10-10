@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 73
-pushed_at: "2026-10-01T21:59:17Z"
+pushed_at: "2026-10-10T02:12:58Z"
 ---
 ## What it is
 MCP server `Dot AI (Kubernetes Deployment)`, catalogued on PulseMCP. Automates Kubernetes deployment workflows with intelligent resource discovery, intent-based recommendations, manifest generation, and deployment execution while capturing organizational patterns through vector search for codifying deployment knowledge and providing deployment guidance.
