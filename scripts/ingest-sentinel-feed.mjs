@@ -108,10 +108,12 @@ for (const [row, t] of scored) {
 const repoKey = (u) => { const m = String(u || "").match(/github\.com\/([^/\s#?]+)\/([^/\s#?]+)/i); return m ? `${m[1]}/${m[2].replace(/\.git$/i, "")}` : ""; };
 // Shelf assignment: ingest/shelf.mjs (the repository's own description, deterministic, no LLM).
 const today = new Date().toISOString().slice(0, 10);
-// Taste floor for NEW rows: a name-only mention resolved to a repo must show real adoption before it
-// enters the catalog (the crawler uses the same idea). Mentions alone do not admit a row.
-const MIN_STARS = Number(val("--min-stars", 100));
-const MIN_MENTIONS = Number(val("--min-mentions", 3)); // one note naming a tool is noise; three is a pattern
+// No floor by default (CP153, chairman checklist item 90, 10 Oct 2026): Armory is the superset of every tool a
+// brain names, so a named tool with a repository gets a row however few stars or notes it has. The row carries
+// its real stars and mentions and starts as `experimental`, so it ranks low until it earns more. A source that
+// wants the old taste floor passes --min-stars 100 --min-mentions 3 (the crawler keeps its own, crawl-to-pr.mjs).
+const MIN_STARS = Number(val("--min-stars", 0));
+const MIN_MENTIONS = Number(val("--min-mentions", 1));
 let stubs = 0, skipped = 0, belowFloor = 0, noRepo = 0;
 const planned = [];
 const trialFor = latestTrials(feed.tested); // CP143 Q21: a passing trial of an agent component stands in for the notes
