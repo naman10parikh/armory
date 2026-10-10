@@ -2,6 +2,7 @@
   "name": "@namanparikh/armory",
   "version": "0.1.0",
   "description": "Armory: where agents gear up. Install harness components (MCPs, skills, subagents, rules, hooks) into any coding harness.",
+  "repository": { "type": "git", "url": "git+https://github.com/naman10parikh/armory.git", "directory": "cli" },
   "type": "module",
   "bin": {
     "armory": "dist/index.js"
