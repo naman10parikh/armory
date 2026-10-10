@@ -2,8 +2,8 @@
 name: playwright-cli
 type: clis-tools
 description: >
-  Playwright CLI bundled with the @playwright/test package. It provides codegen, screenshot, pdf, and trace viewer commands for headless browser scripting; the canonical Playwright command-line interface.
-source_repo: microsoft/playwright
+  CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
+source_repo: microsoft/playwright-cli
 source_url: "https://github.com/microsoft/playwright-cli"
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
@@ -15,16 +15,16 @@ related: []
 tags: [browser, playwright]
 forks: 767
 pushed_at: "2026-09-28T23:23:12Z"
-mentions: 1
+mentions: 2
 ---
 ## What it is
-Playwright CLI bundled with the @playwright/test package. It provides codegen, screenshot, pdf, and trace viewer commands for headless browser scripting; the canonical Playwright command-line interface.
+CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots. It is its own package, @playwright/cli, separate from the CLI inside @playwright/test.
 
 ## When to use it
-Playwright CLI bundled with the @playwright/test package. It provides codegen, screenshot, pdf, and trace viewer commands for headless browser scripting; the canonical Playwright command-line interface.
+When an agent or a person needs to drive a browser from the shell: open a page, act on it, take a screenshot or record the actions as Playwright code.
 
 ## How to install / invoke
-See the source repo README: https://github.com/microsoft/playwright
+`npm install -g @playwright/cli@latest`, then `playwright-cli --help` (the README: https://github.com/microsoft/playwright-cli)
 
 ## Notes
 Curated by the Engram browser-tools adapter. Pending verify -> promote.

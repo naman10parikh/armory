@@ -88,11 +88,12 @@
           "why": "Codegen, screenshot, PDF and trace commands for headless browser scripting",
           "reason": "Picked to drive a browser from the terminal; most rows above it are terminal apps and other command-line tools, and Puppeteer, the closest match, has no WebKit.",
           "armoryName": "playwright-cli",
-          "url": "https://github.com/microsoft/playwright"
+          "url": "https://github.com/microsoft/playwright-cli"
         },
         {
           "name": "gh",
           "why": "GitHub from the terminal: issues, pull requests, releases, repository search",
+          "reason": "Agent Reach scores above it on mentions, but our hands-on trial found its X and Instagram readers not safe with a real account as shipped; gh is GitHub's own command-line tool.",
           "armoryName": "gh",
           "url": "https://github.com/cli/cli"
         },

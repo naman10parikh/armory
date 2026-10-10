@@ -8,13 +8,13 @@ source_url: https://github.com/kentcdodds/kody
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 755
+stars: 759
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 71
-pushed_at: "2026-10-10T12:19:15Z"
+forks: 72
+pushed_at: "2026-10-10T23:17:59Z"
 ---
 ## What it is
 Kody is an MCP server that gives AI agents a portable home for memory, keys, code, and automations on Cloudflare Workers. It offers a compact tool surface with powerful search and execute flows for multi-user personal assistant capabilities.

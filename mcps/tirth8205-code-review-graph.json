@@ -1,0 +1,7 @@
+{
+  "name": "tirth8205-code-review-graph",
+  "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+  "source_repo": "tirth8205/code-review-graph",
+  "source_url": "https://github.com/tirth8205/code-review-graph",
+  "install": "# git clone --depth 1 https://github.com/tirth8205/code-review-graph\n# See source for mcpServers config block"
+}

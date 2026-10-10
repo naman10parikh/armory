@@ -8,7 +8,7 @@ source_url: https://github.com/Dataojitori/nocturne_memory
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1388
+stars: 1389
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

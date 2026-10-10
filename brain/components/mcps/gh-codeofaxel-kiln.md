@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 17
-pushed_at: "2026-10-09T22:08:05Z"
+pushed_at: "2026-10-10T19:44:57Z"
 ---
 ## What it is
 MCP server `Kiln`, catalogued on PulseMCP. AI agent control of 3D printers for OctoPrint, Moonraker, Bambu, Prusa, and Elegoo.

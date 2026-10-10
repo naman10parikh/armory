@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-10T09:46:46Z"
+pushed_at: "2026-10-10T19:18:08Z"
 ---
 ## What it is
 Enables AI assistants to manage virtual machines, sandboxes, and dev environments through VirtualBox, Hyper-V, and Windows Sandbox, supporting VM lifecycle, ISO downloads, networking, and unattended installs.

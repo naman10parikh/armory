@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-10T01:11:17Z"
+pushed_at: "2026-10-10T21:41:18Z"
 ---
 ## What it is
 Enables interaction with EOD Historical Data APIs, providing access to 75 read-only tools for financial data including fundamentals, news, screeners, and options via MCP transports.

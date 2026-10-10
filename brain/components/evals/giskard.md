@@ -8,12 +8,12 @@ source_url: https://github.com/Giskard-AI/giskard
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 5885
+stars: 5887
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, safety, vulnerability, scan]
-forks: 551
+forks: 550
 pushed_at: "2026-10-09T04:45:52Z"
 ---
 ## What it is

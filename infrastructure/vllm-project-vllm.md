@@ -3,7 +3,7 @@ name: vllm-project-vllm
 type: infrastructure
 source_repo: vllm-project/vllm
 source_url: https://github.com/vllm-project/vllm
-license: unknown
+license: Apache-2.0
 ---
 # vllm-project-vllm
 

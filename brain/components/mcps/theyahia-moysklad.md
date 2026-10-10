@@ -8,11 +8,11 @@ source_url: https://github.com/theyahia/moysklad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2026-09-06T08:41:10Z"
 ---
 ## What it is

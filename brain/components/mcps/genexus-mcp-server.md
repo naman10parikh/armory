@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 27
-pushed_at: "2026-10-10T06:58:17Z"
+pushed_at: "2026-10-10T15:45:11Z"
 ---
 ## What it is
 Lets AI agents read, edit, analyze, and refactor objects inside a GeneXus 18 Knowledge Base via the native SDK.

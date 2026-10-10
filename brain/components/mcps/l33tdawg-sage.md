@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 29
-pushed_at: "2026-10-10T12:37:30Z"
+pushed_at: "2026-10-10T18:32:46Z"
 ---
 ## What it is
 MCP server `SAGE`, catalogued on PulseMCP. Persistent, consensus-validated institutional memory infrastructure for AI agents with BFT validation and confidence scoring.

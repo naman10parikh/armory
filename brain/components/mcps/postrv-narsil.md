@@ -8,7 +8,7 @@ source_url: https://github.com/postrv/narsil-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 183
+stars: 184
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

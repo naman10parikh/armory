@@ -8,7 +8,7 @@ source_url: https://github.com/brightdata/brightdata-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2668
+stars: 2669
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

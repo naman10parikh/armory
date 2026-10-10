@@ -8,7 +8,7 @@ source_url: https://github.com/qizhan7/wda-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

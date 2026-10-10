@@ -1,0 +1,7 @@
+{
+  "name": "redai-infra-hybrid-routing-agent",
+  "description": "Hybrid GUI + MCP computer-use agents with reinforcement learning for tool use and multimodal context compression on OSWorld. Includes training, inference, and evaluation pipelines.",
+  "source_repo": "redai-infra/hybrid-routing-agent",
+  "source_url": "https://github.com/redai-infra/hybrid-routing-agent",
+  "install": "# git clone --depth 1 https://github.com/redai-infra/hybrid-routing-agent\n# See source for mcpServers config block"
+}

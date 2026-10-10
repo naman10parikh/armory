@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 29
-pushed_at: "2026-10-09T07:27:36Z"
+pushed_at: "2026-10-10T19:27:30Z"
 ---
 ## What it is
 MCP server `Safari Automation`, catalogued on PulseMCP. Native Safari browser automation on macOS with 80 tools via AppleScript and JavaScript, requiring no external dependencies.

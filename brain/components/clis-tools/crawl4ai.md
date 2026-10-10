@@ -8,12 +8,12 @@ source_url: https://github.com/unclecode/crawl4ai
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 85134
+stars: 85161
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, crawl]
-forks: 8832
+forks: 8835
 pushed_at: "2026-10-05T11:26:42Z"
 ---
 ## What it is

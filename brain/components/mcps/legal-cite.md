@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-09T06:58:56Z"
+pushed_at: "2026-10-10T18:53:53Z"
 ---
 ## What it is
 Verifies legal citations by fetching the exact, in-force wording of cited articles from official PL and EU legal sources, preventing hallucination by returning verbatim text.

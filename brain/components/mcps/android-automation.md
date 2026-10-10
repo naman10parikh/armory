@@ -8,7 +8,7 @@ source_url: https://github.com/cursortouch/android-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 888
+stars: 889
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-06T13:21:37Z"
+pushed_at: "2026-10-10T18:07:49Z"
 ---
 ## What it is
 A local-first MCP adapter for Vicon Shogun Post that provides read-only inspection of motion-capture scenes, including subject markers and trajectory queries via the official SDK.

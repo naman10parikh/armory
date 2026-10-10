@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-26T22:52:48Z"
+pushed_at: "2026-10-10T22:54:01Z"
 ---
 ## What it is
 MCP server for CVX, enabling AI assistants to create, validate, and build professional CV PDFs from YAML content, with tools for schema retrieval, project initialization, validation, and rendering.

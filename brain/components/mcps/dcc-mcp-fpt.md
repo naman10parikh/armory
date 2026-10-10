@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-09T10:17:17Z"
+pushed_at: "2026-10-10T18:08:06Z"
 ---
 ## What it is
 Bridges AI assistants to Autodesk ShotGrid (Flow Production Tracking) data, enabling CRUD, search, batch operations, and schema exploration via typed MCP tools with progressive loading.

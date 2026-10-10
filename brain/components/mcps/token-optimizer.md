@@ -8,11 +8,11 @@ source_url: https://github.com/ooples/token-optimizer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 541
+stars: 543
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 67
+forks: 68
 pushed_at: "2026-10-09T22:08:06Z"
 ---
 ## What it is

@@ -8,14 +8,14 @@ source_url: https://github.com/BerriAI/litellm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 60868
+stars: 60909
 eval_score: null
 mentions: 6
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, cli]
-forks: 12208
-pushed_at: "2026-10-10T13:11:48Z"
+forks: 12216
+pushed_at: "2026-10-10T23:25:02Z"
 ---
 ## What it is
 The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]

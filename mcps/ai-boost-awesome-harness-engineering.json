@@ -1,0 +1,7 @@
+{
+  "name": "ai-boost-awesome-harness-engineering",
+  "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
+  "source_repo": "ai-boost/awesome-harness-engineering",
+  "source_url": "https://github.com/ai-boost/awesome-harness-engineering",
+  "install": "# git clone --depth 1 https://github.com/ai-boost/awesome-harness-engineering\n# See source for mcpServers config block"
+}

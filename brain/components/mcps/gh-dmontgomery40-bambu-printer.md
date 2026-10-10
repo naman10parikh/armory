@@ -8,12 +8,12 @@ source_url: https://github.com/dmontgomery40/bambu-printer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 186
+stars: 188
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 32
-pushed_at: "2026-10-05T15:39:50Z"
+pushed_at: "2026-10-10T20:47:37Z"
 ---
 ## What it is
 MCP server `Bambu Lab Printer`, catalogued on PulseMCP. Control Bambu Lab 3D printers with STL manipulation, BambuStudio slicing, and direct printer control via MQTT and FTPS.
