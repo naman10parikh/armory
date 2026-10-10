@@ -15,7 +15,7 @@ related: []
 tags: [evals, agents, browser, benchmark]
 forks: 248
 pushed_at: "2025-11-26T21:16:00Z"
-mentions: 1
+mentions: 2
 ---
 ## What it is
 WebArena: realistic web-based environment for evaluating autonomous agents on long-horizon browser interaction tasks.

@@ -8,7 +8,7 @@ source_url: https://github.com/awslabs/mcp-server-for-oscal
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

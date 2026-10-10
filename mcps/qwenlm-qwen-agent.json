@@ -1,0 +1,7 @@
+{
+  "name": "qwenlm-qwen-agent",
+  "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+  "source_repo": "QwenLM/Qwen-Agent",
+  "source_url": "https://github.com/QwenLM/Qwen-Agent",
+  "install": "# git clone --depth 1 https://github.com/QwenLM/Qwen-Agent\n# See source for mcpServers config block"
+}

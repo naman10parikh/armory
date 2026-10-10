@@ -8,7 +8,7 @@ source_url: https://github.com/jerry-ai-dev/MODULAR-RAG-MCP-SERVER
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1169
+stars: 1170
 eval_score: null
 verified_at: 2026-05-27
 related: []

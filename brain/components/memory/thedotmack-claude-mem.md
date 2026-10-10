@@ -8,13 +8,13 @@ source_url: https://github.com/thedotmack/claude-mem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 99112
+stars: 99219
 eval_score: null
-mentions: 6
+mentions: 7
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, cli]
-forks: 8679
+forks: 8692
 pushed_at: "2026-10-09T10:23:45Z"
 ---
 ## What it is

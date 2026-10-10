@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 17
-pushed_at: "2026-10-10T10:57:16Z"
+pushed_at: "2026-10-10T16:25:32Z"
 ---
 ## What it is
 Enables LLMs to search and analyze Swiss case law, legislation, and citation networks with 43 tools for decision search, statute lookup, citation graphs, legislative history, and exam question generation.

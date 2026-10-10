@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-10T13:08:41Z"
+pushed_at: "2026-10-10T20:16:14Z"
 ---
 ## What it is
 MCP governance server that lets AI agents build and maintain a persistent, versioned wiki of interlinked Markdown files through validated tools, enforcing invariants like linking, immutability, and one git commit per write.

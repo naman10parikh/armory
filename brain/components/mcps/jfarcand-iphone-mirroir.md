@@ -8,11 +8,11 @@ source_url: https://github.com/jfarcand/mirroir-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 247
+stars: 248
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 35
+forks: 36
 pushed_at: "2026-10-05T19:32:16Z"
 ---
 ## What it is

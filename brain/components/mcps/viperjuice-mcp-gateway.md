@@ -13,7 +13,7 @@ related: []
 tags: [mcp, aggregators]
 stars: 22
 forks: 4
-pushed_at: "2026-10-09T22:42:01Z"
+pushed_at: "2026-10-10T21:32:54Z"
 ---
 ## What it is
 A meta-server for minimal Claude Code tool bloat with progressive disclosure and dynamic server provisioning. Exposes 9 stable meta-tools, auto-starts Playwright and Context7, and can dynamically provision 25+ MCP servers on-demand from a curated manifest.

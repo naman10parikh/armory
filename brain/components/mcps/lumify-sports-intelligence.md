@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T20:49:04Z"
+pushed_at: "2026-10-10T15:29:32Z"
 ---
 ## What it is
 Schedules, scores, odds, splits & explainable AI bet confidence — 8+ sports, free instant key.

@@ -8,7 +8,7 @@ source_url: https://github.com/flux159/mcp-server-kubernetes
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1596
+stars: 1597
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

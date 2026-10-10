@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 57
-pushed_at: "2026-10-10T11:26:14Z"
+pushed_at: "2026-10-10T17:16:51Z"
 ---
 ## What it is
 MCP server `Email`, catalogued on PulseMCP. Full-featured IMAP/SMTP email client with multi-account support, scheduling, IMAP IDLE real-time watching, and AI-powered triage.

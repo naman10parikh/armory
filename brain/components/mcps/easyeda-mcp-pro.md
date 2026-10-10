@@ -8,12 +8,12 @@ source_url: https://github.com/oaslananka/easyeda-mcp-pro
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 53
+stars: 55
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
+forks: 10
 pushed_at: "2026-10-09T08:50:45Z"
 ---
 ## What it is

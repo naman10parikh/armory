@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T07:49:25Z"
+pushed_at: "2026-10-10T14:13:56Z"
 ---
 ## What it is
 Reference data layer for prediction markets: resolution-clarity grades (A/B/C), named resolution sources with provenance, cross-venue linking, and per-contract eligibility screens across Kalshi and Polymarket. Open,read-only, no key required.

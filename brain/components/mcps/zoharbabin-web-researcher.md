@@ -8,11 +8,11 @@ source_url: https://github.com/zoharbabin/web-researcher-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 9
 pushed_at: "2026-10-06T19:23:09Z"
 ---
 ## What it is

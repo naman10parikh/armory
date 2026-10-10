@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 51
-pushed_at: "2026-10-10T11:49:11Z"
+pushed_at: "2026-10-10T18:00:06Z"
 ---
 ## What it is
 Persistent, secure LXC sandbox environments for AI agents with native MCP support.

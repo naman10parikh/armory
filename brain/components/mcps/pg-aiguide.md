@@ -8,7 +8,7 @@ source_url: https://github.com/timescale/pg-aiguide
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1861
+stars: 1863
 eval_score: null
 verified_at: 2026-05-27
 related: []

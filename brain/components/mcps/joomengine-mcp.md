@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-10T11:39:34Z"
+pushed_at: "2026-10-10T23:20:36Z"
 ---
 ## What it is
 An embeddable library and self-hosted MCP server for administering Joomla 6.x through bounded, auditable semantic actions via the Joomla Web Services API or a native companion plugin.

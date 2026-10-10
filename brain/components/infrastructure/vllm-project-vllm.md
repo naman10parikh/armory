@@ -5,9 +5,9 @@ description: >
   A high-throughput and memory-efficient inference and serving engine for LLMs
 source_repo: vllm-project/vllm
 source_url: https://github.com/vllm-project/vllm
-license: unknown
+license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
-maturity: experimental
+maturity: stable
 stars: 93327
 eval_score: null
 mentions: 15

@@ -16,6 +16,7 @@ related: [slack-mcp, context7-mcp]
 tags: [github, vcs, issues, pull-requests, integration]
 forks: 5103
 pushed_at: "2026-10-07T08:10:08Z"
+mentions: 2
 ---
 
 ## What it is

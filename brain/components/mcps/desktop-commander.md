@@ -8,11 +8,11 @@ source_url: https://github.com/wonderwhy-er/desktopcommandermcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9989
+stars: 9995
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1259
+forks: 1260
 pushed_at: "2026-10-08T13:18:17Z"
 ---
 ## What it is

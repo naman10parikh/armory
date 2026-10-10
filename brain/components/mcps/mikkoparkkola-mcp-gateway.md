@@ -13,7 +13,7 @@ related: []
 tags: [mcp, aggregators]
 stars: 78
 forks: 19
-pushed_at: "2026-10-10T13:12:46Z"
+pushed_at: "2026-10-10T23:26:19Z"
 ---
 ## What it is
 Universal MCP gateway with single-port multiplexing and Meta-MCP. 4 meta-tools replace 100+ registrations, saving 95% context window. Hot-reloadable capabilities, OpenAPI auto-import, 42 starter capabilities (25 zero-config).

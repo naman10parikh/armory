@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T04:42:52Z"
+pushed_at: "2026-10-10T16:48:39Z"
 ---
 ## What it is
 Enables agents to recommend the best credit card for a given store or category, look up merchant coding, search cards, and inspect rotating bonus calendars using verified reward data.

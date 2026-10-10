@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T11:25:43Z"
+pushed_at: "2026-10-10T15:22:51Z"
 ---
 ## What it is
 Enables MCP clients to control a Minecraft survival character via Mineflayer, with a web UI, viewer, and custom TypeScript script execution.

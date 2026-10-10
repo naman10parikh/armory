@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T14:44:54Z"
+pushed_at: "2026-10-10T14:02:14Z"
 ---
 ## What it is
 An MCP server providing 32 marketing intelligence tools for competitive analysis, content generation, campaign management, and analytics, enabling MCP-compatible agents to execute marketing operations natively.

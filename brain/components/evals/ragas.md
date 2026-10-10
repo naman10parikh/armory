@@ -15,7 +15,7 @@ related: []
 tags: [evals, rag, metrics]
 forks: 1750
 pushed_at: "2026-02-24T07:47:19Z"
-mentions: 1
+mentions: 2
 ---
 ## What it is
 Reference-free evaluation of retrieval-augmented generation pipelines; measures faithfulness, answer relevance, and context precision.

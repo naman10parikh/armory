@@ -8,12 +8,12 @@ source_url: https://github.com/basicmachines-co/basic-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4128
+stars: 4132
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 306
-pushed_at: "2026-10-10T02:31:08Z"
+pushed_at: "2026-10-10T23:18:29Z"
 ---
 ## What it is
 MCP server `Basic Memory`, catalogued on PulseMCP. Knowledge management system that builds a persistent semantic graph in markdown, locally.

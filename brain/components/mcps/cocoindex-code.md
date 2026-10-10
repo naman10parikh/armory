@@ -8,12 +8,12 @@ source_url: https://github.com/cocoindex-io/cocoindex-code
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2830
+stars: 2843
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 234
+forks: 235
 pushed_at: "2026-10-06T23:03:34Z"
 ---
 ## What it is

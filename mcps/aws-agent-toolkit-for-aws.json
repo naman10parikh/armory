@@ -1,0 +1,7 @@
+{
+  "name": "aws-agent-toolkit-for-aws",
+  "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+  "source_repo": "aws/agent-toolkit-for-aws",
+  "source_url": "https://github.com/aws/agent-toolkit-for-aws",
+  "install": "# git clone --depth 1 https://github.com/aws/agent-toolkit-for-aws\n# See source for mcpServers config block"
+}

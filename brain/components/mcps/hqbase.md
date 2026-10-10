@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 37
-pushed_at: "2026-10-10T13:06:59Z"
+pushed_at: "2026-10-10T14:01:17Z"
 ---
 ## What it is
 Provides a self-hosted shared email workspace with team access controls, multi-domain support, drafts, audit history, and an OAuth-protected MCP server, all running on your own Cloudflare infrastructure.

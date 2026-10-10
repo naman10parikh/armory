@@ -8,13 +8,13 @@ source_url: https://github.com/semantica-agi/semantica
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 13899
+stars: 13907
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 1599
+forks: 1600
 pushed_at: "2026-10-10T10:45:24Z"
 ---
 ## What it is

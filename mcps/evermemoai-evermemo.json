@@ -1,0 +1,7 @@
+{
+  "name": "evermemoai-evermemo",
+  "description": "A tiny, universal memory engine for humans and AI agents — CLI, HTTP API, MCP server, and shared memory hub in one small Go binary",
+  "source_repo": "Evermemoai/evermemo",
+  "source_url": "https://github.com/Evermemoai/evermemo",
+  "install": "# git clone --depth 1 https://github.com/Evermemoai/evermemo\n# See source for mcpServers config block"
+}
